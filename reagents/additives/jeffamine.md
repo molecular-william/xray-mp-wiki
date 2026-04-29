@@ -42,6 +42,6 @@ Jeffamine M600 is a polyethylene glycol-polypropylene glycol block copolymer (PE
 
 ## Related Precipitants
 
-- [peg-400](/reagents/additives/peg-400/) — PEG 400, low-MW linear precipitant
-- [peg-6000](/reagents/additives/peg-6000/) — PEG 6000, high-MW linear precipitant
-- [li2so4](/reagents/additives/li2so4/) — Lithium sulfate, kosmotropic salt precipitant
+- [peg-400](/reagents/additives/peg-400.html) — PEG 400, low-MW linear precipitant
+- [peg-6000](/reagents/additives/peg-6000.html) — PEG 6000, high-MW linear precipitant
+- [li2so4](/reagents/additives/li2so4.html) — Lithium sulfate, kosmotropic salt precipitant

@@ -96,7 +96,7 @@ The native PorB is proposed to be a **pentamer (C₅ symmetry)** based on:
 
 ## Related Channels
 
-- [acrB](/proteins/acrB/) — Tripartite multidrug efflux pump from *E. coli*
+- [acrB](/proteins/acrB.html) — Tripartite multidrug efflux pump from *E. coli*
 - [ion-channels](/concepts/ion-channels/) — General ion channel class
 
 ## Cross-References

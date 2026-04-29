@@ -29,7 +29,7 @@ LCP crystallization (also called in meso crystallization) embeds membrane protei
 
 ## Protocol (Twin-Syringe Mixing)
 
-1. Prepare [monoolein](/methods/crystallization/monoolein/) lipid phase
+1. Prepare [monoolein](/methods/crystallization/monoolein.html) lipid phase
 2. Mix protein solution with lipid using twin-syringe method
 3. Load LCP into glass sandwich plates
 4. Set up against crystallization reservoir (typically 30 nL LCP over 1 μL reservoir)
@@ -52,5 +52,5 @@ LCP crystallization (also called in meso crystallization) embeds membrane protei
 
 ## Related Methods
 
-- [vapor-diffusion](/methods/crystallization/vapor-diffusion/) — conventional sitting-drop or hanging-drop method
-- [microbatch](/methods/crystallization/microbatch/) — oil-overlay crystallization method
+- [vapor-diffusion](/methods/crystallization/vapor-diffusion.html) — conventional sitting-drop or hanging-drop method
+- [microbatch](/methods/crystallization/microbatch.html) — oil-overlay crystallization method

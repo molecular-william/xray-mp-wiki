@@ -88,7 +88,7 @@ The occluded state creates an unstable TM1 configuration — neither kinked nor 
 
 ## Cross-References
 
-- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — Another LCP-crystallized transporter; shows conformational plasticity
+- [nTMATE2-transporter](/proteins/nTMATE2-transporter.html) — Another LCP-crystallized transporter; shows conformational plasticity
 - [xray-crystallography](/methods/structure-determination/xray-crystallography/) — Structure determination method
 - [molecular-replacement](/methods/structure-determination/molecular-replacement/) — Phasing method used
 - [monoolein](/methods/crystallization/monoolein/) — [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) matrix for LCP crystallization
@@ -96,6 +96,6 @@ The occluded state creates an unstable TM1 configuration — neither kinked nor 
 - [ddm](/reagents/detergents/ddm/) — Solubilization detergent
 - [superdex-columns](/methods/purification/superdex-columns/) — SEC column type
 - [glucose](/reagents/ligands/glucose/) — Substrate
-- [sotb](/proteins/sotb/) — E. coli MFS transporter; rocker-switch mechanism
+- [sotb](/proteins/sotb.html) — E. coli MFS transporter; rocker-switch mechanism
 - [mfs-transporter](/concepts/mfs-transporter/) — Major facilitator superfamily
-- [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) — Mitochondrial carrier with [alternating-access](/concepts/alternating-access/)
+- [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter.html) — Mitochondrial carrier with [alternating-access](/concepts/alternating-access/)

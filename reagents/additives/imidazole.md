@@ -32,7 +32,7 @@ Imidazole is used primarily as an elution agent in His-tag affinity chromatograp
 - [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — used with TALON cobalt affinity resin:
   - Wash buffer: 20-40 mM imidazole pH 8.0 (removes weakly bound contaminants)
   - Elution buffer: 200 mM imidazole pH 8.0 (releases His-tagged NtMATE2)
-  - Buffer system: 300 mM NaCl, 50 mM HEPES-Na pH 7.0, 5% [glycerol](/reagents/additives/glycerol/), 0.05% DDM
+  - Buffer system: 300 mM NaCl, 50 mM HEPES-Na pH 7.0, 5% [glycerol](/reagents/additives/glycerol.html), 0.05% DDM
 
 ## Proteins Using Imidazole (from raw papers, not yet in wiki)
 

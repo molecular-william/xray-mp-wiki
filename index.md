@@ -16,10 +16,10 @@ Content catalog. Every wiki page listed under its type with a one-line summary.
 ## Quick Links
 
 - **[Categories]** - Browse all categories
-  - [Proteins](/categories/proteins/) - All protein pages
-  - [Reagents](/categories/reagents/) - All reagent pages (detergents, buffers, additives, lipids, ligands, tags, antibodies)
-  - [Methods](/categories/methods/) - All method pages
-  - [Concepts](/categories/concepts/) - All concept pages
+  - [Proteins](/categories/proteins.html) - All protein pages
+  - [Reagents](/categories/reagents.html) - All reagent pages (detergents, buffers, additives, lipids, ligands, tags, antibodies)
+  - [Methods](/categories/methods.html) - All method pages
+  - [Concepts](/categories/concepts.html) - All concept pages
 - **[Search]**({{ '/search' | relative_url }}) - Search the wiki
 - **[Random Page]**({{ '/random' | relative_url }}) - Discover a random page
 - **[Wiki Health]**({{ '/health' | relative_url }}) - Check wiki statistics
@@ -28,10 +28,10 @@ Content catalog. Every wiki page listed under its type with a one-line summary.
 
 ## Concepts
 
-- [alternating-access](/concepts/alternating-access/) - Alternating Access Mechanism
-- [bril-fusion](/concepts/bril-fusion/) - BRIL Fusion Technology
-- [cora-mg-transporter](/concepts/cora-mg-transporter/) - CorA Mg²⁺ Transporter
-- [dha-antiporter](/concepts/dha-antiporter/) - Drug-Proton Antiporters (DHA)
-- [ion-channels](/concepts/ion-channels/) - Ion Channels
-- [metal-ion-transporter](/concepts/metal-ion-transporter/) - Metal Ion Transporter (MIT) Superfamily
-- [mfs-transporter](/concepts/mfs-transporter/) - MFS Transporter
+- [alternating-access](/concepts/alternating-access.html) - Alternating Access Mechanism
+- [bril-fusion](/concepts/bril-fusion.html) - BRIL Fusion Technology
+- [cora-mg-transporter](/concepts/cora-mg-transporter.html) - CorA Mg²⁺ Transporter
+- [dha-antiporter](/concepts/dha-antiporter.html) - Drug-Proton Antiporters (DHA)
+- [ion-channels](/concepts/ion-channels.html) - Ion Channels
+- [metal-ion-transporter](/concepts/metal-ion-transporter.html) - Metal Ion Transporter (MIT) Superfamily
+- [mfs-transporter](/concepts/mfs-transporter.html) - MFS Transporter

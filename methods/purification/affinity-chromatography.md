@@ -70,7 +70,7 @@ TALON cobalt resin (Co²⁺) has higher selectivity than Ni-NTA for His-tagged p
 
 ## Related Methods
 
-- [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography/) — SEC after affinity capture
-- [talon-resin](/methods/purification/talon-resin/) — TALON cobalt resin details
-- [superdex-columns](/methods/purification/superdex-columns/) — Superdex SEC columns
+- [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography.html) — SEC after affinity capture
+- [talon-resin](/methods/purification/talon-resin.html) — TALON cobalt resin details
+- [superdex-columns](/methods/purification/superdex-columns.html) — Superdex SEC columns
 - [tev-protease](/reagents/protein-tags/tev-protease/) — Tag removal after affinity purification

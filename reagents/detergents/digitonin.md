@@ -42,6 +42,6 @@ Digitonin (High Purity, MilliporeSigma) was used for the cryo-EM sample preparat
 
 ## Related Detergents
 
-- [gdn](/reagents/detergents/gdn/) — Glyco-Diosgenin, another steroidal glycoside for cryo-EM
+- [gdn](/reagents/detergents/gdn.html) — Glyco-Diosgenin, another steroidal glycoside for cryo-EM
 - Maltose Neopentyl Glycol — Maltose neopentyl glycol, extremely mild for GPCR stabilization
-- [ddm](/reagents/detergents/ddm/) — n-Dodecyl-β-D-maltopyranoside, standard mild detergent
+- [ddm](/reagents/detergents/ddm.html) — n-Dodecyl-β-D-maltopyranoside, standard mild detergent

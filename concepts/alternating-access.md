@@ -19,7 +19,7 @@ layout: default
 
 ## Overview
 
-The alternating access mechanism is the fundamental principle by which secondary transporters move substrates across membranes. Rather than forming a continuous pore (like [ion-channels](/concepts/ion-channels/)s), transporters alternate between conformations where the substrate binding site is accessible from one side of the membrane or the other, never both simultaneously.
+The alternating access mechanism is the fundamental principle by which secondary transporters move substrates across membranes. Rather than forming a continuous pore (like [ion-channels](/concepts/ion-channels.html)s), transporters alternate between conformations where the substrate binding site is accessible from one side of the membrane or the other, never both simultaneously.
 
 ## Three Canonical States
 
@@ -71,7 +71,7 @@ Recent structural studies (e.g., SotB) suggest that the alternating access trans
 
 |## Related Concepts
 |
-|- [mfs-transporter](/concepts/mfs-transporter/) — Major Facilitator Superfamily overview
+|- [mfs-transporter](/concepts/mfs-transporter.html) — Major Facilitator Superfamily overview
 |- [sotb](/proteins/sotb/) — E. coli antiporter with 4 captured conformations
 |- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — MATE family transporter
 |- [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) — Mitochondrial carrier with domain rotation
@@ -79,7 +79,7 @@ Recent structural studies (e.g., SotB) suggest that the alternating access trans
 ## See Also
 
 ### Related Concepts
-- [mfs-transporter](/concepts/mfs-transporter/) — Major Facilitator Superfamily overview
+- [mfs-transporter](/concepts/mfs-transporter.html) — Major Facilitator Superfamily overview
 - [sotb](/proteins/sotb/) — E. coli antiporter with 4 captured conformations
 - [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — MATE family transporter
 - [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) — Mitochondrial carrier with domain rotation

@@ -32,10 +32,10 @@ BKA binds in the ADP/ATP-binding site at the bottom of the central cavity of the
 ## Use in Structural Biology
 
 BKA was used to solve the first matrix-open state structure of the AAC:
-- TtAac (from *Thermothelomyces thermophila*) + BKA + [nanobody](/reagents/antibodies/nanobody/) → 3.3 Å structure
+- TtAac (from *Thermothelomyces thermophila*) + BKA + [nanobody](/reagents/antibodies/nanobody.html) → 3.3 Å structure
 - BKA occupies the substrate-binding site at the center of the membrane, providing a clear view of the m-state conformation
 
 ## Cross-References
 
 - [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) — Primary target; BKA locks the m-state
-- [carboxyatractyloside](/reagents/ligands/carboxyatractyloside/) — Alternative AAC inhibitor; locks the c-state (opposite state from BKA)
+- [carboxyatractyloside](/reagents/ligands/carboxyatractyloside.html) — Alternative AAC inhibitor; locks the c-state (opposite state from BKA)

@@ -53,7 +53,7 @@ Selatogrel acts as a potent inverse agonist of the P2Y12 receptor:
 
 ## Related Ligands
 
-- [ticagrelor](/reagents/ligands/ticagrelor/) — Reversible P2Y12 antagonist, inverse agonist
-- [elinogrel](/reagents/ligands/elinogrel/) — Reversible P2Y12 inverse agonist
-- [clopidogrel](/reagents/ligands/clopidogrel/) — Irreversible P2Y12 antagonist, prodrug
+- [ticagrelor](/reagents/ligands/ticagrelor.html) — Reversible P2Y12 antagonist, inverse agonist
+- [elinogrel](/reagents/ligands/elinogrel.html) — Reversible P2Y12 inverse agonist
+- [clopidogrel](/reagents/ligands/clopidogrel.html) — Irreversible P2Y12 antagonist, prodrug
 - [p2y12-receptor](/proteins/p2y12-receptor/) — P2Y12 receptor page

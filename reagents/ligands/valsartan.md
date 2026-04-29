@@ -20,7 +20,7 @@ layout: default
 ## Chemical Properties
 
 - **Class**: Angiotensin receptor blocker (ARB), non-peptide antagonist
-- **Scaffold**: Biphenyl with [imidazole](/reagents/additives/imidazole/) and carboxylic acid groups
+- **Scaffold**: Biphenyl with [imidazole](/reagents/additives/imidazole.html) and carboxylic acid groups
 - **Relation**: Clinically used anti-hypertensive drug (one of the most widely prescribed ARBs)
 
 ## Binding to AT1R
@@ -50,8 +50,8 @@ Valsartan binds to the ligand-binding pocket of the human angiotensin II type 1 
 
 ## Related Ligands
 
-- [losartan](/reagents/ligands/losartan/) — First ARB; surmountable antagonist
-- [candesartan](/reagents/ligands/candesartan/) — Insurmountable inverse agonist
-- [telmisartan](/reagents/ligands/telmisartan/) — Clinically used ARB
-- [irbesartan](/reagents/ligands/irbesartan/) — Clinically used ARB
-- [zd7155](/reagents/ligands/zd7155/) — High-affinity antagonist, precursor to candesartan
+- [losartan](/reagents/ligands/losartan.html) — First ARB; surmountable antagonist
+- [candesartan](/reagents/ligands/candesartan.html) — Insurmountable inverse agonist
+- [telmisartan](/reagents/ligands/telmisartan.html) — Clinically used ARB
+- [irbesartan](/reagents/ligands/irbesartan.html) — Clinically used ARB
+- [zd7155](/reagents/ligands/zd7155.html) — High-affinity antagonist, precursor to candesartan

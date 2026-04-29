@@ -75,13 +75,13 @@ Various detergents were tested for their ability to occupy the retinal-binding p
 
 ## Related GPCRs
 
-- [bovine-rhodopsin](/proteins/bovine-rhodopsin/) — Dark state rhodopsin (11-cis-retinal-bound) in trigonal crystal form; native bovine source and recombinant N2C/D282C mutant (first recombinant GPCR structure)
-- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — Class A GPCR with extensive structural biology
-- [5ht2b-receptor](/proteins/5ht2b-receptor/) — Serotonin GPCR with BRIL fusion
-- [etb-receptor](/proteins/etb-receptor/) — Endothelin GPCR with thermostabilization
-- [kappa-opioid-receptor](/proteins/kappa-opioid-receptor/) — Opioid GPCR with nanobody stabilization
-- [lpa1-receptor](/proteins/lpa1-receptor/) — GPCR with spherical binding pocket
-- [p2y12-receptor](/proteins/p2y12-receptor/) — Platelet GPCR with LCP crystallization
+- [bovine-rhodopsin](/proteins/bovine-rhodopsin.html) — Dark state rhodopsin (11-cis-retinal-bound) in trigonal crystal form; native bovine source and recombinant N2C/D282C mutant (first recombinant GPCR structure)
+- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor.html) — Class A GPCR with extensive structural biology
+- [5ht2b-receptor](/proteins/5ht2b-receptor.html) — Serotonin GPCR with BRIL fusion
+- [etb-receptor](/proteins/etb-receptor.html) — Endothelin GPCR with thermostabilization
+- [kappa-opioid-receptor](/proteins/kappa-opioid-receptor.html) — Opioid GPCR with nanobody stabilization
+- [lpa1-receptor](/proteins/lpa1-receptor.html) — GPCR with spherical binding pocket
+- [p2y12-receptor](/proteins/p2y12-receptor.html) — Platelet GPCR with LCP crystallization
 
 ## Cross-References
 

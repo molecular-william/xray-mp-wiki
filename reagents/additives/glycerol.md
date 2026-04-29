@@ -36,7 +36,7 @@ Glycerol is a viscous polyol used as a protein stabilizer and cryoprotectant in 
 
 ## Related Stabilizers
 
-- [cholesterol-hydrogen-succinate](/reagents/lipids/cholesterol-hydrogen-succinate/) — CHS for membrane protein stabilization
-- [lmng](/reagents/detergents/lmng/) — mild detergent provides membrane-mimetic stabilization
+- [cholesterol-hydrogen-succinate](/reagents/lipids/cholesterol-hydrogen-succinate.html) — CHS for membrane protein stabilization
+- [lmng](/reagents/detergents/lmng.html) — mild detergent provides membrane-mimetic stabilization
 - [acrB](/proteins/acrB/) — 10% glycerol in solubilization buffer (50 mM Tris-HCl pH 7.0, 2% DDM); 10% glycerol in cryosolvent for crystal freezing
 - [etb-receptor](/proteins/etb-receptor/) — 20% glycerol in cell lysis buffer (20 mM Tris-HCl pH 7.5)

@@ -35,7 +35,7 @@ While this wiki focuses on X-ray crystallography reagents, cryo-EM is increasing
 
 - **Same solubilization reagents**: Detergents (DDM, LMNG, [gdn](/reagents/detergents/gdn/)) used for both techniques
 - **GDN (GlycoDiosgenin)**: Specifically mentioned as extremely mild for cryo-EM sample prep
-- **[lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/)**: Both cryo-EM and crystallography use lipidic cubic phase
+- **[lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase.html)**: Both cryo-EM and crystallography use lipidic cubic phase
 - **Vitrification**: Flash-freezing in liquid nitrogen used in both (cryo-EM) and X-ray crystallography
 
 ## When Cryo-EM Is Preferred
@@ -47,6 +47,6 @@ While this wiki focuses on X-ray crystallography reagents, cryo-EM is increasing
 
 ## Related Structural Methods
 
-- [xray-crystallography](/methods/structure-determination/xray-crystallography/) — Primary method in this wiki
-- [molecular-replacement](/methods/structure-determination/molecular-replacement/) — Phasing method (also used in cryo-EM)
-- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) — [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) used for both cryo-EM and crystallography
+- [xray-crystallography](/methods/structure-determination/xray-crystallography.html) — Primary method in this wiki
+- [molecular-replacement](/methods/structure-determination/molecular-replacement.html) — Phasing method (also used in cryo-EM)
+- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase.html) — [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase.html) used for both cryo-EM and crystallography

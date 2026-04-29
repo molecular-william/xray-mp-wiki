@@ -100,9 +100,9 @@ The uridine binding site is in the central cavity between N and C domains:
 
 ## Cross-References
 
-- [sotb](/proteins/sotb/) — E. coli MFS antiporter; rocker-switch mechanism
-- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — MATE family transporter; [alternating-access](/concepts/alternating-access/)
-- [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) — Mitochondrial carrier (different family)
+- [sotb](/proteins/sotb.html) — E. coli MFS antiporter; rocker-switch mechanism
+- [nTMATE2-transporter](/proteins/nTMATE2-transporter.html) — MATE family transporter; [alternating-access](/concepts/alternating-access/)
+- [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter.html) — Mitochondrial carrier (different family)
 - [mfs-transporter](/concepts/mfs-transporter/) — Major facilitator superfamily
 - [ddm](/reagents/detergents/ddm/) — Solubilization detergent
 - [ng](/reagents/detergents/ng/) — Detergent used in purification

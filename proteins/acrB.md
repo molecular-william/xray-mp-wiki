@@ -60,8 +60,8 @@ A local conformational change of up to 4 Å in backbone position was observed at
 
 ## Related Transporters
 
-- [mmpL3](/proteins/mmpL3/) — Mycobacterial drug transporter (anti-TB drug target)
-- [sotb](/proteins/sotb/) — E. coli antiporter (MFS family)
+- [mmpL3](/proteins/mmpL3.html) — Mycobacterial drug transporter (anti-TB drug target)
+- [sotb](/proteins/sotb.html) — E. coli antiporter (MFS family)
 
 ## References
 

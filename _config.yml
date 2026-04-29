@@ -9,19 +9,19 @@ permalink: pretty
 collections:
   proteins:
     output: true
-    permalink: /proteins/:name/
+    permalink: /proteins/:name.html
   reagents:
     output: true
-    permalink: /reagents/:name/
+    permalink: /reagents/:name.html
   methods:
     output: true
-    permalink: /methods/:name/
+    permalink: /methods/:name.html
   concepts:
     output: true
-    permalink: /concepts/:name/
+    permalink: /concepts/:name.html
   categories:
     output: true
-    permalink: /categories/:name/
+    permalink: /categories/:name.html
 
 defaults:
   - scope:

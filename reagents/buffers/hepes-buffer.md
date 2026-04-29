@@ -32,5 +32,5 @@ HEPES is a zwitterionic Good's buffer commonly used in membrane protein purifica
 
 ## Related Buffers
 
-- [tris-buffer](/reagents/buffers/tris-buffer/) — Tris-HCl used at pH 8.0 for expression
-- [li2so4](/reagents/additives/li2so4/) — used with HEPES in crystallization
+- [tris-buffer](/reagents/buffers/tris-buffer.html) — Tris-HCl used at pH 8.0 for expression
+- [li2so4](/reagents/additives/li2so4.html) — used with HEPES in crystallization

@@ -92,7 +92,7 @@ The external subdomain of SARS-CoV-2-CTD contains key residues that contact hACE
 
 ## Cross-References
 
-- [ace2](/proteins/ace2/) — hACE2 receptor binding partner
+- [ace2](/proteins/ace2.html) — hACE2 receptor binding partner
 - [peg-5000](/reagents/additives/peg-5000/) — PEG 5000 MME crystallization precipitant
 - [mes-buffer](/reagents/buffers/mes-buffer/) — MES buffer for crystallization
 - [glycerol](/reagents/additives/glycerol/) — Cryoprotectant

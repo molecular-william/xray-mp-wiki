@@ -20,7 +20,7 @@ layout: default
 ## Chemical Properties
 
 - **Class**: Non-ionic detergent (steroidal glycoside)
-- **Structure**: Diosgenin (steroidal aglycone) + [glucose](/reagents/ligands/glucose/) headgroup
+- **Structure**: Diosgenin (steroidal aglycone) + [glucose](/reagents/ligands/glucose.html) headgroup
 
 ## Uses in Membrane Protein Work
 
@@ -32,5 +32,5 @@ GDN is an extremely mild detergent used primarily for cryo-EM sample preparation
 
 ## Related Detergents
 
-- [ddm](/reagents/detergents/ddm/) — initial solubilization, replaced by GDN for cryo-EM
-- [lmng](/reagents/detergents/lmng/) — mild non-ionic detergent for crystallization
+- [ddm](/reagents/detergents/ddm.html) — initial solubilization, replaced by GDN for cryo-EM
+- [lmng](/reagents/detergents/lmng.html) — mild non-ionic detergent for crystallization

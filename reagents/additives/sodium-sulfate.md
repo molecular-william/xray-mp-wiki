@@ -31,5 +31,5 @@ Sodium sulfate (Na2SO4) is a salt used in protein crystallization screens. It is
 ## Cross-References
 
 - [secyeg-translocon](/proteins/secyeg-translocon/) — SecYEG crystallized with Na2SO4
-- [magnesium-sulfate](/reagents/additives/magnesium-sulfate/) — MgSO4 (often paired with Na2SO4)
-- [sodium-chloride](/reagents/additives/sodium-chloride/) — Alternative salt
+- [magnesium-sulfate](/reagents/additives/magnesium-sulfate.html) — MgSO4 (often paired with Na2SO4)
+- [sodium-chloride](/reagents/additives/sodium-chloride.html) — Alternative salt

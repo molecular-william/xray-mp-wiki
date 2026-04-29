@@ -37,6 +37,6 @@ Ticagrelor is a reversible, orally active [p2y12-receptor](/proteins/p2y12-recep
 
 ## Related [p2y12-receptor](/proteins/p2y12-receptor/) Ligands
 
-- [selatogrel](/reagents/ligands/selatogrel/) — More potent inverse agonist
-- [elinogrel](/reagents/ligands/elinogrel/) — Another reversible antagonist with inverse agonism
-- [clopidogrel](/reagents/ligands/clopidogrel/) — Irreversible antagonist
+- [selatogrel](/reagents/ligands/selatogrel.html) — More potent inverse agonist
+- [elinogrel](/reagents/ligands/elinogrel.html) — Another reversible antagonist with inverse agonism
+- [clopidogrel](/reagents/ligands/clopidogrel.html) — Irreversible antagonist

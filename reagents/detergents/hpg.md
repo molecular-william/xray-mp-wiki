@@ -22,19 +22,19 @@ Heptylglucoside (HpG, n-heptyl β-D-glucopyranoside) is a short-chain alkyl gluc
 
 - **Chain length**: C7 (heptyl)
 - **Type**: Non-ionic alkyl glucoside
-- **CMC**: Higher than [og](/reagents/detergents/og/) and [ng](/reagents/detergents/ng/) due to shortest chain
+- **CMC**: Higher than [og](/reagents/detergents/og.html) and [ng](/reagents/detergents/ng.html) due to shortest chain
 - **Use**: Detergent screening, solubilization
 
 ## Proteins Using HpG (from this wiki)
 
-- [opsin-gpcr](/proteins/opsin-gpcr/) — HpG tested alongside [og](/reagents/detergents/og/) and [ng](/reagents/detergents/ng/) in detergent screening
-  - Inhibition of ligand-binding pocket occupation: HpG < [ng](/reagents/detergents/ng/) < OG (chain-length dependent)
+- [opsin-gpcr](/proteins/opsin-gpcr/) — HpG tested alongside [og](/reagents/detergents/og.html) and [ng](/reagents/detergents/ng.html) in detergent screening
+  - Inhibition of ligand-binding pocket occupation: HpG < [ng](/reagents/detergents/ng.html) < OG (chain-length dependent)
   - Shortest chain tested, showed minimal effect on pocket occupation
   - Demonstrated that hydrophobic interaction strength correlates with chain length
 
 ## Related Detergents
 
-- [og](/reagents/detergents/og/) — Octylglucoside (C8), used to solubilize [opsin-gpcr](/proteins/opsin-gpcr/)
-- [ng](/reagents/detergents/ng/) — Nonylglucoside (C9), intermediate chain length
-- [ddm](/reagents/detergents/ddm/) — Dodecyl-β-D-maltopyranoside (C12), much longer chain
-- [lmng](/reagents/detergents/lmng/) — Lauryl Maltose Neopentyl Glycol (C12), ultra-mild
+- [og](/reagents/detergents/og.html) — Octylglucoside (C8), used to solubilize [opsin-gpcr](/proteins/opsin-gpcr/)
+- [ng](/reagents/detergents/ng.html) — Nonylglucoside (C9), intermediate chain length
+- [ddm](/reagents/detergents/ddm.html) — Dodecyl-β-D-maltopyranoside (C12), much longer chain
+- [lmng](/reagents/detergents/lmng.html) — Lauryl Maltose Neopentyl Glycol (C12), ultra-mild

@@ -57,7 +57,7 @@ X-ray crystallography is the most widely used method for determining atomic-reso
 
 ## Related Methods
 
-- [molecular-replacement](/methods/structure-determination/molecular-replacement/) — phasing from homologous model
-- [cryoem](/methods/structure-determination/cryoem/) — single particle cryo-EM alternative
-- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization method
-- [vapor-diffusion](/methods/crystallization/vapor-diffusion/) — vapor diffusion method
+- [molecular-replacement](/methods/structure-determination/molecular-replacement.html) — phasing from homologous model
+- [cryoem](/methods/structure-determination/cryoem.html) — single particle cryo-EM alternative
+- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase.html) — LCP crystallization method
+- [vapor-diffusion](/methods/crystallization/vapor-diffusion.html) — vapor diffusion method

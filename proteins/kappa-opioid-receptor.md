@@ -95,7 +95,7 @@ KOP engages both G protein (Gαi1) and β-arrestin2 signaling pathways. [nanobod
 
 ## Cross-References
 
-- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — Another class A GPCR with nanobody/stabilizer approach (Rag31, PSB1-bRIL)
-- [p2y12-receptor](/proteins/p2y12-receptor/) — GPCR with ligand-bound structure showing pocket plasticity
-- [5ht2b-receptor](/proteins/5ht2b-receptor/) — Serotonin GPCR with [bril](/reagents/protein-tags/bril/) fusion and [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) crystallization
+- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor.html) — Another class A GPCR with nanobody/stabilizer approach (Rag31, PSB1-bRIL)
+- [p2y12-receptor](/proteins/p2y12-receptor.html) — GPCR with ligand-bound structure showing pocket plasticity
+- [5ht2b-receptor](/proteins/5ht2b-receptor.html) — Serotonin GPCR with [bril](/reagents/protein-tags/bril/) fusion and [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) crystallization
 - [fab-fragments](/reagents/antibodies/fab-fragments/) — Antibody fragments for GPCR stabilization (alternative to nanobodies)

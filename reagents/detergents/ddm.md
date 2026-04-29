@@ -45,18 +45,18 @@ DDM is one of the most widely used non-ionic detergents for membrane protein sol
 
 ## Related Detergents
 
-- [lmng](/reagents/detergents/lmng/) — milder, neopentyl glycol-based alternative
-- [og](/reagents/detergents/og/) — shorter chain (octyl), used for GPCR crystallization
-- [lDAO](/reagents/detergents/lDAO/) — zwitterionic detergent, resolved in early RC crystal structure
+- [lmng](/reagents/detergents/lmng.html) — milder, neopentyl glycol-based alternative
+- [og](/reagents/detergents/og.html) — shorter chain (octyl), used for GPCR crystallization
+- [lDAO](/reagents/detergents/lDAO.html) — zwitterionic detergent, resolved in early RC crystal structure
 
 ## See Also
 
 ### Related Detergents
-- [lmng](/reagents/detergents/lmng/) — Milder, neopentyl glycol-based alternative
-- [og](/reagents/detergents/og/) — Shorter chain (octyl), used for GPCR crystallization
-- [lDAO](/reagents/detergents/lDAO/) — Zwitterionic detergent
-- [dm](/reagents/detergents/dm/) — Decylmaltoside
-- [mng-detergent](/reagents/detergents/mng-detergent/) — Maltose neopentyl glycol
+- [lmng](/reagents/detergents/lmng.html) — Milder, neopentyl glycol-based alternative
+- [og](/reagents/detergents/og.html) — Shorter chain (octyl), used for GPCR crystallization
+- [lDAO](/reagents/detergents/lDAO.html) — Zwitterionic detergent
+- [dm](/reagents/detergents/dm.html) — Decylmaltoside
+- [mng-detergent](/reagents/detergents/mng-detergent.html) — Maltose neopentyl glycol
 
 ### Applications
 - [solubilization](/methods/solubilization/solubilization/) — General solubilization methods

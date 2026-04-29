@@ -30,10 +30,10 @@ Vapor diffusion is the most widely used method for protein crystallization. A dr
 
 - [opsin-gpcr](/proteins/opsin-gpcr/) — Ops* crystallized at pH 5.6 with OG detergent
 - [psi-lhci-supercomplex](/proteins/psi-lhci-supercomplex/) — Form-A crystals in 50 mM Tris-HCl pH 7.0, 50 mM Li₂SO₄, 4.5-7.0% PEG 6000
-- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — sitting-drop [vapor-diffusion](/methods/crystallization/vapor-diffusion/) with A2A-PSB1-bRIL construct
+- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — sitting-drop [vapor-diffusion](/methods/crystallization/vapor-diffusion.html) with A2A-PSB1-bRIL construct
 - [acrB](/proteins/acrB/) — sitting-drop vapor diffusion: 0.1 M Na-phosphate pH 6.2, 0.1 M NaCl, 8% PEG 4000; crystals soaked with 6 mM Linezolid in cryosolvent (25% [glycerol](/reagents/additives/glycerol/))
 - [kirbac](/proteins/kirbac/) — vapor diffusion at 19°C (Bio21 C3 facility); KirBac3.1 structures crystallized in multiple space groups (P2₁2₁2, I222, C222₁, P1); soaked in 50 mM [spermine](/reagents/ligands/spermine/) for polyamine binding studies
-- [etb-receptor](/proteins/etb-receptor/) — vapor diffusion; ETB-S6b complex crystals; 32 datasets merged by KAMO; P2₁2₁2 space group; 3.0 Å resolution; [molecular-replacement](/methods/structure-determination/molecular-replacement/) using ET-3-bound receptor (PDB 6IGK)
+- [etb-receptor](/proteins/etb-receptor/) — vapor diffusion; ETB-S6b complex crystals; 32 datasets merged by KAMO; P2₁2₁2 space group; 3.0 Å resolution; [molecular-replacement](/methods/structure-determination/molecular-replacement.html) using ET-3-bound receptor (PDB 6IGK)
 
 ## Key Variables
 
@@ -44,20 +44,20 @@ Vapor diffusion is the most widely used method for protein crystallization. A dr
 
 |## Related Methods
 |
-|- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) — LCP method for membrane proteins
-|- [microbatch](/methods/crystallization/microbatch/) — oil-overlay method
-|- [dialysis](/methods/purification/dialysis/) — equilibrium dialysis crystallization
+|- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase.html) — LCP method for membrane proteins
+|- [microbatch](/methods/crystallization/microbatch.html) — oil-overlay method
+|- [dialysis](/methods/purification/dialysis.html) — equilibrium dialysis crystallization
 
 ## See Also
 
 ### Alternative Methods
-- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) — LCP method for membrane proteins
-- [microbatch](/methods/crystallization/microbatch/) — Oil-overlay method
-- [dialysis](/methods/purification/dialysis/) — Equilibrium dialysis crystallization
+- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase.html) — LCP method for membrane proteins
+- [microbatch](/methods/crystallization/microbatch.html) — Oil-overlay method
+- [dialysis](/methods/purification/dialysis.html) — Equilibrium dialysis crystallization
 
 ### Related Techniques
-- [crystallization](/methods/crystallization/crystallization/) — General crystallization overview
-- [purification](/methods/purification/purification/) — Purification methods
+- [crystallization](/methods/crystallization/crystallization.html) — General crystallization overview
+- [purification](/methods/purification/purification.html) — Purification methods
 
 ## Backlinks
 

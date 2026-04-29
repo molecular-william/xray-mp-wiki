@@ -89,6 +89,6 @@ The photosynthetic reaction center (RC) from the purple bacterium *Rhodopseudomo
 
 ## Related Membrane Protein Complexes
 
-- [psi-lhci-supercomplex](/proteins/psi-lhci-supercomplex/) — Photosynthetic supercomplex; membrane protein crystallization
+- [psi-lhci-supercomplex](/proteins/psi-lhci-supercomplex.html) — Photosynthetic supercomplex; membrane protein crystallization
 - [xray-crystallography](/methods/structure-determination/xray-crystallography/) — First integral membrane protein complex solved by X-ray crystallography (Nobel Prize 1988)
 - **Zn-BChl RC (Rps. sphaeroides)**: Saer et al. (2014) — Zn-coordinated bacteriochlorophyll RC at 2.85 Å, hanging drop crystallization, isomorphous with WT RC (PDB 2J8C), SSRL beamline 7.1

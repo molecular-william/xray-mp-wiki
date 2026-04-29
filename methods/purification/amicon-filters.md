@@ -29,5 +29,5 @@ Amicon Ultra filters are centrifugal concentration devices used to concentrate p
 
 ## Related Concentration Methods
 
-- [superdex-columns](/methods/purification/superdex-columns/) — SEC also concentrates during fraction collection
-- [talon-resin](/methods/purification/talon-resin/) — [affinity-chromatography](/methods/purification/affinity-chromatography/) capture provides initial concentration
+- [superdex-columns](/methods/purification/superdex-columns.html) — SEC also concentrates during fraction collection
+- [talon-resin](/methods/purification/talon-resin.html) — [affinity-chromatography](/methods/purification/affinity-chromatography.html) capture provides initial concentration

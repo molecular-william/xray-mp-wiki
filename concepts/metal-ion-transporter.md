@@ -59,6 +59,6 @@ Different MIT families have characteristic sequence motifs in the transmembrane 
 
 ## Cross-References
 
-- [cora-mg-transporter](/concepts/cora-mg-transporter/) — Mg²⁺ uptake transporter; archetypal MIT member
+- [cora-mg-transporter](/concepts/cora-mg-transporter.html) — Mg²⁺ uptake transporter; archetypal MIT member
 - [zntb-transporter](/proteins/zntb-transporter/) — Zn²⁺/Cd²⁺ exporter; distant CorA homolog
-- [mfs-transporter](/concepts/mfs-transporter/) — Major facilitator superfamily (different family)
+- [mfs-transporter](/concepts/mfs-transporter.html) — Major facilitator superfamily (different family)

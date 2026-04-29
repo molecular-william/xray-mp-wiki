@@ -39,7 +39,7 @@ OG was tested in rhodopsin reconstitution assays and showed concentration-depend
 
 ## Related Detergents
 
-- [ng](/reagents/detergents/ng/) (nonylglucoside) — longer chain analog
-- [hpg](/reagents/detergents/hpg/) (heptylglucoside) — shorter chain analog
-- [ddm](/reagents/detergents/ddm/) — longer chain (dodecyl), milder
-- [dm](/reagents/detergents/dm/) (decylmaltoside) — fits best sterically in retinal pocket
+- [ng](/reagents/detergents/ng.html) (nonylglucoside) — longer chain analog
+- [hpg](/reagents/detergents/hpg.html) (heptylglucoside) — shorter chain analog
+- [ddm](/reagents/detergents/ddm.html) — longer chain (dodecyl), milder
+- [dm](/reagents/detergents/dm.html) (decylmaltoside) — fits best sterically in retinal pocket

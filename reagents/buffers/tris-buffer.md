@@ -36,7 +36,7 @@ Tris (tris(hydroxymethyl)aminomethane) is a widely used buffering agent in membr
 
 ## Related Buffers
 
-- [hepes-buffer](/reagents/buffers/hepes-buffer/) — HEPES-Na used at pH 7.0/7.5 in purification
-- [sodium-chloride](/reagents/additives/sodium-chloride/) — NaCl used with Tris in most buffers
-- [li2so4](/reagents/additives/li2so4/) — Lithium sulfate used in crystallization with Tris
-- [peg-6000](/reagents/additives/peg-6000/) — PEG precipitant used with Tris buffer
+- [hepes-buffer](/reagents/buffers/hepes-buffer.html) — HEPES-Na used at pH 7.0/7.5 in purification
+- [sodium-chloride](/reagents/additives/sodium-chloride.html) — NaCl used with Tris in most buffers
+- [li2so4](/reagents/additives/li2so4.html) — Lithium sulfate used in crystallization with Tris
+- [peg-6000](/reagents/additives/peg-6000.html) — PEG precipitant used with Tris buffer

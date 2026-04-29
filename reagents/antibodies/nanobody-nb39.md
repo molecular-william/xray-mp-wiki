@@ -42,6 +42,6 @@ Nb39 is a conformation-stabilizing nanobody (single-domain antibody) derived fro
 
 ## Related Reagents
 
-- [bril](/reagents/protein-tags/bril/) — BRIL fusion partner
+- [bril](/reagents/protein-tags/bril.html) — BRIL fusion partner
 - [kappa-opioid-receptor](/proteins/kappa-opioid-receptor/) — Kappa opioid receptor page
-- [nanobody](/reagents/antibodies/nanobody/) — AT1R-specific nanobody
+- [nanobody](/reagents/antibodies/nanobody.html) — AT1R-specific nanobody

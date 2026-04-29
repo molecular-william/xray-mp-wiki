@@ -33,6 +33,6 @@ LMNG is a milder detergent than standard maltosides, with lower CMC and better s
 
 ## Related Detergents
 
-- [ddm](/reagents/detergents/ddm/) — standard non-ionic maltoside, used for initial solubilization
-- [og](/reagents/detergents/og/) — shorter chain alkyl glucoside
-- [ogng](/reagents/detergents/ogng/) — octyl [glucose](/reagents/ligands/glucose/) neopentyl glycol; octyl-chain analogue of LMNG
+- [ddm](/reagents/detergents/ddm.html) — standard non-ionic maltoside, used for initial solubilization
+- [og](/reagents/detergents/og.html) — shorter chain alkyl glucoside
+- [ogng](/reagents/detergents/ogng.html) — octyl [glucose](/reagents/ligands/glucose.html) neopentyl glycol; octyl-chain analogue of LMNG

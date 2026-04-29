@@ -184,9 +184,9 @@ Example: [nTMATE2-transporter](/proteins/nTMATE2-transporter/) was solubilized i
 
 ## Related Methods
 
-- [affinity-chromatography](/methods/purification/affinity-chromatography/) — typically the next step after solubilization
-- [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography/) — used after detergent exchange
-- [centrifugation](/methods/purification/centrifugation/) — membrane isolation and clarification
+- [affinity-chromatography](/methods/purification/affinity-chromatography.html) — typically the next step after solubilization
+- [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography.html) — used after detergent exchange
+- [centrifugation](/methods/purification/centrifugation.html) — membrane isolation and clarification
 - DDM, LMNG, OG, GDN, DM, [digitonin](/reagents/detergents/digitonin/) — various non-ionic detergents used for solubilization
 - [cholesterol-hydrogen-succinate](/reagents/lipids/cholesterol-hydrogen-succinate/) — essential stabilizer for GPCR solubilization
 

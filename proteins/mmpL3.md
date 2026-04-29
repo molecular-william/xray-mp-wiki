@@ -162,8 +162,8 @@ All inhibitors bind deep in the central transmembrane channel, disrupting the pr
 
 ## Cross-References
 
-- [sotb](/proteins/sotb/) — E. coli antiporter (MFS family)
-- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — Tobacco MATE family transporter
+- [sotb](/proteins/sotb.html) — E. coli antiporter (MFS family)
+- [nTMATE2-transporter](/proteins/nTMATE2-transporter.html) — Tobacco MATE family transporter
 - [sq109](/reagents/ligands/sq109/) — Anti-TB diamine drug; MmpL3 inhibitor in clinical trials
 - [rimonabant](/reagents/ligands/rimonabant/) — CB1 antagonist repurposed as MmpL3 inhibitor
 - [ica38](/reagents/ligands/ica38/) — Indolcarboxamide MmpL3 inhibitor

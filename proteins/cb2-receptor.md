@@ -136,7 +136,7 @@ CB2 activation differs fundamentally from CB1:
 
 ## Cross-References
 
-- [cb1-receptor](/proteins/cb1-receptor/) — Cannabinoid Receptor 1 (44% sequence identity, distinct activation mechanism)
+- [cb1-receptor](/proteins/cb1-receptor.html) — Cannabinoid Receptor 1 (44% sequence identity, distinct activation mechanism)
 - [bril-fusion](/concepts/bril-fusion/) — BRIL N-terminal fusion for CB2 expression enhancement
 - [scfv16](/reagents/antibodies/scfv16/) — scFv16 antibody fragment for CB2-Gi complex stabilization
 - [lmng](/reagents/detergents/lmng/) — Detergent for CB2 solubilization

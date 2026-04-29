@@ -27,5 +27,5 @@ Coomassie Brilliant Blue staining is the standard method for visualizing protein
 
 ## Related Quality Assessment
 
-- [hek293-cells](/methods/expression-systems/hek293-cells/) — TRUPATH assay for functional validation
-- [superdex-columns](/methods/purification/superdex-columns/) — SEC profile for monodispersity assessment
+- [hek293-cells](/methods/expression-systems/hek293-cells.html) — TRUPATH assay for functional validation
+- [superdex-columns](/methods/purification/superdex-columns.html) — SEC profile for monodispersity assessment

@@ -56,7 +56,7 @@ layout: default
 
 ## Related Detergents
 
-- [ddm](/reagents/detergents/ddm/) — n-Dodecyl-β-D-maltopyranoside, standard mild detergent
-- [og](/reagents/detergents/og/) — n-Octyl β-D-glucopyranoside, short-chain strong detergent
-- [lmng](/reagents/detergents/lmng/) — Lauryl Maltose Neopentyl Glycol, very mild detergent for GPCRs
-- [gdn](/reagents/detergents/gdn/) — Glyco-Diosgenin, extremely mild steroidal glycoside
+- [ddm](/reagents/detergents/ddm.html) — n-Dodecyl-β-D-maltopyranoside, standard mild detergent
+- [og](/reagents/detergents/og.html) — n-Octyl β-D-glucopyranoside, short-chain strong detergent
+- [lmng](/reagents/detergents/lmng.html) — Lauryl Maltose Neopentyl Glycol, very mild detergent for GPCRs
+- [gdn](/reagents/detergents/gdn.html) — Glyco-Diosgenin, extremely mild steroidal glycoside

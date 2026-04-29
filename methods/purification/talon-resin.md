@@ -36,9 +36,9 @@ TALON resin is a cobalt-based affinity chromatography medium designed for His-ta
   - Equilibration: 300 mM NaCl, 50 mM HEPES-Na pH 7.0, 5% [glycerol](/reagents/additives/glycerol/), 0.05% DDM, 0.005% CHS, 20 mM imidazole
   - Wash: 20-40 mM imidazole
   - Elution: 200 mM imidazole
-  - Followed by SEC on [superdex-columns](/methods/purification/superdex-columns/)
+  - Followed by SEC on [superdex-columns](/methods/purification/superdex-columns.html)
 
 ## Related Affinity Resins
 
-- [superdex-columns](/methods/purification/superdex-columns/) — size-exclusion for final polishing
-- [amicon-filters](/methods/purification/amicon-filters/) — concentration step
+- [superdex-columns](/methods/purification/superdex-columns.html) — size-exclusion for final polishing
+- [amicon-filters](/methods/purification/amicon-filters.html) — concentration step

@@ -110,9 +110,9 @@ Bacteriorhodopsin (bR) from *Halobacterium salinarum* is a light-driven proton p
 
 ## Related Proteins
 
-- [opsin-gpcr](/proteins/opsin-gpcr/) — Animal rhodopsin (G protein-coupled, not light-driven proton pump)
-- [bovine-rhodopsin](/proteins/bovine-rhodopsin/) — Bovine rhodopsin trigonal crystal form
-- [5ht2b-receptor](/proteins/5ht2b-receptor/) — Serotonin GPCR with BRIL fusion
+- [opsin-gpcr](/proteins/opsin-gpcr.html) — Animal rhodopsin (G protein-coupled, not light-driven proton pump)
+- [bovine-rhodopsin](/proteins/bovine-rhodopsin.html) — Bovine rhodopsin trigonal crystal form
+- [5ht2b-receptor](/proteins/5ht2b-receptor.html) — Serotonin GPCR with BRIL fusion
 
 ## References
 

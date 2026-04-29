@@ -52,7 +52,7 @@ Lithium sulfate (Li2SO4) is a salt used as a crystallization precipitant in prot
 
 ## Related Salts
 
-- [sodium-chloride](/reagents/additives/sodium-chloride/) — NaCl; most common buffer salt
+- [sodium-chloride](/reagents/additives/sodium-chloride.html) — NaCl; most common buffer salt
 - Lithium sulfate — Kosmotropic precipitant for protein crystallization
-- [peg-4000](/reagents/additives/peg-4000/) — PEG 4000; polymer precipitant
-- [peg-6000](/reagents/additives/peg-6000/) — PEG 6000; polymer precipitant
+- [peg-4000](/reagents/additives/peg-4000.html) — PEG 4000; polymer precipitant
+- [peg-6000](/reagents/additives/peg-6000.html) — PEG 6000; polymer precipitant

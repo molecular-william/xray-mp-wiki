@@ -67,19 +67,19 @@ The 5-HT2B receptor is a serotonin GPCR that mediates the effects of LSD and oth
 
 |## Related Serotonin Receptors
 |
-|- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — GPCR with extensive structural biology
-|- [opsin-gpcr](/proteins/opsin-gpcr/) — Class A GPCR structural template
-|- [etb-receptor](/proteins/etb-receptor/) — Endothelin GPCR with [bril](/reagents/protein-tags/bril/) fusion
-|- [kappa-opioid-receptor](/proteins/kappa-opioid-receptor/) — Opioid GPCR with nanobody
+|- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor.html) — GPCR with extensive structural biology
+|- [opsin-gpcr](/proteins/opsin-gpcr.html) — Class A GPCR structural template
+|- [etb-receptor](/proteins/etb-receptor.html) — Endothelin GPCR with [bril](/reagents/protein-tags/bril/) fusion
+|- [kappa-opioid-receptor](/proteins/kappa-opioid-receptor.html) — Opioid GPCR with nanobody
 
 ## See Also
 
 ### Related Proteins
-- [5ht2b-receptor](/proteins/5ht2b-receptor/) — Serotonin receptor with LSD binding
-- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — GPCR with extensive structural biology
-- [opsin-gpcr](/proteins/opsin-gpcr/) — Class A GPCR structural template
-- [etb-receptor](/proteins/etb-receptor/) — Endothelin GPCR with [bril](/reagents/protein-tags/bril/) fusion
-- [kappa-opioid-receptor](/proteins/kappa-opioid-receptor/) — Opioid GPCR with nanobody
+- [5ht2b-receptor](/proteins/5ht2b-receptor.html) — Serotonin receptor with LSD binding
+- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor.html) — GPCR with extensive structural biology
+- [opsin-gpcr](/proteins/opsin-gpcr.html) — Class A GPCR structural template
+- [etb-receptor](/proteins/etb-receptor.html) — Endothelin GPCR with [bril](/reagents/protein-tags/bril/) fusion
+- [kappa-opioid-receptor](/proteins/kappa-opioid-receptor.html) — Opioid GPCR with nanobody
 
 ### Methods Used
 - [crystallization](/methods/crystallization/crystallization/) — General crystallization methods

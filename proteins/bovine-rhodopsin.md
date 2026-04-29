@@ -131,9 +131,9 @@ The structure supports a mechanism where:
 
 ## Related GPCRs
 
-- [opsin-gpcr](/proteins/opsin-gpcr/) — Opsin (retinal-free) structure; active state with OG in binding pocket
-- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — Class A GPCR with extensive structural biology
-- [5ht2b-receptor](/proteins/5ht2b-receptor/) — Serotonin GPCR with BRIL fusion
+- [opsin-gpcr](/proteins/opsin-gpcr.html) — Opsin (retinal-free) structure; active state with OG in binding pocket
+- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor.html) — Class A GPCR with extensive structural biology
+- [5ht2b-receptor](/proteins/5ht2b-receptor.html) — Serotonin GPCR with BRIL fusion
 
 ## Cross-References
 
