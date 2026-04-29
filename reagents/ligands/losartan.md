@@ -42,7 +42,7 @@ Losartan binds to the ligand-binding pocket of the human angiotensin II type 1 r
 ## Clinical Properties
 
 - **First ARB approved**: Landmark drug in hypertension treatment
-- **Surmountable antagonist**: Effects can be overcome by high AngII [amicon-filters](//xray-mp-wiki/methods/purification/amicon-filters/)s
+- **Surmountable antagonist**: Effects can be overcome by high AngII [amicon-filters](/xray-mp-wiki/methods/purification/amicon-filters/)s
 - **Oral bioavailability**: Good oral absorption
 - **Active metabolite**: EXP3174 contributes significantly to therapeutic effect
 
@@ -58,8 +58,8 @@ Losartan binds to the ligand-binding pocket of the human angiotensin II type 1 r
 
 ## Related Ligands
 
-- [zd7155](//xray-mp-wiki/reagents/ligands/zd7155/) — High-affinity antagonist, precursor to candesartan
-- [candesartan](//xray-mp-wiki/reagents/ligands/candesartan/) — Insurmountable inverse agonist (ARB)
-- [valsartan](//xray-mp-wiki/reagents/ligands/valsartan/) — Clinically used ARB
-- [irbesartan](//xray-mp-wiki/reagents/ligands/irbesartan/) — Clinically used ARB
-- [telmisartan](//xray-mp-wiki/reagents/ligands/telmisartan/) — Clinically used ARB
+- [zd7155](/xray-mp-wiki/reagents/ligands/zd7155/) — High-affinity antagonist, precursor to candesartan
+- [candesartan](/xray-mp-wiki/reagents/ligands/candesartan/) — Insurmountable inverse agonist (ARB)
+- [valsartan](/xray-mp-wiki/reagents/ligands/valsartan/) — Clinically used ARB
+- [irbesartan](/xray-mp-wiki/reagents/ligands/irbesartan/) — Clinically used ARB
+- [telmisartan](/xray-mp-wiki/reagents/ligands/telmisartan/) — Clinically used ARB

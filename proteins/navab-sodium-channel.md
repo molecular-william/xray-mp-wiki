@@ -20,17 +20,17 @@ NaVAb is an ancestral bacterial voltage-gated sodium channel from *Anabaema brad
 
 ## Structural States
 
-### Activated-State Structures ([xray-crystallography](//xray-mp-wiki/methods/structure-determination/xray-crystallography/))
+### Activated-State Structures ([xray-crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/))
 
-Multiple activated-state structures of NaVAb have been solved by [xray-crystallography](//xray-mp-wiki/methods/structure-determination/xray-crystallography/) (Payandeh et al., 2011, 2012; Lenaeus et al., 2017), showing outward-positioned S4 helices and open activation gates.
+Multiple activated-state structures of NaVAb have been solved by [xray-crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) (Payandeh et al., 2011, 2012; Lenaeus et al., 2017), showing outward-positioned S4 helices and open activation gates.
 
 ### Resting-State Structure (Cryo-EM, 4.0 Å)
 
-The resting-state structure was solved by [cryoem](//xray-mp-wiki/methods/structure-determination/cryoem/) at 4.0 Å resolution (Wisedchaisri et al., 2019, Cell), revealing the complete voltage-dependent gating mechanism:
+The resting-state structure was solved by [cryoem](/xray-mp-wiki/methods/structure-determination/cryoem/) at 4.0 Å resolution (Wisedchaisri et al., 2019, Cell), revealing the complete voltage-dependent gating mechanism:
 
 - **Construct**: MBP-NaVAb/KAV/G94C/Q150C — voltage-shifting mutations (N49K, L109A, M116V → KAV) + disulfide crosslink (G94C-Q150C) to lock the resting state
-- **Expression**: [sf9-cells](//xray-mp-wiki/methods/expression-systems/sf9-cells/) (baculovirus system)
-- **Detergent**: [digitonin](//xray-mp-wiki/reagents/detergents/digitonin/) (high purity) for solubilization and [cryoem](//xray-mp-wiki/methods/structure-determination/cryoem/) sample preparation
+- **Expression**: [sf9-cells](/xray-mp-wiki/methods/expression-systems/sf9-cells/) (baculovirus system)
+- **Detergent**: [digitonin](/xray-mp-wiki/reagents/detergents/digitonin/) (high purity) for solubilization and [cryoem](/xray-mp-wiki/methods/structure-determination/cryoem/) sample preparation
 - **Resolution**: 4.0 Å overall; 3.0–3.9 Å in pore module; 4–5 Å in VS (S0–S2)
 - **Key findings**: S4 drawn intracellularly with three gating charges passing through the transmembrane electric field; elbow bend in S4-S5 linker tightens collar around S6 activation gate; supports classical "sliding helix" mechanism
 - **Voltage-sensing domain conformational changes**:
@@ -43,21 +43,21 @@ The resting-state structure was solved by [cryoem](//xray-mp-wiki/methods/struct
 
 ## Expression and Purification
 
-- **Expression system**: [sf9-cells](//xray-mp-wiki/methods/expression-systems/sf9-cells/) (baculovirus [baculovirus-expression](//xray-mp-wiki/methods/expression-systems/baculovirus-expression/))
+- **Expression system**: [sf9-cells](/xray-mp-wiki/methods/expression-systems/sf9-cells/) (baculovirus [baculovirus-expression](/xray-mp-wiki/methods/expression-systems/baculovirus-expression/))
 - **Construct design**:
   - MBP (maltose-binding protein) fusion tag at N-terminus
   - KAV voltage-shifting mutations (N49K, L109A, M116V)
   - C-terminal Δ28 truncation
   - G94C/Q150C disulfide crosslink for resting-state stabilization
-- **Detergent**: [ddm](//xray-mp-wiki/reagents/detergents/ddm/) (n-dodecyl-β-D-maltopyranoside) for membrane solubilization
-- **Purification**: Anti-FLAG [affinity-chromatography](//xray-mp-wiki/methods/purification/affinity-chromatography/) (N-terminal FLAG tag), [affinity-chromatography](//xray-mp-wiki/methods/purification/affinity-chromatography/) (His-tag), followed by [size-exclusion-chromatography](//xray-mp-wiki/methods/purification/size-exclusion-chromatography/)
-- **SEC buffer**: 20 mM [hepes-buffer](//xray-mp-wiki/reagents/buffers/hepes-buffer/) pH 7.5, 150 mM [sodium-chloride](//xray-mp-wiki/reagents/additives/sodium-chloride/), 0.02% [digitonin](//xray-mp-wiki/reagents/detergents/digitonin/)
-- **Cryo-EM grid preparation**: MBP-NaVAb/KAV/G94C/Q150C in [digitonin](//xray-mp-wiki/reagents/detergents/digitonin/) detergent
+- **Detergent**: [ddm](/xray-mp-wiki/reagents/detergents/ddm/) (n-dodecyl-β-D-maltopyranoside) for membrane solubilization
+- **Purification**: Anti-FLAG [affinity-chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) (N-terminal FLAG tag), [affinity-chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) (His-tag), followed by [size-exclusion-chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)
+- **SEC buffer**: 20 mM [hepes-buffer](/xray-mp-wiki/reagents/buffers/hepes-buffer/) pH 7.5, 150 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 0.02% [digitonin](/xray-mp-wiki/reagents/detergents/digitonin/)
+- **Cryo-EM grid preparation**: MBP-NaVAb/KAV/G94C/Q150C in [digitonin](/xray-mp-wiki/reagents/detergents/digitonin/) detergent
 
 ## Crystallization (Activated State)
 
-- **Method**: [xray-crystallography](//xray-mp-wiki/methods/structure-determination/xray-crystallography/) (activated state structures)
-- **Detergent**: [ddm](//xray-mp-wiki/reagents/detergents/ddm/) for solubilization
+- **Method**: [xray-crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) (activated state structures)
+- **Detergent**: [ddm](/xray-mp-wiki/reagents/detergents/ddm/) for solubilization
 - **Disulfide-locked constructs**: V100C-Q150C (activated state), G94C-Q150C (resting state)
 
 ## Gating Mechanism
@@ -74,7 +74,7 @@ The resting-state structure reveals fenestrations providing hydrophobic drug acc
 
 ## Related Entities
 
-- [digitonin](//xray-mp-wiki/reagents/detergents/digitonin/) — Detergent used for [cryoem](//xray-mp-wiki/methods/structure-determination/cryoem/) sample preparation
-- [cryoem](//xray-mp-wiki/methods/structure-determination/cryoem/) — Cryo-EM structure determination method
-- [ion-channels](//xray-mp-wiki/concepts/ion-channels/) — Voltage-gated ion channel class
-- [kirbac](//xray-mp-wiki/proteins/kirbac/) — Prokaryotic inwardly rectifying K⁺ channel; structural model for eukaryotic Kir channels
+- [digitonin](/xray-mp-wiki/reagents/detergents/digitonin/) — Detergent used for [cryoem](/xray-mp-wiki/methods/structure-determination/cryoem/) sample preparation
+- [cryoem](/xray-mp-wiki/methods/structure-determination/cryoem/) — Cryo-EM structure determination method
+- [ion-channels](/xray-mp-wiki/concepts/ion-channels/) — Voltage-gated ion channel class
+- [kirbac](/xray-mp-wiki/proteins/kirbac/) — Prokaryotic inwardly rectifying K⁺ channel; structural model for eukaryotic Kir channels

@@ -58,6 +58,6 @@ The T4L fusion strategy was pioneered by Brian Kobilka for the β₂-adrenergic 
 
 ## Related Reagents
 
-- [nanobody](//xray-mp-wiki/reagents/antibodies/nanobody/) — Synthetic active-state AT1R nanobody
-- [cholesterol-hydrogen-succinate](//xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/) — CHS for membrane protein stabilization
-- [lmng](//xray-mp-wiki/reagents/detergents/lmng/) — Mild detergent for GPCR stabilization
+- [nanobody](/xray-mp-wiki/reagents/antibodies/nanobody/) — Synthetic active-state AT1R nanobody
+- [cholesterol-hydrogen-succinate](/xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/) — CHS for membrane protein stabilization
+- [lmng](/xray-mp-wiki/reagents/detergents/lmng/) — Mild detergent for GPCR stabilization

@@ -39,5 +39,5 @@ LAPAO (3-laurylamido-N,N'-dimethylpropylaminoxyde) is a zwitterionic detergent u
 
 ## Cross-References
 
-- [adenine-nucleotide-transporter](//xray-mp-wiki/proteins/adenine-nucleotide-transporter/) — Bovine AAC structure determined with LAPAO solubilization
-- [cardiolipin](//xray-mp-wiki/reagents/lipids/cardiolipin/) — Lipid preserved by LAPAO during AAC purification
+- [adenine-nucleotide-transporter](/xray-mp-wiki/proteins/adenine-nucleotide-transporter/) — Bovine AAC structure determined with LAPAO solubilization
+- [cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) — Lipid preserved by LAPAO during AAC purification

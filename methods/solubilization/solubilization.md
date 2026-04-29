@@ -64,11 +64,11 @@ DDM is the universal first-choice detergent for solubilization across all membra
 | Mitochondrial proteins | 1-2% (w/v) | Often with CHS |
 
 Examples from the wiki:
-- [nTMATE2-transporter](//xray-mp-wiki/proteins/nTMATE2-transporter/) — 2% DDM from *Pichia pastoris* membranes
-- [acrB](//xray-mp-wiki/proteins/acrB/) — 2% DDM from *E. coli* membranes
-- [etb-receptor](//xray-mp-wiki/proteins/etb-receptor/) — 1% DDM from Sf9 insect cell membranes (4°C, 1 hr)
-- [angiotensin-ii-type-1-receptor](//xray-mp-wiki/proteins/angiotensin-ii-type-1-receptor/) — 1% DDM + 0.2% CHS from Sf9 membranes
-- [psi-lhci-supercomplex](//xray-mp-wiki/proteins/psi-lhci-supercomplex/) — β-DDM for thylakoid membrane solubilization
+- [nTMATE2-transporter](/xray-mp-wiki/proteins/nTMATE2-transporter/) — 2% DDM from *Pichia pastoris* membranes
+- [acrB](/xray-mp-wiki/proteins/acrB/) — 2% DDM from *E. coli* membranes
+- [etb-receptor](/xray-mp-wiki/proteins/etb-receptor/) — 1% DDM from Sf9 insect cell membranes (4°C, 1 hr)
+- [angiotensin-ii-type-1-receptor](/xray-mp-wiki/proteins/angiotensin-ii-type-1-receptor/) — 1% DDM + 0.2% CHS from Sf9 membranes
+- [psi-lhci-supercomplex](/xray-mp-wiki/proteins/psi-lhci-supercomplex/) — β-DDM for thylakoid membrane solubilization
 
 ### GPCR-specific: DDM + CHS
 
@@ -77,8 +77,8 @@ For GPCR solubilization, DDM is almost always combined with cholesterol hydrogen
 - **Typical ratio**: 1% DDM + 0.1-0.2% CHS (w/v each)
 - **Purpose**: CHS stabilizes GPCR tertiary structure during extraction, compensating for loss of native cholesterol
 - **Examples**:
-  - [etb-receptor](//xray-mp-wiki/proteins/etb-receptor/) — 1% DDM + 0.2% CHS for solubilization; 0.01% LMNG + 0.01% CHS in purification
-  - [angiotensin-ii-type-1-receptor](//xray-mp-wiki/proteins/angiotensin-ii-type-1-receptor/) — 1% DDM + 0.2% CHS for solubilization
+  - [etb-receptor](/xray-mp-wiki/proteins/etb-receptor/) — 1% DDM + 0.2% CHS for solubilization; 0.01% LMNG + 0.01% CHS in purification
+  - [angiotensin-ii-type-1-receptor](/xray-mp-wiki/proteins/angiotensin-ii-type-1-receptor/) — 1% DDM + 0.2% CHS for solubilization
   - CCR2A — 1.0% DDM + 0.1% CHS for 2 hours at 4°C [10.1016##j.str.2018.10.027]
 
 ### Detergent Exchange for Downstream Steps
@@ -106,7 +106,7 @@ The most common solubilization conditions across the literature:
 - **Detergent concentration**: 10-50× CMC (typically 0.1-2% w/v depending on detergent)
 - **Buffer**: 20-50 mM Tris-HCl or HEPES-NaOH, pH 7.0-8.0
 - **Salt**: 150-500 mM NaCl
-- **Additives**: 5-10% [glycerol](//xray-mp-wiki/reagents/additives/glycerol/), protease inhibitor tablets, DNase I for viscous lysates
+- **Additives**: 5-10% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/), protease inhibitor tablets, DNase I for viscous lysates
 
 ### Typical Workflow
 
@@ -163,32 +163,32 @@ When the initial solubilization detergent is not optimal for downstream steps, d
 - **SEC-based exchange**: Load concentrated sample onto SEC column equilibrated in new detergent
 - **Detergent-coated beads**: Use detergent-conjugated resins for exchange
 
-Example: [nTMATE2-transporter](//xray-mp-wiki/proteins/nTMATE2-transporter/) was solubilized in 2% DDM, then exchanged to 0.03% LMNG for SEC purification [10.1002##1873-3468.14136].
+Example: [nTMATE2-transporter](/xray-mp-wiki/proteins/nTMATE2-transporter/) was solubilized in 2% DDM, then exchanged to 0.03% LMNG for SEC purification [10.1002##1873-3468.14136].
 
 ## Proteins Using Solubilization (from this wiki)
 
 | Protein | Solubilization Detergent | Stabilizers | Notes |
 |---|---|---|---|
-| [nTMATE2-transporter](//xray-mp-wiki/proteins/nTMATE2-transporter/) | 2% DDM | 10% glycerol | From *Pichia pastoris*; exchanged to 0.03% LMNG |
-| [acrB](//xray-mp-wiki/proteins/acrB/) | 2% DDM | 10% glycerol | From *E. coli*; maintained at 0.2% throughout |
-| [etb-receptor](//xray-mp-wiki/proteins/etb-receptor/) | 1% DDM + 0.2% CHS | — | From Sf9; exchanged to 0.1% LMNG + 0.01% CHS |
-| [angiotensin-ii-type-1-receptor](//xray-mp-wiki/proteins/angiotensin-ii-type-1-receptor/) | 1% DDM + 0.2% CHS | — | From Sf9; exchanged to 0.01% MNG + 0.001% CHS |
-| [psi-lhci-supercomplex](//xray-mp-wiki/proteins/psi-lhci-supercomplex/) | β-DDM (2%) | — | Thylakoid membranes; exchanged to GDN for cryo-EM |
-| [kirbac](//xray-mp-wiki/proteins/kirbac/) | 1% DDM | Structural phospholipids | Bacterial potassium channel |
-| [opsin-gpcr](//xray-mp-wiki/proteins/opsin-gpcr/) | OG | — | Primary solubilization detergent |
-| [5ht2b-receptor](//xray-mp-wiki/proteins/5ht2b-receptor/) | 1% DDM + 0.1% CHS | 0.01% CHS in purification | From HEK293F cells |
-| [kappa-opioid-receptor](//xray-mp-wiki/proteins/kappa-opioid-receptor/) | 1% DDM + 0.1% CHS | — | From HEK293F cells |
-| [adenine-nucleotide-transporter](//xray-mp-wiki/proteins/adenine-nucleotide-transporter/) | 2% DM | — | Mitochondrial AAC |
-| [sotb](//xray-mp-wiki/proteins/sotb/) | 2% DDM | 10% glycerol | From *E. coli* |
-| [mmpL3](//xray-mp-wiki/proteins/mmpL3/) | 1% DDM | 0.1% CHS | From *M. smegmatis* |
+| [nTMATE2-transporter](/xray-mp-wiki/proteins/nTMATE2-transporter/) | 2% DDM | 10% glycerol | From *Pichia pastoris*; exchanged to 0.03% LMNG |
+| [acrB](/xray-mp-wiki/proteins/acrB/) | 2% DDM | 10% glycerol | From *E. coli*; maintained at 0.2% throughout |
+| [etb-receptor](/xray-mp-wiki/proteins/etb-receptor/) | 1% DDM + 0.2% CHS | — | From Sf9; exchanged to 0.1% LMNG + 0.01% CHS |
+| [angiotensin-ii-type-1-receptor](/xray-mp-wiki/proteins/angiotensin-ii-type-1-receptor/) | 1% DDM + 0.2% CHS | — | From Sf9; exchanged to 0.01% MNG + 0.001% CHS |
+| [psi-lhci-supercomplex](/xray-mp-wiki/proteins/psi-lhci-supercomplex/) | β-DDM (2%) | — | Thylakoid membranes; exchanged to GDN for cryo-EM |
+| [kirbac](/xray-mp-wiki/proteins/kirbac/) | 1% DDM | Structural phospholipids | Bacterial potassium channel |
+| [opsin-gpcr](/xray-mp-wiki/proteins/opsin-gpcr/) | OG | — | Primary solubilization detergent |
+| [5ht2b-receptor](/xray-mp-wiki/proteins/5ht2b-receptor/) | 1% DDM + 0.1% CHS | 0.01% CHS in purification | From HEK293F cells |
+| [kappa-opioid-receptor](/xray-mp-wiki/proteins/kappa-opioid-receptor/) | 1% DDM + 0.1% CHS | — | From HEK293F cells |
+| [adenine-nucleotide-transporter](/xray-mp-wiki/proteins/adenine-nucleotide-transporter/) | 2% DM | — | Mitochondrial AAC |
+| [sotb](/xray-mp-wiki/proteins/sotb/) | 2% DDM | 10% glycerol | From *E. coli* |
+| [mmpL3](/xray-mp-wiki/proteins/mmpL3/) | 1% DDM | 0.1% CHS | From *M. smegmatis* |
 
 ## Related Methods
 
-- [affinity-chromatography](//xray-mp-wiki/methods/purification/affinity-chromatography/) — typically the next step after solubilization
-- [size-exclusion-chromatography](//xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — used after detergent exchange
-- [centrifugation](//xray-mp-wiki/methods/purification/centrifugation/) — membrane isolation and clarification
-- DDM, LMNG, OG, GDN, DM, [digitonin](//xray-mp-wiki/reagents/detergents/digitonin/) — various non-ionic detergents used for solubilization
-- [cholesterol-hydrogen-succinate](//xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/) — essential stabilizer for GPCR solubilization
+- [affinity-chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — typically the next step after solubilization
+- [size-exclusion-chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — used after detergent exchange
+- [centrifugation](/xray-mp-wiki/methods/purification/centrifugation/) — membrane isolation and clarification
+- DDM, LMNG, OG, GDN, DM, [digitonin](/xray-mp-wiki/reagents/detergents/digitonin/) — various non-ionic detergents used for solubilization
+- [cholesterol-hydrogen-succinate](/xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/) — essential stabilizer for GPCR solubilization
 
 ## Key Principles
 

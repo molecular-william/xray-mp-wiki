@@ -30,7 +30,7 @@ Potassium thiocyanate (KSCN) is a salt used in protein crystallization screens. 
 
 ## Cross-References
 
-- [dap12](//xray-mp-wiki/proteins/dap12/) — DAP12-TM trimer crystallized with KSCN
-- [sodium-chloride](//xray-mp-wiki/reagents/additives/sodium-chloride/) — Alternative salt
-- [peg-3350](//xray-mp-wiki/reagents/additives/peg-3350/) — PEG 3350 precipitant
-- [cholesterol-lipid](//xray-mp-wiki/reagents/lipids/cholesterol-lipid/) — Cholesterol in crystallization
+- [dap12](/xray-mp-wiki/proteins/dap12/) — DAP12-TM trimer crystallized with KSCN
+- [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) — Alternative salt
+- [peg-3350](/xray-mp-wiki/reagents/additives/peg-3350/) — PEG 3350 precipitant
+- [cholesterol-lipid](/xray-mp-wiki/reagents/lipids/cholesterol-lipid/) — Cholesterol in crystallization

@@ -16,12 +16,12 @@ layout: default
 
 ## Overview
 
-Ticagrelor is a reversible, orally active [p2y12-receptor](//xray-mp-wiki/proteins/p2y12-receptor/) receptor antagonist with market approval for acute coronary syndrome. It exhibits inverse agonist efficacy, counteracting basal [p2y12-receptor](//xray-mp-wiki/proteins/p2y12-receptor/) receptor signaling.
+Ticagrelor is a reversible, orally active [p2y12-receptor](/xray-mp-wiki/proteins/p2y12-receptor/) receptor antagonist with market approval for acute coronary syndrome. It exhibits inverse agonist efficacy, counteracting basal [p2y12-receptor](/xray-mp-wiki/proteins/p2y12-receptor/) receptor signaling.
 
 ## Properties
 
-- **Class**: Reversible [p2y12-receptor](//xray-mp-wiki/proteins/p2y12-receptor/) antagonist
-- **Inverse agonist**: Yes — reduces constitutive [p2y12-receptor](//xray-mp-wiki/proteins/p2y12-receptor/) activity
+- **Class**: Reversible [p2y12-receptor](/xray-mp-wiki/proteins/p2y12-receptor/) antagonist
+- **Inverse agonist**: Yes — reduces constitutive [p2y12-receptor](/xray-mp-wiki/proteins/p2y12-receptor/) activity
 - **Clinical indication**: Prevention of atherothrombosis in acute coronary syndrome
 - **Bleeding profile**: Increased non-CABG major bleeding vs. clopidogrel, no increase in overall major bleeding
 
@@ -35,8 +35,8 @@ Ticagrelor is a reversible, orally active [p2y12-receptor](//xray-mp-wiki/protei
 | Blood loss | Higher | Lower |
 | Vascular tone | Interferes | No effect |
 
-## Related [p2y12-receptor](//xray-mp-wiki/proteins/p2y12-receptor/) Ligands
+## Related [p2y12-receptor](/xray-mp-wiki/proteins/p2y12-receptor/) Ligands
 
-- [selatogrel](//xray-mp-wiki/reagents/ligands/selatogrel/) — More potent inverse agonist
-- [elinogrel](//xray-mp-wiki/reagents/ligands/elinogrel/) — Another reversible antagonist with inverse agonism
-- [clopidogrel](//xray-mp-wiki/reagents/ligands/clopidogrel/) — Irreversible antagonist
+- [selatogrel](/xray-mp-wiki/reagents/ligands/selatogrel/) — More potent inverse agonist
+- [elinogrel](/xray-mp-wiki/reagents/ligands/elinogrel/) — Another reversible antagonist with inverse agonism
+- [clopidogrel](/xray-mp-wiki/reagents/ligands/clopidogrel/) — Irreversible antagonist

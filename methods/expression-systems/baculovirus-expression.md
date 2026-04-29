@@ -19,7 +19,7 @@ layout: default
 
 ## Overview
 
-The [baculovirus-expression](//xray-mp-wiki/methods/expression-systems/baculovirus-expression/) vector system (BEVS) uses recombinant baculoviruses to express proteins in insect cells. It combines the high expression capacity of viral infection with the eukaryotic protein processing machinery of insect cells.
+The [baculovirus-expression](/xray-mp-wiki/methods/expression-systems/baculovirus-expression/) vector system (BEVS) uses recombinant baculoviruses to express proteins in insect cells. It combines the high expression capacity of viral infection with the eukaryotic protein processing machinery of insect cells.
 
 ## Bac-to-Bac System
 
@@ -58,6 +58,6 @@ The Bac-to-Bac system (Invitrogen/Thermo Fisher) streamlines recombinant baculov
 
 ## Related Systems
 
-- [pichia-pastoris](//xray-mp-wiki/methods/expression-systems/pichia-pastoris/) — Yeast expression system
-- [hek293-cells](//xray-mp-wiki/methods/expression-systems/hek293-cells/) — Mammalian expression system
-- [sf9-cells](//xray-mp-wiki/methods/expression-systems/sf9-cells/) — Sf9 insect cell line
+- [pichia-pastoris](/xray-mp-wiki/methods/expression-systems/pichia-pastoris/) — Yeast expression system
+- [hek293-cells](/xray-mp-wiki/methods/expression-systems/hek293-cells/) — Mammalian expression system
+- [sf9-cells](/xray-mp-wiki/methods/expression-systems/sf9-cells/) — Sf9 insect cell line

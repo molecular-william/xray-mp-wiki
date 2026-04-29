@@ -57,9 +57,9 @@ This study revealed interdependent gates in the Kir conduction pathway:
 
 ## Polyamine Block Mechanism
 
-- **Intracellular binding sites**: Two [spermine](//xray-mp-wiki/reagents/ligands/spermine/)-binding pockets identified at latched subunit interfaces. These pockets are preformed and superimpose closely with unliganded structures.
+- **Intracellular binding sites**: Two [spermine](/xray-mp-wiki/reagents/ligands/spermine/)-binding pockets identified at latched subunit interfaces. These pockets are preformed and superimpose closely with unliganded structures.
 - **Rectification**: At resting potential, latched interfaces concentrate polyamines. Upon unlatching (activation), the intracellular vestibule dilates by ~4.5 Å, disrupting binding sites and releasing polyamines into the conduction path.
-- **Deep pore block**: Extended [spermine](//xray-mp-wiki/reagents/ligands/spermine/) molecules protrude from intracellular sites into the permeation pathway, forming cation-π interactions with Tyr132 at the bundle crossing.
+- **Deep pore block**: Extended [spermine](/xray-mp-wiki/reagents/ligands/spermine/) molecules protrude from intracellular sites into the permeation pathway, forming cation-π interactions with Tyr132 at the bundle crossing.
 
 ## Ion Configurations
 
@@ -76,13 +76,13 @@ This study revealed interdependent gates in the Kir conduction pathway:
 
 - **Expression system**: Full-length histidine-tagged recombinant channels in *E. coli* BL21 (DE3) star cells, expressed at 25°C
 - **Cell lysis**: High-pressure homogenizer at 20,000 psi
-- **Solubilization**: 1% [anzergent-3-12](//xray-mp-wiki/reagents/detergents/anzergent-3-12/) (room temperature, 1 hr)
-- **Purification**: Ni²⁺-loaded IMAC resin followed by [size-exclusion-chromatography](//xray-mp-wiki/methods/purification/size-exclusion-chromatography/)
+- **Solubilization**: 1% [anzergent-3-12](/xray-mp-wiki/reagents/detergents/anzergent-3-12/) (room temperature, 1 hr)
+- **Purification**: Ni²⁺-loaded IMAC resin followed by [size-exclusion-chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)
 - **Concentration**: ~8 mg/mL for crystallization
 
 ## Crystallization
 
-- **Method**: [vapor-diffusion](//xray-mp-wiki/methods/crystallization/vapor-diffusion/) at 19°C (Bio21 crystallization facility)
+- **Method**: [vapor-diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion/) at 19°C (Bio21 crystallization facility)
 - **Data collection**: Australian Synchrotron (beamline 3BM1) or Swiss Light Source (microfocus beamline X06SA)
 - **Functional validation**: Patch clamp on GUVs showed 63 pS single-channel conductance for KirBac3.1 WT and Q170A mutant
 
@@ -95,8 +95,8 @@ This study revealed interdependent gates in the Kir conduction pathway:
 
 ## Related Ion Channels
 
-- [navab-sodium-channel](//xray-mp-wiki/proteins/navab-sodium-channel/) — Bacterial voltage-gated sodium channel; structural model for eukaryotic NaV channels
-- [ion-channels](//xray-mp-wiki/concepts/ion-channels/) — Voltage-gated ion channel class
+- [navab-sodium-channel](/xray-mp-wiki/proteins/navab-sodium-channel/) — Bacterial voltage-gated sodium channel; structural model for eukaryotic NaV channels
+- [ion-channels](/xray-mp-wiki/concepts/ion-channels/) — Voltage-gated ion channel class
 
 ## References
 
@@ -107,8 +107,8 @@ This study revealed interdependent gates in the Kir conduction pathway:
 
 ## Cross-References
 
-- [anzergent-3-12](//xray-mp-wiki/reagents/detergents/anzergent-3-12/) — Detergent used for solubilization
-- [spermine](//xray-mp-wiki/reagents/ligands/spermine/) — Polyamine ligand that blocks KirBac
-- [structural-phospholipid](//xray-mp-wiki/reagents/lipids/structural-phospholipid/) — Structural phospholipids carried through purification
-- [affinity-chromatography](//xray-mp-wiki/methods/purification/affinity-chromatography/) — IMAC purification method
-- [xray-crystallography](//xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Structure determination method
+- [anzergent-3-12](/xray-mp-wiki/reagents/detergents/anzergent-3-12/) — Detergent used for solubilization
+- [spermine](/xray-mp-wiki/reagents/ligands/spermine/) — Polyamine ligand that blocks KirBac
+- [structural-phospholipid](/xray-mp-wiki/reagents/lipids/structural-phospholipid/) — Structural phospholipids carried through purification
+- [affinity-chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — IMAC purification method
+- [xray-crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Structure determination method

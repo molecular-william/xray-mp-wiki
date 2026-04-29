@@ -43,6 +43,6 @@ Nb.AT110i1 is a synthetic, affinity-matured nanobody (single-domain antibody fra
 
 ## Related Nanobodies
 
-- [nanobody](//xray-mp-wiki/reagents/antibodies/nanobody/) — used with [kappa-opioid-receptor](//xray-mp-wiki/proteins/kappa-opioid-receptor/) opioid receptor (BRIL fusion + Nb39)
-- [bril](//xray-mp-wiki/reagents/protein-tags/bril/)-fusion — thermostabilized apocytochrome b562RIL fusion partner
-- [t4-lysozyme](//xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — T4 lysozyme fusion in ICL3 for GPCR crystallization (used in ETB, β₂AR, A₂AR)
+- [nanobody](/xray-mp-wiki/reagents/antibodies/nanobody/) — used with [kappa-opioid-receptor](/xray-mp-wiki/proteins/kappa-opioid-receptor/) opioid receptor (BRIL fusion + Nb39)
+- [bril](/xray-mp-wiki/reagents/protein-tags/bril/)-fusion — thermostabilized apocytochrome b562RIL fusion partner
+- [t4-lysozyme](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — T4 lysozyme fusion in ICL3 for GPCR crystallization (used in ETB, β₂AR, A₂AR)

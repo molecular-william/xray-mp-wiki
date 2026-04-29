@@ -19,7 +19,7 @@ layout: default
 
 ## Overview
 
-Imidazole is used primarily as an elution agent in His-tag affinity chromatography. It competes with histidine residues for binding to immobilized metal ions (Ni2+, Co2+) via [imac](//xray-mp-wiki/methods/purification/imac/).
+Imidazole is used primarily as an elution agent in His-tag affinity chromatography. It competes with histidine residues for binding to immobilized metal ions (Ni2+, Co2+) via [imac](/xray-mp-wiki/methods/purification/imac/).
 
 ## Properties
 
@@ -29,17 +29,17 @@ Imidazole is used primarily as an elution agent in His-tag affinity chromatograp
 
 ## Proteins Using Imidazole (from this wiki)
 
-- [nTMATE2-transporter](//xray-mp-wiki/proteins/nTMATE2-transporter/) — used with TALON cobalt affinity resin:
+- [nTMATE2-transporter](/xray-mp-wiki/proteins/nTMATE2-transporter/) — used with TALON cobalt affinity resin:
   - Wash buffer: 20-40 mM imidazole pH 8.0 (removes weakly bound contaminants)
   - Elution buffer: 200 mM imidazole pH 8.0 (releases His-tagged NtMATE2)
-  - Buffer system: 300 mM NaCl, 50 mM HEPES-Na pH 7.0, 5% [glycerol](//xray-mp-wiki/reagents/additives/glycerol/), 0.05% DDM
+  - Buffer system: 300 mM NaCl, 50 mM HEPES-Na pH 7.0, 5% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.05% DDM
 
 ## Proteins Using Imidazole (from raw papers, not yet in wiki)
 
-- [acrB](//xray-mp-wiki/proteins/acrB/) — 300 mM imidazole for elution from His-tag affinity column; wash steps at 25 and 100 mM imidazole
-- [etb-receptor](//xray-mp-wiki/proteins/etb-receptor/) — 15 mM imidazole in TALON wash buffer; 200 mM imidazole for elution from GFP-His₁₀ tag
+- [acrB](/xray-mp-wiki/proteins/acrB/) — 300 mM imidazole for elution from His-tag affinity column; wash steps at 25 and 100 mM imidazole
+- [etb-receptor](/xray-mp-wiki/proteins/etb-receptor/) — 15 mM imidazole in TALON wash buffer; 200 mM imidazole for elution from GFP-His₁₀ tag
 
 ## Related Purification Methods
 
-- [talon-resin](//xray-mp-wiki/methods/purification/talon-resin/) — TALON cobalt affinity resin
-- [superdex-columns](//xray-mp-wiki/methods/purification/superdex-columns/) — SEC after affinity purification
+- [talon-resin](/xray-mp-wiki/methods/purification/talon-resin/) — TALON cobalt affinity resin
+- [superdex-columns](/xray-mp-wiki/methods/purification/superdex-columns/) — SEC after affinity purification

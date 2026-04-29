@@ -53,7 +53,7 @@ Key feature: **Substrate binding and protonation compete** with each other. Subs
 
 ## Related Transporters
 
-- [sotb](//xray-mp-wiki/proteins/sotb/) — DHA1 family member, 4 conformations captured
-- [nTMATE2-transporter](//xray-mp-wiki/proteins/nTMATE2-transporter/) — MATE family, different mechanism
-- [acrB](//xray-mp-wiki/proteins/acrB/) — RND efflux pump, different superfamily
-- [mfs-transporter](//xray-mp-wiki/concepts/mfs-transporter/) — Major Facilitator Superfamily overview
+- [sotb](/xray-mp-wiki/proteins/sotb/) — DHA1 family member, 4 conformations captured
+- [nTMATE2-transporter](/xray-mp-wiki/proteins/nTMATE2-transporter/) — MATE family, different mechanism
+- [acrB](/xray-mp-wiki/proteins/acrB/) — RND efflux pump, different superfamily
+- [mfs-transporter](/xray-mp-wiki/concepts/mfs-transporter/) — Major Facilitator Superfamily overview

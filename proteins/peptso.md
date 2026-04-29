@@ -89,9 +89,9 @@ PepTSo is a proton-coupled oligopeptide transporter from the POT (Peptide Transp
 
 ## Related Transporters
 
-- [sotb](//xray-mp-wiki/proteins/sotb/) — E. coli antiporter (MFS family)
-- [mmpL3](//xray-mp-wiki/proteins/mmpL3/) — Mycobacterial drug transporter
-- [adenine-nucleotide-transporter](//xray-mp-wiki/proteins/adenine-nucleotide-transporter/) — ANT (nucleotide transporter)
+- [sotb](/xray-mp-wiki/proteins/sotb/) — E. coli antiporter (MFS family)
+- [mmpL3](/xray-mp-wiki/proteins/mmpL3/) — Mycobacterial drug transporter
+- [adenine-nucleotide-transporter](/xray-mp-wiki/proteins/adenine-nucleotide-transporter/) — ANT (nucleotide transporter)
 
 ## References
 

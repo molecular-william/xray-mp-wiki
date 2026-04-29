@@ -19,7 +19,7 @@ layout: default
 
 ## Overview
 
-The alternating access mechanism is the fundamental principle by which secondary transporters move substrates across membranes. Rather than forming a continuous pore (like [ion-channels](//xray-mp-wiki/concepts/ion-channels/)s), transporters alternate between conformations where the substrate binding site is accessible from one side of the membrane or the other, never both simultaneously.
+The alternating access mechanism is the fundamental principle by which secondary transporters move substrates across membranes. Rather than forming a continuous pore (like [ion-channels](/xray-mp-wiki/concepts/ion-channels/)s), transporters alternate between conformations where the substrate binding site is accessible from one side of the membrane or the other, never both simultaneously.
 
 ## Three Canonical States
 
@@ -53,7 +53,7 @@ The alternating access mechanism is the fundamental principle by which secondary
 
 ### Secondary Active Transport
 - Uses ion gradients (H⁺, Na⁺) established by primary pumps
-- **Uniport**: Single substrate, down its [amicon-filters](//xray-mp-wiki/methods/purification/amicon-filters/) gradient
+- **Uniport**: Single substrate, down its [amicon-filters](/xray-mp-wiki/methods/purification/amicon-filters/) gradient
 - **Symport**: Substrate + ion move in same direction
 - **Antiport**: Substrate and ion move in opposite directions
 
@@ -66,12 +66,12 @@ The alternating access mechanism is the fundamental principle by which secondary
 
 Recent structural studies (e.g., SotB) suggest that the alternating access transition may not be a simple rigid-body motion:
 - **Nonlinear movements**: Additional local conformational adjustments beyond global domain rotation
-- **Local gating helix movements**: Similar to GLUT [glucose](//xray-mp-wiki/reagents/ligands/glucose/) binding
+- **Local gating helix movements**: Similar to GLUT [glucose](/xray-mp-wiki/reagents/ligands/glucose/) binding
 - **Implication**: The transport cycle may involve more complex structural rearrangements than previously appreciated
 
 |## Related Concepts
 |
-|- [mfs-transporter](//xray-mp-wiki/concepts/mfs-transporter/) — Major Facilitator Superfamily overview
-|- [sotb](//xray-mp-wiki/proteins/sotb/) — E. coli antiporter with 4 captured conformations
-|- [nTMATE2-transporter](//xray-mp-wiki/proteins/nTMATE2-transporter/) — MATE family transporter
-|- [adenine-nucleotide-transporter](//xray-mp-wiki/proteins/adenine-nucleotide-transporter/) — Mitochondrial carrier with domain rotation
+|- [mfs-transporter](/xray-mp-wiki/concepts/mfs-transporter/) — Major Facilitator Superfamily overview
+|- [sotb](/xray-mp-wiki/proteins/sotb/) — E. coli antiporter with 4 captured conformations
+|- [nTMATE2-transporter](/xray-mp-wiki/proteins/nTMATE2-transporter/) — MATE family transporter
+|- [adenine-nucleotide-transporter](/xray-mp-wiki/proteins/adenine-nucleotide-transporter/) — Mitochondrial carrier with domain rotation

@@ -20,11 +20,11 @@ TEV protease is a highly specific cysteine protease that cleaves at the sequence
 
 ## Proteolysis Conditions (from this wiki)
 
-- [nTMATE2-transporter](//xray-mp-wiki/proteins/nTMATE2-transporter/) — TEV(S219V) protease variant used
+- [nTMATE2-transporter](/xray-mp-wiki/proteins/nTMATE2-transporter/) — TEV(S219V) protease variant used
   - Condition: 4°C for 16 hours
   - Purpose: Remove C-terminal GFP-His8 tag after TALON affinity and SEC purification
   - The S219V mutation increases protease stability and activity at low temperature
-- [etb-receptor](//xray-mp-wiki/proteins/etb-receptor/) — TEV protease cleavage between G57 and L66 to remove N-terminal Flag tag and disordered region; GFP-His₁₀ tag and TEV removed by TALON resin after cleavage
+- [etb-receptor](/xray-mp-wiki/proteins/etb-receptor/) — TEV protease cleavage between G57 and L66 to remove N-terminal Flag tag and disordered region; GFP-His₁₀ tag and TEV removed by TALON resin after cleavage
 
 ## Why TEV?
 
@@ -34,5 +34,5 @@ TEV protease is a highly specific cysteine protease that cleaves at the sequence
 
 ## Related Purification Steps
 
-- [talon-resin](//xray-mp-wiki/methods/purification/talon-resin/) — His-tag affinity capture (tag removed by TEV)
-- [superdex-columns](//xray-mp-wiki/methods/purification/superdex-columns/) — SEC to separate cleaved tag and TEV protease
+- [talon-resin](/xray-mp-wiki/methods/purification/talon-resin/) — His-tag affinity capture (tag removed by TEV)
+- [superdex-columns](/xray-mp-wiki/methods/purification/superdex-columns/) — SEC to separate cleaved tag and TEV protease

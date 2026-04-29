@@ -36,14 +36,14 @@ layout: default
 - **Concentration**: 1% Anzergent 3,12
 - **Conditions**: Room temperature, 1 hour incubation
 - **Source**: *Magnetospirillum magnetotactium* KirBac3.1 expressed in *E. coli* BL21 (DE3) star cells
-- **Protocol**: Cells lysed at 20,000 psi (high-pressure homogenizer), membrane fraction solubilized in 1% Anzergent 3,12 at RT for 1 hr, debris removed by [centrifugation](//xray-mp-wiki/methods/purification/centrifugation/)
+- **Protocol**: Cells lysed at 20,000 psi (high-pressure homogenizer), membrane fraction solubilized in 1% Anzergent 3,12 at RT for 1 hr, debris removed by [centrifugation](/xray-mp-wiki/methods/purification/centrifugation/)
 - **Subsequent purification**: Ni²⁺-loaded IMAC followed by size-exclusion chromatography
 - **Final protein concentration**: ~8 mg/mL in detergent for crystallization
 - **Verification**: Raw paper (10.1016/j.cell.2010.05.003) confirms: "Full-length KirBac3.1 from Magnetospirillum magnetotactium and a Q170A mutant channel were expressed at 25°C in E. coli BL21 (DE3) star cells. After harvesting, cells were lysed at 20,000 psi in a high-pressure homogenizer. Protein was extracted by incubating the lysate with 1% Anzergent 3,12 at room temperature for 1 hr."
 
 ## Proteins Using Anzergent 3,12 (from this wiki)
 
-- [kirbac](//xray-mp-wiki/proteins/kirbac/) — KirBac3.1 from *Magnetospirillum magnetotactium*; 1% Anzergent 3,12 for solubilization at RT for 1 hr
+- [kirbac](/xray-mp-wiki/proteins/kirbac/) — KirBac3.1 from *Magnetospirillum magnetotactium*; 1% Anzergent 3,12 for solubilization at RT for 1 hr
 
 ## Comparison with Other Detergents
 
@@ -56,7 +56,7 @@ layout: default
 
 ## Related Detergents
 
-- [ddm](//xray-mp-wiki/reagents/detergents/ddm/) — n-Dodecyl-β-D-maltopyranoside, standard mild detergent
-- [og](//xray-mp-wiki/reagents/detergents/og/) — n-Octyl β-D-glucopyranoside, short-chain strong detergent
-- [lmng](//xray-mp-wiki/reagents/detergents/lmng/) — Lauryl Maltose Neopentyl Glycol, very mild detergent for GPCRs
-- [gdn](//xray-mp-wiki/reagents/detergents/gdn/) — Glyco-Diosgenin, extremely mild steroidal glycoside
+- [ddm](/xray-mp-wiki/reagents/detergents/ddm/) — n-Dodecyl-β-D-maltopyranoside, standard mild detergent
+- [og](/xray-mp-wiki/reagents/detergents/og/) — n-Octyl β-D-glucopyranoside, short-chain strong detergent
+- [lmng](/xray-mp-wiki/reagents/detergents/lmng/) — Lauryl Maltose Neopentyl Glycol, very mild detergent for GPCRs
+- [gdn](/xray-mp-wiki/reagents/detergents/gdn/) — Glyco-Diosgenin, extremely mild steroidal glycoside

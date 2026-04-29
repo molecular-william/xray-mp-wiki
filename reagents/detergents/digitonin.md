@@ -37,11 +37,11 @@ Digitonin (High Purity, MilliporeSigma) was used for the cryo-EM sample preparat
 
 ## Proteins Using Digitonin (from this wiki)
 
-- [navab-sodium-channel](//xray-mp-wiki/proteins/navab-sodium-channel/) — MBP-NaVAb/KAV/G94C/Q150C resting-state complex; digitonin for cryo-EM grid preparation; 4.0 Å overall resolution; 3.0–3.9 Å in pore module
+- [navab-sodium-channel](/xray-mp-wiki/proteins/navab-sodium-channel/) — MBP-NaVAb/KAV/G94C/Q150C resting-state complex; digitonin for cryo-EM grid preparation; 4.0 Å overall resolution; 3.0–3.9 Å in pore module
   - **Verification**: Raw paper (10.1016/j.cell.2019.06.031) confirms: "MBP-NaVAb/KAV/G94C/Q150C in digitonin detergent by cryo-EM... reconstructed a 3D map to 4.0-Å overall resolution... The map resolution is 3.0–3.9Å in the PM"
 
 ## Related Detergents
 
-- [gdn](//xray-mp-wiki/reagents/detergents/gdn/) — Glyco-Diosgenin, another steroidal glycoside for cryo-EM
+- [gdn](/xray-mp-wiki/reagents/detergents/gdn/) — Glyco-Diosgenin, another steroidal glycoside for cryo-EM
 - Maltose Neopentyl Glycol — Maltose neopentyl glycol, extremely mild for GPCR stabilization
-- [ddm](//xray-mp-wiki/reagents/detergents/ddm/) — n-Dodecyl-β-D-maltopyranoside, standard mild detergent
+- [ddm](/xray-mp-wiki/reagents/detergents/ddm/) — n-Dodecyl-β-D-maltopyranoside, standard mild detergent

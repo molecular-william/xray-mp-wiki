@@ -30,6 +30,6 @@ Calcium chloride (CaCl2) is a divalent cation salt used in protein crystallizati
 
 ## Cross-References
 
-- [dap12](//xray-mp-wiki/proteins/dap12/) — DAP12-TM tetramer crystallized with CaCl2
-- [peg-3350](//xray-mp-wiki/reagents/additives/peg-3350/) — PEG 3350 precipitant
-- [bis-tris-propane](//xray-mp-wiki/reagents/buffers/bis-tris-propane/) — BTP buffer
+- [dap12](/xray-mp-wiki/proteins/dap12/) — DAP12-TM tetramer crystallized with CaCl2
+- [peg-3350](/xray-mp-wiki/reagents/additives/peg-3350/) — PEG 3350 precipitant
+- [bis-tris-propane](/xray-mp-wiki/reagents/buffers/bis-tris-propane/) — BTP buffer

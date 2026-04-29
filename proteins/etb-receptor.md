@@ -43,7 +43,7 @@ The receptor consists of canonical 7 transmembrane helices (TM), amphipathic hel
 
 ## Ligand Binding
 
-### [sarafotoxin-s6b](//xray-mp-wiki/reagents/ligands/sarafotoxin-s6b/)
+### [sarafotoxin-s6b](/xray-mp-wiki/reagents/ligands/sarafotoxin-s6b/)
 - 21-amino-acid peptide with bicyclic architecture (disulfide bonds C1–C15 and C3–C11)
 - N-terminal region (residues 1–7), α-helical region (residues 8–17), C-terminal region (residues 18–21)
 - 4 cysteines conserved with ET-1/ET-3; 8 residues differ
@@ -55,13 +55,13 @@ The receptor consists of canonical 7 transmembrane helices (TM), amphipathic hel
 
 ## Solubilization and Purification
 
-- **Expression**: [sf9-cells](//xray-mp-wiki/methods/expression-systems/sf9-cells/) (baculovirus [baculovirus-expression](//xray-mp-wiki/methods/expression-systems/baculovirus-expression/))
+- **Expression**: [sf9-cells](/xray-mp-wiki/methods/expression-systems/sf9-cells/) (baculovirus [baculovirus-expression](/xray-mp-wiki/methods/expression-systems/baculovirus-expression/))
 - **Construct**: N-terminal HA signal peptide + Flag epitope tag (DYKDDDDK) + 9-aa linker; C-terminus truncated after S407; 3 cysteines mutated to alanine (C396A, C400A, C405A) to avoid palmitoylation
-- **Solubilization**: 1% [ddm](//xray-mp-wiki/reagents/detergents/ddm/), 0.2% [cholesterol-hydrogen-succinate](//xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/), 20 mM [tris-buffer](//xray-mp-wiki/reagents/buffers/tris-buffer/)-HCl pH 7.5, 200 mM [sodium-chloride](//xray-mp-wiki/reagents/additives/sodium-chloride/), 2 mg/mL iodoacetamide, 1 hr at 4°C
-- **Affinity**: [talon-resin](//xray-mp-wiki/methods/purification/talon-resin/) (GFP-His₁₀ tag), washed with 0.1% [lmng](//xray-mp-wiki/reagents/detergents/lmng/) + 0.01% [cholesterol-hydrogen-succinate](//xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/) + 15 mM [imidazole](//xray-mp-wiki/reagents/additives/imidazole/); eluted with 0.01% [lmng](//xray-mp-wiki/reagents/detergents/lmng/) + 0.001% [cholesterol-hydrogen-succinate](//xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/) + 200 mM [imidazole](//xray-mp-wiki/reagents/additives/imidazole/)
-- **Tag removal**: [tev-protease](//xray-mp-wiki/reagents/protein-tags/tev-protease/) cleavage; GFP-His₁₀ and TEV removed by [talon-resin](//xray-mp-wiki/methods/purification/talon-resin/)
-- **SEC**: [superdex-columns](//xray-mp-wiki/methods/purification/superdex-columns/) 10/300 Increase, 20 mM [tris-buffer](//xray-mp-wiki/reagents/buffers/tris-buffer/)-HCl pH 7.5, 150 mM [sodium-chloride](//xray-mp-wiki/reagents/additives/sodium-chloride/), 0.01% [lmng](//xray-mp-wiki/reagents/detergents/lmng/), 0.001% [cholesterol-hydrogen-succinate](//xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/)
-- **Concentration**: 40 mg/mL (Millipore 50 kDa MWCO [amicon-filters](//xray-mp-wiki/methods/purification/amicon-filters/))
+- **Solubilization**: 1% [ddm](/xray-mp-wiki/reagents/detergents/ddm/), 0.2% [cholesterol-hydrogen-succinate](/xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/), 20 mM [tris-buffer](/xray-mp-wiki/reagents/buffers/tris-buffer/)-HCl pH 7.5, 200 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 2 mg/mL iodoacetamide, 1 hr at 4°C
+- **Affinity**: [talon-resin](/xray-mp-wiki/methods/purification/talon-resin/) (GFP-His₁₀ tag), washed with 0.1% [lmng](/xray-mp-wiki/reagents/detergents/lmng/) + 0.01% [cholesterol-hydrogen-succinate](/xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/) + 15 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/); eluted with 0.01% [lmng](/xray-mp-wiki/reagents/detergents/lmng/) + 0.001% [cholesterol-hydrogen-succinate](/xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/) + 200 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/)
+- **Tag removal**: [tev-protease](/xray-mp-wiki/reagents/protein-tags/tev-protease/) cleavage; GFP-His₁₀ and TEV removed by [talon-resin](/xray-mp-wiki/methods/purification/talon-resin/)
+- **SEC**: [superdex-columns](/xray-mp-wiki/methods/purification/superdex-columns/) 10/300 Increase, 20 mM [tris-buffer](/xray-mp-wiki/reagents/buffers/tris-buffer/)-HCl pH 7.5, 150 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 0.01% [lmng](/xray-mp-wiki/reagents/detergents/lmng/), 0.001% [cholesterol-hydrogen-succinate](/xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/)
+- **Concentration**: 40 mg/mL (Millipore 50 kDa MWCO [amicon-filters](/xray-mp-wiki/methods/purification/amicon-filters/))
 - **Crystallization**: S6b added during concentration; crystals soaked with S6b prior to data collection
 
 ## Related Endothelin Receptors
@@ -72,11 +72,11 @@ The receptor consists of canonical 7 transmembrane helices (TM), amphipathic hel
 
 ## Related GPCRs
 
-- [a2a-adenosine-receptor](//xray-mp-wiki/proteins/a2a-adenosine-receptor/) — GPCR with [bril](//xray-mp-wiki/reagents/protein-tags/bril/) fusion and thermostabilization
-- [angiotensin-ii-type-1-receptor](//xray-mp-wiki/proteins/angiotensin-ii-type-1-receptor/) — GPCR with SFX/XFEL and LCP crystallization
-- [5ht2b-receptor](//xray-mp-wiki/proteins/5ht2b-receptor/) — Serotonin GPCR with BRIL fusion and LCP
-- [kappa-opioid-receptor](//xray-mp-wiki/proteins/kappa-opioid-receptor/) — Opioid GPCR with [nanobody](//xray-mp-wiki/reagents/antibodies/nanobody/) stabilization
-- [p2y12-receptor](//xray-mp-wiki/proteins/p2y12-receptor/) — GPCR with BRIL fusion and LCP crystallization
+- [a2a-adenosine-receptor](/xray-mp-wiki/proteins/a2a-adenosine-receptor/) — GPCR with [bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion and thermostabilization
+- [angiotensin-ii-type-1-receptor](/xray-mp-wiki/proteins/angiotensin-ii-type-1-receptor/) — GPCR with SFX/XFEL and LCP crystallization
+- [5ht2b-receptor](/xray-mp-wiki/proteins/5ht2b-receptor/) — Serotonin GPCR with BRIL fusion and LCP
+- [kappa-opioid-receptor](/xray-mp-wiki/proteins/kappa-opioid-receptor/) — Opioid GPCR with [nanobody](/xray-mp-wiki/reagents/antibodies/nanobody/) stabilization
+- [p2y12-receptor](/xray-mp-wiki/proteins/p2y12-receptor/) — GPCR with BRIL fusion and LCP crystallization
 
 ## References
 
@@ -88,7 +88,7 @@ The receptor consists of canonical 7 transmembrane helices (TM), amphipathic hel
 
 ## Cross-References
 
-- [sarafotoxin-s6b](//xray-mp-wiki/reagents/ligands/sarafotoxin-s6b/) — Sarafotoxin S6b peptide ligand
-- [sf9-cells](//xray-mp-wiki/methods/expression-systems/sf9-cells/) — Baculovirus expression system
-- [t4-lysozyme](//xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — T4 lysozyme fusion partner (T4L)
-- [baculovirus-expression](//xray-mp-wiki/methods/expression-systems/baculovirus-expression/) — Baculovirus expression system
+- [sarafotoxin-s6b](/xray-mp-wiki/reagents/ligands/sarafotoxin-s6b/) — Sarafotoxin S6b peptide ligand
+- [sf9-cells](/xray-mp-wiki/methods/expression-systems/sf9-cells/) — Baculovirus expression system
+- [t4-lysozyme](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — T4 lysozyme fusion partner (T4L)
+- [baculovirus-expression](/xray-mp-wiki/methods/expression-systems/baculovirus-expression/) — Baculovirus expression system

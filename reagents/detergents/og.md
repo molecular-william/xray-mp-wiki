@@ -27,7 +27,7 @@ OG is a relatively short-chain non-ionic detergent used for GPCR solubilization 
 
 ## Proteins Using OG (from this wiki)
 
-- [opsin-gpcr](//xray-mp-wiki/proteins/opsin-gpcr/) — primary solubilization and crystallization detergent
+- [opsin-gpcr](/xray-mp-wiki/proteins/opsin-gpcr/) — primary solubilization and crystallization detergent
   - OG molecule found in the retinal-binding pocket of Ops* structure
   - Replaces retinal and stabilizes the active conformation
   - Forms multiple hydrogen bonds mimicking odorant-receptor interactions
@@ -39,7 +39,7 @@ OG was tested in rhodopsin reconstitution assays and showed concentration-depend
 
 ## Related Detergents
 
-- [ng](//xray-mp-wiki/reagents/detergents/ng/) (nonylglucoside) — longer chain analog
-- [hpg](//xray-mp-wiki/reagents/detergents/hpg/) (heptylglucoside) — shorter chain analog
-- [ddm](//xray-mp-wiki/reagents/detergents/ddm/) — longer chain (dodecyl), milder
-- [dm](//xray-mp-wiki/reagents/detergents/dm/) (decylmaltoside) — fits best sterically in retinal pocket
+- [ng](/xray-mp-wiki/reagents/detergents/ng/) (nonylglucoside) — longer chain analog
+- [hpg](/xray-mp-wiki/reagents/detergents/hpg/) (heptylglucoside) — shorter chain analog
+- [ddm](/xray-mp-wiki/reagents/detergents/ddm/) — longer chain (dodecyl), milder
+- [dm](/xray-mp-wiki/reagents/detergents/dm/) (decylmaltoside) — fits best sterically in retinal pocket

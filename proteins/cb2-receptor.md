@@ -25,7 +25,7 @@ CB2 (Cannabinoid Receptor 2) is a Class A GPCR primarily expressed in the immune
 - **Ligand**: AM12033 (synthetic cannabinoid agonist, Ki = 0.37 nM for CB2)
 - **G protein**: Heterotrimeric G(i) (G(alpha)i1, G(beta)1, G(gamma)2) — nucleotide-free
 - **Stabilizer**: scFv16 antibody fragment at G(alpha)i/G(beta) interface
-- **N-terminal fusion**: [bril-fusion](//xray-mp-wiki/concepts/bril-fusion/) (BRIL protein) inserted at CB2 N terminus to improve expression
+- **N-terminal fusion**: [bril-fusion](/xray-mp-wiki/concepts/bril-fusion/) (BRIL protein) inserted at CB2 N terminus to improve expression
 - **Expression**: Sf9 insect cells via Bac-to-Bac Baculovirus Expression System (co-expression of CB2, G(alpha)i1, G(beta)1gamma2 at 1:2:2 ratio)
 
 ### Hua et al. (Cell 2020) — CB2-AM12033 Crystal Structure (Agonist-Bound)
@@ -108,14 +108,14 @@ CB2 activation differs fundamentally from CB1:
 - **Construct**: Wild-type human CB2 with BRIL fusion at N terminus, HA signal sequence, 10xHis tag, Flag tag — cloned into modified pFastBac1
 - **G protein co-expression**: G(alpha)i1 in pFastBac1, G(beta)1gamma2 in pFastDual; infected at 2-2.5 x 10^6 cells/mL, ratio 1:2:2
 - **Cell harvest**: 48 h post-infection at 27°C, pellets stored at -80°C
-- **Detergent**: [lmng](//xray-mp-wiki/reagents/detergents/lmng/) (Lauryl Maltose Neopentyl Glycol, Anatrace Cat#4216588) for membrane solubilization
-- **Lipid**: [cholesterol-hydrogen-succinate](//xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/) (CHS, Sigma Cat#C6512) for stability
+- **Detergent**: [lmng](/xray-mp-wiki/reagents/detergents/lmng/) (Lauryl Maltose Neopentyl Glycol, Anatrace Cat#4216588) for membrane solubilization
+- **Lipid**: [cholesterol-hydrogen-succinate](/xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/) (CHS, Sigma Cat#C6512) for stability
 - **Reductant**: tcep (TCEP, Thermo Fisher Cat#77720)
 - **EDTA**: Ethylenediamine Tetraacetic Acid (Fisher Cat#S311-500)
 
 ### Hua et al. (Cell 2020) — X-ray Crystallography (CB2-AM12033)
 
-- **Crystallization method**: [lipidic-cubic-phase](//xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (LCP)
+- **Crystallization method**: [lipidic-cubic-phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (LCP)
 - **Lipid matrix**: 1-Oleoyl-rac-glycerol (monoolein, Sigma Cat#M7765)
 - **Protein concentration**: Mixed 1:1 with monoolein using LCP injector (Stoelting)
 - **Crystallization setup**: 96-well glass sandwich plates; reservoir containing precipitant solution
@@ -131,25 +131,25 @@ CB2 activation differs fundamentally from CB1:
 - **IMAC wash I**: 25 mM HEPES pH 7.5, 100 mM NaCl, 10% glycerol, 0.1% LMNG, 0.02% CHS, 30 mM imidazole, 20 μM AM841
 - **IMAC wash II**: 25 mM HEPES pH 7.5, 100 mM NaCl, 10% glycerol, 0.03% LMNG, 0.006% CHS, 50 mM imidazole, 20 μM AM841
 - **IMAC elution**: 25 mM HEPES pH 7.5, 100 mM NaCl, 10% glycerol, 0.01% LMNG, 0.001% CHS, 250 mM imidazole, 20 μM AM841
-- **Resin**: [imac](//xray-mp-wiki/methods/purification/imac/) TALON IMAC resin (Clontech Cat#635507)
+- **Resin**: [imac](/xray-mp-wiki/methods/purification/imac/) TALON IMAC resin (Clontech Cat#635507)
 - **Desalting**: PD MiniTrap G-25 column (GE Healthcare)
 
 ## Cross-References
 
-- [cb1-receptor](//xray-mp-wiki/proteins/cb1-receptor/) — Cannabinoid Receptor 1 (44% sequence identity, distinct activation mechanism)
-- [bril-fusion](//xray-mp-wiki/concepts/bril-fusion/) — BRIL N-terminal fusion for CB2 expression enhancement
-- [scfv16](//xray-mp-wiki/reagents/antibodies/scfv16/) — scFv16 antibody fragment for CB2-Gi complex stabilization
-- [lmng](//xray-mp-wiki/reagents/detergents/lmng/) — Detergent for CB2 solubilization
-- [cholesterol-hydrogen-succinate](//xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/) — CHS for membrane protein stability
-- [monoolein](//xray-mp-wiki/methods/crystallization/monoolein/) — Monoolein lipid matrix for LCP crystallization
-- [gdn](//xray-mp-wiki/reagents/detergents/gdn/) — Glycol-diosgenin used in CB1 cryo-EM buffer
-- [cryoem](//xray-mp-wiki/methods/structure-determination/cryoem/) — Cryo-EM structure determination (2.9 Å for CB2-Gi-scFv16)
-- [xray-crystallography](//xray-mp-wiki/methods/structure-determination/xray-crystallography/) — X-ray crystallography (3.2 Å for CB2-AM12033)
-- [lipidic-cubic-phase](//xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization method
-- [imac](//xray-mp-wiki/methods/purification/imac/) — TALON IMAC affinity resin for purification
-- [size-exclusion-chromatography](//xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — SEC for complex purification
-- [sf9-cells](//xray-mp-wiki/methods/expression-systems/sf9-cells/) — Sf9 insect cells for CB2-Gi co-expression
-- [am12033](//xray-mp-wiki/reagents/ligands/am12033/) — CB2-selective synthetic cannabinoid agonist
-- [am841](//xray-mp-wiki/reagents/ligands/am841/) — THC-like cannabinoid agonist (used for CB1 studies)
-- [hu-308](//xray-mp-wiki/reagents/ligands/hu-308/) — CB2-selective agonist (Ki = 22.7 nM CB2)
-- [l-759-656](//xray-mp-wiki/reagents/ligands/l-759-656/) — CB2-selective agonist (406x selective over CB1)
+- [cb1-receptor](/xray-mp-wiki/proteins/cb1-receptor/) — Cannabinoid Receptor 1 (44% sequence identity, distinct activation mechanism)
+- [bril-fusion](/xray-mp-wiki/concepts/bril-fusion/) — BRIL N-terminal fusion for CB2 expression enhancement
+- [scfv16](/xray-mp-wiki/reagents/antibodies/scfv16/) — scFv16 antibody fragment for CB2-Gi complex stabilization
+- [lmng](/xray-mp-wiki/reagents/detergents/lmng/) — Detergent for CB2 solubilization
+- [cholesterol-hydrogen-succinate](/xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/) — CHS for membrane protein stability
+- [monoolein](/xray-mp-wiki/methods/crystallization/monoolein/) — Monoolein lipid matrix for LCP crystallization
+- [gdn](/xray-mp-wiki/reagents/detergents/gdn/) — Glycol-diosgenin used in CB1 cryo-EM buffer
+- [cryoem](/xray-mp-wiki/methods/structure-determination/cryoem/) — Cryo-EM structure determination (2.9 Å for CB2-Gi-scFv16)
+- [xray-crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — X-ray crystallography (3.2 Å for CB2-AM12033)
+- [lipidic-cubic-phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization method
+- [imac](/xray-mp-wiki/methods/purification/imac/) — TALON IMAC affinity resin for purification
+- [size-exclusion-chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — SEC for complex purification
+- [sf9-cells](/xray-mp-wiki/methods/expression-systems/sf9-cells/) — Sf9 insect cells for CB2-Gi co-expression
+- [am12033](/xray-mp-wiki/reagents/ligands/am12033/) — CB2-selective synthetic cannabinoid agonist
+- [am841](/xray-mp-wiki/reagents/ligands/am841/) — THC-like cannabinoid agonist (used for CB1 studies)
+- [hu-308](/xray-mp-wiki/reagents/ligands/hu-308/) — CB2-selective agonist (Ki = 22.7 nM CB2)
+- [l-759-656](/xray-mp-wiki/reagents/ligands/l-759-656/) — CB2-selective agonist (406x selective over CB1)

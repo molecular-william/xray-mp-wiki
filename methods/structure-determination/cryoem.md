@@ -23,19 +23,19 @@ Cryo-electron microscopy is a structural biology technique where protein samples
 
 ## Cryo-EM in Membrane Protein Studies (from this wiki)
 
-- [psi-lhci-supercomplex](//xray-mp-wiki/proteins/psi-lhci-supercomplex/) — CryoEM used to visualize [psi-lhci-supercomplex](//xray-mp-wiki/proteins/psi-lhci-supercomplex/) supercomplex:
+- [psi-lhci-supercomplex](/xray-mp-wiki/proteins/psi-lhci-supercomplex/) — CryoEM used to visualize [psi-lhci-supercomplex](/xray-mp-wiki/proteins/psi-lhci-supercomplex/) supercomplex:
   - Revealed extra densities on luminal and stromal sides
   - Densities situated near electron transfer pathway
   - Complemented X-ray crystallography data
-- [navab-sodium-channel](//xray-mp-wiki/proteins/navab-sodium-channel/) — Resting-state NaVAb structure at 4.0 Å; MBP-NaVAb/KAV/G94C/Q150C disulfide-crosslinked complex in [digitonin](//xray-mp-wiki/reagents/detergents/digitonin/) detergent; pore module resolved at 3.0–3.9 Å; complete voltage-dependent gating mechanism elucidated
+- [navab-sodium-channel](/xray-mp-wiki/proteins/navab-sodium-channel/) — Resting-state NaVAb structure at 4.0 Å; MBP-NaVAb/KAV/G94C/Q150C disulfide-crosslinked complex in [digitonin](/xray-mp-wiki/reagents/detergents/digitonin/) detergent; pore module resolved at 3.0–3.9 Å; complete voltage-dependent gating mechanism elucidated
 
 ## Relationship to This Wiki
 
 While this wiki focuses on X-ray crystallography reagents, cryo-EM is increasingly used alongside crystallography in the same workflows:
 
-- **Same solubilization reagents**: Detergents (DDM, LMNG, [gdn](//xray-mp-wiki/reagents/detergents/gdn/)) used for both techniques
+- **Same solubilization reagents**: Detergents (DDM, LMNG, [gdn](/xray-mp-wiki/reagents/detergents/gdn/)) used for both techniques
 - **GDN (GlycoDiosgenin)**: Specifically mentioned as extremely mild for cryo-EM sample prep
-- **[lipidic-cubic-phase](//xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)**: Both cryo-EM and crystallography use lipidic cubic phase
+- **[lipidic-cubic-phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)**: Both cryo-EM and crystallography use lipidic cubic phase
 - **Vitrification**: Flash-freezing in liquid nitrogen used in both (cryo-EM) and X-ray crystallography
 
 ## When Cryo-EM Is Preferred
@@ -47,6 +47,6 @@ While this wiki focuses on X-ray crystallography reagents, cryo-EM is increasing
 
 ## Related Structural Methods
 
-- [xray-crystallography](//xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Primary method in this wiki
-- [molecular-replacement](//xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Phasing method (also used in cryo-EM)
-- [lipidic-cubic-phase](//xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — [lipidic-cubic-phase](//xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) used for both cryo-EM and crystallography
+- [xray-crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Primary method in this wiki
+- [molecular-replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Phasing method (also used in cryo-EM)
+- [lipidic-cubic-phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — [lipidic-cubic-phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) used for both cryo-EM and crystallography

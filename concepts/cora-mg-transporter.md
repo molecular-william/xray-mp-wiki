@@ -80,6 +80,6 @@ This motif is located on the outer surface of the membrane and tends to be disor
 
 ## Cross-References
 
-- [zntb-transporter](//xray-mp-wiki/proteins/zntb-transporter/) — Distant homolog; zinc/cadmium exporter with similar pentameric architecture
-- [mfs-transporter](//xray-mp-wiki/concepts/mfs-transporter/) — Major facilitator superfamily (different family)
-- [kirbac](//xray-mp-wiki/proteins/kirbac/) — Potassium channel; tetrameric architecture comparison
+- [zntb-transporter](/xray-mp-wiki/proteins/zntb-transporter/) — Distant homolog; zinc/cadmium exporter with similar pentameric architecture
+- [mfs-transporter](/xray-mp-wiki/concepts/mfs-transporter/) — Major facilitator superfamily (different family)
+- [kirbac](/xray-mp-wiki/proteins/kirbac/) — Potassium channel; tetrameric architecture comparison

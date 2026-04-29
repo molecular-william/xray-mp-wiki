@@ -18,18 +18,18 @@ Centrifugation is used throughout membrane protein workflows for cell lysis, mem
 ## Types Used in This Wiki
 
 ### Ultracentrifugation (High-Speed)
-- [nTMATE2-transporter](//xray-mp-wiki/proteins/nTMATE2-transporter/) — 130,000 g for 30 min to separate solubilized membrane proteins from insoluble debris
-- [psi-lhci-supercomplex](//xray-mp-wiki/proteins/psi-lhci-supercomplex/) — high-speed centrifugation of sonicated lysates
+- [nTMATE2-transporter](/xray-mp-wiki/proteins/nTMATE2-transporter/) — 130,000 g for 30 min to separate solubilized membrane proteins from insoluble debris
+- [psi-lhci-supercomplex](/xray-mp-wiki/proteins/psi-lhci-supercomplex/) — high-speed centrifugation of sonicated lysates
 
 ### Sucrose Density Gradient Ultracentrifugation
-- [psi-lhci-supercomplex](//xray-mp-wiki/proteins/psi-lhci-supercomplex/) — sucrose density gradient used to isolate [psi-lhci-supercomplex](//xray-mp-wiki/proteins/psi-lhci-supercomplex/) supercomplexes
+- [psi-lhci-supercomplex](/xray-mp-wiki/proteins/psi-lhci-supercomplex/) — sucrose density gradient used to isolate [psi-lhci-supercomplex](/xray-mp-wiki/proteins/psi-lhci-supercomplex/) supercomplexes
   - Yields PSI-4LHCI, PSI-6LHCI, PSI-8LHCI, PSI-9LHCI, PSI-10LHCI forms
   - Followed by β-DDM → GDN exchange for cryo-EM prep
 
 ### Low-Speed Centrifugation
-- [nTMATE2-transporter](//xray-mp-wiki/proteins/nTMATE2-transporter/) — Microfluidizer at 22,000 p.s.i. for cell lysis (not centrifugation per se, but similar purpose)
+- [nTMATE2-transporter](/xray-mp-wiki/proteins/nTMATE2-transporter/) — Microfluidizer at 22,000 p.s.i. for cell lysis (not centrifugation per se, but similar purpose)
 
 ## Related Methods
 
-- [size-exclusion-chromatography](//xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — SEC after centrifugation clarification
-- [amicon-filters](//xray-mp-wiki/methods/purification/amicon-filters/) — ultracentrifugal concentration
+- [size-exclusion-chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — SEC after centrifugation clarification
+- [amicon-filters](/xray-mp-wiki/methods/purification/amicon-filters/) — ultracentrifugal concentration

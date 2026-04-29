@@ -39,5 +39,5 @@ Salvinorin A was used to immunize llamas for generation of KOP-specific nanobodi
 
 ## Cross-References
 
-- [kappa-opioid-receptor](//xray-mp-wiki/proteins/kappa-opioid-receptor/) — Primary target; SalA used for [nanobody](//xray-mp-wiki/reagents/antibodies/nanobody/) immunization
-- [mp1104](//xray-mp-wiki/reagents/ligands/mp1104/) — KOP agonist; different chemical class (epoxymorphinan)
+- [kappa-opioid-receptor](/xray-mp-wiki/proteins/kappa-opioid-receptor/) — Primary target; SalA used for [nanobody](/xray-mp-wiki/reagents/antibodies/nanobody/) immunization
+- [mp1104](/xray-mp-wiki/reagents/ligands/mp1104/) — KOP agonist; different chemical class (epoxymorphinan)

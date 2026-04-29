@@ -59,5 +59,5 @@ Unlatching causes intracellular vestibule dilation (~4.5 Å), simultaneously dis
 
 ## Related Reagents
 
-- [sodium-chloride](//xray-mp-wiki/reagents/additives/sodium-chloride/) — NaCl for osmotic balance
-- [li2so4](//xray-mp-wiki/reagents/additives/li2so4/) — Lithium sulfate, kosmotropic salt
+- [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) — NaCl for osmotic balance
+- [li2so4](/xray-mp-wiki/reagents/additives/li2so4/) — Lithium sulfate, kosmotropic salt

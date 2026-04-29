@@ -21,8 +21,8 @@ Molecular replacement (MR) is an X-ray crystallography phasing method that uses 
 ## Key Software
 
 - **PHASER** (CCP4) — most widely used MR program
-- Used by: [nTMATE2-transporter](//xray-mp-wiki/proteins/nTMATE2-transporter/) (CasMATE model, PDB 5YCK)
-- Used by: [psi-lhci-supercomplex](//xray-mp-wiki/proteins/psi-lhci-supercomplex/) (plant PSI-LHCI, PDB 4XK8)
+- Used by: [nTMATE2-transporter](/xray-mp-wiki/proteins/nTMATE2-transporter/) (CasMATE model, PDB 5YCK)
+- Used by: [psi-lhci-supercomplex](/xray-mp-wiki/proteins/psi-lhci-supercomplex/) (plant PSI-LHCI, PDB 4XK8)
 
 ## Advantages
 
@@ -38,5 +38,5 @@ Molecular replacement (MR) is an X-ray crystallography phasing method that uses 
 
 ## Related Methods
 
-- [xray-crystallography](//xray-mp-wiki/methods/structure-determination/xray-crystallography/) — SAD and MAD phasing methods (consolidated under X-ray Crystallography)
-- [xray-crystallography](//xray-mp-wiki/methods/structure-determination/xray-crystallography/) — General X-ray structure determination
+- [xray-crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — SAD and MAD phasing methods (consolidated under X-ray Crystallography)
+- [xray-crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — General X-ray structure determination
