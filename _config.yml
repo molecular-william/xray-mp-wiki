@@ -2,26 +2,26 @@ theme: minima
 title: X-ray Detergent Wiki
 description: Wiki on reagents and procedures for X-ray crystallography of membrane proteins
 author: molecular-william
-baseurl: "/xray-detergent-wiki"
+baseurl: "/xray-mp-wiki"
 url: "https://molecular-william.github.io"
 permalink: pretty
 
 collections:
   proteins:
     output: true
-    permalink: /proteins/:name/
+    permalink: /xray-mp-wiki/proteins/:name/
   reagents:
     output: true
-    permalink: /reagents/:name/
+    permalink: /xray-mp-wiki/reagents/:name/
   methods:
     output: true
-    permalink: /methods/:name/
+    permalink: /xray-mp-wiki/methods/:name/
   concepts:
     output: true
-    permalink: /concepts/:name/
+    permalink: /xray-mp-wiki/concepts/:name/
   categories:
     output: true
-    permalink: /categories/:name/
+    permalink: /xray-mp-wiki/categories/:name/
 
 defaults:
   - scope:
