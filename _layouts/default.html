@@ -11,22 +11,29 @@
     <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
   </header>
   <main>
+    <div class="breadcrumb">
+      {% if page.collection == 'categories' %}
+        <a href="{{ '/' | relative_url }}">Home</a> / {{ page.title }}
+      {% else %}
+        <a href="{{ '/' | relative_url }}">Home</a> / 
+        {% if page.type == 'protein' %}Proteins{% elsif page.type == 'reagent' %}Reagents{% elsif page.type == 'method' %}Methods{% elsif page.type == 'concept' %}Concepts{% else %}{{ page.type | capitalize }}{% endif %}
+      {% endif %}
+    </div>
     <nav class="sidebar">
-      <h3>Categories</h3>
-      <ul>
-        <li><a href="{{ '/categories/proteins/' | relative_url }}">Proteins</a></li>
-        <li><a href="{{ '/categories/detergents/' | relative_url }}">Detergents</a></li>
-        <li><a href="{{ '/categories/buffers/' | relative_url }}">Buffers</a></li>
-        <li><a href="{{ '/categories/additives/' | relative_url }}">Additives</a></li>
-        <li><a href="{{ '/categories/lipids/' | relative_url }}">Lipids</a></li>
-        <li><a href="{{ '/categories/methods/' | relative_url }}">Methods</a></li>
-        <li><a href="{{ '/categories/antibodies/' | relative_url }}">Antibodies</a></li>
-        <li><a href="{{ '/categories/ligands/' | relative_url }}">Ligands</a></li>
-        <li><a href="{{ '/categories/protein-tags/' | relative_url }}">Protein Tags</a></li>
-      </ul>
+      {% include sidebar.html %}
     </nav>
     <div class="content">
       {{ content }}
+      {% include see_also.html %}
+      {% include backlinks.html %}
+      <footer>
+        <p>
+          <small>
+            Last updated: {{ page.updated | date: "%Y-%m-%d" }} | 
+            <a href="https://github.com/molecular-william/xray-detergent-wiki/tree/main/wiki/{{ page.path }}">View on GitHub</a>
+          </small>
+        </p>
+      </footer>
     </div>
   </main>
 </body>

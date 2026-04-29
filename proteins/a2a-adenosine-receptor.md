@@ -114,3 +114,31 @@ The human A2A adenosine receptor is a class A GPCR that couples to Gs proteins a
 - [[p2y12-receptor]] — GPCR with BRIL fusion and LCP crystallization
 - [[5ht2b-receptor]] — Serotonin GPCR with BRIL fusion and LCP
 - [[opsin-gpcr]] — Class A GPCR structural template
+
+## See Also
+
+### Related Proteins
+- [[a2a-star2]] — Thermostabilized precursor construct
+- [[etb-receptor]] — GPCR with [[bril]] fusion and thermostabilization
+- [[p2y12-receptor]] — GPCR with BRIL fusion and LCP crystallization
+- [[5ht2b-receptor]] — Serotonin GPCR with BRIL fusion and LCP
+- [[opsin-gpcr]] — Class A GPCR structural template
+- [[kappa-opioid-receptor]] — Opioid GPCR with nanobody
+
+### Methods Used
+- [[crystallization]] — General crystallization methods
+- [[solubilization]] — Solubilization techniques
+- [[purification]] — Purification strategies
+- [[detergents]] — Detergent considerations
+- [[buffers]] — Buffer selection
+
+## Backlinks
+
+Pages that link to this page:
+{% assign backlinks = site.pages | where_exp: "page", "page.content contains page.url" | sort: 'title' %}
+{% for page in backlinks %}
+- [[{{ page.title }}]]
+{% endfor %}
+{% if backlinks.size == 0 %}
+*No pages currently link to this page.*
+{% endif %}

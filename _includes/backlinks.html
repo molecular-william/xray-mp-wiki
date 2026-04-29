@@ -1,0 +1,10 @@
+## Backlinks
+
+Pages that link to this page:
+{% assign backlinks = site.pages | where_exp: "page", "page.content contains page.url" | sort: 'title' %}
+{% for page in backlinks %}
+- [[{{ page.title }}]]
+{% endfor %}
+{% if backlinks.size == 0 %}
+*No pages currently link to this page.*
+{% endif %}

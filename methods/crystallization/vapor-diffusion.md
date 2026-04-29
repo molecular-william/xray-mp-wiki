@@ -41,8 +41,30 @@ Vapor diffusion is the most widely used method for protein crystallization. A dr
 - **Temperature**: Typically 4°C, 18°C, or 20°C
 - **Additives**: Ligands, detergents, ions, small molecules
 
-## Related Methods
+|## Related Methods
+|
+|- [[lipidic-cubic-phase]] — LCP method for membrane proteins
+|- [[microbatch]] — oil-overlay method
+|- [[dialysis]] — equilibrium dialysis crystallization
 
+## See Also
+
+### Alternative Methods
 - [[lipidic-cubic-phase]] — LCP method for membrane proteins
-- [[microbatch]] — oil-overlay method
-- [[dialysis]] — equilibrium dialysis crystallization
+- [[microbatch]] — Oil-overlay method
+- [[dialysis]] — Equilibrium dialysis crystallization
+
+### Related Techniques
+- [[crystallization]] — General crystallization overview
+- [[purification]] — Purification methods
+
+## Backlinks
+
+Pages that link to this page:
+{% assign backlinks = site.pages | where_exp: "page", "page.content contains page.url" | sort: 'title' %}
+{% for page in backlinks %}
+- [[{{ page.title }}]]
+{% endfor %}
+{% if backlinks.size == 0 %}
+*No pages currently link to this page.*
+{% endif %}

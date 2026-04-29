@@ -2,16 +2,27 @@
 title: Xray-crystallography Detergent Wiki
 ---
 layout: default
+
 This is a wiki maintained by a LLM agent and me on detergents and other reagents used in Xray-crystallography.
 
+---
 
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-28 | Total pages: 154
+> Last updated: 2026-04-29 | Total pages: 154
 
-## concepts
+## Quick Links
+
+- **[Categories]**({{ '/categories/' | relative_url }}) - Browse all categories
+- **[Search]**({{ '/search' | relative_url }}) - Search the wiki
+- **[Random Page]**({{ '/random' | relative_url }}) - Discover a random page
+- **[Wiki Health]**({{ '/health' | relative_url }}) - Check wiki statistics
+
+---
+
+## Concepts
 
 - [[alternating-access]] - Alternating Access Mechanism
 - [[bril-fusion]] - BRIL Fusion Technology
@@ -21,28 +32,24 @@ This is a wiki maintained by a LLM agent and me on detergents and other reagents
 - [[metal-ion-transporter]] - Metal Ion Transporter (MIT) Superfamily
 - [[mfs-transporter]] - MFS Transporter
 
-## methods
+## Methods
 
-### cell-lysis
-
+### Cell Lysis
 - [[microfluidizer]] - Microfluidizer
 
-### crystallization
-
+### Crystallization
 - [[lipidic-cubic-phase]] - Lipidic Cubic Phase (LCP) Crystallization
 - [[microbatch]] - Microbatch Crystallization
 - [[monoolein]] - Monoolein
 - [[vapor-diffusion]] - Vapor Diffusion Crystallization
 
-### expression-systems
-
+### Expression Systems
 - [[baculovirus-expression]] - Baculovirus Expression
 - [[hek293-cells]] - HEK293 Cells
 - [[pichia-pastoris]] - Pichia pastoris
 - [[sf9-cells]] - Sf9 Insect Cells
 
-### purification
-
+### Purification
 - [[affinity-chromatography]] - Affinity Chromatography
 - [[amicon-filters]] - Amicon Ultra Filters
 - [[centrifugation]] - Centrifugation
@@ -52,22 +59,19 @@ This is a wiki maintained by a LLM agent and me on detergents and other reagents
 - [[superdex-columns]] - Superdex Columns
 - [[talon-resin]] - TALON Cobalt Resin
 
-### quality-assessment
-
+### Quality Assessment
 - [[coomassie-staining]] - Coomassie Staining
 
-### solubilization
-
+### Solubilization
 - [[solubilization]] - Solubilization
 
-### structure-determination
-
+### Structure Determination
 - [[cryoem]] - Cryo-EM (Cryogenic Electron Microscopy)
 - [[molecular-replacement]] - Molecular Replacement
 - [[serial-femtosecond-crystallography]] - Serial Femtosecond Crystallography (SFX)
 - [[xray-crystallography]] - X-ray Crystallography
 
-## proteins
+## Proteins
 
 - [[5ht2b-receptor]] - 5-HT2B Receptor (Serotonin Receptor 2B)
 - [[a2a-adenosine-receptor]] - A2A Adenosine Receptor
@@ -81,9 +85,9 @@ This is a wiki maintained by a LLM agent and me on detergents and other reagents
 - [[beta1ar-biased-agonists]] - β1-Adrenoceptor (β1AR-m23) with Biased Agonists
 - [[bovine-rhodopsin]] - Bovine Rhodopsin (Trigonal Crystal Form)
 - [[c-ring-rotor]] - c-Ring (c11 Rotor Ring of Na+-ATP Synthase from I. tartaricus)
-- [[cd81-tetraspanin]] - CD81 Tetraspanin
 - [[cb1-receptor]] - Cannabinoid Receptor CB1 (Class A GPCR, CNS-expressed)
 - [[cb2-receptor]] - Cannabinoid Receptor CB2 (Class A GPCR, immune/peripheral)
+- [[cd81-tetraspanin]] - CD81 Tetraspanin
 - [[dap12]] - DAP12 (Immunoreceptor signaling module, TM trimer/tetramer)
 - [[etb-receptor]] - Endothelin ETB Receptor
 - [[icmt]] - ICMT (Isoprenylcysteine Carboxyl Methyltransferase)
@@ -92,12 +96,12 @@ This is a wiki maintained by a LLM agent and me on detergents and other reagents
 - [[lb-semisweet]] - LbSemiSWEET
 - [[lh2-rps-acidophila]] - LH2 Light-Harvesting Complex (Rps. acidophila)
 - [[lpa1-receptor]] - LPA1 Receptor (Lysophosphatidic Acid Receptor 1)
+- [[m1-muscarinic-receptor]] - M1 Muscarinic Acetylcholine Receptor (GPCR, cognitive function target)
 - [[mce-proteins]] - MCE Proteins — Lipid Transport Systems
 - [[mexb]] - MexB (RND Multidrug Exporter from P. aeruginosa)
 - [[mmpL3]] - MmpL3
-- [[m1-muscarinic-receptor]] - M1 Muscarinic Acetylcholine Receptor (GPCR, cognitive function target)
-- [[navab-sodium-channel]] - NaVAb Sodium Channel
 - [[nTMATE2-transporter]] - NtMATE2 Transporter
+- [[navab-sodium-channel]] - NaVAb Sodium Channel
 - [[nupg-nucleoside-transporter]] - NupG Nucleoside Transporter
 - [[opsin-gpcr]] - Opsin (Rhodopsin Apoprotein)
 - [[p2y12-receptor]] - P2Y12 Receptor
@@ -111,10 +115,9 @@ This is a wiki maintained by a LLM agent and me on detergents and other reagents
 - [[zntb-transporter]] - ZntB Transporter
 - [[ace2]] - Angiotensin-Converting Enzyme 2 (SARS-CoV-2 receptor, type II membrane protein)
 
-## reagents
+## Reagents
 
-### additives
-
+### Additives
 - [[glycerol]] - Glycerol
 - [[imidazole]] - Imidazole
 - [[jeffamine]] - Jeffamine M600
@@ -135,16 +138,14 @@ This is a wiki maintained by a LLM agent and me on detergents and other reagents
 - [[sodium-citrate]] - Sodium Citrate
 - [[sodium-sulfate]] - Sodium Sulfate (Na2SO4, salting-out precipitant)
 
-### antibodies
-
+### Antibodies
 - [[fab-fragments]] - Fab Fragments (Crystallization Facilitators)
 - [[nanobody]] - Nanobody
 - [[nanobody-nb-at110i1]] - Nanobody Nb.AT110i1
 - [[nanobody-nb39]] - Nanobody Nb39
 - [[scfv16]] - scFv16 Antibody Fragment for GPCR-Gi Complex Stabilization
 
-### buffers
-
+### Buffers
 - [[hepes-buffer]] - HEPES Buffer
 - [[mes-buffer]] - MES Buffer (2-(N-morpholino)ethanesulfonic acid, pH 5.5–6.7)
 - [[mops-buffer]] - MOPS Buffer (3-(N-morpholino)propanesulfonic acid, pH 6.5–7.9)
@@ -152,8 +153,7 @@ This is a wiki maintained by a LLM agent and me on detergents and other reagents
 - [[tris-buffer]] - Tris Buffer
 - [[bis-tris-propane]] - Bis-Tris Propane Chloride (BTP, pH ~6.5–8.5)
 
-### detergents
-
+### Detergents
 - [[anzergent-3-12]] - Anzergent 3,12
 - [[ddm]] - DDM (n-Dodecyl-β-D-Maltopyranoside)
 - [[digitonin]] - Digitonin
@@ -168,8 +168,7 @@ This is a wiki maintained by a LLM agent and me on detergents and other reagents
 - [[og]] - OG (n-Octyl β-D-Glucopyranoside)
 - [[ogng]] - OGNG (Octyl Glucose Neopentyl Glycol)
 
-### ligands
-
+### Ligands
 - [[am12033]] - AM12033 (CB2-selective synthetic cannabinoid agonist, Ki=0.37nM)
 - [[am841]] - AM841 (THC-like cannabinoid agonist for CB1)
 - [[au1235]] - AU1235
@@ -179,6 +178,7 @@ This is a wiki maintained by a LLM agent and me on detergents and other reagents
 - [[clopidogrel]] - Clopidogrel
 - [[elinogrel]] - Elinogrel
 - [[glucose]] - Glucose
+- [[htl9936]] - HTL9936 (Selective M1 partial agonist for Alzheimer's disease, EC50 32 nM)
 - [[hu-308]] - HU-308 (CB2-selective agonist, ~5000x over CB1)
 - [[ica38]] - ICA38
 - [[irbesartan]] - Irbesartan
@@ -186,7 +186,6 @@ This is a wiki maintained by a LLM agent and me on detergents and other reagents
 - [[linezolid]] - Linezolid
 - [[losartan]] - Losartan
 - [[mp1104]] - MP1104
-- [[htl9936]] - HTL9936 (Selective M1 partial agonist for Alzheimer's disease, EC50 32 nM)
 - [[neca]] - NECA (5'-N-Ethylcarboxamidoadenosine)
 - [[nicotine-ligand]] - Nicotine (Ligand)
 - [[photoNECA]] - PhotoNECA (blue) — Photoswitchable [[a2a-adenosine-receptor]] Ligand
@@ -202,16 +201,14 @@ This is a wiki maintained by a LLM agent and me on detergents and other reagents
 - [[valsartan]] - Valsartan
 - [[zd7155]] - ZD7155
 
-### lipids
-
+### Lipids
 - [[cardiolipin]] - Cardiolipin
 - [[cholesterol-hydrogen-succinate]] - CHS (Cholesterol Hydrogen Succinate)
 - [[cholesterol-lipid]] - Cholesterol (Lipid)
 - [[cholesterol]] - Cholesterol (Sterol lipid for LCP crystallization)
 - [[structural-phospholipid]] - Structural Phospholipids
 
-### protein-tags
-
+### Protein Tags
 - [[bril]] - BRIL (Apocytochrome b562RIL)
 - [[t4-lysozyme]] - T4 Lysozyme
 - [[tev-protease]] - TEV Protease

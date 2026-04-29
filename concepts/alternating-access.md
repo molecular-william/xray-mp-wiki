@@ -68,9 +68,32 @@ Recent structural studies (e.g., SotB) suggest that the alternating access trans
 - **Local gating helix movements**: Similar to GLUT [[glucose]] binding
 - **Implication**: The transport cycle may involve more complex structural rearrangements than previously appreciated
 
-## Related Concepts
+|## Related Concepts
+|
+|- [[mfs-transporter]] — Major Facilitator Superfamily overview
+|- [[sotb]] — E. coli antiporter with 4 captured conformations
+|- [[nTMATE2-transporter]] — MATE family transporter
+|- [[adenine-nucleotide-transporter]] — Mitochondrial carrier with domain rotation
 
+## See Also
+
+### Related Concepts
 - [[mfs-transporter]] — Major Facilitator Superfamily overview
 - [[sotb]] — E. coli antiporter with 4 captured conformations
 - [[nTMATE2-transporter]] — MATE family transporter
 - [[adenine-nucleotide-transporter]] — Mitochondrial carrier with domain rotation
+
+### Applications
+- [[structure-determination]] — Structure determination methods
+- [[crystallization]] — Crystallization considerations
+
+## Backlinks
+
+Pages that link to this page:
+{% assign backlinks = site.pages | where_exp: "page", "page.content contains page.url" | sort: 'title' %}
+{% for page in backlinks %}
+- [[{{ page.title }}]]
+{% endfor %}
+{% if backlinks.size == 0 %}
+*No pages currently link to this page.*
+{% endif %}

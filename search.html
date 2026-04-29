@@ -1,0 +1,41 @@
+---
+layout: default
+permalink: /search/
+---
+
+<h1>Search</h1>
+<input type="text" id="searchInput" class="search-input" placeholder="Search wiki..." onkeyup="searchWiki()">
+<div id="searchResults" class="search-results"></div>
+
+<script>
+// Client-side search using Jekyll's site collection
+const wikiData = [
+{% for page in site.pages %}
+  {
+    title: "{{ page.title | replace: '"', '\\'' }}",
+    url: "{{ page.url }}",
+    excerpt: "{{ page.excerpt | strip_html | strip_newlines | escape_js }}"
+  },
+{% endfor %}
+];
+
+function searchWiki() {
+  const query = document.getElementById('searchInput').value.toLowerCase();
+  const results = document.getElementById('searchResults');
+  
+  if (query.length < 2) {
+    results.innerHTML = '';
+    return;
+  }
+  
+  const matches = wikiData.filter(p => 
+    p.title.toLowerCase().includes(query) || 
+    p.excerpt.toLowerCase().includes(query)
+  ).slice(0, 20); // Limit to 20 results
+  
+  results.innerHTML = matches.map(p => 
+    `<div class="search-result"><a href="${p.url}">${p.title}</a><br/>` +
+    `<small>${p.excerpt || 'No excerpt available'}</small></div>`
+  ).join('');
+}
+</script>

@@ -48,4 +48,29 @@ DDM is one of the most widely used non-ionic detergents for membrane protein sol
 - [[og]] — shorter chain (octyl), used for GPCR crystallization
 - [[lDAO]] — zwitterionic detergent, resolved in early RC crystal structure
 
+## See Also
+
+### Related Detergents
+- [[lmng]] — Milder, neopentyl glycol-based alternative
+- [[og]] — Shorter chain (octyl), used for GPCR crystallization
+- [[lDAO]] — Zwitterionic detergent
+- [[dm]] — Decylmaltoside
+- [[mng-detergent]] — Maltose neopentyl glycol
+
+### Applications
+- [[solubilization]] — General solubilization methods
+- [[crystallization]] — Crystallization conditions
+- [[purification]] — Purification strategies
+
+## Backlinks
+
+Pages that link to this page:
+{% assign backlinks = site.pages | where_exp: "page", "page.content contains page.url" | sort: 'title' %}
+{% for page in backlinks %}
+- [[{{ page.title }}]]
+{% endfor %}
+{% if backlinks.size == 0 %}
+*No pages currently link to this page.*
+{% endif %}
+
 
