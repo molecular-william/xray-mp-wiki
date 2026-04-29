@@ -1,15 +1,31 @@
-# Build output
-_site/
+# Bundler
+/vendor/bundle
+/vendor/cache
+/vendor/cache/gems
+/vendor/cache/ruby
+/vendor/cache/ruby/gems
 
-# Python cache
-*.pyc
-__pycache__/
+# RubyGems
+*.gem
+*.gemspec
 
-# macOS
+# Jekyll
+_site
+_cache
 .DS_Store
+*.swp
+*.tmp
 
-# Ruby/Gem dependencies
-Gemfile.lock
+# Editor
+.idea/
+.vscode/
+*.sublime-*
 
 # Logs
 *.log
+logs/
+
+# Test
+.rubocop.yml
+.rubocop_todo.yml
+.rubocop_cache/
