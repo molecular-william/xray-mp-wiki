@@ -61,7 +61,7 @@ BRIL (apocytochrome b562RIL) fusion technology is a widely used strategy for sta
 
 ## Related Stabilization Strategies
 
-- [[t4-lysozyme]] — T4 lysozyme fusion in ICL3 (pre-BRIL era)
+- [t4-lysozyme](/reagents/protein-tags/t4-lysozyme/) — T4 lysozyme fusion in ICL3 (pre-BRIL era)
 - nanobody — Active-state nanobody for GPCR stabilization
 - nanobody — KOR-specific nanobody (Nb39)
-- [[cholesterol-hydrogen-succinate]] — CHS for membrane protein stabilization
+- [cholesterol-hydrogen-succinate](/reagents/lipids/cholesterol-hydrogen-succinate/) — CHS for membrane protein stabilization

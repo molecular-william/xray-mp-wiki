@@ -94,8 +94,8 @@ Each of the 11 Na+ binding sites is located between adjacent c-subunits with **5
 
 ## Related Proteins
 
-- [[acrB]] — RND multidrug exporter from *P. aeruginosa*
-- [[mexb]] — RND multidrug exporter from *P. aeruginosa*
+- [acrB](/proteins/acrB/) — RND multidrug exporter from *P. aeruginosa*
+- [mexb](/proteins/mexb/) — RND multidrug exporter from *P. aeruginosa*
 - Other ion-coupled membrane transporters
 
 ## References

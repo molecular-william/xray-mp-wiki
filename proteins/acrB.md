@@ -29,17 +29,17 @@ Each protomer binds one drug molecule in the upper portion of the central cavity
 
 ## Solubilization and Purification
 
-- **Solubilization**: 2% [[ddm]] (n-dodecyl-β-D-maltopyranoside) from *E. coli* membranes
+- **Solubilization**: 2% [ddm](/reagents/detergents/ddm/) (n-dodecyl-β-D-maltopyranoside) from *E. coli* membranes
 - **Expression**: Wild-type AcrB with C-terminal polyhistidine tag, overproduced in *E. coli* JM109
-- **Purification**: Metal [[affinity-chromatography]] (His-tag) with [[imidazole]] elution (300 mM)
-- **Buffers**: 20 mM [[tris-buffer]]-HCl pH 7.5, 0.3 M [[sodium-chloride]], 10% [[glycerol]], 0.2% [[ddm]] during purification
+- **Purification**: Metal [affinity-chromatography](/methods/purification/affinity-chromatography/) (His-tag) with [imidazole](/reagents/additives/imidazole/) elution (300 mM)
+- **Buffers**: 20 mM [tris-buffer](/reagents/buffers/tris-buffer/)-HCl pH 7.5, 0.3 M [sodium-chloride](/reagents/additives/sodium-chloride/), 10% [glycerol](/reagents/additives/glycerol/), 0.2% [ddm](/reagents/detergents/ddm/) during purification
 
 ## Crystallization
 
-- **Method**: Sitting-drop [[vapor-diffusion]]
-- **Condition**: 0.1 M [[sodium-chloride]], [[sodium-phosphate]] pH 6.2, 8% [[peg-4000]]
-- **Soaking**: Apo crystals soaked with 6 mM [[linezolid]] prior to data collection
-- **Cryoprotectant**: Crystallization reagents plus 25% [[glycerol]]
+- **Method**: Sitting-drop [vapor-diffusion](/methods/crystallization/vapor-diffusion/)
+- **Condition**: 0.1 M [sodium-chloride](/reagents/additives/sodium-chloride/), [sodium-phosphate](/reagents/buffers/sodium-phosphate/) pH 6.2, 8% [peg-4000](/reagents/additives/peg-4000/)
+- **Soaking**: Apo crystals soaked with 6 mM [linezolid](/reagents/ligands/linezolid/) prior to data collection
+- **Cryoprotectant**: Crystallization reagents plus 25% [glycerol](/reagents/additives/glycerol/)
 - **Data collection**: 100 K
 
 ## Drug Binding
@@ -59,8 +59,8 @@ A local conformational change of up to 4 Å in backbone position was observed at
 
 ## Related Transporters
 
-- [[mmpL3]] — Mycobacterial drug transporter (anti-TB drug target)
-- [[sotb]] — E. coli antiporter (MFS family)
+- [mmpL3](/proteins/mmpL3/) — Mycobacterial drug transporter (anti-TB drug target)
+- [sotb](/proteins/sotb/) — E. coli antiporter (MFS family)
 
 ## References
 

@@ -85,27 +85,27 @@ CB1 exhibits a more complex activation process than CB2:
 ### Hua et al. (Cell 2020)
 
 - **Expression**: HEK293F human cells (CB1-Gi-scFv16 complex assembled *in vitro*)
-- **Detergent**: [[lmng]] (Lauryl Maltose Neopentyl Glycol) for membrane solubilization
-- **Lipid**: [[cholesterol-hydrogen-succinate]] (CHS) added for stability
-- **Additional detergent**: [[gdn]] (glycol-diosgenin) in cryo-EM purification buffer
+- **Detergent**: [lmng](/reagents/detergents/lmng/) (Lauryl Maltose Neopentyl Glycol) for membrane solubilization
+- **Lipid**: [cholesterol-hydrogen-succinate](/reagents/lipids/cholesterol-hydrogen-succinate/) (CHS) added for stability
+- **Additional detergent**: [gdn](/reagents/detergents/gdn/) (glycol-diosgenin) in cryo-EM purification buffer
 - **Antibody**: scFv16 fragment for complex stabilization during cryo-EM
 - **G protein**: Heterotrimeric G(i) co-expressed and purified separately, then assembled *in vitro*
-- **Purification**: [[size-exclusion-chromatography]] on Superdex 200 10/300 GL column
-- **SEC buffer**: 20 mM [[hepes-buffer]] pH 7.5, 100 mM [[sodium-chloride]], 0.00075% LMNG, 0.00025% GDN, 0.0001% CHS, 100 μM TCEP, 5 μM AM841
+- **Purification**: [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography/) on Superdex 200 10/300 GL column
+- **SEC buffer**: 20 mM [hepes-buffer](/reagents/buffers/hepes-buffer/) pH 7.5, 100 mM [sodium-chloride](/reagents/additives/sodium-chloride/), 0.00075% LMNG, 0.00025% GDN, 0.0001% CHS, 100 μM TCEP, 5 μM AM841
 - **Cryo-EM grid**: CryoMatrix Amorphous alloy film, 300 mesh; vitrified on Vitrobot Mark IV (100% humidity, 4°C)
 
 ## Cross-References
 
-- [[cb2-receptor]] — Cannabinoid Receptor 2 (44% sequence identity, 68% TM similarity)
-- [[bril-fusion]] — BRIL fusion used for CB2 stabilization (alternative to scFv16)
-- [[scfv16]] — scFv16 antibody fragment for GPCR-Gi complex stabilization
-- [[lmng]] — Detergent used for CB1 solubilization
-- [[cholesterol-hydrogen-succinate]] — CHS added for membrane protein stability
-- [[gdn]] — Glycol-diosfenin used in cryo-EM buffer
-- [[monoolein]] — Lipid used in LCP crystallization
-- [[cryoem]] — Cryo-EM structure determination (3.0 Å for CB1-Gi-scFv16)
-- [[xray-crystallography]] — X-ray crystallography for CB1 active-like structure
-- [[lipidic-cubic-phase]] — LCP crystallization method
-- [[size-exclusion-chromatography]] — SEC for complex purification
-- [[hek293-cells]] — HEK293 expression system (indirectly referenced via CB1 work)
-- [[sf9-cells]] — Sf9 cells used for CB2-Gi complex expression
+- [cb2-receptor](/proteins/cb2-receptor/) — Cannabinoid Receptor 2 (44% sequence identity, 68% TM similarity)
+- [bril-fusion](/concepts/bril-fusion/) — BRIL fusion used for CB2 stabilization (alternative to scFv16)
+- [scfv16](/reagents/antibodies/scfv16/) — scFv16 antibody fragment for GPCR-Gi complex stabilization
+- [lmng](/reagents/detergents/lmng/) — Detergent used for CB1 solubilization
+- [cholesterol-hydrogen-succinate](/reagents/lipids/cholesterol-hydrogen-succinate/) — CHS added for membrane protein stability
+- [gdn](/reagents/detergents/gdn/) — Glycol-diosfenin used in cryo-EM buffer
+- [monoolein](/methods/crystallization/monoolein/) — Lipid used in LCP crystallization
+- [cryoem](/methods/structure-determination/cryoem/) — Cryo-EM structure determination (3.0 Å for CB1-Gi-scFv16)
+- [xray-crystallography](/methods/structure-determination/xray-crystallography/) — X-ray crystallography for CB1 active-like structure
+- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization method
+- [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography/) — SEC for complex purification
+- [hek293-cells](/methods/expression-systems/hek293-cells/) — HEK293 expression system (indirectly referenced via CB1 work)
+- [sf9-cells](/methods/expression-systems/sf9-cells/) — Sf9 cells used for CB2-Gi complex expression

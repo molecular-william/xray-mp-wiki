@@ -29,16 +29,16 @@ LbSemiSWEET is a sugar transporter from the SWEET (SWEET homolog) family, isolat
 
 - **Expression system**: *E. coli* BL21(DE3) cells
 - **Construct**: Full-length LbSemiSWEET with N-terminal His-tag
-- **Detergent**: [[ddm]] (n-dodecyl-β-D-maltopyranoside) for membrane solubilization
-- **Purification**: [[affinity-chromatography]] (His-tag), followed by [[size-exclusion-chromatography]] ([[superdex-columns]])
-- **SEC buffer**: 20 mM [[hepes-buffer]] pH 7.5, 150 mM [[sodium-chloride]], 0.05% [[ddm]]
+- **Detergent**: [ddm](/reagents/detergents/ddm/) (n-dodecyl-β-D-maltopyranoside) for membrane solubilization
+- **Purification**: [affinity-chromatography](/methods/purification/affinity-chromatography/) (His-tag), followed by [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography/) ([superdex-columns](/methods/purification/superdex-columns/))
+- **SEC buffer**: 20 mM [hepes-buffer](/reagents/buffers/hepes-buffer/) pH 7.5, 150 mM [sodium-chloride](/reagents/additives/sodium-chloride/), 0.05% [ddm](/reagents/detergents/ddm/)
 
 ## Crystallization
 
-- **Method**: [[lipidic-cubic-phase]] (LCP) — [[monoolein]]-based mesophase
-- **Lipid**: [[monoolein]] (Nu-Chek Prep)
+- **Method**: [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) (LCP) — [monoolein](/methods/crystallization/monoolein/)-based mesophase
+- **Lipid**: [monoolein](/methods/crystallization/monoolein/) (Nu-Chek Prep)
 - **Protein-to-lipid ratio**: 1:1 (w/w)
-- **Reservoir**: 0.1 M [[sodium-acetate]] pH 4.5, 18–20% [[peg-400]], 0.2 M [[sodium-chloride]]
+- **Reservoir**: 0.1 M [sodium-acetate](/reagents/additives/sodium-acetate/) pH 4.5, 18–20% [peg-400](/reagents/additives/peg-400/), 0.2 M [sodium-chloride](/reagents/additives/sodium-chloride/)
 - **Temperature**: 20 °C
 - **Crystal growth**: 1–3 weeks
 - **Space group**: P2₁2₁2₁
@@ -68,7 +68,7 @@ The occluded state creates an unstable TM1 configuration — neither kinked nor 
 
 ## Substrate Recognition
 
-- **Substrate**: [[glucose]] (Km ~160 µM wild-type, ~70 µM D57A)
+- **Substrate**: [glucose](/reagents/ligands/glucose/) (Km ~160 µM wild-type, ~70 µM D57A)
 - **Binding pocket**: Glucose ring in vertical plane, off-center from two-fold axis, partially sandwiched between Trp48 pyrrole rings on each protomer
 - **Direct contacts**: Asn64 and Thr13 (on only one protomer) coordinate substrate hydroxyl groups
 - **Notable**: SemiSWEET forms fewer direct H-bonds with glucose compared to other sugar transporters (e.g., vSGLT, vSGLT homologs)
@@ -87,14 +87,14 @@ The occluded state creates an unstable TM1 configuration — neither kinked nor 
 
 ## Cross-References
 
-- [[nTMATE2-transporter]] — Another LCP-crystallized transporter; shows conformational plasticity
-- [[xray-crystallography]] — Structure determination method
-- [[molecular-replacement]] — Phasing method used
-- [[monoolein]] — [[lipidic-cubic-phase]] matrix for LCP crystallization
-- [[peg-400]] — Crystallization precipitant
-- [[ddm]] — Solubilization detergent
-- [[superdex-columns]] — SEC column type
-- [[glucose]] — Substrate
-- [[sotb]] — E. coli MFS transporter; rocker-switch mechanism
-- [[mfs-transporter]] — Major facilitator superfamily
-- [[adenine-nucleotide-transporter]] — Mitochondrial carrier with [[alternating-access]]
+- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — Another LCP-crystallized transporter; shows conformational plasticity
+- [xray-crystallography](/methods/structure-determination/xray-crystallography/) — Structure determination method
+- [molecular-replacement](/methods/structure-determination/molecular-replacement/) — Phasing method used
+- [monoolein](/methods/crystallization/monoolein/) — [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) matrix for LCP crystallization
+- [peg-400](/reagents/additives/peg-400/) — Crystallization precipitant
+- [ddm](/reagents/detergents/ddm/) — Solubilization detergent
+- [superdex-columns](/methods/purification/superdex-columns/) — SEC column type
+- [glucose](/reagents/ligands/glucose/) — Substrate
+- [sotb](/proteins/sotb/) — E. coli MFS transporter; rocker-switch mechanism
+- [mfs-transporter](/concepts/mfs-transporter/) — Major facilitator superfamily
+- [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) — Mitochondrial carrier with [alternating-access](/concepts/alternating-access/)

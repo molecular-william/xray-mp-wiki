@@ -167,7 +167,7 @@
 - Lint: 0 issues | Total: 110 pages
 
 ## [2026-04-27] bug-fix | Comprehensive content audit
-- Fixed "ng" word-boundary bug (~150 pages): bindi[[ng]]→binding, usi[[ng]]→using, ra[[ng]]e→range, homol[[og]]→homolog, etc.
+- Fixed "ng" word-boundary bug (~150 pages): bindi[ng](/reagents/detergents/ng/)→binding, usi[ng](/reagents/detergents/ng/)→using, ra[ng](/reagents/detergents/ng/)e→range, homol[og](/reagents/detergents/og/)→homolog, etc.
 - Fixed double brackets `]]]` (~17 pages) → `]]`
 - Fixed wikilink bleeding into text (~15 pages)
 - Fixed index.md duplicate wikilink targets (nanobody→nanobody-nb-at110i1, nanobody-nb39)
@@ -408,17 +408,17 @@ Source: 10.1016##j.cell.2020.01.008 — Hua et al., "Activation and Signaling Me
 - **scfv16.md** — scFv16 antibody fragment for GPCR-Gi complex stabilization. Hi5 cell expression, Ni-NTA purification, 3C protease tag cleavage, Superdex 75 SEC.
 
 ### Reagent Pages Referenced (existing)
-- [[lmng]] — Detergent for CB1/CB2 solubilization
-- [[cholesterol-hydrogen-succinate]] — CHS for membrane protein stability
-- [[gdn]] — Glycol-diosgenin in cryo-EM buffer
-- [[monoolein]] — Lipid matrix for LCP crystallization
-- [[imac]] — TALON IMAC resin for purification
-- [[size-exclusion-chromatography]] — SEC for complex purification
-- [[bril-fusion]] — BRIL N-terminal fusion for CB2 expression
-- [[sf9-cells]] — Sf9 insect cells for co-expression
-- [[cryoem]] — Cryo-EM structure determination
-- [[xray-crystallography]] — X-ray crystallography
-- [[lipidic-cubic-phase]] — LCP crystallization method
+- [lmng](/reagents/detergents/lmng/) — Detergent for CB1/CB2 solubilization
+- [cholesterol-hydrogen-succinate](/reagents/lipids/cholesterol-hydrogen-succinate/) — CHS for membrane protein stability
+- [gdn](/reagents/detergents/gdn/) — Glycol-diosgenin in cryo-EM buffer
+- [monoolein](/methods/crystallization/monoolein/) — Lipid matrix for LCP crystallization
+- [imac](/methods/purification/imac/) — TALON IMAC resin for purification
+- [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography/) — SEC for complex purification
+- [bril-fusion](/concepts/bril-fusion/) — BRIL N-terminal fusion for CB2 expression
+- [sf9-cells](/methods/expression-systems/sf9-cells/) — Sf9 insect cells for co-expression
+- [cryoem](/methods/structure-determination/cryoem/) — Cryo-EM structure determination
+- [xray-crystallography](/methods/structure-determination/xray-crystallography/) — X-ray crystallography
+- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization method
 
 ### Index & Checklist
 - index.md: 130 → 137 pages (added cb1-receptor, cb2-receptor, am12033, am841, hu-308, l-759,656, scfv16)
@@ -438,16 +438,16 @@ Source: 10.1016##j.cell.2020.03.045 — Wang et al., "Structural and Functional 
 - **mes-buffer.md** — MES (2-(N-morpholino)ethanesulfonic acid), pKa ~6.1, pH range 5.5–6.7. 0.1 M pH 6.5 used in SARS-CoV-2-CTD/hACE2 crystallization.
 
 ### Reagent Pages Referenced (existing)
-- [[peg-6000]] — Related PEG precipitant
-- [[glycerol]] — Cryoprotectant (20% in reservoir)
-- [[vapor-diffusion]] — Sitting-drop method
-- [[xray-crystallography]] — Structure determination
-- [[molecular-replacement]] — Phaser MR (PDB: 2AJF)
-- [[superdex-columns]] — Superdex 200 SEC
-- [[imac]] — HisTrap HP affinity
-- [[sf9-cells]] — Sf9 expression
-- [[tris-buffer]] — Tris-HCl SEC buffer
-- [[sodium-chloride]] — NaCl in SEC buffer
+- [peg-6000](/reagents/additives/peg-6000/) — Related PEG precipitant
+- [glycerol](/reagents/additives/glycerol/) — Cryoprotectant (20% in reservoir)
+- [vapor-diffusion](/methods/crystallization/vapor-diffusion/) — Sitting-drop method
+- [xray-crystallography](/methods/structure-determination/xray-crystallography/) — Structure determination
+- [molecular-replacement](/methods/structure-determination/molecular-replacement/) — Phaser MR (PDB: 2AJF)
+- [superdex-columns](/methods/purification/superdex-columns/) — Superdex 200 SEC
+- [imac](/methods/purification/imac/) — HisTrap HP affinity
+- [sf9-cells](/methods/expression-systems/sf9-cells/) — Sf9 expression
+- [tris-buffer](/reagents/buffers/tris-buffer/) — Tris-HCl SEC buffer
+- [sodium-chloride](/reagents/additives/sodium-chloride/) — NaCl in SEC buffer
 
 ### Index & Checklist
 - index.md: 137 → 141 pages (added ace2, sars-cov-2-s-ctd, peg-5000, mes-buffer)
@@ -465,14 +465,14 @@ Source: 10.1016##j.cell.2021.11.001 — Brown et al., "From structure to clinic:
 - **htl9936.md** — Selective M1 partial agonist (EC50 32 nM M1, >20 μM M2/M3). SBDD-designed with azepine + homopiperidine scaffold. Carbamate and amide groups form water-mediated polar networks. Phase 1 clinical candidate for Alzheimer's disease. CSF/plasma ratio 21%. Reversed scopolamine-induced memory deficits in preclinical models.
 
 ### Reagent Pages Referenced (existing)
-- [[ddm]] — DDM detergent for M1 solubilization (1.5% w/v)
-- [[t4-lysozyme]] — T4L fusion in ICL3 for crystallization
-- [[superdex-columns]] — Superdex 200 SEC purification
-- [[lipidic-cubic-phase]] — LCP crystallization
-- [[molecular-replacement]] — Phaser MR (PDB: 2VT4)
-- [[imidazole]] — Imidazole gradient for Ni-NTA elution
-- [[microfluidizer]] — Cell disruption at 15,000 psi
-- [[baculovirus-expression]] — Sf21 baculovirus expression
+- [ddm](/reagents/detergents/ddm/) — DDM detergent for M1 solubilization (1.5% w/v)
+- [t4-lysozyme](/reagents/protein-tags/t4-lysozyme/) — T4L fusion in ICL3 for crystallization
+- [superdex-columns](/methods/purification/superdex-columns/) — Superdex 200 SEC purification
+- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization
+- [molecular-replacement](/methods/structure-determination/molecular-replacement/) — Phaser MR (PDB: 2VT4)
+- [imidazole](/reagents/additives/imidazole/) — Imidazole gradient for Ni-NTA elution
+- [microfluidizer](/methods/cell-lysis/microfluidizer/) — Cell disruption at 15,000 psi
+- [baculovirus-expression](/methods/expression-systems/baculovirus-expression/) — Sf21 baculovirus expression
 
 ### Index & Checklist
 - index.md: 141 → 143 pages (added m1-muscarinic-receptor, htl9936)
@@ -494,13 +494,13 @@ Source: 10.1016##j.celrep.2015.04.045 — Knoblich et al., "Transmembrane Comple
 - **cholesterol.md** — Cholesterol, 10% in trimer crystallization. Stabilizes lipid bilayer in LCP.
 
 ### Reagent Pages Referenced (existing)
-- [[monoolein]] — LCP lipid matrix
-- [[lipidic-cubic-phase]] — LCP crystallization method
-- [[molecular-replacement]] — Phaser MR (PDB: 1AFO, Glycophorin A)
-- [[peg-5000]] — Related PEG precipitant
-- [[peg-6000]] — Related PEG precipitant
-- [[peg-400]] — Related PEG precipitant
-- [[glycerol]] — Related additive
+- [monoolein](/methods/crystallization/monoolein/) — LCP lipid matrix
+- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization method
+- [molecular-replacement](/methods/structure-determination/molecular-replacement/) — Phaser MR (PDB: 1AFO, Glycophorin A)
+- [peg-5000](/reagents/additives/peg-5000/) — Related PEG precipitant
+- [peg-6000](/reagents/additives/peg-6000/) — Related PEG precipitant
+- [peg-400](/reagents/additives/peg-400/) — Related PEG precipitant
+- [glycerol](/reagents/additives/glycerol/) — Related additive
 
 ### Index & Checklist
 - index.md: 143 → 148 pages (added dap12, peg-3350, bis-tris-propane, potassium-thiocyanate, calcium-chloride, cholesterol)
@@ -520,15 +520,15 @@ Source: 10.1016##j.celrep.2015.10.025 — Tanaka et al., "Crystal Structures of 
 - **sodium-sulfate.md** — Na2SO4, 100 mM. Salting-out precipitant for SecYEG.
 
 ### Reagent Pages Referenced (existing)
-- [[ddm]] — DDM detergent for solubilization (2% w/v)
-- [[dm]] — DM detergent for crystallization (0.25% w/v)
-- [[monoolein]] — LCP lipid matrix (2:3 protein:lipid ratio)
-- [[lipidic-cubic-phase]] — LCP crystallization method
-- [[superdex-columns]] — Superdex 200 SEC
-- [[imac]] — Ni-NTA affinity chromatography
-- [[molecular-replacement]] — Phaser MR (PDB: 2ZJS)
-- [[peg-5000]] — PEG 500 MME precipitant (30–32%)
-- [[amicon-filters]] — Amicon Ultra 50-kDa cutoff filters
+- [ddm](/reagents/detergents/ddm/) — DDM detergent for solubilization (2% w/v)
+- [dm](/reagents/detergents/dm/) — DM detergent for crystallization (0.25% w/v)
+- [monoolein](/methods/crystallization/monoolein/) — LCP lipid matrix (2:3 protein:lipid ratio)
+- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization method
+- [superdex-columns](/methods/purification/superdex-columns/) — Superdex 200 SEC
+- [imac](/methods/purification/imac/) — Ni-NTA affinity chromatography
+- [molecular-replacement](/methods/structure-determination/molecular-replacement/) — Phaser MR (PDB: 2ZJS)
+- [peg-5000](/reagents/additives/peg-5000/) — PEG 500 MME precipitant (30–32%)
+- [amicon-filters](/methods/purification/amicon-filters/) — Amicon Ultra 50-kDa cutoff filters
 
 ### Index & Checklist
 - index.md: 148 → 154 pages (added secyeg-translocon, mops-buffer, magnesium-sulfate, sodium-sulfate)

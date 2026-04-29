@@ -95,13 +95,13 @@ The native PorB is proposed to be a **pentamer (C₅ symmetry)** based on:
 
 ## Related Channels
 
-- [[acrB]] — Tripartite multidrug efflux pump from *E. coli*
-- [[ion-channels]] — General ion channel class
+- [acrB](/proteins/acrB/) — Tripartite multidrug efflux pump from *E. coli*
+- [ion-channels](/concepts/ion-channels/) — General ion channel class
 
 ## Cross-References
 
 - Channel-forming proteins in bacterial outer membranes
-- [[xray-crystallography]] — Structure determination method
+- [xray-crystallography](/methods/structure-determination/xray-crystallography/) — Structure determination method
 - 2-methyl-2,4-pentanediol (MPD) — Cryoprotectant used for data collection
-- [[size-exclusion-chromatography]] — Purification method (S75-26/60)
-- [[affinity-chromatography]] — GST affinity purification
+- [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography/) — Purification method (S75-26/60)
+- [affinity-chromatography](/methods/purification/affinity-chromatography/) — GST affinity purification

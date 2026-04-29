@@ -19,8 +19,8 @@ Cholesterol is a sterol lipid that plays critical roles in membrane structure an
 
 ## Proteins Using Cholesterol (from this wiki)
 
-- [[lpa1-receptor]] — Added to [[lipidic-cubic-phase]] crystallization mixture for [[lpa1-receptor]]-bRIL crystals
-- [[cd81-tetraspanin]] — **Bound in intramembrane pocket** of CD81 (PDB: 5TCX)
+- [lpa1-receptor](/proteins/lpa1-receptor/) — Added to [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) crystallization mixture for [lpa1-receptor](/proteins/lpa1-receptor/)-bRIL crystals
+- [cd81-tetraspanin](/proteins/cd81-tetraspanin/) — **Bound in intramembrane pocket** of CD81 (PDB: 5TCX)
   - Resolved by X-ray crystallography at 2.95 Å
   - Hydrogen bonds to N18 (TM1) and E219 (TM4)
   - 13 contact residues nearly 100% conserved across 37 homologs
@@ -29,11 +29,11 @@ Cholesterol is a sterol lipid that plays critical roles in membrane structure an
 
 ## Cholesterol in Crystallization
 
-- Often added to [[lipidic-cubic-phase]] mesophase to stabilize membrane proteins
+- Often added to [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) mesophase to stabilize membrane proteins
 - Mimics native membrane environment
 - May occupy specific cholesterol-binding sites in proteins
 
 ## Related Lipids
 
-- [[monoolein]] — Primary [[lipidic-cubic-phase]] lipid
-- [[glycerol]] — Protein stabilizer
+- [monoolein](/methods/crystallization/monoolein/) — Primary [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) lipid
+- [glycerol](/reagents/additives/glycerol/) — Protein stabilizer

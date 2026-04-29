@@ -65,18 +65,18 @@ Key hACE2 residues interacting with SARS-CoV-2-CTD:
 - **Baculovirus production**: DH10Bac competent E. coli (Invitrogen)
 - **Purification**: HisTrap HP 5 mL column (GE Healthcare) metal affinity chromatography
 - **SEC**: Superdex 200 column (GE Healthcare)
-- **SEC buffer**: 20 mM [[tris-buffer]]-HCl pH 8.0, 150 mM [[sodium-chloride]]
+- **SEC buffer**: 20 mM [tris-buffer](/reagents/buffers/tris-buffer/)-HCl pH 8.0, 150 mM [sodium-chloride](/reagents/additives/sodium-chloride/)
 - **Concentration**: Concentrated for crystallization at 15 mg/mL
 
 ## Crystallization
 
 ### Wang et al. (Cell 2020)
 
-- **Method**: Sitting-drop [[vapor-diffusion]]
+- **Method**: Sitting-drop [vapor-diffusion](/methods/crystallization/vapor-diffusion/)
 - **Drop setup**: 0.8 µL protein + 0.8 µL reservoir solution at 18°C
 - **Protein concentration**: 15 mg/mL SARS-CoV-2-CTD/hACE2 complex
-- **Reservoir**: 0.1 M [[mes-buffer]] pH 6.5, 10% w/v [[peg-5000]] MME, 12% v/v 1-propanol
-- **Cryoprotection**: 20% (v/v) [[glycerol]] in reservoir solution
+- **Reservoir**: 0.1 M [mes-buffer](/reagents/buffers/mes-buffer/) pH 6.5, 10% w/v [peg-5000](/reagents/additives/peg-5000/) MME, 12% v/v 1-propanol
+- **Cryoprotection**: 20% (v/v) [glycerol](/reagents/additives/glycerol/) in reservoir solution
 - **Data collection**: Shanghai Synchrotron Radiation Facility (SSRF) BL17U, wavelength 0.97919 Å
 - **Processing**: HKL2000 software
 - **Phasing**: Molecular replacement with Phaser using SARS-RBD complex (PDB: 2AJF) as search model
@@ -86,15 +86,15 @@ Key hACE2 residues interacting with SARS-CoV-2-CTD:
 
 ## Cross-References
 
-- [[sars-cov-2-s-ctd]] — SARS-CoV-2 spike protein C-terminal domain (binding partner)
-- [[peg-5000]] — PEG 5000 MME crystallization precipitant
-- [[glycerol]] — Cryoprotectant for crystal freezing
-- [[vapor-diffusion]] — Sitting-drop vapor diffusion crystallization method
-- [[xray-crystallography]] — X-ray crystallography structure determination
-- [[molecular-replacement]] — Phaser molecular replacement phasing
-- [[superdex-columns]] — Superdex 200 SEC column
-- [[imac]] — HisTrap HP affinity chromatography (implied by 6xHis tag purification)
-- [[sf9-cells]] — Sf9 insect cell expression system
-- [[tris-buffer]] — Tris-HCl buffer for SEC
-- [[sodium-chloride]] — NaCl in purification buffer
-- [[peg-6000]] — Related PEG crystallization precipitant
+- [sars-cov-2-s-ctd](/proteins/sars-cov-2-s-ctd/) — SARS-CoV-2 spike protein C-terminal domain (binding partner)
+- [peg-5000](/reagents/additives/peg-5000/) — PEG 5000 MME crystallization precipitant
+- [glycerol](/reagents/additives/glycerol/) — Cryoprotectant for crystal freezing
+- [vapor-diffusion](/methods/crystallization/vapor-diffusion/) — Sitting-drop vapor diffusion crystallization method
+- [xray-crystallography](/methods/structure-determination/xray-crystallography/) — X-ray crystallography structure determination
+- [molecular-replacement](/methods/structure-determination/molecular-replacement/) — Phaser molecular replacement phasing
+- [superdex-columns](/methods/purification/superdex-columns/) — Superdex 200 SEC column
+- [imac](/methods/purification/imac/) — HisTrap HP affinity chromatography (implied by 6xHis tag purification)
+- [sf9-cells](/methods/expression-systems/sf9-cells/) — Sf9 insect cell expression system
+- [tris-buffer](/reagents/buffers/tris-buffer/) — Tris-HCl buffer for SEC
+- [sodium-chloride](/reagents/additives/sodium-chloride/) — NaCl in purification buffer
+- [peg-6000](/reagents/additives/peg-6000/) — Related PEG crystallization precipitant

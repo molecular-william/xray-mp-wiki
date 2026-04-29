@@ -27,12 +27,12 @@ Vapor diffusion is the most widely used method for protein crystallization. A dr
 
 ## Proteins Using Vapor Diffusion (from this wiki)
 
-- [[opsin-gpcr]] — Ops* crystallized at pH 5.6 with OG detergent
-- [[psi-lhci-supercomplex]] — Form-A crystals in 50 mM Tris-HCl pH 7.0, 50 mM Li₂SO₄, 4.5-7.0% PEG 6000
-- [[a2a-adenosine-receptor]] — sitting-drop [[vapor-diffusion]] with A2A-PSB1-bRIL construct
-- [[acrB]] — sitting-drop vapor diffusion: 0.1 M Na-phosphate pH 6.2, 0.1 M NaCl, 8% PEG 4000; crystals soaked with 6 mM Linezolid in cryosolvent (25% [[glycerol]])
-- [[kirbac]] — vapor diffusion at 19°C (Bio21 C3 facility); KirBac3.1 structures crystallized in multiple space groups (P2₁2₁2, I222, C222₁, P1); soaked in 50 mM [[spermine]] for polyamine binding studies
-- [[etb-receptor]] — vapor diffusion; ETB-S6b complex crystals; 32 datasets merged by KAMO; P2₁2₁2 space group; 3.0 Å resolution; [[molecular-replacement]] using ET-3-bound receptor (PDB 6IGK)
+- [opsin-gpcr](/proteins/opsin-gpcr/) — Ops* crystallized at pH 5.6 with OG detergent
+- [psi-lhci-supercomplex](/proteins/psi-lhci-supercomplex/) — Form-A crystals in 50 mM Tris-HCl pH 7.0, 50 mM Li₂SO₄, 4.5-7.0% PEG 6000
+- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — sitting-drop [vapor-diffusion](/methods/crystallization/vapor-diffusion/) with A2A-PSB1-bRIL construct
+- [acrB](/proteins/acrB/) — sitting-drop vapor diffusion: 0.1 M Na-phosphate pH 6.2, 0.1 M NaCl, 8% PEG 4000; crystals soaked with 6 mM Linezolid in cryosolvent (25% [glycerol](/reagents/additives/glycerol/))
+- [kirbac](/proteins/kirbac/) — vapor diffusion at 19°C (Bio21 C3 facility); KirBac3.1 structures crystallized in multiple space groups (P2₁2₁2, I222, C222₁, P1); soaked in 50 mM [spermine](/reagents/ligands/spermine/) for polyamine binding studies
+- [etb-receptor](/proteins/etb-receptor/) — vapor diffusion; ETB-S6b complex crystals; 32 datasets merged by KAMO; P2₁2₁2 space group; 3.0 Å resolution; [molecular-replacement](/methods/structure-determination/molecular-replacement/) using ET-3-bound receptor (PDB 6IGK)
 
 ## Key Variables
 
@@ -43,27 +43,27 @@ Vapor diffusion is the most widely used method for protein crystallization. A dr
 
 |## Related Methods
 |
-|- [[lipidic-cubic-phase]] — LCP method for membrane proteins
-|- [[microbatch]] — oil-overlay method
-|- [[dialysis]] — equilibrium dialysis crystallization
+|- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) — LCP method for membrane proteins
+|- [microbatch](/methods/crystallization/microbatch/) — oil-overlay method
+|- [dialysis](/methods/purification/dialysis/) — equilibrium dialysis crystallization
 
 ## See Also
 
 ### Alternative Methods
-- [[lipidic-cubic-phase]] — LCP method for membrane proteins
-- [[microbatch]] — Oil-overlay method
-- [[dialysis]] — Equilibrium dialysis crystallization
+- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) — LCP method for membrane proteins
+- [microbatch](/methods/crystallization/microbatch/) — Oil-overlay method
+- [dialysis](/methods/purification/dialysis/) — Equilibrium dialysis crystallization
 
 ### Related Techniques
-- [[crystallization]] — General crystallization overview
-- [[purification]] — Purification methods
+- [crystallization](/methods/crystallization/crystallization/) — General crystallization overview
+- [purification](/methods/purification/purification/) — Purification methods
 
 ## Backlinks
 
 Pages that link to this page:
 {% assign backlinks = site.pages | where_exp: "page", "page.content contains page.url" | sort: 'title' %}
 {% for page in backlinks %}
-- [[{{ page.title }}]]
+- []
 {% endfor %}
 {% if backlinks.size == 0 %}
 *No pages currently link to this page.*

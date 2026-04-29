@@ -18,12 +18,12 @@ layout: default
 
 ## Overview
 
-Dialysis is a fundamental technique for buffer exchange, detergent removal, and sample equilibration in membrane protein biochemistry. It is used at multiple stages: after [[affinity-chromatography]] purification, for detergent-to-lipid exchange, and for crystal cryoprotection.
+Dialysis is a fundamental technique for buffer exchange, detergent removal, and sample equilibration in membrane protein biochemistry. It is used at multiple stages: after [affinity-chromatography](/methods/purification/affinity-chromatography/) purification, for detergent-to-lipid exchange, and for crystal cryoprotection.
 
 ## Common Dialysis Applications
 
 ### 1. Imidazole/Detergent Removal After Affinity Purification
-- [[nTMATE2-transporter]] — Imidazole removed after affinity purification
+- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — Imidazole removed after affinity purification
 - General: Dialysis against detergent-containing buffer to maintain solubility after His-tag elution
 
 ### 2. Detergent-to-Lipid Exchange (Reconstitution)
@@ -44,12 +44,12 @@ Dialysis is a fundamental technique for buffer exchange, detergent removal, and 
 | Application | MWCO | Duration | Buffer |
 |-------------|------|----------|--------|
 | Imidazole removal | 10-14 kDa | 3 hours | 20 mM Tris, 0.3 M NaCl, 0.1% DDM |
-| Detergent removal ([[dialysis]]) | 10-14 kDa | 7 days | 10 mM HEPES pH 7.0, 150 mM KCl |
+| Detergent removal ([dialysis](/methods/purification/dialysis/)) | 10-14 kDa | 7 days | 10 mM HEPES pH 7.0, 150 mM KCl |
 | Lipid exchange | 14 kDa | Overnight | 10 mM HEPES, 400 mM NaCl/KCl |
-| Cryoprotection | N/A | Stepwise | PEG 400, TEG, [[glycerol]] |
+| Cryoprotection | N/A | Stepwise | PEG 400, TEG, [glycerol](/reagents/additives/glycerol/) |
 
 ## Related Methods
 
-- [[size-exclusion-chromatography]] — Alternative to dialysis for buffer exchange
-- [[amicon-filters]] — Faster concentration and buffer exchange
-- [[microbatch]] — Crystallization method often paired with dialysis
+- [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography/) — Alternative to dialysis for buffer exchange
+- [amicon-filters](/methods/purification/amicon-filters/) — Faster concentration and buffer exchange
+- [microbatch](/methods/crystallization/microbatch/) — Crystallization method often paired with dialysis

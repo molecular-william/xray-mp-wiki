@@ -40,8 +40,8 @@ scFv16 is a designed single-chain variable fragment antibody used to stabilize G
 
 ## Cross-References
 
-- [[cb1-receptor]] — scFv16 used for CB1-Gi cryo-EM structure
-- [[cb2-receptor]] — scFv16 used for CB2-Gi cryo-EM structure
-- [[bril-fusion]] — Alternative stabilization strategy (BRIL fusion instead of scFv)
-- [[cryoem]] — Cryo-EM technique where scFv16 is applied
-- [[sf9-cells]] — Sf9 cells used for GPCR-Gi co-expression (scFv16 from Hi5)
+- [cb1-receptor](/proteins/cb1-receptor/) — scFv16 used for CB1-Gi cryo-EM structure
+- [cb2-receptor](/proteins/cb2-receptor/) — scFv16 used for CB2-Gi cryo-EM structure
+- [bril-fusion](/concepts/bril-fusion/) — Alternative stabilization strategy (BRIL fusion instead of scFv)
+- [cryoem](/methods/structure-determination/cryoem/) — Cryo-EM technique where scFv16 is applied
+- [sf9-cells](/methods/expression-systems/sf9-cells/) — Sf9 cells used for GPCR-Gi co-expression (scFv16 from Hi5)

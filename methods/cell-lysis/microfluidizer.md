@@ -26,7 +26,7 @@ The Microfluidizer is a high-pressure homogenizer used for cell lysis and membra
 
 ## Proteins Using Microfluidizer (from this wiki)
 
-- [[nTMATE2-transporter]] — *Pichia pastoris* SMD1168 cells harvested after methanol induction, resuspended in 300 mM NaCl, 20 mM Tris-HCl pH 8.0, 10% [[glycerol]]; lysed by 5 passes at 22,000 p.s.i. in M-110EH Microfluidizer; membrane fraction separated by centrifugation
+- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — *Pichia pastoris* SMD1168 cells harvested after methanol induction, resuspended in 300 mM NaCl, 20 mM Tris-HCl pH 8.0, 10% [glycerol](/reagents/additives/glycerol/); lysed by 5 passes at 22,000 p.s.i. in M-110EH Microfluidizer; membrane fraction separated by centrifugation
 
 ## Why Use Microfluidizer?
 

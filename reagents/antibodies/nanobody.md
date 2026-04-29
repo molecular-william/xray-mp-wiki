@@ -36,7 +36,7 @@ Nanobodies bind to specific conformational states of their target protein, effec
 
 ## Cross-References
 
-- [[nanobody-nb39]] — Nb39 for KOR stabilization
-- [[nanobody-nb-at110i1]] — Nb.AT110i1 for AT1R stabilization
-- [[bril]] — BRIL fusion partner (often used with nanobodies)
-- [[t4-lysozyme]] — Alternative fusion partner for GPCR crystallization
+- [nanobody-nb39](/reagents/antibodies/nanobody-nb39/) — Nb39 for KOR stabilization
+- [nanobody-nb-at110i1](/reagents/antibodies/nanobody-nb-at110i1/) — Nb.AT110i1 for AT1R stabilization
+- [bril](/reagents/protein-tags/bril/) — BRIL fusion partner (often used with nanobodies)
+- [t4-lysozyme](/reagents/protein-tags/t4-lysozyme/) — Alternative fusion partner for GPCR crystallization

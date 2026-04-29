@@ -31,8 +31,8 @@ MES (2-(N-morpholino)ethanesulfonic acid) is a Good's buffer commonly used in pr
 
 ## Cross-References
 
-- [[sodium-acetate]] — Alternative acidic buffer
-- [[sodium-citrate]] — Citrate buffer for crystallization
-- [[hepes-buffer]] — Near-neutral pH buffer
-- [[tris-buffer]] — Basic pH buffer
-- [[ace2]] — hACE2 crystallized in MES buffer
+- [sodium-acetate](/reagents/additives/sodium-acetate/) — Alternative acidic buffer
+- [sodium-citrate](/reagents/additives/sodium-citrate/) — Citrate buffer for crystallization
+- [hepes-buffer](/reagents/buffers/hepes-buffer/) — Near-neutral pH buffer
+- [tris-buffer](/reagents/buffers/tris-buffer/) — Basic pH buffer
+- [ace2](/proteins/ace2/) — hACE2 crystallized in MES buffer

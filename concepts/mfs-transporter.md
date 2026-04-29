@@ -44,7 +44,7 @@ The transition between states involves rigid-body rotation of the N and C domain
 | Pattern | Description | Example |
 |---------|-------------|---------|
 | Uniport | Single substrate movement | Glucose uniporters (GLUTs) |
-| Symport | Co-transport with H⁺ or Na⁺ | Lactose permease (LacY), [[glucose]]-H⁺ symporters |
+| Symport | Co-transport with H⁺ or Na⁺ | Lactose permease (LacY), [glucose](/reagents/ligands/glucose/)-H⁺ symporters |
 | Antiport | Exchange of substrate for H⁺ | Drug-proton antiporters (DHA), Na⁺/H⁺ antiporters |
 
 ## MFS Subfamilies
@@ -58,14 +58,14 @@ The transition between states involves rigid-body rotation of the N and C domain
 ## Structural Biology
 
 Multiple MFS structures have been solved in different conformations, providing snapshots of the transport cycle:
-- **GlpT** ([[glycerol]]-3-phosphate transporter): Inward-facing
+- **GlpT** ([glycerol](/reagents/additives/glycerol/)-3-phosphate transporter): Inward-facing
 - **LacY** (lactose permease): Multiple conformations
 - **EmrD** (multidrug efflux): Occluded
 - **SotB** (drug-proton antiporter): 4 conformations (occluded, inward-facing, inward-open)
 
 ## Related Transporters
 
-- [[sotb]] — E. coli drug-proton antiporter, DHA1 family
-- [[nTMATE2-transporter]] — Tobacco MATE family transporter (different superfamily)
-- [[adenine-nucleotide-transporter]] — Mitochondrial carrier family (different superfamily)
-- [[mmpL3]] — Mycobacterial lipid transporter (different superfamily)
+- [sotb](/proteins/sotb/) — E. coli drug-proton antiporter, DHA1 family
+- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — Tobacco MATE family transporter (different superfamily)
+- [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) — Mitochondrial carrier family (different superfamily)
+- [mmpL3](/proteins/mmpL3/) — Mycobacterial lipid transporter (different superfamily)

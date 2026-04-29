@@ -79,9 +79,9 @@ The adenosine A1 receptor is a G protein-coupled receptor involved in cardiac, r
 
 ## Related Receptors
 
-- [[a2a-adenosine-receptor]] — A2A Adenosine Receptor (comparison structure)
-- [[a2a-star2]] — A2A-STAR2
-- [[5ht2b-receptor]] — 5-HT2B Receptor with BRIL fusion
+- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — A2A Adenosine Receptor (comparison structure)
+- [a2a-star2](/proteins/a2a-star2/) — A2A-STAR2
+- [5ht2b-receptor](/proteins/5ht2b-receptor/) — 5-HT2B Receptor with BRIL fusion
 
 ## References
 

@@ -27,18 +27,18 @@ NaCl is the most common salt used in membrane protein buffers to maintain osmoti
 
 ## Proteins Using NaCl (from this wiki)
 
-- [[nTMATE2-transporter]] — 300 mM NaCl in expression buffer, TALON wash/elution buffers, and SEC buffer
-- [[psi-lhci-supercomplex]] — 150 mM NaCl in native ferredoxin buffer; 50 mM NaCl in Fd purification
-- [[etb-receptor]] — 200 mM NaCl in solubilization; 500 mM NaCl in TALON wash/elution; 150 mM NaCl in SEC buffer
+- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — 300 mM NaCl in expression buffer, TALON wash/elution buffers, and SEC buffer
+- [psi-lhci-supercomplex](/proteins/psi-lhci-supercomplex/) — 150 mM NaCl in native ferredoxin buffer; 50 mM NaCl in Fd purification
+- [etb-receptor](/proteins/etb-receptor/) — 200 mM NaCl in solubilization; 500 mM NaCl in TALON wash/elution; 150 mM NaCl in SEC buffer
 
 ## Usage Patterns Across This Wiki
 
 | Protein | NaCl Concentration | Purpose |
 |---------|-------------------|---------|
-| [[nTMATE2-transporter]] | 300 mM | Expression, purification, SEC |
-| [[psi-lhci-supercomplex]] | 150 mM, 50 mM | Native Fd buffer, purification |
+| [nTMATE2-transporter](/proteins/nTMATE2-transporter/) | 300 mM | Expression, purification, SEC |
+| [psi-lhci-supercomplex](/proteins/psi-lhci-supercomplex/) | 150 mM, 50 mM | Native Fd buffer, purification |
 
 ## Related Salts
 
-- [[li2so4]] — Li2SO4 used as crystallization precipitant
-- [[tris-buffer]] — Tris-HCl buffer used with NaCl
+- [li2so4](/reagents/additives/li2so4/) — Li2SO4 used as crystallization precipitant
+- [tris-buffer](/reagents/buffers/tris-buffer/) — Tris-HCl buffer used with NaCl

@@ -82,11 +82,11 @@ The thermostabilized M1 receptor (M1-StaR) enabled crystallization:
 - **Cell disruption**: Microfluidizer at ~15,000 psi
 - **Membrane prep**: Ultracentrifugation at 200,000 g for 50 min
 - **High salt wash**: PBS + 1 M NaCl + protease inhibitor
-- **Detergent**: 1.5% (w/v) [[ddm]] (n-Dodecyl-β-D-maltopyranoside, Anatrace) for solubilization
-- **Affinity chromatography**: Ni-NTA Superflow resin (QIAGEN), gradient 10–60 mM [[imidazole]]
+- **Detergent**: 1.5% (w/v) [ddm](/reagents/detergents/ddm/) (n-Dodecyl-β-D-maltopyranoside, Anatrace) for solubilization
+- **Affinity chromatography**: Ni-NTA Superflow resin (QIAGEN), gradient 10–60 mM [imidazole](/reagents/additives/imidazole/)
 - **Imidazole wash**: 40 mM Tris-HCl pH 7.6, 500 mM NaCl, 0.05% DDM, 70 mM imidazole
 - **Elution**: 40 mM Tris-HCl pH 7.6, 500 mM NaCl, 0.05% DDM, 245 mM imidazole + ligand (20–40 μM)
-- **SEC**: [[superdex-columns]] 200 (GE Healthcare)
+- **SEC**: [superdex-columns](/methods/purification/superdex-columns/) 200 (GE Healthcare)
 - **SEC buffer**: 40 mM Tris-HCl pH 7.6, 150 mM NaCl, 0.03% DDM + 40 μM ligand
 - **Concentration**: ~60 mg/mL using 100 kDa cut-off membrane
 
@@ -94,7 +94,7 @@ The thermostabilized M1 receptor (M1-StaR) enabled crystallization:
 
 ### Brown et al. (Cell 2021)
 
-- **Method**: [[lipidic-cubic-phase]] (LCP)
+- **Method**: [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) (LCP)
 - **Lipid**: Monoolein
 - **Protein concentration**: ~60 mg/mL
 - **Ligand**: 40 μM agonist (77-LH-28-1, HTL9936, or GSK1034702) present throughout purification and crystallization
@@ -116,14 +116,14 @@ The thermostabilized M1 receptor (M1-StaR) enabled crystallization:
 
 ## Cross-References
 
-- [[t4-lysozyme]] — T4L fusion in ICL3 for crystallization
-- [[ddm]] — DDM detergent for solubilization
-- [[superdex-columns]] — Superdex 200 SEC
-- [[lipidic-cubic-phase]] — LCP crystallization
-- [[molecular-replacement]] — Phaser MR (PDB: 2VT4)
-- [[imidazole]] — Imidazole for Ni-NTA elution
-- [[htl9936]] — Selective M1 partial agonist (drug candidate for AD)
+- [t4-lysozyme](/reagents/protein-tags/t4-lysozyme/) — T4L fusion in ICL3 for crystallization
+- [ddm](/reagents/detergents/ddm/) — DDM detergent for solubilization
+- [superdex-columns](/methods/purification/superdex-columns/) — Superdex 200 SEC
+- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization
+- [molecular-replacement](/methods/structure-determination/molecular-replacement/) — Phaser MR (PDB: 2VT4)
+- [imidazole](/reagents/additives/imidazole/) — Imidazole for Ni-NTA elution
+- [htl9936](/reagents/ligands/htl9936/) — Selective M1 partial agonist (drug candidate for AD)
 - [[77-lh-28-1]] — Agonist used for initial structure determination
 - [[gsk1034702]] — Bitopic M1 agonist (clinical candidate, withdrawn)
 - [[gpcr]] — Class A GPCR
-- [[microfluidizer]] — Cell disruption method
+- [microfluidizer](/methods/cell-lysis/microfluidizer/) — Cell disruption method

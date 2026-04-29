@@ -81,13 +81,13 @@ The photosynthetic reaction center (RC) from the purple bacterium *Rhodopseudomo
 
 ## Cross-References
 
-- [[lDAO]] — Detergent resolved in crystal structure
-- [[og]] — Solubilization detergent
-- [[xray-crystallography]] — First integral membrane protein complex solved by X-ray crystallography (Nobel Prize 1988)
-- [[molecular-replacement]] — Phasing method
+- [lDAO](/reagents/detergents/lDAO/) — Detergent resolved in crystal structure
+- [og](/reagents/detergents/og/) — Solubilization detergent
+- [xray-crystallography](/methods/structure-determination/xray-crystallography/) — First integral membrane protein complex solved by X-ray crystallography (Nobel Prize 1988)
+- [molecular-replacement](/methods/structure-determination/molecular-replacement/) — Phasing method
 
 ## Related Membrane Protein Complexes
 
-- [[psi-lhci-supercomplex]] — Photosynthetic supercomplex; membrane protein crystallization
-- [[xray-crystallography]] — First integral membrane protein complex solved by X-ray crystallography (Nobel Prize 1988)
+- [psi-lhci-supercomplex](/proteins/psi-lhci-supercomplex/) — Photosynthetic supercomplex; membrane protein crystallization
+- [xray-crystallography](/methods/structure-determination/xray-crystallography/) — First integral membrane protein complex solved by X-ray crystallography (Nobel Prize 1988)
 - **Zn-BChl RC (Rps. sphaeroides)**: Saer et al. (2014) — Zn-coordinated bacteriochlorophyll RC at 2.85 Å, hanging drop crystallization, isomorphous with WT RC (PDB 2J8C), SSRL beamline 7.1

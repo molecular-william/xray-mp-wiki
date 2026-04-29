@@ -22,12 +22,12 @@ Jeffamine M600 is a polyethylene glycol-polypropylene glycol block copolymer (PE
 - **Chemical type**: PEG-PPG block copolymer
 - **Average MW**: ~600 Da
 - **Concentration**: Typically 25–35% (w/v) in crystallization conditions
-- **Use**: Crystallization precipitant for [[vapor-diffusion]]
+- **Use**: Crystallization precipitant for [vapor-diffusion](/methods/crystallization/vapor-diffusion/)
 - **Advantage**: Unique polymer architecture provides different crystallization space from linear PEGs
 
 ## Proteins Using Jeffamine M600 (from this wiki)
 
-- [[adenine-nucleotide-transporter]] — 28–32% Jeffamine M600 (Hampton Research) as precipitant in vapor diffusion (hanging drop) crystallization; plate-shaped crystals 100 × 20 × 5 μm³
+- [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) — 28–32% Jeffamine M600 (Hampton Research) as precipitant in vapor diffusion (hanging drop) crystallization; plate-shaped crystals 100 × 20 × 5 μm³
 
 ## Comparison with Other Precipitants
 
@@ -41,6 +41,6 @@ Jeffamine M600 is a polyethylene glycol-polypropylene glycol block copolymer (PE
 
 ## Related Precipitants
 
-- [[peg-400]] — PEG 400, low-MW linear precipitant
-- [[peg-6000]] — PEG 6000, high-MW linear precipitant
-- [[li2so4]] — Lithium sulfate, kosmotropic salt precipitant
+- [peg-400](/reagents/additives/peg-400/) — PEG 400, low-MW linear precipitant
+- [peg-6000](/reagents/additives/peg-6000/) — PEG 6000, high-MW linear precipitant
+- [li2so4](/reagents/additives/li2so4/) — Lithium sulfate, kosmotropic salt precipitant

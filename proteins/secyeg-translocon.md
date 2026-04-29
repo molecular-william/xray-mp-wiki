@@ -86,7 +86,7 @@ The SecYEG translocon is a conserved protein-conducting channel in bacterial mem
 - **Detergent solubilization**: 2% DDM (n-dodecyl-β-D-maltoside), 1 hr at 4°C
 - **Buffer**: 20 mM Tris-HCl pH 8.0, 300 mM NaCl, 5% glycerol, 0.1 mM AEBSF
 - **Affinity**: Ni-NTA agarose (QIAGEN), 20 mM imidazole wash, 300 mM imidazole elution
-- **SEC**: [[superdex-columns]] 200 10/300 GL (GE Healthcare)
+- **SEC**: [superdex-columns](/methods/purification/superdex-columns/) 200 10/300 GL (GE Healthcare)
 - **SEC buffer**: 20 mM Tris-HCl pH 8.0, 300 mM NaCl, 0.1% DDM, 5% glycerol
 - **Ion exchange**: HiTrap SP HP column (GE Healthcare), 0–100% gradient of 1 M NaCl
 - **Desalting**: Amicon Ultra 50-kDa cutoff, concentrated to ~15 mg/mL
@@ -116,15 +116,15 @@ The SecYEG translocon is a conserved protein-conducting channel in bacterial mem
 
 ## Cross-References
 
-- [[ddm]] — DDM detergent for solubilization (2% w/v)
-- [[dm]] — DM detergent for crystallization (0.25% w/v)
-- [[monoolein]] — LCP lipid matrix (2:3 protein:lipid ratio)
-- [[lipidic-cubic-phase]] — LCP crystallization method
-- [[superdex-columns]] — Superdex 200 SEC
-- [[imac]] — Ni-NTA affinity chromatography
-- [[molecular-replacement]] — Phaser MR (PDB: 2ZJS)
-- [[mops-buffer]] — MOPS buffer for crystallization
-- [[magnesium-sulfate]] — MgSO4 in crystallization
-- [[sodium-sulfate]] — Na2SO4 in crystallization
-- [[peg-5000]] — PEG 500 MME precipitant
+- [ddm](/reagents/detergents/ddm/) — DDM detergent for solubilization (2% w/v)
+- [dm](/reagents/detergents/dm/) — DM detergent for crystallization (0.25% w/v)
+- [monoolein](/methods/crystallization/monoolein/) — LCP lipid matrix (2:3 protein:lipid ratio)
+- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization method
+- [superdex-columns](/methods/purification/superdex-columns/) — Superdex 200 SEC
+- [imac](/methods/purification/imac/) — Ni-NTA affinity chromatography
+- [molecular-replacement](/methods/structure-determination/molecular-replacement/) — Phaser MR (PDB: 2ZJS)
+- [mops-buffer](/reagents/buffers/mops-buffer/) — MOPS buffer for crystallization
+- [magnesium-sulfate](/reagents/additives/magnesium-sulfate/) — MgSO4 in crystallization
+- [sodium-sulfate](/reagents/additives/sodium-sulfate/) — Na2SO4 in crystallization
+- [peg-5000](/reagents/additives/peg-5000/) — PEG 500 MME precipitant
 - [[trihexylamine]] — Triethylamine (implied by Tris)

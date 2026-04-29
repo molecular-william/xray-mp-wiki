@@ -18,7 +18,7 @@ layout: default
 
 ## Overview
 
-The alternating access mechanism is the fundamental principle by which secondary transporters move substrates across membranes. Rather than forming a continuous pore (like [[ion-channels]]s), transporters alternate between conformations where the substrate binding site is accessible from one side of the membrane or the other, never both simultaneously.
+The alternating access mechanism is the fundamental principle by which secondary transporters move substrates across membranes. Rather than forming a continuous pore (like [ion-channels](/concepts/ion-channels/)s), transporters alternate between conformations where the substrate binding site is accessible from one side of the membrane or the other, never both simultaneously.
 
 ## Three Canonical States
 
@@ -52,7 +52,7 @@ The alternating access mechanism is the fundamental principle by which secondary
 
 ### Secondary Active Transport
 - Uses ion gradients (H⁺, Na⁺) established by primary pumps
-- **Uniport**: Single substrate, down its [[amicon-filters]] gradient
+- **Uniport**: Single substrate, down its [amicon-filters](/methods/purification/amicon-filters/) gradient
 - **Symport**: Substrate + ion move in same direction
 - **Antiport**: Substrate and ion move in opposite directions
 
@@ -65,34 +65,34 @@ The alternating access mechanism is the fundamental principle by which secondary
 
 Recent structural studies (e.g., SotB) suggest that the alternating access transition may not be a simple rigid-body motion:
 - **Nonlinear movements**: Additional local conformational adjustments beyond global domain rotation
-- **Local gating helix movements**: Similar to GLUT [[glucose]] binding
+- **Local gating helix movements**: Similar to GLUT [glucose](/reagents/ligands/glucose/) binding
 - **Implication**: The transport cycle may involve more complex structural rearrangements than previously appreciated
 
 |## Related Concepts
 |
-|- [[mfs-transporter]] — Major Facilitator Superfamily overview
-|- [[sotb]] — E. coli antiporter with 4 captured conformations
-|- [[nTMATE2-transporter]] — MATE family transporter
-|- [[adenine-nucleotide-transporter]] — Mitochondrial carrier with domain rotation
+|- [mfs-transporter](/concepts/mfs-transporter/) — Major Facilitator Superfamily overview
+|- [sotb](/proteins/sotb/) — E. coli antiporter with 4 captured conformations
+|- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — MATE family transporter
+|- [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) — Mitochondrial carrier with domain rotation
 
 ## See Also
 
 ### Related Concepts
-- [[mfs-transporter]] — Major Facilitator Superfamily overview
-- [[sotb]] — E. coli antiporter with 4 captured conformations
-- [[nTMATE2-transporter]] — MATE family transporter
-- [[adenine-nucleotide-transporter]] — Mitochondrial carrier with domain rotation
+- [mfs-transporter](/concepts/mfs-transporter/) — Major Facilitator Superfamily overview
+- [sotb](/proteins/sotb/) — E. coli antiporter with 4 captured conformations
+- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — MATE family transporter
+- [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) — Mitochondrial carrier with domain rotation
 
 ### Applications
-- [[structure-determination]] — Structure determination methods
-- [[crystallization]] — Crystallization considerations
+- [structure-determination](/methods/structure-determination/structure-determination/) — Structure determination methods
+- [crystallization](/methods/crystallization/crystallization/) — Crystallization considerations
 
 ## Backlinks
 
 Pages that link to this page:
 {% assign backlinks = site.pages | where_exp: "page", "page.content contains page.url" | sort: 'title' %}
 {% for page in backlinks %}
-- [[{{ page.title }}]]
+- []
 {% endfor %}
 {% if backlinks.size == 0 %}
 *No pages currently link to this page.*

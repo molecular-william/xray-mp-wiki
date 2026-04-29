@@ -41,7 +41,7 @@ Losartan binds to the ligand-binding pocket of the human angiotensin II type 1 r
 ## Clinical Properties
 
 - **First ARB approved**: Landmark drug in hypertension treatment
-- **Surmountable antagonist**: Effects can be overcome by high AngII [[amicon-filters]]s
+- **Surmountable antagonist**: Effects can be overcome by high AngII [amicon-filters](/methods/purification/amicon-filters/)s
 - **Oral bioavailability**: Good oral absorption
 - **Active metabolite**: EXP3174 contributes significantly to therapeutic effect
 
@@ -57,8 +57,8 @@ Losartan binds to the ligand-binding pocket of the human angiotensin II type 1 r
 
 ## Related Ligands
 
-- [[zd7155]] — High-affinity antagonist, precursor to candesartan
-- [[candesartan]] — Insurmountable inverse agonist (ARB)
-- [[valsartan]] — Clinically used ARB
-- [[irbesartan]] — Clinically used ARB
-- [[telmisartan]] — Clinically used ARB
+- [zd7155](/reagents/ligands/zd7155/) — High-affinity antagonist, precursor to candesartan
+- [candesartan](/reagents/ligands/candesartan/) — Insurmountable inverse agonist (ARB)
+- [valsartan](/reagents/ligands/valsartan/) — Clinically used ARB
+- [irbesartan](/reagents/ligands/irbesartan/) — Clinically used ARB
+- [telmisartan](/reagents/ligands/telmisartan/) — Clinically used ARB

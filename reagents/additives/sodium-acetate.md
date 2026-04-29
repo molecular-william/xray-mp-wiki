@@ -27,10 +27,10 @@ Sodium acetate (CH₃COONa) is an acidic buffer and precipitant used in membrane
 
 ## Proteins Using Sodium Acetate (from this wiki)
 
-- [[cd81-tetraspanin]] — 0.1 M sodium acetate pH 4.5, 18–22% PEG 400, 0.2 M NaCl as crystallization reservoir
-- [[lb-semisweet]] — 0.1 M sodium acetate pH 4.5, 18–20% PEG 400, 0.2 M NaCl as crystallization reservoir
-- [[lpa1-receptor]] — 0.1 M sodium acetate pH 4.5, 18–20% PEG 3350 for ONO-3080573 antagonist complex
-- [[mmpL3]] — 0.1 M sodium acetate pH 5.4, 0.05 M magnesium acetate as crystallization reservoir (Su et al., PNAS 2019)
+- [cd81-tetraspanin](/proteins/cd81-tetraspanin/) — 0.1 M sodium acetate pH 4.5, 18–22% PEG 400, 0.2 M NaCl as crystallization reservoir
+- [lb-semisweet](/proteins/lb-semisweet/) — 0.1 M sodium acetate pH 4.5, 18–20% PEG 400, 0.2 M NaCl as crystallization reservoir
+- [lpa1-receptor](/proteins/lpa1-receptor/) — 0.1 M sodium acetate pH 4.5, 18–20% PEG 3350 for ONO-3080573 antagonist complex
+- [mmpL3](/proteins/mmpL3/) — 0.1 M sodium acetate pH 5.4, 0.05 M magnesium acetate as crystallization reservoir (Su et al., PNAS 2019)
 
 ## Comparison with Other Acidic Buffers
 
@@ -43,6 +43,6 @@ Sodium acetate (CH₃COONa) is an acidic buffer and precipitant used in membrane
 
 ## Related Reagents
 
-- [[sodium-citrate]] — Another acidic crystallization buffer
-- [[sodium-chloride]] — Common buffer salt
-- [[peg-400]] — Common co-precipitant with sodium acetate
+- [sodium-citrate](/reagents/additives/sodium-citrate/) — Another acidic crystallization buffer
+- [sodium-chloride](/reagents/additives/sodium-chloride/) — Common buffer salt
+- [peg-400](/reagents/additives/peg-400/) — Common co-precipitant with sodium acetate

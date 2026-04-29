@@ -24,12 +24,12 @@ HEPES is a zwitterionic Good's buffer commonly used in membrane protein purifica
 
 ## Proteins Using HEPES (from this wiki)
 
-- [[nTMATE2-transporter]] — 50 mM HEPES-Na pH 7.0 in [[affinity-chromatography]] wash/elution buffers; 0.1 M HEPES-Na pH 7.5 in crystallization reservoir
+- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — 50 mM HEPES-Na pH 7.0 in [affinity-chromatography](/methods/purification/affinity-chromatography/) wash/elution buffers; 0.1 M HEPES-Na pH 7.5 in crystallization reservoir
   - Replaces Tris in purification steps for optimal protein stability
   - pH 7.0 for TALON affinity chromatography
   - pH 7.5 for LCP crystallization
 
 ## Related Buffers
 
-- [[tris-buffer]] — Tris-HCl used at pH 8.0 for expression
-- [[li2so4]] — used with HEPES in crystallization
+- [tris-buffer](/reagents/buffers/tris-buffer/) — Tris-HCl used at pH 8.0 for expression
+- [li2so4](/reagents/additives/li2so4/) — used with HEPES in crystallization

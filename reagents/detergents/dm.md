@@ -39,7 +39,7 @@ layout: default
 
 ## Proteins Using DM (from this wiki)
 
-- [[opsin-gpcr]] — DM tested in reconstitution inhibition assays; showed strong concentration-dependent inhibition, fits best sterically in retinal-binding pocket
+- [opsin-gpcr](/proteins/opsin-gpcr/) — DM tested in reconstitution inhibition assays; showed strong concentration-dependent inhibition, fits best sterically in retinal-binding pocket
   - **Verification**: Raw paper (10.1002/anie.201302374) confirms: "Decylmaltoside (DM) showed strong concentration-dependent inhibition of reconstitution... DM has a similar size as retinal and seems to fit best into the retinal-binding pocket"
 
 ## Comparison with Related Detergents
@@ -53,6 +53,6 @@ layout: default
 
 ## Related Detergents
 
-- [[ddm]] — n-dodecyl-β-D-maltoside; standard membrane protein detergent
-- [[og]] — n-octyl-β-D-glucoside; very mild detergent
-- [[lmng]] — lauryl [[mng-detergent]]; ultra-mild GPCR detergent
+- [ddm](/reagents/detergents/ddm/) — n-dodecyl-β-D-maltoside; standard membrane protein detergent
+- [og](/reagents/detergents/og/) — n-octyl-β-D-glucoside; very mild detergent
+- [lmng](/reagents/detergents/lmng/) — lauryl [mng-detergent](/reagents/detergents/mng-detergent/); ultra-mild GPCR detergent

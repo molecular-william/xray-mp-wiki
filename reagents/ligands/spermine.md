@@ -58,5 +58,5 @@ Unlatching causes intracellular vestibule dilation (~4.5 Å), simultaneously dis
 
 ## Related Reagents
 
-- [[sodium-chloride]] — NaCl for osmotic balance
-- [[li2so4]] — Lithium sulfate, kosmotropic salt
+- [sodium-chloride](/reagents/additives/sodium-chloride/) — NaCl for osmotic balance
+- [li2so4](/reagents/additives/li2so4/) — Lithium sulfate, kosmotropic salt

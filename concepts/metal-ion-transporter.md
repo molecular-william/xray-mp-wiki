@@ -23,7 +23,7 @@ The metal ion transporter (MIT) superfamily is a large and diverse group of esse
 - **Architecture**: Homopentamer; 2 TM helices per monomer; large cytoplasmic funnel domain
 - **Members**: CorA (bacteria), Cch1/Mid1 (eukaryotes)
 - **Structures**: Multiple X-ray structures (Tm-CorA, Af-CorA, Vp-ZntB homolog)
-- **Gating**: Regulated by intracellular Mg²⁺ [[amicon-filters]] via metal-binding sites
+- **Gating**: Regulated by intracellular Mg²⁺ [amicon-filters](/methods/purification/amicon-filters/) via metal-binding sites
 
 ### ZntB Family
 - **Function**: Zn²⁺/Cd²⁺ efflux (zinc/cadmium exporters)
@@ -58,6 +58,6 @@ Different MIT families have characteristic sequence motifs in the transmembrane 
 
 ## Cross-References
 
-- [[cora-mg-transporter]] — Mg²⁺ uptake transporter; archetypal MIT member
-- [[zntb-transporter]] — Zn²⁺/Cd²⁺ exporter; distant CorA homolog
-- [[mfs-transporter]] — Major facilitator superfamily (different family)
+- [cora-mg-transporter](/concepts/cora-mg-transporter/) — Mg²⁺ uptake transporter; archetypal MIT member
+- [zntb-transporter](/proteins/zntb-transporter/) — Zn²⁺/Cd²⁺ exporter; distant CorA homolog
+- [mfs-transporter](/concepts/mfs-transporter/) — Major facilitator superfamily (different family)

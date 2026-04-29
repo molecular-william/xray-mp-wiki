@@ -58,8 +58,8 @@ The P2Y12R crystal structure (2.6 Å, P2Y12R-BRIL, Wu et al., 2014) reveals:
 
 ## Related Ligands
 
-- [[ticagrelor]] — Reversible P2Y12 antagonist, inverse agonist
-- [[selatogrel]] — Reversible P2Y12 inverse agonist
-- [[elinogrel]] — Reversible P2Y12 inverse agonist
-- [[p2y12-receptor]] — P2Y12 receptor page
-- [[clopidogrel]] — See also: P2Y12 receptor structure (Nature 2014)
+- [ticagrelor](/reagents/ligands/ticagrelor/) — Reversible P2Y12 antagonist, inverse agonist
+- [selatogrel](/reagents/ligands/selatogrel/) — Reversible P2Y12 inverse agonist
+- [elinogrel](/reagents/ligands/elinogrel/) — Reversible P2Y12 inverse agonist
+- [p2y12-receptor](/proteins/p2y12-receptor/) — P2Y12 receptor page
+- [clopidogrel](/reagents/ligands/clopidogrel/) — See also: P2Y12 receptor structure (Nature 2014)

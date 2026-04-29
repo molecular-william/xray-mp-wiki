@@ -130,14 +130,14 @@ The structure supports a mechanism where:
 
 ## Related GPCRs
 
-- [[opsin-gpcr]] — Opsin (retinal-free) structure; active state with OG in binding pocket
-- [[a2a-adenosine-receptor]] — Class A GPCR with extensive structural biology
-- [[5ht2b-receptor]] — Serotonin GPCR with BRIL fusion
+- [opsin-gpcr](/proteins/opsin-gpcr/) — Opsin (retinal-free) structure; active state with OG in binding pocket
+- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — Class A GPCR with extensive structural biology
+- [5ht2b-receptor](/proteins/5ht2b-receptor/) — Serotonin GPCR with BRIL fusion
 
 ## Cross-References
 
-- [[lDAO]] — Detergent (0.05%) essential for crystal quality
-- [[og]] — Related alkylglucoside detergent
-- [[xray-crystallography]] — Structure determination method
-- [[molecular-replacement]] — Phasing method used
-- [[vapor-diffusion]] — Common crystallization method for GPCRs
+- [lDAO](/reagents/detergents/lDAO/) — Detergent (0.05%) essential for crystal quality
+- [og](/reagents/detergents/og/) — Related alkylglucoside detergent
+- [xray-crystallography](/methods/structure-determination/xray-crystallography/) — Structure determination method
+- [molecular-replacement](/methods/structure-determination/molecular-replacement/) — Phasing method used
+- [vapor-diffusion](/methods/crystallization/vapor-diffusion/) — Common crystallization method for GPCRs

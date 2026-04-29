@@ -5,11 +5,45 @@ author: molecular-william
 baseurl: "/xray-detergent-wiki"
 url: "https://molecular-william.github.io"
 permalink: pretty
+
 collections:
+  proteins:
+    output: true
+    permalink: /proteins/:name/
+  reagents:
+    output: true
+    permalink: /reagents/:name/
+  methods:
+    output: true
+    permalink: /methods/:name/
+  concepts:
+    output: true
+    permalink: /concepts/:name/
   categories:
     output: true
     permalink: /categories/:name/
+
 defaults:
+  - scope:
+      path: ""
+      type: "proteins"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "reagents"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "methods"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "concepts"
+    values:
+      layout: "default"
   - scope:
       path: ""
       type: "categories"

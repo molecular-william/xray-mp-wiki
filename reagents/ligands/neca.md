@@ -15,7 +15,7 @@ layout: default
 
 ## Overview
 
-NECA is a non-selective adenosine receptor agonist widely used in structural and functional studies of adenosine receptors. It is the most commonly used ligand in crystal structure analyses of agonist-bound [[a2a-adenosine-receptor]].
+NECA is a non-selective adenosine receptor agonist widely used in structural and functional studies of adenosine receptors. It is the most commonly used ligand in crystal structure analyses of agonist-bound [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/).
 
 ## Properties
 
@@ -25,9 +25,9 @@ NECA is a non-selective adenosine receptor agonist widely used in structural and
 
 ## Uses in this Wiki
 
-- [[a2a-adenosine-receptor]] — Used in binding assays (agonist; binding abolished in S91K mutant)
-- [[photoNECA]] — Agonist moiety in photoNECA (blue) photoswitchable ligand
-- [[5ht2b-receptor]] — Referenced as adenosine agonist in cell-based assays
+- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — Used in binding assays (agonist; binding abolished in S91K mutant)
+- [photoNECA](/reagents/ligands/photoNECA/) — Agonist moiety in photoNECA (blue) photoswitchable ligand
+- [5ht2b-receptor](/proteins/5ht2b-receptor/) — Referenced as adenosine agonist in cell-based assays
 
 ## Related Adenosine Ligands
 
@@ -35,4 +35,4 @@ NECA is a non-selective adenosine receptor agonist widely used in structural and
 - **CGS21680**: A2A-selective agonist
 - **ZM241385**: A2A-selective antagonist
 - **Preladenant**: Highly selective A2A antagonist (tricyclic)
-- [[selatogrel]] — ADP antagonist (different receptor family)
+- [selatogrel](/reagents/ligands/selatogrel/) — ADP antagonist (different receptor family)

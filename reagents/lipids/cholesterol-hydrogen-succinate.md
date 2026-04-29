@@ -28,14 +28,14 @@ CHS is used to stabilize membrane proteins, particularly GPCRs, during purificat
 
 ## Proteins Using CHS (from this wiki)
 
-- [[etb-receptor]] — 0.2% CHS in solubilization buffer; 0.01% CHS in TALON wash; 0.001% CHS in elution and SEC buffers
-- [[angiotensin-ii-type-1-receptor]] — 0.2% CHS in solubilization buffer (1% DDM + 0.2% CHS); 0.01% CHS in purification
+- [etb-receptor](/proteins/etb-receptor/) — 0.2% CHS in solubilization buffer; 0.01% CHS in TALON wash; 0.001% CHS in elution and SEC buffers
+- [angiotensin-ii-type-1-receptor](/proteins/angiotensin-ii-type-1-receptor/) — 0.2% CHS in solubilization buffer (1% DDM + 0.2% CHS); 0.01% CHS in purification
 
-- [[nTMATE2-transporter]] — 0.003% combined with 0.03% LMNG in purification and SEC buffers
+- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — 0.003% combined with 0.03% LMNG in purification and SEC buffers
   - Critical for NtMATE2 stability during size-exclusion chromatography
-- [[angiotensin-ii-type-1-receptor]] — 0.05% CHS in solubilization buffer, 0.01% in wash buffer, 0.001% in SEC buffer (HNM); also used as 10% of LCP lipid mix (10:1 [[monoolein]]:cholesterol w:w) for crystallization
+- [angiotensin-ii-type-1-receptor](/proteins/angiotensin-ii-type-1-receptor/) — 0.05% CHS in solubilization buffer, 0.01% in wash buffer, 0.001% in SEC buffer (HNM); also used as 10% of LCP lipid mix (10:1 [monoolein](/methods/crystallization/monoolein/):cholesterol w:w) for crystallization
 
 ## Related Reagents
 
-- [[lmng]] — typically used together with CHS
+- [lmng](/reagents/detergents/lmng/) — typically used together with CHS
 - Cholesterol — native lipid form (less water-soluble)

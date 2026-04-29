@@ -63,11 +63,11 @@ DDM is the universal first-choice detergent for solubilization across all membra
 | Mitochondrial proteins | 1-2% (w/v) | Often with CHS |
 
 Examples from the wiki:
-- [[nTMATE2-transporter]] — 2% DDM from *Pichia pastoris* membranes
-- [[acrB]] — 2% DDM from *E. coli* membranes
-- [[etb-receptor]] — 1% DDM from Sf9 insect cell membranes (4°C, 1 hr)
-- [[angiotensin-ii-type-1-receptor]] — 1% DDM + 0.2% CHS from Sf9 membranes
-- [[psi-lhci-supercomplex]] — β-DDM for thylakoid membrane solubilization
+- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — 2% DDM from *Pichia pastoris* membranes
+- [acrB](/proteins/acrB/) — 2% DDM from *E. coli* membranes
+- [etb-receptor](/proteins/etb-receptor/) — 1% DDM from Sf9 insect cell membranes (4°C, 1 hr)
+- [angiotensin-ii-type-1-receptor](/proteins/angiotensin-ii-type-1-receptor/) — 1% DDM + 0.2% CHS from Sf9 membranes
+- [psi-lhci-supercomplex](/proteins/psi-lhci-supercomplex/) — β-DDM for thylakoid membrane solubilization
 
 ### GPCR-specific: DDM + CHS
 
@@ -76,8 +76,8 @@ For GPCR solubilization, DDM is almost always combined with cholesterol hydrogen
 - **Typical ratio**: 1% DDM + 0.1-0.2% CHS (w/v each)
 - **Purpose**: CHS stabilizes GPCR tertiary structure during extraction, compensating for loss of native cholesterol
 - **Examples**:
-  - [[etb-receptor]] — 1% DDM + 0.2% CHS for solubilization; 0.01% LMNG + 0.01% CHS in purification
-  - [[angiotensin-ii-type-1-receptor]] — 1% DDM + 0.2% CHS for solubilization
+  - [etb-receptor](/proteins/etb-receptor/) — 1% DDM + 0.2% CHS for solubilization; 0.01% LMNG + 0.01% CHS in purification
+  - [angiotensin-ii-type-1-receptor](/proteins/angiotensin-ii-type-1-receptor/) — 1% DDM + 0.2% CHS for solubilization
   - CCR2A — 1.0% DDM + 0.1% CHS for 2 hours at 4°C [10.1016##j.str.2018.10.027]
 
 ### Detergent Exchange for Downstream Steps
@@ -105,7 +105,7 @@ The most common solubilization conditions across the literature:
 - **Detergent concentration**: 10-50× CMC (typically 0.1-2% w/v depending on detergent)
 - **Buffer**: 20-50 mM Tris-HCl or HEPES-NaOH, pH 7.0-8.0
 - **Salt**: 150-500 mM NaCl
-- **Additives**: 5-10% [[glycerol]], protease inhibitor tablets, DNase I for viscous lysates
+- **Additives**: 5-10% [glycerol](/reagents/additives/glycerol/), protease inhibitor tablets, DNase I for viscous lysates
 
 ### Typical Workflow
 
@@ -162,32 +162,32 @@ When the initial solubilization detergent is not optimal for downstream steps, d
 - **SEC-based exchange**: Load concentrated sample onto SEC column equilibrated in new detergent
 - **Detergent-coated beads**: Use detergent-conjugated resins for exchange
 
-Example: [[nTMATE2-transporter]] was solubilized in 2% DDM, then exchanged to 0.03% LMNG for SEC purification [10.1002##1873-3468.14136].
+Example: [nTMATE2-transporter](/proteins/nTMATE2-transporter/) was solubilized in 2% DDM, then exchanged to 0.03% LMNG for SEC purification [10.1002##1873-3468.14136].
 
 ## Proteins Using Solubilization (from this wiki)
 
 | Protein | Solubilization Detergent | Stabilizers | Notes |
 |---|---|---|---|
-| [[nTMATE2-transporter]] | 2% DDM | 10% glycerol | From *Pichia pastoris*; exchanged to 0.03% LMNG |
-| [[acrB]] | 2% DDM | 10% glycerol | From *E. coli*; maintained at 0.2% throughout |
-| [[etb-receptor]] | 1% DDM + 0.2% CHS | — | From Sf9; exchanged to 0.1% LMNG + 0.01% CHS |
-| [[angiotensin-ii-type-1-receptor]] | 1% DDM + 0.2% CHS | — | From Sf9; exchanged to 0.01% MNG + 0.001% CHS |
-| [[psi-lhci-supercomplex]] | β-DDM (2%) | — | Thylakoid membranes; exchanged to GDN for cryo-EM |
-| [[kirbac]] | 1% DDM | Structural phospholipids | Bacterial potassium channel |
-| [[opsin-gpcr]] | OG | — | Primary solubilization detergent |
-| [[5ht2b-receptor]] | 1% DDM + 0.1% CHS | 0.01% CHS in purification | From HEK293F cells |
-| [[kappa-opioid-receptor]] | 1% DDM + 0.1% CHS | — | From HEK293F cells |
-| [[adenine-nucleotide-transporter]] | 2% DM | — | Mitochondrial AAC |
-| [[sotb]] | 2% DDM | 10% glycerol | From *E. coli* |
-| [[mmpL3]] | 1% DDM | 0.1% CHS | From *M. smegmatis* |
+| [nTMATE2-transporter](/proteins/nTMATE2-transporter/) | 2% DDM | 10% glycerol | From *Pichia pastoris*; exchanged to 0.03% LMNG |
+| [acrB](/proteins/acrB/) | 2% DDM | 10% glycerol | From *E. coli*; maintained at 0.2% throughout |
+| [etb-receptor](/proteins/etb-receptor/) | 1% DDM + 0.2% CHS | — | From Sf9; exchanged to 0.1% LMNG + 0.01% CHS |
+| [angiotensin-ii-type-1-receptor](/proteins/angiotensin-ii-type-1-receptor/) | 1% DDM + 0.2% CHS | — | From Sf9; exchanged to 0.01% MNG + 0.001% CHS |
+| [psi-lhci-supercomplex](/proteins/psi-lhci-supercomplex/) | β-DDM (2%) | — | Thylakoid membranes; exchanged to GDN for cryo-EM |
+| [kirbac](/proteins/kirbac/) | 1% DDM | Structural phospholipids | Bacterial potassium channel |
+| [opsin-gpcr](/proteins/opsin-gpcr/) | OG | — | Primary solubilization detergent |
+| [5ht2b-receptor](/proteins/5ht2b-receptor/) | 1% DDM + 0.1% CHS | 0.01% CHS in purification | From HEK293F cells |
+| [kappa-opioid-receptor](/proteins/kappa-opioid-receptor/) | 1% DDM + 0.1% CHS | — | From HEK293F cells |
+| [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) | 2% DM | — | Mitochondrial AAC |
+| [sotb](/proteins/sotb/) | 2% DDM | 10% glycerol | From *E. coli* |
+| [mmpL3](/proteins/mmpL3/) | 1% DDM | 0.1% CHS | From *M. smegmatis* |
 
 ## Related Methods
 
-- [[affinity-chromatography]] — typically the next step after solubilization
-- [[size-exclusion-chromatography]] — used after detergent exchange
-- [[centrifugation]] — membrane isolation and clarification
-- DDM, LMNG, OG, GDN, DM, [[digitonin]] — various non-ionic detergents used for solubilization
-- [[cholesterol-hydrogen-succinate]] — essential stabilizer for GPCR solubilization
+- [affinity-chromatography](/methods/purification/affinity-chromatography/) — typically the next step after solubilization
+- [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography/) — used after detergent exchange
+- [centrifugation](/methods/purification/centrifugation/) — membrane isolation and clarification
+- DDM, LMNG, OG, GDN, DM, [digitonin](/reagents/detergents/digitonin/) — various non-ionic detergents used for solubilization
+- [cholesterol-hydrogen-succinate](/reagents/lipids/cholesterol-hydrogen-succinate/) — essential stabilizer for GPCR solubilization
 
 ## Key Principles
 

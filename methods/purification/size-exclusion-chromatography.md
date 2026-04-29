@@ -31,19 +31,19 @@ SEC (also called gel filtration) separates proteins by hydrodynamic radius. It i
 
 | Protein | Column | Buffer | Purpose |
 |---------|--------|--------|---------|
-| [[nTMATE2-transporter]] | Superdex 200 Increase 10/30 GL | 300 mM NaCl, 50 mM HEPES-Na pH 7.0, 1% [[glycerol]], 0.03% LMNG, 0.003% CHS | Final polishing after TALON affinity; monodisperse sample for LCP |
-| [[a2a-adenosine-receptor]] | Analytical SEC | — | Confirmed PSB-2115 complex integrity |
-| [[psi-lhci-supercomplex]] | HiLoad 26/60 Superdex 75 | 20 mM Tris-HCl pH 7.5, 150 mM NaCl | Ferredoxin purification |
+| [nTMATE2-transporter](/proteins/nTMATE2-transporter/) | Superdex 200 Increase 10/30 GL | 300 mM NaCl, 50 mM HEPES-Na pH 7.0, 1% [glycerol](/reagents/additives/glycerol/), 0.03% LMNG, 0.003% CHS | Final polishing after TALON affinity; monodisperse sample for LCP |
+| [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) | Analytical SEC | — | Confirmed PSB-2115 complex integrity |
+| [psi-lhci-supercomplex](/proteins/psi-lhci-supercomplex/) | HiLoad 26/60 Superdex 75 | 20 mM Tris-HCl pH 7.5, 150 mM NaCl | Ferredoxin purification |
 
 ## Key Detergents Used with SEC
 
-- [[lmng]] — 0.03% in [[nTMATE2-transporter]] SEC buffer
-- [[cholesterol-hydrogen-succinate]] — 0.003% CHS stabilizes GPCRs
-- [[ddm]] — 0.05% in [[psi-lhci-supercomplex]] cryoprotection
+- [lmng](/reagents/detergents/lmng/) — 0.03% in [nTMATE2-transporter](/proteins/nTMATE2-transporter/) SEC buffer
+- [cholesterol-hydrogen-succinate](/reagents/lipids/cholesterol-hydrogen-succinate/) — 0.003% CHS stabilizes GPCRs
+- [ddm](/reagents/detergents/ddm/) — 0.05% in [psi-lhci-supercomplex](/proteins/psi-lhci-supercomplex/) cryoprotection
 
 ## Related Methods
 
-- [[affinity-chromatography]] — affinity capture before SEC
-- [[talon-resin]] — TALON his-tag affinity
-- [[etb-receptor]] — Superdex200 10/300 Increase; 20 mM Tris-HCl pH 7.5, 150 mM NaCl, 0.01% LMNG, 0.001% CHS; monodisperse peak at 40 mg/mL
-- [[superdex-columns]] — Superdex column products
+- [affinity-chromatography](/methods/purification/affinity-chromatography/) — affinity capture before SEC
+- [talon-resin](/methods/purification/talon-resin/) — TALON his-tag affinity
+- [etb-receptor](/proteins/etb-receptor/) — Superdex200 10/300 Increase; 20 mM Tris-HCl pH 7.5, 150 mM NaCl, 0.01% LMNG, 0.001% CHS; monodisperse peak at 40 mg/mL
+- [superdex-columns](/methods/purification/superdex-columns/) — Superdex column products

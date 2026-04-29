@@ -118,9 +118,9 @@ A striking finding: **25 well-defined Cl⁻ ions** per pentamer (5 per monomer) 
 
 ## Cross-References
 
-- [[cora-mg-transporter]] — Mg²⁺ transporter; structural homolog
-- [[metal-ion-transporter]] — MIT superfamily overview
-- [[mfs-transporter]] — Major facilitator superfamily (different family)
-- [[spermine]] — Polyamine ligand (related to [[ion-channels]] block concepts)
-- [[ddm]] — Detergent used in purification
-- [[xray-crystallography]] — Structure determination method
+- [cora-mg-transporter](/concepts/cora-mg-transporter/) — Mg²⁺ transporter; structural homolog
+- [metal-ion-transporter](/concepts/metal-ion-transporter/) — MIT superfamily overview
+- [mfs-transporter](/concepts/mfs-transporter/) — Major facilitator superfamily (different family)
+- [spermine](/reagents/ligands/spermine/) — Polyamine ligand (related to [ion-channels](/concepts/ion-channels/) block concepts)
+- [ddm](/reagents/detergents/ddm/) — Detergent used in purification
+- [xray-crystallography](/methods/structure-determination/xray-crystallography/) — Structure determination method

@@ -28,7 +28,7 @@ Nicotine is a naturally occurring alkaloid and the physiological substrate of Nt
 ## Use in Crystallization
 
 - **Co-crystallization concentration**: 2.5 mM nicotine added to purified NtMATE2
-- **Incubation**: 10 min at 4°C before [[lipidic-cubic-phase]] reconstitution
+- **Incubation**: 10 min at 4°C before [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) reconstitution
 - **Reservoir concentration**: 2.5-7.5 mM nicotine in crystallization drops
 - **Effect**: Stabilized the outward-releasing conformation (Mol-B), which showed lower B-factor (93.2) than the ligand-free form (Mol-A, 101.5)
 - **Electron density**: Elongated non-water electron density observed near N316 (TM8) and E285 (TM7) in Mol-B; likely represents a partial substrate analog or tightly bound factor
@@ -42,5 +42,5 @@ Nicotine is a naturally occurring alkaloid and the physiological substrate of Nt
 
 ## Related Transporters
 
-- [[nTMATE2-transporter]] — Primary substrate; NtMATE1 also transports nicotine (95% sequence identity)
-- [[mfs-transporter]] — MATE family transporters transport diverse alkaloids and drugs
+- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — Primary substrate; NtMATE1 also transports nicotine (95% sequence identity)
+- [mfs-transporter](/concepts/mfs-transporter/) — MATE family transporters transport diverse alkaloids and drugs

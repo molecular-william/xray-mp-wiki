@@ -30,31 +30,31 @@ The P2Y12 receptor is a G-protein-coupled receptor (GPCR) expressed on platelets
 
 ## Expression and Purification
 
-- **Expression system**: [[sf9-cells]] (baculovirus [[baculovirus-expression]])
+- **Expression system**: [sf9-cells](/methods/expression-systems/sf9-cells/) (baculovirus [baculovirus-expression](/methods/expression-systems/baculovirus-expression/))
 - **Construct design**:
-  - Human P2Y12 receptor with thermostabilized [[bril]] (Apafant [[bril]], PDB: 1M6T) fused into ICL3 at positions T223–R224
+  - Human P2Y12 receptor with thermostabilized [bril](/reagents/protein-tags/bril/) (Apafant [bril](/reagents/protein-tags/bril/), PDB: 1M6T) fused into ICL3 at positions T223–R224
   - Intact N and C termini
   - D294⁷·⁴⁹N mutation for improved purification yield
-- **Detergent**: [[ddm]] (n-dodecyl-β-D-maltopyranoside) for membrane solubilization
-- **Purification**: [[imac]] (Ni-NTA immobilized metal affinity chromatography), elution in presence of 2 mM [[selatogrel]]
-- **SEC**: [[superdex-columns]] increase column, buffer containing 20 mM [[hepes-buffer]] pH 7.5, 150 mM [[sodium-chloride]], 0.05% [[ddm]], 2 mM [[selatogrel]]
+- **Detergent**: [ddm](/reagents/detergents/ddm/) (n-dodecyl-β-D-maltopyranoside) for membrane solubilization
+- **Purification**: [imac](/methods/purification/imac/) (Ni-NTA immobilized metal affinity chromatography), elution in presence of 2 mM [selatogrel](/reagents/ligands/selatogrel/)
+- **SEC**: [superdex-columns](/methods/purification/superdex-columns/) increase column, buffer containing 20 mM [hepes-buffer](/reagents/buffers/hepes-buffer/) pH 7.5, 150 mM [sodium-chloride](/reagents/additives/sodium-chloride/), 0.05% [ddm](/reagents/detergents/ddm/), 2 mM [selatogrel](/reagents/ligands/selatogrel/)
 
 ## Crystallization
 
-- **Method**: [[lipidic-cubic-phase]] (LCP) — [[monoolein]]-based mesophase
-- **Lipid**: [[monoolein]] (Sigma M8410)
+- **Method**: [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) (LCP) — [monoolein](/methods/crystallization/monoolein/)-based mesophase
+- **Lipid**: [monoolein](/methods/crystallization/monoolein/) (Sigma M8410)
 - **Protein-to-lipid ratio**: 1:1.5 (w/w)
-- **Precipitant**: 0.1 M [[sodium-citrate]] pH 5.6, 18–20% [[peg-400]]
+- **Precipitant**: 0.1 M [sodium-citrate](/reagents/additives/sodium-citrate/) pH 5.6, 18–20% [peg-400](/reagents/additives/peg-400/)
 - **Temperature**: 20 °C
 - **Crystal growth**: 1–2 weeks
 
 ## Pharmacology
 
-- **[[selatogrel]]**: Reversible, highly selective antagonist; Kd = 1.5 nM; IC50 = 14 nM for ADP-induced aggregation
-- **Inverse agonism**: [[selatogrel]] completely abolishes constitutive P2Y12 activity in human platelets
-- **100-fold more potent than [[ticagrelor]]** in inverse agonist efficacy
-- **Clinical profile**: Improved blood-loss profile vs. [[clopidogrel]] and [[ticagrelor]] at equivalent antithrombotic efficacy
-- **No off-target effects** on vascular tone regulation (unlike [[ticagrelor]])
+- **[selatogrel](/reagents/ligands/selatogrel/)**: Reversible, highly selective antagonist; Kd = 1.5 nM; IC50 = 14 nM for ADP-induced aggregation
+- **Inverse agonism**: [selatogrel](/reagents/ligands/selatogrel/) completely abolishes constitutive P2Y12 activity in human platelets
+- **100-fold more potent than [ticagrelor](/reagents/ligands/ticagrelor/)** in inverse agonist efficacy
+- **Clinical profile**: Improved blood-loss profile vs. [clopidogrel](/reagents/ligands/clopidogrel/) and [ticagrelor](/reagents/ligands/ticagrelor/) at equivalent antithrombotic efficacy
+- **No off-target effects** on vascular tone regulation (unlike [ticagrelor](/reagents/ligands/ticagrelor/))
 
 ## Binding Pocket
 
@@ -65,11 +65,11 @@ The P2Y12 receptor is a G-protein-coupled receptor (GPCR) expressed on platelets
 
 ## Related Ligands
 
-- **[[ticagrelor]]**: Reversible P2Y12 antagonist with inverse agonist efficacy (market approved)
-- **[[elinogrel]]**: Reversible P2Y12 antagonist with inverse agonist efficacy
+- **[ticagrelor](/reagents/ligands/ticagrelor/)**: Reversible P2Y12 antagonist with inverse agonist efficacy (market approved)
+- **[elinogrel](/reagents/ligands/elinogrel/)**: Reversible P2Y12 antagonist with inverse agonist efficacy
 - **AZD1283**: Allosteric modulator (PDB: 4NTJ)
 - **2MeSADP**: Agonist (2-methylthioadenosine diphosphate)
-- **[[clopidogrel]]**: Irreversible antagonist (market approved)
+- **[clopidogrel](/reagents/ligands/clopidogrel/)**: Irreversible antagonist (market approved)
 - **Prasugrel**: Irreversible antagonist (market approved)
 
 ## Therapeutic Relevance
@@ -79,7 +79,7 @@ The P2Y12 receptor is a G-protein-coupled receptor (GPCR) expressed on platelets
 
 ## Related GPCRs
 
-- [[a2a-adenosine-receptor]] — Another GPCR with extensive structural studies
-- [[opsin-gpcr]] — Class A GPCR structural model
-- [[kappa-opioid-receptor]] — Opioid GPCR with [[nanobody]] stabilization
-- [[5ht2b-receptor]] — Serotonin GPCR with [[bril]] fusion and [[lipidic-cubic-phase]] crystallization
+- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — Another GPCR with extensive structural studies
+- [opsin-gpcr](/proteins/opsin-gpcr/) — Class A GPCR structural model
+- [kappa-opioid-receptor](/proteins/kappa-opioid-receptor/) — Opioid GPCR with [nanobody](/reagents/antibodies/nanobody/) stabilization
+- [5ht2b-receptor](/proteins/5ht2b-receptor/) — Serotonin GPCR with [bril](/reagents/protein-tags/bril/) fusion and [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) crystallization

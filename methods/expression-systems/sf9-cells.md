@@ -18,7 +18,7 @@ layout: default
 
 ## Overview
 
-Sf9 cells are a line of insect cells derived from *Spodoptera frugiperda* (fall armyworm) ovary tissue. They are widely used for recombinant protein expression using [[baculovirus-expression]] expression vectors, particularly for membrane proteins and GPCRs that require post-translational modifications (glycosylation, palmitoylation) not provided by bacterial systems.
+Sf9 cells are a line of insect cells derived from *Spodoptera frugiperda* (fall armyworm) ovary tissue. They are widely used for recombinant protein expression using [baculovirus-expression](/methods/expression-systems/baculovirus-expression/) expression vectors, particularly for membrane proteins and GPCRs that require post-translational modifications (glycosylation, palmitoylation) not provided by bacterial systems.
 
 ## Baculovirus Expression System
 
@@ -44,7 +44,7 @@ The Bac-to-Bac system (Invitrogen/Thermo Fisher) enables rapid generation of rec
 - **Infection density**: 4.0 × 10⁶ cells/mL
 - **Growth**: 48 hours at 27°C post-infection
 - **Harvest**: Cells disrupted by sonication
-- **Membrane preparation**: Ultra[[centrifugation]] at 180,000g for 1 hr
+- **Membrane preparation**: Ultra[centrifugation](/methods/purification/centrifugation/) at 180,000g for 1 hr
 
 ## Comparison with Other Expression Systems
 
@@ -57,5 +57,5 @@ The Bac-to-Bac system (Invitrogen/Thermo Fisher) enables rapid generation of rec
 
 ## Related Expression Systems
 
-- [[pichia-pastoris]] — Yeast expression system for eukaryotic membrane proteins
-- [[hek293-cells]] — HEK293 mammalian cells for GPCR functional assays
+- [pichia-pastoris](/methods/expression-systems/pichia-pastoris/) — Yeast expression system for eukaryotic membrane proteins
+- [hek293-cells](/methods/expression-systems/hek293-cells/) — HEK293 mammalian cells for GPCR functional assays

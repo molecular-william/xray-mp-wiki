@@ -24,19 +24,19 @@ Nonylglucoside (NG, n-nonyl β-D-glucopyranoside) is a short-chain alkyl glucosi
 
 - **Chain length**: C9 (nonyl)
 - **Type**: Non-ionic alkyl glucoside
-- **CMC**: Higher than [[og]] due to shorter chain
+- **CMC**: Higher than [og](/reagents/detergents/og/) due to shorter chain
 - **Use**: Solubilization, crystallization, detergent screening
 
 ## Proteins Using NG (from this wiki)
 
-- [[opsin-gpcr]] — NG tested alongside [[og]] and [[hpg]] in detergent screening experiments
+- [opsin-gpcr](/proteins/opsin-gpcr/) — NG tested alongside [og](/reagents/detergents/og/) and [hpg](/reagents/detergents/hpg/) in detergent screening experiments
   - Inhibition of ligand-binding pocket occupation depended on hydrocarbon chain length and concentration
-  - Maximal inhibition observed at longer chain lengths (NG < [[og]] < longer detergents)
-  - Used to probe the specificity of detergent occupancy in the [[opsin-gpcr]] retinal-binding pocket
+  - Maximal inhibition observed at longer chain lengths (NG < [og](/reagents/detergents/og/) < longer detergents)
+  - Used to probe the specificity of detergent occupancy in the [opsin-gpcr](/proteins/opsin-gpcr/) retinal-binding pocket
 
 ## Related Detergents
 
-- [[og]] — Octylglucoside (C8), used to solubilize [[opsin-gpcr]] and crystallize active state
-- [[ddm]] — Dodecyl-β-D-maltopyranoside (C12), longer chain, milder
-- [[lmng]] — Lauryl [[mng-detergent]], ultra-mild detergent
-- [[gdn]] — GlycoDiosgenin, steroidal glycoside
+- [og](/reagents/detergents/og/) — Octylglucoside (C8), used to solubilize [opsin-gpcr](/proteins/opsin-gpcr/) and crystallize active state
+- [ddm](/reagents/detergents/ddm/) — Dodecyl-β-D-maltopyranoside (C12), longer chain, milder
+- [lmng](/reagents/detergents/lmng/) — Lauryl [mng-detergent](/reagents/detergents/mng-detergent/), ultra-mild detergent
+- [gdn](/reagents/detergents/gdn/) — GlycoDiosgenin, steroidal glycoside

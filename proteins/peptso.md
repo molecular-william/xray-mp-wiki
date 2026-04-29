@@ -88,9 +88,9 @@ PepTSo is a proton-coupled oligopeptide transporter from the POT (Peptide Transp
 
 ## Related Transporters
 
-- [[sotb]] — E. coli antiporter (MFS family)
-- [[mmpL3]] — Mycobacterial drug transporter
-- [[adenine-nucleotide-transporter]] — ANT (nucleotide transporter)
+- [sotb](/proteins/sotb/) — E. coli antiporter (MFS family)
+- [mmpL3](/proteins/mmpL3/) — Mycobacterial drug transporter
+- [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) — ANT (nucleotide transporter)
 
 ## References
 

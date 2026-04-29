@@ -30,7 +30,7 @@ MmpL3 is an essential membrane protein transporter in *Mycobacterium tuberculosi
 ### Zhang et al. (Cell 2019) — MsMmpL3-T4L (M. smegmatis)
 
 - **Resolution**: 2.59 Å (MmpL3₇₇₃)
-- **Architecture**: 12 transmembrane helices with [[t4-lysozyme]] (T4L) fusion
+- **Architecture**: 12 transmembrane helices with [t4-lysozyme](/reagents/protein-tags/t4-lysozyme/) (T4L) fusion
 - **Periplasmic pore domain**: Subdomains PN and PC, both adopt β-α-β-α-β fold
 - **Three openings**: G_T (funnel at top), G_F (opening in front), G_B (opening at back)
 - **Substrate mimic**: 6-DDTre (6-n-dodecyl-α,α-trehalose) bound in cavity and G_T
@@ -46,36 +46,36 @@ MmpL3 is an essential membrane protein transporter in *Mycobacterium tuberculosi
 
 - **Expression**: *E. coli* BL21(DE3)Δ*acrB* cells (full-length) or *M. smegmatis* mc²155 cells (MmpL3₇₇₃)
 - **Construct**: C-terminal 6xHis-tag; MmpL3₇₇₃ (residues 1–773) for crystallization
-- **Detergent**: [[ddm]] (n-dodecyl-β-D-maltopyranoside)
-- **Purification**: Ni²⁺-[[affinity-chromatography]], Superdex size-exclusion chromatography
-- **SEC buffer**: 20 mM Na-[[hepes-buffer]] pH 7.5, 150 mM [[sodium-chloride]], 0.05% [[ddm]]
+- **Detergent**: [ddm](/reagents/detergents/ddm/) (n-dodecyl-β-D-maltopyranoside)
+- **Purification**: Ni²⁺-[affinity-chromatography](/methods/purification/affinity-chromatography/), Superdex size-exclusion chromatography
+- **SEC buffer**: 20 mM Na-[hepes-buffer](/reagents/buffers/hepes-buffer/) pH 7.5, 150 mM [sodium-chloride](/reagents/additives/sodium-chloride/), 0.05% [ddm](/reagents/detergents/ddm/)
 
 ### Zhang et al. (Cell 2019) / Yang et al. (JMB 2020)
 
 - **Expression**: *M. smegmatis* mc²155 cells (4-day growth)
-- **Construct**: MmpL3₁₋₇₄₈aa-T4 (C-terminal domain substituted by [[t4-lysozyme]]), 10×His tag
+- **Construct**: MmpL3₁₋₇₄₈aa-T4 (C-terminal domain substituted by [t4-lysozyme](/reagents/protein-tags/t4-lysozyme/)), 10×His tag
 - **Cell lysis**: French Press at 1,200 bars
-- **Detergent**: 1% [[ddm]] (Anatrace) for membrane solubilization
-- **Purification**: [[affinity-chromatography]] agarose (GE Healthcare), elution with 300 mM [[imidazole]]
-- **Wash buffer**: 20 mM [[tris-buffer]]-HCl pH 8.0, 150 mM [[sodium-chloride]], 10% [[glycerol]], 0.05% [[ddm]], 50 mM [[imidazole]]
-- **SEC**: [[superdex-columns]]-6 increase 10/300 GL, buffer: 20 mM [[tris-buffer]]-HCl pH 8.0, 150 mM [[sodium-chloride]], 10% [[glycerol]], 0.05% [[ddm]], 6-DDTre
-- **Concentration**: 15 mg/mL for crystallization (100 kDa cut-off spin [[amicon-filters]])
+- **Detergent**: 1% [ddm](/reagents/detergents/ddm/) (Anatrace) for membrane solubilization
+- **Purification**: [affinity-chromatography](/methods/purification/affinity-chromatography/) agarose (GE Healthcare), elution with 300 mM [imidazole](/reagents/additives/imidazole/)
+- **Wash buffer**: 20 mM [tris-buffer](/reagents/buffers/tris-buffer/)-HCl pH 8.0, 150 mM [sodium-chloride](/reagents/additives/sodium-chloride/), 10% [glycerol](/reagents/additives/glycerol/), 0.05% [ddm](/reagents/detergents/ddm/), 50 mM [imidazole](/reagents/additives/imidazole/)
+- **SEC**: [superdex-columns](/methods/purification/superdex-columns/)-6 increase 10/300 GL, buffer: 20 mM [tris-buffer](/reagents/buffers/tris-buffer/)-HCl pH 8.0, 150 mM [sodium-chloride](/reagents/additives/sodium-chloride/), 10% [glycerol](/reagents/additives/glycerol/), 0.05% [ddm](/reagents/detergents/ddm/), 6-DDTre
+- **Concentration**: 15 mg/mL for crystallization (100 kDa cut-off spin [amicon-filters](/methods/purification/amicon-filters/))
 
 ## Crystallization
 
 ### Su et al. (PNAS 2019)
-- **Method**: [[vapor-diffusion]] (hanging drop)
-- **Protein concentration**: 20 mg/mL MmpL3₇₇₃ in 20 mM Na-[[hepes-buffer]] pH 7.5, 0.05% [[ddm]]
-- **Reservoir**: 25% [[peg-400]], 0.1 M [[sodium-acetate]] pH 5.4, 0.05 M magnesium acetate
+- **Method**: [vapor-diffusion](/methods/crystallization/vapor-diffusion/) (hanging drop)
+- **Protein concentration**: 20 mg/mL MmpL3₇₇₃ in 20 mM Na-[hepes-buffer](/reagents/buffers/hepes-buffer/) pH 7.5, 0.05% [ddm](/reagents/detergents/ddm/)
+- **Reservoir**: 25% [peg-400](/reagents/additives/peg-400/), 0.1 M [sodium-acetate](/reagents/additives/sodium-acetate/) pH 5.4, 0.05 M magnesium acetate
 - **Temperature**: 25 °C
-- **Cryoprotection**: Raised [[peg-400]] to 30%
+- **Cryoprotection**: Raised [peg-400](/reagents/additives/peg-400/) to 30%
 
 ### Yang et al. (JMB 2020)
-- **Method**: Hanging-drop [[vapor-diffusion]]
+- **Method**: Hanging-drop [vapor-diffusion](/methods/crystallization/vapor-diffusion/)
 - **Protein**: 6–8 mg/mL MmpL3-T4L + 0.5 mM ligand (NITD-349 or SPIRO), incubated 30 min at 4 °C
-- **Reservoir**: 10–20% PEGMME 350, 50 mM ADA pH 6.0–7.0, 7.5–17.5% [[peg-2000]]
+- **Reservoir**: 10–20% PEGMME 350, 50 mM ADA pH 6.0–7.0, 7.5–17.5% [peg-2000](/reagents/additives/peg-2000/)
 - **Temperature**: 16 °C
-- **Cryo-protection**: 25% [[glycerol]]
+- **Cryo-protection**: 25% [glycerol](/reagents/additives/glycerol/)
 - **Data collection**: SSRF BL17U, BL18U1, BL19U1; Spring-8 BL41XU
 
 ## Ligand Binding
@@ -95,7 +95,7 @@ MmpL3 is an essential membrane protein transporter in *Mycobacterium tuberculosi
 
 ### Other Lipids
 
-Native MS shows MmpL3 binds: PG (phosphatidylglycerol), PI (phosphatidylinositol), DAG (diacylglycerol), [[cardiolipin]] — suggesting MmpL3 is a promiscuous lipid-binding protein.
+Native MS shows MmpL3 binds: PG (phosphatidylglycerol), PI (phosphatidylinositol), DAG (diacylglycerol), [cardiolipin](/reagents/lipids/cardiolipin/) — suggesting MmpL3 is a promiscuous lipid-binding protein.
 
 ## Proton-Relay Network
 
@@ -161,14 +161,14 @@ All inhibitors bind deep in the central transmembrane channel, disrupting the pr
 
 ## Cross-References
 
-- [[sotb]] — E. coli antiporter (MFS family)
-- [[nTMATE2-transporter]] — Tobacco MATE family transporter
-- [[sq109]] — Anti-TB diamine drug; MmpL3 inhibitor in clinical trials
-- [[rimonabant]] — CB1 antagonist repurposed as MmpL3 inhibitor
-- [[ica38]] — Indolcarboxamide MmpL3 inhibitor
-- [[au1235]] — Adamantyl urea MmpL3 inhibitor
-- [[linezolid]] — Another bacterial drug target (AcrB)
-- [[mfs-transporter]] — Major facilitator superfamily
-- [[cardiolipin]] — Lipid that binds to MmpL3
-- [[ddm]] — Solubilization detergent
-- [[t4-lysozyme]] — T4L fusion used in Zhang et al. construct
+- [sotb](/proteins/sotb/) — E. coli antiporter (MFS family)
+- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — Tobacco MATE family transporter
+- [sq109](/reagents/ligands/sq109/) — Anti-TB diamine drug; MmpL3 inhibitor in clinical trials
+- [rimonabant](/reagents/ligands/rimonabant/) — CB1 antagonist repurposed as MmpL3 inhibitor
+- [ica38](/reagents/ligands/ica38/) — Indolcarboxamide MmpL3 inhibitor
+- [au1235](/reagents/ligands/au1235/) — Adamantyl urea MmpL3 inhibitor
+- [linezolid](/reagents/ligands/linezolid/) — Another bacterial drug target (AcrB)
+- [mfs-transporter](/concepts/mfs-transporter/) — Major facilitator superfamily
+- [cardiolipin](/reagents/lipids/cardiolipin/) — Lipid that binds to MmpL3
+- [ddm](/reagents/detergents/ddm/) — Solubilization detergent
+- [t4-lysozyme](/reagents/protein-tags/t4-lysozyme/) — T4L fusion used in Zhang et al. construct

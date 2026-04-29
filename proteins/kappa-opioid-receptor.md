@@ -24,29 +24,29 @@ The kappa opioid receptor (KOP, also known as OPK) is a class A GPCR that mediat
 - **Space group**: P2₁
 - **Complexes/ASU**: 2
 - **Beamline**: APS GMCA/CAT 23ID-B/D, 1.033 Å, 10-μm microfocus beam
-- **Construct**: [[bril]]-fused KOP (thermostabilized with Apafant [[bril]])
-- **Ligand**: [[mp1104]] (potent epoxymorphinan opioid agonist)
-- **Transducer mimic**: [[nanobody]] (active-state-stabilizing nanobody)
+- **Construct**: [bril](/reagents/protein-tags/bril/)-fused KOP (thermostabilized with Apafant [bril](/reagents/protein-tags/bril/))
+- **Ligand**: [mp1104](/reagents/ligands/mp1104/) (potent epoxymorphinan opioid agonist)
+- **Transducer mimic**: [nanobody](/reagents/antibodies/nanobody/) (active-state-stabilizing nanobody)
 - **Total reflections**: 89,325; Unique reflections: 30,278
 - **R-work/R-free**: 25.4%/27.5%
 
 ## Expression and Purification
 
-- **Expression system**: [[hek293-cells]] (mammalian, stable expression)
+- **Expression system**: [hek293-cells](/methods/expression-systems/hek293-cells/) (mammalian, stable expression)
 - **Construct design**:
   - N-terminal FLAG tag
-  - [[bril]] (thermostabilized apocytochrome b562RIL) fused into ICL3
-  - C-terminal His-tag on [[bril]]
-- **Detergent**: [[ddm]] (n-dodecyl-β-D-maltopyranoside) for membrane solubilization
-- **Purification**: Anti-FLAG [[affinity-chromatography]], [[affinity-chromatography]] (His-tag on [[bril]]), followed by [[size-exclusion-chromatography]] (Superdex 200)
-- **SEC buffer**: 20 mM [[hepes-buffer]] pH 7.5, 150 mM [[sodium-chloride]], 0.05% [[ddm]], 1 μM [[mp1104]]
+  - [bril](/reagents/protein-tags/bril/) (thermostabilized apocytochrome b562RIL) fused into ICL3
+  - C-terminal His-tag on [bril](/reagents/protein-tags/bril/)
+- **Detergent**: [ddm](/reagents/detergents/ddm/) (n-dodecyl-β-D-maltopyranoside) for membrane solubilization
+- **Purification**: Anti-FLAG [affinity-chromatography](/methods/purification/affinity-chromatography/), [affinity-chromatography](/methods/purification/affinity-chromatography/) (His-tag on [bril](/reagents/protein-tags/bril/)), followed by [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography/) (Superdex 200)
+- **SEC buffer**: 20 mM [hepes-buffer](/reagents/buffers/hepes-buffer/) pH 7.5, 150 mM [sodium-chloride](/reagents/additives/sodium-chloride/), 0.05% [ddm](/reagents/detergents/ddm/), 1 μM [mp1104](/reagents/ligands/mp1104/)
 
 ## Crystallization
 
-- **Method**: [[lipidic-cubic-phase]] (LCP) — [[monoolein]]-based mesophase
-- **Lipid**: [[monoolein]] (Sigma M8410)
+- **Method**: [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) (LCP) — [monoolein](/methods/crystallization/monoolein/)-based mesophase
+- **Lipid**: [monoolein](/methods/crystallization/monoolein/) (Sigma M8410)
 - **Protein-to-lipid ratio**: 1:1.5 (w/w)
-- **Precipitant**: 0.1 M [[tris-buffer]]-HCl pH 8.5, 0.2 M MgCl₂, 18–22% PEG 300
+- **Precipitant**: 0.1 M [tris-buffer](/reagents/buffers/tris-buffer/)-HCl pH 8.5, 0.2 M MgCl₂, 18–22% PEG 300
 - **Temperature**: 20 °C
 - **Crystal growth**: 1–2 weeks
 
@@ -86,15 +86,15 @@ The activation cascade proceeds through interconnected motifs:
 
 ## Biased Signaling
 
-KOP engages both G protein (Gαi1) and β-arrestin2 signaling pathways. [[nanobody]] binding is:
+KOP engages both G protein (Gαi1) and β-arrestin2 signaling pathways. [nanobody](/reagents/antibodies/nanobody/) binding is:
 - Inhibited by Gαi1 (competitive with transducer)
 - Promoted by β-arrestin2 (allosteric enhancement)
 
-[[mp1104]] is a balanced full agonist for both pathways (bias factor ~0.6 toward G protein).
+[mp1104](/reagents/ligands/mp1104/) is a balanced full agonist for both pathways (bias factor ~0.6 toward G protein).
 
 ## Cross-References
 
-- [[a2a-adenosine-receptor]] — Another class A GPCR with nanobody/stabilizer approach (Rag31, PSB1-bRIL)
-- [[p2y12-receptor]] — GPCR with ligand-bound structure showing pocket plasticity
-- [[5ht2b-receptor]] — Serotonin GPCR with [[bril]] fusion and [[lipidic-cubic-phase]] crystallization
-- [[fab-fragments]] — Antibody fragments for GPCR stabilization (alternative to nanobodies)
+- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — Another class A GPCR with nanobody/stabilizer approach (Rag31, PSB1-bRIL)
+- [p2y12-receptor](/proteins/p2y12-receptor/) — GPCR with ligand-bound structure showing pocket plasticity
+- [5ht2b-receptor](/proteins/5ht2b-receptor/) — Serotonin GPCR with [bril](/reagents/protein-tags/bril/) fusion and [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) crystallization
+- [fab-fragments](/reagents/antibodies/fab-fragments/) — Antibody fragments for GPCR stabilization (alternative to nanobodies)

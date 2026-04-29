@@ -64,10 +64,10 @@ BRIL can be fused to either the N-terminus or intracellular loops of GPCRs:
 
 ## Related Stabilization Strategies
 
-- [[t4-lysozyme]] — T4 lysozyme fusion in ICL3 for GPCR crystallization
-- [[nanobody]] — Active-state nanobody for GPCR stabilization
-- [[cholesterol-hydrogen-succinate]] — CHS for membrane protein stabilization
-- [[lmng]] — Mild detergent for GPCR stabilization
+- [t4-lysozyme](/reagents/protein-tags/t4-lysozyme/) — T4 lysozyme fusion in ICL3 for GPCR crystallization
+- [nanobody](/reagents/antibodies/nanobody/) — Active-state nanobody for GPCR stabilization
+- [cholesterol-hydrogen-succinate](/reagents/lipids/cholesterol-hydrogen-succinate/) — CHS for membrane protein stabilization
+- [lmng](/reagents/detergents/lmng/) — Mild detergent for GPCR stabilization
 
 ## References
 

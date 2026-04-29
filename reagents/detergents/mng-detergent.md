@@ -28,7 +28,7 @@ MNG was used in the active-state AT1R structure determination (Wingler et al., 2
 
 ## Proteins Using MNG (from this wiki)
 
-- [[angiotensin-ii-type-1-receptor]] — AT1R active-state structure (PDB: 6DO1); 0.5% MNG solubilization, 0.01% MNG+0.01% CHS wash, 0.01% MNG+0.001% CHS SEC buffer
+- [angiotensin-ii-type-1-receptor](/proteins/angiotensin-ii-type-1-receptor/) — AT1R active-state structure (PDB: 6DO1); 0.5% MNG solubilization, 0.01% MNG+0.01% CHS wash, 0.01% MNG+0.001% CHS SEC buffer
   - **Verification**: Raw paper (10.1016/j.cell.2018.12.006) confirms: "solubilization buffer... 0.5% lauryl maltose neopentyl glycol (MNG), 0.05% cholesterol hemisuccinate (CHS)" and "wash buffer... 0.01% MNG, 0.01% CHS" and "HNM buffer... 0.01% MNG, and 0.001% CHS"
 
 ## Properties
@@ -41,6 +41,6 @@ MNG was used in the active-state AT1R structure determination (Wingler et al., 2
 
 ## Related Detergents
 
-- [[lmng]] — Lauryl Maltose Neopentyl Glycol (longer alkyl chain variant)
-- [[ddm]] — n-Dodecyl-β-D-maltopyranoside (standard mild detergent)
-- [[ng]] — Nonylglucoside (short-chain alkyl glucoside)
+- [lmng](/reagents/detergents/lmng/) — Lauryl Maltose Neopentyl Glycol (longer alkyl chain variant)
+- [ddm](/reagents/detergents/ddm/) — n-Dodecyl-β-D-maltopyranoside (standard mild detergent)
+- [ng](/reagents/detergents/ng/) — Nonylglucoside (short-chain alkyl glucoside)

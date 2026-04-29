@@ -28,16 +28,16 @@ Monoolein is the primary lipid used in Lipidic Cubic Phase (LCP) crystallization
 
 ## Proteins Using Monoolein (from this wiki)
 
-- [[nTMATE2-transporter]] — LCP crystallization with monoolein (NU-CHEK-PREP / Sigma-Aldrich)
+- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — LCP crystallization with monoolein (NU-CHEK-PREP / Sigma-Aldrich)
   - Twin-syringe mixing method for LCP reconstitution
   - Nicotine added before LCP reconstitution
-- [[angiotensin-ii-type-1-receptor]] — LCP crystallization with 10:1 (w:w) monoolein:cholesterol mixture (1.5× excess by mass), Gryphon LCP robot dispensing, Tris/MgCl₂/PEG 300 precipitant, 2.9 Å resolution (PDB: 6DO1)
+- [angiotensin-ii-type-1-receptor](/proteins/angiotensin-ii-type-1-receptor/) — LCP crystallization with 10:1 (w:w) monoolein:cholesterol mixture (1.5× excess by mass), Gryphon LCP robot dispensing, Tris/MgCl₂/PEG 300 precipitant, 2.9 Å resolution (PDB: 6DO1)
 
 ## Related Methods
 
-- [[lipidic-cubic-phase]] — LCP crystallization technique
-- [[vapor-diffusion]] — alternative crystallization method
+- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization technique
+- [vapor-diffusion](/methods/crystallization/vapor-diffusion/) — alternative crystallization method
 
 ## Related Lipids
 
-- [[gdn]] — glyco-diosgenin, used for cryo-EM membrane protein prep
+- [gdn](/reagents/detergents/gdn/) — glyco-diosgenin, used for cryo-EM membrane protein prep

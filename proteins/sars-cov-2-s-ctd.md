@@ -49,19 +49,19 @@ The C-terminal domain (CTD), also called the receptor-binding domain (RBD), is t
 - **Construct**: SARS-CoV-2-CTD residues 319–541 fused to mouse Fc (mFc), accession EPI_ISL_402119
 - **Vector**: pFastbac1 baculovirus transfer vector
 - **Purification**: HiTrap HP 5 mL HisTrap column → Superdex 200 SEC
-- **SEC buffer**: 20 mM [[tris-buffer]]-HCl pH 8.0, 150 mM [[sodium-chloride]]
+- **SEC buffer**: 20 mM [tris-buffer](/reagents/buffers/tris-buffer/)-HCl pH 8.0, 150 mM [sodium-chloride](/reagents/additives/sodium-chloride/)
 - **Alternative**: mFc-fusion proteins also expressed in HEK293T cells via pCAGGS plasmids, purified by rProtein A FF affinity chromatography
 
 ## Crystallization
 
 ### Wang et al. (Cell 2020)
 
-- **Method**: Sitting-drop [[vapor-diffusion]]
+- **Method**: Sitting-drop [vapor-diffusion](/methods/crystallization/vapor-diffusion/)
 - **Complex**: SARS-CoV-2-CTD-mFc + hACE2-His
 - **Drop**: 0.8 µL protein + 0.8 µL reservoir at 18°C
-- **Reservoir**: 0.1 M [[mes-buffer]] pH 6.5, 10% w/v [[peg-5000]] MME, 12% v/v 1-propanol
+- **Reservoir**: 0.1 M [mes-buffer](/reagents/buffers/mes-buffer/) pH 6.5, 10% w/v [peg-5000](/reagents/additives/peg-5000/) MME, 12% v/v 1-propanol
 - **Protein concentration**: 15 mg/mL complex
-- **Cryoprotection**: 20% [[glycerol]] in reservoir
+- **Cryoprotection**: 20% [glycerol](/reagents/additives/glycerol/) in reservoir
 - **Data collection**: SSRF BL17U, 0.97919 Å wavelength
 - **Phasing**: Molecular replacement with Phaser (PDB: 2AJF, SARS-RBD complex)
 - **Refinement**: COOT + Phenix phenix.refine
@@ -91,16 +91,16 @@ The external subdomain of SARS-CoV-2-CTD contains key residues that contact hACE
 
 ## Cross-References
 
-- [[ace2]] — hACE2 receptor binding partner
-- [[peg-5000]] — PEG 5000 MME crystallization precipitant
-- [[mes-buffer]] — MES buffer for crystallization
-- [[glycerol]] — Cryoprotectant
-- [[vapor-diffusion]] — Sitting-drop vapor diffusion
-- [[xray-crystallography]] — X-ray crystallography
-- [[molecular-replacement]] — Phaser MR phasing
-- [[superdex-columns]] — Superdex 200 SEC
-- [[imac]] — HisTrap HP affinity purification
-- [[sf9-cells]] — Sf9 insect cell expression
-- [[tris-buffer]] — Tris-HCl SEC buffer
-- [[sodium-chloride]] — NaCl in SEC buffer
+- [ace2](/proteins/ace2/) — hACE2 receptor binding partner
+- [peg-5000](/reagents/additives/peg-5000/) — PEG 5000 MME crystallization precipitant
+- [mes-buffer](/reagents/buffers/mes-buffer/) — MES buffer for crystallization
+- [glycerol](/reagents/additives/glycerol/) — Cryoprotectant
+- [vapor-diffusion](/methods/crystallization/vapor-diffusion/) — Sitting-drop vapor diffusion
+- [xray-crystallography](/methods/structure-determination/xray-crystallography/) — X-ray crystallography
+- [molecular-replacement](/methods/structure-determination/molecular-replacement/) — Phaser MR phasing
+- [superdex-columns](/methods/purification/superdex-columns/) — Superdex 200 SEC
+- [imac](/methods/purification/imac/) — HisTrap HP affinity purification
+- [sf9-cells](/methods/expression-systems/sf9-cells/) — Sf9 insect cell expression
+- [tris-buffer](/reagents/buffers/tris-buffer/) — Tris-HCl SEC buffer
+- [sodium-chloride](/reagents/additives/sodium-chloride/) — NaCl in SEC buffer
 - [[sars-cov]] — SARS-CoV (structural comparison)

@@ -19,7 +19,7 @@ layout: default
 ## Chemical Properties
 
 - **Class**: P2Y12 receptor antagonist, reversible, inverse agonist
-- **Scaffold**: Non-[[nupg-nucleoside-transporter]], small molecule
+- **Scaffold**: Non-[nupg-nucleoside-transporter](/proteins/nupg-nucleoside-transporter/), small molecule
 - **Affinity**: Kd = 1.5 nM (binding studies); IC50 = 14 nM (platelet aggregation)
 - **Relation**: Highly selective P2Y12 antagonist developed by Idorsia Pharmaceuticals
 
@@ -52,7 +52,7 @@ Selatogrel acts as a potent inverse agonist of the P2Y12 receptor:
 
 ## Related Ligands
 
-- [[ticagrelor]] — Reversible P2Y12 antagonist, inverse agonist
-- [[elinogrel]] — Reversible P2Y12 inverse agonist
-- [[clopidogrel]] — Irreversible P2Y12 antagonist, prodrug
-- [[p2y12-receptor]] — P2Y12 receptor page
+- [ticagrelor](/reagents/ligands/ticagrelor/) — Reversible P2Y12 antagonist, inverse agonist
+- [elinogrel](/reagents/ligands/elinogrel/) — Reversible P2Y12 inverse agonist
+- [clopidogrel](/reagents/ligands/clopidogrel/) — Irreversible P2Y12 antagonist, prodrug
+- [p2y12-receptor](/proteins/p2y12-receptor/) — P2Y12 receptor page

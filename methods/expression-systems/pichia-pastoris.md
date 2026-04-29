@@ -22,13 +22,13 @@ Pichia pastoris is a methylotrophic yeast widely used for heterologous expressio
 
 ## Expression System Details (from this wiki)
 
-- [[nTMATE2-transporter]] — [[nTMATE2-transporter]] expressed in P. pastoris
+- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — [nTMATE2-transporter](/proteins/nTMATE2-transporter/) expressed in P. pastoris
   - **Strain**: SMD1168 (Invitrogen)
   - **Plasmid**: pPIC9K-based (hygromycin resistance)
   - **Selection**: G418 (neomycin) at 50, 100, 200 μg/mL on YPD plates
   - **Induction**: BMMY medium with 0.5% methanol every 24 hours
   - **Culture**: 20°C for 72 hours
-  - **Harvest**: Cells in 300 mM NaCl, 20 mM Tris-HCl pH 8.0, 10% [[glycerol]]
+  - **Harvest**: Cells in 300 mM NaCl, 20 mM Tris-HCl pH 8.0, 10% [glycerol](/reagents/additives/glycerol/)
   - **Lysis**: Microfluidizer at 22,000 p.s.i. (5 passes)
 
 ## Advantages for Membrane Proteins
@@ -40,4 +40,4 @@ Pichia pastoris is a methylotrophic yeast widely used for heterologous expressio
 
 ## Related Expression Systems
 
-- [[hek293-cells]] — mammalian HEK293 cells for functional assays
+- [hek293-cells](/methods/expression-systems/hek293-cells/) — mammalian HEK293 cells for functional assays

@@ -76,12 +76,12 @@ Both bucindolol and carvedilol are classified as **biased agonists**:
 
 ## Related Receptors
 
-- [[a2a-adenosine-receptor]] — Class A GPCR with extensive structural biology
-- [[5ht2b-receptor]] — Serotonin GPCR with BRIL fusion
-- [[etb-receptor]] — Endothelin ETB Receptor
-- [[kappa-opioid-receptor]] — Opioid GPCR with nanobody stabilization
-- [[opsin-gpcr]] — Rhodopsin (dark state)
-- [[p2y12-receptor]] — P2Y12 Receptor with BRIL fusion
+- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — Class A GPCR with extensive structural biology
+- [5ht2b-receptor](/proteins/5ht2b-receptor/) — Serotonin GPCR with BRIL fusion
+- [etb-receptor](/proteins/etb-receptor/) — Endothelin ETB Receptor
+- [kappa-opioid-receptor](/proteins/kappa-opioid-receptor/) — Opioid GPCR with nanobody stabilization
+- [opsin-gpcr](/proteins/opsin-gpcr/) — Rhodopsin (dark state)
+- [p2y12-receptor](/proteins/p2y12-receptor/) — P2Y12 Receptor with BRIL fusion
 
 ## References
 

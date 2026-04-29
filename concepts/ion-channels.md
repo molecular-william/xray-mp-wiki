@@ -61,6 +61,6 @@ Bacterial channels serve as structural models for eukaryotic counterparts:
 
 ## Related Proteins
 
-- [[navab-sodium-channel]] — Bacterial voltage-gated sodium channel
-- [[kirbac]] — Prokaryotic inwardly rectifying K⁺ channel
-- [[adenine-nucleotide-transporter]] — Mitochondrial carrier (different class of membrane transporter)
+- [navab-sodium-channel](/proteins/navab-sodium-channel/) — Bacterial voltage-gated sodium channel
+- [kirbac](/proteins/kirbac/) — Prokaryotic inwardly rectifying K⁺ channel
+- [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) — Mitochondrial carrier (different class of membrane transporter)
