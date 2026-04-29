@@ -85,8 +85,8 @@ IMAC (Immobilized Metal Affinity Chromatography) is a type of affinity chromatog
 
 ## Related Methods
 
-- [affinity-chromatography](/methods/purification/affinity-chromatography/) — Broad category of purification methods using specific binding interactions
-- [talon-resin](/methods/purification/talon-resin/) — TALON cobalt affinity resin (Co2+ IMAC variant)
-- [superdex-columns](/methods/purification/superdex-columns/) — SEC for final polishing after IMAC
-- [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography/) — Alternative/complementary purification method
-- [imidazole](/reagents/additives/imidazole/) — Common elution agent for IMAC
+- [affinity-chromatography](//xray-mp-wiki/methods/purification/affinity-chromatography/) — Broad category of purification methods using specific binding interactions
+- [talon-resin](//xray-mp-wiki/methods/purification/talon-resin/) — TALON cobalt affinity resin (Co2+ IMAC variant)
+- [superdex-columns](//xray-mp-wiki/methods/purification/superdex-columns/) — SEC for final polishing after IMAC
+- [size-exclusion-chromatography](//xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Alternative/complementary purification method
+- [imidazole](//xray-mp-wiki/reagents/additives/imidazole/) — Common elution agent for IMAC

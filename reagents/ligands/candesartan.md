@@ -20,7 +20,7 @@ layout: default
 ## Chemical Properties
 
 - **Class**: Angiotensin receptor blocker (ARB), non-peptide antagonist
-- **Scaffold**: Biphenyl-tetrazole with benz[imidazole](/reagents/additives/imidazole/) carboxylic acid moiety
+- **Scaffold**: Biphenyl-tetrazole with benz[imidazole](//xray-mp-wiki/reagents/additives/imidazole/) carboxylic acid moiety
 - **Relation**: ZD7155 is a precursor to candesartan
 - **Pharmacology**: Insurmountable inverse agonist with slow dissociation rate
 
@@ -35,7 +35,7 @@ Candesartan binds to the ligand-binding pocket of the human angiotensin II type 
 
 ## Clinical Properties
 
-- **Insurmountable inverse agonist**: Cannot be overcome by high AngII [amicon-filters](/methods/purification/amicon-filters/)s
+- **Insurmountable inverse agonist**: Cannot be overcome by high AngII [amicon-filters](//xray-mp-wiki/methods/purification/amicon-filters/)s
 - **Slow dissociation rate**: Long receptor occupancy contributes to sustained blood pressure control
 - **Once-daily dosing**: Long half-life allows once-daily administration
 - **Cardiovascular protection**: Proven benefits in heart failure, post-MI, and diabetic nephropathy
@@ -52,7 +52,7 @@ Candesartan binds to the ligand-binding pocket of the human angiotensin II type 
 
 ## Related Ligands
 
-- [zd7155](/reagents/ligands/zd7155/) — High-affinity antagonist, precursor to candesartan
-- [losartan](/reagents/ligands/losartan/) — First ARB, surmountable antagonist
-- [valsartan](/reagents/ligands/valsartan/) — Clinically used ARB
-- [irbesartan](/reagents/ligands/irbesartan/) — Clinically used ARB
+- [zd7155](//xray-mp-wiki/reagents/ligands/zd7155/) — High-affinity antagonist, precursor to candesartan
+- [losartan](//xray-mp-wiki/reagents/ligands/losartan/) — First ARB, surmountable antagonist
+- [valsartan](//xray-mp-wiki/reagents/ligands/valsartan/) — Clinically used ARB
+- [irbesartan](//xray-mp-wiki/reagents/ligands/irbesartan/) — Clinically used ARB

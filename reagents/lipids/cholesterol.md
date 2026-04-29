@@ -30,7 +30,7 @@ Cholesterol is a sterol lipid used as an additive in protein crystallization, pa
 
 ## Cross-References
 
-- [dap12](/proteins/dap12/) — DAP12-TM trimer crystallized with cholesterol
-- [monoolein](/methods/crystallization/monoolein/) — LCP lipid matrix
-- [cholesterol-hydrogen-succinate](/reagents/lipids/cholesterol-hydrogen-succinate/) — CHS, cholesterol derivative for membrane proteins
-- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization method
+- [dap12](//xray-mp-wiki/proteins/dap12/) — DAP12-TM trimer crystallized with cholesterol
+- [monoolein](//xray-mp-wiki/methods/crystallization/monoolein/) — LCP lipid matrix
+- [cholesterol-hydrogen-succinate](//xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/) — CHS, cholesterol derivative for membrane proteins
+- [lipidic-cubic-phase](//xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization method

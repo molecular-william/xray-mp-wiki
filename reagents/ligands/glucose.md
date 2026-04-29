@@ -29,4 +29,4 @@ A simple hexose sugar (C6H12O6) that serves as a primary substrate for the SWEET
 
 ## Cross-References
 
-- [lb-semisweet](/proteins/lb-semisweet/) — Primary protein where glucose was characterized as substrate
+- [lb-semisweet](//xray-mp-wiki/proteins/lb-semisweet/) — Primary protein where glucose was characterized as substrate

@@ -79,7 +79,7 @@ CSTVSPGVLAGIVVGDLVLTVLIALAVYFLGRL
 
 ### Knoblich et al. (Cell Reports 2015)
 
-- **Method**: [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) (LCP) in monoolein
+- **Method**: [lipidic-cubic-phase](//xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (LCP) in monoolein
 - **Reconstitution**: Co-dissolution in hexafluoroisopropanol (HFIP), solvent removal under vacuum, mixing with monoolein
 - **SAXS**: Confirmed gyroid cubic, diamond cubic, and fluid lamellar phases
 
@@ -104,10 +104,10 @@ CSTVSPGVLAGIVVGDLVLTVLIALAVYFLGRL
 
 ## Cross-References
 
-- [monoolein](/methods/crystallization/monoolein/) — Lipid matrix for LCP crystallization
-- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization method
-- [molecular-replacement](/methods/structure-determination/molecular-replacement/) — Phaser MR (PDB: 1AFO, Glycophorin A)
-- [sodium-chloride](/reagents/additives/sodium-chloride/) — Common buffer salt
-- [peg-3350](/reagents/additives/peg-3350/) — PEG 3350 crystallization precipitant (used in both crystal forms)
-- [cholesterol-lipid](/reagents/lipids/cholesterol-lipid/) — Cholesterol in trimer crystallization
+- [monoolein](//xray-mp-wiki/methods/crystallization/monoolein/) — Lipid matrix for LCP crystallization
+- [lipidic-cubic-phase](//xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization method
+- [molecular-replacement](//xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Phaser MR (PDB: 1AFO, Glycophorin A)
+- [sodium-chloride](//xray-mp-wiki/reagents/additives/sodium-chloride/) — Common buffer salt
+- [peg-3350](//xray-mp-wiki/reagents/additives/peg-3350/) — PEG 3350 crystallization precipitant (used in both crystal forms)
+- [cholesterol-lipid](//xray-mp-wiki/reagents/lipids/cholesterol-lipid/) — Cholesterol in trimer crystallization
 - glycophorin-a — Glycophorin A (PDB: 1AFO, reference TM dimer)

@@ -31,7 +31,7 @@ OGNG (octyl glucose neopentyl glycol) is a non-ionic neopentyl glycol detergent 
 
 ## Proteins Using OGNG (from this wiki)
 
-- [opsin-gpcr](/proteins/opsin-gpcr/) — Tested in detergent reconstitution inhibition assays alongside LMNG; showed minimal effect on rhodopsin reconstitution, consistent with its bulky structure preventing entry into the retinal-binding pocket
+- [opsin-gpcr](//xray-mp-wiki/proteins/opsin-gpcr/) — Tested in detergent reconstitution inhibition assays alongside LMNG; showed minimal effect on rhodopsin reconstitution, consistent with its bulky structure preventing entry into the retinal-binding pocket
 
 ## Comparison with Related Neopentyl Glycol Detergents
 
@@ -42,7 +42,7 @@ OGNG (octyl glucose neopentyl glycol) is a non-ionic neopentyl glycol detergent 
 
 ## Related Detergents
 
-- [lmng](/reagents/detergents/lmng/) — lauryl maltose neopentyl glycol (12C); ultra-mild GPCR detergent
-- [og](/reagents/detergents/og/) — n-octyl β-D-glucopyranoside; mild alkyl glucoside (single head group)
-- [ng](/reagents/detergents/ng/) — nonylglucoside; mild alkyl glucoside (C9)
-- [ddm](/reagents/detergents/ddm/) — n-dodecyl-β-D-maltoside; standard maltoside detergent
+- [lmng](//xray-mp-wiki/reagents/detergents/lmng/) — lauryl maltose neopentyl glycol (12C); ultra-mild GPCR detergent
+- [og](//xray-mp-wiki/reagents/detergents/og/) — n-octyl β-D-glucopyranoside; mild alkyl glucoside (single head group)
+- [ng](//xray-mp-wiki/reagents/detergents/ng/) — nonylglucoside; mild alkyl glucoside (C9)
+- [ddm](//xray-mp-wiki/reagents/detergents/ddm/) — n-dodecyl-β-D-maltoside; standard maltoside detergent

@@ -22,7 +22,7 @@ The mitochondrial ADP/ATP carrier (AAC, also known as SLC25A4-6 in humans) is th
 
 ### Thermothelomyces thermophila TtAac (Cell 2018)
 
-- **Matrix-open state (m-state)**: 3.3 Å resolution, BKA-inhibited, [nanobody](/reagents/antibodies/nanobody/)-stabilized
+- **Matrix-open state (m-state)**: 3.3 Å resolution, BKA-inhibited, [nanobody](//xray-mp-wiki/reagents/antibodies/nanobody/)-stabilized
 - **Space group**: Not specified (crystals composed of alternating carrier and nanobody layers)
 - **Stability mutation**: Q302K in the cytoplasmic network (increases thermal stability)
 - **Sequence identity**: 75% to *S. cerevisiae* ScAac2/ScAac3; 51% to bovine Aac1p
@@ -74,7 +74,7 @@ The mitochondrial ADP/ATP carrier (AAC, also known as SLC25A4-6 in humans) is th
 
 ## Cardiolipin-Mediated Dimerization (Bovine AAC)
 
-The bovine AAC crystal structure (PDB: 2C3E) reveals a biologically relevant dimerization interface mediated by endogenous **[cardiolipin](/reagents/lipids/cardiolipin/)** molecules:
+The bovine AAC crystal structure (PDB: 2C3E) reveals a biologically relevant dimerization interface mediated by endogenous **[cardiolipin](//xray-mp-wiki/reagents/lipids/cardiolipin/)** molecules:
 
 - **3 cardiolipins per AAC monomer** tightly bound to the protein
 - Two cardiolipins (CDL801 and CDL802) are sandwiched between monomers on the matrix side
@@ -95,31 +95,31 @@ The substrate-binding site (K30, R88, G192, I193, Y196, S238, R287) acts as a fu
 
 ## Solubilization and Purification
 
-- **[lapao](/reagents/detergents/lapao/)** (3-laurylamido-N,N'-dimethylpropylaminoxyde, 2% w/v) — primary solubilization detergent from bovine heart mitochondria
-- **Hydroxylapatite (HTP) [affinity-chromatography](/methods/purification/affinity-chromatography/)** — initial purification step
-- **Gel filtration** — buffer containing 0 or 5 mM [sodium-chloride](/reagents/additives/sodium-chloride/) (salt concentration determines crystal form)
+- **[lapao](//xray-mp-wiki/reagents/detergents/lapao/)** (3-laurylamido-N,N'-dimethylpropylaminoxyde, 2% w/v) — primary solubilization detergent from bovine heart mitochondria
+- **Hydroxylapatite (HTP) [affinity-chromatography](//xray-mp-wiki/methods/purification/affinity-chromatography/)** — initial purification step
+- **Gel filtration** — buffer containing 0 or 5 mM [sodium-chloride](//xray-mp-wiki/reagents/additives/sodium-chloride/) (salt concentration determines crystal form)
 - **Bio-Beads** — detergent-to-protein ratio reduction
-- **[amicon-filters](/methods/purification/amicon-filters/)** — concentration to ~5 mg/mL
+- **[amicon-filters](//xray-mp-wiki/methods/purification/amicon-filters/)** — concentration to ~5 mg/mL
 
 ## Crystallization
 
-- **Method**: [vapor-diffusion](/methods/crystallization/vapor-diffusion/) (hanging drop)
-- **Precipitant**: 28–32% [jeffamine](/reagents/additives/jeffamine/) M600 (Hampton Research)
-- **Additives**: 10–20 mM NiSO₄ (or 5 mM [sodium-citrate](/reagents/additives/sodium-citrate/) + 50 mM Na arseniate)
-- **Buffer**: 100 mM [hepes-buffer](/reagents/buffers/hepes-buffer/) pH 7.0 (or 100 mM [tris-buffer](/reagents/buffers/tris-buffer/) pH 8.5)
+- **Method**: [vapor-diffusion](//xray-mp-wiki/methods/crystallization/vapor-diffusion/) (hanging drop)
+- **Precipitant**: 28–32% [jeffamine](//xray-mp-wiki/reagents/additives/jeffamine/) M600 (Hampton Research)
+- **Additives**: 10–20 mM NiSO₄ (or 5 mM [sodium-citrate](//xray-mp-wiki/reagents/additives/sodium-citrate/) + 50 mM Na arseniate)
+- **Buffer**: 100 mM [hepes-buffer](//xray-mp-wiki/reagents/buffers/hepes-buffer/) pH 7.0 (or 100 mM [tris-buffer](//xray-mp-wiki/reagents/buffers/tris-buffer/) pH 8.5)
 - **Temperature**: 20 °C
 - **Crystal morphology**: Plate-shaped, 100 × 20 × 5 μm³
 
 ## Cross-References
 
-- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — Another transporter with multiple conformational states; [alternating-access](/concepts/alternating-access/) mechanism
-- [lb-semisweet](/proteins/lb-semisweet/) — Another alternating access transporter; conformational states captured
-- [cardiolipin](/reagents/lipids/cardiolipin/) — Lipid that binds to AAC; stabilizes the carrier and mediates dimerization
-- [bongkrekic-acid](/reagents/ligands/bongkrekic-acid/) — Inhibitor that locks the m-state
-- [carboxyatractyloside](/reagents/ligands/carboxyatractyloside/) — Inhibitor that locks the c-state
+- [nTMATE2-transporter](//xray-mp-wiki/proteins/nTMATE2-transporter/) — Another transporter with multiple conformational states; [alternating-access](//xray-mp-wiki/concepts/alternating-access/) mechanism
+- [lb-semisweet](//xray-mp-wiki/proteins/lb-semisweet/) — Another alternating access transporter; conformational states captured
+- [cardiolipin](//xray-mp-wiki/reagents/lipids/cardiolipin/) — Lipid that binds to AAC; stabilizes the carrier and mediates dimerization
+- [bongkrekic-acid](//xray-mp-wiki/reagents/ligands/bongkrekic-acid/) — Inhibitor that locks the m-state
+- [carboxyatractyloside](//xray-mp-wiki/reagents/ligands/carboxyatractyloside/) — Inhibitor that locks the c-state
 
 ## Related Transporters
 
-- [sotb](/proteins/sotb/) — E. coli antiporter (MFS family); nonlinear alternating access mechanism
-- [nupg-nucleoside-transporter](/proteins/nupg-nucleoside-transporter/) — MFS nucleoside transporter; alternating access
-- [mfs-transporter](/concepts/mfs-transporter/) — Major facilitator superfamily
+- [sotb](//xray-mp-wiki/proteins/sotb/) — E. coli antiporter (MFS family); nonlinear alternating access mechanism
+- [nupg-nucleoside-transporter](//xray-mp-wiki/proteins/nupg-nucleoside-transporter/) — MFS nucleoside transporter; alternating access
+- [mfs-transporter](//xray-mp-wiki/concepts/mfs-transporter/) — Major facilitator superfamily

@@ -33,9 +33,9 @@ Bis-Tris propane chloride (also known as BTP or Tromethamine derivative) is a Go
 
 ## Cross-References
 
-- [hepes-buffer](/reagents/buffers/hepes-buffer/) — Alternative near-neutral buffer
-- [mes-buffer](/reagents/buffers/mes-buffer/) — Acidic pH buffer
-- [tris-buffer](/reagents/buffers/tris-buffer/) — Basic pH buffer
-- [sodium-phosphate](/reagents/buffers/sodium-phosphate/) — Phosphate buffer
-- [peg-3350](/reagents/additives/peg-3350/) — PEG 3350 precipitant
-- [dap12](/proteins/dap12/) — DAP12-TM tetramer crystallized with BTP
+- [hepes-buffer](//xray-mp-wiki/reagents/buffers/hepes-buffer/) — Alternative near-neutral buffer
+- [mes-buffer](//xray-mp-wiki/reagents/buffers/mes-buffer/) — Acidic pH buffer
+- [tris-buffer](//xray-mp-wiki/reagents/buffers/tris-buffer/) — Basic pH buffer
+- [sodium-phosphate](//xray-mp-wiki/reagents/buffers/sodium-phosphate/) — Phosphate buffer
+- [peg-3350](//xray-mp-wiki/reagents/additives/peg-3350/) — PEG 3350 precipitant
+- [dap12](//xray-mp-wiki/proteins/dap12/) — DAP12-TM tetramer crystallized with BTP

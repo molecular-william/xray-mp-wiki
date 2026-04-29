@@ -8,22 +8,22 @@ A wiki documenting reagents and methods for X-ray crystallography of membrane pr
 - **reagents/** - Detergents, lipids, buffers, additives, ligands, antibodies, protein tags
 - **methods/** - Protocols and techniques
 - **concepts/** - General topics
-- **_categories/** - Category index pages for GitHub Pages
+- **categories/** - Category index pages for GitHub Pages
 
 ## Quick Navigation
 
-- [Wiki Index](/index)
-- [Proteins](/categories/proteins)
-- [Reagents](/categories/reagents)
-- [Methods](/categories/methods)
-- [Concepts](/concepts)
-- [Search](/search)
-- [Random Page](/random)
-- [Wiki Health](/health)
+- [Wiki Index](//xray-mp-wiki/index)
+- [Proteins](//xray-mp-wiki/categories/proteins)
+- [Reagents](//xray-mp-wiki/categories/reagents)
+- [Methods](//xray-mp-wiki/categories/methods)
+- [Concepts](//xray-mp-wiki/concepts)
+- [Search](//xray-mp-wiki/search)
+- [Random Page](//xray-mp-wiki/random)
+- [Wiki Health](//xray-mp-wiki/health)
 
 ## Contributing
 
-See [SCHEMA.md](/wiki/SCHEMA.md) for conventions.
+See [SCHEMA.md](//xray-mp-wiki/SCHEMA/SCHEMA.md) for conventions.
 
 ## License
 

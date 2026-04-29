@@ -20,12 +20,12 @@ Coomassie Brilliant Blue staining is the standard method for visualizing protein
 
 ## Proteins Using Coomassie (from this wiki)
 
-- [psi-lhci-supercomplex](/proteins/psi-lhci-supercomplex/) — Coomassie-stained SDS gel used for proteomics analysis
+- [psi-lhci-supercomplex](//xray-mp-wiki/proteins/psi-lhci-supercomplex/) — Coomassie-stained SDS gel used for proteomics analysis
   - Bands excised with scalpel and analyzed by mass spectrometry
-  - Identified proteins: [psi-lhci-supercomplex](/proteins/psi-lhci-supercomplex/) subunits (PsaA-L, Lhca1-8) plus contaminants (PetO from cytochrome b6f complex)
+  - Identified proteins: [psi-lhci-supercomplex](//xray-mp-wiki/proteins/psi-lhci-supercomplex/) subunits (PsaA-L, Lhca1-8) plus contaminants (PetO from cytochrome b6f complex)
   - Detected PGR5 (10 kDa) from two independent peptides
 
 ## Related Quality Assessment
 
-- [hek293-cells](/methods/expression-systems/hek293-cells/) — TRUPATH assay for functional validation
-- [superdex-columns](/methods/purification/superdex-columns/) — SEC profile for monodispersity assessment
+- [hek293-cells](//xray-mp-wiki/methods/expression-systems/hek293-cells/) — TRUPATH assay for functional validation
+- [superdex-columns](//xray-mp-wiki/methods/purification/superdex-columns/) — SEC profile for monodispersity assessment

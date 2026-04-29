@@ -22,8 +22,8 @@ The 5-HT2B receptor is a serotonin GPCR that mediates the effects of LSD and oth
 
 - **PDB ID**: 5TVN
 - **Resolution**: 2.9 Å (29.2–2.9 Å range)
-- **Method**: [xray-crystallography](/methods/structure-determination/xray-crystallography/), [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) (LCP)
-- **Construct**: 5-HT2B-ΔN/ΔICL3_BRIL/ΔC (N-terminal truncation, [bril](/reagents/protein-tags/bril/) fusion in ICL3, C-terminal truncation)
+- **Method**: [xray-crystallography](//xray-mp-wiki/methods/structure-determination/xray-crystallography/), [lipidic-cubic-phase](//xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (LCP)
+- **Construct**: 5-HT2B-ΔN/ΔICL3_BRIL/ΔC (N-terminal truncation, [bril](//xray-mp-wiki/reagents/protein-tags/bril/) fusion in ICL3, C-terminal truncation)
 - **Ligand**: LSD (lysergic acid diethylamide)
 - **Space group**: C222₁
 - **Data collection**: APS GMCA/CAT 23ID-B/D, 10-μm microfocus beam
@@ -32,20 +32,20 @@ The 5-HT2B receptor is a serotonin GPCR that mediates the effects of LSD and oth
 
 ## Expression and Purification
 
-- **Expression system**: [hek293-cells](/methods/expression-systems/hek293-cells/) (mammalian, transient transfection)
+- **Expression system**: [hek293-cells](//xray-mp-wiki/methods/expression-systems/hek293-cells/) (mammalian, transient transfection)
 - **Construct design**:
   - N-terminal truncation (ΔN)
-  - [bril](/reagents/protein-tags/bril/) (thermostabilized apocytochrome b562RIL) fused into ICL3
+  - [bril](//xray-mp-wiki/reagents/protein-tags/bril/) (thermostabilized apocytochrome b562RIL) fused into ICL3
   - C-terminal truncation (ΔC)
-- **Detergent**: [mng-detergent](/reagents/detergents/mng-detergent/) for solubilization and purification
-- **Purification**: [affinity-chromatography](/methods/purification/affinity-chromatography/) (His-tag on [bril](/reagents/protein-tags/bril/)), followed by [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography/)
+- **Detergent**: [mng-detergent](//xray-mp-wiki/reagents/detergents/mng-detergent/) for solubilization and purification
+- **Purification**: [affinity-chromatography](//xray-mp-wiki/methods/purification/affinity-chromatography/) (His-tag on [bril](//xray-mp-wiki/reagents/protein-tags/bril/)), followed by [size-exclusion-chromatography](//xray-mp-wiki/methods/purification/size-exclusion-chromatography/)
 
 ## Crystallization
 
-- **Method**: [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) — [monoolein](/methods/crystallization/monoolein/)-based mesophase
-- **Lipid**: [monoolein](/methods/crystallization/monoolein/) (Sigma M8410)
+- **Method**: [lipidic-cubic-phase](//xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — [monoolein](//xray-mp-wiki/methods/crystallization/monoolein/)-based mesophase
+- **Lipid**: [monoolein](//xray-mp-wiki/methods/crystallization/monoolein/) (Sigma M8410)
 - **Protein-to-lipid ratio**: 1:2 (w/w)
-- **Precipitant**: 0.2 M MgCl₂, 0.1 M [hepes-buffer](/reagents/buffers/hepes-buffer/) pH 7.0, 20–24% [peg-400](/reagents/additives/peg-400/)
+- **Precipitant**: 0.2 M MgCl₂, 0.1 M [hepes-buffer](//xray-mp-wiki/reagents/buffers/hepes-buffer/) pH 7.0, 20–24% [peg-400](//xray-mp-wiki/reagents/additives/peg-400/)
 - **Temperature**: 20 °C
 - **Crystal growth**: 1–2 weeks
 
@@ -67,7 +67,7 @@ The 5-HT2B receptor is a serotonin GPCR that mediates the effects of LSD and oth
 
 |## Related Serotonin Receptors
 |
-|- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — GPCR with extensive structural biology
-|- [opsin-gpcr](/proteins/opsin-gpcr/) — Class A GPCR structural template
-|- [etb-receptor](/proteins/etb-receptor/) — Endothelin GPCR with [bril](/reagents/protein-tags/bril/) fusion
-|- [kappa-opioid-receptor](/proteins/kappa-opioid-receptor/) — Opioid GPCR with nanobody
+|- [a2a-adenosine-receptor](//xray-mp-wiki/proteins/a2a-adenosine-receptor/) — GPCR with extensive structural biology
+|- [opsin-gpcr](//xray-mp-wiki/proteins/opsin-gpcr/) — Class A GPCR structural template
+|- [etb-receptor](//xray-mp-wiki/proteins/etb-receptor/) — Endothelin GPCR with [bril](//xray-mp-wiki/reagents/protein-tags/bril/) fusion
+|- [kappa-opioid-receptor](//xray-mp-wiki/proteins/kappa-opioid-receptor/) — Opioid GPCR with nanobody

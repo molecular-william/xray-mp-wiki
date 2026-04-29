@@ -47,12 +47,12 @@ Lithium sulfate (Li2SO4) is a salt used as a crystallization precipitant in prot
 
 ## Known Usage in This Wiki
 
-- [psi-lhci-supercomplex](/proteins/psi-lhci-supercomplex/) — Li2SO4 used as crystallization precipitant
-- [bovine-rhodopsin](/proteins/bovine-rhodopsin/) — 1.2–1.7 M Li2SO4 in Hepes pH 7.5 + 0.05% LDAO; crystallization of recombinant N2C/D282C mutant (first recombinant GPCR)
+- [psi-lhci-supercomplex](//xray-mp-wiki/proteins/psi-lhci-supercomplex/) — Li2SO4 used as crystallization precipitant
+- [bovine-rhodopsin](//xray-mp-wiki/proteins/bovine-rhodopsin/) — 1.2–1.7 M Li2SO4 in Hepes pH 7.5 + 0.05% LDAO; crystallization of recombinant N2C/D282C mutant (first recombinant GPCR)
 
 ## Related Salts
 
-- [sodium-chloride](/reagents/additives/sodium-chloride/) — NaCl; most common buffer salt
+- [sodium-chloride](//xray-mp-wiki/reagents/additives/sodium-chloride/) — NaCl; most common buffer salt
 - Lithium sulfate — Kosmotropic precipitant for protein crystallization
-- [peg-4000](/reagents/additives/peg-4000/) — PEG 4000; polymer precipitant
-- [peg-6000](/reagents/additives/peg-6000/) — PEG 6000; polymer precipitant
+- [peg-4000](//xray-mp-wiki/reagents/additives/peg-4000/) — PEG 4000; polymer precipitant
+- [peg-6000](//xray-mp-wiki/reagents/additives/peg-6000/) — PEG 6000; polymer precipitant

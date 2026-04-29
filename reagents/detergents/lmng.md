@@ -26,13 +26,13 @@ LMNG is a milder detergent than standard maltosides, with lower CMC and better s
 
 ## Proteins Using LMNG (from this wiki)
 
-- [etb-receptor](/proteins/etb-receptor/) — 0.1% LMNG in TALON wash buffer; 0.01% LMNG in elution and SEC buffers (combined with 0.001% CHS)
+- [etb-receptor](//xray-mp-wiki/proteins/etb-receptor/) — 0.1% LMNG in TALON wash buffer; 0.01% LMNG in elution and SEC buffers (combined with 0.001% CHS)
 
-- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — 0.03% in purification and SEC buffer, combined with 0.003% CHS
-  - Replaces DDM after [affinity-chromatography](/methods/purification/affinity-chromatography/) capture for improved stability during size-exclusion chromatography
+- [nTMATE2-transporter](//xray-mp-wiki/proteins/nTMATE2-transporter/) — 0.03% in purification and SEC buffer, combined with 0.003% CHS
+  - Replaces DDM after [affinity-chromatography](//xray-mp-wiki/methods/purification/affinity-chromatography/) capture for improved stability during size-exclusion chromatography
 
 ## Related Detergents
 
-- [ddm](/reagents/detergents/ddm/) — standard non-ionic maltoside, used for initial solubilization
-- [og](/reagents/detergents/og/) — shorter chain alkyl glucoside
-- [ogng](/reagents/detergents/ogng/) — octyl [glucose](/reagents/ligands/glucose/) neopentyl glycol; octyl-chain analogue of LMNG
+- [ddm](//xray-mp-wiki/reagents/detergents/ddm/) — standard non-ionic maltoside, used for initial solubilization
+- [og](//xray-mp-wiki/reagents/detergents/og/) — shorter chain alkyl glucoside
+- [ogng](//xray-mp-wiki/reagents/detergents/ogng/) — octyl [glucose](//xray-mp-wiki/reagents/ligands/glucose/) neopentyl glycol; octyl-chain analogue of LMNG

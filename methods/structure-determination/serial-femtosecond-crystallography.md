@@ -31,8 +31,8 @@ Serial femtosecond crystallography (SFX) is a method for determining macromolecu
 
 ## LCP-SFX Method
 
-For membrane proteins, the **LCP-SFX** (lipidic cubic phase [serial-femtosecond-crystallography](/methods/structure-determination/serial-femtosecond-crystallography/)) method was developed:
-- Microcrystals are grown and suspended in LCP ([monoolein](/methods/crystallization/monoolein/)-based mesophase)
+For membrane proteins, the **LCP-SFX** (lipidic cubic phase [serial-femtosecond-crystallography](//xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/)) method was developed:
+- Microcrystals are grown and suspended in LCP ([monoolein](//xray-mp-wiki/methods/crystallization/monoolein/)-based mesophase)
 - LCP containing microcrystals is injected into the XFEL beam via a specialized injector
 - The LCP serves as both the crystallization matrix and the delivery medium
 - This method has been particularly successful for GPCR structure determination
@@ -77,6 +77,6 @@ For membrane proteins, the **LCP-SFX** (lipidic cubic phase [serial-femtosecond-
 
 ## Related Methods
 
-- [xray-crystallography](/methods/structure-determination/xray-crystallography/) — X-ray crystallography overview
-- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization method
-- [cryoem](/methods/structure-determination/cryoem/) — Cryo-EM alternative for challenging targets
+- [xray-crystallography](//xray-mp-wiki/methods/structure-determination/xray-crystallography/) — X-ray crystallography overview
+- [lipidic-cubic-phase](//xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization method
+- [cryoem](//xray-mp-wiki/methods/structure-determination/cryoem/) — Cryo-EM alternative for challenging targets

@@ -131,14 +131,14 @@ The structure supports a mechanism where:
 
 ## Related GPCRs
 
-- [opsin-gpcr](/proteins/opsin-gpcr/) — Opsin (retinal-free) structure; active state with OG in binding pocket
-- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — Class A GPCR with extensive structural biology
-- [5ht2b-receptor](/proteins/5ht2b-receptor/) — Serotonin GPCR with BRIL fusion
+- [opsin-gpcr](//xray-mp-wiki/proteins/opsin-gpcr/) — Opsin (retinal-free) structure; active state with OG in binding pocket
+- [a2a-adenosine-receptor](//xray-mp-wiki/proteins/a2a-adenosine-receptor/) — Class A GPCR with extensive structural biology
+- [5ht2b-receptor](//xray-mp-wiki/proteins/5ht2b-receptor/) — Serotonin GPCR with BRIL fusion
 
 ## Cross-References
 
-- [lDAO](/reagents/detergents/lDAO/) — Detergent (0.05%) essential for crystal quality
-- [og](/reagents/detergents/og/) — Related alkylglucoside detergent
-- [xray-crystallography](/methods/structure-determination/xray-crystallography/) — Structure determination method
-- [molecular-replacement](/methods/structure-determination/molecular-replacement/) — Phasing method used
-- [vapor-diffusion](/methods/crystallization/vapor-diffusion/) — Common crystallization method for GPCRs
+- [lDAO](//xray-mp-wiki/reagents/detergents/lDAO/) — Detergent (0.05%) essential for crystal quality
+- [og](//xray-mp-wiki/reagents/detergents/og/) — Related alkylglucoside detergent
+- [xray-crystallography](//xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Structure determination method
+- [molecular-replacement](//xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Phasing method used
+- [vapor-diffusion](//xray-mp-wiki/methods/crystallization/vapor-diffusion/) — Common crystallization method for GPCRs

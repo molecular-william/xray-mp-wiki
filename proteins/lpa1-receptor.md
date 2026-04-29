@@ -28,23 +28,23 @@ LPA1 (lysophosphatidic acid receptor 1) is a GPCR that binds lysophosphatidic ac
 
 ## Expression and Purification
 
-- **Expression system**: [hek293-cells](/methods/expression-systems/hek293-cells/) (mammalian, stable expression)
+- **Expression system**: [hek293-cells](//xray-mp-wiki/methods/expression-systems/hek293-cells/) (mammalian, stable expression)
 - **Construct design**:
-  - LPA1-bRIL: b562RIL (thermostabilized [bril](/reagents/protein-tags/bril/)) inserted into ICL3 at positions 5.66 (R233) and 6.24 (R247); 38-residue C-terminal truncation
-  - dsLPA1-mbRIL: Additional engineered disulfide bond (D204A/V282A → Cys-Cys) between TMV and TMVI; modified [bril](/reagents/protein-tags/bril/) (mbRIL) with disordered loop replaced by short linker
-- **Detergent**: [ddm](/reagents/detergents/ddm/) (n-dodecyl-β-D-maltopyranoside) for membrane solubilization
-- **Purification**: [affinity-chromatography](/methods/purification/affinity-chromatography/) (His-tag on [bril](/reagents/protein-tags/bril/)), followed by [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography/) (Superose 6)
-- **SEC buffer**: 20 mM [hepes-buffer](/reagents/buffers/hepes-buffer/) pH 7.5, 150 mM [sodium-chloride](/reagents/additives/sodium-chloride/), 0.05% [ddm](/reagents/detergents/ddm/), 10 μM [cholesterol-hydrogen-succinate](/reagents/lipids/cholesterol-hydrogen-succinate/)
+  - LPA1-bRIL: b562RIL (thermostabilized [bril](//xray-mp-wiki/reagents/protein-tags/bril/)) inserted into ICL3 at positions 5.66 (R233) and 6.24 (R247); 38-residue C-terminal truncation
+  - dsLPA1-mbRIL: Additional engineered disulfide bond (D204A/V282A → Cys-Cys) between TMV and TMVI; modified [bril](//xray-mp-wiki/reagents/protein-tags/bril/) (mbRIL) with disordered loop replaced by short linker
+- **Detergent**: [ddm](//xray-mp-wiki/reagents/detergents/ddm/) (n-dodecyl-β-D-maltopyranoside) for membrane solubilization
+- **Purification**: [affinity-chromatography](//xray-mp-wiki/methods/purification/affinity-chromatography/) (His-tag on [bril](//xray-mp-wiki/reagents/protein-tags/bril/)), followed by [size-exclusion-chromatography](//xray-mp-wiki/methods/purification/size-exclusion-chromatography/) (Superose 6)
+- **SEC buffer**: 20 mM [hepes-buffer](//xray-mp-wiki/reagents/buffers/hepes-buffer/) pH 7.5, 150 mM [sodium-chloride](//xray-mp-wiki/reagents/additives/sodium-chloride/), 0.05% [ddm](//xray-mp-wiki/reagents/detergents/ddm/), 10 μM [cholesterol-hydrogen-succinate](//xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/)
 
 ## Crystallization
 
-- **Method**: [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) (LCP) — [monoolein](/methods/crystallization/monoolein/)-based mesophase
-- **Lipid**: [monoolein](/methods/crystallization/monoolein/) supplemented with **cholesterol** (10% w/w final)
+- **Method**: [lipidic-cubic-phase](//xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (LCP) — [monoolein](//xray-mp-wiki/methods/crystallization/monoolein/)-based mesophase
+- **Lipid**: [monoolein](//xray-mp-wiki/methods/crystallization/monoolein/) supplemented with **cholesterol** (10% w/w final)
 - **Protein-to-lipid ratio**: 1:1 (w/w)
 - **Precipitant**:
-  - ONO-9780307: 0.1 M [hepes-buffer](/reagents/buffers/hepes-buffer/) pH 7.0, 18–20% [peg-400](/reagents/additives/peg-400/)
-  - ONO-9910539: 0.1 M [sodium-citrate](/reagents/additives/sodium-citrate/) pH 5.6, 18–20% [peg-400](/reagents/additives/peg-400/)
-  - ONO-3080573: 0.1 M [sodium-acetate](/reagents/additives/sodium-acetate/) pH 4.5, 18–20% PEG 3350
+  - ONO-9780307: 0.1 M [hepes-buffer](//xray-mp-wiki/reagents/buffers/hepes-buffer/) pH 7.0, 18–20% [peg-400](//xray-mp-wiki/reagents/additives/peg-400/)
+  - ONO-9910539: 0.1 M [sodium-citrate](//xray-mp-wiki/reagents/additives/sodium-citrate/) pH 5.6, 18–20% [peg-400](//xray-mp-wiki/reagents/additives/peg-400/)
+  - ONO-3080573: 0.1 M [sodium-acetate](//xray-mp-wiki/reagents/additives/sodium-acetate/) pH 4.5, 18–20% PEG 3350
 - **Temperature**: 20 °C
 - **Crystal growth**: 1–3 weeks
 
@@ -75,8 +75,8 @@ LPA1 (lysophosphatidic acid receptor 1) is a GPCR that binds lysophosphatidic ac
 
 ## Related GPCRs
 
-- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — Class A GPCR with bRIL fusion construct
-- [5ht2b-receptor](/proteins/5ht2b-receptor/) — Serotonin GPCR with [bril](/reagents/protein-tags/bril/) fusion
-- [opsin-gpcr](/proteins/opsin-gpcr/) — Class A GPCR structural template
-- [cd81-tetraspanin](/proteins/cd81-tetraspanin/) — Cholesterol-binding membrane protein
-- [angiotensin-ii-type-1-receptor](/proteins/angiotensin-ii-type-1-receptor/) — GPCR with SFX/XFEL and LCP crystallization
+- [a2a-adenosine-receptor](//xray-mp-wiki/proteins/a2a-adenosine-receptor/) — Class A GPCR with bRIL fusion construct
+- [5ht2b-receptor](//xray-mp-wiki/proteins/5ht2b-receptor/) — Serotonin GPCR with [bril](//xray-mp-wiki/reagents/protein-tags/bril/) fusion
+- [opsin-gpcr](//xray-mp-wiki/proteins/opsin-gpcr/) — Class A GPCR structural template
+- [cd81-tetraspanin](//xray-mp-wiki/proteins/cd81-tetraspanin/) — Cholesterol-binding membrane protein
+- [angiotensin-ii-type-1-receptor](//xray-mp-wiki/proteins/angiotensin-ii-type-1-receptor/) — GPCR with SFX/XFEL and LCP crystallization

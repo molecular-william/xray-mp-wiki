@@ -16,13 +16,13 @@ layout: default
 
 ## Overview
 
-NupG is the nucleoside proton symporter from *Escherichia coli*, the prototype of the nucleoside proton symporter (NHS) family within the major facilitator superfamily (MFS). It mediates the uptake of nucleosides (adenosine, guanosine, cytidine, thymidine, uridine) across the plasma membrane. NupG is one of two nucleoside delivery systems in *E. coli* alongside NupC (a concentrative nucleoside transporter homol[og](/reagents/detergents/og/)).
+NupG is the nucleoside proton symporter from *Escherichia coli*, the prototype of the nucleoside proton symporter (NHS) family within the major facilitator superfamily (MFS). It mediates the uptake of nucleosides (adenosine, guanosine, cytidine, thymidine, uridine) across the plasma membrane. NupG is one of two nucleoside delivery systems in *E. coli* alongside NupC (a concentrative nucleoside transporter homol[og](//xray-mp-wiki/reagents/detergents/og/)).
 
 ## Structure Determination
 
 - **PDB IDs**: To be deposited (WT and D323A structures solved)
 - **Resolution**: 3.0 Å (P1 space group, two molecules in ASU); 3.8 Å (P2₁ space group, one molecule in ASU)
-- **Method**: [xray-crystallography](/methods/structure-determination/xray-crystallography/), LCP (meso-phase) crystallation, [molecular-replacement](/methods/structure-determination/molecular-replacement/) using AlphaFold-predicted model
+- **Method**: [xray-crystallography](//xray-mp-wiki/methods/structure-determination/xray-crystallography/), LCP (meso-phase) crystallation, [molecular-replacement](//xray-mp-wiki/methods/structure-determination/molecular-replacement/) using AlphaFold-predicted model
 - **Conformation**: Inward-open (both WT and D323A structures)
 - **Space groups**: P1 (two molecules, 3.0 Å) and P2₁ (one molecule, 3.8 Å)
 - **Expression**: *E. coli* C43(DE3) cells, IPTG-induced
@@ -54,7 +54,7 @@ The uridine binding site is in the central cavity between N and C domains:
 - **Direct contacts**: R136, T140, F143, Q225, N228, Q261, E264, Y318, F322
 - **Essential for binding** (ITC mutants): R136A, T140A, F143A, N228A, Q261A, E264A, Y318A, F322A all abolished binding
 - **Not essential**: Q225A (Kd = 227.67 ± 88.34 μM, similar to WT)
-- **Increased [affinity-chromatography](/methods/purification/affinity-chromatography/)**: D323A mutant bound uridine with Kd = 9.67 ± 2.87 μM (20-fold increase)
+- **Increased [affinity-chromatography](//xray-mp-wiki/methods/purification/affinity-chromatography/)**: D323A mutant bound uridine with Kd = 9.67 ± 2.87 μM (20-fold increase)
 
 ### Binding Pocket Architecture
 
@@ -73,21 +73,21 @@ The uridine binding site is in the central cavity between N and C domains:
 ## Crystallization
 
 - **Method**: Meso-phase (LCP) crystallization
-- **Detergent**: [ddm](/reagents/detergents/ddm/) (2%) for solubilization; [ng](/reagents/detergents/ng/) (0.4%) for purification
-- **Protein:lipid ratio**: 1:1.5 (w/w) protein to [monoolein](/methods/crystallization/monoolein/) (Nu-Chek)
+- **Detergent**: [ddm](//xray-mp-wiki/reagents/detergents/ddm/) (2%) for solubilization; [ng](//xray-mp-wiki/reagents/detergents/ng/) (0.4%) for purification
+- **Protein:lipid ratio**: 1:1.5 (w/w) protein to [monoolein](//xray-mp-wiki/methods/crystallization/monoolein/) (Nu-Chek)
 - **Crystallization conditions**:
-  - WT P2₁: 0.1 M [sodium-citrate](/reagents/additives/sodium-citrate/) pH 5.0, 28% [peg-300](/reagents/additives/peg-300/)
-  - WT P1: 0.1 M [sodium-chloride](/reagents/additives/sodium-chloride/), 0.1 M MgCl₂, 0.1 M [sodium-citrate](/reagents/additives/sodium-citrate/) pH 5.0, 30% [peg-6000](/reagents/additives/peg-6000/)
-  - D323A: 0.1 M [sodium-chloride](/reagents/additives/sodium-chloride/), 0.1 M MgCl₂, 0.1 M MES pH 6.0, 30% PEG550 MME
+  - WT P2₁: 0.1 M [sodium-citrate](//xray-mp-wiki/reagents/additives/sodium-citrate/) pH 5.0, 28% [peg-300](//xray-mp-wiki/reagents/additives/peg-300/)
+  - WT P1: 0.1 M [sodium-chloride](//xray-mp-wiki/reagents/additives/sodium-chloride/), 0.1 M MgCl₂, 0.1 M [sodium-citrate](//xray-mp-wiki/reagents/additives/sodium-citrate/) pH 5.0, 30% [peg-6000](//xray-mp-wiki/reagents/additives/peg-6000/)
+  - D323A: 0.1 M [sodium-chloride](//xray-mp-wiki/reagents/additives/sodium-chloride/), 0.1 M MgCl₂, 0.1 M MES pH 6.0, 30% PEG550 MME
 - **Crystal morphology**: Grew in 1 week at room temperature in glass sandwich plates
 
 ## Solubilization and Purification
 
-- **[ddm](/reagents/detergents/ddm/)** (2% w/v) — solubilization from *E. coli* membranes
-- **[talon-resin](/methods/purification/talon-resin/)** — His-tag capture, elution with 250 mM [imidazole](/reagents/additives/imidazole/)
-- **Wash buffer**: 25 mM MES pH 6.0, 150 mM [sodium-chloride](/reagents/additives/sodium-chloride/), 20 mM [imidazole](/reagents/additives/imidazole/), 0.02% [ddm](/reagents/detergents/ddm/)
-- **Elution buffer**: 25 mM MES pH 6.0, 150 mM [sodium-chloride](/reagents/additives/sodium-chloride/), 250 mM [imidazole](/reagents/additives/imidazole/), 0.4% [ng](/reagents/detergents/ng/)
-- **Gel filtration**: [superdex-columns](/methods/purification/superdex-columns/) 200 10/300 increase, buffer: 25 mM MES pH 6.0, 150 mM [sodium-chloride](/reagents/additives/sodium-chloride/), 0.4% [ng](/reagents/detergents/ng/)
+- **[ddm](//xray-mp-wiki/reagents/detergents/ddm/)** (2% w/v) — solubilization from *E. coli* membranes
+- **[talon-resin](//xray-mp-wiki/methods/purification/talon-resin/)** — His-tag capture, elution with 250 mM [imidazole](//xray-mp-wiki/reagents/additives/imidazole/)
+- **Wash buffer**: 25 mM MES pH 6.0, 150 mM [sodium-chloride](//xray-mp-wiki/reagents/additives/sodium-chloride/), 20 mM [imidazole](//xray-mp-wiki/reagents/additives/imidazole/), 0.02% [ddm](//xray-mp-wiki/reagents/detergents/ddm/)
+- **Elution buffer**: 25 mM MES pH 6.0, 150 mM [sodium-chloride](//xray-mp-wiki/reagents/additives/sodium-chloride/), 250 mM [imidazole](//xray-mp-wiki/reagents/additives/imidazole/), 0.4% [ng](//xray-mp-wiki/reagents/detergents/ng/)
+- **Gel filtration**: [superdex-columns](//xray-mp-wiki/methods/purification/superdex-columns/) 200 10/300 increase, buffer: 25 mM MES pH 6.0, 150 mM [sodium-chloride](//xray-mp-wiki/reagents/additives/sodium-chloride/), 0.4% [ng](//xray-mp-wiki/reagents/detergents/ng/)
 - **Concentration**: ~20 mg/mL (pre-GF), ~30 mg/mL (post-GF, for crystallization)
 
 ## Related NHS Transporters in E. coli
@@ -100,11 +100,11 @@ The uridine binding site is in the central cavity between N and C domains:
 
 ## Cross-References
 
-- [sotb](/proteins/sotb/) — E. coli MFS antiporter; rocker-switch mechanism
-- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — MATE family transporter; [alternating-access](/concepts/alternating-access/)
-- [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) — Mitochondrial carrier (different family)
-- [mfs-transporter](/concepts/mfs-transporter/) — Major facilitator superfamily
-- [ddm](/reagents/detergents/ddm/) — Solubilization detergent
-- [ng](/reagents/detergents/ng/) — Detergent used in purification
-- [monoolein](/methods/crystallization/monoolein/) — LCP crystallization lipid
-- [superdex-columns](/methods/purification/superdex-columns/) — SEC column type concept page
+- [sotb](//xray-mp-wiki/proteins/sotb/) — E. coli MFS antiporter; rocker-switch mechanism
+- [nTMATE2-transporter](//xray-mp-wiki/proteins/nTMATE2-transporter/) — MATE family transporter; [alternating-access](//xray-mp-wiki/concepts/alternating-access/)
+- [adenine-nucleotide-transporter](//xray-mp-wiki/proteins/adenine-nucleotide-transporter/) — Mitochondrial carrier (different family)
+- [mfs-transporter](//xray-mp-wiki/concepts/mfs-transporter/) — Major facilitator superfamily
+- [ddm](//xray-mp-wiki/reagents/detergents/ddm/) — Solubilization detergent
+- [ng](//xray-mp-wiki/reagents/detergents/ng/) — Detergent used in purification
+- [monoolein](//xray-mp-wiki/methods/crystallization/monoolein/) — LCP crystallization lipid
+- [superdex-columns](//xray-mp-wiki/methods/purification/superdex-columns/) — SEC column type concept page

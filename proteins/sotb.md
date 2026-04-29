@@ -61,7 +61,7 @@ MFS transporters deliver substrates via the **rocker-switch mechanism**:
 This study reveals **nonlinear rigid-body movements** during the transition from inward-open to occluded conformation:
 - The conformational change is not a simple rigid-body rocker-switch
 - Nonlinear movements suggest additional local conformational adjustments beyond the global domain rearrangement
-- This challenges the simple [alternating-access](/concepts/alternating-access/) model and suggests MFS antiporters may require local gating movements
+- This challenges the simple [alternating-access](//xray-mp-wiki/concepts/alternating-access/) model and suggests MFS antiporters may require local gating movements
 
 ### Proton-Coupled Antiport
 
@@ -74,22 +74,22 @@ This study reveals **nonlinear rigid-body movements** during the transition from
 | Transporter | Family | Mechanism | States Captured |
 |-------------|--------|-----------|-----------------|
 | SotB | MFS (DHA1) | Drug-proton antiport | Occluded, inward-facing, inward-open |
-| [nTMATE2-transporter](/proteins/nTMATE2-transporter/) | MATE | Nicotine-H⁺ antiport | Two outward-facing conformations |
-| [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) | Mitochondrial carrier | Nucleotide antiport | Matrix-open, cytoplasmic-open |
-| [mmpL3](/proteins/mmpL3/) | Resistin-like membrane protein | Lipid flippase | Apo + 4 inhibitor-bound |
+| [nTMATE2-transporter](//xray-mp-wiki/proteins/nTMATE2-transporter/) | MATE | Nicotine-H⁺ antiport | Two outward-facing conformations |
+| [adenine-nucleotide-transporter](//xray-mp-wiki/proteins/adenine-nucleotide-transporter/) | Mitochondrial carrier | Nucleotide antiport | Matrix-open, cytoplasmic-open |
+| [mmpL3](//xray-mp-wiki/proteins/mmpL3/) | Resistin-like membrane protein | Lipid flippase | Apo + 4 inhibitor-bound |
 
 ## Related Transporters
 
-- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — MATE family transporter from tobacco
-- [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) — Mitochondrial ADP/ATP carrier
-- [mmpL3](/proteins/mmpL3/) — Mycobacterial lipid transporter
-- [nupg-nucleoside-transporter](/proteins/nupg-nucleoside-transporter/) — E. coli MFS nucleoside transporter
+- [nTMATE2-transporter](//xray-mp-wiki/proteins/nTMATE2-transporter/) — MATE family transporter from tobacco
+- [adenine-nucleotide-transporter](//xray-mp-wiki/proteins/adenine-nucleotide-transporter/) — Mitochondrial ADP/ATP carrier
+- [mmpL3](//xray-mp-wiki/proteins/mmpL3/) — Mycobacterial lipid transporter
+- [nupg-nucleoside-transporter](//xray-mp-wiki/proteins/nupg-nucleoside-transporter/) — E. coli MFS nucleoside transporter
 
 ## Concepts
 
-- [mfs-transporter](/concepts/mfs-transporter/) — Major facilitator superfamily
-- [dha-antiporter](/concepts/dha-antiporter/) — Drug-proton antiporter family
-- [alternating-access](/concepts/alternating-access/) — Alternating access mechanism
+- [mfs-transporter](//xray-mp-wiki/concepts/mfs-transporter/) — Major facilitator superfamily
+- [dha-antiporter](//xray-mp-wiki/concepts/dha-antiporter/) — Drug-proton antiporter family
+- [alternating-access](//xray-mp-wiki/concepts/alternating-access/) — Alternating access mechanism
 
 ## References
 
@@ -99,7 +99,7 @@ This study reveals **nonlinear rigid-body movements** during the transition from
 
 ## Cross-References
 
-- [mfs-transporter](/concepts/mfs-transporter/) — Major facilitator superfamily
-- [dha-antiporter](/concepts/dha-antiporter/) — Drug-proton antiporter family
-- [alternating-access](/concepts/alternating-access/) — Alternating access mechanism
-- [ddm](/reagents/detergents/ddm/) — Common solubilization detergent for MFS transporters
+- [mfs-transporter](//xray-mp-wiki/concepts/mfs-transporter/) — Major facilitator superfamily
+- [dha-antiporter](//xray-mp-wiki/concepts/dha-antiporter/) — Drug-proton antiporter family
+- [alternating-access](//xray-mp-wiki/concepts/alternating-access/) — Alternating access mechanism
+- [ddm](//xray-mp-wiki/reagents/detergents/ddm/) — Common solubilization detergent for MFS transporters

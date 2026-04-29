@@ -45,6 +45,6 @@ The critical residues at the phospholipid binding site are two polar residues se
 
 ## Related Lipids
 
-- [cholesterol-lipid](/reagents/lipids/cholesterol-lipid/) — Sterol lipid for membrane protein stabilization
-- [monoolein](/methods/crystallization/monoolein/) — Monoacylglycerol for LCP crystallization
-- [cardiolipin](/reagents/lipids/cardiolipin/) — Diphosphatidylglycerol for mitochondrial protein studies
+- [cholesterol-lipid](//xray-mp-wiki/reagents/lipids/cholesterol-lipid/) — Sterol lipid for membrane protein stabilization
+- [monoolein](//xray-mp-wiki/methods/crystallization/monoolein/) — Monoacylglycerol for LCP crystallization
+- [cardiolipin](//xray-mp-wiki/reagents/lipids/cardiolipin/) — Diphosphatidylglycerol for mitochondrial protein studies

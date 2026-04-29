@@ -26,7 +26,7 @@ layout: default
 
 ## Mechanism of Action
 
-Linezolid inhibits bacterial protein synthesis by specifically binding to the 50S ribosomal subunit. It was the first FDA-approved oxazolidinone antibiotic, used as a "reserve antibiotic" for serious Gram-positive infections resistant to other antibiotics. It has no clinically significant effect on most Gram-negative bacteria, partly due to low intracellular [amicon-filters](/methods/purification/amicon-filters/) caused by efflux.
+Linezolid inhibits bacterial protein synthesis by specifically binding to the 50S ribosomal subunit. It was the first FDA-approved oxazolidinone antibiotic, used as a "reserve antibiotic" for serious Gram-positive infections resistant to other antibiotics. It has no clinically significant effect on most Gram-negative bacteria, partly due to low intracellular [amicon-filters](//xray-mp-wiki/methods/purification/amicon-filters/) caused by efflux.
 
 ## Binding to AcrB
 

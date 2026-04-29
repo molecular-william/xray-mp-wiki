@@ -23,11 +23,11 @@ Amicon Ultra filters are centrifugal concentration devices used to concentrate p
 
 ## Proteins Using Amicon (from this wiki)
 
-- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — Amicon Ultra 100K (Merck Millipore)
+- [nTMATE2-transporter](//xray-mp-wiki/proteins/nTMATE2-transporter/) — Amicon Ultra 100K (Merck Millipore)
   - Used to concentrate TALON eluate before SEC loading
   - 100K MWCO appropriate for large transporters (~60-80 kDa monomer)
 
 ## Related Concentration Methods
 
-- [superdex-columns](/methods/purification/superdex-columns/) — SEC also concentrates during fraction collection
-- [talon-resin](/methods/purification/talon-resin/) — [affinity-chromatography](/methods/purification/affinity-chromatography/) capture provides initial concentration
+- [superdex-columns](//xray-mp-wiki/methods/purification/superdex-columns/) — SEC also concentrates during fraction collection
+- [talon-resin](//xray-mp-wiki/methods/purification/talon-resin/) — [affinity-chromatography](//xray-mp-wiki/methods/purification/affinity-chromatography/) capture provides initial concentration

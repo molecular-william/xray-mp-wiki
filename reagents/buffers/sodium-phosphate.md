@@ -44,5 +44,5 @@ Sodium phosphate buffers are widely used in protein biochemistry and crystalliza
 
 ## Related Buffers
 
-- [tris-buffer](/reagents/buffers/tris-buffer/) — Tris-HCl, pH 7.0–9.0
-- [hepes-buffer](/reagents/buffers/hepes-buffer/) — HEPES-Na, pH 6.8–8.2
+- [tris-buffer](//xray-mp-wiki/reagents/buffers/tris-buffer/) — Tris-HCl, pH 7.0–9.0
+- [hepes-buffer](//xray-mp-wiki/reagents/buffers/hepes-buffer/) — HEPES-Na, pH 6.8–8.2

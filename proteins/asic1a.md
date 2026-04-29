@@ -90,9 +90,9 @@ Acid-sensing ion channels (ASICs) are voltage-independent, sodium-selective ion 
 
 ## Related Channels
 
-- [kirbac](/proteins/kirbac/) — KirBac potassium channel (ion channel)
-- [navab-sodium-channel](/proteins/navab-sodium-channel/) — NaVAb sodium channel
-- [ion-channels](/concepts/ion-channels/) — Ion channels concept page
+- [kirbac](//xray-mp-wiki/proteins/kirbac/) — KirBac potassium channel (ion channel)
+- [navab-sodium-channel](//xray-mp-wiki/proteins/navab-sodium-channel/) — NaVAb sodium channel
+- [ion-channels](//xray-mp-wiki/concepts/ion-channels/) — Ion channels concept page
 
 ## References
 

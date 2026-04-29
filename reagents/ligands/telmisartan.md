@@ -20,7 +20,7 @@ layout: default
 ## Chemical Properties
 
 - **Class**: Angiotensin receptor blocker (ARB), non-peptide antagonist
-- **Scaffold**: Biphenyl with carboxylic acid and benz[imidazole](/reagents/additives/imidazole/) groups
+- **Scaffold**: Biphenyl with carboxylic acid and benz[imidazole](//xray-mp-wiki/reagents/additives/imidazole/) groups
 - **Unique feature**: Lacks the tetrazole moiety common to most ARBs; instead uses a carboxylic acid
 
 ## Binding to AT1R
@@ -50,8 +50,8 @@ Telmisartan binds to the ligand-binding pocket of the human angiotensin II type 
 
 ## Related Ligands
 
-- [valsartan](/reagents/ligands/valsartan/) — Clinically used ARB
-- [irbesartan](/reagents/ligands/irbesartan/) — Clinically used ARB
-- [candesartan](/reagents/ligands/candesartan/) — Insurmountable inverse agonist
-- [losartan](/reagents/ligands/losartan/) — First ARB
-- [zd7155](/reagents/ligands/zd7155/) — High-affinity antagonist
+- [valsartan](//xray-mp-wiki/reagents/ligands/valsartan/) — Clinically used ARB
+- [irbesartan](//xray-mp-wiki/reagents/ligands/irbesartan/) — Clinically used ARB
+- [candesartan](//xray-mp-wiki/reagents/ligands/candesartan/) — Insurmountable inverse agonist
+- [losartan](//xray-mp-wiki/reagents/ligands/losartan/) — First ARB
+- [zd7155](//xray-mp-wiki/reagents/ligands/zd7155/) — High-affinity antagonist

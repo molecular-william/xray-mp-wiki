@@ -29,7 +29,7 @@ LCP crystallization (also called in meso crystallization) embeds membrane protei
 
 ## Protocol (Twin-Syringe Mixing)
 
-1. Prepare [monoolein](/methods/crystallization/monoolein/) lipid phase
+1. Prepare [monoolein](//xray-mp-wiki/methods/crystallization/monoolein/) lipid phase
 2. Mix protein solution with lipid using twin-syringe method
 3. Load LCP into glass sandwich plates
 4. Set up against crystallization reservoir (typically 30 nL LCP over 1 μL reservoir)
@@ -44,13 +44,13 @@ LCP crystallization (also called in meso crystallization) embeds membrane protei
 
 ## Proteins Using LCP (from this wiki)
 
-- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — NtMATE2 crystals diffracted to 3.5 Å, space group P2₁2₁2₁
-- [angiotensin-ii-type-1-receptor](/proteins/angiotensin-ii-type-1-receptor/) — AT1R-S1I8-Nb.AT110i1 complex; Gryphon LCP robot (Art Robbins Instruments); 27 nL mesophase drops on 96-well glass plates; 800 nL precipitant overlay; 100 mM Tris pH 8.0, 15–25 mM MgCl₂, 28–29% PEG 300; 2.9 Å resolution (PDB: 6DO1); crystals harvested after 6–11 days at 20°C, flash-frozen in liquid nitrogen
-- [angiotensin-ii-type-1-receptor](/proteins/angiotensin-ii-type-1-receptor/) — LCP crystallization with 10:1 (w:w) monoolein:cholesterol mixture (1.5× excess by mass), Gryphon LCP robot dispensing, Tris/MgCl₂/PEG 300 precipitant, 2.9 Å resolution (PDB: 6DO1); crystals harvested after 6–11 days at 20°C, flash-frozen in liquid nitrogen
-- [kirbac](/proteins/kirbac/) — [structural-phospholipid](/reagents/lipids/structural-phospholipid/)s (phosphatidylcholine) observed at subunit interfaces in KirBac1.1 (PDB: 1P7B); lipid density at junction of inner, outer, and slide helices connects adjacent subunits
-- [etb-receptor](/proteins/etb-receptor/) — CHS ([cholesterol-hydrogen-succinate](/reagents/lipids/cholesterol-hydrogen-succinate/)) used as stabilizing lipid additive in solubilization (0.2%) and purification (0.01% wash, 0.001% elution/SEC)
+- [nTMATE2-transporter](//xray-mp-wiki/proteins/nTMATE2-transporter/) — NtMATE2 crystals diffracted to 3.5 Å, space group P2₁2₁2₁
+- [angiotensin-ii-type-1-receptor](//xray-mp-wiki/proteins/angiotensin-ii-type-1-receptor/) — AT1R-S1I8-Nb.AT110i1 complex; Gryphon LCP robot (Art Robbins Instruments); 27 nL mesophase drops on 96-well glass plates; 800 nL precipitant overlay; 100 mM Tris pH 8.0, 15–25 mM MgCl₂, 28–29% PEG 300; 2.9 Å resolution (PDB: 6DO1); crystals harvested after 6–11 days at 20°C, flash-frozen in liquid nitrogen
+- [angiotensin-ii-type-1-receptor](//xray-mp-wiki/proteins/angiotensin-ii-type-1-receptor/) — LCP crystallization with 10:1 (w:w) monoolein:cholesterol mixture (1.5× excess by mass), Gryphon LCP robot dispensing, Tris/MgCl₂/PEG 300 precipitant, 2.9 Å resolution (PDB: 6DO1); crystals harvested after 6–11 days at 20°C, flash-frozen in liquid nitrogen
+- [kirbac](//xray-mp-wiki/proteins/kirbac/) — [structural-phospholipid](//xray-mp-wiki/reagents/lipids/structural-phospholipid/)s (phosphatidylcholine) observed at subunit interfaces in KirBac1.1 (PDB: 1P7B); lipid density at junction of inner, outer, and slide helices connects adjacent subunits
+- [etb-receptor](//xray-mp-wiki/proteins/etb-receptor/) — CHS ([cholesterol-hydrogen-succinate](//xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/)) used as stabilizing lipid additive in solubilization (0.2%) and purification (0.01% wash, 0.001% elution/SEC)
 
 ## Related Methods
 
-- [vapor-diffusion](/methods/crystallization/vapor-diffusion/) — conventional sitting-drop or hanging-drop method
-- [microbatch](/methods/crystallization/microbatch/) — oil-overlay crystallization method
+- [vapor-diffusion](//xray-mp-wiki/methods/crystallization/vapor-diffusion/) — conventional sitting-drop or hanging-drop method
+- [microbatch](//xray-mp-wiki/methods/crystallization/microbatch/) — oil-overlay crystallization method

@@ -44,5 +44,5 @@ Distinct from SQ109/AU1235/ICA38 — three "arms":
 
 ## Cross-References
 
-- [mmpL3](/proteins/mmpL3/) — Primary target; rimonabant binds in the TMH bundle
-- [sq109](/reagents/ligands/sq109/) — MmpL3 inhibitor in clinical trials; different binding mode
+- [mmpL3](//xray-mp-wiki/proteins/mmpL3/) — Primary target; rimonabant binds in the TMH bundle
+- [sq109](//xray-mp-wiki/reagents/ligands/sq109/) — MmpL3 inhibitor in clinical trials; different binding mode

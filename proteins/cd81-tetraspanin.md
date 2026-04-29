@@ -22,34 +22,34 @@ CD81 (also known as TAPA-1, tspan28) is a four-pass transmembrane protein of the
 
 - **PDB ID**: 5TCX
 - **Resolution**: 2.95 Å along b* and c* axes, 5.5 Å along a* (anisotropic)
-- **Method**: [xray-crystallography](/methods/structure-determination/xray-crystallography/), [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) (LCP) crystallization
-- **Phasing**: Fragment-based iterative [molecular-replacement](/methods/structure-determination/molecular-replacement/) (CD81 EC2 region PDB 1IV5 + poly-Ala helix model)
-- **Expression**: [sf9-cells](/methods/expression-systems/sf9-cells/) (baculovirus [baculovirus-expression](/methods/expression-systems/baculovirus-expression/))
+- **Method**: [xray-crystallography](//xray-mp-wiki/methods/structure-determination/xray-crystallography/), [lipidic-cubic-phase](//xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (LCP) crystallization
+- **Phasing**: Fragment-based iterative [molecular-replacement](//xray-mp-wiki/methods/structure-determination/molecular-replacement/) (CD81 EC2 region PDB 1IV5 + poly-Ala helix model)
+- **Expression**: [sf9-cells](//xray-mp-wiki/methods/expression-systems/sf9-cells/) (baculovirus [baculovirus-expression](//xray-mp-wiki/methods/expression-systems/baculovirus-expression/))
 - **Construct**: Full-length human CD81 with N-terminal His-tag and C-terminal Strep-tag II
 
 ## Expression and Purification
 
-- **Expression system**: [sf9-cells](/methods/expression-systems/sf9-cells/) via [baculovirus-expression](/methods/expression-systems/baculovirus-expression/)
-- **Detergent**: [ddm](/reagents/detergents/ddm/) (n-dodecyl-β-D-maltopyranoside) for membrane solubilization
-- **Purification**: [affinity-chromatography](/methods/purification/affinity-chromatography/) (N-terminal His-tag), followed by [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography/) ([superdex-columns](/methods/purification/superdex-columns/))
-- **SEC buffer**: 20 mM [hepes-buffer](/reagents/buffers/hepes-buffer/) pH 7.5, 150 mM [sodium-chloride](/reagents/additives/sodium-chloride/), 0.05% [ddm](/reagents/detergents/ddm/)
+- **Expression system**: [sf9-cells](//xray-mp-wiki/methods/expression-systems/sf9-cells/) via [baculovirus-expression](//xray-mp-wiki/methods/expression-systems/baculovirus-expression/)
+- **Detergent**: [ddm](//xray-mp-wiki/reagents/detergents/ddm/) (n-dodecyl-β-D-maltopyranoside) for membrane solubilization
+- **Purification**: [affinity-chromatography](//xray-mp-wiki/methods/purification/affinity-chromatography/) (N-terminal His-tag), followed by [size-exclusion-chromatography](//xray-mp-wiki/methods/purification/size-exclusion-chromatography/) ([superdex-columns](//xray-mp-wiki/methods/purification/superdex-columns/))
+- **SEC buffer**: 20 mM [hepes-buffer](//xray-mp-wiki/reagents/buffers/hepes-buffer/) pH 7.5, 150 mM [sodium-chloride](//xray-mp-wiki/reagents/additives/sodium-chloride/), 0.05% [ddm](//xray-mp-wiki/reagents/detergents/ddm/)
 
 ## Crystallization
 
-- **Method**: [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) (LCP) — [monoolein](/methods/crystallization/monoolein/)-based mesophase
-- **Lipid**: [monoolein](/methods/crystallization/monoolein/) (Nu-Chek Prep)
+- **Method**: [lipidic-cubic-phase](//xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (LCP) — [monoolein](//xray-mp-wiki/methods/crystallization/monoolein/)-based mesophase
+- **Lipid**: [monoolein](//xray-mp-wiki/methods/crystallization/monoolein/) (Nu-Chek Prep)
 - **Protein-to-lipid ratio**: 1:1.5 (w/w)
-- **Reservoir**: 0.1 M [sodium-acetate](/reagents/additives/sodium-acetate/) pH 4.5, 18–22% [peg-400](/reagents/additives/peg-400/), 0.2 M [sodium-chloride](/reagents/additives/sodium-chloride/)
+- **Reservoir**: 0.1 M [sodium-acetate](//xray-mp-wiki/reagents/additives/sodium-acetate/) pH 4.5, 18–22% [peg-400](//xray-mp-wiki/reagents/additives/peg-400/), 0.2 M [sodium-chloride](//xray-mp-wiki/reagents/additives/sodium-chloride/)
 - **Temperature**: 20 °C
 - **Crystal growth**: 1–3 weeks
 - **Space group**: P2₁2₁2₁
 
 ## Key Structural Feature: Intramembrane Cholesterol Pocket
 
-The most striking feature is a large hydrophobic pocket (3300 Å³) bounded by the four transmembrane helices and the EC2 cap. A **[cholesterol-lipid](/reagents/lipids/cholesterol-lipid/) molecule** was resolved in this pocket:
+The most striking feature is a large hydrophobic pocket (3300 Å³) bounded by the four transmembrane helices and the EC2 cap. A **[cholesterol-lipid](//xray-mp-wiki/reagents/lipids/cholesterol-lipid/) molecule** was resolved in this pocket:
 
 - **Contact residues**: F21 (TM1), I64/V68/V71/M72/V75 (TM2), F94/L98/L101 (TM3), V212/M216 (TM4)
-- **Polar contacts**: N18 (TM1) and E219 (TM4) hydrogen-bond to [cholesterol-lipid](/reagents/lipids/cholesterol-lipid/) hydroxyl group
+- **Polar contacts**: N18 (TM1) and E219 (TM4) hydrogen-bond to [cholesterol-lipid](//xray-mp-wiki/reagents/lipids/cholesterol-lipid/) hydroxyl group
 - **Conservation**: 13 amino acids nearly 100% conserved across 37 homologs; E219 only in CD81 and tspan10
 
 ## Molecular Dynamics Simulations
@@ -64,10 +64,10 @@ The most striking feature is a large hydrophobic pocket (3300 Å³) bounded by t
 
 ## Functional Evidence
 
-- CD81 immunoprecipitates 15-fold more [cholesterol-lipid](/reagents/lipids/cholesterol-lipid/) than controls
-- E219A and E219Q mutants recover 50% less [cholesterol-lipid](/reagents/lipids/cholesterol-lipid/)
-- [cholesterol-lipid](/reagents/lipids/cholesterol-lipid/) binding regulates CD81-dependent CD19 surface export
-- Molecular dynamics: [cholesterol-lipid](/reagents/lipids/cholesterol-lipid/) stabilizes "closed" EC2 conformation; absence leads to "open" state
+- CD81 immunoprecipitates 15-fold more [cholesterol-lipid](//xray-mp-wiki/reagents/lipids/cholesterol-lipid/) than controls
+- E219A and E219Q mutants recover 50% less [cholesterol-lipid](//xray-mp-wiki/reagents/lipids/cholesterol-lipid/)
+- [cholesterol-lipid](//xray-mp-wiki/reagents/lipids/cholesterol-lipid/) binding regulates CD81-dependent CD19 surface export
+- Molecular dynamics: [cholesterol-lipid](//xray-mp-wiki/reagents/lipids/cholesterol-lipid/) stabilizes "closed" EC2 conformation; absence leads to "open" state
 
 ## Tetraspanin Fold
 
@@ -78,6 +78,6 @@ The most striking feature is a large hydrophobic pocket (3300 Å³) bounded by t
 
 ## Related Membrane Proteins
 
-- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — GPCR with [cholesterol-lipid](/reagents/lipids/cholesterol-lipid/) binding implications
-- [lpa1-receptor](/proteins/lpa1-receptor/) — GPCR with spherical binding pocket
-- [angiotensin-ii-type-1-receptor](/proteins/angiotensin-ii-type-1-receptor/) — GPCR with [cholesterol-hydrogen-succinate](/reagents/lipids/cholesterol-hydrogen-succinate/) stabilization
+- [a2a-adenosine-receptor](//xray-mp-wiki/proteins/a2a-adenosine-receptor/) — GPCR with [cholesterol-lipid](//xray-mp-wiki/reagents/lipids/cholesterol-lipid/) binding implications
+- [lpa1-receptor](//xray-mp-wiki/proteins/lpa1-receptor/) — GPCR with spherical binding pocket
+- [angiotensin-ii-type-1-receptor](//xray-mp-wiki/proteins/angiotensin-ii-type-1-receptor/) — GPCR with [cholesterol-hydrogen-succinate](//xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/) stabilization

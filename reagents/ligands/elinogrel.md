@@ -46,7 +46,7 @@ Elinogrel acts as an inverse agonist of the P2Y12 receptor, stabilizing the inac
 
 ## Related Ligands
 
-- [ticagrelor](/reagents/ligands/ticagrelor/) — Reversible P2Y12 antagonist, inverse agonist
-- [selatogrel](/reagents/ligands/selatogrel/) — Reversible P2Y12 inverse agonist, 100× more potent than ticagrelor
-- [clopidogrel](/reagents/ligands/clopidogrel/) — Irreversible P2Y12 antagonist, prodrug
-- [p2y12-receptor](/proteins/p2y12-receptor/) — P2Y12 receptor page
+- [ticagrelor](//xray-mp-wiki/reagents/ligands/ticagrelor/) — Reversible P2Y12 antagonist, inverse agonist
+- [selatogrel](//xray-mp-wiki/reagents/ligands/selatogrel/) — Reversible P2Y12 inverse agonist, 100× more potent than ticagrelor
+- [clopidogrel](//xray-mp-wiki/reagents/ligands/clopidogrel/) — Irreversible P2Y12 antagonist, prodrug
+- [p2y12-receptor](//xray-mp-wiki/proteins/p2y12-receptor/) — P2Y12 receptor page

@@ -32,13 +32,13 @@ Affinity chromatography exploits specific interactions between a protein and a l
 
 ## Proteins Using Affinity (from this wiki)
 
-- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — TALON cobalt affinity for His8-tagged protein
-  - Wash: 20-40 mM [imidazole](/reagents/additives/imidazole/)
+- [nTMATE2-transporter](//xray-mp-wiki/proteins/nTMATE2-transporter/) — TALON cobalt affinity for His8-tagged protein
+  - Wash: 20-40 mM [imidazole](//xray-mp-wiki/reagents/additives/imidazole/)
   - Elution: 200 mM imidazole
-  - Buffer: 300 mM NaCl, 50 mM HEPES-Na pH 7.0, 5% [glycerol](/reagents/additives/glycerol/), 0.05% DDM, 0.003% CHS
-- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — bRIL fusion used for crystallization construct stabilization
-- [psi-lhci-supercomplex](/proteins/psi-lhci-supercomplex/) — column-free isolation (no affinity step — very mild purification)
-- [etb-receptor](/proteins/etb-receptor/) — GFP-His10 tag captured on TALON resin; washed with 15 mM imidazole, eluted with 200 mM imidazole
+  - Buffer: 300 mM NaCl, 50 mM HEPES-Na pH 7.0, 5% [glycerol](//xray-mp-wiki/reagents/additives/glycerol/), 0.05% DDM, 0.003% CHS
+- [a2a-adenosine-receptor](//xray-mp-wiki/proteins/a2a-adenosine-receptor/) — bRIL fusion used for crystallization construct stabilization
+- [psi-lhci-supercomplex](//xray-mp-wiki/proteins/psi-lhci-supercomplex/) — column-free isolation (no affinity step — very mild purification)
+- [etb-receptor](//xray-mp-wiki/proteins/etb-receptor/) — GFP-His10 tag captured on TALON resin; washed with 15 mM imidazole, eluted with 200 mM imidazole
 
 ## IMAC (Immobilized Metal Affinity Chromatography)
 
@@ -70,7 +70,7 @@ TALON cobalt resin (Co²⁺) has higher selectivity than Ni-NTA for His-tagged p
 
 ## Related Methods
 
-- [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography/) — SEC after affinity capture
-- [talon-resin](/methods/purification/talon-resin/) — TALON cobalt resin details
-- [superdex-columns](/methods/purification/superdex-columns/) — Superdex SEC columns
-- [tev-protease](/reagents/protein-tags/tev-protease/) — Tag removal after affinity purification
+- [size-exclusion-chromatography](//xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — SEC after affinity capture
+- [talon-resin](//xray-mp-wiki/methods/purification/talon-resin/) — TALON cobalt resin details
+- [superdex-columns](//xray-mp-wiki/methods/purification/superdex-columns/) — Superdex SEC columns
+- [tev-protease](//xray-mp-wiki/reagents/protein-tags/tev-protease/) — Tag removal after affinity purification

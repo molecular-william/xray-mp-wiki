@@ -31,31 +31,31 @@ The P2Y12 receptor is a G-protein-coupled receptor (GPCR) expressed on platelets
 
 ## Expression and Purification
 
-- **Expression system**: [sf9-cells](/methods/expression-systems/sf9-cells/) (baculovirus [baculovirus-expression](/methods/expression-systems/baculovirus-expression/))
+- **Expression system**: [sf9-cells](//xray-mp-wiki/methods/expression-systems/sf9-cells/) (baculovirus [baculovirus-expression](//xray-mp-wiki/methods/expression-systems/baculovirus-expression/))
 - **Construct design**:
-  - Human P2Y12 receptor with thermostabilized [bril](/reagents/protein-tags/bril/) (Apafant [bril](/reagents/protein-tags/bril/), PDB: 1M6T) fused into ICL3 at positions T223–R224
+  - Human P2Y12 receptor with thermostabilized [bril](//xray-mp-wiki/reagents/protein-tags/bril/) (Apafant [bril](//xray-mp-wiki/reagents/protein-tags/bril/), PDB: 1M6T) fused into ICL3 at positions T223–R224
   - Intact N and C termini
   - D294⁷·⁴⁹N mutation for improved purification yield
-- **Detergent**: [ddm](/reagents/detergents/ddm/) (n-dodecyl-β-D-maltopyranoside) for membrane solubilization
-- **Purification**: [imac](/methods/purification/imac/) (Ni-NTA immobilized metal affinity chromatography), elution in presence of 2 mM [selatogrel](/reagents/ligands/selatogrel/)
-- **SEC**: [superdex-columns](/methods/purification/superdex-columns/) increase column, buffer containing 20 mM [hepes-buffer](/reagents/buffers/hepes-buffer/) pH 7.5, 150 mM [sodium-chloride](/reagents/additives/sodium-chloride/), 0.05% [ddm](/reagents/detergents/ddm/), 2 mM [selatogrel](/reagents/ligands/selatogrel/)
+- **Detergent**: [ddm](//xray-mp-wiki/reagents/detergents/ddm/) (n-dodecyl-β-D-maltopyranoside) for membrane solubilization
+- **Purification**: [imac](//xray-mp-wiki/methods/purification/imac/) (Ni-NTA immobilized metal affinity chromatography), elution in presence of 2 mM [selatogrel](//xray-mp-wiki/reagents/ligands/selatogrel/)
+- **SEC**: [superdex-columns](//xray-mp-wiki/methods/purification/superdex-columns/) increase column, buffer containing 20 mM [hepes-buffer](//xray-mp-wiki/reagents/buffers/hepes-buffer/) pH 7.5, 150 mM [sodium-chloride](//xray-mp-wiki/reagents/additives/sodium-chloride/), 0.05% [ddm](//xray-mp-wiki/reagents/detergents/ddm/), 2 mM [selatogrel](//xray-mp-wiki/reagents/ligands/selatogrel/)
 
 ## Crystallization
 
-- **Method**: [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) (LCP) — [monoolein](/methods/crystallization/monoolein/)-based mesophase
-- **Lipid**: [monoolein](/methods/crystallization/monoolein/) (Sigma M8410)
+- **Method**: [lipidic-cubic-phase](//xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (LCP) — [monoolein](//xray-mp-wiki/methods/crystallization/monoolein/)-based mesophase
+- **Lipid**: [monoolein](//xray-mp-wiki/methods/crystallization/monoolein/) (Sigma M8410)
 - **Protein-to-lipid ratio**: 1:1.5 (w/w)
-- **Precipitant**: 0.1 M [sodium-citrate](/reagents/additives/sodium-citrate/) pH 5.6, 18–20% [peg-400](/reagents/additives/peg-400/)
+- **Precipitant**: 0.1 M [sodium-citrate](//xray-mp-wiki/reagents/additives/sodium-citrate/) pH 5.6, 18–20% [peg-400](//xray-mp-wiki/reagents/additives/peg-400/)
 - **Temperature**: 20 °C
 - **Crystal growth**: 1–2 weeks
 
 ## Pharmacology
 
-- **[selatogrel](/reagents/ligands/selatogrel/)**: Reversible, highly selective antagonist; Kd = 1.5 nM; IC50 = 14 nM for ADP-induced aggregation
-- **Inverse agonism**: [selatogrel](/reagents/ligands/selatogrel/) completely abolishes constitutive P2Y12 activity in human platelets
-- **100-fold more potent than [ticagrelor](/reagents/ligands/ticagrelor/)** in inverse agonist efficacy
-- **Clinical profile**: Improved blood-loss profile vs. [clopidogrel](/reagents/ligands/clopidogrel/) and [ticagrelor](/reagents/ligands/ticagrelor/) at equivalent antithrombotic efficacy
-- **No off-target effects** on vascular tone regulation (unlike [ticagrelor](/reagents/ligands/ticagrelor/))
+- **[selatogrel](//xray-mp-wiki/reagents/ligands/selatogrel/)**: Reversible, highly selective antagonist; Kd = 1.5 nM; IC50 = 14 nM for ADP-induced aggregation
+- **Inverse agonism**: [selatogrel](//xray-mp-wiki/reagents/ligands/selatogrel/) completely abolishes constitutive P2Y12 activity in human platelets
+- **100-fold more potent than [ticagrelor](//xray-mp-wiki/reagents/ligands/ticagrelor/)** in inverse agonist efficacy
+- **Clinical profile**: Improved blood-loss profile vs. [clopidogrel](//xray-mp-wiki/reagents/ligands/clopidogrel/) and [ticagrelor](//xray-mp-wiki/reagents/ligands/ticagrelor/) at equivalent antithrombotic efficacy
+- **No off-target effects** on vascular tone regulation (unlike [ticagrelor](//xray-mp-wiki/reagents/ligands/ticagrelor/))
 
 ## Binding Pocket
 
@@ -66,11 +66,11 @@ The P2Y12 receptor is a G-protein-coupled receptor (GPCR) expressed on platelets
 
 ## Related Ligands
 
-- **[ticagrelor](/reagents/ligands/ticagrelor/)**: Reversible P2Y12 antagonist with inverse agonist efficacy (market approved)
-- **[elinogrel](/reagents/ligands/elinogrel/)**: Reversible P2Y12 antagonist with inverse agonist efficacy
+- **[ticagrelor](//xray-mp-wiki/reagents/ligands/ticagrelor/)**: Reversible P2Y12 antagonist with inverse agonist efficacy (market approved)
+- **[elinogrel](//xray-mp-wiki/reagents/ligands/elinogrel/)**: Reversible P2Y12 antagonist with inverse agonist efficacy
 - **AZD1283**: Allosteric modulator (PDB: 4NTJ)
 - **2MeSADP**: Agonist (2-methylthioadenosine diphosphate)
-- **[clopidogrel](/reagents/ligands/clopidogrel/)**: Irreversible antagonist (market approved)
+- **[clopidogrel](//xray-mp-wiki/reagents/ligands/clopidogrel/)**: Irreversible antagonist (market approved)
 - **Prasugrel**: Irreversible antagonist (market approved)
 
 ## Therapeutic Relevance
@@ -80,7 +80,7 @@ The P2Y12 receptor is a G-protein-coupled receptor (GPCR) expressed on platelets
 
 ## Related GPCRs
 
-- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — Another GPCR with extensive structural studies
-- [opsin-gpcr](/proteins/opsin-gpcr/) — Class A GPCR structural model
-- [kappa-opioid-receptor](/proteins/kappa-opioid-receptor/) — Opioid GPCR with [nanobody](/reagents/antibodies/nanobody/) stabilization
-- [5ht2b-receptor](/proteins/5ht2b-receptor/) — Serotonin GPCR with [bril](/reagents/protein-tags/bril/) fusion and [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) crystallization
+- [a2a-adenosine-receptor](//xray-mp-wiki/proteins/a2a-adenosine-receptor/) — Another GPCR with extensive structural studies
+- [opsin-gpcr](//xray-mp-wiki/proteins/opsin-gpcr/) — Class A GPCR structural model
+- [kappa-opioid-receptor](//xray-mp-wiki/proteins/kappa-opioid-receptor/) — Opioid GPCR with [nanobody](//xray-mp-wiki/reagents/antibodies/nanobody/) stabilization
+- [5ht2b-receptor](//xray-mp-wiki/proteins/5ht2b-receptor/) — Serotonin GPCR with [bril](//xray-mp-wiki/reagents/protein-tags/bril/) fusion and [lipidic-cubic-phase](//xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) crystallization

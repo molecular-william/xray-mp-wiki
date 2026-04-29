@@ -32,8 +32,8 @@ MOPS (3-(N-morpholino)propanesulfonic acid) is a Good's buffer commonly used in 
 
 ## Cross-References
 
-- [hepes-buffer](/reagents/buffers/hepes-buffer/) — Alternative near-neutral buffer
-- [tris-buffer](/reagents/buffers/tris-buffer/) — Tris buffer
-- [mes-buffer](/reagents/buffers/mes-buffer/) — Acidic pH buffer
-- [bis-tris-propane](/reagents/buffers/bis-tris-propane/) — BTP buffer
-- [secyeg-translocon](/proteins/secyeg-translocon/) — SecYEG crystallized with MOPS
+- [hepes-buffer](//xray-mp-wiki/reagents/buffers/hepes-buffer/) — Alternative near-neutral buffer
+- [tris-buffer](//xray-mp-wiki/reagents/buffers/tris-buffer/) — Tris buffer
+- [mes-buffer](//xray-mp-wiki/reagents/buffers/mes-buffer/) — Acidic pH buffer
+- [bis-tris-propane](//xray-mp-wiki/reagents/buffers/bis-tris-propane/) — BTP buffer
+- [secyeg-translocon](//xray-mp-wiki/proteins/secyeg-translocon/) — SecYEG crystallized with MOPS

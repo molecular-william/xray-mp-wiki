@@ -20,9 +20,9 @@ Antibody fragments (Fab, nanobodies, camelid single-domain antibodies) are used 
 
 ## Proteins Using Fab (from this wiki)
 
-- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — [fab-fragments](/reagents/antibodies/fab-fragments/) fragment used with [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/)-Rag31 for agonist-bound structure determination
-  - PhotoNECA (blue)-bound [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/)-Rag31 complexed with [fab-fragments](/reagents/antibodies/fab-fragments/)
-  - Gel filtration used to prepare complex for [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) crystallization
+- [a2a-adenosine-receptor](//xray-mp-wiki/proteins/a2a-adenosine-receptor/) — [fab-fragments](//xray-mp-wiki/reagents/antibodies/fab-fragments/) fragment used with [a2a-adenosine-receptor](//xray-mp-wiki/proteins/a2a-adenosine-receptor/)-Rag31 for agonist-bound structure determination
+  - PhotoNECA (blue)-bound [a2a-adenosine-receptor](//xray-mp-wiki/proteins/a2a-adenosine-receptor/)-Rag31 complexed with [fab-fragments](//xray-mp-wiki/reagents/antibodies/fab-fragments/)
+  - Gel filtration used to prepare complex for [lipidic-cubic-phase](//xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) crystallization
   - Enabled structure determination at 3.34 Å (PDB: 8WDT)
 
 ## Types of Crystallization Facilitators
@@ -34,5 +34,5 @@ Antibody fragments (Fab, nanobodies, camelid single-domain antibodies) are used 
 
 ## Related Crystallization Methods
 
-- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) — [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) method commonly used with Fab facilitators
-- [vapor-diffusion](/methods/crystallization/vapor-diffusion/) — Alternative crystallization method
+- [lipidic-cubic-phase](//xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — [lipidic-cubic-phase](//xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) method commonly used with Fab facilitators
+- [vapor-diffusion](//xray-mp-wiki/methods/crystallization/vapor-diffusion/) — Alternative crystallization method
