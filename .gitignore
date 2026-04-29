@@ -1,31 +1,64 @@
-# Bundler
-/vendor/bundle
-/vendor/cache
-/vendor/cache/gems
-/vendor/cache/ruby
-/vendor/cache/ruby/gems
+# Jekyll build output
+_site/
+_cache/
 
-# RubyGems
-*.gem
-*.gemspec
+# Bundler
+.bundle/
+vendor/
+Gemfile.lock
 
 # Jekyll
-_site
-_cache
-.DS_Store
-*.swp
-*.tmp
+.jekyll-cache/
+log.md
 
-# Editor
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor/IDE
 .idea/
 .vscode/
-*.sublime-*
+*.sublime-project
+*.sublime-workspace
+*.sublime-settings
+*.swp
+*.swo
+*~
 
-# Logs
-*.log
-logs/
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
 
-# Test
+# Tests
 .rubocop.yml
 .rubocop_todo.yml
 .rubocop_cache/
+*.gem
+Gemfile.lock
+
+# Build scripts (not needed for GH Pages)
+jekyll-serve.sh
+serve.sh
+Rakefile
+build.sh
+Makefile
+
+# Local configuration (if any)
+_config.local.yml
+.env
+.env.local
+
+# Coverage reports
+coverage/
+.coverage
+htmlcov/
+.cov/
+
+# Documentation artifacts
+docs/_build/
+docs/build/
