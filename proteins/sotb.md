@@ -7,6 +7,7 @@ type: protein
 tags: [transporter, membrane-protein, pump]
 sources: [doi/10.1016##j.bbrc.2020.11.096]
 ---
+layout: default
 
 
 # SotB

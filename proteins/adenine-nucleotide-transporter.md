@@ -8,6 +8,7 @@ tags: [transporter, pump]
 sources: [doi/10.1016##j.cell.2018.11.025, doi/10.1016##J.FEBSLET.2005.09.061]
 
 ---
+layout: default
 
 
 # ADP/ATP Carrier (AAC)

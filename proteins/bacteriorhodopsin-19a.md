@@ -6,6 +6,7 @@ type: protein
 tags: [gpcr, proton-pump, membrane-protein, xray-crystallography, lipidic-cubic-phase, retinal-protein]
 sources: [doi/10.1016##S0969-2126(99)80118-X]
 ---
+layout: default
 
 # Bacteriorhodopsin (bR) — Purple Membrane at 1.9 Å Resolution
 

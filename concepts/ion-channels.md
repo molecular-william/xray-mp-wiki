@@ -8,6 +8,7 @@ tags: [ion-channel, membrane-protein]
 sources: [doi/10.1016##J.CELL.2010.05.003, doi/10.1016##j.cell.2019.06.031, doi/10.1016##j.jmb.2020.06.012]
 
 ---
+layout: default
 
 
 # Ion Channels

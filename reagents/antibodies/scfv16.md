@@ -6,6 +6,7 @@ type: reagent
 tags: [additive-antibody]
 sources: [doi/10.1016##j.cell.2020.01.008]
 ---
+layout: default
 
 # scFv16
 

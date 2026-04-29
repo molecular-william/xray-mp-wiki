@@ -6,6 +6,7 @@ type: reagent
 tags: [buffer-phosphate]
 sources: [doi/10.1007##s10969-013-9154-x]
 ---
+layout: default
 
 
 

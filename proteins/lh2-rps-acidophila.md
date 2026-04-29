@@ -6,6 +6,7 @@ type: protein
 tags: [light-harvesting, photosynthesis, membrane-protein, xray-crystallography, pigment-protein]
 sources: [doi/10.1016##S0022-2836(03)00024-X]
 ---
+layout: default
 
 # LH2 — Light-Harvesting Complex 2 from *Rhodopseudomonas acidophila*
 

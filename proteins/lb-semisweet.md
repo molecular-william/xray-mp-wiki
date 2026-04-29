@@ -8,6 +8,7 @@ tags: [transporter, membrane-protein]
 sources: [doi/10.1016##j.cell.2017.03.010]
 
 ---
+layout: default
 
 
 # LbSemiSWEET

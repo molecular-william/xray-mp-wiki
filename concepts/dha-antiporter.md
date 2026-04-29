@@ -8,6 +8,7 @@ tags: [transporter, membrane-protein]
 sources: [doi/10.1016##j.bbrc.2020.11.096]
 
 ---
+layout: default
 
 
 # Drug-Proton Antiporters (DHA)

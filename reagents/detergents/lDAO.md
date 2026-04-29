@@ -8,6 +8,7 @@ tags: [detergent-zwitterionic, detergent-mild]
 sources: [doi/10.1006##jmbi.1994.0097, doi/10.1016##J.JMB.2004.08.090, doi/10.1016##J.JMB.2007.03.007]
 
 ---
+layout: default
 
 
 # LDAO (Lauryldimethylamine N-Oxide)

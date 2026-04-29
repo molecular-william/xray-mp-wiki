@@ -6,6 +6,7 @@ type: protein
 tags: [transporter, mfs-transporter, membrane-protein, xray-crystallography, alternating-access]
 sources: [doi/10.1016##J.STR.2014.12.012]
 ---
+layout: default
 
 # PepTSo — Proton-Coupled Oligopeptide Transporter from Shewanella oneidensis
 

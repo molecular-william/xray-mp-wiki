@@ -6,6 +6,7 @@ type: protein
 tags: [enzyme, membrane-protein, receptor]
 sources: [doi/10.1016##j.cell.2020.03.045]
 ---
+layout: default
 
 # Angiotensin-Converting Enzyme 2 (ACE2)
 

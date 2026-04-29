@@ -8,6 +8,7 @@ tags: [gpcr, membrane-protein, receptor]
 sources: [doi/10.1016##j.cell.2015.06.002]
 
 ---
+layout: default
 
 
 # LPA1 Receptor

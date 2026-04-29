@@ -8,6 +8,7 @@ tags: [additive-antibody]
 sources: [doi/10.1016##j.bbrc.2023.149393]
 
 ---
+layout: default
 
 
 # Fab Fragments for GPCR Crystallization

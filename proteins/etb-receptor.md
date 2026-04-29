@@ -8,6 +8,7 @@ tags: [gpcr, receptor, membrane-protein]
 sources: [doi/10.1016##j.bbrc.2019.12.091]
 
 ---
+layout: default
 
 
 # Endothelin ETB Receptor

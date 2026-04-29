@@ -6,6 +6,7 @@ type: reagent
 tags: [detergent-neopentyl-glycol]
 sources: [doi/10.1002##anie.201302374]
 ---
+layout: default
 
 # OGNG (Octyl Glucose Neopentyl Glycol)
 

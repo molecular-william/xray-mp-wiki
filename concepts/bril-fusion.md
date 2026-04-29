@@ -8,6 +8,7 @@ tags: [sample-preparation, additive-stabilizer]
 sources: [doi:10.1016##j.cell.2015.04.011, doi:10.1016##j.cell.2018.12.006]
 
 ---
+layout: default
 
 
 # BRIL Fusion Technology

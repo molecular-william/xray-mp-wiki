@@ -8,6 +8,7 @@ tags: [transporter, membrane-protein, pump]
 sources: [doi/10.1073##pnas.1901346116, doi/10.1016##j.cell.2019.01.003, doi/10.1016##j.jmb.2020.05.019]
 
 ---
+layout: default
 
 
 # MmpL3 (Mycobacterial Membrane Protein Large 3)

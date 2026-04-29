@@ -6,6 +6,7 @@ type: reagent
 tags: [detergent-nonionic, detergent-mild]
 sources: [doi/10.1002##1873-3468.14136, doi/10.1002##anie.201302374, doi/10.1016##j.bbabio.2023.148986, doi/10.1007##s10969-013-9154-x]
 ---
+layout: default
 
 
 # DDM (n-Dodecyl-β-D-Maltopyranoside)

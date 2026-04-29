@@ -8,6 +8,7 @@ tags: [additive-ligand]
 sources: [doi/10.1016##j.cell.2018.11.025]
 
 ---
+layout: default
 
 
 # Bongkrekic Acid

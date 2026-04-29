@@ -6,6 +6,7 @@ type: reagent
 tags: [buffer-hepes]
 sources: [doi/10.1002##1873-3468.14136]
 ---
+layout: default
 
 
 

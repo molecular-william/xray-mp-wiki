@@ -8,6 +8,7 @@ tags: []
 sources: [doi/10.1016##j.cell.2018.12.006]
 
 ---
+layout: default
 
 
 # S1I8 Angiotensin II Analog

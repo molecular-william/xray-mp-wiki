@@ -6,6 +6,7 @@ type: protein
 tags: [gpcr, receptor, membrane-protein, xray-crystallography, adenosine-receptor]
 sources: [doi/10.1016##j.cell.2017.01.042]
 ---
+layout: default
 
 # Adenosine A1 Receptor (A1-AR)
 

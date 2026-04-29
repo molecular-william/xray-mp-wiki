@@ -8,6 +8,7 @@ tags: [detergent-nonionic]
 sources: [doi/10.1016##j.cell.2018.12.006]
 
 ---
+layout: default
 
 
 # MNG Detergent (Maltose Neopentyl Glycol)

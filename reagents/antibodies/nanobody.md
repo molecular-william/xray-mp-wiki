@@ -6,6 +6,7 @@ type: reagent
 tags: [additive-antibody, sample-preparation]
 sources: [doi/10.1016##j.cell.2017.12.011, doi/10.1016##j.cell.2018.12.006]
 ---
+layout: default
 
 # Nanobody
 

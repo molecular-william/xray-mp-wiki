@@ -8,6 +8,7 @@ tags: [gpcr, membrane-protein, receptor]
 sources: [doi/10.1016##j.bcp.2022.115291]
 
 ---
+layout: default
 
 
 # P2Y12 Receptor

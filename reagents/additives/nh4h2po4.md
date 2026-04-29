@@ -8,6 +8,7 @@ tags: [additive-salt, additive-ph]
 sources: [doi/10.1002##1873-3468.14136]
 
 ---
+layout: default
 
 
 # Ammonium Dihydrogen Phosphate (NH4H2PO4)

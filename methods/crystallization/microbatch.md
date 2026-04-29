@@ -8,6 +8,7 @@ tags: [crystallization-microbatch]
 sources: [doi/10.1107##S2052252520012142, doi/10.7554##eLife.27829, doi/10.1073##pnas.0910365106]
 
 ---
+layout: default
 
 
 # Microbatch Crystallization

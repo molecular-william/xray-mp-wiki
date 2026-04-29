@@ -8,6 +8,7 @@ tags: [transporter, membrane-protein]
 sources: [doi/10.1007##s10969-013-9154-x, doi/10.1016##J.JMB.2009.04.001]
 
 ---
+layout: default
 
 
 # AcrB (Acriflavine Resistance Protein B)

@@ -8,6 +8,7 @@ tags: [gpcr, receptor]
 sources: [doi/10.1016##j.cell.2018.12.006, doi/10.1016##j.cell.2015.04.011]
 
 ---
+layout: default
 
 
 # Angiotensin II Type 1 Receptor (AT1R)

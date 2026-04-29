@@ -8,6 +8,7 @@ tags: [ion-channel, channel, membrane-protein]
 sources: [doi/10.1016##J.CELL.2010.05.003]
 
 ---
+layout: default
 
 
 # KirBac Potassium Channel

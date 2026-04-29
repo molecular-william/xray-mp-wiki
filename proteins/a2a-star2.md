@@ -6,6 +6,7 @@ type: protein
 tags: [gpcr, receptor]
 sources: [doi/10.1002##anie.202115545]
 ---
+layout: default
 
 # A2A-STAR2
 

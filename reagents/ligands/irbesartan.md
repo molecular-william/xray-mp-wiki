@@ -8,6 +8,7 @@ tags: [additive-ligand]
 sources: [doi/10.1016##j.cell.2015.04.011]
 
 ---
+layout: default
 
 
 # Irbesartan

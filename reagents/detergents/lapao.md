@@ -8,6 +8,7 @@ tags: [detergent-zwitterionic, detergent-mild]
 sources: [doi/10.1016##J.FEBSLET.2005.09.061]
 
 ---
+layout: default
 
 
 # LAPAO Detergent

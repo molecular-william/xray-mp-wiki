@@ -8,6 +8,7 @@ tags: [transporter, membrane-protein]
 sources: [doi/10.1016##j.jbc.2021.100479]
 
 ---
+layout: default
 
 
 # NupG Nucleoside Transporter

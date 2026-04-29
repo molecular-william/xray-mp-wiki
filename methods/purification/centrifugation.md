@@ -6,6 +6,7 @@ type: method
 tags: [purification-fractionation]
 sources: [doi/10.1002##1873-3468.14136, doi/10.1016##j.bbabio.2023.148986]
 ---
+layout: default
 
 # Centrifugation in Membrane Protein Workflows
 

@@ -6,6 +6,7 @@ type: reagent
 tags: [buffer-imidazole]
 sources: [doi/10.1016##j.celrep.2015.04.045]
 ---
+layout: default
 
 # Bis-Tris Propane Chloride
 

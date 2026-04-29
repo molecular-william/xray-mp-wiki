@@ -8,6 +8,7 @@ tags: [additive-antibody]
 sources: [doi/10.1016##j.cell.2017.12.011]
 
 ---
+layout: default
 
 
 # Nanobody Nb39

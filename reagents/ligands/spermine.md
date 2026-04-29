@@ -8,6 +8,7 @@ tags: [additive-ligand]
 sources: [doi/10.1016##j.cell.2010.05.003]
 
 ---
+layout: default
 
 
 # Spermine

@@ -8,6 +8,7 @@ tags: [gpcr, membrane-protein, receptor]
 sources: [doi/10.1016##j.cell.2016.12.033]
 
 ---
+layout: default
 
 
 # 5-HT2B Receptor

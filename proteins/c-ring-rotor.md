@@ -6,6 +6,7 @@ type: protein
 tags: [rotor, atp-synthase, membrane-protein, ion-channel, xray-crystallography]
 sources: [doi/10.1016##J.JMB.2009.05.082, doi/10.1126##science.1108259]
 ---
+layout: default
 
 # c-Ring — c11 Rotor Ring from *Ilyobacter tartaricus* Na+-ATP Synthase
 

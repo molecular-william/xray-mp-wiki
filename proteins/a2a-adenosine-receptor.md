@@ -8,6 +8,7 @@ tags: [gpcr, membrane-protein, receptor]
 sources: [doi/10.1002##anie.202115545, doi/10.1016##j.bbrc.2023.149393]
 
 ---
+layout: default
 
 
 # A2A Adenosine Receptor (A2AAR)

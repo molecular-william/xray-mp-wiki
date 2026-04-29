@@ -8,6 +8,7 @@ tags: [detergent-nonionic, detergent-mild]
 sources: [doi/10.1002##anie.201302374]
 
 ---
+layout: default
 
 
 # OG (n-Octyl β-D-Glucopyranoside)

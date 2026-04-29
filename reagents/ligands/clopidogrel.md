@@ -8,6 +8,7 @@ tags: [additive-ligand]
 sources: [doi/10.1038##nature13083, doi/10.1016##j.bcp.2022.115291]
 
 ---
+layout: default
 
 
 # Clopidogrel (Plavix)

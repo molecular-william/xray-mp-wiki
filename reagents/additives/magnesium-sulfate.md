@@ -6,6 +6,7 @@ type: reagent
 tags: [additive-salt]
 sources: [doi/10.1016##j.celrep.2015.10.025]
 ---
+layout: default
 
 # Magnesium Sulfate
 

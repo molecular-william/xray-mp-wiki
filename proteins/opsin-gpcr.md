@@ -6,6 +6,7 @@ type: protein
 tags: [gpcr, membrane-protein, receptor]
 sources: [doi/10.1002##anie.201302374, doi/10.1016##J.JMB.2004.08.090, doi/10.1016##J.JMB.2007.03.007]
 ---
+layout: default
 
 # Opsin — Rhodopsin Apoprotein
 

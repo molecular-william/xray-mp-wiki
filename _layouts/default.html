@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header>
+    <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+  </header>
+  <main>
+    <nav class="sidebar">
+      <h3>Categories</h3>
+      <ul>
+        <li><a href="{{ '/categories/proteins/' | relative_url }}">Proteins</a></li>
+        <li><a href="{{ '/categories/detergents/' | relative_url }}">Detergents</a></li>
+        <li><a href="{{ '/categories/buffers/' | relative_url }}">Buffers</a></li>
+        <li><a href="{{ '/categories/additives/' | relative_url }}">Additives</a></li>
+        <li><a href="{{ '/categories/lipids/' | relative_url }}">Lipids</a></li>
+        <li><a href="{{ '/categories/methods/' | relative_url }}">Methods</a></li>
+        <li><a href="{{ '/categories/antibodies/' | relative_url }}">Antibodies</a></li>
+        <li><a href="{{ '/categories/ligands/' | relative_url }}">Ligands</a></li>
+        <li><a href="{{ '/categories/protein-tags/' | relative_url }}">Protein Tags</a></li>
+      </ul>
+    </nav>
+    <div class="content">
+      {{ content }}
+    </div>
+  </main>
+</body>
+</html>

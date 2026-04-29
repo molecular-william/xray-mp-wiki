@@ -6,6 +6,7 @@ type: protein
 tags: [membrane-protein, immunoreceptor, signaling]
 sources: [doi/10.1016##j.celrep.2015.04.045]
 ---
+layout: default
 
 # DAP12 (DNAX-Activating Protein 12 kDa)
 
