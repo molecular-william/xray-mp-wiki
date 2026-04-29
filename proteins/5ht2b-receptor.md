@@ -22,7 +22,7 @@ The 5-HT2B receptor is a serotonin GPCR that mediates the effects of LSD and oth
 
 - **PDB ID**: 5TVN
 - **Resolution**: 2.9 Å (29.2–2.9 Å range)
-- **Method**: [xray-crystallography](/methods/structure-determination/xray-crystallography.md), [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase.md) (LCP)
+- **Method**: [xray-crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography.md), [lipidic-cubic-phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase.md) (LCP)
 - **Construct**: 5-HT2B-ΔN/ΔICL3_BRIL/ΔC (N-terminal truncation, [bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion in ICL3, C-terminal truncation)
 - **Ligand**: LSD (lysergic acid diethylamide)
 - **Space group**: C222₁
