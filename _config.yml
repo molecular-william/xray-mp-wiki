@@ -2,6 +2,9 @@ theme: minima
 title: molecular-william's wiki on Xray-crystallography
 description: This wiki is focused on reagents and procedures of Xray-crystallography for membrane proteins.
 author: molecular-william
+<<<<<<< HEAD
 baseurl: "/xray-detergent-wiki"
 url: "https://molecular-william.github.io"
 permalink: pretty
+=======
+>>>>>>> b990d190f0a10580f8979a2aeb802576b3509637
