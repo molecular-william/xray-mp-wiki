@@ -17,4 +17,4 @@ This wiki contains pages organized into the categories above. Browse the categor
 
 ## Documentation
 
-See [SCHEMA.md](SCHEMA.md) for the wiki structure and schema.
+See [SCHEMA.md](/SCHEMA/) for the wiki structure and schema.
