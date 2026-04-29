@@ -5,6 +5,7 @@ updated: 2026-04-28
 type: protein
 tags: [transporter, mfs-transporter, membrane-protein, xray-crystallography, alternating-access]
 sources: [doi/10.1016##J.STR.2014.12.012]
+category: proteins
 ---
 layout: default
 

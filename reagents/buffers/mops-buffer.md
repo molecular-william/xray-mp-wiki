@@ -5,6 +5,7 @@ updated: 2026-04-28
 type: reagent
 tags: [buffer-morpholine]
 sources: [doi/10.1016##j.celrep.2015.10.025]
+category: reagents
 ---
 layout: default
 

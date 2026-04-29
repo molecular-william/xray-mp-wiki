@@ -7,6 +7,7 @@ type: reagent
 tags: [precipitant-salt, crystallization-buffer]
 sources: [doi/10.1016##j.cell.2016.09.056, doi/10.1016##j.cell.2019.06.031, doi/10.1016##J.FEBSLET.2005.09.061, doi/10.1016##j.jbc.2021.100479]
 
+category: reagents
 ---
 layout: default
 

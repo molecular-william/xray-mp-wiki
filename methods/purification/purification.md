@@ -1,6 +1,7 @@
 ---
 title: Purification Methods
 type: method
+category: methods
 ---
 
 # Purification Methods

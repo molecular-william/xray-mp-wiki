@@ -1,6 +1,7 @@
 ---
 title: Crystallization Methods
 type: method
+category: methods
 ---
 
 # Crystallization Methods

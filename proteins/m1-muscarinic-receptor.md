@@ -5,6 +5,7 @@ updated: 2026-04-28
 type: protein
 tags: [gpcr, membrane-protein, receptor]
 sources: [doi/10.1016##j.cell.2021.11.001]
+category: proteins
 ---
 layout: default
 
@@ -123,7 +124,7 @@ The thermostabilized M1 receptor (M1-StaR) enabled crystallization:
 - [molecular-replacement](/methods/structure-determination/molecular-replacement/) — Phaser MR (PDB: 2VT4)
 - [imidazole](/reagents/additives/imidazole/) — Imidazole for Ni-NTA elution
 - [htl9936](/reagents/ligands/htl9936/) — Selective M1 partial agonist (drug candidate for AD)
-- [[77-lh-28-1]] — Agonist used for initial structure determination
-- [[gsk1034702]] — Bitopic M1 agonist (clinical candidate, withdrawn)
-- [[gpcr]] — Class A GPCR
+- [77-lh-28-1](/77-lh-28-1) — Agonist used for initial structure determination
+- [gsk1034702](/gsk1034702) — Bitopic M1 agonist (clinical candidate, withdrawn)
+- [gpcr](/gpcr) — Class A GPCR
 - [microfluidizer](/methods/cell-lysis/microfluidizer/) — Cell disruption method

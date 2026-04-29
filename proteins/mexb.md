@@ -5,6 +5,7 @@ updated: 2026-04-28
 type: protein
 tags: [transporter, rnd-transporter, membrane-protein, multidrug-resistance, xray-crystallography]
 sources: [doi/10.1016##J.JMB.2009.04.001]
+category: proteins
 ---
 layout: default
 

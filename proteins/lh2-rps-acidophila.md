@@ -5,6 +5,7 @@ updated: 2026-04-28
 type: protein
 tags: [light-harvesting, photosynthesis, membrane-protein, xray-crystallography, pigment-protein]
 sources: [doi/10.1016##S0022-2836(03)00024-X]
+category: proteins
 ---
 layout: default
 

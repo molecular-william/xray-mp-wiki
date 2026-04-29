@@ -6,6 +6,7 @@ updated: 2026-04-28
 type: protein
 tags: [membrane-protein, enzyme, pump]
 sources: [doi/10.1006##jmbi.1994.0097, doi/10.1016##j.bbabio.2013.11.015]
+category: proteins
 ---
 layout: default
 

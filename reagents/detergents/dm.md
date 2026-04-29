@@ -9,6 +9,7 @@ tags: [detergent-mild]
 sources: [doi/10.1002##anie.201302374]
 
 
+category: reagents
 ---
 layout: default
 

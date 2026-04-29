@@ -5,6 +5,7 @@ updated: 2026-04-28
 type: protein
 tags: [membrane-protein, channel, protein-translocation]
 sources: [doi/10.1016##j.celrep.2015.10.025]
+category: proteins
 ---
 layout: default
 
@@ -127,4 +128,4 @@ The SecYEG translocon is a conserved protein-conducting channel in bacterial mem
 - [magnesium-sulfate](/reagents/additives/magnesium-sulfate/) — MgSO4 in crystallization
 - [sodium-sulfate](/reagents/additives/sodium-sulfate/) — Na2SO4 in crystallization
 - [peg-5000](/reagents/additives/peg-5000/) — PEG 500 MME precipitant
-- [[trihexylamine]] — Triethylamine (implied by Tris)
+- [trihexylamine](/trihexylamine) — Triethylamine (implied by Tris)

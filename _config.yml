@@ -9,19 +9,19 @@ permalink: pretty
 collections:
   proteins:
     output: true
-    permalink: /xray-mp-wiki/proteins/:name/
+    permalink: /proteins/:name/
   reagents:
     output: true
-    permalink: /xray-mp-wiki/reagents/:name/
+    permalink: /reagents/:name/
   methods:
     output: true
-    permalink: /xray-mp-wiki/methods/:name/
+    permalink: /methods/:name/
   concepts:
     output: true
-    permalink: /xray-mp-wiki/concepts/:name/
+    permalink: /concepts/:name/
   categories:
     output: true
-    permalink: /xray-mp-wiki/categories/:name/
+    permalink: /categories/:name/
 
 defaults:
   - scope:

@@ -5,6 +5,7 @@ updated: 2026-04-28
 type: reagent
 tags: [buffer-imidazole]
 sources: [doi/10.1016##j.celrep.2015.04.045]
+category: reagents
 ---
 layout: default
 

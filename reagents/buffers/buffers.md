@@ -1,6 +1,7 @@
 ---
 title: Buffers
 type: reagent
+category: reagents
 ---
 
 # Buffers

@@ -9,6 +9,7 @@ tags: [solubilization-detergent, membrane-protein, sample-preparation]
 sources: [doi/10.1016##j.jmb.2009.08.029, doi/10.1016##j.cell.2017.01.042, doi/10.1016##j.cell.2017.03.010, doi/10.1016##j.bbrc.2019.12.091, doi/10.1016##j.str.2018.10.027, doi/10.1016##j.jmb.2018.02.026, doi/10.1073##PNAS.1105687108, doi/10.1016##j.cell.2018.11.025, doi/10.1016##j.str.2020.11.014, doi/10.1038##s41586-018-0039-9, doi/10.7554##eLife.84006, doi/10.1074##jbc.RA120.014118]
 
 
+category: methods
 ---
 layout: default
 

@@ -7,6 +7,7 @@ type: reagent
 tags: [additive-ligand]
 sources: [doi/10.1016##j.cell.2019.01.003]
 
+category: reagents
 ---
 layout: default
 

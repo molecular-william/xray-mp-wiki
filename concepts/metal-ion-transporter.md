@@ -5,6 +5,7 @@ updated: 2026-04-27
 type: concept
 tags: [transporter, membrane-protein]
 sources: [doi/10.1002##pro.215]
+category: concepts
 ---
 layout: default
 

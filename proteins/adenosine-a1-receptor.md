@@ -5,6 +5,7 @@ updated: 2026-04-28
 type: protein
 tags: [gpcr, receptor, membrane-protein, xray-crystallography, adenosine-receptor]
 sources: [doi/10.1016##j.cell.2017.01.042]
+category: proteins
 ---
 layout: default
 

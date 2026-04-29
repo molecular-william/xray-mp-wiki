@@ -7,6 +7,7 @@ type: protein
 tags: [gpcr, membrane-protein, receptor]
 sources: [doi/10.1016##j.cell.2016.12.033]
 
+category: proteins
 ---
 layout: default
 

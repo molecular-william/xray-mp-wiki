@@ -7,6 +7,7 @@ type: reagent
 tags: [detergent-alkyl-glucoside]
 sources: [doi/10.1002##anie.201302374]
 
+category: reagents
 ---
 layout: default
 

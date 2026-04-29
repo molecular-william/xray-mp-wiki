@@ -6,6 +6,7 @@ updated: 2026-04-28
 type: protein
 tags: [transporter, membrane-protein, pump]
 sources: [doi/10.1016##j.bbrc.2020.11.096]
+category: proteins
 ---
 layout: default
 

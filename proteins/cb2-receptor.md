@@ -5,6 +5,7 @@ updated: 2026-04-28
 type: protein
 tags: [gpcr, membrane-protein]
 sources: [doi/10.1016##j.cell.2020.01.008]
+category: proteins
 ---
 layout: default
 
@@ -109,7 +110,7 @@ CB2 activation differs fundamentally from CB1:
 - **Cell harvest**: 48 h post-infection at 27°C, pellets stored at -80°C
 - **Detergent**: [lmng](/reagents/detergents/lmng/) (Lauryl Maltose Neopentyl Glycol, Anatrace Cat#4216588) for membrane solubilization
 - **Lipid**: [cholesterol-hydrogen-succinate](/reagents/lipids/cholesterol-hydrogen-succinate/) (CHS, Sigma Cat#C6512) for stability
-- **Reductant**: [[tcep]] (TCEP, Thermo Fisher Cat#77720)
+- **Reductant**: [tcep](/tcep) (TCEP, Thermo Fisher Cat#77720)
 - **EDTA**: Ethylenediamine Tetraacetic Acid (Fisher Cat#S311-500)
 
 ### Hua et al. (Cell 2020) — X-ray Crystallography (CB2-AM12033)
@@ -151,4 +152,4 @@ CB2 activation differs fundamentally from CB1:
 - [am12033](/reagents/ligands/am12033/) — CB2-selective synthetic cannabinoid agonist
 - [am841](/reagents/ligands/am841/) — THC-like cannabinoid agonist (used for CB1 studies)
 - [hu-308](/reagents/ligands/hu-308/) — CB2-selective agonist (Ki = 22.7 nM CB2)
-- [[l-759,656]] — CB2-selective agonist (406x selective over CB1)
+- [l-759,656](/l-759,656) — CB2-selective agonist (406x selective over CB1)

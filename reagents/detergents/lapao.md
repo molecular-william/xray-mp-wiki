@@ -7,6 +7,7 @@ type: reagent
 tags: [detergent-zwitterionic, detergent-mild]
 sources: [doi/10.1016##J.FEBSLET.2005.09.061]
 
+category: reagents
 ---
 layout: default
 

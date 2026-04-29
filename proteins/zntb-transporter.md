@@ -7,6 +7,7 @@ type: protein
 tags: [transporter, membrane-protein, channel]
 sources: [doi/10.1002##pro.215]
 
+category: proteins
 ---
 layout: default
 

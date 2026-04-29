@@ -5,6 +5,7 @@ updated: 2026-04-27
 type: reagent
 tags: [detergent-neopentyl-glycol]
 sources: [doi/10.1002##anie.201302374]
+category: reagents
 ---
 layout: default
 

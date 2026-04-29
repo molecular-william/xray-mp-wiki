@@ -5,6 +5,7 @@ updated: 2026-04-28
 type: protein
 tags: [receptor, membrane-protein]
 sources: [doi/10.1016##j.cell.2020.03.045]
+category: proteins
 ---
 layout: default
 
@@ -103,4 +104,4 @@ The external subdomain of SARS-CoV-2-CTD contains key residues that contact hACE
 - [sf9-cells](/methods/expression-systems/sf9-cells/) — Sf9 insect cell expression
 - [tris-buffer](/reagents/buffers/tris-buffer/) — Tris-HCl SEC buffer
 - [sodium-chloride](/reagents/additives/sodium-chloride/) — NaCl in SEC buffer
-- [[sars-cov]] — SARS-CoV (structural comparison)
+- [sars-cov](/sars-cov) — SARS-CoV (structural comparison)

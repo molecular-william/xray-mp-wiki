@@ -7,6 +7,7 @@ type: protein
 tags: [ion-channel, channel]
 sources: [doi/10.1016##j.cell.2019.06.031]
 
+category: proteins
 ---
 layout: default
 

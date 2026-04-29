@@ -5,6 +5,7 @@ updated: 2026-04-28
 type: protein
 tags: [gpcr, receptor]
 sources: [doi/10.1002##anie.202115545]
+category: proteins
 ---
 layout: default
 

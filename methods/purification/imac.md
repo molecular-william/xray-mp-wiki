@@ -5,6 +5,7 @@ updated: 2026-04-28
 type: method
 tags: [purification-method, affinity-chromatography, chromatography]
 sources: []
+category: methods
 ---
 layout: default
 

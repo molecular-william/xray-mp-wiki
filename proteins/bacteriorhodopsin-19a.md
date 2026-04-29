@@ -5,6 +5,7 @@ updated: 2026-04-28
 type: protein
 tags: [gpcr, proton-pump, membrane-protein, xray-crystallography, lipidic-cubic-phase, retinal-protein]
 sources: [doi/10.1016##S0969-2126(99)80118-X]
+category: proteins
 ---
 layout: default
 

@@ -1,6 +1,7 @@
 ---
 title: Structure Determination
 type: method
+category: methods
 ---
 
 # Structure Determination

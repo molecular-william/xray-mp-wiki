@@ -5,6 +5,7 @@ updated: 2026-04-27
 type: reagent
 tags: [lipid]
 sources: [doi/10.1016##j.cell.2010.05.003]
+category: reagents
 ---
 layout: default
 

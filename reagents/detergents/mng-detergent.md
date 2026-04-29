@@ -7,6 +7,7 @@ type: reagent
 tags: [detergent-nonionic]
 sources: [doi/10.1016##j.cell.2018.12.006]
 
+category: reagents
 ---
 layout: default
 

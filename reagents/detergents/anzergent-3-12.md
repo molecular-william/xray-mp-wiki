@@ -9,6 +9,7 @@ tags: [detergent-nonionic, detergent-mild]
 sources: [doi/10.1016##j.cell.2010.05.003]
 
 
+category: reagents
 ---
 layout: default
 

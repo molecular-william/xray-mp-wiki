@@ -1,6 +1,7 @@
 ---
 title: Detergents
 type: reagent
+category: reagents
 ---
 
 # Detergents

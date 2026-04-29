@@ -7,6 +7,7 @@ type: protein
 tags: [membrane-protein, receptor]
 sources: [doi/10.1016##j.cell.2016.09.056]
 
+category: proteins
 ---
 layout: default
 

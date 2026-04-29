@@ -9,6 +9,7 @@ tags: [structure-determination-cryoem]
 sources: [doi/10.1016##j.bbabio.2023.148986, doi/10.1038##s41586-020-2646-5, doi/10.1016##j.cell.2019.06.031]
 
 
+category: methods
 ---
 layout: default
 
