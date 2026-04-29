@@ -31,5 +31,5 @@ Centrifugation is used throughout membrane protein workflows for cell lysis, mem
 
 ## Related Methods
 
-- [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography.html) — SEC after centrifugation clarification
-- [amicon-filters](/methods/purification/amicon-filters.html) — ultracentrifugal concentration
+- [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography/) — SEC after centrifugation clarification
+- [amicon-filters](/methods/purification/amicon-filters/) — ultracentrifugal concentration

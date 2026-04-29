@@ -45,6 +45,6 @@ Sodium citrate (sodium citrate dihydrate) is a weak acid buffer and precipitant 
 
 ## Related Reagents
 
-- [sodium-acetate](/reagents/additives/sodium-acetate.html) — Another acidic crystallization buffer (pH 4.0–5.5)
-- [sodium-chloride](/reagents/additives/sodium-chloride.html) — Common buffer salt
-- [peg-400](/reagents/additives/peg-400.html) — Common co-precipitant with sodium citrate
+- [sodium-acetate](/reagents/additives/sodium-acetate/) — Another acidic crystallization buffer (pH 4.0–5.5)
+- [sodium-chloride](/reagents/additives/sodium-chloride/) — Common buffer salt
+- [peg-400](/reagents/additives/peg-400/) — Common co-precipitant with sodium citrate

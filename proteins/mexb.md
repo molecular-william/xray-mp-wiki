@@ -94,8 +94,8 @@ The progression is ABC (not BAC), with each subunit cycling through binding → 
 
 ## Related Transporters
 
-- [acrB](/proteins/acrB.html) — *E. coli* RND multidrug exporter (69.8% identity with MexB)
-- [mmpL3](/proteins/mmpL3.html) — Mycobacterial drug transporter
+- [acrB](/proteins/acrB/) — *E. coli* RND multidrug exporter (69.8% identity with MexB)
+- [mmpL3](/proteins/mmpL3/) — Mycobacterial drug transporter
 
 ## References
 

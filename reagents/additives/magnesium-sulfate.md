@@ -31,5 +31,5 @@ Magnesium sulfate (MgSO4) is a divalent cation salt used in protein crystallizat
 ## Cross-References
 
 - [secyeg-translocon](/proteins/secyeg-translocon/) — SecYEG crystallized with MgSO4
-- [calcium-chloride](/reagents/additives/calcium-chloride.html) — Alternative divalent cation salt
-- [sodium-sulfate](/reagents/additives/sodium-sulfate.html) — Sodium sulfate (often paired with MgSO4)
+- [calcium-chloride](/reagents/additives/calcium-chloride/) — Alternative divalent cation salt
+- [sodium-sulfate](/reagents/additives/sodium-sulfate/) — Sodium sulfate (often paired with MgSO4)

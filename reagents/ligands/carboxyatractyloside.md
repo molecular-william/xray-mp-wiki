@@ -37,4 +37,4 @@ CATR binds in the central cavity of the AAC when it is in the cytoplasmic-open c
 ## Cross-References
 
 - [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) — Primary target; CATR locks the c-state
-- [bongkrekic-acid](/reagents/ligands/bongkrekic-acid.html) — Alternative AAC inhibitor; locks the m-state (opposite state from CATR)
+- [bongkrekic-acid](/reagents/ligands/bongkrekic-acid/) — Alternative AAC inhibitor; locks the m-state (opposite state from CATR)

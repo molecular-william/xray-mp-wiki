@@ -33,5 +33,5 @@ HEK293 cells are a widely used human cell line for transient expression of membr
 
 ## Related Assays
 
-- [coomassie-staining](/methods/quality-assessment/coomassie-staining.html) — SDS-PAGE for protein quality assessment
-- [superdex-columns](/methods/purification/superdex-columns.html) — SEC for sample monodispersity
+- [coomassie-staining](/methods/quality-assessment/coomassie-staining/) — SDS-PAGE for protein quality assessment
+- [superdex-columns](/methods/purification/superdex-columns/) — SEC for sample monodispersity

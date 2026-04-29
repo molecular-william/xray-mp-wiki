@@ -38,5 +38,5 @@ CHS is used to stabilize membrane proteins, particularly GPCRs, during purificat
 
 ## Related Reagents
 
-- [lmng](/reagents/detergents/lmng.html) — typically used together with CHS
+- [lmng](/reagents/detergents/lmng/) — typically used together with CHS
 - Cholesterol — native lipid form (less water-soluble)

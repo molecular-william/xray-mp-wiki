@@ -74,16 +74,16 @@ This study reveals **nonlinear rigid-body movements** during the transition from
 | Transporter | Family | Mechanism | States Captured |
 |-------------|--------|-----------|-----------------|
 | SotB | MFS (DHA1) | Drug-proton antiport | Occluded, inward-facing, inward-open |
-| [nTMATE2-transporter](/proteins/nTMATE2-transporter.html) | MATE | Nicotine-H⁺ antiport | Two outward-facing conformations |
-| [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter.html) | Mitochondrial carrier | Nucleotide antiport | Matrix-open, cytoplasmic-open |
-| [mmpL3](/proteins/mmpL3.html) | Resistin-like membrane protein | Lipid flippase | Apo + 4 inhibitor-bound |
+| [nTMATE2-transporter](/proteins/nTMATE2-transporter/) | MATE | Nicotine-H⁺ antiport | Two outward-facing conformations |
+| [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) | Mitochondrial carrier | Nucleotide antiport | Matrix-open, cytoplasmic-open |
+| [mmpL3](/proteins/mmpL3/) | Resistin-like membrane protein | Lipid flippase | Apo + 4 inhibitor-bound |
 
 ## Related Transporters
 
-- [nTMATE2-transporter](/proteins/nTMATE2-transporter.html) — MATE family transporter from tobacco
-- [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter.html) — Mitochondrial ADP/ATP carrier
-- [mmpL3](/proteins/mmpL3.html) — Mycobacterial lipid transporter
-- [nupg-nucleoside-transporter](/proteins/nupg-nucleoside-transporter.html) — E. coli MFS nucleoside transporter
+- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — MATE family transporter from tobacco
+- [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) — Mitochondrial ADP/ATP carrier
+- [mmpL3](/proteins/mmpL3/) — Mycobacterial lipid transporter
+- [nupg-nucleoside-transporter](/proteins/nupg-nucleoside-transporter/) — E. coli MFS nucleoside transporter
 
 ## Concepts
 

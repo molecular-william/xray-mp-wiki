@@ -32,13 +32,13 @@ PhotoNECA (blue) is a novel photoresponsive ligand designed for the adenosine A2
 - **Resolution**: 3.34 Å
 - **Construct**: [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/)-Rag31 (thermostabilized mutant)
 - **Expression**: [5ht2b-receptor](/proteins/5ht2b-receptor/) insect cells ([baculovirus-expression](/methods/expression-systems/baculovirus-expression/))
-- **Method**: [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) crystallization with trans-photo[neca](/reagents/ligands/neca.html) in dark/red light
-- **Facilitator**: [fab-fragments](/reagents/antibodies/fab-fragments.html) antibody fragment
+- **Method**: [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) crystallization with trans-photo[neca](/reagents/ligands/neca/) in dark/red light
+- **Facilitator**: [fab-fragments](/reagents/antibodies/fab-fragments/) antibody fragment
 - **Data collection**: [xray-crystallography](/methods/structure-determination/xray-crystallography/) BL32XU (391 datasets)
 
 ## Binding Mode
 
-- [neca](/reagents/ligands/neca.html) moiety binds in orthosteric site (similar to [neca](/reagents/ligands/neca.html)-bound [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/), PDB 2YDV)
+- [neca](/reagents/ligands/neca/) moiety binds in orthosteric site (similar to [neca](/reagents/ligands/neca/)-bound [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/), PDB 2YDV)
 - Photoswitching moiety occupies a hydrophobic pocket (Ser67^2.65, Leu167^ECL2, Leu267^7.32, Tyr271^7.36)
 - Cis-isomer cannot maintain stable binding — conformational clash
 - Hydrophobic pocket in [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) vs. polar pocket in A1R explains subtype selectivity
@@ -51,4 +51,4 @@ PhotoNECA (blue) is a novel photoresponsive ligand designed for the adenosine A2
 ## Related [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) Ligands
 
 - [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) protein page with multiple ligands
-- [selatogrel](/reagents/ligands/selatogrel.html) — Another GPCR ligand with structural determination
+- [selatogrel](/reagents/ligands/selatogrel/) — Another GPCR ligand with structural determination

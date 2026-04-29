@@ -72,11 +72,11 @@ The receptor consists of canonical 7 transmembrane helices (TM), amphipathic hel
 
 ## Related GPCRs
 
-- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor.html) — GPCR with [bril](/reagents/protein-tags/bril/) fusion and thermostabilization
-- [angiotensin-ii-type-1-receptor](/proteins/angiotensin-ii-type-1-receptor.html) — GPCR with SFX/XFEL and LCP crystallization
-- [5ht2b-receptor](/proteins/5ht2b-receptor.html) — Serotonin GPCR with BRIL fusion and LCP
-- [kappa-opioid-receptor](/proteins/kappa-opioid-receptor.html) — Opioid GPCR with [nanobody](/reagents/antibodies/nanobody/) stabilization
-- [p2y12-receptor](/proteins/p2y12-receptor.html) — GPCR with BRIL fusion and LCP crystallization
+- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — GPCR with [bril](/reagents/protein-tags/bril/) fusion and thermostabilization
+- [angiotensin-ii-type-1-receptor](/proteins/angiotensin-ii-type-1-receptor/) — GPCR with SFX/XFEL and LCP crystallization
+- [5ht2b-receptor](/proteins/5ht2b-receptor/) — Serotonin GPCR with BRIL fusion and LCP
+- [kappa-opioid-receptor](/proteins/kappa-opioid-receptor/) — Opioid GPCR with [nanobody](/reagents/antibodies/nanobody/) stabilization
+- [p2y12-receptor](/proteins/p2y12-receptor/) — GPCR with BRIL fusion and LCP crystallization
 
 ## References
 

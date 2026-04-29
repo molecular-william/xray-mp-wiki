@@ -58,8 +58,8 @@ Losartan binds to the ligand-binding pocket of the human angiotensin II type 1 r
 
 ## Related Ligands
 
-- [zd7155](/reagents/ligands/zd7155.html) — High-affinity antagonist, precursor to candesartan
-- [candesartan](/reagents/ligands/candesartan.html) — Insurmountable inverse agonist (ARB)
-- [valsartan](/reagents/ligands/valsartan.html) — Clinically used ARB
-- [irbesartan](/reagents/ligands/irbesartan.html) — Clinically used ARB
-- [telmisartan](/reagents/ligands/telmisartan.html) — Clinically used ARB
+- [zd7155](/reagents/ligands/zd7155/) — High-affinity antagonist, precursor to candesartan
+- [candesartan](/reagents/ligands/candesartan/) — Insurmountable inverse agonist (ARB)
+- [valsartan](/reagents/ligands/valsartan/) — Clinically used ARB
+- [irbesartan](/reagents/ligands/irbesartan/) — Clinically used ARB
+- [telmisartan](/reagents/ligands/telmisartan/) — Clinically used ARB

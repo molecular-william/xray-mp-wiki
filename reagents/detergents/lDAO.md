@@ -46,5 +46,5 @@ LDAO is a zwitterionic detergent historically used in early membrane protein cry
 
 ## Related Detergents
 
-- [ddm](/reagents/detergents/ddm.html) — non-ionic alternative, milder
-- [og](/reagents/detergents/og.html) — shorter chain, non-ionic
+- [ddm](/reagents/detergents/ddm/) — non-ionic alternative, milder
+- [og](/reagents/detergents/og/) — shorter chain, non-ionic

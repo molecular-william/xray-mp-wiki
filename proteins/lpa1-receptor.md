@@ -75,8 +75,8 @@ LPA1 (lysophosphatidic acid receptor 1) is a GPCR that binds lysophosphatidic ac
 
 ## Related GPCRs
 
-- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor.html) — Class A GPCR with bRIL fusion construct
-- [5ht2b-receptor](/proteins/5ht2b-receptor.html) — Serotonin GPCR with [bril](/reagents/protein-tags/bril/) fusion
-- [opsin-gpcr](/proteins/opsin-gpcr.html) — Class A GPCR structural template
-- [cd81-tetraspanin](/proteins/cd81-tetraspanin.html) — Cholesterol-binding membrane protein
-- [angiotensin-ii-type-1-receptor](/proteins/angiotensin-ii-type-1-receptor.html) — GPCR with SFX/XFEL and LCP crystallization
+- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — Class A GPCR with bRIL fusion construct
+- [5ht2b-receptor](/proteins/5ht2b-receptor/) — Serotonin GPCR with [bril](/reagents/protein-tags/bril/) fusion
+- [opsin-gpcr](/proteins/opsin-gpcr/) — Class A GPCR structural template
+- [cd81-tetraspanin](/proteins/cd81-tetraspanin/) — Cholesterol-binding membrane protein
+- [angiotensin-ii-type-1-receptor](/proteins/angiotensin-ii-type-1-receptor/) — GPCR with SFX/XFEL and LCP crystallization

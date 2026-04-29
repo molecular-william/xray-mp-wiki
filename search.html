@@ -12,7 +12,7 @@ permalink: /search/
 const wikiData = [
 {% for page in site.pages %}
   {
-    title: "{{ page.title | replace: '"', '\\'' }}",
+    title: "{{ page.title | escape_js }}",
     url: "{{ page.url }}",
     excerpt: "{{ page.excerpt | strip_html | strip_newlines | escape_js }}"
   },

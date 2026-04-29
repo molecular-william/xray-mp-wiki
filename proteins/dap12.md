@@ -110,4 +110,4 @@ CSTVSPGVLAGIVVGDLVLTVLIALAVYFLGRL
 - [sodium-chloride](/reagents/additives/sodium-chloride/) — Common buffer salt
 - [peg-3350](/reagents/additives/peg-3350/) — PEG 3350 crystallization precipitant (used in both crystal forms)
 - [cholesterol-lipid](/reagents/lipids/cholesterol-lipid/) — Cholesterol in trimer crystallization
-- [glycophorin-a](/glycophorin-a) — Glycophorin A (PDB: 1AFO, reference TM dimer)
+- glycophorin-a — Glycophorin A (PDB: 1AFO, reference TM dimer)

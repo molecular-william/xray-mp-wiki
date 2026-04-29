@@ -38,5 +38,5 @@ Molecular replacement (MR) is an X-ray crystallography phasing method that uses 
 
 ## Related Methods
 
-- [xray-crystallography](/methods/structure-determination/xray-crystallography.html) — SAD and MAD phasing methods (consolidated under X-ray Crystallography)
-- [xray-crystallography](/methods/structure-determination/xray-crystallography.html) — General X-ray structure determination
+- [xray-crystallography](/methods/structure-determination/xray-crystallography/) — SAD and MAD phasing methods (consolidated under X-ray Crystallography)
+- [xray-crystallography](/methods/structure-determination/xray-crystallography/) — General X-ray structure determination

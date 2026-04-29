@@ -24,13 +24,11 @@
     </nav>
     <div class="content">
       {% include wikilinks.html %}
-      {% include see_also.html %}
-      {% include backlinks.html %}
       <footer>
         <p>
           <small>
             Last updated: {{ page.updated | date: "%Y-%m-%d" }} | 
-            <a href="https://github.com/molecular-william/xray-mp-wiki/tree/main/{{ page.path }}">View on GitHub</a>
+            <a href="{{ 'https://github.com/molecular-william/xray-mp-wiki/tree/main/' | append: page.path | replace: '_methods/', 'methods/' }}">View on GitHub</a>
           </small>
         </p>
       </footer>

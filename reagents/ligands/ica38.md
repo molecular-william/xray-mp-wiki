@@ -35,5 +35,5 @@ ICA38 is an indolcarboxamide compound that inhibits MmpL3, the mycobacterial tra
 ## Cross-References
 
 - [mmpL3](/proteins/mmpL3/) — Primary target
-- [sq109](/reagents/ligands/sq109.html) — Another MmpL3 inhibitor; diamine class
-- [au1235](/reagents/ligands/au1235.html) — Another MmpL3 inhibitor; adamantyl urea class
+- [sq109](/reagents/ligands/sq109/) — Another MmpL3 inhibitor; diamine class
+- [au1235](/reagents/ligands/au1235/) — Another MmpL3 inhibitor; adamantyl urea class

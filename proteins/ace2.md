@@ -87,7 +87,7 @@ Key hACE2 residues interacting with SARS-CoV-2-CTD:
 
 ## Cross-References
 
-- [sars-cov-2-s-ctd](/proteins/sars-cov-2-s-ctd.html) — SARS-CoV-2 spike protein C-terminal domain (binding partner)
+- [sars-cov-2-s-ctd](/proteins/sars-cov-2-s-ctd/) — SARS-CoV-2 spike protein C-terminal domain (binding partner)
 - [peg-5000](/reagents/additives/peg-5000/) — PEG 5000 MME crystallization precipitant
 - [glycerol](/reagents/additives/glycerol/) — Cryoprotectant for crystal freezing
 - [vapor-diffusion](/methods/crystallization/vapor-diffusion/) — Sitting-drop vapor diffusion crystallization method

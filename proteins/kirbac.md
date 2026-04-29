@@ -95,7 +95,7 @@ This study revealed interdependent gates in the Kir conduction pathway:
 
 ## Related Ion Channels
 
-- [navab-sodium-channel](/proteins/navab-sodium-channel.html) — Bacterial voltage-gated sodium channel; structural model for eukaryotic NaV channels
+- [navab-sodium-channel](/proteins/navab-sodium-channel/) — Bacterial voltage-gated sodium channel; structural model for eukaryotic NaV channels
 - [ion-channels](/concepts/ion-channels/) — Voltage-gated ion channel class
 
 ## References

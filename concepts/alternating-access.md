@@ -19,7 +19,7 @@ layout: default
 
 ## Overview
 
-The alternating access mechanism is the fundamental principle by which secondary transporters move substrates across membranes. Rather than forming a continuous pore (like [ion-channels](/concepts/ion-channels.html)s), transporters alternate between conformations where the substrate binding site is accessible from one side of the membrane or the other, never both simultaneously.
+The alternating access mechanism is the fundamental principle by which secondary transporters move substrates across membranes. Rather than forming a continuous pore (like [ion-channels](/concepts/ion-channels/)s), transporters alternate between conformations where the substrate binding site is accessible from one side of the membrane or the other, never both simultaneously.
 
 ## Three Canonical States
 
@@ -71,30 +71,7 @@ Recent structural studies (e.g., SotB) suggest that the alternating access trans
 
 |## Related Concepts
 |
-|- [mfs-transporter](/concepts/mfs-transporter.html) — Major Facilitator Superfamily overview
+|- [mfs-transporter](/concepts/mfs-transporter/) — Major Facilitator Superfamily overview
 |- [sotb](/proteins/sotb/) — E. coli antiporter with 4 captured conformations
 |- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — MATE family transporter
 |- [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) — Mitochondrial carrier with domain rotation
-
-## See Also
-
-### Related Concepts
-- [mfs-transporter](/concepts/mfs-transporter.html) — Major Facilitator Superfamily overview
-- [sotb](/proteins/sotb/) — E. coli antiporter with 4 captured conformations
-- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — MATE family transporter
-- [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) — Mitochondrial carrier with domain rotation
-
-### Applications
-- [structure-determination](/methods/structure-determination/structure-determination/) — Structure determination methods
-- [crystallization](/methods/crystallization/crystallization/) — Crystallization considerations
-
-## Backlinks
-
-Pages that link to this page:
-{% assign backlinks = site.pages | where_exp: "page", "page.content contains page.url" | sort: 'title' %}
-{% for page in backlinks %}
-- []
-{% endfor %}
-{% if backlinks.size == 0 %}
-*No pages currently link to this page.*
-{% endif %}

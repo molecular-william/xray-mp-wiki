@@ -44,7 +44,7 @@ SEC (also called gel filtration) separates proteins by hydrodynamic radius. It i
 
 ## Related Methods
 
-- [affinity-chromatography](/methods/purification/affinity-chromatography.html) — affinity capture before SEC
-- [talon-resin](/methods/purification/talon-resin.html) — TALON his-tag affinity
+- [affinity-chromatography](/methods/purification/affinity-chromatography/) — affinity capture before SEC
+- [talon-resin](/methods/purification/talon-resin/) — TALON his-tag affinity
 - [etb-receptor](/proteins/etb-receptor/) — Superdex200 10/300 Increase; 20 mM Tris-HCl pH 7.5, 150 mM NaCl, 0.01% LMNG, 0.001% CHS; monodisperse peak at 40 mg/mL
-- [superdex-columns](/methods/purification/superdex-columns.html) — Superdex column products
+- [superdex-columns](/methods/purification/superdex-columns/) — Superdex column products

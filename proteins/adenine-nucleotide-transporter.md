@@ -112,14 +112,14 @@ The substrate-binding site (K30, R88, G192, I193, Y196, S238, R287) acts as a fu
 
 ## Cross-References
 
-- [nTMATE2-transporter](/proteins/nTMATE2-transporter.html) — Another transporter with multiple conformational states; [alternating-access](/concepts/alternating-access/) mechanism
-- [lb-semisweet](/proteins/lb-semisweet.html) — Another alternating access transporter; conformational states captured
+- [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — Another transporter with multiple conformational states; [alternating-access](/concepts/alternating-access/) mechanism
+- [lb-semisweet](/proteins/lb-semisweet/) — Another alternating access transporter; conformational states captured
 - [cardiolipin](/reagents/lipids/cardiolipin/) — Lipid that binds to AAC; stabilizes the carrier and mediates dimerization
 - [bongkrekic-acid](/reagents/ligands/bongkrekic-acid/) — Inhibitor that locks the m-state
 - [carboxyatractyloside](/reagents/ligands/carboxyatractyloside/) — Inhibitor that locks the c-state
 
 ## Related Transporters
 
-- [sotb](/proteins/sotb.html) — E. coli antiporter (MFS family); nonlinear alternating access mechanism
-- [nupg-nucleoside-transporter](/proteins/nupg-nucleoside-transporter.html) — MFS nucleoside transporter; alternating access
+- [sotb](/proteins/sotb/) — E. coli antiporter (MFS family); nonlinear alternating access mechanism
+- [nupg-nucleoside-transporter](/proteins/nupg-nucleoside-transporter/) — MFS nucleoside transporter; alternating access
 - [mfs-transporter](/concepts/mfs-transporter/) — Major facilitator superfamily

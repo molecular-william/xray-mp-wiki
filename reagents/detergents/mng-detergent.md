@@ -42,6 +42,6 @@ MNG was used in the active-state AT1R structure determination (Wingler et al., 2
 
 ## Related Detergents
 
-- [lmng](/reagents/detergents/lmng.html) — Lauryl Maltose Neopentyl Glycol (longer alkyl chain variant)
-- [ddm](/reagents/detergents/ddm.html) — n-Dodecyl-β-D-maltopyranoside (standard mild detergent)
-- [ng](/reagents/detergents/ng.html) — Nonylglucoside (short-chain alkyl glucoside)
+- [lmng](/reagents/detergents/lmng/) — Lauryl Maltose Neopentyl Glycol (longer alkyl chain variant)
+- [ddm](/reagents/detergents/ddm/) — n-Dodecyl-β-D-maltopyranoside (standard mild detergent)
+- [ng](/reagents/detergents/ng/) — Nonylglucoside (short-chain alkyl glucoside)

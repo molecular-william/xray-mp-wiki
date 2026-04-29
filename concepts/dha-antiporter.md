@@ -56,4 +56,4 @@ Key feature: **Substrate binding and protonation compete** with each other. Subs
 - [sotb](/proteins/sotb/) — DHA1 family member, 4 conformations captured
 - [nTMATE2-transporter](/proteins/nTMATE2-transporter/) — MATE family, different mechanism
 - [acrB](/proteins/acrB/) — RND efflux pump, different superfamily
-- [mfs-transporter](/concepts/mfs-transporter.html) — Major Facilitator Superfamily overview
+- [mfs-transporter](/concepts/mfs-transporter/) — Major Facilitator Superfamily overview

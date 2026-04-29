@@ -45,33 +45,18 @@ DDM is one of the most widely used non-ionic detergents for membrane protein sol
 
 ## Related Detergents
 
-- [lmng](/reagents/detergents/lmng.html) — milder, neopentyl glycol-based alternative
-- [og](/reagents/detergents/og.html) — shorter chain (octyl), used for GPCR crystallization
-- [lDAO](/reagents/detergents/lDAO.html) — zwitterionic detergent, resolved in early RC crystal structure
-
-## See Also
+- [lmng](/reagents/detergents/lmng/) — milder, neopentyl glycol-based alternative
+- [og](/reagents/detergents/og/) — shorter chain (octyl), used for GPCR crystallization
+- [lDAO](/reagents/detergents/lDAO/) — zwitterionic detergent, resolved in early RC crystal structure
 
 ### Related Detergents
-- [lmng](/reagents/detergents/lmng.html) — Milder, neopentyl glycol-based alternative
-- [og](/reagents/detergents/og.html) — Shorter chain (octyl), used for GPCR crystallization
-- [lDAO](/reagents/detergents/lDAO.html) — Zwitterionic detergent
-- [dm](/reagents/detergents/dm.html) — Decylmaltoside
-- [mng-detergent](/reagents/detergents/mng-detergent.html) — Maltose neopentyl glycol
+- [lmng](/reagents/detergents/lmng/) — Milder, neopentyl glycol-based alternative
+- [og](/reagents/detergents/og/) — Shorter chain (octyl), used for GPCR crystallization
+- [lDAO](/reagents/detergents/lDAO/) — Zwitterionic detergent
+- [dm](/reagents/detergents/dm/) — Decylmaltoside
+- [mng-detergent](/reagents/detergents/mng-detergent/) — Maltose neopentyl glycol
 
 ### Applications
 - [solubilization](/methods/solubilization/solubilization/) — General solubilization methods
 - [crystallization](/methods/crystallization/crystallization/) — Crystallization conditions
 - [purification](/methods/purification/purification/) — Purification strategies
-
-## Backlinks
-
-Pages that link to this page:
-{% assign backlinks = site.pages | where_exp: "page", "page.content contains page.url" | sort: 'title' %}
-{% for page in backlinks %}
-- []
-{% endfor %}
-{% if backlinks.size == 0 %}
-*No pages currently link to this page.*
-{% endif %}
-
-

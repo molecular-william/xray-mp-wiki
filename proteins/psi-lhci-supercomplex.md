@@ -64,7 +64,7 @@ The Photosystem I-Light Harvesting Complex I (PSI-LHCI) supercomplex from the gr
 
 ## Related Photosynthetic Complexes
 
-- [psi-lhci-supercomplex](/proteins/psi-lhci-supercomplex.html) — Photosynthetic supercomplex; membrane protein crystallization
+- [psi-lhci-supercomplex](/proteins/psi-lhci-supercomplex/) — Photosynthetic supercomplex; membrane protein crystallization
 - [xray-crystallography](/methods/structure-determination/xray-crystallography/) — Structure determination method for Form-A
 - [cryoem](/methods/structure-determination/cryoem/) — Structure determination method for Form-B and Form-C
 

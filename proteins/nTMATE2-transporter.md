@@ -89,9 +89,9 @@ NtMATE2 is a multidrug and toxic compound extrusion (MATE) family transporter fr
 ## Cross-References
 
 - MATE family: [mfs-transporter](/concepts/mfs-transporter/) (note: MATE is distinct from MFS superfamily)
-- Related plant transporters: [sotb](/proteins/sotb.html) (DHA antiporter, MFS family)
+- Related plant transporters: [sotb](/proteins/sotb/) (DHA antiporter, MFS family)
 
 ## Related Transporters
 
-- [sotb](/proteins/sotb.html) — E. coli DHA antiporter (DHA1 family, MFS); 4 conformations captured (occluded, inward-facing, inward-open)
+- [sotb](/proteins/sotb/) — E. coli DHA antiporter (DHA1 family, MFS); 4 conformations captured (occluded, inward-facing, inward-open)
 - [mfs-transporter](/concepts/mfs-transporter/) — Major facilitator superfamily (related proton-coupled transporters; MATE is a separate superfamily)

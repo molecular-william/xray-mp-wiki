@@ -44,6 +44,6 @@ Sodium acetate (CH₃COONa) is an acidic buffer and precipitant used in membrane
 
 ## Related Reagents
 
-- [sodium-citrate](/reagents/additives/sodium-citrate.html) — Another acidic crystallization buffer
-- [sodium-chloride](/reagents/additives/sodium-chloride.html) — Common buffer salt
-- [peg-400](/reagents/additives/peg-400.html) — Common co-precipitant with sodium acetate
+- [sodium-citrate](/reagents/additives/sodium-citrate/) — Another acidic crystallization buffer
+- [sodium-chloride](/reagents/additives/sodium-chloride/) — Common buffer salt
+- [peg-400](/reagents/additives/peg-400/) — Common co-precipitant with sodium acetate

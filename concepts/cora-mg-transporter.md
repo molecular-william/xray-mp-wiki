@@ -81,5 +81,5 @@ This motif is located on the outer surface of the membrane and tends to be disor
 ## Cross-References
 
 - [zntb-transporter](/proteins/zntb-transporter/) — Distant homolog; zinc/cadmium exporter with similar pentameric architecture
-- [mfs-transporter](/concepts/mfs-transporter.html) — Major facilitator superfamily (different family)
+- [mfs-transporter](/concepts/mfs-transporter/) — Major facilitator superfamily (different family)
 - [kirbac](/proteins/kirbac/) — Potassium channel; tetrameric architecture comparison

@@ -97,7 +97,7 @@ CB1 exhibits a more complex activation process than CB2:
 
 ## Cross-References
 
-- [cb2-receptor](/proteins/cb2-receptor.html) — Cannabinoid Receptor 2 (44% sequence identity, 68% TM similarity)
+- [cb2-receptor](/proteins/cb2-receptor/) — Cannabinoid Receptor 2 (44% sequence identity, 68% TM similarity)
 - [bril-fusion](/concepts/bril-fusion/) — BRIL fusion used for CB2 stabilization (alternative to scFv16)
 - [scfv16](/reagents/antibodies/scfv16/) — scFv16 antibody fragment for GPCR-Gi complex stabilization
 - [lmng](/reagents/detergents/lmng/) — Detergent used for CB1 solubilization

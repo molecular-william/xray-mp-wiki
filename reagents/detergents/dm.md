@@ -54,6 +54,6 @@ layout: default
 
 ## Related Detergents
 
-- [ddm](/reagents/detergents/ddm.html) — n-dodecyl-β-D-maltoside; standard membrane protein detergent
-- [og](/reagents/detergents/og.html) — n-octyl-β-D-glucoside; very mild detergent
-- [lmng](/reagents/detergents/lmng.html) — lauryl [mng-detergent](/reagents/detergents/mng-detergent.html); ultra-mild GPCR detergent
+- [ddm](/reagents/detergents/ddm/) — n-dodecyl-β-D-maltoside; standard membrane protein detergent
+- [og](/reagents/detergents/og/) — n-octyl-β-D-glucoside; very mild detergent
+- [lmng](/reagents/detergents/lmng/) — lauryl [mng-detergent](/reagents/detergents/mng-detergent/); ultra-mild GPCR detergent

@@ -37,4 +37,4 @@ Cholesterol is a sterol lipid that plays critical roles in membrane structure an
 ## Related Lipids
 
 - [monoolein](/methods/crystallization/monoolein/) — Primary [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) lipid
-- [glycerol](/reagents/additives/glycerol.html) — Protein stabilizer
+- [glycerol](/reagents/additives/glycerol/) — Protein stabilizer

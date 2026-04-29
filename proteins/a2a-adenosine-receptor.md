@@ -88,8 +88,8 @@ The human A2A adenosine receptor is a class A GPCR that couples to Gs proteins a
 
 ## Related Constructs
 
-- [a2a-star2](/proteins/a2a-star2.html) — 9-mutation thermostabilized construct (historical)
-- [etb-receptor](/proteins/etb-receptor.html) — ETB-Y5-T4L: 5 thermostabilizing mutations (R124Y, D154A, K270A, DS342A, I381A) + T4L fusion in ICL3
+- [a2a-star2](/proteins/a2a-star2/) — 9-mutation thermostabilized construct (historical)
+- [etb-receptor](/proteins/etb-receptor/) — ETB-Y5-T4L: 5 thermostabilizing mutations (R124Y, D154A, K270A, DS342A, I381A) + T4L fusion in ICL3
 - A2A-PSB1-bRIL: Single S91K mutation, bRIL fusion (current gold standard)
 - A2A-ΔC-bRIL: C-terminal truncation + bRIL fusion (no point mutations)
 
@@ -110,36 +110,8 @@ The human A2A adenosine receptor is a class A GPCR that couples to Gs proteins a
 
 ## Cross-References
 
-- [a2a-star2](/proteins/a2a-star2.html) — Thermostabilized precursor construct
-- [etb-receptor](/proteins/etb-receptor.html) — GPCR with [bril](/reagents/protein-tags/bril/) fusion and thermostabilization
-- [p2y12-receptor](/proteins/p2y12-receptor.html) — GPCR with BRIL fusion and LCP crystallization
-- [5ht2b-receptor](/proteins/5ht2b-receptor.html) — Serotonin GPCR with BRIL fusion and LCP
-- [opsin-gpcr](/proteins/opsin-gpcr.html) — Class A GPCR structural template
-
-## See Also
-
-### Related Proteins
-- [a2a-star2](/proteins/a2a-star2.html) — Thermostabilized precursor construct
-- [etb-receptor](/proteins/etb-receptor.html) — GPCR with [bril](/reagents/protein-tags/bril/) fusion and thermostabilization
-- [p2y12-receptor](/proteins/p2y12-receptor.html) — GPCR with BRIL fusion and LCP crystallization
-- [5ht2b-receptor](/proteins/5ht2b-receptor.html) — Serotonin GPCR with BRIL fusion and LCP
-- [opsin-gpcr](/proteins/opsin-gpcr.html) — Class A GPCR structural template
-- [kappa-opioid-receptor](/proteins/kappa-opioid-receptor.html) — Opioid GPCR with nanobody
-
-### Methods Used
-- [crystallization](/methods/crystallization/crystallization/) — General crystallization methods
-- [solubilization](/methods/solubilization/solubilization/) — Solubilization techniques
-- [purification](/methods/purification/purification/) — Purification strategies
-- [detergents](/reagents/detergents/detergents/) — Detergent considerations
-- [buffers](/reagents/buffers/buffers/) — Buffer selection
-
-## Backlinks
-
-Pages that link to this page:
-{% assign backlinks = site.pages | where_exp: "page", "page.content contains page.url" | sort: 'title' %}
-{% for page in backlinks %}
-- []
-{% endfor %}
-{% if backlinks.size == 0 %}
-*No pages currently link to this page.*
-{% endif %}
+- [a2a-star2](/proteins/a2a-star2/) — Thermostabilized precursor construct
+- [etb-receptor](/proteins/etb-receptor/) — GPCR with [bril](/reagents/protein-tags/bril/) fusion and thermostabilization
+- [p2y12-receptor](/proteins/p2y12-receptor/) — GPCR with BRIL fusion and LCP crystallization
+- [5ht2b-receptor](/proteins/5ht2b-receptor/) — Serotonin GPCR with BRIL fusion and LCP
+- [opsin-gpcr](/proteins/opsin-gpcr/) — Class A GPCR structural template

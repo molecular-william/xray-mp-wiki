@@ -78,7 +78,7 @@ A2A-StaR2 was superseded by A2A-PSB1-bRIL (single S91K mutation), which:
 
 ## Related Proteins
 
-- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor.html) — A2A-PSB1-bRIL construct (current gold standard)
+- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — A2A-PSB1-bRIL construct (current gold standard)
 - [bril](/reagents/protein-tags/bril/) — bRIL fusion partner used with A2A-StaR2
 - [sf9-cells](/methods/expression-systems/sf9-cells/) — Insect cell expression system
 - [fab-fragments](/reagents/antibodies/fab-fragments/) — Fab 35.1 used for agonist-bound structure (PDB 8WDT)

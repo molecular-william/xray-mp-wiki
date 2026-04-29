@@ -46,8 +46,8 @@ Irbesartan binds to the ligand-binding pocket of the human angiotensin II type 1
 
 ## Related Ligands
 
-- [valsartan](/reagents/ligands/valsartan.html) — Clinically used ARB
-- [candesartan](/reagents/ligands/candesartan.html) — Insurmountable inverse agonist
-- [telmisartan](/reagents/ligands/telmisartan.html) — Clinically used ARB
-- [losartan](/reagents/ligands/losartan.html) — First ARB
-- [zd7155](/reagents/ligands/zd7155.html) — High-affinity antagonist
+- [valsartan](/reagents/ligands/valsartan/) — Clinically used ARB
+- [candesartan](/reagents/ligands/candesartan/) — Insurmountable inverse agonist
+- [telmisartan](/reagents/ligands/telmisartan/) — Clinically used ARB
+- [losartan](/reagents/ligands/losartan/) — First ARB
+- [zd7155](/reagents/ligands/zd7155/) — High-affinity antagonist

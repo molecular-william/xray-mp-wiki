@@ -44,7 +44,7 @@ Ammonium dihydrogen phosphate (NH4H2PO4), also known as monobasic ammonium phosp
 
 ## Related Additives
 
-- [li2so4](/reagents/additives/li2so4.html) — Lithium sulfate; common crystallization precipitant
-- [sodium-chloride](/reagents/additives/sodium-chloride.html) — NaCl; most common salt in buffers
-- [peg-400](/reagents/additives/peg-400.html) — PEG 400; common crystallization precipitant
-- [peg-4000](/reagents/additives/peg-4000.html) — PEG 4000; common crystallization precipitant
+- [li2so4](/reagents/additives/li2so4/) — Lithium sulfate; common crystallization precipitant
+- [sodium-chloride](/reagents/additives/sodium-chloride/) — NaCl; most common salt in buffers
+- [peg-400](/reagents/additives/peg-400/) — PEG 400; common crystallization precipitant
+- [peg-4000](/reagents/additives/peg-4000/) — PEG 4000; common crystallization precipitant

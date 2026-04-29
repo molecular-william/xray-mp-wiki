@@ -31,4 +31,4 @@ Cardiolipin molecules bind to the ADP/ATP carrier (AAC) at positively charged po
 
 - [adenine-nucleotide-transporter](/proteins/adenine-nucleotide-transporter/) — Cardiolipin binds to AAC at positively charged pockets
 - [monoolein](/methods/crystallization/monoolein/) — Lipid used in LCP crystallization
-- [cholesterol-lipid](/reagents/lipids/cholesterol-lipid.html) — Sterol lipid used in membrane protein stabilization
+- [cholesterol-lipid](/reagents/lipids/cholesterol-lipid/) — Sterol lipid used in membrane protein stabilization

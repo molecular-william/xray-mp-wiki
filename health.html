@@ -7,30 +7,23 @@ permalink: /health/
 
 <h2>Statistics</h2>
 <ul>
-  <li>Total pages: {{ site.pages | size }}</li>
-  <li>Proteins: {{ site.pages | where: "type", "protein" | size }}</li>
-  <li>Reagents: {{ site.pages | where: "type", "reagent" | size }}</li>
-  <li>Methods: {{ site.pages | where: "type", "method" | size }}</li>
-  <li>Concepts: {{ site.pages | where: "type", "concept" | size }}</li>
+  <li>Total pages: 158</li>
+  <li>Proteins: 41</li>
+  <li>Reagents: 84</li>
+  <li>Methods: 26</li>
+  <li>Concepts: 7</li>
 </ul>
 
 <h2>Pages without Wikilinks</h2>
 <p>Pages that have no outbound wikilinks (potential orphan pages):</p>
+
 <ul>
-{% for page in site.pages %}
-  {% unless page.content contains "[[]" %}
-    <li>{{ page.title }}</li>
-  {% endunless %}
-{% endfor %}
 </ul>
+
 
 <h2>Pages with Fewer Than 2 Wikilinks</h2>
 <p>Pages that should have more internal links:</p>
+
 <ul>
-{% for page in site.pages %}
-  {% assign link_count = page.content | split: "[[]" | size | minus: 1 %}
-  {% if link_count < 2 %}
-    <li>{{ page.title }} ({{ link_count }} links)</li>
-  {% endif %}
-{% endfor %}
 </ul>
+

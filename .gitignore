@@ -1,0 +1,15 @@
+# Build output
+_site/
+
+# Python cache
+*.pyc
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Ruby/Gem dependencies
+Gemfile.lock
+
+# Logs
+*.log

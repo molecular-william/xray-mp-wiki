@@ -77,4 +77,4 @@ The resting-state structure reveals fenestrations providing hydrophobic drug acc
 - [digitonin](/reagents/detergents/digitonin/) — Detergent used for [cryoem](/methods/structure-determination/cryoem/) sample preparation
 - [cryoem](/methods/structure-determination/cryoem/) — Cryo-EM structure determination method
 - [ion-channels](/concepts/ion-channels/) — Voltage-gated ion channel class
-- [kirbac](/proteins/kirbac.html) — Prokaryotic inwardly rectifying K⁺ channel; structural model for eukaryotic Kir channels
+- [kirbac](/proteins/kirbac/) — Prokaryotic inwardly rectifying K⁺ channel; structural model for eukaryotic Kir channels

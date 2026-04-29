@@ -36,8 +36,8 @@ Monoolein is the primary lipid used in Lipidic Cubic Phase (LCP) crystallization
 
 ## Related Methods
 
-- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase.html) — LCP crystallization technique
-- [vapor-diffusion](/methods/crystallization/vapor-diffusion.html) — alternative crystallization method
+- [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization technique
+- [vapor-diffusion](/methods/crystallization/vapor-diffusion/) — alternative crystallization method
 
 ## Related Lipids
 

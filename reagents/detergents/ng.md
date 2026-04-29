@@ -25,19 +25,19 @@ Nonylglucoside (NG, n-nonyl β-D-glucopyranoside) is a short-chain alkyl glucosi
 
 - **Chain length**: C9 (nonyl)
 - **Type**: Non-ionic alkyl glucoside
-- **CMC**: Higher than [og](/reagents/detergents/og.html) due to shorter chain
+- **CMC**: Higher than [og](/reagents/detergents/og/) due to shorter chain
 - **Use**: Solubilization, crystallization, detergent screening
 
 ## Proteins Using NG (from this wiki)
 
-- [opsin-gpcr](/proteins/opsin-gpcr/) — NG tested alongside [og](/reagents/detergents/og.html) and [hpg](/reagents/detergents/hpg.html) in detergent screening experiments
+- [opsin-gpcr](/proteins/opsin-gpcr/) — NG tested alongside [og](/reagents/detergents/og/) and [hpg](/reagents/detergents/hpg/) in detergent screening experiments
   - Inhibition of ligand-binding pocket occupation depended on hydrocarbon chain length and concentration
-  - Maximal inhibition observed at longer chain lengths (NG < [og](/reagents/detergents/og.html) < longer detergents)
+  - Maximal inhibition observed at longer chain lengths (NG < [og](/reagents/detergents/og/) < longer detergents)
   - Used to probe the specificity of detergent occupancy in the [opsin-gpcr](/proteins/opsin-gpcr/) retinal-binding pocket
 
 ## Related Detergents
 
-- [og](/reagents/detergents/og.html) — Octylglucoside (C8), used to solubilize [opsin-gpcr](/proteins/opsin-gpcr/) and crystallize active state
-- [ddm](/reagents/detergents/ddm.html) — Dodecyl-β-D-maltopyranoside (C12), longer chain, milder
-- [lmng](/reagents/detergents/lmng.html) — Lauryl [mng-detergent](/reagents/detergents/mng-detergent.html), ultra-mild detergent
-- [gdn](/reagents/detergents/gdn.html) — GlycoDiosgenin, steroidal glycoside
+- [og](/reagents/detergents/og/) — Octylglucoside (C8), used to solubilize [opsin-gpcr](/proteins/opsin-gpcr/) and crystallize active state
+- [ddm](/reagents/detergents/ddm/) — Dodecyl-β-D-maltopyranoside (C12), longer chain, milder
+- [lmng](/reagents/detergents/lmng/) — Lauryl [mng-detergent](/reagents/detergents/mng-detergent/), ultra-mild detergent
+- [gdn](/reagents/detergents/gdn/) — GlycoDiosgenin, steroidal glycoside

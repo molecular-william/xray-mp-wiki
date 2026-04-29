@@ -80,7 +80,7 @@ The P2Y12 receptor is a G-protein-coupled receptor (GPCR) expressed on platelets
 
 ## Related GPCRs
 
-- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor.html) — Another GPCR with extensive structural studies
-- [opsin-gpcr](/proteins/opsin-gpcr.html) — Class A GPCR structural model
-- [kappa-opioid-receptor](/proteins/kappa-opioid-receptor.html) — Opioid GPCR with [nanobody](/reagents/antibodies/nanobody/) stabilization
-- [5ht2b-receptor](/proteins/5ht2b-receptor.html) — Serotonin GPCR with [bril](/reagents/protein-tags/bril/) fusion and [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) crystallization
+- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — Another GPCR with extensive structural studies
+- [opsin-gpcr](/proteins/opsin-gpcr/) — Class A GPCR structural model
+- [kappa-opioid-receptor](/proteins/kappa-opioid-receptor/) — Opioid GPCR with [nanobody](/reagents/antibodies/nanobody/) stabilization
+- [5ht2b-receptor](/proteins/5ht2b-receptor/) — Serotonin GPCR with [bril](/reagents/protein-tags/bril/) fusion and [lipidic-cubic-phase](/methods/crystallization/lipidic-cubic-phase/) crystallization

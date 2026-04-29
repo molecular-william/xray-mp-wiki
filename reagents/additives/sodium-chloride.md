@@ -41,5 +41,5 @@ NaCl is the most common salt used in membrane protein buffers to maintain osmoti
 
 ## Related Salts
 
-- [li2so4](/reagents/additives/li2so4.html) — Li2SO4 used as crystallization precipitant
-- [tris-buffer](/reagents/buffers/tris-buffer.html) — Tris-HCl buffer used with NaCl
+- [li2so4](/reagents/additives/li2so4/) — Li2SO4 used as crystallization precipitant
+- [tris-buffer](/reagents/buffers/tris-buffer/) — Tris-HCl buffer used with NaCl

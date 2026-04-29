@@ -44,5 +44,5 @@ Superdex is a prepacked size-exclusion chromatography (SEC) medium from Cytiva (
 
 ## Related SEC Methods
 
-- [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography.html) — SEC principle and workflow
-- [talon-resin](/methods/purification/talon-resin.html) — [affinity-chromatography](/methods/purification/affinity-chromatography.html) capture before SEC
+- [size-exclusion-chromatography](/methods/purification/size-exclusion-chromatography/) — SEC principle and workflow
+- [talon-resin](/methods/purification/talon-resin/) — [affinity-chromatography](/methods/purification/affinity-chromatography/) capture before SEC

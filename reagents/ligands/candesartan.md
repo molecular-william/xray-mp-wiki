@@ -20,7 +20,7 @@ layout: default
 ## Chemical Properties
 
 - **Class**: Angiotensin receptor blocker (ARB), non-peptide antagonist
-- **Scaffold**: Biphenyl-tetrazole with benz[imidazole](/reagents/additives/imidazole.html) carboxylic acid moiety
+- **Scaffold**: Biphenyl-tetrazole with benz[imidazole](/reagents/additives/imidazole/) carboxylic acid moiety
 - **Relation**: ZD7155 is a precursor to candesartan
 - **Pharmacology**: Insurmountable inverse agonist with slow dissociation rate
 
@@ -52,7 +52,7 @@ Candesartan binds to the ligand-binding pocket of the human angiotensin II type 
 
 ## Related Ligands
 
-- [zd7155](/reagents/ligands/zd7155.html) — High-affinity antagonist, precursor to candesartan
-- [losartan](/reagents/ligands/losartan.html) — First ARB, surmountable antagonist
-- [valsartan](/reagents/ligands/valsartan.html) — Clinically used ARB
-- [irbesartan](/reagents/ligands/irbesartan.html) — Clinically used ARB
+- [zd7155](/reagents/ligands/zd7155/) — High-affinity antagonist, precursor to candesartan
+- [losartan](/reagents/ligands/losartan/) — First ARB, surmountable antagonist
+- [valsartan](/reagents/ligands/valsartan/) — Clinically used ARB
+- [irbesartan](/reagents/ligands/irbesartan/) — Clinically used ARB

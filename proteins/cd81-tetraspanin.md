@@ -78,6 +78,6 @@ The most striking feature is a large hydrophobic pocket (3300 Å³) bounded by t
 
 ## Related Membrane Proteins
 
-- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor.html) — GPCR with [cholesterol-lipid](/reagents/lipids/cholesterol-lipid/) binding implications
-- [lpa1-receptor](/proteins/lpa1-receptor.html) — GPCR with spherical binding pocket
-- [angiotensin-ii-type-1-receptor](/proteins/angiotensin-ii-type-1-receptor.html) — GPCR with [cholesterol-hydrogen-succinate](/reagents/lipids/cholesterol-hydrogen-succinate/) stabilization
+- [a2a-adenosine-receptor](/proteins/a2a-adenosine-receptor/) — GPCR with [cholesterol-lipid](/reagents/lipids/cholesterol-lipid/) binding implications
+- [lpa1-receptor](/proteins/lpa1-receptor/) — GPCR with spherical binding pocket
+- [angiotensin-ii-type-1-receptor](/proteins/angiotensin-ii-type-1-receptor/) — GPCR with [cholesterol-hydrogen-succinate](/reagents/lipids/cholesterol-hydrogen-succinate/) stabilization

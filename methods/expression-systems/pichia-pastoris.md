@@ -41,4 +41,4 @@ Pichia pastoris is a methylotrophic yeast widely used for heterologous expressio
 
 ## Related Expression Systems
 
-- [hek293-cells](/methods/expression-systems/hek293-cells.html) — mammalian HEK293 cells for functional assays
+- [hek293-cells](/methods/expression-systems/hek293-cells/) — mammalian HEK293 cells for functional assays
