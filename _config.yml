@@ -1,4 +1,4 @@
 theme: minima
-title: {{ login }}'s wiki on Xray-crystallography
+title: molecular-william's wiki on Xray-crystallography
 description: This wiki is focused on reagents and procedures of Xray-crystallography for membrane proteins.
-author: {{ login }}
+author: molecular-william
