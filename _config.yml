@@ -1,73 +1,16 @@
 theme: minima
-title: X-ray Detergent Wiki
+title: X-ray MP Wiki
 description: Wiki on reagents and procedures for X-ray crystallography of membrane proteins
 author: molecular-william
 baseurl: "/xray-mp-wiki"
 url: "https://molecular-william.github.io"
 permalink: pretty
 
-# Jekyll configuration
-timezone: UTC
-future: false
-include: [".htaccess"]
-exclude: [".github", "Gemfile", "Gemfile.lock", "node_modules", "vendor/jekyll-assets", "CONTRIBUTORS", "Rakefile", "README.md", "LICENSE", "log.md", "log.md.original"]
-keep_files: [".git", ".gitignore"]
-
-# Markdown configuration
 markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
-  footnote_backlink: '&#8617;' # ← to replace default ↩️
 
-# Collections
-collections:
-  proteins:
-    output: true
-    permalink: /proteins/:name/
-  reagents:
-    output: true
-    permalink: /reagents/:name/
-  methods:
-    output: true
-    source: methods
-    permalink: /methods/:name/
-  concepts:
-    output: true
-    permalink: /concepts/:name/
-  categories:
-    output: true
-    permalink: /categories/:name/
-
-# Default layout and values
-defaults:
-  - scope:
-      path: ""
-      type: "proteins"
-    values:
-      layout: "default"
-  - scope:
-      path: ""
-      type: "reagents"
-    values:
-      layout: "default"
-  - scope:
-      path: ""
-      type: "methods"
-    values:
-      layout: "default"
-  - scope:
-      path: ""
-      type: "concepts"
-    values:
-      layout: "default"
-  - scope:
-      path: ""
-      type: "categories"
-    values:
-      layout: "default"
-
-# Plugins (standard GitHub Pages plugins)
 plugins:
   - jekyll-default-layout
   - jekyll-feed
