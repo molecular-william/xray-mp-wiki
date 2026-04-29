@@ -1,11 +1,3 @@
-{%
-  Process wikilinks: convert [[name]] to [name](url)
-  This include processes the content and replaces wikilinks with proper Markdown links.
-  It scans all pages and matches titles to create links.
-  Usage: {% include wikilinks.html %}
-  Then output the processed content.
-%}
-
 {% assign processed_content = content %}
 
 {% for page in site.pages %}
