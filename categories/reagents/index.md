@@ -6,43 +6,50 @@ title: Reagents
 # Reagents
 
 ## Detergents
-{% assign detergents = site.reagents | where_exp: "item", 'item.tags contains "detergent" or item.tags contains "detergent-"' %}
-{% for reagent in detergents %}
+{% for reagent in site.reagents %}
+{% if reagent.tags contains "detergent" or reagent.tags contains "detergent-" %}
 - [{{ reagent.title }}]({{ reagent.url | relative_url }})
+{% endif %}
 {% endfor %}
 
 ## Buffers
-{% assign buffers = site.reagents | where_exp: "item", 'item.tags contains "buffer" or item.tags contains "buffer-"' %}
-{% for reagent in buffers %}
+{% for reagent in site.reagents %}
+{% if reagent.tags contains "buffer" or reagent.tags contains "buffer-" %}
 - [{{ reagent.title }}]({{ reagent.url | relative_url }})
+{% endif %}
 {% endfor %}
 
 ## Additives
-{% assign additives = site.reagents | where_exp: "item", 'item.tags contains "additive" or item.tags contains "additive-"' %}
-{% for reagent in additives %}
+{% for reagent in site.reagents %}
+{% if reagent.tags contains "additive" or reagent.tags contains "additive-" %}
 - [{{ reagent.title }}]({{ reagent.url | relative_url }})
+{% endif %}
 {% endfor %}
 
 ## Lipids
-{% assign lipids = site.reagents | where_exp: "item", 'item.tags contains "lipid" or item.tags contains "lipid-"' %}
-{% for reagent in lipids %}
+{% for reagent in site.reagents %}
+{% if reagent.tags contains "lipid" or reagent.tags contains "lipid-" %}
 - [{{ reagent.title }}]({{ reagent.url | relative_url }})
+{% endif %}
 {% endfor %}
 
 ## Ligands
-{% assign ligands = site.reagents | where_exp: "item", 'item.tags contains "ligand" or item.tags contains "ligand-"' %}
-{% for reagent in ligands %}
+{% for reagent in site.reagents %}
+{% if reagent.tags contains "ligand" or reagent.tags contains "ligand-" %}
 - [{{ reagent.title }}]({{ reagent.url | relative_url }})
+{% endif %}
 {% endfor %}
 
 ## Protein Tags
-{% assign tags = site.reagents | where_exp: "item", 'item.tags contains "tag" or item.tags contains "protein-tag"' %}
-{% for reagent in tags %}
+{% for reagent in site.reagents %}
+{% if reagent.tags contains "tag" or reagent.tags contains "protein-tag" %}
 - [{{ reagent.title }}]({{ reagent.url | relative_url }})
+{% endif %}
 {% endfor %}
 
 ## Antibodies
-{% assign antibodies = site.reagents | where_exp: "item", 'item.tags contains "antibody" or item.tags contains "nanobody" or item.tags contains "fab" or item.tags contains "scfv"' %}
-{% for reagent in antibodies %}
+{% for reagent in site.reagents %}
+{% if reagent.tags contains "antibody" or reagent.tags contains "nanobody" or reagent.tags contains "fab" or reagent.tags contains "scfv" %}
 - [{{ reagent.title }}]({{ reagent.url | relative_url }})
+{% endif %}
 {% endfor %}

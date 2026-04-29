@@ -5,7 +5,6 @@ title: Proteins
 
 # Proteins
 
-{% assign proteins = site.proteins %}
-{% for protein in proteins %}
+{% for protein in site.proteins %}
 - [{{ protein.title }}]({{ protein.url | relative_url }})
 {% endfor %}

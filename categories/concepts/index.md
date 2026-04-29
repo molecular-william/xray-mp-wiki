@@ -5,7 +5,6 @@ title: Concepts
 
 # Concepts
 
-{% assign concepts = site.concepts %}
-{% for concept in concepts %}
+{% for concept in site.concepts %}
 - [{{ concept.title }}]({{ concept.url | relative_url }})
 {% endfor %}

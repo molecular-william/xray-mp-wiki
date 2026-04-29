@@ -5,7 +5,6 @@ title: Methods
 
 # Methods
 
-{% assign methods = site.methods %}
-{% for method in methods %}
+{% for method in site.methods %}
 - [{{ method.title }}]({{ method.url | relative_url }})
 {% endfor %}
