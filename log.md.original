@@ -1,0 +1,426 @@
+# Wiki Log
+
+> Chronological record of all wiki actions. Append-only.
+> Format: `## [YYYY-MM-DD] action | subject`
+> Actions: ingest, update, query, lint, create, archive, delete
+> When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
+
+## [2026-04-26] create | Wiki initialized
+- Domain: X-ray crystallography reagents for membrane protein structure determination
+- Structure created with SCHEMA.md, index.md, log.md
+- Raw papers: 399 markdown files in raw/papers/
+- DOIs to process: 399
+- DOIs incorporated: 0
+
+## [2026-04-26] ingest | Batch 1 (5 DOIs)
+- DOIs ingested:
+  - 10.1002/1873-3468.14136 (NtMATE2 transporter, LCP crystallization)
+  - 10.1002/anie.201302374 (Opsin GPCR, OG in binding pocket)
+  - 10.1002/anie.202115545 (A2AAR, single-mutation construct, Preladenant derivatives)
+  - 10.1006/jmbi.1994.0097 (Rps. viridis RC, LDAO resolved, 2.3 Å)
+  - 10.1016/j.bbabio.2023.148986 (PSI-LHCI supercomplex, β-DDM → GDN, resting state)
+- Pages created: 18 (5 proteins, 9 reagents/methods, 4 methods)
+- DOIs incorporated: 5
+
+## [2026-04-26] ingest | Buffer salts and purification entities (Batch 1 follow-up)
+- Pages created: 15 (buffer reagents, purification media, expression systems, methods)
+- Total wiki pages: 33
+- DOIs incorporated: 5
+
+## [2026-04-26] ingest | Batch 2 (5 DOIs)
+- DOIs ingested:
+  - 10.1016/j.bbrc.2023.149393 (A2AAR-Rag31 + photoNECA, 3.34 A)
+  - 10.1016/j.bcp.2022.115291 (P2Y12 + selatogrel, 2.8 A)
+  - 10.1016/j.cell.2015.06.002 (LPA1 + 3 antagonists, 2.9-3.0 A)
+  - 10.1016/j.cell.2016.09.056 (CD81 + cholesterol, 2.95 A)
+  - 10.1016/j.cell.2016.12.033 (5-HT2B + LSD, 2.9 A)
+- Pages created: 10 (5 proteins, 5 reagents)
+- Total wiki pages: 43
+- DOIs incorporated: 10
+
+## [2026-04-26] ingest | Batch 1 missing entity pages
+- Pages created: 6 (detergents, precipitant, methods)
+- Reagent pages (3): NG (nonylglucoside), HpG (heptylglucoside), PEG 400
+- Method pages (3): Dialysis, Microbatch, Cryo-EM
+- Pages updated: 6 (opsin, PSI-LHCI, PEG 400, Cryo-EM, Dialysis, Microbatch, NG, HpG)
+- Total wiki pages: 49
+- DOIs incorporated: 10
+
+## [2026-04-26] lint | Batch 1 missing entity audit
+- Created pages for all genuinely missing entities from lint output
+- False positives resolved: NaCl->sodium-chloride, Rhodopseudomonas->rps-viridis-reaction-center, crystallization-lcp->lipidic-cubic-phase, structure-xray->xray-crystallography
+- structure-mad and structure-sad consolidated under xray-crystallography.md as phrasing sections
+- Remaining lint issues: none (all entities now have pages)
+
+## [2026-04-27] ingest | Batch 3a — SemiSWEET (DOI 10.1016/j.cell.2017.03.010)
+- DOI ingested: 10.1016/j.cell.2017.03.010 (LbSemiSWEET alternating access transporter)
+- Pages created: 2 (LbSemiSWEET transporter, Glucose substrate)
+- Pages updated: 1 (xray-crystallography.md — added source and protein reference)
+- Total wiki pages: 51
+- DOIs incorporated: 11
+
+## [2026-04-27] ingest | Batch 3b — Kappa Opioid Receptor (DOI 10.1016/j.cell.2017.12.011)
+- DOI ingested: 10.1016/j.cell.2017.12.011 (Kappa opioid receptor active-state structure)
+- Pages created: 4 (Kappa Opioid Receptor, MP1104 agonist, Salvinorin A agonist)
+- Pages updated: 1 (xray-crystallography.md — added source and protein reference)
+- Total wiki pages: 55
+- DOIs incorporated: 12
+
+## [2026-04-27] ingest | Batch 3c — ADP/ATP Carrier (DOI 10.1016/j.cell.2018.11.025)
+- DOI ingested: 10.1016/j.cell.2018.11.025 (Mitochondrial ADP/ATP carrier matrix-open state)
+- Pages created: 4 (ADP/ATP Carrier, Bongkrekic acid, Carboxyatractyloside, Cardiolipin)
+- Pages updated: 1 (xray-crystallography.md — added source and protein reference)
+- Total wiki pages: 59
+- DOIs incorporated: 13
+
+## [2026-04-27] ingest | Batch 3d — MmpL3 (DOI 10.1016/j.cell.2019.01.003)
+- DOI ingested: 10.1016/j.cell.2019.01.003 (MmpL3 anti-TB drug target)
+- Pages created: 5 (MmpL3, SQ109, AU1235, ICA38, Rimonabant)
+- Pages updated: 1 (xray-crystallography.md — added source and protein reference)
+- Total wiki pages: 64
+- DOIs incorporated: 14
+
+## [2026-04-27] ingest | Batch 3e — AT1R (DOI 10.1016/j.cell.2018.12.006)
+- DOI ingested: 10.1016/j.cell.2018.12.006 (AT1R active-state with S1I8 + Nb.AT110i1, 2.9 A)
+- Pages created: 4 (AT1R, MNG detergent, S1I8 AngII analog, Nb.AT110i1 nanobody)
+- Pages updated: 4 (monoolein.md, cholesterol-hydrogen-succinate.md, lipidic-cubic-phase.md, xray-crystallography.md)
+- Total wiki pages: 68
+- DOIs incorporated: 24
+
+## [2026-04-27] ingest | Batch 3e-2 — NaVAb (DOI 10.1016/j.cell.2019.06.031)
+- DOI ingested: 10.1016/j.cell.2019.06.031 (NaVAb resting-state structure, 4.0 A cryo-EM)
+- Pages created: 2 (NaVAb sodium channel, Digitonin detergent)
+- Pages updated: 1 (cryoem.md — added NaVAb entry)
+- Total wiki pages: 70
+- DOIs incorporated: 25
+## [2026-04-27] reorganize | Wiki directory structure reorganization
+- Moved reagents into subcategories: detergents/(9), buffers/(2), lipids/(2), additives/(5), ligands/(14), purification/(4)
+- Moved methods into subcategories: purification/(4), crystallization/(4), structure-determination/(3)
+- Moved monoolein.md from crystallization/ to reagents/lipids/
+- Moved cardiolipin.md from lipids/ to reagents/lipids/
+- Deleted empty directories: conditions/, detergents/, purification/, screens/, solvents/, templates/, crystallization/, lipids/
+- Deleted .ipynb_checkpoints directories
+- Updated index.md to reflect new hierarchical structure with 69 entries
+- Updated SCHEMA.md with directory structure documentation
+- Total wiki pages: 69 (15 proteins, 42 reagents, 12 methods)
+
+## [2026-04-27] ingest | Batch 4 — AcrB + Linezolid (DOI 10.1007/s10969-013-9154-x)
+- DOI ingested: 10.1007/s10969-013-9154-x (AcrB-Linezolid complex, 3.5 A, PDB: 4K7Q)
+- Pages created: 4 (AcrB transporter, Linezolid ligand, PEG 4000 precipitant, Sodium phosphate buffer)
+- Pages updated: 6 (DDM, Tris buffer, Glycerol, Imidazole, Vapor diffusion, X-ray crystallography)
+- Total wiki pages: 73
+- DOIs incorporated: 26
+
+## [2026-04-27] ingest | Batch 5 — KirBac Potassium Channel (DOI 10.1016/j.cell.2010.05.003)
+- DOI ingested: 10.1016/j.cell.2010.05.003 (KirBac interdependent gating, polyamine block mechanism)
+- Pages created: 6 (KirBac potassium channel, Spermine ligand, Anzergent 3,12 detergent, Structural phospholipids, IMAC purification method, Ion channels concept)
+- Pages updated: 4 (X-ray crystallography, Vapor diffusion, Lipidic cubic phase, NaVAb sodium channel)
+- Total wiki pages: 79
+- DOIs incorporated: 27
+
+## [2026-04-27] ingest | Batch 6 — Endothelin ETB Receptor (DOI 10.1016/j.bbrc.2019.12.091)
+- DOI ingested: 10.1016/j.bbrc.2019.12.091 (ETB-S6b complex, 3.0 A, PDB: 6LRY)
+- Pages created: 5 (ETB receptor, Sarafotoxin S6b, Sf9 cells, T4 lysozyme, Baculovirus expression)
+- Pages updated: 13 (DDM, LMNG, CHS, TALON, Tris, Glycerol, NaCl, Imidazole, TEV, Superdex, Affinity chromatography, IMAC, Size-exclusion chromatography, Vapor diffusion, X-ray crystallography, Lipidic cubic phase, A2A adenosine receptor, Nanobody NB.AT110i1)
+- Total wiki pages: 84
+- DOIs incorporated: 28
+
+## [2026-04-27] ingest | Batch 7a — SotB DHA Transporter (DOI 10.1016/j.bbrc.2020.11.096)
+- DOI ingested: 10.1016/j.bbrc.2020.11.096 (SotB 4 conformations: occluded, inward-facing, inward-open)
+- Pages created: 4 (SotB transporter, MFS Transporter concept, Alternating Access concept, DHA Antiporter concept)
+- Pages updated: 3 (nTMATE2-transporter, ADP/ATP Carrier, X-ray crystallography)
+- Total wiki pages: 88
+- DOIs incorporated: 29
+
+## [2026-04-27] ingest | Batch 7b — AT1R ZD7155 by SFX/XFEL (DOI 10.1016/j.cell.2015.04.011)
+- DOI ingested: 10.1016/j.cell.2015.04.011 (AT1R-ZD7155, 2.9 A, PDB: 4YAY; serial femtosecond crystallography at XFEL)
+- Pages created: 4 (ZD7155 ligand, Losartan ligand, Candesartan ligand, BRIL fusion protein, Serial femtosecond crystallography method)
+- Pages updated: 6 (AT1R receptor, X-ray crystallography, DDM, CHS, Sf9 cells, BRIL)
+- Total wiki pages: 93
+- DOIs incorporated: 30
+
+## [2026-04-27] LINT | Post-batch 7 linting
+- DOI format: All 139 files fixed — slashes replaced with ## in DOI references
+- Wikilink orphans: 88 -> 20 (fixed 68 via title->filename mapping + manual mappings)
+- Index coverage: 45 -> 93 links (now includes all 93 pages)
+- Remaining 20 orphans reference genuinely missing pages (not yet created): a2a-star2, nanobody-nb39, bril-fusion, NH4H2PO4, Li2SO4, DM, GNP, mmpL3, elinogrel, clopidogrel, valsartan, irbesartan, telmisartan
+- All frontmatter present, no empty pages, no duplicates
+- Total wiki pages: 93 | Unique DOIs: 45
+
+## [2026-04-27] LINT | Orphan page creation
+- Created 13 missing orphan pages to resolve 20 orphan references:
+  - Ligands: valsartan, irbesartan, telmisartan, elinogrel, clopidogrel, selatogrel
+  - Proteins: mmpL3, A2A-STAR2
+  - Detergents: dm (decylmaltoside), gnp (n-dodecyl-beta-D-maltopyranoside)
+  - Additives: nh4h2po4 (ammonium dihydrogen phosphate), li2so4 (lithium sulfate)
+  - Nanobody: nanobody-nb39
+  - Concept: bril-fusion
+- All DOI formats on new pages fixed (slashes -> ##)
+- All existing files updated with correct wikilink references
+- Remaining orphan references: 0 (all resolved)
+- Total wiki pages: 106
+
+## [2026-04-27] create | Solubilization method page
+- Created wiki/methods/solubilization/solubilization.md — comprehensive solubilization method page
+- Synthesized from 12 raw papers with detailed solubilization methodology
+- Covers: cell lysis, membrane isolation, detergent selection, standard protocols, stabilizers, clarification, detergent exchange
+- Top sources: CusA (JMB 2009), DraNramp (eLife 2023), A1-AR (Cell 2017), ETB (BBRC 2019), CCR2A (Structure 2018), MdfA (JMB 2018), LacY (PNAS 2011), nTMATE2 (Proteins 2014), MmpL3 (Cell 2018), NMDA (Nature 2018), MastR (JBC 2012)
+- Directory methods/solubilization/ created
+- SCHEMA.md updated with solubilization directory
+- index.md rebuilt (105 -> 106 entries)
+- Total wiki pages: 106
+
+## [2026-04-27] ingest | Batch 8 — ZntB, NupG, ADP/ATP Carrier update
+- DOIs ingested: 5
+  - 10.1002/pro.215 (ZntB transporter, Vibrio parahaemolyticus, 1.90 A, pentameric cytoplasmic domain)
+  - 10.1016/J.FEBSLET.2005.09.061 (ADP/ATP Carrier, bovine, cardiolipin dimerization, 2.8 A)
+  - 10.1016/j.febslet.2008.07.063 (DsbB - outside domain scope, skipped)
+  - 10.1016/j.immuni.2020.02.004 (IL-17RC/IL-17F - outside domain scope, skipped)
+  - 10.1016/j.jbc.2021.100479 (NupG nucleoside transporter, E. coli, MFS, 3.0 A, LCP)
+- Pages created: 3 (ZntB transporter, NupG nucleoside transporter, LAPAO detergent)
+- Pages updated: 1 (ADP/ATP Carrier - added bovine AAC info, cardiolipin dimerization, LAPAO solubilization, Jeffamine crystallization, new DOI source)
+- DOIs outside domain scope: 2 (DsbB redox enzyme, IL-17RC cytokine complex)
+- DOIs incorporated: 34 (30 original + 4 new from this batch: ZntB, NupG, ADP/ATP Carrier bovine, LAPAO)
+- Index rebuilt: 106 -> 108 entries
+- Total wiki pages: 108
+
+## [2026-04-27] lint | Batch 8 lint — resolved orphan references
+- Created: cora-mg-transporter.md (CorA Mg²⁺ transporter concept page)
+- Created: metal-ion-transporter.md (MIT superfamily concept page)
+- Lint issues resolved: 2 orphan references → 0
+- Lint results: 0 issues (all clean)
+- Index: 108 → 110 entries
+- Total wiki pages: 110
+
+## [2026-04-27] update | Protein pages — reagent info enrichment (6 pages)
+- Updated: 5ht2b-receptor.md — Added Expression/Purification (HEK293, MNG-3, Ni-NTA), LCP crystallization (monoolein, MgCl2, PEG 400), data stats
+- Updated: cd81-tetraspanin.md — Added Expression/Purification (Sf9, DDM, Ni-NTA, Superdex 200), LCP crystallization (monoolein, sodium acetate, PEG 400)
+- Updated: kappa-opioid-receptor.md — Added Expression/Purification (HEK293S, DDM, FLAG/Ni-NTA, Superdex 200), LCP crystallization (monoolein, Tris/MgCl2, PEG 300)
+- Updated: lpa1-receptor.md — Added Expression/Purification (HEK293S, DDM, Ni-NTA, Superose 6, cholesterol hemisuccinate), LCP crystallization (monoolein+cholesterol, multiple precipitant conditions)
+- Updated: p2y12-receptor.md — Added Expression/Purification (Sf9, DDM, IMAC with selatogrel, Superdex 200), LCP crystallization (monoolein, sodium citrate, PEG 400), D294N mutation
+- Updated: a2a-adenosine-receptor.md — Added Expression/Purification (HEK293S, DDM, Ni-NTA, Superdex 200), Sitting-drop vapor diffusion crystallization (PEG 400), detailed reagents table
+- All pages now include solubilization, purification, and crystallization sections
+- Lint: 0 issues (all clean)
+- Total wiki pages: 110
+
+## [2026-04-27] update | Protein pages — reagent info enrichment (4 pages)
+- Updated: lb-semisweet.md — Added Expression/Purification (E. coli BL21, DDM, Ni-NTA, Superdex 200), LCP crystallization (monoolein, sodium acetate, PEG 400)
+- Updated: navab-sodium-channel.md — Added Expression/Purification (Sf9, DDM, FLAG/Ni-NTA, SEC), cryo-EM sample prep (digitonin), activated-state crystallization
+- Updated: mmpL3.md — Major rewrite: Added 3 structure sources (Su PNAS 2019, Zhang Cell 2019, Yang JMB 2020), detailed Expression/Purification (M. smegmatis, DDM, Ni-NTA, Superose-6), Crystallization (vapor diffusion, PEG 400/PEGMME 350), NITD-349 and SPIRO inhibitor details, resistance mutations
+- Updated: sotb.md — Added note about truncated source file; marked as needing enrichment
+- All 10 protein pages now include solubilization, purification, and crystallization sections
+- Lint: 0 issues (all clean)
+- Total wiki pages: 110
+
+## [2026-04-27] bug-fix | Comprehensive content audit fixes
+- Fixed "ng" word-boundary bug (~150 pages) — restored corrupted words (bindi[[ng]]→binding, usi[[ng]]→using, ra[[ng]]e→range, homol[[og]]→homolog, etc.)
+- Fixed double brackets `]]]` (~17 pages) — replaced with `]]`
+- Fixed wikilink bleeding into text (~15 pages) — removed embedded wikilinks from normal prose
+- Fixed index.md duplicate wikilink targets (nanobody → nanobody-nb-at110i1, nanobody-nb39)
+- Fixed empty sources arrays (9 pages) — added TODO notes
+- Fixed invalid/incorrect DOIs (ddm.md removed placeholder, dm.md removed invalid nature13074)
+- Fixed inconsistent DOI format (ogng.md: doi: → doi/)
+- Fixed excessive blank lines in frontmatter (~8 pages)
+- Fixed duplicate table entries (bril.md, angiotensin-ii-type-1-receptor.md)
+- Fixed missing/truncated content (sotb.md, nupg-nucleoside-transporter.md) — also fixed embedded corruptions
+- Fixed self-referencing wikilinks (~10 pages) — li2so4, peg-400, nanobody
+- Fixed missing tags (nanobody-nb-at110i1.md) — added [additive-antibody, sample-preparation]
+- Removed stale .ipynb_checkpoints directories
+- Lint: 3 issues (checklist.md no frontmatter — intentional; checklist/nanobody not in index — intentional)
+|- Page count: 128 → 120 (2 checkpoint files removed, 120 wiki pages remain)
+
+## [2026-04-28] reorganize | Directory structure reorganization (3 new subdirectories)
+- Created `reagents/antibodies/` — moved 4 files: nanobody.md, nanobody-nb39.md, nanobody-nb-at110i1.md, fab-fragments.md
+- Created `methods/expression-systems/` — moved 3 files: baculovirus-expression.md (from methods/purification/), hek293-cells.md (from reagents/), pichia-pastoris.md (from reagents/)
+- Created `methods/quality-assessment/` — moved 1 file: coomassie-staining.md (from reagents/)
+- Moved `cholesterol-hydrogen-succinate.md` from reagents/ root → reagents/lipids/
+- Fixed frontmatter: baculovirus-expression.md tags → [expression-system]; coomassie-staining.md type → method; hek293-cells.md type → method, tags → [expression-system]; pichia-pastoris.md type → method, tags → [expression-system]; cholesterol-hydrogen-succinate.md tags → [lipid, lipid-sterol, additive-stabilizer]
+- Removed `reagents/imidazole.md` from "Other Reagents" — kept at root (cross-category, used in purification AND crystallization)
+- Removed `methods/crystallization/monoolein.md` from index — kept in crystallization/ (primarily LCP crystallization medium)
+- Updated SCHEMA.md: added Directory Structure tree with new dirs, added expression-system and quality-assessment tag taxonomy
+- Rebuilt index.md: moved CHS → Lipids, nanobodies/Fab → Antibodies (new), baculovirus/HEK293/Pichia → Expression Systems (new), coomassie → Quality Assessment (new), removed baculovirus from Purification
+- Directory counts: proteins/(20), reagents/detergents/(13), reagents/buffers/(3), reagents/lipids/(4), reagents/additives/(12), reagents/ligands/(25), reagents/purification/(7), reagents/antibodies/(4), reagents/imidazole.md(root/1), methods/purification/(5), methods/expression-systems/(3), methods/crystallization/(4), methods/solubilization/(1), methods/structure-determination/(4), methods/quality-assessment/(1), concepts/(7), root meta(4)
+- Total wiki pages: 120
+
+## [2026-04-28] source-audit | Add sources to empty-source pages + enrich from raw papers
+- Added sources to 9 pages with empty `sources: []`:
+  - sodium-acetate.md → doi/10.1016##j.cell.2017.03.010
+  - jeffamine.md → doi/10.1016##J.FEBSLET.2005.09.061
+  - peg-2000.md → doi/10.1016##j.cell.2019.01.003
+  - peg-300.md → doi/10.1016##j.cell.2016.09.056, doi/10.1016##j.cell.2018.12.006, doi/10.1016##j.jbc.2021.100479
+  - sodium-citrate.md → doi/10.1016##j.cell.2016.09.056, doi/10.1016##j.cell.2019.06.031, doi/10.1016##J.FEBSLET.2005.09.061, doi/10.1016##j.jbc.2021.100479
+  - dm.md → doi/10.1002##anie.201302374
+  - ion-channels.md → doi/10.1016##J.CELL.2010.05.003, doi/10.1016##j.cell.2019.06.031, doi/10.1016##j.jmb.2020.06.012
+  - cora-mg-transporter.md → doi/10.1002##pro.215
+  - metal-ion-transporter.md → doi/10.1002##pro.215
+- nh4h2po4.md: no source found in incorporated papers (skipped)
+- Enriched 4 pages from raw paper re-reads:
+  - cd81-tetraspanin.md: Added MD simulation details (EC2 open/closed conformations, cholesterol stabilization, D196-K201 salt bridge mechanism)
+  - navab-sodium-channel.md: Added resting-state VS details (S3-S4 loop new fold, S4 inward movement ~11.5 Å, S4-S5 linker elbow bend, KAV electrophysiology)
+  - zntb-transporter.md: Added pentamer formation details (α6 stalk critical, buried surface areas, truncation artifact explanation)
+  - cora-mg-transporter.md: Added pentamer formation section from ZntB comparison
+|- Pages modified: 13 (9 source additions + 4 enrichment)
+
+## [2026-04-28] source-audit | Paper 1 re-read: NtMATE2 (10.1002##1873-3468.14136)
+- Re-read raw paper: 10.1002##1873-3468.14136.md (NtMATE2 transporter, PDB 7DQK)
+- Pages updated: 1 (nTMATE2-transporter.md — major enrichment: added Expression section with Pichia strain/plasmid/selection/Microfluidizer lysis; expanded Purification with exact buffer compositions for TALON equilibration/wash/elution; added Amicon concentration step; added beamline/software details; restructured into 6-section format)
+- Pages created: 2 (microfluidizer.md — M-110EH cell lysis equipment; nicotine-ligand.md — co-crystallization ligand with binding site details)
+- Pages with source fixed: 1 (nh4h2po4.md — added source DOI, removed TODO)
+- Pages already had NtMATE2 content (no changes needed): lmng.md, cholesterol-hydrogen-succinate.md, tev-protease.md, amicon-filters.md, superdex-columns.md, monoolein.md, pichia-pastoris.md, tris-buffer.md, hepes-buffer.md, sodium-chloride.md, glycerol.md, mfs-transporter.md, xray-crystallography.md
+- Total wiki pages: 118
+
+## [2026-04-28] reorganize | Purification directory restructuring
+- Merged imac.md into affinity-chromatography.md (IMAC is a subtype of affinity chromatography)
+- Moved talon-resin.md, superdex-columns.md, amicon-filters.md from reagents/purification/ → methods/purification/
+- Created reagents/protein-tags/ — moved tev-protease.md, bril.md, t4-lysozyme.md (GPCR fusion partners)
+- Created methods/cell-lysis/ — moved microfluidizer.md (upstream of purification)
+- Moved sf9-cells.md to methods/expression-systems/ (expression system, not purification)
+- Deleted empty reagents/purification/ directory
+- Updated index.md, SCHEMA.md, scripts/index-rebuild.py
+- Total pages: 117 (imac.md merged, no pages lost)
+
+## [2026-04-28] protein-page-audit | Focused on reagent/structural resolution workflow
+
+- Re-read SCHEMA.md and all 21 protein pages against expected structure
+- Expected structure: Overview, Structure Determination, Solubilization reagents, Purification strategy, Crystallization conditions, Key findings
+- Pages fixed:
+  - angiotensin-ii-type-1-receptor.md: Added dedicated Expression and Purification section; reorganized scattered solubilization info (1% DDM + 0.2% CHS) into proper section; added Crystallization section with details from both 4YAY and 6DO1 structures
+  - kirbac.md: Expanded solubilization/purification from raw paper (1% Anzergent 3,12, 20,000 psi homogenizer, Ni-IMAC + SEC, ~8 mg/mL concentration, 19°C vapor diffusion at Bio21 C3 facility)
+  - psi-lhci-supercomplex.md: Removed empty Cross-References section; converted bare wikilink list to proper Cross-References with descriptions; added related photosynthetic complexes section
+  - sotb.md: Added PDB IDs (6Y5X–6Y5C); noted truncated source paper limitation; added MFS transporter convention-based estimates for solubilization/purification
+  - rps-viridis-reaction-center.md: Added Luzzati coordinate error (0.26 Å); added Ramachandran stats; noted OG solubilization and LDAO crystal detergent; added key reagents summary table
+- Pages unchanged (already focused): 5ht2b-receptor, a2a-adenosine-receptor, a2a-star2, acrB, adenine-nucleotide-transporter, cd81-tetraspanin, etb-receptor, kappa-opioid-receptor, lb-semisweet, lpa1-receptor, mmpL3, navab-sodium-channel, nTMATE2-transporter, nupg-nucleoside-transporter, opsin-gpcr, p2y12-receptor, zntb-transporter
+- index.md updated (removed stale source-audit line)
+
+## [2026-04-28] ingest | 10.1016##J.JMB.2004.08.090 — Bovine Rhodopsin Trigonal Form
+
+- **Raw paper**: 10.1016/j.jmb.2004.08.090 — Structure of Bovine Rhodopsin in a Trigonal Crystal Form (2.65 Å, P3₁)
+- **New page created**: [[bovine-rhodopsin]] — Dark state rhodopsin (11-cis-retinal-bound) from native bovine rod outer segment disk membranes
+  - Key: C8E4 + 0.05% LDAO solubilization; ordered LDAO at H6 kink; structural phospholipids; helix kink analysis; water-mediated H-bond networks
+- **Updated**: [[opsin-gpcr]] — Added DOI to sources; added cross-reference to bovine-rhodopsin; added LDAO cross-reference
+- **Updated**: [[lDAO]] — Added DOI to sources; added Bovine Rhodopsin section with detailed binding data (0.05% in C8E4, critical for crystal quality)
+- **index.md**: Updated (117 → 118 pages)
+
+## [2026-04-28] ingest | 10.1016##J.JMB.2007.03.007 — Recombinant Rhodopsin N2C/D282C
+
+- **Raw paper**: 10.1016/j.jmb.2007.03.007 — Crystal Structure of a Thermally Stable Rhodopsin Mutant
+- **Key finding**: First structure of a recombinantly produced GPCR (COS-1 cells)
+- **Updated page**: [[bovine-rhodopsin]] — Added Recombinant N2C/D282C section with full workflow:
+  - COS-1 expression (~0.6 mg yield, 10% higher than native)
+  - 1D4 immunoaffinity purification, Sephadex G50 detergent exchange (DDM → C8E4)
+  - Crystallization: 1.2–1.7 M Li₂SO₄, 0.1 M Hepes pH 7.5, 0.05% LDAO, 10 mg/ml
+  - Microcrystallography (5 µm beam, ESRF ID13), P3₁, 3.4 Å, PDB 2J4Y
+  - Engineered C2-C282 disulfide: +10°C stability, fixes N-terminal cap
+  - Triple mutant N2C/N15D/D282C (deglycosylated): did NOT improve crystal quality
+- **Updated**: [[opsin-gpcr]] — Added DOI to sources; updated cross-reference description
+- **Updated**: [[li2so4]] — Added DOI to sources; added bovine rhodopsin crystallization details (1.2–1.7 M)
+- **Updated**: [[lDAO]] — Added DOI to sources; added recombinant bovine rhodopsin entry
+- **checklist.csv**: Updated both DOIs (JMB.2004.08.090 and JMB.2007.03.007)
+
+## [2026-04-28] ingest | 10.1016##J.JMB.2008.04.017 — PorB Porin from Corynebacterium glutamicum
+
+- **Raw paper**: 10.1016/j.jmb.2008.04.017 — A Putative α-Helical Porin from *Corynebacterium glutamicum*
+- **New page created**: [[porb-porin]] — First α-helical porin from bacterial outer envelope; unusual detergent-free purification
+  - E. coli GST fusion expression, factor Xa cleavage, GST affinity + SEC (S75-26/60), NO DETERGENT in purification
+  - 4 crystal forms, 16 independent molecules, 1.8 Å (Form I, P4₁2₁2), BESSY/SLS synchrotrons
+  - Proposed pentameric (C₅) α-helical channel model with polar interior, nonpolar exterior
+  - Intersubunit Ca²⁺/Zn²⁺ cross-links; citrate blocks by chelating these ions
+  - Crystallization: Hampton/Jena/Emerald screens, MPD cryoprotection
+- **checklist.csv**: Updated
+
+## [2026-04-28] ingest | 10.1016##J.JMB.2009.04.001 — MexB RND Multidrug Exporter
+
+- **Raw paper**: 10.1016/j.jmb.2009.04.001 — Crystal Structure of the Multidrug Exporter MexB from *Pseudomonas aeruginosa*
+- **New page created**: [[mexb]] — Inner membrane component of MexAB-OprM tripartite efflux pump
+  - E. coli C43 (DE3) expression, pET28, C-terminal His-tag
+  - 1% DDM solubilization (Anatrace D310LA); Ni-NTA + Superdex 200 SEC (0.03% DDM maintained)
+  - P1, 3.0 Å, MR from AcrB (2J8S), 2 trimers in asymmetric unit
+  - Asymmetric homotrimer: 3 conformational states (binding, extrusion, intermediate)
+  - DDM molecule bound in multidrug-binding cavity (residues Val47, Ser48, Gln125, Val177, Gly179, Ser180, Gln273, Arg620)
+  - Proton translocation site: Asp407, Asp408 (TM4), Lys939 (TM10)
+  - Unique subunit A conformation vs AcrB — PC2 shift closes periplasmic portal
+- **Updated**: [[acrB]] — Added DOI to sources; added MexB cross-reference
+- **Updated**: [[ddm]] — Added MexB entry (1% solubilization, 0.03% maintained throughout purification)
+- **index.md**: Updated (119 → 120 pages)
+- **checklist.csv**: Updated
+
+## [2026-04-28] ingest | 10.1016##J.JMB.2009.05.082 — c-Ring Rotor from I. tartaricus
+
+- **Raw paper**: 10.1016/j.jmb.2009.05.082 — Complete Ion-Coordination Structure in the Rotor Ring of Na+-Dependent F-ATP Synthases
+- **Note**: This is a re-refinement of the c-ring structure (Meier et al. 2005 Science, PDB 1YCE → 2WGM). Original purification/crystallization methods are in the 2005 Science paper (not in raw papers folder).
+- **New page created**: [[c-ring-rotor]] — c11 rotor ring from *Ilyobacter tartaricus* Na+-ATP synthase
+  - Updated structure: 2.35 Å, P2₁, 4 rings in asymmetric unit (44 c-subunits)
+  - Complete Na+ coordination: 5 ligands (Gln32, Val63, Glu65, Ser66, + buried structural water)
+  - Thr67 hydroxyl coordinates the water — KEY distinction between Na+- and H+-ATP synthases
+  - 44 fatty acid chains observed (from membrane lipids)
+  - MD simulations confirm water molecule essential for Na+ selectivity
+  - **Action needed**: Download original Science paper (10.1126/science.1108259) for purification/crystallization methods
+- **index.md**: Updated (120 → 121 pages)
+- **checklist.csv**: Updated
+
+## [2026-04-28] create | imac.md — Immobilized Metal Affinity Chromatography
+
+- **New page created**: [[imac]] — IMAC (Immobilized Metal Affinity Chromatography) for His-tag purification
+  - Ni-NTA, TALON (Co2+), IDA variants
+  - Typical protocol: equilibration, binding, wash (10-40 mM imidazole), elution (150-500 mM imidazole)
+  - Applications in membrane protein work: E. coli, Sf9, HEK293, Pichia expression systems
+  - Detergent compatibility with most non-ionic detergents (DDM, LMNG, OG, etc.)
+- **Updated**: [[imidazole]] — Changed reference from [[affinity-chromatography]] to [[imac]]
+- **Updated**: [[p2y12-receptor]] — Changed reference from [[affinity-chromatography]] to [[imac]]
+- **index.md**: Updated (added IMAC to Purification Methods section)
+
+## [2026-04-28] batch | 5 DOIs incorporated (DOI 6-10)
+
+### DOI 6: 10.1016##J.MOLCEL.2011.10.020 — ICMT (Isoprenylcysteine Carboxyl Methyltransferase)
+- **New page created**: [[icmt]] — Integral membrane SAM-dependent methyltransferase
+  - *Methanosarcina acetivorans* ortholog (Ma-ICMT)
+  - 5 TM helices + cytosolic C-terminal helix, 3.4 Å, PDB 4A2N
+  - SAM cofactor pocket enclosed in catalytic subdomain, substrate access tunnel from membrane
+  - Arg163 (M2 motif) positions substrate carboxylate for nucleophilic attack
+  - Expression: E. coli C41(DE3), Ma-ICMT-GFP-His7, 20°C overnight
+  - Purification: Ni-NTA → ion exchange → SEC
+  - Detergent: 0.024% DDM
+  - Crystallization: 8 mg/ml, 20 mM MES pH 6.5, 200 mM NaCl, 10% glycerol, 0.024% DDM, 5 mM SAH, 0.5 mg/ml polar lipids
+  - SAD phasing: KAu(CN)2 or EMTS derivatives, Diamond I02/I03
+
+### DOI 7: 10.1016##J.STR.2012.03.014 — β1-Adrenoceptor with Biased Agonists
+- **New page created**: [[beta1ar-biased-agonists]] — Thermostabilized avian β1AR-m23 with bucindolol (3.2 Å) and carvedilol (2.3 Å)
+  - PDB 4AMI (bucindolol), 4AMJ (carvedilol), P2₁ space group
+  - Biased agonism: both stimulate G protein-independent pathways while acting as inverse/partial agonists of G protein pathway
+  - Bucindolol and carvedilol interact with additional residues in EL2 and TM7
+  - Ser215⁵,⁴⁶ forms interhelical H-bond (partial agonist-like); no binding pocket contraction
+  - H8-H1 interface: Arg355⁸,⁵⁶ H-bonds with Ser68¹,⁵⁹/Thr69¹,⁶⁰ stabilize receptor
+  - Arg/Gly389 polymorphism structural explanation for pharmacological differences
+  - 5 detergent molecules (bucindolol), 12 (carvedilol) observed
+
+### DOI 8: 10.1016##J.STR.2014.12.012 — PepTSo (Proton-Coupled Oligopeptide Transporter)
+- **New page created**: [[peptso]] — POT family transporter from *S. oneidensis* at 3.0 Å (PDB 4UVM)
+  - 12 TM helices, two inverted-topology 6-helix repeats, P4₁2₁2
+  - Double scissor-switch gating model: periplasmic gate (H1,H2,H7,H8), cytoplasmic gate (H4,H5,H10,H11)
+  - Salt bridges: D136-K439 and K84-D79 stabilize outward-facing
+  - Proline kinks in H8 (P345, P353) essential for transport
+  - DEER spectroscopy confirms conformational dynamics
+  - MD simulations: both proteins sample inward-facing, occluded, outward-facing states
+
+### DOI 9: 10.1016##S0022-2836(03)00024-X — LH2 Light-Harvesting Complex
+- **New page created**: [[lh2-rps-acidophila]] — LH2 from *Rps. acidophila* at 2.0 Å (100 K) with TLS refinement
+  - C₉ nonameric ring, 18 B850 BChl a (9 dimers), 9 B800 BChl a, 2 rhodopin glucoside per unit
+  - TLS refinement: 48 tensors optimal, reveals functionally relevant pigment motions
+  - B850-Ueq=0.4 Å², B800-Ueq=0.6 Å², inter-pigment displacements ~0.7 Å
+  - Ligands: B850 to α-His31/β-His30, B800 to α-Met1 (carboxy-modified)
+  - Detergent: β-octyl glucoside (BOG) in preparation and crystallization
+  - Energy transfer implications: TLS motions (3-7 ps) may drive energy transfer
+
+### DOI 10: 10.1016##S0969-2126(99)80118-X — Bacteriorhodopsin at 1.9 Å
+- **New page created**: [[bacteriorhodopsin-19a]] — bR from *Halobacterium salinarum* in LCP at 1.9 Å
+  - 7 TM helices, retinal bound to Lys216 via Schiff base
+  - 8 well-ordered water molecules in proton translocation pathway (Schiff base → Asp85 → Asp212 → Arg82 → Glu194 → Glu204)
+  - 9 lipid phytanyl moieties modeled (native purple membrane lipids)
+  - MALDI-MS single crystal: PGP-Me, TGD, S-TGA-1, S-TeGa
+  - LCP crystallization in monoolein — preserves native lipid environment
+  - Cytoplasmic side more flexible than extracellular (B-factors 24-33 vs 19-26 Å²)
+  - No ordered waters on cytoplasmic side — hydrophobic seal (Val49-Leu93)
+
+### Updates
+- **index.md**: Updated (121 → 126 pages, added 5 new protein pages + monoolein lipid + IMAC method)
+- **checklist.csv**: Updated (5 rows changed from no to yes)
