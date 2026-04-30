@@ -85,7 +85,7 @@ The adenosine A1 receptor is a G protein-coupled receptor involved in cardiac, r
 - [a2a-star2](/xray-mp-wiki/proteins/a2a-star2/) — A2A-STAR2
 - [5ht2b-receptor](/xray-mp-wiki/proteins/5ht2b-receptor/) — 5-HT2B Receptor with BRIL fusion
 
-## References
+### Paper Details
 
 - Glukhova et al. (2017) Cell 168:867-877 — A1-AR structure with DU172
 - Beauglehole et al. (2000) — DU172 compound characterization

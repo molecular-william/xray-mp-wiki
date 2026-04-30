@@ -76,6 +76,15 @@ ICMT (Isoprenylcysteine Carboxyl Methyltransferase) is an integral membrane meth
 - **Farnesyl transferase**: Attaches farnesyl lipid to cysteine of CAAX motif
 - **Geranylgeranyl transferase**: Attaches geranylgeranyl lipid to cysteine of CAAX motif
 
-## References
+## Cross-References
+
+- [ddm](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used for solubilization (0.024% throughout purification)
+- [mes-buffer](/xray-mp-wiki/reagents/buffers/mes-buffer/) — MES buffer pH 6.5 used in crystallization
+- [glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — 10% glycerol in crystallization buffer
+- [affinity-chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Ni-NTA affinity purification via His7 tag
+- [size-exclusion-chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Final SEC polishing step
+- [tev-protease](/xray-mp-wiki/reagents/protein-tags/tev-protease/) — TEV-cleavable tag strategy
+
+### Paper Details
 
 - Yang et al. (2011) Molecular Cell 44: [DOI: 10.1016/j.molcel.2011.10.020] — Crystal structure of Ma-ICMT

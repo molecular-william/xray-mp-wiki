@@ -94,7 +94,7 @@ PepTSo is a proton-coupled oligopeptide transporter from the POT (Peptide Transp
 - [mmpL3](/xray-mp-wiki/proteins/mmpL3/) — Mycobacterial drug transporter
 - [adenine-nucleotide-transporter](/xray-mp-wiki/proteins/adenine-nucleotide-transporter/) — ANT (nucleotide transporter)
 
-## References
+### Paper Details
 
 - Fowler et al. (2015) Structure 23:290-301 — Gating topology of PepTSo
 - Newstead et al. (2011) — PepTSo structure and dynamics

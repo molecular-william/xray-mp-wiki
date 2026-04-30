@@ -103,3 +103,14 @@ MCE (Mycobacterium Smegmatis Cell Envelope) proteins form diverse architectures 
 - **Conserved building block**: Hexameric ring module used across diverse MCE family architectures
 - **Periplasm-spanning**: Multiple architectures (tube, syringe, barrel) for lipid trafficking
 - **Co-evolution**: MlaD TM helices co-evolve with MlaE membrane-spanning region
+
+## Cross-References
+
+- [ddm](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used for solubilization of MlaFEDB and MlaD
+- [vapor-diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion/) — Sitting drop vapor diffusion used for MlaC crystallization
+- [size-exclusion-chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — SEC used for complex purification
+- [affinity-chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — His-tag affinity purification
+- [glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Cryoprotection in crystallization
+- [peg-400](/xray-mp-wiki/reagents/additives/peg-400/) — PEG precipitants commonly used in crystallization
+- [nTMATE2-transporter](/xray-mp-wiki/proteins/nTMATE2-transporter/) — Another bacterial transporter with DDM-based purification
+- [zntb-transporter](/xray-mp-wiki/proteins/zntb-transporter/) — Another bacterial transporter (MCE family)

@@ -97,7 +97,7 @@ LH2 is a peripheral light-harvesting antenna complex from purple non-sulfur bact
 - [rps-viridis-reaction-center](/xray-mp-wiki/proteins/rps-viridis-reaction-center/) — Reaction center from Rhodopseudomonas viridis
 - [psi-lhci-supercomplex](/xray-mp-wiki/proteins/psi-lhci-supercomplex/) — PSI-LHCI Supercomplex from plants
 
-## References
+### Paper Details
 
 - Papiz et al. (2003) JMB 326:1523-1538 — LH2 structure at 2.0 Å with TLS refinement
 - McDermott et al. (1995) Nature 374:517-521 — Original LH2 structure at 2.5 Å

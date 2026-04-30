@@ -98,7 +98,7 @@ The progression is ABC (not BAC), with each subunit cycling through binding → 
 - [acrB](/xray-mp-wiki/proteins/acrB/) — *E. coli* RND multidrug exporter (69.8% identity with MexB)
 - [mmpL3](/xray-mp-wiki/proteins/mmpL3/) — Mycobacterial drug transporter
 
-## References
+### Paper Details
 
 - Sennhauser et al. (2009) JMB 389:134–145 — MexB crystal structure at 3.0 Å
 - Murakami et al. (2002) Nature 419:587–593 — First AcrB structure

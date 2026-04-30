@@ -115,7 +115,7 @@ Bacteriorhodopsin (bR) from *Halobacterium salinarum* is a light-driven proton p
 - [bovine-rhodopsin](/xray-mp-wiki/proteins/bovine-rhodopsin/) — Bovine rhodopsin trigonal crystal form
 - [5ht2b-receptor](/xray-mp-wiki/proteins/5ht2b-receptor/) — Serotonin GPCR with BRIL fusion
 
-## References
+### Paper Details
 
 - Belrhali et al. (1999) Structure 7:917-925 — Bacteriorhodopsin at 1.9 Å in LCP
 - Pebay-Peyroula et al. (1997) Nature 388:165-168 — Preliminary LCP structure at 2.5 Å

@@ -41,3 +41,9 @@ The Microfluidizer is a high-pressure homogenizer used for cell lysis and membra
 - **French press**: Older high-pressure homogenizer technology
 - **Bead beating**: Mechanical disruption using glass beads
 - **Detergent lysis**: Direct solubilization of membranes
+
+## Cross-References
+
+- [nTMATE2-transporter](/xray-mp-wiki/proteins/nTMATE2-transporter/) — *Pichia pastoris* cells lysed by Microfluidizer (5 passes, 22,000 p.s.i.)
+- [centrifugation](/xray-mp-wiki/methods/purification/centrifugation/) — Membrane fraction separation after cell lysis
+- [glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — 10% glycerol in lysis buffer for cell resuspension

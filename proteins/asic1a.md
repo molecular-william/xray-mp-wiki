@@ -95,7 +95,7 @@ Acid-sensing ion channels (ASICs) are voltage-independent, sodium-selective ion 
 - [navab-sodium-channel](/xray-mp-wiki/proteins/navab-sodium-channel/) — NaVAb sodium channel
 - [ion-channels](/xray-mp-wiki/concepts/ion-channels/) — Ion channels concept page
 
-## References
+### Paper Details
 
 - Baconguis et al. (2014) Cell — ASIC1a-MitTx open state structure
 - Baconguis and Gouaux (2012) — Δ13 construct methods

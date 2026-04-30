@@ -85,7 +85,7 @@ Both bucindolol and carvedilol are classified as **biased agonists**:
 - [opsin-gpcr](/xray-mp-wiki/proteins/opsin-gpcr/) — Rhodopsin (dark state)
 - [p2y12-receptor](/xray-mp-wiki/proteins/p2y12-receptor/) — P2Y12 Receptor with BRIL fusion
 
-## References
+### Paper Details
 
 - Warne et al. (2012) Structure 20:841-849 — Crystal structures of β1AR-m23 with bucindolol and carvedilol
 - Serrano-Vega et al. (2008) — β1AR-m23 thermostabilization

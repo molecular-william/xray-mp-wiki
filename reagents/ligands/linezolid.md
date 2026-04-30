@@ -25,7 +25,7 @@ layout: default
 
 ## Mechanism of Action
 
-Linezolid inhibits bacterial protein synthesis by specifically binding to the 50S ribosomal subunit. It was the first FDA-approved oxazolidinone antibiotic, used as a "reserve antibiotic" for serious Gram-positive infections resistant to other antibiotics. It has no clinically significant effect on most Gram-negative bacteria, partly due to low intracellular [amicon-filters](/xray-mp-wiki/methods/purification/amicon-filters/) caused by efflux.
+Linezolid inhibits bacterial protein synthesis by specifically binding to the 50S ribosomal subunit. It was the first FDA-approved oxazolidinone antibiotic, used as a "reserve antibiotic" for serious Gram-positive infections resistant to other antibiotics. It has no clinically significant effect on most Gram-negative bacteria, partly due to low intracellular concentration caused by efflux.
 
 ## Binding to AcrB
 
@@ -44,3 +44,8 @@ This binding site is shared with ethidium, nafcillin, and ampicillin — drugs p
 - **Ethidium**: Binds same AcrB site; used as a probe for efflux activity
 - **Nafcillin**: Penicillin-class antibiotic extruded by AcrB
 - **Ampicillin**: Beta-lactam antibiotic extruded by AcrB
+
+## Cross-References
+
+- [acrB](/xray-mp-wiki/proteins/acrB/) — AcrB multidrug efflux pump; Linezolid binds at symmetric A385/F386 loop
+- [mexb](/xray-mp-wiki/proteins/mexb/) — Another RND-type multidrug efflux pump (MexB from P. aeruginosa)

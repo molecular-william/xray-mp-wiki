@@ -63,7 +63,7 @@ A local conformational change of up to 4 Å in backbone position was observed at
 - [mmpL3](/xray-mp-wiki/proteins/mmpL3/) — Mycobacterial drug transporter (anti-TB drug target)
 - [sotb](/xray-mp-wiki/proteins/sotb/) — E. coli antiporter (MFS family)
 
-## References
+### Paper Details
 
 - Murakami et al. (2002) Nature 419:587–593 — First AcrB structure
 - Murakami et al. (2006) Nature 443:173–179 — Drug-bound AcrB structures

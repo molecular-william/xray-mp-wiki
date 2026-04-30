@@ -78,7 +78,7 @@ The receptor consists of canonical 7 transmembrane helices (TM), amphipathic hel
 - [kappa-opioid-receptor](/xray-mp-wiki/proteins/kappa-opioid-receptor/) — Opioid GPCR with [nanobody](/xray-mp-wiki/reagents/antibodies/nanobody/) stabilization
 - [p2y12-receptor](/xray-mp-wiki/proteins/p2y12-receptor/) — GPCR with BRIL fusion and LCP crystallization
 
-## References
+### Paper Details
 
 - Izume et al. (2020) Biochem. Biophys. Res. Commun. — ETB-S6b structure (this paper)
 - Shihoya et al. (2018) Nat. Commun. 9:4711 — ETB-ET-3 structure

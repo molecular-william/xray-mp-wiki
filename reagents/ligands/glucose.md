@@ -30,3 +30,5 @@ A simple hexose sugar (C6H12O6) that serves as a primary substrate for the SWEET
 ## Cross-References
 
 - [lb-semisweet](/xray-mp-wiki/proteins/lb-semisweet/) — Primary protein where glucose was characterized as substrate
+- [nupg-nucleoside-transporter](/xray-mp-wiki/proteins/nupg-nucleoside-transporter/) — Another sugar/nucleoside transporter
+- [peptso](/xray-mp-wiki/proteins/peptso/) — Proton-coupled oligopeptide transporter (SWEET-related family)

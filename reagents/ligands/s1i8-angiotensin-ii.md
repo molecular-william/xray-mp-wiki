@@ -36,3 +36,9 @@ The I8 side chain is critical: it is slightly too small to fully engage Y292⁷�
 - **AngII** (Asp-Arg-Val-Tyr-Ile-His-Pro-Phe) — endogenous full agonist
 - **TRV055** — AngII analog with first residue deleted (retains affinity for N-terminal BRIL fusion constructs)
 - **ARBs** (losartan, olmesartan) — small-molecule antagonists with different binding mode
+
+## Cross-References
+
+- [angiotensin-ii-type-1-receptor](/xray-mp-wiki/proteins/angiotensin-ii-type-1-receptor/) — AT1R target protein, S1I8 used in crystallization of active-state AT1R
+- [bril](/xray-mp-wiki/reagents/protein-tags/bril/) — BRIL fusion used in AT1R crystallization
+- [losartan](/xray-mp-wiki/reagents/ligands/losartan/) — Small-molecule ARB antagonist

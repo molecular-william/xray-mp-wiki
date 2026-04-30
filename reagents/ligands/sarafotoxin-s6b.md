@@ -34,5 +34,8 @@ Sarafotoxins share high structural and functional homology with endothelins (ET-
 
 Four major isopeptides: S6a, S6b, S6c, S6d
 
-| Sarafotoxin | Residue 9 | ETB affinity | ETA affinity |
-|
+## Cross-References
+
+- [etb-receptor](/xray-mp-wiki/proteins/etb-receptor/) — Endothelin ETB receptor, primary target of Sarafotoxin S6b
+- [s1i8-angiotensin-ii](/xray-mp-wiki/reagents/ligands/s1i8-angiotensin-ii/) — Angiotensin II analog with similar structural biology approach
+- [losartan](/xray-mp-wiki/reagents/ligands/losartan/) — Small-molecule ETB antagonist
