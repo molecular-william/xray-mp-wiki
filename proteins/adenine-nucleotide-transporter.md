@@ -1,5 +1,4 @@
 ---
-
 title: ADP/ATP Carrier (AAC)
 created: 2026-04-27
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [transporter, pump]
 sources: [doi/10.1016##j.cell.2018.11.025, doi/10.1016##J.FEBSLET.2005.09.061]
 
 category: proteins
----
 layout: default
+---
+
 
 
 # ADP/ATP Carrier (AAC)

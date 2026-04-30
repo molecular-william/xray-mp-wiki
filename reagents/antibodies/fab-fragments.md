@@ -1,5 +1,4 @@
 ---
-
 title: Fab Fragments (Crystallization Facilitators)
 created: 2026-04-26
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [additive-antibody]
 sources: [doi/10.1016##j.bbrc.2023.149393]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # Fab Fragments for GPCR Crystallization

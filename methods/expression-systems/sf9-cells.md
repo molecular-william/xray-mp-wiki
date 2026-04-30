@@ -1,6 +1,4 @@
 ---
-
-
 title: Sf9 Insect Cells
 created: 2026-04-27
 updated: 2026-04-27
@@ -10,8 +8,9 @@ sources: [doi/10.1016##j.bbrc.2019.12.091]
 
 
 category: methods
----
 layout: default
+---
+
 
 
 
@@ -50,13 +49,4 @@ The Bac-to-Bac system (Invitrogen/Thermo Fisher) enables rapid generation of rec
 ## Comparison with Other Expression Systems
 
 | System | Expression Level | PTMs | Typical Use |
-|--------|-----------------|------|-------------|
-| *E. coli* | Very high | None (no disulfides in cytoplasm) | Soluble proteins, inclusion bodies |
-| *Pichia pastoris* | High | Glycosylation (hypermannosylated) | GPCRs, transporters |
-| Sf9 insect cells | Moderate-High | Mammalian-like glycosylation | GPCRs, large complexes |
-| HEK293 mammalian | Low-Moderate | Full mammalian PTMs | Functional assays, native GPCRs |
-
-## Related Expression Systems
-
-- [pichia-pastoris](/xray-mp-wiki/methods/expression-systems/pichia-pastoris/) — Yeast expression system for eukaryotic membrane proteins
-- [hek293-cells](/xray-mp-wiki/methods/expression-systems/hek293-cells/) — HEK293 mammalian cells for GPCR functional assays
+|

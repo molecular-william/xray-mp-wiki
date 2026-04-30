@@ -1,6 +1,4 @@
 ---
-
-
 title: Candesartan
 created: 2026-04-27
 updated: 2026-04-27
@@ -10,8 +8,9 @@ sources: [doi/10.1016##j.cell.2015.04.011]
 
 
 category: reagents
----
 layout: default
+---
+
 
 
 
@@ -43,16 +42,4 @@ Candesartan binds to the ligand-binding pocket of the human angiotensin II type 
 ## Comparison with Other ARBs
 
 | ARB | Tetrazole | Arg167 Interactions | Lys199 Interaction | Dissociation |
-|-----|-----------|-------------------|-------------------|--------------|
-| Candesartan | Yes | 2 salt bridges | Yes (tetrazole) | Very slow |
-| ZD7155 | Yes | Extensive network | No | Slow |
-| Valsartan | No | 1 salt bridge | No | Moderate |
-| Losartan | Yes | 1 salt bridge | No | Fast |
-| Telmisartan | No | 2 salt bridges | Yes | Slow |
-
-## Related Ligands
-
-- [zd7155](/xray-mp-wiki/reagents/ligands/zd7155/) — High-affinity antagonist, precursor to candesartan
-- [losartan](/xray-mp-wiki/reagents/ligands/losartan/) — First ARB, surmountable antagonist
-- [valsartan](/xray-mp-wiki/reagents/ligands/valsartan/) — Clinically used ARB
-- [irbesartan](/xray-mp-wiki/reagents/ligands/irbesartan/) — Clinically used ARB
+|

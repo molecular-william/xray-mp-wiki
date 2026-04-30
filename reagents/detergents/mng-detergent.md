@@ -1,5 +1,4 @@
 ---
-
 title: MNG Detergent
 created: 2026-04-27
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [detergent-nonionic]
 sources: [doi/10.1016##j.cell.2018.12.006]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # MNG Detergent (Maltose Neopentyl Glycol)

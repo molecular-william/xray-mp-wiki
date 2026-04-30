@@ -6,8 +6,9 @@ type: reagent
 tags: [buffer-morpholine]
 sources: [doi/10.1016##j.celrep.2015.10.025]
 category: reagents
----
 layout: default
+---
+
 
 # MOPS Buffer
 

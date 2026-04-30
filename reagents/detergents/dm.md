@@ -1,6 +1,4 @@
 ---
-
-
 title: DM (Decylmaltoside)
 created: 2026-04-27
 updated: 2026-04-27
@@ -10,8 +8,9 @@ sources: [doi/10.1002##anie.201302374]
 
 
 category: reagents
----
 layout: default
+---
+
 
 
 
@@ -46,14 +45,4 @@ layout: default
 ## Comparison with Related Detergents
 
 | Detergent | Chain Length | CMC (mM) | Strength | Use Case |
-|-----------|-------------|----------|----------|----------|
-| DM | 10 carbons | ~0.17 | Mild | Retinal pockets, mild solubilization |
-| DDM | 12 carbons | ~0.17 | Moderate | General membrane protein solubilization |
-| OG | 8 carbons | ~25 | Strong | Short-chain, crystallization |
-| LMNG | 12 carbons + maltose | ~0.01 | Ultra-mild | GPCR crystallization |
-
-## Related Detergents
-
-- [ddm](/xray-mp-wiki/reagents/detergents/ddm/) — n-dodecyl-β-D-maltoside; standard membrane protein detergent
-- [og](/xray-mp-wiki/reagents/detergents/og/) — n-octyl-β-D-glucoside; very mild detergent
-- [lmng](/xray-mp-wiki/reagents/detergents/lmng/) — lauryl [mng-detergent](/xray-mp-wiki/reagents/detergents/mng-detergent/); ultra-mild GPCR detergent
+|

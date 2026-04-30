@@ -1,5 +1,4 @@
 ---
-
 title: ZntB Transporter
 created: 2026-04-27
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [transporter, membrane-protein, channel]
 sources: [doi/10.1002##pro.215]
 
 category: proteins
----
 layout: default
+---
+
 
 
 # ZntB Transporter
@@ -96,32 +96,4 @@ A striking finding: **25 well-defined Cl⁻ ions** per pentamer (5 per monomer) 
 ## Comparison with CorA
 
 | Feature | Vp-ZntB | Tm-CorA |
-|---------|---------|---------|
-| Oligomer | Pentamer | Pentamer |
-| Cytoplasmic domain | Pentamer (intrinsic) | Pentamer (full-length) / Dimer (truncated) |
-| Metal binding | Cl⁻ ions (25/pentamer) | Mg²⁺/Co²⁺/Ca²⁺ binding sites |
-| Pore state | Open model | Closed model |
-| Sequence identity | 17% | — |
-
-## Functional Implications
-
-- ZntB prefers Cl⁻ over Mg²⁺ binding (pI drops from 5.24 to ~4.2 with Cl⁻ incorporation)
-- The "aspartate ring" (D242) at the narrowest pore segment is analogous to D277 in Tm-CorA
-- Cation selectivity attributed to signature motif: ZntB GxxG[I,V]NxGGxP vs CorA YGMNFxxMPEL
-- The pentameric cytoplasmic domain alone is sufficient for assembly — transmembrane spanners not required
-- **Pentamer formation determinants**:
-  - α6 stalk helix is the primary contributor to monomer–monomer interaction along entire funnel
-  - Buried surface per monomer–monomer contact: ~2100 Å²; ΔG = −8.6 kcal/mol (soluble domain contribution)
-  - In full-length CorA, total buried surface ~4400 Å² (2720 Å² from intracellular region); ΔG = −6.7 kcal/mol
-  - Soluble domain contributes ~1/4 of total interface energy in CorA — significant fraction of pentamer formation determinants
-  - Truncation at middle of α6 stalk (e.g., N220 in Vp-ZntB, corresponding to Tm-CorA 1–266) would lose ~1000 Å² buried area and prevent pentamer formation
-  - Previously reported CorA intracellular domain dimers likely artifacts of excessive α6 truncation
-
-## Cross-References
-
-- [cora-mg-transporter](/xray-mp-wiki/concepts/cora-mg-transporter/) — Mg²⁺ transporter; structural homolog
-- [metal-ion-transporter](/xray-mp-wiki/concepts/metal-ion-transporter/) — MIT superfamily overview
-- [mfs-transporter](/xray-mp-wiki/concepts/mfs-transporter/) — Major facilitator superfamily (different family)
-- [spermine](/xray-mp-wiki/reagents/ligands/spermine/) — Polyamine ligand (related to [ion-channels](/xray-mp-wiki/concepts/ion-channels/) block concepts)
-- [ddm](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used in purification
-- [xray-crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Structure determination method
+|

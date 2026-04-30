@@ -1,5 +1,4 @@
 ---
-
 title: LDAO (Lauryldimethylamine N-Oxide)
 created: 2026-04-26
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [detergent-zwitterionic, detergent-mild]
 sources: [doi/10.1006##jmbi.1994.0097, doi/10.1016##J.JMB.2004.08.090, doi/10.1016##J.JMB.2007.03.007]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # LDAO (Lauryldimethylamine N-Oxide)

@@ -1,6 +1,4 @@
 ---
-
-
 title: Selatogrel
 created: 2026-04-27
 updated: 2026-04-27
@@ -10,8 +8,9 @@ sources: [doi/10.1016##j.bcp.2022.115291]
 
 
 category: reagents
----
 layout: default
+---
+
 
 
 
@@ -45,15 +44,4 @@ Selatogrel acts as a potent inverse agonist of the P2Y12 receptor:
 ## Comparison with Other P2Y12 Antagonists
 
 | Drug | Binding | Efficacy | Potency vs Ticagrelor | Blood Loss |
-|------|---------|----------|----------------------|------------|
-| Selatogrel | Reversible | Inverse agonist | 100× more potent | Lower |
-| Ticagrelor | Reversible | Inverse agonist | Reference | Moderate |
-| Clopidogrel | Irreversible covalent | Antagonist | Variable (prodrug) | Higher |
-| Elinogrel | Reversible | Inverse agonist | Similar efficacy | Unknown |
-
-## Related Ligands
-
-- [ticagrelor](/xray-mp-wiki/reagents/ligands/ticagrelor/) — Reversible P2Y12 antagonist, inverse agonist
-- [elinogrel](/xray-mp-wiki/reagents/ligands/elinogrel/) — Reversible P2Y12 inverse agonist
-- [clopidogrel](/xray-mp-wiki/reagents/ligands/clopidogrel/) — Irreversible P2Y12 antagonist, prodrug
-- [p2y12-receptor](/xray-mp-wiki/proteins/p2y12-receptor/) — P2Y12 receptor page
+|

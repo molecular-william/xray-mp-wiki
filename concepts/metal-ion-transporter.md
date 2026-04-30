@@ -6,8 +6,9 @@ type: concept
 tags: [transporter, membrane-protein]
 sources: [doi/10.1002##pro.215]
 category: concepts
----
 layout: default
+---
+
 
 
 
@@ -46,19 +47,4 @@ The metal ion transporter (MIT) superfamily is a large and diverse group of esse
 Different MIT families have characteristic sequence motifs in the transmembrane region:
 
 | Family | Signature Motif | Location |
-|--------|----------------|----------|
-| CorA | YGMNFxxMPEL | Between TM1 and TM2 |
-| ZntB | GxxG[I,V]NxGGxP | Between TM1 and TM2 |
-
-## Functional Importance
-
-- **Magnesium**: Essential cofactor for ATPases, polymerases, ribosomes
-- **Zinc**: Essential for structural (zinc fingers) and catalytic (metalloenzymes) roles
-- **Cadmium**: Toxic; efflux systems prevent accumulation
-- **Homeostasis**: Tight regulation prevents both deficiency and toxicity
-
-## Cross-References
-
-- [cora-mg-transporter](/xray-mp-wiki/concepts/cora-mg-transporter/) — Mg²⁺ uptake transporter; archetypal MIT member
-- [zntb-transporter](/xray-mp-wiki/proteins/zntb-transporter/) — Zn²⁺/Cd²⁺ exporter; distant CorA homolog
-- [mfs-transporter](/xray-mp-wiki/concepts/mfs-transporter/) — Major facilitator superfamily (different family)
+|

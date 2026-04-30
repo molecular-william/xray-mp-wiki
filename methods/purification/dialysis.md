@@ -1,6 +1,4 @@
 ---
-
-
 title: Dialysis
 created: 2026-04-26
 updated: 2026-04-27
@@ -10,8 +8,9 @@ sources: [doi/10.1038##ncomms9004, doi/10.7554##eLife.36758, doi/10.1038##nature
 
 
 category: methods
----
 layout: default
+---
+
 
 
 
@@ -43,14 +42,4 @@ Dialysis is a fundamental technique for buffer exchange, detergent removal, and 
 ## Dialysis Parameters (from this wiki)
 
 | Application | MWCO | Duration | Buffer |
-|-------------|------|----------|--------|
-| Imidazole removal | 10-14 kDa | 3 hours | 20 mM Tris, 0.3 M NaCl, 0.1% DDM |
-| Detergent removal ([dialysis](/xray-mp-wiki/methods/purification/dialysis/)) | 10-14 kDa | 7 days | 10 mM HEPES pH 7.0, 150 mM KCl |
-| Lipid exchange | 14 kDa | Overnight | 10 mM HEPES, 400 mM NaCl/KCl |
-| Cryoprotection | N/A | Stepwise | PEG 400, TEG, [glycerol](/xray-mp-wiki/reagents/additives/glycerol/) |
-
-## Related Methods
-
-- [size-exclusion-chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Alternative to dialysis for buffer exchange
-- [amicon-filters](/xray-mp-wiki/methods/purification/amicon-filters/) — Faster concentration and buffer exchange
-- [microbatch](/xray-mp-wiki/methods/crystallization/microbatch/) — Crystallization method often paired with dialysis
+|

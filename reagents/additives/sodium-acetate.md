@@ -1,5 +1,4 @@
 ---
-
 title: Sodium Acetate
 created: 2026-04-27
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [precipitant-salt, crystallization-buffer]
 sources: [doi/10.1016##j.cell.2017.03.010]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # Sodium Acetate
@@ -36,14 +36,4 @@ Sodium acetate (CH₃COONa) is an acidic buffer and precipitant used in membrane
 ## Comparison with Other Acidic Buffers
 
 | Buffer | pH Range | Typical Use |
-|--------|----------|-------------|
-| Sodium acetate | 4.0–5.5 | Acidic crystallization precipitant |
-| Sodium citrate | 4.5–6.0 | Acidic crystallization precipitant |
-| MES | 5.5–6.7 | Mildly acidic buffer |
-| HEPES | 6.8–8.2 | Physiological pH buffer |
-
-## Related Reagents
-
-- [sodium-citrate](/xray-mp-wiki/reagents/additives/sodium-citrate/) — Another acidic crystallization buffer
-- [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) — Common buffer salt
-- [peg-400](/xray-mp-wiki/reagents/additives/peg-400/) — Common co-precipitant with sodium acetate
+|

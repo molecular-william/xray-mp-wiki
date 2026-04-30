@@ -1,5 +1,4 @@
 ---
-
 title: PhotoNECA (blue) — Photoswitchable [a2a-adenosine-receptor](/xray-mp-wiki/proteins/a2a-adenosine-receptor/) Ligand
 created: 2026-04-26
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [additive-ligand]
 sources: [doi/10.1016##j.bbrc.2023.149393]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # PhotoNECA (blue) — Photoswitchable [a2a-adenosine-receptor](/xray-mp-wiki/proteins/a2a-adenosine-receptor/) Ligand

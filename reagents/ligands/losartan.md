@@ -1,6 +1,4 @@
 ---
-
-
 title: Losartan
 created: 2026-04-27
 updated: 2026-04-27
@@ -10,8 +8,9 @@ sources: [doi/10.1016##j.cell.2015.04.011]
 
 
 category: reagents
----
 layout: default
+---
+
 
 
 
@@ -49,17 +48,4 @@ Losartan binds to the ligand-binding pocket of the human angiotensin II type 1 r
 ## Comparison with Other ARBs
 
 | ARB | Tetrazole | Key Interaction | Potency |
-|-----|-----------|-----------------|---------|
-| Losartan | Yes | Arg167ᴱᴰᴸ² (1 salt bridge) | Moderate |
-| ZD7155 | Yes | Arg167ᴱᴰᴸ² (extensive network) | High |
-| Candesartan | Yes | Arg167ᴱᴰᴸ² (2 salt bridges + Lys199) | Very high (insurmountable) |
-| Valsartan | No | Arg167ᴱᴰᴸ² + Lys199 | High |
-| Telmisartan | No | Arg167ᴱᴰᴸ² + Lys199 | High |
-
-## Related Ligands
-
-- [zd7155](/xray-mp-wiki/reagents/ligands/zd7155/) — High-affinity antagonist, precursor to candesartan
-- [candesartan](/xray-mp-wiki/reagents/ligands/candesartan/) — Insurmountable inverse agonist (ARB)
-- [valsartan](/xray-mp-wiki/reagents/ligands/valsartan/) — Clinically used ARB
-- [irbesartan](/xray-mp-wiki/reagents/ligands/irbesartan/) — Clinically used ARB
-- [telmisartan](/xray-mp-wiki/reagents/ligands/telmisartan/) — Clinically used ARB
+|

@@ -1,6 +1,4 @@
 ---
-
-
 title: Serial Femtosecond Crystallography (SFX)
 created: 2026-04-27
 updated: 2026-04-27
@@ -10,8 +8,9 @@ sources: [doi/10.1016##j.cell.2015.04.011]
 
 
 category: methods
----
 layout: default
+---
+
 
 
 
@@ -54,29 +53,4 @@ For membrane proteins, the **LCP-SFX** (lipidic cubic phase [serial-femtosecond-
 ## Notable SFX Structures
 
 | Protein | Resolution | XFEL Facility | PDB |
-|---------|-----------|---------------|-----|
-| AT1R-ZD7155 | 2.9 Å | LCLS (SLAC) | 4YAY |
-| Photosystem II | 1.95 Å | SACLA | Various |
-| Myoglobin | 2.0 Å | LCLS | Various |
-
-## Comparison with Synchrotron Crystallography
-
-| Feature | Synchrotron | SFX/XFEL |
-|---------|------------|----------|
-| Crystal size | Large (≥50 μm) | Micro (1–10 μm) |
-| Temperature | Typically 100 K (cryo) | Room temperature |
-| Radiation damage | Significant | Avoided (femtosecond pulse) |
-| Data collection time | Hours | Minutes |
-| Beamline access | More available | Limited |
-
-## Data Processing Software
-
-- **CrystFEL**: Software suite for snapshot serial crystallography
-- **cctbx.xfel**: X-ray free-electron laser processing tools
-- **KAMO**: Automated data collection and processing system
-
-## Related Methods
-
-- [xray-crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — X-ray crystallography overview
-- [lipidic-cubic-phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization method
-- [cryoem](/xray-mp-wiki/methods/structure-determination/cryoem/) — Cryo-EM alternative for challenging targets
+|

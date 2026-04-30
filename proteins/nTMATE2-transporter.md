@@ -1,5 +1,4 @@
 ---
-
 title: NtMATE2 Transporter
 created: 2026-04-26
 updated: 2026-04-28
@@ -8,8 +7,9 @@ tags: [transporter, membrane-protein]
 sources: [doi/10.1002##1873-3468.14136]
 
 category: proteins
----
 layout: default
+---
+
 
 
 # NtMATE2 (Nicotiana tabacum MATE2)
@@ -67,31 +67,4 @@ NtMATE2 is a multidrug and toxic compound extrusion (MATE) family transporter fr
 ## Key Reagents Summary
 
 | Category | Reagent | Purpose |
-|----------|---------|---------|
-| Expression | *[pichia-pastoris](/xray-mp-wiki/methods/expression-systems/pichia-pastoris/)* SMD1168 | Heterologous expression |
-| Expression | pPIC9K plasmid + G418 | Selection and expression vector |
-| Lysis | M-110EH [microfluidizer](/xray-mp-wiki/methods/cell-lysis/microfluidizer/) | Cell disruption at 22,000 p.s.i. |
-| Detergent (solubilization) | [ddm](/xray-mp-wiki/reagents/detergents/ddm/) (2%) | Membrane solubilization |
-| Buffer (expression) | [tris-buffer](/xray-mp-wiki/reagents/buffers/tris-buffer/) pH 8.0 | Cell lysis buffer |
-| Buffer (purification) | [hepes-buffer](/xray-mp-wiki/reagents/buffers/hepes-buffer/) pH 7.0 | TALON/SEC buffer |
-| Buffer (crystallization) | [hepes-buffer](/xray-mp-wiki/reagents/buffers/hepes-buffer/) pH 7.5 | LCP reservoir |
-| Salt | [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) (300 mM) | Osmotic balance |
-| Stabilizer | [glycerol](/xray-mp-wiki/reagents/additives/glycerol/) (10→5→1%) | Progressive concentration decrease |
-| Detergent (purification) | [lmng](/xray-mp-wiki/reagents/detergents/lmng/) (0.03%) + [cholesterol-hydrogen-succinate](/xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/) (0.003%) | Stabilization during SEC |
-| Elution | [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (200 mM) | TALON elution |
-| Concentration | Amicon Ultra 100K | Sample concentration |
-| Chromatography | [superdex-columns](/xray-mp-wiki/methods/purification/superdex-columns/) 200 Increase 10/30 GL | Monodispersity check |
-| Tag cleavage | [tev-protease](/xray-mp-wiki/reagents/protein-tags/tev-protease/) S219V | GFP-His8 removal |
-| Lipid | [monoolein](/xray-mp-wiki/methods/crystallization/monoolein/) | LCP mesophase |
-| Ligand | [nicotine-ligand](/xray-mp-wiki/reagents/ligands/nicotine-ligand/) (2.5 mM) | Co-crystallization ligand |
-| Precipitant | [nh4h2po4](/xray-mp-wiki/reagents/additives/nh4h2po4/) (0.1 M) | Crystallization precipitant |
-
-## Cross-References
-
-- MATE family: [mfs-transporter](/xray-mp-wiki/concepts/mfs-transporter/) (note: MATE is distinct from MFS superfamily)
-- Related plant transporters: [sotb](/xray-mp-wiki/proteins/sotb/) (DHA antiporter, MFS family)
-
-## Related Transporters
-
-- [sotb](/xray-mp-wiki/proteins/sotb/) — E. coli DHA antiporter (DHA1 family, MFS); 4 conformations captured (occluded, inward-facing, inward-open)
-- [mfs-transporter](/xray-mp-wiki/concepts/mfs-transporter/) — Major facilitator superfamily (related proton-coupled transporters; MATE is a separate superfamily)
+|

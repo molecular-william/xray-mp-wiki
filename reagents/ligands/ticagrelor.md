@@ -1,5 +1,4 @@
 ---
-
 title: Ticagrelor
 created: 2026-04-26
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [additive-ligand]
 sources: [doi/10.1016##j.bcp.2022.115291]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # Ticagrelor
@@ -28,15 +28,4 @@ Ticagrelor is a reversible, orally active [p2y12-receptor](/xray-mp-wiki/protein
 ## Comparison with Selatogrel
 
 | Feature | Ticagrelor | Selatogrel |
-|---------|-----------|------------|
-| Binding | Pocket 1 | Pocket 1 |
-| Inverse agonist | Yes | Yes |
-| Potency | Baseline | 100x more potent |
-| Blood loss | Higher | Lower |
-| Vascular tone | Interferes | No effect |
-
-## Related [p2y12-receptor](/xray-mp-wiki/proteins/p2y12-receptor/) Ligands
-
-- [selatogrel](/xray-mp-wiki/reagents/ligands/selatogrel/) — More potent inverse agonist
-- [elinogrel](/xray-mp-wiki/reagents/ligands/elinogrel/) — Another reversible antagonist with inverse agonism
-- [clopidogrel](/xray-mp-wiki/reagents/ligands/clopidogrel/) — Irreversible antagonist
+|

@@ -1,5 +1,4 @@
 ---
-
 title: Coomassie Staining
 created: 2026-04-26
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [quality-assessment]
 sources: [doi/10.1016##j.bbabio.2023.148986]
 
 category: methods
----
 layout: default
+---
+
 
 
 # Coomassie Staining (SDS-PAGE)

@@ -1,6 +1,4 @@
 ---
-
-
 title: Alternating Access Mechanism
 created: 2026-04-27
 updated: 2026-04-27
@@ -10,8 +8,9 @@ sources: [doi/10.1016##j.bbrc.2020.11.096, doi/10.1016##j.cell.2018.11.025]
 
 
 category: concepts
----
 layout: default
+---
+
 
 
 

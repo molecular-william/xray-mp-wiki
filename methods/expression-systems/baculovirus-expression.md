@@ -1,6 +1,4 @@
 ---
-
-
 title: Baculovirus Expression
 created: 2026-04-27
 updated: 2026-04-27
@@ -10,8 +8,9 @@ sources: [doi/10.1016##j.bbrc.2019.12.091]
 
 
 category: methods
----
 layout: default
+---
+
 
 
 

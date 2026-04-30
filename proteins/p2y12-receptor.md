@@ -1,5 +1,4 @@
 ---
-
 title: P2Y12 Receptor
 created: 2026-04-26
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [gpcr, membrane-protein, receptor]
 sources: [doi/10.1016##j.bcp.2022.115291]
 
 category: proteins
----
 layout: default
+---
+
 
 
 # P2Y12 Receptor

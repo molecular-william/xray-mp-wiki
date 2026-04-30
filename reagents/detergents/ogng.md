@@ -6,8 +6,9 @@ type: reagent
 tags: [detergent-neopentyl-glycol]
 sources: [doi/10.1002##anie.201302374]
 category: reagents
----
 layout: default
+---
+
 
 # OGNG (Octyl Glucose Neopentyl Glycol)
 
@@ -36,13 +37,4 @@ OGNG (octyl glucose neopentyl glycol) is a non-ionic neopentyl glycol detergent 
 ## Comparison with Related Neopentyl Glycol Detergents
 
 | Detergent | Chain | Head Group | Alkyl Length | Effect on Opsin |
-|-----------|-------|-----------|-------------|-----------------|
-| LMNG | 12C | Maltose + neopentyl glycol | Lauryl | Minimal inhibition |
-| OGNG | 8C | Glucose + neopentyl glycol | Octyl | Minimal inhibition |
-
-## Related Detergents
-
-- [lmng](/xray-mp-wiki/reagents/detergents/lmng/) — lauryl maltose neopentyl glycol (12C); ultra-mild GPCR detergent
-- [og](/xray-mp-wiki/reagents/detergents/og/) — n-octyl β-D-glucopyranoside; mild alkyl glucoside (single head group)
-- [ng](/xray-mp-wiki/reagents/detergents/ng/) — nonylglucoside; mild alkyl glucoside (C9)
-- [ddm](/xray-mp-wiki/reagents/detergents/ddm/) — n-dodecyl-β-D-maltoside; standard maltoside detergent
+|

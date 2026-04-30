@@ -1,5 +1,4 @@
 ---
-
 title: Jeffamine M600
 created: 2026-04-27
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [precipitant-polymer]
 sources: [doi/10.1016##J.FEBSLET.2005.09.061]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # Jeffamine M600
@@ -33,15 +33,4 @@ Jeffamine M600 is a polyethylene glycol-polypropylene glycol block copolymer (PE
 ## Comparison with Other Precipitants
 
 | Precipitant | Type | MW | Typical Range |
-|-------------|------|----|---------------|
-| Jeffamine M600 | PEG-PPG block copolymer | ~600 Da | 25–35% (w/v) |
-| PEG 400 | Linear PEG | 400 Da | 10–40% (v/v) |
-| PEG 4000 | Linear PEG | 4,000 Da | 10–30% (w/v) |
-| PEG 6000 | Linear PEG | 6,000 Da | 5–25% (w/v) |
-| NaCl | Salt | 58.4 Da | 50–500 mM |
-
-## Related Precipitants
-
-- [peg-400](/xray-mp-wiki/reagents/additives/peg-400/) — PEG 400, low-MW linear precipitant
-- [peg-6000](/xray-mp-wiki/reagents/additives/peg-6000/) — PEG 6000, high-MW linear precipitant
-- [li2so4](/xray-mp-wiki/reagents/additives/li2so4/) — Lithium sulfate, kosmotropic salt precipitant
+|

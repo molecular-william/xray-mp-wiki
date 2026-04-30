@@ -1,5 +1,4 @@
 ---
-
 title: X-ray Crystallography
 created: 2026-04-26
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [structure-xray]
 sources: [doi/10.1002##1873-3468.14136, doi/10.1002##anie.201302374, doi/10.1006##jmbi.1994.0097, doi/10.1016##j.bbabio.2023.148986, doi/10.1016##j.cell.2017.03.010, doi/10.1016##j.cell.2017.12.011, doi/10.1016##j.cell.2018.11.025, doi/10.1016##j.cell.2019.01.003, doi/10.1016##j.cell.2018.12.006, doi/10.1007##s10969-013-9154-x, doi/10.1016##j.cell.2010.05.003]
 
 category: methods
----
 layout: default
+---
+
 
 
 # X-ray Crystallography

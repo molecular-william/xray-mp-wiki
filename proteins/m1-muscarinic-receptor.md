@@ -6,8 +6,9 @@ type: protein
 tags: [gpcr, membrane-protein, receptor]
 sources: [doi/10.1016##j.cell.2021.11.001]
 category: proteins
----
 layout: default
+---
+
 
 # M1 Muscarinic Acetylcholine Receptor (M1-AR)
 

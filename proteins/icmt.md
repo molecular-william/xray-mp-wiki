@@ -6,8 +6,9 @@ type: protein
 tags: [methyltransferase, membrane-protein, posttranslational-modification, xray-crystallography]
 sources: [doi/10.1016##J.MOLCEL.2011.10.020]
 category: proteins
----
 layout: default
+---
+
 
 # ICMT — Isoprenylcysteine Carboxyl Methyltransferase
 

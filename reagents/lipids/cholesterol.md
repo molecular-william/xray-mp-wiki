@@ -6,8 +6,9 @@ type: reagent
 tags: [additive-lipid]
 sources: [doi/10.1016##j.celrep.2015.04.045]
 category: reagents
----
 layout: default
+---
+
 
 # Cholesterol
 

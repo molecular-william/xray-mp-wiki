@@ -1,5 +1,4 @@
 ---
-
 title: A2A Adenosine Receptor
 created: 2026-04-26
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [gpcr, membrane-protein, receptor]
 sources: [doi/10.1002##anie.202115545, doi/10.1016##j.bbrc.2023.149393]
 
 category: proteins
----
 layout: default
+---
+
 
 
 # A2A Adenosine Receptor (A2AAR)
@@ -96,22 +96,4 @@ The human A2A adenosine receptor is a class A GPCR that couples to Gs proteins a
 ## Key Reagents Summary
 
 | Category | Reagent | Purpose |
-|----------|---------|---------|
-| Ligand | PSB-2113 | PEGylated Preladenant [photoNECA](/xray-mp-wiki/reagents/ligands/photoNECA/), co-crystallization |
-| Ligand | PSB-2115 | BODIPY-labeled Preladenant [photoNECA](/xray-mp-wiki/reagents/ligands/photoNECA/), co-crystallization |
-| Ligand | Preladenant [photoNECA](/xray-mp-wiki/reagents/ligands/photoNECA/) (SCH-420814) | Potent antagonist scaffold |
-| Ligand | ZM241385 | Reference antagonist (bicyclic) |
-| Ligand | MSX-2 | Reference xanthine antagonist |
-| Ligand | [neca](/xray-mp-wiki/reagents/ligands/neca/) | Adenosine agonist (binding assay) |
-| Fusion protein | [bril](/xray-mp-wiki/reagents/protein-tags/bril/) | ICL3 replacement for crystallization |
-| Mutation | S91³·³⁹K | Allosteric stabilization |
-| Detergent | [ddm](/xray-mp-wiki/reagents/detergents/ddm/) | Membrane solubilization |
-| Precipitant | [peg-400](/xray-mp-wiki/reagents/additives/peg-400/) | Crystallization precipitant |
-
-## Cross-References
-
-- [a2a-star2](/xray-mp-wiki/proteins/a2a-star2/) — Thermostabilized precursor construct
-- [etb-receptor](/xray-mp-wiki/proteins/etb-receptor/) — GPCR with [bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion and thermostabilization
-- [p2y12-receptor](/xray-mp-wiki/proteins/p2y12-receptor/) — GPCR with BRIL fusion and LCP crystallization
-- [5ht2b-receptor](/xray-mp-wiki/proteins/5ht2b-receptor/) — Serotonin GPCR with BRIL fusion and LCP
-- [opsin-gpcr](/xray-mp-wiki/proteins/opsin-gpcr/) — Class A GPCR structural template
+|

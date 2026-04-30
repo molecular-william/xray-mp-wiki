@@ -1,5 +1,4 @@
 ---
-
 title: NECA (5'-N-Ethylcarboxamidoadenosine)
 created: 2026-04-26
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [additive-ligand]
 sources: [doi/10.1016##j.bbrc.2023.149393, doi/10.1016##j.cell.2016.12.033]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # NECA (5'-N-Ethylcarboxamidoadenosine)

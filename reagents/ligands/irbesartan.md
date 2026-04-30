@@ -1,5 +1,4 @@
 ---
-
 title: Irbesartan
 created: 2026-04-27
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [additive-ligand]
 sources: [doi/10.1016##j.cell.2015.04.011]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # Irbesartan
@@ -38,16 +38,4 @@ Irbesartan binds to the ligand-binding pocket of the human angiotensin II type 1
 ## Comparison with Other ARBs
 
 | ARB | Tetrazole | Key Interaction | Unique Feature |
-|-----|-----------|-----------------|----------------|
-| Irbesartan | Yes | Arg167ᴱᴰᴸ² (1 salt bridge) | Spiro-linker; no CYP450 interaction |
-| Valsartan | No | Imidazole + Lys199 | Most widely prescribed ARB |
-| Candesartan | Yes | Triple salt bridge | Insurmountable |
-| Losartan | Yes | 1 salt bridge | First ARB |
-
-## Related Ligands
-
-- [valsartan](/xray-mp-wiki/reagents/ligands/valsartan/) — Clinically used ARB
-- [candesartan](/xray-mp-wiki/reagents/ligands/candesartan/) — Insurmountable inverse agonist
-- [telmisartan](/xray-mp-wiki/reagents/ligands/telmisartan/) — Clinically used ARB
-- [losartan](/xray-mp-wiki/reagents/ligands/losartan/) — First ARB
-- [zd7155](/xray-mp-wiki/reagents/ligands/zd7155/) — High-affinity antagonist
+|

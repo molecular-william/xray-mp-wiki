@@ -1,5 +1,4 @@
 ---
-
 title: Cholesterol (Lipid)
 created: 2026-04-26
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [lipid, lipid-sterol, additive-stabilizer]
 sources: [doi/10.1016##j.cell.2015.06.002, doi/10.1016##j.cell.2016.09.056]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # Cholesterol

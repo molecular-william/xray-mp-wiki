@@ -1,5 +1,4 @@
 ---
-
 title: SotB
 created: 2026-04-27
 updated: 2026-04-28
@@ -7,8 +6,9 @@ type: protein
 tags: [transporter, membrane-protein, pump]
 sources: [doi/10.1016##j.bbrc.2020.11.096]
 category: proteins
----
 layout: default
+---
+
 
 
 # SotB
@@ -72,34 +72,4 @@ This study reveals **nonlinear rigid-body movements** during the transition from
 ## Comparison with Other Transporters
 
 | Transporter | Family | Mechanism | States Captured |
-|-------------|--------|-----------|-----------------|
-| SotB | MFS (DHA1) | Drug-proton antiport | Occluded, inward-facing, inward-open |
-| [nTMATE2-transporter](/xray-mp-wiki/proteins/nTMATE2-transporter/) | MATE | Nicotine-H⁺ antiport | Two outward-facing conformations |
-| [adenine-nucleotide-transporter](/xray-mp-wiki/proteins/adenine-nucleotide-transporter/) | Mitochondrial carrier | Nucleotide antiport | Matrix-open, cytoplasmic-open |
-| [mmpL3](/xray-mp-wiki/proteins/mmpL3/) | Resistin-like membrane protein | Lipid flippase | Apo + 4 inhibitor-bound |
-
-## Related Transporters
-
-- [nTMATE2-transporter](/xray-mp-wiki/proteins/nTMATE2-transporter/) — MATE family transporter from tobacco
-- [adenine-nucleotide-transporter](/xray-mp-wiki/proteins/adenine-nucleotide-transporter/) — Mitochondrial ADP/ATP carrier
-- [mmpL3](/xray-mp-wiki/proteins/mmpL3/) — Mycobacterial lipid transporter
-- [nupg-nucleoside-transporter](/xray-mp-wiki/proteins/nupg-nucleoside-transporter/) — E. coli MFS nucleoside transporter
-
-## Concepts
-
-- [mfs-transporter](/xray-mp-wiki/concepts/mfs-transporter/) — Major facilitator superfamily
-- [dha-antiporter](/xray-mp-wiki/concepts/dha-antiporter/) — Drug-proton antiporter family
-- [alternating-access](/xray-mp-wiki/concepts/alternating-access/) — Alternating access mechanism
-
-## References
-
-- Xiao et al. (2020) Biochem. Biophys. Res. Commun. — SotB structures (this paper)
-- Abramson et al. (2003) Science 301:610–615 — LacY structure (MFS model)
-- Abramson et al. (2006) Nature 440:347–350 — GlpT structure (MFS model)
-
-## Cross-References
-
-- [mfs-transporter](/xray-mp-wiki/concepts/mfs-transporter/) — Major facilitator superfamily
-- [dha-antiporter](/xray-mp-wiki/concepts/dha-antiporter/) — Drug-proton antiporter family
-- [alternating-access](/xray-mp-wiki/concepts/alternating-access/) — Alternating access mechanism
-- [ddm](/xray-mp-wiki/reagents/detergents/ddm/) — Common solubilization detergent for MFS transporters
+|

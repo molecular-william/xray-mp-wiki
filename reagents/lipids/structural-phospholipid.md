@@ -6,8 +6,9 @@ type: reagent
 tags: [lipid]
 sources: [doi/10.1016##j.cell.2010.05.003]
 category: reagents
----
 layout: default
+---
+
 
 
 
@@ -37,14 +38,4 @@ The critical residues at the phospholipid binding site are two polar residues se
 ## Comparison with Other Structural Lipids
 
 | Protein | Lipid Type | Binding Site | Structural Role |
-|---------|-----------|--------------|-----------------|
-| KirBac1.1 | Phosphatidylcholine | Subunit interface (inner/outer/slide helix junction) | Subunit coupling |
-| CD81 | Cholesterol | Intramembrane pocket | Stabilizes EC2 cap |
-| Monoolein | Monoacylglycerol | LCP mesophase | Forms cubic phase |
-| Cardiolipin | Diphosphatidylglycerol | ADP/ATP carrier | Binds at positively charged pockets |
-
-## Related Lipids
-
-- [cholesterol-lipid](/xray-mp-wiki/reagents/lipids/cholesterol-lipid/) — Sterol lipid for membrane protein stabilization
-- [monoolein](/xray-mp-wiki/methods/crystallization/monoolein/) — Monoacylglycerol for LCP crystallization
-- [cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) — Diphosphatidylglycerol for mitochondrial protein studies
+|

@@ -1,5 +1,4 @@
 ---
-
 title: Microfluidizer
 created: 2026-04-28
 updated: 2026-04-28
@@ -8,8 +7,9 @@ tags: [membrane-protein]
 sources: [doi/10.1002##1873-3468.14136]
 
 category: methods
----
 layout: default
+---
+
 
 
 # Microfluidizer (M-110EH)

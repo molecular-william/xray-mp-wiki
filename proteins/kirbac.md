@@ -1,5 +1,4 @@
 ---
-
 title: KirBac Potassium Channel
 created: 2026-04-27
 updated: 2026-04-28
@@ -8,8 +7,9 @@ tags: [ion-channel, channel, membrane-protein]
 sources: [doi/10.1016##J.CELL.2010.05.003]
 
 category: proteins
----
 layout: default
+---
+
 
 
 # KirBac Potassium Channel
@@ -64,51 +64,4 @@ This study revealed interdependent gates in the Kir conduction pathway:
 ## Ion Configurations
 
 | Structure | Status | Ion Sites | Block Ion |
-|-----------|--------|-----------|-----------|
-| I (KirBac1.1) | Blocked | S1, S2, S3/S4 | Mg²⁺ |
-| II (KirBac3.1) | Blocked | S1, S2, S4 | Ca²⁺ |
-| III–VII | Stalled (twist) | S1, S3, S4 | — |
-| VIII | Conducting (nontwist) | S1, S2, S3, S4 | — |
-| X | Blocked | S1, S2, S4 | Ba²⁺ |
-| XI | Conducting (nontwist) | S1, S2, S3, S4 | — |
-
-## Expression and Purification
-
-- **Expression system**: Full-length histidine-tagged recombinant channels in *E. coli* BL21 (DE3) star cells, expressed at 25°C
-- **Cell lysis**: High-pressure homogenizer at 20,000 psi
-- **Solubilization**: 1% [anzergent-3-12](/xray-mp-wiki/reagents/detergents/anzergent-3-12/) (room temperature, 1 hr)
-- **Purification**: Ni²⁺-loaded IMAC resin followed by [size-exclusion-chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)
-- **Concentration**: ~8 mg/mL for crystallization
-
-## Crystallization
-
-- **Method**: [vapor-diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion/) at 19°C (Bio21 crystallization facility)
-- **Data collection**: Australian Synchrotron (beamline 3BM1) or Swiss Light Source (microfocus beamline X06SA)
-- **Functional validation**: Patch clamp on GUVs showed 63 pS single-channel conductance for KirBac3.1 WT and Q170A mutant
-
-## Eukaryotic Counterparts
-
-- **Kir2.x** (Kir2.1, Kir2.2): Strong inward rectifiers in cardiac and neuronal tissue
-- **Kir6.x**: ATP-sensitive K⁺ channels (KATP) in pancreatic β-cells
-- **Kir3.x** (GIRK): G protein-gated inward rectifiers
-- **Kir4.x, Kir5.x**: Glial and renal channels
-
-## Related Ion Channels
-
-- [navab-sodium-channel](/xray-mp-wiki/proteins/navab-sodium-channel/) — Bacterial voltage-gated sodium channel; structural model for eukaryotic NaV channels
-- [ion-channels](/xray-mp-wiki/concepts/ion-channels/) — Voltage-gated ion channel class
-
-## References
-
-- Doyle et al. (1998) Science 280:69–77 — KcsA structure
-- Zhou et al. (2001) Nature 414:43–48 — K⁺ selectivity filter structure
-- Bernèche and Roux (2001) Nature 414:73–77 — Multi-ion conduction theory
-- Clarke et al. (2010) Cell 141:1018–1029 — KirBac interdependent gating (this paper)
-
-## Cross-References
-
-- [anzergent-3-12](/xray-mp-wiki/reagents/detergents/anzergent-3-12/) — Detergent used for solubilization
-- [spermine](/xray-mp-wiki/reagents/ligands/spermine/) — Polyamine ligand that blocks KirBac
-- [structural-phospholipid](/xray-mp-wiki/reagents/lipids/structural-phospholipid/) — Structural phospholipids carried through purification
-- [affinity-chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — IMAC purification method
-- [xray-crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Structure determination method
+|

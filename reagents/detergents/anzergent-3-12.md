@@ -1,6 +1,4 @@
 ---
-
-
 title: Anzergent 3,12
 created: 2026-04-27
 updated: 2026-04-27
@@ -10,8 +8,9 @@ sources: [doi/10.1016##j.cell.2010.05.003]
 
 
 category: reagents
----
 layout: default
+---
+
 
 
 
@@ -48,15 +47,4 @@ layout: default
 ## Comparison with Other Detergents
 
 | Detergent | Class | CMC | Strength | Typical Use |
-|-----------|-------|-----|----------|-------------|
-| DDM | Alkyl maltoside | ~0.17 mM | Mild | General solubilization |
-| OG | Alkyl glucoside | ~25 mM | Strong | Crystallization, short-chain |
-| LMNG | Neopentyl glycol | ~0.013 mM | Very mild | GPCR stabilization |
-| Anzergent 3,12 | Alkyl polyglucoside | Low | Mild | Gentle solubilization |
-
-## Related Detergents
-
-- [ddm](/xray-mp-wiki/reagents/detergents/ddm/) — n-Dodecyl-β-D-maltopyranoside, standard mild detergent
-- [og](/xray-mp-wiki/reagents/detergents/og/) — n-Octyl β-D-glucopyranoside, short-chain strong detergent
-- [lmng](/xray-mp-wiki/reagents/detergents/lmng/) — Lauryl Maltose Neopentyl Glycol, very mild detergent for GPCRs
-- [gdn](/xray-mp-wiki/reagents/detergents/gdn/) — Glyco-Diosgenin, extremely mild steroidal glycoside
+|

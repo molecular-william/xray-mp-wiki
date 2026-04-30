@@ -1,5 +1,4 @@
 ---
-
 title: LPA1 Receptor (Lysophosphatidic Acid Receptor 1)
 created: 2026-04-26
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [gpcr, membrane-protein, receptor]
 sources: [doi/10.1016##j.cell.2015.06.002]
 
 category: proteins
----
 layout: default
+---
+
 
 
 # LPA1 Receptor
@@ -64,19 +64,4 @@ LPA1 (lysophosphatidic acid receptor 1) is a GPCR that binds lysophosphatidic ac
 ## Comparison with S1P1 (Sphingosine 1-Phosphate Receptor 1)
 
 | Feature | LPA1 | S1P1 |
-|---------|------|------|
-| Binding pocket | Spherical | Linear |
-| TM1 position | 3 Å closer to TMVII | Further from TMVII |
-| Ligand access | Extracellular space | Membrane |
-| ECL0 | Loop (no secondary structure) | Helical |
-| Position 3.33 | Aspartate | Phenylalanine |
-| Position 5.43 | Tryptophan | Cysteine |
-| Position 6.51 | Glycine | Leucine |
-
-## Related GPCRs
-
-- [a2a-adenosine-receptor](/xray-mp-wiki/proteins/a2a-adenosine-receptor/) — Class A GPCR with bRIL fusion construct
-- [5ht2b-receptor](/xray-mp-wiki/proteins/5ht2b-receptor/) — Serotonin GPCR with [bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion
-- [opsin-gpcr](/xray-mp-wiki/proteins/opsin-gpcr/) — Class A GPCR structural template
-- [cd81-tetraspanin](/xray-mp-wiki/proteins/cd81-tetraspanin/) — Cholesterol-binding membrane protein
-- [angiotensin-ii-type-1-receptor](/xray-mp-wiki/proteins/angiotensin-ii-type-1-receptor/) — GPCR with SFX/XFEL and LCP crystallization
+|

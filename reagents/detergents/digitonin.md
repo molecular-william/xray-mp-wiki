@@ -1,5 +1,4 @@
 ---
-
 title: Digitonin
 created: 2026-04-27
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [detergent-nonionic]
 sources: [doi/10.1016##j.cell.2019.06.031]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # Digitonin

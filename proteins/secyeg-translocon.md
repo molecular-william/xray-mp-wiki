@@ -6,8 +6,9 @@ type: protein
 tags: [membrane-protein, channel, protein-translocation]
 sources: [doi/10.1016##j.celrep.2015.10.025]
 category: proteins
----
 layout: default
+---
+
 
 # SecYEG Translocon
 

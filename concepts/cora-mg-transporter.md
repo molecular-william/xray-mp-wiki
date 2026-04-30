@@ -6,8 +6,9 @@ type: protein
 tags: [transporter, membrane-protein, channel]
 sources: [doi/10.1002##pro.215]
 category: concepts
----
 layout: default
+---
+
 
 
 
@@ -70,16 +71,4 @@ This motif is located on the outer surface of the membrane and tends to be disor
 ## Comparison with ZntB
 
 | Feature | CorA | ZntB |
-|---------|------|------|
-| Function | Mg²⁺ uptake | Zn²⁺/Cd²⁺ efflux |
-| Oligomer | Pentamer | Pentamer |
-| Cytoplasmic domain | Pentamer (full-length) / Dimer (truncated) | Pentamer (intrinsic) |
-| Metal binding | Mg²⁺/Co²⁺/Ca²⁺ sites | Cl⁻ ions (25/pentamer) |
-| Pore state | Closed (crystal) | Open (model) |
-| Sequence identity | — | 17% |
-
-## Cross-References
-
-- [zntb-transporter](/xray-mp-wiki/proteins/zntb-transporter/) — Distant homolog; zinc/cadmium exporter with similar pentameric architecture
-- [mfs-transporter](/xray-mp-wiki/concepts/mfs-transporter/) — Major facilitator superfamily (different family)
-- [kirbac](/xray-mp-wiki/proteins/kirbac/) — Potassium channel; tetrameric architecture comparison
+|

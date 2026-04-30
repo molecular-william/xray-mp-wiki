@@ -1,5 +1,4 @@
 ---
-
 title: LMNG (Lauryl Maltose Neopentyl Glycol)
 created: 2026-04-26
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [detergent-nonionic, detergent-mild]
 sources: [doi/10.1002##1873-3468.14136]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # LMNG (Lauryl Maltose Neopentyl Glycol)

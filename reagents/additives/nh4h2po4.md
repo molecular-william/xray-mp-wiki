@@ -1,5 +1,4 @@
 ---
-
 title: Ammonium Dihydrogen Phosphate (NH4H2PO4)
 created: 2026-04-27
 updated: 2026-04-28
@@ -8,8 +7,9 @@ tags: [additive-salt, additive-ph]
 sources: [doi/10.1002##1873-3468.14136]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # Ammonium Dihydrogen Phosphate (NH4H2PO4)

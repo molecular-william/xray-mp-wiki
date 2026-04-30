@@ -1,5 +1,4 @@
 ---
-
 title: CD81 Tetraspanin
 created: 2026-04-26
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [membrane-protein, receptor]
 sources: [doi/10.1016##j.cell.2016.09.056]
 
 category: proteins
----
 layout: default
+---
+
 
 
 # CD81 Tetraspanin

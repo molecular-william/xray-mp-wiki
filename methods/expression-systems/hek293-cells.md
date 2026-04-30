@@ -1,5 +1,4 @@
 ---
-
 title: HEK293 Cells
 created: 2026-04-26
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [expression-system]
 sources: [doi/10.1002##anie.202115545]
 
 category: methods
----
 layout: default
+---
+
 
 
 # HEK293 Cells (Human Embryonic Kidney 293)

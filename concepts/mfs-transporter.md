@@ -1,6 +1,4 @@
 ---
-
-
 title: MFS Transporter
 created: 2026-04-27
 updated: 2026-04-27
@@ -10,8 +8,9 @@ sources: [doi/10.1016##j.bbrc.2020.11.096]
 
 
 category: concepts
----
 layout: default
+---
+
 
 
 
@@ -43,30 +42,4 @@ The transition between states involves rigid-body rotation of the N and C domain
 ## Transport Patterns
 
 | Pattern | Description | Example |
-|---------|-------------|---------|
-| Uniport | Single substrate movement | Glucose uniporters (GLUTs) |
-| Symport | Co-transport with H⁺ or Na⁺ | Lactose permease (LacY), [glucose](/xray-mp-wiki/reagents/ligands/glucose/)-H⁺ symporters |
-| Antiport | Exchange of substrate for H⁺ | Drug-proton antiporters (DHA), Na⁺/H⁺ antiporters |
-
-## MFS Subfamilies
-
-- **DHA (Drug-H⁺ Antiporters)**: Multi-drug resistance transporters
-- **MFS sugar transporters**: GLUTs, LacY
-- **Aquaglyceroporins**: Glycerol and water transport
-- **Nucleotide sugar transporters**
-- **Ion-coupled transporters**
-
-## Structural Biology
-
-Multiple MFS structures have been solved in different conformations, providing snapshots of the transport cycle:
-- **GlpT** ([glycerol](/xray-mp-wiki/reagents/additives/glycerol/)-3-phosphate transporter): Inward-facing
-- **LacY** (lactose permease): Multiple conformations
-- **EmrD** (multidrug efflux): Occluded
-- **SotB** (drug-proton antiporter): 4 conformations (occluded, inward-facing, inward-open)
-
-## Related Transporters
-
-- [sotb](/xray-mp-wiki/proteins/sotb/) — E. coli drug-proton antiporter, DHA1 family
-- [nTMATE2-transporter](/xray-mp-wiki/proteins/nTMATE2-transporter/) — Tobacco MATE family transporter (different superfamily)
-- [adenine-nucleotide-transporter](/xray-mp-wiki/proteins/adenine-nucleotide-transporter/) — Mitochondrial carrier family (different superfamily)
-- [mmpL3](/xray-mp-wiki/proteins/mmpL3/) — Mycobacterial lipid transporter (different superfamily)
+|

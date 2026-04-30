@@ -6,8 +6,9 @@ type: protein
 tags: [membrane-protein, lipid-transport, mce-family, outer-membrane, bacterial-transport]
 sources: [doi/10.1016##j.cell.2017.03.019]
 category: proteins
----
 layout: default
+---
+
 
 # MCE Proteins — Lipid Transport Systems for Bacterial Outer Membrane
 

@@ -6,8 +6,9 @@ type: reagent
 tags: [additive-antibody, sample-preparation]
 sources: [doi/10.1016##j.cell.2017.12.011, doi/10.1016##j.cell.2018.12.006]
 category: reagents
----
 layout: default
+---
+
 
 # Nanobody
 
@@ -29,15 +30,4 @@ Nanobodies bind to specific conformational states of their target protein, effec
 ## Known Nanobodies in Structural Biology
 
 | Nanobody | Target | Reference |
-|----------|--------|-----------|
-| Nb39 | Kappa opioid receptor (KOR) | Wu et al., Cell 2017 |
-| Nb.AT110i1 | Angiotensin II type 1 receptor (AT1R) | Wingler et al., Cell 2019 |
-| Nanobody 35 | β2-adrenergic receptor | Rasmussen et al., Nature 2011 |
-| Nanobody 16 | β2-adrenergic receptor | Chien et al., Nature 2010 |
-
-## Cross-References
-
-- [nanobody-nb39](/xray-mp-wiki/reagents/antibodies/nanobody-nb39/) — Nb39 for KOR stabilization
-- [nanobody-nb-at110i1](/xray-mp-wiki/reagents/antibodies/nanobody-nb-at110i1/) — Nb.AT110i1 for AT1R stabilization
-- [bril](/xray-mp-wiki/reagents/protein-tags/bril/) — BRIL fusion partner (often used with nanobodies)
-- [t4-lysozyme](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — Alternative fusion partner for GPCR crystallization
+|

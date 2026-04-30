@@ -6,8 +6,9 @@ type: protein
 tags: [gpcr, receptor, membrane-protein, xray-crystallography, biased-agonist]
 sources: [doi/10.1016##J.STR.2012.03.014]
 category: proteins
----
 layout: default
+---
+
 
 # β1-Adrenoceptor (β1AR-m23) — Structures with Biased Agonists Bucindolol and Carvedilol
 

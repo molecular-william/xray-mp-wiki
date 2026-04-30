@@ -2,8 +2,9 @@
 title: Purification Methods
 type: method
 category: methods
----
 layout: default
+---
+
 
 # Purification Methods
 

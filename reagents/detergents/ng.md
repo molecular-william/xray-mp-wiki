@@ -1,6 +1,4 @@
 ---
-
-
 title: NG (Nonylglucoside)
 created: 2026-04-26
 updated: 2026-04-27
@@ -10,8 +8,9 @@ sources: [doi/10.1002##anie.201302374]
 
 
 category: reagents
----
 layout: default
+---
+
 
 
 

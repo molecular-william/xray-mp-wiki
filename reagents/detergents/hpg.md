@@ -1,5 +1,4 @@
 ---
-
 title: HpG (Heptylglucoside)
 created: 2026-04-26
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [detergent-alkyl-glucoside]
 sources: [doi/10.1002##anie.201302374]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # HpG (Heptylglucoside)

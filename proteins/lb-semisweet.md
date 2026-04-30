@@ -1,5 +1,4 @@
 ---
-
 title: LbSemiSWEET
 created: 2026-04-27
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [transporter, membrane-protein]
 sources: [doi/10.1016##j.cell.2017.03.010]
 
 category: proteins
----
 layout: default
+---
+
 
 
 # LbSemiSWEET

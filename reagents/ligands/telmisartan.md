@@ -1,6 +1,4 @@
 ---
-
-
 title: Telmisartan
 created: 2026-04-27
 updated: 2026-04-27
@@ -10,8 +8,9 @@ sources: [doi/10.1016##j.cell.2015.04.011]
 
 
 category: reagents
----
 layout: default
+---
+
 
 
 
@@ -42,16 +41,4 @@ Telmisartan binds to the ligand-binding pocket of the human angiotensin II type 
 ## Comparison with Other ARBs
 
 | ARB | Key Acid Group | Arg167 Interaction | Lys199 Interaction | Half-life |
-|-----|---------------|-------------------|-------------------|-----------|
-| Telmisartan | Carboxylic acid | Yes (dual) | Yes | ~24h |
-| Candesartan | Tetrazole + carboxylate | Triple | Yes | ~9h |
-| Valsartan | Imidazole | Yes | Yes | ~6h |
-| Losartan | Tetrazole | Yes | No | ~2h (EXP3174: ~6-9h) |
-
-## Related Ligands
-
-- [valsartan](/xray-mp-wiki/reagents/ligands/valsartan/) — Clinically used ARB
-- [irbesartan](/xray-mp-wiki/reagents/ligands/irbesartan/) — Clinically used ARB
-- [candesartan](/xray-mp-wiki/reagents/ligands/candesartan/) — Insurmountable inverse agonist
-- [losartan](/xray-mp-wiki/reagents/ligands/losartan/) — First ARB
-- [zd7155](/xray-mp-wiki/reagents/ligands/zd7155/) — High-affinity antagonist
+|

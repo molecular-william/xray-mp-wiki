@@ -6,8 +6,9 @@ type: protein
 tags: [channel, porin, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##J.JMB.2008.04.017]
 category: proteins
----
 layout: default
+---
+
 
 # PorB — Porin B from *Corynebacterium glutamicum*
 

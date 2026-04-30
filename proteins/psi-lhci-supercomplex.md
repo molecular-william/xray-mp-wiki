@@ -1,5 +1,4 @@
 ---
-
 title: PSI-LHCI Supercomplex
 created: 2026-04-26
 updated: 2026-04-28
@@ -8,8 +7,9 @@ tags: [membrane-protein, enzyme]
 sources: [doi/10.1016##j.bbabio.2023.148986]
 
 category: proteins
----
 layout: default
+---
+
 
 
 # PSI-LHCI Supercomplex (Chlamydomonas reinhardtii)
@@ -50,30 +50,4 @@ The Photosystem I-Light Harvesting Complex I (PSI-LHCI) supercomplex from the gr
 ## Key Reagents Summary
 
 | Category | Reagent | Purpose |
-|----------|---------|---------|
-| Detergent (solubilization) | [ddm](/xray-mp-wiki/reagents/detergents/ddm/) (2%) | Thylakoid membrane solubilization |
-| Detergent (cryo-EM) | [gdn](/xray-mp-wiki/reagents/detergents/gdn/) | Second gradient for [cryoem](/xray-mp-wiki/methods/structure-determination/cryoem/) prep |
-| Buffer | [tris-buffer](/xray-mp-wiki/reagents/buffers/tris-buffer/) pH 6.5/7.0 | Isolation and crystallization |
-| Salt | [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) | Buffer component |
-| Precipitant | [peg-6000](/xray-mp-wiki/reagents/additives/peg-6000/) (4.5-7%) | Crystallization precipitant |
-| Salt | [li2so4](/xray-mp-wiki/reagents/additives/li2so4/) (50-100 mM) | Crystallization additive |
-| Cryoprotectant | [peg-400](/xray-mp-wiki/reagents/additives/peg-400/) (17.5%) | X-ray cryoprotection |
-| Cryoprotectant | TEG (17.5%) | X-ray cryoprotection |
-| Additive | Ferredoxin (Ga-substituted) | Active state induction |
-| Ligand | Oxidized ferredoxin (FdGa) | [2Ga-2S] cluster mimics oxidized state |
-
-## Related Photosynthetic Complexes
-
-- [psi-lhci-supercomplex](/xray-mp-wiki/proteins/psi-lhci-supercomplex/) — Photosynthetic supercomplex; membrane protein crystallization
-- [xray-crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Structure determination method for Form-A
-- [cryoem](/xray-mp-wiki/methods/structure-determination/cryoem/) — Structure determination method for Form-B and Form-C
-
-## Cross-References
-
-- [ddm](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used for thylakoid membrane solubilization
-- [gdn](/xray-mp-wiki/reagents/detergents/gdn/) — Glyco-diosgenin used for cryo-EM sample prep
-- [peg-6000](/xray-mp-wiki/reagents/additives/peg-6000/) — PEG 6000 crystallization precipitant
-- [li2so4](/xray-mp-wiki/reagents/additives/li2so4/) — Lithium sulfate crystallization additive
-- [tris-buffer](/xray-mp-wiki/reagents/buffers/tris-buffer/) — Tris buffer for isolation and crystallization
-- [monoolein](/xray-mp-wiki/methods/crystallization/monoolein/) — LCP lipid (used in other membrane protein crystallization)
-- [superdex-columns](/xray-mp-wiki/methods/purification/superdex-columns/) — SEC columns (used in similar purification workflows)
+|

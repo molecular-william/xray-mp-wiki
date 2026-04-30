@@ -1,5 +1,4 @@
 ---
-
 title: Salvinorin A
 created: 2026-04-27
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [additive-ligand]
 sources: [doi/10.1016##j.cell.2017.12.011]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # Salvinorin A

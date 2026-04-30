@@ -1,6 +1,4 @@
 ---
-
-
 title: Valsartan
 created: 2026-04-27
 updated: 2026-04-27
@@ -10,8 +8,9 @@ sources: [doi/10.1016##j.cell.2015.04.011]
 
 
 category: reagents
----
 layout: default
+---
+
 
 
 
@@ -42,16 +41,4 @@ Valsartan binds to the ligand-binding pocket of the human angiotensin II type 1 
 ## Comparison with Other ARBs
 
 | ARB | Key Interaction with Arg167ᴱᴰᴸ² | Lys199 Interaction | Dissociation |
-|-----|-------------------------------|-------------------|--------------|
-| Candesartan | 2 salt bridges (tetrazole + benzimidazole) | Yes | Very slow |
-| Valsartan | 1 salt bridge (imidazole) | Yes (carboxylate) | Moderate |
-| Losartan | 1 salt bridge (tetrazole) | No | Fast |
-| ZD7155 | Extensive network | No | Slow |
-
-## Related Ligands
-
-- [losartan](/xray-mp-wiki/reagents/ligands/losartan/) — First ARB; surmountable antagonist
-- [candesartan](/xray-mp-wiki/reagents/ligands/candesartan/) — Insurmountable inverse agonist
-- [telmisartan](/xray-mp-wiki/reagents/ligands/telmisartan/) — Clinically used ARB
-- [irbesartan](/xray-mp-wiki/reagents/ligands/irbesartan/) — Clinically used ARB
-- [zd7155](/xray-mp-wiki/reagents/ligands/zd7155/) — High-affinity antagonist, precursor to candesartan
+|

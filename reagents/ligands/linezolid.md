@@ -1,6 +1,4 @@
 ---
-
-
 title: Linezolid
 created: 2026-04-27
 updated: 2026-04-27
@@ -10,8 +8,9 @@ sources: [doi/10.1007##s10969-013-9154-x]
 
 
 category: reagents
----
 layout: default
+---
+
 
 
 

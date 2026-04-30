@@ -2,8 +2,9 @@
 title: Structure Determination
 type: method
 category: methods
----
 layout: default
+---
+
 
 # Structure Determination
 

@@ -1,6 +1,4 @@
 ---
-
-
 title: Sodium Chloride (NaCl)
 created: 2026-04-26
 updated: 2026-04-27
@@ -10,8 +8,9 @@ sources: [doi/10.1002##1873-3468.14136, doi/10.1016##j.bbabio.2023.148986, doi/1
 
 
 category: reagents
----
 layout: default
+---
+
 
 
 
@@ -35,11 +34,4 @@ NaCl is the most common salt used in membrane protein buffers to maintain osmoti
 ## Usage Patterns Across This Wiki
 
 | Protein | NaCl Concentration | Purpose |
-|---------|-------------------|---------|
-| [nTMATE2-transporter](/xray-mp-wiki/proteins/nTMATE2-transporter/) | 300 mM | Expression, purification, SEC |
-| [psi-lhci-supercomplex](/xray-mp-wiki/proteins/psi-lhci-supercomplex/) | 150 mM, 50 mM | Native Fd buffer, purification |
-
-## Related Salts
-
-- [li2so4](/xray-mp-wiki/reagents/additives/li2so4/) — Li2SO4 used as crystallization precipitant
-- [tris-buffer](/xray-mp-wiki/reagents/buffers/tris-buffer/) — Tris-HCl buffer used with NaCl
+|

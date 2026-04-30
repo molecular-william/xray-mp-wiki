@@ -1,6 +1,4 @@
 ---
-
-
 title: GDN (Glyco-Diosgenin)
 created: 2026-04-26
 updated: 2026-04-27
@@ -10,8 +8,9 @@ sources: [doi/10.1016##j.bbabio.2023.148986]
 
 
 category: reagents
----
 layout: default
+---
+
 
 
 

@@ -6,8 +6,9 @@ type: reagent
 tags: [buffer-phosphate]
 sources: [doi/10.1007##s10969-013-9154-x]
 category: reagents
----
 layout: default
+---
+
 
 
 
@@ -35,14 +36,4 @@ Sodium phosphate buffers are widely used in protein biochemistry and crystalliza
 ## Comparison with Other Buffers
 
 | Buffer | pH Range | Common Use |
-|--------|----------|------------|
-| Tris-HCl | 7.0–9.0 | General purification, alkaline conditions |
-| HEPES-Na | 6.8–8.2 | Physiological pH, membrane protein work |
-| Sodium phosphate | 5.8–8.0 | Crystallization, acidic conditions |
-| Citrate | 3.0–6.0 | Acidic crystallization |
-| Acetate | 3.6–5.6 | Low pH applications |
-
-## Related Buffers
-
-- [tris-buffer](/xray-mp-wiki/reagents/buffers/tris-buffer/) — Tris-HCl, pH 7.0–9.0
-- [hepes-buffer](/xray-mp-wiki/reagents/buffers/hepes-buffer/) — HEPES-Na, pH 6.8–8.2
+|

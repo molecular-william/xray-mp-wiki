@@ -1,5 +1,4 @@
 ---
-
 title: S1I8 Angiotensin II Analog
 created: 2026-04-27
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: []
 sources: [doi/10.1016##j.cell.2018.12.006]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # S1I8 Angiotensin II Analog

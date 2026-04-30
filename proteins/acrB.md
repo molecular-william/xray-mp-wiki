@@ -1,5 +1,4 @@
 ---
-
 title: AcrB
 created: 2026-04-27
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [transporter, membrane-protein]
 sources: [doi/10.1007##s10969-013-9154-x, doi/10.1016##J.JMB.2009.04.001]
 
 category: proteins
----
 layout: default
+---
+
 
 
 # AcrB (Acriflavine Resistance Protein B)

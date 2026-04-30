@@ -6,8 +6,9 @@ type: protein
 tags: [ion-channel, membrane-protein, xray-crystallography, degenerin-epithelial-sodium-channel]
 sources: [doi/10.1016##j.cell.2014.01.011]
 category: proteins
----
 layout: default
+---
+
 
 # ASIC1a — Acid-Sensing Ion Channel 1a
 

@@ -1,5 +1,4 @@
 ---
-
 title: Rhodopseudomonas viridis Reaction Center
 created: 2026-04-26
 updated: 2026-04-28
@@ -7,8 +6,9 @@ type: protein
 tags: [membrane-protein, enzyme, pump]
 sources: [doi/10.1006##jmbi.1994.0097, doi/10.1016##j.bbabio.2013.11.015]
 category: proteins
----
 layout: default
+---
+
 
 
 # Rhodopseudomonas viridis Reaction Center
@@ -69,26 +69,4 @@ The photosynthetic reaction center (RC) from the purple bacterium *Rhodopseudomo
 ## Key Reagents Summary
 
 | Category | Reagent | Purpose |
-|----------|---------|---------|
-| Detergent (solubilization) | OG | Membrane solubilization |
-| Detergent (crystal) | LDAO | Resolved in crystal structure |
-| Solvent | Water (201 molecules) | Structural and functional role |
-| Ion | Sulfate (7 ions) | Cytoplasmic side binding |
-| Cofactor | Menaquinone-9 | QA (primary quinone acceptor) |
-| Cofactor | Ubiquinone-9 | QB (secondary quinone acceptor) |
-| Cofactor | BChl-b, BPh-b | Electron transfer chain |
-| Cofactor | Haem groups | Cytochrome electron transfer |
-| Cofactor | Carotenoid | Photoprotection |
-
-## Cross-References
-
-- [lDAO](/xray-mp-wiki/reagents/detergents/lDAO/) — Detergent resolved in crystal structure
-- [og](/xray-mp-wiki/reagents/detergents/og/) — Solubilization detergent
-- [xray-crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — First integral membrane protein complex solved by X-ray crystallography (Nobel Prize 1988)
-- [molecular-replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Phasing method
-
-## Related Membrane Protein Complexes
-
-- [psi-lhci-supercomplex](/xray-mp-wiki/proteins/psi-lhci-supercomplex/) — Photosynthetic supercomplex; membrane protein crystallization
-- [xray-crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — First integral membrane protein complex solved by X-ray crystallography (Nobel Prize 1988)
-- **Zn-BChl RC (Rps. sphaeroides)**: Saer et al. (2014) — Zn-coordinated bacteriochlorophyll RC at 2.85 Å, hanging drop crystallization, isomorphous with WT RC (PDB 2J8C), SSRL beamline 7.1
+|

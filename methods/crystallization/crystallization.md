@@ -2,8 +2,9 @@
 title: Crystallization Methods
 type: method
 category: methods
----
 layout: default
+---
+
 
 # Crystallization Methods
 

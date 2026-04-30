@@ -1,5 +1,4 @@
 ---
-
 title: Sodium Citrate
 created: 2026-04-27
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [precipitant-salt, crystallization-buffer]
 sources: [doi/10.1016##j.cell.2016.09.056, doi/10.1016##j.cell.2019.06.031, doi/10.1016##J.FEBSLET.2005.09.061, doi/10.1016##j.jbc.2021.100479]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # Sodium Citrate
@@ -37,14 +37,4 @@ Sodium citrate (sodium citrate dihydrate) is a weak acid buffer and precipitant 
 ## Comparison with Other Citrate Buffers
 
 | Buffer | pH Range | Typical Use |
-|--------|----------|-------------|
-| Sodium citrate | 4.5–6.0 | Acidic crystallization precipitant |
-| Sodium phosphate | 5.8–8.0 | Neutral crystallization buffer |
-| HEPES | 6.8–8.2 | Physiological pH buffer |
-| Tris | 7.0–9.0 | Alkaline buffer |
-
-## Related Reagents
-
-- [sodium-acetate](/xray-mp-wiki/reagents/additives/sodium-acetate/) — Another acidic crystallization buffer (pH 4.0–5.5)
-- [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) — Common buffer salt
-- [peg-400](/xray-mp-wiki/reagents/additives/peg-400/) — Common co-precipitant with sodium citrate
+|

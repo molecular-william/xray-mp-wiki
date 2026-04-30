@@ -6,8 +6,9 @@ type: protein
 tags: [receptor, membrane-protein]
 sources: [doi/10.1016##j.cell.2020.03.045]
 category: proteins
----
 layout: default
+---
+
 
 # SARS-CoV-2 Spike Protein CTD
 

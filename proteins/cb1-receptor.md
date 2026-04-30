@@ -6,8 +6,9 @@ type: protein
 tags: [gpcr, membrane-protein]
 sources: [doi/10.1016##j.cell.2020.01.008]
 category: proteins
----
 layout: default
+---
+
 
 # Cannabinoid Receptor CB1
 

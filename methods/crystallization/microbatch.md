@@ -1,5 +1,4 @@
 ---
-
 title: Microbatch Crystallization
 created: 2026-04-26
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [crystallization-microbatch]
 sources: [doi/10.1107##S2052252520012142, doi/10.7554##eLife.27829, doi/10.1073##pnas.0910365106]
 
 category: methods
----
 layout: default
+---
+
 
 
 # Microbatch Crystallization
@@ -41,15 +41,4 @@ Microbatch crystallization is a technique where protein and precipitant are mixe
 ## Comparison with Other Methods
 
 | Method | Volume | Evaporation | Cryoprotection |
-|--------|--------|-------------|----------------|
-| Hanging drop | 1-2 μL | Yes (controlled) | Required |
-| Sitting drop | 0.5-2 μL | Yes (controlled) | Required |
-| Microbatch (paraffin) | 0.1-1 μL | No | May not need |
-| Microbatch (silicone) | 0.1-1 μL | No | Often unnecessary |
-| LCP (microbatch) | 50-100 nL | No | Required |
-
-## Related Crystallization Methods
-
-- [vapor-diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion/) — Hanging-drop and sitting-drop
-- [lipidic-cubic-phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP (often combined with microbatch)
-- [dialysis](/xray-mp-wiki/methods/purification/dialysis/) — Dialysis buttons for micro-scale crystallization
+|

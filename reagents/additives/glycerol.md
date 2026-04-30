@@ -1,6 +1,4 @@
 ---
-
-
 title: Glycerol
 created: 2026-04-26
 updated: 2026-04-27
@@ -10,8 +8,9 @@ sources: [doi/10.1002##1873-3468.14136, doi/10.1016##j.bbabio.2023.148986, doi/1
 
 
 category: reagents
----
 layout: default
+---
+
 
 
 

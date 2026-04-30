@@ -1,5 +1,4 @@
 ---
-
 title: Clopidogrel
 created: 2026-04-27
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [additive-ligand]
 sources: [doi/10.1038##nature13083, doi/10.1016##j.bcp.2022.115291]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # Clopidogrel (Plavix)
@@ -50,17 +50,4 @@ The P2Y12R crystal structure (2.6 Å, P2Y12R-BRIL, Wu et al., 2014) reveals:
 ## Comparison with Other P2Y12 Antagonists
 
 | Drug | Binding Type | Reversibility | Half-life | Prodrug |
-|------|-------------|---------------|-----------|---------|
-| Clopidogrel | Irreversible covalent | No (platelet lifespan) | Long (active metabolite) | Yes |
-| Prasugrel | Irreversible covalent | No | Intermediate | Yes |
-| Ticagrelor | Reversible | Yes (~7-9h) | ~7-9h | No |
-| Selatogrel | Reversible | Yes (~1h) | ~1h | No |
-| Elinogrel | Reversible | Yes (~1h) | ~1h | No |
-
-## Related Ligands
-
-- [ticagrelor](/xray-mp-wiki/reagents/ligands/ticagrelor/) — Reversible P2Y12 antagonist, inverse agonist
-- [selatogrel](/xray-mp-wiki/reagents/ligands/selatogrel/) — Reversible P2Y12 inverse agonist
-- [elinogrel](/xray-mp-wiki/reagents/ligands/elinogrel/) — Reversible P2Y12 inverse agonist
-- [p2y12-receptor](/xray-mp-wiki/proteins/p2y12-receptor/) — P2Y12 receptor page
-- [clopidogrel](/xray-mp-wiki/reagents/ligands/clopidogrel/) — See also: P2Y12 receptor structure (Nature 2014)
+|

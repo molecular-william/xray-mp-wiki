@@ -1,5 +1,4 @@
 ---
-
 title: Elinogrel
 created: 2026-04-27
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [additive-ligand]
 sources: [doi/10.1016##j.bcp.2022.115291]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # Elinogrel
@@ -38,15 +38,4 @@ Elinogrel acts as an inverse agonist of the P2Y12 receptor, stabilizing the inac
 ## Comparison with Other P2Y12 Antagonists
 
 | Drug | Binding | Efficacy | Half-life | Activation |
-|------|---------|----------|-----------|------------|
-| Clopidogrel | Irreversible covalent | Antagonist | Long (active metabolite) | Prodrug |
-| Ticagrelor | Reversible | Inverse agonist | ~7-9h | Direct |
-| Selatogrel | Reversible | Inverse agonist | ~1h | Direct |
-| Elinogrel | Reversible | Inverse agonist | ~1h | Direct |
-
-## Related Ligands
-
-- [ticagrelor](/xray-mp-wiki/reagents/ligands/ticagrelor/) — Reversible P2Y12 antagonist, inverse agonist
-- [selatogrel](/xray-mp-wiki/reagents/ligands/selatogrel/) — Reversible P2Y12 inverse agonist, 100× more potent than ticagrelor
-- [clopidogrel](/xray-mp-wiki/reagents/ligands/clopidogrel/) — Irreversible P2Y12 antagonist, prodrug
-- [p2y12-receptor](/xray-mp-wiki/proteins/p2y12-receptor/) — P2Y12 receptor page
+|

@@ -1,5 +1,4 @@
 ---
-
 title: 5-HT2B Receptor (Serotonin Receptor 2B)
 created: 2026-04-26
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [gpcr, membrane-protein, receptor]
 sources: [doi/10.1016##j.cell.2016.12.033]
 
 category: proteins
----
 layout: default
+---
+
 
 
 # 5-HT2B Receptor

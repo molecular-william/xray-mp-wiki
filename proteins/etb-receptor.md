@@ -1,5 +1,4 @@
 ---
-
 title: Endothelin ETB Receptor
 created: 2026-04-27
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [gpcr, receptor, membrane-protein]
 sources: [doi/10.1016##j.bbrc.2019.12.091]
 
 category: proteins
----
 layout: default
+---
+
 
 
 # Endothelin ETB Receptor

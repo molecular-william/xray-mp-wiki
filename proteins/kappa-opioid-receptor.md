@@ -1,5 +1,4 @@
 ---
-
 title: Kappa Opioid Receptor (KOP)
 created: 2026-04-27
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [gpcr, receptor]
 sources: [doi/10.1016##j.cell.2017.12.011]
 
 category: proteins
----
 layout: default
+---
+
 
 
 # Kappa Opioid Receptor (KOP)

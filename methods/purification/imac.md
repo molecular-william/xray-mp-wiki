@@ -6,8 +6,9 @@ type: method
 tags: [purification-method, affinity-chromatography, chromatography]
 sources: []
 category: methods
----
 layout: default
+---
+
 
 # IMAC — Immobilized Metal Affinity Chromatography
 

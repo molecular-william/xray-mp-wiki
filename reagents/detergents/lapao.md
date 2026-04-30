@@ -1,5 +1,4 @@
 ---
-
 title: LAPAO Detergent
 created: 2026-04-27
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [detergent-zwitterionic, detergent-mild]
 sources: [doi/10.1016##J.FEBSLET.2005.09.061]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # LAPAO Detergent

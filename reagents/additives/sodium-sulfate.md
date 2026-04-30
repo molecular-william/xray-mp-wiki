@@ -6,8 +6,9 @@ type: reagent
 tags: [additive-salt]
 sources: [doi/10.1016##j.celrep.2015.10.025]
 category: reagents
----
 layout: default
+---
+
 
 # Sodium Sulfate
 

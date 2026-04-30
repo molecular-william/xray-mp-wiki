@@ -1,5 +1,4 @@
 ---
-
 title: ICA38
 created: 2026-04-27
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [additive-ligand]
 sources: [doi/10.1016##j.cell.2019.01.003]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # ICA38

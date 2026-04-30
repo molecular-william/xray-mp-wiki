@@ -1,5 +1,4 @@
 ---
-
 title: Spermine
 created: 2026-04-27
 updated: 2026-04-27
@@ -8,8 +7,9 @@ tags: [additive-ligand]
 sources: [doi/10.1016##j.cell.2010.05.003]
 
 category: reagents
----
 layout: default
+---
+
 
 
 # Spermine
@@ -50,14 +50,4 @@ Unlatching causes intracellular vestibule dilation (~4.5 Å), simultaneously dis
 ## Comparison with Other Blockers
 
 | Blocker | Charge | Binding Site | Effect |
-|---------|--------|--------------|--------|
-| Spermine | +4 | Intracellular pocket + deep pore | Strong inward rectification |
-| Spermidine | +3 | Intracellular pocket | Moderate rectification |
-| Putrescine | +2 | Shallow site | Weak rectification |
-| Mg²⁺ | +2 | Selectivity filter | Block without rectification |
-| Ba²⁺ | +2 | Selectivity filter | Block without rectification |
-
-## Related Reagents
-
-- [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) — NaCl for osmotic balance
-- [li2so4](/xray-mp-wiki/reagents/additives/li2so4/) — Lithium sulfate, kosmotropic salt
+|
