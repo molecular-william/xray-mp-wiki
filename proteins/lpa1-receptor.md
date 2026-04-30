@@ -63,5 +63,4 @@ LPA1 (lysophosphatidic acid receptor 1) is a GPCR that binds lysophosphatidic ac
 
 ## Comparison with S1P1 (Sphingosine 1-Phosphate Receptor 1)
 
-| Feature | LPA1 | S1P1 |
-|
+|| Feature | LPA1 | S1P1 |

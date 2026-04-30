@@ -47,7 +47,5 @@ The Photosystem I-Light Harvesting Complex I (PSI-LHCI) supercomplex from the gr
 - **Form-C**: All binding partners dissociate upon oxidized ferredoxin (FdGa) binding — transition from resting to active state
 - **PGR5** detected by proteomics — potential candidate for σ₁
 
-## Key Reagents Summary
 
-| Category | Reagent | Purpose |
 |

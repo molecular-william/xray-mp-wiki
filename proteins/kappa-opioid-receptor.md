@@ -39,7 +39,7 @@ The kappa opioid receptor (KOP, also known as OPK) is a class A GPCR that mediat
   - [bril](/xray-mp-wiki/reagents/protein-tags/bril/) (thermostabilized apocytochrome b562RIL) fused into ICL3
   - C-terminal His-tag on [bril](/xray-mp-wiki/reagents/protein-tags/bril/)
 - **Detergent**: [ddm](/xray-mp-wiki/reagents/detergents/ddm/) (n-dodecyl-β-D-maltopyranoside) for membrane solubilization
-- **Purification**: Anti-FLAG [affinity-chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/), [affinity-chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) (His-tag on [bril](/xray-mp-wiki/reagents/protein-tags/bril/)), followed by [size-exclusion-chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) (Superdex 200)
+- Anti-FLAG affinity chromatography (His-tag on BRIL), followed by size-exclusion chromatography (Superdex 200)
 - **SEC buffer**: 20 mM [hepes-buffer](/xray-mp-wiki/reagents/buffers/hepes-buffer/) pH 7.5, 150 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 0.05% [ddm](/xray-mp-wiki/reagents/detergents/ddm/), 1 μM [mp1104](/xray-mp-wiki/reagents/ligands/mp1104/)
 
 ## Crystallization

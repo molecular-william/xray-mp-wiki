@@ -66,7 +66,5 @@ The photosynthetic reaction center (RC) from the purple bacterium *Rhodopseudomo
 - **7 sulfate ions**: exclusively on cytoplasmic side near L-M/H interface
 - Unidentified density features: possibly heptane-1,2,3-triol, detergent, or water clusters
 
-## Key Reagents Summary
 
-| Category | Reagent | Purpose |
 |

@@ -63,5 +63,4 @@ This study revealed interdependent gates in the Kir conduction pathway:
 
 ## Ion Configurations
 
-| Structure | Status | Ion Sites | Block Ion |
-|
+|| Structure | Status | Ion Sites | Block Ion |

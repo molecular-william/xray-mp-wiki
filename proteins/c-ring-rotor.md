@@ -39,5 +39,4 @@ The c11 ring forms a symmetric hourglass-shaped assembly:
 
 Each of the 11 Na+ binding sites is located between adjacent c-subunits with **5 ligands**:
 
-| Ligand | Residue | Distance (Å) |
-|
+|| Ligand | Residue | Distance (Å) |

@@ -102,8 +102,6 @@ The native PorB is proposed to be a **pentamer (C₅ symmetry)** based on:
 
 ## Cross-References
 
-- Channel-forming proteins in bacterial outer membranes
 - [xray-crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Structure determination method
-- 2-methyl-2,4-pentanediol (MPD) — Cryoprotectant used for data collection
 - [size-exclusion-chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Purification method (S75-26/60)
 - [affinity-chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — GST affinity purification

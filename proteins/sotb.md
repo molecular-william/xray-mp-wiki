@@ -71,5 +71,4 @@ This study reveals **nonlinear rigid-body movements** during the transition from
 
 ## Comparison with Other Transporters
 
-| Transporter | Family | Mechanism | States Captured |
-|
+|| Transporter | Family | Mechanism | States Captured |

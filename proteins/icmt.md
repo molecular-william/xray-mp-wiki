@@ -87,4 +87,4 @@ ICMT (Isoprenylcysteine Carboxyl Methyltransferase) is an integral membrane meth
 
 ### Paper Details
 
-- Yang et al. (2011) Molecular Cell 44: [DOI: 10.1016/j.molcel.2011.10.020] — Crystal structure of Ma-ICMT
+- Yang et al. (2011) Molecular Cell 44: 10.1016/j.molcel.2011.10.020 — Crystal structure of Ma-ICMT

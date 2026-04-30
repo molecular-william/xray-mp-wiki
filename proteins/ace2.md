@@ -34,5 +34,4 @@ ACE2 (Angiotensin-Converting Enzyme 2) is a type II membrane protein and carboxy
 
 Key hACE2 residues interacting with SARS-CoV-2-CTD:
 
-| hACE2 residue | SARS-CoV-2-CTD contacts |
-|
+|| hACE2 residue | SARS-CoV-2-CTD contacts |

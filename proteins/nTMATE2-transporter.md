@@ -64,7 +64,5 @@ NtMATE2 is a multidrug and toxic compound extrusion (MATE) family transporter fr
 - **Container**: Glass sandwich plates, 30 nL LCP drops
 - **Resolution**: 3.5 Å, 94 crystals collected
 
-## Key Reagents Summary
 
-| Category | Reagent | Purpose |
 |

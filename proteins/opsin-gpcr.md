@@ -53,5 +53,4 @@ Opsin is the retinal-free apoprotein of rhodopsin, the G-protein-coupled recepto
 
 Various detergents were tested for their ability to occupy the retinal-binding pocket (reconstitution inhibition assay with 11-cis-retinal):
 
-| Detergent | Effect on Reconstitution | Interpretation |
-|
+|| Detergent | Effect on Reconstitution | Interpretation |

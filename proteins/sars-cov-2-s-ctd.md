@@ -105,4 +105,4 @@ The external subdomain of SARS-CoV-2-CTD contains key residues that contact hACE
 - [sf9-cells](/xray-mp-wiki/methods/expression-systems/sf9-cells/) — Sf9 insect cell expression
 - [tris-buffer](/xray-mp-wiki/reagents/buffers/tris-buffer/) — Tris-HCl SEC buffer
 - [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) — NaCl in SEC buffer
-- sars-cov — SARS-CoV (structural comparison)
+- [sars-cov](/xray-mp-wiki/concepts/sars-cov/) — SARS-CoV (structural comparison)

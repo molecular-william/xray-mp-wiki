@@ -5,7 +5,7 @@ title: Methods
 
 # Methods
 
-{% assign methods_sorted = site.pages | sort: 'title' %}
+{% assign methods_sorted = site.pages | sort: 'path' %}
 {% assign current_subdir = "" %}
 
 {% for method in methods_sorted %}

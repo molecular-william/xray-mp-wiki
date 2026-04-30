@@ -70,5 +70,4 @@ This motif is located on the outer surface of the membrane and tends to be disor
 
 ## Comparison with ZntB
 
-| Feature | CorA | ZntB |
-|
+|| Feature | CorA | ZntB |

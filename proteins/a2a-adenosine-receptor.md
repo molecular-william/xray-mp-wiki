@@ -20,7 +20,7 @@ The human A2A adenosine receptor is a class A GPCR that couples to Gs proteins a
 
 ## Structure Determination
 
-- **Construct**: A2A-PSB1-bRIL (single S91³·³⁹K mutation, bRIL fusion in ICL3)
+- **Construct**: A2A-PSB1-bRIL (single S91³·³⁹K mutation, BRIL fusion in ICL3)
 - **PDB IDs**: 7PX4 (PSB-2113 complex), 7PYR (PSB-2115 complex)
 - **Resolutions**: 2.25 Å and 2.6 Å
 - **Method**: [xray-crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/), sitting-drop [vapor-diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion/)
@@ -31,10 +31,10 @@ The human A2A adenosine receptor is a class A GPCR that couples to Gs proteins a
 - **Expression system**: [hek293-cells](/xray-mp-wiki/methods/expression-systems/hek293-cells/) (mammalian, stable expression)
 - **Construct design**:
   - Single S91³·³⁹K mutation — lysine occupies the allosteric sodium binding site
-  - bRIL (thermostabilized [bril](/xray-mp-wiki/reagents/protein-tags/bril/)) fused into ICL3
+  - BRIL (thermostabilized apocytochrome b562RIL) fused into ICL3
   - C-terminal truncation (long C-tail removed)
 - **Detergent**: [ddm](/xray-mp-wiki/reagents/detergents/ddm/) (n-dodecyl-β-D-maltopyranoside) for membrane solubilization
-- **Purification**: [affinity-chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) (His-tag on bRIL), followed by [size-exclusion-chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) (Superdex 200 increase 10/300)
+- **Purification**: [affinity-chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) (His-tag on BRIL), followed by [size-exclusion-chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) (Superdex 200 increase 10/300)
 - **SEC buffer**: 20 mM [hepes-buffer](/xray-mp-wiki/reagents/buffers/hepes-buffer/) pH 7.5, 150 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 0.05% [ddm](/xray-mp-wiki/reagents/detergents/ddm/), 1 μM ligand (PSB-2113 or PSB-2115)
 
 ## Crystallization
@@ -57,7 +57,7 @@ The human A2A adenosine receptor is a class A GPCR that couples to Gs proteins a
 
 ## Key Construct Features
 
-- **bRIL**: Thermostabilized apocytochrome b562RIL fusion protein replacing ICL3
+- **BRIL**: Thermostabilized apocytochrome b562RIL fusion protein replacing ICL3
 - **S91³·³⁹K mutation**: Lysine occupies the allosteric sodium binding site, stabilizing inactive conformation
 - **C-terminal truncation**: Long C-tail removed
 - **No mutations in orthosteric ligand-binding pocket** (unlike A2A-StaR2 which has T88³·³⁶A and S277⁷·⁴²A)
@@ -90,10 +90,6 @@ The human A2A adenosine receptor is a class A GPCR that couples to Gs proteins a
 
 - [a2a-star2](/xray-mp-wiki/proteins/a2a-star2/) — 9-mutation thermostabilized construct (historical)
 - [etb-receptor](/xray-mp-wiki/proteins/etb-receptor/) — ETB-Y5-T4L: 5 thermostabilizing mutations (R124Y, D154A, K270A, DS342A, I381A) + T4L fusion in ICL3
-- A2A-PSB1-bRIL: Single S91K mutation, bRIL fusion (current gold standard)
-- A2A-ΔC-bRIL: C-terminal truncation + bRIL fusion (no point mutations)
+- A2A-PSB1-bRIL: Single S91K mutation, BRIL fusion (current gold standard)
+- A2A-ΔC-bRIL: C-terminal truncation + BRIL fusion (no point mutations)
 
-## Key Reagents Summary
-
-| Category | Reagent | Purpose |
-|

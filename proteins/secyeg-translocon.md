@@ -129,4 +129,3 @@ The SecYEG translocon is a conserved protein-conducting channel in bacterial mem
 - [magnesium-sulfate](/xray-mp-wiki/reagents/additives/magnesium-sulfate/) — MgSO4 in crystallization
 - [sodium-sulfate](/xray-mp-wiki/reagents/additives/sodium-sulfate/) — Na2SO4 in crystallization
 - [peg-5000](/xray-mp-wiki/reagents/additives/peg-5000/) — PEG 500 MME precipitant
-- trihexylamine — Triethylamine (implied by Tris)

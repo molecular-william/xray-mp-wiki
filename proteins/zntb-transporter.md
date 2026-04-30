@@ -95,5 +95,4 @@ A striking finding: **25 well-defined Cl⁻ ions** per pentamer (5 per monomer) 
 
 ## Comparison with CorA
 
-| Feature | Vp-ZntB | Tm-CorA |
-|
+|| Feature | Vp-ZntB | Tm-CorA |

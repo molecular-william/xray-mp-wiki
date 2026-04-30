@@ -103,11 +103,6 @@ CB1 exhibits a more complex activation process than CB2:
 - [scfv16](/xray-mp-wiki/reagents/antibodies/scfv16/) — scFv16 antibody fragment for GPCR-Gi complex stabilization
 - [lmng](/xray-mp-wiki/reagents/detergents/lmng/) — Detergent used for CB1 solubilization
 - [cholesterol-hydrogen-succinate](/xray-mp-wiki/reagents/lipids/cholesterol-hydrogen-succinate/) — CHS added for membrane protein stability
-- [gdn](/xray-mp-wiki/reagents/detergents/gdn/) — Glycol-diosfenin used in cryo-EM buffer
-- [monoolein](/xray-mp-wiki/methods/crystallization/monoolein/) — Lipid used in LCP crystallization
 - [cryoem](/xray-mp-wiki/methods/structure-determination/cryoem/) — Cryo-EM structure determination (3.0 Å for CB1-Gi-scFv16)
-- [xray-crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — X-ray crystallography for CB1 active-like structure
 - [lipidic-cubic-phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization method
-- [size-exclusion-chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — SEC for complex purification
-- [hek293-cells](/xray-mp-wiki/methods/expression-systems/hek293-cells/) — HEK293 expression system (indirectly referenced via CB1 work)
-- [sf9-cells](/xray-mp-wiki/methods/expression-systems/sf9-cells/) — Sf9 cells used for CB2-Gi complex expression
+- [hek293-cells](/xray-mp-wiki/methods/expression-systems/hek293-cells/) — HEK293 expression system

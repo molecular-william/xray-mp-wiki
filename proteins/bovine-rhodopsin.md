@@ -38,5 +38,4 @@ Bovine rhodopsin is the light-sensitive GPCR in retinal rod cells that initiates
 
 All seven transmembrane helices contain kinks (8°–36°) that enable intimate packing and enfold the chromophore:
 
-| Helix | Kink position | Kink angle | Cause |
-|
+|| Helix | Kink position | Kink angle | Cause |

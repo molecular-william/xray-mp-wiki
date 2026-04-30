@@ -125,7 +125,6 @@ The thermostabilized M1 receptor (M1-StaR) enabled crystallization:
 - [molecular-replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Phaser MR (PDB: 2VT4)
 - [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Imidazole for Ni-NTA elution
 - [htl9936](/xray-mp-wiki/reagents/ligands/htl9936/) — Selective M1 partial agonist (drug candidate for AD)
-- 77-lh-28-1 — Agonist used for initial structure determination
-- gsk1034702 — Bitopic M1 agonist (clinical candidate, withdrawn)
-- gpcr — Class A GPCR
+- [77-lh-28-1](/xray-mp-wiki/reagents/ligands/77-lh-28-1/) — Agonist used for initial structure determination
+- [gsk1034702](/xray-mp-wiki/reagents/ligands/gsk1034702/) — Bitopic M1 agonist (clinical candidate, withdrawn)
 - [microfluidizer](/xray-mp-wiki/methods/cell-lysis/microfluidizer/) — Cell disruption method

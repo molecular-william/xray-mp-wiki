@@ -38,5 +38,4 @@ NupG is the nucleoside proton symporter from *Escherichia coli*, the prototype o
 
 ### Binding Affinities (ITC, 25 °C)
 
-| Substrate | Kd (μM) |
-|
+|| Substrate | Kd (μM) |
