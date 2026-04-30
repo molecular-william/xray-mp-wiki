@@ -23,19 +23,45 @@ See [SCHEMA.md](/xray-mp-wiki/SCHEMA.md) for the wiki structure and schema.
 
 Last updated: {{ site.time | date: "%Y-%m-%d" }}
 
+{% assign protein_count = 0 %}
+{% assign reagent_count = 0 %}
+{% assign method_count = 0 %}
+{% assign concept_count = 0 %}
+{% assign total_count = 0 %}
+
+{% for page in site.pages %}
+{% if page.path contains '.md' %}
+{% unless page.path contains 'index.md' %}
+{% unless page.path contains 'SCHEMA' %}
+{% assign total_count = total_count | plus: 1 %}
+{% if page.path contains 'proteins/' %}
+{% assign protein_count = protein_count | plus: 1 %}
+{% elsif page.path contains 'reagents/' %}
+{% assign reagent_count = reagent_count | plus: 1 %}
+{% elsif page.path contains 'methods/' %}
+{% assign method_count = method_count | plus: 1 %}
+{% elsif page.path contains 'concepts/' %}
+{% assign concept_count = concept_count | plus: 1 %}
+{% endif %}
+{% endunless %}
+{% endunless %}
+{% endif %}
+{% endfor %}
+
 | Category | Pages |
 |----------|-------|
-| Proteins | {{ site.pages | where_exp: "p", "p.path contains 'proteins/' and p.path contains '.md'" | where_exp: "p", "p.path != 'categories/proteins/index.md' and p.path != 'SCHEMA.md'" | size }} |
-| Reagents | {{ site.pages | where_exp: "p", "p.path contains 'reagents/' and p.path contains '.md'" | where_exp: "p", "p.path != 'categories/reagents/index.md' and p.path != 'SCHEMA.md'" | size }} |
-| Methods | {{ site.pages | where_exp: "p", "p.path contains 'methods/' and p.path contains '.md'" | where_exp: "p", "p.path != 'categories/methods/index.md' and p.path != 'SCHEMA.md'" | size }} |
-| Concepts | {{ site.pages | where_exp: "p", "p.path contains 'concepts/' and p.path contains '.md'" | where_exp: "p", "p.path != 'categories/concepts/index.md' and p.path != 'SCHEMA.md'" | size }} |
-| **Total** | **{{ site.pages | where_exp: "p", "p.path contains 'proteins/' or p.path contains 'reagents/' or p.path contains 'methods/' or p.path contains 'concepts/' | where_exp: "p", "p.path contains '.md' and p.path != 'categories/proteins/index.md' and p.path != 'categories/reagents/index.md' and p.path != 'categories/methods/index.md' and p.path != 'categories/concepts/index.md' and p.path != 'SCHEMA.md'" | size }}** |
+| Proteins | {{ protein_count }} |
+| Reagents | {{ reagent_count }} |
+| Methods | {{ method_count }} |
+| Concepts | {{ concept_count }} |
+| **Total** | **{{ total_count }}** |
 
 {% assign stale_count = 0 %}
 {% for page in site.pages %}
 {% if page.path contains 'proteins/' or page.path contains 'reagents/' or page.path contains 'methods/' or page.path contains 'concepts/' %}
-{% if page.path contains '.md' and page.path != 'SCHEMA.md' %}
-{% if page.path contains 'index.md' == false %}
+{% if page.path contains '.md' %}
+{% unless page.path contains 'index.md' %}
+{% unless page.path contains 'SCHEMA' %}
 {% if page.updated %}
 {% assign updated = page.updated | date: "%s" %}
 {% assign now = "now" | date: "%s" %}
@@ -44,7 +70,8 @@ Last updated: {{ site.time | date: "%Y-%m-%d" }}
 {% assign stale_count = stale_count | plus: 1 %}
 {% endif %}
 {% endif %}
-{% endif %}
+{% endunless %}
+{% endunless %}
 {% endif %}
 {% endif %}
 {% endfor %}
