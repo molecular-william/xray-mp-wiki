@@ -5,7 +5,7 @@ updated: 2026-04-27
 type: protein
 tags: [transporter, membrane-protein, channel]
 sources: [doi/10.1002##pro.215]
-category: concepts
+category: proteins
 layout: default
 ---
 

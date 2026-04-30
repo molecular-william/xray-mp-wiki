@@ -78,4 +78,4 @@ Last updated: {{ site.time | date: "%Y-%m-%d" }}
 
 **{{ stale_count }}** pages not updated in the last 30 days.
 
-For a detailed audit: `python3 scripts/lint.py`
+For a detailed audit: `python3 ~/Desktop/Research/coding_projects/xray-mp-wiki/scripts/lint.py`

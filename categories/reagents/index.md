@@ -5,7 +5,7 @@ title: Reagents
 
 # Reagents
 
-{% assign reagents_sorted = site.pages | sort: 'path' %}
+{% assign reagents_sorted = site.pages | sort: 'title' %}
 {% assign current_subdir = "" %}
 
 {% for r in reagents_sorted %}
