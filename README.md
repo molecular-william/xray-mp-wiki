@@ -17,7 +17,6 @@ A wiki documenting reagents and methods for X-ray crystallography of membrane pr
 - [Reagents](/xray-mp-wiki/categories/reagents/)
 - [Methods](/xray-mp-wiki/categories/methods/)
 - [Concepts](/xray-mp-wiki/categories/concepts/)
-- [Health](/xray-mp-wiki/health/)
 
 ## Contributing
 
