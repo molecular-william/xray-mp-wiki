@@ -42,16 +42,11 @@ Vapor diffusion is the most widely used method for protein crystallization. A dr
 - **Temperature**: Typically 4°C, 18°C, or 20°C
 - **Additives**: Ligands, detergents, ions, small molecules
 
-|## Related Methods
-|
-|- [lipidic-cubic-phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method for membrane proteins
-|- [microbatch](/xray-mp-wiki/methods/crystallization/microbatch/) — oil-overlay method
-|- [dialysis](/xray-mp-wiki/methods/purification/dialysis/) — equilibrium dialysis crystallization
+## Related Methods
 
-### Alternative Methods
 - [lipidic-cubic-phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method for membrane proteins
-- [microbatch](/xray-mp-wiki/methods/crystallization/microbatch/) — Oil-overlay method
-- [dialysis](/xray-mp-wiki/methods/purification/dialysis/) — Equilibrium dialysis crystallization
+- [microbatch](/xray-mp-wiki/methods/crystallization/microbatch/) — oil-overlay method
+- [dialysis](/xray-mp-wiki/methods/purification/dialysis/) — equilibrium dialysis crystallization
 
 ### Related Techniques
 - [crystallization](/xray-mp-wiki/methods/crystallization/crystallization/) — General crystallization overview

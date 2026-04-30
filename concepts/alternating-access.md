@@ -53,7 +53,7 @@ The alternating access mechanism is the fundamental principle by which secondary
 
 ### Secondary Active Transport
 - Uses ion gradients (H⁺, Na⁺) established by primary pumps
-- **Uniport**: Single substrate, down its [amicon-filters](/xray-mp-wiki/methods/purification/amicon-filters/) gradient
+- **Uniport**: Single substrate, down its gradient
 - **Symport**: Substrate + ion move in same direction
 - **Antiport**: Substrate and ion move in opposite directions
 

@@ -3,6 +3,7 @@ title: Buffers
 type: reagent
 category: reagents
 ---
+layout: default
 
 # Buffers
 

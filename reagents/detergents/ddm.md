@@ -49,13 +49,6 @@ DDM is one of the most widely used non-ionic detergents for membrane protein sol
 - [og](/xray-mp-wiki/reagents/detergents/og/) — shorter chain (octyl), used for GPCR crystallization
 - [lDAO](/xray-mp-wiki/reagents/detergents/lDAO/) — zwitterionic detergent, resolved in early RC crystal structure
 
-### Related Detergents
-- [lmng](/xray-mp-wiki/reagents/detergents/lmng/) — Milder, neopentyl glycol-based alternative
-- [og](/xray-mp-wiki/reagents/detergents/og/) — Shorter chain (octyl), used for GPCR crystallization
-- [lDAO](/xray-mp-wiki/reagents/detergents/lDAO/) — Zwitterionic detergent
-- [dm](/xray-mp-wiki/reagents/detergents/dm/) — Decylmaltoside
-- [mng-detergent](/xray-mp-wiki/reagents/detergents/mng-detergent/) — Maltose neopentyl glycol
-
 ### Applications
 - [solubilization](/xray-mp-wiki/methods/solubilization/solubilization/) — General solubilization methods
 - [crystallization](/xray-mp-wiki/methods/crystallization/crystallization/) — Crystallization conditions

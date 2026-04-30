@@ -4,9 +4,10 @@ layout: minima
 {{ content }}
 
 {% if page.sources %}
-## References
-
+<h2>References</h2>
+<ul>
 {% for doi in page.sources %}
-- [{{ doi | replace: "doi/", "" | replace: "##", "/" }}](https://doi.org/{{ doi | replace: "doi/", "" | replace: "##", "/" }})
+<li><a href="https://doi.org/{{ doi | replace: 'doi/', '' | replace: '##', '/' }}">{{ doi | replace: 'doi/', '' | replace: '##', '/' }}</a></li>
 {% endfor %}
+</ul>
 {% endif %}

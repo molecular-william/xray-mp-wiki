@@ -66,7 +66,7 @@ NtMATE2 is a multidrug and toxic compound extrusion (MATE) family transporter fr
 
 ## Key Reagents Summary
 
-||| Category | Reagent | Purpose |
+| Category | Reagent | Purpose |
 |----------|---------|---------|
 | Expression | *[pichia-pastoris](/xray-mp-wiki/methods/expression-systems/pichia-pastoris/)* SMD1168 | Heterologous expression |
 | Expression | pPIC9K plasmid + G418 | Selection and expression vector |

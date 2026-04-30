@@ -65,7 +65,7 @@ The 5-HT2B receptor is a serotonin GPCR that mediates the effects of LSD and oth
 - Potential applications in substance abuse, cluster headaches, and anxiety disorders
 - Therapeutic potential under renewed scientific interest
 
-|## Related Serotonin Receptors
+## Related Serotonin Receptors
 |
 |- [a2a-adenosine-receptor](/xray-mp-wiki/proteins/a2a-adenosine-receptor/) — GPCR with extensive structural biology
 |- [opsin-gpcr](/xray-mp-wiki/proteins/opsin-gpcr/) — Class A GPCR structural template

@@ -95,7 +95,7 @@ The human A2A adenosine receptor is a class A GPCR that couples to Gs proteins a
 
 ## Key Reagents Summary
 
-|| Category | Reagent | Purpose |
+| Category | Reagent | Purpose |
 |----------|---------|---------|
 | Ligand | PSB-2113 | PEGylated Preladenant [photoNECA](/xray-mp-wiki/reagents/ligands/photoNECA/), co-crystallization |
 | Ligand | PSB-2115 | BODIPY-labeled Preladenant [photoNECA](/xray-mp-wiki/reagents/ligands/photoNECA/), co-crystallization |

@@ -45,12 +45,12 @@ layout: default
 
 ## Comparison with Related Detergents
 
-|| Detergent | Chain Length | CMC (mM) | Strength | Use Case |
-||-----------|-------------|----------|----------|----------|
-|| DM | 10 carbons | ~0.17 | Mild | Retinal pockets, mild solubilization |
-|| DDM | 12 carbons | ~0.17 | Moderate | General membrane protein solubilization |
-|| OG | 8 carbons | ~25 | Strong | Short-chain, crystallization |
-|| LMNG | 12 carbons + maltose | ~0.01 | Ultra-mild | GPCR crystallization |
+| Detergent | Chain Length | CMC (mM) | Strength | Use Case |
+|-----------|-------------|----------|----------|----------|
+| DM | 10 carbons | ~0.17 | Mild | Retinal pockets, mild solubilization |
+| DDM | 12 carbons | ~0.17 | Moderate | General membrane protein solubilization |
+| OG | 8 carbons | ~25 | Strong | Short-chain, crystallization |
+| LMNG | 12 carbons + maltose | ~0.01 | Ultra-mild | GPCR crystallization |
 
 ## Related Detergents
 

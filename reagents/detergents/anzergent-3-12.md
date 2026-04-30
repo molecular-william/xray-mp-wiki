@@ -47,12 +47,12 @@ layout: default
 
 ## Comparison with Other Detergents
 
-|| Detergent | Class | CMC | Strength | Typical Use |
-||-----------|-------|-----|----------|-------------|
-|| DDM | Alkyl maltoside | ~0.17 mM | Mild | General solubilization |
-|| OG | Alkyl glucoside | ~25 mM | Strong | Crystallization, short-chain |
-|| LMNG | Neopentyl glycol | ~0.013 mM | Very mild | GPCR stabilization |
-|| Anzergent 3,12 | Alkyl polyglucoside | Low | Mild | Gentle solubilization |
+| Detergent | Class | CMC | Strength | Typical Use |
+|-----------|-------|-----|----------|-------------|
+| DDM | Alkyl maltoside | ~0.17 mM | Mild | General solubilization |
+| OG | Alkyl glucoside | ~25 mM | Strong | Crystallization, short-chain |
+| LMNG | Neopentyl glycol | ~0.013 mM | Very mild | GPCR stabilization |
+| Anzergent 3,12 | Alkyl polyglucoside | Low | Mild | Gentle solubilization |
 
 ## Related Detergents
 

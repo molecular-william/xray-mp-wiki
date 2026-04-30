@@ -3,6 +3,7 @@ title: Detergents
 type: reagent
 category: reagents
 ---
+layout: default
 
 # Detergents
 
