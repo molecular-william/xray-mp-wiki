@@ -1,8 +1,8 @@
-# Wiki Schema — X-ray Detergent Wiki
+# Wiki Schema — X-ray MP Wiki
 
 ## Domain
 
-This wiki documents the **reagents, methods, and protocols** used in the X-ray crystallography of membrane proteins. The focus is on the practical workflow:
+This wiki documents **reagents, methods, and protocols** used in the X-ray crystallography of **membrane proteins**. The focus is on the practical workflow:
 
 1. **Solubilization** — detergents, lipids, additives used to extract membrane proteins from membranes
 2. **Cell lysis** — cell disruption methods (microfluidizer, French press, sonication)
@@ -11,7 +11,7 @@ This wiki documents the **reagents, methods, and protocols** used in the X-ray c
 5. **Protein tags** — fusion partners (BRIL, T4L), cleavage enzymes (TEV protease)
 6. **Crystallization** — precipitants, additives, crystallization methods (vapor diffusion, lipid cubic phase, etc.)
 7. **Structure determination** — X-ray data collection, phasing methods, refinement reagents
-5. **Membrane protein class** — specific types of membrane proteins (GPCRs, ion channels, transporters, etc.)
+8. **Membrane protein class** — specific types of membrane proteins (GPCRs, ion channels, transporters, etc.)
 
 Entity types:
 - **Proteins**: Specific membrane proteins whose structures were determined
@@ -22,14 +22,27 @@ Entity types:
 
 ## Conventions
 
-- File names: lowercase, hyphens, no spaces (e.g., `dodecyl-maltoside.md`)
+- File names: lowercase, hyphens, no spaces (e.g., `ddm.md`)
 - Every wiki page starts with YAML frontmatter (see below)
-- Use `[[wikilinks]]` to link between pages (minimum 2 outbound links per page)
+- Use GitHub Pages relative URLs to link between pages: `[page-title](/xray-mp-wiki/proteins/5ht2b-receptor/)`
+- Minimum 2 outbound links per page
 - When updating a page, always bump the `updated` date
-- Every new page must be added to `index.md` under the correct section
-- Every action must be appended to `log.md`
-- Source DOI references use forward slashes: `10.1016/j.cell.2015.06.002`
+- Every new page must be added to a category index page under the correct section
+- Source DOI references use forward slashes: `doi/10.1016/j.cell.2015.06.002`
 - Raw source file names use double-hash: `10.1016##j.cell.2015.06.002.md`
+- DOIs in `sources:` frontmatter keep the `doi/` prefix for identification
+- The layout renders DOIs as clickable links to `https://doi.org/...`
+- DOIs are stored with `##` to match raw file naming; the layout converts `##` → `/` for URLs
+
+## Jekyll/GitHub Pages Conventions
+
+- Every page must have `layout: default` in frontmatter
+- Every page must have `category: proteins | reagents | methods | concepts`
+- Internal links use absolute paths: `/xray-mp-wiki/<category>/<subdir>/<filename>/`
+- Category index pages use Jekyll Liquid templates to auto-generate page lists
+- The site uses the `minima` theme with `github-pages` gem
+- Permalinks are `pretty` (trailing slash URLs)
+- The `baseurl` is empty; the repo name `xray-mp-wiki` is part of the URL path
 
 ## Directory Structure
 
@@ -37,6 +50,18 @@ The wiki uses a hierarchical directory structure that mirrors the index organiza
 
 ```
 wiki/
+├── _config.yml               — Jekyll configuration
+├── Gemfile                   — Ruby dependencies (github-pages)
+├── index.md                  — Wiki homepage
+├── _layouts/
+│   └── default.html          — Default layout (minima)
+├── SCHEMA.md                 — This file
+├── log.md                    — Session log
+├── categories/
+│   ├── proteins/index.md     — Auto-generated protein list
+│   ├── reagents/index.md     — Auto-generated reagent list
+│   ├── methods/index.md      — Auto-generated method list
+│   └── concepts/index.md     — Auto-generated concept list
 ├── proteins/                 — Protein entity pages
 ├── reagents/
 │   ├── detergents/           — Detergent pages (DDM, OG, LMNG, etc.)
@@ -54,11 +79,8 @@ wiki/
 │   ├── solubilization/       — Solubilization method pages
 │   ├── expression-systems/   — Expression system pages (baculovirus, HEK293, Pichia, Sf9)
 │   └── quality-assessment/   — Quality assessment methods (Coomassie staining)
-├── SCHEMA.md
-├── index.md
-└── log.md
+└── concepts/                 — General topic pages
 ```
-
 
 ## Frontmatter
 
@@ -67,7 +89,9 @@ wiki/
 title: Page Title
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
-type: protein | reagent | method | concept | comparison
+type: protein | reagent | method | concept
+category: proteins | reagents | methods | concepts
+layout: default
 tags: [from taxonomy below]
 sources: [doi/10.xxxx/xxxxx]
 ---
@@ -147,18 +171,35 @@ sources: [doi/10.xxxx/xxxxx]
 - Advantages and limitations
 - Examples from the literature
 
-## Update Policy
-When new information conflicts with existing content:
-1. Check the dates — newer sources generally supersede older ones
-2. If genuinely contradictory, note both positions with dates and sources
-3. Mark the contradiction in frontmatter: `contradictions: [page-name]`
-4. Flag for user review in the lint report
+## Correction Policy
+
+When new information differs from existing wiki content:
+1. If the new paper reports different experimental conditions for the same protein,
+   add the new conditions as an alternative — do not remove the old ones.
+   Label with the paper date.
+2. If the new paper supersedes an older one (same group, same protein,
+   better resolution or updated findings), update the page and note the
+   supersession in log.md.
+3. If a page contains a factual error (paper doesn't support the claim),
+   remove or correct the claim and log the correction in log.md.
+4. Never retain unsupported claims. If the paper doesn't mention it, it doesn't
+   belong in the wiki.
 
 ## Lint Audit (Every 5 DOIs)
 
 After ingesting every 5 raw papers, audit the wiki for:
-1. **Orphan pages** — pages with no inbound `[[wikilinks]]` from other pages
+1. **Orphan pages** — pages with no inbound links from other pages
 2. **Missing pages** — concepts referenced but don't have their own page
-3. **Contradictions** — claims that conflict across pages
-4. **Stale claims** — things superseded by a more recent source in raw/
-5. Suggest fixes for user to decide on
+3. **Broken links** — internal links pointing to non-existent pages
+4. **Duplicate sections** — same heading appearing twice in one page
+5. **Frontmatter consistency** — category matches parent directory, type matches category
+6. **Minimum outbound links** — every page links to at least 2 other pages
+7. **DOI format** — all DOIs use `doi/10.xxxx/...` format
+8. **Source-truth errors** — claims not supported by any listed source DOI
+9. Suggest fixes for user to decide on
+
+Run the lint script: `python3 scripts/lint.py` from the project root.
+
+## Source-Truth Verification
+
+User preference: always verify raw paper sources before trusting wiki content or applying automated suggestions. Before removing or modifying content, confirm the source paper actually contains the claimed information. Evidence-based decisions only.

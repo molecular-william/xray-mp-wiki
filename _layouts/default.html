@@ -2,3 +2,11 @@
 layout: minima
 ---
 {{ content }}
+
+{% if page.sources %}
+## References
+
+{% for doi in page.sources %}
+- [{{ doi | replace: "doi/", "" | replace: "##", "/" }}](https://doi.org/{{ doi | replace: "doi/", "" | replace: "##", "/" }})
+{% endfor %}
+{% endif %}
