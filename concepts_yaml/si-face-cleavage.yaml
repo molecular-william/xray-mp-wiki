@@ -1,0 +1,26 @@
+title: si-Face Cleavage in Rhomboid Proteases
+tags: [protease, catalysis, serine-protease, intramembrane-cleavage, stereochemistry]
+sources: [doi/10.1016##j.jmb.2011.01.046]
+overview: >
+  Rhomboid intramembrane proteases cleave transmembrane substrates on the si-face of the
+  scissile peptide bond, a stereochemistry distinct from the re-face cleavage characteristic
+  of most soluble serine proteases (e.g., trypsin). The rhomboid catalytic machinery employs
+  a Ser-His dyad (Ser116-His65 in hiGlpG) with an oxyanion hole formed by the main-chain
+  NH of Ser116 and the protonated N-epsilon of His65. This si-face mechanism is shared with
+  other serine peptidases featuring a Ser-Lys catalytic dyad, including bacterial signal
+  peptidase (SPase), Lon protease, LexA peptidase, and VP4 protease.
+examples:
+  - protein: "hiGlpG (H. influenzae)"
+    context: Structural evidence for substrate gating via helix 5 movements supports si-face attack geometry
+  - protein: "ecGlpG (E. coli)"
+    context: Cocrystal structure with coumarin inhibitor confirmed si-face cleavage stereochemistry
+cross_references:
+  - path: /xray-mp-wiki/proteins/higlpG/
+    title: hiGlpG (Haemophilus influenzae Rhomboid Protease)
+    reason: Primary structural evidence for si-face cleavage mechanism in rhomboids
+  - path: /xray-mp-wiki/concepts/rhomboid-protease/
+    title: Rhomboid Protease Family
+    reason: Rhomboids are the defining class of serine proteases with si-face cleavage
+  - path: /xray-mp-wiki/concepts/intramembrane-proteolysis/
+    title: Intramembrane Proteolysis
+    reason: si-face cleavage is the mechanism by which rhomboids perform intramembrane proteolysis

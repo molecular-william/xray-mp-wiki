@@ -1,0 +1,24 @@
+title: Aquaporin Family
+tags: [water-channel, membrane-protein, ion-channel, tm-helices, homotetramer]
+sources: [doi/10.1016##j.jmb.2007.02.070]
+overview: >
+  Aquaporins (AQPs) are integral membrane channel proteins that mediate bidirectional
+  water and selected small amphipathic molecule transport across cellular membranes.
+  The AQP fold consists of six transmembrane helices (M1-M8, with M1-M2 and M5-M6 as
+  half-helices) forming a right-handed bundle with the pore running through the center.
+  AQPs occur as homotetramers with four monomer channels. Two subfamilies exist:
+  water-selective channels and aquaglyceroporins (promiscuous for water and small
+  amphipathic molecules). The AQP fold is highly conserved, with two NPA (Asn-Pro-Ala)
+  motifs at the ends of M3 and M7 defining the selectivity filter.
+examples:
+  - protein: "[Aquaporin Z (AqpZ)](/xray-mp-wiki/proteins/aquaporin-z/)"
+    context: Bacterial homolog of human AQP1; water-selective channel with conserved histidine at selectivity filter
+  - protein: "[AQP1 (Human)](/xray-mp-wiki/proteins/aqp1/)"
+    context: Human aquaporin 1; mercury-sensitive at Cys189
+cross_references:
+  - path: /xray-mp-wiki/reagents/mercurial-mercury/
+    title: Mercury (HgCl2)
+    reason: Historical inhibitor that defined the aquaporin family; binds to pore cysteines
+  - path: /xray-mp-wiki/proteins/aquaporin-z/
+    title: Aquaporin Z (AqpZ)
+    reason: Bacterial AQP model system studied in this DOI

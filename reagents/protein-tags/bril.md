@@ -1,47 +1,51 @@
 ---
-title: BRIL (Apocytochrome b562RIL)
-created: 2026-04-27
-updated: 2026-04-27
+title: BRIL Fusion Protein
+created: 2026-05-05
+updated: 2026-05-05
 type: reagent
-tags: [additive-stabilizer, sample-preparation]
-sources: [doi/10.1016##j.cell.2015.04.011, doi/10.1016##j.cell.2018.12.006]
-
 category: reagents
 layout: default
+tags: [protein-tag]
+sources: [doi/10.1002##anie.202115545]
 ---
 
-
-
-# BRIL (Apocytochrome b562RIL)
+# BRIL Fusion Protein
 
 ## Overview
 
-BRIL is a thermostabilized mutant of apocytochrome b562 from *Escherichia coli* (M7W, H102I, R106L mutations). It has been developed as a fusion partner toolchest for the stabilization and crystallization of G protein-coupled receptors (GPCRs).
+BRIL (thermostabilized apocytochrome b562 RIL) is a fusion partner protein used to replace the intracellular loop 3 (ICL3) of GPCRs. BRIL provides a rigid, thermostable scaffold that stabilizes the GPCR construct for crystallization. The bRIL fusion replaces the flexible ICL3 with a well-folded helical bundle, improving construct stability and crystallization success rates for many GPCRs.
 
-## Thermostabilization
 
-BRIL contains three point mutations relative to wild-type apocytochrome b562:
-- **M7W**: Methionine → Tryptophan at position 7
-- **H102I**: Histidine → Isoleucine at position 102
-- **R106L**: Arginine → Leucine at position 106
+## Properties
 
-These mutations increase thermal stability and solubility, making BRIL an ideal fusion partner for membrane protein crystallization.
+- **Chemical name**: thermostabilized apocytochrome b562 RIL
+- **Class**: fusion partner protein
+- **Source organism**: engineered from cytochrome b562
+- **Fusion strategy**: The flexible intracellular loop 3 (ICL3) of the GPCR is replaced by the bRIL fusion protein, which provides a rigid helical bundle scaffold. The fusion is connected via a flexible linker sequence. BRIL is thermostabilized through point mutations to maintain structural integrity during purification and crystallization.
 
-## GPCR Fusion Strategy
+- **Size**: ~13 kDa
 
-BRIL can be fused to either the N-terminus or intracellular loops of GPCRs:
+## Use in Membrane Protein Work
 
-### N-terminal Fusion
-- Used for AT1R (Angiotensin II type 1 receptor): BRIL fused to N-terminus
-- Construct: HA signal peptide + FLAG tag + 10× His tag + TEV site + BRIL + AT1R
-- Truncations: AT1R residues 1, 7–16, 320–359 deleted
+### GPCR crystallization construct stabilization
 
-### Intracellular Loop 3 (ICL3) Fusion
-- Used for AT1R (active-state): BRIL inserted into ICL3 (residues 226–227)
-- Construct: I320 truncated to stop; BRIL in ICL3 instead of N-terminus
-- **Result**: 2-fold higher AngII affinity than wild-type; retained nanobody binding
+BRIL replaces ICL3 in A2A-PSB1-bRIL construct, providing thermostable scaffold that enables crystallization of the A2A adenosine receptor with Preladenant derivatives. The bRIL fusion enables high-resolution structure determination (2.25 A and 2.6 A) of GPCR-ligand complexes that were otherwise intractable.
 
-## Known GPCR-BRIL Fusions
 
-| GPCR | Fusion Site | Reference |
-|
+## Examples from This Wiki
+
+| Protein | Concentration | Context | Result |
+|---|---|---|---|
+| [A2A-PSB1-bRIL](/xray-mp-wiki/proteins/a2a-psb1-bril/) | not specified | Replaced ICL3 in A2A-PSB1-bRIL construct for GPCR crystallization | Enabled high-resolution structure determination at 2.25 A and 2.6 A |
+
+## Advantages and Disadvantages
+
+No advantages/disadvantages recorded.
+
+## Comparison with Related Reagents
+
+No comparison data available.
+
+## Cross-References
+
+- [A2A-PSB1-bRIL Adenosine A2A Receptor](/xray-mp-wiki/proteins/a2a-psb1-bril/) — ICL3 fusion partner enabling crystallization

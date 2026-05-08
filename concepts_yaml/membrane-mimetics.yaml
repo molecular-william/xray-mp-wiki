@@ -1,0 +1,25 @@
+title: Membrane Mimetics and Structural Biology Concepts
+tags: [concept-membrane-mimetic, concept-construct-design, membrane-protein]
+sources: [doi/10.1016##j.cell.2010.05.003, doi/10.1038##nature13074]
+overview: >
+  Membrane proteins require specialized techniques for structural determination due
+  to their hydrophobic transmembrane domains. Key concepts include membrane mimetics
+  (detergents, lipids, bicelles, nanodiscs) that provide a native-like environment,
+  thermostabilization strategies (fusion proteins, point mutations), and crystallization
+  methods (LCP, vapor diffusion) adapted for membrane proteins. Understanding these
+  concepts is essential for successful membrane protein structural biology.
+examples:
+  - protein: "[Vp-ZntB Cytoplasmic Domain](/xray-mp-wiki/proteins/vp-zntb/)"
+    context: MIT superfamily member; pentameric assembly provides insights into metal ion transport mechanisms
+  - protein: "[A2A-PSB1-bRIL](/xray-mp-wiki/proteins/a2a-psb1-bril/)"
+    context: bRIL fusion partner enables thermostabilization of GPCR for crystallization via LCP
+cross_references:
+  - path: /xray-mp-wiki/concepts/cora-mg-transporter/
+    title: CorA Mg2+ Transporter
+    reason: MIT superfamily member, pentameric assembly
+  - path: /xray-mp-wiki/proteins/vp-zntb/
+    title: Vp-ZntB Cytoplasmic Domain
+    reason: MIT superfamily member, pentameric assembly
+  - path: /xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/
+    title: Lipidic Cubic Phase Crystallization
+    reason: Primary crystallization method for membrane proteins in lipid environment

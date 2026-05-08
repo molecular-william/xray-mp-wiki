@@ -1,0 +1,24 @@
+title: Intramembrane Proteolysis
+tags: [protease, membrane-protein, catalysis, rhomboid, serine-protease]
+sources: [doi/10.1016##j.jmb.2007.10.014, doi/10.1016##j.jmb.2011.01.046]
+overview: >
+  Intramembrane proteases are specialized membrane proteins that cleave transmembrane
+  peptide substrates within the plane of the cell membrane. The rhomboid family of
+  serine intramembrane proteases is the best understood mechanistically. GlpG, the
+  archetypal rhomboid protease from E. coli, employs a Ser-His catalytic dyad housed
+  in an internal water-filled cavity. Substrate TM helices must first partition out of
+  the hydrophobic core of the membrane before entering the protease active site, which
+  is positioned near the membrane:water interface. Cleavage occurs primarily from the
+  interfacial region rather than from within the hydrophobic core.
+examples:
+  - protein: "[GlpG (E. coli)](/xray-mp-wiki/proteins/glpg/)"
+    context: Archetypal rhomboid serine intramembrane protease; 7 TM helices, Ser-His catalytic dyad
+  - protein: "[Rhomboid-1 (Drosophila)](/xray-mp-wiki/proteins/rhomboid-1/)"
+    context: Drosophila rhomboid protease; cleaves transmembrane EGF-like proteins
+cross_references:
+  - path: /xray-mp-wiki/proteins/glpg/
+    title: GlpG Rhomboid Protease
+    reason: First high-resolution structure of any intramembrane protease
+  - path: /xray-mp-wiki/methods/purification/
+    title: Membrane Protein Purification
+    reason: Intramembrane proteases require detergent solubilization for in vitro studies

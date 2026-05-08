@@ -1,33 +1,23 @@
 ---
-title: Size-Exclusion Chromatography (SEC)
-created: 2026-04-26
-updated: 2026-04-27
+title: Size-Exclusion Chromatography
 type: method
-tags: [purification-size-exclusion]
-sources: [doi/10.1002##1873-3468.14136, doi/10.1002##anie.202115545, doi/10.1016##j.bbabio.2023.148986]
-
-
 category: methods
 layout: default
+tags: [purification-size-exclusion, quality-assessment]
+created: 2026-05-04
+updated: 2026-05-04
+sources: [doi/10.1002##1873-3468.14136, doi/10.1002##anie.202115545, doi/10.1016##j.cell.2010.05.003, doi/10.1016##J.FEBSLET.2005.09.061]
 ---
 
-
-
-
-# Size-Exclusion Chromatography (SEC)
+# Size-Exclusion Chromatography
 
 ## Overview
 
-SEC (also called gel filtration) separates proteins by hydrodynamic radius. It is used for final polishing of membrane protein samples, removing aggregates, and assessing monodispersity before crystallization.
+Size-exclusion chromatography (SEC), also known as gel filtration, separates molecules based on their hydrodynamic radius as they pass through a porous stationary phase. In membrane protein workflows, SEC is used for final polishing of purified protein, removal of detergent micelles, assessment of monodispersity, and removal of cleavage tags. SEC profiles indicate sample homogeneity and oligomeric state, making it an essential quality control step before crystallization trials.
 
-## Workflow
+## Proteins Using This Method
 
-1. Load sample onto prepacked SEC column
-2. Elute with buffer containing stabilizing detergent
-3. Collect fractions — monodisperse protein elutes at characteristic volume
-4. Analyze by UV absorbance (A280) and/or fluorescence
-
-## Proteins Using SEC (from this wiki)
-
-| Protein | Column | Buffer | Purpose |
-|
+| Protein | Resolution | PDB | Notes |
+|---|---|---|---|
+| [KirBac Potassium Channels](/xray-mp-wiki/proteins/kirbac-potassium-channels/) | 2.6-4.2 A | 1P7B, 1XL4, 1XL6 | SEC after Ni2+-IMAC for His-tagged KirBac3.1; pooled/concentrated at ~8 mg/ml for crystallization |
+| [Bovine ADP/ATP Carrier](/xray-mp-wiki/proteins/bovine-adp-atp-carrier/) | 2.8 A | 2C3E | Gel filtration after HTP for native AAC-CATR; low salt favors dimeric form |

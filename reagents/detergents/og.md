@@ -1,45 +1,60 @@
 ---
-title: OG (n-Octyl β-D-Glucopyranoside)
-created: 2026-04-26
-updated: 2026-04-27
+title: n-Octyl beta-D-glucopyranoside (OG)
+created: 2026-05-05
+updated: 2026-05-05
 type: reagent
-tags: [detergent-nonionic, detergent-mild]
-sources: [doi/10.1002##anie.201302374]
-
 category: reagents
 layout: default
+tags: [detergent-nonionic, solubilization-detergent]
+sources: [doi/10.1002##anie.201302374]
 ---
 
+# n-Octyl beta-D-glucopyranoside (OG)
+
+## Overview
+
+n-Octyl beta-D-glucopyranoside (OG) is a mild nonionic detergent with an 8-carbon alkyl chain and a single glucose head group. It is commonly used for solubilizing membrane proteins and GPCRs. OG can enter deep hydrophobic binding pockets of membrane proteins and has been shown to bind in the orthosteric ligand-binding pocket of opsin, stabilizing the active conformation.
 
 
-# OG (n-Octyl β-D-Glucopyranoside)
+## Properties
 
-## Chemical Properties
+- **Chemical name**: n-octyl beta-D-glucopyranoside
+- **Chemical formula**: C14H28O6
+- **Molecular weight**: 296.37 g/mol
+- **Class**: nonionic alkyl glucoside
+- **CMC**: 20-28 mM
+- **HLB**: ~13
+- **Head group**: glucose (single)
+- **Tail length**: 8 carbons (octyl)
 
-- **Class**: Non-ionic detergent (alkyl glucoside)
-- **Alkyl chain**: 8 carbons (octyl)
-- **Headgroup**: Glucose (monosaccharide)
-- **CMC**: ~20-25 mM
+## Use in Membrane Protein Work
 
-## Uses in Membrane Protein Work
+### GPCR solubilization and crystallization
 
-OG is a relatively short-chain non-ionic detergent used for GPCR solubilization and crystallization. Notably, it can enter the ligand-binding pocket of rhodopsin/opsin and stabilize the active conformation.
+OG is used to solubilize opsin from retinal disc membranes at pH 5.6, promoting formation of the active Ops* conformation. A single OG molecule was found bound in the retinal-binding pocket of Ops* at 2.65 A resolution, replacing retinal and forming a defined hydrogen-bond network with multiple hydroxy groups. This binding stabilizes the active G-protein-interacting state of the receptor.
 
-## Proteins Using OG (from this wiki)
 
-- [opsin-gpcr](/xray-mp-wiki/proteins/opsin-gpcr/) — primary solubilization and crystallization detergent
-  - OG molecule found in the retinal-binding pocket of Ops* structure
-  - Replaces retinal and stabilizes the active conformation
-  - Forms multiple hydrogen bonds mimicking odorant-receptor interactions
-  - Used at crystallization pH 5.6
+### Ligand-binding pocket probe
 
-## Reconstitution Assays
+OG and related alkyl glucosides (NG, HpG) can occupy the retinal-binding pocket of opsin in a chain-length-dependent manner, with maximal inhibition of reconstitution observed above the critical micellar concentration. This property makes OG useful for probing hydrophobic binding pockets of GPCRs and other membrane proteins.
 
-OG was tested in rhodopsin reconstitution assays and showed concentration-dependent inhibition of retinal binding, confirming its ability to occupy the retinal-binding pocket.
 
-## Related Detergents
+## Examples from This Wiki
 
-- [ng](/xray-mp-wiki/reagents/detergents/ng/) (nonylglucoside) — longer chain analog
-- [hpg](/xray-mp-wiki/reagents/detergents/hpg/) (heptylglucoside) — shorter chain analog
-- [ddm](/xray-mp-wiki/reagents/detergents/ddm/) — longer chain (dodecyl), milder
-- [dm](/xray-mp-wiki/reagents/detergents/dm/) (decylmaltoside) — fits best sterically in retinal pocket
+| Protein | Concentration | Context | Result |
+|---|---|---|---|
+| [Opsin](/xray-mp-wiki/proteins/opsin/) | solubilization concentration | Opsin solubilization from disc membranes at pH 5.6 | Active Ops* conformation stabilized; OG found bound in retinal-binding pocket at 2.65 A |
+
+## Advantages and Disadvantages
+
+No advantages/disadvantages recorded.
+
+## Comparison with Related Reagents
+
+No comparison data available.
+
+## Cross-References
+
+- [Opsin (Retinal-Free Rhodopsin)](/xray-mp-wiki/proteins/opsin/) — OG found bound in orthosteric binding pocket
+- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Related nonionic maltoside detergent, longer chain
+- [Lauryl Maltose Neopentyl Glycol (LMNG)](/xray-mp-wiki/reagents/detergents/lmng/) — Related neopentyl glycol detergent family

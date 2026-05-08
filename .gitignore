@@ -62,3 +62,9 @@ htmlcov/
 # Documentation artifacts
 docs/_build/
 docs/build/
+
+# YAMLs
+concept_yaml/
+methods_yaml/
+proteins_yaml/
+reagents_yaml/

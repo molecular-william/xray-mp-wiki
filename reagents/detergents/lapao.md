@@ -1,43 +1,36 @@
 ---
-title: LAPAO Detergent
-created: 2026-04-27
-updated: 2026-04-27
+title: LAPAO
+created: 2026-05-05
+updated: 2026-05-05
 type: reagent
-tags: [detergent-zwitterionic, detergent-mild]
-sources: [doi/10.1016##J.FEBSLET.2005.09.061]
-
 category: reagents
 layout: default
+tags: [solubilization-detergent, membrane-protein]
+sources: [doi/10.1016##J.FEBSLET.2005.09.061]
 ---
 
-
-
-# LAPAO Detergent
+# LAPAO
 
 ## Overview
 
-LAPAO (3-laurylamido-N,N'-dimethylpropylaminoxyde) is a zwitterionic detergent used for solubilizing membrane proteins. It is particularly effective for extracting mitochondrial membrane proteins while preserving protein–lipid interactions.
+LAPAO (3-laurylamido-N,N'-dimethylpropylaminoxyde) is a zwitterionic detergent used for extracting the bovine mitochondrial ADP/ATP carrier from heart muscle mitochondria. Used at 2% (w/v) during extraction, it preserves the protein-inhibitor complex with carboxyatractyloside and maintains endogenous cardiolipin binding critical for structural integrity.
 
-## Chemical Properties
 
-- **Full name**: 3-laurylamido-N,N'-dimethylpropylaminoxyde
-- **Class**: Zwitterionic amino oxide detergent
-- **Hydrophobic tail**: Lauryl (C12)
-- **Head group**: Dimethylpropylaminoxyde (zwitterionic at physiological pH)
+## Properties
 
-## Uses in Membrane Protein Work
 
-- **ADP/ATP Carrier (AAC)**: 2% LAPAO used for extracting bovine heart mitochondrial AAC while preserving endogenous cardiolipin molecules
-- The detergent allows isolation of AAC with 3 tightly bound cardiolipin molecules per monomer
-- These cardiolipins mediate biologically relevant dimerization interfaces in the crystal structure
+## Use in Membrane Protein Work
 
-## Advantages
+No specific use cases documented.
+## Examples from This Wiki
 
-- Mild zwitterionic detergent that preserves protein–lipid interactions
-- Effective for extracting tightly bound endogenous lipids
-- Compatible with subsequent purification steps (hydroxylapatite chromatography, gel filtration)
+No examples from this wiki.
+## Advantages and Disadvantages
+
+No advantages/disadvantages recorded.
+
+## Comparison with Related Reagents
+
+No comparison data available.
 
 ## Cross-References
-
-- [adenine-nucleotide-transporter](/xray-mp-wiki/proteins/adenine-nucleotide-transporter/) — Bovine AAC structure determined with LAPAO solubilization
-- [cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) — Lipid preserved by LAPAO during AAC purification

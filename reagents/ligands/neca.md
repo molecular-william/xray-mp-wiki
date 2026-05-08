@@ -1,39 +1,52 @@
 ---
-title: NECA (5'-N-Ethylcarboxamidoadenosine)
-created: 2026-04-26
-updated: 2026-04-27
+title: NECA
+created: 2026-05-05
+updated: 2026-05-05
 type: reagent
-tags: [additive-ligand]
-sources: [doi/10.1016##j.bbrc.2023.149393, doi/10.1016##j.cell.2016.12.033]
-
 category: reagents
 layout: default
+tags: []
+sources: [doi/10.1002##anie.202115545]
 ---
 
-
-
-# NECA (5'-N-Ethylcarboxamidoadenosine)
+# NECA
 
 ## Overview
 
-NECA is a non-selective adenosine receptor agonist widely used in structural and functional studies of adenosine receptors. It is the most commonly used ligand in crystal structure analyses of agonist-bound [a2a-adenosine-receptor](/xray-mp-wiki/proteins/a2a-adenosine-receptor/).
+NECA (5'-N-ethylcarboxamidoadenosine) is a non-selective adenosine receptor agonist used to probe agonist binding to A2AAR constructs. NECA binding is abolished in the S91K-mutated A2A-PSB1-bRIL construct, confirming that the mutation stabilizes the inactive conformation and prevents agonist-induced conformational changes.
+
 
 ## Properties
 
-- **Selectivity**: Non-selective (binds A1, A2A, A2B, A3 receptors)
-- **Modification**: C5' of ribose replaced with N-ethylcarboxyamide group
-- **Function**: Agonist — stabilizes active GPCR conformation
+- **Chemical name**: 5'-N-ethylcarboxamidoadenosine
+- **Chemical formula**: C11H15N4O4
+- **Molecular weight**: 267.26 g/mol
+- **Class**: adenosine analog agonist
+- **Kd/Ki**: not specified
+- **Clinical status**: Research tool compound
 
-## Uses in this Wiki
+## Use in Membrane Protein Work
 
-- [a2a-adenosine-receptor](/xray-mp-wiki/proteins/a2a-adenosine-receptor/) — Used in binding assays (agonist; binding abolished in S91K mutant)
-- [photoNECA](/xray-mp-wiki/reagents/ligands/photoNECA/) — Agonist moiety in photoNECA (blue) photoswitchable ligand
-- [5ht2b-receptor](/xray-mp-wiki/proteins/5ht2b-receptor/) — Referenced as adenosine agonist in cell-based assays
+### Agonist binding assay for A2AAR constructs
 
-## Related Adenosine Ligands
+NECA binding was tested via competitive radioligand binding experiments on Sf9 insect cell membranes. NECA bound to A2A-DC-bRIL with similar affinity as wild-type A2AAR, but could not bind to A2A-PSB1-bRIL (pKi < 4.0), demonstrating that the S91K mutation restrains key activation switches (W246, H250) and helix III movements required for agonist accommodation.
 
-- **Adenosine**: Endogenous agonist (no subtype selectivity)
-- **CGS21680**: A2A-selective agonist
-- **ZM241385**: A2A-selective antagonist
-- **Preladenant**: Highly selective A2A antagonist (tricyclic)
-- [selatogrel](/xray-mp-wiki/reagents/ligands/selatogrel/) — ADP antagonist (different receptor family)
+
+## Examples from This Wiki
+
+| Protein | Concentration | Context | Result |
+|---|---|---|---|
+| [A2A-PSB1-bRIL](/xray-mp-wiki/proteins/a2a-psb1-bril/) | not specified | Agonist binding assay to test S91K mutation effect | No agonist binding detected (pKi < 4.0), confirming inactive state stabilization |
+
+## Advantages and Disadvantages
+
+No advantages/disadvantages recorded.
+
+## Comparison with Related Reagents
+
+No comparison data available.
+
+## Cross-References
+
+- [A2A-PSB1-bRIL Adenosine A2A Receptor](/xray-mp-wiki/proteins/a2a-psb1-bril/) — Agonist used to test S91K mutation effect
+- [Preladenant](/xray-mp-wiki/reagents/ligands/preladenant/) — Related A2AAR ligand

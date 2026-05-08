@@ -1,38 +1,54 @@
 ---
-title: LMNG (Lauryl Maltose Neopentyl Glycol)
-created: 2026-04-26
-updated: 2026-04-27
+title: Lauryl Maltose Neopentyl Glycol (LMNG)
+created: 2026-05-05
+updated: 2026-05-05
 type: reagent
-tags: [detergent-nonionic, detergent-mild]
-sources: [doi/10.1002##1873-3468.14136]
-
 category: reagents
 layout: default
+tags: [detergent-nonionic, solubilization-detergent]
+sources: [doi/10.1002##1873-3468.14136]
 ---
 
+# Lauryl Maltose Neopentyl Glycol (LMNG)
+
+## Overview
+
+Lauryl maltose neopentyl glycol (LMNG) is a mild nonionic detergent with a 12-carbon alkyl chain, a maltose head group, and a neopentyl glycol spacer. It is a successor to the MNG (maltose neopentyl glycol) detergent series, offering improved stability for membrane protein solubilization and maintenance during purification. LMNG is particularly effective for maintaining GPCR stability in monodisperse form.
 
 
-# LMNG (Lauryl Maltose Neopentyl Glycol)
+## Properties
 
-## Chemical Properties
+- **Chemical name**: lauryl maltose neopentyl glycol
+- **Chemical formula**: C32H58O15
+- **Molecular weight**: 658.79 g/mol
+- **Class**: nonionic neopentyl glycol detergent
+- **CMC**: 0.013 mM
+- **Head group**: maltose (disaccharide)
+- **Tail length**: 12 carbons (lauryl)
 
-- **Class**: Non-ionic detergent (neopentyl glycol family)
-- **Structure**: Dual-headgroup detergent with two sugar moieties and two hydrocarbon chains
-- **Alkyl chain**: 12 carbons (lauryl)
+## Use in Membrane Protein Work
 
-## Uses in Membrane Protein Work
+### Membrane protein maintenance during purification
 
-LMNG is a milder detergent than standard maltosides, with lower CMC and better stabilization of membrane proteins. It is particularly useful for GPCR crystallization where it is often combined with CHS.
+LMNG is used at 0.03% (w/v) to maintain NtMATE2 in monodisperse form during TALON affinity chromatography wash and elution steps, replacing the initial solubilization detergent DDM. The lower CMC of LMNG compared to DDM provides better stability for downstream purification steps including SEC.
 
-## Proteins Using LMNG (from this wiki)
 
-- [etb-receptor](/xray-mp-wiki/proteins/etb-receptor/) — 0.1% LMNG in TALON wash buffer; 0.01% LMNG in elution and SEC buffers (combined with 0.001% CHS)
+## Examples from This Wiki
 
-- [nTMATE2-transporter](/xray-mp-wiki/proteins/nTMATE2-transporter/) — 0.03% in purification and SEC buffer, combined with 0.003% CHS
-  - Replaces DDM after [affinity-chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) capture for improved stability during size-exclusion chromatography
+| Protein | Concentration | Context | Result |
+|---|---|---|---|
+| [NtMATE2](/xray-mp-wiki/proteins/ntmate2/) | 0.03% | Maintenance detergent during TALON affinity chromatography wash and elution | NtMATE2 maintained in monodisperse form for SEC |
 
-## Related Detergents
+## Advantages and Disadvantages
 
-- [ddm](/xray-mp-wiki/reagents/detergents/ddm/) — standard non-ionic maltoside, used for initial solubilization
-- [og](/xray-mp-wiki/reagents/detergents/og/) — shorter chain alkyl glucoside
-- [ogng](/xray-mp-wiki/reagents/detergents/ogng/) — octyl [glucose](/xray-mp-wiki/reagents/ligands/glucose/) neopentyl glycol; octyl-chain analogue of LMNG
+No advantages/disadvantages recorded.
+
+## Comparison with Related Reagents
+
+No comparison data available.
+
+## Cross-References
+
+- [NtMATE2 Nicotine Transporter](/xray-mp-wiki/proteins/ntmate2/) — Maintenance detergent during purification
+- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Initial solubilization detergent, replaced by LMNG
+- [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — Related detergent family

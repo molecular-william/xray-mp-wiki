@@ -1,0 +1,31 @@
+title: Ser/Lys Catalytic Mechanism in SppA
+type: concept
+tags: [catalytic-mechanism, serine-protease, lysine-general-base, oligomeric-enzyme]
+sources: [doi/10.1016##j.jmb.2012.03.020]
+overview: >
+  The Ser/Lys catalytic mechanism is a proteolytic mechanism used by signal peptide
+  peptidase A (SppA) enzymes, where a serine residue acts as the nucleophile and a
+  lysine residue serves as the general base. In SppA, these residues are located in
+  separate domains of the protein and must come into proximity through oligomeric
+  assembly to form a functional active site. The mechanism is characteristic of the
+  S49 protease family in both Gram-positive and Gram-negative bacteria.
+category: catalytic-mechanism
+related-proteins: "SppA from Bacillus subtilis, SppA from Escherichia coli"
+biological_insights:
+  - title: Interprotomer catalytic dyad
+    content: >
+      In SppA_BS, the catalytic dyad is formed by Ser147 (nucleophile) from one
+      protomer and Lys199 (general base) from an adjacent protomer. These residues
+      are more than 29 A apart in the monomeric unit but come within hydrogen bonding
+      distance upon octamer assembly. Three neighboring protomers are required to
+      form one complete catalytic unit.
+  - title: Oxyanion hole and base coordination
+    content: >
+      The oxyanion hole is formed by the hydrogen bond donor NH groups of Gly114
+      and Gly148 from the same molecule contributing the nucleophilic serine. Ser169
+      from the same molecule helps coordinate and orient the lysine general base
+      epsilon-amino group, analogous to other Ser/Lys proteases.
+cross_references:
+  - path: /xray-mp-wiki/proteins/sppa-bs/
+    title: Signal Peptide Peptidase A from Bacillus subtilis (SppA_BS)
+    reason: Primary structure demonstrating the Ser/Lys catalytic mechanism

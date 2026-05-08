@@ -1,0 +1,27 @@
+title: "Sodium Channel Gating and Ion Selectivity"
+tags: [sodium-channel, vgic, gating, ion-selectivity, bacnav, voltage-gated]
+sources: [doi/10.1016##j.jmb.2013.10.010]
+overview: >
+  Voltage-gated sodium channels (NaV) belong to the voltage-gated ion channel (VGIC)
+  superfamily and share structural principles with voltage-gated calcium channels (CaV).
+  Bacterial NaV channels (BacNav) are modular, with pore-only constructs that can fold,
+  assemble, and form functional selective channels independently of voltage-sensing domains.
+  The NavAe1p structure reveals key gating elements: (1) S6 activation gate at the
+  intracellular pore constriction (Met241 equivalent), (2) a cytoplasmic tail with neck
+  and coiled-coil domains that stabilize the closed state, and (3) an outer ion binding
+  site at the selectivity filter. BacNav selectivity filters possess multiple ion binding
+  sites (inner and outer), supporting multi-ion pore models shared with eukaryotic NaV
+  and CaV channels.
+metadata:
+  channel_family: "Voltage-gated ion channel (VGIC) superfamily"
+  bacnav_type: "Homomeric tetramer pore-only construct"
+  eukaryotic_relationship: "Most closely related to NaV and CaV channels"
+  gating_mechanism: "Radial expansion of S6 gate + neck order-to-disorder transition"
+  selectivity_filter: "DEKA motif in eukaryotic NaV; conserved glutamate at position 0, serine at +1"
+cross_references:
+  - path: /xray-mp-wiki/proteins/navae1p-sodium-channel/
+    title: NavAe1p Prokaryotic Sodium Channel Pore
+    reason: Primary structural study of BacNav pore domain with cytoplasmic tail
+  - path: /xray-mp-wiki/proteins/kirbac-potassium-channels/
+    title: KirBac Potassium Channels
+    reason: Related prokaryotic ion channel family (KirBac1.1, KirBac3.1)

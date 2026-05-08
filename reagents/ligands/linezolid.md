@@ -1,51 +1,52 @@
 ---
 title: Linezolid
-created: 2026-04-27
-updated: 2026-04-27
+created: 2026-05-05
+updated: 2026-05-05
 type: reagent
-tags: [additive-ligand]
-sources: [doi/10.1007##s10969-013-9154-x]
-
-
 category: reagents
 layout: default
+tags: []
+sources: [doi/10.1007##s10969-013-9154-x]
 ---
-
-
-
 
 # Linezolid
 
-## Chemical Properties
+## Overview
 
-- **Class**: Oxazolidinone antibiotic
-- **IUPAC name**: (S)-N-{3-[3-fluoro-4-(morpholin-4-yl)phenyl]-2-oxo-1,3-oxazolidin-5-yl)methyl)acetamide
-- **Molecular weight**: 337.34 Da
-- **Structure**: Contains three aromatic/heterocyclic rings plus an acetamide tail
+Linezolid ((S)-N-{3-[3-fluoro-4-(morpholin-4-yl)phenyl]-2-oxo-1,3-oxazolidin-5-yl}methyl)acetamide) is an oxazolidinone-type antibacterial agent approved by the FDA for treating serious infections caused by Gram-positive bacteria resistant to other antibiotics. It inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit. Linezolid is not susceptible to the same resistance mechanisms as naturally occurring antibiotics and has been called a "reserve antibiotic" for intractable infections. It is extruded by RND-type efflux pumps in Gram-negative bacteria, explaining its limited activity against this group.
 
-## Mechanism of Action
 
-Linezolid inhibits bacterial protein synthesis by specifically binding to the 50S ribosomal subunit. It was the first FDA-approved oxazolidinone antibiotic, used as a "reserve antibiotic" for serious Gram-positive infections resistant to other antibiotics. It has no clinically significant effect on most Gram-negative bacteria, partly due to low intracellular concentration caused by efflux.
+## Properties
 
-## Binding to AcrB
 
-Linezolid binds to the AcrB multidrug efflux pump at the A385/F386 loop in the central cavity of each protomer in the symmetric trimer. The binding interface buries approximately 140 Å² of surface. The three rings of Linezolid lie approximately parallel to the F386 binding loop, dominated by hydrophobic stacking interactions. The acetamide tail extends outward and does not participate in binding.
+## Use in Membrane Protein Work
 
-This binding site is shared with ethidium, nafcillin, and ampicillin — drugs previously shown to bind to the same symmetric AcrB location. The binding of Linezolid to AcrB provides direct structural evidence that this antibiotic is a substrate of RND-type efflux pumps in Gram-negative bacteria.
+No specific use cases documented.
+## Examples from This Wiki
 
-## Crystallization Use
+| Protein | Concentration | Context | Result |
+|---|---|---|---|
+| /xray-mp-wiki/proteins/acrB/ | 6 mM (soaking) | Co-crystallized with AcrB by soaking into pre-formed apo-crystals | Bound to A385/F386 loop of each protomer in the symmetric trimer |
 
-- **Soaking concentration**: 6 mM Linezolid added to cryosolvent
-- **Stock solution**: 30 mM in water
-- **Soaking time**: 10 min at 21 °C before flash cooling
+## Binding Mode
 
-## Related Antibiotics
+### Binding to AcrB (Acriflavine resistance protein B)
 
-- **Ethidium**: Binds same AcrB site; used as a probe for efflux activity
-- **Nafcillin**: Penicillin-class antibiotic extruded by AcrB
-- **Ampicillin**: Beta-lactam antibiotic extruded by AcrB
+Three rings of Linezolid lie approximately parallel to the F386 binding loop, allowing maximum hydrophobic contact. Binding interface buries approximately 140 A^2 of surface. Binding is dominated by hydrophobic stacking. Several other drugs including ethidium, nafcillin, and ampicillin also bind to this same location on symmetric AcrB trimers.
+
+- **Pocket volume**: 140 A^2
+- **Key residues**: A385, F386
+
+## Advantages and Disadvantages
+
+No advantages/disadvantages recorded.
+
+## Comparison with Related Reagents
+
+No comparison data available.
 
 ## Cross-References
 
-- [acrB](/xray-mp-wiki/proteins/acrB/) — AcrB multidrug efflux pump; Linezolid binds at symmetric A385/F386 loop
-- [mexb](/xray-mp-wiki/proteins/mexb/) — Another RND-type multidrug efflux pump (MexB from P. aeruginosa)
+- [AcrB Efflux Pump](/xray-mp-wiki/proteins/acrB/) — Crystal structure determined with Linezolid bound (PDB 4K7Q)
+- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used in AcrB purification for structural studies
+- [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) — Crystallization precipitant used in AcrB-Linezolid co-crystallization

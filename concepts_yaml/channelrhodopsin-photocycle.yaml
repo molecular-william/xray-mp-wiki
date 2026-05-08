@@ -1,0 +1,19 @@
+title: Channelrhodopsin Photocycle
+type: concept
+tags: [concept-light-gated-ion-channel, concept-membrane-protein, optogenetics]
+sources: [doi/10.7554##eLife.62389]
+overview: >
+  The channelrhodopsin photocycle is a sequence of light-induced conformational
+  and protonation states that channelrhodopsins pass through upon illumination.
+  Light absorption triggers all-trans to 13-cis isomerization of the retinal
+  chromophore, initiating a cascade of structural changes that lead to ion
+  pore opening and cation conductance. Key intermediates include P1(520) with
+  isomerized retinal, P2(390) with deprotonated Schiff base, and P3(520)
+  with reprotonated Schiff base. The DC-pair (Asp-Cys) in the retinal
+  binding pocket is critical for photocycle transitions and ion conductance.
+category: light-gated-ion-channel
+related-proteins: "Channelrhodopsin-2 (CrChR2), C1C2 chimera, ChR1"
+cross_references:
+  - path: /xray-mp-wiki/proteins/channelrhodopsin-c1c2/
+    title: Channelrhodopsin C1C2
+    reason: Chimeric channelrhodopsin with well-characterized photocycle
