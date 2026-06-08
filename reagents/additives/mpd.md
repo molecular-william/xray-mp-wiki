@@ -1,12 +1,13 @@
 ---
 title: 2-Methyl-2,4-pentanediol (MPD)
-created: 2026-05-07
-updated: 2026-05-07
+created: 2026-06-05
+updated: 2026-06-05
 type: reagent
 category: reagents
 layout: default
-tags: [additive-stabilizer, crystallization-precipitant, cryoprotectant]
-sources: [doi/10.1016##j.jmb.2012.03.020]
+tags: [additive-stabilizer, subdirectory-additives]
+sources: [doi/10.1016##j.jsbmb.2022.106228, doi/10.1016##j.jmb.2012.03.020, doi/10.1038##NATURE12179, doi/10.1038##nature11900, doi/10.1038##ncomms9004]
+verified: false
 ---
 
 # 2-Methyl-2,4-pentanediol (MPD)
@@ -49,3 +50,5 @@ No comparison data available.
 ## Cross-References
 
 - [Signal Peptide Peptidase A from Bacillus subtilis (SppA_BS)](/xray-mp-wiki/proteins/sppa-bs/) — Crystallization precipitant and cryoprotectant
+- [Diacylglycerol Kinase (DgkA)](/xray-mp-wiki/proteins/diacylglycerol-kinase/) — Crystallization precipitant component
+- [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase 1a)](/xray-mp-wiki/proteins/serca1a/) — Crystallization additive at 6% (w/v) in hanging-drop vapor diffusion for SERCA-SLN complex

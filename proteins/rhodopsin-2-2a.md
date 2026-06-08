@@ -1,26 +1,27 @@
 ---
 title: Rhodopsin (2.2 A Resolution, 1U19)
-created: 2026-05-07
-updated: 2026-05-07
+created: 2026-05-26
+updated: 2026-05-26
 type: protein
 category: proteins
 layout: default
-tags: [gpcr, membrane-protein, xray-crystallography, visual-pigment, rhodopsin]
+tags: [gpcr, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.jmb.2004.07.044]
+verified: false
 ---
 
 # Rhodopsin (2.2 A Resolution, 1U19)
 
 ## Overview
 
-High-resolution 2.2 A crystal structure of bovine rhodopsin in the dark state (PDB 1U19). This structure completes the polypeptide chain including the cytoplasmic surface region for the first time. The retinal chromophore shows significant negative pre-twist of the C11-C12 double bond and a 6s-cis beta-ionone ring. Crystallized in heptylthioglucoside micelles with ammonium sulfate precipitant.
+High-resolution 2.2 A crystal structure of  in the dark state (PDB 1U19). This structure completes the polypeptide chain including the cytoplasmic surface region for the first time. The retinal chromophore shows significant negative pre-twist of the C11-C12 double bond and a 6s-cis beta-ionone ring. Crystallized in [heptylthioglucoside(/xray-mp-wiki/reagents/detergents/heptylthioglucoside/) micelles with [ammonium sulfate](/xray-mp-wiki/reagents/additives/ammonium-sulfate/) precipitant.
 
 
 ## Structure Determination
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.jmb.2004.07.044 | 1U19 | 2.2 A | P4(1) | Native bovine rhodopsin (complete sequence) | 11-cis-retinal (Schiff base linked to Lys296) |
+| doi/10.1016##j.jmb.2004.07.044 | 1U19 | 2.2 A | P4(1) | Native [bovine rhodopsin](/xray-mp-wiki/proteins/bovine-rhodopsin/) (complete sequence) | [11-cis-retinal](/xray-mp-wiki/reagents/ligands/11-cis-retinal/) (Schiff base linked to Lys296) |
 
 ## Expression and Purification
 
@@ -29,12 +30,13 @@ High-resolution 2.2 A crystal structure of bovine rhodopsin in the dark state (P
 
 ### Purification Workflow
 
+
 #### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Membrane isolation | Disc membrane preparation from bovine retina | -- | -- | Native rhodopsin from bovine retinal disc membranes |
-| Solubilization | Heptylthioglucoside (HpG) micelle solubilization | -- | Heptylthioglucoside micelles | Mixed micelle conditions replaced by single detergent heptylthioglucoside |
+| Solubilization | [Heptylthioglucoside](/xray-mp-wiki/reagents/detergents/heptylthioglucoside/) (HpG) micelle solubilization | -- | [Heptylthioglucoside](/xray-mp-wiki/reagents/detergents/heptylthioglucoside/) micelles | Mixed micelle conditions replaced by single detergent [heptylthioglucoside](/xray-mp-wiki/reagents/detergents/heptylthioglucoside/) |
 
 
 ## Crystallization
@@ -44,11 +46,11 @@ High-resolution 2.2 A crystal structure of bovine rhodopsin in the dark state (P
 | Parameter | Value |
 |---|---|
 | Method | Hanging-drop vapor diffusion |
-| Protein sample | Rhodopsin (6-8 mg/ml) in heptylthioglucoside micelles |
-| Reservoir | 20-30 mM Mes (pH 5.9-6.1), 2.5-3.0 M ammonium sulfate |
+| Protein sample | Rhodopsin (6-8 mg/ml) in [heptylthioglucoside](/xray-mp-wiki/reagents/detergents/heptylthioglucoside/) micelles |
+| Reservoir | 20-30 mM  (pH 5.9-6.1), 2.5-3.0 M [ammonium sulfate(/xray-mp-wiki/reagents/additives/ammonium-sulfate/) |
 | Mixing ratio | 4-10 ul sample mixed with crystallization solution |
 | Temperature | 10 C |
-| Cryoprotection | 15% trehalose, flash-frozen in liquid nitrogen |
+| Cryoprotection | 15% [trehalose](/xray-mp-wiki/reagents/additives/trehalose/), flash-frozen in liquid nitrogen |
 | Notes | New crystallization conditions reduced merohedral twinning probability from 5% to 50%. Space group P4(1), unit cell slightly longer along c axis compared to 2.6A structure. Contains 4 asymmetric units (2 rhodopsin dimers). |
 
 

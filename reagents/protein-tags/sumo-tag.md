@@ -1,12 +1,13 @@
 ---
 title: SUMO Tag (Small Ubiquitin-like Modifier)
-created: 2026-05-07
-updated: 2026-05-07
+created: 2026-06-02
+updated: 2026-06-02
 type: reagent
 category: reagents
 layout: default
-tags: [protein-tag, solubility-enhancement, xray-crystallography]
-sources: [doi/10.7554##eLife.60724]
+tags: [protein-tag, subdirectory-protein-tags]
+sources: [doi/10.7554##eLife.60724, doi/10.1038##nature08558]
+verified: false
 ---
 
 # SUMO Tag (Small Ubiquitin-like Modifier)
@@ -20,8 +21,6 @@ SUMO (Small Ubiquitin-like Modifier) is a 11 kDa protein tag used to enhance sol
 
 - **Chemical name**: Small Ubiquitin-like Modifier (SUMO)
 - **Class**: solubility-enhancement fusion tag
-- **Source organism**: engineered from eukaryotic SUMO
-- **Size**: ~11 kDa
 
 ## Use in Membrane Protein Work
 
@@ -46,6 +45,8 @@ SUMO fusion can promote correct folding of target domains, facilitating crystall
 |---|---|---|---|
 | [Tlg2 Habc domain](/xray-mp-wiki/proteins/tlg2/) | not specified | SUMO-Tlg2(79-200) used to express and purify the Habc domain of C. thermophilum Tlg2. The SUMO tag was cleaved by Ulp1 protease overnight at 4C
  | Habc domain purified and shown to sediment as a monomer by analytical ultracentrifugation |
+| [Urea Transporter from Desulfovibrio vulgaris (dvUT)](/xray-mp-wiki/proteins/urea-transporter-dvut/) | not specified | N-terminal His6-SUMO-dvUT fusion expressed in E. coli BL21(DE3) via pET-SUMO plasmid. The His6-SUMO tag was cleaved with SUMO protease before gel filtration purification.
+ | Cleaved dvUT purified and crystallized at 2.3 A resolution |
 
 ## Advantages and Disadvantages
 

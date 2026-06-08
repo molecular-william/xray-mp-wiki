@@ -1,32 +1,13 @@
+---
 title: Three-Dimensional Domain Swapping
 type: concept
-tags: [protein-folding, oligomerization, domain-swapping, conformational-change]
-sources: [doi/10.1016##j.jmb.2013.01.019]
-overview: >
-  Three-dimensional domain swapping is a mechanism by which identical protein
-  monomers exchange structural elements (typically a domain or secondary structure)
-  to form oligomeric assemblies. The process requires an energy barrier between
-  closed (native) and open (domain-exchanged) conformations. Domain-swapped
-  oligomers can be physiologically relevant and are associated with protein
-  misfolding diseases in some cases.
-category: protein-folding
-related-proteins: "ecGlpG cytoplasmic domain, Aminoacylase 1, Prion protein, Transthyretin"
-biological_insights:
-  - title: Hinge-loop mediated domain swapping
-    content: >
-      Domain swapping in ecGlpG-cyto is mediated by a hinge region (residues 32-34)
-      that connects the N-terminal and C-terminal regions of the protein. The hinge
-      allows the N-terminal domain to be exchanged between monomers. Mutation of
-      Asn33 to proline in the hinge loop (N33P) increases dimer formation to 44%,
-      demonstrating that hinge conformation controls the swapping equilibrium.
-  - title: Temperature-dependent equilibrium
-    content: >
-      Domain swapping in ecGlpG-cyto is a slow process at 4 C (5% dimer) but
-      shifts toward dimer formation at higher temperatures (27% after 2 h at
-      55 C, 52% after 14 h). The full-length ecGlpG contains 20% cytoplasmic
-      domain dimer, suggesting domain swapping occurs under physiological
-      conditions.
+tags: [concept-construct-design, subdirectory-concepts]
+sources:
+  - doi/10.1016##j.jmb.2013.01.019
 cross_references:
   - path: /xray-mp-wiki/proteins/ecglpg-cyto/
-    title: Cytoplasmic Domain of Escherichia coli Rhomboid Protease GlpG (ecGlpG-cyto)
-    reason: Structure demonstrating domain-swapped dimer formation
+    title: EcGlpg Cyto
+    reason: Domain-swapped rhomboid protease structure
+cross_refs_text: '- [EcGlpg Cyto](/xray-mp-wiki/proteins/ecglpg-cyto/) — Domain-swapped rhomboid protease structure'
+details: 'Three-dimensional domain swapping occurs when a protein unfolds partially and exchanges a domain with another molecule, forming oligomers. This mechanism can lead to functional oligomers or pathological aggregates. It has been observed in many proteins including enzymes and structural proteins.'
+overview: 'Three-dimensional domain swapping occurs when a protein unfolds partially and exchanges a domain with another molecule, forming oligomers. This mechanism can lead to functional oligomers or pathological aggregates. It has been observed in many proteins including enzymes and structural proteins.'

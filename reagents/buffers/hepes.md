@@ -1,45 +1,39 @@
 ---
-title: HEPES (4-(2-Hydroxyethyl)-1-piperazineethanesulfonic Acid)
-created: 2026-05-07
-updated: 2026-05-07
+title: HEPES Buffer
+created: 2026-06-05
+updated: 2026-06-05
 type: reagent
 category: reagents
 layout: default
-tags: [buffer-hepes, buffer-zwitterionic, buffer-good]
-sources: [doi/10.1016##J.JMB.2007.03.007]
+tags: [buffer-hepes, subdirectory-buffers]
+sources: [doi/10.1038##ncomms1693, doi/10.1038##ncomms5355, doi/10.1038##ncomms7874, doi/10.1038##ncomms8895, doi/10.1038##ncomms8995, doi/10.1038##nsmb.1531, doi/10.1038##nsmb.1788]
+verified: false
 ---
 
-# HEPES (4-(2-Hydroxyethyl)-1-piperazineethanesulfonic Acid)
+# HEPES Buffer
 
 ## Overview
 
-HEPES (4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid) is a zwitterionic Good's buffer
-widely used in membrane protein biochemistry and crystallization. It has a pKa of 7.48 at
-20 deg.C and maintains buffering capacity in the pH range 6.8-8.2. HEPES is commonly used
-in crystallization screens for membrane proteins and in purification buffers. It is
-particularly favored for GPCR work due to its compatibility with detergents and minimal
-interference with protein stability.
-
+4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid (HEPES) is a commonly used zwitterionic buffer in biochemical and structural biology applications. It maintains pH in the physiological range and is compatible with protein crystallization and purification.
 
 ## Properties
 
-- **Chemical name**: 4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid
-- **Class**: zwitterionic Good's buffer
 
 ## Use in Membrane Protein Work
 
-### GPCR crystallization
+### Crystallization buffer for Thermus thermophilus A-ATPase peripheral stalk
 
-Used as a key component in crystallization reservoir buffers for rhodopsin and other GPCRs.
-In the N2C/D282C rhodopsin crystallization, 0.1 M HEPES pH 7.5 was used in the mother liquor
-with 1.2-1.7 M lithium sulfate as precipitant, reproducibly yielding crystals within two weeks.
+Used at 100 mM, pH 7.5 in hanging drop vapor diffusion crystallization of the EG peripheral stalk complex from Thermus thermophilus A-ATPase. Combined with 200 mM calcium acetate and 40% (v/v) PEG 400, yielding small needle crystals in space group P2_1 2_1 2 at 20 degrees Celsius.
 
 
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Rhodopsin N2C/D282C Mutant | 0.1 M | Crystallization reservoir buffer at pH 7.5 with 1.2-1.7 M lithium sulfate | Reproducible needle-like crystals within two weeks |
+| /xray-mp-wiki/proteins/thermus-thermophilus-a-atpase-peripheral-stalk/ | 100 mM | Crystallization buffer, pH 7.5 | Small needle crystals in space group P2_1 2_1 2 |
+| [Human Smoothened Receptor](/xray-mp-wiki/proteins/smoothened/) | 0.1 M, pH 5.5-5.8 | Crystallization buffer for sitting drop vapor diffusion of SMO-ligand complexes (SMO-SANT1, SMO-Anta XV, SMO-SAG1.5) | Three SMO crystal structures solved at 2.6-2.8 A resolution (PDB 4N4W, 4QIM, 4QIN) |
+| [Human Smoothened Receptor](/xray-mp-wiki/proteins/smoothened/) | 50 mM, pH 7.5 | Purification buffer for BRIL-deltaCRD-SMO-deltaC from Sf9 cells | Used in membrane preparation and solubilization buffers |
+| /xray-mp-wiki/proteins/nak-channel/ | 10 mM, pH 7.4 | Reconstitution buffer for 86Rb flux assay; also used in gel filtration columns | Buffer component for NaK channel reconstitution into POPE/POPG liposomes |
 
 ## Advantages and Disadvantages
 
@@ -50,5 +44,3 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
-
-- [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Another widely used buffer in membrane protein work; similar zwitterionic category

@@ -5,9 +5,10 @@ updated: 2026-05-07
 type: reagent
 category: reagents
 layout: default
-tags: [lipid, carotenoid, membrane-lipid, retinal-protein]
+tags: [lipid, lipid-diacyl]
 sources: [doi/10.1016##j.jmb.2007.11.039]
 ---
+
 
 # Bacterioruberin
 

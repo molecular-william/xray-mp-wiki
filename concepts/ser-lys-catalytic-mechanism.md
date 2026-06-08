@@ -1,22 +1,22 @@
 ---
-title: Ser/Lys Catalytic Mechanism in SppA
-created: 2026-05-07
-updated: 2026-05-07
+title: Ser/Lys Catalytic Mechanism
+created: 2026-05-27
+updated: 2026-05-27
 type: concept
 category: concepts
 layout: default
-tags: [catalytic-mechanism, serine-protease, lysine-general-base, oligomeric-enzyme]
-sources: [doi/10.1016##j.jmb.2012.03.020]
+tags: [concept-transport-mechanism, subdirectory-concepts]
+sources: [doi/10.1016##j.jmb.2012.03.020, doi/10.1016##j.jmb.2007.11.080]
+verified: false
 ---
 
-# Ser/Lys Catalytic Mechanism in SppA
+# Ser/Lys Catalytic Mechanism
 
 ## Overview
-The Ser/Lys catalytic mechanism is a proteolytic mechanism used by signal peptide peptidase A (SppA) enzymes, where a serine residue acts as the nucleophile and a lysine residue serves as the general base. In SppA, these residues are located in separate domains of the protein and must come into proximity through oligomeric assembly to form a functional active site. The mechanism is characteristic of the S49 protease family in both Gram-positive and Gram-negative bacteria.
-
+The ser-lys catalytic mechanism is found in rhomboid proteases and signal peptide peptidases. A serine residue acts as the nucleophile while a lysine residue serves as a general base. This mechanism allows proteolysis within hydrophobic membrane environments. In signal peptide peptidases, the catalytic dyad is formed at the interface of tandemly repeated domains.
 
 ## Mechanism/Details
-
+The ser-lys catalytic mechanism is found in rhomboid proteases and signal peptide peptidases. A serine residue acts as the nucleophile while a lysine residue serves as a general base. In rhomboid proteases, both residues are contained within a single domain. In signal peptide peptidases like SppA, the catalytic dyad is formed at the interface of tandemly repeated domains, with the serine nucleophile from the C-terminal half and lysine general base from the N-terminal half coming into proximity only when the tandem repeat folds together. This mechanism allows proteolysis within hydrophobic membrane environments.
 
 ## Examples in Membrane Protein Work
 
@@ -25,4 +25,5 @@ The Ser/Lys catalytic mechanism is a proteolytic mechanism used by signal peptid
 
 
 ## Cross-References
-
+- [Glpg](/xray-mp-wiki/proteins/glpg/) — Rhomboid protease with ser-lys catalytic dyad
+- [Signal Peptide Peptidase A from Escherichia coli (SppA_EC)](/xray-mp-wiki/proteins/sppa-ec/) — First crystal structure of a Ser/Lys protease; tetrameric bowl-shaped assembly with catalytic dyad formed at domain interface

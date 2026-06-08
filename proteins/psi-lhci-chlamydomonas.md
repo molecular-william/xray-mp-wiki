@@ -1,16 +1,16 @@
 ---
-title: PSI-LHCI from Chlamydomonas reinhardtii
-created: 2026-05-07
-updated: 2026-05-07
+title: 
+created: 2026-05-26
+updated: 2026-05-26
 type: protein
 category: proteins
 layout: default
-tags: [membrane-protein, xray-crystallography, cryo-em, photosynthesis]
+tags: [enzyme, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.bbabio.2023.148986]
-verified: true
+verified: false
 ---
 
-# PSI-LHCI from Chlamydomonas reinhardtii
+# 
 
 ## Overview
 
@@ -36,22 +36,34 @@ conformational change that activates the complex for electron transfer.
 - **Expression system**: Chlamydomonas reinhardtii (green alga)
 - **Construct**: PSI-8LHCI supercomplex purified from thylakoid membranes
 
-No purification described.
+### Purification Workflow
+
+
+#### Steps
+
+| Step | Method | Resin / Column | Buffer + Detergent | Notes |
+|---|---|---|---|---|
+| Thylakoid membrane isolation | Thylakoid membrane isolation | -- | Slightly acidic buffer, pH 6.5, low ionic strength + -- | PSI-LHCI supercomplexes purified from thylakoid membranes of C. reinhardtii. Mild, column-free isolation. |
+| Membrane solubilization | Membrane solubilization | -- | pH 6.5 buffer + n-dodecyl-beta-D-maltopyranoside (M(/xray-mp-wiki/reagents/detergents/ddm/)) | Solubilization by M(/xray-mp-wiki/reagents/detergents/ddm/) from thylakoid membranes. |
+| Sucrose density gradient ultracentrifugation | Sucrose density gradient ultracentrifugation | Sucrose gradient | pH 6.5 buffer + M(/xray-mp-wiki/reagents/detergents/ddm/) | Purification by sucrose density gradient ultracentrifugation yielded PSI-8LHCI supercomplexes. |
+| Detergent exchange | Detergent exchange (cryo-EM sample) | Sucrose density gradient | pH 6.5 buffer + [glyco-diosgenin](/xray-mp-wiki/reagents/detergents/glyco-diosgenin/) (GDN) | For cryo-EM sample preparation, M(/xray-mp-wiki/reagents/detergents/ddm/) exchanged to GDN by second sucrose density gradient. |
+
 
 ## Crystallization
 
-### doi/10.1016##j.bbabio.2023.148986
+### 10.1016##j.bbabio.2023.148986
 
 | Parameter | Value |
 |---|---|
-| Method | Hanging drop vapor diffusion |
-| Protein sample | PSI-8LHCI purified by sucrose density gradient |
-| Reservoir | 50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/)-HCl (pH 7.0), 50 mM [Li2SO4](/xray-mp-wiki/reagents/additives/lithium-sulfate/), 4.5-7.0% [PEG 6000](/xray-mp-wiki/reagents/additives/peg/) |
-| Mixing ratio | 1:1 (protein sample to reservoir) |
-| Temperature | 277 K |
-| Growth time | 3-4 weeks |
-| Cryoprotection | 17.5% [PEG 400](/xray-mp-wiki/reagents/additives/peg/), 17.5% TEG, 8% [PEG 6000](/xray-mp-wiki/reagents/additives/peg/), 50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/)-HCl pH 7.0, 100 mM [Li2SO4](/xray-mp-wiki/reagents/additives/lithium-sulfate/), 0.05% beta-[DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
-| Notes | Initial crystals appeared in 3 days, grew to 0.3 mm in longest dimension. Data collected at SPring-8 BL44XU. |
+| Method | Vapor diffusion (sitting drop) |
+| Temperature | Room temperature |
+| Notes | Initial crystals appeared after 3 days, grew to 0.3 mm over 3-4 weeks. One PSI-LHCI molecule per asymmetric unit. |
+
+| Parameter | Value |
+|---|---|
+| Method | Cryoprotection soaking |
+| Temperature | 277 K (soaking), 100 K (data collection) |
+| Notes | Cryoprotected crystals diffracted to 3.2 A. Space group P21, a=94.6 A, b=98.1 A, c=210.1 A, gamma=94.6 deg. PDB TBD. Data at SPring-8 BL44XU. |
 
 
 ## Biological / Functional Insights
@@ -83,5 +95,8 @@ harvesting complexes and the PSI core.
 
 ## Cross-References
 
+- [Lithium Sulfate](/xray-mp-wiki/reagents/additives/lithium-sulfate/) — Crystallization buffer component (50 mM Li2SO4)
+- [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) — Crystallization precipitant (PEG 400, PEG 6000)
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for solubilization and cryoprotection
+- [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/) — Crystallization buffer (50 mM Tris-HCl pH 7.0)
 - [Membrane Protein Structural Biology Concepts](/xray-mp-wiki/concepts/membrane-mimetics/) — Photosystem is a large multisubunit membrane protein complex

@@ -1,12 +1,13 @@
 ---
 title: MOPS (3-(N-Morpholino)propanesulfonic Acid)
-created: 2026-05-07
-updated: 2026-05-07
+created: 2026-06-03
+updated: 2026-06-03
 type: reagent
 category: reagents
 layout: default
-tags: [buffer-mops, buffer-zwitterionic, buffer-good]
-sources: [doi/10.1016##j.jmb.2012.05.026, doi/10.1016##j.jmb.2013.04.022]
+tags: [buffer-mops, subdirectory-buffers]
+sources: [doi/10.1016##j.jmb.2012.05.026, doi/10.1016##j.jmb.2013.04.022, doi/10.1016##j.str.2014.06.008, doi/10.1038##SJ.EMBOJ.7600585, doi/10.1038##nature11900]
+verified: false
 ---
 
 # MOPS (3-(N-Morpholino)propanesulfonic Acid)
@@ -31,6 +32,11 @@ Used as a buffer component in crystallization screens for GPCRs. Commonly used a
 ### Ion channel crystallization
 
 Buffer component for crystallization of various ion channels, providing pH stability in the near-neutral range.
+
+
+### SERCA purification buffer
+
+MOPS-KOH pH 6.8 used as primary buffer for SERCA purification from rabbit sarcoplasmic reticulum membranes at 100 mM. Also used in initial membrane wash buffer.
 
 
 ## Examples from This Wiki

@@ -1,13 +1,14 @@
 ---
 title: si-Face Cleavage in Rhomboid Proteases
-created: 2026-05-07
-updated: 2026-05-07
+created: 2026-05-18
+updated: 2026-05-18
 type: concept
 category: concepts
 layout: default
-tags: [protease, catalysis, serine-protease, intramembrane-cleavage, stereochemistry]
+tags: [additive-stabilizer]
 sources: [doi/10.1016##j.jmb.2011.01.046]
 ---
+
 
 # si-Face Cleavage in Rhomboid Proteases
 
@@ -25,4 +26,6 @@ Rhomboid intramembrane proteases cleave transmembrane substrates on the si-face 
 
 
 ## Cross-References
-
+- [hiGlpG (Haemophilus influenzae Rhomboid Protease)](/xray-mp-wiki/proteins/hiGlpG/) — Primary structural evidence for si-face cleavage mechanism in rhomboids
+- [Rhomboid Protease Family](/xray-mp-wiki/concepts/rhomboid-protease/) — Rhomboids are the defining class of serine proteases with si-face cleavage
+- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/intramembrane-proteolysis/) — si-face cleavage is the mechanism by which rhomboids perform intramembrane proteolysis

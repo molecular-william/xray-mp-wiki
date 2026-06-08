@@ -1,19 +1,20 @@
 ---
-title: Glycine Buffer
-created: 2026-05-07
-updated: 2026-05-07
+title: Glycine
+created: 2026-06-03
+updated: 2026-06-03
 type: reagent
 category: reagents
 layout: default
-tags: [buffer-glycine, buffer, amino-acid-buffer]
-sources: []
+tags: [buffer-glycine, subdirectory-buffers]
+sources: [doi/10.1038##nature12648]
+verified: false
 ---
 
-# Glycine Buffer
+# Glycine
 
 ## Overview
 
-Glycine is a simple amino acid that can be used as a buffer in the alkaline pH range (pH 8.6–10.6). It is commonly used in protein crystallization and electrophoresis applications.
+Glycine is the simplest amino acid and is used as a buffer in protein crystallization. It is effective in the pH range of 2.3-3.6 (acidic) and 9.6-10.6 (basic). In membrane protein crystallization, glycine buffer at alkaline pH is commonly used as a crystallization reservoir component.
 
 
 ## Properties
@@ -24,7 +25,10 @@ Glycine is a simple amino acid that can be used as a buffer in the alkaline pH r
 No specific use cases documented.
 ## Examples from This Wiki
 
-No examples from this wiki.
+| Protein | Concentration | Context | Result |
+|---|---|---|---|
+| /xray-mp-wiki/proteins/leubat/ | 100 mM | Crystallization reservoir for Delta13 LeuBAT-antidepressant complexes | Used at pH 9.4 with 0.1 M Li2SO4 and 29-31% PEG400 for vapor diffusion crystallization |
+
 ## Advantages and Disadvantages
 
 No advantages/disadvantages recorded.

@@ -1,12 +1,13 @@
 ---
 title: Size-Exclusion Chromatography
+created: 2026-05-04
+updated: 2026-06-04
 type: method
 category: methods
 layout: default
-tags: [purification-size-exclusion, quality-assessment]
-created: 2026-05-04
-updated: 2026-05-04
-sources: [doi/10.1002##1873-3468.14136, doi/10.1002##anie.202115545, doi/10.1016##j.cell.2010.05.003, doi/10.1016##J.FEBSLET.2005.09.061]
+tags: [purification-size-exclusion, subdirectory-purification]
+sources: [doi/10.1002##1873-3468.14136, doi/10.1002##anie.202115545, doi/10.1016##j.cell.2010.05.003, doi/10.1016##J.FEBSLET.2005.09.061, doi/10.1016##j.str.2016.04.003, doi/10.1021##acs.jmedchem.5b00892, doi/10.1038##NATURE13293, doi/10.1038##nature12232, doi/10.1038##nature13306, doi/10.1038##ncomms3911]
+verified: false
 ---
 
 # Size-Exclusion Chromatography
@@ -19,5 +20,6 @@ Size-exclusion chromatography (SEC), also known as gel filtration, separates mol
 
 | Protein | Resolution | PDB | Notes |
 |---|---|---|---|
+| [Maltose Transporter (MalFGK2)](/xray-mp-wiki/proteins/maltose-transporter/) / EIIA^Glc | not applicable | not specified | MalFGK2 purified by SEC (Superdex 200) in 10 mM Tris-HCl pH 8.0, 200 mM NaCl, 0.012% DDM; EIIA^Glc purified by SEC (Superdex 75) in 10 mM Tris-HCl pH 8.0, 200 mM NaCl |
 | [KirBac Potassium Channels](/xray-mp-wiki/proteins/kirbac-potassium-channels/) | 2.6-4.2 A | 1P7B, 1XL4, 1XL6 | SEC after Ni2+-IMAC for His-tagged KirBac3.1; pooled/concentrated at ~8 mg/ml for crystallization |
 | [Bovine ADP/ATP Carrier](/xray-mp-wiki/proteins/bovine-adp-atp-carrier/) | 2.8 A | 2C3E | Gel filtration after HTP for native AAC-CATR; low salt favors dimeric form |

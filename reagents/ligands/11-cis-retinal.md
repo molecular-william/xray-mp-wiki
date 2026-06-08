@@ -1,12 +1,13 @@
 ---
 title: 11-cis-Retinal
-created: 2026-05-07
-updated: 2026-05-07
+created: 2026-06-02
+updated: 2026-06-02
 type: reagent
 category: reagents
 layout: default
-tags: [ligand, chromophore, visual-pigment, gpcr-ligand]
-sources: [doi/10.1016##J.JMB.2004.08.090, doi/10.1016##J.JMB.2007.03.007]
+tags: [ligand, subdirectory-ligands]
+sources: [doi/10.1016##J.JMB.2004.08.090, doi/10.1016##J.JMB.2007.03.007, doi/10.1038##nature06925]
+verified: false
 ---
 
 # 11-cis-Retinal
@@ -35,6 +36,7 @@ No specific use cases documented.
 |---|---|---|---|
 | Bovine Rhodopsin (Dark State) | 1:1 stoichiometry | Covalently bound to Lys296 via protonated Schiff base in the dark state | Inverse agonist effect keeps basal activity below that of ligand-free opsin |
 | Rhodopsin N2C/D282C Mutant | 1:1 stoichiometry | Covalently bound to Lys296; expressed in COS mammalian cells with exogenous 11-cis-retinal supplied before solubilization | Stabilized holoprotein form suitable for crystallization |
+| [Squid Rhodopsin](/xray-mp-wiki/proteins/squid-rhodopsin/) | 1:1 stoichiometry | Covalently bound to Lys305 via protonated Schiff base in the dark state; the retinal polyene chain takes a less distorted configuration in squid rhodopsin than in bovine rhodopsin | Native holoprotein from squid microvillar membranes; crystal structure solved at 2.5 A resolution (PDB 2BRS) |
 
 ## Binding Mode
 

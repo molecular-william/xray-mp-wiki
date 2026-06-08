@@ -1,7 +1,7 @@
 ---
 title: Preladenant
-created: 2026-05-05
-updated: 2026-05-05
+created: 2026-05-18
+updated: 2026-05-18
 type: reagent
 category: reagents
 layout: default

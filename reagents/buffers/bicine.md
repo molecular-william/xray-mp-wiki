@@ -1,12 +1,13 @@
 ---
 title: Bicine Buffer
-created: 2026-05-07
-updated: 2026-05-07
+created: 2026-05-29
+updated: 2026-05-29
 type: reagent
 category: reagents
 layout: default
-tags: [buffer-bicine, buffer-zwitterionic, buffer-good]
-sources: [doi/10.1016##j.jmb.2012.09.038]
+tags: [buffer-bicine, subdirectory-buffers]
+sources: [doi/10.1016##j.jmb.2012.09.038, doi/10.1038##NATURE09746]
+verified: false
 ---
 
 # Bicine Buffer
@@ -31,6 +32,11 @@ Used as a buffer component for crystallizing membrane proteins at pH 8.0-9.0. Pa
 ### Enzyme assays
 
 Used in enzyme activity assays for membrane proteins that function optimally at alkaline pH.
+
+
+### Beta1AR-M23 crystallization buffer
+
+Bicine at pH 9.0 (100 mM) was used as the crystallization buffer for turkey beta1-adrenergic receptor beta1AR-M23 in complex with salbutamol (sal109) and dobutamine (dob92). Crystallization was performed with 28% PEG 400 or 25% PEG 600 precipitant and 0.5% HEGA-10 detergent. CHS at 1.0 mg/ml was added as a lipid additive for receptor stabilization.
 
 
 ## Examples from This Wiki

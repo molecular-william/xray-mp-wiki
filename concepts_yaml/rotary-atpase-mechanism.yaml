@@ -1,25 +1,17 @@
-title: "Rotary ATPase Mechanism and Asymmetry"
-tags: [rotary-motor, torque-generation, conformational-change, v-atpase, f-atpase, a-atpase]
-sources: [doi/10.1016##j.jmb.2013.04.022]
-overview: >
-  The rotary ATPase mechanism involves conversion between chemical energy of ATP and ion
-  gradients through a rotary catalytic mechanism. V-type, F-type, and A-type ATPases share
-  a similar architecture with two rotational motors (A1/F1/V1 extrinsic motor and Ao/Fo/Vo
-  membrane motor) connected by central and peripheral stalks. The mechanism relies on
-  asymmetry at intersubunit interfaces, with conformational changes in catalytic subunits
-  coupled to rotation. In V1-ATPase from Thermus thermophilus, asymmetry is realized by
-  rigid-body rearrangements of A and B subunits rather than large interdomain movements,
-  contrasting with F1-ATPase behavior.
-metadata:
-  mechanism_type: "Rotary catalysis"
-  subunit_composition_v1: "A3B3DF (3 catalytic A, 3 non-catalytic B, 1 D, 1 F)"
-  subunit_composition_f1: "Alpha3Beta3Gamma (3 alpha, 3 catalytic beta, 1 gamma)"
-  rotation_direction_v1: "ATP hydrolysis-driven rotation of DF subcomplex"
-  rotation_direction_f1: "Gamma subunit rotation direction"
+---
+title: Rotary ATPase Mechanism
+type: concept
+tags: [concept-transport-mechanism, subdirectory-concepts]
+sources:
+  - doi/10.1038##370621a0
+  - doi/10.1016##j.jmb.2012.04.012
 cross_references:
   - path: /xray-mp-wiki/proteins/v1-atpase-t-thermophilus/
-    title: V1-ATPase from Thermus thermophilus
-    reason: Primary structural study of V1 subcomplex at 3.9 A resolution
-  - path: /xray-mp-wiki/proteins/ph-e-subunit-e/
-    title: Subunit E of Pyrococcus horikoshii OT3 A-ATP Synthase
-    reason: Related rotary ATPase complex from A-ATP synthase family
+    title: V1-ATPase T. thermophilus
+    reason: Rotary ATPase with detailed structural mechanism
+  - path: /xray-mp-wiki/proteins/bovine-f1-atpase/
+    title: Bovine Mitochondrial F1-ATPase
+    reason: First high-resolution structure supporting rotational catalysis in F-type ATPases
+cross_refs_text: '- [V1-ATPase T. thermophilus](/xray-mp-wiki/proteins/v1-atpase-t-thermophilus/) — Rotary ATPase with detailed structural mechanism\n- [Bovine Mitochondrial F1-ATPase](/xray-mp-wiki/proteins/bovine-f1-atpase/) — First high-resolution structure supporting rotational catalysis in F-type ATPases'
+details: 'Rotary ATPases (F-type, V-type, A-type) use a rotary catalytic mechanism to synthesize or hydrolyze ATP. The rotation is driven by proton or ion gradients across membranes. The mechanism involves conformational changes in the catalytic subunits that drive ATP synthesis or hydrolysis. The 1994 crystal structure of bovine F1-ATPase at 2.8 A resolution provided the first direct structural evidence for this mechanism, showing the three catalytic beta-subunits in different conformations and proposing rotation of the alpha3beta3 subassembly around the central gamma-subunit helix.'
+overview: 'Rotary ATPases (F-type, V-type, A-type) use a rotary catalytic mechanism to synthesize or hydrolyze ATP. The rotation is driven by proton or ion gradients across membranes. The mechanism involves conformational changes in the catalytic subunits that drive ATP synthesis or hydrolysis. The 1994 crystal structure of bovine F1-ATPase at 2.8 A resolution provided the first direct structural evidence for this mechanism, showing the three catalytic beta-subunits in different conformations and proposing rotation of the alpha3beta3 subassembly around the central gamma-subunit helix.'

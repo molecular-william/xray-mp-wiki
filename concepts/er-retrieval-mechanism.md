@@ -1,22 +1,22 @@
 ---
-title: ER Retrieval Mechanism (KDEL System)
-created: 2026-05-07
-updated: 2026-05-07
+title: ER Retrieval Mechanism (KDEL Receptor)
+created: 2026-05-26
+updated: 2026-05-26
 type: concept
 category: concepts
 layout: default
-tags: [concept-membrane-transport, concept-cell-biology, er-retrieval]
+tags: [concept-construct-design, subdirectory-concepts]
 sources: [doi/10.7554##eLife.68380]
+verified: false
 ---
 
-# ER Retrieval Mechanism (KDEL System)
+# ER Retrieval Mechanism (KDEL Receptor)
 
 ## Overview
-The ER retrieval system maintains the luminal composition of the endoplasmic reticulum by capturing escaped ER resident proteins from the Golgi apparatus. The archetypal system uses a seven-transmembrane KDEL receptor that recognizes C-terminal KDEL, HDEL, or RDEL retrieval signals on escaped cargo proteins. The receptor cycles between the ER and Golgi in a pH-dependent manner: at acidic pH in the Golgi, it captures retrieval signals and exposes a COPI binding motif for retrograde transport; at neutral pH in the ER, signal release triggers a conformational change that buries the COPI motif and exposes a COPII-binding ER exit signal for forward transport back to the Golgi.
-
+The ER retrieval mechanism involves KDEL receptors that bind to proteins with C-terminal KDEL sequences and return them to the ER from the Golgi apparatus. This mechanism maintains the residency of ER luminal proteins.
 
 ## Mechanism/Details
-
+The ER retrieval mechanism involves KDEL receptors that bind to proteins with C-terminal KDEL sequences and return them to the ER from the Golgi apparatus. This mechanism maintains the residency of ER luminal proteins.
 
 ## Examples in Membrane Protein Work
 
@@ -25,4 +25,4 @@ The ER retrieval system maintains the luminal composition of the endoplasmic ret
 
 
 ## Cross-References
-
+- [KDEL Receptor](/xray-mp-wiki/proteins/kdel-receptor/) — ER retrieval receptor with detailed mechanism

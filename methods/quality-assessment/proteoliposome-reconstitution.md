@@ -1,0 +1,944 @@
+---
+title: Proteoliposome Reconstitution
+created: 2026-05-29
+updated: 2026-05-29
+type: method
+category: methods
+layout: default
+tags: [quality-assessment, subdirectory-quality-assessment]
+sources: [doi/10.1038##EMBOJ.2012.157, doi/10.1038##nsmb.2417]
+verified: false
+---
+
+# Proteoliposome Reconstitution
+
+## Overview
+
+Proteoliposome reconstitution is a technique for incorporating purified membrane proteins into artificial lipid bilayers to restore their native transport or enzymatic function. The method involves rapid dilution of a protein-detergent mixture into lipid vesicles, allowing the protein to partition into the lipid bilayer as the detergent is removed.
+
+## Principle
+
+Purified membrane protein in detergent solution is mixed with pre-formed lipid vesicles
+(liposomes) or with a mixture of lipids and detergent. Upon rapid dilution below the
+critical micelle concentration (CMC) of the detergent, the detergent micelles dissolve
+and the lipid molecules spontaneously form vesicles. The membrane protein, which has
+affinity for the lipid bilayer, partitions into the forming vesicles. The resulting
+proteoliposomes contain reconstituted membrane proteins embedded in a functional lipid
+bilayer, enabling functional assays such as substrate transport, ion flux, and enzymatic
+activity measurements.
+
+## Protocol
+
+### Reagents and Materials
+
+- Purified membrane protein in detergent
+- E. coli lipids (acetone-ether washed)
+- Egg yolk L-alpha-phosphatidylcholine (Avanti Polar Lipids)
+- Detergent (e.g., DM, n-dodecyl-beta-D-maltoside)
+- Buffer (e.g., potassium phosphate)
+
+### Steps
+
+1. {'step': 'Protein buffer exchange', 'description': 'Exchange purified protein into a suitable buffer containing low detergent concentration using gel filtration (e.g., 10/300 Superdex S200 column). Example: 50 mM KPi, 150 mM KCl, 0.3% DM, pH 7.0.\n'}
+2. {'step': 'Liposome preparation', 'description': 'Prepare liposomes from a mixture of E. coli lipids and egg yolk L-alpha-phosphatidylcholine in a 3:1 (wt/wt) ratio. Lipids are typically acetone-ether washed to remove free fatty acids.\n'}
+3. {'step': 'Proteoliposome formation by rapid dilution', 'description': 'Mix protein-detergent solution with liposomes at a defined protein-to-lipid ratio (e.g., 1:40 wt/wt) and rapidly dilute into buffer (e.g., 50 mM potassium phosphate, pH 7.0) to form proteoliposomes. The rapid dilution below the detergent CMC allows the protein to partition into the lipid bilayer.\n'}
+4. {'step': 'Ultracentrifugation', 'description': 'Remove unincorporated protein and free detergent by ultracentrifugation (e.g., 130,000 g for 3 hours at 4°C). The proteoliposome pellet contains the reconstituted protein-lipid complexes.\n'}
+5. {'step': 'Resuspension and freeze-thaw cycling', 'description': 'Resuspend the proteoliposome pellet to the desired concentration (e.g., 4 mg/ml) in buffer and subject to multiple freeze-thaw cycles (e.g., 5 cycles) to homogenize vesicle size and improve reconstitution efficiency. Store at -80°C until use.\n'}
+
+### Typical Conditions
+
+- **protein_to_lipid_ratio**: 1:40 (wt/wt)
+- **temperature**: 4°C for ultracentrifugation
+- **notes**: Freeze-thaw cycles help homogenize vesicle size and improve protein incorporation efficiency. Proteoliposomes can be stored at -80°C for extended periods.
+
+
+
+## Advantages
+
+- -
+-  
+- R
+- e
+- s
+- t
+- o
+- r
+- e
+- s
+-  
+- n
+- a
+- t
+- i
+- v
+- e
+- -
+- l
+- i
+- k
+- e
+-  
+- f
+- u
+- n
+- c
+- t
+- i
+- o
+- n
+- a
+- l
+-  
+- a
+- c
+- t
+- i
+- v
+- i
+- t
+- y
+-  
+- o
+- f
+-  
+- m
+- e
+- m
+- b
+- r
+- a
+- n
+- e
+-  
+- p
+- r
+- o
+- t
+- e
+- i
+- n
+- s
+-  
+- i
+- n
+-  
+- a
+-  
+- c
+- o
+- n
+- t
+- r
+- o
+- l
+- l
+- e
+- d
+- 
+
+-  
+-  
+- l
+- i
+- p
+- i
+- d
+-  
+- e
+- n
+- v
+- i
+- r
+- o
+- n
+- m
+- e
+- n
+- t
+- 
+
+- -
+-  
+- A
+- l
+- l
+- o
+- w
+- s
+-  
+- q
+- u
+- a
+- n
+- t
+- i
+- t
+- a
+- t
+- i
+- v
+- e
+-  
+- m
+- e
+- a
+- s
+- u
+- r
+- e
+- m
+- e
+- n
+- t
+-  
+- o
+- f
+-  
+- t
+- r
+- a
+- n
+- s
+- p
+- o
+- r
+- t
+-  
+- k
+- i
+- n
+- e
+- t
+- i
+- c
+- s
+-  
+- (
+- K
+- m
+- ,
+-  
+- V
+- m
+- a
+- x
+- )
+-  
+- u
+- n
+- d
+- e
+- r
+-  
+- d
+- e
+- f
+- i
+- n
+- e
+- d
+- 
+
+-  
+-  
+- c
+- o
+- n
+- d
+- i
+- t
+- i
+- o
+- n
+- s
+- 
+
+- -
+-  
+- C
+- a
+- n
+-  
+- i
+- m
+- p
+- o
+- s
+- e
+-  
+- a
+- r
+- t
+- i
+- f
+- i
+- c
+- i
+- a
+- l
+-  
+- i
+- o
+- n
+-  
+- g
+- r
+- a
+- d
+- i
+- e
+- n
+- t
+- s
+-  
+- (
+- e
+- .
+- g
+- .
+- ,
+-  
+- p
+- r
+- o
+- t
+- o
+- n
+-  
+- m
+- o
+- t
+- i
+- v
+- e
+-  
+- f
+- o
+- r
+- c
+- e
+- ,
+-  
+- p
+- o
+- t
+- a
+- s
+- s
+- i
+- u
+- m
+- 
+
+-  
+-  
+- d
+- i
+- f
+- f
+- u
+- s
+- i
+- o
+- n
+-  
+- p
+- o
+- t
+- e
+- n
+- t
+- i
+- a
+- l
+- s
+- )
+-  
+- t
+- o
+-  
+- s
+- t
+- u
+- d
+- y
+-  
+- c
+- o
+- u
+- p
+- l
+- e
+- d
+-  
+- t
+- r
+- a
+- n
+- s
+- p
+- o
+- r
+- t
+-  
+- m
+- e
+- c
+- h
+- a
+- n
+- i
+- s
+- m
+- s
+- 
+
+- -
+-  
+- L
+- i
+- p
+- i
+- d
+-  
+- c
+- o
+- m
+- p
+- o
+- s
+- i
+- t
+- i
+- o
+- n
+-  
+- c
+- a
+- n
+-  
+- b
+- e
+-  
+- p
+- r
+- e
+- c
+- i
+- s
+- e
+- l
+- y
+-  
+- c
+- o
+- n
+- t
+- r
+- o
+- l
+- l
+- e
+- d
+-  
+- t
+- o
+-  
+- s
+- t
+- u
+- d
+- y
+-  
+- l
+- i
+- p
+- i
+- d
+- -
+- p
+- r
+- o
+- t
+- e
+- i
+- n
+- 
+
+-  
+-  
+- i
+- n
+- t
+- e
+- r
+- a
+- c
+- t
+- i
+- o
+- n
+- s
+- 
+
+- -
+-  
+- S
+- u
+- i
+- t
+- a
+- b
+- l
+- e
+-  
+- f
+- o
+- r
+-  
+- s
+- t
+- u
+- d
+- y
+- i
+- n
+- g
+-  
+- a
+-  
+- w
+- i
+- d
+- e
+-  
+- r
+- a
+- n
+- g
+- e
+-  
+- o
+- f
+-  
+- m
+- e
+- m
+- b
+- r
+- a
+- n
+- e
+-  
+- p
+- r
+- o
+- t
+- e
+- i
+- n
+-  
+- f
+- u
+- n
+- c
+- t
+- i
+- o
+- n
+- s
+-  
+- i
+- n
+- c
+- l
+- u
+- d
+- i
+- n
+- g
+- 
+
+-  
+-  
+- t
+- r
+- a
+- n
+- s
+- p
+- o
+- r
+- t
+- e
+- r
+- s
+- ,
+-  
+- c
+- h
+- a
+- n
+- n
+- e
+- l
+- s
+- ,
+-  
+- a
+- n
+- d
+-  
+- A
+- T
+- P
+- a
+- s
+- e
+- s
+- 
+
+
+## Disadvantages
+
+- -
+-  
+- L
+- o
+- w
+-  
+- r
+- e
+- c
+- o
+- n
+- s
+- t
+- i
+- t
+- u
+- t
+- i
+- o
+- n
+-  
+- e
+- f
+- f
+- i
+- c
+- i
+- e
+- n
+- c
+- y
+- ;
+-  
+- s
+- i
+- g
+- n
+- i
+- f
+- i
+- c
+- a
+- n
+- t
+-  
+- p
+- r
+- o
+- t
+- e
+- i
+- n
+-  
+- l
+- o
+- s
+- s
+-  
+- d
+- u
+- r
+- i
+- n
+- g
+-  
+- t
+- h
+- e
+-  
+- p
+- r
+- o
+- c
+- e
+- s
+- s
+- 
+
+- -
+-  
+- P
+- r
+- o
+- t
+- e
+- i
+- n
+-  
+- m
+- a
+- y
+-  
+- r
+- e
+- c
+- o
+- n
+- s
+- t
+- i
+- t
+- u
+- t
+- e
+-  
+- i
+- n
+-  
+- i
+- n
+- c
+- o
+- r
+- r
+- e
+- c
+- t
+-  
+- o
+- r
+- i
+- e
+- n
+- t
+- a
+- t
+- i
+- o
+- n
+- 
+
+- -
+-  
+- V
+- e
+- s
+- i
+- c
+- l
+- e
+-  
+- s
+- i
+- z
+- e
+-  
+- h
+- e
+- t
+- e
+- r
+- o
+- g
+- e
+- n
+- e
+- i
+- t
+- y
+-  
+- c
+- a
+- n
+-  
+- a
+- f
+- f
+- e
+- c
+- t
+-  
+- a
+- s
+- s
+- a
+- y
+-  
+- r
+- e
+- p
+- r
+- o
+- d
+- u
+- c
+- i
+- b
+- i
+- l
+- i
+- t
+- y
+- 
+
+- -
+-  
+- R
+- e
+- q
+- u
+- i
+- r
+- e
+- s
+-  
+- o
+- p
+- t
+- i
+- m
+- i
+- z
+- a
+- t
+- i
+- o
+- n
+-  
+- o
+- f
+-  
+- p
+- r
+- o
+- t
+- e
+- i
+- n
+- -
+- t
+- o
+- -
+- l
+- i
+- p
+- i
+- d
+-  
+- r
+- a
+- t
+- i
+- o
+-  
+- a
+- n
+- d
+-  
+- d
+- e
+- t
+- e
+- r
+- g
+- e
+- n
+- t
+-  
+- c
+- o
+- n
+- c
+- e
+- n
+- t
+- r
+- a
+- t
+- i
+- o
+- n
+- 
+
+- -
+-  
+- S
+- o
+- m
+- e
+-  
+- m
+- e
+- m
+- b
+- r
+- a
+- n
+- e
+-  
+- p
+- r
+- o
+- t
+- e
+- i
+- n
+- s
+-  
+- d
+- o
+-  
+- n
+- o
+- t
+-  
+- r
+- e
+- c
+- o
+- n
+- s
+- t
+- i
+- t
+- u
+- t
+- e
+-  
+- f
+- u
+- n
+- c
+- t
+- i
+- o
+- n
+- a
+- l
+- l
+- y
+- 
+
+
+## Related Methods
+
+- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Used for protein buffer exchange prior to reconstitution
+
+## Related Reagents
+
+- [Phosphatidylcholine](/xray-mp-wiki/reagents/lipids/phosphatidylcholine/) — Major lipid component of proteoliposome bilayers
+- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for membrane protein solubilization and reconstitution

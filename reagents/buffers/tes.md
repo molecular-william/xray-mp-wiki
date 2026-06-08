@@ -5,15 +5,17 @@ updated: 2026-05-07
 type: reagent
 category: reagents
 layout: default
-tags: [buffer-tes, buffer-zwitterionic, buffer-good]
+tags: [buffer-tes]
 sources: [doi/10.1016##j.jmb.2013.01.029]
 ---
+
+
 
 # TES Buffer (N-Tris(hydroxymethyl)methyl-2-aminoethanesulfonic acid)
 
 ## Overview
 
-TES (N-tris(hydroxymethyl)methyl-2-aminoethanesulfonic acid) is a zwitterionic Good's buffer used in membrane protein biochemistry. It has a pKa of 7.48 at 25 deg.C and maintains buffering capacity in the pH range 6.8-8.2. TES is particularly useful for crystallizing proteins that require near-neutral pH conditions. It is compatible with most detergents and is commonly used in buffers for membrane protein purification and crystallization.
+TES (N-tris(hydroxymethyl)methyl-2-aminoethanesulfonic acid) is a zwitterionic [Good's buffer](/xray-mp-wiki/concepts/membrane-mimetics/) used in membrane protein biochemistry. It has a pKa of 7.48 at 25 deg.C and maintains buffering capacity in the pH range 6.8-8.2. TES is particularly useful for crystallizing proteins that require near-neutral pH conditions. It is compatible with most detergents and is commonly used in buffers for membrane protein purification and crystallization. TES is chemically related to [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) and [MES](/xray-mp-wiki/reagents/buffers/mes/), sharing similar buffering characteristics.
 
 
 ## Properties

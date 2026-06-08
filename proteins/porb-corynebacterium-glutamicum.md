@@ -1,15 +1,16 @@
 ---
-title: Porin B (PorB) from Corynebacterium glutamicum
-created: 2026-05-07
-updated: 2026-05-07
+title: 
+created: 2026-05-26
+updated: 2026-05-26
 type: protein
 category: proteins
 layout: default
-tags: [channel, membrane-protein, xray-crystallography, porin, bacterial]
+tags: [porin, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##J.JMB.2008.04.017]
+verified: false
 ---
 
-# Porin B (PorB) from Corynebacterium glutamicum
+# 
 
 ## Overview
 
@@ -20,7 +21,7 @@ Porin B (PorB) is an alpha-helical porin from Corynebacterium glutamicum, a myco
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##J.JMB.2008.04.017 | not specified (deposited; multiple PDB codes for 4 crystal forms) | 1.8 A (Form I), 2.9 A (Form II), 3.2 A (Form III), 4.2 A (Form IV) | P41212 (I), P6522 (II), P43212 (III), P6422 (IV) | Mature PorB (99 residues, 10,638 Da); 70-residue core (residues 18-87) defined in all forms | 42 Zn2+ ion sites; platinum derivative; cacodylate |
+| doi/10.1016##J.JMB.2008.04.017 | not specified (deposited; multiple PDB codes for 4 crystal forms) | 1.8 A (Form I), 2.9 A (Form II), 3.2 A (Form III), 4.2 A (Form IV) | P41212 (I), P6522 (II), P43212 (III), P6422 (IV) | Mature PorB (99 residues, 10,638 Da); 70-residue core (residues 18-87) defined in all forms | 42 Zn2+ ion sites; platinum derivative; [cacodylate](/xray-mp-wiki/reagents/buffers/cacodylate/) |
 
 ## Expression and Purification
 
@@ -29,12 +30,13 @@ Porin B (PorB) is an alpha-helical porin from Corynebacterium glutamicum, a myco
 
 ### Purification Workflow
 
+
 #### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
-| GST affinity chromatography | GST affinity column (GE Healthcare) | Glutathione-Sepharose | Buffer A: 140 mM NaCl, 2.7 mM KCl, 10 mM Na2HPO4, 1.8 mM KH2PO4 pH 7.3, 0.1 mM PMSF, Benzonase | GST fusion protein expressed in E. coli; cleaved on-column with factor Xa (11 U per gram wet cells) in buffer B |
-| Size-exclusion chromatography | S75-26/60 SEC column (GE Healthcare) | Sephacryl S-75 | 150 mM NaCl, 50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/)-HCl pH 8.0 | Separated monomer (11 +/- 2 kDa, major peak) from dimer/trimer (29 +/- 3 kDa, minor peak); only monomer peak yielded analyzable crystals |
+| GST [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | GST affinity column (GE Healthcare) | Glutathione-Sepharose | Buffer A: 140 mM NaCl, 2.7 mM KCl, 10 mM Na2HPO4, 1.8 mM KH2PO4 pH 7.3, 0.1 mM [PMSF](/xray-mp-wiki/reagents/additives/pmsf/), Benzonase | GST fusion protein expressed in E. coli; cleaved on-column with factor Xa (11 U per gram wet cells) in buffer B |
+| [Size-exclusion chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | S75-26/60 SEC column (GE Healthcare) | Sephacryl S-75 | 150 mM NaCl, 50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/)-HCl pH 8.0 | Separated monomer (11 +/- 2 kDa, major peak) from dimer/trimer (29 +/- 3 kDa, minor peak); only monomer peak yielded analyzable crystals |
 | Concentration and dialysis | Vivaspin concentrator (MWCO 3000), dialysis against water (MWCO 3500) | -- | Concentrated to 1.0-3.5 mg/mL; dialyzed against water at 4 C | Total yield ~0.5 mg per liter culture; purification performed without detergent |
 
 
@@ -58,7 +60,7 @@ Porin B (PorB) is an alpha-helical porin from Corynebacterium glutamicum, a myco
 
 ### Pentameric channel model
 
-The native PorB channel is proposed as a C5-symmetric pentamer based on conductivity measurements (0.7 nS), anion selectivity, and crystal packing analysis. Contact type C from crystal forms (polar interior, nonpolar exterior) was expanded from C2 to C5 symmetry. The channel is ~40 A long, matching the mycolic acid layer thickness. Arg42 defines the channel constriction. The channel is inactivated by citrate (chelating divalent cations) and by EDTA (~35 mM), suggesting the native channel is stabilized by divalent metal ion cross-links.
+The native PorB channel is proposed as a C5-symmetric pentamer based on conductivity measurements (0.7 nS), anion selectivity, and crystal packing analysis. Contact type C from crystal forms (polar interior, nonpolar exterior) was expanded from C2 to C5 symmetry. The channel is ~40 A long, matching the mycolic acid layer thickness. Arg42 defines the channel constriction.  The channel is inactivated by [citrate](/xray-mp-wiki/reagents/buffers/citrate/) (chelating divalent cations) and by EDTA (~35 mM), suggesting the native channel is stabilized by divalent metal ion cross-links.
 
 ### Alpha-helical porin architecture
 

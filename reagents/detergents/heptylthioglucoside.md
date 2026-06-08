@@ -1,15 +1,16 @@
 ---
-title: Heptylthioglucoside (HpG)
-created: 2026-05-07
-updated: 2026-05-07
+title: Heptylthioglucoside (HpTG)
+created: 2026-06-04
+updated: 2026-06-04
 type: reagent
 category: reagents
 layout: default
-tags: [detergent-nonionic, solubilization-detergent, crystallization-detergent]
+tags: [detergent-nonionic, solubilization-detergent, subdirectory-detergents]
 sources: [doi/10.1016##j.jmb.2004.07.044]
+verified: false
 ---
 
-# Heptylthioglucoside (HpG)
+# Heptylthioglucoside (HpTG)
 
 ## Overview
 
@@ -22,8 +23,6 @@ Heptylthioglucoside (HpG) is a mild nonionic detergent with a 7-carbon alkyl cha
 - **Chemical formula**: C13H26O6S
 - **Molecular weight**: 306.41 g/mol
 - **Class**: nonionic alkyl thioglucoside
-- **Head group**: thioglucose (single)
-- **Tail length**: 7 carbons (heptyl)
 
 ## Use in Membrane Protein Work
 

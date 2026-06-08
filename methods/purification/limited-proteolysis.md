@@ -1,10 +1,13 @@
 ---
 title: Limited Proteolysis
+created: 2026-05-27
+updated: 2026-05-27
 type: method
 category: methods
 layout: default
-tags: [method-limited-proteolysis, purification, crystallization]
-sources: [doi/10.1016##j.jmb.2012.03.020]
+tags: [purification-affinity, subdirectory-purification]
+sources: [doi/10.1016##j.jmb.2012.03.020, doi/10.1016##j.jmb.2021.167226]
+verified: false
 ---
 
 # Limited Proteolysis

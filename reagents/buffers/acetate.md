@@ -1,12 +1,13 @@
 ---
 title: Acetate Buffer (Sodium Acetate)
-created: 2026-05-07
-updated: 2026-05-07
+created: 2026-06-05
+updated: 2026-06-05
 type: reagent
 category: reagents
 layout: default
-tags: [buffer-acetate, buffer, organic-buffer]
-sources: [doi/10.1016##j.jmb.2013.01.029]
+tags: [buffer-acetate, subdirectory-buffers]
+sources: [doi/10.1016##j.jmb.2013.01.029, doi/10.1016##j.jmb.2018.02.026, doi/10.1038##emboj.2013.17, doi/10.1038##NSMB.1678, doi/10.1038##ncomms8995, doi/10.1038##ncomms9004]
+verified: false
 ---
 
 # Acetate Buffer (Sodium Acetate)
@@ -33,9 +34,22 @@ Used for crystallizing membrane proteins that require acidic pH conditions. Comm
 Used in protein precipitation protocols and for adjusting pH in crystallization reservoirs.
 
 
+### Specific binding sites in GLIC extracellular domain
+
+Acetate serves as a buffer in the crystallization solution of the GLIC pentameric ligand-gated ion channel at a concentration of 100 mM in the mother liquor. Ten acetate molecules (two per monomer) occupy two distinct binding sites in the GLIC extracellular domain. Acetate 1 binds at the vestibule next to ion binding sites through three hydrogen bonds with the NH of the mainchain of Ile76 (loop A), the guanidinium NH2 atom of Arg85, and the hydroxyl group of Tyr102 (beta6). Acetate 2 binds at the bottom of a pocket below loop C, next to the conserved agonist-binding site of pLGICs, through side chain atoms of Arg77 (loop A), Glu181 (loop C) from one subunit, and Arg105 from the adjacent subunit. In the GLIC-ECD hexameric structure solved at neutral pH, acetate 2 binding pocket is only locally rearranged.
+
+
+### Acidic pH crystallization buffer
+
+Sodium acetate buffer (0.1 M, pH 4.3) was used as the crystallization buffer for the Spirulina platensis c15 ring from proton-dependent ATP synthase. The low pH was necessary to protonate the conserved glutamate (Glu62) at the proton-binding site, enabling the structure to be captured in the proton-locked conformation.
+
+
 ## Examples from This Wiki
 
-No examples from this wiki.
+| Protein | Concentration | Context | Result |
+|---|---|---|---|
+| Spirulina platensis ATP synthase c15 ring | 0.1 M | Crystallization buffer at pH 4.3; required for protonation of Glu62 | Proton-locked conformation captured at 2.1 A resolution |
+
 ## Advantages and Disadvantages
 
 No advantages/disadvantages recorded.
@@ -47,4 +61,3 @@ No comparison data available.
 ## Cross-References
 
 - [Sodium Phosphate Buffer](/xray-mp-wiki/reagents/buffers/sodium-phosphate/) — Another commonly used buffer system; acetate covers acidic pH range
-- [Sodium Acetate](/xray-mp-wiki/reagents/additives/sodium-acetate/) — Additive page for sodium acetate in crystallization screens

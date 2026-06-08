@@ -1,12 +1,13 @@
 ---
 title: Subunit E of Pyrococcus horikoshii OT3 A-ATP Synthase (PhE)
-created: 2026-05-07
-updated: 2026-05-07
+created: 2026-05-26
+updated: 2026-05-26
 type: protein
 category: proteins
 layout: default
-tags: [archaeal-protein, atp-synthase, peripheral-stalk, elastic-connector]
+tags: [membrane-protein, xray-crystallography, transporter]
 sources: [doi/10.1016##j.jmb.2012.04.012]
+verified: false
 ---
 
 # Subunit E of Pyrococcus horikoshii OT3 A-ATP Synthase (PhE)
@@ -28,6 +29,7 @@ Subunit E from Pyrococcus horikoshii OT3 A-ATP synthase (PhE) is a component of 
 - **Construct**: Recombinant full-length subunit E of A-ATP synthase from P. horikoshii OT3
 
 ### Purification Workflow
+
 
 #### Steps
 

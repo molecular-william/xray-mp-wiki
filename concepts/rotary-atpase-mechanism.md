@@ -1,22 +1,22 @@
 ---
-title: Rotary ATPase Mechanism and Asymmetry
-created: 2026-05-07
-updated: 2026-05-07
+title: Rotary ATPase Mechanism
+created: 2026-05-29
+updated: 2026-05-29
 type: concept
 category: concepts
 layout: default
-tags: [rotary-motor, torque-generation, conformational-change, v-atpase, f-atpase, a-atpase]
-sources: [doi/10.1016##j.jmb.2013.04.022]
+tags: [concept-transport-mechanism, subdirectory-concepts]
+sources: [doi/10.1038##370621a0, doi/10.1016##j.jmb.2012.04.012]
+verified: false
 ---
 
-# Rotary ATPase Mechanism and Asymmetry
+# Rotary ATPase Mechanism
 
 ## Overview
-The rotary ATPase mechanism involves conversion between chemical energy of ATP and ion gradients through a rotary catalytic mechanism. V-type, F-type, and A-type ATPases share a similar architecture with two rotational motors (A1/F1/V1 extrinsic motor and Ao/Fo/Vo membrane motor) connected by central and peripheral stalks. The mechanism relies on asymmetry at intersubunit interfaces, with conformational changes in catalytic subunits coupled to rotation. In V1-ATPase from Thermus thermophilus, asymmetry is realized by rigid-body rearrangements of A and B subunits rather than large interdomain movements, contrasting with F1-ATPase behavior.
-
+Rotary ATPases (F-type, V-type, A-type) use a rotary catalytic mechanism to synthesize or hydrolyze ATP. The rotation is driven by proton or ion gradients across membranes. The mechanism involves conformational changes in the catalytic subunits that drive ATP synthesis or hydrolysis. The 1994 crystal structure of bovine F1-ATPase at 2.8 A resolution provided the first direct structural evidence for this mechanism, showing the three catalytic beta-subunits in different conformations and proposing rotation of the alpha3beta3 subassembly around the central gamma-subunit helix.
 
 ## Mechanism/Details
-
+Rotary ATPases (F-type, V-type, A-type) use a rotary catalytic mechanism to synthesize or hydrolyze ATP. The rotation is driven by proton or ion gradients across membranes. The mechanism involves conformational changes in the catalytic subunits that drive ATP synthesis or hydrolysis. The 1994 crystal structure of bovine F1-ATPase at 2.8 A resolution provided the first direct structural evidence for this mechanism, showing the three catalytic beta-subunits in different conformations and proposing rotation of the alpha3beta3 subassembly around the central gamma-subunit helix.
 
 ## Examples in Membrane Protein Work
 
@@ -25,4 +25,5 @@ The rotary ATPase mechanism involves conversion between chemical energy of ATP a
 
 
 ## Cross-References
-
+- [V1-ATPase T. thermophilus](/xray-mp-wiki/proteins/v1-atpase-t-thermophilus/) — Rotary ATPase with detailed structural mechanism
+- [Bovine Mitochondrial F1-ATPase](/xray-mp-wiki/proteins/bovine-f1-atpase/) — First high-resolution structure supporting rotational catalysis in F-type ATPases

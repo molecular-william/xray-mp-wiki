@@ -1,26 +1,13 @@
+---
 title: si-Face Cleavage in Rhomboid Proteases
-tags: [protease, catalysis, serine-protease, intramembrane-cleavage, stereochemistry]
-sources: [doi/10.1016##j.jmb.2011.01.046]
-overview: >
-  Rhomboid intramembrane proteases cleave transmembrane substrates on the si-face of the
-  scissile peptide bond, a stereochemistry distinct from the re-face cleavage characteristic
-  of most soluble serine proteases (e.g., trypsin). The rhomboid catalytic machinery employs
-  a Ser-His dyad (Ser116-His65 in hiGlpG) with an oxyanion hole formed by the main-chain
-  NH of Ser116 and the protonated N-epsilon of His65. This si-face mechanism is shared with
-  other serine peptidases featuring a Ser-Lys catalytic dyad, including bacterial signal
-  peptidase (SPase), Lon protease, LexA peptidase, and VP4 protease.
-examples:
-  - protein: "hiGlpG (H. influenzae)"
-    context: Structural evidence for substrate gating via helix 5 movements supports si-face attack geometry
-  - protein: "ecGlpG (E. coli)"
-    context: Cocrystal structure with coumarin inhibitor confirmed si-face cleavage stereochemistry
+type: concept
+tags: [concept-construct-design, subdirectory-concepts]
+sources:
+  - NO SOURCE FOUND - no raw paper covers si-face cleavage
 cross_references:
-  - path: /xray-mp-wiki/proteins/higlpG/
-    title: hiGlpG (Haemophilus influenzae Rhomboid Protease)
-    reason: Primary structural evidence for si-face cleavage mechanism in rhomboids
-  - path: /xray-mp-wiki/concepts/rhomboid-protease/
-    title: Rhomboid Protease Family
-    reason: Rhomboids are the defining class of serine proteases with si-face cleavage
-  - path: /xray-mp-wiki/concepts/intramembrane-proteolysis/
-    title: Intramembrane Proteolysis
-    reason: si-face cleavage is the mechanism by which rhomboids perform intramembrane proteolysis
+  - path: /xray-mp-wiki/proteins/glpg/
+    title: Glpg
+    reason: Rhomboid protease with stereochemistry of cleavage
+cross_refs_text: '- [Glpg](/xray-mp-wiki/proteins/glpg/) — Rhomboid protease with stereochemistry of cleavage'
+details: 'Rhomboid proteases cleave substrates from the si-face (small interface) of the transmembrane helix. The stereochemistry of cleavage is determined by the orientation of the substrate helix in the protease active site. This specificity is important for substrate selection.'
+overview: 'Rhomboid proteases cleave substrates from the si-face (small interface) of the transmembrane helix. The stereochemistry of cleavage is determined by the orientation of the substrate helix in the protease active site. This specificity is important for substrate selection.'

@@ -1,22 +1,22 @@
 ---
 title: Intramembrane Proteolysis
-created: 2026-05-07
-updated: 2026-05-07
+created: 2026-05-26
+updated: 2026-05-26
 type: concept
 category: concepts
 layout: default
-tags: [protease, membrane-protein, catalysis, rhomboid, serine-protease]
-sources: [doi/10.1016##j.jmb.2007.10.014]
+tags: [concept-construct-design, subdirectory-concepts]
+sources: [doi/10.1016##j.jmb.2007.10.014, doi/10.1016##j.jmb.2011.01.046]
+verified: false
 ---
 
 # Intramembrane Proteolysis
 
 ## Overview
-Intramembrane proteases are specialized membrane proteins that cleave transmembrane peptide substrates within the plane of the cell membrane. The rhomboid family of serine intramembrane proteases is the best understood mechanistically. GlpG, the archetypal rhomboid protease from E. coli, employs a Ser-His catalytic dyad housed in an internal water-filled cavity. Substrate TM helices must first partition out of the hydrophobic core of the membrane before entering the protease active site, which is positioned near the membrane:water interface. Cleavage occurs primarily from the interfacial region rather than from within the hydrophobic core.
-
+Intramembrane proteolysis is the cleavage of peptide bonds within the hydrophobic environment of a lipid bilayer. This process is carried out by intramembrane proteases such as rhomboid, S2P, and presenilin families. It plays key roles in signal transduction and protein quality control.
 
 ## Mechanism/Details
-
+Intramembrane proteolysis is the cleavage of peptide bonds within the hydrophobic environment of a lipid bilayer. This process is carried out by intramembrane proteases such as rhomboid, S2P, and presenilin families. It plays key roles in signal transduction and protein quality control.
 
 ## Examples in Membrane Protein Work
 
@@ -25,4 +25,4 @@ Intramembrane proteases are specialized membrane proteins that cleave transmembr
 
 
 ## Cross-References
-
+- [Glpg](/xray-mp-wiki/proteins/glpg/) — Rhomboid protease cleaving intramembrane substrates

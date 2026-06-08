@@ -1,27 +1,42 @@
-title: "Sodium Channel Gating and Ion Selectivity"
-tags: [sodium-channel, vgic, gating, ion-selectivity, bacnav, voltage-gated]
-sources: [doi/10.1016##j.jmb.2013.10.010]
+title: Sodium Channel Gating and Selectivity
+type: concept
+category: concepts
+layout: default
+tags:
+  - concept-transport-mechanism
+  - subdirectory-concepts
+sources:
+  - doi/10.1016##j.cell.2018.12.018
+  - doi/10.1016##j.cell.2019.06.031
+  - doi/10.1038##ncomms3465
+  - doi/10.1038##ncomms14205
+verified: false
+
 overview: >
-  Voltage-gated sodium channels (NaV) belong to the voltage-gated ion channel (VGIC)
-  superfamily and share structural principles with voltage-gated calcium channels (CaV).
-  Bacterial NaV channels (BacNav) are modular, with pore-only constructs that can fold,
-  assemble, and form functional selective channels independently of voltage-sensing domains.
-  The NavAe1p structure reveals key gating elements: (1) S6 activation gate at the
-  intracellular pore constriction (Met241 equivalent), (2) a cytoplasmic tail with neck
-  and coiled-coil domains that stabilize the closed state, and (3) an outer ion binding
-  site at the selectivity filter. BacNav selectivity filters possess multiple ion binding
-  sites (inner and outer), supporting multi-ion pore models shared with eukaryotic NaV
-  and CaV channels.
-metadata:
-  channel_family: "Voltage-gated ion channel (VGIC) superfamily"
-  bacnav_type: "Homomeric tetramer pore-only construct"
-  eukaryotic_relationship: "Most closely related to NaV and CaV channels"
-  gating_mechanism: "Radial expansion of S6 gate + neck order-to-disorder transition"
-  selectivity_filter: "DEKA motif in eukaryotic NaV; conserved glutamate at position 0, serine at +1"
+  Voltage-gated sodium channels use a gating mechanism involving voltage-sensing domains
+  and a selectivity filter. The channel opens in response to membrane depolarization,
+  allowing sodium influx that propagates action potentials. The selectivity filter ensures
+  sodium over other ions. The resting-state structure of NavAb reveals the complete
+  voltage-dependent gating mechanism including the sliding helix mechanism of voltage
+  sensing. Prokaryotic sodium channels also exhibit CTD-mediated inactivation gating
+  distinct from eukaryotic inactivation mechanisms.
+
 cross_references:
   - path: /xray-mp-wiki/proteins/navae1p-sodium-channel/
-    title: NavAe1p Prokaryotic Sodium Channel Pore
-    reason: Primary structural study of BacNav pore domain with cytoplasmic tail
-  - path: /xray-mp-wiki/proteins/kirbac-potassium-channels/
-    title: KirBac Potassium Channels
-    reason: Related prokaryotic ion channel family (KirBac1.1, KirBac3.1)
+    title: NavAe1p Sodium Channel
+    reason: Bacnav sodium channel with detailed gating mechanism
+  - path: /xray-mp-wiki/proteins/navab/
+    title: NavAb Bacterial Voltage-Gated Sodium Channel
+    reason: Resting-state structure reveals complete voltage-gating mechanism
+  - path: /xray-mp-wiki/proteins/navms/
+    title: NavMs Sodium Channel
+    reason: CTD-mediated inactivation gating mechanism elucidated
+  - path: /xray-mp-wiki/concepts/sliding-helix-mechanism/
+    title: Sliding Helix Mechanism
+    reason: Structural model of voltage-dependent gating
+  - path: /xray-mp-wiki/concepts/sodium-channel-inactivation-gating/
+    title: Sodium Channel Inactivation Gating
+    reason: CTD-mediated inactivation mechanism in prokaryotic sodium channels
+  - path: /xray-mp-wiki/concepts/s4-s5-linker-interaction-motif/
+    title: S4-S5 Linker Interaction Motif
+    reason: Three-way interaction between S3, S4-S5 linker, and C-terminus regulating gate opening

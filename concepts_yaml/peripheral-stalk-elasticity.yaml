@@ -1,31 +1,13 @@
-title: Peripheral Stalk Elasticity in A-ATP Synthases
+---
+title: Peripheral Stalk Elasticity in ATP Synthase
 type: concept
-tags: [catalytic-mechanism, atp-synthase, elastic-connector, conformational-change]
-sources: [doi/10.1016##j.jmb.2012.04.012]
-overview: >
-  The peripheral stalk elasticity model proposes that the peripheral stalks of
-  A-ATP synthases and V-ATPases provide transient elastic energy during the rotary
-  catalytic cycle. Subunit E tethers the peripheral stalk to the A1 headpiece
-  sector and can switch between extended (straight) and curved (bent) conformations,
-  storing and releasing elastic energy during ATP synthesis or hydrolysis.
-category: catalytic-mechanism
-related-proteins: "Subunit E from Pyrococcus horikoshii, Subunit E from Thermus thermophilus, Subunit E from Methanosarcina jannaschii"
-biological_insights:
-  - title: Two peripheral stalk conformations
-    content: >
-      The two peripheral stalks in A-ATP synthases adopt different conformations
-      in the intact enzyme: one is almost straight (S1) while the second (S2)
-      reveals a kinked feature. The curved structure of PhE from P. horikoshii
-      fits the bent stalk S2 of P. furiosus, while the straight T. thermophilus
-      E fits the straight stalk S1.
-  - title: Elastic energy storage mechanism
-    content: >
-      The switch from extended to curved conformation of subunit E's N-terminal
-      alpha-helix, along with rearrangement of flexible joints (kink in subunit H
-      and loop in subunit E), facilitates storage of transient elastic energy during
-      the rotary catalytic cycle. This mechanism may differ from the Wankel engine
-      model proposed for F-ATP synthases.
+tags: [concept-transport-mechanism, subdirectory-concepts]
+sources:
+  - doi/10.1016##j.jmb.2012.04.012
 cross_references:
   - path: /xray-mp-wiki/proteins/ph-e-subunit-e/
-    title: Subunit E of Pyrococcus horikoshii OT3 A-ATP Synthase (PhE)
-    reason: Structure demonstrating the elastic S-shaped helix
+    title: Ph E-Subunit E
+    reason: Elastic connector in ATP synthase peripheral stalk
+cross_refs_text: '- [Ph E-Subunit E](/xray-mp-wiki/proteins/ph-e-subunit-e/) — Elastic connector in ATP synthase peripheral stalk'
+details: 'The peripheral stalk of ATP synthase connects the membrane-embedded F0 motor to the catalytic F1 head. Elastic elements in the stalk allow conformational flexibility during rotation. This elasticity is important for efficient energy transduction.'
+overview: 'The peripheral stalk of ATP synthase connects the membrane-embedded F0 motor to the catalytic F1 head. Elastic elements in the stalk allow conformational flexibility during rotation. This elasticity is important for efficient energy transduction.'

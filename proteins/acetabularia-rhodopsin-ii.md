@@ -1,19 +1,20 @@
 ---
-title: Acetabularia Rhodopsin II (ARII)
-created: 2026-05-07
-updated: 2026-05-07
+title: 
+created: 2026-05-26
+updated: 2026-05-26
 type: protein
 category: proteins
 layout: default
-tags: [rhodopsin, membrane-protein, proton-pump, microbial-rhodopsin, seven-tm, eukaryotic]
+tags: [pump, membrane-protein, xray-crystallography]
 sources: [doi/10.1016##j.jmb.2011.06.028]
+verified: false
 ---
 
-# Acetabularia Rhodopsin II (ARII)
+# 
 
 ## Overview
 
-Acetabularia rhodopsin II (ARII) is a light-driven proton pump from the marine alga Acetabularia acetabulum, representing the first eukaryotic member of the microbial rhodopsin family. ARII is a 247-residue protein with seven transmembrane helices and an all-trans retinal chromophore bound to Lys211. The structure (PDB 3AM6) at 3.2 A resolution reveals a proton transfer pathway with reversed proton release/uptake timing compared to bacteriorhodopsin: proton uptake from the cytoplasmic side occurs first, followed by release to the extracellular side. Key residues include Asp81 (proton acceptor), Asp92 (proton donor), Arg78, Glu199, and Ser189 (non-dissociable, causing late proton release).
+ (ARII) is a light-driven proton pump from the marine alga Acetabularia acetabulum, representing the first eukaryotic member of the microbial rhodopsin family. ARII is a 247-residue protein with seven transmembrane helices and an all-trans retinal chromophore bound to Lys211. The structure (PDB 3AM6) at 3.2 A resolution reveals a proton transfer pathway with reversed proton release/uptake timing compared to [bacteriorhodopsin(/xray-mp-wiki/proteins/bacteriorhodopsin/): proton uptake from the cytoplasmic side occurs first, followed by release to the extracellular side. Key residues include Asp81 (proton acceptor), Asp92 (proton donor), Arg78, Glu199, and Ser189 (non-dissociable, causing late proton release).
 
 
 ## Structure Determination
@@ -26,15 +27,17 @@ Acetabularia rhodopsin II (ARII) is a light-driven proton pump from the marine a
 
 - **Expression system**: E. coli cell-free protein synthesis system
 - **Construct**: ARII synthesized in presence of 0.4% digitonin and 6.7 mg/ml phosphatidylcholine
+- **Notes**: Cell-free system unique in providing both lipid and detergent during synthesis. Yield: 4.5 mg from 27 ml reaction. N11-tag retained for purification.
 
 ### Purification Workflow
+
 
 #### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
-| Ni2+ chelating affinity chromatography | Ni2+ affinity | Ni2+ chelating resin | 20 mM Tris-HCl (pH 7.0), 400 mM NaCl, 1 mM DTT, 10% glycerol, 0.01% DDM | N11-tagged ARII purified; tag not removed |
-| Gel filtration | Size-exclusion chromatography | Not specified | 20 mM Tris-HCl (pH 7.0), 400 mM NaCl, 1 mM DTT, 10% glycerol, 0.01% DDM | Final concentration to 45.4 mg/ml using filter unit |
+| Ni2+ chelating [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni2+ affinity | Ni2+ chelating resin | 20 mM Tris-HCl (pH 7.0), 400 mM , 1 mM DTT, 10% [glycerol(/xray-mp-wiki/reagents/additives/glycerol/), 0.01% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | N11-tagged ARII purified; tag not removed |
+| Gel filtration | [Size-exclusion chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | Not specified | 20 mM Tris-HCl (pH 7.0), 400 mM , 1 mM DTT, 10% [glycerol(/xray-mp-wiki/reagents/additives/glycerol/), 0.01% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Final concentration to 45.4 mg/ml using filter unit |
 
 
 ## Crystallization
@@ -57,7 +60,7 @@ Acetabularia rhodopsin II (ARII) is a light-driven proton pump from the marine a
 
 ### Reversed proton release/uptake sequence
 
-Unlike bacteriorhodopsin (release then uptake), ARII exhibits reversed proton transfer: proton uptake from the cytoplasmic side occurs first, followed by release to the extracellular side. This is evidenced by ITO transparent electrode measurements showing downward voltage shift (proton uptake) preceding the upward shift (release). The proton uptake occurs with O intermediate formation, and release with O intermediate decay. The reversed sequence is attributed to Ser189 (vs Glu194 in BR, which serves as the proton-releasing group) and different pKa of Glu199 (vs Glu204 in BR).
+Unlike [bacteriorhodopsin](/xray-mp-wiki/proteins/bacteriorhodopsin/) (release then uptake), ARII exhibits reversed proton transfer: proton uptake from the cytoplasmic side occurs first, followed by release to the extracellular side. This is evidenced by ITO transparent electrode measurements showing downward voltage shift (proton uptake) preceding the upward shift (release). The proton uptake occurs with O intermediate formation, and release with O intermediate decay. The reversed sequence is attributed to Ser189 (vs Glu194 in BR, which serves as the proton-releasing group) and different pKa of Glu199 (vs Glu204 in BR).
 
 ### Cys218 role in proton uptake
 
@@ -65,11 +68,13 @@ The side chain of Cys218 in ARII (corresponding to Leu223 in BR, Ser217 in ASR) 
 
 ### Eukaryotic microbial rhodopsin
 
-ARII is the first crystal structure of a eukaryotic microbial rhodopsin. It shares 33% sequence identity with bacteriorhodopsin and 56% with ARI (the other opsin from the same organism). ARII lacks light-dark adaptation (unlike BR), maintaining predominantly all-trans retinal in the dark. The structure is highly similar to BR (Dali Z-score 28.9), with conserved proton transfer residues: Asp81 (Asp85BR), Asp92 (Asp96BR), Arg78 (Arg82BR), Glu199 (Glu204BR), and Asp207 (Asp212BR).
+ARII is the first crystal structure of a eukaryotic microbial rhodopsin. It shares 33% sequence identity with  and 56% with ARI (the other [opsin(/xray-mp-wiki/proteins/opsin/) from the same organism). ARII lacks light-dark adaptation (unlike BR), maintaining predominantly all-trans retinal in the dark. The structure is highly similar to BR (Dali Z-score 28.9), with conserved proton transfer residues: Asp81 (Asp85BR), Asp92 (Asp96BR), Arg78 (Arg82BR), Glu199 (Glu204BR), and Asp207 (Asp212BR).
 
 
 ## Cross-References
 
+- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Ni2+ chelating affinity purification of N11-tagged ARII
+- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Gel filtration for final purification and concentration
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Primary lipid for in meso crystallization
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Used at 0.01% during purification and 0.05% in spectroscopic assays
 - [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/) — 20 mM Tris-HCl (pH 7.0) used for purification and cell-free synthesis

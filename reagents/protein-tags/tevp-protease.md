@@ -1,12 +1,13 @@
 ---
 title: TEV Protease (Tobacco Etch Virus Protease)
-created: 2026-05-07
-updated: 2026-05-07
+created: 2026-06-08
+updated: 2026-06-08
 type: reagent
 category: reagents
 layout: default
-tags: [enzyme, protease, protein-tag]
-sources: [doi/10.7554##eLife.60724]
+tags: [enzyme, protease, protein-tag, subdirectory-protein-tags]
+sources: [doi/10.7554##eLife.60724, doi/10.1002##1873-3468.14136, doi/10.1016##j.cell.2015.04.011, doi/10.1038##nature06325, doi/10.1038##nature08650, doi/10.1038##ncomms7112, doi/10.1038##nsmb.1788, doi/10.1038##nsmb.3049]
+verified: false
 ---
 
 # TEV Protease (Tobacco Etch Virus Protease)
@@ -46,6 +47,8 @@ TEV protease generates proteins with native N-termini, important for structural 
  | Tags removed overnight at 4C; cleaved tags retained on His60 Ni Superflow resin |
 | MBP-Snc2, MBP-Tlg1, MBP-Vti1 | not specified | TEV protease used to cleave MBP tags from C. thermophilum SNARE motifs (Snc2 R-SNARE, Tlg1 Qc-SNARE, Vti1 Qb-SNARE) for oligomerization assays
  | Released SNARE motifs used in size-exclusion chromatography |
+| M3 Muscarinic Acetylcholine Receptor | not specified | TEV protease cleaved N-terminal extracellular tail of M3-crys construct (rat M3 receptor with FLAG tag, glycosylation mutants, TEV site at residues 50-56, T4L fusion in ICL3). Cleavage did not significantly affect ligand binding affinities (M3-crys [3H]NMS Kd: 337 +/- 9 pM; M3-crys-cleaved: 469 +/- 110 pM).
+ | TEV cleavage produced construct with similar binding properties, enabling structural studies with reduced flexibility |
 
 ## Advantages and Disadvantages
 
@@ -58,3 +61,4 @@ No comparison data available.
 ## Cross-References
 
 - [BRIL Fusion Protein](/xray-mp-wiki/reagents/protein-tags/bril/) — Related protein tag system using cleavable linkers
+- [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/at1r/) — His-tagged TEV protease used to cleave FLAG/His tags from BRIL-AT1R

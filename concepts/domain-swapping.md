@@ -1,22 +1,22 @@
 ---
 title: Three-Dimensional Domain Swapping
-created: 2026-05-07
-updated: 2026-05-07
+created: 2026-05-26
+updated: 2026-05-26
 type: concept
 category: concepts
 layout: default
-tags: [protein-folding, oligomerization, domain-swapping, conformational-change]
+tags: [concept-construct-design, subdirectory-concepts]
 sources: [doi/10.1016##j.jmb.2013.01.019]
+verified: false
 ---
 
 # Three-Dimensional Domain Swapping
 
 ## Overview
-Three-dimensional domain swapping is a mechanism by which identical protein monomers exchange structural elements (typically a domain or secondary structure) to form oligomeric assemblies. The process requires an energy barrier between closed (native) and open (domain-exchanged) conformations. Domain-swapped oligomers can be physiologically relevant and are associated with protein misfolding diseases in some cases.
-
+Three-dimensional domain swapping occurs when a protein unfolds partially and exchanges a domain with another molecule, forming oligomers. This mechanism can lead to functional oligomers or pathological aggregates. It has been observed in many proteins including enzymes and structural proteins.
 
 ## Mechanism/Details
-
+Three-dimensional domain swapping occurs when a protein unfolds partially and exchanges a domain with another molecule, forming oligomers. This mechanism can lead to functional oligomers or pathological aggregates. It has been observed in many proteins including enzymes and structural proteins.
 
 ## Examples in Membrane Protein Work
 
@@ -25,4 +25,4 @@ Three-dimensional domain swapping is a mechanism by which identical protein mono
 
 
 ## Cross-References
-
+- [EcGlpg Cyto](/xray-mp-wiki/proteins/ecglpg-cyto/) — Domain-swapped rhomboid protease structure

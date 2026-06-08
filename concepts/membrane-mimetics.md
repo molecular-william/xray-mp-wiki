@@ -1,22 +1,22 @@
 ---
-title: Membrane Mimetics and Structural Biology Concepts
-created: 2026-05-05
-updated: 2026-05-05
+title: Membrane Mimetics and Structural Biology
+created: 2026-05-26
+updated: 2026-05-26
 type: concept
 category: concepts
 layout: default
-tags: [concept-membrane-mimetic, concept-construct-design, membrane-protein]
-sources: [doi/10.1016##j.cell.2010.05.003, doi/10.1038##nature13074]
+tags: [concept-membrane-mimetic, subdirectory-concepts]
+sources: [doi/10.1016##j.bbabio.2023.148986, doi/10.1016##J.JMB.2004.08.090, doi/10.1006##jmbi.1994.0097]
+verified: false
 ---
 
-# Membrane Mimetics and Structural Biology Concepts
+# Membrane Mimetics and Structural Biology
 
 ## Overview
-Membrane proteins require specialized techniques for structural determination due to their hydrophobic transmembrane domains. Key concepts include membrane mimetics (detergents, lipids, bicelles, nanodiscs) that provide a native-like environment, thermostabilization strategies (fusion proteins, point mutations), and crystallization methods (LCP, vapor diffusion) adapted for membrane proteins. Understanding these concepts is essential for successful membrane protein structural biology.
-
+Membrane mimetics are artificial systems that replicate the lipid bilayer environment for structural and functional studies of membrane proteins. Common types include detergents, liposomes, bicelles, nanodiscs, and amphipols. Each has advantages and limitations for different applications.
 
 ## Mechanism/Details
-
+Membrane mimetics are artificial systems that replicate the lipid bilayer environment for structural and functional studies of membrane proteins. Common types include detergents, liposomes, bicelles, nanodiscs, and amphipols. Each has advantages and limitations for different applications.
 
 ## Examples in Membrane Protein Work
 
@@ -25,4 +25,4 @@ Membrane proteins require specialized techniques for structural determination du
 
 
 ## Cross-References
-
+- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Common detergent for membrane protein solubilization

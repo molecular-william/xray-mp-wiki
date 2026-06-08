@@ -13,7 +13,7 @@ sources: [doi/10.1016##j.cell.2010.05.003]
 
 ## Overview
 
-Anzergent 3,12 is a mild zwitterionic detergent used for solubilizing membrane proteins. It was used at 1% concentration for extracting full-length KirBac3.1 from E. coli cell membranes, enabling crystallization of multiple KirBac channel structures at resolutions between 2.6 and 4.2 A.
+Anzergent 3,12 is a mild zwitterionic detergent used for solubilizing membrane proteins. It was used at 1% concentration for extracting full-length KirBac3.1 from E. coli cell membranes, enabling crystallization of multiple [KirBac potassium channels](/xray-mp-wiki/proteins/kirbac-potassium-channels/) at resolutions between 2.6 and 4.2 A. Anzergent 3,12 is often compared with [DDM](/xray-mp-wiki/reagents/detergents/ddm/) and [LDAO](/xray-mp-wiki/reagents/detergents/lDAO/) for membrane protein solubilization.
 
 
 ## Properties

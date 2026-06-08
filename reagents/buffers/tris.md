@@ -1,50 +1,37 @@
 ---
 title: Tris (Tris-HCl Buffer)
-created: 2026-05-07
-updated: 2026-05-07
+created: 2026-06-03
+updated: 2026-06-03
 type: reagent
 category: reagents
 layout: default
-tags: [buffer-tris, buffer, solubilization-buffer]
-sources: [doi/10.1016##j.bbabio.2023.148986]
+tags: [buffer-tris, subdirectory-buffers]
+sources: [doi/10.1038##nature03692, doi/10.1038##nature10917, doi/10.1038##ncomms7112, doi/10.1038##ncomms13411, doi/10.1038##ncomms4110, doi/10.1038##ncomms5355, doi/10.1038##ncomms5521, doi/10.1038##ncomms8097, doi/10.1038##ncomms8895, doi/10.1038##ncomms8947, doi/10.1038##ncomms9004, doi/10.1038##nsmb.3049]
+verified: false
 ---
 
 # Tris (Tris-HCl Buffer)
 
 ## Overview
 
-Tris (tris(hydroxymethyl)aminomethane) is a widely used buffering agent in membrane protein
-biochemistry and structural biology. Tris-HCl buffer is employed in the purification,
-crystallization, and cryoprotection of membrane protein complexes including photosystem I-LHCI
-supercomplexes. It maintains pH stability in the physiological range and is compatible with
-most downstream applications including X-ray crystallography and cryo-EM.
-
+Tris (tris(hydroxymethyl)aminomethane) is a widely used buffer in biochemistry, particularly for protein purification and crystallization. Tris-HCl buffer at pH 7.5 was used in the lysis and purification buffers for the BhuUV and BhuUV-T complexes from Burkholderia cenocepacia.
 
 ## Properties
 
-- **Chemical name**: tris(hydroxymethyl)aminomethane
-- **Chemical formula**: C4H11NO3
-- **Molecular weight**: 121.14 g/mol
-- **Class**: amine buffer
 
 ## Use in Membrane Protein Work
 
-### PSI-LHCI crystallization buffer
+### Lysis and purification buffer for BhuUV and BhuUV-T
 
-50 mM Tris-HCl (pH 7.0) used as the buffer component in the crystallization reservoir for PSI-LHCI Form A. Combined with 50 mM Li2SO4 and 4.5-7.0% PEG 6000, this buffer system yields well-ordered crystals suitable for X-ray diffraction to 3.2 A resolution.
-
-
-### Ferredoxin purification buffer
-
-50 mM Tris-HCl (pH 7.5) used during ferredoxin purification via anion exchange and gel filtration chromatography. Also used in refolding buffer for gallium-substituted ferredoxin (50 mM Tris-HCl pH 8.0).
+50 mM Tris-HCl pH 7.5 was used as the primary buffer in the lysis buffer (with 150 mM NaCl, 2 mM MgCl₂, DNase, lysozyme) and in all subsequent purification buffers for the BhuUV and BhuUV-T complexes.
 
 
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| PSI-LHCI from Chlamydomonas reinhardtii | 50 mM | Crystallization buffer (pH 7.0) and cryoprotection buffer | PSI-LHCI crystals diffracted to 3.2 A resolution |
-| Ferredoxin from Chlamydomonas reinhardtii | 50 mM | Purification and dialysis buffer during Fd isolation | Native ferredoxin prepared for gallium substitution |
+| /xray-mp-wiki/proteins/bhuuv-t/ | 50 mM | Lysis and purification buffer | BhuUV-T solubilized and purified in Tris-HCl buffer |
+| /xray-mp-wiki/proteins/bhuuv/ | 50 mM | Lysis and purification buffer | BhuUV solubilized and purified in Tris-HCl buffer |
 
 ## Advantages and Disadvantages
 
@@ -56,5 +43,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [n-Dodecyl-beta-D-maltopyranoside (beta-DDM)](/xray-mp-wiki/reagents/detergents/beta-ddm/) — Co-used in PSI-LHCI crystallization and cryoprotection
-- [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) — Crystallization precipitant used with Tris buffer
+- [BhuUV-T Complex](/xray-mp-wiki/proteins/bhuuv-t/) — Tris buffer used in purification
+- [BhuUV Complex](/xray-mp-wiki/proteins/bhuuv/) — Tris buffer used in purification

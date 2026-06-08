@@ -1,21 +1,21 @@
 ---
-title: Rhodobacter sphaeroides Reaction Centre with Zn-Bacteriochlorophyll
-created: 2026-05-07
-updated: 2026-05-07
+title: l](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/
+created: 2026-05-26
+updated: 2026-05-26
 type: protein
 category: proteins
 layout: default
-tags: [membrane-protein, xray-crystallography, photosynthesis]
+tags: [membrane-protein, xray-crystallography, enzyme]
 sources: [doi/10.1016##j.bbabio.2013.11.015]
-verified: true
+verified: false
 ---
 
-# Rhodobacter sphaeroides Reaction Centre with Zn-Bacteriochlorophyll
+# l](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/
 
 ## Overview
 
 The photosynthetic reaction centre (RC) from the purple bacterium Rhodobacter sphaeroides
-assembled with zinc-coordinated bacteriochlorophyll (Zn-BChl) as bacteriochlorin cofactors.
+assembled with zinc-coordinated [bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) (Zn-BChl) as bacteriochlorin cofactors.
 Produced in a bchD (magnesium chelatase) mutant, the Zn-RC assembles with six Zn-bacteriochlorophylls
 in place of the four Mg-containing bacteriochlorophylls and two bacteriopheophytins found in wild-type RC.
 This variant provides unique opportunities for studying biological electron transfer, as Zn-containing
@@ -26,8 +26,8 @@ chlorins can exist in 4-, 5-, and (theoretically) 6-coordinate states within the
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.bbabio.2013.11.015 | 4N7K | 2.85 A | C2 | Wild-type background Zn-BChl RC (bchD mutant) | Zinc [bacteriochlorophyll](/xray-mp-wiki/reagents/ligands/bacteriochlorophyll/) (Zn-BChl) at P, B, and H sites |
-| doi/10.1016##j.bbabio.2013.11.015 | 4N7L | 2.85 A | C2 | Zn-BChl RC with (M)L214H mutation (Zn-beta-RC) | Zinc bacteriochlorophyll with His-coordinated Zn at HA site |
+| doi/10.1016##j.bbabio.2013.11.015 | 4N7K | 2.85 A | C2 | Wild-type background Zn-BChl RC (bchD mutant) | Zinc [bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) (Zn-BChl) at P, B, and H sites |
+| doi/10.1016##j.bbabio.2013.11.015 | 4N7L | 2.85 A | C2 | Zn-BChl RC with (M)L214H mutation (Zn-beta-RC) | Zinc [bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) with His-coordinated Zn at HA site |
 
 ## Expression and Purification
 
@@ -38,24 +38,13 @@ No purification described.
 
 ## Crystallization
 
-### doi/10.1016##j.bbabio.2013.11.015
-
-| Parameter | Value |
-|---|---|
-| Method | Hanging drop vapor diffusion |
-| Protein sample | Zn-BChl RC purified from bchD mutant |
-| Reservoir | not specified in this paper (referenced from Saer et al. [20]) |
-| Mixing ratio | not specified |
-| Temperature | not specified |
-| Growth time | not specified |
-| Notes | Crystals isomorphous with wild-type RC (PDB 2J8C). Data collected at SSRL beamline 7.1. |
-
+No crystallization described.
 
 ## Biological / Functional Insights
 
 ### Zn-BChl coordination state effects on electron transfer
 
-The presence of a 4-coordinate Zn2+ ion in the HA bacteriochlorin instead of bacteriopheophytin
+The presence of a 4-coordinate Zn2+ ion in the HA bacteriochlorin instead of [bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/)
 results in a small decrease in the rates of P* to P+HA- to P+QA- electron transfer, and the
 charge separation yield is not greatly perturbed. However, coordination of the Zn2+ by a fifth
 ligand provided by a histidine residue results in a larger rate decrease and yield loss. The

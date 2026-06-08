@@ -1,33 +1,35 @@
 ---
-title: Vp-ZntB Cytoplasmic Domain
-created: 2026-05-05
-updated: 2026-05-05
+title: 
+created: 2026-05-26
+updated: 2026-05-26
 type: protein
 category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
 sources: [doi/10.1002##pro.215]
+verified: false
 ---
 
-# Vp-ZntB Cytoplasmic Domain
+# 
 
 ## Overview
 
-ZntB is a zinc/cadmium efflux transporter from the metal ion transporter (MIT) superfamily, a distant homolog of the CorA Mg2+ transporter. The crystal structure of the cytoplasmic domain of Vp-ZntB from Vibrio parahaemolyticus reveals a funnel-shaped homopentamer with two subdomains per monomer: an N-terminal alpha/beta/alpha sandwich and a C-terminal coiled-coil stalk. At 1.90 A resolution, 25 well-defined Cl- ions were identified binding along the central pore, creating strong negative electrostatic potential that enhances cation transport. No Zn2+ or Cd2+ binding sites were found despite crystallization buffer containing divalent cations.
+ZntB is a zinc/cadmium efflux transporter from the , a distant homolog of the [CorA Mg2+ transporter(/xray-mp-wiki/concepts/cora-mg-transporter/). The crystal structure of the cytoplasmic domain of [Vp-ZntB](/xray-mp-wiki/proteins/vp-zntb/) from Vibrio parahaemolyticus reveals a funnel-shaped homopentamer with two subdomains per monomer: an N-terminal alpha/beta/alpha sandwich and a C-terminal coiled-coil stalk. At 1.90 A resolution, 25 well-defined Cl- ions were identified binding along the central pore, creating strong negative electrostatic potential that enhances cation transport. No Zn2+ or Cd2+ binding sites were found despite crystallization buffer containing divalent cations.
 
 
 ## Structure Determination
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1002##pro.215 | 3CK6 | 1.90 A | P21 | Vp-ZntB cytoplasmic domain, residues 1-203, homopentamer | 25 Cl- ions per pentamer (5 per monomer) |
+| doi/10.1002##pro.215 | 3CK6 | 1.90 A | P21 | [Vp-ZntB](/xray-mp-wiki/proteins/vp-zntb/) cytoplasmic domain, residues 1-203, homopentamer | 25 Cl- ions per pentamer (5 per monomer) |
 
 ## Expression and Purification
 
 - **Expression system**: not specified
-- **Construct**: Vp-ZntB cytoplasmic domain (residues 1-203) from Vibrio parahaemolyticus
+- **Construct**: [Vp-ZntB](/xray-mp-wiki/proteins/vp-zntb/) cytoplasmic domain (residues 1-203) from Vibrio parahaemolyticus
 
 ### Purification Workflow
+
 
 #### Steps
 
@@ -43,8 +45,8 @@ ZntB is a zinc/cadmium efflux transporter from the metal ion transporter (MIT) s
 | Parameter | Value |
 |---|---|
 | Method | not specified |
-| Protein sample | Vp-ZntB cytoplasmic domain |
-| Reservoir | Crystallization buffer included 0.2 M [MgCl2](/xray-mp-wiki/reagents/additives/magnesium-chloride/) |
+| Protein sample | [Vp-ZntB](/xray-mp-wiki/proteins/vp-zntb/) cytoplasmic domain |
+| Reservoir | Crystallization buffer included 0.2 M [MgCl2](/xray-mp-wiki/reagents/additives/mgcl2/) |
 | Temperature | not specified |
 | Growth time | not specified |
 | Notes | High-resolution structure at 1.90 A. Se-SAD phasing at Se absorption edge. Anomalous data at Zn and low energy (7 keV) confirmed Cl- binding. 25 Cl- ions per pentamer identified. |
@@ -62,11 +64,13 @@ Five Cl- ions per monomer bind at distinct sites: Cl-(1) and Cl-(2) are the high
 
 ### Full-length model and pore architecture
 
-Homology model built on Tm-CorA (2.9 A) shows Vp-ZntB full-length pore is more open than Tm-CorA, with three constriction sites: below membrane (D235, K238, R241, D242), and two in transmembrane domain (S263, F259, F252). The aspartate ring at D242 corresponds to D277 in Tm-CorA. Ion selectivity attributed to signature motif G[I,V]N (ZntB) vs YGMNFxxMPEL (CorA) located between TM helices.
+Homology model built on Tm-CorA (2.9 A) shows  full-length pore is more open than Tm-CorA, with three constriction sites: below membrane (D235, K238, R241, D242), and two in transmembrane domain (S263, F259, F252). The aspartate ring at D242 corresponds to D277 in Tm-CorA. Ion selectivity attributed to signature motif G[I,VN (ZntB) vs YGMNFxxMPEL (CorA) located between TM helices.
 
 
 ## Cross-References
 
 - [CorA Mg2+ Transporter](/xray-mp-wiki/concepts/cora-mg-transporter/) — Structural homolog and reference for full-length modeling
+- [Metal Ion Transporter (MIT) Superfamily](/xray-mp-wiki/concepts/mit-superfamily/) — Protein family to which ZntB belongs; encompasses CorA Mg2+ transporters and ZntB Zn2+/Cd2+ efflux transporters
+- [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/selenomethionine/) — SeMet labeling used for experimental phasing (Se-SAD) of Vp-ZntB cytoplasmic domain
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — General purification technique referenced
 - [Membrane Protein Structural Biology Concepts](/xray-mp-wiki/concepts/membrane-mimetics/) — Related MIT superfamily structural principles

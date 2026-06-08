@@ -1,41 +1,38 @@
 ---
-title: PIPES (Piperazine-1,4-bis(2-ethanesulfonic acid))
-created: 2026-05-07
-updated: 2026-05-07
+title: PIPES (Piperazine-1,4-Bis(2-Ethanesulfonic Acid))
+created: 2026-06-03
+updated: 2026-06-03
 type: reagent
 category: reagents
 layout: default
-tags: [buffer-pipes, buffer-zwitterionic, buffer-good]
-sources: [doi/10.1016##j.jmb.2012.05.026]
+tags: [buffer-pipes, subdirectory-buffers]
+sources: [doi/10.1038##nature13453]
+verified: false
 ---
 
-# PIPES (Piperazine-1,4-bis(2-ethanesulfonic acid))
+# PIPES (Piperazine-1,4-Bis(2-Ethanesulfonic Acid))
 
 ## Overview
 
-PIPES (piperazine-1,4-bis(2-ethanesulfonic acid)) is a zwitterionic Good's buffer widely used in membrane protein biochemistry. It has a pKa of 6.76 at 25 deg.C and maintains buffering capacity in the pH range 6.1-7.5. PIPES is particularly useful for crystallizing proteins that require slightly acidic to neutral pH. It is compatible with most detergents and is commonly used in buffers for membrane protein purification and crystallization.
+PIPES (piperazine-1,4-bis(2-ethanesulfonic acid)) is a Good's buffer commonly used in biochemical and structural biology applications. It is a zwitterionic buffer with a pKa of approximately 6.76 at 20 °C, making it suitable for physiological pH ranges. PIPES is widely used in protein crystallization, solubilization buffers, and cell biology protocols due to its low metal ion chelation and compatibility with many biochemical assays.
 
 
 ## Properties
 
-- **Chemical name**: piperazine-1,4-bis(2-ethanesulfonic acid)
-- **Class**: zwitterionic Good's buffer
 
 ## Use in Membrane Protein Work
 
-### Near-neutral pH crystallization
+### Crystallization buffer for photosystem II
 
-Used as a buffer component for crystallizing membrane proteins at pH 6.5-7.0. Compatible with PEG-based precipitants and many detergent systems.
-
-
-### Protein stabilization
-
-Used in purification and storage buffers for membrane proteins requiring slightly acidic to neutral pH stability.
+PIPES at 100 mM pH 7.0 was used as the buffer for both solubilization and crystallization of photosystem II (PSII) microcrystals from Thermosynechococcus elongatus. The buffer was used in combination with 5 mM CaCl2, 10 mM tocopherol, and 10–17% PEG 2000 as the precipitant in a batch crystallization method with free interface diffusion. This buffer system enabled the growth of PSII nano/microcrystals suitable for time-resolved serial femtosecond crystallography.
 
 
 ## Examples from This Wiki
 
-No examples from this wiki.
+| Protein | Concentration | Context | Result |
+|---|---|---|---|
+| /xray-mp-wiki/proteins/photosystem-ii/ | 100 mM | Solubilization and crystallization buffer for PSII microcrystals | Enabled growth of PSII nano/microcrystals for TR-SFX |
+
 ## Advantages and Disadvantages
 
 No advantages/disadvantages recorded.
@@ -46,4 +43,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [HEPES (4-(2-Hydroxyethyl)-1-piperazineethanesulfonic Acid)](/xray-mp-wiki/reagents/buffers/hepes/) — Another zwitterionic Good's buffer from the piperazine family; similar application
+- [Tocopherol (Vitamin E)](/xray-mp-wiki/reagents/additives/tocopherol/) — Used together with PIPES as antioxidant in PSII crystallization buffer
+- [Photosystem II](/xray-mp-wiki/proteins/photosystem-ii/) — PIPES buffer used in PSII crystallization and solubilization

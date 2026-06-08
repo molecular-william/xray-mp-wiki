@@ -64,7 +64,7 @@ docs/_build/
 docs/build/
 
 # YAMLs
-concept_yaml/
+concepts_yaml/
 methods_yaml/
 proteins_yaml/
 reagents_yaml/
