@@ -1,5 +1,5 @@
 ---
-title: SiaT Sialic Acid Transporter from Proteus mirabilis
+title: "SiaT Sialic Acid Transporter from Proteus mirabilis"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -32,7 +32,7 @@ SiaT is a secondary active sialic acid transporter from the uropathogen Proteus 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

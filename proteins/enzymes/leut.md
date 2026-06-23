@@ -1,5 +1,5 @@
 ---
-title: LeuT Amino Acid Transporter from Aquifex aeolicus
+title: "LeuT Amino Acid Transporter from Aquifex aeolicus"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -21,26 +21,26 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1038##nature03978 | 2A65 | 1.65 | C2 | LeuT from A. aeolicus, residues 5-133 and 135-513 | L-leucine, Na+ (2 ions), Cl- |
-| doi/10.1038##nature06038 | not specified | 1.7-1.9 | — | LeuT-leucine-sodium in complex with clomipramine | L-leucine, Na+ (2 ions), clomipramine |
-| doi/10.1038##nature06038 | not specified | 1.7-1.9 | — | LeuT-leucine-sodium in complex with desipramine | L-leucine, Na+ (2 ions), desipramine |
-| doi/10.1038##nature06038 | not specified | 1.7-1.9 | — | LeuT-leucine-sodium in complex with imipramine | L-leucine, Na+ (2 ions), imipramine |
-| doi/10.1038##nature06038 | not specified | 1.7-1.9 | — | LeuT-alanine-sodium in complex with clomipramine | L-alanine, Na+ (2 ions), clomipramine |
+| doi/10.1038##nature06038 | 2QEI | 1.7-1.9 | — | LeuT-leucine-sodium in complex with clomipramine | L-leucine, Na+ (2 ions), clomipramine |
+| doi/10.1038##nature06038 | 2QEI | 1.7-1.9 | — | LeuT-leucine-sodium in complex with desipramine | L-leucine, Na+ (2 ions), desipramine |
+| doi/10.1038##nature06038 | 2QEI | 1.7-1.9 | — | LeuT-leucine-sodium in complex with imipramine | L-leucine, Na+ (2 ions), imipramine |
+| doi/10.1038##nature06038 | 2QEI | 1.7-1.9 | — | LeuT-alanine-sodium in complex with clomipramine | L-alanine, Na+ (2 ions), clomipramine |
 | doi/10.1038##nature12179 | 3TT3 | 2.4 | — | LeuT from A. aeolicus, apo inward-open state | none (apo state) |
-| doi/10.1038##nature10737 | not specified | 3.10 | P2(1)2(1)2(1) | LeuTK(Y108F) Fab complex, outward-open state | L-leucine, Na+, 2B12 Antibody Fragment Fab |
-| doi/10.1038##nature10737 | not specified | 3.23 | C222(1) | LeuTK(TSY)-6A10 Antibody Fragment Fab complex, inward-open state | Na+ |
-| doi/10.1038##nature10737 | not specified | 3.00 | C2 | LeuTK(TS)-alanine complex, outward-occluded state | L-alanine, Na+ |
+| doi/10.1038##nature10737 | 3TT1 | 3.10 | P2(1)2(1)2(1) | LeuTK(Y108F) Fab complex, outward-open state | L-leucine, Na+, 2B12 Antibody Fragment Fab |
+| doi/10.1038##nature10737 | 3TT1 | 3.23 | C222(1) | LeuTK(TSY)-6A10 Antibody Fragment Fab complex, inward-open state | Na+ |
+| doi/10.1038##nature10737 | 3TT1 | 3.00 | C2 | LeuTK(TS)-alanine complex, outward-occluded state | L-alanine, Na+ |
 | doi/10.1038##ncomms11673 | 5JAE | 2.50 | P21 | LeuT from A. aeolicus, outward-oriented Na+- and substrate-free state at pH 6.5 | none (Na+- and substrate-free state) |
 | doi/10.1038##ncomms11673 | 5JAF | 3.08 | C2 | LeuT from A. aeolicus, outward-oriented Na+- and substrate-free state at pH 5.0 | none (Na+- and substrate-free state) |
 | doi/10.1038##ncomms11673 | 5JAG | 2.58 | C2 | LeuT T354H mutant, outward-oriented Na+- and substrate-free state at pH 6.5 | none (Na+- and substrate-free state) |
-| doi/10.1021##bi101148w | not specified | 2.25 | C2 | LeuT F177R1 spin-labeled mutant | R1 nitroxide spin label |
-| doi/10.1021##bi101148w | not specified | 2.25 | C2 | LeuT I204R1 spin-labeled mutant | R1 nitroxide spin label |
-| doi/10.1038##nsmb.2215 | not specified | 2.5 | C2 | LeuT-Leu complex in DMPC-CHAPSO bicelles | L-leucine, Na+ (2 ions) |
-| doi/10.1038##nsmb.2215 | not specified | 3.1 | P2 | LeuT-Leu complex in DMPC-CHAPSO bicelles (second crystal form) | L-leucine, Na+ (2 ions) |
-| doi/10.1038##nsmb.2215 | not specified | 2.7 | C2 | LeuT-SeMet complex in DMPC-CHAPSO bicelles (with DMPE) | Selenomethionine (SeMet), Na+ (2 ions) |
-| doi/10.1038##nsmb.2215 | not specified | 2.1 | C2 | LeuT-beta-SeHG complex in bicelle-like environment | beta-SeHG, L-leucine, Na+ (2 ions) |
+| doi/10.1021##bi101148w | 3MPN | 2.25 | C2 | LeuT F177R1 spin-labeled mutant | R1 nitroxide spin label |
+| doi/10.1021##bi101148w | 3MPN | 2.25 | C2 | LeuT I204R1 spin-labeled mutant | R1 nitroxide spin label |
+| doi/10.1038##nsmb.2215 | 3USG | 2.5 | C2 | LeuT-Leu complex in DMPC-CHAPSO bicelles | L-leucine, Na+ (2 ions) |
+| doi/10.1038##nsmb.2215 | 3USG | 3.1 | P2 | LeuT-Leu complex in DMPC-CHAPSO bicelles (second crystal form) | L-leucine, Na+ (2 ions) |
+| doi/10.1038##nsmb.2215 | 3USG | 2.7 | C2 | LeuT-SeMet complex in DMPC-CHAPSO bicelles (with DMPE) | Selenomethionine (SeMet), Na+ (2 ions) |
+| doi/10.1038##nsmb.2215 | 3USG | 2.1 | C2 | LeuT-beta-SeHG complex in bicelle-like environment | beta-SeHG, L-leucine, Na+ (2 ions) |
 | doi/10.1038##s41467-020-14735-w | 6XWM | 2.60 | P1 | LeuT W8A mutant, Na+/L-Phe-bound inward-facing occluded state | L-phenylalanine, Na+ (2 ions) |
-| doi/10.1073##pnas.0811322106 | not specified | 2.80 | P2(1) | LeuT-E290S mutant, S1:Leu/S2:OG state | L-leucine (S1), n-octyl-beta-D-glucopyranoside (OG, S2), Na+ (2 ions) |
-| doi/10.1126##science.1147614 | not specified | 2.9 | — | LeuT with bound leucine, Na+, and desipramine | L-leucine, Na+ (2 ions), desipramine |
+| doi/10.1073##pnas.0811322106 | 3GJD | 2.80 | P2(1) | LeuT-E290S mutant, S1:Leu/S2:OG state | L-leucine (S1), n-octyl-beta-D-glucopyranoside (OG, S2), Na+ (2 ions) |
+| doi/10.1126##science.1147614 | 2QJU | 2.9 | — | LeuT with bound leucine, Na+, and desipramine | L-leucine, Na+ (2 ions), desipramine |
 | doi/10.1126##science.1166777 | 3F4J |  | — | LeuT from A. aeolicus cocrystallized with glycine | glycine, Na+ (2 ions) |
 | doi/10.1126##science.1166777 | 3F48 |  | — | LeuT from A. aeolicus cocrystallized with alanine | alanine, Na+ (2 ions) |
 | doi/10.1126##science.1166777 | 3F3E |  | — | LeuT from A. aeolicus cocrystallized with 30 mM leucine | leucine, Na+ (2 ions) |
@@ -53,13 +53,13 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature03978*
+#### Source: doi/10.1038##nature03978
 
 - **Expression system**: E. coli C41
 - **Expression construct**: LeuT from A. aeolicus with C-terminal His-tag
 - **Tag info**: C-terminal His-tag, removed by thrombin cleavage
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -68,14 +68,12 @@ LeuT is a bacterial amino acid transporter from Aquifex aeolicus that belongs to
 | Affinity chromatography | Ni-NTA | Ni-NTA | 20 mM Tris-HCl pH 8.0, 190 mM NaCl, 10 mM KCl, 300 mM imidazole + 1 mM DDM | Membranes solubilized with 40 mM DDM |
 | Thrombin digestion and SEC | Size-exclusion chromatography | — | 20 mM Tris-HCl pH 8.0, 190 mM NaCl, 10 mM KCl + 40 mM beta-OG | Thrombin cleavage of C-terminal His-tag before SEC |
 
-### Purification Workflow
-
-*Source: doi/10.1038##nature06038*
+#### Source: doi/10.1038##nature06038
 
 - **Expression system**: E. coli
 - **Expression construct**: LeuT from A. aeolicus
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

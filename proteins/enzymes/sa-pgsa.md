@@ -1,5 +1,5 @@
 ---
-title: Phosphatidylglycerol Phosphate Synthase PgsA from Staphylococcus aureus
+title: "Phosphatidylglycerol Phosphate Synthase PgsA from Staphylococcus aureus"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -31,7 +31,7 @@ verified: false
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

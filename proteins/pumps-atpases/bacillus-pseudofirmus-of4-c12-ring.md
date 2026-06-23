@@ -1,5 +1,5 @@
 ---
-title: Bacillus pseudofirmus OF4 ATP Synthase A16/20G c12 Ring
+title: "Bacillus pseudofirmus OF4 ATP Synthase A16/20G c12 Ring"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -32,7 +32,7 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
 
 - **Expression system**: E. coli
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

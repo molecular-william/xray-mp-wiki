@@ -1,5 +1,5 @@
 ---
-title: GtrB Polyisoprenyl-Phosphate Glycosyltransferase from Synechocystis
+title: "GtrB Polyisoprenyl-Phosphate Glycosyltransferase from Synechocystis"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,8 +21,8 @@ GtrB is a polyisoprenyl-phosphate glycosyltransferase (PI-GT) from the cyanobact
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##ncomms10175 |  | 3.0 |  | wild-type GtrB (F215A mutant used for isotropic data) | UDP ([Glucose](/xray-mp-wiki/reagents/additives/glucose/) hydrolyzed) |
-| doi/10.1038##ncomms10175 |  | 3.2 |  | wild-type GtrB with [Selenomethionine](/xray-mp-wiki/reagents/additives/selenomethionine/) | UDP |
+| doi/10.1038##ncomms10175 | 5EKP | 3.0 |  | wild-type GtrB (F215A mutant used for isotropic data) | UDP ([Glucose](/xray-mp-wiki/reagents/additives/glucose/) hydrolyzed) |
+| doi/10.1038##ncomms10175 | 5EKP | 3.2 |  | wild-type GtrB with [Selenomethionine](/xray-mp-wiki/reagents/additives/selenomethionine/) | UDP |
 
 ## Expression and Purification
 

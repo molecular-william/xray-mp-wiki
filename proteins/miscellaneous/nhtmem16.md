@@ -1,5 +1,5 @@
 ---
-title: nhTMEM16 (TMEM16 Lipid Scramblase from Nectria haematococca)
+title: "nhTMEM16 (TMEM16 Lipid Scramblase from Nectria haematococca)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -23,9 +23,9 @@ nhTMEM16 is a calcium-activated lipid scramblase from the fungus Nectria haemato
 |---|---|---|---|---|---|
 | doi/10.1038##nature13984 | 4Q6R | 3.3 A | P212121 | Full-length nhTMEM16 (772 residues) from Nectria haematococca, homodimer, expressed in S. cerevisiae with His10-EGFP tag and HRV 3C cleavage site | Two Ca2+ ions per subunit, [DDM](/xray-mp-wiki/reagents/detergents/ddm) |
 | doi/10.1038##nature13984 | 4Q6S | 3.4 A | P212121 | Full-length nhTMEM16 (772 residues) from Nectria haematococca, homodimer, expressed in S. cerevisiae with His10-EGFP tag and HRV 3C cleavage site | Two Ca2+ ions per subunit, [DDM](/xray-mp-wiki/reagents/detergents/ddm) |
-| doi/10.1038##nature13984 | TBD | 4.0 A | P212121 | Full-length nhTMEM16 (772 residues) from Nectria haematococca, [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine)-labeled, homodimer | [DDM](/xray-mp-wiki/reagents/detergents/ddm) |
-| doi/10.1038##nature13984 | TBD | 3.5 A | P212121 | Full-length nhTMEM16 (772 residues), Ca2+ binding site structure determined by anomalous scattering | Two Ca2+ ions per subunit, [DDM](/xray-mp-wiki/reagents/detergents/ddm) |
-| doi/10.1038##nature13984 | TBD | 4.2 A | P212121 | Full-length nhTMEM16 (772 residues), purified in presence of [EDTA](/xray-mp-wiki/reagents/additives/edta), crystallized without Ca2+ | [DDM](/xray-mp-wiki/reagents/detergents/ddm) |
+| doi/10.1038##nature13984 | 4WIS | 4.0 A | P212121 | Full-length nhTMEM16 (772 residues) from Nectria haematococca, [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine)-labeled, homodimer | [DDM](/xray-mp-wiki/reagents/detergents/ddm) |
+| doi/10.1038##nature13984 | 4WIS | 3.5 A | P212121 | Full-length nhTMEM16 (772 residues), Ca2+ binding site structure determined by anomalous scattering | Two Ca2+ ions per subunit, [DDM](/xray-mp-wiki/reagents/detergents/ddm) |
+| doi/10.1038##nature13984 | 4WIS | 4.2 A | P212121 | Full-length nhTMEM16 (772 residues), purified in presence of [EDTA](/xray-mp-wiki/reagents/additives/edta), crystallized without Ca2+ | [DDM](/xray-mp-wiki/reagents/detergents/ddm) |
 
 ## Expression and Purification
 
@@ -35,7 +35,7 @@ nhTMEM16 is a calcium-activated lipid scramblase from the fungus Nectria haemato
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

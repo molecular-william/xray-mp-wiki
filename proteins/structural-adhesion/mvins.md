@@ -1,5 +1,5 @@
 ---
-title: MvINS - Mycobacterial Insig Homolog from Mycobacterium vanbaalenii
+title: "MvINS - Mycobacterial Insig Homolog from Mycobacterium vanbaalenii"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,8 +21,8 @@ MvINS is a mycobacterial homolog of mammalian Insig proteins, identified from My
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.aab1091 | — | 1.9 | R3 | Full-length MvINS (residues 1-199) | — |
-| doi/10.1126##science.aab1091 | — | 2.1 | — | Full-length MvINS | Diacylglycerol (bromine-derived [DAG](/xray-mp-wiki/reagents/lipids/dag/)) |
+| doi/10.1126##science.aab1091 | 4XU4 | 1.9 | R3 | Full-length MvINS (residues 1-199) | — |
+| doi/10.1126##science.aab1091 | 4XU4 | 2.1 | — | Full-length MvINS | Diacylglycerol (bromine-derived [DAG](/xray-mp-wiki/reagents/lipids/dag/)) |
 
 ## Expression and Purification
 
@@ -36,7 +36,7 @@ MvINS is a mycobacterial homolog of mammalian Insig proteins, identified from My
 - **Expression construct**: Full-length MvINS
 - **Tag info**: —
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

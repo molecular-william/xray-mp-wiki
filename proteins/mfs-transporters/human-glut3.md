@@ -1,5 +1,5 @@
 ---
-title: Human Glucose Transporter 3 (GLUT3)
+title: "Human Glucose Transporter 3 (GLUT3)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -33,7 +33,7 @@ Human [Glucose](/xray-mp-wiki/reagents/additives/glucose/) transporter 3 (GLUT3,
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Prostaglandin E2 Receptor EP3 (Prostanoid EP3 Receptor)
+title: "Prostaglandin E2 Receptor EP3 (Prostanoid EP3 Receptor)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,18 +21,18 @@ The [Prostaglandin E2 (PGE2, Dinoprostone)](/xray-mp-wiki/reagents/ligands/prost
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41589-018-0160-y | Not specified in paper | 2.50 A | Not specified | Human EP3 isoform A (modified), initial Met removed, ICL3 (residues 260-272) replaced with [T4L](/xray-mp-wiki/reagents/t4-lysozyme/) (T4L, A73T), C-terminus truncated after Leu353, Gly286(6.39)Ala mutation | -FA (free acid form of ) |
-| doi/10.1038##s41589-018-0171-8 | Not specified in paper | 2.90 A | P 21 | Human EP3 with mbIIG2 fusion (modified ) in ICL2/ICL3, quadruple thermostabilizing mutations A173I(4.41), V185S(4.53), S258D(5.65), C289L(6.42) | [Prostaglandin E2 (PGE2, Dinoprostone)](/xray-mp-wiki/reagents/ligands/prostaglandin-e2/) (PGE2) |
+| doi/10.1038##s41589-018-0160-y | 6M9T | 2.50 A | Not specified | Human EP3 isoform A (modified), initial Met removed, ICL3 (residues 260-272) replaced with [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) (T4L, A73T), C-terminus truncated after Leu353, Gly286(6.39)Ala mutation | -FA (free acid form of ) |
+| doi/10.1038##s41589-018-0171-8 | 6AK3 | 2.90 A | P 21 | Human EP3 with mbIIG2 fusion (modified ) in ICL2/ICL3, quadruple thermostabilizing mutations A173I(4.41), V185S(4.53), S258D(5.65), C289L(6.42) | [Prostaglandin E2 (PGE2, Dinoprostone)](/xray-mp-wiki/reagents/ligands/prostaglandin-e2/) (PGE2) |
 
 ## Expression and Purification
 
 - **Expression system**: Baculovirus/Sf9 insect cells (Bac-to-Bac system, Invitrogen)
-- **Construct**: Human EP3 receptor. Paper 1 (0160-y): N-terminal HA signal peptide + [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), C-terminal [PreScission Protease](/xray-mp-wiki/reagents/pre-scission-protease/) + 10xHis tag, ICL3 replaced with [T4L](/xray-mp-wiki/reagents/t4-lysozyme/) (A73T). Paper 2 (0171-8): Codon-optimized human EP3 isoform I with N-terminal HA signal + [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) + 3C site, C-terminal 10xHis tag, mbIIG2 fusion in ICL2/ICL3 with GS-rich linker
+- **Construct**: Human EP3 receptor. Paper 1 (0160-y): N-terminal HA signal peptide + [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), C-terminal [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) + 10xHis tag, ICL3 replaced with [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) (A73T). Paper 2 (0171-8): Codon-optimized human EP3 isoform I with N-terminal HA signal + [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) + 3C site, C-terminal 10xHis tag, mbIIG2 fusion in ICL2/ICL3 with GS-rich linker
 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ The Morimoto et al. structure used a quadruple mutant (A173I, V185S, S258D, C289
 - [T4 Lysozyme (T4L)](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — T4L fusion in ICL3 used in the EP3-misoprostol structure (Audet et al.)
 - [Lipidic Cubic Phase (LCP) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used for both EP3 crystal structures
 - [Serial Femtosecond Crystallography (SFX)](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) — XFEL data collection used for the 2.5 A EP3-misoprostol structure
-- [Misoprostol](/xray-mp-wiki/reagents/misoprostol/) — Referenced in ep3-receptor text
+- [Misoprostol](/xray-mp-wiki/reagents/ligands/misoprostol/) — Referenced in ep3-receptor text
 - [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) — Referenced in ep3-receptor text
 - [EDTA](/xray-mp-wiki/reagents/additives/edta/) — Referenced in ep3-receptor text
 - [Mgcl2](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Referenced in ep3-receptor text

@@ -1,5 +1,5 @@
 ---
-title: Chloroplast ATP Synthase c-Ring from Pisum sativum
+title: "Chloroplast ATP Synthase c-Ring from Pisum sativum"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -30,7 +30,7 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1371##journal.pone.0043045 | Not found in text | 3.4 | — |  |  |
+| doi/10.1371##journal.pone.0043045 | 3V3C | 3.4 | — |  |  |
 
 ## Expression and Purification
 
@@ -42,7 +42,7 @@ is conserved and its coordination resembles that of cyanobacterial c-rings.
 - **Expression system**: Pisum sativum var. Alaska (~800 g young leaves)
 - **Expression construct**: Native c-subunit of chloroplast FoF1-ATPase
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

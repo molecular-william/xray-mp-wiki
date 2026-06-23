@@ -1,12 +1,12 @@
 ---
-title: SERCA1a (Sarcoplasmic Reticulum Ca²⁺-ATPase 1a)
+title: "SERCA1a (Sarcoplasmic Reticulum Ca²⁺-ATPase 1a)"
 created: 2026-05-29
 updated: 2026-06-21
 type: protein
 category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
-sources: [doi/10.1038##35015017, doi/10.1038##NSMB.2721, doi/10.1038##SJ.EMBOJ.7601135, doi/10.1038##emboj.2013.250, doi/10.1038##nature00944, doi/10.1038##nature02680, doi/10.1038##nature06418, doi/10.1038##nature11900, doi/10.1016##j.str.2016.02.018, doi/10.1016##J.BMC.2005.12.001, doi/10.1016##j.chembiol.2020.04.002, doi/10.1038##nature22357, doi/10.1038##ncomms1307, doi/10.1073##pnas.0506222102, doi/10.1073##pnas.1815472115, doi/10.1107##S2052252520012312, doi/10.1126##science.1106289, doi/10.1038##nature11899]
+sources: [doi/10.1016##J.BMC.2005.12.001, doi/10.1016##j.chembiol.2020.04.002, doi/10.1016##j.str.2016.02.018, doi/10.1038##35015017, doi/10.1038##NSMB.2721, doi/10.1038##SJ.EMBOJ.7601135, doi/10.1038##emboj.2013.250, doi/10.1038##nature00944, doi/10.1038##nature02680, doi/10.1038##nature06418, doi/10.1038##nature11899, doi/10.1038##nature11900, doi/10.1038##nature22357, doi/10.1038##ncomms1307, doi/10.1073##pnas.0506222102, doi/10.1073##pnas.1815472115, doi/10.1073##pnas.2014896117, doi/10.1107##S2052252520012312, doi/10.1126##science.1106289]
 verified: false
 ---
 
@@ -28,16 +28,16 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
 | doi/10.1038##SJ.EMBOJ.7601135 | 2C88 | 3.1 A | P41212 | Full-length SERCA1a, 994 residues, calcium-free E2 state stabilized with thapsigargin | Thapsigargin, AMPPCP, Mg2+, Na+ |
 | doi/10.1038##SJ.EMBOJ.7601135 | 2C8K | 2.8 A | P41212 | Full-length SERCA1a, 994 residues, calcium-free E2 state stabilized with thapsigargin | Thapsigargin, AMPPCP, Mg2+, Na+ |
 | doi/10.1038##SJ.EMBOJ.7601135 | 2C8L | 3.1 A | P41212 | Full-length SERCA1a, 994 residues, calcium-free E2 state stabilized with thapsigargin, nucleotide-free | Thapsigargin |
-| doi/10.1038##emboj.2013.250 | TBD | 3.5 A | C2 | SERCA1a E309Q mutant, 994 residues, with biotin acceptor domain at C-terminus | Two Ca2+ ions (sites I and II), AMPPCP |
+| doi/10.1038##emboj.2013.250 | 4NAB | 3.5 A | C2 | SERCA1a E309Q mutant, 994 residues, with biotin acceptor domain at C-terminus | Two Ca2+ ions (sites I and II), AMPPCP |
 | doi/10.1038##nature00944 | 1IWO | 3.1 A | P41 | Full-length SERCA1a, 994 residues, calcium-free E2 state stabilized with thapsigargin | Thapsigargin, Mg2+, EGTA, Ca2+ (trace) |
 | doi/10.1038##nature02680 | 1VFP | 2.9 A | P21 | Full-length SERCA1a, 994 residues, E1 state with two Ca2+ ions and AMPPCP | Two Ca2+ ions (sites I and II), AMPPCP, Mg2+ |
-| doi/10.1038##nature06418 | TBD | 2.8 A | C2 | Full-length SERCA1a, 994 residues, E1 state with two Ca2+ ions and AMPPNP (supplementary data) | Two Ca2+ ions (sites I and II), AMPPNP, Mg2+ |
+| doi/10.1038##nature06418 | 3BA6 | 2.8 A | C2 | Full-length SERCA1a, 994 residues, E1 state with two Ca2+ ions and AMPPNP (supplementary data) | Two Ca2+ ions (sites I and II), AMPPNP, Mg2+ |
 | doi/10.1038##nature11900 | 4K5T | 3.1 A | P21212 | Full-length SERCA1a (994 residues) in complex with sarcolipin (SLN, 30 residues) from rabbit skeletal muscle | SLN, Mg2+, AMPPCP, PEG6000, MPD, glycerol |
 | doi/10.1016##j.str.2016.02.018 | 5A3Q | 3.05 A | P1 | Rabbit SERCA1a in E2·VO₃⁻·thapsigargin·TNP-AMPPCP state | VO₃⁻, TNP-AMPPCP, thapsigargin, Mg²⁺, Cl⁻ |
 | doi/10.1016##j.str.2016.02.018 | 5A3R | 3.05 A | P1 | Rabbit SERCA1a in E2·VO₃⁻·TNP-ATP state | VO₃⁻, TNP-ATP, Mg²⁺, Cl⁻ |
 | doi/10.1016##j.str.2016.02.018 | 5A3S | 3.05 A | P1 | Rabbit SERCA1a in E2·BeF₃⁻·TNP-AMPPCP state | BeF₃⁻, TNP-AMPPCP, Mg²⁺, Cl⁻ |
 | doi/10.1016##J.BMC.2005.12.001 | 2by4 | 1.70 A | P4₁2₁2 | Rabbit SERCA1a in E2·AMPPCP complex with thapsigargin derivative (8-O-N-tert-butoxycarbonyl-12-aminododecanoyl-8-O-debutanoylthapsigargin) | AMPPCP, thapsigargin derivative (Boc-12-aminododecanoyl-Tg) |
-| doi/10.1016##j.chembiol.2020.04.002 | Not specified | 3.40 A | P4₁2₁2 | Rabbit SERCA1a in complex with CAD204520 | CAD204520 |
+| doi/10.1016##j.chembiol.2020.04.002 | 6YAA | 3.40 A | P4₁2₁2 | Rabbit SERCA1a in complex with CAD204520 | CAD204520 |
 | doi/10.1038##nature22357 | 5XA7 | 4.5 A | P2₁2₁2₁ | Rabbit SERCA1a in E1·2Ca²⁺ state, full-length 994 residues, visualized by X-ray solvent contrast modulation | Two Ca²⁺ ions |
 | doi/10.1038##nature22357 | 5XA8 | 4.5 A | P2₁2₁2₁ | Rabbit SERCA1a in E1·AlF₄⁻·ADP·2Ca²⁺ state (E1∼P transition state analog), full-length | AlF₄⁻, ADP, two Ca²⁺ ions |
 | doi/10.1038##nature22357 | 5XA9 | 4.5 A | C2 | Rabbit SERCA1a in E2·AlF₄⁻(TG) state (E2∼P transition state analog), C2 symmetry, full-length | AlF₄⁻, thapsigargin |
@@ -45,13 +45,10 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
 | doi/10.1038##nature22357 | 5XAB | 4.5 A | P2₁2₁2₁ | Rabbit SERCA1a in E2(TG) state, thapsigargin-bound calcium-free E2 state, full-length | Thapsigargin |
 | doi/10.1038##ncomms1307 | 2YFY | 3.1 A | P4₁2₁2 | Rabbit SERCA1a in Ca2+-free E2 state, stabilized with debutanoyl thapsigargin (dBTG) | Debutanoyl thapsigargin (dBTG), AMPPCP, Mg2+ |
 | doi/10.1073##pnas.0506222102 | 2AGV | 2.4 A | P4₁ | Rabbit SERCA1a, full-length 994 residues, calcium-free E2 state stabilized with BHQ (dibutyldihydroxybenzene) and thapsigargin (TG) | BHQ (2,5-di-tert-butyl-1,4-dihydroxybenzene), thapsigargin, Na+, three phospholipids (PE), 124 water molecules |
-| doi/10.1073##pnas.1815472115 | TBD | 2.5 A | TBD | Rabbit SERCA1a Glu309Gln mutant, 994 residues, E2 state stabilized with thapsigargin (TG), in presence of decylmaltoside | Thapsigargin, decylmaltoside |
-| doi/10.1073##pnas.1815472115 | TBD | 3.4 A | TBD | Rabbit SERCA1a Glu309Ala mutant, 994 residues, E2 state stabilized with thapsigargin (TG), in presence of decylmaltoside | Thapsigargin, decylmaltoside |
+| doi/10.1073##pnas.1815472115 | 5ZMV | 3.4 A | TBD | Rabbit SERCA1a Glu309Ala mutant, 994 residues, E2 state stabilized with thapsigargin (TG), in presence of decylmaltoside | Thapsigargin, decylmaltoside |
 | doi/10.1107##S2052252520012312 | 6yso | 3.13 | P2₁ | Rabbit SERCA1a full-length, 994 residues, E2·VO₃⁻ state | VO₃⁻ (metavanadate) |
-| doi/10.1038##nature11899 | not specified | 3.0 A | — | Native SERCA1a (994 residues) from rabbit sarcoplasmic reticulum, E1·Mg2+ state with bound sarcolipin (SLN) | Mg2+, sarcolipin |
-| doi/10.1038##nature11899 | not specified | 2.45 A | — | Native SERCA1a (994 residues) from rabbit sarcoplasmic reticulum, E2·SO42- state, inhibitor-free | SO42- (near phosphorylation site Asp351) |
-| doi/10.1038##nature11899 | not specified | 2.5 A | — | Native SERCA1a (994 residues) from rabbit sarcoplasmic reticulum, E2 state, inhibitor-free | None (MgCl2 used instead of MgSO4) |
-| doi/10.1038##nature11899 | not specified | ~3.0 A | — | Recombinant SERCA1a (994 residues) expressed in COS7 cells, E1·Mg2+ state, devoid of sarcolipin | Mg2+ |
+| doi/10.1038##nature11899 | 3W5A | ~3.0 A | — | Recombinant SERCA1a (994 residues) expressed in COS7 cells, E1·Mg2+ state, devoid of sarcolipin | Mg2+ |
+| doi/10.1073##pnas.2014896117 | 6RB2 | 3.2 | P2_1_2_1_2 | Rabbit [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) E340A mutant, Ca2E1 form with bound ATP analog ([AMPPCP](/xray-mp-wiki/reagents/ligands/amppcp/)) | 2 Ca2+ ions, [AMPPCP](/xray-mp-wiki/reagents/ligands/amppcp/), Mg2+ |
 
 ## Expression and Purification
 
@@ -60,22 +57,20 @@ SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticu
 
 ### Purification Workflow
 
-*Source: doi/10.1038##35015017*
+#### Source: doi/10.1038##35015017
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Solubilization | Solubilization using octaethylene glycol mono-n-dodecylether (C13E6) | -- | C13E6 detergent solution + C13E6 (octaethylene glycol mono-n-dodecylether) | Ca²⁺-ATPase prepared from rabbit hind leg muscle and solubilized using C13E6 |
 | Affinity purification | Affinity column chromatography | Affinity column | Buffer composition not explicitly reported + C13E6 | Purified using affinity column chromatography after solubilization |
 
-### Purification Workflow
-
-*Source: doi/10.1038##nature11899*
+#### Source: doi/10.1038##nature11899
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -373,3 +368,15 @@ Sarcolipin (SLN), a 31-residue regulatory membrane protein, binds SERCA1a in a g
 - [Thapsigargin](/xray-mp-wiki/reagents/ligands/thapsigargin/) — Specific SERCA inhibitor used to stabilize the E2 state for crystallization
 - [AMPPCP (Adenosine 5'-[beta,gamma-methylene]triphosphate)](/xray-mp-wiki/reagents/ligands/amppcp/) — Non-hydrolyzable ATP analogue used to trap E1-AMPPCP state revealing ATP-induced domain closure
 - [SERCA E2 to E1 Transition Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/serca-e2-e1-transition/) — Crystal structures of Glu309 mutants reveal the mechanism of the E2→E1 transition triggered by deprotonation of gating residue Glu309
+- [SERCA1a (Sarcoplasmic Reticulum Ca²⁺-ATPase 1a)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — Wild-type parent protein; structural and functional comparison
+- [P-type ATPase Family](/xray-mp-wiki/concepts/protein-families/p-type-atpase/) — SERCA belongs to the P-type ATPase family; E309Q mutation studies illuminate P-type ATPase mechanism
+- [AMP-PNP (Adenylyl-Imidodiphosphate)](/xray-mp-wiki/reagents/ligands/amp-pnp/) — ATP analog used during crystallization and functional assays
+- [Magnesium Chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Cofactor; Mg2+ required for ATP hydrolysis and crystallization
+- [Phosphatidylcholine](/xray-mp-wiki/reagents/lipids/phosphatidylcholine/) — DOPC lipid used in crystallization, coordinated by Arg989 in M10
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Transport mechanism shared by P-type ATPases
+- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
+- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
+- [SERCA1a E309Q Mutant](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — Related SERCA1a point mutant; comparison of domain rearrangement effects
+- [P-type ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/p-type-atpase-mechanism/) — E340A mutation reveals critical role of Glu340 in interdomain communication within the P-type ATPase transport cycle
+- [Large Domain Motion in P-type ATPases](/xray-mp-wiki/concepts/structural-mechanisms/large-domain-motion-in-p-type-atpases/) — E340A structure visualizes altered headpiece positioning and A-domain displacement
+- [Molecular Dynamics Simulation](/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/) — MD simulations (3 x 200 ns in POPC bilayers) confirmed structural observations and revealed altered dynamics

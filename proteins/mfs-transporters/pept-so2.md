@@ -1,5 +1,5 @@
 ---
-title: PepT_So2 Oligopeptide Transporter
+title: "PepT_So2 Oligopeptide Transporter"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -14,15 +14,15 @@ verified: false
 
 ## Overview
 
-PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidensis. It belongs to the POT (proton-dependent oligopeptide transporter) family, a subgroup of the Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/)). PepT_So2 uses a proton gradient to drive the uptake of di- and tri-peptides. The crystal structure reveals an inward open conformation with a central hydrophilic peptide-binding cavity and the first substrate-bound POT structure characterized. PepT_So2 uniquely forms a tetrameric assembly in detergent solution, distinguishing it from other POT family members.
+PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidensis. It belongs to the POT (proton-dependent oligopeptide transporter) family, a subgroup of the Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/)). PepT_So2 uses a proton gradient to drive the uptake of di- and tri-peptides. The crystal structure reveals an inward open conformation with a central hydrophilic peptide-binding cavity and the first substrate-bound POT structure characterized. PepT_So2 uniquely forms a tetrameric assembly in detergent solution, distinguishing it from other POT family members.
 
 
 ## Structure Determination
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##embor.2013.107 | not specified in paper | 3.2 A | P2_1 2_1 2_1 | Full-length PepT_So2 from Shewanella oneidensis, wild-type, inward open conformation, co-crystallized with [Alafosfalin](/xray-mp-wiki/reagents/ligands/alafosfalin/) | [Alafosfalin](/xray-mp-wiki/reagents/ligands/alafosfalin/) (peptidomimetic phosphonodipeptide) |
-| doi/10.1038##embor.2013.107 | not specified in paper | 4.6 A | P3_1 2 1 | Full-length PepT_So2 from Shewanella oneidensis, wild-type, tetrameric assembly | none (crystal form without zinc, showing tetrameric arrangement) |
+| doi/10.1038##embor.2013.107 | 4LEP | 3.2 A | P2_1 2_1 2_1 | Full-length PepT_So2 from Shewanella oneidensis, wild-type, inward open conformation, co-crystallized with [Alafosfalin](/xray-mp-wiki/reagents/ligands/alafosfalin/) | [Alafosfalin](/xray-mp-wiki/reagents/ligands/alafosfalin/) (peptidomimetic phosphonodipeptide) |
+| doi/10.1038##embor.2013.107 | 4LEP | 4.6 A | P3_1 2 1 | Full-length PepT_So2 from Shewanella oneidensis, wild-type, tetrameric assembly | none (crystal form without zinc, showing tetrameric arrangement) |
 | doi/10.1038##nsmb.2860 | 4TPJ | 3.2 A | P2_1 2_1 2_1 | Full-length PepT_So2 from Shewanella oneidensis, wild-type, inward open conformation, co-crystallized with Ala-Ala-Ala ([AAA](/xray-mp-wiki/reagents/ligands/aaa/)) tripeptide | Ala-Ala-Ala ([AAA](/xray-mp-wiki/reagents/ligands/aaa/)) tripeptide |
 | doi/10.1038##nsmb.2860 | 4TPG | 3.91 A | P2_1 2_1 2_1 | Full-length PepT_So2 from Shewanella oneidensis, wild-type, inward open conformation, co-crystallized with Ala-Tyr(L-3,5-diBr)-Ala (AY(Br)A) tripeptide | Ala-Tyr(L-3,5-diBr)-Ala (AY(Br)A) tripeptide |
 | doi/10.1038##nsmb.2860 | 4TPH | 3.16 A | P2_1 2_1 2_1 | Full-length PepT_So2 from Shewanella oneidensis, wild-type, inward open conformation, co-crystallized with Ala-Tyr(L-3,5-diBr) (AY(Br)) dipeptide | Ala-Tyr(L-3,5-diBr) (AY(Br)) dipeptide |
@@ -35,7 +35,7 @@ PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidens
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

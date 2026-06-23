@@ -1,5 +1,5 @@
 ---
-title: NavMs Sodium Channel
+title: "NavMs Sodium Channel"
 created: 2026-05-28
 updated: 2026-06-03
 type: protein

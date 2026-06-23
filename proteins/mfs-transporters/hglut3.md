@@ -1,5 +1,5 @@
 ---
-title: hGLUT3 (Human Glucose Transporter 3)
+title: "hGLUT3 (Human Glucose Transporter 3)"
 created: 2026-06-11
 updated: 2026-06-16
 type: protein
@@ -34,7 +34,7 @@ to [PfHT1 (Plasmodium falciparum Hexose Transporter 1)](/xray-mp-wiki/proteins/m
 | doi/10.1038##nature14655 | 4ZW9 | 1.5 | P2₁ | Human GLUT3(N43T) in complex with D-glucose, outward-occluded conformation | D-Glucose (α- and β-anomers), monoolein |
 | doi/10.1038##nature14655 | 4ZWB | 2.6 | P2₁ | Human GLUT3(N43T) in complex with maltose, outward-open conformation | Maltose |
 | doi/10.1038##nature14655 | 4ZWC | 2.4 | P2₁ | Human GLUT3(N43T) in complex with maltose, outward-occluded conformation | Maltose |
-| doi/10.1073##pnas.2017749118 |  | 2.3 |  | hGLUT3 | [C3361 (PfHT1 Inhibitor)](/xray-mp-wiki/reagents/ligands/c3361/) |
+| doi/10.1073##pnas.2017749118 | 7CRZ | 2.3 |  | hGLUT3 | [C3361 (PfHT1 Inhibitor)](/xray-mp-wiki/reagents/ligands/c3361/) |
 
 ## Expression and Purification
 
@@ -44,7 +44,7 @@ to [PfHT1 (Plasmodium falciparum Hexose Transporter 1)](/xray-mp-wiki/proteins/m
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -121,5 +121,5 @@ with the A motif to stabilize the outward conformation.
 - [hGLUT1 (Human Glucose Transporter 1)](/xray-mp-wiki/proteins/mfs-transporters/hglut1/) — hGLUT3 shares 80% sequence similarity with hGLUT1 and was used as a surrogate for structural studies; comparison of outward-facing GLUT3 with inward-open GLUT1 reveals alternating access mechanism
 - [C3361 (PfHT1 Inhibitor)](/xray-mp-wiki/reagents/ligands/c3361/) — C3361 bound to hGLUT3 was used to study the structural basis of PfHT1 selectivity
 - [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — GLUT3 structures in outward-open, outward-occluded, and comparison with inward-open GLUT1 provide key structural evidence for alternating access in MFS transporters
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — GLUT3 is a member of the MFS with canonical 12-TM fold; the high-resolution structure reveals details of the MFS alternating access cycle
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — GLUT3 is a member of the MFS with canonical 12-TM fold; the high-resolution structure reveals details of the MFS alternating access cycle
 - [Sugar Porter (SP) Family](/xray-mp-wiki/concepts/protein-families/sugar-porter-family/) — hGLUT3 is a member of the Sugar Porter family within MFS; structures provide insights into SP motif function

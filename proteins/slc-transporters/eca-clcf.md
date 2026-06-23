@@ -1,5 +1,5 @@
 ---
-title: Eca CLCF (CLC-type F-/H+ Antiporter from Enterococcus casseliflavus)
+title: "Eca CLCF (CLC-type F-/H+ Antiporter from Enterococcus casseliflavus)"
 created: 2026-06-22
 updated: 2026-06-22
 type: protein
@@ -47,7 +47,7 @@ model of antiport.
 - **Expression construct**: Eca with M4I mutation, C-terminal GSGG-HHHHHH tail
 - **Tag info**: C-terminal hexahistidine, uncleaved
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

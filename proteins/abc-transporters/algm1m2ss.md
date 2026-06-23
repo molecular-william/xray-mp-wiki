@@ -1,5 +1,5 @@
 ---
-title: AlgM1M2SS Alginate ABC Transporter
+title: "AlgM1M2SS Alginate ABC Transporter"
 created: 2026-05-28
 updated: 2026-05-28
 type: protein
@@ -20,7 +20,7 @@ AlgM1M2SS is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.str.2015.06.021 | -- | 3.2 | P212121 | AlgM1(d24)M2(H10)SS(E160Q) in complex with AlgQ2; 24-residue deletion in AlgM1, 10-His tag at C-terminus of AlgM2, E160Q mutation in AlgS | AlgQ2 (periplasmic binding protein), Delta-MMM (unsaturated [Alginate](/xray-mp-wiki/reagents/ligands/alginate/) trisaccharide) |
+| doi/10.1016##j.str.2015.06.021 | 4TQU | 3.2 | P212121 | AlgM1(d24)M2(H10)SS(E160Q) in complex with AlgQ2; 24-residue deletion in AlgM1, 10-His tag at C-terminus of AlgM2, E160Q mutation in AlgS | AlgQ2 (periplasmic binding protein), Delta-MMM (unsaturated [Alginate](/xray-mp-wiki/reagents/ligands/alginate/) trisaccharide) |
 
 ## Expression and Purification
 
@@ -30,7 +30,7 @@ AlgM1M2SS is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ AlgM1M2SS is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC
 |---|---|
 | Method | Hanging-drop vapor diffusion |
 | Protein sample | 7 mg/ml AlgM1(d24)M2(H10)SS(E160Q), 3 mg/ml AlgQ2, 1 mM Delta-MMM, 3.6 mM [DM](/xray-mp-wiki/reagents/detergents/dm/), 16 mM [CHAPSO](/xray-mp-wiki/reagents/detergents/chapso/) |
-| Reservoir | 18% [PEG 3000](/xray-mp-wiki/reagents/peg3000/), 0.15 M NaCl, 0.1 M N-(2-acetamido)iminodiacetic acid (pH 6.6) |
+| Reservoir | 18% [PEG 3000](/xray-mp-wiki/reagents/additives/peg3000/), 0.15 M NaCl, 0.1 M N-(2-acetamido)iminodiacetic acid (pH 6.6) |
 | Temperature | -- |
 | Growth time | -- |
 | Cryoprotection | -- |
@@ -67,7 +67,7 @@ AlgM1M2SS is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC
 
 ### Inward-facing conformation of AlgM1M2SS
 
-The crystal structure of AlgM1M2SS in complex with AlgQ2 adopts an inward-facing conformation, with AlgM1 and AlgM2 open to the cytoplasm and the [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding sites of the AlgS dimer widely separated. This conformation is similar to the resting state of the [Maltose](/xray-mp-wiki/reagents/substrates/maltose/) transporter MalFGK2 without its binding protein MalE. Unlike the [Maltose](/xray-mp-wiki/reagents/substrates/maltose/) transporter which undergoes conformational changes upon solute-binding protein interaction, AlgM1M2SS binds AlgQ2 without conformational change, suggesting the ABC transporter in the resting state conformation can bind solute-binding protein directly.
+The crystal structure of AlgM1M2SS in complex with AlgQ2 adopts an inward-facing conformation, with AlgM1 and AlgM2 open to the cytoplasm and the [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding sites of the AlgS dimer widely separated. This conformation is similar to the resting state of the [Maltose](/xray-mp-wiki/reagents/additives/maltose/) transporter MalFGK2 without its binding protein MalE. Unlike the [Maltose](/xray-mp-wiki/reagents/additives/maltose/) transporter which undergoes conformational changes upon solute-binding protein interaction, AlgM1M2SS binds AlgQ2 without conformational change, suggesting the ABC transporter in the resting state conformation can bind solute-binding protein directly.
 
 ### Tunnel-like alginate translocation route
 
@@ -75,7 +75,7 @@ The interaction between AlgQ2 and AlgM1M2SS induces the formation of an [Alginat
 
 ### Charged inner cavity for acidic saccharide import
 
-The translocation route inside the transmembrane domains contains charged residues suitable for the import of acidic saccharides. Charged residues in the cavity include AlgM1 Lys195, Glu196, Asp200, Arg249, Glu259, and AlgM2 Arg209. Histidine residues AlgM1 His141 and His252 are also present. Mutagenesis of H141A and E196A decreased both ATPase and transport activities to less than 50%, while E259A, R209A, and E196A/E259A mutants showed transport activities below 40%. This contrasts with the [Maltose](/xray-mp-wiki/reagents/substrates/maltose/) transporter, which lacks charged residues in its inner cavity.
+The translocation route inside the transmembrane domains contains charged residues suitable for the import of acidic saccharides. Charged residues in the cavity include AlgM1 Lys195, Glu196, Asp200, Arg249, Glu259, and AlgM2 Arg209. Histidine residues AlgM1 His141 and His252 are also present. Mutagenesis of H141A and E196A decreased both ATPase and transport activities to less than 50%, while E259A, R209A, and E196A/E259A mutants showed transport activities below 40%. This contrasts with the [Maltose](/xray-mp-wiki/reagents/additives/maltose/) transporter, which lacks charged residues in its inner cavity.
 
 ### Substrate specificity and transport range
 
@@ -84,7 +84,7 @@ AlgM1M2SS specifically transports oligoalginate trisaccharides to heptasaccharid
 
 ## Cross-References
 
-- [AcrB Multidrug Efflux Pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — AcrB is a related ABC transporter from E. coli, providing comparative framework for ABC transporter structure-function analysis
+- [AcrB Multidrug Efflux Pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — AcrB is a related ABC transporter from E. coli, providing comparative framework for ABC transporter structure-function analysis
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM tested for AlgM1M2SS solubilization in ATPase activity assays
 - [3-[(3-Cholamidopropyl)dimethylammonio]-1-propanesulfonate (CHAPSO)](/xray-mp-wiki/reagents/detergents/chapso/) — CHAPSO used in crystallization sample solution for AlgM1M2SS/AlgQ2 complex
 - [Tris (Tris-Hydroxymethyl-Aminomethane)](/xray-mp-wiki/reagents/buffers/tris/) — Tris-HCl buffer (pH 8.0) used in purification and functional assays
@@ -93,4 +93,4 @@ AlgM1M2SS specifically transports oligoalginate trisaccharides to heptasaccharid
 - [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Key concept related to this protein
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein mentioned in the study
 - [MalG (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/abc-transporters/malG/) — Related protein mentioned in the study
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Related protein mentioned in the study
+- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Related protein mentioned in the study

@@ -1,5 +1,5 @@
 ---
-title: Delta14-sterol reductase MaSR1 from Methylomicrobium alcaliphilum
+title: "Delta14-sterol reductase MaSR1 from Methylomicrobium alcaliphilum"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -20,7 +20,7 @@ MaSR1 is a Delta14-sterol reductase from the methanotrophic bacterium Methylomic
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature13797 | unknown | 2.6 | unknown | Full-length MaSR1 with N-terminal 8-His tag, NADPH-bound | NADPH |
+| doi/10.1038##nature13797 | 4QUV | 2.6 | unknown | Full-length MaSR1 with N-terminal 8-His tag, NADPH-bound | NADPH |
 
 ## Expression and Purification
 
@@ -30,7 +30,7 @@ MaSR1 is a Delta14-sterol reductase from the methanotrophic bacterium Methylomic
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

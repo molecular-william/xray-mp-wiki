@@ -1,5 +1,5 @@
 ---
-title: NavSulP (Sulfitobacter pontiacus Voltage-Gated Sodium Channel)
+title: "NavSulP (Sulfitobacter pontiacus Voltage-Gated Sodium Channel)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ helix required for inactivation.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##ncomms1797 | N/A | 3.2 | P3121 | NaK-NavSulP C239 chimera channel (NavSulP C-terminal region grafted into NaK channel) | None |
+| doi/10.1038##ncomms1797 | 3VOU | 3.2 | P3121 | NaK-NavSulP C239 chimera channel (NavSulP C-terminal region grafted into NaK channel) | None |
 
 ## Expression and Purification
 
@@ -44,7 +44,7 @@ helix required for inactivation.
 - **Expression construct**: Full-length NavSulP with C-terminal His-tag
 - **Tag info**: C-terminal His-tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

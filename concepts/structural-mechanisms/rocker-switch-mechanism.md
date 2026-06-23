@@ -34,5 +34,5 @@ Like gated pores, rocker-switch transporters use electrochemical gradient-driven
 - [Gated-Pore Mechanism]() — Complementary alternating access mechanism with smaller conformational changes
 
 ## Cross-References
-- [Major Facilitator Superfamily](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — MFS transporters are the canonical examples of the rocker-switch mechanism
+- [Major Facilitator Superfamily](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — MFS transporters are the canonical examples of the rocker-switch mechanism
 - [Rocking Bundle Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rocking-bundle-mechanism/) — Related alternating access mechanism with similar domain movements

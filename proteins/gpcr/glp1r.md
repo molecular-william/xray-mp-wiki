@@ -1,5 +1,5 @@
 ---
-title: Human Glucagon-Like Peptide-1 Receptor (GLP-1R)
+title: "Human Glucagon-Like Peptide-1 Receptor (GLP-1R)"
 created: 2026-06-03
 updated: 2026-06-09
 type: protein
@@ -33,7 +33,7 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
  | NAM [Compound PI1 (5-(4-bromophenyl)-2-(4-bromophenethyl)-1H-isoindole-1,3(2H)-dione)](/xray-mp-wiki/reagents/ligands/compound-pi1/) (5-(4-bromophenyl)-2-(4-bromophenethyl)-1H-isoindole-1,3(2H)-dione) (5-(4-bromophenyl)-2-(4-bromophenethyl)-1H-isoindole-1,3(2H)-dione) (negative allosteric modulator) |
 | doi/10.1107##S2052252519013496 | 6KK7 | Not specified | Not specified | GLP-1R TMD back-mutation variant with specific [Constitutive Active GPCR Mutations](/xray-mp-wiki/concepts/signaling-receptors/constitutive-active-gpcr-mutations/) reverted to assess contribution to thermostability and [Single-Crystal Microspectrophotometry](/xray-mp-wiki/methods/structure-determination/single-crystal-microspectrophotometry/) [Apolar Side-Chain Packing in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/apolar-side-chain-packing/) in Membrane Proteins in Membrane Proteins
  | NAM [Compound PI1 (5-(4-bromophenyl)-2-(4-bromophenethyl)-1H-isoindole-1,3(2H)-dione)](/xray-mp-wiki/reagents/ligands/compound-pi1/) (5-(4-bromophenyl)-2-(4-bromophenethyl)-1H-isoindole-1,3(2H)-dione) (5-(4-bromophenyl)-2-(4-bromophenethyl)-1H-isoindole-1,3(2H)-dione) (negative allosteric modulator) |
-| doi/10.1038##s41467-020-14934-5 | not specified | 3.2 | Not specified | Full-length human GLP-1R (residues R24-L422) with thermostabilizing [Constitutive Active GPCR Mutations](/xray-mp-wiki/concepts/signaling-receptors/constitutive-active-gpcr-mutations/) (S193C, I196F, S225A, M233C, S271A, I317C, G318I, K346A, C347F, G361C, E387D), [Rubredoxin Fusion Protein](/xray-mp-wiki/reagents/protein-tags/rubredoxin/) Fusion Protein [SMO-FLA Fusion Construct (SMO-Flavodoxin)](/xray-mp-wiki/proteins/gpcr/smoothened-fla-fusion/) (SMO-Flavodoxin) (SMO-Flavodoxin) in ICL2, HA-FLAG-10xHis-TEV at N-terminus, co-crystallized with Fab7F38 [8B6 Monoclonal Antibody (SERT-specific)](/xray-mp-wiki/reagents/antibodies/8b6-antibody/) (SERT-specific) (SERT-specific) fragment and NAM [PF-06372222](/xray-mp-wiki/reagents/ligands/pf-06372222/)
+| doi/10.1038##s41467-020-14934-5 | 6LN2 | 3.2 | Not specified | Full-length human GLP-1R (residues R24-L422) with thermostabilizing [Constitutive Active GPCR Mutations](/xray-mp-wiki/concepts/signaling-receptors/constitutive-active-gpcr-mutations/) (S193C, I196F, S225A, M233C, S271A, I317C, G318I, K346A, C347F, G361C, E387D), [Rubredoxin Fusion Protein](/xray-mp-wiki/reagents/protein-tags/rubredoxin/) Fusion Protein [SMO-FLA Fusion Construct (SMO-Flavodoxin)](/xray-mp-wiki/proteins/gpcr/smoothened-fla-fusion/) (SMO-Flavodoxin) (SMO-Flavodoxin) in ICL2, HA-FLAG-10xHis-TEV at N-terminus, co-crystallized with Fab7F38 [8B6 Monoclonal Antibody (SERT-specific)](/xray-mp-wiki/reagents/antibodies/8b6-antibody/) (SERT-specific) (SERT-specific) fragment and NAM [PF-06372222](/xray-mp-wiki/reagents/ligands/pf-06372222/)
  | [PF-06372222](/xray-mp-wiki/reagents/ligands/pf-06372222/) (negative allosteric modulator), Fab7F38 (antibody fragment) |
 
 ## Expression and Purification
@@ -46,13 +46,13 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature22800*
+#### Source: doi/10.1038##nature22800
 
 - **Expression system**: HEK293T cells
 - **Expression construct**: Full-length human GLP-1R StaR (T207E, Q211A, D215R, L232F, G295A, T298A, C329A, P358A, G361A, H363V, V405A)
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -60,15 +60,13 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
 | Solubilization | Detergent solubilization | -- | 50 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 150 mM NaCl + 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (DDM) | StaR generated using scanning mutagenesis approach. Solubilized in [DDM](/xray-mp-wiki/reagents/detergents/ddm/) supplemented with [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) (CHS)
  |
 
-### Purification Workflow
-
-*Source: doi/10.1038##nature22378*
+#### Source: doi/10.1038##nature22378
 
 - **Expression system**: Sf9 insect cells
 - **Expression construct**: GLP-1R TMD (residues 128-431) with N-terminal 10xHis-[BRIL (Thermostabilized Apocytochrome b562RIL)](/xray-mp-wiki/reagents/protein-tags/bril/) (Thermostabilized Apocytochrome b562RIL) (Thermostabilized Apocytochrome b562RIL)-TEV-GPCR, [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) [SMO-FLA Fusion Construct (SMO-Flavodoxin)](/xray-mp-wiki/proteins/gpcr/smoothened-fla-fusion/) (SMO-Flavodoxin) (SMO-Flavodoxin) at ICL2, 10 [Constitutive Active GPCR Mutations](/xray-mp-wiki/concepts/signaling-receptors/constitutive-active-gpcr-mutations/) (S193C, I196F, S225A, M233C, S271A, I317C, G318I, K346A, C347F, G361C)
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -76,7 +74,7 @@ The human glucagon-like Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncat
 | Solid-Supported Membrane Electrophysiology wash | High-salt wash | — | 10 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 1 M NaCl, 20 mM KCl, 10 mM [Magnesium Chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/) (MgCl₂) + -- | Washed twice with low-salt [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) (Tris-HCl Buffer) (Tris(hydroxymethyl)aminomethane), three times with high-salt [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) (Tris-HCl Buffer) (Tris(hydroxymethyl)aminomethane) |
 | Turkey Beta1-Adrenergic Receptor Ligand-Free Basal State incubation | Pre-incubation with NAM | -- | 2 mg/ml [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/), [EDTA](/xray-mp-wiki/reagents/additives/edta/)-free [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) [G907 (Quinoline MsbA Inhibitor)](/xray-mp-wiki/reagents/ligands/g907-quinoline-msba-inhibitor/) (Quinoline MsbA Inhibitor) (Quinoline MsbA Inhibitor) cocktail | Purified membranes incubated with 200 uM [PF-06372222](/xray-mp-wiki/reagents/ligands/pf-06372222/) or [NNC0640](/xray-mp-wiki/reagents/ligands/nn-c0640/) for 45 min before solubilization
  |
-| Solubilization | Detergent solubilization | -- | 25 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 500 mM NaCl, 5% GlpF, 0.01% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (DDM) + [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) (CHS) | [BRIL (Thermostabilized Apocytochrome b562RIL)](/xray-mp-wiki/reagents/protein-tags/bril/) (Thermostabilized Apocytochrome b562RIL) (Thermostabilized Apocytochrome b562RIL) [SMO-FLA Fusion Construct (SMO-Flavodoxin)](/xray-mp-wiki/proteins/gpcr/smoothened-fla-fusion/) (SMO-Flavodoxin) (SMO-Flavodoxin) removed by [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) (Tobacco Etch Virus Protease) (Tobacco Etch Virus Protease) [si-Face Cleavage in Rhomboid Proteases](/xray-mp-wiki/concepts/enzyme-mechanisms/si-face-cleavage/) in Rhomboid Proteases in Rhomboid Proteases during purification |
+| Solubilization | Detergent solubilization | -- | 25 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 500 mM NaCl, 5% GlpF, 0.01% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (DDM) + [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) (CHS) | [BRIL (Thermostabilized Apocytochrome b562RIL)](/xray-mp-wiki/reagents/protein-tags/bril/) (Thermostabilized Apocytochrome b562RIL) (Thermostabilized Apocytochrome b562RIL) [SMO-FLA Fusion Construct (SMO-Flavodoxin)](/xray-mp-wiki/proteins/gpcr/smoothened-fla-fusion/) (SMO-Flavodoxin) (SMO-Flavodoxin) removed by [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/additives/tev-protease/) (Tobacco Etch Virus Protease) (Tobacco Etch Virus Protease) [si-Face Cleavage in Rhomboid Proteases](/xray-mp-wiki/concepts/enzyme-mechanisms/si-face-cleavage/) in Rhomboid Proteases in Rhomboid Proteases during purification |
 
 
 ## Crystallization
@@ -136,8 +134,8 @@ providing a basis for [GAS Selectivity Filter](/xray-mp-wiki/concepts/transport-
 
 The NAMs insert into the cleft between helices VI and VII, restricting movement
 of the Intracellular Allosteric Antagonism tip of Helix Shift Mechanism for Carboxylate Drug Transport VI away from Helix Shift Mechanism for Carboxylate Drug Transport VII, which is required for
-G-Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea GPCR-G Protein Coupling Mechanism. The [Engineered Disulfide Bridge Conformational Trapping](/xray-mp-wiki/concepts/structural-mechanisms/engineered-disulfide-bridge-trapping/) [Engineered Disulfide Bridge Conformational Trapping](/xray-mp-wiki/concepts/structural-mechanisms/engineered-disulfide-bridge-trapping/) bond I317C-G361C further [Ionic Locks in MFS Transporters](/xray-mp-wiki/concepts/transport-mechanisms/ionic-locks-mfs/) in [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) Transporters in [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) Transporters the
-Mouse 5-HT3A Receptor in an GPCR Inactive Conformation GPCR Inactive Conformation. The NAM-[Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters](/xray-mp-wiki/concepts/transport-mechanisms/alternating-ion-bound-configurations/) in K+ Channel Selectivity Filters in K+ Channel Selectivity Filters structures feature an [Ionic Locks in MFS Transporters](/xray-mp-wiki/concepts/transport-mechanisms/ionic-locks-mfs/) in [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) Transporters in [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) Transporters
+G-Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea GPCR-G Protein Coupling Mechanism. The [Engineered Disulfide Bridge Conformational Trapping](/xray-mp-wiki/concepts/structural-mechanisms/engineered-disulfide-bridge-trapping/) [Engineered Disulfide Bridge Conformational Trapping](/xray-mp-wiki/concepts/structural-mechanisms/engineered-disulfide-bridge-trapping/) bond I317C-G361C further [Ionic Locks in MFS Transporters](/xray-mp-wiki/concepts/transport-mechanisms/ionic-locks-mfs/) in [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) Transporters in [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) Transporters the
+Mouse 5-HT3A Receptor in an GPCR Inactive Conformation GPCR Inactive Conformation. The NAM-[Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters](/xray-mp-wiki/concepts/transport-mechanisms/alternating-ion-bound-configurations/) in K+ Channel Selectivity Filters in K+ Channel Selectivity Filters structures feature an [Ionic Locks in MFS Transporters](/xray-mp-wiki/concepts/transport-mechanisms/ionic-locks-mfs/) in [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) Transporters in [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) Transporters
 lock [Cross-Protomer Interactions in Proteorhodopsin Oligomers](/xray-mp-wiki/concepts/structural-mechanisms/cross-protomer-interaction-proteorhodopsin/) in Proteorhodopsin Oligomers in Proteorhodopsin Oligomers [Polar Network in GPCR Activation](/xray-mp-wiki/concepts/signaling-receptors/polar-network-gpcr-activation/) in GPCR Activation in GPCR Activation involving H180(2.50b), E247(3.50b), R348(6.37b), and
 E408(7.63b) that stabilizes the GPCR Inactive Conformation GPCR Active State High-Affinity Agonist Binding.
 
@@ -145,7 +143,7 @@ E408(7.63b) that stabilizes the GPCR Inactive Conformation GPCR Active State Hig
 
 Molecular Docking Molecular Dynamics Simulation simulations [Structure-Based Design of Third-Generation Antipsychotics](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) on the NAM-[Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters](/xray-mp-wiki/concepts/transport-mechanisms/alternating-ion-bound-configurations/) in K+ Channel Selectivity Filters in K+ Channel Selectivity Filters structures suggest that
 GPCR Active State High-Affinity Agonist Binding PAMs (e.g., compound 2) bind between helices V and VI, disrupting the
-[Ionic Locks in MFS Transporters](/xray-mp-wiki/concepts/transport-mechanisms/ionic-locks-mfs/) in [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) Transporters in [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) Transporters lock [Polar Network in GPCR Activation](/xray-mp-wiki/concepts/signaling-receptors/polar-network-gpcr-activation/) in GPCR Activation in GPCR Activation and inducing unwinding of the N-terminal end of Helix Shift Mechanism for Carboxylate Drug Transport VI.
+[Ionic Locks in MFS Transporters](/xray-mp-wiki/concepts/transport-mechanisms/ionic-locks-mfs/) in [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) Transporters in [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) Transporters lock [Polar Network in GPCR Activation](/xray-mp-wiki/concepts/signaling-receptors/polar-network-gpcr-activation/) in GPCR Activation in GPCR Activation and inducing unwinding of the N-terminal end of Helix Shift Mechanism for Carboxylate Drug Transport VI.
 This exposes a G-Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea AChBP cavity similar to that seen in active class A
 GPCRs. The residue R176(2.46b) was identified as having a role analogous to
 the [Conserved Core Triad in GPCR Activation](/xray-mp-wiki/concepts/signaling-receptors/conserved-core-triad/) in GPCR Activation in GPCR Activation R(3.50) in class A GPCRs for G-Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea GPCR-G Protein Coupling Mechanism.

@@ -1,5 +1,5 @@
 ---
-title: PspR (DTG Rhodopsin from Pseudomonas putida)
+title: "PspR (DTG Rhodopsin from Pseudomonas putida)"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -30,7 +30,7 @@ PspR is a light-driven outward proton-pumping microbial rhodopsin from Pseudomon
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

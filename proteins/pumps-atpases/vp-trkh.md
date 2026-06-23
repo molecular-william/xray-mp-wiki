@@ -1,5 +1,5 @@
 ---
-title: TrkH from Vibrio parahaemolyticus (VpTrkH)
+title: "TrkH from Vibrio parahaemolyticus (VpTrkH)"
 created: 2026-06-09
 updated: 2026-06-09
 type: protein
@@ -21,10 +21,10 @@ verified: false
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature09731 | -- | 3.5 | P2(1)2(1)2(1) | Full-length VpTrkH with C-terminal deca-histidine tag; expressed in Escherichia coli; SeMet-labeled for phasing | K+ |
-| doi/10.1038##nature09731 | -- | 3.5 | P2(1)2(1)2(1) | Full-length VpTrkH with C-terminal deca-histidine tag | Rb+ |
-| doi/10.1038##nature09731 | -- | 4.2 | P2(1)2(1)2(1) | Full-length VpTrkH with C-terminal deca-histidine tag | Ba2+ |
-| doi/10.1038##nature09731 | -- | 3.9 | P2(1)2(1)2(1) | SeMet-labeled full-length VpTrkH with C-terminal deca-histidine tag; used for SAD phasing | -- |
+| doi/10.1038##nature09731 | 3PJZ | 3.5 | P2(1)2(1)2(1) | Full-length VpTrkH with C-terminal deca-histidine tag; expressed in Escherichia coli; SeMet-labeled for phasing | K+ |
+| doi/10.1038##nature09731 | 3PJZ | 3.5 | P2(1)2(1)2(1) | Full-length VpTrkH with C-terminal deca-histidine tag | Rb+ |
+| doi/10.1038##nature09731 | 3PJZ | 4.2 | P2(1)2(1)2(1) | Full-length VpTrkH with C-terminal deca-histidine tag | Ba2+ |
+| doi/10.1038##nature09731 | 3PJZ | 3.9 | P2(1)2(1)2(1) | SeMet-labeled full-length VpTrkH with C-terminal deca-histidine tag; used for SAD phasing | -- |
 
 ## Expression and Purification
 
@@ -34,7 +34,7 @@ verified: false
 - **Expression construct**: Full-length VpTrkH with C-terminal deca-histidine tag; expressed with [IPTG](/xray-mp-wiki/reagents/additives/iptg/) induction; SeMet-labeled for phasing in minimal medium supplemented with [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/)
 - **Tag info**: C-terminal deca-histidine tag, cleaved by TEV protease
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

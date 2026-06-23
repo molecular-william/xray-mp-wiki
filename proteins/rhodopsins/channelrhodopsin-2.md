@@ -1,5 +1,5 @@
 ---
-title: Channelrhodopsin 2 (ChR2) from Chlamydomonas reinhardtii
+title: "Channelrhodopsin 2 (ChR2) from Chlamydomonas reinhardtii"
 created: 2026-06-10
 updated: 2026-06-10
 type: protein
@@ -29,8 +29,8 @@ basis for ion conduction and gating regulation.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.aan8862 |  | 2.4 | — | Wild-type ChR2 (residues 1-315, C-terminal truncation) |  |
-| doi/10.1126##science.aan8862 |  | 2.7 | — | C128T mutant ChR2 (residues 1-315, C-terminal truncation) |  |
+| doi/10.1126##science.aan8862 | 6EID | 2.4 | — | Wild-type ChR2 (residues 1-315, C-terminal truncation) |  |
+| doi/10.1126##science.aan8862 | 6EID | 2.7 | — | C128T mutant ChR2 (residues 1-315, C-terminal truncation) |  |
 
 ## Expression and Purification
 
@@ -43,7 +43,7 @@ basis for ion conduction and gating regulation.
 - **Expression system**: LEXSY (Leishmania tarentolae)
 - **Expression construct**: C-terminal polyhistidine tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

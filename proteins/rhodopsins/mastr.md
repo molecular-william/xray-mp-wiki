@@ -1,5 +1,5 @@
 ---
-title: MastR (Mastigocladopsis repens Rhodopsin)
+title: "MastR (Mastigocladopsis repens Rhodopsin)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -32,7 +32,7 @@ MastR (Mastigocladopsis repens rhodopsin, also known as MrHR) is a cyanobacteria
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

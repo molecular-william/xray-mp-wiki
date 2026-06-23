@@ -1,5 +1,5 @@
 ---
-title: WzxE - Lipid III Flippase from Escherichia coli
+title: "WzxE - Lipid III Flippase from Escherichia coli"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -48,7 +48,7 @@ and transport. WzxE shows high structural similarity to [NorM-VC (Vibrio cholera
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Fluoride Channel from B. pertussis (Bpe)
+title: "Fluoride Channel from B. pertussis (Bpe)"
 created: 2026-05-29
 updated: 2026-05-29
 type: protein
@@ -35,7 +35,7 @@ The fluoride channel from [Bordetella pertussis](/xray-mp-wiki/organisms/bordete
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ The Bpe-S8 monobody interface is ~950 A^2 and mainly hydrophobic. Hydrogen bonds
 - [Monobody S7](/xray-mp-wiki/reagents/protein-tags/monobody-s7/) — Engineered protein inhibitor used to crystallize Bpe-S7 complex (PDB 5A40, 3.6 A)
 - [Monobody L2](/xray-mp-wiki/reagents/protein-tags/monobody-l2/) — Engineered protein inhibitor used to crystallize Bpe-L2 complex (PDB 5A41, 2.1 A)
 - [Monobody S9](/xray-mp-wiki/reagents/protein-tags/monobody-s9/) — Engineered protein inhibitor used to crystallize Ec2-S9 complex (PDB 5A43); homologous monobody family
-- [Fluoride Channel from E. coli (Ec2)](/xray-mp-wiki/proteins/other-ion-channels/ec2-fluoride-channel/) — Ec2 is the E. coli Fluc homologue; identical fold with 33% sequence identity; Ec2-S9 structure confirms conserved F- binding sites
+- [Fluoride Channel from E. coli (Ec2)](/xray-mp-wiki/proteins/other-ion-channels/fluc-ec2/) — Ec2 is the E. coli Fluc homologue; identical fold with 33% sequence identity; Ec2-S9 structure confirms conserved F- binding sites
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for Bpe purification and crystallization (5 mM)
 - [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer used in Bpe purification and crystallization (10 mM, pH 7.0)
 - [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/) — NaF used in Bpe purification buffer (100 mM) for fluoride channel activity

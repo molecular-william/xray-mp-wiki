@@ -1,5 +1,5 @@
 ---
-title: Escherichia coli Apolipoprotein N-Acyl Transferase (Lnt)
+title: "Escherichia coli Apolipoprotein N-Acyl Transferase (Lnt)"
 created: 2026-06-03
 updated: 2026-06-09
 type: protein
@@ -44,10 +44,10 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
 
 ### Purification Workflow
 
-*Source: doi/10.1038##ncomms15948*
+#### Source: doi/10.1038##ncomms15948
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -56,12 +56,10 @@ Apolipoprotein N-acyl transferase (Lnt) from Escherichia coli is a 512-residue i
 | Solubilization | Detergent solubilization | -- | Lysis buffer + 2% n-decyl-beta-D-maltopyranoside | Membrane pellet dissolved in buffer with 2% n-decyl-beta-D-maltopyranoside at 4 C for 1 h |
 | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) | Ni-[Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta) | Lysis buffer with 2% n-decyl-beta-D-maltopyranoside + 2% n-decyl-beta-D-maltopyranoside | Tagged proteins in supernatant purified by Ni-[Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) |
 
-### Purification Workflow
-
-*Source: doi/10.1038##ncomms15952*
+#### Source: doi/10.1038##ncomms15952
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

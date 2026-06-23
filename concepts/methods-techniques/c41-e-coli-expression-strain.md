@@ -27,6 +27,6 @@ E. coli C41 is a genetically engineered expression strain derived from E. coli B
 
 ## Cross-References
 - [CaiT Carnitine Antiporter from Escherichia coli](/xray-mp-wiki/proteins/slc-transporters/cait/) — CaiT was expressed in E. coli C41 cells using pET28-derivative vector
-- [Baculovirus Expression System](/xray-mp-wiki/methods/baculovirus-expression-system/) — Alternative expression system for membrane proteins; C41 is the bacterial alternative
-- [Sf9 Insect Cell Expression System](/xray-mp-wiki/methods/sf9-expression-system/) — Alternative eukaryotic expression system for membrane proteins; C41 provides bacterial alternative
+- [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Alternative expression system for membrane proteins; C41 is the bacterial alternative
+- [Sf9 Insect Cell Expression System](/xray-mp-wiki/methods/expression-systems/sf9-expression-system/) — Alternative eukaryotic expression system for membrane proteins; C41 provides bacterial alternative
 - [ExbD (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/exbD/) — Related protein structure

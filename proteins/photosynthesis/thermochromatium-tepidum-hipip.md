@@ -1,5 +1,5 @@
 ---
-title: High-Potential Iron-Sulfur Protein (HiPIP) from Thermochromatium tepidum
+title: "High-Potential Iron-Sulfur Protein (HiPIP) from Thermochromatium tepidum"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -21,7 +21,7 @@ The high-potential iron-sulfur protein (HiPIP) from the thermophilic purple sulf
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.240224997 |  | 1.5 | P2(1)2(1)2(1) | Full-length HiPIP (83 residues) from Tch. tepidum | [4Fe-4S] cluster |
+| doi/10.1073##pnas.240224997 | 1EYS | 1.5 | P2(1)2(1)2(1) | Full-length HiPIP (83 residues) from Tch. tepidum | [4Fe-4S] cluster |
 
 ## Expression and Purification
 

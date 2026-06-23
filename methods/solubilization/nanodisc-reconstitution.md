@@ -65,11 +65,11 @@ Nanodisc reconstitution is a technique for embedding membrane proteins into smal
 
 ## Related Methods
 
-- [Bicelle Crystallization](/xray-mp-wiki/methods/solubilization/bicelle-crystallization/) — Another lipid-based membrane protein technique using [DMPC](/xray-mp-wiki/reagents/lipids/dmpc/)/CHAPSO bicelles
+- [Bicelle Crystallization](/xray-mp-wiki/methods/crystallization/bicelle-crystallization/) — Another lipid-based membrane protein technique using [DMPC](/xray-mp-wiki/reagents/lipids/dmpc/)/CHAPSO bicelles
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — SEC used for nanodisc size selection and sample homogeneity assessment
 
 ## Related Reagents
 
 - [DMPC (1,2-Dimyristoyl-sn-glycero-3-phosphocholine)](/xray-mp-wiki/reagents/lipids/dmpc/) — Phospholipid component for nanodisc bilayer
 - [Adenosine Triphosphate (ATP)](/xray-mp-wiki/reagents/ligands/atp/) — Substrate for ATPase activity measurement
-- [Nicotinamide Adenine Dinucleotide (NADH)](/xray-mp-wiki/reagents/additives/nadh/) — Coupled enzyme system for ATPase assay (absorption at 340 nm)
+- [Nicotinamide Adenine Dinucleotide (NADH)](/xray-mp-wiki/reagents/cofactors/nadh/) — Coupled enzyme system for ATPase assay (absorption at 340 nm)

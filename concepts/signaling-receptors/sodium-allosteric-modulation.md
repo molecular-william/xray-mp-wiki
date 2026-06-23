@@ -35,7 +35,7 @@ The Na+ ion binds to a conserved site in the transmembrane core of class A GPCRs
 
 ## Cross-References
 - [Human Delta-Opioid Receptor (OPRD1)](/xray-mp-wiki/proteins/gpcr/delta-opioid-receptor/) — Detailed characterization of allosteric sodium site at 1.8 A
-- [Adenosine A2A Receptor D52N Mutant](/xray-mp-wiki/proteins/gpcr/a2aar-d52n/) — Key residue D2.50 identified as Na+ coordination site in A2A receptor
+- [Adenosine A2A Receptor D52N Mutant](/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/) — Key residue D2.50 identified as Na+ coordination site in A2A receptor
 - [Rat Neurotensin Receptor 1 (NTSR1)](/xray-mp-wiki/proteins/gpcr/neurotensin-receptor-1/) — NTSR1-D113 (2.50) mutation abolishes Na+ sensitivity
 - [Efficacy Switches in GPCR Signaling](/xray-mp-wiki/concepts/signaling-receptors/efficacy-switches/) — Sodium-coordinating residues function as efficacy switches
 - [Guinea Pig Leukotriene B4 Receptor 1 (BLT1)](/xray-mp-wiki/proteins/gpcr/blt1/) — BLT1 shows conserved sodium ion allosteric modulation; benzamidine moiety of BIIL260 mimics the sodium ion

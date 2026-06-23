@@ -1,5 +1,5 @@
 ---
-title: Kappa Opioid Receptor
+title: "Kappa Opioid Receptor"
 created: 2026-05-27
 updated: 2026-06-21
 type: protein
@@ -23,7 +23,7 @@ The human kappa opioid receptor (KOP) is a class A G-protein coupled receptor (G
 |---|---|---|---|---|---|
 | doi/10.1038##nature10939 | 4DJH | 2.9 | C2 | Kappa-OR-T4L fusion (T4L inserted at ICL3 between Gly261 and Arg263), N-terminal deletion Delta Glu2-Ala42, C-terminal deletion Delta Arg359-Val380, I135L point mutation | JDTic |
 | doi/10.1016##j.cell.2017.12.011 | 6B73 | 3.1 | P21 | BRIL-fused KOP (truncated 7TM) | MP1104, Nb39 |
-| doi/10.1038##s41467-023-37041-7 |  | 3.3 | — | BRIL-fused KOP (truncated 7TM) with S324C thermostabilizing mutation | Nalfurafine, Nb39 |
+| doi/10.1038##s41467-023-37041-7 | 7YIT | 3.3 | — | BRIL-fused KOP (truncated 7TM) with S324C thermostabilizing mutation | Nalfurafine, Nb39 |
 
 ## Expression and Purification
 
@@ -33,13 +33,13 @@ The human kappa opioid receptor (KOP) is a class A G-protein coupled receptor (G
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature10939*
+#### Source: doi/10.1038##nature10939
 
 - **Expression system**: Sf9 insect cells (baculovirus)
 - **Expression construct**: Kappa-OR-T4L with N-terminal HA-Flag-10xHis-TEV tag, N/C-terminal truncations, I135L mutation
 - **Tag info**: N-terminal HA-Flag-10xHis tag, cleavable by TEV protease
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -47,15 +47,13 @@ The human kappa opioid receptor (KOP) is a class A G-protein coupled receptor (G
 | Alkylation and ligand incubation | Pre-incubation | — | 40 uM NTX, 2 mg/ml iodoacetamide, 150 mM NaCl, protease inhibitors + — | 1 h at 4 °C before solubilization |
 | Solubilization | Detergent solubilization | — | 50 mM HEPES pH 7.5, 150 mM NaCl + 1% (w/v) detergent (DDM/CHS likely) | — |
 
-### Purification Workflow
-
-*Source: doi/10.1016##j.cell.2017.12.011*
+#### Source: doi/10.1016##j.cell.2017.12.011
 
 - **Expression system**: Sf9 cells (baculovirus)
 - **Expression construct**: BRIL-fused KOP with C-terminal His-tag
 - **Tag info**: C-terminal hexa-His tag on BRIL
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -69,15 +67,13 @@ The human kappa opioid receptor (KOP) is a class A G-protein coupled receptor (G
 
 **Final sample**: BRIL-KOP-MP1104-Nb39 complex, 10-15 mg/mL in 10 mM HEPES pH 7.5, 100 mM NaCl, 0.01% DDM, stored at -80 C with 10% glycerol
 
-### Purification Workflow
-
-*Source: doi/10.1038##s41467-023-37041-7*
+#### Source: doi/10.1038##s41467-023-37041-7
 
 - **Expression system**: Sf9 cells (baculovirus)
 - **Expression construct**: BRIL-fused KOP (truncated 7TM) with S324C mutation, C-terminal His-tag
 - **Tag info**: C-terminal hexa-His tag on BRIL
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

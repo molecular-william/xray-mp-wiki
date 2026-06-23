@@ -1,5 +1,5 @@
 ---
-title: SNAP29 (Synaptosomal-Associated Protein 29)
+title: "SNAP29 (Synaptosomal-Associated Protein 29)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -25,7 +25,7 @@ residues Q84 (Qb) and Q230 (Qc) that participate in the hydrophilic 0-layer.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.2006997117 |  |  |  | SNAP29 Qb-SNARE (40-126) and Qc-SNARE (191-258) in complex with [STX17](/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/) and [VAMP8 (Vesicle-Associated Membrane Protein 8)](/xray-mp-wiki/proteins/structural-adhesion/vamp8/) | none |
+| doi/10.1073##pnas.2006997117 | 7BV6 |  |  | SNAP29 Qb-SNARE (40-126) and Qc-SNARE (191-258) in complex with [STX17](/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/) and [VAMP8 (Vesicle-Associated Membrane Protein 8)](/xray-mp-wiki/proteins/structural-adhesion/vamp8/) | none |
 
 ## Expression and Purification
 

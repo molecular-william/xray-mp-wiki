@@ -47,7 +47,7 @@ No comparison data available.
 
 - [Spinach Light-Harvesting Complex II](/xray-mp-wiki/proteins/photosynthesis/spinach-light-harvesting-complex-ii/) — DBC used at 0.2% in LHC-II crystallization solution
 - [n-Methyl-beta-D-glucoside (BNG)](/xray-mp-wiki/reagents/detergents/n-methyl-beta-d-glucoside/) — BNG used for LHC-II solubilization, DBC in crystallization solution
-- [Deoxycholate](/xray-mp-wiki/reagents/detergents/deoxycholate/) — Related bile acid detergent, DBC is a modified deoxycholate derivative
+- [Deoxycholate](/xray-mp-wiki/reagents/additives/deoxycholate/) — Related bile acid detergent, DBC is a modified deoxycholate derivative
 - [Digalactosyl Diacylglycerol (DGDG)](/xray-mp-wiki/reagents/lipids/digalactosyl-diacylglycerol/) — DGDG used at 2 mg/ml together with BNG for LHC-II solubilization
 - [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — Method used for LHC-II crystallization with DBC
 - [LHC-II](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/) — Related protein structure

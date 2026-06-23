@@ -1,5 +1,5 @@
 ---
-title: C. elegans P-glycoprotein (P-gp)
+title: "C. elegans P-glycoprotein (P-gp)"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-P-glycoprotein (P-gp) from Caenorhabditis elegans is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC) transporter that functions as a multidrug efflux pump. It belongs to the P-gp/MDR subfamily of ABC transporters and confers cellular resistance to a wide range of cytotoxic drugs including actinomycin D, [Paclitaxel](/xray-mp-wiki/reagents/paclitaxel/), and [Verapamil](/xray-mp-wiki/reagents/verapamil/). P-gp is a primary active transporter that uses [ATP](/xray-mp-wiki/reagents/ligands/atp/) hydrolysis to extrude hydrophobic compounds from cells, playing a critical role in multidrug resistance. The C. elegans P-gp structure was solved by X-ray crystallography at 3.4 A resolution, providing the first high-resolution view of an ABC transporter in a nucleotide-free conformation. The protein is N-glycosylated at residue N125 and expresses as a functional full-length protein when produced in Sf9 insect cells.
+P-glycoprotein (P-gp) from Caenorhabditis elegans is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC) transporter that functions as a multidrug efflux pump. It belongs to the P-gp/MDR subfamily of ABC transporters and confers cellular resistance to a wide range of cytotoxic drugs including actinomycin D, [Paclitaxel](/xray-mp-wiki/reagents/ligands/paclitaxel/), and [Verapamil](/xray-mp-wiki/reagents/ligands/verapamil/). P-gp is a primary active transporter that uses [ATP](/xray-mp-wiki/reagents/ligands/atp/) hydrolysis to extrude hydrophobic compounds from cells, playing a critical role in multidrug resistance. The C. elegans P-gp structure was solved by X-ray crystallography at 3.4 A resolution, providing the first high-resolution view of an ABC transporter in a nucleotide-free conformation. The protein is N-glycosylated at residue N125 and expresses as a functional full-length protein when produced in Sf9 insect cells.
 
 
 ## Structure Determination
@@ -31,7 +31,7 @@ P-glycoprotein (P-gp) from Caenorhabditis elegans is an [ATP](/xray-mp-wiki/reag
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -59,11 +59,11 @@ P-glycoprotein (P-gp) from Caenorhabditis elegans is an [ATP](/xray-mp-wiki/reag
 
 ### Drug resistance function
 
-C. elegans P-gp confers cellular resistance to cytotoxic drugs. Sf9 cells expressing P-gp show protection from drug-induced cytotoxicity by actinomycin D (12 hours exposure) and [Paclitaxel](/xray-mp-wiki/reagents/paclitaxel/) (48 hours exposure), correlated with P-gp membrane expression monitored by GFP fluorescence. The protein functions as a broad-spectrum multidrug efflux pump.
+C. elegans P-gp confers cellular resistance to cytotoxic drugs. Sf9 cells expressing P-gp show protection from drug-induced cytotoxicity by actinomycin D (12 hours exposure) and [Paclitaxel](/xray-mp-wiki/reagents/ligands/paclitaxel/) (48 hours exposure), correlated with P-gp membrane expression monitored by GFP fluorescence. The protein functions as a broad-spectrum multidrug efflux pump.
 
 ### ATPase activity and drug stimulation
 
-P-gp exhibits basal ATPase activity that is stimulated by drug substrates. Multiple compounds including [Verapamil](/xray-mp-wiki/reagents/verapamil/), [Valinomycin](/xray-mp-wiki/reagents/valinomycin/), and trifluoperazine stimulate ATPase activity in detergent-solubilized P-gp, confirming their role as P-gp substrates. The drug concentration dependence of ATPase stimulation provides functional evidence for drug transport activity.
+P-gp exhibits basal ATPase activity that is stimulated by drug substrates. Multiple compounds including [Verapamil](/xray-mp-wiki/reagents/ligands/verapamil/), [Valinomycin](/xray-mp-wiki/reagents/ligands/valinomycin/), and trifluoperazine stimulate ATPase activity in detergent-solubilized P-gp, confirming their role as P-gp substrates. The drug concentration dependence of ATPase stimulation provides functional evidence for drug transport activity.
 
 ### N-glycosylation site resolved by anomalous diffraction
 
@@ -75,18 +75,18 @@ Comparison with mouse P-gp (PDB 3G5U) reveals register shifts in transmembrane h
 
 ### N-terminal truncation mutant
 
-A [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) mutant lacking the N-terminal 56 residues (Delta56) confers cellular resistance to actinomycin D and [Paclitaxel](/xray-mp-wiki/reagents/paclitaxel/) similarly to full-length P-gp, indicating the N-terminus is not essential for drug transport function. However, the [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) mutant shows reduced maximum drug-stimulated ATPase activity in detergent, suggesting the N-terminus modulates the enzymatic activity of the transporter.
+A [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) mutant lacking the N-terminal 56 residues (Delta56) confers cellular resistance to actinomycin D and [Paclitaxel](/xray-mp-wiki/reagents/ligands/paclitaxel/) similarly to full-length P-gp, indicating the N-terminus is not essential for drug transport function. However, the [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) mutant shows reduced maximum drug-stimulated ATPase activity in detergent, suggesting the N-terminus modulates the enzymatic activity of the transporter.
 
 
 ## Cross-References
 
 - [ABCG2](/xray-mp-wiki/proteins/abc-transporters/abcg2/) — ABC transporter G subfamily; multidrug efflux pump with similar drug resistance function
 - [ABCG1](/xray-mp-wiki/proteins/abc-transporters/abcg1/) — ABC transporter G subfamily member; lipid transporter with structural similarities
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Multidrug efflux pump from E. coli; functional comparison with P-gp
+- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Multidrug efflux pump from E. coli; functional comparison with P-gp
 - [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — P-gp is a member of the ABC (ATP-binding cassette) superfamily of transporters
-- [Actinomycin D](/xray-mp-wiki/reagents/ligands/actinomycin-d/) — P-gp substrate; tested for cellular resistance in P-gp-expressing cells
+- [Actinomycin D](/xray-mp-wiki/reagents/antibiotics/actinomycin-d/) — P-gp substrate; tested for cellular resistance in P-gp-expressing cells
 - [Paclitaxel](/xray-mp-wiki/reagents/ligands/paclitaxel/) — P-gp substrate; antimitotic drug whose cellular toxicity is reversed by P-gp
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein structure
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Related protein structure
+- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Related protein structure
 - [ABCG2](/xray-mp-wiki/proteins/abc-transporters/abcg2/) — Related protein structure
 - [ELIC (Erwinia chrysanthemi Pentameric Ligand-Gated Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/elic/) — Related protein structure

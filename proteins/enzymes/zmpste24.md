@@ -1,5 +1,5 @@
 ---
-title: Human ZMPSTE24 (Zinc Metalloprotease)
+title: "Human ZMPSTE24 (Zinc Metalloprotease)"
 created: 2026-06-10
 updated: 2026-06-11
 type: protein
@@ -21,7 +21,7 @@ ZMPSTE24 (zinc metalloprotease STE24) is a human integral membrane zinc metallop
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.1231513 | -- | 3.40 | -- | Full-length human ZMPSTE24 | Zn2+ (catalytic zinc) |
+| doi/10.1126##science.1231513 | 4AW6 | 3.40 | -- | Full-length human ZMPSTE24 | Zn2+ (catalytic zinc) |
 | doi/10.1107##s2059798318003431 | 6BH8 | 3.85 | P2_1 | Full-length human ZMPSTE24 in complex with phosphoramidon | Phosphoramidon, Zn2+ |
 
 ## Expression and Purification
@@ -31,12 +31,12 @@ ZMPSTE24 (zinc metalloprotease STE24) is a human integral membrane zinc metallop
 
 ### Purification Workflow
 
-*Source: doi/10.1126##science.1231513*
+#### Source: doi/10.1126##science.1231513
 
 - **Expression system**: Not specified
 - **Expression construct**: Full-length human ZMPSTE24
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -44,14 +44,12 @@ ZMPSTE24 (zinc metalloprotease STE24) is a human integral membrane zinc metallop
 
 **Final sample**: Purified ZMPSTE24 in detergent-lipid system
 
-### Purification Workflow
-
-*Source: doi/10.1107##s2059798318003431*
+#### Source: doi/10.1107##s2059798318003431
 
 - **Expression system**: Saccharomyces cerevisiae BJ5460 (overexpression)
 - **Expression construct**: Full-length human ZMPSTE24 with C-terminal His6 tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

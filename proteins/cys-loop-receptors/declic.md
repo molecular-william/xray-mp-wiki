@@ -1,5 +1,5 @@
 ---
-title: DeCLIC (Desulfofustis deltaproteobacterium Pentameric Ligand-Gated Ion Channel)
+title: "DeCLIC (Desulfofustis deltaproteobacterium Pentameric Ligand-Gated Ion Channel)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -35,7 +35,7 @@ DeCLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a Desul
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

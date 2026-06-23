@@ -1,5 +1,5 @@
 ---
-title: EcoDMT - Eremococcus coleocola NRAMP Divalent Metal Transporter
+title: "EcoDMT - Eremococcus coleocola NRAMP Divalent Metal Transporter"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,11 +21,11 @@ EcoDMT is a prokaryotic divalent metal transporter from Eremococcus coleocola be
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.7554##eLife.51913 | 6TL2 | 3.8 A | C2 | Full-length EcoDMT with C-terminal His10-tag (cleaved for crystallization) | Br-BIT (3,5-bis-isothiourea-1-bromobenzene) |
-| doi/10.1038##ncomms14033 | not specified in paper | 3.3 A | C2 | Full-length EcoDMT, residues 13-506, outward-facing conformation, wildtype | None (apo form) |
-| doi/10.1038##ncomms14033 | not specified in paper | 3.6 A | C2 | Selenomethionine-derivatized EcoDMT, residues 13-506, outward-facing conformation | SeMet (for anomalous phasing) |
-| doi/10.1038##ncomms14033 | not specified in paper | 3.6 A | C2 | EcoDMT E129Q mutant, outward-facing conformation | None |
-| doi/10.1038##ncomms14033 | not specified in paper | 3.9 A | C2 | EcoDMT E129A mutant, outward-facing conformation | None |
-| doi/10.1038##ncomms14033 | not specified in paper | 3.7 A | C2 | EcoDMT H236A mutant, outward-facing conformation | None |
+| doi/10.1038##ncomms14033 | 5M87 | 3.3 A | C2 | Full-length EcoDMT, residues 13-506, outward-facing conformation, wildtype | None (apo form) |
+| doi/10.1038##ncomms14033 | 5M87 | 3.6 A | C2 | Selenomethionine-derivatized EcoDMT, residues 13-506, outward-facing conformation | SeMet (for anomalous phasing) |
+| doi/10.1038##ncomms14033 | 5M87 | 3.6 A | C2 | EcoDMT E129Q mutant, outward-facing conformation | None |
+| doi/10.1038##ncomms14033 | 5M87 | 3.9 A | C2 | EcoDMT E129A mutant, outward-facing conformation | None |
+| doi/10.1038##ncomms14033 | 5M87 | 3.7 A | C2 | EcoDMT H236A mutant, outward-facing conformation | None |
 
 ## Expression and Purification
 
@@ -35,7 +35,7 @@ EcoDMT is a prokaryotic divalent metal transporter from Eremococcus coleocola be
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ EcoDMT is a prokaryotic divalent metal transporter from Eremococcus coleocola be
 
 | Parameter | Value |
 |---|---|
-| Method | [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/sitting-drop-vapor-diffusion/) |
+| Method | [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) |
 | Protein sample | EcoDMT at 7-10 mg/mL in 20 mM  pH 7.5, 150 mM NaCl, 8.7% , 0.1%  |
 | Reservoir | 50 mM  Hcl]] pH 8.0-9.0, 22-26%  400 (v/v) |
 | Temperature | 4 C |
@@ -109,6 +109,6 @@ The combined structural data from EcoDMT (outward-facing) and ScaDMT (inward-fac
 - [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — Crystallization method used to grow EcoDMT crystals
 - [Decylmaltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Detergent used for purification and crystallization
 - [Leut](/xray-mp-wiki/proteins/enzymes/leut/) — Referenced in ecodmt text
-- [Iron](/xray-mp-wiki/reagents/iron/) — Referenced in ecodmt text
+- [Iron](/xray-mp-wiki/reagents/additives/iron/) — Referenced in ecodmt text
 - [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) — Referenced in ecodmt text
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Referenced in ecodmt text

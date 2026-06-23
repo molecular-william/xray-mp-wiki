@@ -1,5 +1,5 @@
 ---
-title: GluA2 AMPA Receptor — Structures with Antagonists, NAMs, and Allosteric Modulators
+title: "GluA2 AMPA Receptor — Structures with Antagonists, NAMs, and Allosteric Modulators"
 created: 2026-06-08
 updated: 2026-06-16
 type: protein
@@ -21,17 +21,17 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature08624 | N/A (not deposited) | 3.6 | P1 | GluA2cryst — modified rat GluA2i (flip isoform) with C-terminal deletions, ATD-LBD linker deletions (6 residues), glycosylation knockout mutations (N235E, N385D, N392Q), loop L1 alanine substitutions, R586Q, and C589A | None (apo-like, antagonist-bound) |
+| doi/10.1038##nature08624 | 3KG2 | 3.6 | P1 | GluA2cryst — modified rat GluA2i (flip isoform) with C-terminal deletions, ATD-LBD linker deletions (6 residues), glycosylation knockout mutations (N235E, N385D, N392Q), loop L1 alanine substitutions, R586Q, and C589A | None (apo-like, antagonist-bound) |
 | doi/10.1111##bph.15254 | 6XSR | 4.25 | P 21 21 21 | GluA2Del (modified rat GluA2i flip isoform) — 36-residue C-terminal deletion, ATD-LBD linker deletions, N235E/N385D/N392Q (glycosylation knockouts), M1-M2 linker replaced with DTD linker, R586Q, C589A | 4-BCCA (trans-4-butylcyclohexane carboxylic acid) |
 | doi/10.1111##febs.15455 | 6RUQ | 4.65 | P 1 21 1 | GluA2cryst (modified rat GluA2 without CTD) — expressed in Sf9 insect cells | ZK200775 (competitive antagonist), GYKI53655 (NAM) |
-| doi/10.1126##science.1256508 | N/A (not explicitly deposited) | 3.6-4.0 | N/A | Homotetrameric rat GluA2 (GluA2*) — modified for crystallization | (S)-5-nitrowillardine (NOW, partial agonist) |
-| doi/10.1126##science.1258409 | 3KG2 (reference structure) | 3.8-4.1 | N/A | GluA2_cryst1 and GluA2_cryst2 constructs with Lurcher-like mutants (A622T, T625G) | con-ikot-ikot toxin, (R,R)-2b (positive allosteric modulator), kainate or fluorowillardiine (FW) |
+| doi/10.1126##science.1256508 | 4U4G | 3.6-4.0 | N/A | Homotetrameric rat GluA2 (GluA2*) — modified for crystallization | (S)-5-nitrowillardine (NOW, partial agonist) |
+| doi/10.1126##science.1258409 | 3KG2 | 3.8-4.1 | N/A | GluA2_cryst1 and GluA2_cryst2 constructs with Lurcher-like mutants (A622T, T625G) | con-ikot-ikot toxin, (R,R)-2b (positive allosteric modulator), kainate or fluorowillardiine (FW) |
 | doi/10.1016##j.cell.2014.07.023 | 4U2P | 3.71 | P2(1)2(1)2(1) | 5M (thermostabilized rat GluA2 construct with 5 thermostabilizing mutations) | None (apo resting/closed state) |
 | doi/10.1016##j.cell.2014.07.023 | 4U1W | 3.61 | P2(1)2(1)2(1) | 5M construct | Kainate (partial agonist), (R,R)-2b (positive allosteric modulator) |
 | doi/10.1016##j.cell.2014.07.023 | 4U1X | 3.82 | P2(1)2(1)2(1) | 10M construct (10 thermostabilizing mutations) | Kainate (partial agonist), (R,R)-2b (positive allosteric modulator) |
 | doi/10.1016##j.cell.2014.07.023 | 4U1Y | 4.27 | P2(1)2(1)2(1) | 10Mdel construct (10 thermostabilizing mutations + M1-M2 loop deletion) | Fluorowilliardiine (partial agonist), (R,R)-2b (positive allosteric modulator) |
 | doi/10.1016##j.cell.2014.07.023 | 4U2Q | 4.05 | P2(1)2(1)2(1) | 5M construct | Kainate (partial agonist, no modulator) |
-| doi/10.1016##j.cell.2014.07.023 | Not deposited | 7.94 | P2(1) | 5M construct | Fluorowilliardiine (partial agonist, desensitizing conditions) |
+| doi/10.1016##j.cell.2014.07.023 | 4U2P | 7.94 | P2(1) | 5M construct | Fluorowilliardiine (partial agonist, desensitizing conditions) |
 
 ## Expression and Purification
 
@@ -41,13 +41,13 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 
 ### Purification Workflow
 
-*Source: doi/10.1111##bph.15254*
+#### Source: doi/10.1111##bph.15254
 
 - **Expression system**: HEK293 GnTI- cells (BacMam)
 - **Expression construct**: Rat GluA2i (flip) with native signal peptide in [Peg](/xray-mp-wiki/reagents/additives/peg/) BacMam vector. C-terminal thrombin cleavage site, eGFP, Strep-tag. Deletions: 36 residues from C-terminus, 6 residues from ATD-LBD linker. Mutations: N235E, N385D, N392Q, R586Q, C589A.
 - **Tag info**: C-terminal eGFP-Strep-tag, thrombin removable
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -58,15 +58,13 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 | Deglycosylation and tag removal | [Endoh](/xray-mp-wiki/reagents/additives/endoh/) + thrombin digestion | — | 150 mM NaCl, 20 mM [[Tris](/xray-mp-wiki/reagents/buffers/tris/) Hcl](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 1 mM C12M | [Endoh](/xray-mp-wiki/reagents/additives/endoh/) at 1:1 mass ratio for 24 h at 4 C, then thrombin at 1:200 mass ratio for 1 h at 22 C |
 | Size exclusion chromatography | SEC - Superose 6 column | — | 150 mM NaCl, 20 mM [[Tris](/xray-mp-wiki/reagents/buffers/tris/) Hcl](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 1 mM n-undecyl-beta-D-thiomaltopyranoside (C11Thio), 0.01 mg/mL POPC:POPE:POPG (3:1:1) | Pooled peak fractions concentrated to ~2 mg/mL for crystallization |
 
-### Purification Workflow
-
-*Source: doi/10.1111##febs.15455*
+#### Source: doi/10.1111##febs.15455
 
 - **Expression system**: Sf9 insect cells (baculovirus) and HEK293F mammalian cells (BacMam)
 - **Expression construct**: GluA2cryst construct with C-terminal GFP-His tag
 - **Tag info**: C-terminal GFP-His tag, thrombin removable
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -77,15 +75,13 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 | Affinity purification and tag removal | [Talon](/xray-mp-wiki/reagents/additives/talon/) Metal Affinity + thrombin digest | [Talon](/xray-mp-wiki/reagents/additives/talon/) Superflow Metal Affinity Resin | 20 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM NaCl, DDM | Eluted with 250 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/). Overnight digestion with thrombin to remove GFP-His tag |
 | Size exclusion chromatography | SEC - Superose 6 10/300 GL | — | 20 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM NaCl, 0.5 mg/mL DDM Anagrade, low alpha isomer (Anatrace) | Tag-free GluA2cryst purified. Pooled peak fractions used for EM and crystallization |
 
-### Purification Workflow
-
-*Source: doi/10.1126##science.1258409*
+#### Source: doi/10.1126##science.1258409
 
 - **Expression system**: HEK293 GnTI- cells (BacMam)
 - **Expression construct**: Rat GluA2_cryst1 and GluA2_cryst2 constructs, with A622T and T625G Lurcher-like mutants
 - **Tag info**: C-terminal GFP-His tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -101,7 +97,7 @@ GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG
 |---|---|
 | Method | Vapor diffusion, hanging drop |
 | Protein sample | GluA2Del at ~2 mg/mL with 2 mM 4-BCCA |
-| Reservoir | Condition 1: 8-11% [Peg](/xray-mp-wiki/reagents/additives/peg/) 8000, 0.2 M magnesium [Acetate](/xray-mp-wiki/reagents/buffers/acetate/), 0.1 M sodium [Cacodylate](/xray-mp-wiki/reagents/cacodylate/) pH 6.3-6.7; Condition 2: 11-14% PEG 6000, 0.1 M ammonium phosphate, 0.1 M TRIS pH 7.9-8.0 |
+| Reservoir | Condition 1: 8-11% [Peg](/xray-mp-wiki/reagents/additives/peg/) 8000, 0.2 M magnesium [Acetate](/xray-mp-wiki/reagents/buffers/acetate/), 0.1 M sodium [Cacodylate](/xray-mp-wiki/reagents/buffers/cacodylate/) pH 6.3-6.7; Condition 2: 11-14% PEG 6000, 0.1 M ammonium phosphate, 0.1 M TRIS pH 7.9-8.0 |
 | Mixing ratio | 2:1 (protein:reservoir) |
 | Temperature | 4 |
 | Growth time | 5-7 days (crystals appeared), 30-60 days (max size ~100x100x300 um) |

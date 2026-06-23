@@ -1,5 +1,5 @@
 ---
-title: Cytochrome b561 (Cyt b561) from Arabidopsis thaliana
+title: "Cytochrome b561 (Cyt b561) from Arabidopsis thaliana"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -28,9 +28,9 @@ in the Cyt b561 family.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1323931111 | — | 2.0 | — | Full-length Cyt b561 from A. thaliana | None (substrate-free) |
-| doi/10.1073##pnas.1323931111 | — | 2.0 | — | Full-length Cyt b561 from A. thaliana | L-Ascorbate |
-| doi/10.1073##pnas.1323931111 | — | 2.2 | — | Full-length Cyt b561 from A. thaliana | Monodehydroascorbate |
+| doi/10.1073##pnas.1323931111 | 4O6Y | 2.0 | — | Full-length Cyt b561 from A. thaliana | None (substrate-free) |
+| doi/10.1073##pnas.1323931111 | 4O6Y | 2.0 | — | Full-length Cyt b561 from A. thaliana | L-Ascorbate |
+| doi/10.1073##pnas.1323931111 | 4O6Y | 2.2 | — | Full-length Cyt b561 from A. thaliana | Monodehydroascorbate |
 
 ## Expression and Purification
 
@@ -41,7 +41,7 @@ in the Cyt b561 family.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Bovine Urea Transporter B (UT-B)
+title: "Bovine Urea Transporter B (UT-B)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -34,7 +34,7 @@ Bovine UT-B is a mammalian urea transporter encoded by the SLC14A1 gene. It is a
 - **Expression system**: Sf9 insect cells
 - **Expression construct**: C-terminal TEV-octohistidine tagged UT-B
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

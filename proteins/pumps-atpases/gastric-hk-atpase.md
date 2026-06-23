@@ -1,5 +1,5 @@
 ---
-title: Gastric H+,K+-ATPase (Gastric Proton Pump)
+title: "Gastric H+,K+-ATPase (Gastric Proton Pump)"
 created: 2026-06-08
 updated: 2026-06-21
 type: protein
@@ -38,26 +38,24 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 
 ### Purification Workflow
 
-*Source: doi/10.7554##eLife.47701*
+#### Source: doi/10.7554##eLife.47701
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Cell lysis | High-pressure emulsifier (Avestin) | Not specified | Not specified | Harvested cells broken up; Solid-Supported Membrane Electrophysiology fractions collected by centrifugation |
 | Solubilization | Solid-Supported Membrane Electrophysiology solubilization with [C12E8](/xray-mp-wiki/reagents/detergents/c12e8/) (C12E8) | Not specified | 40 mM [MES](/xray-mp-wiki/reagents/buffers/mes/)/[Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) (Tris-HCl Buffer) (Tris(hydroxymethyl)aminomethane) (Tris(hydroxymethyl)aminomethane) Ph 6.5, 10% GlpF, 5 mM [DTT](/xray-mp-wiki/reagents/additives/dtt/), with 50 mM CH3COORb or 200 mM KCl, 10 mM [Magnesium Chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/) (MgCl₂), 10 mM NaF | Solubilized On ice for 20 min; Rb+ or K+ present throughout purification for WT and Y799W respectively |
 | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) purification | Anti-[FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) M2 [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) resin | Anti-[FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) M2 [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) resin (SIGMAR1-Aldrich) | Not specified | Not specified |
-| Tag removal and deglycosylation | [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) (Tobacco Etch Virus Protease) (Tobacco Etch Virus Protease) (Tobacco Etch Virus Protease) and MBP-[SMO-FLA Fusion Construct (SMO-Flavodoxin)](/xray-mp-wiki/proteins/gpcr/smoothened-fla-fusion/) (SMO-Flavodoxin) (SMO-Flavodoxin) endoglycosidase digestion | Not specified | Not specified | Digestion At 4 degrees C overnight |
+| Tag removal and deglycosylation | [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/additives/tev-protease/) (Tobacco Etch Virus Protease) (Tobacco Etch Virus Protease) (Tobacco Etch Virus Protease) and MBP-[SMO-FLA Fusion Construct (SMO-Flavodoxin)](/xray-mp-wiki/proteins/gpcr/smoothened-fla-fusion/) (SMO-Flavodoxin) (SMO-Flavodoxin) endoglycosidase digestion | Not specified | Not specified | Digestion At 4 degrees C overnight |
 | [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | Superose6 Increase column (GE Healthcare) | Superose6 Increase | Not specified | Peak fractions collected and concentrated to 10 mg/ml |
 | Lipidation | Incubation with dried dioleoyl [Phosphatidylcholine](/xray-mp-wiki/reagents/lipids/phosphatidylcholine/) (DOPC) [Lipid A](/xray-mp-wiki/reagents/lipids/lipid-a/) film | Not specified | Not specified | [Lipid A](/xray-mp-wiki/reagents/lipids/lipid-a/)-to-Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea ratio 0.1-0.4; incubated overnight At 4 degrees C At 120 rpm; insoluble materials removed by ultracentrifugation |
 
-### Purification Workflow
-
-*Source: doi/10.1038##s41586-018-0003-8*
+#### Source: doi/10.1038##s41586-018-0003-8
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -65,7 +63,7 @@ The gastric H+,K+-[F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pum
 | Cell lysis | High-pressure emulsifier (Avestin) | Not specified | [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) [G907 (Quinoline MsbA Inhibitor)](/xray-mp-wiki/reagents/ligands/g907-quinoline-msba-inhibitor/) (Quinoline MsbA Inhibitor) (Quinoline MsbA Inhibitor) cocktail (Roche) | Solid-Supported Membrane Electrophysiology fractions collected At 200,000g for 1 h after removing debris At 800g for 10 min |
 | Solubilization | Solid-Supported Membrane Electrophysiology solubilization | Not specified | 40 mM [MES](/xray-mp-wiki/reagents/buffers/mes/)/[Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) (Tris-HCl Buffer) (Tris(hydroxymethyl)aminomethane) (Tris(hydroxymethyl)aminomethane) Ph 6.5, 20 mM Mg(CH3COO)2, 10% GlpF, 50 mM NaCl, 1 mM BeSO4, 3 mM NaF, 1 mM [ADP](/xray-mp-wiki/reagents/ligands/adp/), 5 mM [DTT](/xray-mp-wiki/reagents/additives/dtt/), 0.1 mM vonoprazan or SCH28080 + 1% [C12E8](/xray-mp-wiki/reagents/detergents/c12e8/) (C12E8) | Solubilized On ice for 20 min |
 | Anti-[FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Anti-[FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) M2 [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) resin | Anti-[FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) M2 [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) resin (SIGMAR1 Aldrich) | 20 mM [MES](/xray-mp-wiki/reagents/buffers/mes/)/[Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) (Tris-HCl Buffer) (Tris(hydroxymethyl)aminomethane) (Tris(hydroxymethyl)aminomethane) Ph 6.5, 5% GlpF, 2 mM [Magnesium Chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/) (MgCl₂), 50 mM NaCl, 0.03% [C12E8](/xray-mp-wiki/reagents/detergents/c12e8/) + 0.03% [C12E8](/xray-mp-wiki/reagents/detergents/c12e8/) | Eluted with 0.2 mg/ml [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncated GLP-1 Agonist Nonapeptide) + 10 uM vonoprazan or SCH28080 |
-| Tag removal and deglycosylation | [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) (Tobacco Etch Virus Protease) (Tobacco Etch Virus Protease) (Tobacco Etch Virus Protease) and MBP-[SMO-FLA Fusion Construct (SMO-Flavodoxin)](/xray-mp-wiki/proteins/gpcr/smoothened-fla-fusion/) (SMO-Flavodoxin) (SMO-Flavodoxin) endoglycosidase digestion | Not specified | Not specified | Digested overnight At 4 C; EGFP and endoglycosidase removed by Ni-NTA and amylose resin, respectively |
+| Tag removal and deglycosylation | [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/additives/tev-protease/) (Tobacco Etch Virus Protease) (Tobacco Etch Virus Protease) (Tobacco Etch Virus Protease) and MBP-[SMO-FLA Fusion Construct (SMO-Flavodoxin)](/xray-mp-wiki/proteins/gpcr/smoothened-fla-fusion/) (SMO-Flavodoxin) (SMO-Flavodoxin) endoglycosidase digestion | Not specified | Not specified | Digested overnight At 4 C; EGFP and endoglycosidase removed by Ni-NTA and amylose resin, respectively |
 | [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | Superose6 Increase 10/300 | Superose6 Increase 10/300 | Not specified | Peak fractions concentrated |
 
 

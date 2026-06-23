@@ -1,5 +1,5 @@
 ---
-title: Spinach Chloroplast c14 Rotor Ring (CFo c14 Ring)
+title: "Spinach Chloroplast c14 Rotor Ring (CFo c14 Ring)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -21,7 +21,7 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1074##jbc.m109.006916 |  | 3.8 | C2 | Spinach chloroplast c14 ring (14 identical c subunit protomers, residues 3-79 resolved) | Glu61 (conserved proton-binding carboxylate) |
+| doi/10.1074##jbc.m109.006916 | 2W5J | 3.8 | C2 | Spinach chloroplast c14 ring (14 identical c subunit protomers, residues 3-79 resolved) | Glu61 (conserved proton-binding carboxylate) |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ The crystal structure of the membrane-integral c14 rotor ring of the proton tran
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

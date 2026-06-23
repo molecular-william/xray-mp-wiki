@@ -42,4 +42,4 @@ No comparison data available.
 ## Cross-References
 
 - [AdiC Arginine/Agmatine Antiporter](/xray-mp-wiki/proteins/slc-transporters/adic/) — AdiC is the primary transporter that exports agmatine as part of the Arg/Agm antiport mechanism
-- [L-Arginine](/xray-mp-wiki/reagents/ligands/l-arginine/) — L-arginine is the substrate that is decarboxylated to form agmatine by AdiA
+- [L-Arginine](/xray-mp-wiki/reagents/substrates/l-arginine/) — L-arginine is the substrate that is decarboxylated to form agmatine by AdiA

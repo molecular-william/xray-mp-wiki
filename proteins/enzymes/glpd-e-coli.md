@@ -1,5 +1,5 @@
 ---
-title: E. coli Glycerol-3-Phosphate Dehydrogenase (GlpD)
+title: "E. coli Glycerol-3-Phosphate Dehydrogenase (GlpD)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,13 +21,13 @@ E. coli glycerol-3-phosphate dehydrogenase (GlpD) is an essential monotopic memb
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.0712331105 | Not specified in raw paper text | 1.75 | I222 | Full-length E. coli GlpD (selenomethionine-labeled) | FAD (cofactor); beta-OG detergent molecules; native enzyme |
-| doi/10.1073##pnas.0712331105 | Not specified in raw paper text | 2.1 | I222 | Full-length E. coli GlpD | FAD; DHAP (dihydroxyacetone phosphate, product) |
-| doi/10.1073##pnas.0712331105 | Not specified in raw paper text | 2.1 | I222 | Full-length E. coli GlpD | FAD; PEP (phosphoenolpyruvate, substrate analogue) |
-| doi/10.1073##pnas.0712331105 | Not specified in raw paper text | 2.3 | I222 | Full-length E. coli GlpD | FAD; 2-PGA (glyceric acid 2-phosphate, substrate analogue) |
-| doi/10.1073##pnas.0712331105 | Not specified in raw paper text | 2.9 | I222 | Full-length E. coli GlpD | FAD; GAP (glyceraldehyde-3-phosphate, substrate analogue) |
-| doi/10.1073##pnas.0712331105 | Not specified in raw paper text | 2.6 | I222 | Full-length E. coli GlpD | FAD; Menadione (MD, ubiquinone analogue) |
-| doi/10.1073##pnas.0712331105 | Not specified in raw paper text | 2.9 | I222 | Full-length E. coli GlpD | FAD; HQNO (2-n-heptyl-4-hydroxyquinoline N-oxide, ubiquinone analogue) |
+| doi/10.1073##pnas.0712331105 | 2QCU | 1.75 | I222 | Full-length E. coli GlpD (selenomethionine-labeled) | FAD (cofactor); beta-OG detergent molecules; native enzyme |
+| doi/10.1073##pnas.0712331105 | 2QCU | 2.1 | I222 | Full-length E. coli GlpD | FAD; DHAP (dihydroxyacetone phosphate, product) |
+| doi/10.1073##pnas.0712331105 | 2QCU | 2.1 | I222 | Full-length E. coli GlpD | FAD; PEP (phosphoenolpyruvate, substrate analogue) |
+| doi/10.1073##pnas.0712331105 | 2QCU | 2.3 | I222 | Full-length E. coli GlpD | FAD; 2-PGA (glyceric acid 2-phosphate, substrate analogue) |
+| doi/10.1073##pnas.0712331105 | 2QCU | 2.9 | I222 | Full-length E. coli GlpD | FAD; GAP (glyceraldehyde-3-phosphate, substrate analogue) |
+| doi/10.1073##pnas.0712331105 | 2QCU | 2.6 | I222 | Full-length E. coli GlpD | FAD; Menadione (MD, ubiquinone analogue) |
+| doi/10.1073##pnas.0712331105 | 2QCU | 2.9 | I222 | Full-length E. coli GlpD | FAD; HQNO (2-n-heptyl-4-hydroxyquinoline N-oxide, ubiquinone analogue) |
 
 ## Expression and Purification
 
@@ -37,7 +37,7 @@ E. coli glycerol-3-phosphate dehydrogenase (GlpD) is an essential monotopic memb
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -83,5 +83,5 @@ Electrostatic surface calculations show distinct regions of highly positive patc
 - [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — Beta-OG is the detergent used for solubilization and crystallization of GlpD; five molecules found per dimer
 - [Ethylene Glycol](/xray-mp-wiki/reagents/additives/ethylene-glycol/) — 30% ethylene glycol used as cryoprotectant for flash-freezing GlpD crystals
 - [PEG 6000](/xray-mp-wiki/reagents/additives/peg-6000/) — PEG 6000 used as crystallization precipitant in sitting-drop vapor diffusion
-- [Glycerol Facilitator (GlpF)](/xray-mp-wiki/proteins/other-ion-channels/glycerol-facilitator/) — GlpF is a membrane protein member of the glycerol metabolic pathway that facilitates glycerol transport upstream of GlpD
+- [Glycerol Facilitator (GlpF)](/xray-mp-wiki/proteins/other-ion-channels/glpf/) — GlpF is a membrane protein member of the glycerol metabolic pathway that facilitates glycerol transport upstream of GlpD
 - [Multi-Wavelength Anomalous Diffraction (MAD)](/xray-mp-wiki/methods/structure-determination/multi-wavelength-anomalous-diffraction/) — Three-wavelength MAD dataset used for phasing selenomethionine-labeled GlpD at SER-CAT beamline ID-22

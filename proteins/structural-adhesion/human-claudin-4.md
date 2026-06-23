@@ -1,5 +1,5 @@
 ---
-title: Human Claudin-4 (hCLDN-4)
+title: "Human Claudin-4 (hCLDN-4)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -41,7 +41,7 @@ receptor, in contrast to mice where CLDN-3 and CLDN-8 serve this role.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -59,6 +59,6 @@ The CPM probe contains a maleimide group that reacts specifically with free cyst
 
 | Protein | Resolution | PDB | Notes |
 |---|---|---|---|
-| [A2AAR-S91A](/xray-mp-wiki/proteins/gpcr/a2aar-s91a/) | not applicable | 5WF6 | Thermal shift assays used to characterize stability of S91A variant with panel of pharmacological ligands |
+| [A2AAR-S91A](/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/) | not applicable | 5WF6 | Thermal shift assays used to characterize stability of S91A variant with panel of pharmacological ligands |
 | [PepT_St Proton-Dependent Oligopeptide Transporter](/xray-mp-wiki/proteins/PepT_St Proton-Dependent Oligopeptide Transporter/) | not applicable | -- | DSF used for peptide binding screen of 28 different di- and tripeptides; thermal stability peaked at pH 4.5; 100 mM HEPES pH 7.0, 150 mM NaCl, 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) used in purification buffer; NM (nonylmaltoside) used for DSF to maximize peptide stabilization signal |
-| [A2AAR-D52N](/xray-mp-wiki/proteins/gpcr/a2aar-d52n/) | not applicable | 5WF5 | Thermal shift assays used to compare stability of A2AR-D52N vs wild-type [A2AR](/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/) across multiple ligands; apo [A2AAR-D52N](/xray-mp-wiki/proteins/gpcr/a2aar-d52n/) showed ~8 C increase in Tm over apo A2AAR |
+| [A2AAR-D52N](/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/) | not applicable | 5WF5 | Thermal shift assays used to compare stability of A2AR-D52N vs wild-type [A2AR](/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/) across multiple ligands; apo [A2AAR-D52N](/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/) showed ~8 C increase in Tm over apo A2AAR |

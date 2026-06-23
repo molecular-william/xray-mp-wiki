@@ -1,5 +1,5 @@
 ---
-title: Yeast V-ATPase Subunits D and F (ScDF Assembly)
+title: "Yeast V-ATPase Subunits D and F (ScDF Assembly)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -31,7 +31,7 @@ The DF assembly of the Saccharomyces cerevisiae V-ATPase (ScDF) is a central sta
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ Superposition of ScF with the gamma subunit of E. coli F-ATP synthase reveals a 
 - [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/) — ScDF is the central motor element coupling ATP hydrolysis to proton pumping in the rotary mechanism
 - [Peripheral Stalk Elasticity in ATP Synthase](/xray-mp-wiki/concepts/enzyme-mechanisms/peripheral-stalk-elasticity/) — Flexibility of the ScF C-terminal region and its role in reversible V1VO disassembly relates to elastic energy transmission in the stalk
 - [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — Crystallization method for ScDF
-- [Multi-Wavelength Anomalous Diffraction (MAD)](/xray-mp-wiki/methods/phasing/multi-wavelength-anomalous-diffraction/) — MAD phasing with SeMet was essential for solving the ScDF structure
+- [Multi-Wavelength Anomalous Diffraction (MAD)](/xray-mp-wiki/methods/structure-determination/multi-wavelength-anomalous-diffraction/) — MAD phasing with SeMet was essential for solving the ScDF structure
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Used in purification of ScDF
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [DTT](/xray-mp-wiki/reagents/additives/dtt/) — Additive used in purification or crystallization buffers

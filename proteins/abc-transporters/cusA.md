@@ -1,5 +1,5 @@
 ---
-title: CusA Inner Membrane Efflux Pump
+title: "CusA Inner Membrane Efflux Pump"
 created: 2026-05-27
 updated: 2026-06-02
 type: protein
@@ -20,8 +20,8 @@ CusA is the inner-membrane component of the CusABC tripartite copper/silver effl
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.jmb.2009.08.029 | -- | not solved | -- | Full-length CusA with N-terminal 6xHis tag; structural model based on [Acrb](/xray-mp-wiki/proteins/acrB) (PDB 1WXU) | -- |
-| doi/10.1038##nature09743 | -- | 2.90 A | -- | CusA residues 4-1043 in CusBA co-crystal structure; CusA present as trimer | [Cymal 6](/xray-mp-wiki/reagents/detergents/cymal-6) |
+| doi/10.1016##j.jmb.2009.08.029 | 3OOC | not solved | -- | Full-length CusA with N-terminal 6xHis tag; structural model based on [Acrb](/xray-mp-wiki/proteins/acrB) (PDB 1WXU) | -- |
+| doi/10.1038##nature09743 | 3NE5 | 2.90 A | -- | CusA residues 4-1043 in CusBA co-crystal structure; CusA present as trimer | [Cymal 6](/xray-mp-wiki/reagents/detergents/cymal-6) |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ CusA is the inner-membrane component of the CusABC tripartite copper/silver effl
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ CusA is proposed to take up metal ions from both the periplasm and cytoplasm usi
 
 ## Cross-References
 
-- [AcrB Multidrug Efflux Pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — AcrB crystal structure used as template for CusA structural model; 19% sequence identity
+- [AcrB Multidrug Efflux Pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — AcrB crystal structure used as template for CusA structural model; 19% sequence identity
 - [CusB Membrane Fusion Protein](/xray-mp-wiki/proteins/abc-transporters/cusb/) — CusB is the periplasmic MFP partner; cross-linking MS confirmed CusA-CusB interaction
 - [MexB Efflux Pump](/xray-mp-wiki/proteins/abc-transporters/mexB/) — MexB is a P. aeruginosa RND efflux pump homologous to CusA
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM (1% solubilization, 0.05% crystallization buffer) used for CusA purification

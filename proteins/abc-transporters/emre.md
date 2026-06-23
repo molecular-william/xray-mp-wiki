@@ -1,5 +1,5 @@
 ---
-title: EmrE (E. coli Small Multidrug Resistance Transporter)
+title: "EmrE (E. coli Small Multidrug Resistance Transporter)"
 created: 2026-06-08
 updated: 2026-06-09
 type: protein
@@ -38,7 +38,7 @@ EmrE is a small multidrug resistance (SMR) family proton-coupled multidrug efflu
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

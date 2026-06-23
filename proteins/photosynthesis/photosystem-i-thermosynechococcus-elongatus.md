@@ -1,5 +1,5 @@
 ---
-title: Photosystem I from Thermosynechococcus elongatus
+title: "Photosystem I from Thermosynechococcus elongatus"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein

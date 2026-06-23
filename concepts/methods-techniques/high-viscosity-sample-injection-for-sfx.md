@@ -27,6 +27,6 @@ High-viscosity sample injection is a sample delivery method for [Serial Femtosec
 
 ## Cross-References
 - [Serial Femtosecond Crystallography](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) — The SFX technique that this injection method supports
-- [Lipidic Cubic Phase](/xray-mp-wiki/concepts/lipidic-cubic-phase/) — LCP is a common viscous carrier medium used with this injector
+- [Lipidic Cubic Phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP is a common viscous carrier medium used with this injector
 - [Serial Femtosecond Crystallography](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) — Method used in structure determination or purification
 - [MAG](/xray-mp-wiki/reagents/lipids/mag/) — Additive used in purification or crystallization buffers

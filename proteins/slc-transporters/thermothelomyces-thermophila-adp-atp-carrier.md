@@ -1,5 +1,5 @@
 ---
-title: Thermothelomyces thermophila ADP/ATP Carrier
+title: "Thermothelomyces thermophila ADP/ATP Carrier"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -28,7 +28,7 @@ The Thermothelomyces thermophila ADP/ATP carrier (TtAac) is a mitochondrial inne
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

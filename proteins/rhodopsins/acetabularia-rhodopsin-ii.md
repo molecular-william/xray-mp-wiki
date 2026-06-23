@@ -1,5 +1,5 @@
 ---
-title: Acetabularia Rhodopsin II
+title: "Acetabularia Rhodopsin II"
 created: 2026-05-26
 updated: 2026-05-26
 type: protein
@@ -30,7 +30,7 @@ Acetabularia rhodopsin II (ARII) is a light-driven proton pump from the marine a
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

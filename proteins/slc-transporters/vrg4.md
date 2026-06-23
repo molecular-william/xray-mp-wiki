@@ -1,5 +1,5 @@
 ---
-title: Vrg4 GDP-Mannose Transporter (Saccharomyces cerevisiae)
+title: "Vrg4 GDP-Mannose Transporter (Saccharomyces cerevisiae)"
 created: 2026-06-03
 updated: 2026-06-08
 type: protein
@@ -38,7 +38,7 @@ Vrg4 is a [GDP-Mannose](/xray-mp-wiki/reagents/substrates/gdp-mannose) transport
 - **Expression construct**: C-terminal GFP-His6 fusion
 - **Tag info**: [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

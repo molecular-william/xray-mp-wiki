@@ -1,5 +1,5 @@
 ---
-title: MdfA Multidrug Transporter I239T/G354E Variant (E. coli)
+title: "MdfA Multidrug Transporter I239T/G354E Variant (E. coli)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -36,7 +36,7 @@ MdfA is a prototypical H+-coupled multidrug transporter from E. coli belonging t
 - **Expression construct**: I239T/G354E with C-terminal deca-histidine tag
 - **Tag info**: Deca-histidine tag (C-terminal)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -86,5 +86,5 @@ MdfA interacts with electrically distinct substrates differently: H-bonds for el
 ## Cross-References
 
 - [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfa/) — Parent/background entity for the I239T/G354E engineered variant
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — MdfA belongs to the MFS/DHA1 subfamily
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — MdfA belongs to the MFS/DHA1 subfamily
 - [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Relevant transport mechanism for MdfA

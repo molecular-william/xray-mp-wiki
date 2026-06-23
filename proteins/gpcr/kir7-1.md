@@ -1,5 +1,5 @@
 ---
-title: Kir7.1 Inwardly Rectifying Potassium Channel
+title: "Kir7.1 Inwardly Rectifying Potassium Channel"
 created: 2026-05-29
 updated: 2026-05-29
 type: protein

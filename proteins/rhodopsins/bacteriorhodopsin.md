@@ -1,5 +1,5 @@
 ---
-title: Bacteriorhodopsin (bR) from Halobacterium salinarum
+title: "Bacteriorhodopsin (bR) from Halobacterium salinarum"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -52,7 +52,7 @@ proton transfer pathway.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ The BR trimer partitions the lipid bilayer into two discontinuous compartments: 
 - [Retinal Isomerization in Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/retinal-isomerization/) — The papers directly visualize the all-trans retinal configuration and its role in proton pumping
 - [Proton Wire (Chain of Hydrogen Bonds)](/xray-mp-wiki/concepts/transport-mechanisms/proton-wire/) — Both papers describe ordered water molecules forming hydrogen-bonded chains for proton translocation through the channel
 - [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — bR is the archetypal microbial rhodopsin; these papers provide the first high-resolution structural views of its proton pumping mechanism
-- [Lipidic Cubic Phase (LCP) Crystallization](/xray-mp-wiki/concepts/lipidic-cubic-phase/) — The 1997 structure was the first to demonstrate LCP crystallization for membrane protein structure determination at high resolution
+- [Lipidic Cubic Phase (LCP) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — The 1997 structure was the first to demonstrate LCP crystallization for membrane protein structure determination at high resolution

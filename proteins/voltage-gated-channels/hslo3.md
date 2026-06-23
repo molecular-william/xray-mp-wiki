@@ -1,5 +1,5 @@
 ---
-title: Human SLO3 (hSLO3) pH- and Voltage-Gated Potassium Channel
+title: "Human SLO3 (hSLO3) pH- and Voltage-Gated Potassium Channel"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ hSLO3 (KCNU1) is a pH- and voltage-gated potassium channel from the SLO family, 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1215078109 |  | 3.30 | I222 | hSLO3 CTD residues 330-1062 with loop deletion (residues 831-851) - gating ring only |  |
+| doi/10.1073##pnas.1215078109 | 4HPF | 3.30 | I222 | hSLO3 CTD residues 330-1062 with loop deletion (residues 831-851) - gating ring only |  |
 
 ## Expression and Purification
 
@@ -34,7 +34,7 @@ hSLO3 (KCNU1) is a pH- and voltage-gated potassium channel from the SLO family, 
 - **Expression construct**: hSLO3 CTD (330-1062, loop del 831-851) with C-terminal PreScission-GFP-His10
 - **Tag info**: C-terminal GFP-His10, removed by [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) (1:40 wt/wt, overnight)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

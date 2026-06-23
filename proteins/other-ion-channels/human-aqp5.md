@@ -1,5 +1,5 @@
 ---
-title: Human Aquaporin 5 (AQP5)
+title: "Human Aquaporin 5 (AQP5)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -32,7 +32,7 @@ Human Aquaporin 5 (HsAQP5) is a water-selective channel protein belonging to the
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

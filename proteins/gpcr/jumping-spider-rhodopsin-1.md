@@ -1,5 +1,5 @@
 ---
-title: Jumping Spider Rhodopsin-1 (JSR1)
+title: "Jumping Spider Rhodopsin-1 (JSR1)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ The jumping spider rhodopsin-1 (JSR1) from Hasarius adansoni is a class A G prot
 - **Expression construct**: Wild-type JSR1
 - **Tag info**: C-terminal 1D4 tag (for immunoaffinity purification)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

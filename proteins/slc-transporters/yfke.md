@@ -1,5 +1,5 @@
 ---
-title: YfkE Ca2+/H+ Antiporter from Bacillus subtilis
+title: "YfkE Ca2+/H+ Antiporter from Bacillus subtilis"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ No structure determined.
 - **Expression system**: E. coli
 - **Tag info**: Polyhistidine tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

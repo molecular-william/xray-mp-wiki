@@ -1,5 +1,5 @@
 ---
-title: M3 Muscarinic Acetylcholine Receptor
+title: "M3 Muscarinic Acetylcholine Receptor"
 created: 2026-05-28
 updated: 2026-06-02
 type: protein
@@ -42,7 +42,7 @@ The M3 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

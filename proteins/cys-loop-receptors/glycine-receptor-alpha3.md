@@ -1,5 +1,5 @@
 ---
-title: Human Glycine Receptor Alpha-3 Homopentamer (GlyRα3)
+title: "Human Glycine Receptor Alpha-3 Homopentamer (GlyRα3)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -25,14 +25,14 @@ No structure determined.
 
 - **Expression system**: [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) expression in [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/)
 - **Construct**: GlyRα3 crystallization construct (human GlyRα3 residues 1-460, Δ343-418::AGT, C-terminus truncated by 4 residues, Strep II tag added to C-terminus)
-- **Notes**: The 76-residue intracellular loop between M3 and M4 helices was replaced with an Ala-Gly-Thr tripeptide. Four residues were deleted from the C-terminus based on sequence alignments with mammalian GlyRα3 sequences. [Bac-to-Bac Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/bac-to-bac/) system was used for [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) generation. Cells grown in sfx medium at 27°C for 72 h.
+- **Notes**: The 76-residue intracellular loop between M3 and M4 helices was replaced with an Ala-Gly-Thr tripeptide. Four residues were deleted from the C-terminus based on sequence alignments with mammalian GlyRα3 sequences. [Bac-to-Bac Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) system was used for [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) generation. Cells grown in sfx medium at 27°C for 72 h.
 
 ### Purification Workflow
 
 - **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) ([Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/))
 - **Expression construct**: GlyRα3 crystallization construct with [Strep-tag II](/xray-mp-wiki/reagents/protein-tags/strep-tag/)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ No structure determined.
 |---|---|
 | Method | Hanging-drop [Vapor Diffusion Crystallization](/xray-mp-wiki/methods/crystallization/vapor-diffusion/) |
 | Protein sample | ~3 mg/ml GlyRα3-[Strychnine](/xray-mp-wiki/reagents/ligands/strychnine/) complex (0.2 mM [Strychnine](/xray-mp-wiki/reagents/ligands/strychnine/) incubated at 4°C for 30 min) |
-| Reservoir | 25 mM [Sodium Citrate](/xray-mp-wiki/reagents/additives/sodium-citrate/) pH 4.0, 100 mM KCl, 200 mM [Magnesium Chloride (MgCl2)](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 30-33% [PEG 400](/xray-mp-wiki/reagents/additives/peg-400/) |
+| Reservoir | 25 mM [Sodium Citrate](/xray-mp-wiki/reagents/buffers/sodium-citrate/) pH 4.0, 100 mM KCl, 200 mM [Magnesium Chloride (MgCl2)](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 30-33% [PEG 400](/xray-mp-wiki/reagents/additives/peg-400/) |
 | Mixing ratio | 0.5 μl protein : 0.5 μl reservoir |
 | Temperature | 4 |
 | Growth time | ~1 month |

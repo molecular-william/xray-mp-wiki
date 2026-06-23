@@ -1,5 +1,5 @@
 ---
-title: Cysteinyl Leukotriene Receptor 2 (CysLT2R)
+title: "Cysteinyl Leukotriene Receptor 2 (CysLT2R)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -36,7 +36,7 @@ Cysteinyl leukotriene receptor type 2 (CysLT2R) is a class A G protein-coupled r
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

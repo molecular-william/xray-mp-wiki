@@ -1,5 +1,5 @@
 ---
-title: NavAb Bacterial Voltage-Gated Sodium Channel
+title: "NavAb Bacterial Voltage-Gated Sodium Channel"
 created: 2026-06-08
 updated: 2026-06-11
 type: protein
@@ -30,17 +30,17 @@ gating pore currents in the voltage sensor domain.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature11077 | not specified | 3.20 | P4(3)2(1)2 | Wild-type NavAb (full-length), expressed in Trichoplusia ni insect cells, purified via anti-Flag resin + SEC, reconstituted in DMPC:CHAPSO bicelles | None (apo, potentially slow-inactivated states) |
-| doi/10.1073##pnas.1700761114 | not specified | 2.80 | P2(1)22(1) | NavAb/FY (T206F/V213Y double mutant), full-length, homotetramer |  |
-| doi/10.1073##pnas.1700761114 | not specified | 2.85 | — | NavAb/1-226 (C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) at Lys-227 + I217C mutation) |  |
-| doi/10.1073##pnas.1814928115 | not specified | not specified | — | NavAb/I217C/Delta40 in complex with [Lidocaine](/xray-mp-wiki/reagents/ligands/lidocaine/) |  |
-| doi/10.1073##pnas.1814928115 | not specified | not specified | — | NavAb/I217C/Delta40 in complex with [Flecainide](/xray-mp-wiki/reagents/ligands/flecainide/) |  |
-| doi/10.1038##s41586-018-0120-4 | not specified | 2.50 | not specified | NavAb(R2G) double mutant (R1G/R2G) in complex with guanidinium |  |
-| doi/10.1038##s41586-018-0120-4 | not specified | 2.70 | not specified | NavAb(R3G) gating-charge mutant |  |
-| doi/10.1085##jgp.201711884 | not specified | 2.30 | not specified | NavAbDelta28 (C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) of last 28 residues) |  |
-| doi/10.1085##jgp.201711884 | not specified | not specified | — | NavAbDelta28/T206A |  |
-| doi/10.1085##jgp.201711884 | not specified | not specified | — | NavAbDelta28/T206S |  |
-| doi/10.1085##jgp.201711884 | not specified | not specified | — | NavAbDelta28/T206V |  |
+| doi/10.1038##nature11077 | 4EKW | 3.20 | P4(3)2(1)2 | Wild-type NavAb (full-length), expressed in Trichoplusia ni insect cells, purified via anti-Flag resin + SEC, reconstituted in DMPC:CHAPSO bicelles | None (apo, potentially slow-inactivated states) |
+| doi/10.1073##pnas.1700761114 | 5VB2 | 2.80 | P2(1)22(1) | NavAb/FY (T206F/V213Y double mutant), full-length, homotetramer |  |
+| doi/10.1073##pnas.1700761114 | 5VB2 | 2.85 | — | NavAb/1-226 (C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) at Lys-227 + I217C mutation) |  |
+| doi/10.1073##pnas.1814928115 | 6MVV | not specified | — | NavAb/I217C/Delta40 in complex with [Lidocaine](/xray-mp-wiki/reagents/ligands/lidocaine/) |  |
+| doi/10.1073##pnas.1814928115 | 6MVV | not specified | — | NavAb/I217C/Delta40 in complex with [Flecainide](/xray-mp-wiki/reagents/ligands/flecainide/) |  |
+| doi/10.1038##s41586-018-0120-4 | 6C1E | 2.50 | not specified | NavAb(R2G) double mutant (R1G/R2G) in complex with guanidinium |  |
+| doi/10.1038##s41586-018-0120-4 | 6C1E | 2.70 | not specified | NavAb(R3G) gating-charge mutant |  |
+| doi/10.1085##jgp.201711884 | 6MWA | 2.30 | not specified | NavAbDelta28 (C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) of last 28 residues) |  |
+| doi/10.1085##jgp.201711884 | 6MWA | not specified | — | NavAbDelta28/T206A |  |
+| doi/10.1085##jgp.201711884 | 6MWA | not specified | — | NavAbDelta28/T206S |  |
+| doi/10.1085##jgp.201711884 | 6MWA | not specified | — | NavAbDelta28/T206V |  |
 
 ## Expression and Purification
 
@@ -53,7 +53,7 @@ gating pore currents in the voltage sensor domain.
 - **Expression system**: Trichoplusia ni insect cells
 - **Expression construct**: Full-length Na_vAb with T206F/V213Y mutations (Na_vAb/FY) or C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) to residue 226 (Na_vAb/1-226)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -27,11 +27,11 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Fluoride Channel from E. coli (Ec2)](/xray-mp-wiki/proteins/other-ion-channels/ec2-fluoride-channel/) | Nanomolar | Ec2-S9 complex crystallized in P41 space group at 2.6 Angstrom resolution. Structure solved using SAD phasing with selenomethionine-labelled protein. Crystals grown from detergent in the presence of F-. | Confirmed conservation of F- binding sites across Fluc homologues. Two strong difference densities at precisely the same locations as F1 ions in Bpe, coordinated identically. Ec2 and Bpe folds identical (C-alpha r.m.s.d. 0.6 Angstrom). |
+| [Fluoride Channel from E. coli (Ec2)](/xray-mp-wiki/proteins/other-ion-channels/fluc-ec2/) | Nanomolar | Ec2-S9 complex crystallized in P41 space group at 2.6 Angstrom resolution. Structure solved using SAD phasing with selenomethionine-labelled protein. Crystals grown from detergent in the presence of F-. | Confirmed conservation of F- binding sites across Fluc homologues. Two strong difference densities at precisely the same locations as F1 ions in Bpe, coordinated identically. Ec2 and Bpe folds identical (C-alpha r.m.s.d. 0.6 Angstrom). |
 
 ## Binding Mode
 
-### Binding to [Fluoride Channel from E. coli (Ec2)](/xray-mp-wiki/proteins/other-ion-channels/ec2-fluoride-channel/)
+### Binding to [Fluoride Channel from E. coli (Ec2)](/xray-mp-wiki/proteins/other-ion-channels/fluc-ec2/)
 
 S9 blocks Ec2 at nanomolar concentrations. The interaction surface of S9 wraps around a protrusion formed from the TM1-TM2 and TM3b-TM4 connecting loops of the Ec2 channel, similar to S7 and L2 binding to Bpe. S9 was used in crystallization to form Ec2-S9 complexes that diffracted to 2.6 Angstrom resolution.
 
@@ -46,4 +46,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [Fluoride Channel from E. coli (Ec2)](/xray-mp-wiki/proteins/other-ion-channels/ec2-fluoride-channel/) — Related protein structure
+- [Fluoride Channel from E. coli (Ec2)](/xray-mp-wiki/proteins/other-ion-channels/fluc-ec2/) — Related protein structure

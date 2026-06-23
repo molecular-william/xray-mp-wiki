@@ -27,7 +27,7 @@ Remote coupling is a mechanism by which structural changes in the transmembrane 
 
 ## Cross-References
 - [Thermus thermophilus SecDF Protein Translocation Motor](/xray-mp-wiki/proteins/secretion-translocon/secdf/) — Primary example of remote coupling mechanism; beta-sheet to beta-barrel transition driven by TM proton transport
-- [AcrB Multidrug Efflux Transporter](/xray-mp-wiki/proteins/abc-transporters/acrB/) — The hoisting-loop at TM8/PC2 interface acts as a passive flexible hinge for remote conformational coupling in RND transporters
+- [AcrB Multidrug Efflux Transporter](/xray-mp-wiki/proteins/abc-transporters/acrb/) — The hoisting-loop at TM8/PC2 interface acts as a passive flexible hinge for remote conformational coupling in RND transporters
 - [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) — SecDF belongs to the RND superfamily; remote coupling likely operates in other RND transporters
 - [Conformational Dynamics in MFS Transporters](/xray-mp-wiki/concepts/transport-mechanisms/conformational-dynamics-mfs/) — Related mechanism of transmembrane-to-extracellular conformational transmission in membrane transporters
 - [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Remote coupling provides a structural basis for alternating access in membrane transporters

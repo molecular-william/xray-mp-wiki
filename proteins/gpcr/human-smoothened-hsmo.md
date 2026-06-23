@@ -1,5 +1,5 @@
 ---
-title: Human Smoothened (SMO) — Extracellular Domain Regulation
+title: "Human Smoothened (SMO) — Extracellular Domain Regulation"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -31,7 +31,7 @@ Human Smoothened (SMO) is a Class F G-protein-coupled receptor (GPCR) and Hedgeh
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

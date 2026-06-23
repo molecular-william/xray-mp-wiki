@@ -1,5 +1,5 @@
 ---
-title: Stearoyl-CoA Desaturase-1 (hSCD1)
+title: "Stearoyl-CoA Desaturase-1 (hSCD1)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -32,7 +32,7 @@ verified: false
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ position of the fatty acid chain.
 - [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Primary buffer throughout purification (25 mM) and crystallization (100 mM)
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Ni-NTA affinity elution at 20 mM (solubilization) and 250 mM (elution)
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Included in Ni-NTA elution buffer (5%) for protein stabilization
-- [TEV Protease](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) — Cleaved N-terminal hexahistidine tag after affinity purification
+- [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) — Cleaved N-terminal hexahistidine tag after affinity purification
 - [Tris(2-carboxyethyl)phosphine (TCEP)](/xray-mp-wiki/reagents/additives/tcep/) — Reducing agent (0.25-1 mM) in all purification buffers
 - [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) — Final SEC polishing step using Superdex 200 10/300 GL column
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

@@ -1,5 +1,5 @@
 ---
-title: F1-ATPase from Fusobacterium nucleatum
+title: "F1-ATPase from Fusobacterium nucleatum"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -42,15 +42,15 @@ The hydrolytic activity is likely regulated by  concentration, as in mitochondri
 
 - **Expression system**: Escherichia coli DK8 (Delta-unc)
 - **Expression construct**: F. nucleatum [F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pumps-atpases/tbrucei-f1-atpase/) with His10-TEV tag on epsilon-subunit
-- **Tag info**: His10 tag on epsilon-subunit, cleavable by [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/protein-tags/tevp-protease/)
+- **Tag info**: His10 tag on epsilon-subunit, cleavable by [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/additives/tev-protease/)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Cell lysis and membrane isolation | French press or sonication | — | 50 mM  Hcl]] pH 8.0, 100 mM NaCl, 20 mM , 10% , 2 mM  | Cells resuspended and lysed; membranes isolated by ultracentrifugation |
 | Nickel [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA | 50 mM  Hcl]] pH 8.0, 100 mM NaCl, 20-250 mM , 10% , 2 mM  | His10-tagged [F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pumps-atpases/tbrucei-f1-atpase/) bound and eluted with  gradient |
-| [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) cleavage | On-column or dialysis cleavage | — |  | His10 tag removed by [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/protein-tags/tevp-protease/); further polishing by size exclusion chromatography |
+| [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/additives/tev-protease/) cleavage | On-column or dialysis cleavage | — |  | His10 tag removed by [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/additives/tev-protease/); further polishing by size exclusion chromatography |
 
 
 ## Crystallization
@@ -65,7 +65,7 @@ The hydrolytic activity is likely regulated by  concentration, as in mitochondri
 | Mixing ratio | 1:0.8:0.2 (protein:precipitant:0.2% low melting-point agarose) |
 | Temperature | 18 |
 | Growth time | 3-4 days |
-| Cryoprotection | 30% (v/v) [Ethylene Glycol](/xray-mp-wiki/reagents/ethylene-glycol/) in reservoir buffer |
+| Cryoprotection | 30% (v/v) [Ethylene Glycol](/xray-mp-wiki/reagents/additives/ethylene-glycol/) in reservoir buffer |
 | Notes | Crystals harvested after 3-4 days. Diffraction data collected at Australian Synchrotron MX2 beamline. Four datasets merged due to radiation damage. |
 
 

@@ -1,5 +1,5 @@
 ---
-title: EIIA^Glc (Escherichia coli Enzyme IIA^Glc)
+title: "EIIA^Glc (Escherichia coli Enzyme IIA^Glc)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -21,7 +21,7 @@ EIIA^Glc (Enzyme IIA^Glc) is a central signaling protein in the Escherichia coli
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature12232 | not specified | 3.9 | not specified | EIIA^Glc residues 19-168 (N-terminal 18 residues disordered) in complex with MalFGK2 | MalFGK2 ([Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter, ABC transporter) |
+| doi/10.1038##nature12232 | 4JBW | 3.9 | not specified | EIIA^Glc residues 19-168 (N-terminal 18 residues disordered) in complex with MalFGK2 | MalFGK2 ([Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter, ABC transporter) |
 | doi/10.1038##nature12232 | 1F3G | not specified | not specified | Free EIIA^Glc (used as search model for [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement)) | none |
 
 ## Expression and Purification
@@ -32,7 +32,7 @@ EIIA^Glc (Enzyme IIA^Glc) is a central signaling protein in the Escherichia coli
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ The N-terminal 18 residues are disordered in the crystal structure. Studies of s
 
 ## Cross-References
 
-- [Maltose Transporter (MalFGK2)](/xray-mp-wiki/proteins/abc-transporters/maltose-transporter/) — Primary target of EIIA^Glc inhibition; complex structure solved in this paper
+- [Maltose Transporter (MalFGK2)](/xray-mp-wiki/proteins/abc-transporters/maltose-transporter-malfgk2/) — Primary target of EIIA^Glc inhibition; complex structure solved in this paper
 - [MalK (Escherichia coli Maltose Transporter ATPase Subunit)](/xray-mp-wiki/proteins/abc-transporters/malK/) — EIIA^Glc binds to [MalK (Escherichia coli Maltose Transporter ATPase Subunit)](/xray-mp-wiki/proteins/malK) NBD and regulatory domain interfaces
 - [MalF (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/abc-transporters/malF/) — TM subunit of the [Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter complex
 - [MalG (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/abc-transporters/malG/) — TM subunit of the [Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter complex

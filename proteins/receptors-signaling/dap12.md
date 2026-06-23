@@ -1,5 +1,5 @@
 ---
-title: DAP12 (CD331)
+title: "DAP12 (CD331)"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -31,7 +31,7 @@ DAP12 (Discoidin Domain-Related Protein 12, also known as CD331 or KARAP) is a e
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

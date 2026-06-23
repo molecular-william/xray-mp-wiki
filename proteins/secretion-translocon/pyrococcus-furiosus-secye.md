@@ -1,5 +1,5 @@
 ---
-title: Pyrococcus furiosus SecYE Translocon
+title: "Pyrococcus furiosus SecYE Translocon"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -45,7 +45,7 @@ E. coli strain, confirming the essential role of this helix in protein targeting
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

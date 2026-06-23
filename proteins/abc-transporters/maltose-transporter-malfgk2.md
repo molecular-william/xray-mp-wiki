@@ -1,12 +1,12 @@
 ---
-title: Maltose Transporter MalFGK2 (E. coli)
+title: "Maltose Transporter MalFGK2 (E. coli)"
 created: 2026-06-08
 updated: 2026-06-16
 type: protein
 category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
-sources: [doi/10.1073##pnas.1108858108, doi/10.1073##pnas.1311407110, doi/10.1016##j.molcel.2009.01.035, doi/10.1126##science.1200767]
+sources: [doi/10.1016##j.molcel.2009.01.035, doi/10.1038##nature12232, doi/10.1073##pnas.1108858108, doi/10.1073##pnas.1311407110, doi/10.1126##science.1200767]
 verified: false
 ---
 
@@ -33,14 +33,12 @@ beyond that provided by MBP alone.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1108858108 | not specified | 2.2 | P1 | Full-length wild-type MalFGK2 with MBP | AMP-PNP (ground state) |
-| doi/10.1073##pnas.1108858108 | not specified | 2.3 | P1 | Full-length wild-type MalFGK2 with MBP | ADP-BeF3 (ground state) |
-| doi/10.1073##pnas.1108858108 | not specified | 2.4 | P1 | Full-length wild-type MalFGK2 with MBP | ADP-VO4 (transition state) |
-| doi/10.1073##pnas.1108858108 | not specified | 2.3 | P1 | Full-length wild-type MalFGK2 with MBP | ADP-AlF4 (transition state) |
+| doi/10.1073##pnas.1108858108 | 3RLF | 2.3 | P1 | Full-length wild-type MalFGK2 with MBP | ADP-AlF4 (transition state) |
 | doi/10.1073##pnas.1311407110 | 4KHZ | 2.9 | — | MBP-MalFGK2 complex with maltoheptaose | maltoheptaose |
 | doi/10.1073##pnas.1311407110 | 4KI0 |  | — | MBP-MalFGK2 complex with maltohexaose | maltohexaose |
 | doi/10.1016##j.molcel.2009.01.035 | 3FH6 | 4.5 | I222 | Delta TM1 MalFGK2 (lacking residues 2-35 of MalF) | none (nucleotide-free, inward-facing resting state) |
-| doi/10.1126##science.1200767 |  | 3.1 | P1 | MBP(G69C/S337C) locked-closed mutant complexed with MalFGK2 | maltose (in MBP and in TM site) |
+| doi/10.1126##science.1200767 | 3PV0 | 3.1 | P1 | MBP(G69C/S337C) locked-closed mutant complexed with MalFGK2 | maltose (in MBP and in TM site) |
+| doi/10.1038##nature12232 | 4JBW | 3.9 | not specified | Full MalFGK2 complex with two EIIA^Glc molecules (residues 19-168 of EIIA^Glc) | EIIA^Glc (regulatory protein, 2 molecules) |
 
 ## Expression and Purification
 
@@ -53,7 +51,7 @@ beyond that provided by MBP alone.
 - **Expression system**: E. coli
 - **Expression construct**: Full-length MalFGK2
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -136,3 +134,12 @@ The transmembrane subunits MalF and MalG contribute to substrate selectivity bey
 - [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — The maltose transporter is a prototype ABC importer
 - [n-Undecyl-beta-D-maltoside (UDM)](/xray-mp-wiki/reagents/detergents/udm/) — Detergent used for protein solubilization and crystallization
 - [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — Crystallization buffer at pH 7.5
+- [MalF (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/abc-transporters/malF/) — Transmembrane subunit; forms substrate translocation pathway
+- [MalG (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/abc-transporters/malG/) — Transmembrane subunit; contains P3 loop for substrate scoop
+- [MalK (Escherichia coli Maltose Transporter ATPase Subunit)](/xray-mp-wiki/proteins/abc-transporters/malK/) — ATP-binding subunit; EIIA^Glc binds to MalK NBD and regulatory domain
+- [EIIA^Glc (Escherichia coli Enzyme IIA^Glc)](/xray-mp-wiki/proteins/abc-transporters/eiiaglc/) — Regulatory protein; allosteric inhibitor of MalFGK2
+- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for membrane solubilization and purification
+- [DMPC (1,2-Dimyristoyl-sn-glycero-3-phosphocholine)](/xray-mp-wiki/reagents/lipids/dmpc/) — Lipid component of bicelles used for crystallization
+- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — EIIA^Glc acts as a classical MWC allosteric inhibitor of the transporter
+- [IPTG (Isopropyl-beta-D-thiogalactopyranoside)](/xray-mp-wiki/reagents/additives/iptg/) — Iptg used in purification or crystallization buffer
+- [Magnesium Chloride (MgCl₂)](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Mgcl2 used in purification or crystallization buffer

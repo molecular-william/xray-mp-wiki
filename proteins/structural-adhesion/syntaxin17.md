@@ -1,5 +1,5 @@
 ---
-title: Syntaxin17 (STX17)
+title: "Syntaxin17 (STX17)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -29,8 +29,8 @@ canonical four-helix bundle with 16 hydrophobic layers and a conserved hydrophil
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.2006997117 |  | 2.0 |  | STX17 LIR motif (residues 167-188) in complex with [GABARAP (Gamma-aminobutyric Acid Receptor-Associated Protein)](/xray-mp-wiki/proteins/structural-adhesion/gabarap/) | none |
-| doi/10.1073##pnas.2006997117 |  |  |  | STX17 (residues 142-228), [SNAP29 (Synaptosomal-Associated Protein 29)](/xray-mp-wiki/proteins/structural-adhesion/snap29/) (residues 40-126, 191-258), [VAMP8 (Vesicle-Associated Membrane Protein 8)](/xray-mp-wiki/proteins/structural-adhesion/vamp8/) (residues 8-75) SNARE core complex | none |
+| doi/10.1073##pnas.2006997117 | 7BV6 | 2.0 |  | STX17 LIR motif (residues 167-188) in complex with [GABARAP (Gamma-aminobutyric Acid Receptor-Associated Protein)](/xray-mp-wiki/proteins/structural-adhesion/gabarap/) | none |
+| doi/10.1073##pnas.2006997117 | 7BV6 |  |  | STX17 (residues 142-228), [SNAP29 (Synaptosomal-Associated Protein 29)](/xray-mp-wiki/proteins/structural-adhesion/snap29/) (residues 40-126, 191-258), [VAMP8 (Vesicle-Associated Membrane Protein 8)](/xray-mp-wiki/proteins/structural-adhesion/vamp8/) (residues 8-75) SNARE core complex | none |
 
 ## Expression and Purification
 

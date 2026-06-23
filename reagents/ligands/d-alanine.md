@@ -58,5 +58,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [L-Alanine](/xray-mp-wiki/reagents/ligands/l-alanine/) — L-Alanine is the L-enantiomer counterpart used in the same AgcS study
+- [L-Alanine](/xray-mp-wiki/reagents/substrates/l-alanine/) — L-Alanine is the L-enantiomer counterpart used in the same AgcS study
 - [L-Alanine](/xray-mp-wiki/reagents/substrates/l-alanine/) — Entity mentioned in text

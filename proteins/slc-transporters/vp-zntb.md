@@ -1,5 +1,5 @@
 ---
-title: Vp-ZntB Cytoplasmic Domain (Vibrio parahaemolyticus Zinc Transporter)
+title: "Vp-ZntB Cytoplasmic Domain (Vibrio parahaemolyticus Zinc Transporter)"
 created: 2026-05-26
 updated: 2026-06-08
 type: protein
@@ -30,7 +30,7 @@ ZntB is a distant homolog of the [CorA Mg2+ Transporter](/xray-mp-wiki/concepts/
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

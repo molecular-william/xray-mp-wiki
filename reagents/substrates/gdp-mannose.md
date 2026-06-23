@@ -41,6 +41,6 @@ No comparison data available.
 
 - [Vrg4 GDP-Mannose Transporter](/xray-mp-wiki/proteins/slc-transporters/vrg4/) — Primary substrate and structural target
 - [Guanosine Diphosphate (GDP)](/xray-mp-wiki/reagents/ligands/gdp/) — Nucleotide component
-- [GDP-Fucose](/xray-mp-wiki/reagents/ligands/gdp-fucose/) — Related nucleotide sugar substrate
+- [GDP-Fucose](/xray-mp-wiki/reagents/substrates/gdp-fucose/) — Related nucleotide sugar substrate
 - [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Additive used in purification or crystallization buffers
 - [GDP-Fucose](/xray-mp-wiki/reagents/substrates/gdp-fucose/) — Entity mentioned in text

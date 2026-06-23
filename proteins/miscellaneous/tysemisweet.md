@@ -1,5 +1,5 @@
 ---
-title: TySemiSWEET from Thermotoga yellowstonii
+title: "TySemiSWEET from Thermotoga yellowstonii"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -31,7 +31,7 @@ TySemiSWEET is a bacterial sugar transporter from the [SemiSWEET Transporter Fam
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

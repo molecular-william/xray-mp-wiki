@@ -1,5 +1,5 @@
 ---
-title: Human ABCB10 Mitochondrial ATP-Binding Cassette Transporter
+title: "Human ABCB10 Mitochondrial ATP-Binding Cassette Transporter"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,9 +21,9 @@ ABCB10 is a human [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (A
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1217042110 |  | 2.90 |  | ABCB10 with N-terminal mitochondrial targeting presequence removed (N-terminal 151 residues or residues 6-126 deleted) | [AMPPCP (Adenosine 5'-[beta,gamma-methylene]triphosphate)](/xray-mp-wiki/reagents/amppcp/) |
-| doi/10.1073##pnas.1217042110 |  | 3.30 |  | ABCB10 with N-terminal mTP removed | AMPPNP |
-| doi/10.1073##pnas.1217042110 |  |  |  | ABCB10 apo |  |
+| doi/10.1073##pnas.1217042110 | 4AYT | 2.90 |  | ABCB10 with N-terminal mitochondrial targeting presequence removed (N-terminal 151 residues or residues 6-126 deleted) | [AMPPCP (Adenosine 5'-[beta,gamma-methylene]triphosphate)](/xray-mp-wiki/reagents/amppcp/) |
+| doi/10.1073##pnas.1217042110 | 4AYT | 3.30 |  | ABCB10 with N-terminal mTP removed | AMPPNP |
+| doi/10.1073##pnas.1217042110 | 4AYT |  |  | ABCB10 apo |  |
 
 ## Expression and Purification
 
@@ -36,7 +36,7 @@ ABCB10 is a human [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (A
 - **Expression construct**: ABCB10 with mTP removed, N- and C-terminal His-tags
 - **Tag info**: N- and C-terminal His-tags
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ Unlike other ABC transporters that adopt open-outwards conformations when bound 
 
 ### Portal between TMH1 and TMH2 for substrate entry
 
-The ABCB10 structures reveal a portal between transmembrane helices TMH1 and TMH2 that connects the central cavity to the membrane environment. This portal is occupied by [Cardiolipin](/xray-mp-wiki/reagents/cardiolipin/) in rod-form crystals and is partially open or closed depending on crystal form. The portal may serve as an entry route for amphipathic transport substrates into the substrate-binding cavity.
+The ABCB10 structures reveal a portal between transmembrane helices TMH1 and TMH2 that connects the central cavity to the membrane environment. This portal is occupied by [Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) in rod-form crystals and is partially open or closed depending on crystal form. The portal may serve as an entry route for amphipathic transport substrates into the substrate-binding cavity.
 
 ### Implications for ABC transporter mechanism
 
@@ -83,4 +83,4 @@ The ABCB10 structures support an adaptation of the [ATP](/xray-mp-wiki/reagents/
 - [Sav1866 Multidrug ABC Transporter](/xray-mp-wiki/proteins/abc-transporters/sav1866/) — Related protein mentioned in the study
 - [TM287/288 Heterodimeric ABC Exporter from Thermotoga maritima](/xray-mp-wiki/proteins/abc-transporters/tm287-288/) — Related protein mentioned in the study
 - [ELIC (Erwinia chrysanthemi Pentameric Ligand-Gated Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/elic/) — Related protein mentioned in the study
-- [Cardiolipin](/xray-mp-wiki/reagents/cardiolipin/) — Lipid additive for stabilization
+- [Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) — Lipid additive for stabilization

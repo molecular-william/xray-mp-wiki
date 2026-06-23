@@ -1,5 +1,5 @@
 ---
-title: LptB2FGC LPS Transport Complex from Enterobacter cloacae and Vibrio cholerae
+title: "LptB2FGC LPS Transport Complex from Enterobacter cloacae and Vibrio cholerae"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -33,7 +33,7 @@ The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

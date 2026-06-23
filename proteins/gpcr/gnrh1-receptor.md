@@ -1,5 +1,5 @@
 ---
-title: Human Gonadotropin-Releasing Hormone Receptor (GnRH1R)
+title: "Human Gonadotropin-Releasing Hormone Receptor (GnRH1R)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -20,7 +20,7 @@ The human gonadotropin-releasing hormone receptor (GnRH1R, also known as luteini
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41467-020-19109-w |  | 2.8 |  | Engineered construct: ICL3 (residues 243-256) replaced with thermostable Pyrococcus abyssi glycogen synthase (PGS) domain. Mutation: P128^3.39K for improved homogeneity. | Elagolix (NBI-56418) |
+| doi/10.1038##s41467-020-19109-w | 7BR3 | 2.8 |  | Engineered construct: ICL3 (residues 243-256) replaced with thermostable Pyrococcus abyssi glycogen synthase (PGS) domain. Mutation: P128^3.39K for improved homogeneity. | Elagolix (NBI-56418) |
 
 ## Expression and Purification
 
@@ -30,7 +30,7 @@ The human gonadotropin-releasing hormone receptor (GnRH1R, also known as luteini
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

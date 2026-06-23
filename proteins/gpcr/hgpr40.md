@@ -1,5 +1,5 @@
 ---
-title: Human Free Fatty Acid Receptor 1 (GPR40)
+title: "Human Free Fatty Acid Receptor 1 (GPR40)"
 created: 2026-06-08
 updated: 2026-06-16
 type: protein
@@ -37,7 +37,7 @@ Human GPR40 (Free Fatty Acid Receptor 1, FFAR1) is a G-protein-coupled receptor 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ Compound 1 and TAK-875 exhibit positive allosteric cooperativity (α = 2.1, β =
 
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Used in initial purification step
 - [Lauryl Maltose Neopentyl Glycol (LMNG)](/xray-mp-wiki/reagents/detergents/lmng/) — Used in SEC purification buffer
-- [Monoolein](/xray-mp-wiki/reagents/buffers/monoolein/) — Host lipid for LCP crystallization
+- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Host lipid for LCP crystallization
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Additive used in purification or crystallization buffers
 - [PEG400](/xray-mp-wiki/reagents/additives/peg-400/) — Additive used in purification or crystallization buffers

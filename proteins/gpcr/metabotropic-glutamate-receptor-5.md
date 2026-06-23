@@ -1,5 +1,5 @@
 ---
-title: Metabotropic Glutamate Receptor 5 (mGlu5)
+title: "Metabotropic Glutamate Receptor 5 (mGlu5)"
 created: 2026-05-29
 updated: 2026-06-03
 type: protein
@@ -37,7 +37,7 @@ Metabotropic glutamate receptor 5 (mGlu5) is a Class C G protein-coupled recepto
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Turkey Beta1-Adrenergic Receptor Ligand-Free Basal State
+title: "Turkey Beta1-Adrenergic Receptor Ligand-Free Basal State"
 created: 2026-06-05
 updated: 2026-06-05
 type: protein
@@ -32,7 +32,7 @@ Turkey beta1-adrenergic receptor (beta1-AR) in its ligand-free basal state, dete
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

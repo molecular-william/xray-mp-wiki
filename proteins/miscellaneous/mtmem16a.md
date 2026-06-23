@@ -1,5 +1,5 @@
 ---
-title: mTMEM16A (Murine TMEM16A Calcium-Activated Chloride Channel)
+title: "mTMEM16A (Murine TMEM16A Calcium-Activated Chloride Channel)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -22,7 +22,7 @@ mTMEM16A is the murine ortholog of TMEM16A (Ano1), the long sought-after Ca2+-ac
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1038##nsmb.2350 | 3JFQ | 3.7 A | TBD | Full-length mTMEM16A (isoform a) from Mus musculus | TBD |
-| doi/10.1038##nature13984 | TBD | TBD | TBD | Full-length mTMEM16A (isoform ac) from Mus musculus, expressed in HEK293T cells | TBD |
+| doi/10.1038##nature13984 | 4WIS | TBD | TBD | Full-length mTMEM16A (isoform ac) from Mus musculus, expressed in HEK293T cells | TBD |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ mTMEM16A is the murine ortholog of TMEM16A (Ano1), the long sought-after Ca2+-ac
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Mouse Dopamine Receptor D4 (DRD4)
+title: "Mouse Dopamine Receptor D4 (DRD4)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -35,7 +35,7 @@ Mouse [Dopamine](/xray-mp-wiki/reagents/ligands/dopamine/) receptor D4 ([DRD4](/
 - **Expression construct**: Mouse DRD4-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) chimera with [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), EGFP-His10, mutations F121W/P201I/P317A/C181R
 - **Tag info**: N-terminal [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), C-terminal 10xHis-tag, PreScission-cleavable EGFP
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

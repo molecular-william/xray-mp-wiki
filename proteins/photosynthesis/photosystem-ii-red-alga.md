@@ -1,5 +1,5 @@
 ---
-title: Photosystem II from Cyanidium caldarium (red alga)
+title: "Photosystem II from Cyanidium caldarium (red alga)"
 created: 2026-06-09
 updated: 2026-06-09
 type: protein
@@ -35,7 +35,7 @@ verified: false
 - **Expression construct**: Wild-type PSII core complex
 - **Tag info**: None (untagged native complex)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

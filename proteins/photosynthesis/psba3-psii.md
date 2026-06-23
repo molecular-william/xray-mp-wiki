@@ -1,5 +1,5 @@
 ---
-title: PsbA3-PSII dimer from Thermosynechococcus elongatus
+title: "PsbA3-PSII dimer from Thermosynechococcus elongatus"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -30,7 +30,7 @@ The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSI
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

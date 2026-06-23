@@ -27,6 +27,6 @@ The AbgT family is a large family of approximately 13,000 putative membrane tran
 
 ## Cross-References
 - [A. borkumensis YdaH transporter](/xray-mp-wiki/proteins/slc-transporters/ydah/) — First structurally characterized AbgT family member
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Related efflux pump; E. coli AbgT homolog studied alongside AcrB
+- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Related efflux pump; E. coli AbgT homolog studied alongside AcrB
 - [Antibiotic Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/antibiotic-efflux-pump/) — AbgT family includes resistance proteins like MtrF that function as efflux pumps
 - [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) — Related efflux pump family; comparison of transport mechanisms

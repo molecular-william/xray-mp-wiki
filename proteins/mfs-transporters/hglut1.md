@@ -1,5 +1,5 @@
 ---
-title: hGLUT1 (Human Glucose Transporter 1)
+title: "hGLUT1 (Human Glucose Transporter 1)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein

@@ -1,5 +1,5 @@
 ---
-title: Bovine F1-ATPase (azide-free ground state)
+title: "Bovine F1-ATPase (azide-free ground state)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -21,7 +21,7 @@ Bovine F1-ATPase is the catalytic domain of the mitochondrial F1Fo-ATP synthase.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1074##jbc.M700203200 | not stated in raw paper | 1.9 | P2_1_2_1_2_1 | Bovine mitochondrial F1-ATPase (alpha3beta3gamma subcomplex) | [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/), [ADP](/xray-mp-wiki/reagents/ligands/adp/), Mg2+ |
+| doi/10.1074##jbc.M700203200 | 2JDI | 1.9 | P2_1_2_1_2_1 | Bovine mitochondrial F1-ATPase (alpha3beta3gamma subcomplex) | [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/), [ADP](/xray-mp-wiki/reagents/ligands/adp/), Mg2+ |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ Bovine F1-ATPase is the catalytic domain of the mitochondrial F1Fo-ATP synthase.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

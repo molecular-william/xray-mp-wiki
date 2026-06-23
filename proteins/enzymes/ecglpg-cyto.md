@@ -1,5 +1,5 @@
 ---
-title: Cytoplasmic Domain of Escherichia coli Rhomboid Protease GlpG
+title: "Cytoplasmic Domain of Escherichia coli Rhomboid Protease GlpG"
 created: 2026-05-26
 updated: 2026-05-26
 type: protein
@@ -30,7 +30,7 @@ Crystal structure of the soluble cytoplasmic domain of the Escherichia coli rhom
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

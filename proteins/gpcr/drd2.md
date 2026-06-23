@@ -1,5 +1,5 @@
 ---
-title: Human D2 Dopamine Receptor (DRD2)
+title: "Human D2 Dopamine Receptor (DRD2)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -22,7 +22,7 @@ The human D2 dopamine receptor (DRD2) is a class A G protein-coupled receptor th
 |---|---|---|---|---|---|
 | doi/10.1038##nature25758 | 6C38 | 2.9 A | P212121 | Human DRD2 long variant with N-terminal [TRUNCATION](/xray-mp-wiki/concepts/truncation), T4L fused into ICL3, thermostabilizing mutations I122A, L375A, L379A | [RISPERIDONE](/xray-mp-wiki/reagents/ligands/risperidone) |
 | doi/10.1038##s41467-020-20221-0 | 7DFP | 3.1 A | C2 | Human DRD2-mbIIIG S121K/L123W with N-terminal [TRUNCATION](/xray-mp-wiki/concepts/truncation) (residues 1-34), ICL3 replaced by loop-modified cytochrome b562 (mbIIIG), Fab3089 bound | [SPIPERONE](/xray-mp-wiki/reagents/ligands/spiperone) |
-| doi/10.1038##s41467-020-14884-y |  |  |  | Human DRD2 long variant with N-terminal truncation, engineered with thermostabilizing mutations, crystallized with [HALOPERIDOL](/xray-mp-wiki/reagents/ligands/haloperidol) | [HALOPERIDOL](/xray-mp-wiki/reagents/ligands/haloperidol) |
+| doi/10.1038##s41467-020-14884-y | 6LUQ |  |  | Human DRD2 long variant with N-terminal truncation, engineered with thermostabilizing mutations, crystallized with [HALOPERIDOL](/xray-mp-wiki/reagents/ligands/haloperidol) | [HALOPERIDOL](/xray-mp-wiki/reagents/ligands/haloperidol) |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ The human D2 dopamine receptor (DRD2) is a class A G protein-coupled receptor th
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

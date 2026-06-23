@@ -1,5 +1,5 @@
 ---
-title: Methanococcus jannaschii SecY Translocation Channel
+title: "Methanococcus jannaschii SecY Translocation Channel"
 created: 2026-05-28
 updated: 2026-06-09
 type: protein
@@ -21,8 +21,8 @@ verified: false
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1038##nature02218 | 1RHZ | 3.2 A | P21212 | M. jannaschii [SECY](/xray-mp-wiki/proteins/secretion-translocon/secy/) complex (SecY-alpha, SecB-beta, SecE-gamma heterotrimer); wild-type Lys422Arg and Val423Thr (Y1) double mutant used for final structure | None |
-| doi/10.1016##j.molcel.2007.05.002 | 1RH5 (model used for molecular replacement) | 3.5 A | P21212 | M. jannaschii [SECY](/xray-mp-wiki/proteins/secretion-translocon/secy/) half-plug deletion mutant (Delta60-65); part of [SECYEG](/xray-mp-wiki/proteins/secretion-translocon/secyeg/) complex | None |
-| doi/10.1016##j.molcel.2007.05.002 | 1RH5 (model used for molecular replacement) | 3.6 A | P21212 | M. jannaschii [SECY](/xray-mp-wiki/proteins/secretion-translocon/secy/) full-plug deletion mutant (Delta57-67); part of [SECYEG](/xray-mp-wiki/proteins/secretion-translocon/secyeg/) complex | None |
+| doi/10.1016##j.molcel.2007.05.002 | 1RH5 | 3.5 A | P21212 | M. jannaschii [SECY](/xray-mp-wiki/proteins/secretion-translocon/secy/) half-plug deletion mutant (Delta60-65); part of [SECYEG](/xray-mp-wiki/proteins/secretion-translocon/secyeg/) complex | None |
+| doi/10.1016##j.molcel.2007.05.002 | 1RH5 | 3.6 A | P21212 | M. jannaschii [SECY](/xray-mp-wiki/proteins/secretion-translocon/secy/) full-plug deletion mutant (Delta57-67); part of [SECYEG](/xray-mp-wiki/proteins/secretion-translocon/secyeg/) complex | None |
 
 ## Expression and Purification
 

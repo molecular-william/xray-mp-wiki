@@ -1,5 +1,5 @@
 ---
-title: F1-ATPase from Caldalkalibacillus thermarum
+title: "F1-ATPase from Caldalkalibacillus thermarum"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,8 +21,8 @@ The F1-ATPase from Caldalkalibacillus thermarum is the water-soluble catalytic d
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1612035113 |  | 3.0 |  | Wild-type C. thermarum F1-ATPase (α₃β₃γδε subunits expressed with His10 tag on ε-subunit, TEV-cleaved) | Mg-[ADP](/xray-mp-wiki/reagents/ligands/adp/) (α- and β-subunits), [ADP](/xray-mp-wiki/reagents/ligands/adp/) + phosphate (βE-subunit), [ATP](/xray-mp-wiki/reagents/ligands/atp/) + Mg²⁺ (ε-subunit C-terminal helical domain) |
-| doi/10.1073##pnas.1612035113 |  | 2.6 |  | Mutant C. thermarum F1-ATPase (ε-subunit E83A, I88A, D89A, R92A, R99A, R123A, R127A — [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding deficient ε-subunit) | Mg-[ADP](/xray-mp-wiki/reagents/ligands/adp/) (α- and β-subunits), [ADP](/xray-mp-wiki/reagents/ligands/adp/) + phosphate (βE-subunit) |
+| doi/10.1073##pnas.1612035113 | 5HKK | 3.0 |  | Wild-type C. thermarum F1-ATPase (α₃β₃γδε subunits expressed with His10 tag on ε-subunit, TEV-cleaved) | Mg-[ADP](/xray-mp-wiki/reagents/ligands/adp/) (α- and β-subunits), [ADP](/xray-mp-wiki/reagents/ligands/adp/) + phosphate (βE-subunit), [ATP](/xray-mp-wiki/reagents/ligands/atp/) + Mg²⁺ (ε-subunit C-terminal helical domain) |
+| doi/10.1073##pnas.1612035113 | 5HKK | 2.6 |  | Mutant C. thermarum F1-ATPase (ε-subunit E83A, I88A, D89A, R92A, R99A, R123A, R127A — [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding deficient ε-subunit) | Mg-[ADP](/xray-mp-wiki/reagents/ligands/adp/) (α- and β-subunits), [ADP](/xray-mp-wiki/reagents/ligands/adp/) + phosphate (βE-subunit) |
 
 ## Expression and Purification
 
@@ -36,7 +36,7 @@ The F1-ATPase from Caldalkalibacillus thermarum is the water-soluble catalytic d
 - **Expression construct**: C. thermarum F1-ATPase with His10 tag + TEV site on ε-subunit
 - **Tag info**: His10 tag on ε-subunit, removed by TEV protease on-column
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

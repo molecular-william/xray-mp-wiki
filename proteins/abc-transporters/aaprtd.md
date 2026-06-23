@@ -1,5 +1,5 @@
 ---
-title: Aquifex aeolicus PrtD (AaPrtD) Type-1 Secretion System ABC Transporter
+title: "Aquifex aeolicus PrtD (AaPrtD) Type-1 Secretion System ABC Transporter"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -30,7 +30,7 @@ AaPrtD is the ABC transporter component of the Type-1 secretion system (T1SS) fr
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

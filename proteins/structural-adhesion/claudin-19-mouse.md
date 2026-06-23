@@ -1,5 +1,5 @@
 ---
-title: Mouse Claudin-19 (mCldn19)
+title: "Mouse Claudin-19 (mCldn19)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ Mouse claudin-19 (mCldn19) is a tight junction membrane protein belonging to the
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.1261833 | — | 3.7 | — | mCldn19_cryst (C-terminal 26 residues removed, three membrane-proximal cysteines substituted with alanines) | [C Cpe](/xray-mp-wiki/reagents/ligands/c-cpe/) (Clostridium perfringens enterotoxin) |
+| doi/10.1126##science.1261833 | 3X29 | 3.7 | — | mCldn19_cryst (C-terminal 26 residues removed, three membrane-proximal cysteines substituted with alanines) | [C Cpe](/xray-mp-wiki/reagents/ligands/c-cpe/) (Clostridium perfringens enterotoxin) |
 
 ## Expression and Purification
 
@@ -30,7 +30,7 @@ Mouse claudin-19 (mCldn19) is a tight junction membrane protein belonging to the
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: OqxB efflux pump from Klebsiella pneumoniae
+title: "OqxB efflux pump from Klebsiella pneumoniae"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -32,7 +32,7 @@ OqxB is a Resistance-Nodulation-Division (RND) efflux pump from *Klebsiella pneu
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

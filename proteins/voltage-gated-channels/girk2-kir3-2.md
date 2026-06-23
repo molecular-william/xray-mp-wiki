@@ -1,5 +1,5 @@
 ---
-title: Mouse GIRK2 (Kir3.2) G Protein-Gated Inward Rectifier K+ Channel
+title: "Mouse GIRK2 (Kir3.2) G Protein-Gated Inward Rectifier K+ Channel"
 created: 2026-06-08
 updated: 2026-06-09
 type: protein
@@ -21,9 +21,9 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.cell.2011.07.046 | unknown | 3.6 | not specified | Truncated mouse GIRK2 (residues 52-380) with unstructured N and C termini removed | none |
-| doi/10.1016##j.cell.2011.07.046 | unknown | 3.1 | not specified | R201A [Rhodopsin N2C/D282C Mutant](/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/) of truncated mouse GIRK2 (residues 52-380) | none |
-| doi/10.1016##j.cell.2011.07.046 | unknown | 3.5 | orthorhombic | R201A [Rhodopsin N2C/D282C Mutant](/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/) of truncated mouse GIRK2 (residues 52-380) with C8-[PIP2](/xray-mp-wiki/reagents/lipids/phosphatidylinositol-4-5-bisphosphate/) | 1,2-dioctanoyl-sn-glycero-3-phospho-(1-myo-inositol-4,5-bisphosphate) (C8-PIP2) |
+| doi/10.1016##j.cell.2011.07.046 | 3SYO | 3.6 | not specified | Truncated mouse GIRK2 (residues 52-380) with unstructured N and C termini removed | none |
+| doi/10.1016##j.cell.2011.07.046 | 3SYO | 3.1 | not specified | R201A [Rhodopsin N2C/D282C Mutant](/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/) of truncated mouse GIRK2 (residues 52-380) | none |
+| doi/10.1016##j.cell.2011.07.046 | 3SYO | 3.5 | orthorhombic | R201A [Rhodopsin N2C/D282C Mutant](/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/) of truncated mouse GIRK2 (residues 52-380) with C8-[PIP2](/xray-mp-wiki/reagents/lipids/phosphatidylinositol-4-5-bisphosphate/) | 1,2-dioctanoyl-sn-glycero-3-phospho-(1-myo-inositol-4,5-bisphosphate) (C8-PIP2) |
 | doi/10.1038##nature12241 | 4KFM | 3.45 | I422 | Mouse GIRK2 (residues 52-380) complexed with heterotrimeric G Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea [Yeast V-ATPase Subunits D and F (ScDF Assembly)](/xray-mp-wiki/proteins/pumps-atpases/yeast-v-atpase-subunits-d-f-scdf/) (ScDF Assembly) (ScDF Assembly) Gβ1 and Gγ2, in presence of [PIP2](/xray-mp-wiki/reagents/lipids/phosphatidylinositol-4-5-bisphosphate/) | [PIP2](/xray-mp-wiki/reagents/lipids/phosphatidylinositol-4-5-bisphosphate/), Na+ |
 
 ## Expression and Purification
@@ -35,7 +35,7 @@ GIRK2 (Kir3.2) is a G Rh Protein from Nitrosomonas europaea from Nitrosomonas eu
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

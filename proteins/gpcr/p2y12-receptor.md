@@ -1,5 +1,5 @@
 ---
-title: Human P2Y12 Receptor
+title: "Human P2Y12 Receptor"
 created: 2026-05-27
 updated: 2026-06-16
 type: protein
@@ -22,8 +22,8 @@ The P2Y12 receptor is a class A G protein-coupled receptor (GPCR) expressed on h
 |---|---|---|---|---|---|
 | doi/10.1016##j.bcp.2022.115291 | 7pp1 | 2.78 A | C2 | Human P2Y12 receptor with [BRIL](/xray-mp-wiki/reagents/protein-tags/bril) fused to ICL3 at T223-R224, D294(7.49)N mutation | [Selatogrel](/xray-mp-wiki/reagents/ligands/selatogrel) (ACT-246475) |
 | doi/10.1038##nature13083 | 4ntj | 2.6 A | C2 | Human P2Y12 receptor with [BRIL](/xray-mp-wiki/reagents/protein-tags/bril) fused to ICL3 at T223-R224, D294(7.49)N mutation | [AZD1283](/xray-mp-wiki/reagents/ligands/azd1283) |
-| doi/10.1038##nature13288 | ~ | 2.5 A | C222(1) | Human P2Y12 receptor with BRIL fused to ICL3 at T223-R224, D294(7.49)N mutation | [2MeSADP](/xray-mp-wiki/reagents/ligands/2me-sadp) |
-| doi/10.1038##nature13288 | ~ | 3.1 A | C2 | Human P2Y12 receptor with BRIL fused to ICL3 at T223-R224, D294(7.49)N mutation | [2MeSATP](/xray-mp-wiki/reagents/ligands/2me-satp) |
+| doi/10.1038##nature13288 | 4PXZ | 2.5 A | C222(1) | Human P2Y12 receptor with BRIL fused to ICL3 at T223-R224, D294(7.49)N mutation | [2MeSADP](/xray-mp-wiki/reagents/ligands/2me-sadp) |
+| doi/10.1038##nature13288 | 4PXZ | 3.1 A | C2 | Human P2Y12 receptor with BRIL fused to ICL3 at T223-R224, D294(7.49)N mutation | [2MeSATP](/xray-mp-wiki/reagents/ligands/2me-satp) |
 
 ## Expression and Purification
 
@@ -32,22 +32,20 @@ The P2Y12 receptor is a class A G protein-coupled receptor (GPCR) expressed on h
 
 ### Purification Workflow
 
-*Source: doi/10.1016##j.bcp.2022.115291*
+#### Source: doi/10.1016##j.bcp.2022.115291
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Cell culture and membrane preparation | Sf9 insect cell expression | -- | -- + -- | P2Y12-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril) fusion protein expressed in Sf9 insect cells; expressed as previously described |
 | Affinity chromatography | Immobilized metal affinity chromatography | IMAC | -- + -- | Purified in the presence of 2 mM [Selatogrel](/xray-mp-wiki/reagents/ligands/selatogrel) to stabilize the receptor-ligand complex |
 
-### Purification Workflow
-
-*Source: doi/10.1038##nature13288*
+#### Source: doi/10.1038##nature13288
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

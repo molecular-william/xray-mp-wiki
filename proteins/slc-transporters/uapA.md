@@ -1,5 +1,5 @@
 ---
-title: Uric acid/xanthine H+ symporter UapA from Aspergillus nidulans
+title: "Uric acid/xanthine H+ symporter UapA from Aspergillus nidulans"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ UapA from Aspergillus nidulans is a high-affinity purine/H+ symporter specific f
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

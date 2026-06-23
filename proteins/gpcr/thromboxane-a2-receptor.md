@@ -1,5 +1,5 @@
 ---
-title: Human Thromboxane A2 Receptor (TP)
+title: "Human Thromboxane A2 Receptor (TP)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -31,7 +31,7 @@ The human thromboxane A2 receptor (TP) is a class A G-protein-coupled receptor t
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

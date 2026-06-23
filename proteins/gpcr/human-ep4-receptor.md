@@ -1,5 +1,5 @@
 ---
-title: Human Prostaglandin E Receptor EP4
+title: "Human Prostaglandin E Receptor EP4"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ The prostaglandin E2 receptor EP4 (EP4) is a class A G protein-coupled receptor 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

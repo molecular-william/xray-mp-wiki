@@ -1,5 +1,5 @@
 ---
-title: Angiotensin II Type 1 Receptor
+title: "Angiotensin II Type 1 Receptor"
 created: 2026-05-27
 updated: 2026-06-10
 type: protein
@@ -37,13 +37,13 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 1 rece
 
 ### Purification Workflow
 
-*Source: doi/10.1074##jbc.M115.689000*
+#### Source: doi/10.1074##jbc.M115.689000
 
 - **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/)
 - **Expression construct**: [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-AT1R chimera with HA/FLAG/His tags (olmesartan-bound)
 - **Tag info**: [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) (N-terminal, cleaved by TEV)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -57,15 +57,13 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 1 rece
 **Final sample**: 30 mg/ml
 **Purity**: Tested by analytical [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)
 
-### Purification Workflow
-
-*Source: doi/10.1016##j.cell.2015.04.011*
+#### Source: doi/10.1016##j.cell.2015.04.011
 
 - **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/)
 - **Expression construct**: [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-AT1R chimera with HA/FLAG/His tags
 - **Tag info**: FLAG, [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) (N-terminal, cleaved by TEV)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -80,15 +78,13 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 1 rece
 **Final sample**: 30 mg/ml
 **Purity**: Tested by analytical [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)
 
-### Purification Workflow
-
-*Source: doi/10.1016##j.cell.2018.12.006*
+#### Source: doi/10.1016##j.cell.2018.12.006
 
 - **Expression system**: Expi293F mammalian cells (tetracycline-inducible)
 - **Expression construct**: AT1R with N-terminal HA signal, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), BRIL inserted into ICL3 (residues 226-227), I320 stop codon
 - **Tag info**: N-terminal HA signal, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

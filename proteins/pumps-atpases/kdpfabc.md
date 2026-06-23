@@ -1,5 +1,5 @@
 ---
-title: KdpFABC Potassium-Importing Complex
+title: "KdpFABC Potassium-Importing Complex"
 created: 2017-06-21
 updated: 2026-06-08
 type: protein
@@ -28,7 +28,7 @@ The KdpFABC complex is a four-subunit potassium pump from Escherichia coli that 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

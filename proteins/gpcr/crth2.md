@@ -1,5 +1,5 @@
 ---
-title: Human CRTH2 (PGD2 Receptor)
+title: "Human CRTH2 (PGD2 Receptor)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-CRTH2 (chemoattractant receptor-homologous molecule expressed on Th2 cells, also known as DP2) is a G-protein-coupled receptor (GPCR) for prostaglandin D2 (PGD2). It mediates type 2 inflammation and is a major drug target for asthma and other inflammatory disorders. CRTH2 is the only member of the prostanoid receptor family that is phylogenetically distant from other prostanoid receptors. This paper reports the crystal structure of human CRTH2 bound to the PGD2 derivative [15R Methyl Pgd2](/xray-mp-wiki/reagents/15r-methyl-pgd2/) (15mPGD2) by serial femtosecond crystallography (SFX) at 2.6-3.2 A resolution, revealing a "polar group in" binding mode that contrasts with the "polar group out" mode of PGE2 in EP3. Previous structures reported CRTH2 bound to antagonists fevipiprant (2.80 A) and CAY10471 (2.74 A).
+CRTH2 (chemoattractant receptor-homologous molecule expressed on Th2 cells, also known as DP2) is a G-protein-coupled receptor (GPCR) for prostaglandin D2 (PGD2). It mediates type 2 inflammation and is a major drug target for asthma and other inflammatory disorders. CRTH2 is the only member of the prostanoid receptor family that is phylogenetically distant from other prostanoid receptors. This paper reports the crystal structure of human CRTH2 bound to the PGD2 derivative [15R Methyl Pgd2](/xray-mp-wiki/reagents/ligands/15r-methyl-pgd2/) (15mPGD2) by serial femtosecond crystallography (SFX) at 2.6-3.2 A resolution, revealing a "polar group in" binding mode that contrasts with the "polar group out" mode of PGE2 in EP3. Previous structures reported CRTH2 bound to antagonists fevipiprant (2.80 A) and CAY10471 (2.74 A).
 
 
 ## Structure Determination
@@ -23,7 +23,7 @@ CRTH2 (chemoattractant receptor-homologous molecule expressed on Th2 cells, also
 |---|---|---|---|---|---|
 | doi/10.1016##j.molcel.2018.08.009 | 6D26 | 2.80 | P212121 | Human CRTH2 with mT4L insertion in ICL3, N25A mutation, C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) (R340-S395 removed), N-terminal 8-amino acid linker | Fevipiprant (QAW039) |
 | doi/10.1016##j.molcel.2018.08.009 | 6D27 | 2.74 | P212121 | Human CRTH2 with mT4L insertion in ICL3, N25A mutation, C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) (R340-S395 removed), N-terminal 8-amino acid linker | CAY10471 |
-| doi/10.1073##pnas.2102813118 | 7M8W | 2.60 | P212121 | Human CRTH2 with mT4L insertion in ICL3, N25A mutation, C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) at R340 | [15R Methyl Pgd2](/xray-mp-wiki/reagents/15r-methyl-pgd2/) (15mPGD2) |
+| doi/10.1073##pnas.2102813118 | 7M8W | 2.60 | P212121 | Human CRTH2 with mT4L insertion in ICL3, N25A mutation, C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) at R340 | [15R Methyl Pgd2](/xray-mp-wiki/reagents/ligands/15r-methyl-pgd2/) (15mPGD2) |
 
 ## Expression and Purification
 
@@ -33,7 +33,7 @@ CRTH2 (chemoattractant receptor-homologous molecule expressed on Th2 cells, also
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ Unlike EP3 where PGE2 directly contacts W6.48 (the toggle switch), 15mPGD2 binds
 - [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Crystallization method for CRTH2 antagonist structures
 - [Lipidic Cubic Phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP used for crystallization in the SFX structure (PDB 7M8W)
 - [Serial Femtosecond Crystallography](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) — SFX used to collect diffraction data from CRTH2 microcrystals at LCLS XFEL
-- [Molecular Dynamics Simulation](/xray-mp-wiki/methods/simulation/molecular-dynamics-simulation/) — MD simulations used to study lipid recognition and capture by CRTH2
+- [Molecular Dynamics Simulation](/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/) — MD simulations used to study lipid recognition and capture by CRTH2

@@ -1,5 +1,5 @@
 ---
-title: Human 5-HT2C Serotonin Receptor
+title: "Human 5-HT2C Serotonin Receptor"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-The 5-HT2C [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/serotonin/) receptor is a class A G protein-coupled receptor (GPCR) and a validated therapeutic target for anti-obesity medications (e.g., lorcaserin/Belviq), as well as a potential target for depression, schizophrenia, and drug addiction. The 5-HT2C receptor exhibits several RNA-edited isoforms, where the non-edited INI isoform displays high constitutive activity. Crystal structures of the 5-HT2C INI isoform were determined in complex with the polypharmacological agonist [ERG](/xray-mp-wiki/reagents/ligands/ergotamine/) (ERG) at 2.7 Å (PDB: 6BQG) and the selective inverse agonist ritanserin (RIT) at 2.8 Å (PDB: 6BQH), revealing the structural basis of GPCR polypharmacology. The structures reveal key differences in ligand binding modes, activation states, and microswitch conformations between the agonist-bound active-like state and the inverse agonist-bound inactive state.
+The 5-HT2C [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) receptor is a class A G protein-coupled receptor (GPCR) and a validated therapeutic target for anti-obesity medications (e.g., lorcaserin/Belviq), as well as a potential target for depression, schizophrenia, and drug addiction. The 5-HT2C receptor exhibits several RNA-edited isoforms, where the non-edited INI isoform displays high constitutive activity. Crystal structures of the 5-HT2C INI isoform were determined in complex with the polypharmacological agonist [ERG](/xray-mp-wiki/reagents/ligands/ergotamine/) (ERG) at 2.7 Å (PDB: 6BQG) and the selective inverse agonist ritanserin (RIT) at 2.8 Å (PDB: 6BQH), revealing the structural basis of GPCR polypharmacology. The structures reveal key differences in ligand binding modes, activation states, and microswitch conformations between the agonist-bound active-like state and the inverse agonist-bound inactive state.
 
 
 ## Structure Determination
@@ -32,7 +32,7 @@ The 5-HT2C [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/seroto
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

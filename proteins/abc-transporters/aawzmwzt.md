@@ -1,5 +1,5 @@
 ---
-title: AaWzmWzt (O Antigen ABC Transporter from Aquifex aeolicus)
+title: "AaWzmWzt (O Antigen ABC Transporter from Aquifex aeolicus)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ AaWzmWzt is an [ABC Transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41467-019-08646-8 | unknown | 2.7 | — | AaWzmWzt EQ mutant (E164Q) | [Adenosine Triphosphate (ATP)](/xray-mp-wiki/reagents/ligands/atp/) |
+| doi/10.1038##s41467-019-08646-8 | 6M96 | 2.7 | — | AaWzmWzt EQ mutant (E164Q) | [Adenosine Triphosphate (ATP)](/xray-mp-wiki/reagents/ligands/atp/) |
 | doi/10.1016##j.str.2019.11.020 | 6O14 | 2.65 | Not specified | Aa Wzt CBD (short construct, residues 245-395) |  |
 
 ## Expression and Purification
@@ -31,10 +31,10 @@ AaWzmWzt is an [ABC Transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc
 
 ### Purification Workflow
 
-*Source: doi/10.1038##s41467-019-08646-8*
+#### Source: doi/10.1038##s41467-019-08646-8
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -43,12 +43,10 @@ AaWzmWzt is an [ABC Transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc
 | Ni-NTA affinity chromatography | Immobilized metal-affinity chromatography | Ni-NTA agarose | Sequential washes with 22 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 5 mM LDAO, 40 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 5 mM LDAO, 1.5 M NaCl + 22 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 5 mM LDAO | Eluted with 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 5 mM LDAO |
 | Size-exclusion chromatography | Gel filtration | S200 gel filtration column (GE Healthcare) | 20 mM [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 100 mM NaCl, 5 mM [Magnesium Chloride (MgCl₂)](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 0.5 mM [Tris(2-carboxyethyl)phosphine (TCEP)](/xray-mp-wiki/reagents/additives/tcep/), 5 mM LDAO |  |
 
-### Purification Workflow
-
-*Source: doi/10.1016##j.str.2019.11.020*
+#### Source: doi/10.1016##j.str.2019.11.020
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

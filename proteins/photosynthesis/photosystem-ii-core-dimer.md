@@ -1,5 +1,5 @@
 ---
-title: Photosystem II core dimer from Thermosynechococcus elongatus
+title: "Photosystem II core dimer from Thermosynechococcus elongatus"
 created: 2026-05-29
 updated: 2026-06-08
 type: protein

@@ -1,5 +1,5 @@
 ---
-title: Rh Protein from Nitrosomonas europaea
+title: "Rh Protein from Nitrosomonas europaea"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ The Rh protein from Nitrosomonas europaea is the first determined structure of a
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.0709710104 |  |  |  | Full-length Rh protein from Nitrosomonas europaea; structure determined by Se-Met MAD phasing |  |
+| doi/10.1073##pnas.0709710104 | 3B9Y |  |  | Full-length Rh protein from Nitrosomonas europaea; structure determined by Se-Met MAD phasing |  |
 
 ## Expression and Purification
 
@@ -34,7 +34,7 @@ The Rh protein from Nitrosomonas europaea is the first determined structure of a
 - **Expression construct**: Full-length N. europaea Rh protein
 - **Tag info**: --
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

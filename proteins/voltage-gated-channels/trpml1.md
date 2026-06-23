@@ -1,5 +1,5 @@
 ---
-title: Human TRPML1 (Mucolipin-1) - Luminal Domain
+title: "Human TRPML1 (Mucolipin-1) - Luminal Domain"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -35,7 +35,7 @@ Human TRPML1 is a Ca2+-release channel primarily located in lysosomes, belonging
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 ---
-title: GlpF (Glycerol Facilitator from E. coli)
+title: "GlpF (Glycerol Facilitator from E. coli)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
 category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
-sources: [doi/10.1126##science.1067778, doi/10.1126##science.290.5491.481]
+sources: [doi/10.1038##414872a, doi/10.1126##science.1067778, doi/10.1126##science.290.5491.481, doi/10.1126##science.290.5497.481]
 verified: false
 ---
 
@@ -35,7 +35,6 @@ bipolar water orientation that blocks proton conduction.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.290.5491.481 | 1FX8 | 2.2 | — | Full-length GlpF with N-terminal [His6 Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) and thrombin cleavage site | [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) |
 | doi/10.1126##science.1067778 | 1FX8 | 2.2 | — | Full-length GlpF ([Glycerol](/xray-mp-wiki/reagents/additives/glycerol/)-bound, GlpF+G) | [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) |
 
 ## Expression and Purification
@@ -45,13 +44,13 @@ bipolar water orientation that blocks proton conduction.
 
 ### Purification Workflow
 
-*Source: doi/10.1126##science.290.5491.481*
+#### Source: doi/10.1126##science.290.5491.481
 
 - **Expression system**: E. coli K12
 - **Expression construct**: GlpF with N-terminal [His6 Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) and thrombin cleavage site
 - **Tag info**: [His6 Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/), removed by thrombin cleavage
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -60,12 +59,10 @@ bipolar water orientation that blocks proton conduction.
 
 **Final sample**: 15-20 mg/ml in crystallization buffer
 
-### Purification Workflow
-
-*Source: doi/10.1126##science.1067778*
+#### Source: doi/10.1126##science.1067778
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -126,3 +123,6 @@ The selectivity filter (SF) region of GlpF shows low water occupancy in both cry
 - [Bicine](/xray-mp-wiki/reagents/buffers/bicine/) — Referenced in glpf text
 - [OG](/xray-mp-wiki/reagents/detergents/og/) — Referenced in glpf text
 - [Peg](/xray-mp-wiki/reagents/additives/peg/) — Referenced in glpf text
+- [Aquaporin-1 (AQP1)](/xray-mp-wiki/proteins/other-ion-channels/aqp1/) — Water-specific aquaporin used as structural comparison; AQP1 constriction region is narrower and more hydrophilic, excluding glycerol
+- [Glpf](/xray-mp-wiki/proteins/other-ion-channels/glpf/) — Referenced in glycerol-facilitator text
+- [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) — Referenced in glycerol-facilitator text

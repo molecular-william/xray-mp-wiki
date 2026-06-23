@@ -1,5 +1,5 @@
 ---
-title: B800-850 Light-Harvesting Complex II (LH2) from Rhodospirillum molischianum
+title: "B800-850 Light-Harvesting Complex II (LH2) from Rhodospirillum molischianum"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -89,6 +89,6 @@ The α- and β-apoproteins have marginal sequence homology (26% and 31% identity
 - [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) — Initial solubilization detergent used during purification
 - [UDAO](/xray-mp-wiki/reagents/detergents/udao/) — Detergent used after exchange for crystallization
 - [Rps. viridis Photosynthetic Reaction Centre](/xray-mp-wiki/proteins/photosynthesis/rps-viridis-reaction-centre/) — Related photosynthetic membrane protein from purple bacteria
-- [Rhodobacter sphaeroides Reaction Centre with Zn-BChl](/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-centre-zn-bchl/) — Related photosynthetic complex from purple bacteria
+- [Rhodobacter sphaeroides Reaction Centre with Zn-BChl](/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-center/) — Related photosynthetic complex from purple bacteria
 - [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) — Related biological concept
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification

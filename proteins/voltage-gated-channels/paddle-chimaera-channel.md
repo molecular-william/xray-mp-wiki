@@ -1,5 +1,5 @@
 ---
-title: Paddle-Chimaera Voltage-Dependent Potassium Channel
+title: "Paddle-Chimaera Voltage-Dependent Potassium Channel"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -20,7 +20,7 @@ The paddle-chimaera channel is a chimeric voltage-dependent K+ (Kv) channel cons
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature06265 | not specified | 2.4 | P42(1)2 | Paddle-chimaera channel (Kv1.2 backbone with Kv2.1 paddle residues VAIIPYYVTIFLTESNKSVLQFQNVRRVVQIFRIMRILRIFK), co-expressed with rat beta2.1 subunit in Pichia pastoris | K+, NADP+ |
+| doi/10.1038##nature06265 | 2R9R | 2.4 | P42(1)2 | Paddle-chimaera channel (Kv1.2 backbone with Kv2.1 paddle residues VAIIPYYVTIFLTESNKSVLQFQNVRRVVQIFRIMRILRIFK), co-expressed with rat beta2.1 subunit in Pichia pastoris | K+, NADP+ |
 
 ## Expression and Purification
 
@@ -30,7 +30,7 @@ The paddle-chimaera channel is a chimeric voltage-dependent K+ (Kv) channel cons
 - **Expression construct**: Paddle-chimaera channel with N-terminal His10 tag and thrombin cleavage site, co-expressed with rat beta2.1 subunit (residues 36-367)
 - **Tag info**: N-terminal His10 tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

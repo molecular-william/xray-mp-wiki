@@ -1,5 +1,5 @@
 ---
-title: HtrII Transducer (Sensory Rhodopsin II Transducer)
+title: "HtrII Transducer (Sensory Rhodopsin II Transducer)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -30,7 +30,7 @@ unimpaired complex with SRII.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##NATURE01109 |  | 1.94 | Orthorhombic | HtrII_114 (residues 1-114, C-terminal truncated) in complex with NpSRII |  |
+| doi/10.1038##NATURE01109 | 1H2S | 1.94 | Orthorhombic | HtrII_114 (residues 1-114, C-terminal truncated) in complex with NpSRII |  |
 
 ## Expression and Purification
 
@@ -41,7 +41,7 @@ unimpaired complex with SRII.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

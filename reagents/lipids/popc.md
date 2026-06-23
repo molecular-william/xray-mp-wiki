@@ -36,7 +36,7 @@ POPC (1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine) is a synthetic phospholi
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [GltPh](/xray-mp-wiki/proteins/slc-transporters/gltph/) |  | Used as the membrane mimetic in ~72 us of aggregate MD simulations studying Na+-dependent HP2 gating and electrostatic substrate coupling |  |
+| [GltPh](/xray-mp-wiki/proteins/slc-transporters/glt-ph/) |  | Used as the membrane mimetic in ~72 us of aggregate MD simulations studying Na+-dependent HP2 gating and electrostatic substrate coupling |  |
 
 ## Advantages and Disadvantages
 
@@ -48,4 +48,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [GltPh Glutamate Transporter Homolog](/xray-mp-wiki/proteins/slc-transporters/gltph/) — POPC bilayer used as membrane environment for MD simulations of GltPh
+- [GltPh Glutamate Transporter Homolog](/xray-mp-wiki/proteins/slc-transporters/glt-ph/) — POPC bilayer used as membrane environment for MD simulations of GltPh

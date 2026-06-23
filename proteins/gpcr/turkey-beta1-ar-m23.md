@@ -1,5 +1,5 @@
 ---
-title: Turkey Beta1-Adrenergic Receptor M23
+title: "Turkey Beta1-Adrenergic Receptor M23"
 created: 2026-05-26
 updated: 2026-05-26
 type: protein
@@ -36,7 +36,7 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G protein-coupled re
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

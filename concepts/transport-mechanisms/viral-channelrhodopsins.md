@@ -36,5 +36,5 @@ Viral channelrhodopsins share the canonical 7-transmembrane helix architecture o
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Archetypal microbial rhodopsin; VR1 group includes proton-pumping members (VirRDTS)
 - [All-trans retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Chromophore covalently bound to conserved lysine in all viral channelrhodopsins
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used to crystallize OLPVR1 at 22 C
-- [Whole-Cell Patch-Clamp Recording](/xray-mp-wiki/methods/structure-determination/two-electrode-voltage-clamp/) — Electrophysiology method used to characterize VirChR1 ion channeling activity
+- [Whole-Cell Patch-Clamp Recording](/xray-mp-wiki/methods/quality-assessment/two-electrode-voltage-clamp/) — Electrophysiology method used to characterize VirChR1 ion channeling activity
 - [Drosophila Dopamine Transporter](/xray-mp-wiki/proteins/slc-transporters/d-dat/) — dDAT used as surrogate for norepinephrine transporter in structural studies

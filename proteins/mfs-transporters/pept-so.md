@@ -1,5 +1,5 @@
 ---
-title: PepT_So Oligopeptide Transporter
+title: "PepT_So Oligopeptide Transporter"
 created: 2026-05-26
 updated: 2026-06-02
 type: protein
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-PepT_So is a proton-coupled oligopeptide transporter from Shewanella oneidensis. It belongs to the POT (proton-dependent oligopeptide transporter) family, a subgroup of the Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/)). PepT_So uses a proton gradient to drive the uptake of di- and tri-peptides and serves as a model system for understanding mammalian peptide transporters PepT1 and PepT2. The crystal structure reveals a ligand-bound occluded conformation with a central hydrophilic peptide-binding cavity and His61 as a key residue in the proton-coupling machinery.
+PepT_So is a proton-coupled oligopeptide transporter from Shewanella oneidensis. It belongs to the POT (proton-dependent oligopeptide transporter) family, a subgroup of the Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/)). PepT_So uses a proton gradient to drive the uptake of di- and tri-peptides and serves as a model system for understanding mammalian peptide transporters PepT1 and PepT2. The crystal structure reveals a ligand-bound occluded conformation with a central hydrophilic peptide-binding cavity and His61 as a key residue in the proton-coupling machinery.
 
 
 ## Structure Determination
@@ -33,7 +33,7 @@ PepT_So is a proton-coupled oligopeptide transporter from Shewanella oneidensis.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ PepT_So is a proton-coupled oligopeptide transporter from Shewanella oneidensis.
 
 ### Ligand-bound occluded state of MFS transporter
 
-The PepT_So structure captures a ligand-bound occluded conformation of an [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/)
+The PepT_So structure captures a ligand-bound occluded conformation of an [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/)
 transporter, where both the extracellular and intracellular gates are closed,
 isolating the bound peptide within a central hydrophilic cavity. This represents
 a key intermediate in the [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/), bridging the outward-facing
@@ -96,7 +96,7 @@ proton electrochemical gradient.
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — PepT_So captures an occluded intermediate of the alternating access cycle
 - [PepT_St Proton-Dependent Oligopeptide Transporter](/xray-mp-wiki/proteins/mfs-transporters/pept-st/) — POT family member from Streptococcus thermophilus, 8 crystal structures
 - [PepT_So2 Oligopeptide Transporter](/xray-mp-wiki/proteins/mfs-transporters/pept-so2/) — POT family member from Shewanella oneidensis, inward open conformation with substrate
-- [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — Related biological concept
+- [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — Related biological concept
 - [MIRAS](/xray-mp-wiki/methods/structure-determination/miras/) — Method used in structure determination or purification
 - [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) — Additive used in purification or crystallization buffers
 - [L-Methionine](/xray-mp-wiki/reagents/ligands/l-methionine/) — Related ligand or cofactor

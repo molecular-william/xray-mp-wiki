@@ -1,5 +1,5 @@
 ---
-title: VrPPase (Vibrio rotiferans H+-Pumping Pyrophosphatase)
+title: "VrPPase (Vibrio rotiferans H+-Pumping Pyrophosphatase)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -21,8 +21,8 @@ VrPPase (H+-pumping inorganic pyrophosphatase from Vibrio rotiferans) is a membr
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##ncomms13596 | Not specified (supplementary only) | Not specified (supplementary only) | Not specified (supplementary only) |  | [IDP](/xray-mp-wiki/reagents/ligands/idp/) (inositol pyrophosphate) |
-| doi/10.1038##ncomms13596 | Not specified (supplementary only) | Not specified (supplementary only) | Not specified (supplementary only) |  | Pi (inorganic phosphate) |
+| doi/10.1038##ncomms13596 |  | Not specified (supplementary only) | Not specified (supplementary only) |  | [IDP](/xray-mp-wiki/reagents/ligands/idp/) (inositol pyrophosphate) |
+| doi/10.1038##ncomms13596 |  | Not specified (supplementary only) | Not specified (supplementary only) |  | Pi (inorganic phosphate) |
 
 ## Expression and Purification
 

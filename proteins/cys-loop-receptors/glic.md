@@ -1,5 +1,5 @@
 ---
-title: GLIC (Gloeobacter violaceus Ion Channel)
+title: "GLIC (Gloeobacter violaceus Ion Channel)"
 created: 2026-06-10
 updated: 2026-06-21
 type: protein
@@ -24,20 +24,20 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 | doi/10.1038##nature07461 | 3GHG | 3.1 | C2 | Full-length GLIC wild-type | -- |
 | doi/10.1038##nature07462 | 3EHZ | 2.9 | C2 | Full-length GLIC residues 6-315 (MBP fusion cleaved) | -- |
 | doi/10.1016##j.str.2012.08.009 | 3EAM | 3.25 | P21212 | Full-length GLIC residues 1-355 | -- |
-| doi/10.1016##j.str.2012.08.009 | not specified (Ketamine-bound) | 2.99 | — | Full-length GLIC co-crystallized with ketamine | Ketamine (1 mM, 5 sites per pentamer) |
+| doi/10.1016##j.str.2012.08.009 | 4F8H | 2.99 | — | Full-length GLIC co-crystallized with ketamine | Ketamine (1 mM, 5 sites per pentamer) |
 | doi/10.1016##j.str.2016.02.014 | 5HCJ | 2.95 | C2 | Full-length GLIC, MBP fusion cleaved | Bromoform (pore site, locally closed) |
 | doi/10.1016##j.str.2016.02.014 | 5HCM | 3.15 | C2 | Full-length GLIC, MBP fusion cleaved | Bromoform (open conformation, intra-subunit sites) |
 | doi/10.1085##jgp.201711803 | 5V6N | 3.12 | — | Full-length GLIC C27S + K33C + I9'A + N21'C quadruple mutant | -- |
-| doi/10.1038##emboj.2013.17 | not specified (GLIC_2.4) | 2.4 | C2 | Full-length GLIC residues 1-355 | Br-, Cs+, acetate, sulfate |
-| doi/10.1073##pnas.1314997111 | not specified (GLIC pH 7) | 4.35 | P21 | Full-length GLIC from G. violaceus, wild-type | -- |
-| doi/10.1073##pnas.1314997111 | not specified (GLIC_His10 pH 4) | not specified | P212121 | Full-length GLIC with C-terminal His10 tag, expressed in insect cells | -- |
-| doi/10.1073##pnas.1813378116 | not specified (Q193M pH 4) | 2.95 | — | GLIC Q193M mutant | -- |
-| doi/10.1073##pnas.1813378116 | not specified (Q193L pH 4) | 3.39 | — | GLIC Q193L mutant | -- |
-| doi/10.1073##pnas.1813378116 | not specified (Q193C pH 4) | 2.58 | — | GLIC Q193C mutant | -- |
-| doi/10.1073##pnas.1813378116 | not specified (Y197F pH 4) | not specified | — | GLIC Y197F mutant | -- |
-| doi/10.1073##pnas.1813378116 | not specified (K248C pH 4) | not specified | — | GLIC K248C mutant | -- |
-| doi/10.1073##pnas.1813378116 | not specified (K248A pH 4) | not specified | — | GLIC K248A mutant | -- |
-| doi/10.1073##pnas.1813378116 | not specified (E243C pH 4) | not specified | — | GLIC E243C mutant | -- |
+| doi/10.1038##emboj.2013.17 | 4HFI | 2.4 | C2 | Full-length GLIC residues 1-355 | Br-, Cs+, acetate, sulfate |
+| doi/10.1073##pnas.1314997111 | 4NPP | 4.35 | P21 | Full-length GLIC from G. violaceus, wild-type | -- |
+| doi/10.1073##pnas.1314997111 | 4NPP | not specified | P212121 | Full-length GLIC with C-terminal His10 tag, expressed in insect cells | -- |
+| doi/10.1073##pnas.1813378116 | 6HZW | 2.95 | — | GLIC Q193M mutant | -- |
+| doi/10.1073##pnas.1813378116 | 6HZW | 3.39 | — | GLIC Q193L mutant | -- |
+| doi/10.1073##pnas.1813378116 | 6HZW | 2.58 | — | GLIC Q193C mutant | -- |
+| doi/10.1073##pnas.1813378116 | 6HZW | not specified | — | GLIC Y197F mutant | -- |
+| doi/10.1073##pnas.1813378116 | 6HZW | not specified | — | GLIC K248C mutant | -- |
+| doi/10.1073##pnas.1813378116 | 6HZW | not specified | — | GLIC K248A mutant | -- |
+| doi/10.1073##pnas.1813378116 | 6HZW | not specified | — | GLIC E243C mutant | -- |
 | doi/10.1074##jbc.M116.766964 | 5L4H | 3.3 | C2 | GLIC K33C-L246C locally-closed (LC) mutant | [Bromobarbital](/xray-mp-wiki/reagents/ligands/bromobarbital) (pore site) |
 | doi/10.1074##jbc.M116.766964 | 5L47 | 2.99 | C2 | GLIC K33C-L246C locally-closed (LC) mutant | [Selenocyanobarbital](/xray-mp-wiki/reagents/ligands/selenocyanobarbital) (pore site) |
 | doi/10.1074##jbc.M116.766964 | 5L4E | 3.5 | C2 | GLIC K33C-L246C locally-closed (LC) mutant | [Thiopental](/xray-mp-wiki/reagents/ligands/thiopental) (pore site) |
@@ -51,13 +51,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature07462*
+#### Source: doi/10.1038##nature07462
 
 - **Expression system**: E. coli
 - **Expression construct**: Full-length GLIC with MBP fusion and thrombin cleavage site
 - **Tag info**: MBP fusion tag cleaved by thrombin
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -70,15 +70,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 
 **Final sample**: GLIC pentamer in 0.02% DDM buffer
 
-### Purification Workflow
-
-*Source: doi/10.1038##NSMB.1933*
+#### Source: doi/10.1038##NSMB.1933
 
 - **Expression system**: E. coli
 - **Expression construct**: Full-length GLIC with MBP-His10 fusion and E. coli pELB signal sequence
 - **Tag info**: MBP-His10, cleaved by HRV 3C protease
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -90,15 +88,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 
 **Final sample**: 10 mg/ml in 10 mM Tris pH 7.5, 150 mM NaCl, 0.5 mM DDM
 
-### Purification Workflow
-
-*Source: doi/10.7554##eLife.23886*
+#### Source: doi/10.7554##eLife.23886
 
 - **Expression system**: E. coli (C43)
 - **Expression construct**: Full-length GLIC with N-terminal MBP fusion and HRV 3C protease cleavage site, in modified pET26b vector
 - **Tag info**: MBP tag cleaved by HRV 3C protease
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -111,15 +107,13 @@ GLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the cyano
 
 **Final sample**: GLIC pentamer in 100 mM NaCl, 20 mM Tris-HCl pH 7.4, 0.5 mM DDM
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.1314997111*
+#### Source: doi/10.1073##pnas.1314997111
 
 - **Expression system**: E. coli / Insect cells (Sf9)
 - **Expression construct**: Full-length GLIC (untagged) for pH 7 structure; GLIC_His10 (C-terminal His10) for pH 4 structure
 - **Tag info**: His10 for GLIC_His10 expressed in insect cells
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

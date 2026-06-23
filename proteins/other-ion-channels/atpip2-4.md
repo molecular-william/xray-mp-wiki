@@ -1,5 +1,5 @@
 ---
-title: AtPIP2;4 (Arabidopsis thaliana Plasma Membrane Intrinsic Protein 2;4)
+title: "AtPIP2;4 (Arabidopsis thaliana Plasma Membrane Intrinsic Protein 2;4)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ AtPIP2;4 is a plasma membrane intrinsic protein (PIP) [Aquaporin](/xray-mp-wiki/
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

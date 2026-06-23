@@ -1,5 +1,5 @@
 ---
-title: DinF-BH (Bacillus halodurans DinF) - MATE Family H+-Coupled Transporter
+title: "DinF-BH (Bacillus halodurans DinF) - MATE Family H+-Coupled Transporter"
 created: 2026-06-05
 updated: 2026-06-08
 type: protein
@@ -36,12 +36,12 @@ DinF-BH is a multidrug and toxic compound extrusion (MATE) family transporter fr
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nsmb.2687*
+#### Source: doi/10.1038##nsmb.2687
 
 - **Expression system**: E. coli BL21(DE3) ΔacrABΔmacABΔyojHI
 - **Expression construct**: Full-length DinF-BH, pET15b, C-terminal His6 tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -50,14 +50,12 @@ DinF-BH is a multidrug and toxic compound extrusion (MATE) family transporter fr
 | Ni-NTA affinity chromatography | Ni-NTA resin | Ni-NTA | 20 mM HEPES-NaOH pH 7.5, 100 mM NaCl, 25% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 1 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep/) + 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Eluted with 500 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
 | Size-exclusion chromatography | Superdex 200 10/300 GL | Superdex 200 | 20 mM HEPES-NaOH pH 7.5, 100 mM NaCl, 15% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 1 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep/) + 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |  |
 
-### Purification Workflow
-
-*Source: doi/10.1038##ncomms8995*
+#### Source: doi/10.1038##ncomms8995
 
 - **Expression system**: E. coli BL21(DE3) ΔacrABΔmacABΔyojHI
 - **Expression construct**: Full-length DinF-BH, pET15b, C-terminal His6 tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -68,14 +66,12 @@ DinF-BH is a multidrug and toxic compound extrusion (MATE) family transporter fr
 | Thrombin cleavage | Thrombin protease incubation overnight | -- | -- + -- | Cleaved C-terminal His6 tag |
 | Size-exclusion chromatography | Superdex 200 SEC | Superdex 200 | 20 mM HEPES-NaOH pH 7.5, 100 mM NaCl, 15% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 1 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep/) + 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |  |
 
-### Purification Workflow
-
-*Source: doi/10.1038##nature17975*
+#### Source: doi/10.1038##nature17975
 
 - **Expression system**: E. coli BL21(DE3) ΔacrABΔmacABΔyojHI
 - **Expression construct**: Full-length DinF-BH, pET15b, C-terminal His6 tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

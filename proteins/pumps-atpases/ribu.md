@@ -1,5 +1,5 @@
 ---
-title: RibU (ECF-Type Riboflavin Transporter S Component from Staphylococcus aureus)
+title: "RibU (ECF-Type Riboflavin Transporter S Component from Staphylococcus aureus)"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -20,7 +20,7 @@ RibU is the S component (substrate-binding protein) of the energy-coupling facto
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature09488 | TBD | 3.6 | P212121 | residues 10-141, 153-188 | [Riboflavin (Vitamin B2)](/xray-mp-wiki/reagents/cofactors/riboflavin/) |
+| doi/10.1038##nature09488 | 3P5N | 3.6 | P212121 | residues 10-141, 153-188 | [Riboflavin (Vitamin B2)](/xray-mp-wiki/reagents/cofactors/riboflavin/) |
 
 ## Expression and Purification
 
@@ -30,7 +30,7 @@ RibU is the S component (substrate-binding protein) of the energy-coupling facto
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

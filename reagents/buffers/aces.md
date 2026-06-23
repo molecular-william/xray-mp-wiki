@@ -6,7 +6,7 @@ type: reagent
 category: reagents
 layout: default
 tags: [buffer-acetate, subdirectory-buffers]
-sources: [doi/10.1038##NATURE13293]
+sources: [doi/10.1038##NATURE13293, doi/10.7554##eLife.18767]
 verified: false
 ---
 

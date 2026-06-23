@@ -1,5 +1,5 @@
 ---
-title: TatA Substrate of E. coli Rhomboid Protease GlpG
+title: "TatA Substrate of E. coli Rhomboid Protease GlpG"
 created: 2026-06-02
 updated: 2026-06-08
 type: protein

@@ -1,5 +1,5 @@
 ---
-title: V-Type Na+-ATPase Rotor Ring (NtpK10) from Enterococcus hirae
+title: "V-Type Na+-ATPase Rotor Ring (NtpK10) from Enterococcus hirae"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -34,7 +34,7 @@ The membrane rotor ring from the vacuolar-type (V-type) sodium ion-pumping ATPas
 - **Expression system**: Enterococcus hirae (native)
 - **Expression construct**: Native NtpK ring
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

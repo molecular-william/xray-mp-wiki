@@ -1,5 +1,5 @@
 ---
-title: SmhA from Serratia marcescens
+title: "SmhA from Serratia marcescens"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -37,7 +37,7 @@ SmhA is the A component of the SmhABC tripartite alpha-pore-forming toxin (alpha
 - **Expression construct**: SmhA with C-terminal 6xHis tag
 - **Tag info**: C-terminal 6xHis tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

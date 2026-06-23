@@ -1,5 +1,5 @@
 ---
-title: Transient Receptor Potential Vanilloid 2 (TRPV2)
+title: "Transient Receptor Potential Vanilloid 2 (TRPV2)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -36,7 +36,7 @@ TRPV2 is a transient receptor potential vanilloid channel belonging to the TRPV 
 - **Expression construct**: miTRPV2, C-terminal [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/)
 - **Tag info**: [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), removed by [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

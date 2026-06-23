@@ -1,5 +1,5 @@
 ---
-title: E. coli PqiB Syringe-like MCE Protein
+title: "E. coli PqiB Syringe-like MCE Protein"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -30,7 +30,7 @@ PqiB is a periplasm-spanning MCE (mammalian cell entry) protein from Escherichia
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

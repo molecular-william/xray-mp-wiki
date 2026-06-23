@@ -1,5 +1,5 @@
 ---
-title: LH1-RC Supercomplex from Thermochromatium tepidum
+title: "LH1-RC Supercomplex from Thermochromatium tepidum"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1038##s41586-018-0002-9 | 5Y5S | 1.9 | C121 | LH1-RC supercomplex from Thermochromatium tepidum comprising 36 protein subunits: RC subunits (C-cytochrome, H, M, L) and 16 LH1 alpha-beta heterodimers (32 subunits) | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a (36 total: 4 in RC, 32 in LH1), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/) a (2), heme-Fe (4 in Cyt subunit), spirilloxanthin (17: 1 in RC, 16 in LH1), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe (1), Mg2+ (1 in Cyt), Ca2+ (16 in LH1), MQ8 (1, QA), UQ8 (5: QB + 3 in gap + 1 near channel), [Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) (9), [Phosphatidylglycerol](/xray-mp-wiki/reagents/lipids/phosphatidylglycerol/) (10), [Phosphatidylethanolamine](/xray-mp-wiki/reagents/lipids/phosphatidylethanolamine/) (2) |
-| doi/10.1038##s41467-021-21397-9 | Not specified in raw paper | 2.9 | Not specified | HiPIP:LH1-RC co-complex from Thermochromatium tepidum: LH1-RC supercomplex (RC subunits C, H, M, L + 16 LH1 alpha-beta heterodimers) bound with one HiPIP molecule at the Cyt subunit surface | HiPIP (4Fe-4S cluster), [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a, [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/) a, heme-Fe (4 in Cyt subunit), spirilloxanthin, non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe, Ca2+, [Menaquinone](/xray-mp-wiki/reagents/ligands/menaquinone/), [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) |
+| doi/10.1038##s41467-021-21397-9 | 7C52 | 2.9 | Not specified | HiPIP:LH1-RC co-complex from Thermochromatium tepidum: LH1-RC supercomplex (RC subunits C, H, M, L + 16 LH1 alpha-beta heterodimers) bound with one HiPIP molecule at the Cyt subunit surface | HiPIP (4Fe-4S cluster), [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a, [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/) a, heme-Fe (4 in Cyt subunit), spirilloxanthin, non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe, Ca2+, [Menaquinone](/xray-mp-wiki/reagents/ligands/menaquinone/), [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ The light-harvesting complex 1 (LH1) and reaction centre (RC) form a membrane-pr
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

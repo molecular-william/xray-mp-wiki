@@ -1,5 +1,5 @@
 ---
-title: Human Adenosine A2A Receptor A2A-PSB1-bRIL Complex
+title: "Human Adenosine A2A Receptor A2A-PSB1-bRIL Complex"
 created: 2026-05-26
 updated: 2026-05-26
 type: protein
@@ -31,7 +31,7 @@ The [A2AAR](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar) (A2AAR) is
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

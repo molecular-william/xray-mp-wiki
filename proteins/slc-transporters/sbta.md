@@ -1,5 +1,5 @@
 ---
-title: SbtA (High-Affinity Sodium-Dependent Bicarbonate Transporter, Synechocystis sp. PCC 6803)
+title: "SbtA (High-Affinity Sodium-Dependent Bicarbonate Transporter, Synechocystis sp. PCC 6803)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -21,15 +21,15 @@ SbtA is a high-affinity, sodium-dependent bicarbonate (HCO3-) transporter found 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.2101632118 | (not deposited) | 2.7 | Not applicable (cryo-EM) | Full-length SbtA (Synechocystis sp. PCC 6803) with C-terminal His-tag, co-expressed with [SBTB](/xray-mp-wiki/proteins/slc-transporters/sbtb/) | HCO3-, Na+, AMP |
-| doi/10.1073##pnas.2101632118 | (not deposited) | 3.2 | (not specified) | Full-length SbtA (Synechocystis sp. PCC 6803) with C-terminal His-tag, co-expressed with [SBTB](/xray-mp-wiki/proteins/slc-transporters/sbtb/) | HCO3-, Na+ |
+| doi/10.1073##pnas.2101632118 | 7EGL | 2.7 | Not applicable (cryo-EM) | Full-length SbtA (Synechocystis sp. PCC 6803) with C-terminal His-tag, co-expressed with [SBTB](/xray-mp-wiki/proteins/slc-transporters/sbtb/) | HCO3-, Na+, AMP |
+| doi/10.1073##pnas.2101632118 | 7EGL | 3.2 | (not specified) | Full-length SbtA (Synechocystis sp. PCC 6803) with C-terminal His-tag, co-expressed with [SBTB](/xray-mp-wiki/proteins/slc-transporters/sbtb/) | HCO3-, Na+ |
 
 ## Expression and Purification
 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ SbtA forms a homotrimer that is the functional unit. The scaffold domain mediate
 - [NhaA Sodium/Proton Antiporter](/xray-mp-wiki/proteins/slc-transporters/nhaa/) — Structural homologue sharing similar TM topology and transport mechanism
 - [Na+/H+ Antiporter NapA from Thermus thermophilus](/xray-mp-wiki/proteins/slc-transporters/nap-a/) — Structural homologue sharing similar elevator transport mechanism
 - [ASBT-NM (Bacterial Homologue of the Bile Acid Sodium Symporter ASBT)](/xray-mp-wiki/proteins/slc-transporters/asbt-nm/) — Structural homologue sharing similar 10 TM topology and elevator-like transport mechanism
-- [Ammonium Transporter AmtB (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/e-coli-amtb/) — Analogous regulatory system where PII protein GlnK allosterically inhibits AmtB
+- [Ammonium Transporter AmtB (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/amt-b/) — Analogous regulatory system where PII protein GlnK allosterically inhibits AmtB
 - [GlnK PII Signal Transduction Protein (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/glnk/) — SbtB is functionally analogous to GlnK, both being PII-family regulators
 - [PII Signal Transduction Protein Family](/xray-mp-wiki/concepts/signaling-receptors/pii-protein-family/) — SbtB is a member of the PII protein family
 - [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Main structural method used (2.7 A cryo-EM structure)
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Complementary crystal structure at 3.2 A resolution
-- [Nanodisc Reconstitution](/xray-mp-wiki/methods/nanodisc-reconstitution/) — SbtA-SbtB was reconstituted into POPG nanodiscs for cryo-EM
+- [Nanodisc Reconstitution](/xray-mp-wiki/methods/solubilization/nanodisc-reconstitution/) — SbtA-SbtB was reconstituted into POPG nanodiscs for cryo-EM

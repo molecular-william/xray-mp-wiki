@@ -1,5 +1,5 @@
 ---
-title: Vcx1 (Saccharomyces cerevisiae Vacuolar Ca2+/H+ Exchanger)
+title: "Vcx1 (Saccharomyces cerevisiae Vacuolar Ca2+/H+ Exchanger)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -33,7 +33,7 @@ Vcx1 (also known as Hum1p) is a vacuolar Ca2+/H+ exchanger from Saccharomyces ce
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

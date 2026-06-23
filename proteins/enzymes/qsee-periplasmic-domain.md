@@ -1,5 +1,5 @@
 ---
-title: QseE Periplasmic Sensor Domain (E. coli)
+title: "QseE Periplasmic Sensor Domain (E. coli)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -30,7 +30,7 @@ QseE is a histidine kinase (HK) and the sensor component of the QseE/F/G three-c
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Interleukin-17F (IL-17F)
+title: "Interleukin-17F (IL-17F)"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -35,7 +35,7 @@ IL-17F is a secreted cytokine and a member of the IL-17 cytokine family. It form
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

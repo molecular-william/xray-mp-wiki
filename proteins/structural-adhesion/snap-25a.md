@@ -1,5 +1,5 @@
 ---
-title: SNAP-25A (Rat Neuronal Qbc-SNARE Protein)
+title: "SNAP-25A (Rat Neuronal Qbc-SNARE Protein)"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -31,7 +31,7 @@ SNAP-25A (Synaptosomal-Associated Protein of 25 kDa, isoform A) is a neuronal Qb
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Thermus thermophilus SecE Accessory Subunit
+title: "Thermus thermophilus SecE Accessory Subunit"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -32,7 +32,7 @@ SecE is an essential accessory subunit of the bacterial Sec translocon that stab
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

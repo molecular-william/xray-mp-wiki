@@ -1,5 +1,5 @@
 ---
-title: Kv1.2-2.1-2m Chimeric Channel (W362F, S367T)
+title: "Kv1.2-2.1-2m Chimeric Channel (W362F, S367T)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -32,7 +32,7 @@ The Kv1.2-2.1-2m channel is a double mutant (W362F, S367T) of the Kv1.2-2.1 chim
 - **Expression system**: Pichia pastoris
 - **Expression construct**: Kv1.2-2.1-2m (W362F/S367T) with beta2 subunit
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

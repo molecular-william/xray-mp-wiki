@@ -1,5 +1,5 @@
 ---
-title: TMEM266 (mouse voltage-sensor protein)
+title: "TMEM266 (mouse voltage-sensor protein)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -30,7 +30,7 @@ TMEM266 (C15orf27 in human) is a voltage-sensor domain (VSD)-containing protein 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

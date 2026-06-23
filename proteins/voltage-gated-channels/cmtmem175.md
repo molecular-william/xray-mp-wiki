@@ -1,5 +1,5 @@
 ---
-title: CmTMEM175 — Prokaryotic TMEM175 Lysosomal Potassium Channel
+title: "CmTMEM175 — Prokaryotic TMEM175 Lysosomal Potassium Channel"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ CmTMEM175 is a prokaryotic homologue of the lysosomal potassium channel TMEM175 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

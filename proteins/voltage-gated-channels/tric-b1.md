@@ -1,5 +1,5 @@
 ---
-title: C. elegans TRIC-B1 Channel
+title: "C. elegans TRIC-B1 Channel"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -22,7 +22,7 @@ TRIC-B1 is an intracellular cation channel from Caenorhabditis elegans belonging
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1038##nature19767 | 5EGI | 3.3 A | P41212 | CeTRIC-B1 (residues 1-247), C. elegans, Myc and 6His tags removed | [PIP2](/xray-mp-wiki/reagents/lipids/phosphatidylinositol-4-5-bisphosphate/) (phosphatidylinositol-4,5-biphosphate), Ca2+ bound at trimeric center |
-| doi/10.1038##nature19767 | 5EIG (SAD derivative) | 3.9 A | C2221 | CeTRIC-B1 (residues 1-247), C. elegans, [Methylmercury Chloride](/xray-mp-wiki/reagents/additives/methylmercury-chloride/) derivative for SAD phasing | CH3HgCl derivative |
+| doi/10.1038##nature19767 | 5EIG | 3.9 A | C2221 | CeTRIC-B1 (residues 1-247), C. elegans, [Methylmercury Chloride](/xray-mp-wiki/reagents/additives/methylmercury-chloride/) derivative for SAD phasing | CH3HgCl derivative |
 
 ## Expression and Purification
 
@@ -33,7 +33,7 @@ TRIC-B1 is an intracellular cation channel from Caenorhabditis elegans belonging
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

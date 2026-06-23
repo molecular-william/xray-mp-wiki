@@ -1,5 +1,5 @@
 ---
-title: CmCLC Cl-/H+ Antiporter
+title: "CmCLC Cl-/H+ Antiporter"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -30,7 +30,7 @@ CmCLC is a CLC Cl-/H+ antiporter from the red alga Cyanidioschyzon merolae. Unli
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

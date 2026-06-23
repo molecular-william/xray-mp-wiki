@@ -1,5 +1,5 @@
 ---
-title: Human Alpha-1B Adrenergic Receptor (alpha1B AR)
+title: "Human Alpha-1B Adrenergic Receptor (alpha1B AR)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-The human alpha-1B adrenergic receptor (alpha1B AR, ADRA1B) is a class A G protein-coupled receptor that mediates physiological responses to the endogenous catecholamines [Epinephrine](/xray-mp-wiki/reagents/epinephrine/) and [Norepinephrine](/xray-mp-wiki/reagents/norepinephrine/). It plays key roles in cardiovascular function, CNS signaling, and immune regulation. The crystal structure of alpha1B AR bound to the inverse agonist (+)-cyclazosin was determined at 2.87 A resolution (anisotropy-corrected, PDB 7B6W), enabled by CHESS-based directed evolution for stabilization and a [Designed Ankyrin Repeat Protein (DARPin)](/xray-mp-wiki/reagents/protein-tags/darpin/) D12 crystallization chaperone. The structure revealed a canonical GPCR fold with two unique secondary binding pockets. Structural comparison with alpha2 ARs and construction of alpha1B-alpha2C chimeras identified residues 3.29 and 6.55 as key determinants of ligand selectivity. The structure provides a template for rational design of alpha1B AR-selective ligands and for understanding off-target binding of aminergic drugs.
+The human alpha-1B adrenergic receptor (alpha1B AR, ADRA1B) is a class A G protein-coupled receptor that mediates physiological responses to the endogenous catecholamines [Epinephrine](/xray-mp-wiki/reagents/ligands/epinephrine/) and [Norepinephrine](/xray-mp-wiki/reagents/ligands/norepinephrine/). It plays key roles in cardiovascular function, CNS signaling, and immune regulation. The crystal structure of alpha1B AR bound to the inverse agonist (+)-cyclazosin was determined at 2.87 A resolution (anisotropy-corrected, PDB 7B6W), enabled by CHESS-based directed evolution for stabilization and a [Designed Ankyrin Repeat Protein (DARPin)](/xray-mp-wiki/reagents/protein-tags/darpin/) D12 crystallization chaperone. The structure revealed a canonical GPCR fold with two unique secondary binding pockets. Structural comparison with alpha2 ARs and construction of alpha1B-alpha2C chimeras identified residues 3.29 and 6.55 as key determinants of ligand selectivity. The structure provides a template for rational design of alpha1B AR-selective ligands and for understanding off-target binding of aminergic drugs.
 
 
 ## Structure Determination
@@ -33,7 +33,7 @@ The human alpha-1B adrenergic receptor (alpha1B AR, ADRA1B) is a class A G prote
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ The receptor was stabilized using CHESS-based directed evolution in E. coli and 
 - [n-Decyl-beta-D-Maltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Reagent used in the study
 - [TES Buffer (N-Tris(hydroxymethyl)methyl-2-aminoethanesulfonic acid)](/xray-mp-wiki/reagents/buffers/tes/) — Reagent used in the study
 - [Ethylenediaminetetraacetic Acid (EDTA)](/xray-mp-wiki/reagents/additives/edta/) — Reagent used in the study
-- [Epinephrine](/xray-mp-wiki/reagents/epinephrine/) — Reagent used in the study
+- [Epinephrine](/xray-mp-wiki/reagents/ligands/epinephrine/) — Reagent used in the study

@@ -1,5 +1,5 @@
 ---
-title: Rat Neurotensin Receptor 1 (NTSR1)
+title: "Rat Neurotensin Receptor 1 (NTSR1)"
 created: 2026-06-02
 updated: 2026-06-08
 type: protein
@@ -21,10 +21,10 @@ The rat [Neurotensin](/xray-mp-wiki/reagents/ligands/neurotensin/) receptor 1 (N
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature11558 | Not specified | 2.80 | — | NTSR1-GW5-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) (GW5 thermostabilizing mutations, [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) replacing ICL3) | NTS(8-13) |
-| doi/10.1073##PNAS.1317903111 | Not specified | 3.26 | — | NTR1-TM86V-deltaIC3A (TM86V mutations, deltaIC3A deletion) | [Neurotensin](/xray-mp-wiki/reagents/ligands/neurotensin/) |
-| doi/10.1073##PNAS.1317903111 | Not specified | 2.75 | — | NTR1-TM86V-deltaIC3B | [Neurotensin](/xray-mp-wiki/reagents/ligands/neurotensin/) |
-| doi/10.1126##sciadv.abe5504 | Not specified | 2.5-3.2 | — | NTSR1-H4x (stabilized NTSR1-H4 mutant fused to [DARPIN](/xray-mp-wiki/reagents/protein-tags/darpin/) D12 via shared helix) | Multiple (NTS8-13, [SRI-9829 (Full NTSR1 Agonist)](/xray-mp-wiki/reagents/ligands/sri-9829/), [RTI-3a (Partial NTSR1 Agonist)](/xray-mp-wiki/reagents/ligands/rti-3a/), [SR48692](/xray-mp-wiki/reagents/ligands/sr48692/), SR142948A, apo) |
+| doi/10.1038##nature11558 | 4GRV | 2.80 | — | NTSR1-GW5-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) (GW5 thermostabilizing mutations, [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) replacing ICL3) | NTS(8-13) |
+| doi/10.1073##PNAS.1317903111 | 4BUO | 3.26 | — | NTR1-TM86V-deltaIC3A (TM86V mutations, deltaIC3A deletion) | [Neurotensin](/xray-mp-wiki/reagents/ligands/neurotensin/) |
+| doi/10.1073##PNAS.1317903111 | 4BUO | 2.75 | — | NTR1-TM86V-deltaIC3B | [Neurotensin](/xray-mp-wiki/reagents/ligands/neurotensin/) |
+| doi/10.1126##sciadv.abe5504 | 6YVR | 2.5-3.2 | — | NTSR1-H4x (stabilized NTSR1-H4 mutant fused to [DARPIN](/xray-mp-wiki/reagents/protein-tags/darpin/) D12 via shared helix) | Multiple (NTS8-13, [SRI-9829 (Full NTSR1 Agonist)](/xray-mp-wiki/reagents/ligands/sri-9829/), [RTI-3a (Partial NTSR1 Agonist)](/xray-mp-wiki/reagents/ligands/rti-3a/), [SR48692](/xray-mp-wiki/reagents/ligands/sr48692/), SR142948A, apo) |
 
 ## Expression and Purification
 
@@ -41,7 +41,7 @@ The rat [Neurotensin](/xray-mp-wiki/reagents/ligands/neurotensin/) receptor 1 (N
 - **Expression construct**: NTSR1-H4x (NTSR1-H4 fused to [DARPIN](/xray-mp-wiki/reagents/protein-tags/darpin/) D12)
 - **Tag info**: MBP-TrxA-His8 tag cleaved by [HRV 3C Protease](/xray-mp-wiki/reagents/additives/hrv-3c-protease/); octahistidine tag on [DARPIN](/xray-mp-wiki/reagents/protein-tags/darpin/)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

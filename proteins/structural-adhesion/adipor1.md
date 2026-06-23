@@ -1,5 +1,5 @@
 ---
-title: Adiponectin Receptor 1 (ADIPOR1)
+title: "Adiponectin Receptor 1 (ADIPOR1)"
 created: 2026-06-03
 updated: 2026-06-08
 type: protein
@@ -29,10 +29,10 @@ verified: false
 
 ### Purification Workflow
 
-*Source: unknown*
+#### Source: unknown
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -45,12 +45,10 @@ verified: false
 | Elution | Flag peptide elution | — | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes) pH 7.4, 200 mM NaCl, 0.025% DDM, 0.0001% CHS, 0.4 mg/ml Flag peptide | Bound receptor eluted with Flag peptide |
 | Purity evaluation | SDS-PAGE and analytical [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) | — | Not specified | Purity and monodispersity evaluated |
 
-### Purification Workflow
-
-*Source: doi/10.1038##s42003-020-01160-4*
+#### Source: doi/10.1038##s42003-020-01160-4
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

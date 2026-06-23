@@ -1,5 +1,5 @@
 ---
-title: Human CXCR4 Chemokine Receptor
+title: "Human CXCR4 Chemokine Receptor"
 created: 2026-06-08
 updated: 2026-06-16
 type: protein

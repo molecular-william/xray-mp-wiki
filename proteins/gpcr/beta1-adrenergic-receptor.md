@@ -1,5 +1,5 @@
 ---
-title: Turkey Beta1-Adrenergic Receptor (beta1AR)
+title: "Turkey Beta1-Adrenergic Receptor (beta1AR)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -35,13 +35,13 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
 
 ### Purification Workflow
 
-*Source: doi/10.1073##pnas.1100185108*
+#### Source: doi/10.1073##pnas.1100185108
 
 - **Expression system**: Sf9 insect cells (baculovirus)
 - **Expression construct**: beta1AR36-M23
 - **Tag info**: His-tag (Ni2+-affinity)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -51,15 +51,13 @@ The turkey beta1-adrenergic receptor (beta1AR) is a class A G-protein-coupled re
 
 **Final sample**: 5.5-9 mg/mL in crystallization buffer
 
-### Purification Workflow
-
-*Source: doi/10.1126##science.aau5595*
+#### Source: doi/10.1126##science.aau5595
 
 - **Expression system**: Sf9 insect cells (baculovirus)
 - **Expression construct**: beta1AR (wild-type or modified for nanobody complex formation)
 - **Tag info**: His-tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

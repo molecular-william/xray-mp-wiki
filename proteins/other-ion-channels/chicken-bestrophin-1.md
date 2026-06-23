@@ -1,5 +1,5 @@
 ---
-title: Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel
+title: "Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -20,8 +20,8 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature13913 | unknown | 2.85 | unknown | Chicken BEST1 (N-terminal region, residues 1-390) crystallized as complex with Fab fragments | Ca2+, Cl-/Br- |
-| doi/10.1073##pnas.1614688113 | not specified in paper text | not specified | unknown | Chicken BEST1 TripleA mutant (I76A/F80A/F84A) in complex with Fab 10-D10 | Ca2+ |
+| doi/10.1038##nature13913 | 4RDQ | 2.85 | unknown | Chicken BEST1 (N-terminal region, residues 1-390) crystallized as complex with Fab fragments | Ca2+, Cl-/Br- |
+| doi/10.1073##pnas.1614688113 | 5T5N | not specified | unknown | Chicken BEST1 TripleA mutant (I76A/F80A/F84A) in complex with Fab 10-D10 | Ca2+ |
 
 ## Expression and Purification
 
@@ -31,23 +31,21 @@ Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature13913*
+#### Source: doi/10.1038##nature13913
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Protein purification | Not detailed in main text | -- | Not specified + Not specified | BEST1 was purified and reconstituted into liposomes for functional assays. BEST1-Fab complex was formed for crystallization. |
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.1614688113*
+#### Source: doi/10.1073##pnas.1614688113
 
 - **Expression system**: Insect cells (likely Sf9 or High Five)
 - **Expression construct**: Chicken BEST1 N-terminal region (residues 1-390)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

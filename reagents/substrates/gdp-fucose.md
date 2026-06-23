@@ -42,7 +42,7 @@ No comparison data available.
 
 - [SLC35C1 Human GDP-Fucose Transporter](/xray-mp-wiki/proteins/slc-transporters/slc35c1/) — Primary transporter and disease target
 - [Guanosine Diphosphate (GDP)](/xray-mp-wiki/reagents/ligands/gdp/) — Nucleotide component
-- [GDP-Mannose](/xray-mp-wiki/reagents/ligands/gdp-mannose/) — Related nucleotide sugar substrate
+- [GDP-Mannose](/xray-mp-wiki/reagents/substrates/gdp-mannose/) — Related nucleotide sugar substrate
 - [Vrg4 GDP-Mannose Transporter (Saccharomyces cerevisiae)](/xray-mp-wiki/proteins/slc-transporters/vrg4/) — Related protein structure
 - [L-Fucose](/xray-mp-wiki/reagents/ligands/l-fucose/) — Related ligand or cofactor
 - [GDP-Mannose](/xray-mp-wiki/reagents/substrates/gdp-mannose/) — Entity mentioned in text

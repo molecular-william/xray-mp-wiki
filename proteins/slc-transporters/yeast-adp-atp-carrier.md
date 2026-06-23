@@ -1,5 +1,5 @@
 ---
-title: Yeast ADP/ATP Carrier (Aac2p and Aac3p)
+title: "Yeast ADP/ATP Carrier (Aac2p and Aac3p)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -33,10 +33,10 @@ conversion to the m-state without substrate binding.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1320692111 | not specified | 2.5 | C2221 | Full-length Saccharomyces cerevisiae Aac2p with N-terminal His tag | CATR (carboxyatractyloside) |
-| doi/10.1073##pnas.1320692111 | not specified | 3.2 | P212121 | Full-length S. cerevisiae Aac2p with N-terminal His tag | CATR |
-| doi/10.1073##pnas.1320692111 | not specified | 3.4 | P212121 | Full-length S. cerevisiae Aac3p with N-terminal His tag | CATR |
-| doi/10.1073##pnas.1320692111 | not specified | 3.2 | P21 | Full-length S. cerevisiae Aac3p with N-terminal His tag | CATR |
+| doi/10.1073##pnas.1320692111 | 4C9G | 2.5 | C2221 | Full-length Saccharomyces cerevisiae Aac2p with N-terminal His tag | CATR (carboxyatractyloside) |
+| doi/10.1073##pnas.1320692111 | 4C9G | 3.2 | P212121 | Full-length S. cerevisiae Aac2p with N-terminal His tag | CATR |
+| doi/10.1073##pnas.1320692111 | 4C9G | 3.4 | P212121 | Full-length S. cerevisiae Aac3p with N-terminal His tag | CATR |
+| doi/10.1073##pnas.1320692111 | 4C9G | 3.2 | P21 | Full-length S. cerevisiae Aac3p with N-terminal His tag | CATR |
 
 ## Expression and Purification
 
@@ -49,7 +49,7 @@ conversion to the m-state without substrate binding.
 - **Expression system**: S. cerevisiae WB12
 - **Expression construct**: Aac2p or Aac3p with N-terminal His tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -146,7 +146,7 @@ cytoplasmic gate.
 - [Thermothelomyces thermophila ADP/ATP Carrier](/xray-mp-wiki/proteins/slc-transporters/thermothelomyces-thermophila-adp-atp-carrier/) — Related fungal ADP/ATP carrier for structural comparison
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Yeast ADP/ATP carriers provide structural basis for domain-based alternating-access transport
 - [Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) — Three cardiolipin molecules tightly bound at interdomain interfaces
-- [Bongkrekic Acid](/xray-mp-wiki/reagents/additives/bongkrekic-acid/) — Specific inhibitor that locks the carrier in the matrix state (m-state)
+- [Bongkrekic Acid](/xray-mp-wiki/reagents/ligands/bongkrekic-acid/) — Specific inhibitor that locks the carrier in the matrix state (m-state)
 - [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — ADP/ATP carriers and ABC transporters both exemplify alternating-access transport mechanisms
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) — Buffer component in purification or crystallization

@@ -1,5 +1,5 @@
 ---
-title: Human Neurokinin 1 Receptor (NK1R)
+title: "Human Neurokinin 1 Receptor (NK1R)"
 created: 2026-06-08
 updated: 2026-06-11
 type: protein
@@ -27,7 +27,7 @@ The human neurokinin 1 receptor (NK1R, TACR1) is a class A G protein-coupled rec
  | [Aprepitant](/xray-mp-wiki/reagents/ligands/aprepitant/) |
 | doi/10.1038##s41467-018-07939-8 | 6HLP | 2.20 A | P212121 | Human NK1R-PGS fusion: Pyrococcus abyssi glycogen synthase (PGS) replacing ICL3; expressed in Sf9 insect cells via baculovirus
  | [Netupitant](/xray-mp-wiki/reagents/ligands/netupitant/) |
-| doi/10.1073##pnas.1812717115 | not specified | 3.4 A | not specified | Human NK1R-PGS fusion: Pyrococcus abyssi glycogen synthase (PGS) replacing ICL3; expressed in Sf9 insect cells via baculovirus
+| doi/10.1073##pnas.1812717115 | 6E59 | 3.4 A | not specified | Human NK1R-PGS fusion: Pyrococcus abyssi glycogen synthase (PGS) replacing ICL3; expressed in Sf9 insect cells via baculovirus
  | L760735 |
 
 ## Expression and Purification
@@ -40,10 +40,10 @@ The human neurokinin 1 receptor (NK1R, TACR1) is a class A G protein-coupled rec
 
 ### Purification Workflow
 
-*Source: doi/10.1038##s41467-018-07939-8*
+#### Source: doi/10.1038##s41467-018-07939-8
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -56,15 +56,13 @@ The human neurokinin 1 receptor (NK1R, TACR1) is a class A G protein-coupled rec
  + 0.03% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.006% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Cleaved receptor collected as flow-through; uncleaved and 3C protease bind resin |
 | Concentration | Vivaspin 2 concentrator (100 kDa MWCO) | — | as above + as above | Concentrated to ~50-60 mg/ml for crystallization |
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.1812717115*
+#### Source: doi/10.1073##pnas.1812717115
 
 - **Expression system**: Sf9 insect cells (baculovirus)
 - **Expression construct**: Human NK1R-PGS fusion with N-terminal [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) and His10 tag
 - **Tag info**: N-terminal [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) + His10 tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

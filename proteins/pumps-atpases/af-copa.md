@@ -1,5 +1,5 @@
 ---
-title: CopA from Archaeoglobus fulgidus (AfCopA)
+title: "CopA from Archaeoglobus fulgidus (AfCopA)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -34,7 +34,7 @@ CopA from Archaeoglobus fulgidus (AfCopA) is a copper-transporting P1B-type ATPa
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

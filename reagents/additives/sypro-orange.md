@@ -45,6 +45,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Fluorescence-Based Thermal Shift Assay](/xray-mp-wiki/methods/thermal-shift-assay/) — Method used with SYPRO Orange dye for protein stability measurements
+- [Fluorescence-Based Thermal Shift Assay](/xray-mp-wiki/methods/quality-assessment/thermal-shift-assay/) — Method used with SYPRO Orange dye for protein stability measurements
 - [Rabbit RyR1 Repeat12 Domain](/xray-mp-wiki/proteins/voltage-gated-channels/ry1-repeat12/) — Related protein structure
 - [Mouse RyR2 SPRY1 Domain](/xray-mp-wiki/proteins/voltage-gated-channels/ry2-spry1/) — Related protein structure

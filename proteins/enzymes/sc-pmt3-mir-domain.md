@@ -1,5 +1,5 @@
 ---
-title: Pmt3-MIR Domain (S. cerevisiae Protein O-Mannosyltransferase MIR Domain)
+title: "Pmt3-MIR Domain (S. cerevisiae Protein O-Mannosyltransferase MIR Domain)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -35,7 +35,7 @@ The Pmt3-MIR domain is the luminal MIR domain of Pmt3, a member of the PMT2 subf
 - **Expression construct**: Pmt3-MIR with N-terminal His6 tag and TEV protease cleavage site
 - **Tag info**: His6 tag cleaved by TEV protease
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: MdfA Multidrug Efflux Transporter
+title: "MdfA Multidrug Efflux Transporter"
 created: 2026-05-27
 updated: 2026-06-02
 type: protein
@@ -34,10 +34,10 @@ MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging
 
 ### Purification Workflow
 
-*Source: doi/10.1016##j.jmb.2018.02.026*
+#### Source: doi/10.1016##j.jmb.2018.02.026
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -47,19 +47,17 @@ MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging
 | Dialysis and concentration | Dialyzed overnight against dialysis buffer at 4 C, protein concentration determined by A280 (1 mg/mL = 2.1 A280) | -- | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.2, 0.12 M [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.01% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.01% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Purified MdfA used for binding assays, crystallization, and MD simulations |
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | MdfA(Q131R/L339E) purification for crystallization | Membranes solubilized with 0.5% DM ([DM](/xray-mp-wiki/reagents/detergents/dm/)), [Talon](/xray-mp-wiki/reagents/additives/talon/) [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/), [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) on [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200) 10/30 column | [Talon](/xray-mp-wiki/reagents/additives/talon/) beads (Clontech) | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 0.5 M [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.2% DM, 5 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 0.2% DM ([DM](/xray-mp-wiki/reagents/detergents/dm/)) | Concentrated to 10 mg/mL before [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) |
 | Size-exclusion chromatography | [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200) 10/30 column pre-equilibrated with [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) buffer | [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200) 10/30 (GE Healthcare) | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 100 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 5 mM [beta-mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/), 1.2 mM sodium [deoxycholate](/xray-mp-wiki/reagents/additives/deoxycholate/) (omitted in some experiments), 0.2-0.4% n-nonyl-beta-D-glucopyranoside (Anatrace), 0.025% [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) (Anatrace) + 0.2-0.4% NG (n-nonyl-beta-D-glucopyranoside), 0.025% [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) | Peak fractions pooled and concentrated to 15 mg/mL for crystallization |
 
-### Purification Workflow
-
-*Source: doi/10.1038##cr.2015.94*
+#### Source: doi/10.1038##cr.2015.94
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

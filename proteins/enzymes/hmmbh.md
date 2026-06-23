@@ -1,5 +1,5 @@
 ---
-title: Methanosarcina barkeri Membrane-Bound Hydrogenase (HmMBH)
+title: "Methanosarcina barkeri Membrane-Bound Hydrogenase (HmMBH)"
 created: 2026-05-28
 updated: 2026-05-28
 type: protein
@@ -21,7 +21,7 @@ HmMBH is a membrane-bound hydrogenase from Methanosarcina barkeri that forms (SL
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.str.2012.11.010 | not specified | not specified | not specified | HmMBH (SL)2 dimer | NiFe active site, Fe-S clusters |
+| doi/10.1016##j.str.2012.11.010 | 4GD3 | not specified | not specified | HmMBH (SL)2 dimer | NiFe active site, Fe-S clusters |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ HmMBH is a membrane-bound hydrogenase from Methanosarcina barkeri that forms (SL
 
 - **Expression system**: Methanosarcina barkeri
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

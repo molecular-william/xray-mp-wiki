@@ -1,5 +1,5 @@
 ---
-title: Phosphatidylinositol Phosphate Synthase PgsA1 from Mycobacterium tuberculosis
+title: "Phosphatidylinositol Phosphate Synthase PgsA1 from Mycobacterium tuberculosis"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -49,7 +49,7 @@ mechanism involving a substrate-induced [Carboxylate Shift](/xray-mp-wiki/concep
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ mechanism involving a substrate-induced [Carboxylate Shift](/xray-mp-wiki/concep
 
 - [Phosphatidylglycerol Phosphate Synthase PgsA from Staphylococcus aureus](/xray-mp-wiki/proteins/enzymes/sa-pgsa/) — Homologous CDP-AP family enzyme; structural and mechanistic comparison
 - [CDP-Alcohol Phosphotransferase Family](/xray-mp-wiki/concepts/protein-families/cdp-alcohol-phosphotransferase-family/) — PgsA1 belongs to the Class I CDP-alcohol phosphotransferase family
-- [Cytidine Diphosphate Diacylglycerol (CDP-DAG)](/xray-mp-wiki/reagents/ligands/cytidine-diphosphate-diacylglycerol/) — One of two substrates; CDP-DAG binding mechanism revealed in this study
+- [Cytidine Diphosphate Diacylglycerol (CDP-DAG)](/xray-mp-wiki/reagents/lipids/cytidine-diphosphate-diacylglycerol/) — One of two substrates; CDP-DAG binding mechanism revealed in this study
 - [Lipidic Cubic Phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used for substrate-bound PgsA1 structures
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Phasing method used to solve all three structures
 - [Carboxylate Shift](/xray-mp-wiki/concepts/structural-mechanisms/carboxylate-shift/) — Related biological concept

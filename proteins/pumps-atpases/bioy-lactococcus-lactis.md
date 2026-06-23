@@ -1,5 +1,5 @@
 ---
-title: BioY - Biotin S Component from Lactococcus lactis
+title: "BioY - Biotin S Component from Lactococcus lactis"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ BioY is the biotin-specific S component of the Energy-Coupling Factor (ECF) tran
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1203219109 |  | 2.10 | C2 | SeMet-substituted BioY with N-terminal decahistidine tag | D-biotin |
+| doi/10.1073##pnas.1203219109 | 4DVE | 2.10 | C2 | SeMet-substituted BioY with N-terminal decahistidine tag | D-biotin |
 
 ## Expression and Purification
 
@@ -37,7 +37,7 @@ BioY is the biotin-specific S component of the Energy-Coupling Factor (ECF) tran
 - **Expression construct**: N-terminal decahistidine-tagged BioY
 - **Tag info**: Decahistidine tag (not removed)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ BioY is the biotin-specific S component of the Energy-Coupling Factor (ECF) tran
 - **Expression construct**: N-terminal decahistidine-tagged BioY (biotin-free)
 - **Tag info**: Decahistidine tag (not removed)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: NavMs Sodium Channel from Magnetococcus marinus
+title: "NavMs Sodium Channel from Magnetococcus marinus"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -30,7 +30,7 @@ verified: false
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

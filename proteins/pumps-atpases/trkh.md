@@ -1,5 +1,5 @@
 ---
-title: TrkH (Potassium Channel from Klebsiella pneumoniae)
+title: "TrkH (Potassium Channel from Klebsiella pneumoniae)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -21,7 +21,7 @@ TrkH is a potassium channel protein from the bacterium Klebsiella pneumoniae tha
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature12056 | Not specified | 3.8 | P21 | TrkH-TrkA complex, TrkH subunit, 28,063 protein atoms in asymmetric unit | NADH |
+| doi/10.1038##nature12056 | 4J9U | 3.8 | P21 | TrkH-TrkA complex, TrkH subunit, 28,063 protein atoms in asymmetric unit | NADH |
 | doi/10.1038##nature12056 | 3PJZ | Not specified | Not specified | Isolated TrkH, compared with TrkH in TrkH-TrkA complex | None |
 
 ## Expression and Purification
@@ -32,7 +32,7 @@ TrkH is a potassium channel protein from the bacterium Klebsiella pneumoniae tha
 - **Expression construct**: His-tagged TrkH-[TRKA](/xray-mp-wiki/proteins/trka) complex
 - **Tag info**: His-tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

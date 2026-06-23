@@ -1,5 +1,5 @@
 ---
-title: CmABCB1 (Homodimeric P-glycoprotein from Cyanidioschyzon merolae)
+title: "CmABCB1 (Homodimeric P-glycoprotein from Cyanidioschyzon merolae)"
 created: 2026-06-08
 updated: 2026-06-10
 type: protein
@@ -35,8 +35,8 @@ apparatus, including extracellular, intramembranous, and cytosolic gates.
 |---|---|---|---|---|---|
 | doi/10.1038##s41467-018-08007-x | 6A6M | 1.9 | P4₁32 | QTA CmABCB1 (E610A/E620A/D621A) | [Mg²⁺·AMP-PNP](/xray-mp-wiki/reagents/ligands/amp-pnp/) |
 | doi/10.1038##s41467-018-08007-x | 6A6N | 3.0 | R32 | QTA CmABCB1 (E610A/E620A/D621A) |  |
-| doi/10.1073##pnas.1321562111 | — | 2.60 | R32 | WT CmABCB1 with N-terminal region (1-92) cleaved, C-terminal His₁₀ tag removed |  |
-| doi/10.1073##pnas.1321562111 | — | 2.40 | R32 | WT CmABCB1 with N-terminal region (1-92) cleaved, bound to aCAP | aCAP (macrocyclic peptide inhibitor) |
+| doi/10.1073##pnas.1321562111 | 3WME | 2.60 | R32 | WT CmABCB1 with N-terminal region (1-92) cleaved, C-terminal His₁₀ tag removed |  |
+| doi/10.1073##pnas.1321562111 | 3WME | 2.40 | R32 | WT CmABCB1 with N-terminal region (1-92) cleaved, bound to aCAP | aCAP (macrocyclic peptide inhibitor) |
 
 ## Expression and Purification
 
@@ -46,7 +46,7 @@ apparatus, including extracellular, intramembranous, and cytosolic gates.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

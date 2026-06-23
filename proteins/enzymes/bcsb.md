@@ -1,5 +1,5 @@
 ---
-title: BcsB from Rhodobacter sphaeroides (Cellulose Synthase Periplasmic Subunit)
+title: "BcsB from Rhodobacter sphaeroides (Cellulose Synthase Periplasmic Subunit)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -20,7 +20,7 @@ BcsB is a periplasmic protein that associates with the catalytic [Bcsa](/xray-mp
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature11744 |  | 4.5 A |  | BcsA-BcsB complex from Rhodobacter sphaeroides; BcsB residues 21-725 with N-terminal PelB signal sequence (generates additional Met-Gly dipeptide after cleavage) | Translocating glucan (18 [Glucose](/xray-mp-wiki/reagents/additives/glucose/) units visible in electron density) |
+| doi/10.1038##nature11744 | 4HG6 | 4.5 A |  | BcsA-BcsB complex from Rhodobacter sphaeroides; BcsB residues 21-725 with N-terminal PelB signal sequence (generates additional Met-Gly dipeptide after cleavage) | Translocating glucan (18 [Glucose](/xray-mp-wiki/reagents/additives/glucose/) units visible in electron density) |
 
 ## Expression and Purification
 
@@ -30,7 +30,7 @@ BcsB is a periplasmic protein that associates with the catalytic [Bcsa](/xray-mp
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -59,5 +59,5 @@ No comparison data available.
 
 - [Drosophila melanogaster Dopamine Transporter](/xray-mp-wiki/proteins/slc-transporters/d-dat/) — Co-crystallized with dDAT_NET to reveal subsite C binding mode
 - [Duloxetine](/xray-mp-wiki/reagents/ligands/duloxetine/) — SNRI with higher affinity; binds at subsites B and C
-- [Milnacipran](/xray-mp-wiki/reagents/ligands/milnacipran/) — SNRI; binds at subsite C with overlapping pose
+- [Milnacipran](/xray-mp-wiki/reagents/additives/milnacipran/) — SNRI; binds at subsite C with overlapping pose
 - [Nisoxetine](/xray-mp-wiki/reagents/ligands/nisoxetine/) — NET-specific inhibitor; binds at subsite B with higher affinity

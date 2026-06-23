@@ -1,5 +1,5 @@
 ---
-title: AcrA multidrug efflux pump periplasmic protein
+title: "AcrA multidrug efflux pump periplasmic protein"
 created: 2026-05-28
 updated: 2026-05-28
 type: protein
@@ -30,7 +30,7 @@ AcrA is a periplasmic membrane fusion protein from Escherichia coli that partner
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -116,7 +116,7 @@ that these positions are critical for AcrA function in the efflux system.
 
 ## Cross-References
 
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Inner membrane RND partner in the AcrAB-[TolC](/xray-mp-wiki/proteins/tolc) tripartite efflux system
+- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Inner membrane RND partner in the AcrAB-[TolC](/xray-mp-wiki/proteins/tolc) tripartite efflux system
 - [MexB Efflux Pump](/xray-mp-wiki/proteins/abc-transporters/mexB/) — P. aeruginosa RND inner membrane partner of MexA, homologous to [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/acrB)
 - [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) — Used for MAD phasing via [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine) labeling of quadruple methionine mutant
 - [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/) — Primary buffer (50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris) pH 8.0) used in expression, purification, and crystallization

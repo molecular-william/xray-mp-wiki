@@ -1,5 +1,5 @@
 ---
-title: PcManGT Mannosyltransferase
+title: "PcManGT Mannosyltransferase"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -33,7 +33,7 @@ PcManGT is a crenarchaeal membrane glycosyltransferase from Pyrobaculum calidifo
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -52,7 +52,7 @@ No comparison data available.
 - [TBOA (DL-threo-beta-benzyloxyaspartic acid)](/xray-mp-wiki/reagents/ligands/tboa/) — ONB-hydroxyaspartate is a close structural analogue of TFB-TBOA; both are competitive inhibitors
 - [p-OMe-azo-TBOA](/xray-mp-wiki/reagents/ligands/p-ome-azo-tboa/) — Other photoswitchable inhibitor used with GltTk in the same study
 - [L-Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/) — Radiolabeled aspartate uptake used to confirm inhibitory activity of ONB-hydroxyaspartate
-- [L-Glutamate](/xray-mp-wiki/reagents/ligands/l-glutamate/) — Physiological substrate of glutamate transporters; beta-hydroxyaspartate is a related substrate
+- [L-Glutamate](/xray-mp-wiki/reagents/substrates/l-glutamate/) — Physiological substrate of glutamate transporters; beta-hydroxyaspartate is a related substrate
 - [GLTTK](/xray-mp-wiki/proteins/slc-transporters/glttk/) — Related protein structure
 - [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers
 - [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) — Buffer component in purification or crystallization

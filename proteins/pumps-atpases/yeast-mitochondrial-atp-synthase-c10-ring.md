@@ -1,5 +1,5 @@
 ---
-title: Yeast Mitochondrial ATP Synthase c10 Ring
+title: "Yeast Mitochondrial ATP Synthase c10 Ring"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ The c10 ring is the membrane-embedded rotor component of the mitochondrial ATP s
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nsmb.2284 |  |  |  | c10 ring (10 c-subunits, open conformation) | none |
+| doi/10.1038##nsmb.2284 | 3U2F |  |  | c10 ring (10 c-subunits, open conformation) | none |
 
 ## Expression and Purification
 

@@ -1,5 +1,5 @@
 ---
-title: GluA2 Ligand-Binding Domain (L504Y, N775S)
+title: "GluA2 Ligand-Binding Domain (L504Y, N775S)"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -20,7 +20,7 @@ The ligand-binding domain ([LBD](/xray-mp-wiki/proteins/other-ion-channels/avglu
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.ejmech.2023.116036 | not deposited | 1.55 | not reported | GluA2-[LBD](/xray-mp-wiki/proteins/other-ion-channels/avglur1/) (L504Y, N775S), rat origin. L504Y creates dimeric [LBD](/xray-mp-wiki/proteins/other-ion-channels/avglur1/); N775S induces flip-like isoform | glutamate (orthosteric), compound 32/BPAM395 (allosteric PAM) |
+| doi/10.1016##j.ejmech.2023.116036 | 8QEZ | 1.55 | not reported | GluA2-[LBD](/xray-mp-wiki/proteins/other-ion-channels/avglur1/) (L504Y, N775S), rat origin. L504Y creates dimeric [LBD](/xray-mp-wiki/proteins/other-ion-channels/avglur1/); N775S induces flip-like isoform | glutamate (orthosteric), compound 32/BPAM395 (allosteric PAM) |
 
  - R-work not reported%, R-free not reported%; Data collection: ESRF beamline ID29
 

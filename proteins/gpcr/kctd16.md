@@ -1,5 +1,5 @@
 ---
-title: KCTD16 (Potassium Channel Tetramerization Domain-Containing Protein 16)
+title: "KCTD16 (Potassium Channel Tetramerization Domain-Containing Protein 16)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -32,7 +32,7 @@ peptide.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1903024116 |  | 2.4 | P1 | KCTD16 T1 domain (residues 22-134) in complex with GABA_B2(895-909) peptide | GABA_B2 peptide |
+| doi/10.1073##pnas.1903024116 | 6OCP | 2.4 | P1 | KCTD16 T1 domain (residues 22-134) in complex with GABA_B2(895-909) peptide | GABA_B2 peptide |
 
 ## Expression and Purification
 
@@ -42,7 +42,7 @@ peptide.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

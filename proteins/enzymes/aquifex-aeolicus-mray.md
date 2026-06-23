@@ -1,5 +1,5 @@
 ---
-title: Aquifex aeolicus MraY Phospho-MurNAc-pentapeptide Translocase
+title: "Aquifex aeolicus MraY Phospho-MurNAc-pentapeptide Translocase"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -48,10 +48,10 @@ and caprolactam pocket (unique to capuramycins).
 
 ### Purification Workflow
 
-*Source: doi/10.1038##s41467-019-10957-9*
+#### Source: doi/10.1038##s41467-019-10957-9
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -60,12 +60,10 @@ and caprolactam pocket (unique to capuramycins).
 | 3. Affinity chromatography | Co2+-affinity column | Co2+-affinity resin |  | His10-MBP tag; tag cleaved overnight by PreScission Protease |
 | 4. Size-exclusion chromatography | Gel filtration | Superdex 200 10/300 GL | 20 mM Tris-HCl pH 8.0, 150 mM NaCl, 2 mM DTT, 5 mM decyl-maltoside (DM) | Final purification step at 4 C |
 
-### Purification Workflow
-
-*Source: doi/10.1038##nature17636*
+#### Source: doi/10.1038##nature17636
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

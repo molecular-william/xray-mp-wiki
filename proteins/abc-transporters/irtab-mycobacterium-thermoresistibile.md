@@ -1,5 +1,5 @@
 ---
-title: IrtAB ABC Exporter from Mycobacterium thermoresistibile
+title: "IrtAB ABC Exporter from Mycobacterium thermoresistibile"
 created: 2026-06-21
 updated: 2026-06-21
 type: protein
@@ -32,8 +32,8 @@ to capture membrane-embedded mycobactin.
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1038##s41586-020-2136-9 | 6TEJ | 2.7 | P2₁ | IrtAB lacking SID domain (IrtAB(ΔSID)) with sybody Syb_NL5 | None (apo, inward-facing) |
-| doi/10.1038##s41586-020-2136-9 |  | 1.8 | P2₁ | Isolated SID domain (residues 1-...) | FAD |
-| doi/10.1038##s41586-020-2136-9 |  | 6.9 |  | Full-length IrtAB (including SID) |  |
+| doi/10.1038##s41586-020-2136-9 | 6TEJ | 1.8 | P2₁ | Isolated SID domain (residues 1-...) | FAD |
+| doi/10.1038##s41586-020-2136-9 | 6TEJ | 6.9 |  | Full-length IrtAB (including SID) |  |
 
 ## Expression and Purification
 
@@ -47,7 +47,7 @@ to capture membrane-embedded mycobactin.
 - **Expression construct**: Full-length IrtAB with C-terminal GFP-His10 tag on IrtB
 - **Tag info**: C-terminal His10 tag on IrtB (cleavable by 3C protease)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

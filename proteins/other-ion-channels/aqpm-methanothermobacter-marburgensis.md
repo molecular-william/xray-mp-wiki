@@ -1,5 +1,5 @@
 ---
-title: AqpM (Aquaporin from Methanothermobacter marburgensis)
+title: "AqpM (Aquaporin from Methanothermobacter marburgensis)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -32,7 +32,7 @@ AqpM is the aquaporin from the methanogenic archaeon Methanothermobacter marburg
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

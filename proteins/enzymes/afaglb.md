@@ -1,5 +1,5 @@
 ---
-title: Archaeoglobus fulgidus Oligosaccharyltransferase AfAglB
+title: "Archaeoglobus fulgidus Oligosaccharyltransferase AfAglB"
 created: 2026-06-10
 updated: 2026-06-10
 type: protein
@@ -21,7 +21,7 @@ AfAglB is the catalytic subunit of the oligosaccharyltransferase (OST) from the 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s42003-021-02473-8 |  | 2.7 |  | AfAglB G617C mutant with tethered sequon peptide (TAMRA-APY(Dab)VTASCR-OH) and bound dolichol-phosphate | Dolichol-phosphate, Mn2+ |
+| doi/10.1038##s42003-021-02473-8 | 7E9S | 2.7 |  | AfAglB G617C mutant with tethered sequon peptide (TAMRA-APY(Dab)VTASCR-OH) and bound dolichol-phosphate | Dolichol-phosphate, Mn2+ |
 
 ## Expression and Purification
 
@@ -33,7 +33,7 @@ AfAglB is the catalytic subunit of the oligosaccharyltransferase (OST) from the 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

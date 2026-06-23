@@ -1,5 +1,5 @@
 ---
-title: Cytochrome b (EcHyd-1 Partner)
+title: "Cytochrome b (EcHyd-1 Partner)"
 created: 2026-05-28
 updated: 2026-05-28
 type: protein
@@ -32,7 +32,7 @@ Cytochrome b is the physiological partner of Escherichia coli Hydrogenase 1 (EcH
 
 - **Expression system**: Escherichia coli
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

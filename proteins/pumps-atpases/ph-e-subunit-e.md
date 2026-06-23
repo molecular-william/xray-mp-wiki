@@ -1,5 +1,5 @@
 ---
-title: PH-E Subunit E of F-ATP Synthase Peripheral Stalk
+title: "PH-E Subunit E of F-ATP Synthase Peripheral Stalk"
 created: 2026-05-26
 updated: 2026-05-26
 type: protein
@@ -25,7 +25,7 @@ No structure determined.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

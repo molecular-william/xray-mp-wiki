@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) | 200 mM | Used as an additive in crystallization reservoir for AcrB-DARPin complexes (8-10% PEG 4000, 50 mM ADA pH 6.5, 200 mM (NH4)2SO4) | Three crystal structures resolved at 2.54-3.34 A resolution (PDB 2JBS, 3NOC, 3NOG) |
+| [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) | 200 mM | Used as an additive in crystallization reservoir for AcrB-DARPin complexes (8-10% PEG 4000, 50 mM ADA pH 6.5, 200 mM (NH4)2SO4) | Three crystal structures resolved at 2.54-3.34 A resolution (PDB 2JBS, 3NOC, 3NOG) |
 | [Squid Rhodopsin](/xray-mp-wiki/proteins/gpcr/squid-rhodopsin/) | 3.2 M | Primary precipitant in sitting-drop vapor diffusion crystallization of C-terminally truncated squid rhodopsin (3.2 M ammonium sulfate, 32 mM MES pH 6.4, 38 mM EDTA, 10 mM beta-mercaptoethanol) | Grew hexagonal P62 crystals to 200 micrometer size after >6 months incubation at 277 K |
 
 ## Advantages and Disadvantages

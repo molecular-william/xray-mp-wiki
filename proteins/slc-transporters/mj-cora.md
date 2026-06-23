@@ -1,5 +1,5 @@
 ---
-title: MjCorA — CorA Mg2+ Transporter from Methanocaldococcus jannaschii
+title: "MjCorA — CorA Mg2+ Transporter from Methanocaldococcus jannaschii"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ CorA is the primary Mg2+ transport system in most prokaryotes and is conserved t
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

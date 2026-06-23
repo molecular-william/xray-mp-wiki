@@ -1,5 +1,5 @@
 ---
-title: mHv1cc Mouse Voltage-Gated Proton Channel
+title: "mHv1cc Mouse Voltage-Gated Proton Channel"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ mHv1cc is a crystallizable construct of the mouse voltage-gated proton channel (
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nsmb.2783 | not specified in supplementary | 3.45 | P6_3 | mHv1cc (S76-mHv1cc construct), Se-Met labeled for MAD phasing | none (apo structure; Zn2+ binding analyzed by anomalous signals) |
+| doi/10.1038##nsmb.2783 | 3WKV | 3.45 | P6_3 | mHv1cc (S76-mHv1cc construct), Se-Met labeled for MAD phasing | none (apo structure; Zn2+ binding analyzed by anomalous signals) |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ mHv1cc is a crystallizable construct of the mouse voltage-gated proton channel (
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

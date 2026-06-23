@@ -1,5 +1,5 @@
 ---
-title: Cysteinyl Leukotriene Receptor 1 (CysLT1R)
+title: "Cysteinyl Leukotriene Receptor 1 (CysLT1R)"
 created: 2019-10-09
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ Cysteinyl leukotriene receptor type 1 (CysLT1R) is a class A G protein-coupled r
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

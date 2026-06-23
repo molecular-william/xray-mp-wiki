@@ -1,5 +1,5 @@
 ---
-title: Nitrate Reductase A (NarGHI) from Escherichia coli
+title: "Nitrate Reductase A (NarGHI) from Escherichia coli"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -26,10 +26,10 @@ The structure in complex with the inhibitor pentachlorophenol (PCP) at 2.0 A res
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1038##nsb969 | 1Q16 | 1.9 | C2221 | Full-length NarGHI heterotrimer encoded by the narGHJI operon, expressed in E. coli LCB2048 from vector pVA700 | Mo-bisMGD, two hemes b (bP and bD), five [Fe-S] clusters (FS0-FS4) |
-| doi/10.1074##jbc.M410457200 |  | 2.0 |  | Wild-type NarGHI complex with pentachlorophenol (PCP) inhibitor | PCP (pentachlorophenol), two hemes b (bP and bD) |
-| doi/10.1074##jbc.M410457200 |  | 1.9 |  | NarI-K86A mutant | Two hemes b |
-| doi/10.1074##jbc.M410457200 |  | 2.5 |  | NarI-H66Y mutant | Two hemes b |
-| doi/10.1021##bi049938l |  | 2.2 |  | Apomolybdo-NarGHI (tungstate-substituted, Mo-bisMGD absent) | FS0 [4Fe-4S] cluster (partial occupancy 0.5), no Mo-bisMGD |
+| doi/10.1074##jbc.M410457200 | 1Y4Z | 2.0 |  | Wild-type NarGHI complex with pentachlorophenol (PCP) inhibitor | PCP (pentachlorophenol), two hemes b (bP and bD) |
+| doi/10.1074##jbc.M410457200 | 1Y4Z | 1.9 |  | NarI-K86A mutant | Two hemes b |
+| doi/10.1074##jbc.M410457200 | 1Y4Z | 2.5 |  | NarI-H66Y mutant | Two hemes b |
+| doi/10.1021##bi049938l | 1SIW | 2.2 |  | Apomolybdo-NarGHI (tungstate-substituted, Mo-bisMGD absent) | FS0 [4Fe-4S] cluster (partial occupancy 0.5), no Mo-bisMGD |
 
 ## Expression and Purification
 
@@ -39,12 +39,12 @@ The structure in complex with the inhibitor pentachlorophenol (PCP) at 2.0 A res
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nsb969*
+#### Source: doi/10.1038##nsb969
 
 - **Expression system**: E. coli LCB2048
 - **Expression construct**: Full narGHJI operon
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -53,14 +53,12 @@ The structure in complex with the inhibitor pentachlorophenol (PCP) at 2.0 A res
 | Anion exchange chromatography | DEAE-Sepharose | DEAE-Sepharose | pH 6.5 and pH 7.5 + 0.7 mM Thesit | Two sequential anion exchange steps at different pH |
 | Gel filtration | SEC (Superdex 200) | Superdex 200 | -- + 0.7 mM Thesit | Used to determine optimal detergent concentration for crystallization |
 
-### Purification Workflow
-
-*Source: doi/10.1021##bi049938l*
+#### Source: doi/10.1021##bi049938l
 
 - **Expression system**: E. coli TP1000 (mobAB mutant, deficient in Mo-bisMGD synthesis)
 - **Expression construct**: Full narGHJI operon from pVA700
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Mouse RyR2 SPRY1 Domain
+title: "Mouse RyR2 SPRY1 Domain"
 created: 2026-06-05
 updated: 2026-06-05
 type: protein
@@ -33,7 +33,7 @@ The SPRY1 domain of mouse Ryanodine Receptor Type 2 (RyR2), spanning residues 65
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: StClC CIC Chloride Channel
+title: "StClC CIC Chloride Channel"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ StClC is a prokaryotic CIC chloride channel from Salmonella enterica serovar typ
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

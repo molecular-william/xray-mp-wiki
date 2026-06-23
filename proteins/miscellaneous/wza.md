@@ -1,5 +1,5 @@
 ---
-title: Wza (E. coli Capsular Polysaccharide Export Outer Membrane Lipoprotein)
+title: "Wza (E. coli Capsular Polysaccharide Export Outer Membrane Lipoprotein)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,14 +21,14 @@ Wza is an outer membrane lipoprotein from Escherichia coli that forms an octamer
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##NATURE05267 | Not specified in raw paper (SAD/SeMet, 2.26 A) | 2.26 | P2(1)2(1)2(1) |  |  |
+| doi/10.1038##NATURE05267 | 2J58 | 2.26 | P2(1)2(1)2(1) |  |  |
 
 ## Expression and Purification
 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

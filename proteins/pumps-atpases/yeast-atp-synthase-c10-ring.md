@@ -1,5 +1,5 @@
 ---
-title: Yeast ATP Synthase c10 Ring (Oligomycin-Bound)
+title: "Yeast ATP Synthase c10 Ring (Oligomycin-Bound)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1207912109 | — | 1.90 | — | c10 ring from Saccharomyces cerevisiae ATP synthase, oligomycin-soaked crystals | oligomycin |
+| doi/10.1073##pnas.1207912109 | 4F4S | 1.90 | — | c10 ring from Saccharomyces cerevisiae ATP synthase, oligomycin-soaked crystals | oligomycin |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ The c10 ring of the yeast mitochondrial F1Fo ATP synthase is a homomeric ring of
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

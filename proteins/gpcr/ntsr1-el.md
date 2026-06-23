@@ -1,5 +1,5 @@
 ---
-title: NTSR1-EL Constitutively Active Mutant
+title: "NTSR1-EL Constitutively Active Mutant"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ NTSR1-EL is a constitutively active mutant of the rat [Neurotensin](/xray-mp-wik
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

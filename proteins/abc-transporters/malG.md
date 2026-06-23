@@ -1,5 +1,5 @@
 ---
-title: MalG (Escherichia coli Maltose Transporter Transmembrane Subunit)
+title: "MalG (Escherichia coli Maltose Transporter Transmembrane Subunit)"
 created: 2026-06-02
 updated: 2026-06-03
 type: protein
@@ -21,7 +21,7 @@ MalG is a transmembrane subunit of the Escherichia coli [Maltose](/xray-mp-wiki/
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature06264 | not specified | 2.8 | not specified | Full-length MalG (296 residues) from E. coli [Maltose](/xray-mp-wiki/reagents/additives/maltose/) transporter | [Maltose](/xray-mp-wiki/reagents/additives/maltose/) (transmembrane binding site) |
+| doi/10.1038##nature06264 | 2R6G | 2.8 | not specified | Full-length MalG (296 residues) from E. coli [Maltose](/xray-mp-wiki/reagents/additives/maltose/) transporter | [Maltose](/xray-mp-wiki/reagents/additives/maltose/) (transmembrane binding site) |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ MalG is a transmembrane subunit of the Escherichia coli [Maltose](/xray-mp-wiki/
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ Residues 290-296 of MalG pack along the Q loop (residues 83-89) of one [MalK (Es
 
 ## Cross-References
 
-- [Maltose Transporter (MalFGK2)](/xray-mp-wiki/proteins/abc-transporters/maltose-transporter/) — Full transporter complex; EIIA^Glc binding structure solved in this paper
+- [Maltose Transporter (MalFGK2)](/xray-mp-wiki/proteins/abc-transporters/maltose-transporter-malfgk2/) — Full transporter complex; EIIA^Glc binding structure solved in this paper
 - [MalF (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/abc-transporters/malF/) — Partner transmembrane subunit; forms the TM cavity with MalG
 - [MalK (Escherichia coli Maltose Transporter ATPase Subunit)](/xray-mp-wiki/proteins/abc-transporters/malK/) — Cytoplasmic ATP-binding subunit; C-terminal tail of MalG inserts into MalK dimer
 - [MBP (Escherichia coli Maltose-Binding Protein)](/xray-mp-wiki/proteins/abc-transporters/maltose-binding-protein/) — Periplasmic binding protein; MalG P3 loop inserts into MBP cleft

@@ -1,5 +1,5 @@
 ---
-title: SagB-SpdC Complex
+title: "SagB-SpdC Complex"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -35,7 +35,7 @@ The SagB-SpdC complex from Staphylococcus aureus is a membrane protein complex t
 - **Expression construct**: SagB-His6 + Flag-SpdC (co-expression)
 - **Tag info**: His6 tag on SagB, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) on SpdC
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

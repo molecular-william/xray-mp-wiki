@@ -1,5 +1,5 @@
 ---
-title: Clostridium boltrea MraY Phospho-MurNAc-pentapeptide Translocase with Tunicamycin
+title: "Clostridium boltrea MraY Phospho-MurNAc-pentapeptide Translocase with Tunicamycin"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ MraY (phospho-MurNAc-pentapeptide translocase) is an essential integral membrane
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nchembio.2270 |  | 2.6 | C2221 | full-length CbMraY | [Tunicamycin](/xray-mp-wiki/reagents/antibiotics/tunicamycin/) |
+| doi/10.1038##nchembio.2270 | 5JNQ | 2.6 | C2221 | full-length CbMraY | [Tunicamycin](/xray-mp-wiki/reagents/antibiotics/tunicamycin/) |
 
 ## Expression and Purification
 

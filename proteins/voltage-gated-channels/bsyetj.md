@@ -1,5 +1,5 @@
 ---
-title: BsYetJ TMBIM Ca2+ Channel
+title: "BsYetJ TMBIM Ca2+ Channel"
 created: 2026-05-29
 updated: 2026-05-29
 type: protein
@@ -25,9 +25,9 @@ BsYetJ is a transmembrane Bax inhibitor motif (TMBIM) protein from Bacillus subt
 | doi/10.1016##j.str.2019.03.003 | 6NQ9 | 3.1 A | C2 | D195E BsYetJ mutant (Asp195 to Glu), N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (Delta5BsYetJ), 7 transmembrane helices; open conformation with TM2 unlocked | D195E mutation disrupting pH-sensing dyad |
 | doi/10.1016##j.cell.2014.03.045 | 4PGR | 2.8 A | P212121 | Wild-type BsYetJ (C10E5BsYetJ), N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), 7 transmembrane helices crystallized in detergent C10E5; closed conformation | Ca2+ binding site formed by Asp171-Asp195 dyad |
 | doi/10.1016##j.cell.2014.03.045 | 4PGS | 2.8 A | P212121 | Wild-type BsYetJ at pH 6 (C10E5BsYetJ), N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), 7 transmembrane helices; closed conformation | Protonated state of Asp171-Asp195 dyad at low pH |
-| doi/10.1126##science.1252043 | not deposited | 2.50 | P6,22 | Full-length BsYetJ, form-1 hexagonal crystals grown at pH 8. Closed conformation. Intracrystalline transition by soaking at pH 6 opens the pore. Reversible back-soaking to pH 8 recloses. | Di-aspartyl pH sensor Asp171-Asp195; Arg60 latch |
-| doi/10.1126##science.1252043 | not deposited | Not specified | C222,1 | Full-length BsYetJ, form-2 orthorhombic crystals grown at pH 6. Open conformation with TM2 displaced 13.5 A. | Protonated Asp171, disrupted Arg60-Asp171 salt bridge |
-| doi/10.1126##science.1252043 | not deposited | Not specified | P6,22 | Full-length BsYetJ at pH 7 (back-soaked from pH 6 to pH 7). Mixed 60:40 closed:open conformation. TM2 modeled in two alternative conformations. | Equilibrium state with 60% closed, 40% open conformation |
+| doi/10.1126##science.1252043 | 4PGR | 2.50 | P6,22 | Full-length BsYetJ, form-1 hexagonal crystals grown at pH 8. Closed conformation. Intracrystalline transition by soaking at pH 6 opens the pore. Reversible back-soaking to pH 8 recloses. | Di-aspartyl pH sensor Asp171-Asp195; Arg60 latch |
+| doi/10.1126##science.1252043 | 4PGR | Not specified | C222,1 | Full-length BsYetJ, form-2 orthorhombic crystals grown at pH 6. Open conformation with TM2 displaced 13.5 A. | Protonated Asp171, disrupted Arg60-Asp171 salt bridge |
+| doi/10.1126##science.1252043 | 4PGR | Not specified | P6,22 | Full-length BsYetJ at pH 7 (back-soaked from pH 6 to pH 7). Mixed 60:40 closed:open conformation. TM2 modeled in two alternative conformations. | Equilibrium state with 60% closed, 40% open conformation |
 
 ## Expression and Purification
 
@@ -73,7 +73,7 @@ Purified BsYetJ reconstituted into proteoliposomes shows pH-dependent calcium in
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for BsYetJ solubilization and purification
 - [Lauryldimethylamine N-oxide (LDAO)](/xray-mp-wiki/reagents/detergents/ldao/) — Alternative detergent used for BsYetJ solubilization
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid matrix used for LCP crystallization of wild-type BsYetJ (6NQ7)
-- [TEV Protease](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) — Protease used for His-tag removal from BsYetJ construct
+- [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) — Protease used for His-tag removal from BsYetJ construct
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used to crystallize BsYetJ in native-like lipid environment
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Phasing method used to solve BsYetJ structures
 - [NavAb Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) — Related bacterial ion channel with structural insights into ion selectivity

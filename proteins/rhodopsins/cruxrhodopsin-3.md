@@ -1,5 +1,5 @@
 ---
-title: Cruxrhodopsin-3 (cR3) from Haloarcula vallismortis
+title: "Cruxrhodopsin-3 (cR3) from Haloarcula vallismortis"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ Cruxrhodopsin-3 (cR3) is a light-driven proton pump from the archaeon Haloarcula
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1371##journal.pone.0108362 | ~ | 2.1 | P321 | Full-length cR3 (wild-type) |  |
+| doi/10.1371##journal.pone.0108362 | 4L35 | 2.1 | P321 | Full-length cR3 (wild-type) |  |
 
 ## Expression and Purification
 
@@ -35,7 +35,7 @@ Cruxrhodopsin-3 (cR3) is a light-driven proton pump from the archaeon Haloarcula
 - **Expression system**: Haloarcula vallismortis (transformed H. salinarum)
 - **Expression construct**: Full-length cR3
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ Cruxrhodopsin-3 (cR3) is a light-driven proton pump from the archaeon Haloarcula
 | Mixing ratio | Not specified |
 | Temperature | 15 |
 | Growth time | ~1 month |
-| Cryoprotection | Soaked in 2.2 M ammonium sulfate, 0.1 M pH buffer ([Hepes](/xray-mp-wiki/reagents/buffers/hepes/) or [Citrate](/xray-mp-wiki/reagents/buffers/citrate/)), 30% [Trehalose](/xray-mp-wiki/reagents/trehalose/) for ~10 min; flash-cooled in liquid propane |
+| Cryoprotection | Soaked in 2.2 M ammonium sulfate, 0.1 M pH buffer ([Hepes](/xray-mp-wiki/reagents/buffers/hepes/) or [Citrate](/xray-mp-wiki/reagents/buffers/citrate/)), 30% [Trehalose](/xray-mp-wiki/reagents/additives/trehalose/) for ~10 min; flash-cooled in liquid propane |
 | Notes | Mixture contained claret membrane (~3 mg/ml), 5 mg/ml [NG](/xray-mp-wiki/reagents/detergents/nonylglucoside/), 1 M ammonium sulfate, 0.08 M sodium chloride, 0.04 M sodium azide, 0.04 M sodium [Citrate](/xray-mp-wiki/reagents/buffers/citrate/) (pH 4). Trigonal crystals (P321) with typical size 50x50x5 um^3. Crystal maintained trimeric assembly with [Bacterioruberin](/xray-mp-wiki/reagents/lipids/bacterioruberin/) bound. |
 
 
@@ -93,4 +93,4 @@ The paired structure of two glutamates (Glu198 and Glu208 in cR3) in the proton-
 - [NG](/xray-mp-wiki/reagents/detergents/nonylglucoside/) — Referenced in the context of NG
 - [Citrate](/xray-mp-wiki/reagents/buffers/citrate/) — Referenced in the context of Citrate
 - [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) — Referenced in the context of Hepes
-- [Trehalose](/xray-mp-wiki/reagents/trehalose/) — Referenced in the context of Trehalose
+- [Trehalose](/xray-mp-wiki/reagents/additives/trehalose/) — Referenced in the context of Trehalose

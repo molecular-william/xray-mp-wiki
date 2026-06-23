@@ -1,5 +1,5 @@
 ---
-title: Gs Protein Alpha Subunit (Galpha s)
+title: "Gs Protein Alpha Subunit (Galpha s)"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -29,7 +29,7 @@ The Gs protein alpha subunit (Galpha s) is the catalytic subunit of the stimulat
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ The Gs protein alpha subunit (Galpha s) is the catalytic subunit of the stimulat
 | Parameter | Value |
 |---|---|
 | Method | Lipidic cubic phase (LCP) |
-| Lipid | 7.7 [MAG](/xray-mp-wiki/reagents/mag/) with 10% [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
+| Lipid | 7.7 [MAG](/xray-mp-wiki/reagents/lipids/mag/) with 10% [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
 | Temperature | Not specified |
 | Notes | Gs alpha subunit crystallized as part of the T4L-beta2AR-Gs-[Nb35](/xray-mp-wiki/reagents/antibodies/nb35/) ternary complex |
 
@@ -97,4 +97,4 @@ heterotrimer is required for productive signaling.
 - [Mgcl2](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Referenced in gs-alpha text
 - [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) — Referenced in gs-alpha text
 - [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) — Referenced in gs-alpha text
-- [MAG](/xray-mp-wiki/reagents/mag/) — Referenced in gs-alpha text
+- [MAG](/xray-mp-wiki/reagents/lipids/mag/) — Referenced in gs-alpha text

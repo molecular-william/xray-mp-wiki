@@ -1,5 +1,5 @@
 ---
-title: B800-850 LH2 Light-Harvesting Complex from Rhodopseudomonas acidophila
+title: "B800-850 LH2 Light-Harvesting Complex from Rhodopseudomonas acidophila"
 created: 2026-05-26
 updated: 2026-06-05
 type: protein
@@ -21,7 +21,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1006##jmbi.1997.0966 | 1KZU | 2.5 | R32 | B800-850 LH2 complex from Rhodopseudomonas acidophila strain 10050. Nine alpha (53 residues, 49 observed) and nine beta (41 residues) apoproteins arranged in a nonameric ring (C9 symmetry) with bacteriochlorophyll a (Bchl a) and rhodopin glucoside carotenoid pigments. Protomer complex defined as a radially associated alpha-beta pair. | Bacteriochlorophyll a (B800 and B850), rhodopin glucoside carotenoid |
-| doi/10.1016##S0022-2836(03)00024-X | not specified | 2.0 A | R32 | B800-850 LH2 complex from Rhodopseudomonas acidophila strain 10050, 100 K. Nine alpha and nine beta peptides arranged in a nonameric ring (C9 symmetry) with 18 B850 [bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a molecules, 9 B800 [bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a molecules, and 2 rhodopin glucoside molecules per repeating unit | 18 alpha-B850 [bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a, 18 beta-B850 [bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a, 9 B800 [bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a, 2 rhodopin glucoside per repeating unit |
+| doi/10.1016##S0022-2836(03)00024-X | 1NKZ | 2.0 A | R32 | B800-850 LH2 complex from Rhodopseudomonas acidophila strain 10050, 100 K. Nine alpha and nine beta peptides arranged in a nonameric ring (C9 symmetry) with 18 B850 [bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a molecules, 9 B800 [bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a molecules, and 2 rhodopin glucoside molecules per repeating unit | 18 alpha-B850 [bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a, 18 beta-B850 [bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a, 9 B800 [bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a, 2 rhodopin glucoside per repeating unit |
 
 ## Expression and Purification
 
@@ -30,21 +30,19 @@ The B800-850 light-harvesting complex II (LH2) from Rhodopseudomonas acidophila 
 
 ### Purification Workflow
 
-*Source: doi/10.1006##jmbi.1997.0966*
+#### Source: doi/10.1006##jmbi.1997.0966
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | LH2 complex purification | Purification as described in McDermott et al., 1995 (reference 8 of the paper) | -- | Not specified in detail + beta-octylglucoside (OG) | LH2 complex purified from Rhodopseudomonas acidophila strain 10050 and crystallized using the protocol described in McDermott et al., 1995 and Howard et al., 1993 |
 
-### Purification Workflow
-
-*Source: doi/10.1016##S0022-2836(03)00024-X*
+#### Source: doi/10.1016##S0022-2836(03)00024-X
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -125,5 +123,5 @@ B850 [bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/
 - [Sodium Phosphate](/xray-mp-wiki/reagents/buffers/sodium-phosphate/) — Buffer component in cryoprotection (K2HPO4/Na)
 - [Vapor Diffusion Crystallization](/xray-mp-wiki/methods/crystallization/vapor-diffusion/) — Crystals grown by vapour diffusion against ammonium sulphate
 - [Rps. viridis Photosynthetic Reaction Centre](/xray-mp-wiki/proteins/photosynthesis/rps-viridis-reaction-centre/) — Related photosynthetic membrane complex from purple bacteria
-- [Rhodobacter sphaeroides Reaction Centre](/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-centre-zn-bchl/) — Related photosynthetic membrane complex from purple bacteria
+- [Rhodobacter sphaeroides Reaction Centre](/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-center/) — Related photosynthetic membrane complex from purple bacteria
 - [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) — Sucrose as ligand or binding partner

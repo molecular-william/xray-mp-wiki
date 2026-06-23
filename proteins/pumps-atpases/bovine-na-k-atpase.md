@@ -1,5 +1,5 @@
 ---
-title: Na+,K+-ATPase (Bovine Kidney)
+title: "Na+,K+-ATPase (Bovine Kidney)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -47,7 +47,7 @@ well as two [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) molecules.
 - **Expression system**: Native bovine kidney tissue
 - **Expression construct**: Native alpha1/beta1/FXYD2 subunits
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Human Serotonin Transporter (SERT)
+title: "Human Serotonin Transporter (SERT)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,9 +21,9 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature17629 | not specified | 3.14 | C222_1 | SERT ts3 — human SERT with thermostabilizing mutations Y110A, I291A, T439S, surface cysteine mutations C554A, C580A, C622A, fused to C-terminal GFP, twin Strep tag, and His10 tag; complexed with [Paroxetine](/xray-mp-wiki/reagents/ligands/paroxetine/) and 8B6 Fab | [Paroxetine](/xray-mp-wiki/reagents/ligands/paroxetine/), [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), N-acetylglucosamine, Na+, Cl-, 8B6 Fab |
-| doi/10.1038##nature17629 | not specified | 3.15 | C222_1 | SERT ts3 — human SERT with thermostabilizing mutations Y110A, I291A, T439S, surface cysteine mutations C554A, C580A, C622A; complexed with (S)-citalopram and 8B6 Fab | (S)-citalopram (central site and allosteric site), [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), N-acetylglucosamine, Na+, Cl-, 8B6 Fab |
-| doi/10.1038##nature17629 | not specified | 4.53 | C222_1 | SERT ts2 — human SERT with thermostabilizing mutations I291A, T439S, surface cysteine mutations C554A, C580A, C622A; complexed with [Paroxetine](/xray-mp-wiki/reagents/ligands/paroxetine/) and 8B6 Fab | [Paroxetine](/xray-mp-wiki/reagents/ligands/paroxetine/), [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), N-acetylglucosamine, Na+, Cl-, 8B6 Fab |
+| doi/10.1038##nature17629 | 5I6X | 3.14 | C222_1 | SERT ts3 — human SERT with thermostabilizing mutations Y110A, I291A, T439S, surface cysteine mutations C554A, C580A, C622A, fused to C-terminal GFP, twin Strep tag, and His10 tag; complexed with [Paroxetine](/xray-mp-wiki/reagents/ligands/paroxetine/) and 8B6 Fab | [Paroxetine](/xray-mp-wiki/reagents/ligands/paroxetine/), [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), N-acetylglucosamine, Na+, Cl-, 8B6 Fab |
+| doi/10.1038##nature17629 | 5I6X | 3.15 | C222_1 | SERT ts3 — human SERT with thermostabilizing mutations Y110A, I291A, T439S, surface cysteine mutations C554A, C580A, C622A; complexed with (S)-citalopram and 8B6 Fab | (S)-citalopram (central site and allosteric site), [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), N-acetylglucosamine, Na+, Cl-, 8B6 Fab |
+| doi/10.1038##nature17629 | 5I6X | 4.53 | C222_1 | SERT ts2 — human SERT with thermostabilizing mutations I291A, T439S, surface cysteine mutations C554A, C580A, C622A; complexed with [Paroxetine](/xray-mp-wiki/reagents/ligands/paroxetine/) and 8B6 Fab | [Paroxetine](/xray-mp-wiki/reagents/ligands/paroxetine/), [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), N-acetylglucosamine, Na+, Cl-, 8B6 Fab |
 | doi/10.1038##s41594-018-0026-8 | 6AWN | 3.62 | C222_1 | SERT ts2 (Thr439) with [Paroxetine](/xray-mp-wiki/reagents/ligands/paroxetine/) — human SERT with thermostabilizing mutations I291A, T439S, surface cysteine mutations C554A, C580A, C622A; complexed with [Paroxetine](/xray-mp-wiki/reagents/ligands/paroxetine/) and 8B6 Fab | [Paroxetine](/xray-mp-wiki/reagents/ligands/paroxetine/) |
 | doi/10.1038##s41594-018-0026-8 | 6AWP | 3.80 | C222_1 | SERT ts3 with [Fluvoxamine](/xray-mp-wiki/reagents/ligands/fluvoxamine/) — human SERT with thermostabilizing mutations Y110A, I291A, T439S, surface cysteine mutations C554A, C580A, C622A; complexed with [Fluvoxamine](/xray-mp-wiki/reagents/ligands/fluvoxamine/) and 8B6 Fab | [Fluvoxamine](/xray-mp-wiki/reagents/ligands/fluvoxamine/) |
 | doi/10.1038##s41594-018-0026-8 | 6AWO | 3.53 | C222_1 | SERT ts3 with [Sertraline](/xray-mp-wiki/reagents/ligands/sertraline/) — human SERT with thermostabilizing mutations Y110A, I291A, T439S, surface cysteine mutations C554A, C580A, C622A; complexed with [Sertraline](/xray-mp-wiki/reagents/ligands/sertraline/) and 8B6 Fab | [Sertraline](/xray-mp-wiki/reagents/ligands/sertraline/) |
@@ -37,10 +37,10 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature17629*
+#### Source: doi/10.1038##nature17629
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -48,12 +48,10 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
 | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Strep-Tactin [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Strep-Tactin resin | 20 mM Tris pH 8, 150 mM NaCl, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Large-scale purification of SERT |
 | [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | 20 mM Tris pH 8, 150 mM NaCl, 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1 mM [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Monodisperse fractions collected |
 
-### Purification Workflow
-
-*Source: doi/10.1038##s41594-018-0026-8*
+#### Source: doi/10.1038##s41594-018-0026-8
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -112,8 +110,8 @@ Structures of SERT bound to [Sertraline](/xray-mp-wiki/reagents/ligands/sertrali
 - [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) — NSS family prototype sharing the LeuT-fold architecture
 - [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/transport-mechanisms/nss-family/) — SERT is a human member of the NSS family (SLC6A4)
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — SERT transport follows alternating access
-- [Sertraline](/xray-mp-wiki/reagents/sertraline/) — SSRI antidepressant bound in ts3-sertraline structures
-- [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/serotonin/) — Endogenous substrate of SERT
+- [Sertraline](/xray-mp-wiki/reagents/ligands/sertraline/) — SSRI antidepressant bound in ts3-sertraline structures
+- [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) — Endogenous substrate of SERT
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for solubilization and purification
 - [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Buffer used throughout purification and crystallization
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

@@ -1,5 +1,5 @@
 ---
-title: NorM-VC (Vibrio cholerae NorM) - MATE Family Multidrug Efflux Transporter
+title: "NorM-VC (Vibrio cholerae NorM) - MATE Family Multidrug Efflux Transporter"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -31,7 +31,7 @@ NorM-VC is a multidrug and toxic compound extrusion (MATE) family transporter fr
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

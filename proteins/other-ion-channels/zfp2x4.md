@@ -1,5 +1,5 @@
 ---
-title: Zebrafish P2X4 Receptor (zfP2X4)
+title: "Zebrafish P2X4 Receptor (zfP2X4)"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -31,7 +31,7 @@ The zebrafish P2X4 receptor (zfP2X4) is a ligand-gated ion channel from Danio re
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

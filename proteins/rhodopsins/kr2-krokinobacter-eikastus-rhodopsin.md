@@ -1,5 +1,5 @@
 ---
-title: KR2 — Krokinobacter eikastus Rhodopsin 2 (Sodium Pump)
+title: "KR2 — Krokinobacter eikastus Rhodopsin 2 (Sodium Pump)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ verified: false
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nsmb.3002 | N/A (not specified in supplement) | N/A | N/A | Full-length [KR2 (Krokinobacter eikastus Rhodopsin 2) — Light-Driven Sodium Pump](/xray-mp-wiki/proteins/rhodopsins/kr2/) | [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (all-trans) |
+| doi/10.1038##nsmb.3002 | 4XTL | N/A | N/A | Full-length [KR2 (Krokinobacter eikastus Rhodopsin 2) — Light-Driven Sodium Pump](/xray-mp-wiki/proteins/rhodopsins/kr2/) | [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (all-trans) |
 
 ## Expression and Purification
 
@@ -34,7 +34,7 @@ verified: false
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

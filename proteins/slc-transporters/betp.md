@@ -1,5 +1,5 @@
 ---
-title: BetP (Na+/Betaine Symporter from Corynebacterium glutamicum)
+title: "BetP (Na+/Betaine Symporter from Corynebacterium glutamicum)"
 created: 2026-05-29
 updated: 2026-06-02
 type: protein
@@ -33,35 +33,31 @@ BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter
 
 ### Purification Workflow
 
-*Source: doi/10.1038##NATURE07819*
+#### Source: doi/10.1038##NATURE07819
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Cell lysis | Detergent solubilization from C. glutamicum membrane fractions | StrepTactin resin (StrepII tag affinity) | Buffer containing [Tris](/xray-mp-wiki/reagents/buffers/tris) + Not specified | Expression in C. glutamicum; mutants assessed by immuno-blotting against N-terminal StrepII tag |
 
-### Purification Workflow
-
-*Source: doi/10.1038##EMBOJ.2013.226*
+#### Source: doi/10.1038##EMBOJ.2013.226
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Detergent exchange and thorough washing | StrepTactin affinity chromatography with Cymal-5 exchange | StrepTactin | 100 mM 3Na-Citrate pH 5.4-5.5, 300 mM NaCl, 20-21% PEG400 + 1.2% Cymal-5 (detergent exchanged from DDM) | Washing steps removed unspecifically bound lipids. TLC analysis confirmed presence of PG lipids (not PE) in the purified BetP sample. |
 | Lipid analysis by TLC | Thin layer chromatography (HPTLC) | Not applicable | Chloroform:methanol:water (13:7:0.8) solvent system for 1D separation + Cymal-5 | Phospholipid analysis confirmed negatively charged PG/CL species. Cymal-5 confounded initial separation. PG identity confirmed by acetone:methanol:acetic acid:water:chloroform (2:1:1:0.5:5) system. |
 
-### Purification Workflow
-
-*Source: doi/10.1038##nature11403*
+#### Source: doi/10.1038##nature11403
 
 - **Expression system**: E. coli DH5alpha
 - **Expression construct**: Surface-engineered BetP mutants (BetP Delta N29/E44E45E46/AAA and BetP G153D) with N-terminal StrepII tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

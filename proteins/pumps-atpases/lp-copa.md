@@ -1,5 +1,5 @@
 ---
-title: LpCopA (Copper-Transporting P-type ATPase from Legionella pneumophila)
+title: "LpCopA (Copper-Transporting P-type ATPase from Legionella pneumophila)"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -21,7 +21,7 @@ LpCopA is a copper-transporting P_IB-type ATPase from the bacterium Legionella p
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature10191 |  | 3.2 | P1 and P2_12_12_1 | Full-length LpCopA from Legionella pneumophila (residues 79-731) in E2.Pi state trapped with AlF4- | AlF4- (aluminum fluoride) phosphate analog, Mg2+ |
+| doi/10.1038##nature10191 | 3RFU | 3.2 | P1 and P2_12_12_1 | Full-length LpCopA from Legionella pneumophila (residues 79-731) in E2.Pi state trapped with AlF4- | AlF4- (aluminum fluoride) phosphate analog, Mg2+ |
 | doi/10.1038##NSMB.2721 | 3RFU | 2.0 A | C2 | Full-length LpCopA from Legionella pneumophila in E2.Pi state trapped with AlF4- | AlF4- (aluminum fluoride) phosphate analog, Mg2+, Cu+ transport site |
 | doi/10.1038##NSMB.2721 | 3B9B | 2.0 A | P2_12_12_1 | Full-length LpCopA from Legionella pneumophila in E2P state trapped with BeF3- | BeF3- (beryllium fluoride) phosphate analog, Mg2+ |
 
@@ -33,7 +33,7 @@ LpCopA is a copper-transporting P_IB-type ATPase from the bacterium Legionella p
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

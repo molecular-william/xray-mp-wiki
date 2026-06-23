@@ -1,5 +1,5 @@
 ---
-title: Pea Light-Harvesting Complex II (LHC-II)
+title: "Pea Light-Harvesting Complex II (LHC-II)"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein

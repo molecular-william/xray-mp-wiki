@@ -1,5 +1,5 @@
 ---
-title: Rhodopsin N2C/D282C Mutant
+title: "Rhodopsin N2C/D282C Mutant"
 created: 2026-05-26
 updated: 2026-05-26
 type: protein
@@ -30,7 +30,7 @@ The N2C/D282C mutant of rhodopsin is a thermally stabilized recombinant form wit
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

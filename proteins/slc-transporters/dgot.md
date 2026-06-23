@@ -1,5 +1,5 @@
 ---
-title: DgoT (E. coli D-galactonate Transporter)
+title: "DgoT (E. coli D-galactonate Transporter)"
 created: 2019-05-13
 updated: 2026-06-08
 type: protein
@@ -50,7 +50,7 @@ bind the anionic substrate.
 - **Expression construct**: Full-length DgoT with C-terminal decahistidine tag (pQE60)
 - **Tag info**: C-terminal decahistidine tag with thrombin cleavage site
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

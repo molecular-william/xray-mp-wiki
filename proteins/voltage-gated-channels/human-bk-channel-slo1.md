@@ -1,5 +1,5 @@
 ---
-title: Human BK Channel (Slo1)
+title: "Human BK Channel (Slo1)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -32,7 +32,7 @@ The BK (Slo1) channel is a high-conductance voltage- and Ca2+-activated K+ chann
 - **Expression system**: E. coli
 - **Expression construct**: Human BK CTD L390P mutant (residues 343-1061)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

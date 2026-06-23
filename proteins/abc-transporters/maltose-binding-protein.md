@@ -1,5 +1,5 @@
 ---
-title: MBP (Escherichia coli Maltose-Binding Protein)
+title: "MBP (Escherichia coli Maltose-Binding Protein)"
 created: 2026-06-02
 updated: 2026-06-16
 type: protein
@@ -34,7 +34,7 @@ residues.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature06264 | not specified | 2.8 | — | Open apo conformation of MBP from E. coli maltose transporter |  |
+| doi/10.1038##nature06264 | 2R6G | 2.8 | — | Open apo conformation of MBP from E. coli maltose transporter |  |
 | doi/10.1038##nature06264 | 1OMP |  | — | Open apo MBP (search model for molecular replacement) |  |
 | doi/10.1038##nature06264 | 1JW5 |  | — |  | maltose |
 
@@ -49,7 +49,7 @@ residues.
 - **Expression system**: E. coli BAR1000
 - **Expression construct**: MBP under mal promoter
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

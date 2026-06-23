@@ -1,5 +1,5 @@
 ---
-title: Human Dermcidin (DCD) Antimicrobial Channel
+title: "Human Dermcidin (DCD) Antimicrobial Channel"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ Dermcidin (DCD) is a human antimicrobial host-defense peptide that forms transme
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

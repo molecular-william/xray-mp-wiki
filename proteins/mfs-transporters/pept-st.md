@@ -1,5 +1,5 @@
 ---
-title: PepT_St Proton-Dependent Oligopeptide Transporter from Streptococcus thermophilus
+title: "PepT_St Proton-Dependent Oligopeptide Transporter from Streptococcus thermophilus"
 created: 2026-05-29
 updated: 2026-06-02
 type: protein
@@ -45,7 +45,7 @@ PepT_St is a proton-dependent oligopeptide transporter (POT) from Streptococcus 
 - **Expression construct**: Full-length PepT_St with C-terminal His-Tag, TEV cleavage site
 - **Tag info**: His-Tag, TEV cleavage site
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -143,7 +143,7 @@ requiring movement of the entire H10-H11 helix hairpin.
 - [PepT_So Oligopeptide Transporter](/xray-mp-wiki/proteins/mfs-transporters/pept-so/) — Another POT family member with reported crystal structure; key comparison for alternating access
 - [PEG 400](/xray-mp-wiki/reagents/additives/peg-400/) — Cryoprotectant used in PepT_St crystallization
 - [Selenomethionine](/xray-mp-wiki/reagents/additives/selenomethionine/) — Used for anomalous phasing in PepT_St structure determination
-- [Mercury(II) Chloride](/xray-mp-wiki/reagents/additives/mercury-ii-chloride/) — Heavy atom derivative used for MIRAS phasing
+- [Mercury(II) Chloride](/xray-mp-wiki/reagents/additives/mercury/) — Heavy atom derivative used for MIRAS phasing
 - [Multiple Isomorphous Replacement with Anomalous Scattering (MIRAS)](/xray-mp-wiki/methods/structure-determination/miras/) — Phasing method used to solve the PepT_St structure
 - [PepT_So2 Oligopeptide Transporter](/xray-mp-wiki/proteins/mfs-transporters/pept-so2/) — Another POT family member from Shewanella oneidensis, inward open conformation with substrate
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol) — Additive used in purification or crystallization buffers

@@ -1,5 +1,5 @@
 ---
-title: Pmt2-MIR Domain (S. cerevisiae Protein O-Mannosyltransferase MIR Domain)
+title: "Pmt2-MIR Domain (S. cerevisiae Protein O-Mannosyltransferase MIR Domain)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -22,7 +22,7 @@ The Pmt2-MIR domain is the luminal MIR (mannosyltransferase, IP3R, and RyR) doma
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.7554##eLife.61189 | 6ZQP | 1.6 | P 41 3 2 | Pmt2-MIR domain (residues 339-532) | Glycerol (site alpha); sulfate (site beta); glycerol (site delta) |
-| doi/10.7554##eLife.61189 | not specified (Pmt2-MIR low) | 2.3 | I 21 21 21 | Pmt2-MIR domain | Glycerol bound to site delta |
+| doi/10.7554##eLife.61189 | 6ZQP | 2.3 | I 21 21 21 | Pmt2-MIR domain | Glycerol bound to site delta |
 
 ## Expression and Purification
 
@@ -36,7 +36,7 @@ The Pmt2-MIR domain is the luminal MIR (mannosyltransferase, IP3R, and RyR) doma
 - **Expression construct**: Pmt2-MIR with N-terminal His6 tag and 3C protease cleavage site, in pETHis vector
 - **Tag info**: His6 tag cleaved by 3C protease for crystallization; retained for nanoDSF and MST analyses
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Human Delta-Opioid Receptor (DOP)
+title: "Human Delta-Opioid Receptor (DOP)"
 created: 2026-06-10
 updated: 2026-06-11
 type: protein
@@ -21,10 +21,10 @@ The δ-opioid receptor (DOP) is a class A G protein-coupled receptor (GPCR) that
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature11111 |  | 3.4 |  | Mouse δ-OR-T4L fusion: TEV site after residue 35, C-term [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) after P342, T4L residues 2-161 inserted in ICL3 between residues 244 and 251, N-terminal Flag tag, C-terminal octa-histidine tag | [Naltrindole](/xray-mp-wiki/reagents/ligands/naltrindole/) |
-| doi/10.1038##nsmb.2965 |  | 2.73 | P2₁ | BRIL-Δ₃₈δ-OR fusion: residues 1-38 of δ-OR replaced with thermostabilized apocytochrome b562 ([Bril](/xray-mp-wiki/reagents/protein-tags/bril/)), C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) of residues 339-372 | DIPP-NH₂ (H-Dmt-Tic-Phe-Phe-NH₂) |
-| doi/10.1126##sciadv.aax9115 |  | 2.8 |  | BRIL-DOP fusion: residues 1-40 of DOP replaced with thermostabilized apocytochrome b562 ([Bril](/xray-mp-wiki/reagents/protein-tags/bril/)), C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) of residues 339-372, with sodium pocket mutations N90S, D95G, N131S | KGCHM07 |
-| doi/10.1126##sciadv.aax9115 |  | 3.3 |  | BRIL-DOP fusion: residues 1-40 of DOP replaced with thermostabilized apocytochrome b562 ([Bril](/xray-mp-wiki/reagents/protein-tags/bril/)), C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) of residues 339-372, with sodium pocket mutations N90S, D95G, N131S | DPI-287 |
+| doi/10.1038##nature11111 | 4EJ4 | 3.4 |  | Mouse δ-OR-T4L fusion: TEV site after residue 35, C-term [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) after P342, T4L residues 2-161 inserted in ICL3 between residues 244 and 251, N-terminal Flag tag, C-terminal octa-histidine tag | [Naltrindole](/xray-mp-wiki/reagents/ligands/naltrindole/) |
+| doi/10.1038##nsmb.2965 | 4RWD | 2.73 | P2₁ | BRIL-Δ₃₈δ-OR fusion: residues 1-38 of δ-OR replaced with thermostabilized apocytochrome b562 ([Bril](/xray-mp-wiki/reagents/protein-tags/bril/)), C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) of residues 339-372 | DIPP-NH₂ (H-Dmt-Tic-Phe-Phe-NH₂) |
+| doi/10.1126##sciadv.aax9115 | 6PT2 | 2.8 |  | BRIL-DOP fusion: residues 1-40 of DOP replaced with thermostabilized apocytochrome b562 ([Bril](/xray-mp-wiki/reagents/protein-tags/bril/)), C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) of residues 339-372, with sodium pocket mutations N90S, D95G, N131S | KGCHM07 |
+| doi/10.1126##sciadv.aax9115 | 6PT2 | 3.3 |  | BRIL-DOP fusion: residues 1-40 of DOP replaced with thermostabilized apocytochrome b562 ([Bril](/xray-mp-wiki/reagents/protein-tags/bril/)), C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) of residues 339-372, with sodium pocket mutations N90S, D95G, N131S | DPI-287 |
 
  - R-work %, R-free %; Data collection: Merged from 20 crystals; GM/CA-CAT beamline 23ID-B, Advanced Photon Source
  - R-work 20.2%, R-free 22.9%; Data collection: Serial femtosecond crystallography (XFEL) at LCLS CXI beamline; 36,083 indexed patterns from 4.6 h collection; CC₁/₂ = 0.538 in highest-resolution shell
@@ -44,7 +44,7 @@ The δ-opioid receptor (DOP) is a class A G protein-coupled receptor (GPCR) that
 - **Expression construct**: Mouse δ-OR-T4L fusion (ΔC-term P342, T4L ICL3 insertion)
 - **Tag info**: N-terminal Flag tag, C-terminal octa-histidine tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

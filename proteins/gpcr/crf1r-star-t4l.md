@@ -1,5 +1,5 @@
 ---
-title: Human Corticotropin-Releasing Factor 1 Receptor StaR-T4L (CRF1R)
+title: "Human Corticotropin-Releasing Factor 1 Receptor StaR-T4L (CRF1R)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein

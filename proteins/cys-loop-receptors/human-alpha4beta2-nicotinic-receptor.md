@@ -1,5 +1,5 @@
 ---
-title: Human Alpha4Beta2 Nicotinic Receptor
+title: "Human Alpha4Beta2 Nicotinic Receptor"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -28,7 +28,7 @@ The human alpha4beta2 nicotinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/a
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ Comparison of the alpha4beta2 receptor with reference structures (GlyR-open, GAB
 ## Cross-References
 
 - [Nicotine](/xray-mp-wiki/reagents/ligands/nicotine/) — Co-crystallization ligand bound at alpha-beta interfaces; functional agonist
-- [Epibatidine](/xray-mp-wiki/reagents/ligands/epibatidine/) — Used in competition binding assays to determine ligand affinities
+- [Epibatidine](/xray-mp-wiki/reagents/additives/epibatidine/) — Used in competition binding assays to determine ligand affinities
 - [Acetylcholine-Binding Protein (AChBP)](/xray-mp-wiki/proteins/cys-loop-receptors/acetylcholine-binding-protein/) — Soluble surrogate of Cys-loop receptor extracellular domain; used for structural comparison of nicotine binding
 - [Human GABA_A Receptor Beta-3 Subunit](/xray-mp-wiki/proteins/cys-loop-receptors/gabar-b3/) — Cys-loop receptor homologue; desensitized state used for pore conformation comparison
 - [Mouse 5-HT3A Receptor](/xray-mp-wiki/proteins/cys-loop-receptors/mouse-5ht3a-receptor/) — Homopentameric Cys-loop receptor; MX helix conformation comparison

@@ -1,5 +1,5 @@
 ---
-title: MexB (Pseudomonas aeruginosa multidrug exporter)
+title: "MexB (Pseudomonas aeruginosa multidrug exporter)"
 created: 2026-05-26
 updated: 2026-06-03
 type: protein
@@ -21,11 +21,11 @@ MexB is the inner-membrane component of the MexAB-OprM tripartite efflux pump in
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##J.JMB.2009.04.001 | not specified in paper text (search model was 2J8S, asymmetric AcrB from Escherichia coli) | 3.0 A | P1 | MexB from P. aeruginosa PAO1 (1046 amino acids); [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) [hexahistidine](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag; two almost structurally identical trimers (chains ABC and DEF) in the asymmetric unit | [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (n-dodecyl-D-maltoside) bound in the multidrug-binding cavity of subunit B |
-| doi/10.1038##nature12300 | not specified | 3.15 A | P1 | MexB from P. aeruginosa with [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) polyhistidine tag, complexed with [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp) inhibitor | [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp) (tert-butyl thiazolyl aminocarboxyl pyridopyrimidine) |
-| doi/10.1038##nature12300 | not specified | 2.70 A | P1 | Drug-free MexB from P. aeruginosa with [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) polyhistidine tag | [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (n-dodecyl-beta-D-maltoside) bound in distal pocket |
-| doi/10.1038##nature12300 | not specified | 3.30 A | P1 | Drug-free MexB(F178W) mutant with [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) polyhistidine tag | None (drug-free) |
-| doi/10.1038##nature12300 | not specified | 3.00 A | P1 | MexB(F178W) mutant with [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) polyhistidine tag, complexed with [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp) inhibitor | [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp) (tert-butyl thiazolyl aminocarboxyl pyridopyrimidine) |
+| doi/10.1016##J.JMB.2009.04.001 | 2V50 | 3.0 A | P1 | MexB from P. aeruginosa PAO1 (1046 amino acids); [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) [hexahistidine](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag; two almost structurally identical trimers (chains ABC and DEF) in the asymmetric unit | [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (n-dodecyl-D-maltoside) bound in the multidrug-binding cavity of subunit B |
+| doi/10.1038##nature12300 |  | 3.15 A | P1 | MexB from P. aeruginosa with [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) polyhistidine tag, complexed with [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp) inhibitor | [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp) (tert-butyl thiazolyl aminocarboxyl pyridopyrimidine) |
+| doi/10.1038##nature12300 |  | 2.70 A | P1 | Drug-free MexB from P. aeruginosa with [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) polyhistidine tag | [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (n-dodecyl-beta-D-maltoside) bound in distal pocket |
+| doi/10.1038##nature12300 |  | 3.30 A | P1 | Drug-free MexB(F178W) mutant with [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) polyhistidine tag | None (drug-free) |
+| doi/10.1038##nature12300 |  | 3.00 A | P1 | MexB(F178W) mutant with [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) polyhistidine tag, complexed with [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp) inhibitor | [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp) (tert-butyl thiazolyl aminocarboxyl pyridopyrimidine) |
 
 ## Expression and Purification
 
@@ -34,10 +34,10 @@ MexB is the inner-membrane component of the MexAB-OprM tripartite efflux pump in
 
 ### Purification Workflow
 
-*Source: doi/10.1016##J.JMB.2009.04.001*
+#### Source: doi/10.1016##J.JMB.2009.04.001
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -46,12 +46,10 @@ MexB is the inner-membrane component of the MexAB-OprM tripartite efflux pump in
 | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Metal [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) ([Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/)) | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) affinity column (Qiagen) | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.5, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 1 mM [PMSF](/xray-mp-wiki/reagents/additives/pmsf/), 10% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (equilibration); 30 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (wash); 200 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (elution) + 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) [hexahistidine](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag purification; column equilibrated with buffer A containing 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
 | Size-exclusion chromatography | Size-exclusion chromatography | Tricorn [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) column (Amersham Biosciences) | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.5, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Further purification and buffer exchange for crystallization |
 
-### Purification Workflow
-
-*Source: doi/10.1038##nature12300*
+#### Source: doi/10.1038##nature12300
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -231,7 +229,7 @@ amount of space in the hydrophobic trap.
 
 ## Cross-References
 
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Close homologue (69.8% identity, 83.2% similarity); structure solved by molecular replacement using asymmetric AcrB (PDB 2J8S) as search model; shares same asymmetric transport mechanism
+- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Close homologue (69.8% identity, 83.2% similarity); structure solved by molecular replacement using asymmetric AcrB (PDB 2J8S) as search model; shares same asymmetric transport mechanism
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for solubilization (1% DDM), purification (0.03% DDM), and crystallization; also observed bound in the multidrug-binding cavity of subunit B and distal pocket, suggesting RND transporters can transport detergents as substrates
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Used at 10 mM in solubilization buffer, 25-140 mM for Ni-NTA wash, and 350 mM for elution of C-terminal hexahistidine-tagged MexB
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — 10% glycerol included in all purification buffers for protein stability

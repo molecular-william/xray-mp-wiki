@@ -1,5 +1,5 @@
 ---
-title: Thermus thermophilus SecG Accessory Subunit
+title: "Thermus thermophilus SecG Accessory Subunit"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -31,7 +31,7 @@ SecG is an accessory subunit of the bacterial Sec translocon that comprises two 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Med12BPR (Blue-Light-Absorbing Proteorhodopsin from Mediterranean Sea)
+title: "Med12BPR (Blue-Light-Absorbing Proteorhodopsin from Mediterranean Sea)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein

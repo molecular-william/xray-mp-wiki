@@ -1,5 +1,5 @@
 ---
-title: Steroid Sulfatase (hSTS)
+title: "Steroid Sulfatase (hSTS)"
 created: 2026-05-27
 updated: 2026-06-16
 type: protein
@@ -31,7 +31,7 @@ Steroid sulfatase (hSTS) from human placenta is an integral membrane enzyme of t
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Na+/H+ Antiporter NhaA from Escherichia coli
+title: "Na+/H+ Antiporter NhaA from Escherichia coli"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -38,10 +38,10 @@ NhaA from Escherichia coli is a Na+/H+ antiporter belonging to the Major Facilit
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature03692*
+#### Source: doi/10.1038##nature03692
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -49,12 +49,10 @@ NhaA from Escherichia coli is a Na+/H+ antiporter belonging to the Major Facilit
 | Solubilization | Detergent solubilization | not specified | 20 mM [Tris-HCl](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.5, 150 mM NaCl + 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm) | Solubilized with 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm) (n-dodecyl-beta-D-maltopyranoside) |
 | Purification | Chromatography | not specified | 20 mM [Tris-HCl](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.5, 150 mM NaCl, 0.02% DDM + 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm) | Purified by chromatography; final sample in 20 mM [Tris-HCl](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.5, 150 mM NaCl, 0.02% DDM |
 
-### Purification Workflow
-
-*Source: doi/10.1038##s41467-022-34120-z*
+#### Source: doi/10.1038##s41467-022-34120-z
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

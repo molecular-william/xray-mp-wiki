@@ -1,5 +1,5 @@
 ---
-title: Adiponectin Receptor 2 (ADIPOR2)
+title: "Adiponectin Receptor 2 (ADIPOR2)"
 created: 2026-06-03
 updated: 2026-06-08
 type: protein
@@ -34,7 +34,7 @@ verified: false
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

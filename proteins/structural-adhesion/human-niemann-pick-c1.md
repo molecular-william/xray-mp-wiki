@@ -1,5 +1,5 @@
 ---
-title: Human Niemann-Pick C1 (NPC1)
+title: "Human Niemann-Pick C1 (NPC1)"
 created: 2026-06-08
 updated: 2026-06-11
 type: protein
@@ -34,7 +34,7 @@ Human NPC1 (Niemann-Pick C1) is a large multi-domain membrane protein essential 
 - **Expression system**: HEK293 cells
 - **Expression construct**: NPC1* (residues 314-1,278)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

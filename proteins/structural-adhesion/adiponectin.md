@@ -1,5 +1,5 @@
 ---
-title: Adiponectin
+title: "Adiponectin"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -26,7 +26,7 @@ No structure determined.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

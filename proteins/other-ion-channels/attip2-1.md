@@ -1,5 +1,5 @@
 ---
-title: AtTIP2;1 - Arabidopsis thaliana Tonoplast Intrinsic Protein 2;1
+title: "AtTIP2;1 - Arabidopsis thaliana Tonoplast Intrinsic Protein 2;1"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -41,7 +41,7 @@ ions, potentially increasing net ammonia permeation.
 - **Expression system**: Pichia pastoris
 - **Expression construct**: Full-length AtTIP2;1 with N-terminal deca-His-tag and TEV cleavage site
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

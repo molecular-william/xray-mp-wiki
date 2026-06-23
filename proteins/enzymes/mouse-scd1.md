@@ -1,5 +1,5 @@
 ---
-title: Mouse Stearoyl-CoA Desaturase 1 (mSCD1)
+title: "Mouse Stearoyl-CoA Desaturase 1 (mSCD1)"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -32,7 +32,7 @@ Mouse [Stearoyl-CoA](/xray-mp-wiki/reagents/ligands/stearoyl-coa/) desaturase 1 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Archaerhodopsin-1 from Halorubrum sp. aus-1
+title: "Archaerhodopsin-1 from Halorubrum sp. aus-1"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -27,7 +27,7 @@ Archaerhodopsin-1 (aR-1) is a light-driven proton pump from Halorubrum sp. aus-1
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

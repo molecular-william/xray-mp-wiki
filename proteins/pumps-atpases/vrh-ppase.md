@@ -1,5 +1,5 @@
 ---
-title: VrH+PPase (Vigna radiata H+-Pumping Inorganic Pyrophosphatase)
+title: "VrH+PPase (Vigna radiata H+-Pumping Inorganic Pyrophosphatase)"
 created: 2026-05-29
 updated: 2026-06-08
 type: protein

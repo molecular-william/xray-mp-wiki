@@ -1,5 +1,5 @@
 ---
-title: Human 5-HT2A Receptor
+title: "Human 5-HT2A Receptor"
 created: 2026-05-27
 updated: 2026-06-11
 type: protein
@@ -23,9 +23,9 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
 |---|---|---|---|---|---|
 | doi/10.1038##s41594-018-0180-z | 6A93 | 3.0 A | C2 | Human 5-HT2A receptor with N-terminal (1-69) and C-terminal (404-471) deletions, ICL3 (Thr266-Met312) replaced with mbIIG fusion (modified apocytochrome b562 IIG), thermostability mutations S162K^3.39 and M164W^3.41. N-terminal HA signal sequence + [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag) + 10xHis tag + TEV protease recognition site. | [Risperidone](/xray-mp-wiki/reagents/ligands/risperidone) |
 | doi/10.1038##s41594-018-0180-z | 6A94 | 2.9 A | C2 | Human 5-HT2A receptor with N-terminal (1-69) and C-terminal (404-471) deletions, ICL3 (Thr266-Met312) replaced with mbIIG fusion (modified apocytochrome b562 IIG), thermostability mutations S162K^3.39 and M164W^3.41. N-terminal HA signal sequence + [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag) + 10xHis tag + TEV protease recognition site. | Zotepine |
-| doi/10.1038##s41594-022-00796-6 |  |  |  | Human 5-HT2A receptor in complex with miniGo and lisuride (5-HTSAR-miniGo-Lisuride) | lisuride |
-| doi/10.1038##s41594-022-00796-6 |  |  |  | Human 5-HT2A receptor in complex with miniGo and methylgeromertrine (5-HTSAR-miniGo-Methylgeromertrine) | methylgeromertrine |
-| doi/10.1038##s41594-022-00796-6 |  |  |  | Human 5-HT2A receptor in complex with miniGo (apo-like state, CT designation) |  |
+| doi/10.1038##s41594-022-00796-6 | 7UM4 |  |  | Human 5-HT2A receptor in complex with miniGo and lisuride (5-HTSAR-miniGo-Lisuride) | lisuride |
+| doi/10.1038##s41594-022-00796-6 | 7UM4 |  |  | Human 5-HT2A receptor in complex with miniGo and methylgeromertrine (5-HTSAR-miniGo-Methylgeromertrine) | methylgeromertrine |
+| doi/10.1038##s41594-022-00796-6 | 7UM4 |  |  | Human 5-HT2A receptor in complex with miniGo (apo-like state, CT designation) |  |
 | doi/10.1126##science.abl8615 | 7WC4 | 3.0 A |  | Human 5-HT2AR in complex with serotonin | [Serotonin](/xray-mp-wiki/reagents/ligands/serotonin) |
 | doi/10.1126##science.abl8615 | 7WC5 | 3.0 A |  | Human 5-HT2AR in complex with psilocin | Psilocin |
 | doi/10.1126##science.abl8615 | 7WC6 | 2.6 A |  | Human 5-HT2AR in complex with LSD | [LSD](/xray-mp-wiki/reagents/ligands/lsd) |
@@ -45,7 +45,7 @@ The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
 - **Expression construct**: 5-HT2A R-mbIIG with N/C-terminal truncations, thermostability mutations, and mbIIG fusion in ICL3
 - **Tag info**: N-terminal HA signal + FLAG tag + 10xHis tag + TEV site
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

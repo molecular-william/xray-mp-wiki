@@ -1,5 +1,5 @@
 ---
-title: SARS-CoV-2 Spike Protein C-Terminal Domain
+title: "SARS-CoV-2 Spike Protein C-Terminal Domain"
 created: 2026-05-27
 updated: 2026-06-09
 type: protein
@@ -32,10 +32,10 @@ The C-terminal domain (CTD) of the SARS-CoV-2 spike (S) protein, also known as t
 
 ### Purification Workflow
 
-*Source: doi/10.1016##j.cell.2020.03.045*
+#### Source: doi/10.1016##j.cell.2020.03.045
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -43,12 +43,10 @@ The C-terminal domain (CTD) of the SARS-CoV-2 spike (S) protein, also known as t
 | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Protein A [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | HiTrap rProtein A FF column | Binding buffer 20 mM Na3PO4 pH 7.0; elution with 0.1 M glycine-HCl pH 3.0 neutralized with 1 M [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 9.0 | mFc fusion protein captured on Protein A column |
 | Gel filtration | Size-exclusion chromatography | Gel filtration column | PBS | Further purification and buffer exchange |
 
-### Purification Workflow
-
-*Source: doi/10.1038##s41586-020-2180-5*
+#### Source: doi/10.1038##s41586-020-2180-5
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -56,12 +54,10 @@ The C-terminal domain (CTD) of the SARS-CoV-2 spike (S) protein, also known as t
 | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA affinity | Ni-NTA resin (GE Healthcare) | HBS (10 mM HEPES pH 7.2, 150 mM NaCl) + -- | Eluted with 500 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) in HBS buffer |
 | Size-exclusion chromatography | Gel filtration | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) column (GE Healthcare) | HBS (10 mM HEPES pH 7.2, 150 mM NaCl) + -- | Pre-equilibrated with HBS; complex formed by mixing with ACE2 before SEC; concentrated to 13 mg/ml |
 
-### Purification Workflow
-
-*Source: doi/10.1038##s41586-020-2179-y*
+#### Source: doi/10.1038##s41586-020-2179-y
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

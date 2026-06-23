@@ -1,5 +1,5 @@
 ---
-title: Human Cholecystokinin A Receptor (CCKₐR)
+title: "Human Cholecystokinin A Receptor (CCKₐR)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -32,7 +32,7 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

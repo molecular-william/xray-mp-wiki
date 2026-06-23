@@ -1,5 +1,5 @@
 ---
-title: VcmN MATE Transporter
+title: "VcmN MATE Transporter"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -32,7 +32,7 @@ VcmN is a multidrug and toxic compound extrusion (MATE) transporter from the pat
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

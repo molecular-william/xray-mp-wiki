@@ -1,5 +1,5 @@
 ---
-title: NarK Nitrate/Nitrite Antiporter from Escherichia coli
+title: "NarK Nitrate/Nitrite Antiporter from Escherichia coli"
 created: 2026-06-05
 updated: 2026-06-05
 type: protein
@@ -23,11 +23,11 @@ movement of transmembrane helices and key residues in the substrate-binding site
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature12139 | not specified | 2.60 | not specified | Full-length E. coli NarK (strain K12) co-crystallized with Fab antibody fragment (hybridoma line 4G5, IgG2a, kappa) | none (apo, inward-facing conformation) |
-| doi/10.1038##nature12139 | not specified | 2.80 | not specified | NarK-Fab complex crystal soaked in buffer containing 50 mM sodium nitrite | nitrite (NO2-) |
-| doi/10.1038##ncomms8097 | not specified | 2.35 A | P2_12_12_1 | Full-length E. coli NarK (GI: 945783, residues 1-427) from strain K-12 MG1655, N-terminal His8-GFP tag cleaved | none (apo inward-open state) |
-| doi/10.1038##ncomms8097 | not specified | 2.4 A | P2_12_12_1 | Full-length E. coli NarK with nitrate bound | nitrate ion (NO3-) |
-| doi/10.1038##ncomms8097 | not specified | 2.4 A | P2_12_12_1 | Full-length E. coli NarK with nitrate bound | nitrate ion (NO3-) |
+| doi/10.1038##nature12139 | 4JR9 | 2.60 | not specified | Full-length E. coli NarK (strain K12) co-crystallized with Fab antibody fragment (hybridoma line 4G5, IgG2a, kappa) | none (apo, inward-facing conformation) |
+| doi/10.1038##nature12139 | 4JR9 | 2.80 | not specified | NarK-Fab complex crystal soaked in buffer containing 50 mM sodium nitrite | nitrite (NO2-) |
+| doi/10.1038##ncomms8097 | 4U4V | 2.35 A | P2_12_12_1 | Full-length E. coli NarK (GI: 945783, residues 1-427) from strain K-12 MG1655, N-terminal His8-GFP tag cleaved | none (apo inward-open state) |
+| doi/10.1038##ncomms8097 | 4U4V | 2.4 A | P2_12_12_1 | Full-length E. coli NarK with nitrate bound | nitrate ion (NO3-) |
+| doi/10.1038##ncomms8097 | 4U4V | 2.4 A | P2_12_12_1 | Full-length E. coli NarK with nitrate bound | nitrate ion (NO3-) |
 
 ## Expression and Purification
 
@@ -37,10 +37,10 @@ movement of transmembrane helices and key residues in the substrate-binding site
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature12139*
+#### Source: doi/10.1038##nature12139
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -51,12 +51,10 @@ movement of transmembrane helices and key residues in the substrate-binding site
 
 **Final sample**: Purified NarK in 0.2% DM buffer
 
-### Purification Workflow
-
-*Source: doi/10.1038##ncomms8097*
+#### Source: doi/10.1038##ncomms8097
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

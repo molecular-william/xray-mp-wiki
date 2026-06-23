@@ -1,5 +1,5 @@
 ---
-title: Human MT1 Melatonin Receptor
+title: "Human MT1 Melatonin Receptor"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -38,7 +38,7 @@ The MT1 melatonin receptor (type 1A) is a class A G-protein-coupled receptor tha
 - **Expression construct**: MT1-CC (PGS fusion with His10-Flag-HA-PSP tags)
 - **Tag info**: N-terminal HA signal, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), 10x His tag, [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) removable
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

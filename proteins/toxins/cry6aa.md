@@ -1,5 +1,5 @@
 ---
-title: Cry6Aa (Bacillus thuringiensis Pore-Forming Toxin)
+title: "Cry6Aa (Bacillus thuringiensis Pore-Forming Toxin)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -52,7 +52,7 @@ of action.
 - **Expression construct**: Full-length Cry6Aa1
 - **Tag info**: Untagged
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ of action.
 - **Expression construct**: Cry6Aa2 in pHT304
 - **Tag info**: Untagged
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -125,7 +125,7 @@ WYNNSDWYNNSDWYNN repeats); (2) wing-like intra-helical loops bounded by
 [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) residues in helices alphaC and alphaD; (3) two disulfide bonds
 (Cys88-Cys451 and Cys402-Cys404) that confer conformational rigidity;
 (4) a disulfide-linked C-terminal fragment that remains attached to the
-toxin core after [Trypsin](/xray-mp-wiki/reagents/trypsin/) activation. The C-terminal region is absent in
+toxin core after [Trypsin](/xray-mp-wiki/reagents/additives/trypsin/) activation. The C-terminal region is absent in
 Cry6Ba, which has coleopteran activity but reduced nematode toxicity.
 
 

@@ -1,5 +1,5 @@
 ---
-title: Nociceptin/Orphanin FQ Peptide Receptor (NOP)
+title: "Nociceptin/Orphanin FQ Peptide Receptor (NOP)"
 created: 2026-06-08
 updated: 2026-06-09
 type: protein
@@ -33,10 +33,10 @@ The nociceptin/orphanin FQ peptide receptor (NOP), also known as ORL-1, is a mem
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature11085*
+#### Source: doi/10.1038##nature11085
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -44,12 +44,10 @@ The nociceptin/orphanin FQ peptide receptor (NOP), also known as ORL-1, is a mem
 | Membrane preparation and solubilization | Homogenization and solubilization in detergent |  | 20 mM HEPES pH 7.5, 500 mM NaCl, 30% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 1.0% lauryl [Maltose](/xray-mp-wiki/reagents/additives/maltose/) neopentyl glycol (MNG), 0.3% [Sodium Cholate](/xray-mp-wiki/reagents/detergents/sodium-cholate/), 0.03% [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) hemisuccinate ([CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)) | [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) present during solubilization; [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) used for cysteine blocking |
 | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC resin | 20 mM HEPES pH 7.5, 500 mM NaCl, 0.1% MNG, 0.03% [Sodium Cholate](/xray-mp-wiki/reagents/detergents/sodium-cholate/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.1% MNG, 0.03% [Sodium Cholate](/xray-mp-wiki/reagents/detergents/sodium-cholate/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Eluted with 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
 
-### Purification Workflow
-
-*Source: doi/10.1016##j.str.2015.07.024*
+#### Source: doi/10.1016##j.str.2015.07.024
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

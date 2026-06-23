@@ -1,5 +1,5 @@
 ---
-title: Chicken Kir2.2 Inward Rectifier K+ Channel
+title: "Chicken Kir2.2 Inward Rectifier K+ Channel"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -35,10 +35,10 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature10370*
+#### Source: doi/10.1038##nature10370
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -46,12 +46,10 @@ Chicken Kir2.2 (cKir2.2) is a classical inward rectifier potassium channel whose
 | 2. Protease cleavage | PreScission protease cleavage | — | DM-containing buffer | Cleavage to remove GFP and affinity tags |
 | 3. Size-exclusion chromatography | Gel filtration (Superdex 200) | — | DM-containing buffer | Purified protein concentrated to 9 mg/mL for crystallization |
 
-### Purification Workflow
-
-*Source: doi/10.1085##jgp.201611616*
+#### Source: doi/10.1085##jgp.201611616
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

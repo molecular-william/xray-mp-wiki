@@ -1,5 +1,5 @@
 ---
-title: E. coli YajC Transmembrane Protein
+title: "E. coli YajC Transmembrane Protein"
 created: 2026-05-28
 updated: 2026-05-28
 type: protein
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-YajC is a single transmembrane (TM) protein from Escherichia coli that associates with the [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/). The crystal structure of the [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/):YajC complex (PDB 2RDD) revealed YajC as a single elongated TM helix of approximately 37 residues that docks into a highly conserved cavity on the surface of the [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) trimer. YajC interacts with TM helices 2, 7, 11, 12, and Iα2 of [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/). Deletion of yajc in E. coli results in a modest increase in susceptibility to beta-lactam antibiotics, suggesting a functional role in the AcrB-mediated efflux system. YajC is known to also interact with SecD and SecF, components of the protein translocase machinery.
+YajC is a single transmembrane (TM) protein from Escherichia coli that associates with the [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/). The crystal structure of the [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/):YajC complex (PDB 2RDD) revealed YajC as a single elongated TM helix of approximately 37 residues that docks into a highly conserved cavity on the surface of the [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) trimer. YajC interacts with TM helices 2, 7, 11, 12, and Iα2 of [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/). Deletion of yajc in E. coli results in a modest increase in susceptibility to beta-lactam antibiotics, suggesting a functional role in the AcrB-mediated efflux system. YajC is known to also interact with SecD and SecF, components of the protein translocase machinery.
 
 
 ## Structure Determination
@@ -32,7 +32,7 @@ YajC is a single transmembrane (TM) protein from Escherichia coli that associate
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -106,10 +106,10 @@ to [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) in certain bacteria.
 
 ## Cross-References
 
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — YajC forms a stable complex with AcrB; crystal structure determined together (PDB 2RDD)
+- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — YajC forms a stable complex with AcrB; crystal structure determined together (PDB 2RDD)
 - [AcrA multidrug efflux pump periplasmic protein](/xray-mp-wiki/proteins/abc-transporters/acra/) — AcrA is the periplasmic adaptor in the AcrAB-TolC efflux complex; hypothesized to interact with YajC
 - [Thermus thermophilus SecY Core Channel Subunit](/xray-mp-wiki/proteins/secretion-translocon/secy/) — YajC structural analogy with the gamma subunit of the SecY translocation channel
-- [Ampicillin](/xray-mp-wiki/reagents/ligands/ampicillin/) — Ampicillin co-crystallized with AcrB:YajC complex; six molecules observed in the central cavity
+- [Ampicillin](/xray-mp-wiki/reagents/antibiotics/ampicillin/) — Ampicillin co-crystallized with AcrB:YajC complex; six molecules observed in the central cavity
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used for solubilization and purification of the AcrB:YajC complex
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification

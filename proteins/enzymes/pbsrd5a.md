@@ -1,5 +1,5 @@
 ---
-title: PbSRD5A Steroid 5α-Reductase (Proteobacteria bacterium)
+title: "PbSRD5A Steroid 5α-Reductase (Proteobacteria bacterium)"
 created: 2026-06-09
 updated: 2026-06-09
 type: protein
@@ -36,7 +36,7 @@ PbSRD5A is a steroid 5α-reductase from *Proteobacteria bacterium*, a homolog of
 - **Expression construct**: N-terminal 10XHis tag
 - **Tag info**: [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: PPE41
+title: "PPE41"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -33,7 +33,7 @@ PPE41 is the conserved N-terminal domain of the PPE (Pro-Pro-Glu) protein family
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

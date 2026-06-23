@@ -36,5 +36,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [Linezolid](/xray-mp-wiki/reagents/ligands/linezolid/) — Specific protein-ligand binding study
+- [Linezolid](/xray-mp-wiki/reagents/antibiotics/linezolid/) — Specific protein-ligand binding study
 - [Bovine ADP/ATP Carrier](/xray-mp-wiki/proteins/slc-transporters/bovine-adp-atp-carrier/) — Primary target protein for carboxyatractyloside

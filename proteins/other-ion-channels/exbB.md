@@ -1,5 +1,5 @@
 ---
-title: ExbB (E. coli)
+title: "ExbB (E. coli)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -32,7 +32,7 @@ ExbB is an integral polytopic membrane protein from Escherichia coli that is a c
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

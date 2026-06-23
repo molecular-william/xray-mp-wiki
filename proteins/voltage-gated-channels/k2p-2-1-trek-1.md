@@ -1,5 +1,5 @@
 ---
-title: K2P 2.1 (TREK-1) Potassium Channel
+title: "K2P 2.1 (TREK-1) Potassium Channel"
 created: 2026-06-10
 updated: 2026-06-10
 type: protein
@@ -24,7 +24,7 @@ K2P 2.1 (also known as TREK-1, encoded by KCNK2) is a polymodal thermo- and mech
 | doi/10.1038##nature22988 | 5VK5 | 3.1 A | P212121 | K2P 2.1cryst (residues 21-322) with surface mutations K84R, Q85E, T86K, I88L, A89R, Q90A, A92P, N95S, S96D, D797Q, N119A, S300A, E306A; domain-swapped M1 helix, extracellular CAP domain, C-terminal tail (residues 307-321), unimpeded aqueous path between intracellular side and selectivity filter. C-terminal TEV cleavage site and GFP for [FSEC](/xray-mp-wiki/methods/quality-assessment/fluorescence-size-exclusion-chromatography/) screening. | K+ ions at selectivity filter sites S1-S4 |
 | doi/10.1038##nature22988 | 5VKN | 3.0 A | P212121 | K2P 2.1cryst same construct as 5VK5, co-crystallized with [ML335 (N-aryl-sulfonamide K2P activator)](/xray-mp-wiki/reagents/ligands/ml335/) activator | K+ ions, [ML335 (N-aryl-sulfonamide K2P activator)](/xray-mp-wiki/reagents/ligands/ml335/) (2 molecules per channel) |
 | doi/10.1038##nature22988 | 5VKP | 2.8 A | P212121 | K2P 2.1cryst same construct as 5VK5, co-crystallized with [ML402 (thiophene-carboxamide K2P activator)](/xray-mp-wiki/reagents/ligands/ml402/) activator | K+ ions, [ML402 (thiophene-carboxamide K2P activator)](/xray-mp-wiki/reagents/ligands/ml402/) (2 molecules per channel) |
-| doi/10.1126##sciadv.abc9174 |  | 3.3-3.9 A |  | K2P 2.1cryst (same construct as 5VK5) crystallized at seven potassium concentrations (0, 1, 10, 30, 50, 100, 200 mM [K+]) and in complex with [ML335 (N-aryl-sulfonamide K2P activator)](/xray-mp-wiki/reagents/ligands/ml335/) |  |
+| doi/10.1126##sciadv.abc9174 | 6W7B | 3.3-3.9 A |  | K2P 2.1cryst (same construct as 5VK5) crystallized at seven potassium concentrations (0, 1, 10, 30, 50, 100, 200 mM [K+]) and in complex with [ML335 (N-aryl-sulfonamide K2P activator)](/xray-mp-wiki/reagents/ligands/ml335/) |  |
 
 ## Expression and Purification
 
@@ -38,7 +38,7 @@ K2P 2.1 (also known as TREK-1, encoded by KCNK2) is a polymodal thermo- and mech
 - **Expression construct**: K2P 2.1cryst (residues 21-322), C-terminal GFP-His10 tag
 - **Tag info**: C-terminal His10 tag via GFP fusion
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

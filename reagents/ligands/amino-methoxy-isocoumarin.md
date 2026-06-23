@@ -46,6 +46,6 @@ No comparison data available.
 ## Cross-References
 
 - [GlpG Rhomboid Intramembrane Protease](/xray-mp-wiki/proteins/enzymes/glpg/) — Primary target of amino-methoxy-isocoumarin; acyl enzyme complex structure (PDB 2XOW) reveals inhibitor-induced conformational changes
-- [Isocoumarin](/xray-mp-wiki/reagents/ligands/isocoumarin/) — Amino-methoxy-isocoumarin is a stable derivative of the isocoumarin scaffold, which is the only inhibitor class reported to have significant activity against rhomboids
+- [Isocoumarin](/xray-mp-wiki/reagents/antibiotics/isocoumarin/) — Amino-methoxy-isocoumarin is a stable derivative of the isocoumarin scaffold, which is the only inhibitor class reported to have significant activity against rhomboids
 - [Ammonium Chloride](/xray-mp-wiki/reagents/additives/ammonium-chloride/) — Additive used in purification or crystallization buffers
 - [Isocoumarin](/xray-mp-wiki/reagents/antibiotics/isocoumarin/) — Antibiotic used in selection

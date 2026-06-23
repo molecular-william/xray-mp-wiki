@@ -1,5 +1,5 @@
 ---
-title: DsbB (Disulfide Bond Formation Protein B)
+title: "DsbB (Disulfide Bond Formation Protein B)"
 created: 2026-06-08
 updated: 2026-06-16
 type: protein
@@ -30,7 +30,7 @@ helix" in the P2 loop.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##emboj.2009.21 |  | 3.4 | C2 | DsbB(Cys41Ser) mutant in complex with Fab antibody fragment | [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) (UQ) |
+| doi/10.1038##emboj.2009.21 | 2ZUQ | 3.4 | C2 | DsbB(Cys41Ser) mutant in complex with Fab antibody fragment | [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) (UQ) |
 | doi/10.1038##emboj.2009.21 | 2HI7 | 3.7 | P4(2)2(1)2 | DsbB(Cys130Ser) in disulfide-linked complex with DsbA(Cys33Ala) | [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) (UQ) |
 | doi/10.1126##sciadv.abe3717 | 6WVF | 2.9 |  | DsbB with termini restrained by split sfGFP | [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) (UQ) |
 
@@ -44,7 +44,7 @@ helix" in the P2 loop.
 - **Expression system**: E. coli SS141 (dsbB::kan5)
 - **Expression construct**: His6-myc tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

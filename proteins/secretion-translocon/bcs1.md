@@ -1,5 +1,5 @@
 ---
-title: Mouse Bcs1 (AAA Protein Translocase)
+title: "Mouse Bcs1 (AAA Protein Translocase)"
 created: 2026-06-17
 updated: 2026-06-17
 type: protein
@@ -33,7 +33,7 @@ Bcs1 is a mitochondrial membrane-bound AAA+ ATPase that translocates folded prot
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

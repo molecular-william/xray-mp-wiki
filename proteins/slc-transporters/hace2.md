@@ -1,5 +1,5 @@
 ---
-title: Human Angiotensin-Converting Enzyme 2 (hACE2)
+title: "Human Angiotensin-Converting Enzyme 2 (hACE2)"
 created: 2026-05-27
 updated: 2026-06-09
 type: protein
@@ -32,22 +32,20 @@ Human angiotensin-converting enzyme 2 (hACE2) is a membrane-bound zinc metallopr
 
 ### Purification Workflow
 
-*Source: doi/10.1016##j.cell.2020.03.045*
+#### Source: doi/10.1016##j.cell.2020.03.045
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | HisTrap HP 5 mL column | Buffer not specified + -- | Soluble proteins from Hi5 cell supernatant purified by metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) |
 | Size-exclusion chromatography | Size-exclusion chromatography | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) column | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM NaCl | Final purification step; samples pooled and concentrated |
 
-### Purification Workflow
-
-*Source: doi/10.1038##s41586-020-2180-5*
+#### Source: doi/10.1038##s41586-020-2180-5
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -55,12 +53,10 @@ Human angiotensin-converting enzyme 2 (hACE2) is a membrane-bound zinc metallopr
 | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA affinity | Ni-NTA resin (GE Healthcare) | HBS (10 mM HEPES pH 7.2, 150 mM NaCl) + -- | Eluted with 500 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) in HBS buffer |
 | Size-exclusion chromatography | Gel filtration | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) column (GE Healthcare) | HBS (10 mM HEPES pH 7.2, 150 mM NaCl) + -- | Pre-equilibrated with HBS buffer; complex formed by incubating ACE2 with SARS-CoV-2 RBD for 1 h on ice before SEC |
 
-### Purification Workflow
-
-*Source: doi/10.1038##s41586-020-2179-y*
+#### Source: doi/10.1038##s41586-020-2179-y
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

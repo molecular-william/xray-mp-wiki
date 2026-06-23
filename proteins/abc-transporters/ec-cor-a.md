@@ -1,5 +1,5 @@
 ---
-title: Escherichia coli CorA Mg2+ Channel (Cytoplasmic Domain)
+title: "Escherichia coli CorA Mg2+ Channel (Cytoplasmic Domain)"
 created: 2026-05-29
 updated: 2026-05-29
 type: protein
@@ -34,7 +34,7 @@ CorA from Escherichia coli is the family prototype of the CorA Mg2+ transporter 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

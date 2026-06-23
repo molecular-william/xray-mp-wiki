@@ -1,5 +1,5 @@
 ---
-title: E. coli MscS (Mechanosensitive Channel of Small Conductance)
+title: "E. coli MscS (Mechanosensitive Channel of Small Conductance)"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -31,7 +31,7 @@ MscS (mechanosensitive channel of small conductance) is a mechanosensitive ion c
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

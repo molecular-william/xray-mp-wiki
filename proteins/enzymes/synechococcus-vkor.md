@@ -1,5 +1,5 @@
 ---
-title: VKOR from Synechococcus sp.
+title: "VKOR from Synechococcus sp."
 created: 2026-06-02
 updated: 2026-06-04
 type: protein
@@ -35,7 +35,7 @@ VKOR ([Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) Epoxide Reductase
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

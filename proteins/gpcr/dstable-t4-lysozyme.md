@@ -1,5 +1,5 @@
 ---
-title: dsT4L (Disulfide-Stabilized T4 Lysozyme)
+title: "dsT4L (Disulfide-Stabilized T4 Lysozyme)"
 created: 2026-05-28
 updated: 2026-05-28
 type: protein

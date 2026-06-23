@@ -1,5 +1,5 @@
 ---
-title: HsTPC2 - Human Two-pore Channel 2
+title: "HsTPC2 - Human Two-pore Channel 2"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein

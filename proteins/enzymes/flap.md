@@ -1,5 +1,5 @@
 ---
-title: 5-Lipoxygenase Activating Protein (FLAP)
+title: "5-Lipoxygenase Activating Protein (FLAP)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,10 +21,10 @@ FLAP (5-lipoxygenase activating protein, also known as ALOX5AP) is an integral m
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.bbagen.2020.129800 | unknown | 2.4 | unknown | Human FLAP (5-lipoxygenase activating protein) expressed in HEK cells, complexed with DG-031 (Bay X-1005) | DG-031 (Bay X-1005) |
-| doi/10.1016##j.bbagen.2020.129800 | unknown | 4.0 | unknown | Human FLAP complexed with  |  |
-| doi/10.1016##j.bbagen.2020.129800 | unknown | unknown | unknown | Human FLAP complexed with MK-886 | MK-886 |
-| doi/10.1126##science.1144346 | unknown | 4.0 | unknown | Human FLAP complexed with  |  |
+| doi/10.1016##j.bbagen.2020.129800 |  | 2.4 | unknown | Human FLAP (5-lipoxygenase activating protein) expressed in HEK cells, complexed with DG-031 (Bay X-1005) | DG-031 (Bay X-1005) |
+| doi/10.1016##j.bbagen.2020.129800 |  | 4.0 | unknown | Human FLAP complexed with  |  |
+| doi/10.1016##j.bbagen.2020.129800 |  | unknown | unknown | Human FLAP complexed with MK-886 | MK-886 |
+| doi/10.1126##science.1144346 | 2Q7M | 4.0 | unknown | Human FLAP complexed with  |  |
 
 ## Expression and Purification
 
@@ -33,21 +33,19 @@ FLAP (5-lipoxygenase activating protein, also known as ALOX5AP) is an integral m
 
 ### Purification Workflow
 
-*Source: doi/10.1016##j.bbagen.2020.129800*
+#### Source: doi/10.1016##j.bbagen.2020.129800
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Expression | Recombinant expression in HEK cells | -- | -- + -- | Details in reference 34 (Ferguson et al., Science 2007) |
 
-### Purification Workflow
-
-*Source: doi/10.1126##science.1144346*
+#### Source: doi/10.1126##science.1144346
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -121,6 +119,6 @@ region beyond G140 is disordered and unique to FLAP among MAPEG proteins.
 - [MAPEG Superfamily](/xray-mp-wiki/concepts/protein-families/mapag-superfamily/) — FLAP is a non-catalytic member of the MAPEG superfamily
 - [MK-591](/xray-mp-wiki/reagents/ligands/mk-591/) — FLAP structure solved with MK-591 inhibitor bound
 - [Mpges 1](/xray-mp-wiki/proteins/enzymes/mpges-1/) — Referenced in flap text
-- [Mk 591](/xray-mp-wiki/reagents/mk-591/) — Referenced in flap text
-- [GSH](/xray-mp-wiki/reagents/glutathione/) — Referenced in flap text
-- [LTB4](/xray-mp-wiki/reagents/ltb4/) — Referenced in flap text
+- [Mk 591](/xray-mp-wiki/reagents/ligands/mk-591/) — Referenced in flap text
+- [GSH](/xray-mp-wiki/reagents/additives/glutathione/) — Referenced in flap text
+- [LTB4](/xray-mp-wiki/reagents/ligands/ltb4/) — Referenced in flap text

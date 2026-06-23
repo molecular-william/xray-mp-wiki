@@ -1,5 +1,5 @@
 ---
-title: Thermotoga maritima FtsH (Apo-FtsH AAA Protease)
+title: "Thermotoga maritima FtsH (Apo-FtsH AAA Protease)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -20,7 +20,7 @@ FtsH is a universally conserved membrane-anchored ATP-dependent zinc metalloprot
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.0910708106 |  | 2.6 | P622 | Delta-tmFtsH K207A (apo-state, nucleotide-free); residues 147-610 with K410L-K415A surface mutations | none (apo-form) |
+| doi/10.1073##pnas.0910708106 | 3KDS | 2.6 | P622 | Delta-tmFtsH K207A (apo-state, nucleotide-free); residues 147-610 with K410L-K415A surface mutations | none (apo-form) |
 
 ## Expression and Purification
 

@@ -1,5 +1,5 @@
 ---
-title: Chrimson Channelrhodopsin
+title: "Chrimson Channelrhodopsin"
 created: 2018-09-26
 updated: 2026-06-08
 type: protein
@@ -30,13 +30,13 @@ Chrimson is a red light-activated channelrhodopsin from the algae *Chlamydomonas
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Expression | [Baculovirus](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) infection of [Sf9](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) cells (Sf900II medium, 27 C, 48 h); 100 uM all-trans [retinal](/xray-mp-wiki/reagents/ligands/retinal/) added at 24 h post-infection | -- | 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 50 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.0, 5% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.1 mM [PMSF](/xray-mp-wiki/reagents/additives/pmsf/) + -- | Cells harvested 48 h post-infection; pellets disrupted by sonication; cell debris cleared at 10,000 x g; crude membrane collected by ultracentrifugation at 215,000 x g |
 | Solubilization | Detergent solubilization | -- | 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 50 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.0, 5% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.1 mM [PMSF](/xray-mp-wiki/reagents/additives/pmsf/) + 2.5% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.5% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Insoluble material removed by ultracentrifugation at 208,000 x g |
-| FLAG affinity purification | [ANTI-FLAG M2 Agarose](/xray-mp-wiki/reagents/additives/flag-tag/) affinity chromatography | ANTI-FLAG M2 Agarose Affinity Gel (Sigma) | 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 50 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.0, 5% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Binding for 1.5 h; EGFP-FLAG tag cleaved by [TEV protease](/xray-mp-wiki/reagents/additives/tev-protease/) (homemade) on resin |
+| FLAG affinity purification | [ANTI-FLAG M2 Agarose](/xray-mp-wiki/reagents/protein-tags/flag-tag/) affinity chromatography | ANTI-FLAG M2 Agarose Affinity Gel (Sigma) | 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 50 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.0, 5% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Binding for 1.5 h; EGFP-FLAG tag cleaved by [TEV protease](/xray-mp-wiki/reagents/additives/tev-protease/) (homemade) on resin |
 | Size-exclusion chromatography | [Size-exclusion chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | Not specified | 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 50 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.0, 5% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Peak fractions pooled and concentrated to 7.0 mg/ml for crystallization |
 
 
@@ -95,6 +95,6 @@ Based on structural insights, the ChrimsonSA mutant (S169A) was engineered with 
 - [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Expression host for recombinant Chrimson production
 - [Channelrhodopsin C1C2](/xray-mp-wiki/proteins/rhodopsins/channelrhodopsin-c1c2/) — Chimeric channelrhodopsin used for structural comparison with Chrimson
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Chrimson resembles BR in retinal binding pocket architecture
-- [FLAG Tag](/xray-mp-wiki/reagents/additives/flag-tag/) — FLAG tag used for affinity purification via ANTI-FLAG M2 Agarose
+- [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) — FLAG tag used for affinity purification via ANTI-FLAG M2 Agarose
 - [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) — Used to cleave EGFP-FLAG tag during purification
 - [Phenylmethylsulfonyl Fluoride (PMSF)](/xray-mp-wiki/reagents/additives/pmsf/) — Protease inhibitor (0.1 mM) included in purification buffers

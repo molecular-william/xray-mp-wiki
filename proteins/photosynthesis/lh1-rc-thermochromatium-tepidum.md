@@ -1,5 +1,5 @@
 ---
-title: LH1-RC complex from Thermochromatium tepidum
+title: "LH1-RC complex from Thermochromatium tepidum"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -20,7 +20,7 @@ The light-harvesting core antenna (LH1) and the reaction centre (RC) from Thermo
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature13197 | unknown | 3.0 | P21 | LH1-RC core complex from Thermochromatium tepidum, 16 LH1 alpha/beta heterodimers surrounding RC with H, L, M and Cyt subunits | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a (B915), spirilloxanthin, [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), non-haem [IRON](/xray-mp-wiki/reagents/additives/iron/), calcium ions, haem |
+| doi/10.1038##nature13197 | 4V8K | 3.0 | P21 | LH1-RC core complex from Thermochromatium tepidum, 16 LH1 alpha/beta heterodimers surrounding RC with H, L, M and Cyt subunits | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a (B915), spirilloxanthin, [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), non-haem [IRON](/xray-mp-wiki/reagents/additives/iron/), calcium ions, haem |
 
 ## Expression and Purification
 
@@ -30,7 +30,7 @@ The light-harvesting core antenna (LH1) and the reaction centre (RC) from Thermo
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

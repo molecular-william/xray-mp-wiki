@@ -1,5 +1,5 @@
 ---
-title: Halorhodopsin (HR) from Halobacterium salinarum
+title: "Halorhodopsin (HR) from Halobacterium salinarum"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -29,7 +29,7 @@ through a protonated Schiff base [Retinal](/xray-mp-wiki/reagents/ligands/retina
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.288.5470.1390 |  | 1.8 | — | Mature HR (253 amino acids), Val229Ala mutant | [Retinal](/xray-mp-wiki/reagents/ligands/retinal/), Chloride |
+| doi/10.1126##science.288.5470.1390 | 1E12 | 1.8 | — | Mature HR (253 amino acids), Val229Ala mutant | [Retinal](/xray-mp-wiki/reagents/ligands/retinal/), Chloride |
 
 ## Expression and Purification
 
@@ -40,7 +40,7 @@ through a protonated Schiff base [Retinal](/xray-mp-wiki/reagents/ligands/retina
 
 - **Expression system**: H. salinarum D2
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

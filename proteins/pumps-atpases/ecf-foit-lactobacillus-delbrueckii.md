@@ -1,5 +1,5 @@
 ---
-title: ECF-FoIT Energy-Coupling Factor Transporter for Folate from Lactobacillus delbrueckii
+title: "ECF-FoIT Energy-Coupling Factor Transporter for Folate from Lactobacillus delbrueckii"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -53,6 +53,6 @@ The working model proposes: (1)  binding drives release of the empty S-component
 
 ## Cross-References
 
-- [Amp Pnp](/xray-mp-wiki/reagents/amp-pnp/) — Referenced in ecf-foit-lactobacillus-delbrueckii text
+- [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/) — Referenced in ecf-foit-lactobacillus-delbrueckii text
 - [ATP](/xray-mp-wiki/reagents/ligands/atp/) — Referenced in ecf-foit-lactobacillus-delbrueckii text
 - [ECF (Energy Coupling Factor) Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/ecf-transporter-family/) — Referenced in ecf-foit-lactobacillus-delbrueckii text

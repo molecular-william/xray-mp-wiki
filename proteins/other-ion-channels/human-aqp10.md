@@ -1,5 +1,5 @@
 ---
-title: Human Aquaporin 10 (AQP10)
+title: "Human Aquaporin 10 (AQP10)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -34,7 +34,7 @@ of aquaporin regulation important for controlling body fat mass.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41467-018-07176-z | not specified | 2.3 | P2_1_2_1_2_1 | Human AQP10 C-terminally truncated construct (residues 1-270), wild-type | Glycerol (1 molecule per monomer) |
+| doi/10.1038##s41467-018-07176-z | 6F7H | 2.3 | P2_1_2_1_2_1 | Human AQP10 C-terminally truncated construct (residues 1-270), wild-type | Glycerol (1 molecule per monomer) |
 
 ## Expression and Purification
 
@@ -44,7 +44,7 @@ of aquaporin regulation important for controlling body fat mass.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

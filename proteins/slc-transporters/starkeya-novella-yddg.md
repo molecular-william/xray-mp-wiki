@@ -1,5 +1,5 @@
 ---
-title: Starkeya novella YddG (SnYddG)
+title: "Starkeya novella YddG (SnYddG)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -31,7 +31,7 @@ SnYddG is a member of the drug/metabolite transporter (DMT) superfamily from the
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -119,7 +119,7 @@ between four-transmembrane SMR and ten-transmembrane DMT proteins.
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used as LCP matrix (2:3 protein-to-lipid ratio) for SnYddG crystallization
 - [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer (50 mM pH 7.0 for solubilization, 20 mM pH 7.0 for SEC) used in SnYddG purification
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Eluent (20 mM) used in Ni-NTA affinity chromatography for SnYddG purification
-- [TEV Protease](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) — Used to cleave C-terminal (His)8 tag from SnYddG at 4 C overnight
+- [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) — Used to cleave C-terminal (His)8 tag from SnYddG at 4 C overnight
 - [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) — Size-exclusion chromatography resin (Superdex 200 Increase 10/300 GL) used for final SnYddG purification step
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used for SnYddG structure determination via twin-syringe mixing with monoolein
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

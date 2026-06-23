@@ -37,4 +37,4 @@ The first outward-facing conformation of a SLC11 family member was determined fo
 - [Inward-Facing Conformation](/xray-mp-wiki/concepts/transport-mechanisms/inward-facing-conformation/) — ScaDMT crystal structures adopt inward-facing conformation
 - [Outward-Facing Conformation of ABC Transporters](/xray-mp-wiki/concepts/transport-mechanisms/outward-facing-conformation/) — EcoDMT provides the outward-facing conformation of SLC11 transporters
 - [LeuT Return-State Mechanism](/xray-mp-wiki/concepts/miscellaneous/leut-return-state-mechanism/) — SLC11 family members share the LeuT-fold architecture
-- [ScaDMT^tru Truncated Divalent Metal-Ion Transporter](/xray-mp-wiki/proteins/slc-transporters/sca-dmt-tru/) — Truncated ScaDMT construct of the SLC11 family
+- [ScaDMT^tru Truncated Divalent Metal-Ion Transporter](/xray-mp-wiki/proteins/slc-transporters/sca-dmt/) — Truncated ScaDMT construct of the SLC11 family

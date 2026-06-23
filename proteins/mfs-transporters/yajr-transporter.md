@@ -1,5 +1,5 @@
 ---
-title: YajR Transporter (E. coli MFS Drug Efflux Transporter)
+title: "YajR Transporter (E. coli MFS Drug Efflux Transporter)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -31,7 +31,7 @@ subfamily and shares highest sequence homology with EmrD (21% identity).
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1308127110 | TBD | 3.15 A | TBD | Full-length YajR (residues 1-454) from E. coli, including YAM domain (residues 389-454) | None |
+| doi/10.1073##pnas.1308127110 | 3WDO | 3.15 A | TBD | Full-length YajR (residues 1-454) from E. coli, including YAM domain (residues 389-454) | None |
 
 ## Expression and Purification
 
@@ -41,7 +41,7 @@ subfamily and shares highest sequence homology with EmrD (21% identity).
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -104,6 +104,6 @@ regulating these conformational changes.
 
 ## Cross-References
 
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — YajR is an MFS transporter; the paper elucidates MFS transport mechanisms
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — YajR is an MFS transporter; the paper elucidates MFS transport mechanisms
 - [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/) — MFS transporters including YajR use the rocker-switch mechanism for alternating access
 - [MFS Motif A and Charge-Helix Dipole Interactions](/xray-mp-wiki/concepts/structural-mechanisms/motif-a-mfs/) — The paper is the primary structural elucidation of motif A function in MFS transporters

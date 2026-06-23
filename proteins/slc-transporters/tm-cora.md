@@ -1,5 +1,5 @@
 ---
-title: Thermotoga maritima CorA (TmCorA) Magnesium Channel
+title: "Thermotoga maritima CorA (TmCorA) Magnesium Channel"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,8 +21,8 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1209018109 | — | not specified | — | TmCorA-ΔNcc mutant (N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/)) in presence of Mg2+ | Mg2+ |
-| doi/10.1073##pnas.1209018109 | — | not specified | — | TmCorA-ΔNcc mutant in absence of Mg2+ | Cs+ |
+| doi/10.1073##pnas.1209018109 | 4EEB | not specified | — | TmCorA-ΔNcc mutant (N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/)) in presence of Mg2+ | Mg2+ |
+| doi/10.1073##pnas.1209018109 | 4EEB | not specified | — | TmCorA-ΔNcc mutant in absence of Mg2+ | Cs+ |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

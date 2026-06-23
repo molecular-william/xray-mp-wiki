@@ -1,5 +1,5 @@
 ---
-title: Xanthorhodopsin
+title: "Xanthorhodopsin"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ Xanthorhodopsin is a light-driven proton pump from the eubacterium Salinibacter 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

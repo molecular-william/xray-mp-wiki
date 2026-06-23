@@ -1,5 +1,5 @@
 ---
-title: Human Cholecystokinin B Receptor (CCKᴅR)
+title: "Human Cholecystokinin B Receptor (CCKᴅR)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -31,7 +31,7 @@ The human cholecystokinin B receptor (CCKᴅR) is a class A G-protein-coupled re
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Human Orexin 2 Receptor
+title: "Human Orexin 2 Receptor"
 created: 2026-05-29
 updated: 2026-05-29
 type: protein
@@ -37,7 +37,7 @@ The human orexin 2 receptor (OX2R, HCRTR2) is a class A GPCR that binds the neur
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/abc-transporters/acrB/ | 6 mM (soaking) | Co-crystallized with [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) by soaking into pre-formed apo-crystals | Bound to A385/F386 loop of each protomer in the symmetric trimer |
+| /xray-mp-wiki/proteins/abc-transporters/acrb/ | 6 mM (soaking) | Co-crystallized with [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) by soaking into pre-formed apo-crystals | Bound to A385/F386 loop of each protomer in the symmetric trimer |
 
 ## Binding Mode
 
@@ -48,9 +48,9 @@ No comparison data available.
 
 ## Cross-References
 
-- [AcrB Efflux Pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Crystal structure determined with Linezolid bound (PDB 4K7Q)
-- [Nafcillin](/xray-mp-wiki/reagents/ligands/nafcillin/) — Beta-lactam antibiotic that also binds to AcrB near A385/F386 loops
-- [Ampicillin](/xray-mp-wiki/reagents/ligands/ampicillin/) — Beta-lactam antibiotic that also binds to AcrB near A385/F386 loops
+- [AcrB Efflux Pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Crystal structure determined with Linezolid bound (PDB 4K7Q)
+- [Nafcillin](/xray-mp-wiki/reagents/antibiotics/nafcillin/) — Beta-lactam antibiotic that also binds to AcrB near A385/F386 loops
+- [Ampicillin](/xray-mp-wiki/reagents/antibiotics/ampicillin/) — Beta-lactam antibiotic that also binds to AcrB near A385/F386 loops
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used in AcrB purification for structural studies
 - [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) — Crystallization precipitant used in AcrB-Linezolid co-crystallization
 - [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Related protein structure

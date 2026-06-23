@@ -1,5 +1,5 @@
 ---
-title: Human P2X3 Receptor (hP2X3)
+title: "Human P2X3 Receptor (hP2X3)"
 created: 2026-06-03
 updated: 2026-06-08
 type: protein
@@ -21,20 +21,20 @@ The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature19367 | not specified | not specified | not specified | hP2X3-MFC_slow (Delta N5/Delta C33/P19V/S15V/V16I) | ATP (open state) |
-| doi/10.1038##nature19367 | not specified | not specified | not specified | hP2X3-MFC_slow (Delta N5/Delta C33/P19V/S15V/V16I) | ATP or 2-methylthio-ATP (desensitized state) |
-| doi/10.1038##nature19367 | not specified | not specified | not specified | hP2X3-MFC_slow (Delta N5/Delta C33/P19V/S15V/V16I) | None (apo/resting state) |
-| doi/10.1038##nature19367 | not specified | not specified | not specified | hP2X3-MFC_slow (Delta N5/Delta C33/P19V/S15V/V16I) | TNP-ATP or A-317491 (antagonist-bound/closed state) |
+| doi/10.1038##nature19367 | 5SVJ | not specified | not specified | hP2X3-MFC_slow (Delta N5/Delta C33/P19V/S15V/V16I) | ATP (open state) |
+| doi/10.1038##nature19367 | 5SVJ | not specified | not specified | hP2X3-MFC_slow (Delta N5/Delta C33/P19V/S15V/V16I) | ATP or 2-methylthio-ATP (desensitized state) |
+| doi/10.1038##nature19367 | 5SVJ | not specified | not specified | hP2X3-MFC_slow (Delta N5/Delta C33/P19V/S15V/V16I) | None (apo/resting state) |
+| doi/10.1038##nature19367 | 5SVJ | not specified | not specified | hP2X3-MFC_slow (Delta N5/Delta C33/P19V/S15V/V16I) | TNP-ATP or A-317491 (antagonist-bound/closed state) |
 | doi/10.7554##eLife.47060 | 6AH5 | 3.8 | not specified | hP2X3-MFC_slow (Delta N5/Delta C33/T13P/S15V/V16I) | Mg2+-ATP (open-like conformation) |
 | doi/10.7554##eLife.47060 | 6AH4 | 3.3 | not specified | hP2X3-MFC_slow (Delta N5/Delta C33/T13P/S15V/V16I) | Ca2+-ATP (open-like conformation) |
-| doi/10.1073##pnas.1800907115 |  | 3.4 | not specified | hP2X3 | AF-219 (negative allosteric inhibitor) |
+| doi/10.1073##pnas.1800907115 | 5YVE | 3.4 | not specified | hP2X3 | AF-219 (negative allosteric inhibitor) |
 
 ## Expression and Purification
 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

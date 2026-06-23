@@ -1,5 +1,5 @@
 ---
-title: Heliorhodopsin (TaHeR) from Thermoplasmatales archaeon SG8-52-1
+title: "Heliorhodopsin (TaHeR) from Thermoplasmatales archaeon SG8-52-1"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -32,10 +32,10 @@ Heliorhodopsin (HeR) from an uncultured Thermoplasmatales archaeon SG8-52-1 (TaH
 
 ### Purification Workflow
 
-*Source: doi/10.1038##s41586-019-1604-6*
+#### Source: doi/10.1038##s41586-019-1604-6
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -44,15 +44,13 @@ Heliorhodopsin (HeR) from an uncultured Thermoplasmatales archaeon SG8-52-1 (TaH
 | Membrane solubilization | Detergent solubilization | — | 20 mM Tris-HCl pH 7.5, 150 mM NaCl, 1% DDM | Membrane fraction solubilized in DDM-containing buffer |
 | Affinity chromatography | Ni-NTA | Ni-NTA agarose | 0.03% DDM | His-tagged TaHeR purified by Ni-NTA affinity chromatography |
 
-### Purification Workflow
-
-*Source: doi/10.1038##s41598-022-17716-9*
+#### Source: doi/10.1038##s41598-022-17716-9
 
 - **Expression system**: E. coli C41(Rosetta)
 - **Expression construct**: TaHeR-I51C mutant for EPR studies
 - **Tag info**: N-terminal 6x His tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -138,6 +136,6 @@ DEER (double electron-electron resonance) spectroscopy on spin-labelled TaHeR (I
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used in the lipidic cubic phase crystallization matrix
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for solubilization and purification
 - [Bicelle Crystallization](/xray-mp-wiki/methods/crystallization/bicelle-crystallization/) — Low pH structure (1.97 A) solved using bicelle crystallization method
-- [DEER Spectroscopy](/xray-mp-wiki/methods/structure-determination/deer-spectroscopy/) — DEER revealed pH- and light-dependent dimer-of-dimer assemblies of TaHeR
+- [DEER Spectroscopy](/xray-mp-wiki/methods/quality-assessment/deer-spectroscopy/) — DEER revealed pH- and light-dependent dimer-of-dimer assemblies of TaHeR
 - [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/) — TaHeR photocycle with K, M, and O intermediates characteristic of microbial rhodopsins
 - [MES](/xray-mp-wiki/reagents/buffers/mes/) — MES buffer used in purification and crystallization at pH 6.5

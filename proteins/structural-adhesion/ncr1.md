@@ -1,5 +1,5 @@
 ---
-title: Saccharomyces cerevisiae Niemann-Pick Type C-Related Protein 1 (NCR1)
+title: "Saccharomyces cerevisiae Niemann-Pick Type C-Related Protein 1 (NCR1)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -33,7 +33,7 @@ NCR1 (Niemann-Pick type C-Related protein 1) from Saccharomyces cerevisiae is a 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

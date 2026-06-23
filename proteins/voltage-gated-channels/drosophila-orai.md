@@ -1,5 +1,5 @@
 ---
-title: Drosophila melanogaster Orai (CRAC Channel)
+title: "Drosophila melanogaster Orai (CRAC Channel)"
 created: 2026-06-08
 updated: 2026-06-10
 type: protein
@@ -38,7 +38,7 @@ Orai is the pore-forming subunit of the calcium release-activated calcium (CRAC)
 - **Expression construct**: Drosophila melanogaster Orai residues 133-341, C224S/C283T, C-terminal YL1/2 tag
 - **Tag info**: C-terminal YL1/2 tag (EGEEF), not removed
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

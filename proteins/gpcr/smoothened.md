@@ -1,5 +1,5 @@
 ---
-title: Mouse Smoothened (SMO) — Class F GPCR
+title: "Mouse Smoothened (SMO) — Class F GPCR"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -29,9 +29,8 @@ Smoothened (SMO) is a seven-transmembrane (7TM) oncoprotein and member of the cl
 
 ### Purification Workflow
 
-*Source: doi/10.1038##s41586-019-1355-4*
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -43,6 +42,7 @@ Smoothened (SMO) is a seven-transmembrane (7TM) oncoprotein and member of the cl
 
 **Final sample**: SMO-SAG21k-NbSmo8 complex at 50 mg/ml
 
+
 ## Crystallization
 
 ### doi/10.1038##s41586-019-1355-4
@@ -51,9 +51,9 @@ Smoothened (SMO) is a seven-transmembrane (7TM) oncoprotein and member of the cl
 |---|---|
 | Method | Lipidic cubic phase (LCP) |
 | Protein sample | SMO-SAG21k-NbSmo8 complex at 50 mg/ml in 20 mM HEPES pH 7.5, 150 mM NaCl, 0.01% LMNG/0.001% CHS |
-| Reservoir | 0.1 M MES pH 6.0, 22% (v/v) PEG300, 0.1 M ammonium phosphate dibasic, 1.5% (v/v) 1,2,3-heptanetriol |
 | Temperature | 4°C for 10 days, then 20°C for 10 days |
 | Notes | LCP formed with 90% 9.9 MAG (monoolein) / 10% cholesterol. Data merged from 20 crystals. Structure solved by molecular replacement using hSMO (5L7D) and Nb6B9 (4LDE). Final Rwork/Rfree 24.5%/29.4%. Data collected at APS beamlines 23-ID-B and 23-ID-D. |
+
 
 ## Biological / Functional Insights
 
@@ -76,5 +76,6 @@ A conformation-specific nanobody (NbSmo8) was developed using yeast surface disp
 ### Relationship to SMO inhibitor resistance
 
 Several clinically observed SMO resistance mutations map to the 7TM sterol pocket. SANT-1 extensively overlaps with 7TM cholesterol binding, and antagonists that are isosteric with 7TM cholesterol may be less susceptible to resistance mutations, since mutations blocking antagonist binding would also prevent sterol binding and SMO activation.
+
 
 ## Cross-References

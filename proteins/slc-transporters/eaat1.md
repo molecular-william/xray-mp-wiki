@@ -1,5 +1,5 @@
 ---
-title: Human Excitatory Amino Acid Transporter 1 (EAAT1)
+title: "Human Excitatory Amino Acid Transporter 1 (EAAT1)"
 created: 2026-06-08
 updated: 2026-06-11
 type: protein
@@ -27,7 +27,7 @@ of the human transporter including the scaffold domain (ScaD) and transport
 domain (TranD), and a mechanism of allosteric inhibition where UCPH101 locks
 the transporter in outward-facing states. A co-structure with both UCPH101
 and TBOA-TFB revealed how competitive and allosteric inhibitors can bind
-simultaneously. [Cryo Em](/xray-mp-wiki/methods/structure-determination/cryo-em/) and X-ray structures of the archaeal homologue [Gltph](/xray-mp-wiki/proteins/slc-transporters/gltph/)
+simultaneously. [Cryo Em](/xray-mp-wiki/methods/structure-determination/cryo-em/) and X-ray structures of the archaeal homologue [Gltph](/xray-mp-wiki/proteins/slc-transporters/glt-ph/)
 in a chloride ion-conducting state (CICS) revealed the molecular basis for
 the uncoupled Cl- conductance, gated by two hydrophobic regions at the
 domain interface. X-ray structures of EAAT1_CRYST in multiple ion-bound
@@ -43,16 +43,16 @@ to glutamine alters the ion-bound conformation.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature22064 | Not specified in raw paper | 3.25 | P6_3 | EAAT1_cryst (thermostabilized, N155T/N204T, ASCT2 TM3-4c swap) with UCPH101 and L-Asp bound | UCPH101, [L Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/) |
-| doi/10.1038##nature22064 | Not specified in raw paper | 3.10 | P6_3 | EAAT1_cryst-II (M231I/F235I mutant) with UCPH101 bound | UCPH101, [L Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/) |
-| doi/10.1038##nature22064 | Not specified in raw paper | 3.32 | P6_3 | EAAT1_cryst-II (M231I/F235I mutant) UCPH101-unbound | [L Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/) |
-| doi/10.1038##nature22064 | Not specified in raw paper | 3.71 | P6_3 | EAAT1_cryst with UCPH101 and TBOA-TFB bound | UCPH101, TBOA-TFB |
-| doi/10.15252##embj.2021108341 |  | 3.25 | P6_3 | EAAT1_CRYST Na+/L-asp and UCPH101 bound | Na+, [L Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/), UCPH101 |
-| doi/10.15252##embj.2021108341 |  | 3.60 | P6_3 | EAAT1_CRYST-E386Q Na+/L-asp and UCPH101 bound | Na+, [L Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/), UCPH101 |
-| doi/10.15252##embj.2021108341 |  | 3.92 | P6_3 | EAAT1_CRYST Rb+/Ba2+ and UCPH101 bound | Rb+, Ba2+, UCPH101 |
-| doi/10.15252##embj.2021108341 |  | 3.91 | P6_3 | EAAT1_CRYST-II Rb+/Ba2+ and UCPH101 bound | Rb+, Ba2+, UCPH101 |
-| doi/10.15252##embj.2021108341 |  | 3.70 | P6_3 | EAAT1_CRYST-II Ba2+ and UCPH101 bound | Ba2+, UCPH101 |
-| doi/10.15252##embj.2021108341 |  | 3.99 |  | Wild-type human EAAT1 (full-length) |  |
+| doi/10.1038##nature22064 | 5LLM | 3.25 | P6_3 | EAAT1_cryst (thermostabilized, N155T/N204T, ASCT2 TM3-4c swap) with UCPH101 and L-Asp bound | UCPH101, [L Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/) |
+| doi/10.1038##nature22064 | 5LLM | 3.10 | P6_3 | EAAT1_cryst-II (M231I/F235I mutant) with UCPH101 bound | UCPH101, [L Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/) |
+| doi/10.1038##nature22064 | 5LLM | 3.32 | P6_3 | EAAT1_cryst-II (M231I/F235I mutant) UCPH101-unbound | [L Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/) |
+| doi/10.1038##nature22064 | 5LLM | 3.71 | P6_3 | EAAT1_cryst with UCPH101 and TBOA-TFB bound | UCPH101, TBOA-TFB |
+| doi/10.15252##embj.2021108341 | 7AWM | 3.25 | P6_3 | EAAT1_CRYST Na+/L-asp and UCPH101 bound | Na+, [L Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/), UCPH101 |
+| doi/10.15252##embj.2021108341 | 7AWM | 3.60 | P6_3 | EAAT1_CRYST-E386Q Na+/L-asp and UCPH101 bound | Na+, [L Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/), UCPH101 |
+| doi/10.15252##embj.2021108341 | 7AWM | 3.92 | P6_3 | EAAT1_CRYST Rb+/Ba2+ and UCPH101 bound | Rb+, Ba2+, UCPH101 |
+| doi/10.15252##embj.2021108341 | 7AWM | 3.91 | P6_3 | EAAT1_CRYST-II Rb+/Ba2+ and UCPH101 bound | Rb+, Ba2+, UCPH101 |
+| doi/10.15252##embj.2021108341 | 7AWM | 3.70 | P6_3 | EAAT1_CRYST-II Ba2+ and UCPH101 bound | Ba2+, UCPH101 |
+| doi/10.15252##embj.2021108341 | 7AWM | 3.99 |  | Wild-type human EAAT1 (full-length) |  |
 
 ## Expression and Purification
 
@@ -63,7 +63,7 @@ to glutamine alters the ion-bound conformation.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ UCPH101 binds in a hydrophobic pocket at the TranD-ScaD interface between TM3, T
 
 ### TM4b-c loop is a eukaryotic-specific insertion
 
-The TM4b-c loop, an insertion in eukaryotic SLC1 transporters, protrudes into the central vestibule of the EAAT1 trimer forming the center of the propeller. It contains a conserved N-glycosylation site (Asn204) and makes extensive inter- and intra-subunit contacts. This architectural feature is absent in the prokaryotic homologue [Gltph](/xray-mp-wiki/proteins/slc-transporters/gltph/).
+The TM4b-c loop, an insertion in eukaryotic SLC1 transporters, protrudes into the central vestibule of the EAAT1 trimer forming the center of the propeller. It contains a conserved N-glycosylation site (Asn204) and makes extensive inter- and intra-subunit contacts. This architectural feature is absent in the prokaryotic homologue [Gltph](/xray-mp-wiki/proteins/slc-transporters/glt-ph/).
 
 ### TM1a forms membrane-interacting amphipathic helix
 
@@ -107,12 +107,12 @@ lipid or detergent molecules.
 
 ### Cl- channel gated by two hydrophobic regions in EAAT1
 
-[Cryo Em](/xray-mp-wiki/methods/structure-determination/cryo-em/) and X-ray structures of the [Gltph](/xray-mp-wiki/proteins/slc-transporters/gltph/) homologue revealed a chloride
+[Cryo Em](/xray-mp-wiki/methods/structure-determination/cryo-em/) and X-ray structures of the [Gltph](/xray-mp-wiki/proteins/slc-transporters/glt-ph/) homologue revealed a chloride
 ion-conducting state (CICS) with an aqueous cavity at the domain interface.
 Electrophysiological studies in Xenopus laevis oocytes confirmed that the
 same crosslinking strategy (XL2: L244C/G439C in EAAT1) traps EAAT1 in an
 open-channel conformation with enhanced Cl- conductance. Mutation of
-hydrophobic residues equivalent to those gating the [Gltph](/xray-mp-wiki/proteins/slc-transporters/gltph/) channel confirmed
+hydrophobic residues equivalent to those gating the [Gltph](/xray-mp-wiki/proteins/slc-transporters/glt-ph/) channel confirmed
 a conserved mechanism: F50A, T54A, L88A, M89A, M286A, and L269A mutations
 shifted the reversal potential to more hyperpolarized potentials (increased
 Cl- conductance), while A289F essentially eliminated Cl- contribution to

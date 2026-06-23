@@ -1,5 +1,5 @@
 ---
-title: ScaDMT Divalent Metal-Ion Transporter
+title: "ScaDMT Divalent Metal-Ion Transporter"
 created: 2026-06-05
 updated: 2026-06-05
 type: protein
@@ -21,10 +21,7 @@ ScaDMT is a divalent metal-ion transporter from Staphylococcus capitis belonging
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nsmb.2904 | not specified in paper | 6.5 A | P3_2 2 1 | Full-length ScaDMT from Staphylococcus capitis, wild-type, 448 amino acids, inward-facing conformation | none (full-length crystal form, lower resolution) |
-| doi/10.1038##nsmb.2904 | not specified in paper | 3.1 A | P3_1 2 1 | ScaDMT^tru (truncated construct lacking 41 N-terminal residues including 17 residues of first predicted TM helix) co-crystallized with [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/), inward-facing conformation | none (apo complex with [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/)) |
-| doi/10.1038##nsmb.2904 | not specified in paper | 3.4 A | P3_1 2 1 | ScaDMT^tru-[Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) complex with Mn2+ bound, inward-facing conformation | Mn2+ (coordinated by Asp49, Asn52, Met226, and backbone of Ala223) |
-| doi/10.1038##nsmb.2904 | not specified in paper | 3.6 A | P3_1 2 1 | Selenomethionine-labeled ScaDMT^tru-[Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) complex | SeMet (for structural determination by X-ray crystallography) |
+| doi/10.1038##nsmb.2904 | 5M94 | 3.6 A | P3_1 2 1 | Selenomethionine-labeled ScaDMT^tru-[Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) complex | SeMet (for structural determination by X-ray crystallography) |
 
 ## Expression and Purification
 
@@ -34,7 +31,7 @@ ScaDMT is a divalent metal-ion transporter from Staphylococcus capitis belonging
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -97,3 +94,10 @@ outward-facing state.
 - [HRV 3C Protease](/xray-mp-wiki/reagents/additives/hrv-3c-protease/) — Additive used in purification or crystallization buffers
 - [PEG 600](/xray-mp-wiki/reagents/additives/peg-600/) — Additive used in purification or crystallization buffers
 - [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) — Fusion tag for crystallization or purification
+- [ScaDMT Divalent Metal-Ion Transporter](/xray-mp-wiki/proteins/slc-transporters/sca-dmt/) — ScaDMT^tru is a truncated N-terminal variant of full-length ScaDMT
+- [DMT Superfamily (Drug/Metabolite Transporter Superfamily)](/xray-mp-wiki/concepts/transport-mechanisms/dmt-superfamily/) — ScaDMT^tru is a member of the SLC11 family
+- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol) — Entity mentioned in text
+- [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody) — Entity mentioned in text
+- [PEG](/xray-mp-wiki/reagents/additives/peg) — Entity mentioned in text
+- [HEPES](/xray-mp-wiki/reagents/buffers/hepes) — Entity mentioned in text
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation) — Entity mentioned in text

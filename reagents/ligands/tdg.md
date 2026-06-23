@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/mfs-transporters/lac-y/ | Bound in crystal structure | TDG-bound structure of LacY (PDB 1PV7) solved at 2.2 A resolution by molecular replacement using 1PV6 as template. Provides the first high-resolution view of sugar binding in the [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) transporter family.
+| /xray-mp-wiki/proteins/mfs-transporters/lac-y/ | Bound in crystal structure | TDG-bound structure of LacY (PDB 1PV7) solved at 2.2 A resolution by molecular replacement using 1PV6 as template. Provides the first high-resolution view of sugar binding in the [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) transporter family.
  | Direct visualization of the sugar-binding pocket in LacY; Arg144 forms bi-dentate H-bonds with galactopyranosyl O4 and O3 atoms; Trp151 provides hydrophobic stacking platform.
  |
 
@@ -50,4 +50,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — Related biological concept
+- [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — Related biological concept

@@ -1,5 +1,5 @@
 ---
-title: BcTSPO Translocator Protein from Bacillus cereus
+title: "BcTSPO Translocator Protein from Bacillus cereus"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -22,7 +22,7 @@ BcTSPO is the translocator protein (TSPO) homolog from *Bacillus cereus*, a bact
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1126##science.aaa1534 | 4RYQ | 1.7 | — | Wild-type BcTSPO (apo) |  |
-| doi/10.1126##science.aaa1534 | — | — | — | PK11195-bound BcTSPO dimer |  |
+| doi/10.1126##science.aaa1534 | 4RYQ | — | — | PK11195-bound BcTSPO dimer |  |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ BcTSPO is the translocator protein (TSPO) homolog from *Bacillus cereus*, a bact
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

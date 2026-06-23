@@ -49,6 +49,6 @@ No comparison data available.
 - [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) — Buffer component in purification or crystallization
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used in purification or crystallization
 - [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) — Related ligand or cofactor
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Used for crystallization of ABI-PP-bound AcrB and AcrB(F178W) mutant
+- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Used for crystallization of ABI-PP-bound AcrB and AcrB(F178W) mutant
 - [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Related protein structure
 - [ABI-PP (tert-butyl thiazolyl aminocarboxyl pyridopyrimidine)](/xray-mp-wiki/reagents/ligands/abi-pp/) — Related ligand or cofactor

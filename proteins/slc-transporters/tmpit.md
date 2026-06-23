@@ -1,5 +1,5 @@
 ---
-title: Sodium-dependent Phosphate Transporter TmPiT from Thermotoga maritima
+title: "Sodium-dependent Phosphate Transporter TmPiT from Thermotoga maritima"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -21,7 +21,7 @@ TmPiT (locus Tm0261) is a sodium-dependent phosphate transporter from the hypert
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##sciadv.abb4024 |  | 2.3 |  | Full-length TmPiT (locus Tm0261, residues 1-420?) from T. maritima MSB8 | One phosphate ion, three sodium ions |
+| doi/10.1126##sciadv.abb4024 | 6L85 | 2.3 |  | Full-length TmPiT (locus Tm0261, residues 1-420?) from T. maritima MSB8 | One phosphate ion, three sodium ions |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ TmPiT (locus Tm0261) is a sodium-dependent phosphate transporter from the hypert
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

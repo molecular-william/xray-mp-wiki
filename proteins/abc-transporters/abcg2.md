@@ -1,5 +1,5 @@
 ---
-title: ABCG2
+title: "ABCG2"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -36,7 +36,7 @@ ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

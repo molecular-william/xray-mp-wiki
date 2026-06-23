@@ -1,5 +1,5 @@
 ---
-title: E. coli MscS Mechanosensitive Channel (A106V Open Form)
+title: "E. coli MscS Mechanosensitive Channel (A106V Open Form)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein

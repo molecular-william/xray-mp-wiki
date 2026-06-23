@@ -1,5 +1,5 @@
 ---
-title: GtACR1 Anion Channelrhodopsin from Guillardia theta
+title: "GtACR1 Anion Channelrhodopsin from Guillardia theta"
 created: 2026-06-09
 updated: 2026-06-09
 type: protein
@@ -31,10 +31,10 @@ GtACR1 is a natural light-gated anion channelrhodopsin from the cryptophyte alga
 
 ### Purification Workflow
 
-*Source: doi/10.7554##eLife.41741*
+#### Source: doi/10.7554##eLife.41741
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -44,12 +44,10 @@ GtACR1 is a natural light-gated anion channelrhodopsin from the cryptophyte alga
 | Ni-NTA affinity chromatography | Immobilized metal ion affinity chromatography | Ni-NTA resin (Qiagen) | Buffer A with 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/); 15 mM and 40 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) for washes; 400 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) for elution + 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Supernatant supplemented with 15 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) incubated with Ni resin for 1 hr at 4 C; step-wise washes with 15 mM and 40 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/); eluted with 400 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) in Buffer A + 0.03% DDM. |
 | Size exclusion chromatography | Size exclusion chromatography | Superdex Increase 10/300 GL column (GE Healthcare) | Buffer B (350 mM NaCl, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/)) + not specified | Eluted protein further purified on Superdex Increase 10/300 GL column equilibrated with Buffer B. |
 
-### Purification Workflow
-
-*Source: doi/10.7554##eLife.65903*
+#### Source: doi/10.7554##eLife.65903
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

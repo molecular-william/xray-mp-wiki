@@ -1,5 +1,5 @@
 ---
-title: SPCS1 (Signal Peptidase Complex Subunit 1) from Gallus gallus
+title: "SPCS1 (Signal Peptidase Complex Subunit 1) from Gallus gallus"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -30,7 +30,7 @@ SPCS1 (Signal Peptidase Complex Subunit 1) from Gallus gallus (chicken) is a sma
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

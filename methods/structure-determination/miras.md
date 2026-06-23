@@ -30,12 +30,12 @@ non-crystallographic symmetry averaging.
 ### Reagents and Materials
 
 - Seleno-[L-Methionine](/xray-mp-wiki/reagents/ligands/l-methionine/) (for protein expression)
-- [Mercury(II) Chloride](/xray-mp-wiki/reagents/additives/mercury-ii-chloride/) or other [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) compounds (for crystal derivatization)
+- [Mercury(II) Chloride](/xray-mp-wiki/reagents/additives/mercury/) or other [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) compounds (for crystal derivatization)
 
 ### Steps
 
 1. {'step': 'Selenomethionine-incorporated protein expression', 'description': 'Express the target protein in methionine auxotrophic E. coli strains (e.g., B834) in the presence of seleno-[L-Methionine](/xray-mp-wiki/reagents/ligands/l-methionine/) to achieve near-complete replacement of methionine with [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/). This provides strong anomalous signal from selenium atoms at the selenium K-edge (~12.66 keV).\n'}
-2. {'step': 'Heavy-atom derivative crystal preparation', 'description': 'Soak native crystals in solutions containing [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) compounds (e.g., [Mercury(II) Chloride](/xray-mp-wiki/reagents/additives/mercury-ii-chloride/)) to obtain heavy-atom derivative crystals. Screen multiple derivative conditions to identify isomorphous crystals with strong heavy-atom binding sites.\n'}
+2. {'step': 'Heavy-atom derivative crystal preparation', 'description': 'Soak native crystals in solutions containing [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) compounds (e.g., [Mercury(II) Chloride](/xray-mp-wiki/reagents/additives/mercury/)) to obtain heavy-atom derivative crystals. Screen multiple derivative conditions to identify isomorphous crystals with strong heavy-atom binding sites.\n'}
 3. {'step': 'X-ray data collection', 'description': 'Collect native high-resolution data, heavy-atom derivative data, lower-resolution native data, and [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) anomalous data. Data can be processed using pipelines such as XIA2 with XDS for indexing and scaling, or mosflm and aimless. Collect at appropriate wavelengths to maximize anomalous signal from selenium (anomalous peak) and [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) (L-edges).\n'}
 4. {'step': 'Heavy atom site location', 'description': 'Locate heavy atom sites manually using programs such as RSPS, or automatically using programs such as SHELXD. Refine heavy atom positions and parameters using maximum likelihood programs such as SHARP.\n'}
 5. {'step': 'Initial phasing with solvent flattening', 'description': 'Calculate initial phases using SHARP with solvent flattening in SOLOMON. The combination of isomorphous replacement and anomalous scattering provides phase information that can be significantly improved by density modification.\n'}
@@ -1262,4 +1262,4 @@ non-crystallographic symmetry averaging.
 ## Related Reagents
 
 - [Selenomethionine](/xray-mp-wiki/reagents/additives/selenomethionine/) — Selenomethionine-incorporated protein used for anomalous phasing
-- [Mercury(II) Chloride](/xray-mp-wiki/reagents/additives/mercury-ii-chloride/) — Heavy atom derivative used for MIRAS phasing
+- [Mercury(II) Chloride](/xray-mp-wiki/reagents/additives/mercury/) — Heavy atom derivative used for MIRAS phasing

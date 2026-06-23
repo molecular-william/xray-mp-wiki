@@ -27,7 +27,7 @@ In the high-affinity E2P-like state, the binding cavity is closed around ouabain
 The antagonism between cardiac glycosides and extracellular K⁺ is structurally explained: K⁺ at the transmembrane binding sites blocks closure of the binding cavity, reducing ouabain affinity from nM (E2P state) to mM (E2·2K⁺·Pi state). Nonetheless, even the low-affinity structure explains most mutagenesis data from high-affinity states, confirming essentially the same binding site.
 
 ## Examples in Membrane Protein Work
-- [Na⁺,K⁺-ATPase (Shark)](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-shark/) — Crystal structure of shark Na⁺,K⁺-ATPase with bound ouabain in E2·2K⁺·Pi state at 2.8 Å
+- [Na⁺,K⁺-ATPase (Shark)](/xray-mp-wiki/proteins/pumps-atpases/shark-na-k-atpase/) — Crystal structure of shark Na⁺,K⁺-ATPase with bound ouabain in E2·2K⁺·Pi state at 2.8 Å
 - [Shark Na⁺,K⁺-ATPase](/xray-mp-wiki/proteins/pumps-atpases/shark-na-k-atpase/) — Cryo-EM structures of E2P states with ouabain and istaroxime at 3.4-3.9 Å
 
 ## Related Concepts
@@ -35,5 +35,5 @@ The antagonism between cardiac glycosides and extracellular K⁺ is structurally
 
 ## Cross-References
 - [Ouabain](/xray-mp-wiki/reagents/ligands/ouabain/) — Prototypical cardiac glycoside; the structural basis of its inhibitory mechanism
-- [Na⁺,K⁺-ATPase from Squalus acanthias (Shark)](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-shark/) — Crystal structure providing direct structural evidence for cardiac glycoside binding mechanism
+- [Na⁺,K⁺-ATPase from Squalus acanthias (Shark)](/xray-mp-wiki/proteins/pumps-atpases/shark-na-k-atpase/) — Crystal structure providing direct structural evidence for cardiac glycoside binding mechanism
 - [P-type ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/p-type-atpase-mechanism/) — Cardiac glycosides inhibit the E2P state of the P-type ATPase catalytic cycle

@@ -1,5 +1,5 @@
 ---
-title: Somatostatin Receptor 4 (SSTR4)
+title: "Somatostatin Receptor 4 (SSTR4)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein

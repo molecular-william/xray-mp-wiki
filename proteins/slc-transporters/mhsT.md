@@ -1,5 +1,5 @@
 ---
-title: MhsT Multi-Hydrophobic Amino Acid Transporter from Bacillus halodurans
+title: "MhsT Multi-Hydrophobic Amino Acid Transporter from Bacillus halodurans"
 created: 2026-06-02
 updated: 2026-06-11
 type: protein
@@ -21,8 +21,8 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##NSMB.2894 | not specified | 2.1 A | not specified | Full-length MhsT from B. halodurans, residues 1-453, His-tag cleaved | Na+ (2 ions), L-tryptophan |
-| doi/10.1038##NSMB.2894 | not specified | 2.6 A | not specified | Full-length MhsT from B. halodurans, residues 1-453, His-tag cleaved, LCP crystal form | Na+ (2 ions), L-tryptophan |
+| doi/10.1038##NSMB.2894 | 4US3 | 2.1 A | not specified | Full-length MhsT from B. halodurans, residues 1-453, His-tag cleaved | Na+ (2 ions), L-tryptophan |
+| doi/10.1038##NSMB.2894 | 4US3 | 2.6 A | not specified | Full-length MhsT from B. halodurans, residues 1-453, His-tag cleaved, LCP crystal form | Na+ (2 ions), L-tryptophan |
 | doi/10.15252##embj.2020105164 | 6YU7 | 2.3 A | P2 | Full-length MhsT, religipidated in [DOPC](/xray-mp-wiki/reagents/lipids/dopc/), crystallized in OG/NG | Na+, L-Tyrosine |
 | doi/10.15252##embj.2020105164 | 6YU4 | 2.26 A | P2 | Full-length MhsT, religipidated in [DOPC](/xray-mp-wiki/reagents/lipids/dopc/) | Na+, L-4-Fluoro-Phenylalanine |
 | doi/10.15252##embj.2020105164 | 6YU3 | 2.25 A | P2 | Full-length MhsT, religipidated in [DOPC](/xray-mp-wiki/reagents/lipids/dopc/) | Na+, [L-Phenylalanine](/xray-mp-wiki/reagents/ligands/l-phenylalanine/) |
@@ -38,7 +38,7 @@ MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belo
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ Structural alignment of MhsT (NSS family) with [Mhp1 Benzyl-Hydantoin Transporte
 - [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/transport-mechanisms/nss-family/) — MhsT belongs to the NSS family
 - [SLC6 Substrate Recognition by the GMG Motif](/xray-mp-wiki/concepts/structural-mechanisms/slc6-substrate-recognition-gmg-motif/) — The GMG motif in TM6 mediates MhsT substrate recognition
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent for MhsT solubilization, purification, and binding studies
-- [TEV Protease](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) — Used to cleave N-terminal histidine tag from MhsT
+- [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) — Used to cleave N-terminal histidine tag from MhsT
 - [HiLiDe Crystallization](/xray-mp-wiki/methods/crystallization/hilide-crystallization/) — MhsT crystallized using HiLiDe method (2.1 A structure)
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — MhsT crystallized using LCP method (2.6 A structure)
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Core transport mechanism of NSS family

@@ -1,5 +1,5 @@
 ---
-title: Human K2P1 (TWIK-1) Potassium Channel
+title: "Human K2P1 (TWIK-1) Potassium Channel"
 created: 2026-06-21
 updated: 2026-06-21
 type: protein
@@ -20,7 +20,7 @@ Human K2P1 (also known as TWIK-1, encoded by KCNK1) is a two-pore domain potassi
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.1213274 |  | 3.4 A | P2(1) | Human K2P1 residues 19-288 (removed N-terminal 18 residues and C-terminal 48 residues), C22S, N95Q mutations | K+ ions at selectivity filter sites S1-S4; Tl+ ions (surrogate for K+) at selectivity filter |
+| doi/10.1126##science.1213274 | 3UKM | 3.4 A | P2(1) | Human K2P1 residues 19-288 (removed N-terminal 18 residues and C-terminal 48 residues), C22S, N95Q mutations | K+ ions at selectivity filter sites S1-S4; Tl+ ions (surrogate for K+) at selectivity filter |
 
 ## Expression and Purification
 
@@ -33,7 +33,7 @@ Human K2P1 (also known as TWIK-1, encoded by KCNK1) is a two-pore domain potassi
 - **Expression system**: Pichia pastoris
 - **Expression construct**: Human K2P1 residues 19-288, C22S, N95Q
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

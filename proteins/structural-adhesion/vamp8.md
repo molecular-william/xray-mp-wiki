@@ -1,5 +1,5 @@
 ---
-title: VAMP8 (Vesicle-Associated Membrane Protein 8)
+title: "VAMP8 (Vesicle-Associated Membrane Protein 8)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -25,7 +25,7 @@ STX17-SNAP29-VAMP8 SNARE core complex was determined, revealing a canonical four
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.2006997117 |  |  |  | VAMP8 R-SNARE motif (residues 8-75) in complex with [STX17](/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/) and [SNAP29 (Synaptosomal-Associated Protein 29)](/xray-mp-wiki/proteins/structural-adhesion/snap29/) | none |
+| doi/10.1073##pnas.2006997117 | 7BV6 |  |  | VAMP8 R-SNARE motif (residues 8-75) in complex with [STX17](/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/) and [SNAP29 (Synaptosomal-Associated Protein 29)](/xray-mp-wiki/proteins/structural-adhesion/snap29/) | none |
 
 ## Expression and Purification
 

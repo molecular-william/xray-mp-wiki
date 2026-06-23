@@ -1,5 +1,5 @@
 ---
-title: FKBP12 (FK506 Binding Protein 12)
+title: "FKBP12 (FK506 Binding Protein 12)"
 created: 2026-06-05
 updated: 2026-06-05
 type: protein

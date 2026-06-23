@@ -1,5 +1,5 @@
 ---
-title: NeRh50 (Nitrosomonas europaea Rh50 Ammonia Channel)
+title: "NeRh50 (Nitrosomonas europaea Rh50 Ammonia Channel)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ NeRh50 is a bacterial homologue of the human Rhesus (Rh) 50 glycoprotein from Ni
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.0706563104 |  | 1.3 | R3 | Full-length NeRh50 with C-terminal hexahistidine tag, expressed in E. coli |  |
+| doi/10.1073##pnas.0706563104 | 3B9W | 1.3 | R3 | Full-length NeRh50 with C-terminal hexahistidine tag, expressed in E. coli |  |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ NeRh50 is a bacterial homologue of the human Rhesus (Rh) 50 glycoprotein from Ni
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

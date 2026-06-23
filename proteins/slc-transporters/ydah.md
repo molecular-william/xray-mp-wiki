@@ -1,5 +1,5 @@
 ---
-title: A. borkumensis YdaH transporter
+title: "A. borkumensis YdaH transporter"
 created: 2026-06-05
 updated: 2026-06-05
 type: protein
@@ -21,7 +21,7 @@ YdaH is an integral membrane protein from Alcanivorax borkumensis encoded by the
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##ncomms7874 | not specified | 2.96 A | P2$_{1}$ | Full-length A. borkumensis YdaH with N-terminal 6xHis tag | None (apo structure) |
+| doi/10.1038##ncomms7874 | 4R0C | 2.96 A | P2$_{1}$ | Full-length A. borkumensis YdaH with N-terminal 6xHis tag | None (apo structure) |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ YdaH is an integral membrane protein from Alcanivorax borkumensis encoded by the
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -106,5 +106,5 @@ The AbgT family (~13,000 putative members) includes both transporters and resist
 - [Sulfathiazole](/xray-mp-wiki/reagents/ligands/sulfathiazole/) — YdaH binds sulfathiazole with Ki=0.60 uM
 - [Sulfadiazine](/xray-mp-wiki/reagents/ligands/sulfadiazine/) — YdaH binds sulfadiazine with Ki=4.97 uM
 - [p-Aminobenzoic Acid (PABA)](/xray-mp-wiki/reagents/additives/paba/) — YdaH exports PABA from bacterial cells
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Related efflux pump; E. coli BL21(DE3) delta acrB strain used for YdaH expression
+- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Related efflux pump; E. coli BL21(DE3) delta acrB strain used for YdaH expression
 - [Sodium Motive Force](/xray-mp-wiki/concepts/miscellaneous/sodium-motive-force/) — Na+ enhances YdaH transporter function

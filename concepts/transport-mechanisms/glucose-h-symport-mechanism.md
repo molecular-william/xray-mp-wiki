@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 The glucose/H+ symport mechanism describes how members of the
-[Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/)
+[Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/)
 couple the translocation of glucose to the electrochemical proton gradient.
 This mechanism is distinct from the facilitated diffusion used by most human
 GLUT glucose transporters. The crystal structure of GlcP_Se from
@@ -44,10 +44,10 @@ The mechanism involves a six-step cycle adapted from the LacY model, with the ke
 - [LacY (Lactose Permease)](/xray-mp-wiki/proteins/mfs-transporters/lac-y/) — Most intensively studied MFS H+ symporter; model for the GlcP_Se mechanism
 
 ## Related Concepts
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — GlcP_Se is a member of the MFS; the symport mechanism is an MFS transport paradigm
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — GlcP_Se is a member of the MFS; the symport mechanism is an MFS transport paradigm
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — The general transport mechanism adapted for H+ coupled symport
 
 ## Cross-References
 - [GlcP_Se (Staphylococcus epidermidis Glucose/H+ Symporter)](/xray-mp-wiki/proteins/mfs-transporters/glcp-se/) — Protein whose structure revealed the symport mechanism
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — GlcP_Se is a member of the MFS; the symport mechanism is an MFS transport paradigm
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — GlcP_Se is a member of the MFS; the symport mechanism is an MFS transport paradigm
 - [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Physiological substrate of GlcP_Se and all GLUT transporters

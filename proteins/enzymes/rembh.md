@@ -1,5 +1,5 @@
 ---
-title: Ralstonia eutropha Membrane-Bound Hydrogenase (ReMBH)
+title: "Ralstonia eutropha Membrane-Bound Hydrogenase (ReMBH)"
 created: 2026-05-28
 updated: 2026-05-28
 type: protein
@@ -21,7 +21,7 @@ ReMBH is a membrane-bound, O2-tolerant [NiFe]-hydrogenase from Ralstonia eutroph
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.str.2012.11.010 | not specified | not specified | not specified | ReMBH (referenced from external structures) | [Fe3S4] cluster, NiFe active site |
+| doi/10.1016##j.str.2012.11.010 | 4GD3 | not specified | not specified | ReMBH (referenced from external structures) | [Fe3S4] cluster, NiFe active site |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ ReMBH is a membrane-bound, O2-tolerant [NiFe]-hydrogenase from Ralstonia eutroph
 
 - **Expression system**: Ralstonia eutropha
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

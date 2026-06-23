@@ -1,5 +1,5 @@
 ---
-title: Escherichia coli Zinc Transporter YiiP
+title: "Escherichia coli Zinc Transporter YiiP"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -39,7 +39,7 @@ No structure determined.
 - **Expression system**: E. coli
 - **Expression construct**: Full-length YiiP
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

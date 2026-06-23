@@ -1,5 +1,5 @@
 ---
-title: Kangiella koreensis Site-2 Protease Homolog (KkRseP)
+title: "Kangiella koreensis Site-2 Protease Homolog (KkRseP)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -33,7 +33,7 @@ No structure determined.
 - **Expression system**: E. coli C43(DE3) + pRARE2
 - **Tag info**: C-terminal TEV-His8, cleaved with TEV for crystallization
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

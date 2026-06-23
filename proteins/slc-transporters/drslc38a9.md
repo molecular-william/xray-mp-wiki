@@ -1,5 +1,5 @@
 ---
-title: Zebrafish SLC38A9 (drSLC38A9)
+title: "Zebrafish SLC38A9 (drSLC38A9)"
 created: 2026-05-29
 updated: 2026-05-29
 type: protein
@@ -33,7 +33,7 @@ Zebrafish SLC38A9 (drSLC38A9) is a lysosomal amino acid transporter from Danio r
 
 - **Expression system**: Spodoptera frugiperda Sf-9 insect cells
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

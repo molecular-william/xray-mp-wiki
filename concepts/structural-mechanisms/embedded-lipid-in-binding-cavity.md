@@ -65,7 +65,7 @@ pockets, possibly due to their intrinsically flexible nature.
 ## Cross-References
 - [Substrate Polyspecificity in SMR Transporters](/xray-mp-wiki/concepts/transport-mechanisms/substrate-polyspecificity-smr-transporters/) — The embedded lipid mechanism provides a structural basis for polyspecificity in MFS transporters
 - [Antibiotic Efflux Pump](/xray-mp-wiki/concepts/transport-mechanisms/antibiotic-efflux-pump/) — The embedded lipid contributes to the broad substrate range of multidrug efflux pumps
-- [Major Facilitator Superfamily](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — LmrP is an MFS transporter; the embedded lipid mechanism may operate in other MFS members
+- [Major Facilitator Superfamily](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — LmrP is an MFS transporter; the embedded lipid mechanism may operate in other MFS members
 - [Lipid Annulus](/xray-mp-wiki/concepts/membrane-mimetics/lipid-annulus/) — Related concept of lipid-protein interactions; embedded lipid differs by being inside the binding cavity rather than at the protein-lipid interface
 - [LmrP Multidrug Transporter](/xray-mp-wiki/proteins/mfs-transporters/lmrp/) — LmrP is the protein where the embedded lipid was first directly observed
 - [POPG](/xray-mp-wiki/reagents/lipids/popg/) — POPG is the specific PG lipid species modeled in the LmrP binding cavity

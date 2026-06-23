@@ -1,5 +1,5 @@
 ---
-title: Porin B (PorB) from Corynebacterium glutamicum
+title: "Porin B (PorB) from Corynebacterium glutamicum"
 created: 2026-05-26
 updated: 2026-05-26
 type: protein
@@ -20,7 +20,7 @@ Porin B (PorB) is an alpha-helical porin from Corynebacterium glutamicum, a myco
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##JMB.2008.04.017 | 2K5A (Form I), 2K5B (Form II), 2K5C (Form III), 2K5D (Form IV) | 1.8 A (Form I), 2.9 A (Form II), 3.2 A (Form III), 4.2 A (Form IV) | P41212 (I), P6522 (II), P43212 (III), P6422 (IV) | Mature PorB (99 residues, 10,638 Da); 70-residue core (residues 18-87) defined in all forms | 42 Zn2+ ion sites; platinum derivative; [cacodylate](/xray-mp-wiki/reagents/buffers/cacodylate/) |
+| doi/10.1016##JMB.2008.04.017 | 2K5A | 1.8 A (Form I), 2.9 A (Form II), 3.2 A (Form III), 4.2 A (Form IV) | P41212 (I), P6522 (II), P43212 (III), P6422 (IV) | Mature PorB (99 residues, 10,638 Da); 70-residue core (residues 18-87) defined in all forms | 42 Zn2+ ion sites; platinum derivative; [cacodylate](/xray-mp-wiki/reagents/buffers/cacodylate/) |
 
 ## Expression and Purification
 
@@ -30,7 +30,7 @@ Porin B (PorB) is an alpha-helical porin from Corynebacterium glutamicum, a myco
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

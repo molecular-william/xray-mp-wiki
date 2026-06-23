@@ -1,5 +1,5 @@
 ---
-title: Aquaporin Z (AqpZ)
+title: "Aquaporin Z (AqpZ)"
 created: 2026-06-08
 updated: 2026-06-11
 type: protein
@@ -46,10 +46,10 @@ versus size effects on water and glycerol conduction.
 | doi/10.1016##j.jmb.2007.02.070 | 2O9E | 2.20 | — | T183C mutant (Cys9Ser, Cys20Ser background) | mercury (HgCl2) |
 | doi/10.1016##j.jmb.2007.02.070 | 2O9F | 2.55 | — | L170C mutant (Cys9Ser, Cys20Ser background) |  |
 | doi/10.1016##j.jmb.2007.02.070 | 2O9G | 1.90 | — | L170C mutant (Cys9Ser, Cys20Ser background) | mercury (HgCl2) |
-| doi/10.1073##pnas.1009864107 | ~ | 2.40 | P4 | F43W mutant AqpZ |  |
-| doi/10.1073##pnas.1009864107 | ~ | 2.50 | P4 | H174G/T183F double mutant AqpZ |  |
-| doi/10.1073##pnas.1009864107 | ~ | 3.10 | P4 | F43W/H174G/T183F triple mutant AqpZ |  |
-| doi/10.1074##jbc.M508926200 | not specified | 3.20 | P4_1 22 | Full-length wild-type AqpZ, His tag removed by thrombin cleavage |  |
+| doi/10.1073##pnas.1009864107 | 3NK5 | 2.40 | P4 | F43W mutant AqpZ |  |
+| doi/10.1073##pnas.1009864107 | 3NK5 | 2.50 | P4 | H174G/T183F double mutant AqpZ |  |
+| doi/10.1073##pnas.1009864107 | 3NK5 | 3.10 | P4 | F43W/H174G/T183F triple mutant AqpZ |  |
+| doi/10.1074##jbc.M508926200 | 2ABM | 3.20 | P4_1 22 | Full-length wild-type AqpZ, His tag removed by thrombin cleavage |  |
 
 ## Expression and Purification
 
@@ -60,13 +60,13 @@ versus size effects on water and glycerol conduction.
 
 ### Purification Workflow
 
-*Source: doi/10.1371##journal.pbio.0000072*
+#### Source: doi/10.1371##journal.pbio.0000072
 
 - **Expression system**: E. coli C43
 - **Expression construct**: 6xHis-tagged AqpZ in pET28 vector with kanamycin selection
 - **Tag info**: 6xHis tag removed via protocol of Borgnia et al. 1999a
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -79,15 +79,13 @@ versus size effects on water and glycerol conduction.
 
 **Final sample**: ~20 mg/mL in 40 mM OG
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.1009864107*
+#### Source: doi/10.1073##pnas.1009864107
 
 - **Expression system**: E. coli
 - **Expression construct**: 6xHis-tagged AqpZ
 - **Tag info**: 6xHis tag removed with trypsin before proteoliposome reconstitution
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -98,15 +96,13 @@ versus size effects on water and glycerol conduction.
 
 **Final sample**: 25 mg/mL in OG for crystallization
 
-### Purification Workflow
-
-*Source: doi/10.1016##j.jmb.2007.02.070*
+#### Source: doi/10.1016##j.jmb.2007.02.070
 
 - **Expression system**: E. coli C43(DE3)
 - **Expression construct**: 6xHis-tagged AqpZ; Cys9Ser, Cys20Ser background
 - **Tag info**: 6xHis tag removed with trypsin (5 ug for 12 h at 4 C)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -115,15 +111,13 @@ versus size effects on water and glycerol conduction.
 | Affinity chromatography | Ni-NTA batch binding | Ni-NTA (Qiagen) | 20 mM Tris pH 7.4, 100 mM NaCl, 5 mM beta-ME, 10% glycerol + 40 mM OG | Wash with 20 mM imidazole; elute with 250 mM imidazole |
 | Desalting and tag removal | Desalting column + proteolytic cleavage | — | 20 mM Tris pH 7.4, 100 mM NaCl, 5 mM beta-ME, 10% glycerol + 40 mM OG | Imidazole removed using Biorad Econo-Pac 10DG desalting column; His tag removed with 5 ug trypsin for 12 h at 4 C |
 
-### Purification Workflow
-
-*Source: doi/10.1074##jbc.M508926200*
+#### Source: doi/10.1074##jbc.M508926200
 
 - **Expression system**: E. coli BL21(DE3)pLysS
 - **Expression construct**: His-AqpZ (N-terminal His tag)
 - **Tag info**: N-terminal His tag removed by thrombin digestion
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -224,7 +218,7 @@ The 3.2 A tetrameric AqpZ (tAqpZ) structure in space group P4_1 22 revealed two 
 
 ## Cross-References
 
-- [Glycerol Facilitator (GlpF)](/xray-mp-wiki/proteins/other-ion-channels/glycerol-facilitator/) — GlpF served as the aquaglyceroporin model for comparison of selectivity mechanisms; both are E. coli aquaporins
+- [Glycerol Facilitator (GlpF)](/xray-mp-wiki/proteins/other-ion-channels/glpf/) — GlpF served as the aquaglyceroporin model for comparison of selectivity mechanisms; both are E. coli aquaporins
 - [OG (n-Octyl-beta-D-glucoside)](/xray-mp-wiki/reagents/detergents/og/) — Primary detergent for AqpZ solubilization and crystallization
 - [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — AqpZ is a member of the aquaporin family of water channels
 - [Human Aquaporin 4](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-4/) — Related human aquaporin for structural comparison

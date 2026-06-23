@@ -1,5 +1,5 @@
 ---
-title: Human Microsomal Prostaglandin E2 Synthase 1 (mPGES-1)
+title: "Human Microsomal Prostaglandin E2 Synthase 1 (mPGES-1)"
 created: 2026-06-08
 updated: 2026-06-16
 type: protein

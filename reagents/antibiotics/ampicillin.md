@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Ampicillin is a beta-lactam antibiotic that inhibits bacterial cell wall synthesis by binding to penicillin-binding proteins (PBPs) and preventing peptidoglycan cross-linking. It is a broad-spectrum antibiotic effective against Gram-positive and some Gram-negative bacteria. In Escherichia coli, ampicillin resistance is mediated by efflux pumps such as [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) and by beta-lactamase enzymes. The crystal structure of the [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) in complex with ampicillin revealed binding within the central cavity of the trimer.
+Ampicillin is a beta-lactam antibiotic that inhibits bacterial cell wall synthesis by binding to penicillin-binding proteins (PBPs) and preventing peptidoglycan cross-linking. It is a broad-spectrum antibiotic effective against Gram-positive and some Gram-negative bacteria. In Escherichia coli, ampicillin resistance is mediated by efflux pumps such as [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) and by beta-lactamase enzymes. The crystal structure of the [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) in complex with ampicillin revealed binding within the central cavity of the trimer.
 
 
 ## Properties
@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/abc-transporters/acrB/ | 100 mg/L (growth media) | Co-crystallized with [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/):[YAJC](/xray-mp-wiki/proteins/abc-transporters/yajc/) complex; E. coli JM109 strain grown in LB media containing 100 mg/L ampicillin | Six ampicillin molecules observed bound in the central cavity of the [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) trimer at 3.5 A resolution (PDB 2RDD) |
+| /xray-mp-wiki/proteins/abc-transporters/acrb/ | 100 mg/L (growth media) | Co-crystallized with [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/):[YAJC](/xray-mp-wiki/proteins/abc-transporters/yajc/) complex; E. coli JM109 strain grown in LB media containing 100 mg/L ampicillin | Six ampicillin molecules observed bound in the central cavity of the [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) trimer at 3.5 A resolution (PDB 2RDD) |
 
 ## Binding Mode
 
@@ -47,10 +47,10 @@ No comparison data available.
 
 ## Cross-References
 
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Ampicillin bound in the central cavity of AcrB trimer (PDB 2RDD)
-- [Nafcillin](/xray-mp-wiki/reagents/ligands/nafcillin/) — Beta-lactam antibiotic; growth experiments compared ampicillin and nafcillin susceptibility in yajc-deleted strains
+- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Ampicillin bound in the central cavity of AcrB trimer (PDB 2RDD)
+- [Nafcillin](/xray-mp-wiki/reagents/antibiotics/nafcillin/) — Beta-lactam antibiotic; growth experiments compared ampicillin and nafcillin susceptibility in yajc-deleted strains
 - [E. coli YajC Transmembrane Protein](/xray-mp-wiki/proteins/abc-transporters/yajc/) — yajc deletion showed enhanced ampicillin susceptibility
-- [Linezolid](/xray-mp-wiki/reagents/ligands/linezolid/) — Both ampicillin and linezolid bind to the same location on symmetric AcrB trimers near A385/F386
+- [Linezolid](/xray-mp-wiki/reagents/antibiotics/linezolid/) — Both ampicillin and linezolid bind to the same location on symmetric AcrB trimers near A385/F386
 - [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Related protein structure
 - [Linezolid](/xray-mp-wiki/reagents/antibiotics/linezolid/) — Antibiotic used in selection
 - [Nafcillin](/xray-mp-wiki/reagents/antibiotics/nafcillin/) — Antibiotic used in selection

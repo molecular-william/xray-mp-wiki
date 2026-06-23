@@ -1,5 +1,5 @@
 ---
-title: BtuCD-BtuF Complex (E. coli Vitamin B12 ABC Transporter)
+title: "BtuCD-BtuF Complex (E. coli Vitamin B12 ABC Transporter)"
 created: 2026-06-08
 updated: 2026-06-21
 type: protein
@@ -21,8 +21,8 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.1145950 | not specified | ~3.2 | — | Full-length BtuC, BtuD, and BtuF from E. coli |  |
-| doi/10.1038##nature11442 | not specified | 3.5 | — | BtuCD(EQNC)-F: BtuC wild-type, BtuD(E159Q/N162C), BtuF wild-type. Double mutant with Walker-B E159Q and D-loop N162C mutations engineered for disulphide crosslinking. | AMP-PNP, Mg2+ |
+| doi/10.1126##science.1145950 | 2QI9 | ~3.2 | — | Full-length BtuC, BtuD, and BtuF from E. coli |  |
+| doi/10.1038##nature11442 | 4FI3 | 3.5 | — | BtuCD(EQNC)-F: BtuC wild-type, BtuD(E159Q/N162C), BtuF wild-type. Double mutant with Walker-B E159Q and D-loop N162C mutations engineered for disulphide crosslinking. | AMP-PNP, Mg2+ |
 
 ## Expression and Purification
 
@@ -31,24 +31,22 @@ The BtuCD-BtuF complex is the membrane-bound vitamin B12 (cyanocobalamin) ABC tr
 
 ### Purification Workflow
 
-*Source: doi/10.1126##science.1145950*
+#### Source: doi/10.1126##science.1145950
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Complex formation | Affinity purification | — |  | BtuCD-F complex assembled and purified as described in original BtuCD and BtuF studies. |
 
-### Purification Workflow
-
-*Source: doi/10.1038##nature11442*
+#### Source: doi/10.1038##nature11442
 
 - **Expression system**: E. coli BL21-CodonPlus (DE3)-RIPL
 - **Expression construct**: His6-tagged BtuCD(E159Q/N162C) with BtuF
 - **Tag info**: His6-tag, Ni-NTA purification
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -122,5 +120,5 @@ chamber, not a high-affinity binding site.
 - [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — Detergent used in the study
 - [TES Buffer (N-Tris(hydroxymethyl)methyl-2-aminoethanesulfonic acid)](/xray-mp-wiki/reagents/buffers/tes/) — Reagent used in the study
 - [2-(N-Morpholino)ethanesulfonic Acid (MES)](/xray-mp-wiki/reagents/buffers/mes/) — Reagent used in the study
-- [Cobalamin (Vitamin B12)](/xray-mp-wiki/reagents/cobalamin/) — Reagent used in the study
+- [Cobalamin (Vitamin B12)](/xray-mp-wiki/reagents/ligands/cobalamin/) — Reagent used in the study
 - [Adenosine Triphosphate (ATP)](/xray-mp-wiki/reagents/ligands/atp/) — Reagent used in the study

@@ -1,5 +1,5 @@
 ---
-title: JAGN1 (Jagunal Homolog 1) from Homo sapiens
+title: "JAGN1 (Jagunal Homolog 1) from Homo sapiens"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -30,7 +30,7 @@ JAGN1 (Jagunal Homolog 1) is a human four-transmembrane helix protein involved i
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

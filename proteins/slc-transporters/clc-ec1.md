@@ -1,5 +1,5 @@
 ---
-title: CLC-ec1 Cl-/H+ Antiporter
+title: "CLC-ec1 Cl-/H+ Antiporter"
 created: 2020-04-20
 updated: 2026-06-16
 type: protein
@@ -23,14 +23,14 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 | doi/10.7554##eLife.53479 | 6V2J | 2.6 | I222 | CLC-ec1 QQQ triple mutant (E148Q/E203Q/E113Q) from E. coli, expressed in E. coli, crystallized in lipidic cubic phase without Fab fragment | Cl- ions at Scen and Sint binding sites |
 | doi/10.1371##journal.pbio.1001441 | 1OTS | 2.5 | Not specified | CLC-ec1 wild-type from E. coli, original Dutzler et al. structure; also DeltaNC construct (residues 2-16 and 461-464 deleted) diffracting to 2.2-2.7 A | Cl- ions at Scen and Sint binding sites |
 | doi/10.1073##pnas.1901822116 | 6AD7 |  |  | CLC-ec1 E148D mutant with Br- at 200 mM; expressed in E. coli | Br- at Sint and Sxet sites; no Br- at Scen |
-| doi/10.1073##pnas.1901822116 |  |  |  | CLC-ec1 E148N mutant; expressed in E. coli | Br- |
+| doi/10.1073##pnas.1901822116 | 6AD7 |  |  | CLC-ec1 E148N mutant; expressed in E. coli | Br- |
 | doi/10.1073##pnas.1205764109 | 4FTH |  |  | EcCLC E148A mutant with Fab fragment; expressed in E. coli | Glutamate from solution at the central Cl- binding site |
-| doi/10.1073##pnas.1901822116 |  |  |  | CLC-ec1 E148A mutant with 50 mM [Bromoacetate](/xray-mp-wiki/reagents/ligands/bromoacetate/); expressed in E. coli | [Bromoacetate](/xray-mp-wiki/reagents/ligands/bromoacetate/) |
-| doi/10.1038##nature09556 |  | 3.1 |  | CLC-ec1 WW double mutant (I201W/I422W) monomer from E. coli, expressed in E. coli, crystallized by sitting-drop vapor diffusion | Cl- at central binding site; crystallized in presence of NO3- |
+| doi/10.1073##pnas.1901822116 | 6AD7 |  |  | CLC-ec1 E148A mutant with 50 mM [Bromoacetate](/xray-mp-wiki/reagents/ligands/bromoacetate/); expressed in E. coli | [Bromoacetate](/xray-mp-wiki/reagents/ligands/bromoacetate/) |
+| doi/10.1038##nature09556 | 3NMO | 3.1 |  | CLC-ec1 WW double mutant (I201W/I422W) monomer from E. coli, expressed in E. coli, crystallized by sitting-drop vapor diffusion | Cl- at central binding site; crystallized in presence of NO3- |
 | doi/10.1038##nsmb.2814 | 4MQX | 3.50 | C2 | CLC-ec1 cysteineless A399C A432C double mutant, Hg2+-cross-linked, expressed in E. coli | Cl- at central binding site; disulfide bond (Hg2+-catalyzed) between Cys399 and Cys432 |
-| doi/10.1126##science.1082708 |  | 2.5 |  | Wild-type EcClC-Fab complex from E. coli; expressed in E. coli, purified in decylmaltoside (DM) | Cl- ions at Scen and Sint binding sites; Glu148 carboxyl at Sext site (closed conformation) |
-| doi/10.1126##science.1082708 |  | 3.0 |  | EcClC E148A mutant-Fab complex from E. coli | Br- at Scen, Sint, and Sext sites (anion queue representing open conformation) |
-| doi/10.1126##science.1082708 |  | 3.3 |  | EcClC E148Q mutant-Fab complex from E. coli | Br- at Scen, Sint, and Sext sites; glutamine side chain directed toward extracellular solution |
+| doi/10.1126##science.1082708 | 1OTS | 2.5 |  | Wild-type EcClC-Fab complex from E. coli; expressed in E. coli, purified in decylmaltoside (DM) | Cl- ions at Scen and Sint binding sites; Glu148 carboxyl at Sext site (closed conformation) |
+| doi/10.1126##science.1082708 | 1OTS | 3.0 |  | EcClC E148A mutant-Fab complex from E. coli | Br- at Scen, Sint, and Sext sites (anion queue representing open conformation) |
+| doi/10.1126##science.1082708 | 1OTS | 3.3 |  | EcClC E148Q mutant-Fab complex from E. coli | Br- at Scen, Sint, and Sext sites; glutamine side chain directed toward extracellular solution |
 
 ## Expression and Purification
 
@@ -39,24 +39,22 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 
 ### Purification Workflow
 
-*Source: doi/10.7554##eLife.53479*
+#### Source: doi/10.7554##eLife.53479
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Cell lysis and membrane preparation | Standard protein preparation | -- | -- + -- | Protein purification carried out as described (Walden et al., 2007) |
 | Detergent extraction | Detergent solubilization | -- | -- + Decyl maltoside ([DM](/xray-mp-wiki/reagents/detergents/dm/)) | CLC-ec1 QQQ extracted with [DM](/xray-mp-wiki/reagents/detergents/dm/) (Anatrace) |
-| Cobalt-affinity chromatography | Affinity chromatography | Cobalt affinity resin | -- + [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) (gradual exchange from [DM](/xray-mp-wiki/reagents/detergents/dm/)) | Detergent gradually exchanged for lauryl [Maltose](/xray-mp-wiki/reagents/substrates/maltose/) neopentyl glycol ([LMNG](/xray-mp-wiki/reagents/detergents/lmng/)) during the affinity step |
+| Cobalt-affinity chromatography | Affinity chromatography | Cobalt affinity resin | -- + [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) (gradual exchange from [DM](/xray-mp-wiki/reagents/detergents/dm/)) | Detergent gradually exchanged for lauryl [Maltose](/xray-mp-wiki/reagents/additives/maltose/) neopentyl glycol ([LMNG](/xray-mp-wiki/reagents/detergents/lmng/)) during the affinity step |
 | Size-exclusion chromatography | SEC | -- | Buffer containing [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) + [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) | Final SEC step performed in LMNG-containing buffer |
 
-### Purification Workflow
-
-*Source: doi/10.1371##journal.pbio.1001441*
+#### Source: doi/10.1371##journal.pbio.1001441
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -64,12 +62,10 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 | Detergent extraction and purification | Affinity chromatography | Cobalt column | 100 mM Na/K tartrate, 20 mM tris-SO4, 20 mM imidazole-H2SO4, pH 7.5 + 5 mM [DM](/xray-mp-wiki/reagents/detergents/dm/) | Cl- contamination minimized by washing with Cl--free buffer; eluted with 400 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
 | Size-exclusion chromatography | SEC | -- | 100 mM Na/K tartrate, 10 mM tris-SO4, pH 7.5 + 5 mM [DM](/xray-mp-wiki/reagents/detergents/dm/) | Final purification step for crystallography and ITC |
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.1205764109*
+#### Source: doi/10.1073##pnas.1205764109
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -77,12 +73,10 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 | Fab complex formation | Complex formation | -- | -- + -- | EcCLC E148A mutant protein mixed with Fab fragment in an OD280 ratio of 1:1.5 |
 | Size-exclusion chromatography | SEC | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) (GE Health Life Sciences) | 10 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.4, 150 mM potassium glutamate + 4 mM [DM](/xray-mp-wiki/reagents/detergents/dm/) | Complex protein further purified on [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) sizing column equilibrated in Cl--free buffer containing 150 mM potassium glutamate |
 
-### Purification Workflow
-
-*Source: doi/10.1038##nature09556*
+#### Source: doi/10.1038##nature09556
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -90,14 +84,12 @@ CLC-ec1 is a prokaryotic CLC Cl-/H+ antiporter from Escherichia coli that has se
 | Membrane isolation and solubilization | Cell lysis and membrane fractionation | — | Decylmaltoside (DM) | Membranes solubilized in DM-containing buffer; protein purified as described previously for ClC-ec1 |
 | Size-exclusion chromatography | SEC in decylmaltoside micelles | — | 100 mM NaCl, 10 mM Tris-HCl pH 7.5 + ~40 mM decylmaltoside | Monomeric state of WW mutant assessed on SEC column calibrated with membrane transport protein standards. Wild-type homodimer (100 kDa) elutes at 12.8 ml; WW mutant shifts to monomer position (~1 ml later). |
 
-### Purification Workflow
-
-*Source: doi/10.1038##nsmb.2814*
+#### Source: doi/10.1038##nsmb.2814
 
 - **Expression system**: E. coli
 - **Expression construct**: CLC-ec1 cysteineless variant with A399C A432C double mutation
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

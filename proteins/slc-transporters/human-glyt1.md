@@ -1,5 +1,5 @@
 ---
-title: Human Glycine Transporter 1 (GlyT1)
+title: "Human Glycine Transporter 1 (GlyT1)"
 created: 2021-03-03
 updated: 2026-06-09
 type: protein
@@ -28,7 +28,7 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) transporter 1 (GlyT1, e
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

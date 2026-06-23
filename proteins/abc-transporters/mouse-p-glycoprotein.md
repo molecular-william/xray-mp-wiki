@@ -1,5 +1,5 @@
 ---
-title: Mouse P-glycoprotein
+title: "Mouse P-glycoprotein"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -43,7 +43,7 @@ Mouse P-glycoprotein (P-gp; ABCB1; Mdr1a) is an ATP-binding cassette (ABC) trans
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: PglB (Campylobacter lari Oligosaccharyltransferase)
+title: "PglB (Campylobacter lari Oligosaccharyltransferase)"
 created: 2026-06-08
 updated: 2026-06-10
 type: protein
@@ -23,7 +23,7 @@ PglB is a single-subunit oligosaccharyltransferase (OST) from the Gram-negative 
 |---|---|---|---|---|---|
 | doi/10.1038##nature10151 | 3RCE | 3.4 | P212121 | Full-length PglB from C. lari with C-terminal His tag | Acceptor peptide DQNATF |
 | doi/10.1038##nsmb.3491 | 5OGL | 2.7 | P212121 | Sequence-optimized PglB variant from C. lari with mutations K2E, C17A, C30A, A108T, C360L, N535Q, Q536K, K549P, D550N, F553I, N556P, A600P, A602D, T606K, T607Q, V610I, M611T, I619S, F622Y, A624S, V627I, A630N, F663Y, F670Y; cysteineless, removed glycosylation sites | Acceptor peptide DQNATF and synthetic LLO analog (omega ZZZ)-PPC-GlcNAc |
-| doi/10.1038##s41598-018-34534-0 |  | 3.4 | P212121 | Cysteineless PglB variant from C. lari (sequence optimized, same construct as 5OGL) | Reactive LLO analog (nerylneryl-PP-GlcNAc) and inhibitory Dab-containing peptide Ac-DQ(Dab)ATF(p-NO2)-NH2 |
+| doi/10.1038##s41598-018-34534-0 | 6GXC | 3.4 | P212121 | Cysteineless PglB variant from C. lari (sequence optimized, same construct as 5OGL) | Reactive LLO analog (nerylneryl-PP-GlcNAc) and inhibitory Dab-containing peptide Ac-DQ(Dab)ATF(p-NO2)-NH2 |
 
 ## Expression and Purification
 
@@ -33,7 +33,7 @@ PglB is a single-subunit oligosaccharyltransferase (OST) from the Gram-negative 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -118,6 +118,6 @@ The Mn2+ ion coordinates the glycosidic oxygen of LLO rather than the negatively
 - [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) — 250 mM NaCl in resuspension buffer, 100 mM in purification buffers
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — 10% glycerol in solubilization buffer, 3% in purification buffers
 - [Magnesium Chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — MgCl2 mentioned in transport assay buffers
-- [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/protein-tags/nickel-nta/) — Used for His-tag affinity purification of PglB
+- [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) — Used for His-tag affinity purification of PglB
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Superdex 200 SEC used for final purification before crystallization
 - [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) — Buffer component in purification or crystallization

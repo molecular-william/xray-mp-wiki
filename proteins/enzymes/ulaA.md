@@ -1,5 +1,5 @@
 ---
-title: UlaA Vitamin C Transporter (E. coli)
+title: "UlaA Vitamin C Transporter (E. coli)"
 created: 2026-06-09
 updated: 2026-06-09
 type: protein
@@ -34,7 +34,7 @@ UlaA is the membrane-embedded transporter component of the phosphoenolpyruvate-d
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

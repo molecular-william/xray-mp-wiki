@@ -1,5 +1,5 @@
 ---
-title: V1-ATPase from Thermus thermophilus
+title: "V1-ATPase from Thermus thermophilus"
 created: 2026-05-26
 updated: 2026-06-02
 type: protein
@@ -33,7 +33,7 @@ V-type ATPase (V-ATPase) is a rotary ATPase complex that mediates energy convers
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

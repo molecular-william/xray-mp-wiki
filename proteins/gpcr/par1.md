@@ -1,5 +1,5 @@
 ---
-title: Human Protease-Activated Receptor 1 (PAR1)
+title: "Human Protease-Activated Receptor 1 (PAR1)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein

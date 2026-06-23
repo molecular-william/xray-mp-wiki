@@ -1,5 +1,5 @@
 ---
-title: ZneA Zn(II)/Proton Antiporter from Cupriavidus metallidurans
+title: "ZneA Zn(II)/Proton Antiporter from Cupriavidus metallidurans"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein

@@ -1,5 +1,5 @@
 ---
-title: Turkey Beta1-Adrenergic Receptor Thermostabilized Mutant M23 with Cyanopindolol (2VT4)
+title: "Turkey Beta1-Adrenergic Receptor Thermostabilized Mutant M23 with Cyanopindolol (2VT4)"
 created: 2026-05-29
 updated: 2026-05-29
 type: protein
@@ -31,7 +31,7 @@ The turkey beta1-adrenergic receptor (beta1AR) thermostabilized mutant M23 was c
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ The turkey beta1-adrenergic receptor (beta1AR) thermostabilized mutant M23 was c
 |---|---|
 | Method | Hanging drop vapour diffusion |
 | Protein sample | Purified beta1AR-M23 at 5.5-6.0 mg/ml in 10 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.7, 50 mM NaCl, 0.1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/), 0.35% [OTG](/xray-mp-wiki/reagents/detergents/octylthioglucoside/), 0.5 mM [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) |
-| Reservoir | 0.1 M N-(2-acetamido)iminodiacetic acid ([ADA](/xray-mp-wiki/reagents/buffers/ada/)):NaOH pH 6.9-7.3, 29-32% [PEG 600](/xray-mp-wiki/reagents/additives/peg-600/) |
+| Reservoir | 0.1 M N-(2-acetamido)iminodiacetic acid ([ADA](/xray-mp-wiki/reagents/buffers/aces/)):NaOH pH 6.9-7.3, 29-32% [PEG 600](/xray-mp-wiki/reagents/additives/peg-600/) |
 | Temperature | 18 C |
 | Growth time | Crystals grown by vapour diffusion with hanging drops |
 | Cryoprotection | [PEG 600](/xray-mp-wiki/reagents/additives/peg-600/) concentration increased to 55-70% in the drop |

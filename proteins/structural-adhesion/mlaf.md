@@ -1,5 +1,5 @@
 ---
-title: E. coli MlaF ABC ATPase
+title: "E. coli MlaF ABC ATPase"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -35,7 +35,7 @@ MlaF is the cytoplasmic ABC ATPase (nucleotide binding domain, NBD) component of
 - **Expression system**: E. coli Rosetta 2 (DE3)
 - **Tag info**: His6-TEV tag on [MLAB](/xray-mp-wiki/proteins/structural-adhesion/mlab/) (for MlaFB complex), His-TEV tag on [E. coli MlaD MCE Protein](/xray-mp-wiki/proteins/structural-adhesion/mlaD/) (for MlaFEDB complex)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

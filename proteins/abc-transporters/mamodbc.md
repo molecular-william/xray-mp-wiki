@@ -1,5 +1,5 @@
 ---
-title: Methanosarcina acetivorans ModBC Molybdate/Tungstate ABC Transporter (MaModBC)
+title: "Methanosarcina acetivorans ModBC Molybdate/Tungstate ABC Transporter (MaModBC)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,8 +31,8 @@ intracellular substrate accumulation downregulates further uptake.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.1156213 | not specified | 3.0 | not specified | Full-length MaModBC with bound [Tungstate (WO4 2-)](/xray-mp-wiki/reagents/ligands/tungstate/) | [Tungstate (WO4 2-)](/xray-mp-wiki/reagents/ligands/tungstate/) (WO4^2-) |
-| doi/10.1126##science.1156213 | not specified | 3.5 | not specified | Full-length MaModBC with bound [Tungstate (WO4 2-)](/xray-mp-wiki/reagents/ligands/tungstate/) | [Tungstate (WO4 2-)](/xray-mp-wiki/reagents/ligands/tungstate/) (WO4^2-) |
+| doi/10.1126##science.1156213 | 3D31 | 3.0 | not specified | Full-length MaModBC with bound [Tungstate (WO4 2-)](/xray-mp-wiki/reagents/ligands/tungstate/) | [Tungstate (WO4 2-)](/xray-mp-wiki/reagents/ligands/tungstate/) (WO4^2-) |
+| doi/10.1126##science.1156213 | 3D31 | 3.5 | not specified | Full-length MaModBC with bound [Tungstate (WO4 2-)](/xray-mp-wiki/reagents/ligands/tungstate/) | [Tungstate (WO4 2-)](/xray-mp-wiki/reagents/ligands/tungstate/) (WO4^2-) |
 
 ## Expression and Purification
 
@@ -44,7 +44,7 @@ intracellular substrate accumulation downregulates further uptake.
 - **Expression system**: E. coli
 - **Expression construct**: Full-length MaModBC
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

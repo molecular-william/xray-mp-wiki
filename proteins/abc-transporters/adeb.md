@@ -1,5 +1,5 @@
 ---
-title: AdeB Multidrug Efflux Transporter
+title: "AdeB Multidrug Efflux Transporter"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -14,14 +14,14 @@ verified: false
 
 ## Overview
 
-AdeB is a multidrug efflux transporter from the Gram-negative pathogen Acinetobacter baumannii, belonging to the Resistance-Nodulation-Division (RND) superfamily. It forms the inner membrane pump component of the AdeABC tripartite efflux complex, together with the periplasmic adaptor AdeA and the outer membrane channel AdeC. AdeB functions as a homotrimer, with each protomer cycling through different conformational states. Single-particle cryo-electron microscopy revealed the AdeB trimer predominantly adopts a symmetric OOO resting state (3.54-3.84 A) with all protomers in a conformation devoid of transport channels or antibiotic binding sites. A second conformation, L*OO (3.84 A), was observed in approximately 10% of protomers, where three transport channels (CH1-CH3) lead to the closed deep binding pocket (DBP). The L* conformation represents a novel state not described for the homologous E. coli [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) transporter. Mutagenesis studies comparing AdeB and [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) substrate binding in the DBP using co-structures with doxycycline (2.1 A), fusidic acid (2.3 A), and levofloxacin (2.7 A) reveal distinct drug binding mechanisms between the two homologous RND pumps.
+AdeB is a multidrug efflux transporter from the Gram-negative pathogen Acinetobacter baumannii, belonging to the Resistance-Nodulation-Division (RND) superfamily. It forms the inner membrane pump component of the AdeABC tripartite efflux complex, together with the periplasmic adaptor AdeA and the outer membrane channel AdeC. AdeB functions as a homotrimer, with each protomer cycling through different conformational states. Single-particle cryo-electron microscopy revealed the AdeB trimer predominantly adopts a symmetric OOO resting state (3.54-3.84 A) with all protomers in a conformation devoid of transport channels or antibiotic binding sites. A second conformation, L*OO (3.84 A), was observed in approximately 10% of protomers, where three transport channels (CH1-CH3) lead to the closed deep binding pocket (DBP). The L* conformation represents a novel state not described for the homologous E. coli [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) transporter. Mutagenesis studies comparing AdeB and [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) substrate binding in the DBP using co-structures with doxycycline (2.1 A), fusidic acid (2.3 A), and levofloxacin (2.7 A) reveal distinct drug binding mechanisms between the two homologous RND pumps.
 
 ## Structure Determination
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1038##s41467-021-27146-2 | 7B8Q | 3.84 | -- | AdeB from A. baumannii, full-length, in L*OO conformation | -- |
-| doi/10.1038##s41467-021-27146-2 | -- | 3.54 | -- | AdeB from A. baumannii, full-length, in OOO conformation (C3-symmetric) | -- |
+| doi/10.1038##s41467-021-27146-2 | 7B8R | 3.54 | -- | AdeB from A. baumannii, full-length, in OOO conformation (C3-symmetric) | -- |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ AdeB is a multidrug efflux transporter from the Gram-negative pathogen Acinetoba
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -61,15 +61,15 @@ AdeB is a multidrug efflux transporter from the Gram-negative pathogen Acinetoba
 
 ### OOO resting state predominates in AdeB
 
-The AdeB trimer adopts predominantly a symmetric OOO conformation (all protomers in the O/extrusion state), in contrast to the asymmetric LTO states of [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/). This conformation lacks drug entry channels and binding sites, suggesting tight regulation of AdeB activity. The high prevalence of the OOO state is not an artifact, as similar symmetric conformations have been observed in C. jejuni [Campylobacter jejuni CmeB Multidrug Efflux Pump](/xray-mp-wiki/proteins/abc-transporters/cmeb/) and another AdeB [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) study.
+The AdeB trimer adopts predominantly a symmetric OOO conformation (all protomers in the O/extrusion state), in contrast to the asymmetric LTO states of [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/). This conformation lacks drug entry channels and binding sites, suggesting tight regulation of AdeB activity. The high prevalence of the OOO state is not an artifact, as similar symmetric conformations have been observed in C. jejuni [Campylobacter jejuni CmeB Multidrug Efflux Pump](/xray-mp-wiki/proteins/abc-transporters/cmeb/) and another AdeB [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) study.
 
 ### L*OO - a novel pre-binding conformation
 
-Approximately 10% of AdeB protomers adopt the L* conformation, a previously undiscovered state. L* reveals three entry tunnels (CH1-CH3) leading to the closed DBP, analogous to [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) channels. The L* protomer most closely resembles the [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) T conformation (RMSD 0.68 A over C-alpha), but PN2 and PC1 subdomains differ significantly from both L and T states. The L* conformation may be the first state in the AdeB transport cycle, allowing initial substrate entry in the absence of drugs.
+Approximately 10% of AdeB protomers adopt the L* conformation, a previously undiscovered state. L* reveals three entry tunnels (CH1-CH3) leading to the closed DBP, analogous to [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) channels. The L* protomer most closely resembles the [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) T conformation (RMSD 0.68 A over C-alpha), but PN2 and PC1 subdomains differ significantly from both L and T states. The L* conformation may be the first state in the AdeB transport cycle, allowing initial substrate entry in the absence of drugs.
 
 ### Different drug binding mechanisms between AdeB and AcrB
 
-Mutagenesis of 20 AdeB DBP variants and comparison with [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) reveals distinct substrate preferences. AdeB confers higher resistance to polyaromatic compounds, while [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) shows higher resistance to non-polyaromatic antibiotics. For AdeB, drug binding may proceed via induced fit (drug binds to AP first, inducing DBP opening), whereas [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) appears to use conformational selection. Removal of bulky Phe/Tyr residues in the AdeB DBP generally widens the binding pocket, affecting substrate specificity differently than equivalent substitutions in [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/).
+Mutagenesis of 20 AdeB DBP variants and comparison with [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) reveals distinct substrate preferences. AdeB confers higher resistance to polyaromatic compounds, while [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) shows higher resistance to non-polyaromatic antibiotics. For AdeB, drug binding may proceed via induced fit (drug binds to AP first, inducing DBP opening), whereas [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) appears to use conformational selection. Removal of bulky Phe/Tyr residues in the AdeB DBP generally widens the binding pocket, affecting substrate specificity differently than equivalent substitutions in [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/).
 
 
 ## Cross-References
@@ -82,5 +82,5 @@ Mutagenesis of 20 AdeB DBP variants and comparison with [AcrB multidrug efflux p
 - [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Method used in the study
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein mentioned in the study
 - [MexB (Pseudomonas aeruginosa multidrug exporter)](/xray-mp-wiki/proteins/abc-transporters/mexB/) — Related protein mentioned in the study
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Related protein mentioned in the study
+- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Related protein mentioned in the study
 - [Campylobacter jejuni CmeB Multidrug Efflux Pump](/xray-mp-wiki/proteins/abc-transporters/cmeb/) — Related protein mentioned in the study

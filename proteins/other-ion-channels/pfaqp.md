@@ -1,5 +1,5 @@
 ---
-title: Aquaglyceroporin PfAQP from Plasmodium falciparum
+title: "Aquaglyceroporin PfAQP from Plasmodium falciparum"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -20,7 +20,7 @@ PfAQP is the sole aquaporin family member in the malarial parasite Plasmodium fa
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nsmb.1431 | Not specified in publication | 2.05 | I422 | Synthetic gene optimized for E. coli codon usage; full-length PfAQP | Glycerol and water molecules in the conduction channel |
+| doi/10.1038##nsmb.1431 | 3C02 | 2.05 | I422 | Synthetic gene optimized for E. coli codon usage; full-length PfAQP | Glycerol and water molecules in the conduction channel |
 
 ## Expression and Purification
 
@@ -30,7 +30,7 @@ PfAQP is the sole aquaporin family member in the malarial parasite Plasmodium fa
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

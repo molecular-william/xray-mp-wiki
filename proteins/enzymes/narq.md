@@ -1,5 +1,5 @@
 ---
-title: NarQ (E. coli Nitrate/Nitrite Sensor Histidine Kinase)
+title: "NarQ (E. coli Nitrate/Nitrite Sensor Histidine Kinase)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein

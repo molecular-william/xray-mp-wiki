@@ -1,12 +1,12 @@
 ---
-title: GltPh (Glutamate Transporter Homologue from Pyrococcus horikoshii)
+title: "GltPh (Glutamate Transporter Homologue from Pyrococcus horikoshii)"
 created: 2026-06-02
 updated: 2026-06-16
 type: protein
 category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
-sources: [doi/10.1038##nature03018, doi/10.1038##nature05455, doi/10.1038##nature08616, doi/10.1038##nature14158, doi/10.1038##ncomms13420, doi/10.1038##nsmb.2233, doi/10.1038##nsmb.2548, doi/10.15252##embj.2020105415, doi/10.1038##s41586-021-03240-9, doi/10.7554##eLife.02283]
+sources: [doi/10.1038##nature03018, doi/10.1038##nature05455, doi/10.1038##nature08616, doi/10.1038##nature14158, doi/10.1038##ncomms13420, doi/10.1038##nsmb.2233, doi/10.1038##nsmb.2548, doi/10.1038##s41586-021-03240-9, doi/10.1126##sciadv.aba9854, doi/10.15252##embj.2020105415, doi/10.7554##eLife.02283]
 verified: false
 ---
 
@@ -22,15 +22,9 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1038##nature03018 | 2NWX | 3.5 | P3121 | His8-tagged GltPh H7 (C-terminal truncation) | L-aspartate (putative) |
-| doi/10.1038##nature03018 | 2NWL | 3.8 | P3121 | Full-length His8-tagged GltPh | L-aspartate (putative) |
-| doi/10.1038##nature05455 | not specified in paper | not specified in paper | not specified in paper | His8-tagged wild-type GltPh | TBOA (DL-threo-beta-benzyloxyaspartate) |
-| doi/10.1038##nature05455 | not specified in paper | not specified in paper | not specified in paper | His8-tagged wild-type GltPh | L-aspartate |
-| doi/10.1038##nature05455 | not specified in paper | not specified in paper | not specified in paper | His8-tagged wild-type GltPh | none (apo state) |
-| doi/10.1038##nature05455 | not specified in paper | not specified in paper | not specified in paper | GltPh D405N mutant, His8-tagged | L-aspartate |
-| doi/10.1038##nsmb.2233 | not specified in paper | not specified in paper | not specified in paper | GltPh V198C A380C_Hg cross-linked mutant (Hg-mediated intramolecular cross-link) | L-aspartate, Na+ |
-| doi/10.1038##nsmb.2233 | not specified in paper | not specified in paper | not specified in paper | GltPh Y195C A364C_Hg cross-linked mutant | L-aspartate, Na+ |
-| doi/10.1038##nsmb.2233 | not specified in paper | not specified in paper | not specified in paper | GltPh V216C M385C_Hg cross-linked mutant | L-aspartate, Na+ |
-| doi/10.1038##nature08616 | not specified in paper | 3.5 | C2221 | GltPh K55C/A364C double cysteine mutant, Hg-cross-linked, inward-facing state (IFS) | L-aspartate, Na+ |
+| doi/10.1038##nature05455 | 2NWL | not specified in paper | not specified in paper | GltPh D405N mutant, His8-tagged | L-aspartate |
+| doi/10.1038##nsmb.2233 | 3V8F | not specified in paper | not specified in paper | GltPh V216C M385C_Hg cross-linked mutant | L-aspartate, Na+ |
+| doi/10.1038##nature08616 | 3KBC | 3.5 | C2221 | GltPh K55C/A364C double cysteine mutant, Hg-cross-linked, inward-facing state (IFS) | L-aspartate, Na+ |
 | doi/10.15252##embj.2020105415 | 6V8G | 3.38 | P3121 | GltPh Y204L/A345V/V366A triple mutant, His8-tagged |  |
 | doi/10.1038##s41586-021-03240-9 | 6X01 | 3.65 | P6₁ | CLGltPh V216C/A391C double-cysteine mutant (cysteine-less background), His6-tagged, thrombin-cleaved, Hg-crosslinked |  |
 | doi/10.1038##s41586-021-03240-9 | 6WZB | 3.45 | C222₁ | CLGltPh L152C/G351C double-cysteine mutant (cysteine-less background), His6-tagged, thrombin-cleaved, Hg-crosslinked |  |
@@ -44,6 +38,8 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 | doi/10.7554##eLife.02283 | 4P1A | 4.15 | C2221 | GltPh-K55C/A364C (GltPh_in), Hg-crosslinked | Tl+ (Na1 and Na2 sites occupied, bound conformation) |
 | doi/10.7554##eLife.02283 | 4P3J | 3.5 | C2221 | GltPh-K55C/A364C (GltPh_in), Hg-crosslinked, alkali-free | none (alkali-free) |
 | doi/10.7554##eLife.02283 | 4P6H | 5.0 | P21 | GltPh-K55C/A364C (GltPh_in), Hg-crosslinked | Tl+ (Na1 and Na2 sites occupied, bound conformation) |
+| doi/10.1126##sciadv.aba9854 | 7AHK | 2.5 | P321 | Wild-type GltPh | Na+ (Na1 and Na3 sites occupied), phosphate (cocrystallized) |
+| doi/10.1126##sciadv.aba9854 | 2NWW |  |  | Wild-type GltPh | [TBOA](/xray-mp-wiki/reagents/ligands/tboa/), Na+ (Na1 site) |
 
 ## Expression and Purification
 
@@ -52,25 +48,23 @@ GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature05455*
+#### Source: doi/10.1038##nature05455
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | [Ni-NTA Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/)-tag affinity purification using [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon) or [Ni-NTA Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) resin with [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) gradient elution | [Ni-NTA Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) or [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon) | Not specified (standard [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) purification) + 1 mM [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) ([n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/)) | Purified as described in Yernool et al. (2004) |
 | [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) / dialysis | Concentrated and dialysed against HEPES/Tris buffer | [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) column | 200 mM [Choline](/xray-mp-wiki/reagents/ligands/choline) chloride, 1 mM [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/), 1 mM [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/), HEPES/Tris pH 7.4 + 1 mM [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) | Final buffer for assays and crystallization |
 
-### Purification Workflow
-
-*Source: doi/10.1038##s41586-021-03240-9*
+#### Source: doi/10.1038##s41586-021-03240-9
 
 - **Expression system**: Escherichia coli Top10
 - **Expression construct**: CLGltPh (cysteine-less), His6-tagged at C-terminus, thrombin-cleavable
 - **Tag info**: His6-tag, removed by thrombin digestion (10 U per mg protein)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -252,3 +246,7 @@ Two novel cation binding sites (Na2' and Ct) were identified in the apo-like con
 - [Potassium Chloride (KCl)](/xray-mp-wiki/reagents/additives/potassium-chloride-kcl/) — Potassium used in transport assays; K+ does not support aspartate binding to GltPh
 - [H276,395-GltPh (Humanized GltPh Mutant, R276S/M395R)](/xray-mp-wiki/proteins/slc-transporters/h276395-glt-ph/) — Humanized mutant variant with 1000-fold decreased substrate affinity and fourfold faster uptake rate; characterized in transition state study
 - [Elevator Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/elevator-mechanism/) — GltPh transport domain undergoes elevator-like motion across the membrane bilayer
+- [Human Excitatory Amino Acid Transporter 1 (EAAT1)](/xray-mp-wiki/proteins/slc-transporters/eaat1/) — GltPh is the prokaryotic homolog of human EAATs and shares the same elevator transport mechanism
+- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Used as the LCP matrix for GltPh crystallization
+- [Tris](/xray-mp-wiki/reagents/buffers/tris/) — Referenced in gltph text
+- [TBOA](/xray-mp-wiki/reagents/ligands/tboa/) — Referenced in gltph text

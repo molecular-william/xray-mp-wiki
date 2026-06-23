@@ -1,5 +1,5 @@
 ---
-title: Multidrug Transporter MdfA (E26T/D34M/A150E) from Escherichia coli
+title: "Multidrug Transporter MdfA (E26T/D34M/A150E) from Escherichia coli"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-[MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA/) is a prototypical H+-dependent multidrug transporter from Escherichia coli belonging to the Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/)), specifically the drug/H+ antiporter-1 (DHA1) subfamily. It exports physicochemically diverse substrates by utilizing the H+ electrochemical gradient. This work describes the X-ray structures of a redesigned [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA/) triple mutant (E26T/D34M/A150E) wherein the substrate-binding and protonation sites were rearranged while retaining multidrug transport function. Structures bound to [Chloramphenicol](/xray-mp-wiki/reagents/antibiotics/chloramphenicol/) (Cm), [DXC](/xray-mp-wiki/reagents/additives/deoxycholate/) ([DXC](/xray-mp-wiki/reagents/additives/deoxycholate/)), and lauryldimethylamine N-oxide ([LDAO](/xray-mp-wiki/reagents/detergents/ldao/)) reveal intermediate states during antibiotic recognition and suggest structural changes accompanying substrate-evoked deprotonation, highlighting the remarkable mechanistic flexibility in drug/H+ coupling.
+[MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA/) is a prototypical H+-dependent multidrug transporter from Escherichia coli belonging to the Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/)), specifically the drug/H+ antiporter-1 (DHA1) subfamily. It exports physicochemically diverse substrates by utilizing the H+ electrochemical gradient. This work describes the X-ray structures of a redesigned [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA/) triple mutant (E26T/D34M/A150E) wherein the substrate-binding and protonation sites were rearranged while retaining multidrug transport function. Structures bound to [Chloramphenicol](/xray-mp-wiki/reagents/antibiotics/chloramphenicol/) (Cm), [DXC](/xray-mp-wiki/reagents/additives/deoxycholate/) ([DXC](/xray-mp-wiki/reagents/additives/deoxycholate/)), and lauryldimethylamine N-oxide ([LDAO](/xray-mp-wiki/reagents/detergents/ldao/)) reveal intermediate states during antibiotic recognition and suggest structural changes accompanying substrate-evoked deprotonation, highlighting the remarkable mechanistic flexibility in drug/H+ coupling.
 
 
 ## Structure Determination
@@ -38,7 +38,7 @@ verified: false
 - **Expression construct**: E26T/D34M/A150E with C-terminal deca-histidine tag
 - **Tag info**: Deca-histidine tag (C-terminal, removed by thrombin)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ verified: false
 
 ### Polyspecific multidrug recognition via a large binding pocket
 
-E26T/D34M/A150E uses a large, voluminous substrate-binding pocket (~3000 Å³) to interact with physicochemically disparate drugs. Substrates such as Cm, [DXC](/xray-mp-wiki/reagents/additives/deoxycholate/), and [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) bind in partially overlapping sites using only a small set (typically ≤3) of H-bonding interactions, contrasting with the extensive H-bonding networks of substrate-specific [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) transporters like LacY. Most interactions are van der Waals and charge-charge in nature, enabling substantial flexibility in substrate recognition.
+E26T/D34M/A150E uses a large, voluminous substrate-binding pocket (~3000 Å³) to interact with physicochemically disparate drugs. Substrates such as Cm, [DXC](/xray-mp-wiki/reagents/additives/deoxycholate/), and [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) bind in partially overlapping sites using only a small set (typically ≤3) of H-bonding interactions, contrasting with the extensive H-bonding networks of substrate-specific [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) transporters like LacY. Most interactions are van der Waals and charge-charge in nature, enabling substantial flexibility in substrate recognition.
 
 ### Direct-competition-based drug/H+ coupling mechanism
 
@@ -88,10 +88,10 @@ Comparison of Cm-bound structures at pH 8.0 (deprotonated) and pH 5.0 (protonate
 - [DDM (n-Dodecyl-β-D-Maltopyranoside)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for membrane extraction and initial purification
 - [LDAO (Lauryldimethylamine N-oxide)](/xray-mp-wiki/reagents/detergents/ldao/) — Co-detergent in SEC buffer and co-crystallization ligand/substrate
 - [Deoxycholate](/xray-mp-wiki/reagents/additives/deoxycholate/) — Co-detergent/additive in SEC buffer and co-crystallization substrate
-- [Chloramphenicol](/xray-mp-wiki/reagents/ligands/chloramphenicol/) — Primary substrate used for co-crystallization at pH 8.0 and pH 5.0
+- [Chloramphenicol](/xray-mp-wiki/reagents/antibiotics/chloramphenicol/) — Primary substrate used for co-crystallization at pH 8.0 and pH 5.0
 - [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/) — Used in protein purification and crystallization buffer at pH 8.0
 - [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — Used in membrane extraction and Ni-NTA purification at pH 7.5
 - [MES Buffer](/xray-mp-wiki/reagents/buffers/mes/) — Used in crystallization reservoir at pH 6.0
 - [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Crystallization method used for all MdfA structures
-- [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — Related biological concept
+- [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

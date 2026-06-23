@@ -1,5 +1,5 @@
 ---
-title: Human GABA_B Receptor
+title: "Human GABA_B Receptor"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -33,7 +33,7 @@ The human GABA_B receptor (GABA_B R) is a class C G-protein-coupled receptor tha
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

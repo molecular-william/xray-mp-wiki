@@ -1,5 +1,5 @@
 ---
-title: Acetylcholine-Binding Protein (AChBP)
+title: "Acetylcholine-Binding Protein (AChBP)"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -49,4 +49,4 @@ The AChBP structure with bound [Carbamylcholine](/xray-mp-wiki/reagents/ligands/
 - [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/) — Reagent used in the study
 - [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — Detergent used in purification
 - [Carbamylcholine](/xray-mp-wiki/reagents/ligands/carbamylcholine/) — Reagent used in the study
-- [Choline](/xray-mp-wiki/reagents/substrates/choline/) — Reagent used in the study
+- [Choline](/xray-mp-wiki/reagents/ligands/choline/) — Reagent used in the study

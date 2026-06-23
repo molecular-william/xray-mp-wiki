@@ -1,5 +1,5 @@
 ---
-title: Human TRAAK Potassium Channel
+title: "Human TRAAK Potassium Channel"
 created: 2026-05-28
 updated: 2026-06-08
 type: protein
@@ -40,12 +40,12 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature14013*
+#### Source: doi/10.1038##nature14013
 
 - **Expression system**: Pichia pastoris
 - **Expression construct**: TRAAK residues 1-290, N104Q/N108Q, C-terminal PreScission-cleavable EGFP-10xHis tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -56,14 +56,12 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 | Size-exclusion chromatography | SEC | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) (GE Healthcare) | 20 mM Tris pH 8.0, 150 mM KCl, 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/) + 4 mM DM | Concentrated 50 kDa MWCO before SEC |
 | Fab complex formation | Complex formation | — | SEC buffer (20 mM Tris pH 8.0, 150 mM KCl, 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/)) + 4 mM DM | Purified TRAAK (~10 mg/ml) incubated with purified 13E9 Fab (~30 mg/ml) at 1:2.5 molar ratio for 10 min at 4 C; complex separated from excess Fab on [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) |
 
-### Purification Workflow
-
-*Source: doi/10.1016##j.neuron.2021.07.009*
+#### Source: doi/10.1016##j.neuron.2021.07.009
 
 - **Expression system**: Pichia pastoris
 - **Expression construct**: Human TRAAK with N-terminal extension, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), His-tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -74,14 +72,12 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 | Affinity purification | Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA | 1% DM | His-tag purification with [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) elution at 250 mM |
 | Size-exclusion chromatography | SEC | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | 20 mM Tris (pH 8.8), 150 mM NaCl + 0.03% DM |  |
 
-### Purification Workflow
-
-*Source: doi/10.7554##eLife.50403*
+#### Source: doi/10.7554##eLife.50403
 
 - **Expression system**: Pichia pastoris SMD1163
 - **Expression construct**: Human TRAAK 1-26 signal - mouse TRAAK 1-275 (N81Q/N84Q) - PreScission-cleavable EGFP-10xHis
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -92,14 +88,12 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 | Tag cleavage | [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) | — | 50 mM Tris pH 8.0, 150 mM KCl, 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/) + 6 mM DM | ~1:50 (wt:wt) [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/), overnight at 4 C |
 | Size-exclusion chromatography | SEC | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) (GE Healthcare) | 20 mM Tris pH 8.0, 150 mM KCl, 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/) + 1 mM DM | Concentrated 50 kDa MWCO. Peak fractions pooled for subsequent procedures |
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.1218950110*
+#### Source: doi/10.1073##pnas.1218950110
 
 - **Expression system**: Pichia pastoris
 - **Expression construct**: Human TRAAK residues 1-300 (C-terminally truncated by 119 aa), N104Q/N108Q, C-terminal PreScission-cleavable EGFP-10xHis fusion (same construct as original TRAAK structure)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -109,14 +103,12 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 | Tag cleavage | [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) | — | 50 mM Tris (pH 8.0), 150 mM KCl, 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/) + 6 mM DM | ~1:50 (wt:wt) [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/), overnight at 4 C |
 | Size-exclusion chromatography | SEC | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) (GE Healthcare) | 20 mM Tris (pH 8.0), 150 mM KCl, 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/) + 4 mM DM | Concentrated using 50-kDa MWCO |
 
-### Purification Workflow
-
-*Source: doi/10.1126##science.1213808*
+#### Source: doi/10.1126##science.1213808
 
 - **Expression system**: Pichia pastoris
 - **Expression construct**: Human TRAAK residues 1-300 (C-terminally truncated by 119 aa), N104Q/N108Q, no fusion tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

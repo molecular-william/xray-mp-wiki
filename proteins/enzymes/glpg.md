@@ -1,5 +1,5 @@
 ---
-title: GlpG (Escherichia coli Rhomboid Protease)
+title: "GlpG (Escherichia coli Rhomboid Protease)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -20,9 +20,9 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature05255 |  | 2.1 |  | Core domain of GlpG (E. coli rhomboid protease) |  |
-| doi/10.1073##pnas.0609773104 |  | 2.3 | P2(1) | Trypsin-treated rhomboid core (residues 93-276) of E. coli GlpG with C-terminal His6 tag |  |
-| doi/10.1073##pnas.0611080104 |  | 2.5 | R32 | Core domain of GlpG (E. coli rhomboid protease), residues 87-276 | DCI (3,4-dichloroisocoumarin, serine protease inhibitor, 2.5 mM soak) |
+| doi/10.1038##nature05255 | 2IC8 | 2.1 |  | Core domain of GlpG (E. coli rhomboid protease) |  |
+| doi/10.1073##pnas.0609773104 | 2IRV | 2.3 | P2(1) | Trypsin-treated rhomboid core (residues 93-276) of E. coli GlpG with C-terminal His6 tag |  |
+| doi/10.1073##pnas.0611080104 | 2O7L | 2.5 | R32 | Core domain of GlpG (E. coli rhomboid protease), residues 87-276 | DCI (3,4-dichloroisocoumarin, serine protease inhibitor, 2.5 mM soak) |
 | doi/10.1038##nsmb1179 | 2NRF | 2.6 | P2(1) | Transmembrane core domain (residues 87-276) of GlpG from E. coli, with N-terminal His6 tag removed by thrombin |  |
 | doi/10.1016##j.jmb.2011.01.029 | 2XTV | 1.7 | P2(1)2(1)2(1) | N-terminally truncated GlpG S201T active-site mutant from E. coli, with C-terminal His-tag | None (S201T inactive mutant) |
 | doi/10.1016##j.jmb.2011.01.029 | 2XTU | 1.85 | R32 | N-terminally truncated GlpG S201T active-site mutant from E. coli, with C-terminal His-tag | None (S201T inactive mutant) |
@@ -43,7 +43,7 @@ GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

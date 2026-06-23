@@ -1,5 +1,5 @@
 ---
-title: MexB Multidrug Efflux Pump
+title: "MexB Multidrug Efflux Pump"
 created: 2026-06-10
 updated: 2026-06-10
 type: protein
@@ -46,7 +46,7 @@ hydrophobic pit.
 - **Expression system**: E. coli
 - **Tag info**: His tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ C7NG (CYMAL-7 neopentyl glycol, MW 1,028), an [LMNG](/xray-mp-wiki/reagents/dete
 - [AcrB Multidrug Efflux Transporter](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Homologous RND efflux pump from E. coli; MexB shares the same overall architecture and mechanism
 - [LMNG (Lauryl Maltose Neopentyl Glycol)](/xray-mp-wiki/reagents/detergents/lmng/) — High-molecular-mass detergent that binds in the MexB distal pocket and competitively inhibits drug efflux
 - [DDM (N-Dodecyl-beta-D-maltoside)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for initial MexB structures; replaced by LMNG in this study
-- [ABI-PP (efflux pump inhibitor)](/xray-mp-wiki/reagents/additives/abi-pp/) — ABI-PP binds the same hydrophobic pit in the DBP; LMNG alkyl chain inserts into the ABI-PP binding site
+- [ABI-PP (efflux pump inhibitor)](/xray-mp-wiki/reagents/ligands/abi-pp/) — ABI-PP binds the same hydrophobic pit in the DBP; LMNG alkyl chain inserts into the ABI-PP binding site
 - [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) — Used at 10 mM pH 7.5 for protein purification and final sample buffer
 - [RND efflux pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) — MexB is a member of the RND transporter superfamily
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

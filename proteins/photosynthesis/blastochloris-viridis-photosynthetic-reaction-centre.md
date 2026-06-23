@@ -1,5 +1,5 @@
 ---
-title: Blastochloris viridis Photosynthetic Reaction Centre (RCvir)
+title: "Blastochloris viridis Photosynthetic Reaction Centre (RCvir)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -34,22 +34,20 @@ The photosynthetic reaction center from Blastochloris viridis (RCvir, formerly R
 
 ### Purification Workflow
 
-*Source: doi/10.1016##j.str.2017.07.002*
+#### Source: doi/10.1016##j.str.2017.07.002
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Cell culture | Native culture | -- | Growth media: yeast extract 0.3 g/L, Na2-succinate 1.0 g/L, NH4-acetate 0.5 g/L, KH2PO4 0.5 g/L, MgSO4.7H2O 0.4 g/L + -- | 1 mL [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) stock transferred to 500 mL growth media |
 | RC purification | As described in Michel (1982) protocol | -- | -- + [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) | Protein purified using standard protocols adapted from Michel (1982) |
 
-### Purification Workflow
-
-*Source: doi/10.1038##ncomms3911*
+#### Source: doi/10.1038##ncomms3911
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -133,7 +131,7 @@ The LCP microcrystal form has a distinct unit cell (a=84.9, b=125.3, c=182.7 A) 
 ## Cross-References
 
 - [Rhodobacter sphaeroides Photosynthetic Reaction Center](/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-center/) — Related RC from R. sphaeroides, space group P3_121 vs. P4_3 2_1 2 for B. viridis
-- [Rhodobacter sphaeroides Reaction Centre with Zinc-Bacteriochlorophyll](/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-centre-zn-bchl/) — Related Zn-BChl variant of RC from R. sphaeroides
+- [Rhodobacter sphaeroides Reaction Centre with Zinc-Bacteriochlorophyll](/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-center/) — Related Zn-BChl variant of RC from R. sphaeroides
 - [Serial Femtosecond Crystallography](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) — Primary crystallographic method used for this study
 - [Microseeding](/xray-mp-wiki/concepts/microseeding/) — Multi-round microseeding strategy used to optimize microcrystals for SFX
 - [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) — Primary cofactor in the reaction center

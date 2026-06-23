@@ -1,5 +1,5 @@
 ---
-title: Blastochloris viridis Photosynthetic Reaction Center (RC_vir)
+title: "Blastochloris viridis Photosynthetic Reaction Center (RC_vir)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -31,7 +31,7 @@ The photosynthetic reaction center from Blastochloris viridis (RC_vir, formerly 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

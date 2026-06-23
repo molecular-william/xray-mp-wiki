@@ -1,5 +1,5 @@
 ---
-title: GluN1b-GluN2B ATD (Amino-Terminal Domain of NMDA Receptor Subunits)
+title: "GluN1b-GluN2B ATD (Amino-Terminal Domain of NMDA Receptor Subunits)"
 created: 2026-05-29
 updated: 2026-06-03
 type: protein
@@ -20,7 +20,7 @@ The isolated amino-terminal domains (ATD) of the GluN1b and GluN2B subunits of t
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1021##acschemneuro.2c00779 | 8G18 | 2.85 | P 21 21 21 | Isolated ATD domains of GluN1b and GluN2B subunits (rhesus macaque), in complex with [Eu93 108](/xray-mp-wiki/reagents/eu93-108/) | [Eu93 108](/xray-mp-wiki/reagents/eu93-108/) |
+| doi/10.1021##acschemneuro.2c00779 | 8G18 | 2.85 | P 21 21 21 | Isolated ATD domains of GluN1b and GluN2B subunits (rhesus macaque), in complex with [Eu93 108](/xray-mp-wiki/reagents/ligands/eu93-108/) | [Eu93 108](/xray-mp-wiki/reagents/ligands/eu93-108/) |
 | doi/10.1038##nature17679 | 5B3J | 2.90 | C2 | Isolated ATD domains of GluN1b (Xenopus laevis) and GluN2B (rat), in complex with Fab17 fragment, apo state (no allosteric inhibitor) | Fab17 |
 
 ## Expression and Purification
@@ -35,7 +35,7 @@ No crystallization described.
 
 ### Apo ATD reveals open conformation of GluN2B ATD bi-lobe
 
-In the absence of allosteric inhibitors, the GluN2B ATD adopts an open-conformation with the R1 and R2 lobes separated by approximately 20 degrees compared to the [Ifenprodil](/xray-mp-wiki/reagents/ifenprodil/)-bound structure. This opening is accompanied by a 15 degree rotation between GluN1b and GluN2B subunits, bringing their lower lobes (R2) significantly closer together. This conformation represents the active state of the NMDA receptor ATD.
+In the absence of allosteric inhibitors, the GluN2B ATD adopts an open-conformation with the R1 and R2 lobes separated by approximately 20 degrees compared to the [Ifenprodil](/xray-mp-wiki/reagents/ligands/ifenprodil/)-bound structure. This opening is accompanied by a 15 degree rotation between GluN1b and GluN2B subunits, bringing their lower lobes (R2) significantly closer together. This conformation represents the active state of the NMDA receptor ATD.
 
 ### Subunit arrangement validated by disulfide cross-linking
 
@@ -47,5 +47,5 @@ The subunit arrangement observed in the apo-GluN1b-GluN2B ATD crystal structure 
 - [EU93-108](/xray-mp-wiki/reagents/ligands/eu93-108/) — Bound ligand; GluN2B-selective NAM solved in this structure
 - [GluN1-GluN2B NMDA Receptor (Xenopus laevis, Full-Length)](/xray-mp-wiki/proteins/other-ion-channels/gluN1-gluN2b-nmda-receptor/) — Full-length receptor structure provides context for isolated ATD domain arrangement
 - [D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/) — Referenced in gluN1b-gluN2b-atd text
-- [Eu93 108](/xray-mp-wiki/reagents/eu93-108/) — Referenced in gluN1b-gluN2b-atd text
-- [Ifenprodil](/xray-mp-wiki/reagents/ifenprodil/) — Referenced in gluN1b-gluN2b-atd text
+- [Eu93 108](/xray-mp-wiki/reagents/ligands/eu93-108/) — Referenced in gluN1b-gluN2b-atd text
+- [Ifenprodil](/xray-mp-wiki/reagents/ligands/ifenprodil/) — Referenced in gluN1b-gluN2b-atd text

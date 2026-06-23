@@ -1,5 +1,5 @@
 ---
-title: MacB ABC Transporter from Aggregatibacter actinomycetemcomitans
+title: "MacB ABC Transporter from Aggregatibacter actinomycetemcomitans"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,8 +21,8 @@ MacB is an ABC transporter from Aggregatibacter actinomycetemcomitans that forms
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1712153114 | Not specified in text | 3.35 | P21 | Full-length AaMacB (ATP-bound) | ATP |
-| doi/10.1073##pnas.1712153114 | Not specified in text | 3.90 | P6522 | Full-length AaMacB (ATP-bound) |  |
+| doi/10.1073##pnas.1712153114 | 5LIL | 3.35 | P21 | Full-length AaMacB (ATP-bound) | ATP |
+| doi/10.1073##pnas.1712153114 | 5LIL | 3.90 | P6522 | Full-length AaMacB (ATP-bound) |  |
 | doi/10.1073##pnas.1712153114 | 5NLI | Not specified | — | MacAB-TolC complex (nucleotide-free) |  |
 
 ## Expression and Purification
@@ -36,7 +36,7 @@ MacB is an ABC transporter from Aggregatibacter actinomycetemcomitans that forms
 - **Expression system**: E. coli C43 (DE3)
 - **Expression construct**: Full-length AaMacB with N-terminal His-tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

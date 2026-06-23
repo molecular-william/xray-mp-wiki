@@ -1,5 +1,5 @@
 ---
-title: GltTk — substrate-free aspartate transporter
+title: "GltTk — substrate-free aspartate transporter"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -49,7 +49,7 @@ The crystal structure of GltTk in the absence of aspartate reveals an
 outward-open conformation. The two helical hairpin domains (HP1 and HP2)
 occlude the central substrate-binding site, protecting it from the
 extracellular and intracellular environments. Comparison with the
-aspartate-bound structure of the homologous [Gltph](/xray-mp-wiki/proteins/slc-transporters/gltph/) (PDB 2NWL) shows that
+aspartate-bound structure of the homologous [Gltph](/xray-mp-wiki/proteins/slc-transporters/glt-ph/) (PDB 2NWL) shows that
 substrate binding induces conformational changes, particularly in the
 HP2 region, which closes over the binding pocket.
 
@@ -78,5 +78,5 @@ hairpin domains (HP1 and HP2).
 
 ## Cross-References
 
-- [Gltph](/xray-mp-wiki/proteins/slc-transporters/gltph/) — Referenced in glttk text
+- [Gltph](/xray-mp-wiki/proteins/slc-transporters/glt-ph/) — Referenced in glttk text
 - [L Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/) — Referenced in glttk text

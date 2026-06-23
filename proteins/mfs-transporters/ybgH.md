@@ -1,5 +1,5 @@
 ---
-title: E. coli YbgH Peptide Transporter
+title: "E. coli YbgH Peptide Transporter"
 created: 2026-05-28
 updated: 2026-06-08
 type: protein
@@ -41,7 +41,7 @@ Induced with 0.5 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg) at 16C for 20 
 - **Expression system**: E. coli C43 (DE3)
 - **Expression construct**: YbgH residues 6-482, [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag) C-terminal
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

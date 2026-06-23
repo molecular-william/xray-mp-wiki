@@ -1,5 +1,5 @@
 ---
-title: OsNIP2;1 (Silicon Transporter Lsi1 from Oryza sativa)
+title: "OsNIP2;1 (Silicon Transporter Lsi1 from Oryza sativa)"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -32,7 +32,7 @@ OsNIP2;1 (Nodulin26-like Intrinsic Protein 2;1) is a silicon transporter from th
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

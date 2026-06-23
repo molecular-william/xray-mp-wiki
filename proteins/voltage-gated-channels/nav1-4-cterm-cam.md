@@ -1,5 +1,5 @@
 ---
-title: Human Naᵥ1.4 C-Terminal Domain in Complex with Calmodulin
+title: "Human Naᵥ1.4 C-Terminal Domain in Complex with Calmodulin"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -32,7 +32,7 @@ Voltage-gated sodium channels Naᵥ1.4 (skeletal muscle) and Naᵥ1.5 (cardiac) 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

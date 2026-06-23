@@ -1,12 +1,12 @@
 ---
-title: CIR Chloride-Pumping Rhodopsin from Nonlabens marinus
+title: "CIR Chloride-Pumping Rhodopsin from Nonlabens marinus"
 created: 2026-06-08
 updated: 2026-06-10
 type: protein
 category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
-sources: [doi/10.1038##NCOMMS12677, doi/10.1073##pnas.2020486118, doi/10.1073##pnas.2117433119, doi/10.1126##sciadv.aay2042, doi/10.1126##science.abj6663]
+sources: [doi/10.1038##NCOMMS12677, doi/10.1038##ncomms12677, doi/10.1073##pnas.2020486118, doi/10.1073##pnas.2117433119, doi/10.1126##sciadv.aay2042, doi/10.1126##science.abj6663]
 verified: false
 ---
 
@@ -45,7 +45,8 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
 | doi/10.1073##pnas.2117433119 | 7VGT | 2.1 | — | NM-R3 resting state (XFEL structure, bromide-bound) | all-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/), bromide ion |
 | doi/10.1073##pnas.2117433119 | 7VGU | 2.1 | — | NM-R3 1 ms after photoactivation (TR-SFX, O1 intermediate) | 13-cis/15-syn [Retinal](/xray-mp-wiki/reagents/ligands/retinal/), bromide ion (released) |
 | doi/10.1073##pnas.2117433119 | 7GVG |  | — | NM-R3 anion-depleted form (P2(1)2(1)2(1) crystal form) | 13-cis/15-syn [Retinal](/xray-mp-wiki/reagents/ligands/retinal/), no halide bound (Asn98 occupies anion site) |
-| doi/10.1126##science.abj6663 |  |  | — | NmHR dark state and time-resolved structures at 10 ps, 1 us, 20 us, 300 us, 12.5 ms, 22.5-45 ms (TR-SFX at SwissFEL and SLS) | all-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/), chloride/bromide ion |
+| doi/10.1126##science.abj6663 | 7O8F |  | — | NmHR dark state and time-resolved structures at 10 ps, 1 us, 20 us, 300 us, 12.5 ms, 22.5-45 ms (TR-SFX at SwissFEL and SLS) | all-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/), chloride/bromide ion |
+| doi/10.1038##NCOMMS12677 | 5G2C | 2.0 | P1 (T102D mutant crystal) | ClR T102D mutant | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (chloride binding prevented) |
 
 ## Expression and Purification
 
@@ -55,22 +56,20 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
 
 ### Purification Workflow
 
-*Source: doi/10.1038##NCOMMS12677*
+#### Source: doi/10.1038##NCOMMS12677
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Cell harvest and lysis | Centrifugation and mechanical disruption | — |  |  |
 | Solubilization and affinity chromatography | Ni-NTA affinity chromatography | — | 20 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 150 mM NaCl + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |  |
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.2020486118*
+#### Source: doi/10.1073##pnas.2020486118
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -79,23 +78,19 @@ gate (Arg95-Asp231 salt bridge) ensuring unidirectional transport.
 | Membrane solubilization | Detergent extraction | — | 50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) HCl pH 7.0, 150 mM NaCl + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.2% CHS | Solubilization for 2 h at 4 C |
 | Affinity purification and SEC | [Talon](/xray-mp-wiki/reagents/additives/talon/) affinity chromatography followed by size-exclusion chromatography | [Talon](/xray-mp-wiki/reagents/additives/talon/) affinity resin; [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Eluate applied to [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) column for final purification |
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.2117433119*
+#### Source: doi/10.1073##pnas.2117433119
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Protein expression and purification | E. coli expression with [Iptg](/xray-mp-wiki/reagents/additives/iptg/) induction, Ni-NTA affinity, SEC | Ni-NTA; [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | NM-R3 purified in [DDM](/xray-mp-wiki/reagents/detergents/ddm/) for LCP crystallization. Crystals grown in 1500 mM NaBr or NaI for halide replacement. |
 
-### Purification Workflow
-
-*Source: doi/10.1126##science.abj6663*
+#### Source: doi/10.1126##science.abj6663
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -214,3 +209,10 @@ Leu106 on TM-C is a major hydrophobic residue on the chloride pathway to the cav
 - [Iptg](/xray-mp-wiki/reagents/additives/iptg/) — Referenced in the context of Iptg
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Referenced in the context of DDM
 - [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) — Referenced in the context of Hepes
+- [pharaonis Halorhodopsin (phR)](/xray-mp-wiki/proteins/rhodopsins/pharaonis-halorhodopsin/) — Archaeal inward chloride pump with TSA motif; convergent evolution comparison
+- [Retinal Chromophore Conformation](/xray-mp-wiki/concepts/structural-mechanisms/retinal-chromophore-conformation/) — All-trans retinal is the chromophore in ClR
+- [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein structure
+- [Opsin (Retinal-Free Rhodopsin Apoprotein)](/xray-mp-wiki/proteins/gpcr/opsin/) — Related protein structure
+- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/) — CIR functions through a rhodopsin photocycle
+- [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) — Used in cell wash buffers
+- [Oleic Acid](/xray-mp-wiki/reagents/lipids/oleic-acid/) — Binds to CIR C-terminal helix on TM A

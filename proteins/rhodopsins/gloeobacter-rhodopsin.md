@@ -1,5 +1,5 @@
 ---
-title: Gloeobacter Rhodopsin (GR) from Gloeobacter violaceus
+title: "Gloeobacter Rhodopsin (GR) from Gloeobacter violaceus"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -32,7 +32,7 @@ resolution from crystals grown in bicelles.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41598-019-47445-5 |  | 2.0 | C 2 2 2 1 | Full-length GR with C-terminal 6xHis tag | All-trans retinal (chromophore) |
+| doi/10.1038##s41598-019-47445-5 | 6NWD | 2.0 | C 2 2 2 1 | Full-length GR with C-terminal 6xHis tag | All-trans retinal (chromophore) |
 
 ## Expression and Purification
 
@@ -42,7 +42,7 @@ resolution from crystals grown in bicelles.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

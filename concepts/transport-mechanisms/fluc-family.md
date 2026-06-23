@@ -22,10 +22,10 @@ Fluc channels function as electrodiffusive F-specific ion channels. Each channel
 Fluc channels are phylogenetically distinct from the CLC superfamily of F-/H+ antiporters, which also export F- but use energy from the proton gradient. The discovery of Fluc channels was driven by the finding of F-specific riboswitches in bacterial genomes, revealing a widespread microbial physiology of resistance to environmental F- toxicity.
 
 ## Examples in Membrane Protein Work
-- [E. coli Fluc-Ec2 Fluoride Ion Channel](/xray-mp-wiki/proteins/other-ion-channels/ec2-fluoride-channel/) — Best-characterized Fluc homologue; crystal structures confirmed dual-topology and double-barreled architecture
+- [E. coli Fluc-Ec2 Fluoride Ion Channel](/xray-mp-wiki/proteins/other-ion-channels/fluc-ec2/) — Best-characterized Fluc homologue; crystal structures confirmed dual-topology and double-barreled architecture
 
 ## Related Concepts
 
 
 ## Cross-References
-- [E. coli Fluc-Ec2 Fluoride Ion Channel](/xray-mp-wiki/proteins/other-ion-channels/ec2-fluoride-channel/) — Prototypical member of the Fluc family
+- [E. coli Fluc-Ec2 Fluoride Ion Channel](/xray-mp-wiki/proteins/other-ion-channels/fluc-ec2/) — Prototypical member of the Fluc family

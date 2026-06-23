@@ -1,5 +1,5 @@
 ---
-title: GlnK PII Signal Transduction Protein (E. coli)
+title: "GlnK PII Signal Transduction Protein (E. coli)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -20,7 +20,7 @@ GlnK is a PII Prostanoid Receptor Family signal transduction Rh Protein from Nit
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.0610348104 | -- | 2.5 A | P2(1)2(1)2(1) | GlnK (full-length, wild-type) in complex with AmtB | [ADP](/xray-mp-wiki/reagents/ligands/adp/) (bound between GlnK monomers in lateral clefts) |
+| doi/10.1073##pnas.0610348104 | 2NUU | 2.5 A | P2(1)2(1)2(1) | GlnK (full-length, wild-type) in complex with AmtB | [ADP](/xray-mp-wiki/reagents/ligands/adp/) (bound between GlnK monomers in lateral clefts) |
 | doi/10.1073##pnas.0609796104 | 2NS1 | 1.96 A | P6(3)22 | GlnK Y51F [Rhodopsin N2C/D282C Mutant](/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/) in complex with AmtB | [ADP](/xray-mp-wiki/reagents/ligands/adp/), Mg2+, [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) (Tris-HCl Buffer) (Tris(hydroxymethyl)aminomethane) |
 
 ## Expression and Purification

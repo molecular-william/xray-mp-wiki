@@ -1,5 +1,5 @@
 ---
-title: Interleukin-17 Receptor A (IL-17RA)
+title: "Interleukin-17 Receptor A (IL-17RA)"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -31,7 +31,7 @@ IL-17RA is the founding and best-known member of the interleukin-17 receptor (IL
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

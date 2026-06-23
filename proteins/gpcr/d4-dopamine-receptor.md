@@ -1,5 +1,5 @@
 ---
-title: D4 Dopamine Receptor (DRD4)
+title: "D4 Dopamine Receptor (DRD4)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -46,7 +46,7 @@ provides an atomic-resolution model for DRD4 ligand selectivity.
 - **Expression construct**: DRD4-BRIL (ICL3 replaced with BRIL)
 - **Tag info**: BRIL fusion (no affinity tag mentioned for DRD4 portion)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

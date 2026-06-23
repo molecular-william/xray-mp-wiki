@@ -1,5 +1,5 @@
 ---
-title: Isoprenylcysteine Carboxyl Methyltransferase (ICMT) from Tribolium castaneum
+title: "Isoprenylcysteine Carboxyl Methyltransferase (ICMT) from Tribolium castaneum"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -20,8 +20,8 @@ ICMT (isoprenylcysteine carboxyl methyltransferase) from the beetle Tribolium ca
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature25439 | Not specified in raw paper | 2.3 A | P21 21 21 | Full-length beetle ICMT (UniProt D6WJ77) with C-terminal YL1/2 antibody-affinity tag (AAEGEEF), in complex with AdoHcy cofactor, [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) lipid, and MB-15 monobody inhibitor. Surface mutations G151A and E154A introduced for crystallizability. | [S Adenosyl L Homocysteine](/xray-mp-wiki/reagents/cofactors/s-adenosyl-l-homocysteine/) (AdoHcy), [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) lipid, MB-15 monobody |
-| doi/10.1038##nature25439 | Not specified in raw paper | 4.0 A | C2221 | Beetle ICMT without monobody, in detergent ([Dmng](/xray-mp-wiki/reagents/detergents/dmng/)) | AdoHcy cofactor, lipid density in cavity |
+| doi/10.1038##nature25439 | 5V7P | 2.3 A | P21 21 21 | Full-length beetle ICMT (UniProt D6WJ77) with C-terminal YL1/2 antibody-affinity tag (AAEGEEF), in complex with AdoHcy cofactor, [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) lipid, and MB-15 monobody inhibitor. Surface mutations G151A and E154A introduced for crystallizability. | [S Adenosyl L Homocysteine](/xray-mp-wiki/reagents/cofactors/s-adenosyl-l-homocysteine/) (AdoHcy), [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) lipid, MB-15 monobody |
+| doi/10.1038##nature25439 | 5V7P | 4.0 A | C2221 | Beetle ICMT without monobody, in detergent ([Dmng](/xray-mp-wiki/reagents/detergents/dmng/)) | AdoHcy cofactor, lipid density in cavity |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ ICMT (isoprenylcysteine carboxyl methyltransferase) from the beetle Tribolium ca
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

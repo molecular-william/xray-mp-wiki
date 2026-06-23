@@ -1,5 +1,5 @@
 ---
-title: ClbM — MATE Transporter from Escherichia coli
+title: "ClbM — MATE Transporter from Escherichia coli"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein

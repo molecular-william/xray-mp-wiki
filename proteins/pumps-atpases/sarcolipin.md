@@ -1,5 +1,5 @@
 ---
-title: Sarcolipin (SLN)
+title: "Sarcolipin (SLN)"
 created: 2026-06-03
 updated: 2026-06-21
 type: protein
@@ -31,7 +31,7 @@ Sarcolipin (SLN) is a small (~30 amino acid) membrane protein that regulates the
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -49,4 +49,4 @@ No comparison data available.
 ## Cross-References
 
 - [GLUT5 Fructose Transporter](/xray-mp-wiki/proteins/mfs-transporters/glut5/) — Primary substrate of GLUT5
-- [D-Glucose](/xray-mp-wiki/reagents/ligands/glucose/) — Closely related monosaccharide; GLUT5 does not transport glucose
+- [D-Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Closely related monosaccharide; GLUT5 does not transport glucose

@@ -1,5 +1,5 @@
 ---
-title: Aquaporin-2 (AQP2)
+title: "Aquaporin-2 (AQP2)"
 created: 2026-06-08
 updated: 2026-06-10
 type: protein
@@ -39,7 +39,7 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
 |---|---|---|---|---|---|
 | doi/10.1038##s41598-023-41616-1 | 8GHJ | 3.90 | P4_2 | Human AQP2 T125M mutant, N-terminal 8xHis-tag, TEV-cleavable, C-terminally truncated at residue 242 | Cd2+ |
 | doi/10.1038##s41598-023-41616-1 | 8OEE | 3.15 | P4_2 | Human AQP2 T126M mutant, N-terminal 8xHis-tag, TEV-cleavable, C-terminally truncated at residue 242 | Cd2+ |
-| doi/10.1073##pnas.1321406111 | — | 2.75 | P4₂ | Wild-type human AQP2, C-terminally truncated at Pro242, expressed in Pichia pastoris | Cd²⁺, Zn²⁺ |
+| doi/10.1073##pnas.1321406111 | 4NEF | 2.75 | P4₂ | Wild-type human AQP2, C-terminally truncated at Pro242, expressed in Pichia pastoris | Cd²⁺, Zn²⁺ |
 
 ## Expression and Purification
 
@@ -48,16 +48,18 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
 
 ### Purification Workflow
 
-#### Steps
+
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
-| Membrane preparation | Cell lysis and ultracentrifugation | -- | 20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis [Tris] Propane-HCl pH 8.0, 300 mM NaCl, 0.2% [OGNG] + n-Octyl-β-D-glucopyranoside (OGNG | [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) lysed, membranes harvested by centrifugation, solubilized in [Citrate] A (20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis [Tris] Propane-HCl pH 8.0, 300 mM NaCl, 0.2% [OGNG] |
-| Immobilized metal affinity chromatography (IMAC | HisTrap HP column, stepwise imidazole elution | HisTrap HP (Ni-NTA | 20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis [Tris] Propane-HCl pH 8.0, 300 mM NaCl, 0.2% [OGNG] + OGNG | Wash with 10 mM imidazole (2 CV, then 75 mM imidazole (5 CV, elution with 300 mM [Imidazole] |
-| Desalting | Sephadex G-25 PD-10 column | Sephadex G-25 | 20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis [Tris] Propane-HCl pH 8.0, 300 mM NaCl, 0.2% [OGNG] + OGNG | Concentrated to 2.5 ml before desalting |
-| TEV protease cleavage | His-tagged TEV protease, overnight at 4 °C | -- | 0.5 mM [TCEP], 20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis [Tris] Propane-HCl pH 9.5 + OGNG | TEV protease added at 2:1 ratio (Mladoxinstabilizationtiona5Ama3hapin 1A3 Familyotein Family Family 1obrevin 2 4Protein FamilyntamerProtein Family Yidcov 2 Ctd Agonismotein FamilyKir3 2dral Twinning Mep Protein Familyrome B561 Family Protein Couplinge Binding Proteincholine Binding Proteinopology Architecturetein Nitrosomonas EuropaeaeCytoplasmic Poreree Protein Synthesischromatium Tepidum Hipipaeodactylum TricornutumGas Anaesthetic MechanismNetworks Membrane Protein Oligomerizationne Protein Crystals For Neutron Diffractionirected Spin Labeling Membrane ProteinAtom Derivative Detergents And Lipids: Family Mechanismd Protease Substrate Specificity |
-| Reverse IMAC | Second HisTrap HP column, flowthrough collection | HisTrap HP | 20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis [Tris] Propane-HCl pH 8.0, 300 mM NaCl, 0.2% [OGNG], 20 mM [Imidazole] + OGNG | Cleaved Mladoxinstabilizationtiona5Ama3hapin 1A3 Familyotein Family Family 1obrevin 2 4Protein FamilyntamerProtein Family Yidcov 2 Ctd Agonismotein FamilyKir3 2dral Twinning Mep Protein Familyrome B561 Family Protein Couplinge Binding Proteincholine Binding Proteinopology Architecturetein Nitrosomonas EuropaeaeCytoplasmic Poreree Protein Synthesischromatium Tepidum Hipipaeodactylum TricornutumGas Anaesthetic MechanismNetworks Membrane Protein Oligomerizationne Protein Crystals For Neutron Diffractionirected Spin Labeling Membrane ProteinAtom Derivative Detergents And Lipids collected in flowthrough |
-| Size-exclusion chromatography | Superdex 200 Increase 10/300 GL | Superdex 200 Increase | 20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis [Tris] Propane-HCl pH 8.0, 300 mM NaCl, 0.2% [OGNG] + OGNG | Concentrated to <500 μl before Mechanismcosity Peak fractions collected, concentrated to 10 mg/ml, 5% Glycerol added, flash frozen at −80 °C |
+| Membrane preparation | Cell lysis and ultracentrifugation | -- | 20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis [Tris](/xray-mp-wiki/reagents/buffers/tris/) Propane-HCl pH 8.0, 300 mM NaCl, 0.2% [OGNG](/xray-mp-wiki/reagents/detergents/ogng/) + n-Octyl-β-D-glucopyranoside (OGNG | [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) lysed, membranes harvested by centrifugation, solubilized in Hepeseteter Chesr Hepesr Glyciner Acetater Succinater Mesm [Citrate](/xray-mp-wiki/reagents/buffers/citrate/) A (20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis [Tris](/xray-mp-wiki/reagents/buffers/tris/) Propane-HCl pH 8.0, 300 mM NaCl, 0.2% [OGNG](/xray-mp-wiki/reagents/detergents/ogng/) |
+| Immobilized metal affinity chromatography (IMAC | HisTrap HP column, stepwise imidazole elution | HisTrap HP (Ni-NTA | 20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis [Tris](/xray-mp-wiki/reagents/buffers/tris/) Propane-HCl pH 8.0, 300 mM NaCl, 0.2% [OGNG](/xray-mp-wiki/reagents/detergents/ogng/) + OGNG | Wash with 10 mM imidazole (2 CV, then 75 mM imidazole (5 CV, elution with 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
+| Desalting | Sephadex G-25 PD-10 column | Sephadex G-25 | 20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis [Tris](/xray-mp-wiki/reagents/buffers/tris/) Propane-HCl pH 8.0, 300 mM NaCl, 0.2% [OGNG](/xray-mp-wiki/reagents/detergents/ogng/) + OGNG | Concentrated to 2.5 ml before desalting |
+| TEV protease cleavage | His-tagged TEV protease, overnight at 4 °C | -- | 0.5 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep/), 20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis [Tris](/xray-mp-wiki/reagents/buffers/tris/) Propane-HCl pH 9.5 + OGNG | TEV protease added at 2:1 ratio (Mladoxinstabilizationtiona5Ama3hapin 1A3 Familyotein Family Family 1obrevin 2 4Protein FamilyntamerProtein Family Yidcov 2 Ctd Agonismotein FamilyKir3 2dral Twinning Mep Protein Familyrome B561 Family Protein Couplinge Binding Proteincholine Binding Proteinopology Architecturetein Nitrosomonas EuropaeaeCytoplasmic Poreree Protein Synthesischromatium Tepidum Hipipaeodactylum TricornutumGas Anaesthetic MechanismNetworks Membrane Protein Oligomerizationne Protein Crystals For Neutron Diffractionirected Spin Labeling Membrane ProteinAtom Derivative Detergents And Lipids:ClppPn ProteaseProteased Proteaseoteasession Proteaseubstratetease MechanismCyto Aeolicus Ftshchia Coli SppaProtease Family Mechanismd Protease Substrate Specificity |
+| Reverse IMAC | Second HisTrap HP column, flowthrough collection | HisTrap HP | 20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis [Tris](/xray-mp-wiki/reagents/buffers/tris/) Propane-HCl pH 8.0, 300 mM NaCl, 0.2% [OGNG](/xray-mp-wiki/reagents/detergents/ogng/), 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + OGNG | Cleaved Mladoxinstabilizationtiona5Ama3hapin 1A3 Familyotein Family Family 1obrevin 2 4Protein FamilyntamerProtein Family Yidcov 2 Ctd Agonismotein FamilyKir3 2dral Twinning Mep Protein Familyrome B561 Family Protein Couplinge Binding Proteincholine Binding Proteinopology Architecturetein Nitrosomonas EuropaeaeCytoplasmic Poreree Protein Synthesischromatium Tepidum Hipipaeodactylum TricornutumGas Anaesthetic MechanismNetworks Membrane Protein Oligomerizationne Protein Crystals For Neutron Diffractionirected Spin Labeling Membrane ProteinAtom Derivative Detergents And Lipids collected in flowthrough |
+| Size-exclusion chromatography | Superdex 200 Increase 10/300 GL | Superdex 200 Increase | 20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis [Tris](/xray-mp-wiki/reagents/buffers/tris/) Propane-HCl pH 8.0, 300 mM NaCl, 0.2% [OGNG](/xray-mp-wiki/reagents/detergents/ogng/) + OGNG | Concentrated to <500 μl before Entropic Spring MechanismInjection Mechanismcosity Sample Injection For Sfx. Peak fractions collected, concentrated to 10 mg/ml, 5% GlycerolColil 3 Phosphatel Facilitator added, flash frozen at −80 °C |
+
 
 ## Crystallization
 
@@ -66,12 +68,12 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
 | Parameter | Value |
 |---|---|
 | Method | Hanging drop vapor diffusion |
-| Protein sample | AQP2 constructs at 10 mg/ml in Citrate A (20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis Tris Propane-HCl pH 8.0, 300 mM NaCl, 0.2% OGNG, 5% Glycerol |
+| Protein sample | AQP2 constructs at 10 mg/ml in Hepeseteter Chesr Hepesr Glyciner Acetater Succinater Mesm Citrate A (20 mM TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis Tris Propane-HCl pH 8.0, 300 mM NaCl, 0.2% OGNG, 5% GlycerolColil 3 Phosphatel Facilitator |
 | Reservoir | 20–30% PEG400, TrisPs Hclray-mp-wiki/reagents/buffers/tes/fer Trisfer Bis Tris Propane-HCl pH 8.5, 0.1 M Mgcl2, 0.1 M NaCl, 0.1 M CdCl2 (added 1:4 ratio |
 | Temperature | 4 °C or room temperature |
-| Growth time | 2–3 days (formed within 15 min at highest Peg concentrations |
+| Growth time | 2–3 days (Diffractive Imaging Imperfect Crystalse Protein Crystals For Neutron Diffraction formed within 15 min at highest Peg concentrations |
 | Cryoprotection | Crystals grown at <24% PEG400 soaked in reservoir + 30% PEG400; otherwise no additional cryoprotection |
-| Notes | T125M best in 20% PEG400 at 6 °C, T126M best in 24% PEG400 at room temperature, A147T [Kpbest](/xray-mp-wiki/proteins/other-ion-channels/kpbest/) in 22% [PEG400] at 6 °C. |
+| Notes | T125M best in 20% PEG400 at 6 °C, T126M best in 24% PEG400 at room temperature, A147T [Kpbest](/xray-mp-wiki/proteins/other-ion-channels/kpbest/) in 22% [PEG400](/xray-mp-wiki/reagents/additives/peg-400/) at 6 °C. |
 
 ### doi/10.1073##pnas.1321406111
 
@@ -81,40 +83,48 @@ NDI-causing mutations and [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human
 | Protein sample | Wild-Ry3RR51rtd470 1u2 Familye Ii Abc Transporter Familyrae V Atpase K Ringinine Oscillation Mechanismobacter Tartaricus C Subunitillus Pseudofirmus Of4 C13 Ring AQP2 Peptide 5Tru at Pro242 |
 | Temperature | 100 K (data collection |
 | Cryoprotection | Frozen crystal |
-| Notes | CdCl₂ used as an [Had13A] during TruncationllizationlizationPhasellizationimerizationPhase Crystallizationstallization Under OilLysozyme Fusionization Free Interface Diffusion. Complete data collected at ESRF (Grenoble, France from a Semet Sad Phasinge Wavelength Anomalous Diffraction frozen [Single Crystal Microspectrophotometry](/xray-mp-wiki/methods/structure-determination/single-crystal-microspectrophotometry/). belonged to space group P4₂ with one tetramer in the asymmetric unit (a=119.11 Å, b=119.11 Å, c=90.48 Å. |
+| Notes | CdCl₂ used as an [Had13A](/xray-mp-wiki/reagents/additives/had13a/) during TruncationllizationlizationPhasellizationimerizationPhase Crystallizationstallization Under OilLysozyme Fusionization Free Interface Diffusion. Complete data collected at ESRF (Grenoble, France from a Semet Sad Phasinge Wavelength Anomalous Diffraction frozen [Single Crystal Microspectrophotometry](/xray-mp-wiki/methods/structure-determination/single-crystal-microspectrophotometry/). Diffractive Imaging Imperfect Crystalse Protein Crystals For Neutron Diffraction belonged to space group P4₂ with one tetramer in the asymmetric unit (a=119.11 Å, b=119.11 Å, c=90.48 Å. |
+
 
 ## Biological / Functional Insights
 
 ### Minor misfolding recognized by ER quality control
 
+
+
 ### A147T destabilizes the AQP2 tetramer
+
+
 
 ### Therapeutic implications of functional NDI mutants
 
+
+
 ### C-terminal conformational variability
 
-The C-terminal helix of AQP2 shows significant Asymmetry Abc Transporters variability
-across the four protomers of the tetramer. In protomer C, the C-Nav1 4 fusion
-Gxxxg motif Helix Mechanism interacts with a -related [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-2/) molecule via [L Leucine] residues
-(Leu230, 234, 237, 240, suggesting a role in protein-Mladoxinstabilizationtiona5Ama3hapin 1A3 Familyotein Family Family 1obrevin 2 4Protein FamilyntamerProtein Family Yidcov 2 Ctd Agonismotein FamilyKir3 2dral Twinning Mep Protein Familyrome B561 Family Protein Couplinge Binding Proteincholine Binding Proteinopology Architecturetein Nitrosomonas EuropaeaeCytoplasmic Poreree Protein Synthesischromatium Tepidum Hipipaeodactylum TricornutumGas Anaesthetic MechanismNetworks Membrane Protein Oligomerizationne Protein Crystals For Neutron Diffractionirected Spin Labeling Membrane ProteinAtom Derivative Detergents And Lipids 
+The C-terminal helix of AQP2 shows significant Conformational Dynamics Mfsl Dynamics Mppasesonal Equilibriumational States Clcl Coupling Gatingsulfide Bridge Trappingl Asymmetry Abc Transporters variability
+across the four protomers of the tetramer. In protomer C, the C-Nav1 4 Cterm CamGlun2B Atde1 Anion Exchangernal [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) Fusion
+Gxxxg Motifing Helix Mechanismx Shift Mechanismzontal Helix Spring Mechanism interacts with a NCSy Mismatch Rotary Motor-related [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-2/) molecule via [L Leucine](/xray-mp-wiki/reagents/ligands/l-leucine/) residues
+(Leu230, 234, 237, 240, suggesting a role in protein-Mladoxinstabilizationtiona5Ama3hapin 1A3 Familyotein Family Family 1obrevin 2 4Protein FamilyntamerProtein Family Yidcov 2 Ctd Agonismotein FamilyKir3 2dral Twinning Mep Protein Familyrome B561 Family Protein Couplinge Binding Proteincholine Binding Proteinopology Architecturetein Nitrosomonas EuropaeaeCytoplasmic Poreree Protein Synthesischromatium Tepidum Hipipaeodactylum TricornutumGas Anaesthetic MechanismNetworks Membrane Protein Oligomerizationne Protein Crystals For Neutron Diffractionirected Spin Labeling Membrane ProteinAtom Derivative Detergents And Lipids [Pot Family](/xray-mp-wiki/concepts/transport-mechanisms/pot-family/) Substrate Specificitymer Interaction Proteorhodopsin
 relevant to LIP5-Anion Mediated Ligand Bindingdulation Gabab Receptor Paracellular Ion Selectivity trafficking.
 
 ### Cd²⁺ and Ca²⁺ binding sites
 
 Two Cd²⁺ binding sites (Cd1 and Cd2 identified per AQP2 tetramer. Cd1 is
-at the MimeticsCdc50Aric Regulation Like MechanismCenter Mechanismpology ArchitectureSide Chain PackingCoupling Mechanismee Protein Synthesisponent Signaling Systemupported Membrane ElectrophysiologyF1 Atpase Stator Complexetworks Membrane Protein Oligomerizatione Protein Crystals For Neutron Diffractionrected Spin Labeling Membrane Proteintom Derivative Detergents And Lipids [] between protomers A and D, ligated by GluA155 and
-GlnD57. Cd2 is [Pq Loop Family](/xray-mp-wiki/concepts/protein-families/pq-loop-family/) Loop Receptor Familypetitive Antagonism Cys Loopensitization In Cys Loop Receptorstch Loop Gating Rnd Transporters B and the [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) Fusion tail. Radioactive Ca²⁺
+at the Cuscjmray-mp-wiki/proteins/wza/ 1ocessing4Yidce MimeticsCdc50Aric Regulation Like MechanismCenter Mechanismpology ArchitectureSide Chain PackingCoupling Mechanismee Protein Synthesisponent Signaling Systemupported Membrane ElectrophysiologyF1 Atpase Stator Complexetworks Membrane Protein Oligomerizatione Protein Crystals For Neutron Diffractionrected Spin Labeling Membrane Proteintom Derivative Detergents And Lipids [Batch Crystallization Free Interface Diffusion](/xray-mp-wiki/methods/crystallization/batch-crystallization-free-interface-diffusion/) between protomers A and D, ligated by GluA155 and
+GlnD57. Cd2 is [Conformational Coupling Gating](/xray-mp-wiki/concepts/transport-mechanisms/conformational-coupling-gating/) [Pq Loop Family](/xray-mp-wiki/concepts/protein-families/pq-loop-family/) Loop Receptor Familypetitive Antagonism Cys Loopensitization In Cys Loop Receptorstch Loop Gating Rnd Transporters B and the C-Sars Cov 2 CtdCterm CamGlun2B Atde1 Anion Exchangernal [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) Fusion tail. Radioactive Ca²⁺
 Fkbp12omaing Change Mechanisme Binding PocketHelical Binding Sitee Binding Proteinate Binding In Asbt Yfive Lipid Bindingcholine Binding Proteinc Glycoside Binding Mechanismxtended Binding Pocket Modifier Toxin Bindingoprotein Induced Fit Bindingasmic Drug Binding Site Rndaeodactylum TricornutumGas Anaesthetic Mechanism Drug Binding Site Atp Synthase C Ringctive State High Affinity Agonist Bindingendent Quinone Binding Reaction Center assays demonstrate that [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-2/)-expressing oocytes bind significantly
-more Ca²⁺ than controls, suggesting Ca²⁺ is the physiological [Tc114] Lbdccd Efficiencyite Binding Mode Mediated Ligand Binding Network In Ligand Bindingturate Binding Mechanismy Beta1 Ar Ligand Free Basal.
+more Ca²⁺ than controls, suggesting Ca²⁺ is the physiological [Tc114](/xray-mp-wiki/reagents/ligands/tc114/) Lbdccd Efficiencyite Binding Mode Mediated Ligand Binding Network In Ligand Bindingturate Binding Mechanismy Beta1 Ar Ligand Free Basal.
 
 ### NDI-causing mutations in the wild-type structure
 
-The wild-Ry3RR51rtd470 1u2 Familye Ii Abc Transporter Familyrae V Atpase K Ringinine Oscillation Mechanismobacter Tartaricus C Subunitillus Pseudofirmus Of4 C13 Ring [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-2/) structure reveals locations of mutations causing NDI.
-Key sites include: Gln57 (Cd1 [Tc114] Lbdccd Efficiency Mediated Ligand Binding Network In Ligand Bindingturate Binding Mechanismy Beta1 Ar Ligand Free Basal, Ser148 (casein Dgkalglycerol Kinase Zneaercury Ii Chloridelatinum Ii Chlorideotassium Tetrakis Hydroxido Platinate Ii site,
+The wild-Ry3RR51rtd470 1u2 Familye Ii Abc Transporter Familyrae V Atpase K Ringinine Oscillation Mechanismobacter Tartaricus C Subunitillus Pseudofirmus Of4 C13 Ring [AQP2](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-2/) [Structure Based Antipsychotic Design](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) reveals locations of mutations causing NDI.
+Key sites include: Gln57 (Cd1 [Tc114](/xray-mp-wiki/reagents/ligands/tc114/) Lbdccd Efficiency Mediated Ligand Binding Network In Ligand Bindingturate Binding Mechanismy Beta1 Ar Ligand Free Basal, Ser148 (casein Dgkalglycerol Kinase Zneaercury Ii Chloridelatinum Ii Chlorideotassium Tetrakis Hydroxido Platinate Ii site,
 Thr125/Thr126 in loop C near the N-[N Glycosylation Sequon](/xray-mp-wiki/concepts/membrane-mimetics/n-glycosylation-sequon/) Kkrsepsep2P Site Binding Modera Helical Binding Sitee 2 Protease Family Mechanismosteric Site In Nss Transportersiplasmic Drug Binding Site Rndmon Drug Binding Site Atp Synthase C Ringe Directed Spin Labeling Membrane Protein Asn123, and Asp150
-in loop D which mediates [Pq Loop Family](/xray-mp-wiki/concepts/protein-families/pq-loop-family/) Loop Receptor Familypetitive Antagonism Cys Loopensitization In Cys Loop Receptorstch Loop Gating Rnd Transporters D-C CamT4L fusion tail via Arg152.
-Most NDI-causing Malignant Hyperthermiative Active Gpcr Mutations are in [Autoinhibitory Domains](/xray-mp-wiki/concepts/transport-mechanisms/autoinhibitory-domains/) and cause
+in loop D which mediates [Pq Loop Family](/xray-mp-wiki/concepts/protein-families/pq-loop-family/) Loop Receptor Familypetitive Antagonism Cys Loopensitization In Cys Loop Receptorstch Loop Gating Rnd Transporters D-C Sars Cov 2 CtdCterm CamGlun2B Atde1 Anion Exchangernal [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) Fusion tail [Pot Family](/xray-mp-wiki/concepts/transport-mechanisms/pot-family/) Substrate Specificitymer Interaction Proteorhodopsin via Arg152.
+Most NDI-causing Malignant Hyperthermiative Active Gpcr Mutations are in Yajcmp-wiki/proteins/[Malf](/xray-mp-wiki/proteins/abc-transporters/malF/)/mp-wiki/proteins/[Malg](/xray-mp-wiki/proteins/abc-transporters/malG/)/Agn Transmembrane Poresl Transmembrane Protein Design [Autoinhibitory Domains](/xray-mp-wiki/concepts/transport-mechanisms/autoinhibitory-domains/) and cause
 misfolding and ER retention.
+
 
 ## Cross-References
 

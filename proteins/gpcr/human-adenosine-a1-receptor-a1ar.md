@@ -1,5 +1,5 @@
 ---
-title: Human Adenosine A1 Receptor (A1AR)
+title: "Human Adenosine A1 Receptor (A1AR)"
 created: 2026-05-27
 updated: 2026-05-29
 type: protein
@@ -31,10 +31,10 @@ The human adenosine A1 receptor (A1AR) is a class A G protein-coupled receptor t
 
 ### Purification Workflow
 
-*Source: doi/10.1016##j.cell.2017.01.042*
+#### Source: doi/10.1016##j.cell.2017.01.042
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -44,12 +44,10 @@ The human adenosine A1 receptor (A1AR) is a class A G protein-coupled receptor t
 | Anti-Flag M1 affinity | Anti-Flag M1 affinity chromatography | Anti-Flag M1 affinity resin | 0.05% LMNG (detergent exchanged from DDM) + 0.05% LMNG | Detergent exchanged to LMNG on resin |
 | SEC | Size exclusion chromatography | Superdex 200 | 20 mM HEPES pH 7.5, 150 mM NaCl, 0.05% LMNG, 0.005% CHS, 0.2 uM DU172 + 0.05% LMNG, 0.005% CHS | Concentrated to ~50 mg/mL for LCP crystallization |
 
-### Purification Workflow
-
-*Source: doi/10.1016##j.str.2017.06.012*
+#### Source: doi/10.1016##j.str.2017.06.012
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

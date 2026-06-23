@@ -1,5 +1,5 @@
 ---
-title: Human Connexin 26 (Cx26/GJB2) Gap Junction Channel
+title: "Human Connexin 26 (Cx26/GJB2) Gap Junction Channel"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -30,7 +30,7 @@ Connexin 26 (Cx26, also known as GJB2) is a member of the connexin family of gap
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

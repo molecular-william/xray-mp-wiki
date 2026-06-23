@@ -1,5 +1,5 @@
 ---
-title: Fragaceatoxin C (FraC) from Actinia fragacea
+title: "Fragaceatoxin C (FraC) from Actinia fragacea"
 created: 2026-06-08
 updated: 2026-06-16
 type: protein
@@ -20,7 +20,7 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.str.2010.11.013 |  | 1.8 | P 6 2 2 | Full-length Fragaceatoxin C (FraC) from Actinia fragacea | [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) detergent molecules |
+| doi/10.1016##j.str.2010.11.013 | 3LIM | 1.8 | P 6 2 2 | Full-length Fragaceatoxin C (FraC) from Actinia fragacea | [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) detergent molecules |
 | doi/10.1038##ncomms7337 | 3W9P | 1.7 | P 1 2(1) 1 | Full-length FraC | None |
 | doi/10.1038##ncomms7337 | 3VWI | 2.1 | P 2(1) 2(1) 2(1) | Full-length FraC | None |
 | doi/10.1038##ncomms7337 | 4TSP | 2.3 | P 3 2 1 | Full-length FraC | DHPC lipid (up to 4 molecules bound per chain) |
@@ -41,7 +41,7 @@ Fragaceatoxin C (FraC) is a potent haemolytic pore-forming toxin (PFT) from the 
 - **Expression construct**: Full-length FraC (no tag)
 - **Tag info**: None
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

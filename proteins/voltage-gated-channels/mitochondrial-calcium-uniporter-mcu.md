@@ -1,5 +1,5 @@
 ---
-title: Mitochondrial Calcium Uniporter (MCU)
+title: "Mitochondrial Calcium Uniporter (MCU)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -37,7 +37,7 @@ The mitochondrial calcium uniporter (MCU) is the pore-forming subunit of the mit
 - **Expression construct**: MaMCU (His6-GFPuv-3C-MaMCU)
 - **Tag info**: N-terminal His6-GFPuv tag, cleaved by 3C protease
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

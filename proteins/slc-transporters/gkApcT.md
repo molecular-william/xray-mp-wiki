@@ -1,5 +1,5 @@
 ---
-title: GkApcT Amino Acid Transporter (CAT Homologue)
+title: "GkApcT Amino Acid Transporter (CAT Homologue)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -32,7 +32,7 @@ GkApcT is a proton-coupled amino acid transporter from Geobacillus kaustophilus 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

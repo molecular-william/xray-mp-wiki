@@ -1,5 +1,5 @@
 ---
-title: Particulate Methane Monooxygenase (pMMO) from Methylococcus capsulatus (Bath)
+title: "Particulate Methane Monooxygenase (pMMO) from Methylococcus capsulatus (Bath)"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -31,7 +31,7 @@ Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

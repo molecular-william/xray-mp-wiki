@@ -1,5 +1,5 @@
 ---
-title: MtCorB Delta-C from Methanoculleus thermophilus
+title: "MtCorB Delta-C from Methanoculleus thermophilus"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -34,7 +34,7 @@ MtCorB Delta-C is a CNNM/CorB family magnesium transporter from the thermophilic
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,11 +1,11 @@
 ---
-title: PZ Pocket: Inhibitor-Induced Binding Pocket in POTs
+title: "PZ Pocket: Inhibitor-Induced Binding Pocket in POTs"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, membrane-protein]
+tags: [concept-transport-mechanism, membrane-protein, subdirectory-structural-mechanisms]
 sources: [doi/10.1038##s42004-022-00636-0]
 verified: false
 ---
@@ -29,5 +29,5 @@ LZNV inhibits POTs through a two-step mechanism: (1) the dipeptide backbone of L
 ## Cross-References
 - [Peptide Binding Pocket](/xray-mp-wiki/concepts/structural-mechanisms/peptide-binding-pocket/) — Related concept - the PZ pocket is adjacent to the conserved peptide-binding pockets P1 and P2
 - [POT Family](/xray-mp-wiki/concepts/transport-mechanisms/pot-family/) — The PZ pocket mechanism is specific to proton-dependent oligopeptide transporters
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — POTs belong to the MFS fold; the PZ pocket is formed within the MFS architecture
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — POTs belong to the MFS fold; the PZ pocket is formed within the MFS architecture
 - [YePEPT (Yersinia enterocolitica Peptide Transporter)](/xray-mp-wiki/proteins/mfs-transporters/yepept/) — The PZ pocket was discovered in the YePEPT K314A-LZNV co-crystal structure

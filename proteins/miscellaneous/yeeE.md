@@ -1,5 +1,5 @@
 ---
-title: YeeE Thiosulfate Transporter from Shewanella thermophila
+title: "YeeE Thiosulfate Transporter from Shewanella thermophila"
 created: 2026-06-10
 updated: 2026-06-10
 type: protein
@@ -41,7 +41,7 @@ YeeE is a bacterial membrane protein that mediates thiosulfate uptake for use as
 - **Expression construct**: StYeeE(1-328)-GSSGENLYFQFTS-H8
 - **Tag info**: C-terminal H8 tag, removed by TEV(S219V) protease cleavage
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

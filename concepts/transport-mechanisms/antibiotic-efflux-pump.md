@@ -5,8 +5,8 @@ updated: 2026-06-05
 type: concept
 category: concepts
 layout: default
-tags: [concept-transport-mechanism, subdirectory-concepts]
-sources: [doi/10.1128##jb.187.19.6804-6815.2005 - doi/10.1038##s41467-021-27726-2 - doi/10.1038##ncomms7874]
+tags: [concept-transport-mechanism, subdirectory-transport-mechanisms]
+sources: [doi/10.1128##jb.187.19.6804-6815.2005, doi/10.1038##s41467-021-27726-2, doi/10.1038##ncomms7874]
 verified: false
 ---
 
@@ -27,7 +27,7 @@ Antibiotic efflux pumps are membrane transporters that export toxic compounds, i
 
 ## Cross-References
 - [A. borkumensis YdaH transporter](/xray-mp-wiki/proteins/slc-transporters/ydah/) — First structurally characterized sulfonamide efflux pump
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — RND family efflux pump exporting diverse antibiotics
+- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — RND family efflux pump exporting diverse antibiotics
 - [MexB Efflux Pump](/xray-mp-wiki/proteins/abc-transporters/mexb/) — P. aeruginosa multidrug efflux pump; related resistance mechanism
 - [AbgT Family of Transporters](/xray-mp-wiki/concepts/transport-mechanisms/abgt-family/) — YdaH belongs to the AbgT family which includes resistance proteins
 - [Sulfonamide Resistance](/xray-mp-wiki/concepts/miscellaneous/sulfonamide-resistance/) — YdaH-mediated sulfonamide efflux is a novel resistance mechanism

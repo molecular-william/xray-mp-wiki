@@ -55,7 +55,7 @@ No comparison data available.
 ## Cross-References
 
 - [Phosphatidylinositol Phosphate Synthase PgsA1 from Mycobacterium tuberculosis](/xray-mp-wiki/proteins/enzymes/mt-pgsa1/) — Ino-P is the soluble substrate of PgsA1
-- [Cytidine Diphosphate Diacylglycerol (CDP-DAG)](/xray-mp-wiki/reagents/ligands/cytidine-diphosphate-diacylglycerol/) — The other substrate; ino-P reacts with CDP-DAG at the active site
+- [Cytidine Diphosphate Diacylglycerol (CDP-DAG)](/xray-mp-wiki/reagents/lipids/cytidine-diphosphate-diacylglycerol/) — The other substrate; ino-P reacts with CDP-DAG at the active site
 - [CDP-Alcohol Phosphotransferase Family](/xray-mp-wiki/concepts/protein-families/cdp-alcohol-phosphotransferase-family/) — Ino-P is the second alcohol substrate for Class I CDP-APs
 - [Carboxylate Shift](/xray-mp-wiki/concepts/structural-mechanisms/carboxylate-shift/) — Related biological concept
 - [Molecular Docking](/xray-mp-wiki/methods/structure-determination/molecular-docking/) — Method used in structure determination or purification

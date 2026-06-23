@@ -1,5 +1,5 @@
 ---
-title: Sigma-1 Receptor from Xenopus laevis (xlS1R)
+title: "Sigma-1 Receptor from Xenopus laevis (xlS1R)"
 created: 2026-06-08
 updated: 2026-06-16
 type: protein
@@ -44,10 +44,10 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 
 ### Purification Workflow
 
-*Source: unknown*
+#### Source: unknown
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -57,15 +57,13 @@ The sigma-1 receptor (S1R) from Xenopus laevis (xlS1R) is a non-opioid transmemb
 | Tag cleavage | TEV protease | — |  |  |
 | Size-exclusion chromatography | Superose 6 Increase column | — | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.5, 150 mM NaCl, 1 mM [DDM](/xray-mp-wiki/reagents/detergents/ddm), 0.005% CHS |  |
 
-### Purification Workflow
-
-*Source: doi/10.1038##s41467-024-49894-7*
+#### Source: doi/10.1038##s41467-024-49894-7
 
 - **Expression system**: Pichia pastoris
 - **Expression construct**: Full-length xlS1R with N-terminal decahistidine tag and TEV protease recognition site after hemagglutinin signal peptide
 - **Tag info**: Decahistidine tag, TEV cleaved
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

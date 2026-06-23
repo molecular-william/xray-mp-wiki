@@ -1,5 +1,5 @@
 ---
-title: NarU Nitrate/Nitrite Transporter from Escherichia coli
+title: "NarU Nitrate/Nitrite Transporter from Escherichia coli"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -35,7 +35,7 @@ than rigid-body domain rotation.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.celrep.2013.03.007 | (not deposited in PDB per paper) | 3.1 | P212121 | Native full-length NarU from E. coli K-12, selenomethionine-substituted for phasing |  |
+| doi/10.1016##j.celrep.2013.03.007 | 4IU9 | 3.1 | P212121 | Native full-length NarU from E. coli K-12, selenomethionine-substituted for phasing |  |
 
 ## Expression and Purification
 
@@ -46,7 +46,7 @@ than rigid-body domain rotation.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

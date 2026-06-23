@@ -1,5 +1,5 @@
 ---
-title: Human Oxytocin Receptor (OTR)
+title: "Human Oxytocin Receptor (OTR)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ The human oxytocin receptor (OTR) is a class A G protein-coupled receptor (GPCR)
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##sciadv.abb5419 |  | 3.2 |  | OTR_XTAL (PGS fusion, D153A/S224A, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/)) | [Retosiban](/xray-mp-wiki/reagents/additives/retosiban/) (antagonist), [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/), Mg2+ coordination site identified |
+| doi/10.1126##sciadv.abb5419 | 6TPK | 3.2 |  | OTR_XTAL (PGS fusion, D153A/S224A, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/)) | [Retosiban](/xray-mp-wiki/reagents/additives/retosiban/) (antagonist), [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/), Mg2+ coordination site identified |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ The human oxytocin receptor (OTR) is a class A G protein-coupled receptor (GPCR)
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: PCAT1 (Peptidase-Containing ABC Transporter from Clostridium thermocellum)
+title: "PCAT1 (Peptidase-Containing ABC Transporter from Clostridium thermocellum)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,9 +21,9 @@ PCAT1 is a peptidase-containing ATP-binding cassette (ABC) transporter from Clos
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature14623 | TBD | 3.6 A | P2(1)2(1)2(1) | Full-length PCAT1 from Clostridium thermocellum (residues 1-727), expressed in E. coli BL21(DE3) codon plus (RIL) cells, N-terminal GST tag removed by TEV protease | None (ATP-free form) |
-| doi/10.1038##nature14623 | TBD | 4.1 A | C222(1) | Full-length PCAT1 from Clostridium thermocellum (residues 1-727), expressed in E. coli BL21(DE3) codon plus (RIL) cells, N-terminal GST tag removed by TEV protease | None (ATP-free form, alternative crystal form) |
-| doi/10.1038##nature14623 | TBD | 5.5 A | P4(2)2(1)2 | Full-length PCAT1 E648Q mutant from Clostridium thermocellum (residues 1-727), expressed in E. coli BL21(DE3) codon plus (RIL) cells, N-terminal GST tag removed by TEV protease | ATPγS (bound, hydrolysis-deficient mutant) |
+| doi/10.1038##nature14623 | 4RY2 | 3.6 A | P2(1)2(1)2(1) | Full-length PCAT1 from Clostridium thermocellum (residues 1-727), expressed in E. coli BL21(DE3) codon plus (RIL) cells, N-terminal GST tag removed by TEV protease | None (ATP-free form) |
+| doi/10.1038##nature14623 | 4RY2 | 4.1 A | C222(1) | Full-length PCAT1 from Clostridium thermocellum (residues 1-727), expressed in E. coli BL21(DE3) codon plus (RIL) cells, N-terminal GST tag removed by TEV protease | None (ATP-free form, alternative crystal form) |
+| doi/10.1038##nature14623 | 4RY2 | 5.5 A | P4(2)2(1)2 | Full-length PCAT1 E648Q mutant from Clostridium thermocellum (residues 1-727), expressed in E. coli BL21(DE3) codon plus (RIL) cells, N-terminal GST tag removed by TEV protease | ATPγS (bound, hydrolysis-deficient mutant) |
 
 ## Expression and Purification
 
@@ -33,7 +33,7 @@ PCAT1 is a peptidase-containing ATP-binding cassette (ABC) transporter from Clos
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

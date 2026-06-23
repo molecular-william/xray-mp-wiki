@@ -1,5 +1,5 @@
 ---
-title: Human Orexin 1 Receptor
+title: "Human Orexin 1 Receptor"
 created: 2026-05-29
 updated: 2026-05-29
 type: protein

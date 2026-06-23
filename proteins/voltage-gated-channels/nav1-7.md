@@ -1,5 +1,5 @@
 ---
-title: Human Nav1.7 Voltage-Gated Sodium Channel
+title: "Human Nav1.7 Voltage-Gated Sodium Channel"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -36,7 +36,7 @@ Nav1.7 (encoded by SCN9A) is a voltage-gated sodium channel isoform highly expre
 - **Expression system**: HEK293 cells
 - **Expression construct**: Nav1.7 VSD4-[NAVAB](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) chimeric protein
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

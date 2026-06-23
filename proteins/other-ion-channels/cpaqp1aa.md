@@ -1,5 +1,5 @@
 ---
-title: cpAQP1aa (Climbing Perch Aquaporin 1aa)
+title: "cpAQP1aa (Climbing Perch Aquaporin 1aa)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -33,14 +33,14 @@ comparable to human AQP4.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.26508##lsa.202201491 |  | 1.9 | P42₁2 | C-terminally truncated cpAQP1aa (residues 1-243, untagged), expressed in Pichia pastoris |  |
-| doi/10.26508##lsa.202201491 |  | 3.5 | C222₁ | C-terminally truncated cpAQP1aa (residues 1-243), expressed in Pichia pastoris |  |
+| doi/10.26508##lsa.202201491 | 7W7S | 1.9 | P42₁2 | C-terminally truncated cpAQP1aa (residues 1-243, untagged), expressed in Pichia pastoris |  |
+| doi/10.26508##lsa.202201491 | 7W7S | 3.5 | C222₁ | C-terminally truncated cpAQP1aa (residues 1-243), expressed in Pichia pastoris |  |
 
 ## Expression and Purification
 
 - **Expression system**: Pichia pastoris (methylotrophic yeast)
 - **Construct**: Full-length cpAQP1aa (residues 1-261) with C-terminal 8xHis tag; truncated cpAQP1aa-243 (residues 1-243) both with and without C-terminal 8xHis tag
-- **Notes**: Codon-optimized for P. pastoris. GCT added after start codon for Kozak consensus. Gene subcloned into pPICZA vector, transformed into aquaporin-deficient Delta33 strain by electroporation. Large-scale production in 3L fermentors with [Methanol](/xray-mp-wiki/reagents/methanol/) fed-batch induction. Yield >250 g wet cells/L culture; 63 mg purified protein/L culture.
+- **Notes**: Codon-optimized for P. pastoris. GCT added after start codon for Kozak consensus. Gene subcloned into pPICZA vector, transformed into aquaporin-deficient Delta33 strain by electroporation. Large-scale production in 3L fermentors with [Methanol](/xray-mp-wiki/reagents/additives/methanol/) fed-batch induction. Yield >250 g wet cells/L culture; 63 mg purified protein/L culture.
 
 ### Purification Workflow
 
@@ -48,7 +48,7 @@ comparable to human AQP4.
 - **Expression construct**: cpAQP1aa-243 (untagged)
 - **Tag info**: Untagged
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ comparable to human AQP4.
 - **Expression construct**: His-tagged cpAQP1aa-243
 - **Tag info**: C-terminal 8xHis tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -139,6 +139,6 @@ constriction is unaffected by pH changes.
 - [SoPIP2;1 (Spinach Plasma Membrane Aquaporin)](/xray-mp-wiki/proteins/other-ion-channels/so-pip2-1/) — Similar phosphorylation-dependent gating mechanism proposed for cpAQP1aa; loop D gating in SoPIP2;1 provides comparative model
 - [Human Aquaporin 4](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-4/) — Used as functional comparison for water permeability measurements; hAQP4 has a fully open pore with higher water transport rate
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Referenced in the context of Glycerol
-- [Methanol](/xray-mp-wiki/reagents/methanol/) — Referenced in the context of Methanol
+- [Methanol](/xray-mp-wiki/reagents/additives/methanol/) — Referenced in the context of Methanol
 - [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) — Referenced in the context of Tris Hcl
 - [MES](/xray-mp-wiki/reagents/buffers/mes/) — Referenced in the context of MES

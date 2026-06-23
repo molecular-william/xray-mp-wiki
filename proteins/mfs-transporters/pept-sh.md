@@ -1,5 +1,5 @@
 ---
-title: PepT_Sh — SLC15/POT Family Peptide Transporter from Staphylococcus hominis
+title: "PepT_Sh — SLC15/POT Family Peptide Transporter from Staphylococcus hominis"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -17,7 +17,7 @@ verified: false
 PepT_Sh is a prokaryotic homolog of the mammalian proton-coupled oligopeptide transporters
 PepT1 (SLC15A1) and PepT2 (SLC15A2), identified from *Staphylococcus hominis*. It belongs to
 the POT (Proton-coupled Oligopeptide Transporter) family within the Major Facilitator
-Superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/)) of secondary active transporters. PepT_Sh uses the proton electrochemical
+Superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/)) of secondary active transporters. PepT_Sh uses the proton electrochemical
 gradient to drive concentrative uptake of di- and tripeptides and has proven capable of
 recognizing and transporting prodrug molecules including the antiviral prodrug [Valacyclovir](/xray-mp-wiki/reagents/ligands/valacyclovir/)
 and the photodynamic therapy agent 5-aminolevulinic acid. Crystal structures of PepT_Sh in
@@ -46,7 +46,7 @@ acid scaffold and ester bond interactions with conserved residues.
 - **Expression system**: Not detailed (referenced to ref 22)
 - **Expression construct**: PepT_Sh full-length
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ the human-specific malodour precursor.
 - [5-Aminolevulinic Acid](/xray-mp-wiki/reagents/ligands/5-aminolevulinic-acid/) — Photodynamic therapy agent co-crystallized with PepT_Sh
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used for in meso crystallization of PepT_Sh
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Method used for PepT_Sh crystallization
-- [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — Related biological concept
+- [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — Related biological concept
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [DTPB](/xray-mp-wiki/proteins/mfs-transporters/dtpb/) — Related protein structure
 - [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers

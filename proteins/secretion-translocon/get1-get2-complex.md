@@ -1,5 +1,5 @@
 ---
-title: Get1/Get2 GET Insertase Complex
+title: "Get1/Get2 GET Insertase Complex"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -38,7 +38,7 @@ The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane prot
 - **Expression construct**: Get1/Get2 complex with C-terminal tags
 - **Tag info**: His6-tag or Strep-tag II, cleavable
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

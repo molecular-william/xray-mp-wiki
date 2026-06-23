@@ -57,11 +57,11 @@ conformational flexibility required for this switching.
 - [Sav1866 Multidrug ABC Transporter](/xray-mp-wiki/proteins/abc-transporters/sav1866/) — Sav1866 from S. aureus captured in the outward-facing ATP-bound conformation (PDB 2HYD, 3.0 Å), providing the first high-resolution structural evidence for the alternating access mechanism in ABC exporters. The NBD dimer closure upon ATP binding is coupled to opening of the TMDs toward the extracellular space.
 
 ## Related Concepts
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — MFS transporters, including LtaA, operate via the alternating access mechanism
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — MFS transporters, including LtaA, operate via the alternating access mechanism
 - [Ca2+:Cation Antiporter (CaCA) Superfamily](/xray-mp-wiki/concepts/transport-mechanisms/caca-superfamily/) — CaCA superfamily transporters, including Vcx1, operate via an alternating access mechanism driven by M1/M6 helix translation
 
 ## Cross-References
 - [LtaA — S. aureus Lipid-Linked Disaccharide Flippase](/xray-mp-wiki/proteins/mfs-transporters/ltaa/) — LtaA exemplifies the alternating access mechanism for lipid flipping
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — MFS transporters employ alternating access as their core transport mechanism
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — MFS transporters employ alternating access as their core transport mechanism
 - [Vcx1 (S. cerevisiae Ca2+/H+ Exchanger)](/xray-mp-wiki/proteins/slc-transporters/vcx1/) — Vcx1 structure demonstrates the alternating access mechanism in the CaCA superfamily via M1/M6 piston-like motion
 - [Ca2+:Cation Antiporter (CaCA) Superfamily](/xray-mp-wiki/concepts/transport-mechanisms/caca-superfamily/) — The CaCA superfamily uses alternating access for Ca2+ transport across membranes

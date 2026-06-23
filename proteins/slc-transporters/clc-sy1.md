@@ -1,5 +1,5 @@
 ---
-title: CLC-sy1 (CLC Cl-/H+ Antiporter from Synechocystis sp. PCC6803)
+title: "CLC-sy1 (CLC Cl-/H+ Antiporter from Synechocystis sp. PCC6803)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ CLC-sy1 (SY) is a CLC Cl-/H+ exchange transporter from the cyanobacterium Synech
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

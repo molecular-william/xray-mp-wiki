@@ -1,5 +1,5 @@
 ---
-title: Human AE1 Anion Exchanger (Band 3) - C-Terminal Membrane Domain
+title: "Human AE1 Anion Exchanger (Band 3) - C-Terminal Membrane Domain"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ Human AE1 (anion exchanger 1, also known as Band 3) is the most abundant membran
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.aaa4335 | — | 3.5 | — | AE1_CTD (residues 381-887), N-terminally cleaved by [Trypsin](/xray-mp-wiki/reagents/additives/trypsin/) | [H2DIDS (4,4-Diisothiocyanatodihydro-stilbene-2,2-disulfonic acid)](/xray-mp-wiki/reagents/additives/h2dids/) |
+| doi/10.1126##science.aaa4335 | 4YZF | 3.5 | — | AE1_CTD (residues 381-887), N-terminally cleaved by [Trypsin](/xray-mp-wiki/reagents/additives/trypsin/) | [H2DIDS (4,4-Diisothiocyanatodihydro-stilbene-2,2-disulfonic acid)](/xray-mp-wiki/reagents/additives/h2dids/) |
 
 ## Expression and Purification
 
@@ -35,7 +35,7 @@ Human AE1 (anion exchanger 1, also known as Band 3) is the most abundant membran
 - **Expression construct**: Full-length AE1, C-terminal domain cleaved by [Trypsin](/xray-mp-wiki/reagents/additives/trypsin/)
 - **Tag info**: No affinity tag used (native purification)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

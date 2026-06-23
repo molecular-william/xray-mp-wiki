@@ -1,5 +1,5 @@
 ---
-title: GABARAP (Gamma-aminobutyric Acid Receptor-Associated Protein)
+title: "GABARAP (Gamma-aminobutyric Acid Receptor-Associated Protein)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -28,7 +28,7 @@ complex was determined At 2.0 A resolution.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.2006997117 |  | 2.0 |  | GABARAP In complex with [STX17](/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/) LIR SLC6 Substrate Recognition by the GMG Motif (residues 167-188) | none |
+| doi/10.1073##pnas.2006997117 | 7BV6 | 2.0 |  | GABARAP In complex with [STX17](/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/) LIR SLC6 Substrate Recognition by the GMG Motif (residues 167-188) | none |
 
 ## Expression and Purification
 

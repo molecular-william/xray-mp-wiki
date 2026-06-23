@@ -1,5 +1,5 @@
 ---
-title: Interleukin-17 Receptor C (IL-17RC)
+title: "Interleukin-17 Receptor C (IL-17RC)"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -35,7 +35,7 @@ IL-17RC is a single-pass type I transmembrane glycoprotein and a member of the i
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

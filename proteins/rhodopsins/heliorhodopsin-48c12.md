@@ -1,5 +1,5 @@
 ---
-title: Heliorhodopsin 48C12 from actinobacterial fosmid (Lake Kinneret)
+title: "Heliorhodopsin 48C12 from actinobacterial fosmid (Lake Kinneret)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -34,7 +34,7 @@ HeR-48C12 is a bacterial heliorhodopsin (HeR) discovered in an actinobacterial f
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

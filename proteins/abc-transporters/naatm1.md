@@ -1,5 +1,5 @@
 ---
-title: NaAtm1 ABC Exporter from Novosphingobium aromaticivorans
+title: "NaAtm1 ABC Exporter from Novosphingobium aromaticivorans"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,15 +21,15 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.2006526117 |  | 3.7 |  | NaA527C mutant with MgADP (state | MgADP |
-| doi/10.1073##pnas.2006526117 |  | 3.7 |  | NaA527C mutant with MgADP (state | MgADP |
-| doi/10.1073##pnas.2006526117 |  | 3.4 |  | NaS526C mutant with ATP | ATP |
-| doi/10.1073##pnas.2006526117 |  | 3.4 |  | NaT525C mutant with ATP | ATP |
-| doi/10.1073##pnas.2006526117 |  | 3.3 |  | NaE523Q (Walker-B mutant) with ATP | ATP |
-| doi/10.1073##pnas.2006526117 |  |  |  | Wild-type NaAtm1 with MgAMPPNP | MgAMPPNP |
-| doi/10.1073##pnas.2006526117 |  |  |  | Wild-type NaAtm1 with MgADPVO4 ([Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/)) | MgADPVO4, [POPC](/xray-mp-wiki/reagents/lipids/popc/) nanodisc |
-| doi/10.1073##pnas.2006526117 |  |  |  | Wild-type NaAtm1 wide-open inward-facing ([Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/)) | [POPC](/xray-mp-wiki/reagents/lipids/popc/) nanodisc |
-| doi/10.1126##science.1246489 | — | 2.40 | — | Full-length NaAtm1 | GSSG |
+| doi/10.1073##pnas.2006526117 | 6PAM | 3.7 |  | NaA527C mutant with MgADP (state | MgADP |
+| doi/10.1073##pnas.2006526117 | 6PAM | 3.7 |  | NaA527C mutant with MgADP (state | MgADP |
+| doi/10.1073##pnas.2006526117 | 6PAM | 3.4 |  | NaS526C mutant with ATP | ATP |
+| doi/10.1073##pnas.2006526117 | 6PAM | 3.4 |  | NaT525C mutant with ATP | ATP |
+| doi/10.1073##pnas.2006526117 | 6PAM | 3.3 |  | NaE523Q (Walker-B mutant) with ATP | ATP |
+| doi/10.1073##pnas.2006526117 | 6PAM |  |  | Wild-type NaAtm1 with MgAMPPNP | MgAMPPNP |
+| doi/10.1073##pnas.2006526117 | 6PAM |  |  | Wild-type NaAtm1 with MgADPVO4 ([Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/)) | MgADPVO4, [POPC](/xray-mp-wiki/reagents/lipids/popc/) nanodisc |
+| doi/10.1073##pnas.2006526117 | 6PAM |  |  | Wild-type NaAtm1 wide-open inward-facing ([Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/)) | [POPC](/xray-mp-wiki/reagents/lipids/popc/) nanodisc |
+| doi/10.1126##science.1246489 | 4MRN | 2.40 | — | Full-length NaAtm1 | GSSG |
 
 ## Expression and Purification
 
@@ -41,7 +41,7 @@ NaAtm1 is an Atm1/ABCB7/HMT1/ABCB6-family ABC exporter from the Gram-negative ba
 
 - **Expression system**: E. coli
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

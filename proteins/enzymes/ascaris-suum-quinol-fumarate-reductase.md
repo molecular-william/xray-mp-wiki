@@ -1,5 +1,5 @@
 ---
-title: Ascaris suum Quinol-Fumarate Reductase (QFR)
+title: "Ascaris suum Quinol-Fumarate Reductase (QFR)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -31,7 +31,7 @@ The X-ray crystal structure of mitochondrial quinol–fumarate reductase (QFR) f
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Mep2 Ammonium Transceptor (S. cerevisiae and C. albicans)
+title: "Mep2 Ammonium Transceptor (S. cerevisiae and C. albicans)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -35,7 +35,7 @@ Mep2 (methylammonium permease) proteins are fungal ammonium transceptors that fu
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

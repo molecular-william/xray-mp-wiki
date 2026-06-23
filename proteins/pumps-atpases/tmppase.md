@@ -1,5 +1,5 @@
 ---
-title: TmPPase (Thermotoga maritima H+-Pumping Pyrophosphatase)
+title: "TmPPase (Thermotoga maritima H+-Pumping Pyrophosphatase)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -21,13 +21,13 @@ TmPPase (H+-pumping inorganic pyrophosphatase from Thermotoga maritima) is a mem
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##ncomms13596 | Not specified (supplementary only) | Not specified (supplementary only) | Not specified (supplementary only) |  | [IDP](/xray-mp-wiki/reagents/ligands/idp/) (inositol pyrophosphate) |
-| doi/10.1038##ncomms13596 | Not specified (supplementary only) | Not specified (supplementary only) | Not specified (supplementary only) |  | Ca:Mg |
-| doi/10.1038##ncomms13596 | Not specified (supplementary only) | Not specified (supplementary only) | Not specified (supplementary only) |  | WO4 ([Tungstate (WO4 2-)](/xray-mp-wiki/reagents/ligands/tungstate/)) |
-| doi/10.1038##ncomms13596 | Not specified (supplementary only) | Not specified (supplementary only) | Not specified (supplementary only) |  | Pi2 (product) |
-| doi/10.1126##science.1222505 | Not specified | Not specified | Not specified |  | Ca:Mg |
-| doi/10.1126##science.1222505 | Not specified | Not specified | Not specified |  | Pi (product) |
-| doi/10.1126##science.1222505 | Not specified | Not specified | Not specified |  | WO4 ([Tungstate (WO4 2-)](/xray-mp-wiki/reagents/ligands/tungstate/)) |
+| doi/10.1038##ncomms13596 |  | Not specified (supplementary only) | Not specified (supplementary only) |  | [IDP](/xray-mp-wiki/reagents/ligands/idp/) (inositol pyrophosphate) |
+| doi/10.1038##ncomms13596 |  | Not specified (supplementary only) | Not specified (supplementary only) |  | Ca:Mg |
+| doi/10.1038##ncomms13596 |  | Not specified (supplementary only) | Not specified (supplementary only) |  | WO4 ([Tungstate (WO4 2-)](/xray-mp-wiki/reagents/ligands/tungstate/)) |
+| doi/10.1038##ncomms13596 |  | Not specified (supplementary only) | Not specified (supplementary only) |  | Pi2 (product) |
+| doi/10.1126##science.1222505 | 4AV3 | Not specified | Not specified |  | Ca:Mg |
+| doi/10.1126##science.1222505 | 4AV3 | Not specified | Not specified |  | Pi (product) |
+| doi/10.1126##science.1222505 | 4AV3 | Not specified | Not specified |  | WO4 ([Tungstate (WO4 2-)](/xray-mp-wiki/reagents/ligands/tungstate/)) |
 
 ## Expression and Purification
 

@@ -1,5 +1,5 @@
 ---
-title: PfHT1 (Plasmodium falciparum Hexose Transporter 1)
+title: "PfHT1 (Plasmodium falciparum Hexose Transporter 1)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -16,7 +16,7 @@ verified: false
 
 PfHT1 (PF3D7_0204700) is the sole hexose transporter in Plasmodium falciparum,
 the deadliest species of malaria parasite. It is a member of the major facilitator
-superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/)) and is essential for the survival of the blood-stage parasite by
+superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/)) and is essential for the survival of the blood-stage parasite by
 importing D-[Glucose](/xray-mp-wiki/reagents/additives/glucose/) as the primary energy source. The crystal structure of PfHT1
 in complex with D-[Glucose](/xray-mp-wiki/reagents/additives/glucose/) was determined at 3.6 A resolution (Qureshi et al., Nature
 2020, PDB 6RW3), revealing a fully occluded conformation with TM7b positioned as an

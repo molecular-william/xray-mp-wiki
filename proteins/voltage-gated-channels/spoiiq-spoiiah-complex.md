@@ -1,5 +1,5 @@
 ---
-title: SpoIIQ-SpoIIIAH Intercellular Channel Complex from Bacillus subtilis
+title: "SpoIIQ-SpoIIIAH Intercellular Channel Complex from Bacillus subtilis"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,8 +31,8 @@ for late-stage gene expression during sporulation.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1120087109 | Not deposited in PDB (per paper) | 2.75 A | Not specified | SpoIIQ(43-283) + SpoIIIAH(32-218) complex | none (apo) |
-| doi/10.1073##pnas.1120113109 | Not deposited in PDB (per paper) | 2.8 A | P2_12_12_1 | SpoIIQ(73-220) + SpoIIIAH(90-218) truncated complex | none (apo) |
+| doi/10.1073##pnas.1120087109 | 3TUF | 2.75 A | Not specified | SpoIIQ(43-283) + SpoIIIAH(32-218) complex | none (apo) |
+| doi/10.1073##pnas.1120113109 | 3UZ0 | 2.8 A | P2_12_12_1 | SpoIIQ(73-220) + SpoIIIAH(90-218) truncated complex | none (apo) |
 
 ## Expression and Purification
 
@@ -41,13 +41,13 @@ for late-stage gene expression during sporulation.
 
 ### Purification Workflow
 
-*Source: doi/10.1073##pnas.1120087109*
+#### Source: doi/10.1073##pnas.1120087109
 
 - **Expression system**: E. coli
 - **Expression construct**: SpoIIQ(43-283) and SpoIIIAH(32-218) with N-terminal cleavable [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag/)
 - **Tag info**: [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag/), removed by [HRV 3C Protease](/xray-mp-wiki/reagents/additives/hrv-3c-protease/) leaving residual GPA tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -55,15 +55,13 @@ for late-stage gene expression during sporulation.
 | Tag cleavage | Proteolytic digestion | Not specified | Not specified + Not specified | [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag/) removed by [HRV 3C Protease](/xray-mp-wiki/reagents/additives/hrv-3c-protease/) |
 | Gel filtration | [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | Superdex S200 | Not specified + Not specified | Purification of complex by SEC-MALLS; Superdex S200 10/300 column |
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.1120113109*
+#### Source: doi/10.1073##pnas.1120113109
 
 - **Expression system**: E. coli
 - **Expression construct**: SpoIIQ(73-220) and SpoIIIAH(90-218) truncated constructs
 - **Tag info**: Not specified
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -162,7 +160,7 @@ for a structural/scaffolding role.
 - [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Gel filtration used for complex purification and SEC-MALLS analysis
 - [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Crystallization method for the SpoIIQ-SpoIIIAH complex
 - [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate/) — Sodium acetate pH 4.5 used as crystallization reservoir buffer
-- [Nickel-NTA (Ni-NTA) Resin](/xray-mp-wiki/reagents/protein-tags/nickel-nta/) — Nickel affinity resin used for His6-tagged protein purification
+- [Nickel-NTA (Ni-NTA) Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) — Nickel affinity resin used for His6-tagged protein purification
 - [Polyethylene Glycol 400 (PEG400)](/xray-mp-wiki/reagents/additives/peg-400/) — PEG 400 used as precipitant in crystallization reservoir
 - [HRV 3C Protease](/xray-mp-wiki/reagents/additives/hrv-3c-protease/) — Additive used in purification or crystallization buffers
 - [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers

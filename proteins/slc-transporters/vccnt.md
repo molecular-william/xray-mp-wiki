@@ -1,5 +1,5 @@
 ---
-title: vcCNT (Vibrio cholerae Concentrative Nucleoside Transporter)
+title: "vcCNT (Vibrio cholerae Concentrative Nucleoside Transporter)"
 created: 2026-06-21
 updated: 2026-06-21
 type: protein
@@ -35,7 +35,7 @@ vcCNT is a concentrative nucleoside transporter from Vibrio cholerae, a member o
 - **Expression construct**: vcCNT with N-terminal His10-MBP fusion (cleavable by PreScission Protease)
 - **Tag info**: His10-MBP fusion, cleaved with PreScission Protease
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

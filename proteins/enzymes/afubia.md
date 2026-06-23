@@ -1,5 +1,5 @@
 ---
-title: AfUbiA - Archaeoglobus fulgidus UbiA Family Prenyltransferase
+title: "AfUbiA - Archaeoglobus fulgidus UbiA Family Prenyltransferase"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,9 +21,9 @@ AfUbiA is a membrane-embedded prenyltransferase from the archaeon *Archaeoglobus
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1371##journal.pbio.1001911 |  | 2.5 | — | Full-length AfUbiA with N-terminal polyhistidine tag (removed) | [GPP](/xray-mp-wiki/reagents/ligands/gpp/) (geranyl diphosphate) |
-| doi/10.1371##journal.pbio.1001911 |  | 2.4 | — | Full-length AfUbiA with N-terminal polyhistidine tag (removed) | [DMAPP](/xray-mp-wiki/reagents/dmapp/) (dimethylallyl diphosphate) |
-| doi/10.1371##journal.pbio.1001911 |  | 3.2 | — | Full-length AfUbiA with N-terminal polyhistidine tag (removed), [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/)-substituted |  |
+| doi/10.1371##journal.pbio.1001911 | 4TQ3 | 2.5 | — | Full-length AfUbiA with N-terminal polyhistidine tag (removed) | [GPP](/xray-mp-wiki/reagents/additives/gpp/) (geranyl diphosphate) |
+| doi/10.1371##journal.pbio.1001911 | 4TQ3 | 2.4 | — | Full-length AfUbiA with N-terminal polyhistidine tag (removed) | [DMAPP](/xray-mp-wiki/reagents/additives/dmapp/) (dimethylallyl diphosphate) |
+| doi/10.1371##journal.pbio.1001911 | 4TQ3 | 3.2 | — | Full-length AfUbiA with N-terminal polyhistidine tag (removed), [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/)-substituted |  |
 
 ## Expression and Purification
 
@@ -36,7 +36,7 @@ AfUbiA is a membrane-embedded prenyltransferase from the archaeon *Archaeoglobus
 - **Expression system**: E. coli BL21(DE3)
 - **Expression construct**: N-terminal polyhistidine tag (cleavable by TEV protease)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ AfUbiA is a membrane-embedded prenyltransferase from the archaeon *Archaeoglobus
 | Temperature | 20 |
 | Growth time | 2 weeks |
 | Cryoprotection | None (LCP crystals flash frozen directly) |
-| Notes | Crystals soaked in 1 mM [GPP](/xray-mp-wiki/reagents/ligands/gpp/) or 1 mM [DMAPP](/xray-mp-wiki/reagents/dmapp/) before harvesting; LCP crystals do not require additional cryoprotectant |
+| Notes | Crystals soaked in 1 mM [GPP](/xray-mp-wiki/reagents/additives/gpp/) or 1 mM [DMAPP](/xray-mp-wiki/reagents/additives/dmapp/) before harvesting; LCP crystals do not require additional cryoprotectant |
 
 | Parameter | Value |
 |---|---|
@@ -99,9 +99,9 @@ Despite negligible sequence identity, the four-helix bundles of AfUbiA (helices 
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein mentioned in the study
 - [ELIC (Erwinia chrysanthemi Pentameric Ligand-Gated Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/elic/) — Related protein mentioned in the study
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Reagent used in the study
-- [Geranyl Diphosphate (GPP)](/xray-mp-wiki/reagents/ligands/gpp/) — Reagent used in the study
+- [Geranyl Diphosphate (GPP)](/xray-mp-wiki/reagents/additives/gpp/) — Reagent used in the study
 - [IPTG (Isopropyl-beta-D-thiogalactopyranoside)](/xray-mp-wiki/reagents/additives/iptg/) — Reagent used in the study
-- [PEG 2000](/xray-mp-wiki/reagents/peg2000/) — Reagent used in the study
+- [PEG 2000](/xray-mp-wiki/reagents/additives/peg2000/) — Reagent used in the study
 - [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — Detergent used in purification
 - [beta-Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/) — Reagent used in the study
 - [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) — Reagent used in the study

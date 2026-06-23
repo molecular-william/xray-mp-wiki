@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/abc-transporters/acrB/ | 0.01-4 g/L (growth experiments) | Growth experiments with yajc-deleted E. coli in the presence of nafcillin | Yajc-deleted strain showed enhanced nafcillin sensitivity, though the magnitude did not scale with the relative [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) transport affinity compared to [Ampicillin](/xray-mp-wiki/reagents/antibiotics/ampicillin/) |
+| /xray-mp-wiki/proteins/abc-transporters/acrb/ | 0.01-4 g/L (growth experiments) | Growth experiments with yajc-deleted E. coli in the presence of nafcillin | Yajc-deleted strain showed enhanced nafcillin sensitivity, though the magnitude did not scale with the relative [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) transport affinity compared to [Ampicillin](/xray-mp-wiki/reagents/antibiotics/ampicillin/) |
 
 ## Binding Mode
 
@@ -47,8 +47,8 @@ No comparison data available.
 
 ## Cross-References
 
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Nafcillin is a substrate for AcrB efflux pump; growth experiments with delta-acrb and delta-yajc strains
-- [Ampicillin](/xray-mp-wiki/reagents/ligands/ampicillin/) — Beta-lactam antibiotic that also binds to AcrB; growth experiments compared ampicillin and nafcillin susceptibility
+- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Nafcillin is a substrate for AcrB efflux pump; growth experiments with delta-acrb and delta-yajc strains
+- [Ampicillin](/xray-mp-wiki/reagents/antibiotics/ampicillin/) — Beta-lactam antibiotic that also binds to AcrB; growth experiments compared ampicillin and nafcillin susceptibility
 - [E. coli YajC Transmembrane Protein](/xray-mp-wiki/proteins/abc-transporters/yajc/) — yajc deletion showed enhanced nafcillin susceptibility
 - [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Related protein structure
 - [Ampicillin](/xray-mp-wiki/reagents/antibiotics/ampicillin/) — Antibiotic used in selection

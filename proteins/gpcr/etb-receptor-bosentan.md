@@ -1,5 +1,5 @@
 ---
-title: Human Endothelin ETB Receptor Bound to Bosentan
+title: "Human Endothelin ETB Receptor Bound to Bosentan"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -32,7 +32,7 @@ The human endothelin ETB receptor is a class A G-protein-coupled receptor (GPCR)
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

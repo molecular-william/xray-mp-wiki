@@ -1,5 +1,5 @@
 ---
-title: Ks-Amt5 Ammonium Sensor Histidine Kinase from Candidatus Kuenenia stuttgartiensis
+title: "Ks-Amt5 Ammonium Sensor Histidine Kinase from Candidatus Kuenenia stuttgartiensis"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -35,7 +35,7 @@ Ks-Amt5 (gene locus kust_3690) from the anammox bacterium "Candidatus Kuenenia s
 - **Expression construct**: Full-length Ks-Amt5 with C-terminal His6-tag
 - **Tag info**: C-terminal His6-tag (via LE linker)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Human mGlu1 Receptor 7TM Domain (Metabotropic Glutamate Receptor 1)
+title: "Human mGlu1 Receptor 7TM Domain (Metabotropic Glutamate Receptor 1)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ The human mGlu1 (metabotropic glutamate receptor 1) is a class C G protein-coupl
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.1249489 | -- | 2.80 | -- | Human mGlu1 7TM domain (residues 581-860) with [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) N-terminal fusion | FITM (4-fluoro-N-(4-(6-(isopropylamino)pyrimidin-4-yl)thiazol-2-yl)-N-methylbenzamide) — negative allosteric modulator |
+| doi/10.1126##science.1249489 | 4OR2 | 2.80 | -- | Human mGlu1 7TM domain (residues 581-860) with [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) N-terminal fusion | FITM (4-fluoro-N-(4-(6-(isopropylamino)pyrimidin-4-yl)thiazol-2-yl)-N-methylbenzamide) — negative allosteric modulator |
 
 ## Expression and Purification
 
@@ -33,7 +33,7 @@ The human mGlu1 (metabotropic glutamate receptor 1) is a class C G protein-coupl
 - **Expression system**: Not specified in raw text
 - **Expression construct**: mGlu1 7TM domain (581-860) with [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) fusion
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

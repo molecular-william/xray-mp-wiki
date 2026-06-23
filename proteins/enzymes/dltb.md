@@ -1,5 +1,5 @@
 ---
-title: DltB (Membrane-Bound O-Acyltransferase)
+title: "DltB (Membrane-Bound O-Acyltransferase)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -32,7 +32,7 @@ DltB is a membrane-bound O-acyltransferase (MBOAT) from Streptococcus thermophil
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

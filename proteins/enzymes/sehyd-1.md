@@ -1,5 +1,5 @@
 ---
-title: Salmonella enterica Hydrogenase 1 (SeHyd-1)
+title: "Salmonella enterica Hydrogenase 1 (SeHyd-1)"
 created: 2026-05-28
 updated: 2026-05-28
 type: protein
@@ -21,7 +21,7 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.str.2012.11.010 | not specified | not specified | not specified | SeHyd-1 | [Fe4S3] cluster, NiFe active site |
+| doi/10.1016##j.str.2012.11.010 | 4GD3 | not specified | not specified | SeHyd-1 | [Fe4S3] cluster, NiFe active site |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ SeHyd-1 is an O2-tolerant membrane-bound hydrogenase from the prevalent human pa
 
 - **Expression system**: Salmonella enterica serovar Typhimurium
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

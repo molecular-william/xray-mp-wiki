@@ -1,5 +1,5 @@
 ---
-title: Ryanodine Receptor Type 3 (RyR3)
+title: "Ryanodine Receptor Type 3 (RyR3)"
 created: 2026-06-05
 updated: 2026-06-05
 type: protein

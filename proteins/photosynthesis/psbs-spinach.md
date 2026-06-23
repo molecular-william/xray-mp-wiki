@@ -1,5 +1,5 @@
 ---
-title: PsbS from Spinach (Spinacia oleracea)
+title: "PsbS from Spinach (Spinacia oleracea)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -36,7 +36,7 @@ PsbS is a photosystem II protein essential for qE-type non-photochemical quenchi
 - **Expression system**: Native (spinach)
 - **Expression construct**: PsbS from BBY membranes
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

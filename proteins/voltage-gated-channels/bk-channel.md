@@ -1,5 +1,5 @@
 ---
-title: Human BK (Slo1/MaxiK) Large-Conductance Ca2+-Gated K+ Channel
+title: "Human BK (Slo1/MaxiK) Large-Conductance Ca2+-Gated K+ Channel"
 created: 2026-06-16
 updated: 2026-06-21
 type: protein
@@ -21,7 +21,7 @@ BK channels (also called MaxiK or Slo1, gene KCNMA1) are large-conductance Ca2+-
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1038##nature09252 | 3NAF | 3.10 | I422 | Human SLO1 (KCNMA1) intracellular domain residues 329-1113 (C-terminus), with N-terminal GCN4_LI leucine zipper fusion for crystallization | None (Ca2+-free state) |
-| doi/10.1038##nature10670 |  | 3.60 | P21212 | Zebrafish BK channel cytoplasmic domain residues 341-1060 with loop deletion (residues 839-872) | Ca2+ (Ca2+-bound open state) |
+| doi/10.1038##nature10670 | 3U6N | 3.60 | P21212 | Zebrafish BK channel cytoplasmic domain residues 341-1060 with loop deletion (residues 839-872) | Ca2+ (Ca2+-bound open state) |
 
 ## Expression and Purification
 
@@ -30,10 +30,10 @@ BK channels (also called MaxiK or Slo1, gene KCNMA1) are large-conductance Ca2+-
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature09252*
+#### Source: doi/10.1038##nature09252
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -44,15 +44,13 @@ BK channels (also called MaxiK or Slo1, gene KCNMA1) are large-conductance Ca2+-
 
 **Final sample**: Purified BK intracellular domain at approximately 7 mg/mL
 
-### Purification Workflow
-
-*Source: doi/10.1038##nature10670*
+#### Source: doi/10.1038##nature10670
 
 - **Expression system**: Escherichia coli
 - **Expression construct**: Zebrafish BK channel cytoplasmic domain (residues 341-1060) with loop deletion (839-872)
 - **Tag info**: Not specified
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

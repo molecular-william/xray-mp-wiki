@@ -1,5 +1,5 @@
 ---
-title: Yeast F1c10-ATP Synthase Subcomplex (Mg-ADP Inhibited)
+title: "Yeast F1c10-ATP Synthase Subcomplex (Mg-ADP Inhibited)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -22,7 +22,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1126##science.286.5445.1700 | 1qo1 | 3.9 |  | Saccharomyces cerevisiae F1c10 ATP synthase subcomplex (alpha3beta3gammadelta-epsilon plus c10-ring) with ADP and [AMP-PNP (Adenylyl Imidodiphosphate)](/xray-mp-wiki/reagents/ligands/amp-pnp/) | ADP, [AMP-PNP (Adenylyl Imidodiphosphate)](/xray-mp-wiki/reagents/ligands/amp-pnp/) |
-| doi/10.1074##jbc.m110.124529 |  | 3.43 | P21 | Saccharomyces cerevisiae F1c10-ATP synthase subcomplex (alpha3beta3gammadelta-epsilon plus c10-ring) with Mg-ADP, DCCD, and azide | Mg-ADP |
+| doi/10.1074##jbc.m110.124529 | 2WPD | 3.43 | P21 | Saccharomyces cerevisiae F1c10-ATP synthase subcomplex (alpha3beta3gammadelta-epsilon plus c10-ring) with Mg-ADP, DCCD, and azide | Mg-ADP |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ The F1c10 subcomplex of the Saccharomyces cerevisiae F1F0-ATP synthase includes 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

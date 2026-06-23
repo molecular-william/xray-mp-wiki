@@ -1,5 +1,5 @@
 ---
-title: Kir3.1-KirBac1.3 Chimeric GIRK Channel
+title: "Kir3.1-KirBac1.3 Chimeric GIRK Channel"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ The Kir3.1 (GIRK1) K+ channel is a G-protein-gated inward rectifier that partici
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##sj.emboj.7601828 | Not specified in text (2.2 Å structure) | 2.2 | P4 | Chimeric channel — N-terminal KirBac1.3 sequence (aa 1-23 + LV insertion) fused to mouse Kir3.1 (aa 41-82, 178-371) with M180A mutation; C-terminal His6-tag (VPRGSGGLEHHHHHH); thrombin-cleavable N-terminus; expressed in pET-28b(+) | Rb+ ions (7 sites from RbCl soak), nonylglucoside (detergent molecule at PIP2-binding site) |
+| doi/10.1038##sj.emboj.7601828 | 2QKS | 2.2 | P4 | Chimeric channel — N-terminal KirBac1.3 sequence (aa 1-23 + LV insertion) fused to mouse Kir3.1 (aa 41-82, 178-371) with M180A mutation; C-terminal His6-tag (VPRGSGGLEHHHHHH); thrombin-cleavable N-terminus; expressed in pET-28b(+) | Rb+ ions (7 sites from RbCl soak), nonylglucoside (detergent molecule at PIP2-binding site) |
 
 ## Expression and Purification
 
@@ -37,7 +37,7 @@ The Kir3.1 (GIRK1) K+ channel is a G-protein-gated inward rectifier that partici
 - **Expression construct**: Full-length chimera with C-terminal His6-tag in pET-28b(+)
 - **Tag info**: C-terminal His6-tag (VPRGSGGLEHHHHHH); N-terminal KirBac1.3 sequence removed by thrombin cleavage
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

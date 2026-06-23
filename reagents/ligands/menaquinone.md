@@ -36,7 +36,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Menaquinone-7 (MK-7)](/xray-mp-wiki/reagents/ligands/menaquinone-7/) — MK-7 is the 7-isoprenoid isoform; endogenous quinone of T. thermophilus
+- [Menaquinone-7 (MK-7)](/xray-mp-wiki/reagents/cofactors/menaquinone-7/) — MK-7 is the 7-isoprenoid isoform; endogenous quinone of T. thermophilus
 - [Ubiquinone (Coenzyme Q10)](/xray-mp-wiki/reagents/cofactors/ubiquinone/) — Similar quinone electron carrier with different side chain
 - [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) — Lipid-soluble pigment in photosynthetic complexes
 - [Polysulfide Reductase (PsrABC)](/xray-mp-wiki/proteins/enzymes/polysulfide-reductase/) — MK-7 is the natural quinone substrate for PsrABC

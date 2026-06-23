@@ -1,12 +1,12 @@
 ---
 title: Sodium Phosphate
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-16
 type: reagent
 category: reagents
 layout: default
 tags: [buffer-phosphate, subdirectory-buffers]
-sources: [doi/10.1038##NATURE06717, doi/10.1038##nature12648]
+sources: [doi/10.1006##jmbi.1999.3027, doi/10.1038##NATURE06717, doi/10.1038##nature12648]
 verified: false
 ---
 
@@ -14,15 +14,18 @@ verified: false
 
 ## Overview
 
-Sodium phosphate buffer is a widely used buffer system in protein crystallization and biochemistry. It is effective in the pH range of 5.8-8.0 and is commonly used as a crystallization reservoir component for membrane proteins.
-
+Sodium phosphate buffer at pH 5.6 was used at 3 M concentration as the reservoir/cryoprotectant solution for bacteriorhodopsin crystals grown in cubic lipid phase. It also served as the medium for octylglucoside during crystal washing.
 
 ## Properties
 
 
 ## Use in Membrane Protein Work
 
-No specific use cases documented.
+### Crystallization reservoir for bacteriorhodopsin
+
+3 M sodium phosphate at pH 5.6 was used as the reservoir solution for bacteriorhodopsin crystals grown in cubic lipid phase.
+
+
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |

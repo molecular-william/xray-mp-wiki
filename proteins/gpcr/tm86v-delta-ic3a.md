@@ -1,5 +1,5 @@
 ---
-title: NTSR1 TM86V-ΔIC3A Mutant
+title: "NTSR1 TM86V-ΔIC3A Mutant"
 created: 2026-06-05
 updated: 2026-06-05
 type: protein
@@ -21,9 +21,9 @@ verified: false
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##PNAS.1317903111 | Not specified (see main paper) | 3.26 A | Not specified | NTR1-TM86V-ΔIC3A: 11 point mutations (A86L, H103D, H105Y, A161V, R167L, R213L, V234L, I253A, H305R, F358V, S362A), ΔIC3A deletion of ICL3 and C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) after G390, expressed in E. coli
+| doi/10.1073##PNAS.1317903111 | 4BUO | 3.26 A | Not specified | NTR1-TM86V-ΔIC3A: 11 point mutations (A86L, H103D, H105Y, A161V, R167L, R213L, V234L, I253A, H305R, F358V, S362A), ΔIC3A deletion of ICL3 and C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) after G390, expressed in E. coli
  | [Neurotensin](/xray-mp-wiki/reagents/ligands/neurotensin/) |
-| doi/10.1073##PNAS.1317903111 | Not specified (see main paper) | 2.75 A | Not specified | NTR1-TM86V-ΔIC3B: 11 point mutations, ΔIC3B deletion of ICL3, expressed in E. coli
+| doi/10.1073##PNAS.1317903111 | 4BUO | 2.75 A | Not specified | NTR1-TM86V-ΔIC3B: 11 point mutations, ΔIC3B deletion of ICL3, expressed in E. coli
  | [Neurotensin](/xray-mp-wiki/reagents/ligands/neurotensin/) |
 
 ## Expression and Purification

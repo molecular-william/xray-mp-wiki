@@ -28,13 +28,13 @@ dyad in the transmembrane domain.
 
 
 ## Examples in Membrane Protein Work
-- [PbgA (YejM) Cardiolipin Transport Protein](/xray-mp-wiki/proteins/enzymes/pbgA/) (YejM) from Salmonella Typhimurium — Best-characterized DUF3413 family member. Full-length structure determined at 2.7 A (PDB 6V8Q). Functions as [Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) transporter regulated by PhoPQ. Conserved D104-H114 dyad suggests possible catalytic activity.
-- [PbgA (YejM) Cardiolipin Transport Protein](/xray-mp-wiki/proteins/enzymes/pbgA/) (YejM) from Escherichia coli — E. coli homolog of [PbgA (YejM) Cardiolipin Transport Protein](/xray-mp-wiki/proteins/enzymes/pbgA/). Periplasmic domain structure determined at 1.67 A. Shares the conserved DUF3413 TM domain with the D-X9-H motif.
+- [PbgA (YejM) Cardiolipin Transport Protein](/xray-mp-wiki/proteins/enzymes/pbgA-yejM/) (YejM) from Salmonella Typhimurium — Best-characterized DUF3413 family member. Full-length structure determined at 2.7 A (PDB 6V8Q). Functions as [Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) transporter regulated by PhoPQ. Conserved D104-H114 dyad suggests possible catalytic activity.
+- [PbgA (YejM) Cardiolipin Transport Protein](/xray-mp-wiki/proteins/enzymes/pbgA-yejM/) (YejM) from Escherichia coli — E. coli homolog of [PbgA (YejM) Cardiolipin Transport Protein](/xray-mp-wiki/proteins/enzymes/pbgA-yejM/). Periplasmic domain structure determined at 1.67 A. Shares the conserved DUF3413 TM domain with the D-X9-H motif.
 
 ## Related Concepts
 
 
 ## Cross-References
-- [PbgA (YejM) Cardiolipin Transport Protein](/xray-mp-wiki/proteins/enzymes/pbgA/) — PbgA is the structurally characterized prototype of the DUF3413 family
+- [PbgA (YejM) Cardiolipin Transport Protein](/xray-mp-wiki/proteins/enzymes/pbgA-yejM/) — PbgA is the structurally characterized prototype of the DUF3413 family
 - [Cardiolipin Transport in Gram-Negative Bacteria](/xray-mp-wiki/concepts/transport-mechanisms/cardiolipin-transport/) — DUF3413 family member PbgA mediates cardiolipin transport
 - [Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) — Additive used in purification or crystallization buffers

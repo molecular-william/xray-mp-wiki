@@ -1,5 +1,5 @@
 ---
-title: LmrP Multidrug Transporter from Lactococcus lactis
+title: "LmrP Multidrug Transporter from Lactococcus lactis"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -41,7 +41,7 @@ hydrophobic component to accommodate diverse substrates.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ Native mass spectrometry of LmrP reconstituted in DOPE/DOPG nanodiscs shows a ti
 
 ## Cross-References
 
-- [Major Facilitator Superfamily](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — LmrP is a prototypical MFS multidrug transporter
+- [Major Facilitator Superfamily](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — LmrP is a prototypical MFS multidrug transporter
 - [Antibiotic Efflux Pump](/xray-mp-wiki/concepts/transport-mechanisms/antibiotic-efflux-pump/) — LmrP is a multidrug efflux pump; the paper discusses mechanism of polyspecific drug export
 - [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — LmrP alternates between inward-open and outward-open states depending on protonation
 - [Substrate Polyspecificity in SMR Transporters](/xray-mp-wiki/concepts/transport-mechanisms/substrate-polyspecificity-smr-transporters/) — The embedded lipid mechanism proposed may relate to polyspecificity mechanisms across transporter families

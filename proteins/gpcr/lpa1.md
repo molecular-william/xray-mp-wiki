@@ -1,5 +1,5 @@
 ---
-title: Lysophosphatidic Acid Receptor 1 (LPA1)
+title: "Lysophosphatidic Acid Receptor 1 (LPA1)"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -32,7 +32,7 @@ Lysophosphatidic acid receptor 1 (LPA1, also known as LPAR1 or EDG2) is a class 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

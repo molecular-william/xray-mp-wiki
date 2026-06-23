@@ -59,5 +59,5 @@ No comparison data available.
 
 - [Drosophila melanogaster Dopamine Transporter](/xray-mp-wiki/proteins/slc-transporters/d-dat/) — Co-crystallized with dDAT_NET to reveal inhibitor binding in primary binding site
 - [Duloxetine](/xray-mp-wiki/reagents/ligands/duloxetine/) — Another SNRI; binds at subsite B and C with higher affinity
-- [Tramadol](/xray-mp-wiki/reagents/ligands/tramadol/) — Synthetic opioid inhibitor; binds primarily at subsite C
+- [Tramadol](/xray-mp-wiki/reagents/additives/tramadol/) — Synthetic opioid inhibitor; binds primarily at subsite C
 - [Nisoxetine](/xray-mp-wiki/reagents/ligands/nisoxetine/) — NET-specific inhibitor; binds at subsite B with higher affinity

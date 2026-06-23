@@ -1,12 +1,12 @@
 ---
-title: Na+,K+-ATPase from Squalus acanthias (Shark)
+title: "Na+,K+-ATPase from Squalus acanthias (Shark)"
 created: 2026-06-05
 updated: 2026-06-11
 type: protein
 category: proteins
 layout: default
 tags: [pump, membrane-protein, xray-crystallography]
-sources: [doi/10.1038##ncomms9004, doi/10.1073##pnas.0907054106, doi/10.1073##pnas.2123226119, doi/10.1038##nature07939]
+sources: [doi/10.1038##nature07939, doi/10.1038##ncomms9004, doi/10.1073##pnas.0907054106, doi/10.1073##pnas.2123226119]
 verified: false
 ---
 
@@ -22,14 +22,8 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
 |---|---|---|---|---|---|
 | doi/10.1038##ncomms9004 | 5AVQ | 2.9 | not specified | E2·MgF4²⁻·2K+ state (shark Na+,K+-ATPase) | K+, MgF4²⁻ |
 | doi/10.1038##ncomms9004 | 2ZXE | 2.4 | not specified | E2·MgF4²⁻·2K+ (shark, no ouabain) | K+, MgF4²⁻ |
-| doi/10.1038##ncomms9004 | 3A3Y | not specified | not specified | E2·MgF4²⁻·2K+ with ouabain | K+, MgF4²⁻, ouabain |
-| doi/10.1073##pnas.0907054106 | not stated in raw paper | 2.8 | C2 | Na+,K+-ATPase (shark) in E2·2K+·Pi analog state with bound ouabain | K+, MgF4²⁻, ouabain |
-| doi/10.1073##pnas.2123226119 | not specified | 3.4 | not specified | Shark Na+,K+-ATPase in E2P^ATP state (diprotomer) | ATP, Mg2+ |
-| doi/10.1073##pnas.2123226119 | not specified | 3.9 | not specified | Shark Na+,K+-ATPase in E2P^Pi·Mg2+ state (diprotomer) | Mg2+ (at site M and phosphorylation site) |
-| doi/10.1073##pnas.2123226119 | not specified | 3.9 | not specified | Shark Na+,K+-ATPase in E2P^ATP state with ouabain (OBN) | ATP, Mg2+, ouabain |
-| doi/10.1073##pnas.2123226119 | not specified | 3.9 | not specified | Shark Na+,K+-ATPase in E2P^Pi·Mg2+ state with ouabain (OBN) | Mg2+, ouabain |
-| doi/10.1073##pnas.2123226119 | not specified | 3.9 | not specified | Shark Na+,K+-ATPase in E2P^ATP state with istaroxime (IST) | ATP, Mg2+, istaroxime |
-| doi/10.1073##pnas.2123226119 | not specified | 3.9 | not specified | Shark Na+,K+-ATPase in E2P^Pi·Mg2+ state with istaroxime (IST) | Mg2+, istaroxime |
+| doi/10.1073##pnas.0907054106 | 3A3Y | 2.8 | C2 | Na+,K+-ATPase (shark) in E2·2K+·Pi analog state with bound ouabain | K+, MgF4²⁻, ouabain |
+| doi/10.1073##pnas.2123226119 | 7WYS | 3.9 | not specified | Shark Na+,K+-ATPase in E2P^Pi·Mg2+ state with istaroxime (IST) | Mg2+, istaroxime |
 
 ## Expression and Purification
 
@@ -39,7 +33,7 @@ Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -100,7 +94,7 @@ The original crystal structure of shark Na+,K+-ATPase was determined at 2.4 Å r
 
 ## Cross-References
 
-- [Ouabain](/xray-mp-wiki/reagents/additives/ouabain/) — Cardiotonic steroid inhibitor that binds extracellularly and suppresses K+ substitution
+- [Ouabain](/xray-mp-wiki/reagents/ligands/ouabain/) — Cardiotonic steroid inhibitor that binds extracellularly and suppresses K+ substitution
 - [2-Methyl-2,4-pentanediol (MPD)](/xray-mp-wiki/reagents/additives/2-methyl-2,4-pentanediol/) — Additive used in crystallization buffer
 - [Octaethyleneglycol mono-n-dodecylether (C12E8)](/xray-mp-wiki/reagents/detergents/octaethyleneglycol-mono-n-dodecylether-c12e8/) — Detergent used for solubilization
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Used in crystallization and purification buffers

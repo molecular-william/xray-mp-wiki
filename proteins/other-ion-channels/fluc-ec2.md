@@ -1,12 +1,12 @@
 ---
-title: Fluc-Ec2 Fluoride Channel
+title: "Fluc-Ec2 Fluoride Channel"
 created: 2026-06-10
 updated: 2026-06-08
 type: protein
 category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
-sources: [doi/10.7554##eLife.31259, doi/10.7554##eLife.69482]
+sources: [doi/10.1038##NATURE14981, doi/10.7554##eLife.18767, doi/10.7554##eLife.31259, doi/10.7554##eLife.69482]
 verified: false
 ---
 
@@ -31,6 +31,8 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 | doi/10.7554##eLife.69482 | 7KKB | 2.9 | P4_1 | Ec2 S81C [Rhodopsin N2C/D282C Mutant](/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/) with Br⁻ | Br⁻ |
 | doi/10.7554##eLife.69482 | 7KK8 | 2.7 | P4_1 | Ec2 S81T [Rhodopsin N2C/D282C Mutant](/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/) with Br⁻ | Br⁻ |
 | doi/10.7554##eLife.69482 | 7KK9 | 3.1 | P4_1 | Ec2 S81A/T82A [Rhodopsin N2C/D282C Mutant](/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/) with Br⁻ | Br⁻ |
+| doi/10.7554##eLife.18767 | 5kbn | 2.48 | P 41 | F80I mutant with [Monobody S9](/xray-mp-wiki/reagents/protein-tags/monobody-s9/) | F- |
+| doi/10.7554##eLife.18767 | 5kom | 2.69 | P 41 | F83I mutant with [Monobody S9](/xray-mp-wiki/reagents/protein-tags/monobody-s9/) | F- |
 
 ## Expression and Purification
 
@@ -39,13 +41,13 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 
 ### Purification Workflow
 
-*Source: doi/10.7554##eLife.31259*
+#### Source: doi/10.7554##eLife.31259
 
 - **Expression system**: E. coli BL21(DE3)
 - **Expression construct**: C-terminal hexahistidine tag, R25K mutation
 - **Tag info**: C-terminal His6, not removed
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -58,15 +60,13 @@ Fluc Family of Fluoride Ion Channels-Ec2 is a Ec2-specific Ion Ec2 from an E. co
 **Yield**: Comparable to WT Sf9 Insect Cell Expression System levels
 **Purity**: Monodisperse homodimers by gel filtration
 
-### Purification Workflow
-
-*Source: doi/10.7554##eLife.69482*
+#### Source: doi/10.7554##eLife.69482
 
 - **Expression system**: E. coli BL21(DE3)
 - **Expression construct**: C-terminal His-tag, R25K mutation (or R28K for Fluc-Bpe), C74A background for [AGGC](/xray-mp-wiki/reagents/ligands/n-acetyl-s-geranylgeranyl-l-cysteine/) mutants
 - **Tag info**: C-terminal His6
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ The Fluc Family of Fluoride Ion Channels Pore is densely packed with Side chains
 
 ### Vestibule anion-binding site on the fluoride permeation pathway
 
-An Multi-Wavelength Anomalous Diffraction Br⁻ soak identified a Non-specific [Human AE1 Anion Exchanger (Band 3) - C-Terminal Membrane Domain](/xray-mp-wiki/proteins/slc-transporters/human-ae1-anion-exchanger/) (Band 3) - C-Terminal Membrane Domain (Band 3) - C-Terminal Membrane Domain-AChBP Site At the bottom of the electropositive aqueous vestibule, coordinated by the [Conserved Core Triad in GPCR Activation](/xray-mp-wiki/concepts/signaling-receptors/conserved-core-triad/) in GPCR Activation in GPCR Activation Ser81 and Thr82 sidechains (Fluc-Ec2 numbering). This Site is adjacent to the E. coli Polar Lipids track Ec2 ions. Mutagenesis (S81A, S81T, S81C) and MTSES modification of an [Engineered Disulfide Bridge Conformational Trapping](/xray-mp-wiki/concepts/structural-mechanisms/engineered-disulfide-bridge-trapping/) [AGGC](/xray-mp-wiki/reagents/ligands/n-acetyl-s-geranylgeranyl-l-cysteine/) At the adjacent Ile48 demonstrated that this Site is On the Ec2 permeation Axillary Malodour Production Pathway. The S81C [Rhodopsin N2C/D282C Mutant](/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/) showed pH-Dependent Quinone Binding in Photosynthetic Reaction Centers in Photosynthetic Reaction Centers Ec2 currents, suggesting [Substrate-Protonation Coupling in MFS Symporters](/xray-mp-wiki/concepts/transport-mechanisms/substrate-protonation-coupling/) in [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) Symporters in [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) Symporters of the [AGGC](/xray-mp-wiki/reagents/ligands/n-acetyl-s-geranylgeranyl-l-cysteine/) thiol controls Alternating Access Mechanism.
+An Multi-Wavelength Anomalous Diffraction Br⁻ soak identified a Non-specific [Human AE1 Anion Exchanger (Band 3) - C-Terminal Membrane Domain](/xray-mp-wiki/proteins/slc-transporters/human-ae1-anion-exchanger/) (Band 3) - C-Terminal Membrane Domain (Band 3) - C-Terminal Membrane Domain-AChBP Site At the bottom of the electropositive aqueous vestibule, coordinated by the [Conserved Core Triad in GPCR Activation](/xray-mp-wiki/concepts/signaling-receptors/conserved-core-triad/) in GPCR Activation in GPCR Activation Ser81 and Thr82 sidechains (Fluc-Ec2 numbering). This Site is adjacent to the E. coli Polar Lipids track Ec2 ions. Mutagenesis (S81A, S81T, S81C) and MTSES modification of an [Engineered Disulfide Bridge Conformational Trapping](/xray-mp-wiki/concepts/structural-mechanisms/engineered-disulfide-bridge-trapping/) [AGGC](/xray-mp-wiki/reagents/ligands/n-acetyl-s-geranylgeranyl-l-cysteine/) At the adjacent Ile48 demonstrated that this Site is On the Ec2 permeation Axillary Malodour Production Pathway. The S81C [Rhodopsin N2C/D282C Mutant](/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/) showed pH-Dependent Quinone Binding in Photosynthetic Reaction Centers in Photosynthetic Reaction Centers Ec2 currents, suggesting [Substrate-Protonation Coupling in MFS Symporters](/xray-mp-wiki/concepts/transport-mechanisms/substrate-protonation-coupling/) in [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) Symporters in [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) Symporters of the [AGGC](/xray-mp-wiki/reagents/ligands/n-acetyl-s-geranylgeranyl-l-cysteine/) thiol controls Alternating Access Mechanism.
 
 ### T-E-Y triad defines the opposite end of the pore
 
@@ -145,3 +145,9 @@ A Multi-Wavelength Anomalous Diffraction-Ion permeation Allosteric Mechanism of 
 - [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Referenced in fluc-ec2 description
 - [Carboxylate Dyad in Oligosaccharyltransferase](/xray-mp-wiki/concepts/enzyme-mechanisms/carboxylate-dyad/) — Referenced in fluc-ec2 description
 - [Polar Network in GPCR Activation](/xray-mp-wiki/concepts/signaling-receptors/polar-network-gpcr-activation/) — Referenced in fluc-ec2 description
+- [Fluoride Channel from B. pertussis (Bpe)](/xray-mp-wiki/proteins/other-ion-channels/bpe-fluoride-channel/) — Bpe is the closest Fluc homologue; identical fold with 33% sequence identity; both share dual-topology architecture
+- [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/) — NaF used in Ec2 purification buffer (100 mM) for fluoride channel activity
+- [Dual-Topology Channels](/xray-mp-wiki/concepts/transport-mechanisms/dual-topology-channels/) — Ec2 is a dual-topology homodimer; Ec2-S9 structure confirms conserved dual-topology architecture
+- [Single-Wavelength Anomalous Diffraction (SAD)](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/) — SAD phasing with selenomethionine-labelled Ec2 used to solve the structure and avoid model bias
+- [Selenomethionine](/xray-mp-wiki/reagents/additives/selenomethionine/) — Referenced in ec2-fluoride-channel text
+- [Talon](/xray-mp-wiki/reagents/additives/talon/) — Referenced in ec2-fluoride-channel text

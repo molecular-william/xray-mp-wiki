@@ -26,6 +26,6 @@ verified: false
 
 ## Cross-References
 - [SERCA1a](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — Ca2+-ATPase; structural characterization of ATP-bound and transition states clarifies the coupling mechanism
-- [SERCA1a E340A Mutant](/xray-mp-wiki/proteins/pumps-atpases/serca1a-e340a/) — E340A mutation reveals how Glu340 mediates interdomain communication between P-domain and transmembrane helices
-- [Na+,K+-ATPase from Squalus acanthias](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-shark/) — Shark Na+,K+-ATPase provides direct crystallographic visualization of the E2.Pi state
+- [SERCA1a E340A Mutant](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — E340A mutation reveals how Glu340 mediates interdomain communication between P-domain and transmembrane helices
+- [Na+,K+-ATPase from Squalus acanthias](/xray-mp-wiki/proteins/pumps-atpases/shark-na-k-atpase/) — Shark Na+,K+-ATPase provides direct crystallographic visualization of the E2.Pi state
 - [Large Domain Motion in P-type ATPases](/xray-mp-wiki/concepts/structural-mechanisms/large-domain-motion-in-p-type-atpases/) — Domain movements observed in SERCA1a upon nucleotide binding are a hallmark of P-type ATPase function

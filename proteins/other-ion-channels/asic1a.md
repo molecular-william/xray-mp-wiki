@@ -1,5 +1,5 @@
 ---
-title: Acid-Sensing Ion Channel 1a
+title: "Acid-Sensing Ion Channel 1a"
 created: 2026-05-27
 updated: 2026-06-04
 type: protein
@@ -30,8 +30,8 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 | doi/10.1038##ncomms1917 | 3S3W | 1.9 A | C2 | Chicken ASIC1 (residues 26-463, apo) | none |
 | doi/10.1038##ncomms1917 | 3S3X | 3.0 A | C2 | Chicken ASIC1 (residues 26-463) + Psalmotoxin 1 | Psalmotoxin 1 |
 | doi/10.1038##nature25782 | 6AVE | 3.7 A | C3 (cryo-EM) | Full-length chicken ASIC1a | Ca2+ |
-| doi/10.1038##nature25782 | not deposited | 2.95 A | P2(1)2(1)2(1) | Chicken ASIC1a Delta25 (residues 25-463) | Ba2+ |
-| doi/10.1038##nature25782 | not deposited | 3.2 A | P2(1)2(1)2(1) | Chicken ASIC1a Delta25 (residues 25-463) | Ca2+ |
+| doi/10.1038##nature25782 | 5WKU | 2.95 A | P2(1)2(1)2(1) | Chicken ASIC1a Delta25 (residues 25-463) | Ba2+ |
+| doi/10.1038##nature25782 | 5WKU | 3.2 A | P2(1)2(1)2(1) | Chicken ASIC1a Delta25 (residues 25-463) | Ca2+ |
 
 ## Expression and Purification
 
@@ -40,31 +40,29 @@ Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature06163*
+#### Source: doi/10.1038##nature06163
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | FSEC screening | Fluorescence size-exclusion chromatography | [Superose 6](/xray-mp-wiki/reagents/additives/superose-6/) 10/300 | 20 mM [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) + 1 mM [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | N- and C-terminally EGFP-tagged chicken ASIC1 and delta ASIC1 constructs screened by FSEC. Solubilized in PBS with 20 mM [DDM](/xray-mp-wiki/reagents/detergents/ddm/) and protease inhibitors for 1 h. Monodisperse peak identified for delta ASIC1-EGFP fusion. |
 | [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) purification | Size-exclusion chromatography | [Superose 6](/xray-mp-wiki/reagents/additives/superose-6/) 10/300 | 20 mM [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 1 mM [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 1 mM [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Monodisperse fractions of delta ASIC1 collected for crystallization. Molecular mass determined by light scattering: 165.9 +/- 1.4 kDa, consistent with a trimer. |
 
-### Purification Workflow
-
-*Source: doi/10.1038##ncomms1917*
+#### Source: doi/10.1038##ncomms1917
 
 - **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) ([Baculovirus Expression](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/))
 - **Expression construct**: Chicken ASIC1 (residues 26-463), [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/)-tagged
-- **Tag info**: [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/), removed with [PreScission Protease](/xray-mp-wiki/reagents/additives/prescission-protease/) at 4 C or [Thrombin](/xray-mp-wiki/reagents/additives/thrombin/) at room temperature
+- **Tag info**: [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/), removed with [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) at 4 C or [Thrombin](/xray-mp-wiki/reagents/additives/thrombin/) at room temperature
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Cell culture and membrane preparation | Baculovirus expression in Sf9 cells | -- | 50 mM [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/)(HCl) pH 8.0, 150 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) + -- | [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) infected with [Baculovirus Expression](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) expressing chicken ASIC1(26-463). Cell debris removed by centrifugation at 488 g for 15 min, supernatant centrifuged at 95,700 g for 35 min at 4 C. Membranes resuspended in 50 mM [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/)(HCl) pH 8.0, 150 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) and stored at -80 C. |
 | Solubilization | Detergent solubilization | -- | 50 mM [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/)(HCl) pH 8.0, 150 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) + 2% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) | Purified membranes (corresponding to 100 g cells) solubilized in 200 ml buffer with 2% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) under stirring for 60 min at 4 C. Supernatant isolated by centrifugation at 150,000 g for 20 min. |
-| [IMAC](/xray-mp-wiki/methods/purification/affinity-chromatography/) purification | Nickel-affinity chromatography | [TALON Resin](/xray-mp-wiki/reagents/additives/talon/) Superflow [IMAC](/xray-mp-wiki/methods/purification/affinity-chromatography/) resin | 50 mM [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/)(HCl) pH 8.0, 150 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Washed and eluted with 45 mM or 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), respectively, at 4 C. Tag removed with [PreScission Protease](/xray-mp-wiki/reagents/additives/prescission-protease/) at 4 C or [Thrombin](/xray-mp-wiki/reagents/additives/thrombin/) at room temperature for 1 h. |
+| [IMAC](/xray-mp-wiki/methods/purification/affinity-chromatography/) purification | Nickel-affinity chromatography | [TALON Resin](/xray-mp-wiki/reagents/additives/talon/) Superflow [IMAC](/xray-mp-wiki/methods/purification/affinity-chromatography/) resin | 50 mM [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/)(HCl) pH 8.0, 150 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Washed and eluted with 45 mM or 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), respectively, at 4 C. Tag removed with [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) at 4 C or [Thrombin](/xray-mp-wiki/reagents/additives/thrombin/) at room temperature for 1 h. |
 | Complex formation | In-solution mixing | -- | 20 mM [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/)(HCl) pH 8.0, 150 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | 0.36 mg of synthetic, lyophilized PcTx1 (Peptanova) dissolved directly in protein solution after tag removal. |
 | [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | Size-exclusion chromatography | Superose 10/300 GL | 20 mM [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/)(HCl) pH 8.0, 150 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Excess PcTx1, protease and other buffer components removed. Isolated, monodisperse protein preparation concentrated to 2.7 mg/ml using Amicon Ultra Ultracel centrifugal filter (100 kDa MWCO). |
 

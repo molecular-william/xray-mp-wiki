@@ -1,5 +1,5 @@
 ---
-title: CAX_Af H+/Ca2+ Exchanger (Archaeoglobus fulgidus)
+title: "CAX_Af H+/Ca2+ Exchanger (Archaeoglobus fulgidus)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -45,7 +45,7 @@ exchanger structure captured in an inward-facing conformation.
 - **Expression system**: E. coli
 - **Expression construct**: Full-length CAX_Af
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

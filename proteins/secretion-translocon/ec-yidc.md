@@ -1,5 +1,5 @@
 ---
-title: Escherichia coli YidC
+title: "Escherichia coli YidC"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ YidC is an essential bacterial membrane protein insertase and chaperone that med
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.bbrc.2018.09.043 | unknown | 2.8 | P1 | Full-length E. coli YidC core region (residues 325-532) | none |
+| doi/10.1016##j.bbrc.2018.09.043 | 6AL2 | 2.8 | P1 | Full-length E. coli YidC core region (residues 325-532) | none |
 | doi/10.1038##srep07299 | 3WVF | 3.2 | P1 | Full-length E. coli YidC (residues 2-540) with C-terminal His8 tag, TEV-cleavable | none |
 
 ## Expression and Purification
@@ -31,29 +31,27 @@ YidC is an essential bacterial membrane protein insertase and chaperone that med
 
 ### Purification Workflow
 
-*Source: doi/10.1016##j.bbrc.2018.09.043*
+#### Source: doi/10.1016##j.bbrc.2018.09.043
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Expression | E. coli expression | — | -- + -- | Protein expressed in E. coli cells. |
 | Crystallization | Helical Data Collection Method | — | -- + -- | Over 100 crystals used for data collection. 97 datasets merged for final structure determination. Data collected at SPring-8 beamline BL32XU, wavelength 1.00 A, 100 K. |
 
-### Purification Workflow
-
-*Source: doi/10.1038##srep07299*
+#### Source: doi/10.1038##srep07299
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Expression | E. coli expression in BL21(DE3) | — | LB medium with 50 ug/mL  + -- | Cells induced with 1 mM  for 18 h at 37 C. Harvested by centrifugation at 4,500 g for 10 min at 4 C. |
 | Membrane preparation | Ultracentrifugation | — | 20 mM -NaOH pH 5.6, 300 mM NaCl, 2%  (), 0.1 mM  + 2%  () | Total membranes prepared as described. YidC solubilized for 1 h at 4 C. Ultracentrifugation at 138,000 g for 30 min at 4 C. |
 | Affinity purification | Ni Sepharose excel (IMAC) | — | 20 mM -NaOH pH 5.6, 300 mM NaCl, 0.25%  + 0.25%  () | Batch binding for 30 min at 4 C. Wash with 50 mM . Elution with 100-500 mM  gradient. |
-| TEV cleavage | His-tagged [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) | — | 20 mM -NaOH pH 5.6, 300 mM NaCl, 0.25% , 10 mM  + 0.25%  | C-terminal His8 tag cleaved by [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) for 12 h at 4 C. Flow-through collected from Ni-NTA after cleavage. |
+| TEV cleavage | His-tagged [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/additives/tev-protease/) | — | 20 mM -NaOH pH 5.6, 300 mM NaCl, 0.25% , 10 mM  + 0.25%  | C-terminal His8 tag cleaved by [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/additives/tev-protease/) for 12 h at 4 C. Flow-through collected from Ni-NTA after cleavage. |
 | [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | HiLoad 16/600 Superdex 200 | — | 20 mM -NaOH pH 5.6, 300 mM NaCl, 0.25%  + 0.25%  | Final polishing step. N-terminal sequencing confirmed intact YidC in purified sample. |
 
 
@@ -111,7 +109,6 @@ The holo-translocon is composed of single copies of YidC,  and SecDFYajC. SecF i
 - [Iptg](/xray-mp-wiki/reagents/additives/iptg/) — Referenced in ec-yidc text
 - [DM](/xray-mp-wiki/reagents/detergents/dm/) — Referenced in ec-yidc text
 - [Pmsf](/xray-mp-wiki/reagents/additives/pmsf/) — Referenced in ec-yidc text
-- [DM](/xray-mp-wiki/reagents/detergents/dm/) — Referenced in ec-yidc text
-- [Ada](/xray-mp-wiki/reagents/ada/) — Referenced in ec-yidc text
+- [Ada](/xray-mp-wiki/reagents/buffers/aces/) — Referenced in ec-yidc text
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Referenced in ec-yidc text
 - [Popc](/xray-mp-wiki/reagents/lipids/popc/) — Referenced in ec-yidc text

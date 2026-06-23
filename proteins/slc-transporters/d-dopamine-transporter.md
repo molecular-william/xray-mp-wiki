@@ -1,5 +1,5 @@
 ---
-title: Drosophila Dopamine Transporter (dDAT)
+title: "Drosophila Dopamine Transporter (dDAT)"
 created: 2026-06-02
 updated: 2026-06-03
 type: protein
@@ -20,15 +20,15 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature12863 | not specified | 2.9 A | not specified | dDAT from D. melanogaster, inhibitor-bound outward-open state | antidepressant/psychostimulant inhibitor, Na+, Cl- |
-| doi/10.1038##nature12533 | not specified | 2.96 A | P212121 | dDATcryst — N-terminal [TRUNCATION](/xray-mp-wiki/concepts/truncation) (residues 1-20 deleted), EL2 truncation (residues 164-206 deleted), C-terminal thrombin site at position 602, thermostabilizing mutations V74A, V275A, V311A, L415A, G538L | [NORTRIPTYLINE](/xray-mp-wiki/reagents/ligands/nortriptyline), Na+, Cl-, cholesterol |
-| doi/10.1038##nature14431 | not specified | not specified | not specified | dDAT_mfc — thermostabilizing mutations (V74A, L415A), N-terminal deletion (1-20), EL2 deletion (162-202), thrombin site replacing residues 602-607 | [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) (DA) |
-| doi/10.1038##nature14431 | not specified | not specified | not specified | dDAT_mfc — thermostabilizing mutations (V74A, L415A), N-terminal deletion (1-20), EL2 deletion (162-202), thrombin site replacing residues 602-607 | [D-AMPHETAMINE](/xray-mp-wiki/reagents/ligands/d-amphetamine) |
-| doi/10.1038##nature14431 | not specified | not specified | not specified | dDAT_mfc — thermostabilizing mutations (V74A, L415A), N-terminal deletion (1-20), EL2 deletion (162-202), thrombin site replacing residues 602-607 | (+)-[METHAMPHETAMINE](/xray-mp-wiki/reagents/ligands/methamphetamine) |
-| doi/10.1038##nature14431 | not specified | not specified | not specified | dDAT_mfc — thermostabilizing mutations (V74A, L415A), N-terminal deletion (1-20), EL2 deletion (162-202), thrombin site replacing residues 602-607 | 3,4-dichlorophenethylamine (DCP) |
-| doi/10.1038##nature14431 | not specified | not specified | not specified | dDAT_mfc — thermostabilizing mutations (V74A, L415A), N-terminal deletion (1-20), EL2 deletion (162-202), thrombin site replacing residues 602-607 | [COCAINE](/xray-mp-wiki/reagents/ligands/cocaine) |
-| doi/10.1038##nature14431 | not specified | not specified | not specified | dDAT_mfc sub^B (D121G, S426M) — thermostabilizing mutations (V74A, L415A), N-terminal deletion (1-20), EL2 deletion (162-202), thrombin site replacing residues 602-607 | [RTI-55](/xray-mp-wiki/reagents/ligands/rti-55) |
-| doi/10.1038##nature14431 | not specified | not specified | not specified | ts^5 dDATcryst sub^B (D121G, S426M) — thermostabilizing mutations (V74A, V275A, V311A, L415A, G538L), N-terminal deletion (1-20), EL2 deletion (164-206), thrombin site replacing residues 602-607 | [CFT](/xray-mp-wiki/reagents/ligands/beta-cft) |
+| doi/10.1038##nature12863 |  | 2.9 A | not specified | dDAT from D. melanogaster, inhibitor-bound outward-open state | antidepressant/psychostimulant inhibitor, Na+, Cl- |
+| doi/10.1038##nature12533 | 4M48 | 2.96 A | P212121 | dDATcryst — N-terminal [TRUNCATION](/xray-mp-wiki/concepts/truncation) (residues 1-20 deleted), EL2 truncation (residues 164-206 deleted), C-terminal thrombin site at position 602, thermostabilizing mutations V74A, V275A, V311A, L415A, G538L | [NORTRIPTYLINE](/xray-mp-wiki/reagents/ligands/nortriptyline), Na+, Cl-, cholesterol |
+| doi/10.1038##nature14431 | 4XP1 | not specified | not specified | dDAT_mfc — thermostabilizing mutations (V74A, L415A), N-terminal deletion (1-20), EL2 deletion (162-202), thrombin site replacing residues 602-607 | [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) (DA) |
+| doi/10.1038##nature14431 | 4XP1 | not specified | not specified | dDAT_mfc — thermostabilizing mutations (V74A, L415A), N-terminal deletion (1-20), EL2 deletion (162-202), thrombin site replacing residues 602-607 | [D-AMPHETAMINE](/xray-mp-wiki/reagents/ligands/d-amphetamine) |
+| doi/10.1038##nature14431 | 4XP1 | not specified | not specified | dDAT_mfc — thermostabilizing mutations (V74A, L415A), N-terminal deletion (1-20), EL2 deletion (162-202), thrombin site replacing residues 602-607 | (+)-[METHAMPHETAMINE](/xray-mp-wiki/reagents/ligands/methamphetamine) |
+| doi/10.1038##nature14431 | 4XP1 | not specified | not specified | dDAT_mfc — thermostabilizing mutations (V74A, L415A), N-terminal deletion (1-20), EL2 deletion (162-202), thrombin site replacing residues 602-607 | 3,4-dichlorophenethylamine (DCP) |
+| doi/10.1038##nature14431 | 4XP1 | not specified | not specified | dDAT_mfc — thermostabilizing mutations (V74A, L415A), N-terminal deletion (1-20), EL2 deletion (162-202), thrombin site replacing residues 602-607 | [COCAINE](/xray-mp-wiki/reagents/ligands/cocaine) |
+| doi/10.1038##nature14431 | 4XP1 | not specified | not specified | dDAT_mfc sub^B (D121G, S426M) — thermostabilizing mutations (V74A, L415A), N-terminal deletion (1-20), EL2 deletion (162-202), thrombin site replacing residues 602-607 | [RTI-55](/xray-mp-wiki/reagents/ligands/rti-55) |
+| doi/10.1038##nature14431 | 4XP1 | not specified | not specified | ts^5 dDATcryst sub^B (D121G, S426M) — thermostabilizing mutations (V74A, V275A, V311A, L415A, G538L), N-terminal deletion (1-20), EL2 deletion (164-206), thrombin site replacing residues 602-607 | [CFT](/xray-mp-wiki/reagents/ligands/beta-cft) |
 
 ## Expression and Purification
 
@@ -37,7 +37,7 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 - **Expression system**: HEK293S GnT- cells
 - **Expression construct**: C-terminal GFP-His8 fusion
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

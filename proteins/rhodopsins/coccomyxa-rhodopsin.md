@@ -1,5 +1,5 @@
 ---
-title: Coccomyxa subellipsoidea Rhodopsin (CsR)
+title: "Coccomyxa subellipsoidea Rhodopsin (CsR)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ Coccomyxa subellipsoidea rhodopsin (CsR) is a light-driven proton pump from the 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##scisignal.aav4203 | Not specified in paper | 2.0 | H3 | Wild-type CsR (residues 2-226) from Coccomyxa subellipsoidea expressed in Pichia pastoris, with C-terminal 8xHis tag
+| doi/10.1126##scisignal.aav4203 | 6GYH | 2.0 | H3 | Wild-type CsR (residues 2-226) from Coccomyxa subellipsoidea expressed in Pichia pastoris, with C-terminal 8xHis tag
  | all-trans-retinal (covalently bound via Schiff base to Lys215) |
 
 ## Expression and Purification
@@ -35,7 +35,7 @@ Coccomyxa subellipsoidea rhodopsin (CsR) is a light-driven proton pump from the 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@ type: reagent
 category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
-sources: [doi/10.1128##jb.187.19.6804-6815.2005 - doi/10.1126##science.1083137]
+sources: [doi/10.1128##jb.187.19.6804-6815.2005, doi/10.1126##science.1083137]
 verified: false
 ---
 

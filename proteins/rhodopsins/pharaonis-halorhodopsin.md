@@ -1,5 +1,5 @@
 ---
-title: pharaonis Halorhodopsin (phR)
+title: "pharaonis Halorhodopsin (phR)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ pharaonis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/protei
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

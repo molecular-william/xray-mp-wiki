@@ -1,5 +1,5 @@
 ---
-title: Nicastrin from Dictyostelium purpureum (DpNCT)
+title: "Nicastrin from Dictyostelium purpureum (DpNCT)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -20,7 +20,7 @@ Nicastrin is a type I transmembrane glycoprotein and the largest component of th
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1414837111 |  | 1.95 A |  | Nicastrin ECD (residues 19-611) from Dictyostelium purpureum with N-terminal gp67 signal peptide and 8xHis tag |  |
+| doi/10.1073##pnas.1414837111 | 4R12 | 1.95 A |  | Nicastrin ECD (residues 19-611) from Dictyostelium purpureum with N-terminal gp67 signal peptide and 8xHis tag |  |
 
 ## Expression and Purification
 
@@ -34,7 +34,7 @@ Nicastrin is a type I transmembrane glycoprotein and the largest component of th
 - **Expression construct**: N-terminal gp67 signal peptide + 8xHis tag
 - **Tag info**: 8xHis tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

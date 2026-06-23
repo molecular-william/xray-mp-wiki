@@ -1,5 +1,5 @@
 ---
-title: Apolipoprotein N-acyltransferase (Lnt) from Escherichia coli
+title: "Apolipoprotein N-acyltransferase (Lnt) from Escherichia coli"
 created: 2026-06-08
 updated: 2026-06-16
 type: protein
@@ -35,7 +35,7 @@ Apolipoprotein N-acyltransferase (Lnt) is an integral membrane enzyme that catal
 - **Expression construct**: Full-length Lnt with C-terminal [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag/) (Lnt-C1) or N-terminal TEV-cleavable [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag/) (Lnt-C2)
 - **Tag info**: [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag/) (C-terminal for Lnt-C1; N-terminal TEV-cleavable for Lnt-C2)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -92,9 +92,9 @@ When the 345-365 arm is above the membrane and W237 is in the downward position,
 - [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — Used in LCP crystallization reservoir at 100 mM pH 7.2
 - [PEG200](/xray-mp-wiki/reagents/additives/peg200/) — Used as precipitant in LCP crystallization at 36%
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used for LCP crystallization of Lnt-C2
-- [Ammonium Phosphate](/xray-mp-wiki/reagents/additives/ammonium-phosphate/) — Used at 400 mM in LCP crystallization reservoir
+- [Ammonium Phosphate](/xray-mp-wiki/reagents/buffers/ammonium-phosphate/) — Used at 400 mM in LCP crystallization reservoir
 - [His6-tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) — Used for affinity purification of both Lnt constructs
-- [TEV Protease](/xray-mp-wiki/reagents/additives/tevp-protease/) — Used to remove N-terminal His6-tag from Lnt-C2
+- [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) — Used to remove N-terminal His6-tag from Lnt-C2
 - [Lipidic Cubic Phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used for Lnt-C2
 - [Nitrilase Superfamily](/xray-mp-wiki/concepts/protein-families/nitrilase-superfamily/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

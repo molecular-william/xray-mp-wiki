@@ -1,5 +1,5 @@
 ---
-title: Mouse Visual Arrestin (3A)
+title: "Mouse Visual Arrestin (3A)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -21,7 +21,7 @@ Mouse visual arrestin 1 (arrestin-1) is a cytosolic protein that binds to phosph
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature14656 | not determined | 3.8 A | P212121 | Mouse visual arrestin 1 (residues 12-361, with missing loop 340-342), 3A mutant (L374A/V375A/F376A) | Human rhodopsin (E113Q/M257Y) |
+| doi/10.1038##nature14656 | 4ZWJ | 3.8 A | P212121 | Mouse visual arrestin 1 (residues 12-361, with missing loop 340-342), 3A mutant (L374A/V375A/F376A) | Human rhodopsin (E113Q/M257Y) |
 
 ## Expression and Purification
 
@@ -36,7 +36,7 @@ Mouse visual arrestin 1 (arrestin-1) is a cytosolic protein that binds to phosph
 - **Expression construct**: 3A arrestin (L374A/V375A/F376A, residues 10-392)
 - **Tag info**: 35S-labeled for pull-down assays
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

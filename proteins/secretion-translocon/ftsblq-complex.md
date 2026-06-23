@@ -1,5 +1,5 @@
 ---
-title: FtsB-FtsL-FtsQ (FtsBLQ) Complex from Escherichia coli
+title: "FtsB-FtsL-FtsQ (FtsBLQ) Complex from Escherichia coli"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -47,7 +47,7 @@ FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divis
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

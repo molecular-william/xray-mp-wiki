@@ -1,5 +1,5 @@
 ---
-title: XTRIC-B (Xenopus TRIC-B Channel)
+title: "XTRIC-B (Xenopus TRIC-B Channel)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -35,7 +35,7 @@ XTRIC-B is the Xenopus tropicalis ortholog of the TRIC-B subtype of trimeric int
 - **Expression system**: Schizosaccharomyces pombe
 - **Expression construct**: Full-length XTRIC-B
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

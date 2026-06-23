@@ -39,14 +39,14 @@ crystallography (Lieske et al., 2019).
 - [Thermolysin](/xray-mp-wiki/reagents/additives/thermolysin/) — On-chip crystallization on Roadrunner I chip; on-chip ligand soaking with 200 mM sodium aspartate. Cryogenic data collection gave 1.52 A structure of the thermolysin-aspartate complex (PDB 6qf3).
 
 ## Related Concepts
-- [Serial Femtosecond Crystallography](/xray-mp-wiki/concepts/serial-femtosecond-crystallography/) — Related approach using XFELs for room-temperature data collection; in situ methods provide an alternative at synchrotron sources
+- [Serial Femtosecond Crystallography](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) — Related approach using XFELs for room-temperature data collection; in situ methods provide an alternative at synchrotron sources
 - [Fixed-Target Serial Crystallography](/xray-mp-wiki/methods/crystallography/fixed-target-serial-crystallography/) — On-chip crystallization provides fixed-target sample holders for serial data collection
 
 ## Cross-References
 - [HiTehA — Haemophilus influenzae TehA](/xray-mp-wiki/proteins/other-ion-channels/hiteha/) — First membrane protein structure by in situ data collection
-- [IMISX In-Situ Serial Crystallography](/xray-mp-wiki/methods/imisx-in-situ-crystallization/) — Related in situ method using LCP crystallization and serial data collection
+- [IMISX In-Situ Serial Crystallography](/xray-mp-wiki/methods/crystallization/imisx-in-situ-crystallization/) — Related in situ method using LCP crystallization and serial data collection
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — In situ crystallography is a variant of X-ray crystallography
-- [On-Chip Crystallization](/xray-mp-wiki/methods/on-chip-crystallization/) — Method for growing crystals directly on silicon chips for in-situ serial crystallography
+- [On-Chip Crystallization](/xray-mp-wiki/methods/crystallization/on-chip-crystallization/) — Method for growing crystals directly on silicon chips for in-situ serial crystallography
 - [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — Related biological concept
 - [CCR2A](/xray-mp-wiki/proteins/gpcr/ccr2a/) — Related protein structure
 - [TEHA](/xray-mp-wiki/proteins/other-ion-channels/teha/) — Related protein structure

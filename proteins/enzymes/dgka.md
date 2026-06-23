@@ -1,5 +1,5 @@
 ---
-title: E. coli Diacylglycerol Kinase (DgkA)
+title: "E. coli Diacylglycerol Kinase (DgkA)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -20,7 +20,7 @@ Diacylglycerol kinase (DgkA) from Escherichia coli is a 121-residue integral mem
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##NATURE12179 |  | 2.05 |  | DgkA Delta7 (Ala41Cys Cys46Ala Ile53Val Ile70Leu Met96Leu Val107Asp Cys113Ala) with 7.8 [MAG](/xray-mp-wiki/reagents/lipids/mag/) | [MAG](/xray-mp-wiki/reagents/lipids/mag/) (monoacylglycerol) |
+| doi/10.1038##NATURE12179 | 3ZE4 | 2.05 |  | DgkA Delta7 (Ala41Cys Cys46Ala Ile53Val Ile70Leu Met96Leu Val107Asp Cys113Ala) with 7.8 [MAG](/xray-mp-wiki/reagents/lipids/mag/) | [MAG](/xray-mp-wiki/reagents/lipids/mag/) (monoacylglycerol) |
 | doi/10.1038##NCOMMS10140 | 4UXX | 2.7 | P3321 | DgkA Delta4 construct (I53C I70L M96L V107D) co-crystallized with 9.9 [MAG](/xray-mp-wiki/reagents/lipids/mag/) and soaked with zinc-ACP; ternary complex with ACP (non-hydrolysable [ATP](/xray-mp-wiki/reagents/ligands/atp/) analogue) and lipid substrate bound in active site asBC | Zinc-ACP (adenylylmethylenediphosphonate), [MAG](/xray-mp-wiki/reagents/lipids/mag/) (monoacylglycerol lipid substrate) |
 
 ## Expression and Purification
@@ -30,21 +30,19 @@ Diacylglycerol kinase (DgkA) from Escherichia coli is a 121-residue integral mem
 
 ### Purification Workflow
 
-*Source: doi/10.1038##NATURE12179*
+#### Source: doi/10.1038##NATURE12179
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Protein production | Auto-induction or [Iptg](/xray-mp-wiki/reagents/additives/iptg/) induction in E. coli | -- | -- + -- | DgkA proteins expressed and purified as described with an additional size-exclusion chromatography step; Se-Met labelling performed using methionine auxotroph B893(DE3) in M9 minimal media |
 
-### Purification Workflow
-
-*Source: doi/10.1038##NCOMMS10140*
+#### Source: doi/10.1038##NCOMMS10140
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -121,3 +119,7 @@ Serial femtosecond crystallography (SFX) at an X-ray free-electron laser (XFEL) 
 - [Iptg](/xray-mp-wiki/reagents/additives/iptg/) — Referenced in context related to Iptg
 - [MPD](/xray-mp-wiki/reagents/additives/mpd/) — Referenced in context related to MPD
 - [Acetate](/xray-mp-wiki/reagents/buffers/acetate/) — Referenced in context related to Acetate
+- [Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) — Component of enzyme assay buffer
+- [PIPES Buffer](/xray-mp-wiki/reagents/buffers/pipes/) — Buffer used in kinase and ADP assays
+- [Single-Wavelength Anomalous Diffraction (SAD)](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/) — Phasing method for Delta7 structure
+- [Dgka](/xray-mp-wiki/proteins/enzymes/dgka/) — Referenced in context related to Dgka

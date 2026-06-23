@@ -1,5 +1,5 @@
 ---
-title: Metarhodopsin II
+title: "Metarhodopsin II"
 created: 2026-06-05
 updated: 2026-06-08
 type: protein
@@ -33,7 +33,7 @@ Metarhodopsin II is the light-activated conformation of [Bovine Rhodopsin](/xray
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

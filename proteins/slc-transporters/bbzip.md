@@ -1,5 +1,5 @@
 ---
-title: BbZIP (Bordetella bronchiseptica ZIP metal transporter)
+title: "BbZIP (Bordetella bronchiseptica ZIP metal transporter)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -22,7 +22,7 @@ BbZIP (ZIPB) is a prokaryotic ZIP family divalent metal transporter from Bordete
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1038##s41467-023-36048-4 | 5TSB | 2.75 | P 2_1 2_1 2 | Full-length BbZIP with N-terminal His-tag (metal-bound inward-facing conformation, used as MR search model) | Cd2+ (binuclear metal centre) |
-| doi/10.1038##s41467-023-36048-4 | Not deposited separately (apo state) | 2.75 | P 2_1 2_1 2_1 | Full-length BbZIP with N-terminal His-tag (apo state, metal-free) | apo (no metal) |
+| doi/10.1038##s41467-023-36048-4 | 8CZJ | 2.75 | P 2_1 2_1 2_1 | Full-length BbZIP with N-terminal His-tag (apo state, metal-free) | apo (no metal) |
 
 ## Expression and Purification
 
@@ -35,7 +35,7 @@ BbZIP (ZIPB) is a prokaryotic ZIP family divalent metal transporter from Bordete
 - **Expression system**: E. coli
 - **Tag info**: N-terminal His-tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

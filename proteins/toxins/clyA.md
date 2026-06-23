@@ -1,5 +1,5 @@
 ---
-title: ClyA Cytotoxin from Escherichia coli
+title: "ClyA Cytotoxin from Escherichia coli"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ ClyA (also known as HlyE and SheA) is a pore-forming cytotoxin from Escherichia 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature08026 | (not explicitly deposited) | 3.3 | P1 (triclinic) and C2 (monoclinic) | Full-length ClyA from E. coli K12, wild-type | [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
+| doi/10.1038##nature08026 | 2WCD | 3.3 | P1 (triclinic) and C2 (monoclinic) | Full-length ClyA from E. coli K12, wild-type | [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ ClyA (also known as HlyE and SheA) is a pore-forming cytotoxin from Escherichia 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

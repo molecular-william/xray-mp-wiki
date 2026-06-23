@@ -1,5 +1,5 @@
 ---
-title: Synaptobrevin-2 (Rat Neuronal Qc-SNARE Protein)
+title: "Synaptobrevin-2 (Rat Neuronal Qc-SNARE Protein)"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -32,7 +32,7 @@ Synaptobrevin-2 (also known as VAMP-2) is a neuronal Qc-SNARE protein from rat t
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

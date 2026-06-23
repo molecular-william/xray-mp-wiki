@@ -1,5 +1,5 @@
 ---
-title: KtrA (Cytosolic Regulatory Protein from Bacillus subtilis)
+title: "KtrA (Cytosolic Regulatory Protein from Bacillus subtilis)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -35,7 +35,7 @@ KtrA is a cytosolic regulatory protein from the bacterium Bacillus subtilis that
 - **Expression system**: E. coli BL21(DE3)
 - **Expression construct**: Tag-less KtrA from Bacillus subtilis
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

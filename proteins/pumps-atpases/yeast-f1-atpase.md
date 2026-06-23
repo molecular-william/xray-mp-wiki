@@ -1,5 +1,5 @@
 ---
-title: Yeast Mitochondrial F1 ATPase from Saccharomyces cerevisiae
+title: "Yeast Mitochondrial F1 ATPase from Saccharomyces cerevisiae"
 created: 2026-06-08
 updated: 2026-06-11
 type: protein
@@ -21,8 +21,8 @@ Yeast mitochondrial F1 ATPase is the water-soluble catalytic domain of the F1F0 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##sj.emboj.7601410 | -- | 2.8 | P21 | Yeast F1 ATPase (alpha3beta3gammadeltaepsilon) | [AMP-PNP (Adenylyl Imidodiphosphate)](/xray-mp-wiki/reagents/ligands/amp-pnp/) |
-| doi/10.1098##rsob.120164 | -- | 2.5 | P21 | Yeast F1 ATPase (alpha3beta3gammadeltaepsilon) inhibited by yI1-53 (IF1 residues 1-53, E21A mutation) | ADP |
+| doi/10.1038##sj.emboj.7601410 | 2HLD | 2.8 | P21 | Yeast F1 ATPase (alpha3beta3gammadeltaepsilon) | [AMP-PNP (Adenylyl Imidodiphosphate)](/xray-mp-wiki/reagents/ligands/amp-pnp/) |
+| doi/10.1098##rsob.120164 | 3ZIA | 2.5 | P21 | Yeast F1 ATPase (alpha3beta3gammadeltaepsilon) inhibited by yI1-53 (IF1 residues 1-53, E21A mutation) | ADP |
 
 ## Expression and Purification
 

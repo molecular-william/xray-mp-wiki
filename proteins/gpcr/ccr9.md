@@ -1,5 +1,5 @@
 ---
-title: CC Chemokine Receptor 9 (CCR9)
+title: "CC Chemokine Receptor 9 (CCR9)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein

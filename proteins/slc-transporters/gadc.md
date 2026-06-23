@@ -1,5 +1,5 @@
 ---
-title: GadC Glutamate/GABA Antiporter
+title: "GadC Glutamate/GABA Antiporter"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -14,14 +14,14 @@ verified: false
 
 ## Overview
 
-GadC is a SLC1/EAAT/GATs antiporter from the Apc (JLK-6 acid-polyamine-organocation) [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) of Solid-Supported Membrane Electrophysiology [Biogenic Amine Transporters](/xray-mp-wiki/concepts/transport-mechanisms/biogenic-amine-transporters/). It functions In the acid [Sulfonamide Resistance](/xray-mp-wiki/concepts/miscellaneous/sulfonamide-resistance/) Sf9 Insect Cell Expression System 2 (AR2) of E. coli Signal Peptide Peptidase (SppA, Protease IV) (SppA, Protease IV) coli, exchanging extracellular [L-Glutamate](/xray-mp-wiki/reagents/substrates/l-glutamate/) for Intracellular Allosteric Antagonism GATs to facilitate net [Influenza A M2 Proton Channel](/xray-mp-wiki/proteins/other-ion-channels/influenza-a-m2-proton-channel/) [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) Microbatch Crystallization Under Oil acidic conditions. GadC comprises 12 [De Novo Design of Transmembrane Pores](/xray-mp-wiki/concepts/structural-mechanisms/de-novo-design-transmembrane-pores/) segments (TMs) and adopts an Inward-Facing Conformation of ABC Transporters-open GPCR Inactive Conformation with a C-terminal plug (C-plug) that blocks the TatA Substrate of E. coli [Rhomboid Protease Family](/xray-mp-wiki/concepts/protein-families/rhomboid-protease/) GlpG-AChBP cleft. The CLC Cl-/H+ Exchange Transport Mechanism is strictly pH-Dependent Quinone Binding in Photosynthetic Reaction Centers in Photosynthetic Reaction Centers, with robust TREX1 RNase Activity and DNA/RNA Hybrid Processing At Ph 5.5 or below and no detectable CLC Cl-/H+ Exchange Transport Mechanism above Ph 6.5.
+GadC is a SLC1/EAAT/GATs antiporter from the Apc (JLK-6 acid-polyamine-organocation) [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) of Solid-Supported Membrane Electrophysiology [Biogenic Amine Transporters](/xray-mp-wiki/concepts/transport-mechanisms/biogenic-amine-transporters/). It functions In the acid [Sulfonamide Resistance](/xray-mp-wiki/concepts/miscellaneous/sulfonamide-resistance/) Sf9 Insect Cell Expression System 2 (AR2) of E. coli Signal Peptide Peptidase (SppA, Protease IV) (SppA, Protease IV) coli, exchanging extracellular [L-Glutamate](/xray-mp-wiki/reagents/substrates/l-glutamate/) for Intracellular Allosteric Antagonism GATs to facilitate net [Influenza A M2 Proton Channel](/xray-mp-wiki/proteins/other-ion-channels/influenza-a-m2-proton-channel/) [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) Microbatch Crystallization Under Oil acidic conditions. GadC comprises 12 [De Novo Design of Transmembrane Pores](/xray-mp-wiki/concepts/structural-mechanisms/de-novo-design-transmembrane-pores/) segments (TMs) and adopts an Inward-Facing Conformation of ABC Transporters-open GPCR Inactive Conformation with a C-terminal plug (C-plug) that blocks the TatA Substrate of E. coli [Rhomboid Protease Family](/xray-mp-wiki/concepts/protein-families/rhomboid-protease/) GlpG-AChBP cleft. The CLC Cl-/H+ Exchange Transport Mechanism is strictly pH-Dependent Quinone Binding in Photosynthetic Reaction Centers in Photosynthetic Reaction Centers, with robust TREX1 RNase Activity and DNA/RNA Hybrid Processing At Ph 5.5 or below and no detectable CLC Cl-/H+ Exchange Transport Mechanism above Ph 6.5.
 
 
 ## Structure Determination
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature10917 | not specified | 2.95 A | P2_12_12_1 | Full-length E. coli GadC (residues 1-511) from E. coli C41 Expression Strain O157:H7 | none (Ligand-Free, Inward-open state with C-plug) |
+| doi/10.1038##nature10917 | 4DJK | 2.95 A | P2_12_12_1 | Full-length E. coli GadC (residues 1-511) from E. coli C41 Expression Strain O157:H7 | none (Ligand-Free, Inward-open state with C-plug) |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ GadC is a SLC1/EAAT/GATs antiporter from the Apc (JLK-6 acid-polyamine-organocat
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

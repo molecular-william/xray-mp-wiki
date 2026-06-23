@@ -1,5 +1,5 @@
 ---
-title: NavAe1p Prokaryotic Sodium Channel Pore
+title: "NavAe1p Prokaryotic Sodium Channel Pore"
 created: 2026-05-26
 updated: 2026-05-26
 type: protein
@@ -21,8 +21,8 @@ NavAe1p is a pore-only construct of the prokaryotic voltage-gated sodium channel
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1016##j.jmb.2013.10.010 | 4J4Q | 4.0 A | I222 | NavAe1p pore-only construct from Alkalilimnicola ehrlichei; includes transmembrane pore domain (S5, P1, P2, S6) and full cytoplasmic tail (neck + coiled-coil); homotetramer | Calcium ion at outer ion binding site (selectivity filter outer mouth), coordinated by 4 Ser198 side-chain oxygens and 4 water molecules |
-| doi/10.1016##j.jmb.2013.10.010 | 4J4Q (low-calcium) | 3.8 A | P4212 | NavAe1p pore-only construct, low-calcium crystallization condition | None (no anomalous density at outer ion site) |
-| doi/10.1016##j.jmb.2013.10.010 | 4J4Q (H245G mutant) | 4.0 A | I222 | NavAe1p H245G mutant pore-only construct; no Ca2+ at neck ion or outer ion site | None (no anomalous density for neck ion or outer ion) |
+| doi/10.1016##j.jmb.2013.10.010 | 4J4Q | 3.8 A | P4212 | NavAe1p pore-only construct, low-calcium crystallization condition | None (no anomalous density at outer ion site) |
+| doi/10.1016##j.jmb.2013.10.010 | 4J4Q | 4.0 A | I222 | NavAe1p H245G mutant pore-only construct; no Ca2+ at neck ion or outer ion site | None (no anomalous density for neck ion or outer ion) |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ NavAe1p is a pore-only construct of the prokaryotic voltage-gated sodium channel
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

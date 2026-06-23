@@ -1,5 +1,5 @@
 ---
-title: PSI-LHCI supercomplex from pea (Pisum sativum) at 2.4 A resolution
+title: "PSI-LHCI supercomplex from pea (Pisum sativum) at 2.4 A resolution"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ Comparison with the 5L8R structure (2.6 A, merged multi-crystal dataset) reveals
 - [PSI-LHCI supercomplex from Chlamydomonas reinhardtii](/xray-mp-wiki/proteins/photosynthesis/psi-lhci-chlamydomonas/) — Both are PSI-LHCI supercomplexes from different organisms, with distinct LHCI composition and structural features
 - [N-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent (beta-DDM) used throughout purification and crystallization
 - [Tris (Tris-HCl buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Crystallization buffer component (50 mM Tris-HCl, pH 8.0-9.0)
-- [Membrane Protein Structural Biology Concepts](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics) — PSI-LHCI is a large multisubunit membrane protein supercomplex embedded in the thylakoid membrane
+- [Membrane Protein Structural Biology Concepts](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/) — PSI-LHCI is a large multisubunit membrane protein supercomplex embedded in the thylakoid membrane
 - [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers

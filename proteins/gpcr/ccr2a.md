@@ -1,5 +1,5 @@
 ---
-title: CC Chemokine Receptor 2A (CCR2A)
+title: "CC Chemokine Receptor 2A (CCR2A)"
 created: 2026-05-29
 updated: 2026-05-29
 type: protein
@@ -32,14 +32,14 @@ CC chemokine receptor 2A (CCR2A) is a class A G protein-coupled receptor and the
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Cell lysis and membrane preparation | Thawing in hypotonic buffer (10 mM [HEPES (HEPES Buffer)](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 10 mM MgCl2, 20 mM KCl), N2 disruption bomb at 50 bar | -- | 10 mM [HEPES (HEPES Buffer)](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 10 mM MgCl2, 20 mM KCl, 0.5 mg/mL DNase, EDTA-free protease inhibitor cocktail + -- | Membranes washed, supplemented with 30% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) and 2 mg/mL [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/), incubated 1 h at 4 C |
 | Solubilization | Solubilization of membranes with detergent | -- | Membrane preparation buffer + 1.0% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% CHS | Solubilized for at least 2 hours at 4 C; clarified by centrifugation at 100,000 x g for 1 h |
 | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) Superflow Metal Affinity Resin (Ni-IMAC) | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) Superflow | 25 mM HEPES pH 7.5, 150 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.05% DDM, 0.05% CHS, 30 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (wash); 200 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (elution) + 0.05% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/), 0.05% CHS | 6 eluates of 10 min each; 1 mL resin per 1 L culture. Elution buffer: 25 mM HEPES pH 7.5, 150 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.05% DDM, 0.005% CHS, 200 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 10 mM MgCl2 |
-| Tag cleavage | [PreScission Protease](/xray-mp-wiki/reagents/additives/prescission-protease/) treatment overnight at 4 C | -- | Buffer without [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (post PD-10 desalting) + -- | 10 U/mg protein; removed C-terminal [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) and His tags |
+| Tag cleavage | [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) treatment overnight at 4 C | -- | Buffer without [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (post PD-10 desalting) + -- | 10 U/mg protein; removed C-terminal [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) and His tags |
 | [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | HiLoad [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) pg 200 column | [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) pg 200 | 25 mM HEPES pH 7.5, 150 mM NaCl, 0.05% DDM, 0.005% CHS, 1 uM [MK-0812](/xray-mp-wiki/reagents/ligands/mk-0812/) + 0.05% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/), 0.005% CHS | Concentrated to 40-50 mg/mL using 30 kDa MWCO concentrator; yields varied 0.5-2 mg/L depending on construct |
 
 
@@ -89,7 +89,7 @@ Both CCR2A structures adopt the inactive chemokine receptor signature: intracell
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Primary crystallization method used for both [CC Chemokine Receptor 2A (CCR2A)](/xray-mp-wiki/proteins/gpcr/ccr2a/) structures
 - [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Referenced in [CC Chemokine Receptor 2A (CCR2A)](/xray-mp-wiki/proteins/gpcr/ccr2a/)
 - [1,2-Propanediol](/xray-mp-wiki/reagents/additives/12-propanediol/) — Referenced in [CC Chemokine Receptor 2A (CCR2A)](/xray-mp-wiki/proteins/gpcr/ccr2a/)
-- [Ammonium Acetate](/xray-mp-wiki/reagents/additives/ammonium-acetate/) — Referenced in [CC Chemokine Receptor 2A (CCR2A)](/xray-mp-wiki/proteins/gpcr/ccr2a/)
+- [Ammonium Acetate](/xray-mp-wiki/reagents/buffers/ammonium-acetate/) — Referenced in [CC Chemokine Receptor 2A (CCR2A)](/xray-mp-wiki/proteins/gpcr/ccr2a/)
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Referenced in [CC Chemokine Receptor 2A (CCR2A)](/xray-mp-wiki/proteins/gpcr/ccr2a/)
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Referenced in [CC Chemokine Receptor 2A (CCR2A)](/xray-mp-wiki/proteins/gpcr/ccr2a/)
 - [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) — Referenced in [CC Chemokine Receptor 2A (CCR2A)](/xray-mp-wiki/proteins/gpcr/ccr2a/)
@@ -99,7 +99,7 @@ Both CCR2A structures adopt the inactive chemokine receptor signature: intracell
 - [Rubredoxin](/xray-mp-wiki/reagents/protein-tags/rubredoxin/) — Referenced in [CC Chemokine Receptor 2A (CCR2A)](/xray-mp-wiki/proteins/gpcr/ccr2a/)
 - [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Referenced in [CC Chemokine Receptor 2A (CCR2A)](/xray-mp-wiki/proteins/gpcr/ccr2a/)
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Referenced in [CC Chemokine Receptor 2A (CCR2A)](/xray-mp-wiki/proteins/gpcr/ccr2a/)
-- [PreScission Protease](/xray-mp-wiki/reagents/additives/prescission-protease/) — Referenced in [CC Chemokine Receptor 2A (CCR2A)](/xray-mp-wiki/proteins/gpcr/ccr2a/)
+- [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) — Referenced in [CC Chemokine Receptor 2A (CCR2A)](/xray-mp-wiki/proteins/gpcr/ccr2a/)
 - [DRY Motif](/xray-mp-wiki/concepts/dry-motif/) — Referenced in [CC Chemokine Receptor 2A (CCR2A)](/xray-mp-wiki/proteins/gpcr/ccr2a/)
 - [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) — Referenced in [CC Chemokine Receptor 2A (CCR2A)](/xray-mp-wiki/proteins/gpcr/ccr2a/)
 - [HEPES (HEPES Buffer)](/xray-mp-wiki/reagents/buffers/hepes/) — Referenced in [CC Chemokine Receptor 2A (CCR2A)](/xray-mp-wiki/proteins/gpcr/ccr2a/)

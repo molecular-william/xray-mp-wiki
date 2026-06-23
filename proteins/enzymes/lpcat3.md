@@ -1,5 +1,5 @@
 ---
-title: LPCAT3 (Lysophosphatidylcholine Acyltransferase 3)
+title: "LPCAT3 (Lysophosphatidylcholine Acyltransferase 3)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -34,7 +34,7 @@ LPCAT3 ([LPC](/xray-mp-wiki/reagents/lipids/lysophosphatidylcholine) Acyltransfe
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Human M5 Muscarinic Acetylcholine Receptor
+title: "Human M5 Muscarinic Acetylcholine Receptor"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -23,7 +23,7 @@ The human M5 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcho
 |---|---|---|---|---|---|
 | doi/10.1073##pnas.1914446116 | 6OL9 | 3.4 A | Not specified | Human M5 muscarinic receptor with T4 lysozyme fusion (residues 225-430 of ICL3 replaced by [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/)), S117(3.39)R thermostabilizing mutation, N-terminal 20 amino acids cleaved by TEV protease site, bound to [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/)
  | [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/) |
-| doi/10.1073##pnas.1914446116 | Not specified | 2.55 A | Not specified | Human M5 muscarinic receptor with T4 lysozyme fusion, S117(3.39)R mutation, ternary complex with [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/) and bis-ammonium alkane modulator 4B-C7/3-phth
+| doi/10.1073##pnas.1914446116 | 6OL9 | 2.55 A | Not specified | Human M5 muscarinic receptor with T4 lysozyme fusion, S117(3.39)R mutation, ternary complex with [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/) and bis-ammonium alkane modulator 4B-C7/3-phth
  | [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/), 4B-C7/3-phth |
 
 ## Expression and Purification
@@ -35,7 +35,7 @@ The human M5 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcho
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

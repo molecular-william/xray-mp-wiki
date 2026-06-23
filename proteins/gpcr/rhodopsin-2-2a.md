@@ -1,5 +1,5 @@
 ---
-title: Bovine Rhodopsin (2.2 A Resolution, PDB 1U19)
+title: "Bovine Rhodopsin (2.2 A Resolution, PDB 1U19)"
 created: 2026-05-26
 updated: 2026-05-26
 type: protein
@@ -30,7 +30,7 @@ High-resolution 2.2 A crystal structure of bovine rhodopsin in the dark state (P
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

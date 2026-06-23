@@ -1,5 +1,5 @@
 ---
-title: E. coli MlaB STAS Domain Protein
+title: "E. coli MlaB STAS Domain Protein"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -35,7 +35,7 @@ MlaB is a small STAS (Sulfate Transporter and Anti-Sigma factor Antagonist) doma
 - **Expression system**: E. coli Rosetta 2 (DE3)
 - **Tag info**: N-terminal His6-TEV tag on MlaB
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

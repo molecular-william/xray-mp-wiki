@@ -1,5 +1,5 @@
 ---
-title: MycP1
+title: "MycP1"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -31,7 +31,7 @@ MycP1 (Mycobacterial Protease 1) is a membrane-anchored serine protease of the m
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

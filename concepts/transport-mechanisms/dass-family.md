@@ -56,6 +56,6 @@ malate (dicarboxylates) are preferred by NaDC1 and NaDC3.
 ## Cross-References
 - [VcINDY](/xray-mp-wiki/proteins/slc-transporters/vcindy/) — Bacterial DASS family member with solved crystal structure
 - [Inward-Facing Conformation](/xray-mp-wiki/concepts/transport-mechanisms/inward-facing-conformation/) — VcINDY structure represents an inward-facing conformation of a DASS transporter
-- [Citrate](/xray-mp-wiki/reagents/ligands/citrate/) — Substrate of NaCT (SLC13A5) and VcINDY
+- [Citrate](/xray-mp-wiki/reagents/buffers/citrate/) — Substrate of NaCT (SLC13A5) and VcINDY
 - [Succinate](/xray-mp-wiki/reagents/ligands/succinate/) — Substrate of NaDC1/NaDC3 and VcINDY
 - [Selenomethionine](/xray-mp-wiki/reagents/additives/selenomethionine/) — Used in experimental phasing of VcINDY structure

@@ -1,5 +1,5 @@
 ---
-title: Human Aquaporin 1 (hAQP1)
+title: "Human Aquaporin 1 (hAQP1)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -36,7 +36,7 @@ solved from bovine red blood cells.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1107##s2053230x14024558 | -- | 3.28 | I422 | Full-length human [AQP1](/xray-mp-wiki/proteins/other-ion-channels/aqp1/) (residues 1-269) with N-terminal 6xHis tag and TEV cleavage site, expressed in Sf9 insect cells |  |
+| doi/10.1107##s2053230x14024558 | 4CSK | 3.28 | I422 | Full-length human [AQP1](/xray-mp-wiki/proteins/other-ion-channels/aqp1/) (residues 1-269) with N-terminal 6xHis tag and TEV cleavage site, expressed in Sf9 insect cells |  |
 
 ## Expression and Purification
 
@@ -50,7 +50,7 @@ solved from bovine red blood cells.
 - **Expression construct**: 6xHis-tagged hAQP1 with TEV cleavage site
 - **Tag info**: N-terminal 6xHis tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

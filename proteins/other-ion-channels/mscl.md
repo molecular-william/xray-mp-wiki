@@ -1,5 +1,5 @@
 ---
-title: Mechanosensitive Channel of Large Conductance MscL (Mycobacterium tuberculosis)
+title: "Mechanosensitive Channel of Large Conductance MscL (Mycobacterium tuberculosis)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -31,7 +31,7 @@ MscL (mechanosensitive channel of large conductance) from Mycobacterium tubercul
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

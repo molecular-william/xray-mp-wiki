@@ -1,5 +1,5 @@
 ---
-title: Human P2Y1 Receptor
+title: "Human P2Y1 Receptor"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -28,14 +28,14 @@ The human P2Y1 receptor (P2Y1R) is a class A [G Protein](/xray-mp-wiki/concepts/
 
 ## Expression and Purification
 
-- **Expression system**: [Sf9](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) insect cells ([Bac-to-Bac](/xray-mp-wiki/methods/expression-systems/bac-to-bac/) [Baculovirus](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) Expression System)
+- **Expression system**: [Sf9](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) insect cells ([Bac-to-Bac](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) [Baculovirus](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) Expression System)
 - **Construct**: Two engineered constructs: Construct 1 with rubredoxin (M1-E54) fused into ICL3 at K247-P253 and D320N mutation. Construct 2 with A23-L128 of thermostabilized BRIL fused before residue A8 and D320N mutation. High-titre recombinant baculovirus (>10^8 viral particles per ml) used to infect Sf9 cells at 2x10^6 to 3x10^6 cells/ml at MOI of 5.
 
 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

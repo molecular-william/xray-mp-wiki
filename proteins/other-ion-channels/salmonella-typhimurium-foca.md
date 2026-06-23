@@ -1,5 +1,5 @@
 ---
-title: Salmonella typhimurium FocA Formate Channel (StFocA)
+title: "Salmonella typhimurium FocA Formate Channel (StFocA)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ FocA (formate channel) from Salmonella typhimurium is a pentameric integral memb
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.1199098 | not specified | not specified | — | Full-length StFocA crystallized at pH 4.0 |  |
+| doi/10.1126##science.1199098 | 3Q7K | not specified | — | Full-length StFocA crystallized at pH 4.0 |  |
 
 ## Expression and Purification
 

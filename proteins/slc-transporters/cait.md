@@ -1,5 +1,5 @@
 ---
-title: CaiT Carnitine Antiporter from Escherichia coli
+title: "CaiT Carnitine Antiporter from Escherichia coli"
 created: 2026-06-05
 updated: 2026-06-08
 type: protein
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-CaiT is an [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/)/[Gamma-Butyrobetaine (4-Trimethylaminobutyrate)](/xray-mp-wiki/reagents/ligands/gamma-butyrobetaine/) antiporter from Escherichia coli that belongs to the betaine/[Choline](/xray-mp-wiki/reagents/substrates/choline/)/carnitine transporter (BCCT) family. Unlike other BCCT family members which are Na+/H+-dependent symporters, CaiT functions as a precursor/product antiporter independently of the ion gradient. The crystal structure at 3.15 A resolution reveals a homotrimeric complex with each protomer containing 12 transmembrane helices and 4 [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/) molecules outlining the transport pathway across the membrane. High-resolution structures of CaiT from Proteus mirabilis (PmCaiT, 2.3 A) and E. coli (EcCaiT, 3.5 A) revealed the fully open inward-facing conformation and demonstrated a Na+-independent mechanism in which a methionine sulphur (Met331) coordinates the substrate in place of a sodium ion. Mutagenesis studies identified a primary binding site at the center of the protein and a secondary substrate-binding site at the bottom of the intracellular vestibule, providing mechanistic insights into the antiport process. The structures also revealed a regulatory extracellular substrate-binding site that mediates cooperative substrate binding with Hill coefficients up to 1.7.
+CaiT is an [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/)/[Gamma-Butyrobetaine (4-Trimethylaminobutyrate)](/xray-mp-wiki/reagents/ligands/gamma-butyrobetaine/) antiporter from Escherichia coli that belongs to the betaine/[Choline](/xray-mp-wiki/reagents/ligands/choline/)/carnitine transporter (BCCT) family. Unlike other BCCT family members which are Na+/H+-dependent symporters, CaiT functions as a precursor/product antiporter independently of the ion gradient. The crystal structure at 3.15 A resolution reveals a homotrimeric complex with each protomer containing 12 transmembrane helices and 4 [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/) molecules outlining the transport pathway across the membrane. High-resolution structures of CaiT from Proteus mirabilis (PmCaiT, 2.3 A) and E. coli (EcCaiT, 3.5 A) revealed the fully open inward-facing conformation and demonstrated a Na+-independent mechanism in which a methionine sulphur (Met331) coordinates the substrate in place of a sodium ion. Mutagenesis studies identified a primary binding site at the center of the protein and a secondary substrate-binding site at the bottom of the intracellular vestibule, providing mechanistic insights into the antiport process. The structures also revealed a regulatory extracellular substrate-binding site that mediates cooperative substrate binding with Hill coefficients up to 1.7.
 
 
 ## Structure Determination
@@ -22,9 +22,9 @@ CaiT is an [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/)/[Gamma-But
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1038##nsmb.1788 | 3HFX | 3.15 A | P6(3) | CaiT from E. coli, residues 12-504, C-terminal GFP-His10 tag with TEV cleavage site, Met353 mutated to Leu; homotrimer | [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/) (4 molecules per protomer) |
-| doi/10.1038##NATURE09310 | unknown | 2.3 A | not specified | PmCaiT from Proteus mirabilis, full-length; [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/)-substituted; inward-open fully open conformation | none (transport site occupied by Trp323 side chain) |
-| doi/10.1038##NATURE09310 | unknown | 3.5 A | not specified | EcCaiT from E. coli, full-length; inward-open conformation with bound [Gamma-Butyrobetaine (4-Trimethylaminobutyrate)](/xray-mp-wiki/reagents/ligands/gamma-butyrobetaine/) substrate | [Gamma-Butyrobetaine (4-Trimethylaminobutyrate)](/xray-mp-wiki/reagents/ligands/gamma-butyrobetaine/) (central transport site + extracellular binding pocket) |
-| doi/10.1073##pnas.1309071110 | unknown | 3.29 A | not specified | PmCaiT R262E mutant from Proteus mirabilis; inward-open substrate-bound conformation; solved by molecular replacement using PDB 2WSW | [Gamma-Butyrobetaine (4-Trimethylaminobutyrate)](/xray-mp-wiki/reagents/ligands/gamma-butyrobetaine/) (rotated orientation with carboxyl group contacting unwound TM1') |
+| doi/10.1038##NATURE09310 |  | 2.3 A | not specified | PmCaiT from Proteus mirabilis, full-length; [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/)-substituted; inward-open fully open conformation | none (transport site occupied by Trp323 side chain) |
+| doi/10.1038##NATURE09310 |  | 3.5 A | not specified | EcCaiT from E. coli, full-length; inward-open conformation with bound [Gamma-Butyrobetaine (4-Trimethylaminobutyrate)](/xray-mp-wiki/reagents/ligands/gamma-butyrobetaine/) substrate | [Gamma-Butyrobetaine (4-Trimethylaminobutyrate)](/xray-mp-wiki/reagents/ligands/gamma-butyrobetaine/) (central transport site + extracellular binding pocket) |
+| doi/10.1073##pnas.1309071110 | 4M8J | 3.29 A | not specified | PmCaiT R262E mutant from Proteus mirabilis; inward-open substrate-bound conformation; solved by molecular replacement using PDB 2WSW | [Gamma-Butyrobetaine (4-Trimethylaminobutyrate)](/xray-mp-wiki/reagents/ligands/gamma-butyrobetaine/) (rotated orientation with carboxyl group contacting unwound TM1') |
 
 ## Expression and Purification
 
@@ -34,7 +34,7 @@ CaiT is an [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/)/[Gamma-But
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -54,17 +54,17 @@ CaiT is an [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/)/[Gamma-But
 |---|---|
 | Method | Hanging-drop vapor diffusion |
 | Protein sample | CaiT at 10 mg/ml in 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
-| Reservoir | 0.1 M [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/)-NaOH pH 7.5, 20-26% (v/v) [Polyethylene Glycol 400 (PEG 400)](/xray-mp-wiki/reagents/peg-400/), 0.1 M NaCl, 18 mM N-octyl-beta-D-glucopyranoside, 5 mM [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/) |
+| Reservoir | 0.1 M [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/)-NaOH pH 7.5, 20-26% (v/v) [Polyethylene Glycol 400 (PEG 400)](/xray-mp-wiki/reagents/additives/peg-400/), 0.1 M NaCl, 18 mM N-octyl-beta-D-glucopyranoside, 5 mM [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/) |
 | Temperature | 20 C |
 | Growth time | not specified |
-| Notes | Crystals grown by hanging-drop vapor diffusion at 20 C. Heavy atom derivatives obtained by soaking crystals in mother liquor containing 5 mM ethylmercurithiosalicylic acid and sodium salt. Cryoprotected with reservoir solution containing 30% [Polyethylene Glycol 400 (PEG 400)](/xray-mp-wiki/reagents/peg-400/), 0.020% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), and 10 mM N-octyl-beta-D-glucopyranoside. Space group P6(3), cell dimensions a=b=134.2 A, c=85.1 A, alpha=beta=90 deg, gamma=120 deg. Phased by SIRAS using [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) peak-wavelength (1.0039 A) dataset. Model contains residues 12-504, nine [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) atoms, and four [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/) molecules. Rwork/Rfree = 0.262/0.281. |
+| Notes | Crystals grown by hanging-drop vapor diffusion at 20 C. Heavy atom derivatives obtained by soaking crystals in mother liquor containing 5 mM ethylmercurithiosalicylic acid and sodium salt. Cryoprotected with reservoir solution containing 30% [Polyethylene Glycol 400 (PEG 400)](/xray-mp-wiki/reagents/additives/peg-400/), 0.020% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), and 10 mM N-octyl-beta-D-glucopyranoside. Space group P6(3), cell dimensions a=b=134.2 A, c=85.1 A, alpha=beta=90 deg, gamma=120 deg. Phased by SIRAS using [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) peak-wavelength (1.0039 A) dataset. Model contains residues 12-504, nine [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) atoms, and four [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/) molecules. Rwork/Rfree = 0.262/0.281. |
 
 
 ## Biological / Functional Insights
 
 ### BCCT family antiporter with unique Na+-independent mechanism
 
-CaiT belongs to the betaine/[Choline](/xray-mp-wiki/reagents/substrates/choline/)/carnitine transporter (BCCT) family but functions as a precursor/product antiporter independently of the ion gradient, unlike all other BCCT members which are Na+ or H+ dependent symporters. The conserved Na+-binding motif (Gly-X-Gly in TM3) is altered to Cys-Thr-Ser in CaiT, and key Na+-coordinating residues from [BetP (Na+/Betaine Symporter from Corynebacterium glutamicum)](/xray-mp-wiki/proteins/slc-transporters/betp/) are mutated (Ser468 to Leu422 in TM10, Met310 to Ser263 in TM7), disrupting the Na+-binding site.
+CaiT belongs to the betaine/[Choline](/xray-mp-wiki/reagents/ligands/choline/)/carnitine transporter (BCCT) family but functions as a precursor/product antiporter independently of the ion gradient, unlike all other BCCT members which are Na+ or H+ dependent symporters. The conserved Na+-binding motif (Gly-X-Gly in TM3) is altered to Cys-Thr-Ser in CaiT, and key Na+-coordinating residues from [BetP (Na+/Betaine Symporter from Corynebacterium glutamicum)](/xray-mp-wiki/proteins/slc-transporters/betp/) are mutated (Ser468 to Leu422 in TM10, Met310 to Ser263 in TM7), disrupting the Na+-binding site.
 
 ### Four L-carnitine binding sites outline transport pathway
 
@@ -125,7 +125,7 @@ The crystal structure of PmCaiT R262E at 3.29 A resolution reveals a 90-degree r
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent for CaiT solubilization, purification, and cryoprotection
 - [n-Octyl-beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/n-octyl-beta-d-glucopyranoside/) — Detergent used in crystallization and cryoprotection
 - [HEPES (4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid)](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer used in SEC and crystallization (HEPES-NaOH pH 7.5)
-- [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) — TEV protease used for cleavage of C-terminal GFP-His10 tag during purification
+- [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/additives/tev-protease/) — TEV protease used for cleavage of C-terminal GFP-His10 tag during purification
 - [Mercury (HgCl2)](/xray-mp-wiki/reagents/additives/mercury/) — Mercury compound (ethylmercurithiosalicylate) used for SIRAS phasing in crystal structure determination
 - [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/) — Endogenous substrate and ligand of CaiT; four molecules observed per protomer in crystal structure
 - [Gamma-Butyrobetaine](/xray-mp-wiki/reagents/ligands/gamma-butyrobetaine/) — Endogenous substrate of CaiT antiport exchange with L-carnitine

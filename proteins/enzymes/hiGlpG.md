@@ -1,5 +1,5 @@
 ---
-title: HiGlpG (Haemophilus influenzae Rhomboid Protease)
+title: "HiGlpG (Haemophilus influenzae Rhomboid Protease)"
 created: 2026-05-26
 updated: 2026-06-17
 type: protein
@@ -20,7 +20,7 @@ HiGlpG is the rhomboid intramembrane protease from Haemophilus influenzae, a mem
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.0609981104 |  | 2.2 A | C2 / P2(1)2(1)2(1) | Full-length hiGlpG from Haemophilus influenzae (residues 1-276) | Three phosphatidic acid (PA) molecules; two C12E8 detergent molecules |
+| doi/10.1073##pnas.0609981104 | 2NR9 | 2.2 A | C2 / P2(1)2(1)2(1) | Full-length hiGlpG from Haemophilus influenzae (residues 1-276) | Three phosphatidic acid (PA) molecules; two C12E8 detergent molecules |
 | doi/10.1016##j.jmb.2011.01.046 | 3ODJ | 2.85 A | C2 | HiGlpG from H. influenzae (residues 1-133 and 165-164, with residues 134-164 disordered and not modeled; loop 4, helix 5, and loop 5 lack electron density) | None (no inhibitor or ligand bound; detergent molecules present from purification) |
 
 ## Expression and Purification
@@ -30,10 +30,10 @@ HiGlpG is the rhomboid intramembrane protease from Haemophilus influenzae, a mem
 
 ### Purification Workflow
 
-*Source: doi/10.1073##pnas.0609981104*
+#### Source: doi/10.1073##pnas.0609981104
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -43,12 +43,10 @@ HiGlpG is the rhomboid intramembrane protease from Haemophilus influenzae, a mem
 | Affinity purification | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA resin (Qiagen) | 50 mM Tris, 300 mM NaCl, 30 mM imidazole, 20% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/); elution with 250-1000 mM imidazole step gradient + 0.1% DDM | Protein eluted in stepwise manner with 3 x 2 CV of 250, 500, and 1000 mM imidazole |
 | Detergent exchange and gel filtration | Size-exclusion chromatography | Superdex200 (16/60) column (Amersham) | 50 mM Tris (pH 8.0), 20 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 0.05% C12E8 | Protein concentrated by 30K centrifugal filter and subjected to detergent exchange on Superdex200 column |
 
-### Purification Workflow
-
-*Source: doi/10.1016##j.jmb.2011.01.046*
+#### Source: doi/10.1016##j.jmb.2011.01.046
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

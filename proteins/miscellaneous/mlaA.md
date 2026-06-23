@@ -1,5 +1,5 @@
 ---
-title: E. coli MlaA Outer Membrane Lipoprotein
+title: "E. coli MlaA Outer Membrane Lipoprotein"
 created: 2026-05-27
 updated: 2026-06-16
 type: protein
@@ -14,13 +14,13 @@ verified: false
 
 ## Overview
 
-MlaA is an [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) lipoprotein from Escherichia coli that forms a complex with the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) porin proteins OmpC and OmpF. MlaA is a key component of the Mla lipid transport system, where it functions at the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) as a monomeric alpha-helical phospholipid translocation channel embedded in the inner leaflet of the OM with a doughnut-shaped architecture. The central amphipathic pore allows selective removal of misplaced outer leaflet phospholipids while preventing access of inner leaflet phospholipids. Enterobacterial MlaA proteins form stable complexes with OmpF/C, though the porins do not play an active role in phospholipid transport.
+MlaA is an [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) lipoprotein from Escherichia coli that forms a complex with the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) porin proteins OmpC and OmpF. MlaA is a key component of the Mla lipid transport system, where it functions at the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) as a monomeric alpha-helical phospholipid translocation channel embedded in the inner leaflet of the OM with a doughnut-shaped architecture. The central amphipathic pore allows selective removal of misplaced outer leaflet phospholipids while preventing access of inner leaflet phospholipids. Enterobacterial MlaA proteins form stable complexes with OmpF/C, though the porins do not play an active role in phospholipid transport.
 
 ## Structure Determination
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.cell.2017.03.019 | not determined | not determined | not applicable | Mature MlaA (signal peptide-cleaved, residues 1-251) in complex with OmpF porin | none |
+| doi/10.1016##j.cell.2017.03.019 | 5UW8 | not determined | not applicable | Mature MlaA (signal peptide-cleaved, residues 1-251) in complex with OmpF porin | none |
 | doi/10.1038##s41564-017-0046-x | 5NUP | 3.0 | Not specified | Klebsiella pneumoniae MlaA (KpMlaA) in complex with E. coli OmpF trimer, full-length mature protein | none |
 | doi/10.1038##s41564-017-0046-x | 5NUQ | Not specified | Not specified | Serratia marcescens MlaA (SmMlaA) in complex with E. coli OmpF trimer, full-length mature protein | none |
 
@@ -31,25 +31,23 @@ MlaA is an [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membr
 
 ### Purification Workflow
 
-*Source: doi/10.1016##j.cell.2017.03.019*
+#### Source: doi/10.1016##j.cell.2017.03.019
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Co-expression and solubilization | Co-expression of MlaA with OmpF, solubilization with detergent | -- | 50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 300 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/) + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) | MlaA-OmpF complex solubilized from [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) fraction |
 | Complex purification | [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) and gel filtration | Not specified | 20 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/) + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | MlaA-OmpC/OmpF complex purified for [biolayer interferometry](/xray-mp-wiki/methods/quality-assessment/biolayer-interferometry/) studies |
 
-### Purification Workflow
-
-*Source: doi/10.1038##s41564-017-0046-x*
+#### Source: doi/10.1038##s41564-017-0046-x
 
 - **Expression system**: E. coli BL21
 - **Expression construct**: KpMlaA (Klebsiella pneumoniae) or SmMlaA (Serratia marcescens) orthologues with N-terminal hexahistidine tag, cloned into pBAD24 vector
 - **Tag info**: N-terminal hexahistidine tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

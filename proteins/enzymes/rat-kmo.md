@@ -1,5 +1,5 @@
 ---
-title: Rat Kynurenine 3-Monooxygenase (Rat KMO)
+title: "Rat Kynurenine 3-Monooxygenase (Rat KMO)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -51,7 +51,7 @@ grown at 27°C, collected 2 days post-infection
 - **Expression construct**: GST-thrombin-KMO-TEV-FLAG (full-length 1-478)
 - **Tag info**: N-terminal GST (thrombin-cleavable), C-terminal FLAG (TEV-cleavable)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -131,4 +131,4 @@ KMO for neurological indications where blood-brain barrier penetration is critic
 - [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — KMO was expressed in Sf9 insect cells using the Bac-to-Bac baculovirus system
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used for membrane protein solubilization and throughout purification
 - [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) — C-terminal FLAG tag used in KMO expression construct
-- [TEV Protease](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) — TEV cleavage site included between KMO and C-terminal FLAG tag
+- [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) — TEV cleavage site included between KMO and C-terminal FLAG tag

@@ -1,5 +1,5 @@
 ---
-title: Human Aquaporin 4 (hAQP4)
+title: "Human Aquaporin 4 (hAQP4)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.0902725106 | — | 1.8 | P42_12 | Full-length hAQP4 (M1 isoform) | [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) |
+| doi/10.1073##pnas.0902725106 | 3GD8 | 1.8 | P42_12 | Full-length hAQP4 (M1 isoform) | [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) |
 
 ## Expression and Purification
 
@@ -34,7 +34,7 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -91,11 +91,11 @@ earlier reports of micromolar inhibition.
 
 - [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — hAQP4 is a member of the aquaporin family
 - [Aquaporin Z (AqpZ)](/xray-mp-wiki/proteins/other-ion-channels/aquaporin-z/) — Comparative structural analysis with AqpZ
-- [Glycerol Facilitator (GlpF)](/xray-mp-wiki/proteins/other-ion-channels/glycerol-facilitator/) — Comparative analysis of water/glycerol selectivity
+- [Glycerol Facilitator (GlpF)](/xray-mp-wiki/proteins/other-ion-channels/glpf/) — Comparative analysis of water/glycerol selectivity
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Used in crystallization; bound in extracellular vestibule
-- [Tetraethylammonium](/xray-mp-wiki/reagents/tetraethylammonium/) — Tested as AQP4 inhibitor
+- [Tetraethylammonium](/xray-mp-wiki/reagents/ligands/tetraethylammonium/) — Tested as AQP4 inhibitor
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Used for phasing with rat AQP4 (2D57) as search model
-- [Molecular Dynamics Simulation](/xray-mp-wiki/methods/molecular-dynamics-simulation/) — MD simulations of water dynamics in the NPA region
+- [Molecular Dynamics Simulation](/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/) — MD simulations of water dynamics in the NPA region
 - [Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/) — Arg-216 and His-201 form the selectivity filter
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [AQP1](/xray-mp-wiki/proteins/other-ion-channels/aqp1/) — Related protein structure

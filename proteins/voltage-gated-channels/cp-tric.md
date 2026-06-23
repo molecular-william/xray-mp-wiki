@@ -1,5 +1,5 @@
 ---
-title: CpTRIC Channel from Clostridium perfringens
+title: "CpTRIC Channel from Clostridium perfringens"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -21,8 +21,8 @@ CpTRIC is a Trimeric Intracellular Cation (TRIC) channel from the bacterium Clos
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##ncomms15103 | not specified | 2.4 A | R32 | CpTRIC residues 1-219, wild-type, Se-Met labeled | Cd2+ (4 binding sites per protomer), Se-Met for phasing |
-| doi/10.1038##ncomms15103 | not specified | 2.4 A | R32 | CpTRIC residues 1-219, wild-type, Native | Cd2+ (4 binding sites per protomer) |
+| doi/10.1038##ncomms15103 |  | 2.4 A | R32 | CpTRIC residues 1-219, wild-type, Se-Met labeled | Cd2+ (4 binding sites per protomer), Se-Met for phasing |
+| doi/10.1038##ncomms15103 |  | 2.4 A | R32 | CpTRIC residues 1-219, wild-type, Native | Cd2+ (4 binding sites per protomer) |
 
 ## Expression and Purification
 
@@ -33,7 +33,7 @@ CpTRIC is a Trimeric Intracellular Cation (TRIC) channel from the bacterium Clos
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

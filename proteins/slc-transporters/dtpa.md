@@ -1,5 +1,5 @@
 ---
-title: E. coli DtpA Peptide Transporter
+title: "E. coli DtpA Peptide Transporter"
 created: 2026-05-29
 updated: 2026-05-29
 type: protein
@@ -36,7 +36,7 @@ DtpA is a proton-dependent oligopeptide transporter (POT) from Escherichia coli 
 - **Expression system**: E. coli
 - **Expression construct**: Full-length DtpA, N- and C-terminal [HIS6-TAG](/xray-mp-wiki/reagents/protein-tags/his6-tag), pH27 vector
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ Five residues in the binding site (Y38, Y71, K130, N160, I399) were mutated to a
 - [POT Family](/xray-mp-wiki/concepts/transport-mechanisms/pot-family/) — DtpA is a member of the POT (proton-dependent oligopeptide transporter) family
 - [Major Facilitator Superfamily](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — POT family is a subfamily of MFS transporters
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for DtpA solubilization, purification, and crystallization
-- [Valganciclovir](/xray-mp-wiki/reagents/ligands/valganciclovir/) — Antiviral prodrug that binds to DtpA and is transported by it
+- [Valganciclovir](/xray-mp-wiki/reagents/antibiotics/valganciclovir/) — Antiviral prodrug that binds to DtpA and is transported by it
 - [Nb.AT110i1 Synthetic Nanobody](/xray-mp-wiki/reagents/antibodies/nb-at110i1/) — Conformation-selective nanobody technology used for DtpA crystallization (N00)
 - [NANOBODY](/xray-mp-wiki/reagents/protein-tags/nanobody) — Reagent used in this study
 - [VALGANCICLOVIR](/xray-mp-wiki/reagents/antibiotics/valganciclovir) — Reagent used in this study

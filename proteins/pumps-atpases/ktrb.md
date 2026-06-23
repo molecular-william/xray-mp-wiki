@@ -1,5 +1,5 @@
 ---
-title: KtrB (Potassium Transporter Membrane Subunit from Bacillus subtilis)
+title: "KtrB (Potassium Transporter Membrane Subunit from Bacillus subtilis)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -34,7 +34,7 @@ KtrB is a membrane protein component of the KtrAB potassium transporter from the
 - **Expression system**: E. coli BL21(DE3)
 - **Expression construct**: N-terminal His-tagged KtrB, tag cleaved with thrombin
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ KtrB is a membrane protein component of the KtrAB potassium transporter from the
 |---|---|
 | Method | Sitting-drop vapor diffusion |
 | Protein sample | KtrAB complex (KtrB homodimer + [KTRA](/xray-mp-wiki/proteins/pumps-atpases/ktra/) octamer) in Buffer E supplemented with 1 mM ATP, concentrated to ~10 mg/ml, detergent exchanged to [Cymal-6](/xray-mp-wiki/reagents/detergents/cymal-6/) |
-| Reservoir | 100 mM [ADA](/xray-mp-wiki/reagents/buffers/ada/) (N-(2-acetamido)-iminodiacetic acid) pH 6.5, 20% [PEG](/xray-mp-wiki/reagents/additives/peg/) 400, 200 mM ammonium sulphate |
+| Reservoir | 100 mM [ADA](/xray-mp-wiki/reagents/buffers/aces/) (N-(2-acetamido)-iminodiacetic acid) pH 6.5, 20% [PEG](/xray-mp-wiki/reagents/additives/peg/) 400, 200 mM ammonium sulphate |
 | Mixing ratio | 1:1 |
 | Temperature | 20 |
 | Cryoprotection | Flash-frozen in liquid nitrogen after addition of mother liquor with 45% [PEG](/xray-mp-wiki/reagents/additives/peg/) 400 |

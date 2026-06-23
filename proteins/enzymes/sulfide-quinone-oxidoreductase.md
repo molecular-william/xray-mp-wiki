@@ -1,5 +1,5 @@
 ---
-title: Sulfide:Quinone Oxidoreductase (SQR) from Aquifex aeolicus
+title: "Sulfide:Quinone Oxidoreductase (SQR) from Aquifex aeolicus"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,9 +21,9 @@ Sulfide:quinone oxidoreductase (SQR) from Aquifex aeolicus is a flavoprotein tha
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.0904165106 | — | 2.3 | — | Native full-length SQR | [FAD](/xray-mp-wiki/reagents/additives/flavin-adenine-dinucleotide/) |
-| doi/10.1073##pnas.0904165106 | — | 2.0 | — | Native full-length SQR | [Decylubiquinone](/xray-mp-wiki/reagents/additives/decylubiquinone/) |
-| doi/10.1073##pnas.0904165106 | — | 2.9 | — | Native full-length SQR | [Aurachin C](/xray-mp-wiki/reagents/additives/aurachin-c/) |
+| doi/10.1073##pnas.0904165106 | 3HYW | 2.3 | — | Native full-length SQR | [FAD](/xray-mp-wiki/reagents/additives/flavin-adenine-dinucleotide/) |
+| doi/10.1073##pnas.0904165106 | 3HYW | 2.0 | — | Native full-length SQR | [Decylubiquinone](/xray-mp-wiki/reagents/additives/decylubiquinone/) |
+| doi/10.1073##pnas.0904165106 | 3HYW | 2.9 | — | Native full-length SQR | [Aurachin C](/xray-mp-wiki/reagents/additives/aurachin-c/) |
 
 ## Expression and Purification
 
@@ -35,7 +35,7 @@ Sulfide:quinone oxidoreductase (SQR) from Aquifex aeolicus is a flavoprotein tha
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -93,9 +93,9 @@ same or an alternative hydrophobic channel.
 - [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) — Physiological electron acceptor for SQR
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/n-dodecyl-beta-d-maltopyranoside/) — Used for membrane protein extraction
 - [MES](/xray-mp-wiki/reagents/buffers/mes/) — Buffer used in crystallization
-- [MIRAS](/xray-mp-wiki/methods/miras/) — Phasing method using Os and Au derivatives
+- [MIRAS](/xray-mp-wiki/methods/structure-determination/miras/) — Phasing method using Os and Au derivatives
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Used in refinement
-- [Riboflavin (Vitamin B2)](/xray-mp-wiki/reagents/riboflavin/) — FAD is derived from riboflavin
+- [Riboflavin (Vitamin B2)](/xray-mp-wiki/reagents/cofactors/riboflavin/) — FAD is derived from riboflavin
 - [MIRAS](/xray-mp-wiki/methods/structure-determination/miras/) — Method used in structure determination or purification
 - [Aurachin C](/xray-mp-wiki/reagents/additives/aurachin-c/) — Additive used in purification or crystallization buffers
 - [Decylubiquinone](/xray-mp-wiki/reagents/additives/decylubiquinone/) — Additive used in purification or crystallization buffers

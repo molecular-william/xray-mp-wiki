@@ -1,5 +1,5 @@
 ---
-title: KvAP Voltage-Dependent Potassium Channel
+title: "KvAP Voltage-Dependent Potassium Channel"
 created: 2026-06-10
 updated: 2026-06-10
 type: protein
@@ -21,8 +21,8 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature01580 | not specified (full-length KvAP-Fab) | 3.2 | I422 | Full-length KvAP from A. pernix (residues 18-240) with Fab 6E1 | K+, Cd2+ |
-| doi/10.1038##nature01580 | not specified (isolated VSD-Fab) | 1.9 | C2 | Isolated voltage-sensor domain (Met 1 to Lys 147) with Fab 33H1 | -- |
+| doi/10.1038##nature01580 | 1ORQ | 3.2 | I422 | Full-length KvAP from A. pernix (residues 18-240) with Fab 6E1 | K+, Cd2+ |
+| doi/10.1038##nature01580 | 1ORQ | 1.9 | C2 | Isolated voltage-sensor domain (Met 1 to Lys 147) with Fab 33H1 | -- |
 
 ## Expression and Purification
 
@@ -32,13 +32,13 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature01580*
+#### Source: doi/10.1038##nature01580
 
 - **Expression system**: E. coli XL1-Blue
 - **Expression construct**: KvAP full-length (residues 18-240) with C-terminal hexahistidine tag
 - **Tag info**: C-terminal hexahistidine, thrombin cleavable
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -48,15 +48,13 @@ KvAP is a voltage-dependent potassium channel from the thermophilic archaebacter
 | Tag cleavage | [Thrombin Protease](/xray-mp-wiki/reagents/protein-tags/thrombin-protease/) cleavage | — | 20 mM Tris pH 8.0, 100 mM KCl + 5 mM DM | Overnight at room temperature (21 C), 1 unit thrombin per 2 mg protein |
 | Size-exclusion chromatography | SEC | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) (10/30) (Pharmacia) | 30 mM n-octyl glucoside |  |
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.1314356110*
+#### Source: doi/10.1073##pnas.1314356110
 
 - **Expression system**: E. coli
 - **Expression construct**: KvAP with Y199-ester substitution (amber suppression at position 199)
 - **Tag info**: Unnatural amino acid (HPLA) incorporated at Y199 via orthogonal tRNA/tRNA synthetase pair
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

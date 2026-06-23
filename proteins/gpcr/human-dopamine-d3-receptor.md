@@ -1,5 +1,5 @@
 ---
-title: Human Dopamine D3 Receptor (D3R)
+title: "Human Dopamine D3 Receptor (D3R)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -32,7 +32,7 @@ dynamics relevant to signaling.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.1197410 |  |  | — | Full-length D3R with T4L fusion in ICL3, N-terminal 31 residues deleted (no interpretable density) | Eticlopride |
+| doi/10.1126##science.1197410 | 3PBL |  | — | Full-length D3R with T4L fusion in ICL3, N-terminal 31 residues deleted (no interpretable density) | Eticlopride |
 
 ## Expression and Purification
 

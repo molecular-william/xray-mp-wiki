@@ -54,5 +54,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [Rhodobacter sphaeroides Reaction Centre with Zn-Bacteriochlorophyll](/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-centre-zn-bchl/) — Primary source of Zn-BChl structural data
+- [Rhodobacter sphaeroides Reaction Centre with Zn-Bacteriochlorophyll](/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-center/) — Primary source of Zn-BChl structural data
 - [Rps. viridis Photosynthetic Reaction Centre](/xray-mp-wiki/proteins/photosynthesis/rps-viridis-reaction-centre/) — Contains native BChl-b cofactors in crystal structure

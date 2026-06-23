@@ -1,5 +1,5 @@
 ---
-title: Human Melanocortin 4 Receptor (MC4-R)
+title: "Human Melanocortin 4 Receptor (MC4-R)"
 created: 2026-05-29
 updated: 2026-05-29
 type: protein
@@ -32,7 +32,7 @@ The human melanocortin 4 receptor (MC4-R) is a class A G protein-coupled recepto
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

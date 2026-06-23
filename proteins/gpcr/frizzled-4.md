@@ -1,5 +1,5 @@
 ---
-title: Frizzled 4 Receptor (FZD4)
+title: "Frizzled 4 Receptor (FZD4)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -30,7 +30,7 @@ The Human Frizzled 4 Mouse 5-HT3A Receptor (FZD4) is a class-F G-Rh Protein from
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

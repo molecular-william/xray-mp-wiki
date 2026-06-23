@@ -1,5 +1,5 @@
 ---
-title: Lysophosphatidic Acid Receptor 6 (LPA6/P2Y5)
+title: "Lysophosphatidic Acid Receptor 6 (LPA6/P2Y5)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -34,7 +34,7 @@ Lysophosphatidic acid receptor 6 (LPA6, also known as P2Y5 or LPAR6) is a class 
 - **Expression construct**: Zebrafish LPA6a with N-term HA-Flag-TEV and C-term TEV-eGFP-His6 tags; C-terminal truncation (313-357); T4L fusion in ICL3
 - **Tag info**: HA signal + Flag epitope (N-term), eGFP-His6 tag (C-term)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

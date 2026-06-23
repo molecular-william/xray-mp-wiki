@@ -1,5 +1,5 @@
 ---
-title: Methanococcus maripaludis Rce1 (MmRce1)
+title: "Methanococcus maripaludis Rce1 (MmRce1)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -20,7 +20,7 @@ Rce1 (Ras and α-factor converting enzyme 1) is an intramembrane protease that p
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature12754 |  | 2.5 | P1 | M. maripaludis Rce1 (MmRce1) residues 1-197, in complex with Fab645-2 | None |
+| doi/10.1038##nature12754 | 4CAD | 2.5 | P1 | M. maripaludis Rce1 (MmRce1) residues 1-197, in complex with Fab645-2 | None |
 
 ## Expression and Purification
 
@@ -30,7 +30,7 @@ Rce1 (Ras and α-factor converting enzyme 1) is an intramembrane protease that p
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

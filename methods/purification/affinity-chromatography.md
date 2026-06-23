@@ -20,6 +20,6 @@ Affinity chromatography is a purification method that separates proteins based o
 
 | Protein | Resolution | PDB | Notes |
 |---|---|---|---|
-| [Maltose Transporter (MalFGK2)](/xray-mp-wiki/proteins/abc-transporters/maltose-transporter/) / EIIA^Glc | not applicable | not specified | MalFGK2 purified by cobalt-affinity (Clontech) for MalK 6x-His tag; EIIA^Glc purified by cobalt-affinity (Clontech) for N-terminal 10x-His tag; both followed by ion-exchange and SEC |
+| [Maltose Transporter (MalFGK2)](/xray-mp-wiki/proteins/abc-transporters/maltose-transporter-malfgk2/) / EIIA^Glc | not applicable | not specified | MalFGK2 purified by cobalt-affinity (Clontech) for MalK 6x-His tag; EIIA^Glc purified by cobalt-affinity (Clontech) for N-terminal 10x-His tag; both followed by ion-exchange and SEC |
 | [KirBac Potassium Channels](/xray-mp-wiki/proteins/voltage-gated-channels/kirbac-potassium-channels/) | 2.6-4.2 A | 1P7B, 1XL4, 1XL6 | His-tag IMAC (Ni2+-loaded resin) for KirBac3.1 from E. coli BL21 DE3 star |
 | [Bovine ADP/ATP Carrier](/xray-mp-wiki/proteins/slc-transporters/bovine-adp-atp-carrier/) | 2.8 A | 2C3E | HTP chromatography for native AAC-CATR from bovine heart mitochondria |

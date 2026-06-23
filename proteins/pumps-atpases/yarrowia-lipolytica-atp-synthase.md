@@ -1,5 +1,5 @@
 ---
-title: Yarrowia lipolytica F1Fo-ATP Synthase
+title: "Yarrowia lipolytica F1Fo-ATP Synthase"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -30,7 +30,7 @@ The F1Fo-ATP synthase from the strictly aerobic yeast Yarrowia lipolytica is a r
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

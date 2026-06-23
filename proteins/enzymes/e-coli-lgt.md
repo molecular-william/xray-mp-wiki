@@ -1,5 +1,5 @@
 ---
-title: E. coli Lipoprotein Diacylglyceryl Transferase (Lgt)
+title: "E. coli Lipoprotein Diacylglyceryl Transferase (Lgt)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,8 +21,8 @@ Lgt (phosphatidylglycerol:prolipoprotein diacylglyceryl transferase) is an integ
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##ncomms10198 |  | 1.6 | P2_12_12_1 | wild-type E. coli Lgt (residues 3-286) | palmitic acid, [OG](/xray-mp-wiki/reagents/detergents/og/), PG |
-| doi/10.1038##ncomms10198 |  | 1.9 | P2_12_12_1 | wild-type E. coli Lgt (residues 3-286) | PG, diacylglycerol ([DAG](/xray-mp-wiki/reagents/lipids/dag/)) |
+| doi/10.1038##ncomms10198 | 5AZC | 1.6 | P2_12_12_1 | wild-type E. coli Lgt (residues 3-286) | palmitic acid, [OG](/xray-mp-wiki/reagents/detergents/og/), PG |
+| doi/10.1038##ncomms10198 | 5AZC | 1.9 | P2_12_12_1 | wild-type E. coli Lgt (residues 3-286) | PG, diacylglycerol ([DAG](/xray-mp-wiki/reagents/lipids/dag/)) |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ Lgt (phosphatidylglycerol:prolipoprotein diacylglyceryl transferase) is an integ
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

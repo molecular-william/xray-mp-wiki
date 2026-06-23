@@ -1,5 +1,5 @@
 ---
-title: Human Platelet-Activating Factor Receptor (PAFR)
+title: "Human Platelet-Activating Factor Receptor (PAFR)"
 created: 2018-05-28
 updated: 2026-06-08
 type: protein
@@ -31,14 +31,14 @@ The human platelet-activating factor receptor (PAFR) is a class A [G Protein](/x
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Expression | [Baculovirus](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) infection of [Sf9](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) cells at MOI 5 for 48 h; 1 uM SR 27417 or ABT-491 added during expression | -- | 10 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 10 mM MgCl2, 20 mM KCl, EDTA-free [protease inhibitor cocktail](/xray-mp-wiki/reagents/additives/protease-inhibitor-cocktail/) + -- | Cells disrupted by hypotonic buffer and Dounce homogenization; extensive washing of membranes by repeated centrifugation |
 | Solubilization | Detergent solubilization | -- | 30 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 5 mM MgCl2, 10 mM KCl, 7.5% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 25 uM ligand (SR 27417 or ABT-491), 1 mg/ml [iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/), EDTA-free [protease inhibitor cocktail](/xray-mp-wiki/reagents/additives/protease-inhibitor-cocktail/) + 0.5% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% [cholesterol hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Membranes solubilized at 0.5% DDM + 0.1% CHS |
 | Affinity purification | [TALON](/xray-mp-wiki/reagents/additives/talon/) [IMAC](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC resin (Clontech) | Same as solubilization buffer with ligand + 0.5% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Imidazole removed via PD MiniTrap G-25 column after elution |
-| Tag cleavage | [PreScission protease](/xray-mp-wiki/reagents/additives/prescission-protease/) cleavage (overnight) | -- | Same as solubilization buffer + 0.5% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Histidine-tagged PreScission protease (30 ul) treated overnight to remove C-terminal His tag |
+| Tag cleavage | [PreScission protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) cleavage (overnight) | -- | Same as solubilization buffer + 0.5% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Histidine-tagged PreScission protease (30 ul) treated overnight to remove C-terminal His tag |
 | Negative purification | Negative [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) purification | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) superflow resin (Qiagen) | Same as solubilization buffer + 0.5% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Cleaved His tag and PreScission protease removed by passage through Ni-NTA resin |
 | Concentration | Concentration by ultrafiltration | -- | Same as solubilization buffer + 0.5% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | PAFR-flavodoxin concentrated to 30-40 mg/ml; PAFR-mT4L concentrated to 40-45 mg/ml; Vivaspin concentrator with 100 kDa MWCO |
 

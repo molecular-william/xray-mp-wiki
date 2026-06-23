@@ -1,12 +1,12 @@
 ---
 title: Switch-Loop Gating in RND Multidrug Transporters
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-functional, subdirectory-concepts]
-sources: [doi/10.1073##pnas.2215072120 - doi/10.1073##pnas.1114944109]
+tags: [concept-functional, subdirectory-transport-mechanisms]
+sources: [doi/10.1073##pnas.2215072120, doi/10.1073##pnas.1114944109, doi/10.1038##s41467-021-24151-3]
 verified: false
 ---
 
@@ -28,7 +28,7 @@ In the L (loose) conformation, the lateral periplasmic cleft forms an access poc
 
 
 ## Cross-References
-- [AcrB Multidrug Efflux Transporter](/xray-mp-wiki/proteins/abc-transporters/acrB/) — AcrB is the primary system where the switch-loop gating mechanism was characterized
+- [AcrB Multidrug Efflux Transporter](/xray-mp-wiki/proteins/abc-transporters/acrb/) — AcrB is the primary system where the switch-loop gating mechanism was characterized
 - [Peristaltic Pump Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/peristaltic-pump-mechanism/) — The switch-loop gating is a key element of the peristaltic transport cycle
 - [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) — Switch-loop gating is conserved among RND family transporters
 - [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Related protein structure

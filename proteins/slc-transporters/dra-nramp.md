@@ -1,5 +1,5 @@
 ---
-title: Deinococcus radiodurans Nramp (DraNramp)
+title: "Deinococcus radiodurans Nramp (DraNramp)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -33,10 +33,10 @@ DraNramp is a divalent metal transporter from Deinococcus radiodurans belonging 
 
 ### Purification Workflow
 
-*Source: doi/10.1016##j.str.2016.09.017*
+#### Source: doi/10.1016##j.str.2016.09.017
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -46,12 +46,10 @@ DraNramp is a divalent metal transporter from Deinococcus radiodurans belonging 
 | IMAC | Immobilized metal affinity chromatography | Ni-Sepharose (GE Healthcare) | 20 mM NaPO4 pH 7.0, 75 mM imidazole-HCl pH 7.0, 500 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 0.03% beta-DDM + 0.03% beta-DDM | Pre-equilibrated with lysis buffer + 0.03% beta-DDM. Washed thrice with 50 mL. Eluted with [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) gradient to 450 mM. |
 | SEC | Size-exclusion chromatography | Superdex S200 (GE Healthcare) | 20 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 150 mM NaCl, 0.1% (w/v) beta-decylmaltoside ([DM](/xray-mp-wiki/reagents/detergents/dm/)) + 0.1% beta-DM | Protein concentrated to ~1 mL in 50 kDa cutoff centrifugal concentrator before SEC. Pooled fractions concentrated to ~5 mg/mL. |
 
-### Purification Workflow
-
-*Source: doi/10.7554##eLife.84006*
+#### Source: doi/10.7554##eLife.84006
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

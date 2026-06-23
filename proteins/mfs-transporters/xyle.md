@@ -1,5 +1,5 @@
 ---
-title: XylE (Escherichia coli Sugar Transporter)
+title: "XylE (Escherichia coli Sugar Transporter)"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -37,13 +37,13 @@ XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature11524*
+#### Source: doi/10.1038##nature11524
 
 - **Expression system**: E. coli BL21(DE3)
 - **Expression construct**: Full-length XylE with N-terminal [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag) (pET15b)
 - **Tag info**: [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag), removed by protease
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -57,15 +57,13 @@ XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage
 
 **Final sample**: 10 mg/ml in 25 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 150 mM NaCl
 
-### Purification Workflow
-
-*Source: doi/10.1038##ncomms5521*
+#### Source: doi/10.1038##ncomms5521
 
 - **Expression system**: E. coli BL21 C43(DE3)
 - **Expression construct**: Truncated XylE residues 6-480, N-terminal [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag) (pET-15b)
 - **Tag info**: [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag), removed by thrombin protease overnight at 4C with 2.5 mM CaCl2
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -79,15 +77,13 @@ XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage
 
 **Final sample**: 5-6 mg/ml
 
-### Purification Workflow
-
-*Source: doi/10.1038##nsmb.2569*
+#### Source: doi/10.1038##nsmb.2569
 
 - **Expression system**: E. coli C41(DE3)
 - **Expression construct**: Full-length wild-type XylE from E. coli C41(DE3), N-terminal His6-TEV tag (modified pTH27 vector)
 - **Tag info**: [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag) with TEV protease cleavage site, removed by TEV protease
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -231,9 +227,9 @@ At the periplasmic side, interactions between the N and C subdomains are tighter
 - [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) — Affinity purification of His-tagged XylE
 - [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) — SEC polishing of XylE
 - [Thrombin Protease](/xray-mp-wiki/reagents/protein-tags/thrombin-protease/) — Used to cleave His-tag from XylE
-- [D-Xylose](/xray-mp-wiki/reagents/ligands/d-xylose/) — Primary ligand studied; substrate for XylE transport
+- [D-Xylose](/xray-mp-wiki/reagents/substrates/d-xylose/) — Primary ligand studied; substrate for XylE transport
 - [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Competitive inhibitor of XylE; binds with Kd 0.77 mM; also used as crystallization additive
 - [Molecular Dynamics Simulation](/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/) — Used to investigate transport cycle and proton-coupling mechanism
-- [HEPES](/xray-mp-wiki/reagents/additives/hepes/) — Buffer used for SEC purification and final sample preparation (20 mM HEPES pH adjusted)
+- [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer used for SEC purification and final sample preparation (20 mM HEPES pH adjusted)
 - [Tris(2-carboxyethyl)phosphine (TCEP)](/xray-mp-wiki/reagents/additives/tcep/) — Reducing agent used at 0.5 mM in lysis, solubilization, and purification buffers
 - [His6-tag](/xray-mp-wiki/reagents/protein-tags/histidine-tag/) — N-terminal His6-TEV tag used for IMAC purification of XylE in nsmb.2569 study

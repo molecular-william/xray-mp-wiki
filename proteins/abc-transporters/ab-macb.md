@@ -1,5 +1,5 @@
 ---
-title: MacB ABC Transporter from Acinetobacter baumannii
+title: "MacB ABC Transporter from Acinetobacter baumannii"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -36,7 +36,7 @@ MacB from Acinetobacter baumannii is an ATP-binding cassette (ABC) transporter t
 - **Expression construct**: Full-length A. baumannii MacB with C-terminal His6-tag
 - **Tag info**: C-terminal His6-tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

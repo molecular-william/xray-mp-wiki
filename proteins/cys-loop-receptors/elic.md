@@ -1,5 +1,5 @@
 ---
-title: ELIC (Erwinia chrysanthemi Pentameric Ligand-Gated Ion Channel)
+title: "ELIC (Erwinia chrysanthemi Pentameric Ligand-Gated Ion Channel)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -23,9 +23,9 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 |---|---|---|---|---|---|
 | doi/10.7554##eLife.51511 | 6SSI | 2.59 | Not specified | ELIC + PAM-Nb complex |  |
 | doi/10.7554##eLife.51511 | 6SSP | 3.25 | Not specified | ELIC + NAM-Nb complex |  |
-| doi/10.1074##jbc.M112.424507 | Not specified in paper (bromoform-bound complex) | 3.65 | P2_1 | Full-length ELIC (wild-type) in complex with  |  (three binding sites: channel pore, transmembrane intersubunit, extracellular domain) |
+| doi/10.1074##jbc.M112.424507 | 3ZKR | 3.65 | P2_1 | Full-length ELIC (wild-type) in complex with  |  (three binding sites: channel pore, transmembrane intersubunit, extracellular domain) |
 | doi/10.1038##ncomms1703 | 2VL0 | 3.28 | — | ELIC wild-type |  |
-| doi/10.1038##s41589-019-0369-4 | 6HJX | 2.50 | Not specified | ELIC 7'C pore mutant (L238C) bound to  72 (Nb72); highest resolution ELIC structure to date |  (PE), [Sodium Ion (Na+)](/xray-mp-wiki/reagents/sodium-ion/) |
+| doi/10.1038##s41589-019-0369-4 | 6HJX | 2.50 | Not specified | ELIC 7'C pore mutant (L238C) bound to  72 (Nb72); highest resolution ELIC structure to date |  (PE), [Sodium Ion (Na+)](/xray-mp-wiki/reagents/ligands/sodium-ion/) |
 | doi/10.1038##s41589-019-0369-4 | 6HJY | 2.78 | Not specified | ELIC Delta8 deletion mutant (M4 C-terminal 8 residues deleted) bound to Nb72 |  |
 | doi/10.1038##s41589-019-0369-4 | 6HK0 | Not specified | Not specified | ELIC F16'S mutant with alternative unkinked M4 conformation |  |
 
@@ -37,12 +37,12 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 
 ### Purification Workflow
 
-*Source: doi/10.7554##eLife.51511*
+#### Source: doi/10.7554##eLife.51511
 
 - **Expression system**: E. coli C43
 - **Expression construct**: Full-length ELIC in pGEM-HE or similar expression vector
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -52,15 +52,13 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 | [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | SEC | — |  | ELIC purified in detergent solution prior to  complex formation |
 |  complex formation | Co-incubation | — |  | Purified ELIC incubated with excess PAM-Nb or NAM-Nb prior to crystallization |
 
-### Purification Workflow
-
-*Source: doi/10.1038##s41589-019-0369-4*
+#### Source: doi/10.1038##s41589-019-0369-4
 
 - **Expression system**: E. coli C43
 - **Expression construct**: MBP-ELIC fusion with 3C protease cleavage site; ELIC cDNA cloned into pET-11a with N-terminal [MBP (Escherichia coli Maltose-Binding Protein)](/xray-mp-wiki/proteins/abc-transporters/maltose-binding-protein/) fusion tag
 - **Tag info**: N-terminal [MBP (Escherichia coli Maltose-Binding Protein)](/xray-mp-wiki/proteins/abc-transporters/maltose-binding-protein/) fusion tag removed by 3C protease
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -70,20 +68,18 @@ ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte
 | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Amylose resin affinity | Amylose resin (New England Biolabs) |  | Batch purification on amylose resin; column-bound ELIC cleaved by 3C protease in presence of 1 mM  + 1 mM  at 4 C overnight |
 | [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | SEC | Superdex 200 10/300 GL | 10 mM Na-phosphate pH 8.0, 150 mM NaCl, 0.15%  | Final purification step; concentrated protein (10 mg/mL) supplemented with 0.5 mg/mL E. coli lipids |
 
-### Purification Workflow
-
-*Source: doi/10.1074##jbc.M112.424507*
+#### Source: doi/10.1074##jbc.M112.424507
 
 - **Expression system**: E. coli
 - **Expression construct**: ELIC cDNA in pGEM-HE or similar vector
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Expression | Referenced to previously described protocols | — |  | Expression and purification of ELIC performed as described in the original ELIC structure paper |
 | Purification | Referenced to previously described protocols (Hilf and Dutzler, 2008) | — |  | Purified ELIC protein concentrated and exchanged into buffer containing  for crystallization |
-| Electrophysiology | [TEVC](/xray-mp-wiki/methods/two-electrode-voltage-clamp/) in Xenopus oocytes | — |  | cRNA transcribed from linearized pGEM-HE plasmids. Oocytes injected with 30 nl cRNA (100 ng/nl). Recordings at -60 mV (ELIC) or -80 mV (GlyR) using Axoclamp 900A or HiClamp apparatus. Currents sampled at 100 Hz, low pass-filtered at 10 Hz. |
+| Electrophysiology | [TEVC](/xray-mp-wiki/methods/quality-assessment/two-electrode-voltage-clamp/) in Xenopus oocytes | — |  | cRNA transcribed from linearized pGEM-HE plasmids. Oocytes injected with 30 nl cRNA (100 ng/nl). Recordings at -60 mV (ELIC) or -80 mV (GlyR) using Axoclamp 900A or HiClamp apparatus. Currents sampled at 100 Hz, low pass-filtered at 10 Hz. |
 
 
 ## Crystallization

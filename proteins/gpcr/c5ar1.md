@@ -1,5 +1,5 @@
 ---
-title: Human Complement C5a Receptor 1 (C5aR1)
+title: "Human Complement C5a Receptor 1 (C5aR1)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -33,10 +33,10 @@ The human complement C5a receptor 1 (C5aR1, also known as CD88) is a class A G p
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature25025*
+#### Source: doi/10.1038##nature25025
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -44,18 +44,16 @@ The human complement C5a receptor 1 (C5aR1, also known as CD88) is a class A G p
 | Membrane preparation | Homogenization and ultracentrifugation |  | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.4, 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/) | Homogenized 30 s at max speed, centrifuged at 48,000g for 30 min at 4 C |
 | Solubilization | Detergent solubilization |  | 50 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/)-NaOH pH 7.5, 150 mM NaCl, 1% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Incubated at 4 C for 1 h; cleared by centrifugation at 16,000g for 15 min |
 
-### Purification Workflow
-
-*Source: doi/10.1038##s41594-018-0067-z*
+#### Source: doi/10.1038##s41594-018-0067-z
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
-| Cell lysis | Osmotic shock |  | 10 mM [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 150 ug/ml [Benzamidine](/xray-mp-wiki/reagents/additives/benzamidine/), 0.2 ug/ml leupeptin, 2 mg/ml [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) | Sf9 cells lysed by osmotic shock; membrane fractions collected at 25,000g for 30 min at 4 C |
-| Solubilization | Detergent solubilization |  | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.8, 750 mM NaCl, 20% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 150 ug/ml [Benzamidine](/xray-mp-wiki/reagents/additives/benzamidine/), 0.2 ug/ml leupeptin, 2 mg/ml [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/), 5 U Salt Active Nuclease + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.2% CHS, 0.2% cholate | 2 h at 4 C; all steps in presence of 100 [NM](/xray-mp-wiki/reagents/detergents/nm/) [NDT9513727](/xray-mp-wiki/reagents/ligands/ndt9513727/) (or avacopan) and 100 [NM](/xray-mp-wiki/reagents/detergents/nm/) PMX53 |
-| Affinity chromatography (Ni-NTA) | Immobilized metal affinity chromatography | [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 500 mM NaCl, 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.02% CHS, 150 ug/ml [Benzamidine](/xray-mp-wiki/reagents/additives/benzamidine/), 0.2 ug/ml leupeptin, 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.02% CHS | Batch binding for 2 h at 4 C; washed three times |
+| Cell lysis | Osmotic shock |  | 10 mM [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 150 ug/ml [Benzamidine](/xray-mp-wiki/reagents/ligands/benzamidine/), 0.2 ug/ml leupeptin, 2 mg/ml [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) | Sf9 cells lysed by osmotic shock; membrane fractions collected at 25,000g for 30 min at 4 C |
+| Solubilization | Detergent solubilization |  | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.8, 750 mM NaCl, 20% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 150 ug/ml [Benzamidine](/xray-mp-wiki/reagents/ligands/benzamidine/), 0.2 ug/ml leupeptin, 2 mg/ml [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/), 5 U Salt Active Nuclease + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.2% CHS, 0.2% cholate | 2 h at 4 C; all steps in presence of 100 [NM](/xray-mp-wiki/reagents/detergents/nm/) [NDT9513727](/xray-mp-wiki/reagents/ligands/ndt9513727/) (or avacopan) and 100 [NM](/xray-mp-wiki/reagents/detergents/nm/) PMX53 |
+| Affinity chromatography (Ni-NTA) | Immobilized metal affinity chromatography | [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 500 mM NaCl, 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.02% CHS, 150 ug/ml [Benzamidine](/xray-mp-wiki/reagents/ligands/benzamidine/), 0.2 ug/ml leupeptin, 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.02% CHS | Batch binding for 2 h at 4 C; washed three times |
 | Affinity chromatography (anti-Flag M1) | Anti-Flag M1 affinity chromatography | Anti-Flag M1 antibody resin (homemade) | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 100 mM NaCl, 0.01% MNG, 0.001% CHS, 200 ug/ml Flag peptide, 5 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/) + 0.01% MNG, 0.001% CHS | Detergent exchanged from [DDM](/xray-mp-wiki/reagents/detergents/ddm/) to MNG on the M1 resin; eluted with Flag peptide and [EDTA](/xray-mp-wiki/reagents/additives/edta/) |
 | TEV cleavage | Overnight TEV protease digestion |  | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 100 mM NaCl, 0.01% MNG, 0.001% CHS + 0.01% MNG, 0.001% CHS | TEV protease (homemade); 4 C overnight |
 | Size exclusion chromatography | Size exclusion chromatography | Superdex 200 Increase (GE Healthcare) | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 100 mM NaCl, 0.01% MNG, 0.001% CHS + 0.01% MNG, 0.001% CHS | Monodisperse receptor obtained; concentrated to 40-50 mg/ml with ligands at 10 uM each |
@@ -112,6 +110,6 @@ An extensive water-mediated polar network exists in the orthosteric site, mediat
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used for C5aR crystallization
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Final purification step using Superdex 200 Increase
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Ni-NTA and anti-Flag M1 affinity steps used in purification
-- [Baculovirus Expression System in Sf9 Cells](/xray-mp-wiki/methods/baculovirus-expression-system/) — Expression system used for BRIL-C5aR production
+- [Baculovirus Expression System in Sf9 Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Expression system used for BRIL-C5aR production
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein structure
 - [ELIC (Erwinia chrysanthemi Pentameric Ligand-Gated Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/elic/) — Related protein structure

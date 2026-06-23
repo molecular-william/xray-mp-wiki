@@ -1,5 +1,5 @@
 ---
-title: HOT75BPR (Blue-Light-Absorbing Proteorhodopsin from Pacific Ocean)
+title: "HOT75BPR (Blue-Light-Absorbing Proteorhodopsin from Pacific Ocean)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein

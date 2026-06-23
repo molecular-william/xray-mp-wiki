@@ -45,6 +45,6 @@ No comparison data available.
 ## Cross-References
 
 - [CaiT Carnitine Antiporter from Escherichia coli](/xray-mp-wiki/proteins/slc-transporters/cait/) — Heavy atom compound used for SIRAS phasing of CaiT crystal structure (PDB 3HFX)
-- [Single Wavelength Anomalous Diffraction (SWAD/SIRAS)](/xray-mp-wiki/methods/single-wavelength-anomalous-diffraction/) — Phasing method using mercury heavy atom derivative
+- [Single Wavelength Anomalous Diffraction (SWAD/SIRAS)](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/) — Phasing method using mercury heavy atom derivative
 - [Mercury (HgCl2)](/xray-mp-wiki/reagents/additives/mercury/) — Related mercury compound used as heavy atom in crystallography
 - [Single-Wavelength Anomalous Diffraction](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/) — Method used in structure determination or purification

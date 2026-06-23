@@ -1,5 +1,5 @@
 ---
-title: NrfH Quinol Dehydrogenase from Desulfovibrio vulgaris
+title: "NrfH Quinol Dehydrogenase from Desulfovibrio vulgaris"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -30,7 +30,7 @@ NrfH is a membrane-bound cytochrome c quinol dehydrogenase from Desulfovibrio vu
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

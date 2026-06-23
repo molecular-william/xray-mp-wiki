@@ -37,7 +37,7 @@ affinity for Asp-Ala.
 - Human PEPT1 (SLC15A1) — Wild-type human PEPT1 has Gln300 at the corresponding position and does not show pronounced affinity for charged dipeptides. The Q300K mutant gains specificity for Asp-Ala.
 
 ## Related Concepts
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — POT/PTR family transporters belong to the MFS fold
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — POT/PTR family transporters belong to the MFS fold
 
 ## Cross-References
 - [YePEPT — Yersinia enterocolitica Peptide Transporter](/xray-mp-wiki/proteins/mfs-transporters/yepept/) — YePEPT defines the electrostatic substrate recognition mechanism in the POT family

@@ -1,5 +1,5 @@
 ---
-title: Yeast V1-ATPase from Saccharomyces cerevisiae
+title: "Yeast V1-ATPase from Saccharomyces cerevisiae"
 created: 2026-06-09
 updated: 2026-06-09
 type: protein
@@ -41,7 +41,7 @@ open catalytic site, stabilizing an ADP-inhibited state.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

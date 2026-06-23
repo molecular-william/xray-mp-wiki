@@ -1,5 +1,5 @@
 ---
-title: C. elegans TRIC-B2 Channel
+title: "C. elegans TRIC-B2 Channel"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -22,7 +22,7 @@ TRIC-B2 is an intracellular cation channel from Caenorhabditis elegans belonging
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1038##nature19767 | 5EIK | 2.3 A | R32 | CeTRIC-B2 (residues 1-252), C. elegans, Myc and 6His tags removed | [PIP2](/xray-mp-wiki/reagents/lipids/phosphatidylinositol-4-5-bisphosphate/) (phosphatidylinositol-4,5-biphosphate), Ca2+-free state |
-| doi/10.1038##nature19767 | 5EIK (NaAc data) | 2.3 A | R32 | CeTRIC-B2 (residues 1-252), C. elegans | [Sodium Acetate](/xray-mp-wiki/reagents/buffers/sodium-acetate/) crystallization condition |
+| doi/10.1038##nature19767 | 5EIK | 2.3 A | R32 | CeTRIC-B2 (residues 1-252), C. elegans | [Sodium Acetate](/xray-mp-wiki/reagents/buffers/sodium-acetate/) crystallization condition |
 
 ## Expression and Purification
 
@@ -33,7 +33,7 @@ TRIC-B2 is an intracellular cation channel from Caenorhabditis elegans belonging
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

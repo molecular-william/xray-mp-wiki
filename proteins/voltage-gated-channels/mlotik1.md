@@ -1,5 +1,5 @@
 ---
-title: MlotiK1 (Mesorhizobium loti Cyclic Nucleotide-Regulated Potassium Channel)
+title: "MlotiK1 (Mesorhizobium loti Cyclic Nucleotide-Regulated Potassium Channel)"
 created: 2026-06-17
 updated: 2026-06-17
 type: protein
@@ -20,7 +20,7 @@ MlotiK1 is a bacterial cyclic nucleotide-regulated potassium channel from Mesorh
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.0711533105 |  | 3.1 | R3 | MlotiK1 channel from Mesorhizobium loti, full-length transmembrane regions (CNB domains disordered) | 200 uM cAMP (present during crystallization; K+ in pore) |
+| doi/10.1073##pnas.0711533105 | 3BEH | 3.1 | R3 | MlotiK1 channel from Mesorhizobium loti, full-length transmembrane regions (CNB domains disordered) | 200 uM cAMP (present during crystallization; K+ in pore) |
 
 ## Expression and Purification
 
@@ -30,7 +30,7 @@ MlotiK1 is a bacterial cyclic nucleotide-regulated potassium channel from Mesorh
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

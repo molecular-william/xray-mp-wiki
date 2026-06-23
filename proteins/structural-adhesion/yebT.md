@@ -1,5 +1,5 @@
 ---
-title: E. coli YebT Tube-like MCE Protein
+title: "E. coli YebT Tube-like MCE Protein"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -20,7 +20,7 @@ YebT (also known as MAM7) is a periplasm-spanning MCE (mammalian cell entry) pro
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.cell.2017.03.019 | not determined | ~20 A (EMDB: EMD-8611) | not applicable | Full-length YebT (residues 1-440 approximately), with N-terminal transmembrane helices | none |
+| doi/10.1016##j.cell.2017.03.019 | 5UW8 | ~20 A (EMDB: EMD-8611) | not applicable | Full-length YebT (residues 1-440 approximately), with N-terminal transmembrane helices | none |
 
 ## Expression and Purification
 
@@ -30,7 +30,7 @@ YebT (also known as MAM7) is a periplasm-spanning MCE (mammalian cell entry) pro
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

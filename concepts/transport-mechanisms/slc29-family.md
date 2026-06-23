@@ -27,7 +27,7 @@ SLC29 transporters function via an [Alternating Access Mechanism](/xray-mp-wiki/
 rocker-switch-like reorientation of N- and C-terminal domains. The
 transporter architecture consists of 11 transmembrane helices with a
 pseudo-symmetric 6+5 topology, distinguishing it from the canonical 12-TM
-Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/)) fold. An extracellular thin gate and
+Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/)) fold. An extracellular thin gate and
 intracellular thick gate control substrate access to the central cavity.
 
 Substrate transport involves:
@@ -63,5 +63,5 @@ and hydrophobic contacts surrounding the purine moiety.
 - [Human Equilibrative Nucleoside Transporter 1 (hENT1)](/xray-mp-wiki/proteins/slc-transporters/hent1/) — Founding member and best-characterized SLC29 family member
 - [Dilazep](/xray-mp-wiki/reagents/ligands/dilazep/) — Non-nucleoside inhibitor of hENT1
 - [NBMPR](/xray-mp-wiki/reagents/ligands/nbmpr/) — Nucleoside-derived inhibitor of hENT1
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — Structurally related transporter superfamily
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — Structurally related transporter superfamily
 - [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Related biological concept

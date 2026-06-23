@@ -1,5 +1,5 @@
 ---
-title: Geobacillus thermodenitrificans SecYE Active Translocation Channel
+title: "Geobacillus thermodenitrificans SecYE Active Translocation Channel"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -39,7 +39,7 @@ Ta6Br12 [Manganese-Calcium Cluster (Mn4Ca Cluster)](/xray-mp-wiki/concepts/misce
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

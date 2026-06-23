@@ -1,5 +1,5 @@
 ---
-title: VirChR1
+title: "VirChR1"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -30,7 +30,7 @@ VirChR1 is a viral channelrhodopsin from the VR1 group, encoded by TARA-146-SRF-
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -74,6 +74,6 @@ VirChR1 expressed in primary hippocampal neurons enabled light-driven neural spi
 - [EGTA](/xray-mp-wiki/reagents/additives/egta/) — Calcium chelator (10 mM) used in electrophysiology pipette solution
 - [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/) — Salt (110 mM) in standard bath solution for electrophysiology
 - [Calcium Chloride (CaCl2)](/xray-mp-wiki/reagents/additives/calcium-chloride/) — Used to demonstrate Ca2+ impermeability (80 mM CaCl2 abolished photocurrent)
-- [Whole-Cell Patch-Clamp Recording](/xray-mp-wiki/methods/structure-determination/two-electrode-voltage-clamp/) — Electrophysiology method used to characterize VirChR1 ion channeling activity
+- [Whole-Cell Patch-Clamp Recording](/xray-mp-wiki/methods/quality-assessment/two-electrode-voltage-clamp/) — Electrophysiology method used to characterize VirChR1 ion channeling activity
 - [OLPVR1](/xray-mp-wiki/proteins/rhodopsins/olpvr1/) — Related protein structure
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Related ligand or cofactor

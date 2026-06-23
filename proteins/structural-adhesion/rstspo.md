@@ -1,5 +1,5 @@
 ---
-title: RsTSPO Translocator Protein from Rhodobacter sphaeroides
+title: "RsTSPO Translocator Protein from Rhodobacter sphaeroides"
 created: 2026-06-10
 updated: 2026-06-10
 type: protein
@@ -34,7 +34,7 @@ The 18-kDa translocator protein (TSPO) from *Rhodobacter sphaeroides* (RsTSPO) i
 
 - **Expression system**: E. coli
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

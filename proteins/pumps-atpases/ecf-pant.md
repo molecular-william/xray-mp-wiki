@@ -1,5 +1,5 @@
 ---
-title: ECF-PanT (Energy-Coupling Factor Pantothenate Transporter)
+title: "ECF-PanT (Energy-Coupling Factor Pantothenate Transporter)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.7554##eLife.64389 | 6ZG3 | 2.8 A | P1 | Full ECF-PanT complex (PanT, EcfT, EcfA, EcfA') from L. delbrueckii subsp. bulgaricus, co-purified with  Nb81 (CA14381) |  (from crystallization condition, occupying substrate-binding pocket) |
-| doi/10.1073##pnas.1412246112 |  | 3.25 A |  | Full LbECF-PanT complex (PanT, EcfT, EcfA, EcfA') from L. brevis |  |
+| doi/10.1073##pnas.1412246112 | 4RFS | 3.25 A |  | Full LbECF-PanT complex (PanT, EcfT, EcfA, EcfA') from L. brevis |  |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
 
 | Parameter | Value |
 |---|---|
-| Method | [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/sitting-drop-vapor-diffusion/) |
+| Method | [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) |
 | Protein sample | ECF-PanT-Nb81 complex at 6.3 mg/mL in 50 mM  Hcl]] pH 7.5, 150 mM NaCl, 0.05% (w/v)  |
 | Reservoir | 70 mM sodium  pH 4.5, 21-27% (v/v)  300 |
 | Temperature | 4 C |

@@ -1,5 +1,5 @@
 ---
-title: bcMalT (Bacillus cereus Maltose Transporter)
+title: "bcMalT (Bacillus cereus Maltose Transporter)"
 created: 2026-05-28
 updated: 2026-06-11
 type: protein
@@ -22,7 +22,7 @@ bcMalT is a [Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter from
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1016##j.str.2016.04.003 | 5IWS | 2.55 | I222 | Trypsinized EIIC domain (residues 8-450) | [Maltose](/xray-mp-wiki/reagents/additives/maltose) |
-| doi/10.1073##pnas.1800647115 | not specified (bcMalT-X, Hg2+-crosslinked) | 3.2 | I222 | bcMalT T280C/E54C double-cysteine mutant, Hg2+-crosslinked, inward-facing conformation | [Maltose](/xray-mp-wiki/reagents/additives/maltose) |
+| doi/10.1073##pnas.1800647115 | 6BVG | 3.2 | I222 | bcMalT T280C/E54C double-cysteine mutant, Hg2+-crosslinked, inward-facing conformation | [Maltose](/xray-mp-wiki/reagents/additives/maltose) |
 
 ## Expression and Purification
 
@@ -35,7 +35,7 @@ bcMalT is a [Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter from
 - **Expression system**: E. coli
 - **Expression construct**: C-terminal [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag) on full-length protein, trypsinized to yield EIIC domain only
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

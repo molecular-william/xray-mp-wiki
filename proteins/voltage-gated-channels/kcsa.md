@@ -1,5 +1,5 @@
 ---
-title: KcsA Potassium Channel
+title: "KcsA Potassium Channel"
 created: 2026-06-10
 updated: 2026-06-16
 type: protein
@@ -24,16 +24,16 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 | doi/10.1021##bi500525s | 2JKS | 2.40 | I4 | KcsA-L90C mutant with Fab, cocrystallized with TBA | [TBA](/xray-mp-wiki/reagents/ligands/tetrabutylammonium/), K+ |
 | doi/10.1021##bi500525s | 4UUJ | 2.40 | I4 | KcsA-L90C mutant with Fab, cocrystallized with THA | THA, K+ |
 | doi/10.1021##bi500525s | 2W0F | 2.40 | I4 | KcsA-L90C mutant with Fab, cocrystallized with TOA | TOA, K+ |
-| doi/10.1126##science.280.5360.69 |  | 3.2 | C2 | Wild-type KcsA, L90C mutant used for native data collection | K+ |
+| doi/10.1126##science.280.5360.69 | 1BL8 | 3.2 | C2 | Wild-type KcsA, L90C mutant used for native data collection | K+ |
 | doi/10.1016##j.jmb.2020.06.012 | 6W0A | 3.2 | I4 | Wild-type KcsA | Ba2+ (1 mM BaCl2, 5 mM KCl, open-gate, constricted filter) |
 | doi/10.1016##j.jmb.2020.06.012 | 6W0B | 3.6 | I4 | Wild-type KcsA | Ba2+ (2 mM BaCl2, 5 mM KCl, open-gate, constricted filter) |
 | doi/10.1016##j.jmb.2020.06.012 | 6W0C | 3.5 | I4 | Wild-type KcsA | Ba2+ (4 mM BaCl2, 5 mM KCl, open-gate, constricted filter) |
 | doi/10.1016##j.jmb.2020.06.012 | 6W0D | 3.6 | I4 | Wild-type KcsA | Ba2+ (5 mM BaCl2, 5 mM KCl, open-gate, constricted filter) |
 | doi/10.1016##j.jmb.2020.06.012 | 6W0E | 3.5 | I4 | Wild-type KcsA | Ba2+ (10 mM BaCl2, 5 mM KCl, open-gate, constricted filter) |
-| doi/10.1016##j.str.2012.03.027 | not specified (Cd2+-bound Y82C) | 2.4 | I4 | Y82C mutant of KcsA with Fab fragments | Cd2+ (100 uM) |
-| doi/10.1016##j.str.2012.03.027 | not specified (spin label-bound Y82C) | 2.5 | I4 | Y82C mutant of KcsA with nitroxide spin label and Fab | Nitroxide spin label |
-| doi/10.1038##nature09136 | not specified (OM-Rb) | 3.3 | I4 | Wild-type KcsA | Rb+ (fully open state) |
-| doi/10.1038##nature09136 | not specified (E71H-F103A) | 3.2 | I4 | E71H-F103A double mutant | Rb+ (closed state) |
+| doi/10.1016##j.str.2012.03.027 | 3STL | 2.4 | I4 | Y82C mutant of KcsA with Fab fragments | Cd2+ (100 uM) |
+| doi/10.1016##j.str.2012.03.027 | 3STL | 2.5 | I4 | Y82C mutant of KcsA with nitroxide spin label and Fab | Nitroxide spin label |
+| doi/10.1038##nature09136 | 3HPL | 3.3 | I4 | Wild-type KcsA | Rb+ (fully open state) |
+| doi/10.1038##nature09136 | 3HPL | 3.2 | I4 | E71H-F103A double mutant | Rb+ (closed state) |
 | doi/10.1016##j.str.2016.02.021 | 5EC1 | 2.9 | I4 | KcsA V76ester mutant (S3 occupancy reduced) | K+ |
 | doi/10.1016##j.str.2016.02.021 | 5EC2 | 2.5 | I4 | KcsA V76ester + G77dA double mutant | K+ |
 | doi/10.1016##j.str.2016.02.021 | 5EBW | 2.3 | I4 | KcsA G77ester mutant (S2 occupancy eliminated) | K+ |
@@ -51,11 +51,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 | doi/10.1038##s41467-022-28866-9 | 7MUB | 3.0 | I4 | E71V KcsA mutant | Ba2+ |
 | doi/10.1038##NSMB929 | 2BOB | 2.75 | I4 | KcsA-L90C mutant with Fab | [TBA](/xray-mp-wiki/reagents/ligands/tetrabutylammonium/), Tl+ |
 | doi/10.1038##NSMB929 | 2BOC | 2.75 | I4 | KcsA-L90C mutant with Fab | TEAs, Tl+ |
-| doi/10.1038##nsmb.1703 | not specified (NoK-Li+) | 2.8 | I4 | Wild-type KcsA, Fab complex, Li+ only | Li+ |
-| doi/10.1038##nsmb.1703 | not specified (LowK-Li+) | 2.75 | I4 | Wild-type KcsA, Fab complex, 3 mM K+ with Li+ | K+, Li+ |
-| doi/10.1073##pnas.0810663106 | not specified (FL KcsA-Fab2) | 3.8 | I222 | Full-length KcsA (residues 22-160) with Fab2 | -- |
-| doi/10.1073##pnas.0810663106 | not specified (CDKcsA-Fab4) | 2.6 | I4 | C-terminal domain fragment (residues 129-158) with Fab4 | -- |
-| doi/10.1073##pnas.1314356110 | not specified (Y78-ester KcsA) | 2.1 | — | KcsA Y78-ester mutant (amide-to-ester at 2' bond, between Y78 and G79), Fab complex, 300 mM KCl | K+ (reduced S2 occupancy) |
+| doi/10.1038##nsmb.1703 | 3IGA | 2.8 | I4 | Wild-type KcsA, Fab complex, Li+ only | Li+ |
+| doi/10.1038##nsmb.1703 | 3IGA | 2.75 | I4 | Wild-type KcsA, Fab complex, 3 mM K+ with Li+ | K+, Li+ |
+| doi/10.1073##pnas.0810663106 | 3EFF | 3.8 | I222 | Full-length KcsA (residues 22-160) with Fab2 | -- |
+| doi/10.1073##pnas.0810663106 | 3EFF | 2.6 | I4 | C-terminal domain fragment (residues 129-158) with Fab4 | -- |
+| doi/10.1073##pnas.1314356110 | 4MSW | 2.1 | — | KcsA Y78-ester mutant (amide-to-ester at 2' bond, between Y78 and G79), Fab complex, 300 mM KCl | K+ (reduced S2 occupancy) |
 | doi/10.1073##pnas.1800559115 | 6BY2 | not specified | I4 | KcsA T75A mutant, closed state, Fab complex | K+ |
 | doi/10.1073##pnas.1800559115 | 6BY3 | not specified | I4 | KcsA T75A mutant, locked-open (disulfide-bridged), open state | K+ |
 | doi/10.1016##j.jmb.2021.167296 | 7M2H | 2.64 | P4 | KcsA W67F mutant, pre-open state, +TBA +Fab | K+, [TBA](/xray-mp-wiki/reagents/ligands/tetrabutylammonium/) |
@@ -64,7 +64,7 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 | doi/10.1016##j.jmb.2021.167296 | 7RP0 | not specified | I4 | KcsA Y82A mutant, closed state, +TBA +Fab | K+, [TBA](/xray-mp-wiki/reagents/ligands/tetrabutylammonium/) |
 | doi/10.1038##nsmb.1968 | 3OR7 | 2.30 | I4 | KcsA E71I mutant in complex with Fab fragment | K+ |
 | doi/10.1038##nsmb.1968 | 3OR6 | 2.70 | I4 | KcsA E71Q mutant in complex with Fab fragment | K+ |
-| doi/10.1073##pnas.1105112108 |  | 3.9 | I222 | Constitutively open FL KcsA mutant with Fab2, full-length (residues 22-160) | K+ |
+| doi/10.1073##pnas.1105112108 | 3PJS | 3.9 | I222 | Constitutively open FL KcsA mutant with Fab2, full-length (residues 22-160) | K+ |
 
 ## Expression and Purification
 
@@ -74,11 +74,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 
 ### Purification Workflow
 
-*Source: doi/10.1126##science.280.5360.69*
+#### Source: doi/10.1126##science.280.5360.69
 
 - **Expression system**: E. coli
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -90,15 +90,13 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 **Final sample**: KcsA in 5 mM [LDAO](/xray-mp-wiki/reagents/detergents/ldao/), 150 mM KCl, 50 mM Tris pH 7.5
 **Purity**: Homogeneous by SDS-PAGE
 
-### Purification Workflow
-
-*Source: doi/10.1016##j.jmb.2020.06.012*
+#### Source: doi/10.1016##j.jmb.2020.06.012
 
 - **Expression system**: E. coli XL-1 Blue
 - **Expression construct**: Wild-type KcsA from pQE32 vector
 - **Tag info**: Untagged
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -106,13 +104,11 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 | Membrane collection | Centrifugation | — |  | 100,000g at 4 C for 1 h |
 | Solubilization | Detergent solubilization | — | 20 mM Tris pH 7.5, 0.15 M KCl + 40 mM [n-Decyl-β-D-maltoside](/xray-mp-wiki/reagents/detergents/dm/) (DM) | Overnight incubation at 4 C |
 
-### Purification Workflow
-
-*Source: doi/10.1038##35102009*
+#### Source: doi/10.1038##35102009
 
 - **Expression system**: E. coli
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -120,28 +116,24 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 | Fab purification | Protein A affinity + ion exchange | — |  | Mouse IgG from hybridoma culture. Fab by papain proteolysis + Q-Sepharose. |
 | KcsA-Fab complex formation | Size-exclusion chromatography | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | 50 mM Tris pH 7.5, 150 mM KCl + 5 mM DM |  |
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.0810663106*
+#### Source: doi/10.1073##pnas.0810663106
 
 - **Expression construct**: Full-length KcsA (residues 22-160)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Fab selection | Phage display | — |  | Biotinylated FL KcsA on streptavidin beads. 3 rounds selection. |
 | KcsA-Fab complex formation | Complex formation | — | 5 mM dodecyl maltopyranoside |  |
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.1314356110*
+#### Source: doi/10.1073##pnas.1314356110
 
 - **Expression system**: E. coli / in vitro
 - **Expression construct**: KcsA residues 1-123, semisynthetic with ester substitutions at selectivity filter
 - **Tag info**: Synthetic peptide with N-terminal Cys, recombinant thioester peptide (residues 1-69)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -150,15 +142,13 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 | Purification | Lipid vesicle reconstitution | — |  | Semisynthetic KcsA ester mutants purified and reconstituted into lipid vesicles for recording |
 | In vivo nonsense suppression (alternative) | Amber suppression | — |  | Used orthogonal tRNA/tRNA synthetase pair (Schultz group) to incorporate HPLA at amber stop codon, for full-length KcsA Y78-ester mutant |
 
-### Purification Workflow
-
-*Source: doi/10.7554##eLife.28032*
+#### Source: doi/10.7554##eLife.28032
 
 - **Expression system**: E. coli XL10-gold
 - **Expression construct**: Locked-open KcsA (KcsA-OM, double-cysteine 28-118) with E71A or Y82A mutations, pQE70 vector
 - **Tag info**: C-terminal [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag/), chymotrypsin-cleaved for crystallization
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -170,15 +160,13 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 
 **Final sample**: KcsA-Fab complex in 5 mM DM
 
-### Purification Workflow
-
-*Source: doi/10.1371##journal.pbio.0050121*
+#### Source: doi/10.1371##journal.pbio.0050121
 
 - **Expression system**: E. coli
 - **Expression construct**: KcsA A98G mutant (referred to as wild-type), residues 1-123
 - **Tag info**: Untagged, chymotrypsin-cleaved
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -190,15 +178,13 @@ KcsA is a prokaryotic potassium channel from Streptomyces lividans that serves a
 **Final sample**: KcsA at 71-142 uM in 25 mM HEPES pH 7.5, 100 mM NaCl (or LiCl), 5 mM DM
 **Purity**: Homogeneous
 
-### Purification Workflow
-
-*Source: doi/10.1038##nsmb.1968*
+#### Source: doi/10.1038##nsmb.1968
 
 - **Expression system**: E. coli XL1-Blue
 - **Expression construct**: KcsA Glu71 mutants (E71I, E71Q) cloned in pQE32 vector
 - **Tag info**: Co2+-based metal-chelate chromatography (Talon resin)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

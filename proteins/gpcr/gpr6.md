@@ -1,5 +1,5 @@
 ---
-title: GPR6 — Orphan G Protein-Coupled Receptor Implicated in Parkinson's Disease
+title: "GPR6 — Orphan G Protein-Coupled Receptor Implicated in Parkinson's Disease"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -17,7 +17,7 @@ verified: false
 GPR6 is an orphan class A G protein-coupled receptor belonging to the MECA cluster
 (Melanocortin/EDG/Cannabinoid/Adenosine) that exhibits one of the highest levels of
 constitutive activity among GPCRs. It is primarily expressed in the CNS, highly
-selectively enriched in [Dopamine](/xray-mp-wiki/reagents/dopamine/) D2 receptor-expressing medium spiny neurons (MSNs)
+selectively enriched in [Dopamine](/xray-mp-wiki/reagents/ligands/dopamine/) D2 receptor-expressing medium spiny neurons (MSNs)
 in the striatum, and implicated in Parkinson's disease (PD). Multiple structures were
 determined: a pseudo-apo state (2.1 Å, PDB 8TF5) showing a lipid-like density in the
 orthosteric pocket stabilizing an active-like conformation; two inverse agonist-bound
@@ -49,7 +49,7 @@ intrinsic conformational preference of the protein itself.
 - **Expression system**: Sf9 insect cells
 - **Expression construct**: GPR6-CC (crystallization construct with [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion and 6 point mutations)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -126,7 +126,7 @@ interactions with Gβ and the αN helix of Gαs.
 
 ## Cross-References
 
-- [Dopamine](/xray-mp-wiki/reagents/dopamine/) — Referenced in gpr6 text
+- [Dopamine](/xray-mp-wiki/reagents/ligands/dopamine/) — Referenced in gpr6 text
 - [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Referenced in gpr6 text
 - [Cryo Em](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Referenced in gpr6 text
 - [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) — Referenced in gpr6 text

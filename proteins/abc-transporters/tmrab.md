@@ -1,5 +1,5 @@
 ---
-title: TmrAB Heterodimeric ABC Transporter from Thermus thermophilus
+title: "TmrAB Heterodimeric ABC Transporter from Thermus thermophilus"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ TmrAB (TmrA/TmrB) from *Thermus thermophilus* is a heterodimeric ABC half-transp
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1620009114 |  | 2.7 | — | Full-length TmrA (TTC0976) and TmrB (TTC0977) |  |
+| doi/10.1073##pnas.1620009114 | 5MKK | 2.7 | — | Full-length TmrA (TTC0976) and TmrB (TTC0977) |  |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ TmrAB (TmrA/TmrB) from *Thermus thermophilus* is a heterodimeric ABC half-transp
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

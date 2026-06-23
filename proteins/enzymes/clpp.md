@@ -1,5 +1,5 @@
 ---
-title: ClpP Protease
+title: "ClpP Protease"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -21,7 +21,7 @@ ClpP is an ATP-dependent, general protease from bacterial cytoplasm that works w
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1016##j.jmb.2006.05.063 | 2CLP | 1.9 A | -- | E. coli ClpP with peptide covalently bound | peptide inhibitor |
-| doi/10.1016##j.jmb.2007.11.080 | -- | -- | -- | E. coli ClpP (structural comparison model) | -- |
+| doi/10.1016##j.jmb.2007.11.080 | 3BF0 | -- | -- | E. coli ClpP (structural comparison model) | -- |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ ClpP is an ATP-dependent, general protease from bacterial cytoplasm that works w
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

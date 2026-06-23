@@ -1,5 +1,5 @@
 ---
-title: Human DHHC20 Palmitoyltransferase
+title: "Human DHHC20 Palmitoyltransferase"
 created: 2026-06-10
 updated: 2026-06-10
 type: protein
@@ -32,8 +32,8 @@ cancers resistant to EGFR-targeted therapy.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.aao6326 |  | 2.44 | — | hDHHC20 (residues 5-299), reductively methylated, hexagonal P63 form |  |
-| doi/10.1126##science.aao6326 |  | 2.44 | — | hDHHC20 C263A mutant with 2-bromopalmitate (2-BP) covalent inhibitor |  |
+| doi/10.1126##science.aao6326 | 6BML | 2.44 | — | hDHHC20 (residues 5-299), reductively methylated, hexagonal P63 form |  |
+| doi/10.1126##science.aao6326 | 6BML | 2.44 | — | hDHHC20 C263A mutant with 2-bromopalmitate (2-BP) covalent inhibitor |  |
 
 ## Expression and Purification
 
@@ -47,7 +47,7 @@ cancers resistant to EGFR-targeted therapy.
 - **Expression construct**: N-terminal His10-GFP tag with PreScission cleavage site
 - **Tag info**: His10-GFP, removed by [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

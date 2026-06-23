@@ -1,5 +1,5 @@
 ---
-title: Human Claudin-9 (hCLDN-9)
+title: "Human Claudin-9 (hCLDN-9)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -30,8 +30,8 @@ junction integrity.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1908929116 |  | 3.2 | P2(1)2(1)2(1) | Full-length human CLDN-9 with C-terminal His6 tag, in complex with cCpE (closed conformer) | cCpE |
-| doi/10.1073##pnas.1908929116 |  | 3.3 | P2(1)2(1)2(1) | Full-length human CLDN-9 with C-terminal His6 tag, in complex with cCpE (open conformer) | cCpE |
+| doi/10.1073##pnas.1908929116 | 6OV2 | 3.2 | P2(1)2(1)2(1) | Full-length human CLDN-9 with C-terminal His6 tag, in complex with cCpE (closed conformer) | cCpE |
+| doi/10.1073##pnas.1908929116 | 6OV2 | 3.3 | P2(1)2(1)2(1) | Full-length human CLDN-9 with C-terminal His6 tag, in complex with cCpE (open conformer) | cCpE |
 
 ## Expression and Purification
 
@@ -42,7 +42,7 @@ junction integrity.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

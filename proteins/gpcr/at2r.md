@@ -1,5 +1,5 @@
 ---
-title: Angiotensin II Type 2 Receptor
+title: "Angiotensin II Type 2 Receptor"
 created: 2026-05-29
 updated: 2026-06-08
 type: protein
@@ -29,20 +29,20 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
 
 ## Expression and Purification
 
-- **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) ([Bac-to-Bac System](/xray-mp-wiki/methods/expression-systems/bac-to-bac/) [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) expression system)
+- **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) ([Bac-to-Bac System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) expression system)
 - **Construct**: BRIL-AT2R chimera; AT2R residues 1-34 and 336-363 truncated; N-terminal BRIL (apocytochrome b562RIL, Met7Trp, His102Ile, Arg106L) fused via 4-residue linker (Gly-Ser-Gly-Ser); N-terminal HA signal sequence, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), 10x His tag, TEV cleavage site
 - **Notes**: AT2R gene sequence (UNIPROT P50052) codon-optimized for insect cell expression, cloned into [pFastBac1](/xray-mp-wiki/reagents/vectors/pfastbac1/) vector. [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) infected with [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/), membranes prepared by hypotonic lysis and high osmotic wash.
 
 
 ### Purification Workflow
 
-*Source: doi/10.1016##j.str.2019.12.003*
+#### Source: doi/10.1016##j.str.2019.12.003
 
 - **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/)
 - **Expression construct**: AT2R-mbIIGN-term; N-terminal HA signal, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) site; C-terminal [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) site, His8 tag; C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) at residue 368
 - **Tag info**: [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), His8 (C-terminal, cleaved by [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/))
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -55,15 +55,13 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
 **Final sample**: 10 mg/ml in 25 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 200 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)
 **Purity**: Monodisperse peak by [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)
 
-### Purification Workflow
-
-*Source: doi/10.1038##nature22035*
+#### Source: doi/10.1038##nature22035
 
 - **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/)
 - **Expression construct**: [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-AT2R chimera; AT2R residues 1-34 and 336-363 truncated; N-terminal [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) (apocytochrome b562RIL, Met7Trp, His102Ile, Arg106L) fused via 4-residue linker (Gly-Ser-Gly-Ser); N-terminal HA signal, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), 10x [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/), [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) cleavage site
 - **Tag info**: [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), 10x His (N-terminal, cleaved by [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/))
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -75,15 +73,13 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
 **Final sample**: 15 mg/ml in 20 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 100 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.004% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)
 **Purity**: Tested by analytical [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)
 
-### Purification Workflow
-
-*Source: doi/10.1038##s41594-018-0079-8*
+#### Source: doi/10.1038##s41594-018-0079-8
 
 - **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/)
 - **Expression construct**: BRIL-AT2R (BRIL replaces ICL3); N-terminal HA signal, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) site; C-terminal His6 tag
 - **Tag info**: [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), His6 (C-terminal)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Oxalate Transporter OxIT from Oxalobacter formigenes
+title: "Oxalate Transporter OxIT from Oxalobacter formigenes"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -33,7 +33,7 @@ Oxalate transporter OxIT is an oxalate:formate antiporter (OFA) from the gut bac
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Heliobacterial Reaction Center (HbRC)
+title: "Heliobacterial Reaction Center (HbRC)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -44,7 +44,7 @@ common ancestor of all photosynthetic reaction centers.
 - **Expression system**: Heliobacterium modesticaldum (native)
 - **Expression construct**: Native HbRC complex — PshA + PshX subunits
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

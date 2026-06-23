@@ -1,5 +1,5 @@
 ---
-title: Leptosphaeria Rhodopsin (LR/Mac)
+title: "Leptosphaeria Rhodopsin (LR/Mac)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -52,7 +52,7 @@ for LR 1-313, 10 mg/L for LR 49-313.
 - **Expression construct**: Full-length LR 1-313 with C-terminal H6/H9 tag; truncated LR 49-313
 - **Tag info**: C-terminal polyhistidine tag (H6 and H9)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

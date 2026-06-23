@@ -1,5 +1,5 @@
 ---
-title: HiTehA (TehA from Haemophilus influenzae)
+title: "HiTehA (TehA from Haemophilus influenzae)"
 created: 2026-06-02
 updated: 2026-06-11
 type: protein
@@ -44,7 +44,7 @@ demonstrating the first in situ membrane protein structure determination at a sy
 - **Expression construct**: HiTehA with Flag and deca-His tag, TEV cleavable
 - **Tag info**: Flag and deca-His tag, cleavable by TEV protease
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

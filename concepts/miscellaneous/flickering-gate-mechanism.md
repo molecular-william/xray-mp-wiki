@@ -25,5 +25,5 @@ The flickering-gate model, first proposed by Forbush based on rapid filtration e
 
 
 ## Cross-References
-- [Na+,K+-ATPase from Squalus acanthias](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-shark/) — Direct crystallographic visualization of the flickering-gate mechanism in E2·MgF₄²⁻·2K⁺ state
+- [Na+,K+-ATPase from Squalus acanthias](/xray-mp-wiki/proteins/pumps-atpases/shark-na-k-atpase/) — Direct crystallographic visualization of the flickering-gate mechanism in E2·MgF₄²⁻·2K⁺ state
 - [P-type ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/p-type-atpase-mechanism/) — Flickering-gate is a specific model for the extracellular gate of P-type ATPases

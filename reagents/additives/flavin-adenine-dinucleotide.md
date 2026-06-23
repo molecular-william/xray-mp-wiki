@@ -40,5 +40,5 @@ No comparison data available.
 ## Cross-References
 
 - [Sulfide:Quinone Oxidoreductase (SQR)](/xray-mp-wiki/proteins/enzymes/sulfide-quinone-oxidoreductase/) — FAD is the redox cofactor of SQR
-- [Riboflavin (Vitamin B2)](/xray-mp-wiki/reagents/riboflavin/) — FAD is derived from riboflavin
+- [Riboflavin (Vitamin B2)](/xray-mp-wiki/reagents/cofactors/riboflavin/) — FAD is derived from riboflavin
 - [Riboflavin (Vitamin B2)](/xray-mp-wiki/reagents/cofactors/riboflavin/) — Related ligand or cofactor

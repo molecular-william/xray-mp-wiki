@@ -1,12 +1,12 @@
 ---
-title: AcrB Multidrug Efflux Transporter
+title: "AcrB Multidrug Efflux Transporter"
 created: 2026-06-08
 updated: 2026-06-16
 type: protein
 category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
-sources: [doi/10.1126##science.1131542, doi/10.1371##journal.pbio.0050007, doi/10.1038##nature05076, doi/10.1038##nature13205, doi/10.1038##s41467-021-24151-3]
+sources: [doi/10.1007##s10969-013-9154-x, doi/10.1016##j.jsb.2011.01.014, doi/10.1016##j.str.2007.09.023, doi/10.1038##nature01050, doi/10.1038##nature05076, doi/10.1038##nature12300, doi/10.1038##nature13205, doi/10.1038##ncomms13819, doi/10.1038##s41467-021-24151-3, doi/10.1126##science.1131542, doi/10.1371##journal.pbio.0050007, doi/10.7554##eLife.03145]
 verified: false
 ---
 
@@ -23,12 +23,9 @@ AcrB is the inner membrane component of the [AcrA multidrug efflux pump periplas
 | doi/10.1038##nature05076 | 2DHH | 2.8 | C2 | Full-length AcrB (residues 1-1049) | Unliganded |
 | doi/10.1038##nature05076 | 2DRD | 2.8 | C2 | Full-length AcrB (residues 1-1049) | Minocycline |
 | doi/10.1038##nature05076 | 2DR6 | 2.8 | C2 | Full-length AcrB (residues 1-1049) | Doxorubicin |
-| doi/10.1126##science.1131542 | ~ | 2.9 | C2 | Full-length AcrB (residues 2-1033 in two monomers, 2-1045 in third) |  |
-| doi/10.1126##science.1131542 | ~ | 3.0 | P1 | Full-length AcrB |  |
+| doi/10.1126##science.1131542 | 2GIF | 3.0 | P1 | Full-length AcrB |  |
 | doi/10.1371##journal.pbio.0050007 | 2J8S | 2.54 | P2(1)2(1)2(1) | Full-length AcrB with C-terminal 6xHis tag; in complex with DARPin 1108_19 |  |
-| doi/10.1038##nature13205 | ~ | 3.3 | Not specified | Full-length AcrB co-expressed with AcrZ, crystallized with DARPin | Unliganded |
-| doi/10.1038##nature13205 | ~ | 3.7 | Not specified | Full-length AcrB co-expressed with AcrZ | Unliganded |
-| doi/10.1038##nature13205 | ~ | 15-20 (pseudo-atomic model) | N/A | Complete AcrABZ-TolC complex assembled from fusion proteins | Unliganded |
+| doi/10.1038##nature13205 | 4C48 | 15-20 (pseudo-atomic model) | N/A | Complete AcrABZ-TolC complex assembled from fusion proteins | Unliganded |
 | doi/10.1038##s41467-021-24151-3 | 6ZO7 | 3.1 | C2 | AcrB Gly619Pro variant co-crystallized with rifabutin | Rifabutin |
 | doi/10.1038##s41467-021-24151-3 | 6ZO9 | 3.0 | C2 | AcrB Gly621Pro variant co-crystallized with rifabutin | Rifabutin (2 molecules) |
 | doi/10.1038##s41467-021-24151-3 | 6ZOA | 2.9 | C2 | AcrB wild-type co-crystallized with beta-lactam mixture | Fusidic acid (partial occupancy) |
@@ -39,6 +36,17 @@ AcrB is the inner membrane component of the [AcrA multidrug efflux pump periplas
 | doi/10.1038##s41467-021-24151-3 | 6ZOF | 3.1 | C2 | AcrB Phe563Ala variant in complex with DARPin | Unliganded |
 | doi/10.1038##s41467-021-24151-3 | 6ZOG | 3.0 | C2 | AcrB Phe380Ala variant soaked with fusidic acid | Fusidic acid |
 | doi/10.1038##s41467-021-24151-3 | 6ZOH | 3.1 | C2 | AcrB Gly619Pro_Gly621Pro double variant co-crystallized with fusidic acid | Fusidic acid |
+| doi/10.1038##nature01050 | 1IWG | 3.5 | R32 | Wild-type AcrB from E. coli with C-terminal polyhistidine tag, expressed in E. coli JM109 | None (apo form) |
+| doi/10.1007##s10969-013-9154-x | 4K7Q | 3.5 | R32 | Wild-type AcrB with C-terminal polyhistidine tag | [Linezolid](/xray-mp-wiki/reagents/antibiotics/linezolid) |
+| doi/10.1016##j.jsb.2011.01.014 | 2JBS | 2.54 | P2$_{1}$2$_{1}$2$_{1}$ | AcrB in complex with [DARPin](/xray-mp-wiki/concepts/darpin)#1 crystallization chaperone | [DARPin](/xray-mp-wiki/concepts/darpin)#1 |
+| doi/10.1016##j.jsb.2011.01.014 | 3NOC | 2.70 | P2$_{1}$2$_{1}$2$_{1}$ | AcrB in complex with [DARPin](/xray-mp-wiki/concepts/darpin)#2 crystallization chaperone | [DARPin](/xray-mp-wiki/concepts/darpin)#2 |
+| doi/10.1016##j.jsb.2011.01.014 | 3NOG | 3.34 | P2$_{1}$2$_{1}$2$_{1}$ | AcrB in complex with [DARPin](/xray-mp-wiki/concepts/darpin)#3 crystallization chaperone | [DARPin](/xray-mp-wiki/concepts/darpin)#3 |
+| doi/10.1016##j.str.2007.09.023 | 2RDD | 3.5 | P3221 | AcrB in complex with endogenous [YajC](/xray-mp-wiki/proteins/yajc) transmembrane subunit | [Ampicillin](/xray-mp-wiki/reagents/ligands/ampicillin) |
+| doi/10.1038##ncomms13819 | 4DX5 | 2.5 | P2$_{1}$2$_{1}$2$_{1}$ | Wild-type AcrB in complex with [DARPin](/xray-mp-wiki/concepts/darpin) crystallization chaperone | [Fusidic Acid](/xray-mp-wiki/reagents/ligands/fusidic-acid) |
+| doi/10.7554##eLife.03145 | 4U8V | 2.0 | P2$_{1}$2$_{1}$2$_{1}$ | AcrB(D407N) mutant in complex with DARPin crystallization chaperone | Minocycline |
+| doi/10.7554##eLife.03145 | 4U8Y | 2.3 | P2$_{1}$2$_{1}$2$_{1}$ | AcrB(D408N) mutant in complex with DARPin crystallization chaperone | Minocycline |
+| doi/10.7554##eLife.03145 | 4U95 | 2.3 | P2$_{1}$2$_{1}$2$_{1}$ | AcrB(K940A) mutant in complex with DARPin crystallization chaperone | Minocycline |
+| doi/10.7554##eLife.03145 | 4U96 | 2.0 | P2$_{1}$2$_{1}$2$_{1}$ | AcrB(R971A) mutant in complex with DARPin crystallization chaperone | None (no minocycline added) |
 
 ## Expression and Purification
 
@@ -48,13 +56,13 @@ AcrB is the inner membrane component of the [AcrA multidrug efflux pump periplas
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature05076*
+#### Source: doi/10.1038##nature05076
 
 - **Expression system**: E. coli
 - **Expression construct**: Full-length AcrB
 - **Tag info**: Untagged native protein
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -62,15 +70,13 @@ AcrB is the inner membrane component of the [AcrA multidrug efflux pump periplas
 
 **Final sample**: AcrB in 20 mM sodium phosphate (pH 6.0), 10% glycerol, 0.1% dodecanoyl sucrose
 
-### Purification Workflow
-
-*Source: doi/10.1126##science.1131542*
+#### Source: doi/10.1126##science.1131542
 
 - **Expression system**: E. coli
 - **Expression construct**: Full-length AcrB
 - **Tag info**: C-terminal 6xHis tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -78,15 +84,13 @@ AcrB is the inner membrane component of the [AcrA multidrug efflux pump periplas
 | Membrane solubilization | Solubilization | — | DDM |  |
 | Affinity chromatography | Ni-affinity chromatography | Ni-NTA |  |  |
 
-### Purification Workflow
-
-*Source: doi/10.1371##journal.pbio.0050007*
+#### Source: doi/10.1371##journal.pbio.0050007
 
 - **Expression system**: E. coli BL21(DE3)
 - **Expression construct**: Full-length AcrB with C-terminal 6xHis tag in pET28 vector
 - **Tag info**: 6xHis tag; biotinylated
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -97,15 +101,13 @@ AcrB is the inner membrane component of the [AcrA multidrug efflux pump periplas
 
 **Final sample**: AcrB in 20 mM Tris-HCl pH 7.5, 150 mM NaCl, 0.03% DDM
 
-### Purification Workflow
-
-*Source: doi/10.1038##nature13205*
+#### Source: doi/10.1038##nature13205
 
 - **Expression system**: E. coli
 - **Expression construct**: AcrB with C-terminal His5 tag; AcrZ with C-terminal His5 tag; AcrA-polyGlySer-AcrZ-His5 fusion and TolC for complete assembly
 - **Tag info**: His5 tag on AcrB; His5 tag on AcrZ
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -210,3 +212,9 @@ In isolation, TolC assumes a closed resting state. In the assembled pump, intera
 - [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) — AcrB is the prototypical RND transporter
 - [AcrA multidrug efflux pump periplasmic protein](/xray-mp-wiki/proteins/abc-transporters/acra/) — AcrA is the periplasmic adaptor in the AcrAB-TolC complex
 - [EmrE (E. coli Small Multidrug Resistance Transporter)](/xray-mp-wiki/proteins/abc-transporters/emre/) — Related membrane protein for comparison
+- [E. coli YajC Transmembrane Protein](/xray-mp-wiki/proteins/abc-transporters/yajc/) — Forms a stable complex with AcrB; crystal structure determined together (PDB 2RDD)
+- [MexB Efflux Pump](/xray-mp-wiki/proteins/abc-transporters/mexB/) — Close homologue (RND family efflux pump); similar multidrug-binding cavity mechanism
+- [Multidrug Resistance](/xray-mp-wiki/concepts/multidrug-resistance/) — AcrB is a major contributor to multidrug resistance in Gram-negative bacteria
+- [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp/) — First inhibitor-bound structure of AcrB solved; ABI-PP binds to hydrophobic trap in distal pocket
+- [Helix Shift Mechanism for Carboxylate Drug Transport](/xray-mp-wiki/concepts/transport-mechanisms/helix-shift-mechanism/) — Mechanism proposed for active transport of carboxylate drugs from the membrane via TM2 helix upward shift
+- [TolC Outer Membrane Channel](/xray-mp-wiki/proteins/abc-transporters/tolc/) — Outer membrane partner in the AcrAB-TolC tripartite efflux system

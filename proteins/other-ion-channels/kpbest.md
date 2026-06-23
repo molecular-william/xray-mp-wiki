@@ -1,5 +1,5 @@
 ---
-title: KpBest Bestrophin Ion Channel
+title: "KpBest Bestrophin Ion Channel"
 created: 2026-06-10
 updated: 2026-06-10
 type: protein
@@ -21,7 +21,7 @@ KpBest is a bestrophin ion channel from *Klebsiella pneumoniae* whose crystal st
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.1259723 | not specified in paper text | 2.3 | — | KpBest with 11-residue C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (residues 22-289) | Zn²⁺ |
+| doi/10.1126##science.1259723 | 4WD7 | 2.3 | — | KpBest with 11-residue C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (residues 22-289) | Zn²⁺ |
 
 ## Expression and Purification
 
@@ -33,7 +33,7 @@ KpBest is a bestrophin ion channel from *Klebsiella pneumoniae* whose crystal st
 - **Expression system**: E. coli
 - **Expression construct**: KpBest with 11-residue C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

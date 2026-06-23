@@ -1,5 +1,5 @@
 ---
-title: iC++ (Designed Anion Channelrhodopsin)
+title: "iC++ (Designed Anion Channelrhodopsin)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -32,7 +32,7 @@ iC++ is a designed anion-conducting channelrhodopsin (dACR) created by structure
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

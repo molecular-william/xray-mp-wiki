@@ -1,5 +1,5 @@
 ---
-title: E. coli Signal Peptide Peptidase (SppA, Protease IV)
+title: "E. coli Signal Peptide Peptidase (SppA, Protease IV)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -33,7 +33,7 @@ assurance of periplasmic and membrane-bound proteins.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.jmb.2007.11.080 | unknown | 2.6 A | P2_1 | SppAΔ2-46 (residues 56-549) with N-terminal 6xHis tag and thrombin cleavage site, expressed in E. coli BL21(DE3); native and SeMet-incorporated | None (apo structure) |
+| doi/10.1016##j.jmb.2007.11.080 | 3BF0 | 2.6 A | P2_1 | SppAΔ2-46 (residues 56-549) with N-terminal 6xHis tag and thrombin cleavage site, expressed in E. coli BL21(DE3); native and SeMet-incorporated | None (apo structure) |
 
 ## Expression and Purification
 
@@ -43,7 +43,7 @@ assurance of periplasmic and membrane-bound proteins.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

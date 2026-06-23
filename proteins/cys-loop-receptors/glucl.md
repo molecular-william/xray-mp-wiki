@@ -1,5 +1,5 @@
 ---
-title: GluCl (C. elegans Glutamate-Gated Chloride Channel)
+title: "GluCl (C. elegans Glutamate-Gated Chloride Channel)"
 created: 2026-06-02
 updated: 2026-06-09
 type: protein
@@ -32,7 +32,7 @@ GluCl is the glutamate-gated chloride channel from Caenorhabditis elegans, a pen
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

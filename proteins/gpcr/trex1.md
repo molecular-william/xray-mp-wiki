@@ -1,5 +1,5 @@
 ---
-title: Mouse TREX1 (Three Prime Repair Exonuclease 1)
+title: "Mouse TREX1 (Three Prime Repair Exonuclease 1)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein

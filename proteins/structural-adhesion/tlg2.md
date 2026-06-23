@@ -1,5 +1,5 @@
 ---
-title: Tlg2 (Cryptococcus thermophilum Qa-SNARE Protein)
+title: "Tlg2 (Cryptococcus thermophilum Qa-SNARE Protein)"
 created: 2026-05-26
 updated: 2026-05-26
 type: protein
@@ -31,7 +31,7 @@ Tlg2 is a Qa-SNARE protein from the filamentous fungus Cryptococcus thermophilum
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ Tlg2 is a Qa-SNARE protein from the filamentous fungus Cryptococcus thermophilum
 | Size-exclusion chromatography | Size-exclusion chromatography | Not specified | 25 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 8.0, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), 5 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep) + -- | Final purification |
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -94,6 +94,6 @@ Tlg2 has a pronounced tendency to form homo-tetramers through SNARE motif bundli
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Used at 400 mM for Ni-affinity elution and at lower concentrations in tag cleavage buffer
 - [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/) — Used at 150 mM in cell lysis buffer and in anion exchange gradient (50-500 mM)
 - [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) — Crystallization precipitant (PEG 3350, 14% w/v)
-- [BRIL Fusion Protein](/xray-mp-wiki/reagents/additives/bril/) — Related protein stabilization approach used in membrane protein crystallography
+- [BRIL Fusion Protein](/xray-mp-wiki/reagents/protein-tags/bril/) — Related protein stabilization approach used in membrane protein crystallography
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Ni-affinity chromatography used for initial purification of His-tagged Tlg2 constructs
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — SEC used for final purification of Tlg2-Vps45 complexes

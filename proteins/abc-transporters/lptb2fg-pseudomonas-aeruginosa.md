@@ -1,5 +1,5 @@
 ---
-title: Pseudomonas aeruginosa LptB2FG LPS Extraction Complex
+title: "Pseudomonas aeruginosa LptB2FG LPS Extraction Complex"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -33,7 +33,7 @@ LptB2FG is an ATP-binding cassette (ABC) transporter complex responsible for ext
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

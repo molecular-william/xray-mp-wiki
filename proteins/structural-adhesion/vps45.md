@@ -1,5 +1,5 @@
 ---
-title: Vps45 (Cryptococcus thermophilum SM Protein)
+title: "Vps45 (Cryptococcus thermophilum SM Protein)"
 created: 2026-05-26
 updated: 2026-05-26
 type: protein
@@ -32,7 +32,7 @@ Vps45 is a Sec1/Munc18-family (SM) protein from the filamentous fungus Cryptococ
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

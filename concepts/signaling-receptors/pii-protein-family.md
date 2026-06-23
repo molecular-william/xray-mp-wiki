@@ -31,6 +31,6 @@ The PII signal transduction protein family is a widespread family of small trime
 - [GlnK PII Signal Transduction Protein (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/glnk/) — Paradigmatic PII protein regulating AmtB ammonia channel
 - [SbtB (PII-Like Regulatory Protein)](/xray-mp-wiki/proteins/slc-transporters/sbtb/) — Cyanobacterial PII protein regulating SbtA bicarbonate transporter
 - [SbtA (Bicarbonate Transporter)](/xray-mp-wiki/proteins/slc-transporters/sbta/) — Target of SbtB regulation; allosterically inhibited by T-loop insertion
-- [Ammonium Transporter AmtB (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/e-coli-amtb/) — Target of GlnK regulation; analogous regulatory system to SbtA-SbtB
+- [Ammonium Transporter AmtB (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/amt-b/) — Target of GlnK regulation; analogous regulatory system to SbtA-SbtB
 - [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — PII proteins allosterically regulate their targets via T-loop insertion
 - [CO2-Concentrating Mechanism](/xray-mp-wiki/concepts/miscellaneous/co2-concentrating-mechanism/) — SbtB regulates bicarbonate uptake in the CCM

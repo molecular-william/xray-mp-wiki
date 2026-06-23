@@ -1,5 +1,5 @@
 ---
-title: Thermotoga maritima SecA ATPase
+title: "Thermotoga maritima SecA ATPase"
 created: 2026-06-09
 updated: 2026-06-09
 type: protein
@@ -30,7 +30,7 @@ SecA is the cytoplasmic ATPase motor of the bacterial Sec protein translocation 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

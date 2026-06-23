@@ -1,5 +1,5 @@
 ---
-title: GLIC ECD (Extracellular Domain of Gloeobacter violaceus Ion Channel)
+title: "GLIC ECD (Extracellular Domain of Gloeobacter violaceus Ion Channel)"
 created: 2026-05-27
 updated: 2026-06-02
 type: protein
@@ -27,7 +27,7 @@ The extracellular domain (ECD) of the [Pentameric Ligand-Gated Ion Channel (pLGI
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

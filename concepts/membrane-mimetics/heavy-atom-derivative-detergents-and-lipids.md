@@ -32,8 +32,8 @@ The development of heavy atom derivative detergents and lipids involves several 
 
 ## Cross-References
 - [Serial Femtosecond Crystallography](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) — SFX is the primary technique where heavy atom detergents/lipids have been applied for de novo phasing
-- [Single-Wavelength Anomalous Diffraction (SAD)](/xray-mp-wiki/methods/single-wavelength-anomalous-diffraction/) — SAD phasing method used with HAD13a-derivatized membrane protein crystals
-- [SIRAS/MIRAS Phasing](/xray-mp-wiki/methods/miras/) — SIRAS phasing method used with HAD13a for efficient phasing with fewer images
+- [Single-Wavelength Anomalous Diffraction (SAD)](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/) — SAD phasing method used with HAD13a-derivatized membrane protein crystals
+- [SIRAS/MIRAS Phasing](/xray-mp-wiki/methods/structure-determination/miras/) — SIRAS phasing method used with HAD13a for efficient phasing with fewer images
 - [X-ray Radiation Damage](/xray-mp-wiki/concepts/methods-techniques/x-ray-radiation-damage/) — SFX with heavy atom labels enables damage-free structure determination
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Model membrane protein for demonstrating heavy atom detergent phasing by SFX
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — SeDDM is a selenium analog of DDM used for phasing

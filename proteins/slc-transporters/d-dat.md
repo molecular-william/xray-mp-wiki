@@ -1,5 +1,5 @@
 ---
-title: Drosophila melanogaster Dopamine Transporter
+title: "Drosophila melanogaster Dopamine Transporter"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -36,7 +36,7 @@ The Drosophila melanogaster [DOPAMINE](/xray-mp-wiki/reagents/ligands/dopamine) 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -79,13 +79,13 @@ Tramadol's methoxyphenyl ring interacts with Y124 by aromatic edge-to-face inter
 - [N-Dodecyl-Beta-D-Maltoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary solubilization detergent used throughout purification
 - [Polyethylene Glycol (PEG)](/xray-mp-wiki/reagents/additives/peg/) — PEG 350 monomethyl ether used as crystallization precipitant
 - [Superdex 200 SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) — Size-exclusion chromatography resin used for final purification
-- [Glycine Buffer](/xray-mp-wiki/reagents/additives/glycine/) — Crystallization reservoir buffer (0.1 M, pH 9)
+- [Glycine Buffer](/xray-mp-wiki/reagents/buffers/glycine/) — Crystallization reservoir buffer (0.1 M, pH 9)
 - [Nisoxetine](/xray-mp-wiki/reagents/ligands/nisoxetine/) — NET-specific inhibitor co-crystallized with dDAT_cryst (PDB 4XNU)
 - [Reboxetine](/xray-mp-wiki/reagents/ligands/reboxetine/) — NET-specific inhibitor co-crystallized with dDAT_mfc (PDB 4XNX)
 - [Fab 9D5](/xray-mp-wiki/reagents/antibodies/fab-9d5/) — Antibody fragment used to complex with dDAT for crystallization
 - [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Crystallization method used to grow dDAT-Fab complexes
 - [Duloxetine](/xray-mp-wiki/reagents/ligands/duloxetine/) — SNRI inhibitor co-crystallized with dDAT_subB (PDB 7M2G)
-- [Milnacipran](/xray-mp-wiki/reagents/ligands/milnacipran/) — SNRI inhibitor co-crystallized with dDAT_NET (PDB 7M2H)
-- [Tramadol](/xray-mp-wiki/reagents/ligands/tramadol/) — Synthetic opioid co-crystallized with dDAT_NET (PDB 7M2I)
+- [Milnacipran](/xray-mp-wiki/reagents/additives/milnacipran/) — SNRI inhibitor co-crystallized with dDAT_NET (PDB 7M2H)
+- [Tramadol](/xray-mp-wiki/reagents/additives/tramadol/) — Synthetic opioid co-crystallized with dDAT_NET (PDB 7M2I)
 - [MOPS Buffer](/xray-mp-wiki/reagents/buffers/mops/) — Buffer (0.1 M, pH 6.5-7.0) used in crystallization reservoir
 - [Polyethylene glycol 600 (PEG 600)](/xray-mp-wiki/reagents/additives/peg-600/) — Precipitant (30-32%) used in crystallization reservoir

@@ -1,5 +1,5 @@
 ---
-title: Spinach Light-Harvesting Complex II (LHC-II)
+title: "Spinach Light-Harvesting Complex II (LHC-II)"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -29,7 +29,7 @@ The spinach light-harvesting complex II ([LHC-II](/xray-mp-wiki/proteins/photosy
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

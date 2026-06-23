@@ -1,5 +1,5 @@
 ---
-title: Murine Mu-Opioid Receptor
+title: "Murine Mu-Opioid Receptor"
 created: 2026-06-03
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ The murine mu-opioid receptor (muOR, MOP) is a class A G-protein-coupled recepto
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature14886 | TBD | 2.1 | I212121 | Full-length murine muOR with N-term Flag tag, C-term 6xHis tag, TEV site after residue 51, 3C site before residue 359 | BU72, Nb39 |
+| doi/10.1038##nature14886 | 5C1M | 2.1 | I212121 | Full-length murine muOR with N-term Flag tag, C-term 6xHis tag, TEV site after residue 51, 3C site before residue 359 | BU72, Nb39 |
 | doi/10.1038##nature10954 | 4DKL | 2.8 | C 1 2 1 | Murine muOR with N-term TEV site after residue G51, C-term truncation after Q360, ICL3 (residues 264-269) replaced with T4L (residues 2-161), N-term Flag M1 tag, C-term octa-histidine tag | beta-FNA (covalent, linked to K233^5.39) |
 
  - R-work 18.53%, R-free 22.15%; Atoms: 3278 protein atoms, 32 ligand ([BU72](/xray-mp-wiki/reagents/ligands/bu72)) atoms, 208 lipid/water/other atoms; Data collection: Merged from four crystals at 2.1 A resolution

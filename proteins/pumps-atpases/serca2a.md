@@ -1,5 +1,5 @@
 ---
-title: SERCA2a (Cardiac Sarco/Endoplasmic Reticulum Ca2+-ATPase)
+title: "SERCA2a (Cardiac Sarco/Endoplasmic Reticulum Ca2+-ATPase)"
 created: 2026-06-11
 updated: 2026-06-16
 type: protein
@@ -32,7 +32,7 @@ and altered networks of intramolecular interactions.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.2006027117 |  | 3.0 |  | Porcine SERCA2a, wild-type, in E2-ACP state | ACP (adenylyl imidodiphosphate), no divalent cation |
+| doi/10.1073##pnas.2006027117 | 7BT2 | 3.0 |  | Porcine SERCA2a, wild-type, in E2-ACP state | ACP (adenylyl imidodiphosphate), no divalent cation |
 | doi/10.15252##embj.2018100020 | 5MPM | 3.3 | P21 | Full-length porcine SERCA2a (997 residues), E2-AlF4-CPA state, purified from native pig ventricular muscle | AlF4- (aluminum fluoride, phosphate analog), CPA (cyclopiazonic acid), Mg2+, K+ |
 | doi/10.15252##embj.2018100020 | 6HXB | 4.0 | P2 | Full-length porcine SERCA2a (997 residues), [Ca2]E1-AMPPCP state, purified from native pig ventricular muscle | AMPPCP (non-hydrolyzable ATP analog), two Ca2+ ions, Mg2+ |
 
@@ -45,7 +45,7 @@ and altered networks of intramolecular interactions.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

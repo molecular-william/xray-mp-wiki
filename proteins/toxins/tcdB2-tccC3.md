@@ -1,5 +1,5 @@
 ---
-title: TcdB2-TccC3 Toxin Complex B-C Fusion from Photorhabdus luminescens
+title: "TcdB2-TccC3 Toxin Complex B-C Fusion from Photorhabdus luminescens"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -21,7 +21,7 @@ TcdB2-TccC3 is a fusion protein from Photorhabdus luminescens subsp. akhurstii c
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature13015 | not specified | 2.35 A | not specified | TcdB2-TccC3 fusion protein from P. luminescens subsp. akhurstii (1.1 MDa cocoon) | None |
+| doi/10.1038##nature13015 | 4O9Y | 2.35 A | not specified | TcdB2-TccC3 fusion protein from P. luminescens subsp. akhurstii (1.1 MDa cocoon) | None |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ TcdB2-TccC3 is a fusion protein from Photorhabdus luminescens subsp. akhurstii c
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -77,12 +77,12 @@ The beta-propeller of TcB and the funnel domain of TcA interact strongly with ea
 ## Cross-References
 
 - [TcdA1 Toxin Complex A Subunit](/xray-mp-wiki/proteins/toxins/tcdA1/) — TcB binds to TcA, forming the holotoxin complex and opening the beta-propeller gate
-- [Tween-20](/xray-mp-wiki/reagents/additives/tween-20/) — 0.05% Tween-20 in TcdB2-TccC3 purification buffer
+- [Tween-20](/xray-mp-wiki/reagents/detergents/tween-20/) — 0.05% Tween-20 in TcdB2-TccC3 purification buffer
 - [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/) — 50 mM Tris pH 8.0 in TcdB2-TccC3 purification and storage buffer
 - [Magnesium Chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — 0.1 M MgCl2 in TcdB2-TccC3 crystallization reservoir
-- [Polyethylene Glycol 4000](/xray-mp-wiki/reagents/peg-4000/) — 12% PEG 4000 precipitant in TcdB2-TccC3 crystallization
+- [Polyethylene Glycol 4000](/xray-mp-wiki/reagents/additives/peg-4000/) — 12% PEG 4000 precipitant in TcdB2-TccC3 crystallization
 - [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Crystallization method used for TcdB2-TccC3
-- [Multi-Wavelength Anomalous Diffraction](/xray-mp-wiki/methods/multi-wavelength-anomalous-diffraction/) — SAD phasing used for TcdB2-TccC3 structure solution
+- [Multi-Wavelength Anomalous Diffraction](/xray-mp-wiki/methods/structure-determination/multi-wavelength-anomalous-diffraction/) — SAD phasing used for TcdB2-TccC3 structure solution
 - [Syringe-Like Injection Mechanism](/xray-mp-wiki/concepts/miscellaneous/syringe-injection-mechanism/) — TcdB2-TccC3 delivers toxic domain through TcA translocation channel
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
 - [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers

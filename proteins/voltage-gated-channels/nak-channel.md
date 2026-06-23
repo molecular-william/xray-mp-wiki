@@ -1,5 +1,5 @@
 ---
-title: NaK Channel from Bacillus cereus
+title: "NaK Channel from Bacillus cereus"
 created: 2026-06-02
 updated: 2026-06-08
 type: protein
@@ -24,54 +24,50 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 | doi/10.1038##nature04508 | 2NKA | 2.4 | C2221 | NaK channel residues 1-103 | Na+ |
 | doi/10.1038##nature04508 | 2NKB | 2.8 | C2221 | NaK channel residues 1-104 | K+ |
 | doi/10.1038##nsmb.1531 | 2AHY | 1.6 | I4 | NaKN delta 19 open conformation | Various monovalent cations |
-| doi/10.1073##pnas.1013636108 | not specified | 1.62 | I4 | NaK2CNG-D mutant on NaKN delta 19 background | K+ |
-| doi/10.1073##pnas.1013636108 | not specified | not specified | I4 | NaK2K (D66Y/N68D) on NaKN delta 19 background | K+ |
-| doi/10.1073##pnas.1013643108 | not specified | 1.62 | not specified | NaK2CNG-D on NaKN delta 19 background | K+, Na+, Ca2+ |
-| doi/10.1073##pnas.1013643108 | not specified | 1.58-1.95 | not specified | NaK2CNG-E chimera on NaKN delta 19 background | K+, Na+, Ca2+ |
-| doi/10.1073##pnas.1013643108 | not specified | 1.58-1.95 | not specified | NaK2CNG-N chimera on NaKN delta 19 background | K+, Na+, Ca2+ |
+| doi/10.1073##pnas.1013636108 | 3OUF | 1.62 | I4 | NaK2CNG-D mutant on NaKN delta 19 background | K+ |
+| doi/10.1073##pnas.1013636108 | 3OUF | not specified | I4 | NaK2K (D66Y/N68D) on NaKN delta 19 background | K+ |
+| doi/10.1073##pnas.1013643108 | 3K0D | 1.62 | not specified | NaK2CNG-D on NaKN delta 19 background | K+, Na+, Ca2+ |
+| doi/10.1073##pnas.1013643108 | 3K0D | 1.58-1.95 | not specified | NaK2CNG-E chimera on NaKN delta 19 background | K+, Na+, Ca2+ |
+| doi/10.1073##pnas.1013643108 | 3K0D | 1.58-1.95 | not specified | NaK2CNG-N chimera on NaKN delta 19 background | K+, Na+, Ca2+ |
 | doi/10.1073##pnas.1111688108 | 3E8H | 1.80 | not specified | NaK_D66Y mutant | not specified |
-| doi/10.1073##pnas.1111688108 | not specified | 1.95 | not specified | NaK_N68D mutant | not specified |
+| doi/10.1073##pnas.1111688108 | 3T1C | 1.95 | not specified | NaK_N68D mutant | not specified |
 | doi/10.1073##pnas.1111688108 | 3OUF | 1.55 | not specified | NaK2K (D66Y/N68D) double mutant | K+ |
-| doi/10.1073##pnas.1111688108 | not specified | not specified | not specified | NaK2K mutants (Y66F, Y55F, Y55W, D68E) and Kir-mimicking NaK (V59E/D66Y/F69R, Y55L/V59E/D66Y/F69R) | not specified |
+| doi/10.1073##pnas.1111688108 | 3T1C | not specified | not specified | NaK2K mutants (Y66F, Y55F, Y55W, D68E) and Kir-mimicking NaK (V59E/D66Y/F69R, Y55L/V59E/D66Y/F69R) | not specified |
 | doi/10.1107##s205225252100213x | 6v8y | 1.53 | C2221 | NaKΔ19 (truncated NaK, residues 20-103) crystallized with both K+ and Na+ present | K+, Na+ |
 
 ## Expression and Purification
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature04508*
+#### Source: doi/10.1038##nature04508
 
 - **Expression system**: E. coli XL1-Blue
 - **Expression construct**: NaK channel in pQE60 vector
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Solubilization | Detergent solubilization |  | NaCl or KCl + [n-Decyl-β-D-maltoside](/xray-mp-wiki/reagents/detergents/dm/) | Protein purified as a tetramer |
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.0707324104*
+#### Source: doi/10.1073##pnas.0707324104
 
 - **Expression system**: E. coli XL1-Blue
 - **Expression construct**: NaK channel mutants in pQE60 vector
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Expression | E. coli culture |  |  | Cloned into pQE60, expressed in E. coli XL1-Blue cells |
 | Purification | Detergent solubilization and purification |  | Monovalent salt (NaCl, RbCl, or LiCl) + n-Decyl-β-D-maltoside (DM) | Purified as tetramers in DM with monovalent salt for crystallization |
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.1013643108*
+#### Source: doi/10.1073##pnas.1013643108
 
 - **Expression system**: E. coli XL1-Blue
 - **Expression construct**: NaK2CNG chimeras on NaKN delta 19 background with F92A mutation
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -79,28 +75,24 @@ NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu
 | Purification | Detergent solubilization and purification |  | Monovalent salt (NaCl, KCl) + n-Decyl-β-D-maltoside (DM) | Purified as tetramers |
 | Reconstitution | [Proteoliposome Reconstitution](/xray-mp-wiki/methods/quality-assessment/proteoliposome-reconstitution/) |  | HEPES pH 7.4 | Reconstituted into 3:1 [POPE](/xray-mp-wiki/reagents/lipids/pope/):[POPG](/xray-mp-wiki/reagents/lipids/popg/) lipid vesicles at 0.1 ug/mg protein/lipid ratio for functional studies |
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.1013636108*
+#### Source: doi/10.1073##pnas.1013636108
 
 - **Expression system**: E. coli XL1-Blue
 - **Expression construct**: NaK mutants on NaKN delta 19 background
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Expression | E. coli culture |  |  | Cloned into pQE60, expressed in E. coli XL1-Blue cells |
 | Purification | Detergent solubilization and purification |  | Monovalent salt + n-Decyl-β-D-maltoside (DM) | Same procedures as NaKN delta 19 |
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.1111688108*
+#### Source: doi/10.1073##pnas.1111688108
 
 - **Expression system**: E. coli XL1-Blue
 - **Expression construct**: NaK mutants on NaKN delta 19 background with F92A mutation
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

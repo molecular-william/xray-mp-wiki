@@ -1,5 +1,5 @@
 ---
-title: ApcT Amino Acid Transporter from Methanocaldococcus jannaschii
+title: "ApcT Amino Acid Transporter from Methanocaldococcus jannaschii"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -36,7 +36,7 @@ ApcT is a 435-amino acid amino acid transporter from the archaeon Methanocaldoco
 - **Expression construct**: Full-length ApcT
 - **Tag info**: His-tag (see supporting material)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: OLPVR1
+title: "OLPVR1"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -32,7 +32,7 @@ OLPVR1 is a viral channelrhodopsin from the VR1 group, encoded by the Organic La
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

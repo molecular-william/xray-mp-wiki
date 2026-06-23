@@ -1,18 +1,12 @@
 ---
-title: Squid Rhodopsin (Class A GPCR, Gq-coupled)
+title: "Squid Rhodopsin (Class A GPCR, Gq-coupled)"
 created: 2026-05-26
 updated: 2026-06-16
 type: protein
 category: proteins
 layout: default
-tags:
-  - gpcr
-  - membrane-protein
-  - xray-crystallography
-sources:
-  - doi/10.1074##jbc.C800040200
-  - doi/10.1016##j.jmb.2011.08.044
-  - doi/10.1038##nature06925
+tags: [gpcr, membrane-protein, xray-crystallography]
+sources: [doi/10.1074##jbc.C800040200, doi/10.1016##j.jmb.2011.08.044, doi/10.1038##nature06925]
 verified: false
 ---
 
@@ -21,6 +15,7 @@ verified: false
 ## Overview
 
 Squid rhodopsin from Todarodes pacificus is an invertebrate visual pigment that interacts with Gq-type G-protein to activate the inositol 1,4,5-triphosphate signaling pathway. The first crystal structure of squid rhodopsin was determined at 3.7 A resolution (PDB 2ZIY), revealing seven transmembrane helices and an amphipathic helix H8 similar to bovine rhodopsin and the human beta2-adrenergic receptor. Notably, squid rhodopsin contains a well-structured cytoplasmic region involved in G-protein interaction, which is flexible or disordered in bovine rhodopsin and beta2-AR. The transmembrane helices 5 and 6 are longer and extrude into the cytoplasm. The distal C-terminal tail contains a short hydrophilic alpha-helix CH after palmitoylated cysteine residues. The cytoplasmic region folds compactly, consisting of CL2, the extended TH5/TH6 region, H8, and the distal C-terminal tail including the CH helix. The Schiff base counterion is Tyr-111 (Asn-87 and Asn-185 are within hydrogen-bonding distance of the Schiff base nitrogen). The crystal structures of the primary photoreaction intermediates bathorhodopsin (Batho) and isorhodopsin (Iso, 9-cis) revealed that light energy absorbed by the protein is converted into distortion energy of the retinal polyene chain: upon photoisomerization, the central moiety moves toward the cytoplasmic side while the ionone ring and Schiff base remain relatively fixed, creating a right-handed screwed configuration.
+
 
 ## Structure Determination
 
@@ -39,25 +34,28 @@ Squid rhodopsin from Todarodes pacificus is an invertebrate visual pigment that 
 
 ### Purification Workflow
 
-*Source: doi/10.1074##jbc.C800040200*
+#### Source: doi/10.1074##jbc.C800040200
 
-#### Steps
+
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
-| Membrane isolation | Sucrose flotation of rhabdomeric membranes | -- | HEPES buffer (5 mM HEPES, pH 7.0, 1 mM EDTA, 1 mM DTT) +  | Squid retina from Todarodes pacificus caught in the Japan Sea |
-| V8 protease treatment | Proteolytic cleavage | -- | HEPES buffer (5 mM HEPES, pH 7.0, 1 mM EDTA, 1 mM DTT) +  | 50:1 w/w rhodopsin:V8 protease, room temperature, 1 h. Removes unique C-terminal proline-rich extension. |
+| Membrane isolation | Sucrose flotation of rhabdomeric membranes | -- | HEPES buffer (5 mM HEPES, pH 7.0, 1 mM EDTA, 1 mM DTT) + -- | Squid retina from Todarodes pacificus caught in the Japan Sea |
+| V8 protease treatment | Proteolytic cleavage | -- | HEPES buffer (5 mM HEPES, pH 7.0, 1 mM EDTA, 1 mM DTT) + -- | 50:1 w/w rhodopsin:V8 protease, room temperature, 1 h. Removes unique C-terminal proline-rich extension. |
 | Solubilization | Detergent extraction | -- | 50 mM HEPES pH 7.0, 0.05% DDM + 2% dodecyl maltoside (DDM) | Solubilization at 4 C for 1 h |
 | Anion exchange | DEAE-cellulose column (flow-through) | DEAE-cellulose | 50 mM HEPES pH 7.0, 0.05% DDM + 0.05% DDM | Unbound fraction collected |
 | Lectin affinity | Concanavalin A-Sepharose 4B | Concanavalin A-Sepharose 4B | 50 mM HEPES pH 7.0, 0.05% DDM + 0.05% DDM | Eluted with 0.2 M alpha-methyl mannoside. Fractions pooled, dialyzed against buffer A, concentrated by ultrafiltration (Amicon Ultra, Millipore). |
 
-*Source: doi/10.1016##j.jmb.2011.08.044*
+#### Source: doi/10.1016##j.jmb.2011.08.044
 
-#### Steps
+
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Membrane extraction | Selective extraction from squid microvillar membranes | -- | Tris buffer with zinc [acetate](/xray-mp-wiki/reagents/buffers/acetate/) + n-octyl beta-D-glucopyranoside ([OG](/xray-mp-wiki/reagents/detergents/og/)) | Rhodopsin extracted selectively from microvillar membranes; all manipulations performed in dim red light (>640 nm) |
+
 
 ## Crystallization
 
@@ -97,6 +95,7 @@ Squid rhodopsin from Todarodes pacificus is an invertebrate visual pigment that 
 | Cryoprotection | Cryocooled to 100 K; crystals handled in dim red light (>640 nm) |
 | Notes | Hexagonal P62 crystals. Data collected at SPring-8 BL41XU using a 10-micrometer microbeam. Photoreaction states trapped by illumination at specific wavelengths: blue light (473 nm) for bathorhodopsin, yellow light (560 nm) for isorhodopsin, red light (635 nm) for dark-state rhodopsin. |
 
+
 ## Biological / Functional Insights
 
 ### Extended TH5 and TH6 form a structured cytoplasmic domain for G-protein coupling
@@ -126,6 +125,7 @@ The bathorhodopsin structure reveals that upon photoisomerization (11-cis to all
 ### X-ray radiation damage in rhodopsin
 
 Significant X-ray radiation damage was characterized: (1) retinal isomerization to an orange species (precursor of retro form) at approximately 4 x 10^14 photons/mm^2, (2) breakage of disulfide bond between Cys108 and Cys186, (3) loss of electron density at Asp80 (decarboxylation/radiolysis). These changes produce photochemically inactive products that can be distinguished from functional photointermediates. Data collection must account for approximately 50% protein damage at doses of 3 x 10^15 photons/mm^2.
+
 
 ## Cross-References
 

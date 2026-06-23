@@ -1,5 +1,5 @@
 ---
-title: Krokinobacter eikastus Rhodopsin 2 (KR2) — Light-Driven Sodium Pump
+title: "Krokinobacter eikastus Rhodopsin 2 (KR2) — Light-Driven Sodium Pump"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -35,9 +35,8 @@ Krokinobacter eikastus rhodopsin 2 (KR2) is a prototypical light-driven sodium p
 
 ### Purification Workflow
 
-*Source: doi/10.1038##s41586-020-2307-8*
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -45,8 +44,9 @@ Krokinobacter eikastus rhodopsin 2 (KR2) is a prototypical light-driven sodium p
 | 2. Membrane solubilization | DDM/CHS extraction | — | 50 mM Tris pH 8.0, 300 mM NaCl, 1.0% DDM, 0.2% CHS | Overnight stirring at 4°C |
 | 3. Immobilized metal affinity chromatography (IMAC) | Ni-NTA resin | — | 50 mM Tris pH 8.0, 150 mM NaCl, 100-500 mM imidazole, 0.02% DDM, 0.04% CHS | Eluted with 500 mM imidazole step gradient |
 | 4. TEV cleavage and dialysis | TEV protease + dialysis | — | 50 mM Tris pH 8.0, 150 mM NaCl, 0.02% DDM, 0.04% CHS | Overnight dialysis in 8 kDa MWCO membrane |
-| 5. Reverse IMAC | Ni-NTA flow-through | — | — | Cleaved His tag removed; flow-through collected |
+| 5. Reverse IMAC | Ni-NTA flow-through | — |  | Cleaved His tag removed; flow-through collected |
 | 6. Size-exclusion chromatography | HiLoad Superdex 75 prep grade 16/600 | — | 20 mM Tris pH 8.0, 150 mM NaCl, 0.02% DDM, 0.04% CHS | Final purification step |
+
 
 ## Crystallization
 
@@ -56,9 +56,9 @@ Krokinobacter eikastus rhodopsin 2 (KR2) is a prototypical light-driven sodium p
 |---|---|
 | Method | Lipidic cubic phase (LCP) |
 | Protein sample | Purified KR2 in 20 mM Tris pH 8.0, 150 mM NaCl, 0.02% DDM, 0.04% CHS |
-| Reservoir | 200 mM sodium acetate pH 4.4, 150 mM MgCl2, 35% PEG 200 |
 | Temperature | 20°C (overnight in dark) |
 | Notes | LCP formed with monoolein at 4:7 v/v (protein:lipid). Blue plate-like crystals 10-30 × 10-25 × 1-3 µm³. Crystals treated by washing with 150 mM NaCl, 35% PEG 200 for neutral pH experiments. TR-SFX data collected at SwissFEL; 158,832 dark and 496,904 light patterns analyzed. Data processed with CrystFEL, structures refined in PHENIX. |
+
 
 ## Biological / Functional Insights
 
@@ -68,7 +68,7 @@ Retinal isomerization from all-trans to 13-cis is completed within femtoseconds.
 
 ### Electrostatic gating mechanism for unidirectional sodium transport
 
-After retinal Schiff base (SB) deprotonation in the M intermediate, an electrostatic gate opens in microseconds. The proton transfer from SB to counterion D116 creates a transient sodium-binding site. At 1 ms, sodium binds between N112 and D251 (confirmed by QM/MM calculations showing the sodium ion produces a 55-66 nm red shift matching the O intermediate absorption maximum at 592 nm). At 20 ms, a second sodium-binding site appears between E11, N106, and E160 near the extracellular exit. Reprotonation of the SB blocks backflow, ensuring unidirectional transport.
+After retinal Schiff base (SB) deprotonation in the M intermediate, an electrostatic gate opens in microseconds. The proton transfer from SB to counterion D116 creates a transient sodium-binding site. At 1 ms, sodium binds between N112 and D251 (confirmed by QM/MM calculations showing the sodium ion produces a 55-66 nm red shift matching the O intermediate absorption). At 20 ms, a second sodium-binding site appears between E11, N106, and E160 near the extracellular exit. Reprotonation of the SB blocks backflow, ensuring unidirectional transport.
 
 ### V117 as the key mechanical transducer
 
@@ -77,5 +77,6 @@ Unlike bR where W182 in helix F mediates force transmission, KR2 uses V117 in he
 ### Sodium translocation pathway and gating
 
 The program Caver identified a putative sodium translocation pathway across the membrane. A rotamer change of R109 and Q78, together with a shift of helix D at 20 ms, opens a connection between the retinal-proximal water-filled cavity and a second cavity near E11/N106/E160/R243 towards the extracellular exit. R109 corresponds to R82 in bR (critical for proton transfer), suggesting conserved functional sites across rhodopsin families.
+
 
 ## Cross-References

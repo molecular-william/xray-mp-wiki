@@ -1,5 +1,5 @@
 ---
-title: EmrD Multidrug MFS Transporter from Escherichia coli
+title: "EmrD Multidrug MFS Transporter from Escherichia coli"
 created: 2026-06-21
 updated: 2026-06-21
 type: protein
@@ -45,7 +45,7 @@ specificity.
 - **Expression system**: E. coli
 - **Expression construct**: Full-length EmrD
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -107,5 +107,5 @@ location model has also been proposed for MdfA.
 
 - [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — EmrD is a DHA12 drug efflux subfamily member of the MFS with MDR-specific features
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — EmrD likely uses a rocker-switch mechanism for alternating access during drug/H+ antiport
-- [AcrB Multidrug Efflux Transporter (E. coli)](/xray-mp-wiki/proteins/abc-transporters/acrb-efflux-pump/) — Another E. coli multidrug efflux system; EmrD represents the MFS-based mechanism distinct from RND-type efflux
+- [AcrB Multidrug Efflux Transporter (E. coli)](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Another E. coli multidrug efflux system; EmrD represents the MFS-based mechanism distinct from RND-type efflux
 - [n-Dodecyl-beta-D-Maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for EmrD purification and crystallization

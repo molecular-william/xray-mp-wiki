@@ -1,5 +1,5 @@
 ---
-title: MsbA Lipid A Flippase
+title: "MsbA Lipid A Flippase"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -39,7 +39,7 @@ MsbA is an essential ATP-binding cassette (ABC) transporter in Gram-negative bac
 - **Expression construct**: Full-length MsbA with N-terminal His10 tag
 - **Tag info**: N-terminal His10 tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

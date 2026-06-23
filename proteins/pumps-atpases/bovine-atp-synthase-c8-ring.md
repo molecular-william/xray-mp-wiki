@@ -1,5 +1,5 @@
 ---
-title: Bovine Mitochondrial F-ATPase c8-Ring (F1-c-ring Complex)
+title: "Bovine Mitochondrial F-ATPase c8-Ring (F1-c-ring Complex)"
 created: 2026-06-21
 updated: 2026-06-21
 type: protein
@@ -20,7 +20,7 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1011099107 |  | 3.5 A | P2(1)2(1)2(1) | Bovine F1-c-ring subcomplex (F1 domain alpha3beta3gamma + c8-ring) | AMP-PNP, Mg2+ |
+| doi/10.1073##pnas.1011099107 | 2XND | 3.5 A | P2(1)2(1)2(1) | Bovine F1-c-ring subcomplex (F1 domain alpha3beta3gamma + c8-ring) | AMP-PNP, Mg2+ |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane
 - **Expression construct**: Native F1Fo-ATPase from bovine heart mitochondria
 - **Tag info**: Purified via IF1(1-60) affinity column (residues 1-60 of F1-ATPase inhibitor protein IF1)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

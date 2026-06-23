@@ -1,5 +1,5 @@
 ---
-title: GsuK Multi-Ligand Gated K+ Channel
+title: "GsuK Multi-Ligand Gated K+ Channel"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -40,7 +40,7 @@ GsuK is a two-transmembrane, RCK-regulated K+ channel from *Geobacter sulfurredu
 - **Expression construct**: GsuK in pQE70 with C-terminal His-tag
 - **Tag info**: C-terminal His6, removed by in-gel thrombin digestion
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

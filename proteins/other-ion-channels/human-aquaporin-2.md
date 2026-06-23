@@ -1,5 +1,5 @@
 ---
-title: Human Aquaporin 2 (AQP2)
+title: "Human Aquaporin 2 (AQP2)"
 created: 2026-06-08
 updated: 2026-06-11
 type: protein
@@ -35,7 +35,7 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -115,7 +115,7 @@ protein interactions involved in trafficking.
 - [Human Aquaporin 4 (hAQP4)](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-4/) — Related mammalian aquaporin for structural comparison
 - [Aquaporin Z (AqpZ)](/xray-mp-wiki/proteins/other-ion-channels/aquaporin-z/) — Bacterial aquaporin homolog for comparative analysis
 - [Aquaporin 0 (AQP0)](/xray-mp-wiki/proteins/other-ion-channels/aqp0/) — AQP0-Calmodulin interaction provides comparative model for C-terminal helix interactions
-- [On-Chip Crystallization](/xray-mp-wiki/methods/on-chip-crystallization/) — Method used to obtain the 3.7 A room-temperature SFX structure (PDB 6qf5)
+- [On-Chip Crystallization](/xray-mp-wiki/methods/crystallization/on-chip-crystallization/) — Method used to obtain the 3.7 A room-temperature SFX structure (PDB 6qf5)
 - [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — Related biological concept
 - [Nephrogenic Diabetes Insipidus](/xray-mp-wiki/concepts/miscellaneous/nephrogenic-diabetes-insipidus/) — Related biological concept
 - [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept

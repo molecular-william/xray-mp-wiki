@@ -1,12 +1,12 @@
 ---
-title: Thermotoga maritima CorA Mg2+ Transporter
+title: "Thermotoga maritima CorA Mg2+ Transporter"
 created: 2026-06-10
 updated: 2026-06-10
 type: protein
 category: proteins
 layout: default
 tags: [transporter, ion-channel, membrane-protein, xray-crystallography]
-sources: [doi/10.1038##nature04642, doi/10.1126##science.1127121]
+sources: [doi/10.1038##nature04642, doi/10.1038##sj.emboj.7601269, doi/10.1126##science.1127121]
 verified: false
 ---
 
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins/slc-transporters/tmcora-thermotoga-maritima/) is the founding structural model for the CorA/MRS2 family of Mg2+ transporters, which constitute the primary Mg2+ uptake system in most prokaryotes and functional homologues of the eukaryotic mitochondrial magnesium transporter. The structure was determined as a full-length protein in an apparent closed state at 3.9 A resolution (Nature 2006) and subsequently at 2.9 A resolution (Science 2006). The transporter is a funnel-shaped homopentamer with two transmembrane helices per monomer. The channel pore is formed by five inner helices and putatively gated by bulky hydrophobic residues. The cytoplasmic domain forms a large funnel with metal-binding regulatory sites (M1, M2) that sense intracellular Mg2+ concentration.
+The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins/slc-transporters/thermotoga-maritima-cora/) is the founding structural model for the CorA/MRS2 family of Mg2+ transporters, which constitute the primary Mg2+ uptake system in most prokaryotes and functional homologues of the eukaryotic mitochondrial magnesium transporter. The structure was determined as a full-length protein in an apparent closed state at 3.9 A resolution (Nature 2006) and subsequently at 2.9 A resolution (Science 2006). The transporter is a funnel-shaped homopentamer with two transmembrane helices per monomer. The channel pore is formed by five inner helices and putatively gated by bulky hydrophobic residues. The cytoplasmic domain forms a large funnel with metal-binding regulatory sites (M1, M2) that sense intracellular Mg2+ concentration.
 
 
 ## Structure Determination
@@ -22,8 +22,8 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1038##nature04642 | 2BBJ | 1.85 | Not specified | N-terminal soluble domain of T. maritima CorA (residues 1-266) | Mg2+, Na+ |
-| doi/10.1038##nature04642 | 2IUB | 3.9 | Not specified | Full-length T. maritima CorA | Putative Mg2+ |
 | doi/10.1126##science.1127121 | 2IUB | 2.9 | Not specified | Full-length T. maritima CorA | Mg2+, Co2+ (soak), Cl- |
+| doi/10.1038##sj.emboj.7601269 | 2BBH | 1.85 | P41212 | TmCorA_SGC-266 | none |
 
 ## Expression and Purification
 
@@ -32,26 +32,24 @@ The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature04642*
+#### Source: doi/10.1038##nature04642
 
 - **Expression system**: Escherichia coli
 - **Expression construct**: Full-length T. maritima CorA and N-terminal domain (residues 1-266) as fusions to N-terminal six-histidine tag in modified T7 polymerase expression vector
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Cell lysis and membrane isolation | Centrifugation | — | 50 mM HEPES pH 7.5, 500 mM NaCl, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 10 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 1% n-dodecyl-beta-D-maltopyranoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) | Protease inhibitors added to lysis buffer |
 | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Nickel [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA | 50 mM HEPES pH 7.5, 500 mM NaCl, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 10 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |  |
 
-### Purification Workflow
-
-*Source: doi/10.1126##science.1127121*
+#### Source: doi/10.1126##science.1127121
 
 - **Expression system**: Escherichia coli
 - **Expression construct**: Full-length T. maritima CorA
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -111,9 +109,13 @@ The CorA pore differs from other cation channels, with extensive hydrophobic int
 - [KvAP Voltage-Dependent Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kvap/) — Both are prokaryotic membrane protein structures solved at similar resolutions
 - [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Method used in structure determination or purification
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins/slc-transporters/tmcora-thermotoga-maritima/) — Related protein structure
+- [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins/slc-transporters/thermotoga-maritima-cora/) — Related protein structure
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers
 - [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers
 - [PEG 2000](/xray-mp-wiki/reagents/additives/peg2000/) — Additive used in purification or crystallization buffers
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used in purification or crystallization
+- [Escherichia coli CorA Mg2+ Channel (Cytoplasmic Domain)](/xray-mp-wiki/proteins/abc-transporters/ec-cor-a/) — Homologous CorA protein from E. coli
+- [Tris](/xray-mp-wiki/reagents/buffers/tris/) — Buffer component in purification
+- [TCEP](/xray-mp-wiki/reagents/additives/tcep/) — Reducing agent in purification buffer
+- [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) — Salt component in purification buffer

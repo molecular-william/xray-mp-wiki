@@ -1,5 +1,5 @@
 ---
-title: SUCNR1 (Succinate Receptor 1 / GPR91)
+title: "SUCNR1 (Succinate Receptor 1 / GPR91)"
 created: 2026-05-29
 updated: 2026-06-08
 type: protein

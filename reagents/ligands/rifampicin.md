@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Rifampicin is a high-molecular-mass antibiotic (Mr ~823) that inhibits bacterial RNA polymerase. In studies of the [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/), rifampicin was shown to bind to the proximal (access) pocket of the [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) access monomer, separated from the distal pocket by the Phe-617 (F617) loop. The crystal structure of [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) bound to rifampicin revealed that rifampicin binds to the access monomer at the proximal binding pocket, with no electron density observed at the corresponding positions in the binding or extrusion monomers.
+Rifampicin is a high-molecular-mass antibiotic (Mr ~823) that inhibits bacterial RNA polymerase. In studies of the [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/), rifampicin was shown to bind to the proximal (access) pocket of the [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) access monomer, separated from the distal pocket by the Phe-617 (F617) loop. The crystal structure of [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) bound to rifampicin revealed that rifampicin binds to the access monomer at the proximal binding pocket, with no electron density observed at the corresponding positions in the binding or extrusion monomers.
 
 ## Properties
 
@@ -54,5 +54,5 @@ No comparison data available.
 ## Cross-References
 
 - [AcrB Multidrug Efflux Transporter](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Rifampicin is a substrate bound by AcrB in the proximal binding pocket
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Related protein structure
+- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Related protein structure
 - [Erythromycin](/xray-mp-wiki/reagents/ligands/erythromycin/) — Related ligand or cofactor

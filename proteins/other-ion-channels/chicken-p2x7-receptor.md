@@ -1,5 +1,5 @@
 ---
-title: Chicken P2X7 Receptor (ckP2X7)
+title: "Chicken P2X7 Receptor (ckP2X7)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -30,7 +30,7 @@ The P2X7 receptor is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-gated non-sel
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

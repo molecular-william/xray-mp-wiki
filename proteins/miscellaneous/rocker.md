@@ -1,5 +1,5 @@
 ---
-title: Rocker — De Novo Designed Zn²⁺ Transporter
+title: "Rocker — De Novo Designed Zn²⁺ Transporter"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -30,7 +30,7 @@ designing membrane proteins with predefined structural and dynamic properties.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.1261172 | Not deposited | 2.7-2.8 | Multiple non-isomorphous | Zn²⁺-free Rocker four-helix bundle | None (apo form) |
+| doi/10.1126##science.1261172 | 4P6J | 2.7-2.8 | Multiple non-isomorphous | Zn²⁺-free Rocker four-helix bundle | None (apo form) |
 
 ## Expression and Purification
 
@@ -43,7 +43,7 @@ designing membrane proteins with predefined structural and dynamic properties.
 - **Expression system**: Not specified
 - **Expression construct**: Rocker four-helix bundle with designed metal-binding sites
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

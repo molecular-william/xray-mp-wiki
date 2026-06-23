@@ -1,5 +1,5 @@
 ---
-title: Sensory Rhodopsin II (NpSRII)
+title: "Sensory Rhodopsin II (NpSRII)"
 created: 2026-06-08
 updated: 2026-06-11
 type: protein
@@ -32,7 +32,7 @@ and proton pumping mechanisms.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##NATURE01109 |  | 1.94 | Orthorhombic | NpSRII in complex with HtrII_114 (transducer residues 1-114) | all-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
+| doi/10.1038##NATURE01109 | 1H2S | 1.94 | Orthorhombic | NpSRII in complex with HtrII_114 (transducer residues 1-114) | all-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
 | doi/10.1016##j.jmb.2011.07.022 | 3QAP | 1.9 | C2221 | Uncomplexed NpSRII ground state | all-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
 | doi/10.1016##j.jmb.2011.07.022 | 3QDC | 2.6 | C2221 | Uncomplexed NpSRII active state (M/O intermediate) | 13-cis [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
 
@@ -43,23 +43,21 @@ and proton pumping mechanisms.
 
 ### Purification Workflow
 
-*Source: doi/10.1126##science.1062977*
+#### Source: doi/10.1126##science.1062977
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Solubilization and purification | Affinity/purification using octylglucoside | — | Octylglucoside-containing buffer + beta-octylglucoside | Purified NpSRII at 28.0 mg/ml preincubated with H. salinarum polar lipids (11.2 mg/ml) |
 
-### Purification Workflow
-
-*Source: doi/10.1016##j.jmb.2011.07.022*
+#### Source: doi/10.1016##j.jmb.2011.07.022
 
 - **Expression system**: E. coli BL21(DE3)
 - **Expression construct**: NpSRII with C-terminal 7x His tag in pET27bmod
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

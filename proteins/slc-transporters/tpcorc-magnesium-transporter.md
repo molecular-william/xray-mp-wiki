@@ -1,5 +1,5 @@
 ---
-title: TpCorC Magnesium Transporter from Thermus parvatiensis
+title: "TpCorC Magnesium Transporter from Thermus parvatiensis"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -39,7 +39,7 @@ CorC is a prokaryotic member of the CNNM/CorC family of Mg2+ transporters, widel
 - **Expression construct**: TpCorC TM domain residues 26-182 with C-terminal HRV 3C site, GFPuv, His8 tag
 - **Tag info**: Octahistidine tag, cleaved by [HRV 3C Protease](/xray-mp-wiki/reagents/additives/hrv-3c-protease/)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

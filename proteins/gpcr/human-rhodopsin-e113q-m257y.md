@@ -1,5 +1,5 @@
 ---
-title: Human Rhodopsin E113Q/M257Y Mutant
+title: "Human Rhodopsin E113Q/M257Y Mutant"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -21,7 +21,7 @@ Human rhodopsin is the visual pigment [GPCR](/xray-mp-wiki/concepts/signaling-re
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature14656 | not determined | 3.8 A | P212121 | Human rhodopsin (residues 1-326) with N2C/N282C disulfide mutations, E113Q/M257Y activating mutations, T4 lysozyme fused at ICL3, fused to 3A arrestin (residues 10-392) via 15 aa linker | all-trans retinal (ATR) |
+| doi/10.1038##nature14656 | 4ZWJ | 3.8 A | P212121 | Human rhodopsin (residues 1-326) with N2C/N282C disulfide mutations, E113Q/M257Y activating mutations, T4 lysozyme fused at ICL3, fused to 3A arrestin (residues 10-392) via 15 aa linker | all-trans retinal (ATR) |
 
 ## Expression and Purification
 
@@ -36,7 +36,7 @@ Human rhodopsin is the visual pigment [GPCR](/xray-mp-wiki/concepts/signaling-re
 - **Expression construct**: His8-MBP-3C protease site-T4L-rhodopsin(N2C/N282C, E113Q/M257Y)-15aa linker-3A arrestin (residues 10-392)
 - **Tag info**: His8-MBP tag at N-terminus, removed by 3C protease cleavage
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

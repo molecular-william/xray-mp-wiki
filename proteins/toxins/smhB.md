@@ -1,5 +1,5 @@
 ---
-title: SmhB from Serratia marcescens
+title: "SmhB from Serratia marcescens"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -38,7 +38,7 @@ SmhB is the B component of the SmhABC tripartite alpha-pore-forming toxin (alpha
 - **Expression construct**: SmhB with C-terminal 6xHis tag
 - **Tag info**: C-terminal 6xHis tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

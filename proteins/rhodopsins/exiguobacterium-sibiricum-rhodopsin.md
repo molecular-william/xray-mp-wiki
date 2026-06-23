@@ -1,5 +1,5 @@
 ---
-title: Exiguobacterium sibiricum Rhodopsin (ESR)
+title: "Exiguobacterium sibiricum Rhodopsin (ESR)"
 created: 2026-06-21
 updated: 2026-06-21
 type: protein
@@ -45,7 +45,7 @@ represents the first high-resolution structure of a proteorhodopsin.
 - **Expression construct**: Full-length ESR with C-terminal hexahistidine tag
 - **Tag info**: C-terminal hexahistidine tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

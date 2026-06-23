@@ -1,5 +1,5 @@
 ---
-title: CCR5 Chemokine Receptor (C-C Chemokine Receptor Type 5)
+title: "CCR5 Chemokine Receptor (C-C Chemokine Receptor Type 5)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -32,7 +32,7 @@ CCR5 (C-C chemokine receptor type 5) is a class A G protein-coupled receptor (GP
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

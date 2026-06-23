@@ -1,5 +1,5 @@
 ---
-title: Burkholderia cenocepacia Haem Importer Complex BhuUV
+title: "Burkholderia cenocepacia Haem Importer Complex BhuUV"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -34,7 +34,7 @@ The BhuUV complex is the transmembrane and nucleotide-binding domain core of the
 - **Expression system**: E. coli c41 (DE3)
 - **Expression construct**: BhuU with N-terminal 8 His-tag + enterokinase site + BhuV
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

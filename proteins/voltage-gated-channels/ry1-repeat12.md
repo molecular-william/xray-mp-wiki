@@ -1,5 +1,5 @@
 ---
-title: Rabbit RyR1 Repeat12 Domain
+title: "Rabbit RyR1 Repeat12 Domain"
 created: 2026-06-05
 updated: 2026-06-05
 type: protein
@@ -33,7 +33,7 @@ The Repeat12 domain of rabbit Ryanodine Receptor Type 1 (RyR1), spanning residue
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

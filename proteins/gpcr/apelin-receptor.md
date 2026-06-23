@@ -1,5 +1,5 @@
 ---
-title: Human Apelin Receptor (APJR)
+title: "Human Apelin Receptor (APJR)"
 created: 2026-05-29
 updated: 2026-05-29
 type: protein
@@ -31,7 +31,7 @@ The human apelin receptor (APJR), also known as angiotensin receptor-like 1 (AGT
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ peptide GPCRs through a similar two-site mechanism.
 - [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) — Referenced in apelin-receptor
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Referenced in apelin-receptor
 - [Chloride Ion](/xray-mp-wiki/reagents/additives/chloride/) — Referenced in apelin-receptor
-- [Sodium Acetate](/xray-mp-wiki/reagents/additives/sodium-acetate/) — Referenced in apelin-receptor
+- [Sodium Acetate](/xray-mp-wiki/reagents/buffers/sodium-acetate/) — Referenced in apelin-receptor

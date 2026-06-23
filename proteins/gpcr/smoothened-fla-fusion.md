@@ -1,5 +1,5 @@
 ---
-title: SMO-FLA Fusion Construct (SMO-Flavodoxin)
+title: "SMO-FLA Fusion Construct (SMO-Flavodoxin)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -36,7 +36,7 @@ The SMO-FLA fusion construct is an engineered human [SMO](/xray-mp-wiki/proteins
 - **Expression construct**: SMO-FLA fusion (residues 53-558, E194M, FLA fused to ICL3)
 - **Tag info**: HA signal, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), 10xHis tag at N-terminus (cleaved by TEV), 10xHis tag at C-terminus
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

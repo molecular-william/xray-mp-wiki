@@ -1,5 +1,5 @@
 ---
-title: Human M4 Muscarinic Acetylcholine Receptor
+title: "Human M4 Muscarinic Acetylcholine Receptor"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -33,7 +33,7 @@ The human M4 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcho
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Human Glycine Receptor Alpha 3 (GlyRα3)
+title: "Human Glycine Receptor Alpha 3 (GlyRα3)"
 created: 2026-05-28
 updated: 2026-05-28
 type: protein
@@ -33,7 +33,7 @@ Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha 3 (GlyR�
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

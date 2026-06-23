@@ -1,5 +1,5 @@
 ---
-title: KirBac Potassium Channels
+title: "KirBac Potassium Channels"
 created: 2026-05-26
 updated: 2026-06-10
 type: protein
@@ -21,9 +21,9 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1126##science.1085028 | 1P7B | 3.65 A | I222 | Full-length KirBac1.1 | Mg2+ ions |
-| doi/10.1016##J.CELL.2010.05.003 | 1P7B (Structure I) | 3.7 A | I222 | Full-length KirBac1.1 with His-tag | Mg2+ (blocked configuration) |
-| doi/10.1016##J.CELL.2010.05.003 | 1XL4 (Structure II) | 2.6 A | P21212 | Full-length KirBac3.1 with His-tag | Ca2+ (blocked), [Spermine](/xray-mp-wiki/reagents/additives/spermine/) |
-| doi/10.1016##J.CELL.2010.05.003 | 1XL6 (Structure VIII) | 2.8 A | C2221 | Full-length KirBac3.1 with His-tag | [Spermine](/xray-mp-wiki/reagents/additives/spermine/) (conduction-compromised) |
+| doi/10.1016##J.CELL.2010.05.003 | 1P7B | 3.7 A | I222 | Full-length KirBac1.1 with His-tag | Mg2+ (blocked configuration) |
+| doi/10.1016##J.CELL.2010.05.003 | 1XL4 | 2.6 A | P21212 | Full-length KirBac3.1 with His-tag | Ca2+ (blocked), [Spermine](/xray-mp-wiki/reagents/additives/spermine/) |
+| doi/10.1016##J.CELL.2010.05.003 | 1XL6 | 2.8 A | C2221 | Full-length KirBac3.1 with His-tag | [Spermine](/xray-mp-wiki/reagents/additives/spermine/) (conduction-compromised) |
 | doi/10.1016##J.CELL.2010.05.003 | Structure III | 3.1 A | P21212 | Full-length KirBac3.1 with His-tag | none (stalled twist conformation) |
 | doi/10.1016##J.CELL.2010.05.003 | Structure IV | 3.3 A | I222 | Full-length KirBac3.1 with His-tag | none (stalled twist conformation) |
 | doi/10.1016##J.CELL.2010.05.003 | Structure V | 3.5 A | C2221 | Full-length KirBac3.1 with His-tag | none (stalled twist conformation) |
@@ -48,10 +48,10 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 
 ### Purification Workflow
 
-*Source: doi/10.1016##J.CELL.2010.05.003*
+#### Source: doi/10.1016##J.CELL.2010.05.003
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -61,12 +61,10 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 | Size-exclusion chromatography | Size-exclusion chromatography | -- | -- + 1% [Anzergent 3,12](/xray-mp-wiki/reagents/detergents/anzergent-3-12/) | Peak fractions pooled after SEC |
 | Concentration | Ultrafiltration | Amicon | -- + -- | Concentrated to ~8 mg/ml for crystallization |
 
-### Purification Workflow
-
-*Source: doi/10.1038##NSMB.2208*
+#### Source: doi/10.1038##NSMB.2208
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -74,12 +72,10 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 | Gel filtration | Size-exclusion chromatography | -- | Not specified + triDM | Detergent exchanged from triDM into 14 mM [HEGA-10](/xray-mp-wiki/reagents/detergents/hega-10/) using Vivaspin concentrators (100 kDa cutoff) after gel filtration |
 | Concentration | Vivaspin concentrators (100 kDa cutoff) | -- | Not specified + 14 mM [HEGA-10](/xray-mp-wiki/reagents/detergents/hega-10/) | Concentrated to 6 mg/ml for crystallization |
 
-### Purification Workflow
-
-*Source: doi/10.3390##ijms23010335*
+#### Source: doi/10.3390##ijms23010335
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -89,12 +85,10 @@ KirBac1.1 and KirBac3.1 are prokaryotic inward-rectifier potassium channels from
 | Size-exclusion chromatography | SEC | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) 10/300 | 2 mM TriDM + 2 mM TriDM | Purified on [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) column pre-equilibrated with 2 mM TriDM buffer |
 | Concentration | Ultrafiltration | -- | 20 mM Tris pH 7.4, 150 mM KCl, 0.2 mM TriDM + 0.2 mM TriDM | Concentrated to 1-2.5 mg/mL, stored at -80 C |
 
-### Purification Workflow
-
-*Source: doi/10.1074##jbc.M113.501833*
+#### Source: doi/10.1074##jbc.M113.501833
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

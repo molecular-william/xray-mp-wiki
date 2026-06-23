@@ -1,5 +1,5 @@
 ---
-title: YePEPT (Yersinia enterocolitica Peptide Transporter)
+title: "YePEPT (Yersinia enterocolitica Peptide Transporter)"
 created: 2026-06-11
 updated: 2026-06-16
 type: protein
@@ -18,7 +18,7 @@ YePEPT is a proton-dependent oligopeptide transporter (POT) family member from
 the bacterium Yersinia enterocolitica. It is a membrane protein that mediates
 the cellular uptake of di- and tripeptides using energy provided by
 transmembrane proton gradients. YePEPT belongs to the major facilitator
-superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/)) of secondary active transporters. The X-ray crystal structure
+superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/)) of secondary active transporters. The X-ray crystal structure
 of YePEPT at 3.02 A resolution revealed the molecular bases for recognition,
 binding and specificity of dipeptides with a charged amino acid residue at the
 N-terminal position. Lys314 in the substrate-binding pocket determines
@@ -57,13 +57,13 @@ to the inward-open state, revealing the inhibition mechanism.
 
 ### Purification Workflow
 
-*Source: doi/10.1186##s12915-015-0167-8*
+#### Source: doi/10.1186##s12915-015-0167-8
 
 - **Expression system**: E. coli
 - **Expression construct**: YePEPT with C-terminal HRV3C-decaHis tag
 - **Tag info**: deca-His tag, cleaved by HRV3C protease
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -73,15 +73,13 @@ to the inward-open state, revealing the inhibition mechanism.
 | Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA Superflow Beads | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 300 mM NaCl, 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Washed with 10 CV of washing buffer (20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 300 mM NaCl, 5 mM histidine, 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/)). Eluted by HRV3C protease cleavage overnight. |
 | Size-exclusion chromatography | SEC | — | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM NaCl, 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Concentrated to ~10 mg/mL for crystallization |
 
-### Purification Workflow
-
-*Source: doi/10.1038##s42004-022-00636-0*
+#### Source: doi/10.1038##s42004-022-00636-0
 
 - **Expression system**: E. coli BL21(DE3) pLysS
 - **Expression construct**: YePEPT K314A with C-terminal HRV3C cleavage site and deca-His tag in pZUDF21-rbs vector
 - **Tag info**: deca-His tag, cleaved by HRV3C protease
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -162,7 +160,7 @@ LZNV inhibits POTs through a unique mechanism: after the dipeptide backbone of L
 ## Cross-References
 
 - [POT Family Substrate Specificity](/xray-mp-wiki/concepts/protein-families/pot-family-substrate-specificity/) — YePEPT defines the electrostatic mechanism for charged dipeptide recognition in the POT family
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — YePEPT belongs to the MFS fold with N- and C-terminal six-helix bundles
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — YePEPT belongs to the MFS fold with N- and C-terminal six-helix bundles
 - [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — YePEPT structure is in the inward-open conformation, representing one state of the alternating access cycle
 - [Peptide Binding Pocket](/xray-mp-wiki/concepts/structural-mechanisms/peptide-binding-pocket/) — LZNV binds in the conserved substrate-binding pocket with additional PZ pocket interactions
 - [PZ Pocket POT Inhibition](/xray-mp-wiki/concepts/structural-mechanisms/pz-pocket-pot-inhibition/) — LZNV-bound structure reveals the PZ pocket, a novel inhibitor-induced binding pocket

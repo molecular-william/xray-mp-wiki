@@ -1,5 +1,5 @@
 ---
-title: LarB (Lactiplantibacillus plantarum)
+title: "LarB (Lactiplantibacillus plantarum)"
 created: 2026-05-29
 updated: 2026-05-29
 type: protein
@@ -34,7 +34,7 @@ LarB is an enzyme from Lactiplantibacillus plantarum (formerly Lactobacillus pla
 - **Expression system**: E. coli BL21 (DE3)
 - **Expression construct**: Strep II-tagged LarB
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

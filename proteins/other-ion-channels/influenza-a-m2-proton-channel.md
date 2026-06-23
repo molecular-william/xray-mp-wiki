@@ -1,12 +1,12 @@
 ---
-title: Influenza A M2 Proton Channel
+title: "Influenza A M2 Proton Channel"
 created: 2026-06-08
 updated: 2026-06-16
 type: protein
 category: proteins
 layout: default
 tags: [ion-channel, channel, membrane-protein]
-sources: [doi/10.1038##nature06528, doi/10.1021##jacs.8b06741, doi/10.1021##jacs.9b02196, doi/10.1073##pnas.1007071107, doi/10.1073##pnas.1518493112, doi/10.1073##pnas.1705624114, doi/10.1021##acs.biochem.9b00971]
+sources: [doi/10.1021##acs.biochem.9b00971, doi/10.1021##jacs.8b06741, doi/10.1021##jacs.9b02196, doi/10.1038##nature06528, doi/10.1073##pnas.1007071107, doi/10.1073##pnas.1518493112, doi/10.1073##pnas.1705624114]
 verified: false
 ---
 
@@ -27,7 +27,6 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 | doi/10.1021##jacs.8b06741 | 6BKL | 2.00 | P21 | M2 TM domain (residues 22-46), Inward_closed conformation | rimantadine |
 | doi/10.1021##jacs.8b06741 | 6BMZ | 2.63 | P21 | M2 TM domain (residues 22-46), Inward_closed conformation | spiro-adamantyl amine |
 | doi/10.1021##jacs.8b06741 | 5BOC | 2.25 | P21 | M2 TM domain (residues 22-46), Inward_open conformation | rimantadine |
-| doi/10.1021##jacs.9b02196 | 6MJH | 2.20 | P21 | M2 TM domain (residues 22-46), S31N mutant, Inward_open conformation |  |
 | doi/10.1021##jacs.9b02196 | 6MJH | 2.20 | P21 | M2 TM domain (residues 22-46), S31N mutant, Inward_closed conformation |  |
 | doi/10.1073##pnas.1007071107 | 3LBW | 1.65 | — | M2TM' (residues 22-46), crystallized at pH 6.5 (intermediate protonation state) |  |
 | doi/10.1073##pnas.1518493112 | 4QK7 | 1.10 | I4 | M2TM (residues 22-46) from influenza A/Udorn/307/1972, pH 8.0, cryogenic (100 K) |  |
@@ -47,23 +46,21 @@ The M2 proton channel of influenza A virus is a homotetrameric ion channel that 
 
 ### Purification Workflow
 
-*Source: doi/10.1073##pnas.1007071107*
+#### Source: doi/10.1073##pnas.1007071107
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Peptide synthesis | Chemical synthesis | — |  | M2TM' (residues 22-46) and M2TM were chemically synthesized |
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.1518493112*
+#### Source: doi/10.1073##pnas.1518493112
 
 - **Expression system**: Chemically synthesized
 - **Expression construct**: M2(22-46) SSDPLVVAASIGILHLILWILDRL-NH3 from influenza A/Udorn/307/1972 (MW 2682.268 Da)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -156,6 +153,13 @@ The 3.0 A structure of M2(21-61) V27A (6OUG) reveals that residues Asp44, Arg45,
 - [Amantadine](/xray-mp-wiki/reagents/ligands/amantadine/) — Adamantyl-amine inhibitor targeting M2 proton channel
 - [Rimantadine](/xray-mp-wiki/reagents/ligands/rimantadine/) — Adamantyl-amine inhibitor targeting M2 proton channel
 - [M2 Proton Channel Conformational Equilibrium](/xray-mp-wiki/concepts/transport-mechanisms/m2-conformational-equilibrium/) — Conformational dynamics between Inward_open and Inward_closed states
-- [Influenza A M2 Proton Channel S31N Mutant](/xray-mp-wiki/proteins/other-ion-channels/influenza-a-m2-proton-channel-s31n/) — Drug resistance mutant of M2
+- [Influenza A M2 Proton Channel S31N Mutant](/xray-mp-wiki/proteins/other-ion-channels/influenza-a-m2-proton-channel/) — Drug resistance mutant of M2
 - [Spiro-Adamantyl Amine](/xray-mp-wiki/reagents/ligands/spiro-adamantyl-amine/) — Inhibitor that binds both WT and V27A mutant M2 channels
 - [Proton Wire](/xray-mp-wiki/concepts/transport-mechanisms/proton-wire/) — Water networks in the M2 pore mediate proton conduction via Grotthuss mechanism
+- [Influenza A M2 Proton Channel](/xray-mp-wiki/proteins/other-ion-channels/influenza-a-m2-proton-channel/) — Wild-type M2 channel; S31N is the most prevalent drug resistance mutation
+- [MNG-3-C8 Detergent](/xray-mp-wiki/reagents/detergents/mng-3-c8/) — MNG detergent critical for crystallizing the Inward_closed state of S31N mutant
+- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used for both conformational states of S31N mutant
+- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
+- [Tetradecylbetaine (C14-betaine)](/xray-mp-wiki/reagents/detergents/c14-betaine/) — Detergent used in purification or crystallization
+- [LPPG](/xray-mp-wiki/reagents/detergents/lppg/) — Detergent used in purification or crystallization
+- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Additive used in purification or crystallization buffers

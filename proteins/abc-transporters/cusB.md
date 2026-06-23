@@ -1,5 +1,5 @@
 ---
-title: CusB Membrane Fusion Protein
+title: "CusB Membrane Fusion Protein"
 created: 2026-05-27
 updated: 2026-06-02
 type: protein
@@ -23,7 +23,7 @@ CusB is a periplasmic membrane fusion protein (MFP) from Escherichia coli, funct
 | doi/10.1016##j.jmb.2009.08.029 | 2L9P | 3.40 A | I222 | Full-length CusB with C-terminal 6xHis tag (residues 1-369) | Apo |
 | doi/10.1016##j.jmb.2009.08.029 | 2L9Q | 3.78 A | I222 | Full-length CusB with C-terminal 6xHis tag | Copper(I) (Cu+) |
 | doi/10.1016##j.jmb.2009.08.029 | 2L9R | 3.84 A | I222 | Full-length CusB with C-terminal 6xHis tag | Silver(I) (Ag+) |
-| doi/10.1038##nature09743 | -- | 2.90 A | -- | CusB residues 79-400 (molecule 1) and 79-402 (molecule 2) in CusBA co-crystal; CusB forms hexameric channel with six protomers per [Cusa](/xray-mp-wiki/proteins/cusA) trimer | [Cymal 6](/xray-mp-wiki/reagents/detergents/cymal-6) |
+| doi/10.1038##nature09743 | 3NE5 | 2.90 A | -- | CusB residues 79-400 (molecule 1) and 79-402 (molecule 2) in CusBA co-crystal; CusB forms hexameric channel with six protomers per [Cusa](/xray-mp-wiki/proteins/cusA) trimer | [Cymal 6](/xray-mp-wiki/reagents/detergents/cymal-6) |
 
 ## Expression and Purification
 
@@ -33,7 +33,7 @@ CusB is a periplasmic membrane fusion protein (MFP) from Escherichia coli, funct
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -109,7 +109,7 @@ A structural model of the complete CusC3-CusB6-CusA3 tripartite efflux complex w
 
 ## Cross-References
 
-- [AcrB Multidrug Efflux Pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — AcrB is the prototypical RND efflux pump; CusA structural model based on AcrB structure
+- [AcrB Multidrug Efflux Pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — AcrB is the prototypical RND efflux pump; CusA structural model based on AcrB structure
 - [MexB Efflux Pump](/xray-mp-wiki/proteins/abc-transporters/mexB/) — MexB is a P. aeruginosa RND efflux pump homologous to CusA
 - [AcrA Membrane Fusion Protein](/xray-mp-wiki/proteins/abc-transporters/acra/) — AcrA is the MFP partner of AcrB; CusB compared structurally to AcrA
 - [MexA Membrane Fusion Protein](/xray-mp-wiki/proteins/mexA/) — MexA is the P. aeruginosa MFP homolog; CusB superimposed with MexA showing domain similarities

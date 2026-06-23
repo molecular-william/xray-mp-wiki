@@ -1,5 +1,5 @@
 ---
-title: BbFPN — Putative Bacterial Ferroportin Homologue from Bdellovibrio bacteriovorus
+title: "BbFPN — Putative Bacterial Ferroportin Homologue from Bdellovibrio bacteriovorus"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -35,7 +35,7 @@ BbFPN is a putative bacterial homologue of ferroportin (FPN/SLC40A1) from Bdello
 - **Expression system**: E. coli
 - **Expression construct**: BbFPN with affinity tag (protocol A and protocol B)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

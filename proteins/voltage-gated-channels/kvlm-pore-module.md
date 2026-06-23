@@ -1,5 +1,5 @@
 ---
-title: KvLm Pore Module (Voltage-Gated K+ Channel Pore from Listeria monocytogenes)
+title: "KvLm Pore Module (Voltage-Gated K+ Channel Pore from Listeria monocytogenes)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -21,8 +21,8 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1074##jbc.m112.415091 |  | 3.1 | P42_12 | KvLm PM A98C mutant, residues 1-137 (tetramer), crystallized in LCP with [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) | K+ ions (S2-S4 positions in selectivity filter) |
-| doi/10.1074##jbc.m112.415091 |  | 3.35 | P2_12_2 | KvLm PM A98C mutant, 2 subunits in asymmetric unit | K+ ions (fully occupied selectivity filter) |
+| doi/10.1074##jbc.m112.415091 | 4H33 | 3.1 | P42_12 | KvLm PM A98C mutant, residues 1-137 (tetramer), crystallized in LCP with [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) | K+ ions (S2-S4 positions in selectivity filter) |
+| doi/10.1074##jbc.m112.415091 | 4H33 | 3.35 | P2_12_2 | KvLm PM A98C mutant, 2 subunits in asymmetric unit | K+ ions (fully occupied selectivity filter) |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ The KvLm pore module (PM) is a sensorless pore module dissected from the KvLm vo
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

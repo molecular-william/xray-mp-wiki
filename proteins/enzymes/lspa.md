@@ -1,5 +1,5 @@
 ---
-title: LspA from Staphylococcus aureus (Lipoprotein Signal Peptidase II)
+title: "LspA from Staphylococcus aureus (Lipoprotein Signal Peptidase II)"
 created: 2026-06-08
 updated: 2026-06-10
 type: protein
@@ -23,7 +23,7 @@ LspA (lipoprotein signal peptidase II) is an integral membrane aspartyl protease
 |---|---|---|---|---|---|
 | doi/10.1038##s41467-019-13724-y | 6RYO | 1.92 A | P3_2 21 | LspA from S. aureus MRSA (LspMrs) in complex with [Globomycin](/xray-mp-wiki/reagents/ligands/globomycin/), residues approximately 1-163, crystallized using lipidic cubic phase (LCP) | [Globomycin](/xray-mp-wiki/reagents/ligands/globomycin/) |
 | doi/10.1038##s41467-019-13724-y | 6RYP | 2.30 A | P6_1 22 | LspA from S. aureus MRSA (LspMrs) in complex with myxovirescin A1, residues approximately 1-162, crystallized using lipidic cubic phase (LCP) | myxovirescin A1 |
-| doi/10.1126##science.aad3747 |  | 2.8 A |  | LspA from P. aeruginosa PAO1 in complex with [Globomycin](/xray-mp-wiki/reagents/ligands/globomycin/), 169 amino acids | [Globomycin](/xray-mp-wiki/reagents/ligands/globomycin/) |
+| doi/10.1126##science.aad3747 | 5DIR | 2.8 A |  | LspA from P. aeruginosa PAO1 in complex with [Globomycin](/xray-mp-wiki/reagents/ligands/globomycin/), 169 amino acids | [Globomycin](/xray-mp-wiki/reagents/ligands/globomycin/) |
 
 ## Expression and Purification
 
@@ -32,10 +32,10 @@ LspA (lipoprotein signal peptidase II) is an integral membrane aspartyl protease
 
 ### Purification Workflow
 
-*Source: doi/10.1038##s41467-019-13724-y*
+#### Source: doi/10.1038##s41467-019-13724-y
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -48,13 +48,11 @@ LspA (lipoprotein signal peptidase II) is an integral membrane aspartyl protease
 **Final sample**: 14-16 mg/ml in 50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 300 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 1 mM TCEP
 **Purity**: High purity by SDS-PAGE
 
-### Purification Workflow
-
-*Source: doi/10.1126##science.aad3747*
+#### Source: doi/10.1126##science.aad3747
 
 - **Expression system**: Escherichia coli (P. aeruginosa PAO1 LspA)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: PL5 Designed Pentameric Transmembrane Protein
+title: "PL5 Designed Pentameric Transmembrane Protein"
 created: 2026-06-10
 updated: 2026-06-10
 type: protein
@@ -31,7 +31,7 @@ PL5 is a designed homopentameric transmembrane helical bundle based on the apola
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

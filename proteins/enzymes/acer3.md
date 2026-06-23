@@ -1,5 +1,5 @@
 ---
-title: Alkaline Ceramidase 3 (ACER3)
+title: "Alkaline Ceramidase 3 (ACER3)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ Alkaline ceramidase 3 (ACER3) is a human integral membrane protein with a seven-
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

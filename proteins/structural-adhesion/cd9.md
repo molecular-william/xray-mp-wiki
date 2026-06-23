@@ -1,5 +1,5 @@
 ---
-title: CD9 (Tetraspanin)
+title: "CD9 (Tetraspanin)"
 created: 2026-06-09
 updated: 2026-06-09
 type: protein
@@ -20,8 +20,8 @@ CD9 is a member of the tetraspanin family, a class of four-transmembrane domain 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41467-020-15459-7 | Not deposited (crystal structure) | 2.7 A | — | Human CD9 with partial LEL deletion (Thr175-Lys179) and C-terminal tail deletion (Glu226-Val228) |  |
-| doi/10.1038##s41467-020-15459-7 | Not deposited (cryo-EM structure) | 7.3 A | — | Full-length CD9 + EWI-2 + anti-CD9 Fab |  |
+| doi/10.1038##s41467-020-15459-7 | 6K4J | 2.7 A | — | Human CD9 with partial LEL deletion (Thr175-Lys179) and C-terminal tail deletion (Glu226-Val228) |  |
+| doi/10.1038##s41467-020-15459-7 | 6K4J | 7.3 A | — | Full-length CD9 + EWI-2 + anti-CD9 Fab |  |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ CD9 is a member of the tetraspanin family, a class of four-transmembrane domain 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

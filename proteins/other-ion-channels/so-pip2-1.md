@@ -1,5 +1,5 @@
 ---
-title: SoPIP2;1 (Spinach Plasma Membrane Aquaporin)
+title: "SoPIP2;1 (Spinach Plasma Membrane Aquaporin)"
 created: 2026-06-02
 updated: 2026-06-08
 type: protein
@@ -34,22 +34,20 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature04316*
+#### Source: doi/10.1038##nature04316
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Expression | Heterologous overexpression in Pichia pastoris | -- | -- + -- | Functional SoPIP2;1 overproduced as both His-tagged and non-tagged protein; reference 37 provides details |
 | Purification | Purification and concentration (details in Supplementary Information) | -- | -- + -- | Purification protocol detailed in Supplementary Information of the source paper |
 
-### Purification Workflow
-
-*Source: doi/10.1016##j.jmb.2009.01.065*
+#### Source: doi/10.1016##j.jmb.2009.01.065
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

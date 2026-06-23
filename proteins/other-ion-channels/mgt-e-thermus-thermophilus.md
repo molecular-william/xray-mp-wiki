@@ -1,5 +1,5 @@
 ---
-title: MgtE (Magnesium Transport Channel)
+title: "MgtE (Magnesium Transport Channel)"
 created: 2026-06-08
 updated: 2026-06-16
 type: protein
@@ -35,8 +35,8 @@ and regulate channel gating.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##emboj.2009.288 |  | 2.94 | Not specified | Full-length Thermus thermophilus MgtE | Mg2+ ions (7 binding sites: Mg1-Mg7) |
-| doi/10.1038##ncomms6374 |  | 2.2 | P 2(1) 2(1) 2(1) | MgtE transmembrane domain (MgtE-TMD) from Thermus thermophilus | Mg2+, Mn2+, Ca2+ ions at M1 site; Mn2+ at M2, M2', M3 sites |
+| doi/10.1038##emboj.2009.288 | 2ZY9 | 2.94 | Not specified | Full-length Thermus thermophilus MgtE | Mg2+ ions (7 binding sites: Mg1-Mg7) |
+| doi/10.1038##ncomms6374 | 4U9L | 2.2 | P 2(1) 2(1) 2(1) | MgtE transmembrane domain (MgtE-TMD) from Thermus thermophilus | Mg2+, Mn2+, Ca2+ ions at M1 site; Mn2+ at M2, M2', M3 sites |
 
 ## Expression and Purification
 
@@ -49,7 +49,7 @@ and regulate channel gating.
 - **Expression construct**: His6 tag
 - **Tag info**: His6 tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -45,5 +45,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [TEV Protease](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) — Alternative protease used for tag cleavage in other SMO constructs
-- [PreScission Protease](/xray-mp-wiki/reagents/pre-scission-protease/) — Another protease used for tag removal in protein purification
+- [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) — Alternative protease used for tag cleavage in other SMO constructs
+- [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) — Another protease used for tag removal in protein purification

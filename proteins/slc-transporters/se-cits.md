@@ -1,5 +1,5 @@
 ---
-title: Salmonella enterica Citrate/Sodium Symporter (SeCitS)
+title: "Salmonella enterica Citrate/Sodium Symporter (SeCitS)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -37,7 +37,7 @@ SeCitS is a [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/cit
 - **Expression construct**: Full-length SeCitS, N-His10-thrombin
 - **Tag info**: His10-tag removed by on-column thrombin cleavage
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

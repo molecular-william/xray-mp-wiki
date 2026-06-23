@@ -1,5 +1,5 @@
 ---
-title: Isoprenylcysteine Carboxyl Methyltransferase (ICMT) from Methanosarcina acetivorans
+title: "Isoprenylcysteine Carboxyl Methyltransferase (ICMT) from Methanosarcina acetivorans"
 created: 2026-05-26
 updated: 2026-05-26
 type: protein
@@ -30,7 +30,7 @@ ICMT (isoprenylcysteine carboxyl methyltransferase) is an integral membrane meth
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

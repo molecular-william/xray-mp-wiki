@@ -128,7 +128,6 @@ classes of  |
 | concept | concepts/enzyme-mechanisms/trex1-rnase-activity/ | TREX1 RNase Activity and DNA/RNA Hybrid Processing | [Mouse TREX1 (Three Prime Repair Exonuclease 1)](/xray-mp-wiki/proteins/gpcr/tre |
 | concept | concepts/enzyme-mechanisms/two-stage-catalytic-mechanism/ | Two-Stage Catalytic Mechanism of Rhomboid Proteases | Rhomboid intramembrane proteases catalyze substrate cleavage through a two-stage |
 | concept | concepts/enzyme-mechanisms/vanadate-inhibition/ | Vanadate Inhibition of P-type ATPases | Vanadate is the hallmark inhibitor of the P-type ATPase family. Crystal structur |
-| concept | concepts/enzyme-mechanisms/vitamin-k-catalytic-cycle/ | Vitamin K Catalytic Cycle | The vitamin K catalytic cycle is a biochemical cycle in the endoplasmic reticulu |
 | concept | concepts/enzyme-mechanisms/vitamin-k-cycle/ | Vitamin K Cycle | The [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) cycle is a biochemi |
 | concept | concepts/membrane-mimetics/computational-transmembrane-protein-design/ | Computational Design of Multipass Transmembrane Proteins | A methodology for the de novo computational design of multipass transmembrane pr |
 | concept | concepts/membrane-mimetics/force-from-lipid-principle/ | Force-from-Lipid Principle in Mechanosensation | The force-from-lipid (FFL) principle posits that mechanosensitive ion channels a |
@@ -216,8 +215,6 @@ inte |
 | concept | concepts/protein-families/di-iron-desaturase/ | Di-Iron-Containing Desaturase Family | The di-iron-containing desaturase family comprises enzymes that catalyze the int |
 | concept | concepts/protein-families/duf3413-family/ | DUF3413 (PF11893) Protein Family | DUF3413 (Domain of Unknown Function 3413, Pfam family PF11893) is a conserved
 pr |
-| concept | concepts/protein-families/major-facilitator-superfamily/ | Major Facilitator Superfamily (MFS) | The Major Facilitator Superfamily (MFS) is one of the largest and most
-ancient f |
 | concept | concepts/protein-families/mapag-superfamily/ | MAPEG Superfamily | The MAPEG (Membrane-Associated Proteins involved in Eicosanoid and Glutathione m |
 | concept | concepts/protein-families/mce-protein-family/ | MCE Protein Family | The MCE (mammalian cell entry) protein superfamily comprises highly conserved pr |
 | concept | concepts/protein-families/mfs-transporter/ | Major Facilitator Superfamily (MFS) | The Major Facilitator Superfamily (MFS) is one of the largest families of second |
@@ -246,8 +243,6 @@ foun |
 | concept | concepts/protein-families/tmbim-protein-family/ | TMBIM Protein Family | The TMBIM (transmembrane Bax inhibitor motif) protein family comprises highly co |
 | concept | concepts/protein-families/tmem16-family/ | TMEM16 Family (Anoctamin Protein Family) | The TMEM16 family (also known as anoctamin family) is a group of eukaryotic memb |
 | concept | concepts/protein-families/wxg100-family-proteins/ | WxG100 Family Proteins | The WxG100 family (also known as the ESAT-6 family) comprises small helical prot |
-| concept | concepts/protein-families/yidc-oxa1-alb3-family/ | YidC/Oxa1/Alb3 Family | The YidC/Oxa1/Alb3 family is a conserved family of membrane protein chaperones
-a |
 | concept | concepts/protein-families/yidc-oxa1-alb3-insertase-family/ | YidC/Oxa1/Alb3 Insertase Family | The [YidC/Oxa1/Alb3 Family](/xray-mp-wiki/concepts/protein-families/yidc-oxa1-al |
 | concept | concepts/rhodopsin-mechanisms/bacteriorhodopsin-photocycle/ | Bacteriorhodopsin Photocycle | The bacteriorhodopsin photocycle is a sequence of light-induced conformational
 a |
@@ -362,7 +357,8 @@ multi |
 | concept | concepts/structural-mechanisms/intramolecular-salt-bridge/ | Intramolecular Salt Bridge | Concept: intramolecular-salt-bridge |
 | concept | concepts/structural-mechanisms/isoprenoid-quinone-in-atp-synthase-c-ring/ | Isoprenoid Quinones inside the ATP Synthase c-Ring Pore | The hypothesis that isoprenoid quinones (plastoquinone in chloroplasts,
 coenzyme |
-| concept | concepts/structural-mechanisms/large-domain-motion-in-p-type-atpases/ | Large Domain Motion in P-type ATPases | Concept: large-domain-motion-in-p-type-atpases |
+| concept | concepts/structural-mechanisms/large-domain-motion-in-p-type-atpases/ | Large Domain Motion in P-type ATPases | The cytoplasmic headpiece consists of three domains (A, N, and P) that undergo
+s |
 | concept | concepts/structural-mechanisms/lipid-asymmetry/ | Membrane Lipid Asymmetry | Membrane lipid asymmetry refers to the non-random distribution of lipids between |
 | concept | concepts/structural-mechanisms/low-barrier-hydrogen-bond/ | Low-Barrier Hydrogen Bond | A low-barrier hydrogen bond (LBHB) is a very short, strong hydrogen bond (typica |
 | concept | concepts/structural-mechanisms/mcu-dimer-of-dimers-architecture/ | MCU Dimer-of-Dimers Architecture | The mitochondrial calcium uniporter (MCU) assembles as a tetrameric channel with |
@@ -446,7 +442,7 @@ an |
 antiport, based o |
 | concept | concepts/transport-mechanisms/conformational-asymmetry-abc-transporters/ | Conformational Asymmetry in ABC Transporters | Conformational asymmetry in ABC transporters refers to the observation that the  |
 | concept | concepts/transport-mechanisms/conformational-coupling-gating/ | Conformational Coupling Between Activation Gate and Selectivity Filter | Conformational coupling between the activation gate and selectivity filter is a  |
-| concept | concepts/transport-mechanisms/conformational-dynamics-mfs/ | Conformational Dynamics in MFS Transporters | [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) tr |
+| concept | concepts/transport-mechanisms/conformational-dynamics-mfs/ | Conformational Dynamics in MFS Transporters | [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) transporters exh |
 | concept | concepts/transport-mechanisms/cora-mg-transporter/ | CorA Mg2+ Transporter | CorA is a Mg2+ transporter that forms a pentameric structure. It uses a common p |
 | concept | concepts/transport-mechanisms/cora-mrs2-alr1-superfamily/ | CorA-Mrs2-Alr1 Superfamily of Mg2+ Channels | Concept: cora-mrs2-alr1-superfamily |
 | concept | concepts/transport-mechanisms/dass-family/ | Divalent Anion/Na+ Symporter (DASS) Family | The Divalent Anion/Na+ Symporter (DASS) family (TC 2.A.47) is a large family
@@ -520,7 +516,6 @@ hydr |
 motif fou |
 | concept | concepts/transport-mechanisms/o1-channel/ | O1 Water Channel of Photosystem II | The O1 channel is a water intake pathway in Photosystem II (PSII) that connects  |
 | concept | concepts/transport-mechanisms/orthosteric-allosteric-dual-inhibition/ | Orthosteric–Allosteric Dual Inhibition of Transporters | Orthosteric–allosteric dual inhibition is a paradigm-shifting drug design strate |
-| concept | concepts/transport-mechanisms/outward-facing-conformation-abc/ | Outward-Facing Conformation in ABC Transporters | The outward-facing conformation is a structural state of ABC (ATP-Binding Casset |
 | concept | concepts/transport-mechanisms/outward-facing-conformation/ | Outward-Facing Conformation of ABC Transporters | The outward-facing conformation is a structural state of ABC transporters in whi |
 | concept | concepts/transport-mechanisms/oxygen-ladder-selectivity-filter/ | Oxygen Ladder in Selectivity Filters | Concept: oxygen-ladder-selectivity-filter |
 | concept | concepts/transport-mechanisms/periplasmic-drug-binding-site-rnd/ | Periplasmic Drug-Binding Site in RND Efflux Pumps | The periplasmic drug-binding site of [RND Efflux Pumps](/xray-mp-wiki/concepts/t |
@@ -570,18 +565,15 @@ unrel |
 | method | methods/crystallization/2d-crystallization-detergent-dialysis/ | 2D Crystallization by Detergent Dialysis | 2D crystallization by detergent dialysis reconstitutes detergent-solubilized mem |
 | method | methods/crystallization/batch-crystallization-free-interface-diffusion/ | Batch Crystallization with Free Interface Diffusion | Batch crystallization with free interface diffusion is a membrane protein crysta |
 | method | methods/crystallization/bicelle-crystallization/ | Bicelle Crystallization for Membrane Proteins | Bicelle crystallization uses a lipid-detergent mixture (typically DMPC/CHAPSO) t |
-| method | methods/crystallization/cubic-lipid-phase-crystallization/ | Cubic Lipid Phase Crystallization | Cubic lipid phase (CLP) crystallization is a method for crystallizing membrane p |
 | method | methods/crystallization/hanging-drop-vapor-diffusion/ | Hanging-Drop Vapor Diffusion | Hanging-drop vapor diffusion is a widely used protein crystallization technique  |
 | method | methods/crystallization/hilide-crystallization/ | HiLiDe Crystallization | HiLiDe (Hydrophobic Interaction-Driven) crystallization is a membrane protein cr |
 | method | methods/crystallization/imisx-in-situ-crystallization/ | IMISX In-Situ Serial Crystallography | IMISX (in meso in situ) is a serial X-ray crystallography technique that combine |
 | method | methods/crystallization/lipidic-cubic-phase/ | Lipidic Cubic Phase Crystallization | Lipidic cubic phase (LCP) crystallization, also known as the in meso method, is  |
 | method | methods/crystallization/lipidic-sponge-phase-crystallization/ | Lipidic Sponge Phase Crystallization | Lipidic sponge phase (LSP) crystallization is a variant of lipidic cubic phase ( |
-| method | methods/crystallization/liquid-sponge-phase-crystallization/ | Liquid Sponge Phase Crystallization | Liquid sponge phase ([LSP](/xray-mp-wiki/concepts/membrane-mimetics/lipidic-spon |
 | method | methods/crystallization/microbatch-crystallization-under-oil/ | Microbatch Crystallization Under Oil | Microbatch crystallization under oil is a crystallization method where protein a |
 | method | methods/crystallization/on-chip-crystallization/ | On-Chip Crystallization for Serial Crystallography | On-chip crystallization is a method for growing protein crystals directly on mic |
 | method | methods/crystallization/sitting-drop-vapor-diffusion/ | Sitting-Drop Vapor Diffusion | Sitting-drop vapor diffusion is a widely used protein crystallization technique  |
 | method | methods/crystallization/vapor-diffusion/ | Vapor Diffusion Crystallization | Vapor diffusion is the most widely used method for protein crystallization. A dr |
-| method | methods/expression-systems/bac-to-bac/ | Bac-to-Bac Baculovirus Expression System | The Bac-to-Bac system is a commercial baculovirus expression system that uses si |
 | method | methods/expression-systems/baculovirus-expression-system/ | Baculovirus Expression System in Sf9 Cells | The baculovirus expression system using Spodoptera frugiperda (Sf9) insect cells |
 | method | methods/expression-systems/cell-free-protein-synthesis/ | Cell-Free Protein Synthesis for Membrane Proteins | Cell-free protein synthesis systems can be supplemented with both lipid and dete |
 | method | methods/expression-systems/iptg-induction/ | IPTG Induction of Protein Expression | IPTG (isopropyl-beta-D-thiogalactopyranoside) is a molecular mimic of allolactos |
@@ -598,8 +590,6 @@ high-af |
 | method | methods/purification/ultracentrifugation/ | Ultracentrifugation | Ultracentrifugation uses high centrifugal force (100,000-500,000 x g) to separat |
 | method | methods/quality-assessment/circular-dichroism-spectroscopy/ | Circular Dichroism Spectroscopy | Circular dichroism (CD) spectroscopy measures the differential absorption of lef |
 | method | methods/quality-assessment/deer-spectroscopy/ | Double Electron Electron Resonance (DEER) Spectroscopy | Double electron electron resonance (DEER), also known as pulsed electron double  |
-| method | methods/quality-assessment/differential-static-light-scattering/ | Differential Static Light Scattering (DSLS) | Differential static light scattering (DSLS) is a biophysical screening method us |
-| method | methods/quality-assessment/fluorescence-detection-size-exclusion-chromatography/ | Fluorescence-Detection Size-Exclusion Chromatography (FSEC) | Fluorescence-detection size-exclusion chromatography (FSEC) is a screening techn |
 | method | methods/quality-assessment/fluorescence-size-exclusion-chromatography/ | Fluorescence Size-Exclusion Chromatography (FSEC) | Fluorescence size-exclusion chromatography (FSEC) is a high-throughput screening |
 | method | methods/quality-assessment/gas-phase-unfolding/ | Gas-Phase Unfolding Analysis | Gas-phase unfolding is an ion mobility mass spectrometry (IM-MS) technique used  |
 | method | methods/quality-assessment/grafix/ | GraFix (Glycerol-Glutaraldehyde Gradient Fixation) | GraFix (Glycerol-Glutaraldehyde Gradient Fixation) is a sample preparation metho |
@@ -627,7 +617,6 @@ el |
 | method | methods/structure-determination/molecular-docking/ | Molecular Docking | Molecular docking is a computational method used to predict the preferred
 orient |
 | method | methods/structure-determination/molecular-dynamics-simulation/ | Molecular Dynamics Simulation | Molecular dynamics (MD) simulation is a computational technique for studying the |
-| method | methods/structure-determination/molecular-dynamics-simulations/ | Molecular Dynamics Simulations for Membrane Proteins | Molecular dynamics (MD) simulations are computational methods that simulate the  |
 | method | methods/structure-determination/molecular-replacement/ | Molecular Replacement | Molecular replacement is an X-ray crystallographic phasing method that uses a kn |
 | method | methods/structure-determination/multi-wavelength-anomalous-diffraction/ | Multi-Wavelength Anomalous Diffraction | Multi-wavelength anomalous diffraction (MAD) is an X-ray crystallographic phasin |
 | method | methods/structure-determination/normal-mode-xray-refinement/ | Normal-Mode-Based X-Ray Crystallographic Refinement | Normal-mode-based X-ray crystallographic refinement is a computational method th |
@@ -648,14 +637,12 @@ orient |
 | protein | proteins/abc-transporters/abcg2/ | ABCG2 | ABCG2 (breast cancer resistance protein, BCRP) is the sole multidrug transporter |
 | protein | proteins/abc-transporters/abcg5/ | ABCG5 | ABCG5 is a member of the ATP-binding cassette (ABC) G subfamily of transporter p |
 | protein | proteins/abc-transporters/abcg8/ | ABCG8 | ABCG8 is a member of the ATP-binding cassette (ABC) G subfamily of transporter p |
-| protein | proteins/abc-transporters/acrB/ | AcrB multidrug efflux pump | AcrB is the principal multidrug transporter in Escherichia coli, functioning as  |
 | protein | proteins/abc-transporters/acra/ | AcrA multidrug efflux pump periplasmic protein | AcrA is a periplasmic membrane fusion protein from Escherichia coli that partner |
-| protein | proteins/abc-transporters/acrb-efflux-pump/ | AcrB Multidrug Efflux Transporter (E. coli) | AcrB is the inner-membrane transporter component of the AcrAB-TolC tripartite mu |
 | protein | proteins/abc-transporters/acrb/ | AcrB Multidrug Efflux Transporter | AcrB is the inner membrane component of the [AcrA multidrug efflux pump periplas |
 | protein | proteins/abc-transporters/adeb/ | AdeB Multidrug Efflux Transporter | AdeB is a multidrug efflux transporter from the Gram-negative pathogen Acinetoba |
 | protein | proteins/abc-transporters/algm1m2ss/ | AlgM1M2SS Alginate ABC Transporter | AlgM1M2SS is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC |
 | protein | proteins/abc-transporters/aq_128/ | Aq_128 (Aquifex aeolicus MATE Family Multidrug Resistance Transporter) — aMATE-1 Subfamily Prototype | Aq_128 is a multidrug and toxic compound extrusion (MATE) family transporter fro |
-| protein | proteins/abc-transporters/archaeoglobus-fulgidus-modbc/ | Archaeoglobus fulgidus ModB2C2 Molybdate ABC Transporter with ModA | Protein: archaeoglobus-fulgidus-modbc |
+| protein | proteins/abc-transporters/archaeoglobus-fulgidus-modbc/ | Archaeoglobus fulgidus ModB2C2 Molybdate ABC Transporter with ModA | The molybdate/tungstate ABC transporter from Archaeoglobus fulgidus is a |
 | protein | proteins/abc-transporters/art-qn2/ | Art(QN)2 ABC Amino Acid Importer from Thermoanaerobacter tengcongensis | Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th |
 | protein | proteins/abc-transporters/bhuuv-t/ | Burkholderia cenocepacia Haem Importer Complex BhuUV-T | The BhuUV-T complex is a type II ATP-binding cassette (ABC) haem importer from t |
 | protein | proteins/abc-transporters/bhuuv/ | Burkholderia cenocepacia Haem Importer Complex BhuUV | The BhuUV complex is the transmembrane and nucleotide-binding domain core of the |
@@ -693,7 +680,6 @@ Mycobacteri |
 th |
 | protein | proteins/abc-transporters/maltose-transporter-malfgk2/ | Maltose Transporter MalFGK2 (E. coli) | The maltose transporter from Escherichia coli (MalFGK2) is a prototype
 ATP-bindi |
-| protein | proteins/abc-transporters/maltose-transporter/ | Maltose Transporter (MalFGK2, Escherichia coli) | The [Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter (MalFGK2) is |
 | protein | proteins/abc-transporters/mamodbc/ | Methanosarcina acetivorans ModBC Molybdate/Tungstate ABC Transporter (MaModBC) | The crystal structure of Methanosarcina acetivorans ModBC (MaModBC),
 a binding p |
 | protein | proteins/abc-transporters/mcjd/ | McjD - Antibacterial Peptide ABC Exporter from Escherichia coli | McjD is an ATP-binding cassette (ABC) exporter from Escherichia coli that
@@ -729,6 +715,14 @@ the thermo |
 | protein | proteins/abc-transporters/yajc/ | E. coli YajC Transmembrane Protein | YajC is a single transmembrane (TM) protein from Escherichia coli that associate |
 | protein | proteins/abc-transporters/yeast-atm1/ | Yeast Mitochondrial ABC Transporter Atm1 | Yeast Atm1 (ABC transporter of mitochondria 1) is a mitochondrial inner membrane |
 | protein | proteins/abc-transporters/zneA/ | ZneA Zn(II)/Proton Antiporter from Cupriavidus metallidurans | ZneA is a proton-driven efflux pump specific for Zn(II) from the heavy metal-res |
+| protein | proteins/arabidopsis-nitrate-transporter-nrt1-1/ | Arabidopsis thaliana Nitrate Transporter NRT1.1 (CHL1/NPF6.3) | NRT1.1 (CHL1/NPF6.3) is a dual-affinity nitrate transporter from Arabidopsis |
+| protein | proteins/arabidopsis-thaliana-cystinosin/ | Arabidopsis thaliana cystinosin (AtCystinosin) | Arabidopsis thaliana cystinosin is a proton-coupled lysosomal cystine transporte |
+| protein | proteins/archaeoglobus-fulgidus-modbc/ | Archaeoglobus fulgidus ModB2C2 Molybdate ABC Transporter with ModA | The molybdate/tungstate ABC transporter from Archaeoglobus fulgidus is a |
+| protein | proteins/archaerhodopsin-2/ | Archaerhodopsin-2 | Archaerhodopsin-2 (aR2) is a light-driven proton pump found in the claret |
+| protein | proteins/arnt/ | 4-Amino-4-deoxy-L-arabinose Transferase ArnT from Cupriavidus metallidurans | ArnT (PmrK) is an integral membrane lipid-to-lipid glycosyltransferase that |
+| protein | proteins/asbt-yf/ | ASBT_Yf (Apical Sodium-Dependent Bile Acid Transporter from Yersinia frederiksenii) | _Yf (Apical Sodium-Dependent Bile Acid Transporter from Yersinia frederiksenii) |
+| protein | proteins/atp11c-cdc50a/ | ATP11C-CDC50A (Human Plasma Membrane Phospholipid Flippase) | ATP11C is a member of the P4-ATPase family that functions as an aminophospholipi |
+| protein | proteins/atpcc1/ | AtTPC1 Vacuolar Two-pore Channel from Arabidopsis thaliana | AtTPC1 is a vacuolar two-pore channel (TPC) from Arabidopsis thaliana that |
 | protein | proteins/cys-loop-receptors/acetylcholine-binding-protein/ | Acetylcholine-Binding Protein (AChBP) | [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/)-binding protein ( |
 | protein | proteins/cys-loop-receptors/declic/ | DeCLIC (Desulfofustis deltaproteobacterium Pentameric Ligand-Gated Ion Channel) | DeCLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a Desul |
 | protein | proteins/cys-loop-receptors/elic/ | ELIC (Erwinia chrysanthemi Pentameric Ligand-Gated Ion Channel) | ELIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from the bacte |
@@ -752,7 +746,7 @@ the thermo |
 | protein | proteins/enzymes/aquifex-aeolicus-mray/ | Aquifex aeolicus MraY Phospho-MurNAc-pentapeptide Translocase | MraY (phospho-MurNAc-pentapeptide translocase) from Aquifex aeolicus
 (MraY_AA) c |
 | protein | proteins/enzymes/archaeoglobus-fulgidus-aglb/ | Archaeoglobus fulgidus AglB (AfAglB) | Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal ol |
-| protein | proteins/enzymes/arnt/ | 4-Amino-4-deoxy-L-arabinose Transferase ArnT from Cupriavidus metallidurans | Protein: arnt |
+| protein | proteins/enzymes/arnt/ | 4-Amino-4-deoxy-L-arabinose Transferase ArnT from Cupriavidus metallidurans | ArnT (PmrK) is an integral membrane lipid-to-lipid glycosyltransferase that |
 | protein | proteins/enzymes/ascaris-suum-quinol-fumarate-reductase/ | Ascaris suum Quinol-Fumarate Reductase (QFR) | The X-ray crystal structure of mitochondrial quinol–fumarate reductase (QFR) fro |
 | protein | proteins/enzymes/baca/ | Undecaprenyl Pyrophosphate Phosphatase (UppP/BacA) from Escherichia coli | Undecaprenyl pyrophosphate phosphatase (UppP, also known as BacA) is a 30 kDa po |
 | protein | proteins/enzymes/bc-chbc/ | bcChbC (Bacillus cereus Chitobiose Transporter) | bcChbC is a [Diacetylchitobiose](/xray-mp-wiki/reagents/ligands/diacetylchitobio |
@@ -770,7 +764,6 @@ t |
 | protein | proteins/enzymes/cytochrome-b561/ | Cytochrome b561 (Cyt b561) from Arabidopsis thaliana | Cytochrome b561 (Cyt b561) from Arabidopsis thaliana is a transmembrane
 ascorbat |
 | protein | proteins/enzymes/dgka/ | E. coli Diacylglycerol Kinase (DgkA) | Diacylglycerol kinase (DgkA) from Escherichia coli is a 121-residue integral mem |
-| protein | proteins/enzymes/diacylglycerol-kinase/ | Diacylglycerol Kinase (DgkA) | Diacylglycerol kinase ([Dgka](/xray-mp-wiki/proteins/enzymes/dgka/)) from Escher |
 | protein | proteins/enzymes/dltb/ | DltB (Membrane-Bound O-Acyltransferase) | DltB is a membrane-bound O-acyltransferase (MBOAT) from Streptococcus thermophil |
 | protein | proteins/enzymes/dsbA/ | DsbA | DsbA is a periplasmic dithiol oxidase from Escherichia coli belonging to the thi |
 | protein | proteins/enzymes/dsbB/ | DsbB (Disulfide Bond Formation Protein B) | DsbB is an integral membrane protein from Escherichia coli that functions as the |
@@ -819,8 +812,7 @@ detec |
 | protein | proteins/enzymes/nm-epta/ | NmEptA - Lipid A Phosphoethanolamine Transferase from Neisseria meningitidis | NmEptA is a [Lipid A](/xray-mp-wiki/reagents/lipids/lipid-a/) phosphoethanolamin |
 | protein | proteins/enzymes/nrfh-quinol-dehydrogenase/ | NrfH Quinol Dehydrogenase from Desulfovibrio vulgaris | NrfH is a membrane-bound cytochrome c quinol dehydrogenase from Desulfovibrio vu |
 | protein | proteins/enzymes/orexin-1-receptor/ | Human Orexin 1 Receptor | The human orexin 1 receptor (OX1R, HCRTR1) is a class A [G Protein-Coupled Recep |
-| protein | proteins/enzymes/pbgA-yejM/ | PbgA (YejM) Inner Membrane LPS Sensor | [PbgA (YejM) Cardiolipin Transport Protein](/xray-mp-wiki/proteins/enzymes/pbgA/ |
-| protein | proteins/enzymes/pbgA/ | PbgA (YejM) Cardiolipin Transport Protein | PbgA (formerly YejM) is an inner membrane protein in Gram-negative bacteria cont |
+| protein | proteins/enzymes/pbgA-yejM/ | PbgA (YejM) Inner Membrane LPS Sensor | [PbgA (YejM) Cardiolipin Transport Protein](/xray-mp-wiki/proteins/enzymes/pbgA- |
 | protein | proteins/enzymes/pbsrd5a/ | PbSRD5A Steroid 5α-Reductase (Proteobacteria bacterium) | PbSRD5A is a steroid 5α-reductase from *Proteobacteria bacterium*, a homolog of  |
 | protein | proteins/enzymes/pc-mangt/ | PcManGT Mannosyltransferase | PcManGT is a crenarchaeal membrane glycosyltransferase from Pyrobaculum calidifo |
 | protein | proteins/enzymes/pglb-campylobacter-lari/ | PglB (Campylobacter lari Oligosaccharyltransferase) | PglB is a single-subunit oligosaccharyltransferase (OST) from the Gram-negative  |
@@ -858,12 +850,8 @@ detec |
 | protein | proteins/enzymes/zmpste24/ | Human ZMPSTE24 (Zinc Metalloprotease) | ZMPSTE24 (zinc metalloprotease STE24) is a human integral membrane zinc metallop |
 | protein | proteins/gpcr/5ht2a-receptor/ | Human 5-HT2A Receptor | The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands |
 | protein | proteins/gpcr/5ht2b-receptor/ | Human 5-HT2B Receptor | The human serotonin 2B (5-HT2B) receptor is a class A GPCR that signals primaril |
-| protein | proteins/gpcr/5ht2c-receptor/ | Human 5-HT2C Serotonin Receptor | The 5-HT2C [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/seroto |
+| protein | proteins/gpcr/5ht2c-receptor/ | Human 5-HT2C Serotonin Receptor | The 5-HT2C [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligand |
 | protein | proteins/gpcr/a2a-psb1-bril/ | Human Adenosine A2A Receptor A2A-PSB1-bRIL Complex | The [A2AAR](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar) (A2AAR) is |
-| protein | proteins/gpcr/a2aar-d52n/ | Human Adenosine A2A Receptor D52N Variant (A2AAR-D52N) | The human [A2AAR](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar) D52N |
-| protein | proteins/gpcr/a2aar-s91a/ | Human Adenosine A2A Receptor S91A Variant (A2AAR-S91A) | The human [A2AAR](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar) S91A |
-| protein | proteins/gpcr/a2ar-star2-bril/ | Human Adenosine A2A Receptor A2A-StaR2-bRIL (PDB 7ARO) | The A2A-StaR2-bRIL construct is an engineered human adenosine A2A receptor with  |
-| protein | proteins/gpcr/a2ar-star2-s277-bril/ | Human Adenosine A2A Receptor A2A-StaR2-S277-bRIL (PDB 8CU6) | The A2A-StaR2-S277-bRIL construct is an engineered human [A2AAR](/xray-mp-wiki/p |
 | protein | proteins/gpcr/alpha-1b-adrenergic-receptor/ | Human Alpha-1B Adrenergic Receptor (alpha1B AR) | The human alpha-1B adrenergic receptor (alpha1B AR, ADRA1B) is a class A G prote |
 | protein | proteins/gpcr/apelin-receptor/ | Human Apelin Receptor (APJR) | The human apelin receptor (APJR), also known as angiotensin receptor-like 1 (AGT |
 | protein | proteins/gpcr/at1r/ | Angiotensin II Type 1 Receptor | The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 1 rece |
@@ -984,7 +972,7 @@ G-protein-coupled |
 | protein | proteins/gpcr/turkey-beta1-ar-m23/ | Turkey Beta1-Adrenergic Receptor M23 | The turkey beta1-adrenergic receptor (beta1AR) is a class A G protein-coupled re |
 | protein | proteins/gpcr/us28/ | US28 Viral Chemokine Receptor | US28 is a G-protein-coupled receptor encoded by human cytomegalovirus (CMV) that |
 | protein | proteins/kdel-receptor/ | Human KDEL Receptor | The human KDEL receptor is a seven-pass transmembrane receptor that retrieves es |
-| protein | proteins/mfs-transporters/arabidopsis-nitrate-transporter-nrt1-1/ | Arabidopsis thaliana Nitrate Transporter NRT1.1 (CHL1/NPF6.3) | Protein: arabidopsis-nitrate-transporter-nrt1-1 |
+| protein | proteins/mfs-transporters/arabidopsis-nitrate-transporter-nrt1-1/ | Arabidopsis thaliana Nitrate Transporter NRT1.1 (CHL1/NPF6.3) | NRT1.1 (CHL1/NPF6.3) is a dual-affinity nitrate transporter from Arabidopsis |
 | protein | proteins/mfs-transporters/at-suc1/ | Arabidopsis thaliana Sucrose Transporter SUC1 | Arabidopsis thaliana SUC1 is a low-affinity sucrose-proton symporter from the SU |
 | protein | proteins/mfs-transporters/bbfpn/ | BbFPN — Putative Bacterial Ferroportin Homologue from Bdellovibrio bacteriovorus | BbFPN is a putative bacterial homologue of ferroportin (FPN/SLC40A1) from Bdello |
 | protein | proteins/mfs-transporters/dtpb/ | Escherichia coli DtpB Peptide Transporter | DtpB is a proton-dependent oligopeptide transporter (POT) from the Major Facilit |
@@ -999,7 +987,6 @@ member o |
 | protein | proteins/mfs-transporters/glut5/ | GLUT5 Fructose Transporter | GLUT5 is a fructose-specific facilitated-diffusion transporter belonging to the  |
 | protein | proteins/mfs-transporters/hglut1/ | hGLUT1 (Human Glucose Transporter 1) | Human [Glucose](/xray-mp-wiki/reagents/additives/glucose/) transporter 1 (hGLUT1 |
 | protein | proteins/mfs-transporters/hglut3/ | hGLUT3 (Human Glucose Transporter 3) | Human [Glucose](/xray-mp-wiki/reagents/additives/glucose/) transporter 3 (hGLUT3 |
-| protein | proteins/mfs-transporters/human-glucose-transporter-1-hglut1/ | Human Glucose Transporter 1 (hGLUT1) | Human [Glucose](/xray-mp-wiki/reagents/additives/glucose/) transporter 1 ([hGLUT |
 | protein | proteins/mfs-transporters/human-glut3/ | Human Glucose Transporter 3 (GLUT3) | Human [Glucose](/xray-mp-wiki/reagents/additives/glucose/) transporter 3 (GLUT3, |
 | protein | proteins/mfs-transporters/lac-y/ | Lactose Permease of Escherichia coli (LacY) | Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and  |
 | protein | proteins/mfs-transporters/lmrp/ | LmrP Multidrug Transporter from Lactococcus lactis | LmrP is a prototypical multidrug efflux pump from Lactococcus lactis belonging
@@ -1010,7 +997,6 @@ that tra |
 | protein | proteins/mfs-transporters/mdfA/ | MdfA Multidrug Efflux Transporter | MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging |
 | protein | proteins/mfs-transporters/mdfa-i239t-g354e/ | MdfA Multidrug Transporter I239T/G354E Variant (E. coli) | MdfA is a prototypical H+-coupled multidrug transporter from E. coli belonging t |
 | protein | proteins/mfs-transporters/mdfa/ | Multidrug Transporter MdfA (E26T/D34M/A150E) from Escherichia coli | [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA |
-| protein | proteins/mfs-transporters/melb/ | Melibiose Transporter MelB from Salmonella typhimurium (MelB_St) | MelB is a [Melibiose](/xray-mp-wiki/reagents/ligands/melibiose/) transporter fro |
 | protein | proteins/mfs-transporters/melbst/ | Melibiose Permease from Salmonella typhimurium (MelBSt) | [Melibiose](/xray-mp-wiki/reagents/ligands/melibiose) permease (MelB) from Salmo |
 | protein | proteins/mfs-transporters/nark/ | NarK Nitrate/Nitrite Antiporter from Escherichia coli | NarK is a nitrate/nitrite antiporter from the nitrate/nitrite porter (NNP) famil |
 | protein | proteins/mfs-transporters/naru/ | NarU Nitrate/Nitrite Transporter from Escherichia coli | NarU is a nitrate/nitrite transporter from Escherichia coli belonging to the
@@ -1035,10 +1021,9 @@ t |
 t |
 | protein | proteins/miscellaneous/a-thaliana-sweet1/ | A. thaliana SWEET1 | A. thaliana SWEET1 is a glucose transporter from the SWEET family found in Arabi |
 | protein | proteins/miscellaneous/af-tmem16/ | afTMEM16 (TMEM16 Lipid Scramblase from Aspergillus fumigatus) | afTMEM16 is a calcium-activated lipid scramblase from the fungus Aspergillus fum |
-| protein | proteins/miscellaneous/arabidopsis-thaliana-cystinosin/ | Arabidopsis thaliana cystinosin (AtCystinosin) | Protein: arabidopsis-thaliana-cystinosin |
+| protein | proteins/miscellaneous/arabidopsis-thaliana-cystinosin/ | Arabidopsis thaliana cystinosin (AtCystinosin) | Arabidopsis thaliana cystinosin is a proton-coupled lysosomal cystine transporte |
 | protein | proteins/miscellaneous/cd47-bril-b6h12/ | CD47 BRIL-B6H12 complex from Homo sapiens | CD47 is the only 5-transmembrane (5-TM) spanning receptor of the immune system.  |
 | protein | proteins/miscellaneous/ec-semisweet/ | E. coli SemiSWEET (EcSemiSWEET) | EcSemiSWEET is a sugar transporter from the SWEET family found in Escherichia co |
-| protein | proteins/miscellaneous/lb-semi-sweet/ | LbSemiSWEET (Leptospira biflexa SemiSWEET) | [LbSemiSWEET from Leptospira biflexa](/xray-mp-wiki/proteins/miscellaneous/lbsem |
 | protein | proteins/miscellaneous/lbsemisweet/ | LbSemiSWEET from Leptospira biflexa | LbSemiSWEET is a sugar transporter from the SWEET family found in the bacterium  |
 | protein | proteins/miscellaneous/mlaA/ | E. coli MlaA Outer Membrane Lipoprotein | MlaA is an [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membr |
 | protein | proteins/miscellaneous/mtmem16a/ | mTMEM16A (Murine TMEM16A Calcium-Activated Chloride Channel) | mTMEM16A is the murine ortholog of TMEM16A (Ano1), the long sought-after Ca2+-ac |
@@ -1073,8 +1058,6 @@ collecti |
 | protein | proteins/other-ion-channels/chicken-bestrophin-1/ | Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel | Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat |
 | protein | proteins/other-ion-channels/chicken-p2x7-receptor/ | Chicken P2X7 Receptor (ckP2X7) | The P2X7 receptor is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-gated non-sel |
 | protein | proteins/other-ion-channels/cpaqp1aa/ | cpAQP1aa (Climbing Perch Aquaporin 1aa) | cpAQP1aa is a water-specific [Aquaporin](/xray-mp-wiki/concepts/transport-mechan |
-| protein | proteins/other-ion-channels/e-coli-amtb/ | AmtB ammonium transporter / ammonia channel from Escherichia coli | AmtB is an ammonium transport protein (methylamine permease/ammonium transporter |
-| protein | proteins/other-ion-channels/ec2-fluoride-channel/ | Fluoride Channel from E. coli (Ec2) | The [Fluoride Channel from B. pertussis (Bpe)](/xray-mp-wiki/proteins/other-ion- |
 | protein | proteins/other-ion-channels/ecsatp/ | EcSatP — Bacterial Succinate-Acetate Transporter (AceTr Family) | SatP (also known as yaaH) is a member of the  uptake transporter (AceTr) family
  |
 | protein | proteins/other-ion-channels/exbB/ | ExbB (E. coli) | ExbB is an integral polytopic membrane protein from Escherichia coli that is a c |
@@ -1088,7 +1071,6 @@ collecti |
 | protein | proteins/other-ion-channels/glua2-3-ampa-receptor/ | GluA2/3 Heteromeric AMPA Receptor | GluA2/3 is a heteromeric AMPA-type ionotropic glutamate receptor composed of Glu |
 | protein | proteins/other-ion-channels/glua2-ampa-receptor/ | GluA2 AMPA Receptor — Structures with Antagonists, NAMs, and Allosteric Modulators | GluA2 (also known as GluR2) is an AMPA-subtype ionotropic glutamate receptor (iG |
 | protein | proteins/other-ion-channels/glua2-lbd/ | GluA2 Ligand-Binding Domain (L504Y, N775S) | The ligand-binding domain ([LBD](/xray-mp-wiki/proteins/other-ion-channels/avglu |
-| protein | proteins/other-ion-channels/glycerol-facilitator/ | Glycerol Facilitator (GlpF) | [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) Facilitator (GlpF) is a m |
 | protein | proteins/other-ion-channels/hiteha/ | HiTehA (TehA from Haemophilus influenzae) | HiTehA is the [TEHA](/xray-mp-wiki/proteins/other-ion-channels/teha/) anion chan |
 | protein | proteins/other-ion-channels/hpurel/ | Helicobacter pylori Urea Channel (HpUrel) | HpUrel is a [UREA](/xray-mp-wiki/reagents/substrates/urea/) channel from Helicob |
 | protein | proteins/other-ion-channels/hsc/ | HSC (Hydrosulfide Channel from Clostridium difficile) | HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif |
@@ -1099,7 +1081,6 @@ collecti |
 | protein | proteins/other-ion-channels/human-aquaporin-2/ | Human Aquaporin 2 (AQP2) | Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) |
 | protein | proteins/other-ion-channels/human-aquaporin-4/ | Human Aquaporin 4 (hAQP4) | Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) |
 | protein | proteins/other-ion-channels/human-p2x3-receptor/ | Human P2X3 Receptor (hP2X3) | The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens  |
-| protein | proteins/other-ion-channels/influenza-a-m2-proton-channel-s31n/ | Influenza A M2 Proton Channel S31N Mutant | The S31N mutant of the [Influenza A M2 Proton Channel](/xray-mp-wiki/proteins/ot |
 | protein | proteins/other-ion-channels/influenza-a-m2-proton-channel/ | Influenza A M2 Proton Channel | The M2 proton channel of influenza A virus is a homotetrameric ion channel that  |
 | protein | proteins/other-ion-channels/kpbest/ | KpBest Bestrophin Ion Channel | KpBest is a bestrophin ion channel from *Klebsiella pneumoniae* whose crystal st |
 | protein | proteins/other-ion-channels/ks-amt5/ | Ks-Amt5 Ammonium Sensor Histidine Kinase from Candidatus Kuenenia stuttgartiensis | Ks-Amt5 (gene locus kust_3690) from the anammox bacterium "Candidatus Kuenenia s |
@@ -1143,17 +1124,14 @@ a |
 | protein | proteins/photosynthesis/psbs-spinach/ | PsbS from Spinach (Spinacia oleracea) | PsbS is a photosystem II protein essential for qE-type non-photochemical quenchi |
 | protein | proteins/photosynthesis/psi-lhci-chlamydomonas/ | PSI-LHCI supercomplex from Chlamydomonas reinhardtii | The photosystem I–light-harvesting complex I (PSI-LHCI) supercomplex from the gr |
 | protein | proteins/photosynthesis/psi-lhci-pea/ | PSI-LHCI supercomplex from pea (Pisum sativum) at 2.4 A resolution | Photosystem I (PSI) is one of the two photosystems in oxygenic photosynthesis, p |
-| protein | proteins/photosynthesis/rhodobacter-sphaeroides-r26-reaction-center/ | Rhodobacter sphaeroides R-26 Reaction Center | The reaction center (RC) from the purple bacterium Rhodobacter sphaeroides R-26  |
 | protein | proteins/photosynthesis/rhodobacter-sphaeroides-reaction-center/ | Rhodobacter sphaeroides Photosynthetic Reaction Center | The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra |
-| protein | proteins/photosynthesis/rhodobacter-sphaeroides-reaction-centre-zn-bchl/ | Rhodobacter sphaeroides Reaction Centre with Zinc-Bacteriochlorophyll | The Zn-BChl-containing reaction center (RC) from Rhodobacter sphaeroides, produc |
-| protein | proteins/photosynthesis/rhodobacter-sphaeroides-reaction-centre/ | Rhodobacter sphaeroides Photosynthetic Reaction Centre | The photosynthetic reaction centre from Rhodobacter sphaeroides is a membrane pr |
 | protein | proteins/photosynthesis/rps-viridis-reaction-centre/ | Rps. viridis Photosynthetic Reaction Centre | The photosynthetic reaction centre from the purple bacterium Rhodopseudomonas vi |
 | protein | proteins/photosynthesis/spinach-light-harvesting-complex-ii/ | Spinach Light-Harvesting Complex II (LHC-II) | The spinach light-harvesting complex II ([LHC-II](/xray-mp-wiki/proteins/photosy |
 | protein | proteins/photosynthesis/thermochromatium-tepidum-hipip/ | High-Potential Iron-Sulfur Protein (HiPIP) from Thermochromatium tepidum | The high-potential iron-sulfur protein (HiPIP) from the thermophilic purple sulf |
 | protein | proteins/photosynthesis/thermochromatium-tepidum-photosynthetic-reaction-center/ | Photosynthetic Reaction Center from Thermochromatium tepidum | The photosynthetic reaction center (RC) from the thermophilic purple sulfur bact |
 | protein | proteins/porb-corynebacterium-glutamicum/ | Porin B (PorB) from Corynebacterium glutamicum | Porin B (PorB) is an alpha-helical porin from Corynebacterium glutamicum, a myco |
 | protein | proteins/pumps-atpases/af-copa/ | CopA from Archaeoglobus fulgidus (AfCopA) | CopA from Archaeoglobus fulgidus (AfCopA) is a copper-transporting P1B-type ATPa |
-| protein | proteins/pumps-atpases/atp11c-cdc50a/ | ATP11C-CDC50A (Human Plasma Membrane Phospholipid Flippase) | Protein: atp11c-cdc50a |
+| protein | proteins/pumps-atpases/atp11c-cdc50a/ | ATP11C-CDC50A (Human Plasma Membrane Phospholipid Flippase) | ATP11C is a member of the P4-ATPase family that functions as an aminophospholipi |
 | protein | proteins/pumps-atpases/bacillus-pseudofirmus-of4-c12-ring/ | Bacillus pseudofirmus OF4 ATP Synthase A16/20G c12 Ring | The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme  |
 | protein | proteins/pumps-atpases/bacillus-pseudofirmus-of4-c13-ring/ | Bacillus pseudofirmus OF4 ATP Synthase c13 Ring (Wild-Type) | The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme  |
 | protein | proteins/pumps-atpases/bioy-lactococcus-lactis/ | BioY - Biotin S Component from Lactococcus lactis | BioY is the biotin-specific S component of the Energy-Coupling Factor (ECF) tran |
@@ -1183,13 +1161,10 @@ chloropla |
 | protein | proteins/pumps-atpases/ktrb/ | KtrB (Potassium Transporter Membrane Subunit from Bacillus subtilis) | KtrB is a membrane protein component of the KtrAB potassium transporter from the |
 | protein | proteins/pumps-atpases/lp-copa/ | LpCopA (Copper-Transporting P-type ATPase from Legionella pneumophila) | LpCopA is a copper-transporting P_IB-type ATPase from the bacterium Legionella p |
 | protein | proteins/pumps-atpases/na-k-atpase-pig-kidney/ | Na+,K+-ATPase (Pig Kidney) | The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra |
-| protein | proteins/pumps-atpases/na-k-atpase-shark/ | Na+,K+-ATPase from Squalus acanthias (Shark) | Na+,K+-ATPase from the shark rectal gland (Squalus acanthias) is a P-type ATPase |
 | protein | proteins/pumps-atpases/ng-hka/ | Non-Gastric H+/K+-ATPase (ngHKA) | The non-gastric H+/K+-ATPase (ngHKA, [ATP](/xray-mp-wiki/reagents/ligands/atp)12 |
 | protein | proteins/pumps-atpases/ph-e-subunit-e/ | PH-E Subunit E of F-ATP Synthase Peripheral Stalk | Subunit E of the F-ATP synthase peripheral stalk from Haloarcula marismortui is  |
 | protein | proteins/pumps-atpases/ribu/ | RibU (ECF-Type Riboflavin Transporter S Component from Staphylococcus aureus) | RibU is the S component (substrate-binding protein) of the energy-coupling facto |
 | protein | proteins/pumps-atpases/sarcolipin/ | Sarcolipin (SLN) | Sarcolipin (SLN) is a small (~30 amino acid) membrane protein that regulates the |
-| protein | proteins/pumps-atpases/serca1a-e309q/ | SERCA1a E309Q Mutant | The [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps- |
-| protein | proteins/pumps-atpases/serca1a-e340a/ | SERCA1a E340A Mutant | The [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps- |
 | protein | proteins/pumps-atpases/serca1a/ | SERCA1a (Sarcoplasmic Reticulum Ca²⁺-ATPase 1a) | SERCA1a is the Ca²⁺-ATPase of fast-twitch skeletal muscle sarcoplasmic reticulum |
 | protein | proteins/pumps-atpases/serca2a/ | SERCA2a (Cardiac Sarco/Endoplasmic Reticulum Ca2+-ATPase) | SERCA2a is the cardiac isoform of sarco/endoplasmic reticulum Ca2+-ATPase, a P-t |
 | protein | proteins/pumps-atpases/serca2b/ | Human SERCA2b — Sarco/Endoplasmic Reticulum Ca²⁺-ATPase 2b | SERCA2b is a ubiquitously expressed isoform of sarco/endoplasmic reticulum Ca²⁺- |
@@ -1233,7 +1208,7 @@ ATPase |
 | protein | proteins/rhodopsins/anabaena-sensory-rhodopsin/ | Anabaena Sensory Rhodopsin | Anabaena Sensory Rhodopsin (ASR) is a photochromic color sensor
 from the cyanoba |
 | protein | proteins/rhodopsins/archaerhodopsin-1/ | Archaerhodopsin-1 from Halorubrum sp. aus-1 | Archaerhodopsin-1 (aR-1) is a light-driven proton pump from Halorubrum sp. aus-1 |
-| protein | proteins/rhodopsins/archaerhodopsin-2/ | Archaerhodopsin-2 | Protein: archaerhodopsin-2 |
+| protein | proteins/rhodopsins/archaerhodopsin-2/ | Archaerhodopsin-2 | Archaerhodopsin-2 (aR2) is a light-driven proton pump found in the claret |
 | protein | proteins/rhodopsins/archaerhodopsin-3/ | Archaerhodopsin-3 (AR3) | Archaerhodopsin-3 (AR3) is a light-driven proton pump from the archaebacterium H |
 | protein | proteins/rhodopsins/bacteriorhodopsin/ | Bacteriorhodopsin (bR) from Halobacterium salinarum | Bacteriorhodopsin (bR) is a light-driven proton pump from the archaeon
 Halobacte |
@@ -1242,11 +1217,9 @@ Halobacte |
 | protein | proteins/rhodopsins/channelrhodopsin-2/ | Channelrhodopsin 2 (ChR2) from Chlamydomonas reinhardtii | Channelrhodopsin 2 (ChR2) is a light-gated cation channel from the green alga
 Ch |
 | protein | proteins/rhodopsins/channelrhodopsin-c1c2/ | Channelrhodopsin C1C2 | Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii  |
-| protein | proteins/rhodopsins/chloride-pumping-rhodopsin-clr/ | Chloride-Pumping Rhodopsin (ClR) from Nonlabens marinus | Chloride-pumping rhodopsin (ClR) from the marine flavobacterium Nonlabens marinu |
 | protein | proteins/rhodopsins/chrimson/ | Chrimson Channelrhodopsin | Chrimson is a red light-activated channelrhodopsin from the algae *Chlamydomonas |
 | protein | proteins/rhodopsins/cir-nonlabens-marinus/ | CIR Chloride-Pumping Rhodopsin from Nonlabens marinus | CIR (Chloride-pumping Rhodopsin/rhodopsin 3, also called NmHR) from the
 flavobac |
-| protein | proteins/rhodopsins/clir/ | Chloride Ion Rhodopsin from Nonlabens marinus (CIR) | Chloride ion rhodopsin (CIR) from the flavobacterium Nonlabens marinus S1-08T is |
 | protein | proteins/rhodopsins/coccomyxa-rhodopsin/ | Coccomyxa subellipsoidea Rhodopsin (CsR) | Coccomyxa subellipsoidea rhodopsin (CsR) is a light-driven proton pump from the  |
 | protein | proteins/rhodopsins/cruxrhodopsin-3/ | Cruxrhodopsin-3 (cR3) from Haloarcula vallismortis | Cruxrhodopsin-3 (cR3) is a light-driven proton pump from the archaeon Haloarcula |
 | protein | proteins/rhodopsins/exiguobacterium-sibiricum-rhodopsin/ | Exiguobacterium sibiricum Rhodopsin (ESR) | Exiguobacterium sibiricum rhodopsin (ESR) is a light-driven proton pump
@@ -1289,7 +1262,6 @@ choanoflage |
 | protein | proteins/rhodopsins/xanthorhodopsin/ | Xanthorhodopsin | Xanthorhodopsin is a light-driven proton pump from the eubacterium Salinibacter  |
 | protein | proteins/secretion-translocon/bacillus-halodurans-yidc2/ | Bacillus halodurans YidC2 (BhYidC2) | YidC is a conserved membrane protein insertase that inserts its substrates into  |
 | protein | proteins/secretion-translocon/bcs1/ | Mouse Bcs1 (AAA Protein Translocase) | Bcs1 is a mitochondrial membrane-bound AAA+ ATPase that translocates folded prot |
-| protein | proteins/secretion-translocon/e-coli-yidc/ | E. coli YidC Membrane Protein Chaperone and Insertase | YidC is an evolutionarily conserved membrane protein from the YidC/Oxa1/Alb3 fam |
 | protein | proteins/secretion-translocon/ec-yidc/ | Escherichia coli YidC | YidC is an essential bacterial membrane protein insertase and chaperone that med |
 | protein | proteins/secretion-translocon/espB/ | EspB | EspB is a secreted virulence factor from Mycobacterium tuberculosis, encoded wit |
 | protein | proteins/secretion-translocon/espg1/ | EspG1 | EspG1 is the ESX-1-specific chaperone from Mycobacterium tuberculosis that belon |
@@ -1309,12 +1281,11 @@ choanoflage |
 | protein | proteins/secretion-translocon/secy/ | Thermus thermophilus SecY Core Channel Subunit | SecY is the core channel-forming subunit of the Sec translocon, a heterotrimeric |
 | protein | proteins/secretion-translocon/secyeg/ | Thermus thermophilus SecYEG Translocon Complex | The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond |
 | protein | proteins/secretion-translocon/thermotoga-maritima-seca/ | Thermotoga maritima SecA ATPase | SecA is the cytoplasmic ATPase motor of the bacterial Sec protein translocation  |
-| protein | proteins/secretion-translocon/thermotoga-maritima-yidc/ | Thermotoga maritima YidC (TmYidC) | YidC is an evolutionarily conserved dual-function membrane protein that adopts i |
 | protein | proteins/secretion-translocon/tmyidc/ | TmYidC (Thermotoga maritima YidC Insertase) | TmYidC is the YidC insertase/chaperone from the thermophilic bacterium Thermotog |
 | protein | proteins/slc-transporters/adic/ | AdiC Arginine/Agmatine Antiporter | AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ |
 | protein | proteins/slc-transporters/apct/ | ApcT Amino Acid Transporter from Methanocaldococcus jannaschii | ApcT is a 435-amino acid amino acid transporter from the archaeon Methanocaldoco |
 | protein | proteins/slc-transporters/asbt-nm/ | ASBT-NM (Bacterial Homologue of the Bile Acid Sodium Symporter ASBT) | ASBT-NM is a bacterial homologue of the apical sodium-dependent bile acid transp |
-| protein | proteins/slc-transporters/asbt-yf/ | ASBT_Yf (Apical Sodium-Dependent Bile Acid Transporter from Yersinia frederiksenii) | Protein: asbt-yf |
+| protein | proteins/slc-transporters/asbt-yf/ | ASBT_Yf (Apical Sodium-Dependent Bile Acid Transporter from Yersinia frederiksenii) | _Yf (Apical Sodium-Dependent Bile Acid Transporter from Yersinia frederiksenii) |
 | protein | proteins/slc-transporters/basc/ | BasC (Bacterial Alanine-Serine-Cysteine Exchanger) | BasC is a bacterial L-amino acid transporter (LAT) from the alanine-serine-cyste |
 | protein | proteins/slc-transporters/bbzip/ | BbZIP (Bordetella bronchiseptica ZIP metal transporter) | BbZIP (ZIPB) is a prokaryotic ZIP family divalent metal transporter from Bordete |
 | protein | proteins/slc-transporters/betp/ | BetP (Na+/Betaine Symporter from Corynebacterium glutamicum) | BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter |
@@ -1342,10 +1313,9 @@ Enterococcus |
 | protein | proteins/slc-transporters/gkApcT/ | GkApcT Amino Acid Transporter (CAT Homologue) | GkApcT is a proton-coupled amino acid transporter from Geobacillus kaustophilus  |
 | protein | proteins/slc-transporters/glt-ph/ | GltPh (Glutamate Transporter Homologue from Pyrococcus horikoshii) | GltPh is a sodium-coupled aspartate transporter from the archaeon Pyrococcus hor |
 | protein | proteins/slc-transporters/glt-tk/ | GltTk (Glutamate Transporter Homologue from Thermococcus kodakarensis) | [Glttk](/xray-mp-wiki/proteins/slc-transporters/glttk/) is a glutamate transport |
-| protein | proteins/slc-transporters/gltph/ | GltPh Glutamate Transporter Homolog from Pyrococcus horikoshii | GltPh is a prokaryotic glutamate transporter homolog from the hyperthermophilic  |
 | protein | proteins/slc-transporters/glttk/ | GltTk — substrate-free aspartate transporter | GltTk is a sodium-coupled aspartate transporter from Thermococcus kodakarensis,
  |
-| protein | proteins/slc-transporters/h276395-glt-ph/ | H276,395-GltPh (Humanized GltPh Mutant, R276S/M395R) | H276,395-[GLTPH](/xray-mp-wiki/proteins/slc-transporters/gltph/) is a humanized  |
+| protein | proteins/slc-transporters/h276395-glt-ph/ | H276,395-GltPh (Humanized GltPh Mutant, R276S/M395R) | H276,395-[GLTPH](/xray-mp-wiki/proteins/slc-transporters/glt-ph/) is a humanized |
 | protein | proteins/slc-transporters/hace2/ | Human Angiotensin-Converting Enzyme 2 (hACE2) | Human angiotensin-converting enzyme 2 (hACE2) is a membrane-bound zinc metallopr |
 | protein | proteins/slc-transporters/hent1/ | Human Equilibrative Nucleoside Transporter 1 (hENT1) | hENT1 (SLC29A1) is the founding member of the SLC29 family of equilibrative nucl |
 | protein | proteins/slc-transporters/human-ae1-anion-exchanger/ | Human AE1 Anion Exchanger (Band 3) - C-Terminal Membrane Domain | Human AE1 (anion exchanger 1, also known as Band 3) is the most abundant membran |
@@ -1363,7 +1333,6 @@ Enterococcus |
 | protein | proteins/slc-transporters/sars-cov-2-ctd/ | SARS-CoV-2 Spike Protein C-Terminal Domain | The C-terminal domain (CTD) of the SARS-CoV-2 spike (S) protein, also known as t |
 | protein | proteins/slc-transporters/sbta/ | SbtA (High-Affinity Sodium-Dependent Bicarbonate Transporter, Synechocystis sp. PCC 6803) | SbtA is a high-affinity, sodium-dependent bicarbonate (HCO3-) transporter found  |
 | protein | proteins/slc-transporters/sbtb/ | SbtB (PII-Like Regulatory Protein, Synechocystis sp. PCC 6803) | SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy |
-| protein | proteins/slc-transporters/sca-dmt-tru/ | ScaDMT^tru Truncated Divalent Metal-Ion Transporter | ScaDMT^tru is a truncated construct of ScaDMT from Staphylococcus capitis, lacki |
 | protein | proteins/slc-transporters/sca-dmt/ | ScaDMT Divalent Metal-Ion Transporter | ScaDMT is a divalent metal-ion transporter from Staphylococcus capitis belonging |
 | protein | proteins/slc-transporters/se-cits/ | Salmonella enterica Citrate/Sodium Symporter (SeCitS) | SeCitS is a [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/cit |
 | protein | proteins/slc-transporters/siat/ | SiaT Sialic Acid Transporter from Proteus mirabilis | SiaT is a secondary active sialic acid transporter from the uropathogen Proteus  |
@@ -1376,7 +1345,6 @@ Enterococcus |
 | protein | proteins/slc-transporters/thermothelomyces-thermophila-adp-atp-carrier/ | Thermothelomyces thermophila ADP/ATP Carrier | The Thermothelomyces thermophila ADP/ATP carrier (TtAac) is a mitochondrial inne |
 | protein | proteins/slc-transporters/thermotoga-maritima-cora/ | Thermotoga maritima CorA Mg2+ Transporter | The [CorA Magnesium Transporter from Thermotoga maritima](/xray-mp-wiki/proteins |
 | protein | proteins/slc-transporters/tm-cora/ | Thermotoga maritima CorA (TmCorA) Magnesium Channel | CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel |
-| protein | proteins/slc-transporters/tmcora-thermotoga-maritima/ | CorA Magnesium Transporter from Thermotoga maritima | CorA from Thermotoga maritima (TmCorA) is the primary Mg2+ uptake system in prok |
 | protein | proteins/slc-transporters/tmpit/ | Sodium-dependent Phosphate Transporter TmPiT from Thermotoga maritima | TmPiT (locus Tm0261) is a sodium-dependent phosphate transporter from the hypert |
 | protein | proteins/slc-transporters/tpcorc-magnesium-transporter/ | TpCorC Magnesium Transporter from Thermus parvatiensis | CorC is a prokaryotic member of the CNNM/CorC family of Mg2+ transporters, widel |
 | protein | proteins/slc-transporters/uapA/ | Uric acid/xanthine H+ symporter UapA from Aspergillus nidulans | UapA from Aspergillus nidulans is a high-affinity purine/H+ symporter specific f |
@@ -1386,8 +1354,6 @@ Enterococcus |
 | protein | proteins/slc-transporters/vcx1/ | Vcx1 (Saccharomyces cerevisiae Vacuolar Ca2+/H+ Exchanger) | Vcx1 (also known as Hum1p) is a vacuolar Ca2+/H+ exchanger from Saccharomyces ce |
 | protein | proteins/slc-transporters/vp-zntb/ | Vp-ZntB Cytoplasmic Domain (Vibrio parahaemolyticus Zinc Transporter) | ZntB is a distant homolog of the [CorA Mg2+ Transporter](/xray-mp-wiki/concepts/ |
 | protein | proteins/slc-transporters/vrg4/ | Vrg4 GDP-Mannose Transporter (Saccharomyces cerevisiae) | Vrg4 is a [GDP-Mannose](/xray-mp-wiki/reagents/substrates/gdp-mannose) transport |
-| protein | proteins/slc-transporters/vsglt-k294a/ | vSGLT K294A Mutant | [VSGLT](/xray-mp-wiki/proteins/slc-transporters/vsglt/) K294A is a point mutant  |
-| protein | proteins/slc-transporters/vsglt-n64a/ | vSGLT N64A Mutant | [VSGLT](/xray-mp-wiki/proteins/slc-transporters/vsglt/) N64A is a point mutant o |
 | protein | proteins/slc-transporters/vsglt/ | V. parahaemolyticus Sodium-Galactose Transporter (vSGLT) | V. parahaemolyticus Sodium-Galactose Transporter (vSGLT) is a secondary active t |
 | protein | proteins/slc-transporters/ydah/ | A. borkumensis YdaH transporter | YdaH is an integral membrane protein from Alcanivorax borkumensis encoded by the |
 | protein | proteins/slc-transporters/yeast-adp-atp-carrier/ | Yeast ADP/ATP Carrier (Aac2p and Aac3p) | The yeast ADP/ATP carriers (Aac2p and Aac3p) are archetypal members of the
@@ -1441,7 +1407,7 @@ acti |
 | protein | proteins/toxins/tcdB2-tccC3/ | TcdB2-TccC3 Toxin Complex B-C Fusion from Photorhabdus luminescens | TcdB2-TccC3 is a fusion protein from Photorhabdus luminescens subsp. akhurstii c |
 | protein | proteins/voltage-gated-channels/a-pernix-kvap/ | KvAP voltage-dependent K+ channel from Aeropyrum pernix | [KvAP Voltage-Dependent Potassium Channel](/xray-mp-wiki/proteins/voltage-gated- |
 | protein | proteins/voltage-gated-channels/atpc1/ | AtTPC1 - Arabidopsis thaliana Two-pore Channel 1 | AtTPC1 (Arabidopsis thaliana Two-pore Channel 1) is a plant vacuolar cation chan |
-| protein | proteins/voltage-gated-channels/atpcc1/ | AtTPC1 Vacuolar Two-pore Channel from Arabidopsis thaliana | Protein: atpcc1 |
+| protein | proteins/voltage-gated-channels/atpcc1/ | AtTPC1 Vacuolar Two-pore Channel from Arabidopsis thaliana | AtTPC1 is a vacuolar two-pore channel (TPC) from Arabidopsis thaliana that |
 | protein | proteins/voltage-gated-channels/bk-channel/ | Human BK (Slo1/MaxiK) Large-Conductance Ca2+-Gated K+ Channel | BK channels (also called MaxiK or Slo1, gene KCNMA1) are large-conductance Ca2+- |
 | protein | proteins/voltage-gated-channels/bsyetj/ | BsYetJ TMBIM Ca2+ Channel | BsYetJ is a transmembrane Bax inhibitor motif (TMBIM) protein from Bacillus subt |
 | protein | proteins/voltage-gated-channels/ca-vab/ | CaVAb Bacterial Voltage-Gated Calcium Channel | CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar |
@@ -1592,8 +1558,7 @@ purificati |
 | reagent | reagents/additives/magnesium-sulfate/ | Magnesium Sulfate (MgSO4) | Magnesium sulfate (MgSO4) is an inorganic salt used as a source of magnesium ion |
 | reagent | reagents/additives/magnesium-tetrafluoride/ | Magnesium Tetrafluoride (MgF₄²⁻) | Magnesium tetrafluoride (MgF₄²⁻) is a phosphate analogue used to trap P-type ATP |
 | reagent | reagents/additives/maltose/ | Maltose | Maltose is a disaccharide composed of two glucose units linked by an alpha-1,4 g |
-| reagent | reagents/additives/mercury-ii-chloride/ | Mercury(II) Chloride | [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury |
-| reagent | reagents/additives/mercury/ | Mercury (HgCl2) - Aquaporin Inhibitor | [Mercury(II) Chloride](/xray-mp-wiki/reagents/additives/mercury-ii-chloride/) (H |
+| reagent | reagents/additives/mercury/ | Mercury (HgCl2) - Aquaporin Inhibitor | [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury |
 | reagent | reagents/additives/methanol/ | Methanol | Methanol is the primary carbon source and inducer for the AOX1 (alcohol oxidase  |
 | reagent | reagents/additives/methylmercury-chloride/ | Methylmercury Chloride | Methylmercury chloride (CH3HgCl) is a mercury-containing heavy metal derivative  |
 | reagent | reagents/additives/milnacipran/ | Milnacipran | Milnacipran is a serotonin-norepinephrine reuptake inhibitor (SNRI) with an unco |
@@ -1631,9 +1596,8 @@ inhibits |
 | reagent | reagents/additives/potassium-fluoride/ | Potassium Fluoride (KF) | Potassium fluoride is a salt used as a crystallization additive in membrane prot |
 | reagent | reagents/additives/potassium-formate/ | Potassium Formate | Potassium formate (HCOOK) is a small organic salt used as a precipitating agent  |
 | reagent | reagents/additives/potassium-tetrakis-hydroxido-platinate-ii/ | Potassium Tetrakis(Hydroxido)platinate(II) K2Pt(NO2)4 Heavy Metal Derivative | Potassium tetrakis(hydroxido)platinate(II), K2Pt(NO2)4, is a heavy metal derivat |
-| reagent | reagents/additives/pre-scission-protease/ | PreScission Protease | PreScission Protease is a site-specific protease that recognizes the seven-amino |
+| reagent | reagents/additives/pre-scission-protease/ | PreScission Protease | PreScission protease is a genetically engineered fusion of Human Rhinovirus 3C p |
 | reagent | reagents/additives/pre084/ | PRE084 | PRE084 is a high-affinity sigma-1 receptor (S1R) ligand used to study the ligand |
-| reagent | reagents/additives/prescission-protease/ | PreScission Protease (Human Rhinovirus 3C Protease) | PreScission protease is a genetically engineered fusion of Human Rhinovirus 3C p |
 | reagent | reagents/additives/retosiban/ | Retosiban | Retosiban is a potent, nonpeptidic antagonist of the human oxytocin receptor (OT |
 | reagent | reagents/additives/rizatriptan/ | Rizatriptan | Rizatriptan is a [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ |
 | reagent | reagents/additives/rubidium-acetate/ | Rubidium acetate | Rubidium acetate (RbCH₃COO) is a Rb⁺ salt used as a K⁺ congener for crystallogra |
@@ -1698,7 +1662,6 @@ inhibits |
 | reagent | reagents/antibodies/vhh15/ | VHH15 Nanobody | VHH15 is a llama-derived single-domain antibody (nanobody) that specifically tar |
 | reagent | reagents/buffers/aces/ | ACES Buffer (N-(2-Acetamido)iminodiacetic Acid) | ACES (2-[N-(2-Acetamido)iminodiacetic acid]) is a zwitterionic buffering agent c |
 | reagent | reagents/buffers/acetate/ | Acetate Buffer (Sodium Acetate) | Acetate buffer, typically prepared from [Sodium Acetate](/xray-mp-wiki/reagents/ |
-| reagent | reagents/buffers/ada/ | ADA (N-(2-Acetamido)iminodiacetic Acid) | ADA (N-(2-acetamido)iminodiacetic acid) is a zwitterionic Good's buffer with a p |
 | reagent | reagents/buffers/ammonium-acetate/ | Ammonium Acetate | Ammonium acetate is a volatile salt commonly used in protein crystallization as  |
 | reagent | reagents/buffers/ammonium-phosphate/ | Ammonium Phosphate (Monobasic) | Ammonium phosphate (monobasic) is a commonly used buffer and crystallization pre |
 | reagent | reagents/buffers/bicine/ | Bicine Buffer | Bicine (N,N-bis(2-hydroxyethyl)[Glycine](/xray-mp-wiki/reagents/buffers/glycine/ |
@@ -1717,8 +1680,7 @@ inhibits |
 | reagent | reagents/buffers/sodium-cacodylate/ | Sodium Cacodylate | Sodium cacodylate (dimethylarsinic acid sodium salt) is an organic buffer
 common |
 | reagent | reagents/buffers/sodium-citrate/ | Sodium Citrate (Na-Citrate Buffer) | Sodium [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/ |
-| reagent | reagents/buffers/sodium-phosphate-buffer/ | Sodium Phosphate Buffer | Sodium phosphate buffer at pH 5.6 was used at 3 M concentration as the reservoir |
-| reagent | reagents/buffers/sodium-phosphate/ | Sodium Phosphate | Sodium phosphate buffer is a widely used buffer system in protein crystallizatio |
+| reagent | reagents/buffers/sodium-phosphate/ | Sodium Phosphate | Sodium phosphate buffer at pH 5.6 was used at 3 M concentration as the reservoir |
 | reagent | reagents/buffers/tes/ | TES Buffer (N-Tris(hydroxymethyl)methyl-2-aminoethanesulfonic acid) | TES (N-tris(hydroxymethyl)methyl-2-aminoethanesulfonic acid) is a zwitterionic G |
 | reagent | reagents/buffers/tricine/ | Tricine Buffer | Tricine (N-[Tris(hydroxymethyl)methyl]glycine) is a Good's buffer with a pKa of  |
 | reagent | reagents/buffers/tris/ | Tris (Tris-HCl Buffer) | Tris (tris(hydroxymethyl)aminomethane) is a common buffer used in biochemical an |
@@ -2292,7 +2254,6 @@ Escheric |
 | reagent | reagents/protein-tags/rubredoxin/ | Rubredoxin Fusion Protein | Rubredoxin is a small iron-sulfur protein used as a fusion partner to replace th |
 | reagent | reagents/protein-tags/sumo-tag/ | SUMO Tag (Small Ubiquitin-like Modifier) | SUMO (Small Ubiquitin-like Modifier) is a 11 kDa protein tag used to enhance sol |
 | reagent | reagents/protein-tags/t4-lysozyme/ | T4 Lysozyme (T4L) | T4 lysozyme (T4L) is a fusion partner protein used to replace flexible intracell |
-| reagent | reagents/protein-tags/tevp-protease/ | TEV Protease (Tobacco Etch Virus Protease) | TEV protease (tobacco etch virus protease) is a highly specific cysteine proteas |
 | reagent | reagents/protein-tags/thrombin-protease/ | Thrombin Protease | Thrombin is a serine protease that specifically cleaves at the sequence Leu-Val- |
 | reagent | reagents/substrates/d-xylose/ | D-Xylose | D-Xylose is an aldopentose (five-carbon sugar) that serves as the natural substr |
 | reagent | reagents/substrates/gdp-fucose/ | GDP-Fucose | GDP-fucose (guanosine 5'-diphosphate-[L-Fucose](/xray-mp-wiki/reagents/ligands/l |

@@ -1,5 +1,5 @@
 ---
-title: C1C2GA (C1C2 T198G/G202A)
+title: "C1C2GA (C1C2 T198G/G202A)"
 created: 2026-06-05
 updated: 2026-06-05
 type: protein
@@ -20,7 +20,7 @@ C1C2GA is a blue-shifted mutant of the channelrhodopsin chimera C1C2, created by
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##ncomms8177 | not specified | 2.5 A | C2221 | C1C2 T198G/G202A mutant (C1C2GA) | all-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (twisted 6-s-cis conformation) |
+| doi/10.1038##ncomms8177 | 4YZI | 2.5 A | C2221 | C1C2 T198G/G202A mutant (C1C2GA) | all-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (twisted 6-s-cis conformation) |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ C1C2GA is a blue-shifted mutant of the channelrhodopsin chimera C1C2, created by
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

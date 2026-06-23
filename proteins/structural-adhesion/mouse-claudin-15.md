@@ -1,5 +1,5 @@
 ---
-title: Mouse Claudin-15 (mCldn15)
+title: "Mouse Claudin-15 (mCldn15)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -30,7 +30,7 @@ Mouse claudin-15 (mCldn15) is a tight junction membrane protein belonging to the
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

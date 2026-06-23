@@ -1,5 +1,5 @@
 ---
-title: LeuBAT (LeuT Engineered for Antidepressant Pharmacology)
+title: "LeuBAT (LeuT Engineered for Antidepressant Pharmacology)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -20,7 +20,7 @@ LeuBAT is an engineered mutant of the bacterial leucine transporter [LEUT](/xray
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature12648 |  |  |  | LeuBAT Delta13 mutant with BAT-like pharmacology in complex with antidepressants | [Sertraline](/xray-mp-wiki/reagents/ligands/sertraline/), [Paroxetine](/xray-mp-wiki/reagents/ligands/paroxetine/), [Fluoxetine](/xray-mp-wiki/reagents/ligands/fluoxetine/), [Fluvoxamine](/xray-mp-wiki/reagents/ligands/fluvoxamine/), [Duloxetine](/xray-mp-wiki/reagents/ligands/duloxetine/), [Desvenlafaxine](/xray-mp-wiki/reagents/ligands/desvenlafaxine/), [CMI](/xray-mp-wiki/reagents/ligands/clomipramine/), [Mazindol](/xray-mp-wiki/reagents/ligands/mazindol/) |
+| doi/10.1038##nature12648 | 4MM4 |  |  | LeuBAT Delta13 mutant with BAT-like pharmacology in complex with antidepressants | [Sertraline](/xray-mp-wiki/reagents/ligands/sertraline/), [Paroxetine](/xray-mp-wiki/reagents/ligands/paroxetine/), [Fluoxetine](/xray-mp-wiki/reagents/ligands/fluoxetine/), [Fluvoxamine](/xray-mp-wiki/reagents/ligands/fluvoxamine/), [Duloxetine](/xray-mp-wiki/reagents/ligands/duloxetine/), [Desvenlafaxine](/xray-mp-wiki/reagents/ligands/desvenlafaxine/), [CMI](/xray-mp-wiki/reagents/ligands/clomipramine/), [Mazindol](/xray-mp-wiki/reagents/ligands/mazindol/) |
 
 ## Expression and Purification
 
@@ -30,7 +30,7 @@ LeuBAT is an engineered mutant of the bacterial leucine transporter [LEUT](/xray
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

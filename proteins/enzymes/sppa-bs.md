@@ -1,5 +1,5 @@
 ---
-title: Signal Peptide Peptidase A from Bacillus subtilis
+title: "Signal Peptide Peptidase A from Bacillus subtilis"
 created: 2026-05-26
 updated: 2026-05-29
 type: protein
@@ -31,7 +31,7 @@ Signal peptide peptidase A (SppA) is a membrane-bound self-compartmentalized ser
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

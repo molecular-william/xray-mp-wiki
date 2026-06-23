@@ -1,5 +1,5 @@
 ---
-title: ExbD (E. coli)
+title: "ExbD (E. coli)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -32,7 +32,7 @@ ExbD is an integral polytopic membrane protein from Escherichia coli that, toget
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

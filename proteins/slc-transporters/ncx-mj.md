@@ -1,5 +1,5 @@
 ---
-title: NCX_Mj Sodium/Calcium Exchanger from Methanococcus jannaschii
+title: "NCX_Mj Sodium/Calcium Exchanger from Methanococcus jannaschii"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,8 +21,8 @@ NCX_Mj is a sodium/calcium exchanger (NCX) from the archaeon Methanococcus janna
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.1215759 | not specified in raw text | 1.9 | P212121 | Full-length NCX_Mj | Ca2+, Na+ (modeled in binding sites) |
-| doi/10.1126##science.1215759 | not specified in raw text | 3.6 | P212121 | Full-length NCX_Mj (conventional crystallization in detergent) | Cd2+ or Mn2+ (at divalent blockage site) |
+| doi/10.1126##science.1215759 | 3V5U | 1.9 | P212121 | Full-length NCX_Mj | Ca2+, Na+ (modeled in binding sites) |
+| doi/10.1126##science.1215759 | 3V5U | 3.6 | P212121 | Full-length NCX_Mj (conventional crystallization in detergent) | Cd2+ or Mn2+ (at divalent blockage site) |
 
 ## Expression and Purification
 
@@ -35,7 +35,7 @@ NCX_Mj is a sodium/calcium exchanger (NCX) from the archaeon Methanococcus janna
 - **Expression system**: Escherichia coli
 - **Expression construct**: Full-length NCX_Mj
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

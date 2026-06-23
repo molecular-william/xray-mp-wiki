@@ -1,5 +1,5 @@
 ---
-title: Human 5-HT2B Receptor
+title: "Human 5-HT2B Receptor"
 created: 2026-05-27
 updated: 2026-06-21
 type: protein
@@ -30,7 +30,7 @@ The human serotonin 2B (5-HT2B) receptor is a class A GPCR that signals primaril
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

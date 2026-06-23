@@ -1,5 +1,5 @@
 ---
-title: Human Neuropeptide Y Y2 Receptor (Y2R, NPY2R)
+title: "Human Neuropeptide Y Y2 Receptor (Y2R, NPY2R)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -30,7 +30,7 @@ The human neuropeptide Y (NPY) Y2 receptor (Y2R, NPY2R) is a class A G-protein-c
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

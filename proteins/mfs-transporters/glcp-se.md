@@ -1,5 +1,5 @@
 ---
-title: GlcP_Se (Staphylococcus epidermidis Glucose/H+ Symporter)
+title: "GlcP_Se (Staphylococcus epidermidis Glucose/H+ Symporter)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -15,7 +15,7 @@ verified: false
 ## Overview
 
 GlcP_Se is a glucose/H+ symporter from Staphylococcus epidermidis and a
-member of the [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/).
+member of the [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/).
 It is homologous to human GLUT glucose transporters (27-34% sequence
 identity) and is highly specific for glucose with a Km of 29 +/- 4 uM and
 high avidity. GlcP_Se is inhibited by the human GLUT inhibitors cytochalasin
@@ -31,7 +31,7 @@ differs from the facilitated diffusion mechanism of most human GLUTs.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1311485110 | not specified | 3.2 | — | Full-length GlcP_Se | unliganded (inward-facing conformation) |
+| doi/10.1073##pnas.1311485110 | 4LDS | 3.2 | — | Full-length GlcP_Se | unliganded (inward-facing conformation) |
 
 ## Expression and Purification
 
@@ -61,5 +61,5 @@ The transition between inward-facing and outward-facing conformations involves a
 
 ## Cross-References
 
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — GlcP_Se is a member of the MFS transporter family
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — GlcP_Se is a member of the MFS transporter family
 - [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Glucose is the physiological substrate of GlcP_Se

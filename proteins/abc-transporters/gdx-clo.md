@@ -1,5 +1,5 @@
 ---
-title: Gdx-Clo SMR Transporter (Clostridales oral taxon 876)
+title: "Gdx-Clo SMR Transporter (Clostridales oral taxon 876)"
 created: 2026-06-09
 updated: 2026-06-09
 type: protein
@@ -24,7 +24,7 @@ Gdx-Clo is a small multidrug resistance (SMR) family transporter from *Clostrida
 | doi/10.1038##s41467-020-19820-8 | 6XGQ | 3.50 | C121 | Full-length Gdx-Clo (residues 1-108) with Clo-L10 monobody | None (apo) |
 | doi/10.1038##s41467-020-19820-8 | 6XGR | 2.30 | C121 | Full-length Gdx-Clo with Clo-L10 monobody | Phenylguanidinium (phenylGdm⁺) |
 | doi/10.1038##s41467-020-19820-8 | 6XGS | 2.30 | C121 | Full-length Gdx-Clo with Clo-L10 monobody | Octylguanidinium (octylGdm⁺) |
-| doi/10.1073##pnas.2403273121 |  | 2.5 |  | Gdx-Clo A60T mutant in complex with cetrimonium (CTA⁺). Structure determined at ~2.5 Å resolution (SI Appendix, Table S1). The CTA⁺ quaternary ammonium headgroup binds ~2.5 Å higher and ~4 Å farther back in the pocket than guanidinyl substrates, with the alkyl tail extending through a membrane portal between helices 2A and 2B. | Cetrimonium (CTA⁺) |
+| doi/10.1073##pnas.2403273121 | 8VXU | 2.5 |  | Gdx-Clo A60T mutant in complex with cetrimonium (CTA⁺). Structure determined at ~2.5 Å resolution (SI Appendix, Table S1). The CTA⁺ quaternary ammonium headgroup binds ~2.5 Å higher and ~4 Å farther back in the pocket than guanidinyl substrates, with the alkyl tail extending through a membrane portal between helices 2A and 2B. | Cetrimonium (CTA⁺) |
 
 ## Expression and Purification
 
@@ -38,7 +38,7 @@ Gdx-Clo is a small multidrug resistance (SMR) family transporter from *Clostrida
 - **Expression construct**: C-terminal His6-tag with LysC site
 - **Tag info**: [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

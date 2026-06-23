@@ -1,5 +1,5 @@
 ---
-title: Bacillus pseudofirmus OF4 ATP Synthase c13 Ring (Wild-Type)
+title: "Bacillus pseudofirmus OF4 ATP Synthase c13 Ring (Wild-Type)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1371##journal.pbio.1000443 |  | 2.5 | P21 | Full-length wild-type c-subunit with N-terminal 6xHis tag on beta-subunit of [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase |  |
+| doi/10.1371##journal.pbio.1000443 | 2X2V | 2.5 | P21 | Full-length wild-type c-subunit with N-terminal 6xHis tag on beta-subunit of [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase |  |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme 
 
 - **Expression system**: Bacillus pseudofirmus OF4 (native)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

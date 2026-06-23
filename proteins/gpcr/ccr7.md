@@ -1,5 +1,5 @@
 ---
-title: Human CC Chemokine Receptor 7 (CCR7)
+title: "Human CC Chemokine Receptor 7 (CCR7)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -46,7 +46,7 @@ chemotypes with selectivity across chemokine receptor subtypes.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: GR (Halobacterium sp. GR Bacteriorhodopsin)
+title: "GR (Halobacterium sp. GR Bacteriorhodopsin)"
 created: 2026-06-05
 updated: 2026-06-05
 type: protein
@@ -20,7 +20,7 @@ GR (Halobacterium sp. GR [Bacteriorhodopsin](/xray-mp-wiki/proteins/bacteriorhod
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##ncomms8177 | not specified | not specified | not specified | GR wild-type and mutant variants | all-trans retinal |
+| doi/10.1038##ncomms8177 | 4YZI | not specified | not specified | GR wild-type and mutant variants | all-trans retinal |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ GR (Halobacterium sp. GR [Bacteriorhodopsin](/xray-mp-wiki/proteins/bacteriorhod
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

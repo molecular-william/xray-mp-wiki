@@ -1,5 +1,5 @@
 ---
-title: Phosphatidylinositol-Phosphate Synthase (RsPIPS) from Renibacterium salmoninarum
+title: "Phosphatidylinositol-Phosphate Synthase (RsPIPS) from Renibacterium salmoninarum"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -20,8 +20,8 @@ Phosphatidylinositol-phosphate (PIP) synthase catalyses the first step of phosph
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##ncomms9505 | Not specified in publication | 2.50 | P 2₁ 2₁ 2 | RsPIPS-Δ6N: chimeric construct with N-terminal Af2299 cytidylyltransferase-like domain, first six residues of RsPIPS omitted, with six interface mutations (L75, F77, etc.) | Apo (SO₄²⁻ bound at the active site mimicking the phosphate of inositol phosphate) |
-| doi/10.1038##ncomms9505 | Not specified in publication | 3.61 | P 2₁ | RsPIPS-FL: full-length RsPIPS (absent initiating methionine) with N-terminal Af2299 cytidylyltransferase-like domain and six interface mutations | CDP-diacylglycerol (CDP-DAG), Mg²⁺ |
+| doi/10.1038##ncomms9505 | 5D91 | 2.50 | P 2₁ 2₁ 2 | RsPIPS-Δ6N: chimeric construct with N-terminal Af2299 cytidylyltransferase-like domain, first six residues of RsPIPS omitted, with six interface mutations (L75, F77, etc.) | Apo (SO₄²⁻ bound at the active site mimicking the phosphate of inositol phosphate) |
+| doi/10.1038##ncomms9505 | 5D91 | 3.61 | P 2₁ | RsPIPS-FL: full-length RsPIPS (absent initiating methionine) with N-terminal Af2299 cytidylyltransferase-like domain and six interface mutations | CDP-diacylglycerol (CDP-DAG), Mg²⁺ |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ Phosphatidylinositol-phosphate (PIP) synthase catalyses the first step of phosph
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: EspB
+title: "EspB"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -34,7 +34,7 @@ EspB is a secreted virulence factor from Mycobacterium tuberculosis, encoded wit
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

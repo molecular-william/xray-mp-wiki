@@ -41,7 +41,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Na+,K+-ATPase from Squalus acanthias](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-shark/) — 2.1 mg/ml PC in solubilization buffer for crystallization
+- [Na+,K+-ATPase from Squalus acanthias](/xray-mp-wiki/proteins/pumps-atpases/shark-na-k-atpase/) — 2.1 mg/ml PC in solubilization buffer for crystallization
 - [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — Related biological concept
 - [MSCL](/xray-mp-wiki/proteins/other-ion-channels/mscl/) — Related protein structure
 - [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — Related protein structure

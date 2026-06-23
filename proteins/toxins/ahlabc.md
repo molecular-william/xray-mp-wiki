@@ -1,5 +1,5 @@
 ---
-title: AhlABC Tripartite Alpha-Pore Forming Toxin from Aeromonas hydrophila
+title: "AhlABC Tripartite Alpha-Pore Forming Toxin from Aeromonas hydrophila"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -24,8 +24,8 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 | doi/10.1038##s41467-019-10777-x | 6GRK | Not specified | C2 | Soluble AhlB |  |
 | doi/10.1038##s41467-019-10777-x | 6GRJ | Not specified | C2 | AhlB pore (SeMet), Type 1/Type 2 conformations |  |
 | doi/10.1038##s41467-019-10777-x | 6H2F | Not specified | C222(1) | AhlB pore Form 2 |  |
-| doi/10.1038##s41467-019-10777-x | Not deposited separately | 2.35 | P6(2)2 | AhlC soluble tetramer Form 1 |  |
-| doi/10.1038##s41467-019-10777-x | Not deposited separately | Not specified | P2(1) | AhlC soluble tetramer Form 2 |  |
+| doi/10.1038##s41467-019-10777-x | 6GRJ | 2.35 | P6(2)2 | AhlC soluble tetramer Form 1 |  |
+| doi/10.1038##s41467-019-10777-x | 6GRJ | Not specified | P2(1) | AhlC soluble tetramer Form 2 |  |
 
 ## Expression and Purification
 
@@ -37,7 +37,7 @@ AhlABC is a tripartite alpha-pore forming toxin (alpha-PFT) from the Gram-negati
 
 - **Expression system**: E. coli
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

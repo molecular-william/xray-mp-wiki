@@ -1,5 +1,5 @@
 ---
-title: E. coli SemiSWEET (EcSemiSWEET)
+title: "E. coli SemiSWEET (EcSemiSWEET)"
 created: 2026-06-05
 updated: 2026-06-05
 type: protein
@@ -33,7 +33,7 @@ EcSemiSWEET is a sugar transporter from the SWEET family found in Escherichia co
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ Proposed transport cycle: inward-open state captures substrate -> PQ-loop hinge 
 - [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Inducer for protein expression at 0.2 mM
 - [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Primary buffer component (50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0) for expression and purification
 - [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/affinity-resins/ni-nta/) — Affinity resin used for His8-tag purification of EcSemiSWEET
-- [TEV Protease](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) — Tobacco etch virus protease used to cleave His8-tag from EcSemiSWEET
+- [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) — Tobacco etch virus protease used to cleave His8-tag from EcSemiSWEET

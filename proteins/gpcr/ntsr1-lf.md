@@ -1,5 +1,5 @@
 ---
-title: NTSR1-LF Mutant
+title: "NTSR1-LF Mutant"
 created: 2026-06-05
 updated: 2026-06-05
 type: protein
@@ -21,7 +21,7 @@ NTSR1-LF is a thermostabilized mutant of the [Neurotensin](/xray-mp-wiki/reagent
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##ncomms8895 | Not specified (see main paper) | 2.6 A | P212121 | NTSR1-LF-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/): Wild-type residues at positions L310(6.37), F358(7.42); E166A mutation at position 3.49; T4 lysozyme replacing most of ICL3 (residues H269-R299); expressed in Sf9 insect cells via baculovirus
+| doi/10.1038##ncomms8895 | 4XEE | 2.6 A | P212121 | NTSR1-LF-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/): Wild-type residues at positions L310(6.37), F358(7.42); E166A mutation at position 3.49; T4 lysozyme replacing most of ICL3 (residues H269-R299); expressed in Sf9 insect cells via baculovirus
  | NTS(8-13) |
 
 ## Expression and Purification
@@ -33,7 +33,7 @@ NTSR1-LF is a thermostabilized mutant of the [Neurotensin](/xray-mp-wiki/reagent
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Human Protease-Activated Receptor 2 (PAR2) - Stabilized T4L Fusion
+title: "Human Protease-Activated Receptor 2 (PAR2) - Stabilized T4L Fusion"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein

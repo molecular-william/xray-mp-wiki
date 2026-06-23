@@ -1,5 +1,5 @@
 ---
-title: Na+/H+ Antiporter NapA from Thermus thermophilus
+title: "Na+/H+ Antiporter NapA from Thermus thermophilus"
 created: 2026-06-03
 updated: 2026-06-22
 type: protein
@@ -21,7 +21,7 @@ NapA from Thermus thermophilus is a Na+/H+ antiporter belonging to the CPA2 clad
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature12484 | not specified | 3.0 A | C222_1 | Full-length NapA from Thermus thermophilus (Uniprot Q72IM4), GFP-His8 fusion with TEV cleavage site | zinc (2 ions per monomer) |
+| doi/10.1038##nature12484 | 4BWZ | 3.0 A | C222_1 | Full-length NapA from Thermus thermophilus (Uniprot Q72IM4), GFP-His8 fusion with TEV cleavage site | zinc (2 ions per monomer) |
 | doi/10.1038##nsmb.3164 | 5BZ2 | 3.7 A | C222_1 | Full-length NapA V31C I130C mutant (Uniprot Q72IM4), TEV-cleaved | none |
 | doi/10.1038##nsmb.3164 | 5BZ3 | 2.3 A | C222_1 | Full-length NapA wild-type (Uniprot Q72IM4), TEV-cleaved | LCP lipid MAG7.7 modeled at core-dimer interface |
 
@@ -36,10 +36,10 @@ NapA from Thermus thermophilus is a Na+/H+ antiporter belonging to the CPA2 clad
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature12484*
+#### Source: doi/10.1038##nature12484
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -50,15 +50,13 @@ NapA from Thermus thermophilus is a Na+/H+ antiporter belonging to the CPA2 clad
 | Tag cleavage | TEV protease cleavage | not specified | 20 mM Tris-HCl pH 7.5, 150 mM NaCl, 0.5% NM + 0.5% NM | Dialyzed overnight with His6-tagged TEV protease |
 | Second Ni-NTA purification | Ni-NTA affinity chromatography | Ni-NTA His-Trap column | 20 mM Tris-HCl pH 7.5, 150 mM NaCl, 0.5% NM + 0.5% NM | Cleaved NapA collected in flow-through |
 
-### Purification Workflow
-
-*Source: doi/10.1038##nsmb.3164*
+#### Source: doi/10.1038##nsmb.3164
 
 - **Expression system**: Escherichia coli Lemo21(DE3)
 - **Expression construct**: Full-length NapA (wild-type and mutants V31C, I130C, V31C/I130C, I55C) in pWaldoGFPe vector, GFP-His8 fusion with TEV cleavage site
 - **Tag info**: C-terminal GFP-His8 tag, removed by TEV protease
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -152,4 +150,4 @@ Positively charged residues K344 (TM11b) and R133 (TM4b) form alternating ionic 
 - [Dithiothreitol (DTT)](/xray-mp-wiki/reagents/additives/dtt/) — Used as reducing agent in TEV cleavage and functional assays
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used to obtain outward-facing NapA structure at 2.3 A (PDB 5BZ3)
 - [Isothermal Titration Calorimetry (ITC)](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/) — ITC used to measure Na+, Li+, and K+ binding affinities of trapped inward-facing NapA
-- [Molecular Dynamics Simulations](/xray-mp-wiki/methods/molecular-dynamics-simulations/) — MD simulations confirmed core domain movement against fixed dimer domain
+- [Molecular Dynamics Simulations](/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/) — MD simulations confirmed core domain movement against fixed dimer domain

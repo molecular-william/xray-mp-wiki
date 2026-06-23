@@ -1,5 +1,5 @@
 ---
-title: Cytochrome b5 Reductase
+title: "Cytochrome b5 Reductase"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -31,7 +31,7 @@ Cytochrome b5 reductase (b5R) is a membrane-embedded flavoprotein that catalyzes
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

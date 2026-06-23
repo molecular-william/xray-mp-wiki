@@ -1,5 +1,5 @@
 ---
-title: Archaerhodopsin-3 (AR3)
+title: "Archaerhodopsin-3 (AR3)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ Archaerhodopsin-3 (AR3) is a light-driven proton pump from the archaebacterium H
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

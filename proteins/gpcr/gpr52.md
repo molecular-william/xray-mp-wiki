@@ -1,5 +1,5 @@
 ---
-title: Orphan GPR52 (G Protein-Coupled Receptor 52)
+title: "Orphan GPR52 (G Protein-Coupled Receptor 52)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -20,20 +20,20 @@ GPR52 is a class-A orphan G-protein-coupled receptor (GPCR) highly expressed in 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41586-020-2019-0 | 6LII | 2.90 A | P 21 21 21 | GPR52-Rub-apo ([Rubredoxin](/xray-mp-wiki/reagents/rubredoxin/) fusion in ICL3, residues 17-340, 7 stabilizing mutations) | none (apo) |
+| doi/10.1038##s41586-020-2019-0 | 6LII | 2.90 A | P 21 21 21 | GPR52-Rub-apo ([Rubredoxin](/xray-mp-wiki/reagents/protein-tags/rubredoxin/) fusion in ICL3, residues 17-340, 7 stabilizing mutations) | none (apo) |
 | doi/10.1038##s41586-020-2019-0 | 6LI2 | 3.20 A | I 41 | GPR52-Fla-apo (flavodoxin fusion in ICL3, residues 17-340, 7 stabilizing mutations) | none (apo) |
-| doi/10.1038##s41586-020-2019-0 | 6LI0 | 2.80 A | P 21 21 21 | GPR52-c17 ([Rubredoxin](/xray-mp-wiki/reagents/rubredoxin/) fusion, ligand-bound) | c17 (allosteric surrogate agonist) |
+| doi/10.1038##s41586-020-2019-0 | 6LI0 | 2.80 A | P 21 21 21 | GPR52-c17 ([Rubredoxin](/xray-mp-wiki/reagents/protein-tags/rubredoxin/) fusion, ligand-bound) | c17 (allosteric surrogate agonist) |
 | doi/10.1038##s41586-020-2019-0 | 6LI3 | 3.30 A | none (cryo-EM) | GPR52-mini-Gs-[Nb35](/xray-mp-wiki/reagents/antibodies/nb35/) complex | mini-Gs heterotrimer, [Nb35](/xray-mp-wiki/reagents/antibodies/nb35/) [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) |
 
 ## Expression and Purification
 
 - **Expression system**: Baculovirus/Sf9 insect cells (Bac-to-Bac system, Invitrogen)
-- **Construct**: Human GPR52 residues 17-340. N-terminal HA signal peptide + Flag tag + [Bril](/xray-mp-wiki/reagents/protein-tags/bril/), TEV site, C-terminal 10xHis tag (3C-protease-removable). ICL3 replaced with [Rubredoxin](/xray-mp-wiki/reagents/rubredoxin/) (residues 235-263) or flavodoxin (residues 236-261). 7 stabilizing mutations: A130W, A264L, W278Q, C314P, S318A, N321D, V323T.
+- **Construct**: Human GPR52 residues 17-340. N-terminal HA signal peptide + Flag tag + [Bril](/xray-mp-wiki/reagents/protein-tags/bril/), TEV site, C-terminal 10xHis tag (3C-protease-removable). ICL3 replaced with [Rubredoxin](/xray-mp-wiki/reagents/protein-tags/rubredoxin/) (residues 235-263) or flavodoxin (residues 236-261). 7 stabilizing mutations: A130W, A264L, W278Q, C314P, S318A, N321D, V323T.
 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ GPR52 is the closest homologue of GPR21 (71% sequence identity). ECL2 is highly 
 - [n-Dodecyl-beta-D-Maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent for membrane protein solubilization
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — LCP matrix lipid for crystallization
 - [Lipidic Cubic Phase (LCP) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used for GPR52 crystallization
-- [Rubredoxin](/xray-mp-wiki/reagents/rubredoxin/) — Referenced in gpr52 text
+- [Rubredoxin](/xray-mp-wiki/reagents/protein-tags/rubredoxin/) — Referenced in gpr52 text
 - [Nb35](/xray-mp-wiki/reagents/antibodies/nb35/) — Referenced in gpr52 text
 - [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) — Referenced in gpr52 text
 - [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) — Referenced in gpr52 text

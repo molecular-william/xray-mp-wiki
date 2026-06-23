@@ -28,8 +28,8 @@ verified: false
 
 ## Cross-References
 - [Vrg4 GDP-Mannose Transporter](/xray-mp-wiki/proteins/slc-transporters/vrg4/) — Prototype NST with solved crystal structure
-- [GDP-Mannose](/xray-mp-wiki/reagents/ligands/gdp-mannose/) — Primary substrate for Vrg4
-- [GDP-Fucose](/xray-mp-wiki/reagents/ligands/gdp-fucose/) — Substrate for SLC35C1 family member
+- [GDP-Mannose](/xray-mp-wiki/reagents/substrates/gdp-mannose/) — Primary substrate for Vrg4
+- [GDP-Fucose](/xray-mp-wiki/reagents/substrates/gdp-fucose/) — Substrate for SLC35C1 family member
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Transport mechanism shared by NSTs
 - [GDP-Fucose](/xray-mp-wiki/reagents/substrates/gdp-fucose/) — Entity mentioned in text
 - [GDP-Mannose](/xray-mp-wiki/reagents/substrates/gdp-mannose/) — Entity mentioned in text

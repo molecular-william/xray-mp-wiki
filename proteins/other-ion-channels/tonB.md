@@ -1,5 +1,5 @@
 ---
-title: TonB (E. coli)
+title: "TonB (E. coli)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -32,7 +32,7 @@ TonB is an integral polytopic membrane protein from Escherichia coli that serves
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

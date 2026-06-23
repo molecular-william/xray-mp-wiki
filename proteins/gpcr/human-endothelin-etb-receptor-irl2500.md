@@ -1,5 +1,5 @@
 ---
-title: Human Endothelin ETB Receptor in Complex with IRL2500
+title: "Human Endothelin ETB Receptor in Complex with IRL2500"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -28,7 +28,7 @@ agonist, as demonstrated using a constitutively active ETB mutant (L192[3.43]Q).
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s42003-019-0482-7 | Not specified in raw text | 2.7 | I422 | ETB-Y4-mT4L (thermostabilized ETB receptor with R124Y[1.55], K270A[5.35], S342A[6.54], I381A[7.48] mutations; mT4L inserted in ICL3 between K303[5.68] and L311[6.23]; C396A/C400A/C405A; N-terminal deletion G57-L66; C-terminus truncated after S407; C-terminal TEV-GFP-His10 tag) | [IRL2500](/xray-mp-wiki/reagents/ligands/irl2500/) |
+| doi/10.1038##s42003-019-0482-7 | 6K1Q | 2.7 | I422 | ETB-Y4-mT4L (thermostabilized ETB receptor with R124Y[1.55], K270A[5.35], S342A[6.54], I381A[7.48] mutations; mT4L inserted in ICL3 between K303[5.68] and L311[6.23]; C396A/C400A/C405A; N-terminal deletion G57-L66; C-terminus truncated after S407; C-terminal TEV-GFP-His10 tag) | [IRL2500](/xray-mp-wiki/reagents/ligands/irl2500/) |
 
 ## Expression and Purification
 
@@ -38,7 +38,7 @@ agonist, as demonstrated using a constitutively active ETB mutant (L192[3.43]Q).
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

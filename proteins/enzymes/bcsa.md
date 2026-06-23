@@ -1,5 +1,5 @@
 ---
-title: BcsA from Rhodobacter sphaeroides (Cellulose Synthase Catalytic Subunit)
+title: "BcsA from Rhodobacter sphaeroides (Cellulose Synthase Catalytic Subunit)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -20,7 +20,7 @@ BcsA is the catalytically active subunit of the bacterial cellulose synthase com
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature11744 |  | 4.5 A |  | BcsA-[BCSB](/xray-mp-wiki/proteins/bcsb) complex from Rhodobacter sphaeroides; BcsA residues 1-788 with C-terminal dodeca-histidine tag; BcsB residues 21-725 with N-terminal PelB signal sequence | UDP, translocating glucan (18 [GLUCOSE](/xray-mp-wiki/reagents/additives/glucose) units) |
+| doi/10.1038##nature11744 | 4HG6 | 4.5 A |  | BcsA-[BCSB](/xray-mp-wiki/proteins/bcsb) complex from Rhodobacter sphaeroides; BcsA residues 1-788 with C-terminal dodeca-histidine tag; BcsB residues 21-725 with N-terminal PelB signal sequence | UDP, translocating glucan (18 [GLUCOSE](/xray-mp-wiki/reagents/additives/glucose) units) |
 
 ## Expression and Purification
 
@@ -30,7 +30,7 @@ BcsA is the catalytically active subunit of the bacterial cellulose synthase com
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ The structure suggests a model in which the nascent glucan is extended by one [G
 
 ## Cross-References
 
-- [UDP-Glucose (UDP-Glc)](/xray-mp-wiki/reagents/ligands/udp-glucose/) — Sugar nucleotide donor substrate for [Cellulose Synthase](/xray-mp-wiki/concepts/cellulose-synthase)
+- [UDP-Glucose (UDP-Glc)](/xray-mp-wiki/reagents/substrates/udp-glucose/) — Sugar nucleotide donor substrate for [Cellulose Synthase](/xray-mp-wiki/concepts/cellulose-synthase)
 - [Cyclic-di-GMP](/xray-mp-wiki/reagents/ligands/cyclic-di-gmp/) — Bacterial secondary messenger that activates BcsA via PilZ domain
 - [Lauryldimethylamine N-oxide (LDAO)](/xray-mp-wiki/reagents/detergents/ldao/) — Zwitterionic detergent used in BcsA-[BcsB from Rhodobacter sphaeroides (Cellulose Synthase Periplasmic Subunit)](/xray-mp-wiki/proteins/bcsb) purification wash buffer
 - [Triton X-100](/xray-mp-wiki/reagents/detergents/triton-x-100/) — Nonionic detergent used for membrane solubilization of BcsA-[BcsB from Rhodobacter sphaeroides (Cellulose Synthase Periplasmic Subunit)](/xray-mp-wiki/proteins/bcsb) complex

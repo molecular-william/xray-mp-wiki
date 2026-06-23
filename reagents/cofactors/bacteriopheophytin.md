@@ -53,5 +53,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [Bacteriochlorophyll](/xray-mp-wiki/reagents/bacteriochlorophyll/) — BPhe is formed by demetallation of BChl (removal of central Mg2+)
+- [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) — BPhe is formed by demetallation of BChl (removal of central Mg2+)
 - [Rps. viridis Photosynthetic Reaction Centre](/xray-mp-wiki/proteins/photosynthesis/rps-viridis-reaction-centre/) — Contains native BPhe-b cofactors at HA and HB sites

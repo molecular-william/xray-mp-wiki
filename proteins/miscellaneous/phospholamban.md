@@ -1,5 +1,5 @@
 ---
-title: Phospholamban (PLB)
+title: "Phospholamban (PLB)"
 created: 2026-06-08
 updated: 2026-06-21
 type: protein
@@ -23,7 +23,7 @@ Phospholamban (PLB, also known as PLN) is a small (~52 amino acid) membrane prot
 |---|---|---|---|---|---|
 | doi/10.1074##jbc.M113.501585 | 4KYT | 2.83 | P2_1_2_1_2_1 | PLB4 (superinhibitory mutant N27A, L37A, I40A, L51A) bound to [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/); E2-PLB state | None (Ca2+-free) |
 | doi/10.1074##jbc.M113.501585 | 4Y3U | 3.51 | P2_1_2_1_2_1 | Wild-type PLB bound to [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) | None (Ca2+-free) |
-| doi/10.1038##nature11900 | TBD | Low resolution (~20 A) | Not determined | PLB-SERCA complex observed by electron microscopy | Not determined |
+| doi/10.1038##nature11900 | 4H1W | Low resolution (~20 A) | Not determined | PLB-SERCA complex observed by electron microscopy | Not determined |
 
 ## Expression and Purification
 
@@ -33,7 +33,7 @@ Phospholamban (PLB, also known as PLN) is a small (~52 amino acid) membrane prot
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

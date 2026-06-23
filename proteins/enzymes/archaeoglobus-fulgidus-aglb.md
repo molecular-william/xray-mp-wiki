@@ -1,5 +1,5 @@
 ---
-title: Archaeoglobus fulgidus AglB (AfAglB)
+title: "Archaeoglobus fulgidus AglB (AfAglB)"
 created: 2026-05-29
 updated: 2026-06-10
 type: protein
@@ -22,7 +22,7 @@ Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal ol
 |---|---|---|---|---|---|
 | doi/10.1021##acs.biochem.6b01089 | 5GMY | 3.5 A | Not specified in paper | AfAglB G617C mutant cross-linked with acceptor peptide Ac-RYNVTAC-NH2 via engineered disulfide bond at position 617 | Acceptor peptide (Ac-RYNVTAC-NH2) containing N-glycosylation sequon Asn-Val-Thr |
 | doi/10.1073##pnas.1314195110 | 3WAK | Not specified in paper | Not specified in paper | Apo AfAglB (wild-type, full-length) | None |
-| doi/10.1038##s42003-021-02473-8 | not deposited | 2.7 A | Not specified in paper | AfAglB G617C mutant with tethered sequon peptide (TAMRA-APY(Dab)VTASCR-OH), ternary complex with dolichol-phosphate | Dolichol-phosphate, Mn2+ |
+| doi/10.1038##s42003-021-02473-8 | 7E9S | 2.7 A | Not specified in paper | AfAglB G617C mutant with tethered sequon peptide (TAMRA-APY(Dab)VTASCR-OH), ternary complex with dolichol-phosphate | Dolichol-phosphate, Mn2+ |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal ol
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal ol
 | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Nickel Sepharose High Performance resin | [Nickel Sepharose](/xray-mp-wiki/reagents/additives/nickel-nta/) High Performance (GE Healthcare) | TS buffer (50 mM [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/), pH 8.0, 100 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/)) containing 0.1% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.1% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | His-tagged recombinant protein purified by [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) |
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

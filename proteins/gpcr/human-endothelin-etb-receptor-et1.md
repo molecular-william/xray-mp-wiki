@@ -1,5 +1,5 @@
 ---
-title: Human Endothelin ETB Receptor Bound to Endothelin-1
+title: "Human Endothelin ETB Receptor Bound to Endothelin-1"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -39,7 +39,7 @@ the entire peptide.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

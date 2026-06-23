@@ -1,5 +1,5 @@
 ---
-title: BasC (Bacterial Alanine-Serine-Cysteine Exchanger)
+title: "BasC (Bacterial Alanine-Serine-Cysteine Exchanger)"
 created: 2026-06-09
 updated: 2026-06-09
 type: protein
@@ -31,7 +31,7 @@ BasC is a bacterial L-amino acid transporter (LAT) from the alanine-serine-cyste
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

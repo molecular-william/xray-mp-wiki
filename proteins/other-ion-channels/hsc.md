@@ -1,5 +1,5 @@
 ---
-title: HSC (Hydrosulfide Channel from Clostridium difficile)
+title: "HSC (Hydrosulfide Channel from Clostridium difficile)"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -21,14 +21,14 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature10881 | Not specified in paper text | 2.2 A | P212121 | Full-length HSC from Clostridium difficile | None specified |
-| doi/10.1038##nature10881 | Not specified in paper text | 3.2 A | P21 | Full-length HSC from Clostridium difficile | None specified |
-| doi/10.1038##nature10881 | Not specified in paper text | 3.0 A | C2221 | Full-length HSC from Clostridium difficile | None specified |
-| doi/10.1038##nature10881 | Not specified in paper text | 2.3 A | P212121 | HSC K16S mutant | None specified |
-| doi/10.1038##nature10881 | Not specified in paper text | 2.5 A | P212121 | HSC L82V mutant | None specified |
-| doi/10.1038##nature10881 | Not specified in paper text | 2.4 A | P212121 | HSC T84A mutant | None specified |
-| doi/10.1038##nature10881 | Not specified in paper text | 2.1 A | P212121 | HSC K148E mutant | None specified |
-| doi/10.1038##nature10881 | Not specified in paper text | 2.0 A | P212121 | HSC F194I mutant | None specified |
+| doi/10.1038##nature10881 | 3TDO | 2.2 A | P212121 | Full-length HSC from Clostridium difficile | None specified |
+| doi/10.1038##nature10881 | 3TDO | 3.2 A | P21 | Full-length HSC from Clostridium difficile | None specified |
+| doi/10.1038##nature10881 | 3TDO | 3.0 A | C2221 | Full-length HSC from Clostridium difficile | None specified |
+| doi/10.1038##nature10881 | 3TDO | 2.3 A | P212121 | HSC K16S mutant | None specified |
+| doi/10.1038##nature10881 | 3TDO | 2.5 A | P212121 | HSC L82V mutant | None specified |
+| doi/10.1038##nature10881 | 3TDO | 2.4 A | P212121 | HSC T84A mutant | None specified |
+| doi/10.1038##nature10881 | 3TDO | 2.1 A | P212121 | HSC K148E mutant | None specified |
+| doi/10.1038##nature10881 | 3TDO | 2.0 A | P212121 | HSC F194I mutant | None specified |
 
 ## Expression and Purification
 
@@ -40,7 +40,7 @@ HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif
 
 - **Expression system**: Escherichia coli
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

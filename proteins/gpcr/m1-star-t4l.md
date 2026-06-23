@@ -1,5 +1,5 @@
 ---
-title: M1-StaR-T4L
+title: "M1-StaR-T4L"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -34,7 +34,7 @@ M1-StaR-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) is a thermostabi
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

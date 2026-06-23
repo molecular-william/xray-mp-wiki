@@ -1,5 +1,5 @@
 ---
-title: MtrE Outer Membrane Channel from Neisseria gonorrhoeae
+title: "MtrE Outer Membrane Channel from Neisseria gonorrhoeae"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ MtrE is the outer membrane channel component of the [MtrCDE Tripartite Multidrug
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1371##journal.pone.0097475 |  | 3.29 | P6_3_22 | Full-length MtrE (residues 1-445) with C-terminal 6xHis tag |  |
+| doi/10.1371##journal.pone.0097475 | 4MT1 | 3.29 | P6_3_22 | Full-length MtrE (residues 1-445) with C-terminal 6xHis tag |  |
 
 ## Expression and Purification
 
@@ -36,7 +36,7 @@ MtrE is the outer membrane channel component of the [MtrCDE Tripartite Multidrug
 - **Expression construct**: Full-length MtrE with C-terminal 6xHis tag
 - **Tag info**: C-terminal 6xHis tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

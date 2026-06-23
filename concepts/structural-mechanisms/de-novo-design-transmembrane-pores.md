@@ -68,9 +68,9 @@ For the 16-helix TMH4C4 pore:
 ## Cross-References
 - [Pore-Forming Toxins](/xray-mp-wiki/concepts/structural-mechanisms/pore-forming-toxins/) — Natural pore-forming proteins provide inspiration for designed transmembrane pore architectures
 - [Cryo-Electron Microscopy (Cryo-EM)](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Cryo-EM was used to determine the TMH4C4 structure at 5.9 A resolution
-- [Proteoliposome Reconstitution](/xray-mp-wiki/methods/proteoliposome-reconstitution/) — Liposome-based assays were used to demonstrate TMH4C4 fluorophore transport
+- [Proteoliposome Reconstitution](/xray-mp-wiki/methods/quality-assessment/proteoliposome-reconstitution/) — Liposome-based assays were used to demonstrate TMH4C4 fluorophore transport
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Nickel-affinity chromatography was used to purify all designed pore proteins
 - [Size-Exclusion Chromatography (SEC)](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — SEC was used for purification and monodispersity assessment of all pore constructs
-- [Circular Dichroism (CD) Spectroscopy](/xray-mp-wiki/methods/circular-dichroism-spectroscopy/) — CD spectroscopy confirmed the designed proteins are alpha-helical and thermally stable
+- [Circular Dichroism (CD) Spectroscopy](/xray-mp-wiki/methods/quality-assessment/circular-dichroism-spectroscopy/) — CD spectroscopy confirmed the designed proteins are alpha-helical and thermally stable
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Method used in structure determination or purification

@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Minocycline is a tetracycline antibiotic (Mr ~457) that inhibits bacterial protein synthesis. In structural studies of the [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/), minocycline was shown to bind to the distal (deep) binding pocket (phenylalanine cluster region) of the [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) binding monomer, serving as a low-molecular-mass drug (LMMD) model. Unlike high-molecular-mass drugs such as [Rifampicin](/xray-mp-wiki/reagents/ligands/rifampicin/) and [Erythromycin](/xray-mp-wiki/reagents/ligands/erythromycin/), low-molecular-mass drugs can enter the distal pocket through the proximal pocket during the binding stage.
+Minocycline is a tetracycline antibiotic (Mr ~457) that inhibits bacterial protein synthesis. In structural studies of the [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/), minocycline was shown to bind to the distal (deep) binding pocket (phenylalanine cluster region) of the [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) binding monomer, serving as a low-molecular-mass drug (LMMD) model. Unlike high-molecular-mass drugs such as [Rifampicin](/xray-mp-wiki/reagents/ligands/rifampicin/) and [Erythromycin](/xray-mp-wiki/reagents/ligands/erythromycin/), low-molecular-mass drugs can enter the distal pocket through the proximal pocket during the binding stage.
 
 ## Properties
 
@@ -54,6 +54,6 @@ No comparison data available.
 ## Cross-References
 
 - [AcrB Multidrug Efflux Transporter](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Minocycline is a low-molecular-mass substrate transported by AcrB
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Related protein structure
+- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Related protein structure
 - [Erythromycin](/xray-mp-wiki/reagents/ligands/erythromycin/) — Related ligand or cofactor
 - [Rifampicin](/xray-mp-wiki/reagents/ligands/rifampicin/) — Related ligand or cofactor

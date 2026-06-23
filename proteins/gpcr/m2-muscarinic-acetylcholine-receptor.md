@@ -1,5 +1,5 @@
 ---
-title: Human M2 Muscarinic Acetylcholine Receptor
+title: "Human M2 Muscarinic Acetylcholine Receptor"
 created: 2026-06-02
 updated: 2026-06-03
 type: protein
@@ -22,8 +22,8 @@ The human M2 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcho
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1038##nature10753 | 4QDT | 2.8 A | P 21 21 2 | M2-T4L fusion (N-linked glycosylation sites Asn 2, 3, 6, 9 mutated to Asp; cysteine-less T4L residues 2-161 inserted into ICL3 replacing M2 residues 218-376; C-terminal truncation after residue 466) | 3-quinuclidinyl-benzilate (QNB) |
-| doi/10.1038##nature12735 | Not specified in paper | 3.5 A | P212121 | M2 receptor (wild-type) in complex with active-state-stabilizing nanobody Nb9-8, bound to agonist iperoxo | iperoxo, Nb9-8 nanobody |
-| doi/10.1038##nature12735 | Not specified in paper | 3.7 A | P212121 | M2 receptor (wild-type) in complex with Nb9-8 nanobody, bound to agonist iperoxo and positive allosteric modulator LY2119620 | iperoxo, LY2119620, Nb9-8 nanobody |
+| doi/10.1038##nature12735 | 4MQS | 3.5 A | P212121 | M2 receptor (wild-type) in complex with active-state-stabilizing nanobody Nb9-8, bound to agonist iperoxo | iperoxo, Nb9-8 nanobody |
+| doi/10.1038##nature12735 | 4MQS | 3.7 A | P212121 | M2 receptor (wild-type) in complex with Nb9-8 nanobody, bound to agonist iperoxo and positive allosteric modulator LY2119620 | iperoxo, LY2119620, Nb9-8 nanobody |
 
 ## Expression and Purification
 
@@ -34,7 +34,7 @@ The human M2 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcho
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

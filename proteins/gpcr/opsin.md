@@ -1,5 +1,5 @@
 ---
-title: Opsin (Retinal-Free Rhodopsin Apoprotein)
+title: "Opsin (Retinal-Free Rhodopsin Apoprotein)"
 created: 2026-06-08
 updated: 2026-06-16
 type: protein
@@ -33,21 +33,19 @@ Opsin is the apoprotein form of rhodopsin, the G-protein-coupled receptor respon
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature07063*
+#### Source: doi/10.1038##nature07063
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Disc membrane preparation | Opsin solubilization from rod outer-segment disc membranes | -- | 20 mM BTP (pH 7.5), 130 mM NaCl, 1 mM MgCl2, 10% sucrose + [OG](/xray-mp-wiki/reagents/detergents/og/) (beta-D-octylglucopyranoside, 1% w/v) | Rod outer-segment disc membranes prepared from bovine eyes. Opsin solubilized using 1% beta-D-octylglucopyranoside. Solubilized opsin with A280/A362 ratios greater than 4 used without further purification. |
 
-### Purification Workflow
-
-*Source: doi/10.1002##anie.201302374*
+#### Source: doi/10.1002##anie.201302374
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

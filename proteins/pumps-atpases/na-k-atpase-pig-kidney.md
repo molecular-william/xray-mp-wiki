@@ -1,5 +1,5 @@
 ---
-title: Na+,K+-ATPase (Pig Kidney)
+title: "Na+,K+-ATPase (Pig Kidney)"
 created: 2026-05-27
 updated: 2026-06-16
 type: protein
@@ -24,19 +24,19 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 | doi/10.1038##nature06419 | 3B8E | 3.5 | P 1 21 1 | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma (FXYD2) subunits in E2-MgF4(2-)-2K+ state | MgF4(2-), K+ |
 | doi/10.1016##j.jsb.2010.12.004 | 3N23 | 4.6 | P 21 21 21 | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma (FXYD) subunits in E2P phosphoenzyme state | [Ouabain](/xray-mp-wiki/reagents/ligands/ouabain/) (one molecule per alpha subunit) |
 | doi/10.1016##j.jbc.2022.102317 | 7QTV | 4.0 | P 21 21 21 | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma (FXYD2) subunits in E2-BeFx phosphorylated intermediate state | BeFx (beryllium fluoride), Mg2+ |
-| doi/10.1073##pnas.1222308110 |  | 3.4 | P 21 21 21 | Phosphorylated pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in [Mg]E2P-[Ouabain](/xray-mp-wiki/reagents/ligands/ouabain/) high-affinity complex | [Ouabain](/xray-mp-wiki/reagents/ligands/ouabain/), Mg2+ (bound at cation site II) |
-| doi/10.1073##pnas.1422997112 |  | 3.9 | P 21 21 21 | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2P form in complex with [Digoxin](/xray-mp-wiki/reagents/ligands/digoxin/) (anisotropically truncated to 5.2, 4.3, 3.9 A along a*, b*, c*) | [Digoxin](/xray-mp-wiki/reagents/ligands/digoxin/) (trisaccharide-conjugated cardenolide), Mg2+ (bound at cation site II) |
-| doi/10.1073##pnas.1422997112 |  | 3.4 | P 21 | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2P form in complex with [Bufalin](/xray-mp-wiki/reagents/ligands/bufalin/) (anisotropically truncated to 5.6, 4.1, 3.4 A along a*, b*, c*) | [Bufalin](/xray-mp-wiki/reagents/ligands/bufalin/) (nonglycosylated bufadienolide), K+ (bound at cation sites I and II) |
-| doi/10.1126##science.1243352 |  | 4.3 | not specified | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma (FXYD2) subunits in [Na3]E1-AlF4--ADP state | Na+ (3 ions, sites I, II, IIIb), AlF4-, ADP |
-| doi/10.1073##pnas.2020438118 |  | ~3.5 | P2_12_12_1 | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2·BeF3-·Mg2+ (E2P ground state, free of CTS) | BeF3-, Mg2+ (bound at cation site II) |
-| doi/10.1073##pnas.2020438118 |  | 2.9 | P2_12_12_1 | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2P^Pi·Mg2+ with bound ouabain (OBN) | [Ouabain](/xray-mp-wiki/reagents/ligands/ouabain/), Mg2+ (bound at cation site II) |
-| doi/10.1073##pnas.2020438118 |  | ~3.5 |  | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2P^Pi·Mg2+ with bound bufalin (BUF) | [Bufalin](/xray-mp-wiki/reagents/ligands/bufalin/), Mg2+ (bound at cation site II) |
-| doi/10.1073##pnas.2020438118 |  | ~3.5 |  | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2P^Pi·Mg2+ with bound digitoxin (DTX) | [Digitoxin](/xray-mp-wiki/reagents/ligands/digitoxin/), Mg2+ (bound at cation site II) |
-| doi/10.1073##pnas.2020438118 |  | ~3.5 |  | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2P^Pi·Mg2+ with bound digoxin (DGX) | [Digoxin](/xray-mp-wiki/reagents/ligands/digoxin/), Mg2+ (bound at cation site II) |
-| doi/10.1073##pnas.2020438118 |  | ~3.5 |  | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2P^Pi·Mg2+ with bound rostafuroxin (ROS) | [Rostafuroxin](/xray-mp-wiki/reagents/ligands/rostafuroxin/), Mg2+ (bound at cation site II) |
-| doi/10.1073##pnas.2020438118 |  | ~3.5 |  | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2P^Pi·Mg2+ with bound istaroxime (IST) | [Istaroxime](/xray-mp-wiki/reagents/ligands/istaroxime/), Mg2+ (bound at cation site II) |
-| doi/10.1073##pnas.2020438118 |  | ~3.6 | P2_12_12_1 | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2P^Pi·Mg2+ with anthroylouabain (AO) (soaked into ROS cocrystals) | [Ouabain](/xray-mp-wiki/reagents/ligands/ouabain/) (anthroyl derivative), Mg2+ (bound at cation site II) |
-| doi/10.1073##pnas.2020438118 |  | ~3.5 |  | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2P^Pi·K+·Mg2+ with bound bufalin (BUF) — Rb+ soaking experiment | [Bufalin](/xray-mp-wiki/reagents/ligands/bufalin/), Rb+ (at site I), Mg2+ (at site II) |
+| doi/10.1073##pnas.1222308110 | 4HYT | 3.4 | P 21 21 21 | Phosphorylated pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in [Mg]E2P-[Ouabain](/xray-mp-wiki/reagents/ligands/ouabain/) high-affinity complex | [Ouabain](/xray-mp-wiki/reagents/ligands/ouabain/), Mg2+ (bound at cation site II) |
+| doi/10.1073##pnas.1422997112 | 4RES | 3.9 | P 21 21 21 | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2P form in complex with [Digoxin](/xray-mp-wiki/reagents/ligands/digoxin/) (anisotropically truncated to 5.2, 4.3, 3.9 A along a*, b*, c*) | [Digoxin](/xray-mp-wiki/reagents/ligands/digoxin/) (trisaccharide-conjugated cardenolide), Mg2+ (bound at cation site II) |
+| doi/10.1073##pnas.1422997112 | 4RES | 3.4 | P 21 | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2P form in complex with [Bufalin](/xray-mp-wiki/reagents/ligands/bufalin/) (anisotropically truncated to 5.6, 4.1, 3.4 A along a*, b*, c*) | [Bufalin](/xray-mp-wiki/reagents/ligands/bufalin/) (nonglycosylated bufadienolide), K+ (bound at cation sites I and II) |
+| doi/10.1126##science.1243352 | 4HQJ | 4.3 | not specified | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma (FXYD2) subunits in [Na3]E1-AlF4--ADP state | Na+ (3 ions, sites I, II, IIIb), AlF4-, ADP |
+| doi/10.1073##pnas.2020438118 | 7D91 | ~3.5 | P2_12_12_1 | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2·BeF3-·Mg2+ (E2P ground state, free of CTS) | BeF3-, Mg2+ (bound at cation site II) |
+| doi/10.1073##pnas.2020438118 | 7D91 | 2.9 | P2_12_12_1 | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2P^Pi·Mg2+ with bound ouabain (OBN) | [Ouabain](/xray-mp-wiki/reagents/ligands/ouabain/), Mg2+ (bound at cation site II) |
+| doi/10.1073##pnas.2020438118 | 7D91 | ~3.5 |  | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2P^Pi·Mg2+ with bound bufalin (BUF) | [Bufalin](/xray-mp-wiki/reagents/ligands/bufalin/), Mg2+ (bound at cation site II) |
+| doi/10.1073##pnas.2020438118 | 7D91 | ~3.5 |  | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2P^Pi·Mg2+ with bound digitoxin (DTX) | [Digitoxin](/xray-mp-wiki/reagents/ligands/digitoxin/), Mg2+ (bound at cation site II) |
+| doi/10.1073##pnas.2020438118 | 7D91 | ~3.5 |  | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2P^Pi·Mg2+ with bound digoxin (DGX) | [Digoxin](/xray-mp-wiki/reagents/ligands/digoxin/), Mg2+ (bound at cation site II) |
+| doi/10.1073##pnas.2020438118 | 7D91 | ~3.5 |  | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2P^Pi·Mg2+ with bound rostafuroxin (ROS) | [Rostafuroxin](/xray-mp-wiki/reagents/ligands/rostafuroxin/), Mg2+ (bound at cation site II) |
+| doi/10.1073##pnas.2020438118 | 7D91 | ~3.5 |  | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2P^Pi·Mg2+ with bound istaroxime (IST) | [Istaroxime](/xray-mp-wiki/reagents/ligands/istaroxime/), Mg2+ (bound at cation site II) |
+| doi/10.1073##pnas.2020438118 | 7D91 | ~3.6 | P2_12_12_1 | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2P^Pi·Mg2+ with anthroylouabain (AO) (soaked into ROS cocrystals) | [Ouabain](/xray-mp-wiki/reagents/ligands/ouabain/) (anthroyl derivative), Mg2+ (bound at cation site II) |
+| doi/10.1073##pnas.2020438118 | 7D91 | ~3.5 |  | Pig kidney Na+,K+-ATPase alpha1, beta1, and gamma subunits in E2P^Pi·K+·Mg2+ with bound bufalin (BUF) — Rb+ soaking experiment | [Bufalin](/xray-mp-wiki/reagents/ligands/bufalin/), Rb+ (at site I), Mg2+ (at site II) |
 
 ## Expression and Purification
 
@@ -45,10 +45,10 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 
 ### Purification Workflow
 
-*Source: doi/10.1073##pnas.1222308110*
+#### Source: doi/10.1073##pnas.1222308110
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -57,12 +57,10 @@ The Na+,K+-ATPase is a P-type ATPase pump that maintains the electrochemical gra
 
 **Final sample**: 9-10 mg/mL solubilized protein
 
-### Purification Workflow
-
-*Source: doi/10.1038##nature06419*
+#### Source: doi/10.1038##nature06419
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

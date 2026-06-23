@@ -1,5 +1,5 @@
 ---
-title: MexA multidrug efflux pump periplasmic adaptor
+title: "MexA multidrug efflux pump periplasmic adaptor"
 created: 2026-06-08
 updated: 2026-06-16
 type: protein
@@ -22,7 +22,7 @@ MexA is the periplasmic adaptor (membrane fusion protein) component of the MexAB
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1073##pnas.0400375101 | 1T5E | 3.0 | not specified in raw paper | Full-length mature MexA from P. aeruginosa PAO1 (residues 29-383 after signal peptide cleavage and lipid modification), missing N-terminal 28 residues and C-terminal 101 residues in the crystal structure | None |
-| doi/10.1074##jbc.C400164200 | not specified in paper | 2.40 | not specified in paper | Fatty-acylated MexA from P. aeruginosa TNP070 with N-terminal Azu-His6 tag (residues 1-383), 13-mer (hexamer + heptamer) in asymmetric unit | None |
+| doi/10.1074##jbc.C400164200 | 1VF7 | 2.40 | not specified in paper | Fatty-acylated MexA from P. aeruginosa TNP070 with N-terminal Azu-His6 tag (residues 1-383), 13-mer (hexamer + heptamer) in asymmetric unit | None |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ MexA is the periplasmic adaptor (membrane fusion protein) component of the MexAB
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ Based on the MexA structure, two models were proposed for the MexAB-OprM assembl
 ## Cross-References
 
 - [MexB (Pseudomonas aeruginosa multidrug exporter)](/xray-mp-wiki/proteins/abc-transporters/mexB/) — Inner membrane RND partner in the MexAB-OprM tripartite efflux system from P. aeruginosa
-- [AcrB Multidrug Efflux Transporter](/xray-mp-wiki/proteins/abc-transporters/acrB/) — E. coli RND homologue of MexB; MexA is the P. aeruginosa homologue of AcrA
+- [AcrB Multidrug Efflux Transporter](/xray-mp-wiki/proteins/abc-transporters/acrb/) — E. coli RND homologue of MexB; MexA is the P. aeruginosa homologue of AcrA
 - [AcrA multidrug efflux pump periplasmic protein](/xray-mp-wiki/proteins/abc-transporters/acra/) — E. coli homologue of MexA with the same three-domain architecture (alpha-helical hairpin, lipoyl domain, beta-barrel)
 - [MEXB](/xray-mp-wiki/proteins/abc-transporters/mexb/) — Related protein structure
 - [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) — MexA is the periplasmic adaptor component of the RND MexAB-OprM tripartite efflux pump

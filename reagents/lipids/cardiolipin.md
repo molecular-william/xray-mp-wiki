@@ -32,7 +32,7 @@ required for mitochondrial function.
 ### Outer membrane biogenesis
 
 In Gram-negative bacteria, cardiolipin is transported from the inner membrane
-(where it is synthesized) to the outer membrane by the [PbgA (YejM) Cardiolipin Transport Protein](/xray-mp-wiki/proteins/enzymes/pbgA/) transporter. This
+(where it is synthesized) to the outer membrane by the [PbgA (YejM) Cardiolipin Transport Protein](/xray-mp-wiki/proteins/enzymes/pbgA-yejM/) transporter. This
 transport is regulated by the PhoPQ two-component system and is essential for
 outer membrane remodeling, particularly during infection.
 
@@ -61,6 +61,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [PbgA (YejM) Cardiolipin Transport Protein](/xray-mp-wiki/proteins/enzymes/pbgA/) — Related protein structure
+- [PbgA (YejM) Cardiolipin Transport Protein](/xray-mp-wiki/proteins/enzymes/pbgA-yejM/) — Related protein structure
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
 - [Phosphatidylglycerol](/xray-mp-wiki/reagents/lipids/phosphatidylglycerol/) — Additive used in purification or crystallization buffers

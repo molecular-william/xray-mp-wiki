@@ -46,7 +46,7 @@ No comparison data available.
 ## Cross-References
 
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Eluent for His-tag protein elution
-- [Nickel Sulfate](/xray-mp-wiki/reagents/nickel-sulfate/) — Source of nickel ions for resin preparation
+- [Nickel Sulfate](/xray-mp-wiki/reagents/additives/nickel-sulfate/) — Source of nickel ions for resin preparation
 - [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) — Ni-NTA used for LeuT His6-tag purification in return state structures
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Human Adenosine A2A Receptor A2A-PSB1-bRIL Complex](/xray-mp-wiki/proteins/gpcr/a2a-psb1-bril/) — Related protein structure

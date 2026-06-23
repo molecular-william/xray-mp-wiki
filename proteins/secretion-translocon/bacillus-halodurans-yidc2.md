@@ -1,5 +1,5 @@
 ---
-title: Bacillus halodurans YidC2 (BhYidC2)
+title: "Bacillus halodurans YidC2 (BhYidC2)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -31,7 +31,7 @@ YidC is a conserved membrane protein insertase that inserts its substrates into 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

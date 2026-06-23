@@ -1,5 +1,5 @@
 ---
-title: Escherichia coli DtpB Peptide Transporter
+title: "Escherichia coli DtpB Peptide Transporter"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -40,7 +40,7 @@ DtpB is a proton-dependent oligopeptide transporter (POT) from the Major Facilit
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

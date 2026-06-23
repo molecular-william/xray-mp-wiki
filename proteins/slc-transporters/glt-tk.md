@@ -1,5 +1,5 @@
 ---
-title: GltTk (Glutamate Transporter Homologue from Thermococcus kodakarensis)
+title: "GltTk (Glutamate Transporter Homologue from Thermococcus kodakarensis)"
 created: 2026-06-10
 updated: 2026-06-10
 type: protein
@@ -37,7 +37,7 @@ verified: false
 - **Expression construct**: Full-length [Glttk](/xray-mp-wiki/proteins/slc-transporters/glttk/) with C-terminal His8-tag
 - **Tag info**: C-terminal His8-tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

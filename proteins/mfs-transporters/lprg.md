@@ -1,5 +1,5 @@
 ---
-title: LprG Lipoprotein (Rv1411) from Mycobacterium tuberculosis
+title: "LprG Lipoprotein (Rv1411) from Mycobacterium tuberculosis"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein

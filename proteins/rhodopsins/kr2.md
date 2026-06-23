@@ -1,5 +1,5 @@
 ---
-title: KR2 (Krokinobacter eikastus Rhodopsin 2) — Light-Driven Sodium Pump
+title: "KR2 (Krokinobacter eikastus Rhodopsin 2) — Light-Driven Sodium Pump"
 created: 2020-05-01
 updated: 2026-06-10
 type: protein
@@ -25,17 +25,17 @@ KR2 (Krokinobacter eikastus rhodopsin 2) is a light-driven sodium-pumping rhodop
 | doi/10.1038##s41467-020-16032-y | 6YC3 | 2.0 | Not specified in paper | Full-length KR2 from Krokinobacter eikastus, pentameric form, pH 8.0 | [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
 | doi/10.1038##s41467-020-16032-y | 6YBZ | 2.35 | Not specified in paper | D116N mutant of KR2, pentameric form, pH 8.0 | [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
 | doi/10.1038##s41467-020-16032-y | 6YC1 | 2.2 | Not specified in paper | H30A mutant of KR2, pentameric form, pH 8.0 | [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
-| doi/10.1038##nature14322 | Deposited but PDB IDs not specified in paper text | 2.3 | I222 | Full-length KR2 from Krokinobacter eikastus (residues 5-275), with C-terminal TEV cleavage site and His8 tag, crystallized under acidic conditions (pH 4.0) | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (ATR), three lipids (putative), one [PEG](/xray-mp-wiki/reagents/additives/peg/) |
-| doi/10.1038##nature14322 | Deposited but PDB IDs not specified in paper text | 2.3 | I222 | Full-length KR2 from Krokinobacter eikastus (residues 5-275), with C-terminal TEV cleavage site and His8 tag, crystallized under neutral conditions (pH 7.5-8.5, by soaking crystals at pH 4.0 in pH 8.0-9.0 buffer) | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (ATR), three lipids |
-| doi/10.1126##sciadv.aav2671 | Not specified in paper (deposited) | 2.2 | Not specified in paper | Full-length KR2 from Krokinobacter eikastus, pentameric form, crystals grown at pH 8.0 | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
-| doi/10.1126##sciadv.aav2671 | Not specified in paper (deposited) | 2.6 | Not specified in paper | Full-length KR2 from Krokinobacter eikastus, pentameric form, crystals grown at pH 8.0, soaked at pH 5.0 | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
-| doi/10.1126##sciadv.aav2671 | Not specified in paper (deposited) | 2.7 | Not specified in paper | Full-length KR2 from Krokinobacter eikastus, pentameric form, crystals grown at pH 8.0, soaked at pH 6.0 | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
-| doi/10.1126##sciadv.aav2671 | Not specified in paper (deposited) | 3.0 | Not specified in paper | Full-length KR2 from Krokinobacter eikastus, pentameric dry form | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
-| doi/10.1126##sciadv.aav2671 | Not specified in paper (deposited) | 2.6 | Not specified in paper | Full-length KR2 from Krokinobacter eikastus, pentameric wet form (rehydrated after drying) | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
-| doi/10.1126##sciadv.aav2671 | Not specified in paper (deposited) | 1.8 | Not specified in paper | Y154F mutant of KR2, monomeric form | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
-| doi/10.1126##sciadv.aav2671 | Not specified in paper (deposited) | 2.2 | Not specified in paper | H30K mutant of KR2, monomeric form | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
-| doi/10.1126##sciadv.aav2671 | Not specified in paper (deposited) | Not specified | Not specified in paper | S254A mutant of KR2, K+-pumping mutant | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
-| doi/10.1126##sciadv.aav2671 | Not specified in paper (deposited) | Not specified | Not specified in paper | G263F mutant of KR2, K+-pumping mutant | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
+| doi/10.1038##nature14322 | 3X3B | 2.3 | I222 | Full-length KR2 from Krokinobacter eikastus (residues 5-275), with C-terminal TEV cleavage site and His8 tag, crystallized under acidic conditions (pH 4.0) | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (ATR), three lipids (putative), one [PEG](/xray-mp-wiki/reagents/additives/peg/) |
+| doi/10.1038##nature14322 | 3X3B | 2.3 | I222 | Full-length KR2 from Krokinobacter eikastus (residues 5-275), with C-terminal TEV cleavage site and His8 tag, crystallized under neutral conditions (pH 7.5-8.5, by soaking crystals at pH 4.0 in pH 8.0-9.0 buffer) | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (ATR), three lipids |
+| doi/10.1126##sciadv.aav2671 | 6REX | 2.2 | Not specified in paper | Full-length KR2 from Krokinobacter eikastus, pentameric form, crystals grown at pH 8.0 | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
+| doi/10.1126##sciadv.aav2671 | 6REX | 2.6 | Not specified in paper | Full-length KR2 from Krokinobacter eikastus, pentameric form, crystals grown at pH 8.0, soaked at pH 5.0 | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
+| doi/10.1126##sciadv.aav2671 | 6REX | 2.7 | Not specified in paper | Full-length KR2 from Krokinobacter eikastus, pentameric form, crystals grown at pH 8.0, soaked at pH 6.0 | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
+| doi/10.1126##sciadv.aav2671 | 6REX | 3.0 | Not specified in paper | Full-length KR2 from Krokinobacter eikastus, pentameric dry form | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
+| doi/10.1126##sciadv.aav2671 | 6REX | 2.6 | Not specified in paper | Full-length KR2 from Krokinobacter eikastus, pentameric wet form (rehydrated after drying) | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
+| doi/10.1126##sciadv.aav2671 | 6REX | 1.8 | Not specified in paper | Y154F mutant of KR2, monomeric form | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
+| doi/10.1126##sciadv.aav2671 | 6REX | 2.2 | Not specified in paper | H30K mutant of KR2, monomeric form | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
+| doi/10.1126##sciadv.aav2671 | 6REX | Not specified | Not specified in paper | S254A mutant of KR2, K+-pumping mutant | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
+| doi/10.1126##sciadv.aav2671 | 6REX | Not specified | Not specified in paper | G263F mutant of KR2, K+-pumping mutant | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
 
  - R-work Not specified%, R-free Not specified%; Data collection: O-state intermediate of light-driven sodium pump
  - R-work Not specified%, R-free Not specified%; Data collection: Ground state pentameric KR2
@@ -60,27 +60,25 @@ KR2 (Krokinobacter eikastus rhodopsin 2) is a light-driven sodium-pumping rhodop
 
 ### Purification Workflow
 
-*Source: doi/10.1038##s41467-020-16032-y*
+#### Source: doi/10.1038##s41467-020-16032-y
 
 - **Expression system**: Not specified
 - **Tag info**: Not specified
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Solubilization | Detergent solubilization | -- | Not specified | Not specified in abstract-only text |
 | Purification | Not specified | -- | Not specified | Not specified in abstract-only text |
 
-### Purification Workflow
-
-*Source: doi/10.1038##nature14322*
+#### Source: doi/10.1038##nature14322
 
 - **Expression system**: E. coli C41(DE3)
 - **Expression construct**: Full-length KR2 (GI: 478430804) with C-terminal TEV-His8 tag
 - **Tag info**: C-terminal His8 tag, removed by TEV protease after Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -93,15 +91,13 @@ KR2 (Krokinobacter eikastus rhodopsin 2) is a light-driven sodium-pumping rhodop
 
 **Final sample**: 20 mg/ml purified KR2 in 50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) (pH 8.0), 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)
 
-### Purification Workflow
-
-*Source: doi/10.1126##sciadv.aav2671*
+#### Source: doi/10.1126##sciadv.aav2671
 
 - **Expression system**: E. coli C41(DE3)
 - **Expression construct**: Full-length KR2 (GI: 478430804) with C-terminal His8 tag
 - **Tag info**: C-terminal 8xHis tag (not removed, used for Ni-NTA purification)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

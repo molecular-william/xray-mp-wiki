@@ -1,11 +1,11 @@
 ---
-title: Nucleoside Inhibitor Binding to MraY: Chemical Logic and Hotspot Barcode
+title: "Nucleoside Inhibitor Binding to MraY: Chemical Logic and Hotspot Barcode"
 created: 2026-06-16
 updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-enzyme-mechanism, concept-functional, membrane-protein]
+tags: [concept-enzyme-mechanism, concept-functional, membrane-protein, subdirectory-enzyme-mechanisms]
 sources: [doi/10.1038##s41467-019-10957-9, doi/10.1126##science.1236501, doi/10.1038##nature17636]
 verified: false
 ---

@@ -1,5 +1,5 @@
 ---
-title: Thermus thermophilus SecDF Protein Translocation Motor
+title: "Thermus thermophilus SecDF Protein Translocation Motor"
 created: 2026-05-29
 updated: 2026-06-08
 type: protein
@@ -34,10 +34,10 @@ SecDF is a membrane protein belonging to the resistance-nodulation-division (RND
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature09980*
+#### Source: doi/10.1038##nature09980
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -45,24 +45,20 @@ SecDF is a membrane protein belonging to the resistance-nodulation-division (RND
 | Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) (His-tag) | Ni-NTA Agarose | Not specified + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | His6-tagged SecDF purified from E. coli membrane fraction in [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
 | Size-exclusion chromatography | Size-exclusion chromatography | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | Not specified + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Final purification step for crystallization trials |
 
-### Purification Workflow
-
-*Source: doi/10.1016##j.str.2018.01.002*
+#### Source: doi/10.1016##j.str.2018.01.002
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) (His-tag) | Ni-NTA Agarose | Not specified + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | His10-tagged SecDF purified from E. coli membrane fraction |
 | Size-exclusion chromatography | Size-exclusion chromatography | Not specified | Tris buffer + 0.01% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Final sample in 0.01% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) for crystallization |
 
-### Purification Workflow
-
-*Source: doi/10.1016##j.celrep.2017.04.030*
+#### Source: doi/10.1016##j.celrep.2017.04.030
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

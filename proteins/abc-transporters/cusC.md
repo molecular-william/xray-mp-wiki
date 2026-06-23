@@ -1,5 +1,5 @@
 ---
-title: CusC Outer Membrane Channel
+title: "CusC Outer Membrane Channel"
 created: 2026-05-27
 updated: 2026-06-02
 type: protein
@@ -20,7 +20,7 @@ CusC is the outer-membrane channel component of the CusABC tripartite copper/sil
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.jmb.2009.08.029 | -- | not solved | -- | CusC outer-membrane channel protein | -- |
+| doi/10.1016##j.jmb.2009.08.029 | 3OOC | not solved | -- | CusC outer-membrane channel protein | -- |
 
 ## Expression and Purification
 
@@ -30,7 +30,7 @@ CusC is the outer-membrane channel component of the CusABC tripartite copper/sil
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

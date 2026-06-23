@@ -1,5 +1,5 @@
 ---
-title: Human KDEL Receptor
+title: "Human KDEL Receptor"
 created: 2026-05-26
 updated: 2026-05-26
 type: protein
@@ -30,7 +30,7 @@ The human KDEL receptor is a seven-pass transmembrane receptor that retrieves es
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ The KDEL receptor adopts a seven-pass transmembrane topology, which is distinct 
 ## Cross-References
 
 - [ER Retrieval Mechanism](/xray-mp-wiki/concepts/signaling-receptors/er-retrieval-mechanism/) — The KDEL receptor is the central receptor in the ER retrieval mechanism that maintains ER resident protein localization
-- [Membrane Mimetics and Structural Biology](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics) — The KDEL receptor was solubilized and crystallized using detergent micelles and lipidic cubic phase, key membrane mimetic techniques
+- [Membrane Mimetics and Structural Biology](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/) — The KDEL receptor was solubilized and crystallized using detergent micelles and lipidic cubic phase, key membrane mimetic techniques
 - [DDM (N-Dodecyl-beta-D-maltoside)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary solubilization detergent (1%) used for KDEL receptor membrane extraction and purification
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used as the cubic phase matrix for LCP crystallization of the KDEL receptor
 - [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) — Crystallization precipitant (20-30% PEG 400) used in the LCP crystallization reservoir

@@ -1,5 +1,5 @@
 ---
-title: Human TREK-2 Potassium Channel (KCNK10)
+title: "Human TREK-2 Potassium Channel (KCNK10)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -36,10 +36,10 @@ that serve as binding sites for state-dependent inhibitors including
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.1261512 | Not deposited | 3.4 | Not specified | Human TREK-2 up state | K⁺ (four ions in filter, conductive state) |
-| doi/10.1126##science.1261512 | Not deposited | 3.9 | Not specified | Human TREK-2 down state | K⁺ (three ions in filter, non-conductive state), lipid-like molecules in fenestration |
-| doi/10.1126##science.1261512 | Not deposited | 3.7 | Not specified | Human TREK-2 in complex with [Norfluoxetine](/xray-mp-wiki/reagents/additives/norfluoxetine/) (down state) | [Norfluoxetine](/xray-mp-wiki/reagents/additives/norfluoxetine/) |
-| doi/10.1126##science.1261512 | Not deposited | 3.64 | Not specified | Human TREK-2 in complex with Br-[Fluoxetine](/xray-mp-wiki/reagents/ligands/fluoxetine/) (down state) | Br-[Fluoxetine](/xray-mp-wiki/reagents/ligands/fluoxetine/) |
+| doi/10.1126##science.1261512 | 4BW5 | 3.4 | Not specified | Human TREK-2 up state | K⁺ (four ions in filter, conductive state) |
+| doi/10.1126##science.1261512 | 4BW5 | 3.9 | Not specified | Human TREK-2 down state | K⁺ (three ions in filter, non-conductive state), lipid-like molecules in fenestration |
+| doi/10.1126##science.1261512 | 4BW5 | 3.7 | Not specified | Human TREK-2 in complex with [Norfluoxetine](/xray-mp-wiki/reagents/additives/norfluoxetine/) (down state) | [Norfluoxetine](/xray-mp-wiki/reagents/additives/norfluoxetine/) |
+| doi/10.1126##science.1261512 | 4BW5 | 3.64 | Not specified | Human TREK-2 in complex with Br-[Fluoxetine](/xray-mp-wiki/reagents/ligands/fluoxetine/) (down state) | Br-[Fluoxetine](/xray-mp-wiki/reagents/ligands/fluoxetine/) |
 | doi/10.1038##s41467-024-48536-2 | 8QZ1 | Not specified | Not specified | Human TREK-2 residues Gly67 to Glu340 in complex with Nb-Binder-58 (Nb58) | [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) Nb58 |
 | doi/10.1038##s41467-024-48536-2 | 8QZ2 | Not specified | Not specified | Human TREK-2 residues Gly67 to Glu340 in complex with Nb-Inhibitor-61 (Nb61) | [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) Nb61 |
 | doi/10.1038##s41467-024-48536-2 | 8QZ3 | Not specified | Not specified | Human TREK-2 residues Gly67 to Glu340 in complex with Nb-Activator-67 (Nb67) | [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) Nb67 |

@@ -1,5 +1,5 @@
 ---
-title: A-type ATPase peripheral stalk from Thermus thermophilus
+title: "A-type ATPase peripheral stalk from Thermus thermophilus"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ The crystal structure of the EG peripheral stalk complex from the A-type ATPase 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nsmb.1761 |  |  |  | EG peripheral stalk complex from T. thermophilus A-type ATPase | none |
+| doi/10.1038##nsmb.1761 | 3K5B |  |  | EG peripheral stalk complex from T. thermophilus A-type ATPase | none |
 
 ## Expression and Purification
 

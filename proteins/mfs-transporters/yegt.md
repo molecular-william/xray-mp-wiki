@@ -1,5 +1,5 @@
 ---
-title: YegT Nucleoside Proton Symporter from Escherichia coli
+title: "YegT Nucleoside Proton Symporter from Escherichia coli"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -27,7 +27,7 @@ YegT is a member of the nucleoside proton symporter (NHS) family within the [Maj
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

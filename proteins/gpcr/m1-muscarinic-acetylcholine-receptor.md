@@ -1,5 +1,5 @@
 ---
-title: M1 Muscarinic Acetylcholine Receptor
+title: "M1 Muscarinic Acetylcholine Receptor"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -37,7 +37,7 @@ The M1 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/)
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

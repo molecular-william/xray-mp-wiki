@@ -1,5 +1,5 @@
 ---
-title: Campylobacter jejuni CmeB Multidrug Efflux Pump
+title: "Campylobacter jejuni CmeB Multidrug Efflux Pump"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-CmeB is the inner membrane Resistance-Nodulation-Division (RND) multidrug efflux pump component of the CmeABC tripartite efflux system from Campylobacter jejuni, a leading cause of human enterocolitis. CmeB assembles as a homotrimer and catalyzes the export of antimicrobials such as fluoroquinolones and macrolides, contributing significantly to both intrinsic and acquired antibiotic resistance. The CmeB trimer displays a unique asymmetric conformation where each protomer can function independently of one another, in contrast to the coordinated rotating mechanism proposed for the homologous [Acrb](/xray-mp-wiki/proteins/abc-transporters/acrB/) pump from E. coli. Single-molecule FRET imaging revealed four distinct conformational states (low, intermediate-1, intermediate-2, and high FRET) and demonstrated that individual protomers within the trimer undergo uncoordinated conformational transitions during drug export.
+CmeB is the inner membrane Resistance-Nodulation-Division (RND) multidrug efflux pump component of the CmeABC tripartite efflux system from Campylobacter jejuni, a leading cause of human enterocolitis. CmeB assembles as a homotrimer and catalyzes the export of antimicrobials such as fluoroquinolones and macrolides, contributing significantly to both intrinsic and acquired antibiotic resistance. The CmeB trimer displays a unique asymmetric conformation where each protomer can function independently of one another, in contrast to the coordinated rotating mechanism proposed for the homologous [Acrb](/xray-mp-wiki/proteins/abc-transporters/acrb/) pump from E. coli. Single-molecule FRET imaging revealed four distinct conformational states (low, intermediate-1, intermediate-2, and high FRET) and demonstrated that individual protomers within the trimer undergo uncoordinated conformational transitions during drug export.
 
 ## Structure Determination
 
@@ -31,7 +31,7 @@ CmeB is the inner membrane Resistance-Nodulation-Division (RND) multidrug efflux
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ CmeB is the inner membrane Resistance-Nodulation-Division (RND) multidrug efflux
 
 ### Independent protomer function within the CmeB trimer
 
-Single-molecule FRET imaging of CmeB trimers embedded in liposomes revealed that individual protomers undergo conformational transitions independently of one another. Four distinct FRET states (low ~0.20, intermediate-1 ~0.35, intermediate-2 ~0.45, and high ~0.60) were observed. The transition density plots were symmetrical, arguing against the rotating mechanism proposed for [Acrb](/xray-mp-wiki/proteins/abc-transporters/acrB/) where protomers cycle sequentially through access, binding, and extrusion states. Instead, each CmeB protomer can autonomously go through conformational changes leading to substrate extrusion.
+Single-molecule FRET imaging of CmeB trimers embedded in liposomes revealed that individual protomers undergo conformational transitions independently of one another. Four distinct FRET states (low ~0.20, intermediate-1 ~0.35, intermediate-2 ~0.45, and high ~0.60) were observed. The transition density plots were symmetrical, arguing against the rotating mechanism proposed for [Acrb](/xray-mp-wiki/proteins/abc-transporters/acrb/) where protomers cycle sequentially through access, binding, and extrusion states. Instead, each CmeB protomer can autonomously go through conformational changes leading to substrate extrusion.
 
 ### Proton relay network and energy coupling
 
@@ -76,6 +76,6 @@ The conserved charged residues D409, D410, and K935 form a salt-bridge triad in 
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Phasing method for CmeB structure determination using AcrB model
 - [Isothermal Titration Calorimetry](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/) — Used to measure binding of taurodeoxycholate to CmeB
 - [Proteoliposome Reconstitution](/xray-mp-wiki/methods/quality-assessment/proteoliposome-reconstitution/) — CmeB reconstituted into liposomes for sm-FRET studies
-- [Acrb](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Referenced in the context of Acrb
+- [Acrb](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Referenced in the context of Acrb
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Referenced in the context of DDM
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Referenced in the context of Imidazole

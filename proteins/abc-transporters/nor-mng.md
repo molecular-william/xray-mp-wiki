@@ -1,5 +1,5 @@
 ---
-title: NorM-NG (Neisseria gonorrhoeae NorM) - MATE Family Na+-Coupled Transporter
+title: "NorM-NG (Neisseria gonorrhoeae NorM) - MATE Family Na+-Coupled Transporter"
 created: 2026-06-05
 updated: 2026-06-16
 type: protein
@@ -35,10 +35,10 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
 
 ### Purification Workflow
 
-*Source: doi/10.1038##ncomms8995*
+#### Source: doi/10.1038##ncomms8995
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -49,12 +49,10 @@ NorM-NG is a multidrug and toxic compound extrusion (MATE) family transporter fr
 | Thrombin cleavage | Incubated with thrombin protease overnight | -- | -- + -- |  |
 | Size-exclusion chromatography | Superdex 200 SEC | Superdex 200 | 20 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes)-NaOH pH 7.5, 100 mM NaCl, 15% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm), 1 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep) + 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm) |  |
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.1219901110*
+#### Source: doi/10.1073##pnas.1219901110
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

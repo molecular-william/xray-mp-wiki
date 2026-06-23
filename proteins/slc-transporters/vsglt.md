@@ -1,5 +1,5 @@
 ---
-title: V. parahaemolyticus Sodium-Galactose Transporter (vSGLT)
+title: "V. parahaemolyticus Sodium-Galactose Transporter (vSGLT)"
 created: 2026-05-29
 updated: 2026-05-29
 type: protein
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-V. parahaemolyticus Sodium-Galactose Transporter (vSGLT) is a secondary active transporter from the bacterium Vibrio parahaemolyticus that couples the electrochemical gradient of sodium ions to the active transport of galactose across the cell membrane. vSGLT belongs to the Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/)) and shares structural homology with the bacterial amino acid transporter [LEUT](/xray-mp-wiki/proteins/enzymes/leut/). The crystal structures of vSGLT in both inward-occluded and outward-open conformations provided the first direct structural evidence for the alternating-access mechanism in an [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) transporter, revealing a sodium-dependent rocker-switch mechanism.
+V. parahaemolyticus Sodium-Galactose Transporter (vSGLT) is a secondary active transporter from the bacterium Vibrio parahaemolyticus that couples the electrochemical gradient of sodium ions to the active transport of galactose across the cell membrane. vSGLT belongs to the Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/)) and shares structural homology with the bacterial amino acid transporter [LEUT](/xray-mp-wiki/proteins/enzymes/leut/). The crystal structures of vSGLT in both inward-occluded and outward-open conformations provided the first direct structural evidence for the alternating-access mechanism in an [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) transporter, revealing a sodium-dependent rocker-switch mechanism.
 
 
 ## Structure Determination
@@ -32,7 +32,7 @@ V. parahaemolyticus Sodium-Galactose Transporter (vSGLT) is a secondary active t
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ V. parahaemolyticus Sodium-Galactose Transporter (vSGLT) is a secondary active t
 
 ### Outward-open conformation structure
 
-The 3DH5 structure reveals vSGLT in an outward-open conformation with galactose and sodium ions bound in the substrate-binding pocket. The sodium ion is coordinated by the side chains of N64, N343, T350, S365, and K294, forming a coordination network that locks galactose in place. Key residues N64, N343, and W251 form hydrogen bonds with galactose, while Y263 adopts a rotamer conformation that opens the extracellular pathway. This structure provides the first high-resolution view of an [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) transporter in the outward-open state.
+The 3DH5 structure reveals vSGLT in an outward-open conformation with galactose and sodium ions bound in the substrate-binding pocket. The sodium ion is coordinated by the side chains of N64, N343, T350, S365, and K294, forming a coordination network that locks galactose in place. Key residues N64, N343, and W251 form hydrogen bonds with galactose, while Y263 adopts a rotamer conformation that opens the extracellular pathway. This structure provides the first high-resolution view of an [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) transporter in the outward-open state.
 
 ### Alternating-access mechanism
 
-Superposition of the inward-occluded (3DH4) and outward-open (3DH5) structures reveals a rocker-switch mechanism involving rigid-body movement of the extracellular domain (ECD) relative to the transmembrane domain (TMD). The transition involves significant conformational changes in transmembrane helices 1, 5, 6, 7, and 10, while the hash motif (TMs 3, 4, 8, 9) and sugar bundle (TMs 2, 6, 7) remain relatively rigid. This provides direct structural evidence for the alternating-access mechanism in [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) transporters.
+Superposition of the inward-occluded (3DH4) and outward-open (3DH5) structures reveals a rocker-switch mechanism involving rigid-body movement of the extracellular domain (ECD) relative to the transmembrane domain (TMD). The transition involves significant conformational changes in transmembrane helices 1, 5, 6, 7, and 10, while the hash motif (TMs 3, 4, 8, 9) and sugar bundle (TMs 2, 6, 7) remain relatively rigid. This provides direct structural evidence for the alternating-access mechanism in [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) transporters.
 
 ### Sodium-dependent gating mechanism
 
@@ -75,12 +75,14 @@ The inward-open conformation is partially stabilized by a hydrogen bond between 
 ## Cross-References
 
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — vSGLT crystal structures provide direct evidence for alternating access
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — vSGLT is a member of the MFS transporter family
+- [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — Related biological concept
 - [D-Galactose](/xray-mp-wiki/reagents/ligands/d-galactose/) — Primary substrate of the vSGLT transporter
 - [Sodium Ion (Na+)](/xray-mp-wiki/reagents/ligands/sodium-ion/) — Essential co-transport ion for vSGLT function
-- [vSGLT K294A Mutant](/xray-mp-wiki/proteins/slc-transporters/vsglt-k294a/) — Crystallized variant of vSGLT from same study
-- [vSGLT N64A Mutant](/xray-mp-wiki/proteins/slc-transporters/vsglt-n64a/) — Gate mutant studied by molecular dynamics in same study
+- [vSGLT K294A Mutant](/xray-mp-wiki/proteins/slc-transporters/vsglt/) — Crystallized variant of vSGLT from same study
+- [vSGLT N64A Mutant](/xray-mp-wiki/proteins/slc-transporters/vsglt/) — Gate mutant studied by molecular dynamics in same study
 - [Molecular Dynamics Simulation](/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/) — MD simulations used to study galactose exit mechanism
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for membrane protein solubilization
-- [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — Related biological concept
 - [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Method used in structure determination or purification
+- [V. parahaemolyticus Sodium-Galactose Transporter (vSGLT)](/xray-mp-wiki/proteins/slc-transporters/vsglt/) — K294A is a point mutant of vSGLT
+- [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers
+- [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) — Additive used in purification or crystallization buffers

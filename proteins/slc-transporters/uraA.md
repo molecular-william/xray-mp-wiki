@@ -1,5 +1,5 @@
 ---
-title: Uracil:Proton Symporter UraA from Escherichia coli
+title: "Uracil:Proton Symporter UraA from Escherichia coli"
 created: 2026-06-02
 updated: 2026-06-09
 type: protein
@@ -22,10 +22,10 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1038##nature09885 | 3QE7 | 2.8 A | P6_22 | Full-length UraA (residues 2-409) from E. coli strain O157:H7 cloned into pET21b vector with C-terminal His-tag; [URACIL](/xray-mp-wiki/reagents/ligands/uracil/) bound | [URACIL](/xray-mp-wiki/reagents/ligands/uracil/) |
-| doi/10.1038##cr.2017.83 | not specified in paper text (refers to new occluded structure) | 2.5 A | C2221 | Wild-type full-length UraA (residues 2-409) | [URACIL](/xray-mp-wiki/reagents/ligands/uracil/) (occluded state) |
+| doi/10.1038##cr.2017.83 | 5XLS | 2.5 A | C2221 | Wild-type full-length UraA (residues 2-409) | [URACIL](/xray-mp-wiki/reagents/ligands/uracil/) (occluded state) |
 | doi/10.1038##nature11403 | 3QE7 | 3.2 A | P6_22 | Wild-type full-length UraA | beta-NG (inward-open state) |
-| doi/10.1038##s41467-024-51814-8 |  | 3.5 A |  | UraA(G320P) mutant in complex with synthetic [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) Sy45; wide inward-open conformation |  |
-| doi/10.1038##s41467-024-51814-8 |  | 3.7 A |  | UraA(G320P) mutant in complex with synthetic [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) Sy45 with 1 mM [URACIL](/xray-mp-wiki/reagents/ligands/uracil/) | [URACIL](/xray-mp-wiki/reagents/ligands/uracil/) |
+| doi/10.1038##s41467-024-51814-8 | 8OMZ | 3.5 A |  | UraA(G320P) mutant in complex with synthetic [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) Sy45; wide inward-open conformation |  |
+| doi/10.1038##s41467-024-51814-8 | 8OMZ | 3.7 A |  | UraA(G320P) mutant in complex with synthetic [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) Sy45 with 1 mM [URACIL](/xray-mp-wiki/reagents/ligands/uracil/) | [URACIL](/xray-mp-wiki/reagents/ligands/uracil/) |
 
 ## Expression and Purification
 
@@ -34,10 +34,10 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature09885*
+#### Source: doi/10.1038##nature09885
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -46,12 +46,10 @@ UraA from Escherichia coli is a [URACIL](/xray-mp-wiki/reagents/ligands/uracil/)
 | Affinity purification | Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA (Qiagen) | 25 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM NaCl, 30 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 1 mM [URACIL](/xray-mp-wiki/reagents/ligands/uracil/), 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Resin washed three times with 10 ml wash buffer each; protein eluted with 250 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) in wash buffer. 1 mM [URACIL](/xray-mp-wiki/reagents/ligands/uracil/) included throughout. |
 | SEC buffer exchange | Gel filtration chromatography | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) 10/30 (GE Healthcare) | 25 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM NaCl, indicated detergent, 1 mM [URACIL](/xray-mp-wiki/reagents/ligands/uracil/) + 0.4% beta-NG (for crystallization) | Protein concentrated to ~10 mg/ml before SEC; peak fractions collected for crystallization. All buffers contained 1 mM [URACIL](/xray-mp-wiki/reagents/ligands/uracil/). |
 
-### Purification Workflow
-
-*Source: doi/10.1038##cr.2017.83*
+#### Source: doi/10.1038##cr.2017.83
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

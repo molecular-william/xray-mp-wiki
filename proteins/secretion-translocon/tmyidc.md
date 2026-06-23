@@ -1,5 +1,5 @@
 ---
-title: TmYidC (Thermotoga maritima YidC Insertase)
+title: "TmYidC (Thermotoga maritima YidC Insertase)"
 created: 2026-06-08
 updated: 2026-06-16
 type: protein
@@ -32,7 +32,7 @@ TmYidC is the YidC insertase/chaperone from the thermophilic bacterium Thermotog
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

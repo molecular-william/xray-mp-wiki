@@ -1,5 +1,5 @@
 ---
-title: Human Beta-2 Adrenergic Receptor (β2AR)
+title: "Human Beta-2 Adrenergic Receptor (β2AR)"
 created: 2026-06-08
 updated: 2026-06-09
 type: protein
@@ -37,22 +37,20 @@ The human beta-2 adrenergic receptor (β2AR) is a prototypic class A G-protein-c
 
 ### Purification Workflow
 
-*Source: doi/10.1126##science.aaw8981*
+#### Source: doi/10.1126##science.aaw8981
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Protein expression and purification | Expression in insect cells; T4L-β2AR purified in presence of agonist [BI-167107](/xray-mp-wiki/reagents/ligands/bi-167107/) | -- | -- + -- | Expression and purification details are described in previous references (Rosenbaum et al., Nature 2011; Rasmussen et al., Nature 2011; Ring et al., Nature 2013). The T4L-β2AR fusion maintains Cmpd-6 PAM activity. |
 | Complex formation | T4L-β2AR bound to [BI-167107](/xray-mp-wiki/reagents/ligands/bi-167107/), Nb6B9; Cmpd-6FA (3 mM) included in crystallization solution | -- | -- + -- | Cmpd-6FA (acetic acid derivative of Cmpd-6) was used at 3 mM (solubility limit) in crystallization condition. Cmpd-6FA has ~6-fold higher solubility than the parent Cmpd-6 and recapitulates its pharmacological properties. |
 
-### Purification Workflow
-
-*Source: doi/10.1107##S2052252519013137*
+#### Source: doi/10.1107##S2052252519013137
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -106,7 +104,7 @@ Only 7 of 14 residues forming the Cmpd-6FA allosteric site are conserved between
 
 ### LSP-SFX enables rapid multi-ligand GPCR structure determination
 
-Using [Serial Femtosecond Crystallography](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) (SFX) with lipidic sponge phase ([LSP](/xray-mp-wiki/concepts/membrane-mimetics/lipidic-sponge-phase/)) crystallization, eight room-temperature co-crystal structures of β2AR-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) were determined with six different ligands at 2.8-4.0 A resolution (Ishchenko et al., IUCrJ 2019). The [LSP](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/lipidic-sponge-phase/) yields thousands of uniformly sized isomorphous microcrystals per microliter of protein solution, requiring only submilligram quantities of protein. This approach enabled the first crystal structures of β2AR with [Carvedilol](/xray-mp-wiki/reagents/ligands/carvedilol/) and propranolol, and demonstrated the feasibility of rapid multi-ligand SBDD for GPCRs using XFEL sources.
+Using [Serial Femtosecond Crystallography](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) (SFX) with lipidic sponge phase ([LSP](/xray-mp-wiki/concepts/membrane-mimetics/lipidic-sponge-phase/)) crystallization, eight room-temperature co-crystal structures of β2AR-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) were determined with six different ligands at 2.8-4.0 A resolution (Ishchenko et al., IUCrJ 2019). The [LSP](/xray-mp-wiki/concepts/membrane-mimetics/lipidic-sponge-phase/) yields thousands of uniformly sized isomorphous microcrystals per microliter of protein solution, requiring only submilligram quantities of protein. This approach enabled the first crystal structures of β2AR with [Carvedilol](/xray-mp-wiki/reagents/ligands/carvedilol/) and propranolol, and demonstrated the feasibility of rapid multi-ligand SBDD for GPCRs using XFEL sources.
 
 ### Carvedilol binding mode reveals biased agonism mechanism
 

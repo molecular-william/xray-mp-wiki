@@ -1,5 +1,5 @@
 ---
-title: AmP2X — P2X Receptor from Amblyomma maculatum (Gulf Coast Tick)
+title: "AmP2X — P2X Receptor from Amblyomma maculatum (Gulf Coast Tick)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein

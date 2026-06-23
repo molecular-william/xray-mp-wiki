@@ -1,5 +1,5 @@
 ---
-title: GLUT5 Fructose Transporter
+title: "GLUT5 Fructose Transporter"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -35,7 +35,7 @@ GLUT5 is a fructose-specific facilitated-diffusion transporter belonging to the 
 - **Expression system**: S. cerevisiae FGY217
 - **Expression construct**: Full-length GLUT5 with C-terminal His6 tag, TEV cleavable
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -77,11 +77,11 @@ Comparison of the open outward-facing (rGLUT5) and open inward-facing (bGLUT5) s
 
 ### Substrate specificity switch via single point mutation
 
-Substitution of Gln166 (TM5) with glutamate (the equivalent residue in GLUT7) switches substrate preference from fructose to [Glucose](/xray-mp-wiki/reagents/additives/glucose/). The Q166E mutant shows robust D-[Glucose](/xray-mp-wiki/reagents/additives/glucose/) binding with a Kd of ~4 mM, whereas wild-type GLUT5 binds only [D Fructose](/xray-mp-wiki/reagents/substrates/d-fructose/) (Kd ~6-9 mM). This demonstrates that a single residue can determine substrate specificity among GLUT isoforms.
+Substitution of Gln166 (TM5) with glutamate (the equivalent residue in GLUT7) switches substrate preference from fructose to [Glucose](/xray-mp-wiki/reagents/additives/glucose/). The Q166E mutant shows robust D-[Glucose](/xray-mp-wiki/reagents/additives/glucose/) binding with a Kd of ~4 mM, whereas wild-type GLUT5 binds only [D Fructose](/xray-mp-wiki/reagents/ligands/d-fructose/) (Kd ~6-9 mM). This demonstrates that a single residue can determine substrate specificity among GLUT isoforms.
 
 ### Inter-bundle salt bridge network in conformational states
 
-In the outward-facing conformation, conserved salt bridges form between the N- and C-terminal bundles (Glu400-Arg158 and Glu151-Arg407), which break apart in the inward-facing state (~7 A and 13 A separation, respectively). An additional salt bridge linking Glu336 (TM8) to Arg340 connects to this inter-bundle network. Substitution of Glu151 or Glu400 to alanine significantly reduces [D Fructose](/xray-mp-wiki/reagents/substrates/d-fructose/) binding, showing coupling between salt bridge integrity and substrate binding. The intracellular helical domain (ICH1-ICH5) provides additional stabilization of the outward-facing conformation.
+In the outward-facing conformation, conserved salt bridges form between the N- and C-terminal bundles (Glu400-Arg158 and Glu151-Arg407), which break apart in the inward-facing state (~7 A and 13 A separation, respectively). An additional salt bridge linking Glu336 (TM8) to Arg340 connects to this inter-bundle network. Substitution of Glu151 or Glu400 to alanine significantly reduces [D Fructose](/xray-mp-wiki/reagents/ligands/d-fructose/) binding, showing coupling between salt bridge integrity and substrate binding. The intracellular helical domain (ICH1-ICH5) provides additional stabilization of the outward-facing conformation.
 
 
 ## Cross-References
@@ -95,4 +95,4 @@ In the outward-facing conformation, conserved salt bridges form between the N- a
 - [Peg](/xray-mp-wiki/reagents/additives/peg/) — Referenced in glut5 text
 - [Rocker](/xray-mp-wiki/proteins/miscellaneous/rocker/) — Referenced in glut5 text
 - [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Referenced in glut5 text
-- [D Fructose](/xray-mp-wiki/reagents/substrates/d-fructose/) — Referenced in glut5 text
+- [D Fructose](/xray-mp-wiki/reagents/ligands/d-fructose/) — Referenced in glut5 text

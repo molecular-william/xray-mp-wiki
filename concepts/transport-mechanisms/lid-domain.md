@@ -59,8 +59,8 @@ to the Lid domain clamping down the extracellular side.
 - [A. thaliana STP10](/xray-mp-wiki/proteins/mfs-transporters/stp10/) — STP10 structure at 2.4 Å resolution revealed the Lid domain with its conserved disulfide bridge and aromatic cluster, explaining high-affinity sugar recognition and proton coupling in the STP family.
 
 ## Related Concepts
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — STPs belong to the MFS superfamily; the Lid domain represents a unique structural elaboration of the MFS fold
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — STPs belong to the MFS superfamily; the Lid domain represents a unique structural elaboration of the MFS fold
 
 ## Cross-References
 - [A. thaliana STP10](/xray-mp-wiki/proteins/mfs-transporters/stp10/) — The STP10 structure first revealed the Lid domain architecture and its role in sugar transport
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — STPs belong to the MFS; Lid domain is a derived feature specific to the STP subfamily
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — STPs belong to the MFS; Lid domain is a derived feature specific to the STP subfamily

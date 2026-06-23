@@ -1,7 +1,7 @@
 ---
-title: LbSemiSWEET from Leptospira biflexa
+title: "LbSemiSWEET from Leptospira biflexa"
 created: 2026-05-27
-updated: 2026-06-03
+updated: 2026-06-08
 type: protein
 category: proteins
 layout: default
@@ -34,7 +34,7 @@ LbSemiSWEET is a sugar transporter from the SWEET family found in the bacterium 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -103,3 +103,10 @@ The L. biflexa [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-m
 - [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Additive used in purification or crystallization buffers
+- [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access/) — LbSemiSWEET exemplifies the alternating access model of transporter function
+- [Lipidic Cubic Phase (LCP) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Both D57A and Q20A mutants were crystallized using LCP with monoacylglycerols
+- [Molecular Dynamics Simulation](/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/) — MD simulations captured spontaneous outward-open to inward-open transitions
+- [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Tris-HCl pH 8.0 used as main purification buffer and crystallization reservoir
+- [PEG 400 (Polyethylene Glycol 400)](/xray-mp-wiki/reagents/additives/peg-400/) — Used as precipitant in both D57A and Q20A crystallization conditions
+- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification
+- [LbSemiSWEET from Leptospira biflexa](/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/) — Related protein structure

@@ -1,5 +1,5 @@
 ---
-title: SaTRIC Channel from Sulfolobus acidocaldarius
+title: "SaTRIC Channel from Sulfolobus acidocaldarius"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -21,10 +21,10 @@ SaTRIC is a Trimeric Intracellular Cation (TRIC) channel from the archaeon Sulfo
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##ncomms15103 | not specified | 3.1 A | P321 | SaTRIC residues 1-207, L148M/L180M double mutant, Se-Met labeled | not specified |
-| doi/10.1038##ncomms15103 | not specified | 1.6 A | P63 | SaTRIC residues 1-207, wild-type, Native | Na+ bound |
-| doi/10.1038##ncomms15103 | not specified | 1.8 A | P63 | SaTRIC residues 1-207, wild-type, Native | Mg2+ bound |
-| doi/10.1038##ncomms15103 | not specified | 2.4 A | R32 | SaTRIC residues 1-207, wild-type, Native | ion-free |
+| doi/10.1038##ncomms15103 |  | 3.1 A | P321 | SaTRIC residues 1-207, L148M/L180M double mutant, Se-Met labeled | not specified |
+| doi/10.1038##ncomms15103 |  | 1.6 A | P63 | SaTRIC residues 1-207, wild-type, Native | Na+ bound |
+| doi/10.1038##ncomms15103 |  | 1.8 A | P63 | SaTRIC residues 1-207, wild-type, Native | Mg2+ bound |
+| doi/10.1038##ncomms15103 |  | 2.4 A | R32 | SaTRIC residues 1-207, wild-type, Native | ion-free |
 
 ## Expression and Purification
 
@@ -35,7 +35,7 @@ SaTRIC is a Trimeric Intracellular Cation (TRIC) channel from the archaeon Sulfo
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

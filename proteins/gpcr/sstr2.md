@@ -1,5 +1,5 @@
 ---
-title: Somatostatin Receptor 2 (SSTR2)
+title: "Somatostatin Receptor 2 (SSTR2)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -34,14 +34,14 @@ Somatostatin receptor 2 (SSTR2) is a class A G protein-coupled receptor that is 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Membrane preparation | Cell collection and membrane isolation |  | Lysis buffer with protease inhibitors | Sf9 cells collected 48 h post-infection |
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

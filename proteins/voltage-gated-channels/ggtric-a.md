@@ -1,5 +1,5 @@
 ---
-title: GgTRIC-A (Chicken Trimeric Intracellular Cation Channel A)
+title: "GgTRIC-A (Chicken Trimeric Intracellular Cation Channel A)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -37,7 +37,7 @@ GgTRIC-A is the Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel (Gallus ga
 - **Expression system**: Schizosaccharomyces pombe
 - **Expression construct**: Full-length GgTRIC-A with C-terminal His tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -87,7 +87,7 @@ Paired [AGGC](/xray-mp-wiki/reagents/ligands/n-acetyl-s-geranylgeranyl-l-cystein
 - [Gating Modifier Toxin Binding Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/gating-modifier-toxin-binding/) — Referenced in ggtric-a description
 - [Structure-Based Design of Third-Generation Antipsychotics](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) — Referenced in ggtric-a description
 - [Prokaryotic TRIC Trimeric Intracellular Cation Channels](/xray-mp-wiki/proteins/voltage-gated-channels/tric-channel/) — Referenced in ggtric-a description
-- [Diacylglycerol Kinase (DgkA)](/xray-mp-wiki/proteins/enzymes/diacylglycerol-kinase/) — Referenced in ggtric-a description
+- [Diacylglycerol Kinase (DgkA)](/xray-mp-wiki/proteins/enzymes/dgka/) — Referenced in ggtric-a description
 - [Arabidopsis thaliana Sucrose Transporter SUC1](/xray-mp-wiki/proteins/mfs-transporters/at-suc1/) — Referenced in ggtric-a description
 - [Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel](/xray-mp-wiki/proteins/other-ion-channels/chicken-bestrophin-1/) — Referenced in ggtric-a description
 - [Octyl-beta-D-galactopyranoside](/xray-mp-wiki/reagents/detergents/octyl-beta-d-galactopyranoside/) — Referenced in ggtric-a description

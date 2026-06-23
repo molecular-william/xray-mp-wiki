@@ -1,5 +1,5 @@
 ---
-title: Human Endothelin ETB Receptor in Complex with Sarafotoxin S6b
+title: "Human Endothelin ETB Receptor in Complex with Sarafotoxin S6b"
 created: 2026-05-26
 updated: 2026-05-26
 type: protein
@@ -30,14 +30,14 @@ The human endothelin ETB receptor (ETBR) is a class A GPCR that binds endothelin
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Cell culture and membrane preparation | Sf9 insect cell expression | -- | 20 mM Tris-HCl, pH 7.5, 20% glycerol + -- | Cells infected with recombinant baculovirus at 4.0 x 10^6 cells/mL in SF900 II medium, grown for 48 h at 27 C. Membranes harvested by ultracentrifugation at 180,000g for 1 h. |
 | Solubilization | Membrane solubilization | -- | 20 mM Tris-HCl, pH 7.5, 200 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) + 1% [ddm](/xray-mp-wiki/reagents/detergents/ddm/) + 0.2% [cholesterol-hydrogen-succinate](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) (CHS) + 2 mg/mL [iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) | Solubilized for 1 h at 4 C. Supernatant separated by ultracentrifugation at 180,000g for 20 min. |
 | Affinity chromatography | [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) on TALON resin | [TALON](/xray-mp-wiki/reagents/additives/talon/) cobalt affinity resin (Clontech) | 20 mM Tris-HCl, pH 7.5, 500 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) + 0.1% [lmng](/xray-mp-wiki/reagents/detergents/lmng/) (wash) / 0.01% [lmng](/xray-mp-wiki/reagents/detergents/lmng/) (elution) + 0.01% CHS (wash) / 0.001% CHS (elution) | Incubated with TALON resin for 30 min. Washed with 10 column volumes. Eluted with 200 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/). |
-| TEV protease cleavage and tag removal | TEV protease cleavage followed by [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) depletion | [TALON](/xray-mp-wiki/reagents/additives/talon/) cobalt affinity resin (Clontech) | 20 mM Tris-HCl, pH 7.5, 500 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) + -- | Eluate treated with [TEV protease](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) and dialyzed. Cleaved GFP-His10 tag and TEV protease removed with TALON resin. |
+| TEV protease cleavage and tag removal | TEV protease cleavage followed by [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) depletion | [TALON](/xray-mp-wiki/reagents/additives/talon/) cobalt affinity resin (Clontech) | 20 mM Tris-HCl, pH 7.5, 500 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) + -- | Eluate treated with [TEV protease](/xray-mp-wiki/reagents/additives/tev-protease/) and dialyzed. Cleaved GFP-His10 tag and TEV protease removed with TALON resin. |
 | Size-exclusion chromatography | [Size-exclusion chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) on Superdex200 | [superdex-200](/xray-mp-wiki/reagents/additives/superdex-200/) | 20 mM Tris-HCl, pH 7.5, 150 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) + 0.01% [lmng](/xray-mp-wiki/reagents/detergents/lmng/) + 0.001% [cholesterol-hydrogen-succinate](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Peak fractions pooled, concentrated to 40 mg/mL using 50 kDa MW cutoff centrifugal filter. S6b added during concentration. |
 
 
@@ -84,7 +84,7 @@ The thermostabilizing mutations R124Y(1,55), D154A(2,57), K270A(5,35), DS342A(6,
 - [Human Endothelin ETB Receptor in Complex with Sarafotoxin S6b](/xray-mp-wiki/proteins/gpcr/etb-s6b-complex/) — This is the current entity being reconstructed
 - [Human Adenosine A2A Receptor (A2AR)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/) — Other class A GPCR in the database with similar thermostabilization approaches (T4 lysozyme, bRIL fusions)
 - [bRIL Fusion Protein](/xray-mp-wiki/reagents/protein-tags/bril/) — Related thermostabilization strategy for GPCRs (T4 lysozyme used in ETB instead)
-- [TEV Protease](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) — Used to cleave the GFP-His10 tag during purification
+- [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) — Used to cleave the GFP-His10 tag during purification
 - [LMNG (Lauryl Maltose Neopentyl Glycol)](/xray-mp-wiki/reagents/detergents/lmng/) — Primary detergent used in affinity chromatography wash/elution and SEC
 - [Cholesterol Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Added to solubilization and purification buffers to stabilize the GPCR
 - [DDM (N-Dodecyl-beta-D-maltoside)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used in initial membrane solubilization

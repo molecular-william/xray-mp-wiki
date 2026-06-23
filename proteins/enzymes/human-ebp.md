@@ -1,5 +1,5 @@
 ---
-title: Human Emopamil-Binding Protein (EBP)
+title: "Human Emopamil-Binding Protein (EBP)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -36,7 +36,7 @@ Emopamil-Binding Protein (EBP), also known as 3-beta-hydroxysteroid-Delta8,Delta
 - **Expression construct**: N-terminal Strep-tag or [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag/)
 - **Tag info**: Strep-tag II (crystallization), [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag/) (binding assays)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

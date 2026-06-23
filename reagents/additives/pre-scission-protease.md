@@ -1,12 +1,12 @@
 ---
 title: PreScission Protease
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-06-22
 type: reagent
 category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-additives]
-sources: [doi/10.1016##j.immuni.2020.02.004]
+sources: [doi/10.1016##j.immuni.2020.02.004, doi/10.1073##pnas.92.7.2658]
 verified: false
 ---
 
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-PreScission Protease is a site-specific protease that recognizes the seven-amino-acid sequence LEU-TGLU-PHE-GLN-GLY-PRO (LEVLFQGP) and cleaves between the Gln and Gly residues. It is derived from the enterokinase light chain and is widely used for removal of affinity tags (e.g., His-tag, GST, MBP) from recombinant proteins. Unlike TEV protease, PreScission protease has a different recognition sequence, providing an alternative for tag cleavage when TEV sites are not suitable or when dual-tag removal is needed.
+PreScission protease is a genetically engineered fusion of Human Rhinovirus 3C protease (HRV 3C) and GST. It recognizes the sequence LEVLFQ-G-P and cleaves between Q and G residues. The GST tag enables easy removal from the digestion mixture by glutathione affinity chromatography after cleavage. It is active at 4°C (unlike the wild-type HRV 3C) and is commonly used for tag removal in membrane protein purification workflows. The enzyme is compatible with typical buffer conditions (50 mM Tris-HCl, 150 mM NaCl, 1 mM DTT, pH 7.0-8.0).
 
 
 ## Properties
@@ -51,7 +51,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [TEV Protease](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) — Alternative site-specific protease for tag cleavage
+- [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) — Alternative site-specific protease for tag cleavage
 - [bRIL Fusion Protein](/xray-mp-wiki/reagents/protein-tags/bril/) — Fusion tag strategy that may require protease cleavage
 - [Interleukin-17A (IL-17A)](/xray-mp-wiki/proteins/receptors-signaling/il-17a/) — IL-17A construct uses PreScission protease for tag removal
 - [ITC](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/) — Method used in structure determination or purification

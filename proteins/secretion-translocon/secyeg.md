@@ -1,5 +1,5 @@
 ---
-title: Thermus thermophilus SecYEG Translocon Complex
+title: "Thermus thermophilus SecYEG Translocon Complex"
 created: 2026-05-27
 updated: 2026-06-09
 type: protein
@@ -23,7 +23,7 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
 |---|---|---|---|---|---|
 | doi/10.1016##j.celrep.2015.10.025 | 5AWW | 2.7 A | I222 | Full-length Thermus thermophilus SecYEG complex; SecY(R252G)-His6, SecE, SecG; expressed in E. coli BL21(DE3) | None |
 | doi/10.1016##j.celrep.2015.10.025 | 5CH4 | 3.6 A | C222_1 | Full-length Thermus thermophilus SecYEG complex with peptide-bound state; SecY(R252G)-His6, SecE, SecG; expressed in E. coli BL21(DE3) | SecE N-terminal MFARL peptide |
-| doi/10.1038##nature07421 | Not specified in paper | 3.2 A | Not specified in paper | Full-length Thermus thermophilus SecY(L2V/R252E) with C-terminal His6-tag (auto-cleaved), SecE; complexed with anti-SecY Fab fragment | None (apo-SecYE in pre-open state) |
+| doi/10.1038##nature07421 | 2ZJS | 3.2 A | Not specified in paper | Full-length Thermus thermophilus SecY(L2V/R252E) with C-terminal His6-tag (auto-cleaved), SecE; complexed with anti-SecY Fab fragment | None (apo-SecYE in pre-open state) |
 
 ## Expression and Purification
 
@@ -32,10 +32,10 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
 
 ### Purification Workflow
 
-*Source: doi/10.1016##j.celrep.2015.10.025*
+#### Source: doi/10.1016##j.celrep.2015.10.025
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -45,15 +45,13 @@ The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-cond
 | Size-exclusion chromatography | Size-exclusion chromatography | Superdex 200 10/300 GL column | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 300 mM NaCl, 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm), 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol) + 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm) | Concentrated to ~15 mg/ml using Amicon Ultra 50-kDa cutoff filter |
 | Ion-exchange chromatography | Ion-exchange chromatography | HiTrap SP HP column | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 0.25% n-decyl-beta-D-maltoside (DM), 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol) + 0.25% DM | Elution with linear gradient of 0-100% elution buffer (1 M NaCl, 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 0.25% DM, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol)); final sample dialyzed against 0.25% DM and 5% glycerol |
 
-### Purification Workflow
-
-*Source: doi/10.1038##nature07421*
+#### Source: doi/10.1038##nature07421
 
 - **Expression system**: Escherichia coli
 - **Expression construct**: Full-length T. thermophilus SecY(L2V/R252E)-His6, SecE; co-expressed from two plasmids (pTT159/pSTD343)
 - **Tag info**: C-terminal His6-tag on SecY; auto-cleaved during storage at 20 C for 2 weeks
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

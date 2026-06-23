@@ -1,5 +1,5 @@
 ---
-title: OLPVRII (Organic Lake Phycodnavirus Rhodopsin II)
+title: "OLPVRII (Organic Lake Phycodnavirus Rhodopsin II)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -33,7 +33,7 @@ OLPVRII (Organic Lake Phycodnavirus Rhodopsin II) is a viral rhodopsin from grou
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

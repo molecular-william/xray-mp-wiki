@@ -1,5 +1,5 @@
 ---
-title: Interleukin-17A (IL-17A)
+title: "Interleukin-17A (IL-17A)"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -23,7 +23,7 @@ IL-17A is a secreted cytokine and the best-studied member of the IL-17 cytokine 
 |---|---|---|---|---|---|
 | doi/10.1016##j.immuni.2020.02.004 | 5L9F | not specified | not specified | Human IL-17A, residues 34-155 of UniProt entry Q16552, with two point mutations (N68D and C129S) reported by Liu et al., 2013; fused to CD33 signal peptide, APP6-tag, and PreScission recognition sequence (LEVLFQGP)
  | -- |
-| doi/10.1016##j.immuni.2020.02.004 | not specified | not specified | not specified | IL-17A homodimer in complex with [IL-17RA](/xray-mp-wiki/proteins/receptors-signaling/il-17ra/) and [IL-17RC](/xray-mp-wiki/proteins/receptors-signaling/il-17rc/) (heteromeric 1:1:1 complex analyzed by [SEC-MALS](/xray-mp-wiki/methods/quality-assessment/sec-mals/) and [TR-FRET](/xray-mp-wiki/methods/quality-assessment/tr-fret/))
+| doi/10.1016##j.immuni.2020.02.004 | 6HG4 | not specified | not specified | IL-17A homodimer in complex with [IL-17RA](/xray-mp-wiki/proteins/receptors-signaling/il-17ra/) and [IL-17RC](/xray-mp-wiki/proteins/receptors-signaling/il-17rc/) (heteromeric 1:1:1 complex analyzed by [SEC-MALS](/xray-mp-wiki/methods/quality-assessment/sec-mals/) and [TR-FRET](/xray-mp-wiki/methods/quality-assessment/tr-fret/))
  | [IL-17RA](/xray-mp-wiki/proteins/receptors-signaling/il-17ra/) and [IL-17RC](/xray-mp-wiki/proteins/receptors-signaling/il-17rc/) |
 
 ## Expression and Purification
@@ -33,7 +33,7 @@ IL-17A is a secreted cytokine and the best-studied member of the IL-17 cytokine 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

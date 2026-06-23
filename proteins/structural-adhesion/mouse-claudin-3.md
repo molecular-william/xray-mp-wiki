@@ -1,5 +1,5 @@
 ---
-title: Mouse Claudin-3 (mCLDN-3)
+title: "Mouse Claudin-3 (mCLDN-3)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein

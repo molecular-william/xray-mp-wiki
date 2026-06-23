@@ -1,5 +1,5 @@
 ---
-title: F1-ATPase from Trypanosoma brucei
+title: "F1-ATPase from Trypanosoma brucei"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -32,7 +32,7 @@ complex assembly.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1720940115 | not stated in raw paper text | 3.2 | P2(1) | T. brucei F1-ATPase (alpha3-beta3-gamma-delta-epsilon + 3x p18) |  |
+| doi/10.1073##pnas.1720940115 | 6F5D | 3.2 | P2(1) | T. brucei F1-ATPase (alpha3-beta3-gamma-delta-epsilon + 3x p18) |  |
 
 ## Expression and Purification
 
@@ -43,7 +43,7 @@ complex assembly.
 
 - **Expression system**: T. brucei (native)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

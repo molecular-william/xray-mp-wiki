@@ -1,5 +1,5 @@
 ---
-title: Photosystem II
+title: "Photosystem II"
 created: 2026-06-02
 updated: 2026-06-17
 type: protein
@@ -24,20 +24,20 @@ Photosystem II (PSII) from Thermosynechococcus elongatus/vulcanus is a homodimer
 | doi/10.1038##nature04224 | 1S5L | 3.0 | P212121 | Photosystem II core complex from Thermosynechococcus elongatus, homodimer, 20 subunits per monomer | Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/), haem, bicarbonate, Mn4Ca cluster |
 | doi/10.1038##nature13453 | 4PBU | 5.0 | P212121 | Photosystem II core dimer, dark S1 state, [Serial Femtosecond Crystallography](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) | Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/), Mn4CaO5 cluster |
 | doi/10.1038##nature13453 | 4Q54 | 5.5 | P212121 | Photosystem II core dimer, double-flash putative S3 state, [Serial Femtosecond Crystallography](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) | Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/), Mn4CaO5 cluster |
-| doi/10.1038##nature16949 |  | 3.5 | P212121 | Photosystem II core dimer, continuous diffraction structure determined by iterative phasing | Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/), Mn4CaO5 cluster |
+| doi/10.1038##nature16949 | 5E7C | 3.5 | P212121 | Photosystem II core dimer, continuous diffraction structure determined by iterative phasing | Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/), Mn4CaO5 cluster |
 | doi/10.1038##nature21400 | 5WS5 | 2.35 | P212121 | Photosystem II core dimer from Thermosynechococcus vulcanus, pre-flashed dark-adapted S1 state, [TR-SFX](/xray-mp-wiki/methods/structure-determination/time-resolved-serial-femtosecond-crystallography/) | Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/), Mn4CaO5 cluster |
 | doi/10.1038##nature21400 | 5WS6 | 2.35 | P212121 | Photosystem II core dimer, two-flash 2F state (putative S3), [TR-SFX](/xray-mp-wiki/methods/structure-determination/time-resolved-serial-femtosecond-crystallography/) | Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/), Mn4CaO5 cluster |
 | doi/10.1038##nature21400 | 5GTH | 2.50 | P212121 | PSII core dimer, non-pre-flashed dark-adapted S1 state, [TR-SFX](/xray-mp-wiki/methods/structure-determination/time-resolved-serial-femtosecond-crystallography/) | Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/), Mn4CaO5 cluster |
 | doi/10.1038##nature21400 | 5GTI | 2.50 | P212121 | PSII core dimer, non-pre-flashed two-flash 2F state, [TR-SFX](/xray-mp-wiki/methods/structure-determination/time-resolved-serial-femtosecond-crystallography/) | Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/), Mn4CaO5 cluster |
-| doi/10.1038##nature13991 |  | 1.95 | P212121 | PSII core dimer from Thermosynechococcus vulcanus, S1 state, radiation-damage-free structure by XFEL at SACLA | Mn4CaO5 cluster, Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/), haem |
+| doi/10.1038##nature13991 | 4UB6 | 1.95 | P212121 | PSII core dimer from Thermosynechococcus vulcanus, S1 state, radiation-damage-free structure by XFEL at SACLA | Mn4CaO5 cluster, Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/), haem |
 | doi/10.1016##j.jbc.2023.104839 | 8GN0 | 2.10 | P212121 | Photosystem II core dimer from Thermostichus (Thermosynechococcus) vulcanus, DBBQ-bound | DBBQ (2,5-dibromo-1,4-benzoquinone), Chlorophyll a, beta-carotene, Mn4CaO5 cluster |
 | doi/10.1016##j.jbc.2023.104839 | 8GN2 | 2.10 | P212121 | Photosystem II core dimer from Thermostichus (Thermosynechococcus) vulcanus, PPBQ-bound | PPBQ (2-phenyl-1,4-benzoquinone), Chlorophyll a, beta-carotene, Mn4CaO5 cluster |
-| doi/10.1073##pnas.0135651100 |  | 3.7 |  | Oxygen-evolving PSII core complex from Thermosynechococcus vulcanus; built from sequences of D1, D2, CP47, CP43, PsbO (33-kDa), PsbU (12-kDa), and PsbV (cyt c550) subunits | Chlorophyll a (36 total: 6 in D1/D2, 17 in CP47, 13 in CP43), pheophytin a, beta-carotene, [HEME](/xray-mp-wiki/reagents/ligands/heme/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) [IRON](/xray-mp-wiki/reagents/additives/iron/), Mn4Ca cluster, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/) |
-| doi/10.1073##pnas.1219922110 |  | 2.1 | P212121 | Sr2+-substituted PSII core dimer from Thermosynechococcus vulcanus | Mn4SrO5 cluster |
+| doi/10.1073##pnas.0135651100 | 1IZL | 3.7 |  | Oxygen-evolving PSII core complex from Thermosynechococcus vulcanus; built from sequences of D1, D2, CP47, CP43, PsbO (33-kDa), PsbU (12-kDa), and PsbV (cyt c550) subunits | Chlorophyll a (36 total: 6 in D1/D2, 17 in CP47, 13 in CP43), pheophytin a, beta-carotene, [HEME](/xray-mp-wiki/reagents/ligands/heme/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) [IRON](/xray-mp-wiki/reagents/additives/iron/), Mn4Ca cluster, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/) |
+| doi/10.1073##pnas.1219922110 | 4IL6 | 2.1 | P212121 | Sr2+-substituted PSII core dimer from Thermosynechococcus vulcanus | Mn4SrO5 cluster |
 | doi/10.1126##science.1093087 | 1SSL | 3.5 |  | PSII core dimer from Thermosynechococcus elongatus, 19 protein subunits per monomer | Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/), [HEME](/xray-mp-wiki/reagents/ligands/heme/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) [IRON](/xray-mp-wiki/reagents/additives/iron/), Mn3CaO4 cluster, bicarbonate |
-| doi/10.1126##science.aax6998 |  | 2.15 |  | PSII core dimer from Thermosynechococcus vulcanus, S1 state, fixed-target XFEL serial crystallography at cryogenic temperature (dataset 1) | Mn4CaO5 cluster, Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/) |
-| doi/10.1126##science.aax6998 |  | 2.15 |  | PSII core dimer from Thermosynechococcus vulcanus, S2 state (one flash), fixed-target XFEL serial crystallography at cryogenic temperature (dataset 1) | Mn4CaO5 cluster, Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/) |
-| doi/10.1126##science.aax6998 |  | 2.15 |  | PSII core dimer from Thermosynechococcus vulcanus, S3 state (two flashes), fixed-target XFEL serial crystallography at cryogenic temperature (dataset 1) | Mn4CaO5 cluster (open cubane with O6 oxyl/oxo), Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/) |
+| doi/10.1126##science.aax6998 | 6JLJ | 2.15 |  | PSII core dimer from Thermosynechococcus vulcanus, S1 state, fixed-target XFEL serial crystallography at cryogenic temperature (dataset 1) | Mn4CaO5 cluster, Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/) |
+| doi/10.1126##science.aax6998 | 6JLJ | 2.15 |  | PSII core dimer from Thermosynechococcus vulcanus, S2 state (one flash), fixed-target XFEL serial crystallography at cryogenic temperature (dataset 1) | Mn4CaO5 cluster, Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/) |
+| doi/10.1126##science.aax6998 | 6JLJ | 2.15 |  | PSII core dimer from Thermosynechococcus vulcanus, S3 state (two flashes), fixed-target XFEL serial crystallography at cryogenic temperature (dataset 1) | Mn4CaO5 cluster (open cubane with O6 oxyl/oxo), Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/) |
 | doi/10.1073##pnas.2000529117 | 6W1O | 2.01-2.27 | P212121 | PSII core dimer from Thermosynechococcus elongatus, 0F (S1, dark-adapted state), room-temperature [TR-SFX](/xray-mp-wiki/methods/structure-determination/time-resolved-serial-femtosecond-crystallography/) | Mn4CaO5 cluster, Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/) |
 | doi/10.1073##pnas.2000529117 | 6W1P | 2.01-2.27 | P212121 | PSII core dimer from Thermosynechococcus elongatus, 1F (S2, single flash), room-temperature [TR-SFX](/xray-mp-wiki/methods/structure-determination/time-resolved-serial-femtosecond-crystallography/) | Mn4CaO5 cluster, Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/) |
 | doi/10.1073##pnas.2000529117 | 6W1Q | 2.01-2.27 | P212121 | PSII core dimer from Thermosynechococcus elongatus, 2F(50 us) transient during S2 to S3 transition, room-temperature [TR-SFX](/xray-mp-wiki/methods/structure-determination/time-resolved-serial-femtosecond-crystallography/) | Mn4CaO5 cluster, Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/) |
@@ -45,8 +45,8 @@ Photosystem II (PSII) from Thermosynechococcus elongatus/vulcanus is a homodimer
 | doi/10.1073##pnas.2000529117 | 6W1T | 2.01-2.27 | P212121 | PSII core dimer from Thermosynechococcus elongatus, 2F(250 us) transient during S2 to S3 transition, room-temperature [TR-SFX](/xray-mp-wiki/methods/structure-determination/time-resolved-serial-femtosecond-crystallography/) | Mn4CaO5 cluster, Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/) |
 | doi/10.1073##pnas.2000529117 | 6W1U | 2.01-2.27 | P212121 | PSII core dimer from Thermosynechococcus elongatus, 2F(400 us) transient during S2 to S3 transition, room-temperature [TR-SFX](/xray-mp-wiki/methods/structure-determination/time-resolved-serial-femtosecond-crystallography/) | Mn4CaO5 cluster, Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/) |
 | doi/10.1073##pnas.2000529117 | 6W1V | 2.01-2.27 | P212121 | PSII core dimer from Thermosynechococcus elongatus, 2F(200 ms) S3 state, room-temperature [TR-SFX](/xray-mp-wiki/methods/structure-determination/time-resolved-serial-femtosecond-crystallography/) | Mn4CaO5 cluster (open cubane with OX inserted between Mn1 and Ca), Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/) |
-| doi/10.1073##pnas.0812797106 |  | 3.7 | P212121 | PSII core dimer from Thermosynechococcus vulcanus, Br- substituted (Br-PSII), molecular replacement with 2AXT model | Mn4Ca cluster, Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/), 2 Br- ions (Br1, Br2) |
-| doi/10.1073##pnas.0812797106 |  | 4.0 | P212121 | PSII core dimer from Thermosynechococcus vulcanus, I- substituted (I-PSII), molecular replacement with 2AXT model | Mn4Ca cluster, Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/), 2 I- ions (I1, I2); additional I- at CP47-Cys-112, PsbTc-Cys-12, D2-Tyr-160 |
+| doi/10.1073##pnas.0812797106 | 3A0B | 3.7 | P212121 | PSII core dimer from Thermosynechococcus vulcanus, Br- substituted (Br-PSII), molecular replacement with 2AXT model | Mn4Ca cluster, Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/), 2 Br- ions (Br1, Br2) |
+| doi/10.1073##pnas.0812797106 | 3A0B | 4.0 | P212121 | PSII core dimer from Thermosynechococcus vulcanus, I- substituted (I-PSII), molecular replacement with 2AXT model | Mn4Ca cluster, Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/), 2 I- ions (I1, I2); additional I- at CP47-Cys-112, PsbTc-Cys-12, D2-Tyr-160 |
 | doi/10.1107##S2052252521002177 | 7cou | 2.25-2.40 | P2₁2₁2₁ | PSII core dimer from Thermosynechococcus vulcanus, dark-adapted S1 state (dark1), room-temperature [TR-SFX](/xray-mp-wiki/methods/structure-determination/time-resolved-serial-femtosecond-crystallography/) | Mn4CaO5 cluster, Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/) |
 | doi/10.1107##S2052252521002177 | 7cji | 2.25-2.40 | P2₁2₁2₁ | PSII core dimer from Thermosynechococcus vulcanus, dark-adapted S1 state (dark2), room-temperature [TR-SFX](/xray-mp-wiki/methods/structure-determination/time-resolved-serial-femtosecond-crystallography/) | Mn4CaO5 cluster, Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/) |
 | doi/10.1107##S2052252521002177 | 7cjj | 2.40 | P2₁2₁2₁ | PSII core dimer from Thermosynechococcus vulcanus, S2 state (10 ms after single flash), room-temperature [TR-SFX](/xray-mp-wiki/methods/structure-determination/time-resolved-serial-femtosecond-crystallography/) | Mn4CaO5 cluster (open cubane), Chlorophyll a, beta-carotene, pheophytin a, [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/) |
@@ -59,12 +59,12 @@ Photosystem II (PSII) from Thermosynechococcus elongatus/vulcanus is a homodimer
 
 ### Purification Workflow
 
-*Source: doi/10.1073##pnas.1219922110*
+#### Source: doi/10.1073##pnas.1219922110
 
 - **Expression system**: Thermosynechococcus vulcanus (native)
 - **Expression construct**: Sr2+-substituted PSII core dimer, no affinity tags
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -74,12 +74,10 @@ Photosystem II (PSII) from Thermosynechococcus elongatus/vulcanus is a homodimer
 **Final sample**: Purified Sr-PSII dimer
 **Purity**: Similar to Ca-PSII dimers by native and denatured electrophoresis
 
-### Purification Workflow
-
-*Source: doi/10.1038##nature04224*
+#### Source: doi/10.1038##nature04224
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

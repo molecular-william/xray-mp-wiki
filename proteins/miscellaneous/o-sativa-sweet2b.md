@@ -1,5 +1,5 @@
 ---
-title: O. sativa SWEET2b (OsSWEET2b)
+title: "O. sativa SWEET2b (OsSWEET2b)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -33,7 +33,7 @@ OsSWEET2b is a vacuolar glucose transporter from the SWEET family found in rice 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

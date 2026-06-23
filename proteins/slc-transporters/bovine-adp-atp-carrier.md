@@ -1,5 +1,5 @@
 ---
-title: Bovine ADP/ATP Carrier
+title: "Bovine ADP/ATP Carrier"
 created: 2026-05-26
 updated: 2026-05-26
 type: protein
@@ -27,7 +27,7 @@ The bovine ADP/ATP carrier (AAC) is a mitochondrial inner membrane protein that 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

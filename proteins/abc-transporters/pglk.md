@@ -1,5 +1,5 @@
 ---
-title: PglK ABC Flippase
+title: "PglK ABC Flippase"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,9 +21,9 @@ PglK is an ATP-binding cassette (ABC) flippase from Campylobacter jejuni that tr
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1016##j.str.2019.01.013 | 6HRC | 3.2 A | -- | PglK-E510Q mutant from Campylobacter jejuni, co-crystallized with ATPgammaS and MgCl2 | ATPgammaS (2 molecules), Mg2+ |
-| doi/10.1038##nature14953 | -- | 2.9 | P1 | PglK-E510Q mutant, apo-inward-1 state | -- |
-| doi/10.1038##nature14953 | -- | 3.9 | P12_1 | PglK-E510Q mutant, apo-inward-2 state | -- |
-| doi/10.1038##nature14953 | -- | 5.9 | P4_12_12 | PglK-E510Q mutant, outward-occluded state co-crystallized with ADP and MgCl2 | ADP, Mg2+ |
+| doi/10.1038##nature14953 | 5C78 | 2.9 | P1 | PglK-E510Q mutant, apo-inward-1 state | -- |
+| doi/10.1038##nature14953 | 5C78 | 3.9 | P12_1 | PglK-E510Q mutant, apo-inward-2 state | -- |
+| doi/10.1038##nature14953 | 5C78 | 5.9 | P4_12_12 | PglK-E510Q mutant, outward-occluded state co-crystallized with ADP and MgCl2 | ADP, Mg2+ |
 
 ## Expression and Purification
 
@@ -32,10 +32,10 @@ PglK is an ATP-binding cassette (ABC) flippase from Campylobacter jejuni that tr
 
 ### Purification Workflow
 
-*Source: doi/10.1016##j.str.2019.01.013*
+#### Source: doi/10.1016##j.str.2019.01.013
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -44,15 +44,13 @@ PglK is an ATP-binding cassette (ABC) flippase from Campylobacter jejuni that tr
 | Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA superflow | 50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM NaCl, [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) gradient + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | His-tag purification with stepwise elution |
 | Size-exclusion chromatography | SEC | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM NaCl, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) (lauryl [Maltose](/xray-mp-wiki/reagents/additives/maltose/) neopentyl glycol) | Buffer exchanged to [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) for crystallization |
 
-### Purification Workflow
-
-*Source: doi/10.1038##nature14953*
+#### Source: doi/10.1038##nature14953
 
 - **Expression system**: E. coli BL21-Gold (DE3)
 - **Expression construct**: PglK with N-terminal His10 tag
 - **Tag info**: N-terminal His10 affinity tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: sTeLIC (Tevnia jerichonana Endosymbiont Pentameric Ligand-Gated Ion Channel)
+title: "sTeLIC (Tevnia jerichonana Endosymbiont Pentameric Ligand-Gated Ion Channel)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,11 +21,11 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1717700115 | Not specified in text | 2.3 | Not specified | sTeLIC wild-type at pH 8.0 |  |
+| doi/10.1073##pnas.1717700115 | 6FL9 | 2.3 | Not specified | sTeLIC wild-type at pH 8.0 |  |
 | doi/10.1073##pnas.1717700115 | 6FLI | Not specified | — | sTeLIC + 4-bromo-cinnamate (4-BrC) complex | 4-BrC |
 | doi/10.1073##pnas.1717700115 | 6FVR | Not specified | — | sTeLIC with Cs+ ions |  |
-| doi/10.1073##pnas.1717700115 | Not specified in text | Not specified | — | sTeLIC R86A mutant |  |
-| doi/10.1073##pnas.1717700115 | Not specified in text | Not specified | — | sTeLIC soaked with BaCl2 |  |
+| doi/10.1073##pnas.1717700115 | 6FL9 | Not specified | — | sTeLIC R86A mutant |  |
+| doi/10.1073##pnas.1717700115 | 6FL9 | Not specified | — | sTeLIC soaked with BaCl2 |  |
 
 ## Expression and Purification
 
@@ -38,7 +38,7 @@ sTeLIC is a prokaryotic pentameric ligand-gated ion channel (pLGIC) from a gamma
 - **Expression system**: Not specified
 - **Expression construct**: Full-length sTeLIC
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

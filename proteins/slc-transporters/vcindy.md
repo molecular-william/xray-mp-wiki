@@ -1,5 +1,5 @@
 ---
-title: VcINDY Sodium-Dependent Dicarboxylate Transporter
+title: "VcINDY Sodium-Dependent Dicarboxylate Transporter"
 created: 2026-06-08
 updated: 2026-06-09
 type: protein
@@ -21,11 +21,11 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature11542 | not specified in paper | 3.2 A | C2 | N-terminal 10X His-tagged VcINDY | [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) |
-| doi/10.1038##ncomms15009 | not specified in paper | 2.8 A | not specified | Full-length VcINDY (462 residues), N-terminal deca-histidine tag cleaved | [Succinate (Succinic Acid)](/xray-mp-wiki/reagents/ligands/succinate/) |
-| doi/10.1038##ncomms15009 | not specified in paper | 2.8 A | not specified | Full-length VcINDY (462 residues), N-terminal deca-histidine tag cleaved | [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) |
-| doi/10.1038##ncomms15009 | not specified in paper | 2.8 A | not specified | MT5 (humanized VcINDY octuple mutant) | [Succinate (Succinic Acid)](/xray-mp-wiki/reagents/ligands/succinate/) |
-| doi/10.1038##ncomms15009 | not specified in paper | 2.8 A | not specified | MT5 (humanized VcINDY octuple mutant) | [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) |
+| doi/10.1038##nature11542 | 4F35 | 3.2 A | C2 | N-terminal 10X His-tagged VcINDY | [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) |
+| doi/10.1038##ncomms15009 | 5UL7 | 2.8 A | not specified | Full-length VcINDY (462 residues), N-terminal deca-histidine tag cleaved | [Succinate (Succinic Acid)](/xray-mp-wiki/reagents/ligands/succinate/) |
+| doi/10.1038##ncomms15009 | 5UL7 | 2.8 A | not specified | Full-length VcINDY (462 residues), N-terminal deca-histidine tag cleaved | [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) |
+| doi/10.1038##ncomms15009 | 5UL7 | 2.8 A | not specified | MT5 (humanized VcINDY octuple mutant) | [Succinate (Succinic Acid)](/xray-mp-wiki/reagents/ligands/succinate/) |
+| doi/10.1038##ncomms15009 | 5UL7 | 2.8 A | not specified | MT5 (humanized VcINDY octuple mutant) | [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) |
 
 ## Expression and Purification
 
@@ -38,7 +38,7 @@ VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, bel
 - **Expression system**: E. coli BL21-AI
 - **Expression construct**: N-terminal 10X His-tagged VcINDY
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -138,7 +138,7 @@ site is conserved between the DASS and AbgT protein families.
 - [N-Decyl-beta-D-maltopyranoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Primary detergent used for VcINDY purification
 - [MOPS Buffer](/xray-mp-wiki/reagents/buffers/mops/) — Used in crystallization reservoir (50 mM, pH 6.5)
 - [Lithium Citrate](/xray-mp-wiki/reagents/additives/lithium-citrate/) — Used in purification buffer and crystallization reservoir
-- [Citrate](/xray-mp-wiki/reagents/ligands/citrate/) — Primary substrate and bound ligand in the crystal structure
+- [Citrate](/xray-mp-wiki/reagents/buffers/citrate/) — Primary substrate and bound ligand in the crystal structure
 - [Succinate](/xray-mp-wiki/reagents/ligands/succinate/) — Alternative dicarboxylate substrate of VcINDY
 - [Selenomethionine](/xray-mp-wiki/reagents/additives/selenomethionine/) — Used for SeMet SAD phasing
 - [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Method used in structure determination or purification

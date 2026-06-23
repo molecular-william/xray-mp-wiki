@@ -1,5 +1,5 @@
 ---
-title: Mhp1 Benzyl-Hydantoin Transporter from Microbacterium liquefaciens
+title: "Mhp1 Benzyl-Hydantoin Transporter from Microbacterium liquefaciens"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -37,7 +37,7 @@ Mhp1 is a member of the Nucleobase-Cation-Symport-1 (NCS1) family from Microbact
 - **Expression construct**: Full-length Mhp1
 - **Tag info**: His-tag (see supporting material)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

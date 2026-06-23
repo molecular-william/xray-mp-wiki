@@ -1,5 +1,5 @@
 ---
-title: Escherichia coli Site-2 Protease Homolog RseP (EcRseP)
+title: "Escherichia coli Site-2 Protease Homolog RseP (EcRseP)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -34,14 +34,14 @@ No structure determined.
 - **Expression construct**: Full-length EcRseP with C-terminal TEV consensus sequence, His8 tag, Myc epitope, and PA tag
 - **Tag info**: C-terminal TEV-His8-Myc-PA, TEV cleaved for crystallization
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Cell lysis | Sonication | — | 10 mM  Hcl]] pH 7.4, 150 mM NaCl | Lysed cells centrifuged at 40,000g for 45 min, supernatant ultracentrifuged at 200,000g for 90 min |
 | Membrane solubilization | Detergent extraction | — | 40 mM  Hcl]] pH 8.5, 150 mM NaCl + 1%  monododecanoate (SM) | Equal volume of solubilization buffer added to membrane suspension |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA | Ni-NTA agarose | 20 mM  Hcl]] pH 8.0, 300 mM NaCl, 10%  + 0.03% , 0.006% [CHS](/xray-mp-wiki/reagents/cholesterol-hydrogen-succinate/) | Wash with 50 mM , elute with 300 mM ; His8 tag cleaved with [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) overnight at 20°C |
-| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | SEC | Superdex 200 10/300 GL | 20 mM  Hcl]] pH 8.0, 300 mM NaCl, 10%  + 0.03% , 0.006% [CHS](/xray-mp-wiki/reagents/cholesterol-hydrogen-succinate/) |  added to SEC buffer for co-crystallization |
+| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA | Ni-NTA agarose | 20 mM  Hcl]] pH 8.0, 300 mM NaCl, 10%  + 0.03% , 0.006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Wash with 50 mM , elute with 300 mM ; His8 tag cleaved with [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/additives/tev-protease/) overnight at 20°C |
+| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | SEC | Superdex 200 10/300 GL | 20 mM  Hcl]] pH 8.0, 300 mM NaCl, 10%  + 0.03% , 0.006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) |  added to SEC buffer for co-crystallization |
 | Reverse Ni-NTA | Ni-NTA (flow-through) | — |  | Tag-cleaved protein collected in unbound fraction after TEV cleavage |
 
 
@@ -80,7 +80,7 @@ EcRseP regulates substrate cleavage through three processes: (1) size exclusion 
 - [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-proteolysis/) — EcRseP is a member of the S2P family of intramembrane proteases
 - [Site-2 Protease Family Mechanism](/xray-mp-wiki/concepts/protein-families/site-2-protease-family-mechanism/) — EcRseP is the defining bacterial group I S2P member
 - [GlpG Rhomboid Intramembrane Protease](/xray-mp-wiki/proteins/enzymes/glpg/) — Another intramembrane protease family with analogous gating mechanism
-- [Batimastat](/xray-mp-wiki/reagents/batimastat/) — Referenced in ecrsep text
+- [Batimastat](/xray-mp-wiki/reagents/ligands/batimastat/) — Referenced in ecrsep text
 - [Iptg](/xray-mp-wiki/reagents/additives/iptg/) — Referenced in ecrsep text
 - [Ampicillin](/xray-mp-wiki/reagents/antibiotics/ampicillin/) — Referenced in ecrsep text
 - [Tris](/xray-mp-wiki/reagents/buffers/tris/) — Referenced in ecrsep text

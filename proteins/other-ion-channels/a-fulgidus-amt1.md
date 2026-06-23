@@ -1,5 +1,5 @@
 ---
-title: Amt-1 ammonium transporter from Archaeoglobus fulgidus
+title: "Amt-1 ammonium transporter from Archaeoglobus fulgidus"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -30,7 +30,7 @@ Amt-1 is one of three ammonium transporters (Amts) encoded in the genome of the 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -78,13 +78,13 @@ The structure supports a hydrophobic channel consistent with NH3 transport, but 
 
 ## Cross-References
 
-- [AmtB ammonium transporter / ammonia channel from Escherichia coli](/xray-mp-wiki/proteins/other-ion-channels/e-coli-amtb/) — Amt-1 is the archaeal homolog of E. coli AmtB, with conserved structure and mechanism
+- [AmtB ammonium transporter / ammonia channel from Escherichia coli](/xray-mp-wiki/proteins/other-ion-channels/amt-b/) — Amt-1 is the archaeal homolog of E. coli AmtB, with conserved structure and mechanism
 - [Ammonia Channel Mechanism](/xray-mp-wiki/concepts/ammonia-channel-mechanism/) — Amt-1 is an ammonium transporter/ammonia channel from the same Mep/Amt/Rh family
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Method used in the study
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein mentioned in the study
 - [GlnK PII Signal Transduction Protein (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/glnk/) — Related protein mentioned in the study
 - [AdiC Arginine/Agmatine Antiporter](/xray-mp-wiki/proteins/slc-transporters/adic/) — Related protein mentioned in the study
 - [ELIC (Erwinia chrysanthemi Pentameric Ligand-Gated Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/elic/) — Related protein mentioned in the study
-- [AmtB ammonium transporter / ammonia channel from Escherichia coli](/xray-mp-wiki/proteins/other-ion-channels/e-coli-amtb/) — Related protein mentioned in the study
+- [AmtB ammonium transporter / ammonia channel from Escherichia coli](/xray-mp-wiki/proteins/other-ion-channels/amt-b/) — Related protein mentioned in the study
 - [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — Detergent used in purification
 - [TES Buffer (N-Tris(hydroxymethyl)methyl-2-aminoethanesulfonic acid)](/xray-mp-wiki/reagents/buffers/tes/) — Reagent used in the study

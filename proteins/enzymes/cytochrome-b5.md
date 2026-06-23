@@ -1,5 +1,5 @@
 ---
-title: Cytochrome b5
+title: "Cytochrome b5"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -31,7 +31,7 @@ Cytochrome b5 is a membrane-embedded electron transfer protein consisting of a s
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

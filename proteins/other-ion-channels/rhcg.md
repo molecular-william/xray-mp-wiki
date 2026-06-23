@@ -1,5 +1,5 @@
 ---
-title: Human Rhesus C Glycoprotein (RhCG)
+title: "Human Rhesus C Glycoprotein (RhCG)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ RhCG (Rhesus C glycoprotein) is a human ammonia channel belonging to the Rh fami
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1003587107 | -- | 2.1 A | -- | Human RhCG expressed in HEK293S cells | -- |
+| doi/10.1073##pnas.1003587107 | 3HD6 | 2.1 A | -- | Human RhCG expressed in HEK293S cells | -- |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ RhCG (Rhesus C glycoprotein) is a human ammonia channel belonging to the Rh fami
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: AvGluR1 Ligand-Binding Domain (LBD)
+title: "AvGluR1 Ligand-Binding Domain (LBD)"
 created: 2026-05-28
 updated: 2026-05-28
 type: protein
@@ -48,7 +48,7 @@ The ligand-binding domain (LBD) of AvGluR1, an ionotropic glutamate receptor fro
 - **Expression construct**: S1 A433-K543 + GT linker + S2 L656-P788, N-terminal MH8SSGLVPRGS affinity tag
 - **Tag info**: MH8SSGLVPRGS [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) with [Thrombin](/xray-mp-wiki/reagents/additives/thrombin/) cleavage site
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -102,8 +102,8 @@ Treatment with [Concanavalin A](/xray-mp-wiki/reagents/additives/concanavalin-a/
 - [L-Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/) — Acidic amino acid ligand binding to AvGluR1 LBD
 - [L-Alanine](/xray-mp-wiki/reagents/substrates/l-alanine/) — Neutral amino acid ligand using chloride ion as surrogate
 - [L-Serine](/xray-mp-wiki/reagents/substrates/l-serine/) — Neutral amino acid ligand using chloride ion as surrogate
-- [L-Methionine](/xray-mp-wiki/reagents/l-methionine/) — Neutral amino acid ligand with reduced chloride dependence
-- [L-Phenylalanine](/xray-mp-wiki/reagents/l-phenylalanine/) — Hydrophobic amino acid ligand that occludes anion binding site
+- [L-Methionine](/xray-mp-wiki/reagents/ligands/l-methionine/) — Neutral amino acid ligand with reduced chloride dependence
+- [L-Phenylalanine](/xray-mp-wiki/reagents/ligands/l-phenylalanine/) — Hydrophobic amino acid ligand that occludes anion binding site
 - [GluA2 LBD](/xray-mp-wiki/proteins/other-ion-channels/glua2-lbd/) — AMPA receptor LBD used for structural comparison of dimer assembly
 - [Allosteric Regulation](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — ATD-LBD linker conformation and allosteric regulation of activation
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Referenced in avglur1

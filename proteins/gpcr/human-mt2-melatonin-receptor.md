@@ -1,5 +1,5 @@
 ---
-title: Human MT2 Melatonin Receptor
+title: "Human MT2 Melatonin Receptor"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -38,7 +38,7 @@ The human MT2 melatonin receptor (type 1B, MTNR1B) is a class A G-protein-couple
 - **Expression construct**: MT2-CC
 - **Tag info**: N-terminal HA signal + FLAG tag; C-terminal PreScission site + 10x His tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

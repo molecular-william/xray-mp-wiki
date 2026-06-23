@@ -1,5 +1,5 @@
 ---
-title: Human Ghrelin Receptor (GHSR)
+title: "Human Ghrelin Receptor (GHSR)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -20,7 +20,7 @@ The human ghrelin receptor (GHSR, growth hormone secretagogue receptor) is a cla
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41467-020-17554-1 |  |  |  | Engineered construct: N-terminal 28 residues replaced with thermostabilized apocytochrome b562RIL (bRIL), C-terminal 20 residues deleted. Mutations: T130K (thermostability), N188Q (glycosylation site removal). Fab 7881 fragment antibody added to facilitate crystallization. | Compound 21 (synthesized from YIL-781) |
+| doi/10.1038##s41467-020-17554-1 | 6KO5 |  |  | Engineered construct: N-terminal 28 residues replaced with thermostabilized apocytochrome b562RIL (bRIL), C-terminal 20 residues deleted. Mutations: T130K (thermostability), N188Q (glycosylation site removal). Fab 7881 fragment antibody added to facilitate crystallization. | Compound 21 (synthesized from YIL-781) |
 
 ## Expression and Purification
 
@@ -30,7 +30,7 @@ The human ghrelin receptor (GHSR, growth hormone secretagogue receptor) is a cla
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: SsZntA (Shigella sonnei Zn2+-ATPase)
+title: "SsZntA (Shigella sonnei Zn2+-ATPase)"
 created: 2026-06-09
 updated: 2026-06-16
 type: protein
@@ -29,7 +29,7 @@ c axis of 320 A, preventing successful phasing by [Molecular Replacement](/xray-
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1107##S2052252515008969 | -- | 4.0 | P422 | Shigella sonnei Zn2+-ATPase (SsZntA) expressed in E. coli C41 cells,
+| doi/10.1107##S2052252515008969 | 4XOU | 4.0 | P422 | Shigella sonnei Zn2+-ATPase (SsZntA) expressed in E. coli C41 cells,
 purified by Ni2+-NTA and gel filtration, crystallized with AlF4- inhibitor | AlF4- |
 
 ## Expression and Purification
@@ -41,7 +41,7 @@ purified by Ni2+-NTA and gel filtration, crystallized with AlF4- inhibitor | AlF
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

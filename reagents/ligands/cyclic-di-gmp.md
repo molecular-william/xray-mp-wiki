@@ -46,5 +46,5 @@ No comparison data available.
 ## Cross-References
 
 - [BcsA from Rhodobacter sphaeroides](/xray-mp-wiki/proteins/enzymes/bcsa/) — Binds PilZ domain of BcsA to activate cellulose synthase
-- [UDP-Glucose (UDP-Glc)](/xray-mp-wiki/reagents/ligands/udp-glucose/) — Co-substrate for cellulose synthase; activity requires both UDP-Glc and cyclic-di-GMP
+- [UDP-Glucose (UDP-Glc)](/xray-mp-wiki/reagents/substrates/udp-glucose/) — Co-substrate for cellulose synthase; activity requires both UDP-Glc and cyclic-di-GMP
 - [BCSB](/xray-mp-wiki/proteins/enzymes/bcsb/) — Related protein structure

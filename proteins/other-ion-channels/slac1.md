@@ -1,5 +1,5 @@
 ---
-title: SLAC1 (SLOW ANION CHANNEL 1 from Arabidopsis thaliana)
+title: "SLAC1 (SLOW ANION CHANNEL 1 from Arabidopsis thaliana)"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -21,7 +21,7 @@ SLAC1 (SLOW ANION CHANNEL 1) is a plant anion channel from Arabidopsis thaliana 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature09487 | Not available (homology model) | Not applicable (homology model based on [HITEHA](/xray-mp-wiki/proteins/other-ion-channels/hiteha/)) | Not applicable | SLAC1 transmembrane domain (residues 188-504) homology model on [HITEHA](/xray-mp-wiki/proteins/other-ion-channels/hiteha/) scaffold | Not applicable (homology model) |
+| doi/10.1038##nature09487 | 3M71 | Not applicable (homology model based on [HITEHA](/xray-mp-wiki/proteins/other-ion-channels/hiteha/)) | Not applicable | SLAC1 transmembrane domain (residues 188-504) homology model on [HITEHA](/xray-mp-wiki/proteins/other-ion-channels/hiteha/) scaffold | Not applicable (homology model) |
 
 ## Expression and Purification
 

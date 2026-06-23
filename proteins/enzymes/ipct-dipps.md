@@ -1,5 +1,5 @@
 ---
-title: IPCT/DIPPS from Archaeoglobus fulgidus (Bifunctional CTP:Inositol-1-Phosphate Cytidylyltransferase/CDP-Inositol:Inositol-1-Phosphate Phosphotransferase)
+title: "IPCT/DIPPS from Archaeoglobus fulgidus (Bifunctional CTP:Inositol-1-Phosphate Cytidylyltransferase/CDP-Inositol:Inositol-1-Phosphate Phosphotransferase)"
 created: 2026-06-05
 updated: 2026-06-05
 type: protein
@@ -30,7 +30,7 @@ IPCT/DIPPS is a bifunctional membrane enzyme from the hyperthermophilic archaeon
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ Site-directed mutagenesis validated functional importance of conserved residues.
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Stabilizer in lysis buffer (5%) and solubilization buffer (20%)
 - [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/) — Salt in lysis buffer (200 mM) and solubilization buffer (1 M)
 - [EDTA](/xray-mp-wiki/reagents/additives/edta/) — Chelator in lysis buffer (1 mM)
-- [Sucrose](/xray-mp-wiki/reagents/additives/sucrose/) — Osmoprotectant in lysis buffer (100 mM) and solubilization buffer (100 mM)
+- [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) — Osmoprotectant in lysis buffer (100 mM) and solubilization buffer (100 mM)
 - [PEG200](/xray-mp-wiki/reagents/additives/peg200/) — Crystallization precipitant in HiLiDe method
 - [Magnesium Chloride (MgCl2)](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Essential catalytic cofactor; present in solubilization buffer (1 mM) and purification wash buffer (5 mM)
 - [Imidazole](/xray-mp-wiki/reagents/additives/ptg/) — Component of solubilization buffer (50 mM) and elution buffer (500 mM) for His-tag purification
@@ -96,7 +96,7 @@ Site-directed mutagenesis validated functional importance of conserved residues.
 - [Phenylmethanesulfonylfluoride (PMSF)](/xray-mp-wiki/reagents/additives/pmsf/) — Protease inhibitor in lysis buffer (0.5 mM)
 - [Isopropyl beta-D-1-Thiogalactopyranoside (IPTG)](/xray-mp-wiki/reagents/additives/isopropyl-beta-d-thiogalactoside/) — Inducer for protein expression (0.5 mM)
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — HisTrap HP Ni-affinity column used for His-tagged IPCT/DIPPS purification
-- [HiLiDe Crystallization](/xray-mp-wiki/methods/hilide-crystallization/) — Crystallization method used for IPCT/DIPPS in detergent conditions
+- [HiLiDe Crystallization](/xray-mp-wiki/methods/crystallization/hilide-crystallization/) — Crystallization method used for IPCT/DIPPS in detergent conditions
 - [Lipidic Cubic Phase (LCP) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — In meso crystallization method used for IPCT/DIPPS
 - [Molecular Replacement (MR)](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Structure determination method used for 4MND
 - [CDP-Alcohol Phosphotransferase Family](/xray-mp-wiki/concepts/protein-families/cdp-alcohol-phosphotransferase-family/) — IPCT/DIPPS DIPPS domain belongs to the CDP-alcohol phosphatidyltransferase family (CDP-OH_P_trans)

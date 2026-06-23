@@ -1,5 +1,5 @@
 ---
-title: Cannabinoid Receptor 1 (CNR1/CB1)
+title: "Cannabinoid Receptor 1 (CNR1/CB1)"
 created: 2026-05-27
 updated: 2026-06-16
 type: protein
@@ -39,13 +39,13 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 
 ### Purification Workflow
 
-*Source: doi/10.1016##j.cell.2020.01.008*
+#### Source: doi/10.1016##j.cell.2020.01.008
 
 - **Expression system**: Sf9 insect cells
 - **Expression construct**: CB1 purified from recombinant expression
 - **Tag info**: Not specified
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -55,15 +55,13 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 **Final sample**: 1 mg/mL
 **Purity**: Peak fractions concentrated for [Cryo em](/xray-mp-wiki/methods/structure-determination/cryo-em) studies
 
-### Purification Workflow
-
-*Source: doi/10.1038##nature20613*
+#### Source: doi/10.1038##nature20613
 
 - **Expression system**: Sf9 insect cells
 - **Expression construct**: CB1(T210A)-PGS fusion; N-terminal HA signal + Flag tag; C-terminal 10x His-tag; N-terminal 89 residues truncated; C-terminal 51 residues truncated; ICL3 (residues 302-332) replaced with PGS; T210A mutation
 - **Tag info**: HA signal, Flag epitope (N-term), 10x His-tag (C-term), TEV site
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -76,15 +74,13 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 **Final sample**: Purified CB1(T210A)-PGS in 20 mM HEPES pH 7.5, 150 mM NaCl, 0.05% LMNG, 0.005% CHS, 1 uM [Taranabant](/xray-mp-wiki/reagents/ligands/taranabant)
 **Purity**: Monodisperse peak by SEC; SDS-PAGE verified
 
-### Purification Workflow
-
-*Source: doi/10.1016##j.cell.2016.10.004*
+#### Source: doi/10.1016##j.cell.2016.10.004
 
 - **Expression system**: HEK293T cells (mammalian)
 - **Expression construct**: CB1-Flavodoxin fusion; N-terminal HA signal + Flag tag; C-terminal 10x His-tag; ICL3 (Val306-Pro332) replaced with Flavodoxin; N-terminal 98 residues truncated; C-terminal 58 residues truncated
 - **Tag info**: HA signal, Flag epitope (N-term), 10x His-tag (C-term)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

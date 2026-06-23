@@ -1,5 +1,5 @@
 ---
-title: Human Equilibrative Nucleoside Transporter 1 (hENT1)
+title: "Human Equilibrative Nucleoside Transporter 1 (hENT1)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-hENT1 (SLC29A1) is the founding member of the SLC29 family of equilibrative nucleoside transporters. It mediates the energy-independent facilitative diffusion of adenosine and other nucleosides across cellular membranes, playing crucial roles in adenosine signaling, nucleoside salvage for DNA/RNA synthesis, and cellular uptake of nucleoside-derived anticancer and antiviral drugs. hENT1 is the target of adenosine reuptake inhibitors (AdoRIs), clinically used as vasodilators and antithrombotic agents. The crystal structures of hENT1 in complex with [Dilazep](/xray-mp-wiki/reagents/ligands/dilazep/) and [NBMPR](/xray-mp-wiki/reagents/ligands/nbmpr/) revealed an 11-TM helix architecture with a pseudo-symmetric 6+5 topology distinct from the canonical 12-TM [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) fold, representing the first experimental structures of any SLC29 family member.
+hENT1 (SLC29A1) is the founding member of the SLC29 family of equilibrative nucleoside transporters. It mediates the energy-independent facilitative diffusion of adenosine and other nucleosides across cellular membranes, playing crucial roles in adenosine signaling, nucleoside salvage for DNA/RNA synthesis, and cellular uptake of nucleoside-derived anticancer and antiviral drugs. hENT1 is the target of adenosine reuptake inhibitors (AdoRIs), clinically used as vasodilators and antithrombotic agents. The crystal structures of hENT1 in complex with [Dilazep](/xray-mp-wiki/reagents/ligands/dilazep/) and [NBMPR](/xray-mp-wiki/reagents/ligands/nbmpr/) revealed an 11-TM helix architecture with a pseudo-symmetric 6+5 topology distinct from the canonical 12-TM [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) fold, representing the first experimental structures of any SLC29 family member.
 
 
 ## Structure Determination
@@ -38,7 +38,7 @@ hENT1 (SLC29A1) is the founding member of the SLC29 family of equilibrative nucl
 - **Expression construct**: hENT1_cryst-GFP-FLAG-His10
 - **Tag info**: FLAG-His10 tag, cleaved by Precission Protease
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ hENT1 (SLC29A1) is the founding member of the SLC29 family of equilibrative nucl
 
 ### SLC29 family architecture
 
-hENT1 is composed of 11 transmembrane helices with a pseudo-symmetric 6+5 topology, distinct from the canonical 12-TM [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) fold. The N-domain (TM1-TM6) and C-domain (TM7-TM11) form the central cavity accessible from the extracellular side. An extracellular thin gate (Met33-Pro308) and intracellular thick gate (including Arg111-Glu428 salt bridge) define the outward-facing conformation.
+hENT1 is composed of 11 transmembrane helices with a pseudo-symmetric 6+5 topology, distinct from the canonical 12-TM [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) fold. The N-domain (TM1-TM6) and C-domain (TM7-TM11) form the central cavity accessible from the extracellular side. An extracellular thin gate (Met33-Pro308) and intracellular thick gate (including Arg111-Glu428 salt bridge) define the outward-facing conformation.
 
 ### Adenosine reuptake inhibitor mechanisms
 
@@ -85,7 +85,7 @@ Adenosine recognition by hENT1 involves conserved charged residues Arg345 and As
 - [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — hENT1 utilizes rocker-switch-like reorientation for transport
 - [n-Dodecyl-beta-D-maltoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary solubilization and purification detergent
 - [Lipidic Cubic Phase (LCP) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Method used to crystallize hENT1
-- [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — Related biological concept
+- [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — Related biological concept
 - [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification

@@ -1,5 +1,5 @@
 ---
-title: bcChbC (Bacillus cereus Chitobiose Transporter)
+title: "bcChbC (Bacillus cereus Chitobiose Transporter)"
 created: 2026-05-28
 updated: 2026-06-02
 type: protein
@@ -64,6 +64,6 @@ A speculative model for the ChbC transport mechanism was proposed based on the c
 - [Diacetylchitobiose (GlcNAc2)](/xray-mp-wiki/reagents/ligands/diacetylchitobiose/) — bcChbC bound to diacetylchitobiose ligand in crystal structure
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used in purification and stability testing of ChbC
 - [Decylmaltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — DM used in stability testing of ChbC by gel filtration
-- [TEV Protease](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) — TEV protease used to remove His6 tag from ChbC during purification
+- [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) — TEV protease used to remove His6 tag from ChbC during purification
 - [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Referenced in the context of Glucose
 - [His6 Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) — Referenced in the context of His6 Tag

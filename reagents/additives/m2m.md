@@ -36,6 +36,6 @@ No comparison data available.
 ## Cross-References
 
 - [GluN1b-GluN2B ATD](/xray-mp-wiki/proteins/other-ion-channels/gluN1b-gluN2b-atd/) — M2M tested in conformational trapping experiments on engineered cysteine mutants
-- [M4M](/xray-mp-wiki/reagents/ligands/m4m/) — M2M compared with M4M in linker-length optimization experiments
+- [M4M](/xray-mp-wiki/reagents/additives/m4m/) — M2M compared with M4M in linker-length optimization experiments
 - [M4M (Bis-(3-Sulfanylpropionyl)disulfide, 4-Carbon Linker MTS Reagent)](/xray-mp-wiki/reagents/additives/m4m/) — Additive used in purification or crystallization buffers
 - [M8M (Bis-(3-Sulfanylpropionyl)disulfide, 8-Carbon Linker MTS Reagent)](/xray-mp-wiki/reagents/additives/m8m/) — Additive used in purification or crystallization buffers

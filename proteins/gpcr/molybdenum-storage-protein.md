@@ -1,5 +1,5 @@
 ---
-title: Molybdenum Storage Protein (MOSTO)
+title: "Molybdenum Storage Protein (MOSTO)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -34,7 +34,7 @@ Molybdenum storage protein (MOSTO) is a heterohexameric (αβ)₃ cage-like prot
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

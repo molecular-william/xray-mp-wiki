@@ -1,5 +1,5 @@
 ---
-title: Nuclear Cap-Binding Complex (CBC)
+title: "Nuclear Cap-Binding Complex (CBC)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -21,8 +21,8 @@ The nuclear cap-binding complex (CBC) is a heterodimer of CBP20 (NCBP2, 20 kDa) 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41467-017-01402-w |  | 2.79 | P2₁ | CBC-ΔNLS (CBP80 with residues 1-19 deleted) + CBP20, reconstituted heterodimer; crystallized with m⁷GTP and NELF-E³⁶⁰⁻³⁸⁰ synthetic peptide | m⁷GTP, NELF-E³⁶⁰⁻³⁸⁰ peptide |
-| doi/10.1038##s41467-017-01402-w |  | 2.80 | P1 | CBC-ΔNLS (CBP80 with residues 1-19 deleted) + CBP20, reconstituted heterodimer; crystallized with m⁷GTP and ARS2⁸²⁷⁻⁸⁷¹ peptide | m⁷GTP, ARS2⁸²⁷⁻⁸⁷¹ peptide |
+| doi/10.1038##s41467-017-01402-w | 5OO6 | 2.79 | P2₁ | CBC-ΔNLS (CBP80 with residues 1-19 deleted) + CBP20, reconstituted heterodimer; crystallized with m⁷GTP and NELF-E³⁶⁰⁻³⁸⁰ synthetic peptide | m⁷GTP, NELF-E³⁶⁰⁻³⁸⁰ peptide |
+| doi/10.1038##s41467-017-01402-w | 5OO6 | 2.80 | P1 | CBC-ΔNLS (CBP80 with residues 1-19 deleted) + CBP20, reconstituted heterodimer; crystallized with m⁷GTP and ARS2⁸²⁷⁻⁸⁷¹ peptide | m⁷GTP, ARS2⁸²⁷⁻⁸⁷¹ peptide |
 
  - R-work 20.2%, R-free 22.9%; Data collection: ESRF ID30A1, 0.966 Å wavelength; 117,089 reflections (6345 free); redundancy 2.71
  - R-work 23.1%, R-free 26.8%; Data collection: ESRF ID23-1, 0.97917 Å wavelength; 190,778 reflections (10,059 free); redundancy 2.08
@@ -40,7 +40,7 @@ The nuclear cap-binding complex (CBC) is a heterodimer of CBP20 (NCBP2, 20 kDa) 
 - **Expression construct**: CBP20 (GST-tag), CBP80ΔNLS (insect cells), ARS2 constructs (pETM11), NELF-E constructs (pETM11), PHAX constructs (pETM11)
 - **Tag info**: N-terminal 6xHis-tag (TEV-cleavable) for CBP20, ARS2, NELF-E, PHAX constructs
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

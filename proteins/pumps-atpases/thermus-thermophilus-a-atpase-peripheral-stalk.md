@@ -1,5 +1,5 @@
 ---
-title: Thermus thermophilus A-ATPase Peripheral Stalk (PS2)
+title: "Thermus thermophilus A-ATPase Peripheral Stalk (PS2)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -33,7 +33,7 @@ The Thermus thermophilus A-ATPase peripheral stalk (PS2) is a heterodimer of sub
 - **Expression construct**: Bicistronic pETDuet-1 vector encoding full-length subunit E and subunit G (truncated by 17 N-terminal residues); subunit G carries N-terminal six-histidine tag followed by TEV protease cleavage site
 - **Tag info**: N-terminal six-histidine tag on subunit G, followed by TEV protease cleavage site
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

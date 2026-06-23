@@ -1,5 +1,5 @@
 ---
-title: Bovine Rhodopsin
+title: "Bovine Rhodopsin"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -26,7 +26,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 | doi/10.1073##pnas.0608022103 | 2I36 | 4.10 | P3(1)12 | Highly delipidated bovine rhodopsin (ground state, same crystal form) | 11-cis [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (protonated Schiff base) |
 | doi/10.1073##pnas.0608022103 | 2I35 | 3.80 | R32 | Highly delipidated bovine rhodopsin (ground state, rhombohedral form) | 11-cis [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (protonated Schiff base) |
 | doi/10.1016##J.JMB.2004.08.090 | 1GZM | 2.65 | P31 | Bovine rhodopsin (residues 1-326 of 348) | 11-cis [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (covalently bound to Lys296 via protonated Schiff base) |
-| doi/10.1038##NATURE09795 |  | 3.00 | not specified | Bovine rhodopsin E113Q mutant (constitutively active) with N2C/D282C stabilizing disulfide, in complex with GalphaCT peptide (11 residues, K341L mutation); all-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) bound non-covalently in [Retinal](/xray-mp-wiki/reagents/ligands/retinal/)-binding pocket; HEK293S GnTI- cell expression | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (non-covalently bound); GalphaCT peptide |
+| doi/10.1038##NATURE09795 | 2X72 | 3.00 | not specified | Bovine rhodopsin E113Q mutant (constitutively active) with N2C/D282C stabilizing disulfide, in complex with GalphaCT peptide (11 residues, K341L mutation); all-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) bound non-covalently in [Retinal](/xray-mp-wiki/reagents/ligands/retinal/)-binding pocket; HEK293S GnTI- cell expression | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (non-covalently bound); GalphaCT peptide |
 | doi/10.1038##s41586-023-05863-6 | 7ZBE | 1.80 | P 2 2 2 | Bovine rhodopsin, dark state, room temperature SFX structure from LCP-grown microcrystals | 11-cis [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (covalently bound to Lys296 via protonated Schiff base) |
 | doi/10.1038##s41586-023-05863-6 | 7ZBC | 1.80 | P 2 2 2 | Bovine rhodopsin, dark state, room temperature SFX structure from LCP-grown microcrystals (SACLA dataset) | 11-cis [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (covalently bound to Lys296 via protonated Schiff base) |
 | doi/10.1038##s41586-023-05863-6 | 8A6C | 1.80 | P 2 2 2 | Bovine rhodopsin, 1 ps after photoactivation (Batho-Rh intermediate), TR-SFX at SwissFEL, extrapolated 21% activation | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (twisted, covalently bound to Lys296) |
@@ -44,7 +44,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 | doi/10.1038##s41467-023-40911-9 | 8FD1 | 4.25 | P3(2)21 | Bovine rhodopsin (native, from ROS) in complex with Nb2 [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/); photoactivated (Meta I-like) state | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (covalently bound via protonated Schiff base), Nb2 [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) |
 | doi/10.1038##s41467-023-40911-9 | 8FDO | 3.7 | P3(2)21 | Bovine rhodopsin (native, from ROS) in complex with Nb2 [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/); apo-[Opsin (Retinal-Free Rhodopsin Apoprotein)](/xray-mp-wiki/proteins/gpcr/opsin/) state | Nb2 [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) (no retinal) |
 | doi/10.1073##pnas.082666399 | 1L9H | 2.6 | P2(1)2(1)2(1) | Bovine rhodopsin, full-length (348 residues), purified from bovine retina rod outer segments | 11-cis [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (covalently bound to Lys296 via protonated Schiff base) |
-| doi/10.1073##pnas.1114089108 |  | 3.3 | not specified | Bovine rhodopsin with N2C/D282C/M257Y mutations, expressed in HEK293S-GnTI+ cells, reconstituted with 11-cis-[Retinal](/xray-mp-wiki/reagents/ligands/retinal/), light-activated (>515 nm), complexed with GalphaCT peptide (ILENLKDCGLF, K341L mutation) | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (covalently bound to Lys296 via Schiff base, 15-anti conformation); GalphaCT peptide (11 residues) |
+| doi/10.1073##pnas.1114089108 | 4A4M | 3.3 | not specified | Bovine rhodopsin with N2C/D282C/M257Y mutations, expressed in HEK293S-GnTI+ cells, reconstituted with 11-cis-[Retinal](/xray-mp-wiki/reagents/ligands/retinal/), light-activated (>515 nm), complexed with GalphaCT peptide (ILENLKDCGLF, K341L mutation) | All-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) (covalently bound to Lys296 via Schiff base, 15-anti conformation); GalphaCT peptide (11 residues) |
 | doi/10.1107##S0907444908017162 | 3C9L | 2.65 | P6_4 | Ground-state bovine rhodopsin, P6_4 untwinned model |  |
 | doi/10.1107##S0907444908017162 | 3C9M | 2.65 | P6_4 | N2C/D282C mutant bovine rhodopsin, P6_4 twinned model |  |
 
@@ -55,57 +55,49 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 
 ### Purification Workflow
 
-*Source: doi/10.1126##science.289.5480.739*
+#### Source: doi/10.1126##science.289.5480.739
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Rod outer segment (ROS) preparation | [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) gradient centrifugation from bovine retina | — | not specified + -- | Standard ROS preparation from fresh bovine retinae under dim red light |
 | Rhodopsin solubilization and purification | Concanavalin A (ConA) affinity chromatography | ConA-agarose | not specified + [OTG](/xray-mp-wiki/reagents/detergents/og/) (mixed micelles) | Rhodopsin eluted with methyl-alpha-D-mannopyranoside. Final sample in mixed micelles for crystallization. |
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.0608022103*
+#### Source: doi/10.1073##pnas.0608022103
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Purification | Immunoaffinity chromatography | Rho1D4 antibody column | 25 mM bis-[Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/)-propane (pH 7.5) + n-Octyl-beta-D-glucopyranoside (OG) | Highly delipidated rhodopsin purified from bovine retina. Delipidation critical for crystallizability. |
 
-### Purification Workflow
-
-*Source: doi/10.1038##s41586-023-05863-6*
+#### Source: doi/10.1038##s41586-023-05863-6
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
-| Rod outer segment (ROS) membrane isolation | [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) gradient centrifugation | — | 10 mM [MOPS (3-(N-Morpholino)propanesulfonic Acid)](/xray-mp-wiki/reagents/mops/), 30 mM NaCl, 60 mM KCl, 2 mM [Magnesium Chloride (MgCl₂)](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 1 mM [DTT](/xray-mp-wiki/reagents/additives/dtt/), 40% (w/w) [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) + None (native membranes) | 200 frozen bovine retinae used as starting material. Two-step centrifugation: 4,000g for 30 min, then 24,000g for 30 min. ROS membrane layers collected from 23-29% interface on 34%/29% [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) gradient, 110,000g for 90 min. |
+| Rod outer segment (ROS) membrane isolation | [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) gradient centrifugation | — | 10 mM [MOPS (3-(N-Morpholino)propanesulfonic Acid)](/xray-mp-wiki/reagents/buffers/mops/), 30 mM NaCl, 60 mM KCl, 2 mM [Magnesium Chloride (MgCl₂)](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 1 mM [DTT](/xray-mp-wiki/reagents/additives/dtt/), 40% (w/w) [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) + None (native membranes) | 200 frozen bovine retinae used as starting material. Two-step centrifugation: 4,000g for 30 min, then 24,000g for 30 min. ROS membrane layers collected from 23-29% interface on 34%/29% [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) gradient, 110,000g for 90 min. |
 | ConA affinity chromatography (optimized) | Affinity chromatography | Concanavalin A (ConA) resin, scale-up 3x | 50 mM sodium [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate/), 150 mM NaCl, 3 mM [Magnesium Chloride (MgCl₂)](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 3 mM MnCl2, 3 mM CaCl2, 1 mM Na2-[EDTA](/xray-mp-wiki/reagents/additives/edta/), 2 mM 2-mercaptoethanol, pH 6.0 + 1% n-octyl-beta-D-glucopyranoside (OG) | Starting material ~180 mg rhodopsin. Reversed flow used for second half of elution to sharpen elution profile. |
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.1718084115*
+#### Source: doi/10.1073##pnas.1718084115
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Expression and membrane preparation | HEK293S GnTI- cell expression | — | 50 mM [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) pH 7.0, 150 mM NaCl, 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/) + -- | Cells grown in suspension culture. N2C/D282C double mutant provides thermal stability for crystallization. |
 | ConA affinity chromatography | Affinity chromatography | Concanavalin A (ConA) resin | 50 mM sodium [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate/) pH 6.0, 150 mM NaCl, 3 mM [Magnesium Chloride (MgCl₂)](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 3 mM MnCl2, 3 mM CaCl2 + 1% n-octyl-beta-D-glucopyranoside (OG) for solubilization, then exchanged to 0.05% n-dodecyl-beta-D-maltopyranoside (DDM) during wash | Solubilized in 1% [OG](/xray-mp-wiki/reagents/detergents/og/). Protein eluted with 0.2 M methyl-alpha-D-mannopyranoside. Detergent exchanged to 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) during on-column washes. |
 
-### Purification Workflow
-
-*Source: doi/10.1038##s41467-023-40911-9*
+#### Source: doi/10.1038##s41467-023-40911-9
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

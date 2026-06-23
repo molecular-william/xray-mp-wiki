@@ -1,5 +1,5 @@
 ---
-title: A. thaliana SWEET1
+title: "A. thaliana SWEET1"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein

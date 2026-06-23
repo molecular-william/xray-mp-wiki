@@ -1,5 +1,5 @@
 ---
-title: SbtB (PII-Like Regulatory Protein, Synechocystis sp. PCC 6803)
+title: "SbtB (PII-Like Regulatory Protein, Synechocystis sp. PCC 6803)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -21,15 +21,15 @@ SbtB is a PII-like signal transduction protein from the cyanobacterium Synechocy
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.2101632118 | (not deposited) | 2.7 | Not applicable (cryo-EM) | Full-length SbtB (Synechocystis sp. PCC 6803) in complex with [SBTA](/xray-mp-wiki/proteins/slc-transporters/sbta/) | AMP |
-| doi/10.1073##pnas.2101632118 | (not deposited) | 3.2 | (not specified) | Full-length SbtB (Synechocystis sp. PCC 6803) in complex with [SBTA](/xray-mp-wiki/proteins/slc-transporters/sbta/) | None (no AMP in crystal structure) |
+| doi/10.1073##pnas.2101632118 | 7EGL | 2.7 | Not applicable (cryo-EM) | Full-length SbtB (Synechocystis sp. PCC 6803) in complex with [SBTA](/xray-mp-wiki/proteins/slc-transporters/sbta/) | AMP |
+| doi/10.1073##pnas.2101632118 | 7EGL | 3.2 | (not specified) | Full-length SbtB (Synechocystis sp. PCC 6803) in complex with [SBTA](/xray-mp-wiki/proteins/slc-transporters/sbta/) | None (no AMP in crystal structure) |
 
 ## Expression and Purification
 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ SbtB belongs to the PII family of signal transduction proteins, which regulate n
 - [SbtA (High-Affinity Sodium-Dependent Bicarbonate Transporter)](/xray-mp-wiki/proteins/slc-transporters/sbta/) — SbtB is the allosteric regulator of SbtA bicarbonate transporter
 - [PII Signal Transduction Protein Family](/xray-mp-wiki/concepts/signaling-receptors/pii-protein-family/) — SbtB is a member of the PII protein family
 - [GlnK PII Signal Transduction Protein (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/glnk/) — SbtB is functionally and structurally analogous to GlnK
-- [Ammonium Transporter AmtB (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/e-coli-amtb/) — AmtB-GlnK is the paradigmatic system of PII-mediated transporter regulation
+- [Ammonium Transporter AmtB (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/amt-b/) — AmtB-GlnK is the paradigmatic system of PII-mediated transporter regulation
 - [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — SbtB allosterically inhibits SbtA through T-loop insertion
 - [CO2-Concentrating Mechanism](/xray-mp-wiki/concepts/miscellaneous/co2-concentrating-mechanism/) — SbtA-SbtB system regulates bicarbonate uptake in the cyanobacterial CCM
 - [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Main structural method used

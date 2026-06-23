@@ -1,12 +1,12 @@
 ---
-title: Human Adenosine A2A Receptor (A2AR)
+title: "Human Adenosine A2A Receptor (A2AR)"
 created: 2026-06-08
 updated: 2026-06-10
 type: protein
 category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
-sources: [doi/10.1016##j.str.2011.06.014, doi/10.1038##NATURE18966, doi/10.1016##j.bbrc.2023.149393, doi/10.1016##j.str.2017.06.012, doi/10.1016##j.str.2017.12.013, doi/10.1021##acs.jmedchem.0c01856, doi/10.1021##acs.jmedchem.2c00462, doi/10.1002##anie.202003788, doi/10.1038##NATURE10136, doi/10.1107##S2052252519013137, doi/10.1038##nature10750, doi/10.1038##s41598-020-76277-x, doi/10.1126##science.1164772, doi/10.1126##science.1219218, doi/10.1126##science.1202793, doi/10.1124##mol.114.097360, doi/10.1124##molpharm.122.000633, doi/10.1107##S1600576719012846, doi/10.1107##s2052252522001907, doi/10.1038##s41467-017-00630-4]
+sources: [doi/10.1002##anie.202003788, doi/10.1016##j.bbrc.2023.149393, doi/10.1016##j.str.2011.06.014, doi/10.1016##j.str.2017.06.012, doi/10.1016##j.str.2017.12.013, doi/10.1021##acs.jmedchem.0c01856, doi/10.1021##acs.jmedchem.2c00462, doi/10.1038##NATURE10136, doi/10.1038##NATURE18966, doi/10.1038##nature10750, doi/10.1038##s41467-017-00630-4, doi/10.1038##s41598-020-76277-x, doi/10.1107##S1600576719012846, doi/10.1107##S2052252519013137, doi/10.1107##s2052252522001907, doi/10.1124##mol.114.097360, doi/10.1124##molpharm.122.000633, doi/10.1126##science.1164772, doi/10.1126##science.1202793, doi/10.1126##science.1219218]
 verified: false
 ---
 
@@ -25,20 +25,15 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 | doi/10.1016##j.str.2011.06.014 | 3PWH | 3.29 | I222 | A2A-StaR2 (human A2AR with thermostabilizing mutations A54L, T88A, R107A, K122A, N154A, L202A, L235A, V239A, S277A), expressed in baculovirus/Sf9 system, purified in [DM](/xray-mp-wiki/reagents/detergents/dm/) | [ZM241385](/xray-mp-wiki/reagents/ligands/zm241385/) |
 | doi/10.1016##j.str.2011.06.014 | 3REY | 3.30 | I222 | A2A-StaR2 as above | XAC |
 | doi/10.1016##j.str.2011.06.014 | 3RFM | 3.60 | I222 | A2A-StaR2 as above | [Caffeine](/xray-mp-wiki/reagents/ligands/caffeine/) |
-| doi/10.1038##NATURE18966 | not specified | 3.4 | P 2_1 2_1 2_1 | Wild-type human A2AR (residues 1-308), C-terminal His10 tag with TEV protease cleavage site, N154A mutation, in complex with engineered mini-Gs | [NECA](/xray-mp-wiki/reagents/ligands/neca/) |
+| doi/10.1038##NATURE18966 | 5G53 | 3.4 | P 2_1 2_1 2_1 | Wild-type human A2AR (residues 1-308), C-terminal His10 tag with TEV protease cleavage site, N154A mutation, in complex with engineered mini-Gs | [NECA](/xray-mp-wiki/reagents/ligands/neca/) |
 | doi/10.1016##j.bbrc.2023.149393 | 8WDT | 3.34 | not specified | Thermostabilized mutant A2AR-Rag31 | trans-photoNECA |
-| doi/10.1016##j.str.2017.06.012 | not specified | 2.0 | C2221 | Human A2AR-StaR2-b562RIL thermostabilized mutant | [Theophylline](/xray-mp-wiki/reagents/ligands/theophylline/) |
-| doi/10.1016##j.str.2017.06.012 | not specified | 2.1 | C2221 | Human A2AR-StaR2-b562RIL thermostabilized mutant | [Caffeine](/xray-mp-wiki/reagents/ligands/caffeine/) |
-| doi/10.1016##j.str.2017.06.012 | not specified | 2.8 | C2221 | Human A2AR-StaR2-b562RIL thermostabilized mutant | [PSB36](/xray-mp-wiki/reagents/ligands/psb36/) |
 | doi/10.1016##j.str.2017.12.013 | 5WF5 | 2.60 | P21 | A2AAR-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) D52N variant truncated after residue 316, N-terminal [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), C-terminal His10 tag, ICL3 replaced by cysteine-free [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) | [UK432097](/xray-mp-wiki/reagents/ligands/uk-432097/) |
 | doi/10.1016##j.str.2017.12.013 | 5WF6 | 2.90 | P21 | A2AAR-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) S91A variant truncated after residue 316, N-terminal [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), C-terminal His10 tag, ICL3 replaced by cysteine-free [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) | [UK432097](/xray-mp-wiki/reagents/ligands/uk-432097/) |
 | doi/10.1021##acs.jmedchem.0c01856 | 7ARO | 1.9 | P212121 | A2A-StaR2-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) with 9 thermostabilizing mutations, N-terminal deletion, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) after L315, [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) fused into ICL3 | [LUF5833 (Compound 8)](/xray-mp-wiki/reagents/ligands/luf5833/) |
 | doi/10.1021##acs.jmedchem.2c00462 | 8CU7 | 2.05 | not specified | A2A-StaR2-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) with StaR2 mutations, N-terminal deletion, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) after L315, [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) fused into ICL3 | [LJ-4517 (Compound 2)](/xray-mp-wiki/reagents/ligands/lj-4517/) |
-| doi/10.1002##anie.202003788 | not specified | 1.92 | not specified | A2AAR-STAR2 (StaR2-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) thermostabilized construct) | Chromone 4d |
-| doi/10.1002##anie.202003788 | not specified | 2.13 | not specified | A2AAR-STAR2 (StaR2-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) thermostabilized construct) | Chromone 5d |
+| doi/10.1002##anie.202003788 | 6ZDR | 2.13 | not specified | A2AAR-STAR2 (StaR2-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) thermostabilized construct) | Chromone 5d |
 | doi/10.1021##acs.jmedchem.2c00462 | 8CU6 | 2.80 | not specified | A2A-StaR2-S277-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) with StaR2 mutations, N-terminal deletion, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) after L315, [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) fused into ICL3 | [LJ-4517 (Compound 2)](/xray-mp-wiki/reagents/ligands/lj-4517/) |
-| doi/10.1038##NATURE10136 | not specified | 2.6 | C2 | A2AR-GL31 thermostabilized mutant (11 mutations), expressed in insect cells, purified in [DM](/xray-mp-wiki/reagents/detergents/dm/) | [NECA](/xray-mp-wiki/reagents/ligands/neca/) |
-| doi/10.1038##NATURE10136 | not specified | 3.0 | C2 | A2AR-GL31 thermostabilized mutant as above | Adenosine |
+| doi/10.1038##NATURE10136 | 2YDO | 3.0 | C2 | A2AR-GL31 thermostabilized mutant as above | Adenosine |
 | doi/10.1107##S2052252519013137 | 6PS7 | 3.3 | not specified | A2AR-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) fusion expressed in Sf9 insect cells; purified in [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/CHS; LSP-SFX | [Caffeine](/xray-mp-wiki/reagents/ligands/caffeine/) |
 | doi/10.1107##S2052252519013137 | 6PS8 | 3.5 | not specified | A2AR-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) fusion as above; LSP-SFX | [ZM241385](/xray-mp-wiki/reagents/ligands/zm241385/) |
 | doi/10.1038##nature10750 | 3PKK | 3.0 | P41212 | Full-length human A2AR (residues 1-316, N154Q), expressed in Pichia pastoris, purified in [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/CHS, in complex with [Fab2838 Antibody Fragment](/xray-mp-wiki/reagents/antibodies/fab2838/) | [ZM241385](/xray-mp-wiki/reagents/ligands/zm241385/) |
@@ -46,11 +41,10 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 | doi/10.1038##s41598-020-76277-x | 6LPK | 1.80 | C2221 | Human A2AR with [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) fused in ICL3 as above | [ZM241385](/xray-mp-wiki/reagents/ligands/zm241385/) |
 | doi/10.1038##s41598-020-76277-x | 6LPL | 2.00 | C2221 | Human A2AR with [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) fused in ICL3 as above | [ZM241385](/xray-mp-wiki/reagents/ligands/zm241385/) |
 | doi/10.1126##science.1219218 | 4EY | 1.8 | not specified | A2AAR-BRIL-deltaC (human A2AAR with ICL3 replaced by apocytochrome b562RIL, C-terminal tail deleted), expressed in Sf9 insect cells | [ZM241385](/xray-mp-wiki/reagents/ligands/zm241385/) |
-| doi/10.1126##science.1202793 | not specified | 2.7 | — | A2AAR-T4L-deltaC (human A2AAR with ICL3 replaced by [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/), C-terminal tail deleted) bound to agonist [UK-432097](/xray-mp-wiki/reagents/ligands/uk-432097/), expressed in Sf9 insect cells | [UK-432097](/xray-mp-wiki/reagents/ligands/uk-432097/) |
+| doi/10.1126##science.1202793 | 3QAK | 2.7 | — | A2AAR-T4L-deltaC (human A2AAR with ICL3 replaced by [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/), C-terminal tail deleted) bound to agonist [UK-432097](/xray-mp-wiki/reagents/ligands/uk-432097/), expressed in Sf9 insect cells | [UK-432097](/xray-mp-wiki/reagents/ligands/uk-432097/) |
 | doi/10.1124##mol.114.097360 | 4UG2 | 2.6 | P212121 | A2AR-GL31 thermostabilized mutant (mutations L48A, A54L, T65A, Q89A, N154A, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) after Ala316, His10 tag) expressed in baculovirus/Sf9 system, purified in DM | [CGS21680](/xray-mp-wiki/reagents/ligands/cgs21680/) |
 | doi/10.1124##mol.114.097360 | 4UHR | 2.6 | P21 | A2AR-GL31 thermostabilized mutant as above | [CGS21680](/xray-mp-wiki/reagents/ligands/cgs21680/) |
-| doi/10.1124##molpharm.122.000633 | not specified | 2.3 | not specified | A2AR-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)(N154Q) construct (human A2AR residues 1-316, ICL3 Lys209-Gly218 replaced by thermostabilized apocytochrome b562RIL) | [KW-6356](/xray-mp-wiki/reagents/ligands/kw-6356/) |
-| doi/10.1124##molpharm.122.000633 | not specified | 3.2 | not specified | A2AR-Rant21 construct stabilized in inactive-state conformation, in complex with [Fab2838 Antibody Fragment](/xray-mp-wiki/reagents/antibodies/fab2838/) | Istradefylline |
+| doi/10.1124##molpharm.122.000633 | 8GNE | 3.2 | not specified | A2AR-Rant21 construct stabilized in inactive-state conformation, in complex with [Fab2838 Antibody Fragment](/xray-mp-wiki/reagents/antibodies/fab2838/) | Istradefylline |
 
 ## Expression and Purification
 
@@ -59,28 +53,26 @@ The human adenosine A2A receptor (A2AR) is a class A GPCR that regulates glutama
 
 ### Purification Workflow
 
-*Source: doi/10.1126##science.1164772*
+#### Source: doi/10.1126##science.1164772
 
 - **Expression system**: Sf9 insect cells
 - **Expression construct**: A2A-T4L-deltaC (human A2AR residues 1-316, ICL3 Leu209-Ala221 replaced with [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/), C-terminal tail Ala317-Ser412 deleted)
 - **Tag info**: [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) fusion in ICL3
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Protein expression | Baculovirus expression in Sf9 cells | -- | not specified + -- | Receptor stabilized during purification with NaCl, saturating [Theophylline](/xray-mp-wiki/reagents/ligands/theophylline/), and cholesteryl hemisuccinate ([CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)) |
 | Ligand exchange | [Theophylline](/xray-mp-wiki/reagents/ligands/theophylline/) to [ZM241385](/xray-mp-wiki/reagents/ligands/zm241385/) exchange | -- | not specified + -- | [ZM241385](/xray-mp-wiki/reagents/ligands/zm241385/) exchanged from [Theophylline](/xray-mp-wiki/reagents/ligands/theophylline/) in the last purification step |
 
-### Purification Workflow
-
-*Source: doi/10.1126##science.1219218*
+#### Source: doi/10.1126##science.1219218
 
 - **Expression system**: Sf9 insect cells
 - **Expression construct**: A2AAR-BRIL-deltaC (human A2AAR with ICL3 replaced by apocytochrome b562RIL, C-terminal tail deleted)
 - **Tag info**: [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) (apocytochrome b562RIL) fusion in ICL3
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -239,5 +231,29 @@ The 2.6 A crystal structure of CGS21680-bound A2AR-GL31 (PDB 4UG2, 4UHR) reveals
 - [GPCR](/xray-mp-wiki/concepts/signaling-receptors/gpcr/) — A2AR is a class A GPCR
 - [Caffeine](/xray-mp-wiki/reagents/ligands/caffeine/) — Xanthine antagonist co-crystallized with StaR2 construct (PDB 3RFM)
 - [BRIL (apocytochrome b562RIL)](/xray-mp-wiki/reagents/protein-tags/bril/) — Fusion protein used to replace ICL3 for high-resolution 1.8 A crystallization
-- [Sodium Ion](/xray-mp-wiki/reagents/additives/sodium-ion/) — Identified in the central water cluster as an allosteric modulator of A2AAR
+- [Sodium Ion](/xray-mp-wiki/reagents/ligands/sodium-ion/) — Identified in the central water cluster as an allosteric modulator of A2AAR
 - [Sodium Allosteric Modulation](/xray-mp-wiki/concepts/signaling-receptors/sodium-allosteric-modulation/) — Structural basis for allosteric regulation of GPCRs by sodium ions
+- [Human Adenosine A2A Receptor (A2AR)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/) — [A2AAR](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar)-D52N is a point mutant of the wild-type A2AR
+- [Human Adenosine A2A Receptor S91A Variant (A2AAR-S91A)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/) — Another sodium-site variant solved in the same study
+- [LJ-4517 (Compound 2)](/xray-mp-wiki/reagents/ligands/lj-4517/) — Nucleoside antagonist for comparison with nucleoside agonist [UK432097](/xray-mp-wiki/reagents/ligands/uk432097)
+- [UK432097](/xray-mp-wiki/reagents/ligands/uk-432097/) — Full agonist co-crystallized with [A2AAR](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar)-D52N (PDB 5WF5)
+- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for solubilization and purification
+- [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) — Added to [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) mixture for membrane protein stability
+- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used for structure determination
+- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Structure solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement) using Phaser
+- [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression) — Expression system used for protein production
+- [Human Adenosine A2A Receptor D52N Variant (A2AAR-D52N)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/) — Sodium-site variant solved in the same study with PDB 5WF5
+- [Human Adenosine A2A Receptor (A2AR)](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar) — A2A-StaR2-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril) is an engineered construct of the human A2AR
+- [A2A-PSB1-bRIL Adenosine A2A Receptor](/xray-mp-wiki/proteins/a2a-psb1-bril) — Another thermostabilized A2AR-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril) construct for comparison
+- [LJ-4517 (Compound 2)](/xray-mp-wiki/reagents/ligands/lj-4517) — Co-crystallized nucleoside antagonist ligand in PDB 8CU7
+- [LUF5833 (Compound 8)](/xray-mp-wiki/reagents/ligands/luf5833) — Co-crystallized partial agonist ligand in PDB 7ARO
+- [Theophylline](/xray-mp-wiki/reagents/ligands/theophylline) — Used for initial crystal formation and receptor stabilization
+- [NECA](/xray-mp-wiki/reagents/ligands/neca) — Full agonist reference structure (PDB 2YDV) for comparison
+- [ZM241385](/xray-mp-wiki/reagents/ligands/zm241385) — Antagonist reference structure (PDB 5IU4/6WQA) for comparison
+- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm) — Detergent used for solubilization and purification
+- [Sodium Thiocyanate (NaSCN)](/xray-mp-wiki/reagents/additives/sodium-thiocyanate) — Crystallization additive in the reservoir solution
+- [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) — Crystallization method used for structure determination
+- [Human Adenosine A2A Receptor A2A-StaR2-bRIL (PDB 7ARO)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/) — Parent construct without S277A mutation, same [BRIL](/xray-mp-wiki/reagents/protein-tags/bril) fusion design
+- [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer used in purification and crystallization
+- [Sodium Thiocyanate (NaSCN)](/xray-mp-wiki/reagents/additives/sodium-thiocyanate/) — Crystallization additive in the reservoir solution
+- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) — Purification method used in protein preparation

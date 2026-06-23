@@ -1,5 +1,5 @@
 ---
-title: Prokaryotic TRIC Trimeric Intracellular Cation Channels
+title: "Prokaryotic TRIC Trimeric Intracellular Cation Channels"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -36,7 +36,7 @@ C-terminal GFP-His8 tag for purification and [FSEC](/xray-mp-wiki/methods/qualit
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

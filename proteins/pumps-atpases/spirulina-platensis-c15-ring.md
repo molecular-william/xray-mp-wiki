@@ -1,5 +1,5 @@
 ---
-title: Spirulina platensis ATP Synthase c15 Ring
+title: "Spirulina platensis ATP Synthase c15 Ring"
 created: 2026-05-29
 updated: 2026-05-29
 type: protein

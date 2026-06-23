@@ -1,5 +1,5 @@
 ---
-title: Ci-VSD Voltage-Sensing Domain
+title: "Ci-VSD Voltage-Sensing Domain"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,8 +21,8 @@ Ci-VSD is the isolated voltage-sensing domain from the Ciona intestinalis voltag
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nsmb.2768 | not specified in supplementary | 2.5 | P6_5 2 2 | Ci-VSD R217E mutant in complex with Fab fragment 33F12_4, 12 complexes (6 homodimers) in unit cell | [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) (3 molecules), succinic acid (1 molecule) |
-| doi/10.1038##nsmb.2768 | not specified in supplementary | 3.6 | P1 | Ci-VSD wild-type (residues 1-260) in complex with Fab fragment 39D10_18, 4 complexes (2 dimers) per asymmetric unit | none (apo structure) |
+| doi/10.1038##nsmb.2768 | 4G7V | 2.5 | P6_5 2 2 | Ci-VSD R217E mutant in complex with Fab fragment 33F12_4, 12 complexes (6 homodimers) in unit cell | [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) (3 molecules), succinic acid (1 molecule) |
+| doi/10.1038##nsmb.2768 | 4G7V | 3.6 | P1 | Ci-VSD wild-type (residues 1-260) in complex with Fab fragment 39D10_18, 4 complexes (2 dimers) per asymmetric unit | none (apo structure) |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ Ci-VSD is the isolated voltage-sensing domain from the Ciona intestinalis voltag
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: CysZ bacterial sulfate permease
+title: "CysZ bacterial sulfate permease"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -49,7 +49,7 @@ residues.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

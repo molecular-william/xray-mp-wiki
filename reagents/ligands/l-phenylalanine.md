@@ -49,4 +49,4 @@ No comparison data available.
 ## Cross-References
 
 - [AvGluR1 LBD](/xray-mp-wiki/proteins/other-ion-channels/avglur1/) — Hydrophobic amino acid ligand with unique anion-occluding binding mode
-- [L-Methionine](/xray-mp-wiki/reagents/l-methionine/) — Another hydrophobic amino acid ligand with chloride-mediated binding
+- [L-Methionine](/xray-mp-wiki/reagents/ligands/l-methionine/) — Another hydrophobic amino acid ligand with chloride-mediated binding

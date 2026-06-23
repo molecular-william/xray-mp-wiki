@@ -1,5 +1,5 @@
 ---
-title: Epithelial Calcium Channel TRPV6
+title: "Epithelial Calcium Channel TRPV6"
 created: 2026-06-10
 updated: 2026-06-10
 type: protein
@@ -43,7 +43,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 - **Expression construct**: Rat TRPV6_cryst (residues 1-668, I62Y, L92N, M96Q, L495Q), C-terminal thrombin-eGFP-Strep tag
 - **Tag info**: C-terminal streptavidin affinity tag (WSHPQFEK), removable by thrombin cleavage
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: TcdA1 Toxin Complex A Subunit from Photorhabdus luminescens
+title: "TcdA1 Toxin Complex A Subunit from Photorhabdus luminescens"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -21,8 +21,8 @@ TcdA1 is the TcA subunit of the toxin complex from Photorhabdus luminescens subs
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature13015 | not specified | 4.0 A | not specified | TcdA1 full-length from P. luminescens subsp. akhurstii (12500 residues in pentamer, 1.41 MDa) | None |
-| doi/10.1038##nature13015 | not specified | 9 A | C5 (cryo-EM) | TcdA1 pore state from P. luminescens subsp. akhurstii | None |
+| doi/10.1038##nature13015 | 4O9Y | 4.0 A | not specified | TcdA1 full-length from P. luminescens subsp. akhurstii (12500 residues in pentamer, 1.41 MDa) | None |
+| doi/10.1038##nature13015 | 4O9Y | 9 A | C5 (cryo-EM) | TcdA1 pore state from P. luminescens subsp. akhurstii | None |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ TcdA1 is the TcA subunit of the toxin complex from Photorhabdus luminescens subs
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ The TcdA1 channel is cation selective, similar to the anthrax translocation pore
 - [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — 0.1 M HEPES pH 7.0 component of TcdA1 crystallization reservoir
 - [Sodium Malonate](/xray-mp-wiki/reagents/additives/sodium-malonate/) — 1.1 M sodium malonate precipitant in TcdA1 crystallization
 - [Jeffamine ED-2001](/xray-mp-wiki/reagents/additives/jeffamine-ed-2001/) — Polyalkylene glycol precipitant in TcdA1 crystallization
-- [Tween-20](/xray-mp-wiki/reagents/additives/tween-20/) — 0.05% Tween-20 in TcdA1 purification and crystallization buffers
+- [Tween-20](/xray-mp-wiki/reagents/detergents/tween-20/) — 0.05% Tween-20 in TcdA1 purification and crystallization buffers
 - [MES Buffer](/xray-mp-wiki/reagents/buffers/mes/) — 50 mM MES pH 5.0 in TcdA1 dialysis and storage buffer
 - [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Crystallization method used for TcdA1
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Structure solution method for TcdA1 at 4.0 A using previous cryo-EM search model

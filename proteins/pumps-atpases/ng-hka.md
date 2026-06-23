@@ -1,5 +1,5 @@
 ---
-title: Non-Gastric H+/K+-ATPase (ngHKA)
+title: "Non-Gastric H+/K+-ATPase (ngHKA)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ The non-gastric H+/K+-ATPase (ngHKA, [ATP](/xray-mp-wiki/reagents/ligands/atp)12
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41467-022-32793-0 | Not specified (deposited, PDB code in supplementary) | 3.3 | Not specified | Rat ngHKA alpha subunit co-expressed with rat NKA beta1 subunit in HEK293S GnT1 cells; Asp315Gly correction applied | K+ ([ALF4](/xray-mp-wiki/reagents/ligands/alf4)- inhibited, K+-occluded E2-Pi state) |
+| doi/10.1038##s41467-022-32793-0 | 7X20 | 3.3 | Not specified | Rat ngHKA alpha subunit co-expressed with rat NKA beta1 subunit in HEK293S GnT1 cells; Asp315Gly correction applied | K+ ([ALF4](/xray-mp-wiki/reagents/ligands/alf4)- inhibited, K+-occluded E2-Pi state) |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ The non-gastric H+/K+-ATPase (ngHKA, [ATP](/xray-mp-wiki/reagents/ligands/atp)12
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

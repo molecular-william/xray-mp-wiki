@@ -1,5 +1,5 @@
 ---
-title: Yeast Mitochondrial ABC Transporter Atm1
+title: "Yeast Mitochondrial ABC Transporter Atm1"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -36,7 +36,7 @@ Yeast Atm1 (ABC transporter of mitochondria 1) is a mitochondrial inner membrane
 - **Expression construct**: Atm1Δ98 (residues 99-678) with C-terminal Strep-tag
 - **Tag info**: C-terminal Strep-tag; five residues of the Strep-tag visible in the C-terminal helix structure
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

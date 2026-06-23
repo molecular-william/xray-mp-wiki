@@ -1,5 +1,5 @@
 ---
-title: Anabaena Sensory Rhodopsin
+title: "Anabaena Sensory Rhodopsin"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -41,7 +41,7 @@ transducer rather than a membrane-embedded one.
 
 - **Expression system**: Anabaena (Nostoc) sp. PCC 7120
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

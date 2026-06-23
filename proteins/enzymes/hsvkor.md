@@ -1,5 +1,5 @@
 ---
-title: Human Vitamin K Epoxide Reductase (HsVKOR)
+title: "Human Vitamin K Epoxide Reductase (HsVKOR)"
 created: 2026-06-10
 updated: 2026-06-10
 type: protein
@@ -40,7 +40,7 @@ Human [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide reductase
 - **Expression construct**: HsVKOR (3-155) with sfGFP fusion at N- and C-termini
 - **Tag info**: Split superfolder GFP (sfGFP) fused to N- and C-termini
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ The warfarin-bound structure differs from the 3-OH K-bound structure. In the 3-O
 - [Warfarin](/xray-mp-wiki/reagents/ligands/warfarin/) — Primary VKA inhibitor bound in HsVKOR structures
 - [Brodifacoum](/xray-mp-wiki/reagents/ligands/brodifacoum/) — Superwarfarin bound in HsVKOR structure 6WVH
 - [Termini Restraining](/xray-mp-wiki/concepts/miscellaneous/termini-restraining/) — HsVKOR structure was determined using the termini-restraining approach with split sfGFP
-- [Vitamin K Catalytic Cycle](/xray-mp-wiki/concepts/enzyme-mechanisms/vitamin-k-catalytic-cycle/) — Central enzymatic cycle catalyzed by HsVKOR
+- [Vitamin K Catalytic Cycle](/xray-mp-wiki/concepts/enzyme-mechanisms/vitamin-k-cycle/) — Central enzymatic cycle catalyzed by HsVKOR
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for HsVKOR purification
 - [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) — Detergent used for SEC and final sample of HsVKOR
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used for LCP crystallization of HsVKOR

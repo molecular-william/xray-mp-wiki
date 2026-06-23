@@ -1,5 +1,5 @@
 ---
-title: ThiT — thiamin transporter S-component
+title: "ThiT — thiamin transporter S-component"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein

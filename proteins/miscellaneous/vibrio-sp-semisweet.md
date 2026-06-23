@@ -1,5 +1,5 @@
 ---
-title: Vibrio sp. SemiSWEET
+title: "Vibrio sp. SemiSWEET"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -32,7 +32,7 @@ Vibrio sp. [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mecha
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Bovine Mitochondrial F1-ATPase-Stator Complex (Membrane Extrinsic Region)
+title: "Bovine Mitochondrial F1-ATPase-Stator Complex (Membrane Extrinsic Region)"
 created: 2026-06-10
 updated: 2026-06-10
 type: protein
@@ -20,7 +20,7 @@ The bovine mitochondrial F1-ATPase-stator complex (F1-stator_T) is a subcomplex 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.0910365106 | not stated in raw paper | 3.2 | P2(1)2(1)2(1) | Bovine F1-ATPase (α3β3γδɛ) complexed with stator_T subcomplex (b, d, F6, OSCP). Selenomethionine-substituted stator_T. | AMP-PNP (non-hydrolyzable ATP analog) |
+| doi/10.1073##pnas.0910365106 | 2WSS | 3.2 | P2(1)2(1)2(1) | Bovine F1-ATPase (α3β3γδɛ) complexed with stator_T subcomplex (b, d, F6, OSCP). Selenomethionine-substituted stator_T. | AMP-PNP (non-hydrolyzable ATP analog) |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ The bovine mitochondrial F1-ATPase-stator complex (F1-stator_T) is a subcomplex 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

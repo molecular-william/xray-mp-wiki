@@ -1,5 +1,5 @@
 ---
-title: CusA Heavy-Metal Efflux RND Transporter (E. coli)
+title: "CusA Heavy-Metal Efflux RND Transporter (E. coli)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -20,9 +20,9 @@ CusA is the inner-membrane transporter component of the CusCBA tripartite efflux
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature09395 | Not specified in publication | Not specified | R32 | Full-length CusA with N-terminal His6 tag | Apo (no metal bound) |
-| doi/10.1038##nature09395 | Not specified in publication | Not specified | R32 | Full-length CusA with N-terminal His6 tag | Cu(I) |
-| doi/10.1038##nature09395 | Not specified in publication | Not specified | R32 | Full-length CusA with N-terminal His6 tag | Ag(I) |
+| doi/10.1038##nature09395 | 3K07 | Not specified | R32 | Full-length CusA with N-terminal His6 tag | Apo (no metal bound) |
+| doi/10.1038##nature09395 | 3K07 | Not specified | R32 | Full-length CusA with N-terminal His6 tag | Cu(I) |
+| doi/10.1038##nature09395 | 3K07 | Not specified | R32 | Full-length CusA with N-terminal His6 tag | Ag(I) |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ CusA is the inner-membrane transporter component of the CusCBA tripartite efflux
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

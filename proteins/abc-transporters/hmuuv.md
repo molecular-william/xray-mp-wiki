@@ -1,5 +1,5 @@
 ---
-title: Yersinia pestis Heme Transporter HmuUV
+title: "Yersinia pestis Heme Transporter HmuUV"
 created: 2026-06-05
 updated: 2026-06-05
 type: protein
@@ -34,7 +34,7 @@ The HmuUV complex is the transmembrane and nucleotide-binding domain core of the
 - **Expression system**: E. coli BL21 Gold (DE3)
 - **Expression construct**: HmuU with N-terminal His10 tag + HmuV
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Tubulin-DARPin Complex (TD1)
+title: "Tubulin-DARPin Complex (TD1)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -33,7 +33,7 @@ The Tubulin-DARPin complex (TD1) is a model system for studying ligand binding t
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

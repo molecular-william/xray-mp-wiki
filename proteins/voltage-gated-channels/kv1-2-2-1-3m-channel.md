@@ -1,5 +1,5 @@
 ---
-title: Kv1.2-2.1-3m Chimeric Channel (C-type Inactivated State)
+title: "Kv1.2-2.1-3m Chimeric Channel (C-type Inactivated State)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -33,7 +33,7 @@ The Kv1.2-2.1-3m channel is a triple mutant (W362F, S367T, V377T) of the Kv1.2-2
 - **Expression system**: Pichia pastoris
 - **Expression construct**: Kv1.2-2.1-3m (W362F/S367T/V377T) with beta2 subunit, cloned into pPicZ-C vector
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

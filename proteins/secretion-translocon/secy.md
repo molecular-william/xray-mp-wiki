@@ -1,5 +1,5 @@
 ---
-title: Thermus thermophilus SecY Core Channel Subunit
+title: "Thermus thermophilus SecY Core Channel Subunit"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -32,7 +32,7 @@ SecY is the core channel-forming subunit of the Sec translocon, a heterotrimeric
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: TrVKORL (Pufferfish Vitamin K Epoxide Reductase-Like)
+title: "TrVKORL (Pufferfish Vitamin K Epoxide Reductase-Like)"
 created: 2026-06-10
 updated: 2026-06-10
 type: protein
@@ -39,7 +39,7 @@ TrVKORL is a [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide re
 - **Expression construct**: TrVKORL (6-175) wild-type or Cys138Ser (Cys132Ser) mutant
 - **Tag info**: Native, no purification tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ The closed conformation induced by [Warfarin](/xray-mp-wiki/reagents/ligands/war
 - [Human Vitamin K Epoxide Reductase (HsVKOR)](/xray-mp-wiki/proteins/enzymes/hsvkor/) — Mammalian homolog; TrVKORL shares 52% sequence identity and same overall structure
 - [VKOR from Synechococcus sp.](/xray-mp-wiki/proteins/enzymes/synechococcus-vkor/) — Bacterial VKOR homolog providing complementary structural information
 - [Warfarin](/xray-mp-wiki/reagents/ligands/warfarin/) — VKA used to capture closed conformation of TrVKORL
-- [Vitamin K Catalytic Cycle](/xray-mp-wiki/concepts/enzyme-mechanisms/vitamin-k-catalytic-cycle/) — Catalytic cycle described through TrVKORL structures in different states
+- [Vitamin K Catalytic Cycle](/xray-mp-wiki/concepts/enzyme-mechanisms/vitamin-k-cycle/) — Catalytic cycle described through TrVKORL structures in different states
 - [Termini Restraining](/xray-mp-wiki/concepts/miscellaneous/termini-restraining/) — TrVKORL structure was determined using the termini-restraining approach with split sfGFP
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for TrVKORL membrane solubilization
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used for LCP crystallization of TrVKORL

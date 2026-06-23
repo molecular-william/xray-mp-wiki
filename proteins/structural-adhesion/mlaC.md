@@ -1,5 +1,5 @@
 ---
-title: E. coli MlaC Periplasmic Lipid-Binding Protein
+title: "E. coli MlaC Periplasmic Lipid-Binding Protein"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-MlaC is a soluble [periplasmic](/xray-mp-wiki/concepts/miscellaneous/periplasm/) lipid-binding protein from Escherichia coli that functions as a shuttle carrier for phospholipids in the Mla lipid transport system. MlaC binds lipid tails in a deep [hydrophobic pocket](/xray-mp-wiki/concepts/hydrophobic-pocket/) with little head group specificity, allowing it to ferry a wide range of diacyl lipids between the [inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/inner-membrane/) MlaFEDB transporter complex and the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) [MLAA](/xray-mp-wiki/proteins/mlaA)-OmpC/OmpF complex. MlaC adopts a mixed alpha/beta fold with four beta strands and seven alpha helices. Its structure reveals a deep [hydrophobic pocket](/xray-mp-wiki/concepts/hydrophobic-pocket/) that binds the two tails of a lipid molecule without interacting with the lipid head group.
+MlaC is a soluble [periplasmic](/xray-mp-wiki/concepts/miscellaneous/periplasm/) lipid-binding protein from Escherichia coli that functions as a shuttle carrier for phospholipids in the Mla lipid transport system. MlaC binds lipid tails in a deep [hydrophobic pocket](/xray-mp-wiki/concepts/hydrophobic-pocket/) with little head group specificity, allowing it to ferry a wide range of diacyl lipids between the [inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/inner-membrane/) MlaFEDB transporter complex and the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) [MLAA](/xray-mp-wiki/proteins/mlaA)-OmpC/OmpF complex. MlaC adopts a mixed alpha/beta fold with four beta strands and seven alpha helices. Its structure reveals a deep [hydrophobic pocket](/xray-mp-wiki/concepts/hydrophobic-pocket/) that binds the two tails of a lipid molecule without interacting with the lipid head group.
 
 ## Structure Determination
 
@@ -30,7 +30,7 @@ MlaC is a soluble [periplasmic](/xray-mp-wiki/concepts/miscellaneous/periplasm/)
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

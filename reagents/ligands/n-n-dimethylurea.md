@@ -47,4 +47,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [Urea](/xray-mp-wiki/reagents/additives/urea/) — Native substrate of the urea transporter; DMU is a structural analogue
+- [Urea](/xray-mp-wiki/reagents/substrates/urea/) — Native substrate of the urea transporter; DMU is a structural analogue

@@ -1,5 +1,5 @@
 ---
-title: MtTMEM175 K+ channel from Marivirga tractuosa
+title: "MtTMEM175 K+ channel from Marivirga tractuosa"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -53,7 +53,7 @@ is a Parkinson disease risk gene.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

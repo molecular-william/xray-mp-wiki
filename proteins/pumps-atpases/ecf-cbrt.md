@@ -1,5 +1,5 @@
 ---
-title: ECF-CbrT (ECF-type ABC Transporter for Vitamin B12 from Lactobacillus delbrueckii)
+title: "ECF-CbrT (ECF-type ABC Transporter for Vitamin B12 from Lactobacillus delbrueckii)"
 created: 2026-06-10
 updated: 2026-06-10
 type: protein
@@ -36,7 +36,7 @@ ECF-CbrT is an Energy Coupling Factor (ECF)-type ABC transporter from Lactobacil
 - **Expression construct**: Full ECF-CbrT complex
 - **Tag info**: C-terminal octa-His-tag on CbrT (solitary) or untagged in complex
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ Vmax 0.06 nmol/mg/s), suggesting convergent evolution of B12 transport.
 ## Cross-References
 
 - [ECF Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/ecf-transporter-family/) — ECF-CbrT is a group II ECF transporter
-- [Cobalamin](/xray-mp-wiki/reagents/cobalamin/) — Referenced in ecf-cbrt text
+- [Cobalamin](/xray-mp-wiki/reagents/ligands/cobalamin/) — Referenced in ecf-cbrt text
 - [ATP](/xray-mp-wiki/reagents/ligands/atp/) — Referenced in ecf-cbrt text
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Referenced in ecf-cbrt text
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Referenced in ecf-cbrt text

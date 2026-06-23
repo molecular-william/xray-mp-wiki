@@ -1,5 +1,5 @@
 ---
-title: Epithelial Calcium Channel TRPV5
+title: "Epithelial Calcium Channel TRPV5"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein

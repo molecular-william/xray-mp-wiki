@@ -1,5 +1,5 @@
 ---
-title: Leukotriene B4 Receptor 1 (BLT1) — Guinea Pig and Human
+title: "Leukotriene B4 Receptor 1 (BLT1) — Guinea Pig and Human"
 created: 2026-06-03
 updated: 2026-06-09
 type: protein
@@ -28,7 +28,7 @@ The leukotriene B4 receptor 1 (BLT1) is a class A G protein-coupled receptor tha
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -108,7 +108,7 @@ Comparison of hBLT1 and gpBLT1 structures revealed that four non-conserved resid
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) method used for both BLT1 structures
 - [Protein Thermostabilization](/xray-mp-wiki/concepts/construct-design/thermostabilization/) — Mutations used for both gpBLT1 and hBLT1 thermostabilization
 - [Sodium Ion Allosteric Modulation in GPCRs](/xray-mp-wiki/concepts/signaling-receptors/sodium-allosteric-modulation/) — BLT1 is sensitive to allosteric sodium modulation
-- [Pichia pastoris Expression System](/xray-mp-wiki/expression-systems/pichia-pastoris/) — gpBLT1-T4L expressed in [Pichia pastoris](/xray-mp-wiki/organisms/pichia-pastoris)
+- [Pichia pastoris Expression System](/xray-mp-wiki/methods/expression-systems/pichia-pastoris/) — gpBLT1-T4L expressed in [Pichia pastoris](/xray-mp-wiki/organisms/pichia-pastoris)
 - [Insect Cell Expression System](/xray-mp-wiki/expression-systems/insect-cell-expression/) — hBLT1 expressed using baculovirus in insect cells
 - [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — Both BLT1 structures represent the inactive state
 - [Inverse Agonism in GPCR Signaling](/xray-mp-wiki/concepts/signaling-receptors/inverse-agonism/) — [BIIL260](/xray-mp-wiki/reagents/ligands/biil260) acts as an inverse agonist for BLT1

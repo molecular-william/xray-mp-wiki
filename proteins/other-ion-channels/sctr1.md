@@ -1,5 +1,5 @@
 ---
-title: sCtr1 (High-Affinity Copper Transporter from Salmo salar)
+title: "sCtr1 (High-Affinity Copper Transporter from Salmo salar)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,8 +21,8 @@ Ctr1 is the evolutionarily conserved high-affinity Cu⁺ transporter crucial for
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41467-019-09376-7 | unknown | 3.0 | H32 | sCtr1_cryst (ΔN40, BRIL insertion) |  |
-| doi/10.1038##s41467-019-09376-7 | unknown | 3.2 | H32 | sCtr1_cryst | Cu⁺ |
+| doi/10.1038##s41467-019-09376-7 | 6M97 | 3.0 | H32 | sCtr1_cryst (ΔN40, BRIL insertion) |  |
+| doi/10.1038##s41467-019-09376-7 | 6M97 | 3.2 | H32 | sCtr1_cryst | Cu⁺ |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ Ctr1 is the evolutionarily conserved high-affinity Cu⁺ transporter crucial for
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

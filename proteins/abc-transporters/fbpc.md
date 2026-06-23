@@ -1,5 +1,5 @@
 ---
-title: FbpC (Nucleotide-Binding Domain of the FbpABC Iron Transporter)
+title: "FbpC (Nucleotide-Binding Domain of the FbpABC Iron Transporter)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -30,7 +30,7 @@ FbpC is the nucleotide-binding domain (NBD) of the FbpABC ferric  uptake -bindin
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -83,5 +83,5 @@ The opening of the two -binding interfaces within each NBD dimer appears to be s
 - [ATP](/xray-mp-wiki/reagents/ligands/atp/) — Bound in the active site; used in purification buffers to stabilize FbpC
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Cryoprotectant in purification buffers
 - [Malk](/xray-mp-wiki/proteins/abc-transporters/malK/) — Referenced in fbpc text
-- [Iron](/xray-mp-wiki/reagents/iron/) — Referenced in fbpc text
+- [Iron](/xray-mp-wiki/reagents/additives/iron/) — Referenced in fbpc text
 - [ATP](/xray-mp-wiki/reagents/ligands/atp/) — Referenced in fbpc text

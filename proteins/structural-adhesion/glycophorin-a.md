@@ -1,5 +1,5 @@
 ---
-title: Glycophorin A Transmembrane Domain (GpA-TM)
+title: "Glycophorin A Transmembrane Domain (GpA-TM)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -32,7 +32,7 @@ Glycophorin A (GpA) is a type I single-pass transmembrane sialoglycoprotein foun
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

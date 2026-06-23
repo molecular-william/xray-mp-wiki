@@ -1,5 +1,5 @@
 ---
-title: HMP ECF Transporter from Lactobacillus brevis
+title: "HMP ECF Transporter from Lactobacillus brevis"
 created: 2026-06-21
 updated: 2026-06-21
 type: protein
@@ -31,7 +31,7 @@ rigid-body rotation of the S component.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature12045 |  | 3.5 | P2₁2₁2₁ | Full-length EcfA (1-279), EcfA' (1-290), EcfS (1-166), EcfT (1-266) with N-terminal dodecahistidine tag on EcfT | None (substrate-free) |
+| doi/10.1038##nature12045 | 4HZU | 3.5 | P2₁2₁2₁ | Full-length EcfA (1-279), EcfA' (1-290), EcfS (1-166), EcfT (1-266) with N-terminal dodecahistidine tag on EcfT | None (substrate-free) |
 
 ## Expression and Purification
 
@@ -45,7 +45,7 @@ rigid-body rotation of the S component.
 - **Expression construct**: Co-expression of ecfT-ecfS-pRSF-Duet-1 + ecfA-ecfA'-pACYC-Duet-1
 - **Tag info**: N-terminal dodecahistidine tag on EcfT
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

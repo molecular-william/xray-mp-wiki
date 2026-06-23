@@ -1,5 +1,5 @@
 ---
-title: Thermus thermophilus RodA
+title: "Thermus thermophilus RodA"
 created: 2026-06-03
 updated: 2026-06-08
 type: protein
@@ -31,10 +31,10 @@ RodA is a 359-residue transmembrane peptidoglycan polymerase from the Shape, Elo
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature25985*
+#### Source: doi/10.1038##nature25985
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -43,12 +43,10 @@ RodA is a 359-residue transmembrane peptidoglycan polymerase from the Shape, Elo
 | Affinity purification | Anti-FLAG antibody [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Anti-Flag antibody affinity resin (4 mL) | 20 mM HEPES pH 7.0, 500 mM NaCl, 2 mM CaCl2, 20% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Washed extensively, then in buffer supplemented with 10 mM ATP magnesium salt and 20 mM KCl to remove bacterial chaperones GroEL and DnaK |
 | Elution and tag removal | Elution with Flag peptide, followed by 3C protease cleavage | -- | 20 mM HEPES pH 7.0, 500 mM NaCl, 20% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 5 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/), 0.2 mg/mL Flag peptide + 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | 3C protease added at 1:1000 w:w ratio, incubated at 4 C overnight |
 
-### Purification Workflow
-
-*Source: doi/10.1038##s41564-020-0687-z*
+#### Source: doi/10.1038##s41564-020-0687-z
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

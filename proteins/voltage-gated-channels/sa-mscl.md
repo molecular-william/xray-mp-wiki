@@ -1,5 +1,5 @@
 ---
-title: Staphylococcus aureus MscL (Mechanosensitive Channel of Large Conductance)
+title: "Staphylococcus aureus MscL (Mechanosensitive Channel of Large Conductance)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -30,7 +30,7 @@ SaMscL is the mechanosensitive channel of large conductance from Staphylococcus 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

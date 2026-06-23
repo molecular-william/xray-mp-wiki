@@ -1,5 +1,5 @@
 ---
-title: Polysulfide Reductase (PsrABC) from Thermus thermophilus
+title: "Polysulfide Reductase (PsrABC) from Thermus thermophilus"
 created: 2026-05-29
 updated: 2026-05-29
 type: protein
@@ -30,7 +30,7 @@ Polysulfide reductase (PsrABC) from Thermus thermophilus is an integral membrane
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ PsrC accommodates a possible proton-relay network centered on a hydrophilic cavi
 
 ## Cross-References
 
-- [Menaquinone-7 (MK-7)](/xray-mp-wiki/reagents/ligands/menaquinone-7/) — Endogenous quinone substrate and electron donor
+- [Menaquinone-7 (MK-7)](/xray-mp-wiki/reagents/cofactors/menaquinone-7/) — Endogenous quinone substrate and electron donor
 - [Ubiquinone (Coenzyme Q10)](/xray-mp-wiki/reagents/cofactors/ubiquinone/) — Similar quinone electron carrier; UQ1 used as crystallization analog
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for solubilization and purification
 - [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Buffer component in purification and crystallization

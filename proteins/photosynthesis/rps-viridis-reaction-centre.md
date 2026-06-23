@@ -1,5 +1,5 @@
 ---
-title: Rps. viridis Photosynthetic Reaction Centre
+title: "Rps. viridis Photosynthetic Reaction Centre"
 created: 2026-05-26
 updated: 2026-05-29
 type: protein
@@ -30,7 +30,7 @@ The photosynthetic reaction centre from the purple bacterium Rhodopseudomonas vi
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ Six peptide units preceding proline residues adopt the cis conformation. The cyt
 
 ## Cross-References
 
-- [Rhodobacter sphaeroides Reaction Centre with Zinc-Bacteriochlorophyll](/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-centre-zn-bchl/) — Related purple bacterial reaction centre with similar four-subunit architecture and electron transfer mechanism
+- [Rhodobacter sphaeroides Reaction Centre with Zinc-Bacteriochlorophyll](/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-center/) — Related purple bacterial reaction centre with similar four-subunit architecture and electron transfer mechanism
 - [B800-850 LH2 Light-Harvesting Complex from Rhodopseudomonas acidophila](/xray-mp-wiki/proteins/photosynthesis/lh2-rps-acidophila/) — Related light-harvesting complex from a purple bacterium, works in conjunction with reaction centres
 - [Lauryldimethylamine N-oxide (LDAO)](/xray-mp-wiki/reagents/detergents/ldao/) — Zwitterionic detergent observed as an ordered molecule in the crystal structure; used in RC preparation
 - [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) — Key photosynthetic co-factor; four BChl-b molecules are bound in the RC complex (special pair, accessory BChl, and two at D_A/D_B sites)
@@ -89,5 +89,5 @@ Six peptide units preceding proline residues adopt the cis conformation. The cyt
 - [Menaquinone](/xray-mp-wiki/reagents/ligands/menaquinone/) — Primary quinone acceptor (QA site) in the RC complex; menaquinone-9 in Rps. viridis
 - [Carotenoid](/xray-mp-wiki/reagents/ligands/carotenoid/) — 1,2-dihydronurosporene carotenoid bound on the M-side of the RC core; involved in photoprotection
 - [Iron (Fe)](/xray-mp-wiki/reagents/additives/iron/) — Ferrous non-haem iron ion is a key co-factor located between QA and QB quinone binding sites
-- [Rhodobacter sphaeroides R-26 Reaction Center](/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-r26-reaction-center/) — Solved by molecular replacement using this structure as search model; structures are very similar
+- [Rhodobacter sphaeroides R-26 Reaction Center](/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-center/) — Solved by molecular replacement using this structure as search model; structures are very similar
 - [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) — Related ligand or cofactor

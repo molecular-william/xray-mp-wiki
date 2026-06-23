@@ -1,5 +1,5 @@
 ---
-title: ABCG8
+title: "ABCG8"
 created: 2026-05-27
 updated: 2026-06-16
 type: protein
@@ -33,7 +33,7 @@ The first X-ray crystal structure of human ABCG5/G8 was determined at 3.9 Å res
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ Sterol docking poses on ABCG5/G8 are distributed asymmetrically at the opposing 
 - [ABCG1](/xray-mp-wiki/proteins/abc-transporters/abcg1/) — Homodimeric ABCG sterol transporter; extensively compared for sterol binding patterns
 - [ABCG2](/xray-mp-wiki/proteins/abc-transporters/abcg2/) — Multidrug transporter ABCG member; shares hydrophobic valve and PH motif for comparison
 - [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) — Central ligand; hydrogen bonds with ABCG8_T430; used in crystallization and incubation
-- [Cholesteryl Hemisuccinate (CHS)](/xray-mp-wiki/reagents/additives/cholesterol-hydrogen-succinate/) — [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol) derivative used in purification and crystallization buffers (0.01% w/v)
+- [Cholesteryl Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol) derivative used in purification and crystallization buffers (0.01% w/v)
 - [Decyl Maltose Neopentyl Glycol (DMNG)](/xray-mp-wiki/reagents/detergents/dmng/) — Primary detergent used in final purification and crystallization sample buffer
 - [MES Buffer](/xray-mp-wiki/reagents/buffers/mes/) — Crystallization buffer (100 mM, pH 6.5)
 - [Ammonium Sulfate](/xray-mp-wiki/reagents/additives/ammonium-sulfate/) — Crystallization precipitant (1.8-2.0 M)

@@ -1,5 +1,5 @@
 ---
-title: Human Claudin-3 (hCLDN-3)
+title: "Human Claudin-3 (hCLDN-3)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein

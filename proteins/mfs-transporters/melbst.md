@@ -1,5 +1,5 @@
 ---
-title: Melibiose Permease from Salmonella typhimurium (MelBSt)
+title: "Melibiose Permease from Salmonella typhimurium (MelBSt)"
 created: 2026-06-04
 updated: 2026-06-10
 type: protein
@@ -21,7 +21,7 @@ verified: false
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##ncomms4009 | not specified | 3.35 A | P3221 | Full-length MelBSt, Leu5->Met mutation, [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) [His10](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag | [2NPG](/xray-mp-wiki/reagents/ligands/2npg) (4-nitrophenyl-alpha-D-galactopyranoside) |
+| doi/10.1038##ncomms4009 | 4M64 | 3.35 A | P3221 | Full-length MelBSt, Leu5->Met mutation, [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) [His10](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag | [2NPG](/xray-mp-wiki/reagents/ligands/2npg) (4-nitrophenyl-alpha-D-galactopyranoside) |
 | doi/10.1038##s42003-021-02462-x | 7L17 | 3.05 A | P 31 2 1 | D59C MelB_St mutant with bound alpha-NPG | alpha-NPG (4-nitrophenyl-alpha-D-galactopyranoside) |
 | doi/10.1038##s42003-021-02462-x | 7L16 | 3.15 A | P 31 2 1 | D59C MelB_St mutant with bound DDMB (dodecyl-beta-D-melibioside) | DDMB (dodecyl-beta-D-melibioside) |
 
@@ -33,11 +33,11 @@ verified: false
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
-| Cell culture and membrane preparation | Fermentation and membrane fractionation | not specified | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.5, 200 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + not specified | Cells grown in LB broth with 50 mM KP(i), 45 mM (NH(4))(H(2)PO(4)), 0.5% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 100 mg/L [ampicillin](/xray-mp-wiki/reagents/additives/ampicillin/) at 30 C. Membranes harvested by [ultracentrifugation](/xray-mp-wiki/methods/purification/ultracentrifugation/) at 144,651 g for 3 h. |
+| Cell culture and membrane preparation | Fermentation and membrane fractionation | not specified | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.5, 200 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + not specified | Cells grown in LB broth with 50 mM KP(i), 45 mM (NH(4))(H(2)PO(4)), 0.5% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 100 mg/L [ampicillin](/xray-mp-wiki/reagents/antibiotics/ampicillin/) at 30 C. Membranes harvested by [ultracentrifugation](/xray-mp-wiki/methods/purification/ultracentrifugation/) at 144,651 g for 3 h. |
 | Solubilization | Detergent solubilization | not specified | not specified + 1.5% [UDM](/xray-mp-wiki/reagents/detergents/udm/) ([UDM](/xray-mp-wiki/reagents/detergents/udm)) | Membranes at 14 mg/ml extracted with 1.5% [UDM](/xray-mp-wiki/reagents/detergents/udm) followed by [ultracentrifugation](/xray-mp-wiki/methods/purification/ultracentrifugation/) at 265,000 g for 30 min. |
 | Cobalt-[affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) ([Talon](/xray-mp-wiki/reagents/additives/talon/) resins) | [Talon](/xray-mp-wiki/reagents/additives/talon/) resins (cobalt-affinity) | 50 mM NaP(i) pH 7.6, 200 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.035% [UDM](/xray-mp-wiki/reagents/detergents/udm), 5 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 0.035% [UDM](/xray-mp-wiki/reagents/detergents/udm) | Column pre-equilibrated with buffer containing 5 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/). Wash with 35 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) buffer. Elution with 200 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/). |
 | Concentration and dialysis | Concentration and buffer exchange | not specified | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.1, 100 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + not specified | Concentrated with VIVASPIN 20 (50 kDa cutoff), dialyzed twice against 1 L of buffer. |
@@ -106,3 +106,9 @@ A sequential binding kinetic model explains reversible cation/melibiose symport 
 - [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) — Entity mentioned in text
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Entity mentioned in text
 - [vapor diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion/) — Entity mentioned in text
+- [LeuT Amino Acid Transporter](/xray-mp-wiki/proteins/enzymes/leut/) — LeuT is another model secondary transporter with resolved substrate-binding mechanism
+- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
+- [ITC](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/) — Method used in structure determination or purification
+- [Ethylene Glycol](/xray-mp-wiki/reagents/additives/ethylene-glycol/) — Additive used in purification or crystallization buffers
+- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers
+- [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers

@@ -1,5 +1,5 @@
 ---
-title: Helicobacter pylori Urea Channel (HpUrel)
+title: "Helicobacter pylori Urea Channel (HpUrel)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -29,7 +29,7 @@ No structure determined.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ carbonyl oxygen pointing toward TMH2 near the center of the hexamer.
 ## Cross-References
 
 - [Urea Transporter dvUT](/xray-mp-wiki/proteins/other-ion-channels/urea-transporter-dvut/) — Related urea channel/facilitator from Desulfovibrio vulgaris
-- [Urea](/xray-mp-wiki/reagents/additives/urea/) — Substrate of the HpUrel urea channel
+- [Urea](/xray-mp-wiki/reagents/substrates/urea/) — Substrate of the HpUrel urea channel
 - [Channel-like Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/channel-like-mechanism/) — HpUrel operates as a channel facilitating urea diffusion
 - [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) — Related biological concept
 - [UREA](/xray-mp-wiki/reagents/substrates/urea/) — Entity mentioned in text

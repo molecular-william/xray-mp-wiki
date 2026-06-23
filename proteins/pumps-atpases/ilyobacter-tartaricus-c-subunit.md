@@ -1,5 +1,5 @@
 ---
-title: F-Type Na+-ATPase c11 Rotor Ring from Ilyobacter tartaricus
+title: "F-Type Na+-ATPase c11 Rotor Ring from Ilyobacter tartaricus"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -34,7 +34,7 @@ The crystal structure of the membrane-embedded rotor ring of the sodium ion-tran
 - **Expression system**: Ilyobacter tartaricus (native)
 - **Expression construct**: Native c11 ring
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

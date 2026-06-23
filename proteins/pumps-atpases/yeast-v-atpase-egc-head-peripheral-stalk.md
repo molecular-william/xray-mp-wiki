@@ -1,5 +1,5 @@
 ---
-title: Yeast V-ATPase EGC_head Peripheral Stalk Complex
+title: "Yeast V-ATPase EGC_head Peripheral Stalk Complex"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -30,8 +30,8 @@ loops L1, L2 and alpha helix 1.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.str.2012.08.020 | not deposited | 2.91 | P 21 21 21 | EG heterodimer (full-length E and G subunits) + C_head (residues 167-263 of subunit C/Vma5p) | Lead ion (from TMLA soaking) |
-| doi/10.1016##j.str.2012.08.020 | not deposited | 2.82 | P 2 21 21 | EG heterodimer (full-length E and G subunits) + C_head (residues 167-263 of subunit C/Vma5p) | None |
+| doi/10.1016##j.str.2012.08.020 | 4DL0 | 2.91 | P 21 21 21 | EG heterodimer (full-length E and G subunits) + C_head (residues 167-263 of subunit C/Vma5p) | Lead ion (from TMLA soaking) |
+| doi/10.1016##j.str.2012.08.020 | 4DL0 | 2.82 | P 2 21 21 | EG heterodimer (full-length E and G subunits) + C_head (residues 167-263 of subunit C/Vma5p) | None |
 
 ## Expression and Purification
 

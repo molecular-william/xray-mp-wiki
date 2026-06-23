@@ -1,5 +1,5 @@
 ---
-title: TmCdsA CDP-DAG Synthetase
+title: "TmCdsA CDP-DAG Synthetase"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ TmCdsA is the CDP-diacylglycerol (CDP-[DAG](/xray-mp-wiki/reagents/lipids/dag/))
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ Mutagenesis analysis identified several essential charged residues around the di
 ## Cross-References
 
 - [Phosphatidic Acid (PA)](/xray-mp-wiki/reagents/lipids/phosphatidic-acid/) — Hydrophobic substrate of TmCdsA
-- [Cytidine-Diphosphate Diacylglycerol (CDP-DAG)](/xray-mp-wiki/reagents/cytidine-diphosphate-diacylglycerol/) — Product of TmCdsA enzymatic reaction
+- [Cytidine-Diphosphate Diacylglycerol (CDP-DAG)](/xray-mp-wiki/reagents/lipids/cytidine-diphosphate-diacylglycerol/) — Product of TmCdsA enzymatic reaction
 - [CDP-Alcohol Phosphotransferase Family](/xray-mp-wiki/concepts/protein-families/cdp-alcohol-phosphotransferase-family/) — Related enzyme family also utilizing CDP-activated substrates for phospholipid biosynthesis
 - [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — Method used in structure determination or purification
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

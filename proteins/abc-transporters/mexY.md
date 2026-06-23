@@ -1,5 +1,5 @@
 ---
-title: MexY (Pseudomonas aeruginosa multidrug exporter)
+title: "MexY (Pseudomonas aeruginosa multidrug exporter)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -53,7 +53,7 @@ The hydrophobic trap branches off from the substrate-translocation channel in th
 
 ## Cross-References
 
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Close homologue; ABI-PP-bound AcrB structure used as template for MexY homology model
+- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Close homologue; ABI-PP-bound AcrB structure used as template for MexY homology model
 - [MexB (Pseudomonas aeruginosa multidrug exporter)](/xray-mp-wiki/proteins/abc-transporters/mexB/) — Close homologue; ABI-PP-bound MexB structure used as template for MexY homology model
 - [ABI-PP (tert-butyl thiazolyl aminocarboxyl pyridopyrimidine)](/xray-mp-wiki/reagents/ligands/abi-pp/) — Central inhibitor compound; binding site differs between MexB and MexY due to W177/F178
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM molecule found bound in distal pocket of drug-free MexB, partially overlapping ABI-PP binding site

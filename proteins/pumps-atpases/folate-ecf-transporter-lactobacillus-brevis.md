@@ -1,5 +1,5 @@
 ---
-title: Folate ECF Transporter from Lactobacillus brevis
+title: "Folate ECF Transporter from Lactobacillus brevis"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ The folate [Free Energy Perturbation](/xray-mp-wiki/methods/structure-determinat
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature12046 |  | 3.0 | P2₁2₁2₁ | Full complex (EcfA, EcfA', EcfT-6His, FoIT) from L. brevis | Folate (Substrate) |
+| doi/10.1038##nature12046 | 4HUQ | 3.0 | P2₁2₁2₁ | Full complex (EcfA, EcfA', EcfT-6His, FoIT) from L. brevis | Folate (Substrate) |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ The folate [Free Energy Perturbation](/xray-mp-wiki/methods/structure-determinat
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

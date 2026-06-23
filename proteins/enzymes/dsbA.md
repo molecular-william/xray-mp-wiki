@@ -1,5 +1,5 @@
 ---
-title: DsbA
+title: "DsbA"
 created: 2026-05-27
 updated: 2026-06-16
 type: protein
@@ -21,7 +21,7 @@ DsbA is a periplasmic dithiol oxidase from Escherichia coli belonging to the thi
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1016##j.cell.2006.10.034 | 2HI7 | 3.7 | P4(2)2(1)2 | DsbB(Cys130Ser)-DsbA(Cys33Ala) complex, a stable reaction intermediate mimic held together by a Cys30(DsbA)-Cys104(DsbB) intermolecular disulfide bond | [UBIQUINONE](/xray-mp-wiki/reagents/cofactors/ubiquinone) Q8 (bound to DsbB, not directly to DsbA) |
-| doi/10.1016##j.febslet.2008.07.063 | Not available in raw paper | Not explicitly stated | Not available | DsbA(Cys33Ala) single-cysteine variant covalently bound to wtDsbB via intermolecular disulfide bond between Cys30 of DsbA and Cys104 of [DSBB](/xray-mp-wiki/proteins/dsbB). The Cys33Ala mutation was introduced to prevent formation of an incorrect disulfide bond during complex formation. | [UBIQUINONE](/xray-mp-wiki/reagents/cofactors/ubiquinone) Q8 (bound to DsbB, not directly to DsbA) |
+| doi/10.1016##j.febslet.2008.07.063 | 3E9J | Not explicitly stated | Not available | DsbA(Cys33Ala) single-cysteine variant covalently bound to wtDsbB via intermolecular disulfide bond between Cys30 of DsbA and Cys104 of [DSBB](/xray-mp-wiki/proteins/dsbB). The Cys33Ala mutation was introduced to prevent formation of an incorrect disulfide bond during complex formation. | [UBIQUINONE](/xray-mp-wiki/reagents/cofactors/ubiquinone) Q8 (bound to DsbB, not directly to DsbA) |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ DsbA is a periplasmic dithiol oxidase from Escherichia coli belonging to the thi
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

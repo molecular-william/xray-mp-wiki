@@ -1,5 +1,5 @@
 ---
-title: Rhodopsin Phosphodiesterase (Rh-PDE) from Salpingoeca rosetta
+title: "Rhodopsin Phosphodiesterase (Rh-PDE) from Salpingoeca rosetta"
 created: 2026-06-22
 updated: 2026-06-22
 type: protein
@@ -29,9 +29,9 @@ concentrations.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41467-020-19376-7 | pending | 2.6 | — | SrRh-PDE TMD (residues 33-316), C-terminal GFP-His6, TEV cleaved |  |
-| doi/10.1038##s41467-020-19376-7 | pending | 3.5 | — | SrRh-PDE TMD-Linker (residues 33-378), C-terminal GFP-His6, TEV cleaved |  |
-| doi/10.1038##s41467-020-19376-7 | pending | 2.1 | — | SrRh-PDE Linker-PDE domain, C-terminal His8, TEV cleaved |  |
+| doi/10.1038##s41467-020-19376-7 | 7CJ3 | 2.6 | — | SrRh-PDE TMD (residues 33-316), C-terminal GFP-His6, TEV cleaved |  |
+| doi/10.1038##s41467-020-19376-7 | 7CJ3 | 3.5 | — | SrRh-PDE TMD-Linker (residues 33-378), C-terminal GFP-His6, TEV cleaved |  |
+| doi/10.1038##s41467-020-19376-7 | 7CJ3 | 2.1 | — | SrRh-PDE Linker-PDE domain, C-terminal His8, TEV cleaved |  |
 
 ## Expression and Purification
 
@@ -46,7 +46,7 @@ concentrations.
 - **Expression construct**: SrRh-PDE TMD (aa 33-316) or TMD-Linker (aa 33-378) with C-terminal GFP-His6, TEV cleaved
 - **Tag info**: GFP-His6, removed by TEV cleavage
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ concentrations.
 - **Expression construct**: SrRh-PDE PDE domain with C-terminal His8, TEV cleaved
 - **Tag info**: His8, removed by TEV cleavage
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Human Microsomal Glutathione S-Transferase 2 (MGST2)
+title: "Human Microsomal Glutathione S-Transferase 2 (MGST2)"
 created: 2026-06-09
 updated: 2026-06-09
 type: protein
@@ -33,7 +33,7 @@ Microsomal [GSH](/xray-mp-wiki/reagents/additives/glutathione/) S-transferase 2 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

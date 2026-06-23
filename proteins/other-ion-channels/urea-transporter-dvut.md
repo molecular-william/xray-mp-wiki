@@ -1,5 +1,5 @@
 ---
-title: Urea Transporter from Desulfovibrio vulgaris (dvUT)
+title: "Urea Transporter from Desulfovibrio vulgaris (dvUT)"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -41,7 +41,7 @@ than a carrier-mediated alternating-access mechanism.
 - **Expression system**: E. coli BL21(DE3)
 - **Expression construct**: His6-SUMO-dvUT fusion
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ polar substrates within membrane protein pores.
 
 - [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/n-octyl-beta-d-glucopyranoside/) — Related maltoside/glucoside detergent used for membrane protein solubilization
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Another nonionic detergent used for solubilizing membrane proteins
-- [Urea](/xray-mp-wiki/reagents/additives/urea/) — Substrate and ligand of the urea transporter
+- [Urea](/xray-mp-wiki/reagents/substrates/urea/) — Substrate and ligand of the urea transporter
 - [N,N'-Dimethylurea (DMU)](/xray-mp-wiki/reagents/ligands/n-n-dimethylurea/) — Urea analogue used in structural studies of dvUT
 - [SUMO Tag](/xray-mp-wiki/reagents/protein-tags/sumo-tag/) — N-terminal fusion tag used in the dvUT expression construct
 - [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer component (20 mM, pH 7.5) used in purification and crystallization

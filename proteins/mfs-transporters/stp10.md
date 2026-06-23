@@ -1,5 +1,5 @@
 ---
-title: A. thaliana STP10
+title: "A. thaliana STP10"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-A. thaliana STP10 is a high-affinity [Glucose](/xray-mp-wiki/reagents/additives/glucose/)/H+ symporter from the Sugar Transport Protein (STP) family in Arabidopsis thaliana. It belongs to the major facilitator superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/)) and is responsible for proton-coupled uptake of monosaccharides from the apoplast into plant cells. STP10 is expressed in pollen tubes and plays crucial roles in plant organ development, stress responses, and defense against fungal pathogens. Two X-ray crystal structures were determined: an outward-occluded conformation at 1.8 A resolution (PDB: 7AAQ) and an inward-open conformation at 2.6 A resolution (PDB: 7AAR), both with [Glucose](/xray-mp-wiki/reagents/additives/glucose/) and protons bound.
+A. thaliana STP10 is a high-affinity [Glucose](/xray-mp-wiki/reagents/additives/glucose/)/H+ symporter from the Sugar Transport Protein (STP) family in Arabidopsis thaliana. It belongs to the major facilitator superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/)) and is responsible for proton-coupled uptake of monosaccharides from the apoplast into plant cells. STP10 is expressed in pollen tubes and plays crucial roles in plant organ development, stress responses, and defense against fungal pathogens. Two X-ray crystal structures were determined: an outward-occluded conformation at 1.8 A resolution (PDB: 7AAQ) and an inward-open conformation at 2.6 A resolution (PDB: 7AAR), both with [Glucose](/xray-mp-wiki/reagents/additives/glucose/) and protons bound.
 
 
 ## Structure Determination
@@ -37,7 +37,7 @@ A. thaliana STP10 is a high-affinity [Glucose](/xray-mp-wiki/reagents/additives/
 
 - **Expression system**: Saccharomyces cerevisiae EBY.VW4000
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ STP10 transports D-glucose with high affinity and can also transport the non-met
 ## Cross-References
 
 - [A. thaliana SWEET1](/xray-mp-wiki/proteins/miscellaneous/a-thaliana-sweet1/) — Both are plant sugar transporters from Arabidopsis thaliana, solved by X-ray crystallography
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — STP10 belongs to the MFS family of secondary active transporters
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — STP10 belongs to the MFS family of secondary active transporters
 - [Lid Domain in Sugar Transport Proteins (STPs)](/xray-mp-wiki/concepts/transport-mechanisms/lid-domain/) — STP10 structure revealed the Lid domain, a conserved feature of all STPs
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Additive used in purification or crystallization buffers

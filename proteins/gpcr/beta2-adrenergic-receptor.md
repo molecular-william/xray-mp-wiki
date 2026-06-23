@@ -1,5 +1,5 @@
 ---
-title: Human Beta2-Adrenergic Receptor (beta2 AR)
+title: "Human Beta2-Adrenergic Receptor (beta2 AR)"
 created: 2026-05-29
 updated: 2026-06-08
 type: protein
@@ -42,10 +42,10 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
 
 ### Purification Workflow
 
-*Source: unknown*
+#### Source: unknown
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
 | Final concentration | Vivaspin concentrator | — | 10 mM HEPES pH 7.5, 100 mM NaCl, 0.1% DDM, 10 uM [CARAZOLOL](/xray-mp-wiki/reagents/ligands/carazolol) | Concentrated to ~60 mg/ml for crystallization |
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
 | Detergent exchange | Exchange into [MNG](/xray-mp-wiki/reagents/detergents/mng)-3 detergent | — | [MNG](/xray-mp-wiki/reagents/detergents/mng)-3 | [MNG](/xray-mp-wiki/reagents/detergents/mng)-3 stabilizes complex during LCP incorporation |
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -89,15 +89,13 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
 | Dialysis | Overnight dialysis at 4 C | — | 20 mM HEPES pH 7.5, 100 mM NaCl, 0.003% MNG, 0.0003% CHS, 10 uM [CARAZOLOL](/xray-mp-wiki/reagents/ligands/carazolol), 10 uM Cmpd-15PA | Excess [EDTA](/xray-mp-wiki/reagents/additives/edta) and Flag peptide removed; PNGaseF added for N-linked glycosylation removal |
 | Concentration | 50 kDa cutoff Amicon centrifugal filters (Millipore) | — | 20 mM HEPES pH 7.5, 100 mM NaCl, 0.003% MNG, 0.0003% CHS, 10 uM [CARAZOLOL](/xray-mp-wiki/reagents/ligands/carazolol), 10 uM Cmpd-15PA | Concentrated to ~50 mg/ml |
 
-### Purification Workflow
-
-*Source: doi/10.1016##j.cell.2019.04.021*
+#### Source: doi/10.1016##j.cell.2019.04.021
 
 - **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/sf9-insect-cells) (Bac-to-Bac [Baculovirus Expression](/xray-mp-wiki/methods/expression-systems/baculovirus-expression))
 - **Expression construct**: [T4 Lysozyme](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme)-beta2 AR-GsCT-CC fusion; T4L fused between TM5-TM6; GsCT C-terminal 14 residues of Galpha s fused at C-terminus of T4L; A226C(5.65) and L394C(GsCT) mutations for disulfide crosslink
 - **Tag info**: N-terminal HA/FLAG tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -111,15 +109,13 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
 
 **Final sample**: beta2AR-T4L-GsCT-CC complex with BI-167107
 
-### Purification Workflow
-
-*Source: doi/10.1038##s41467-023-37808-y*
+#### Source: doi/10.1038##s41467-023-37808-y
 
 - **Expression system**: Sf9 insect cells via BestBac expression system
 - **Expression construct**: T4L-beta2AR construct; T4 lysozyme fused to N-terminus at D29(128) with two alanine linkers; ICL3 (S236-K263) removed; C-terminus truncated at K348; FLAG epitope at N-terminus
 - **Tag info**: N-terminal FLAG tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -132,15 +128,13 @@ The human beta2-adrenergic receptor (beta2 AR) is a class A G protein-coupled re
 
 **Final sample**: T4L-beta2AR-Nb6B9-c-Epi complex at 40 mg/mL
 
-### Purification Workflow
-
-*Source: doi/10.1371##journal.pone.0046039*
+#### Source: doi/10.1371##journal.pone.0046039
 
 - **Expression system**: Sf9 insect cells (baculovirus, Best-Bac system)
 - **Expression construct**: T4L-beta2AR-deltaICL3 in pvl1393 vector
 - **Tag info**: N-terminal HA/FLAG tag, TEV recognition site
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

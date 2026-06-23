@@ -1,5 +1,5 @@
 ---
-title: MalK (Escherichia coli Maltose Transporter ATPase Subunit)
+title: "MalK (Escherichia coli Maltose Transporter ATPase Subunit)"
 created: 2026-06-02
 updated: 2026-06-03
 type: protein
@@ -21,7 +21,7 @@ MalK is the cytoplasmic ATP-binding cassette (NBD) subunit of the Escherichia co
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature06264 | not specified | 2.8 | not specified | MalK(E159Q) dimer from E. coli [Maltose](/xray-mp-wiki/reagents/additives/maltose/) transporter | ATP (2 molecules at dimer interface) |
+| doi/10.1038##nature06264 | 2R6G | 2.8 | not specified | MalK(E159Q) dimer from E. coli [Maltose](/xray-mp-wiki/reagents/additives/maltose/) transporter | ATP (2 molecules at dimer interface) |
 | doi/10.1038##nature06264 | 1Q12 | not specified | not specified | Wild-type MalK dimer (ATP-bound, closed form) | ATP |
 
 ## Expression and Purification
@@ -32,7 +32,7 @@ MalK is the cytoplasmic ATP-binding cassette (NBD) subunit of the Escherichia co
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ In the intact transporter, the Q loop of MalK (residues 79-90) becomes well orde
 
 ## Cross-References
 
-- [Maltose Transporter (MalFGK2)](/xray-mp-wiki/proteins/abc-transporters/maltose-transporter/) — Full transporter complex; EIIA^Glc binds to MalK subunits
+- [Maltose Transporter (MalFGK2)](/xray-mp-wiki/proteins/abc-transporters/maltose-transporter-malfgk2/) — Full transporter complex; EIIA^Glc binds to MalK subunits
 - [EIIA^Glc (Escherichia coli Enzyme IIA^Glc)](/xray-mp-wiki/proteins/abc-transporters/eiiaglc/) — Regulatory protein; binds to MalK NBD and regulatory domain, locking transporter in inward-facing state
 - [MalF (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/abc-transporters/malF/) — TM subunit; EAA motif coupling helix contacts MalK
 - [MalG (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/abc-transporters/malG/) — TM subunit; C-terminal tail inserts into MalK dimer interface

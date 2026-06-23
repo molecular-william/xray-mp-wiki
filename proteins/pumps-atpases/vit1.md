@@ -1,5 +1,5 @@
 ---
-title: Plant Vacuolar Iron Transporter 1 (VIT1)
+title: "Plant Vacuolar Iron Transporter 1 (VIT1)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -35,7 +35,7 @@ Vacuolar [IRON](/xray-mp-wiki/reagents/additives/iron/) transporter 1 (VIT1) fro
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

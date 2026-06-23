@@ -1,5 +1,5 @@
 ---
-title: Syntaxin-1A (Rat Neuronal Qa-SNARE Protein)
+title: "Syntaxin-1A (Rat Neuronal Qa-SNARE Protein)"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -32,7 +32,7 @@ Syntaxin-1A is a neuronal Qa-SNARE protein from rat that plays a central role in
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

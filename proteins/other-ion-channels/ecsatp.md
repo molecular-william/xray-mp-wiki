@@ -1,5 +1,5 @@
 ---
-title: EcSatP — Bacterial Succinate-Acetate Transporter (AceTr Family)
+title: "EcSatP — Bacterial Succinate-Acetate Transporter (AceTr Family)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -44,7 +44,7 @@ shown to be critical for  translocation activity.
 - **Expression system**: E. coli C43 (DE3)
 - **Expression construct**: Full-length ecSatP with N-terminal 6×His tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -104,7 +104,7 @@ the unidirectional transport reported for the close homolog ckSatP.
 
 ## Cross-References
 
-- [Succinate](/xray-mp-wiki/reagents/succinate/) — Referenced in ecsatp text
+- [Succinate](/xray-mp-wiki/reagents/ligands/succinate/) — Referenced in ecsatp text
 - [Acetate](/xray-mp-wiki/reagents/buffers/acetate/) — Referenced in ecsatp text
 - [Iptg](/xray-mp-wiki/reagents/additives/iptg/) — Referenced in ecsatp text
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Referenced in ecsatp text
@@ -112,5 +112,5 @@ the unidirectional transport reported for the close homolog ckSatP.
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Referenced in ecsatp text
 - [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) — Referenced in ecsatp text
 - [Tris](/xray-mp-wiki/reagents/buffers/tris/) — Referenced in ecsatp text
-- [PEG300](/xray-mp-wiki/reagents/peg300/) — Referenced in ecsatp text
+- [PEG300](/xray-mp-wiki/reagents/additives/peg300/) — Referenced in ecsatp text
 - [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) — Referenced in ecsatp text

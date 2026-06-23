@@ -1,5 +1,5 @@
 ---
-title: MthK (Methanobacterium thermoautotrophicum K+ Channel)
+title: "MthK (Methanobacterium thermoautotrophicum K+ Channel)"
 created: 2026-06-08
 updated: 2026-06-11
 type: protein
@@ -21,14 +21,14 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##417515a |  | 3.3 | P6_6 22 | MthK M107I mutant, residues 19-336 | Ca2+ |
-| doi/10.1038##nsmb.1865 |  | 1.45 | P42_12 | MthK pore, S68H V77C mutant (K+ complex, 100 mM KCl) | K+ |
-| doi/10.1038##nsmb.1865 |  | 1.45 | P42_12 | MthK pore, S68R V77C mutant (low-K+ complex, 1 mM KCl/99 mM NaCl) | K+/Na+ |
-| doi/10.1038##nsmb.1865 |  | 2.2 | P42_12 | MthK pore, S68H V77C mutant (Na+ complex, 100 mM NaCl) | Na+ |
-| doi/10.1038##ncomms3621 |  | 2.5 | P3_121 | WT MthK RCK domain, fully Ca2+-bound (C1, C2, C3 sites occupied) | Ca2+ (3 ions per RCK domain) |
-| doi/10.1038##ncomms3621 |  | 1.85 | P2_111 | WT MthK RCK domain, Ca2+ bound only at C1 site (200 mM CaCl2) | Ca2+ (1 ion per RCK domain, at C1 site) |
-| doi/10.1038##ncomms3621 |  | 2.4 | P6_522 | D184N mutant MthK RCK domain, no Ca2+ at C1, Ca2+ bound at C3 | Ca2+ (C3 site only) |
-| doi/10.1038##ncomms3621 |  | 3.0 | P6_522 | E212Q mutant MthK RCK domain, Ca2+ bound at both C1 and C3 | Ca2+ (C1 and C3 sites, altered coordination at C1) |
+| doi/10.1038##417515a | 1LNQ | 3.3 | P6_6 22 | MthK M107I mutant, residues 19-336 | Ca2+ |
+| doi/10.1038##nsmb.1865 | 3LDC | 1.45 | P42_12 | MthK pore, S68H V77C mutant (K+ complex, 100 mM KCl) | K+ |
+| doi/10.1038##nsmb.1865 | 3LDC | 1.45 | P42_12 | MthK pore, S68R V77C mutant (low-K+ complex, 1 mM KCl/99 mM NaCl) | K+/Na+ |
+| doi/10.1038##nsmb.1865 | 3LDC | 2.2 | P42_12 | MthK pore, S68H V77C mutant (Na+ complex, 100 mM NaCl) | Na+ |
+| doi/10.1038##ncomms3621 | 4L73 | 2.5 | P3_121 | WT MthK RCK domain, fully Ca2+-bound (C1, C2, C3 sites occupied) | Ca2+ (3 ions per RCK domain) |
+| doi/10.1038##ncomms3621 | 4L73 | 1.85 | P2_111 | WT MthK RCK domain, Ca2+ bound only at C1 site (200 mM CaCl2) | Ca2+ (1 ion per RCK domain, at C1 site) |
+| doi/10.1038##ncomms3621 | 4L73 | 2.4 | P6_522 | D184N mutant MthK RCK domain, no Ca2+ at C1, Ca2+ bound at C3 | Ca2+ (C3 site only) |
+| doi/10.1038##ncomms3621 | 4L73 | 3.0 | P6_522 | E212Q mutant MthK RCK domain, Ca2+ bound at both C1 and C3 | Ca2+ (C1 and C3 sites, altered coordination at C1) |
 | doi/10.1038##s41467-019-13227-w | 6OLY |  |  | Full-length MthK M107I mutant with thrombin-cleavable C-terminal 6×His-tag | Ca2+ |
 | doi/10.1073##pnas.2009624117 | 6U9P | <2 |  | Wild-type MthK pore, 150 mM K+ | K+ |
 | doi/10.1073##pnas.2009624117 | 6U9T | <2 |  | Wild-type MthK pore, 50 mM K+ | K+ |
@@ -44,10 +44,10 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 
 ### Purification Workflow
 
-*Source: doi/10.1038##417515a*
+#### Source: doi/10.1038##417515a
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -56,12 +56,10 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 | His-tag cleavage | Thrombin digestion | — |  | 1 unit thrombin per 3.0 mg channel, overnight at room temperature |
 | Size-exclusion chromatography | SEC | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) (10/30) | 5 mM [LDAO](/xray-mp-wiki/reagents/detergents/ldao/), 20 mM Tris pH 8.0, 100 mM KCl |  |
 
-### Purification Workflow
-
-*Source: doi/10.1038##nsmb.1865*
+#### Source: doi/10.1038##nsmb.1865
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -69,12 +67,10 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 | Limited [Trypsin](/xray-mp-wiki/reagents/additives/trypsin/) digestion | Proteolysis | — |  | Membrane-spanning pore obtained by limited [Trypsin](/xray-mp-wiki/reagents/additives/trypsin/) digestion of MthK channel |
 | Gel filtration | SEC | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | 5 mM [LDAO](/xray-mp-wiki/reagents/detergents/ldao/), 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 100 mM KCl |  |
 
-### Purification Workflow
-
-*Source: doi/10.1038##ncomms3621*
+#### Source: doi/10.1038##ncomms3621
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -87,13 +83,11 @@ MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the
 
 **Final sample**: Purified full-length MthK at 5 mg/mL
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.2009624117*
+#### Source: doi/10.1073##pnas.2009624117
 
 - **Expression system**: E. coli
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -223,7 +217,7 @@ gating observed in MthK.
 - [Alternating Ion-Bound Configurations](/xray-mp-wiki/concepts/transport-mechanisms/alternating-ion-bound-configurations/) — Ion occupancy patterns in the SF determine conduction and inactivation states
 - [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — SF-TM2 coupling mediates allosteric communication during gating and inactivation
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Primary method for structural titration at 4 K+ concentrations (6-150 mM)
-- [Molecular Dynamics Simulation](/xray-mp-wiki/methods/molecular-dynamics-simulation/) — MD simulations revealed SF collapse mechanism and ion occupancy effects on gating
-- [Free Energy Perturbation](/xray-mp-wiki/methods/free-energy-perturbation/) — FEP calculations quantified K+ binding preferences between S2 and S3 sites
+- [Molecular Dynamics Simulation](/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/) — MD simulations revealed SF collapse mechanism and ion occupancy effects on gating
+- [Free Energy Perturbation](/xray-mp-wiki/methods/structure-determination/free-energy-perturbation/) — FEP calculations quantified K+ binding preferences between S2 and S3 sites
 - [Decyl maltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Used for MthK solubilization and purification
 - [Tris](/xray-mp-wiki/reagents/buffers/tris/) — Used as purification buffer in all MthK preparations

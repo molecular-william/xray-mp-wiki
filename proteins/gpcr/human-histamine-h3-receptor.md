@@ -1,5 +1,5 @@
 ---
-title: Human Histamine H3 Receptor (H3R)
+title: "Human Histamine H3 Receptor (H3R)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,18 +21,18 @@ The human histamine H3 receptor (H3R) is a [G Protein](/xray-mp-wiki/concepts/si
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41467-022-33880-y | not specified | 2.6 | not specified | Human H3R (residues 27-432), with N-terminal truncation (1-26), ICL3 truncation (242-346), C-terminal truncation (433-445), S121K mutation, and N-terminal BRIL fusion (M7W, H102I, R106L) | PF-03654746 |
+| doi/10.1038##s41467-022-33880-y | 7F61 | 2.6 | not specified | Human H3R (residues 27-432), with N-terminal truncation (1-26), ICL3 truncation (242-346), C-terminal truncation (433-445), S121K mutation, and N-terminal BRIL fusion (M7W, H102I, R106L) | PF-03654746 |
 
 ## Expression and Purification
 
 - **Expression system**: Spodoptera frugiperda ([Sf9](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/)) insect cells
 - **Construct**: Codon-optimized human H3R gene cloned into modified pFastBacI vector with N-terminal HA signal sequence, FLAG tag, 10x His tag, and TEV protease cleavage site
-- **Notes**: [Bac-to-Bac](/xray-mp-wiki/methods/expression-systems/bac-to-bac/) [Baculovirus](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) Expression System; infected at 2-3 x 10^6 cells/ml, harvested 48h post-infection
+- **Notes**: [Bac-to-Bac](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) [Baculovirus](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) Expression System; infected at 2-3 x 10^6 cells/ml, harvested 48h post-infection
 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ Compared to inactive H1R, H3R shows inward movement of TM6 and TM7 extracellular
 - [G Protein](/xray-mp-wiki/concepts/signaling-receptors/g-protein/) — Related entity
 - [Gpcr](/xray-mp-wiki/concepts/signaling-receptors/gpcr/) — Related entity
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Related entity
-- [Bac To Bac](/xray-mp-wiki/methods/expression-systems/bac-to-bac/) — Related entity
+- [Bac To Bac](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Related entity
 - [Baculovirus Expression](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Related entity
 - [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Related entity
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Related entity

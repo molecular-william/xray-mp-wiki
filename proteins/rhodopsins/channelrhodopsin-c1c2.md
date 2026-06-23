@@ -1,5 +1,5 @@
 ---
-title: Channelrhodopsin C1C2
+title: "Channelrhodopsin C1C2"
 created: 2026-05-26
 updated: 2026-06-21
 type: protein
@@ -35,13 +35,13 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature10870*
+#### Source: doi/10.1038##nature10870
 
 - **Expression system**: Sf+ insect cells (baculovirus)
 - **Expression construct**: C1C2 chimera residues 1-342 with C-terminal TEV-EGFP-His8 tag
 - **Tag info**: C-terminal EGFP-His8 (cleaved by TEV protease)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -53,12 +53,10 @@ Channelrhodopsin C1C2 is a chimeric construct between Chlamydomonas reinhardtii 
 
 **Final sample**: Purified C1C2 in SEC buffer with DDM/CHS
 
-### Purification Workflow
-
-*Source: doi/10.7554##eLife.62389*
+#### Source: doi/10.7554##eLife.62389
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

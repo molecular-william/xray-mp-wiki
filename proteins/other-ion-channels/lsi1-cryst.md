@@ -1,5 +1,5 @@
 ---
-title: Rice silicon channel Lsi1 crystallization construct
+title: "Rice silicon channel Lsi1 crystallization construct"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -32,7 +32,7 @@ Lsi1 is the Low silicon rice 1 channel, a silicon (Si) uptake transporter from r
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

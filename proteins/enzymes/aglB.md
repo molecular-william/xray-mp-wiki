@@ -1,5 +1,5 @@
 ---
-title: A. fulgidus AglB-L Oligosaccharyltransferase
+title: "A. fulgidus AglB-L Oligosaccharyltransferase"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,8 +21,8 @@ AglB-L (archaeal glycosylation B, Long form) from Archaeoglobus fulgidus is a si
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1309777110 | unknown | 2.50 A | C2 | A. fulgidus AglB-L full-length; C-terminal His10-tag after thrombin cleavage site; crystal form 1 in n-octyl-beta-D-glucopyranoside (OG); Zn2+ and sulfate ion bound; EL5 loop disordered | Zn2+ (catalytic site, six-coordinated, distorted octahedral), sulfate ion (mimics dolichol-phosphate phosphate group) |
-| doi/10.1073##pnas.1309777110 | unknown | 3.41 A | P4_3_2_1_2 | A. fulgidus AglB-L full-length; crystal form 2 in [LDAO](/xray-mp-wiki/reagents/detergents/ldao/); resting state with well-ordered EL5 plastic loop | unknown metal ion; no sulfate ion bound |
+| doi/10.1073##pnas.1309777110 | 3WAJ | 2.50 A | C2 | A. fulgidus AglB-L full-length; C-terminal His10-tag after thrombin cleavage site; crystal form 1 in n-octyl-beta-D-glucopyranoside (OG); Zn2+ and sulfate ion bound; EL5 loop disordered | Zn2+ (catalytic site, six-coordinated, distorted octahedral), sulfate ion (mimics dolichol-phosphate phosphate group) |
+| doi/10.1073##pnas.1309777110 | 3WAJ | 3.41 A | P4_3_2_1_2 | A. fulgidus AglB-L full-length; crystal form 2 in [LDAO](/xray-mp-wiki/reagents/detergents/ldao/); resting state with well-ordered EL5 plastic loop | unknown metal ion; no sulfate ion bound |
 
 ## Expression and Purification
 
@@ -35,7 +35,7 @@ AglB-L (archaeal glycosylation B, Long form) from Archaeoglobus fulgidus is a si
 - **Expression construct**: C-terminal His10-tag
 - **Tag info**: C-terminal His10-tag, removable by thrombin cleavage
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

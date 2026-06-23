@@ -1,5 +1,5 @@
 ---
-title: GluN1-GluN2B NMDA Receptor (Xenopus laevis, Full-Length)
+title: "GluN1-GluN2B NMDA Receptor (Xenopus laevis, Full-Length)"
 created: 2026-06-03
 updated: 2026-06-08
 type: protein
@@ -21,13 +21,13 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature13548 | not deposited | 3.70 | C2 | Full-length GluN1 (residues 1-834) and GluN2B (residues 1-839) from Xenopus laevis with mutations: GluN1 (C22A, K493A, K494A, E495A, G610R, I617L, N300Q, N350Q, N368D, N440D, N469D, D656R, AMPA residues 837-847 at C-terminus); GluN2B (M20S, G21R, C22A, A64E, deltaK382-V385, V615L, N69Q, N343D, T490V, E654R, E655R, AMPA residues 837-847 at C-terminus, C585A, K216C). Ligands: [Acpc](/xray-mp-wiki/reagents/ligands/acpc/), [T Acbd](/xray-mp-wiki/reagents/ligands/t-acbd/), [Ro25 6981](/xray-mp-wiki/reagents/ligands/ro25-6981/), MK-801.
+| doi/10.1038##nature13548 | 4TLL | 3.70 | C2 | Full-length GluN1 (residues 1-834) and GluN2B (residues 1-839) from Xenopus laevis with mutations: GluN1 (C22A, K493A, K494A, E495A, G610R, I617L, N300Q, N350Q, N368D, N440D, N469D, D656R, AMPA residues 837-847 at C-terminus); GluN2B (M20S, G21R, C22A, A64E, deltaK382-V385, V615L, N69Q, N343D, T490V, E654R, E655R, AMPA residues 837-847 at C-terminus, C585A, K216C). Ligands: [Acpc](/xray-mp-wiki/reagents/ligands/acpc/), [T Acbd](/xray-mp-wiki/reagents/ligands/t-acbd/), [Ro25 6981](/xray-mp-wiki/reagents/ligands/ro25-6981/), MK-801.
  | [Acpc](/xray-mp-wiki/reagents/ligands/acpc/), [T Acbd](/xray-mp-wiki/reagents/ligands/t-acbd/), [Ro25 6981](/xray-mp-wiki/reagents/ligands/ro25-6981/), MK-801 |
-| doi/10.1038##nature13548 | not deposited | 3.90 | C2 | Full-length GluN1 (residues 1-834) and GluN2B (residues 1-839) from Xenopus laevis with same mutations. Ligands: [Acpc](/xray-mp-wiki/reagents/ligands/acpc/), [T Acbd](/xray-mp-wiki/reagents/ligands/t-acbd/), [Ro25 6981](/xray-mp-wiki/reagents/ligands/ro25-6981/), MK-801. Crystallized with 10 mM Cymal6 additive.
+| doi/10.1038##nature13548 | 4TLL | 3.90 | C2 | Full-length GluN1 (residues 1-834) and GluN2B (residues 1-839) from Xenopus laevis with same mutations. Ligands: [Acpc](/xray-mp-wiki/reagents/ligands/acpc/), [T Acbd](/xray-mp-wiki/reagents/ligands/t-acbd/), [Ro25 6981](/xray-mp-wiki/reagents/ligands/ro25-6981/), MK-801. Crystallized with 10 mM Cymal6 additive.
  | [Acpc](/xray-mp-wiki/reagents/ligands/acpc/), [T Acbd](/xray-mp-wiki/reagents/ligands/t-acbd/), [Ro25 6981](/xray-mp-wiki/reagents/ligands/ro25-6981/), MK-801 |
-| doi/10.1038##nature13548 | not deposited | 6.50 | C2 | Full-length GluN1 and GluN2B from Xenopus laevis with Delta3 constructs. Ligands: [Glycine](/xray-mp-wiki/reagents/buffers/glycine/), glutamate.
+| doi/10.1038##nature13548 | 4TLL | 6.50 | C2 | Full-length GluN1 and GluN2B from Xenopus laevis with Delta3 constructs. Ligands: [Glycine](/xray-mp-wiki/reagents/buffers/glycine/), glutamate.
  | [Glycine](/xray-mp-wiki/reagents/buffers/glycine/), glutamate |
-| doi/10.1038##nature13548 | not deposited | 7.50 | C222 | Full-length GluN1 and GluN2B from Xenopus laevis with Delta1 constructs. K216C disulfide crosslink absent. Ligands: [Acpc](/xray-mp-wiki/reagents/ligands/acpc/), [T Acbd](/xray-mp-wiki/reagents/ligands/t-acbd/).
+| doi/10.1038##nature13548 | 4TLL | 7.50 | C222 | Full-length GluN1 and GluN2B from Xenopus laevis with Delta1 constructs. K216C disulfide crosslink absent. Ligands: [Acpc](/xray-mp-wiki/reagents/ligands/acpc/), [T Acbd](/xray-mp-wiki/reagents/ligands/t-acbd/).
  | [Acpc](/xray-mp-wiki/reagents/ligands/acpc/), [T Acbd](/xray-mp-wiki/reagents/ligands/t-acbd/) |
 | doi/10.1038##nature17679 | 5FXG | 6.80 | cryo-EM class active | Full-length intact rat GluN1b-GluN2B NMDA receptor (heterotetramer, 2:2 stoichiometry), bound to [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) and [L Glutamate](/xray-mp-wiki/reagents/substrates/l-glutamate/), no ifenprodil. Active conformation.
  | [Glycine](/xray-mp-wiki/reagents/buffers/glycine/), [L Glutamate](/xray-mp-wiki/reagents/substrates/l-glutamate/) |
@@ -41,7 +41,7 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
  | [Glycine](/xray-mp-wiki/reagents/buffers/glycine/), [L Glutamate](/xray-mp-wiki/reagents/substrates/l-glutamate/) |
 | doi/10.1038##s41586-018-0039-9 | 5UN1 | 3.60 | C2 | DeltaATD GluN1/GluN2B NMDA receptor from Xenopus laevis. Residues 23-393 removed from GluN1, residues 1-399 removed from GluN2B. Human placental alkaline phosphatase signal sequence added to N-terminus of GluN2B. Thermostabilizing mutation G610R. Bound to [Mk 801](/xray-mp-wiki/reagents/ligands/mk-801/), [Glycine](/xray-mp-wiki/reagents/buffers/glycine/), and glutamate.
  | [Mk 801](/xray-mp-wiki/reagents/ligands/mk-801/), [Glycine](/xray-mp-wiki/reagents/buffers/glycine/), glutamate |
-| doi/10.1126##science.1251915 | not deposited | 5.70 | Not specified | GluN1-4a and GluN2B subunits (GluN1a-GluN2B_cryst) expressed in Sf9 insect cells using baculovirus with Hsp70 promoter. Construct forms an ion channel activated by [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) and [L Glutamate](/xray-mp-wiki/reagents/substrates/l-glutamate/), allosterically regulated by ifenprodil and polyamines. Crystallized with glycine (GluN1 agonist), [L Glutamate](/xray-mp-wiki/reagents/substrates/l-glutamate/) (GluN2 agonist), and ifenprodil (ATD-binding allosteric inhibitor). Structure solved by molecular replacement using extracellular domain probes. Later stabilized by disulfide cross-links between subunits for improved diffraction. Calcium binding site identified via holmium and gadolinium anomalous scattering.
+| doi/10.1126##science.1251915 | 4PE5 | 5.70 | Not specified | GluN1-4a and GluN2B subunits (GluN1a-GluN2B_cryst) expressed in Sf9 insect cells using baculovirus with Hsp70 promoter. Construct forms an ion channel activated by [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) and [L Glutamate](/xray-mp-wiki/reagents/substrates/l-glutamate/), allosterically regulated by ifenprodil and polyamines. Crystallized with glycine (GluN1 agonist), [L Glutamate](/xray-mp-wiki/reagents/substrates/l-glutamate/) (GluN2 agonist), and ifenprodil (ATD-binding allosteric inhibitor). Structure solved by molecular replacement using extracellular domain probes. Later stabilized by disulfide cross-links between subunits for improved diffraction. Calcium binding site identified via holmium and gadolinium anomalous scattering.
  | [Glycine](/xray-mp-wiki/reagents/buffers/glycine/), [L Glutamate](/xray-mp-wiki/reagents/substrates/l-glutamate/), ifenprodil |
 
 ## Expression and Purification
@@ -53,22 +53,20 @@ The full-length N-methyl-[D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspar
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature17679*
+#### Source: doi/10.1038##nature17679
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Cell lysis | Baculovirus-infected Sf9 cell harvest | -- | 50 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.3, 200 mM NaCl, 0.5% LMN, 1 mM PMSF + 0.5% LMN | Solubilization of infected cell pellets |
 | Affinity purification | Strep-Tactin Sepharose chromatography | Strep-Tactin Sepharose (IBA) | 50 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.3, 200 mM NaCl, 0.5% LMN + 0.5% LMN | Purification of GluN1-4b/GluN2B NMDA receptors |
 
-### Purification Workflow
-
-*Source: doi/10.1038##s41586-018-0039-9*
+#### Source: doi/10.1038##s41586-018-0039-9
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

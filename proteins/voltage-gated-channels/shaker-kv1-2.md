@@ -1,5 +1,5 @@
 ---
-title: Shaker Kv1.2 Potassium Channel
+title: "Shaker Kv1.2 Potassium Channel"
 created: 2026-06-10
 updated: 2026-06-16
 type: protein
@@ -35,7 +35,7 @@ Kv1.2 is a voltage-dependent potassium channel from Rattus norvegicus belonging 
 - **Expression system**: Pichia pastoris
 - **Expression construct**: Full-length Kv1.2 + β2 subunit
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

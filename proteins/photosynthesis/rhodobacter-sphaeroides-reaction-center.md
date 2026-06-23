@@ -1,12 +1,12 @@
 ---
-title: Rhodobacter sphaeroides Photosynthetic Reaction Center
+title: "Rhodobacter sphaeroides Photosynthetic Reaction Center"
 created: 2026-06-08
 updated: 2026-06-16
 type: protein
 category: proteins
 layout: default
 tags: [receptor, membrane-protein, xray-crystallography]
-sources: [doi/10.1073##pnas.85.21.7993, doi/10.1021##bi00181a020, doi/10.1107##s2052252521013178, doi/10.1016##J.JMB.2007.04.082, doi/10.1126##science.276.5313.812, doi/10.1107##s2052252520012142, doi/10.3390##membranes13020154, doi/10.3390##membranes13020157]
+sources: [doi/10.1016##J.JMB.2007.04.082, doi/10.1016##S0022-2836(03)00751-4, doi/10.1016##j.bbabio.2013.11.015, doi/10.1021##bi00181a020, doi/10.1021##bi00236a005, doi/10.1073##pnas.85.21.7993, doi/10.1107##s2052252520012142, doi/10.1107##s2052252521013178, doi/10.1126##science.276.5313.812, doi/10.3390##membranes13020154, doi/10.3390##membranes13020157]
 verified: false
 ---
 
@@ -14,13 +14,13 @@ verified: false
 
 ## Overview
 
-The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membrane protein complex that converts light energy into chemical free energy. The RC consists of three protein subunits (L, M, and H) and binds ten cofactors including bacteriochlorophylls, bacteriopheophytins, quinones (Q_A and Q_B), and a non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) [IRON](/xray-mp-wiki/reagents/additives/iron/) atom. Early crystallographic analyses of seven site-directed mutants at 3.0-4.0 A resolution (Chirino et al., 1994) established that residue substitutions and cofactor alterations (heterodimer formation, iron loss) do not cause major structural rearrangements, demonstrating the structural robustness of the RC. High-resolution structures at multiple pH values (6.5, 10.0) and in both dark-adapted and illuminated states reveal the mechanism of [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) reduction, proton transfer, and quinol release. The landmark 1997 structure at near-atomic resolution showed that Q_B moves ~4.5 A and undergoes a 180-degree propeller twist upon charge separation, explaining the temperature dependence of electron transfer from Q_A^-Q_B to Q_AQ_B^- and identifying two water-mediated proton pathways (P1 and P2) connecting the Q_B pocket to the aqueous surface. Additional structures were obtained by in surfo (detergent-based vapor diffusion), LCP, and [LSP](/xray-mp-wiki/concepts/membrane-mimetics/lipidic-sponge-phase/) crystallization. [LSP](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/lipidic-sponge-phase/) crystallization revealed that [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/), the major lipid component of the mesophase, can displace native cofactors ([Carotenoid](/xray-mp-wiki/reagents/ligands/carotenoid/) spheroidene and [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) Q_B) from their binding pockets. Co-crystallization with spheroidene restored native [Carotenoid](/xray-mp-wiki/reagents/ligands/carotenoid/) binding. Novel syringe-based and in-tip [LSP](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/lipidic-sponge-phase/) crystallization techniques were developed to increase the number of crystals for serial crystallography. Engineered disulfide bonds were introduced to stabilize the RC structure, with two mutants (G(M19)C+T(L214)C and V(M84)C+G(L278)C) showing significantly increased thermal stability while maintaining photochemical activity. A double mutant I(L177)H + F(M197)H RC was crystallized and its structure determined at 2.6 A resolution (PDB 8C3F), revealing that a new water molecule from the beta-side of BChl B_B is responsible for hexa-coordination of the central Mg2+ atom, and providing support for the correlation between the H-bonding network bulk and the oxidation potential of the primary electron donor. 
+The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membrane protein complex that converts light energy into chemical free energy. The RC consists of three protein subunits (L, M, and H) and binds ten cofactors including bacteriochlorophylls, bacteriopheophytins, quinones (Q_A and Q_B), and a non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) [IRON](/xray-mp-wiki/reagents/additives/iron/) atom. Early crystallographic analyses of seven site-directed mutants at 3.0-4.0 A resolution (Chirino et al., 1994) established that residue substitutions and cofactor alterations (heterodimer formation, iron loss) do not cause major structural rearrangements, demonstrating the structural robustness of the RC. High-resolution structures at multiple pH values (6.5, 10.0) and in both dark-adapted and illuminated states reveal the mechanism of [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) reduction, proton transfer, and quinol release. The landmark 1997 structure at near-atomic resolution showed that Q_B moves ~4.5 A and undergoes a 180-degree propeller twist upon charge separation, explaining the temperature dependence of electron transfer from Q_A^-Q_B to Q_AQ_B^- and identifying two water-mediated proton pathways (P1 and P2) connecting the Q_B pocket to the aqueous surface. Additional structures were obtained by in surfo (detergent-based vapor diffusion), LCP, and [LSP](/xray-mp-wiki/concepts/membrane-mimetics/lipidic-sponge-phase/) crystallization. [LSP](/xray-mp-wiki/concepts/membrane-mimetics/lipidic-sponge-phase/) crystallization revealed that [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/), the major lipid component of the mesophase, can displace native cofactors ([Carotenoid](/xray-mp-wiki/reagents/ligands/carotenoid/) spheroidene and [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) Q_B) from their binding pockets. Co-crystallization with spheroidene restored native [Carotenoid](/xray-mp-wiki/reagents/ligands/carotenoid/) binding. Novel syringe-based and in-tip [LSP](/xray-mp-wiki/concepts/membrane-mimetics/lipidic-sponge-phase/) crystallization techniques were developed to increase the number of crystals for serial crystallography. Engineered disulfide bonds were introduced to stabilize the RC structure, with two mutants (G(M19)C+T(L214)C and V(M84)C+G(L278)C) showing significantly increased thermal stability while maintaining photochemical activity. A double mutant I(L177)H + F(M197)H RC was crystallized and its structure determined at 2.6 A resolution (PDB 8C3F), revealing that a new water molecule from the beta-side of BChl B_B is responsible for hexa-coordination of the central Mg2+ atom, and providing support for the correlation between the H-bonding network bulk and the oxidation potential of the primary electron donor. 
 
 ## Structure Determination
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.85.21.7993 |  | 3.0 | P2_12_12_1 | Wild-type RC from Rb. sphaeroides 2.4.1 (wild-type strain); L, M, and H subunits with carotenoid | Bacteriochlorophyll dimer (D), bacteriochlorophyll monomers (BA, BB), bacteriopheophytin monomers (phiA, phiB), ubiquinones (QA, QB), non-heme Fe2+, spheroidene carotenoid (C) |
+| doi/10.1073##pnas.85.21.7993 | 4RCR | 3.0 | P2_12_12_1 | Wild-type RC from Rb. sphaeroides 2.4.1 (wild-type strain); L, M, and H subunits with carotenoid | Bacteriochlorophyll dimer (D), bacteriochlorophyll monomers (BA, BB), bacteriopheophytin monomers (phiA, phiB), ubiquinones (QA, QB), non-heme Fe2+, spheroidene carotenoid (C) |
 | doi/10.1016##J.JMB.2007.04.082 | 2j8c | 1.87 | P3_121 | Wild-type RC, dark-adapted state at pH 8.0 | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe2+ |
 | doi/10.1016##J.JMB.2007.04.082 | 2j8d | 1.87 | P3_121 | Wild-type RC, illuminated state at pH 8.0 | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe2+ |
 | doi/10.1016##J.JMB.2007.04.082 | 2uww | 1.47 | P3_121 | Wild-type RC, dark-adapted state at pH 6.5 | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe2+ |
@@ -35,38 +35,36 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 | doi/10.1016##J.JMB.2007.04.082 | 2uxk | 1.47 | P4_32_12 | Wild-type RC, illuminated state at pH 10.0 | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe2+ |
 | doi/10.1016##J.JMB.2007.04.082 | 2uxl | 1.47 | P4_32_12 | Wild-type RC, dark-adapted state at pH 10.0 | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe2+ |
 | doi/10.1016##J.JMB.2007.04.082 | 2uxm | 1.47 | P4_32_12 | Wild-type RC, illuminated state at pH 10.0 | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe2+ |
-| doi/10.1126##science.276.5313.812 |  |  |  | Wild-type RC from Rhodobacter sphaeroides | [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe2+ |
+| doi/10.1126##science.276.5313.812 | 1AIJ |  |  | Wild-type RC from Rhodobacter sphaeroides | [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe2+ |
 | doi/10.1107##s2052252520012142 | 6z02 | 2.1 | P3_121 | In surfo crystallization (detergent-based vapor diffusion, strain RV) | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe2+, spheroidene |
 | doi/10.1107##s2052252520012142 | 6z27 | 2.07 | P4_2_21_2 | LCP crystallization (microbatch) | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe2+ |
 | doi/10.1107##s2052252520012142 | 6z1j | 2.1 | P4_2_21_2 | [LSP](/xray-mp-wiki/concepts/membrane-mimetics/lipidic-sponge-phase/) co-crystallization with spheroidene (hanging-drop vapor diffusion) | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe2+, spheroidene |
 | doi/10.1107##s2052252521013178 | 7od5 | 2.10 | P4_212 | F(M197)H mutant RC, single crystal at 100 K | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe2+ |
 | doi/10.1107##s2052252521013178 | 7p2c | 2.04 | P4_212 | F(M197)H mutant RC, multi-crystal at room temperature | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe2+ |
-| doi/10.3390##membranes13020154 |  | 2.60 | P3_121 | L37Cys+L99Cys inter-subunit disulfide mutant (L and M subunits), hydrophobic zone near BPheo HA | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe2+, spheroidene |
-| doi/10.3390##membranes13020154 |  | 2.85 | P3_121 | L53Cys+L64Cys inter-subunit disulfide mutant (L and M subunits), periplasmic surface | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe2+, spheroidene |
-| doi/10.3390##membranes13020154 |  | 2.30 | P4_12_12 | L172Cys+L246Cys inter-subunit disulfide mutant (L and M subunits), membrane zone closer to periplasm | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe2+, spheroidene |
-| doi/10.3390##membranes13020154 |  | 2.75 | P4_12_12 | G(M19)Cys+T(L214)Cys intra-subunit disulfide mutant (M subunit), cytoplasmic surface | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe2+, spheroidene |
-| doi/10.3390##membranes13020154 |  | 2.60 | C2 | V(M84)Cys+G(L278)Cys intra-subunit disulfide mutant (M and L subunits), periplasmic surface | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe2+, spheroidene |
+| doi/10.3390##membranes13020154 | 8C5X | 2.60 | C2 | V(M84)Cys+G(L278)Cys intra-subunit disulfide mutant (M and L subunits), periplasmic surface | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe2+, spheroidene |
 | doi/10.3390##membranes13020157 | 8C3F | 2.60 | P3_121 | Cereibacter sphaeroides (formerly Rhodobacter sphaeroides) double mutant I(L177)H + F(M197)H reaction center, L, M, and H subunits | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), non-[HEME](/xray-mp-wiki/reagents/ligands/heme/) Fe2+, spheroidene |
+| doi/10.1021##bi00236a005 | 2RCR | 3.1 A |  | Wild-type RC from Rb. sphaeroides R-26 strain; L, M, and H subunits | Bacteriochlorophyll, bacteriopheophytin, ubiquinone, non-heme Fe2+ |
+| doi/10.1016##S0022-2836(03)00751-4 | 1ogv | 2.35 | P4(2)2(1)2 | Wild-type Rhodobacter sphaeroides photosynthetic reaction centre with L, M, and H subunits | Bacteriochlorophyll, bacteriopheophytin, ubiquinone, non-heme iron, cardiolipin, chloride |
+| doi/10.1016##j.bbabio.2013.11.015 | 4N7K | 2.85 A | P43212 | Wild-type RC with six Zn-bacteriochlorophylls replacing all native BChls and BPhes | Zn-[Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) |
+| doi/10.1016##j.bbabio.2013.11.015 | 4N7L | 2.85 A | P43212 | RC with (M)L214H mutation; five-coordinate H_A Zn-BChl coordinated by His(M)214 | Zn-[Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), His(M)214 |
 
 ## Expression and Purification
 
 ### Purification Workflow
 
-*Source: doi/10.1016##J.JMB.2007.04.082*
+#### Source: doi/10.1016##J.JMB.2007.04.082
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | RC purification from Rhodobacter sphaeroides | Standard RC purification as per Ermler et al. (1994) |  | Potassium-hydrogen-phosphate buffer + [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) | RC purified and crystallized as reported (Ermler et al., Structure 2, 925-936, 1994). Reconstitution to obtain fully occupied QB binding site included soaking with [Ubiquinone-2](/xray-mp-wiki/reagents/ligands/ubiquinone-2/) to replenish QB lost during purification. |
 
-### Purification Workflow
-
-*Source: doi/10.3390##membranes13020157*
+#### Source: doi/10.3390##membranes13020157
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -113,7 +111,7 @@ The photosynthetic reaction center (RC) from Rhodobacter sphaeroides is a membra
 
 | Parameter | Value |
 |---|---|
-| Method | LCP microbatch + [LSP](/xray-mp-wiki/concepts/membrane-mimetics/lipidic-sponge-phase/) hanging-drop vapor diffusion + syringe-based [LSP](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/lipidic-sponge-phase/) + in-tip [LSP](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/lipidic-sponge-phase/) |
+| Method | LCP microbatch + [LSP](/xray-mp-wiki/concepts/membrane-mimetics/lipidic-sponge-phase/) hanging-drop vapor diffusion + syringe-based [LSP](/xray-mp-wiki/concepts/membrane-mimetics/lipidic-sponge-phase/) + in-tip [LSP](/xray-mp-wiki/concepts/membrane-mimetics/lipidic-sponge-phase/) |
 | Protein sample | RC (Rba. sphaeroides strain RV) at 25-30 mg/ml in 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 0.1% [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) |
 | Temperature | 100 K (data collection) |
 | Cryoprotection | Standard cryoprotection for mesophase crystals |
@@ -186,3 +184,19 @@ The crystal structure of the C. sphaeroides RC double mutant I(L177)H + F(M197)H
 
 
 ## Cross-References
+
+- [Rps. viridis Photosynthetic Reaction Centre](/xray-mp-wiki/proteins/photosynthesis/rps-viridis-reaction-centre/) — Used as molecular replacement search model; structures are very similar
+- [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) — Primary cofactor; special pair and accessory BChls in the RC
+- [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/) — Primary electron acceptor cofactors in the RC
+- [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) — Primary (Q_A) and secondary (Q_B) quinone electron acceptors
+- [Iron (Fe)](/xray-mp-wiki/reagents/additives/iron/) — Non-heme Fe2+ ion between quinone binding sites
+- [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — Detergent used for RC solubilization and purification
+- [Polyethylene Glycol (PEG)](/xray-mp-wiki/reagents/additives/peg/) — PEG 4000 used as crystallization precipitant
+- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Phasing method used to solve the RC structure
+- [HEME](/xray-mp-wiki/reagents/ligands/heme) — Entity mentioned in text
+- [Carotenoid](/xray-mp-wiki/reagents/ligands/carotenoid/) — Native antenna and photoprotective cofactors in the reaction center
+- [Rhodobacter sphaeroides Reaction Centre with Zinc-Bacteriochlorophyll](/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-center/) — This protein entity
+- [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Related purple bacterial membrane protein with retinal chromophore
+- [Bovine Rhodopsin](/xray-mp-wiki/proteins/gpcr/bovine-rhodopsin/) — Related membrane protein structural biology and crystallography methods
+- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Alternative membrane protein crystallization method relevant to RC structural studies
+- [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Method used in structure determination or purification

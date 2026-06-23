@@ -26,9 +26,9 @@ The lipidic sponge phase (LSP) is a liquid-like isotropic phase formed by a mixt
 
 ## Cross-References
 - [Lipidic Cubic Phase (LCP)](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LSP is a related lipidic mesophase with lower viscosity than LCP
-- [Serial Femtosecond Crystallography (SFX)](/xray-mp-wiki/concepts/serial-femtosecond-crystallography/) — LSP is particularly suited for SFX due to uniform microcrystal formation
+- [Serial Femtosecond Crystallography (SFX)](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) — LSP is particularly suited for SFX due to uniform microcrystal formation
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Monoolein is the primary lipid component of the LSP formulation
-- [Liquid Sponge Phase Crystallization](/xray-mp-wiki/methods/crystallization/liquid-sponge-phase-crystallization/) — The method for LSP crystallization
+- [Liquid Sponge Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-sponge-phase-crystallization/) — The method for LSP crystallization
 - [Rhodobacter sphaeroides Photosynthetic Reaction Center](/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-center/) — RC crystallized in LSP showed monoolein displacement of native cofactors
 - [Serial Femtosecond Crystallography](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) — Method used in structure determination or purification
 - [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers

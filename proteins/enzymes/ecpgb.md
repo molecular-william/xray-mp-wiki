@@ -1,5 +1,5 @@
 ---
-title: E. coli Phosphatidylglycerophosphate Phosphatase B (ecPgpB)
+title: "E. coli Phosphatidylglycerophosphate Phosphatase B (ecPgpB)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -26,7 +26,7 @@ The structure serves as a prototype for eukaryotic PAP2 enzymes including human 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1403097111 | not specified | 3.2 | P2(1)2(1)2(1) | ecPgpB WT and I116M/E120K mutant |  |
+| doi/10.1073##pnas.1403097111 | 4PX7 | 3.2 | P2(1)2(1)2(1) | ecPgpB WT and I116M/E120K mutant |  |
 
 ## Expression and Purification
 
@@ -38,7 +38,7 @@ The structure serves as a prototype for eukaryotic PAP2 enzymes including human 
 
 - **Expression system**: E. coli BL21
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

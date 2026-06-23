@@ -1,5 +1,5 @@
 ---
-title: Spinach Chloroplast ATP Synthase c14-Ring
+title: "Spinach Chloroplast ATP Synthase c14-Ring"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -33,7 +33,7 @@ state.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41598-019-55092-z |  | 2.3 | I 1 2 1 | Native c14-ring from spinach chloroplast FoF1 ATP synthase |  |
+| doi/10.1038##s41598-019-55092-z | 6TQJ | 2.3 | I 1 2 1 | Native c14-ring from spinach chloroplast FoF1 ATP synthase |  |
 
 ## Expression and Purification
 
@@ -43,7 +43,7 @@ state.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

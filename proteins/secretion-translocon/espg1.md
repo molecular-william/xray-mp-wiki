@@ -1,5 +1,5 @@
 ---
-title: EspG1
+title: "EspG1"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -32,7 +32,7 @@ EspG1 is the ESX-1-specific chaperone from Mycobacterium tuberculosis that belon
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

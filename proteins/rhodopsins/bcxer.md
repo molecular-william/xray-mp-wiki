@@ -1,5 +1,5 @@
 ---
-title: BcXeR (Xenorhodopsin from Bacillus coahuilensis)
+title: "BcXeR (Xenorhodopsin from Bacillus coahuilensis)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -42,7 +42,7 @@ BcXeR is a light-driven inward proton pump (xenorhodopsin) from Bacillus coahuil
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

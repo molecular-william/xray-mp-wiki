@@ -34,7 +34,7 @@ In dual-topology Fluc channels, each subunit contributes to a wide aqueous vesti
 - [Monobody S7](/xray-mp-wiki/reagents/protein-tags/monobody-s7/) — Engineered inhibitor used in Bpe-S7 crystallization (PDB 5A40)
 - [Monobody L2](/xray-mp-wiki/reagents/protein-tags/monobody-l2/) — Engineered inhibitor used in Bpe-L2 crystallization (PDB 5A41)
 - [Monobody S9](/xray-mp-wiki/reagents/protein-tags/monobody-s9/) — Homologous monobody used to crystallize Ec2-S9 (PDB 5A43)
-- [Fluoride Channel from E. coli (Ec2)](/xray-mp-wiki/proteins/other-ion-channels/ec2-fluoride-channel/) — Ec2-S9 complex also demonstrates monobody-mediated physical occlusion
+- [Fluoride Channel from E. coli (Ec2)](/xray-mp-wiki/proteins/other-ion-channels/fluc-ec2/) — Ec2-S9 complex also demonstrates monobody-mediated physical occlusion
 - [Dual-Topology Channels](/xray-mp-wiki/concepts/transport-mechanisms/dual-topology-channels/) — Cork-in-bottle mechanism applies specifically to dual-topology Fluc channels with symmetric vestibules
 - [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — Cork-in-bottle occlusion is the alternative to allosteric closure as a channel block mechanism
 - [Monobody L3](/xray-mp-wiki/reagents/protein-tags/monobody-l3/) — Fusion tag for crystallization or purification

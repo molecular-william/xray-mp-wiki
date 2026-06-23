@@ -1,5 +1,5 @@
 ---
-title: afTMEM16 (TMEM16 Lipid Scramblase from Aspergillus fumigatus)
+title: "afTMEM16 (TMEM16 Lipid Scramblase from Aspergillus fumigatus)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -31,7 +31,7 @@ afTMEM16 is a calcium-activated lipid scramblase from the fungus Aspergillus fum
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ afTMEM16 forms a homodimer with each subunit containing ten transmembrane helice
 - [TMEM16 Family](/xray-mp-wiki/concepts/protein-families/tmem16-family/) — afTMEM16 is a member of the TMEM16 lipid scramblase subfamily
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used for afTMEM16 solubilization and purification
 - [Proteoliposome Reconstitution](/xray-mp-wiki/methods/quality-assessment/proteoliposome-reconstitution/) — afTMEM16 reconstituted into liposomes for functional scrambling assays
-- [Proteoliposome Reconstitution](/xray-mp-wiki/methods/proteoliposome-reconstitution/) — Method used in the study
+- [Proteoliposome Reconstitution](/xray-mp-wiki/methods/quality-assessment/proteoliposome-reconstitution/) — Method used in the study
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Method used in the study
 - [TMEM16 Family (Anoctamin Protein Family)](/xray-mp-wiki/concepts/protein-families/tmem16-family/) — Key concept related to this protein
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein mentioned in the study

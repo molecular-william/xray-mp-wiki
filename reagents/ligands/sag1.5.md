@@ -47,4 +47,4 @@ No comparison data available.
 
 - [SANT1](/xray-mp-wiki/reagents/ligands/sant1/) — SMO antagonist with deep binding site; no agonist-induced conformational changes
 - [Anta XV](/xray-mp-wiki/reagents/ligands/anta-xv/) — SMO antagonist that does not induce the conformational changes seen with SAG1.5
-- [20(S)-Hydroxycholesterol](/xray-mp-wiki/reagents/20s-hydroxycholesterol/) — Alternative CRD-bound agonist of SMO that activates via a different site
+- [20(S)-Hydroxycholesterol](/xray-mp-wiki/reagents/lipids/20s-hydroxycholesterol/) — Alternative CRD-bound agonist of SMO that activates via a different site

@@ -1,5 +1,5 @@
 ---
-title: FocA (Formate Channel A from Vibrio cholerae)
+title: "FocA (Formate Channel A from Vibrio cholerae)"
 created: 2009-11-01
 updated: 2026-06-08
 type: protein
@@ -23,8 +23,8 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 |---|---|---|---|---|---|
 | doi/10.1038##nature08610 | 3KCU | 2.24 | Not specified | E. coli FocA | Not specified |
 | doi/10.1038##nature08610 | 3KCV | 3.2 | Not specified | E. coli FocA | Not specified |
-| doi/10.1038##nsmb.1740 | Not available (not deposited in PDB at time of paper) | 2.13 | P2_1 2_1 2_1 | Full-length FocA from Vibrio cholerae (280 residues) | Formate (20 mM in crystallization) |
-| doi/10.1038##nsmb.1740 | Not available (not deposited in PDB at time of paper) | 2.5 | P2_1 2_1 2_1 | Full-length FocA from Vibrio cholerae (280 residues) | Formate (120 mM in crystallization; 2 formate ions bound) |
+| doi/10.1038##nsmb.1740 | 3KLY | 2.13 | P2_1 2_1 2_1 | Full-length FocA from Vibrio cholerae (280 residues) | Formate (20 mM in crystallization) |
+| doi/10.1038##nsmb.1740 | 3KLY | 2.5 | P2_1 2_1 2_1 | Full-length FocA from Vibrio cholerae (280 residues) | Formate (120 mM in crystallization; 2 formate ions bound) |
 
  - R-work Not specified%, R-free Not specified%; Data collection: Landmark E. coli FocA structure; pentameric aquaporin-like channel
  - R-work Not specified%, R-free Not specified%; Data collection: E. coli FocA structure; lower resolution form
@@ -42,7 +42,7 @@ FocA (formate channel A) is a pentameric membrane channel belonging to the FNT (
 - **Expression system**: E. coli (C43)
 - **Tag info**: C-terminal decahistidine tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ Concentrative uptake assay demonstrated formate transport into proteoliposomes r
 - [HSC (Hydrosulfide Channel from Clostridium difficile)](/xray-mp-wiki/proteins/other-ion-channels/hsc/) — Related FNT family channel; extensively compared with FocA in the paper
 - [HiTehA (TehA from Haemophilus influenzae)](/xray-mp-wiki/proteins/other-ion-channels/hiteha/) — Related anion channel within the FNT superfamily
 - [Aqp1 (Aquaporin 1 from E. coli)](/xray-mp-wiki/proteins/other-ion-channels/aqp1/) — Water channel with similar monomeric pore architecture
-- [GlpF (Glycerol Facilitator from E. coli)](/xray-mp-wiki/proteins/other-ion-channels/glycerol-facilitator/) — Glycerol channel with similar monomeric pore architecture
+- [GlpF (Glycerol Facilitator from E. coli)](/xray-mp-wiki/proteins/other-ion-channels/glpf/) — Glycerol channel with similar monomeric pore architecture
 - [Ion Channel Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/) — FocA selectivity filter with cytoplasmic slit and central constriction ring
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol) — Entity mentioned in text
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm) — Entity mentioned in text

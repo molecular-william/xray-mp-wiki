@@ -1,5 +1,5 @@
 ---
-title: Human Neuropeptide Y Y1 Receptor (Y1R, NPY1R)
+title: "Human Neuropeptide Y Y1 Receptor (Y1R, NPY1R)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -45,7 +45,7 @@ bone disorders.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

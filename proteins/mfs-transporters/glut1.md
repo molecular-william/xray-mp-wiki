@@ -1,5 +1,5 @@
 ---
-title: Human Glucose Transporter GLUT1 (SLC2A1)
+title: "Human Glucose Transporter GLUT1 (SLC2A1)"
 created: 2026-06-03
 updated: 2026-06-11
 type: protein
@@ -21,10 +21,8 @@ The human [Glucose](/xray-mp-wiki/reagents/additives/glucose) transporter GLUT1 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature13306 | unknown | 3.2 | C2 | Full-length human GLUT1, residues 1-492, N45T and E329Q mutations, C-terminal 10x His tag | n-Nonyl-beta-D-glucopyranoside (beta-NG) |
-| doi/10.1073##pnas.1603735113 |  | 3.0 | — | Full-length WT hGLUT1 (residues 1-455), C-terminal 10x His tag | cytochalasin B |
-| doi/10.1073##pnas.1603735113 |  | 2.9 | — | Full-length WT hGLUT1 (residues 1-455), C-terminal 10x His tag | GLUT-i1 |
-| doi/10.1073##pnas.1603735113 |  | 3.0 | — | Full-length WT hGLUT1 (residues 1-455), C-terminal 10x His tag | GLUT-i2 |
+| doi/10.1038##nature13306 | 4PYP | 3.2 | C2 | Full-length human GLUT1, residues 1-492, N45T and E329Q mutations, C-terminal 10x His tag | n-Nonyl-beta-D-glucopyranoside (beta-NG) |
+| doi/10.1073##pnas.1603735113 | 5EQI | 3.0 | — | Full-length WT hGLUT1 (residues 1-455), C-terminal 10x His tag | GLUT-i2 |
 | doi/10.26508##lsa.202000858 | 6THA | 2.4 | C2 | Human GLUT1 residues 9-455 (of 492 total), C-terminal 10x His tag, expressed in S. cerevisiae | n-Nonyl-beta-D-glucopyranoside (NG), chloride ion (Cl-), PEG molecule |
 
 ## Expression and Purification
@@ -35,13 +33,13 @@ The human [Glucose](/xray-mp-wiki/reagents/additives/glucose) transporter GLUT1 
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature13306*
+#### Source: doi/10.1038##nature13306
 
 - **Expression system**: High Five insect cells ([Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/))
 - **Expression construct**: Full-length human GLUT1, residues 1-492, C-terminal 10x [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/)
 - **Tag info**: 10x [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/), C-terminal
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -53,15 +51,13 @@ The human [Glucose](/xray-mp-wiki/reagents/additives/glucose) transporter GLUT1 
 
 **Final sample**: 10 mg/ml in 25 mM [MES Buffer](/xray-mp-wiki/reagents/buffers/mes/) pH 6.0, 150 mM [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/), 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.4% beta-NG
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.1603735113*
+#### Source: doi/10.1073##pnas.1603735113
 
 - **Expression system**: Saccharomyces cerevisiae
 - **Expression construct**: Full-length WT hGLUT1 (residues 1-504), C-terminal 10x His tag
 - **Tag info**: 10x His tag, C-terminal, thrombin-cleavable
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -172,3 +168,8 @@ Direct side-by-side comparison of GLUT1 and GLUT3 expressed in Xenopus oocytes u
 - [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Referenced in glut1
 - [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Referenced in glut1
 - [hGLUT3 (Human Glucose Transporter 3)](/xray-mp-wiki/proteins/mfs-transporters/hglut3/) — Structural and functional comparison with GLUT3 revealed the SP-A network mechanism of transport regulation
+- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
+- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
+- [SLC2A1](/xray-mp-wiki/proteins/mfs-transporters/glut1/) — Related protein structure
+- [hGLUT1 (Human Glucose Transporter 1)](/xray-mp-wiki/proteins/mfs-transporters/hglut1/) — Related protein structure
+- [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Additive used in purification or crystallization buffers

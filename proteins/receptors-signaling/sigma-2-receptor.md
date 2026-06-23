@@ -1,5 +1,5 @@
 ---
-title: Human Sigma-2 Receptor (TMEM97)
+title: "Human Sigma-2 Receptor (TMEM97)"
 created: 2026-06-09
 updated: 2026-06-09
 type: protein
@@ -29,9 +29,9 @@ several with activity comparable to gabapentinoids.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41586-021-04175-x | Not stated in raw paper | 2.7 A | Not stated in raw paper | Human sigma-2 receptor (TMEM97) expressed in Sf9 insect cells | PB28 (sigma-2 agonist) |
-| doi/10.1038##s41586-021-04175-x | Not stated in raw paper | 3.3 A | Not stated in raw paper | Human sigma-2 receptor (TMEM97) expressed in Sf9 insect cells | Roluperidone (sigma-2 antagonist) |
-| doi/10.1038##s41586-021-04175-x | Not stated in raw paper | 3.2 A | Not stated in raw paper | Human sigma-2 receptor (TMEM97) expressed in Sf9 insect cells | [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
+| doi/10.1038##s41586-021-04175-x | 7M93 | 2.7 A | Not stated in raw paper | Human sigma-2 receptor (TMEM97) expressed in Sf9 insect cells | PB28 (sigma-2 agonist) |
+| doi/10.1038##s41586-021-04175-x | 7M93 | 3.3 A | Not stated in raw paper | Human sigma-2 receptor (TMEM97) expressed in Sf9 insect cells | Roluperidone (sigma-2 antagonist) |
+| doi/10.1038##s41586-021-04175-x | 7M93 | 3.2 A | Not stated in raw paper | Human sigma-2 receptor (TMEM97) expressed in Sf9 insect cells | [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
 
 ## Expression and Purification
 
@@ -41,7 +41,7 @@ several with activity comparable to gabapentinoids.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

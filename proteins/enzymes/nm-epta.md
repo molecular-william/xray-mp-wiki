@@ -1,5 +1,5 @@
 ---
-title: NmEptA - Lipid A Phosphoethanolamine Transferase from Neisseria meningitidis
+title: "NmEptA - Lipid A Phosphoethanolamine Transferase from Neisseria meningitidis"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -20,7 +20,7 @@ NmEptA is a [Lipid A](/xray-mp-wiki/reagents/lipids/lipid-a/) phosphoethanolamin
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1612927114 | not specified in paper text | 2.75 | — | Full-length NmEptA (hexahistidine-tagged) | Zn2+, [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
+| doi/10.1073##pnas.1612927114 | 5FGN | 2.75 | — | Full-length NmEptA (hexahistidine-tagged) | Zn2+, [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ NmEptA is a [Lipid A](/xray-mp-wiki/reagents/lipids/lipid-a/) phosphoethanolamin
 - **Expression system**: E. coli
 - **Expression construct**: Full-length NmEptA with hexahistidine tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

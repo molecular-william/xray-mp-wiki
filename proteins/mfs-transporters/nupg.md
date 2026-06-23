@@ -1,5 +1,5 @@
 ---
-title: NupG Nucleoside Proton Symporter from Escherichia coli
+title: "NupG Nucleoside Proton Symporter from Escherichia coli"
 created: 2026-05-27
 updated: 2026-06-08
 type: protein
@@ -20,8 +20,8 @@ NupG is a nucleoside proton symporter from [Escherichia coli](/xray-mp-wiki/prot
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.jbc.2021.100479 | unknown | 3.0 | P21 | Full-length NupG from E. coli K12, wild-type | none (apo state) |
-| doi/10.1016##j.jbc.2021.100479 | unknown | 3.0 | P1 | Full-length NupG from E. coli K12, D323A mutant | none (apo state, no visible uridine) |
+| doi/10.1016##j.jbc.2021.100479 | 7DL9 | 3.0 | P21 | Full-length NupG from E. coli K12, wild-type | none (apo state) |
+| doi/10.1016##j.jbc.2021.100479 | 7DL9 | 3.0 | P1 | Full-length NupG from E. coli K12, D323A mutant | none (apo state, no visible uridine) |
 | doi/10.1016##j.jbc.2025.108357 | 8ZOJ | 3.1 | unknown | YegT K267A mutant from E. coli | none (apo state) |
 
 ## Expression and Purification
@@ -29,7 +29,7 @@ NupG is a nucleoside proton symporter from [Escherichia coli](/xray-mp-wiki/prot
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

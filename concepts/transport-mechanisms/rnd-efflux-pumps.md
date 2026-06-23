@@ -26,6 +26,6 @@ Resistance nodulation cell division (RND) transporters are a family of multidrug
 
 
 ## Cross-References
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Prototypical RND inner membrane transporter in E. coli
+- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Prototypical RND inner membrane transporter in E. coli
 - [MexB Efflux Pump](/xray-mp-wiki/proteins/abc-transporters/mexB/) — P. aeruginosa RND inner membrane transporter, functional homolog of AcrB
 - [AcrA multidrug efflux pump periplasmic protein](/xray-mp-wiki/proteins/abc-transporters/acra/) — Periplasmic membrane fusion protein component of the AcrAB-TolC system

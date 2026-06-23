@@ -1,5 +1,5 @@
 ---
-title: PfMATE (Pyrococcus furiosus Multidrug and Toxic Compound Extrusion Transporter)
+title: "PfMATE (Pyrococcus furiosus Multidrug and Toxic Compound Extrusion Transporter)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,13 +21,13 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature12014 |  | 2.4 | C2 | Full-length wild-type PfMATE | None (straight conformation) |
-| doi/10.1038##nature12014 |  | 2.5 | C2 | Full-length wild-type PfMATE | None (bent conformation) |
-| doi/10.1038##nature12014 |  | 2.45 | C2 | Full-length wild-type PfMATE | MaL6 macrocyclic peptide |
-| doi/10.1038##nature12014 |  | 3.0 | C2 | Full-length wild-type PfMATE | MaD5 macrocyclic peptide |
-| doi/10.1038##nature12014 |  | 2.6 | C2 | Full-length wild-type PfMATE | MaD3S macrocyclic peptide |
-| doi/10.1038##nature12014 |  | 2.1 | C2 | PfMATE P26A mutant | None |
-| doi/10.1038##nature12014 |  | 2.9 | P6 | Full-length wild-type PfMATE | Br-NRF (brominated norfloxacin) |
+| doi/10.1038##nature12014 | 3VVN | 2.4 | C2 | Full-length wild-type PfMATE | None (straight conformation) |
+| doi/10.1038##nature12014 | 3VVN | 2.5 | C2 | Full-length wild-type PfMATE | None (bent conformation) |
+| doi/10.1038##nature12014 | 3VVN | 2.45 | C2 | Full-length wild-type PfMATE | MaL6 macrocyclic peptide |
+| doi/10.1038##nature12014 | 3VVN | 3.0 | C2 | Full-length wild-type PfMATE | MaD5 macrocyclic peptide |
+| doi/10.1038##nature12014 | 3VVN | 2.6 | C2 | Full-length wild-type PfMATE | MaD3S macrocyclic peptide |
+| doi/10.1038##nature12014 | 3VVN | 2.1 | C2 | PfMATE P26A mutant | None |
+| doi/10.1038##nature12014 | 3VVN | 2.9 | P6 | Full-length wild-type PfMATE | Br-NRF (brominated norfloxacin) |
 | doi/10.1073##pnas.1904210116 | 4MLB | 2.35 |  | Full-length wild-type PfMATE, C-terminal TEV-10xHis | None (outward-facing conformation) |
 | doi/10.1073##pnas.1904210116 | 6FHZ |  |  | Full-length wild-type PfMATE with P. furiosus native lipid incubation | None (inward-facing conformation) |
 | doi/10.1073##pnas.1904210116 | 6GWH |  |  | Full-length wild-type PfMATE | None (outward-facing conformation, LCP crystals) |
@@ -41,7 +41,7 @@ PfMATE is a multidrug and toxic compound extrusion (MATE) family transporter fro
 - **Expression construct**: Full-length PfMATE with C-terminal TEV-10xHis tag
 - **Tag info**: C-terminal 10xHis tag, TEV protease cleavable
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

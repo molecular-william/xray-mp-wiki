@@ -1,5 +1,5 @@
 ---
-title: Lactose Permease of Escherichia coli (LacY)
+title: "Lactose Permease of Escherichia coli (LacY)"
 created: 2026-06-02
 updated: 2026-06-08
 type: protein
@@ -22,13 +22,13 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1126##science.1088196 | 2JHL | 3.5 A | P21 | Wild-type LacY, C154G mutant | not specified (outward-facing conformation) |
-| doi/10.1038##SJ.EMBOJ.7601028 | not specified | 2.95 A | P43212 | Wild-type LacY, ligand-free | none (outward-facing, pH 6.5) |
-| doi/10.1038##SJ.EMBOJ.7601028 | not specified | 3.3 A | P43212 | Wild-type LacY, ligand-free | none (outward-facing, pH 5.6) |
+| doi/10.1038##SJ.EMBOJ.7601028 | 2CFQ | 2.95 A | P43212 | Wild-type LacY, ligand-free | none (outward-facing, pH 6.5) |
+| doi/10.1038##SJ.EMBOJ.7601028 | 2CFQ | 3.3 A | P43212 | Wild-type LacY, ligand-free | none (outward-facing, pH 5.6) |
 | doi/10.1038##SJ.EMBOJ.7601028 | 1PV7 | 2.2 A | not specified | Wild-type LacY | TDG (thiodigalactoside) |
 | doi/10.1073##pnas.1105687108 | 3F6D | 2.8 A | not specified | C117S, C148A, C154V, C176S, C234S, C333S, C353A, C355A LacY | o-NPG (o-nitrophenyl-alpha-D-galactopyranoside) |
 | doi/10.1073##pnas.1324141111 | 3B80 | 2.8 A | not specified | LacY G46W/G262W double-Trp mutant | o-NPG (o-nitrophenyl-alpha-D-galactopyranoside) |
-| doi/10.1073##pnas.1509854112 | not specified | not specified | not specified | LacY G46W/G262W double-Trp mutant | alpha-NPG (alpha-nitrophenyl-alpha-D-galactopyranoside) |
-| doi/10.1073##pnas.0707688104 | not specified | 3.6 A | P2_12_12_1 | Wild-type LacY | none (apo, inward-facing conformation) |
+| doi/10.1073##pnas.1509854112 | 4ZYR | not specified | not specified | LacY G46W/G262W double-Trp mutant | alpha-NPG (alpha-nitrophenyl-alpha-D-galactopyranoside) |
+| doi/10.1073##pnas.0707688104 | 2V8N | 3.6 A | P2_12_12_1 | Wild-type LacY | none (apo, inward-facing conformation) |
 
 ## Expression and Purification
 
@@ -37,10 +37,10 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
 
 ### Purification Workflow
 
-*Source: doi/10.1038##SJ.EMBOJ.7601028*
+#### Source: doi/10.1038##SJ.EMBOJ.7601028
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -48,12 +48,10 @@ Lactose permease (LacY) from Escherichia coli is a galactoside/H+ symporter and 
 | Solubilization | Detergent solubilization | not specified | not specified + DDM | Solubilization modified by increasing detergent:protein ratio to 2.5:1.0 (wt/wt); 10 mg protein/ml |
 | Purification | Affinity chromatography | not specified | not specified + DDM | As described (Abramson et al, 2003) |
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.0707688104*
+#### Source: doi/10.1073##pnas.0707688104
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

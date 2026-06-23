@@ -1,5 +1,5 @@
 ---
-title: Archaeal Presenilin Homolog PSH from Methanoculleus marisnigri
+title: "Archaeal Presenilin Homolog PSH from Methanoculleus marisnigri"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,9 +21,9 @@ PSH (Presenilin Homolog) from Methanoculleus marisnigri (mmPSH) is an archaeal i
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature11801 |  | 3.3 | C222 | engineered variant with D40N, E42S, A147E, V148P, A229V mutations, V8 protease-cleaved | none |
-| doi/10.1038##nature11801 |  | 3.8 | C222_1 | engineered variant with D40N, E42S, A147E, V148P, A229V mutations, V8 protease-cleaved | none |
-| doi/10.1038##nature11801 |  | 3.95 | P2 | engineered variant with D40N, E42S, A147E, V148P, A229V mutations, V8 protease-cleaved | none |
+| doi/10.1038##nature11801 | 4HYG | 3.3 | C222 | engineered variant with D40N, E42S, A147E, V148P, A229V mutations, V8 protease-cleaved | none |
+| doi/10.1038##nature11801 | 4HYG | 3.8 | C222_1 | engineered variant with D40N, E42S, A147E, V148P, A229V mutations, V8 protease-cleaved | none |
+| doi/10.1038##nature11801 | 4HYG | 3.95 | P2 | engineered variant with D40N, E42S, A147E, V148P, A229V mutations, V8 protease-cleaved | none |
 
 ## Expression and Purification
 
@@ -34,7 +34,7 @@ PSH (Presenilin Homolog) from Methanoculleus marisnigri (mmPSH) is an archaeal i
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

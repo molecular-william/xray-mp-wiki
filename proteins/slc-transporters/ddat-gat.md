@@ -1,5 +1,5 @@
 ---
-title: dDAT_GAT (GAT1-Engineered Drosophila Dopamine Transporter)
+title: "dDAT_GAT (GAT1-Engineered Drosophila Dopamine Transporter)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -22,8 +22,8 @@ dDAT_GAT is an engineered construct of the Drosophila melanogaster dopamine tran
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.15252##embj.2022110735 | 7WGD | 3.2 A | not specified | dDAT_GAT — ts2-L415A, V74A with 11 GAT1-like substitutions (F43Y, D46G, V120A, D121N, F325L, S422Q, G425T, S426V, Y124F, I113V, E384S) | substrate-free (water molecules modeled in binding site) |
-| doi/10.15252##embj.2022110735 | not specified | not specified | not specified | dDAT_GAT — as above | [NO711](/xray-mp-wiki/reagents/ligands/no711) |
-| doi/10.15252##embj.2022110735 | not specified | not specified | not specified | dDAT_GAT — as above | [SKF89976a](/xray-mp-wiki/reagents/ligands/skf89976a) (primary site + allosteric site) |
+| doi/10.15252##embj.2022110735 | 7WGD | not specified | not specified | dDAT_GAT — as above | [NO711](/xray-mp-wiki/reagents/ligands/no711) |
+| doi/10.15252##embj.2022110735 | 7WGD | not specified | not specified | dDAT_GAT — as above | [SKF89976a](/xray-mp-wiki/reagents/ligands/skf89976a) (primary site + allosteric site) |
 
 ## Expression and Purification
 
@@ -33,7 +33,7 @@ dDAT_GAT is an engineered construct of the Drosophila melanogaster dopamine tran
 - **Expression construct**: dDAT_GAT with C-terminal GFP-His8 fusion
 - **Tag info**: GFP-His8
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

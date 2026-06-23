@@ -59,5 +59,5 @@ conserved Asp on TM4 disrupt transport activity in multiple MFS proteins.
 
 ## Cross-References
 - [YajR Transporter (E. coli MFS Drug Efflux Transporter)](/xray-mp-wiki/proteins/mfs-transporters/yajr-transporter/) — Primary structural study elucidating the functional role of motif A in MFS transporters
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — Motif A is a defining signature of the MFS transporter family
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — Motif A is a defining signature of the MFS transporter family
 - [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/) — Motif A regulates the rocker-switch conformational changes in MFS transporters

@@ -1,5 +1,5 @@
 ---
-title: NavRh (NaChBac Orthologue from HIMB114)
+title: "NavRh (NaChBac Orthologue from HIMB114)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,8 +21,8 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1038##nature11054 | 4F4L | 3.05 A | P42 | Full-length NavRh (G208S variant for improved diffraction), C-terminal His6 tag removed, expressed in E. coli BL21(DE3), purified in [NG](/xray-mp-wiki/reagents/detergents/n-nonyl-beta-d-glucopyranoside/) with [POPC](/xray-mp-wiki/reagents/lipids/popc/):[POPE](/xray-mp-wiki/reagents/lipids/pope/):[POPG](/xray-mp-wiki/reagents/lipids/popg/) (3:1:1) lipids; crystallized with 100 mM CaCl2 | Ca2+ (bound in selectivity filter inner site) |
-| doi/10.1038##nature11054 | -- | 3.7 A | P42 | Wild-type NavRh (same expression/purification as G208S variant) | Ca2+ |
-| doi/10.1038##nature11054 | -- | 4.4 A | P41212 | Wild-type NavRh (alternative crystal form) | Ca2+ |
+| doi/10.1038##nature11054 | 4DXW | 3.7 A | P42 | Wild-type NavRh (same expression/purification as G208S variant) | Ca2+ |
+| doi/10.1038##nature11054 | 4DXW | 4.4 A | P41212 | Wild-type NavRh (alternative crystal form) | Ca2+ |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ NavRh is a bacterial voltage-gated sodium channel from the marine alphaproteobac
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

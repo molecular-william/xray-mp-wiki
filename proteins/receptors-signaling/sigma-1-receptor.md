@@ -1,5 +1,5 @@
 ---
-title: Human Sigma-1 Receptor (SIGMAR1)
+title: "Human Sigma-1 Receptor (SIGMAR1)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -29,7 +29,7 @@ The human sigma-1 receptor (SIGMAR1) is an ER-resident single-pass transmembrane
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

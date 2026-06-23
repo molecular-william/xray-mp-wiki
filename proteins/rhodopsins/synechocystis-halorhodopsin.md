@@ -1,5 +1,5 @@
 ---
-title: Synechocystis Halorhodopsin (SyHR)
+title: "Synechocystis Halorhodopsin (SyHR)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -35,7 +35,7 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

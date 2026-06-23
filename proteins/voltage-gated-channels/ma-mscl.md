@@ -1,5 +1,5 @@
 ---
-title: MaMscL (Methanosarcina acetivorans Mechanosensitive Channel of Large Conductance)
+title: "MaMscL (Methanosarcina acetivorans Mechanosensitive Channel of Large Conductance)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,8 +21,8 @@ verified: false
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1503202112 |  |  |  | MaMscL-MjRS fusion (full-length MaMscL with C-terminal MjRS fusion) |  |
-| doi/10.1073##pnas.1503202112 |  |  |  | MaMscL-MjRS fusion (full-length MaMscL with C-terminal MjRS fusion) |  |
+| doi/10.1073##pnas.1503202112 | 4Y7K |  |  | MaMscL-MjRS fusion (full-length MaMscL with C-terminal MjRS fusion) |  |
+| doi/10.1073##pnas.1503202112 | 4Y7K |  |  | MaMscL-MjRS fusion (full-length MaMscL with C-terminal MjRS fusion) |  |
 
 ## Expression and Purification
 
@@ -35,7 +35,7 @@ verified: false
 - **Expression system**: E. coli
 - **Expression construct**: MaMscL-MjRS fusion
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Human Aquaporin 7 (AQP7)
+title: "Human Aquaporin 7 (AQP7)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -31,7 +31,7 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

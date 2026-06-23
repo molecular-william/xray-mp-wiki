@@ -36,7 +36,7 @@ TBOA (DL-threo-beta-Benzyloxyaspartic acid) is a competitive transport blocker o
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [GltPh](/xray-mp-wiki/proteins/slc-transporters/gltph/) |  | Used to crystallize GltPh with HP2 in the open state; TBOA-stabilized open HP2 served as reference for comparing Na+-bound HP2 opening |  |
+| [GltPh](/xray-mp-wiki/proteins/slc-transporters/glt-ph/) |  | Used to crystallize GltPh with HP2 in the open state; TBOA-stabilized open HP2 served as reference for comparing Na+-bound HP2 opening |  |
 
 ## Advantages and Disadvantages
 
@@ -48,4 +48,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [GltPh Glutamate Transporter Homolog](/xray-mp-wiki/proteins/slc-transporters/gltph/) — TBOA is used as a competitive transport blocker for crystallographic studies of GltPh
+- [GltPh Glutamate Transporter Homolog](/xray-mp-wiki/proteins/slc-transporters/glt-ph/) — TBOA is used as a competitive transport blocker for crystallographic studies of GltPh

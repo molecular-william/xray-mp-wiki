@@ -1,5 +1,5 @@
 ---
-title: CC Chemokine Receptor 2 with T4 Lysozyme Fusion (CCR2-T4L)
+title: "CC Chemokine Receptor 2 with T4 Lysozyme Fusion (CCR2-T4L)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -21,7 +21,7 @@ CC chemokine receptor 2 (CCR2) is a class A G protein-coupled receptor expressed
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature20605 | not specified in paper | 2.80 | P212121 | Human CCR2 isoform B (Uniprot P41597-2) with C-terminal [Truncation](/xray-mp-wiki/concepts/truncation) (residues 329-360 removed) and T4 lysozyme (T4L) inserted into ICL3. Native CCR2 residues L226(5.62)-R240(6.32) replaced with M2 muscarinic receptor residues (PDB 3UON): S226(5.62)-RASKSRI-T4L-PPPSREK-K240(6.32). N-terminal HA signal sequence, Flag tag, PreScission protease site, and C-terminal 10xHis tag plus Flag tag. Crystallized in ternary complex with orthosteric antagonist BMS-681 and allosteric antagonist CCR2-RA-[R]. | [Bms 681](/xray-mp-wiki/reagents/ligands/bms-681) (orthosteric antagonist), CCR2-RA-[R] (allosteric antagonist) |
+| doi/10.1038##nature20605 | 5T1A | 2.80 | P212121 | Human CCR2 isoform B (Uniprot P41597-2) with C-terminal [Truncation](/xray-mp-wiki/concepts/truncation) (residues 329-360 removed) and T4 lysozyme (T4L) inserted into ICL3. Native CCR2 residues L226(5.62)-R240(6.32) replaced with M2 muscarinic receptor residues (PDB 3UON): S226(5.62)-RASKSRI-T4L-PPPSREK-K240(6.32). N-terminal HA signal sequence, Flag tag, PreScission protease site, and C-terminal 10xHis tag plus Flag tag. Crystallized in ternary complex with orthosteric antagonist BMS-681 and allosteric antagonist CCR2-RA-[R]. | [Bms 681](/xray-mp-wiki/reagents/ligands/bms-681) (orthosteric antagonist), CCR2-RA-[R] (allosteric antagonist) |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ CC chemokine receptor 2 (CCR2) is a class A G protein-coupled receptor expressed
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

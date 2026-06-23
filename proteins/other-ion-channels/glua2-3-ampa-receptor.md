@@ -1,5 +1,5 @@
 ---
-title: GluA2/3 Heteromeric AMPA Receptor
+title: "GluA2/3 Heteromeric AMPA Receptor"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -21,8 +21,8 @@ GluA2/3 is a heteromeric AMPA-type ionotropic glutamate receptor composed of Glu
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.aad3873 | N/A | 2.1 |  | GluA2/3 NTD heteromer (GluA2 residues 1-379, GluA3 residues 1-380) | none |
-| doi/10.1126##science.aad3873 | N/A | 2.5 |  | GluA2/4 NTD heteromer | none |
+| doi/10.1126##science.aad3873 | 5FWX | 2.1 |  | GluA2/3 NTD heteromer (GluA2 residues 1-379, GluA3 residues 1-380) | none |
+| doi/10.1126##science.aad3873 | 5FWX | 2.5 |  | GluA2/4 NTD heteromer | none |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ GluA2/3 is a heteromeric AMPA-type ionotropic glutamate receptor composed of Glu
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

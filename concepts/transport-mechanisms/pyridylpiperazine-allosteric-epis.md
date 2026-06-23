@@ -28,7 +28,7 @@ The pyridylpiperazine inhibitors access the binding pocket from the cytoplasm vi
 
 
 ## Cross-References
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Target of pyridylpiperazine allosteric inhibitors
+- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Target of pyridylpiperazine allosteric inhibitors
 - [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) — Pyridylpiperazines target the RND pump AcrB
 - [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — Pyridylpiperazines act as negative allosteric modulators of AcrB
 - [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Related protein structure

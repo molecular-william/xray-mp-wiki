@@ -1,5 +1,5 @@
 ---
-title: Transhydrogenase dII Domain (Thermus thermophilus)
+title: "Transhydrogenase dII Domain (Thermus thermophilus)"
 created: 2026-05-29
 updated: 2026-05-29
 type: protein
@@ -37,7 +37,7 @@ The transhydrogenase dII domain from Thermus thermophilus is the transmembrane p
 - **Expression system**: E. coli BL21DE3 ΔA
 - **Expression construct**: C-terminal His-tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

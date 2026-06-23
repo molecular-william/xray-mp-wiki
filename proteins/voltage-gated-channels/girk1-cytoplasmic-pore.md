@@ -1,5 +1,5 @@
 ---
-title: GIRK1 Cytoplasmic Pore (G Protein-Gated Inward Rectifier K+ Channel)
+title: "GIRK1 Cytoplasmic Pore (G Protein-Gated Inward Rectifier K+ Channel)"
 created: 2026-06-08
 updated: 2026-06-10
 type: protein
@@ -21,8 +21,8 @@ The G Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea-Gated-Por
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##S0092-8674(02)01227-8 | unknown | 1.8 | P42₁2 | GST-tagged soluble fragment — N terminus residues 41-63 linked directly to C terminus residues 190-371 (mouse GIRK1, Kir3.1); expressed in E. coli, purified by Co2+ [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/), tag removed by [Thrombin Protease](/xray-mp-wiki/reagents/protein-tags/thrombin-protease/) [si-Face Cleavage in Rhomboid Proteases](/xray-mp-wiki/concepts/enzyme-mechanisms/si-face-cleavage/) in Rhomboid Proteases in Rhomboid Proteases, further purified by [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) gel filtration | none (apo structure of soluble cytoplasmic domain) |
-| doi/10.1038##nsmb.1717 | not specified (Kir3.1 cytoplasmic domain with 5 ions) | ~2.0 A | not specified | Cytoplasmic portion of Mouse GIRK2 (Kir3.2) G Protein-Gated Inward Rectifier K+ Channel.1 (GIRK1) with five [Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters](/xray-mp-wiki/concepts/transport-mechanisms/alternating-ion-bound-configurations/) in K+ Channel Selectivity Filters in K+ Channel Selectivity Filters K+ ions; soluble construct of linked N- and C-termini | Five K+ ions [Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters](/xray-mp-wiki/concepts/transport-mechanisms/alternating-ion-bound-configurations/) in K+ Channel Selectivity Filters in K+ Channel Selectivity Filters in the cytoplasmic pore |
+| doi/10.1016##S0092-8674(02)01227-8 | 1N9P | 1.8 | P42₁2 | GST-tagged soluble fragment — N terminus residues 41-63 linked directly to C terminus residues 190-371 (mouse GIRK1, Kir3.1); expressed in E. coli, purified by Co2+ [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/), tag removed by [Thrombin Protease](/xray-mp-wiki/reagents/protein-tags/thrombin-protease/) [si-Face Cleavage in Rhomboid Proteases](/xray-mp-wiki/concepts/enzyme-mechanisms/si-face-cleavage/) in Rhomboid Proteases in Rhomboid Proteases, further purified by [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) gel filtration | none (apo structure of soluble cytoplasmic domain) |
+| doi/10.1038##nsmb.1717 | 3K6N | ~2.0 A | not specified | Cytoplasmic portion of Mouse GIRK2 (Kir3.2) G Protein-Gated Inward Rectifier K+ Channel.1 (GIRK1) with five [Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters](/xray-mp-wiki/concepts/transport-mechanisms/alternating-ion-bound-configurations/) in K+ Channel Selectivity Filters in K+ Channel Selectivity Filters K+ ions; soluble construct of linked N- and C-termini | Five K+ ions [Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters](/xray-mp-wiki/concepts/transport-mechanisms/alternating-ion-bound-configurations/) in K+ Channel Selectivity Filters in K+ Channel Selectivity Filters in the cytoplasmic pore |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ The G Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea-Gated-Por
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

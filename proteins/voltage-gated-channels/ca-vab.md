@@ -1,5 +1,5 @@
 ---
-title: CaVAb Bacterial Voltage-Gated Calcium Channel
+title: "CaVAb Bacterial Voltage-Gated Calcium Channel"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -21,13 +21,13 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature12775 | N/A | 3.3 A | C 1 21 | CaVAb 175TLDDWSD181 variant; homotetramer; selectivity filter sequence FQVMTLDDWSDG with key substitutions E177 (vs T in [NavAb](/xray-mp-wiki/proteins/navab)), D178 (vs L), D181 (vs W); crystallized with 100 mM Cd2+ and 100 mM Mn2+ soaking | Cd2+ (100 mM soaking), Mn2+ (100 mM soaking) |
-| doi/10.1038##nature12775 | N/A | 3.3 A | C 1 21 | CaVAb 175TLDDWSD181 variant; homotetramer; crystallized with 15 mM Ca2+ soaking | Ca2+ (15 mM soaking) |
-| doi/10.1038##nature19102 | N/A | 2.7 A | P212121 | CaVAb with 5 mM Ca2+; wild-type channel without drug | Ca2+ (5 mM) |
-| doi/10.1038##nature19102 | N/A | 3.2 A | P212121 | CaVAb (W195Y) with [Amlodipine](/xray-mp-wiki/reagents/ligands/amlodipine) and 5 mM Ca2+; W195Y mutation substituted the Y residue from mammalian CaV1.1 for W195 in CaVAb for better drug resolution | [Amlodipine](/xray-mp-wiki/reagents/ligands/amlodipine) |
-| doi/10.1038##nature19102 | N/A | 3.2 A | P212121 | CaVAb (W195Y) with [Nimodipine](/xray-mp-wiki/reagents/ligands/nimodipine) and 5 mM Ca2+ | [Nimodipine](/xray-mp-wiki/reagents/ligands/nimodipine) |
-| doi/10.1038##nature19102 | N/A | 3.3 A | P212121 | CaVAb (W195Y) with [UK-59811](/xray-mp-wiki/reagents/ligands/uk-59811) and 5 mM Ca2+ | [UK-59811](/xray-mp-wiki/reagents/ligands/uk-59811) |
-| doi/10.1038##nature19102 | N/A | 3.3 A | P212121 | CaVAb with [Br-Verapamil](/xray-mp-wiki/reagents/ligands/br-verapamil) and 5 mM Ca2+ | [Br-Verapamil](/xray-mp-wiki/reagents/ligands/br-verapamil) |
+| doi/10.1038##nature12775 | 4MS2 | 3.3 A | C 1 21 | CaVAb 175TLDDWSD181 variant; homotetramer; selectivity filter sequence FQVMTLDDWSDG with key substitutions E177 (vs T in [NavAb](/xray-mp-wiki/proteins/navab)), D178 (vs L), D181 (vs W); crystallized with 100 mM Cd2+ and 100 mM Mn2+ soaking | Cd2+ (100 mM soaking), Mn2+ (100 mM soaking) |
+| doi/10.1038##nature12775 | 4MS2 | 3.3 A | C 1 21 | CaVAb 175TLDDWSD181 variant; homotetramer; crystallized with 15 mM Ca2+ soaking | Ca2+ (15 mM soaking) |
+| doi/10.1038##nature19102 | 5KLB | 2.7 A | P212121 | CaVAb with 5 mM Ca2+; wild-type channel without drug | Ca2+ (5 mM) |
+| doi/10.1038##nature19102 | 5KLB | 3.2 A | P212121 | CaVAb (W195Y) with [Amlodipine](/xray-mp-wiki/reagents/ligands/amlodipine) and 5 mM Ca2+; W195Y mutation substituted the Y residue from mammalian CaV1.1 for W195 in CaVAb for better drug resolution | [Amlodipine](/xray-mp-wiki/reagents/ligands/amlodipine) |
+| doi/10.1038##nature19102 | 5KLB | 3.2 A | P212121 | CaVAb (W195Y) with [Nimodipine](/xray-mp-wiki/reagents/ligands/nimodipine) and 5 mM Ca2+ | [Nimodipine](/xray-mp-wiki/reagents/ligands/nimodipine) |
+| doi/10.1038##nature19102 | 5KLB | 3.3 A | P212121 | CaVAb (W195Y) with [UK-59811](/xray-mp-wiki/reagents/ligands/uk-59811) and 5 mM Ca2+ | [UK-59811](/xray-mp-wiki/reagents/ligands/uk-59811) |
+| doi/10.1038##nature19102 | 5KLB | 3.3 A | P212121 | CaVAb with [Br-Verapamil](/xray-mp-wiki/reagents/ligands/br-verapamil) and 5 mM Ca2+ | [Br-Verapamil](/xray-mp-wiki/reagents/ligands/br-verapamil) |
 
 ## Expression and Purification
 
@@ -37,7 +37,7 @@ CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

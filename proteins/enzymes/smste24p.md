@@ -1,5 +1,5 @@
 ---
-title: SmSte24p CAAX Protease from Saccharomyces cerevisiae
+title: "SmSte24p CAAX Protease from Saccharomyces cerevisiae"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -32,7 +32,7 @@ No structure determined.
 - **Expression construct**: Full-length 461-residue with C-terminal affinity tags
 - **Tag info**: C-terminal affinity tags cleaved leaving 8 additional residues
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

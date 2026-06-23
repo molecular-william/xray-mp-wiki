@@ -1,5 +1,5 @@
 ---
-title: Bovine F1-ATPase (azide-inhibited form)
+title: "Bovine F1-ATPase (azide-inhibited form)"
 created: 2026-06-08
 updated: 2026-06-10
 type: protein
@@ -20,10 +20,10 @@ Bovine F1-ATPase is the catalytic domain of the mitochondrial F1Fo-ATP synthase,
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.0602915103 | not stated in raw paper | 1.95 A | P2$_1$2$_1$2$_1$ | Bovine mitochondrial F1-ATPase (alpha3beta3gamma subunit complex) | [ADP](/xray-mp-wiki/reagents/ligands/adp/), [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/), azide (N3-) |
-| doi/10.1073##pnas.1506465112 |  | 3.1 |  | Bovine F1-ATPase (a3b3gde subunits) with Mg-AMP-PNP and thiophosphate | Mg-AMP-PNP (3 noncatalytic + 2 catalytic sites), thiophosphate (beta-E) |
-| doi/10.1073##pnas.1506465112 |  | 3.3 |  | Bovine F1-ATPase with I1-60His-K39A inhibitor (F1-I3-ThioP) | [ATP](/xray-mp-wiki/reagents/ligands/atp/) |
-| doi/10.1073##pnas.93.14.6913 |  | 3.1 | P2$_1$2$_1$2$_1$ | Bovine mitochondrial F1-ATPase (alpha3beta3gamma subcomplex) in complex with aurovertin B. | Aurovertin B, [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/), [ADP](/xray-mp-wiki/reagents/ligands/adp/) |
+| doi/10.1073##pnas.0602915103 | 2CK3 | 1.95 A | P2$_1$2$_1$2$_1$ | Bovine mitochondrial F1-ATPase (alpha3beta3gamma subunit complex) | [ADP](/xray-mp-wiki/reagents/ligands/adp/), [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/), azide (N3-) |
+| doi/10.1073##pnas.1506465112 | 4YXW | 3.1 |  | Bovine F1-ATPase (a3b3gde subunits) with Mg-AMP-PNP and thiophosphate | Mg-AMP-PNP (3 noncatalytic + 2 catalytic sites), thiophosphate (beta-E) |
+| doi/10.1073##pnas.1506465112 | 4YXW | 3.3 |  | Bovine F1-ATPase with I1-60His-K39A inhibitor (F1-I3-ThioP) | [ATP](/xray-mp-wiki/reagents/ligands/atp/) |
+| doi/10.1073##pnas.93.14.6913 | 1COW | 3.1 | P2$_1$2$_1$2$_1$ | Bovine mitochondrial F1-ATPase (alpha3beta3gamma subcomplex) in complex with aurovertin B. | Aurovertin B, [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/), [ADP](/xray-mp-wiki/reagents/ligands/adp/) |
 
 ## Expression and Purification
 
@@ -33,7 +33,7 @@ Bovine F1-ATPase is the catalytic domain of the mitochondrial F1Fo-ATP synthase,
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -88,7 +88,7 @@ The uncompetitive inhibitor aurovertin B binds to bovine F1-ATPase at two equiva
 - [ATP Synthase Mechanism](/xray-mp-wiki/concepts/atp-synthase-mechanism/) — F1-ATPase is the catalytic domain of the F1Fo-ATP synthase, the central enzyme of oxidative phosphorylation
 - [ADP Inhibition](/xray-mp-wiki/concepts/adp-inhibition/) — Azide inhibition of F1-ATPase works by enhancing the natural ADP-inhibited state
 - [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/) — Structural basis of phosphate release generating rotary substep
-- [AMP-PNP (Adenylyl Imidodiphosphate)](/xray-mp-wiki/reagents/additives/amp-pnp/) — AMP-PNP used to trap the phosphate release dwell state
+- [AMP-PNP (Adenylyl Imidodiphosphate)](/xray-mp-wiki/reagents/ligands/amp-pnp/) — AMP-PNP used to trap the phosphate release dwell state
 - [ATP](/xray-mp-wiki/reagents/ligands/atp/) — Referenced in the context of ATP
 - [ADP](/xray-mp-wiki/reagents/ligands/adp/) — Referenced in the context of ADP
 - [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/) — Referenced in the context of Amp Pnp

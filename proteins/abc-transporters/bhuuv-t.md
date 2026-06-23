@@ -1,5 +1,5 @@
 ---
-title: Burkholderia cenocepacia Haem Importer Complex BhuUV-T
+title: "Burkholderia cenocepacia Haem Importer Complex BhuUV-T"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -34,7 +34,7 @@ The BhuUV-T complex is a type II ATP-binding cassette (ABC) haem importer from t
 - **Expression system**: E. coli c41 (DE3) for BhuUV, E. coli Rosetta2 (DE3) for BhuT
 - **Expression construct**: BhuU with N-terminal 8 His-tag + enterokinase site; BhuV; BhuT residues 40-311 with N-terminal GST tag + PreScission site
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

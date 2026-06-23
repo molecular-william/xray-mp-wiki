@@ -1,5 +1,5 @@
 ---
-title: Escherichia coli Hydrogenase 1 (EcHyd-1)
+title: "Escherichia coli Hydrogenase 1 (EcHyd-1)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -22,9 +22,9 @@ Hydrogenase 1 (EcHyd-1) is a membrane-bound, O2-tolerant [NiFe]-hydrogenase from
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1016##j.str.2012.11.010 | 4GD3 | 3.3 | P212121 | Full-length EcHyd-1 in a 2:1 complex with cytochrome b | NiFe active site, [Fe4S4], [Fe3S4], [Fe4S4] clusters; [Heme](/xray-mp-wiki/reagents/ligands/heme/) (cytochrome b) |
-| doi/10.1073##pnas.1119806109 |  | 1.67 | orthorhombic | EcHyd-1 dimer of heterodimers with C-terminal His tag (as-isolated, aerobically purified) | NiFe active site (Ni-B state), [4Fe-3S] proximal cluster, [4Fe-4S] distal cluster, [3Fe-4S] medial cluster |
-| doi/10.1073##pnas.1119806109 |  | 1.47 | orthorhombic | EcHyd-1 dimer of heterodimers (H2-reduced, 8 bar H2 for 10 min) | NiFe active site (Ni-C/Ni-R states), [4Fe-3S] proximal cluster (PC2 state) |
-| doi/10.1073##pnas.1119806109 |  | 2.0 | orthorhombic | EcHyd-1 dimer of heterodimers (chemically oxidized with 2 mM OH-NQ + 10 mM K3Fe(CN)6) | NiFe active site (Ni-B state), [4Fe-3S] proximal cluster (PC3 state) |
+| doi/10.1073##pnas.1119806109 | 3USE | 1.67 | orthorhombic | EcHyd-1 dimer of heterodimers with C-terminal His tag (as-isolated, aerobically purified) | NiFe active site (Ni-B state), [4Fe-3S] proximal cluster, [4Fe-4S] distal cluster, [3Fe-4S] medial cluster |
+| doi/10.1073##pnas.1119806109 | 3USE | 1.47 | orthorhombic | EcHyd-1 dimer of heterodimers (H2-reduced, 8 bar H2 for 10 min) | NiFe active site (Ni-C/Ni-R states), [4Fe-3S] proximal cluster (PC2 state) |
+| doi/10.1073##pnas.1119806109 | 3USE | 2.0 | orthorhombic | EcHyd-1 dimer of heterodimers (chemically oxidized with 2 mM OH-NQ + 10 mM K3Fe(CN)6) | NiFe active site (Ni-B state), [4Fe-3S] proximal cluster (PC3 state) |
 | doi/10.1073##pnas.1121542109 |  | 1.47 | not specified | EcHyd-1 (SL)2 heterodimer | NiFe active site, [Fe4S4], [Fe3S4], [Fe4S4] clusters |
 
 ## Expression and Purification
@@ -37,7 +37,7 @@ Hydrogenase 1 (EcHyd-1) is a membrane-bound, O2-tolerant [NiFe]-hydrogenase from
 - **Expression system**: Escherichia coli
 - **Expression construct**: Full-length EcHyd-1
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

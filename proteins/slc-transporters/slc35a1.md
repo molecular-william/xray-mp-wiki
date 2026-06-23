@@ -1,5 +1,5 @@
 ---
-title: SLC35A1 Human CMP-Sialic Acid Transporter (mCST)
+title: "SLC35A1 Human CMP-Sialic Acid Transporter (mCST)"
 created: 2026-06-03
 updated: 2026-06-08
 type: protein
@@ -33,7 +33,7 @@ SLC35A1 is the human CMP-sialic acid transporter, a member of the SLC35 family o
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

@@ -1,5 +1,5 @@
 ---
-title: Bovine F1-ATPase-Efrapeptin Complex
+title: "Bovine F1-ATPase-Efrapeptin Complex"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -21,7 +21,7 @@ The structure of bovine mitochondrial F1-ATPase complexed with efrapeptin C, a m
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.93.18.9420 |  | 3.3 |  | Bovine mitochondrial F1-ATPase (alpha3beta3gamma subcomplex) with bound efrapeptin C | Efrapeptin C, [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/), [ADP](/xray-mp-wiki/reagents/ligands/adp/) |
+| doi/10.1073##pnas.93.18.9420 | 1EFR | 3.3 |  | Bovine mitochondrial F1-ATPase (alpha3beta3gamma subcomplex) with bound efrapeptin C | Efrapeptin C, [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/), [ADP](/xray-mp-wiki/reagents/ligands/adp/) |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ The structure of bovine mitochondrial F1-ATPase complexed with efrapeptin C, a m
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

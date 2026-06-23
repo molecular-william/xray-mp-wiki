@@ -1,5 +1,5 @@
 ---
-title: Pasteurella multocida Ascorbate Transporter EIIC (pmUlaA)
+title: "Pasteurella multocida Ascorbate Transporter EIIC (pmUlaA)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -34,7 +34,7 @@ pmUlaA is the EIIC component of the L-ascorbate (vitamin C) phosphoenolpyruvate-
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

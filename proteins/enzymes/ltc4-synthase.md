@@ -1,5 +1,5 @@
 ---
-title: Human Leukotriene C4 Synthase (LTC4S)
+title: "Human Leukotriene C4 Synthase (LTC4S)"
 created: 2026-06-08
 updated: 2026-06-16
 type: protein
@@ -22,13 +22,13 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1038##nature05936 | 2PNO | 3.3 | C2221 |  |  |
-| doi/10.1038##NATURE06009 | Not specified in raw paper (apo form, 2.0 A) | 2.0 | F23 |  |  |
-| doi/10.1038##NATURE06009 | Not specified in raw paper (GSH-bound, 2.15 A) | 2.15 | F23 |  |  |
+| doi/10.1038##NATURE06009 | 2UUH | 2.0 | F23 |  |  |
+| doi/10.1038##NATURE06009 | 2UUH | 2.15 | F23 |  |  |
 | doi/10.1074##jbc.M113.534628 | 4JCZ | 2.75 | Not specified |  |  |
-| doi/10.1074##jbc.M113.534628 | Not specified | 2.7 | Not specified |  |  |
-| doi/10.1074##jbc.M113.534628 | Not specified | 2.4 | Not specified |  |  |
-| doi/10.1074##jbc.M113.534628 | Not specified | 3.2 | Not specified |  |  |
-| doi/10.1074##jbc.M113.534628 | Not specified | 2.9 | Not specified |  |  |
+| doi/10.1074##jbc.M113.534628 | 4JCZ | 2.7 | Not specified |  |  |
+| doi/10.1074##jbc.M113.534628 | 4JCZ | 2.4 | Not specified |  |  |
+| doi/10.1074##jbc.M113.534628 | 4JCZ | 3.2 | Not specified |  |  |
+| doi/10.1074##jbc.M113.534628 | 4JCZ | 2.9 | Not specified |  |  |
 
 ## Expression and Purification
 
@@ -38,7 +38,7 @@ Leukotriene C4 synthase (LTC4S) is a membrane-bound enzyme in the MAPEG (Membran
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -98,7 +98,7 @@ LTC4S shares structural homology with other MAPEG family members including [FLAP
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Product release from LTC4S may involve conformational changes akin to alternating access
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used in purification buffer and as a crystallization additive; DDM molecule in PDB 2UUH mimics LTA4 binding
 - [Ammonium Sulfate](/xray-mp-wiki/reagents/additives/ammonium-sulfate/) — Precipitant used in crystallization
-- [Sodium Cacodylate](/xray-mp-wiki/reagents/additives/sodium-cacodylate/) — Buffer used in crystallization reservoir
+- [Sodium Cacodylate](/xray-mp-wiki/reagents/buffers/sodium-cacodylate/) — Buffer used in crystallization reservoir
 - [Sitting-drop vapor diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — Crystallization method for LTC4S complexes
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Final polishing step in purification
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

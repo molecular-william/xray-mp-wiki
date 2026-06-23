@@ -1,5 +1,5 @@
 ---
-title: MmpL3 from Mycobacterium smegmatis
+title: "MmpL3 from Mycobacterium smegmatis"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -28,7 +28,7 @@ MmpL3 (Mycobacterial membrane protein Large 3) is an inner membrane](/xray-mp-wi
 | doi/10.1016##j.cell.2019.01.003 | 6AJJ | 2.8 | not reported | M. smegmatis MmpL3 (residues 1-748) fused to T4 lysozyme (160 aa) + 10x [His tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) | [ICA38](/xray-mp-wiki/reagents/ligands/ica38) |
 | doi/10.1016##j.jmb.2020.05.019 | 7C2M | 3.1 | P2_12_12_1 | M. smegmatis MmpL3 (residues 1-748) fused to T4 lysozyme (160 aa) + 10x [His tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) | [NITD-349](/xray-mp-wiki/reagents/ligands/nitd-349) |
 | doi/10.1016##j.jmb.2020.05.019 | 7C2N | 2.8 | P2_12_12_1 | M. smegmatis MmpL3 (residues 1-748) fused to T4 lysozyme (160 aa) + 10x [His tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) | [SPIRO](/xray-mp-wiki/reagents/ligands/spiro) |
-| doi/10.1073##pnas.1901346116 |  | 2.59 |  | M. smegmatis MmpL3_773 (residues 1-773) with C-terminal 6xHis tag, expressed in E. coli BL21(DE3)ΔacrB | phosphatidylethanolamine (PE), DDM |
+| doi/10.1073##pnas.1901346116 | 6OR2 | 2.59 |  | M. smegmatis MmpL3_773 (residues 1-773) with C-terminal 6xHis tag, expressed in E. coli BL21(DE3)ΔacrB | phosphatidylethanolamine (PE), DDM |
 
 ## Expression and Purification
 
@@ -39,11 +39,11 @@ MmpL3 (Mycobacterial membrane protein Large 3) is an inner membrane](/xray-mp-wi
 
 ### Purification Workflow
 
-*Source: doi/10.1016##j.cell.2019.01.003*
+#### Source: doi/10.1016##j.cell.2019.01.003
 
 - **Expression system**: Mycobacterium smegmatis mc2155
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -55,13 +55,11 @@ MmpL3 (Mycobacterial membrane protein Large 3) is an inner membrane](/xray-mp-wi
 | Elution | [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) elution | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 300 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |  |
 | Size exclusion chromatography | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) on Superose-6 increase | Superose-6 increase (GE Healthcare) | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Concentrated to ~15 mg/mL for crystallization |
 
-### Purification Workflow
-
-*Source: doi/10.1016##j.jmb.2020.05.019*
+#### Source: doi/10.1016##j.jmb.2020.05.019
 
 - **Expression system**: Mycobacterium smegmatis mc2155
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

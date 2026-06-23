@@ -1,5 +1,5 @@
 ---
-title: Signal Peptide Peptidase A from Escherichia coli
+title: "Signal Peptide Peptidase A from Escherichia coli"
 created: 2026-05-26
 updated: 2026-05-26
 type: protein
@@ -31,7 +31,7 @@ Signal peptide peptidase (SppA) from *Escherichia coli* is the first crystal str
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

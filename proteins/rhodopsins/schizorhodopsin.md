@@ -1,5 +1,5 @@
 ---
-title: Schizorhodopsin SzR4 (AM_5_00977)
+title: "Schizorhodopsin SzR4 (AM_5_00977)"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -35,7 +35,7 @@ without being metastably trapped at E81, unlike other proton pumps.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.2016328118 |  | 2.1 |  | Full-length SzR4 (AM_5_00977) | all-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
+| doi/10.1073##pnas.2016328118 | 7E4G | 2.1 |  | Full-length SzR4 (AM_5_00977) | all-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
 
 ## Expression and Purification
 
@@ -45,7 +45,7 @@ without being metastably trapped at E81, unlike other proton pumps.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

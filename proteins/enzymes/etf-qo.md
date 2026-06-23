@@ -1,5 +1,5 @@
 ---
-title: Electron Transfer Flavoprotein-Ubiquinone Oxidoreductase (ETF-QO)
+title: "Electron Transfer Flavoprotein-Ubiquinone Oxidoreductase (ETF-QO)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -21,7 +21,7 @@ ETF-QO (Electron Transfer Flavoprotein- Oxidoreductase) is a 4Fe4S flavoprotein 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1073##pnas.0604567103 | 2GMH | 2.5 A | P42(1)2 | Native porcine ETF-QO (full-length, residues 1-584) | [FAD](/xray-mp-wiki/reagents/additives/flavin-adenine-dinucleotide/), 4Fe4S cluster,  (UQ) |
-| doi/10.1073##pnas.0604567103 | not deposited separately | 2.7 A | P42(1)2 | Native porcine ETF-QO (UQ-free form, same construct) | [FAD](/xray-mp-wiki/reagents/additives/flavin-adenine-dinucleotide/), 4Fe4S cluster |
+| doi/10.1073##pnas.0604567103 | 2GMH | 2.7 A | P42(1)2 | Native porcine ETF-QO (UQ-free form, same construct) | [FAD](/xray-mp-wiki/reagents/additives/flavin-adenine-dinucleotide/), 4Fe4S cluster |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ ETF-QO (Electron Transfer Flavoprotein- Oxidoreductase) is a 4Fe4S flavoprotein 
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -82,5 +82,5 @@ The UQ-binding mode in ETF-QO differs from other UQ-binding proteins. Only one o
 - [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) — Referenced in etf-qo text
 - [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) — Referenced in etf-qo text
 - [Peg](/xray-mp-wiki/reagents/additives/peg/) — Referenced in etf-qo text
-- [MIRAS](/xray-mp-wiki/methods/miras/) — Referenced in etf-qo text
+- [MIRAS](/xray-mp-wiki/methods/structure-determination/miras/) — Referenced in etf-qo text
 - [FAD](/xray-mp-wiki/reagents/additives/flavin-adenine-dinucleotide/) — Referenced in etf-qo text

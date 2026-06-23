@@ -1,5 +1,5 @@
 ---
-title: MurJ (Lipid II Flippase from E. coli and T. africanus)
+title: "MurJ (Lipid II Flippase from E. coli and T. africanus)"
 created: 2026-06-08
 updated: 2026-06-09
 type: protein
@@ -38,10 +38,10 @@ MurJ is an essential integral membrane protein in Gram-negative bacteria that fl
 
 ### Purification Workflow
 
-*Source: doi/10.1038##s41467-019-09658-0*
+#### Source: doi/10.1038##s41467-019-09658-0
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -50,12 +50,10 @@ MurJ is an essential integral membrane protein in Gram-negative bacteria that fl
 | Immobilized metal-affinity chromatography | TALON cobalt affinity | TALON Cobalt resin | 50 mM HEPES-NaOH pH 8.0, 150 mM Na acetate, 15 mM imidazole, 1 mM DDM | Eluted with 200 mM imidazole. PreScission protease cleavage overnight at 4 C to remove tags. |
 | Buffer exchange and size-exclusion chromatography | Gel filtration | Superdex 200 10/300 | 20 mM HEPES-NaOH pH 8.0, 150 mM Na acetate, 2 mM DTT, 0.3 mM decyl maltose neopentyl glycol (DMNG) | Exchanged into DMNG by 15-fold dilution prior to SEC |
 
-### Purification Workflow
-
-*Source: doi/10.1016##j.str.2022.05.008*
+#### Source: doi/10.1016##j.str.2022.05.008
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

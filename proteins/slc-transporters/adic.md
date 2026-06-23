@@ -1,5 +1,5 @@
 ---
-title: AdiC Arginine/Agmatine Antiporter
+title: "AdiC Arginine/Agmatine Antiporter"
 created: 2026-06-02
 updated: 2026-06-08
 type: protein
@@ -21,15 +21,15 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature08201 | not specified | 3.2 A | P1 | Salmonella enterica serovar Typhimurium AdiC in complex with [Fab21 Antibody Fragment](/xray-mp-wiki/reagents/antibodies/fab21) fragment | none (substrate-free, outward-open state) |
+| doi/10.1038##nature08201 | 3NCY | 3.2 A | P1 | Salmonella enterica serovar Typhimurium AdiC in complex with [Fab21 Antibody Fragment](/xray-mp-wiki/reagents/antibodies/fab21) fragment | none (substrate-free, outward-open state) |
 | doi/10.1038##nature08741 | 3H5M | 3.0 A | I2_12_12_1 | Escherichia coli AdiC (Arg-bound) | [L-Arginine](/xray-mp-wiki/reagents/substrates/l-arginine) |
-| doi/10.1038##nature08741 | 3H5M (rebuilt) | 3.62 A | P2_12_12_1 | Escherichia coli AdiC (rebuilt model, corrected register shift in TM6-8) | [L-Arginine](/xray-mp-wiki/reagents/substrates/l-arginine) |
+| doi/10.1038##nature08741 | 3H5M | 3.62 A | P2_12_12_1 | Escherichia coli AdiC (rebuilt model, corrected register shift in TM6-8) | [L-Arginine](/xray-mp-wiki/reagents/substrates/l-arginine) |
 | doi/10.1038##nature08741 | 3HQK | 3.2 A | P1 | Salmonella enterica serovar Typhimurium AdiC | none (substrate-free) |
-| doi/10.1038##nature08741 | 3HQK (rebuilt) | 3.2 A | P1 | Salmonella enterica serovar Typhimurium AdiC (rebuilt model, corrected TM1b, TM5, TM6) | none (substrate-free) |
-| doi/10.1126##science.1173654 | not specified in paper | 3.6 | P2_12_12_1 (also solved in P1) | Escherichia coli O157:H7 AdiC (arginine/agmatine antiporter) | none (outward-facing, open conformation) |
-| doi/10.1073##pnas.1605442113 |  | 2.6 |  | Wild-type E. coli AdiC with bound agmatine (Agm) | Agmatine |
-| doi/10.1073##pnas.1605442113 |  | 2.2 |  | Wild-type E. coli AdiC (substrate-free) | none |
-| doi/10.1073##pnas.1018081108 |  | 3.0 |  | E. coli AdiC N101A mutant co-crystallized with 1 mM L-arginine | [L-Arginine](/xray-mp-wiki/reagents/substrates/l-arginine) |
+| doi/10.1038##nature08741 | 3HQK | 3.2 A | P1 | Salmonella enterica serovar Typhimurium AdiC (rebuilt model, corrected TM1b, TM5, TM6) | none (substrate-free) |
+| doi/10.1126##science.1173654 | 3LRB | 3.6 | P2_12_12_1 (also solved in P1) | Escherichia coli O157:H7 AdiC (arginine/agmatine antiporter) | none (outward-facing, open conformation) |
+| doi/10.1073##pnas.1605442113 | 5J4N | 2.6 |  | Wild-type E. coli AdiC with bound agmatine (Agm) | Agmatine |
+| doi/10.1073##pnas.1605442113 | 5J4N | 2.2 |  | Wild-type E. coli AdiC (substrate-free) | none |
+| doi/10.1073##pnas.1018081108 | 3OB6 | 3.0 |  | E. coli AdiC N101A mutant co-crystallized with 1 mM L-arginine | [L-Arginine](/xray-mp-wiki/reagents/substrates/l-arginine) |
 | doi/10.1186##s12915-021-01102-4 | 7O82 | 1.7 | P 1 21 1 | Wild-type E. coli AdiC (outward-open, substrate-free) | none |
 
 ## Expression and Purification
@@ -39,10 +39,10 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
 
 ### Purification Workflow
 
-*Source: doi/10.1038##nature08201*
+#### Source: doi/10.1038##nature08201
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -51,20 +51,18 @@ AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ
 **Final sample**: 8 mg/ml
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Reconstitution | Liposome reconstitution | not applicable | not specified + not specified | AdiC reconstituted in liposomes for transport assays |
 
-### Purification Workflow
-
-*Source: doi/10.1073##pnas.1605442113*
+#### Source: doi/10.1073##pnas.1605442113
 
 - **Expression system**: Escherichia coli
 - **Expression construct**: Wild-type AdiC and mutants
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

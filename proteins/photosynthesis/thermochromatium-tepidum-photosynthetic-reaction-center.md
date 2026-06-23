@@ -1,5 +1,5 @@
 ---
-title: Photosynthetic Reaction Center from Thermochromatium tepidum
+title: "Photosynthetic Reaction Center from Thermochromatium tepidum"
 created: 2026-06-11
 updated: 2026-06-11
 type: protein
@@ -21,7 +21,7 @@ The photosynthetic reaction center (RC) from the thermophilic purple sulfur bact
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.240224997 |  | 2.2 | P2(1)2(1)2(1) | Photosynthetic reaction center from Tch. tepidum (L, M, H, and cytochrome subunits) | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), spirilloxanthin, quinone |
+| doi/10.1073##pnas.240224997 | 1EYS | 2.2 | P2(1)2(1)2(1) | Photosynthetic reaction center from Tch. tepidum (L, M, H, and cytochrome subunits) | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/), [Bacteriopheophytin](/xray-mp-wiki/reagents/cofactors/bacteriopheophytin/), spirilloxanthin, quinone |
 
 ## Expression and Purification
 

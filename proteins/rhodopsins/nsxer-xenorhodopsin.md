@@ -1,5 +1,5 @@
 ---
-title: NsXeR (Xenorhodopsin from Nanosalina)
+title: "NsXeR (Xenorhodopsin from Nanosalina)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -20,7 +20,7 @@ NsXeR is a light-driven inward proton pump (xenorhodopsin) from the nanohaloarch
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##sciadv.1603187 |  | 2.50 | P2_12_12_1 | Full-length NsXeR from Nanosalina with C-terminal LEHHHHHH tag | all-trans retinal (covalently bound to Lys213) |
+| doi/10.1126##sciadv.1603187 | 6EYU | 2.50 | P2_12_12_1 | Full-length NsXeR from Nanosalina with C-terminal LEHHHHHH tag | all-trans retinal (covalently bound to Lys213) |
 
 ## Expression and Purification
 
@@ -30,7 +30,7 @@ NsXeR is a light-driven inward proton pump (xenorhodopsin) from the nanohaloarch
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

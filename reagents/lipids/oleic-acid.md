@@ -26,7 +26,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Chloride Ion Rhodopsin](/xray-mp-wiki/proteins/rhodopsins/clir/) | Not specified | Binds to CIR C-terminal helix on TM A in LCP crystallization | Contributes to CIR structural stability through hydrophobic interactions |
+| [Chloride Ion Rhodopsin](/xray-mp-wiki/proteins/rhodopsins/cir-nonlabens-marinus/) | Not specified | Binds to CIR C-terminal helix on TM A in LCP crystallization | Contributes to CIR structural stability through hydrophobic interactions |
 | Adiponectin Receptor 2 (ADIPOR2) | Not specified | Bound in a hydrophobic cavity within the transmembrane domain of ADIPOR2; modeled as oleate (C18:1) based on insect cell lipid composition and slightly better statistics than stearate | Observed in all three ADIPOR2 crystal structures (PDB 5LX9, 5LWY, 5LXA); provides insight into fatty acid binding site for ceramidase activity |
 
 ## Advantages and Disadvantages
@@ -39,4 +39,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [Chloride Ion Rhodopsin](/xray-mp-wiki/proteins/rhodopsins/clir/) — Oleic acid binds to CIR C-terminal helix
+- [Chloride Ion Rhodopsin](/xray-mp-wiki/proteins/rhodopsins/cir-nonlabens-marinus/) — Oleic acid binds to CIR C-terminal helix

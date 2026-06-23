@@ -1,5 +1,5 @@
 ---
-title: MurJ from Thermosiphon africanus (MurJ_TA) — Lipid II Flippase
+title: "MurJ from Thermosiphon africanus (MurJ_TA) — Lipid II Flippase"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -34,7 +34,7 @@ verified: false
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

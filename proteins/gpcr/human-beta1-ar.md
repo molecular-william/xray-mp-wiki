@@ -1,5 +1,5 @@
 ---
-title: Human Beta-1 Adrenergic Receptor (beta1 AR)
+title: "Human Beta-1 Adrenergic Receptor (beta1 AR)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -35,7 +35,7 @@ The beta-1 adrenergic receptor (beta1 AR) is a G protein-coupled receptor (GPCR)
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ The beta-1 adrenergic receptor (beta1 AR) is a G protein-coupled receptor (GPCR)
 | [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | SEC | SEC column | 20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Final buffer with 10 uM [Carazolol](/xray-mp-wiki/reagents/ligands/carazolol/) for inactive state |
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

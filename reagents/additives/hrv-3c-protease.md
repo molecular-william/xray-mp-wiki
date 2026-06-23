@@ -42,5 +42,5 @@ No comparison data available.
 ## Cross-References
 
 - [Human M4 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m4-muscarinic-acetylcholine-receptor/) — HRV 3C protease used to cleave N-terminus of M4 receptor construct
-- [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) — Related site-specific protease used for tag cleavage in protein purification
+- [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/additives/tev-protease/) — Related site-specific protease used for tag cleavage in protein purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification

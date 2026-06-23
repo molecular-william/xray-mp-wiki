@@ -1,5 +1,5 @@
 ---
-title: Undecaprenyl Pyrophosphate Phosphatase (UppP/BacA) from Escherichia coli
+title: "Undecaprenyl Pyrophosphate Phosphatase (UppP/BacA) from Escherichia coli"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -20,7 +20,7 @@ Undecaprenyl pyrophosphate phosphatase (UppP, also known as BacA) is a 30 kDa po
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41467-018-03547-8 |  | 2.00 | C222 | Full-length EcUppP with N-terminal hexahistidine tag (removed by thrombin) | Monoolein |
+| doi/10.1038##s41467-018-03547-8 | 6CB2 | 2.00 | C222 | Full-length EcUppP with N-terminal hexahistidine tag (removed by thrombin) | Monoolein |
 
 ## Expression and Purification
 
@@ -31,7 +31,7 @@ Undecaprenyl pyrophosphate phosphatase (UppP, also known as BacA) is a 30 kDa po
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

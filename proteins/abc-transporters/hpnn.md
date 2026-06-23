@@ -1,5 +1,5 @@
 ---
-title: HpnN Hopanoid Transporter from Burkholderia multivorans
+title: "HpnN Hopanoid Transporter from Burkholderia multivorans"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -30,7 +30,7 @@ No structure determined.
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

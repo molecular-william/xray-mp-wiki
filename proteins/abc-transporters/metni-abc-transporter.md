@@ -1,5 +1,5 @@
 ---
-title: E. coli Methionine ABC Transporter MetNI
+title: "E. coli Methionine ABC Transporter MetNI"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -30,7 +30,7 @@ No structure determined.
 
 - **Expression system**: E. coli
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

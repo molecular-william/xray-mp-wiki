@@ -1,5 +1,5 @@
 ---
-title: Cannabinoid Receptor 2 (CNR2/CB2)
+title: "Cannabinoid Receptor 2 (CNR2/CB2)"
 created: 2026-05-27
 updated: 2026-05-27
 type: protein
@@ -33,13 +33,13 @@ verified: false
 
 ### Purification Workflow
 
-*Source: doi/10.1016##j.cell.2020.01.008*
+#### Source: doi/10.1016##j.cell.2020.01.008
 
 - **Expression system**: Sf9 insect cells (Bac-to-Bac [Baculovirus Expression](/xray-mp-wiki/methods/expression-systems/baculovirus-expression))
 - **Expression construct**: CB2-N-BRIL fusion with HA signal, 10x His-tag, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag)
 - **Tag info**: HA signal, 10x His (N-terminal), [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -54,15 +54,13 @@ verified: false
 **Final sample**: not specified
 **Purity**: Monomeric fractions by [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)
 
-### Purification Workflow
-
-*Source: doi/10.1016##j.cell.2018.12.011*
+#### Source: doi/10.1016##j.cell.2018.12.011
 
 - **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/sf9-insect-cells) (Bac-to-Bac [Baculovirus Expression](/xray-mp-wiki/methods/expression-systems/baculovirus-expression))
 - **Expression construct**: CB2-T4L fusion (ICL3 residues 222-235 replaced by T4L); N-term residues 1-20 and C-term 326-360 truncated; G78L, T127A, T153L, R242E, G304E mutations
 - **Tag info**: None (no affinity tag)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

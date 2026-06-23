@@ -26,7 +26,7 @@ In the MdfA variant I239T/G354E, each substrate-binding site is coupled to a dis
 
 
 ## Cross-References
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — Dual drug-binding sites are a novel architectural feature within the MFS fold
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — Dual drug-binding sites are a novel architectural feature within the MFS fold
 - [Substrate-Protonation Coupling](/xray-mp-wiki/concepts/transport-mechanisms/substrate-protonation-coupling/) — The dual-site architecture has implications for drug/H+ coupling stoichiometry
 - [Long-Range Electrostatic Interactions in Multidrug Recognition](/xray-mp-wiki/concepts/long-range-electrostatic-interactions/) — Related mechanism enabling substrate recognition at the dual sites
 - [MdfA I239T/G354E Variant](/xray-mp-wiki/proteins/mfs-transporters/mdfa-i239t-g354e/) — Primary structural evidence for dual drug-binding sites in an MFS transporter

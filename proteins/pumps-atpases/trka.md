@@ -1,5 +1,5 @@
 ---
-title: TrkA (ATP-binding Regulatory Subunit from Klebsiella pneumoniae)
+title: "TrkA (ATP-binding Regulatory Subunit from Klebsiella pneumoniae)"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -21,8 +21,8 @@ TrkA is a cytoplasmic ATP-binding regulatory subunit from the bacterium Klebsiel
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature12056 | Not specified | 3.05 | P6122 | Isolated TrkA tetramer with ATPγS, 6,990 protein atoms in asymmetric unit | ATPγS |
-| doi/10.1038##nature12056 | Not specified | 3.8 | P21 | TrkA subunit in TrkH-TrkA complex, bound to NADH | NADH |
+| doi/10.1038##nature12056 | 4J9U | 3.05 | P6122 | Isolated TrkA tetramer with ATPγS, 6,990 protein atoms in asymmetric unit | ATPγS |
+| doi/10.1038##nature12056 | 4J9U | 3.8 | P21 | TrkA subunit in TrkH-TrkA complex, bound to NADH | NADH |
 
 ## Expression and Purification
 
@@ -32,7 +32,7 @@ TrkA is a cytoplasmic ATP-binding regulatory subunit from the bacterium Klebsiel
 - **Expression construct**: His-tagged TrkH-TrkA complex
 - **Tag info**: His-tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

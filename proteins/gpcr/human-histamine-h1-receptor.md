@@ -1,5 +1,5 @@
 ---
-title: Human Histamine H1 Receptor (H1R)
+title: "Human Histamine H1 Receptor (H1R)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -34,7 +34,7 @@ The human histamine H1 receptor (H1R) is a [G Protein](/xray-mp-wiki/concepts/si
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

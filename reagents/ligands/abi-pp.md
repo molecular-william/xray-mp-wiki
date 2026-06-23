@@ -32,7 +32,7 @@ ABI-PP binds to the hydrophobic trap in the distal drug-binding pocket of [ACRB]
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) | inhibitor:protein molar ratio 5:1 | ABI-PP-bound [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) crystallized using [Dodecanoyl Sucrose](/xray-mp-wiki/reagents/detergents/dodecanoyl-sucrose/); C2 space group, solved at 3.05 A resolution | First inhibitor-bound structure of [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/); ABI-PP bound in hydrophobic trap, inhibiting functional rotation |
+| [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) | inhibitor:protein molar ratio 5:1 | ABI-PP-bound [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/) crystallized using [Dodecanoyl Sucrose](/xray-mp-wiki/reagents/detergents/dodecanoyl-sucrose/); C2 space group, solved at 3.05 A resolution | First inhibitor-bound structure of [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/); ABI-PP bound in hydrophobic trap, inhibiting functional rotation |
 | [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/)(F178W) mutant | inhibitor:protein molar ratio 5:1 | Drug-free [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/)(F178W) crystallized using [Dodecanoyl Sucrose](/xray-mp-wiki/reagents/detergents/dodecanoyl-sucrose/); C2 space group, solved at 3.60 A resolution | Indolyl side chain of W178 protrudes into hydrophobic trap, preventing ABI-PP binding |
 | [MexB (Pseudomonas aeruginosa multidrug exporter)](/xray-mp-wiki/proteins/abc-transporters/mexB/) | inhibitor:protein molar ratio 5:1 | ABI-PP-bound [MEXB](/xray-mp-wiki/proteins/abc-transporters/mexb/) crystallized using [DDM](/xray-mp-wiki/reagents/detergents/ddm/); P1 space group, solved at 3.15 A resolution | ABI-PP bound in hydrophobic trap with similar conformation to [ACRB](/xray-mp-wiki/proteins/abc-transporters/acrb/); PAEA moiety extends towards R128 |
 | [MEXB](/xray-mp-wiki/proteins/abc-transporters/mexb/)(F178W) mutant | inhibitor:protein molar ratio 5:1 | ABI-PP-bound [MEXB](/xray-mp-wiki/proteins/abc-transporters/mexb/)(F178W) crystallized using [DDM](/xray-mp-wiki/reagents/detergents/ddm/); P1 space group, solved at 3.00 A resolution | Indolyl ring of W178 fits into position capable of forming pi-pi interactions with pyridopyrimidine ring |
@@ -47,7 +47,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Primary target; first inhibitor-bound structure of AcrB solved with ABI-PP
+- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Primary target; first inhibitor-bound structure of AcrB solved with ABI-PP
 - [MexB (Pseudomonas aeruginosa multidrug exporter)](/xray-mp-wiki/proteins/abc-transporters/mexB/) — Secondary target; ABI-PP binding site similar to AcrB
 - [MexY (Pseudomonas aeruginosa multidrug exporter)](/xray-mp-wiki/proteins/abc-transporters/mexY/) — Not inhibited by ABI-PP due to W177 steric hindrance in hydrophobic trap
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used for MexB crystallization; bound DDM partially overlaps ABI-PP binding site

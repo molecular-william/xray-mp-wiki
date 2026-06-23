@@ -1,5 +1,5 @@
 ---
-title: Mouse 5-HT3A Receptor
+title: "Mouse 5-HT3A Receptor"
 created: 2026-06-03
 updated: 2026-06-03
 type: protein
@@ -33,7 +33,7 @@ The mouse [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands
 - **Expression system**: T-REX-293
 - **Expression construct**: N-terminal Strept-tag with TEV cleavage site
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

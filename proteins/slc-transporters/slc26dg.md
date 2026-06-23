@@ -1,5 +1,5 @@
 ---
-title: SLC26Dg (Deinococcus geothermalis Fumarate Transporter)
+title: "SLC26Dg (Deinococcus geothermalis Fumarate Transporter)"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -34,7 +34,7 @@ SLC26Dg is a prokaryotic fumarate transporter from the bacterium Deinococcus geo
 ### Purification Workflow
 
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

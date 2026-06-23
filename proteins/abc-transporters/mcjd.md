@@ -1,5 +1,5 @@
 ---
-title: McjD - Antibacterial Peptide ABC Exporter from Escherichia coli
+title: "McjD - Antibacterial Peptide ABC Exporter from Escherichia coli"
 created: 2026-06-08
 updated: 2026-06-17
 type: protein
@@ -41,10 +41,10 @@ severe anisotropy.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1320506111 | not specified | 2.7 | — | Full-length McjD with C-terminal GFP-His6 tag (cleaved) | AMP-PNP |
-| doi/10.15252##embj.201797278 | not specified | 2.7 | — | Full-length McjD | ADP-VO4 |
-| doi/10.15252##embj.201797278 | not specified | 2.5 | — | Full-length McjD | none (apo) |
-| doi/10.1107##S2052252520012312 | not specified | 3.4 (V-SAD), 2.7 (phase extension) | — | Full-length McjD with ADP-VO4 | ADP-VO4 |
+| doi/10.1073##pnas.1320506111 | 4PL0 | 2.7 | — | Full-length McjD with C-terminal GFP-His6 tag (cleaved) | AMP-PNP |
+| doi/10.15252##embj.201797278 | 5OFR | 2.7 | — | Full-length McjD | ADP-VO4 |
+| doi/10.15252##embj.201797278 | 5OFR | 2.5 | — | Full-length McjD | none (apo) |
+| doi/10.1107##S2052252520012312 | 6YSO | 3.4 (V-SAD), 2.7 (phase extension) | — | Full-length McjD with ADP-VO4 | ADP-VO4 |
 
 ## Expression and Purification
 
@@ -54,12 +54,12 @@ severe anisotropy.
 
 ### Purification Workflow
 
-*Source: doi/10.1073##pnas.1320506111*
+#### Source: doi/10.1073##pnas.1320506111
 
 - **Expression system**: E. coli
 - **Expression construct**: McjD-GFP-His6
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
@@ -68,14 +68,12 @@ severe anisotropy.
 
 **Final sample**: McjD in nonyl-glucopyranoside with 10 mM AMP-PNP and 2.5 mM MgCl2
 
-### Purification Workflow
-
-*Source: doi/10.1107##S2052252520012312*
+#### Source: doi/10.1107##S2052252520012312
 
 - **Expression system**: E. coli
 - **Expression construct**: McjD
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

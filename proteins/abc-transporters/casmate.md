@@ -1,5 +1,5 @@
 ---
-title: CasMATE (Camelina sativa MATE Transporter)
+title: "CasMATE (Camelina sativa MATE Transporter)"
 created: 2026-05-29
 updated: 2026-06-08
 type: protein
@@ -34,7 +34,7 @@ CasMATE is a multidrug and toxic compound extrusion (MATE) family transporter fr
 - **Expression construct**: CasMATE(15-468)-EFPGENLYFQGQFSKGE-GFP-His8
 - **Tag info**: C-terminal GFP-His8 tag, cleaved with [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease) at 4 C overnight
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

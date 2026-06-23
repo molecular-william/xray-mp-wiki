@@ -1,5 +1,5 @@
 ---
-title: Human SERCA2b — Sarco/Endoplasmic Reticulum Ca²⁺-ATPase 2b
+title: "Human SERCA2b — Sarco/Endoplasmic Reticulum Ca²⁺-ATPase 2b"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein

@@ -1,5 +1,5 @@
 ---
-title: Human 5-HT2B Serotonin Receptor Bound to Ergotamine
+title: "Human 5-HT2B Serotonin Receptor Bound to Ergotamine"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -33,7 +33,7 @@ No structure determined.
 - **Expression construct**: Delta N-5-HT2B-BRIL-Delta C with N-terminal HA-FLAG and C-terminal PreScission-10xHis
 - **Tag info**: C-terminal 10xHis tag removed by [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

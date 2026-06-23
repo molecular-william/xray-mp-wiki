@@ -1,5 +1,5 @@
 ---
-title: Human 5-HT1B Serotonin Receptor
+title: "Human 5-HT1B Serotonin Receptor"
 created: 2026-06-21
 updated: 2026-06-21
 type: protein
@@ -22,7 +22,7 @@ The human 5-HT1B receptor is a class A G protein-coupled receptor for serotonin 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1126##science.1232807 | 4IAR | 2.7 | C2 | Human 5-HT1B-BRIL fusion (ICL3 residues L240-M305 replaced by BRIL; N-terminal truncation at N32; L138³·⁴¹W thermostabilizing mutation), in complex with ergotamine (ERG) | Ergotamine (ERG) |
-| doi/10.1126##science.1232807 |  | 2.8 | C222 | Human 5-HT1B-BRIL fusion (5-HT1B-2 construct, ICL3 residues L240-K303 replaced by BRIL; N-terminal truncation at N32; L138³·⁴¹W mutation), in complex with dihydroergotamine (DHE) | Dihydroergotamine (DHE) |
+| doi/10.1126##science.1232807 | 4IAR | 2.8 | C222 | Human 5-HT1B-BRIL fusion (5-HT1B-2 construct, ICL3 residues L240-K303 replaced by BRIL; N-terminal truncation at N32; L138³·⁴¹W mutation), in complex with dihydroergotamine (DHE) | Dihydroergotamine (DHE) |
 
 ## Expression and Purification
 
@@ -35,7 +35,7 @@ The human 5-HT1B receptor is a class A G protein-coupled receptor for serotonin 
 - **Expression construct**: 5-HT1B-BRIL fusion (ICL3 replacement) with N-terminal HA-Flag-10×His-TEV tag
 - **Tag info**: 10×His tag + Flag tag, cleaved by AcTEV protease
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

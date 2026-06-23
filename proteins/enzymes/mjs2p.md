@@ -1,5 +1,5 @@
 ---
-title: Site-2 Protease (mjS2P) from Methanocaldococcus jannaschii
+title: "Site-2 Protease (mjS2P) from Methanocaldococcus jannaschii"
 created: 2026-06-08
 updated: 2026-06-08
 type: protein
@@ -29,7 +29,7 @@ framework for understanding regulated [Intramembrane Proteolysis](/xray-mp-wiki/
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.1150755 | not specified | moderate | not specified | Transmembrane core domain (residues 1-224) | Zinc (catalytic) |
+| doi/10.1126##science.1150755 | 3B4R | moderate | not specified | Transmembrane core domain (residues 1-224) | Zinc (catalytic) |
 
 ## Expression and Purification
 
@@ -42,7 +42,7 @@ framework for understanding regulated [Intramembrane Proteolysis](/xray-mp-wiki/
 - **Expression system**: E. coli
 - **Expression construct**: Transmembrane core domain (residues 1-224)
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

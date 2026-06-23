@@ -1,5 +1,5 @@
 ---
-title: Pseudomonas aeruginosa Apolipoprotein N-Acyl Transferase (LntPae)
+title: "Pseudomonas aeruginosa Apolipoprotein N-Acyl Transferase (LntPae)"
 created: 2026-06-16
 updated: 2026-06-16
 type: protein
@@ -32,7 +32,7 @@ Pseudomonas aeruginosa apolipoprotein N-acyltransferase (LntPae) is a 57 kDa int
 - **Expression system**: E. coli C43(DE3)
 - **Expression construct**: Full-length P. aeruginosa Lnt with N-terminal His6-tag
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|

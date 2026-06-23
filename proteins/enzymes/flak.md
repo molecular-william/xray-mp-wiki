@@ -1,5 +1,5 @@
 ---
-title: FlaK (Preflagellin Peptidase from Methanococcus maripaludis)
+title: "FlaK (Preflagellin Peptidase from Methanococcus maripaludis)"
 created: 2026-06-02
 updated: 2026-06-02
 type: protein
@@ -21,7 +21,7 @@ FlaK is a preflagellin peptidase (PFP) from the archaeon Methanococcus maripalud
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature10218 | Not specified in this paper | 3.6 A | Not specified | Full-length FlaK (MmarC6_0338) from M. maripaludis strain C6 | None |
+| doi/10.1038##nature10218 | 3S0X | 3.6 A | Not specified | Full-length FlaK (MmarC6_0338) from M. maripaludis strain C6 | None |
 
 ## Expression and Purification
 
@@ -35,7 +35,7 @@ FlaK is a preflagellin peptidase (PFP) from the archaeon Methanococcus maripalud
 - **Expression construct**: His6-tagged FlaK with Gly-Ser-Gly-Ser linker for thrombin cleavage
 - **Tag info**: [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag), removed by thrombin cleavage overnight at 22 deg.C
 
-#### Steps
+##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
