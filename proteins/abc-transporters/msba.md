@@ -93,9 +93,9 @@ The facial amphiphile [FA-3 (Facade-EM Facial Amphiphile)](/xray-mp-wiki/reagent
 
 ## Cross-References
 
-- [ABC Transporter Allosteric Regulation](/xray-mp-wiki/concepts/abc-transporter-allosteric-regulation/) — MsbA is an ABC transporter; its conformational cycle involves allosteric coupling between NBDs and TMDs
+- [ABC Transporter Allosteric Regulation](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-allosteric-regulation/) — MsbA is an ABC transporter; its conformational cycle involves allosteric coupling between NBDs and TMDs
 - [POPE (1-palmitoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine)](/xray-mp-wiki/reagents/lipids/pope/) — POPE lipids used in MD simulations to study MsbA-lipid A interactions and in ATPase activity measurements
-- [Dual-Mode Inhibition of ABC Transporters](/xray-mp-wiki/concepts/dual-mode-inhibition-abc-transporters/) — Quinoline inhibitors (G907, G247) exhibit dual-mode inhibition of MsbA
+- [Dual-Mode Inhibition of ABC Transporters](/xray-mp-wiki/concepts/transport-mechanisms/dual-mode-inhibition-abc-transporters/) — Quinoline inhibitors (G907, G247) exhibit dual-mode inhibition of MsbA
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification
 - [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Method used in structure determination or purification

@@ -2,7 +2,7 @@ title: Ser/Lys Catalytic Mechanism
 type: concept
 tags:
 - concept-transport-mechanism
-- subdirectory-concepts
+- subdirectory-enzyme-mechanisms
 sources:
 - doi/10.1016##j.jmb.2012.03.020
 - doi/10.1016##j.jmb.2007.11.080
@@ -14,10 +14,11 @@ cross_references:
   title: Signal Peptide Peptidase A from Escherichia coli (SppA_EC)
   reason: First crystal structure of a Ser/Lys protease; tetrameric bowl-shaped assembly
     with catalytic dyad formed at domain interface
-cross_refs_text: '- [Glpg](/xray-mp-wiki/proteins/enzymes/glpg/) — Rhomboid protease with
-  ser-lys catalytic dyad - [Signal Peptide Peptidase A from Escherichia coli (SppA_EC)](/xray-mp-wiki/proteins/enzymes/sppa-ec/)
-  — First crystal structure of a Ser/Lys protease; tetrameric bowl-shaped assembly
-  with catalytic dyad formed at domain interface'
+cross_refs_text: '- [Glpg](/xray-mp-wiki/proteins/enzymes/glpg/) — Rhomboid protease
+  with ser-lys catalytic dyad - [Signal Peptide Peptidase A from Escherichia coli
+  (SppA_EC)](/xray-mp-wiki/proteins/enzymes/sppa-ec/) — First crystal structure of
+  a Ser/Lys protease; tetrameric bowl-shaped assembly with catalytic dyad formed at
+  domain interface'
 details: The ser-lys catalytic mechanism is found in rhomboid proteases and signal
   peptide peptidases. A serine residue acts as the nucleophile while a lysine residue
   serves as a general base. In rhomboid proteases, both residues are contained within

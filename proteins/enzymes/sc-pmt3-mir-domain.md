@@ -73,4 +73,4 @@ Pmt3-MIR is structurally almost identical to Pmt2-MIR (rmsd below detection limi
 ## Cross-References
 
 - [Pmt2-MIR Domain](/xray-mp-wiki/proteins/enzymes/sc-pmt2-mir-domain/) — Pmt2-MIR is the close homolog with nearly identical structure, solved in the same study
-- [MIR Domain (Mannosyltransferase, IP3R, RyR)](/xray-mp-wiki/concepts/mir-domain/) — Pmt3-MIR is a member of the MIR domain family
+- [MIR Domain (Mannosyltransferase, IP3R, RyR)](/xray-mp-wiki/concepts/structural-mechanisms/mir-domain/) — Pmt3-MIR is a member of the MIR domain family

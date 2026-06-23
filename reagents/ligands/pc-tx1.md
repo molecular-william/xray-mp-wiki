@@ -66,5 +66,5 @@ No comparison data available.
 
 - [Acid-Sensing Ion Channel 1a](/xray-mp-wiki/proteins/other-ion-channels/asic1a/) — Primary target of PcTx1; complex structures solved at high and low pH
 - [Amiloride](/xray-mp-wiki/reagents/ligands/amiloride/) — Blocks PcTx1-mediated current in ASIC1a
-- [Channel Gating](/xray-mp-wiki/concepts/channel-gating/) — PcTx1 stabilizes the desensitized conformation of ASIC1a
+- [Channel Gating](/xray-mp-wiki/concepts/transport-mechanisms/channel-gating/) — PcTx1 stabilizes the desensitized conformation of ASIC1a
 - [MitTx (Texas coral snake toxin)](/xray-mp-wiki/reagents/ligands/mittx/) — Heteromeric ASIC1 modulator that binds to overlapping site; mutually exclusive with PcTx1

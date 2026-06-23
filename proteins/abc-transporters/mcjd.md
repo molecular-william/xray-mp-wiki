@@ -182,7 +182,7 @@ can succeed at low resolution and with a low scatterer-to-residue ratio (1:580).
 
 - [Sav1866 Multidrug ABC Exporter](/xray-mp-wiki/proteins/abc-transporters/sav1866/) — Structural comparison; McjD shares similar overall architecture but adopts distinct occluded conformation
 - [MsbA Lipid Flippase](/xray-mp-wiki/proteins/abc-transporters/msba/) — Structural comparison; used as search model for molecular replacement
-- [ABC Transporter Family](/xray-mp-wiki/concepts/abc-transporter-family/) — McjD is a member of the ABC exporter family
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — McjD's outward-occluded state represents an intermediate in the alternating access cycle
-- [ABC Transporter Outward-Occluded Mechanism](/xray-mp-wiki/concepts/abc-transporter-outward-occluded-mechanism/) — McjD defines the outward-occluded conformation in ABC exporters
-- [Vanadate Inhibition](/xray-mp-wiki/concepts/vanadate-inhibition/) — Vanadate binding used for V-SAD phasing of McjD structure
+- [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — McjD is a member of the ABC exporter family
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — McjD's outward-occluded state represents an intermediate in the alternating access cycle
+- [ABC Transporter Outward-Occluded Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-outward-occluded-mechanism/) — McjD defines the outward-occluded conformation in ABC exporters
+- [Vanadate Inhibition](/xray-mp-wiki/concepts/enzyme-mechanisms/vanadate-inhibition/) — Vanadate binding used for V-SAD phasing of McjD structure

@@ -64,5 +64,5 @@ The SPCS1 structure was obtained using the termini-restraining approach, where t
 
 ## Cross-References
 
-- [Termini Restraining](/xray-mp-wiki/concepts/termini-restraining/) — SPCS1 structure was determined using the termini-restraining approach with split sfGFP
+- [Termini Restraining](/xray-mp-wiki/concepts/miscellaneous/termini-restraining/) — SPCS1 structure was determined using the termini-restraining approach with split sfGFP
 - [Human Vitamin K Epoxide Reductase (HsVKOR)](/xray-mp-wiki/proteins/enzymes/hsvkor/) — Another protein whose structure was determined using the same termini-restraining approach

@@ -21,11 +21,11 @@ Metabotropic glutamate receptor 5 (mGlu5) is a Class C G protein-coupled recepto
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature13396 | 4OO9 | 2.6 A | C 1 2 1 | mGlu5-StaR TMD (residues 569-836) with N-terminal GP64 signal sequence, C-terminal decahistidine tag, [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) inserted into ICL2 between Lys678 and Lys679, ECD and C-terminus [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/), six thermostabilizing mutations (E579A, N667Y, I669A, G675M, T742A, S753A). Complexed with [AFQ056](/xray-mp-wiki/reagents/ligands/mavoglurant/).
+| doi/10.1038##nature13396 | 4OO9 | 2.6 A | C 1 2 1 | mGlu5-StaR TMD (residues 569-836) with N-terminal GP64 signal sequence, C-terminal decahistidine tag, [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) inserted into ICL2 between Lys678 and Lys679, ECD and C-terminus [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), six thermostabilizing mutations (E579A, N667Y, I669A, G675M, T742A, S753A). Complexed with [AFQ056](/xray-mp-wiki/reagents/ligands/mavoglurant/).
  | [AFQ056](/xray-mp-wiki/reagents/ligands/mavoglurant/) |
-| doi/10.1021##acs.jmedchem.7b01722 | 6FFI | 2.2 A | C 1 2 1 | mGlu5-StaR TMD (residues 569-832) with N-terminal GP64 signal sequence, C-terminal decahistidine tag, [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) inserted into ICL2 between Lys678 and Lys679, ECD and C-terminus [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/), six thermostabilizing mutations. Complexed with [M-MPEP](/xray-mp-wiki/reagents/ligands/m-mpep/).
+| doi/10.1021##acs.jmedchem.7b01722 | 6FFI | 2.2 A | C 1 2 1 | mGlu5-StaR TMD (residues 569-832) with N-terminal GP64 signal sequence, C-terminal decahistidine tag, [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) inserted into ICL2 between Lys678 and Lys679, ECD and C-terminus [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), six thermostabilizing mutations. Complexed with [M-MPEP](/xray-mp-wiki/reagents/ligands/m-mpep/).
  | [M-MPEP](/xray-mp-wiki/reagents/ligands/m-mpep/) |
-| doi/10.1021##acs.jmedchem.7b01722 | 6FFH | 2.65 A | C 1 2 1 | mGlu5-StaR TMD (residues 569-832) with N-terminal GP64 signal sequence, C-terminal decahistidine tag, [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) inserted into ICL2 between Lys678 and Lys679, ECD and C-terminus [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/), six thermostabilizing mutations. Complexed with [Fenobam](/xray-mp-wiki/reagents/ligands/fenobam/).
+| doi/10.1021##acs.jmedchem.7b01722 | 6FFH | 2.65 A | C 1 2 1 | mGlu5-StaR TMD (residues 569-832) with N-terminal GP64 signal sequence, C-terminal decahistidine tag, [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) inserted into ICL2 between Lys678 and Lys679, ECD and C-terminus [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), six thermostabilizing mutations. Complexed with [Fenobam](/xray-mp-wiki/reagents/ligands/fenobam/).
  |  |
 
 ## Expression and Purification
@@ -117,6 +117,6 @@ features provide a model for all class C G-protein-coupled receptors.
 - [MPEP](/xray-mp-wiki/reagents/ligands/mpep/) — Reference NAM; defines MPEP allosteric site
 - [T4 Lysozyme (T4L)](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — Fusion partner inserted into ICL2 for crystallization
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method for all mGlu5 structures
-- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/gpcr-inactive-conformation/) — Ionic lock network maintains inactive state of mGlu5
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — Ionic lock network maintains inactive state of mGlu5
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

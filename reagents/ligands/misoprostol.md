@@ -76,4 +76,4 @@ No comparison data available.
 
 - [Prostaglandin E2 Receptor EP3](/xray-mp-wiki/proteins/gpcr/ep3-receptor/) — Primary biological target of misoprostol
 - [Prostaglandin E2 (PGE2)](/xray-mp-wiki/reagents/ligands/prostaglandin-e2/) — Endogenous prostaglandin analog; misoprostol mimics PGE2 action on EP3
-- [Prostanoid Receptor Family](/xray-mp-wiki/concepts/prostanoid-receptor-family/) — Misoprostol targets EP3, a member of the prostanoid receptor family
+- [Prostanoid Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/prostanoid-receptor-family/) — Misoprostol targets EP3, a member of the prostanoid receptor family

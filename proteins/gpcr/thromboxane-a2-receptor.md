@@ -76,7 +76,7 @@ Sequence alignment reveals that residues predicted to interact with the central 
 
 ## Cross-References
 
-- [Prostanoid Receptor Family](/xray-mp-wiki/concepts/prostanoid-receptor-family/) — TP is a member of the prostanoid receptor family; structures provide first atomic-level view of TP ligand recognition
-- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/gpcr-inactive-conformation/) — TP-ramatroban and TP-daltroban structures represent antagonist-bound inactive state of a prostanoid receptor
+- [Prostanoid Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/prostanoid-receptor-family/) — TP is a member of the prostanoid receptor family; structures provide first atomic-level view of TP ligand recognition
+- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — TP-ramatroban and TP-daltroban structures represent antagonist-bound inactive state of a prostanoid receptor
 - [CRTH2 (DP2)](/xray-mp-wiki/proteins/gpcr/crth2/) — Another prostanoid receptor with distinct ligand-binding mode; comparison highlights diversity in prostanoid receptor ligand recognition
-- [Disulfide Bond Formation](/xray-mp-wiki/concepts/disulfide-bond-formation/) — Unique C11-C102 disulfide bond in extracellular region stabilizes the two-layer lid over the ligand-binding pocket
+- [Disulfide Bond Formation](/xray-mp-wiki/concepts/enzyme-mechanisms/disulfide-bond-formation/) — Unique C11-C102 disulfide bond in extracellular region stabilizes the two-layer lid over the ligand-binding pocket

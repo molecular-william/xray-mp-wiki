@@ -18,7 +18,7 @@ LtaA is a proton-coupled antiporter flippase from Staphylococcus aureus
 that translocates the lipid-linked disaccharide gentiobiosyl-diacylglycerol
 (anchor-LLD) across the plasma membrane, a rate-limiting step in
 lipoteichoic acid (LTA) biogenesis. LtaA belongs to the Major Facilitator
-Superfamily ([MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/)) of transporters and is essential for S. aureus survival
+Superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/)) of transporters and is essential for S. aureus survival
 under acidic physiological conditions encountered in the human nasopharynx,
 mucous membranes, and skin. Its structure reveals an amphiphilic central
 cavity with an N-terminal hydrophilic pocket that binds the gentiobiosyl
@@ -101,8 +101,8 @@ inhibitors targeting LTA assembly.
 
 ## Cross-References
 
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/major-facilitator-superfamily/) — LtaA is an MFS family transporter
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — LtaA follows the antiporter alternating-access cycle
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — LtaA is an MFS family transporter
+- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — LtaA follows the antiporter alternating-access cycle
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification
 - [beta-Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/) — Additive used in purification or crystallization buffers

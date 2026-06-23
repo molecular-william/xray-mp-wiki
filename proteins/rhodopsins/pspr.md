@@ -80,4 +80,4 @@ The PspR L81A mutant showed 1.9-fold higher activity than WT due to accumulation
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent for membrane solubilization and purification
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Chromophore covalently bound to Lys210 via protonated Schiff base
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — PspR crystallized by LCP method at 2.84 A resolution
-- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-photocycle/) — PspR photocycle intermediates (M, O, L) characterized by laser flash photolysis
+- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/) — PspR photocycle intermediates (M, O, L) characterized by laser flash photolysis

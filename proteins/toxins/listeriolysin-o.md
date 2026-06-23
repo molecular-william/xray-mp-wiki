@@ -48,5 +48,5 @@ The N-terminal PPII helix of LLO plays a regulatory role in pore formation. Loca
 
 ## Cross-References
 
-- [Cholesterol-Dependent Cytolysins](/xray-mp-wiki/concepts/cholesterol-dependent-cytolysins/) — LLO is a member of the CDC family, the largest family of bacterial pore-forming toxins
-- [Pore-Forming Toxins](/xray-mp-wiki/concepts/pore-forming-toxins/) — LLO is a type II pore-forming toxin that disrupts host cell membranes
+- [Cholesterol-Dependent Cytolysins](/xray-mp-wiki/concepts/miscellaneous/cholesterol-dependent-cytolysins/) — LLO is a member of the CDC family, the largest family of bacterial pore-forming toxins
+- [Pore-Forming Toxins](/xray-mp-wiki/concepts/structural-mechanisms/pore-forming-toxins/) — LLO is a type II pore-forming toxin that disrupts host cell membranes

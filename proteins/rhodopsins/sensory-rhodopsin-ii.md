@@ -164,7 +164,7 @@ bound.
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Monoolein used as the host lipid for LCP crystallization
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Closely related archaeal rhodopsin used for structural comparison of active state and proton pumping mechanism
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Chromophore covalently bound to NpSRII via protonated Schiff base; isomerizes from all-trans to 13-cis upon light activation
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — NpSRII is a member of the microbial rhodopsin family; active state structure informs understanding of rhodopsin signal transduction
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — NpSRII is a member of the microbial rhodopsin family; active state structure informs understanding of rhodopsin signal transduction
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/proteins/rhodopsins/halorhodopsin/) — Related protein structure

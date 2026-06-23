@@ -92,5 +92,5 @@ The structure suggests a model in which the nascent glucan is extended by one [G
 - [Sodium Phosphate Buffer](/xray-mp-wiki/reagents/buffers/sodium-phosphate/) — Buffer component in purification and solubilization buffers
 - [2-(N-Morpholino)ethanesulfonic Acid (MES)](/xray-mp-wiki/reagents/buffers/mes/) — Crystallization buffer at pH 6.5
 - [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) — Used for [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine) derivatization for SAD phasing
-- [GT-A Fold (Glycosyltransferase A Fold)](/xray-mp-wiki/concepts/gt-a-fold/) — Structural domain of BcsA glycosyltransferase catalytic domain
+- [GT-A Fold (Glycosyltransferase A Fold)](/xray-mp-wiki/concepts/structural-mechanisms/gt-a-fold/) — Structural domain of BcsA glycosyltransferase catalytic domain
 - [Cellobiose](/xray-mp-wiki/reagents/additives/cellobiose) — Additive used in purification or crystallization buffers

@@ -26,7 +26,7 @@ ECF-CbrT is an Energy Coupling Factor (ECF)-type ABC transporter from Lactobacil
 ## Expression and Purification
 
 - **Expression system**: Escherichia coli MC1061
-- **Construct**: CbrT inserted into p2BAD_ECF with XbaI/XhoI; [ECF (Energy Coupling Factor) Transporter Family](/xray-mp-wiki/concepts/ecf-transporter-family/) module expressed from same plasmid
+- **Construct**: CbrT inserted into p2BAD_ECF with XbaI/XhoI; [ECF (Energy Coupling Factor) Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/ecf-transporter-family/) module expressed from same plasmid
 - **Notes**: Expression induced with L-arabinose at 37°C
 - **Induction**: 0.00001% L-arabinose
 
@@ -81,7 +81,7 @@ substrate binding has a stabilizing effect.
 ### Structural comparison with ECF-FolT2
 
 The crystal structure at 3.4 Å reveals the S-component CbrT in a toppled,
-inward-facing apo conformation. The identical [ECF (Energy Coupling Factor) Transporter Family](/xray-mp-wiki/concepts/ecf-transporter-family/) module (EcfA, EcfA',
+inward-facing apo conformation. The identical [ECF (Energy Coupling Factor) Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/ecf-transporter-family/) module (EcfA, EcfA',
 EcfT) adjusts to interact with different S-components (CbrT vs FolT2)
 via conformational changes in the EcfT membrane domain, hinging around
 Pro71. Loop 3 of CbrT occludes the empty binding cavity, unlike FolT2.
@@ -95,7 +95,7 @@ Vmax 0.06 nmol/mg/s), suggesting convergent evolution of B12 transport.
 
 ## Cross-References
 
-- [ECF Transporter Family](/xray-mp-wiki/concepts/ecf-transporter-family/) — ECF-CbrT is a group II ECF transporter
+- [ECF Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/ecf-transporter-family/) — ECF-CbrT is a group II ECF transporter
 - [Cobalamin](/xray-mp-wiki/reagents/cobalamin/) — Referenced in ecf-cbrt text
 - [ATP](/xray-mp-wiki/reagents/ligands/atp/) — Referenced in ecf-cbrt text
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Referenced in ecf-cbrt text

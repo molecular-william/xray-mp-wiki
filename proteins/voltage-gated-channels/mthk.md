@@ -215,13 +215,13 @@ gating observed in MthK.
 
 ## Cross-References
 
-- [C-type inactivation](/xray-mp-wiki/concepts/c-type-inactivation/) — MthK undergoes C-type-like inactivation at the selectivity filter
-- [Selectivity filter](/xray-mp-wiki/concepts/selectivity-filter/) — The SF is the primary gate controlling K+ ion conduction in MthK
-- [Channel gating](/xray-mp-wiki/concepts/channel-gating/) — AG-SF coupling is a fundamental gating mechanism in potassium channels
+- [C-type inactivation](/xray-mp-wiki/concepts/structural-mechanisms/c-type-inactivation/) — MthK undergoes C-type-like inactivation at the selectivity filter
+- [Selectivity filter](/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/) — The SF is the primary gate controlling K+ ion conduction in MthK
+- [Channel gating](/xray-mp-wiki/concepts/transport-mechanisms/channel-gating/) — AG-SF coupling is a fundamental gating mechanism in potassium channels
 - [KcsA Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/) — KcsA is the prototypical K+ channel for AG-SF coupling studies referenced in this work
 - [Human TRAAK Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/traak/) — TRAAK shows similar SF activation behavior as MthK
-- [Alternating Ion-Bound Configurations](/xray-mp-wiki/concepts/alternating-ion-bound-configurations/) — Ion occupancy patterns in the SF determine conduction and inactivation states
-- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/allosteric-regulation/) — SF-TM2 coupling mediates allosteric communication during gating and inactivation
+- [Alternating Ion-Bound Configurations](/xray-mp-wiki/concepts/transport-mechanisms/alternating-ion-bound-configurations/) — Ion occupancy patterns in the SF determine conduction and inactivation states
+- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — SF-TM2 coupling mediates allosteric communication during gating and inactivation
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Primary method for structural titration at 4 K+ concentrations (6-150 mM)
 - [Molecular Dynamics Simulation](/xray-mp-wiki/methods/molecular-dynamics-simulation/) — MD simulations revealed SF collapse mechanism and ion occupancy effects on gating
 - [Free Energy Perturbation](/xray-mp-wiki/methods/free-energy-perturbation/) — FEP calculations quantified K+ binding preferences between S2 and S3 sites

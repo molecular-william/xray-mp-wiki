@@ -50,4 +50,4 @@ No comparison data available.
 - [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/slc-transporters/d-dopamine-transporter/) — Primary protein target, DCP-bound structure shows partial occlusion
 - [Dopamine](/xray-mp-wiki/reagents/ligands/dopamine/) — DCP is isosteric analogue of dopamine, higher affinity and oxidative stability
 - [D-Amphetamine](/xray-mp-wiki/reagents/ligands/d-amphetamine/) — Related phenethylamine derivative
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — DCP-induced partial occlusion supports alternating access in NSS transporters
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — DCP-induced partial occlusion supports alternating access in NSS transporters

@@ -53,6 +53,6 @@ No comparison data available.
 - [Na+,K+-ATPase (Pig Kidney)](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-pig-kidney/) — Primary target; E2P-bufalin complex structure determined at 3.4 A
 - [Ouabain](/xray-mp-wiki/reagents/ligands/ouabain/) — Related cardiotonic steroid; structural comparison of binding modes between bufalin, ouabain, and digoxin
 - [Digoxin](/xray-mp-wiki/reagents/ligands/digoxin/) — Related cardiotonic steroid; comparison of lactone ring size and glycosylation effects on binding
-- [Cardiotonic Steroids](/xray-mp-wiki/concepts/cardiotonic-steroids/) — Bufalin is a cardiotonic steroid of the bufadienolide class
-- [Cardiac Glycoside Binding Mechanism](/xray-mp-wiki/concepts/cardiac-glycoside-binding-mechanism/) — Bufalin binding reveals unique K+-dependent features of the cardiac glycoside binding mechanism
-- [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/phosphoenzyme-e2p-state/) — Bufalin binds to the E2P phosphoenzyme state of Na+,K+-ATPase
+- [Cardiotonic Steroids](/xray-mp-wiki/concepts/miscellaneous/cardiotonic-steroids/) — Bufalin is a cardiotonic steroid of the bufadienolide class
+- [Cardiac Glycoside Binding Mechanism](/xray-mp-wiki/concepts/miscellaneous/cardiac-glycoside-binding-mechanism/) — Bufalin binding reveals unique K+-dependent features of the cardiac glycoside binding mechanism
+- [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/enzyme-mechanisms/phosphoenzyme-e2p-state/) — Bufalin binds to the E2P phosphoenzyme state of Na+,K+-ATPase

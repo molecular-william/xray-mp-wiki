@@ -95,11 +95,11 @@ Bovine kidney represents a novel native source of Na+,K+-ATPase suitable for cry
 
 - [Na+,K+-ATPase (Pig Kidney)](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-pig-kidney/) — Related Na+,K+-ATPase from porcine kidney; high sequence identity (98/93%); structural comparison
 - [Shark Na+,K+-ATPase](/xray-mp-wiki/proteins/pumps-atpases/shark-na-k-atpase/) — Related Na+,K+-ATPase from shark rectal gland; structural comparison of CTS complexes
-- [P-type ATPase Family](/xray-mp-wiki/concepts/p-type-atpase/) — Na+,K+-ATPase is a member of the P-type ATPase family
-- [Cardiotonic Steroids](/xray-mp-wiki/concepts/cardiotonic-steroids/) — Ouabain is a cardiotonic steroid that binds with high affinity to the E2-BeF3- state
+- [P-type ATPase Family](/xray-mp-wiki/concepts/protein-families/p-type-atpase/) — Na+,K+-ATPase is a member of the P-type ATPase family
+- [Cardiotonic Steroids](/xray-mp-wiki/concepts/miscellaneous/cardiotonic-steroids/) — Ouabain is a cardiotonic steroid that binds with high affinity to the E2-BeF3- state
 - [Ouabain](/xray-mp-wiki/reagents/ligands/ouabain/) — Ouabain is bound in the high-affinity E2-BeF3- complex (PDB 4xe5)
 - [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) — Referenced in the context of Cholesterol
-- [Truncation](/xray-mp-wiki/concepts/truncation/) — Referenced in the context of Truncation
+- [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Referenced in the context of Truncation
 - [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) — Referenced in the context of Sucrose
 - [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) — Referenced in the context of Hepes
 - [Mgcl2](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Referenced in the context of Mgcl2

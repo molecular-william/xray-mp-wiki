@@ -92,7 +92,7 @@ The universality of the internal densities across species suggests a common mole
 
 ## Cross-References
 
-- [Common Drug-Binding Site on ATP Synthase c-Ring](/xray-mp-wiki/concepts/common-drug-binding-site-atp-synthase-c-ring/) — The c-ring is the target of several drugs; the internal pore may have functional significance
-- [Binding Change Mechanism of ATP Synthase](/xray-mp-wiki/concepts/binding-change-mechanism/) — The c-ring is the rotor of ATP synthase; its structure is essential for understanding the rotary mechanism
+- [Common Drug-Binding Site on ATP Synthase c-Ring](/xray-mp-wiki/concepts/structural-mechanisms/common-drug-binding-site-atp-synthase-c-ring/) — The c-ring is the target of several drugs; the internal pore may have functional significance
+- [Binding Change Mechanism of ATP Synthase](/xray-mp-wiki/concepts/enzyme-mechanisms/binding-change-mechanism/) — The c-ring is the rotor of ATP synthase; its structure is essential for understanding the rotary mechanism
 - [Chloroplast ATP Synthase c-Ring from Pisum sativum](/xray-mp-wiki/proteins/pumps-atpases/chloroplast-atp-synthase-c-ring/) — Earlier lower-resolution (3.4 Angstrom) structure of plant c14-ring from pea; the spinach structure provides higher resolution details
 - [Yeast Mitochondrial ATP Synthase c10 Ring](/xray-mp-wiki/proteins/pumps-atpases/yeast-mitochondrial-atp-synthase-c10-ring/) — Mitochondrial c-ring with similar internal electron densities supporting the universality of the isoprenoid hypothesis

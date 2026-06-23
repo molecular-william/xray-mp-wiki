@@ -53,5 +53,5 @@ No comparison data available.
 
 - [AlF4 (Aluminum Fluoride)](/xray-mp-wiki/reagents/ligands/alf4/) — Another metal fluoride phosphate analog used for trapping phosphorylated states
 - [LpCopA (Copper-Transporting P-type ATPase from Legionella pneumophila)](/xray-mp-wiki/proteins/pumps-atpases/lp-copa/) — Used to trap E2P state of LpCopA for crystallography
-- [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/phosphoenzyme-e2p-state/) — BeF3- is used to structurally mimic the E2P intermediate state
+- [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/enzyme-mechanisms/phosphoenzyme-e2p-state/) — BeF3- is used to structurally mimic the E2P intermediate state
 - [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — Related protein structure

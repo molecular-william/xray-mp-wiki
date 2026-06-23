@@ -74,7 +74,7 @@ The NTD of NCR1 adopts a distinct rotated conformation compared to the [Cryo-Ele
 
 ## Cross-References
 
-- [RND Efflux Pumps](/xray-mp-wiki/concepts/rnd-efflux-pumps/) — NCR1 belongs to the RND superfamily; the sterol transport tunnel mechanism is analogous to the AcrB Porter domain transport pathway
+- [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) — NCR1 belongs to the RND superfamily; the sterol transport tunnel mechanism is analogous to the AcrB Porter domain transport pathway
 - [Thermus thermophilus SecYEG Translocon Complex](/xray-mp-wiki/proteins/secretion-translocon/secyeg/) — SecDF, another RND superfamily member, uses a similar remote coupling mechanism linking transmembrane proton transport to extracytoplasmic domain movements
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for membrane solubilization of NCR1
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used for NCR1 structure determination

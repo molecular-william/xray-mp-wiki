@@ -43,4 +43,4 @@ Cross-linking studies in live M. smegmatis did not demonstrate a reproducible in
 ## Cross-References
 
 - [Rv1410 MFS Transporter (P55)](/xray-mp-wiki/proteins/mfs-transporters/rv1410/) — Operon partner that transfers TAGs to LprG for mycomembrane delivery
-- [Ionic Locks in MFS Transporters](/xray-mp-wiki/concepts/ionic-locks-mfs/) — LprG works in concert with Rv1410 which uses an E157-R426 ion lock for proton coupling
+- [Ionic Locks in MFS Transporters](/xray-mp-wiki/concepts/transport-mechanisms/ionic-locks-mfs/) — LprG works in concert with Rv1410 which uses an E157-R426 ion lock for proton coupling

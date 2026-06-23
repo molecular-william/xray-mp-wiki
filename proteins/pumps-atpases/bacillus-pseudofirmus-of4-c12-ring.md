@@ -69,8 +69,8 @@ AFM imaging of 270 individual c-rings revealed that the wild-type C-terminal ext
 
 ## Cross-References
 
-- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/rotary-atpase-mechanism/) — ATP synthase c-ring is a key component of the rotary ATPase mechanism
-- [Binding Change Mechanism](/xray-mp-wiki/concepts/binding-change-mechanism/) — c-ring stoichiometry determines the ion-to-ATP ratio in the binding change mechanism
+- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/) — ATP synthase c-ring is a key component of the rotary ATPase mechanism
+- [Binding Change Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/binding-change-mechanism/) — c-ring stoichiometry determines the ion-to-ATP ratio in the binding change mechanism
 - [ATP](/xray-mp-wiki/reagents/ligands/atp/) — Referenced in the context of ATP
 - [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) — Referenced in the context of Tris Hcl
 - [Peg](/xray-mp-wiki/reagents/additives/peg/) — Referenced in the context of Peg

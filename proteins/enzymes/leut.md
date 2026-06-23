@@ -126,8 +126,8 @@ Two conformational changes occur upon TCA binding: (1) The guanidinium group of 
 ## Cross-References
 
 - [LeuBAT (LeuT Engineered for Antidepressant Pharmacology)](/xray-mp-wiki/proteins/slc-transporters/leubat/) — Engineered LeuT variant for antidepressant pharmacology studies
-- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/nss-family/) — LeuT is the NSS family prototype
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Core transport mechanism revealed by LeuT structures
+- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/transport-mechanisms/nss-family/) — LeuT is the NSS family prototype
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Core transport mechanism revealed by LeuT structures
 - [Clomipramine (CMI)](/xray-mp-wiki/reagents/ligands/clomipramine/) — TCA used in cocrystal structures of LeuT
 - [Desipramine](/xray-mp-wiki/reagents/ligands/desipramine/) — TCA used in cocrystal structures of LeuT
-- [Tricyclic Antidepressant (TCA) Inhibition Mechanism in NSS Transporters](/xray-mp-wiki/concepts/tca-inhibition-mechanism/) — TCA inhibition mechanism revealed by LeuT-TCA structures
+- [Tricyclic Antidepressant (TCA) Inhibition Mechanism in NSS Transporters](/xray-mp-wiki/concepts/transport-mechanisms/tca-inhibition-mechanism/) — TCA inhibition mechanism revealed by LeuT-TCA structures

@@ -86,7 +86,7 @@ Comparison of FlaK with presenilin models reveals that TM1, TM4, and TM6 of FlaK
 
 ## Cross-References
 
-- [GXGD Proteases](/xray-mp-wiki/concepts/gxgd-proteases/) — FlaK is the prototypic GXGD family member whose structure was solved
+- [GXGD Proteases](/xray-mp-wiki/concepts/enzyme-mechanisms/gxgd-proteases/) — FlaK is the prototypic GXGD family member whose structure was solved
 - [Signal Peptide Peptidase A from Escherichia coli](/xray-mp-wiki/proteins/enzymes/sppa-ec/) — Related signal peptidase family member
 - [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) — Se-Met SAD phasing used for structure determination
 - [Single-Wavelength Anomalous Diffraction](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/) — SAD phasing method used for structure solution

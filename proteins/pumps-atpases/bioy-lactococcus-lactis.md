@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-BioY is the biotin-specific S component of the Energy-Coupling Factor (ECF) transporter from [Lactococcus lactis](/xray-mp-wiki/concepts/ecf-transporter/). It is a six-transmembrane helix integral membrane protein that binds D-biotin with subnanomolar affinity (Kd 0.3 [NM](/xray-mp-wiki/reagents/detergents/nm/)) and delivers it to the ECF module (EcfA-EcfA'-EcfT) for ATP-driven translocation. BioY shares only 16% sequence identity with the thiamin-specific S component [Thit](/xray-mp-wiki/proteins/pumps-atpases/thit/) from the same organism, yet both interact with the same ECF module. The 2.1 A crystal structure revealed that S components contain a structurally conserved N-terminal domain (helices 1-3) involved in ECF module interaction and a highly divergent C-terminal domain (helices 4-6) that binds substrate. The conserved AXXXA motif in helix 1 is essential for ECF module interaction.
+BioY is the biotin-specific S component of the Energy-Coupling Factor (ECF) transporter from [Lactococcus lactis](/xray-mp-wiki/concepts/transport-mechanisms/ecf-transporter/). It is a six-transmembrane helix integral membrane protein that binds D-biotin with subnanomolar affinity (Kd 0.3 [NM](/xray-mp-wiki/reagents/detergents/nm/)) and delivers it to the ECF module (EcfA-EcfA'-EcfT) for ATP-driven translocation. BioY shares only 16% sequence identity with the thiamin-specific S component [Thit](/xray-mp-wiki/proteins/pumps-atpases/thit/) from the same organism, yet both interact with the same ECF module. The 2.1 A crystal structure revealed that S components contain a structurally conserved N-terminal domain (helices 1-3) involved in ECF module interaction and a highly divergent C-terminal domain (helices 4-6) that binds substrate. The conserved AXXXA motif in helix 1 is essential for ECF module interaction.
 
 
 ## Structure Determination
@@ -87,7 +87,7 @@ SEC-MALLS experiments confirm that BioY is monomeric in detergent solution, cons
 
 ## Cross-References
 
-- [ECF Transporter (Energy-Coupling Factor Transporter)](/xray-mp-wiki/concepts/ecf-transporter/) — BioY is the biotin-specific S component of ECF transporters from L. lactis
+- [ECF Transporter (Energy-Coupling Factor Transporter)](/xray-mp-wiki/concepts/transport-mechanisms/ecf-transporter/) — BioY is the biotin-specific S component of ECF transporters from L. lactis
 - [NM](/xray-mp-wiki/reagents/detergents/nm/) — Referenced in the context of NM
 - [Thit](/xray-mp-wiki/proteins/pumps-atpases/thit/) — Referenced in the context of Thit
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Referenced in the context of DDM

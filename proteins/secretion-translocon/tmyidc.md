@@ -67,7 +67,7 @@ Complementation assays showed that TmYidC cannot rescue E. coli YidC depletion, 
 
 ## Cross-References
 
-- [YidC/Oxa1/Alb3 Insertase Family](/xray-mp-wiki/concepts/yidc-oxa1-alb3-insertase-family/) — YidC is the founding member of this conserved membrane protein family
+- [YidC/Oxa1/Alb3 Insertase Family](/xray-mp-wiki/concepts/protein-families/yidc-oxa1-alb3-insertase-family/) — YidC is the founding member of this conserved membrane protein family
 - [N-Dodecyl-beta-D-maltopyranoside (beta-DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for purification of TmYidC
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Ni-NTA IMAC used for purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — SEC used as polishing step

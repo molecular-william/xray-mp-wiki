@@ -52,5 +52,5 @@ hydrophilic 0-layer together with Q196 ([STX17](/xray-mp-wiki/proteins/structura
 
 - [Syntaxin17 (STX17)](/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/) — VAMP8 assembles with STX17 to form the autophagic SNARE complex
 - [SNAP29](/xray-mp-wiki/proteins/structural-adhesion/snap29/) — SNAP29 and VAMP8 are the partner SNAREs in the autophagic fusion complex
-- [Autophagic SNARE Fusion Mechanism](/xray-mp-wiki/concepts/autophagic-snare-fusion-mechanism/) — VAMP8 provides the R-SNARE for autophagosome-lysosome fusion
+- [Autophagic SNARE Fusion Mechanism](/xray-mp-wiki/concepts/construct-design/autophagic-snare-fusion-mechanism/) — VAMP8 provides the R-SNARE for autophagosome-lysosome fusion
 - [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Additive used in purification or crystallization buffers

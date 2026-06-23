@@ -83,7 +83,7 @@ Despite having different key residues (NTQ vs TSA motifs), ClR and [Halorhodopsi
 - [pharaonis Halorhodopsin (phR)](/xray-mp-wiki/proteins/rhodopsins/pharaonis-halorhodopsin/) — Archaeal inward chloride pump with TSA motif; convergent evolution comparison
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Solubilization and purification detergent
 - [Lipidic Cubic Phase (In Meso) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used for ClR structures
-- [Retinal Chromophore Conformation](/xray-mp-wiki/concepts/retinal-chromophore-conformation/) — All-trans retinal is the chromophore in ClR
+- [Retinal Chromophore Conformation](/xray-mp-wiki/concepts/structural-mechanisms/retinal-chromophore-conformation/) — All-trans retinal is the chromophore in ClR
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein structure
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Related protein structure
 - [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/proteins/rhodopsins/halorhodopsin/) — Related protein structure

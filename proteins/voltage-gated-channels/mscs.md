@@ -73,7 +73,7 @@ As MscS opens, the volume of the interhelical pockets decreases by approximately
 - [Phosphatidylglycerol (PG)](/xray-mp-wiki/reagents/lipids/phosphatidylglycerol/) — Major E. coli phospholipid co-purifying with MscS
 - [Polyethylene Glycol 400 (PEG 400)](/xray-mp-wiki/reagents/additives/peg-400/) — Crystallization precipitant
 - [Sodium Phosphate Buffer](/xray-mp-wiki/reagents/buffers/sodium-phosphate/) — 50 mM sodium phosphate pH 7.5 in purification buffer
-- [Mechanosensitive Gating in Ion Channels](/xray-mp-wiki/concepts/mechanosensitive-gating/) — MscS is a canonical mechanosensitive channel
+- [Mechanosensitive Gating in Ion Channels](/xray-mp-wiki/concepts/transport-mechanisms/mechanosensitive-gating/) — MscS is a canonical mechanosensitive channel
 - [Lysophosphatidylcholine (LPC)](/xray-mp-wiki/reagents/lipids/lysophosphatidylcholine/) — Lysolipids displace normal phospholipids from MscS pockets and trigger channel opening
 - [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers
 - [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) — Buffer component in purification or crystallization

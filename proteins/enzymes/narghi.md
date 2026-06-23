@@ -113,4 +113,4 @@ The structure of NarGHI in complex with pentachlorophenol (PCP) at 2.0 A resolut
 
 ## Cross-References
 
-- [NarGHI Quinol Binding Site](/xray-mp-wiki/concepts/narghi-quinol-binding-site/) — Detailed concept page for the Q-site architecture and mechanism
+- [NarGHI Quinol Binding Site](/xray-mp-wiki/concepts/structural-mechanisms/narghi-quinol-binding-site/) — Detailed concept page for the Q-site architecture and mechanism

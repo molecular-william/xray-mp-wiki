@@ -29,7 +29,7 @@ No specific use cases documented.
 |---|---|---|---|
 | [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) (Sarcoplasmic Reticulum Ca2+-ATPase 1a) | Not explicitly reported | Exogenous phosphatidylcholine added during crystallization by dialysis of purified [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) mixed with phosphatidylcholine against crystallization buffer containing 0.8 M [Sodium Butyrate](/xray-mp-wiki/reagents/additives/sodium-butyrate/), 2.75 M [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 10 mM CaCl2, 3 mM MgCl2, 2.5 mM NaN3, and 20 mM MES pH 6.1 | Formation of thin crystals under 20 micrometers in space group C2 suitable for X-ray crystallography at 2.6 A resolution with protein molecules embedded in lipid bilayers |
 | [MSCL](/xray-mp-wiki/proteins/other-ion-channels/mscl/) (Mycobacterium tuberculosis) | Various PC species tested (DNPC, DEPC, DIPC, [DOPC](/xray-mp-wiki/reagents/lipids/dopc/), DPPC, [DMPC](/xray-mp-wiki/reagents/lipids/dmpc/)) | IM-MS analysis of [MSCL](/xray-mp-wiki/proteins/other-ion-channels/mscl/) binding to synthetic phosphatidylcholine lipids with chain lengths varying from C14 to C22; all PCs imparted comparable stabilization consistent with non-selective lipid binding | PC tested; no chain length dependence on [MSCL](/xray-mp-wiki/proteins/other-ion-channels/mscl/) stabilization |
-| [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) Z (E. coli) | Tested by IM-MS | PC tested with AqpZ by ion mobility mass spectrometry; transitions between lipid-bound states were largely independent of bound lipid | PC tested; similar effects on AqpZ stability as other lipids |
+| [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) Z (E. coli) | Tested by IM-MS | PC tested with AqpZ by ion mobility mass spectrometry; transitions between lipid-bound states were largely independent of bound lipid | PC tested; similar effects on AqpZ stability as other lipids |
 
 ## Advantages and Disadvantages
 
@@ -42,7 +42,7 @@ No comparison data available.
 ## Cross-References
 
 - [Na+,K+-ATPase from Squalus acanthias](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-shark/) — 2.1 mg/ml PC in solubilization buffer for crystallization
-- [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) — Related biological concept
+- [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — Related biological concept
 - [MSCL](/xray-mp-wiki/proteins/other-ion-channels/mscl/) — Related protein structure
 - [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — Related protein structure
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers

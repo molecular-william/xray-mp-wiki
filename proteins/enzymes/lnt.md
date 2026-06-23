@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Apolipoprotein N-acyltransferase (Lnt) is an integral membrane enzyme that catalyzes the final step of lipoprotein maturation in Gram-negative bacteria — the N-acylation of the N-terminal cysteine of apolipoproteins. Lnt belongs to the [Nitrilase Superfamily](/xray-mp-wiki/concepts/nitrilase-superfamily/) and employs a Glu-Lys-Cys catalytic triad (E267-K335-C387 in E. coli) to perform a two-step ping-pong mechanism. The first step involves acyl transfer from a phospholipid substrate to the active site cysteine, forming a thioester acyl-intermediate. The second step transfers the acyl chain from this cysteine to the N-terminal cysteine of the incoming apolipoprotein. This work reports two crystal forms of E. coli Lnt that capture the thioester acyl-intermediate and reveal conformational dynamics of a flexible arm (residues 345-365) that may regulate active site access.
+Apolipoprotein N-acyltransferase (Lnt) is an integral membrane enzyme that catalyzes the final step of lipoprotein maturation in Gram-negative bacteria — the N-acylation of the N-terminal cysteine of apolipoproteins. Lnt belongs to the [Nitrilase Superfamily](/xray-mp-wiki/concepts/protein-families/nitrilase-superfamily/) and employs a Glu-Lys-Cys catalytic triad (E267-K335-C387 in E. coli) to perform a two-step ping-pong mechanism. The first step involves acyl transfer from a phospholipid substrate to the active site cysteine, forming a thioester acyl-intermediate. The second step transfers the acyl chain from this cysteine to the N-terminal cysteine of the incoming apolipoprotein. This work reports two crystal forms of E. coli Lnt that capture the thioester acyl-intermediate and reveal conformational dynamics of a flexible arm (residues 345-365) that may regulate active site access.
 
 
 ## Structure Determination
@@ -96,6 +96,6 @@ When the 345-365 arm is above the membrane and W237 is in the downward position,
 - [His6-tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) — Used for affinity purification of both Lnt constructs
 - [TEV Protease](/xray-mp-wiki/reagents/additives/tevp-protease/) — Used to remove N-terminal His6-tag from Lnt-C2
 - [Lipidic Cubic Phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used for Lnt-C2
-- [Nitrilase Superfamily](/xray-mp-wiki/concepts/nitrilase-superfamily/) — Related biological concept
+- [Nitrilase Superfamily](/xray-mp-wiki/concepts/protein-families/nitrilase-superfamily/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [MAG](/xray-mp-wiki/reagents/lipids/mag/) — Additive used in purification or crystallization buffers

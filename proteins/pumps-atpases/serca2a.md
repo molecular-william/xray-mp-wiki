@@ -153,7 +153,7 @@ conversion rate and distinct kinetic properties of SERCA2a compared to SERCA1a.
 ## Cross-References
 
 - [SERCA1a (Skeletal Muscle Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — Paralogous isoform; SERCA2a is the cardiac-specific isoform of the same P-type ATPase family
-- [P-type ATPase Mechanism](/xray-mp-wiki/concepts/p-type-atpase-mechanism/) — SERCA2a is a P-type ATPase; this structure reveals how ATP binding and P-domain bending control catalysis
-- [Large Domain Motion in P-type ATPases](/xray-mp-wiki/concepts/large-domain-motion-in-p-type-atpases/) — This paper provides direct structural evidence of A-domain tilting and P-domain bending motions
+- [P-type ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/p-type-atpase-mechanism/) — SERCA2a is a P-type ATPase; this structure reveals how ATP binding and P-domain bending control catalysis
+- [Large Domain Motion in P-type ATPases](/xray-mp-wiki/concepts/structural-mechanisms/large-domain-motion-in-p-type-atpases/) — This paper provides direct structural evidence of A-domain tilting and P-domain bending motions
 - [Phospholamban (PLB)](/xray-mp-wiki/proteins/miscellaneous/phospholamban/) — PLB is a key regulator of SERCA2a in cardiac muscle; SERCA2a dysfunction is linked to heart failure
 - [Cyclopiazonic Acid (CPA)](/xray-mp-wiki/reagents/ligands/cyclopiazonic-acid/) — CPA was used to stabilize the E2 state for crystallization of SERCA2a (PDB 5MPM)

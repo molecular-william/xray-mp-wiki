@@ -105,6 +105,6 @@ Treatment with [Concanavalin A](/xray-mp-wiki/reagents/additives/concanavalin-a/
 - [L-Methionine](/xray-mp-wiki/reagents/l-methionine/) — Neutral amino acid ligand with reduced chloride dependence
 - [L-Phenylalanine](/xray-mp-wiki/reagents/l-phenylalanine/) — Hydrophobic amino acid ligand that occludes anion binding site
 - [GluA2 LBD](/xray-mp-wiki/proteins/other-ion-channels/glua2-lbd/) — AMPA receptor LBD used for structural comparison of dimer assembly
-- [Allosteric Regulation](/xray-mp-wiki/concepts/allosteric-regulation/) — ATD-LBD linker conformation and allosteric regulation of activation
+- [Allosteric Regulation](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — ATD-LBD linker conformation and allosteric regulation of activation
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Referenced in avglur1
 - [Nickel Sepharose](/xray-mp-wiki/reagents/additives/nickel-nta/) — Referenced in avglur1

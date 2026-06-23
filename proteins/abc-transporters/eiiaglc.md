@@ -79,8 +79,8 @@ The N-terminal 18 residues are disordered in the crystal structure. Studies of s
 - [MalK (Escherichia coli Maltose Transporter ATPase Subunit)](/xray-mp-wiki/proteins/abc-transporters/malK/) — EIIA^Glc binds to [MalK (Escherichia coli Maltose Transporter ATPase Subunit)](/xray-mp-wiki/proteins/malK) NBD and regulatory domain interfaces
 - [MalF (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/abc-transporters/malF/) — TM subunit of the [Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter complex
 - [MalG (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/abc-transporters/malG/) — TM subunit of the [Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter complex
-- [Carbon Catabolite Repression](/xray-mp-wiki/concepts/carbon-catabolite-repression/) — EIIA^Glc is the key regulatory protein in CCR in E. coli
-- [Inducer Exclusion](/xray-mp-wiki/concepts/inducer-exclusion/) — Mechanism by which EIIA^Glc inhibits sugar transporters
+- [Carbon Catabolite Repression](/xray-mp-wiki/concepts/miscellaneous/carbon-catabolite-repression/) — EIIA^Glc is the key regulatory protein in CCR in E. coli
+- [Inducer Exclusion](/xray-mp-wiki/concepts/miscellaneous/inducer-exclusion/) — Mechanism by which EIIA^Glc inhibits sugar transporters
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used in MalFGK2 purification for complex formation
 - [DMPC (1,2-Dimyristoyl-sn-glycero-3-phosphocholine)](/xray-mp-wiki/reagents/lipids/dmpc/) — Lipid component of bicelles used for complex crystallization
 - [Immobilized Metal Affinity Chromatography (IMAC)](/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography) — Purification method used in protein preparation

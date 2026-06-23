@@ -136,7 +136,7 @@ to make the interface more similar to beta1AR.
 - [Turkey Beta1-Adrenergic Receptor M23](/xray-mp-wiki/proteins/gpcr/turkey-beta1-ar-m23/) — Related thermostabilized turkey beta1AR construct (BRIL-fusion variant)
 - [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) — High-affinity antagonist ligand co-crystallized with beta1AR-M23
 - [Octylthioglucoside (OG)](/xray-mp-wiki/reagents/detergents/octylthioglucoside/) — Detergent used for crystallization
-- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/gpcr-inactive-conformation/) — The structure represents the inactive R conformation of the beta1AR
+- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — The structure represents the inactive R conformation of the beta1AR
 - [Hanging Drop Vapor Diffusion Crystallization](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Crystallization method used for beta1AR-M23
 - [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Expression system used for beta1AR-M23 production
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Structure solved by molecular replacement using beta2AR as search model

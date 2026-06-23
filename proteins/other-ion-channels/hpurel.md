@@ -43,7 +43,7 @@ No structure determined.
 | Parameter | Value |
 |---|---|
 | Method | Not specified |
-| Notes | Crystals belong to space group P4_2_2_12. Cell dimensions: a=b=122.9 A, c=141.4 A. Native data collected to 3.39 A resolution. SeMet MAD data used for experimental phasing with 3-fold [NCS](/xray-mp-wiki/concepts/non-crystallographic-symmetry/) averaging. |
+| Notes | Crystals belong to space group P4_2_2_12. Cell dimensions: a=b=122.9 A, c=141.4 A. Native data collected to 3.39 A resolution. SeMet MAD data used for experimental phasing with 3-fold [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) averaging. |
 
 
 ## Biological / Functional Insights
@@ -80,6 +80,6 @@ carbonyl oxygen pointing toward TMH2 near the center of the hexamer.
 
 - [Urea Transporter dvUT](/xray-mp-wiki/proteins/other-ion-channels/urea-transporter-dvut/) — Related urea channel/facilitator from Desulfovibrio vulgaris
 - [Urea](/xray-mp-wiki/reagents/additives/urea/) — Substrate of the HpUrel urea channel
-- [Channel-like Mechanism](/xray-mp-wiki/concepts/channel-like-mechanism/) — HpUrel operates as a channel facilitating urea diffusion
-- [NCS](/xray-mp-wiki/concepts/non-crystallographic-symmetry/) — Related biological concept
+- [Channel-like Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/channel-like-mechanism/) — HpUrel operates as a channel facilitating urea diffusion
+- [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) — Related biological concept
 - [UREA](/xray-mp-wiki/reagents/substrates/urea/) — Entity mentioned in text

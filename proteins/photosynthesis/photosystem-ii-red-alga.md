@@ -92,8 +92,8 @@ The red algal PSII contains a mixture of cyanobacterial-type and eukaryotic-type
 - [Photosystem II core dimer from Thermosynechococcus elongatus](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii-core-dimer/) — Cyanobacterial PSII structure used for comparison with eukaryotic red algal PSII
 - [PsbA2-PSII dimer from Thermosynechococcus elongatus](/xray-mp-wiki/proteins/photosynthesis/psba2-psii/) — Higher resolution cyanobacterial PSII structure with D1-2 variant
 - [PsbA3-PSII dimer from Thermosynechococcus elongatus](/xray-mp-wiki/proteins/photosynthesis/psba3-psii/) — Higher resolution cyanobacterial PSII structure with D1-3 variant
-- [Manganese-Calcium Cluster](/xray-mp-wiki/concepts/manganese-calcium-cluster/) — Catalytic center for water-splitting in PSII
-- [Kok Cycle](/xray-mp-wiki/concepts/kok-cycle/) — The S-state cycle of water oxidation catalyzed by the Mn4CaO5 cluster in PSII
+- [Manganese-Calcium Cluster](/xray-mp-wiki/concepts/miscellaneous/manganese-calcium-cluster/) — Catalytic center for water-splitting in PSII
+- [Kok Cycle](/xray-mp-wiki/concepts/enzyme-mechanisms/kok-cycle/) — The S-state cycle of water oxidation catalyzed by the Mn4CaO5 cluster in PSII
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Structurally related detergent; alpha-DDM analog used for PSII solubilization and crystallization
 - [MIRAS](/xray-mp-wiki/methods/structure-determination/miras/) — Method used in structure determination or purification
 - [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) — Related protein structure

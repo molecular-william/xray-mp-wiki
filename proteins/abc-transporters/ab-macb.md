@@ -88,8 +88,8 @@ MacB functions as part of the MacA-MacB-TolC tripartite complex that spans both 
 ## Cross-References
 
 - [MacB ABC Transporter from Aggregatibacter actinomycetemcomitans](/xray-mp-wiki/proteins/abc-transporters/macb/) — Orthologous MacB from related bacterial species with structural comparison
-- [ABC Transporter Family](/xray-mp-wiki/concepts/abc-transporter-family/) — MacB is a member of the ABC transporter superfamily with unique structural features
-- [Mechanotransmission](/xray-mp-wiki/concepts/mechanotransmission/) — Related biological concept for MacB-type ABC transporters
+- [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — MacB is a member of the ABC transporter superfamily with unique structural features
+- [Mechanotransmission](/xray-mp-wiki/concepts/miscellaneous/mechanotransmission/) — Related biological concept for MacB-type ABC transporters
 - [n-Undecyl-β-D-Maltoside (UDM)](/xray-mp-wiki/reagents/detergents/udm/) — Detergent used for MacB purification and crystallization
 - [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Buffer used in purification buffers
 - [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer used in crystallization reservoir

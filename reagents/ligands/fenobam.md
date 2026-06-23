@@ -47,6 +47,6 @@ No comparison data available.
 - [Mavoglurant](/xray-mp-wiki/reagents/ligands/mavoglurant/) — Acetylene-containing NAM; Trp785^6.50 swung-out conformation
 - [N-Dodecyl-beta-D-Maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used in purification and crystallization
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used in LCP crystallization
-- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/allosteric-regulation/) — Fenobam is a NAM of mGlu5
+- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — Fenobam is a NAM of mGlu5
 - [MPEP](/xray-mp-wiki/reagents/ligands/mpep/) — Related ligand or cofactor
 - [UREA](/xray-mp-wiki/reagents/substrates/urea/) — Entity mentioned in text

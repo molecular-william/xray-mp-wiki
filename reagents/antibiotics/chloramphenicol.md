@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Chloramphenicol (Cm) is a broad-spectrum antibiotic that inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit. It is an electroneutral substrate of the E. coli multidrug resistance transporter [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA/), a major facilitator superfamily ([MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/)) antiporter. Chloramphenicol was the first substrate for which the crystal structure of an [MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/) antiporter-ligand complex was determined, revealing the substrate-binding mode of this important class of drug efflux transporters.
+Chloramphenicol (Cm) is a broad-spectrum antibiotic that inhibits bacterial protein synthesis by binding to the 50S ribosomal subunit. It is an electroneutral substrate of the E. coli multidrug resistance transporter [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA/), a major facilitator superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/)) antiporter. Chloramphenicol was the first substrate for which the crystal structure of an [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) antiporter-ligand complex was determined, revealing the substrate-binding mode of this important class of drug efflux transporters.
 
 
 ## Properties
@@ -28,7 +28,7 @@ Chloramphenicol (Cm) is a broad-spectrum antibiotic that inhibits bacterial prot
 
 ### MdfA substrate — structural studies
 
-Chloramphenicol served as the first substrate for which the crystal structure of an [MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/) antiporter-ligand complex was solved. The [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA/)(Q131R)-Cm complex (PDB 4ZOW, 2.4 A) revealed that Cm binds in the central cavity of the Mdr recognition pocket, with its polar groups oriented toward the cavity apex near the titratable residue D34. Three hydrogen bonds form between Cm and the side chains of N33 and D34. The nitrile group of Cm points toward the solvent space of the cavity, explaining why thiamphenicol (which has a substitution at the nitrile group) is also a substrate of [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA/). [ITC](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/) analysis showed WT [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA/) binds Cm with a Kd of 75 uM.
+Chloramphenicol served as the first substrate for which the crystal structure of an [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) antiporter-ligand complex was solved. The [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA/)(Q131R)-Cm complex (PDB 4ZOW, 2.4 A) revealed that Cm binds in the central cavity of the Mdr recognition pocket, with its polar groups oriented toward the cavity apex near the titratable residue D34. Three hydrogen bonds form between Cm and the side chains of N33 and D34. The nitrile group of Cm points toward the solvent space of the cavity, explaining why thiamphenicol (which has a substitution at the nitrile group) is also a substrate of [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA/). [ITC](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/) analysis showed WT [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA/) binds Cm with a Kd of 75 uM.
 
 
 ### Functional assay — drug resistance
@@ -45,7 +45,7 @@ Chloramphenicol was used to obtain the substrate-bound crystal structure of [Mdf
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA/) (Q131R) | 5.0 mM (soaking) | Crystal structure determination — Cm soaked into original crystals grown at pH 5.8. Structure solved at 2.4 A resolution (PDB 4ZOW). | First crystal structure of an [MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/) antiporter in complex with its substrate; revealed substrate-binding mode with D34 directly hydrogen-bonding to Cm |
+| [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA/) (Q131R) | 5.0 mM (soaking) | Crystal structure determination — Cm soaked into original crystals grown at pH 5.8. Structure solved at 2.4 A resolution (PDB 4ZOW). | First crystal structure of an [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) antiporter in complex with its substrate; revealed substrate-binding mode with D34 directly hydrogen-bonding to Cm |
 | [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA/) (WT) | Kd = 75 uM ([ITC](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/)) | Isothermal titration calorimetry ([ITC](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/)) binding assay of Cm to purified WT [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA/). Y30A, N33A, and D34A mutants lost most Cm binding ability. | Confirmed structural observations of Cm binding mode and key interacting residues |
 | [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA/) (WT) | 2.5 ug/ml (resistance assay) | Drug resistance assay in E. coli — Cm used as selection agent on solid medium | WT [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA/) conferred resistance to Cm; mutations at binding site residues (D34, Y30, N33) abolished or reduced resistance |
 
@@ -60,8 +60,8 @@ No comparison data available.
 ## Cross-References
 
 - [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfa/) — Chloramphenicol is a substrate of MdfA; first substrate-bound MFS structure
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/) — MdfA is an MFS antiporter that exports chloramphenicol
-- [Rocker-Switch Mechanism in MFS Transporters](/xray-mp-wiki/concepts/rocker-switch-mechanism/) — Cm binding to MdfA triggers conformational changes via rocker-switch mechanism
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — MdfA is an MFS antiporter that exports chloramphenicol
+- [Rocker-Switch Mechanism in MFS Transporters](/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/) — Cm binding to MdfA triggers conformational changes via rocker-switch mechanism
 - [Isothermal Titration Calorimetry (ITC)](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/) — ITC used to measure Cm binding affinity to MdfA (Kd = 75 uM)
-- [MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/) — Related biological concept
+- [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — Related biological concept
 - [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA/) — Related protein structure

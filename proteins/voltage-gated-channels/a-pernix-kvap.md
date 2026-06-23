@@ -74,11 +74,11 @@ The S2-S3 turn, not resolved in Kv1.2 but defined in several [KvAP Voltage-Depen
 
 ## Cross-References
 
-- [Voltage Sensor Paddle Mechanism](/xray-mp-wiki/concepts/voltage-sensor-paddle/) — KvAP is the prototype for the voltage-sensor paddle model of voltage-dependent gating
+- [Voltage Sensor Paddle Mechanism](/xray-mp-wiki/concepts/construct-design/voltage-sensor-paddle/) — KvAP is the prototype for the voltage-sensor paddle model of voltage-dependent gating
 - [Voltage-Dependent Gating](/xray-mp-wiki/concepts/voltage-dependent-gating/) — KvAP is a voltage-dependent K+ channel that established the paddle mechanism for voltage sensing
 - [Membrane Protein-Lipid Interface](/xray-mp-wiki/concepts/membrane-protein-lipid-interface/) — KvAP requires a planar lipid membrane to maintain native voltage sensor orientation, demonstrating the importance of the protein-lipid interface
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Method used in the study
-- [Voltage-Sensor Paddle](/xray-mp-wiki/concepts/voltage-sensor-paddle/) — Key concept related to this protein
+- [Voltage-Sensor Paddle](/xray-mp-wiki/concepts/construct-design/voltage-sensor-paddle/) — Key concept related to this protein
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein mentioned in the study
 - [KvAP Voltage-Dependent Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kvap/) — Related protein mentioned in the study
 - [ELIC (Erwinia chrysanthemi Pentameric Ligand-Gated Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/elic/) — Related protein mentioned in the study

@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Agitoxin-2 (AgTx2) is a scorpion toxin from Leiurus quinquestriatus hebraeus that potently inhibits voltage-gated K+ channels by binding to the extracellular pore entry. It belongs to the family of scorpion short-chain toxins that adopt a cysteine-stabilized alpha/beta (CS-alpha/beta) fold. AgTx2 binds to the turret region of Kv channels, physically occluding the ion conduction pathway. The K27M mutant of AgTx2 was used as a functional probe to study C-type inactivation in [Kv1.2-2.1 V406W](/xray-mp-wiki/proteins/voltage-gated-channels/kv1-2-2-1-v406w/) and Shaker channels, as described in [C-type Inactivation](/xray-mp-wiki/concepts/c-type-inactivation/) studies.
+Agitoxin-2 (AgTx2) is a scorpion toxin from Leiurus quinquestriatus hebraeus that potently inhibits voltage-gated K+ channels by binding to the extracellular pore entry. It belongs to the family of scorpion short-chain toxins that adopt a cysteine-stabilized alpha/beta (CS-alpha/beta) fold. AgTx2 binds to the turret region of Kv channels, physically occluding the ion conduction pathway. The K27M mutant of AgTx2 was used as a functional probe to study C-type inactivation in [Kv1.2-2.1 V406W](/xray-mp-wiki/proteins/voltage-gated-channels/kv1-2-2-1-v406w/) and Shaker channels, as described in [C-type Inactivation](/xray-mp-wiki/concepts/structural-mechanisms/c-type-inactivation/) studies.
 
 
 ## Properties
@@ -53,6 +53,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [C-type Inactivation](/xray-mp-wiki/concepts/c-type-inactivation/) — AgTx2 used as probe to study C-type inactivation mechanism
+- [C-type Inactivation](/xray-mp-wiki/concepts/structural-mechanisms/c-type-inactivation/) — AgTx2 used as probe to study C-type inactivation mechanism
 - [Shaker Kv1.2 Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/shaker-kv1-2/) — Target channel for AgTx2 binding studies
 - [Kv1.2-2.1 V406W Mutant Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kv1-2-2-1-v406w/) — Used to demonstrate allosteric perturbation of selectivity filter

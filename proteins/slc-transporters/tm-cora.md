@@ -21,7 +21,7 @@ CorA from Thermotoga maritima (TmCorA) is a homopentameric magnesium ion channel
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##pnas.1209018109 | — | not specified | — | TmCorA-ΔNcc mutant (N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/)) in presence of Mg2+ | Mg2+ |
+| doi/10.1073##pnas.1209018109 | — | not specified | — | TmCorA-ΔNcc mutant (N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/)) in presence of Mg2+ | Mg2+ |
 | doi/10.1073##pnas.1209018109 | — | not specified | — | TmCorA-ΔNcc mutant in absence of Mg2+ | Cs+ |
 
 ## Expression and Purification
@@ -67,7 +67,7 @@ The universally conserved Gly-Met-Asn (GMN) motif at the periplasmic mouth of th
 
 ## Cross-References
 
-- [Sequential Allosteric Regulation](/xray-mp-wiki/concepts/sequential-allosteric-regulation/) — TmCorA exemplifies sequential allosteric regulation through asymmetric protomer motions
-- [CorA-Mrs2-Alr1 Superfamily](/xray-mp-wiki/concepts/cora-mrs2-alr1-superfamily/) — TmCorA is the founding member of this Mg2+ channel superfamily
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Sequential Allosteric Regulation](/xray-mp-wiki/concepts/structural-mechanisms/sequential-allosteric-regulation/) — TmCorA exemplifies sequential allosteric regulation through asymmetric protomer motions
+- [CorA-Mrs2-Alr1 Superfamily](/xray-mp-wiki/concepts/transport-mechanisms/cora-mrs2-alr1-superfamily/) — TmCorA is the founding member of this Mg2+ channel superfamily
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Trypsin](/xray-mp-wiki/reagents/additives/trypsin/) — Additive used in purification or crystallization buffers

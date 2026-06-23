@@ -101,4 +101,4 @@ Three hSTS monomers associate via their pairs of antiparallel hydrophobic helice
 - [Calcium Chloride](/xray-mp-wiki/reagents/additives/calcium-chloride/) — Ca2+ ion at catalytic center, seven-coordinated
 - [Estrone](/xray-mp-wiki/reagents/ligands/estrone/) — Product of E1S hydrolysis, binds at secondary ligand site
 - [Dehydroepiandrosterone (DHEA)](/xray-mp-wiki/reagents/ligands/dhea/) — Substrate of hSTS, hydrolyzed from DHEAS
-- [Positive Allosteric Modulation](/xray-mp-wiki/concepts/positive-allosteric-modulation/) — Secondary ligand site and phosphate binding site may regulate hSTS activity allosterically
+- [Positive Allosteric Modulation](/xray-mp-wiki/concepts/structural-mechanisms/positive-allosteric-modulation/) — Secondary ligand site and phosphate binding site may regulate hSTS activity allosterically

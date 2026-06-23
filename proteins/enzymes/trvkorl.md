@@ -91,8 +91,8 @@ The closed conformation induced by [Warfarin](/xray-mp-wiki/reagents/ligands/war
 - [Human Vitamin K Epoxide Reductase (HsVKOR)](/xray-mp-wiki/proteins/enzymes/hsvkor/) — Mammalian homolog; TrVKORL shares 52% sequence identity and same overall structure
 - [VKOR from Synechococcus sp.](/xray-mp-wiki/proteins/enzymes/synechococcus-vkor/) — Bacterial VKOR homolog providing complementary structural information
 - [Warfarin](/xray-mp-wiki/reagents/ligands/warfarin/) — VKA used to capture closed conformation of TrVKORL
-- [Vitamin K Catalytic Cycle](/xray-mp-wiki/concepts/vitamin-k-catalytic-cycle/) — Catalytic cycle described through TrVKORL structures in different states
-- [Termini Restraining](/xray-mp-wiki/concepts/termini-restraining/) — TrVKORL structure was determined using the termini-restraining approach with split sfGFP
+- [Vitamin K Catalytic Cycle](/xray-mp-wiki/concepts/enzyme-mechanisms/vitamin-k-catalytic-cycle/) — Catalytic cycle described through TrVKORL structures in different states
+- [Termini Restraining](/xray-mp-wiki/concepts/miscellaneous/termini-restraining/) — TrVKORL structure was determined using the termini-restraining approach with split sfGFP
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for TrVKORL membrane solubilization
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used for LCP crystallization of TrVKORL
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

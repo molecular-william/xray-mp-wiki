@@ -84,7 +84,7 @@ GPR52 is the closest homologue of GPR21 (71% sequence identity). ECL2 is highly 
 
 ## Cross-References
 
-- [G Protein-Coupled Receptor (GPCR)](/xray-mp-wiki/concepts/gpcr/) — GPR52 is a class-A orphan GPCR
+- [G Protein-Coupled Receptor (GPCR)](/xray-mp-wiki/concepts/signaling-receptors/gpcr/) — GPR52 is a class-A orphan GPCR
 - [n-Dodecyl-beta-D-Maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent for membrane protein solubilization
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — LCP matrix lipid for crystallization
 - [Lipidic Cubic Phase (LCP) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used for GPR52 crystallization

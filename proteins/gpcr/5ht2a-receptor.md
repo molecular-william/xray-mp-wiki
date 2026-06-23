@@ -122,9 +122,9 @@ Acute administration of LSD at low doses (0.0075-0.015 mg/kg ip) significantly a
 - [LSD (Lysergic Acid Diethylamide)](/xray-mp-wiki/reagents/ligands/lsd) — Primary ligand studied in earlier work; extremely slow off-rate at 5-HT2A
 - [Human 5-HT2B Receptor](/xray-mp-wiki/proteins/gpcr/5ht2b-receptor/) — Related 5-HT2 family member; template for homology model
 - [Human 5-HT2C Receptor](/xray-mp-wiki/proteins/gpcr/5ht2c-receptor/) — Related 5-HT2 family member; most similar structure to 5-HT2A
-- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/gpcr-inactive-conformation/) — Risperidone and zotepine stabilize the inactive state of 5-HT2A
+- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — Risperidone and zotepine stabilize the inactive state of 5-HT2A
 - [Ergotamine](/xray-mp-wiki/reagents/ligands/ergotamine) — Related ergoline ligand compared in functional assays
 - [bRIL Fusion Protein](/xray-mp-wiki/reagents/protein-tags/bril) — mbIIG fusion (BRIL variant) used for crystallization
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) — Crystallization method used for both structures
-- [Nonhallucinogenic Psychedelic Analog Design](/xray-mp-wiki/concepts/nonhallucinogenic-psychedelic-analog-design/) — Structure-based design strategy leveraging the EBP for biased agonism
-- [Lipid Activation of 5-HT2A Receptor](/xray-mp-wiki/concepts/lipid-activation-5ht2a-receptor/) — Monoolein and oleamide activate 5-HT2AR via the SEP pocket
+- [Nonhallucinogenic Psychedelic Analog Design](/xray-mp-wiki/concepts/construct-design/nonhallucinogenic-psychedelic-analog-design/) — Structure-based design strategy leveraging the EBP for biased agonism
+- [Lipid Activation of 5-HT2A Receptor](/xray-mp-wiki/concepts/signaling-receptors/lipid-activation-5ht2a-receptor/) — Monoolein and oleamide activate 5-HT2AR via the SEP pocket

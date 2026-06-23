@@ -28,14 +28,14 @@ Guanidine hydrochloride is a strong chaotropic agent used to chemically denature
 
 ### Chemical denaturation of SNARE complexes
 
-Unfolding of neuronal SNARE complexes monitored by CD spectroscopy at 222 nm at increasing concentrations of guanidine hydrochloride. The complex including linkers and transmembrane regions was significantly more resistant to chemical denaturation than the core complex alone, demonstrating that linkers and TMRs add stability to the [SNARE Complex](/xray-mp-wiki/concepts/snare-complex/).
+Unfolding of neuronal SNARE complexes monitored by CD spectroscopy at 222 nm at increasing concentrations of guanidine hydrochloride. The complex including linkers and transmembrane regions was significantly more resistant to chemical denaturation than the core complex alone, demonstrating that linkers and TMRs add stability to the [SNARE Complex](/xray-mp-wiki/concepts/structural-mechanisms/snare-complex/).
 
 
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Neuronal [SNARE Complex](/xray-mp-wiki/concepts/snare-complex/) ([Syntaxin-1A (Rat Neuronal Qa-SNARE Protein)](/xray-mp-wiki/proteins/structural-adhesion/syntaxin-1a/), [SNAP-25A (Rat Neuronal Qbc-SNARE Protein)](/xray-mp-wiki/proteins/structural-adhesion/snap-25a/), [Synaptobrevin-2 (Rat Neuronal Qc-SNARE Protein)](/xray-mp-wiki/proteins/structural-adhesion/synaptobrevin-2/)) | Increasing concentrations | Chemical denaturation monitored by CD spectroscopy at 222 nm | Complex with linkers and TMRs showed increased resistance to chemical denaturation compared to core complex |
+| Neuronal [SNARE Complex](/xray-mp-wiki/concepts/structural-mechanisms/snare-complex/) ([Syntaxin-1A (Rat Neuronal Qa-SNARE Protein)](/xray-mp-wiki/proteins/structural-adhesion/syntaxin-1a/), [SNAP-25A (Rat Neuronal Qbc-SNARE Protein)](/xray-mp-wiki/proteins/structural-adhesion/snap-25a/), [Synaptobrevin-2 (Rat Neuronal Qc-SNARE Protein)](/xray-mp-wiki/proteins/structural-adhesion/synaptobrevin-2/)) | Increasing concentrations | Chemical denaturation monitored by CD spectroscopy at 222 nm | Complex with linkers and TMRs showed increased resistance to chemical denaturation compared to core complex |
 
 ## Advantages and Disadvantages
 
@@ -49,7 +49,7 @@ No comparison data available.
 
 - [Syntaxin-1A](/xray-mp-wiki/proteins/structural-adhesion/syntaxin-1a/) — SNARE complex denaturation studies used to characterize stability of syntaxin-1A-containing complexes
 - [Thermal Shift Assay (Fluorescent CPM)](/xray-mp-wiki/methods/quality-assessment/thermal-shift-assay/) — Alternative method for measuring protein thermal stability
-- [SNARE Complex](/xray-mp-wiki/concepts/snare-complex/) — Related biological concept
+- [SNARE Complex](/xray-mp-wiki/concepts/structural-mechanisms/snare-complex/) — Related biological concept
 - [Circular Dichroism Spectroscopy](/xray-mp-wiki/methods/quality-assessment/circular-dichroism-spectroscopy/) — Method used in structure determination or purification
 - [SNAP-25A (Rat Neuronal Qbc-SNARE Protein)](/xray-mp-wiki/proteins/structural-adhesion/snap-25a/) — Related protein structure
 - [Synaptobrevin-2 (Rat Neuronal Qc-SNARE Protein)](/xray-mp-wiki/proteins/structural-adhesion/synaptobrevin-2/) — Related protein structure

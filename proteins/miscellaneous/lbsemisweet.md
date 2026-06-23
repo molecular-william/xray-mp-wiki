@@ -23,7 +23,7 @@ LbSemiSWEET is a sugar transporter from the SWEET family found in the bacterium 
 |---|---|---|---|---|---|
 | doi/10.1016##j.cell.2017.03.010 | 5UHS | 2.8 | P212121 | LbSemiSWEET D57A mutant | [Glucose](/xray-mp-wiki/reagents/additives/glucose/) |
 | doi/10.1016##j.cell.2017.03.010 | 5UHQ | 2.8 | P212121 | LbSemiSWEET Q20A mutant | -- |
-| doi/10.1038##nature13670 | -- | 2.40 | P21 | Full-length L. biflexa serovar Patoc [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet/) | -- |
+| doi/10.1038##nature13670 | -- | 2.40 | P21 | Full-length L. biflexa serovar Patoc [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) | -- |
 
 ## Expression and Purification
 
@@ -67,7 +67,7 @@ LbSemiSWEET is a sugar transporter from the SWEET family found in the bacterium 
 | Parameter | Value |
 |---|---|
 | Method | Lipidic cubic phase |
-| Protein sample | L. biflexa serovar Patoc [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet/) reconstituted into [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) (1:1.5 protein:lipid) |
+| Protein sample | L. biflexa serovar Patoc [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) reconstituted into [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) (1:1.5 protein:lipid) |
 | Temperature | 20 C |
 | Notes | Crystals grew in about 1 week; captured in occluded conformation |
 
@@ -88,18 +88,18 @@ Alanine substitution of extracellular gate residues Tyr51, Ile60, and intracellu
 
 ### Occluded state structure
 
-The L. biflexa [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet/) structure at 2.40 Å resolution captures an occluded conformation. At the extracellular side, D57 from one protomer forms hydrogen bonds with Y51 from the other protomer, shielding the cavity from the extracellular solution. A strong non-protein electron density is present at the cavity center, surrounded by W48 and N64 from both protomers. The antiparallel aromatic ring of tryptophan from each protomer is within 4 Å of the putative substrate. W48 and N64 are implicated as critical residues in substrate binding and translocation.
+The L. biflexa [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) structure at 2.40 Å resolution captures an occluded conformation. At the extracellular side, D57 from one protomer forms hydrogen bonds with Y51 from the other protomer, shielding the cavity from the extracellular solution. A strong non-protein electron density is present at the cavity center, surrounded by W48 and N64 from both protomers. The antiparallel aromatic ring of tryptophan from each protomer is within 4 Å of the putative substrate. W48 and N64 are implicated as critical residues in substrate binding and translocation.
 
 
 ## Cross-References
 
 - [Vibrio sp. SemiSWEET](/xray-mp-wiki/proteins/miscellaneous/vibrio-sp-semisweet/) — Related bacterial SemiSWEET crystallized in outward-open state at 1.70 Å
 - [A. thaliana SWEET1](/xray-mp-wiki/proteins/miscellaneous/a-thaliana-sweet1/) — Plant SWEET1 with conserved W and N residues critical for sugar transport
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — LbSemiSWEET operates via alternating access with spontaneous conformational transitions
-- [SWEET Transporter Family](/xray-mp-wiki/concepts/sweet-transporter/) — LbSemiSWEET is a member of the SWEET family of sugar transporters
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — LbSemiSWEET operates via alternating access with spontaneous conformational transitions
+- [SWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/sweet-transporter/) — LbSemiSWEET is a member of the SWEET family of sugar transporters
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for solubilization and purification
 - [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Substrate transported by LbSemiSWEET; used in crystallization
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used in lipidic cubic phase crystallization
-- [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet/) — Related biological concept
+- [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Additive used in purification or crystallization buffers

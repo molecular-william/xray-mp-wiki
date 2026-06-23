@@ -133,6 +133,6 @@ The transmembrane subunits MalF and MalG contribute to substrate selectivity bey
 
 - [MBP (Escherichia coli Maltose-Binding Protein)](/xray-mp-wiki/proteins/abc-transporters/maltose-binding-protein/) — MBP is the periplasmic binding protein that delivers maltose to the MalFGK2 complex
 - [Maltose](/xray-mp-wiki/reagents/additives/maltose/) — Maltose is the physiological substrate delivered to the transmembrane cavity
-- [ABC Transporter Family](/xray-mp-wiki/concepts/abc-transporter-family/) — The maltose transporter is a prototype ABC importer
+- [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — The maltose transporter is a prototype ABC importer
 - [n-Undecyl-beta-D-maltoside (UDM)](/xray-mp-wiki/reagents/detergents/udm/) — Detergent used for protein solubilization and crystallization
 - [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — Crystallization buffer at pH 7.5

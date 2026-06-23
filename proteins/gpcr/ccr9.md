@@ -56,11 +56,11 @@ No purification described.
 
 ## Cross-References
 
-- [Intracellular Allosteric Antagonism](/xray-mp-wiki/concepts/intracellular-allosteric-antagonism/) — CCR9-vercirnon complex is the structural exemplar of this mechanism
+- [Intracellular Allosteric Antagonism](/xray-mp-wiki/concepts/signaling-receptors/intracellular-allosteric-antagonism/) — CCR9-vercirnon complex is the structural exemplar of this mechanism
 - [Vercirnon](/xray-mp-wiki/reagents/additives/vercirnon/) — The small-molecule antagonist bound to CCR9 in the crystal structure
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — CCR9 was crystallized in LCP without a fusion partner
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — CCR9 structure was solved by molecular replacement using truncated CCR5 (PDB 4MBS) as search model
-- [Protein Thermostabilization](/xray-mp-wiki/concepts/thermostabilization/) — CCR9-StaR construct contains eight thermostabilizing mutations enabling crystallization
+- [Protein Thermostabilization](/xray-mp-wiki/concepts/construct-design/thermostabilization/) — CCR9-StaR construct contains eight thermostabilizing mutations enabling crystallization
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM was used at 1% (w/v) for membrane protein extraction
 - [n-Decyl-beta-D-Maltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — DM (decyl-maltoside) was used at 1% (w/v) for thermostability analysis
 - [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — 50 mM HEPES-NaOH pH 7.5, 150 mM NaCl was used for thermostability measurements

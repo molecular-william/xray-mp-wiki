@@ -95,7 +95,7 @@ gamma increases from 1,000 to 1,700 A2.
 
 ## Cross-References
 
-- [F1-ATPase Rotary Mechanism](/xray-mp-wiki/concepts/f1-atpase-rotary-mechanism/) — T. brucei F1-ATPase has conventional rotary catalytic mechanism
+- [F1-ATPase Rotary Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/) — T. brucei F1-ATPase has conventional rotary catalytic mechanism
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
 - [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers

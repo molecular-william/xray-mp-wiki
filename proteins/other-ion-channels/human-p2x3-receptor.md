@@ -128,12 +128,12 @@ A model is proposed where Mg2+ (or Ca2+) initially occupies the upper mode in th
 ## Cross-References
 
 - [Zebrafish P2X4 Receptor (zfP2X4)](/xray-mp-wiki/proteins/other-ion-channels/zfp2x4/) — zfP2X4 is the first solved P2X receptor structure; hP2X3 structures compared extensively to zfP2X4 apo and open states
-- [P2X Receptor Family](/xray-mp-wiki/concepts/p2x-receptor-family/) — hP2X3 is a member of the P2X receptor family; first human P2X receptor structure solved
+- [P2X Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/p2x-receptor-family/) — hP2X3 is a member of the P2X receptor family; first human P2X receptor structure solved
 - [Adenosine Triphosphate (ATP)](/xray-mp-wiki/reagents/ligands/atp/) — Orthosteric agonist of hP2X3; Kd of 2.8 nM for hP2X3-MFC and 3.3 nM for hP2X3-MFC_slow
 - [2'3'-O-(4,5-Dinitrobenzoyl)adenosine 5'-triphosphate (TNP-ATP)](/xray-mp-wiki/reagents/ligands/tnp-atp/) — Competitive antagonist of hP2X3 with Ki of 94 nM; binds deeper into the ATP pocket
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Related maltoside detergent to C12M used in hP2X3 purification
 - [1-Palmitoyl-2-Oleoyl-sn-Glycero-3-Phosphocholine (POPC)](/xray-mp-wiki/reagents/lipids/popc/) — POPC lipid bilayer used in molecular dynamics simulations of hP2X3 open state
 - [Cesium Chloride](/xray-mp-wiki/reagents/additives/cesium-chloride/) — CsCl used in place of NaCl for anomalous scattering studies of ion binding sites in apo hP2X3
-- [Channel Gating via Plug Domain Displacement](/xray-mp-wiki/concepts/channel-gating/) — Comparison of gating mechanisms between P2X and other ion channel families
+- [Channel Gating via Plug Domain Displacement](/xray-mp-wiki/concepts/transport-mechanisms/channel-gating/) — Comparison of gating mechanisms between P2X and other ion channel families
 - [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Related protein
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Related protein

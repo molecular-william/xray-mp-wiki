@@ -70,5 +70,5 @@ Despite only 39% sequence identity, LntPae and LntEco share highly similar overa
 ## Cross-References
 
 - [Escherichia coli Apolipoprotein N-Acyl Transferase (Lnt)](/xray-mp-wiki/proteins/enzymes/e-coli-lnt/) — Orthologous Lnt from E. coli with 39% sequence identity; both characterized in the same structural study
-- [Ping-Pong Catalytic Mechanism](/xray-mp-wiki/concepts/ping-pong-mechanism/) — Lnt uses ping-pong mechanism for N-acyl transfer; structural snapshots of all states
-- [Nitrilase Superfamily](/xray-mp-wiki/concepts/nitrilase-superfamily/) — Lnt belongs to the nitrilase superfamily (ninth branch)
+- [Ping-Pong Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/ping-pong-mechanism/) — Lnt uses ping-pong mechanism for N-acyl transfer; structural snapshots of all states
+- [Nitrilase Superfamily](/xray-mp-wiki/concepts/protein-families/nitrilase-superfamily/) — Lnt belongs to the nitrilase superfamily (ninth branch)

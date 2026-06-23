@@ -14,21 +14,21 @@ verified: false
 
 ## Overview
 
-[Melibiose](/xray-mp-wiki/reagents/ligands/melibiose) permease (MelB) from Salmonella typhimurium is a Na+-coupled sugar symporter belonging to the glycoside-pentoside-hexuronide:cation symporter family (TC 2.A.2), a subgroup of the Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/mfs-transporter/)). MelB catalyzes the electrogenic symport of galactosides coupled to Na+, Li+, or H+, transducing the free energy of downhill cation translocation to drive sugar accumulation against a concentration gradient. The protein shares >85% primary sequence identity with the well-studied E. coli MelB and adopts the typical [MFS](/xray-mp-wiki/concepts/mfs-transporter/) fold of 12 transmembrane helices organized in two pseudo-symmetrical alpha-helical bundles. Crystal structures in two outward conformations reveal a previously unidentified pyramidal cation-binding site formed by three conserved acidic residues and illuminate the structural basis for Na+/melibiose symport and conformational cycling in [MFS](/xray-mp-wiki/concepts/mfs-transporter/) transporters.
+[Melibiose](/xray-mp-wiki/reagents/ligands/melibiose) permease (MelB) from Salmonella typhimurium is a Na+-coupled sugar symporter belonging to the glycoside-pentoside-hexuronide:cation symporter family (TC 2.A.2), a subgroup of the Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/)). MelB catalyzes the electrogenic symport of galactosides coupled to Na+, Li+, or H+, transducing the free energy of downhill cation translocation to drive sugar accumulation against a concentration gradient. The protein shares >85% primary sequence identity with the well-studied E. coli MelB and adopts the typical [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) fold of 12 transmembrane helices organized in two pseudo-symmetrical alpha-helical bundles. Crystal structures in two outward conformations reveal a previously unidentified pyramidal cation-binding site formed by three conserved acidic residues and illuminate the structural basis for Na+/melibiose symport and conformational cycling in [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) transporters.
 
 
 ## Structure Determination
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##ncomms4009 | not specified | 3.35 A | P3221 | Full-length MelBSt, Leu5->Met mutation, [C-terminal](/xray-mp-wiki/concepts/c-terminus/) [His10](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag | [2NPG](/xray-mp-wiki/reagents/ligands/2npg) (4-nitrophenyl-alpha-D-galactopyranoside) |
+| doi/10.1038##ncomms4009 | not specified | 3.35 A | P3221 | Full-length MelBSt, Leu5->Met mutation, [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) [His10](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag | [2NPG](/xray-mp-wiki/reagents/ligands/2npg) (4-nitrophenyl-alpha-D-galactopyranoside) |
 | doi/10.1038##s42003-021-02462-x | 7L17 | 3.05 A | P 31 2 1 | D59C MelB_St mutant with bound alpha-NPG | alpha-NPG (4-nitrophenyl-alpha-D-galactopyranoside) |
 | doi/10.1038##s42003-021-02462-x | 7L16 | 3.15 A | P 31 2 1 | D59C MelB_St mutant with bound DDMB (dodecyl-beta-D-melibioside) | DDMB (dodecyl-beta-D-melibioside) |
 
 ## Expression and Purification
 
 - **Expression system**: Escherichia coli DW2 strain (melA+, delta melB, delta lacZY)
-- **Construct**: Full-length MelBSt with Leu5->Met mutation and [C-terminal](/xray-mp-wiki/concepts/c-terminus/) [His10](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag
+- **Construct**: Full-length MelBSt with Leu5->Met mutation and [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) [His10](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag
 
 ### Purification Workflow
 
@@ -71,11 +71,11 @@ The sugar-binding site is located mainly in the amino-terminal domain. Asp124, T
 
 ### Helix IV as a mechanical linker
 
-Helix IV, in the middle of the [N-terminal](/xray-mp-wiki/concepts/n-terminus/) domain, physically connects both cosubstrate sites (cation and sugar). In addition to Tyr120 and Asp124, Lys18 H-bonds with the backbone atom of Met123, which links helices I-IV. This underscores the crucial role of helix IV in cooperative binding and transport. Na+ binding leads to movement of helix IV, which recruits Asp124, optimizing the pyramidal shape of the cavity with Asp55 and Asp59, and aligning Tyr120 and Trp128 for aromatic stacking with the sugar, thereby increasing affinity. Sugar affinity is increased by more than threefold in the presence of Na+ or Li+.
+Helix IV, in the middle of the [N-terminal](/xray-mp-wiki/concepts/structural-mechanisms/n-terminus/) domain, physically connects both cosubstrate sites (cation and sugar). In addition to Tyr120 and Asp124, Lys18 H-bonds with the backbone atom of Met123, which links helices I-IV. This underscores the crucial role of helix IV in cooperative binding and transport. Na+ binding leads to movement of helix IV, which recruits Asp124, optimizing the pyramidal shape of the cavity with Asp55 and Asp59, and aligning Tyr120 and Trp128 for aromatic stacking with the sugar, thereby increasing affinity. Sugar affinity is increased by more than threefold in the presence of Na+ or Li+.
 
 ### Ionic locks and conformational cycling
 
-Three cytoplasmic interdomain ionic locks stabilize the outward-facing conformation. Lock-1 (L-1): Arg295 (helix IX) forms H-bonds with Gln143 (helix V) and Pro287 (helix VIII). Lock-2 (L-2): Arg141 (helix V) forms four H-bonded ion pairs with Asp351 and Asp354 (helix X). Lock-3 (L-3): Arg363 (loop10-11) forms ion pair and two H-bonding interactions with Val204, Asp208, and Gly74, holding the [N-terminal](/xray-mp-wiki/concepts/n-terminus/) domain in outward-facing conformation. On the [periplasmic](/xray-mp-wiki/concepts/periplasm/) side, Asp35 (helix I) organizes L-4 by forming a [salt bridge](/xray-mp-wiki/concepts/salt-bridge/) and H-bond with Arg175 (helix VI). Replacing Arg363, Arg141, or Arg295 with Cys yields conformationally compromised mutants that fail to transport but retain affinity. These ionic locks are not present in inward conformers, suggesting a sequential lock formation mechanism for the outward state.
+Three cytoplasmic interdomain ionic locks stabilize the outward-facing conformation. Lock-1 (L-1): Arg295 (helix IX) forms H-bonds with Gln143 (helix V) and Pro287 (helix VIII). Lock-2 (L-2): Arg141 (helix V) forms four H-bonded ion pairs with Asp351 and Asp354 (helix X). Lock-3 (L-3): Arg363 (loop10-11) forms ion pair and two H-bonding interactions with Val204, Asp208, and Gly74, holding the [N-terminal](/xray-mp-wiki/concepts/structural-mechanisms/n-terminus/) domain in outward-facing conformation. On the [periplasmic](/xray-mp-wiki/concepts/miscellaneous/periplasm/) side, Asp35 (helix I) organizes L-4 by forming a [salt bridge](/xray-mp-wiki/concepts/salt-bridge/) and H-bond with Arg175 (helix VI). Replacing Arg363, Arg141, or Arg295 with Cys yields conformationally compromised mutants that fail to transport but retain affinity. These ionic locks are not present in inward conformers, suggesting a sequential lock formation mechanism for the outward state.
 
 ### Sugar specificity determinant pocket from high-resolution D59C structures
 
@@ -96,13 +96,13 @@ A sequential binding kinetic model explains reversible cation/melibiose symport 
 
 ## Cross-References
 
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/) — MelB belongs to the glycoside-pentoside-hexuronide:cation symporter family, a subgroup of MFS
-- [Conformational Dynamics in MFS Transporters](/xray-mp-wiki/concepts/conformational-dynamics-mfs/) — MelB structures reveal outward partially occluded and outward inactive conformations
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — MelB operates by alternating access between inward- and outward-facing conformations
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — MelB belongs to the glycoside-pentoside-hexuronide:cation symporter family, a subgroup of MFS
+- [Conformational Dynamics in MFS Transporters](/xray-mp-wiki/concepts/transport-mechanisms/conformational-dynamics-mfs/) — MelB structures reveal outward partially occluded and outward inactive conformations
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — MelB operates by alternating access between inward- and outward-facing conformations
 - [Lactose Permease of Escherichia coli (LacY)](/xray-mp-wiki/proteins/mfs-transporters/lac-y/) — Closely related MFS transporter with similar sugar specificity and location of sugar-recognition sites
 - [n-Undecyl-beta-D-maltoside (UDM)](/xray-mp-wiki/reagents/detergents/udm/) — Primary detergent used for MelBSt solubilization during purification
 - [Dansyl-galactopyranoside (D2G)](/xray-mp-wiki/reagents/ligands/dansyl-galactopyranoside-d2g/) — Fluorescent galactopyranoside probe used in FRET and binding assays for MelB
 - [Melibiose](/xray-mp-wiki/reagents/ligands/melibiose/) — Primary sugar substrate transported by MelB, Kd ~1 mM with Na+ or Li+
-- [C-terminal](/xray-mp-wiki/concepts/c-terminus/) — Entity mentioned in text
+- [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) — Entity mentioned in text
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Entity mentioned in text
 - [vapor diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion/) — Entity mentioned in text

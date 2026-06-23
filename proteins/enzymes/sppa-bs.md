@@ -112,7 +112,7 @@ The SppA_BS protomer is half the size of SppA_EC protomer and superimposes onto 
 ## Cross-References
 
 - [tert-Butanol](/xray-mp-wiki/reagents/additives/tert-butanol/) — Crystallization precipitant used in vapor diffusion under paraffin oil for PDB 4KWB
-- [Self-processing of Membrane Proteins](/xray-mp-wiki/concepts/self-processing/) — Central finding of the paper; C-termini self-process within the octameric chamber
+- [Self-processing of Membrane Proteins](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/self-processing/) — Central finding of the paper; C-termini self-process within the octameric chamber
 - [Signal Peptide Peptidase A from Escherichia coli (SppA_EC)](/xray-mp-wiki/proteins/enzymes/sppa-ec/) — Compared extensively throughout the paper; tetrameric structure with four active sites; search model for molecular replacement (PDB 3BF0)
 - [DDM (N-Dodecyl-beta-D-maltoside)](/xray-mp-wiki/reagents/detergents/ddm/) — Added to protein sample at 0.1% final concentration before crystallization
 - [MPD (2-Methyl-2,4-pentanediol)](/xray-mp-wiki/reagents/additives/mpd/) — Crystallization precipitant component (5% in reservoir, 20% in cryo-solution)

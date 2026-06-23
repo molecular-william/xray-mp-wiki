@@ -130,8 +130,8 @@ NorM-NG employs an unconventional antiport mechanism where Na+ and substrate bin
 - [NorM-VC (Vibrio cholerae NorM)](/xray-mp-wiki/proteins/norm-vc/) — Earlier NorM subfamily structure; Na+-coupled MATE transporter; comparison of cation-bound states
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for NorM-NG solubilization and purification
 - [Verapamil](/xray-mp-wiki/reagents/ligands/verapamil/) — Broad-spectrum MATE inhibitor that co-crystallized with NorM-NG
-- [MATE Transporter Family](/xray-mp-wiki/concepts/mate-transporter-family/) — NorM-NG is a NorM subfamily member of the MATE family
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — MATE transporters operate via alternating access mechanism
+- [MATE Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/mate-transporter-family/) — NorM-NG is a NorM subfamily member of the MATE family
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — MATE transporters operate via alternating access mechanism
 - [IPTG](/xray-mp-wiki/reagents/additives/iptg) — Entity mentioned in text
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) — Entity mentioned in text
 - [HEPES](/xray-mp-wiki/reagents/buffers/hepes) — Entity mentioned in text

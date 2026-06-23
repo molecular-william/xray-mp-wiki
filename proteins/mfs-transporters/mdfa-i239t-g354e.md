@@ -86,5 +86,5 @@ MdfA interacts with electrically distinct substrates differently: H-bonds for el
 ## Cross-References
 
 - [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfa/) — Parent/background entity for the I239T/G354E engineered variant
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/major-facilitator-superfamily/) — MdfA belongs to the MFS/DHA1 subfamily
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Relevant transport mechanism for MdfA
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — MdfA belongs to the MFS/DHA1 subfamily
+- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Relevant transport mechanism for MdfA

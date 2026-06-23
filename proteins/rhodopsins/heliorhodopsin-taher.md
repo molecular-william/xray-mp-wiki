@@ -133,11 +133,11 @@ DEER (double electron-electron resonance) spectroscopy on spin-labelled TaHeR (I
 
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Structural homolog with similar overall fold despite less than 15% sequence identity
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — All-trans retinal chromophore covalently bound via Schiff base to Lys238
-- [Retinal Chromophore Conformation](/xray-mp-wiki/concepts/retinal-chromophore-conformation/) — Retinal configuration and isomerization in HeR compared to type-1 rhodopsins
+- [Retinal Chromophore Conformation](/xray-mp-wiki/concepts/structural-mechanisms/retinal-chromophore-conformation/) — Retinal configuration and isomerization in HeR compared to type-1 rhodopsins
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Structure solved by in meso crystallization in monoolein
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used in the lipidic cubic phase crystallization matrix
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for solubilization and purification
 - [Bicelle Crystallization](/xray-mp-wiki/methods/crystallization/bicelle-crystallization/) — Low pH structure (1.97 A) solved using bicelle crystallization method
 - [DEER Spectroscopy](/xray-mp-wiki/methods/structure-determination/deer-spectroscopy/) — DEER revealed pH- and light-dependent dimer-of-dimer assemblies of TaHeR
-- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-photocycle/) — TaHeR photocycle with K, M, and O intermediates characteristic of microbial rhodopsins
+- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/) — TaHeR photocycle with K, M, and O intermediates characteristic of microbial rhodopsins
 - [MES](/xray-mp-wiki/reagents/buffers/mes/) — MES buffer used in purification and crystallization at pH 6.5

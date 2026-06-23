@@ -70,5 +70,5 @@ The presence of threonine (rather than glutamate) at the Ein position in CmCLC d
 ## Cross-References
 
 - [CLC-ec1 Cl-/H+ Antiporter](/xray-mp-wiki/proteins/slc-transporters/clc-ec1/) — E. coli homolog used for comparative structural and functional studies of the CLC exchange mechanism
-- [CLC Cl-/H+ Exchange Transport Mechanism](/xray-mp-wiki/concepts/clc-proton-transport-mechanism/) — CmCLC provided key evidence for the glutamate gate shuttle mechanism and the role of the Ein residue
-- [Gluex Conformational States in CLC Proteins](/xray-mp-wiki/concepts/gluex-conformational-states-clc/) — CmCLC structures contributed to understanding the multiple conformations of the glutamate gate
+- [CLC Cl-/H+ Exchange Transport Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/clc-proton-transport-mechanism/) — CmCLC provided key evidence for the glutamate gate shuttle mechanism and the role of the Ein residue
+- [Gluex Conformational States in CLC Proteins](/xray-mp-wiki/concepts/transport-mechanisms/gluex-conformational-states-clc/) — CmCLC structures contributed to understanding the multiple conformations of the glutamate gate

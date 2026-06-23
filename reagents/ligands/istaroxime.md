@@ -53,5 +53,5 @@ No comparison data available.
 
 - [Na+,K+-ATPase from Squalus acanthias (Shark)](/xray-mp-wiki/proteins/pumps-atpases/shark-na-k-atpase/) — Cryo-EM structures of NKA-IST complexes in E2P^ATP and E2P^Pi·Mg2+ states
 - [Ouabain](/xray-mp-wiki/reagents/ligands/ouabain/) — Classical cardiotonic steroid; comparison of binding modes with IST
-- [Cardiotonic Steroids](/xray-mp-wiki/concepts/cardiotonic-steroids/) — IST is a next-generation cardiotonic steroid
-- [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/phosphoenzyme-e2p-state/) — IST binds to the E2P state of Na+,K+-ATPase
+- [Cardiotonic Steroids](/xray-mp-wiki/concepts/miscellaneous/cardiotonic-steroids/) — IST is a next-generation cardiotonic steroid
+- [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/enzyme-mechanisms/phosphoenzyme-e2p-state/) — IST binds to the E2P state of Na+,K+-ATPase

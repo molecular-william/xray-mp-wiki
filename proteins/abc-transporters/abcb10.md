@@ -77,7 +77,7 @@ The ABCB10 structures support an adaptation of the [ATP](/xray-mp-wiki/reagents/
 - [Mouse P-glycoprotein (Pgp, ABCB1)](/xray-mp-wiki/proteins/abc-transporters/mouse-p-glycoprotein/) — Homologous ABC exporter with similar fold; comparison of open-inwards vs open-outwards conformations
 - [Sav1866 Multidrug ABC Transporter](/xray-mp-wiki/proteins/abc-transporters/sav1866/) — Bacterial ABC exporter in open-outwards conformation; key structural comparator
 - [TM287/288 (ABC Exporter from Thermotoga maritima)](/xray-mp-wiki/proteins/abc-transporters/tm287-288/) — ABC exporter with intermediate open-inwards and AMPPNP-bound conformations
-- [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) — Key concept related to this protein
+- [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — Key concept related to this protein
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein mentioned in the study
 - [Mouse P-glycoprotein](/xray-mp-wiki/proteins/abc-transporters/mouse-p-glycoprotein/) — Related protein mentioned in the study
 - [Sav1866 Multidrug ABC Transporter](/xray-mp-wiki/proteins/abc-transporters/sav1866/) — Related protein mentioned in the study

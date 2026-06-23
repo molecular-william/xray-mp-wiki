@@ -81,7 +81,7 @@ Molecular docking of all 8,400 possible di- and tripeptides composed of proteino
 
 ## Cross-References
 
-- [RND Efflux Pumps](/xray-mp-wiki/concepts/rnd-efflux-pumps/) — POT transporters are MFS family members; DtpB complements the E. coli POT structural coverage alongside DtpA, DtpC, and DtpD
+- [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) — POT transporters are MFS family members; DtpB complements the E. coli POT structural coverage alongside DtpA, DtpC, and DtpD
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Used for purification of DtpB prior to crystallization
 - [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion/) — Crystallization method used for DtpB-peptide complexes
 - [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) — Referenced in context related to Nanobody

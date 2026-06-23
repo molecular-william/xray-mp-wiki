@@ -41,5 +41,5 @@ Two molecules of compound 32 bind at the allosteric site located at the [LBD](/x
 
 ## Cross-References
 
-- [Positive Allosteric Modulation](/xray-mp-wiki/concepts/positive-allosteric-modulation/) — Compound 32 acts as a positive allosteric modulator of AMPA receptors
+- [Positive Allosteric Modulation](/xray-mp-wiki/concepts/structural-mechanisms/positive-allosteric-modulation/) — Compound 32 acts as a positive allosteric modulator of AMPA receptors
 - [LBD](/xray-mp-wiki/proteins/other-ion-channels/avglur1/) — Related protein structure

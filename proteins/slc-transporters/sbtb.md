@@ -63,11 +63,11 @@ SbtB belongs to the PII family of signal transduction proteins, which regulate n
 ## Cross-References
 
 - [SbtA (High-Affinity Sodium-Dependent Bicarbonate Transporter)](/xray-mp-wiki/proteins/slc-transporters/sbta/) — SbtB is the allosteric regulator of SbtA bicarbonate transporter
-- [PII Signal Transduction Protein Family](/xray-mp-wiki/concepts/pii-protein-family/) — SbtB is a member of the PII protein family
+- [PII Signal Transduction Protein Family](/xray-mp-wiki/concepts/signaling-receptors/pii-protein-family/) — SbtB is a member of the PII protein family
 - [GlnK PII Signal Transduction Protein (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/glnk/) — SbtB is functionally and structurally analogous to GlnK
 - [Ammonium Transporter AmtB (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/e-coli-amtb/) — AmtB-GlnK is the paradigmatic system of PII-mediated transporter regulation
-- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/allosteric-regulation/) — SbtB allosterically inhibits SbtA through T-loop insertion
-- [CO2-Concentrating Mechanism](/xray-mp-wiki/concepts/co2-concentrating-mechanism/) — SbtA-SbtB system regulates bicarbonate uptake in the cyanobacterial CCM
+- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — SbtB allosterically inhibits SbtA through T-loop insertion
+- [CO2-Concentrating Mechanism](/xray-mp-wiki/concepts/miscellaneous/co2-concentrating-mechanism/) — SbtA-SbtB system regulates bicarbonate uptake in the cyanobacterial CCM
 - [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Main structural method used
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Complementary crystal structure
 - [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Method used in structure determination or purification

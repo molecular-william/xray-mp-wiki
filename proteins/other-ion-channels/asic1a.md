@@ -209,7 +209,7 @@ The full-length ASIC1a cryo-EM structure at 3.7 A resolution closely resembles t
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for solubilization and SEC purification of ASIC1a
 - [Fluorescence Size-Exclusion Chromatography (FSEC)](/xray-mp-wiki/methods/quality-assessment/fluorescence-size-exclusion-chromatography/) — FSEC used to identify optimal detergent conditions for ASIC1a
 - [Single-Wavelength Anomalous Diffraction (SAD)](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/) — Se-Met SAD phasing used to solve the open state structure (3HV4)
-- [GAS Selectivity Filter](/xray-mp-wiki/concepts/gas-selectivity-filter/) — Central mechanism of ion selectivity in ASIC1a
+- [GAS Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/gas-selectivity-filter/) — Central mechanism of ion selectivity in ASIC1a
 - [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) — Used for Se-SAD phasing of ASIC1a crystals
 - [Pilidium Toxin 1 (PcTx1)](/xray-mp-wiki/reagents/ligands/pc-tx1/) — Toxin bound in ASIC1a complex structures (PDB 3S3X, 4H2N, 4H2O) at subunit interfaces
 - [MitTx (Texas coral snake toxin)](/xray-mp-wiki/reagents/ligands/mittx/) — Heteromeric toxin that binds to overlapping site on ASIC1a, stabilizing the open state

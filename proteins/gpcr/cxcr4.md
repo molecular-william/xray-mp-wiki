@@ -85,4 +85,4 @@ The structure provides a structural explanation for why CC chemokines bind exclu
 - [It1T](/xray-mp-wiki/reagents/ligands/it1t/) — Referenced in the context of It1T
 - [Cvx15](/xray-mp-wiki/reagents/ligands/cvx15/) — Referenced in the context of Cvx15
 - [vMIP-II (Viral CC Chemokine Antagonist)](/xray-mp-wiki/reagents/ligands/vmip-ii/) — vMIP-II chemokine bound to CXCR4 in the 4RWS complex structure
-- [GPCR-Chemokine Recognition (CRS1/CRS1.5/CRS2)](/xray-mp-wiki/concepts/gpcr-chemokine-recognition/) — The CXCR4:vMIP-II structure established the three-part chemokine recognition site model
+- [GPCR-Chemokine Recognition (CRS1/CRS1.5/CRS2)](/xray-mp-wiki/concepts/signaling-receptors/gpcr-chemokine-recognition/) — The CXCR4:vMIP-II structure established the three-part chemokine recognition site model

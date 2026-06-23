@@ -47,6 +47,6 @@ The W56A, N73A, W176A, and N192A mutations had no significant effect on the plas
 ## Cross-References
 
 - [LbSemiSWEET from Leptospira biflexa](/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/) — Bacterial [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet) homolog with conserved W and N residues critical for function
-- [SWEET Transporter Family](/xray-mp-wiki/concepts/sweet-transporter/) — A. thaliana SWEET1 is a member of the SWEET family of sugar transporters
-- [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet/) — SWEETs consist of two [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet)-like units fused via an inversion linker
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — SWEETs operate via alternating access transport
+- [SWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/sweet-transporter/) — A. thaliana SWEET1 is a member of the SWEET family of sugar transporters
+- [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) — SWEETs consist of two [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet)-like units fused via an inversion linker
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — SWEETs operate via alternating access transport

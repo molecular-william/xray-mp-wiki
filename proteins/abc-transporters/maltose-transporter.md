@@ -78,6 +78,6 @@ The structure reveals that EIIA^Glc binds to an allosteric site on the [MalK (Es
 - [EIIA^Glc (Escherichia coli Enzyme IIA^Glc)](/xray-mp-wiki/proteins/abc-transporters/eiiaglc/) — Regulatory protein; allosteric inhibitor of MalFGK2
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for membrane solubilization and purification
 - [DMPC (1,2-Dimyristoyl-sn-glycero-3-phosphocholine)](/xray-mp-wiki/reagents/lipids/dmpc/) — Lipid component of bicelles used for crystallization
-- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/allosteric-regulation/) — EIIA^Glc acts as a classical MWC allosteric inhibitor of the transporter
+- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — EIIA^Glc acts as a classical MWC allosteric inhibitor of the transporter
 - [IPTG (Isopropyl-beta-D-thiogalactopyranoside)](/xray-mp-wiki/reagents/additives/iptg/) — Iptg used in purification or crystallization buffer
 - [Magnesium Chloride (MgCl₂)](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Mgcl2 used in purification or crystallization buffer

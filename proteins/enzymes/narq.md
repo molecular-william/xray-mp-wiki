@@ -97,7 +97,7 @@ full-length or multi-domain fragments for understanding TM signaling.
 
 ## Cross-References
 
-- [Two-Component Signaling System](/xray-mp-wiki/concepts/two-component-signaling-system/) — NarQ is the archetypal TCS sensor used to demonstrate the complete TM signaling mechanism including helical rotation, diagonal scissoring, and piston-like shifts
+- [Two-Component Signaling System](/xray-mp-wiki/concepts/signaling-receptors/two-component-signaling-system/) — NarQ is the archetypal TCS sensor used to demonstrate the complete TM signaling mechanism including helical rotation, diagonal scissoring, and piston-like shifts
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — In meso crystallization was essential for obtaining NarQ TM domain structures
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers

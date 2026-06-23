@@ -100,7 +100,7 @@ The S6 inner helices contain a conserved [Glycine](/xray-mp-wiki/reagents/buffer
 - [Decylmaltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Primary detergent (40 mM) for membrane extraction and 5 mM for purification
 - [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Main buffer component (50 mM, pH 8.0) throughout purification
 - [Potassium Chloride (KCl)](/xray-mp-wiki/reagents/additives/potassium-chloride-kcl/) — 100 mM KCl in lysis buffer; 6 K+ ions in selectivity filter
-- [C-type Inactivation](/xray-mp-wiki/concepts/c-type-inactivation/) — Y199-ester mutation slows C-type inactivation in KvAP, linking S2 occupancy to inactivation
+- [C-type Inactivation](/xray-mp-wiki/concepts/structural-mechanisms/c-type-inactivation/) — Y199-ester mutation slows C-type inactivation in KvAP, linking S2 occupancy to inactivation
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Elution agent (300-400 mM) for TALON Co2+ affinity chromatography
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Additive used in purification or crystallization buffers

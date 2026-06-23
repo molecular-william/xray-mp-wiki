@@ -42,5 +42,5 @@ No comparison data available.
 ## Cross-References
 
 - [Escherichia coli CorA Mg2+ Channel (Cytoplasmic Domain)](/xray-mp-wiki/proteins/abc-transporters/ec-cor-a/) — Cobalt hexamine used to compete with Mg2+ at the N249/Q252 pore site in EcCorA structures
-- [CorA Mg2+ Transporter](/xray-mp-wiki/concepts/cora-mg-transporter/) — CorA channel inhibited by cobalt hexamine as a Mg2+ analog
+- [CorA Mg2+ Transporter](/xray-mp-wiki/concepts/transport-mechanisms/cora-mg-transporter/) — CorA channel inhibited by cobalt hexamine as a Mg2+ analog
 - [Magnesium Chloride (MgCl2)](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Mg2+ is the physiological ion that cobalt hexamine structurally mimics

@@ -64,4 +64,4 @@ No comparison data available.
 ## Cross-References
 
 - [Bovine F1-ATPase](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) — Primary structural system for aurovertin B binding
-- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/f1-atpase-rotary-mechanism/) — Aurovertin B inhibits by preventing catalytic interface closure during rotary catalysis
+- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/) — Aurovertin B inhibits by preventing catalytic interface closure during rotary catalysis

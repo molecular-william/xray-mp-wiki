@@ -144,10 +144,10 @@ cytoplasmic gate.
 
 - [Bovine ADP/ATP Carrier (AAC1)](/xray-mp-wiki/proteins/slc-transporters/bovine-adp-atp-carrier/) — Orthologous carrier; used as molecular replacement search model; structural comparison
 - [Thermothelomyces thermophila ADP/ATP Carrier](/xray-mp-wiki/proteins/slc-transporters/thermothelomyces-thermophila-adp-atp-carrier/) — Related fungal ADP/ATP carrier for structural comparison
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Yeast ADP/ATP carriers provide structural basis for domain-based alternating-access transport
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Yeast ADP/ATP carriers provide structural basis for domain-based alternating-access transport
 - [Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) — Three cardiolipin molecules tightly bound at interdomain interfaces
 - [Bongkrekic Acid](/xray-mp-wiki/reagents/additives/bongkrekic-acid/) — Specific inhibitor that locks the carrier in the matrix state (m-state)
-- [ABC Transporter Family](/xray-mp-wiki/concepts/abc-transporter-family/) — ADP/ATP carriers and ABC transporters both exemplify alternating-access transport mechanisms
+- [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — ADP/ATP carriers and ABC transporters both exemplify alternating-access transport mechanisms
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) — Buffer component in purification or crystallization
 - [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) — Buffer component in purification or crystallization

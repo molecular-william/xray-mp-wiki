@@ -94,7 +94,7 @@ GsuK shares several features with eukaryotic Slo K+ channels: dual RCK domains p
 
 ## Cross-References
 
-- [RCK Domain Activation Mechanism](/xray-mp-wiki/concepts/rck-domain-activation-mechanism/) — GsuK gating is regulated by its RCK domains binding ADP, NAD+, and Ca2+
+- [RCK Domain Activation Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rck-domain-activation-mechanism/) — GsuK gating is regulated by its RCK domains binding ADP, NAD+, and Ca2+
 - [ADP](/xray-mp-wiki/reagents/ligands/adp/) — Referenced in gsuk text
 - [Iptg](/xray-mp-wiki/reagents/additives/iptg/) — Referenced in gsuk text
 - [Tris](/xray-mp-wiki/reagents/buffers/tris/) — Referenced in gsuk text

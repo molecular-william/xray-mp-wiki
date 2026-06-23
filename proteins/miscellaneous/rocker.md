@@ -87,7 +87,7 @@ Solution NMR titration showed two Zn²⁺ ions bind per tetramer at
 high affinity, followed by much weaker association at a second
 binding site. This negative cooperativity between the two di-Zn²⁺
 binding sites is consistent with the design strategy inspired by
-the [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) of natural transporters.
+the [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) of natural transporters.
 
 ### Zn²⁺/H⁺ antiport activity
 
@@ -103,7 +103,7 @@ of protons upon Zn²⁺ binding to the Glu/His ligands.
 
 - [Dodecylphosphocholine (DPC)](/xray-mp-wiki/reagents/detergents/dodecylphosphocholine/) — Primary micelle-forming detergent for AUC and solution NMR characterization
 - [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Buffer used in purification and sample preparation
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Related biological concept
+- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Related biological concept
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [DPC](/xray-mp-wiki/reagents/detergents/dpc/) — Detergent used in purification or crystallization
 - [DMPC](/xray-mp-wiki/reagents/lipids/dmpc/) — Additive used in purification or crystallization buffers

@@ -64,7 +64,7 @@ The c subunits remain in the proton-locked state when facing the membrane lipid.
 
 - [Ilyobacter tartaricus C Subunit](/xray-mp-wiki/proteins/pumps-atpases/ilyobacter-tartaricus-c-subunit/) — Na+-dependent c11 ring compared throughout; structure comparison shows ~12 degree outer-helix bend angle difference and distinct ion coordination
 - [Bovine Mitochondrial F1-ATPase](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) — Related F-type ATPase; bovine F1 domain (alpha3beta3gamma delta epsilon) powers rotation of the c-ring rotor
-- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/rotary-atpase-mechanism/) — The c-ring rotation driven by proton translocation is the core of the rotary ATPase mechanism
+- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/) — The c-ring rotation driven by proton translocation is the core of the rotary ATPase mechanism
 - [Cymal-6](/xray-mp-wiki/reagents/detergents/cymal-6/) — Related Cymal detergent family member used in membrane protein crystallization
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Structure solved by molecular replacement using I. tartaricus c11 ring (PDB 1YCE) as search model
 - [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Crystallization method used to obtain bipyramidal crystals of the c15 ring

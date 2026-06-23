@@ -74,7 +74,7 @@ NtMATE2 is proposed to transport [[Nicotine](/xray-mp-wiki/reagents/ligands/nico
 
 ### Rocker switch model with three conformational states
 
-NtMATE2 follows the [rocker switch(/xray-mp-wiki/concepts/rocker-switch-mechanism/)] mechanism of alternating-access transport. The proposed mechanism: NtMATE2 interacts with its substrate ([[Nicotine](/xray-mp-wiki/reagents/ligands/nicotine)(/xray-mp-wiki/reagents/ligands/nicotine/)]) in an inward-facing form, converts to the outward-releasing form (Mol-B) with substrate, releases the substrate into the vacuole, and then changes into the outward-open form (Mol-A). Mol-B is proposed as the stable outward-releasing state. This contrasts with [CasMATE (Camelina sativa MATE Transporter)](/xray-mp-wiki/proteins/casmate) (PDB 5XJJ) and AtDTX14 where the transition involves TM7 bending.
+NtMATE2 follows the [rocker switch(/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/)] mechanism of alternating-access transport. The proposed mechanism: NtMATE2 interacts with its substrate ([[Nicotine](/xray-mp-wiki/reagents/ligands/nicotine)(/xray-mp-wiki/reagents/ligands/nicotine/)]) in an inward-facing form, converts to the outward-releasing form (Mol-B) with substrate, releases the substrate into the vacuole, and then changes into the outward-open form (Mol-A). Mol-B is proposed as the stable outward-releasing state. This contrasts with [CasMATE (Camelina sativa MATE Transporter)](/xray-mp-wiki/proteins/casmate) (PDB 5XJJ) and AtDTX14 where the transition involves TM7 bending.
 
 
 ## Cross-References
@@ -94,5 +94,5 @@ NtMATE2 follows the [rocker switch(/xray-mp-wiki/concepts/rocker-switch-mechanis
 - [Pichia Pastoris Expression System](/xray-mp-wiki/methods/expression-systems/pichia-pastoris/) — Pichia pastoris SMD1168 used as the expression host for NtMATE2
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization method used to grow NtMATE2 microcrystals
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Size-exclusion chromatography used for final polishing of NtMATE2
-- [Rocker-Switch Mechanism in MFS Transporters](/xray-mp-wiki/concepts/rocker-switch-mechanism/) — NtMATE2 operates via the rocker switch alternating-access mechanism
+- [Rocker-Switch Mechanism in MFS Transporters](/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/) — NtMATE2 operates via the rocker switch alternating-access mechanism
 - [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — HEPES-Na (pH 7.0 for purification, pH 7.5 for crystallization) used throughout

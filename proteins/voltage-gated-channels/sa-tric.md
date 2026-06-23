@@ -107,7 +107,7 @@ The SaTRIC D99A mutant was functionally characterized by single-channel electrop
 - [CpTRIC Channel from Clostridium perfringens](/xray-mp-wiki/proteins/voltage-gated-channels/cp-tric/) — Homologous TRIC channel from C. perfringens; structural comparison between prokaryotic TRIC channels
 - [C. elegans TRIC-B1 Channel](/xray-mp-wiki/proteins/voltage-gated-channels/tric-b1/) — Eukaryotic TRIC channel homolog; shared 7-TM hourglass architecture and PIP2-dependent gating
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — All four SaTRIC crystal structures solved by LCP method
-- [TRIC Channel Gating Mechanism](/xray-mp-wiki/concepts/tric-channel-gating/) — SaTRIC belongs to the TRIC channel family with ion-dependent gating
+- [TRIC Channel Gating Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/tric-channel-gating/) — SaTRIC belongs to the TRIC channel family with ion-dependent gating
 - [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer component (20 mM, pH 7.5) used in protein solution and crystallization
 - [Decylmaltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Detergent (4 mM) used throughout SaTRIC protein solutions for stability
 - [PEG200](/xray-mp-wiki/reagents/additives/peg200/) — Additive used in purification or crystallization buffers

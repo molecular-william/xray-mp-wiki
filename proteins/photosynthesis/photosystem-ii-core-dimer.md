@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSII) core dimer from the thermophilic cyanobacterium Thermosynechococcus elongatus has been solved at multiple resolutions by X-ray crystallography. The 3.5 A structure (PDB 1S5L) revealed a homodimer with the membrane integral part measuring 190 A x 100 A and 40 A thick. Time-resolved [Serial Femtosecond Crystallography](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) ([TR-SFX](/xray-mp-wiki/methods/structure-determination/time-resolved-serial-femtosecond-crystallography/)) structures have been determined at 5 A (dark S1 state, PDB 4PBU) and 5.5 A (double-flash putative S3 state, PDB 4Q54), revealing significant conformational changes at the oxygen-evolving complex and electron acceptor side during the [Kok Cycle](/xray-mp-wiki/concepts/kok-cycle/) of water oxidation.
+The [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSII) core dimer from the thermophilic cyanobacterium Thermosynechococcus elongatus has been solved at multiple resolutions by X-ray crystallography. The 3.5 A structure (PDB 1S5L) revealed a homodimer with the membrane integral part measuring 190 A x 100 A and 40 A thick. Time-resolved [Serial Femtosecond Crystallography](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) ([TR-SFX](/xray-mp-wiki/methods/structure-determination/time-resolved-serial-femtosecond-crystallography/)) structures have been determined at 5 A (dark S1 state, PDB 4PBU) and 5.5 A (double-flash putative S3 state, PDB 4Q54), revealing significant conformational changes at the oxygen-evolving complex and electron acceptor side during the [Kok Cycle](/xray-mp-wiki/concepts/enzyme-mechanisms/kok-cycle/) of water oxidation.
 
 
 ## Structure Determination
@@ -112,7 +112,7 @@ Small movements on the order of 0.3 A are observed in side chains surrounding th
 - [Cadmium Chloride](/xray-mp-wiki/reagents/additives/cadmium-chloride/) — Heavy atom derivative used for SAD phasing of PSII crystals
 - [Serial Femtosecond Crystallography](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) — SFX method used for TR-SFX structures of PSII (PDB 4PBU, 4Q54)
 - [Time-Resolved Serial Femtosecond Crystallography](/xray-mp-wiki/methods/structure-determination/time-resolved-serial-femtosecond-crystallography/) — TR-SFX technique enabled time-resolved study of S-state transitions in PSII
-- [Kok Cycle](/xray-mp-wiki/concepts/kok-cycle/) — Related biological concept
+- [Kok Cycle](/xray-mp-wiki/concepts/enzyme-mechanisms/kok-cycle/) — Related biological concept
 - [Batch Crystallization with Free Interface Diffusion](/xray-mp-wiki/methods/crystallization/batch-crystallization-free-interface-diffusion/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) — Related protein structure

@@ -79,9 +79,9 @@ The efrapeptin-bound structure provides direct structural support for the bindin
 ## Cross-References
 
 - [Bovine F1-ATPase (azide-inhibited form)](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) — Same enzyme in different inhibited states provides complementary structural information
-- [Binding-Change Mechanism](/xray-mp-wiki/concepts/binding-change-mechanism/) — Efrapeptin inhibits by blocking the beta-E to closed conformation transition required by the binding change mechanism
-- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/f1-atpase-rotary-mechanism/) — Structural evidence for the rotary mechanism and its inhibition by efrapeptin
-- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/rotary-atpase-mechanism/) — Efrapeptin inhibits the rotary catalytic cycle by preventing beta-subunit conformational changes
+- [Binding-Change Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/binding-change-mechanism/) — Efrapeptin inhibits by blocking the beta-E to closed conformation transition required by the binding change mechanism
+- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/) — Structural evidence for the rotary mechanism and its inhibition by efrapeptin
+- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/) — Efrapeptin inhibits the rotary catalytic cycle by preventing beta-subunit conformational changes
 - [ATP](/xray-mp-wiki/reagents/ligands/atp/) — Referenced in the context of ATP
 - [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/) — Referenced in the context of Amp Pnp
 - [ADP](/xray-mp-wiki/reagents/ligands/adp/) — Referenced in the context of ADP

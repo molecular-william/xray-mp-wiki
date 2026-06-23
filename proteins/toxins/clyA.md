@@ -71,6 +71,6 @@ The helical bundle architecture of the ClyA monomer shows close similarity to th
 
 ## Cross-References
 
-- [Pore-Forming Toxins](/xray-mp-wiki/concepts/pore-forming-toxins/) — ClyA is a bacterial alpha-pore-forming toxin that assembles into a transmembrane pore
+- [Pore-Forming Toxins](/xray-mp-wiki/concepts/structural-mechanisms/pore-forming-toxins/) — ClyA is a bacterial alpha-pore-forming toxin that assembles into a transmembrane pore
 - [Fragaceatoxin C (FraC)](/xray-mp-wiki/proteins/toxins/fragaceatoxin-c/) — Related alpha-pore-forming toxin with similar alpha-helical bundle pore architecture
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Referenced in the context of DDM

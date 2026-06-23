@@ -20,13 +20,13 @@ Cysteinyl leukotriene receptor type 1 (CysLT1R) is a class A G protein-coupled r
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##sciadv.aax2518 | 6RZ4 | 2.7 | P 1 21 1 | Human CysLT1R with [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion in ICL3, C-terminal [Truncation](/xray-mp-wiki/concepts/truncation/) after K311; complex with pranlukast | Pranlukast (antagonist) |
-| doi/10.1126##sciadv.aax2518 | 6RZ5 | 2.53 | P 1 | Human CysLT1R with [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion in ICL3, C-terminal [Truncation](/xray-mp-wiki/concepts/truncation/) after K311; complex with zafirlukast (XFEL structure) | Zafirlukast (antagonist) |
+| doi/10.1126##sciadv.aax2518 | 6RZ4 | 2.7 | P 1 21 1 | Human CysLT1R with [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion in ICL3, C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) after K311; complex with pranlukast | Pranlukast (antagonist) |
+| doi/10.1126##sciadv.aax2518 | 6RZ5 | 2.53 | P 1 | Human CysLT1R with [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion in ICL3, C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) after K311; complex with zafirlukast (XFEL structure) | Zafirlukast (antagonist) |
 
 ## Expression and Purification
 
 - **Expression system**: Spodoptera frugiperda Sf9 insect cells; Bac-to-Bac Baculovirus Expression System
-- **Construct**: Human CysLT1R with [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion in intracellular loop 3, C-terminal [Truncation](/xray-mp-wiki/concepts/truncation/) after Lys311; 8 uM zafirlukast added during expression
+- **Construct**: Human CysLT1R with [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion in intracellular loop 3, C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) after Lys311; 8 uM zafirlukast added during expression
 
 ### Purification Workflow
 
@@ -85,10 +85,10 @@ CysLT1R shows an unusual pattern where the P-I-F (Pro-Ile-Phe) microswitch appea
 - [P2Y1 Receptor](/xray-mp-wiki/proteins/gpcr/human-p2y1-receptor/) — Close structural homolog (Ca RMSD 1.1 A); delta-branch GPCR comparison
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for solubilization and purification
 - [Lipidic Cubic Phase (In Meso) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used for CysLT1R structures
-- [GPCR G Protein Coupling](/xray-mp-wiki/concepts/gpcr-g-protein-coupling/) — CysLT1R is a GPCR that signals through Gq/11 and Gi/o pathways
+- [GPCR G Protein Coupling](/xray-mp-wiki/concepts/signaling-receptors/gpcr-g-protein-coupling/) — CysLT1R is a GPCR that signals through Gq/11 and Gi/o pathways
 - [Cholesteryl Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Additive used in purification to stabilize the receptor
 - [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) — Referenced in the context of Bril
-- [Truncation](/xray-mp-wiki/concepts/truncation/) — Referenced in the context of Truncation
+- [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Referenced in the context of Truncation
 - [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) — Referenced in the context of Hepes
 - [Mgcl2](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Referenced in the context of Mgcl2
 - [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) — Referenced in the context of Iodoacetamide

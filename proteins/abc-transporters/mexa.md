@@ -87,5 +87,5 @@ Based on the MexA structure, two models were proposed for the MexAB-OprM assembl
 - [AcrB Multidrug Efflux Transporter](/xray-mp-wiki/proteins/abc-transporters/acrB/) — E. coli RND homologue of MexB; MexA is the P. aeruginosa homologue of AcrA
 - [AcrA multidrug efflux pump periplasmic protein](/xray-mp-wiki/proteins/abc-transporters/acra/) — E. coli homologue of MexA with the same three-domain architecture (alpha-helical hairpin, lipoyl domain, beta-barrel)
 - [MEXB](/xray-mp-wiki/proteins/abc-transporters/mexb/) — Related protein structure
-- [RND Efflux Pumps](/xray-mp-wiki/concepts/rnd-efflux-pumps/) — MexA is the periplasmic adaptor component of the RND MexAB-OprM tripartite efflux pump
-- [HME-RND Efflux Pump (Heavy-Metal Efflux RND)](/xray-mp-wiki/concepts/hme-rnd-efflux-pump/) — Related RND subfamily with different substrate specificity; both use periplasmic adaptors
+- [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) — MexA is the periplasmic adaptor component of the RND MexAB-OprM tripartite efflux pump
+- [HME-RND Efflux Pump (Heavy-Metal Efflux RND)](/xray-mp-wiki/concepts/transport-mechanisms/hme-rnd-efflux-pump/) — Related RND subfamily with different substrate specificity; both use periplasmic adaptors

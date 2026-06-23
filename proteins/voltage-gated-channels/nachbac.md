@@ -37,5 +37,5 @@ No crystallization described.
 - [NavMs Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/navms/) — Prokaryotic sodium channel with faster inactivation kinetics; used as functional comparison
 - [NavAb Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) — Another prokaryotic sodium channel orthologue for structural comparison
 - [NavAe1p Prokaryotic Sodium Channel Pore](/xray-mp-wiki/proteins/gpcr/navae1p-sodium-channel/) — Bacterial sodium channel pore construct
-- [Sodium Channel Gating and Selectivity](/xray-mp-wiki/concepts/sodium-channel-gating/) — General mechanism of voltage-gated sodium channel gating
-- [Sodium Channel Inactivation Gating](/xray-mp-wiki/concepts/sodium-channel-inactivation-gating/) — CTD-mediated inactivation mechanism compared across prokaryotic channels
+- [Sodium Channel Gating and Selectivity](/xray-mp-wiki/concepts/transport-mechanisms/sodium-channel-gating/) — General mechanism of voltage-gated sodium channel gating
+- [Sodium Channel Inactivation Gating](/xray-mp-wiki/concepts/transport-mechanisms/sodium-channel-inactivation-gating/) — CTD-mediated inactivation mechanism compared across prokaryotic channels

@@ -79,7 +79,7 @@ The putative chloride entrance is between the B-C and F-G loops, gated by Glu-19
 - [Pharaonis Halorhodopsin (NpHR)](/xray-mp-wiki/proteins/rhodopsins/pharaonis-halorhodopsin/) — Both are chloride-pumping microbial rhodopsins with similar chloride-binding motif
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — MastR shows closest structural homology to BR, with BR-like trimeric assembly and overall fold
 - [CIR (Nonlabens marinus)](/xray-mp-wiki/proteins/rhodopsins/cir-nonlabens-marinus/) — CIR represents the eubacterial group of chloride-pumping rhodopsins, distinct from MastR's cyanobacterial group
-- [DTG/DTS Rhodopsin Motif](/xray-mp-wiki/concepts/dtg-dts-rhodopsin/) — MastR contains a TSD motif, related to the function-determining motifs in ion-pumping rhodopsins
+- [DTG/DTS Rhodopsin Motif](/xray-mp-wiki/concepts/rhodopsin-mechanisms/dtg-dts-rhodopsin/) — MastR contains a TSD motif, related to the function-determining motifs in ion-pumping rhodopsins
 - [Bicelle Crystallization](/xray-mp-wiki/methods/crystallization/bicelle-crystallization/) — Method used in structure determination or purification
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification

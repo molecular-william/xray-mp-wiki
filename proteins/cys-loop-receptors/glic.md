@@ -222,7 +222,7 @@ X-ray structures of GLIC complexed with propofol (3.3 A) and desflurane (3.2 A) 
 
 ## Cross-References
 
-- [Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/cys-loop-receptor-family/) — GLIC is a prokaryotic member of the pLGIC superfamily
+- [Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) — GLIC is a prokaryotic member of the pLGIC superfamily
 - [Ketamine](/xray-mp-wiki/reagents/ligands/ketamine/) — Ketamine binds to intersubunit cavity in ECD, inhibits GLIC
 - [ELIC (Erwinia ligand-gated Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/elic/) — Direct structural comparison between closed (ELIC) and open (GLIC) states
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary purification and crystallization detergent
@@ -231,7 +231,7 @@ X-ray structures of GLIC complexed with propofol (3.3 A) and desflurane (3.2 A) 
 - [PEG 4000](/xray-mp-wiki/reagents/additives/peg-4000/) — Crystallization precipitant
 - [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate/) — Crystallization buffer at pH 4
 - [sTeLIC (Tevnia jerichonana Endosymbiont pLGIC)](/xray-mp-wiki/proteins/cys-loop-receptors/stelic/) — Homologous prokaryotic pLGIC; sTeLIC shows an even more open pore conformation than GLIC
-- [Barbiturate Binding Mechanism in pLGICs](/xray-mp-wiki/concepts/barbiturate-binding-mechanism/) — First X-ray structures of barbiturates bound to GLIC revealed the pore binding site
+- [Barbiturate Binding Mechanism in pLGICs](/xray-mp-wiki/concepts/transport-mechanisms/barbiturate-binding-mechanism/) — First X-ray structures of barbiturates bound to GLIC revealed the pore binding site
 - [Bromobarbital](/xray-mp-wiki/reagents/ligands/bromobarbital/) — Barbiturate co-crystallized with GLIC-LC (PDB 5L4H)
 - [Thiopental](/xray-mp-wiki/reagents/ligands/thiopental/) — Clinically used barbiturate co-crystallized with GLIC-LC (PDB 5L4E)
 - [Selenocyanobarbital](/xray-mp-wiki/reagents/ligands/selenocyanobarbital/) — Synthetic barbiturate co-crystallized with GLIC-LC (PDB 5L47)

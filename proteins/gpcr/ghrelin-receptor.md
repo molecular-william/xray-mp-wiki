@@ -14,7 +14,7 @@ verified: true
 
 ## Overview
 
-The human ghrelin receptor (GHSR, growth hormone secretagogue receptor) is a class A [GPCR](/xray-mp-wiki/concepts/gpcr/) that mediates the physiological effects of ghrelin, a gastric peptide hormone with important roles in appetite stimulation, growth hormone secretion, adiposity, energy homeostasis, and hippocampal neurogenesis. Ghrelin is uniquely modified by O-acyl-modification at Ser3, which is essential for its activity. The first high-resolution crystal structure of the ghrelin receptor bound to the neutral antagonist Compound 21 revealed a bifurcated ligand-binding pocket divided by a salt bridge between E124^3.33 and R283^6.55, and a hydrophobic gap (crevasse) between TM6 and TM7 rich in phenylalanine residues (F279^6.51, F286^6.58, F290^6.62, F309^7.39, F312^7.42). This gap is proposed to accommodate the acyl modification of ghrelin, explaining why acyl modification is essential for receptor activation.
+The human ghrelin receptor (GHSR, growth hormone secretagogue receptor) is a class A [GPCR](/xray-mp-wiki/concepts/signaling-receptors/gpcr/) that mediates the physiological effects of ghrelin, a gastric peptide hormone with important roles in appetite stimulation, growth hormone secretion, adiposity, energy homeostasis, and hippocampal neurogenesis. Ghrelin is uniquely modified by O-acyl-modification at Ser3, which is essential for its activity. The first high-resolution crystal structure of the ghrelin receptor bound to the neutral antagonist Compound 21 revealed a bifurcated ligand-binding pocket divided by a salt bridge between E124^3.33 and R283^6.55, and a hydrophobic gap (crevasse) between TM6 and TM7 rich in phenylalanine residues (F279^6.51, F286^6.58, F290^6.62, F309^7.39, F312^7.42). This gap is proposed to accommodate the acyl modification of ghrelin, explaining why acyl modification is essential for receptor activation.
 
 ## Structure Determination
 
@@ -72,4 +72,4 @@ The ghrelin receptor exhibits high constitutive (ligand-independent) activity. T
 
 ## Cross-References
 
-- [GPCR](/xray-mp-wiki/concepts/gpcr/) — Ghrelin receptor is a class A GPCR
+- [GPCR](/xray-mp-wiki/concepts/signaling-receptors/gpcr/) — Ghrelin receptor is a class A GPCR

@@ -70,5 +70,5 @@ ABCG1 shows similar binding conformations for both cholesterol and [Stigmasterol
 - [ABCG2](/xray-mp-wiki/proteins/abc-transporters/abcg2/) — Multidrug transporter ABCG member; shares PH motif and hydrophobic valve
 - [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) — Substrate; binds at cytoplasmic end of TMD in ABCG1
 - [Stigmasterol](/xray-mp-wiki/reagents/lipids/stigmasterol/) — Plant sterol substrate; docked on ABCG1 for selectivity comparison
-- [Membrane Mimetics and Structural Biology](/xray-mp-wiki/concepts/membrane-mimetics/) — Bicelles, nanodiscs, and other membrane mimetics used in membrane protein studies
+- [Membrane Mimetics and Structural Biology](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/) — Bicelles, nanodiscs, and other membrane mimetics used in membrane protein studies
 - [Atp](/xray-mp-wiki/reagents/ligands/atp) — Ligand or small molecule used in this study

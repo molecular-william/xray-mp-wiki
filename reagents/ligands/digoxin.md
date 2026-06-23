@@ -52,5 +52,5 @@ No comparison data available.
 
 - [Na+,K+-ATPase (Pig Kidney)](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-pig-kidney/) — Primary target; E2P-digoxin complex structure determined at 3.9 A
 - [Ouabain](/xray-mp-wiki/reagents/ligands/ouabain/) — Related cardiotonic steroid; structural comparison of binding modes between digoxin, ouabain, and bufalin
-- [Cardiotonic Steroids](/xray-mp-wiki/concepts/cardiotonic-steroids/) — Digoxin is a cardiotonic steroid of the cardenolide class
-- [Cardiac Glycoside Binding Mechanism](/xray-mp-wiki/concepts/cardiac-glycoside-binding-mechanism/) — Digoxin binding follows the general cardiac glycoside binding mechanism to Na+,K+-ATPase
+- [Cardiotonic Steroids](/xray-mp-wiki/concepts/miscellaneous/cardiotonic-steroids/) — Digoxin is a cardiotonic steroid of the cardenolide class
+- [Cardiac Glycoside Binding Mechanism](/xray-mp-wiki/concepts/miscellaneous/cardiac-glycoside-binding-mechanism/) — Digoxin binding follows the general cardiac glycoside binding mechanism to Na+,K+-ATPase

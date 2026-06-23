@@ -62,7 +62,7 @@ open catalytic site, stabilizing an ADP-inhibited state.
 | Notes | Structure determined from multiple datasets. Initial 7 Å dataset from one crystal
 used for [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) with EhA3B3 (Enterococcus hirae A3B3) as search model.
 Higher resolution 6.2-6.5 Å datasets collected at APS and NSLS beamlines. Two
-independent structures deposited: 5BW9 and 5D80. [NCS](/xray-mp-wiki/concepts/non-crystallographic-symmetry/) averaging and density modification
+independent structures deposited: 5BW9 and 5D80. [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) averaging and density modification
 were essential for interpretable maps at this resolution.
  |
 
@@ -100,7 +100,7 @@ not required for autoinhibition by subunit H.
 
 - [V1-ATPase from Thermus thermophilus](/xray-mp-wiki/proteins/pumps-atpases/v1-atpase-t-thermophilus/) — Related bacterial V1-ATPase structure used for comparison of catalytic core and rotary mechanism
 - [Bovine F1-ATPase](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) — Related rotary ATPase; comparison of central rotor and catalytic mechanism
-- [NCS](/xray-mp-wiki/concepts/non-crystallographic-symmetry/) — Related biological concept
+- [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) — Related biological concept
 - [Ion-Exchange Chromatography](/xray-mp-wiki/methods/purification/ion-exchange-chromatography/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [Ammonium Sulfate](/xray-mp-wiki/reagents/additives/ammonium-sulfate/) — Additive used in purification or crystallization buffers

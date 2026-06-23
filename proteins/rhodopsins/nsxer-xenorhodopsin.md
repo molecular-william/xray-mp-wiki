@@ -79,8 +79,8 @@ The NsXeR photocycle in nanodiscs is 27 ms (faster than in liposomes at 50 ms). 
 
 - [BcXeR (Xenorhodopsin from Bacillus coahuilensis)](/xray-mp-wiki/proteins/rhodopsins/bcxer/) — Related bacterial xenorhodopsin with similar inward proton pumping function and detailed proton wire mechanism
 - [Schizorhodopsin SzR4](/xray-mp-wiki/proteins/rhodopsins/schizorhodopsin/) — Another class of inward proton pumps from Asgard archaea, providing a mechanistic comparison to XeRs
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — NsXeR is a member of the microbial rhodopsin family
-- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-photocycle/) — NsXeR exhibits a photocycle with MI and M2 intermediate states
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — NsXeR is a member of the microbial rhodopsin family
+- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/) — NsXeR exhibits a photocycle with MI and M2 intermediate states
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — All-trans retinal is the chromophore covalently bound via Schiff base to Lys213
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — NsXeR was crystallized using the in meso (LCP) method
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Archetypal outward proton pump for comparison of pumping mechanisms

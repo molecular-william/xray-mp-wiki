@@ -90,5 +90,5 @@ In the pretranslocation state bound with maltoheptaose, the first four glucosyl 
 - [Maltose](/xray-mp-wiki/reagents/additives/maltose/) — Physiological substrate; binds in MBP cleft
 - [Adenosine Triphosphate (ATP)](/xray-mp-wiki/reagents/ligands/atp/) — MBP stimulates ATP hydrolysis upon delivering substrate to TM subunits
 - [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Buffer used for MBP purification and storage
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — ABC transporter transport mechanism
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — ABC transporter transport mechanism
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — MBP structure (1OMP) used as search model for phasing

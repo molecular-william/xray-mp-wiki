@@ -72,5 +72,5 @@ The TmPiT structure informs disease-associated mutations in human PiT (hPiT1/SLC
 
 ## Cross-References
 
-- [Elevator Mechanism](/xray-mp-wiki/concepts/elevator-mechanism/) — TmPiT uses an elevator-like mechanism for phosphate/sodium transport
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — TmPiT operates via alternating access between outward and inward conformations
+- [Elevator Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/elevator-mechanism/) — TmPiT uses an elevator-like mechanism for phosphate/sodium transport
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — TmPiT operates via alternating access between outward and inward conformations

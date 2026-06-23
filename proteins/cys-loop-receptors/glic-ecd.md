@@ -14,7 +14,7 @@ verified: true
 
 ## Overview
 
-The extracellular domain (ECD) of the [Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/cys-loop-receptor-family/) ([Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/cys-loop-receptor-family/)) from *Gloeobacter violaceus* ([GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp-wiki/proteins/glic)). [GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp-wiki/proteins/glic) is a bacterial proton-gated ion channel homologous to eukaryotic Cys-loop receptors including the nicotinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) receptor (nAChR). The isolated ECD was crystallized at neutral pH, revealing an unexpected hexameric quaternary structure instead of the expected pentameric assembly. This finding demonstrated that the transmembrane domain is necessary for proper pentameric oligomeric assembly of [GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp-wiki/proteins/glic).
+The extracellular domain (ECD) of the [Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) ([Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/)) from *Gloeobacter violaceus* ([GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp-wiki/proteins/glic)). [GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp-wiki/proteins/glic) is a bacterial proton-gated ion channel homologous to eukaryotic Cys-loop receptors including the nicotinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) receptor (nAChR). The isolated ECD was crystallized at neutral pH, revealing an unexpected hexameric quaternary structure instead of the expected pentameric assembly. This finding demonstrated that the transmembrane domain is necessary for proper pentameric oligomeric assembly of [GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp-wiki/proteins/glic).
 
 ## Structure Determination
 
@@ -71,7 +71,7 @@ The crystal structure of the [GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp
 
 ## Cross-References
 
-- [Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/cys-loop-receptor-family/) — Referenced in glic-ecd
+- [Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) — Referenced in glic-ecd
 - [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Referenced in glic-ecd
 - [Vapor Diffusion Crystallization](/xray-mp-wiki/methods/crystallization/vapor-diffusion/) — Referenced in glic-ecd
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Referenced in glic-ecd

@@ -80,8 +80,8 @@ A cluster of conserved residues including His 159, Arg 160, Ile 161, Leu 171, an
 - [Sodium Phosphate Buffer](/xray-mp-wiki/reagents/buffers/sodium-phosphate/) — Buffer component in purification buffers
 - [Cellobiose](/xray-mp-wiki/reagents/additives/cellobiose/) — Additive (5 mM) in purification buffers for BcsA-BcsB complex
 - [Magnesium Chloride (MgCl2)](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Additive (5 mM) in solubilization buffer
-- [GT-A Fold (Glycosyltransferase A Fold)](/xray-mp-wiki/concepts/gt-a-fold/) — Structural domain of partner protein BcsA
-- [PilZ Domain](/xray-mp-wiki/concepts/pilz-domain/) — Cyclic-di-GMP binding domain of partner protein BcsA
+- [GT-A Fold (Glycosyltransferase A Fold)](/xray-mp-wiki/concepts/structural-mechanisms/gt-a-fold/) — Structural domain of partner protein BcsA
+- [PilZ Domain](/xray-mp-wiki/concepts/structural-mechanisms/pilz-domain/) — Cyclic-di-GMP binding domain of partner protein BcsA
 - [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Referenced in the context of Glucose
 - [Mgcl2](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Referenced in the context of Mgcl2
 - [PEG200](/xray-mp-wiki/reagents/additives/peg200/) — Referenced in the context of PEG200

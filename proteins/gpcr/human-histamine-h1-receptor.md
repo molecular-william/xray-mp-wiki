@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-The human histamine H1 receptor (H1R) is a [G Protein](/xray-mp-wiki/concepts/g-protein/)-coupled receptor ([GPCR](/xray-mp-wiki/concepts/gpcr/)) belonging to the aminergic receptor subfamily of class A GPCRs. H1R is expressed in various human tissues including airway, intestinal, and vascular smooth muscle and brain, where it mediates the effects of histamine in type I hypersensitivity allergic reactions and inflammation. The first X-ray crystal structure of H1R was determined at 3.1 A resolution in complex with the first-generation antagonist [Doxepin](/xray-mp-wiki/reagents/ligands/doxepin) (Shimamura et al., 2011, PDB 3RZE). The structure reveals that doxepin sits deep in the ligand-binding pocket, directly interacting with Trp428^6.48, a highly conserved key residue in GPCR activation. A unique anion-binding region occupied by a phosphate ion was observed at the entrance to the binding pocket, coordinated by Lys179^ECL2, Lys191^5.39, Tyr431^6.51, and His450^7.35. H1R is structurally most similar to the beta2-adrenergic receptor, beta1-adrenergic receptor, and dopamine D3 receptor among known GPCR structures. The structure provides a molecular basis for understanding H1R antagonist specificity.
+The human histamine H1 receptor (H1R) is a [G Protein](/xray-mp-wiki/concepts/signaling-receptors/g-protein/)-coupled receptor ([GPCR](/xray-mp-wiki/concepts/signaling-receptors/gpcr/)) belonging to the aminergic receptor subfamily of class A GPCRs. H1R is expressed in various human tissues including airway, intestinal, and vascular smooth muscle and brain, where it mediates the effects of histamine in type I hypersensitivity allergic reactions and inflammation. The first X-ray crystal structure of H1R was determined at 3.1 A resolution in complex with the first-generation antagonist [Doxepin](/xray-mp-wiki/reagents/ligands/doxepin) (Shimamura et al., 2011, PDB 3RZE). The structure reveals that doxepin sits deep in the ligand-binding pocket, directly interacting with Trp428^6.48, a highly conserved key residue in GPCR activation. A unique anion-binding region occupied by a phosphate ion was observed at the entrance to the binding pocket, coordinated by Lys179^ECL2, Lys191^5.39, Tyr431^6.51, and His450^7.35. H1R is structurally most similar to the beta2-adrenergic receptor, beta1-adrenergic receptor, and dopamine D3 receptor among known GPCR structures. The structure provides a molecular basis for understanding H1R antagonist specificity.
 
 
 ## Structure Determination
@@ -79,8 +79,8 @@ H1R antagonists act as highly effective inverse agonists, reducing basal recepto
 
 ## Cross-References
 
-- [G Protein](/xray-mp-wiki/concepts/g-protein/) — Related entity
-- [GPCR](/xray-mp-wiki/concepts/gpcr/) — H1R is a class A GPCR
+- [G Protein](/xray-mp-wiki/concepts/signaling-receptors/g-protein/) — Related entity
+- [GPCR](/xray-mp-wiki/concepts/signaling-receptors/gpcr/) — H1R is a class A GPCR
 - [Human Beta2-Adrenergic Receptor](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Comparative structural analysis with aminergic GPCR
 - [Human Beta-2 Adrenergic Receptor](/xray-mp-wiki/proteins/gpcr/human-beta-2-adrenergic-receptor/) — Comparative structural analysis
 - [Human Histamine H3 Receptor](/xray-mp-wiki/proteins/gpcr/human-histamine-h3-receptor/) — Related histamine receptor subtype

@@ -94,7 +94,7 @@ The pre-M1 loop arginine R218 is surrounded by negatively charged residues E53 (
 - [GLIC](/xray-mp-wiki/proteins/cys-loop-receptors/glic/) — Prokaryotic pLGIC homolog; M2 helix bundle in 5-HT3A resembles open GLIC conformation
 - [GluCl](/xray-mp-wiki/proteins/cys-loop-receptors/glucl/) — C. elegans pLGIC homolog; used in structural superposition to trace closed-to-open conformational trajectory
 - [Acetylcholine-Binding Protein (AChBP)](/xray-mp-wiki/proteins/cys-loop-receptors/acetylcholine-binding-protein/) — Soluble surrogate for Cys-loop receptor extracellular domains; used to explore binding site anatomy
-- [Cys-Loop Receptor Family](/xray-mp-wiki/concepts/cys-loop-receptor-family/) — 5-HT3A belongs to the Cys-loop receptor superfamily of pentameric ligand-gated ion channels
+- [Cys-Loop Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) — 5-HT3A belongs to the Cys-loop receptor superfamily of pentameric ligand-gated ion channels
 - [VHH15 Nanobody](/xray-mp-wiki/reagents/antibodies/vhh15/) — Llama-derived nanobody used as crystallization chaperone; binds with sub-nanomolar affinity to stabilize non-conducting state
 - [C12E9 (Nonyl Glucoside)](/xray-mp-wiki/reagents/detergents/c12e9/) — Nonionic detergent used for solubilization of membrane fractions containing the 5-HT3A receptor
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

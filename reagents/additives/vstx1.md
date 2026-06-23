@@ -41,4 +41,4 @@ No comparison data available.
 ## Cross-References
 
 - [KvAP Voltage-Dependent Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kvap/) — VSTX1 binding used to validate KvAP isolated voltage-sensor domain structure
-- [Voltage-Sensor Paddle](/xray-mp-wiki/concepts/voltage-sensor-paddle/) — VSTX1 binds to the voltage-sensor paddle region to inhibit channel gating
+- [Voltage-Sensor Paddle](/xray-mp-wiki/concepts/construct-design/voltage-sensor-paddle/) — VSTX1 binds to the voltage-sensor paddle region to inhibit channel gating

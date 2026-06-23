@@ -105,5 +105,5 @@ The chimera showed no detectable channel activity in planar lipid membranes (POP
 - [Nonylglucoside (NG)](/xray-mp-wiki/reagents/detergents/nonylglucoside/) — Primary detergent for purification and crystallization; observed bound at PIP2-binding site
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Used at 20 mM for membrane extraction during purification
 - [French Press](/xray-mp-wiki/methods/cell-lysis/french-press/) — Cell lysis method at 15,000 psi
-- [Selectivity Filter](/xray-mp-wiki/concepts/selectivity-filter/) — The chimera structure demonstrates extreme structural conservation of the K+ selectivity filter
-- [Channel Gating](/xray-mp-wiki/concepts/channel-gating/) — Dual-gate mechanism (inner helix bundle and G-loop) elucidated by two conformations in the same crystal
+- [Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/) — The chimera structure demonstrates extreme structural conservation of the K+ selectivity filter
+- [Channel Gating](/xray-mp-wiki/concepts/transport-mechanisms/channel-gating/) — Dual-gate mechanism (inner helix bundle and G-loop) elucidated by two conformations in the same crystal

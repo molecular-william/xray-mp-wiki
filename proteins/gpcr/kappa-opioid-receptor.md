@@ -173,7 +173,7 @@ Nalfurafine destabilizes the K2275.39-E2976.58 salt bridge. W2876.48A selectivel
 - [MP1104](/xray-mp-wiki/reagents/ligands/mp1104/) — Co-crystallized agonist in PDB 6B73
 - [Nalfurafine](/xray-mp-wiki/reagents/ligands/nalfurafine/) — G protein-biased KOR agonist co-crystallized in the 2023 structure
 - [GPCR Biased Signaling](/xray-mp-wiki/concepts/gpcr-biased-signaling/) — The occluded state mechanism explains G protein bias at KOR
-- [NPxxY Motif](/xray-mp-wiki/concepts/npxxy-motif/) — Important functional motif in KOR activation
-- [Beta-Arrestin](/xray-mp-wiki/concepts/beta-arrestin/) — Key signaling pathway for KOR
+- [NPxxY Motif](/xray-mp-wiki/concepts/structural-mechanisms/npxxy-motif/) — Important functional motif in KOR activation
+- [Beta-Arrestin](/xray-mp-wiki/concepts/signaling-receptors/beta-arrestin/) — Key signaling pathway for KOR
 - [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Expression system used for KOR production
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Purification method used for KOR

@@ -89,10 +89,10 @@ CIR chloride-binding site at PSB is structurally similar to [Halorhodopsin](/xra
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Archetypal microbial light-driven proton pump with DTD motif
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Chromophore covalently bound to Lys235 via Schiff base
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — CIR crystallized using LCP method
-- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-photocycle/) — CIR functions through a rhodopsin photocycle
+- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/) — CIR functions through a rhodopsin photocycle
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for CIR solubilization
 - [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) — Used in cell wash buffers
 - [Oleic Acid](/xray-mp-wiki/reagents/lipids/oleic-acid/) — Binds to CIR C-terminal helix on TM A
-- [NTQ Motif](/xray-mp-wiki/concepts/ntq-motif/) — CIR contains the defining NTQ motif
+- [NTQ Motif](/xray-mp-wiki/concepts/transport-mechanisms/ntq-motif/) — CIR contains the defining NTQ motif
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Referenced in the context of Retinal
 - [Iptg](/xray-mp-wiki/reagents/additives/iptg/) — Referenced in the context of Iptg

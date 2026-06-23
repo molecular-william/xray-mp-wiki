@@ -84,10 +84,10 @@ The AhlABC pore assembles through a stepwise mechanism: (1) AhlC tetramer disass
 
 ## Cross-References
 
-- [Pore-Forming Toxins](/xray-mp-wiki/concepts/pore-forming-toxins/) — AhlABC is an alpha-pore forming toxin in the ClyA family
+- [Pore-Forming Toxins](/xray-mp-wiki/concepts/structural-mechanisms/pore-forming-toxins/) — AhlABC is an alpha-pore forming toxin in the ClyA family
 - [ClyA Cytotoxin from Escherichia coli](/xray-mp-wiki/proteins/toxins/clyA/) — ClyA is the prototypical single-component alpha-PFT; AhlABC components have structural similarity to ClyA
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Method used in the study
-- [Pore-Forming Toxins](/xray-mp-wiki/concepts/pore-forming-toxins/) — Key concept related to this protein
+- [Pore-Forming Toxins](/xray-mp-wiki/concepts/structural-mechanisms/pore-forming-toxins/) — Key concept related to this protein
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein mentioned in the study
 - [ClyA Cytotoxin from Escherichia coli](/xray-mp-wiki/proteins/toxins/clyA/) — Related protein mentioned in the study
 - [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — Detergent used in purification

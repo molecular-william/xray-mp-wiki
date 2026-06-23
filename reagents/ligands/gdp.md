@@ -49,4 +49,4 @@ No comparison data available.
 
 - [Adenosine Diphosphate (ADP)](/xray-mp-wiki/reagents/ligands/adp/) — Related diphosphate nucleotide
 - [AMP-PNP (Adenylyl-Imidodiphosphate)](/xray-mp-wiki/reagents/ligands/amp-pnp/) — Non-hydrolyzable ATP analog used in G protein studies
-- [GPCR Active Conformation](/xray-mp-wiki/concepts/gpcr-active-conformation/) — GDP-bound G protein represents the active state coupled to GPCR
+- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — GDP-bound G protein represents the active state coupled to GPCR

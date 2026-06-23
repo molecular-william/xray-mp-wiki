@@ -24,7 +24,7 @@ No structure determined.
 ## Expression and Purification
 
 - **Expression system**: High-Five insect cells (co-expression with Gi1 protein)
-- **Construct**: SSTR4 with C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) (L328), V264(6.40)F mutation, HA signal peptide, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) at N-terminus, twin-strep tag at C-terminus
+- **Construct**: SSTR4 with C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (L328), V264(6.40)F mutation, HA signal peptide, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) at N-terminus, twin-strep tag at C-terminus
 - **Notes**: For [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) studies; Gi1 protein subunits co-expressed
 
 No purification described.
@@ -51,6 +51,6 @@ The hydrophobic cavity formed by helix VI, ECL3 and helix VII, along with non-co
 ## Cross-References
 
 - [Somatostatin Receptor 2 (SSTR2)](/xray-mp-wiki/proteins/gpcr/sstr2/) — Related SSTR family member with distinct ligand selectivity
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Method used in structure determination or purification
 - [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) — Fusion tag for crystallization or purification

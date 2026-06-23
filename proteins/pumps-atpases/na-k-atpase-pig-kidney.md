@@ -198,12 +198,12 @@ The isoform specificity of CTSs is explained by size differences in the mouth of
 - [Magnesium Chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Essential cofactor; Mg2+ required for phosphorylation, ATPase activity, and ouabain binding
 - [C12E8 (Octaethylene Glycol Dodecyl Ether)](/xray-mp-wiki/reagents/detergents/c12e8/) — Detergent used for solubilization of Na+,K+-ATPase for crystallization
 - [Polyethylene Glycol (PEG)](/xray-mp-wiki/reagents/additives/peg/) — PEG 2000 MME used as crystallization precipitant
-- [P-type ATPase Family](/xray-mp-wiki/concepts/p-type-atpase/) — Na+,K+-ATPase is a member of the P-type ATPase family
+- [P-type ATPase Family](/xray-mp-wiki/concepts/protein-families/p-type-atpase/) — Na+,K+-ATPase is a member of the P-type ATPase family
 - [Ouabain](/xray-mp-wiki/reagents/ligands/ouabain/) — Cardiotonic steroid that specifically inhibits Na+,K+-ATPase by binding with high affinity to the E2P state
 - [Digoxin](/xray-mp-wiki/reagents/ligands/digoxin/) — Trisaccharide-conjugated cardenolide CTS; E2P-digoxin complex structure at 3.9 A
 - [Bufalin](/xray-mp-wiki/reagents/ligands/bufalin/) — Nonglycosylated bufadienolide CTS; E2P-bufalin complex structure at 3.4 A
-- [Cardiotonic Steroids](/xray-mp-wiki/concepts/cardiotonic-steroids/) — Na+,K+-ATPase is the primary target of cardiotonic steroids
+- [Cardiotonic Steroids](/xray-mp-wiki/concepts/miscellaneous/cardiotonic-steroids/) — Na+,K+-ATPase is the primary target of cardiotonic steroids
 - [Rostafuroxin](/xray-mp-wiki/reagents/ligands/rostafuroxin/) — Novel CTS in clinical trials; E2P-ROS complex structure reveals superficial binding mode
 - [Digitoxin](/xray-mp-wiki/reagents/ligands/digitoxin/) — Cardenolide CTS with tridigitoxose; E2P-DTX complex structure at ~3.5 A
 - [Istaroxime](/xray-mp-wiki/reagents/ligands/istaroxime/) — Next-generation CTS in clinical trials; E2P-IST complex structure
-- [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/phosphoenzyme-e2p-state/) — E2·BeF3- structure provides the E2P ground state model for understanding CTS binding
+- [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/enzyme-mechanisms/phosphoenzyme-e2p-state/) — E2·BeF3- structure provides the E2P ground state model for understanding CTS binding

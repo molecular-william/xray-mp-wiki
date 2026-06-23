@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Human [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide reductase (HsVKOR) is an integral membrane enzyme of the endoplasmic reticulum that catalyzes the reduction of [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide to [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) hydroquinone, a critical step in the [Vitamin K Cycle](/xray-mp-wiki/concepts/vitamin-k-cycle/) that sustains blood coagulation. HsVKOR is the target of [Warfarin](/xray-mp-wiki/reagents/ligands/warfarin/) and related [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) antagonists, which are widely used oral anticoagulants. The structure reveals a four-transmembrane-helix bundle (TM1-4) that creates a central pocket housing the active site cysteines Cys132 and Cys135. A large ER-luminal region connecting TM1 and TM2 contains a beta-hairpin, cap domain, and anchor domain that together cover the active site pocket. The enzyme undergoes open-to-closed conformational changes during its catalytic cycle, and [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) antagonists inhibit by mimicking the binding interactions of the natural substrates.
+Human [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide reductase (HsVKOR) is an integral membrane enzyme of the endoplasmic reticulum that catalyzes the reduction of [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide to [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) hydroquinone, a critical step in the [Vitamin K Cycle](/xray-mp-wiki/concepts/enzyme-mechanisms/vitamin-k-cycle/) that sustains blood coagulation. HsVKOR is the target of [Warfarin](/xray-mp-wiki/reagents/ligands/warfarin/) and related [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) antagonists, which are widely used oral anticoagulants. The structure reveals a four-transmembrane-helix bundle (TM1-4) that creates a central pocket housing the active site cysteines Cys132 and Cys135. A large ER-luminal region connecting TM1 and TM2 contains a beta-hairpin, cap domain, and anchor domain that together cover the active site pocket. The enzyme undergoes open-to-closed conformational changes during its catalytic cycle, and [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) antagonists inhibit by mimicking the binding interactions of the natural substrates.
 
 
 ## Structure Determination
@@ -107,10 +107,10 @@ The warfarin-bound structure differs from the 3-OH K-bound structure. In the 3-O
 - [TrVKORL](/xray-mp-wiki/proteins/enzymes/trvkorl/) — Pufferfish VKOR-like protein used for ligand-free structural comparison
 - [Warfarin](/xray-mp-wiki/reagents/ligands/warfarin/) — Primary VKA inhibitor bound in HsVKOR structures
 - [Brodifacoum](/xray-mp-wiki/reagents/ligands/brodifacoum/) — Superwarfarin bound in HsVKOR structure 6WVH
-- [Termini Restraining](/xray-mp-wiki/concepts/termini-restraining/) — HsVKOR structure was determined using the termini-restraining approach with split sfGFP
-- [Vitamin K Catalytic Cycle](/xray-mp-wiki/concepts/vitamin-k-catalytic-cycle/) — Central enzymatic cycle catalyzed by HsVKOR
+- [Termini Restraining](/xray-mp-wiki/concepts/miscellaneous/termini-restraining/) — HsVKOR structure was determined using the termini-restraining approach with split sfGFP
+- [Vitamin K Catalytic Cycle](/xray-mp-wiki/concepts/enzyme-mechanisms/vitamin-k-catalytic-cycle/) — Central enzymatic cycle catalyzed by HsVKOR
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for HsVKOR purification
 - [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) — Detergent used for SEC and final sample of HsVKOR
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used for LCP crystallization of HsVKOR
-- [Vitamin K Cycle](/xray-mp-wiki/concepts/vitamin-k-cycle/) — Related biological concept
+- [Vitamin K Cycle](/xray-mp-wiki/concepts/enzyme-mechanisms/vitamin-k-cycle/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

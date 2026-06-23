@@ -48,5 +48,5 @@ No comparison data available.
 
 - [CC Chemokine Receptor 2 with T4 Lysozyme Fusion (CCR2-T4L)](/xray-mp-wiki/proteins/gpcr/ccr2-t4l/) — Co-crystallized allosteric antagonist; primary binding target
 - [BMS-681](/xray-mp-wiki/reagents/ligands/bms-681/) — Orthosteric antagonist that cooperates with CCR2-RA-[R] to stabilize inactive CCR2
-- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/allosteric-regulation/) — CCR2-RA-[R] is a paradigm example of negative allosteric modulation in GPCRs
-- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/gpcr-inactive-conformation/) — CCR2-RA-[R] blocks activation-associated conformational changes
+- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — CCR2-RA-[R] is a paradigm example of negative allosteric modulation in GPCRs
+- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — CCR2-RA-[R] blocks activation-associated conformational changes

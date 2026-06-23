@@ -62,7 +62,7 @@ TMEM16A contributes to epithelial chloride secretion, electrical signaling in sm
 ## Cross-References
 
 - [nhTMEM16 (TMEM16 Lipid Scramblase from Nectria haematococca)](/xray-mp-wiki/proteins/miscellaneous/nhtmem16/) — Homologous TMEM16 protein; Ca2+ binding site mutations affect both ion conduction and lipid scrambling
-- [TMEM16 Family](/xray-mp-wiki/concepts/tmem16-family/) — mTMEM16A is the prototype of the TMEM16 chloride channel subfamily
+- [TMEM16 Family](/xray-mp-wiki/concepts/protein-families/tmem16-family/) — mTMEM16A is the prototype of the TMEM16 chloride channel subfamily
 - [Calcium Chloride](/xray-mp-wiki/reagents/additives/calcium-chloride/) — Ca2+ is the activating ligand for TMEM16A channel activity
 - [EGTA (Ethylene Glycol Tetraacetic Acid)](/xray-mp-wiki/reagents/additives/egta/) — Ca2+ chelator used in TMEM16A patch-clamp experiments to control free Ca2+
 - [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Additive used in purification or crystallization buffers

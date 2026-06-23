@@ -94,4 +94,4 @@ When only the TMR of synaptobrevin-2 was present in the complex, stability was l
 - [Heptylglucoside (HpG)](/xray-mp-wiki/reagents/detergents/heptylglucoside/) — n-heptyl beta-D-glucopyranoside used for alternative crystallization (140 mM)
 - [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — n-octyl beta-D-glucopyranoside used in purification buffer (50 mM)
 - [n-Dodecyl-beta-D-maltopyranoside (beta-DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — n-dodecyl beta-D-maltopyranoside (0.03% w/v) used for endosomal SNARE complex purification
-- [SNARE Complex](/xray-mp-wiki/concepts/snare-complex/) — Synaptobrevin-2 is the Qc-SNARE component of the four-helix bundle SNARE complex
+- [SNARE Complex](/xray-mp-wiki/concepts/structural-mechanisms/snare-complex/) — Synaptobrevin-2 is the Qc-SNARE component of the four-helix bundle SNARE complex

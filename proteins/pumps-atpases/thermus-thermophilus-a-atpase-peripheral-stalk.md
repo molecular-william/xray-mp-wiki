@@ -84,8 +84,8 @@ The crystal structures of PS1 and PS2 were derived from protein expressed and cr
 
 - [V1-ATPase T. thermophilus](/xray-mp-wiki/proteins/pumps-atpases/v1-atpase-t-thermophilus/) — Related rotary ATPase from same organism; central stalk DF subcomplex structure
 - [Subunit E of Pyrococcus horikoshii OT3 A-ATP Synthase](/xray-mp-wiki/proteins/pumps-atpases/ph-e-subunit-e/) — Related peripheral stalk subunit E from archaeal A-ATP synthase with S-shaped elastic connector
-- [Peripheral Stalk Elasticity in ATP Synthase](/xray-mp-wiki/concepts/peripheral-stalk-elasticity/) — Concept describing elastic function of peripheral stalk in ATP synthases
-- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/rotary-atpase-mechanism/) — Rotary catalytic mechanism implemented by A-ATPase complex
+- [Peripheral Stalk Elasticity in ATP Synthase](/xray-mp-wiki/concepts/enzyme-mechanisms/peripheral-stalk-elasticity/) — Concept describing elastic function of peripheral stalk in ATP synthases
+- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/) — Rotary catalytic mechanism implemented by A-ATPase complex
 - [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — Crystallization buffer at 100 mM, pH 7.5
 - [Calcium Acetate](/xray-mp-wiki/reagents/additives/calcium-acetate/) — Crystallization additive at 200 mM
 - [MIRAS Phasing](/xray-mp-wiki/methods/structure-determination/miras/) — Structure determined by MIRAS using Lu and Dy heavy atom derivatives

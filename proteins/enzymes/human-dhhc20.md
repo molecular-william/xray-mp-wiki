@@ -128,7 +128,7 @@ catalytic activity.
 
 ## Cross-References
 
-- [DHHC Palmitoyltransferase Family](/xray-mp-wiki/concepts/dhhc-palmitoyltransferase-family/) — hDHHC20 is a member of the DHHC family of S-acyltransferases
+- [DHHC Palmitoyltransferase Family](/xray-mp-wiki/concepts/protein-families/dhhc-palmitoyltransferase-family/) — hDHHC20 is a member of the DHHC family of S-acyltransferases
 - [n-Dodecyl-beta-D-maltoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Used for purification and stabilization of hDHHC20 (1 mM in affinity, 0.5 mM in SEC)
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Used as LCP host lipid for crystallization of hDHHC20
 - [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Method used in structure determination or purification

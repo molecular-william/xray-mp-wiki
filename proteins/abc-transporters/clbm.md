@@ -49,7 +49,7 @@ ClbM transports precolibactin from the cytoplasm across the inner membrane to th
 
 ## Cross-References
 
-- [MATE Transporter Family](/xray-mp-wiki/concepts/mate-transporter-family/) — ClbM is a member of the MATE family of multidrug transporters
-- [Antibiotic Efflux Pump](/xray-mp-wiki/concepts/antibiotic-efflux-pump/) — MATE transporters function as multidrug efflux pumps
+- [MATE Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/mate-transporter-family/) — ClbM is a member of the MATE family of multidrug transporters
+- [Antibiotic Efflux Pump](/xray-mp-wiki/concepts/transport-mechanisms/antibiotic-efflux-pump/) — MATE transporters function as multidrug efflux pumps
 - [Pfmate](/xray-mp-wiki/proteins/abc-transporters/pfmate/) — Referenced in the context of Pfmate
 - [Norm Vc](/xray-mp-wiki/proteins/abc-transporters/norM-vc/) — Referenced in the context of Norm Vc

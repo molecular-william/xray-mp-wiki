@@ -97,7 +97,7 @@ GBR2_VFT remains open in all states (apo, antagonist-bound, and agonist-bound), 
 ## Cross-References
 
 - [Human GABA_A Receptor Beta-3 Subunit](/xray-mp-wiki/proteins/cys-loop-receptors/gabar-b3/) — Related GABA receptor; GABA_A is an ion channel, GABA_B is a GPCR
-- [G Protein-Coupled Receptor (GPCR)](/xray-mp-wiki/concepts/gpcr/) — GABA_B R is a class C GPCR that functions as an obligatory heterodimer
+- [G Protein-Coupled Receptor (GPCR)](/xray-mp-wiki/concepts/signaling-receptors/gpcr/) — GABA_B R is a class C GPCR that functions as an obligatory heterodimer
 - [Baclofen](/xray-mp-wiki/reagents/ligands/baclofen/) — Selective GABA_B agonist used clinically to treat muscle spasticity
 - [GABA](/xray-mp-wiki/reagents/ligands/gaba/) — Endogenous agonist for GABA_B receptor
 - [Baculovirus Expression](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Expression system used for GBR1b_VFT and GBR2_VFT in Sf9 cells

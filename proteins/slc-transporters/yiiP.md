@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-YiiP is a Zn²⁺/H⁺ antiporter from the [Cation Diffusion Facilitator (CDF) Family](/xray-mp-wiki/concepts/cation-diffusion-facilitator-family/)
+YiiP is a Zn²⁺/H⁺ antiporter from the [Cation Diffusion Facilitator (CDF) Family](/xray-mp-wiki/concepts/protein-families/cation-diffusion-facilitator-family/)
 that catalyzes zinc efflux across the inner membrane of Escherichia coli. It
 forms a homodimer with a Y-shaped architecture: the two cytoplasmic domains
 form the dimer interface through four Zn²⁺ ions, while the two transmembrane
@@ -103,6 +103,6 @@ Zn²⁺ and Cd²⁺ over Ca²⁺, Mg²⁺, Ni²⁺, Co²⁺, and Mn²⁺.
 
 ## Cross-References
 
-- [Cation Diffusion Facilitator (CDF) Family](/xray-mp-wiki/concepts/cation-diffusion-facilitator-family/) — YiiP is the founding structurally characterized CDF family member
+- [Cation Diffusion Facilitator (CDF) Family](/xray-mp-wiki/concepts/protein-families/cation-diffusion-facilitator-family/) — YiiP is the founding structurally characterized CDF family member
 - [MIRAS](/xray-mp-wiki/methods/structure-determination/miras/) — Method used in structure determination or purification
 - [EDTA](/xray-mp-wiki/reagents/additives/edta/) — Additive used in purification or crystallization buffers

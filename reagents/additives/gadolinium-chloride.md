@@ -43,4 +43,4 @@ No comparison data available.
 
 - [Zebrafish P2X4 Receptor (zfP2X4)](/xray-mp-wiki/proteins/other-ion-channels/zfp2x4/) — Primary model for Gd3+ inhibition studies; concentration-dependent block characterized
 - [Adenosine Triphosphate (ATP)](/xray-mp-wiki/reagents/ligands/atp/) — Orthosteric agonist; Gd3+ inhibition tested against ATP-evoked currents
-- [P2X Receptor Family](/xray-mp-wiki/concepts/p2x-receptor-family/) — Gd3+ is a characteristic pharmacological inhibitor of P2X receptors
+- [P2X Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/p2x-receptor-family/) — Gd3+ is a characteristic pharmacological inhibitor of P2X receptors

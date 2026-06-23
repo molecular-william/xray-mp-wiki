@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Human [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) 4 (hAQP4) is the predominant water channel in the mammalian brain, expressed at the blood-brain and brain-cerebrospinal fluid interfaces of glial cells. The 1.8 Å crystal structure reveals the molecular basis for water selectivity and proton exclusion in the [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/).
+Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) 4 (hAQP4) is the predominant water channel in the mammalian brain, expressed at the blood-brain and brain-cerebrospinal fluid interfaces of glial cells. The 1.8 Å crystal structure reveals the molecular basis for water selectivity and proton exclusion in the [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/).
 
 
 ## Structure Determination
@@ -89,13 +89,13 @@ earlier reports of micromolar inhibition.
 
 ## Cross-References
 
-- [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) — hAQP4 is a member of the aquaporin family
+- [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — hAQP4 is a member of the aquaporin family
 - [Aquaporin Z (AqpZ)](/xray-mp-wiki/proteins/other-ion-channels/aquaporin-z/) — Comparative structural analysis with AqpZ
 - [Glycerol Facilitator (GlpF)](/xray-mp-wiki/proteins/other-ion-channels/glycerol-facilitator/) — Comparative analysis of water/glycerol selectivity
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Used in crystallization; bound in extracellular vestibule
 - [Tetraethylammonium](/xray-mp-wiki/reagents/tetraethylammonium/) — Tested as AQP4 inhibitor
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Used for phasing with rat AQP4 (2D57) as search model
 - [Molecular Dynamics Simulation](/xray-mp-wiki/methods/molecular-dynamics-simulation/) — MD simulations of water dynamics in the NPA region
-- [Selectivity Filter](/xray-mp-wiki/concepts/selectivity-filter/) — Arg-216 and His-201 form the selectivity filter
+- [Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/) — Arg-216 and His-201 form the selectivity filter
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [AQP1](/xray-mp-wiki/proteins/other-ion-channels/aqp1/) — Related protein structure

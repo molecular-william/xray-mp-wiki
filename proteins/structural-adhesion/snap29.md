@@ -53,5 +53,5 @@ SNARE core complex formation.
 
 - [Syntaxin17 (STX17)](/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/) — SNAP29 assembles with STX17 and VAMP8 to form the autophagic SNARE complex
 - [VAMP8](/xray-mp-wiki/proteins/structural-adhesion/vamp8/) — VAMP8 is the R-SNARE partner in the autophagic SNARE complex
-- [Autophagic SNARE Fusion Mechanism](/xray-mp-wiki/concepts/autophagic-snare-fusion-mechanism/) — SNAP29 provides two of the four helices in the autophagic SNARE complex
+- [Autophagic SNARE Fusion Mechanism](/xray-mp-wiki/concepts/construct-design/autophagic-snare-fusion-mechanism/) — SNAP29 provides two of the four helices in the autophagic SNARE complex
 - [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Additive used in purification or crystallization buffers

@@ -50,7 +50,7 @@ No examples from this wiki.
 ### Disadvantages
 
 - {'title': 'Low photosensitivity', 'content': "Rh6mr has only about 4.3% of native rhodopsin's photosensitivity, requiring longer illumination periods to reach photo-stationary state."}
-- {'title': 'Slow cycle time', 'content': 'Thermal reisomerization takes 24-48 hours at 20 C, making the photocycle much slower than [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/).'}
+- {'title': 'Slow cycle time', 'content': 'Thermal reisomerization takes 24-48 hours at 20 C, making the photocycle much slower than [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/).'}
 
 ## Comparison with Related Reagents
 
@@ -58,9 +58,9 @@ No comparison data available.
 
 ## Cross-References
 
-- [Photocyclic GPCR Activation](/xray-mp-wiki/concepts/photocyclic-gpcr-activation/) — 6mr enables photocyclic GPCR activation when bound to bovine rhodopsin
+- [Photocyclic GPCR Activation](/xray-mp-wiki/concepts/signaling-receptors/photocyclic-gpcr-activation/) — 6mr enables photocyclic GPCR activation when bound to bovine rhodopsin
 - [Bovine Rhodopsin](/xray-mp-wiki/proteins/gpcr/bovine-rhodopsin/) — 6mr binds to bovine rhodopsin in the retinal-binding pocket
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — Related biological concept
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — Related biological concept
 - [OPSIN](/xray-mp-wiki/proteins/gpcr/opsin/) — Related protein structure
 - [11-cis-Retinal](/xray-mp-wiki/reagents/ligands/11-cis-retinal/) — Related ligand or cofactor
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Related ligand or cofactor

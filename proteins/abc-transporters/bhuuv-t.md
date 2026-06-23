@@ -81,8 +81,8 @@ Pull-down assays demonstrate that [ATP](/xray-mp-wiki/reagents/ligands/atp/) or 
 
 ## Cross-References
 
-- [ABC Transporter Family](/xray-mp-wiki/concepts/abc-transporter-family/) — BhuUV-T is a type II ABC transporter
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Inward/outward-facing conformations illustrate alternating access
+- [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — BhuUV-T is a type II ABC transporter
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Inward/outward-facing conformations illustrate alternating access
 - [French Press Cell Lysis](/xray-mp-wiki/methods/cell-lysis/french-press/) — Used for cell lysis in BhuUV-T purification
 - [n-Decyl-β-D-Maltopyranoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Detergent used for membrane solubilization
 - [AMP-PNP](/xray-mp-wiki/reagents/ligands/amp-pnp/) — ATP analog used in pull-down assays

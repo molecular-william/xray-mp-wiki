@@ -74,7 +74,7 @@ Comparison of the alpha4beta2 receptor with reference structures (GlyR-open, GAB
 - [Human GABA_A Receptor Beta-3 Subunit](/xray-mp-wiki/proteins/cys-loop-receptors/gabar-b3/) — Cys-loop receptor homologue; desensitized state used for pore conformation comparison
 - [Mouse 5-HT3A Receptor](/xray-mp-wiki/proteins/cys-loop-receptors/mouse-5ht3a-receptor/) — Homopentameric Cys-loop receptor; MX helix conformation comparison
 - [GLIC](/xray-mp-wiki/proteins/cys-loop-receptors/glic/) — Prokaryotic Cys-loop receptor; structural superposition and conformational comparison
-- [Cys-Loop Receptor Family](/xray-mp-wiki/concepts/cys-loop-receptor-family/) — Alpha4beta2 nAChR is a member of the Cys-loop receptor superfamily
-- [Desensitization in Cys-Loop Receptors](/xray-mp-wiki/concepts/desensitization-in-cys-loop-receptors/) — Alpha4beta2 receptor locked in desensitized conformation by nicotine
+- [Cys-Loop Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) — Alpha4beta2 nAChR is a member of the Cys-loop receptor superfamily
+- [Desensitization in Cys-Loop Receptors](/xray-mp-wiki/concepts/signaling-receptors/desensitization-in-cys-loop-receptors/) — Alpha4beta2 receptor locked in desensitized conformation by nicotine
 - [Baculovirus Expression](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Related protein
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Related protein

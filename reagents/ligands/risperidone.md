@@ -54,8 +54,8 @@ No comparison data available.
 
 - [Human D2 Dopamine Receptor (DRD2)](/xray-mp-wiki/proteins/gpcr/drd2/) — Primary target of risperidone; co-crystallized structure at 2.9 A
 - [Human 5-HT2A Receptor](/xray-mp-wiki/proteins/gpcr/5ht2a-receptor/) — Second target; co-crystallized structure at 3.0 A (PDB 6A93)
-- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/gpcr-inactive-conformation/) — Risperidone stabilizes the inactive state of both DRD2 and 5-HT2A
-- [Protein Thermostabilization](/xray-mp-wiki/concepts/thermostabilization/) — DRD2-risperidone structure determined using thermostabilized construct
+- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — Risperidone stabilizes the inactive state of both DRD2 and 5-HT2A
+- [Protein Thermostabilization](/xray-mp-wiki/concepts/construct-design/thermostabilization/) — DRD2-risperidone structure determined using thermostabilized construct
 - [DRD4](/xray-mp-wiki/proteins/gpcr/d4-dopamine-receptor/) — Related protein structure
 - [Dopamine](/xray-mp-wiki/reagents/ligands/dopamine/) — Related ligand or cofactor
 - [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) — Related ligand or cofactor

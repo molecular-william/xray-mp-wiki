@@ -21,12 +21,12 @@ Mouse [Dopamine](/xray-mp-wiki/reagents/ligands/dopamine/) receptor D4 ([DRD4](/
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.7554##eLife.48822 | 6IQL | 3.5 | P1 | Mouse [DRD4](/xray-mp-wiki/proteins/gpcr/d4-dopamine-receptor/) (N22 [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/), ICL3 replaced with [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/), F121W/P201I/P317A/C181R) with [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), complexed with [L745870](/xray-mp-wiki/reagents/ligands/l745870/) | [L745870](/xray-mp-wiki/reagents/ligands/l745870/) |
+| doi/10.7554##eLife.48822 | 6IQL | 3.5 | P1 | Mouse [DRD4](/xray-mp-wiki/proteins/gpcr/d4-dopamine-receptor/) (N22 [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), ICL3 replaced with [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/), F121W/P201I/P317A/C181R) with [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), complexed with [L745870](/xray-mp-wiki/reagents/ligands/l745870/) | [L745870](/xray-mp-wiki/reagents/ligands/l745870/) |
 
 ## Expression and Purification
 
 - **Expression system**: Bac-to-Bac Baculovirus Expression System in High5 (Spodoptera frugiperda) cells
-- **Construct**: Mouse [DRD4](/xray-mp-wiki/proteins/gpcr/d4-dopamine-receptor/) (GenBank BC051421.1) with N22 [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/), HA signal sequence and [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) at N-terminus, [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) (residues A1-L106 with M7W/H102I/R106L) replacing ICL3 (A220-A302), [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) site, C-terminal EGFP-10xHis tag. Mutations: F121W, P201I, P317A, C181R
+- **Construct**: Mouse [DRD4](/xray-mp-wiki/proteins/gpcr/d4-dopamine-receptor/) (GenBank BC051421.1) with N22 [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), HA signal sequence and [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) at N-terminus, [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) (residues A1-L106 with M7W/H102I/R106L) replacing ICL3 (A220-A302), [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) site, C-terminal EGFP-10xHis tag. Mutations: F121W, P201I, P317A, C181R
 - **Notes**: Expressed for 48 hr. Cells flash-frozen in liquid nitrogen and stored at -80 C
 
 ### Purification Workflow
@@ -101,7 +101,7 @@ confirmed [DRD4](/xray-mp-wiki/proteins/gpcr/d4-dopamine-receptor/) dimerization
 - [n-Dodecyl-beta-D-maltoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for purification and crystallization
 - [HEPES (HEPES-KOH Buffer)](/xray-mp-wiki/reagents/buffers/hepes/) — 25 mM HEPES pH 7.4 used throughout purification
 - [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Used in cross-linking and SEC buffers
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [DRD4](/xray-mp-wiki/proteins/gpcr/d4-dopamine-receptor/) — Related protein structure
 - [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Additive used in purification or crystallization buffers

@@ -20,7 +20,7 @@ On-chip crystallization is a method for growing protein crystals directly on mic
 
 | Protein | Resolution | PDB | Notes |
 |---|---|---|---|
-| Human [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) 2 ([AQP2](/xray-mp-wiki/proteins/other-ion-channels/aqp2/)) | 3.70 | 6qf5 | On-chip crystallized on Roadrunner II chip, room-temperature SFX at LCLS. 3377 hits from 137476 frames, 2.5% hit rate, data merged from 2903 indexed patterns. |
+| Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) 2 ([AQP2](/xray-mp-wiki/proteins/other-ion-channels/aqp2/)) | 3.70 | 6qf5 | On-chip crystallized on Roadrunner II chip, room-temperature SFX at LCLS. 3377 hits from 137476 frames, 2.5% hit rate, data merged from 2903 indexed patterns. |
 | [Proteinase K](/xray-mp-wiki/proteins/Proteinase K/) | 1.74 | 6qf1 | On-chip crystallized on Roadrunner I chip, room-temperature data at synchrotron. Data merged from 3 crystals. |
 | [Thermolysin](/xray-mp-wiki/reagents/additives/thermolysin/) | 1.73 | 6qf2 | On-chip crystallized on Roadrunner I chip, cryogenic data at PETRA III P11. Data merged from 3 crystals. |
 | [Thermolysin-aspartate complex](/xray-mp-wiki/proteins/Thermolysin-aspartate complex/) | 1.52 | 6qf3 | On-chip crystallized and soaked with 200 mM sodium aspartate on Roadrunner I chip. Data merged from 5 crystals. |
@@ -30,4 +30,4 @@ On-chip crystallization is a method for growing protein crystals directly on mic
 
 - [Serial Femtosecond Crystallography](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) — On-chip crystallization is a sample preparation method for SFX experiments
 - [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — On-chip crystallization uses sitting-drop vapor diffusion for crystal growth
-- [In Situ X-ray Crystallography](/xray-mp-wiki/concepts/in-situ-crystallography/) — On-chip crystallization is an in situ crystallography approach
+- [In Situ X-ray Crystallography](/xray-mp-wiki/concepts/methods-techniques/in-situ-crystallography/) — On-chip crystallization is an in situ crystallography approach

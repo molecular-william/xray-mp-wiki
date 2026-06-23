@@ -50,6 +50,6 @@ Mutation W34D causes dramatic alterations in photochemical function in living E.
 ## Cross-References
 
 - [Med12BPR Proteorhodopsin](/xray-mp-wiki/proteins/rhodopsins/med12bpr-proteorhodopsin/) — Related blue-light-absorbing proteorhodopsin with hexameric assembly
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — HOT75BPR is a member of the microbial rhodopsin superfamily
-- [Bacteriorhodopsin Photocycle](/xray-mp-wiki/concepts/bacteriorhodopsin-photocycle/) — Comparison with BR photocycle
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — HOT75BPR is a member of the microbial rhodopsin superfamily
+- [Bacteriorhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/bacteriorhodopsin-photocycle/) — Comparison with BR photocycle
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Crystal structures determined by X-ray crystallography

@@ -42,4 +42,4 @@ The Get1-CD coiled-coil inserts at the Get3 dimer interface, and Get2 helix alph
 ## Cross-References
 
 - [Get1/Get2 GET Insertase Complex](/xray-mp-wiki/proteins/secretion-translocon/get1-get2-complex/) — Get3 delivers TA proteins to the Get1/Get2 insertase at the ER membrane
-- [GET Pathway for Tail-Anchored Protein Insertion](/xray-mp-wiki/concepts/get-pathway/) — Get3 is the cytosolic targeting factor of the GET pathway
+- [GET Pathway for Tail-Anchored Protein Insertion](/xray-mp-wiki/concepts/miscellaneous/get-pathway/) — Get3 is the cytosolic targeting factor of the GET pathway

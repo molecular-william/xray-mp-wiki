@@ -97,6 +97,6 @@ The mammalian UT-B structure is similar to the bacterial dvUT (Desulfovibrio vul
 ## Cross-References
 
 - [Urea Transporter from Desulfovibrio vulgaris (dvUT)](/xray-mp-wiki/proteins/other-ion-channels/urea-transporter-dvut/) — Bacterial homolog of mammalian UT-B; comparison of pore architecture and selectivity filter
-- [Aquaporin](/xray-mp-wiki/concepts/aquaporin/) — Structural and mechanistic parallels between urea transporters and aquaporins (ar/R motif, Sm site analogy)
-- [Selectivity Filter](/xray-mp-wiki/concepts/selectivity-filter/) — The oxygen ladder and Sm site selectivity mechanism of UT-B is a key example of filter-based substrate discrimination
-- [Channel-like Mechanism](/xray-mp-wiki/concepts/channel-like-mechanism/) — UT-B operates by a channel-like mechanism rather than alternating-access transport
+- [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — Structural and mechanistic parallels between urea transporters and aquaporins (ar/R motif, Sm site analogy)
+- [Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/) — The oxygen ladder and Sm site selectivity mechanism of UT-B is a key example of filter-based substrate discrimination
+- [Channel-like Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/channel-like-mechanism/) — UT-B operates by a channel-like mechanism rather than alternating-access transport

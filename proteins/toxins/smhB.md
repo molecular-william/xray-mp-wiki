@@ -82,4 +82,4 @@ SmhB has two conserved binding interfaces: one for SmhC (around residues 95-123)
 
 - [SmhA](/xray-mp-wiki/proteins/toxins/smhA/) — SmhA is the A component of the SmhABC tripartite alpha-PFT, interacting with SmhB after SmhBC pro-pore formation
 - [ClyA Cytotoxin](/xray-mp-wiki/proteins/toxins/clyA/) — Prototypical single-component alpha-PFT in the same ClyA family with similar beta-tongue to pore transformation
-- [Pore-Forming Toxins](/xray-mp-wiki/concepts/pore-forming-toxins/) — SmhB is a component of a tripartite alpha-pore-forming toxin in the ClyA family
+- [Pore-Forming Toxins](/xray-mp-wiki/concepts/structural-mechanisms/pore-forming-toxins/) — SmhB is a component of a tripartite alpha-pore-forming toxin in the ClyA family

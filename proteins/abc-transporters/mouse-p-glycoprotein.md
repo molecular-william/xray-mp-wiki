@@ -87,8 +87,8 @@ QZ-Ala potently stimulated ATP hydrolysis (~16-fold, EC50=0.92 uM), with smaller
 
 ## Cross-References
 
-- [P-glycoprotein Induced-Fit Binding](/xray-mp-wiki/concepts/p-glycoprotein-induced-fit-binding/) — TM4 kinking provides structural evidence for induced-fit model of drug binding in P-gp
-- [ABC Transporter Family](/xray-mp-wiki/concepts/abc-transporter-family/) — P-gp is a member of the ABCB/MDR subfamily of ABC transporters
+- [P-glycoprotein Induced-Fit Binding](/xray-mp-wiki/concepts/miscellaneous/p-glycoprotein-induced-fit-binding/) — TM4 kinking provides structural evidence for induced-fit model of drug binding in P-gp
+- [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — P-gp is a member of the ABCB/MDR subfamily of ABC transporters
 - [QZ-Ala](/xray-mp-wiki/reagents/ligands/qz-ala/) — Se-labeled homotrimeric cyclopeptide ATPase stimulator; cocrystal structure determined
 - [QZ-Val](/xray-mp-wiki/reagents/ligands/qz-val/) — Se-labeled homotrimeric cyclopeptide; cocrystal structure determined
 - [QZ-Leu](/xray-mp-wiki/reagents/ligands/qz-leu/) — Se-labeled homotrimeric cyclopeptide; cocrystal structure determined

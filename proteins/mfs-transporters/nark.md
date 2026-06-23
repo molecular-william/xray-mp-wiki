@@ -135,9 +135,9 @@ In the nitrate-bound occluded state, the negative charge of nitrate relaxes the 
 
 ## Cross-References
 
-- [Nitrate/Nitrite Porter (NNP) Family](/xray-mp-wiki/concepts/nnp-family/) — NarK belongs to the NNP family of the major facilitator superfamily
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/) — NarK is a member of the MFS superfamily
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — NarK operates via alternating access between inward-open, occluded, and outward-open states
+- [Nitrate/Nitrite Porter (NNP) Family](/xray-mp-wiki/concepts/protein-families/nnp-family/) — NarK belongs to the NNP family of the major facilitator superfamily
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — NarK is a member of the MFS superfamily
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — NarK operates via alternating access between inward-open, occluded, and outward-open states
 - [NarU Nitrate/Nitrite Antiporter from Escherichia coli](/xray-mp-wiki/proteins/mfs-transporters/naru/) — Related NNP family member with 75% sequence similarity to NarK
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/n-dodecyl-beta-d-maltopyranoside/) — Primary detergent used for NarK membrane solubilization
 - [Cholesteryl Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Lipid stabilizer used with DDM for NarK solubilization

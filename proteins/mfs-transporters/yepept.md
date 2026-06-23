@@ -18,7 +18,7 @@ YePEPT is a proton-dependent oligopeptide transporter (POT) family member from
 the bacterium Yersinia enterocolitica. It is a membrane protein that mediates
 the cellular uptake of di- and tripeptides using energy provided by
 transmembrane proton gradients. YePEPT belongs to the major facilitator
-superfamily ([MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/)) of secondary active transporters. The X-ray crystal structure
+superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/)) of secondary active transporters. The X-ray crystal structure
 of YePEPT at 3.02 A resolution revealed the molecular bases for recognition,
 binding and specificity of dipeptides with a charged amino acid residue at the
 N-terminal position. Lys314 in the substrate-binding pocket determines
@@ -161,11 +161,11 @@ LZNV inhibits POTs through a unique mechanism: after the dipeptide backbone of L
 
 ## Cross-References
 
-- [POT Family Substrate Specificity](/xray-mp-wiki/concepts/pot-family-substrate-specificity/) — YePEPT defines the electrostatic mechanism for charged dipeptide recognition in the POT family
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/major-facilitator-superfamily/) — YePEPT belongs to the MFS fold with N- and C-terminal six-helix bundles
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — YePEPT structure is in the inward-open conformation, representing one state of the alternating access cycle
-- [Peptide Binding Pocket](/xray-mp-wiki/concepts/peptide-binding-pocket/) — LZNV binds in the conserved substrate-binding pocket with additional PZ pocket interactions
-- [PZ Pocket POT Inhibition](/xray-mp-wiki/concepts/pz-pocket-pot-inhibition/) — LZNV-bound structure reveals the PZ pocket, a novel inhibitor-induced binding pocket
+- [POT Family Substrate Specificity](/xray-mp-wiki/concepts/protein-families/pot-family-substrate-specificity/) — YePEPT defines the electrostatic mechanism for charged dipeptide recognition in the POT family
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — YePEPT belongs to the MFS fold with N- and C-terminal six-helix bundles
+- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — YePEPT structure is in the inward-open conformation, representing one state of the alternating access cycle
+- [Peptide Binding Pocket](/xray-mp-wiki/concepts/structural-mechanisms/peptide-binding-pocket/) — LZNV binds in the conserved substrate-binding pocket with additional PZ pocket interactions
+- [PZ Pocket POT Inhibition](/xray-mp-wiki/concepts/structural-mechanisms/pz-pocket-pot-inhibition/) — LZNV-bound structure reveals the PZ pocket, a novel inhibitor-induced binding pocket
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers
 - [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Additive used in purification or crystallization buffers

@@ -86,13 +86,13 @@ ApcT adopts the [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wik
 
 ## Cross-References
 
-- [APC Superfamily (Amino Acid-Polyamine-Organocation Transporter Family)](/xray-mp-wiki/concepts/apc-superfamily/) — ApcT is a member of the APC superfamily
+- [APC Superfamily (Amino Acid-Polyamine-Organocation Transporter Family)](/xray-mp-wiki/concepts/transport-mechanisms/apc-superfamily/) — ApcT is a member of the APC superfamily
 - [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) — LeuT shares the same structural fold and was used for structural comparison
 - [AdiC Arginine/Agmatine Antiporter](/xray-mp-wiki/proteins/slc-transporters/adic/) — AdiC is an APC superfamily member compared structurally to ApcT
 - [V. parahaemolyticus Sodium-Galactose Transporter (vSGLT)](/xray-mp-wiki/proteins/slc-transporters/vsglt/) — vSGLT shares the LeuT-like fold and was compared in the structural analysis
 - [BetP (Na+/Betaine Symporter from Corynebacterium glutamicum)](/xray-mp-wiki/proteins/slc-transporters/betp/) — BetP occluded conformation was compared to ApcT inward-facing occluded state
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — ApcT structure supports the alternating access model for secondary transporters
-- [Rocking-Bundle Mechanism](/xray-mp-wiki/concepts/rocking-bundle-mechanism/) — ApcT structural transitions are consistent with the rocking-bundle model
+- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — ApcT structure supports the alternating access model for secondary transporters
+- [Rocking-Bundle Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rocking-bundle-mechanism/) — ApcT structural transitions are consistent with the rocking-bundle model
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Method used in the study
-- [APC Superfamily (Amino Acid-Polyamine-Organocation Transporter Family)](/xray-mp-wiki/concepts/apc-superfamily/) — Key concept related to this protein
-- [Rocking-Bundle Mechanism](/xray-mp-wiki/concepts/rocking-bundle-mechanism/) — Key concept related to this protein
+- [APC Superfamily (Amino Acid-Polyamine-Organocation Transporter Family)](/xray-mp-wiki/concepts/transport-mechanisms/apc-superfamily/) — Key concept related to this protein
+- [Rocking-Bundle Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rocking-bundle-mechanism/) — Key concept related to this protein

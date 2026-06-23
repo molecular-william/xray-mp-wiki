@@ -58,9 +58,9 @@ The CaM C-lobe remains bound to the IQ motif of Naᵥ helix αVI in both apo and
 
 ## Cross-References
 
-- [Sodium Channel Gating](/xray-mp-wiki/concepts/sodium-channel-gating/) — CaM regulates Naᵥ channel gating via Ca²⁺-dependent inactivation
-- [Sodium Channel Inactivation](/xray-mp-wiki/concepts/sodium-channel-inactivation-gating/) — CDI is controlled by the post-IQ motif and N-lobe binding
-- [Sodium Allosteric Modulation](/xray-mp-wiki/concepts/sodium-allosteric-modulation/) — Ca²⁺-CaM binding allosterically modulates Naᵥ channel activity
+- [Sodium Channel Gating](/xray-mp-wiki/concepts/transport-mechanisms/sodium-channel-gating/) — CaM regulates Naᵥ channel gating via Ca²⁺-dependent inactivation
+- [Sodium Channel Inactivation](/xray-mp-wiki/concepts/transport-mechanisms/sodium-channel-inactivation-gating/) — CDI is controlled by the post-IQ motif and N-lobe binding
+- [Sodium Allosteric Modulation](/xray-mp-wiki/concepts/signaling-receptors/sodium-allosteric-modulation/) — Ca²⁺-CaM binding allosterically modulates Naᵥ channel activity
 - [Tris](/xray-mp-wiki/reagents/buffers/tris/) — Buffer component in purification
 - [DTT](/xray-mp-wiki/reagents/additives/dtt/) — Reducing agent in purification buffers
 - [Ion Exchange Chromatography](/xray-mp-wiki/methods/purification/ion-exchange-chromatography/) — Source Q anion exchange used for final purification

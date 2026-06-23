@@ -14,23 +14,23 @@ verified: false
 
 ## Overview
 
-MexB is the inner-membrane component of the MexAB-OprM tripartite efflux pump in Pseudomonas aeruginosa, a major multidrug resistance system. It belongs to the resistance-nodulation-cell division ([RND](/xray-mp-wiki/concepts/rnd-superfamily/)) superfamily of secondary active transporters. The crystal structure was solved at 3.0 A resolution, revealing an asymmetric [homotrimer](/xray-mp-wiki/concepts/homotrimer/) where each subunit adopts a distinct conformation representing three snapshots of the transport cycle. A [DDM](/xray-mp-wiki/reagents/detergents/ddm/) molecule was found bound in the internal multidrug-binding cavity, supporting the model that [RND](/xray-mp-wiki/concepts/rnd-superfamily/) transporters can transport detergent molecules as substrates. The first inhibitor-bound structure of MexB was solved with the pyridopyrimidine derivative [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp), revealing that the inhibitor binds to a hydrophobic trap in the distal drug-binding pocket, similar to [ACRB](/xray-mp-wiki/proteins/acrB).
+MexB is the inner-membrane component of the MexAB-OprM tripartite efflux pump in Pseudomonas aeruginosa, a major multidrug resistance system. It belongs to the resistance-nodulation-cell division ([RND](/xray-mp-wiki/concepts/protein-families/rnd-superfamily/)) superfamily of secondary active transporters. The crystal structure was solved at 3.0 A resolution, revealing an asymmetric [homotrimer](/xray-mp-wiki/concepts/homotrimer/) where each subunit adopts a distinct conformation representing three snapshots of the transport cycle. A [DDM](/xray-mp-wiki/reagents/detergents/ddm/) molecule was found bound in the internal multidrug-binding cavity, supporting the model that [RND](/xray-mp-wiki/concepts/protein-families/rnd-superfamily/) transporters can transport detergent molecules as substrates. The first inhibitor-bound structure of MexB was solved with the pyridopyrimidine derivative [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp), revealing that the inhibitor binds to a hydrophobic trap in the distal drug-binding pocket, similar to [ACRB](/xray-mp-wiki/proteins/acrB).
 
 
 ## Structure Determination
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##J.JMB.2009.04.001 | not specified in paper text (search model was 2J8S, asymmetric AcrB from Escherichia coli) | 3.0 A | P1 | MexB from P. aeruginosa PAO1 (1046 amino acids); [C-terminal](/xray-mp-wiki/concepts/c-terminus/) [hexahistidine](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag; two almost structurally identical trimers (chains ABC and DEF) in the asymmetric unit | [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (n-dodecyl-D-maltoside) bound in the multidrug-binding cavity of subunit B |
-| doi/10.1038##nature12300 | not specified | 3.15 A | P1 | MexB from P. aeruginosa with [C-terminal](/xray-mp-wiki/concepts/c-terminus/) polyhistidine tag, complexed with [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp) inhibitor | [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp) (tert-butyl thiazolyl aminocarboxyl pyridopyrimidine) |
-| doi/10.1038##nature12300 | not specified | 2.70 A | P1 | Drug-free MexB from P. aeruginosa with [C-terminal](/xray-mp-wiki/concepts/c-terminus/) polyhistidine tag | [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (n-dodecyl-beta-D-maltoside) bound in distal pocket |
-| doi/10.1038##nature12300 | not specified | 3.30 A | P1 | Drug-free MexB(F178W) mutant with [C-terminal](/xray-mp-wiki/concepts/c-terminus/) polyhistidine tag | None (drug-free) |
-| doi/10.1038##nature12300 | not specified | 3.00 A | P1 | MexB(F178W) mutant with [C-terminal](/xray-mp-wiki/concepts/c-terminus/) polyhistidine tag, complexed with [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp) inhibitor | [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp) (tert-butyl thiazolyl aminocarboxyl pyridopyrimidine) |
+| doi/10.1016##J.JMB.2009.04.001 | not specified in paper text (search model was 2J8S, asymmetric AcrB from Escherichia coli) | 3.0 A | P1 | MexB from P. aeruginosa PAO1 (1046 amino acids); [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) [hexahistidine](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag; two almost structurally identical trimers (chains ABC and DEF) in the asymmetric unit | [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (n-dodecyl-D-maltoside) bound in the multidrug-binding cavity of subunit B |
+| doi/10.1038##nature12300 | not specified | 3.15 A | P1 | MexB from P. aeruginosa with [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) polyhistidine tag, complexed with [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp) inhibitor | [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp) (tert-butyl thiazolyl aminocarboxyl pyridopyrimidine) |
+| doi/10.1038##nature12300 | not specified | 2.70 A | P1 | Drug-free MexB from P. aeruginosa with [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) polyhistidine tag | [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (n-dodecyl-beta-D-maltoside) bound in distal pocket |
+| doi/10.1038##nature12300 | not specified | 3.30 A | P1 | Drug-free MexB(F178W) mutant with [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) polyhistidine tag | None (drug-free) |
+| doi/10.1038##nature12300 | not specified | 3.00 A | P1 | MexB(F178W) mutant with [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) polyhistidine tag, complexed with [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp) inhibitor | [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp) (tert-butyl thiazolyl aminocarboxyl pyridopyrimidine) |
 
 ## Expression and Purification
 
 - **Expression system**: Escherichia coli strain C43 (DE3) (wild-type), E. coli MG1655 ([ACRB](/xray-mp-wiki/proteins/acrB)-deficient, for F178W mutant)
-- **Construct**: MexB from P. aeruginosa PAO1 with [C-terminal](/xray-mp-wiki/concepts/c-terminus/) [hexahistidine](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag, overproduced from plasmid pUCP20-B_His. MexB(F178W) mutant expressed from plasmid pUC118mexB F178W (pUC118 DNA, Takara Bio) in [ACRB](/xray-mp-wiki/proteins/acrB)-deficient E. coli strain MG1655. Expression induced with 0.1 mM [IPTG](/xray-mp-wiki/methods/expression-systems/iptg-induction/) for 4 h at 37 deg.C.
+- **Construct**: MexB from P. aeruginosa PAO1 with [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) [hexahistidine](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag, overproduced from plasmid pUCP20-B_His. MexB(F178W) mutant expressed from plasmid pUC118mexB F178W (pUC118 DNA, Takara Bio) in [ACRB](/xray-mp-wiki/proteins/acrB)-deficient E. coli strain MG1655. Expression induced with 0.1 mM [IPTG](/xray-mp-wiki/methods/expression-systems/iptg-induction/) for 4 h at 37 deg.C.
 
 ### Purification Workflow
 
@@ -43,7 +43,7 @@ MexB is the inner-membrane component of the MexAB-OprM tripartite efflux pump in
 |---|---|---|---|---|
 | Cell lysis | [French press](/xray-mp-wiki/methods/cell-lysis/french-press/) | -- | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.5, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 1 mM [PMSF](/xray-mp-wiki/reagents/additives/pmsf/), [DNase](/xray-mp-wiki/reagents/additives/dnase/) I, complete protease inhibitor cocktail + -- | Membranes collected by centrifugation at 100,000g for 1 h |
 | Solubilization | Detergent solubilization | -- | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.5, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 1 mM [PMSF](/xray-mp-wiki/reagents/additives/pmsf/), 10% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 1% (wt/vol) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (D310LA Anagrade; Anatrace) | Solubilized for 2 h at 4 deg.C; insoluble material removed by centrifugation at 100,000g for 1 h |
-| [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Metal [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) ([Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/)) | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) affinity column (Qiagen) | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.5, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 1 mM [PMSF](/xray-mp-wiki/reagents/additives/pmsf/), 10% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (equilibration); 30 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (wash); 200 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (elution) + 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | [C-terminal](/xray-mp-wiki/concepts/c-terminus/) [hexahistidine](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag purification; column equilibrated with buffer A containing 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
+| [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Metal [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) ([Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/)) | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) affinity column (Qiagen) | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.5, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 1 mM [PMSF](/xray-mp-wiki/reagents/additives/pmsf/), 10% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (equilibration); 30 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (wash); 200 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (elution) + 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) [hexahistidine](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag purification; column equilibrated with buffer A containing 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
 | Size-exclusion chromatography | Size-exclusion chromatography | Tricorn [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) column (Amersham Biosciences) | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.5, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Further purification and buffer exchange for crystallization |
 
 ### Purification Workflow
@@ -119,7 +119,7 @@ MexB is the inner-membrane component of the MexAB-OprM tripartite efflux pump in
 | Temperature | 25 C |
 | Growth time | Similar to wild-type |
 | Cryoprotection | Polyethylene glycol 400 concentration increased to 40% (v/v) in three steps; crystals flash frozen in liquid nitrogen or cryostream (100 K) |
-| Notes | [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp)-bound MexB(F178W) crystallized using [DDM](/xray-mp-wiki/reagents/detergents/ddm/). P1 crystals solved at 3.00 A resolution. [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp) detected in hydrophobic trap as in wild-type MexB. Indolyl ring of W178 fits into position capable of forming pi-pi interactions with pyridopyrimidine ring without large [conformational change](/xray-mp-wiki/concepts/conformational-change/) relative to [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp)-free structure. |
+| Notes | [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp)-bound MexB(F178W) crystallized using [DDM](/xray-mp-wiki/reagents/detergents/ddm/). P1 crystals solved at 3.00 A resolution. [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp) detected in hydrophobic trap as in wild-type MexB. Indolyl ring of W178 fits into position capable of forming pi-pi interactions with pyridopyrimidine ring without large [conformational change](/xray-mp-wiki/concepts/structural-mechanisms/conformational-change/) relative to [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp)-free structure. |
 
 
 ## Biological / Functional Insights
@@ -127,7 +127,7 @@ MexB is the inner-membrane component of the MexAB-OprM tripartite efflux pump in
 ### Asymmetric homotrimer transport mechanism
 
 MexB adopts an asymmetric [homotrimeric](/xray-mp-wiki/concepts/homotrimer/) conformation where each subunit represents a different
-state in the transport cycle. Subunit B (binding) exhibits a channel open to the [periplasm](/xray-mp-wiki/concepts/periplasm/)
+state in the transport cycle. Subunit B (binding) exhibits a channel open to the [periplasm](/xray-mp-wiki/concepts/miscellaneous/periplasm/)
 for substrate capture. Subunit C (extrusion) has a channel open toward the outer-membrane
 factor docking site. Subunit A shows an altered conformation, likely representing a transitional
 state, potentially influenced by crystal packing. The progression through conformations is
@@ -138,7 +138,7 @@ ABC rather than BAC.
 A large drug-binding cavity is formed by the four pore domain subdomains (PN1, PN2, PC1, PC2).
 A [DDM](/xray-mp-wiki/reagents/detergents/ddm/) molecule was observed bound in subunit B, with the maltoside group interacting with
 Val47, Ser48, Gln125, Val177, Gly179, Ser180, Gln273, and Arg620. The binding site corresponds
-to minocycline and [Doxorubicin - Anthracycline Anticancer Drug](/xray-mp-wiki/reagents/ligands/doxorubicin) sites in [ACRB](/xray-mp-wiki/proteins/acrB), demonstrating that [RND](/xray-mp-wiki/concepts/rnd-superfamily/) transporters can transport
+to minocycline and [Doxorubicin - Anthracycline Anticancer Drug](/xray-mp-wiki/reagents/ligands/doxorubicin) sites in [ACRB](/xray-mp-wiki/proteins/acrB), demonstrating that [RND](/xray-mp-wiki/concepts/protein-families/rnd-superfamily/) transporters can transport
 detergent molecules as substrates. The cavity is rich in polar residues at the distal end and
 aromatic residues at the proximal end.
 
@@ -147,16 +147,16 @@ aromatic residues at the proximal end.
 The transmembrane region is highly conserved between MexB and [ACRB](/xray-mp-wiki/proteins/acrB), with key charged residues
 Asp407, Asp408 (TM4) and Lys939 (TM10) forming a salt-bridge involved in proton translocation.
 In subunit C, the lysine is tilted towards Thr976 (TM11), implicating a rigid-body shift of
-TM5 towards TM4 and TM10, and [conformational changes](/xray-mp-wiki/concepts/conformational-change/) in TM8. The [N-terminal](/xray-mp-wiki/concepts/n-terminus/) end of TM8,
+TM5 towards TM4 and TM10, and [conformational changes](/xray-mp-wiki/concepts/structural-mechanisms/conformational-change/) in TM8. The [N-terminal](/xray-mp-wiki/concepts/structural-mechanisms/n-terminus/) end of TM8,
 connecting the transmembrane domain to the PC2 subdomain, adopts different conformations across
-subunits and is believed to trigger the large [conformational changes](/xray-mp-wiki/concepts/conformational-change/) in the pore domains.
+subunits and is believed to trigger the large [conformational changes](/xray-mp-wiki/concepts/structural-mechanisms/conformational-change/) in the pore domains.
 
 ### Structural differences in pore domain subunit A
 
-Compared to [ACRB](/xray-mp-wiki/proteins/acrB), a shift of the PC2 subdomain results in closure of the [periplasmic](/xray-mp-wiki/concepts/periplasm/) portal
+Compared to [ACRB](/xray-mp-wiki/proteins/acrB), a shift of the PC2 subdomain results in closure of the [periplasmic](/xray-mp-wiki/concepts/miscellaneous/periplasm/) portal
 in one subunit, with no access to the binding cavity observed. The portal from the membrane
 bilayer leading to the channel of subunit B in MexB is more constricted than in [ACRB](/xray-mp-wiki/proteins/acrB), likely
-due to a more helical conformation of the [N-terminal](/xray-mp-wiki/concepts/n-terminus/) part of TM8. In MexB, TM8 in subunit B
+due to a more helical conformation of the [N-terminal](/xray-mp-wiki/concepts/structural-mechanisms/n-terminus/) part of TM8. In MexB, TM8 in subunit B
 is fully helical, whereas in [ACRB](/xray-mp-wiki/proteins/acrB) it varies from random-coil (subunit A) to fully helical
 (subunit C).
 
@@ -174,13 +174,13 @@ The docking domains of MexB and [ACRB](/xray-mp-wiki/proteins/acrB) are very sim
 a long protruding loop inserting into the neighboring subunit. Despite high structural
 similarity, OprM and TolC are not interchangeable between MexAB and AcrAB systems. The high
 specificity likely relies on the membrane fusion protein (MFP) rather than the outer-membrane
-factor (OMF), consistent with the finding that [RND](/xray-mp-wiki/concepts/rnd-superfamily/) transporters interact transiently with OMFs
+factor (OMF), consistent with the finding that [RND](/xray-mp-wiki/concepts/protein-families/rnd-superfamily/) transporters interact transiently with OMFs
 at low affinity.
 
 ### Crystal packing influences subunit A conformation
 
 The two trimers of MexB in the asymmetric unit pack head-to-head, substantially involving the
-[periplasmic](/xray-mp-wiki/concepts/periplasm/) part with approximately 700 A^2 of surface area buried at this interface, mainly
+[periplasmic](/xray-mp-wiki/concepts/miscellaneous/periplasm/) part with approximately 700 A^2 of surface area buried at this interface, mainly
 through the PC2 subdomain of subunit A. The altered conformation of subunit A could be a result
 of crystal contacts, but evidence suggests functional significance: the symmetry-related trimer
 has an identical conformation, and the PC1 and PC2 domains show the smallest sequence

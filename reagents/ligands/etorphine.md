@@ -47,4 +47,4 @@ No comparison data available.
 ## Cross-References
 
 - [Human Delta-Opioid Receptor (OPRD1)](/xray-mp-wiki/proteins/gpcr/delta-opioid-receptor/) — Potent opioid agonist characterized in delta-opioid receptor binding assays
-- [Sodium Ion Allosteric Modulation in GPCRs](/xray-mp-wiki/concepts/sodium-allosteric-modulation/) — Etorphine shows strong sodium sensitivity in binding
+- [Sodium Ion Allosteric Modulation in GPCRs](/xray-mp-wiki/concepts/signaling-receptors/sodium-allosteric-modulation/) — Etorphine shows strong sodium sensitivity in binding

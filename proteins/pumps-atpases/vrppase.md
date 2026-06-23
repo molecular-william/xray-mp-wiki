@@ -84,6 +84,6 @@ etidronate against H+-PPases.
 
 - [VrH+PPase (Vigna radiata H+-Pumping Inorganic Pyrophosphatase)](/xray-mp-wiki/proteins/pumps-atpases/vrh-ppase/) — Plant homolog with conserved dimeric architecture and 16 TM helices per monomer
 - [TmPPase (Thermotoga maritima H+-Pumping Pyrophosphatase)](/xray-mp-wiki/proteins/pumps-atpases/tmppase/) — Bacterial homolog with 99.7% sequence identity at key residues; 4 vs 2 captured states
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — M-PPases cycle between outward-facing and inward-facing conformations
-- [Conformational Dynamics in MFS Transporters](/xray-mp-wiki/concepts/conformational-dynamics-mfs/) — Related conformational change principles apply to M-PPase helix movements
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — M-PPases cycle between outward-facing and inward-facing conformations
+- [Conformational Dynamics in MFS Transporters](/xray-mp-wiki/concepts/transport-mechanisms/conformational-dynamics-mfs/) — Related conformational change principles apply to M-PPase helix movements
 - [IDP](/xray-mp-wiki/reagents/ligands/idp/) — Related ligand or cofactor

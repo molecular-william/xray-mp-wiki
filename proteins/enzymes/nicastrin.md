@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Nicastrin is a type I transmembrane glycoprotein and the largest component of the [Gamma-Secretase Complex](/xray-mp-wiki/concepts/gamma-secretase/) complex, which is responsible for generating amyloid-beta peptides from amyloid precursor protein (APP). Nicastrin is the putative substrate-recruiting component of the complex. The crystal structure of the nicastrin extracellular domain (ECD) from Dictyostelium purpureum (DpNCT) was determined at 1.95 A resolution by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) and bromide SAD phasing. The structure reveals a large lobe and a small lobe connected by a hydrophobic pivot. The large lobe contains a putative substrate-binding pocket that is shielded from the small lobe by a lid, suggesting an inactive conformation in which substrate access is blocked. A working model proposes that the lid opens via relative rotation of the lobes around the hydrophobic pivot upon activation, allowing substrate recruitment.
+Nicastrin is a type I transmembrane glycoprotein and the largest component of the [Gamma-Secretase Complex](/xray-mp-wiki/concepts/enzyme-mechanisms/gamma-secretase/) complex, which is responsible for generating amyloid-beta peptides from amyloid precursor protein (APP). Nicastrin is the putative substrate-recruiting component of the complex. The crystal structure of the nicastrin extracellular domain (ECD) from Dictyostelium purpureum (DpNCT) was determined at 1.95 A resolution by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) and bromide SAD phasing. The structure reveals a large lobe and a small lobe connected by a hydrophobic pivot. The large lobe contains a putative substrate-binding pocket that is shielded from the small lobe by a lid, suggesting an inactive conformation in which substrate access is blocked. A working model proposes that the lid opens via relative rotation of the lobes around the hydrophobic pivot upon activation, allowing substrate recruitment.
 
 ## Structure Determination
 
@@ -74,16 +74,16 @@ The large and small lobes associate through a unique pattern of interactions: a 
 
 ### Working model for nicastrin function in substrate recruitment
 
-Structural comparison with bacterial aminopeptidase (BAP) revealed that nicastrin's lid covers the putative substrate-binding site, blocking access. The lid-open conformation of BAP suggests a working model where the large and small lobes rotate relative to each other around the central hydrophobic pivot, causing the lid to open and relocate away from the substrate-binding site. This would allow substrate recruitment to the [Gamma-Secretase Complex](/xray-mp-wiki/concepts/gamma-secretase/) complex. Consistent with this model, nicastrin was reported to undergo a conformational switch upon inhibitor/substrate binding.
+Structural comparison with bacterial aminopeptidase (BAP) revealed that nicastrin's lid covers the putative substrate-binding site, blocking access. The lid-open conformation of BAP suggests a working model where the large and small lobes rotate relative to each other around the central hydrophobic pivot, causing the lid to open and relocate away from the substrate-binding site. This would allow substrate recruitment to the [Gamma-Secretase Complex](/xray-mp-wiki/concepts/enzyme-mechanisms/gamma-secretase/) complex. Consistent with this model, nicastrin was reported to undergo a conformational switch upon inhibitor/substrate binding.
 
 ### Updated model of human nicastrin and gamma-secretase TM assignment
 
-The DpNCT crystal structure enabled building an improved atomic model of human nicastrin (HsNCT) ECD containing approximately 100 more amino acids than the previous [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) model. Key conserved features include the hydrophobic pivot, the C-shaped H-bond network, and the lid with conserved Trp164. The nicastrin TM was assigned to the far edge of the thick end of the [Gamma-Secretase Complex](/xray-mp-wiki/concepts/gamma-secretase/) TM horseshoe. A revised TM assignment places the Pen-2/PS1-NTF subcomplex at the thin end and PS1-CTF/Aph-1/nicastrin at the thick end.
+The DpNCT crystal structure enabled building an improved atomic model of human nicastrin (HsNCT) ECD containing approximately 100 more amino acids than the previous [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) model. Key conserved features include the hydrophobic pivot, the C-shaped H-bond network, and the lid with conserved Trp164. The nicastrin TM was assigned to the far edge of the thick end of the [Gamma-Secretase Complex](/xray-mp-wiki/concepts/enzyme-mechanisms/gamma-secretase/) TM horseshoe. A revised TM assignment places the Pen-2/PS1-NTF subcomplex at the thin end and PS1-CTF/Aph-1/nicastrin at the thick end.
 
 
 ## Cross-References
 
-- [Gamma-Secretase Complex](/xray-mp-wiki/concepts/gamma-secretase/) — Nicastrin is the substrate-recruiting component of the gamma-secretase complex
+- [Gamma-Secretase Complex](/xray-mp-wiki/concepts/enzyme-mechanisms/gamma-secretase/) — Nicastrin is the substrate-recruiting component of the gamma-secretase complex
 - [Tris](/xray-mp-wiki/reagents/buffers/buffer-tris/) — Tris buffer used in purification and crystallization
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Ion-Exchange Chromatography](/xray-mp-wiki/methods/purification/ion-exchange-chromatography/) — Method used in structure determination or purification

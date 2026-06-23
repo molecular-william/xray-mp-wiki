@@ -100,7 +100,7 @@ providing insight into how transporters can accommodate stereoisomers.
 
 ## Cross-References
 
-- [Glutamate Transporter Family (SLC1/EAAT)](/xray-mp-wiki/concepts/glutamate-transporter-family/) — GltTk is an archaeal homologue of mammalian EAATs
+- [Glutamate Transporter Family (SLC1/EAAT)](/xray-mp-wiki/concepts/transport-mechanisms/glutamate-transporter-family/) — GltTk is an archaeal homologue of mammalian EAATs
 - [Human Excitatory Amino Acid Transporter 1 (EAAT1)](/xray-mp-wiki/proteins/slc-transporters/eaat1/) — Mammalian EAAT1 is a structural and functional homolog of GltTk
 - [Glttk](/xray-mp-wiki/proteins/slc-transporters/glttk/) — Referenced in glt-tk text
 - [D Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/) — Referenced in glt-tk text

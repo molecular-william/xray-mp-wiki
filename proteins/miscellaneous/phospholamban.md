@@ -86,7 +86,7 @@ Atomistic MD simulations of full-length PLN in a [POPC](/xray-mp-wiki/reagents/l
 
 - [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase 1a)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — Primary target of PLB regulation; PLB binds and inhibits SERCA
 - [Sarcolipin (SLN)](/xray-mp-wiki/proteins/pumps-atpases/sarcolipin/) — Homologous regulator of SERCA; distinct mechanism from PLB
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — PLB modulates the alternating-access transport cycle of SERCA by stabilizing the E2 state
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — PLB modulates the alternating-access transport cycle of SERCA by stabilizing the E2 state
 - [PL5 Designed Pentameric Transmembrane Protein](/xray-mp-wiki/proteins/miscellaneous/pl5-pentamer/) — PL5 is a designed variant derived from PLN's apolar C-terminal domain; revealed the steric packing code underlying PLN assembly
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [EGTA](/xray-mp-wiki/reagents/additives/egta/) — Additive used in purification or crystallization buffers

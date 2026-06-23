@@ -71,4 +71,4 @@ The interface between the CRD, linker domain, and TMD stabilizes the inactive st
 ## Cross-References
 
 - [Mouse Smoothened (SMO) — Class F GPCR](/xray-mp-wiki/proteins/gpcr/smoothened/) — Active state mouse SMO structure (PDB 6O3C) showing deep 7TM sterol pocket, complementary to the human CRD-bound cholesterol structure
-- [Deep 7TM Sterol-Binding Site of Smoothened](/xray-mp-wiki/concepts/deep-7tm-sterol-binding-site/) — The 7TM sterol site is a distinct binding pocket deeper in the helical bundle, separate from the CRD cholesterol site described here
+- [Deep 7TM Sterol-Binding Site of Smoothened](/xray-mp-wiki/concepts/structural-mechanisms/deep-7tm-sterol-binding-site/) — The 7TM sterol site is a distinct binding pocket deeper in the helical bundle, separate from the CRD cholesterol site described here

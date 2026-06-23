@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-[KR2 (Krokinobacter eikastus Rhodopsin 2) — Light-Driven Sodium Pump](/xray-mp-wiki/proteins/rhodopsins/kr2/) (Krokinobacter eikastus rhodopsin 2) is a light-driven sodium-pumping microbial rhodopsin belonging to the NDQ-rhodopsin family (Asn112, Asp116, Gln123 signature motif). It actively transports sodium ions out of the cell upon light activation, functioning as a type A sodium pump. [KR2 (Krokinobacter eikastus Rhodopsin 2) — Light-Driven Sodium Pump](/xray-mp-wiki/proteins/rhodopsins/kr2/) has been crystallized in multiple crystal forms: type A (blue, monomeric), type B (red, pentameric), and type C (red), with absorption maxima ranging from 522-566 nm. The structure reveals a characteristic seven-transmembrane helix retinal-binding fold typical of [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/).
+[KR2 (Krokinobacter eikastus Rhodopsin 2) — Light-Driven Sodium Pump](/xray-mp-wiki/proteins/rhodopsins/kr2/) (Krokinobacter eikastus rhodopsin 2) is a light-driven sodium-pumping microbial rhodopsin belonging to the NDQ-rhodopsin family (Asn112, Asp116, Gln123 signature motif). It actively transports sodium ions out of the cell upon light activation, functioning as a type A sodium pump. [KR2 (Krokinobacter eikastus Rhodopsin 2) — Light-Driven Sodium Pump](/xray-mp-wiki/proteins/rhodopsins/kr2/) has been crystallized in multiple crystal forms: type A (blue, monomeric), type B (red, pentameric), and type C (red), with absorption maxima ranging from 522-566 nm. The structure reveals a characteristic seven-transmembrane helix retinal-binding fold typical of [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/).
 
 
 ## Structure Determination
@@ -67,7 +67,7 @@ verified: false
 ## Cross-References
 
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Used for LCP crystallization of KR2
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — Related biological concept
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — Related biological concept
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Related protein structure
 - [KR2 (Krokinobacter eikastus Rhodopsin 2) — Light-Driven Sodium Pump](/xray-mp-wiki/proteins/rhodopsins/kr2/) — Related protein structure
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Related ligand or cofactor

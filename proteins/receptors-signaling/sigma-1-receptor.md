@@ -85,7 +85,7 @@ The structure reveals a single transmembrane domain per protomer, contrary to pr
 - [Lauryl Maltose Neopentyl Glycol (LMNG)](/xray-mp-wiki/reagents/detergents/lmng/) — Primary detergent for solubilization and purification
 - [Cholesterol Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Lipid additive in solubilization and LCP crystallization
 - [SEC-MALS](/xray-mp-wiki/methods/quality-assessment/sec-mals/) — Used to assess oligomerization state of sigma-1 receptor
-- [Cupin Fold](/xray-mp-wiki/concepts/cupin-fold/) — Structural fold of the ligand-binding domain
+- [Cupin Fold](/xray-mp-wiki/concepts/structural-mechanisms/cupin-fold/) — Structural fold of the ligand-binding domain
 - [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) — Epitope tag used for affinity purification of sigma-1 receptor
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used for crystallization of sigma-1 receptor
 - [MES](/xray-mp-wiki/reagents/buffers/mes) — Buffer component in crystallization

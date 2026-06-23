@@ -87,8 +87,8 @@ Each c-subunit forms a helical hairpin with an N-terminal inner helix (H1) and C
 
 - [Yeast Mitochondrial F1 ATPase](/xray-mp-wiki/proteins/pumps-atpases/yeast-f1-atpase/) — Soluble catalytic domain of the same ATP synthase complex; structural comparisons with different nucleotide states
 - [Yeast Mitochondrial ATP Synthase c10 Ring](/xray-mp-wiki/proteins/pumps-atpases/yeast-mitochondrial-atp-synthase-c10-ring/) — Same c10-ring component; this structure shows the open conformation for comparison
-- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/rotary-atpase-mechanism/) — The F1c10 subcomplex is the core rotary unit of the ATP synthase; Mg-ADP inhibition captures a paused state in the catalytic cycle
-- [Binding-Change Mechanism](/xray-mp-wiki/concepts/binding-change-mechanism/) — ADP occupancy in both beta-DP and beta-TP sites illustrates the nucleotide occupancy pattern in the inhibited state
+- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/) — The F1c10 subcomplex is the core rotary unit of the ATP synthase; Mg-ADP inhibition captures a paused state in the catalytic cycle
+- [Binding-Change Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/binding-change-mechanism/) — ADP occupancy in both beta-DP and beta-TP sites illustrates the nucleotide occupancy pattern in the inhibited state
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [DTT](/xray-mp-wiki/reagents/additives/dtt/) — Additive used in purification or crystallization buffers

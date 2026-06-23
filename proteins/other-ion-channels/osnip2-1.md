@@ -73,7 +73,7 @@ MD simulations reveal spontaneous silicic acid uptake and export through OsNIP2;
 
 ## Cross-References
 
-- [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) — OsNIP2;1 is a member of the NIP subfamily of aquaporins (metalloid porins)
+- [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — OsNIP2;1 is a member of the NIP subfamily of aquaporins (metalloid porins)
 - [Decylmaltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Detergent used for membrane solubilization and purification
 - [n-Dodecyl-beta-D-Maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used in solubilization mixture with DM (1:1 w/w)
 - [Decyl Maltose Neopentyl Glycol (DMng)](/xray-mp-wiki/reagents/detergents/dmng/) — Detergent in which OsNIP2;1 behaves well for crystallization

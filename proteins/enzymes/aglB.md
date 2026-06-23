@@ -94,13 +94,13 @@ In crystal form 1, a sulfate ion is bound 5.0 A from the Zn2+ ion, interacting w
 
 ## Cross-References
 
-- [N-Glycosylation Sequon](/xray-mp-wiki/concepts/n-glycosylation-sequon/) — AglB-L recognizes the N-glycosylation sequon (Asn-X-Ser/Thr) via the Ser/Thr-binding pocket in its C-terminal domain
-- [Catalytic Cycle of Oligosaccharyltransferase](/xray-mp-wiki/concepts/ost-catalytic-cycle/) — The AglB-L crystal structures in two forms provide structural snapshots of different states in the OST catalytic cycle
+- [N-Glycosylation Sequon](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/n-glycosylation-sequon/) — AglB-L recognizes the N-glycosylation sequon (Asn-X-Ser/Thr) via the Ser/Thr-binding pocket in its C-terminal domain
+- [Catalytic Cycle of Oligosaccharyltransferase](/xray-mp-wiki/concepts/enzyme-mechanisms/ost-catalytic-cycle/) — The AglB-L crystal structures in two forms provide structural snapshots of different states in the OST catalytic cycle
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for AglB-L purification and activity assays
 - [n-Octyl-beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/n-octyl-beta-d-glucopyranoside/) — Detergent used in crystal form 1 crystallization
 - [LDAO (Lauryldimethylamine-N-oxide)](/xray-mp-wiki/reagents/detergents/ldao/) — Detergent used in crystal form 2 crystallization
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Method used in the study
-- [N-Glycosylation Sequon](/xray-mp-wiki/concepts/n-glycosylation-sequon/) — Key concept related to this protein
-- [Catalytic Cycle of Oligosaccharyltransferase](/xray-mp-wiki/concepts/ost-catalytic-cycle/) — Key concept related to this protein
+- [N-Glycosylation Sequon](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/n-glycosylation-sequon/) — Key concept related to this protein
+- [Catalytic Cycle of Oligosaccharyltransferase](/xray-mp-wiki/concepts/enzyme-mechanisms/ost-catalytic-cycle/) — Key concept related to this protein
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein mentioned in the study
 - [ELIC (Erwinia chrysanthemi Pentameric Ligand-Gated Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/elic/) — Related protein mentioned in the study

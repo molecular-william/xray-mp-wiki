@@ -86,11 +86,11 @@ The inward-facing Mhp1 structure resembles the inward-facing [VSGLT](/xray-mp-wi
 
 ## Cross-References
 
-- [Nucleobase-Cation-Symport-1 (NCS1) Family](/xray-mp-wiki/concepts/ncs1-family/) — Mhp1 is the founding structurally characterized member of the NCS1 family
+- [Nucleobase-Cation-Symport-1 (NCS1) Family](/xray-mp-wiki/concepts/transport-mechanisms/ncs1-family/) — Mhp1 is the founding structurally characterized member of the NCS1 family
 - [V. parahaemolyticus Sodium-Galactose Transporter (vSGLT)](/xray-mp-wiki/proteins/slc-transporters/vsglt/) — vSGLT shares the same structural fold and inward-facing Mhp1 resembles inward-facing vSGLT
 - [LeuT Amino Acid Transporter](/xray-mp-wiki/proteins/enzymes/leut/) — LeuT shares a nearly identical fold and was used for structural comparison
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Mhp1 three-state structure provides a complete picture of the alternating access cycle
-- [Rocking-Bundle Mechanism](/xray-mp-wiki/concepts/rocking-bundle-mechanism/) — Mhp1 conformational changes are consistent with the rocking-bundle model
+- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Mhp1 three-state structure provides a complete picture of the alternating access cycle
+- [Rocking-Bundle Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rocking-bundle-mechanism/) — Mhp1 conformational changes are consistent with the rocking-bundle model
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [ADIC](/xray-mp-wiki/proteins/slc-transporters/adic/) — Related protein structure
 - [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) — Additive used in purification or crystallization buffers

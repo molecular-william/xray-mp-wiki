@@ -80,7 +80,7 @@ Structure-guided engineering of [GtACR1 Anion Channelrhodopsin from Guillardia t
 ## Cross-References
 
 - [Channelrhodopsin C1C2](/xray-mp-wiki/proteins/rhodopsins/channelrhodopsin-c1c2/) — iC++ is derived from C1C2 via 10 structure-guided mutations
-- [Channelrhodopsin Photocycle](/xray-mp-wiki/concepts/channelrhodopsin-photocycle/) — iC++ photocycle includes K, M, and O intermediates
+- [Channelrhodopsin Photocycle](/xray-mp-wiki/concepts/transport-mechanisms/channelrhodopsin-photocycle/) — iC++ photocycle includes K, M, and O intermediates
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [GtACR1 Anion Channelrhodopsin from Guillardia theta](/xray-mp-wiki/proteins/rhodopsins/gtacr1/) — Related protein structure
 - [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Additive used in purification or crystallization buffers

@@ -58,4 +58,4 @@ No comparison data available.
 - [Na+,K+-ATPase (Pig Kidney)](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-pig-kidney/) — Primary target; E2P-DTX complex structure determined
 - [Digoxin](/xray-mp-wiki/reagents/ligands/digoxin/) — Related cardiotonic steroid; differs by C12 hydroxyl group
 - [Ouabain](/xray-mp-wiki/reagents/ligands/ouabain/) — Classical cardiotonic steroid; structural comparison
-- [Cardiotonic Steroids](/xray-mp-wiki/concepts/cardiotonic-steroids/) — Digitoxin is a cardiotonic steroid of the cardenolide class
+- [Cardiotonic Steroids](/xray-mp-wiki/concepts/miscellaneous/cardiotonic-steroids/) — Digitoxin is a cardiotonic steroid of the cardenolide class

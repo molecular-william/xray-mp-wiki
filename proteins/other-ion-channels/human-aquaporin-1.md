@@ -14,8 +14,8 @@ verified: false
 
 ## Overview
 
-Human [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) 1 (hAQP1) is the archetypal water-selective channel from the
-[Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/), originally discovered in red blood cells and renal proximal
+Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) 1 (hAQP1) is the archetypal water-selective channel from the
+[Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/), originally discovered in red blood cells and renal proximal
 tubules. It forms homotetrameric channels that transport water bidirectionally
 in response to osmotic gradients, strictly excluding ions including protons.
 hAQP1 is a key factor in cell migration and angiogenesis and constitutes a
@@ -28,7 +28,7 @@ asymmetric unit; the biological tetramer is generated via the
 crystallographic fourfold axis. This extends previous electron
 crystallographic studies of hAQP1 from human red blood cells which were
 limited to approximately 3.8 A resolution. A 2.2 A crystal structure of the
-closely related bovine [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) 1 (bAQP1, PDB 1j4n) had previously been
+closely related bovine [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) 1 (bAQP1, PDB 1j4n) had previously been
 solved from bovine red blood cells.
 
 
@@ -81,7 +81,7 @@ solved from bovine red blood cells.
 
 ### First recombinant hAQP1 crystal structure
 
-This work reports the first crystal structure of human [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) 1 obtained from recombinant protein expressed in Sf9 insect cells, extending previous electron crystallographic studies (limited to ~3.8 A) that used native hAQP1 extracted from human red blood cells. The recombinant expression system enables mutagenesis studies and structure-based drug discovery targeting hAQP1.
+This work reports the first crystal structure of human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) 1 obtained from recombinant protein expressed in Sf9 insect cells, extending previous electron crystallographic studies (limited to ~3.8 A) that used native hAQP1 extracted from human red blood cells. The recombinant expression system enables mutagenesis studies and structure-based drug discovery targeting hAQP1.
 
 ### Comparison of hAQP1 and bAQP1 crystal packing
 
@@ -90,7 +90,7 @@ The crucial difference between hAQP1 and bAQP1 (bovine [AQP1](/xray-mp-wiki/prot
 
 ## Cross-References
 
-- [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) — hAQP1 is the founding member of the aquaporin water channel family
+- [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — hAQP1 is the founding member of the aquaporin water channel family
 - [Aquaporin Z (AqpZ)](/xray-mp-wiki/proteins/other-ion-channels/aquaporin-z/) — Bacterial homolog of hAQP1; structural comparison for water selectivity
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification

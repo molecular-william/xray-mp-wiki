@@ -122,7 +122,7 @@ The overall structure of the beta1AR-nanobody complexes bound to agonists is vir
 ## Cross-References
 
 - [Human Beta2-Adrenergic Receptor (beta2 AR)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Close structural homolog for comparison of GPCR active and inactive states
-- [GPCR Active State High-Affinity Agonist Binding](/xray-mp-wiki/concepts/gpcr-active-state-high-affinity-agonist-binding/) — Concept explaining the structural basis for increased agonist affinity in the active state
+- [GPCR Active State High-Affinity Agonist Binding](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-state-high-affinity-agonist-binding/) — Concept explaining the structural basis for increased agonist affinity in the active state
 - [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) — Referenced in the context of Cyanopindolol
 - [Carazolol](/xray-mp-wiki/reagents/ligands/carazolol/) — Referenced in the context of Carazolol
 - [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) — Referenced in the context of Nanobody

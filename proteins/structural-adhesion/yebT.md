@@ -84,6 +84,6 @@ complex.
 - [E. coli MlaC Lipid-Binding Protein](/xray-mp-wiki/proteins/structural-adhesion/mlaC/) — MlaC shuttles lipids in the Mla system; YebT bypasses the need for a shuttle by direct spanning
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for YebT solubilization from membranes
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Used for Ni-NTA affinity chromatography
-- [MCE Protein Family](/xray-mp-wiki/concepts/mce-protein-family/) — YebT is a seven-domain MCE protein with unique tube-like architecture
+- [MCE Protein Family](/xray-mp-wiki/concepts/protein-families/mce-protein-family/) — YebT is a seven-domain MCE protein with unique tube-like architecture
 - [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta) — Entity mentioned in text
 - [TRIS](/xray-mp-wiki/reagents/buffers/tris) — Entity mentioned in text

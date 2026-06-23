@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Human [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) 10 (AQP10) is an
+Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) 10 (AQP10) is an
 aquaglyceroporin expressed in human adipocytes and the small intestine that
 facilitates glycerol transport. Unlike other human aquaglyceroporins, AQP10
 is uniquely stimulated by low pH, with increased glycerol release during
@@ -109,6 +109,6 @@ treating obesity and related complications.
 
 ## Cross-References
 
-- [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) — AQP10 belongs to the aquaglyceroporin subfamily of the aquaporin superfamily
+- [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — AQP10 belongs to the aquaglyceroporin subfamily of the aquaporin superfamily
 - [Human Aquaporin 7 (AQP7)](/xray-mp-wiki/proteins/other-ion-channels/human-aqp7/) — AQP7 is another human aquaglyceroporin; structural comparison with AQP10 reveals differences in selectivity filter and gating
-- [pH-Dependent Gating](/xray-mp-wiki/concepts/ph-dependent-gating/) — AQP10 exhibits pH-dependent glycerol gating via His80 protonation sensor
+- [pH-Dependent Gating](/xray-mp-wiki/concepts/transport-mechanisms/ph-dependent-gating/) — AQP10 exhibits pH-dependent glycerol gating via His80 protonation sensor

@@ -70,6 +70,6 @@ The low-affinity ouabain-bound state (E2·2K+·Pi) still explains most mutagenes
 - [Tris](/xray-mp-wiki/reagents/buffers/tris/) — Buffer component (Tris-HCl pH 7.0, Tris pH 7.5)
 - [MES](/xray-mp-wiki/reagents/buffers/mes/) — Buffer component (MES/Tris buffer pH 7.0)
 - [Magnesium chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — MgCl2 required for MgF4²⁻ formation
-- [P-type ATPase Mechanism](/xray-mp-wiki/concepts/p-type-atpase-mechanism/) — Na+,K+-ATPase is a canonical P-type ATPase; Post-Albers cycle
+- [P-type ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/p-type-atpase-mechanism/) — Na+,K+-ATPase is a canonical P-type ATPase; Post-Albers cycle
 - [Na+,K+-ATPase from Pig Kidney](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-pig-kidney/) — Related P-type ATPase; pig enzyme studied by rapid filtration methods
 - [PEG300](/xray-mp-wiki/reagents/additives/peg300) — Entity mentioned in text

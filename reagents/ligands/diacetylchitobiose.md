@@ -56,4 +56,4 @@ No comparison data available.
 
 - [bcChbC (Bacillus cereus Chitobiose Transporter)](/xray-mp-wiki/proteins/enzymes/bc-chbc/) — Primary transporter for diacetylchitobiose
 - [Maltose](/xray-mp-wiki/reagents/additives/maltose/) — Related disaccharide substrate for EIIC transporters
-- [Elevator Mechanism](/xray-mp-wiki/concepts/elevator-mechanism/) — Diacetylchitobiose transport by bcChbC operates via elevator mechanism
+- [Elevator Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/elevator-mechanism/) — Diacetylchitobiose transport by bcChbC operates via elevator mechanism

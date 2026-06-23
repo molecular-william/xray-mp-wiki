@@ -111,7 +111,7 @@ The natural product inhibitor phosphoramidon (N-(alpha-rhamnopyranosyl-oxy-hydro
 
 ## Cross-References
 
-- [Site-2 Protease Family Mechanism](/xray-mp-wiki/concepts/site-2-protease-family-mechanism/) — ZMPSTE24 is a member of the M48 family of metalloproteases, related to site-2 proteases (S2P)
+- [Site-2 Protease Family Mechanism](/xray-mp-wiki/concepts/protein-families/site-2-protease-family-mechanism/) — ZMPSTE24 is a member of the M48 family of metalloproteases, related to site-2 proteases (S2P)
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [ROCKER](/xray-mp-wiki/proteins/miscellaneous/rocker/) — Related protein structure

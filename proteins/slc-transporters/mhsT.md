@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belonging to the [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/nss-family/). It mediates the Na+-coupled uptake of hydrophobic amino acids including L-tryptophan, L-tyrosine, [L-Phenylalanine](/xray-mp-wiki/reagents/ligands/l-phenylalanine/), and [L-Leucine](/xray-mp-wiki/reagents/ligands/l-leucine/). Initial crystal structures of MhsT in occluded inward-facing states with bound Na+ ions and L-tryptophan revealed a novel mechanism involving TM5 unwinding at a conserved GlyX9Pro motif, providing a solvent pathway for intracellular Na+ release from the Na2 site. Subsequent structures with six different substrates (L-Tyr, L-4-F-Phe, L-Phe, L-Ile, L-Leu, L-Val) revealed how a Gly-Met-Gly (GMG) motif in the unwound region of TM6 tailors the binding site volume to accommodate substrates of different sizes. The GMG loop shifts inward by ~2 A for small aliphatic substrates, reducing binding pocket volume from ~230 A^3 to ~144 A^3. A conserved Glu66 residue maintains interaction with the GMG loop through water-mediated hydrogen bonds in all states.
+MhsT is a multi-hydrophobic amino acid transporter from Bacillus halodurans belonging to the [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/transport-mechanisms/nss-family/). It mediates the Na+-coupled uptake of hydrophobic amino acids including L-tryptophan, L-tyrosine, [L-Phenylalanine](/xray-mp-wiki/reagents/ligands/l-phenylalanine/), and [L-Leucine](/xray-mp-wiki/reagents/ligands/l-leucine/). Initial crystal structures of MhsT in occluded inward-facing states with bound Na+ ions and L-tryptophan revealed a novel mechanism involving TM5 unwinding at a conserved GlyX9Pro motif, providing a solvent pathway for intracellular Na+ release from the Na2 site. Subsequent structures with six different substrates (L-Tyr, L-4-F-Phe, L-Phe, L-Ile, L-Leu, L-Val) revealed how a Gly-Met-Gly (GMG) motif in the unwound region of TM6 tailors the binding site volume to accommodate substrates of different sizes. The GMG loop shifts inward by ~2 A for small aliphatic substrates, reducing binding pocket volume from ~230 A^3 to ~144 A^3. A conserved Glu66 residue maintains interaction with the GMG loop through water-mediated hydrogen bonds in all states.
 
 
 ## Structure Determination
@@ -129,11 +129,11 @@ Structural alignment of MhsT (NSS family) with [Mhp1 Benzyl-Hydantoin Transporte
 
 - [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) — NSS family prototype; MhsT shares 33% sequence identity with LeuT; LeuT structures 5JAE and 5JAF show return state mechanism with Leu25 rotation; compared with MhsT inward-facing state for NSS transport cycle model
 - [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/slc-transporters/d-dopamine-transporter/) — Eukaryotic NSS homolog used for structural comparison; MhsT shares 25% sequence identity
-- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/nss-family/) — MhsT belongs to the NSS family
-- [SLC6 Substrate Recognition by the GMG Motif](/xray-mp-wiki/concepts/slc6-substrate-recognition-gmg-motif/) — The GMG motif in TM6 mediates MhsT substrate recognition
+- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/transport-mechanisms/nss-family/) — MhsT belongs to the NSS family
+- [SLC6 Substrate Recognition by the GMG Motif](/xray-mp-wiki/concepts/structural-mechanisms/slc6-substrate-recognition-gmg-motif/) — The GMG motif in TM6 mediates MhsT substrate recognition
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent for MhsT solubilization, purification, and binding studies
 - [TEV Protease](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) — Used to cleave N-terminal histidine tag from MhsT
 - [HiLiDe Crystallization](/xray-mp-wiki/methods/crystallization/hilide-crystallization/) — MhsT crystallized using HiLiDe method (2.1 A structure)
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — MhsT crystallized using LCP method (2.6 A structure)
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Core transport mechanism of NSS family
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Core transport mechanism of NSS family
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

@@ -87,10 +87,10 @@ The outward-facing conformation of HmuUV in the nucleotide-free state has implic
 
 ## Cross-References
 
-- [Type II ABC Transporter Family](/xray-mp-wiki/concepts/type-ii-abc-transporter-family/) — HmuUV is a type II ABC transporter
-- [ABC Transporter Family](/xray-mp-wiki/concepts/abc-transporter-family/) — HmuUV is an ABC transporter
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Outward/inward-facing conformations illustrate alternating access
-- [Inward-Facing Conformation of ABC Transporters](/xray-mp-wiki/concepts/inward-facing-conformation/) — HmuUV outward-facing conformation contrasts with inward-facing BhuUV
+- [Type II ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/type-ii-abc-transporter-family/) — HmuUV is a type II ABC transporter
+- [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — HmuUV is an ABC transporter
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Outward/inward-facing conformations illustrate alternating access
+- [Inward-Facing Conformation of ABC Transporters](/xray-mp-wiki/concepts/transport-mechanisms/inward-facing-conformation/) — HmuUV outward-facing conformation contrasts with inward-facing BhuUV
 - [BhuUV Complex](/xray-mp-wiki/proteins/abc-transporters/bhuuv/) — Orthologous haem transporter from Burkholderia cenocepacia
 - [BhuUV-T Complex](/xray-mp-wiki/proteins/abc-transporters/bhuuv-t/) — Orthologous haem importer complex from Burkholderia cenocepacia
 - [n-Dodecyl-β-D-Maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for membrane solubilization of HmuUV

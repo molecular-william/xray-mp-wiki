@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Human rhodopsin is the visual pigment [GPCR](/xray-mp-wiki/concepts/gpcr/) in vertebrate retina rod cells, responsible for dim-light vision. The E113Q/M257Y mutant is a constitutively active form that mimics the light-activated state. Glu113 (E(D)RY motif) mutation disrupts the inactive-state salt bridge, while Met257 (H6) mutation further stabilizes the active conformation. This mutant was used in complex with pre-activated mouse visual arrestin (3A mutant) to determine the first high-resolution structure of the rhodopsin-arrestin complex by serial femtosecond crystallography (SFX) at an X-ray free-electron laser.
+Human rhodopsin is the visual pigment [GPCR](/xray-mp-wiki/concepts/signaling-receptors/gpcr/) in vertebrate retina rod cells, responsible for dim-light vision. The E113Q/M257Y mutant is a constitutively active form that mimics the light-activated state. Glu113 (E(D)RY motif) mutation disrupts the inactive-state salt bridge, while Met257 (H6) mutation further stabilizes the active conformation. This mutant was used in complex with pre-activated mouse visual arrestin (3A mutant) to determine the first high-resolution structure of the rhodopsin-arrestin complex by serial femtosecond crystallography (SFX) at an X-ray free-electron laser.
 
 
 ## Structure Determination
@@ -101,5 +101,5 @@ T4 lysozymes in the asymmetric unit.
 - [Cholesteryl Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Lipid additive used in solubilization and purification buffers
 - [Lauryl Maltose Neopentyl Glycol (MNG-3)](/xray-mp-wiki/reagents/detergents/mng-3/) — Mild detergent used in washing buffer for amylose bead purification
 - [Serial Femtosecond Crystallography](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) — Primary method for structure determination at LCLS XFEL
-- [Gpcr](/xray-mp-wiki/concepts/gpcr/) — Related protein
+- [Gpcr](/xray-mp-wiki/concepts/signaling-receptors/gpcr/) — Related protein
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Related protein

@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-TREX1 (Three prime repair exonuclease 1) is a crucial mammalian enzyme consisting of an N-terminal nuclease domain and a C-terminal transmembrane domain. It acts as a 3'-to-5' exonuclease in the cytoplasm and nucleus, anchored at the endoplasmic reticulum (ER) membrane under normal conditions, where it degrades endogenous DNA to prevent nucleic acid-mediated immune activation. Dysfunction of TREX1 leads to accumulation of cytosolic nucleic acids and autoimmune diseases including Aicardi-Goutieres syndrome (AGS), systemic lupus erythematosus (SLE), and familial chilblain lupus (FCL). TREX1 is a member of the [DEDDh Exonuclease Family](/xray-mp-wiki/concepts/deddh-exonuclease-family/) and adopts a general two-metal ion mechanism for catalysis. This paper establishes that TREX1 can digest single-stranded RNA (ssRNA) and DNA/RNA hybrids but not double-stranded RNA (dsRNA), through a combination of nuclease activity assays, X-ray crystallography, and all-atom molecular dynamics simulations.
+TREX1 (Three prime repair exonuclease 1) is a crucial mammalian enzyme consisting of an N-terminal nuclease domain and a C-terminal transmembrane domain. It acts as a 3'-to-5' exonuclease in the cytoplasm and nucleus, anchored at the endoplasmic reticulum (ER) membrane under normal conditions, where it degrades endogenous DNA to prevent nucleic acid-mediated immune activation. Dysfunction of TREX1 leads to accumulation of cytosolic nucleic acids and autoimmune diseases including Aicardi-Goutieres syndrome (AGS), systemic lupus erythematosus (SLE), and familial chilblain lupus (FCL). TREX1 is a member of the [DEDDh Exonuclease Family](/xray-mp-wiki/concepts/protein-families/deddh-exonuclease-family/) and adopts a general two-metal ion mechanism for catalysis. This paper establishes that TREX1 can digest single-stranded RNA (ssRNA) and DNA/RNA hybrids but not double-stranded RNA (dsRNA), through a combination of nuclease activity assays, X-ray crystallography, and all-atom molecular dynamics simulations.
 
 ## Structure Determination
 
@@ -56,6 +56,6 @@ DNA/RNA hybrids are processed by TREX1 with efficiency comparable to dsDNA diges
 
 ## Cross-References
 
-- [TREX1 RNase Activity](/xray-mp-wiki/concepts/trex1-rnase-activity/) — This paper establishes the molecular basis of TREX1's RNase activity
-- [DEDDh Exonuclease Family](/xray-mp-wiki/concepts/deddh-exonuclease-family/) — TREX1 is a member of the DEDDh family
+- [TREX1 RNase Activity](/xray-mp-wiki/concepts/enzyme-mechanisms/trex1-rnase-activity/) — This paper establishes the molecular basis of TREX1's RNase activity
+- [DEDDh Exonuclease Family](/xray-mp-wiki/concepts/protein-families/deddh-exonuclease-family/) — TREX1 is a member of the DEDDh family
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification

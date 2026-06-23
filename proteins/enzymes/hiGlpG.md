@@ -117,8 +117,8 @@ HiGlpG differs from the E. coli rhomboid [GLPG](/xray-mp-wiki/proteins/enzymes/g
 
 ## Cross-References
 
-- [Rhomboid Protease Family](/xray-mp-wiki/concepts/rhomboid-protease/) — HiGlpG is a member of the rhomboid intramembrane protease family
-- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/intramembrane-proteolysis/) — HiGlpG cleaves transmembrane substrates within the lipid bilayer
+- [Rhomboid Protease Family](/xray-mp-wiki/concepts/protein-families/rhomboid-protease/) — HiGlpG is a member of the rhomboid intramembrane protease family
+- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-proteolysis/) — HiGlpG cleaves transmembrane substrates within the lipid bilayer
 - [GlpG (E. coli Rhomboid Protease)](/xray-mp-wiki/proteins/enzymes/glpg/) — Homologous rhomboid protease from E. coli with comparable gating mechanism
 - [Cytoplasmic Domain of E. coli Rhomboid Protease GlpG (EcGlpG-Cyto)](/xray-mp-wiki/proteins/enzymes/ecglpg-cyto/) — Related structural entity representing the soluble cytoplasmic domain of the GlpG homolog
 - [DDM (N-Dodecyl-beta-D-maltoside)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary solubilization detergent (1%) for HiGlpG membrane extraction

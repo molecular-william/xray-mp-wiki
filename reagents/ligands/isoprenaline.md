@@ -54,7 +54,7 @@ No comparison data available.
 - [Dobutamine](/xray-mp-wiki/reagents/ligands/dobutamine/) — Related beta-adrenergic agonist ligand
 - [Salbutamol](/xray-mp-wiki/reagents/ligands/salbutamol/) — Related beta-adrenergic agonist ligand
 - [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) — Antagonist ligand for beta1AR used in related structure determination
-- [GPCR Active Conformation](/xray-mp-wiki/concepts/gpcr-active-conformation/) — Isoprenaline binding stabilizes the active conformation of beta1AR
-- [GPCR Active State High-Affinity Agonist Binding](/xray-mp-wiki/concepts/gpcr-active-state-high-affinity-agonist-binding/) — Isoprenaline shows largest binding site contraction (42%) upon activation
+- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — Isoprenaline binding stabilizes the active conformation of beta1AR
+- [GPCR Active State High-Affinity Agonist Binding](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-state-high-affinity-agonist-binding/) — Isoprenaline shows largest binding site contraction (42%) upon activation
 - [Turkey Beta1-Adrenergic Receptor (beta1AR)](/xray-mp-wiki/proteins/gpcr/beta1-adrenergic-receptor/) — New active-state structure (PDB 6H7J) with isoprenaline shows binding site contraction
 - [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Additive used in purification or crystallization buffers

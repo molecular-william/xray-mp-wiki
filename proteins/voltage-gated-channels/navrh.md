@@ -90,9 +90,9 @@ Viewed from the cytoplasm, the VSDs of NavRh are rotated anticlockwise around th
 
 - [NavAb Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) — Key structural comparison for voltage-sensing mechanism and S4 movement
 - [NaChBac Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/nachbac/) — NavRh is an orthologue of NaChBac; functional comparison for inactivation
-- [Sodium Channel Gating and Selectivity](/xray-mp-wiki/concepts/sodium-channel-gating/) — Paper discusses electromechanical coupling and voltage-sensing mechanism
-- [C-Type Inactivation](/xray-mp-wiki/concepts/c-type-inactivation/) — NavRh structure proposed to represent an inactivated conformation
-- [Sodium Channel Inactivation Gating](/xray-mp-wiki/concepts/sodium-channel-inactivation-gating/) — Structural insights into inactivation mechanism of voltage-gated sodium channels
+- [Sodium Channel Gating and Selectivity](/xray-mp-wiki/concepts/transport-mechanisms/sodium-channel-gating/) — Paper discusses electromechanical coupling and voltage-sensing mechanism
+- [C-Type Inactivation](/xray-mp-wiki/concepts/structural-mechanisms/c-type-inactivation/) — NavRh structure proposed to represent an inactivated conformation
+- [Sodium Channel Inactivation Gating](/xray-mp-wiki/concepts/transport-mechanisms/sodium-channel-inactivation-gating/) — Structural insights into inactivation mechanism of voltage-gated sodium channels
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Additive used in purification or crystallization buffers
 - [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers

@@ -68,8 +68,8 @@ The K294A mutant structure was refined at 2.7 A resolution with Rwork/Rfree of 2
 - [V. parahaemolyticus Sodium-Galactose Transporter (vSGLT)](/xray-mp-wiki/proteins/slc-transporters/vsglt/) — K294A is a point mutant of vSGLT
 - [Sodium Ion (Na+)](/xray-mp-wiki/reagents/ligands/sodium-ion/) — K294 coordinates the sodium ion at the Na2 site
 - [D-Galactose](/xray-mp-wiki/reagents/ligands/d-galactose/) — Primary substrate of vSGLT
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — K294A mutation provides evidence for sodium-dependent gating
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/) — vSGLT is a member of the MFS transporter family
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — K294A mutation provides evidence for sodium-dependent gating
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — vSGLT is a member of the MFS transporter family
 - [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Method used in structure determination or purification
 - [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers
 - [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) — Additive used in purification or crystallization buffers

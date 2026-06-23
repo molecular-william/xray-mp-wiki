@@ -76,4 +76,4 @@ All cysteine residues in SNAP-25A were replaced by serines to prevent aberrant d
 - [Synaptobrevin-2 (Rat Neuronal Qc-SNARE Protein)](/xray-mp-wiki/proteins/structural-adhesion/synaptobrevin-2/) — Qc-SNARE partner; assembles with SNAP-25A and syntaxin-1A into four-helix bundle
 - [Nonylglucoside (NG)](/xray-mp-wiki/reagents/detergents/nonylglucoside/) — n-nonyl beta-D-glucopyranoside used as detergent for crystallization
 - [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — n-octyl beta-D-glucopyranoside used in purification buffer for SNARE complex assembly
-- [SNARE Complex](/xray-mp-wiki/concepts/snare-complex/) — SNAP-25A provides two helices to the four-helix bundle SNARE complex
+- [SNARE Complex](/xray-mp-wiki/concepts/structural-mechanisms/snare-complex/) — SNAP-25A provides two helices to the four-helix bundle SNARE complex

@@ -66,13 +66,13 @@ The structure was solved at acidic pH (4.6), which corresponds to the pH of the 
 
 ### Seven-pass transmembrane topology and comparison to other receptors
 
-The KDEL receptor adopts a seven-pass transmembrane topology, which is distinct from the canonical seven-transmembrane G protein-coupled receptor (GPCR) fold. The transmembrane helices are arranged in a bundle with the ligand-binding pocket oriented toward the extracellular side, consistent with its role in retrieving luminal ER proteins. Despite the topological differences from class A GPCRs, the KDEL receptor shares a similar overall architecture with other seven-pass membrane proteins, suggesting convergent evolution of ligand-binding mechanisms in membrane receptors. The structure provides a structural framework for understanding the [ER retrieval mechanism](/xray-mp-wiki/concepts/er-retrieval-mechanism/) that maintains ER protein localization.
+The KDEL receptor adopts a seven-pass transmembrane topology, which is distinct from the canonical seven-transmembrane G protein-coupled receptor (GPCR) fold. The transmembrane helices are arranged in a bundle with the ligand-binding pocket oriented toward the extracellular side, consistent with its role in retrieving luminal ER proteins. Despite the topological differences from class A GPCRs, the KDEL receptor shares a similar overall architecture with other seven-pass membrane proteins, suggesting convergent evolution of ligand-binding mechanisms in membrane receptors. The structure provides a structural framework for understanding the [ER retrieval mechanism](/xray-mp-wiki/concepts/signaling-receptors/er-retrieval-mechanism/) that maintains ER protein localization.
 
 
 ## Cross-References
 
-- [ER Retrieval Mechanism](/xray-mp-wiki/concepts/er-retrieval-mechanism/) — The KDEL receptor is the central receptor in the ER retrieval mechanism that maintains ER resident protein localization
-- [Membrane Mimetics and Structural Biology](/xray-mp-wiki/concepts/membrane-mimetics/) — The KDEL receptor was solubilized and crystallized using detergent micelles and lipidic cubic phase, key membrane mimetic techniques
+- [ER Retrieval Mechanism](/xray-mp-wiki/concepts/signaling-receptors/er-retrieval-mechanism/) — The KDEL receptor is the central receptor in the ER retrieval mechanism that maintains ER resident protein localization
+- [Membrane Mimetics and Structural Biology](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/) — The KDEL receptor was solubilized and crystallized using detergent micelles and lipidic cubic phase, key membrane mimetic techniques
 - [DDM (N-Dodecyl-beta-D-maltoside)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary solubilization detergent (1%) used for KDEL receptor membrane extraction and purification
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used as the cubic phase matrix for LCP crystallization of the KDEL receptor
 - [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) — Crystallization precipitant (20-30% PEG 400) used in the LCP crystallization reservoir

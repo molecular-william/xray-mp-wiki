@@ -70,7 +70,7 @@ Alignment of mHv1cc with related voltage-gated proton channels from multiple spe
 
 ## Cross-References
 
-- [Channel Gating](/xray-mp-wiki/concepts/channel-gating/) — mHv1cc is a voltage-gated proton channel with S4-based gating mechanism
+- [Channel Gating](/xray-mp-wiki/concepts/transport-mechanisms/channel-gating/) — mHv1cc is a voltage-gated proton channel with S4-based gating mechanism
 - [Influenza A M2 Proton Channel](/xray-mp-wiki/proteins/other-ion-channels/influenza-a-m2-proton-channel/) — M2 proton channel also uses double hydrophobic barrier mechanism for proton conduction
-- [Voltage-Sensor Paddle](/xray-mp-wiki/concepts/voltage-sensor-paddle/) — mHv1cc contains a voltage-sensing S4 helix with gating arginines
+- [Voltage-Sensor Paddle](/xray-mp-wiki/concepts/construct-design/voltage-sensor-paddle/) — mHv1cc contains a voltage-sensing S4 helix with gating arginines
 - [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) — Additive used in purification or crystallization buffers

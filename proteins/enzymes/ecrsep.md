@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-EcRseP is the E. coli homolog of [Site-2 Protease (mjS2P) from Methanocaldococcus jannaschii](/xray-mp-wiki/proteins/enzymes/mjs2p/) (S2P), a conserved zinc metalloprotease family that performs [Intramembrane Proteolysis](/xray-mp-wiki/concepts/intramembrane-proteolysis/) of transmembrane substrates. EcRseP catalyzes the second step of the extracytoplasmic stress response by cleaving the anti-sigma factor RseA after its periplasmic region has been removed by DegS. It contains a conserved catalytic core with a zinc-binding HEXXH motif, an MRE beta-sheet, two tandem periplasmic PDZ domains that serve as a size exclusion filter, and a PCT (PDZ C-terminal) region with two helices (H1 and H2). The crystal structure of EcRseP in complex with the peptide-mimetic inhibitor  revealed the architecture of a group I S2P family member with extracytoplasmic PDZ domains.
+EcRseP is the E. coli homolog of [Site-2 Protease (mjS2P) from Methanocaldococcus jannaschii](/xray-mp-wiki/proteins/enzymes/mjs2p/) (S2P), a conserved zinc metalloprotease family that performs [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-proteolysis/) of transmembrane substrates. EcRseP catalyzes the second step of the extracytoplasmic stress response by cleaving the anti-sigma factor RseA after its periplasmic region has been removed by DegS. It contains a conserved catalytic core with a zinc-binding HEXXH motif, an MRE beta-sheet, two tandem periplasmic PDZ domains that serve as a size exclusion filter, and a PCT (PDZ C-terminal) region with two helices (H1 and H2). The crystal structure of EcRseP in complex with the peptide-mimetic inhibitor  revealed the architecture of a group I S2P family member with extracytoplasmic PDZ domains.
 
 
 ## Structure Determination
@@ -77,8 +77,8 @@ EcRseP regulates substrate cleavage through three processes: (1) size exclusion 
 
 - [Kangiella koreensis RseP (KkRseP)](/xray-mp-wiki/proteins/enzymes/kkrsep/) — Orthologous S2P used for comparative structural analysis
 - [Batimastat](/xray-mp-wiki/reagents/ligands/batimastat/) — Peptide-mimetic inhibitor bound in crystal structure
-- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/intramembrane-proteolysis/) — EcRseP is a member of the S2P family of intramembrane proteases
-- [Site-2 Protease Family Mechanism](/xray-mp-wiki/concepts/site-2-protease-family-mechanism/) — EcRseP is the defining bacterial group I S2P member
+- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-proteolysis/) — EcRseP is a member of the S2P family of intramembrane proteases
+- [Site-2 Protease Family Mechanism](/xray-mp-wiki/concepts/protein-families/site-2-protease-family-mechanism/) — EcRseP is the defining bacterial group I S2P member
 - [GlpG Rhomboid Intramembrane Protease](/xray-mp-wiki/proteins/enzymes/glpg/) — Another intramembrane protease family with analogous gating mechanism
 - [Batimastat](/xray-mp-wiki/reagents/batimastat/) — Referenced in ecrsep text
 - [Iptg](/xray-mp-wiki/reagents/additives/iptg/) — Referenced in ecrsep text

@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-[Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) Facilitator (GlpF) is a membrane transporter from Escherichia coli that facilitates rapid [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) transport across the cell membrane. The high-resolution X-ray crystal structure reveals a tetrameric channel with each monomer containing six transmembrane helices and two membrane-inserted non-membrane-spanning helices, sharing the same general topology as [Aquaporin](/xray-mp-wiki/concepts/aquaporin/) water channels. The key structural difference from water-specific aquaporins is a wider, more hydrophobic constriction region that accommodates glycerol molecules, achieved by substituting glycine for the conserved histidine and phenylalanine for conserved cysteine found in the [Aquaporin](/xray-mp-wiki/concepts/aquaporin/) constriction region.
+[Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) Facilitator (GlpF) is a membrane transporter from Escherichia coli that facilitates rapid [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) transport across the cell membrane. The high-resolution X-ray crystal structure reveals a tetrameric channel with each monomer containing six transmembrane helices and two membrane-inserted non-membrane-spanning helices, sharing the same general topology as [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) water channels. The key structural difference from water-specific aquaporins is a wider, more hydrophobic constriction region that accommodates glycerol molecules, achieved by substituting glycine for the conserved histidine and phenylalanine for conserved cysteine found in the [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) constriction region.
 
 ## Structure Determination
 
@@ -71,7 +71,7 @@ A similar distribution of pore-lining carbonyl oxygens and asparagine amine grou
 ## Cross-References
 
 - [Aquaporin-1 (AQP1)](/xray-mp-wiki/proteins/other-ion-channels/aqp1/) — Water-specific aquaporin used as structural comparison; AQP1 constriction region is narrower and more hydrophilic, excluding glycerol
-- [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) — GlpF belongs to the aquaporin superfamily; shares conserved NPA motifs and general topology with water channels
+- [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — GlpF belongs to the aquaporin superfamily; shares conserved NPA motifs and general topology with water channels
 - [Aquaporin Z (AqpZ)](/xray-mp-wiki/proteins/other-ion-channels/aquaporin-z/) — E. coli bacterial water channel homolog; shares common architecture with GlpF
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Referenced in glycerol-facilitator text
 - [Glpf](/xray-mp-wiki/proteins/other-ion-channels/glpf/) — Referenced in glycerol-facilitator text

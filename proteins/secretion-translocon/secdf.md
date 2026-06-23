@@ -142,7 +142,7 @@ The original 2011 study demonstrated that SecDF conducts protons through its tra
 ## Cross-References
 
 - [Thermus thermophilus SecYEG Translocon Complex](/xray-mp-wiki/proteins/secretion-translocon/secyeg/) — SecDF operates at the extracytoplasmic side of the SecYEG channel to pull precursor proteins during translocation
-- [RND Efflux Pumps](/xray-mp-wiki/concepts/rnd-efflux-pumps/) — SecDF belongs to the RND superfamily; structural insights into remote coupling mechanism
+- [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) — SecDF belongs to the RND superfamily; structural insights into remote coupling mechanism
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Primary lipid used for LCP crystallization of SecDF (PDB 5YHF)
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used for SecDF Super F form structure determination
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

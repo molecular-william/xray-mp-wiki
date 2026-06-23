@@ -61,12 +61,12 @@ The MetNI transporter crystallizes in an inward-facing, ATPase-inactive conforma
 
 ### Allosteric Regulation by Transinhibition
 
-Methionine binds to the C2 (ACT) domain dimer interface near residues Met301 and Met312, stabilizing the inward-facing, ATPase-inactive conformation. [L-Methionine](/xray-mp-wiki/reagents/ligands/l-methionine/) inhibits ATPase activity with half-maximal inhibition at ~30 µM; L-[Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) is more potent (~10 µM). [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) of the C2 domain eliminates methionine inhibition. This provides a molecular mechanism for Kadner's observation that increasing internal methionine inhibits transport.
+Methionine binds to the C2 (ACT) domain dimer interface near residues Met301 and Met312, stabilizing the inward-facing, ATPase-inactive conformation. [L-Methionine](/xray-mp-wiki/reagents/ligands/l-methionine/) inhibits ATPase activity with half-maximal inhibition at ~30 µM; L-[Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) is more potent (~10 µM). [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) of the C2 domain eliminates methionine inhibition. This provides a molecular mechanism for Kadner's observation that increasing internal methionine inhibits transport.
 
 
 ## Cross-References
 
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [MalF (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/abc-transporters/malF/) — Related protein structure
 - [MalG (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/abc-transporters/malG/) — Related protein structure
 - [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) — Additive used in purification or crystallization buffers

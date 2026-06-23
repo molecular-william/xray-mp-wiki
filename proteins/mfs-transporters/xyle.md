@@ -220,9 +220,9 @@ At the periplasmic side, interactions between the N and C subdomains are tighter
 ## Cross-References
 
 - [Human Glucose Transporter GLUT1 (SLC2A1)](/xray-mp-wiki/proteins/mfs-transporters/glut1/) — Human homologue; structural comparison reveals 16 degree domain rotation between inward-open GLUT1 and outward-facing XylE
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/) — XylE belongs to the MFS, specifically the sugar porter subfamily
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — XylE captures an outward-facing conformation in the alternating-access cycle
-- [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/rocker-switch-mechanism/) — XylE asymmetric rocker-switch movement revealed by MD simulations
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — XylE belongs to the MFS, specifically the sugar porter subfamily
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — XylE captures an outward-facing conformation in the alternating-access cycle
+- [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/) — XylE asymmetric rocker-switch movement revealed by MD simulations
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent for XylE solubilization and purification
 - [Decylmaltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Used at 1% for XylE solubilization in ncomms5521 study
 - [PEG 600](/xray-mp-wiki/reagents/additives/peg-600/) — Crystallization precipitant at 20% for inward-open conformation

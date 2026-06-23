@@ -14,18 +14,18 @@ verified: false
 
 ## Overview
 
-MlaC is a soluble [periplasmic](/xray-mp-wiki/concepts/periplasm/) lipid-binding protein from Escherichia coli that functions as a shuttle carrier for phospholipids in the Mla lipid transport system. MlaC binds lipid tails in a deep [hydrophobic pocket](/xray-mp-wiki/concepts/hydrophobic-pocket/) with little head group specificity, allowing it to ferry a wide range of diacyl lipids between the [inner membrane](/xray-mp-wiki/concepts/inner-membrane/) MlaFEDB transporter complex and the [outer membrane](/xray-mp-wiki/concepts/outer-membrane/) [MLAA](/xray-mp-wiki/proteins/mlaA)-OmpC/OmpF complex. MlaC adopts a mixed alpha/beta fold with four beta strands and seven alpha helices. Its structure reveals a deep [hydrophobic pocket](/xray-mp-wiki/concepts/hydrophobic-pocket/) that binds the two tails of a lipid molecule without interacting with the lipid head group.
+MlaC is a soluble [periplasmic](/xray-mp-wiki/concepts/miscellaneous/periplasm/) lipid-binding protein from Escherichia coli that functions as a shuttle carrier for phospholipids in the Mla lipid transport system. MlaC binds lipid tails in a deep [hydrophobic pocket](/xray-mp-wiki/concepts/hydrophobic-pocket/) with little head group specificity, allowing it to ferry a wide range of diacyl lipids between the [inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/inner-membrane/) MlaFEDB transporter complex and the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) [MLAA](/xray-mp-wiki/proteins/mlaA)-OmpC/OmpF complex. MlaC adopts a mixed alpha/beta fold with four beta strands and seven alpha helices. Its structure reveals a deep [hydrophobic pocket](/xray-mp-wiki/concepts/hydrophobic-pocket/) that binds the two tails of a lipid molecule without interacting with the lipid head group.
 
 ## Structure Determination
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.cell.2017.03.019 | 5UWA | 2.5 A | P212121 | Mature MlaC, signal peptide-cleaved, residues 22-211, with [N-terminal](/xray-mp-wiki/concepts/n-terminus/) [6xHis](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag and [TEV protease](/xray-mp-wiki/reagents/additives/tev-protease/) cleavage site | Phosphatidic acid |
+| doi/10.1016##j.cell.2017.03.019 | 5UWA | 2.5 A | P212121 | Mature MlaC, signal peptide-cleaved, residues 22-211, with [N-terminal](/xray-mp-wiki/concepts/structural-mechanisms/n-terminus/) [6xHis](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag and [TEV protease](/xray-mp-wiki/reagents/additives/tev-protease/) cleavage site | Phosphatidic acid |
 
 ## Expression and Purification
 
 - **Expression system**: E. coli Rosetta2 DE3
-- **Construct**: Mature MlaC (residues 22-211), signal peptide-cleaved, cloned into custom pET vector (pBE1092) with [N-terminal](/xray-mp-wiki/concepts/n-terminus/) [6xHis](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag and [TEV protease](/xray-mp-wiki/reagents/additives/tev-protease/) cleavage site
+- **Construct**: Mature MlaC (residues 22-211), signal peptide-cleaved, cloned into custom pET vector (pBE1092) with [N-terminal](/xray-mp-wiki/concepts/structural-mechanisms/n-terminus/) [6xHis](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag and [TEV protease](/xray-mp-wiki/reagents/additives/tev-protease/) cleavage site
 
 ### Purification Workflow
 
@@ -34,8 +34,8 @@ MlaC is a soluble [periplasmic](/xray-mp-wiki/concepts/periplasm/) lipid-binding
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
-| Cell lysis | Emulsiflex-C3 cell disruptor, centrifugation at 38,000g | -- | 50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 300 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + -- | Clarified lysate from [periplasmic](/xray-mp-wiki/concepts/periplasm/) fraction |
-| [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Metal [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta) agarose | 50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 300 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (wash), 250 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (elution) + -- | His-tagged MlaC purified from soluble [periplasmic](/xray-mp-wiki/concepts/periplasm/) fraction |
+| Cell lysis | Emulsiflex-C3 cell disruptor, centrifugation at 38,000g | -- | 50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 300 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + -- | Clarified lysate from [periplasmic](/xray-mp-wiki/concepts/miscellaneous/periplasm/) fraction |
+| [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Metal [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta) agarose | 50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 300 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (wash), 250 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (elution) + -- | His-tagged MlaC purified from soluble [periplasmic](/xray-mp-wiki/concepts/miscellaneous/periplasm/) fraction |
 | Gel filtration | Size-exclusion chromatography on [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | 20 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/) + -- | Monomeric MlaC eluted as single peak |
 
 
@@ -68,12 +68,12 @@ functions as a general lipid shuttle.
 
 ### Periplasmic lipid shuttle between inner and outer membrane complexes
 
-MlaC interacts directly with both the [inner membrane](/xray-mp-wiki/concepts/inner-membrane/) MlaFEDB transporter complex
-and the [outer membrane](/xray-mp-wiki/concepts/outer-membrane/) [MLAA](/xray-mp-wiki/proteins/mlaA)-OmpC/OmpF complex, as demonstrated by [biolayer interferometry](/xray-mp-wiki/methods/quality-assessment/biolayer-interferometry/)
+MlaC interacts directly with both the [inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/inner-membrane/) MlaFEDB transporter complex
+and the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) [MLAA](/xray-mp-wiki/proteins/mlaA)-OmpC/OmpF complex, as demonstrated by [biolayer interferometry](/xray-mp-wiki/methods/quality-assessment/biolayer-interferometry/)
 (Octet RED384). MlaC makes no significant interactions with lipid head groups,
 suggesting it binds the hydrophobic tails of phospholipids extracted from the inner
-membrane and delivers them to the [outer membrane](/xray-mp-wiki/concepts/outer-membrane/). This shuttle mechanism bridges
-the [periplasmic](/xray-mp-wiki/concepts/periplasm/) space between the IM and OM lipid transport complexes.
+membrane and delivers them to the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/). This shuttle mechanism bridges
+the [periplasmic](/xray-mp-wiki/concepts/miscellaneous/periplasm/) space between the IM and OM lipid transport complexes.
 
 ### MlaC homologs and structural conservation
 

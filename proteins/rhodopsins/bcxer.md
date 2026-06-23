@@ -96,8 +96,8 @@ Comparison with bacteriorhodopsin (HsBR) reveals that both outward and inward pr
 ## Cross-References
 
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Chromophore covalently bound to the protein via Schiff base
-- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-photocycle/) — BcXeR exhibits a photocycle with K, L, and M intermediate states
-- [Retinal Chromophore Conformation](/xray-mp-wiki/concepts/retinal-chromophore-conformation/) — Retinal isomerization from all-trans to 13-cis drives the photocycle
+- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/) — BcXeR exhibits a photocycle with K, L, and M intermediate states
+- [Retinal Chromophore Conformation](/xray-mp-wiki/concepts/structural-mechanisms/retinal-chromophore-conformation/) — Retinal isomerization from all-trans to 13-cis drives the photocycle
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — BcXeR crystallized in monoolein-based LCP
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used for LCP crystallization matrix
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for BcXeR purification

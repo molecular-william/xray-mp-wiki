@@ -102,7 +102,7 @@ The Morimoto et al. structure used a quadruple mutant (A173I, V185S, S258D, C289
 
 ## Cross-References
 
-- [GPCR Active Conformation](/xray-mp-wiki/concepts/gpcr-active-conformation/) — EP3 structures represent active-like state of a prostanoid receptor
+- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — EP3 structures represent active-like state of a prostanoid receptor
 - [n-Dodecyl-beta-D-Maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent for EP3 solubilization and purification
 - [Cholesteryl Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Lipid additive for EP3 stabilization during purification
 - [T4 Lysozyme (T4L)](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — T4L fusion in ICL3 used in the EP3-misoprostol structure (Audet et al.)

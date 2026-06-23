@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-AtPIP2;4 is a plasma membrane intrinsic protein (PIP) [Aquaporin](/xray-mp-wiki/concepts/aquaporin/) from Arabidopsis thaliana. It belongs to the PIP2 subfamily of plant [Aquaporin](/xray-mp-wiki/concepts/aquaporin/), which form homotetramers at the plasma membrane and function as water and hydrogen peroxide (H2O2) channels. AtPIP2;4 shares the conserved [Aquaporin](/xray-mp-wiki/concepts/aquaporin/) hourglass architecture with six transmembrane helices and two half-helices containing NPA motifs. The structure was determined at 3.7 Å resolution (PDB: 6QIM), revealing high structural similarity to SoPIP2;1 from spinach (75% sequence identity). Unlike SoPIP2;1, Cd2+ cation is not required to retain the closed conformation. AtPIP2;4 is an efficient transporter of both water and H2O2, with H2O2 transport capacity comparable to SoPIP2;1 and significantly higher than human [AQP1](/xray-mp-wiki/proteins/other-ion-channels/aqp1/).
+AtPIP2;4 is a plasma membrane intrinsic protein (PIP) [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) from Arabidopsis thaliana. It belongs to the PIP2 subfamily of plant [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/), which form homotetramers at the plasma membrane and function as water and hydrogen peroxide (H2O2) channels. AtPIP2;4 shares the conserved [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) hourglass architecture with six transmembrane helices and two half-helices containing NPA motifs. The structure was determined at 3.7 Å resolution (PDB: 6QIM), revealing high structural similarity to SoPIP2;1 from spinach (75% sequence identity). Unlike SoPIP2;1, Cd2+ cation is not required to retain the closed conformation. AtPIP2;4 is an efficient transporter of both water and H2O2, with H2O2 transport capacity comparable to SoPIP2;1 and significantly higher than human [AQP1](/xray-mp-wiki/proteins/other-ion-channels/aqp1/).
 
 
 ## Structure Determination
@@ -54,22 +54,22 @@ AtPIP2;4 is a plasma membrane intrinsic protein (PIP) [Aquaporin](/xray-mp-wiki/
 | Temperature | 4 |
 | Growth time | Few days |
 | Cryoprotection | Flash frozen in liquid nitrogen |
-| Notes | Crystals appeared after a few days. The tetramer shows a typical [Aquaporin](/xray-mp-wiki/concepts/aquaporin/) oligomer with four individual water pores. Two molecules in asymmetric unit. Data collected at ESRF beamline MASSIF-1 (ID30A-1). Molecular replacement with SoPIP2;1 (PDB: 4jc6). |
+| Notes | Crystals appeared after a few days. The tetramer shows a typical [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) oligomer with four individual water pores. Two molecules in asymmetric unit. Data collected at ESRF beamline MASSIF-1 (ID30A-1). Molecular replacement with SoPIP2;1 (PDB: 4jc6). |
 
 
 ## Biological / Functional Insights
 
 ### AtPIP2;4 is an efficient H2O2 transporter
 
-AtPIP2;4 transports hydrogen peroxide efficiently, as demonstrated by yeast growth assay (most significant growth defect among 12 AtPIP homologues at 3 mM H2O2), DCF fluorescence assay, and a novel proteoliposome assay. The plant [Aquaporin](/xray-mp-wiki/concepts/aquaporin/) (AtPIP2;4 and SoPIP2;1) are significantly more efficient at H2O2 transport than human [AQP1](/xray-mp-wiki/proteins/other-ion-channels/aqp1/), despite comparable water transport efficiencies. The H2O2 transport is protein-specific and can be inhibited by [Mercury](/xray-mp-wiki/reagents/additives/mercury/) (tested for hAQP1, which has Cys189 in the selectivity filter; plant [Aquaporin](/xray-mp-wiki/concepts/aquaporin/) have Thr at the corresponding position and are mercury-insensitive).
+AtPIP2;4 transports hydrogen peroxide efficiently, as demonstrated by yeast growth assay (most significant growth defect among 12 AtPIP homologues at 3 mM H2O2), DCF fluorescence assay, and a novel proteoliposome assay. The plant [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) (AtPIP2;4 and SoPIP2;1) are significantly more efficient at H2O2 transport than human [AQP1](/xray-mp-wiki/proteins/other-ion-channels/aqp1/), despite comparable water transport efficiencies. The H2O2 transport is protein-specific and can be inhibited by [Mercury](/xray-mp-wiki/reagents/additives/mercury/) (tested for hAQP1, which has Cys189 in the selectivity filter; plant [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) have Thr at the corresponding position and are mercury-insensitive).
 
 ### Loop D conformation in AtPIP2;4 without divalent cation
 
-The AtPIP2;4 structure reveals loop D in a conformation very similar to the closed conformation of SoPIP2;1, despite the absence of a Cd2+ cation. In SoPIP2;1, a divalent cation (Cd2+ in crystals, possibly Ca2+ in vivo) was critical for defining the closed structure by anchoring loop D. The observation that AtPIP2;4 adopts a similar closed conformation without the cation suggests variations in the molecular mechanisms for plant [Aquaporin](/xray-mp-wiki/concepts/aquaporin/) regulation, with possible additional fine-tuning involving loop regions.
+The AtPIP2;4 structure reveals loop D in a conformation very similar to the closed conformation of SoPIP2;1, despite the absence of a Cd2+ cation. In SoPIP2;1, a divalent cation (Cd2+ in crystals, possibly Ca2+ in vivo) was critical for defining the closed structure by anchoring loop D. The observation that AtPIP2;4 adopts a similar closed conformation without the cation suggests variations in the molecular mechanisms for plant [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) regulation, with possible additional fine-tuning involving loop regions.
 
 ### Comparison of transport specificities across aquaporin homologues
 
-The pore-lining residues of hAQP1, SoPIP2;1 and AtPIP2;4 are almost identical. The selectivity filter residues (F87, H216, T225, R231 in AtPIP2;4) show no obvious difference in pore diameter despite T225 being a cysteine in hAQP1. Differences in H2O2 transport efficiency between plant and human [Aquaporin](/xray-mp-wiki/concepts/aquaporin/) cannot be explained by differences in the monomeric pore architecture. The structural determinants likely reside in the flexible loop regions outside the membrane core. Loop D, which is four residues shorter in hAQP1 and lacks the conserved Leu197 involved in PIP channel regulation, is a candidate for contributing to transport specificity differences.
+The pore-lining residues of hAQP1, SoPIP2;1 and AtPIP2;4 are almost identical. The selectivity filter residues (F87, H216, T225, R231 in AtPIP2;4) show no obvious difference in pore diameter despite T225 being a cysteine in hAQP1. Differences in H2O2 transport efficiency between plant and human [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) cannot be explained by differences in the monomeric pore architecture. The structural determinants likely reside in the flexible loop regions outside the membrane core. Loop D, which is four residues shorter in hAQP1 and lacks the conserved Leu197 involved in PIP channel regulation, is a candidate for contributing to transport specificity differences.
 
 
 ## Cross-References
@@ -80,7 +80,7 @@ The pore-lining residues of hAQP1, SoPIP2;1 and AtPIP2;4 are almost identical. T
 - [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Method used for crystallization of AtPIP2;4
 - [LDAO (n-Dodecyl-N,N-Dimethylamine-N-Oxide)](/xray-mp-wiki/reagents/detergents/ldao/) — Primary detergent for solubilization and purification
 - [n-Octyl-beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — Detergent used for crystallization and final SEC buffer
-- [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) — AtPIP2;4 is a member of the aquaporin family
+- [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — AtPIP2;4 is a member of the aquaporin family
 - [AQP1](/xray-mp-wiki/proteins/other-ion-channels/aqp1/) — Referenced in the context of AQP1
 - [Urea](/xray-mp-wiki/reagents/substrates/urea/) — Referenced in the context of Urea
 - [Tris](/xray-mp-wiki/reagents/buffers/tris/) — Referenced in the context of Tris

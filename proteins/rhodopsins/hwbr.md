@@ -133,15 +133,15 @@ HwBR pumps protons from the intracellular to extracellular side via a conserved 
 ## Cross-References
 
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — HwBR was crystallized in monoolein LCP for both detergent-based and SMA-based approaches
-- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-photocycle/) — HwBR is a microbial rhodopsin proton pump with a photocycle mechanism
+- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/) — HwBR is a microbial rhodopsin proton pump with a photocycle mechanism
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — All-trans-retinal chromophore covalently bound to Lys224
 - [SMA Nanodisc Purification](/xray-mp-wiki/methods/solubilization/sma-nanodisc-purification/) — Novel polymer-based solubilization and purification method demonstrated with HwBR
 - [SMA-LCP Crystallization](/xray-mp-wiki/methods/crystallization/sma-lcp-crystallization/) — Novel polymer-mediated in meso crystallization approach validated with HwBR
 - [DMPC](/xray-mp-wiki/reagents/lipids/dmpc/) — Synthetic phospholipid added to improve SMA solubilization efficiency
 - [N-Dodecyl-beta-D-maltopyranoside (beta-DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for reference purification and solubilization
 - [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — Detergent used for reference purification and LCP crystallization
-- [Proton Pump Mechanism](/xray-mp-wiki/concepts/proton-pump-mechanism/) — HwBR is a light-driven proton pump with a unique Arg82-Thr201 extracellular cap that shields the retinal pocket at low pH
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — HwBR belongs to the qR subfamily of archaeal rhodopsins with acid-resistant optical properties
-- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-photocycle/) — HwBR follows the conserved BR photocycle with Asp104 as the proton uptake accelerator
+- [Proton Pump Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/proton-pump-mechanism/) — HwBR is a light-driven proton pump with a unique Arg82-Thr201 extracellular cap that shields the retinal pocket at low pH
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — HwBR belongs to the qR subfamily of archaeal rhodopsins with acid-resistant optical properties
+- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/) — HwBR follows the conserved BR photocycle with Asp104 as the proton uptake accelerator
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — All-trans-retinal chromophore covalently bound to Lys224 via Schiff base
 - [pKa Tuning in Membrane Proteins](/xray-mp-wiki/concepts/pka-tuning/) — The Arg82-Thr201 cap tunes the pKa of the Schiff base counterion from ~2.6 in HsBR to 1.97 in HwBR

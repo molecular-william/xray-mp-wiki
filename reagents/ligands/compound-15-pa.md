@@ -52,4 +52,4 @@ No comparison data available.
 - [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Primary target of Cmpd-15PA negative allosteric modulation
 - [Cmpd-15 (Compound-15)](/xray-mp-wiki/reagents/ligands/compound-15/) — Parent compound of Cmpd-15PA
 - [Carazolol](/xray-mp-wiki/reagents/ligands/carazolol/) — Orthosteric inverse agonist co-crystallized with Cmpd-15PA
-- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/allosteric-regulation/) — Cmpd-15PA is a negative allosteric modulator binding to an intracellular pocket
+- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — Cmpd-15PA is a negative allosteric modulator binding to an intracellular pocket

@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Desvenlafaxine is a serotonin-noradrenaline reuptake inhibitor (SNRI) antidepressant, the primary active metabolite of venlafaxine. It acts by blocking both the [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) transporter ([SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/)) and [Norepinephrine](/xray-mp-wiki/reagents/ligands/norepinephrine/) transporter (NET). Desvenlafaxine binds to the primary binding pocket of [Biogenic Amine Transporters](/xray-mp-wiki/concepts/biogenic-amine-transporters/) with a characteristic orientation of its cyclohexanol and phenol rings.
+Desvenlafaxine is a serotonin-noradrenaline reuptake inhibitor (SNRI) antidepressant, the primary active metabolite of venlafaxine. It acts by blocking both the [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) transporter ([SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/)) and [Norepinephrine](/xray-mp-wiki/reagents/ligands/norepinephrine/) transporter (NET). Desvenlafaxine binds to the primary binding pocket of [Biogenic Amine Transporters](/xray-mp-wiki/concepts/transport-mechanisms/biogenic-amine-transporters/) with a characteristic orientation of its cyclohexanol and phenol rings.
 
 
 ## Properties
@@ -46,7 +46,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Biogenic Amine Transporters](/xray-mp-wiki/concepts/biogenic-amine-transporters/) — Related biological concept
+- [Biogenic Amine Transporters](/xray-mp-wiki/concepts/transport-mechanisms/biogenic-amine-transporters/) — Related biological concept
 - [LEUBAT](/xray-mp-wiki/proteins/slc-transporters/leubat/) — Related protein structure
 - [LEUT](/xray-mp-wiki/proteins/enzymes/leut/) — Related protein structure
 - [SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/) — Related protein structure

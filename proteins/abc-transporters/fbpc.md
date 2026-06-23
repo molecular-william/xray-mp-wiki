@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-FbpC is the nucleotide-binding domain (NBD) of the FbpABC ferric  uptake -binding cassette (ABC) transporter from Neisseria gonorrhoeae. The crystal structure was determined at 1.9 A resolution, revealing a domain-swapped physiological dimer in the asymmetric unit. This represents the first observation of [Three-Dimensional Domain Swapping](/xray-mp-wiki/concepts/domain-swapping/) in ABC importers. The C-terminal regulatory domains of each monomer undergo a substantial domain swap, creating an unusually extended dimer interface with a six-histidine cluster at the base. Molecular dynamics simulations comparing FbpC with the homologous  NBD demonstrated that while FbpC does not open as far or as rapidly as  upon  removal, both closed structures have higher free energies than their respective open states, indicating that  binding free energy is partially stored as strain energy and released following hydrolysis.
+FbpC is the nucleotide-binding domain (NBD) of the FbpABC ferric  uptake -binding cassette (ABC) transporter from Neisseria gonorrhoeae. The crystal structure was determined at 1.9 A resolution, revealing a domain-swapped physiological dimer in the asymmetric unit. This represents the first observation of [Three-Dimensional Domain Swapping](/xray-mp-wiki/concepts/structural-mechanisms/domain-swapping/) in ABC importers. The C-terminal regulatory domains of each monomer undergo a substantial domain swap, creating an unusually extended dimer interface with a six-histidine cluster at the base. Molecular dynamics simulations comparing FbpC with the homologous  NBD demonstrated that while FbpC does not open as far or as rapidly as  upon  removal, both closed structures have higher free energies than their respective open states, indicating that  binding free energy is partially stored as strain energy and released following hydrolysis.
 
 ## Structure Determination
 
@@ -58,7 +58,7 @@ FbpC is the nucleotide-binding domain (NBD) of the FbpABC ferric  uptake -bindin
 
 ### First domain-swapped NBD in ABC importers
 
-FbpC is the first observation of [Three-Dimensional Domain Swapping](/xray-mp-wiki/concepts/domain-swapping/) in ABC importers. The C-terminal regulatory domains undergo substantial swapping between the two monomers, forming a six-histidine cluster at the base of the dimer that may function as an  requisition store.
+FbpC is the first observation of [Three-Dimensional Domain Swapping](/xray-mp-wiki/concepts/structural-mechanisms/domain-swapping/) in ABC importers. The C-terminal regulatory domains undergo substantial swapping between the two monomers, forming a six-histidine cluster at the base of the dimer that may function as an  requisition store.
 
 ### Closed NBDs are tense
 
@@ -75,7 +75,7 @@ The opening of the two -binding interfaces within each NBD dimer appears to be s
 
 ## Cross-References
 
-- [ABC Transporter Family](/xray-mp-wiki/concepts/abc-transporter-family/) — FbpC is the NBD of an ABC importer
+- [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — FbpC is the NBD of an ABC importer
 - [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Used for induction of FbpC expression in E. coli
 - [Nickel-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) — Used in first affinity chromatography step for FbpC purification
 - [TALON](/xray-mp-wiki/reagents/additives/talon/) — Used in second cobalt-affinity chromatography step

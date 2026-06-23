@@ -53,8 +53,8 @@ No comparison data available.
 - [Guinea Pig Leukotriene B4 Receptor 1 (BLT1)](/xray-mp-wiki/proteins/gpcr/blt1/) — Primary target of BIIL260; bound in first BLT1 crystal structure (PDB 5X33)
 - [Benzamidine](/xray-mp-wiki/reagents/ligands/benzamidine/) — Benzamidine moiety of BIIL260 mimics the sodium ion in BLT1
 - [Leukotriene B4 (LTB4)](/xray-mp-wiki/reagents/ligands/ltb4/) — Endogenous agonist of BLT1; competition with BIIL260 demonstrated
-- [Sodium Ion Allosteric Modulation in GPCRs](/xray-mp-wiki/concepts/sodium-allosteric-modulation/) — BIIL260 competes with sodium ion for BLT1 binding
-- [Inverse Agonism in GPCR Signaling](/xray-mp-wiki/concepts/inverse-agonism/) — BIIL260 acts as an inverse agonist for BLT1
-- [Negative Allosteric Modulation](/xray-mp-wiki/concepts/negative-allosteric-modulation/) — BIIL260 serves as negative allosteric modulator for BLT1
+- [Sodium Ion Allosteric Modulation in GPCRs](/xray-mp-wiki/concepts/signaling-receptors/sodium-allosteric-modulation/) — BIIL260 competes with sodium ion for BLT1 binding
+- [Inverse Agonism in GPCR Signaling](/xray-mp-wiki/concepts/signaling-receptors/inverse-agonism/) — BIIL260 acts as an inverse agonist for BLT1
+- [Negative Allosteric Modulation](/xray-mp-wiki/concepts/signaling-receptors/negative-allosteric-modulation/) — BIIL260 serves as negative allosteric modulator for BLT1
 - [BIIL284](/xray-mp-wiki/reagents/ligands/biil284/) — Related BLT1 antagonist mentioned in the paper
 - [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — Fusion tag for crystallization or purification

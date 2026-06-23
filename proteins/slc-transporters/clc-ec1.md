@@ -292,9 +292,9 @@ A new transport model for CLC exchangers was proposed based on the finding of tw
 - [Decyl Maltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Detergent used for protein extraction and purification
 - [Lauryl Maltose Neopentyl Glycol (LMNG)](/xray-mp-wiki/reagents/detergents/lmng/) — Detergent used for final purification and crystallization in QQQ mutant study
 - [Lipidic Cubic Phase (LCP) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used for the QQQ mutant
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — The QQQ structure represents the outward-facing open intermediate in the transport cycle
-- [CLC Cl-/H+ Exchange Transport Mechanism](/xray-mp-wiki/concepts/clc-proton-transport-mechanism/) — Key evidence for the Egate carboxylate shuttle mechanism and H+ transfer pathway
+- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — The QQQ structure represents the outward-facing open intermediate in the transport cycle
+- [CLC Cl-/H+ Exchange Transport Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/clc-proton-transport-mechanism/) — Key evidence for the Egate carboxylate shuttle mechanism and H+ transfer pathway
 - [CmCLC Cl-/H+ Antiporter](/xray-mp-wiki/proteins/slc-transporters/cmclc/) — Eukaryotic CLC transporter from C. merolae used for comparative mechanistic studies
 - [Bromoacetate](/xray-mp-wiki/reagents/ligands/bromoacetate/) — Referenced in the context of Bromoacetate
 - [DM](/xray-mp-wiki/reagents/detergents/dm/) — Referenced in the context of DM
-- [CLC Two-Gate Transport Mechanism](/xray-mp-wiki/concepts/clc-two-gate-mechanism/) — Helix O movement and Tyr445 inner gate discovery establishes the two-gate alternating-access model for CLC transporters
+- [CLC Two-Gate Transport Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/clc-two-gate-mechanism/) — Helix O movement and Tyr445 inner gate discovery establishes the two-gate alternating-access model for CLC transporters

@@ -83,6 +83,6 @@ two-component cascade.
 ## Cross-References
 
 - [Sensory Rhodopsin II (NpSRII)](/xray-mp-wiki/proteins/rhodopsins/sensory-rhodopsin-ii/) — HtrII forms a tight complex with NpSRII and mediates phototaxis signal transduction
-- [Two-Component Signaling System (TCS) in Membrane Sensors](/xray-mp-wiki/concepts/two-component-signaling-system/) — HtrII links SRII photoactivation to the CheA/CheY two-component signalling cascade
+- [Two-Component Signaling System (TCS) in Membrane Sensors](/xray-mp-wiki/concepts/signaling-receptors/two-component-signaling-system/) — HtrII links SRII photoactivation to the CheA/CheY two-component signalling cascade
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Ion-Exchange Chromatography](/xray-mp-wiki/methods/purification/ion-exchange-chromatography/) — Method used in structure determination or purification

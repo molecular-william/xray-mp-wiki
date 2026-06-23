@@ -128,8 +128,8 @@ The 120-degree rotation model for EhV1 differs substantially from the [F1-ATPase
 
 - [V1-ATPase from Thermus thermophilus](/xray-mp-wiki/proteins/pumps-atpases/v1-atpase-t-thermophilus/) — Related rotary ATPase; comparative structural analysis
 - [Yeast V1-ATPase from Saccharomyces cerevisiae](/xray-mp-wiki/proteins/pumps-atpases/yeast-v1-atpase/) — Eukaryotic V1-ATPase for comparative structural analysis
-- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/rotary-atpase-mechanism/) — EhV1 is a rotary molecular motor
-- [Binding-Change Mechanism](/xray-mp-wiki/concepts/binding-change-mechanism/) — Underlies the rotary catalysis of V1-ATPase
+- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/) — EhV1 is a rotary molecular motor
+- [Binding-Change Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/binding-change-mechanism/) — Underlies the rotary catalysis of V1-ATPase
 - [ATP](/xray-mp-wiki/reagents/ligands/atp/) — Referenced in enterococcus-hirae-v1-atpase text
 - [Selenomethionine](/xray-mp-wiki/reagents/additives/selenomethionine/) — Referenced in enterococcus-hirae-v1-atpase text
 - [ADP](/xray-mp-wiki/reagents/ligands/adp/) — Referenced in enterococcus-hirae-v1-atpase text

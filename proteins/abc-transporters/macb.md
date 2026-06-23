@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-MacB is an ABC transporter from Aggregatibacter actinomycetemcomitans that forms a tripartite efflux pump with the MacA adaptor protein and TolC exit duct. It belongs to the type VII ABC transporter superfamily, characterized by a unique four-transmembrane-helix topology, a periplasmic domain between TM1 and TM2, and a [Mechanotransmission](/xray-mp-wiki/concepts/mechanotransmission/) mechanism that couples cytoplasmic ATP hydrolysis to extracytoplasmic conformational change. Unlike canonical ABC transporters, MacB lacks a central transmembrane cavity and does not transport substrates across the inner membrane; instead, it powers the expulsion of macrolide antibiotics and enterotoxin STII from the periplasm to the extracellular space via a molecular bellows mechanism.
+MacB is an ABC transporter from Aggregatibacter actinomycetemcomitans that forms a tripartite efflux pump with the MacA adaptor protein and TolC exit duct. It belongs to the type VII ABC transporter superfamily, characterized by a unique four-transmembrane-helix topology, a periplasmic domain between TM1 and TM2, and a [Mechanotransmission](/xray-mp-wiki/concepts/miscellaneous/mechanotransmission/) mechanism that couples cytoplasmic ATP hydrolysis to extracytoplasmic conformational change. Unlike canonical ABC transporters, MacB lacks a central transmembrane cavity and does not transport substrates across the inner membrane; instead, it powers the expulsion of macrolide antibiotics and enterotoxin STII from the periplasm to the extracellular space via a molecular bellows mechanism.
 
 
 ## Structure Determination
@@ -59,7 +59,7 @@ MacB is an ABC transporter from Aggregatibacter actinomycetemcomitans that forms
 
 ### Mechanotransmission mechanism of MacB
 
-MacB defines a noncanonical ABC transporter (type VII) with a unique four-transmembrane-helix topology and a periplasmic domain. The structure of ATP-bound MacB reveals no central pore for substrate passage. Instead, reversible dimerization of the NBDs drives opening and closing of the periplasmic domains via concerted movements of TM2 and the major coupling helix — a process termed [Mechanotransmission](/xray-mp-wiki/concepts/mechanotransmission/). This contrasts with the alternating-access mechanism used by other ABC transporters.
+MacB defines a noncanonical ABC transporter (type VII) with a unique four-transmembrane-helix topology and a periplasmic domain. The structure of ATP-bound MacB reveals no central pore for substrate passage. Instead, reversible dimerization of the NBDs drives opening and closing of the periplasmic domains via concerted movements of TM2 and the major coupling helix — a process termed [Mechanotransmission](/xray-mp-wiki/concepts/miscellaneous/mechanotransmission/). This contrasts with the alternating-access mechanism used by other ABC transporters.
 
 ### MacB is the type specimen for type VII ABC transporter superfamily
 
@@ -67,7 +67,7 @@ MacB's novel topology, dimerization interface, and transmembrane fold define it 
 
 ### Molecular bellows mechanism for MacAB-TolC efflux
 
-The assembled MacAB-TolC complex acts as a molecular bellows. Substrates enter the interior cavity through openings between parted periplasmic domains. ATP binding causes closure of the periplasmic domain via [Mechanotransmission](/xray-mp-wiki/concepts/mechanotransmission/), reducing cavity volume and forcing contents through the MacA gate ring. ATP hydrolysis resets the system.
+The assembled MacAB-TolC complex acts as a molecular bellows. Substrates enter the interior cavity through openings between parted periplasmic domains. ATP binding causes closure of the periplasmic domain via [Mechanotransmission](/xray-mp-wiki/concepts/miscellaneous/mechanotransmission/), reducing cavity volume and forcing contents through the MacA gate ring. ATP hydrolysis resets the system.
 
 ### MacB confers resistance to cyclic peptides
 
@@ -79,6 +79,6 @@ In addition to the known macrolide [Erythromycin](/xray-mp-wiki/reagents/ligands
 - [Lauryl Maltose Neopentyl Glycol (LMNG)](/xray-mp-wiki/reagents/detergents/lmng/) — Detergent used for MacB purification and crystallization
 - [Adenosine Triphosphate (ATP)](/xray-mp-wiki/reagents/ligands/atp/) — ATP bound in the MacB NBD dimer interface; ATPgammaS used for crystallization
 - [Erythromycin](/xray-mp-wiki/reagents/ligands/erythromycin/) — MacB confers resistance to erythromycin; used in functional assays
-- [Mechanotransmission](/xray-mp-wiki/concepts/mechanotransmission/) — Related biological concept
+- [Mechanotransmission](/xray-mp-wiki/concepts/miscellaneous/mechanotransmission/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Maltose](/xray-mp-wiki/reagents/additives/maltose/) — Additive used in purification or crystallization buffers

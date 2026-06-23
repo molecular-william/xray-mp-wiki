@@ -15,7 +15,7 @@ verified: false
 ## Overview
 
 GlpF is the [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) facilitator (aquaglyceroporin) from Escherichia coli, a
-member of the [Aquaporin](/xray-mp-wiki/concepts/aquaporin/) (AQP) superfamily. It forms a homotetrameric channel
+member of the [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) (AQP) superfamily. It forms a homotetrameric channel
 that facilitates the passive diffusion of glycerol and other small linear
 polyols across the membrane, while being impermeable to protons and ions.
 The original structure of GlpF with bound glycerol was determined at 2.2 A
@@ -117,7 +117,7 @@ The selectivity filter (SF) region of GlpF shows low water occupancy in both cry
 
 ## Cross-References
 
-- [Aquaporin](/xray-mp-wiki/concepts/aquaporin/) — GlpF is a member of the aquaporin superfamily; the proton exclusion mechanism described here applies to the entire AQP family
+- [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — GlpF is a member of the aquaporin superfamily; the proton exclusion mechanism described here applies to the entire AQP family
 - [Aquaporin Z (AqpZ)](/xray-mp-wiki/proteins/other-ion-channels/aquaporin-z/) — Related aquaporin water channel from E. coli; same superfamily as GlpF
 - [Human Aquaporin 2](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-2/) — Human homolog in the aquaporin family; same NPA motif mechanism
 - [Human Aquaporin 4](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-4/) — Human homolog in the aquaporin family; conserved NPA motif and bipolar water orientation mechanism

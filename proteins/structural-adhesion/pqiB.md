@@ -80,7 +80,7 @@ lipoprotein PqiC and inner membrane protein PqiA to form a complete transport sy
 - [E. coli YebT Tube-like MCE Protein](/xray-mp-wiki/proteins/structural-adhesion/yebT/) — YebT shares the same modular stacking principle but with seven MCE domains
 - [E. coli MlaC Lipid-Binding Protein](/xray-mp-wiki/proteins/structural-adhesion/mlaC/) — MlaC shuttles lipids in the Mla system; PqiB may bypass the need for a shuttle by direct spanning
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Used for Ni-NTA affinity chromatography
-- [MCE Protein Family](/xray-mp-wiki/concepts/mce-protein-family/) — PqiB is a three-domain MCE protein with unique needle-and-syringe architecture
+- [MCE Protein Family](/xray-mp-wiki/concepts/protein-families/mce-protein-family/) — PqiB is a three-domain MCE protein with unique needle-and-syringe architecture
 - [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — PqiB structure determined by single-particle cryo-EM at 3.96 A resolution
 - [TRIS](/xray-mp-wiki/reagents/buffers/tris) — Entity mentioned in text
 - [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta) — Entity mentioned in text

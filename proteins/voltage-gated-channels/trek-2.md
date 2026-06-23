@@ -145,8 +145,8 @@ in the up state.
 
 - [Human TRAAK Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/traak/) — Related K2P channel with shared fenestration gating mechanism
 - [K2P 2.1 (TREK-1) Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/k2p-2-1-trek-1/) — Related TREK subfamily member; TREK-1 I110D mutant structure
-- [C-Type Inactivation](/xray-mp-wiki/concepts/c-type-inactivation/) — TREK-2 gating involves selectivity filter (C-type) gating mechanism with up/down state transitions
-- [K2P Modulator Pocket](/xray-mp-wiki/concepts/k2p-modulator-pocket/) — The fenestration binding site and nanobody modulation involve the K2P modulator pocket behind the selectivity filter
+- [C-Type Inactivation](/xray-mp-wiki/concepts/structural-mechanisms/c-type-inactivation/) — TREK-2 gating involves selectivity filter (C-type) gating mechanism with up/down state transitions
+- [K2P Modulator Pocket](/xray-mp-wiki/concepts/miscellaneous/k2p-modulator-pocket/) — The fenestration binding site and nanobody modulation involve the K2P modulator pocket behind the selectivity filter
 - [Norfluoxetine](/xray-mp-wiki/reagents/additives/norfluoxetine/) — Additive used in purification or crystallization buffers
 - [Fluoxetine](/xray-mp-wiki/reagents/ligands/fluoxetine/) — Related ligand or cofactor
 - [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) — Fusion tag for crystallization or purification

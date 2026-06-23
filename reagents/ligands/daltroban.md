@@ -48,4 +48,4 @@ No comparison data available.
 
 - [Human Thromboxane A2 Receptor (TP)](/xray-mp-wiki/proteins/gpcr/thromboxane-a2-receptor/) — Primary target of daltroban; TP-daltroban complex structure (PDB 6IIV)
 - [Ramatroban](/xray-mp-wiki/reagents/ligands/ramatroban/) — Related nonprostanoid TP antagonist of the same chemical series
-- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/gpcr-inactive-conformation/) — Daltroban stabilizes the inactive conformation of the TP receptor
+- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — Daltroban stabilizes the inactive conformation of the TP receptor

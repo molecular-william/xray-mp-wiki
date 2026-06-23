@@ -55,7 +55,7 @@ Alpha-helical proteins exhibit characteristic CD spectra with negative bands at 
 
 | Protein | Resolution | PDB | Notes |
 |---|---|---|---|
-| [Syntaxin-1A (Rat Neuronal Qa-SNARE Protein)](/xray-mp-wiki/proteins/structural-adhesion/syntaxin-1a/)/SNAP-25A/Synaptobrevin-2 [SNARE Complex](/xray-mp-wiki/concepts/snare-complex/) | not applicable | [TBA](/xray-mp-wiki/reagents/ligands/tetrabutylammonium/) | Thermal and chemical unfolding of neuronal SNARE complexes monitored by CD spectroscopy at 222 nm; crystallization complex unfolded at approximately 97 C |
+| [Syntaxin-1A (Rat Neuronal Qa-SNARE Protein)](/xray-mp-wiki/proteins/structural-adhesion/syntaxin-1a/)/SNAP-25A/Synaptobrevin-2 [SNARE Complex](/xray-mp-wiki/concepts/structural-mechanisms/snare-complex/) | not applicable | [TBA](/xray-mp-wiki/reagents/ligands/tetrabutylammonium/) | Thermal and chemical unfolding of neuronal SNARE complexes monitored by CD spectroscopy at 222 nm; crystallization complex unfolded at approximately 97 C |
 
 ## Related Methods
 

@@ -95,7 +95,7 @@ Mutations in the extrafacial gate (V188A) and intrafacial gate (P23T) of AtSWEET
 - [A. thaliana SWEET1](/xray-mp-wiki/proteins/miscellaneous/a-thaliana-sweet1/) — Closely related plant SWEET used for structure-function mutagenesis studies
 - [TySemiSWEET](/xray-mp-wiki/proteins/miscellaneous/tysemisweet/) — Bacterial SemiSWEET homolog with conserved structural features
 - [LbSemiSWEET](/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/) — Bacterial SemiSWEET homolog with outward-open and occluded structures
-- [SWEET Transporter Family](/xray-mp-wiki/concepts/sweet-transporter/) — OsSWEET2b is a eukaryotic member of the SWEET family
+- [SWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/sweet-transporter/) — OsSWEET2b is a eukaryotic member of the SWEET family
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent for membrane extraction
 - [DM (n-decyl-beta-D-maltoside)](/xray-mp-wiki/reagents/detergents/dm/) — Detergent used in wash buffer during purification
 - [NG (n-nonyl-beta-D-glucopyranoside)](/xray-mp-wiki/reagents/detergents/nm/) — Detergent used in gel filtration and crystallization

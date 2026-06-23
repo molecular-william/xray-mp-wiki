@@ -76,9 +76,9 @@ The C-terminal helices of TmrA and TmrB form a zipper-like structure that plays 
 
 ## Cross-References
 
-- [ABC Transporter Family](/xray-mp-wiki/concepts/abc-transporter-family/) — TmrAB is a heterodimeric ABC exporter and member of the ABC transporter superfamily
-- [ABC Transporter Allosteric Regulation](/xray-mp-wiki/concepts/abc-transporter-allosteric-regulation/) — TmrAB exhibits asymmetric ATP hydrolysis with one degenerate nucleotide-binding site
-- [Conformational Asymmetry in ABC Transporters](/xray-mp-wiki/concepts/conformational-asymmetry-abc-transporters/) — TmrAB structure reveals asymmetric inward-facing state with C-terminal zipper helices
+- [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — TmrAB is a heterodimeric ABC exporter and member of the ABC transporter superfamily
+- [ABC Transporter Allosteric Regulation](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-allosteric-regulation/) — TmrAB exhibits asymmetric ATP hydrolysis with one degenerate nucleotide-binding site
+- [Conformational Asymmetry in ABC Transporters](/xray-mp-wiki/concepts/transport-mechanisms/conformational-asymmetry-abc-transporters/) — TmrAB structure reveals asymmetric inward-facing state with C-terminal zipper helices
 - [Buffer HEPES](/xray-mp-wiki/reagents/buffers/hepes/) — Used in purification and reconstitution buffers for TmrAB
 - [POPE (1-Palmitoyl-2-Oleoyl-Phosphatidylethanolamine)](/xray-mp-wiki/reagents/lipids/pope/) — Used in MD simulations and lipid modulation studies of TmrAB
 - [POPG (1-Palmitoyl-2-Oleoyl-Phosphatidylglycerol)](/xray-mp-wiki/reagents/lipids/popg/) — Used in MD simulations; 30% PG essential for TmrAB activity

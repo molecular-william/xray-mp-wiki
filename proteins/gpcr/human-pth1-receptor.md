@@ -81,7 +81,7 @@ The crystal structure resolved glycosylation (GlcNAc and fucose) at residue N161
 
 ## Cross-References
 
-- [Polar Network in GPCR Activation](/xray-mp-wiki/concepts/polar-network-gpcr-activation/) — The HETX motif is a conserved polar network in class B GPCRs critical for activation
-- [Constitutive Active GPCR Mutations](/xray-mp-wiki/concepts/constitutive-active-gpcr-mutations/) — Jansen metaphyseal chondrodysplasia mutations cause constitutive PTH1R activation
-- [GPCR Active Conformation](/xray-mp-wiki/concepts/gpcr-active-conformation/) — PTH1R-ePTH complex represents an active-state class B GPCR
-- [Thermostabilization](/xray-mp-wiki/concepts/thermostabilization/) — Directed yeast evolution and additional mutations stabilized PTH1R for crystallization
+- [Polar Network in GPCR Activation](/xray-mp-wiki/concepts/signaling-receptors/polar-network-gpcr-activation/) — The HETX motif is a conserved polar network in class B GPCRs critical for activation
+- [Constitutive Active GPCR Mutations](/xray-mp-wiki/concepts/signaling-receptors/constitutive-active-gpcr-mutations/) — Jansen metaphyseal chondrodysplasia mutations cause constitutive PTH1R activation
+- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — PTH1R-ePTH complex represents an active-state class B GPCR
+- [Thermostabilization](/xray-mp-wiki/concepts/construct-design/thermostabilization/) — Directed yeast evolution and additional mutations stabilized PTH1R for crystallization

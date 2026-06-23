@@ -116,9 +116,9 @@ The conserved YxxxD/E secretion motif (residues 81-85) in EspB is located adjace
 
 - [PE25](/xray-mp-wiki/proteins/secretion-translocon/pe25/) — PE25-[PPE41](/xray-mp-wiki/proteins/ppe41) heterodimer structure (PDB 2G38) was used as search model for EspB phasing
 - [PPE41](/xray-mp-wiki/proteins/secretion-translocon/ppe41/) — [PPE41](/xray-mp-wiki/proteins/ppe41) forms the heterodimer partner of PE25, structurally compared to EspB
-- [PE-PPE Fusion Proteins](/xray-mp-wiki/concepts/pe-ppe-fusion-proteins/) — EspB is the archetypal PE-PPE fusion protein with a heterodimer-like fold
-- [ESX-1 Secretion System](/xray-mp-wiki/concepts/esx-1-secretion-system/) — EspB is a central secreted substrate of the ESX-1 type VII secretion system
-- [WxG100 Family Proteins](/xray-mp-wiki/concepts/wxg100-family-proteins/) — EspB secretion mechanism is co-dependent with WxG100 proteins EsxA and EsxB
+- [PE-PPE Fusion Proteins](/xray-mp-wiki/concepts/construct-design/pe-ppe-fusion-proteins/) — EspB is the archetypal PE-PPE fusion protein with a heterodimer-like fold
+- [ESX-1 Secretion System](/xray-mp-wiki/concepts/transport-mechanisms/esx-1-secretion-system/) — EspB is a central secreted substrate of the ESX-1 type VII secretion system
+- [WxG100 Family Proteins](/xray-mp-wiki/concepts/protein-families/wxg100-family-proteins/) — EspB secretion mechanism is co-dependent with WxG100 proteins EsxA and EsxB
 - [Phosphatidylserine](/xray-mp-wiki/reagents/lipids/phosphatidylserine/) — EspB binds [Phosphatidylserine](/xray-mp-wiki/reagents/lipids/phosphatidylserine) and crystallized with it as an additive
 - [EspG1](/xray-mp-wiki/proteins/secretion-translocon/espg1/) — EspG1 chaperone does not bind EspB, unlike PE25-[PPE41](/xray-mp-wiki/proteins/ppe41) heterodimer
 - [MycP1](/xray-mp-wiki/proteins/secretion-translocon/mycp1/) — [MycP1](/xray-mp-wiki/proteins/mycp1) protease cleaves full-length EspB to generate the mature 50 kDa isoform

@@ -57,12 +57,12 @@ afTMEM16 forms a homodimer with each subunit containing ten transmembrane helice
 ## Cross-References
 
 - [nhTMEM16 (TMEM16 Lipid Scramblase from Nectria haematococca)](/xray-mp-wiki/proteins/miscellaneous/nhtmem16/) — Homologous fungal TMEM16 scramblase; crystal structure at 3.3 A provides framework for TMEM16 family
-- [TMEM16 Family](/xray-mp-wiki/concepts/tmem16-family/) — afTMEM16 is a member of the TMEM16 lipid scramblase subfamily
+- [TMEM16 Family](/xray-mp-wiki/concepts/protein-families/tmem16-family/) — afTMEM16 is a member of the TMEM16 lipid scramblase subfamily
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used for afTMEM16 solubilization and purification
 - [Proteoliposome Reconstitution](/xray-mp-wiki/methods/quality-assessment/proteoliposome-reconstitution/) — afTMEM16 reconstituted into liposomes for functional scrambling assays
 - [Proteoliposome Reconstitution](/xray-mp-wiki/methods/proteoliposome-reconstitution/) — Method used in the study
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Method used in the study
-- [TMEM16 Family (Anoctamin Protein Family)](/xray-mp-wiki/concepts/tmem16-family/) — Key concept related to this protein
+- [TMEM16 Family (Anoctamin Protein Family)](/xray-mp-wiki/concepts/protein-families/tmem16-family/) — Key concept related to this protein
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein mentioned in the study
 - [nhTMEM16 (TMEM16 Lipid Scramblase from Nectria haematococca)](/xray-mp-wiki/proteins/miscellaneous/nhtmem16/) — Related protein mentioned in the study
 - [ELIC (Erwinia chrysanthemi Pentameric Ligand-Gated Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/elic/) — Related protein mentioned in the study

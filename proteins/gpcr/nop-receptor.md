@@ -20,7 +20,7 @@ The nociceptin/orphanin FQ peptide receptor (NOP), also known as ORL-1, is a mem
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature11085 | 4EA3 | 3.0 | P21 | BRIL-ΔN-NOP-ΔC fusion with N-terminal [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) (apocytochrome b562 RIL), N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) (ΔN), C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) (ΔC); expressed in Sf9 insect cells | C-24 (peptide mimetic antagonist; Banyu Compound-24) |
+| doi/10.1038##nature11085 | 4EA3 | 3.0 | P21 | BRIL-ΔN-NOP-ΔC fusion with N-terminal [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) (apocytochrome b562 RIL), N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (ΔN), C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (ΔC); expressed in Sf9 insect cells | C-24 (peptide mimetic antagonist; Banyu Compound-24) |
 | doi/10.1016##j.str.2015.07.024 | 5DHH | 3.0 | P21 | Human NOP receptor with [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) fusion, in complex with SB-612111 | SB-612111 (piperidine-based antagonist) |
 | doi/10.1016##j.str.2015.07.024 | 5DHG | 3.0 | P21 | Human NOP receptor with [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) fusion, in complex with C-35 | C-35 (dichlorophenyl-N-benzyl D-Pro antagonist) |
 
@@ -110,7 +110,7 @@ The NOP receptor has low affinity for classical opioid alkaloids despite sharing
 - [Kappa Opioid Receptor](/xray-mp-wiki/proteins/gpcr/kappa-opioid-receptor/) — Homologous opioid receptor subfamily member; used for structural comparison of extracellular region conformations
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Major component of LCP (54% w/w) for NOP crystallization
 - [Lipidic Cubic Phase (LCP) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Method used for all NOP crystal structures
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification

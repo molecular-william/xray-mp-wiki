@@ -144,9 +144,9 @@ Positively charged residues K344 (TM11b) and R133 (TM4b) form alternating ionic 
 ## Cross-References
 
 - [Na+/H+ Antiporter NhaA from Escherichia coli](/xray-mp-wiki/proteins/slc-transporters/nhaa/) — Structural homologue and comparison protein; inward-facing NhaA structure used for alternating access model
-- [Elevator Mechanism](/xray-mp-wiki/concepts/elevator-mechanism/) — NapA provides structural evidence for the elevator transport mechanism
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — NapA operates by alternating access between outward-facing and inward-facing states
-- [Rocking-Bundle Mechanism](/xray-mp-wiki/concepts/rocking-bundle-mechanism/) — Contrasted with elevator mechanism as alternative transport model for Na+/H+ antiporters
+- [Elevator Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/elevator-mechanism/) — NapA provides structural evidence for the elevator transport mechanism
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — NapA operates by alternating access between outward-facing and inward-facing states
+- [Rocking-Bundle Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rocking-bundle-mechanism/) — Contrasted with elevator mechanism as alternative transport model for Na+/H+ antiporters
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent for NapA membrane solubilization at 1%
 - [n-Nonyl-beta-D-maltopyranoside (NM)](/xray-mp-wiki/reagents/detergents/nm/) — Used for NapA elution and purification at 0.6% and 0.5%
 - [Dithiothreitol (DTT)](/xray-mp-wiki/reagents/additives/dtt/) — Used as reducing agent in TEV cleavage and functional assays

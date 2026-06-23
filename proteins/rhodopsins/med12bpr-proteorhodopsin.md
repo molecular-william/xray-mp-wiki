@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Med12BPR is a blue-light-absorbing proteorhodopsin (BPR) isolated from an uncultured marine bacterium from the Mediterranean Sea at 12 m depth (GenBank AAY68058.1). Proteorhodopsins are members of the microbial rhodopsin superfamily of seven-transmembrane-helix proteins that use [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) chromophores and exhibit light-driven proton-pumping activity. This work reports the first crystal structure of a proteorhodopsin: Med12BPR at 2.31 A resolution (PDB 4jq6). Six molecules form a doughnut-shaped C6 hexameric ring, unlike [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) which forms a trimer. The [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) polyene chain is shifted towards helix C compared to other [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/). A key feature is a cross-protomer hydrogen bond between conserved His75 of one protomer and Trp34 of a neighboring protomer, which may help maintain Asp97 in a deprotonated state for proton transfer.
+Med12BPR is a blue-light-absorbing proteorhodopsin (BPR) isolated from an uncultured marine bacterium from the Mediterranean Sea at 12 m depth (GenBank AAY68058.1). Proteorhodopsins are members of the microbial rhodopsin superfamily of seven-transmembrane-helix proteins that use [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) chromophores and exhibit light-driven proton-pumping activity. This work reports the first crystal structure of a proteorhodopsin: Med12BPR at 2.31 A resolution (PDB 4jq6). Six molecules form a doughnut-shaped C6 hexameric ring, unlike [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) which forms a trimer. The [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) polyene chain is shifted towards helix C compared to other [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/). A key feature is a cross-protomer hydrogen bond between conserved His75 of one protomer and Trp34 of a neighboring protomer, which may help maintain Asp97 in a deprotonated state for proton transfer.
 
 
 ## Structure Determination
@@ -42,11 +42,11 @@ Six Med12BPR molecules form a doughnut-shaped C6 hexameric ring (type I membrane
 
 ### Cross-protomer His75-Trp34 hydrogen bond
 
-His75 of one protomer forms a hydrogen bond to Trp34 of a neighboring protomer, while also hydrogen bonding to Asp97 (the Schiff-base proton acceptor) in the same molecule. This inter-protomer interaction is unique among [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) and may help keep Asp97 deprotonated in the ground state. Trp34 stabilizes His75 in a conformation favoring deprotonated Asp97.
+His75 of one protomer forms a hydrogen bond to Trp34 of a neighboring protomer, while also hydrogen bonding to Asp97 (the Schiff-base proton acceptor) in the same molecule. This inter-protomer interaction is unique among [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) and may help keep Asp97 deprotonated in the ground state. Trp34 stabilizes His75 in a conformation favoring deprotonated Asp97.
 
 ### Shifted retinal position
 
-The [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) polyene chain is shifted towards helix C compared with [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) and other [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/). The largest difference (1.11 A) is at the C14 atom of [Retinal](/xray-mp-wiki/reagents/ligands/retinal/). This shift is accompanied by movement of Tyr200(183) and other residues in the retinal-binding pocket.
+The [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) polyene chain is shifted towards helix C compared with [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) and other [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/). The largest difference (1.11 A) is at the C14 atom of [Retinal](/xray-mp-wiki/reagents/ligands/retinal/). This shift is accompanied by movement of Tyr200(183) and other residues in the retinal-binding pocket.
 
 ### Distinctive proton translocation pathway
 
@@ -55,9 +55,9 @@ Unlike BR, Wat402 (a key structural water for proton translocation from the Schi
 
 ## Cross-References
 
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — Proteorhodopsin is a member of the microbial rhodopsin superfamily
-- [Bacteriorhodopsin Photocycle](/xray-mp-wiki/concepts/bacteriorhodopsin-photocycle/) — Comparison with the BR photocycle reveals key differences in PR
-- [Proton Wire](/xray-mp-wiki/concepts/proton-wire/) — Cross-protomer interactions affect proton translocation pathway
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — Proteorhodopsin is a member of the microbial rhodopsin superfamily
+- [Bacteriorhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/bacteriorhodopsin-photocycle/) — Comparison with the BR photocycle reveals key differences in PR
+- [Proton Wire](/xray-mp-wiki/concepts/transport-mechanisms/proton-wire/) — Cross-protomer interactions affect proton translocation pathway
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Structures determined by X-ray crystallography
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Related protein structure
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Related ligand or cofactor

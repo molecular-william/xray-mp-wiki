@@ -86,7 +86,7 @@ PsrC accommodates a possible proton-relay network centered on a hydrophilic cavi
 - [Ubiquinone (Coenzyme Q10)](/xray-mp-wiki/reagents/cofactors/ubiquinone/) — Similar quinone electron carrier; UQ1 used as crystallization analog
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for solubilization and purification
 - [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Buffer component in purification and crystallization
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Related redox enzyme mechanism principle
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Related redox enzyme mechanism principle
 - [Menaquinone](/xray-mp-wiki/reagents/ligands/menaquinone/) — General menaquinone family; MK-7 is specific isoform used by Psr
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [NARGHI](/xray-mp-wiki/proteins/enzymes/narghi/) — Related protein structure

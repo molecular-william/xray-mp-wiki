@@ -90,8 +90,8 @@ Superposition of ScF with the gamma subunit of E. coli F-ATP synthase reveals a 
 - [Yeast V1-ATPase from S. cerevisiae](/xray-mp-wiki/proteins/pumps-atpases/yeast-v1-atpase/) — ScDF is a subcomplex of the yeast V-ATPase central stalk; the DF assembly couples ATP hydrolysis in V1 to ion pumping in VO
 - [Enterococcus hirae V1-ATPase](/xray-mp-wiki/proteins/pumps-atpases/enterococcus-hirae-v1-atpase/) — Related A-ATP synthase A3B3 structure used for fitting ScDF (PDB 3VR6); comparison of DF assembly across species
 - [V1-ATPase from Thermus thermophilus](/xray-mp-wiki/proteins/pumps-atpases/v1-atpase-t-thermophilus/) — Related bacterial V-ATPase; comparison of central stalk structure and rotary mechanism
-- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/rotary-atpase-mechanism/) — ScDF is the central motor element coupling ATP hydrolysis to proton pumping in the rotary mechanism
-- [Peripheral Stalk Elasticity in ATP Synthase](/xray-mp-wiki/concepts/peripheral-stalk-elasticity/) — Flexibility of the ScF C-terminal region and its role in reversible V1VO disassembly relates to elastic energy transmission in the stalk
+- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/) — ScDF is the central motor element coupling ATP hydrolysis to proton pumping in the rotary mechanism
+- [Peripheral Stalk Elasticity in ATP Synthase](/xray-mp-wiki/concepts/enzyme-mechanisms/peripheral-stalk-elasticity/) — Flexibility of the ScF C-terminal region and its role in reversible V1VO disassembly relates to elastic energy transmission in the stalk
 - [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — Crystallization method for ScDF
 - [Multi-Wavelength Anomalous Diffraction (MAD)](/xray-mp-wiki/methods/phasing/multi-wavelength-anomalous-diffraction/) — MAD phasing with SeMet was essential for solving the ScDF structure
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Used in purification of ScDF

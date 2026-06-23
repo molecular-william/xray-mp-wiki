@@ -128,6 +128,6 @@ uncouples F-/H+ transport.
 
 ## Cross-References
 
-- [CLC Proton Transport Mechanism](/xray-mp-wiki/concepts/clc-proton-transport-mechanism/) — Eca CLCF is a CLC superfamily antiporter with a distinct 1:1 F-/H+ stoichiometry
-- [CLC Chloride Channel Glutamate Gating](/xray-mp-wiki/concepts/clc-chloride-channel-glutamate-gating/) — The gating glutamate E118 plays a central role in F-/H+ coupling and selectivity in Eca
-- [Glu_ex Conformational States in CLC Proteins](/xray-mp-wiki/concepts/gluex-conformational-states-clc/) — Eca structures capture Glu_g in Up (WT) and Down (V319G) conformations, distinct from typical Cl- CLCs
+- [CLC Proton Transport Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/clc-proton-transport-mechanism/) — Eca CLCF is a CLC superfamily antiporter with a distinct 1:1 F-/H+ stoichiometry
+- [CLC Chloride Channel Glutamate Gating](/xray-mp-wiki/concepts/transport-mechanisms/clc-chloride-channel-glutamate-gating/) — The gating glutamate E118 plays a central role in F-/H+ coupling and selectivity in Eca
+- [Glu_ex Conformational States in CLC Proteins](/xray-mp-wiki/concepts/transport-mechanisms/gluex-conformational-states-clc/) — Eca structures capture Glu_g in Up (WT) and Down (V319G) conformations, distinct from typical Cl- CLCs

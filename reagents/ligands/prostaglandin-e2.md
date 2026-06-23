@@ -72,4 +72,4 @@ No comparison data available.
 ## Cross-References
 
 - [Prostaglandin E2 Receptor EP3](/xray-mp-wiki/proteins/gpcr/ep3-receptor/) — Endogenous agonist of the EP3 receptor
-- [Prostanoid Receptor Family](/xray-mp-wiki/concepts/prostanoid-receptor-family/) — PGE2 is the primary endogenous ligand for EP receptors
+- [Prostanoid Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/prostanoid-receptor-family/) — PGE2 is the primary endogenous ligand for EP receptors

@@ -80,11 +80,11 @@ The active site contains an ordered water (Wat502) that bridges the hydroxyl of 
 
 ## Cross-References
 
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — ASR is a member of the microbial rhodopsin family; comparison with archaeal sensory rhodopsins reveals structural basis for functional divergence
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — ASR is a member of the microbial rhodopsin family; comparison with archaeal sensory rhodopsins reveals structural basis for functional divergence
 - [Sensory Rhodopsin II (NpSRII)](/xray-mp-wiki/proteins/rhodopsins/sensory-rhodopsin-ii/) — NpSRII is the best-characterized archaeal sensory rhodopsin; direct structural comparison with ASR reveals key differences in transducer interaction and color tuning
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Comparison with BR reveals structural basis for loss of proton pumping in sensory rhodopsins
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Method used in the study
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — Key concept related to this protein
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — Key concept related to this protein
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein mentioned in the study
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Related protein mentioned in the study
 - [Opsin (Retinal-Free Rhodopsin Apoprotein)](/xray-mp-wiki/proteins/gpcr/opsin/) — Related protein mentioned in the study

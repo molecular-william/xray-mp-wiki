@@ -122,6 +122,6 @@ The zinc ion exhibits tetrahedral coordination with His191, His337, and His341 i
 - [Cholesteryl Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Lipid additive used with DDM for membrane protein stabilization
 - [Ceramide](/xray-mp-wiki/reagents/lipids/ceramide/) — Substrate for ADIPOR1 ceramidase activity
 - [Sphingosine](/xray-mp-wiki/reagents/lipids/sphingosine/) — Product of ADIPOR1 ceramidase-mediated ceramide hydrolysis
-- [PAQR Family (Progesterone and AdipoQ Receptor Family)](/xray-mp-wiki/concepts/paqr-family/) — ADIPOR1 belongs to the PAQR protein family
+- [PAQR Family (Progesterone and AdipoQ Receptor Family)](/xray-mp-wiki/concepts/signaling-receptors/paqr-family/) — ADIPOR1 belongs to the PAQR protein family
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) — Purification method used in protein preparation
 - [Size-Exclusion Chromatography (SEC)](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) — Purification method used in protein preparation

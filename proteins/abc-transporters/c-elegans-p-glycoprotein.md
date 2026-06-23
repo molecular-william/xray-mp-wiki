@@ -75,7 +75,7 @@ Comparison with mouse P-gp (PDB 3G5U) reveals register shifts in transmembrane h
 
 ### N-terminal truncation mutant
 
-A [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) mutant lacking the N-terminal 56 residues (Delta56) confers cellular resistance to actinomycin D and [Paclitaxel](/xray-mp-wiki/reagents/paclitaxel/) similarly to full-length P-gp, indicating the N-terminus is not essential for drug transport function. However, the [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) mutant shows reduced maximum drug-stimulated ATPase activity in detergent, suggesting the N-terminus modulates the enzymatic activity of the transporter.
+A [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) mutant lacking the N-terminal 56 residues (Delta56) confers cellular resistance to actinomycin D and [Paclitaxel](/xray-mp-wiki/reagents/paclitaxel/) similarly to full-length P-gp, indicating the N-terminus is not essential for drug transport function. However, the [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) mutant shows reduced maximum drug-stimulated ATPase activity in detergent, suggesting the N-terminus modulates the enzymatic activity of the transporter.
 
 
 ## Cross-References
@@ -83,7 +83,7 @@ A [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) m
 - [ABCG2](/xray-mp-wiki/proteins/abc-transporters/abcg2/) — ABC transporter G subfamily; multidrug efflux pump with similar drug resistance function
 - [ABCG1](/xray-mp-wiki/proteins/abc-transporters/abcg1/) — ABC transporter G subfamily member; lipid transporter with structural similarities
 - [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Multidrug efflux pump from E. coli; functional comparison with P-gp
-- [ABC Transporter Family](/xray-mp-wiki/concepts/abc-transporter-family/) — P-gp is a member of the ABC (ATP-binding cassette) superfamily of transporters
+- [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — P-gp is a member of the ABC (ATP-binding cassette) superfamily of transporters
 - [Actinomycin D](/xray-mp-wiki/reagents/ligands/actinomycin-d/) — P-gp substrate; tested for cellular resistance in P-gp-expressing cells
 - [Paclitaxel](/xray-mp-wiki/reagents/ligands/paclitaxel/) — P-gp substrate; antimitotic drug whose cellular toxicity is reversed by P-gp
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein structure

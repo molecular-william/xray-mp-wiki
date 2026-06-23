@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane protein insertase of the eukaryotic [GET pathway](/xray-mp-wiki/concepts/get-pathway/), responsible for inserting tail-anchored (TA) membrane proteins into the endoplasmic reticulum (ER) membrane. The complex forms a 2:2 heterotetramer of Get1 and Get2 subunits, with each Get1/Get2 heterodimer containing a membrane-embedded hydrophilic groove that facilitates TA protein insertion. The GET insertase exhibits conformational plasticity (state 1 and state 2) dictated by interactions of the Get2 helix alpha3' with Get3.
+The Get1/Get2 complex (also known as WRB/CAML in metazoans) is the membrane protein insertase of the eukaryotic [GET pathway](/xray-mp-wiki/concepts/miscellaneous/get-pathway/), responsible for inserting tail-anchored (TA) membrane proteins into the endoplasmic reticulum (ER) membrane. The complex forms a 2:2 heterotetramer of Get1 and Get2 subunits, with each Get1/Get2 heterodimer containing a membrane-embedded hydrophilic groove that facilitates TA protein insertion. The GET insertase exhibits conformational plasticity (state 1 and state 2) dictated by interactions of the Get2 helix alpha3' with Get3.
 
 
 ## Structure Determination
@@ -70,5 +70,5 @@ The core fold of the Get1/Get2 heterodimer is conserved from lower to higher euk
 ## Cross-References
 
 - [Get3 (TRC40) TA Protein Targeting Factor](/xray-mp-wiki/proteins/secretion-translocon/get3/) — Get3 delivers TA proteins to the Get1/Get2 insertase complex
-- [Hydrophilic Groove Insertion Mechanism](/xray-mp-wiki/concepts/hydrophilic-groove-insertion/) — The GET insertase uses a hydrophilic groove to facilitate TA protein membrane insertion
-- [GET Pathway for Tail-Anchored Protein Insertion](/xray-mp-wiki/concepts/get-pathway/) — Get1/Get2 is the membrane insertase complex of the GET pathway
+- [Hydrophilic Groove Insertion Mechanism](/xray-mp-wiki/concepts/miscellaneous/hydrophilic-groove-insertion/) — The GET insertase uses a hydrophilic groove to facilitate TA protein membrane insertion
+- [GET Pathway for Tail-Anchored Protein Insertion](/xray-mp-wiki/concepts/miscellaneous/get-pathway/) — Get1/Get2 is the membrane insertase complex of the GET pathway

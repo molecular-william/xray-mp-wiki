@@ -37,6 +37,6 @@ No comparison data available.
 ## Cross-References
 
 - [GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/glic/) — Target protein for bromobarbital binding
-- [Barbiturate Binding Mechanism in pLGICs](/xray-mp-wiki/concepts/barbiturate-binding-mechanism/) — Bromobarbital reveals the barbiturate binding mode
+- [Barbiturate Binding Mechanism in pLGICs](/xray-mp-wiki/concepts/transport-mechanisms/barbiturate-binding-mechanism/) — Bromobarbital reveals the barbiturate binding mode
 - [Thiopental](/xray-mp-wiki/reagents/ligands/thiopental/) — Related barbiturate with different orientation in the pore
 - [Selenocyanobarbital](/xray-mp-wiki/reagents/ligands/selenocyanobarbital/) — Related synthetic barbiturate for anomalous scattering

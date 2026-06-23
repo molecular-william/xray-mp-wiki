@@ -21,15 +21,15 @@ Cysteinyl leukotriene receptor type 2 (CysLT2R) is a class A G protein-coupled r
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41467-019-13348-2 | 6RZ6 | 2.4 | P 21 21 21 | Human CysLT2R with [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion in ICL3, N- and C-terminal [Truncation](/xray-mp-wiki/concepts/truncation/), W51V, D84N, F137Y mutations; complex with ONO-2570366 (cpd 11a) | ONO-2570366 (cpd 11a, antagonist) |
-| doi/10.1038##s41467-019-13348-2 | 6RZ7 | 2.4 | Not specified | Human CysLT2R with [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion in ICL3, N- and C-terminal [Truncation](/xray-mp-wiki/concepts/truncation/), W51V, D84N, F137Y mutations; complex with ONO-2570366 (cpd 11a) | ONO-2570366 (cpd 11a, antagonist) |
-| doi/10.1038##s41467-019-13348-2 | 6RZ8 | 2.7 | Not specified | Human CysLT2R with [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion in ICL3, N- and C-terminal [Truncation](/xray-mp-wiki/concepts/truncation/), W51V, D84N, F137Y mutations; complex with ONO-2770372 (cpd 11b) | ONO-2770372 (cpd 11b, antagonist) |
-| doi/10.1038##s41467-019-13348-2 | 6RZ9 | 2.7 | Not specified | Human CysLT2R with [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion in ICL3, N- and C-terminal [Truncation](/xray-mp-wiki/concepts/truncation/), W51V, D84N, F137Y mutations; complex with ONO-2080365 (cpd 11c) | ONO-2080365 (cpd 11c, antagonist) |
+| doi/10.1038##s41467-019-13348-2 | 6RZ6 | 2.4 | P 21 21 21 | Human CysLT2R with [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion in ICL3, N- and C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/), W51V, D84N, F137Y mutations; complex with ONO-2570366 (cpd 11a) | ONO-2570366 (cpd 11a, antagonist) |
+| doi/10.1038##s41467-019-13348-2 | 6RZ7 | 2.4 | Not specified | Human CysLT2R with [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion in ICL3, N- and C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/), W51V, D84N, F137Y mutations; complex with ONO-2570366 (cpd 11a) | ONO-2570366 (cpd 11a, antagonist) |
+| doi/10.1038##s41467-019-13348-2 | 6RZ8 | 2.7 | Not specified | Human CysLT2R with [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion in ICL3, N- and C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/), W51V, D84N, F137Y mutations; complex with ONO-2770372 (cpd 11b) | ONO-2770372 (cpd 11b, antagonist) |
+| doi/10.1038##s41467-019-13348-2 | 6RZ9 | 2.7 | Not specified | Human CysLT2R with [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion in ICL3, N- and C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/), W51V, D84N, F137Y mutations; complex with ONO-2080365 (cpd 11c) | ONO-2080365 (cpd 11c, antagonist) |
 
 ## Expression and Purification
 
 - **Expression system**: Spodoptera frugiperda Sf9 insect cells
-- **Construct**: Human CysLT2R (UniProt Q9NS75) with N-terminal HA-FLAG-10xHis-TEV, N-terminal [Truncation](/xray-mp-wiki/concepts/truncation/) (1-16), C-terminal [Truncation](/xray-mp-wiki/concepts/truncation/) (323-346), [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion in ICL3 (between E232 and V240), W51V/D84N/F137Y mutations
+- **Construct**: Human CysLT2R (UniProt Q9NS75) with N-terminal HA-FLAG-10xHis-TEV, N-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) (1-16), C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) (323-346), [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) fusion in ICL3 (between E232 and V240), W51V/D84N/F137Y mutations
 - **Notes**: Bac-to-Bac baculovirus expression system. Cells infected at MOI 5-10, harvested 48-50 h post-infection. 3 uM BayCysLT2 ligand added at infection.
 
 
@@ -96,9 +96,9 @@ Structural mapping of 117 missense SNV positions from the ExAC database revealed
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for CysLT2R solubilization and purification
 - [Lipidic Cubic Phase (In Meso) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used for all CysLT2R structures
 - [Cholesteryl Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Additive used in purification to stabilize the receptor
-- [GPCR G Protein Coupling](/xray-mp-wiki/concepts/gpcr-g-protein-coupling/) — CysLT2R is a GPCR that signals through Gq/11 pathway
+- [GPCR G Protein Coupling](/xray-mp-wiki/concepts/signaling-receptors/gpcr-g-protein-coupling/) — CysLT2R is a GPCR that signals through Gq/11 pathway
 - [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) — Referenced in context related to Bril
-- [Truncation](/xray-mp-wiki/concepts/truncation/) — Referenced in context related to Truncation
+- [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Referenced in context related to Truncation
 - [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) — Referenced in context related to Hepes
 - [Mgcl2](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Referenced in context related to Mgcl2
 - [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) — Referenced in context related to Iodoacetamide

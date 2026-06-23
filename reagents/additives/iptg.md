@@ -28,7 +28,7 @@ Isopropyl-beta-D-thiogalactopyranoside ([IPTG](/xray-mp-wiki/reagents/additives/
 
 ### IPTG induction of EcSemiSWEET expression
 
-E. coli [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet/) expression was induced with 0.2 mM [IPTG](/xray-mp-wiki/reagents/additives/isopropyl-beta-d-thiogalactoside/) when the culture reached OD600 = 0.6. After induction, cells were grown for 20 h at 20 C before harvesting for protein purification.
+E. coli [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) expression was induced with 0.2 mM [IPTG](/xray-mp-wiki/reagents/additives/isopropyl-beta-d-thiogalactoside/) when the culture reached OD600 = 0.6. After induction, cells were grown for 20 h at 20 C before harvesting for protein purification.
 
 
 ## Examples from This Wiki
@@ -45,5 +45,5 @@ No comparison data available.
 ## Cross-References
 
 - [EcSemiSWEET](/xray-mp-wiki/proteins/miscellaneous/ec-semisweet/) — IPTG used for induction of EcSemiSWEET expression in E. coli Rosetta 2 cells
-- [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet/) — Related biological concept
+- [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) — Related biological concept
 - [IPTG](/xray-mp-wiki/reagents/additives/isopropyl-beta-d-thiogalactoside/) — Additive used in purification or crystallization buffers

@@ -93,8 +93,8 @@ The 2.9 A structure of termini-restrained DsbB (PDB 6WVF) reveals that the thiol
 ## Cross-References
 
 - [DsbA](/xray-mp-wiki/proteins/enzymes/dsbA/) — Direct functional partner in periplasmic disulfide bond formation
-- [Disulfide Bond Formation](/xray-mp-wiki/concepts/disulfide-bond-formation/) — DsbB is the central enzyme in the bacterial disulfide bond formation pathway
-- [Termini Restraining](/xray-mp-wiki/concepts/termini-restraining/) — High-resolution DsbB structure (6WVF) was determined using termini-restraining approach with split sfGFP
+- [Disulfide Bond Formation](/xray-mp-wiki/concepts/enzyme-mechanisms/disulfide-bond-formation/) — DsbB is the central enzyme in the bacterial disulfide bond formation pathway
+- [Termini Restraining](/xray-mp-wiki/concepts/miscellaneous/termini-restraining/) — High-resolution DsbB structure (6WVF) was determined using termini-restraining approach with split sfGFP
 - [DHPC](/xray-mp-wiki/reagents/detergents/dhpc/) — Detergent used in cryoprotection during crystallization
 - [Sitting Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion-sitting-drop/) — Crystallization method used for DsbB-Fab complex
 - [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) — Referenced in context related to Ubiquinone

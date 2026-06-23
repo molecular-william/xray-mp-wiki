@@ -154,6 +154,6 @@ The aspartate-cysteine pair (DC-pair) Cys167 and Asp195 in the [Retinal](/xray-m
 - [Polyethylene glycol (PEG)](/xray-mp-wiki/reagents/additives/peg/) — Precipitant (PEG500DME) used in LCP crystallization
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used for both original and TR-SFX C1C2 crystal growth
 - [Multi-wavelength Anomalous Diffraction (MAD)](/xray-mp-wiki/methods/structure-determination/mad-phasing/) — MAD phasing using mercury derivative was used to solve the original C1C2 structure - first application to LCP crystals
-- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-photocycle/) — C1C2 photocycle intermediates (P1, P2, P3) characterized by flash photolysis
+- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/) — C1C2 photocycle intermediates (P1, P2, P3) characterized by flash photolysis
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Archetypal microbial rhodopsin used for structural comparison
 - [Channelrhodopsin 2 (ChR2)](/xray-mp-wiki/proteins/rhodopsins/channelrhodopsin-2/) — Parent protein of C1C2 chimera; C1C2 is a fusion of ChR1 and ChR2

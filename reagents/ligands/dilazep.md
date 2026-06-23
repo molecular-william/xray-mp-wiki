@@ -54,4 +54,4 @@ No comparison data available.
 ## Cross-References
 
 - [Human Equilibrative Nucleoside Transporter 1 (hENT1)](/xray-mp-wiki/proteins/slc-transporters/hent1/) — Primary target of dilazep inhibition
-- [SLC29 Family of Nucleoside Transporters](/xray-mp-wiki/concepts/slc29-family/) — Target receptor family
+- [SLC29 Family of Nucleoside Transporters](/xray-mp-wiki/concepts/transport-mechanisms/slc29-family/) — Target receptor family

@@ -87,5 +87,5 @@ Despite the large blue shift in absorption, C1C2GA retains functional ion channe
 - [Cholesterol Hydrogen Succinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — CHS (0.01%) used in C1C2 absorption spectrum measurements
 - [Isopropyl-beta-D-thiogalactoside (IPTG)](/xray-mp-wiki/reagents/additives/iptg/) — IPTG induction used for GR expression in E. coli
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used to grow C1C2GA crystals at pH 7.0
-- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-photocycle/) — C1C2GA retains photocycle functionality; blue-shifted variant for optogenetics
+- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/) — C1C2GA retains photocycle functionality; blue-shifted variant for optogenetics
 - [Zinc Chloride](/xray-mp-wiki/reagents/additives/zinc-chloride/) — Putative Zn2+ ion bound to N-terminal helix of C1C2GA (first evidence of Zn2+ binding to channelrhodopsin)

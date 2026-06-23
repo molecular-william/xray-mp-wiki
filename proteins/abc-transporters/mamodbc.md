@@ -61,7 +61,7 @@ intracellular substrate accumulation downregulates further uptake.
 |---|---|
 | Method | Co-crystallization with [Tungstate (WO4 2-)](/xray-mp-wiki/reagents/ligands/tungstate/) |
 | Temperature | 20 |
-| Notes | Crystals obtained by co-crystallization with [Tungstate (WO4 2-)](/xray-mp-wiki/reagents/ligands/tungstate/). Structure determined by three-wavelength MAD around tungsten edge. Diffraction data anisotropic, truncated to 3.0, 3.3, and 3.5 Å in three directions. Phases improved by solvent flattening and [NCS](/xray-mp-wiki/concepts/non-crystallographic-symmetry/) averaging. |
+| Notes | Crystals obtained by co-crystallization with [Tungstate (WO4 2-)](/xray-mp-wiki/reagents/ligands/tungstate/). Structure determined by three-wavelength MAD around tungsten edge. Diffraction data anisotropic, truncated to 3.0, 3.3, and 3.5 Å in three directions. Phases improved by solvent flattening and [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) averaging. |
 
 
 ## Biological / Functional Insights
@@ -72,13 +72,13 @@ The regulatory domains appended to the C-terminus of the NBDs form two oxyanion 
 
 ### Comparison with Other ABC Transporter Conformations
 
-The structure reveals a more pronounced inward-facing conformation compared to the nucleotide-free AfModBC, with increased angles between the two TMDs and a larger distance between coupling helices. Cross-linking experiments using engineered cysteines at position 153 in AfModB demonstrated that ATP binding induces closure of the NBDs, forcing the cytoplasmic ends of TM helices together and converting the translocation pathway to an outward-facing conformation similar to MalFGK2. This provides biochemical support for the [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) in ABC transporters.
+The structure reveals a more pronounced inward-facing conformation compared to the nucleotide-free AfModBC, with increased angles between the two TMDs and a larger distance between coupling helices. Cross-linking experiments using engineered cysteines at position 153 in AfModB demonstrated that ATP binding induces closure of the NBDs, forcing the cytoplasmic ends of TM helices together and converting the translocation pathway to an outward-facing conformation similar to MalFGK2. This provides biochemical support for the [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) in ABC transporters.
 
 
 ## Cross-References
 
-- [Trans-Inhibition in ABC Transporters](/xray-mp-wiki/concepts/trans-inhibition-in-abc-transporters/) — MaModBC is the structural prototype for trans-inhibition in ABC transporters
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Related biological concept
-- [NCS](/xray-mp-wiki/concepts/non-crystallographic-symmetry/) — Related biological concept
+- [Trans-Inhibition in ABC Transporters](/xray-mp-wiki/concepts/transport-mechanisms/trans-inhibition-in-abc-transporters/) — MaModBC is the structural prototype for trans-inhibition in ABC transporters
+- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Related biological concept
+- [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Tungstate (WO4 2-)](/xray-mp-wiki/reagents/ligands/tungstate/) — Related ligand or cofactor

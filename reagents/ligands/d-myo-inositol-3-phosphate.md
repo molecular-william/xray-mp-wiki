@@ -27,7 +27,7 @@ pocket is a conserved positively charged cleft formed by R94, R152,
 R155, R195, K135, and R137 from the second protomer, with R94 being
 critical for ino-P phosphate coordination. Ino-P binding is promoted
 by prior CDP-[DAG](/xray-mp-wiki/reagents/lipids/dag/) binding through protein conformational changes, and
-binding of ino-P induces a [Carboxylate Shift](/xray-mp-wiki/concepts/carboxylate-shift/) of D93 that primes the
+binding of ino-P induces a [Carboxylate Shift](/xray-mp-wiki/concepts/structural-mechanisms/carboxylate-shift/) of D93 that primes the
 active site for catalysis.
 
 
@@ -56,8 +56,8 @@ No comparison data available.
 
 - [Phosphatidylinositol Phosphate Synthase PgsA1 from Mycobacterium tuberculosis](/xray-mp-wiki/proteins/enzymes/mt-pgsa1/) — Ino-P is the soluble substrate of PgsA1
 - [Cytidine Diphosphate Diacylglycerol (CDP-DAG)](/xray-mp-wiki/reagents/ligands/cytidine-diphosphate-diacylglycerol/) — The other substrate; ino-P reacts with CDP-DAG at the active site
-- [CDP-Alcohol Phosphotransferase Family](/xray-mp-wiki/concepts/cdp-alcohol-phosphotransferase-family/) — Ino-P is the second alcohol substrate for Class I CDP-APs
-- [Carboxylate Shift](/xray-mp-wiki/concepts/carboxylate-shift/) — Related biological concept
+- [CDP-Alcohol Phosphotransferase Family](/xray-mp-wiki/concepts/protein-families/cdp-alcohol-phosphotransferase-family/) — Ino-P is the second alcohol substrate for Class I CDP-APs
+- [Carboxylate Shift](/xray-mp-wiki/concepts/structural-mechanisms/carboxylate-shift/) — Related biological concept
 - [Molecular Docking](/xray-mp-wiki/methods/structure-determination/molecular-docking/) — Method used in structure determination or purification
 - [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) — Buffer component in purification or crystallization
 - [DAG](/xray-mp-wiki/reagents/lipids/dag/) — Additive used in purification or crystallization buffers

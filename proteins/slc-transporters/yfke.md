@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-YfkE is a Ca2+/H+ antiporter from *Bacillus subtilis* belonging to the [Ca2+:Cation Antiporter (CaCA) Superfamily](/xray-mp-wiki/concepts/caca-superfamily/). The structure was determined by X-ray crystallography at 3.1-Å resolution, revealing a homotrimeric assembly with an inward-facing conformation. Each protomer contains 11 transmembrane helices (TMs 0-10) arranged in two antiparallel helical bundles with a pseudo twofold symmetry. The structure provides insights into the Ca2+/H+ exchange mechanism and pH regulation of CAX family proteins.
+YfkE is a Ca2+/H+ antiporter from *Bacillus subtilis* belonging to the [Ca2+:Cation Antiporter (CaCA) Superfamily](/xray-mp-wiki/concepts/transport-mechanisms/caca-superfamily/). The structure was determined by X-ray crystallography at 3.1-Å resolution, revealing a homotrimeric assembly with an inward-facing conformation. Each protomer contains 11 transmembrane helices (TMs 0-10) arranged in two antiparallel helical bundles with a pseudo twofold symmetry. The structure provides insights into the Ca2+/H+ exchange mechanism and pH regulation of CAX family proteins.
 
 
 ## Structure Determination
@@ -57,7 +57,7 @@ The YfkE structure captured in a protonated state at pH 4 reveals an inward-faci
 
 ### Ca2+/H+ Exchange Mechanism and Alternating Access
 
-Comparison of the inward-facing YfkE structure with the outward-facing NCX_Mj structure supports an [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) for CaCA proteins. Conformational transitions are triggered by rotation of kink angles in TMs 2 and 7, coupled with large movements in adjacent TMs 1 and 6. Two conserved glutamate residues (E72 and E255) play key roles in Ca2+ binding and H+ coupling.
+Comparison of the inward-facing YfkE structure with the outward-facing NCX_Mj structure supports an [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) for CaCA proteins. Conformational transitions are triggered by rotation of kink angles in TMs 2 and 7, coupled with large movements in adjacent TMs 1 and 6. Two conserved glutamate residues (E72 and E255) play key roles in Ca2+ binding and H+ coupling.
 
 ### Evolutionary Adaptation of Energy Coupling
 
@@ -66,6 +66,6 @@ Sequence differences between YfkE and NCX_Mj reveal how Na+-binding sites in NCX
 
 ## Cross-References
 
-- [Ca2+:Cation Antiporter (CaCA) Superfamily](/xray-mp-wiki/concepts/caca-superfamily/) — YfkE is a member of the CAX family within the CaCA superfamily
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Structural comparison of inward-facing YfkE and outward-facing NCX_Mj demonstrates alternating access
+- [Ca2+:Cation Antiporter (CaCA) Superfamily](/xray-mp-wiki/concepts/transport-mechanisms/caca-superfamily/) — YfkE is a member of the CAX family within the CaCA superfamily
+- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Structural comparison of inward-facing YfkE and outward-facing NCX_Mj demonstrates alternating access
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

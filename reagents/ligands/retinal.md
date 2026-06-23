@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Retinal (vitamin A aldehyde) is the light-absorbing chromophore covalently bound to a conserved lysine residue in the seventh transmembrane helix of all [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) via a protonated Schiff base linkage. Upon light absorption, retinal isomerizes from all-trans to 13-cis configuration, triggering the conformational changes that drive ion transport or signal transduction. In the dark state, all-trans retinal is the predominant form; upon illumination, the isomerization initiates the [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-photocycle/).
+Retinal (vitamin A aldehyde) is the light-absorbing chromophore covalently bound to a conserved lysine residue in the seventh transmembrane helix of all [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) via a protonated Schiff base linkage. Upon light absorption, retinal isomerizes from all-trans to 13-cis configuration, triggering the conformational changes that drive ion transport or signal transduction. In the dark state, all-trans retinal is the predominant form; upon illumination, the isomerization initiates the [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/).
 
 ## Properties
 
@@ -27,7 +27,7 @@ Retinal (vitamin A aldehyde) is the light-absorbing chromophore covalently bound
 
 ### Microbial rhodopsin chromophore
 
-Retinal is the essential light-absorbing chromophore for all [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/), including [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/), proteorhodopsin, archaerhodopsin, channelrhodopsin, and sensory rhodopsin. It is covalently attached via a protonated Schiff base to a conserved lysine residue in transmembrane helix 7. Light-induced isomerization of retinal from all-trans to 13-cis triggers the protein conformational changes that drive ion transport or signal transduction.
+Retinal is the essential light-absorbing chromophore for all [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/), including [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/), proteorhodopsin, archaerhodopsin, channelrhodopsin, and sensory rhodopsin. It is covalently attached via a protonated Schiff base to a conserved lysine residue in transmembrane helix 7. Light-induced isomerization of retinal from all-trans to 13-cis triggers the protein conformational changes that drive ion transport or signal transduction.
 
 
 ## Examples from This Wiki
@@ -53,8 +53,8 @@ No comparison data available.
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Retinal chromophore bound to Lys216 via protonated Schiff base
 - [PspR (DTG Rhodopsin from Pseudomonas putida)](/xray-mp-wiki/proteins/rhodopsins/pspr/) — Retinal chromophore bound to Lys210; central to proton pumping mechanism
 - [11-cis-Retinal](/xray-mp-wiki/reagents/ligands/11-cis-retinal/) — Isomeric form of retinal; precursor to all-trans retinal in visual cycle
-- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-photocycle/) — Retinal isomerization drives the rhodopsin photocycle
+- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/) — Retinal isomerization drives the rhodopsin photocycle
 - [Chrimson Channelrhodopsin](/xray-mp-wiki/proteins/rhodopsins/chrimson/) — Retinal chromophore bound to Lys283 in Chrimson for red light absorption
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — Related biological concept
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — Related biological concept
 - [Acetabularia Rhodopsin II](/xray-mp-wiki/proteins/rhodopsins/acetabularia-rhodopsin-ii/) — Related protein structure
 - [Archaerhodopsin-2](/xray-mp-wiki/proteins/rhodopsins/archaerhodopsin-2/) — Related protein structure

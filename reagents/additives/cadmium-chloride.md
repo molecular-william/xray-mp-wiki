@@ -57,5 +57,5 @@ No comparison data available.
 - [Photosystem II core dimer from Thermosynechococcus elongatus](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii-core-dimer/) — Used as heavy atom derivative for SAD/MAD phasing
 - [OsNIP2;1 (Silicon Transporter Lsi1 from Oryza sativa)](/xray-mp-wiki/proteins/other-ion-channels/osnip2-1/) — Cadmium ions used in crystallization to bridge tetramers
 - [KcsA Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/) — Cd2+ forms metal bridges in Y82C-KcsA outer vestibule during C-type inactivation
-- [C-type Inactivation](/xray-mp-wiki/concepts/c-type-inactivation/) — Cd2+ metal bridge formation stabilizes inactivated state of K+ channels
+- [C-type Inactivation](/xray-mp-wiki/concepts/structural-mechanisms/c-type-inactivation/) — Cd2+ metal bridge formation stabilizes inactivated state of K+ channels
 - [GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/glic/) — Cd2+ binds to intracellular pore entry; E221A abolishes binding

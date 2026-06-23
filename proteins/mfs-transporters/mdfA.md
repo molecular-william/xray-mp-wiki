@@ -14,18 +14,18 @@ verified: false
 
 ## Overview
 
-MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging to the Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/mfs-transporter/)). It functions as a drug/proton antiporter that exports a broad spectrum of chemically dissimilar toxic compounds, including neutral, zwitterionic, and monovalent cationic drugs. MdfA is fueled by the proton electrochemical potential. Crystal structures of the MdfA(Q131R) mutant have been determined with bound ligands [deoxycholate](/xray-mp-wiki/reagents/additives/deoxycholate/) (PDB 4ZP0, 2.0 A), [chloramphenicol](/xray-mp-wiki/reagents/antibiotics/chloramphenicol/) (PDB 4ZOW, 2.4 A), and [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) (PDB 4ZP2, 2.2 A), revealing the substrate-binding mode of an [MFS](/xray-mp-wiki/concepts/mfs-transporter/) antiporter. A double mutant MdfA(Q131R/L339E) was crystallized at 2.2 A resolution (PDB 6EUQ). Studies revealed that membrane-embedded MdfA assumes a relatively stable inward-closed conformation that is further stabilized by substrates and [deoxycholate](/xray-mp-wiki/reagents/additives/deoxycholate/).
+MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging to the Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/)). It functions as a drug/proton antiporter that exports a broad spectrum of chemically dissimilar toxic compounds, including neutral, zwitterionic, and monovalent cationic drugs. MdfA is fueled by the proton electrochemical potential. Crystal structures of the MdfA(Q131R) mutant have been determined with bound ligands [deoxycholate](/xray-mp-wiki/reagents/additives/deoxycholate/) (PDB 4ZP0, 2.0 A), [chloramphenicol](/xray-mp-wiki/reagents/antibiotics/chloramphenicol/) (PDB 4ZOW, 2.4 A), and [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) (PDB 4ZP2, 2.2 A), revealing the substrate-binding mode of an [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) antiporter. A double mutant MdfA(Q131R/L339E) was crystallized at 2.2 A resolution (PDB 6EUQ). Studies revealed that membrane-embedded MdfA assumes a relatively stable inward-closed conformation that is further stabilized by substrates and [deoxycholate](/xray-mp-wiki/reagents/additives/deoxycholate/).
 
 
 ## Structure Determination
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.jmb.2018.02.026 | 6EUQ | 2.2 A | P21 | MdfA(Q131R/L339E) double mutant with [C-terminal](/xray-mp-wiki/concepts/c-terminus/) [hexahistidine](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag | [deoxycholate](/xray-mp-wiki/reagents/additives/deoxycholate/) (DXC) |
-| doi/10.1038##cr.2015.94 | 4ZP0 | 2.0 A | P212121 | MdfA(Q131R) mutant with [C-terminal](/xray-mp-wiki/concepts/c-terminus/) [hexahistidine](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag | [deoxycholate](/xray-mp-wiki/reagents/additives/deoxycholate/) (DXC) |
-| doi/10.1038##cr.2015.94 | 4ZOW | 2.4 A | P212121 | MdfA(Q131R) mutant with [C-terminal](/xray-mp-wiki/concepts/c-terminus/) [hexahistidine](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag | [chloramphenicol](/xray-mp-wiki/reagents/antibiotics/chloramphenicol/) |
-| doi/10.1038##cr.2015.94 | 4ZP2 | 2.2 A | P212121 | MdfA(Q131R) mutant with [C-terminal](/xray-mp-wiki/concepts/c-terminus/) [hexahistidine](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag | [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) |
-| doi/10.1038##s41467-018-06306-x | 6GV1 | 3.4 A | P6_1_22 | MdfA WT in complex with Fab YN1074 (stabilizing antibody fragment), [C-terminal](/xray-mp-wiki/concepts/c-terminus/) [hexahistidine](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag | none (outward open, substrate-free state) |
+| doi/10.1016##j.jmb.2018.02.026 | 6EUQ | 2.2 A | P21 | MdfA(Q131R/L339E) double mutant with [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) [hexahistidine](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag | [deoxycholate](/xray-mp-wiki/reagents/additives/deoxycholate/) (DXC) |
+| doi/10.1038##cr.2015.94 | 4ZP0 | 2.0 A | P212121 | MdfA(Q131R) mutant with [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) [hexahistidine](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag | [deoxycholate](/xray-mp-wiki/reagents/additives/deoxycholate/) (DXC) |
+| doi/10.1038##cr.2015.94 | 4ZOW | 2.4 A | P212121 | MdfA(Q131R) mutant with [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) [hexahistidine](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag | [chloramphenicol](/xray-mp-wiki/reagents/antibiotics/chloramphenicol/) |
+| doi/10.1038##cr.2015.94 | 4ZP2 | 2.2 A | P212121 | MdfA(Q131R) mutant with [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) [hexahistidine](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag | [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) |
+| doi/10.1038##s41467-018-06306-x | 6GV1 | 3.4 A | P6_1_22 | MdfA WT in complex with Fab YN1074 (stabilizing antibody fragment), [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) [hexahistidine](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag | none (outward open, substrate-free state) |
 
 ## Expression and Purification
 
@@ -63,7 +63,7 @@ MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
-| Expression and membrane preparation | Full-length MdfA gene cloned from E. coli BL21(DE3) genome. Overexpressed in E. coli C43 (DE3) with [C-terminal](/xray-mp-wiki/concepts/c-terminus/) [His6](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag, induced with 0.5 mM [IPTG](/xray-mp-wiki/methods/expression-systems/iptg-induction/) at OD600 0.8, grown at 16 C for 18 h. Cells homogenized at 10,000-15,000 p.s.i., membrane fraction collected by [ultracentrifugation](/xray-mp-wiki/methods/purification/ultracentrifugation/) at 100,000g for 1 h. | -- | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 300 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 5 mM [beta-mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/) + -- | Incidental Q131R mutation introduced during cloning; considered WT |
+| Expression and membrane preparation | Full-length MdfA gene cloned from E. coli BL21(DE3) genome. Overexpressed in E. coli C43 (DE3) with [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) [His6](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tag, induced with 0.5 mM [IPTG](/xray-mp-wiki/methods/expression-systems/iptg-induction/) at OD600 0.8, grown at 16 C for 18 h. Cells homogenized at 10,000-15,000 p.s.i., membrane fraction collected by [ultracentrifugation](/xray-mp-wiki/methods/purification/ultracentrifugation/) at 100,000g for 1 h. | -- | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 300 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 5 mM [beta-mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/) + -- | Incidental Q131R mutation introduced during cloning; considered WT |
 | Solubilization | Membrane fraction solubilized with 0.5% DM for 2 h at 4 C, clarified by [ultracentrifugation](/xray-mp-wiki/methods/purification/ultracentrifugation/) at 100,000g for 30 min | -- | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 300 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 5 mM [beta-mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/), 0.5% DM + 0.5% DM ([DM](/xray-mp-wiki/reagents/detergents/dm/)) | Solubilized at 4 C for 2 hr |
 | [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) affinity resin, washed with 20 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/), eluted with 350 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) (Qiagen) | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 300 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 5 mM [beta-mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/), 0.2% DM, 350 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 0.2% DM | Concentrated to 10-15 mg/mL |
 | Size-exclusion chromatography | [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200) 10/30 column pre-equilibrated with [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) buffer | [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200) 10/30 (GE Healthcare) | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 100 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 5 mM [beta-mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/), 1.2 mM sodium [deoxycholate](/xray-mp-wiki/reagents/additives/deoxycholate/), 0.2% n-nonyl-beta-D-glucopyranoside, 0.025% [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) + 0.2% NG (n-nonyl-beta-D-glucopyranoside), 0.025% [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) | Peak fractions pooled and concentrated to 15 mg/mL before crystallization |
@@ -89,7 +89,7 @@ MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging
 ### Substrate-binding mode in MFS antiporters
 
 The crystal structures of MdfA in complex with three distinct ligands ([chloramphenicol](/xray-mp-wiki/reagents/antibiotics/chloramphenicol/),
-[deoxycholate](/xray-mp-wiki/reagents/additives/deoxycholate/), and [LDAO](/xray-mp-wiki/reagents/detergents/ldao/)) reveal the substrate-binding mode of an [MFS](/xray-mp-wiki/concepts/mfs-transporter/) antiporter. The
+[deoxycholate](/xray-mp-wiki/reagents/additives/deoxycholate/), and [LDAO](/xray-mp-wiki/reagents/detergents/ldao/)) reveal the substrate-binding mode of an [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) antiporter. The
 substrate-binding site sits proximal to the conserved acidic residue D34. Twelve amino
 acid residues form the binding cavity, with over two-thirds being hydrophobic. Key
 residues Y30, N33, and D34 from motif-D form [hydrogen bonds](/xray-mp-wiki/concepts/hydrogen-bonding/) with [chloramphenicol](/xray-mp-wiki/reagents/antibiotics/chloramphenicol/).
@@ -102,17 +102,17 @@ enhancing the electrostatic field and affecting protonation status.
 In antiporters, substrate binding and protonation compete with each other. MdfA has
 two proton-titratable residues in the central cavity: E26 and D34. D34 is directly
 involved in substrate binding while E26 is over 8 A away. Substrate binding induces
-deprotonation of D34, triggering the Cin-to-Cout [conformational change](/xray-mp-wiki/concepts/conformational-change/). Motif-B
+deprotonation of D34, triggering the Cin-to-Cout [conformational change](/xray-mp-wiki/concepts/structural-mechanisms/conformational-change/). Motif-B
 (R112xxQG) generates a positive electrostatic field that promotes deprotonation of
 D34 in the Cin state. A proton-wire mechanism involving conserved Y30 may facilitate
 proton transfer between E26 and D34.
 
 ### Conformational changes upon substrate binding
 
-[smFRET](/xray-mp-wiki/methods/biophysical/smfret/) imaging revealed that Cm binding induces closure of the [periplasmic](/xray-mp-wiki/concepts/periplasm/) side of
+[smFRET](/xray-mp-wiki/methods/biophysical/smfret/) imaging revealed that Cm binding induces closure of the [periplasmic](/xray-mp-wiki/concepts/miscellaneous/periplasm/) side of
 MdfA, shifting the conformation to the Cin state. Mutations in motif-C (P154A,
 P158A) destabilize the Cin state and favor the Cout conformation. Motif-C specifically
-evolved to stabilize the hydrophobic inter-domain interaction of [MFS](/xray-mp-wiki/concepts/mfs-transporter/) antiporters in
+evolved to stabilize the hydrophobic inter-domain interaction of [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) antiporters in
 the Cin state. The proline residues in motif-C introduce kinks in the TM helix and
 participate in water-mediated interactions at the inter-domain interface.
 
@@ -122,7 +122,7 @@ The crystal structure of MdfA in the outward open (Oo) conformation (PDB 6GV1, 3
 
 ### Conserved motifs in MFS antiporters
 
-Four motifs (A-D) are conserved in [MFS](/xray-mp-wiki/concepts/mfs-transporter/) antiporters. Motif-A stabilizes the Cout
+Four motifs (A-D) are conserved in [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) antiporters. Motif-A stabilizes the Cout
 state. Motif-B (R112xxQG in TM4) contains an essential basic residue that generates
 a positive electrostatic field promoting D34 deprotonation. Motif-C (the antiporter
 motif in TM5) stabilizes the Cin state through inter-domain hydrophobic interactions.
@@ -132,13 +132,13 @@ transport activity.
 
 ## Cross-References
 
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/) — MdfA belongs to the MFS, the largest family of bacterial drug transporters
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — MdfA functions via alternating access between inward-facing and outward-facing states
-- [Rocker-Switch Mechanism in MFS Transporters](/xray-mp-wiki/concepts/rocker-switch-mechanism/) — MFS-specific transport mechanism used by MdfA
-- [Substrate-Protonation Coupling in MFS Symporters](/xray-mp-wiki/concepts/substrate-protonation-coupling/) — MdfA substrate binding induces deprotonation of D34, driving transport
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — MdfA belongs to the MFS, the largest family of bacterial drug transporters
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — MdfA functions via alternating access between inward-facing and outward-facing states
+- [Rocker-Switch Mechanism in MFS Transporters](/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/) — MFS-specific transport mechanism used by MdfA
+- [Substrate-Protonation Coupling in MFS Symporters](/xray-mp-wiki/concepts/transport-mechanisms/substrate-protonation-coupling/) — MdfA substrate binding induces deprotonation of D34, driving transport
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for MdfA solubilization and purification
 - [Decylmaltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Used for MdfA(Q131R) purification for crystallization
 - [Lauryldimethylamine N-oxide (LDAO)](/xray-mp-wiki/reagents/detergents/ldao/) — Used as crystallization additive and bound ligand in MdfA-LDAO structure (PDB 4ZP2)
 - [Deoxycholate (DXC)](/xray-mp-wiki/reagents/additives/deoxycholate/) — Bound ligand in MdfA-Dxc structure (PDB 4ZP0) and used in SEC buffer
-- [C-terminal](/xray-mp-wiki/concepts/c-terminus/) — Entity mentioned in text
+- [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) — Entity mentioned in text
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Entity mentioned in text

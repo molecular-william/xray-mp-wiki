@@ -93,7 +93,7 @@ A conserved hydrogen bond network centered on Glu234 (M3 helix), Gly260 (SF2-M4 
 
 ### ML335 stabilizes the C-type gate by rigidifying the P1-M4 interface
 
-The K2P activator [ML335 (N-aryl-sulfonamide K2P activator)](/xray-mp-wiki/reagents/ligands/ml335/) binds to the P1-M4 intrasubunit interface ([K2P Modulator Pocket](/xray-mp-wiki/concepts/k2p-modulator-pocket/)) and stabilizes the SF2-M4 loop. ML335-bound structures show canonical selectivity filter conformations with ions at all four sites (S1-S4) at all potassium concentrations tested. [ML335 (N-aryl-sulfonamide K2P activator)](/xray-mp-wiki/reagents/ligands/ml335/) increases the strength of the Glu234 hydrogen bonding network and suppresses potassium-dependent loop dynamics. Single-channel recordings show [ML335 (N-aryl-sulfonamide K2P activator)](/xray-mp-wiki/reagents/ligands/ml335/) increases open probability.
+The K2P activator [ML335 (N-aryl-sulfonamide K2P activator)](/xray-mp-wiki/reagents/ligands/ml335/) binds to the P1-M4 intrasubunit interface ([K2P Modulator Pocket](/xray-mp-wiki/concepts/miscellaneous/k2p-modulator-pocket/)) and stabilizes the SF2-M4 loop. ML335-bound structures show canonical selectivity filter conformations with ions at all four sites (S1-S4) at all potassium concentrations tested. [ML335 (N-aryl-sulfonamide K2P activator)](/xray-mp-wiki/reagents/ligands/ml335/) increases the strength of the Glu234 hydrogen bonding network and suppresses potassium-dependent loop dynamics. Single-channel recordings show [ML335 (N-aryl-sulfonamide K2P activator)](/xray-mp-wiki/reagents/ligands/ml335/) increases open probability.
 
 ### SF2-M4 loop integrates diverse gating cues
 
@@ -103,12 +103,12 @@ The uniquely long K2P SF2-M4 loop (6-8 residues longer than canonical potassium 
 ## Cross-References
 
 - [ML335 (N-aryl-sulfonamide K2P activator)](/xray-mp-wiki/reagents/ligands/ml335/) — K2P 2.1 activator co-crystallized (PDB 5VKN, this paper); stabilizes C-type gate by rigidifying P1-M4 interface
-- [C-type Inactivation](/xray-mp-wiki/concepts/c-type-inactivation/) — K2P channels use C-type gate as principal gating site; this paper reveals asymmetric SF1 pinching and SF2 dilation mechanisms
+- [C-type Inactivation](/xray-mp-wiki/concepts/structural-mechanisms/c-type-inactivation/) — K2P channels use C-type gate as principal gating site; this paper reveals asymmetric SF1 pinching and SF2 dilation mechanisms
 - [KcsA Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/) — Homotetrameric model system; SF1 pinching mechanism of C-type gating shared with K2P channels
 - [Human TRAAK Potassium Channel (K2P 4.1)](/xray-mp-wiki/proteins/voltage-gated-channels/traak/) — K2P family member; SF2-M4 loop length comparison across K2P subtypes
 - [Human K2P2.1 (TREK-1) Potassium Channel I110D Mutant](/xray-mp-wiki/proteins/voltage-gated-channels/k2p2-1/) — Alternative K2P2.1 construct; RuR inhibition independent of C-type gate activation
 - [Human TASK-1 (K2P 3.1)](/xray-mp-wiki/proteins/voltage-gated-channels/human-task-1-k2p3-1/) — K2P subfamily; M3 glutamate network conserved (Glu182, Tyr220); Y220F mutation destabilizes C-type gate
-- [K2P Modulator Pocket](/xray-mp-wiki/concepts/k2p-modulator-pocket/) — Related biological concept
+- [K2P Modulator Pocket](/xray-mp-wiki/concepts/miscellaneous/k2p-modulator-pocket/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [FSEC](/xray-mp-wiki/methods/quality-assessment/fluorescence-size-exclusion-chromatography/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification

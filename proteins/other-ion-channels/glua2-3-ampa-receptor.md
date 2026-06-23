@@ -82,7 +82,7 @@ Crosslinking the NTD layer in the O-shape conformation did not impair receptor f
 ## Cross-References
 
 - [GluA2 AMPA Receptor](/xray-mp-wiki/proteins/other-ion-channels/glua2-ampa-receptor/) — GluA2 is a subunit of the GluA2/3 heteromeric AMPA receptor
-- [Desensitization in Cys-loop Receptors](/xray-mp-wiki/concepts/desensitization-in-cys-loop-receptors/) — The M1/M2 states reveal desensitization-like transitions in AMPARs
+- [Desensitization in Cys-loop Receptors](/xray-mp-wiki/concepts/signaling-receptors/desensitization-in-cys-loop-receptors/) — The M1/M2 states reveal desensitization-like transitions in AMPARs
 - [Cryo Em](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Referenced in glua2-3-ampa-receptor text
 - [Tris](/xray-mp-wiki/reagents/buffers/tris/) — Referenced in glua2-3-ampa-receptor text
 - [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) — Referenced in glua2-3-ampa-receptor text

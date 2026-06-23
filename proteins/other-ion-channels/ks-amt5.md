@@ -85,7 +85,7 @@ Unlike canonical Amt transporters that conduct NH3, Ks-Amt5 does not translocate
 
 ## Cross-References
 
-- [Rh/Amt/MEP Protein Family](/xray-mp-wiki/concepts/rh-amt-mep-protein-family/) — Ks-Amt5 is a member of the Amt/Rh family with conserved structural features
-- [Two-Component Signaling System (TCS) in Membrane Sensors](/xray-mp-wiki/concepts/two-component-signaling-system/) — Ks-Amt5 functions as an ammonium sensor histidine kinase, a novel TCS architecture
+- [Rh/Amt/MEP Protein Family](/xray-mp-wiki/concepts/protein-families/rh-amt-mep-protein-family/) — Ks-Amt5 is a member of the Amt/Rh family with conserved structural features
+- [Two-Component Signaling System (TCS) in Membrane Sensors](/xray-mp-wiki/concepts/signaling-receptors/two-component-signaling-system/) — Ks-Amt5 functions as an ammonium sensor histidine kinase, a novel TCS architecture
 - [Ammonium Transporter AmtB (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/amt-b/) — Structural comparison with canonical Amt transporter
 - [Amt-1 ammonium transporter from Archaeoglobus fulgidus](/xray-mp-wiki/proteins/other-ion-channels/a-fulgidus-amt1/) — Structural comparison; Ks-Amt5 Amt domain aligns with 1.2 Å RMSD to Af-Amt1

@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Syntaxin-1A is a neuronal Qa-SNARE protein from rat that plays a central role in neurotransmitter release at synaptic terminals. It is a single-pass transmembrane protein containing an N-terminal Habc domain, a SNARE motif, a linker region, and a C-terminal transmembrane domain. In the synaptic terminal, syntaxin-1A assembles with SNAP-25 and [Synaptobrevin-2 (Rat Neuronal Qc-SNARE Protein)](/xray-mp-wiki/proteins/structural-adhesion/synaptobrevin-2/) into a four-helix bundle [SNARE Complex](/xray-mp-wiki/concepts/snare-complex/) that drives synaptic vesicle fusion with the plasma membrane. The X-ray structure of the syntaxin-1A SNARE motif with linkers and transmembrane region revealed continuous helical extension from the SNARE core through the linker into the membrane.
+Syntaxin-1A is a neuronal Qa-SNARE protein from rat that plays a central role in neurotransmitter release at synaptic terminals. It is a single-pass transmembrane protein containing an N-terminal Habc domain, a SNARE motif, a linker region, and a C-terminal transmembrane domain. In the synaptic terminal, syntaxin-1A assembles with SNAP-25 and [Synaptobrevin-2 (Rat Neuronal Qc-SNARE Protein)](/xray-mp-wiki/proteins/structural-adhesion/synaptobrevin-2/) into a four-helix bundle [SNARE Complex](/xray-mp-wiki/concepts/structural-mechanisms/snare-complex/) that drives synaptic vesicle fusion with the plasma membrane. The X-ray structure of the syntaxin-1A SNARE motif with linkers and transmembrane region revealed continuous helical extension from the SNARE core through the linker into the membrane.
 
 
 ## Structure Determination
@@ -62,7 +62,7 @@ Syntaxin-1A is a neuronal Qa-SNARE protein from rat that plays a central role in
 
 ### Continuous helical extension into the membrane
 
-Syntaxin-1A forms a continuous alpha-helix throughout its SNARE motif, linker region, and transmembrane region. This helical continuity extends the known four-helix core [SNARE Complex](/xray-mp-wiki/concepts/snare-complex/) into the membrane, suggesting that the final phase of SNARE assembly is directly coupled to membrane merger.
+Syntaxin-1A forms a continuous alpha-helix throughout its SNARE motif, linker region, and transmembrane region. This helical continuity extends the known four-helix core [SNARE Complex](/xray-mp-wiki/concepts/structural-mechanisms/snare-complex/) into the membrane, suggesting that the final phase of SNARE assembly is directly coupled to membrane merger.
 
 ### Aromatic layer stabilizes linker region
 
@@ -86,5 +86,5 @@ The complex including linkers and TMRs of syntaxin-1A and [Synaptobrevin-2 (Rat 
 - [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — n-octyl beta-D-glucopyranoside used in purification buffer (50 mM) for syntaxin-1A
 - [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — 20 mM Tris pH 8.8 used in desalting and ion exchange purification buffer
 - [Tris-(2-carboxyethyl)phosphine (TCEP)](/xray-mp-wiki/reagents/additives/tcep/) — 1 mM TCEP used in desalting buffer for syntaxin-1A purification
-- [SNARE Complex](/xray-mp-wiki/concepts/snare-complex/) — Syntaxin-1A is the Qa-SNARE component of the four-helix bundle SNARE complex
+- [SNARE Complex](/xray-mp-wiki/concepts/structural-mechanisms/snare-complex/) — Syntaxin-1A is the Qa-SNARE component of the four-helix bundle SNARE complex
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

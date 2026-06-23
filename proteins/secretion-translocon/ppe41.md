@@ -74,6 +74,6 @@ The YxxxD/E secretion motif is present in [PE25](/xray-mp-wiki/proteins/secretio
 
 - [PE25](/xray-mp-wiki/proteins/secretion-translocon/pe25/) — PPE41 forms the heterodimer partner of PE25 in the canonical PE-PPE complex
 - [EspB](/xray-mp-wiki/proteins/secretion-translocon/espB/) — EspB structure structurally resembles the PE25-PPE41 heterodimer despite being a single-chain fusion
-- [PE-PPE Fusion Proteins](/xray-mp-wiki/concepts/pe-ppe-fusion-proteins/) — PPE41 is the PPE domain component of the canonical PE-PPE heterodimer architecture
-- [ESX-1 Secretion System](/xray-mp-wiki/concepts/esx-1-secretion-system/) — PPE41 is a secreted substrate of the ESX-1 type VII secretion system as part of PE25-PPE41
+- [PE-PPE Fusion Proteins](/xray-mp-wiki/concepts/construct-design/pe-ppe-fusion-proteins/) — PPE41 is the PPE domain component of the canonical PE-PPE heterodimer architecture
+- [ESX-1 Secretion System](/xray-mp-wiki/concepts/transport-mechanisms/esx-1-secretion-system/) — PPE41 is a secreted substrate of the ESX-1 type VII secretion system as part of PE25-PPE41
 - [EspG1](/xray-mp-wiki/proteins/secretion-translocon/espg1/) — EspG chaperones bind the hh motif on PPE41 for heterodimer folding and secretion

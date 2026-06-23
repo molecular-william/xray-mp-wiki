@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-The human histamine H3 receptor (H3R) is a [G Protein](/xray-mp-wiki/concepts/g-protein/)-coupled receptor ([GPCR](/xray-mp-wiki/concepts/gpcr/)) belonging to the aminergic [GPCR](/xray-mp-wiki/concepts/gpcr/) subfamily. It is expressed mainly in the central nervous system, where it acts as an auto- or hetero-receptor to regulate histamine release and modulate the release of various neurotransmitters including [Dopamine](/xray-mp-wiki/reagents/ligands/dopamine/), GABA, and [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/). H3R is associated with physiological processes such as sleep-wake cycles, learning, memory, feeding, and cerebral ischemia, making it a potential drug target for neurological and psychiatric disorders including sleep disorders, Parkinson's disease, schizophrenia, and Alzheimer's disease. The crystal structure of H3R in complex with the non-[Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) antagonist PF-03654746 reveals the molecular basis for ligand recognition and allosteric [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) binding.
+The human histamine H3 receptor (H3R) is a [G Protein](/xray-mp-wiki/concepts/signaling-receptors/g-protein/)-coupled receptor ([GPCR](/xray-mp-wiki/concepts/signaling-receptors/gpcr/)) belonging to the aminergic [GPCR](/xray-mp-wiki/concepts/signaling-receptors/gpcr/) subfamily. It is expressed mainly in the central nervous system, where it acts as an auto- or hetero-receptor to regulate histamine release and modulate the release of various neurotransmitters including [Dopamine](/xray-mp-wiki/reagents/ligands/dopamine/), GABA, and [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/). H3R is associated with physiological processes such as sleep-wake cycles, learning, memory, feeding, and cerebral ischemia, making it a potential drug target for neurological and psychiatric disorders including sleep disorders, Parkinson's disease, schizophrenia, and Alzheimer's disease. The crystal structure of H3R in complex with the non-[Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) antagonist PF-03654746 reveals the molecular basis for ligand recognition and allosteric [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) binding.
 
 
 ## Structure Determination
@@ -70,8 +70,8 @@ Compared to inactive H1R, H3R shows inward movement of TM6 and TM7 extracellular
 
 ## Cross-References
 
-- [G Protein](/xray-mp-wiki/concepts/g-protein/) — Related entity
-- [Gpcr](/xray-mp-wiki/concepts/gpcr/) — Related entity
+- [G Protein](/xray-mp-wiki/concepts/signaling-receptors/g-protein/) — Related entity
+- [Gpcr](/xray-mp-wiki/concepts/signaling-receptors/gpcr/) — Related entity
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Related entity
 - [Bac To Bac](/xray-mp-wiki/methods/expression-systems/bac-to-bac/) — Related entity
 - [Baculovirus Expression](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Related entity

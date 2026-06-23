@@ -57,4 +57,4 @@ No comparison data available.
 ## Cross-References
 
 - [LmrP Multidrug Transporter](/xray-mp-wiki/proteins/mfs-transporters/lmrp/) — Hoechst 33342 is the substrate in the LmrP crystal structure and transport studies
-- [Antibiotic Efflux Pump](/xray-mp-wiki/concepts/antibiotic-efflux-pump/) — Hoechst 33342 is a model MDR substrate for efflux pump studies
+- [Antibiotic Efflux Pump](/xray-mp-wiki/concepts/transport-mechanisms/antibiotic-efflux-pump/) — Hoechst 33342 is a model MDR substrate for efflux pump studies

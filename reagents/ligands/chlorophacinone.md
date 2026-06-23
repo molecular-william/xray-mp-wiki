@@ -41,4 +41,4 @@ No comparison data available.
 
 - [Human Vitamin K Epoxide Reductase (HsVKOR)](/xray-mp-wiki/proteins/enzymes/hsvkor/) — Target enzyme bound by chlorophacinone
 - [Warfarin](/xray-mp-wiki/reagents/ligands/warfarin/) — Different chemical class (indandione) but same mechanism as warfarin
-- [Vitamin K Catalytic Cycle](/xray-mp-wiki/concepts/vitamin-k-catalytic-cycle/) — Chlorophacinone inhibits the vitamin K cycle through VKOR inhibition
+- [Vitamin K Catalytic Cycle](/xray-mp-wiki/concepts/enzyme-mechanisms/vitamin-k-catalytic-cycle/) — Chlorophacinone inhibits the vitamin K cycle through VKOR inhibition

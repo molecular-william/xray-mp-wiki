@@ -71,8 +71,8 @@ The high resolution (1.9 A) electron density map reveals that alpha-Arg-373 in t
 ## Cross-References
 
 - [Bovine F1-ATPase (azide-inhibited form)](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) — Related azide-inhibited structure of the same enzyme; comparison reveals ADP-inhibited vs ground state
-- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/f1-atpase-rotary-mechanism/) — This structure provides the ground state intermediate of the catalytic cycle
-- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/rotary-atpase-mechanism/) — Structural basis for the rotary catalytic mechanism of F-type ATPases
+- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/) — This structure provides the ground state intermediate of the catalytic cycle
+- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/) — Structural basis for the rotary catalytic mechanism of F-type ATPases
 - [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/) — Referenced in the context of Amp Pnp
 - [ADP](/xray-mp-wiki/reagents/ligands/adp/) — Referenced in the context of ADP
 - [ATP](/xray-mp-wiki/reagents/ligands/atp/) — Referenced in the context of ATP

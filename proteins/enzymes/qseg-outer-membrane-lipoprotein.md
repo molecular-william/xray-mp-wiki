@@ -70,4 +70,4 @@ QseG dimerizes through a left-handed coiled-coil formed by the α7 helices. Stru
 ## Cross-References
 
 - [QseE Periplasmic Sensor Domain](/xray-mp-wiki/proteins/enzymes/qsee-periplasmic-domain/) — QseG interacts with QseE in the periplasm to regulate virulence signaling
-- [QseE/F/G Three-Component System](/xray-mp-wiki/concepts/qse-efg-three-component-system/) — QseG is the outer membrane lipoprotein component of this system
+- [QseE/F/G Three-Component System](/xray-mp-wiki/concepts/miscellaneous/qse-efg-three-component-system/) — QseG is the outer membrane lipoprotein component of this system

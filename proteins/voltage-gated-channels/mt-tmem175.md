@@ -101,4 +101,4 @@ The structure was solved using a novel 'macrobody' chaperone — a nanobody fuse
 
 - [KcsA K+ channel](/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/) — Canonical P-loop K+ channel with different selectivity filter architecture
 - [NaK channel](/xray-mp-wiki/proteins/voltage-gated-channels/nak-channel/) — Non-selective cation channel sharing tetrameric architecture
-- [Alternating access mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Channel gating mechanism vs transporter alternating access
+- [Alternating access mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Channel gating mechanism vs transporter alternating access

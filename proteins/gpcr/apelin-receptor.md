@@ -14,7 +14,7 @@ verified: true
 
 ## Overview
 
-The human apelin receptor (APJR), also known as angiotensin receptor-like 1 (AGTRL1) or [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type J receptor, is a class A [G Protein](/xray-mp-wiki/concepts/g-protein/)-coupled receptor ([GPCR](/xray-mp-wiki/concepts/gpcr/)) that plays a key role in cardiovascular regulation. APJR is activated by two endogenous peptide ligands, apelin and elabela/toddler, and is involved in angiogenesis, vasoconstriction, heart muscle contractility, energy metabolism regulation, and fluid homeostasis. Polymorphisms in the APJR gene have been associated with increased risks of hypertension and coronary artery disease.
+The human apelin receptor (APJR), also known as angiotensin receptor-like 1 (AGTRL1) or [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type J receptor, is a class A [G Protein](/xray-mp-wiki/concepts/signaling-receptors/g-protein/)-coupled receptor ([GPCR](/xray-mp-wiki/concepts/signaling-receptors/gpcr/)) that plays a key role in cardiovascular regulation. APJR is activated by two endogenous peptide ligands, apelin and elabela/toddler, and is involved in angiogenesis, vasoconstriction, heart muscle contractility, energy metabolism regulation, and fluid homeostasis. Polymorphisms in the APJR gene have been associated with increased risks of hypertension and coronary artery disease.
 
 
 ## Structure Determination
@@ -62,7 +62,7 @@ The crystal structure of APJR in complex with [AMG3054](/xray-mp-wiki/reagents/l
 peptide ligand binding mode, where the C-terminal end of the peptide binds deeply
 into the canonical orthosteric pocket (site 1) and the N-terminal half extends to
 a surface groove (site 2). This binding mode has not been observed in any other
-solved class A [GPCR](/xray-mp-wiki/concepts/gpcr/) structure.
+solved class A [GPCR](/xray-mp-wiki/concepts/signaling-receptors/gpcr/) structure.
 Key binding residues at site 1 include Y35 (1.39), W85 (2.60), and R168 (ECL2),
 whose mutation to alanine completely abolished apelin binding. Y264 (6.51) and
 K268 (6.55) mutations reduced binding affinity but did not eliminate it. At site 2,
@@ -78,7 +78,7 @@ peptide GPCRs through a similar two-site mechanism.
 - [Kappa Opioid Receptor](/xray-mp-wiki/proteins/gpcr/kappa-opioid-receptor/) — Class A GPCR with endogenous peptide ligand; two-site binding model proposed via MD
 - [Apelin-13](/xray-mp-wiki/reagents/ligands/apelin-13/) — Endogenous peptide agonist of APJR; binding analyzed by mutation and MD simulation
 - [Apelin-17](/xray-mp-wiki/reagents/ligands/apelin-17/) — Endogenous peptide ligand; AMG3054 is a constrained analog of apelin-17
-- [Two-Site Binding Mode](/xray-mp-wiki/concepts/two-site-binding-mode/) — Novel binding mechanism revealed by APJR-AMG3054 crystal structure
+- [Two-Site Binding Mode](/xray-mp-wiki/concepts/signaling-receptors/two-site-binding-mode/) — Novel binding mechanism revealed by APJR-AMG3054 crystal structure
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Referenced in apelin-receptor
 - [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) — Referenced in apelin-receptor
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Referenced in apelin-receptor

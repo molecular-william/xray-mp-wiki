@@ -100,4 +100,4 @@ TM5 and TM6 are too short to span the membrane bilayer fully, and in MD simulati
 - [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/) — NaCl component of TatC crystallization buffer
 - [4-(2-Hydroxyethyl)-1-Piperazineethanesulfonic Acid (HEPES)](/xray-mp-wiki/reagents/buffers/hepes/) — HEPES component of TatC SEC buffer
 - [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) — SeMet used for Se-MAD phasing of TatC structure
-- [Twin-Arginine Translocation (TAT) Pathway](/xray-mp-wiki/concepts/tat-pathway/) — TatC is the central signal peptide binding component of the TAT pathway
+- [Twin-Arginine Translocation (TAT) Pathway](/xray-mp-wiki/concepts/transport-mechanisms/tat-pathway/) — TatC is the central signal peptide binding component of the TAT pathway

@@ -76,5 +76,5 @@ The OSCP interaction with αE involves α-helices 1 and 5 of OSCP and residues 6
 ## Cross-References
 
 - [Bovine F1-ATPase (azide-inhibited form)](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) — Catalytic domain of the same ATP synthase; azide-inhibited structure used as MR search model (PDB 2CK3)
-- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/rotary-atpase-mechanism/) — ATP synthase uses a rotary catalytic mechanism driven by the proton motive force
+- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/) — ATP synthase uses a rotary catalytic mechanism driven by the proton motive force
 - [Yeast Mitochondrial ATP Synthase c10 Ring](/xray-mp-wiki/proteins/pumps-atpases/yeast-mitochondrial-atp-synthase-c10-ring/) — Membrane rotor component of ATP synthase; the c-ring interacts with the stator via subunit a

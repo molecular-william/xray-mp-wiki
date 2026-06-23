@@ -29,7 +29,7 @@ The MT1 melatonin receptor (type 1A) is a class A G-protein-coupled receptor tha
 ## Expression and Purification
 
 - **Expression system**: Spodoptera frugiperda (Sf9) insect cells
-- **Construct**: MT1-CC (human MT1 with N-terminal 11 aa [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/), C-terminal 25 aa [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/), ICL3 residues 219-227 replaced with PGS fusion; 9 thermostabilizing point mutations)
+- **Construct**: MT1-CC (human MT1 with N-terminal 11 aa [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), C-terminal 25 aa [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), ICL3 residues 219-227 replaced with PGS fusion; 9 thermostabilizing point mutations)
 - **Notes**: Bac-to-bac baculovirus expression system; MOI 5; harvested 48h post-infection at 27C
 
 ### Purification Workflow
@@ -83,7 +83,7 @@ The MT1 binding site is extremely compact (710 Å³ with ramelteon), among the s
 
 - [Human 5-HT2A Receptor](/xray-mp-wiki/proteins/gpcr/5ht2a-receptor/) — Comparison of melatonin vs serotonin receptor binding site evolution; agomelatine binds both receptors
 - [Human 5-HT2C Receptor](/xray-mp-wiki/proteins/gpcr/5ht2c-receptor/) — Agomelatine acts as antagonist at 5-HT2C; structural comparison of binding modes
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Additive used in purification or crystallization buffers
 - [EDTA](/xray-mp-wiki/reagents/additives/edta/) — Additive used in purification or crystallization buffers

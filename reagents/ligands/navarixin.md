@@ -64,4 +64,4 @@ No comparison data available.
 ## Cross-References
 
 - [Human CC Chemokine Receptor 7 (CCR7)](/xray-mp-wiki/proteins/gpcr/ccr7/) — Navarixin cross-reactively binds and stabilizes CCR7
-- [Intracellular Allosteric Antagonism at Chemokine Receptors](/xray-mp-wiki/concepts/intracellular-allosteric-antagonism/) — Navarixin exemplifies multi-target intracellular allosteric antagonism
+- [Intracellular Allosteric Antagonism at Chemokine Receptors](/xray-mp-wiki/concepts/signaling-receptors/intracellular-allosteric-antagonism/) — Navarixin exemplifies multi-target intracellular allosteric antagonism

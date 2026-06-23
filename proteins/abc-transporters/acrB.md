@@ -258,9 +258,9 @@ The proton-driven alternating-access mechanism of the TM domain powers the peris
 - [Designed Ankyrin Repeat Protein (DARPin)](/xray-mp-wiki/reagents/protein-tags/darpin/) — DARPin crystallization chaperones used to solve three high-resolution AcrB structures (2JBS, 3NOC, 3NOG)
 - [AcrA multidrug efflux pump periplasmic protein](/xray-mp-wiki/proteins/abc-transporters/acra/) — Periplasmic membrane fusion partner in the AcrAB-TolC tripartite efflux system
 - [MexB Efflux Pump](/xray-mp-wiki/proteins/abc-transporters/mexB/) — Close homologue (RND family efflux pump); similar multidrug-binding cavity mechanism
-- [RND Efflux Pumps](/xray-mp-wiki/concepts/rnd-efflux-pumps/) — AcrB is the prototypical RND (Resistance Nodulation Division) family efflux pump
+- [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) — AcrB is the prototypical RND (Resistance Nodulation Division) family efflux pump
 - [Multidrug Resistance](/xray-mp-wiki/concepts/multidrug-resistance/) — AcrB is a major contributor to multidrug resistance in Gram-negative bacteria
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for AcrB solubilization and purification steps
 - [ABI-PP](/xray-mp-wiki/reagents/ligands/abi-pp/) — First inhibitor-bound structure of AcrB solved; ABI-PP binds to hydrophobic trap in distal pocket
-- [Helix Shift Mechanism for Carboxylate Drug Transport](/xray-mp-wiki/concepts/helix-shift-mechanism/) — Mechanism proposed for active transport of carboxylate drugs from the membrane via TM2 helix upward shift
+- [Helix Shift Mechanism for Carboxylate Drug Transport](/xray-mp-wiki/concepts/transport-mechanisms/helix-shift-mechanism/) — Mechanism proposed for active transport of carboxylate drugs from the membrane via TM2 helix upward shift
 - [TolC Outer Membrane Channel](/xray-mp-wiki/proteins/abc-transporters/tolc/) — Outer membrane partner in the AcrAB-TolC tripartite efflux system

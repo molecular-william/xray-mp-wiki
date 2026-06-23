@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-MlaA is an [outer membrane](/xray-mp-wiki/concepts/outer-membrane/) lipoprotein from Escherichia coli that forms a complex with the [outer membrane](/xray-mp-wiki/concepts/outer-membrane/) porin proteins OmpC and OmpF. MlaA is a key component of the Mla lipid transport system, where it functions at the [outer membrane](/xray-mp-wiki/concepts/outer-membrane/) as a monomeric alpha-helical phospholipid translocation channel embedded in the inner leaflet of the OM with a doughnut-shaped architecture. The central amphipathic pore allows selective removal of misplaced outer leaflet phospholipids while preventing access of inner leaflet phospholipids. Enterobacterial MlaA proteins form stable complexes with OmpF/C, though the porins do not play an active role in phospholipid transport.
+MlaA is an [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) lipoprotein from Escherichia coli that forms a complex with the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) porin proteins OmpC and OmpF. MlaA is a key component of the Mla lipid transport system, where it functions at the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) as a monomeric alpha-helical phospholipid translocation channel embedded in the inner leaflet of the OM with a doughnut-shaped architecture. The central amphipathic pore allows selective removal of misplaced outer leaflet phospholipids while preventing access of inner leaflet phospholipids. Enterobacterial MlaA proteins form stable complexes with OmpF/C, though the porins do not play an active role in phospholipid transport.
 
 ## Structure Determination
 
@@ -38,7 +38,7 @@ MlaA is an [outer membrane](/xray-mp-wiki/concepts/outer-membrane/) lipoprotein 
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
-| Co-expression and solubilization | Co-expression of MlaA with OmpF, solubilization with detergent | -- | 50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 300 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/) + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) | MlaA-OmpF complex solubilized from [outer membrane](/xray-mp-wiki/concepts/outer-membrane/) fraction |
+| Co-expression and solubilization | Co-expression of MlaA with OmpF, solubilization with detergent | -- | 50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 300 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/) + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) | MlaA-OmpF complex solubilized from [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) fraction |
 | Complex purification | [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) and gel filtration | Not specified | 20 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/) + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | MlaA-OmpC/OmpF complex purified for [biolayer interferometry](/xray-mp-wiki/methods/quality-assessment/biolayer-interferometry/) studies |
 
 ### Purification Workflow
@@ -83,28 +83,28 @@ MlaA is an [outer membrane](/xray-mp-wiki/concepts/outer-membrane/) lipoprotein 
 
 ### MlaA-OmpC/OmpF outer membrane complex
 
-MlaA forms a stable complex with the [outer membrane](/xray-mp-wiki/concepts/outer-membrane/) porin proteins OmpC and OmpF.
-This complex serves as the [outer membrane](/xray-mp-wiki/concepts/outer-membrane/) anchor of the Mla lipid transport system,
-receiving phospholipids from the [periplasmic](/xray-mp-wiki/concepts/periplasm/) shuttle protein [MLAC](/xray-mp-wiki/proteins/mlaC) and inserting
-them into the [outer membrane](/xray-mp-wiki/concepts/outer-membrane/) leaflet. The MlaA-OmpF complex was used in biolayer
+MlaA forms a stable complex with the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) porin proteins OmpC and OmpF.
+This complex serves as the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) anchor of the Mla lipid transport system,
+receiving phospholipids from the [periplasmic](/xray-mp-wiki/concepts/miscellaneous/periplasm/) shuttle protein [MLAC](/xray-mp-wiki/proteins/mlaC) and inserting
+them into the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) leaflet. The MlaA-OmpF complex was used in biolayer
 interferometry experiments to demonstrate direct interaction with [MLAC](/xray-mp-wiki/proteins/mlaC).
 
 ### Direct interaction with periplasmic lipid shuttle MlaC
 
 [biolayer interferometry](/xray-mp-wiki/methods/quality-assessment/biolayer-interferometry/) (Octet RED384) demonstrated that [MLAC](/xray-mp-wiki/proteins/mlaC) interacts directly
-with the MlaA-OmpC/OmpF [outer membrane](/xray-mp-wiki/concepts/outer-membrane/) complex. Biotinylated [MLAC](/xray-mp-wiki/proteins/mlaC) loaded onto
+with the MlaA-OmpC/OmpF [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) complex. Biotinylated [MLAC](/xray-mp-wiki/proteins/mlaC) loaded onto
 streptavidin-coated biosensors showed binding to the MlaA-OmpF complex, supporting
-the model where [MLAC](/xray-mp-wiki/proteins/mlaC) ferries lipids from the [inner membrane](/xray-mp-wiki/concepts/inner-membrane/) MlaFEDB complex to
-the [outer membrane](/xray-mp-wiki/concepts/outer-membrane/) MlaA-OmpC/OmpF complex. This interaction is essential for maintaining
-[outer membrane](/xray-mp-wiki/concepts/outer-membrane/) [lipid asymmetry](/xray-mp-wiki/concepts/lipid-asymmetry/).
+the model where [MLAC](/xray-mp-wiki/proteins/mlaC) ferries lipids from the [inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/inner-membrane/) MlaFEDB complex to
+the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) MlaA-OmpC/OmpF complex. This interaction is essential for maintaining
+[outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) [lipid asymmetry](/xray-mp-wiki/concepts/structural-mechanisms/lipid-asymmetry/).
 
 ### Non-essential but critical for outer membrane integrity
 
 While individual MCE system components are non-essential for E. coli growth in rich
 media, mutations in mla genes result in increased sensitivity to [SDS](/xray-mp-wiki/reagents/additives/sds/) and [EDTA](/xray-mp-wiki/reagents/additives/edta/),
-indicative of [outer membrane](/xray-mp-wiki/concepts/outer-membrane/) defects. The MlaA-OmpC/OmpF complex is required for
+indicative of [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) defects. The MlaA-OmpC/OmpF complex is required for
 the complete Mla system to function, and its disruption leads to accumulation of
-phospholipids in the outer leaflet of the [outer membrane](/xray-mp-wiki/concepts/outer-membrane/), disrupting [lipid asymmetry](/xray-mp-wiki/concepts/lipid-asymmetry/).
+phospholipids in the outer leaflet of the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/), disrupting [lipid asymmetry](/xray-mp-wiki/concepts/structural-mechanisms/lipid-asymmetry/).
 
 ### Doughnut-shaped alpha-helical architecture
 
@@ -126,9 +126,9 @@ The N26-F27 deletion variant (MlaA*) shows a more severe phenotype than the mlaA
 - [E. coli YebT Tube-like MCE Protein](/xray-mp-wiki/proteins/structural-adhesion/yebT/) — YebT may associate with YebS in the inner membrane and PqiC in the outer membrane similarly
 - [E. coli PqiB Syringe-like MCE Protein](/xray-mp-wiki/proteins/structural-adhesion/pqiB/) — PqiB may interact with outer membrane lipoprotein PqiC similarly to MlaA
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used for MlaA-OmpF complex solubilization from membranes
-- [MCE Protein Family](/xray-mp-wiki/concepts/mce-protein-family/) — MlaA is a key component of the Mla system, an MCE protein family member
+- [MCE Protein Family](/xray-mp-wiki/concepts/protein-families/mce-protein-family/) — MlaA is a key component of the Mla system, an MCE protein family member
 - [TRIS](/xray-mp-wiki/reagents/buffers/tris/) — Entity mentioned in text
 - [EDTA](/xray-mp-wiki/reagents/additives/edta/) — Entity mentioned in text
 - [Gram-negative](/xray-mp-wiki/concepts/gram-negative/) — Entity mentioned in text
 - [biolayer interferometry](/xray-mp-wiki/methods/quality-assessment/biolayer-interferometry/) — Entity mentioned in text
-- [Lipid Asymmetry](/xray-mp-wiki/concepts/lipid-asymmetry/) — MlaA functions to maintain outer membrane lipid asymmetry
+- [Lipid Asymmetry](/xray-mp-wiki/concepts/structural-mechanisms/lipid-asymmetry/) — MlaA functions to maintain outer membrane lipid asymmetry

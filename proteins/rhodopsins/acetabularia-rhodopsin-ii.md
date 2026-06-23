@@ -96,5 +96,5 @@ Eight cholesterol molecules were observed in the asymmetric unit, located betwee
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Primary lipid used for in meso crystallization of ARII
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — 10% glycerol used in purification buffer
 - [Tris (Tris-HCl buffer)](/xray-mp-wiki/reagents/buffers/tris/) — 20 mM Tris-HCl (pH 7.0) used in purification buffer
-- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-photocycle/) — ARII follows the BR-type photocycle with K, M, and O intermediates
+- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/) — ARII follows the BR-type photocycle with K, M, and O intermediates
 - [Channelrhodopsin C1C2](/xray-mp-wiki/proteins/rhodopsins/channelrhodopsin-c1c2/) — Related microbial rhodopsin; ARII used in opto-neurophysiology applications

@@ -46,6 +46,6 @@ Mutations causing leukocyte adhesion deficiency II include Arg147Cys and Thr308A
 
 - [Vrg4 GDP-Mannose Transporter](/xray-mp-wiki/proteins/slc-transporters/vrg4/) — Structural homolog and reference for homology modeling
 - [GDP-Fucose](/xray-mp-wiki/reagents/ligands/gdp-fucose/) — Substrate
-- [SLC35 Family (Nucleotide Sugar Transporters)](/xray-mp-wiki/concepts/sl35-family/) — Transporter family classification
+- [SLC35 Family (Nucleotide Sugar Transporters)](/xray-mp-wiki/concepts/transport-mechanisms/sl35-family/) — Transporter family classification
 - [GDP-Fucose](/xray-mp-wiki/reagents/substrates/gdp-fucose/) — Entity mentioned in text
 - [GDP-Mannose](/xray-mp-wiki/reagents/substrates/gdp-mannose/) — Entity mentioned in text

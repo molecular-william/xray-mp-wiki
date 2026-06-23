@@ -73,7 +73,7 @@ Mapping of human P2X7 receptor SNPs onto the ckP2X7 structure revealed that loss
 - [TNP-ATP](/xray-mp-wiki/reagents/ligands/tnp-atp/) — Competitive antagonist co-crystallized with ckP2X7; key to understanding inhibition mechanism
 - [Zebrafish P2X4 Receptor (zfP2X4)](/xray-mp-wiki/proteins/other-ion-channels/zfp2x4/) — Related P2X family receptor structure used for comparison
 - [Human P2X3 Receptor (hP2X3)](/xray-mp-wiki/proteins/other-ion-channels/human-p2x3-receptor/) — TNP-ATP-bound hP2X3 structure compared with ckP2X7; different binding modes
-- [P2X Receptor Family](/xray-mp-wiki/concepts/p2x-receptor-family/) — ckP2X7 belongs to the P2X receptor family of ATP-gated ion channels
+- [P2X Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/p2x-receptor-family/) — ckP2X7 belongs to the P2X receptor family of ATP-gated ion channels
 - [Dodecylmaltoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent for solubilization and purification
 - [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — 20 mM HEPES pH 7.0 used in SEC and crystallization buffers
 - [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/) — 50 mM Tris pH 8.0 used in solubilization and affinity purification buffers

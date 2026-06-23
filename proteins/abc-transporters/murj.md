@@ -139,7 +139,7 @@ Evolutionary coupling analysis using 15,972 MurJ sequences identified 470 signif
 
 ## Cross-References
 
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — MurJ uses alternating access to flip Lipid II across the membrane
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — MurJ uses alternating access to flip Lipid II across the membrane
 - [N-Dodecyl-beta-D-maltopyranoside (beta-DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for purification and crystallization
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Used in Ni-NTA affinity chromatography buffers
 - [Tris](/xray-mp-wiki/reagents/buffers/tris/) — Primary buffer component throughout purification

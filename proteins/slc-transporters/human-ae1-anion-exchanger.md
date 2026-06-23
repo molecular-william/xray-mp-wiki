@@ -84,7 +84,7 @@ Specific mutations in AE1_CTD are related to red cell diseases including spheroc
 
 ## Cross-References
 
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — AE1 structure in outward-facing conformation provides a structural basis for the alternating access mechanism of anion exchange
+- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — AE1 structure in outward-facing conformation provides a structural basis for the alternating access mechanism of anion exchange
 - [LEUT](/xray-mp-wiki/proteins/enzymes/leut/) — Related protein structure
 - [Uracil:Proton Symporter UraA from Escherichia coli](/xray-mp-wiki/proteins/slc-transporters/uraA/) — Related protein structure
 - [H2DIDS (4,4-Diisothiocyanatodihydro-stilbene-2,2-disulfonic acid)](/xray-mp-wiki/reagents/additives/h2dids/) — Additive used in purification or crystallization buffers

@@ -93,7 +93,7 @@ Residual difference electron density analysis in the pore at sites S2, S3, and S
 
 - [Ammonia Channel Mechanism](/xray-mp-wiki/concepts/ammonia-channel-mechanism/) — AmtB is the prototype ammonia channel; this paper established the mechanistic basis for NH3 transport through the Amt/Mep/Rh family
 - [Ammonium Transport](/xray-mp-wiki/concepts/ammonium-transport/) — AmtB is an ammonium transport protein from the Mep/Amt/Rh family
-- [Rh/Amt/MEP Protein Family](/xray-mp-wiki/concepts/rh-amt-mep-protein-family/) — AmtB is the paradigm Amt family member; twin-His mechanism is conserved across the family
+- [Rh/Amt/MEP Protein Family](/xray-mp-wiki/concepts/protein-families/rh-amt-mep-protein-family/) — AmtB is the paradigm Amt family member; twin-His mechanism is conserved across the family
 - [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) — Referenced in context related to LDAO
 - [Glnk](/xray-mp-wiki/proteins/other-ion-channels/glnk/) — Referenced in context related to Glnk
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Referenced in context related to Imidazole

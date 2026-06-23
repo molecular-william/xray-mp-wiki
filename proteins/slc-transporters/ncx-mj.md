@@ -107,7 +107,7 @@ and 7A hinged at bends between TMs 2A-2B and 7A-7B. The movement
 slides these peripheral helices across a central hydrophobic patch,
 closing the two outward-facing passageways and forming two
 inward-facing ones. This rapid interchange between outward and
-inward conformations enables the [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) for
+inward conformations enables the [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) for
 consecutive ion-exchange reactions.
 
 ### Mechanism of 3:1 Na+:Ca2+ exchange stoichiometry
@@ -129,8 +129,8 @@ ions when Ca2+ site is occupied by Na+).
 
 - [Na+/H+ Antiporter NhaA from Escherichia coli](/xray-mp-wiki/proteins/slc-transporters/nhaa/) — Related Na+-coupled membrane transporter with alternating access mechanism
 - [CLC-ec1 Cl-/H+ Antiporter](/xray-mp-wiki/proteins/slc-transporters/clc-ec1/) — Another ion-coupled antiporter with known structure and mechanistic studies
-- [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/rocker-switch-mechanism/) — NCX_Mj alternating access transport mechanism shares principles with rocker-switch
+- [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/) — NCX_Mj alternating access transport mechanism shares principles with rocker-switch
 - [Maltose Transporter MalFGK2 (E. coli)](/xray-mp-wiki/proteins/abc-transporters/maltose-transporter-malfgk2/) — ABC transporter with alternating access mechanism for comparison
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Related biological concept
+- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Related biological concept
 - [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification

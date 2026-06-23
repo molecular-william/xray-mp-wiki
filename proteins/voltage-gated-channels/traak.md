@@ -21,10 +21,10 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.neuron.2021.07.009 | 7LJ5 | 2.3 | P21 | Human TRAAK with N-terminal extension, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) (119 aa removed), His-tag, co-crystallized with mouse monoclonal Fab | K+, Fab |
-| doi/10.1016##j.neuron.2021.07.009 | 7LJ6 | 2.7 | P21 | Human TRAAK A198E mutant with N-terminal extension, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/), His-tag, co-crystallized with Fab | K+, Fab |
-| doi/10.1016##j.neuron.2021.07.009 | 7LJ7 | 2.9 | P21 | Human TRAAK A270P mutant with N-terminal extension, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/), His-tag, co-crystallized with Fab | K+, Fab |
-| doi/10.1016##j.neuron.2021.07.009 | 7LJ8 | 3.3 | P21 | Human TRAAK G158D mutant with N-terminal extension, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/), His-tag | K+ |
+| doi/10.1016##j.neuron.2021.07.009 | 7LJ5 | 2.3 | P21 | Human TRAAK with N-terminal extension, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (119 aa removed), His-tag, co-crystallized with mouse monoclonal Fab | K+, Fab |
+| doi/10.1016##j.neuron.2021.07.009 | 7LJ6 | 2.7 | P21 | Human TRAAK A198E mutant with N-terminal extension, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), His-tag, co-crystallized with Fab | K+, Fab |
+| doi/10.1016##j.neuron.2021.07.009 | 7LJ7 | 2.9 | P21 | Human TRAAK A270P mutant with N-terminal extension, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), His-tag, co-crystallized with Fab | K+, Fab |
+| doi/10.1016##j.neuron.2021.07.009 | 7LJ8 | 3.3 | P21 | Human TRAAK G158D mutant with N-terminal extension, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), His-tag | K+ |
 | doi/10.1038##nature14013 | 4WFE | 2.5 | P21 | Human TRAAK residues 1-290, N104Q/N108Q, C-terminal PreScission-cleavable EGFP-10xHis tag, co-crystallized with mouse monoclonal 13E9 Fab | K+, Fab (13E9) |
 | doi/10.1038##nature14013 | 4WFG | 3.0 | P21 | Human TRAAK residues 1-290, N104Q/N108Q, C-terminal PreScission-cleavable EGFP-10xHis tag, co-crystallized with mouse monoclonal 13E9 Fab | Tl+, Fab (13E9) |
 | doi/10.1038##nature14013 | 4WFF | 2.5 | P21 | Human TRAAK residues 1-290, N104Q/N108Q, C-terminal PreScission-cleavable EGFP-10xHis tag, co-crystallized with mouse monoclonal 13E9 Fab | K+, Fab (13E9) |
@@ -61,7 +61,7 @@ TRAAK (tandem pore domain potassium channel 4, KCNK4) is a mechanosensitive two-
 *Source: doi/10.1016##j.neuron.2021.07.009*
 
 - **Expression system**: Pichia pastoris
-- **Expression construct**: Human TRAAK with N-terminal extension, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/), His-tag
+- **Expression construct**: Human TRAAK with N-terminal extension, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), His-tag
 
 #### Steps
 
@@ -280,5 +280,5 @@ response to mechanical and chemical properties of the lipid bilayer.
 - [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Crystallization method used for all TRAAK structures
 - [K2P 2.1 (TREK-1) Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/k2p-2-1-trek-1/) — Related mechanosensitive K2P channel with shared gating mechanism
 - [KcsA Potassium Channel](/xray-mp-wiki/proteins/kcsA/) — Canonical K+ channel used for structural comparison; TRAAK differs in fourfold vs twofold symmetry and domain-swapped connectivity
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

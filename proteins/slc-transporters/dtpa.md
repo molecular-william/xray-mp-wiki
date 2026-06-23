@@ -89,8 +89,8 @@ Five residues in the binding site (Y38, Y71, K130, N160, I399) were mutated to a
 - [E. coli YbgH Peptide Transporter](/xray-mp-wiki/proteins/mfs-transporters/ybgH/) — Another E. coli POT family member (DtpD) with reported crystal structure
 - [PepT_So Oligopeptide Transporter](/xray-mp-wiki/proteins/mfs-transporters/pept-so/) — POT family member with intra-helical loop in TM10, similar substrate preference
 - [PepT_St Proton-Dependent Oligopeptide Transporter](/xray-mp-wiki/proteins/mfs-transporters/pept-st/) — POT family member with reported crystal structure
-- [POT Family](/xray-mp-wiki/concepts/pot-family/) — DtpA is a member of the POT (proton-dependent oligopeptide transporter) family
-- [Major Facilitator Superfamily](/xray-mp-wiki/concepts/mfs-transporter/) — POT family is a subfamily of MFS transporters
+- [POT Family](/xray-mp-wiki/concepts/transport-mechanisms/pot-family/) — DtpA is a member of the POT (proton-dependent oligopeptide transporter) family
+- [Major Facilitator Superfamily](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — POT family is a subfamily of MFS transporters
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for DtpA solubilization, purification, and crystallization
 - [Valganciclovir](/xray-mp-wiki/reagents/ligands/valganciclovir/) — Antiviral prodrug that binds to DtpA and is transported by it
 - [Nb.AT110i1 Synthetic Nanobody](/xray-mp-wiki/reagents/antibodies/nb-at110i1/) — Conformation-selective nanobody technology used for DtpA crystallization (N00)

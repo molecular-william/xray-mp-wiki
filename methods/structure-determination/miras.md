@@ -39,12 +39,12 @@ non-crystallographic symmetry averaging.
 3. {'step': 'X-ray data collection', 'description': 'Collect native high-resolution data, heavy-atom derivative data, lower-resolution native data, and [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) anomalous data. Data can be processed using pipelines such as XIA2 with XDS for indexing and scaling, or mosflm and aimless. Collect at appropriate wavelengths to maximize anomalous signal from selenium (anomalous peak) and [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) (L-edges).\n'}
 4. {'step': 'Heavy atom site location', 'description': 'Locate heavy atom sites manually using programs such as RSPS, or automatically using programs such as SHELXD. Refine heavy atom positions and parameters using maximum likelihood programs such as SHARP.\n'}
 5. {'step': 'Initial phasing with solvent flattening', 'description': 'Calculate initial phases using SHARP with solvent flattening in SOLOMON. The combination of isomorphous replacement and anomalous scattering provides phase information that can be significantly improved by density modification.\n'}
-6. {'step': 'Cross-crystal averaging and [NCS](/xray-mp-wiki/concepts/non-crystallographic-symmetry/) improvement', 'description': 'Improve map quality through cross-crystal averaging using DMMulti, combining information from the [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) derivative, selenium anomalous, and isomorphous native datasets. Apply non-crystallographic symmetry ([NCS](/xray-mp-wiki/concepts/non-crystallographic-symmetry/)) averaging when multiple copies of the molecule exist in the asymmetric unit.\n'}
+6. {'step': 'Cross-crystal averaging and [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) improvement', 'description': 'Improve map quality through cross-crystal averaging using DMMulti, combining information from the [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) derivative, selenium anomalous, and isomorphous native datasets. Apply non-crystallographic symmetry ([NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/)) averaging when multiple copies of the molecule exist in the asymmetric unit.\n'}
 
 ### Typical Conditions
 
 - **temperature**: 100 K (cryo-cooled crystals)
-- **notes**: Data collected on synchrotron beamlines (e.g., Diamond Light Source IO2, IO3, IO4). Anisotropic diffraction may be present and can be addressed through anisotropic [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) of structure factors.
+- **notes**: Data collected on synchrotron beamlines (e.g., Diamond Light Source IO2, IO3, IO4). Anisotropic diffraction may be present and can be addressed through anisotropic [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) of structure factors.
 
 
 

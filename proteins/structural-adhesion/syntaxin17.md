@@ -64,7 +64,7 @@ STX17 preferentially binds [GABARAP (Gamma-aminobutyric Acid Receptor-Associated
 
 ### GABARAP binding relieves STX17 autoinhibition
 
-NMR experiments showed that addition of [GABARAP (Gamma-aminobutyric Acid Receptor-Associated Protein)](/xray-mp-wiki/proteins/structural-adhesion/gabarap/) to the STX17 Habc:Qa-[SNARE Complex](/xray-mp-wiki/concepts/snare-complex/) releases
+NMR experiments showed that addition of [GABARAP (Gamma-aminobutyric Acid Receptor-Associated Protein)](/xray-mp-wiki/proteins/structural-adhesion/gabarap/) to the STX17 Habc:Qa-[SNARE Complex](/xray-mp-wiki/concepts/structural-mechanisms/snare-complex/) releases
 the autoinhibited conformation. [GABARAP (Gamma-aminobutyric Acid Receptor-Associated Protein)](/xray-mp-wiki/proteins/structural-adhesion/gabarap/) binds to the LIR motif within the Qa-SNARE region,
 competing with the Habc domain and freeing the SNARE motif for assembly with [SNAP29 (Synaptosomal-Associated Protein 29)](/xray-mp-wiki/proteins/structural-adhesion/snap29/) and [VAMP8 (Vesicle-Associated Membrane Protein 8)](/xray-mp-wiki/proteins/structural-adhesion/vamp8/).
 This provides a regulatory mechanism where ATG8 family proteins (particularly GABARAPs)
@@ -87,9 +87,9 @@ four-helix bundle with all four helices aligned in parallel. The interior is for
 16 layers of interacting side chains (mostly hydrophobic), with a hydrophilic 0-layer
 consisting of Q196 (STX17), Q84/Q230 ([SNAP29 (Synaptosomal-Associated Protein 29)](/xray-mp-wiki/proteins/structural-adhesion/snap29/)), and R37 ([VAMP8 (Vesicle-Associated Membrane Protein 8)](/xray-mp-wiki/proteins/structural-adhesion/vamp8/)). Mutagenesis showed that
 the N-terminal and central layers (especially -7th, -5th, and 0th) are critical for complex
-assembly. The [SNARE Complex](/xray-mp-wiki/concepts/snare-complex/) has a melting temperature of ~85 C and shows characteristic
+assembly. The [SNARE Complex](/xray-mp-wiki/concepts/structural-mechanisms/snare-complex/) has a melting temperature of ~85 C and shows characteristic
 unfolding-refolding hysteresis. Two highly negatively charged patches on the surface are
-implicated in NSF-mediated [SNARE Complex](/xray-mp-wiki/concepts/snare-complex/) disassembly.
+implicated in NSF-mediated [SNARE Complex](/xray-mp-wiki/concepts/structural-mechanisms/snare-complex/) disassembly.
 
 
 ## Cross-References
@@ -97,8 +97,8 @@ implicated in NSF-mediated [SNARE Complex](/xray-mp-wiki/concepts/snare-complex/
 - [GABARAP (Gamma-aminobutyric Acid Receptor-Associated Protein)](/xray-mp-wiki/proteins/structural-adhesion/gabarap/) — GABARAP binds STX17 LIR motif and relieves autoinhibition
 - [SNAP29 (Synaptosomal-Associated Protein 29)](/xray-mp-wiki/proteins/structural-adhesion/snap29/) — SNAP29 contributes Qb- and Qc-SNARE motifs to the autophagic SNARE complex
 - [VAMP8 (Vesicle-Associated Membrane Protein 8)](/xray-mp-wiki/proteins/structural-adhesion/vamp8/) — VAMP8 contributes the R-SNARE motif to the autophagic SNARE complex
-- [Autophagic SNARE Fusion Mechanism](/xray-mp-wiki/concepts/autophagic-snare-fusion-mechanism/) — STX17 is the central Qa-SNARE in this mechanism
-- [SNARE Complex](/xray-mp-wiki/concepts/snare-complex/) — Related biological concept
+- [Autophagic SNARE Fusion Mechanism](/xray-mp-wiki/concepts/construct-design/autophagic-snare-fusion-mechanism/) — STX17 is the central Qa-SNARE in this mechanism
+- [SNARE Complex](/xray-mp-wiki/concepts/structural-mechanisms/snare-complex/) — Related biological concept
 - [ITC](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Additive used in purification or crystallization buffers

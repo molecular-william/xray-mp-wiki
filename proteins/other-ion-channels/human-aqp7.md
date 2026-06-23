@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Human [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) 7 (AQP7) is an aquaglyceroporin highly expressed in adipocytes that facilitates [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) efflux and is crucial for lipid metabolism. Two X-ray structures of human AQP7 were determined at 1.9 A (PDB 6QZI) and 2.2 A (PDB 6QZJ) resolution. The structures reveal a tetrameric channel with five [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) molecules (G1-G5) in the conducting pore spanning the ar/R selectivity filter, NPA motifs, and cytoplasmic vestibule. Combined with molecular dynamics simulations, the study shows that AQP7 is highly permeable to water (Pf = 4.8 x 10^-14 cm^3/s) but [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) binding reduces water permeability by a factor of 2-4. [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) is conducted via a partly rotating movement, with the NPA region serving as a transition point.
+Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) 7 (AQP7) is an aquaglyceroporin highly expressed in adipocytes that facilitates [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) efflux and is crucial for lipid metabolism. Two X-ray structures of human AQP7 were determined at 1.9 A (PDB 6QZI) and 2.2 A (PDB 6QZJ) resolution. The structures reveal a tetrameric channel with five [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) molecules (G1-G5) in the conducting pore spanning the ar/R selectivity filter, NPA motifs, and cytoplasmic vestibule. Combined with molecular dynamics simulations, the study shows that AQP7 is highly permeable to water (Pf = 4.8 x 10^-14 cm^3/s) but [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) binding reduces water permeability by a factor of 2-4. [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) is conducted via a partly rotating movement, with the NPA region serving as a transition point.
 
 ## Structure Determination
 
@@ -79,7 +79,7 @@ Comparison of AQP7 (pore diameter 3.3 A at selectivity filter) with AQP10 (pore 
 
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary solubilization detergent for AQP7
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Substrate of AQP7; used as cryoprotectant and present in crystallization
-- [Aquaporin](/xray-mp-wiki/concepts/aquaporin/) — AQP7 belongs to the aquaglyceroporin subfamily
+- [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — AQP7 belongs to the aquaglyceroporin subfamily
 - [Pichia pastoris Expression System](/xray-mp-wiki/methods/expression-systems/pichia-pastoris-expression/) — AQP7 expressed in Pichia pastoris
 - [Molecular Dynamics Simulation](/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/) — MD simulations used to study water and glycerol permeation
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

@@ -96,7 +96,7 @@ F- binding and permeation.
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for Ec2 purification and crystallization (5 mM)
 - [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer used in Ec2 purification and crystallization (10 mM, pH 7.0)
 - [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/) — NaF used in Ec2 purification buffer (100 mM) for fluoride channel activity
-- [Dual-Topology Channels](/xray-mp-wiki/concepts/dual-topology-channels/) — Ec2 is a dual-topology homodimer; Ec2-S9 structure confirms conserved dual-topology architecture
+- [Dual-Topology Channels](/xray-mp-wiki/concepts/transport-mechanisms/dual-topology-channels/) — Ec2 is a dual-topology homodimer; Ec2-S9 structure confirms conserved dual-topology architecture
 - [Single-Wavelength Anomalous Diffraction (SAD)](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/) — SAD phasing with selenomethionine-labelled Ec2 used to solve the structure and avoid model bias
 - [Selenomethionine](/xray-mp-wiki/reagents/additives/selenomethionine/) — Referenced in ec2-fluoride-channel text
 - [Talon](/xray-mp-wiki/reagents/additives/talon/) — Referenced in ec2-fluoride-channel text

@@ -69,8 +69,8 @@ ACER3 is an intramembrane ceramidase that hydrolyzes [Ceramide](/xray-mp-wiki/re
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Primary lipid for LCP crystallization
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for membrane solubilization
 - [LMNG (Lauryl Maltose Neopentyl Glycol)](/xray-mp-wiki/reagents/detergents/lmng/) — Detergent used after on-column exchange for purification
-- [PAQR Family (Progesterone and AdipoQ Receptor Family)](/xray-mp-wiki/concepts/paqr-family/) — ACER3 belongs to the PAQR protein family
+- [PAQR Family (Progesterone and AdipoQ Receptor Family)](/xray-mp-wiki/concepts/signaling-receptors/paqr-family/) — ACER3 belongs to the PAQR protein family
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Method used in the study
-- [PAQR Family (Progesterone and AdipoQ Receptor Family)](/xray-mp-wiki/concepts/paqr-family/) — Key concept related to this protein
+- [PAQR Family (Progesterone and AdipoQ Receptor Family)](/xray-mp-wiki/concepts/signaling-receptors/paqr-family/) — Key concept related to this protein
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein mentioned in the study
 - [Adiponectin Receptor 2 (ADIPOR2)](/xray-mp-wiki/proteins/enzymes/adipor2/) — Related protein mentioned in the study

@@ -167,7 +167,7 @@ The -bound ELIC structure reveals three distinct anesthetic binding sites, suppo
 - [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Buffer used in nanobody expression and purification
 - [MES (2-(N-Morpholino)ethanesulfonic Acid) Buffer](/xray-mp-wiki/reagents/buffers/buffer-mes/) — Buffer used in ELIC-PAM-Nb crystallization
 - [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) — PAM-Nb and NAM-Nb are camelid-derived nanobodies engineered as allosteric modulators
-- [Negative Allosteric Modulation](/xray-mp-wiki/concepts/negative-allosteric-modulation/) — NAM-Nb is a negative allosteric modulator of ELIC
-- [Positive Allosteric Modulation](/xray-mp-wiki/concepts/positive-allosteric-modulation/) — PAM-Nb is a positive allosteric modulator of ELIC
+- [Negative Allosteric Modulation](/xray-mp-wiki/concepts/signaling-receptors/negative-allosteric-modulation/) — NAM-Nb is a negative allosteric modulator of ELIC
+- [Positive Allosteric Modulation](/xray-mp-wiki/concepts/structural-mechanisms/positive-allosteric-modulation/) — PAM-Nb is a positive allosteric modulator of ELIC
 - [sTeLIC (Tevnia jerichonana Endosymbiont pLGIC)](/xray-mp-wiki/proteins/cys-loop-receptors/stelic/) — Homologous prokaryotic pLGIC with 28% sequence identity; crystallized in an open/active conformation
 - [Phosphatidylethanolamine (PE)](/xray-mp-wiki/reagents/lipids/phosphatidylethanolamine/) — Phospholipid bound at ELIC M1-M4 interface revealed in 2.5 A crystal structure

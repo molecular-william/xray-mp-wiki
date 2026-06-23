@@ -50,7 +50,7 @@ StClC is a prokaryotic CIC chloride channel from Salmonella enterica serovar typ
 | Temperature | Not specified |
 | Growth time | Not specified |
 | Cryoprotection | Not specified |
-| Notes | Native data collected at BNL X25 beamline. Initial phases estimated from platinum derivatives. Four-fold [NCS](/xray-mp-wiki/concepts/non-crystallographic-symmetry/) averaging and phase extension to 3.0 Å using RAVE and DM. Solvent-flattened, averaged electron density maps used for model building. Crystal form: P2(1) space group. |
+| Notes | Native data collected at BNL X25 beamline. Initial phases estimated from platinum derivatives. Four-fold [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) averaging and phase extension to 3.0 Å using RAVE and DM. Solvent-flattened, averaged electron density maps used for model building. Crystal form: P2(1) space group. |
 
 
 ## Biological / Functional Insights
@@ -79,4 +79,4 @@ The vestibules leading to the selectivity filter on both sides of the membrane c
 ## Cross-References
 
 - [KcsA Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/) — Comparison of antiparallel (CIC) vs barrel-stave (KcsA) ion channel architectures
-- [NCS](/xray-mp-wiki/concepts/non-crystallographic-symmetry/) — Related biological concept
+- [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) — Related biological concept

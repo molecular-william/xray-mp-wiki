@@ -86,5 +86,5 @@ MlotiK1 lacks the conserved negatively charged residues in S2 and S3 (E283 and E
 ## Cross-References
 
 - [KcsA Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/) — KcsA was used as the molecular replacement search model for MlotiK1 structure determination; both are tetrameric potassium channels with conserved pore architecture
-- [S4-S5 Linker Interaction Motif](/xray-mp-wiki/concepts/s4-s5-linker-interaction-motif/) — The MlotiK1 structure reveals the S4-S5 linker conformation in a closed 6 TM channel, providing a structural template for understanding linker function in both voltage-gated and non-voltage-gated channels
-- [Channel Gating](/xray-mp-wiki/concepts/channel-gating/) — MlotiK1 reveals a novel cavity gating mechanism where Phe-203 side chains occlude the central cavity, representing a gate closer to the selectivity filter than the helix bundle crossing
+- [S4-S5 Linker Interaction Motif](/xray-mp-wiki/concepts/structural-mechanisms/s4-s5-linker-interaction-motif/) — The MlotiK1 structure reveals the S4-S5 linker conformation in a closed 6 TM channel, providing a structural template for understanding linker function in both voltage-gated and non-voltage-gated channels
+- [Channel Gating](/xray-mp-wiki/concepts/transport-mechanisms/channel-gating/) — MlotiK1 reveals a novel cavity gating mechanism where Phe-203 side chains occlude the central cavity, representing a gate closer to the selectivity filter than the helix bundle crossing

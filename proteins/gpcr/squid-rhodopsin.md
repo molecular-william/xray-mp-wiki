@@ -138,5 +138,5 @@ Significant X-ray radiation damage was characterized: (1) retinal isomerization 
 - [Tris (Tris-HCl buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Used in extraction buffer for squid rhodopsin purification
 - [Bovine Rhodopsin (Dark State)](/xray-mp-wiki/proteins/gpcr/bovine-rhodopsin/) — Comparative vertebrate rhodopsin; key reference for retinal-binding pocket and cytoplasmic region differences
 - [Human Beta2-Adrenergic Receptor (beta2 AR)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Comparative GPCR structure; squid rhodopsin has structured CL3 vs disordered in beta2 AR
-- [GPCR G-Protein Coupling](/xray-mp-wiki/concepts/gpcr-g-protein-coupling/) — Squid rhodopsin is model for Gq-coupled GPCR with structured cytoplasmic domain
+- [GPCR G-Protein Coupling](/xray-mp-wiki/concepts/signaling-receptors/gpcr-g-protein-coupling/) — Squid rhodopsin is model for Gq-coupled GPCR with structured cytoplasmic domain
 - [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) — Cryoprotectant at 20% used for flash-freezing squid rhodopsin crystals

@@ -21,12 +21,12 @@ The human oxytocin receptor (OTR) is a class A G protein-coupled receptor (GPCR)
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##sciadv.abb5419 |  | 3.2 |  | OTR_XTAL (PGS fusion, D153A/S224A, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/)) | [Retosiban](/xray-mp-wiki/reagents/additives/retosiban/) (antagonist), [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/), Mg2+ coordination site identified |
+| doi/10.1126##sciadv.abb5419 |  | 3.2 |  | OTR_XTAL (PGS fusion, D153A/S224A, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/)) | [Retosiban](/xray-mp-wiki/reagents/additives/retosiban/) (antagonist), [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/), Mg2+ coordination site identified |
 
 ## Expression and Purification
 
 - **Expression system**: Spodoptera frugiperda (Sf9) insect cells
-- **Construct**: OTR crystallization construct (OTR_XTAL) with PGS fusion in ICL3 (residues R232-L265 replaced), C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) (residues 360-389), and D153A/S224A thermostabilizing mutations
+- **Construct**: OTR crystallization construct (OTR_XTAL) with PGS fusion in ICL3 (residues R232-L265 replaced), C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (residues 360-389), and D153A/S224A thermostabilizing mutations
 - **Notes**: SNAP tag and octahistidine affinity tag at N-terminus (removed by 3C protease and PNGase F after purification). Codon-optimized for Sf9.
 
 ### Purification Workflow
@@ -75,8 +75,8 @@ Two acidic residues, E42^1.35 and D100^2.65, at the extracellular tips of helice
 ## Cross-References
 
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Used as the LCP matrix for OTR crystallization
-- [GPCR Active State and High-Affinity Agonist Binding](/xray-mp-wiki/concepts/gpcr-active-state-high-affinity-agonist-binding/) — OTR is a class A GPCR with allosteric modulation by cholesterol and Mg2+
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [GPCR Active State and High-Affinity Agonist Binding](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-state-high-affinity-agonist-binding/) — OTR is a class A GPCR with allosteric modulation by cholesterol and Mg2+
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Additive used in purification or crystallization buffers
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers

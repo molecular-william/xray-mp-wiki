@@ -48,4 +48,4 @@ No comparison data available.
 ## Cross-References
 
 - [Uracil:Proton Symporter UraA](/xray-mp-wiki/proteins/slc-transporters/uraA/) — Natural substrate of UraA transporter
-- [Substrate-Protonation Coupling](/xray-mp-wiki/concepts/substrate-protonation-coupling/) — UraA couples uracil transport to proton translocation
+- [Substrate-Protonation Coupling](/xray-mp-wiki/concepts/transport-mechanisms/substrate-protonation-coupling/) — UraA couples uracil transport to proton translocation

@@ -113,11 +113,11 @@ While nhTMEM16 functions as a lipid scramblase, TMEM16A and TMEM16B function as 
 
 - [afTMEM16 (TMEM16 Lipid Scramblase from Aspergillus fumigatus)](/xray-mp-wiki/proteins/miscellaneous/af-tmem16/) — Homologous fungal TMEM16 scramblase; compared in sequence alignment
 - [mTMEM16A (Murine TMEM16A Calcium-Activated Chloride Channel)](/xray-mp-wiki/proteins/miscellaneous/mtmem16a/) — Murine homolog; Ca2+ binding site mutations affect ion conduction
-- [TMEM16 Family](/xray-mp-wiki/concepts/tmem16-family/) — nhTMEM16 is the structural prototype of the TMEM16 lipid scramblase subfamily
+- [TMEM16 Family](/xray-mp-wiki/concepts/protein-families/tmem16-family/) — nhTMEM16 is the structural prototype of the TMEM16 lipid scramblase subfamily
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for nhTMEM16 solubilization and purification
 - [HEPES (4-(2-Hydroxyethyl)-1-piperazineethanesulfonic Acid)](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer used in nhTMEM16 purification (50 mM HEPES pH 7.6)
 - [Phosphatidylethanolamine](/xray-mp-wiki/reagents/lipids/phosphatidylethanolamine/) — NBD-labeled PE used as substrate in nhTMEM16 scrambling assay
 - [Phosphatidylserine](/xray-mp-wiki/reagents/lipids/phosphatidylserine/) — NBD-labeled PS used as substrate in nhTMEM16 scrambling assay
-- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/intramembrane-ion-coordination/) — nhTMEM16 Ca2+ binding site is an example of intramembrane ion coordination
+- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-ion-coordination/) — nhTMEM16 Ca2+ binding site is an example of intramembrane ion coordination
 - [EDTA](/xray-mp-wiki/reagents/additives/edta) — Entity mentioned in text
 - [Glucose](/xray-mp-wiki/reagents/additives/glucose) — Entity mentioned in text

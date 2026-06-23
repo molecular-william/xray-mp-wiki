@@ -47,4 +47,4 @@ No comparison data available.
 ## Cross-References
 
 - [SUCNR1 (Succinate Receptor 1)](/xray-mp-wiki/proteins/gpcr/sucnr1/) — Endogenous receptor for succinate
-- [Intramolecular Salt Bridge](/xray-mp-wiki/concepts/intramolecular-salt-bridge/) — Succinate dicarboxylate structure shares electrostatic principles with salt bridge design
+- [Intramolecular Salt Bridge](/xray-mp-wiki/concepts/structural-mechanisms/intramolecular-salt-bridge/) — Succinate dicarboxylate structure shares electrostatic principles with salt bridge design

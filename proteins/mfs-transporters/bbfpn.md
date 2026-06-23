@@ -79,8 +79,8 @@ A homology model of human ferroportin (hFPN) was constructed based on the BbFPN 
 
 ## Cross-References
 
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/) — BbFPN adopts the MFS fold despite undetectable sequence similarity
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — BbFPN structures capture outward- and inward-facing states of the transport cycle
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — BbFPN adopts the MFS fold despite undetectable sequence similarity
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — BbFPN structures capture outward- and inward-facing states of the transport cycle
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used for LCP crystallization of BbFPN
 - [Lipidic Cubic Phase (LCP) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Method used for all BbFPN crystal forms
 - [PEG550MME](/xray-mp-wiki/reagents/additives/peg550mme/) — Precipitant in all BbFPN crystallization conditions

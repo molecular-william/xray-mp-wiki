@@ -81,12 +81,12 @@ The E309Q mutation disrupts the coupled activity between Ca²⁺ binding at the 
 ## Cross-References
 
 - [SERCA1a (Sarcoplasmic Reticulum Ca²⁺-ATPase 1a)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — Wild-type parent protein; structural and functional comparison
-- [P-type ATPase Family](/xray-mp-wiki/concepts/p-type-atpase/) — SERCA belongs to the P-type ATPase family; E309Q mutation studies illuminate P-type ATPase mechanism
-- [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/phosphoenzyme-e2p-state/) — E309Q mutation severely retards E2P dephosphorylation
+- [P-type ATPase Family](/xray-mp-wiki/concepts/protein-families/p-type-atpase/) — SERCA belongs to the P-type ATPase family; E309Q mutation studies illuminate P-type ATPase mechanism
+- [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/enzyme-mechanisms/phosphoenzyme-e2p-state/) — E309Q mutation severely retards E2P dephosphorylation
 - [AMP-PNP (Adenylyl-Imidodiphosphate)](/xray-mp-wiki/reagents/ligands/amp-pnp/) — ATP analog used during crystallization and functional assays
 - [Calcium Chloride](/xray-mp-wiki/reagents/additives/calcium-chloride/) — Essential substrate; two Ca2+ ions bound in transmembrane domain
 - [Magnesium Chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Cofactor; Mg2+ required for ATP hydrolysis and crystallization
 - [Phosphatidylcholine](/xray-mp-wiki/reagents/lipids/phosphatidylcholine/) — DOPC lipid used in crystallization, coordinated by Arg989 in M10
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Transport mechanism shared by P-type ATPases
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Transport mechanism shared by P-type ATPases
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers

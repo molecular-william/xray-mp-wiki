@@ -74,5 +74,5 @@ Different EspG chaperones are specific to different ESX systems: EspG1 for ESX-1
 - [PE25](/xray-mp-wiki/proteins/secretion-translocon/pe25/) — EspG chaperones bind the PE25-[PPE41](/xray-mp-wiki/proteins/ppe41) heterodimer to protect it from self-polymerization
 - [PPE41](/xray-mp-wiki/proteins/secretion-translocon/ppe41/) — EspG chaperones bind the hh motif on [PPE41](/xray-mp-wiki/proteins/ppe41) for heterodimer folding and secretion
 - [EspB](/xray-mp-wiki/proteins/secretion-translocon/espB/) — [EspB](/xray-mp-wiki/proteins/espB) does not bind EspG1, unlike canonical PE-PPE heterodimers
-- [ESX-1 Secretion System](/xray-mp-wiki/concepts/esx-1-secretion-system/) — EspG1 is the ESX-1-specific chaperone for PE-PPE protein secretion
-- [PE-PPE Fusion Proteins](/xray-mp-wiki/concepts/pe-ppe-fusion-proteins/) — EspG1 chaperones are not required for PE-PPE fusion proteins like [EspB](/xray-mp-wiki/proteins/espB)
+- [ESX-1 Secretion System](/xray-mp-wiki/concepts/transport-mechanisms/esx-1-secretion-system/) — EspG1 is the ESX-1-specific chaperone for PE-PPE protein secretion
+- [PE-PPE Fusion Proteins](/xray-mp-wiki/concepts/construct-design/pe-ppe-fusion-proteins/) — EspG1 chaperones are not required for PE-PPE fusion proteins like [EspB](/xray-mp-wiki/proteins/espB)

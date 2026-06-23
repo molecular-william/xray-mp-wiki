@@ -41,4 +41,4 @@ No comparison data available.
 - [Human Apelin Receptor](/xray-mp-wiki/proteins/gpcr/apelin-receptor/) — Endogenous agonist of APJR; binding characterized by mutation analysis and MD simulation
 - [Apelin-17](/xray-mp-wiki/reagents/ligands/apelin-17/) — Longer endogenous apelin isoform; apelin-13 is C-terminal truncation
 - [AMG3054](/xray-mp-wiki/reagents/ligands/amg3054/) — Designed 17-mer apelin mimetic; apelin-13 binding mode modeled from AMG3054 structure
-- [Two-Site Binding Mode](/xray-mp-wiki/concepts/two-site-binding-mode/) — Apelin-13 binding to APJR proposed to follow two-site mechanism
+- [Two-Site Binding Mode](/xray-mp-wiki/concepts/signaling-receptors/two-site-binding-mode/) — Apelin-13 binding to APJR proposed to follow two-site mechanism

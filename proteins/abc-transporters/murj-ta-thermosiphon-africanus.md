@@ -73,7 +73,7 @@ Based on the inward-facing structure, MTSES accessibility data, and an outward-f
 
 ## Cross-References
 
-- [MOP Transporter Superfamily](/xray-mp-wiki/concepts/mop-transporter-superfamily/) — MurJ is a member of the MOP superfamily, specifically the MVF family
+- [MOP Transporter Superfamily](/xray-mp-wiki/concepts/transport-mechanisms/mop-transporter-superfamily/) — MurJ is a member of the MOP superfamily, specifically the MVF family
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Used for membrane extraction of MurJ_TA
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Host lipid for LCP crystallization
 - [Tris](/xray-mp-wiki/reagents/buffers/tris/) — Used throughout purification and crystallization buffers

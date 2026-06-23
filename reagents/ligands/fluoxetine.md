@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Fluoxetine is a selective [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) reuptake inhibitor (SSRI) antidepressant, one of the most widely prescribed antidepressants globally. It acts by blocking the [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) transporter ([SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/)), increasing extracellular [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) concentrations. Fluoxetine binds to the primary binding pocket of [Biogenic Amine Transporters](/xray-mp-wiki/concepts/biogenic-amine-transporters/), with the trifluoromethylphenyl ring inserting into the hydrophobic groove.
+Fluoxetine is a selective [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) reuptake inhibitor (SSRI) antidepressant, one of the most widely prescribed antidepressants globally. It acts by blocking the [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) transporter ([SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/)), increasing extracellular [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) concentrations. Fluoxetine binds to the primary binding pocket of [Biogenic Amine Transporters](/xray-mp-wiki/concepts/transport-mechanisms/biogenic-amine-transporters/), with the trifluoromethylphenyl ring inserting into the hydrophobic groove.
 
 
 ## Properties
@@ -46,7 +46,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Biogenic Amine Transporters](/xray-mp-wiki/concepts/biogenic-amine-transporters/) — Related biological concept
+- [Biogenic Amine Transporters](/xray-mp-wiki/concepts/transport-mechanisms/biogenic-amine-transporters/) — Related biological concept
 - [LEUBAT](/xray-mp-wiki/proteins/slc-transporters/leubat/) — Related protein structure
 - [LEUT](/xray-mp-wiki/proteins/enzymes/leut/) — Related protein structure
 - [SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/) — Related protein structure

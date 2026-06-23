@@ -101,7 +101,7 @@ KtrA has a strong binding preference for ATP and ADP over other small molecules,
 - [HEPES (4-(2-Hydroxyethyl)-1-piperazineethanesulfonic Acid)](/xray-mp-wiki/reagents/buffers/hepes/) — HEPES buffer (pH 7.5) used in KtrA-ATP crystallization
 - [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) — Citrate buffer (pH 5.6) used in KtrA-ADP crystallization
 - [Tris-(2-carboxyethyl)phosphine (TCEP)](/xray-mp-wiki/reagents/additives/tcep/) — TCEP used as reducing agent in KtrA purification buffer
-- [RCK Domain Activation Mechanism](/xray-mp-wiki/concepts/rck-domain-activation-mechanism/) — KtrA RCK domains form an octameric gating ring with asymmetric contraction mechanism, distinct from MthK/BK symmetric expansion
+- [RCK Domain Activation Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rck-domain-activation-mechanism/) — KtrA RCK domains form an octameric gating ring with asymmetric contraction mechanism, distinct from MthK/BK symmetric expansion
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [MTHK](/xray-mp-wiki/proteins/voltage-gated-channels/mthk/) — Related protein structure
 - [DTT](/xray-mp-wiki/reagents/additives/dtt/) — Additive used in purification or crystallization buffers

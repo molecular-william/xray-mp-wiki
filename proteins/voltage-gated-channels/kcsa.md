@@ -461,10 +461,10 @@ The fact that steady-state inactivation of full-length KcsA displays an intermed
 - [n-Dodecyl-beta-D-maltoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Solubilization detergent (20 mM) for KcsA extraction from membranes
 - [Barium Chloride](/xray-mp-wiki/reagents/additives/barium-chloride/) — Ba2+ blocker used in soak experiments (0-10 mM)
 - [Cadmium Chloride](/xray-mp-wiki/reagents/additives/cadmium-chloride/) — Cd2+ ions form metal bridges in Y82C-KcsA
-- [C-type Inactivation](/xray-mp-wiki/concepts/c-type-inactivation/) — KcsA is the primary model system for studying C-type inactivation
+- [C-type Inactivation](/xray-mp-wiki/concepts/structural-mechanisms/c-type-inactivation/) — KcsA is the primary model system for studying C-type inactivation
 - [KvAP Voltage-Dependent Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kvap/) — Selectivity filter structure essentially identical; glycine-gating hinge mechanism shared
-- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/allosteric-regulation/) — Conformational coupling between activation gate and selectivity filter
+- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — Conformational coupling between activation gate and selectivity filter
 - [NaK Channel from Bacillus cereus](/xray-mp-wiki/proteins/voltage-gated-channels/nak-channel/) — Closed NaK superimposes with KcsA (r.m.s.d. 0.73 A)
 - [MthK Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/mthk/) — Open NaK superimposes with open MthK; glycine-gating hinge comparison
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [Modal Gating in K+ Channels](/xray-mp-wiki/concepts/modal-gating-in-k-channels/) — KcsA Glu71 mutant structures (3OR7, 3OR6) reveal structural basis of modal gating
+- [Modal Gating in K+ Channels](/xray-mp-wiki/concepts/transport-mechanisms/modal-gating-in-k-channels/) — KcsA Glu71 mutant structures (3OR7, 3OR6) reveal structural basis of modal gating

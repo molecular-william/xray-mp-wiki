@@ -86,7 +86,7 @@ The GtACR1 structure reveals a continuous tunnel traversing the protein from ext
 
 ### Disulfide-immobilized extracellular cap
 
-An intramolecular disulfide bridge between C21 (N-terminal loop) and C219 (TM6-7 loop) immobilizes the extracellular cap domain, encapsulating a hydrophobic segment on the tunnel entry port. This disulfide is conserved in ACRs but absent in CCRs. Disruption by [Truncation](/xray-mp-wiki/concepts/truncation/) (Delta1-25) or C21S/C219S mutations results in slowed channel closing, establishing the cap's role in gating kinetics.
+An intramolecular disulfide bridge between C21 (N-terminal loop) and C219 (TM6-7 loop) immobilizes the extracellular cap domain, encapsulating a hydrophobic segment on the tunnel entry port. This disulfide is conserved in ACRs but absent in CCRs. Disruption by [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) (Delta1-25) or C21S/C219S mutations results in slowed channel closing, establishing the cap's role in gating kinetics.
 
 ### Protonated Schiff base in open-channel state
 
@@ -121,7 +121,7 @@ The conformational changes induced by bromide binding expand the tunnel in both 
 
 - [Channelrhodopsin C1C2 Chimera](/xray-mp-wiki/proteins/rhodopsins/channelrhodopsin-c1c2/) — Closely related cation channelrhodopsin chimera used for structural comparison
 - [iC++ Designed Anion Channelrhodopsin](/xray-mp-wiki/proteins/rhodopsins/ic-plus-plus/) — Designed ACR created by structure-guided engineering for comparison with natural ACR GtACR1
-- [Channelrhodopsin Photocycle](/xray-mp-wiki/concepts/channelrhodopsin-photocycle/) — GtACR1 exhibits a distinct photocycle mechanism with protonated Schiff base in open state
+- [Channelrhodopsin Photocycle](/xray-mp-wiki/concepts/transport-mechanisms/channelrhodopsin-photocycle/) — GtACR1 exhibits a distinct photocycle mechanism with protonated Schiff base in open state
 - [Lipidic Cubic Phase (LCP) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — GtACR1 structure determined by LCP crystallization method
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for GtACR1 purification and solubilization
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Referenced in gtacr1 text

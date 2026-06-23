@@ -24,14 +24,14 @@ The M1 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/)
 | doi/10.1126##science.aax2517 | 6WJC | 2.80 | Not specified | Recombinantly expressed M1AChR from Sf9 insect cells; MT7 expressed in H15 insect cells; co-crystallized with atropine (orthosteric antagonist) | [Atropine](/xray-mp-wiki/reagents/ligands/atropine/), [MT7](/xray-mp-wiki/reagents/ligands/mt7/) |
 | doi/10.1038##nature17188 | 5CXV | 2.7 A | P 21 21 21 | Human M1 muscarinic receptor, N-terminal FLAG epitope tag, N-glycosylation mutants (N2Q, N12Q, unintentionally N110Q 3.37), residues 226-389 of ICL3 replaced by T4 lysozyme fusion protein, C-terminal 8x histidine tag
  | [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/) |
-| doi/10.1016##j.cell.2021.11.001 | 6ZFZ | 2.17 A | C 2 2 21 | [M1-StaR-T4L](/xray-mp-wiki/proteins/gpcr/m1-star-t4l/) (12 thermostabilizing mutations, M4 N-terminus chimera, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/), [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) in ICL3) | [77-LH-28-1](/xray-mp-wiki/reagents/ligands/77-lh-28-1/) |
-| doi/10.1016##j.cell.2021.11.001 | 6ZG4 | 2.17 A | C 2 2 21 | [M1-StaR-T4L](/xray-mp-wiki/proteins/gpcr/m1-star-t4l/) (12 thermostabilizing mutations, M4 N-terminus chimera, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/), [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) in ICL3) | [HTL9936](/xray-mp-wiki/reagents/ligands/htl9936/) |
-| doi/10.1016##j.cell.2021.11.001 | 6ZG9 | 2.17 A | C 2 2 21 | [M1-StaR-T4L](/xray-mp-wiki/proteins/gpcr/m1-star-t4l/) (12 thermostabilizing mutations, M4 N-terminus chimera, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/), [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) in ICL3) | [GSK1034702](/xray-mp-wiki/reagents/ligands/gsk1034702/) |
+| doi/10.1016##j.cell.2021.11.001 | 6ZFZ | 2.17 A | C 2 2 21 | [M1-StaR-T4L](/xray-mp-wiki/proteins/gpcr/m1-star-t4l/) (12 thermostabilizing mutations, M4 N-terminus chimera, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) in ICL3) | [77-LH-28-1](/xray-mp-wiki/reagents/ligands/77-lh-28-1/) |
+| doi/10.1016##j.cell.2021.11.001 | 6ZG4 | 2.17 A | C 2 2 21 | [M1-StaR-T4L](/xray-mp-wiki/proteins/gpcr/m1-star-t4l/) (12 thermostabilizing mutations, M4 N-terminus chimera, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) in ICL3) | [HTL9936](/xray-mp-wiki/reagents/ligands/htl9936/) |
+| doi/10.1016##j.cell.2021.11.001 | 6ZG9 | 2.17 A | C 2 2 21 | [M1-StaR-T4L](/xray-mp-wiki/proteins/gpcr/m1-star-t4l/) (12 thermostabilizing mutations, M4 N-terminus chimera, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) in ICL3) | [GSK1034702](/xray-mp-wiki/reagents/ligands/gsk1034702/) |
 
 ## Expression and Purification
 
 - **Expression system**: Sf21 insect cells (baculovirus expression vector system)
-- **Construct**: [M1-StaR-T4L](/xray-mp-wiki/proteins/gpcr/m1-star-t4l/) construct with N-terminal GP64 signal sequence, chimeric M4 N-terminus (residues 1-95 of M4 replacing residues 1-87 of M1), residues 88-438 of M1 receptor, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) (residues 439-460 removed), [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) inserted into ICL3 between residues 219 and 354, and C-terminal deca-histidine tag. The StaR variant contains 12 thermostabilizing mutations: F27A, T32A, V46L, L64A, T95A, W101A, S112A, A143L, A196T, K362A, A364L, S411A.
+- **Construct**: [M1-StaR-T4L](/xray-mp-wiki/proteins/gpcr/m1-star-t4l/) construct with N-terminal GP64 signal sequence, chimeric M4 N-terminus (residues 1-95 of M4 replacing residues 1-87 of M1), residues 88-438 of M1 receptor, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (residues 439-460 removed), [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) inserted into ICL3 between residues 219 and 354, and C-terminal deca-histidine tag. The StaR variant contains 12 thermostabilizing mutations: F27A, T32A, V46L, L64A, T95A, W101A, S112A, A143L, A196T, K362A, A364L, S411A.
 
 
 ### Purification Workflow
@@ -116,7 +116,7 @@ enhance receptor stability without disrupting ligand binding. The W101A
 small molecule agonists to the orthosteric binding site. The chimeric
 M4 N-terminus (residues 1-95) replaced the native M1 N-terminus
 (residues 1-87) to reduce toxicity associated with high expression
-levels. The C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) (removal of residues 439-460) and
+levels. The C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (removal of residues 439-460) and
 [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) insertion in ICL3 (between residues 219 and 354) were
 added to promote crystallization.
 
@@ -136,14 +136,14 @@ molecular basis for subtype-selective agonist design.
 
 - [MT7](/xray-mp-wiki/reagents/ligands/mt7/) — Co-crystallized allosteric toxin modulator, PDB 6WJC
 - [Tx24](/xray-mp-wiki/reagents/ligands/tx24/) — Engineered M2-selective variant derived from MT7 using M1 structure as template
-- [Three-Finger Toxin Scaffold for GPCR Modulation](/xray-mp-wiki/concepts/three-finger-toxin-gpcr-modulation/) — M1AChR-MT7 structure is the paradigm for 3FT-GPCR interaction
+- [Three-Finger Toxin Scaffold for GPCR Modulation](/xray-mp-wiki/concepts/signaling-receptors/three-finger-toxin-gpcr-modulation/) — M1AChR-MT7 structure is the paradigm for 3FT-GPCR interaction
 - [Atropine](/xray-mp-wiki/reagents/ligands/atropine/) — Orthosteric antagonist co-crystallized in M1AChR-MT7 complex (PDB 6WJC)
 - [Turkey Beta1-Adrenergic Receptor M23](/xray-mp-wiki/proteins/gpcr/turkey-beta1-ar-m23/) — Template structure (PDB 2Y00) used for molecular replacement in all M1 structure determinations
 - [M1-StaR-T4L](/xray-mp-wiki/proteins/gpcr/m1-star-t4l/) — Specific thermostabilized M1 receptor construct with T4L fusion used for crystallization
 - [N-Dodecyl-beta-D-Maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for membrane solubilization and throughout purification
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used for all three M1-StaR-T4L structures
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Final purification step for monodisperse M1-StaR-T4L sample
-- [Biased Agonism in G Protein-Coupled Receptors](/xray-mp-wiki/concepts/biased-agonism/) — HTL9936 was characterized as an unbiased agonist of the M1 receptor across multiple signaling pathways
+- [Biased Agonism in G Protein-Coupled Receptors](/xray-mp-wiki/concepts/signaling-receptors/biased-agonism/) — HTL9936 was characterized as an unbiased agonist of the M1 receptor across multiple signaling pathways
 - [HTL9936](/xray-mp-wiki/reagents/ligands/htl9936/) — Selective M1 partial agonist co-crystallized (PDB 6ZG4)
 - [GSK1034702](/xray-mp-wiki/reagents/ligands/gsk1034702/) — Bitopic M1 agonist co-crystallized (PDB 6ZG9)
 - [Human M4 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m4-muscarinic-acetylcholine-receptor/) — Related muscarinic receptor subtype; M1 and M4 structures solved in same study (PDB 5CXV)

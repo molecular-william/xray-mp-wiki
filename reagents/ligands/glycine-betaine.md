@@ -52,6 +52,6 @@ No comparison data available.
 ## Cross-References
 
 - [BetP](/xray-mp-wiki/proteins/slc-transporters/betp/) — Primary substrate of BetP Na+/betaine symporter
-- [BCCT Family](/xray-mp-wiki/concepts/bcct-family/) — Glycine betaine is the namesake substrate of the BCCT transporter family
-- [Sodium-Motive Force (SMF)](/xray-mp-wiki/concepts/sodium-motive-force/) — BCCT-mediated glycine betaine uptake is driven by sodium gradient
+- [BCCT Family](/xray-mp-wiki/concepts/transport-mechanisms/bcct-family/) — Glycine betaine is the namesake substrate of the BCCT transporter family
+- [Sodium-Motive Force (SMF)](/xray-mp-wiki/concepts/miscellaneous/sodium-motive-force/) — BCCT-mediated glycine betaine uptake is driven by sodium gradient
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used for BetP membrane solubilization and purification

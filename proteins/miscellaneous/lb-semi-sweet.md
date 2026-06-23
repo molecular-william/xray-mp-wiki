@@ -16,13 +16,13 @@ verified: false
 
 [LbSemiSWEET from Leptospira biflexa](/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/) is a SWEET-family sugar transporter from Leptospira biflexa that functions
 as a minimal alternating-access transporter. It is among the smallest characterized
-transporters (< 20 kDa), with a simple symmetric dimer of three-helix bundles. [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet/)
+transporters (< 20 kDa), with a simple symmetric dimer of three-helix bundles. [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/)
 mimics the core of eukaryotic SWEET transporters. Members of the SWEET family play critical
 roles in phloem loading, nectar secretion, pollen development, seed filling, and
 host-pathogen interactions in plants, and are important regulators of metabolic
 homeostasis in animals. Crystal structures of both outward-open (glucose-bound D57A mutant)
 and inward-open (Q20A mutant) conformations were determined, providing a complete set
-of conformations for a single [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet/) ortholog. Unguided molecular dynamics simulations
+of conformations for a single [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) ortholog. Unguided molecular dynamics simulations
 initiated from the outward-open structure spontaneously adopted occluded and inward-open
 conformations matching the crystal structures, revealing the atomic-level mechanism of
 alternating-access transport.
@@ -131,7 +131,7 @@ is essential for extracellular gate closure.
 - [Molecular Dynamics Simulation](/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/) — MD simulations captured spontaneous outward-open to inward-open transitions
 - [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Tris-HCl pH 8.0 used as main purification buffer and crystallization reservoir
 - [PEG 400 (Polyethylene Glycol 400)](/xray-mp-wiki/reagents/additives/peg-400/) — Used as precipitant in both D57A and Q20A crystallization conditions
-- [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet/) — Related biological concept
+- [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification
 - [LbSemiSWEET from Leptospira biflexa](/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/) — Related protein structure

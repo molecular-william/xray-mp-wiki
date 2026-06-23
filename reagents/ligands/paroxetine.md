@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Paroxetine is a selective [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) reuptake inhibitor (SSRI) antidepressant used clinically for the treatment of depression, obsessive-compulsive disorder, social anxiety disorder, and post-traumatic stress disorder. It is the most potent known inhibitor of the [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) transporter ([SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/)). Paroxetine binds to the primary binding pocket of [Biogenic Amine Transporters](/xray-mp-wiki/concepts/biogenic-amine-transporters/), forming characteristic salt bridge and hydrophobic interactions.
+Paroxetine is a selective [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) reuptake inhibitor (SSRI) antidepressant used clinically for the treatment of depression, obsessive-compulsive disorder, social anxiety disorder, and post-traumatic stress disorder. It is the most potent known inhibitor of the [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) transporter ([SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/)). Paroxetine binds to the primary binding pocket of [Biogenic Amine Transporters](/xray-mp-wiki/concepts/transport-mechanisms/biogenic-amine-transporters/), forming characteristic salt bridge and hydrophobic interactions.
 
 
 ## Properties
@@ -46,7 +46,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Biogenic Amine Transporters](/xray-mp-wiki/concepts/biogenic-amine-transporters/) — Related biological concept
+- [Biogenic Amine Transporters](/xray-mp-wiki/concepts/transport-mechanisms/biogenic-amine-transporters/) — Related biological concept
 - [LEUBAT](/xray-mp-wiki/proteins/slc-transporters/leubat/) — Related protein structure
 - [LEUT](/xray-mp-wiki/proteins/enzymes/leut/) — Related protein structure
 - [SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/) — Related protein structure

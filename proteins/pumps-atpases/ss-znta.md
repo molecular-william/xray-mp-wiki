@@ -75,7 +75,7 @@ SsZntA served as a model for testing SFX with recombinantly expressed P-type ATP
 
 ## Cross-References
 
-- [P-type ATPase Family](/xray-mp-wiki/concepts/p-type-atpase/) — SsZntA belongs to the P1B-type (heavy metal transporting) ATPase subfamily
+- [P-type ATPase Family](/xray-mp-wiki/concepts/protein-families/p-type-atpase/) — SsZntA belongs to the P1B-type (heavy metal transporting) ATPase subfamily
 - [Serial Femtosecond Crystallography (SFX)](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) — SFX at LCLS XFEL used for structure determination attempt
 - [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — SERCA1a is a related P-type ATPase studied in the same SFX ligand screening project
 - [sCoaT (Co2+/Zn2+-transporting PIB-4-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/sulfitobacter-scoat/) — Related PIB-ATPase; sCoaT structures used SsZntA as MR search model

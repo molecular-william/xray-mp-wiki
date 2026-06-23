@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-MtrE is the outer membrane channel component of the [MtrCDE Tripartite Multidrug Efflux Pump](/xray-mp-wiki/concepts/mtrcde-tripartite-efflux-pump/) from Neisseria gonorrhoeae. It belongs to the hydrophobic and amphiphilic efflux resistance-nodulation-cell division (HAE-RND) family of outer membrane channels. MtrE forms a homotrimeric channel that creates a vertical tunnel extending from the outer membrane surface down to the periplasmic end, representing an open conformational state. An aspartate ring (D402/D405 from each protomer) at the periplasmic entrance acts as a selectivity gate.
+MtrE is the outer membrane channel component of the [MtrCDE Tripartite Multidrug Efflux Pump](/xray-mp-wiki/concepts/transport-mechanisms/mtrcde-tripartite-efflux-pump/) from Neisseria gonorrhoeae. It belongs to the hydrophobic and amphiphilic efflux resistance-nodulation-cell division (HAE-RND) family of outer membrane channels. MtrE forms a homotrimeric channel that creates a vertical tunnel extending from the outer membrane surface down to the periplasmic end, representing an open conformational state. An aspartate ring (D402/D405 from each protomer) at the periplasmic entrance acts as a selectivity gate.
 
 
 ## Structure Determination
@@ -86,7 +86,7 @@ The opening and closing of the MtrE channel may be regulated by conformational c
 
 ## Cross-References
 
-- [MtrCDE Tripartite Multidrug Efflux Pump](/xray-mp-wiki/concepts/mtrcde-tripartite-efflux-pump/) — MtrE is the outer membrane channel component of this tripartite efflux system
+- [MtrCDE Tripartite Multidrug Efflux Pump](/xray-mp-wiki/concepts/transport-mechanisms/mtrcde-tripartite-efflux-pump/) — MtrE is the outer membrane channel component of this tripartite efflux system
 - [n-Dodecyl-beta-D-maltoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Used for MtrE solubilization and purification
 - [n-Octyl-beta-D-glucoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — Used as crystallization additive
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

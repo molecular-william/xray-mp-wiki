@@ -71,4 +71,4 @@ MycP1 belongs to the mycosin family of membrane-anchored serine proteases. The c
 ## Cross-References
 
 - [EspB](/xray-mp-wiki/proteins/secretion-translocon/espB/) — MycP1 protease cleaves full-length EspB to generate the mature 50 kDa secreted isoform
-- [ESX-1 Secretion System](/xray-mp-wiki/concepts/esx-1-secretion-system/) — MycP1 is essential for ESX-1 secretion system function and EspB processing
+- [ESX-1 Secretion System](/xray-mp-wiki/concepts/transport-mechanisms/esx-1-secretion-system/) — MycP1 is essential for ESX-1 secretion system function and EspB processing

@@ -51,4 +51,4 @@ No comparison data available.
 - [D-Amphetamine](/xray-mp-wiki/reagents/ligands/d-amphetamine/) — Structurally related psychostimulant that competes with dopamine for the same binding site
 - [Methamphetamine](/xray-mp-wiki/reagents/ligands/methamphetamine/) — Structurally related psychostimulant substrate of dDAT
 - [3,4-Dichlorophenethylamine (DCP)](/xray-mp-wiki/reagents/ligands/3-4-dichlorophenethylamine/) — Stable dopamine analogue used for crystallography, isosteric with dopamine
-- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/nss-family/) — Dopamine is transported by NSS family members including DAT, SERT, NET
+- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/transport-mechanisms/nss-family/) — Dopamine is transported by NSS family members including DAT, SERT, NET

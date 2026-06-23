@@ -139,4 +139,4 @@ archaeal ancestors of eukaryotes.
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LR was crystallized using in meso approach
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used for solubilization and purification of LR
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — All-trans-retinal is the chromophore covalently bound to LR
-- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-photocycle/) — LR exhibits a characteristic rhodopsin photocycle with five intermediates
+- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/) — LR exhibits a characteristic rhodopsin photocycle with five intermediates

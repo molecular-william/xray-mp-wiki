@@ -92,6 +92,6 @@ The M4 structure is overall similar to M1, M2, and M3 with RMSD of 0.6-0.9 A (ex
 - [mT4L (Minimal T4 Lysozyme)](/xray-mp-wiki/proteins/gpcr/mt4l-lysozyme/) — Minimal T4 lysozyme fusion used to replace ICL3 for crystallization
 - [Flag Epitope Tag (DYKDDDDK)](/xray-mp-wiki/reagents/protein-tags/flag-tag/) — N-terminal FLAG tag used for purification and as crystallization construct component
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — LCP lipid matrix used for M4 crystallization (10:1 monoolein:cholesterol)
-- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/allosteric-regulation/) — M4 receptor allosteric site and cooperativity network central to paper findings
+- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — M4 receptor allosteric site and cooperativity network central to paper findings
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification

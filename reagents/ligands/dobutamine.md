@@ -54,6 +54,6 @@ No comparison data available.
 - [Salbutamol](/xray-mp-wiki/reagents/ligands/salbutamol/) — Related beta-adrenergic agonist ligand
 - [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) — Antagonist ligand for beta1AR used in related structure determination
 - [Cholesterol Hydrogen Succinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Lipid additive used in crystallization of beta1AR-M23 with dobutamine
-- [Biased Agonism in G Protein-Coupled Receptors](/xray-mp-wiki/concepts/biased-agonism/) — Dobutamine is a partial agonist, illustrating ligand-specific efficacy differences
+- [Biased Agonism in G Protein-Coupled Receptors](/xray-mp-wiki/concepts/signaling-receptors/biased-agonism/) — Dobutamine is a partial agonist, illustrating ligand-specific efficacy differences
 - [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Additive used in purification or crystallization buffers
 - [PEG 600](/xray-mp-wiki/reagents/additives/peg-600/) — Additive used in purification or crystallization buffers

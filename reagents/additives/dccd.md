@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-DCCD (N,N'-dicyclohexylcarbodiimide) is a carboxyl-modifying reagent that covalently binds to protonated carboxyl groups in hydrophobic environments. It is used as a probe for protonation-dependent conformational changes in membrane proteins, particularly in the study of proton-coupled transport and pH sensing. DCCD reacts specifically with protonated carboxylic acid side chains (Asp, Glu) to form a stable N-acylurea adduct. In the context of NPQ, DCCD binds to the pH-sensing lumenal glutamates of [PsbS](/xray-mp-wiki/proteins/photosynthesis/psbs-spinach/), inhibiting qE-type [non-photochemical quenching](/xray-mp-wiki/concepts/non-photochemical-quenching/).
+DCCD (N,N'-dicyclohexylcarbodiimide) is a carboxyl-modifying reagent that covalently binds to protonated carboxyl groups in hydrophobic environments. It is used as a probe for protonation-dependent conformational changes in membrane proteins, particularly in the study of proton-coupled transport and pH sensing. DCCD reacts specifically with protonated carboxylic acid side chains (Asp, Glu) to form a stable N-acylurea adduct. In the context of NPQ, DCCD binds to the pH-sensing lumenal glutamates of [PsbS](/xray-mp-wiki/proteins/photosynthesis/psbs-spinach/), inhibiting qE-type [non-photochemical quenching](/xray-mp-wiki/concepts/miscellaneous/non-photochemical-quenching/).
 
 
 ## Properties
@@ -54,4 +54,4 @@ No comparison data available.
 ## Cross-References
 
 - [PsbS from Spinach](/xray-mp-wiki/proteins/photosynthesis/psbs-spinach/) — Primary target protein; DCCD binds to pH-sensing Glu173
-- [Non-photochemical Quenching (NPQ) in LHC-II](/xray-mp-wiki/concepts/non-photochemical-quenching/) — DCCD inhibits qE-type NPQ by modifying PsbS
+- [Non-photochemical Quenching (NPQ) in LHC-II](/xray-mp-wiki/concepts/miscellaneous/non-photochemical-quenching/) — DCCD inhibits qE-type NPQ by modifying PsbS

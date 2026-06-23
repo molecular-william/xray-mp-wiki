@@ -79,6 +79,6 @@ The muOR-selective synthetic peptide agonist DAMGO (ID-Ala2,N-MePhe4,Gly-ol5] en
 - [Human Beta2-Adrenergic Receptor](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Comparative analysis of activation mechanism
 - [Human Delta-Opioid Receptor](/xray-mp-wiki/proteins/gpcr/delta-opioid-receptor/) — High-resolution inactive structure used for polar network comparison
 - [Kappa Opioid Receptor](/xray-mp-wiki/proteins/gpcr/kappa-opioid-receptor/) — Related classical opioid GPCR
-- [Conserved Core Triad](/xray-mp-wiki/concepts/conserved-core-triad/) — Key mechanistic concept from muOR activation studies
+- [Conserved Core Triad](/xray-mp-wiki/concepts/signaling-receptors/conserved-core-triad/) — Key mechanistic concept from muOR activation studies
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) — Entity mentioned in text
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) — Entity mentioned in text

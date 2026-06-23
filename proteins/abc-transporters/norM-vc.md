@@ -50,7 +50,7 @@ NorM-VC is a multidrug and toxic compound extrusion (MATE) family transporter fr
 | Temperature | not specified |
 | Growth time | not specified |
 | Cryoprotection | -- |
-| Notes | Crystal 1 (native): P 212121, a=142.8, b=240.8, c=45.7 A; Crystal 2 (Rb+-bound): P 212121, a=159.6, b=241.7, c=46.2 A. Phasing by [NCS](/xray-mp-wiki/concepts/non-crystallographic-symmetry/) averaging using PHASER. Data collection at CLS (08ID-1), ALS (BL 8.2.2), and SSRL (BL 11-1). |
+| Notes | Crystal 1 (native): P 212121, a=142.8, b=240.8, c=45.7 A; Crystal 2 (Rb+-bound): P 212121, a=159.6, b=241.7, c=46.2 A. Phasing by [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) averaging using PHASER. Data collection at CLS (08ID-1), ALS (BL 8.2.2), and SSRL (BL 11-1). |
 
 
 ## Biological / Functional Insights
@@ -76,10 +76,10 @@ Topology was verified using single-cysteine mutagenesis combined with [Mercury (
 
 - [Doxorubicin](/xray-mp-wiki/reagents/ligands/doxorubicin/) — NorM-VC binds doxorubicin with Kd = 1.00 +/- 0.08 uM (Table S1)
 - [Rhodamine 6G](/xray-mp-wiki/reagents/ligands/rhodamine-6g/) — NorM-VC binds rhodamine 6G with Kd = 2.09 +/- 0.0115 uM (Table S1)
-- [MATE Transporter Family](/xray-mp-wiki/concepts/mate-transporter-family/) — NorM-VC is the first prokaryotic MATE family member with a crystal structure
-- [Major Facilitator Superfamily](/xray-mp-wiki/concepts/mfs-transporter/) — MATE transporters are secondary transporters related to MFS family
+- [MATE Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/mate-transporter-family/) — NorM-VC is the first prokaryotic MATE family member with a crystal structure
+- [Major Facilitator Superfamily](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — MATE transporters are secondary transporters related to MFS family
 - [NtMATE2 (Nicotiana tabacum MATE2)](/xray-mp-wiki/proteins/abc-transporters/ntmate2/) — Another MATE family member with crystal structure for comparison
 - [CasMATE (Camelina sativa MATE Transporter)](/xray-mp-wiki/proteins/abc-transporters/casmate/) — Eukaryotic MATE transporter for structural comparisons
-- [NCS](/xray-mp-wiki/concepts/non-crystallographic-symmetry/) — Related biological concept
+- [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) — Related biological concept
 - [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) — Additive used in purification or crystallization buffers
 - [Ethidium - Fluorescent Intercalating Dye](/xray-mp-wiki/reagents/ligands/ethidium/) — Related ligand or cofactor

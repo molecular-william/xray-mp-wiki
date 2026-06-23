@@ -22,7 +22,7 @@ His58 (TM2) and Asp148 (TM4), located ~14 Å below the lipid membrane
 surface. The protease adopts two distinct conformations — open and closed —
 revealing a lateral gating mechanism for substrate entry. This is the first
 structure of an S2P family intramembrane metalloprotease and provides a
-framework for understanding regulated [Intramembrane Proteolysis](/xray-mp-wiki/concepts/intramembrane-proteolysis/) (RIP).
+framework for understanding regulated [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-proteolysis/) (RIP).
 
 
 ## Structure Determination
@@ -75,7 +75,7 @@ The catalytic zinc is coordinated in a roughly tetrahedral geometry by His54 and
 
 ## Cross-References
 
-- [Site-2 Protease Family Mechanism](/xray-mp-wiki/concepts/site-2-protease-family-mechanism/) — mjS2P is the founding structural example of the S2P family, revealing the lateral gating mechanism
+- [Site-2 Protease Family Mechanism](/xray-mp-wiki/concepts/protein-families/site-2-protease-family-mechanism/) — mjS2P is the founding structural example of the S2P family, revealing the lateral gating mechanism
 - [n-Decyl-beta-D-maltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — DM used as primary crystallization detergent for mjS2P
-- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/intramembrane-proteolysis/) — Related biological concept
+- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-proteolysis/) — Related biological concept
 - [Limited Proteolysis](/xray-mp-wiki/methods/purification/limited-proteolysis/) — Method used in structure determination or purification

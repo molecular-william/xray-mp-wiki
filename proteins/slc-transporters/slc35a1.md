@@ -102,7 +102,7 @@ CMP binding quenches mCST intrinsic tryptophan fluorescence through a single res
 
 - [Vrg4 GDP-Mannose Transporter](/xray-mp-wiki/proteins/slc-transporters/vrg4/) — Structural homolog and reference model for the DMT superfamily fold
 - [SLC35C1 Human GDP-Fucose Transporter](/xray-mp-wiki/proteins/slc-transporters/slc35c1/) — Related SLC35 family nucleotide sugar transporter
-- [SLC35 Family (Nucleotide Sugar Transporters)](/xray-mp-wiki/concepts/sl35-family/) — Transporter family classification
+- [SLC35 Family (Nucleotide Sugar Transporters)](/xray-mp-wiki/concepts/transport-mechanisms/sl35-family/) — Transporter family classification
 - [Lipidic Cubic Phase (LCP)](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization method used to obtain high-resolution structures
 - [N-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for purification and crystallization
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

@@ -74,7 +74,7 @@ The c13 ring adopts a distinctive "tulip beer glass" shape with outer diameters 
 ## Cross-References
 
 - [Bacillus pseudofirmus OF4 ATP Synthase A16/20G c12 Ring](/xray-mp-wiki/proteins/pumps-atpases/bacillus-pseudofirmus-of4-c12-ring/) — Mutant form of same species with altered stoichiometry; reveals the role of the alanine motif in c-ring assembly
-- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/f1-atpase-rotary-mechanism/) — c-ring is the rotor component of the ATP synthase, determining ion-to-ATP ratio
+- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/) — c-ring is the rotor component of the ATP synthase, determining ion-to-ATP ratio
 - [ATP](/xray-mp-wiki/reagents/ligands/atp/) — Referenced in the context of ATP
 - [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) — Referenced in the context of Sucrose
 - [Foscholine 12](/xray-mp-wiki/reagents/detergents/foscholine-12/) — Referenced in the context of Foscholine 12

@@ -110,4 +110,4 @@ Sterol docking poses on ABCG5/G8 are distributed asymmetrically at the opposing 
 - [MES Buffer](/xray-mp-wiki/reagents/buffers/mes/) — Crystallization buffer (100 mM, pH 6.5)
 - [Ammonium Sulfate](/xray-mp-wiki/reagents/additives/ammonium-sulfate/) — Crystallization precipitant (1.8-2.0 M)
 - [Bicelle Crystallization](/xray-mp-wiki/methods/crystallization/bicelle-crystallization/) — G5G8 was crystallized using bicelle crystallization with DMPC/cholesterol bicelles
-- [ABC Transporter Family](/xray-mp-wiki/concepts/abc-transporter-family/) — G5G8 is an ABCG subfamily member; the 2016 structure defined the ABC2 exporter superfamily fold
+- [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — G5G8 is an ABCG subfamily member; the 2016 structure defined the ABC2 exporter superfamily fold

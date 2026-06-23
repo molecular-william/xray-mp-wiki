@@ -18,7 +18,7 @@ NavAb is a bacterial voltage-gated sodium channel (BacNav) from Arcobacter butzl
 that serves as a model for vertebrate voltage-gated sodium channels. NavAb forms a
 homotetramer of four identical subunits, each with six transmembrane segments (S1-S6).
 The landmark wild-type NavAb structure at 3.2 A resolution captured the channel in two potentially slow-inactivated states, revealing an asymmetric dimer-of-dimers S6 activation gate collapse and providing the first structural insights into Nav channel slow inactivation. Using two Na_vAb mutants (Na_vAb/FY: T206F/V213Y and Na_vAb/1-226: C-terminal
-[Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/)), additional structures were determined that capture tightly closed and open states
+[Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/)), additional structures were determined that capture tightly closed and open states
 of the activation gate at 2.8-3.2 A resolution, allowing completion of a closed-open-inactivated
 conformational cycle in a single voltage-gated sodium channel. Additional high-resolution
 structures of NavAb with gating-charge mutations (R2G and R3G) analogous to those
@@ -32,12 +32,12 @@ gating pore currents in the voltage sensor domain.
 |---|---|---|---|---|---|
 | doi/10.1038##nature11077 | not specified | 3.20 | P4(3)2(1)2 | Wild-type NavAb (full-length), expressed in Trichoplusia ni insect cells, purified via anti-Flag resin + SEC, reconstituted in DMPC:CHAPSO bicelles | None (apo, potentially slow-inactivated states) |
 | doi/10.1073##pnas.1700761114 | not specified | 2.80 | P2(1)22(1) | NavAb/FY (T206F/V213Y double mutant), full-length, homotetramer |  |
-| doi/10.1073##pnas.1700761114 | not specified | 2.85 | — | NavAb/1-226 (C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) at Lys-227 + I217C mutation) |  |
+| doi/10.1073##pnas.1700761114 | not specified | 2.85 | — | NavAb/1-226 (C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) at Lys-227 + I217C mutation) |  |
 | doi/10.1073##pnas.1814928115 | not specified | not specified | — | NavAb/I217C/Delta40 in complex with [Lidocaine](/xray-mp-wiki/reagents/ligands/lidocaine/) |  |
 | doi/10.1073##pnas.1814928115 | not specified | not specified | — | NavAb/I217C/Delta40 in complex with [Flecainide](/xray-mp-wiki/reagents/ligands/flecainide/) |  |
 | doi/10.1038##s41586-018-0120-4 | not specified | 2.50 | not specified | NavAb(R2G) double mutant (R1G/R2G) in complex with guanidinium |  |
 | doi/10.1038##s41586-018-0120-4 | not specified | 2.70 | not specified | NavAb(R3G) gating-charge mutant |  |
-| doi/10.1085##jgp.201711884 | not specified | 2.30 | not specified | NavAbDelta28 (C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) of last 28 residues) |  |
+| doi/10.1085##jgp.201711884 | not specified | 2.30 | not specified | NavAbDelta28 (C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) of last 28 residues) |  |
 | doi/10.1085##jgp.201711884 | not specified | not specified | — | NavAbDelta28/T206A |  |
 | doi/10.1085##jgp.201711884 | not specified | not specified | — | NavAbDelta28/T206S |  |
 | doi/10.1085##jgp.201711884 | not specified | not specified | — | NavAbDelta28/T206V |  |
@@ -51,7 +51,7 @@ gating pore currents in the voltage sensor domain.
 ### Purification Workflow
 
 - **Expression system**: Trichoplusia ni insect cells
-- **Expression construct**: Full-length Na_vAb with T206F/V213Y mutations (Na_vAb/FY) or C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) to residue 226 (Na_vAb/1-226)
+- **Expression construct**: Full-length Na_vAb with T206F/V213Y mutations (Na_vAb/FY) or C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) to residue 226 (Na_vAb/1-226)
 
 #### Steps
 
@@ -112,7 +112,7 @@ The voltage-sensing domains (VSDs) shifted around the perimeter of the pore modu
 
 Na_vAb/FY (T206F/V213Y) captures a tightly closed activation gate with I217 and M221
 narrowing the pore orifice to 3.2 Å, occluding hydrated Na+ permeation. Na_vAb/1-226
-(C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/)) captures an open activation gate with an orifice of ~10.3 Å,
+(C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/)) captures an open activation gate with an orifice of ~10.3 Å,
 allowing hydrated Na+ permeation. The S6 helix in the closed state is straight, while
 in the open state it develops a kink at T206, the hinge residue. These structures
 establish the full range of motion of the activation gate from closed (fully occluded)
@@ -169,7 +169,7 @@ Mutation of Thr206 in the S6 segment to Ala or Ser (small side-chain volume ~88-
 
 ### Two-step model of multiphase inactivation in NavAb
 
-The multiphase slow inactivation of NavAb proceeds via a two-step mechanism. (1) Early voltage-dependent inactivation (during a single depolarization) is triggered by bending of the S6 segment at Thr206, followed by local protein interactions and exchange of hydrogen-bonding partners. The side-chain volume at position 206 determines the kinetics of this early phase. (2) Late use-dependent inactivation (during repetitive depolarizations) requires the C-terminal tail. [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) of 10 residues (NavAbDelta10) from the distal CTD abolishes late use-dependent inactivation at 0.2 Hz, while deleting 3, 7, 28, or 40 residues has graded effects. The C-terminal tail forms a four-helix bundle that is maintained even in large truncations. The hydrophobic distal 20 residues of the CTD (coiled-coil region) stabilize this late inactivation phase. Asymmetric pore collapse occurs during the open-to-inactivated transition, with two S6 segments moving toward the pore axis and two moving away. (DOI: 10.1085/jgp.201711884)
+The multiphase slow inactivation of NavAb proceeds via a two-step mechanism. (1) Early voltage-dependent inactivation (during a single depolarization) is triggered by bending of the S6 segment at Thr206, followed by local protein interactions and exchange of hydrogen-bonding partners. The side-chain volume at position 206 determines the kinetics of this early phase. (2) Late use-dependent inactivation (during repetitive depolarizations) requires the C-terminal tail. [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) of 10 residues (NavAbDelta10) from the distal CTD abolishes late use-dependent inactivation at 0.2 Hz, while deleting 3, 7, 28, or 40 residues has graded effects. The C-terminal tail forms a four-helix bundle that is maintained even in large truncations. The hydrophobic distal 20 residues of the CTD (coiled-coil region) stabilize this late inactivation phase. Asymmetric pore collapse occurs during the open-to-inactivated transition, with two S6 segments moving toward the pore axis and two moving away. (DOI: 10.1085/jgp.201711884)
 
 
 ## Cross-References
@@ -179,8 +179,8 @@ The multiphase slow inactivation of NavAb proceeds via a two-step mechanism. (1)
 - [NavMs Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/navms/) — Related bacterial sodium channel for pore gating comparison
 - [Lidocaine](/xray-mp-wiki/reagents/ligands/lidocaine/) — Local anesthetic and class IB antiarrhythmic drug co-crystallized with NavAb
 - [Flecainide](/xray-mp-wiki/reagents/ligands/flecainide/) — Class IC antiarrhythmic drug co-crystallized with NavAb
-- [Gating Pore Current (Omega Current)](/xray-mp-wiki/concepts/gating-pore-current/) — NavAb R2G and R3G mutant structures reveal structural basis of gating pore currents in periodic paralysis
-- [NCS](/xray-mp-wiki/concepts/non-crystallographic-symmetry/) — Related biological concept
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Gating Pore Current (Omega Current)](/xray-mp-wiki/concepts/transport-mechanisms/gating-pore-current/) — NavAb R2G and R3G mutant structures reveal structural basis of gating pore currents in periodic paralysis
+- [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) — Related biological concept
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [Ammonium Sulfate](/xray-mp-wiki/reagents/additives/ammonium-sulfate/) — Additive used in purification or crystallization buffers

@@ -81,7 +81,7 @@ functioning as a lipid-interacting module.
 ## Cross-References
 
 - [Human Rhodopsin E113Q/M257Y Mutant](/xray-mp-wiki/proteins/gpcr/human-rhodopsin-e113q-m257y/) — Arrestin binding partner in the rhodopsin-arrestin complex structure
-- [Beta-Arrestin Signaling](/xray-mp-wiki/concepts/beta-arrestin-signaling/) — Arrestin-mediated GPCR signaling pathway and biased signaling
+- [Beta-Arrestin Signaling](/xray-mp-wiki/concepts/signaling-receptors/beta-arrestin-signaling/) — Arrestin-mediated GPCR signaling pathway and biased signaling
 - [Bovine Rhodopsin](/xray-mp-wiki/proteins/gpcr/bovine-rhodopsin/) — Bovine rhodopsin is the classical rhodopsin model system studied with arrestin
 - [Thermal Shift Assay](/xray-mp-wiki/methods/quality-assessment/thermal-shift-assay/) — Used to assess stability of the T4L rhodopsin-arrestin fusion complex (Tm 59 C)
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal) — Entity mentioned in text

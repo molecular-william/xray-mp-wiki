@@ -21,14 +21,14 @@ CRTH2 (chemoattractant receptor-homologous molecule expressed on Th2 cells, also
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.molcel.2018.08.009 | 6D26 | 2.80 | P212121 | Human CRTH2 with mT4L insertion in ICL3, N25A mutation, C-terminal [Truncation](/xray-mp-wiki/concepts/truncation/) (R340-S395 removed), N-terminal 8-amino acid linker | Fevipiprant (QAW039) |
-| doi/10.1016##j.molcel.2018.08.009 | 6D27 | 2.74 | P212121 | Human CRTH2 with mT4L insertion in ICL3, N25A mutation, C-terminal [Truncation](/xray-mp-wiki/concepts/truncation/) (R340-S395 removed), N-terminal 8-amino acid linker | CAY10471 |
-| doi/10.1073##pnas.2102813118 | 7M8W | 2.60 | P212121 | Human CRTH2 with mT4L insertion in ICL3, N25A mutation, C-terminal [Truncation](/xray-mp-wiki/concepts/truncation/) at R340 | [15R Methyl Pgd2](/xray-mp-wiki/reagents/15r-methyl-pgd2/) (15mPGD2) |
+| doi/10.1016##j.molcel.2018.08.009 | 6D26 | 2.80 | P212121 | Human CRTH2 with mT4L insertion in ICL3, N25A mutation, C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) (R340-S395 removed), N-terminal 8-amino acid linker | Fevipiprant (QAW039) |
+| doi/10.1016##j.molcel.2018.08.009 | 6D27 | 2.74 | P212121 | Human CRTH2 with mT4L insertion in ICL3, N25A mutation, C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) (R340-S395 removed), N-terminal 8-amino acid linker | CAY10471 |
+| doi/10.1073##pnas.2102813118 | 7M8W | 2.60 | P212121 | Human CRTH2 with mT4L insertion in ICL3, N25A mutation, C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) at R340 | [15R Methyl Pgd2](/xray-mp-wiki/reagents/15r-methyl-pgd2/) (15mPGD2) |
 
 ## Expression and Purification
 
 - **Expression system**: Spodoptera frugiperda (Sf9)
-- **Construct**: Human CRTH2 (UniProt Q9Y5Y4) with N-terminal FLAG tag, mT4L insertion in ICL3 (between R237 and I238), N25A mutation, C-terminal [Truncation](/xray-mp-wiki/concepts/truncation/) at R340. Expressed using Bac-to-Bac baculovirus system in Sf9 insect cells.
+- **Construct**: Human CRTH2 (UniProt Q9Y5Y4) with N-terminal FLAG tag, mT4L insertion in ICL3 (between R237 and I238), N25A mutation, C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) at R340. Expressed using Bac-to-Bac baculovirus system in Sf9 insect cells.
 
 ### Purification Workflow
 

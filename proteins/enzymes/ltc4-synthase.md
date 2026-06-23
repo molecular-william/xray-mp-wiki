@@ -94,8 +94,8 @@ LTC4S shares structural homology with other MAPEG family members including [FLAP
 
 ## Cross-References
 
-- [MAPEG Superfamily](/xray-mp-wiki/concepts/mapag-superfamily/) — LTC4S is a member of the MAPEG superfamily
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Product release from LTC4S may involve conformational changes akin to alternating access
+- [MAPEG Superfamily](/xray-mp-wiki/concepts/protein-families/mapag-superfamily/) — LTC4S is a member of the MAPEG superfamily
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Product release from LTC4S may involve conformational changes akin to alternating access
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used in purification buffer and as a crystallization additive; DDM molecule in PDB 2UUH mimics LTA4 binding
 - [Ammonium Sulfate](/xray-mp-wiki/reagents/additives/ammonium-sulfate/) — Precipitant used in crystallization
 - [Sodium Cacodylate](/xray-mp-wiki/reagents/additives/sodium-cacodylate/) — Buffer used in crystallization reservoir

@@ -63,5 +63,5 @@ The same structural features (membrane plane expansion and phylloquinone asymmet
 - [Photosystem II Core Dimer](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii-core-dimer/) — Comparison of membrane plane expansion between PS I and PS II at RT
 - [PSI-LHCI supercomplex from pea](/xray-mp-wiki/proteins/photosynthesis/psi-lhci-pea/) — Related PS I structure from higher plants at cryogenic temperature
 - [Serial Femtosecond Crystallography (SFX)](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) — Method used for room temperature structure determination
-- [X-ray Radiation Damage](/xray-mp-wiki/concepts/x-ray-radiation-damage/) — SFX enables damage-free room temperature structures
+- [X-ray Radiation Damage](/xray-mp-wiki/concepts/methods-techniques/x-ray-radiation-damage/) — SFX enables damage-free room temperature structures
 - [Serial Femtosecond Crystallography](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) — Method used in structure determination or purification

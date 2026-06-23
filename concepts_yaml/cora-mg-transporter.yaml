@@ -2,15 +2,15 @@ title: CorA Mg2+ Transporter
 type: concept
 tags:
 - concept-protein-family
-- subdirectory-concepts
+- subdirectory-transport-mechanisms
 sources:
 - doi/10.1002##pro.215
 - doi/10.1016##j.str.2017.05.024
 cross_references:
-- path: /xray-mp-wiki/concepts/mit-superfamily/
+- path: /xray-mp-wiki/concepts/transport-mechanisms/mit-superfamily/
   title: Metal Ion Transporter Superfamily
   reason: CorA is the prototype MIT superfamily member
-cross_refs_text: '- [Metal Ion Transporter Superfamily](/xray-mp-wiki/concepts/mit-superfamily/)
+cross_refs_text: '- [Metal Ion Transporter Superfamily](/xray-mp-wiki/concepts/transport-mechanisms/mit-superfamily/)
   — CorA is the prototype MIT superfamily member'
 details: 'CorA is a Mg2+ transporter that forms a pentameric structure. It uses a
   common pore-loop mechanism for ion selectivity, with a GMN signature motif forming

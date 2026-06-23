@@ -100,8 +100,8 @@ MD simulations in archaeal lipid bilayers (DPI, DPG, DPA) showed negatively char
 
 ## Cross-References
 
-- [MATE Transporter Family](/xray-mp-wiki/concepts/mate-transporter-family/) — PfMATE is a member of the MATE family
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — PfMATE inward- and outward-facing structures support the alternating access model
+- [MATE Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/mate-transporter-family/) — PfMATE is a member of the MATE family
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — PfMATE inward- and outward-facing structures support the alternating access model
 - [Monoolein (9.9 MAG)](/xray-mp-wiki/reagents/lipids/monoolein/) — Used in LCP crystallization of PfMATE
 - [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) — Primary buffer used in purification and crystallization
 - [Lipidic Cubic Phase (LCP)](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used to obtain both inward- and outward-facing structures

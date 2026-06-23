@@ -66,4 +66,4 @@ MOSTO is highly radiation-sensitive due to its polyoxomolybdate clusters. Conven
 
 ## Cross-References
 
-- [Serial Millisecond Crystallography (SMX)](/xray-mp-wiki/concepts/serial-millisecond-crystallography/) — SMX was essential for the MOSTO structure determination, overcoming radiation damage in this metalloprotein.
+- [Serial Millisecond Crystallography (SMX)](/xray-mp-wiki/concepts/methods-techniques/serial-millisecond-crystallography/) — SMX was essential for the MOSTO structure determination, overcoming radiation damage in this metalloprotein.

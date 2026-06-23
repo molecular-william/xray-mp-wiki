@@ -14,13 +14,13 @@ verified: false
 
 ## Overview
 
-SaMscL is the mechanosensitive channel of large conductance from Staphylococcus aureus, a bacterial ion channel that protects cells from lysis upon acute osmotic down-shock. The crystal structure of a C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) mutant (CΔ26, residues 1-94) was determined at 3.8 A resolution, revealing a tetrameric channel with both transmembrane helices (TM1 and TM2) tilted away from the membrane normal at angles close to those inferred for the open state. TM1 and TM2 are tilted 49 degrees and 59 degrees with respect to the pore axis, significantly larger than the 36-38 degrees in the closed-state pentameric [MSCL](/xray-mp-wiki/proteins/other-ion-channels/mscl/) from M. tuberculosis. The pore constriction at Val21 is widened to ~6 A diameter compared to ~3 A in the closed state, but remains hydrophobic and likely non-conducting, representing an expanded intermediate state between the closed and open conformations.
+SaMscL is the mechanosensitive channel of large conductance from Staphylococcus aureus, a bacterial ion channel that protects cells from lysis upon acute osmotic down-shock. The crystal structure of a C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) mutant (CΔ26, residues 1-94) was determined at 3.8 A resolution, revealing a tetrameric channel with both transmembrane helices (TM1 and TM2) tilted away from the membrane normal at angles close to those inferred for the open state. TM1 and TM2 are tilted 49 degrees and 59 degrees with respect to the pore axis, significantly larger than the 36-38 degrees in the closed-state pentameric [MSCL](/xray-mp-wiki/proteins/other-ion-channels/mscl/) from M. tuberculosis. The pore constriction at Val21 is widened to ~6 A diameter compared to ~3 A in the closed state, but remains hydrophobic and likely non-conducting, representing an expanded intermediate state between the closed and open conformations.
 
 ## Structure Determination
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature08277 | (deposited; referenced PDB 2OAR for MtMscL comparison) | 3.8 A | Tetragonal (four-fold crystallographic axis coincides with molecular symmetry) | SaMscL C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) mutant (CΔ26, residues 1-94); one subunit per asymmetric unit | None |
+| doi/10.1038##nature08277 | (deposited; referenced PDB 2OAR for MtMscL comparison) | 3.8 A | Tetragonal (four-fold crystallographic axis coincides with molecular symmetry) | SaMscL C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) mutant (CΔ26, residues 1-94); one subunit per asymmetric unit | None |
 
 ## Expression and Purification
 
@@ -72,12 +72,12 @@ Removal of 26 C-terminal residues (residues 95-120) lowers the energy barrier fo
 ## Cross-References
 
 - [MscL (Mycobacterium tuberculosis)](/xray-mp-wiki/proteins/other-ion-channels/mscl/) — Related mechanosensitive channel from M. tuberculosis; closed-state pentameric structure (PDB 2OAR) compared to the SaMscL expanded intermediate
-- [Mechanosensitive Gating](/xray-mp-wiki/concepts/mechanosensitive-gating/) — SaMscL is a mechanosensitive ion channel; the structure reveals the expanded intermediate in the gating pathway
-- [Force-from-Lipid Principle](/xray-mp-wiki/concepts/force-from-lipid-principle/) — MscL is directly gated by membrane tension via the force-from-lipid principle
+- [Mechanosensitive Gating](/xray-mp-wiki/concepts/transport-mechanisms/mechanosensitive-gating/) — SaMscL is a mechanosensitive ion channel; the structure reveals the expanded intermediate in the gating pathway
+- [Force-from-Lipid Principle](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/force-from-lipid-principle/) — MscL is directly gated by membrane tension via the force-from-lipid principle
 - [LDAO (Lauryldimethylamine Oxide)](/xray-mp-wiki/reagents/detergents/ldao/) — Detergent used for SaMscL purification and crystallization
 - [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/) — Buffer used in purification (10-50 mM Tris-HCl, pH 7.0-8.0)
 - [PEG 400](/xray-mp-wiki/reagents/additives/peg-400/) — Precipitant used in crystallization (24-30% PEG400)
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [MIRAS](/xray-mp-wiki/methods/structure-determination/miras/) — Method used in structure determination or purification
 - [MSCS](/xray-mp-wiki/proteins/voltage-gated-channels/mscs/) — Related protein structure

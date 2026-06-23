@@ -73,8 +73,8 @@ their role in ligand recognition.
 - [CP-376395](/xray-mp-wiki/reagents/ligands/cp-376395/) — Inverse agonist ligand used in CRF1R crystal structure
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used for CRF1R StaR-T4L crystallization
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for solubilization and purification
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — CRF1R 105 truncation construct used alongside StaR variants
-- [Non-Crystallographic Symmetry (NCS)](/xray-mp-wiki/concepts/non-crystallographic-symmetry/) — Three CRF1R molecules in asymmetric unit related by NCS
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — CRF1R 105 truncation construct used alongside StaR variants
+- [Non-Crystallographic Symmetry (NCS)](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) — Three CRF1R molecules in asymmetric unit related by NCS
 - [Human Beta2-Adrenergic Receptor (beta2 AR)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Class A GPCR structural comparison; CRF1R compared with beta2AR structures
 - [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) — Buffer used in running buffer for FSEC analysis (50 mM, pH 7.5)
 - [Cp 376395](/xray-mp-wiki/reagents/ligands/cp-376395/) — Referenced in the context of Cp 376395

@@ -126,9 +126,9 @@ in the cryogenic structure.
 ## Cross-References
 
 - [SLAC1 (SLOW ANION CHANNEL 1 from Arabidopsis thaliana)](/xray-mp-wiki/proteins/other-ion-channels/slac1/) — HiTehA is the bacterial homologue of plant SLAC1; structure used for homology modeling
-- [Anion Channel Gating via Phenylalanine Gate](/xray-mp-wiki/concepts/anion-channel-gating/) — Phe 262 in HiTehA (Phe 450 in SLAC1) is the conserved gating residue
+- [Anion Channel Gating via Phenylalanine Gate](/xray-mp-wiki/concepts/transport-mechanisms/anion-channel-gating/) — Phe 262 in HiTehA (Phe 450 in SLAC1) is the conserved gating residue
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — First in situ room-temperature synchrotron X-ray structure of a membrane protein
-- [In situ Crystallography](/xray-mp-wiki/concepts/in-situ-crystallography/) — HiTehA was the first membrane protein structure determined by in situ data collection
+- [In situ Crystallography](/xray-mp-wiki/concepts/methods-techniques/in-situ-crystallography/) — HiTehA was the first membrane protein structure determined by in situ data collection
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [SEC-MALS](/xray-mp-wiki/methods/quality-assessment/sec-mals/) — Method used in structure determination or purification
 - [TEHA](/xray-mp-wiki/proteins/other-ion-channels/teha/) — Related protein structure

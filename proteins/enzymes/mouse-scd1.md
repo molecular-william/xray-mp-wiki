@@ -22,7 +22,7 @@ Mouse [Stearoyl-CoA](/xray-mp-wiki/reagents/ligands/stearoyl-coa/) desaturase 1 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1016##j.jmb.2020.05.017 | 6WF2 | 3.5 A | P212121 | mDeltaSCD1 (residues 41-361), N-terminal 2-23 deletion, iron-containing diiron center | [Oleoyl-CoA](/xray-mp-wiki/reagents/ligands/oleoyl-coa/) |
-| doi/10.1038##nature14549 | 4YMK | 2.6 A | P212121 | Mouse SCD1 Delta2-23 (residues 24-355), N-terminal 2-23 [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/), zinc-containing dimetal center | [Stearoyl-CoA](/xray-mp-wiki/reagents/ligands/stearoyl-coa/) |
+| doi/10.1038##nature14549 | 4YMK | 2.6 A | P212121 | Mouse SCD1 Delta2-23 (residues 24-355), N-terminal 2-23 [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), zinc-containing dimetal center | [Stearoyl-CoA](/xray-mp-wiki/reagents/ligands/stearoyl-coa/) |
 
 ## Expression and Purification
 
@@ -115,5 +115,5 @@ of 7.52 +/- 0.047, likely due to limited detergent micelle capacity.
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Primary lipid component of LCP crystallization matrix
 - [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) — Precipitant (PEG400) used in LCP crystallization of mSCD1
 - [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer used in purification (20 mM, pH 7.5)
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

@@ -116,6 +116,6 @@ characterized by pH 5.6-7.8.
 
 - [Bacteriorhodopsin (bR) from Halobacterium salinarum](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Archetypal light-driven proton pump; ESR shares the seven-helix retinylidene protein fold but with unique structural features
 - [Xanthorhodopsin](/xray-mp-wiki/proteins/rhodopsins/xanthorhodopsin/) — Eubacterial proton pump with dual chromophore; comparison of proton uptake regions reveals ESR's unique lysine proton donor
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — ESR is the first high-resolution proteorhodopsin structure within the microbial rhodopsin family
-- [Proton Pump Mechanism](/xray-mp-wiki/concepts/proton-pump-mechanism/) — ESR reveals unusual proton pumping features including lysine as proton donor and continuous water chain to bulk solvent
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — ESR is the first high-resolution proteorhodopsin structure within the microbial rhodopsin family
+- [Proton Pump Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/proton-pump-mechanism/) — ESR reveals unusual proton pumping features including lysine as proton donor and continuous water chain to bulk solvent
 - [n-Dodecyl-beta-D-Maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for solubilization and purification of ESR

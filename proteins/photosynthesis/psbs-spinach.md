@@ -80,7 +80,7 @@ Activation of PsbS by low pH involves a conformational change while maintaining 
 
 ## Cross-References
 
-- [Non-photochemical Quenching (NPQ) in LHC-II](/xray-mp-wiki/concepts/non-photochemical-quenching/) — PsbS is essential for qE-type NPQ in plants
+- [Non-photochemical Quenching (NPQ) in LHC-II](/xray-mp-wiki/concepts/miscellaneous/non-photochemical-quenching/) — PsbS is essential for qE-type NPQ in plants
 - [Spinach Light-Harvesting Complex II (LHC-II)](/xray-mp-wiki/proteins/photosynthesis/spinach-light-harvesting-complex-ii/) — PsbS belongs to the LHC superfamily; structural comparison with LHCII
 - [CP29 Light-Harvesting Complex from Spinach](/xray-mp-wiki/proteins/photosynthesis/cp29-spinach/) — Structural comparison with other LHC proteins; gel-filtration standard
 - [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) — PsbS is a photosystem II protein

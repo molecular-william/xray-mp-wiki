@@ -61,4 +61,4 @@ No comparison data available.
 - [Human P2Y12 Receptor](/xray-mp-wiki/proteins/gpcr/p2y12-receptor/) — Co-crystallized ligand; inverse agonist target
 - [Ticagrelor](/xray-mp-wiki/reagents/ligands/ticagrelor/) — Related P2Y12 inverse agonist; selatogrel ~100x more potent
 - [Elinogrel](/xray-mp-wiki/reagents/ligands/elinogrel/) — Related P2Y12 antagonist; showed off-target effects
-- [GPCR Active Conformation](/xray-mp-wiki/concepts/gpcr-active-conformation/) — Selatogrel stabilizes inactive conformation
+- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — Selatogrel stabilizes inactive conformation

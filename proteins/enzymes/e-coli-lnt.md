@@ -190,5 +190,5 @@ The P2 (second product complex) structures show the triacylated BLP product (Pam
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) — Additive used in purification or crystallization buffers
 - [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta) — Additive used in purification or crystallization buffers
 - [Pseudomonas aeruginosa Apolipoprotein N-Acyl Transferase (LntPae)](/xray-mp-wiki/proteins/enzymes/pseudomonas-aeruginosa-lnt/) — Orthologous Lnt from P. aeruginosa with 39% sequence identity
-- [Ping-Pong Catalytic Mechanism](/xray-mp-wiki/concepts/ping-pong-mechanism/) — Lnt N-acylation cycle provides definitive structural evidence for ping-pong mechanism; 9 structures capturing all reaction states
+- [Ping-Pong Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/ping-pong-mechanism/) — Lnt N-acylation cycle provides definitive structural evidence for ping-pong mechanism; 9 structures capturing all reaction states
 - [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Six of nine structures determined by cryo-EM showing all states of the Lnt reaction cycle

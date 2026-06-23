@@ -73,5 +73,5 @@ Upon binding the agonist NN9056, an approximately 1 Å inward shift of helix VI 
 ## Cross-References
 
 - [Human Cholecystokinin B Receptor (CCKᴅR)](/xray-mp-wiki/proteins/gpcr/human-cckb-receptor/) — Sister receptor with distinct peptide selectivity; complementary structures from same study
-- [Peptide Selectivity in Cholecystokinin Receptors](/xray-mp-wiki/concepts/cck-receptor-peptide-selectivity/) — Structural basis for CCKₐR preference for sulfated CCK over gastrin
-- [Stepwise Activation of Cholecystokinin Receptors](/xray-mp-wiki/concepts/cck-receptor-stepwise-activation/) — The CCKₐR structures in antagonist, agonist, and G protein-bound states reveal a stepwise activation mechanism
+- [Peptide Selectivity in Cholecystokinin Receptors](/xray-mp-wiki/concepts/signaling-receptors/cck-receptor-peptide-selectivity/) — Structural basis for CCKₐR preference for sulfated CCK over gastrin
+- [Stepwise Activation of Cholecystokinin Receptors](/xray-mp-wiki/concepts/signaling-receptors/cck-receptor-stepwise-activation/) — The CCKₐR structures in antagonist, agonist, and G protein-bound states reveal a stepwise activation mechanism

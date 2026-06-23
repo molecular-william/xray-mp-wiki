@@ -108,6 +108,6 @@ also showed inverse agonist activity in this assay.
 - [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) — Detergent used in IMAC wash and SEC buffers
 - [T4 Lysozyme (T4L) fusion](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — mT4L insertion in ICL3 enabled crystallization
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used for ETB receptor crystallization
-- [GPCR Active Conformation](/xray-mp-wiki/concepts/gpcr-active-conformation/) — IRL2500 stabilizes the inactive conformation, relevant to GPCR activation mechanism
+- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — IRL2500 stabilizes the inactive conformation, relevant to GPCR activation mechanism
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Leukotriene B4 Receptor 1 (BLT1) — Guinea Pig and Human](/xray-mp-wiki/proteins/gpcr/blt1/) — Related protein structure

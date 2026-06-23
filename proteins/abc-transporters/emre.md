@@ -91,9 +91,9 @@ The crystal structure agrees closely with helical density from low-resolution EM
 
 ## Cross-References
 
-- [Antibiotic Efflux Pump](/xray-mp-wiki/concepts/antibiotic-efflux-pump/) — EmrE is a multidrug efflux pump belonging to the SMR family
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — EmrE functions via dual-topology alternating access
-- [SMR (Small Multidrug Resistance) Family](/xray-mp-wiki/concepts/sm-family/) — EmrE is the founding member of the SMR family
+- [Antibiotic Efflux Pump](/xray-mp-wiki/concepts/transport-mechanisms/antibiotic-efflux-pump/) — EmrE is a multidrug efflux pump belonging to the SMR family
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — EmrE functions via dual-topology alternating access
+- [SMR (Small Multidrug Resistance) Family](/xray-mp-wiki/concepts/protein-families/sm-family/) — EmrE is the founding member of the SMR family
 - [Decylmaltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Primary detergent used for EmrE purification and crystallization
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Reference detergent for SMR family purification
 - [Lauryldimethylamine N-oxide (LDAO)](/xray-mp-wiki/reagents/detergents/ldao/) — Used as crystallization additive

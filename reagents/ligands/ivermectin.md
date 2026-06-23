@@ -59,5 +59,5 @@ No comparison data available.
 ## Cross-References
 
 - [Human Glycine Receptor Alpha 3 (GlyRalpha3)](/xray-mp-wiki/proteins/cys-loop-receptors/glyr-alpha3/) — Primary target in this study; crystal structure resolved at 2.85 A and 3.08 A
-- [Positive Allosteric Modulation](/xray-mp-wiki/concepts/positive-allosteric-modulation/) — Ivermectin acts as a positive allosteric modulator of Cys-loop receptors
-- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/allosteric-regulation/) — Ivermectin binding mechanism involves allosteric modulation of channel gating
+- [Positive Allosteric Modulation](/xray-mp-wiki/concepts/structural-mechanisms/positive-allosteric-modulation/) — Ivermectin acts as a positive allosteric modulator of Cys-loop receptors
+- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — Ivermectin binding mechanism involves allosteric modulation of channel gating

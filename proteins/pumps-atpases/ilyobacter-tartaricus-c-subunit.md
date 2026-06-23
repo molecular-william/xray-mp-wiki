@@ -73,6 +73,6 @@ The overall fold of helices H3 and H4 of E. hirae NtpK is very similar to the c 
 
 - [V-Type Na+-ATPase Rotor Ring (NtpK10) from Enterococcus hirae](/xray-mp-wiki/proteins/pumps-atpases/ehirae-v-atpase-k-ring/) — V-ATPase rotor ring with related structure and function
 - [Bovine F1-ATPase (Mitochondrial ATP Synthase Catalytic Domain)](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) — F1 catalytic domain of the same ATP synthase class
-- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/f1-atpase-rotary-mechanism/) — Rotary mechanism of F-ATPases
+- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/) — Rotary mechanism of F-ATPases
 - [Sodium Acetate](/xray-mp-wiki/reagents/buffers/sodium-acetate/) — Buffer component in purification or crystallization
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used in purification or crystallization

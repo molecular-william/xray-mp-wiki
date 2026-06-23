@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-UapA from Aspergillus nidulans is a high-affinity purine/H+ symporter specific for xanthine and uric acid, belonging to the nucleobase/ascorbate transporter (NAT) family. The crystal structure of a thermostabilized construct (UapA-G411VΔ1-11) in complex with xanthine was determined at 3.7 A resolution. UapA forms a homodimer in the crystals with dimer interactions formed exclusively through the gate domain. The structure reveals UapA in an inward-facing conformation with xanthine bound to residues in the core domain. Molecular dynamics simulations suggest that Arg481 from the opposing monomer approaches the central binding cavity, creating a specificity barrier and contributing to fine-tuning substrate selectivity. Dominant negative mutant analysis is consistent with dimerization playing a key role in transport. UapA is postulated to function by an [Elevator Mechanism](/xray-mp-wiki/concepts/elevator-mechanism/) shared with other structurally homologous transporters including anion exchangers and prestin.
+UapA from Aspergillus nidulans is a high-affinity purine/H+ symporter specific for xanthine and uric acid, belonging to the nucleobase/ascorbate transporter (NAT) family. The crystal structure of a thermostabilized construct (UapA-G411VΔ1-11) in complex with xanthine was determined at 3.7 A resolution. UapA forms a homodimer in the crystals with dimer interactions formed exclusively through the gate domain. The structure reveals UapA in an inward-facing conformation with xanthine bound to residues in the core domain. Molecular dynamics simulations suggest that Arg481 from the opposing monomer approaches the central binding cavity, creating a specificity barrier and contributing to fine-tuning substrate selectivity. Dominant negative mutant analysis is consistent with dimerization playing a key role in transport. UapA is postulated to function by an [Elevator Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/elevator-mechanism/) shared with other structurally homologous transporters including anion exchangers and prestin.
 
 
 ## Structure Determination
@@ -51,7 +51,7 @@ UapA from Aspergillus nidulans is a high-affinity purine/H+ symporter specific f
 | Reservoir | 0.1% MES pH 6.5, 30% [PEG300](/xray-mp-wiki/reagents/additives/peg300/), 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 1% n-hexyl-beta-D-glucopyranoside |
 | Temperature | 20 C |
 | Growth time | overnight |
-| Notes | Crystals showed anisotropic diffraction; best crystals diffracted to 3.5 A in strongest direction. Space group P2_1 with two molecules per asymmetric unit. Initial phases by SIRAS using TaBr-soaked crystals (overnight soak with saturating TaBr). Data collected at Diamond Light Source. Phasing with SHELX and SHARP. Refinement with PHENIX including DEN refinement, Rosetta refinement, [NCS](/xray-mp-wiki/concepts/non-crystallographic-symmetry/) averaging, and B-factor sharpening. Final R = 29.6%, Rfree = 32.7%. 8-bromoxanthine derivative used for anomalous phasing. |
+| Notes | Crystals showed anisotropic diffraction; best crystals diffracted to 3.5 A in strongest direction. Space group P2_1 with two molecules per asymmetric unit. Initial phases by SIRAS using TaBr-soaked crystals (overnight soak with saturating TaBr). Data collected at Diamond Light Source. Phasing with SHELX and SHARP. Refinement with PHENIX including DEN refinement, Rosetta refinement, [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) averaging, and B-factor sharpening. Final R = 29.6%, Rfree = 32.7%. 8-bromoxanthine derivative used for anomalous phasing. |
 
 
 ## Biological / Functional Insights
@@ -74,16 +74,16 @@ Co-expression of wild-type UapA with transport-deficient mutants (G411V, Q408P, 
 
 ### Postulated elevator transport mechanism
 
-Based on structural homology with [Uracil:Proton Symporter UraA from Escherichia coli](/xray-mp-wiki/proteins/slc-transporters/uraA/), anion exchanger 1 (AE1), and SLC26 transporters, UapA is proposed to function by an [Elevator Mechanism](/xray-mp-wiki/concepts/elevator-mechanism/). The core domain containing the substrate-binding site moves relative to the fixed gate domain, effectively carrying xanthine across the membrane. The G411V mutation (which sterically hinders core domain sliding) retains binding but abolishes transport, consistent with this mechanism.
+Based on structural homology with [Uracil:Proton Symporter UraA from Escherichia coli](/xray-mp-wiki/proteins/slc-transporters/uraA/), anion exchanger 1 (AE1), and SLC26 transporters, UapA is proposed to function by an [Elevator Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/elevator-mechanism/). The core domain containing the substrate-binding site moves relative to the fixed gate domain, effectively carrying xanthine across the membrane. The G411V mutation (which sterically hinders core domain sliding) retains binding but abolishes transport, consistent with this mechanism.
 
 
 ## Cross-References
 
 - [Uracil:Proton Symporter UraA from Escherichia coli](/xray-mp-wiki/proteins/slc-transporters/uraA/) — Homologous NAT/NCS2 family transporter with the same 7+7 TM fold
-- [Elevator Mechanism](/xray-mp-wiki/concepts/elevator-mechanism/) — UapA proposed to function via elevator mechanism based on structural homology
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Elevator mechanism is a specific variant of alternating access
-- [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/rocker-switch-mechanism/) — Related alternating-access mechanism; gate domain motions contribute to transport
-- [NCS](/xray-mp-wiki/concepts/non-crystallographic-symmetry/) — Related biological concept
+- [Elevator Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/elevator-mechanism/) — UapA proposed to function via elevator mechanism based on structural homology
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Elevator mechanism is a specific variant of alternating access
+- [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/) — Related alternating-access mechanism; gate domain motions contribute to transport
+- [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification
 - [PEG300](/xray-mp-wiki/reagents/additives/peg300/) — Additive used in purification or crystallization buffers

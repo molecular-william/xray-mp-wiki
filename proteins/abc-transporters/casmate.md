@@ -96,8 +96,8 @@ group D, suggesting CasMATE possesses a NorM-like cation-binding site.
 ## Cross-References
 
 - [NtMATE2 (Nicotiana tabacum MATE2)](/xray-mp-wiki/proteins/abc-transporters/ntmate2/) — Another eukaryotic MATE transporter from tobacco; NtMATE2 was crystallized using CasMATE (PDB 5XJJ) as the [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement) search model
-- [Major Facilitator Superfamily](/xray-mp-wiki/concepts/mfs-transporter/) — MATE transporters are secondary transporters related to MFS family in structural and mechanistic features
-- [Rocker-Switch Mechanism in MFS Transporters](/xray-mp-wiki/concepts/rocker-switch-mechanism/) — MATE transporters operate via the rocker-switch alternating-access mechanism
+- [Major Facilitator Superfamily](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — MATE transporters are secondary transporters related to MFS family in structural and mechanistic features
+- [Rocker-Switch Mechanism in MFS Transporters](/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/) — MATE transporters operate via the rocker-switch alternating-access mechanism
 - [N-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — 2% [DDM](/xray-mp-wiki/reagents/detergents/ddm) used for initial membrane solubilization of CasMATE
 - [Lauryl Maltose Neopentyl Glycol (LMNG)](/xray-mp-wiki/reagents/detergents/lmng/) — 0.03% [LMNG](/xray-mp-wiki/reagents/detergents/lmng) used throughout purification for protein stabilization
 - [Cholesterol Hydrogen Succinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — 0.003% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate) used during purification and LCP crystallization

@@ -51,6 +51,6 @@ No comparison data available.
 
 - [AvGluR1 LBD](/xray-mp-wiki/proteins/other-ion-channels/avglur1/) — Neutral amino acid ligand with chloride-mediated binding mechanism
 - [L-Serine](/xray-mp-wiki/reagents/substrates/l-serine/) — Another neutral amino acid ligand using chloride ion as surrogate
-- [Allosteric Regulation](/xray-mp-wiki/concepts/allosteric-regulation/) — Anion-mediated ligand binding as allosteric mechanism
+- [Allosteric Regulation](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — Anion-mediated ligand binding as allosteric mechanism
 - [FSEC](/xray-mp-wiki/methods/quality-assessment/fluorescence-size-exclusion-chromatography/) — Method used in structure determination or purification
 - [LEUT](/xray-mp-wiki/proteins/enzymes/leut/) — Related protein structure

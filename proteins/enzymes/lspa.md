@@ -128,7 +128,7 @@ LspA processes 175 different lipoproteins in P. aeruginosa. The structure has gr
 - [Myxovirescin A1](/xray-mp-wiki/reagents/ligands/myxovirescin/) — Natural macrolactam antibiotic that inhibits LspA
 - [n-Dodecyl-beta-D-Maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for membrane solubilization and purification of LspMrs
 - [Lipidic Cubic Phase (LCP) Crystallization](/xray-mp-wiki/methods/crystallization/lcp/) — Crystallization method used to obtain LspMrs-antibiotic complex structures
-- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/intramembrane-proteolysis/) — LspA catalyzes signal peptide cleavage at the membrane interface
+- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-proteolysis/) — LspA catalyzes signal peptide cleavage at the membrane interface
 - [SeMet SAD Phasing](/xray-mp-wiki/methods/structure-determination/semet-sad-phasing/) — Phasing method used for the 2.8 A P. aeruginosa LspA structure
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification

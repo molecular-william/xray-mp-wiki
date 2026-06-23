@@ -84,7 +84,7 @@ AqpM contains the canonical aquaporin NPA (Asn-Pro-Ala) motifs (N82-P83-A84 from
 
 ## Cross-References
 
-- [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) — AqpM is a member of the aquaporin superfamily; first structurally characterized archaeal aquaporin
+- [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — AqpM is a member of the aquaporin superfamily; first structurally characterized archaeal aquaporin
 - [Aquaporin-1](/xray-mp-wiki/proteins/other-ion-channels/aqp1/) — Water-selective aquaporin used as comparison for selectivity filter dimensions and conductance
 - [Aquaporin Z (AqpZ)](/xray-mp-wiki/proteins/other-ion-channels/aquaporin-z/) — Bacterial water-specific aquaporin used for comparison of monomer-monomer interface
 - [GlpF (Glycerol Facilitator from E. coli)](/xray-mp-wiki/proteins/other-ion-channels/glpf/) — Aquaglyceroporin used as comparison for selectivity filter dimensions and tetramer stability

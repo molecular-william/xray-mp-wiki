@@ -80,7 +80,7 @@ HR assembles as trimers around a central patch containing three molecules of pal
 
 ## Cross-References
 
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — HR is a member of the archaeal rhodopsin subfamily of microbial rhodopsins; comparison with BR reveals mechanistic equivalence of ion transport
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — HR is a member of the archaeal rhodopsin subfamily of microbial rhodopsins; comparison with BR reveals mechanistic equivalence of ion transport
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — BR is the proton-pumping archaeal rhodopsin; structural comparison reveals the mechanistic basis for chloride vs proton transport
 - [Pharaonis Halorhodopsin (phR)](/xray-mp-wiki/proteins/rhodopsins/pharaonis-halorhodopsin/) — Homologous light-driven chloride pump from Natronobacterium pharaonis; related halorhodopsin with similar function
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers

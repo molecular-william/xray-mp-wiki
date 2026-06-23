@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-ZntB is a distant homolog of the [CorA Mg2+ Transporter](/xray-mp-wiki/concepts/cora-mg-transporter/) within the [Metal Ion Transporter (MIT) Superfamily](/xray-mp-wiki/concepts/mit-superfamily/). ZntB from Salmonella typhimurium facilitates efflux of Zn2+ and Cd2+, but not Mg2+. The crystal structure of the cytoplasmic domain of ZntB from Vibrio parahaemolyticus (Vp-ZntB) was determined at 1.90 A resolution, revealing a funnel-shaped homopentamer composed of two subdomains per monomer: an N-terminal alpha/beta/alpha sandwich (residues 1-125) and a C-terminal coiled-coil subdomain (residues 126-203). The structure is similar to the full-length CorA from Thermatoga maritima but differs from previously reported dimeric structures of truncated CorA intracellular domains. No Zn2+ or Cd2+ binding sites were identified; instead, 25 well-defined Cl- ions were observed bound to the protein. Continuum electrostatics calculations suggest the central pore is highly attractive for cations, especially divalents, with bound Cl- ions enhancing cation transport.
+ZntB is a distant homolog of the [CorA Mg2+ Transporter](/xray-mp-wiki/concepts/transport-mechanisms/cora-mg-transporter/) within the [Metal Ion Transporter (MIT) Superfamily](/xray-mp-wiki/concepts/transport-mechanisms/mit-superfamily/). ZntB from Salmonella typhimurium facilitates efflux of Zn2+ and Cd2+, but not Mg2+. The crystal structure of the cytoplasmic domain of ZntB from Vibrio parahaemolyticus (Vp-ZntB) was determined at 1.90 A resolution, revealing a funnel-shaped homopentamer composed of two subdomains per monomer: an N-terminal alpha/beta/alpha sandwich (residues 1-125) and a C-terminal coiled-coil subdomain (residues 126-203). The structure is similar to the full-length CorA from Thermatoga maritima but differs from previously reported dimeric structures of truncated CorA intracellular domains. No Zn2+ or Cd2+ binding sites were identified; instead, 25 well-defined Cl- ions were observed bound to the protein. Continuum electrostatics calculations suggest the central pore is highly attractive for cations, especially divalents, with bound Cl- ions enhancing cation transport.
 
 ## Structure Determination
 
@@ -65,7 +65,7 @@ The Vp-ZntB cytoplasmic domain forms a funnel-shaped homopentamer similar to ful
 
 ### Comparison with CorA and pentamer stability
 
-The Vp-ZntB homopentamer is similar to full-length [Thermotoga maritima CorA (TmCorA) Magnesium Channel](/xray-mp-wiki/proteins/slc-transporters/tm-cora/), but the two reported CorA intracellular domain dimers ([Thermotoga maritima CorA (TmCorA) Magnesium Channel](/xray-mp-wiki/proteins/slc-transporters/tm-cora/) 1-266 and Af-CorA) are likely artifacts of extensive [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) of the stalk helix alpha6. The monomer-monomer interface buries ~2100 A2 per pair with favorable Gibbs free energy Delta G of -8.6 kcal/mol, indicating the intracellular domain is sufficient to assemble a pentamer. The full-length Vp-ZntB model based on [Thermotoga maritima CorA (TmCorA) Magnesium Channel](/xray-mp-wiki/proteins/slc-transporters/tm-cora/) shows a more open pore than [Thermotoga maritima CorA (TmCorA) Magnesium Channel](/xray-mp-wiki/proteins/slc-transporters/tm-cora/), with charged residue constriction sites (D235, K238, R241, D242) and transmembrane constrictions (S263, F259, F252).
+The Vp-ZntB homopentamer is similar to full-length [Thermotoga maritima CorA (TmCorA) Magnesium Channel](/xray-mp-wiki/proteins/slc-transporters/tm-cora/), but the two reported CorA intracellular domain dimers ([Thermotoga maritima CorA (TmCorA) Magnesium Channel](/xray-mp-wiki/proteins/slc-transporters/tm-cora/) 1-266 and Af-CorA) are likely artifacts of extensive [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) of the stalk helix alpha6. The monomer-monomer interface buries ~2100 A2 per pair with favorable Gibbs free energy Delta G of -8.6 kcal/mol, indicating the intracellular domain is sufficient to assemble a pentamer. The full-length Vp-ZntB model based on [Thermotoga maritima CorA (TmCorA) Magnesium Channel](/xray-mp-wiki/proteins/slc-transporters/tm-cora/) shows a more open pore than [Thermotoga maritima CorA (TmCorA) Magnesium Channel](/xray-mp-wiki/proteins/slc-transporters/tm-cora/), with charged residue constriction sites (D235, K238, R241, D242) and transmembrane constrictions (S263, F259, F252).
 
 ### No metal ion binding in cytoplasmic domain
 
@@ -78,11 +78,11 @@ D242 of Vp-ZntB forms an "aspartate ring" at the narrowest pore segment, with fi
 
 ## Cross-References
 
-- [CorA Mg2+ Transporter](/xray-mp-wiki/concepts/cora-mg-transporter/) — ZntB is a distant homolog of the CorA Mg2+ transporter within the MIT superfamily
+- [CorA Mg2+ Transporter](/xray-mp-wiki/concepts/transport-mechanisms/cora-mg-transporter/) — ZntB is a distant homolog of the CorA Mg2+ transporter within the MIT superfamily
 - [NhaA Na+/H+ Antiporter](/xray-mp-wiki/proteins/slc-transporters/nhaa/) — Related membrane transporter with ion transport mechanism
 - [Metal Ion Transporter (MIT) Superfamily](/xray-mp-wiki/concepts/metal-ion-transporter-superfamily/) — ZntB belongs to the MIT superfamily of metal ion transporters
-- [Metal Ion Transporter (MIT) Superfamily](/xray-mp-wiki/concepts/mit-superfamily/) — Related biological concept
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Metal Ion Transporter (MIT) Superfamily](/xray-mp-wiki/concepts/transport-mechanisms/mit-superfamily/) — Related biological concept
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Thermotoga maritima CorA (TmCorA) Magnesium Channel](/xray-mp-wiki/proteins/slc-transporters/tm-cora/) — Related protein structure
 - [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers

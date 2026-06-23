@@ -48,5 +48,5 @@ No comparison data available.
 - [Influenza A M2 Proton Channel](/xray-mp-wiki/proteins/other-ion-channels/influenza-a-m2-proton-channel/) — Primary target of amantadine; high-resolution crystal structure (6BKK) solved
 - [Rimantadine](/xray-mp-wiki/reagents/ligands/rimantadine/) — Related adamantyl-amine inhibitor with similar binding mechanism
 - [SPIRO (Spiro-adamantyl amine)](/xray-mp-wiki/reagents/ligands/spiro/) — Extended adamantyl-amine derivative that binds deeper in M2 channel
-- [Water Networks in GPCR Ligand Binding](/xray-mp-wiki/concepts/water-network-in-ligand-binding/) — Amantadine binding relies on water-mediated interactions in M2 channel
+- [Water Networks in GPCR Ligand Binding](/xray-mp-wiki/concepts/signaling-receptors/water-network-in-ligand-binding/) — Amantadine binding relies on water-mediated interactions in M2 channel
 - [POPC](/xray-mp-wiki/reagents/lipids/popc/) — Additive used in purification or crystallization buffers

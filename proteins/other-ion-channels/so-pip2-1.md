@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia oleracea) that functions as a water-selective channel in the cell plasma membrane. It is one of 13 well-conserved PIPs in the model plant Arabidopsis thaliana and belongs to the [PIP2](/xray-mp-wiki/reagents/lipids/phosphatidylinositol-4-5-bisphosphate/) subfamily. SoPIP2;1 forms tetramers with each monomer containing six transmembrane helices and two membrane-inserted non-membrane-spanning helices, following the conserved [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) hourglass architecture. The channel is regulated by phosphorylation and pH-dependent gating, where loop D acts as a hydrophobic gate that can cap or open the cytoplasmic pore entrance. Mutagenesis and structural studies of phosphorylation-mimicking mutants (S115E, S274E, S188E) have provided additional insight into the gating mechanism, revealing that the S115E mutation disrupts the divalent cation binding site and extends TM helix 1, while the S188E mutant significantly increases water transport activity due to interactions with the C-terminus.
+SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia oleracea) that functions as a water-selective channel in the cell plasma membrane. It is one of 13 well-conserved PIPs in the model plant Arabidopsis thaliana and belongs to the [PIP2](/xray-mp-wiki/reagents/lipids/phosphatidylinositol-4-5-bisphosphate/) subfamily. SoPIP2;1 forms tetramers with each monomer containing six transmembrane helices and two membrane-inserted non-membrane-spanning helices, following the conserved [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) hourglass architecture. The channel is regulated by phosphorylation and pH-dependent gating, where loop D acts as a hydrophobic gate that can cap or open the cytoplasmic pore entrance. Mutagenesis and structural studies of phosphorylation-mimicking mutants (S115E, S274E, S188E) have provided additional insight into the gating mechanism, revealing that the S115E mutation disrupts the divalent cation binding site and extends TM helix 1, while the S188E mutant significantly increases water transport activity due to interactions with the C-terminus.
 
 
 ## Structure Determination
@@ -101,8 +101,8 @@ SoPIP2;1 is a plasma membrane intrinsic protein (PIP) from spinach (Spinacia ole
 
 The most striking structural feature of SoPIP2;1 is the extended loop D, which
 is four to seven residues longer in PIP subfamily members compared to other
-[Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) homologues. In the closed conformation, this extended loop folds
-underneath the [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) and caps the water pore from the cytosol. A key residue
+[Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) homologues. In the closed conformation, this extended loop folds
+underneath the [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) and caps the water pore from the cytosol. A key residue
 is the fully conserved Leu 197 of loop D, which inserts into a cavity near the
 channel entrance. Combined with His 99, Val 104, and Leu 108, Leu 197 creates a
 hydrophobic barrier blocking the pore. HOLE calculations establish that in the
@@ -220,7 +220,7 @@ throughout all plant plasma membrane aquaporins. Tyr 149 of [Aquaporin 0 (AQP0) 
 been suggested to gate [Aquaporin 0 (AQP0) from Bos taurus](/xray-mp-wiki/proteins/other-ion-channels/aqp0/), overlays almost exactly with Leu 197 of SoPIP2;1.
 However, for [Aquaporin 0 (AQP0) from Bos taurus](/xray-mp-wiki/proteins/other-ion-channels/aqp0/) only one amino-acid residue blocks the pore, whereas several
 residues of loop D cap the channel in SoPIP2;1. The PIP subfamily members have
-a loop D that is typically four to seven residues longer than other [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/)
+a loop D that is typically four to seven residues longer than other [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
 homologues, providing the extended gating apparatus. The conserved residues
 involved in gating include Ser 115, Ser 274, His 193, Leu 197, Arg 118, Glu
 31, Asp 28, and Asp 191, which are all strictly or near-strictly conserved in
@@ -229,7 +229,7 @@ PIPs.
 
 ## Cross-References
 
-- [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) — SoPIP2;1 is a plant plasma membrane aquaporin; shares the conserved hourglass architecture and NPA motif with all aquaporins
+- [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — SoPIP2;1 is a plant plasma membrane aquaporin; shares the conserved hourglass architecture and NPA motif with all aquaporins
 - [Aquaporin-1 (AQP1)](/xray-mp-wiki/proteins/other-ion-channels/aqp1/) — Bovine AQP1 used as molecular replacement model for SoPIP2;1 structure; structural comparison between animal and plant aquaporins
 - [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Used for crystallizing both closed and open conformations of SoPIP2;1
 - [Pichia pastoris Expression System](/xray-mp-wiki/methods/expression-systems/pichia-pastoris/) — SoPIP2;1 was heterologously expressed and overproduced in Pichia pastoris

@@ -95,4 +95,4 @@ The thermostabilizing mutations R124Y(1,55), D154A(2,57), K270A(5,35), DS342A(6,
 - [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/) — Salt component in all purification buffers
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — TALON resin-based His-tag affinity purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Superdex200 SEC used for final purification and complex verification
-- [GPCR Active Conformation](/xray-mp-wiki/concepts/gpcr-active-conformation/) — S6b-bound receptor shows outward displacement of TM5 consistent with active conformation
+- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — S6b-bound receptor shows outward displacement of TM5 consistent with active conformation

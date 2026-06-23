@@ -173,11 +173,11 @@ Analysis of the AdiC structure reveals that the 5+5 inverted repeat topology all
 
 - [GadC Glutamate/GABA Antiporter](/xray-mp-wiki/proteins/slc-transporters/gadc/) — Homologous APC superfamily member; structural comparison for transport mechanism
 - [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) — Structural template with similar fold; substrate bound in LeuT coincides with AdiC substrate binding site
-- [APC Superfamily (Amino Acid-Polyamine-Organocation Transporter Family)](/xray-mp-wiki/concepts/apc-superfamily/) — AdiC belongs to the APC superfamily of membrane proteins
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — AdiC operates via alternating access between outward-open and inward-open conformations
-- [Major Facilitator Superfamily](/xray-mp-wiki/concepts/mfs-transporter/) — MFS transporters share structural similarities with APC superfamily transporters
-- [Virtual Proton Pump](/xray-mp-wiki/concepts/virtual-proton-pump/) — AdiC is the prototypical virtual proton pump in E. coli acid resistance
-- [Substrate-Induced Transition Fit in 5+5 Inverted Repeat Transporters](/xray-mp-wiki/concepts/substrate-induced-transition-fit/) — AdiC N101A structure provides the first molecular clues on substrate-induced transition fit mechanism in 5+5 inverted repeat fold transporters
+- [APC Superfamily (Amino Acid-Polyamine-Organocation Transporter Family)](/xray-mp-wiki/concepts/transport-mechanisms/apc-superfamily/) — AdiC belongs to the APC superfamily of membrane proteins
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — AdiC operates via alternating access between outward-open and inward-open conformations
+- [Major Facilitator Superfamily](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — MFS transporters share structural similarities with APC superfamily transporters
+- [Virtual Proton Pump](/xray-mp-wiki/concepts/transport-mechanisms/virtual-proton-pump/) — AdiC is the prototypical virtual proton pump in E. coli acid resistance
+- [Substrate-Induced Transition Fit in 5+5 Inverted Repeat Transporters](/xray-mp-wiki/concepts/transport-mechanisms/substrate-induced-transition-fit/) — AdiC N101A structure provides the first molecular clues on substrate-induced transition fit mechanism in 5+5 inverted repeat fold transporters
 - [Decylmaltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Detergent used for AdiC purification and solubilization
 - [Fab21 Antibody Fragment](/xray-mp-wiki/reagents/antibodies/fab21/) — Fab fragment used to form complex for crystallographic phasing
 - [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) — SeMet derivatives used for anomalous dispersion phasing

@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-[Aquaporin](/xray-mp-wiki/concepts/aquaporin/) Z (AqpZ) is the
+[Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) Z (AqpZ) is the
 bacterial homolog of human aquaporin 1 and serves as a
 water-selective channel in Escherichia coli. AqpZ is a
 homotetramer of four functional monomeric channels, each
@@ -226,7 +226,7 @@ The 3.2 A tetrameric AqpZ (tAqpZ) structure in space group P4_1 22 revealed two 
 
 - [Glycerol Facilitator (GlpF)](/xray-mp-wiki/proteins/other-ion-channels/glycerol-facilitator/) — GlpF served as the aquaglyceroporin model for comparison of selectivity mechanisms; both are E. coli aquaporins
 - [OG (n-Octyl-beta-D-glucoside)](/xray-mp-wiki/reagents/detergents/og/) — Primary detergent for AqpZ solubilization and crystallization
-- [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) — AqpZ is a member of the aquaporin family of water channels
+- [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — AqpZ is a member of the aquaporin family of water channels
 - [Human Aquaporin 4](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-4/) — Related human aquaporin for structural comparison
 - [Human Aquaporin 2](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-2/) — Related human aquaporin for structural comparison
 - [Sodium Cacodylate](/xray-mp-wiki/reagents/buffers/sodium-cacodylate/) — Buffer used in AqpZ crystallization conditions

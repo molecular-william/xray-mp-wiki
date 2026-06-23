@@ -21,13 +21,13 @@ The human alpha-1B adrenergic receptor (alpha1B AR, ADRA1B) is a class A G prote
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41467-021-27911-3 | 7B6W | 2.87 A (anisotropy-corrected from 3.1 A) | Not specified in paper | Human alpha1B AR with 12 stabilizing mutations from CHESS directed evolution, N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) (residues 1-34 deleted), ICL3 deletion (residues K249-L283 deleted), and C-terminal [Designed Ankyrin Repeat Protein (DARPin)](/xray-mp-wiki/reagents/protein-tags/darpin/) D12 crystallization chaperone fused via AEDLVEDWE linker; expressed in E. coli
+| doi/10.1038##s41467-021-27911-3 | 7B6W | 2.87 A (anisotropy-corrected from 3.1 A) | Not specified in paper | Human alpha1B AR with 12 stabilizing mutations from CHESS directed evolution, N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (residues 1-34 deleted), ICL3 deletion (residues K249-L283 deleted), and C-terminal [Designed Ankyrin Repeat Protein (DARPin)](/xray-mp-wiki/reagents/protein-tags/darpin/) D12 crystallization chaperone fused via AEDLVEDWE linker; expressed in E. coli
  | (+)-Cyclazosin (inverse agonist) |
 
 ## Expression and Purification
 
 - **Expression system**: E. coli (inner membranes)
-- **Construct**: alpha1B AR_XTAL: N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) M1-N34 deleted, ICL3 K249-L283 deleted, 12 stabilizing mutations from directed evolution, [Designed Ankyrin Repeat Protein (DARPin)](/xray-mp-wiki/reagents/protein-tags/darpin/) D12 fused at C-terminus via AEDLVEDWE linker
+- **Construct**: alpha1B AR_XTAL: N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) M1-N34 deleted, ICL3 K249-L283 deleted, 12 stabilizing mutations from directed evolution, [Designed Ankyrin Repeat Protein (DARPin)](/xray-mp-wiki/reagents/protein-tags/darpin/) D12 fused at C-terminus via AEDLVEDWE linker
 
 
 ### Purification Workflow
@@ -75,7 +75,7 @@ The receptor was stabilized using CHESS-based directed evolution in E. coli and 
 ## Cross-References
 
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Method used in the study
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Key concept related to this protein
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Key concept related to this protein
 - [Designed Ankyrin Repeat Protein (DARPin)](/xray-mp-wiki/reagents/protein-tags/darpin/) — Key concept related to this protein
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein mentioned in the study
 - [1,2-Dihexanoyl-sn-glycero-3-phosphocholine (DHPC)](/xray-mp-wiki/reagents/detergents/dhpc/) — Reagent used in the study

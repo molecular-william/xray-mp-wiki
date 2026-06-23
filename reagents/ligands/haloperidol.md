@@ -63,7 +63,7 @@ No comparison data available.
 ## Cross-References
 
 - [Human D2 Dopamine Receptor (DRD2)](/xray-mp-wiki/proteins/gpcr/drd2/) — Primary target of haloperidol; co-crystallized in DRD2-haloperidol complex
-- [DRD2 Extended Binding Pocket (DRD2-EBP)](/xray-mp-wiki/concepts/drd2-extended-binding-pocket/) — Haloperidol binding revealed the second extended binding pocket (SEBP) in DRD2
+- [DRD2 Extended Binding Pocket (DRD2-EBP)](/xray-mp-wiki/concepts/structural-mechanisms/drd2-extended-binding-pocket/) — Haloperidol binding revealed the second extended binding pocket (SEBP) in DRD2
 - [Risperidone](/xray-mp-wiki/reagents/ligands/risperidone/) — Another antipsychotic co-crystallized with DRD2; structural comparison with haloperidol binding
 - [DRD4](/xray-mp-wiki/proteins/gpcr/d4-dopamine-receptor/) — Related protein structure
 - [Dopamine](/xray-mp-wiki/reagents/ligands/dopamine/) — Related ligand or cofactor

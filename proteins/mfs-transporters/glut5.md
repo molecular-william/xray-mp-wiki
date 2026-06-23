@@ -86,8 +86,8 @@ In the outward-facing conformation, conserved salt bridges form between the N- a
 
 ## Cross-References
 
-- [MFS Transporter](/xray-mp-wiki/concepts/mfs-transporter/) — GLUT5 belongs to the Major Facilitator Superfamily
-- [Sugar Porter Family](/xray-mp-wiki/concepts/sugar-porter-family/) — GLUT5 is a member of the sugar porter subfamily of MFS transporters
+- [MFS Transporter](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — GLUT5 belongs to the Major Facilitator Superfamily
+- [Sugar Porter Family](/xray-mp-wiki/concepts/protein-families/sugar-porter-family/) — GLUT5 is a member of the sugar porter subfamily of MFS transporters
 - [GLUT1](/xray-mp-wiki/proteins/mfs-transporters/glut1/) — Comparison with hGLUT1 inward-facing structure shows conservation of substrate-binding residues
 - [D-Fructose](/xray-mp-wiki/reagents/ligands/d-fructose/) — Primary substrate of GLUT5
 - [Tris](/xray-mp-wiki/reagents/buffers/tris/) — Referenced in glut5 text

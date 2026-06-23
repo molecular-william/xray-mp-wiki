@@ -57,4 +57,4 @@ No comparison data available.
 
 - [Acid-Sensing Ion Channel 1a](/xray-mp-wiki/proteins/other-ion-channels/asic1a/) — Primary target of MitTx; co-crystallized in open state
 - [Amiloride](/xray-mp-wiki/reagents/ligands/amiloride/) — Used in crystallization with MitTx-bound ASIC1a (4NTX structure)
-- [Sodium Channel Gating and Selectivity](/xray-mp-wiki/concepts/sodium-channel-gating/) — MitTx stabilizes open state of sodium-selective channel
+- [Sodium Channel Gating and Selectivity](/xray-mp-wiki/concepts/transport-mechanisms/sodium-channel-gating/) — MitTx stabilizes open state of sodium-selective channel

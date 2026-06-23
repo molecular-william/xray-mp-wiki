@@ -45,5 +45,5 @@ No comparison data available.
 - [Metabotropic Glutamate Receptor 5 (mGlu5)](/xray-mp-wiki/proteins/gpcr/metabotropic-glutamate-receptor-5/) — Reference NAM; defines MPEP allosteric site
 - [HTL14242 (Compound 25)](/xray-mp-wiki/reagents/ligands/htl14242/) — Second-generation NAM targeting same MPEP site
 - [Mavoglurant](/xray-mp-wiki/reagents/ligands/mavoglurant/) — Reference NAM; also binds to MPEP site
-- [Negative Allosteric Modulation](/xray-mp-wiki/concepts/negative-allosteric-modulation/) — MPEP is the prototypical mGlu5 NAM
+- [Negative Allosteric Modulation](/xray-mp-wiki/concepts/signaling-receptors/negative-allosteric-modulation/) — MPEP is the prototypical mGlu5 NAM
 - [M-MPEP](/xray-mp-wiki/reagents/ligands/m-mpep/) — Related ligand or cofactor

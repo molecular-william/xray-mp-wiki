@@ -21,7 +21,7 @@ The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##S0969-2126(96)00063-9 | 1LGH | 2.4 | P42₁2 | Native LH2 complex from Rhodospirillum molischianum. Octameric (α₈β₈) ring of α- and β-apoproteins with [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a (B800 and B850) and lycopene [Carotenoid](/xray-mp-wiki/reagents/ligands/carotenoid/) pigments. Asymmetric unit contains two αβ-heterodimers with 8-fold [NCS](/xray-mp-wiki/concepts/non-crystallographic-symmetry/). | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a (B800, B850), lycopene |
+| doi/10.1016##S0969-2126(96)00063-9 | 1LGH | 2.4 | P42₁2 | Native LH2 complex from Rhodospirillum molischianum. Octameric (α₈β₈) ring of α- and β-apoproteins with [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a (B800 and B850) and lycopene [Carotenoid](/xray-mp-wiki/reagents/ligands/carotenoid/) pigments. Asymmetric unit contains two αβ-heterodimers with 8-fold [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/). | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a (B800, B850), lycopene |
 
 ## Expression and Purification
 
@@ -90,5 +90,5 @@ The α- and β-apoproteins have marginal sequence homology (26% and 31% identity
 - [UDAO](/xray-mp-wiki/reagents/detergents/udao/) — Detergent used after exchange for crystallization
 - [Rps. viridis Photosynthetic Reaction Centre](/xray-mp-wiki/proteins/photosynthesis/rps-viridis-reaction-centre/) — Related photosynthetic membrane protein from purple bacteria
 - [Rhodobacter sphaeroides Reaction Centre with Zn-BChl](/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-centre-zn-bchl/) — Related photosynthetic complex from purple bacteria
-- [NCS](/xray-mp-wiki/concepts/non-crystallographic-symmetry/) — Related biological concept
+- [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) — Related biological concept
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification

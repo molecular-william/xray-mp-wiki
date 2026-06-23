@@ -2,7 +2,7 @@ title: Rotary ATPase Mechanism
 type: concept
 tags:
 - concept-transport-mechanism
-- subdirectory-concepts
+- subdirectory-enzyme-mechanisms
 sources:
 - doi/10.1038##370621a0
 - doi/10.1016##j.jmb.2012.04.012
@@ -28,7 +28,7 @@ cross_references:
   title: Spinach Chloroplast c14 Rotor Ring
   reason: First structure of an isolated c-ring rotor from a proton-driven ATPase,
     revealing conserved gear distance across different stoichiometries
-- path: /xray-mp-wiki/concepts/symmetry-mismatch-rotary-motor/
+- path: /xray-mp-wiki/concepts/structural-mechanisms/symmetry-mismatch-rotary-motor/
   title: Symmetry Mismatch in Rotary Molecular Motors
   reason: The 10-fold c-ring versus 3-fold F1 head represents a key symmetry mismatch
     enabling smooth rotation

@@ -34,13 +34,13 @@ bone disorders.
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41586-018-0046-x | 5ZBQ | 2.7 | P21 | Human Y1R with [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) fusion inserted at ICL3 between R241 and D250, F129(3.41)W mutation, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) (V359-I384), N-terminal HA signal sequence, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), C-terminal PreScission site and 10xHis tag | UR-MK299 (argininamide-type antagonist) |
-| doi/10.1038##s41586-018-0046-x | 5ZBH | 3.0 | C2221 | Human Y1R with [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) fusion at ICL3, F129(3.41)W mutation, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/), N-terminal HA signal sequence, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), C-terminal 10xHis tag | BMS-193885 (urea-based antagonist) |
+| doi/10.1038##s41586-018-0046-x | 5ZBQ | 2.7 | P21 | Human Y1R with [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) fusion inserted at ICL3 between R241 and D250, F129(3.41)W mutation, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (V359-I384), N-terminal HA signal sequence, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), C-terminal PreScission site and 10xHis tag | UR-MK299 (argininamide-type antagonist) |
+| doi/10.1038##s41586-018-0046-x | 5ZBH | 3.0 | C2221 | Human Y1R with [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) fusion at ICL3, F129(3.41)W mutation, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), N-terminal HA signal sequence, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), C-terminal 10xHis tag | BMS-193885 (urea-based antagonist) |
 
 ## Expression and Purification
 
 - **Expression system**: Spodoptera frugiperda (Sf9) cells, Bac-to-Bac baculovirus system
-- **Construct**: Engineered human Y1R with N-terminal HA signal sequence, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/); [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) fusion at ICL3 (between R241 and D250); F129(3.41)W mutation; C-terminal PreScission site and 10xHis tag; C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) after H384 (TCap). Ligand (UR-MK299 or BMS-193885) added at 1 uM.
+- **Construct**: Engineered human Y1R with N-terminal HA signal sequence, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/); [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) fusion at ICL3 (between R241 and D250); F129(3.41)W mutation; C-terminal PreScission site and 10xHis tag; C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) after H384 (TCap). Ligand (UR-MK299 or BMS-193885) added at 1 uM.
 
 ### Purification Workflow
 
@@ -114,7 +114,7 @@ upon binding.
 To facilitate structure determination, an engineered Y1R construct was
 designed with [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) inserted at the third intracellular loop (ICL3) between
 R241 and D250, the F129(3.41)W mutation for improved expression and
-stability, and a 25-residue C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) (V359-I384). The
+stability, and a 25-residue C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (V359-I384). The
 T4L-fusion strategy at ICL3 has been validated across multiple class A
 GPCR structures and was effective here for enabling diffraction-quality
 crystals of both Y1R-antagonist complexes.
@@ -125,11 +125,11 @@ crystals of both Y1R-antagonist complexes.
 - [Neurotensin Receptor 1 (NTS1)](/xray-mp-wiki/proteins/gpcr/neurotensin-receptor-1/) — Class A GPCR of the same beta-branch; comparison of ligand binding modes
 - [Orexin 1 Receptor (OX1)](/xray-mp-wiki/proteins/enzymes/orexin-1-receptor/) — Class A GPCR of the same beta-branch; comparison of ligand binding modes
 - [Orexin 2 Receptor (OX2)](/xray-mp-wiki/proteins/gpcr/orexin-2-receptor/) — Class A GPCR of the same beta-branch; comparison of ligand binding modes
-- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/gpcr-inactive-conformation/) — Y1R-UR-MK299 structure reveals antagonist-stabilized inactive state with Trp276(6.48) toggle switch in inactive conformation
-- [GPCR G-protein Coupling](/xray-mp-wiki/concepts/gpcr-g-protein-coupling/) — Y1R is a Gi/Go-coupled receptor; agonist NPY activates through G-protein signaling cascade
+- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — Y1R-UR-MK299 structure reveals antagonist-stabilized inactive state with Trp276(6.48) toggle switch in inactive conformation
+- [GPCR G-protein Coupling](/xray-mp-wiki/concepts/signaling-receptors/gpcr-g-protein-coupling/) — Y1R is a Gi/Go-coupled receptor; agonist NPY activates through G-protein signaling cascade
 - [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Y1R expressed in Sf9 cells using Bac-to-Bac baculovirus system
 - [n-Dodecyl-beta-D-Maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for Y1R purification and crystallization
 - [Cholesteryl Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — CHS used as additive during Y1R purification at 0.1% w/v
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Human NPY Y2 Receptor (Y2R, NPY2R)](/xray-mp-wiki/proteins/gpcr/human-y2-receptor-npy2r/) — Related NPY receptor subtype; comparison of antagonist-bound structures reveals ligand selectivity determinants

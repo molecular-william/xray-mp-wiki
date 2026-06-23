@@ -57,8 +57,8 @@ Collision-induced unfolding experiments showed that apo MscL and lipid-bound for
 
 ## Cross-References
 
-- [Mechanosensitive Gating in Ion Channels](/xray-mp-wiki/concepts/mechanosensitive-gating/) — MscL is a mechanosensitive ion channel; lipid binding modulates its mechanosensitivity
-- [Force-from-Lipid Principle in Mechanosensation](/xray-mp-wiki/concepts/force-from-lipid-principle/) — PI proposed as functional lipid in MscL mechanosensitivity via force-from-lipid mechanism
+- [Mechanosensitive Gating in Ion Channels](/xray-mp-wiki/concepts/transport-mechanisms/mechanosensitive-gating/) — MscL is a mechanosensitive ion channel; lipid binding modulates its mechanosensitivity
+- [Force-from-Lipid Principle in Mechanosensation](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/force-from-lipid-principle/) — PI proposed as functional lipid in MscL mechanosensitivity via force-from-lipid mechanism
 - [Phosphatidylinositol (PI)](/xray-mp-wiki/reagents/lipids/phosphatidylinositol/) — PI is the most stabilizing lipid for MscL; confers large linear increase in stability
 - [Phosphatidylcholine (PC)](/xray-mp-wiki/reagents/lipids/phosphatidylcholine/) — Various PC species (DNPC, DEPC, DIPC, DOPC, DPPC, DMPC) tested with MscL
 - [Octyltetraoxyethylene (C8E4)](/xray-mp-wiki/reagents/detergents/c8e4/) — Optimal detergent for maintaining intact MscL complexes in native MS

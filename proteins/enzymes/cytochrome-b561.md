@@ -101,6 +101,6 @@ as exemplified by CGCyt b561 and DCyt b561 homologs respectively.
 
 ## Cross-References
 
-- [Cytochrome b561 (Cyt b561) Protein Family](/xray-mp-wiki/concepts/cytochrome-b561-family/) — Cyt b561 from A. thaliana is the founding structural representative of this conserved family of transmembrane oxidoreductases
+- [Cytochrome b561 (Cyt b561) Protein Family](/xray-mp-wiki/concepts/protein-families/cytochrome-b561-family/) — Cyt b561 from A. thaliana is the founding structural representative of this conserved family of transmembrane oxidoreductases
 - [Iron](/xray-mp-wiki/reagents/additives/iron/) — Referenced in context related to Iron
 - [Heme](/xray-mp-wiki/reagents/ligands/heme/) — Referenced in context related to Heme

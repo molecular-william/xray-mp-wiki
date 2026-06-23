@@ -70,5 +70,5 @@ The active CCKᴅR structures show an approximately 6 Å outward movement of hel
 ## Cross-References
 
 - [Human Cholecystokinin A Receptor (CCKₐR)](/xray-mp-wiki/proteins/gpcr/human-ccka-receptor/) — Sister receptor with distinct peptide selectivity; structures from same study showing antagonist and agonist-bound states
-- [Peptide Selectivity in Cholecystokinin Receptors](/xray-mp-wiki/concepts/cck-receptor-peptide-selectivity/) — Structural comparison reveals basis for differential peptide recognition between CCKₐR and CCKᴅR
-- [Stepwise Activation of Cholecystokinin Receptors](/xray-mp-wiki/concepts/cck-receptor-stepwise-activation/) — Active CCKᴅR-G protein structures represent the fully active state in the stepwise activation model
+- [Peptide Selectivity in Cholecystokinin Receptors](/xray-mp-wiki/concepts/signaling-receptors/cck-receptor-peptide-selectivity/) — Structural comparison reveals basis for differential peptide recognition between CCKₐR and CCKᴅR
+- [Stepwise Activation of Cholecystokinin Receptors](/xray-mp-wiki/concepts/signaling-receptors/cck-receptor-stepwise-activation/) — Active CCKᴅR-G protein structures represent the fully active state in the stepwise activation model

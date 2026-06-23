@@ -4,7 +4,7 @@ category: concepts
 layout: default
 tags:
 - concept-transport-mechanism
-- subdirectory-concepts
+- subdirectory-transport-mechanisms
 sources:
 - doi/10.1038##nature11077
 - doi/10.1016##j.cell.2018.12.018
@@ -18,7 +18,7 @@ overview: 'Voltage-gated sodium channels use a gating mechanism involving voltag
   allowing sodium influx that propagates action potentials. The selectivity filter
   ensures sodium over other ions. The resting-state structure of [NAVAB](/xray-mp-wiki/proteins/voltage-gated-channels/navab/)
   reveals the complete voltage-dependent gating mechanism including the [Sliding Helix
-  Mechanism](/xray-mp-wiki/concepts/sliding-helix-mechanism/) of voltage sensing.
+  Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/sliding-helix-mechanism/) of voltage sensing.
   Prokaryotic sodium channels also exhibit CTD-mediated inactivation gating distinct
   from eukaryotic inactivation mechanisms.
 
@@ -33,13 +33,13 @@ cross_references:
 - path: /xray-mp-wiki/proteins/voltage-gated-channels/navms/
   title: NavMs Sodium Channel
   reason: CTD-mediated inactivation gating mechanism elucidated
-- path: /xray-mp-wiki/concepts/sliding-helix-mechanism/
+- path: /xray-mp-wiki/concepts/structural-mechanisms/sliding-helix-mechanism/
   title: Sliding Helix Mechanism
   reason: Structural model of voltage-dependent gating
-- path: /xray-mp-wiki/concepts/sodium-channel-inactivation-gating/
+- path: /xray-mp-wiki/concepts/transport-mechanisms/sodium-channel-inactivation-gating/
   title: Sodium Channel Inactivation Gating
   reason: CTD-mediated inactivation mechanism in prokaryotic sodium channels
-- path: /xray-mp-wiki/concepts/s4-s5-linker-interaction-motif/
+- path: /xray-mp-wiki/concepts/structural-mechanisms/s4-s5-linker-interaction-motif/
   title: S4-S5 Linker Interaction Motif
   reason: Three-way interaction between S3, S4-S5 linker, and C-terminus regulating
     gate opening

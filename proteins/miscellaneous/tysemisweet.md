@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-TySemiSWEET is a bacterial sugar transporter from the [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet/) family found in Thermotoga yellowstonii. It is a dimeric three-helix bundle transporter that selectively transports disaccharides such as [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/). The structure reveals an elongated central pocket that accommodates a disaccharide ligand, providing structural insight into substrate selectivity within the [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet/) family.
+TySemiSWEET is a bacterial sugar transporter from the [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) family found in Thermotoga yellowstonii. It is a dimeric three-helix bundle transporter that selectively transports disaccharides such as [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/). The structure reveals an elongated central pocket that accommodates a disaccharide ligand, providing structural insight into substrate selectivity within the [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) family.
 
 
 ## Structure Determination
@@ -68,10 +68,10 @@ Each protomer contains three transmembrane helices (TM1, TM2, TM3) with TM3 posi
 ## Cross-References
 
 - [LbSemiSWEET from Leptospira biflexa](/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/) — Close homologue used as molecular replacement search model; structural comparison reveals pocket size differences
-- [SWEET Transporter Family](/xray-mp-wiki/concepts/sweet-transporter/) — TySemiSWEET is a member of the SemiSWEET subfamily of sugar transporters
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — TySemiSWEET operates via alternating access with outward-open and occluded conformations captured
+- [SWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/sweet-transporter/) — TySemiSWEET is a member of the SemiSWEET subfamily of sugar transporters
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — TySemiSWEET operates via alternating access with outward-open and occluded conformations captured
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — TySemiSWEET crystals obtained by LCP diffracted to 2.4 A at SPring-8
-- [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet/) — Related biological concept
+- [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) — Related biological concept
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Additive used in purification or crystallization buffers
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used in purification or crystallization

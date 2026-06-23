@@ -45,4 +45,4 @@ No comparison data available.
 - [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) — LeuT-imipramine cocrystal structure
 - [Clomipramine (CMI)](/xray-mp-wiki/reagents/ligands/clomipramine/) — Structurally related TCA with higher potency
 - [Desipramine](/xray-mp-wiki/reagents/ligands/desipramine/) — Structurally related TCA
-- [Tricyclic Antidepressant (TCA) Inhibition Mechanism in NSS Transporters](/xray-mp-wiki/concepts/tca-inhibition-mechanism/) — TCA inhibition mechanism
+- [Tricyclic Antidepressant (TCA) Inhibition Mechanism in NSS Transporters](/xray-mp-wiki/concepts/transport-mechanisms/tca-inhibition-mechanism/) — TCA inhibition mechanism

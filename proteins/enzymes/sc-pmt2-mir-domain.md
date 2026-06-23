@@ -85,6 +85,6 @@ The Pmt2-MIR domain is structurally and functionally analogous to the lectin dom
 
 ## Cross-References
 
-- [MIR Domain (Mannosyltransferase, IP3R, RyR)](/xray-mp-wiki/concepts/mir-domain/) — Pmt2-MIR is the defining MIR domain characterized in this study
+- [MIR Domain (Mannosyltransferase, IP3R, RyR)](/xray-mp-wiki/concepts/structural-mechanisms/mir-domain/) — Pmt2-MIR is the defining MIR domain characterized in this study
 - [Pmt3-MIR Domain](/xray-mp-wiki/proteins/enzymes/sc-pmt3-mir-domain/) — Pmt3-MIR is a close homolog (PMT2 subfamily) with nearly identical structure
-- [OST Catalytic Cycle](/xray-mp-wiki/concepts/ost-catalytic-cycle/) — PMTs and OSTs share GT-C fold and similar ER luminal glycosylation mechanisms
+- [OST Catalytic Cycle](/xray-mp-wiki/concepts/enzyme-mechanisms/ost-catalytic-cycle/) — PMTs and OSTs share GT-C fold and similar ER luminal glycosylation mechanisms

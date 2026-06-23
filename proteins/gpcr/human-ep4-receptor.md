@@ -86,10 +86,10 @@ The Fab001 antibody fragment binds to the extracellular surface of EP4, primaril
 ## Cross-References
 
 - [Prostaglandin Receptors](/xray-mp-wiki/proteins/prostaglandin-receptors/) — EP4 is a member of the prostanoid receptor family
-- [G Protein-Coupled Receptors (GPCRs)](/xray-mp-wiki/concepts/gpcr/) — EP4 is a class A GPCR
-- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/gpcr-inactive-conformation/) — The EP4 structure represents an inactive-like receptor conformation
+- [G Protein-Coupled Receptors (GPCRs)](/xray-mp-wiki/concepts/signaling-receptors/gpcr/) — EP4 is a class A GPCR
+- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — The EP4 structure represents an inactive-like receptor conformation
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used for EP4-Fab001 crystallization
-- [Sodium Ion Allosteric Modulation in GPCRs](/xray-mp-wiki/concepts/sodium-allosteric-modulation/) — G106R mutation occupies the conserved sodium-binding pocket
+- [Sodium Ion Allosteric Modulation in GPCRs](/xray-mp-wiki/concepts/signaling-receptors/sodium-allosteric-modulation/) — G106R mutation occupies the conserved sodium-binding pocket
 - [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) — N-terminal FLAG tag used for purification
 - [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) — C-terminal octa-histidine tag for purification
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Host lipid for LCP crystallization

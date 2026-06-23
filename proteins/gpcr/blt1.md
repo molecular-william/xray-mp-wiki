@@ -106,12 +106,12 @@ Comparison of hBLT1 and gpBLT1 structures revealed that four non-conserved resid
 - [T4 Lysozyme (T4L)](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — T4L fusion at ICL3 enabled gpBLT1 crystallization
 - [Flavodoxin](/xray-mp-wiki/reagents/protein-tags/flavodoxin/) — Flavodoxin fusion at ICL3 enabled hBLT1 crystallization
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) method used for both BLT1 structures
-- [Protein Thermostabilization](/xray-mp-wiki/concepts/thermostabilization/) — Mutations used for both gpBLT1 and hBLT1 thermostabilization
-- [Sodium Ion Allosteric Modulation in GPCRs](/xray-mp-wiki/concepts/sodium-allosteric-modulation/) — BLT1 is sensitive to allosteric sodium modulation
+- [Protein Thermostabilization](/xray-mp-wiki/concepts/construct-design/thermostabilization/) — Mutations used for both gpBLT1 and hBLT1 thermostabilization
+- [Sodium Ion Allosteric Modulation in GPCRs](/xray-mp-wiki/concepts/signaling-receptors/sodium-allosteric-modulation/) — BLT1 is sensitive to allosteric sodium modulation
 - [Pichia pastoris Expression System](/xray-mp-wiki/expression-systems/pichia-pastoris/) — gpBLT1-T4L expressed in [Pichia pastoris](/xray-mp-wiki/organisms/pichia-pastoris)
 - [Insect Cell Expression System](/xray-mp-wiki/expression-systems/insect-cell-expression/) — hBLT1 expressed using baculovirus in insect cells
-- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/gpcr-inactive-conformation/) — Both BLT1 structures represent the inactive state
-- [Inverse Agonism in GPCR Signaling](/xray-mp-wiki/concepts/inverse-agonism/) — [BIIL260](/xray-mp-wiki/reagents/ligands/biil260) acts as an inverse agonist for BLT1
-- [Negative Allosteric Modulation](/xray-mp-wiki/concepts/negative-allosteric-modulation/) — [Benzamidine](/xray-mp-wiki/reagents/additives/benzamidine) moiety of BIIL260 serves as negative allosteric modulator
-- [Extra-helical Binding Site in GPCRs](/xray-mp-wiki/concepts/extra-helical-binding-site/) — [Benzamidine](/xray-mp-wiki/reagents/additives/benzamidine) binding site is an extra-helical allosteric site
+- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — Both BLT1 structures represent the inactive state
+- [Inverse Agonism in GPCR Signaling](/xray-mp-wiki/concepts/signaling-receptors/inverse-agonism/) — [BIIL260](/xray-mp-wiki/reagents/ligands/biil260) acts as an inverse agonist for BLT1
+- [Negative Allosteric Modulation](/xray-mp-wiki/concepts/signaling-receptors/negative-allosteric-modulation/) — [Benzamidine](/xray-mp-wiki/reagents/additives/benzamidine) moiety of BIIL260 serves as negative allosteric modulator
+- [Extra-helical Binding Site in GPCRs](/xray-mp-wiki/concepts/signaling-receptors/extra-helical-binding-site/) — [Benzamidine](/xray-mp-wiki/reagents/additives/benzamidine) binding site is an extra-helical allosteric site
 - [Membrane Access Channel in GPCRs](/xray-mp-wiki/concepts/membrane-access-channel/) — hBLT1 structure revealed a putative membrane-buried ligand access channel between TM4 and TM5

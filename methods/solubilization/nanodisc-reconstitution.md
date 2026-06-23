@@ -61,7 +61,7 @@ Nanodisc reconstitution is a technique for embedding membrane proteins into smal
 
 | Protein | Resolution | PDB | Notes |
 |---|---|---|---|
-| [Maltose](/xray-mp-wiki/reagents/additives/maltose/) Transporter (MalFGK2) | N/A (functional assay) | N/A | Reconstituted into lipid nanodiscs for MBP-stimulated ATPase activity measurement and EIIA^Glc inhibition kinetics; IC50 of full-length EIIA^Glc = 1.61 uM, Delta(1-18) [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) = 91 uM |
+| [Maltose](/xray-mp-wiki/reagents/additives/maltose/) Transporter (MalFGK2) | N/A (functional assay) | N/A | Reconstituted into lipid nanodiscs for MBP-stimulated ATPase activity measurement and EIIA^Glc inhibition kinetics; IC50 of full-length EIIA^Glc = 1.61 uM, Delta(1-18) [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) = 91 uM |
 
 ## Related Methods
 

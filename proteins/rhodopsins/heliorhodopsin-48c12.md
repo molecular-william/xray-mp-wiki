@@ -90,7 +90,7 @@ Using the 48C12 structure, 10 subfamilies of heliorhodopsins were identified fro
 
 - [Heliorhodopsin (TaHeR)](/xray-mp-wiki/proteins/rhodopsins/heliorhodopsin-taher/) — Archaeal heliorhodopsin homolog; structures compared with 48C12 (RMSD 0.66 A)
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Prototypical type-1 rhodopsin; structural comparison reveals key differences in HeR organization
-- [Heliorhodopsin Schiff Base Cavity](/xray-mp-wiki/concepts/heliorhodopsin-schiff-base-cavity/) — The SBC is a defining structural and functional feature of HeR-48C12
-- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-photocycle/) — 48C12 exhibits a photocycle with K, M, and O intermediates; water cluster serves as proton acceptor
+- [Heliorhodopsin Schiff Base Cavity](/xray-mp-wiki/concepts/structural-mechanisms/heliorhodopsin-schiff-base-cavity/) — The SBC is a defining structural and functional feature of HeR-48C12
+- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/) — 48C12 exhibits a photocycle with K, M, and O intermediates; water cluster serves as proton acceptor
 - [All-trans Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Covalently bound chromophore via Schiff base to Lys238
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used in LCP crystallization matrix

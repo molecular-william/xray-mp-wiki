@@ -14,7 +14,7 @@ verified: true
 
 ## Overview
 
-The human gonadotropin-releasing hormone receptor (GnRH1R, also known as luteinizing hormone-releasing hormone receptor) is a class A [GPCR](/xray-mp-wiki/concepts/gpcr/) that serves as the central regulator of the reproductive system. Activated by the decapeptide GnRH via the G_q signaling pathway, GnRH1R initiates the reproductive hormone cascade and releases gonadotropins (FSH and LH). The crystal structure of GnRH1R bound to the FDA-approved small-molecule antagonist drug elagolix at 2.8 Å resolution reveals an enlarged orthosteric binding pocket co-occupied by elagolix and the receptor N-terminus. Uniquely among class A GPCRs, GnRH1R lacks a cytoplasmic C-terminal helix and exhibits distinct microswitch structural features including a special N^2.50-D^7.49 pair and a hydrophobic Y^6.51-Y^6.52-W^6.48-F^6.44 motif in TM6 critical for signal transmission.
+The human gonadotropin-releasing hormone receptor (GnRH1R, also known as luteinizing hormone-releasing hormone receptor) is a class A [GPCR](/xray-mp-wiki/concepts/signaling-receptors/gpcr/) that serves as the central regulator of the reproductive system. Activated by the decapeptide GnRH via the G_q signaling pathway, GnRH1R initiates the reproductive hormone cascade and releases gonadotropins (FSH and LH). The crystal structure of GnRH1R bound to the FDA-approved small-molecule antagonist drug elagolix at 2.8 Å resolution reveals an enlarged orthosteric binding pocket co-occupied by elagolix and the receptor N-terminus. Uniquely among class A GPCRs, GnRH1R lacks a cytoplasmic C-terminal helix and exhibits distinct microswitch structural features including a special N^2.50-D^7.49 pair and a hydrophobic Y^6.51-Y^6.52-W^6.48-F^6.44 motif in TM6 critical for signal transmission.
 
 ## Structure Determination
 
@@ -71,4 +71,4 @@ GnRH1R lacks the conserved D^2.50 (replaced by N^2.50) and lacks a cytoplasmic C
 
 ## Cross-References
 
-- [GPCR](/xray-mp-wiki/concepts/gpcr/) — GnRH1R is a class A GPCR
+- [GPCR](/xray-mp-wiki/concepts/signaling-receptors/gpcr/) — GnRH1R is a class A GPCR

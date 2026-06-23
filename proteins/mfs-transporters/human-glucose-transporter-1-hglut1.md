@@ -16,7 +16,7 @@ verified: false
 
 Human [Glucose](/xray-mp-wiki/reagents/additives/glucose/) transporter 1 ([hGLUT1 (Human Glucose Transporter 1)](/xray-mp-wiki/proteins/mfs-transporters/hglut1/), [SLC2A1](/xray-mp-wiki/proteins/mfs-transporters/glut1/)) is a ubiquitously
 expressed facilitated-diffusion [Glucose](/xray-mp-wiki/reagents/additives/glucose/) uniporter belonging to the
-major facilitator superfamily ([MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/)). It transports [Glucose](/xray-mp-wiki/reagents/additives/glucose/) from the
+major facilitator superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/)). It transports [Glucose](/xray-mp-wiki/reagents/additives/glucose/) from the
 extracellular space into cells and is essential for cell viability.
 [hGLUT1 (Human Glucose Transporter 1)](/xray-mp-wiki/proteins/mfs-transporters/hglut1/) is significantly up-regulated in numerous cancer types due to
 the increased glycolytic demand of tumor cells (Warburg effect),
@@ -86,7 +86,7 @@ Trp388 (TM10) is a key binding determinant for all three inhibitors, forming pi-
 ## Cross-References
 
 - [n-Dodecyl-beta-D-maltopyranoside (beta-DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for hGLUT1 purification and crystallization
-- [MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/) — Related biological concept
+- [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification

@@ -14,13 +14,13 @@ verified: false
 
 ## Overview
 
-cpAQP1aa is a water-specific [Aquaporin](/xray-mp-wiki/concepts/aquaporin/) from the climbing perch (Anabas testudineus),
+cpAQP1aa is a water-specific [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) from the climbing perch (Anabas testudineus),
 a euryhaline fish species capable of acclimating from freshwater to seawater and
 surviving on land. It is the first structurally and functionally characterized fish
-[Aquaporin](/xray-mp-wiki/concepts/aquaporin/) and a homolog of mammalian [AQP1](/xray-mp-wiki/proteins/other-ion-channels/aqp1/). The 1.9 A crystal structure reveals the
-conserved [Aquaporin](/xray-mp-wiki/concepts/aquaporin/) homotetrameric fold with six transmembrane helices and two
+[Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) and a homolog of mammalian [AQP1](/xray-mp-wiki/proteins/other-ion-channels/aqp1/). The 1.9 A crystal structure reveals the
+conserved [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) homotetrameric fold with six transmembrane helices and two
 half-helices per monomer, but with a unique extracellular fold in loop C that creates
-a constriction region on the extracellular side—a feature not seen in other [Aquaporin](/xray-mp-wiki/concepts/aquaporin/)
+a constriction region on the extracellular side—a feature not seen in other [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
 structures. The channel is water-specific, does not transport [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) or ammonia,
 and is proposed to be regulated by phosphorylation at Thr38 (loop A) and Tyr107
 (loop C), which may control gating from the extracellular side. Molecular dynamics
@@ -87,10 +87,10 @@ comparable to human AQP4.
 
 ### First structural characterization of a fish aquaporin
 
-cpAQP1aa is the first fish [Aquaporin](/xray-mp-wiki/concepts/aquaporin/) to be structurally and functionally
-characterized. The 1.9 A crystal structure reveals the conserved [Aquaporin](/xray-mp-wiki/concepts/aquaporin/)
+cpAQP1aa is the first fish [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) to be structurally and functionally
+characterized. The 1.9 A crystal structure reveals the conserved [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)
 homotetrameric architecture with a unique extracellular fold not seen in
-other [Aquaporin](/xray-mp-wiki/concepts/aquaporin/) structures. This provides the first molecular insights into
+other [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) structures. This provides the first molecular insights into
 water homeostasis mechanisms in fish.
 
 ### Novel extracellular constriction region formed by loop C
@@ -134,7 +134,7 @@ constriction is unaffected by pH changes.
 
 ## Cross-References
 
-- [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) — cpAQP1aa is a water-specific aquaporin from fish, expanding the diversity of characterized aquaporin family members
+- [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — cpAQP1aa is a water-specific aquaporin from fish, expanding the diversity of characterized aquaporin family members
 - [Aquaporin-1 (AQP1)](/xray-mp-wiki/proteins/other-ion-channels/aqp1/) — cpAQP1aa is a homolog of mammalian AQP1; bovine AQP1 structure (1J4N) used as molecular replacement model
 - [SoPIP2;1 (Spinach Plasma Membrane Aquaporin)](/xray-mp-wiki/proteins/other-ion-channels/so-pip2-1/) — Similar phosphorylation-dependent gating mechanism proposed for cpAQP1aa; loop D gating in SoPIP2;1 provides comparative model
 - [Human Aquaporin 4](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-4/) — Used as functional comparison for water permeability measurements; hAQP4 has a fully open pore with higher water transport rate

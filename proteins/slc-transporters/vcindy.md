@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, belonging to the [Divalent Anion/Na+ Symporter (DASS) Family](/xray-mp-wiki/concepts/dass-family/). It is a homologue of the mammalian SLC13 transporters (NaCT, NaDC1, NaDC3) and the Drosophila INDY (I'm Not Dead Yet) protein. VcINDY catalyzes the Na+-coupled uptake of di- and tricarboxylates such as [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) and [Succinate (Succinic Acid)](/xray-mp-wiki/reagents/ligands/succinate/). The 3.2 A crystal structure of VcINDY revealed an inward-facing conformation with one [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) molecule and one sodium ion bound per protomer. Higher resolution 2.8 A structures of succinate- and citrate-bound VcINDY later identified a second Na+-binding site (Na2) and elucidated how DASS proteins recognize and distinguish between C4-dicarboxylate and C6-tricarboxylate substrates.
+VcINDY is a sodium-dependent dicarboxylate transporter from Vibrio cholerae, belonging to the [Divalent Anion/Na+ Symporter (DASS) Family](/xray-mp-wiki/concepts/transport-mechanisms/dass-family/). It is a homologue of the mammalian SLC13 transporters (NaCT, NaDC1, NaDC3) and the Drosophila INDY (I'm Not Dead Yet) protein. VcINDY catalyzes the Na+-coupled uptake of di- and tricarboxylates such as [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) and [Succinate (Succinic Acid)](/xray-mp-wiki/reagents/ligands/succinate/). The 3.2 A crystal structure of VcINDY revealed an inward-facing conformation with one [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) molecule and one sodium ion bound per protomer. Higher resolution 2.8 A structures of succinate- and citrate-bound VcINDY later identified a second Na+-binding site (Na2) and elucidated how DASS proteins recognize and distinguish between C4-dicarboxylate and C6-tricarboxylate substrates.
 
 
 ## Structure Determination
@@ -133,8 +133,8 @@ site is conserved between the DASS and AbgT protein families.
 
 ## Cross-References
 
-- [Divalent Anion/Na+ Symporter (DASS) Family](/xray-mp-wiki/concepts/dass-family/) — VcINDY is a member of the DASS family of transporters
-- [Inward-Facing Conformation](/xray-mp-wiki/concepts/inward-facing-conformation/) — The VcINDY structure represents an inward-facing conformation
+- [Divalent Anion/Na+ Symporter (DASS) Family](/xray-mp-wiki/concepts/transport-mechanisms/dass-family/) — VcINDY is a member of the DASS family of transporters
+- [Inward-Facing Conformation](/xray-mp-wiki/concepts/transport-mechanisms/inward-facing-conformation/) — The VcINDY structure represents an inward-facing conformation
 - [N-Decyl-beta-D-maltopyranoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Primary detergent used for VcINDY purification
 - [MOPS Buffer](/xray-mp-wiki/reagents/buffers/mops/) — Used in crystallization reservoir (50 mM, pH 6.5)
 - [Lithium Citrate](/xray-mp-wiki/reagents/additives/lithium-citrate/) — Used in purification buffer and crystallization reservoir

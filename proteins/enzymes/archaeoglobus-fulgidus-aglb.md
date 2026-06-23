@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal oligosaccharyltransferase (OST), a single-subunit membrane enzyme that transfers an oligosaccharide chain to Asn residues in the Asn-X-Ser/Thr sequon of substrate proteins. AfAglB comprises 13 transmembrane helices in the N-terminal region and a C-terminal globular domain. Despite low sequence identity (<20%) to eubacterial PglB homologs, AfAglB shares a highly conserved catalytic architecture including the [Carboxylate Dyad](/xray-mp-wiki/concepts/carboxylate-dyad/) (Asp47 and Glu360 with a metal ion) that activates the acceptor Asn side chain for nucleophilic attack on the lipid-linked oligosaccharide donor.
+Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal oligosaccharyltransferase (OST), a single-subunit membrane enzyme that transfers an oligosaccharide chain to Asn residues in the Asn-X-Ser/Thr sequon of substrate proteins. AfAglB comprises 13 transmembrane helices in the N-terminal region and a C-terminal globular domain. Despite low sequence identity (<20%) to eubacterial PglB homologs, AfAglB shares a highly conserved catalytic architecture including the [Carboxylate Dyad](/xray-mp-wiki/concepts/enzyme-mechanisms/carboxylate-dyad/) (Asp47 and Glu360 with a metal ion) that activates the acceptor Asn side chain for nucleophilic attack on the lipid-linked oligosaccharide donor.
 
 ## Structure Determination
 
@@ -79,15 +79,15 @@ Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal ol
 
 ### Conserved sequon recognition mechanism between archaeal and eubacterial OSTs
 
-The crystal structure of the cross-linked AfAglB-sequon complex reveals that the [N-Glycosylation Sequon](/xray-mp-wiki/concepts/n-glycosylation-sequon/) binds in the same manner as in the C. lari PglB-peptide complex. The acceptor peptide adopts an extended conformation with the Asn-Val-Thr sequon positioned at the boundary between the N-terminal transmembrane region and the C-terminal globular domain. Two conserved interactions are observed: (1) the Asn side-chain carboxamide group interacts with Asp47 and Glu360 ([Carboxylate Dyad](/xray-mp-wiki/concepts/carboxylate-dyad/)) and a bound metal ion, and (2) the Thr residue at the +2 position is recognized by the Ser/Thr-binding pocket formed by the W550-W551-D552 motif and K618. This demonstrates evolutionary conservation of sequon recognition between archaeal and eubacterial OSTs despite low sequence identity (<20%).
+The crystal structure of the cross-linked AfAglB-sequon complex reveals that the [N-Glycosylation Sequon](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/n-glycosylation-sequon/) binds in the same manner as in the C. lari PglB-peptide complex. The acceptor peptide adopts an extended conformation with the Asn-Val-Thr sequon positioned at the boundary between the N-terminal transmembrane region and the C-terminal globular domain. Two conserved interactions are observed: (1) the Asn side-chain carboxamide group interacts with Asp47 and Glu360 ([Carboxylate Dyad](/xray-mp-wiki/concepts/enzyme-mechanisms/carboxylate-dyad/)) and a bound metal ion, and (2) the Thr residue at the +2 position is recognized by the Ser/Thr-binding pocket formed by the W550-W551-D552 motif and K618. This demonstrates evolutionary conservation of sequon recognition between archaeal and eubacterial OSTs despite low sequence identity (<20%).
 
 ### Carboxylate dyad catalytic mechanism
 
-The [Carboxylate Dyad](/xray-mp-wiki/concepts/carboxylate-dyad/) consists of Asp47 (in the GND motif of external loop 1) and Glu360 (in the TIAE motif of external loop 5), which together coordinate a divalent metal ion. Their side-chain carboxylate groups contact the carboxamide group of the acceptor Asn side chain, twisting the planar carboxamide geometry to enable nucleophilic attack on the C1 carbon of the lipid-linked oligosaccharide donor. Single alanine mutations (D47A, E360A) retained reduced but significant activity in the cross-linked state, whereas the double mutation (D47A/E360A) completely abolished catalysis. In contrast, without tethering, both single mutants showed complete loss of activity.
+The [Carboxylate Dyad](/xray-mp-wiki/concepts/enzyme-mechanisms/carboxylate-dyad/) consists of Asp47 (in the GND motif of external loop 1) and Glu360 (in the TIAE motif of external loop 5), which together coordinate a divalent metal ion. Their side-chain carboxylate groups contact the carboxamide group of the acceptor Asn side chain, twisting the planar carboxamide geometry to enable nucleophilic attack on the C1 carbon of the lipid-linked oligosaccharide donor. Single alanine mutations (D47A, E360A) retained reduced but significant activity in the cross-linked state, whereas the double mutation (D47A/E360A) completely abolished catalysis. In contrast, without tethering, both single mutants showed complete loss of activity.
 
 ### EL5 loop conformational dynamics
 
-The EL5 loop exhibits dynamic behavior upon acceptor peptide binding. In the apo state (3WAK), the EL5 loop is fully ordered and Glu360 is not involved in metal-ion coordination. Upon acceptor peptide binding, the N-terminal half of EL5 (Ser335-Gln350) becomes disordered while the C-terminal half (Pro351-Thr373) remains ordered. This partially ordered state is an intrinsic property observed in both AfAglB and C. lari PglB complexes. The conformational change positions Glu360 to participate in the [Carboxylate Dyad](/xray-mp-wiki/concepts/carboxylate-dyad/) interactions with the acceptor Asn side chain and metal ion.
+The EL5 loop exhibits dynamic behavior upon acceptor peptide binding. In the apo state (3WAK), the EL5 loop is fully ordered and Glu360 is not involved in metal-ion coordination. Upon acceptor peptide binding, the N-terminal half of EL5 (Ser335-Gln350) becomes disordered while the C-terminal half (Pro351-Thr373) remains ordered. This partially ordered state is an intrinsic property observed in both AfAglB and C. lari PglB complexes. The conformational change positions Glu360 to participate in the [Carboxylate Dyad](/xray-mp-wiki/concepts/enzyme-mechanisms/carboxylate-dyad/) interactions with the acceptor Asn side chain and metal ion.
 
 ### TIXE motif forms inter-chain hydrogen bonds with the sequon
 
@@ -108,8 +108,8 @@ In the cross-linked complex, the stringent N-glycosylation consensus requirement
 
 ## Cross-References
 
-- [N-Glycosylation Sequon](/xray-mp-wiki/concepts/n-glycosylation-sequon/) — AfAglB recognizes and catalyzes glycosylation of the Asn-X-Ser/Thr sequon
-- [Carboxylate Dyad](/xray-mp-wiki/concepts/carboxylate-dyad/) — Catalytic mechanism of AfAglB involves the Asp47-Glu360 carboxylate dyad
+- [N-Glycosylation Sequon](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/n-glycosylation-sequon/) — AfAglB recognizes and catalyzes glycosylation of the Asn-X-Ser/Thr sequon
+- [Carboxylate Dyad](/xray-mp-wiki/concepts/enzyme-mechanisms/carboxylate-dyad/) — Catalytic mechanism of AfAglB involves the Asp47-Glu360 carboxylate dyad
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for solubilization and purification of AfAglB
 - [Lauryldimethylamine N-oxide (LDAO)](/xray-mp-wiki/reagents/detergents/ldao/) — Detergent used for gel filtration and crystallization of AfAglB
 - [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Buffer used throughout AfAglB expression, purification, and assays
@@ -119,4 +119,4 @@ In the cross-linked complex, the stringent N-glycosylation consensus requirement
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Referenced in archaeoglobus-fulgidus-aglb
 - [Nickel Sepharose](/xray-mp-wiki/reagents/additives/nickel-nta/) — Referenced in archaeoglobus-fulgidus-aglb
 - [Lipidic cubic phase (LCP) crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used for ternary complex crystallization at 2.7 A
-- [N-glycosylation sequon](/xray-mp-wiki/concepts/n-glycosylation-sequon/) — AfAglB recognizes the Asn-X-Ser/Thr sequon; the TIXE motif explains Pro exclusion
+- [N-glycosylation sequon](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/n-glycosylation-sequon/) — AfAglB recognizes the Asn-X-Ser/Thr sequon; the TIXE motif explains Pro exclusion

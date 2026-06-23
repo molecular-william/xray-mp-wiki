@@ -97,5 +97,5 @@ PaNhaP shares key features with human NHE1, including dimeric architecture, 13 T
 
 - [MjNhaP1 Sodium/Proton Antiporter](/xray-mp-wiki/proteins/slc-transporters/mjnhaP1/) — Closely related CPA1 antiporter from Methanocaldococcus jannaschii; same functional family with conserved rocking-bundle mechanism
 - [Na+/H+ Antiporter NhaA from Escherichia coli](/xray-mp-wiki/proteins/slc-transporters/nhaa/) — Related E. coli CPA2 antiporter; electrogenic (2H+:1Na+) versus electroneutral PaNhaP; different fold but similar transport principles
-- [Rocking-Bundle Mechanism](/xray-mp-wiki/concepts/rocking-bundle-mechanism/) — PaNhaP uses a rocking-bundle alternating-access mechanism with 6-helix bundle tilting ~7 degrees during transport cycle
-- [pH-Dependent Gating](/xray-mp-wiki/concepts/ph-dependent-gating/) — PaNhaP transport activity is strongly pH-dependent with a bell-shaped profile; pH regulates both ion binding affinity and dimer cooperativity
+- [Rocking-Bundle Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rocking-bundle-mechanism/) — PaNhaP uses a rocking-bundle alternating-access mechanism with 6-helix bundle tilting ~7 degrees during transport cycle
+- [pH-Dependent Gating](/xray-mp-wiki/concepts/transport-mechanisms/ph-dependent-gating/) — PaNhaP transport activity is strongly pH-dependent with a bell-shaped profile; pH regulates both ion binding affinity and dimer cooperativity

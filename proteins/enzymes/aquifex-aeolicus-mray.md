@@ -120,7 +120,7 @@ The barcode system provides a framework for engineering improved pharmacological
 
 ## Cross-References
 
-- [PNPT Superfamily](/xray-mp-wiki/concepts/pnpt-superfamily/) — MraY is the structurally characterized prototype of the PNPT superfamily; this paper extends structural understanding of inhibitor binding
+- [PNPT Superfamily](/xray-mp-wiki/concepts/protein-families/pnpt-superfamily/) — MraY is the structurally characterized prototype of the PNPT superfamily; this paper extends structural understanding of inhibitor binding
 - [Clostridium boltrea MraY with Tunicamycin](/xray-mp-wiki/proteins/enzymes/clostridium-boltrea-mray/) — Related MraY structure from a different species; comparison of inhibitor binding reveals species-specific differences
 - [Capuramycin](/xray-mp-wiki/reagents/additives/capuramycin/) — Capuramycin is one of the three inhibitors whose MraY-bound structure is reported in this paper
 - [Muraymycin D2](/xray-mp-wiki/reagents/additives/muraymycin-d2/) — Muraymycin D2 is another nucleoside inhibitor; its binding mode is compared with the three new structures

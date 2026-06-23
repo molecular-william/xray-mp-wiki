@@ -118,7 +118,7 @@ region beyond G140 is disordered and unique to FLAP among MAPEG proteins.
 
 - [Human 5-HT2A Receptor](/xray-mp-wiki/proteins/gpcr/5ht2a-receptor/) — Related GPCR drug target for inflammatory signaling
 - [Human 5-HT2B Receptor](/xray-mp-wiki/proteins/gpcr/5ht2b-receptor/) — Related serotonin receptor in eicosanoid pathway signaling
-- [MAPEG Superfamily](/xray-mp-wiki/concepts/mapag-superfamily/) — FLAP is a non-catalytic member of the MAPEG superfamily
+- [MAPEG Superfamily](/xray-mp-wiki/concepts/protein-families/mapag-superfamily/) — FLAP is a non-catalytic member of the MAPEG superfamily
 - [MK-591](/xray-mp-wiki/reagents/ligands/mk-591/) — FLAP structure solved with MK-591 inhibitor bound
 - [Mpges 1](/xray-mp-wiki/proteins/enzymes/mpges-1/) — Referenced in flap text
 - [Mk 591](/xray-mp-wiki/reagents/mk-591/) — Referenced in flap text

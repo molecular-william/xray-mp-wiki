@@ -48,4 +48,4 @@ No comparison data available.
 ## Cross-References
 
 - [Human Thromboxane A2 Receptor (TP)](/xray-mp-wiki/proteins/gpcr/thromboxane-a2-receptor/) — Primary target of ramatroban; TP-ramatroban complex structure (PDB 6IIU)
-- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/gpcr-inactive-conformation/) — Ramatroban stabilizes the inactive conformation of the TP receptor
+- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — Ramatroban stabilizes the inactive conformation of the TP receptor

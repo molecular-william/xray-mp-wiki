@@ -77,7 +77,7 @@ In kidney epithelial cells, RhCG is expressed on both apical and basal surfaces 
 ## Cross-References
 
 - [Ammonium Transporter AmtB (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/amt-b/) — RhCG is structurally and functionally related to AmtB; both are trimeric ammonia channels with conserved twin-His motifs
-- [Rh/Amt/MEP Protein Family](/xray-mp-wiki/concepts/rh-amt-mep-protein-family/) — RhCG is a member of the Rh family within the broader Rh/Amt/MEP superfamily
+- [Rh/Amt/MEP Protein Family](/xray-mp-wiki/concepts/protein-families/rh-amt-mep-protein-family/) — RhCG is a member of the Rh family within the broader Rh/Amt/MEP superfamily
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) — Fusion tag for crystallization or purification

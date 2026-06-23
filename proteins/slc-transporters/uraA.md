@@ -142,13 +142,13 @@ The short interdomain-linkers in UraA contain alpha-helical spacer helices flank
 
 ## Cross-References
 
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — UraA operates by alternating access between inward-open and occluded conformations
-- [Elevator Mechanism](/xray-mp-wiki/concepts/elevator-mechanism/) — UraA core domain exhibits elevator-like movement relative to the dimeric gate domain
-- [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/rocker-switch-mechanism/) — Rocking bundle motions of gate domains contribute to alternating access in UraA
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — UraA operates by alternating access between inward-open and occluded conformations
+- [Elevator Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/elevator-mechanism/) — UraA core domain exhibits elevator-like movement relative to the dimeric gate domain
+- [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/) — Rocking bundle motions of gate domains contribute to alternating access in UraA
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for UraA membrane solubilization and purification
 - [Lauryl Dimethylamine N-Oxide (LDAO)](/xray-mp-wiki/reagents/detergents/ldao/) — Detergent used for SEC analysis of UraA oligomerization state
 - [Uracil](/xray-mp-wiki/reagents/ligands/uracil/) — Substrate of UraA, binds in the occluded conformation
 - [Fos-Choline 9 (FC-9)](/xray-mp-wiki/reagents/detergents/fos-choline-9/) — Detergent used for UraA crystallization
-- [Substrate-Protonation Coupling](/xray-mp-wiki/concepts/substrate-protonation-coupling/) — UraA couples uracil transport to proton translocation
+- [Substrate-Protonation Coupling](/xray-mp-wiki/concepts/transport-mechanisms/substrate-protonation-coupling/) — UraA couples uracil transport to proton translocation
 - [French Press Cell Lysis](/xray-mp-wiki/methods/cell-lysis/french-press/) — Method used in structure determination or purification
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

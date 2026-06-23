@@ -108,7 +108,7 @@ SEDS proteins (Shape, Elongation, Division, and Sporulation) are a ubiquitous an
 
 ## Cross-References
 
-- [SEDS Protein Family](/xray-mp-wiki/concepts/sed-s-protein-family/) — RodA is the prototypical member of the SEDS protein family of peptidoglycan polymerases
+- [SEDS Protein Family](/xray-mp-wiki/concepts/protein-families/sed-s-protein-family/) — RodA is the prototypical member of the SEDS protein family of peptidoglycan polymerases
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Structure solved using molecular replacement with RodA as search template
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — RodA and RodA-PBP2 complex crystallized in LCP with monoolein
 - [n-Dodecyl beta-D-maltoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for membrane solubilization during protein purification

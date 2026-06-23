@@ -38,4 +38,4 @@ No comparison data available.
 
 - [CRTH2 (DP2)](/xray-mp-wiki/proteins/gpcr/crth2/) — Primary pro-inflammatory PGD2 receptor; structure solved with 15mPGD2 derivative (PDB 7M8W)
 - [15R-methyl-PGD2 (15mPGD2)](/xray-mp-wiki/reagents/ligands/15r-methyl-pgd2/) — Synthetic derivative with higher affinity for CRTH2, used for structure determination
-- [Prostanoid Receptor Family](/xray-mp-wiki/concepts/prostanoid-receptor-family/) — PGD2 acts on DP1 and DP2/CRTH2 members of the prostanoid receptor family
+- [Prostanoid Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/prostanoid-receptor-family/) — PGD2 acts on DP1 and DP2/CRTH2 members of the prostanoid receptor family

@@ -75,7 +75,7 @@ The outward-facing open conformation of LeuBAT includes a chloride ion binding s
 - [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/slc-transporters/d-dat/) — Related biogenic amine transporter for comparison
 - [Sertraline](/xray-mp-wiki/reagents/ligands/sertraline/) — SSRI co-crystallized with LeuBAT
 - [Lauryl Maltose Neopentyl Glycol (LMNG)](/xray-mp-wiki/reagents/detergents/lmng/) — Detergent used for solubilization and purification
-- [GPCR Active Conformation](/xray-mp-wiki/concepts/gpcr-active-conformation/) — LeuBAT represents outward-facing open conformation relevant to transporter mechanism
+- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — LeuBAT represents outward-facing open conformation relevant to transporter mechanism
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [LEUT](/xray-mp-wiki/proteins/enzymes/leut/) — Related protein structure
 - [SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/) — Related protein structure

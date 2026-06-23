@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Chloride ion (Cl-) is an essential co-transport ion for [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/nss-family/) transporters. In the dDATcryst structure, Cl- binds at a well-defined site coordinated by residues from TM2 and TM6, analogous to the Na2 binding site in [LEUT](/xray-mp-wiki/proteins/enzymes/leut/). The chloride ion plays a critical role in the transport mechanism by stabilizing key structural elements and facilitating substrate binding.
+Chloride ion (Cl-) is an essential co-transport ion for [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/transport-mechanisms/nss-family/) transporters. In the dDATcryst structure, Cl- binds at a well-defined site coordinated by residues from TM2 and TM6, analogous to the Na2 binding site in [LEUT](/xray-mp-wiki/proteins/enzymes/leut/). The chloride ion plays a critical role in the transport mechanism by stabilizing key structural elements and facilitating substrate binding.
 
 
 ## Properties
@@ -42,4 +42,4 @@ No comparison data available.
 - [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/slc-transporters/d-dopamine-transporter/) — Chloride ion binding site characterized in dDATcryst crystal structure
 - [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) — Chloride binding site in dDAT is structurally equivalent to Na2 site in LeuT
 - [Sodium Ion (Na+)](/xray-mp-wiki/reagents/ligands/sodium-ion/) — Sodium and chloride ions are co-transport ions for NSS family transporters
-- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/nss-family/) — Chloride ion is an essential co-transport ion for NSS family transporters
+- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/transport-mechanisms/nss-family/) — Chloride ion is an essential co-transport ion for NSS family transporters

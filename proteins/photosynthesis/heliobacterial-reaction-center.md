@@ -91,6 +91,6 @@ The HbRC displays characteristics expected of the common ancestor of all RCs: a 
 
 - [Blastochloris viridis Photosynthetic Reaction Centre (RCvir)](/xray-mp-wiki/proteins/photosynthesis/blastochloris-viridis-photosynthetic-reaction-centre/) — Type II heterodimeric RC for evolutionary comparison with the homodimeric Type I HbRC
 - [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) — PSII is a Type II heterodimeric RC; HbRC is compared as a Type I homodimeric RC with ancestral features
-- [Manganese-Calcium Cluster (Mn4Ca Cluster)](/xray-mp-wiki/concepts/manganese-calcium-cluster/) — HbRC lacks an oxygen-evolving complex; comparison highlights unique features of oxygenic vs anoxygenic photosynthesis
+- [Manganese-Calcium Cluster (Mn4Ca Cluster)](/xray-mp-wiki/concepts/miscellaneous/manganese-calcium-cluster/) — HbRC lacks an oxygen-evolving complex; comparison highlights unique features of oxygenic vs anoxygenic photosynthesis
 - [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) — Related ligand or cofactor
 - [Menaquinone](/xray-mp-wiki/reagents/ligands/menaquinone/) — Related ligand or cofactor

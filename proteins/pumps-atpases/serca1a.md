@@ -367,9 +367,9 @@ Sarcolipin (SLN), a 31-residue regulatory membrane protein, binds SERCA1a in a g
 - [Na+,K+-ATPase (Pig Kidney)](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-pig-kidney/) — Related P-type ATPase; comparison of phosphorylation mechanisms
 - [Sarcolipin (SLN)](/xray-mp-wiki/proteins/pumps-atpases/sarcolipin/) — Small membrane protein regulator; co-crystallized with SERCA1a at 3.1 A (PDB 4K5T)
 - [Phospholamban (PLB)](/xray-mp-wiki/proteins/miscellaneous/phospholamban/) — Homologous SERCA regulator; similar binding mechanism to SLN
-- [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/phosphoenzyme-e2p-state/) — P-type ATPase intermediate state discussed in structural comparison
-- [Autoinhibitory Domains in Ion Pumps](/xray-mp-wiki/concepts/autoinhibitory-domains/) — SLN and PLB are autoinhibitory regulators of SERCA
+- [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/enzyme-mechanisms/phosphoenzyme-e2p-state/) — P-type ATPase intermediate state discussed in structural comparison
+- [Autoinhibitory Domains in Ion Pumps](/xray-mp-wiki/concepts/transport-mechanisms/autoinhibitory-domains/) — SLN and PLB are autoinhibitory regulators of SERCA
 - [Calcium Chloride](/xray-mp-wiki/reagents/additives/calcium-chloride/) — Essential substrate; two Ca2+ ions bound in transmembrane domain
 - [Thapsigargin](/xray-mp-wiki/reagents/ligands/thapsigargin/) — Specific SERCA inhibitor used to stabilize the E2 state for crystallization
 - [AMPPCP (Adenosine 5'-[beta,gamma-methylene]triphosphate)](/xray-mp-wiki/reagents/ligands/amppcp/) — Non-hydrolyzable ATP analogue used to trap E1-AMPPCP state revealing ATP-induced domain closure
-- [SERCA E2 to E1 Transition Mechanism](/xray-mp-wiki/concepts/serca-e2-e1-transition/) — Crystal structures of Glu309 mutants reveal the mechanism of the E2→E1 transition triggered by deprotonation of gating residue Glu309
+- [SERCA E2 to E1 Transition Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/serca-e2-e1-transition/) — Crystal structures of Glu309 mutants reveal the mechanism of the E2→E1 transition triggered by deprotonation of gating residue Glu309

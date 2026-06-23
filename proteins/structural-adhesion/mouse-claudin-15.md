@@ -72,6 +72,6 @@ Two variable regions (V1 in ECS1 and V2 in ECS2) with poorly conserved sequences
 
 ## Cross-References
 
-- [Claudin-Mediated Paracellular Ion Selectivity](/xray-mp-wiki/concepts/claudin-paracellular-ion-selectivity/) — Related concept describing how claudin charge selectivity is determined by specific residues in the first extracellular domain
+- [Claudin-Mediated Paracellular Ion Selectivity](/xray-mp-wiki/concepts/miscellaneous/claudin-paracellular-ion-selectivity/) — Related concept describing how claudin charge selectivity is determined by specific residues in the first extracellular domain
 - [Mouse Claudin-19 (mCldn19)](/xray-mp-wiki/proteins/mouse-claudin-19/) — Related claudin family member with similar tetraspanin fold, bound to C-CPE enterotoxin
 - [Tight Junction Architecture](/xray-mp-wiki/concepts/tight-junction-architecture/) — The claudin-15 structure provides the molecular basis for understanding tight junction strand formation

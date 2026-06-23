@@ -51,5 +51,5 @@ No comparison data available.
 - [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Carazolol (structurally related ligand) binds to beta2AR with similar interactions
 - [Carvedilol](/xray-mp-wiki/reagents/ligands/carvedilol/) — Related beta-adrenergic receptor antagonist ligand
 - [Alprenolol](/xray-mp-wiki/reagents/ligands/alprenolol/) — Related beta-adrenergic receptor antagonist ligand
-- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/gpcr-inactive-conformation/) — Cyanopindolol binding stabilizes the inactive conformation of beta1AR
+- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — Cyanopindolol binding stabilizes the inactive conformation of beta1AR
 - [Carazolol](/xray-mp-wiki/reagents/ligands/carazolol/) — Related ligand or cofactor

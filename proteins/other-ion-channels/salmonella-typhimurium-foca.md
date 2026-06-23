@@ -52,4 +52,4 @@ Previous structures of EcFocA (E. coli, N-terminal 21 residues truncated) and Vc
 ## Cross-References
 
 - [FocA (Formate Channel A from Vibrio cholerae)](/xray-mp-wiki/proteins/other-ion-channels/focA-vibrio-cholerae/) — Homologous FocA structure with 55% sequence identity, crystallized at pH 7.5 in open conformation
-- [FNT Family (Formate/Nitrite Transporter Family)](/xray-mp-wiki/concepts/fnt-family/) — FocA is a founding member of the formate/nitrite transporter (FNT) family
+- [FNT Family (Formate/Nitrite Transporter Family)](/xray-mp-wiki/concepts/transport-mechanisms/fnt-family/) — FocA is a founding member of the formate/nitrite transporter (FNT) family

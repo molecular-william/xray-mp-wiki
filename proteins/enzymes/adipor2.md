@@ -75,7 +75,7 @@ verified: false
 
 ### Intrinsic ceramidase activity
 
-ADIPOR2 possesses intrinsic basal ceramidase activity that converts [Ceramide](/xray-mp-wiki/reagents/lipids/ceramide/) into [Sphingosine](/xray-mp-wiki/reagents/lipids/sphingosine/) and a free fatty acid. Michaelis-Menten kinetic analysis determined a Km of 15.6 uM and a kcat of 0.49 x 10^-3 s^-1. The activity is low but comparable to other intramembrane proteins such as [Gamma-Secretase Complex](/xray-mp-wiki/concepts/gamma-secretase/). ADIPOR2 shows preference for C18 [Ceramide](/xray-mp-wiki/reagents/lipids/ceramide/) substrate but can also hydrolyse C6 and C24 ceramides to a lesser extent.
+ADIPOR2 possesses intrinsic basal ceramidase activity that converts [Ceramide](/xray-mp-wiki/reagents/lipids/ceramide/) into [Sphingosine](/xray-mp-wiki/reagents/lipids/sphingosine/) and a free fatty acid. Michaelis-Menten kinetic analysis determined a Km of 15.6 uM and a kcat of 0.49 x 10^-3 s^-1. The activity is low but comparable to other intramembrane proteins such as [Gamma-Secretase Complex](/xray-mp-wiki/concepts/enzyme-mechanisms/gamma-secretase/). ADIPOR2 shows preference for C18 [Ceramide](/xray-mp-wiki/reagents/lipids/ceramide/) substrate but can also hydrolyse C6 and C24 ceramides to a lesser extent.
 
 ### Adiponectin-enhanced ceramidase activity
 
@@ -107,6 +107,6 @@ The AdipoR2(D219) structure was reanalyzed with an improved model (PDB 6KS1, rep
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent for solubilization and purification
 - [Cholesteryl Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Lipid additive used with DDM for membrane protein stabilization
 - [Ceramide](/xray-mp-wiki/reagents/lipids/ceramide/) — Substrate for ADIPOR2 ceramidase activity
-- [PAQR Family (Progesterone and AdipoQ Receptor Family)](/xray-mp-wiki/concepts/paqr-family/) — ADIPOR2 belongs to the PAQR protein family
+- [PAQR Family (Progesterone and AdipoQ Receptor Family)](/xray-mp-wiki/concepts/signaling-receptors/paqr-family/) — ADIPOR2 belongs to the PAQR protein family
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Method used in the study
-- [PAQR Family (Progesterone and AdipoQ Receptor Family)](/xray-mp-wiki/concepts/paqr-family/) — Key concept related to this protein
+- [PAQR Family (Progesterone and AdipoQ Receptor Family)](/xray-mp-wiki/concepts/signaling-receptors/paqr-family/) — Key concept related to this protein

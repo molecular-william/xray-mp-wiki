@@ -133,10 +133,10 @@ The BR trimer partitions the lipid bilayer into two discontinuous compartments: 
 
 ## Cross-References
 
-- [Bacteriorhodopsin Photocycle](/xray-mp-wiki/concepts/bacteriorhodopsin-photocycle/) — Both papers provide foundational high-resolution structures of bR, revealing the structural basis of the photocycle
-- [Merohedral Twinning in Protein Crystallography](/xray-mp-wiki/concepts/merohedral-twinning/) — The 2.3 A bR structure (Luecke et al., 1998) exhibits nearly perfect merohedral twinning, requiring detwinning during data processing
-- [Proton Release Complex in Microbial Rhodopsins](/xray-mp-wiki/concepts/proton-release-complex/) — Both papers identify the Glu194/Glu204 pair as the proton release complex; the 1998 paper established Arg82-W403-Glu204-Glu194 as the release pathway
-- [Retinal Isomerization in Microbial Rhodopsins](/xray-mp-wiki/concepts/retinal-isomerization/) — The papers directly visualize the all-trans retinal configuration and its role in proton pumping
-- [Proton Wire (Chain of Hydrogen Bonds)](/xray-mp-wiki/concepts/proton-wire/) — Both papers describe ordered water molecules forming hydrogen-bonded chains for proton translocation through the channel
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — bR is the archetypal microbial rhodopsin; these papers provide the first high-resolution structural views of its proton pumping mechanism
+- [Bacteriorhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/bacteriorhodopsin-photocycle/) — Both papers provide foundational high-resolution structures of bR, revealing the structural basis of the photocycle
+- [Merohedral Twinning in Protein Crystallography](/xray-mp-wiki/concepts/methods-techniques/merohedral-twinning/) — The 2.3 A bR structure (Luecke et al., 1998) exhibits nearly perfect merohedral twinning, requiring detwinning during data processing
+- [Proton Release Complex in Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/proton-release-complex/) — Both papers identify the Glu194/Glu204 pair as the proton release complex; the 1998 paper established Arg82-W403-Glu204-Glu194 as the release pathway
+- [Retinal Isomerization in Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/retinal-isomerization/) — The papers directly visualize the all-trans retinal configuration and its role in proton pumping
+- [Proton Wire (Chain of Hydrogen Bonds)](/xray-mp-wiki/concepts/transport-mechanisms/proton-wire/) — Both papers describe ordered water molecules forming hydrogen-bonded chains for proton translocation through the channel
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — bR is the archetypal microbial rhodopsin; these papers provide the first high-resolution structural views of its proton pumping mechanism
 - [Lipidic Cubic Phase (LCP) Crystallization](/xray-mp-wiki/concepts/lipidic-cubic-phase/) — The 1997 structure was the first to demonstrate LCP crystallization for membrane protein structure determination at high resolution

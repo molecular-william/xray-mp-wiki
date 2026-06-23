@@ -96,12 +96,12 @@ Concentrative uptake assay demonstrated formate transport into proteoliposomes r
 
 ## Cross-References
 
-- [FNT Family (Formate/Nitrite Transporter Family)](/xray-mp-wiki/concepts/fnt-family/) — FocA is a member of the FNT family
+- [FNT Family (Formate/Nitrite Transporter Family)](/xray-mp-wiki/concepts/transport-mechanisms/fnt-family/) — FocA is a member of the FNT family
 - [HSC (Hydrosulfide Channel from Clostridium difficile)](/xray-mp-wiki/proteins/other-ion-channels/hsc/) — Related FNT family channel; extensively compared with FocA in the paper
 - [HiTehA (TehA from Haemophilus influenzae)](/xray-mp-wiki/proteins/other-ion-channels/hiteha/) — Related anion channel within the FNT superfamily
 - [Aqp1 (Aquaporin 1 from E. coli)](/xray-mp-wiki/proteins/other-ion-channels/aqp1/) — Water channel with similar monomeric pore architecture
 - [GlpF (Glycerol Facilitator from E. coli)](/xray-mp-wiki/proteins/other-ion-channels/glycerol-facilitator/) — Glycerol channel with similar monomeric pore architecture
-- [Ion Channel Selectivity Filter](/xray-mp-wiki/concepts/selectivity-filter/) — FocA selectivity filter with cytoplasmic slit and central constriction ring
+- [Ion Channel Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/) — FocA selectivity filter with cytoplasmic slit and central constriction ring
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol) — Entity mentioned in text
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm) — Entity mentioned in text
 - [TALON](/xray-mp-wiki/reagents/additives/talon) — Entity mentioned in text

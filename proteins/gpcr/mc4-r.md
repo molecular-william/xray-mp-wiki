@@ -68,7 +68,7 @@ MC4-R couples to the inwardly rectifying K+ channel Kir7.1 through a G protein-i
 
 ## Cross-References
 
-- [Calcium as a Cofactor for GPCR Ligand Binding](/xray-mp-wiki/concepts/calcium-as-gpcr-ligand-cofactor/) — MC4R is the prototypical example of Ca2+ acting as orthosteric ligand binding cofactor
+- [Calcium as a Cofactor for GPCR Ligand Binding](/xray-mp-wiki/concepts/signaling-receptors/calcium-as-gpcr-ligand-cofactor/) — MC4R is the prototypical example of Ca2+ acting as orthosteric ligand binding cofactor
 - [PG-934](/xray-mp-wiki/reagents/ligands/pg-934/) — Novel co-crystallized peptide antagonist, PDB 8WKY
 - [SBL-MC-31](/xray-mp-wiki/reagents/ligands/sbl-mc-31/) — Novel co-crystallized peptide antagonist, PDB 8WKZ
 - [SHU9119](/xray-mp-wiki/reagents/ligands/shu9119/) — Reference peptide antagonist, previously crystallized PDB 6W25

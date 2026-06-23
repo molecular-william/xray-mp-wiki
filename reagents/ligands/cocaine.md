@@ -51,4 +51,4 @@ No comparison data available.
 - [RTI-55](/xray-mp-wiki/reagents/ligands/rti-55/) — Related tropane-based inhibitor with iodophenyl group
 - [beta-CFT (CFT)](/xray-mp-wiki/reagents/ligands/beta-cft/) — Related tropane inhibitor with fluorophenyl group
 - [Nortriptyline](/xray-mp-wiki/reagents/ligands/nortriptyline/) — Tricyclic antidepressant inhibitor that binds overlapping site
-- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/nss-family/) — Cocaine is a competitive inhibitor of NSS family transporters
+- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/transport-mechanisms/nss-family/) — Cocaine is a competitive inhibitor of NSS family transporters

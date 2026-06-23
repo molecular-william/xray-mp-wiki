@@ -40,6 +40,6 @@ No comparison data available.
 ## Cross-References
 
 - [Escherichia coli CorA Mg2+ Channel (Cytoplasmic Domain)](/xray-mp-wiki/proteins/abc-transporters/ec-cor-a/) — Example of another nutrient uptake transporter
-- [ECF Transporter](/xray-mp-wiki/concepts/ecf-transporter/) — Energy-coupling factor transporter family that specifically transports riboflavin
+- [ECF Transporter](/xray-mp-wiki/concepts/transport-mechanisms/ecf-transporter/) — Energy-coupling factor transporter family that specifically transports riboflavin
 - [RIBU](/xray-mp-wiki/proteins/pumps-atpases/ribu/) — Related protein structure
 - [FAD](/xray-mp-wiki/reagents/additives/flavin-adenine-dinucleotide/) — Additive used in purification or crystallization buffers

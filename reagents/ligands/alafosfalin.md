@@ -54,6 +54,6 @@ No comparison data available.
 - [PepT_So2 Oligopeptide Transporter](/xray-mp-wiki/proteins/mfs-transporters/pept-so2/) — Alafosfalin was the crystallization ligand and binding probe for PepT_So2
 - [PepT_So Oligopeptide Transporter](/xray-mp-wiki/proteins/mfs-transporters/pept-so/) — POT family member from Shewanella oneidensis; spurious density in PepT_So structure suggested a bound ligand, consistent with alafosfalin-like compounds
 - [PepT_St Proton-Dependent Oligopeptide Transporter](/xray-mp-wiki/proteins/mfs-transporters/pept-st/) — POT family member from Streptococcus thermophilus
-- [POT Family (Proton-Dependent Oligopeptide Transporters)](/xray-mp-wiki/concepts/pot-family/) — Alafosfalin is a substrate for POT family transporters
+- [POT Family (Proton-Dependent Oligopeptide Transporters)](/xray-mp-wiki/concepts/transport-mechanisms/pot-family/) — Alafosfalin is a substrate for POT family transporters
 - [Thermal Shift Assay (Fluorescent CPM)](/xray-mp-wiki/methods/quality-assessment/thermal-shift-assay/) — Alafosfalin binding demonstrated by precipitation-after-unfolding thermal shift assay
 - [Zinc Chloride](/xray-mp-wiki/reagents/additives/zinc-chloride/) — ZnCl2 used in PepT_So2 crystallization

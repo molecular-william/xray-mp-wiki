@@ -74,12 +74,12 @@ The βE catalytic site in both wild-type and mutant structures contains [ADP](/x
 ## Cross-References
 
 - [Bovine F1-ATPase (Mitochondrial ATP Synthase Catalytic Domain)](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) — Homologous enzyme from bovine mitochondria with similar α₃β₃γ architecture
-- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/f1-atpase-rotary-mechanism/) — The rotary catalytic mechanism is the fundamental operating principle of F1-ATPases
+- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/) — The rotary catalytic mechanism is the fundamental operating principle of F1-ATPases
 - [n-Dodecyl-N,N-dimethylamine-N-oxide (LDAO)](/xray-mp-wiki/reagents/detergents/ldao/) — LDAO (0.1%) used to activate ATP hydrolysis activity of inhibited F1-ATPase
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein structure
 - [Bovine F1-ATPase (azide-inhibited form)](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) — Related protein structure
 - [ELIC (Erwinia chrysanthemi Pentameric Ligand-Gated Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/elic/) — Related protein structure
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Method used in the study
-- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/f1-atpase-rotary-mechanism/) — Related concept
+- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/) — Related concept
 - [Lauryldimethylamine N-oxide (LDAO)](/xray-mp-wiki/reagents/detergents/ldao/) — Reagent used in the study
 - [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — Detergent used in the study

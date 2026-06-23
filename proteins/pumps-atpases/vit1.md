@@ -85,7 +85,7 @@ Met80 at the substrate-binding site provides selectivity for transition metal io
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Ni-NTA IMAC used for His8-tagged protein purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — SEC used as final purification step
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — EgVIT1 crystallized in monoolein LCP
-- [SLC11/NRAMP Family](/xray-mp-wiki/concepts/slc11-nramp-family/) — Related transition metal transporter family with conserved methionine selectivity mechanism
+- [SLC11/NRAMP Family](/xray-mp-wiki/concepts/protein-families/slc11-nramp-family/) — Related transition metal transporter family with conserved methionine selectivity mechanism
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers
 - [IRON](/xray-mp-wiki/reagents/additives/iron/) — Additive used in purification or crystallization buffers
 - [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) — Additive used in purification or crystallization buffers

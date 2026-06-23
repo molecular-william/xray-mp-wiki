@@ -70,7 +70,7 @@ The hydrophobic gasket residues and counter-charge residues (E205, F199) form a 
 
 ## Cross-References
 
-- [Voltage-Sensor Paddle](/xray-mp-wiki/concepts/voltage-sensor-paddle/) — Ci-VSD contains the conserved voltage-sensor paddle motif (S3b-S4)
+- [Voltage-Sensor Paddle](/xray-mp-wiki/concepts/construct-design/voltage-sensor-paddle/) — Ci-VSD contains the conserved voltage-sensor paddle motif (S3b-S4)
 - [KvAP Voltage-Dependent Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kvap/) — KvAP voltage sensor compared to Ci-VSD for rotamer analysis
 - [NavAb Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) — NavAb structure compared to Ci-VSD for gating charge translocation
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein structure
@@ -78,5 +78,5 @@ The hydrophobic gasket residues and counter-charge residues (E205, F199) form a 
 - [NavAb Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) — Related protein structure
 - [RibU (ECF-Type Riboflavin Transporter S Component from Staphylococcus aureus)](/xray-mp-wiki/proteins/pumps-atpases/ribu/) — Related protein structure
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Method used in the study
-- [Voltage-Sensor Paddle](/xray-mp-wiki/concepts/voltage-sensor-paddle/) — Related concept
+- [Voltage-Sensor Paddle](/xray-mp-wiki/concepts/construct-design/voltage-sensor-paddle/) — Related concept
 - [Lauryldimethylamine N-oxide (LDAO)](/xray-mp-wiki/reagents/detergents/ldao/) — Reagent used in the study

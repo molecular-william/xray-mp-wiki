@@ -85,487 +85,487 @@ For a detailed audit: `python3 ~/Desktop/Research/coding_projects/xray-mp-wiki/s
 <!-- WIKI CATALOG
 | type | path | title | summary |
 |------|------|-------|---------|
-| concept | concepts/2-hydroxycarboxylate-transporter-family/ | 2-Hydroxycarboxylate Transporter (2-HCT) Family | The 2-hydroxycarboxylate transporter (2-HCT) family (TC 2.A.24) comprises second |
-| concept | concepts/3-omega-motif/ | 3 Omega Motif in Microbial Rhodopsins | The 3 omega motif is a structural motif in microbial rhodopsins formed by three  |
-| concept | concepts/aaa-protease-mechanism/ | AAA Protease Mechanism | [AAA](/xray-mp-wiki/reagents/ligands/aaa/)+ proteases (ATPases associated with v |
-| concept | concepts/abc-transporter-allosteric-regulation/ | ABC Transporter Allosteric Regulation | ABC transporters can be allosterically regulated through regulatory domains fuse |
-| concept | concepts/abc-transporter-family/ | ABC Transporter Family | The ATP-binding cassette (ABC) transporter superfamily comprises a large group o |
-| concept | concepts/abc-transporter-outward-occluded-mechanism/ | ABC Transporter Outward-Occluded Mechanism | The outward-occluded conformation of ABC exporters represents an intermediate
-st |
-| concept | concepts/abc-transporter-substrate-specificity/ | ABC Transporter Substrate Specificity | Substrate specificity in ABC transporters is not determined solely by
-the peripl |
-| concept | concepts/abgt-family/ | AbgT Family of Transporters | The AbgT family is a large family of approximately 13,000 putative membrane tran |
-| concept | concepts/acetate-uptake-transporter-family/ | Acetate Uptake Transporter (AceTr) Family | The acetate uptake transporter (AceTr) family (TC 2.A.96) comprises bacterial an |
-| concept | concepts/ag-sf-coupling/ | Activation Gate–Selectivity Filter (AG–SF) Coupling | AG–SF coupling is the allosteric communication mechanism between the activation  |
-| concept | concepts/ago-allosteric-modulator/ | Ago-Allosteric Modulator | An ago-allosteric modulator is a ligand that both activates a receptor (agonist  |
-| concept | concepts/agonist-to-antagonist-conversion/ | Agonist-to-Antagonist Conversion via C8 Modification | Concept: agonist-to-antagonist-conversion |
-| concept | concepts/allosteric-regulation/ | Allosteric Regulation in Membrane Proteins | Allosteric regulation is a fundamental mechanism by which ligand binding at one  |
-| concept | concepts/allosteric-site-in-nss-transporters/ | Allosteric Site in NSS Transporters | Concept: allosteric-site-in-nss-transporters |
-| concept | concepts/alpha-helical-pore-forming-toxin-family/ | Alpha-Helical Pore-Forming Toxin Family (pfam05791) | The alpha-helical pore-forming toxin family (pfam05791) comprises a group of
-str |
-| concept | concepts/alternating-access-mechanism/ | Alternating Access Mechanism | The alternating access mechanism is a fundamental transport mechanism
-employed b |
-| concept | concepts/alternating-access-sodium-transport/ | Alternating Access Model for Light-Driven Sodium Transport | The alternating access model for light-driven sodium transport describes how Kro |
-| concept | concepts/alternating-ion-bound-configurations/ | Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters | The alternating ion-bound configurations model proposes that a K+ channel's sele |
-| concept | concepts/amate-1-subfamily/ | aMATE-1 Subfamily — Archaeal MATE Transporters | The aMATE-1 (archaeal MATE-1) subfamily is a newly identified clade of the multi |
-| concept | concepts/anion-channel-gating/ | Anion Channel Gating via Phenylalanine Gate | Anion channel gating via a conserved phenylalanine gate is a mechanism of ion ch |
-| concept | concepts/anion-mediated-ligand-binding/ | Anion-Mediated Ligand Binding in iGluRs | Anion-mediated ligand binding is a mechanism in which chloride ions serve as sur |
-| concept | concepts/anion-pi-interaction/ | Anion-&#x3C0; Interaction in Ion Transport | Anion-&#x3C0; interactions are non-covalent interactions between an anion
-(negat |
-| concept | concepts/antibiotic-efflux-pump/ | Antibiotic Efflux Pumps | Antibiotic efflux pumps are membrane transporters that export toxic compounds, i |
-| concept | concepts/antiparallel-dimerization/ | Antiparallel Dimerization in GPCR Crystallization | Antiparallel dimerization in the context of GPCR crystallization refers to the a |
-| concept | concepts/apc-superfamily/ | APC Superfamily (Amino Acid-Polyamine-Organocation Transporter Family) | The APC (amino acid-polyamine-organocation) superfamily comprises membrane trans |
-| concept | concepts/apolar-side-chain-packing/ | Apolar Side-Chain Packing in Membrane Proteins | Apolar side-chain packing is the primary driving force for folding and assembly  |
-| concept | concepts/aquaporin/ | Aquaporin Family | Aquaporins are water channel proteins that facilitate water transport across
-cel |
-| concept | concepts/arginine-oscillation-mechanism/ | Arginine Oscillation Mechanism in LeuT-Type Transporters | Concept: arginine-oscillation-mechanism |
-| concept | concepts/atcase-allosteric-mechanism/ | Allosteric Mechanism of Aspartate Carbamoyltransferase | Aspartate carbamoyltransferase (ATCase) from Escherichia coli is the archetypal  |
-| concept | concepts/atp-induced-domain-rearrangement-p-type-atpases/ | ATP-Induced Domain Rearrangement in P-type ATPases | In P-type ATPases such as SERCA, ATP binding alone — without Ca2+ or phosphoryla |
-| concept | concepts/autoinhibitory-domains/ | Autoinhibitory Domains in Ion Pumps | Concept: autoinhibitory-domains |
-| concept | concepts/autophagic-snare-fusion-mechanism/ | Autophagic SNARE Fusion Mechanism | Autophagosome-lysosome fusion is mediated by the autophagic [SNARE Complex](/xra |
-| concept | concepts/axillary-malodour-production-pathway/ | Axillary Malodour Production Pathway | Axillary (underarm) malodour is produced by specific skin bacteria metabolizing  |
-| concept | concepts/bacterial-pump-oligomerization-structural-determinants/ | Bacterial Pump Oligomerization Classification by Structural Determinants | A classification system for bacterial light-driven pumps based on the
-correlatio |
-| concept | concepts/bacteriorhodopsin-photocycle/ | Bacteriorhodopsin Photocycle | The bacteriorhodopsin photocycle is a sequence of light-induced conformational
-a |
-| concept | concepts/ball-and-chain-model/ | Ball-and-Chain Model for SLC38A9 | The ball-and-chain model describes a conformational regulation mechanism in SLC3 |
-| concept | concepts/barbiturate-binding-mechanism/ | Barbiturate Binding Mechanism in Pentameric Ligand-Gated Ion Channels | Barbiturates are sedative-hypnotic drugs that modulate pentameric ligand-gated i |
-| concept | concepts/bcct-family/ | BCCT Family (Betaine/Carnitine/Choline Transporter Family) | The BCCT (Betaine/Carnitine/Choline Transporter) family comprises secondary acti |
-| concept | concepts/bcs1-folded-protein-translocation/ | Bcs1 Folded Protein Translocation Mechanism | Bcs1 is a mitochondrial AAA+ ATPase that translocates folded proteins across the |
-| concept | concepts/beta-arrestin-signaling/ | Beta-Arrestin Signaling | Concept: beta-arrestin-signaling |
-| concept | concepts/beta-arrestin/ | Beta-Arrestin | Beta-arrestins are multifunctional adaptor proteins that regulate GPCR signaling |
-| concept | concepts/biased-agonism/ | Biased Agonism in G Protein-Coupled Receptors | Biased agonism refers to the ability of different ligands to preferentially acti |
-| concept | concepts/binder-clip-motion/ | Binder Clip Motion | Binder clip-like motion is a conformational mechanism in [SemiSWEET Transporter  |
-| concept | concepts/binding-change-mechanism/ | Binding-Change Mechanism | The binding-change mechanism is the catalytic mechanism proposed for ATP synthas |
-| concept | concepts/biogenic-amine-transporters/ | Biogenic Amine Transporters | Biogenic amine transporters (BATs) are integral-membrane symporters that clear n |
-| concept | concepts/blue-shifted-rhodopsin-design/ | Blue-Shifted Rhodopsin Design Principle | The blue-shifted rhodopsin design principle uses atomistic rational design to cr |
-| concept | concepts/c-terminus/ | C-Terminus (C-Terminal Domain) | The C-terminus (C-terminal domain) of a protein is the end of the polypeptide ch |
-| concept | concepts/c-type-inactivation/ | C-type Inactivation | Concept: c-type-inactivation |
-| concept | concepts/c41-e-coli-expression-strain/ | E. coli C41 Expression Strain | E. coli C41 is a genetically engineered expression strain derived from E. coli B |
-| concept | concepts/caax-protein-processing/ | CAAX Protein Processing | CAAX protein processing is a series of post-translational modifications of the C |
-| concept | concepts/caca-superfamily/ | Ca2+:Cation Antiporter (CaCA) Superfamily | The Ca2+:cation (CaCA) superfamily is a large and ancient family of integral mem |
-| concept | concepts/calcium-as-gpcr-ligand-cofactor/ | Calcium as a Cofactor for GPCR Ligand Binding | Calcium ions (Ca2+) can act as a cofactor for ligand binding at the orthosteric  |
-| concept | concepts/calcium-bowl/ | Ca2+ Bowl | The Ca2+ bowl is a stretch of well-conserved aspartate residues within the secon |
-| concept | concepts/camera-iris-gating/ | Camera Iris Gating | Camera iris gating describes a mechanism of channel opening where transmembrane  |
-| concept | concepts/carbon-catabolite-repression/ | Carbon Catabolite Repression | Carbon catabolite repression (CCR) is a global regulatory phenomenon in bacteria |
-| concept | concepts/carboxylate-dyad/ | Carboxylate Dyad in Oligosaccharyltransferase | The carboxylate dyad is a catalytic motif in oligosaccharyltransferase (OST) enz |
-| concept | concepts/carboxylate-shift/ | Carboxylate Shift | The carboxylate shift is a catalytic mechanism observed in Class I
-CDP-alcohol p |
-| concept | concepts/cardiac-glycoside-binding-mechanism/ | Cardiac Glycoside Binding Mechanism | Cardiac glycosides (e.g., [Ouabain](/xray-mp-wiki/reagents/ligands/ouabain), dig |
-| concept | concepts/cardiolipin-transport/ | Cardiolipin Transport in Gram-Negative Bacteria | [Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) (CL) transport in Gram |
-| concept | concepts/cardiotonic-steroids/ | Cardiotonic Steroids | Cardiotonic steroids (CTS), also known as cardiac glycosides, are a class of inh |
-| concept | concepts/cation-diffusion-facilitator-family/ | Cation Diffusion Facilitator (CDF) Family | The Cation Diffusion Facilitator (CDF) family is a ubiquitous family of
-metal io |
-| concept | concepts/cck-receptor-peptide-selectivity/ | Peptide Selectivity in Cholecystokinin Receptors | Peptide selectivity in cholecystokinin receptors refers to the molecular basis b |
-| concept | concepts/cck-receptor-stepwise-activation/ | Stepwise Activation of Cholecystokinin Receptors | The stepwise activation of cholecystokinin receptors (CCKₐR and CCKᴅR) describes |
-| concept | concepts/cdp-alcohol-phosphotransferase-family/ | CDP-Alcohol Phosphotransferase Family | The CDP-alcohol phosphotransferase (CDP-AP) family comprises integral membrane e |
-| concept | concepts/central-core-disease/ | Central Core Disease and Ryanodine Receptor SPRY1 Domain | Central core disease (CCD) is a congenital myopathy associated with mutations in |
-| concept | concepts/channel-4/ | Channel 4 (CH4) - PN2/PC1 Drug Transport Pathway in AcrB | Channel 4 (CH4) is a proposed drug transport pathway in the AcrB multidrug efflu |
-| concept | concepts/channel-gating/ | Channel Gating via Plug Domain Displacement | Channel gating in the [SECY](/xray-mp-wiki/proteins/secretion-translocon/secy/)  |
-| concept | concepts/channel-like-mechanism/ | Channel-like Mechanism in Membrane Transport | Concept: channel-like-mechanism |
-| concept | concepts/channelrhodopsin-photocycle/ | Channelrhodopsin Photocycle | The channelrhodopsin photocycle is a sequence of light-induced conformational
-an |
-| concept | concepts/charge-transfer-interaction/ | Charge-Transfer Interaction | A charge-transfer interaction is a non-covalent interaction between an electron  |
-| concept | concepts/chloride-binding-sites-psii/ | Chloride-Binding Sites in Photosystem II | The chloride ion (Cl-) is an essential cofactor for oxygen evolution in photosys |
-| concept | concepts/cholesterol-dependent-cytolysins/ | Cholesterol-Dependent Cytolysins | Cholesterol-dependent cytolysins (CDCs) are a family of bacterial pore-forming t |
-| concept | concepts/cl1-channel/ | Cl1 Proton Channel of Photosystem II | The Cl1 channel is a proton release pathway in Photosystem II (PSII) that connec |
-| concept | concepts/claudin-paracellular-ion-selectivity/ | Claudin-Mediated Paracellular Ion Selectivity | Claudins are the major structural components of tight junctions (TJs) that contr |
-| concept | concepts/claudin-tight-junction-architecture/ | Claudin Tight Junction Architecture | Claudins are the major structural components of tight junctions (TJs), forming c |
-| concept | concepts/clc-chloride-channel-glutamate-gating/ | CLC Chloride Channel Glutamate Gating | CLC chloride channel gating is mediated by a conserved glutamate residue (E148 i |
-| concept | concepts/clc-proton-transport-mechanism/ | CLC Cl-/H+ Exchange Transport Mechanism | CLC Cl-/H+ exchange transporters couple the downhill movement of chloride ions ( |
-| concept | concepts/clc-two-gate-mechanism/ | CLC Two-Gate Transport Mechanism | The CLC two-gate transport mechanism describes how CLC-type Cl-/H+ exchangers co |
-| concept | concepts/clc-windmill-antiport-mechanism/ | CLC Windmill Antiport Mechanism | The windmill mechanism is a proposed model for CLCF-type F-/H+
-antiport, based o |
-| concept | concepts/co2-concentrating-mechanism/ | CO2-Concentrating Mechanism (CCM) | The CO2-concentrating mechanism (CCM) is an adaptive system evolved by cyanobact |
-| concept | concepts/common-drug-binding-site-atp-synthase-c-ring/ | Common Drug-Binding Site on ATP Synthase c-Ring | Concept: common-drug-binding-site-atp-synthase-c-ring |
-| concept | concepts/competitive-antagonism-cys-loop/ | Competitive Antagonism in Cys-Loop Receptors | Competitive antagonism in Cys-loop receptors occurs when a ligand binds to the o |
-| concept | concepts/computational-transmembrane-protein-design/ | Computational Design of Multipass Transmembrane Proteins | A methodology for the de novo computational design of multipass transmembrane pr |
-| concept | concepts/conformational-asymmetry-abc-transporters/ | Conformational Asymmetry in ABC Transporters | Conformational asymmetry in ABC transporters refers to the observation that the  |
-| concept | concepts/conformational-change/ | Conformational Change | Conformational changes are structural rearrangements within a protein that enabl |
-| concept | concepts/conformational-coupling-gating/ | Conformational Coupling Between Activation Gate and Selectivity Filter | Conformational coupling between the activation gate and selectivity filter is a  |
-| concept | concepts/conformational-dynamics-mfs/ | Conformational Dynamics in MFS Transporters | [MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/) transporters exhibi |
-| concept | concepts/conformational-dynamics-mppases/ | Conformational Dynamics in M-PPases | M-PPases (membrane-bound H+-pumping pyrophosphatases) undergo large-scale confor |
-| concept | concepts/conserved-core-triad/ | Conserved Core Triad in GPCR Activation | The conserved core triad (FPI triad) consists of three highly conserved amino ac |
-| concept | concepts/constitutive-active-gpcr-mutations/ | Constitutive Active GPCR Mutations | Constitutive active mutations (CAMs) in G-protein-coupled receptors (GPCRs) are
- |
-| concept | concepts/continuous-diffraction/ | Continuous Diffraction in Macromolecular Crystallography | Continuous diffraction refers to the incoherent sum of Fraunhofer diffraction pa |
-| concept | concepts/cora-mg-transporter/ | CorA Mg2+ Transporter | CorA is a Mg2+ transporter that forms a pentameric structure. It uses a common p |
-| concept | concepts/cora-mrs2-alr1-superfamily/ | CorA-Mrs2-Alr1 Superfamily of Mg2+ Channels | Concept: cora-mrs2-alr1-superfamily |
-| concept | concepts/cork-in-bottle-occlusion/ | Cork-in-Bottle Occlusion | Cork-in-bottle occlusion is a mechanism of ion channel block in which a bound pr |
-| concept | concepts/cpe-induced-tight-junction-disassembly/ | CpE-Induced Tight Junction Disassembly | Clostridium perfringens enterotoxin (CpE) causes tight junction (TJ) disassembly |
-| concept | concepts/cpvt/ | Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) and Ryanodine Receptor | Catecholaminergic polymorphic ventricular tachycardia (CPVT) is a genetic cardia |
-| concept | concepts/crd-cholesterol-binding-site-smo/ | CRD Cholesterol Binding Site of Smoothened | The CRD cholesterol binding site is a shallow groove on the surface of the cyste |
-| concept | concepts/cross-protomer-interaction-proteorhodopsin/ | Cross-Protomer Interactions in Proteorhodopsin Oligomers | Proteorhodopsins (PRs) form oligomeric assemblies (hexamers or pentamers) in whi |
-| concept | concepts/cupin-fold/ | Cupin Fold | The cupin fold is a structural motif found in a large superfamily of proteins ch |
-| concept | concepts/cyanorhodopsin/ | CyanoRhodopsin (CyR) | Concept: cyanorhodopsin |
-| concept | concepts/cys-loop-receptor-family/ | Cys-Loop Receptor Family | Concept: cys-loop-receptor-family |
-| concept | concepts/cytochrome-b561-family/ | Cytochrome b561 (Cyt b561) Protein Family | The cytochrome b561 (Cyt b561) family is a group of highly conserved
-transmembra |
-| concept | concepts/dark-adapted-state/ | Dark-Adapted State of Microbial Rhodopsins | The dark-adapted (DA) state is a desensitized conformation of microbial rhodopsi |
-| concept | concepts/darpin/ | Designed Ankyrin Repeat Protein (DARPin) | Designed Ankyrin Repeat Proteins (DARPins) are modular protein scaffolds
+| concept | concepts/construct-design/agonist-to-antagonist-conversion/ | Agonist-to-Antagonist Conversion via C8 Modification | Concept: agonist-to-antagonist-conversion |
+| concept | concepts/construct-design/autophagic-snare-fusion-mechanism/ | Autophagic SNARE Fusion Mechanism | Autophagosome-lysosome fusion is mediated by the autophagic [SNARE Complex](/xra |
+| concept | concepts/construct-design/darpin/ | Designed Ankyrin Repeat Protein (DARPin) | Designed Ankyrin Repeat Proteins (DARPins) are modular protein scaffolds
 enginee |
-| concept | concepts/dass-family/ | Divalent Anion/Na+ Symporter (DASS) Family | The Divalent Anion/Na+ Symporter (DASS) family (TC 2.A.47) is a large family
-of  |
-| concept | concepts/de-novo-design-transmembrane-pores/ | De Novo Design of Transmembrane Pores | De novo design of transmembrane pores involves the computational design and
-expe |
-| concept | concepts/deddh-exonuclease-family/ | DEDDh Exonuclease Family | The DEDDh exonuclease family is named after four catalytic residues (Asp, Glu, A |
-| concept | concepts/deep-7tm-sterol-binding-site/ | Deep 7TM Sterol-Binding Site of Smoothened | The deep 7TM sterol-binding site is a cholesterol-binding pocket located deep wi |
-| concept | concepts/desensitization-in-cys-loop-receptors/ | Desensitization in Cys-Loop Receptors | Desensitization is a fundamental regulatory mechanism in Cys-loop receptors wher |
-| concept | concepts/dhhc-palmitoyltransferase-family/ | DHHC Palmitoyltransferase Family | The DHHC (Asp-His-His-Cys) palmitoyltransferase family comprises eukaryotic
-inte |
-| concept | concepts/di-iron-desaturase/ | Di-Iron-Containing Desaturase Family | The di-iron-containing desaturase family comprises enzymes that catalyze the int |
-| concept | concepts/diiron-center-mechanism/ | Diiron Center Mechanism in Membrane Desaturases | The diiron center in membrane-bound desaturases, exemplified by [Stearoyl-CoA](/ |
-| concept | concepts/disulfide-bond-formation/ | Disulfide Bond Formation in Bacteria | Disulfide bond formation in bacteria is catalyzed by the Dsb system, comprising  |
-| concept | concepts/dmt-superfamily/ | DMT Superfamily (Drug/Metabolite Transporter Superfamily) | The drug/metabolite transporter (DMT) superfamily is a large group of membrane t |
-| concept | concepts/domain-swapping/ | Three-Dimensional Domain Swapping | Three-dimensional domain swapping occurs when a protein unfolds partially and ex |
-| concept | concepts/drd2-extended-binding-pocket/ | DRD2 Extended Binding Pocket (DRD2-EBP) | The [DRD2](/xray-mp-wiki/proteins/gpcr/drd2/) extended binding pocket (DRD2-[EBP |
-| concept | concepts/dtg-dts-rhodopsin/ | DTG/DTS Rhodopsin | DTG/DTS rhodopsins are a family of light-driven outward proton-pumping [Microbia |
-| concept | concepts/dual-drug-binding-sites-mfs/ | Dual Drug-Binding Sites in MFS Multidrug Transporters | X-ray structures of the MdfA variant I239T/G354E revealed that this multidrug tr |
-| concept | concepts/dual-mode-inhibition-abc-transporters/ | Dual-Mode Inhibition of ABC Transporters | Dual-mode inhibition refers to a mechanism where a single small-molecule inhibit |
-| concept | concepts/dual-orexin-receptor-antagonist/ | Dual Orexin Receptor Antagonist (DORA) | Dual orexin receptor antagonists (DORAs) are therapeutic compounds that inhibit  |
-| concept | concepts/dual-topology-architecture/ | Dual-Topology Membrane Protein Architecture | Dual-topology membrane protein architecture refers to the assembly of a function |
-| concept | concepts/dual-topology-channels/ | Dual-Topology Channels | Dual-topology channels are membrane protein complexes in which the subunits that |
-| concept | concepts/duf3413-family/ | DUF3413 (PF11893) Protein Family | DUF3413 (Domain of Unknown Function 3413, Pfam family PF11893) is a conserved
-pr |
-| concept | concepts/ecf-transporter-family/ | ECF (Energy Coupling Factor) Transporter Family | The Energy Coupling Factor (ECF) transporter family is a specialized class of
-AT |
-| concept | concepts/ecf-transporter/ | ECF Transporter (Energy-Coupling Factor Transporter) | Energy-coupling factor (ECF) transporters are a unique family of membrane transp |
-| concept | concepts/efficacy-switches/ | Efficacy Switches in GPCR Signaling | Efficacy switches are molecular mechanisms by which specific residues in G prote |
-| concept | concepts/electrostatic-gating-sodium-pump/ | Electrostatic Gating in Light-Driven Sodium Pumps | The electrostatic gating mechanism describes how light-driven sodium pumps such  |
-| concept | concepts/elevator-mechanism/ | Elevator Mechanism | Concept: elevator-mechanism |
-| concept | concepts/embedded-lipid-in-binding-cavity/ | Embedded Lipid in the Binding Cavity | The presence of an embedded lipid within the substrate-binding cavity of a
-multi |
-| concept | concepts/engineered-disulfide-bridge-trapping/ | Engineered Disulfide Bridge Conformational Trapping | Engineered disulfide bridge conformational trapping is a protein engineering str |
-| concept | concepts/entropic-spring-mechanism/ | Entropic Spring Mechanism in Tc Toxin Injection | The entropic spring mechanism describes how the linker connecting the shell and  |
-| concept | concepts/enzyme-rhodopsins/ | Enzyme Rhodopsins | Enzyme rhodopsins are a recently discovered class of microbial
+| concept | concepts/construct-design/nonhallucinogenic-psychedelic-analog-design/ | Nonhallucinogenic Psychedelic Analog Design | Structure-based design of nonhallucinogenic psychedelic analogs represents a the |
+| concept | concepts/construct-design/pe-ppe-fusion-proteins/ | PE-PPE Fusion Proteins | PE-PPE fusion proteins are chimeric proteins that combine the N-terminal PE (Pro |
+| concept | concepts/construct-design/structure-based-antipsychotic-design/ | Structure-Based Design of Third-Generation Antipsychotics | Structure-based design of third-generation antipsychotics represents a rational  |
+| concept | concepts/construct-design/thermostabilization/ | Protein Thermostabilization | Protein thermostabilization is a construct design strategy in which targeted poi |
+| concept | concepts/construct-design/voltage-sensor-paddle/ | Voltage-Sensor Paddle | The voltage-sensor paddle is a helix-turn-helix structural motif found in voltag |
+| concept | concepts/construct-design/voltage-sensor-trapping/ | Voltage-Sensor Trapping | Voltage-sensor trapping is a mechanism of ion channel inhibition in which a smal |
+| concept | concepts/enzyme-mechanisms/aaa-protease-mechanism/ | AAA Protease Mechanism | [AAA](/xray-mp-wiki/reagents/ligands/aaa/)+ proteases (ATPases associated with v |
+| concept | concepts/enzyme-mechanisms/binding-change-mechanism/ | Binding-Change Mechanism | The binding-change mechanism is the catalytic mechanism proposed for ATP synthas |
+| concept | concepts/enzyme-mechanisms/caax-protein-processing/ | CAAX Protein Processing | CAAX protein processing is a series of post-translational modifications of the C |
+| concept | concepts/enzyme-mechanisms/carboxylate-dyad/ | Carboxylate Dyad in Oligosaccharyltransferase | The carboxylate dyad is a catalytic motif in oligosaccharyltransferase (OST) enz |
+| concept | concepts/enzyme-mechanisms/diiron-center-mechanism/ | Diiron Center Mechanism in Membrane Desaturases | The diiron center in membrane-bound desaturases, exemplified by [Stearoyl-CoA](/ |
+| concept | concepts/enzyme-mechanisms/disulfide-bond-formation/ | Disulfide Bond Formation in Bacteria | Disulfide bond formation in bacteria is catalyzed by the Dsb system, comprising  |
+| concept | concepts/enzyme-mechanisms/enzyme-rhodopsins/ | Enzyme Rhodopsins | Enzyme rhodopsins are a recently discovered class of microbial
 rhodopsins that c |
-| concept | concepts/epitaxial-twinning/ | Epitaxial Twinning | Epitaxial twinning is a crystallographic phenomenon in which two or more crystal |
-| concept | concepts/er-retrieval-mechanism/ | ER Retrieval Mechanism (KDEL Receptor) | The ER retrieval mechanism involves KDEL receptors that bind to proteins with C- |
-| concept | concepts/esx-1-secretion-system/ | ESX-1 Secretion System | The ESX-1 secretion system is a type VII protein secretion system in Mycobacteri |
-| concept | concepts/evolution-of-rhodopsins/ | Evolution of Rhodopsins | Concept: evolution-of-rhodopsins |
-| concept | concepts/extended-selectivity-filter/ | Extended Selectivity Filter | The extended selectivity filter is a five-position motif in the pore of
-ammonia- |
-| concept | concepts/extra-helical-binding-site/ | Extra-helical Binding Site in GPCRs | Concept: extra-helical-binding-site |
-| concept | concepts/extracellular-domain-gpcr-allostery/ | Extracellular Domain-Mediated Allostery in GPCRs | Extracellular domain-mediated allostery refers to the mechanism by which large e |
-| concept | concepts/f1-atpase-rotary-mechanism/ | F1-ATPase Rotary Catalytic Mechanism | Concept: f1-atpase-rotary-mechanism |
-| concept | concepts/flickering-gate-mechanism/ | Flickering-Gate Mechanism | The flickering-gate mechanism proposes that the extracellular gate of P-type ATP |
-| concept | concepts/fluc-family/ | Fluc Family of Fluoride Ion Channels | The Fluc family comprises F- specific ion channels that protect prokaryotes and  |
-| concept | concepts/fnt-family/ | FNT Family (Formate/Nitrite Transporter Family) | The FNT (formate/nitrite transporter) family comprises pentameric membrane chann |
-| concept | concepts/force-from-lipid-principle/ | Force-from-Lipid Principle in Mechanosensation | The force-from-lipid (FFL) principle posits that mechanosensitive ion channels a |
-| concept | concepts/functionally-rotating-mechanism/ | Functionally Rotating Mechanism in Multidrug Transporters | The functionally rotating mechanism is a drug export mechanism proposed for the  |
-| concept | concepts/g-protein/ | Heterotrimeric G Protein | Heterotrimeric G proteins are composed of alpha, beta, and gamma subunits. They  |
-| concept | concepts/gaba-transporters-gats/ | GABA Transporters (GATs) | GABA transporters (GATs) are members of the neurotransmitter/sodium symporter (N |
-| concept | concepts/gamma-secretase/ | Gamma-Secretase Complex | Gamma-secretase is an intramembrane protease complex responsible for the generat |
-| concept | concepts/gap-junction-voltage-gating/ | Gap Junction Voltage-Dependent Gating (Vj Gating) | Gap junction channels exhibit voltage-dependent gating in response to the transj |
-| concept | concepts/gas-conducting-aquaporins/ | Gas-Conducting Aquaporins | Gas-conducting aquaporins are a proposed subclass of the aquaporin superfamily
-t |
-| concept | concepts/gas-selectivity-filter/ | GAS Selectivity Filter | The GAS (Gly-Ala-Ser) selectivity filter is the ion selectivity determinant in a |
-| concept | concepts/gated-pore-mechanism/ | Gated-Pore Mechanism | The gated-pore mechanism is an alternating access transport mode in which a tran |
-| concept | concepts/gating-charge-transfer-center/ | Gating Charge Transfer Center in Voltage Sensors | The gating charge transfer center is a conserved structural feature in voltage-s |
-| concept | concepts/gating-modifier-toxin-binding/ | Gating Modifier Toxin Binding Mechanism | Concept: gating-modifier-toxin-binding |
-| concept | concepts/gating-pore-current/ | Gating Pore Current (Omega Current) | The gating pore current (also called omega current) is a pathological ionic curr |
-| concept | concepts/gating-ring/ | Gating Ring (RCK Domain Assembly) | A gating ring is a large tetrameric or octameric assembly of RCK (Regulator of C |
-| concept | concepts/get-pathway/ | GET Pathway for Tail-Anchored Protein Insertion | The guided entry of tail-anchored proteins (GET) pathway is a conserved eukaryot |
-| concept | concepts/glucose-h-symport-mechanism/ | Glucose/H+ Symport Mechanism | The glucose/H+ symport mechanism describes how members of the
-[Major Facilitator |
-| concept | concepts/gluex-conformational-states-clc/ | Gluex Conformational States in CLC Transport Cycle | The critical glutamate residue (Gluex) in CLC Cl-/H+ antiporters adopts multiple |
-| concept | concepts/glutamate-transporter-family/ | Glutamate Transporter Family (SLC1/EAAT) | The glutamate transporter family (SLC1 in humans, also known as excitatory
-amino |
-| concept | concepts/glycine-gating-hinge/ | Glycine-Gating Hinge | The glycine-gating hinge is a conserved [Glycine](/xray-mp-wiki/reagents/buffers |
-| concept | concepts/gpcr-active-conformation/ | GPCR Active Conformation | GPCRs adopt distinct active and inactive conformations. The active state is char |
-| concept | concepts/gpcr-active-state-high-affinity-agonist-binding/ | GPCR Active State High-Affinity Agonist Binding | A mechanistic principle explaining why G protein-coupled receptors (GPCRs) in th |
-| concept | concepts/gpcr-chemokine-recognition/ | GPCR-Chemokine Recognition (CRS1/CRS1.5/CRS2) | Chemokine receptors (CKRs) are class A G protein-coupled receptors (GPCRs) that  |
-| concept | concepts/gpcr-dimerization/ | GPCR Dimerization | GPCR dimerization refers to the formation of homo- and hetero-oligomeric complex |
-| concept | concepts/gpcr-g-protein-arrestin-common-interface/ | GPCR G Protein-Arrestin Common Interface | G-protein-coupled receptors (GPCRs) transmit extracellular signals to activate i |
-| concept | concepts/gpcr-g-protein-coupling/ | GPCR-G Protein Coupling Mechanism | GPCR-G protein coupling is the fundamental mechanism by which G protein-coupled  |
-| concept | concepts/gpcr-inactive-conformation/ | GPCR Inactive Conformation | The inactive conformation of G-protein-coupled receptors (GPCRs), also known as  |
-| concept | concepts/gpcr-lateral-ligand-entry-channel/ | GPCR Lateral Ligand Entry Channel | Some G-protein-coupled receptors (GPCRs), particularly those that bind lipophili |
-| concept | concepts/gpcr/ | G Protein-Coupled Receptor (GPCR) Family | GPCRs are the largest family of cell surface receptors, characterized by seven t |
-| concept | concepts/gpr6-constitutive-activity/ | GPR6 High Constitutive Activity and Orphan Receptor Signaling | [GPR6 — Orphan G Protein-Coupled Receptor Implicated in Parkinson's Disease](/xr |
-| concept | concepts/grana-stacking-mechanism/ | Grana Stacking Mechanism | Concept: grana-stacking-mechanism |
-| concept | concepts/gt-a-fold/ | GT-A Fold (Glycosyltransferase A Fold) | Concept: gt-a-fold |
-| concept | concepts/gxgd-proteases/ | GXGD Proteases | Concept: gxgd-proteases |
-| concept | concepts/gxxxg-motif/ | GXXXG Motif (Helix Packing Motif) | The GXXXG motif is a helix-helix packing motif commonly found in transmembrane p |
-| concept | concepts/h-plus-countertransport-p-type-atpases/ | H⁺ Countertransport in P-type ATPases | H⁺ countertransport in P-type ATPases refers to the coupled movement of
-protons  |
-| concept | concepts/heavy-atom-derivative-detergents-and-lipids/ | Heavy Atom Derivative Detergents and Lipids for Membrane Protein Crystallography | Heavy atom derivative detergents and lipids are artificially synthesized amphiph |
-| concept | concepts/helical-recoil-desensitization/ | Helical Recoil Model of P2X Receptor Desensitization | The helical recoil model describes the molecular mechanism of P2X receptor desen |
-| concept | concepts/heliorhodopsin-schiff-base-cavity/ | Heliorhodopsin Schiff Base Cavity | The Schiff base cavity (SBC) is a large hydrophilic cavity located in the cytopl |
-| concept | concepts/helix-pi-bulge/ | Helix Pi-Bulge in Membrane Proteins | A pi-bulge is a local disruption of the alpha-helical hydrogen-bonding pattern w |
-| concept | concepts/helix-shift-mechanism/ | Helix Shift Mechanism for Carboxylate Drug Transport | The helix shift mechanism describes how carboxylate drugs are actively transport |
-| concept | concepts/heteromeric-ampa-receptor-organization/ | Heteromeric AMPA Receptor Organization | Heteromeric AMPA-type glutamate receptors (AMPARs), composed of GluA1-4 subunits |
-| concept | concepts/high-viscosity-sample-injection-for-sfx/ | High-Viscosity Sample Injection for Serial Femtosecond Crystallography | High-viscosity sample injection is a sample delivery method for [Serial Femtosec |
-| concept | concepts/hme-rnd-efflux-pump/ | HME-RND Efflux Pump (Heavy-Metal Efflux RND) | The heavy-metal efflux resistance-nodulation-cell division (HME-RND) subfamily c |
-| concept | concepts/horizontal-helix-spring-mechanism/ | Horizontal Helix Spring Mechanism | The horizontal helix spring mechanism is a structural mechanism discovered in th |
-| concept | concepts/hp1-hp2-gating-mechanism/ | HP1-HP2 Gating Mechanism in Glutamate Transporters | The HP1-HP2 gating mechanism describes how glutamate transporters control altern |
-| concept | concepts/hydrogen-bonding-networks-reaction-centers/ | Hydrogen-Bonding Networks in Photosynthetic Reaction Centers | Hydrogen-bonding networks near the primary electron donor ([Bacteriochlorophyll] |
-| concept | concepts/hydrophilic-groove-insertion/ | Hydrophilic Groove Insertion Mechanism | The hydrophilic groove insertion mechanism describes how YidC inserts single-spa |
-| concept | concepts/hydrophobic-gating/ | Hydrophobic Gating (Vapor Lock Mechanism) | Hydrophobic gating, also known as the "vapor lock" mechanism, is a principle by  |
-| concept | concepts/hydrophobic-tunnel-smo/ | Hydrophobic Tunnel for Sterol Access in Smoothened | The hydrophobic tunnel is a conduit between transmembrane helices TM5 and TM6 of |
-| concept | concepts/in-situ-crystallography/ | In situ X-ray Crystallography | In situ X-ray crystallography is a technique where X-ray diffraction data are co |
-| concept | concepts/inducer-exclusion/ | Inducer Exclusion | Inducer exclusion is a mechanism of [Carbon Catabolite Repression](/xray-mp-wiki |
-| concept | concepts/inner-membrane/ | Inner Membrane | The inner (cytoplasmic) membrane of Gram-negative bacteria is the primary permea |
-| concept | concepts/interdigitated-inverted-topology-repeat/ | Interdigitated Inverted Topology Repeat (IITR) | The interdigitated inverted topology repeat (IITR) is a protein fold in which tw |
-| concept | concepts/internal-counterion-mechanism/ | Internal Counterion Mechanism in P-Type ATPases | Many P-type ATPases require counterion transport to complete their reaction cycl |
-| concept | concepts/intracellular-allosteric-antagonism/ | Intracellular Allosteric Antagonism at Chemokine Receptors | Intracellular allosteric antagonism is a mechanism of GPCR inhibition where
-smal |
-| concept | concepts/intramembrane-ion-coordination/ | Intramembrane Ion Coordination | Intramembrane ion coordination refers to the phenomenon where metal cations (suc |
-| concept | concepts/intramembrane-proteolysis/ | Intramembrane Proteolysis | Intramembrane proteolysis is the cleavage of peptide bonds within the hydrophobi |
-| concept | concepts/intramolecular-salt-bridge/ | Intramolecular Salt Bridge | Concept: intramolecular-salt-bridge |
-| concept | concepts/inverse-agonism/ | Inverse Agonism in GPCR Signaling | Inverse agonism refers to the ability of certain ligands to reduce the basal (co |
-| concept | concepts/inward-facing-conformation/ | Inward-Facing Conformation of ABC Transporters | The inward-facing conformation is a structural state of ABC transporters in whic |
-| concept | concepts/inward-facing-occluded-mfs-state/ | Inward Facing Occluded State in MFS Transporters | The inward facing occluded state is a conformational intermediate in the transpo |
-| concept | concepts/inward-rectification/ | Inward Rectification in Potassium Channels | Inward rectification is the property of certain potassium channels (Kir channels |
-| concept | concepts/ion-release-pathway/ | Ion-Release Pathway in Copper-Transporting P-type ATPases | The ion-release pathway in copper-transporting P-type ATPases (P_IB ATPases) is  |
-| concept | concepts/ionic-locks-mfs/ | Ionic Locks in MFS Transporters | Concept: ionic-locks-mfs |
-| concept | concepts/isoprenoid-quinone-in-atp-synthase-c-ring/ | Isoprenoid Quinones inside the ATP Synthase c-Ring Pore | The hypothesis that isoprenoid quinones (plastoquinone in chloroplasts,
-coenzyme |
-| concept | concepts/k-lt-intermediate/ | K_LT Intermediate | The K_LT intermediate is a low-temperature photointermediate in the [Bacteriorho |
-| concept | concepts/k2p-modulator-pocket/ | K2P Modulator Pocket | Concept: k2p-modulator-pocket |
-| concept | concepts/kctd-modulation-gabab-receptor/ | KCTD-Mediated Modulation of GABA_B Receptor Signaling | KCTD (potassium channel tetramerization domain-containing) proteins, specificall |
-| concept | concepts/knock-off-mechanism/ | Knock-off Mechanism of Ion Permeation | The knock-off mechanism is a model of ion permeation through selectivity filters |
-| concept | concepts/kok-cycle/ | Kok Cycle | The Kok cycle (also known as the S-state cycle) is the four-step mechanism of wa |
-| concept | concepts/large-domain-motion-in-p-type-atpases/ | Large Domain Motion in P-type ATPases | Concept: large-domain-motion-in-p-type-atpases |
-| concept | concepts/lateral-gating-mechanism/ | Lateral Gating Mechanism in Rhomboid Proteases | The lateral gating mechanism is a feature of rhomboid intramembrane proteases th |
-| concept | concepts/lcp-microseeding-for-serial-crystallography/ | LCP Microseeding for Serial Crystallography | LCP microseeding for serial crystallography is a crystallization strategy that c |
-| concept | concepts/leu25-gatekeeper/ | Leu25 Gatekeeper Mechanism in NSS Transporters | The Leu25 gatekeeper is a conserved mechanism in the NSS (neurotransmitter:sodiu |
-| concept | concepts/leut-return-state-mechanism/ | LeuT Return State Mechanism | The [LEUT](/xray-mp-wiki/proteins/enzymes/leut/) return state mechanism describe |
-| concept | concepts/lid-domain/ | Lid Domain in Sugar Transport Proteins (STPs) | The Lid domain is a conserved structural feature of Sugar Transport Proteins
-(ST |
-| concept | concepts/ligand-efficiency/ | Ligand Efficiency in Drug Discovery | Ligand efficiency (LE) is a metric used in drug discovery to assess how efficien |
-| concept | concepts/light-adapted-state/ | Light-Adapted State of Microbial Rhodopsins | The light-adapted (LA) state is the ground state of microbial rhodopsins establi |
-| concept | concepts/lipid-activation-5ht2a-receptor/ | Lipid Activation of 5-HT2A Receptor | The human serotonin 2A receptor (5-HT2AR) is modulated by lipids including monoo |
-| concept | concepts/lipid-annulus/ | Lipid Annulus in Membrane Protein Structures | A lipid annulus is a belt of ordered lipid molecules surrounding a membrane prot |
-| concept | concepts/lipid-asymmetry/ | Membrane Lipid Asymmetry | Membrane lipid asymmetry refers to the non-random distribution of lipids between |
-| concept | concepts/lipid-mediated-gating-of-kir-channels/ | Lipid-Mediated Gating of Kir Potassium Channels | Kir (inwardly rectifying) potassium channels conduct K+ through a narrow pore th |
-| concept | concepts/lipidic-sponge-phase/ | Lipidic Sponge Phase (LSP) | The lipidic sponge phase (LSP) is a liquid-like isotropic phase formed by a mixt |
-| concept | concepts/long-wavelength-native-sad-phasing/ | Long-Wavelength Native-SAD Phasing | Long-wavelength native-SAD phasing is an experimental X-ray crystallographic pha |
-| concept | concepts/low-barrier-hydrogen-bond/ | Low-Barrier Hydrogen Bond | A low-barrier hydrogen bond (LBHB) is a very short, strong hydrogen bond (typica |
-| concept | concepts/lumenal-gating-mechanism/ | Lumenal Gating Mechanism in P-type ATPases | The lumenal gating mechanism describes how P-type ATPases control ion release to |
-| concept | concepts/m-ppase-ion-pumping-mechanism/ | M-PPase Ion Pumping Mechanism | Membrane-integral pyrophosphatases (M-PPases) are ion pumps that couple the
-hydr |
-| concept | concepts/m2-conformational-equilibrium/ | M2 Proton Channel Conformational Equilibrium | The [Influenza A M2 Proton Channel](/xray-mp-wiki/proteins/other-ion-channels/in |
-| concept | concepts/major-facilitator-superfamily/ | Major Facilitator Superfamily (MFS) | The Major Facilitator Superfamily (MFS) is one of the largest and most
-ancient f |
-| concept | concepts/malignant-hyperthermia/ | Malignant Hyperthermia and Ryanodine Receptor Mutations | Malignant hyperthermia is a genetic disorder associated with mutations in the [R |
-| concept | concepts/malodour-precursor-recognition-pot/ | Malodour Precursor Recognition by POT Transporters | The crystal structure of PepT_Sh bound to S-Cys-Gly-3M3SH (PDB 6EXS, 2.5 A) reve |
-| concept | concepts/manganese-calcium-cluster/ | Manganese-Calcium Cluster (Mn4Ca Cluster) | Concept: manganese-calcium-cluster |
-| concept | concepts/mapag-superfamily/ | MAPEG Superfamily | The MAPEG (Membrane-Associated Proteins involved in Eicosanoid and Glutathione m |
-| concept | concepts/mate-transporter-family/ | MATE Transporter Family | Concept: mate-transporter-family |
-| concept | concepts/mce-protein-family/ | MCE Protein Family | The MCE (mammalian cell entry) protein superfamily comprises highly conserved pr |
-| concept | concepts/mcu-dimer-of-dimers-architecture/ | MCU Dimer-of-Dimers Architecture | The mitochondrial calcium uniporter (MCU) assembles as a tetrameric channel with |
-| concept | concepts/mechanosensitive-gating/ | Mechanosensitive Gating in Ion Channels | Mechanosensitive gating is a mechanism by which ion channels open or close in re |
-| concept | concepts/mechanotransmission/ | Mechanotransmission | Mechanotransmission is a transmembrane conformational coupling mechanism used by |
-| concept | concepts/membrane-mimetics/ | Membrane Mimetics and Structural Biology | Membrane mimetics are artificial systems that replicate the lipid bilayer enviro |
-| concept | concepts/membrane-protein-crystals-for-neutron-diffraction/ | Membrane-Protein Crystals for Neutron Diffraction | Neutron macromolecular crystallography (NMX) can identify individual protons
-in  |
-| concept | concepts/membrane-protein-insertase-substrate-exit-gate/ | YidC Substrate Exit Gate and Helical Bundle Rearrangement | The [YidC/Oxa1/Alb3 Family](/xray-mp-wiki/concepts/yidc-oxa1-alb3-family/) of me |
-| concept | concepts/membrane-protein-lipid-adaptation/ | Membrane Protein-Lipid Bilayer Adaptation | Membrane protein-lipid bilayer adaptation refers to the mutual structural adjust |
-| concept | concepts/membrane-recognition-helix/ | Membrane Recognition Helix | A membrane recognition helix is an amphipathic alpha-helix that lies on the memb |
-| concept | concepts/merohedral-twinning/ | Merohedral Twinning in Protein Crystallography | Merohedral twinning is a crystal growth defect in which two or more crystal
-doma |
-| concept | concepts/methionine-mediated-metal-transport/ | Methionine-Mediated Metal Transport | Methionine-mediated metal transport is a mechanism where methionine residues, ei |
-| concept | concepts/mfs-transporter/ | Major Facilitator Superfamily (MFS) | The Major Facilitator Superfamily (MFS) is one of the largest families of second |
-| concept | concepts/microbial-rhodopsins/ | Microbial Rhodopsins | Microbial rhodopsins are a family of seven-transmembrane helix proteins
-found in |
-| concept | concepts/mir-domain/ | MIR Domain (Mannosyltransferase, IP3R, RyR) | The MIR domain (Mannosyltransferase, IP3R, and RyR) is a structural domain found |
-| concept | concepts/mit-superfamily/ | Metal Ion Transporter (MIT) Superfamily | The Metal Ion Transporter (MIT) superfamily includes transporters for Mg2+, Co2+ |
-| concept | concepts/mmpl3-lipid-transport-mechanism/ | MmpL3 Lipid Transport Mechanism | [MmpL3 from Mycobacterium smegmatis](/xray-mp-wiki/proteins/abc-transporters/mmp |
-| concept | concepts/modal-gating-in-k-channels/ | Modal Gating in K+ Channels | Modal gating is a phenomenon in which ion channels switch abruptly between perio |
-| concept | concepts/mop-transporter-superfamily/ | MOP Transporter Superfamily | The multidrug/oligosaccharidyl-lipid/polysaccharide (MOP) exporter superfamily i |
-| concept | concepts/motif-a-mfs/ | MFS Motif A and Charge-Helix Dipole Interactions | Motif A is a highly conserved sequence motif (GxxxD rxGR kp) found in most MFS
-( |
-| concept | concepts/mscl-gating-mechanism/ | MscL Gating Mechanism (Mechanosensitive Channel of Large Conductance) | Concept: mscl-gating-mechanism |
-| concept | concepts/mtrcde-tripartite-efflux-pump/ | MtrCDE Tripartite Multidrug Efflux Pump | The MtrCDE tripartite multidrug efflux pump from Neisseria gonorrhoeae is a memb |
-| concept | concepts/multiphoton-effects-in-time-resolved-crystallography/ | Multiphoton Effects in Time-Resolved Serial Femtosecond Crystallography | Time-resolved serial femtosecond crystallography (TR-SFX) at X-ray free-electron |
-| concept | concepts/n-glycosylation-sequon/ | N-Glycosylation Sequon | The N-glycosylation sequon (Asn-X-Ser/Thr, where X is not Pro) is the minimal co |
-| concept | concepts/n-terminal-t4-lysozyme-fusion/ | N-Terminal T4 Lysozyme Fusion for GPCR Crystallization | N-terminal T4 lysozyme ([T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/)) |
-| concept | concepts/n-terminus/ | N-Terminus (N-Terminal Domain) | The N-terminus of a protein is the start of the polypeptide chain terminating in |
-| concept | concepts/narghi-quinol-binding-site/ | NarGHI Quinol Binding Site | The quinol binding site (Q-site) of Escherichia coli nitrate reductase A (NarGHI |
-| concept | concepts/ncs1-family/ | Nucleobase-Cation-Symport-1 (NCS1) Family | The Nucleobase-Cation-Symport-1 (NCS1) family is a group of membrane transport p |
-| concept | concepts/negative-allosteric-modulation/ | Negative Allosteric Modulation in GPCRs | Negative allosteric modulation (NAM) refers to the ability of a ligand to bind t |
-| concept | concepts/nephrogenic-diabetes-insipidus/ | Nephrogenic Diabetes Insipidus | Nephrogenic diabetes insipidus (NDI) is a water balance disorder
-characterized b |
-| concept | concepts/nickel-pincer-nucleotide-cofactor-biosynthesis/ | Nickel-Pincer Nucleotide Cofactor Biosynthesis | Concept: nickel-pincer-nucleotide-cofactor-biosynthesis |
-| concept | concepts/nitrate-nitrite-antiport-mechanism/ | Nitrate/Nitrite Antiport Mechanism | The nitrate/nitrite antiport mechanism is the transport mechanism used by NNP fa |
-| concept | concepts/nitrilase-superfamily/ | Nitrilase Superfamily | Concept: nitrilase-superfamily |
-| concept | concepts/nnp-family/ | Nitrate/Nitrite Porter (NNP) Family | The nitrate/nitrite porter (NNP) family is a subfamily of the major facilitator
- |
-| concept | concepts/noble-gas-anaesthetic-mechanism/ | Noble Gas Anaesthetic Mechanism via Membrane Protein Surface Binding | Noble gases (xenon, krypton, argon) are general anaesthetics whose mechanism of  |
-| concept | concepts/non-competitive-inhibition/ | Non-competitive Inhibition of Rhomboid Proteases | Non-competitive inhibition is the characteristic mode of inhibition exhibited by |
-| concept | concepts/non-crystallographic-symmetry/ | Non-Crystallographic Symmetry (NCS) | Non-crystallographic symmetry (NCS) refers to symmetry relationships between mol |
-| concept | concepts/non-photochemical-quenching/ | Non-photochemical Quenching (NPQ) in LHC-II | Non-photochemical quenching (NPQ) is a photoprotective mechanism in plants that  |
-| concept | concepts/nonhallucinogenic-psychedelic-analog-design/ | Nonhallucinogenic Psychedelic Analog Design | Structure-based design of nonhallucinogenic psychedelic analogs represents a the |
-| concept | concepts/npc1-c-luminal-domain/ | NPC1-C Luminal Domain | NPC1-C is the C-terminal luminal domain (also called domain C or CTD-like domain |
-| concept | concepts/npxxy-motif/ | NPxxY Motif | The NPxxY motif is a conserved sequence motif (Asn-Pro-Xaa-Xaa-Tyr) found in tra |
-| concept | concepts/nss-family/ | Neurotransmitter/Sodium Symporter (NSS) Family | The NSS (neurotransmitter/sodium symporter) family is a major group of secondary |
-| concept | concepts/ntd-lbd-allosteric-coupling-iglurs/ | NTD-LBD Allosteric Coupling in Ionotropic Glutamate Receptors | In heteromeric AMPA receptors, the compact O-shape architecture brings the N-ter |
-| concept | concepts/ntq-motif/ | NTQ Motif in Chloride Pumping Rhodopsins | The NTQ motif (Asn98-Thr102-Gln109) is a conserved amino acid sequence
-motif fou |
-| concept | concepts/nucleoside-inhibitor-binding-mray/ | Nucleoside Inhibitor Binding to MraY: Chemical Logic and Hotspot Barcode | MraY (phospho-MurNAc-pentapeptide translocase) is the target of five
+| concept | concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/ | F1-ATPase Rotary Catalytic Mechanism | Concept: f1-atpase-rotary-mechanism |
+| concept | concepts/enzyme-mechanisms/gamma-secretase/ | Gamma-Secretase Complex | Gamma-secretase is an intramembrane protease complex responsible for the generat |
+| concept | concepts/enzyme-mechanisms/gxgd-proteases/ | GXGD Proteases | Concept: gxgd-proteases |
+| concept | concepts/enzyme-mechanisms/internal-counterion-mechanism/ | Internal Counterion Mechanism in P-Type ATPases | Many P-type ATPases require counterion transport to complete their reaction cycl |
+| concept | concepts/enzyme-mechanisms/kok-cycle/ | Kok Cycle | The Kok cycle (also known as the S-state cycle) is the four-step mechanism of wa |
+| concept | concepts/enzyme-mechanisms/nickel-pincer-nucleotide-cofactor-biosynthesis/ | Nickel-Pincer Nucleotide Cofactor Biosynthesis | Concept: nickel-pincer-nucleotide-cofactor-biosynthesis |
+| concept | concepts/enzyme-mechanisms/non-competitive-inhibition/ | Non-competitive Inhibition of Rhomboid Proteases | Non-competitive inhibition is the characteristic mode of inhibition exhibited by |
+| concept | concepts/enzyme-mechanisms/nucleoside-inhibitor-binding-mray/ | Nucleoside Inhibitor Binding to MraY: Chemical Logic and Hotspot Barcode | MraY (phospho-MurNAc-pentapeptide translocase) is the target of five
 classes of  |
-| concept | concepts/o1-channel/ | O1 Water Channel of Photosystem II | The O1 channel is a water intake pathway in Photosystem II (PSII) that connects  |
-| concept | concepts/orexin-receptor-subtype-selectivity/ | Structure-Based GPCR Subtype Selectivity via Single Residue Differences | Structure-based exploitation of single amino acid differences between GPCR subty |
-| concept | concepts/orthosteric-allosteric-dual-inhibition/ | Orthosteric–Allosteric Dual Inhibition of Transporters | Orthosteric–allosteric dual inhibition is a paradigm-shifting drug design strate |
-| concept | concepts/ost-catalytic-cycle/ | Catalytic Cycle of Oligosaccharyltransferase | Concept: ost-catalytic-cycle |
-| concept | concepts/outer-membrane/ | Outer Membrane | The outer membrane is the outermost lipid bilayer of Gram-negative bacteria, com |
-| concept | concepts/outward-facing-conformation-abc/ | Outward-Facing Conformation in ABC Transporters | The outward-facing conformation is a structural state of ABC (ATP-Binding Casset |
-| concept | concepts/outward-facing-conformation/ | Outward-Facing Conformation of ABC Transporters | The outward-facing conformation is a structural state of ABC transporters in whi |
-| concept | concepts/oxygen-ladder-selectivity-filter/ | Oxygen Ladder in Selectivity Filters | Concept: oxygen-ladder-selectivity-filter |
-| concept | concepts/p-glycoprotein-induced-fit-binding/ | P-glycoprotein Induced-Fit Binding | P-glycoprotein (P-gp) employs an induced-fit mechanism for substrate
-recognition |
-| concept | concepts/p-type-atpase-mechanism/ | P-type ATPase Mechanism | Concept: p-type-atpase-mechanism |
-| concept | concepts/p-type-atpase/ | P-type ATPase Family | P-type ATPases are a major family of ion-transporting ATPases that form a covale |
-| concept | concepts/p2x-receptor-family/ | P2X Receptor Family | The P2X receptor family comprises a group of ligand-gated ion channels activated |
-| concept | concepts/p2y-receptor-family/ | P2Y Receptor Family | The P2Y receptors are a family of purinergic G-protein-coupled receptors (GPCRs) |
-| concept | concepts/pap2-family/ | Type II Phosphatidic Acid Phosphatase (PAP2) Family | Type II [Phosphatidic Acid](/xray-mp-wiki/reagents/lipids/phosphatidic-acid/) ph |
-| concept | concepts/paqr-family/ | PAQR Family (Progesterone and AdipoQ Receptor Family) | The progesterone and adipoQ receptor (PAQR) family comprises integral membrane p |
-| concept | concepts/pe-ppe-fusion-proteins/ | PE-PPE Fusion Proteins | PE-PPE fusion proteins are chimeric proteins that combine the N-terminal PE (Pro |
-| concept | concepts/peptide-binding-pocket/ | PepT_So2 Substrate-Binding Pockets (P1, P2, P3) | The substrate-binding site of PepT_So2 (a proton-dependent oligopeptide transpor |
-| concept | concepts/peripheral-stalk-elasticity/ | Peripheral Stalk Elasticity in Rotary ATPases | The peripheral stalk of rotary ATPases connects the membrane-embedded F0 motor t |
-| concept | concepts/periplasm/ | Periplasm (Periplasmic Space) | The periplasm is the gel-like compartment between the inner and outer membranes  |
-| concept | concepts/periplasmic-drug-binding-site-rnd/ | Periplasmic Drug-Binding Site in RND Efflux Pumps | The periplasmic drug-binding site of [RND Efflux Pumps](/xray-mp-wiki/concepts/r |
-| concept | concepts/peristaltic-pump-mechanism/ | Peristaltic Pump Mechanism of RND Transporters | Concept: peristaltic-pump-mechanism |
-| concept | concepts/ph-dependent-gating/ | pH-Dependent Gating in Membrane Proteins | pH-dependent gating is a regulatory mechanism in membrane transport proteins
-whe |
-| concept | concepts/ph-dependent-quinone-binding-reaction-center/ | pH-Dependent Quinone Binding in Photosynthetic Reaction Centers | The secondary quinone (QB) in bacterial photosynthetic reaction centers occupies |
-| concept | concepts/phosphoenzyme-e2p-state/ | Phosphoenzyme E2P State | The E2P state is a phosphorylated intermediate of P-type ATPases in which the en |
-| concept | concepts/photocyclic-gpcr-activation/ | Photocyclic GPCR Activation | Photocyclic GPCR activation refers to the ability of a G protein-coupled recepto |
-| concept | concepts/phototaxis-signaling-rhodopsin/ | Phototaxis Signaling in Microbial Rhodopsins | Phototaxis signaling in microbial rhodopsins is a process where light-activated  |
-| concept | concepts/pib-4-atpase-family/ | PIB-4-Type ATPase Family | PIB-4-ATPases are a subclass of heavy-metal transporting P-type (P1B) ATPases wi |
-| concept | concepts/pii-protein-family/ | PII Signal Transduction Protein Family | The PII signal transduction protein family is a widespread family of small trime |
-| concept | concepts/pilz-domain/ | PilZ Domain (c-di-GMP Binding Domain) | Concept: pilz-domain |
-| concept | concepts/ping-pong-mechanism/ | Ping-Pong Catalytic Mechanism | Concept: ping-pong-mechanism |
-| concept | concepts/pip2-activation-of-kir-channels/ | PIP2 Activation of Inward Rectifier K+ Channels | Phosphatidylinositol 4,5-bisphosphate (PIP2) is the primary agonist for classica |
-| concept | concepts/pnpt-superfamily/ | PNPT Superfamily (Polypropenyl-phosphate N-acetyl hexosamine 1-phosphate Transferase) | The polypropenyl-phosphate N-acetyl hexosamine 1-phosphate transferase (PNPT)
-su |
-| concept | concepts/polar-network-gpcr-activation/ | Polar Network in GPCR Activation | The polar network is an extensive system of hydrogen bonds and water-mediated in |
-| concept | concepts/pore-forming-toxins/ | Pore-Forming Toxins | Pore-forming toxins (PFTs) are a large class of bacterial virulence factors that |
-| concept | concepts/positive-allosteric-modulation/ | Positive Allosteric Modulation | Positive allosteric modulators (PAMs) are small molecules that bind to an allost |
-| concept | concepts/pot-family-substrate-specificity/ | POT Family Substrate Specificity by Electrostatic Interactions | Peptide transporters of the proton-dependent oligopeptide transporter (POT)
-fami |
-| concept | concepts/pot-family/ | POT Family (Proton-Dependent Oligopeptide Transporters) | The POT (proton-dependent oligopeptide transporter) family is a subgroup of the  |
-| concept | concepts/potassium-counter-transport/ | Potassium Counter-Transport in P-type ATPases | Counter-transport (antiport) of K⁺ ions is a functional hallmark of certain P-ty |
-| concept | concepts/pq-loop-family/ | PQ-Loop Family | The PQ-loop family is a group of membrane transporters defined by a conserved Pr |
-| concept | concepts/prostanoid-receptor-family/ | Prostanoid Receptor Family | Prostanoid receptors are a family of class A G protein-coupled receptors that me |
-| concept | concepts/proton-locked-conformation/ | Proton-Locked Conformation | The proton-locked conformation is a stable structural state of the conserved glu |
-| concept | concepts/proton-pump-mechanism/ | Proton Pump Mechanism in Bacteriorhodopsin | The proton pump mechanism of bacteriorhodopsin is a light-driven ion translocati |
-| concept | concepts/proton-release-channel-archaeal-rhodopsins/ | Proton-Release Channel in Archaeal Rhodopsins | The proton-release channel is a conserved structural feature in
-light-driven pro |
-| concept | concepts/proton-release-complex/ | Proton Release Complex in Microbial Rhodopsins | The proton release complex (PRC) is a conserved structural motif in microbial rh |
-| concept | concepts/proton-wire/ | Proton Wire (Chain of Hydrogen Bonds) | A proton wire (also known as a chain of hydrogen bonds, CHB, or proton conduit)  |
-| concept | concepts/pyridylpiperazine-allosteric-epis/ | Pyridylpiperazine-based Allosteric Efflux Pump Inhibitors | Pyridylpiperazine-based compounds represent a novel class of allosteric efflux p |
-| concept | concepts/pz-pocket-pot-inhibition/ | PZ Pocket: Inhibitor-Induced Binding Pocket in POTs | The PZ pocket is a previously undescribed mostly hydrophobic pocket in proton-de |
-| concept | concepts/qse-efg-three-component-system/ | QseE/F/G Three-Component System | The QseE/F/G three-component system is a bacterial signal transduction system th |
-| concept | concepts/quartet-core/ | Quartet Core Mechanism in S1PR3 | The quartet core is a set of four residues in the sphingosine-1-phosphate recept |
-| concept | concepts/quinol-fumarate-reductase/ | Quinol-Fumarate Reductase (QFR) | Concept: quinol-fumarate-reductase |
-| concept | concepts/rck-domain-activation-mechanism/ | RCK Domain Activation Mechanism | The RCK (Regulator of K+ conductance) domain activation mechanism describes how  |
-| concept | concepts/rck-domain/ | RCK Domain (Regulator of Conductance of K+) | An RCK (Regulator of Conductance of K+) domain is a conserved structural module  |
-| concept | concepts/remote-coupling-mechanism/ | Remote Coupling Mechanism in Membrane Transporters | Remote coupling is a mechanism by which structural changes in the transmembrane  |
-| concept | concepts/retinal-chromophore-conformation/ | Retinal Chromophore Conformation | [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) chromophore conformation in [ |
-| concept | concepts/retinal-isomerization/ | Retinal Isomerization in Microbial Rhodopsins | Retinal isomerization is the fundamental photochemical event in microbial rhodop |
-| concept | concepts/rh-amt-mep-protein-family/ | Rh/Amt/MEP Protein Family | Concept: rh-amt-mep-protein-family |
-| concept | concepts/rhodopsin-photocycle/ | Rhodopsin Photocycle | The rhodopsin photocycle involves light-induced isomerization of retinal from al |
-| concept | concepts/rhomboid-protease-substrate-specificity/ | Rhomboid Protease Substrate Specificity | Rhomboid intramembrane proteases exhibit sequence-specific cleavage of transmemb |
-| concept | concepts/rhomboid-protease/ | Rhomboid Protease Family | Rhomboid proteases are intramembrane serine proteases that cleave transmembrane  |
-| concept | concepts/right-handed-coiled-coil-architecture/ | Right-Handed Coiled-Coil Architecture in Rotary ATPases | The peripheral stalk of rotary ATPases adopts an unusual right-handed coiled-coi |
-| concept | concepts/rnd-efflux-pumps/ | RND Efflux Pumps | Resistance nodulation cell division (RND) transporters are a family of multidrug |
-| concept | concepts/rnd-superfamily/ | Resistance-Nodulation-Cell Division (RND) Superfamily | The RND superfamily comprises large tripartite efflux pumps that transport diver |
-| concept | concepts/rocker-switch-mechanism/ | Rocker-Switch Mechanism | The rocker-switch mechanism is an alternating access transport mode in which two |
-| concept | concepts/rocking-bundle-mechanism/ | Rocking-Bundle Mechanism | The rocking-bundle mechanism is a transport mechanism in which a transporter und |
-| concept | concepts/rotary-atpase-mechanism/ | Rotary ATPase Mechanism | Rotary ATPases (F-type, V-type, A-type) use a rotary catalytic mechanism to synt |
-| concept | concepts/s4-s5-linker-interaction-motif/ | S4-S5 Linker Interaction Motif | The S4-S5 linker interaction motif is a three-way structural interaction in volt |
-| concept | concepts/scissor-switch-gating/ | Scissor-Switch Gating in POT Family Transporters | The scissor-switch gating mechanism is a specialized form of the alternating-acc |
-| concept | concepts/sed-s-protein-family/ | SEDS Protein Family | The Shape, Elongation, Division, and Sporulation (SEDS) proteins are a large fam |
-| concept | concepts/selective-lipid-binding/ | Selective Lipid Binding in Membrane Proteins | Selective lipid binding refers to the phenomenon where membrane proteins discrim |
-| concept | concepts/selective-starvation/ | Selective Starvation of Malaria Parasites | The selective starvation strategy is an antimalarial approach that exploits the  |
-| concept | concepts/selectivity-filter/ | Ion Channel Selectivity Filter | The selectivity filter is a narrow region of the ion channel pore that determine |
-| concept | concepts/self-processing/ | Self-processing of Membrane Proteins | Self-processing refers to the phenomenon where a membrane protein cleaves its ow |
-| concept | concepts/semisweet/ | SemiSWEET Transporter Family | SemiSWEETs are bacterial homologues of the eukaryotic SWEET (Sugars Will Eventua |
-| concept | concepts/sequential-allosteric-regulation/ | Sequential Allosteric Regulation | Concept: sequential-allosteric-regulation |
-| concept | concepts/ser-lys-catalytic-mechanism/ | Ser/Lys Catalytic Mechanism | The ser-lys catalytic mechanism is found in rhomboid proteases and signal peptid |
-| concept | concepts/serca-e2-e1-transition/ | SERCA E2 to E1 Transition Mechanism | The E2→E1 transition in SERCA (sarco(endo)plasmic reticulum Ca²⁺-ATPase) is the
+| concept | concepts/enzyme-mechanisms/ost-catalytic-cycle/ | Catalytic Cycle of Oligosaccharyltransferase | Concept: ost-catalytic-cycle |
+| concept | concepts/enzyme-mechanisms/p-type-atpase-mechanism/ | P-type ATPase Mechanism | Concept: p-type-atpase-mechanism |
+| concept | concepts/enzyme-mechanisms/peripheral-stalk-elasticity/ | Peripheral Stalk Elasticity in Rotary ATPases | The peripheral stalk of rotary ATPases connects the membrane-embedded F0 motor t |
+| concept | concepts/enzyme-mechanisms/phosphoenzyme-e2p-state/ | Phosphoenzyme E2P State | The E2P state is a phosphorylated intermediate of P-type ATPases in which the en |
+| concept | concepts/enzyme-mechanisms/ping-pong-mechanism/ | Ping-Pong Catalytic Mechanism | Concept: ping-pong-mechanism |
+| concept | concepts/enzyme-mechanisms/quinol-fumarate-reductase/ | Quinol-Fumarate Reductase (QFR) | Concept: quinol-fumarate-reductase |
+| concept | concepts/enzyme-mechanisms/rhomboid-protease-substrate-specificity/ | Rhomboid Protease Substrate Specificity | Rhomboid intramembrane proteases exhibit sequence-specific cleavage of transmemb |
+| concept | concepts/enzyme-mechanisms/rotary-atpase-mechanism/ | Rotary ATPase Mechanism | Rotary ATPases (F-type, V-type, A-type) use a rotary catalytic mechanism to synt |
+| concept | concepts/enzyme-mechanisms/ser-lys-catalytic-mechanism/ | Ser/Lys Catalytic Mechanism | The ser-lys catalytic mechanism is found in rhomboid proteases and signal peptid |
+| concept | concepts/enzyme-mechanisms/serca-e2-e1-transition/ | SERCA E2 to E1 Transition Mechanism | The E2→E1 transition in SERCA (sarco(endo)plasmic reticulum Ca²⁺-ATPase) is the
  |
-| concept | concepts/serca-e2p-dephosphorylation-counterion-occlusion/ | SERCA E2-P Dephosphorylation and Counterion Occlusion | The dephosphorylation of the SERCA calcium pump E2-P state is coupled to occlusi |
-| concept | concepts/serial-millisecond-crystallography/ | Serial Millisecond Crystallography (SMX) | Serial millisecond crystallography (SMX) is a room-temperature crystallographic  |
-| concept | concepts/si-face-cleavage/ | si-Face Cleavage in Rhomboid Proteases | Rhomboid proteases cleave substrates from the si-face (small interface) of the s |
-| concept | concepts/side-entry-ion-conduction-pathway/ | Side-Entry Ion Conduction Pathway | The side-entry ion conduction pathway is a non-canonical mechanism for ion perme |
-| concept | concepts/site-2-protease-family-mechanism/ | Site-2 Protease Family Mechanism | Site-2 proteases (S2Ps) are a conserved family of zinc metalloproteases that per |
-| concept | concepts/site-directed-spin-labeling-membrane-protein/ | Site-Directed Spin Labeling on Membrane Protein alpha-Helical Sites | Site-directed spin labeling (SDSL) combined with electron paramagnetic resonance |
-| concept | concepts/sl35-family/ | SLC35 Family (Nucleotide Sugar Transporters) | Concept: sl35-family |
-| concept | concepts/slac1-superfamily/ | SLAC1 Superfamily | The [SLAC1 (SLOW ANION CHANNEL 1 from Arabidopsis thaliana)](/xray-mp-wiki/prote |
-| concept | concepts/slc11-nramp-family/ | SLC11 (NRAMP) Family | The SLC11 (Solute Carrier 11) family, also known as the NRAMP (Natural Resistanc |
-| concept | concepts/slc29-family/ | SLC29 Family of Nucleoside Transporters | The SLC29 family (Equilibrative Nucleoside Transporters, ENTs) comprises
-integra |
-| concept | concepts/slc6-substrate-recognition-gmg-motif/ | SLC6 Substrate Recognition by the GMG Motif | The (G/A/C)PheG motif (GMG in [MhsT Multi-Hydrophobic Amino Acid Transporter fro |
-| concept | concepts/sliding-helix-mechanism/ | Sliding Helix Mechanism | The sliding helix mechanism is a model for voltage-dependent gating in voltage-g |
-| concept | concepts/sm-family/ | SMR Family (Small Multidrug Resistance Family) | The small multidrug resistance (SMR) family is a group of bacterial multidrug ef |
-| concept | concepts/sn2-like-displacement-mechanism/ | SN2-Like Displacement Mechanism in Phosphotransferases | Concept: sn2-like-displacement-mechanism |
-| concept | concepts/snare-complex/ | SNARE Complex | The SNARE (Soluble N-ethylmaleimide-sensitive factor Attachment protein REceptor |
-| concept | concepts/snare-core-complex-assembly/ | SNARE Core Complex Assembly and Layer Architecture | SNARE (SNAP Receptor) core complexes are four-helix bundles that mediate membran |
-| concept | concepts/sodium-allosteric-modulation/ | Sodium Ion Allosteric Modulation in GPCRs | Sodium ions (Na+) act as negative allosteric modulators of many class A G protei |
-| concept | concepts/sodium-channel-gating/ | Sodium Channel Gating and Selectivity | Voltage-gated sodium channels use a gating mechanism involving voltage-sensing d |
-| concept | concepts/sodium-channel-inactivation-gating/ | Sodium Channel Inactivation Gating | Sodium channel inactivation gating in prokaryotic voltage-gated sodium channels  |
-| concept | concepts/sodium-channel-ion-permeability-selectivity/ | Sodium Channel Ion Permeability and Selectivity | Voltage-gated sodium channels (Nav) achieve high selectivity for Na+ over other  |
-| concept | concepts/sodium-motive-force/ | Sodium-Motive Force (SMF) | The sodium-motive force (smf) is an electrochemical gradient of Na+ ions
+| concept | concepts/enzyme-mechanisms/serca-e2p-dephosphorylation-counterion-occlusion/ | SERCA E2-P Dephosphorylation and Counterion Occlusion | The dephosphorylation of the SERCA calcium pump E2-P state is coupled to occlusi |
+| concept | concepts/enzyme-mechanisms/si-face-cleavage/ | si-Face Cleavage in Rhomboid Proteases | Rhomboid proteases cleave substrates from the si-face (small interface) of the s |
+| concept | concepts/enzyme-mechanisms/trex1-rnase-activity/ | TREX1 RNase Activity and DNA/RNA Hybrid Processing | [Mouse TREX1 (Three Prime Repair Exonuclease 1)](/xray-mp-wiki/proteins/gpcr/tre |
+| concept | concepts/enzyme-mechanisms/two-stage-catalytic-mechanism/ | Two-Stage Catalytic Mechanism of Rhomboid Proteases | Rhomboid intramembrane proteases catalyze substrate cleavage through a two-stage |
+| concept | concepts/enzyme-mechanisms/vanadate-inhibition/ | Vanadate Inhibition of P-type ATPases | Vanadate is the hallmark inhibitor of the P-type ATPase family. Crystal structur |
+| concept | concepts/enzyme-mechanisms/vitamin-k-catalytic-cycle/ | Vitamin K Catalytic Cycle | The vitamin K catalytic cycle is a biochemical cycle in the endoplasmic reticulu |
+| concept | concepts/enzyme-mechanisms/vitamin-k-cycle/ | Vitamin K Cycle | The [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) cycle is a biochemi |
+| concept | concepts/membrane-mimetics/computational-transmembrane-protein-design/ | Computational Design of Multipass Transmembrane Proteins | A methodology for the de novo computational design of multipass transmembrane pr |
+| concept | concepts/membrane-mimetics/force-from-lipid-principle/ | Force-from-Lipid Principle in Mechanosensation | The force-from-lipid (FFL) principle posits that mechanosensitive ion channels a |
+| concept | concepts/membrane-mimetics/heavy-atom-derivative-detergents-and-lipids/ | Heavy Atom Derivative Detergents and Lipids for Membrane Protein Crystallography | Heavy atom derivative detergents and lipids are artificially synthesized amphiph |
+| concept | concepts/membrane-mimetics/inner-membrane/ | Inner Membrane | The inner (cytoplasmic) membrane of Gram-negative bacteria is the primary permea |
+| concept | concepts/membrane-mimetics/intramembrane-ion-coordination/ | Intramembrane Ion Coordination | Intramembrane ion coordination refers to the phenomenon where metal cations (suc |
+| concept | concepts/membrane-mimetics/intramembrane-proteolysis/ | Intramembrane Proteolysis | Intramembrane proteolysis is the cleavage of peptide bonds within the hydrophobi |
+| concept | concepts/membrane-mimetics/lipid-annulus/ | Lipid Annulus in Membrane Protein Structures | A lipid annulus is a belt of ordered lipid molecules surrounding a membrane prot |
+| concept | concepts/membrane-mimetics/lipidic-sponge-phase/ | Lipidic Sponge Phase (LSP) | The lipidic sponge phase (LSP) is a liquid-like isotropic phase formed by a mixt |
+| concept | concepts/membrane-mimetics/membrane-mimetics/ | Membrane Mimetics and Structural Biology | Membrane mimetics are artificial systems that replicate the lipid bilayer enviro |
+| concept | concepts/membrane-mimetics/membrane-protein-crystals-for-neutron-diffraction/ | Membrane-Protein Crystals for Neutron Diffraction | Neutron macromolecular crystallography (NMX) can identify individual protons
+in  |
+| concept | concepts/membrane-mimetics/membrane-protein-lipid-adaptation/ | Membrane Protein-Lipid Bilayer Adaptation | Membrane protein-lipid bilayer adaptation refers to the mutual structural adjust |
+| concept | concepts/membrane-mimetics/n-glycosylation-sequon/ | N-Glycosylation Sequon | The N-glycosylation sequon (Asn-X-Ser/Thr, where X is not Pro) is the minimal co |
+| concept | concepts/membrane-mimetics/noble-gas-anaesthetic-mechanism/ | Noble Gas Anaesthetic Mechanism via Membrane Protein Surface Binding | Noble gases (xenon, krypton, argon) are general anaesthetics whose mechanism of  |
+| concept | concepts/membrane-mimetics/outer-membrane/ | Outer Membrane | The outer membrane is the outermost lipid bilayer of Gram-negative bacteria, com |
+| concept | concepts/membrane-mimetics/selective-lipid-binding/ | Selective Lipid Binding in Membrane Proteins | Selective lipid binding refers to the phenomenon where membrane proteins discrim |
+| concept | concepts/membrane-mimetics/self-processing/ | Self-processing of Membrane Proteins | Self-processing refers to the phenomenon where a membrane protein cleaves its ow |
+| concept | concepts/membrane-mimetics/site-directed-spin-labeling-membrane-protein/ | Site-Directed Spin Labeling on Membrane Protein alpha-Helical Sites | Site-directed spin labeling (SDSL) combined with electron paramagnetic resonance |
+| concept | concepts/membrane-mimetics/yidc-dual-function/ | YidC Dual Insertase/Chaperone Function | The YidC protein from Gram-negative bacteria is a unique dual-function membrane  |
+| concept | concepts/methods-techniques/c41-e-coli-expression-strain/ | E. coli C41 Expression Strain | E. coli C41 is a genetically engineered expression strain derived from E. coli B |
+| concept | concepts/methods-techniques/continuous-diffraction/ | Continuous Diffraction in Macromolecular Crystallography | Continuous diffraction refers to the incoherent sum of Fraunhofer diffraction pa |
+| concept | concepts/methods-techniques/epitaxial-twinning/ | Epitaxial Twinning | Epitaxial twinning is a crystallographic phenomenon in which two or more crystal |
+| concept | concepts/methods-techniques/high-viscosity-sample-injection-for-sfx/ | High-Viscosity Sample Injection for Serial Femtosecond Crystallography | High-viscosity sample injection is a sample delivery method for [Serial Femtosec |
+| concept | concepts/methods-techniques/in-situ-crystallography/ | In situ X-ray Crystallography | In situ X-ray crystallography is a technique where X-ray diffraction data are co |
+| concept | concepts/methods-techniques/lcp-microseeding-for-serial-crystallography/ | LCP Microseeding for Serial Crystallography | LCP microseeding for serial crystallography is a crystallization strategy that c |
+| concept | concepts/methods-techniques/long-wavelength-native-sad-phasing/ | Long-Wavelength Native-SAD Phasing | Long-wavelength native-SAD phasing is an experimental X-ray crystallographic pha |
+| concept | concepts/methods-techniques/merohedral-twinning/ | Merohedral Twinning in Protein Crystallography | Merohedral twinning is a crystal growth defect in which two or more crystal
+doma |
+| concept | concepts/methods-techniques/multiphoton-effects-in-time-resolved-crystallography/ | Multiphoton Effects in Time-Resolved Serial Femtosecond Crystallography | Time-resolved serial femtosecond crystallography (TR-SFX) at X-ray free-electron |
+| concept | concepts/methods-techniques/serial-millisecond-crystallography/ | Serial Millisecond Crystallography (SMX) | Serial millisecond crystallography (SMX) is a room-temperature crystallographic  |
+| concept | concepts/methods-techniques/steered-molecular-dynamics/ | Steered Molecular Dynamics (SMD) | Steered Molecular Dynamics (SMD) is a computational simulation technique where a |
+| concept | concepts/methods-techniques/truncation/ | Protein Truncation for Crystallization | Protein truncation is a construct design strategy in which flexible, unstructure |
+| concept | concepts/methods-techniques/x-ray-radiation-damage/ | X-Ray Radiation Damage in Crystallography | X-ray radiation damage is a major limitation in macromolecular crystallography.  |
+| concept | concepts/miscellaneous/axillary-malodour-production-pathway/ | Axillary Malodour Production Pathway | Axillary (underarm) malodour is produced by specific skin bacteria metabolizing  |
+| concept | concepts/miscellaneous/binder-clip-motion/ | Binder Clip Motion | Binder clip-like motion is a conformational mechanism in [SemiSWEET Transporter  |
+| concept | concepts/miscellaneous/calcium-bowl/ | Ca2+ Bowl | The Ca2+ bowl is a stretch of well-conserved aspartate residues within the secon |
+| concept | concepts/miscellaneous/carbon-catabolite-repression/ | Carbon Catabolite Repression | Carbon catabolite repression (CCR) is a global regulatory phenomenon in bacteria |
+| concept | concepts/miscellaneous/cardiac-glycoside-binding-mechanism/ | Cardiac Glycoside Binding Mechanism | Cardiac glycosides (e.g., [Ouabain](/xray-mp-wiki/reagents/ligands/ouabain), dig |
+| concept | concepts/miscellaneous/cardiotonic-steroids/ | Cardiotonic Steroids | Cardiotonic steroids (CTS), also known as cardiac glycosides, are a class of inh |
+| concept | concepts/miscellaneous/charge-transfer-interaction/ | Charge-Transfer Interaction | A charge-transfer interaction is a non-covalent interaction between an electron  |
+| concept | concepts/miscellaneous/cholesterol-dependent-cytolysins/ | Cholesterol-Dependent Cytolysins | Cholesterol-dependent cytolysins (CDCs) are a family of bacterial pore-forming t |
+| concept | concepts/miscellaneous/claudin-paracellular-ion-selectivity/ | Claudin-Mediated Paracellular Ion Selectivity | Claudins are the major structural components of tight junctions (TJs) that contr |
+| concept | concepts/miscellaneous/co2-concentrating-mechanism/ | CO2-Concentrating Mechanism (CCM) | The CO2-concentrating mechanism (CCM) is an adaptive system evolved by cyanobact |
+| concept | concepts/miscellaneous/flickering-gate-mechanism/ | Flickering-Gate Mechanism | The flickering-gate mechanism proposes that the extracellular gate of P-type ATP |
+| concept | concepts/miscellaneous/get-pathway/ | GET Pathway for Tail-Anchored Protein Insertion | The guided entry of tail-anchored proteins (GET) pathway is a conserved eukaryot |
+| concept | concepts/miscellaneous/hydrogen-bonding-networks-reaction-centers/ | Hydrogen-Bonding Networks in Photosynthetic Reaction Centers | Hydrogen-bonding networks near the primary electron donor ([Bacteriochlorophyll] |
+| concept | concepts/miscellaneous/hydrophilic-groove-insertion/ | Hydrophilic Groove Insertion Mechanism | The hydrophilic groove insertion mechanism describes how YidC inserts single-spa |
+| concept | concepts/miscellaneous/hydrophobic-tunnel-smo/ | Hydrophobic Tunnel for Sterol Access in Smoothened | The hydrophobic tunnel is a conduit between transmembrane helices TM5 and TM6 of |
+| concept | concepts/miscellaneous/inducer-exclusion/ | Inducer Exclusion | Inducer exclusion is a mechanism of [Carbon Catabolite Repression](/xray-mp-wiki |
+| concept | concepts/miscellaneous/k-lt-intermediate/ | K_LT Intermediate | The K_LT intermediate is a low-temperature photointermediate in the [Bacteriorho |
+| concept | concepts/miscellaneous/k2p-modulator-pocket/ | K2P Modulator Pocket | Concept: k2p-modulator-pocket |
+| concept | concepts/miscellaneous/leut-return-state-mechanism/ | LeuT Return State Mechanism | The [LEUT](/xray-mp-wiki/proteins/enzymes/leut/) return state mechanism describe |
+| concept | concepts/miscellaneous/ligand-efficiency/ | Ligand Efficiency in Drug Discovery | Ligand efficiency (LE) is a metric used in drug discovery to assess how efficien |
+| concept | concepts/miscellaneous/manganese-calcium-cluster/ | Manganese-Calcium Cluster (Mn4Ca Cluster) | Concept: manganese-calcium-cluster |
+| concept | concepts/miscellaneous/mechanotransmission/ | Mechanotransmission | Mechanotransmission is a transmembrane conformational coupling mechanism used by |
+| concept | concepts/miscellaneous/nephrogenic-diabetes-insipidus/ | Nephrogenic Diabetes Insipidus | Nephrogenic diabetes insipidus (NDI) is a water balance disorder
+characterized b |
+| concept | concepts/miscellaneous/non-photochemical-quenching/ | Non-photochemical Quenching (NPQ) in LHC-II | Non-photochemical quenching (NPQ) is a photoprotective mechanism in plants that  |
+| concept | concepts/miscellaneous/p-glycoprotein-induced-fit-binding/ | P-glycoprotein Induced-Fit Binding | P-glycoprotein (P-gp) employs an induced-fit mechanism for substrate
+recognition |
+| concept | concepts/miscellaneous/periplasm/ | Periplasm (Periplasmic Space) | The periplasm is the gel-like compartment between the inner and outer membranes  |
+| concept | concepts/miscellaneous/ph-dependent-quinone-binding-reaction-center/ | pH-Dependent Quinone Binding in Photosynthetic Reaction Centers | The secondary quinone (QB) in bacterial photosynthetic reaction centers occupies |
+| concept | concepts/miscellaneous/qse-efg-three-component-system/ | QseE/F/G Three-Component System | The QseE/F/G three-component system is a bacterial signal transduction system th |
+| concept | concepts/miscellaneous/quartet-core/ | Quartet Core Mechanism in S1PR3 | The quartet core is a set of four residues in the sphingosine-1-phosphate recept |
+| concept | concepts/miscellaneous/selective-starvation/ | Selective Starvation of Malaria Parasites | The selective starvation strategy is an antimalarial approach that exploits the  |
+| concept | concepts/miscellaneous/sodium-motive-force/ | Sodium-Motive Force (SMF) | The sodium-motive force (smf) is an electrochemical gradient of Na+ ions
 across  |
-| concept | concepts/spyr-domain/ | SPRY Domain in Ryanodine Receptors | The SPRY domain is a protein domain named after 'SPIA kinase and Ryanodine Recep |
-| concept | concepts/sss-family/ | Sodium Solute Symporter (SSS) Family | The sodium solute symporter (SSS) family (SLC5 in humans) is a large family of s |
-| concept | concepts/steered-molecular-dynamics/ | Steered Molecular Dynamics (SMD) | Steered Molecular Dynamics (SMD) is a computational simulation technique where a |
-| concept | concepts/steric-trigger-mechanism/ | Steric Trigger Mechanism in Rhodopsin Signaling | The steric trigger mechanism describes how a specific hydrogen-bonded threonine- |
-| concept | concepts/structure-based-antipsychotic-design/ | Structure-Based Design of Third-Generation Antipsychotics | Structure-based design of third-generation antipsychotics represents a rational  |
-| concept | concepts/substrate-binding-in-asbt-yf/ | Substrate Binding in ASBT_Yf | The apical sodium-dependent bile acid transporter (ASBT) is an SLC10 family
-bile |
-| concept | concepts/substrate-induced-transition-fit/ | Substrate-Induced Transition Fit in 5+5 Inverted Repeat Transporters | The substrate-induced transition fit mechanism describes how secondary transport |
-| concept | concepts/substrate-polyspecificity-smr-transporters/ | Substrate Polyspecificity in SMR Transporters | Substrate polyspecificity — the ability to transport multiple structurally
-unrel |
-| concept | concepts/substrate-protonation-coupling/ | Substrate-Protonation Coupling in MFS Symporters | Substrate-protonation coupling is a fundamental mechanism in proton-driven MFS s |
-| concept | concepts/sugar-porter-family/ | Sugar Porter (SP) Family | Concept: sugar-porter-family |
-| concept | concepts/sulfonamide-resistance/ | Sulfonamide Resistance | Sulfonamide resistance is a major clinical problem that emerged rapidly followin |
-| concept | concepts/surface-hydroxyl-acidity/ | Surface Hydroxyl Acidity | The acidity of individual surface hydroxyl groups determines the deprotonation/p |
-| concept | concepts/sweet-transporter/ | SWEET Transporter Family | The SWEET family of sugar transporters is a widespread class of uniporters found |
-| concept | concepts/switch-loop-gating-rnd-transporters/ | Switch-Loop Gating in RND Multidrug Transporters | The switch-loop (also called the G-loop or substrate-gating loop) is a conformat |
-| concept | concepts/symmetry-mismatch-rotary-motor/ | Symmetry Mismatch in Rotary Molecular Motors | Symmetry mismatch between rotor and stator components is a recurring design prin |
-| concept | concepts/syringe-injection-mechanism/ | Syringe-Like Injection Mechanism of Tc Toxins | The syringe-like injection mechanism describes how Tc (toxin complex) toxins fro |
-| concept | concepts/tat-pathway/ | Twin-Arginine Translocation (TAT) Pathway | Concept: tat-pathway |
-| concept | concepts/tca-inhibition-mechanism/ | Tricyclic Antidepressant (TCA) Inhibition Mechanism in NSS Transporters | Tricyclic antidepressants (TCAs) such as clomipramine, desipramine, imipramine,  |
-| concept | concepts/termini-restraining/ | Termini Restraining | Termini restraining is a protein engineering strategy for stabilizing small memb |
-| concept | concepts/tetraspanin-family/ | Tetraspanin Family | Tetraspanins are a large family of four-pass transmembrane proteins (TM4SF)
+| concept | concepts/miscellaneous/sulfonamide-resistance/ | Sulfonamide Resistance | Sulfonamide resistance is a major clinical problem that emerged rapidly followin |
+| concept | concepts/miscellaneous/surface-hydroxyl-acidity/ | Surface Hydroxyl Acidity | The acidity of individual surface hydroxyl groups determines the deprotonation/p |
+| concept | concepts/miscellaneous/syringe-injection-mechanism/ | Syringe-Like Injection Mechanism of Tc Toxins | The syringe-like injection mechanism describes how Tc (toxin complex) toxins fro |
+| concept | concepts/miscellaneous/termini-restraining/ | Termini Restraining | Termini restraining is a protein engineering strategy for stabilizing small memb |
+| concept | concepts/miscellaneous/ton-complex/ | Ton Complex | The Ton complex is an energy-transducing protein assembly located in the inner m |
+| concept | concepts/miscellaneous/vault-ribonucleoprotein-particles/ | Vault Ribonucleoprotein Particles | Vaults are large ribonucleoprotein (RNP) particles found in a wide variety of eu |
+| concept | concepts/protein-families/alpha-helical-pore-forming-toxin-family/ | Alpha-Helical Pore-Forming Toxin Family (pfam05791) | The alpha-helical pore-forming toxin family (pfam05791) comprises a group of
+str |
+| concept | concepts/protein-families/cation-diffusion-facilitator-family/ | Cation Diffusion Facilitator (CDF) Family | The Cation Diffusion Facilitator (CDF) family is a ubiquitous family of
+metal io |
+| concept | concepts/protein-families/cdp-alcohol-phosphotransferase-family/ | CDP-Alcohol Phosphotransferase Family | The CDP-alcohol phosphotransferase (CDP-AP) family comprises integral membrane e |
+| concept | concepts/protein-families/cytochrome-b561-family/ | Cytochrome b561 (Cyt b561) Protein Family | The cytochrome b561 (Cyt b561) family is a group of highly conserved
+transmembra |
+| concept | concepts/protein-families/deddh-exonuclease-family/ | DEDDh Exonuclease Family | The DEDDh exonuclease family is named after four catalytic residues (Asp, Glu, A |
+| concept | concepts/protein-families/dhhc-palmitoyltransferase-family/ | DHHC Palmitoyltransferase Family | The DHHC (Asp-His-His-Cys) palmitoyltransferase family comprises eukaryotic
+inte |
+| concept | concepts/protein-families/di-iron-desaturase/ | Di-Iron-Containing Desaturase Family | The di-iron-containing desaturase family comprises enzymes that catalyze the int |
+| concept | concepts/protein-families/duf3413-family/ | DUF3413 (PF11893) Protein Family | DUF3413 (Domain of Unknown Function 3413, Pfam family PF11893) is a conserved
+pr |
+| concept | concepts/protein-families/major-facilitator-superfamily/ | Major Facilitator Superfamily (MFS) | The Major Facilitator Superfamily (MFS) is one of the largest and most
+ancient f |
+| concept | concepts/protein-families/mapag-superfamily/ | MAPEG Superfamily | The MAPEG (Membrane-Associated Proteins involved in Eicosanoid and Glutathione m |
+| concept | concepts/protein-families/mce-protein-family/ | MCE Protein Family | The MCE (mammalian cell entry) protein superfamily comprises highly conserved pr |
+| concept | concepts/protein-families/mfs-transporter/ | Major Facilitator Superfamily (MFS) | The Major Facilitator Superfamily (MFS) is one of the largest families of second |
+| concept | concepts/protein-families/nitrilase-superfamily/ | Nitrilase Superfamily | Concept: nitrilase-superfamily |
+| concept | concepts/protein-families/nnp-family/ | Nitrate/Nitrite Porter (NNP) Family | The nitrate/nitrite porter (NNP) family is a subfamily of the major facilitator
+ |
+| concept | concepts/protein-families/p-type-atpase/ | P-type ATPase Family | P-type ATPases are a major family of ion-transporting ATPases that form a covale |
+| concept | concepts/protein-families/pap2-family/ | Type II Phosphatidic Acid Phosphatase (PAP2) Family | Type II [Phosphatidic Acid](/xray-mp-wiki/reagents/lipids/phosphatidic-acid/) ph |
+| concept | concepts/protein-families/pib-4-atpase-family/ | PIB-4-Type ATPase Family | PIB-4-ATPases are a subclass of heavy-metal transporting P-type (P1B) ATPases wi |
+| concept | concepts/protein-families/pnpt-superfamily/ | PNPT Superfamily (Polypropenyl-phosphate N-acetyl hexosamine 1-phosphate Transferase) | The polypropenyl-phosphate N-acetyl hexosamine 1-phosphate transferase (PNPT)
+su |
+| concept | concepts/protein-families/pot-family-substrate-specificity/ | POT Family Substrate Specificity by Electrostatic Interactions | Peptide transporters of the proton-dependent oligopeptide transporter (POT)
+fami |
+| concept | concepts/protein-families/pq-loop-family/ | PQ-Loop Family | The PQ-loop family is a group of membrane transporters defined by a conserved Pr |
+| concept | concepts/protein-families/rh-amt-mep-protein-family/ | Rh/Amt/MEP Protein Family | Concept: rh-amt-mep-protein-family |
+| concept | concepts/protein-families/rhomboid-protease/ | Rhomboid Protease Family | Rhomboid proteases are intramembrane serine proteases that cleave transmembrane  |
+| concept | concepts/protein-families/rnd-superfamily/ | Resistance-Nodulation-Cell Division (RND) Superfamily | The RND superfamily comprises large tripartite efflux pumps that transport diver |
+| concept | concepts/protein-families/sed-s-protein-family/ | SEDS Protein Family | The Shape, Elongation, Division, and Sporulation (SEDS) proteins are a large fam |
+| concept | concepts/protein-families/site-2-protease-family-mechanism/ | Site-2 Protease Family Mechanism | Site-2 proteases (S2Ps) are a conserved family of zinc metalloproteases that per |
+| concept | concepts/protein-families/slac1-superfamily/ | SLAC1 Superfamily | The [SLAC1 (SLOW ANION CHANNEL 1 from Arabidopsis thaliana)](/xray-mp-wiki/prote |
+| concept | concepts/protein-families/slc11-nramp-family/ | SLC11 (NRAMP) Family | The SLC11 (Solute Carrier 11) family, also known as the NRAMP (Natural Resistanc |
+| concept | concepts/protein-families/sm-family/ | SMR Family (Small Multidrug Resistance Family) | The small multidrug resistance (SMR) family is a group of bacterial multidrug ef |
+| concept | concepts/protein-families/sugar-porter-family/ | Sugar Porter (SP) Family | Concept: sugar-porter-family |
+| concept | concepts/protein-families/tetraspanin-family/ | Tetraspanin Family | Tetraspanins are a large family of four-pass transmembrane proteins (TM4SF)
 foun |
-| concept | concepts/thermostabilization/ | Protein Thermostabilization | Protein thermostabilization is a construct design strategy in which targeted poi |
-| concept | concepts/three-finger-toxin-gpcr-modulation/ | Three-Finger Toxin Scaffold for GPCR Modulation | Three-finger toxins (3FTs) are a superfamily of small protein toxins (65-80 amin |
-| concept | concepts/tm6-kinking-abc-export-directionality/ | TM6 Kinking and Export Directionality in ABC Transporters | In the [NaAtm1 ABC Exporter from Novosphingobium aromaticivorans](/xray-mp-wiki/ |
-| concept | concepts/tmbim-protein-family/ | TMBIM Protein Family | The TMBIM (transmembrane Bax inhibitor motif) protein family comprises highly co |
-| concept | concepts/tmem16-family/ | TMEM16 Family (Anoctamin Protein Family) | The TMEM16 family (also known as anoctamin family) is a group of eukaryotic memb |
-| concept | concepts/ton-complex/ | Ton Complex | The Ton complex is an energy-transducing protein assembly located in the inner m |
-| concept | concepts/trans-inhibition-in-abc-transporters/ | Trans-Inhibition in ABC Transporters | Concept: trans-inhibition-in-abc-transporters |
-| concept | concepts/transmembrane-allosteric-binding-site-acrb/ | Transmembrane Domain Allosteric Binding Pocket (TMD-BP) of AcrB | The transmembrane domain-binding pocket (TMD-BP) of the AcrB RND multidrug efflu |
-| concept | concepts/trex1-rnase-activity/ | TREX1 RNase Activity and DNA/RNA Hybrid Processing | [Mouse TREX1 (Three Prime Repair Exonuclease 1)](/xray-mp-wiki/proteins/gpcr/tre |
-| concept | concepts/tric-channel-gating/ | TRIC Channel Gating Mechanism | The TRIC (Trimeric Intracellular Cation) channel gating mechanism is a complex,  |
-| concept | concepts/truncation/ | Protein Truncation for Crystallization | Protein truncation is a construct design strategy in which flexible, unstructure |
-| concept | concepts/twin-histidine-motif/ | Twin-Histidine Motif in Ammonium Channels | The twin-histidine motif is a pair of conserved histidine residues that form a h |
-| concept | concepts/two-component-signaling-system/ | Two-Component Signaling System (TCS) in Membrane Sensors | Two-component signaling systems (TCS) are the primary mechanism by which
-bacteri |
-| concept | concepts/two-site-binding-mode/ | Two-Site Peptide Ligand Binding Mode | Concept: two-site-binding-mode |
-| concept | concepts/two-stage-catalytic-mechanism/ | Two-Stage Catalytic Mechanism of Rhomboid Proteases | Rhomboid intramembrane proteases catalyze substrate cleavage through a two-stage |
-| concept | concepts/type-i-crystal-packing/ | Type I Crystal Packing | Type I crystal packing is a crystallographic arrangement characteristic of membr |
-| concept | concepts/type-ii-abc-transporter-family/ | Type II ABC Transporter Family | Type II ABC transporters are a distinct subclass of bacterial ABC importers that |
-| concept | concepts/vanadate-inhibition/ | Vanadate Inhibition of P-type ATPases | Vanadate is the hallmark inhibitor of the P-type ATPase family. Crystal structur |
-| concept | concepts/vault-ribonucleoprotein-particles/ | Vault Ribonucleoprotein Particles | Vaults are large ribonucleoprotein (RNP) particles found in a wide variety of eu |
-| concept | concepts/viral-channelrhodopsins/ | Viral Channelrhodopsins (VirChR) | Viral channelrhodopsins (VirChR1s) represent a distinct family of light-gated io |
-| concept | concepts/virtual-proton-pump/ | Virtual Proton Pump | A virtual proton pump is a transport mechanism in which the free energy of subst |
-| concept | concepts/vitamin-k-catalytic-cycle/ | Vitamin K Catalytic Cycle | The vitamin K catalytic cycle is a biochemical cycle in the endoplasmic reticulu |
-| concept | concepts/vitamin-k-cycle/ | Vitamin K Cycle | The [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) cycle is a biochemi |
-| concept | concepts/voltage-sensor-paddle/ | Voltage-Sensor Paddle | The voltage-sensor paddle is a helix-turn-helix structural motif found in voltag |
-| concept | concepts/voltage-sensor-trapping/ | Voltage-Sensor Trapping | Voltage-sensor trapping is a mechanism of ion channel inhibition in which a smal |
-| concept | concepts/water-network-in-ligand-binding/ | Water Networks in GPCR Ligand Binding | Water molecules in GPCR ligand binding sites play a crucial role in determining  |
-| concept | concepts/water-networks-membrane-protein-oligomerization/ | Water Networks in Membrane Protein Oligomerization | Water molecules at the interface between protein subunits play critical roles in |
-| concept | concepts/wxg100-family-proteins/ | WxG100 Family Proteins | The WxG100 family (also known as the ESAT-6 family) comprises small helical prot |
-| concept | concepts/x-ray-radiation-damage/ | X-Ray Radiation Damage in Crystallography | X-ray radiation damage is a major limitation in macromolecular crystallography.  |
-| concept | concepts/yidc-dual-function/ | YidC Dual Insertase/Chaperone Function | The YidC protein from Gram-negative bacteria is a unique dual-function membrane  |
-| concept | concepts/yidc-oxa1-alb3-family/ | YidC/Oxa1/Alb3 Family | The YidC/Oxa1/Alb3 family is a conserved family of membrane protein chaperones
+| concept | concepts/protein-families/tmbim-protein-family/ | TMBIM Protein Family | The TMBIM (transmembrane Bax inhibitor motif) protein family comprises highly co |
+| concept | concepts/protein-families/tmem16-family/ | TMEM16 Family (Anoctamin Protein Family) | The TMEM16 family (also known as anoctamin family) is a group of eukaryotic memb |
+| concept | concepts/protein-families/wxg100-family-proteins/ | WxG100 Family Proteins | The WxG100 family (also known as the ESAT-6 family) comprises small helical prot |
+| concept | concepts/protein-families/yidc-oxa1-alb3-family/ | YidC/Oxa1/Alb3 Family | The YidC/Oxa1/Alb3 family is a conserved family of membrane protein chaperones
 a |
-| concept | concepts/yidc-oxa1-alb3-insertase-family/ | YidC/Oxa1/Alb3 Insertase Family | The [YidC/Oxa1/Alb3 Family](/xray-mp-wiki/concepts/yidc-oxa1-alb3-family/) compr |
+| concept | concepts/protein-families/yidc-oxa1-alb3-insertase-family/ | YidC/Oxa1/Alb3 Insertase Family | The [YidC/Oxa1/Alb3 Family](/xray-mp-wiki/concepts/protein-families/yidc-oxa1-al |
+| concept | concepts/rhodopsin-mechanisms/bacteriorhodopsin-photocycle/ | Bacteriorhodopsin Photocycle | The bacteriorhodopsin photocycle is a sequence of light-induced conformational
+a |
+| concept | concepts/rhodopsin-mechanisms/blue-shifted-rhodopsin-design/ | Blue-Shifted Rhodopsin Design Principle | The blue-shifted rhodopsin design principle uses atomistic rational design to cr |
+| concept | concepts/rhodopsin-mechanisms/cyanorhodopsin/ | CyanoRhodopsin (CyR) | Concept: cyanorhodopsin |
+| concept | concepts/rhodopsin-mechanisms/dark-adapted-state/ | Dark-Adapted State of Microbial Rhodopsins | The dark-adapted (DA) state is a desensitized conformation of microbial rhodopsi |
+| concept | concepts/rhodopsin-mechanisms/dtg-dts-rhodopsin/ | DTG/DTS Rhodopsin | DTG/DTS rhodopsins are a family of light-driven outward proton-pumping [Microbia |
+| concept | concepts/rhodopsin-mechanisms/evolution-of-rhodopsins/ | Evolution of Rhodopsins | Concept: evolution-of-rhodopsins |
+| concept | concepts/rhodopsin-mechanisms/light-adapted-state/ | Light-Adapted State of Microbial Rhodopsins | The light-adapted (LA) state is the ground state of microbial rhodopsins establi |
+| concept | concepts/rhodopsin-mechanisms/microbial-rhodopsins/ | Microbial Rhodopsins | Microbial rhodopsins are a family of seven-transmembrane helix proteins
+found in |
+| concept | concepts/rhodopsin-mechanisms/proton-release-complex/ | Proton Release Complex in Microbial Rhodopsins | The proton release complex (PRC) is a conserved structural motif in microbial rh |
+| concept | concepts/rhodopsin-mechanisms/retinal-isomerization/ | Retinal Isomerization in Microbial Rhodopsins | Retinal isomerization is the fundamental photochemical event in microbial rhodop |
+| concept | concepts/rhodopsin-mechanisms/rhodopsin-photocycle/ | Rhodopsin Photocycle | The rhodopsin photocycle involves light-induced isomerization of retinal from al |
+| concept | concepts/signaling-receptors/anion-mediated-ligand-binding/ | Anion-Mediated Ligand Binding in iGluRs | Anion-mediated ligand binding is a mechanism in which chloride ions serve as sur |
+| concept | concepts/signaling-receptors/antiparallel-dimerization/ | Antiparallel Dimerization in GPCR Crystallization | Antiparallel dimerization in the context of GPCR crystallization refers to the a |
+| concept | concepts/signaling-receptors/beta-arrestin-signaling/ | Beta-Arrestin Signaling | Concept: beta-arrestin-signaling |
+| concept | concepts/signaling-receptors/beta-arrestin/ | Beta-Arrestin | Beta-arrestins are multifunctional adaptor proteins that regulate GPCR signaling |
+| concept | concepts/signaling-receptors/biased-agonism/ | Biased Agonism in G Protein-Coupled Receptors | Biased agonism refers to the ability of different ligands to preferentially acti |
+| concept | concepts/signaling-receptors/calcium-as-gpcr-ligand-cofactor/ | Calcium as a Cofactor for GPCR Ligand Binding | Calcium ions (Ca2+) can act as a cofactor for ligand binding at the orthosteric  |
+| concept | concepts/signaling-receptors/cck-receptor-peptide-selectivity/ | Peptide Selectivity in Cholecystokinin Receptors | Peptide selectivity in cholecystokinin receptors refers to the molecular basis b |
+| concept | concepts/signaling-receptors/cck-receptor-stepwise-activation/ | Stepwise Activation of Cholecystokinin Receptors | The stepwise activation of cholecystokinin receptors (CCKₐR and CCKᴅR) describes |
+| concept | concepts/signaling-receptors/central-core-disease/ | Central Core Disease and Ryanodine Receptor SPRY1 Domain | Central core disease (CCD) is a congenital myopathy associated with mutations in |
+| concept | concepts/signaling-receptors/competitive-antagonism-cys-loop/ | Competitive Antagonism in Cys-Loop Receptors | Competitive antagonism in Cys-loop receptors occurs when a ligand binds to the o |
+| concept | concepts/signaling-receptors/conserved-core-triad/ | Conserved Core Triad in GPCR Activation | The conserved core triad (FPI triad) consists of three highly conserved amino ac |
+| concept | concepts/signaling-receptors/constitutive-active-gpcr-mutations/ | Constitutive Active GPCR Mutations | Constitutive active mutations (CAMs) in G-protein-coupled receptors (GPCRs) are
+ |
+| concept | concepts/signaling-receptors/cpvt/ | Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) and Ryanodine Receptor | Catecholaminergic polymorphic ventricular tachycardia (CPVT) is a genetic cardia |
+| concept | concepts/signaling-receptors/cys-loop-receptor-family/ | Cys-Loop Receptor Family | Concept: cys-loop-receptor-family |
+| concept | concepts/signaling-receptors/desensitization-in-cys-loop-receptors/ | Desensitization in Cys-Loop Receptors | Desensitization is a fundamental regulatory mechanism in Cys-loop receptors wher |
+| concept | concepts/signaling-receptors/dual-orexin-receptor-antagonist/ | Dual Orexin Receptor Antagonist (DORA) | Dual orexin receptor antagonists (DORAs) are therapeutic compounds that inhibit  |
+| concept | concepts/signaling-receptors/efficacy-switches/ | Efficacy Switches in GPCR Signaling | Efficacy switches are molecular mechanisms by which specific residues in G prote |
+| concept | concepts/signaling-receptors/er-retrieval-mechanism/ | ER Retrieval Mechanism (KDEL Receptor) | The ER retrieval mechanism involves KDEL receptors that bind to proteins with C- |
+| concept | concepts/signaling-receptors/extra-helical-binding-site/ | Extra-helical Binding Site in GPCRs | Concept: extra-helical-binding-site |
+| concept | concepts/signaling-receptors/extracellular-domain-gpcr-allostery/ | Extracellular Domain-Mediated Allostery in GPCRs | Extracellular domain-mediated allostery refers to the mechanism by which large e |
+| concept | concepts/signaling-receptors/g-protein/ | Heterotrimeric G Protein | Heterotrimeric G proteins are composed of alpha, beta, and gamma subunits. They  |
+| concept | concepts/signaling-receptors/gpcr-active-conformation/ | GPCR Active Conformation | GPCRs adopt distinct active and inactive conformations. The active state is char |
+| concept | concepts/signaling-receptors/gpcr-active-state-high-affinity-agonist-binding/ | GPCR Active State High-Affinity Agonist Binding | A mechanistic principle explaining why G protein-coupled receptors (GPCRs) in th |
+| concept | concepts/signaling-receptors/gpcr-chemokine-recognition/ | GPCR-Chemokine Recognition (CRS1/CRS1.5/CRS2) | Chemokine receptors (CKRs) are class A G protein-coupled receptors (GPCRs) that  |
+| concept | concepts/signaling-receptors/gpcr-dimerization/ | GPCR Dimerization | GPCR dimerization refers to the formation of homo- and hetero-oligomeric complex |
+| concept | concepts/signaling-receptors/gpcr-g-protein-arrestin-common-interface/ | GPCR G Protein-Arrestin Common Interface | G-protein-coupled receptors (GPCRs) transmit extracellular signals to activate i |
+| concept | concepts/signaling-receptors/gpcr-g-protein-coupling/ | GPCR-G Protein Coupling Mechanism | GPCR-G protein coupling is the fundamental mechanism by which G protein-coupled  |
+| concept | concepts/signaling-receptors/gpcr-inactive-conformation/ | GPCR Inactive Conformation | The inactive conformation of G-protein-coupled receptors (GPCRs), also known as  |
+| concept | concepts/signaling-receptors/gpcr/ | G Protein-Coupled Receptor (GPCR) Family | GPCRs are the largest family of cell surface receptors, characterized by seven t |
+| concept | concepts/signaling-receptors/gpr6-constitutive-activity/ | GPR6 High Constitutive Activity and Orphan Receptor Signaling | [GPR6 — Orphan G Protein-Coupled Receptor Implicated in Parkinson's Disease](/xr |
+| concept | concepts/signaling-receptors/helical-recoil-desensitization/ | Helical Recoil Model of P2X Receptor Desensitization | The helical recoil model describes the molecular mechanism of P2X receptor desen |
+| concept | concepts/signaling-receptors/heteromeric-ampa-receptor-organization/ | Heteromeric AMPA Receptor Organization | Heteromeric AMPA-type glutamate receptors (AMPARs), composed of GluA1-4 subunits |
+| concept | concepts/signaling-receptors/intracellular-allosteric-antagonism/ | Intracellular Allosteric Antagonism at Chemokine Receptors | Intracellular allosteric antagonism is a mechanism of GPCR inhibition where
+smal |
+| concept | concepts/signaling-receptors/inverse-agonism/ | Inverse Agonism in GPCR Signaling | Inverse agonism refers to the ability of certain ligands to reduce the basal (co |
+| concept | concepts/signaling-receptors/kctd-modulation-gabab-receptor/ | KCTD-Mediated Modulation of GABA_B Receptor Signaling | KCTD (potassium channel tetramerization domain-containing) proteins, specificall |
+| concept | concepts/signaling-receptors/lipid-activation-5ht2a-receptor/ | Lipid Activation of 5-HT2A Receptor | The human serotonin 2A receptor (5-HT2AR) is modulated by lipids including monoo |
+| concept | concepts/signaling-receptors/malignant-hyperthermia/ | Malignant Hyperthermia and Ryanodine Receptor Mutations | Malignant hyperthermia is a genetic disorder associated with mutations in the [R |
+| concept | concepts/signaling-receptors/n-terminal-t4-lysozyme-fusion/ | N-Terminal T4 Lysozyme Fusion for GPCR Crystallization | N-terminal T4 lysozyme ([T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/)) |
+| concept | concepts/signaling-receptors/negative-allosteric-modulation/ | Negative Allosteric Modulation in GPCRs | Negative allosteric modulation (NAM) refers to the ability of a ligand to bind t |
+| concept | concepts/signaling-receptors/ntd-lbd-allosteric-coupling-iglurs/ | NTD-LBD Allosteric Coupling in Ionotropic Glutamate Receptors | In heteromeric AMPA receptors, the compact O-shape architecture brings the N-ter |
+| concept | concepts/signaling-receptors/orexin-receptor-subtype-selectivity/ | Structure-Based GPCR Subtype Selectivity via Single Residue Differences | Structure-based exploitation of single amino acid differences between GPCR subty |
+| concept | concepts/signaling-receptors/p2x-receptor-family/ | P2X Receptor Family | The P2X receptor family comprises a group of ligand-gated ion channels activated |
+| concept | concepts/signaling-receptors/p2y-receptor-family/ | P2Y Receptor Family | The P2Y receptors are a family of purinergic G-protein-coupled receptors (GPCRs) |
+| concept | concepts/signaling-receptors/paqr-family/ | PAQR Family (Progesterone and AdipoQ Receptor Family) | The progesterone and adipoQ receptor (PAQR) family comprises integral membrane p |
+| concept | concepts/signaling-receptors/photocyclic-gpcr-activation/ | Photocyclic GPCR Activation | Photocyclic GPCR activation refers to the ability of a G protein-coupled recepto |
+| concept | concepts/signaling-receptors/phototaxis-signaling-rhodopsin/ | Phototaxis Signaling in Microbial Rhodopsins | Phototaxis signaling in microbial rhodopsins is a process where light-activated  |
+| concept | concepts/signaling-receptors/pii-protein-family/ | PII Signal Transduction Protein Family | The PII signal transduction protein family is a widespread family of small trime |
+| concept | concepts/signaling-receptors/polar-network-gpcr-activation/ | Polar Network in GPCR Activation | The polar network is an extensive system of hydrogen bonds and water-mediated in |
+| concept | concepts/signaling-receptors/prostanoid-receptor-family/ | Prostanoid Receptor Family | Prostanoid receptors are a family of class A G protein-coupled receptors that me |
+| concept | concepts/signaling-receptors/sodium-allosteric-modulation/ | Sodium Ion Allosteric Modulation in GPCRs | Sodium ions (Na+) act as negative allosteric modulators of many class A G protei |
+| concept | concepts/signaling-receptors/spyr-domain/ | SPRY Domain in Ryanodine Receptors | The SPRY domain is a protein domain named after 'SPIA kinase and Ryanodine Recep |
+| concept | concepts/signaling-receptors/steric-trigger-mechanism/ | Steric Trigger Mechanism in Rhodopsin Signaling | The steric trigger mechanism describes how a specific hydrogen-bonded threonine- |
+| concept | concepts/signaling-receptors/three-finger-toxin-gpcr-modulation/ | Three-Finger Toxin Scaffold for GPCR Modulation | Three-finger toxins (3FTs) are a superfamily of small protein toxins (65-80 amin |
+| concept | concepts/signaling-receptors/two-component-signaling-system/ | Two-Component Signaling System (TCS) in Membrane Sensors | Two-component signaling systems (TCS) are the primary mechanism by which
+bacteri |
+| concept | concepts/signaling-receptors/two-site-binding-mode/ | Two-Site Peptide Ligand Binding Mode | Concept: two-site-binding-mode |
+| concept | concepts/signaling-receptors/water-network-in-ligand-binding/ | Water Networks in GPCR Ligand Binding | Water molecules in GPCR ligand binding sites play a crucial role in determining  |
+| concept | concepts/structural-mechanisms/3-omega-motif/ | 3 Omega Motif in Microbial Rhodopsins | The 3 omega motif is a structural motif in microbial rhodopsins formed by three  |
+| concept | concepts/structural-mechanisms/ago-allosteric-modulator/ | Ago-Allosteric Modulator | An ago-allosteric modulator is a ligand that both activates a receptor (agonist  |
+| concept | concepts/structural-mechanisms/allosteric-regulation/ | Allosteric Regulation in Membrane Proteins | Allosteric regulation is a fundamental mechanism by which ligand binding at one  |
+| concept | concepts/structural-mechanisms/apolar-side-chain-packing/ | Apolar Side-Chain Packing in Membrane Proteins | Apolar side-chain packing is the primary driving force for folding and assembly  |
+| concept | concepts/structural-mechanisms/atcase-allosteric-mechanism/ | Allosteric Mechanism of Aspartate Carbamoyltransferase | Aspartate carbamoyltransferase (ATCase) from Escherichia coli is the archetypal  |
+| concept | concepts/structural-mechanisms/atp-induced-domain-rearrangement-p-type-atpases/ | ATP-Induced Domain Rearrangement in P-type ATPases | In P-type ATPases such as SERCA, ATP binding alone — without Ca2+ or phosphoryla |
+| concept | concepts/structural-mechanisms/c-terminus/ | C-Terminus (C-Terminal Domain) | The C-terminus (C-terminal domain) of a protein is the end of the polypeptide ch |
+| concept | concepts/structural-mechanisms/c-type-inactivation/ | C-type Inactivation | Concept: c-type-inactivation |
+| concept | concepts/structural-mechanisms/carboxylate-shift/ | Carboxylate Shift | The carboxylate shift is a catalytic mechanism observed in Class I
+CDP-alcohol p |
+| concept | concepts/structural-mechanisms/chloride-binding-sites-psii/ | Chloride-Binding Sites in Photosystem II | The chloride ion (Cl-) is an essential cofactor for oxygen evolution in photosys |
+| concept | concepts/structural-mechanisms/claudin-tight-junction-architecture/ | Claudin Tight Junction Architecture | Claudins are the major structural components of tight junctions (TJs), forming c |
+| concept | concepts/structural-mechanisms/common-drug-binding-site-atp-synthase-c-ring/ | Common Drug-Binding Site on ATP Synthase c-Ring | Concept: common-drug-binding-site-atp-synthase-c-ring |
+| concept | concepts/structural-mechanisms/conformational-change/ | Conformational Change | Conformational changes are structural rearrangements within a protein that enabl |
+| concept | concepts/structural-mechanisms/conformational-dynamics-mppases/ | Conformational Dynamics in M-PPases | M-PPases (membrane-bound H+-pumping pyrophosphatases) undergo large-scale confor |
+| concept | concepts/structural-mechanisms/cork-in-bottle-occlusion/ | Cork-in-Bottle Occlusion | Cork-in-bottle occlusion is a mechanism of ion channel block in which a bound pr |
+| concept | concepts/structural-mechanisms/cpe-induced-tight-junction-disassembly/ | CpE-Induced Tight Junction Disassembly | Clostridium perfringens enterotoxin (CpE) causes tight junction (TJ) disassembly |
+| concept | concepts/structural-mechanisms/crd-cholesterol-binding-site-smo/ | CRD Cholesterol Binding Site of Smoothened | The CRD cholesterol binding site is a shallow groove on the surface of the cyste |
+| concept | concepts/structural-mechanisms/cross-protomer-interaction-proteorhodopsin/ | Cross-Protomer Interactions in Proteorhodopsin Oligomers | Proteorhodopsins (PRs) form oligomeric assemblies (hexamers or pentamers) in whi |
+| concept | concepts/structural-mechanisms/cupin-fold/ | Cupin Fold | The cupin fold is a structural motif found in a large superfamily of proteins ch |
+| concept | concepts/structural-mechanisms/de-novo-design-transmembrane-pores/ | De Novo Design of Transmembrane Pores | De novo design of transmembrane pores involves the computational design and
+expe |
+| concept | concepts/structural-mechanisms/deep-7tm-sterol-binding-site/ | Deep 7TM Sterol-Binding Site of Smoothened | The deep 7TM sterol-binding site is a cholesterol-binding pocket located deep wi |
+| concept | concepts/structural-mechanisms/domain-swapping/ | Three-Dimensional Domain Swapping | Three-dimensional domain swapping occurs when a protein unfolds partially and ex |
+| concept | concepts/structural-mechanisms/drd2-extended-binding-pocket/ | DRD2 Extended Binding Pocket (DRD2-EBP) | The [DRD2](/xray-mp-wiki/proteins/gpcr/drd2/) extended binding pocket (DRD2-[EBP |
+| concept | concepts/structural-mechanisms/dual-topology-architecture/ | Dual-Topology Membrane Protein Architecture | Dual-topology membrane protein architecture refers to the assembly of a function |
+| concept | concepts/structural-mechanisms/embedded-lipid-in-binding-cavity/ | Embedded Lipid in the Binding Cavity | The presence of an embedded lipid within the substrate-binding cavity of a
+multi |
+| concept | concepts/structural-mechanisms/engineered-disulfide-bridge-trapping/ | Engineered Disulfide Bridge Conformational Trapping | Engineered disulfide bridge conformational trapping is a protein engineering str |
+| concept | concepts/structural-mechanisms/entropic-spring-mechanism/ | Entropic Spring Mechanism in Tc Toxin Injection | The entropic spring mechanism describes how the linker connecting the shell and  |
+| concept | concepts/structural-mechanisms/gated-pore-mechanism/ | Gated-Pore Mechanism | The gated-pore mechanism is an alternating access transport mode in which a tran |
+| concept | concepts/structural-mechanisms/grana-stacking-mechanism/ | Grana Stacking Mechanism | Concept: grana-stacking-mechanism |
+| concept | concepts/structural-mechanisms/gt-a-fold/ | GT-A Fold (Glycosyltransferase A Fold) | Concept: gt-a-fold |
+| concept | concepts/structural-mechanisms/gxxxg-motif/ | GXXXG Motif (Helix Packing Motif) | The GXXXG motif is a helix-helix packing motif commonly found in transmembrane p |
+| concept | concepts/structural-mechanisms/heliorhodopsin-schiff-base-cavity/ | Heliorhodopsin Schiff Base Cavity | The Schiff base cavity (SBC) is a large hydrophilic cavity located in the cytopl |
+| concept | concepts/structural-mechanisms/helix-pi-bulge/ | Helix Pi-Bulge in Membrane Proteins | A pi-bulge is a local disruption of the alpha-helical hydrogen-bonding pattern w |
+| concept | concepts/structural-mechanisms/horizontal-helix-spring-mechanism/ | Horizontal Helix Spring Mechanism | The horizontal helix spring mechanism is a structural mechanism discovered in th |
+| concept | concepts/structural-mechanisms/interdigitated-inverted-topology-repeat/ | Interdigitated Inverted Topology Repeat (IITR) | The interdigitated inverted topology repeat (IITR) is a protein fold in which tw |
+| concept | concepts/structural-mechanisms/intramolecular-salt-bridge/ | Intramolecular Salt Bridge | Concept: intramolecular-salt-bridge |
+| concept | concepts/structural-mechanisms/isoprenoid-quinone-in-atp-synthase-c-ring/ | Isoprenoid Quinones inside the ATP Synthase c-Ring Pore | The hypothesis that isoprenoid quinones (plastoquinone in chloroplasts,
+coenzyme |
+| concept | concepts/structural-mechanisms/large-domain-motion-in-p-type-atpases/ | Large Domain Motion in P-type ATPases | Concept: large-domain-motion-in-p-type-atpases |
+| concept | concepts/structural-mechanisms/lipid-asymmetry/ | Membrane Lipid Asymmetry | Membrane lipid asymmetry refers to the non-random distribution of lipids between |
+| concept | concepts/structural-mechanisms/low-barrier-hydrogen-bond/ | Low-Barrier Hydrogen Bond | A low-barrier hydrogen bond (LBHB) is a very short, strong hydrogen bond (typica |
+| concept | concepts/structural-mechanisms/mcu-dimer-of-dimers-architecture/ | MCU Dimer-of-Dimers Architecture | The mitochondrial calcium uniporter (MCU) assembles as a tetrameric channel with |
+| concept | concepts/structural-mechanisms/membrane-protein-insertase-substrate-exit-gate/ | YidC Substrate Exit Gate and Helical Bundle Rearrangement | The [YidC/Oxa1/Alb3 Family](/xray-mp-wiki/concepts/protein-families/yidc-oxa1-al |
+| concept | concepts/structural-mechanisms/membrane-recognition-helix/ | Membrane Recognition Helix | A membrane recognition helix is an amphipathic alpha-helix that lies on the memb |
+| concept | concepts/structural-mechanisms/mir-domain/ | MIR Domain (Mannosyltransferase, IP3R, RyR) | The MIR domain (Mannosyltransferase, IP3R, and RyR) is a structural domain found |
+| concept | concepts/structural-mechanisms/motif-a-mfs/ | MFS Motif A and Charge-Helix Dipole Interactions | Motif A is a highly conserved sequence motif (GxxxD rxGR kp) found in most MFS
+( |
+| concept | concepts/structural-mechanisms/n-terminus/ | N-Terminus (N-Terminal Domain) | The N-terminus of a protein is the start of the polypeptide chain terminating in |
+| concept | concepts/structural-mechanisms/narghi-quinol-binding-site/ | NarGHI Quinol Binding Site | The quinol binding site (Q-site) of Escherichia coli nitrate reductase A (NarGHI |
+| concept | concepts/structural-mechanisms/non-crystallographic-symmetry/ | Non-Crystallographic Symmetry (NCS) | Non-crystallographic symmetry (NCS) refers to symmetry relationships between mol |
+| concept | concepts/structural-mechanisms/npc1-c-luminal-domain/ | NPC1-C Luminal Domain | NPC1-C is the C-terminal luminal domain (also called domain C or CTD-like domain |
+| concept | concepts/structural-mechanisms/npxxy-motif/ | NPxxY Motif | The NPxxY motif is a conserved sequence motif (Asn-Pro-Xaa-Xaa-Tyr) found in tra |
+| concept | concepts/structural-mechanisms/peptide-binding-pocket/ | PepT_So2 Substrate-Binding Pockets (P1, P2, P3) | The substrate-binding site of PepT_So2 (a proton-dependent oligopeptide transpor |
+| concept | concepts/structural-mechanisms/pilz-domain/ | PilZ Domain (c-di-GMP Binding Domain) | Concept: pilz-domain |
+| concept | concepts/structural-mechanisms/pore-forming-toxins/ | Pore-Forming Toxins | Pore-forming toxins (PFTs) are a large class of bacterial virulence factors that |
+| concept | concepts/structural-mechanisms/positive-allosteric-modulation/ | Positive Allosteric Modulation | Positive allosteric modulators (PAMs) are small molecules that bind to an allost |
+| concept | concepts/structural-mechanisms/proton-locked-conformation/ | Proton-Locked Conformation | The proton-locked conformation is a stable structural state of the conserved glu |
+| concept | concepts/structural-mechanisms/pz-pocket-pot-inhibition/ | PZ Pocket: Inhibitor-Induced Binding Pocket in POTs | The PZ pocket is a previously undescribed mostly hydrophobic pocket in proton-de |
+| concept | concepts/structural-mechanisms/rck-domain-activation-mechanism/ | RCK Domain Activation Mechanism | The RCK (Regulator of K+ conductance) domain activation mechanism describes how  |
+| concept | concepts/structural-mechanisms/retinal-chromophore-conformation/ | Retinal Chromophore Conformation | [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) chromophore conformation in [ |
+| concept | concepts/structural-mechanisms/right-handed-coiled-coil-architecture/ | Right-Handed Coiled-Coil Architecture in Rotary ATPases | The peripheral stalk of rotary ATPases adopts an unusual right-handed coiled-coi |
+| concept | concepts/structural-mechanisms/rocker-switch-mechanism/ | Rocker-Switch Mechanism | The rocker-switch mechanism is an alternating access transport mode in which two |
+| concept | concepts/structural-mechanisms/rocking-bundle-mechanism/ | Rocking-Bundle Mechanism | The rocking-bundle mechanism is a transport mechanism in which a transporter und |
+| concept | concepts/structural-mechanisms/s4-s5-linker-interaction-motif/ | S4-S5 Linker Interaction Motif | The S4-S5 linker interaction motif is a three-way structural interaction in volt |
+| concept | concepts/structural-mechanisms/sequential-allosteric-regulation/ | Sequential Allosteric Regulation | Concept: sequential-allosteric-regulation |
+| concept | concepts/structural-mechanisms/slc6-substrate-recognition-gmg-motif/ | SLC6 Substrate Recognition by the GMG Motif | The (G/A/C)PheG motif (GMG in [MhsT Multi-Hydrophobic Amino Acid Transporter fro |
+| concept | concepts/structural-mechanisms/sliding-helix-mechanism/ | Sliding Helix Mechanism | The sliding helix mechanism is a model for voltage-dependent gating in voltage-g |
+| concept | concepts/structural-mechanisms/sn2-like-displacement-mechanism/ | SN2-Like Displacement Mechanism in Phosphotransferases | Concept: sn2-like-displacement-mechanism |
+| concept | concepts/structural-mechanisms/snare-complex/ | SNARE Complex | The SNARE (Soluble N-ethylmaleimide-sensitive factor Attachment protein REceptor |
+| concept | concepts/structural-mechanisms/snare-core-complex-assembly/ | SNARE Core Complex Assembly and Layer Architecture | SNARE (SNAP Receptor) core complexes are four-helix bundles that mediate membran |
+| concept | concepts/structural-mechanisms/symmetry-mismatch-rotary-motor/ | Symmetry Mismatch in Rotary Molecular Motors | Symmetry mismatch between rotor and stator components is a recurring design prin |
+| concept | concepts/structural-mechanisms/transmembrane-allosteric-binding-site-acrb/ | Transmembrane Domain Allosteric Binding Pocket (TMD-BP) of AcrB | The transmembrane domain-binding pocket (TMD-BP) of the AcrB RND multidrug efflu |
+| concept | concepts/structural-mechanisms/type-i-crystal-packing/ | Type I Crystal Packing | Type I crystal packing is a crystallographic arrangement characteristic of membr |
+| concept | concepts/structural-mechanisms/water-networks-membrane-protein-oligomerization/ | Water Networks in Membrane Protein Oligomerization | Water molecules at the interface between protein subunits play critical roles in |
+| concept | concepts/transport-mechanisms/2-hydroxycarboxylate-transporter-family/ | 2-Hydroxycarboxylate Transporter (2-HCT) Family | The 2-hydroxycarboxylate transporter (2-HCT) family (TC 2.A.24) comprises second |
+| concept | concepts/transport-mechanisms/abc-transporter-allosteric-regulation/ | ABC Transporter Allosteric Regulation | ABC transporters can be allosterically regulated through regulatory domains fuse |
+| concept | concepts/transport-mechanisms/abc-transporter-family/ | ABC Transporter Family | The ATP-binding cassette (ABC) transporter superfamily comprises a large group o |
+| concept | concepts/transport-mechanisms/abc-transporter-outward-occluded-mechanism/ | ABC Transporter Outward-Occluded Mechanism | The outward-occluded conformation of ABC exporters represents an intermediate
+st |
+| concept | concepts/transport-mechanisms/abc-transporter-substrate-specificity/ | ABC Transporter Substrate Specificity | Substrate specificity in ABC transporters is not determined solely by
+the peripl |
+| concept | concepts/transport-mechanisms/abgt-family/ | AbgT Family of Transporters | The AbgT family is a large family of approximately 13,000 putative membrane tran |
+| concept | concepts/transport-mechanisms/acetate-uptake-transporter-family/ | Acetate Uptake Transporter (AceTr) Family | The acetate uptake transporter (AceTr) family (TC 2.A.96) comprises bacterial an |
+| concept | concepts/transport-mechanisms/ag-sf-coupling/ | Activation Gate–Selectivity Filter (AG–SF) Coupling | AG–SF coupling is the allosteric communication mechanism between the activation  |
+| concept | concepts/transport-mechanisms/allosteric-site-in-nss-transporters/ | Allosteric Site in NSS Transporters | Concept: allosteric-site-in-nss-transporters |
+| concept | concepts/transport-mechanisms/alternating-access-mechanism/ | Alternating Access Mechanism | The alternating access mechanism is a fundamental transport mechanism
+employed b |
+| concept | concepts/transport-mechanisms/alternating-access-sodium-transport/ | Alternating Access Model for Light-Driven Sodium Transport | The alternating access model for light-driven sodium transport describes how Kro |
+| concept | concepts/transport-mechanisms/alternating-ion-bound-configurations/ | Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters | The alternating ion-bound configurations model proposes that a K+ channel's sele |
+| concept | concepts/transport-mechanisms/amate-1-subfamily/ | aMATE-1 Subfamily — Archaeal MATE Transporters | The aMATE-1 (archaeal MATE-1) subfamily is a newly identified clade of the multi |
+| concept | concepts/transport-mechanisms/anion-channel-gating/ | Anion Channel Gating via Phenylalanine Gate | Anion channel gating via a conserved phenylalanine gate is a mechanism of ion ch |
+| concept | concepts/transport-mechanisms/anion-pi-interaction/ | Anion-&#x3C0; Interaction in Ion Transport | Anion-&#x3C0; interactions are non-covalent interactions between an anion
+(negat |
+| concept | concepts/transport-mechanisms/antibiotic-efflux-pump/ | Antibiotic Efflux Pumps | Antibiotic efflux pumps are membrane transporters that export toxic compounds, i |
+| concept | concepts/transport-mechanisms/apc-superfamily/ | APC Superfamily (Amino Acid-Polyamine-Organocation Transporter Family) | The APC (amino acid-polyamine-organocation) superfamily comprises membrane trans |
+| concept | concepts/transport-mechanisms/aquaporin/ | Aquaporin Family | Aquaporins are water channel proteins that facilitate water transport across
+cel |
+| concept | concepts/transport-mechanisms/arginine-oscillation-mechanism/ | Arginine Oscillation Mechanism in LeuT-Type Transporters | Concept: arginine-oscillation-mechanism |
+| concept | concepts/transport-mechanisms/autoinhibitory-domains/ | Autoinhibitory Domains in Ion Pumps | Concept: autoinhibitory-domains |
+| concept | concepts/transport-mechanisms/bacterial-pump-oligomerization-structural-determinants/ | Bacterial Pump Oligomerization Classification by Structural Determinants | A classification system for bacterial light-driven pumps based on the
+correlatio |
+| concept | concepts/transport-mechanisms/ball-and-chain-model/ | Ball-and-Chain Model for SLC38A9 | The ball-and-chain model describes a conformational regulation mechanism in SLC3 |
+| concept | concepts/transport-mechanisms/barbiturate-binding-mechanism/ | Barbiturate Binding Mechanism in Pentameric Ligand-Gated Ion Channels | Barbiturates are sedative-hypnotic drugs that modulate pentameric ligand-gated i |
+| concept | concepts/transport-mechanisms/bcct-family/ | BCCT Family (Betaine/Carnitine/Choline Transporter Family) | The BCCT (Betaine/Carnitine/Choline Transporter) family comprises secondary acti |
+| concept | concepts/transport-mechanisms/bcs1-folded-protein-translocation/ | Bcs1 Folded Protein Translocation Mechanism | Bcs1 is a mitochondrial AAA+ ATPase that translocates folded proteins across the |
+| concept | concepts/transport-mechanisms/biogenic-amine-transporters/ | Biogenic Amine Transporters | Biogenic amine transporters (BATs) are integral-membrane symporters that clear n |
+| concept | concepts/transport-mechanisms/caca-superfamily/ | Ca2+:Cation Antiporter (CaCA) Superfamily | The Ca2+:cation (CaCA) superfamily is a large and ancient family of integral mem |
+| concept | concepts/transport-mechanisms/camera-iris-gating/ | Camera Iris Gating | Camera iris gating describes a mechanism of channel opening where transmembrane  |
+| concept | concepts/transport-mechanisms/cardiolipin-transport/ | Cardiolipin Transport in Gram-Negative Bacteria | [Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) (CL) transport in Gram |
+| concept | concepts/transport-mechanisms/channel-4/ | Channel 4 (CH4) - PN2/PC1 Drug Transport Pathway in AcrB | Channel 4 (CH4) is a proposed drug transport pathway in the AcrB multidrug efflu |
+| concept | concepts/transport-mechanisms/channel-gating/ | Channel Gating via Plug Domain Displacement | Channel gating in the [SECY](/xray-mp-wiki/proteins/secretion-translocon/secy/)  |
+| concept | concepts/transport-mechanisms/channel-like-mechanism/ | Channel-like Mechanism in Membrane Transport | Concept: channel-like-mechanism |
+| concept | concepts/transport-mechanisms/channelrhodopsin-photocycle/ | Channelrhodopsin Photocycle | The channelrhodopsin photocycle is a sequence of light-induced conformational
+an |
+| concept | concepts/transport-mechanisms/cl1-channel/ | Cl1 Proton Channel of Photosystem II | The Cl1 channel is a proton release pathway in Photosystem II (PSII) that connec |
+| concept | concepts/transport-mechanisms/clc-chloride-channel-glutamate-gating/ | CLC Chloride Channel Glutamate Gating | CLC chloride channel gating is mediated by a conserved glutamate residue (E148 i |
+| concept | concepts/transport-mechanisms/clc-proton-transport-mechanism/ | CLC Cl-/H+ Exchange Transport Mechanism | CLC Cl-/H+ exchange transporters couple the downhill movement of chloride ions ( |
+| concept | concepts/transport-mechanisms/clc-two-gate-mechanism/ | CLC Two-Gate Transport Mechanism | The CLC two-gate transport mechanism describes how CLC-type Cl-/H+ exchangers co |
+| concept | concepts/transport-mechanisms/clc-windmill-antiport-mechanism/ | CLC Windmill Antiport Mechanism | The windmill mechanism is a proposed model for CLCF-type F-/H+
+antiport, based o |
+| concept | concepts/transport-mechanisms/conformational-asymmetry-abc-transporters/ | Conformational Asymmetry in ABC Transporters | Conformational asymmetry in ABC transporters refers to the observation that the  |
+| concept | concepts/transport-mechanisms/conformational-coupling-gating/ | Conformational Coupling Between Activation Gate and Selectivity Filter | Conformational coupling between the activation gate and selectivity filter is a  |
+| concept | concepts/transport-mechanisms/conformational-dynamics-mfs/ | Conformational Dynamics in MFS Transporters | [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) tr |
+| concept | concepts/transport-mechanisms/cora-mg-transporter/ | CorA Mg2+ Transporter | CorA is a Mg2+ transporter that forms a pentameric structure. It uses a common p |
+| concept | concepts/transport-mechanisms/cora-mrs2-alr1-superfamily/ | CorA-Mrs2-Alr1 Superfamily of Mg2+ Channels | Concept: cora-mrs2-alr1-superfamily |
+| concept | concepts/transport-mechanisms/dass-family/ | Divalent Anion/Na+ Symporter (DASS) Family | The Divalent Anion/Na+ Symporter (DASS) family (TC 2.A.47) is a large family
+of  |
+| concept | concepts/transport-mechanisms/dmt-superfamily/ | DMT Superfamily (Drug/Metabolite Transporter Superfamily) | The drug/metabolite transporter (DMT) superfamily is a large group of membrane t |
+| concept | concepts/transport-mechanisms/dual-drug-binding-sites-mfs/ | Dual Drug-Binding Sites in MFS Multidrug Transporters | X-ray structures of the MdfA variant I239T/G354E revealed that this multidrug tr |
+| concept | concepts/transport-mechanisms/dual-mode-inhibition-abc-transporters/ | Dual-Mode Inhibition of ABC Transporters | Dual-mode inhibition refers to a mechanism where a single small-molecule inhibit |
+| concept | concepts/transport-mechanisms/dual-topology-channels/ | Dual-Topology Channels | Dual-topology channels are membrane protein complexes in which the subunits that |
+| concept | concepts/transport-mechanisms/ecf-transporter-family/ | ECF (Energy Coupling Factor) Transporter Family | The Energy Coupling Factor (ECF) transporter family is a specialized class of
+AT |
+| concept | concepts/transport-mechanisms/ecf-transporter/ | ECF Transporter (Energy-Coupling Factor Transporter) | Energy-coupling factor (ECF) transporters are a unique family of membrane transp |
+| concept | concepts/transport-mechanisms/electrostatic-gating-sodium-pump/ | Electrostatic Gating in Light-Driven Sodium Pumps | The electrostatic gating mechanism describes how light-driven sodium pumps such  |
+| concept | concepts/transport-mechanisms/elevator-mechanism/ | Elevator Mechanism | Concept: elevator-mechanism |
+| concept | concepts/transport-mechanisms/esx-1-secretion-system/ | ESX-1 Secretion System | The ESX-1 secretion system is a type VII protein secretion system in Mycobacteri |
+| concept | concepts/transport-mechanisms/extended-selectivity-filter/ | Extended Selectivity Filter | The extended selectivity filter is a five-position motif in the pore of
+ammonia- |
+| concept | concepts/transport-mechanisms/fluc-family/ | Fluc Family of Fluoride Ion Channels | The Fluc family comprises F- specific ion channels that protect prokaryotes and  |
+| concept | concepts/transport-mechanisms/fnt-family/ | FNT Family (Formate/Nitrite Transporter Family) | The FNT (formate/nitrite transporter) family comprises pentameric membrane chann |
+| concept | concepts/transport-mechanisms/functionally-rotating-mechanism/ | Functionally Rotating Mechanism in Multidrug Transporters | The functionally rotating mechanism is a drug export mechanism proposed for the  |
+| concept | concepts/transport-mechanisms/gaba-transporters-gats/ | GABA Transporters (GATs) | GABA transporters (GATs) are members of the neurotransmitter/sodium symporter (N |
+| concept | concepts/transport-mechanisms/gap-junction-voltage-gating/ | Gap Junction Voltage-Dependent Gating (Vj Gating) | Gap junction channels exhibit voltage-dependent gating in response to the transj |
+| concept | concepts/transport-mechanisms/gas-conducting-aquaporins/ | Gas-Conducting Aquaporins | Gas-conducting aquaporins are a proposed subclass of the aquaporin superfamily
+t |
+| concept | concepts/transport-mechanisms/gas-selectivity-filter/ | GAS Selectivity Filter | The GAS (Gly-Ala-Ser) selectivity filter is the ion selectivity determinant in a |
+| concept | concepts/transport-mechanisms/gating-charge-transfer-center/ | Gating Charge Transfer Center in Voltage Sensors | The gating charge transfer center is a conserved structural feature in voltage-s |
+| concept | concepts/transport-mechanisms/gating-modifier-toxin-binding/ | Gating Modifier Toxin Binding Mechanism | Concept: gating-modifier-toxin-binding |
+| concept | concepts/transport-mechanisms/gating-pore-current/ | Gating Pore Current (Omega Current) | The gating pore current (also called omega current) is a pathological ionic curr |
+| concept | concepts/transport-mechanisms/gating-ring/ | Gating Ring (RCK Domain Assembly) | A gating ring is a large tetrameric or octameric assembly of RCK (Regulator of C |
+| concept | concepts/transport-mechanisms/glucose-h-symport-mechanism/ | Glucose/H+ Symport Mechanism | The glucose/H+ symport mechanism describes how members of the
+[Major Facilitator |
+| concept | concepts/transport-mechanisms/gluex-conformational-states-clc/ | Gluex Conformational States in CLC Transport Cycle | The critical glutamate residue (Gluex) in CLC Cl-/H+ antiporters adopts multiple |
+| concept | concepts/transport-mechanisms/glutamate-transporter-family/ | Glutamate Transporter Family (SLC1/EAAT) | The glutamate transporter family (SLC1 in humans, also known as excitatory
+amino |
+| concept | concepts/transport-mechanisms/glycine-gating-hinge/ | Glycine-Gating Hinge | The glycine-gating hinge is a conserved [Glycine](/xray-mp-wiki/reagents/buffers |
+| concept | concepts/transport-mechanisms/gpcr-lateral-ligand-entry-channel/ | GPCR Lateral Ligand Entry Channel | Some G-protein-coupled receptors (GPCRs), particularly those that bind lipophili |
+| concept | concepts/transport-mechanisms/h-plus-countertransport-p-type-atpases/ | H⁺ Countertransport in P-type ATPases | H⁺ countertransport in P-type ATPases refers to the coupled movement of
+protons  |
+| concept | concepts/transport-mechanisms/helix-shift-mechanism/ | Helix Shift Mechanism for Carboxylate Drug Transport | The helix shift mechanism describes how carboxylate drugs are actively transport |
+| concept | concepts/transport-mechanisms/hme-rnd-efflux-pump/ | HME-RND Efflux Pump (Heavy-Metal Efflux RND) | The heavy-metal efflux resistance-nodulation-cell division (HME-RND) subfamily c |
+| concept | concepts/transport-mechanisms/hp1-hp2-gating-mechanism/ | HP1-HP2 Gating Mechanism in Glutamate Transporters | The HP1-HP2 gating mechanism describes how glutamate transporters control altern |
+| concept | concepts/transport-mechanisms/hydrophobic-gating/ | Hydrophobic Gating (Vapor Lock Mechanism) | Hydrophobic gating, also known as the "vapor lock" mechanism, is a principle by  |
+| concept | concepts/transport-mechanisms/inward-facing-conformation/ | Inward-Facing Conformation of ABC Transporters | The inward-facing conformation is a structural state of ABC transporters in whic |
+| concept | concepts/transport-mechanisms/inward-facing-occluded-mfs-state/ | Inward Facing Occluded State in MFS Transporters | The inward facing occluded state is a conformational intermediate in the transpo |
+| concept | concepts/transport-mechanisms/inward-rectification/ | Inward Rectification in Potassium Channels | Inward rectification is the property of certain potassium channels (Kir channels |
+| concept | concepts/transport-mechanisms/ion-release-pathway/ | Ion-Release Pathway in Copper-Transporting P-type ATPases | The ion-release pathway in copper-transporting P-type ATPases (P_IB ATPases) is  |
+| concept | concepts/transport-mechanisms/ionic-locks-mfs/ | Ionic Locks in MFS Transporters | Concept: ionic-locks-mfs |
+| concept | concepts/transport-mechanisms/knock-off-mechanism/ | Knock-off Mechanism of Ion Permeation | The knock-off mechanism is a model of ion permeation through selectivity filters |
+| concept | concepts/transport-mechanisms/lateral-gating-mechanism/ | Lateral Gating Mechanism in Rhomboid Proteases | The lateral gating mechanism is a feature of rhomboid intramembrane proteases th |
+| concept | concepts/transport-mechanisms/leu25-gatekeeper/ | Leu25 Gatekeeper Mechanism in NSS Transporters | The Leu25 gatekeeper is a conserved mechanism in the NSS (neurotransmitter:sodiu |
+| concept | concepts/transport-mechanisms/lid-domain/ | Lid Domain in Sugar Transport Proteins (STPs) | The Lid domain is a conserved structural feature of Sugar Transport Proteins
+(ST |
+| concept | concepts/transport-mechanisms/lipid-mediated-gating-of-kir-channels/ | Lipid-Mediated Gating of Kir Potassium Channels | Kir (inwardly rectifying) potassium channels conduct K+ through a narrow pore th |
+| concept | concepts/transport-mechanisms/lumenal-gating-mechanism/ | Lumenal Gating Mechanism in P-type ATPases | The lumenal gating mechanism describes how P-type ATPases control ion release to |
+| concept | concepts/transport-mechanisms/m-ppase-ion-pumping-mechanism/ | M-PPase Ion Pumping Mechanism | Membrane-integral pyrophosphatases (M-PPases) are ion pumps that couple the
+hydr |
+| concept | concepts/transport-mechanisms/m2-conformational-equilibrium/ | M2 Proton Channel Conformational Equilibrium | The [Influenza A M2 Proton Channel](/xray-mp-wiki/proteins/other-ion-channels/in |
+| concept | concepts/transport-mechanisms/malodour-precursor-recognition-pot/ | Malodour Precursor Recognition by POT Transporters | The crystal structure of PepT_Sh bound to S-Cys-Gly-3M3SH (PDB 6EXS, 2.5 A) reve |
+| concept | concepts/transport-mechanisms/mate-transporter-family/ | MATE Transporter Family | Concept: mate-transporter-family |
+| concept | concepts/transport-mechanisms/mechanosensitive-gating/ | Mechanosensitive Gating in Ion Channels | Mechanosensitive gating is a mechanism by which ion channels open or close in re |
+| concept | concepts/transport-mechanisms/methionine-mediated-metal-transport/ | Methionine-Mediated Metal Transport | Methionine-mediated metal transport is a mechanism where methionine residues, ei |
+| concept | concepts/transport-mechanisms/mit-superfamily/ | Metal Ion Transporter (MIT) Superfamily | The Metal Ion Transporter (MIT) superfamily includes transporters for Mg2+, Co2+ |
+| concept | concepts/transport-mechanisms/mmpl3-lipid-transport-mechanism/ | MmpL3 Lipid Transport Mechanism | [MmpL3 from Mycobacterium smegmatis](/xray-mp-wiki/proteins/abc-transporters/mmp |
+| concept | concepts/transport-mechanisms/modal-gating-in-k-channels/ | Modal Gating in K+ Channels | Modal gating is a phenomenon in which ion channels switch abruptly between perio |
+| concept | concepts/transport-mechanisms/mop-transporter-superfamily/ | MOP Transporter Superfamily | The multidrug/oligosaccharidyl-lipid/polysaccharide (MOP) exporter superfamily i |
+| concept | concepts/transport-mechanisms/mscl-gating-mechanism/ | MscL Gating Mechanism (Mechanosensitive Channel of Large Conductance) | Concept: mscl-gating-mechanism |
+| concept | concepts/transport-mechanisms/mtrcde-tripartite-efflux-pump/ | MtrCDE Tripartite Multidrug Efflux Pump | The MtrCDE tripartite multidrug efflux pump from Neisseria gonorrhoeae is a memb |
+| concept | concepts/transport-mechanisms/ncs1-family/ | Nucleobase-Cation-Symport-1 (NCS1) Family | The Nucleobase-Cation-Symport-1 (NCS1) family is a group of membrane transport p |
+| concept | concepts/transport-mechanisms/nitrate-nitrite-antiport-mechanism/ | Nitrate/Nitrite Antiport Mechanism | The nitrate/nitrite antiport mechanism is the transport mechanism used by NNP fa |
+| concept | concepts/transport-mechanisms/nss-family/ | Neurotransmitter/Sodium Symporter (NSS) Family | The NSS (neurotransmitter/sodium symporter) family is a major group of secondary |
+| concept | concepts/transport-mechanisms/ntq-motif/ | NTQ Motif in Chloride Pumping Rhodopsins | The NTQ motif (Asn98-Thr102-Gln109) is a conserved amino acid sequence
+motif fou |
+| concept | concepts/transport-mechanisms/o1-channel/ | O1 Water Channel of Photosystem II | The O1 channel is a water intake pathway in Photosystem II (PSII) that connects  |
+| concept | concepts/transport-mechanisms/orthosteric-allosteric-dual-inhibition/ | Orthosteric–Allosteric Dual Inhibition of Transporters | Orthosteric–allosteric dual inhibition is a paradigm-shifting drug design strate |
+| concept | concepts/transport-mechanisms/outward-facing-conformation-abc/ | Outward-Facing Conformation in ABC Transporters | The outward-facing conformation is a structural state of ABC (ATP-Binding Casset |
+| concept | concepts/transport-mechanisms/outward-facing-conformation/ | Outward-Facing Conformation of ABC Transporters | The outward-facing conformation is a structural state of ABC transporters in whi |
+| concept | concepts/transport-mechanisms/oxygen-ladder-selectivity-filter/ | Oxygen Ladder in Selectivity Filters | Concept: oxygen-ladder-selectivity-filter |
+| concept | concepts/transport-mechanisms/periplasmic-drug-binding-site-rnd/ | Periplasmic Drug-Binding Site in RND Efflux Pumps | The periplasmic drug-binding site of [RND Efflux Pumps](/xray-mp-wiki/concepts/t |
+| concept | concepts/transport-mechanisms/peristaltic-pump-mechanism/ | Peristaltic Pump Mechanism of RND Transporters | Concept: peristaltic-pump-mechanism |
+| concept | concepts/transport-mechanisms/ph-dependent-gating/ | pH-Dependent Gating in Membrane Proteins | pH-dependent gating is a regulatory mechanism in membrane transport proteins
+whe |
+| concept | concepts/transport-mechanisms/pip2-activation-of-kir-channels/ | PIP2 Activation of Inward Rectifier K+ Channels | Phosphatidylinositol 4,5-bisphosphate (PIP2) is the primary agonist for classica |
+| concept | concepts/transport-mechanisms/pot-family/ | POT Family (Proton-Dependent Oligopeptide Transporters) | The POT (proton-dependent oligopeptide transporter) family is a subgroup of the  |
+| concept | concepts/transport-mechanisms/potassium-counter-transport/ | Potassium Counter-Transport in P-type ATPases | Counter-transport (antiport) of K⁺ ions is a functional hallmark of certain P-ty |
+| concept | concepts/transport-mechanisms/proton-pump-mechanism/ | Proton Pump Mechanism in Bacteriorhodopsin | The proton pump mechanism of bacteriorhodopsin is a light-driven ion translocati |
+| concept | concepts/transport-mechanisms/proton-release-channel-archaeal-rhodopsins/ | Proton-Release Channel in Archaeal Rhodopsins | The proton-release channel is a conserved structural feature in
+light-driven pro |
+| concept | concepts/transport-mechanisms/proton-wire/ | Proton Wire (Chain of Hydrogen Bonds) | A proton wire (also known as a chain of hydrogen bonds, CHB, or proton conduit)  |
+| concept | concepts/transport-mechanisms/pyridylpiperazine-allosteric-epis/ | Pyridylpiperazine-based Allosteric Efflux Pump Inhibitors | Pyridylpiperazine-based compounds represent a novel class of allosteric efflux p |
+| concept | concepts/transport-mechanisms/rck-domain/ | RCK Domain (Regulator of Conductance of K+) | An RCK (Regulator of Conductance of K+) domain is a conserved structural module  |
+| concept | concepts/transport-mechanisms/remote-coupling-mechanism/ | Remote Coupling Mechanism in Membrane Transporters | Remote coupling is a mechanism by which structural changes in the transmembrane  |
+| concept | concepts/transport-mechanisms/rnd-efflux-pumps/ | RND Efflux Pumps | Resistance nodulation cell division (RND) transporters are a family of multidrug |
+| concept | concepts/transport-mechanisms/scissor-switch-gating/ | Scissor-Switch Gating in POT Family Transporters | The scissor-switch gating mechanism is a specialized form of the alternating-acc |
+| concept | concepts/transport-mechanisms/selectivity-filter/ | Ion Channel Selectivity Filter | The selectivity filter is a narrow region of the ion channel pore that determine |
+| concept | concepts/transport-mechanisms/semisweet/ | SemiSWEET Transporter Family | SemiSWEETs are bacterial homologues of the eukaryotic SWEET (Sugars Will Eventua |
+| concept | concepts/transport-mechanisms/side-entry-ion-conduction-pathway/ | Side-Entry Ion Conduction Pathway | The side-entry ion conduction pathway is a non-canonical mechanism for ion perme |
+| concept | concepts/transport-mechanisms/sl35-family/ | SLC35 Family (Nucleotide Sugar Transporters) | Concept: sl35-family |
+| concept | concepts/transport-mechanisms/slc29-family/ | SLC29 Family of Nucleoside Transporters | The SLC29 family (Equilibrative Nucleoside Transporters, ENTs) comprises
+integra |
+| concept | concepts/transport-mechanisms/sodium-channel-gating/ | Sodium Channel Gating and Selectivity | Voltage-gated sodium channels use a gating mechanism involving voltage-sensing d |
+| concept | concepts/transport-mechanisms/sodium-channel-inactivation-gating/ | Sodium Channel Inactivation Gating | Sodium channel inactivation gating in prokaryotic voltage-gated sodium channels  |
+| concept | concepts/transport-mechanisms/sodium-channel-ion-permeability-selectivity/ | Sodium Channel Ion Permeability and Selectivity | Voltage-gated sodium channels (Nav) achieve high selectivity for Na+ over other  |
+| concept | concepts/transport-mechanisms/sss-family/ | Sodium Solute Symporter (SSS) Family | The sodium solute symporter (SSS) family (SLC5 in humans) is a large family of s |
+| concept | concepts/transport-mechanisms/substrate-binding-in-asbt-yf/ | Substrate Binding in ASBT_Yf | The apical sodium-dependent bile acid transporter (ASBT) is an SLC10 family
+bile |
+| concept | concepts/transport-mechanisms/substrate-induced-transition-fit/ | Substrate-Induced Transition Fit in 5+5 Inverted Repeat Transporters | The substrate-induced transition fit mechanism describes how secondary transport |
+| concept | concepts/transport-mechanisms/substrate-polyspecificity-smr-transporters/ | Substrate Polyspecificity in SMR Transporters | Substrate polyspecificity — the ability to transport multiple structurally
+unrel |
+| concept | concepts/transport-mechanisms/substrate-protonation-coupling/ | Substrate-Protonation Coupling in MFS Symporters | Substrate-protonation coupling is a fundamental mechanism in proton-driven MFS s |
+| concept | concepts/transport-mechanisms/sweet-transporter/ | SWEET Transporter Family | The SWEET family of sugar transporters is a widespread class of uniporters found |
+| concept | concepts/transport-mechanisms/switch-loop-gating-rnd-transporters/ | Switch-Loop Gating in RND Multidrug Transporters | The switch-loop (also called the G-loop or substrate-gating loop) is a conformat |
+| concept | concepts/transport-mechanisms/tat-pathway/ | Twin-Arginine Translocation (TAT) Pathway | Concept: tat-pathway |
+| concept | concepts/transport-mechanisms/tca-inhibition-mechanism/ | Tricyclic Antidepressant (TCA) Inhibition Mechanism in NSS Transporters | Tricyclic antidepressants (TCAs) such as clomipramine, desipramine, imipramine,  |
+| concept | concepts/transport-mechanisms/tm6-kinking-abc-export-directionality/ | TM6 Kinking and Export Directionality in ABC Transporters | In the [NaAtm1 ABC Exporter from Novosphingobium aromaticivorans](/xray-mp-wiki/ |
+| concept | concepts/transport-mechanisms/trans-inhibition-in-abc-transporters/ | Trans-Inhibition in ABC Transporters | Concept: trans-inhibition-in-abc-transporters |
+| concept | concepts/transport-mechanisms/tric-channel-gating/ | TRIC Channel Gating Mechanism | The TRIC (Trimeric Intracellular Cation) channel gating mechanism is a complex,  |
+| concept | concepts/transport-mechanisms/twin-histidine-motif/ | Twin-Histidine Motif in Ammonium Channels | The twin-histidine motif is a pair of conserved histidine residues that form a h |
+| concept | concepts/transport-mechanisms/type-ii-abc-transporter-family/ | Type II ABC Transporter Family | Type II ABC transporters are a distinct subclass of bacterial ABC importers that |
+| concept | concepts/transport-mechanisms/viral-channelrhodopsins/ | Viral Channelrhodopsins (VirChR) | Viral channelrhodopsins (VirChR1s) represent a distinct family of light-gated io |
+| concept | concepts/transport-mechanisms/virtual-proton-pump/ | Virtual Proton Pump | A virtual proton pump is a transport mechanism in which the free energy of subst |
 | method | methods/cell-lysis/french-press/ | French Press Cell Lysis | French press cell lysis is a high-pressure homogenization technique used to disr |
 | method | methods/crystallization/2d-crystallization-detergent-dialysis/ | 2D Crystallization by Detergent Dialysis | 2D crystallization by detergent dialysis reconstitutes detergent-solubilized mem |
 | method | methods/crystallization/batch-crystallization-free-interface-diffusion/ | Batch Crystallization with Free Interface Diffusion | Batch crystallization with free interface diffusion is a membrane protein crysta |
@@ -576,7 +576,7 @@ a |
 | method | methods/crystallization/imisx-in-situ-crystallization/ | IMISX In-Situ Serial Crystallography | IMISX (in meso in situ) is a serial X-ray crystallography technique that combine |
 | method | methods/crystallization/lipidic-cubic-phase/ | Lipidic Cubic Phase Crystallization | Lipidic cubic phase (LCP) crystallization, also known as the in meso method, is  |
 | method | methods/crystallization/lipidic-sponge-phase-crystallization/ | Lipidic Sponge Phase Crystallization | Lipidic sponge phase (LSP) crystallization is a variant of lipidic cubic phase ( |
-| method | methods/crystallization/liquid-sponge-phase-crystallization/ | Liquid Sponge Phase Crystallization | Liquid sponge phase ([LSP](/xray-mp-wiki/concepts/lipidic-sponge-phase/)) crysta |
+| method | methods/crystallization/liquid-sponge-phase-crystallization/ | Liquid Sponge Phase Crystallization | Liquid sponge phase ([LSP](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mim |
 | method | methods/crystallization/microbatch-crystallization-under-oil/ | Microbatch Crystallization Under Oil | Microbatch crystallization under oil is a crystallization method where protein a |
 | method | methods/crystallization/on-chip-crystallization/ | On-Chip Crystallization for Serial Crystallography | On-chip crystallization is a method for growing protein crystals directly on mic |
 | method | methods/crystallization/sitting-drop-vapor-diffusion/ | Sitting-Drop Vapor Diffusion | Sitting-drop vapor diffusion is a widely used protein crystallization technique  |
@@ -641,7 +641,7 @@ orient |
 | method | methods/structure-determination/umbrella-sampling/ | Umbrella Sampling | Umbrella sampling (US) is an enhanced sampling molecular dynamics technique used |
 | method | methods/structure-determination/xray-crystallography/ | X-ray Crystallography | X-ray crystallography is a technique for determining the atomic and molecular st |
 | protein | proteins/abc-transporters/aaprtd/ | Aquifex aeolicus PrtD (AaPrtD) Type-1 Secretion System ABC Transporter | AaPrtD is the ABC transporter component of the Type-1 secretion system (T1SS) fr |
-| protein | proteins/abc-transporters/aawzmwzt/ | AaWzmWzt (O Antigen ABC Transporter from Aquifex aeolicus) | AaWzmWzt is an [ABC Transporter](/xray-mp-wiki/concepts/abc-transporter-family/) |
+| protein | proteins/abc-transporters/aawzmwzt/ | AaWzmWzt (O Antigen ABC Transporter from Aquifex aeolicus) | AaWzmWzt is an [ABC Transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc |
 | protein | proteins/abc-transporters/ab-macb/ | MacB ABC Transporter from Acinetobacter baumannii | MacB from Acinetobacter baumannii is an ATP-binding cassette (ABC) transporter t |
 | protein | proteins/abc-transporters/abcb10/ | Human ABCB10 Mitochondrial ATP-Binding Cassette Transporter | ABCB10 is a human [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (A |
 | protein | proteins/abc-transporters/abcg1/ | ABCG1 | ABCG1 is a member of the ATP-binding cassette (ABC) G subfamily of lipid transpo |
@@ -919,15 +919,15 @@ detec |
 | protein | proteins/gpcr/human-endothelin-etb-receptor-irl2500/ | Human Endothelin ETB Receptor in Complex with IRL2500 | The human endothelin ETB receptor (ETB) is a class A GPCR that binds the endogen |
 | protein | proteins/gpcr/human-ep4-receptor/ | Human Prostaglandin E Receptor EP4 | The prostaglandin E2 receptor EP4 (EP4) is a class A G protein-coupled receptor  |
 | protein | proteins/gpcr/human-gabab-receptor/ | Human GABA_B Receptor | The human GABA_B receptor (GABA_B R) is a class C G-protein-coupled receptor tha |
-| protein | proteins/gpcr/human-histamine-h1-receptor/ | Human Histamine H1 Receptor (H1R) | The human histamine H1 receptor (H1R) is a [G Protein](/xray-mp-wiki/concepts/g- |
-| protein | proteins/gpcr/human-histamine-h3-receptor/ | Human Histamine H3 Receptor (H3R) | The human histamine H3 receptor (H3R) is a [G Protein](/xray-mp-wiki/concepts/g- |
+| protein | proteins/gpcr/human-histamine-h1-receptor/ | Human Histamine H1 Receptor (H1R) | The human histamine H1 receptor (H1R) is a [G Protein](/xray-mp-wiki/concepts/si |
+| protein | proteins/gpcr/human-histamine-h3-receptor/ | Human Histamine H3 Receptor (H3R) | The human histamine H3 receptor (H3R) is a [G Protein](/xray-mp-wiki/concepts/si |
 | protein | proteins/gpcr/human-mt1-melatonin-receptor/ | Human MT1 Melatonin Receptor | The MT1 melatonin receptor (type 1A) is a class A G-protein-coupled receptor tha |
 | protein | proteins/gpcr/human-mt2-melatonin-receptor/ | Human MT2 Melatonin Receptor | The human MT2 melatonin receptor (type 1B, MTNR1B) is a class A G-protein-couple |
 | protein | proteins/gpcr/human-neurokinin-1-receptor/ | Human Neurokinin 1 Receptor (NK1R) | The human neurokinin 1 receptor (NK1R, TACR1) is a class A G protein-coupled rec |
 | protein | proteins/gpcr/human-p2y1-receptor/ | Human P2Y1 Receptor | The human P2Y1 receptor (P2Y1R) is a class A [G Protein](/xray-mp-wiki/concepts/ |
 | protein | proteins/gpcr/human-pafr/ | Human Platelet-Activating Factor Receptor (PAFR) | The human platelet-activating factor receptor (PAFR) is a class A [G Protein](/x |
 | protein | proteins/gpcr/human-pth1-receptor/ | Human Parathyroid Hormone 1 Receptor (PTH1R) | The human parathyroid hormone 1 receptor (PTH1R) is a class B G-protein-coupled  |
-| protein | proteins/gpcr/human-rhodopsin-e113q-m257y/ | Human Rhodopsin E113Q/M257Y Mutant | Human rhodopsin is the visual pigment [GPCR](/xray-mp-wiki/concepts/gpcr/) in ve |
+| protein | proteins/gpcr/human-rhodopsin-e113q-m257y/ | Human Rhodopsin E113Q/M257Y Mutant | Human rhodopsin is the visual pigment [GPCR](/xray-mp-wiki/concepts/signaling-re |
 | protein | proteins/gpcr/human-smoothened-hsmo/ | Human Smoothened (SMO) — Extracellular Domain Regulation | Human Smoothened (SMO) is a Class F G-protein-coupled receptor (GPCR) and Hedgeh |
 | protein | proteins/gpcr/human-y1-receptor-npy1r/ | Human Neuropeptide Y Y1 Receptor (Y1R, NPY1R) | The neuropeptide Y (NPY) Y1 receptor (Y1R, NPY1R) is a class A
 G-protein-coupled |
@@ -1040,7 +1040,7 @@ t |
 | protein | proteins/miscellaneous/ec-semisweet/ | E. coli SemiSWEET (EcSemiSWEET) | EcSemiSWEET is a sugar transporter from the SWEET family found in Escherichia co |
 | protein | proteins/miscellaneous/lb-semi-sweet/ | LbSemiSWEET (Leptospira biflexa SemiSWEET) | [LbSemiSWEET from Leptospira biflexa](/xray-mp-wiki/proteins/miscellaneous/lbsem |
 | protein | proteins/miscellaneous/lbsemisweet/ | LbSemiSWEET from Leptospira biflexa | LbSemiSWEET is a sugar transporter from the SWEET family found in the bacterium  |
-| protein | proteins/miscellaneous/mlaA/ | E. coli MlaA Outer Membrane Lipoprotein | MlaA is an [outer membrane](/xray-mp-wiki/concepts/outer-membrane/) lipoprotein  |
+| protein | proteins/miscellaneous/mlaA/ | E. coli MlaA Outer Membrane Lipoprotein | MlaA is an [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membr |
 | protein | proteins/miscellaneous/mtmem16a/ | mTMEM16A (Murine TMEM16A Calcium-Activated Chloride Channel) | mTMEM16A is the murine ortholog of TMEM16A (Ano1), the long sought-after Ca2+-ac |
 | protein | proteins/miscellaneous/nhtmem16/ | nhTMEM16 (TMEM16 Lipid Scramblase from Nectria haematococca) | nhTMEM16 is a calcium-activated lipid scramblase from the fungus Nectria haemato |
 | protein | proteins/miscellaneous/o-sativa-sweet2b/ | O. sativa SWEET2b (OsSWEET2b) | OsSWEET2b is a vacuolar glucose transporter from the SWEET family found in rice  |
@@ -1050,7 +1050,7 @@ t |
 transpor |
 | protein | proteins/miscellaneous/tmem266/ | TMEM266 (mouse voltage-sensor protein) | TMEM266 (C15orf27 in human) is a voltage-sensor domain (VSD)-containing protein  |
 | protein | proteins/miscellaneous/tysemisweet/ | TySemiSWEET from Thermotoga yellowstonii | TySemiSWEET is a bacterial sugar transporter from the [SemiSWEET Transporter Fam |
-| protein | proteins/miscellaneous/vibrio-sp-semisweet/ | Vibrio sp. SemiSWEET | Vibrio sp. [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet/) is  |
+| protein | proteins/miscellaneous/vibrio-sp-semisweet/ | Vibrio sp. SemiSWEET | Vibrio sp. [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mecha |
 | protein | proteins/miscellaneous/wza/ | Wza (E. coli Capsular Polysaccharide Export Outer Membrane Lipoprotein) | Wza is an outer membrane lipoprotein from Escherichia coli that forms an octamer |
 | protein | proteins/miscellaneous/yeeE/ | YeeE Thiosulfate Transporter from Shewanella thermophila | YeeE is a bacterial membrane protein that mediates thiosulfate uptake for use as |
 | protein | proteins/other-ion-channels/a-fulgidus-amt1/ | Amt-1 ammonium transporter from Archaeoglobus fulgidus | Amt-1 is one of three ammonium transporters (Amts) encoded in the genome of the  |
@@ -1058,22 +1058,21 @@ transpor |
 | protein | proteins/other-ion-channels/amt-b/ | Ammonium Transporter AmtB (E. coli) | AmtB (ammonium transporter B) is a trimeric ammonium channel from
 Escherichia co |
 | protein | proteins/other-ion-channels/aqp0/ | Aquaporin 0 (AQP0) from Bos taurus | Aquaporin 0 (AQP0) is the major integral membrane protein of the vertebrate lens |
-| protein | proteins/other-ion-channels/aqp1/ | Aquaporin-1 (AQP1) | [Aquaporin](/xray-mp-wiki/concepts/aquaporin/)-1 (AQP1) is a water-selective cha |
+| protein | proteins/other-ion-channels/aqp1/ | Aquaporin-1 (AQP1) | [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/)-1 (AQP1) is  |
 | protein | proteins/other-ion-channels/aqp2/ | Aquaporin-2 (AQP2) | Aquaporin-2 (AQP2) is a water-selective channel expressed in the kidney
 collecti |
 | protein | proteins/other-ion-channels/aqpm-methanothermobacter-marburgensis/ | AqpM (Aquaporin from Methanothermobacter marburgensis) | AqpM is the aquaporin from the methanogenic archaeon Methanothermobacter marburg |
-| protein | proteins/other-ion-channels/aquaporin-z/ | Aquaporin Z (AqpZ) | [Aquaporin](/xray-mp-wiki/concepts/aquaporin/) Z (AqpZ) is the
-bacterial homolog |
+| protein | proteins/other-ion-channels/aquaporin-z/ | Aquaporin Z (AqpZ) | [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) Z (AqpZ) is  |
 | protein | proteins/other-ion-channels/aqy1/ | Aqy1 - Yeast Aquaporin from Pichia pastoris | Aqy1 is a water-selective aquaporin from the yeast Pichia pastoris (Komagataella |
 | protein | proteins/other-ion-channels/asic1a/ | Acid-Sensing Ion Channel 1a | Acid-sensing ion channel 1a (ASIC1a) is a proton-gated, sodium-selective ion cha |
 | protein | proteins/other-ion-channels/atpip2-4/ | AtPIP2;4 (Arabidopsis thaliana Plasma Membrane Intrinsic Protein 2;4) | AtPIP2;4 is a plasma membrane intrinsic protein (PIP) [Aquaporin](/xray-mp-wiki/ |
-| protein | proteins/other-ion-channels/attip2-1/ | AtTIP2;1 - Arabidopsis thaliana Tonoplast Intrinsic Protein 2;1 | AtTIP2;1 is an ammonia-permeable [Aquaporin](/xray-mp-wiki/concepts/aquaporin/)  |
+| protein | proteins/other-ion-channels/attip2-1/ | AtTIP2;1 - Arabidopsis thaliana Tonoplast Intrinsic Protein 2;1 | AtTIP2;1 is an ammonia-permeable [Aquaporin](/xray-mp-wiki/concepts/transport-me |
 | protein | proteins/other-ion-channels/avglur1/ | AvGluR1 Ligand-Binding Domain (LBD) | The ligand-binding domain (LBD) of AvGluR1, an ionotropic glutamate receptor fro |
 | protein | proteins/other-ion-channels/bovine-urea-transporter-b-utb/ | Bovine Urea Transporter B (UT-B) | Bovine UT-B is a mammalian urea transporter encoded by the SLC14A1 gene. It is a |
 | protein | proteins/other-ion-channels/bpe-fluoride-channel/ | Fluoride Channel from B. pertussis (Bpe) | The fluoride channel from [Bordetella pertussis](/xray-mp-wiki/organisms/bordete |
 | protein | proteins/other-ion-channels/chicken-bestrophin-1/ | Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel | Bestrophin-1 (BEST1) is a calcium-activated chloride channel (CaCC) that regulat |
 | protein | proteins/other-ion-channels/chicken-p2x7-receptor/ | Chicken P2X7 Receptor (ckP2X7) | The P2X7 receptor is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-gated non-sel |
-| protein | proteins/other-ion-channels/cpaqp1aa/ | cpAQP1aa (Climbing Perch Aquaporin 1aa) | cpAQP1aa is a water-specific [Aquaporin](/xray-mp-wiki/concepts/aquaporin/) from |
+| protein | proteins/other-ion-channels/cpaqp1aa/ | cpAQP1aa (Climbing Perch Aquaporin 1aa) | cpAQP1aa is a water-specific [Aquaporin](/xray-mp-wiki/concepts/transport-mechan |
 | protein | proteins/other-ion-channels/e-coli-amtb/ | AmtB ammonium transporter / ammonia channel from Escherichia coli | AmtB is an ammonium transport protein (methylamine permease/ammonium transporter |
 | protein | proteins/other-ion-channels/ec2-fluoride-channel/ | Fluoride Channel from E. coli (Ec2) | The [Fluoride Channel from B. pertussis (Bpe)](/xray-mp-wiki/proteins/other-ion- |
 | protein | proteins/other-ion-channels/ecsatp/ | EcSatP — Bacterial Succinate-Acetate Transporter (AceTr Family) | SatP (also known as yaaH) is a member of the  uptake transporter (AceTr) family
@@ -1093,13 +1092,12 @@ bacterial homolog |
 | protein | proteins/other-ion-channels/hiteha/ | HiTehA (TehA from Haemophilus influenzae) | HiTehA is the [TEHA](/xray-mp-wiki/proteins/other-ion-channels/teha/) anion chan |
 | protein | proteins/other-ion-channels/hpurel/ | Helicobacter pylori Urea Channel (HpUrel) | HpUrel is a [UREA](/xray-mp-wiki/reagents/substrates/urea/) channel from Helicob |
 | protein | proteins/other-ion-channels/hsc/ | HSC (Hydrosulfide Channel from Clostridium difficile) | HSC (hydrosulfide channel) is a pentameric membrane channel from Clostridium dif |
-| protein | proteins/other-ion-channels/human-aqp10/ | Human Aquaporin 10 (AQP10) | Human [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) 10 (AQP10) is an
-aqu |
+| protein | proteins/other-ion-channels/human-aqp10/ | Human Aquaporin 10 (AQP10) | Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) |
 | protein | proteins/other-ion-channels/human-aqp5/ | Human Aquaporin 5 (AQP5) | Human Aquaporin 5 (HsAQP5) is a water-selective channel protein belonging to the |
-| protein | proteins/other-ion-channels/human-aqp7/ | Human Aquaporin 7 (AQP7) | Human [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) 7 (AQP7) is an aquag |
-| protein | proteins/other-ion-channels/human-aquaporin-1/ | Human Aquaporin 1 (hAQP1) | Human [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) 1 (hAQP1) is the arc |
-| protein | proteins/other-ion-channels/human-aquaporin-2/ | Human Aquaporin 2 (AQP2) | Human [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) 2 ([AQP2](/xray-mp-w |
-| protein | proteins/other-ion-channels/human-aquaporin-4/ | Human Aquaporin 4 (hAQP4) | Human [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) 4 (hAQP4) is the pre |
+| protein | proteins/other-ion-channels/human-aqp7/ | Human Aquaporin 7 (AQP7) | Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) |
+| protein | proteins/other-ion-channels/human-aquaporin-1/ | Human Aquaporin 1 (hAQP1) | Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) |
+| protein | proteins/other-ion-channels/human-aquaporin-2/ | Human Aquaporin 2 (AQP2) | Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) |
+| protein | proteins/other-ion-channels/human-aquaporin-4/ | Human Aquaporin 4 (hAQP4) | Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) |
 | protein | proteins/other-ion-channels/human-p2x3-receptor/ | Human P2X3 Receptor (hP2X3) | The human P2X3 receptor (hP2X3) is a ligand-gated ion channel from Homo sapiens  |
 | protein | proteins/other-ion-channels/influenza-a-m2-proton-channel-s31n/ | Influenza A M2 Proton Channel S31N Mutant | The S31N mutant of the [Influenza A M2 Proton Channel](/xray-mp-wiki/proteins/ot |
 | protein | proteins/other-ion-channels/influenza-a-m2-proton-channel/ | Influenza A M2 Proton Channel | The M2 proton channel of influenza A virus is a homotetrameric ion channel that  |
@@ -1409,8 +1407,8 @@ mitoc |
 | protein | proteins/structural-adhesion/human-claudin-4/ | Human Claudin-4 (hCLDN-4) | Human claudin-4 (hCLDN-4) is a 23-34 kDa tetraspanning tight junction membrane p |
 | protein | proteins/structural-adhesion/human-claudin-9/ | Human Claudin-9 (hCLDN-9) | Human claudin-9 (hCLDN-9) is a tetraspanning tight junction membrane protein bel |
 | protein | proteins/structural-adhesion/human-niemann-pick-c1/ | Human Niemann-Pick C1 (NPC1) | Human NPC1 (Niemann-Pick C1) is a large multi-domain membrane protein essential  |
-| protein | proteins/structural-adhesion/mlaC/ | E. coli MlaC Periplasmic Lipid-Binding Protein | MlaC is a soluble [periplasmic](/xray-mp-wiki/concepts/periplasm/) lipid-binding |
-| protein | proteins/structural-adhesion/mlaD/ | E. coli MlaD MCE Protein | MlaD is an [inner membrane](/xray-mp-wiki/concepts/inner-membrane/)-associated M |
+| protein | proteins/structural-adhesion/mlaC/ | E. coli MlaC Periplasmic Lipid-Binding Protein | MlaC is a soluble [periplasmic](/xray-mp-wiki/concepts/miscellaneous/periplasm/) |
+| protein | proteins/structural-adhesion/mlaD/ | E. coli MlaD MCE Protein | MlaD is an [inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/inner-membr |
 | protein | proteins/structural-adhesion/mlab/ | E. coli MlaB STAS Domain Protein | MlaB is a small STAS (Sulfate Transporter and Anti-Sigma factor Antagonist) doma |
 | protein | proteins/structural-adhesion/mlaf/ | E. coli MlaF ABC ATPase | MlaF is the cytoplasmic ABC ATPase (nucleotide binding domain, NBD) component of |
 | protein | proteins/structural-adhesion/mouse-claudin-15/ | Mouse Claudin-15 (mCldn15) | Mouse claudin-15 (mCldn15) is a tight junction membrane protein belonging to the |

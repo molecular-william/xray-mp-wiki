@@ -49,4 +49,4 @@ No comparison data available.
 - [GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/glic/) — Central blocker studied by electrophysiology and crystallography
 - [Tetrabutylammonium (TBA)](/xray-mp-wiki/reagents/ligands/tetrabutylammonium/) — Larger quaternary ammonium homolog with stronger binding affinity
 - [Tetramethylammonium (TMA)](/xray-mp-wiki/reagents/ligands/tetramethylammonium/) — Smaller quaternary ammonium homolog with weaker binding and different pore position
-- [Cork-in-Bottle Occlusion](/xray-mp-wiki/concepts/cork-in-bottle-occlusion/) — TEA block represents physical occlusion of the ion conduction pathway
+- [Cork-in-Bottle Occlusion](/xray-mp-wiki/concepts/structural-mechanisms/cork-in-bottle-occlusion/) — TEA block represents physical occlusion of the ion conduction pathway

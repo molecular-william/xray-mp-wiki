@@ -68,5 +68,5 @@ Single conservative mutations (e.g., Leu-to-Ile at a g position) can entirely de
 ## Cross-References
 
 - [Phospholamban (PLB)](/xray-mp-wiki/proteins/miscellaneous/phospholamban/) — PL5 is derived from the apolar C-terminal domain of PLN; the design revealed the steric packing code underlying PLN assembly
-- [Computational Design of Multipass Transmembrane Proteins](/xray-mp-wiki/concepts/computational-transmembrane-protein-design/) — Complementary approach to computational TM protein design using apolar packing rather than hydrogen bond networks
+- [Computational Design of Multipass Transmembrane Proteins](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/computational-transmembrane-protein-design/) — Complementary approach to computational TM protein design using apolar packing rather than hydrogen bond networks
 - [UREA](/xray-mp-wiki/reagents/substrates/urea/) — Entity mentioned in text

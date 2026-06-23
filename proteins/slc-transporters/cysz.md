@@ -97,4 +97,4 @@ PoreWalker analysis identified a putative ion translocation pathway beginning at
 
 - [KcsA K+ channel](/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/) — Different fold, but both are bacterial channel structures
 - [Bpe Fluc fluoride channel](/xray-mp-wiki/proteins/other-ion-channels/bpe-fluoride-channel/) — Shares dual-topology antiparallel dimer assembly
-- [Alternating access mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Channel mechanism vs transporter alternating access in CysZ sulfate transport
+- [Alternating access mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Channel mechanism vs transporter alternating access in CysZ sulfate transport

@@ -64,7 +64,7 @@ CP29 shares significant sequence homology with LHCII, with conserved secondary s
 ## Cross-References
 
 - [Spinach Light-Harvesting Complex II (LHC-II)](/xray-mp-wiki/proteins/photosynthesis/spinach-light-harvesting-complex-ii/) — Homologous major light-harvesting complex; CP29 is a minor LHC associated with PSII
-- [Non-photochemical Quenching (NPQ)](/xray-mp-wiki/concepts/non-photochemical-quenching/) — CP29 functions in energy regulation and may participate in NPQ mechanisms
+- [Non-photochemical Quenching (NPQ)](/xray-mp-wiki/concepts/miscellaneous/non-photochemical-quenching/) — CP29 functions in energy regulation and may participate in NPQ mechanisms
 - [Lutein](/xray-mp-wiki/reagents/lipids/lutein/) — Referenced in the context of Lutein
 - [Violaxanthin](/xray-mp-wiki/reagents/violaxanthin/) — Referenced in the context of Violaxanthin
 - [Carotenoid](/xray-mp-wiki/reagents/carotenoid/) — Referenced in the context of Carotenoid

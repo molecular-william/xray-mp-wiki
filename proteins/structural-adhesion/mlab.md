@@ -109,7 +109,7 @@ other ABC transporters through analogous mechanisms.
 - [E. coli MlaD MCE Protein](/xray-mp-wiki/proteins/structural-adhesion/mlaD/) — Transmembrane/periplasmic component of the MlaFEDB complex
 - [E. coli MlaC Periplasmic Lipid-Binding Protein](/xray-mp-wiki/proteins/structural-adhesion/mlaC/) — Periplasmic shuttle protein in the Mla pathway
 - [E. coli MlaA Outer Membrane Lipoprotein](/xray-mp-wiki/proteins/miscellaneous/mlaA/) — Outer membrane component of the Mla system
-- [ABC Transporter](/xray-mp-wiki/concepts/abc-transporter-family/) — MlaB regulates the MlaFEDB ABC transporter complex
+- [ABC Transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — MlaB regulates the MlaFEDB ABC transporter complex
 - [ADP](/xray-mp-wiki/reagents/ligands/adp/) — ADP-bound state of the MlaF_2B_2 structure
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification

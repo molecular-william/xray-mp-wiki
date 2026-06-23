@@ -83,6 +83,6 @@ The beta-propeller of TcB and the funnel domain of TcA interact strongly with ea
 - [Polyethylene Glycol 4000](/xray-mp-wiki/reagents/peg-4000/) — 12% PEG 4000 precipitant in TcdB2-TccC3 crystallization
 - [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Crystallization method used for TcdB2-TccC3
 - [Multi-Wavelength Anomalous Diffraction](/xray-mp-wiki/methods/multi-wavelength-anomalous-diffraction/) — SAD phasing used for TcdB2-TccC3 structure solution
-- [Syringe-Like Injection Mechanism](/xray-mp-wiki/concepts/syringe-injection-mechanism/) — TcdB2-TccC3 delivers toxic domain through TcA translocation channel
+- [Syringe-Like Injection Mechanism](/xray-mp-wiki/concepts/miscellaneous/syringe-injection-mechanism/) — TcdB2-TccC3 delivers toxic domain through TcA translocation channel
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
 - [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers

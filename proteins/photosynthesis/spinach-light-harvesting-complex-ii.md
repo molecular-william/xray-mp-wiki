@@ -84,6 +84,6 @@ A structure-based NPQ model is proposed. DGDG-mediated aggregation of [LHC-II](/
 - [Digalactosyl Diacylglycerol](/xray-mp-wiki/reagents/lipids/digalactosyl-diacylglycerol/) — DGDG bridges adjacent LHC-II trimers in proteoliposome assembly
 - [Phosphatidylglycerol](/xray-mp-wiki/reagents/lipids/phosphatidylglycerol/) — PG stabilizes LHC-II trimer at monomer-monomer interfaces
 - [n-Methyl-beta-D-glucoside (BNG)](/xray-mp-wiki/reagents/detergents/n-methyl-beta-d-glucoside/) — Detergent used for LHC-II solubilization at 0.8%
-- [Non-photochemical Quenching (NPQ)](/xray-mp-wiki/concepts/non-photochemical-quenching/) — Structure-based NPQ model proposed for LHC-II
+- [Non-photochemical Quenching (NPQ)](/xray-mp-wiki/concepts/miscellaneous/non-photochemical-quenching/) — Structure-based NPQ model proposed for LHC-II
 - [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) — Related protein structure
 - [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) — Additive used in purification or crystallization buffers

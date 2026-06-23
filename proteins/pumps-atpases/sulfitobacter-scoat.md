@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-sCoaT is a PIB-4-type ATPase from Sulfitobacter sp. NAS14-1 (UniProt ID A3T2G5) that functions as a heavy metal transporter for zinc, cadmium, and cobalt. It belongs to the P1B-4 subclass of [P-type ATPases](/xray-mp-wiki/concepts/p-type-atpase/), which have the broadest cargo scope among heavy-metal transporting P-type ATPases. The protein was expressed in [Escherichia coli](/xray-mp-wiki/methods/expression-systems/ecoli-expression-system/) C41 cells, purified using Ni2+-NTA affinity chromatography and gel filtration, and crystallized using the [HiLiDe method](/xray-mp-wiki/methods/crystallization/hilide-crystallization/). The structures were determined at 3.1 and 3.3 A resolution by molecular replacement using SsZntA as a search model. The protein has eight transmembrane helices (MA, MB, M1-M6) and lacks classical heavy-metal-binding domains (HMBDs). Key findings include a histidine (H657) that serves as an internal counterion and a dual role in ion release, and the identification of novel inhibitors with antimycobacterial activity. The crystal packing features type I crystals with unrestrained transmembrane domains and minimal contacts between membrane-spanning regions. 
+sCoaT is a PIB-4-type ATPase from Sulfitobacter sp. NAS14-1 (UniProt ID A3T2G5) that functions as a heavy metal transporter for zinc, cadmium, and cobalt. It belongs to the P1B-4 subclass of [P-type ATPases](/xray-mp-wiki/concepts/protein-families/p-type-atpase/), which have the broadest cargo scope among heavy-metal transporting P-type ATPases. The protein was expressed in [Escherichia coli](/xray-mp-wiki/methods/expression-systems/ecoli-expression-system/) C41 cells, purified using Ni2+-NTA affinity chromatography and gel filtration, and crystallized using the [HiLiDe method](/xray-mp-wiki/methods/crystallization/hilide-crystallization/). The structures were determined at 3.1 and 3.3 A resolution by molecular replacement using SsZntA as a search model. The protein has eight transmembrane helices (MA, MB, M1-M6) and lacks classical heavy-metal-binding domains (HMBDs). Key findings include a histidine (H657) that serves as an internal counterion and a dual role in ion release, and the identification of novel inhibitors with antimycobacterial activity. The crystal packing features type I crystals with unrestrained transmembrane domains and minimal contacts between membrane-spanning regions. 
 
 ## Structure Determination
 
@@ -120,9 +120,9 @@ transmembrane domains have been reported for a P-type ATPase.
 
 ## Cross-References
 
-- [P-type ATPase Family](/xray-mp-wiki/concepts/p-type-atpase/) — sCoaT belongs to the P1B-type (heavy metal transporting) ATPase subfamily
-- [P-type ATPase Mechanism](/xray-mp-wiki/concepts/p-type-atpase-mechanism/) — sCoaT follows the Post-Albers reaction cycle of P-type ATPases
-- [Ion Release Pathway](/xray-mp-wiki/concepts/ion-release-pathway/) — Paper describes ion release pathway for PIB-4-ATPases via M2, M4, M5, M6
+- [P-type ATPase Family](/xray-mp-wiki/concepts/protein-families/p-type-atpase/) — sCoaT belongs to the P1B-type (heavy metal transporting) ATPase subfamily
+- [P-type ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/p-type-atpase-mechanism/) — sCoaT follows the Post-Albers reaction cycle of P-type ATPases
+- [Ion Release Pathway](/xray-mp-wiki/concepts/transport-mechanisms/ion-release-pathway/) — Paper describes ion release pathway for PIB-4-ATPases via M2, M4, M5, M6
 - [HiLiDe Crystallization](/xray-mp-wiki/methods/crystallization/hilide-crystallization/) — Method used for structure determination
 - [SsZntA (Shigella sonnei Zn2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/ss-znta/) — SsZntA was used as molecular replacement search model; related PIB-ATPase
 - [DDM (n-Dodecyl-beta-D-Maltopyranoside)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for solubilization of membrane protein

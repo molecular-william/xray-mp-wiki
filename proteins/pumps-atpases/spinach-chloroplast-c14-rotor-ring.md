@@ -85,10 +85,10 @@ Current models suggest that proton transport involves either a single access cha
 - [Ilyobacter tartaricus c11 Rotor Ring](/xray-mp-wiki/proteins/pumps-atpases/ilyobacter-tartaricus-c-subunit/) — Na+-translocating c11 ring used as molecular replacement search model and key structural comparator
 - [Spirulina platensis c15 Ring](/xray-mp-wiki/proteins/pumps-atpases/spirulina-platensis-c15-ring/) — Another c-ring rotor structure with different stoichiometry for comparison
 - [Bacillus pseudofirmus OF4 c13 Ring](/xray-mp-wiki/proteins/pumps-atpases/bacillus-pseudofirmus-of4-c13-ring/) — Bacterial c-ring rotor for comparison of proton-translocating c-rings
-- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/rotary-atpase-mechanism/) — The c14 ring is the rotor component of the rotary ATP synthase mechanism
-- [Proton Wire](/xray-mp-wiki/concepts/proton-wire/) — Proposed involvement of backbone carbonyls and water wires in proton translocation through the c-ring
-- [Common Drug-Binding Site on ATP Synthase c-Ring](/xray-mp-wiki/concepts/common-drug-binding-site-atp-synthase-c-ring/) — Structural basis of c-ring as drug target
-- [NCS](/xray-mp-wiki/concepts/non-crystallographic-symmetry/) — Related biological concept
+- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/) — The c14 ring is the rotor component of the rotary ATP synthase mechanism
+- [Proton Wire](/xray-mp-wiki/concepts/transport-mechanisms/proton-wire/) — Proposed involvement of backbone carbonyls and water wires in proton translocation through the c-ring
+- [Common Drug-Binding Site on ATP Synthase c-Ring](/xray-mp-wiki/concepts/structural-mechanisms/common-drug-binding-site-atp-synthase-c-ring/) — Structural basis of c-ring as drug target
+- [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) — Related biological concept
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [Ammonium Sulfate](/xray-mp-wiki/reagents/additives/ammonium-sulfate/) — Additive used in purification or crystallization buffers
 - [DTT](/xray-mp-wiki/reagents/additives/dtt/) — Additive used in purification or crystallization buffers

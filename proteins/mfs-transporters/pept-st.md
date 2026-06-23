@@ -137,9 +137,9 @@ requiring movement of the entire H10-H11 helix hairpin.
 
 ## Cross-References
 
-- [POT Family (Proton-Dependent Oligopeptide Transporters)](/xray-mp-wiki/concepts/pot-family/) — PepT_St is a member of the POT family
-- [Major Facilitator Superfamily](/xray-mp-wiki/concepts/mfs-transporter/) — POT family is a subgroup of MFS transporters
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — POTs transport via alternating access between inward-open and outward-open states
+- [POT Family (Proton-Dependent Oligopeptide Transporters)](/xray-mp-wiki/concepts/transport-mechanisms/pot-family/) — PepT_St is a member of the POT family
+- [Major Facilitator Superfamily](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — POT family is a subgroup of MFS transporters
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — POTs transport via alternating access between inward-open and outward-open states
 - [PepT_So Oligopeptide Transporter](/xray-mp-wiki/proteins/mfs-transporters/pept-so/) — Another POT family member with reported crystal structure; key comparison for alternating access
 - [PEG 400](/xray-mp-wiki/reagents/additives/peg-400/) — Cryoprotectant used in PepT_St crystallization
 - [Selenomethionine](/xray-mp-wiki/reagents/additives/selenomethionine/) — Used for anomalous phasing in PepT_St structure determination

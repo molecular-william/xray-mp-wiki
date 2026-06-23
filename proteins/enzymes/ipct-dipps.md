@@ -99,5 +99,5 @@ Site-directed mutagenesis validated functional importance of conserved residues.
 - [HiLiDe Crystallization](/xray-mp-wiki/methods/hilide-crystallization/) — Crystallization method used for IPCT/DIPPS in detergent conditions
 - [Lipidic Cubic Phase (LCP) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — In meso crystallization method used for IPCT/DIPPS
 - [Molecular Replacement (MR)](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Structure determination method used for 4MND
-- [CDP-Alcohol Phosphotransferase Family](/xray-mp-wiki/concepts/cdp-alcohol-phosphotransferase-family/) — IPCT/DIPPS DIPPS domain belongs to the CDP-alcohol phosphatidyltransferase family (CDP-OH_P_trans)
-- [SN2-Like Displacement Mechanism](/xray-mp-wiki/concepts/sn2-like-displacement-mechanism/) — Proposed catalytic mechanism for DIPPS domain of IPCT/DIPPS
+- [CDP-Alcohol Phosphotransferase Family](/xray-mp-wiki/concepts/protein-families/cdp-alcohol-phosphotransferase-family/) — IPCT/DIPPS DIPPS domain belongs to the CDP-alcohol phosphatidyltransferase family (CDP-OH_P_trans)
+- [SN2-Like Displacement Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/sn2-like-displacement-mechanism/) — Proposed catalytic mechanism for DIPPS domain of IPCT/DIPPS

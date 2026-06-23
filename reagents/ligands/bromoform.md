@@ -65,4 +65,4 @@ No comparison data available.
 - [GLIC](/xray-mp-wiki/proteins/cys-loop-receptors/glic/) — Primary target of bromoform; multiple binding sites characterized
 - [Single-Wavelength Anomalous Diffraction](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/) — Bromine anomalous signal used for phasing and site identification
 - [Molecular Dynamics Simulation](/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/) — Used to explore bromoform binding dynamics and exchange pathways
-- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/allosteric-regulation/) — Bromoform binding modulates GLIC conformational equilibrium
+- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — Bromoform binding modulates GLIC conformational equilibrium

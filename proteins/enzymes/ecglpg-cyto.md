@@ -85,8 +85,8 @@ When the cytoplasmic domain was cleaved from full-length ecGlpG using immobilize
 
 - [GlpG Protease](/xray-mp-wiki/proteins/enzymes/glpg/) — ecGlpG-cyto is the cytoplasmic domain of the full-length ecGlpG protein
 - [hiGlpG](/xray-mp-wiki/proteins/enzymes/hiGlpG/) — Related prokaryotic rhomboid protease from Haemophilus influenzae, the first rhomboid structure solved
-- [Rhomboid Protease Family](/xray-mp-wiki/concepts/rhomboid-protease/) — ecGlpG is the archetypal prokaryotic rhomboid intramembrane protease
-- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/intramembrane-proteolysis/) — ecGlpG catalyzes substrate cleavage within the lipid bilayer via its Ser-His catalytic dyad
-- [Domain Swapping](/xray-mp-wiki/concepts/domain-swapping/) — The cytoplasmic domain adopts a domain-swapped dimer structure, a key finding of this study
+- [Rhomboid Protease Family](/xray-mp-wiki/concepts/protein-families/rhomboid-protease/) — ecGlpG is the archetypal prokaryotic rhomboid intramembrane protease
+- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-proteolysis/) — ecGlpG catalyzes substrate cleavage within the lipid bilayer via its Ser-His catalytic dyad
+- [Domain Swapping](/xray-mp-wiki/concepts/structural-mechanisms/domain-swapping/) — The cytoplasmic domain adopts a domain-swapped dimer structure, a key finding of this study
 - [n-Dodecyl-beta-D-maltoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM is used for detergent solubilization of rhomboid proteases in related studies (Sampathkumar et al., 2012)
 - [Selenomethionine (Se-Met)](/xray-mp-wiki/reagents/additives/selenomethionine/) — Se-Met substituted protein used for MAD phasing in structure determination

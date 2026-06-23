@@ -85,7 +85,7 @@ The ligand-free beta1-AR in this structure is in an inactive conformation, unlik
 - [N-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for membrane solubilization and all purification steps
 - [Alprenolol](/xray-mp-wiki/reagents/ligands/alprenolol/) — Used for affinity chromatography purification step
 - [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) — Used to elute receptor from alprenolol-affinity column
-- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/gpcr-inactive-conformation/) — This structure represents the ligand-free basal state in an inactive conformation with intact ionic lock
-- [GPCR-G Protein Coupling](/xray-mp-wiki/concepts/gpcr-g-protein-coupling/) — Docking experiments with Gs protein on beta1-AR oligomers
+- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — This structure represents the ligand-free basal state in an inactive conformation with intact ionic lock
+- [GPCR-G Protein Coupling](/xray-mp-wiki/concepts/signaling-receptors/gpcr-g-protein-coupling/) — Docking experiments with Gs protein on beta1-AR oligomers
 - [Salbutamol (Albuterol)](/xray-mp-wiki/reagents/ligands/salbutamol) — Entity mentioned in text
 - [OPSIN](/xray-mp-wiki/proteins/opsin) — Entity mentioned in text

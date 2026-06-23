@@ -74,7 +74,7 @@ CpTRIC structure was superimposed onto SaTRIC (Type 2a, Na+ bound) for structura
 - [SaTRIC Channel from Sulfolobus acidocaldarius](/xray-mp-wiki/proteins/voltage-gated-channels/sa-tric/) — Homologous prokaryotic TRIC channel; structural comparison between prokaryotic TRIC channels from different organisms
 - [C. elegans TRIC-B1 Channel](/xray-mp-wiki/proteins/voltage-gated-channels/tric-b1/) — Eukaryotic TRIC channel homolog; shared 7-TM hourglass architecture
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — CpTRIC crystallized by LCP method with PEG400 precipitant
-- [TRIC Channel Gating Mechanism](/xray-mp-wiki/concepts/tric-channel-gating/) — CpTRIC belongs to the TRIC channel family with ion-dependent gating
+- [TRIC Channel Gating Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/tric-channel-gating/) — CpTRIC belongs to the TRIC channel family with ion-dependent gating
 - [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer component (20 mM, pH 7.5) used in protein solution and crystallization
 - [Selenomethionine](/xray-mp-wiki/reagents/additives/selenomethionine/) — Se-Met labeled CpTRIC used for SAD phasing at 0.97876 A wavelength
 - [Selenomethionine](/xray-mp-wiki/reagents/additives/selenomethionine/) — Referenced in the context of Selenomethionine

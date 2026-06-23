@@ -85,7 +85,7 @@ The KvLm PM was functionally reconstituted in [Monoolein](/xray-mp-wiki/reagents
 
 - [KirBac Potassium Channels](/xray-mp-wiki/proteins/voltage-gated-channels/kirbac-potassium-channels/) — Another family of prokaryotic potassium channels used for structural comparison of channel gating mechanisms
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Primary crystallization method used to obtain the KvLm PM structure in a lipid membrane environment
-- [Channel Gating via Plug Domain Displacement](/xray-mp-wiki/concepts/channel-gating/) — Comparison of gating mechanisms; KvLm PM shows closed activation gate with conductive filter
+- [Channel Gating via Plug Domain Displacement](/xray-mp-wiki/concepts/transport-mechanisms/channel-gating/) — Comparison of gating mechanisms; KvLm PM shows closed activation gate with conductive filter
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [KCSA](/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/) — Related protein structure
 - [Ammonium Sulfate](/xray-mp-wiki/reagents/additives/ammonium-sulfate/) — Additive used in purification or crystallization buffers

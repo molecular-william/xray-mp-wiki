@@ -101,7 +101,7 @@ and Arg159, forms the entrance of a narrow pathway for CO2 access to C5 of NaAD.
 - [DaAD](/xray-mp-wiki/reagents/ligands/dinicotinic-acid-adenine-dinucleotide/) — Reaction intermediate identified by MS
 - [P2CMN](/xray-mp-wiki/reagents/ligands/pyridinium-3-5-biscarboxylic-acid-mononucleotide/) — Product of LarB-catalyzed reaction
 - [NAD+](/xray-mp-wiki/reagents/ligands/nicotinamide-adenine-dinucleotide/) — Substrate analogue that covalently binds to Cys221
-- [NPN Cofactor Biosynthesis](/xray-mp-wiki/concepts/nickel-pincer-nucleotide-cofactor-biosynthesis/) — Pathway initiated by LarB-catalyzed reaction
+- [NPN Cofactor Biosynthesis](/xray-mp-wiki/concepts/enzyme-mechanisms/nickel-pincer-nucleotide-cofactor-biosynthesis/) — Pathway initiated by LarB-catalyzed reaction
 - [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — Method used in structure determination or purification
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [EDTA](/xray-mp-wiki/reagents/additives/edta/) — Additive used in purification or crystallization buffers

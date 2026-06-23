@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-The human [Glucose](/xray-mp-wiki/reagents/additives/glucose) transporter GLUT1 (encoded by SLC2A1) catalyses facilitative diffusion of [Glucose](/xray-mp-wiki/reagents/additives/glucose) into erythrocytes and is responsible for [Glucose](/xray-mp-wiki/reagents/additives/glucose) supply to the brain and other organs. Dysfunctional mutations lead to GLUT1 deficiency syndrome (De Vivo syndrome), characterised by early-onset seizures, microcephaly and retarded development. Over-expression of GLUT1 is a prognostic indicator for cancer. GLUT1 belongs to the sugar porter subfamily of the [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/) ([Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/)) and has a canonical [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/) fold with 12 transmembrane segments organised into amino- and carboxy-terminal domains. The crystal structure was determined at 3.2 A resolution in an inward-open conformation.
+The human [Glucose](/xray-mp-wiki/reagents/additives/glucose) transporter GLUT1 (encoded by SLC2A1) catalyses facilitative diffusion of [Glucose](/xray-mp-wiki/reagents/additives/glucose) into erythrocytes and is responsible for [Glucose](/xray-mp-wiki/reagents/additives/glucose) supply to the brain and other organs. Dysfunctional mutations lead to GLUT1 deficiency syndrome (De Vivo syndrome), characterised by early-onset seizures, microcephaly and retarded development. Over-expression of GLUT1 is a prognostic indicator for cancer. GLUT1 belongs to the sugar porter subfamily of the [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) ([Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/)) and has a canonical [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) fold with 12 transmembrane segments organised into amino- and carboxy-terminal domains. The crystal structure was determined at 3.2 A resolution in an inward-open conformation.
 
 
 ## Structure Determination
@@ -108,7 +108,7 @@ The full-length human GLUT1 structure was captured in an inward-open conformatio
 
 ### Alternating access mechanism via N/C domain rotation
 
-Structural comparison of inward-open GLUT1 and outward-facing [XylE (Escherichia coli Sugar Transporter)](/xray-mp-wiki/proteins/xyle) reveals an approximately 16 degree concentric rotation of the N and C domains. The C domain provides the primary substrate-binding site while the relative motion of the N domain results in [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/). In the inward-open GLUT1, residues from the N domain are not involved in ligand binding. The ligand-free protein may prefer an outward-open conformation; substrate binding at the primary site on the C domain induces closure of N and C domains on the extracellular side, leading to rearrangement of interactions on both sides of the bound substrate.
+Structural comparison of inward-open GLUT1 and outward-facing [XylE (Escherichia coli Sugar Transporter)](/xray-mp-wiki/proteins/xyle) reveals an approximately 16 degree concentric rotation of the N and C domains. The C domain provides the primary substrate-binding site while the relative motion of the N domain results in [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/). In the inward-open GLUT1, residues from the N domain are not involved in ligand binding. The ligand-free protein may prefer an outward-open conformation; substrate binding at the primary site on the C domain induces closure of N and C domains on the extracellular side, leading to rearrangement of interactions on both sides of the bound substrate.
 
 ### Disease-related mutations in three clusters
 
@@ -162,11 +162,11 @@ Direct side-by-side comparison of GLUT1 and GLUT3 expressed in Xenopus oocytes u
 ## Cross-References
 
 - [XylE (Escherichia coli Sugar Transporter)](/xray-mp-wiki/proteins/mfs-transporters/xyle/) — Bacterial homologue; structural comparison reveals 16 degree domain rotation
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/) — GLUT1 belongs to the MFS, specifically the sugar porter subfamily
-- [Sugar Porter (SP) Family](/xray-mp-wiki/concepts/sugar-porter-family/) — GLUT1 is a member of the sugar porter subfamily of MFS transporters
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — GLUT1 transports glucose via the alternating access mechanism
-- [Conformational Dynamics in MFS Transporters](/xray-mp-wiki/concepts/conformational-dynamics-mfs/) — N/C domain rotation of 16 degrees observed between inward-open and outward-facing states
-- [Rocker-Switch Mechanism in MFS Transporters](/xray-mp-wiki/concepts/rocker-switch-mechanism/) — MFS-specific variant of alternating access mechanism employed by GLUT1
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — GLUT1 belongs to the MFS, specifically the sugar porter subfamily
+- [Sugar Porter (SP) Family](/xray-mp-wiki/concepts/protein-families/sugar-porter-family/) — GLUT1 is a member of the sugar porter subfamily of MFS transporters
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — GLUT1 transports glucose via the alternating access mechanism
+- [Conformational Dynamics in MFS Transporters](/xray-mp-wiki/concepts/transport-mechanisms/conformational-dynamics-mfs/) — N/C domain rotation of 16 degrees observed between inward-open and outward-facing states
+- [Rocker-Switch Mechanism in MFS Transporters](/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/) — MFS-specific variant of alternating access mechanism employed by GLUT1
 - [n-Nonyl-beta-D-glucopyranoside (beta-NG)](/xray-mp-wiki/reagents/detergents/n-nonyl-beta-d-glucopyranoside/) — Detergent used for crystallization; binds to substrate-binding site
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent for membrane solubilization and purification
 - [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Referenced in glut1

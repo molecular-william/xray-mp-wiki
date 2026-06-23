@@ -43,4 +43,4 @@ No comparison data available.
 - [Nb.AT110i1 Synthetic Nanobody](/xray-mp-wiki/reagents/antibodies/nb-at110i1/) — Another conformation-selective nanobody for membrane protein crystallography
 - [scFv16 Antibody Fragment](/xray-mp-wiki/reagents/antibodies/scfv16/) — Stabilizing antibody fragment used in membrane protein crystallography
 - [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) — N00 is a camelid-derived nanobody (single-domain antibody)
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — N00 selectively binds the inward-facing conformation of the MFS transporter
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — N00 selectively binds the inward-facing conformation of the MFS transporter

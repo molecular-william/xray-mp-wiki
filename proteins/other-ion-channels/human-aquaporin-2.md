@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Human [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) 2 ([AQP2](/xray-mp-wiki/proteins/other-ion-channels/aqp2/)) is a water channel found in the kidney collecting duct, where it plays a key role in concentrating urine through regulated water reabsorption. [AQP2](/xray-mp-wiki/proteins/other-ion-channels/aqp2/) trafficking between intracellular storage vesicles and the apical membrane is tightly controlled by the pituitary hormone arginine vasopressin (AVP). The 2.75 A X-ray structure reveals the conserved [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) fold with six transmembrane helices and two half-membrane spanning helices, assembled as a tetramer. The C terminus displays multiple conformations, with a C-terminal alpha-helix potentially involved in protein-protein interactions governing cellular sorting. Two Cd2+-binding sites are observed within the tetramer, and Ca2+ is proposed as the physiological ligand. Defective trafficking of [AQP2](/xray-mp-wiki/proteins/other-ion-channels/aqp2/) results in [Nephrogenic Diabetes Insipidus](/xray-mp-wiki/concepts/nephrogenic-diabetes-insipidus/) (NDI). An additional room-temperature SFX structure was determined at 3.7 A resolution from on-chip crystallized crystals using the Roadrunner II fixed-target system at LCLS (PDB 6qf5), demonstrating the feasibility of on-chip crystallization for membrane protein serial crystallography.
+Human [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) 2 ([AQP2](/xray-mp-wiki/proteins/other-ion-channels/aqp2/)) is a water channel found in the kidney collecting duct, where it plays a key role in concentrating urine through regulated water reabsorption. [AQP2](/xray-mp-wiki/proteins/other-ion-channels/aqp2/) trafficking between intracellular storage vesicles and the apical membrane is tightly controlled by the pituitary hormone arginine vasopressin (AVP). The 2.75 A X-ray structure reveals the conserved [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) fold with six transmembrane helices and two half-membrane spanning helices, assembled as a tetramer. The C terminus displays multiple conformations, with a C-terminal alpha-helix potentially involved in protein-protein interactions governing cellular sorting. Two Cd2+-binding sites are observed within the tetramer, and Ca2+ is proposed as the physiological ligand. Defective trafficking of [AQP2](/xray-mp-wiki/proteins/other-ion-channels/aqp2/) results in [Nephrogenic Diabetes Insipidus](/xray-mp-wiki/concepts/miscellaneous/nephrogenic-diabetes-insipidus/) (NDI). An additional room-temperature SFX structure was determined at 3.7 A resolution from on-chip crystallized crystals using the Roadrunner II fixed-target system at LCLS (PDB 6qf5), demonstrating the feasibility of on-chip crystallization for membrane protein serial crystallography.
 
 
 ## Structure Determination
@@ -29,7 +29,7 @@ Human [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) 2 ([AQP2](/xray-mp-w
 - **Expression system**: C-terminally truncated [AQP2](/xray-mp-wiki/proteins/other-ion-channels/aqp2/) (residues 1-242) expressed in Pichia pastoris
 
 - **Construct**: [AQP2](/xray-mp-wiki/proteins/other-ion-channels/aqp2/) truncated at Pro242
-- **Notes**: Full-length [AQP2](/xray-mp-wiki/proteins/other-ion-channels/aqp2/) produced in insect cells failed to yield well-diffracting 3D crystals. [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) at Pro242 (last visible residue in [AQP5](/xray-mp-wiki/proteins/other-ion-channels/human-aqp5/) structure) significantly improved diffraction quality.
+- **Notes**: Full-length [AQP2](/xray-mp-wiki/proteins/other-ion-channels/aqp2/) produced in insect cells failed to yield well-diffracting 3D crystals. [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) at Pro242 (last visible residue in [AQP5](/xray-mp-wiki/proteins/other-ion-channels/human-aqp5/) structure) significantly improved diffraction quality.
 
 
 ### Purification Workflow
@@ -106,7 +106,7 @@ The LIP5 binding site on [AQP2](/xray-mp-wiki/proteins/other-ion-channels/aqp2/)
 the C-terminal helix. Leucines 230, 234, 237, and 240 align on the same
 side of the helix, creating a leucine-rich region. This is similar to the
 AQP0-Calmodulin interaction motif, suggesting exposed hydrophobic residues
-on [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) C-terminal helices may be a recurring motif for protein-
+on [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) C-terminal helices may be a recurring motif for protein-
 protein interactions involved in trafficking.
 
 
@@ -116,9 +116,9 @@ protein interactions involved in trafficking.
 - [Aquaporin Z (AqpZ)](/xray-mp-wiki/proteins/other-ion-channels/aquaporin-z/) — Bacterial aquaporin homolog for comparative analysis
 - [Aquaporin 0 (AQP0)](/xray-mp-wiki/proteins/other-ion-channels/aqp0/) — AQP0-Calmodulin interaction provides comparative model for C-terminal helix interactions
 - [On-Chip Crystallization](/xray-mp-wiki/methods/on-chip-crystallization/) — Method used to obtain the 3.7 A room-temperature SFX structure (PDB 6qf5)
-- [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) — Related biological concept
-- [Nephrogenic Diabetes Insipidus](/xray-mp-wiki/concepts/nephrogenic-diabetes-insipidus/) — Related biological concept
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — Related biological concept
+- [Nephrogenic Diabetes Insipidus](/xray-mp-wiki/concepts/miscellaneous/nephrogenic-diabetes-insipidus/) — Related biological concept
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [AQP2](/xray-mp-wiki/proteins/other-ion-channels/aqp2/) — Related protein structure

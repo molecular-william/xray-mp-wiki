@@ -163,4 +163,4 @@ The 2.75 A crystal structure of Ops* in complex with the ArrFL-1 peptide (PDB 4P
 - [Nonylglucoside (NG)](/xray-mp-wiki/reagents/detergents/nonylglucoside/) — Tested for reconstitution inhibition, shows chain-length-dependent pocket occupancy; C9G occupied chromophore site in 4X1H structure
 - [Heptylglucoside (HpG)](/xray-mp-wiki/reagents/detergents/heptylglucoside/) — Tested for reconstitution inhibition, shows chain-length-dependent pocket occupancy
 - [11-cis-Retinal](/xray-mp-wiki/reagents/ligands/11-cis-retinal/) — Natural chromophore ligand of rhodopsin; replaced by OG in the Ops* crystal structure
-- [GPCR G Protein-Arrestin Common Interface](/xray-mp-wiki/concepts/gpcr-g-protein-arrestin-common-interface/) — Ops*-ArrFL-1 structure (PDB 4PXF) reveals the common GPCR-binding interface shared by G proteins and arrestins
+- [GPCR G Protein-Arrestin Common Interface](/xray-mp-wiki/concepts/signaling-receptors/gpcr-g-protein-arrestin-common-interface/) — Ops*-ArrFL-1 structure (PDB 4PXF) reveals the common GPCR-binding interface shared by G proteins and arrestins

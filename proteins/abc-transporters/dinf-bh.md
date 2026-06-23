@@ -169,8 +169,8 @@ Based on the extracellular-facing structure, an intracellular-facing model was g
 
 - [NorM-NG (Neisseria gonorrhoeae NorM)](/xray-mp-wiki/proteins/abc-transporters/nor-mng/) — Co-reported in same paper; mechanistic comparison between DinF and NorM subfamilies
 - [NorM-VC (Vibrio cholerae NorM)](/xray-mp-wiki/proteins/norm-vc/) — Earlier MATE family structure; NorM subfamily member
-- [MATE Transporter Family](/xray-mp-wiki/concepts/mate-transporter-family/) — DinF-BH is a DinF subfamily member of the MATE family
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — MATE transporters operate via alternating access mechanism
+- [MATE Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/mate-transporter-family/) — DinF-BH is a DinF subfamily member of the MATE family
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — MATE transporters operate via alternating access mechanism
 - [Ethidium](/xray-mp-wiki/reagents/ligands/ethidium/) — Referenced in context related to Ethidium
 - [Verapamil](/xray-mp-wiki/reagents/ligands/verapamil/) — Referenced in context related to Verapamil
 - [Pfmate](/xray-mp-wiki/proteins/abc-transporters/pfmate/) — Referenced in context related to Pfmate

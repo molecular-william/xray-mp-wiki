@@ -91,9 +91,9 @@ The AbgT family (~13,000 putative members) includes both transporters and resist
 
 ## Cross-References
 
-- [AbgT Family of Transporters](/xray-mp-wiki/concepts/abgt-family/) — YdaH is the first structurally characterized member of the AbgT family
-- [Antibiotic Efflux Pumps](/xray-mp-wiki/concepts/antibiotic-efflux-pump/) — YdaH functions as a sulfonamide efflux pump
-- [Sulfonamide Resistance](/xray-mp-wiki/concepts/sulfonamide-resistance/) — YdaH confers resistance to sulfonamide antimetabolites
+- [AbgT Family of Transporters](/xray-mp-wiki/concepts/transport-mechanisms/abgt-family/) — YdaH is the first structurally characterized member of the AbgT family
+- [Antibiotic Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/antibiotic-efflux-pump/) — YdaH functions as a sulfonamide efflux pump
+- [Sulfonamide Resistance](/xray-mp-wiki/concepts/miscellaneous/sulfonamide-resistance/) — YdaH confers resistance to sulfonamide antimetabolites
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for YdaH solubilization and purification
 - [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — Na-HEPES buffer (pH 7.5) used in SEC and purification
 - [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) — Ni-NTA used for His-tag purification of YdaH
@@ -107,4 +107,4 @@ The AbgT family (~13,000 putative members) includes both transporters and resist
 - [Sulfadiazine](/xray-mp-wiki/reagents/ligands/sulfadiazine/) — YdaH binds sulfadiazine with Ki=4.97 uM
 - [p-Aminobenzoic Acid (PABA)](/xray-mp-wiki/reagents/additives/paba/) — YdaH exports PABA from bacterial cells
 - [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Related efflux pump; E. coli BL21(DE3) delta acrB strain used for YdaH expression
-- [Sodium Motive Force](/xray-mp-wiki/concepts/sodium-motive-force/) — Na+ enhances YdaH transporter function
+- [Sodium Motive Force](/xray-mp-wiki/concepts/miscellaneous/sodium-motive-force/) — Na+ enhances YdaH transporter function

@@ -161,13 +161,13 @@ Mutagenesis of His-168 and His-318 to 14 different polar and non-polar residues 
 
 ## Cross-References
 
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — AmtB comparison with other structurally characterized membrane channels
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — AmtB comparison with other structurally characterized membrane channels
 - [Glycerol Facilitator (GlpF)](/xray-mp-wiki/proteins/other-ion-channels/glycerol-facilitator/) — GlpF and aquaporins share similar internal duplication fold with AmtB
-- [Rh/Amt/MEP Protein Family](/xray-mp-wiki/concepts/rh-amt-mep-protein-family/) — The twin-His motif is a conserved and essential feature of functional ammonium channels in this family
+- [Rh/Amt/MEP Protein Family](/xray-mp-wiki/concepts/protein-families/rh-amt-mep-protein-family/) — The twin-His motif is a conserved and essential feature of functional ammonium channels in this family
 - [E. coli AmtB (ammonia channel)](/xray-mp-wiki/proteins/other-ion-channels/e-coli-amtb/) — Alternative protein entry for the same protein; twin-His mutagenesis study
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Method used in the study
-- [Rh/Amt/MEP Protein Family](/xray-mp-wiki/concepts/rh-amt-mep-protein-family/) — Key concept related to this protein
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — Key concept related to this protein
-- [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) — Key concept related to this protein
+- [Rh/Amt/MEP Protein Family](/xray-mp-wiki/concepts/protein-families/rh-amt-mep-protein-family/) — Key concept related to this protein
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — Key concept related to this protein
+- [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — Key concept related to this protein
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein mentioned in the study
 - [Glycerol Facilitator (GlpF)](/xray-mp-wiki/proteins/other-ion-channels/glycerol-facilitator/) — Related protein mentioned in the study

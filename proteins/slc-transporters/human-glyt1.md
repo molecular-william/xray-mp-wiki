@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) transporter 1 (GlyT1, encoded by the SLC6A9 gene) is a member of the [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/nss-family/) (SLC6) that regulates glycine-mediated neuronal excitation and inhibition through sodium- and chloride-dependent reuptake of [Glycine](/xray-mp-wiki/reagents/buffers/glycine/). GlyT1 is located on presynaptic neurons and astrocytes surrounding both inhibitory glycinergic and excitatory glutamatergic synapses, and is the main regulator of extracellular [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) levels in the brain. Inhibition of GlyT1 prolongs neurotransmitter signaling and has been a key strategy for treating schizophrenia and cognitive impairments. The structure of GlyT1 in complex with a benzoylisoindoline inhibitor (Cmpd1) and a synthetic single-domain antibody (sybody Sb_GlyT1#7) was determined at 3.4 A resolution using serial synchrotron crystallography (Shahsavar et al., 2021, PDB 6ZBV). The inhibitor locks GlyT1 in an inward-open conformation and binds at the intracellular gate of the release pathway, overlapping with the glycine-release site. A second structure of GlyT1 with an N-terminal lichenase fusion (GlyT1-Lic) was determined at 3.9 A resolution (PDB 6ZPL).
+Human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) transporter 1 (GlyT1, encoded by the SLC6A9 gene) is a member of the [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/transport-mechanisms/nss-family/) (SLC6) that regulates glycine-mediated neuronal excitation and inhibition through sodium- and chloride-dependent reuptake of [Glycine](/xray-mp-wiki/reagents/buffers/glycine/). GlyT1 is located on presynaptic neurons and astrocytes surrounding both inhibitory glycinergic and excitatory glutamatergic synapses, and is the main regulator of extracellular [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) levels in the brain. Inhibition of GlyT1 prolongs neurotransmitter signaling and has been a key strategy for treating schizophrenia and cognitive impairments. The structure of GlyT1 in complex with a benzoylisoindoline inhibitor (Cmpd1) and a synthetic single-domain antibody (sybody Sb_GlyT1#7) was determined at 3.4 A resolution using serial synchrotron crystallography (Shahsavar et al., 2021, PDB 6ZBV). The inhibitor locks GlyT1 in an inward-open conformation and binds at the intracellular gate of the release pathway, overlapping with the glycine-release site. A second structure of GlyT1 with an N-terminal lichenase fusion (GlyT1-Lic) was determined at 3.9 A resolution (PDB 6ZPL).
 
 ## Structure Determination
 
@@ -70,12 +70,12 @@ The synthetic single-domain antibody sybody Sb_GlyT1#7 binds GlyT1 with 9 nM aff
 ## Cross-References
 
 - [dDAT (Drosophila Dopamine Transporter)](/xray-mp-wiki/proteins/slc-transporters/d-dat/) — Related NSS family transporter used as search model for outward-open conformation
-- [GPCR-G Protein Coupling](/xray-mp-wiki/concepts/gpcr-g-protein-coupling/) — GlyT1 regulates glycine levels at NMDA receptor synapses, relevant to glutamatergic signaling
+- [GPCR-G Protein Coupling](/xray-mp-wiki/concepts/signaling-receptors/gpcr-g-protein-coupling/) — GlyT1 regulates glycine levels at NMDA receptor synapses, relevant to glutamatergic signaling
 - [LMNG (Lauryl Maltose Neopentyl Glycol)](/xray-mp-wiki/reagents/detergents/lmng/) — Primary detergent for solubilization and purification
 - [Cholesterol Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Used as stabilizing additive during solubilization
 - [Lipidic Cubic Phase (LCP) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used for GlyT1 structure determination
 - [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Used for GlyT1-Lic expression in Sf9 insect cells
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — IMAC purification using Talon/Ni-NTA resin
-- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/nss-family/) — Related biological concept
+- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/transport-mechanisms/nss-family/) — Related biological concept
 - [Molecular Docking](/xray-mp-wiki/methods/structure-determination/molecular-docking/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification

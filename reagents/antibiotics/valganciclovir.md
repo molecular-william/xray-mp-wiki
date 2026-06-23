@@ -40,6 +40,6 @@ No comparison data available.
 ## Cross-References
 
 - [E. coli DtpA Peptide Transporter](/xray-mp-wiki/proteins/slc-transporters/dtpa/) — Valganciclovir binds to DtpA and is transported by it
-- [POT Family](/xray-mp-wiki/concepts/pot-family/) — Valganciclovir is transported by POT family members (PepT1, PepT2)
+- [POT Family](/xray-mp-wiki/concepts/transport-mechanisms/pot-family/) — Valganciclovir is transported by POT family members (PepT1, PepT2)
 - [Valacyclovir](/xray-mp-wiki/reagents/ligands/valacyclovir/) — Related antiviral prodrug (L-valine derivative of acyclovir) transported by PepT1
 - [Ganciclovir](/xray-mp-wiki/reagents/ligands/ganciclovir/) — Valganciclovir is a valine conjugate prodrug of ganciclovir

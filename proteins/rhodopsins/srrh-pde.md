@@ -139,8 +139,8 @@ a dimer under physiological conditions.
 
 ## Cross-References
 
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — Rh-PDE belongs to the microbial rhodopsin family with a unique 8-TM topology
-- [Enzyme Rhodopsins](/xray-mp-wiki/concepts/enzyme-rhodopsins/) — Rh-PDE is a member of the enzyme rhodopsin class, with light-dependent enzymatic activity
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — Rh-PDE belongs to the microbial rhodopsin family with a unique 8-TM topology
+- [Enzyme Rhodopsins](/xray-mp-wiki/concepts/enzyme-mechanisms/enzyme-rhodopsins/) — Rh-PDE is a member of the enzyme rhodopsin class, with light-dependent enzymatic activity
 - [DDM (n-Dodecyl-β-D-Maltopyranoside)](/xray-mp-wiki/reagents/detergents/ddm/) — Used for membrane protein extraction and solubilization of Rh-PDE
 - [LMNG (2,2-Didecylpropane-1,3-bis-β-D-maltopyranoside)](/xray-mp-wiki/reagents/detergents/lmng/) — Used during purification of Rh-PDE after solubilization
 - [Cholesteryl Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Used as additive during solubilization and purification to stabilize Rh-PDE

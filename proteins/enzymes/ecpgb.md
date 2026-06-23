@@ -79,7 +79,7 @@ and ciCPO (PDB 1VNC), confirming evolutionary relationship between soluble and T
 
 ## Cross-References
 
-- [Type II Phosphatidic Acid Phosphatase (PAP2) Family](/xray-mp-wiki/concepts/pap2-family/) — ecPgpB is prototypical transmembrane PAP2 enzyme
+- [Type II Phosphatidic Acid Phosphatase (PAP2) Family](/xray-mp-wiki/concepts/protein-families/pap2-family/) — ecPgpB is prototypical transmembrane PAP2 enzyme
 - [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Referenced in ecpgb text
 - [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) — Referenced in ecpgb text
 - [Nonyl Beta D Glucopyranoside](/xray-mp-wiki/reagents/nonyl-beta-d-glucopyranoside/) — Referenced in ecpgb text

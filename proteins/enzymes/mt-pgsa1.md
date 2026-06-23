@@ -30,7 +30,7 @@ differences between eukaryotic and mycobacterial PI biosynthesis pathways.
 This paper presents three crystal structures (apo at 2.9 Å, Mn-[Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/)
 complex at 1.9 Å, and CDP-[DAG](/xray-mp-wiki/reagents/lipids/dag/) complex at 1.8 Å) revealing atomic details
 of substrate binding, metal coordination dynamics, and a refined catalytic
-mechanism involving a substrate-induced [Carboxylate Shift](/xray-mp-wiki/concepts/carboxylate-shift/).
+mechanism involving a substrate-induced [Carboxylate Shift](/xray-mp-wiki/concepts/structural-mechanisms/carboxylate-shift/).
 
 
 ## Structure Determination
@@ -95,11 +95,11 @@ mechanism involving a substrate-induced [Carboxylate Shift](/xray-mp-wiki/concep
 ## Cross-References
 
 - [Phosphatidylglycerol Phosphate Synthase PgsA from Staphylococcus aureus](/xray-mp-wiki/proteins/enzymes/sa-pgsa/) — Homologous CDP-AP family enzyme; structural and mechanistic comparison
-- [CDP-Alcohol Phosphotransferase Family](/xray-mp-wiki/concepts/cdp-alcohol-phosphotransferase-family/) — PgsA1 belongs to the Class I CDP-alcohol phosphotransferase family
+- [CDP-Alcohol Phosphotransferase Family](/xray-mp-wiki/concepts/protein-families/cdp-alcohol-phosphotransferase-family/) — PgsA1 belongs to the Class I CDP-alcohol phosphotransferase family
 - [Cytidine Diphosphate Diacylglycerol (CDP-DAG)](/xray-mp-wiki/reagents/ligands/cytidine-diphosphate-diacylglycerol/) — One of two substrates; CDP-DAG binding mechanism revealed in this study
 - [Lipidic Cubic Phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used for substrate-bound PgsA1 structures
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Phasing method used to solve all three structures
-- [Carboxylate Shift](/xray-mp-wiki/concepts/carboxylate-shift/) — Related biological concept
+- [Carboxylate Shift](/xray-mp-wiki/concepts/structural-mechanisms/carboxylate-shift/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Molecular Docking](/xray-mp-wiki/methods/structure-determination/molecular-docking/) — Method used in structure determination or purification
 - [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) — Buffer component in purification or crystallization

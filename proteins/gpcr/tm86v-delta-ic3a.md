@@ -21,7 +21,7 @@ verified: false
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1073##PNAS.1317903111 | Not specified (see main paper) | 3.26 A | Not specified | NTR1-TM86V-ΔIC3A: 11 point mutations (A86L, H103D, H105Y, A161V, R167L, R213L, V234L, I253A, H305R, F358V, S362A), ΔIC3A deletion of ICL3 and C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) after G390, expressed in E. coli
+| doi/10.1073##PNAS.1317903111 | Not specified (see main paper) | 3.26 A | Not specified | NTR1-TM86V-ΔIC3A: 11 point mutations (A86L, H103D, H105Y, A161V, R167L, R213L, V234L, I253A, H305R, F358V, S362A), ΔIC3A deletion of ICL3 and C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) after G390, expressed in E. coli
  | [Neurotensin](/xray-mp-wiki/reagents/ligands/neurotensin/) |
 | doi/10.1073##PNAS.1317903111 | Not specified (see main paper) | 2.75 A | Not specified | NTR1-TM86V-ΔIC3B: 11 point mutations, ΔIC3B deletion of ICL3, expressed in E. coli
  | [Neurotensin](/xray-mp-wiki/reagents/ligands/neurotensin/) |
@@ -50,7 +50,7 @@ The structure is similar to active-like [NTSR1](/xray-mp-wiki/proteins/gpcr/neur
 
 ### Improved interhelical surface complementarity
 
-Comparison of NTR1-TM86V with its precursor NTR1-D03 (which lacks A86L, I253A, and F358V) reveals that three hydrophobic-to-hydrophobic mutations significantly improve thermostability. I253A and F358V remove steric clashes with neighboring helices, while A86L adds favorable van der Waals contacts between TM1 and TM2. These changes suggest that improved interhelical surface complementarity, not increased polarity, drives [Protein Thermostabilization](/xray-mp-wiki/concepts/thermostabilization/).
+Comparison of NTR1-TM86V with its precursor NTR1-D03 (which lacks A86L, I253A, and F358V) reveals that three hydrophobic-to-hydrophobic mutations significantly improve thermostability. I253A and F358V remove steric clashes with neighboring helices, while A86L adds favorable van der Waals contacts between TM1 and TM2. These changes suggest that improved interhelical surface complementarity, not increased polarity, drives [Protein Thermostabilization](/xray-mp-wiki/concepts/construct-design/thermostabilization/).
 
 ### Helix 8 forms a canonical amphipathic structure
 
@@ -61,8 +61,8 @@ Unlike the GW5-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) structure
 
 - [NTSR1-ELF Mutant](/xray-mp-wiki/proteins/gpcr/ntsr1-el/) — Active-like NTSR1 structure compared with inactive TM86V-ΔIC3A mutant
 - [NTSR1-LF Mutant](/xray-mp-wiki/proteins/gpcr/ntsr1-lf/) — Active-like NTSR1 structure compared with inactive TM86V-ΔIC3A mutant
-- [Protein Thermostabilization](/xray-mp-wiki/concepts/thermostabilization/) — Related biological concept
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Protein Thermostabilization](/xray-mp-wiki/concepts/construct-design/thermostabilization/) — Related biological concept
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [A2AR](/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/) — Related protein structure
 - [NTSR1](/xray-mp-wiki/proteins/gpcr/neurotensin-receptor-1/) — Related protein structure
 - [Neurotensin](/xray-mp-wiki/reagents/ligands/neurotensin/) — Related ligand or cofactor

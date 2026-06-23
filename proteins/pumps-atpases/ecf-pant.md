@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates the import of pantothenate (vitamin B5) across the bacterial membrane. The transporter consists of four subunits: the S-component PanT (substrate-binding integral membrane protein), the T-component EcfT (transmembrane coupling subunit), and two ATPase subunits EcfA and EcfA' (nucleotide-binding domains). Two structures have been determined from different Lactobacillus species: a 2.8 A crystal structure from L. delbrueckii subsp. bulgaricus (PDB 6ZG3), determined using a  crystallization chaperone, revealing an open, post-hydrolysis conformation with a largely occluded substrate-binding cavity; and a 3.25 A crystal structure of the LbECF-PanT complex from L. brevis, which together with the LbECF-FolT and LbECF-HmpT structures revealed the molecular basis for how different S-components share a common [ECF (Energy Coupling Factor) Transporter Family](/xray-mp-wiki/concepts/ecf-transporter-family/) module in group II [ECF (Energy Coupling Factor) Transporter Family](/xray-mp-wiki/concepts/ecf-transporter-family/) transporters.
+ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates the import of pantothenate (vitamin B5) across the bacterial membrane. The transporter consists of four subunits: the S-component PanT (substrate-binding integral membrane protein), the T-component EcfT (transmembrane coupling subunit), and two ATPase subunits EcfA and EcfA' (nucleotide-binding domains). Two structures have been determined from different Lactobacillus species: a 2.8 A crystal structure from L. delbrueckii subsp. bulgaricus (PDB 6ZG3), determined using a  crystallization chaperone, revealing an open, post-hydrolysis conformation with a largely occluded substrate-binding cavity; and a 3.25 A crystal structure of the LbECF-PanT complex from L. brevis, which together with the LbECF-FolT and LbECF-HmpT structures revealed the molecular basis for how different S-components share a common [ECF (Energy Coupling Factor) Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/ecf-transporter-family/) module in group II [ECF (Energy Coupling Factor) Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/ecf-transporter-family/) transporters.
 
 ## Structure Determination
 
@@ -65,11 +65,11 @@ ECF-PanT is a group II energy-coupling factor (ECF) transporter that mediates th
 
 ### Dynamic S-component exchange in Group II ECF transporters
 
-Co-reconstitution experiments with ECF-PanT and ECF-FoIT2 in proteoliposomes demonstrated that the S-components PanT and FoIT2 dynamically associate with and dissociate from the shared [ECF (Energy Coupling Factor) Transporter Family](/xray-mp-wiki/concepts/ecf-transporter-family/) module. Folate transport was observed when FoIT2 was co-reconstituted with ECF-PanT, and pantothenate transport was observed when PanT was co-reconstituted with ECF-FoIT2, indicating S-component exchange occurs as part of the transport mechanism.
+Co-reconstitution experiments with ECF-PanT and ECF-FoIT2 in proteoliposomes demonstrated that the S-components PanT and FoIT2 dynamically associate with and dissociate from the shared [ECF (Energy Coupling Factor) Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/ecf-transporter-family/) module. Folate transport was observed when FoIT2 was co-reconstituted with ECF-PanT, and pantothenate transport was observed when PanT was co-reconstituted with ECF-FoIT2, indicating S-component exchange occurs as part of the transport mechanism.
 
 ### Substrate-loaded S-components compete more effectively for the ECF module
 
-Competition experiments showed that the rate of pantothenate transport was inhibited by unlabelled folate, and vice versa, in a dose-dependent manner. This suggests that substrate-bound S-components compete more efficiently for association with the [ECF (Energy Coupling Factor) Transporter Family](/xray-mp-wiki/concepts/ecf-transporter-family/) module than apo-proteins, recapitulating previous in vivo observations.
+Competition experiments showed that the rate of pantothenate transport was inhibited by unlabelled folate, and vice versa, in a dose-dependent manner. This suggests that substrate-bound S-components compete more efficiently for association with the [ECF (Energy Coupling Factor) Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/ecf-transporter-family/) module than apo-proteins, recapitulating previous in vivo observations.
 
 ### Structural basis for differential substrate binding kinetics
 
@@ -77,14 +77,14 @@ The ECF-PanT structure reveals an occluded binding pocket (880 A^3) with loops L
 
 ### Molecular basis for ECF module sharing in Group II ECF transporters
 
-Structural comparison of LbECF-PanT, LbECF-FolT, and LbECF-HmpT from L. brevis revealed that different EcfS proteins use a common surface area composed of transmembrane helices SM1, SM2, and SM6 to interact with the coupling helices CH2 and CH3 of the same EcfT. CH2 interacts mainly with SM1 via hydrophobic interactions, modulating sliding movement of EcfS. CH3 binds to a hydrophobic surface groove formed by SM1, SM2, and SM6, transmitting conformational changes from EcfA/A' to EcfS. The AxxxA motif (Ala13 and Ala17) in SM1 is involved in EcfT interaction. The conformational flexibility of EcfT allows it to accommodate different EcfS proteins, enabling module sharing in group II [ECF (Energy Coupling Factor) Transporter Family](/xray-mp-wiki/concepts/ecf-transporter-family/) transporters.
+Structural comparison of LbECF-PanT, LbECF-FolT, and LbECF-HmpT from L. brevis revealed that different EcfS proteins use a common surface area composed of transmembrane helices SM1, SM2, and SM6 to interact with the coupling helices CH2 and CH3 of the same EcfT. CH2 interacts mainly with SM1 via hydrophobic interactions, modulating sliding movement of EcfS. CH3 binds to a hydrophobic surface groove formed by SM1, SM2, and SM6, transmitting conformational changes from EcfA/A' to EcfS. The AxxxA motif (Ala13 and Ala17) in SM1 is involved in EcfT interaction. The conformational flexibility of EcfT allows it to accommodate different EcfS proteins, enabling module sharing in group II [ECF (Energy Coupling Factor) Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/ecf-transporter-family/) transporters.
 
 
 ## Cross-References
 
-- [ECF Transporter (Energy-Coupling Factor Transporter)](/xray-mp-wiki/concepts/ecf-transporter/) — ECF-PanT is a group II ECF transporter that shares a common ECF module
+- [ECF Transporter (Energy-Coupling Factor Transporter)](/xray-mp-wiki/concepts/transport-mechanisms/ecf-transporter/) — ECF-PanT is a group II ECF transporter that shares a common ECF module
 - [RibU (ECF-Type Riboflavin Transporter S Component)](/xray-mp-wiki/proteins/pumps-atpases/ribu/) — Another characterized ECF transporter S-component for comparison
-- [Elevator-Type Transport Mechanism](/xray-mp-wiki/concepts/elevator-mechanism/) — ECF transporters use an elevator-type toppling mechanism for substrate translocation
+- [Elevator-Type Transport Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/elevator-mechanism/) — ECF transporters use an elevator-type toppling mechanism for substrate translocation
 - [n-Dodecyl-beta-D-Maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for membrane solubilization and purification
 - [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — Crystallization method used for ECF-PanT-Nb81 structure determination
 - [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) — Referenced in ecf-pant text

@@ -56,4 +56,4 @@ No comparison data available.
 - [Alprenolol](/xray-mp-wiki/reagents/ligands/alprenolol/) — Related beta-blocker ligand used in beta2 AR crystallization
 - [ICI 118,551](/xray-mp-wiki/reagents/ligands/ici-118-551/) — Another inverse agonist used in beta2 AR structural studies
 - [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) — High-affinity antagonist for beta-adrenergic receptors
-- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/gpcr-inactive-conformation/) — Carazolol stabilizes the inactive state of beta2 AR
+- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — Carazolol stabilizes the inactive state of beta2 AR

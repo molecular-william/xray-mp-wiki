@@ -72,5 +72,5 @@ No comparison data available.
 - [Human Delta-Opioid Receptor (OPRD1)](/xray-mp-wiki/proteins/gpcr/delta-opioid-receptor/) — Primary target of naltrindole; used in crystal structure determination
 - [Naltriben](/xray-mp-wiki/reagents/ligands/naltriben/) — Related cyclopentene-containing δ-OR antagonist
 - [7-Benzylidenenaltrexone (BNTX)](/xray-mp-wiki/reagents/ligands/7-benzylidenenaltrexone/) — Related δ-OR antagonist with similar functional switching properties
-- [Efficacy Switches in GPCR Signaling](/xray-mp-wiki/concepts/efficacy-switches/) — Naltrindole transforms to beta-arrestin agonist in sodium site mutants
-- [Sodium Ion Allosteric Modulation in GPCRs](/xray-mp-wiki/concepts/sodium-allosteric-modulation/) — Naltrindole binding affinity modulated by sodium ion
+- [Efficacy Switches in GPCR Signaling](/xray-mp-wiki/concepts/signaling-receptors/efficacy-switches/) — Naltrindole transforms to beta-arrestin agonist in sodium site mutants
+- [Sodium Ion Allosteric Modulation in GPCRs](/xray-mp-wiki/concepts/signaling-receptors/sodium-allosteric-modulation/) — Naltrindole binding affinity modulated by sodium ion

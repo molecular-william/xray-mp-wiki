@@ -93,9 +93,9 @@ Using the 1.95 Å DRD4 structure, a virtual screen of over 600,000 cationic lead
 ## Cross-References
 
 - [Human Dopamine D3 Receptor (D3R)](/xray-mp-wiki/proteins/gpcr/human-dopamine-d3-receptor/) — DRD3 is the closest structural homolog; comparison of EBP and constitutive activity mechanisms
-- [Sodium Ion Allosteric Modulation in GPCRs](/xray-mp-wiki/concepts/sodium-allosteric-modulation/) — First direct structural evidence for sodium allosteric site in a dopamine receptor
-- [Biased Agonism in G Protein-Coupled Receptors](/xray-mp-wiki/concepts/biased-agonism/) — Compound 9-6-24 shows 7.4-fold arrestin bias over Gαi/o signaling
-- [DRD2 Extended Binding Pocket (DRD2-EBP)](/xray-mp-wiki/concepts/drd2-extended-binding-pocket/) — Closely related concept — DRD4 EBP is the DRD4-specific analog driving subtype selectivity
+- [Sodium Ion Allosteric Modulation in GPCRs](/xray-mp-wiki/concepts/signaling-receptors/sodium-allosteric-modulation/) — First direct structural evidence for sodium allosteric site in a dopamine receptor
+- [Biased Agonism in G Protein-Coupled Receptors](/xray-mp-wiki/concepts/signaling-receptors/biased-agonism/) — Compound 9-6-24 shows 7.4-fold arrestin bias over Gαi/o signaling
+- [DRD2 Extended Binding Pocket (DRD2-EBP)](/xray-mp-wiki/concepts/structural-mechanisms/drd2-extended-binding-pocket/) — Closely related concept — DRD4 EBP is the DRD4-specific analog driving subtype selectivity
 - [Dopamine](/xray-mp-wiki/reagents/ligands/dopamine/) — Referenced in context related to Dopamine
 - [Nemonapride](/xray-mp-wiki/reagents/ligands/nemonapride/) — Referenced in context related to Nemonapride
 - [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) — Referenced in context related to Bril

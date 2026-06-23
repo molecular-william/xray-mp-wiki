@@ -64,4 +64,4 @@ The Kv1.2-2.1-2m (without V377T) shows slow inactivation similar to wild type. C
 
 - [Kv1.2-2.1-3m Chimeric Channel (C-type Inactivated State)](/xray-mp-wiki/proteins/voltage-gated-channels/kv1-2-2-1-3m-channel/) — Triple mutant (W362F, S367T, V377T) showing rapid C-type inactivation; 3m includes V377T which stabilizes inactivated state
 - [Shaker Kv1.2 Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/shaker-kv1-2/) — Parent channel used as basis for chimera
-- [C-type Inactivation](/xray-mp-wiki/concepts/c-type-inactivation/) — Demonstrates role of Thr at position 377 (Shaker T449) in C-type inactivation
+- [C-type Inactivation](/xray-mp-wiki/concepts/structural-mechanisms/c-type-inactivation/) — Demonstrates role of Thr at position 377 (Shaker T449) in C-type inactivation

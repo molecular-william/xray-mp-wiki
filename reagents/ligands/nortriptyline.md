@@ -41,6 +41,6 @@ No comparison data available.
 
 - [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/slc-transporters/d-dopamine-transporter/) — Primary target of nortriptyline; structure solved with nortriptyline bound
 - [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) — Nortriptyline binding site in dDAT is equivalent to tryptophan binding site in LeuT
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Nortriptyline binding prevents transition to occluded state in NSS transporters
-- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/nss-family/) — Nortriptyline is a substrate analogue inhibitor of NSS family transporters
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Nortriptyline binding prevents transition to occluded state in NSS transporters
+- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/transport-mechanisms/nss-family/) — Nortriptyline is a substrate analogue inhibitor of NSS family transporters
 - [Dopamine](/xray-mp-wiki/reagents/ligands/dopamine/) — Related ligand or cofactor

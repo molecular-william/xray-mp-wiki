@@ -87,8 +87,8 @@ The S4-S5 linker acts as a mechanical lever between the voltage sensor and pore 
 - [NavAb Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) — Structural comparison between activated open and pre-activated states
 - [NavAe1p Prokaryotic Sodium Channel Pore](/xray-mp-wiki/proteins/gpcr/navae1p-sodium-channel/) — Closed-state comparison for CTD domain analysis
 - [NaChBac Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/nachbac/) — Founding member of voltage-gated sodium channel family
-- [Sodium Channel Gating and Selectivity](/xray-mp-wiki/concepts/sodium-channel-gating/) — General voltage-gating mechanism overview
-- [Sodium Channel Inactivation Gating](/xray-mp-wiki/concepts/sodium-channel-inactivation-gating/) — CTD-mediated inactivation mechanism in prokaryotic sodium channels
-- [S4-S5 Linker Interaction Motif](/xray-mp-wiki/concepts/s4-s5-linker-interaction-motif/) — Central structural finding of this paper
+- [Sodium Channel Gating and Selectivity](/xray-mp-wiki/concepts/transport-mechanisms/sodium-channel-gating/) — General voltage-gating mechanism overview
+- [Sodium Channel Inactivation Gating](/xray-mp-wiki/concepts/transport-mechanisms/sodium-channel-inactivation-gating/) — CTD-mediated inactivation mechanism in prokaryotic sodium channels
+- [S4-S5 Linker Interaction Motif](/xray-mp-wiki/concepts/structural-mechanisms/s4-s5-linker-interaction-motif/) — Central structural finding of this paper
 - [4-Hydroxytamoxifen](/xray-mp-wiki/reagents/ligands/4-hydroxytamoxifen/) — Related ligand or cofactor
 - [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/) — Related ligand or cofactor

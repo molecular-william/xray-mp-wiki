@@ -85,6 +85,6 @@ The Ton complex consists of a pentamer of [ExbB (E. coli)](/xray-mp-wiki/protein
 - [His6 Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) — C-terminal 10xHis tag used for ExbD purification
 - [Strep Tag](/xray-mp-wiki/reagents/protein-tags/strep-tag/) — N-terminal Strep-tag used on ExbD for purification
 - [DEER Spectroscopy](/xray-mp-wiki/methods/quality-assessment/deer-spectroscopy/) — DEER performed on ExbD N78C and E113C mutants labeled with MTSL to confirm dimeric state
-- [Ton Complex](/xray-mp-wiki/concepts/ton-complex/) — ExbD is a core component of the Ton complex; the concept page describes the functional complex
+- [Ton Complex](/xray-mp-wiki/concepts/miscellaneous/ton-complex/) — ExbD is a core component of the Ton complex; the concept page describes the functional complex
 - [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) — Crystallization method used for structure determination
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) — Purification method used in protein preparation

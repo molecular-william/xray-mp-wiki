@@ -94,4 +94,4 @@ Compound 1 and TAK-875 exhibit positive allosteric cooperativity (α = 2.1, β =
 - [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) — Additive used in purification or crystallization buffers
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Additive used in purification or crystallization buffers
 - [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) — Fusion tag for crystallization or purification
-- [Extra-helical Binding Site in GPCRs](/xray-mp-wiki/concepts/extra-helical-binding-site/) — Compound 1 binds to the A2 extra-helical lipid-facing pocket between TM3-5 and ICL2
+- [Extra-helical Binding Site in GPCRs](/xray-mp-wiki/concepts/signaling-receptors/extra-helical-binding-site/) — Compound 1 binds to the A2 extra-helical lipid-facing pocket between TM3-5 and ICL2

@@ -28,7 +28,7 @@ enough to accommodate a signal sequence helix, suggesting a mechanism for early
 topological arbitration during membrane protein insertion. Crystal packing revealed a
 C-terminal alpha-helix from a symmetry-related molecule inserting into the cytoplasmic
 vestibule, acting as a nascent chain mimic. In vivo complementation assays showed that
-[Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) of the 15 C-terminal residues of [SECY](/xray-mp-wiki/proteins/secretion-translocon/secy/) fails to rescue a secY-deficient
+[Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) of the 15 C-terminal residues of [SECY](/xray-mp-wiki/proteins/secretion-translocon/secy/) fails to rescue a secY-deficient
 E. coli strain, confirming the essential role of this helix in protein targeting.
 
 ## Structure Determination
@@ -120,8 +120,8 @@ topological arbitration of the incoming nascent chain.
 - [SecE Accessory Subunit](/xray-mp-wiki/proteins/secretion-translocon/sece/) — SecE is the essential accessory subunit of the SecY complex
 - [SecG Accessory Subunit](/xray-mp-wiki/proteins/secretion-translocon/secg/) — SecG (homolog of Secbeta) is the accessory subunit of the SecY complex
 - [Methanococcus jannaschii SecY Translocation Channel](/xray-mp-wiki/proteins/secretion-translocon/methanococcus-jannaschii-secy/) — Homologous archaeal SecY; used as molecular replacement model for Pfu-SecYE structure solution
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — The SecY channel undergoes conformational changes to alternately open the lateral gate and displace the plug during translocation
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — The SecY channel undergoes conformational changes to alternately open the lateral gate and displace the plug during translocation
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) — Additive used in purification or crystallization buffers

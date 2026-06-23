@@ -73,7 +73,7 @@ The 10-fold symmetry of the K ring differs from the 6-fold symmetry previously a
 
 - [V1-ATPase from Enterococcus hirae (EhV1)](/xray-mp-wiki/proteins/pumps-atpases/enterococcus-hirae-v1-atpase/) — V0 domain counterpart; the K ring is part of the V0 membrane domain
 - [F-Type Na+-ATPase c11 Rotor Ring from Ilyobacter tartaricus](/xray-mp-wiki/proteins/pumps-atpases/ilyobacter-tartaricus-c-subunit/) — F-ATPase rotor ring from related Na+-translocating ATP synthase
-- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/f1-atpase-rotary-mechanism/) — Rotary mechanism shared between V- and F-ATPases
+- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/) — Rotary mechanism shared between V- and F-ATPases
 - [UDM](/xray-mp-wiki/reagents/undecylmaltoside/) — Referenced in ehirae-v-atpase-k-ring text
 - [Acetate](/xray-mp-wiki/reagents/buffers/acetate/) — Referenced in ehirae-v-atpase-k-ring text
 - [DDM](/xray-mp-wiki/reagents/dodecylmaltoside/) — Referenced in ehirae-v-atpase-k-ring text

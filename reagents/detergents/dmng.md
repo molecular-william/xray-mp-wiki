@@ -35,7 +35,7 @@ OsNIP2;1 from rice behaves well in DMng detergent, allowing preparation of well-
 |---|---|---|---|
 | /xray-mp-wiki/proteins/other-ion-channels/osnip2-1/ | not specified | Purification and crystallization of truncated OsNIP2;1 | Well-diffracting crystals obtained for structure determination at 2.6 A |
 | /xray-mp-wiki/proteins/other-ion-channels/influenza-a-m2-proton-channel/ | not specified | DMNG detergent additive used in LCP crystallization of M2 TM domain (residues 22-46) to stabilize Inward_closed conformation; crystals formed at pH 4.5-5.6 | High-resolution crystal structures of M2 bound to [Amantadine](/xray-mp-wiki/reagents/ligands/amantadine/) (6BKK, 2.0 A), [Rimantadine](/xray-mp-wiki/reagents/ligands/rimantadine/) (6BKL, 2.0 A), and spiro-adamantyl amine (6BMZ, 2.63 A) |
-| Human GABA_A Receptor Beta-3 Subunit | 0.007% | [Protein Thermostabilization](/xray-mp-wiki/concepts/thermostabilization/) assay buffer for GABA_A R-β3, with 0.007% DMNG and 0.0006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Used in SEC-based [Protein Thermostabilization](/xray-mp-wiki/concepts/thermostabilization/) to evaluate ligand binding (EC50 = 370 uM for benzamidine) |
+| Human GABA_A Receptor Beta-3 Subunit | 0.007% | [Protein Thermostabilization](/xray-mp-wiki/concepts/construct-design/thermostabilization/) assay buffer for GABA_A R-β3, with 0.007% DMNG and 0.0006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Used in SEC-based [Protein Thermostabilization](/xray-mp-wiki/concepts/construct-design/thermostabilization/) to evaluate ligand binding (EC50 = 370 uM for benzamidine) |
 
 ## Advantages and Disadvantages
 
@@ -49,7 +49,7 @@ No comparison data available.
 
 - [Lauryl Maltose Neopentyl Glycol (LMNG)](/xray-mp-wiki/reagents/detergents/lmng/) — Related MNG detergent with dodecyl (C12) tail, widely used for membrane protein crystallization
 - [Decylmaltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — C10 non-ionic detergent used as alternative to DMng for membrane protein solubilization
-- [Protein Thermostabilization](/xray-mp-wiki/concepts/thermostabilization/) — Related biological concept
+- [Protein Thermostabilization](/xray-mp-wiki/concepts/construct-design/thermostabilization/) — Related biological concept
 - [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Additive used in purification or crystallization buffers
 - [Maltose](/xray-mp-wiki/reagents/additives/maltose/) — Additive used in purification or crystallization buffers
 - [Amantadine](/xray-mp-wiki/reagents/ligands/amantadine/) — Related ligand or cofactor

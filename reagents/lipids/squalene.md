@@ -43,4 +43,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [Bacteriorhodopsin Photocycle](/xray-mp-wiki/concepts/bacteriorhodopsin-photocycle/) — Squalene location at distorted helix G region affects photocycle reprotonation
+- [Bacteriorhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/bacteriorhodopsin-photocycle/) — Squalene location at distorted helix G region affects photocycle reprotonation

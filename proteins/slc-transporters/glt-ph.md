@@ -247,8 +247,8 @@ Two novel cation binding sites (Na2' and Ct) were identified in the apo-like con
 - [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) — Sodium-coupled amino acid transporter with structurally similar sodium-binding motif in unwound helix
 - [N-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used at 1 mM for GltPh purification and crystallization
 - [Sodium Ion](/xray-mp-wiki/reagents/ligands/sodium-ion/) — Two sodium-binding sites identified in GltPh structure; essential for aspartate binding
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — GltPh operates through open-outside, occluded, and open-inside conformational states
-- [Rocker-Switch Mechanism in MFS Transporters](/xray-mp-wiki/concepts/rocker-switch-mechanism/) — Related transport mechanism concept; GltPh uses a distinct but analogous mechanism
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — GltPh operates through open-outside, occluded, and open-inside conformational states
+- [Rocker-Switch Mechanism in MFS Transporters](/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/) — Related transport mechanism concept; GltPh uses a distinct but analogous mechanism
 - [Potassium Chloride (KCl)](/xray-mp-wiki/reagents/additives/potassium-chloride-kcl/) — Potassium used in transport assays; K+ does not support aspartate binding to GltPh
 - [H276,395-GltPh (Humanized GltPh Mutant, R276S/M395R)](/xray-mp-wiki/proteins/slc-transporters/h276395-glt-ph/) — Humanized mutant variant with 1000-fold decreased substrate affinity and fourfold faster uptake rate; characterized in transition state study
-- [Elevator Mechanism](/xray-mp-wiki/concepts/elevator-mechanism/) — GltPh transport domain undergoes elevator-like motion across the membrane bilayer
+- [Elevator Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/elevator-mechanism/) — GltPh transport domain undergoes elevator-like motion across the membrane bilayer

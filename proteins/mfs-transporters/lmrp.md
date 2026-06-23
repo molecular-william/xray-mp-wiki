@@ -86,10 +86,10 @@ Native mass spectrometry of LmrP reconstituted in DOPE/DOPG nanodiscs shows a ti
 
 ## Cross-References
 
-- [Major Facilitator Superfamily](/xray-mp-wiki/concepts/major-facilitator-superfamily/) — LmrP is a prototypical MFS multidrug transporter
-- [Antibiotic Efflux Pump](/xray-mp-wiki/concepts/antibiotic-efflux-pump/) — LmrP is a multidrug efflux pump; the paper discusses mechanism of polyspecific drug export
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — LmrP alternates between inward-open and outward-open states depending on protonation
-- [Substrate Polyspecificity in SMR Transporters](/xray-mp-wiki/concepts/substrate-polyspecificity-smr-transporters/) — The embedded lipid mechanism proposed may relate to polyspecificity mechanisms across transporter families
+- [Major Facilitator Superfamily](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — LmrP is a prototypical MFS multidrug transporter
+- [Antibiotic Efflux Pump](/xray-mp-wiki/concepts/transport-mechanisms/antibiotic-efflux-pump/) — LmrP is a multidrug efflux pump; the paper discusses mechanism of polyspecific drug export
+- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — LmrP alternates between inward-open and outward-open states depending on protonation
+- [Substrate Polyspecificity in SMR Transporters](/xray-mp-wiki/concepts/transport-mechanisms/substrate-polyspecificity-smr-transporters/) — The embedded lipid mechanism proposed may relate to polyspecificity mechanisms across transporter families
 - [POPG](/xray-mp-wiki/reagents/lipids/popg/) — POPG (DOPG analog) is the embedded lipid in LmrP binding cavity
 - [Hoechst 33342](/xray-mp-wiki/reagents/additives/hoechst-33342/) — Hoechst 33342 is the substrate in the crystal structure
 - [MdfA (E. coli Multidrug Transporter)](/xray-mp-wiki/proteins/mfs-transporters/mdfa/) — MdfA is another MFS multidrug transporter with known outward-open structure, used for comparison

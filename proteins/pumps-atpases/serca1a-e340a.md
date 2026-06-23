@@ -129,11 +129,11 @@ of a conformation resembling the occluded transition state.
 
 - [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — Wild-type parent protein; structural and functional comparison
 - [SERCA1a E309Q Mutant](/xray-mp-wiki/proteins/pumps-atpases/serca1a-e309q/) — Related SERCA1a point mutant; comparison of domain rearrangement effects
-- [P-type ATPase Mechanism](/xray-mp-wiki/concepts/p-type-atpase-mechanism/) — E340A mutation reveals critical role of Glu340 in interdomain communication within the P-type ATPase transport cycle
-- [Large Domain Motion in P-type ATPases](/xray-mp-wiki/concepts/large-domain-motion-in-p-type-atpases/) — E340A structure visualizes altered headpiece positioning and A-domain displacement
-- [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/phosphoenzyme-e2p-state/) — Glu340 is located at P-domain interface near phosphorylation site Asp351
+- [P-type ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/p-type-atpase-mechanism/) — E340A mutation reveals critical role of Glu340 in interdomain communication within the P-type ATPase transport cycle
+- [Large Domain Motion in P-type ATPases](/xray-mp-wiki/concepts/structural-mechanisms/large-domain-motion-in-p-type-atpases/) — E340A structure visualizes altered headpiece positioning and A-domain displacement
+- [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/enzyme-mechanisms/phosphoenzyme-e2p-state/) — Glu340 is located at P-domain interface near phosphorylation site Asp351
 - [AMPPCP](/xray-mp-wiki/reagents/ligands/amppcp/) — ATP analog used during crystallization and functional assays
 - [Calcium Chloride](/xray-mp-wiki/reagents/additives/calcium-chloride/) — Essential substrate; two Ca2+ ions bound in transmembrane domain
 - [Magnesium Chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Cofactor; Mg2+ required for ATP binding and crystallization
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — E340A mutation alters the E2 to Ca2E1 transition kinetics
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — E340A mutation alters the E2 to Ca2E1 transition kinetics
 - [Molecular Dynamics Simulation](/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/) — MD simulations (3 x 200 ns in POPC bilayers) confirmed structural observations and revealed altered dynamics

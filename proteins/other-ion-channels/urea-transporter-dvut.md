@@ -109,6 +109,6 @@ polar substrates within membrane protein pores.
 - [SUMO Tag](/xray-mp-wiki/reagents/protein-tags/sumo-tag/) — N-terminal fusion tag used in the dvUT expression construct
 - [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer component (20 mM, pH 7.5) used in purification and crystallization
 - [Cacodylate Buffer](/xray-mp-wiki/reagents/buffers/cacodylate/) — Buffer (100 mM, pH 6.5) used in crystallization reservoir
-- [Channel-like Mechanism](/xray-mp-wiki/concepts/channel-like-mechanism/) — Transport mechanism established by the dvUT structure
+- [Channel-like Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/channel-like-mechanism/) — Transport mechanism established by the dvUT structure
 - [beta-Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol) — Entity mentioned in text
 - [PEG](/xray-mp-wiki/reagents/additives/peg) — Entity mentioned in text

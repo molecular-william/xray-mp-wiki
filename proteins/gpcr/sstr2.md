@@ -21,9 +21,9 @@ Somatostatin receptor 2 (SSTR2) is a class A G protein-coupled receptor that is 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41422-022-00679-x | 7XNA | 2.65 | Not specified | SSTR2 with C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) (T359), xylanase insertion in ICL3 (S238-G243 replaced), D89N, V106E, S316D mutations | CYN 154806 (peptide antagonist) |
-| doi/10.1038##s41422-022-00679-x | 7XN9 | 2.6 | Not specified | SSTR2 with C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) (T359), xylanase insertion in ICL3 (I240-V242 junction), V106E, S316D mutations (D89 restored to WT) | L-054,522 (non-peptide agonist) |
-| doi/10.1038##s41422-022-00679-x | 7XMR | 3.1 | C1 | SSTR2 WT with C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) (T359) | SST-14 (endogenous ligand) |
+| doi/10.1038##s41422-022-00679-x | 7XNA | 2.65 | Not specified | SSTR2 with C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (T359), xylanase insertion in ICL3 (S238-G243 replaced), D89N, V106E, S316D mutations | CYN 154806 (peptide antagonist) |
+| doi/10.1038##s41422-022-00679-x | 7XN9 | 2.6 | Not specified | SSTR2 with C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (T359), xylanase insertion in ICL3 (I240-V242 junction), V106E, S316D mutations (D89 restored to WT) | L-054,522 (non-peptide agonist) |
+| doi/10.1038##s41422-022-00679-x | 7XMR | 3.1 | C1 | SSTR2 WT with C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (T359) | SST-14 (endogenous ligand) |
 
 ## Expression and Purification
 
@@ -83,7 +83,7 @@ Agonist binding to SSTR2 induces a contraction of the helical bundle, rearrangem
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used for LCP crystallization
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Method used for crystal growth
 - [T4 Lysozyme (T4L)](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — Reference fusion protein (xylanase used as alternative crystallization fusion partner)
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) — Additive used in purification or crystallization buffers

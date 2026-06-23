@@ -123,7 +123,7 @@ extracellular vestibule, and intracellular G-protein binding surface.
 ## Cross-References
 
 - [Tx24](/xray-mp-wiki/reagents/ligands/tx24/) — Engineered allosteric toxin targeting M2AChR, derived from MT7 via in vitro evolution
-- [Three-Finger Toxin Scaffold for GPCR Modulation](/xray-mp-wiki/concepts/three-finger-toxin-gpcr-modulation/) — M2AChR is target of engineered 3FT Tx24 demonstrating scaffold retargetability
+- [Three-Finger Toxin Scaffold for GPCR Modulation](/xray-mp-wiki/concepts/signaling-receptors/three-finger-toxin-gpcr-modulation/) — M2AChR is target of engineered 3FT Tx24 demonstrating scaffold retargetability
 - [M1 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m1-muscarinic-acetylcholine-receptor/) — Related muscarinic receptor subtype; orthosteric binding pocket residues identical between M1 and M2
 - [M3 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m3-muscarinic-acetylcholine-receptor/) — Related muscarinic receptor subtype; orthosteric binding pocket residues identical between M3 and M2
 - [Human M4 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m4-muscarinic-acetylcholine-receptor/) — Related muscarinic receptor subtype; M4 structure solved in same study as M1 (Thal et al., 2016)

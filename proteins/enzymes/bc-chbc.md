@@ -58,8 +58,8 @@ A speculative model for the ChbC transport mechanism was proposed based on the c
 ## Cross-References
 
 - [bcMalT (Bacillus cereus Maltose Transporter)](/xray-mp-wiki/proteins/enzymes/bc-malt/) — Comparison structure; outward-facing occluded conformation of same superfamily
-- [Elevator Mechanism](/xray-mp-wiki/concepts/elevator-mechanism/) — bcChbC provides the inward-facing state for the elevator mechanism
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — bcChbC represents the inward-facing state of the alternating-access cycle
+- [Elevator Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/elevator-mechanism/) — bcChbC provides the inward-facing state for the elevator mechanism
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — bcChbC represents the inward-facing state of the alternating-access cycle
 - [Maltose](/xray-mp-wiki/reagents/additives/maltose/) — Related substrate; bcMalT binds maltose while bcChbC binds GlcNAc2
 - [Diacetylchitobiose (GlcNAc2)](/xray-mp-wiki/reagents/ligands/diacetylchitobiose/) — bcChbC bound to diacetylchitobiose ligand in crystal structure
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used in purification and stability testing of ChbC

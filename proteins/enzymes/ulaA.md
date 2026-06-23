@@ -86,8 +86,8 @@ The UlaA fold is completely different from that of ChbC (a GFL superfamily PTS t
 ## Cross-References
 
 - [Uracil:Proton Symporter UraA (E. coli)](/xray-mp-wiki/proteins/slc-transporters/uraA/) — Both are E. coli transporters; UraA belongs to the NAT/NCS2 family, which includes mammalian vitamin C transporters (SVCT1/SVCT2)
-- [Elevator Transport Mechanism](/xray-mp-wiki/concepts/elevator-mechanism/) — Central mechanistic finding of this paper; proposed elevator mechanism for substrate translocation
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — General framework for transporter function; elevator mechanism is a specialized form
+- [Elevator Transport Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/elevator-mechanism/) — Central mechanistic finding of this paper; proposed elevator mechanism for substrate translocation
+- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — General framework for transporter function; elevator mechanism is a specialized form
 - [L-Ascorbic Acid (Vitamin C)](/xray-mp-wiki/reagents/ligands/ascorbic-acid/) — Physiological substrate of UlaA; bound in both crystal structures
 - [Hanging-Drop Vapor Diffusion Crystallization](/xray-mp-wiki/methods/crystallization/vapor-diffusion-hanging-drop/) — Crystallization method used for UlaA
 - [Multiple Isomorphous Replacement with Anomalous Scattering (MIRAS)](/xray-mp-wiki/methods/structure-determination/miras/) — Experimental phasing method used for initial UlaA structure

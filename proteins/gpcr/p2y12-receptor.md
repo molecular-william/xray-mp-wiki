@@ -146,7 +146,7 @@ The 2MeSADP binding pocket involves residues from helices III, IV, V, VI, and VI
 - [AZD1283](/xray-mp-wiki/reagents/ligands/azd1283/) — Co-crystallized reversible antagonist in first P2Y12 structure (PDB 4NTJ)
 - [Ticagrelor](/xray-mp-wiki/reagents/ligands/ticagrelor/) — Related P2Y12 inverse agonist for comparison
 - [Elinogrel](/xray-mp-wiki/reagents/ligands/elinogrel/) — Related P2Y12 antagonist studied in paper
-- [GPCR Active Conformation](/xray-mp-wiki/concepts/gpcr-active-conformation/) — Selatogrel stabilizes inactive conformation vs active
+- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — Selatogrel stabilizes inactive conformation vs active
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — IMAC purification method used
 - [A2A-PSB1-bRIL Adenosine A2A Receptor](/xray-mp-wiki/proteins/gpcr/a2a-psb1-bril/) — Related GPCR-BRIL fusion structure
 - [PAR1](/xray-mp-wiki/proteins/par1) — Related protein structure

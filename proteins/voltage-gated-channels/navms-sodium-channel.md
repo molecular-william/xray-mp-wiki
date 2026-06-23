@@ -63,7 +63,7 @@ The 2.9 A structure of NavMs-pore + CTD reveals a fully open pore conformation w
 
 ### Role of CTD in inactivation gating
 
-Electrophysiology measurements show the CTD is necessary for inactivation gating and recovery, and for channel stability. The Delta223 [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) (removing the linker and coiled-coil) inactivates ~7 times slower than wild-type [NAVMS](/xray-mp-wiki/proteins/voltage-gated-channels/navms/) and recovers from inactivation ~155 times slower. The Delta239 [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) (removing only the coiled-coil) has normal inactivation kinetics but uncoupled voltage dependence. Mutation of three negatively charged glutamate residues (E229, E230, E231) to glutamine slows inactivation ~5-fold.
+Electrophysiology measurements show the CTD is necessary for inactivation gating and recovery, and for channel stability. The Delta223 [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (removing the linker and coiled-coil) inactivates ~7 times slower than wild-type [NAVMS](/xray-mp-wiki/proteins/voltage-gated-channels/navms/) and recovers from inactivation ~155 times slower. The Delta239 [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (removing only the coiled-coil) has normal inactivation kinetics but uncoupled voltage dependence. Mutation of three negatively charged glutamate residues (E229, E230, E231) to glutamine slows inactivation ~5-fold.
 
 ### Gating mechanism model
 
@@ -78,8 +78,8 @@ The CTDs of all identified prokaryotic sodium channels exhibit similar flexible 
 
 - [KcsA Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/) — Related tetrameric ion channel serving as structural model
 - [Sitting Drop Vapor Diffusion Crystallization](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — Crystallization method used for NavMs
-- [Sodium Channel Gating](/xray-mp-wiki/concepts/sodium-channel-gating/) — NavMs provides insights into sodium channel gating mechanisms
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Sodium Channel Gating](/xray-mp-wiki/concepts/transport-mechanisms/sodium-channel-gating/) — NavMs provides insights into sodium channel gating mechanisms
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [NaChBac Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/nachbac/) — Related protein structure

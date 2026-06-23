@@ -50,4 +50,4 @@ No comparison data available.
 
 - [BRIL Fusion Protein](/xray-mp-wiki/reagents/protein-tags/bril/) — SRP2070Fab specifically recognizes BRIL fusion partner in GPCR constructs
 - [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/) — BRIL fusion strategy used in related AT receptor structural studies
-- [GPCR-G Protein Coupling Mechanism](/xray-mp-wiki/concepts/gpcr-g-protein-coupling/) — SRP2070Fab designed for GPCR crystallization and structure determination
+- [GPCR-G Protein Coupling Mechanism](/xray-mp-wiki/concepts/signaling-receptors/gpcr-g-protein-coupling/) — SRP2070Fab designed for GPCR crystallization and structure determination

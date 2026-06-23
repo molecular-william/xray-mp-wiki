@@ -21,12 +21,12 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature17975 | 5IWK | 3.25 A | P4_12_12 | Rat TRPV6 crystallization construct (TRPV6_cryst), residues 1-668, mutations I62Y, L92N, M96Q, L495Q, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) | [Desthiobiotin](/xray-mp-wiki/reagents/ligands/desthiobiotin/) (bound at intersubunit interface during affinity purification) |
+| doi/10.1038##nature17975 | 5IWK | 3.25 A | P4_12_12 | Rat TRPV6 crystallization construct (TRPV6_cryst), residues 1-668, mutations I62Y, L92N, M96Q, L495Q, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) | [Desthiobiotin](/xray-mp-wiki/reagents/ligands/desthiobiotin/) (bound at intersubunit interface during affinity purification) |
 | doi/10.1038##nature17975 | 5IWP | 3.85 A | P4_12_12 | Rat TRPV6 crystallization construct with Ba2+ | Ba2+ (10 mM BaCl2) |
 | doi/10.1038##nature17975 | 5IWR | 3.65 A | P4_12_12 | Rat TRPV6 crystallization construct with Ca2+ | Ca2+ (10 mM CaCl2) |
 | doi/10.1038##nature17975 | 5IWT | 3.80 A | P4_12_12 | Rat TRPV6 crystallization construct with Gd3+ | Gd3+ (1 mM GdCl3) |
 | doi/10.1038##s41598-017-10993-9 | 5WO6 | 3.45 A | P42_12 | TRPV6_cryst (same as 5IWK), mutations I62Y, L92N, M96Q, L495Q | -- |
-| doi/10.1038##s41598-017-10993-9 | 5WO7 | 3.25 A | P42_12 | TRPV6* (L495Q reverted to native L495), C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/), I62Y, L92N, M96Q | -- |
+| doi/10.1038##s41598-017-10993-9 | 5WO7 | 3.25 A | P42_12 | TRPV6* (L495Q reverted to native L495), C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), I62Y, L92N, M96Q | -- |
 | doi/10.1038##s41598-017-10993-9 | 5WO8 | 3.40 A | P42_12 | TRPV6*-del1 (4 residues deleted in S4-S5 linker, 477-480) | -- |
 | doi/10.1038##s41598-017-10993-9 | 5WO9 | 3.6 A | P42_12 | TRPV6_cryst with Ca2+, mutations I62Y, L92N, M96Q, L495Q | Ca2+ |
 | doi/10.1038##s41598-017-10993-9 | 5WOA | 3.85 A | P42_12 | TRPV6_cryst with Gd3+, mutations I62Y, L92N, M96Q, L495Q | Gd3+ |
@@ -34,7 +34,7 @@ TRPV6 is a Ca2+-selective transient receptor potential vanilloid channel uniquel
 ## Expression and Purification
 
 - **Expression system**: HEK 293S cells (GnTI-), BacMam expression
-- **Construct**: Rat TRPV6 (GenBank EDM15484.1), crystallization construct TRPV6_cryst comprising residues 1-668 with point mutations I62Y, L92N, M96Q, L495Q and C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/). C-terminal thrombin cleavage site (LVPRG) followed by eGFP and streptavidin affinity tag (WSHPQFEK). Expressed in [PEG](/xray-mp-wiki/reagents/additives/peg/) BacMam vector.
+- **Construct**: Rat TRPV6 (GenBank EDM15484.1), crystallization construct TRPV6_cryst comprising residues 1-668 with point mutations I62Y, L92N, M96Q, L495Q and C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/). C-terminal thrombin cleavage site (LVPRG) followed by eGFP and streptavidin affinity tag (WSHPQFEK). Expressed in [PEG](/xray-mp-wiki/reagents/additives/peg/) BacMam vector.
 - **Notes**: For [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) studies, hTRPV6-FL (residues 1-725) and hTRPV6-CtD (residues 1-666, C-terminally truncated) constructs were used with C-terminal thrombin cleavage site followed by streptavidin affinity tag.
 
 ### Purification Workflow
@@ -112,10 +112,10 @@ Four W583 residues from each TRPV6 subunit form a tight cubic cage (4.2 A betwee
 
 - [Epithelial Calcium Channel TRPV5](/xray-mp-wiki/proteins/voltage-gated-channels/trpv5/) — Closely related Ca2+ channel (~75% sequence identity); CaM-dependent inactivation mechanism conserved
 - [TRPV2](/xray-mp-wiki/proteins/voltage-gated-channels/trpv2/) — TRP channel family member; structural comparison of lipid-binding sites
-- [C-type Inactivation](/xray-mp-wiki/concepts/c-type-inactivation/) — PCHPD inhibition mimics Ca2+-induced inactivation mechanism; tryptophan cage at pore intracellular entrance
+- [C-type Inactivation](/xray-mp-wiki/concepts/structural-mechanisms/c-type-inactivation/) — PCHPD inhibition mimics Ca2+-induced inactivation mechanism; tryptophan cage at pore intracellular entrance
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary solubilization detergent (20 mM) for TRPV6 extraction from membranes
 - [Desthiobiotin](/xray-mp-wiki/reagents/ligands/desthiobiotin/) — Elution agent for Strep affinity purification (10 mM); bound at intersubunit interface in crystal structure
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification
 - [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Method used in structure determination or purification

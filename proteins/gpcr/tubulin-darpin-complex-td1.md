@@ -67,5 +67,5 @@ Comparison of room-temperature (SMX) and cryo-structures of TD1 revealed conform
 
 ## Cross-References
 
-- [Serial Millisecond Crystallography (SMX)](/xray-mp-wiki/concepts/serial-millisecond-crystallography/) — SMX method used for room-temperature data collection and ligand soaking experiments.
+- [Serial Millisecond Crystallography (SMX)](/xray-mp-wiki/concepts/methods-techniques/serial-millisecond-crystallography/) — SMX method used for room-temperature data collection and ligand soaking experiments.
 - [Colchicine](/xray-mp-wiki/reagents/ligands/colchicine/) — Ligand soaked into TD1 crystals for the colchicine-bound structure.

@@ -72,7 +72,7 @@ vestibule by the X-gate, explaining their exceptionally low washout rates.
 | Temperature | Not specified |
 | Growth time | Not specified |
 | Cryoprotection | Crystals flash-frozen in liquid nitrogen |
-| Notes | Crystals obtained with CHOL-[PEG](/xray-mp-wiki/reagents/additives/peg/) mix and trigalactoside additives; data processed with STARANISO for anisotropic [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/). Three structures: apo TASK-1 (6RV2), TASK-1-BAY1000493 complex (6RV3, 50% occupancy in two orientations), and TASK-1-BAY2341237 complex (6RV4, 100% occupancy, single orientation). Ramachandran statistics: 97.56% allowed, 2.44% preferred (6RV3); 97.54% allowed, 2.46% preferred (6RV4). BAY1000493 was synthesized in-house; BAY2341237 was synthesized as described in ref 31. |
+| Notes | Crystals obtained with CHOL-[PEG](/xray-mp-wiki/reagents/additives/peg/) mix and trigalactoside additives; data processed with STARANISO for anisotropic [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/). Three structures: apo TASK-1 (6RV2), TASK-1-BAY1000493 complex (6RV3, 50% occupancy in two orientations), and TASK-1-BAY2341237 complex (6RV4, 100% occupancy, single orientation). Ramachandran statistics: 97.56% allowed, 2.44% preferred (6RV3); 97.54% allowed, 2.46% preferred (6RV4). BAY1000493 was synthesized in-house; BAY2341237 was synthesized as described in ref 31. |
 
 
 ## Biological / Functional Insights
@@ -125,10 +125,10 @@ with important implications for drug development and clinical trials.
 
 - [Human TRAAK Potassium Channel (K2P 4.1)](/xray-mp-wiki/proteins/voltage-gated-channels/traak/) — K2P channel family comparison; TREK-2 (4XDJ) used as comparison for vestibule size measurements
 - [Human K2P2.1 (TREK-1) I110D Mutant](/xray-mp-wiki/proteins/voltage-gated-channels/k2p2-1/) — Fellow K2P channel member; both are two-pore domain potassium channels
-- [C-type Inactivation](/xray-mp-wiki/concepts/c-type-inactivation/) — K2P channels use C-type gate as principal gating site; X-gate is an additional lower gate unique to TASK
-- [Ion Channel Selectivity Filter](/xray-mp-wiki/concepts/selectivity-filter/) — TASK-1 has a pseudo-tetrameric selectivity filter with K+ binding sites S1-S4
+- [C-type Inactivation](/xray-mp-wiki/concepts/structural-mechanisms/c-type-inactivation/) — K2P channels use C-type gate as principal gating site; X-gate is an additional lower gate unique to TASK
+- [Ion Channel Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/) — TASK-1 has a pseudo-tetrameric selectivity filter with K+ binding sites S1-S4
 - [KirBac Potassium Channels](/xray-mp-wiki/proteins/voltage-gated-channels/kirbac-potassium-channels/) — Inward rectifier potassium channels discussed as comparison for lower gate architecture
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [KCNK10](/xray-mp-wiki/proteins/voltage-gated-channels/trek-2/) — Related protein structure
 - [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Additive used in purification or crystallization buffers

@@ -82,4 +82,4 @@ The structure suggests that during closure, the voltage-sensor paddle moves rela
 
 - [Shaker Kv1.2 Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/shaker-kv1-2/) — Parent channel backbone for the paddle-chimaera construct
 - [KvAP Voltage-Dependent Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kvap/) — Prokaryotic Kv channel used for structural comparison
-- [Voltage-Sensor Paddle](/xray-mp-wiki/concepts/voltage-sensor-paddle/) — The voltage-sensor paddle concept characterized by this structure
+- [Voltage-Sensor Paddle](/xray-mp-wiki/concepts/construct-design/voltage-sensor-paddle/) — The voltage-sensor paddle concept characterized by this structure

@@ -84,7 +84,7 @@ Torsional normal mode analysis predicted atomic fluctuations correlating well wi
 - [ELIC (Erwinia chrysanthemi Pentameric Ligand-Gated Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/elic/) — Related prokaryotic pLGIC; reclassified as 'locally closed' conformation based on DeCLIC structures
 - [sTeLIC (Tevnia jerichonana Endosymbiont Pentameric Ligand-Gated Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/stelic/) — Related prokaryotic pLGIC; DeCLIC identified via BLAST search on sTeLIC
 - [GLIC (Gloeobacter violaceus Pentameric Ligand-Gated Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/glic/) — Related prokaryotic pLGIC; gating mechanism compared in functional analysis
-- [Cys-Loop Receptor Family](/xray-mp-wiki/concepts/cys-loop-receptor-family/) — pLGIC family classification; DeCLIC is a prokaryotic Cys-loop receptor homolog
-- [Hydrophobic Gating](/xray-mp-wiki/concepts/hydrophobic-gating/) — Pore constriction gates at F16' and L9' positions controlled by hydrophobic residues
+- [Cys-Loop Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) — pLGIC family classification; DeCLIC is a prokaryotic Cys-loop receptor homolog
+- [Hydrophobic Gating](/xray-mp-wiki/concepts/transport-mechanisms/hydrophobic-gating/) — Pore constriction gates at F16' and L9' positions controlled by hydrophobic residues
 - [Maltose](/xray-mp-wiki/reagents/additives/maltose/) — Referenced in context related to Maltose
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Referenced in context related to DDM

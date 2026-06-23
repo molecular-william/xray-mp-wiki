@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidensis. It belongs to the POT (proton-dependent oligopeptide transporter) family, a subgroup of the Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/)). PepT_So2 uses a proton gradient to drive the uptake of di- and tri-peptides. The crystal structure reveals an inward open conformation with a central hydrophilic peptide-binding cavity and the first substrate-bound POT structure characterized. PepT_So2 uniquely forms a tetrameric assembly in detergent solution, distinguishing it from other POT family members.
+PepT_So2 is a proton-dependent oligopeptide transporter from Shewanella oneidensis. It belongs to the POT (proton-dependent oligopeptide transporter) family, a subgroup of the Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/)). PepT_So2 uses a proton gradient to drive the uptake of di- and tri-peptides. The crystal structure reveals an inward open conformation with a central hydrophilic peptide-binding cavity and the first substrate-bound POT structure characterized. PepT_So2 uniquely forms a tetrameric assembly in detergent solution, distinguishing it from other POT family members.
 
 
 ## Structure Determination
@@ -120,15 +120,15 @@ placement.
 
 ## Cross-References
 
-- [POT Family (Proton-Dependent Oligopeptide Transporters)](/xray-mp-wiki/concepts/pot-family/) — PepT_So2 is a member of the POT family within MFS
+- [POT Family (Proton-Dependent Oligopeptide Transporters)](/xray-mp-wiki/concepts/transport-mechanisms/pot-family/) — PepT_So2 is a member of the POT family within MFS
 - [PepT_So Oligopeptide Transporter](/xray-mp-wiki/proteins/mfs-transporters/pept-so/) — POT family member from Shewanella oneidensis, occluded conformation
 - [PepT_St Proton-Dependent Oligopeptide Transporter](/xray-mp-wiki/proteins/mfs-transporters/pept-st/) — POT family member from Streptococcus thermophilus, inward open conformation
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/) — PepT_So2 belongs to the MFS of secondary active transporters
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — PepT_So2 belongs to the MFS of secondary active transporters
 - [Alafosfalin](/xray-mp-wiki/reagents/ligands/alafosfalin/) — Peptidomimetic phosphonodipeptide ligand co-crystallized with PepT_So2
-- [Scissor-Switch Gating](/xray-mp-wiki/concepts/scissor-switch-gating/) — POT-specific gating mechanism employed by PepT_So2
+- [Scissor-Switch Gating](/xray-mp-wiki/concepts/transport-mechanisms/scissor-switch-gating/) — POT-specific gating mechanism employed by PepT_So2
 - [E. coli DtpA Peptide Transporter](/xray-mp-wiki/proteins/slc-transporters/dtpa/) — POT family member from Escherichia coli
 - [E. coli YbgH Peptide Transporter](/xray-mp-wiki/proteins/mfs-transporters/ybgH/) — POT family member from Escherichia coli
 - [Ala-Ala-Ala (AAA)](/xray-mp-wiki/reagents/ligands/aaa/) — Tripeptide ligand co-crystallized with PepT_So2 (PDB 4TPJ)
 - [Ala-Tyr(L-3,5-diBr)-Ala (AY(Br)A)](/xray-mp-wiki/reagents/ligands/aybr-a/) — Brominated tripeptide ligand co-crystallized with PepT_So2 (PDB 4TPG)
 - [Ala-Tyr(L-3,5-diBr) (AY(Br))](/xray-mp-wiki/reagents/ligands/aybr/) — Brominated dipeptide ligand co-crystallized with PepT_So2 (PDB 4TPH)
-- [PepT_So2 Substrate-Binding Pockets (P1, P2, P3)](/xray-mp-wiki/concepts/peptide-binding-pocket/) — Three pockets identified in PepT_So2 substrate-binding cavity for side chain recognition
+- [PepT_So2 Substrate-Binding Pockets (P1, P2, P3)](/xray-mp-wiki/concepts/structural-mechanisms/peptide-binding-pocket/) — Three pockets identified in PepT_So2 substrate-binding cavity for side chain recognition

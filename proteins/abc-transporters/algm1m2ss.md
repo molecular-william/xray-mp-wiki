@@ -88,9 +88,9 @@ AlgM1M2SS specifically transports oligoalginate trisaccharides to heptasaccharid
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM tested for AlgM1M2SS solubilization in ATPase activity assays
 - [3-[(3-Cholamidopropyl)dimethylammonio]-1-propanesulfonate (CHAPSO)](/xray-mp-wiki/reagents/detergents/chapso/) — CHAPSO used in crystallization sample solution for AlgM1M2SS/AlgQ2 complex
 - [Tris (Tris-Hydroxymethyl-Aminomethane)](/xray-mp-wiki/reagents/buffers/tris/) — Tris-HCl buffer (pH 8.0) used in purification and functional assays
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — ABC transporters operate via alternating-access mechanism between inward and outward facing conformations
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — ABC transporters operate via alternating-access mechanism between inward and outward facing conformations
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Method used in the study
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Key concept related to this protein
+- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Key concept related to this protein
 - [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein mentioned in the study
 - [MalG (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/abc-transporters/malG/) — Related protein mentioned in the study
 - [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — Related protein mentioned in the study

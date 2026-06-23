@@ -76,7 +76,7 @@ The hydrogen bonded network around the chromophore mediated by water molecules i
 - [Trehalose](/xray-mp-wiki/reagents/additives/trehalose/) — Cryoprotectant (15%) used for flash-freezing crystals
 - [11-cis-retinal](/xray-mp-wiki/reagents/ligands/11-cis-retinal/) — Chromophore ligand, Schiff base linked to Lys296
 - [Bovine Rhodopsin](/xray-mp-wiki/proteins/gpcr/bovine-rhodopsin/) — Earlier lower resolution structures (1F88 at 2.8 A, 1HZX, 1L9H at 2.6 A) of the same protein
-- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-photocycle/) — The chromophore geometry and hydrogen bonding network described here are fundamental to understanding the rhodopsin photocycle
+- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/) — The chromophore geometry and hydrogen bonding network described here are fundamental to understanding the rhodopsin photocycle
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal) — Entity mentioned in text
 - [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate) — Entity mentioned in text
 - [NG](/xray-mp-wiki/reagents/detergents/nonylglucoside) — Entity mentioned in text

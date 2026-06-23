@@ -60,7 +60,7 @@ Vcx1 (also known as Hum1p) is a vacuolar Ca2+/H+ exchanger from Saccharomyces ce
 
 ### Alternating access mechanism for CaCA superfamily
 
-The Vcx1 structure reveals a cytosol-facing, substrate-bound conformation, providing the structural basis for an [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) in the CaCA superfamily. Comparison with the archaeal mjNCX (PDB 3V5U), which represents a periplasm-facing conformation, shows that translational movements of the M1/M6 helices act as a piston-like mechanism to alternately occlude and expose intake and efflux pathways. The M2a helix shifts by ~16 Å between the two conformations. Key residues Glu106 and Glu302 coordinate the active site Ca2+ ion, while Glu83, Asp234, and Glu230 coordinate two regulatory Ca2+ ions at the acidic helix.
+The Vcx1 structure reveals a cytosol-facing, substrate-bound conformation, providing the structural basis for an [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) in the CaCA superfamily. Comparison with the archaeal mjNCX (PDB 3V5U), which represents a periplasm-facing conformation, shows that translational movements of the M1/M6 helices act as a piston-like mechanism to alternately occlude and expose intake and efflux pathways. The M2a helix shifts by ~16 Å between the two conformations. Key residues Glu106 and Glu302 coordinate the active site Ca2+ ion, while Glu83, Asp234, and Glu230 coordinate two regulatory Ca2+ ions at the acidic helix.
 
 ### Acidic helix regulation
 
@@ -71,7 +71,7 @@ The acidic motif (the negatively charged loop connecting helices M5 and M6) form
 
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Used for membrane solubilization and purification of Vcx1
 - [Tris (Tris(hydroxymethyl)aminomethane)](/xray-mp-wiki/reagents/buffers/tris/) — Used in lysis, membrane solubilization, and purification buffers
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Related biological concept
+- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers

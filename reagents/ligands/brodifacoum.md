@@ -41,4 +41,4 @@ No comparison data available.
 
 - [Human Vitamin K Epoxide Reductase (HsVKOR)](/xray-mp-wiki/proteins/enzymes/hsvkor/) — Target enzyme bound by brodifacoum
 - [Warfarin](/xray-mp-wiki/reagents/ligands/warfarin/) — Brodifacoum is a potent analog of warfarin (superwarfarin)
-- [Vitamin K Catalytic Cycle](/xray-mp-wiki/concepts/vitamin-k-catalytic-cycle/) — Brodifacoum inhibits the vitamin K cycle through VKOR inhibition
+- [Vitamin K Catalytic Cycle](/xray-mp-wiki/concepts/enzyme-mechanisms/vitamin-k-catalytic-cycle/) — Brodifacoum inhibits the vitamin K cycle through VKOR inhibition

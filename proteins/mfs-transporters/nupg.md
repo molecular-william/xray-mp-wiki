@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-NupG is a nucleoside proton symporter from [Escherichia coli](/xray-mp-wiki/proteins/escherichia-coli-aqpz/) belonging to the nucleoside proton symporter (NHS) family within the [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/). It mediates the transport of nucleosides across the bacterial inner membrane via a proton-coupled mechanism. The first crystal structure of an NHS transporter was solved in this work, revealing an inward-open conformation with 12 transmembrane helices.
+NupG is a nucleoside proton symporter from [Escherichia coli](/xray-mp-wiki/proteins/escherichia-coli-aqpz/) belonging to the nucleoside proton symporter (NHS) family within the [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/). It mediates the transport of nucleosides across the bacterial inner membrane via a proton-coupled mechanism. The first crystal structure of an NHS transporter was solved in this work, revealing an inward-open conformation with 12 transmembrane helices.
 
 ## Structure Determination
 
@@ -86,9 +86,9 @@ Despite only 27% sequence identity, YegT and NupG share high structural conserva
 
 ## Cross-References
 
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/) — NupG belongs to the MFS family, specifically the NHS family
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Core transport mechanism shared by MFS transporters
-- [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/rocker-switch-mechanism/) — MFS-specific variant of alternating access mechanism
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — NupG belongs to the MFS family, specifically the NHS family
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Core transport mechanism shared by MFS transporters
+- [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/) — MFS-specific variant of alternating access mechanism
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — NupG and YegT both crystallized by LCP method with monoolein
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent for membrane solubilization of NupG
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Primary lipid component of LCP crystallization matrix

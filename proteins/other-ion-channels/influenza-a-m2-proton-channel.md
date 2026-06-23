@@ -155,7 +155,7 @@ The 3.0 A structure of M2(21-61) V27A (6OUG) reveals that residues Asp44, Arg45,
 
 - [Amantadine](/xray-mp-wiki/reagents/ligands/amantadine/) — Adamantyl-amine inhibitor targeting M2 proton channel
 - [Rimantadine](/xray-mp-wiki/reagents/ligands/rimantadine/) — Adamantyl-amine inhibitor targeting M2 proton channel
-- [M2 Proton Channel Conformational Equilibrium](/xray-mp-wiki/concepts/m2-conformational-equilibrium/) — Conformational dynamics between Inward_open and Inward_closed states
+- [M2 Proton Channel Conformational Equilibrium](/xray-mp-wiki/concepts/transport-mechanisms/m2-conformational-equilibrium/) — Conformational dynamics between Inward_open and Inward_closed states
 - [Influenza A M2 Proton Channel S31N Mutant](/xray-mp-wiki/proteins/other-ion-channels/influenza-a-m2-proton-channel-s31n/) — Drug resistance mutant of M2
 - [Spiro-Adamantyl Amine](/xray-mp-wiki/reagents/ligands/spiro-adamantyl-amine/) — Inhibitor that binds both WT and V27A mutant M2 channels
-- [Proton Wire](/xray-mp-wiki/concepts/proton-wire/) — Water networks in the M2 pore mediate proton conduction via Grotthuss mechanism
+- [Proton Wire](/xray-mp-wiki/concepts/transport-mechanisms/proton-wire/) — Water networks in the M2 pore mediate proton conduction via Grotthuss mechanism

@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-The human P2Y1 receptor (P2Y1R) is a class A [G Protein](/xray-mp-wiki/concepts/g-protein/)-coupled receptor ([GPCR](/xray-mp-wiki/concepts/gpcr/)) that serves as a critical target for antithrombotic therapy. It is activated by adenosine 5'-diphosphate ([ADP](/xray-mp-wiki/reagents/ligands/adp/)) and facilitates platelet aggregation, playing a pivotal role in thrombosis formation. Unlike the Gi-coupled P2Y12 receptor, P2Y1R is Gq-coupled and has been suggested to offer a safety advantage over P2Y12R inhibitors with reduced bleeding liabilities. The receptor is also involved in vascular inflammation and calcium wave propagation in astrocytes. Two distinct ligand-binding sites were revealed: an orthosteric site within the transmembrane bundle and an allosteric site on the external receptor interface with the lipid bilayer.
+The human P2Y1 receptor (P2Y1R) is a class A [G Protein](/xray-mp-wiki/concepts/signaling-receptors/g-protein/)-coupled receptor ([GPCR](/xray-mp-wiki/concepts/signaling-receptors/gpcr/)) that serves as a critical target for antithrombotic therapy. It is activated by adenosine 5'-diphosphate ([ADP](/xray-mp-wiki/reagents/ligands/adp/)) and facilitates platelet aggregation, playing a pivotal role in thrombosis formation. Unlike the Gi-coupled P2Y12 receptor, P2Y1R is Gq-coupled and has been suggested to offer a safety advantage over P2Y12R inhibitors with reduced bleeding liabilities. The receptor is also involved in vascular inflammation and calcium wave propagation in astrocytes. Two distinct ligand-binding sites were revealed: an orthosteric site within the transmembrane bundle and an allosteric site on the external receptor interface with the lipid bilayer.
 
 
 ## Structure Determination
@@ -72,7 +72,7 @@ The human P2Y1 receptor (P2Y1R) is a class A [G Protein](/xray-mp-wiki/concepts/
 
 ### Two distinct ligand-binding sites
 
-The P2Y1R structures reveal two distinct ligand-binding sites. [MRS2500](/xray-mp-wiki/reagents/ligands/mrs2500/) recognizes an orthosteric binding site within the seven transmembrane bundle, located closer to the extracellular surface than typical [GPCR](/xray-mp-wiki/concepts/gpcr/) antagonist binding sites. [BPTU](/xray-mp-wiki/reagents/ligands/bptu/) binds to an allosteric pocket on the external receptor interface with the lipid bilayer, making it the first structurally characterized selective [GPCR](/xray-mp-wiki/concepts/gpcr/) ligand located entirely outside of the helical bundle.
+The P2Y1R structures reveal two distinct ligand-binding sites. [MRS2500](/xray-mp-wiki/reagents/ligands/mrs2500/) recognizes an orthosteric binding site within the seven transmembrane bundle, located closer to the extracellular surface than typical [GPCR](/xray-mp-wiki/concepts/signaling-receptors/gpcr/) antagonist binding sites. [BPTU](/xray-mp-wiki/reagents/ligands/bptu/) binds to an allosteric pocket on the external receptor interface with the lipid bilayer, making it the first structurally characterized selective [GPCR](/xray-mp-wiki/concepts/signaling-receptors/gpcr/) ligand located entirely outside of the helical bundle.
 
 ### MRS2500 orthosteric binding mode
 
@@ -104,6 +104,6 @@ The P2Y1R structures share a canonical seven-transmembrane helical bundle archit
 - [2-Methylthio-ADP (2MeSADP)](/xray-mp-wiki/reagents/ligands/2me-sadp/) — Radiolabeled agonist analog used in binding assays for mutagenesis
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for membrane protein solubilization
 - [Cholesteryl Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Lipid additive used in combination with DDM for protein stabilization
-- [P2Y Receptor Family](/xray-mp-wiki/concepts/p2y-receptor-family/) — P2Y1R is a Gq-coupled member of the P2Y purinergic GPCR family
-- [G Protein](/xray-mp-wiki/concepts/g-protein/) — Related protein
-- [Gpcr](/xray-mp-wiki/concepts/gpcr/) — Related protein
+- [P2Y Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/p2y-receptor-family/) — P2Y1R is a Gq-coupled member of the P2Y purinergic GPCR family
+- [G Protein](/xray-mp-wiki/concepts/signaling-receptors/g-protein/) — Related protein
+- [Gpcr](/xray-mp-wiki/concepts/signaling-receptors/gpcr/) — Related protein

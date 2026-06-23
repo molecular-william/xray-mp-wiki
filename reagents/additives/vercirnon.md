@@ -58,4 +58,4 @@ No comparison data available.
 ## Cross-References
 
 - [CC Chemokine Receptor 9 (CCR9)](/xray-mp-wiki/proteins/gpcr/ccr9/) — Vercirnon is the antagonist bound to CCR9 in the crystal structure
-- [Intracellular Allosteric Antagonism](/xray-mp-wiki/concepts/intracellular-allosteric-antagonism/) — Vercirnon is the structural exemplar of this mechanism of GPCR inhibition
+- [Intracellular Allosteric Antagonism](/xray-mp-wiki/concepts/signaling-receptors/intracellular-allosteric-antagonism/) — Vercirnon is the structural exemplar of this mechanism of GPCR inhibition

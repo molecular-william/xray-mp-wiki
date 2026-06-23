@@ -103,5 +103,5 @@ while TM6 appears primed for G-protein engagement.
 - [T4 Lysozyme (T4L) fusion](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — T4L insertion in ICL3 enabled crystallization
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used for ETB receptor crystallization
 - [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Receptor expressed in Sf9 insect cells via Bac-to-Bac system
-- [GPCR Active Conformation](/xray-mp-wiki/concepts/gpcr-active-conformation/) — ET-1 binding induces conformational changes characteristic of GPCR activation
+- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — ET-1 binding induces conformational changes characteristic of GPCR activation
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

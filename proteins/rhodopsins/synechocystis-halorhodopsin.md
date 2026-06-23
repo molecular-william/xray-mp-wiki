@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/proteins/rhodopsins/halorhodopsin/) (SyHR) is a light-driven anion pump from the cyanobacterium Synechocystis sp. PCC 7509. It belongs to a clade of cyanobacterial anion-pumping [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) characterized by the TSD motif (T74, S78, D85 in helix C). SyHR is the only known natural microbial rhodopsin proposed to pump divalent anions such as sulfate in addition to monovalent halides like chloride. The protein functions as an inward Cl- pump and has potential as a next-generation optogenetics tool due to its high chloride affinity (Kd 0.112 mM) and ability to pump against strong concentration gradients. SyHR forms trimers in lipid membranes and contains a [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) chromophore covalently bound to K205 via a Schiff base.
+Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/proteins/rhodopsins/halorhodopsin/) (SyHR) is a light-driven anion pump from the cyanobacterium Synechocystis sp. PCC 7509. It belongs to a clade of cyanobacterial anion-pumping [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) characterized by the TSD motif (T74, S78, D85 in helix C). SyHR is the only known natural microbial rhodopsin proposed to pump divalent anions such as sulfate in addition to monovalent halides like chloride. The protein functions as an inward Cl- pump and has potential as a next-generation optogenetics tool due to its high chloride affinity (Kd 0.112 mM) and ability to pump against strong concentration gradients. SyHR forms trimers in lipid membranes and contains a [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) chromophore covalently bound to K205 via a Schiff base.
 
 
 ## Structure Determination
@@ -61,7 +61,7 @@ Synechocystis [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/pr
 
 ### Unique retinal isomerization in K state
 
-The K state intermediate of SyHR reveals a unique 6-s-cis, 12-s-cis [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) configuration never previously observed in [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/). This isomerization causes the polyene chain to rotate 180 degrees from atoms C7 to C12, shifting C20 by 1.7 A toward L82 and the beta-ionone ring by almost 2 A toward the cytoplasmic side. W75 rotates 10 degrees and L82 reorients to accommodate the cofactor. This suggests a unique primary photochemical reaction in SyHR.
+The K state intermediate of SyHR reveals a unique 6-s-cis, 12-s-cis [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) configuration never previously observed in [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/). This isomerization causes the polyene chain to rotate 180 degrees from atoms C7 to C12, shifting C20 by 1.7 A toward L82 and the beta-ionone ring by almost 2 A toward the cytoplasmic side. W75 rotates 10 degrees and L82 reorients to accommodate the cofactor. This suggests a unique primary photochemical reaction in SyHR.
 
 ### Chloride release pathway through H167
 
@@ -74,7 +74,7 @@ SyHR's unique ability to pump sulfate is attributed to a large extracellular cav
 
 ## Cross-References
 
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — Related biological concept
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/proteins/rhodopsins/halorhodopsin/) — Related protein structure
 - [Ammonium Sulfate](/xray-mp-wiki/reagents/additives/ammonium-sulfate/) — Additive used in purification or crystallization buffers

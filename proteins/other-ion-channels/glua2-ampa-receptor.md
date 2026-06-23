@@ -189,8 +189,8 @@ The low-resolution (8 A) X-ray structure of GluA2 in complex with FW alone (dese
 
 ## Cross-References
 
-- [Non-competitive Inhibition](/xray-mp-wiki/concepts/non-competitive-inhibition/) — 4-BCCA and GYKI53655 are non-competitive inhibitors of AMPA receptors binding at distinct TMD sites from the orthosteric glutamate site
-- [C-type Inactivation](/xray-mp-wiki/concepts/c-type-inactivation/) — AMPA receptor gating and desensitization involve TMD conformational changes modulated by antagonist and NAM binding
+- [Non-competitive Inhibition](/xray-mp-wiki/concepts/enzyme-mechanisms/non-competitive-inhibition/) — 4-BCCA and GYKI53655 are non-competitive inhibitors of AMPA receptors binding at distinct TMD sites from the orthosteric glutamate site
+- [C-type Inactivation](/xray-mp-wiki/concepts/structural-mechanisms/c-type-inactivation/) — AMPA receptor gating and desensitization involve TMD conformational changes modulated by antagonist and NAM binding
 - [Peg](/xray-mp-wiki/reagents/additives/peg/) — Referenced in glua2-ampa-receptor text
 - [Tris](/xray-mp-wiki/reagents/buffers/tris/) — Referenced in glua2-ampa-receptor text
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Referenced in glua2-ampa-receptor text

@@ -85,8 +85,8 @@ The paper proposes a new classification of bacterial pumps based on the relation
 
 ## Cross-References
 
-- [3 Omega Motif in Microbial Rhodopsins](/xray-mp-wiki/concepts/3-omega-motif/) — GR has a conserved 3-omega motif (Phe38, Trp95, Tyr106) essential for B-C loop orientation
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — GR is a microbial rhodopsin; the paper provides structural basis for function and oligomerization
-- [Proton Pump Mechanism in Bacteriorhodopsin](/xray-mp-wiki/concepts/proton-pump-mechanism/) — GR is a light-driven proton pump with a distinct hydrogen bonding network compared to BR
+- [3 Omega Motif in Microbial Rhodopsins](/xray-mp-wiki/concepts/structural-mechanisms/3-omega-motif/) — GR has a conserved 3-omega motif (Phe38, Trp95, Tyr106) essential for B-C loop orientation
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — GR is a microbial rhodopsin; the paper provides structural basis for function and oligomerization
+- [Proton Pump Mechanism in Bacteriorhodopsin](/xray-mp-wiki/concepts/transport-mechanisms/proton-pump-mechanism/) — GR is a light-driven proton pump with a distinct hydrogen bonding network compared to BR
 - [Xanthorhodopsin (XR)](/xray-mp-wiki/proteins/rhodopsins/xanthorhodopsin/) — GR is structurally most similar to XR (RMSD 1.69 Angstroms) and shares the XR-type proton pump features
 - [Bacteriorhodopsin (bR)](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Compared with BR (RMSD 3.33 Angstroms) to highlight structural differences in hydrogen bonding network and oligomerization

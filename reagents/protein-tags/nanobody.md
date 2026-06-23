@@ -48,4 +48,4 @@ No comparison data available.
 - [Nickel-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) — Both nanobody and carrier engineered with His-tags for co-purification
 - [Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) — Included in purification buffer (0.02 mg/mL tetraoleoyl cardiolipin)
 - [Turkey Beta1-Adrenergic Receptor (beta1AR)](/xray-mp-wiki/proteins/gpcr/beta1-adrenergic-receptor/) — Nb80 used to stabilize active state for beta1AR agonist-bound structures
-- [GPCR Active State High-Affinity Agonist Binding](/xray-mp-wiki/concepts/gpcr-active-state-high-affinity-agonist-binding/) — Nb80-stabilized active state enabled comparison with inactive state structures
+- [GPCR Active State High-Affinity Agonist Binding](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-state-high-affinity-agonist-binding/) — Nb80-stabilized active state enabled comparison with inactive state structures

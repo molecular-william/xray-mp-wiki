@@ -146,9 +146,9 @@ bilayer.
 
 ## Cross-References
 
-- [ABC Transporter Family](/xray-mp-wiki/concepts/abc-transporter-family/) — CmABCB1 is a member of the ABC transporter superfamily
-- [Inward-Facing Conformation](/xray-mp-wiki/concepts/inward-facing-conformation/) — Structures capture inward-open apo and inhibitor-bound states
-- [Outward-Facing Conformation](/xray-mp-wiki/concepts/outward-facing-conformation/) — The 1.9 Å structure captures the outward-facing nucleotide-bound state
+- [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — CmABCB1 is a member of the ABC transporter superfamily
+- [Inward-Facing Conformation](/xray-mp-wiki/concepts/transport-mechanisms/inward-facing-conformation/) — Structures capture inward-open apo and inhibitor-bound states
+- [Outward-Facing Conformation](/xray-mp-wiki/concepts/transport-mechanisms/outward-facing-conformation/) — The 1.9 Å structure captures the outward-facing nucleotide-bound state
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — IMAC was used for initial purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — SEC was used as a final purification step
 - [Sitting Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — Crystals were grown by sitting drop vapor diffusion

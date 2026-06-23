@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-AaWzmWzt is an [ABC Transporter](/xray-mp-wiki/concepts/abc-transporter-family/) from Aquifex aeolicus responsible for translocating O antigen polysaccharides across the inner membrane in Gram-negative bacteria. The ATP-bound crystal structure (EQ mutant) reveals a continuous transmembrane channel with lateral openings toward the periplasm. The structure shows large structural changes in NBDs and TMDs upon ATP binding, pushing conserved hydrophobic residues at the substrate entry site toward the periplasm. The channel's periplasmic exit is sealed by lipid molecules in a proposed lipid gating mechanism that maintains the membrane permeability barrier. The isolated carbohydrate-binding domain (CBD) of Wzt was determined at 2.65 A resolution, revealing a jelly-roll fold with beta strand exchange between protomers in the dimer. The CBD interacts with the O antigen polysaccharide and may regulate the transporter's ATPase activity.
+AaWzmWzt is an [ABC Transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) from Aquifex aeolicus responsible for translocating O antigen polysaccharides across the inner membrane in Gram-negative bacteria. The ATP-bound crystal structure (EQ mutant) reveals a continuous transmembrane channel with lateral openings toward the periplasm. The structure shows large structural changes in NBDs and TMDs upon ATP binding, pushing conserved hydrophobic residues at the substrate entry site toward the periplasm. The channel's periplasmic exit is sealed by lipid molecules in a proposed lipid gating mechanism that maintains the membrane permeability barrier. The isolated carbohydrate-binding domain (CBD) of Wzt was determined at 2.65 A resolution, revealing a jelly-roll fold with beta strand exchange between protomers in the dimer. The CBD interacts with the O antigen polysaccharide and may regulate the transporter's ATPase activity.
 
 
 ## Structure Determination
@@ -97,9 +97,9 @@ The CBD likely contacts the NBD at a short alpha helix following the conserved H
 
 ## Cross-References
 
-- [ABC Transporter Family](/xray-mp-wiki/concepts/abc-transporter-family/) — WzmWzt is a type II ABC transporter for O antigen export
-- [Type II ABC Transporter Family](/xray-mp-wiki/concepts/type-ii-abc-transporter-family/) — WzmWzt is a member of the type II ABC transporter family
-- [Outward-Facing Conformation](/xray-mp-wiki/concepts/outward-facing-conformation/) — The ATP-bound structure represents the outward-facing state
+- [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — WzmWzt is a type II ABC transporter for O antigen export
+- [Type II ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/type-ii-abc-transporter-family/) — WzmWzt is a member of the type II ABC transporter family
+- [Outward-Facing Conformation](/xray-mp-wiki/concepts/transport-mechanisms/outward-facing-conformation/) — The ATP-bound structure represents the outward-facing state
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Ni-NTA affinity chromatography was used for purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — SEC was used as a final purification step
 - [C12E8](/xray-mp-wiki/reagents/detergents/c12e8/) — Detergent used for solubilization at 2% (w/v)

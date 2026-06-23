@@ -41,4 +41,4 @@ No comparison data available.
 
 - [Human Vitamin K Epoxide Reductase (HsVKOR)](/xray-mp-wiki/proteins/enzymes/hsvkor/) — Target enzyme bound by phenindione
 - [Warfarin](/xray-mp-wiki/reagents/ligands/warfarin/) — Alternative chemical class (indandione vs coumarin) with same mechanism of action
-- [Vitamin K Catalytic Cycle](/xray-mp-wiki/concepts/vitamin-k-catalytic-cycle/) — Phenindione inhibits the vitamin K cycle through VKOR inhibition
+- [Vitamin K Catalytic Cycle](/xray-mp-wiki/concepts/enzyme-mechanisms/vitamin-k-catalytic-cycle/) — Phenindione inhibits the vitamin K cycle through VKOR inhibition

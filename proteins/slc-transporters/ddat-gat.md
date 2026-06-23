@@ -66,8 +66,8 @@ SKF89976a binds not only at the primary S1 site but also at an allosteric site i
 ## Cross-References
 
 - [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/slc-transporters/d-dopamine-transporter/) — Parent construct; dDAT_GAT is derived from dDAT with 11 GAT1-like substitutions
-- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/nss-family/) — dDAT_GAT is an engineered NSS family member
-- [GABA Transporters (GATs)](/xray-mp-wiki/concepts/gaba-transporters-gats/) — dDAT_GAT was engineered to mimic the GAT1 binding site
-- [Allosteric Site in NSS Transporters](/xray-mp-wiki/concepts/allosteric-site-in-nss-transporters/) — SKF89976a binds the allosteric site in the extracellular vestibule of dDAT_GAT
+- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/transport-mechanisms/nss-family/) — dDAT_GAT is an engineered NSS family member
+- [GABA Transporters (GATs)](/xray-mp-wiki/concepts/transport-mechanisms/gaba-transporters-gats/) — dDAT_GAT was engineered to mimic the GAT1 binding site
+- [Allosteric Site in NSS Transporters](/xray-mp-wiki/concepts/transport-mechanisms/allosteric-site-in-nss-transporters/) — SKF89976a binds the allosteric site in the extracellular vestibule of dDAT_GAT
 - [NO711](/xray-mp-wiki/reagents/ligands/no711/) — GAT1 inhibitor co-crystallized with dDAT_GAT at primary binding site
 - [SKF89976a](/xray-mp-wiki/reagents/ligands/skf89976a/) — GAT1 inhibitor bound at both primary and allosteric sites

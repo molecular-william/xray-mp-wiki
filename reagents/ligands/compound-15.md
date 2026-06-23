@@ -51,5 +51,5 @@ No comparison data available.
 
 - [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Primary target of Cmpd-15 negative allosteric modulation
 - [Cmpd-15PA (Compound-15PA)](/xray-mp-wiki/reagents/ligands/compound-15-pa/) — PEG-COOH modified derivative of Cmpd-15 used for crystallography
-- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/allosteric-regulation/) — Cmpd-15 is the first allosteric beta-blocker
+- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — Cmpd-15 is the first allosteric beta-blocker
 - [Nb35 Nanobody](/xray-mp-wiki/proteins/nb35/) — Nanobody used in comparative allosteric modulation studies

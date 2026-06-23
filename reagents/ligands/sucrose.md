@@ -51,5 +51,5 @@ No comparison data available.
 ## Cross-References
 
 - [LbSemiSWEET from Leptospira biflexa](/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/) — Related sugar transporter; LbSemiSWEET transports glucose instead of sucrose
-- [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet/) — Sucrose is the substrate for SemiSWEET transporters including BjSemiSWEET1
-- [SWEET Transporter Family](/xray-mp-wiki/concepts/sweet-transporter/) — Sucrose is a substrate for several SWEET family members in plants
+- [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) — Sucrose is the substrate for SemiSWEET transporters including BjSemiSWEET1
+- [SWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/sweet-transporter/) — Sucrose is a substrate for several SWEET family members in plants

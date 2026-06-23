@@ -73,7 +73,7 @@ An intramembrane loop (connecting helices M2a to M2b in repeat D3), composed alm
 
 ### C-terminal domain interaction
 
-The long C-terminus of KtrB runs from one subunit, forms a lateral contact, and snakes into the cytoplasmic pore of the neighbouring KtrB subunit, finishing just below the intramembrane loop. The last seven residues line the wall of the cytoplasmic pore of the neighbouring subunit. The highly conserved C-terminal [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) (G445) has its carboxylate interacting with a lysine (K315 in KtrB) that is part of the intramembrane loop and conserved in both Ktr and Trk transporters. Sequential [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) of up to three C-terminal residues has no effect or only minor effects on K+ transport activity.
+The long C-terminus of KtrB runs from one subunit, forms a lateral contact, and snakes into the cytoplasmic pore of the neighbouring KtrB subunit, finishing just below the intramembrane loop. The last seven residues line the wall of the cytoplasmic pore of the neighbouring subunit. The highly conserved C-terminal [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) (G445) has its carboxylate interacting with a lysine (K315 in KtrB) that is part of the intramembrane loop and conserved in both Ktr and Trk transporters. Sequential [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) of up to three C-terminal residues has no effect or only minor effects on K+ transport activity.
 
 ### Comparison with TrkH
 
@@ -92,7 +92,7 @@ KtrB alone allows K+ into cells but less efficiently than the full KtrAB complex
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used for KtrB membrane protein extraction and solubilization
 - [Cymal-6](/xray-mp-wiki/reagents/detergents/cymal-6/) — Cymal-6 detergent used for KtrAB complex crystallization after detergent exchange
 - [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) — Tris-HCl buffer used throughout KtrB purification (pH 8.0)
-- [RCK Domain Activation Mechanism](/xray-mp-wiki/concepts/rck-domain-activation-mechanism/) — KtrA contains RCK domains that form an octameric gating ring; KtrAB activation mechanism differs from MthK and BK channels
-- [Ion Channel Selectivity Filter](/xray-mp-wiki/concepts/selectivity-filter/) — KtrB selectivity filter is funnel-shaped and shares architectural similarity with potassium channel pores
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [RCK Domain Activation Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rck-domain-activation-mechanism/) — KtrA contains RCK domains that form an octameric gating ring; KtrAB activation mechanism differs from MthK and BK channels
+- [Ion Channel Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/) — KtrB selectivity filter is funnel-shaped and shares architectural similarity with potassium channel pores
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification

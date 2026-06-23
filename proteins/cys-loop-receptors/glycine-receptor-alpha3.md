@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-The human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha-3 subunit (GlyRα3) is a [Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/cys-loop-receptor-family/) ([Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/cys-loop-receptor-family/)) belonging to the [Cys-Loop Receptor Family](/xray-mp-wiki/concepts/cys-loop-receptor-family/) family. [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptors mediate fast inhibitory synaptic transmission in the spinal cord and brainstem and play key roles in motor coordination and inflammatory pain processing. Disruption of GlyR function causes hyperekplexia, a neurological disorder with exaggerated startle response. In vivo, GlyRs exist as homopentamers of α-subunits or heteropentamers of α- and β-subunits. The GlyRα3 homopentamer structure presented here represents the first crystallographic analysis of a [Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/cys-loop-receptor-family/) in the antagonist-induced inactive state.
+The human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha-3 subunit (GlyRα3) is a [Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) ([Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/)) belonging to the [Cys-Loop Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) family. [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptors mediate fast inhibitory synaptic transmission in the spinal cord and brainstem and play key roles in motor coordination and inflammatory pain processing. Disruption of GlyR function causes hyperekplexia, a neurological disorder with exaggerated startle response. In vivo, GlyRs exist as homopentamers of α-subunits or heteropentamers of α- and β-subunits. The GlyRα3 homopentamer structure presented here represents the first crystallographic analysis of a [Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) in the antagonist-induced inactive state.
 
 
 ## Structure Determination
@@ -68,7 +68,7 @@ The ion channel pore of GlyRα3 is lined by the transmembrane helix M2. The narr
 
 ### Antagonist-induced conformational changes
 
-[Strychnine](/xray-mp-wiki/reagents/ligands/strychnine/) binds in a larger orthosteric pocket in the extracellular domain, and loop C of GlyRα3 adopts an open conformation. The M2-M3 loop is displaced inwards towards the pore, the pore-lining M2 helix tilts in a direction opposite to that observed in active conformations of related pLGICs, and the pore is shut. This represents the first crystallographic analysis of a [Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/cys-loop-receptor-family/) in the inactive state induced by a competitive antagonist.
+[Strychnine](/xray-mp-wiki/reagents/ligands/strychnine/) binds in a larger orthosteric pocket in the extracellular domain, and loop C of GlyRα3 adopts an open conformation. The M2-M3 loop is displaced inwards towards the pore, the pore-lining M2 helix tilts in a direction opposite to that observed in active conformations of related pLGICs, and the pore is shut. This represents the first crystallographic analysis of a [Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) in the inactive state induced by a competitive antagonist.
 
 ### ECD-TMD interface and signal transduction
 
@@ -81,7 +81,7 @@ Highly conserved residue Pro250 (Pro-2') of M2 is critical for ion selectivity; 
 
 ## Cross-References
 
-- [Cys-Loop Receptor Family](/xray-mp-wiki/concepts/cys-loop-receptor-family/) — GlyRα3 belongs to the Cys-loop receptor (pLGIC) family
+- [Cys-Loop Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) — GlyRα3 belongs to the Cys-loop receptor (pLGIC) family
 - [GluCl (GABA-Gated Chloride Channel from C. elegans)](/xray-mp-wiki/proteins/cys-loop-receptors/glucl/) — Used as molecular replacement search model; key comparative structure for pLGIC gating
 - [ELIC (Erwinia chrysanthemi Ligand-gated Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/elic/) — Prokaryotic pLGIC homologue used for structural comparisons
 - [GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/glic/) — Prokaryotic pLGIC homologue for structural comparisons
@@ -89,5 +89,5 @@ Highly conserved residue Pro250 (Pro-2') of M2 is critical for ion selectivity; 
 - [Mouse 5-HT3A Receptor](/xray-mp-wiki/proteins/cys-loop-receptors/mouse-5ht3a-receptor/) — Related eukaryotic Cys-loop receptor structure
 - [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) — Native neurotransmitter ligand of glycine receptors
 - [Isothermal Titration Calorimetry (ITC)](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/) — Used to measure strychnine binding thermodynamics to GlyRα3
-- [Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/cys-loop-receptor-family/) — Referenced in glycine-receptor-alpha3
+- [Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) — Referenced in glycine-receptor-alpha3
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Referenced in glycine-receptor-alpha3

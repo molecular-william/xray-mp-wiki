@@ -87,5 +87,5 @@ The V377T substitution also affects the interaction of E346 in the S4-S5 linker 
 
 - [Shaker Kv1.2 Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/shaker-kv1-2/) — Parent channel; wild-type Kv1.2-2.1 structure (PDB 2R9R) used as molecular replacement model
 - [Kv1.2-2.1 V406W Mutant Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kv1-2-2-1-v406w/) — Previously proposed C-type inactivated state structure; comparison of filter dilation magnitude
-- [C-type Inactivation](/xray-mp-wiki/concepts/c-type-inactivation/) — Primary structural evidence for selectivity filter dilation in C-type inactivation
+- [C-type Inactivation](/xray-mp-wiki/concepts/structural-mechanisms/c-type-inactivation/) — Primary structural evidence for selectivity filter dilation in C-type inactivation
 - [KcsA Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/) — KcsA inactivation mechanism shares similarity with C-type inactivation in Kv channels

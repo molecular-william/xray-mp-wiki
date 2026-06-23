@@ -93,4 +93,4 @@ IrtAB imports both Fe-MBT and Fe-cMBT across the inner mycobacterial membrane. F
 - [n-Decyl-beta-D-Maltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Detergent used in purification and crystallization of IrtAB
 - [n-Dodecyl-beta-d-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for membrane extraction and purification of IrtAB
 - [Nanodisc Reconstitution](/xray-mp-wiki/methods/solubilization/nanodisc-reconstitution/) — IrtAB was reconstituted into nanodiscs for ATPase activity measurements
-- [ABC Transporter Family](/xray-mp-wiki/concepts/abc-transporter-family/) — IrtAB belongs to the ABC transporter superfamily with an exporter fold
+- [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — IrtAB belongs to the ABC transporter superfamily with an exporter fold

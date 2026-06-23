@@ -77,7 +77,7 @@ Two aqueous half-channels at the subunit a/c-ring interface conduct protons to a
 
 ## Cross-References
 
-- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/rotary-atpase-mechanism/) — ATP synthase operates by rotary catalysis
+- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/) — ATP synthase operates by rotary catalysis
 - [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Primary structure determination method for the full dimer; combined with X-ray crystallography
 - [ATP](/xray-mp-wiki/reagents/ligands/atp/) — Main product of the ATP synthase
 - [ADP](/xray-mp-wiki/reagents/ligands/adp/) — Substrate for ATP synthesis; found in the X-ray structure

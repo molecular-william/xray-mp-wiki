@@ -79,8 +79,8 @@ The main chain of xanthorhodopsin differs more from [Bacteriorhodopsin](/xray-mp
 - [Salinixanthin](/xray-mp-wiki/reagents/ligands/salinixanthin/) — Carotenoid antenna chromophore bound to xanthorhodopsin
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Primary chromophore of xanthorhodopsin
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Archaeal homolog with different proton release mechanism
-- [Proton Release Complex](/xray-mp-wiki/concepts/proton-release-complex/) — Xanthorhodopsin lacks the canonical proton release complex found in BR
-- [Evolution of Rhodopsins](/xray-mp-wiki/concepts/evolution-of-rhodopsins/) — Xanthorhodopsin reveals evolutionary divergence between archaeal and eubacterial proton pumps
+- [Proton Release Complex](/xray-mp-wiki/concepts/rhodopsin-mechanisms/proton-release-complex/) — Xanthorhodopsin lacks the canonical proton release complex found in BR
+- [Evolution of Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/evolution-of-rhodopsins/) — Xanthorhodopsin reveals evolutionary divergence between archaeal and eubacterial proton pumps
 - [Bicelle Crystallization](/xray-mp-wiki/methods/crystallization/bicelle-crystallization/) — Structure was solved from crystals grown in bicelle medium
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [Anabaena Sensory Rhodopsin](/xray-mp-wiki/proteins/rhodopsins/anabaena-sensory-rhodopsin/) — Related protein structure

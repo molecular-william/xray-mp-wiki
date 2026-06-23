@@ -20,7 +20,7 @@ DraNramp is a divalent metal transporter from Deinococcus radiodurans belonging 
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.str.2016.09.017 | 5KTE | 3.94 A | I222 | Full-length DraNramp from Deinococcus radiodurans with surface patch mutations (QK169-170HH, EEK251-3YYY, RR398-9HH) and N-terminal 25-residue [Truncation](/xray-mp-wiki/concepts/truncation/), co-crystallized with Fab fragment | none (apo, inward-facing state) |
+| doi/10.1016##j.str.2016.09.017 | 5KTE | 3.94 A | I222 | Full-length DraNramp from Deinococcus radiodurans with surface patch mutations (QK169-170HH, EEK251-3YYY, RR398-9HH) and N-terminal 25-residue [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/), co-crystallized with Fab fragment | none (apo, inward-facing state) |
 | doi/10.7554##eLife.84006 | 8E5V | 2.36 A | P 2 21 21 | WT DraNramp metal-free occluded | none (apo, occluded state) |
 | doi/10.7554##eLife.84006 | 8E60 | 2.38 A | P 2 21 21 | WT DraNramp Mn2+-bound occluded | Mn2+ (orthosteric and external sites) |
 | doi/10.7554##eLife.84006 | 8E6I | 2.52 A | P 2 21 21 | M230A DraNramp Mn2+-bound inward-open | Mn2+ (orthosteric and external sites) |
@@ -29,7 +29,7 @@ DraNramp is a divalent metal transporter from Deinococcus radiodurans belonging 
 ## Expression and Purification
 
 - **Expression system**: Escherichia coli C41(DE3)
-- **Construct**: DraNramp with N-terminal 25-residue [Truncation](/xray-mp-wiki/concepts/truncation/) and surface patch mutations, cloned into pET21-N8H
+- **Construct**: DraNramp with N-terminal 25-residue [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) and surface patch mutations, cloned into pET21-N8H
 
 ### Purification Workflow
 
@@ -119,9 +119,9 @@ The Cd2+-bound structure (PDB 8E6M, 2.48 A) reveals inward-open conformation wit
 
 ## Cross-References
 
-- [SLC11 (NRAMP) Family](/xray-mp-wiki/concepts/slc11-nramp-family/) — DraNramp is a member of the Nramp/SLC11 family of divalent metal transporters
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — DraNramp operates via alternating access between inward-open and outward-open states
-- [LeuT Return State Mechanism](/xray-mp-wiki/concepts/leut-return-state-mechanism/) — DraNramp adopts the LeuT-fold architecture common to this transporter superfamily
+- [SLC11 (NRAMP) Family](/xray-mp-wiki/concepts/protein-families/slc11-nramp-family/) — DraNramp is a member of the Nramp/SLC11 family of divalent metal transporters
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — DraNramp operates via alternating access between inward-open and outward-open states
+- [LeuT Return State Mechanism](/xray-mp-wiki/concepts/miscellaneous/leut-return-state-mechanism/) — DraNramp adopts the LeuT-fold architecture common to this transporter superfamily
 - [ScaDMT](/xray-mp-wiki/proteins/slc-transporters/sca-dmt/) — Related Nramp family divalent metal transporter from Staphylococcus capitis
 - [N-Dodecyl-beta-D-maltopyranoside (beta-DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for membrane protein solubilization
 - [Decylmaltoside](/xray-mp-wiki/reagents/detergents/dm/) — Detergent used in SEC buffer and crystallization

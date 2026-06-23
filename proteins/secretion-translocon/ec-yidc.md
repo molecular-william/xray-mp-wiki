@@ -105,7 +105,7 @@ The holo-translocon is composed of single copies of YidC,  and SecDFYajC. SecF i
 
 ## Cross-References
 
-- [YidC/Oxa1/Alb3 Insertase Family](/xray-mp-wiki/concepts/yidc-oxa1-alb3-insertase-family/) — YidC is the founding bacterial member of the YidC/Alb3/Oxa1 insertase family
+- [YidC/Oxa1/Alb3 Insertase Family](/xray-mp-wiki/concepts/protein-families/yidc-oxa1-alb3-insertase-family/) — YidC is the founding bacterial member of the YidC/Alb3/Oxa1 insertase family
 - [Secyeg](/xray-mp-wiki/proteins/secretion-translocon/secyeg/) — Referenced in ec-yidc text
 - [Ampicillin](/xray-mp-wiki/reagents/antibiotics/ampicillin/) — Referenced in ec-yidc text
 - [Iptg](/xray-mp-wiki/reagents/additives/iptg/) — Referenced in ec-yidc text

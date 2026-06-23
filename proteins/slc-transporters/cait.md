@@ -118,10 +118,10 @@ The crystal structure of PmCaiT R262E at 3.29 A resolution reveals a 90-degree r
 
 ## Cross-References
 
-- [Betaine/Choline/Carnitine Transporter (BCCT) Family](/xray-mp-wiki/concepts/bcct-family/) — CaiT belongs to the BCCT family; unique Na+-independent antiport mechanism distinguishes it from other BCCT members
+- [Betaine/Choline/Carnitine Transporter (BCCT) Family](/xray-mp-wiki/concepts/transport-mechanisms/bcct-family/) — CaiT belongs to the BCCT family; unique Na+-independent antiport mechanism distinguishes it from other BCCT members
 - [BetP Betaine Transporter from Bacillus subtilis](/xray-mp-wiki/proteins/slc-transporters/betp/) — Structural comparison with BetP (occluded state) provides insights into cytoplasmic gate mechanism
 - [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) — Core architecture comparison; LC-II reciprocal position of LeuT second binding site; outward-facing conformational state speculation
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — CaiT operates via alternating-access mechanism between inward-facing and outward-facing conformations
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — CaiT operates via alternating-access mechanism between inward-facing and outward-facing conformations
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent for CaiT solubilization, purification, and cryoprotection
 - [n-Octyl-beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/n-octyl-beta-d-glucopyranoside/) — Detergent used in crystallization and cryoprotection
 - [HEPES (4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid)](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer used in SEC and crystallization (HEPES-NaOH pH 7.5)
@@ -129,4 +129,4 @@ The crystal structure of PmCaiT R262E at 3.29 A resolution reveals a 90-degree r
 - [Mercury (HgCl2)](/xray-mp-wiki/reagents/additives/mercury/) — Mercury compound (ethylmercurithiosalicylate) used for SIRAS phasing in crystal structure determination
 - [L-Carnitine](/xray-mp-wiki/reagents/ligands/l-carnitine/) — Endogenous substrate and ligand of CaiT; four molecules observed per protomer in crystal structure
 - [Gamma-Butyrobetaine](/xray-mp-wiki/reagents/ligands/gamma-butyrobetaine/) — Endogenous substrate of CaiT antiport exchange with L-carnitine
-- [Arginine Oscillation Mechanism in LeuT-Type Transporters](/xray-mp-wiki/concepts/arginine-oscillation-mechanism/) — This paper establishes the arginine oscillation model where R262 mimics Na+ binding/unbinding in CaiT
+- [Arginine Oscillation Mechanism in LeuT-Type Transporters](/xray-mp-wiki/concepts/transport-mechanisms/arginine-oscillation-mechanism/) — This paper establishes the arginine oscillation model where R262 mimics Na+ binding/unbinding in CaiT

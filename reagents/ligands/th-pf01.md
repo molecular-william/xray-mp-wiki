@@ -63,8 +63,8 @@ No comparison data available.
 - [C3361 (PfHT1 Inhibitor)](/xray-mp-wiki/reagents/ligands/c3361/) — Reference compound that inspired the design of the TH-PF series
 - [TH-PF02](/xray-mp-wiki/reagents/ligands/th-pf02/) — Analogous lead compound from the same TH-PF series
 - [TH-PF03](/xray-mp-wiki/reagents/ligands/th-pf03/) — Most potent analog from the TH-PF series
-- [Orthosteric–Allosteric Dual Inhibition](/xray-mp-wiki/concepts/orthosteric-allosteric-dual-inhibition/) — TH-PF01 exemplifies the dual inhibition strategy
-- [Selective Starvation of Malaria Parasites](/xray-mp-wiki/concepts/selective-starvation/) — TH-PF01 works through the selective starvation mechanism
+- [Orthosteric–Allosteric Dual Inhibition](/xray-mp-wiki/concepts/transport-mechanisms/orthosteric-allosteric-dual-inhibition/) — TH-PF01 exemplifies the dual inhibition strategy
+- [Selective Starvation of Malaria Parasites](/xray-mp-wiki/concepts/miscellaneous/selective-starvation/) — TH-PF01 works through the selective starvation mechanism
 - [Molecular Docking](/xray-mp-wiki/methods/structure-determination/molecular-docking/) — Method used in structure determination or purification
 - [hGLUT1 (Human Glucose Transporter 1)](/xray-mp-wiki/proteins/mfs-transporters/hglut1/) — Related protein structure
 - [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Additive used in purification or crystallization buffers

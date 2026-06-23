@@ -55,4 +55,4 @@ No comparison data available.
 - [M1 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m1-muscarinic-acetylcholine-receptor/) — Primary target; co-crystallized complex PDB 6WJC
 - [Tx24](/xray-mp-wiki/reagents/ligands/tx24/) — Engineered M2-selective variant derived from MT7 by in vitro evolution
 - [Atropine](/xray-mp-wiki/reagents/ligands/atropine/) — Orthosteric antagonist co-crystallized in M1AChR-MT7 complex
-- [Three-Finger Toxin Scaffold for GPCR Modulation](/xray-mp-wiki/concepts/three-finger-toxin-gpcr-modulation/) — MT7 is a prototypical example of 3FT as GPCR modulator
+- [Three-Finger Toxin Scaffold for GPCR Modulation](/xray-mp-wiki/concepts/signaling-receptors/three-finger-toxin-gpcr-modulation/) — MT7 is a prototypical example of 3FT as GPCR modulator

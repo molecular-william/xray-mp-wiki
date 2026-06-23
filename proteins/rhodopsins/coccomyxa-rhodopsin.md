@@ -86,10 +86,10 @@ CsR-WT exhibits a BR-like photocycle with K, M, and O intermediates. Deprotonati
 - [Acetabularia Rhodopsin II](/xray-mp-wiki/proteins/rhodopsins/acetabularia-rhodopsin-ii/) — ARII used as molecular replacement search model (PDB 3AM6)
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Reference proton pump for structural and mechanistic comparison
 - [Archaerhodopsin-3](/xray-mp-wiki/proteins/rhodopsins/archaerhodopsin-3/) — Compared pump-channel dichotomy with CsR findings
-- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-photocycle/) — CsR follows BR-type photocycle with K, M, O intermediates
+- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/) — CsR follows BR-type photocycle with K, M, O intermediates
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — CsR crystallized in monoolein LCP with cholesterol
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Matrix lipid for LCP crystallization of CsR
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for CsR solubilization and purification
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Chromophore covalently bound to Lys215 via Schiff base
-- [Proton Release Complex](/xray-mp-wiki/concepts/proton-release-complex/) — CsR features Glu193-Glu203 proton release complex
-- [Channel Gating](/xray-mp-wiki/concepts/channel-gating/) — CySeR engineering demonstrates pump-channel conversion mechanism
+- [Proton Release Complex](/xray-mp-wiki/concepts/rhodopsin-mechanisms/proton-release-complex/) — CsR features Glu193-Glu203 proton release complex
+- [Channel Gating](/xray-mp-wiki/concepts/transport-mechanisms/channel-gating/) — CySeR engineering demonstrates pump-channel conversion mechanism

@@ -22,7 +22,7 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 1 rece
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
 | doi/10.1074##jbc.M115.689000 | 4ZUD | 2.8 | P32 | BRIL-AT1R fusion; N-terminal truncations: Met1, Thr7-Asp16; C-terminal truncation: residues 320-359 (4 residues shorter than construct used for 4YAY); HA signal sequence, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), 10x [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) (cleaved), TEV cleavage site | [Olmesartan](/xray-mp-wiki/reagents/ligands/olmesartan/) |
-| doi/10.1016##j.cell.2015.04.011 | 4YAY | 2.9 |  | BRIL-AT1R fusion; N-terminal truncations: residue 1, residues 7-16; C-terminal [Protein Truncation for Crystallography](/xray-mp-wiki/concepts/truncation/): residues 320-359; HA signal sequence, FLAG tag, 10x His tag (cleaved), TEV cleavage site | [ZD7155](/xray-mp-wiki/reagents/ligands/zd7155/) |
+| doi/10.1016##j.cell.2015.04.011 | 4YAY | 2.9 |  | BRIL-AT1R fusion; N-terminal truncations: residue 1, residues 7-16; C-terminal [Protein Truncation for Crystallography](/xray-mp-wiki/concepts/methods-techniques/truncation/): residues 320-359; HA signal sequence, FLAG tag, 10x His tag (cleaved), TEV cleavage site | [ZD7155](/xray-mp-wiki/reagents/ligands/zd7155/) |
 | doi/10.1016##j.cell.2018.12.006 | 6DO1 | 2.9 | P21212 | AT1R with BRIL inserted into ICL3 (residues 226-227); I320 stop codon; N-terminal HA signal sequence, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/); no N-terminal deletion | S1I8 (Sarcosine1,Isoleucine8-[Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/)) |
 | doi/10.1126##science.aay9813 | 6OS0 | 2.9 |  | AT1R-AT110i1 nanobody complex | Angiotensin II (AngII) |
 | doi/10.1126##science.aay9813 | 6OS1 | 2.9 |  | AT1R-AT110i1 nanobody complex | TRV023 |
@@ -199,10 +199,10 @@ Helix VIII angles away from the membrane, resembling CCR5 orientation.
 
 ### Beta-arrestin signaling
 
-G protein-independent [Beta-Arrestin](/xray-mp-wiki/concepts/beta-arrestin/) mediated signaling by AT1R confers
+G protein-independent [Beta-Arrestin](/xray-mp-wiki/concepts/signaling-receptors/beta-arrestin/) mediated signaling by AT1R confers
 cardio-protective benefits. Thr336Pro and Pro341His (in the C-terminal tail not
 included in the crystallized construct) affect GPCR kinase-dependent phosphorylation,
-necessary for [Beta-Arrestin](/xray-mp-wiki/concepts/beta-arrestin/) recruitment.
+necessary for [Beta-Arrestin](/xray-mp-wiki/concepts/signaling-receptors/beta-arrestin/) recruitment.
 
 ### Active-state conformational changes
 
@@ -210,7 +210,7 @@ The active-state AT1R (PDB 6DO1) shows an 11 angstrom outward displacement of TM
 rotation of TM5 away from the transducer binding pocket, and inward rotation of TM7.
 ICL2 reorganizes to form a short alpha helix. Helix 8 repositions from a bent
 conformation away from the membrane to a conventional position parallel to the
-membrane near the TM1-TM7 interface. Y302^7.53 of the [NPxxY Motif](/xray-mp-wiki/concepts/npxxy-motif/) rotates 10
+membrane near the TM1-TM7 interface. Y302^7.53 of the [NPxxY Motif](/xray-mp-wiki/concepts/structural-mechanisms/npxxy-motif/) rotates 10
 angstroms inward to hydrogen bond with Y215^5.58 in TM5.
 
 ### Peptide binding mode
@@ -236,7 +236,7 @@ GPCRs.
 The C-terminal residue 8 of AngII determines signaling bias. Ile8 (S1I8) produces
 partial Gq agonism; Phe8 (AngII) produces full Gq agonism but the phenyl ring
 slightly exceeds the cavity size shaped by TM3. Smaller residues or deletions at
-position 8 produce [Beta-Arrestin](/xray-mp-wiki/concepts/beta-arrestin/)-biased ligands. The I8 side chain fits closely
+position 8 produce [Beta-Arrestin](/xray-mp-wiki/concepts/signaling-receptors/beta-arrestin/)-biased ligands. The I8 side chain fits closely
 into a TM3-shaped cavity, and the cavity size relative to residue 8 side chain
 determines the conformational changes propagated through the receptor.
 
@@ -272,9 +272,9 @@ Deviations from the conserved sodium-binding motif are enriched in peptide- and 
 - [Olmesartan](/xray-mp-wiki/reagents/ligands/olmesartan/) — Inverse agonist ARB bound in PDB 4ZUD structure; used for functional selectivity studies
 - [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) — Thermostabilization fusion partner inserted into [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/) ICL3 for PDB 6DO1
 - [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/) — Close homolog with distinct signaling; AT2R structure reveals helix 8 canonical conformation upon [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) binding
-- [Beta-Arrestin](/xray-mp-wiki/concepts/beta-arrestin/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
-- [NPxxY Motif](/xray-mp-wiki/concepts/npxxy-motif/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
+- [Beta-Arrestin](/xray-mp-wiki/concepts/signaling-receptors/beta-arrestin/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
+- [NPxxY Motif](/xray-mp-wiki/concepts/structural-mechanisms/npxxy-motif/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
 - [Immobilized Metal Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
 - [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)

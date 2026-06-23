@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) transporter (SERT, also known as SLC6A4) is a [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/nss-family/) member that terminates serotonergic signalling through the Na+/Cl--coupled reuptake of [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) (5-HT) from the synaptic cleft into presynaptic neurons. SERT is a primary target for antidepressant drugs including selective [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) reuptake inhibitors (SSRIs) such as (S)-citalopram and [Paroxetine](/xray-mp-wiki/reagents/ligands/paroxetine/), as well as psychostimulants. X-ray crystal structures of human SERT bound to antidepressants revealed how diverse SSRIs lock the transporter in an outward-open conformation and identified an allosteric site at the extracellular vestibule.
+The human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) transporter (SERT, also known as SLC6A4) is a [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/transport-mechanisms/nss-family/) member that terminates serotonergic signalling through the Na+/Cl--coupled reuptake of [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) (5-HT) from the synaptic cleft into presynaptic neurons. SERT is a primary target for antidepressant drugs including selective [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) reuptake inhibitors (SSRIs) such as (S)-citalopram and [Paroxetine](/xray-mp-wiki/reagents/ligands/paroxetine/), as well as psychostimulants. X-ray crystal structures of human SERT bound to antidepressants revealed how diverse SSRIs lock the transporter in an outward-open conformation and identified an allosteric site at the extracellular vestibule.
 
 
 ## Structure Determination
@@ -110,8 +110,8 @@ Structures of SERT bound to [Sertraline](/xray-mp-wiki/reagents/ligands/sertrali
 ## Cross-References
 
 - [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) — NSS family prototype sharing the LeuT-fold architecture
-- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/nss-family/) — SERT is a human member of the NSS family (SLC6A4)
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — SERT transport follows alternating access
+- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/transport-mechanisms/nss-family/) — SERT is a human member of the NSS family (SLC6A4)
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — SERT transport follows alternating access
 - [Sertraline](/xray-mp-wiki/reagents/sertraline/) — SSRI antidepressant bound in ts3-sertraline structures
 - [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/serotonin/) — Endogenous substrate of SERT
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for solubilization and purification

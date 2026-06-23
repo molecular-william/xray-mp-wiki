@@ -1,57 +1,81 @@
-title: "Aquaporin Family"
+title: Aquaporin Family
 tags:
-  - concept-protein-family
-  - membrane-protein
+- concept-protein-family
+- membrane-protein
+- subdirectory-transport-mechanisms
 sources:
-  - doi/10.1126##science.1067778
-  - doi/10.1371##journal.pbio.0000072
-  - doi/10.1074##jbc.M508926200
-  - doi/10.1107##s2053230x14024558
-  - doi/10.26508##lsa.202201491
-created: "2026-06-08"
-updated: "2026-06-11"
+- doi/10.1126##science.1067778
+- doi/10.1371##journal.pbio.0000072
+- doi/10.1074##jbc.M508926200
+- doi/10.1107##s2053230x14024558
+- doi/10.26508##lsa.202201491
+created: '2026-06-08'
+updated: '2026-06-11'
 verified: false
-overview: |
-  Aquaporins are water channel proteins that facilitate water transport across
+overview: 'Aquaporins are water channel proteins that facilitate water transport across
+
   cell membranes. They form tetramers with each monomer containing a selective
+
   filter for water molecules. The NPA (Asn-Pro-Ala) motifs and aromatic/arginine
+
   (ar/R) selectivity filter are key structural features. The aquaporin
+
   superfamily includes water-specific channels (aquaporins) and
+
   aquaglyceroporins that also transport glycerol and other small solutes.
+
   A universal mechanism of proton exclusion based on bipolar water orientation
+
   established by the NPA motifs and helix dipoles applies to the entire AQP
+
   family. The 2.5 A structure of E. coli AqpZ demonstrated that selectivity
+
   results from both steric pore restriction and specific amino acid
+
   substitutions regulating hydrophobic vs. hydrophilic substrate preference.
+
   A 3.2 A tetrameric AqpZ (tAqpZ) structure revealed two distinct Arg-189
+
   conformations among the four monomer channels, corresponding to open and
+
   closed states at the narrowest channel constriction, providing structural
+
   evidence for water permeation gating by Arg-189 side chain dynamics at
+
   the selectivity filter.
+
+  '
 examples:
-  - protein: "[GlpF (Glycerol Facilitator)](/xray-mp-wiki/proteins/other-ion-channels/glpf/)"
-    context: "E. coli glycerol facilitator; member of the aquaglyceroporin subfamily; archetype for the bipolar water orientation proton exclusion mechanism"
-  - protein: "[Aquaporin Z (AqpZ)](/xray-mp-wiki/proteins/other-ion-channels/aquaporin-z/)"
-    context: "E. coli water-specific aquaporin; conserved NPA motif mechanism; 2.5 A structure revealed selectivity filter architecture; 3.2 A tetrameric structure revealed Arg-189 open/closed gating mechanism"
-  - protein: "[Human Aquaporin 2](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-2/)"
-    context: "Human water channel; kidney collecting duct; regulated by vasopressin"
-  - protein: "[Human Aquaporin 4](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-4/)"
-    context: "Human water channel; brain and central nervous system"
-  - protein: "[cpAQP1aa (Climbing Perch Aquaporin)](/xray-mp-wiki/proteins/other-ion-channels/cpaqp1aa/)"
-    context: "First structurally characterized fish aquaporin; 1.9 A structure reveals unique extracellular fold and novel loop C constriction region; proposed extracellular gating via phosphorylation of Tyr107 and Thr38"
+- protein: '[GlpF (Glycerol Facilitator)](/xray-mp-wiki/proteins/other-ion-channels/glpf/)'
+  context: E. coli glycerol facilitator; member of the aquaglyceroporin subfamily;
+    archetype for the bipolar water orientation proton exclusion mechanism
+- protein: '[Aquaporin Z (AqpZ)](/xray-mp-wiki/proteins/other-ion-channels/aquaporin-z/)'
+  context: E. coli water-specific aquaporin; conserved NPA motif mechanism; 2.5 A
+    structure revealed selectivity filter architecture; 3.2 A tetrameric structure
+    revealed Arg-189 open/closed gating mechanism
+- protein: '[Human Aquaporin 2](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-2/)'
+  context: Human water channel; kidney collecting duct; regulated by vasopressin
+- protein: '[Human Aquaporin 4](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-4/)'
+  context: Human water channel; brain and central nervous system
+- protein: '[cpAQP1aa (Climbing Perch Aquaporin)](/xray-mp-wiki/proteins/other-ion-channels/cpaqp1aa/)'
+  context: First structurally characterized fish aquaporin; 1.9 A structure reveals
+    unique extracellular fold and novel loop C constriction region; proposed extracellular
+    gating via phosphorylation of Tyr107 and Thr38
 cross_references:
-  - path: /xray-mp-wiki/proteins/other-ion-channels/glpf/
-    title: "GlpF (Glycerol Facilitator from E. coli)"
-    reason: "GlpF is the E. coli glycerol facilitator and a member of the aquaporin superfamily"
-  - path: /xray-mp-wiki/proteins/other-ion-channels/aquaporin-z/
-    title: "Aquaporin Z (AqpZ)"
-    reason: "Bacterial water-specific aquaporin from E. coli; 2.5 A structure revealed selectivity mechanism; 3.2 A tetramer revealed Arg-189 gating"
-  - path: /xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-2/
-    title: "Human Aquaporin 2"
-    reason: "Human water channel from kidney collecting duct"
-  - path: /xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-4/
-    title: "Human Aquaporin 4"
-    reason: "Human water channel expressed in brain and CNS"
-  - path: /xray-mp-wiki/proteins/other-ion-channels/cpaqp1aa/
-    title: "cpAQP1aa (Climbing Perch Aquaporin)"
-    reason: "First structurally characterized fish aquaporin; 1.9 A structure reveals unique extracellular fold; proposed extracellular gating mechanism via phosphorylation"
+- path: /xray-mp-wiki/proteins/other-ion-channels/glpf/
+  title: GlpF (Glycerol Facilitator from E. coli)
+  reason: GlpF is the E. coli glycerol facilitator and a member of the aquaporin superfamily
+- path: /xray-mp-wiki/proteins/other-ion-channels/aquaporin-z/
+  title: Aquaporin Z (AqpZ)
+  reason: Bacterial water-specific aquaporin from E. coli; 2.5 A structure revealed
+    selectivity mechanism; 3.2 A tetramer revealed Arg-189 gating
+- path: /xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-2/
+  title: Human Aquaporin 2
+  reason: Human water channel from kidney collecting duct
+- path: /xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-4/
+  title: Human Aquaporin 4
+  reason: Human water channel expressed in brain and CNS
+- path: /xray-mp-wiki/proteins/other-ion-channels/cpaqp1aa/
+  title: cpAQP1aa (Climbing Perch Aquaporin)
+  reason: First structurally characterized fish aquaporin; 1.9 A structure reveals
+    unique extracellular fold; proposed extracellular gating mechanism via phosphorylation

@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-MelB is a [Melibiose](/xray-mp-wiki/reagents/ligands/melibiose/) transporter from Salmonella typhimurium belonging to the glycoside-pentoside-hexuronide:cation symporter (GPH) family, a subgroup of the Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/)). It catalyzes the stoichiometric symport of galactose or galactosides with monovalent cations (Na+, Li+, or H+). MelB has served as a model system for studying cation-coupled transport mechanisms in [MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/) transporters. The D59C mutant uncouples cation binding from sugar transport, converting the symporter into a uniporter that retains sugar binding and translocation. Two high-resolution X-ray crystal structures of the D59C MelB_St mutant were solved — one bound to α-NPG at 3.05 Å resolution (PDB 7L17) and one bound to DDMB at 3.15 Å resolution (PDB 7L16) — revealing the molecular recognition mechanism for sugar binding and the spatial relationship between the sugar specificity pocket and the cation-binding pocket.
+MelB is a [Melibiose](/xray-mp-wiki/reagents/ligands/melibiose/) transporter from Salmonella typhimurium belonging to the glycoside-pentoside-hexuronide:cation symporter (GPH) family, a subgroup of the Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/)). It catalyzes the stoichiometric symport of galactose or galactosides with monovalent cations (Na+, Li+, or H+). MelB has served as a model system for studying cation-coupled transport mechanisms in [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) transporters. The D59C mutant uncouples cation binding from sugar transport, converting the symporter into a uniporter that retains sugar binding and translocation. Two high-resolution X-ray crystal structures of the D59C MelB_St mutant were solved — one bound to α-NPG at 3.05 Å resolution (PDB 7L17) and one bound to DDMB at 3.15 Å resolution (PDB 7L16) — revealing the molecular recognition mechanism for sugar binding and the spatial relationship between the sugar specificity pocket and the cation-binding pocket.
 
 
 ## Structure Determination
@@ -98,10 +98,10 @@ The structures explain MelB's ability to recognize a wide variety of galactoside
 
 ## Cross-References
 
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/) — MelB belongs to the GPH family within the MFS superfamily
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — MelB belongs to the GPH family within the MFS superfamily
 - [LeuT Amino Acid Transporter](/xray-mp-wiki/proteins/enzymes/leut/) — LeuT is another model secondary transporter with resolved substrate-binding mechanism
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — MelB transport follows the alternating-access model
-- [MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/) — Related biological concept
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — MelB transport follows the alternating-access model
+- [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [ITC](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/) — Method used in structure determination or purification
 - [Ethylene Glycol](/xray-mp-wiki/reagents/additives/ethylene-glycol/) — Additive used in purification or crystallization buffers

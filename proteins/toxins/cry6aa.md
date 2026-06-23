@@ -131,7 +131,7 @@ Cry6Ba, which has coleopteran activity but reduced nematode toxicity.
 
 ## Cross-References
 
-- [Alpha-Helical Pore-Forming Toxin Family](/xray-mp-wiki/concepts/alpha-helical-pore-forming-toxin-family/) — Cry6Aa is a founding member of this structural class among B. thuringiensis Cry toxins
+- [Alpha-Helical Pore-Forming Toxin Family](/xray-mp-wiki/concepts/protein-families/alpha-helical-pore-forming-toxin-family/) — Cry6Aa is a founding member of this structural class among B. thuringiensis Cry toxins
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Trypsin-cleaved Cry6Aa structure solved by MR using hemolysin B (PDB 2NRJ) as search model
 - [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) — Referenced in the context of Glycine
 - [Iptg](/xray-mp-wiki/reagents/additives/iptg/) — Referenced in the context of Iptg

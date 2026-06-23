@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-pmUlaA is the EIIC component of the L-ascorbate (vitamin C) phosphoenolpyruvate-dependent phosphotransferase system (PTS) from Pasteurella multocida. It belongs to the ascorbate/galactitol (AG) superfamily of PTS transporters. The structure was solved in the inward-facing conformation at 3.35 Angstrom resolution, revealing a rigid-body [Elevator Mechanism](/xray-mp-wiki/concepts/elevator-mechanism/) where the substrate-binding core domain moves relative to the V motif domains to transport ascorbate across the membrane. pmUlaA shares 63% sequence identity with the E. coli homolog ecUlaA.
+pmUlaA is the EIIC component of the L-ascorbate (vitamin C) phosphoenolpyruvate-dependent phosphotransferase system (PTS) from Pasteurella multocida. It belongs to the ascorbate/galactitol (AG) superfamily of PTS transporters. The structure was solved in the inward-facing conformation at 3.35 Angstrom resolution, revealing a rigid-body [Elevator Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/elevator-mechanism/) where the substrate-binding core domain moves relative to the V motif domains to transport ascorbate across the membrane. pmUlaA shares 63% sequence identity with the E. coli homolog ecUlaA.
 
 
 ## Structure Determination
@@ -69,7 +69,7 @@ In the outward-facing state, vitamin C is entirely coordinated by core domain re
 ## Cross-References
 
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Used for membrane solubilization
-- [Elevator Mechanism](/xray-mp-wiki/concepts/elevator-mechanism/) — Demonstrates elevator mechanism of ascorbate transport
+- [Elevator Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/elevator-mechanism/) — Demonstrates elevator mechanism of ascorbate transport
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers

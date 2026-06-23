@@ -14,17 +14,17 @@ verified: false
 
 ## Overview
 
-The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 receptor (AT2R) is a class A [G Protein](/xray-mp-wiki/concepts/g-protein/)-coupled receptor that counteracts many of the physiological effects of [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) mediated by [AT1R](/xray-mp-wiki/proteins/gpcr/at1r/). AT2R is involved in blood pressure regulation, vasodilation, sodium excretion, and anti-proliferative signaling. Unlike [AT1R](/xray-mp-wiki/proteins/gpcr/at1r/), AT2R does not signal through G proteins or [Beta-Arrestin](/xray-mp-wiki/concepts/beta-arrestin/) in a conventional manner and requires additional effector proteins such as ATIP and SHP-1 for signal transduction. Crystal structures of AT2R reveal an active-like conformation of the 7TM bundle with a non-canonical helix VIII position that sterically blocks G protein/beta-arrestin recruitment.
+The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 receptor (AT2R) is a class A [G Protein](/xray-mp-wiki/concepts/signaling-receptors/g-protein/)-coupled receptor that counteracts many of the physiological effects of [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) mediated by [AT1R](/xray-mp-wiki/proteins/gpcr/at1r/). AT2R is involved in blood pressure regulation, vasodilation, sodium excretion, and anti-proliferative signaling. Unlike [AT1R](/xray-mp-wiki/proteins/gpcr/at1r/), AT2R does not signal through G proteins or [Beta-Arrestin](/xray-mp-wiki/concepts/signaling-receptors/beta-arrestin/) in a conventional manner and requires additional effector proteins such as ATIP and SHP-1 for signal transduction. Crystal structures of AT2R reveal an active-like conformation of the 7TM bundle with a non-canonical helix VIII position that sterically blocks G protein/beta-arrestin recruitment.
 
 
 ## Structure Determination
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1016##j.str.2019.12.003 | 6JOD | 3.2 | C2221 | AT2R-mbIIGN-term; C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) at residue 368; N-terminal HA signal sequence, FLAG tag, TEV cleavage site; C-terminal His8 tag; complex with G-protein mbIIGN-term fragment and Fab4A03 antibody fragment | [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) |
-| doi/10.1038##nature22035 | 5UNF | 2.8 | P212121 | BRIL-AT2R fusion; N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/): residues 1-34; C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/): residues 336-363; N-terminal BRIL (apocytochrome b562RIL) fused via 4-residue linker (Gly-Ser-Gly-Ser); N-terminal HA signal sequence, FLAG tag, 10x His tag (cleaved), TEV cleavage site; complex with Cpd 1 | Cpd 1 ([Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)-selective ligand) |
-| doi/10.1038##nature22035 | 5UNG | 2.8 | C2 | BRIL-AT2R fusion; N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/): residues 1-34; C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/): residues 336-363; N-terminal BRIL (apocytochrome b562RIL) fused via 4-residue linker (Gly-Ser-Gly-Ser); N-terminal HA signal sequence, FLAG tag, 10x His tag (cleaved), TEV cleavage site; complex with Cpd 1 | Cpd 1 ([Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)-selective ligand) |
-| doi/10.1038##nature22035 | 5UNH | 2.9 | P21 | BRIL-AT2R fusion; N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/): residues 1-34; C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/): residues 336-363; N-terminal BRIL (apocytochrome b562RIL) fused via 4-residue linker (Gly-Ser-Gly-Ser); N-terminal HA signal sequence, FLAG tag, 10x His tag (cleaved), TEV cleavage site; complex with Cpd 2 (AT1R/AT2R dual ligand) | Cpd 2 (AT1R/AT2R dual ligand) |
+| doi/10.1016##j.str.2019.12.003 | 6JOD | 3.2 | C2221 | AT2R-mbIIGN-term; C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) at residue 368; N-terminal HA signal sequence, FLAG tag, TEV cleavage site; C-terminal His8 tag; complex with G-protein mbIIGN-term fragment and Fab4A03 antibody fragment | [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) |
+| doi/10.1038##nature22035 | 5UNF | 2.8 | P212121 | BRIL-AT2R fusion; N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/): residues 1-34; C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/): residues 336-363; N-terminal BRIL (apocytochrome b562RIL) fused via 4-residue linker (Gly-Ser-Gly-Ser); N-terminal HA signal sequence, FLAG tag, 10x His tag (cleaved), TEV cleavage site; complex with Cpd 1 | Cpd 1 ([Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)-selective ligand) |
+| doi/10.1038##nature22035 | 5UNG | 2.8 | C2 | BRIL-AT2R fusion; N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/): residues 1-34; C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/): residues 336-363; N-terminal BRIL (apocytochrome b562RIL) fused via 4-residue linker (Gly-Ser-Gly-Ser); N-terminal HA signal sequence, FLAG tag, 10x His tag (cleaved), TEV cleavage site; complex with Cpd 1 | Cpd 1 ([Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)-selective ligand) |
+| doi/10.1038##nature22035 | 5UNH | 2.9 | P21 | BRIL-AT2R fusion; N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/): residues 1-34; C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/): residues 336-363; N-terminal BRIL (apocytochrome b562RIL) fused via 4-residue linker (Gly-Ser-Gly-Ser); N-terminal HA signal sequence, FLAG tag, 10x His tag (cleaved), TEV cleavage site; complex with Cpd 2 (AT1R/AT2R dual ligand) | Cpd 2 (AT1R/AT2R dual ligand) |
 | doi/10.1038##s41594-018-0079-8 | 5XJM | 3.2 | P2(1)2(1)2 | BRIL-AT2R fusion; BRIL replaces ICL3; N-terminal HA signal sequence, FLAG tag, TEV cleavage site; C-terminal His6 tag; complex with [S1I8](/xray-mp-wiki/reagents/ligands/s1i8/) and [Fab4A03](/xray-mp-wiki/reagents/antibodies/fab4a03/) antibody fragment | [S1I8](/xray-mp-wiki/reagents/ligands/s1i8/) |
 
 ## Expression and Purification
@@ -39,7 +39,7 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
 *Source: doi/10.1016##j.str.2019.12.003*
 
 - **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/)
-- **Expression construct**: AT2R-mbIIGN-term; N-terminal HA signal, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) site; C-terminal [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) site, His8 tag; C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) at residue 368
+- **Expression construct**: AT2R-mbIIGN-term; N-terminal HA signal, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) site; C-terminal [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) site, His8 tag; C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) at residue 368
 - **Tag info**: [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), His8 (C-terminal, cleaved by [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/))
 
 #### Steps
@@ -152,11 +152,11 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
 
 In the AngII-bound AT2R structure, helix 8 shifts from a non-canonical bent
 conformation (observed in the partial agonist [Sar1,Ile8]-AngII-bound AT2R structure,
-PDB 5XJM) to a canonical [GPCR](/xray-mp-wiki/concepts/gpcr/) helix 8 conformation parallel to the membrane. This
+PDB 5XJM) to a canonical [GPCR](/xray-mp-wiki/concepts/signaling-receptors/gpcr/) helix 8 conformation parallel to the membrane. This
 shift is caused by pi-pi interactions between Phe325^8.50 in helix 8 and Phe316^7.51
 and Phe320^7.55 in TM7. These pi-pi interactions are not visible in the compound
 1/2-bound AT2R structure (PDB 5UNF). The canonical helix 8 conformation suggests
-that AT2R can engage G proteins and [Beta-Arrestin](/xray-mp-wiki/concepts/beta-arrestin/), although downstream signaling
+that AT2R can engage G proteins and [Beta-Arrestin](/xray-mp-wiki/concepts/signaling-receptors/beta-arrestin/), although downstream signaling
 is not transmitted by steric blocking.
 
 ### Deep ligand-binding pocket and Met128^3.36 rearrangement
@@ -188,7 +188,7 @@ hydrogen bond is maintained at the Asn111^3.35-Asn295^7.46 internal lock, while
 in the inactive [AT1R](/xray-mp-wiki/proteins/gpcr/at1r/) (PDB 4YAY) bound to antagonist [ZD7155](/xray-mp-wiki/reagents/ligands/zd7155/), two bonds are observed.
 The full agonist AngII binding to AT2R appears to completely disrupt this internal
 lock, similar to AngII binding to [AT1R](/xray-mp-wiki/proteins/gpcr/at1r/). Both AT2R and [AT1R](/xray-mp-wiki/proteins/gpcr/at1r/) share conserved
-activation motifs including PIF, [NPxxY Motif](/xray-mp-wiki/concepts/npxxy-motif/), and DRY motifs, but the deep ligand-binding
+activation motifs including PIF, [NPxxY Motif](/xray-mp-wiki/concepts/structural-mechanisms/npxxy-motif/), and DRY motifs, but the deep ligand-binding
 pocket rearrangement differs between the two receptors.
 
 ### Non-canonical helix VIII blocks G protein/beta-arrestin binding
@@ -213,7 +213,7 @@ outward displacement at its intracellular end, while helix VII exhibits a ~4.9 A
 inward displacement. Helix V shifts ~4.8 A toward the ligand-binding pocket at its
 extracellular end. Conserved activation micro-switches are rearranged: the [PIF Motif](/xray-mp-wiki/concepts/pif-motif/)
 (Pro223^5.50-Ile132^3.40-Phe265^6.44), [DRY Motif](/xray-mp-wiki/concepts/dry-motif/) (Arg142^3.50 rotated ~90 degrees),
-and [NPxxY Motif](/xray-mp-wiki/concepts/npxxy-motif/) (Tyr318^7.53 shifted ~6.5 A and rotated ~45 degrees). The putative
+and [NPxxY Motif](/xray-mp-wiki/concepts/structural-mechanisms/npxxy-motif/) (Tyr318^7.53 shifted ~6.5 A and rotated ~45 degrees). The putative
 sodium-binding pocket is collapsed due to helix VII inward shift. AT2R has a rare
 alanine at position 6.37 (vs. hydrophobic residue in ~97% of class A GPCRs), which
 facilitates activation-related conformational changes.
@@ -233,8 +233,8 @@ The [Fab4A03](/xray-mp-wiki/reagents/antibodies/fab4a03/) antibody fragment bind
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used as LCP crystallization matrix for [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/) crystallized by LCP method (both synchrotron and XFEL)
 - [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) — Cysteine alkylating agent used during [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/) solubilization to prevent disulfide formation
-- [Beta-Arrestin](/xray-mp-wiki/concepts/beta-arrestin/) — Referenced in [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Referenced in [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)
+- [Beta-Arrestin](/xray-mp-wiki/concepts/signaling-receptors/beta-arrestin/) — Referenced in [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Referenced in [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)
 - [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Referenced in [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Referenced in [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)
 - [1,6-Hexanediol](/xray-mp-wiki/reagents/additives/16-hexanediol/) — Referenced in [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)
@@ -246,7 +246,7 @@ The [Fab4A03](/xray-mp-wiki/reagents/antibodies/fab4a03/) antibody fragment bind
 - [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) — Referenced in [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)
 - [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Referenced in [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)
 - [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) — Referenced in [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)
-- [NPxxY Motif](/xray-mp-wiki/concepts/npxxy-motif/) — Referenced in [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)
+- [NPxxY Motif](/xray-mp-wiki/concepts/structural-mechanisms/npxxy-motif/) — Referenced in [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)
 - [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) — Referenced in [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)
 - [ZD7155](/xray-mp-wiki/reagents/ligands/zd7155/) — Referenced in [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)
 - [HEPES (HEPES Buffer)](/xray-mp-wiki/reagents/buffers/hepes/) — Referenced in [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)

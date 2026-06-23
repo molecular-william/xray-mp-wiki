@@ -86,6 +86,6 @@ Single-channel electrophysiology reveals multiple open states (O1, O2, O3) corre
 - [KcsA Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/) — Structural comparison with canonical tetrameric K+ channel (KcsA, PDB 1BL8) used to highlight unique TRIC architecture
 - [KirBac Potassium Channels](/xray-mp-wiki/proteins/voltage-gated-channels/kirbac-potassium-channels/) — Homologous prokaryotic potassium channel; PIP2 binding compared with Kir2.2 channel
 - [Tris-HCl](/xray-mp-wiki/reagents/buffers/tris/) — Buffer component (50 mM, pH 8.0) used in cell lysis buffer
-- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/allosteric-regulation/) — Ca2+-induced conformational change in M5-6 loop allosterically affects pore gating via PIP2 interaction
+- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — Ca2+-induced conformational change in M5-6 loop allosterically affects pore gating via PIP2 interaction
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers

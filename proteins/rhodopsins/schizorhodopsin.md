@@ -16,7 +16,7 @@ verified: false
 
 Schizorhodopsins (SzRs) are a family of light-driven inward H+ pumps identified
 in Asgard archaea, phylogenetically located at an intermediate position between
-type-1 [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) and heliorhodopsins. SzR4 (AM_5_00977, GenBank
+type-1 [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) and heliorhodopsins. SzR4 (AM_5_00977, GenBank
 TFG21677.1) is a full-length schizorhodopsin whose structure was determined at
 2.1 A resolution by X-ray crystallography using [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) with
 [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) as the search model. The structure reveals that SzRs belong
@@ -96,9 +96,9 @@ with its inward pumping function.
 ### Short cytoplasmic helices position E81 near the cytosol
 
 The cytoplasmic parts of TM2, TM6, and TM7 in SzR4 are shorter than in other
-[Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/). TM6 of SzR4 has only 13 residues between the conserved
+[Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/). TM6 of SzR4 has only 13 residues between the conserved
 Pro and the cytoplasmic end, compared to ~21 residues in other type-1 rhodopsins,
-making it the shortest among [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/). This places E81 (the putative
+making it the shortest among [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/). This places E81 (the putative
 H+ acceptor, homologous to BR D96) very close to the cytoplasmic surface,
 separated from the solvent by only two leucine residues (L30, L85). This
 structural feature enables the "untrapped inward H+ release" mechanism.
@@ -138,13 +138,13 @@ kinetic behaviors of SzR compared to xenorhodopsins and [Bacteriorhodopsin](/xra
 
 ## Cross-References
 
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — SzR is a newly identified family of microbial rhodopsins from Asgard archaea
-- [Evolution of Rhodopsins](/xray-mp-wiki/concepts/evolution-of-rhodopsins/) — SzRs are phylogenetically intermediate between type-1 rhodopsins and heliorhodopsins
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — SzR is a newly identified family of microbial rhodopsins from Asgard archaea
+- [Evolution of Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/evolution-of-rhodopsins/) — SzRs are phylogenetically intermediate between type-1 rhodopsins and heliorhodopsins
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — SzR4 structure was solved by molecular replacement using BR model and shows structural similarity to BR
 - [BcXeR (Xenorhodopsin from Bacillus coahuilensis)](/xray-mp-wiki/proteins/rhodopsins/bcxer/) — SzR and XeR both function as inward H+ pumps but with different mechanisms
-- [Proton Wire](/xray-mp-wiki/concepts/proton-wire/) — SzR uses a water-mediated transport network (proton wire) for inward H+ release
+- [Proton Wire](/xray-mp-wiki/concepts/transport-mechanisms/proton-wire/) — SzR uses a water-mediated transport network (proton wire) for inward H+ release
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — SzR4 was crystallized using LCP with monoolein
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Monoolein was the lipid used for LCP crystallization
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — All-trans retinal is covalently bound to K188 via Schiff base
-- [Retinal Chromophore Conformation](/xray-mp-wiki/concepts/retinal-chromophore-conformation/) — All-trans to 13-cis isomerization drives the photocycle
-- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-photocycle/) — SzR exhibits a photocycle with M-intermediate formation
+- [Retinal Chromophore Conformation](/xray-mp-wiki/concepts/structural-mechanisms/retinal-chromophore-conformation/) — All-trans to 13-cis isomerization drives the photocycle
+- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/) — SzR exhibits a photocycle with M-intermediate formation

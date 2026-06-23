@@ -112,7 +112,7 @@ regulation through STAS domain proteins.
 - [E. coli MlaC Periplasmic Lipid-Binding Protein](/xray-mp-wiki/proteins/structural-adhesion/mlaC/) — Periplasmic shuttle protein in the Mla lipid transport pathway
 - [E. coli MlaA Outer Membrane Lipoprotein](/xray-mp-wiki/proteins/miscellaneous/mlaA/) — Outer membrane component of the Mla lipid transport system
 - [ADP](/xray-mp-wiki/reagents/ligands/adp/) — Bound nucleotide in the MlaF_2B_2 dimeric structure (post-hydrolysis state)
-- [ABC Transporter](/xray-mp-wiki/concepts/abc-transporter-family/) — MlaF is the NBD of the MlaFEDB ABC transporter complex
+- [ABC Transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — MlaF is the NBD of the MlaFEDB ABC transporter complex
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification
 - [MLAB](/xray-mp-wiki/proteins/structural-adhesion/mlab/) — Related protein structure

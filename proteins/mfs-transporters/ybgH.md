@@ -104,10 +104,10 @@ activity, while the double mutant E163A/R297A was inactive.
 
 ## Cross-References
 
-- [POT Family](/xray-mp-wiki/concepts/pot-family/) — YbgH is a member of the POT family of proton-dependent oligopeptide transporters
-- [Major Facilitator Superfamily](/xray-mp-wiki/concepts/mfs-transporter/) — POT family is a subfamily of MFS transporters
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — YbgH alternates between inward-facing and outward-facing conformations
-- [Scissor-Switch Gating](/xray-mp-wiki/concepts/scissor-switch-gating/) — POT-specific gating mechanism involving motif 2
+- [POT Family](/xray-mp-wiki/concepts/transport-mechanisms/pot-family/) — YbgH is a member of the POT family of proton-dependent oligopeptide transporters
+- [Major Facilitator Superfamily](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — POT family is a subfamily of MFS transporters
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — YbgH alternates between inward-facing and outward-facing conformations
+- [Scissor-Switch Gating](/xray-mp-wiki/concepts/transport-mechanisms/scissor-switch-gating/) — POT-specific gating mechanism involving motif 2
 - [PepT_So Oligopeptide Transporter](/xray-mp-wiki/proteins/mfs-transporters/pept-so/) — Another POT family member with reported crystal structure
 - [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury) — Entity mentioned in text
 - [TRIS](/xray-mp-wiki/reagents/buffers/tris) — Entity mentioned in text

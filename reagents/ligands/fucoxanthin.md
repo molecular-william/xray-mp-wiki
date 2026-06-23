@@ -48,5 +48,5 @@ No comparison data available.
 ## Cross-References
 
 - [Fucoxanthin Chlorophyll a/c-Binding Protein (FCP) from Phaeodactylum tricornutum](/xray-mp-wiki/proteins/photosynthesis/fcp-phaeodactylum-tricornutum/) — FCP is the primary protein that binds fucoxanthin for light harvesting and energy dissipation
-- [Non-photochemical Quenching (NPQ)](/xray-mp-wiki/concepts/non-photochemical-quenching/) — Fucoxanthin contributes to NPQ in diatoms by accepting and dissipating excess energy from chlorophylls
+- [Non-photochemical Quenching (NPQ)](/xray-mp-wiki/concepts/miscellaneous/non-photochemical-quenching/) — Fucoxanthin contributes to NPQ in diatoms by accepting and dissipating excess energy from chlorophylls
 - [Pea Light-Harvesting Complex II (LHC-II)](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/) — Structural comparison; Fx303/305 occupy positions analogous to lutein in LHCII, while other Fxs bind in novel sites unique to FCP

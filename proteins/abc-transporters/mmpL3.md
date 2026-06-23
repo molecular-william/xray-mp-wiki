@@ -14,7 +14,7 @@ verified: true
 
 ## Overview
 
-MmpL3 (Mycobacterial membrane protein Large 3) is an inner membrane](/xray-mp-wiki/concepts/inner-membrane/) transporter essential for mycolic acid biosynthesis in mycobacteria. It transports [Trehalose](/xray-mp-wiki/reagents/additives/trehalose) monomycolate (TMM) from the cytoplasm to the cell envelope, a pivotal step in cell wall synthesis. MmpL3 belongs to the Resistance Nodulation Division ([RND](/xray-mp-wiki/concepts/rnd-superfamily/)) protein superfamily and is a validated target for anti-tuberculosis drug discovery. The protein from Mycobacterium smegmatis serves as an excellent model for the Mycobacterium tuberculosis ortholog.
+MmpL3 (Mycobacterial membrane protein Large 3) is an inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/inner-membrane/) transporter essential for mycolic acid biosynthesis in mycobacteria. It transports [Trehalose](/xray-mp-wiki/reagents/additives/trehalose) monomycolate (TMM) from the cytoplasm to the cell envelope, a pivotal step in cell wall synthesis. MmpL3 belongs to the Resistance Nodulation Division ([RND](/xray-mp-wiki/concepts/protein-families/rnd-superfamily/)) protein superfamily and is a validated target for anti-tuberculosis drug discovery. The protein from Mycobacterium smegmatis serves as an excellent model for the Mycobacterium tuberculosis ortholog.
 
 
 ## Structure Determination
@@ -33,7 +33,7 @@ MmpL3 (Mycobacterial membrane protein Large 3) is an inner membrane](/xray-mp-wi
 ## Expression and Purification
 
 - **Expression system**: Mycobacterium smegmatis mc2155
-- **Construct**: [N-terminal](/xray-mp-wiki/concepts/n-terminus/) 748 residues of M. smegmatis MmpL3 (MSMEG_0250) fused to T4 lysozyme (160 aa) at C-terminus with 10x [His tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/)
+- **Construct**: [N-terminal](/xray-mp-wiki/concepts/structural-mechanisms/n-terminus/) 748 residues of M. smegmatis MmpL3 (MSMEG_0250) fused to T4 lysozyme (160 aa) at C-terminus with 10x [His tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/)
 - **Induction**: 0.2% acetamide at 16 C for four days
 - **Media**: Luria broth with 50 ug/mL [kanamycin](/xray-mp-wiki/reagents/additives/kanamycin/) and 20 ug/mL [carbenicillin](/xray-mp-wiki/reagents/additives/carbenicillin/)
 
@@ -134,15 +134,15 @@ MmpL3 (Mycobacterial membrane protein Large 3) is an inner membrane](/xray-mp-wi
 
 ### Periplasmic pore domain structure
 
-The [periplasmic](/xray-mp-wiki/concepts/periplasm/) pore domain consists of two subdomains, PN and PC, both adopting a beta-alpha-beta-alpha-beta fold. The subdomains intertwine to create a central cavity connecting to three openings: a funnel at the top (GT), an opening in the front (GF), and an opening at the back (GB). Two 6-n-dodecyl-alpha,alpha-[Trehalose](/xray-mp-wiki/reagents/additives/trehalose) ([6-n-Dodecyl-alpha,alpha-trehalose](/xray-mp-wiki/reagents/lipids/6-ddtre)) detergent molecules, mimics of the substrate TMM, are bound in the cavity and GT opening, suggesting potential roles in substrate transportation.
+The [periplasmic](/xray-mp-wiki/concepts/miscellaneous/periplasm/) pore domain consists of two subdomains, PN and PC, both adopting a beta-alpha-beta-alpha-beta fold. The subdomains intertwine to create a central cavity connecting to three openings: a funnel at the top (GT), an opening in the front (GF), and an opening at the back (GB). Two 6-n-dodecyl-alpha,alpha-[Trehalose](/xray-mp-wiki/reagents/additives/trehalose) ([6-n-Dodecyl-alpha,alpha-trehalose](/xray-mp-wiki/reagents/lipids/6-ddtre)) detergent molecules, mimics of the substrate TMM, are bound in the cavity and GT opening, suggesting potential roles in substrate transportation.
 
 ### Transmembrane helix bundle and proton-translocation mechanism
 
-The transmembrane region contains 12 transmembrane helices with a pseudo-two-fold symmetry axis relating the six [N-terminal](/xray-mp-wiki/concepts/n-terminus/) and six [C-terminal](/xray-mp-wiki/concepts/c-terminus/) helices. Two conserved Asp-Tyr pairs (Asp256-Tyr646 and Asp645-Tyr257) are located centrally in TM helices IV and X, linked by [hydrogen bonds](/xray-mp-wiki/concepts/hydrogen-bonding/). These pairs are a conserved feature of MmpL family transporters and appear to facilitate proton-translocation, generating the [proton motive force](/xray-mp-wiki/concepts/proton-motive-force/) for substrate transport.
+The transmembrane region contains 12 transmembrane helices with a pseudo-two-fold symmetry axis relating the six [N-terminal](/xray-mp-wiki/concepts/structural-mechanisms/n-terminus/) and six [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) helices. Two conserved Asp-Tyr pairs (Asp256-Tyr646 and Asp645-Tyr257) are located centrally in TM helices IV and X, linked by [hydrogen bonds](/xray-mp-wiki/concepts/hydrogen-bonding/). These pairs are a conserved feature of MmpL family transporters and appear to facilitate proton-translocation, generating the [proton motive force](/xray-mp-wiki/concepts/proton-motive-force/) for substrate transport.
 
 ### Inhibitor binding disrupts proton-translocation channel
 
-Six drug candidates ([SQ109](/xray-mp-wiki/reagents/ligands/sq109), [AU1235](/xray-mp-wiki/reagents/ligands/au1235), [ICA38](/xray-mp-wiki/reagents/ligands/ica38), [Rimonabant](/xray-mp-wiki/reagents/ligands/rimonabant), [NITD-349](/xray-mp-wiki/reagents/ligands/nitd-349), and [SPIRO](/xray-mp-wiki/reagents/ligands/spiro)) bind inside the transmembrane region, disrupting both Asp-Tyr pairs implicated in proton relay. Upon inhibitor binding, [C-terminal](/xray-mp-wiki/concepts/c-terminus/) transmembrane helices undergo [conformational changes](/xray-mp-wiki/concepts/conformational-change/), moving away from the center and expanding the narrow proton-translocating channel to accommodate the inhibitors. The binding pocket can be divided into five subsites (S1-S5), with S1-S3 and S5 being hydrophobic and S4 containing the two Asp-Tyr pairs.
+Six drug candidates ([SQ109](/xray-mp-wiki/reagents/ligands/sq109), [AU1235](/xray-mp-wiki/reagents/ligands/au1235), [ICA38](/xray-mp-wiki/reagents/ligands/ica38), [Rimonabant](/xray-mp-wiki/reagents/ligands/rimonabant), [NITD-349](/xray-mp-wiki/reagents/ligands/nitd-349), and [SPIRO](/xray-mp-wiki/reagents/ligands/spiro)) bind inside the transmembrane region, disrupting both Asp-Tyr pairs implicated in proton relay. Upon inhibitor binding, [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) transmembrane helices undergo [conformational changes](/xray-mp-wiki/concepts/structural-mechanisms/conformational-change/), moving away from the center and expanding the narrow proton-translocating channel to accommodate the inhibitors. The binding pocket can be divided into five subsites (S1-S5), with S1-S3 and S5 being hydrophobic and S4 containing the two Asp-Tyr pairs.
 
 ### Chimeric MmpL3 for drug screening
 
@@ -154,11 +154,11 @@ Approximately 80% of known drug resistance mutations lie inside or within 10 Ang
 
 ### NITD-349 binding mode and inhibitory mechanism
 
-[NITD-349](/xray-mp-wiki/reagents/ligands/nitd-349) binds deep in the central channel of the transmembrane domain. The indole group inserts into the upper hydrophobic region (Ile249, Ile253, Ile297, Val638, Gly641, Leu642, Leu686, Leu708). The amide nitrogen and indole nitrogen interact with Asp645, while the amide oxygen bonds with Asp256. The dimethylcyclohexane group presses down Phe260 and Phe649. The binding pocket volume is ~206 A^3. [conformational changes](/xray-mp-wiki/concepts/conformational-change/) include TMH I, IV, V, VI, VII, VIII, IX, X, and XI rotating away from the center.
+[NITD-349](/xray-mp-wiki/reagents/ligands/nitd-349) binds deep in the central channel of the transmembrane domain. The indole group inserts into the upper hydrophobic region (Ile249, Ile253, Ile297, Val638, Gly641, Leu642, Leu686, Leu708). The amide nitrogen and indole nitrogen interact with Asp645, while the amide oxygen bonds with Asp256. The dimethylcyclohexane group presses down Phe260 and Phe649. The binding pocket volume is ~206 A^3. [conformational changes](/xray-mp-wiki/concepts/structural-mechanisms/conformational-change/) include TMH I, IV, V, VI, VII, VIII, IX, X, and XI rotating away from the center.
 
 ### SPIRO binding mode and inhibitory mechanism
 
-[SPIRO](/xray-mp-wiki/reagents/ligands/spiro) binds to the same pocket with a slightly larger volume (~214 A^3). The benzodioxane head interacts with hydrophobic residues in the upper pocket. The thiophene of the spirocyclic thienopyran inserts between Tyr257 and Phe649, forming pi-pi stacking. The piperidine nitrogen interacts with Asp645 and Tyr646. Phe260 and Phe649 undergo downward [conformational changes](/xray-mp-wiki/concepts/conformational-change/). The same [C-terminal](/xray-mp-wiki/concepts/c-terminus/) helices move outward as with [NITD-349](/xray-mp-wiki/reagents/ligands/nitd-349), but to a greater degree.
+[SPIRO](/xray-mp-wiki/reagents/ligands/spiro) binds to the same pocket with a slightly larger volume (~214 A^3). The benzodioxane head interacts with hydrophobic residues in the upper pocket. The thiophene of the spirocyclic thienopyran inserts between Tyr257 and Phe649, forming pi-pi stacking. The piperidine nitrogen interacts with Asp645 and Tyr646. Phe260 and Phe649 undergo downward [conformational changes](/xray-mp-wiki/concepts/structural-mechanisms/conformational-change/). The same [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) helices move outward as with [NITD-349](/xray-mp-wiki/reagents/ligands/nitd-349), but to a greater degree.
 
 ### Inhibitor binding pocket plasticity
 

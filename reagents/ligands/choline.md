@@ -53,4 +53,4 @@ No comparison data available.
 
 - [BetP (Na+/Betaine Symporter from Corynebacterium glutamicum)](/xray-mp-wiki/proteins/slc-transporters/betp/) — Substrate for BetP G153D mutant with sixfold increased sodium affinity
 - [Glycine Betaine](/xray-mp-wiki/reagents/ligands/glycine-betaine/) — Structurally similar quaternary ammonium compound, primary substrate of wild-type BetP
-- [BCCT Family](/xray-mp-wiki/concepts/bcct-family/) — Choline is one of the three substrates of the BCCT transporter family
+- [BCCT Family](/xray-mp-wiki/concepts/transport-mechanisms/bcct-family/) — Choline is one of the three substrates of the BCCT transporter family

@@ -41,7 +41,7 @@ intrinsic conformational preference of the protein itself.
 ## Expression and Purification
 
 - **Expression system**: Sf9 insect cells (Bac-to-Bac baculovirus system); HEK293 mammalian cells for select constructs
-- **Construct**: Human GPR6 (UniProt P46095) N-terminal [Truncation](/xray-mp-wiki/concepts/truncation/) Δ1-47, ICL3 replaced with bRIL, 6 point mutations (C123L, A173P, G279R, S291C, Y320L, C345D) for crystallization
+- **Construct**: Human GPR6 (UniProt P46095) N-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) Δ1-47, ICL3 replaced with bRIL, 6 point mutations (C123L, A173P, G279R, S291C, Y320L, C345D) for crystallization
 - **Notes**: For [Cryo Em](/xray-mp-wiki/methods/structure-determination/cryo-em/), wild-type GPR6 co-expressed with dominant-negative Gαs and Gβ1γ2
 
 ### Purification Workflow
@@ -127,7 +127,7 @@ interactions with Gβ and the αN helix of Gαs.
 ## Cross-References
 
 - [Dopamine](/xray-mp-wiki/reagents/dopamine/) — Referenced in gpr6 text
-- [Truncation](/xray-mp-wiki/concepts/truncation/) — Referenced in gpr6 text
+- [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Referenced in gpr6 text
 - [Cryo Em](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Referenced in gpr6 text
 - [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) — Referenced in gpr6 text
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Referenced in gpr6 text

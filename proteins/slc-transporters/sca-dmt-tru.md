@@ -72,7 +72,7 @@ conformational state (inward-facing), facilitating crystallization.
 ## Cross-References
 
 - [ScaDMT Divalent Metal-Ion Transporter](/xray-mp-wiki/proteins/slc-transporters/sca-dmt/) — ScaDMT^tru is a truncated N-terminal variant of full-length ScaDMT
-- [DMT Superfamily (Drug/Metabolite Transporter Superfamily)](/xray-mp-wiki/concepts/dmt-superfamily/) — ScaDMT^tru is a member of the SLC11 family
+- [DMT Superfamily (Drug/Metabolite Transporter Superfamily)](/xray-mp-wiki/concepts/transport-mechanisms/dmt-superfamily/) — ScaDMT^tru is a member of the SLC11 family
 - [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) — ScaDMT^tru co-crystallized with nanobody enabled high-resolution structure determination
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol) — Entity mentioned in text
 - [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody) — Entity mentioned in text

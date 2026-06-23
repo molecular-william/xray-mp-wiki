@@ -104,6 +104,6 @@ regulating these conformational changes.
 
 ## Cross-References
 
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/major-facilitator-superfamily/) — YajR is an MFS transporter; the paper elucidates MFS transport mechanisms
-- [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/rocker-switch-mechanism/) — MFS transporters including YajR use the rocker-switch mechanism for alternating access
-- [MFS Motif A and Charge-Helix Dipole Interactions](/xray-mp-wiki/concepts/motif-a-mfs/) — The paper is the primary structural elucidation of motif A function in MFS transporters
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — YajR is an MFS transporter; the paper elucidates MFS transport mechanisms
+- [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/) — MFS transporters including YajR use the rocker-switch mechanism for alternating access
+- [MFS Motif A and Charge-Helix Dipole Interactions](/xray-mp-wiki/concepts/structural-mechanisms/motif-a-mfs/) — The paper is the primary structural elucidation of motif A function in MFS transporters

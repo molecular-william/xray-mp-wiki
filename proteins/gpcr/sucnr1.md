@@ -56,5 +56,5 @@ carboxylate, shielding the charges and improving membrane permeability.
 
 - [Human 5-HT2A Receptor](/xray-mp-wiki/proteins/gpcr/5ht2a-receptor/) — Class A GPCR structural reference
 - [Succinate](/xray-mp-wiki/reagents/ligands/succinate/) — Endogenous ligand of SUCNR1
-- [Intramolecular Salt Bridge](/xray-mp-wiki/concepts/intramolecular-salt-bridge/) — Key medicinal chemistry principle from SUCNR1 antagonist optimization
-- [GPCR Active Conformation](/xray-mp-wiki/concepts/gpcr-active-conformation/) — SUCNR1 adopts distinct active and inactive conformations upon succinate binding
+- [Intramolecular Salt Bridge](/xray-mp-wiki/concepts/structural-mechanisms/intramolecular-salt-bridge/) — Key medicinal chemistry principle from SUCNR1 antagonist optimization
+- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — SUCNR1 adopts distinct active and inactive conformations upon succinate binding

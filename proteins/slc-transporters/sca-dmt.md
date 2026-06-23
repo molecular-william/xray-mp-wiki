@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-ScaDMT is a divalent metal-ion transporter from Staphylococcus capitis belonging to the [SLC11 (NRAMP) Family](/xray-mp-wiki/concepts/slc11-nramp-family/). It catalyzes the proton-coupled transport of transition-metal ions including Mn2+, Fe2+, Cd2+, Co2+, Ni2+, and Pb2+ across cellular membranes. The protein adopts an inward-facing conformation with a LeuT-fold architecture and a substrate-binding site at the center of the transporter. ScaDMT is highly homologous to human DMT1 (SLC11A2), sharing 37% identical and 59% homologous residues. It contains 448 amino acids and is monomeric in detergent solution as determined by multiangle light scattering.
+ScaDMT is a divalent metal-ion transporter from Staphylococcus capitis belonging to the [SLC11 (NRAMP) Family](/xray-mp-wiki/concepts/protein-families/slc11-nramp-family/). It catalyzes the proton-coupled transport of transition-metal ions including Mn2+, Fe2+, Cd2+, Co2+, Ni2+, and Pb2+ across cellular membranes. The protein adopts an inward-facing conformation with a LeuT-fold architecture and a substrate-binding site at the center of the transporter. ScaDMT is highly homologous to human DMT1 (SLC11A2), sharing 37% identical and 59% homologous residues. It contains 448 amino acids and is monomeric in detergent solution as determined by multiangle light scattering.
 
 
 ## Structure Determination
@@ -87,10 +87,10 @@ outward-facing state.
 
 ## Cross-References
 
-- [SLC11 (NRAMP) Family](/xray-mp-wiki/concepts/slc11-nramp-family/) — ScaDMT is a member of the SLC11/NRAMP family of divalent metal-ion transporters
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — ScaDMT transports ions via the alternating-access mechanism
-- [Inward-Facing Conformation](/xray-mp-wiki/concepts/inward-facing-conformation/) — ScaDMT structures adopt inward-facing conformation
-- [LeuT Return-State Mechanism](/xray-mp-wiki/concepts/leut-return-state-mechanism/) — ScaDMT shares the LeuT-fold architecture with amino acid permeases
+- [SLC11 (NRAMP) Family](/xray-mp-wiki/concepts/protein-families/slc11-nramp-family/) — ScaDMT is a member of the SLC11/NRAMP family of divalent metal-ion transporters
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — ScaDMT transports ions via the alternating-access mechanism
+- [Inward-Facing Conformation](/xray-mp-wiki/concepts/transport-mechanisms/inward-facing-conformation/) — ScaDMT structures adopt inward-facing conformation
+- [LeuT Return-State Mechanism](/xray-mp-wiki/concepts/miscellaneous/leut-return-state-mechanism/) — ScaDMT shares the LeuT-fold architecture with amino acid permeases
 - [Decylmaltoside](/xray-mp-wiki/reagents/detergents/dm/) — DM used for solubilization and purification of ScaDMT
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers

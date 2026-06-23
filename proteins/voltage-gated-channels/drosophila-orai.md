@@ -100,9 +100,9 @@ Anomalous-difference electron density maps show Ba2+ and Gd3+ bind at the glutam
 
 ## Cross-References
 
-- [Channel Gating](/xray-mp-wiki/concepts/channel-gating/) — Orai activation involves conformational changes including unlatching of M4b-M3 interactions and M4-ext helix rearrangement
-- [Selectivity Filter](/xray-mp-wiki/concepts/selectivity-filter/) — The Glu178 ring forms the Ca2+ selectivity filter in the Orai pore
-- [Non-Crystallographic Symmetry](/xray-mp-wiki/concepts/non-crystallographic-symmetry/) — 24-fold NCS averaging was essential for determining phases at modest resolution
+- [Channel Gating](/xray-mp-wiki/concepts/transport-mechanisms/channel-gating/) — Orai activation involves conformational changes including unlatching of M4b-M3 interactions and M4-ext helix rearrangement
+- [Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/) — The Glu178 ring forms the Ca2+ selectivity filter in the Orai pore
+- [Non-Crystallographic Symmetry](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) — 24-fold NCS averaging was essential for determining phases at modest resolution
 - [N-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for membrane protein solubilization and purification
 - [Benzamidine](/xray-mp-wiki/reagents/ligands/benzamidine/) — Referenced in context related to Benzamidine
 - [Trypsin](/xray-mp-wiki/reagents/additives/trypsin/) — Referenced in context related to Trypsin

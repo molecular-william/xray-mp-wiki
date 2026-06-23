@@ -80,5 +80,5 @@ The extracellular cap restricts access to the selectivity filter to two side por
 - [K2P 2.1 (TREK-1) Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/k2p-2-1-trek-1/) — Fellow K2P channel member; both are two-pore domain potassium channels
 - [Human TASK-1 (K2P 3.1)](/xray-mp-wiki/proteins/voltage-gated-channels/human-task-1-k2p3-1/) — Fellow K2P channel member; structural and functional comparisons
 - [Human TRAAK Potassium Channel (K2P 4.1)](/xray-mp-wiki/proteins/voltage-gated-channels/traak/) — K2P channel family comparison
-- [Ion Channel Selectivity Filter](/xray-mp-wiki/concepts/selectivity-filter/) — K2P1 has a pseudo-tetrameric selectivity filter with two different P domain sequences (TTGYGH and TIGLGD)
-- [C-type Inactivation](/xray-mp-wiki/concepts/c-type-inactivation/) — K2P channels use a selectivity filter C-type gate as the principal gating site
+- [Ion Channel Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/) — K2P1 has a pseudo-tetrameric selectivity filter with two different P domain sequences (TTGYGH and TIGLGD)
+- [C-type Inactivation](/xray-mp-wiki/concepts/structural-mechanisms/c-type-inactivation/) — K2P channels use a selectivity filter C-type gate as the principal gating site

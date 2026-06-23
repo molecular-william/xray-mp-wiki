@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-PepT_So is a proton-coupled oligopeptide transporter from Shewanella oneidensis. It belongs to the POT (proton-dependent oligopeptide transporter) family, a subgroup of the Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/)). PepT_So uses a proton gradient to drive the uptake of di- and tri-peptides and serves as a model system for understanding mammalian peptide transporters PepT1 and PepT2. The crystal structure reveals a ligand-bound occluded conformation with a central hydrophilic peptide-binding cavity and His61 as a key residue in the proton-coupling machinery.
+PepT_So is a proton-coupled oligopeptide transporter from Shewanella oneidensis. It belongs to the POT (proton-dependent oligopeptide transporter) family, a subgroup of the Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/)). PepT_So uses a proton gradient to drive the uptake of di- and tri-peptides and serves as a model system for understanding mammalian peptide transporters PepT1 and PepT2. The crystal structure reveals a ligand-bound occluded conformation with a central hydrophilic peptide-binding cavity and His61 as a key residue in the proton-coupling machinery.
 
 
 ## Structure Determination
@@ -54,10 +54,10 @@ PepT_So is a proton-coupled oligopeptide transporter from Shewanella oneidensis.
 
 ### Ligand-bound occluded state of MFS transporter
 
-The PepT_So structure captures a ligand-bound occluded conformation of an [MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/)
+The PepT_So structure captures a ligand-bound occluded conformation of an [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/)
 transporter, where both the extracellular and intracellular gates are closed,
 isolating the bound peptide within a central hydrophilic cavity. This represents
-a key intermediate in the [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/), bridging the outward-facing
+a key intermediate in the [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/), bridging the outward-facing
 and inward-facing states.
 
 ### Central hydrophilic peptide-binding cavity
@@ -91,12 +91,12 @@ proton electrochemical gradient.
 
 ## Cross-References
 
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/) — PepT_So belongs to the MFS of secondary active transporters
-- [POT Family (Proton-Dependent Oligopeptide Transporters)](/xray-mp-wiki/concepts/pot-family/) — PepT_So is a member of the POT family within MFS
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — PepT_So captures an occluded intermediate of the alternating access cycle
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — PepT_So belongs to the MFS of secondary active transporters
+- [POT Family (Proton-Dependent Oligopeptide Transporters)](/xray-mp-wiki/concepts/transport-mechanisms/pot-family/) — PepT_So is a member of the POT family within MFS
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — PepT_So captures an occluded intermediate of the alternating access cycle
 - [PepT_St Proton-Dependent Oligopeptide Transporter](/xray-mp-wiki/proteins/mfs-transporters/pept-st/) — POT family member from Streptococcus thermophilus, 8 crystal structures
 - [PepT_So2 Oligopeptide Transporter](/xray-mp-wiki/proteins/mfs-transporters/pept-so2/) — POT family member from Shewanella oneidensis, inward open conformation with substrate
-- [MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/) — Related biological concept
+- [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — Related biological concept
 - [MIRAS](/xray-mp-wiki/methods/structure-determination/miras/) — Method used in structure determination or purification
 - [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) — Additive used in purification or crystallization buffers
 - [L-Methionine](/xray-mp-wiki/reagents/ligands/l-methionine/) — Related ligand or cofactor

@@ -86,5 +86,5 @@ Kinetic [3H]melatonin dissociation studies show substantially longer residence t
 ## Cross-References
 
 - [Human MT1 Melatonin Receptor](/xray-mp-wiki/proteins/gpcr/human-mt1-melatonin-receptor/) — Sister subtype; companion paper (10.1038/s41586-019-1141-3) describes MT1 structures used for comparison
-- [GPCR Active Conformation](/xray-mp-wiki/concepts/gpcr-active-conformation/) — MT2 structures represent inactive 'low agonist affinity' state
-- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/gpcr-inactive-conformation/) — MT2 structures stabilized in inactive state by crystallization construct mutations
+- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — MT2 structures represent inactive 'low agonist affinity' state
+- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — MT2 structures stabilized in inactive state by crystallization construct mutations

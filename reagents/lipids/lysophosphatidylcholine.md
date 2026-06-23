@@ -48,5 +48,5 @@ No comparison data available.
 - [E. coli MscS (Mechanosensitive Channel of Small Conductance)](/xray-mp-wiki/proteins/voltage-gated-channels/mscs/) — LPC triggers MscS channel opening by displacing diacyl phospholipids from transmembrane pockets
 - [Phosphatidylcholine (PC)](/xray-mp-wiki/reagents/lipids/phosphatidylcholine/) — Diacyl precursor of LPC
 - [Phosphatidylethanolamine (PE)](/xray-mp-wiki/reagents/lipids/phosphatidylethanolamine/) — Diacyl phospholipid displaced from MscS pockets by LPC
-- [Force-from-Lipid Principle in Mechanosensation](/xray-mp-wiki/concepts/force-from-lipid-principle/) — LPC gating of MscS is a special case of the FFL model
+- [Force-from-Lipid Principle in Mechanosensation](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/force-from-lipid-principle/) — LPC gating of MscS is a special case of the FFL model
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers

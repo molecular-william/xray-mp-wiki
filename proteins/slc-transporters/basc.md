@@ -91,7 +91,7 @@ BasC provides the first atomic-resolution structure of a LAT family transporter.
 
 ## Cross-References
 
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — BasC is an obligatory exchanger using alternating access for amino acid transport
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — BasC is an obligatory exchanger using alternating access for amino acid transport
 - [Tris](/xray-mp-wiki/reagents/buffers/tris/) — Primary buffer component throughout purification
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Used in Ni-NTA affinity chromatography
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Ni-NTA IMAC used for initial purification

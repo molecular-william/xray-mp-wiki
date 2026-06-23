@@ -142,8 +142,8 @@ D121G and S426M mutations in subsite B (TM3 and TM8) enhance dDAT binding affini
 - [Human Serotonin Transporter (SERT)](/xray-mp-wiki/proteins/slc-transporters/ssert/) — NSS family homolog; structural comparison between SERT and dDAT reveals conserved architecture and distinct EL6/EL2 regions
 - [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) — NSS family prototype; dDAT structure confirms conserved LeuT-fold architecture
 - [MhsT Multi-Hydrophobic Amino Acid Transporter from Bacillus halodurans](/xray-mp-wiki/proteins/mhst/) — NSS family member; dDAT shares 25% sequence identity with MhsT
-- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/nss-family/) — dDAT is a eukaryotic member of the NSS family
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Core transport mechanism of NSS family; DCP-bound structure supports alternating access
+- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/transport-mechanisms/nss-family/) — dDAT is a eukaryotic member of the NSS family
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Core transport mechanism of NSS family; DCP-bound structure supports alternating access
 - [Dopamine](/xray-mp-wiki/reagents/ligands/dopamine/) — Endogenous substrate; cocrystal structure of dDAT_mfc-DA complex
 - [Cocaine](/xray-mp-wiki/reagents/ligands/cocaine/) — Competitive inhibitor; cocrystal structure of dDAT_mfc-cocaine complex
 - [D-Amphetamine](/xray-mp-wiki/reagents/ligands/d-amphetamine/) — Psychostimulant substrate; cocrystal structure of dDAT_mfc-D-amphetamine complex

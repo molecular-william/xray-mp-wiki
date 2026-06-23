@@ -126,5 +126,5 @@ metal ion before ADP.
 - [Bovine F1 ATPase](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) — Homologous ATP synthase catalytic domain used for comparison
 - [Yeast Mitochondrial ATP Synthase c10 Ring](/xray-mp-wiki/proteins/pumps-atpases/yeast-mitochondrial-atp-synthase-c10-ring/) — The membrane rotor component of the same ATP synthase complex
 - [AMP-PNP](/xray-mp-wiki/reagents/ligands/amp-pnp/) — ATP analog bound in the catalytic sites
-- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/f1-atpase-rotary-mechanism/) — The IF1-inhibited structure captures a post-hydrolysis intermediate providing evidence for sequential product release in the rotary mechanism
+- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/) — The IF1-inhibited structure captures a post-hydrolysis intermediate providing evidence for sequential product release in the rotary mechanism
 - [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) — Related ligand or cofactor

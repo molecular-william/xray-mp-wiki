@@ -152,8 +152,8 @@ interaction, explaining the loss of transport in infantile sialic acid storage d
 
 ## Cross-References
 
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/) — DgoT belongs to the MFS fold with 12 TM helices arranged in 2 six-helix bundles
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Two structures capture inward-open and outward-facing states of the transport cycle
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — DgoT belongs to the MFS fold with 12 TM helices arranged in 2 six-helix bundles
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Two structures capture inward-open and outward-facing states of the transport cycle
 - [XylE (E. coli Sugar Transporter)](/xray-mp-wiki/proteins/mfs-transporters/xyle/) — Related MFS transporter; structural comparison for periplasmic gating via TM7 bending
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for DgoT solubilization and purification
 - [beta-Octylglucoside (OG) / beta-Nonylglucoside (beta-NG)](/xray-mp-wiki/reagents/detergents/og/) — Beta-NG identified in aqueous cavity of WT DgoT structure

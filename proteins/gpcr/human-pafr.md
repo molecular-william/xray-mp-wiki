@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-The human platelet-activating factor receptor (PAFR) is a class A [G Protein](/xray-mp-wiki/concepts/gpcr-g-protein-coupling/)-coupled receptor that responds to platelet-activating factor (PAF), a phospholipid mediator of cell-to-cell communication involved in inflammation, immune responses, and cardiovascular regulation. The first crystal structures of PAFR were determined in complex with the antagonist SR 27417 at 2.8 A resolution (PDB 5ZKP) and the inverse agonist ABT-491 at 2.9 A resolution (PDB 5ZKQ) (Cao et al., 2018). The structures reveal an unusual conformation in the SR 27417-bound state, with the intracellular tips of helices II and IV shifting outward by 13 A and 4 A, respectively, and helix VIII adopting an inward conformation across the helical bundle. Combined with smFRET and functional assays, the structures suggest that the conformational change in the helical bundle is ligand dependent and plays a critical role in PAFR activation.
+The human platelet-activating factor receptor (PAFR) is a class A [G Protein](/xray-mp-wiki/concepts/signaling-receptors/gpcr-g-protein-coupling/)-coupled receptor that responds to platelet-activating factor (PAF), a phospholipid mediator of cell-to-cell communication involved in inflammation, immune responses, and cardiovascular regulation. The first crystal structures of PAFR were determined in complex with the antagonist SR 27417 at 2.8 A resolution (PDB 5ZKP) and the inverse agonist ABT-491 at 2.9 A resolution (PDB 5ZKQ) (Cao et al., 2018). The structures reveal an unusual conformation in the SR 27417-bound state, with the intracellular tips of helices II and IV shifting outward by 13 A and 4 A, respectively, and helix VIII adopting an inward conformation across the helical bundle. Combined with smFRET and functional assays, the structures suggest that the conformational change in the helical bundle is ligand dependent and plays a critical role in PAFR activation.
 
 ## Structure Determination
 
@@ -99,5 +99,5 @@ Molecular docking of PAF into the PAFR-SR 27417 structure revealed that the sn-1
 - [TALON IMAC Resin](/xray-mp-wiki/reagents/additives/talon/) — Used for affinity purification of PAFR
 - [Ni-NTA Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) — Used for negative purification after tag cleavage
 - [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) — Added (1 mg/ml) during solubilization
-- [GPCR Active Conformation](/xray-mp-wiki/concepts/gpcr-active-conformation/) — PAFR structures reveal ligand-dependent conformational changes in helical bundle
+- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — PAFR structures reveal ligand-dependent conformational changes in helical bundle
 - [Bovine Rhodopsin](/xray-mp-wiki/proteins/gpcr/bovine-rhodopsin/) — Prototypical class A GPCR for structural comparison

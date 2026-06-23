@@ -97,7 +97,7 @@ of GABA_B receptors.
 ## Cross-References
 
 - [Human GABA_B Receptor](/xray-mp-wiki/proteins/gpcr/human-gabab-receptor/) — KCTD16 binds to the C-terminal tail of the GABA_B2 subunit as an auxiliary regulatory subunit
-- [GPCR-G Protein Coupling Mechanism](/xray-mp-wiki/concepts/gpcr-g-protein-coupling/) — KCTD16 modulates GABA_B receptor coupling to GIRK channels
+- [GPCR-G Protein Coupling Mechanism](/xray-mp-wiki/concepts/signaling-receptors/gpcr-g-protein-coupling/) — KCTD16 modulates GABA_B receptor coupling to GIRK channels
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers

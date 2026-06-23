@@ -62,7 +62,7 @@ No comparison data available.
 - [Human P2Y1 Receptor](/xray-mp-wiki/proteins/gpcr/human-p2y1-receptor/) — Primary target; co-crystallized allosteric ligand in 2.2 A structure (PDB 4M49)
 - [MRS2500](/xray-mp-wiki/reagents/ligands/mrs2500/) — Both ligands co-crystallized with P2Y1R in this paper; distinct orthosteric vs allosteric binding
 - [2-Methylthio-ADP (2MeSADP)](/xray-mp-wiki/reagents/ligands/2me-sadp/) — Radiolabeled agonist used in competition and dissociation assays with BPTU
-- [P2Y Receptor Family](/xray-mp-wiki/concepts/p2y-receptor-family/) — BPTU is a selective P2Y1 receptor antagonist
+- [P2Y Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/p2y-receptor-family/) — BPTU is a selective P2Y1 receptor antagonist
 - [BRIL Fusion Protein](/xray-mp-wiki/reagents/protein-tags/bril/) — BRIL fused to P2Y1R construct 2 for BPTU crystallization
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for P2Y1R solubilization in BPTU complex purification
 - [UREA](/xray-mp-wiki/reagents/substrates/urea/) — Entity mentioned in text

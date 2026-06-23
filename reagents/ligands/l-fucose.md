@@ -44,4 +44,4 @@ No comparison data available.
 ## Cross-References
 
 - [Fucose Permease (FucP)](/xray-mp-wiki/proteins/mfs-transporters/fucose-permease-fucp/) — FucP is the L-fucose/H+ symporter from E. coli
-- [Major Facilitator Superfamily (MFS) Transporter](/xray-mp-wiki/concepts/mfs-transporter/) — FucP is an MFS transporter that transports L-fucose
+- [Major Facilitator Superfamily (MFS) Transporter](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — FucP is an MFS transporter that transports L-fucose

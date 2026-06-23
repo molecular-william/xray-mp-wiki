@@ -139,7 +139,7 @@ map covers 55% of the EAAT1_CRYST sequence with 77 unique peptides.
 
 ### TM1a deletions impair glutamate transport
 
-N-terminal [Truncation](/xray-mp-wiki/concepts/truncation/) of EAAT1 (labeled with the N-terminal residue) show
+N-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) of EAAT1 (labeled with the N-terminal residue) show
 that TM1a deletions progressively impair [L Glutamate](/xray-mp-wiki/reagents/substrates/l-glutamate/) uptake in HEK293 cells.
 Radioactive [L Glutamate](/xray-mp-wiki/reagents/substrates/l-glutamate/) uptake decreases steeply in incremental N-term
 truncated constructs, while protein expression (measured by GFP counts)
@@ -159,13 +159,13 @@ substrate-induced conformational changes.
 ## Cross-References
 
 - [GltPh (Glutamate Transporter Homologue from Pyrococcus horikoshii)](/xray-mp-wiki/proteins/slc-transporters/glt-ph/) — Prokaryotic homologue with same fold; structural basis for elevator mechanism
-- [Elevator Mechanism](/xray-mp-wiki/concepts/elevator-mechanism/) — EAAT1 transports substrates via elevator-like rigid-body movements of the transport domain
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — SLC1 transporters operate by alternating access of the substrate binding site
+- [Elevator Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/elevator-mechanism/) — EAAT1 transports substrates via elevator-like rigid-body movements of the transport domain
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — SLC1 transporters operate by alternating access of the substrate binding site
 - [UCPH101](/xray-mp-wiki/reagents/ligands/ucph101/) — Selective allosteric inhibitor of EAAT1 bound in the TranD-ScaD interface
 - [TBOA (DL-threo-beta-benzyloxyaspartic acid)](/xray-mp-wiki/reagents/ligands/tboa/) — Competitive inhibitor bound in co-structure with UCPH101
 - [DDS (Dodecanoyl Sucrose)](/xray-mp-wiki/reagents/detergents/dds/) — Detergent used for solubilization and crystallization
-- [Anion Channel Gating](/xray-mp-wiki/concepts/anion-channel-gating/) — EAAT1 Cl- conductance is gated by two hydrophobic regions at the domain interface
+- [Anion Channel Gating](/xray-mp-wiki/concepts/transport-mechanisms/anion-channel-gating/) — EAAT1 Cl- conductance is gated by two hydrophobic regions at the domain interface
 - [DTT (Dithiothreitol)](/xray-mp-wiki/reagents/additives/dtt/) — Reducing agent used to test disulfide crosslinking in EAAT1 cysteine mutants
-- [Glutamate Transporter Family (SLC1/EAAT)](/xray-mp-wiki/concepts/glutamate-transporter-family/) — EAAT1 is a human SLC1 family member; ion-coupling mechanism is shared across the family
-- [Substrate-Protonation Coupling](/xray-mp-wiki/concepts/substrate-protonation-coupling/) — E386 protonation is coupled to substrate binding in EAAT1 transport mechanism
+- [Glutamate Transporter Family (SLC1/EAAT)](/xray-mp-wiki/concepts/transport-mechanisms/glutamate-transporter-family/) — EAAT1 is a human SLC1 family member; ion-coupling mechanism is shared across the family
+- [Substrate-Protonation Coupling](/xray-mp-wiki/concepts/transport-mechanisms/substrate-protonation-coupling/) — E386 protonation is coupled to substrate binding in EAAT1 transport mechanism
 - [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Cryo-EM structure of wild-type EAAT1 determined at 3.99 A

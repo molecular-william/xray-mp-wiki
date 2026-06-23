@@ -52,4 +52,4 @@ No comparison data available.
 ## Cross-References
 
 - [Human Glycine Receptor Alpha-3 Homopentamer (GlyRα3)](/xray-mp-wiki/proteins/cys-loop-receptors/glycine-receptor-alpha3/) — Primary target of strychnine; structure solved in complex
-- [Cys-Loop Receptor Family](/xray-mp-wiki/concepts/cys-loop-receptor-family/) — Strychnine acts on GlyR, a member of the Cys-loop receptor family
+- [Cys-Loop Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) — Strychnine acts on GlyR, a member of the Cys-loop receptor family

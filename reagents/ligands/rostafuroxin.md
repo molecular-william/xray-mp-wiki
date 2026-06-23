@@ -57,4 +57,4 @@ No comparison data available.
 
 - [Na+,K+-ATPase (Pig Kidney)](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-pig-kidney/) — Primary target; E2P-ROS complex structure determined in this study
 - [Ouabain](/xray-mp-wiki/reagents/ligands/ouabain/) — Classical cardiotonic steroid; functional comparison with ROS
-- [Cardiotonic Steroids](/xray-mp-wiki/concepts/cardiotonic-steroids/) — ROS is a next-generation cardiotonic steroid
+- [Cardiotonic Steroids](/xray-mp-wiki/concepts/miscellaneous/cardiotonic-steroids/) — ROS is a next-generation cardiotonic steroid

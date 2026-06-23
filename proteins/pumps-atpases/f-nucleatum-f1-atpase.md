@@ -92,7 +92,7 @@ The crystallization buffer contained 100 mM sodium  pH 6.0, and the weak density
 
 - [F1-ATPase from Caldalkalibacillus thermarum](/xray-mp-wiki/proteins/pumps-atpases/c-thermarum-f1-atpase/) — Most similar F1-ATPase structure; betaE occupied by ADP+phosphate; used as MR search model
 - [Bovine F1-ATPase (Mitochondrial ATP Synthase Catalytic Domain)](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) — Homologous enzyme; F. nucleatum F1-ATPase regulation by ADP concentration similar to mitochondrial enzyme
-- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/f1-atpase-rotary-mechanism/) — The rotary catalytic mechanism is the fundamental operating principle of F1-ATPases
+- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/) — The rotary catalytic mechanism is the fundamental operating principle of F1-ATPases
 - [ADP](/xray-mp-wiki/reagents/ligands/adp/) — Referenced in f-nucleatum-f1-atpase text
 - [ATP](/xray-mp-wiki/reagents/ligands/atp/) — Referenced in f-nucleatum-f1-atpase text
 - [Citrate](/xray-mp-wiki/reagents/buffers/citrate/) — Referenced in f-nucleatum-f1-atpase text

@@ -53,5 +53,5 @@ SLAC1 conducts anions but not cations and is selective among anions with the rel
 ## Cross-References
 
 - [HiTehA (TehA from Haemophilus influenzae)](/xray-mp-wiki/proteins/other-ion-channels/hiteha/) — Bacterial homologue; HiTehA structure used as template for SLAC1 homology model
-- [Anion Channel Gating via Phenylalanine Gate](/xray-mp-wiki/concepts/anion-channel-gating/) — Phe 450 gate mechanism identified through SLAC1-HiTehA structural comparison
-- [SLAC1 Superfamily](/xray-mp-wiki/concepts/slac1-superfamily/) — SLAC1 is the founding member of the SF1A plant subfamily
+- [Anion Channel Gating via Phenylalanine Gate](/xray-mp-wiki/concepts/transport-mechanisms/anion-channel-gating/) — Phe 450 gate mechanism identified through SLAC1-HiTehA structural comparison
+- [SLAC1 Superfamily](/xray-mp-wiki/concepts/protein-families/slac1-superfamily/) — SLAC1 is the founding member of the SF1A plant subfamily

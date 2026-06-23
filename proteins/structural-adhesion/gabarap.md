@@ -15,12 +15,12 @@ verified: false
 ## Overview
 
 GABARAP (Gamma-aminobutyric acid receptor-associated protein) is a member of the mammalian ATG8
-Prostanoid Receptor Family of ubiquitin-like [PE-PPE Fusion Proteins](/xray-mp-wiki/concepts/pe-ppe-fusion-proteins/) involved In autophagy. It is conjugated to [Phosphatidylethanolamine](/xray-mp-wiki/reagents/lipids/phosphatidylethanolamine/)
+Prostanoid Receptor Family of ubiquitin-like [PE-PPE Fusion Proteins](/xray-mp-wiki/concepts/construct-design/pe-ppe-fusion-proteins/) involved In autophagy. It is conjugated to [Phosphatidylethanolamine](/xray-mp-wiki/reagents/lipids/phosphatidylethanolamine/)
 (Pe) On autophagosomal membranes and plays crucial roles In autophagosome biogenesis, cargo
 selection, and autophagosome-lysosome [SMO-FLA Fusion Construct (SMO-Flavodoxin)](/xray-mp-wiki/proteins/gpcr/smoothened-fla-fusion/) (SMO-Flavodoxin) (SMO-Flavodoxin). GABARAP adopts a typical ATG8-fold: [TEVC](/xray-mp-wiki/methods/quality-assessment/two-electrode-voltage-clamp/) N-Terminal [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) Fusion for GPCR Crystallization
 Alpha-helices followed by a ubiquitin-like core with a four-stranded Beta-sheet and [TEVC](/xray-mp-wiki/methods/quality-assessment/two-electrode-voltage-clamp/) Alpha-helices.
-[STX17](/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/) binds preferentially to GABARAP [aMATE-1 Subfamily — Archaeal MATE Transporters](/xray-mp-wiki/concepts/amate-1-subfamily/) — Archaeal MATE Transporters — Archaeal MATE Transporters members over LC3 [aMATE-1 Subfamily — Archaeal MATE Transporters](/xray-mp-wiki/concepts/amate-1-subfamily/) — Archaeal MATE Transporters — Archaeal MATE Transporters members via an
-[DRD2-EBP](/xray-mp-wiki/concepts/drd2-extended-binding-pocket/) LIR SLC6 Substrate Recognition by the GMG Motif containing a C-terminal 310-Helix Shift Mechanism for Carboxylate Drug Transport. The [Single-Crystal Microspectrophotometry](/xray-mp-wiki/methods/structure-determination/single-crystal-microspectrophotometry/) [Structure-Based Design of Third-Generation Antipsychotics](/xray-mp-wiki/concepts/structure-based-antipsychotic-design/) of the [STX17](/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/) LIR-GABARAP
+[STX17](/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/) binds preferentially to GABARAP [aMATE-1 Subfamily — Archaeal MATE Transporters](/xray-mp-wiki/concepts/transport-mechanisms/amate-1-subfamily/) — Archaeal MATE Transporters — Archaeal MATE Transporters members over LC3 [aMATE-1 Subfamily — Archaeal MATE Transporters](/xray-mp-wiki/concepts/transport-mechanisms/amate-1-subfamily/) — Archaeal MATE Transporters — Archaeal MATE Transporters members via an
+[DRD2-EBP](/xray-mp-wiki/concepts/structural-mechanisms/drd2-extended-binding-pocket/) LIR SLC6 Substrate Recognition by the GMG Motif containing a C-terminal 310-Helix Shift Mechanism for Carboxylate Drug Transport. The [Single-Crystal Microspectrophotometry](/xray-mp-wiki/methods/structure-determination/single-crystal-microspectrophotometry/) [Structure-Based Design of Third-Generation Antipsychotics](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) of the [STX17](/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/) LIR-GABARAP
 complex was determined At 2.0 A resolution.
 
 
@@ -53,7 +53,7 @@ Allosteric Mechanism of Aspartate Carbamoyltransferase links ATG8 Prostanoid Rec
 ### STX17 preferentially binds GABARAP over LC3 subfamily members
 
 [ITC](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/) measurements showed [STX17](/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/) has higher [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) for GABARAP (Kd ~4 uM) compared to
-LC3A, LC3B, and LC3C (Kd ~22-97 uM). Key structural differences explaining [GAS Selectivity Filter](/xray-mp-wiki/concepts/gas-selectivity-filter/)
+LC3A, LC3B, and LC3C (Kd ~22-97 uM). Key structural differences explaining [GAS Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/gas-selectivity-filter/)
 include: residue L55/F62 In GABARAP (providing Hydrophobic contacts with the C-terminal
 310-Helix) being smaller V or E. coli Polar Lipids K/S In LC3s; and K47 In GABARAP being neutral T In LC3s.
 
@@ -61,12 +61,12 @@ include: residue L55/F62 In GABARAP (providing Hydrophobic contacts with the C-t
 ## Cross-References
 
 - [Syntaxin17 (STX17)](/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/) — GABARAP binds STX17 LIR motif to regulate autophagic SNARE assembly
-- [Autophagic SNARE Fusion Mechanism](/xray-mp-wiki/concepts/autophagic-snare-fusion-mechanism/) — GABARAP-mediated STX17 recruitment is a key step in autophagosome-lysosome fusion
+- [Autophagic SNARE Fusion Mechanism](/xray-mp-wiki/concepts/construct-design/autophagic-snare-fusion-mechanism/) — GABARAP-mediated STX17 recruitment is a key step in autophagosome-lysosome fusion
 - [Two-Electrode Voltage Clamp (TEVC)](/xray-mp-wiki/methods/quality-assessment/two-electrode-voltage-clamp/) — Referenced in gabarap description
 - [beta-FOA (beta-Fuoxymorphamine)](/xray-mp-wiki/reagents/ligands/beta-foa/) — Referenced in gabarap description
-- [Polar Network in GPCR Activation](/xray-mp-wiki/concepts/polar-network-gpcr-activation/) — Referenced in gabarap description
-- [Structure-Based Design of Third-Generation Antipsychotics](/xray-mp-wiki/concepts/structure-based-antipsychotic-design/) — Referenced in gabarap description
-- [N-Terminal T4 Lysozyme Fusion for GPCR Crystallization](/xray-mp-wiki/concepts/n-terminal-t4-lysozyme-fusion/) — Referenced in gabarap description
+- [Polar Network in GPCR Activation](/xray-mp-wiki/concepts/signaling-receptors/polar-network-gpcr-activation/) — Referenced in gabarap description
+- [Structure-Based Design of Third-Generation Antipsychotics](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) — Referenced in gabarap description
+- [N-Terminal T4 Lysozyme Fusion for GPCR Crystallization](/xray-mp-wiki/concepts/signaling-receptors/n-terminal-t4-lysozyme-fusion/) — Referenced in gabarap description
 - [Gamma-Butyrobetaine (4-Trimethylaminobutyrate)](/xray-mp-wiki/reagents/ligands/gamma-butyrobetaine/) — Referenced in gabarap description
 - [Arabidopsis thaliana Sucrose Transporter SUC1](/xray-mp-wiki/proteins/mfs-transporters/at-suc1/) — Referenced in gabarap description
 - [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag/) — Referenced in gabarap description

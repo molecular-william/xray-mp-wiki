@@ -107,10 +107,10 @@ The original crystal structure of shark Na+,K+-ATPase was determined at 2.4 Å r
 - [Tris](/xray-mp-wiki/reagents/buffers/tris/) — Buffer component (Tris-HCl pH 7.0, Tris pH 7.5)
 - [MES](/xray-mp-wiki/reagents/buffers/mes/) — Buffer component (MES/Tris buffer pH 7.0)
 - [Magnesium chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — MgCl2 required for MgF4²⁻ formation
-- [P-type ATPase Mechanism](/xray-mp-wiki/concepts/p-type-atpase-mechanism/) — Na+,K+-ATPase is a canonical P-type ATPase; Post-Albers cycle
+- [P-type ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/p-type-atpase-mechanism/) — Na+,K+-ATPase is a canonical P-type ATPase; Post-Albers cycle
 - [Na+,K+-ATPase from Pig Kidney](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-pig-kidney/) — Related P-type ATPase; pig enzyme studied by rapid filtration methods
 - [PEG300](/xray-mp-wiki/reagents/additives/peg300) — Entity mentioned in text
 - [Istaroxime](/xray-mp-wiki/reagents/ligands/istaroxime/) — Next-generation cardiotonic steroid; cryo-EM structures reveal unique upside-down binding mode
-- [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/phosphoenzyme-e2p-state/) — Cryo-EM structures of E2P^ATP and E2P^Pi·Mg2+ states of shark NKA
-- [Cardiotonic Steroids](/xray-mp-wiki/concepts/cardiotonic-steroids/) — Oubain and istaroxime binding to NKA E2P states studied by cryo-EM
+- [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/enzyme-mechanisms/phosphoenzyme-e2p-state/) — Cryo-EM structures of E2P^ATP and E2P^Pi·Mg2+ states of shark NKA
+- [Cardiotonic Steroids](/xray-mp-wiki/concepts/miscellaneous/cardiotonic-steroids/) — Oubain and istaroxime binding to NKA E2P states studied by cryo-EM
 - [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Primary method used to determine E2P state structures at 3.4-3.9 A resolution

@@ -68,4 +68,4 @@ QseG, an outer membrane lipoprotein, co-localizes with QseE in the periplasmic s
 ## Cross-References
 
 - [QseG Outer Membrane Lipoprotein](/xray-mp-wiki/proteins/enzymes/qseg-outer-membrane-lipoprotein/) — QseG interacts with QseE in the periplasm to form the three-component system
-- [QseE/F/G Three-Component System](/xray-mp-wiki/concepts/qse-efg-three-component-system/) — QseE is the histidine kinase sensor component of this system
+- [QseE/F/G Three-Component System](/xray-mp-wiki/concepts/miscellaneous/qse-efg-three-component-system/) — QseE is the histidine kinase sensor component of this system

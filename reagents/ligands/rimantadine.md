@@ -48,4 +48,4 @@ No comparison data available.
 - [Influenza A M2 Proton Channel](/xray-mp-wiki/proteins/other-ion-channels/influenza-a-m2-proton-channel/) — Primary target; crystal structures in both Inward_closed (6BKL) and Inward_open (5BOC) states solved
 - [Amantadine](/xray-mp-wiki/reagents/ligands/amantadine/) — Related adamantyl-amine inhibitor with similar binding mechanism and target
 - [SPIRO (Spiro-adamantyl amine)](/xray-mp-wiki/reagents/ligands/spiro/) — Extended adamantyl-amine derivative that displaces more water from M2 channel
-- [Water Networks in GPCR Ligand Binding](/xray-mp-wiki/concepts/water-network-in-ligand-binding/) — Rimantadine binding relies on water-mediated interactions in M2 channel
+- [Water Networks in GPCR Ligand Binding](/xray-mp-wiki/concepts/signaling-receptors/water-network-in-ligand-binding/) — Rimantadine binding relies on water-mediated interactions in M2 channel

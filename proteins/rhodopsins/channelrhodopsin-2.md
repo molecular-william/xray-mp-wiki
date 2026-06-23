@@ -101,7 +101,7 @@ FTIR spectroscopy responses between the two proteins.
 ## Cross-References
 
 - [Channelrhodopsin C1C2](/xray-mp-wiki/proteins/rhodopsins/channelrhodopsin-c1c2/) — Chimeric construct used for comparison; shows distinct structural and functional differences from native ChR2
-- [Channelrhodopsin Photocycle](/xray-mp-wiki/concepts/channelrhodopsin-photocycle/) — ChR2 structures provide molecular basis for understanding the photocycle and gating mechanism
+- [Channelrhodopsin Photocycle](/xray-mp-wiki/concepts/transport-mechanisms/channelrhodopsin-photocycle/) — ChR2 structures provide molecular basis for understanding the photocycle and gating mechanism
 - [n-Dodecyl-beta-D-maltoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Used throughout purification (0.1% for affinity, 0.05% for SEC)
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Used as LCP host lipid for in meso crystallization
 - [LEXSY Leishmania tarentolae Expression System](/xray-mp-wiki/methods/expression-systems/lexsy-expression-system/) — Expression system used for ChR2 production

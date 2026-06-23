@@ -91,6 +91,6 @@ Alanine or glutamine mutations of Glu78, Glu255, or Glu258 decreased H+/Ca2+ exc
 ## Cross-References
 
 - [NCX_Mj Sodium/Calcium Exchanger](/xray-mp-wiki/proteins/slc-transporters/ncx-mj/) — Homologous CaCA superfamily member; outward-facing structure used for structural comparison revealing the alternating access mechanism
-- [Ca2+:Cation Antiporter (CaCA) Superfamily](/xray-mp-wiki/concepts/caca-superfamily/) — CAX_Af is a member of the CAX family within the CaCA superfamily
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — CAX_Af operates via alternating access with gating bundle sliding
+- [Ca2+:Cation Antiporter (CaCA) Superfamily](/xray-mp-wiki/concepts/transport-mechanisms/caca-superfamily/) — CAX_Af is a member of the CAX family within the CaCA superfamily
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — CAX_Af operates via alternating access with gating bundle sliding
 - [Vcx1](/xray-mp-wiki/proteins/slc-transporters/vcx1/) — Another CAX family structure; cytosol-facing conformation for comparison

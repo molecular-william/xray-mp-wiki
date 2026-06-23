@@ -96,7 +96,7 @@ C7NG (CYMAL-7 neopentyl glycol, MW 1,028), an [LMNG](/xray-mp-wiki/reagents/dete
 - [DDM (N-Dodecyl-beta-D-maltoside)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for initial MexB structures; replaced by LMNG in this study
 - [ABI-PP (efflux pump inhibitor)](/xray-mp-wiki/reagents/additives/abi-pp/) — ABI-PP binds the same hydrophobic pit in the DBP; LMNG alkyl chain inserts into the ABI-PP binding site
 - [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) — Used at 10 mM pH 7.5 for protein purification and final sample buffer
-- [RND efflux pumps](/xray-mp-wiki/concepts/rnd-efflux-pumps/) — MexB is a member of the RND transporter superfamily
+- [RND efflux pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) — MexB is a member of the RND transporter superfamily
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
 - [MexB (Pseudomonas aeruginosa multidrug exporter)](/xray-mp-wiki/proteins/abc-transporters/mexB/) — Related protein structure

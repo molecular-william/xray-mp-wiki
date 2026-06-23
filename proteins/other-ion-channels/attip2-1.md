@@ -14,12 +14,12 @@ verified: false
 
 ## Overview
 
-AtTIP2;1 is an ammonia-permeable [Aquaporin](/xray-mp-wiki/concepts/aquaporin/) (aquaammoniaporin) from the TIP
+AtTIP2;1 is an ammonia-permeable [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) (aquaammoniaporin) from the TIP
 (Tonoplast Intrinsic Protein) subfamily of Arabidopsis thaliana. It facilitates
 permeation of both water and ammonia across the vacuolar membrane. The
 structure reveals an extended selectivity filter with five positions,
 including a histidine (His 131) in loop C that directly participates in
-substrate interactions, a unique feature among [Aquaporin](/xray-mp-wiki/concepts/aquaporin/). A water-filled side
+substrate interactions, a unique feature among [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/). A water-filled side
 pore beneath loop C is speculated to participate in deprotonating ammonium
 ions, potentially increasing net ammonia permeation.
 
@@ -70,7 +70,7 @@ ions, potentially increasing net ammonia permeation.
 
 AtTIP2;1 reveals an extended selectivity filter with five positions
 (H2P, LCP, H5P, LEP, HEP) rather than the classical four-position
-aromatic/arginine filter of water-specific [Aquaporin](/xray-mp-wiki/concepts/aquaporin/). The conserved
+aromatic/arginine filter of water-specific [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/). The conserved
 arginine (Arg 200) adopts a unique unpredicted position, stabilized by
 interactions with His 63 (H2P) and His 131 (LCP).
 
@@ -99,8 +99,8 @@ filter determinants.
 
 ## Cross-References
 
-- [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) — AtTIP2;1 is a member of the aquaporin superfamily, specifically the TIP subfamily
-- [Extended Selectivity Filter](/xray-mp-wiki/concepts/extended-selectivity-filter/) — AtTIP2;1 defines the five-position extended selectivity filter in aquaporins
+- [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — AtTIP2;1 is a member of the aquaporin superfamily, specifically the TIP subfamily
+- [Extended Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/extended-selectivity-filter/) — AtTIP2;1 defines the five-position extended selectivity filter in aquaporins
 - [n-Octyl-beta-D-glucoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — OG used for solubilization of AtTIP2;1 from P. pastoris membranes
 - [Polyethylene Glycol 400 (PEG400)](/xray-mp-wiki/reagents/additives/peg-400/) — PEG 400 used as crystallization precipitant at 28% (v/v)
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Imidazole used at 100 mM in Ni-NTA wash step

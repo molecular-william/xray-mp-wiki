@@ -59,7 +59,7 @@ Ctr1 is the evolutionarily conserved high-affinity Cu⁺ transporter crucial for
 
 ### Selectivity filter
 
-Two strictly conserved [methionine triads](/xray-mp-wiki/concepts/selectivity-filter/) (M146 and M150 in TM2, MX₃M motif) form a Cu⁺ selectivity filter near the extracellular entrance. Each triad coordinates a single Cu⁺ ion through trigonal planar Cu-S coordination, conferring selectivity for Cu⁺ over Cu²⁺.
+Two strictly conserved [methionine triads](/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/) (M146 and M150 in TM2, MX₃M motif) form a Cu⁺ selectivity filter near the extracellular entrance. Each triad coordinates a single Cu⁺ ion through trigonal planar Cu-S coordination, conferring selectivity for Cu⁺ over Cu²⁺.
 
 ### Zinc binding and regulation
 
@@ -68,9 +68,9 @@ A Zn²⁺ binding site is formed by E80 (TM1) and H135 (TM2) from adjacent subun
 
 ## Cross-References
 
-- [Selectivity Filter](/xray-mp-wiki/concepts/selectivity-filter/) — Two methionine triads form a Cu⁺ selectivity filter
-- [Channel-Like Mechanism](/xray-mp-wiki/concepts/channel-like-mechanism/) — Ctr1 functions like an ion channel for Cu⁺ conduction
-- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/intramembrane-ion-coordination/) — Cu⁺ is coordinated by methionine S atoms in the selectivity filter
+- [Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/) — Two methionine triads form a Cu⁺ selectivity filter
+- [Channel-Like Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/channel-like-mechanism/) — Ctr1 functions like an ion channel for Cu⁺ conduction
+- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-ion-coordination/) — Cu⁺ is coordinated by methionine S atoms in the selectivity filter
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — SEC was used as a final purification step
 - [Hanging Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Crystals were grown by hanging drop vapor diffusion
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for solubilization at 2% (w/v)

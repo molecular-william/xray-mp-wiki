@@ -87,7 +87,7 @@ The uncompetitive inhibitor aurovertin B binds to bovine F1-ATPase at two equiva
 
 - [ATP Synthase Mechanism](/xray-mp-wiki/concepts/atp-synthase-mechanism/) — F1-ATPase is the catalytic domain of the F1Fo-ATP synthase, the central enzyme of oxidative phosphorylation
 - [ADP Inhibition](/xray-mp-wiki/concepts/adp-inhibition/) — Azide inhibition of F1-ATPase works by enhancing the natural ADP-inhibited state
-- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/f1-atpase-rotary-mechanism/) — Structural basis of phosphate release generating rotary substep
+- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/) — Structural basis of phosphate release generating rotary substep
 - [AMP-PNP (Adenylyl Imidodiphosphate)](/xray-mp-wiki/reagents/additives/amp-pnp/) — AMP-PNP used to trap the phosphate release dwell state
 - [ATP](/xray-mp-wiki/reagents/ligands/atp/) — Referenced in the context of ATP
 - [ADP](/xray-mp-wiki/reagents/ligands/adp/) — Referenced in the context of ADP

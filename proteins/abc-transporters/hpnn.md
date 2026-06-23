@@ -91,7 +91,7 @@ HpnN is critical for mediating resistance to [Chloramphenicol](/xray-mp-wiki/rea
 
 ## Cross-References
 
-- [RND Efflux Pumps](/xray-mp-wiki/concepts/rnd-efflux-pumps/) — HpnN is a member of the RND superfamily of transporters
+- [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) — HpnN is a member of the RND superfamily of transporters
 - [DDM (n-Dodecyl-β-D-Maltoside)](/xray-mp-wiki/reagents/detergents/ddm/) — Used for solubilization and crystallization of HpnN
 - [Buffer HEPES](/xray-mp-wiki/reagents/buffers/hepes/) — Used in purification buffer for HpnN
 - [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — Crystallization method used for HpnN

@@ -49,6 +49,6 @@ No comparison data available.
 
 - [Human 5-HT2A Receptor](/xray-mp-wiki/proteins/gpcr/5ht2a-receptor/) — Co-crystallized target; PDB 6A94 at 2.9 A resolution
 - [Risperidone](/xray-mp-wiki/reagents/ligands/risperidone) — Related second-generation antipsychotic co-crystallized with 5-HT2A (PDB 6A93)
-- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/gpcr-inactive-conformation/) — Zotepine stabilizes the inactive state of 5-HT2A
+- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — Zotepine stabilizes the inactive state of 5-HT2A
 - [Dopamine](/xray-mp-wiki/reagents/ligands/dopamine/) — Related ligand or cofactor
 - [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) — Related ligand or cofactor

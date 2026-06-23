@@ -207,6 +207,6 @@ In isolation, TolC assumes a closed resting state. In the assembled pump, intera
 - [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Method used in the study
 - [Minocycline](/xray-mp-wiki/reagents/ligands/minocycline/) — Substrate used in drug complex structure determination
 - [Doxorubicin](/xray-mp-wiki/reagents/ligands/doxorubicin/) — Substrate used in drug complex structure determination
-- [RND Efflux Pumps](/xray-mp-wiki/concepts/rnd-efflux-pumps/) — AcrB is the prototypical RND transporter
+- [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) — AcrB is the prototypical RND transporter
 - [AcrA multidrug efflux pump periplasmic protein](/xray-mp-wiki/proteins/abc-transporters/acra/) — AcrA is the periplasmic adaptor in the AcrAB-TolC complex
 - [EmrE (E. coli Small Multidrug Resistance Transporter)](/xray-mp-wiki/proteins/abc-transporters/emre/) — Related membrane protein for comparison

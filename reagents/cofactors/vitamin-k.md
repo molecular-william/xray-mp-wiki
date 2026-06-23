@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Vitamin K is a fat-soluble vitamin that exists in several forms, including vitamin K1 (phylloquinone) and vitamin K2 (menaquinones). The active form, vitamin K hydroquinone, serves as an essential cofactor in the gamma-glutamyl carboxylation of glutamate residues in vitamin K-dependent proteins. Vitamin K is reduced to its hydroquinone form by vitamin K epoxide reductase (VKOR), which oxidizes the hydroquinone back to vitamin K epoxide. The enzyme then reduces the epoxide back to vitamin K, completing the [Vitamin K Cycle](/xray-mp-wiki/concepts/vitamin-k-cycle/). [Warfarin](/xray-mp-wiki/reagents/ligands/warfarin/) and its analogs inhibit VKOR, disrupting the cycle and producing anticoagulant effects.
+Vitamin K is a fat-soluble vitamin that exists in several forms, including vitamin K1 (phylloquinone) and vitamin K2 (menaquinones). The active form, vitamin K hydroquinone, serves as an essential cofactor in the gamma-glutamyl carboxylation of glutamate residues in vitamin K-dependent proteins. Vitamin K is reduced to its hydroquinone form by vitamin K epoxide reductase (VKOR), which oxidizes the hydroquinone back to vitamin K epoxide. The enzyme then reduces the epoxide back to vitamin K, completing the [Vitamin K Cycle](/xray-mp-wiki/concepts/enzyme-mechanisms/vitamin-k-cycle/). [Warfarin](/xray-mp-wiki/reagents/ligands/warfarin/) and its analogs inhibit VKOR, disrupting the cycle and producing anticoagulant effects.
 
 ## Properties
 
@@ -39,4 +39,4 @@ No comparison data available.
 - [Menaquinone](/xray-mp-wiki/reagents/ligands/menaquinone/) — Bacterial form of vitamin K2 (menaquinone); structurally related
 - [Plastoquinone](/xray-mp-wiki/reagents/ligands/plastoquinone/) — Related quinone electron carrier in photosynthetic complexes
 - [Warfarin](/xray-mp-wiki/reagents/ligands/warfarin/) — VKOR inhibitor that disrupts the vitamin K cycle
-- [Vitamin K Cycle](/xray-mp-wiki/concepts/vitamin-k-cycle/) — Related biological concept
+- [Vitamin K Cycle](/xray-mp-wiki/concepts/enzyme-mechanisms/vitamin-k-cycle/) — Related biological concept

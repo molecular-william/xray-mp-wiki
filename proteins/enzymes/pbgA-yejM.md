@@ -108,8 +108,8 @@ Purified full-length [PbgA (YejM) Cardiolipin Transport Protein](/xray-mp-wiki/p
 
 ## Cross-References
 
-- [Selective Lipid Binding](/xray-mp-wiki/concepts/selective-lipid-binding/) — PbgA selectively binds lipid A (LPS) through a backbone-mediated scheme recognizing a single phospho-GlcNAc unit
-- [Membrane Mimetics](/xray-mp-wiki/concepts/membrane-mimetics/) — PbgA structure was determined in LCP (lipidic cubic phase), a membrane-mimetic system
+- [Selective Lipid Binding](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/selective-lipid-binding/) — PbgA selectively binds lipid A (LPS) through a backbone-mediated scheme recognizing a single phospho-GlcNAc unit
+- [Membrane Mimetics](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/) — PbgA structure was determined in LCP (lipidic cubic phase), a membrane-mimetic system
 - [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — Method used in structure determination or purification
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification

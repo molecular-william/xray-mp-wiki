@@ -77,8 +77,8 @@ Structural alignment of BhuU and HmuU monomers (r.m.s.d. 0.8 Å for 135 Cα atom
 
 ## Cross-References
 
-- [ABC Transporter Family](/xray-mp-wiki/concepts/abc-transporter-family/) — BhuUV is a type II ABC transporter
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Inward/outward-facing conformations illustrate alternating access
+- [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — BhuUV is a type II ABC transporter
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Inward/outward-facing conformations illustrate alternating access
 - [BhuUV-T Complex](/xray-mp-wiki/proteins/abc-transporters/bhuuv-t/) — BhuUV is the core complex of BhuUV-T
 - [French Press Cell Lysis](/xray-mp-wiki/methods/cell-lysis/french-press/) — Used for cell lysis in BhuUV purification
 - [n-Decyl-β-D-Maltopyranoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Detergent used for membrane solubilization

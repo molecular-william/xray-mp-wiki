@@ -98,7 +98,7 @@ The high-resolution [Glic](/xray-mp-wiki/proteins/cys-loop-receptors/glic/) stru
 - [Ivermectin](/xray-mp-wiki/reagents/ligands/ivermectin/) — High-affinity allosteric modulator of GluCl; antiparasitic drug target
 - [L-Glutamate](/xray-mp-wiki/reagents/ligands/glutamate/) — Endogenous neurotransmitter that activates GluCl
 - [Picrotoxin](/xray-mp-wiki/reagents/ligands/picrotoxin/) — Open-channel blocker confirming the pore is in an open conformation
-- [Channel Gating via Plug Domain Displacement](/xray-mp-wiki/concepts/channel-gating/) — Related gating mechanism in Cys-loop receptors
+- [Channel Gating via Plug Domain Displacement](/xray-mp-wiki/concepts/transport-mechanisms/channel-gating/) — Related gating mechanism in Cys-loop receptors
 - [Ivermectin](/xray-mp-wiki/reagents/ligands/ivermectin/) — Referenced in glucl text
 - [L Glutamate](/xray-mp-wiki/reagents/substrates/l-glutamate/) — Referenced in glucl text
 - [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) — Referenced in glucl text

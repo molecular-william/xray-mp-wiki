@@ -21,14 +21,14 @@ TRIC (trimeric intracellular cation) channels are monovalent cation channels loc
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##cr.2016.140 | 5H35 | 2.3 A | not specified | SsTRIC from Sulfolobus solfataricus (residues 1-217, C-terminal 7-aa [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/)) | lipid (acyl chain in lateral fenestration) |
-| doi/10.1038##cr.2016.140 | 5H36 | 2.7 A | not specified | RsTRIC from Rhodobacter sphaeroides (residues 1-193, C-terminal 8-aa [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/), L52M for SeMet) | lipid (acyl chain in lateral fenestration) |
+| doi/10.1038##cr.2016.140 | 5H35 | 2.3 A | not specified | SsTRIC from Sulfolobus solfataricus (residues 1-217, C-terminal 7-aa [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/)) | lipid (acyl chain in lateral fenestration) |
+| doi/10.1038##cr.2016.140 | 5H36 | 2.7 A | not specified | RsTRIC from Rhodobacter sphaeroides (residues 1-193, C-terminal 8-aa [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), L52M for SeMet) | lipid (acyl chain in lateral fenestration) |
 
 ## Expression and Purification
 
 - **Expression system**: Escherichia coli
-- **Construct**: RsTRIC (RsTRICΔC8, residues 1-193, C8 [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/)) cloned in pET vectors;
-SsTRIC (SsTRICΔC7, residues 1-217, C7 [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/)) cloned in pET vectors.
+- **Construct**: RsTRIC (RsTRICΔC8, residues 1-193, C8 [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/)) cloned in pET vectors;
+SsTRIC (SsTRICΔC7, residues 1-217, C7 [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/)) cloned in pET vectors.
 RsTRIC L52M mutant used for SeMet MAD phasing.
 C-terminal GFP-His8 tag for purification and [FSEC](/xray-mp-wiki/methods/quality-assessment/fluorescence-size-exclusion-chromatography/) screening.
 
@@ -122,8 +122,8 @@ may represent early conformational changes during channel activation.
 
 - [Ion Channel Mechanism](/xray-mp-wiki/concepts/ion-channel-mechanism/) — TRIC channels are monovalent cation channels that balance SR/ER membrane potentials
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent for solubilization and purification of TRIC channels
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — TRIC channels undergo conformational changes involving kink motions of TM2 and TM5 helices
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — TRIC channels undergo conformational changes involving kink motions of TM2 and TM5 helices
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification
 - [FSEC](/xray-mp-wiki/methods/quality-assessment/fluorescence-size-exclusion-chromatography/) — Method used in structure determination or purification

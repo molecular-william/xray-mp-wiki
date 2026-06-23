@@ -37,7 +37,7 @@ LTB4 is the high-affinity endogenous agonist for the [Leukotriene B4 Receptor 1 
  | Demonstrated sodium-dependent inhibition of LTB4 binding and competition between [BIIL260](/xray-mp-wiki/reagents/ligands/biil260/) and sodium ion
  |
 | Guinea Pig Leukotriene B4 Receptor 1 ([Leukotriene B4 Receptor 1 (BLT1) — Guinea Pig and Human](/xray-mp-wiki/proteins/gpcr/blt1/)) | Not specified (endogenous) | LTB4 binding affinity to [Leukotriene B4 Receptor 1 (BLT1) — Guinea Pig and Human](/xray-mp-wiki/proteins/gpcr/blt1/) was measured in thermostabilized [Leukotriene B4 Receptor 1 (BLT1) — Guinea Pig and Human](/xray-mp-wiki/proteins/gpcr/blt1/) mutants to confirm that the H83G/K88G/V212A/S309A mutations did not alter agonist affinity relative to wild-type [Leukotriene B4 Receptor 1 (BLT1) — Guinea Pig and Human](/xray-mp-wiki/proteins/gpcr/blt1/).
- | [Protein Thermostabilization](/xray-mp-wiki/concepts/thermostabilization/) mutations preserved agonist (LTB4) binding affinity
+ | [Protein Thermostabilization](/xray-mp-wiki/concepts/construct-design/thermostabilization/) mutations preserved agonist (LTB4) binding affinity
  |
 
 ## Advantages and Disadvantages
@@ -53,5 +53,5 @@ No comparison data available.
 - [Guinea Pig Leukotriene B4 Receptor 1 (BLT1)](/xray-mp-wiki/proteins/gpcr/blt1/) — Endogenous agonist of BLT1; used in binding assays
 - [BIIL260](/xray-mp-wiki/reagents/ligands/biil260/) — BLT1 antagonist that competes with LTB4 binding
 - [Benzamidine](/xray-mp-wiki/reagents/ligands/benzamidine/) — Competes with BIIL260 for the sodium ion-binding site of BLT1
-- [Sodium Ion Allosteric Modulation in GPCRs](/xray-mp-wiki/concepts/sodium-allosteric-modulation/) — Sodium ions modulate LTB4 binding to BLT1
-- [Protein Thermostabilization](/xray-mp-wiki/concepts/thermostabilization/) — Related biological concept
+- [Sodium Ion Allosteric Modulation in GPCRs](/xray-mp-wiki/concepts/signaling-receptors/sodium-allosteric-modulation/) — Sodium ions modulate LTB4 binding to BLT1
+- [Protein Thermostabilization](/xray-mp-wiki/concepts/construct-design/thermostabilization/) — Related biological concept

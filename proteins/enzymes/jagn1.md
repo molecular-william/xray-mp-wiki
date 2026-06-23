@@ -60,5 +60,5 @@ JAGN1 was successfully crystallized using the termini-restraining approach with 
 
 ## Cross-References
 
-- [Termini Restraining](/xray-mp-wiki/concepts/termini-restraining/) — JAGN1 structure was determined using the termini-restraining approach
+- [Termini Restraining](/xray-mp-wiki/concepts/miscellaneous/termini-restraining/) — JAGN1 structure was determined using the termini-restraining approach
 - [SPCS1](/xray-mp-wiki/proteins/enzymes/spcs1/) — Another small membrane protein whose structure was determined using the same termini-restraining approach

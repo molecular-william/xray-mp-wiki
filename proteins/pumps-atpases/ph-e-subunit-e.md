@@ -48,4 +48,4 @@ No structure determined.
 
 ## Cross-References
 
-- [Peripheral Stalk Elasticity in A-ATP Synthases](/xray-mp-wiki/concepts/peripheral-stalk-elasticity/) — Concept describing the elastic function of subunit E
+- [Peripheral Stalk Elasticity in A-ATP Synthases](/xray-mp-wiki/concepts/enzyme-mechanisms/peripheral-stalk-elasticity/) — Concept describing the elastic function of subunit E

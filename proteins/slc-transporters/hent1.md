@@ -14,20 +14,20 @@ verified: false
 
 ## Overview
 
-hENT1 (SLC29A1) is the founding member of the SLC29 family of equilibrative nucleoside transporters. It mediates the energy-independent facilitative diffusion of adenosine and other nucleosides across cellular membranes, playing crucial roles in adenosine signaling, nucleoside salvage for DNA/RNA synthesis, and cellular uptake of nucleoside-derived anticancer and antiviral drugs. hENT1 is the target of adenosine reuptake inhibitors (AdoRIs), clinically used as vasodilators and antithrombotic agents. The crystal structures of hENT1 in complex with [Dilazep](/xray-mp-wiki/reagents/ligands/dilazep/) and [NBMPR](/xray-mp-wiki/reagents/ligands/nbmpr/) revealed an 11-TM helix architecture with a pseudo-symmetric 6+5 topology distinct from the canonical 12-TM [MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/) fold, representing the first experimental structures of any SLC29 family member.
+hENT1 (SLC29A1) is the founding member of the SLC29 family of equilibrative nucleoside transporters. It mediates the energy-independent facilitative diffusion of adenosine and other nucleosides across cellular membranes, playing crucial roles in adenosine signaling, nucleoside salvage for DNA/RNA synthesis, and cellular uptake of nucleoside-derived anticancer and antiviral drugs. hENT1 is the target of adenosine reuptake inhibitors (AdoRIs), clinically used as vasodilators and antithrombotic agents. The crystal structures of hENT1 in complex with [Dilazep](/xray-mp-wiki/reagents/ligands/dilazep/) and [NBMPR](/xray-mp-wiki/reagents/ligands/nbmpr/) revealed an 11-TM helix architecture with a pseudo-symmetric 6+5 topology distinct from the canonical 12-TM [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) fold, representing the first experimental structures of any SLC29 family member.
 
 
 ## Structure Determination
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##s41594-019-0245-7 | 6OB7 | 2.3 A | P3_221 | hENT1_cryst (mutations L168F, P175A, N288K, loop [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) Delta243-274) | [Dilazep](/xray-mp-wiki/reagents/ligands/dilazep/) |
-| doi/10.1038##s41594-019-0245-7 | 6OB6 | 2.9 A | P6_1 | hENT1_cryst (mutations L168F, P175A, N288K, loop [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) Delta243-274) | [NBMPR](/xray-mp-wiki/reagents/ligands/nbmpr/) (S-(4-Nitrobenzyl)-6-thioinosine) |
+| doi/10.1038##s41594-019-0245-7 | 6OB7 | 2.3 A | P3_221 | hENT1_cryst (mutations L168F, P175A, N288K, loop [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) Delta243-274) | [Dilazep](/xray-mp-wiki/reagents/ligands/dilazep/) |
+| doi/10.1038##s41594-019-0245-7 | 6OB6 | 2.9 A | P6_1 | hENT1_cryst (mutations L168F, P175A, N288K, loop [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) Delta243-274) | [NBMPR](/xray-mp-wiki/reagents/ligands/nbmpr/) (S-(4-Nitrobenzyl)-6-thioinosine) |
 
 ## Expression and Purification
 
 - **Expression system**: HEK293S GnTI-/- cells, BacMam viral transduction
-- **Construct**: Codon-optimized hENT1_cryst with C-terminal GFP-FLAG-His10 tag in [PEG](/xray-mp-wiki/reagents/additives/peg/) BacMam vector. hENT1_cryst contains mutations L168F, P175A, N288K and TM6-7 loop [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) Delta243-274. Cleavable by Precission Protease.
+- **Construct**: Codon-optimized hENT1_cryst with C-terminal GFP-FLAG-His10 tag in [PEG](/xray-mp-wiki/reagents/additives/peg/) BacMam vector. hENT1_cryst contains mutations L168F, P175A, N288K and TM6-7 loop [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) Delta243-274. Cleavable by Precission Protease.
 
 - **Notes**: Cells harvested 72 h post-infection
 - **Induction**: 10 mM [Sodium Butyrate](/xray-mp-wiki/reagents/additives/sodium-butyrate/) + 10 uM [Dilazep](/xray-mp-wiki/reagents/ligands/dilazep/) (for dilazep-bound) at 24 h post-infection
@@ -68,7 +68,7 @@ hENT1 (SLC29A1) is the founding member of the SLC29 family of equilibrative nucl
 
 ### SLC29 family architecture
 
-hENT1 is composed of 11 transmembrane helices with a pseudo-symmetric 6+5 topology, distinct from the canonical 12-TM [MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/) fold. The N-domain (TM1-TM6) and C-domain (TM7-TM11) form the central cavity accessible from the extracellular side. An extracellular thin gate (Met33-Pro308) and intracellular thick gate (including Arg111-Glu428 salt bridge) define the outward-facing conformation.
+hENT1 is composed of 11 transmembrane helices with a pseudo-symmetric 6+5 topology, distinct from the canonical 12-TM [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) fold. The N-domain (TM1-TM6) and C-domain (TM7-TM11) form the central cavity accessible from the extracellular side. An extracellular thin gate (Met33-Pro308) and intracellular thick gate (including Arg111-Glu428 salt bridge) define the outward-facing conformation.
 
 ### Adenosine reuptake inhibitor mechanisms
 
@@ -81,12 +81,12 @@ Adenosine recognition by hENT1 involves conserved charged residues Arg345 and As
 
 ## Cross-References
 
-- [SLC29 Family of Nucleoside Transporters](/xray-mp-wiki/concepts/slc29-family/) — hENT1 is the founding member of the SLC29 family
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — hENT1 utilizes rocker-switch-like reorientation for transport
+- [SLC29 Family of Nucleoside Transporters](/xray-mp-wiki/concepts/transport-mechanisms/slc29-family/) — hENT1 is the founding member of the SLC29 family
+- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — hENT1 utilizes rocker-switch-like reorientation for transport
 - [n-Dodecyl-beta-D-maltoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary solubilization and purification detergent
 - [Lipidic Cubic Phase (LCP) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Method used to crystallize hENT1
-- [MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/) — Related biological concept
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — Related biological concept
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification

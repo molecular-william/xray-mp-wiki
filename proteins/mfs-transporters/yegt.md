@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-YegT is a member of the nucleoside proton symporter (NHS) family within the [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/). Despite only 27% sequence identity with [NupG](/xray-mp-wiki/proteins/mfs-transporters/nupg/), YegT shares high structural conservation and a conserved GXXXD motif in TM10 that mediates proton-coupled substrate translocation.
+YegT is a member of the nucleoside proton symporter (NHS) family within the [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/). Despite only 27% sequence identity with [NupG](/xray-mp-wiki/proteins/mfs-transporters/nupg/), YegT shares high structural conservation and a conserved GXXXD motif in TM10 that mediates proton-coupled substrate translocation.
 
 ## Structure Determination
 
@@ -66,10 +66,10 @@ Despite 27% sequence identity, YegT and NupG share a high structural similarity 
 ## Cross-References
 
 - [NupG Nucleoside Proton Symporter](/xray-mp-wiki/proteins/mfs-transporters/nupg/) — Paralogs sharing the NHS family, conserved GXXXD motif, and proton-coupled mechanism
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/) — YegT belongs to the MFS family as an NHS member
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — YegT belongs to the MFS family as an NHS member
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — YegT crystallized by LCP method with monoolein
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent for membrane solubilization of YegT
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid component of LCP crystallization matrix
 - [2-(N-Morpholino)ethanesulfonic Acid (MES)](/xray-mp-wiki/reagents/buffers/mes/) — Buffer used throughout YegT purification
 - [n-Octyl-beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — Detergent used in size-exclusion chromatography for crystallization
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Core transport mechanism shared by MFS transporters
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Core transport mechanism shared by MFS transporters

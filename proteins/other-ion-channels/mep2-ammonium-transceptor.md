@@ -82,7 +82,7 @@ A model is proposed where phosphorylation at Ser453 in the CTR introduces steric
 
 ## Cross-References
 
-- [Rh/Amt/MEP Protein Family](/xray-mp-wiki/concepts/rh-amt-mep-protein-family/) — Mep2 is a member of the Amt/Mep/Rh ammonium transporter family
+- [Rh/Amt/MEP Protein Family](/xray-mp-wiki/concepts/protein-families/rh-amt-mep-protein-family/) — Mep2 is a member of the Amt/Mep/Rh ammonium transporter family
 - [Ammonium Transporter AmtB (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/amt-b/) — Bacterial orthologue used for structural comparison; bacterial Amts show open channel conformation
 - [A. fulgidus Amt-1](/xray-mp-wiki/proteins/other-ion-channels/a-fulgidus-amt1/) — Archaeal orthologue used as molecular replacement search model and for structural comparison
-- [Twin-Histidine Motif in Ammonium Channels](/xray-mp-wiki/concepts/twin-histidine-motif/) — The twin-His motif is essential for ammonium transport in Mep2 as in all Amt/Mep/Rh family members
+- [Twin-Histidine Motif in Ammonium Channels](/xray-mp-wiki/concepts/transport-mechanisms/twin-histidine-motif/) — The twin-His motif is essential for ammonium transport in Mep2 as in all Amt/Mep/Rh family members

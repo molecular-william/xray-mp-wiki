@@ -146,11 +146,11 @@ Crystallization of wild-type LacY required manipulation of phospholipid (PL) con
 
 ## Cross-References
 
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/) — LacY is the paradigm member of the MFS family of transporters
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — LacY operates by alternating access between inward- and outward-facing conformations
-- [Rocker-Switch Mechanism in MFS Transporters](/xray-mp-wiki/concepts/rocker-switch-mechanism/) — MFS-specific variant of alternating access mechanism
-- [Substrate-Protonation Coupling in MFS Symporters](/xray-mp-wiki/concepts/substrate-protonation-coupling/) — LacY couples galactoside binding to H+ translocation
-- [Conformational Dynamics in MFS Transporters](/xray-mp-wiki/concepts/conformational-dynamics-mfs/) — LacY exhibits multiple conformational states during transport cycle
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — LacY is the paradigm member of the MFS family of transporters
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — LacY operates by alternating access between inward- and outward-facing conformations
+- [Rocker-Switch Mechanism in MFS Transporters](/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/) — MFS-specific variant of alternating access mechanism
+- [Substrate-Protonation Coupling in MFS Symporters](/xray-mp-wiki/concepts/transport-mechanisms/substrate-protonation-coupling/) — LacY couples galactoside binding to H+ translocation
+- [Conformational Dynamics in MFS Transporters](/xray-mp-wiki/concepts/transport-mechanisms/conformational-dynamics-mfs/) — LacY exhibits multiple conformational states during transport cycle
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for LacY purification and crystallization
 - [2-(N-Morpholino)ethanesulfonic Acid (MES)](/xray-mp-wiki/reagents/buffers/mes/) — Buffer used for pH 5.6 crystal preparation
 - [PEG 400 (Polyethylene Glycol 400)](/xray-mp-wiki/reagents/additives/peg-400/) — Crystallization precipitant used in LacY crystal soaking

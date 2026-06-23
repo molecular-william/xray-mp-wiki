@@ -84,7 +84,7 @@ Based on the MvINS structure and sequence similarity, a three-dimensional struct
 ## Cross-References
 
 - [LDAO (n-Dodecyl-N,N-Dimethylamine-N-oxide)](/xray-mp-wiki/reagents/detergents/ldao/) — LDAO was used as the detergent for MvINS purification and initial crystallization
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — MvINS provides structural insights into how Insig proteins function as sterol sensors in the SREBP pathway
+- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — MvINS provides structural insights into how Insig proteins function as sterol sensors in the SREBP pathway
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) — Detergent used in purification or crystallization
 - [DAG](/xray-mp-wiki/reagents/lipids/dag/) — Additive used in purification or crystallization buffers

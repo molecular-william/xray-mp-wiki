@@ -88,8 +88,8 @@ The P3_121 and P2_12_12_1 crystal forms both exhibit ordered end-to-end packing 
 
 ## Cross-References
 
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/major-facilitator-superfamily/) — PepTSt is a member of the MFS transporter family
-- [Conformational Dynamics in MFS Transporters](/xray-mp-wiki/concepts/conformational-dynamics-mfs/) — PepTSt exhibits inward facing conformations relevant to MFS transport dynamics
-- [Inward Facing Occluded State in MFS Transporters](/xray-mp-wiki/concepts/inward-facing-occluded-mfs-state/) — The P3_121 form represents a potential inward facing occluded state
-- [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/rocker-switch-mechanism/) — Canonical transport mechanism for MFS transporters
-- [Cork-in-Bottle Occlusion](/xray-mp-wiki/concepts/cork-in-bottle-occlusion/) — Alternative occlusion mechanism for membrane transporters
+- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/) — PepTSt is a member of the MFS transporter family
+- [Conformational Dynamics in MFS Transporters](/xray-mp-wiki/concepts/transport-mechanisms/conformational-dynamics-mfs/) — PepTSt exhibits inward facing conformations relevant to MFS transport dynamics
+- [Inward Facing Occluded State in MFS Transporters](/xray-mp-wiki/concepts/transport-mechanisms/inward-facing-occluded-mfs-state/) — The P3_121 form represents a potential inward facing occluded state
+- [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/) — Canonical transport mechanism for MFS transporters
+- [Cork-in-Bottle Occlusion](/xray-mp-wiki/concepts/structural-mechanisms/cork-in-bottle-occlusion/) — Alternative occlusion mechanism for membrane transporters

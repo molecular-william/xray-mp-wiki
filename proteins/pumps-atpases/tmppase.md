@@ -124,7 +124,7 @@ pumping. All show large effects upon mutation.
 ## Cross-References
 
 - [VrH+PPase (Vigna radiata H+-Pumping Inorganic Pyrophosphatase)](/xray-mp-wiki/proteins/pumps-atpases/vrh-ppase/) — Plant homolog with similar dimeric architecture and catalytic mechanism
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — P-type pumps operate via alternating-access conformational changes
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — P-type pumps operate via alternating-access conformational changes
 - [Sodium Ion (Na+)](/xray-mp-wiki/reagents/ligands/sodium-ion/) — Sodium ion bound at the ion gate of TmPPase in substrate-bound state
 - [ABI-PP (Inositol pyrophosphate)](/xray-mp-wiki/reagents/ligands/abi-pp/) — IDP substrate analog used to trap substrate-bound conformation
 - [VrPPase (Vibrio rotiferans H+-Pumping Pyrophosphatase)](/xray-mp-wiki/proteins/pumps-atpases/vrppase/) — Related protein structure

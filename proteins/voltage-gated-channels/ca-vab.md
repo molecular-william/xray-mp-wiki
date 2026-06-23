@@ -138,8 +138,8 @@ Phenylalkylamines (verapamil, [Br-Verapamil](/xray-mp-wiki/reagents/ligands/br-v
 ## Cross-References
 
 - [NavAb Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) — Related bacterial voltage-gated channel with similar fold and selectivity filter architecture
-- [Ion Channel Selectivity Filter](/xray-mp-wiki/concepts/selectivity-filter/) — Paper provides detailed structural analysis of CaVAb selectivity filter
-- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/intramembrane-ion-coordination/) — Paper reveals Ca2+ coordination geometry at selectivity filter sites
+- [Ion Channel Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/) — Paper provides detailed structural analysis of CaVAb selectivity filter
+- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-ion-coordination/) — Paper reveals Ca2+ coordination geometry at selectivity filter sites
 - [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) — Crystallization method used for structure determination
 - [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression) — Expression system used for protein production
 - [Amlodipine](/xray-mp-wiki/reagents/ligands/amlodipine) — Ligand or small molecule used in this study

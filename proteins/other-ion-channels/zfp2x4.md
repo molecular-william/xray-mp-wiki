@@ -107,6 +107,6 @@ Residues implicated in [Ivermectin](/xray-mp-wiki/reagents/ligands/ivermectin) b
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for solubilization; disrupts zfP2X4 trimeric state
 - [AMP-PNP (Adenylyl-Imidodiphosphate)](/xray-mp-wiki/reagents/ligands/amp-pnp/) — Non-hydrolyzable ATP analogue; related to ATP-binding studies in ion channels
 - [2'3'-O-(4,5-Dinitrobenzoyl)adenosine 5'-triphosphate (TNP-ATP)](/xray-mp-wiki/reagents/ligands/tnp-atp/) — Fluorescent ATP analog that precludes dorsal fin movement upon binding
-- [P2X Receptor Family](/xray-mp-wiki/concepts/p2x-receptor-family/) — zfP2X4 is the first solved member of the P2X receptor family
+- [P2X Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/p2x-receptor-family/) — zfP2X4 is the first solved member of the P2X receptor family
 - [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine) — Entity mentioned in text
 - [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation) — Entity mentioned in text

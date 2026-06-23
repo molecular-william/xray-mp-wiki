@@ -54,6 +54,6 @@ No comparison data available.
 - [Dobutamine](/xray-mp-wiki/reagents/ligands/dobutamine/) — Related beta-adrenergic agonist ligand
 - [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) — Antagonist ligand for beta1AR used in related structure determination
 - [Cholesterol Hydrogen Succinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Lipid additive used in crystallization of beta1AR-M23 with salbutamol
-- [GPCR Active Conformation](/xray-mp-wiki/concepts/gpcr-active-conformation/) — Salbutamol binding stabilizes the active conformation of beta1AR
+- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — Salbutamol binding stabilizes the active conformation of beta1AR
 - [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Additive used in purification or crystallization buffers
 - [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers

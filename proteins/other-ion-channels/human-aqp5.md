@@ -82,7 +82,7 @@ HsAQP5 reconstituted into proteoliposomes demonstrates water transport activity 
 
 ## Cross-References
 
-- [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) — AQP5 is a member of the water-specific aquaporin subfamily; the structure reveals conserved aquaporin features including NPA motifs and tetrameric assembly
+- [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — AQP5 is a member of the water-specific aquaporin subfamily; the structure reveals conserved aquaporin features including NPA motifs and tetrameric assembly
 - [Aquaporin 0 (AQP0)](/xray-mp-wiki/proteins/other-ion-channels/aqp0/) — Related aquaporin for structural comparison of tetramer architecture and water selectivity
 - [Aquaporin-1 (AQP1)](/xray-mp-wiki/proteins/other-ion-channels/aqp1/) — Archetypal water-specific aquaporin with similar pore architecture used for HOLE pore radius comparison
 - [n-Nonyl-beta-D-glucopyranoside (NG)](/xray-mp-wiki/reagents/detergents/n-nonyl-beta-d-glucopyranoside/) — Primary detergent used for solubilization and purification of HsAQP5

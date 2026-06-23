@@ -21,17 +21,17 @@ KpBest is a bestrophin ion channel from *Klebsiella pneumoniae* whose crystal st
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1126##science.1259723 | not specified in paper text | 2.3 | — | KpBest with 11-residue C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) (residues 22-289) | Zn²⁺ |
+| doi/10.1126##science.1259723 | not specified in paper text | 2.3 | — | KpBest with 11-residue C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (residues 22-289) | Zn²⁺ |
 
 ## Expression and Purification
 
 - **Expression system**: E. coli
-- **Construct**: KpBest with C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/)
+- **Construct**: KpBest with C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/)
 
 ### Purification Workflow
 
 - **Expression system**: E. coli
-- **Expression construct**: KpBest with 11-residue C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/)
+- **Expression construct**: KpBest with 11-residue C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/)
 
 #### Steps
 
@@ -48,7 +48,7 @@ KpBest is a bestrophin ion channel from *Klebsiella pneumoniae* whose crystal st
 |---|---|
 | Method | [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) |
 | Protein sample | Purified KpBest |
-| Notes | Crystals grown from zinc acetate solution; 2.9 Å initial resolution improved to 2.3 Å after C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/); five-fold noncrystallographic symmetry aided refinement |
+| Notes | Crystals grown from zinc acetate solution; 2.9 Å initial resolution improved to 2.3 Å after C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/); five-fold noncrystallographic symmetry aided refinement |
 
 
 ## Biological / Functional Insights
@@ -73,6 +73,6 @@ Mutations at residues equivalent to KpBest I66 (hBest1 F80) and I180 (hBest1 I20
 ## Cross-References
 
 - [Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel](/xray-mp-wiki/proteins/other-ion-channels/chicken-bestrophin-1/) — Chicken BEST1 is a eukaryotic bestrophin homolog with opposite ion selectivity to KpBest
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — Method used in structure determination or purification
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Related ligand or cofactor

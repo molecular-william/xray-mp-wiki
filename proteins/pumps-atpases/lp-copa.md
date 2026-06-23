@@ -78,9 +78,9 @@ Sequence and secondary structure conservation analysis of P_IB-1 (CopA), P_IB-2 
 ## Cross-References
 
 - [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase 1a)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — Structural comparison of E2P and E2.Pi states between LpCopA and SERCA1a
-- [P-type ATPase Family](/xray-mp-wiki/concepts/p-type-atpase/) — LpCopA is a member of the P_IB subfamily of P-type ATPases
-- [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/phosphoenzyme-e2p-state/) — LpCopA E2P and E2.Pi states captured with BeF3- and AlF4- phosphate analogs
-- [Large Domain Motion in P-type ATPases](/xray-mp-wiki/concepts/large-domain-motion-in-p-type-atpases/) — A-domain movement relative to P-domain conserved between LpCopA and SERCA
+- [P-type ATPase Family](/xray-mp-wiki/concepts/protein-families/p-type-atpase/) — LpCopA is a member of the P_IB subfamily of P-type ATPases
+- [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/enzyme-mechanisms/phosphoenzyme-e2p-state/) — LpCopA E2P and E2.Pi states captured with BeF3- and AlF4- phosphate analogs
+- [Large Domain Motion in P-type ATPases](/xray-mp-wiki/concepts/structural-mechanisms/large-domain-motion-in-p-type-atpases/) — A-domain movement relative to P-domain conserved between LpCopA and SERCA
 - [Molecular Dynamics Simulation](/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/) — MD simulations used to analyze release pathway dynamics and hydration patterns
 - [AlF4 (Aluminum Fluoride)](/xray-mp-wiki/reagents/ligands/alf4/) — Phosphate analog used to trap E2.Pi state
 - [BeF3 (Beryllium Fluoride)](/xray-mp-wiki/reagents/ligands/bef3/) — Phosphate analog used to trap E2P state

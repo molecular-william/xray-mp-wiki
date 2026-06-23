@@ -16,7 +16,7 @@ verified: false
 
 PfHT1 (PF3D7_0204700) is the sole hexose transporter in Plasmodium falciparum,
 the deadliest species of malaria parasite. It is a member of the major facilitator
-superfamily ([MFS](/xray-mp-wiki/concepts/major-facilitator-superfamily/)) and is essential for the survival of the blood-stage parasite by
+superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/major-facilitator-superfamily/)) and is essential for the survival of the blood-stage parasite by
 importing D-[Glucose](/xray-mp-wiki/reagents/additives/glucose/) as the primary energy source. The crystal structure of PfHT1
 in complex with D-[Glucose](/xray-mp-wiki/reagents/additives/glucose/) was determined at 3.6 A resolution (Qureshi et al., Nature
 2020, PDB 6RW3), revealing a fully occluded conformation with TM7b positioned as an
@@ -122,8 +122,8 @@ hydrophobicity of the allosteric channel is critical for selectivity.
 
 - [hGLUT1 (Human Glucose Transporter 1)](/xray-mp-wiki/proteins/mfs-transporters/hglut1/) — Human ortholog used for selectivity comparison in drug design
 - [hGLUT3 (Human Glucose Transporter 3)](/xray-mp-wiki/proteins/mfs-transporters/hglut3/) — Crystal structure of hGLUT3-C3361 complex (2.3 A) used to confirm PfHT1-specific allosteric pocket
-- [Selective Starvation of Malaria Parasites](/xray-mp-wiki/concepts/selective-starvation/) — PfHT1 inhibition is the basis of the selective starvation antimalarial strategy
-- [Orthosteric–Allosteric Dual Inhibition](/xray-mp-wiki/concepts/orthosteric-allosteric-dual-inhibition/) — TH-PF series compounds simultaneously target orthosteric and allosteric sites of PfHT1
+- [Selective Starvation of Malaria Parasites](/xray-mp-wiki/concepts/miscellaneous/selective-starvation/) — PfHT1 inhibition is the basis of the selective starvation antimalarial strategy
+- [Orthosteric–Allosteric Dual Inhibition](/xray-mp-wiki/concepts/transport-mechanisms/orthosteric-allosteric-dual-inhibition/) — TH-PF series compounds simultaneously target orthosteric and allosteric sites of PfHT1
 - [C3361 (PfHT1 Inhibitor)](/xray-mp-wiki/reagents/ligands/c3361/) — Reference compound used to identify the allosteric pocket in PfHT1
 - [TH-PF01](/xray-mp-wiki/reagents/ligands/th-pf01/) — Lead dual inhibitor targeting PfHT1 orthosteric and allosteric pockets
 - [TH-PF02](/xray-mp-wiki/reagents/ligands/th-pf02/) — Lead dual inhibitor targeting PfHT1 orthosteric and allosteric pockets

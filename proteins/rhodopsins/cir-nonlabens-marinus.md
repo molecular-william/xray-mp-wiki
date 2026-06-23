@@ -204,8 +204,8 @@ Leu106 on TM-C is a major hydrophobic residue on the chloride pathway to the cav
 
 ## Cross-References
 
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — CIR/NmHR is a member of the microbial rhodopsin family of light-driven ion pumps
-- [NTQ Motif in Chloride Pumping Rhodopsins](/xray-mp-wiki/concepts/ntq-motif/) — The NTQ motif (Asn98, Thr102, Gln109) defines the chloride-pumping rhodopsin family and plays multiple roles in chloride binding, transport, and gating
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — CIR/NmHR is a member of the microbial rhodopsin family of light-driven ion pumps
+- [NTQ Motif in Chloride Pumping Rhodopsins](/xray-mp-wiki/concepts/transport-mechanisms/ntq-motif/) — The NTQ motif (Asn98, Thr102, Gln109) defines the chloride-pumping rhodopsin family and plays multiple roles in chloride binding, transport, and gating
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Archetypal microbial rhodopsin; comparison reveals mechanistic equivalence and differences in ion transport
 - [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/proteins/rhodopsins/halorhodopsin/) — Archaeal halorhodopsin with TSA motif; convergent evolution for chloride pumping
 - [Lipidic Cubic Phase (In Meso) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used for all CIR/NmHR structures including TR-SFX experiments

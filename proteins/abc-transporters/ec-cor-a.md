@@ -83,13 +83,13 @@ Protease protection assays comparing the isolated cytoplasmic domain (257EcCorA)
 
 ## Cross-References
 
-- [CorA Mg2+ Transporter](/xray-mp-wiki/concepts/cora-mg-transporter/) — CorA is the prototype family; this paper provides first EcCorA cytoplasmic domain structures
-- [Metal Ion Transporter Superfamily](/xray-mp-wiki/concepts/mit-superfamily/) — CorA is the founding member of the MIT superfamily of metal ion transporters
+- [CorA Mg2+ Transporter](/xray-mp-wiki/concepts/transport-mechanisms/cora-mg-transporter/) — CorA is the prototype family; this paper provides first EcCorA cytoplasmic domain structures
+- [Metal Ion Transporter Superfamily](/xray-mp-wiki/concepts/transport-mechanisms/mit-superfamily/) — CorA is the founding member of the MIT superfamily of metal ion transporters
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Used for final purification and [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) analysis of pentamer assembly/disassembly
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Used to solve 257EcCorA-Mg2+ and 257EcCorA-Mg2+/CoHex structures
 - [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) — Used for [His Tag](/xray-mp-wiki/reagents/protein-tags/his-tag) affinity purification of TEV-GFP-His8 tagged constructs
 - [Magnesium Chloride (MgCl2)](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Mg2+ is the physiological ligand that drives pentamer assembly and channel gating
-- [Channel Gating via Plug Domain Displacement](/xray-mp-wiki/concepts/channel-gating/) — CorA gating mechanism involves rigid-body motion of cytoplasmic domain subunits
+- [Channel Gating via Plug Domain Displacement](/xray-mp-wiki/concepts/transport-mechanisms/channel-gating/) — CorA gating mechanism involves rigid-body motion of cytoplasmic domain subunits
 - [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) — Crystallization method used for structure determination
 - [Immobilized Metal Affinity Chromatography (IMAC)](/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography) — Purification method used in protein preparation
 - [IPTG](/xray-mp-wiki/reagents/additives/iptg) — Additive used in purification or crystallization buffers

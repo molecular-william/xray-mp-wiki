@@ -84,7 +84,7 @@ The paired structure of two glutamates (Glu198 and Glu208 in cR3) in the proton-
 
 ## Cross-References
 
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — cR3 is a microbial rhodopsin (light-driven proton pump) with the conserved seven-transmembrane helix architecture and retinal chromophore
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — cR3 is a microbial rhodopsin (light-driven proton pump) with the conserved seven-transmembrane helix architecture and retinal chromophore
 - [Bacterioruberin](/xray-mp-wiki/reagents/lipids/bacterioruberin/) — Bacterioruberin binds to inter-subunit crevices in the cR3 trimer, strengthening the trimeric assembly
 - [Nonyl-beta-D-glucopyranoside](/xray-mp-wiki/reagents/detergents/nonyl-beta-d-glucopyranoside/) — Detergent used for cR3 solubilization and crystallization; excess concentration causes trimer dissociation and photobleaching
 - [Bacterioruberin](/xray-mp-wiki/reagents/lipids/bacterioruberin/) — Referenced in the context of Bacterioruberin

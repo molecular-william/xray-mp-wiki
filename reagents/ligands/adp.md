@@ -46,5 +46,5 @@ No comparison data available.
 
 - [2-Methylthio-ADP (2MeSADP)](/xray-mp-wiki/reagents/ligands/2me-sadp/) — Stable ADP analog agonist for P2Y12 receptor binding assays
 - [AZD1283](/xray-mp-wiki/reagents/ligands/azd1283/) — Antagonist that binds in the same pocket as ADP
-- [P2Y Receptor Family](/xray-mp-wiki/concepts/p2y-receptor-family/) — ADP is the endogenous agonist for P2Y12 and P2Y1 receptors
+- [P2Y Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/p2y-receptor-family/) — ADP is the endogenous agonist for P2Y12 and P2Y1 receptors
 - [Human P2Y12 Receptor](/xray-mp-wiki/proteins/gpcr/p2y12-receptor/) — Related protein structure

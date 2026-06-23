@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
- chlorophyll a/c-binding protein (FCP) is a light-harvesting antenna protein from the marine diatom *Phaeodactylum tricornutum*. FCPs belong to the superfamily of transmembrane light-harvesting complex (LHC) proteins and contain the pigments Chl a, Chl c, and  (Fx), enabling them to absorb light in the blue-green region that penetrates underwater. The structure of Lhcf4 was solved as a homodimer at 1.8-Å resolution, revealing a unique pigment arrangement with nine Chls (seven Chl a, two Chl c), seven Fxs, and one diadinoxanthin (Ddx) per monomer. Unlike the trimeric LHCII of green plants, FCP forms a dimer stabilized by interactions between transmembrane C helices. FCPs display robust [Non-photochemical Quenching (NPQ) in LHC-II](/xray-mp-wiki/concepts/non-photochemical-quenching/) (NPQ) via the Ddx-Dtx xanthophyll cycle, providing photoprotection under fluctuating light conditions in the ocean surface layer.
+ chlorophyll a/c-binding protein (FCP) is a light-harvesting antenna protein from the marine diatom *Phaeodactylum tricornutum*. FCPs belong to the superfamily of transmembrane light-harvesting complex (LHC) proteins and contain the pigments Chl a, Chl c, and  (Fx), enabling them to absorb light in the blue-green region that penetrates underwater. The structure of Lhcf4 was solved as a homodimer at 1.8-Å resolution, revealing a unique pigment arrangement with nine Chls (seven Chl a, two Chl c), seven Fxs, and one diadinoxanthin (Ddx) per monomer. Unlike the trimeric LHCII of green plants, FCP forms a dimer stabilized by interactions between transmembrane C helices. FCPs display robust [Non-photochemical Quenching (NPQ) in LHC-II](/xray-mp-wiki/concepts/miscellaneous/non-photochemical-quenching/) (NPQ) via the Ddx-Dtx xanthophyll cycle, providing photoprotection under fluctuating light conditions in the ocean surface layer.
 
 
 ## Structure Determination
@@ -78,7 +78,7 @@ One Ddx molecule is located near the monomer-monomer interface. Its weak electro
 
 - [Pea Light-Harvesting Complex II (LHC-II)](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/) — FCP is structurally homologous to LHCII but has unique pigment composition and dimeric assembly
 - [Spinach Light-Harvesting Complex II (LHC-II)](/xray-mp-wiki/proteins/photosynthesis/spinach-light-harvesting-complex-ii/) — Comparison of FCP with LHCII reveals differences in pigment binding and oligomeric state
-- [Non-photochemical Quenching (NPQ)](/xray-mp-wiki/concepts/non-photochemical-quenching/) — FCPs exhibit robust NPQ via the Ddx-Dtx xanthophyll cycle for photoprotection under high light
+- [Non-photochemical Quenching (NPQ)](/xray-mp-wiki/concepts/miscellaneous/non-photochemical-quenching/) — FCPs exhibit robust NPQ via the Ddx-Dtx xanthophyll cycle for photoprotection under high light
 - [Lutein](/xray-mp-wiki/reagents/ligands/lutein/) — Lutein-binding sites in LHCII correspond to Fx303 and Fx305 positions in FCP
 - [Fucoxanthin](/xray-mp-wiki/reagents/fucoxanthin/) — Referenced in fcp-phaeodactylum-tricornutum text
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Referenced in fcp-phaeodactylum-tricornutum text

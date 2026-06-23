@@ -130,7 +130,7 @@ with findings in other transmembrane proteins (Kim et al., 2005).
 - [POPC](/xray-mp-wiki/reagents/lipids/popc/) — Palmitoyl-oleoyl phosphatidylcholine used in MD simulations of DAP12 oligomers
 - [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) — PEG 3350 used as precipitant in both crystallization conditions
 - [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) — 10% cholesterol used in trimer crystallization condition
-- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/intramembrane-ion-coordination/) — Central mechanism discovered - potassium and calcium coordination at DAP12 TM polar core
+- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-ion-coordination/) — Central mechanism discovered - potassium and calcium coordination at DAP12 TM polar core
 - [Calcium Chloride](/xray-mp-wiki/reagents/additives/calcium-chloride/) — 0.269 M calcium chloride used in tetramer crystallization condition
 - [Molecular Dynamics Simulation](/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/) — 200-ns MD simulations validated trimer/tetramer stability in POPC bilayer
 - [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) — Referenced in context related to Glycine

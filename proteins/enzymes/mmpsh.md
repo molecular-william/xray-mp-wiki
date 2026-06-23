@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-PSH (Presenilin Homolog) from Methanoculleus marisnigri (mmPSH) is an archaeal intramembrane aspartyl protease belonging to the presenilin/SPP family. It shares strong sequence homology with human presenilin-1 (PS1), the catalytic subunit of the [Gamma-Secretase Complex](/xray-mp-wiki/concepts/gamma-secretase/) complex that processes the amyloid precursor protein (APP) and Notch. The crystal structure of PSH represents the first atomic-resolution structure of a presenilin family member, revealing a 9-transmembrane helix (TM) topology with the two catalytic aspartate residues (Asp162 and Asp220) located within the membrane. PSH assembles as a tetramer in all three crystal forms (C222, C222₁, P2), and its structure provides key insights into the architecture and mechanism of the [Gamma-Secretase Complex](/xray-mp-wiki/concepts/gamma-secretase/) complex, which is central to Alzheimer's disease pathogenesis.
+PSH (Presenilin Homolog) from Methanoculleus marisnigri (mmPSH) is an archaeal intramembrane aspartyl protease belonging to the presenilin/SPP family. It shares strong sequence homology with human presenilin-1 (PS1), the catalytic subunit of the [Gamma-Secretase Complex](/xray-mp-wiki/concepts/enzyme-mechanisms/gamma-secretase/) complex that processes the amyloid precursor protein (APP) and Notch. The crystal structure of PSH represents the first atomic-resolution structure of a presenilin family member, revealing a 9-transmembrane helix (TM) topology with the two catalytic aspartate residues (Asp162 and Asp220) located within the membrane. PSH assembles as a tetramer in all three crystal forms (C222, C222₁, P2), and its structure provides key insights into the architecture and mechanism of the [Gamma-Secretase Complex](/xray-mp-wiki/concepts/enzyme-mechanisms/gamma-secretase/) complex, which is central to Alzheimer's disease pathogenesis.
 
 
 ## Structure Determination
@@ -63,7 +63,7 @@ The PSH structure at 3.3-3.95 A resolution reveals a 9-transmembrane helix archi
 
 ### Tetrameric assembly and implications for gamma-secretase
 
-PSH crystallizes as a tetramer in all three space groups, with the tetrameric assembly mediated by interactions between TM domains of adjacent PSH molecules. This oligomeric organization provides a basis for modeling the interaction of presenilin with other [Gamma-Secretase Complex](/xray-mp-wiki/concepts/gamma-secretase/) subunits, including Pen-2 (which docks to TM4 of presenilin) and the Nicastrin-Aph-1 subcomplex (which binds the presenilin C-terminal fragment). The structure supports a model where Pen-2 and Nicastrin-Aph-1 bind on opposite sides of presenilin.
+PSH crystallizes as a tetramer in all three space groups, with the tetrameric assembly mediated by interactions between TM domains of adjacent PSH molecules. This oligomeric organization provides a basis for modeling the interaction of presenilin with other [Gamma-Secretase Complex](/xray-mp-wiki/concepts/enzyme-mechanisms/gamma-secretase/) subunits, including Pen-2 (which docks to TM4 of presenilin) and the Nicastrin-Aph-1 subcomplex (which binds the presenilin C-terminal fragment). The structure supports a model where Pen-2 and Nicastrin-Aph-1 bind on opposite sides of presenilin.
 
 ### Conservation with human presenilin-1 and disease mutations
 
@@ -72,7 +72,7 @@ Sequence alignment of mmPSH with human PS1 (hPS1) shows conservation of key resi
 
 ## Cross-References
 
-- [Gamma-Secretase Complex](/xray-mp-wiki/concepts/gamma-secretase/) — PSH is the archaeal homolog of presenilin, the catalytic subunit of gamma-secretase
+- [Gamma-Secretase Complex](/xray-mp-wiki/concepts/enzyme-mechanisms/gamma-secretase/) — PSH is the archaeal homolog of presenilin, the catalytic subunit of gamma-secretase
 - [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Used in purification and gel filtration buffer at 25 mM, pH 8.0
 - [n-Nonyl-beta-D-glucopyranoside (NG)](/xray-mp-wiki/reagents/detergents/n-nonyl-beta-d-glucopyranoside/) — Primary detergent used for PSH purification and crystallization at 0.2% (w/v)
 - [LDAO (Lauryldimethylamine N-oxide)](/xray-mp-wiki/reagents/detergents/ldao/) — Co-detergent used at 0.023% (w/v) in purification buffer

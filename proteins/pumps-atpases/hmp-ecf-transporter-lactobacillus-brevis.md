@@ -89,6 +89,6 @@ Based on the structure, a transport model is proposed involving rigid-body rotat
 
 ## Cross-References
 
-- [ECF Transporter (Energy-Coupling Factor Transporter)](/xray-mp-wiki/concepts/ecf-transporter/) — This ECF transporter is the HMP-specific member of the ECF family from L. brevis
+- [ECF Transporter (Energy-Coupling Factor Transporter)](/xray-mp-wiki/concepts/transport-mechanisms/ecf-transporter/) — This ECF transporter is the HMP-specific member of the ECF family from L. brevis
 - [Folate ECF Transporter from Lactobacillus brevis](/xray-mp-wiki/proteins/pumps-atpases/folate-ecf-transporter-lactobacillus-brevis/) — Another ECF transporter from the same organism with different S-component specificity
-- [ECF (Energy Coupling Factor) Transporter Family](/xray-mp-wiki/concepts/ecf-transporter-family/) — This protein is a member of the ECF transporter family
+- [ECF (Energy Coupling Factor) Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/ecf-transporter-family/) — This protein is a member of the ECF transporter family

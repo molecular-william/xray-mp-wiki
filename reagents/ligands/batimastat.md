@@ -55,4 +55,4 @@ No comparison data available.
 
 - [Escherichia coli RseP (EcRseP)](/xray-mp-wiki/proteins/enzymes/ecrsep/) — Target enzyme for batimastat inhibition
 - [Kangiella koreensis RseP (KkRseP)](/xray-mp-wiki/proteins/enzymes/kkrsep/) — Ortholog also co-crystallized with batimastat
-- [Site-2 Protease Family Mechanism](/xray-mp-wiki/concepts/site-2-protease-family-mechanism/) — Batimastat used as a structural probe for S2P active site
+- [Site-2 Protease Family Mechanism](/xray-mp-wiki/concepts/protein-families/site-2-protease-family-mechanism/) — Batimastat used as a structural probe for S2P active site

@@ -77,6 +77,6 @@ The c8-ring has eight trimethylated Lys43 residues that likely mark binding site
 
 - [Bovine F1-ATPase](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) — Catalytic domain of the same ATP synthase complex
 - [Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) — Cardiolipin binds c8-ring external surface and stabilizes the ring structure
-- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/f1-atpase-rotary-mechanism/) — Rotary mechanism of ATP synthesis coupled to proton flow through c-ring
-- [Symmetry Mismatch in Rotary Motors](/xray-mp-wiki/concepts/symmetry-mismatch-rotary-motor/) — Mismatch between c8-ring (8-fold) and catalytic domain (3-fold) symmetry
-- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/rotary-atpase-mechanism/) — Broader rotary catalysis mechanism context
+- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/) — Rotary mechanism of ATP synthesis coupled to proton flow through c-ring
+- [Symmetry Mismatch in Rotary Motors](/xray-mp-wiki/concepts/structural-mechanisms/symmetry-mismatch-rotary-motor/) — Mismatch between c8-ring (8-fold) and catalytic domain (3-fold) symmetry
+- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/) — Broader rotary catalysis mechanism context

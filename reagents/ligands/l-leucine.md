@@ -52,7 +52,7 @@ No comparison data available.
 ## Cross-References
 
 - [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) — Primary substrate and ligand of LeuT with detailed structural characterization
-- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/nss-family/) — L-Leucine is the canonical substrate for the NSS family prototype LeuT
+- [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/transport-mechanisms/nss-family/) — L-Leucine is the canonical substrate for the NSS family prototype LeuT
 - [FSEC](/xray-mp-wiki/methods/quality-assessment/fluorescence-size-exclusion-chromatography/) — Method used in structure determination or purification
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
 - [2B12 Antibody Fragment](/xray-mp-wiki/reagents/antibodies/2b12/) — Antibody used in crystallization or binding studies

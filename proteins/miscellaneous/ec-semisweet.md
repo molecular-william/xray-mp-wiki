@@ -88,9 +88,9 @@ Proposed transport cycle: inward-open state captures substrate -> PQ-loop hinge 
 ## Cross-References
 
 - [LbSemiSWEET](/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/) — Related bacterial [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet) from Leptospira biflexa with solved outward-open and occluded structures
-- [SWEET Transporter Family](/xray-mp-wiki/concepts/sweet-transporter/) — EcSemiSWEET is a bacterial member of the SWEET family of sugar transporters
-- [PQ-Loop Family](/xray-mp-wiki/concepts/pq-loop-family/) — EcSemiSWEET is a PQ-loop family member characterized by conserved Pro-Gln motif
-- [Binder Clip Motion](/xray-mp-wiki/concepts/binder-clip-motion/) — EcSemiSWEET undergoes binder clip-like conformational change mediated by PQ-loop hinge
+- [SWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/sweet-transporter/) — EcSemiSWEET is a bacterial member of the SWEET family of sugar transporters
+- [PQ-Loop Family](/xray-mp-wiki/concepts/protein-families/pq-loop-family/) — EcSemiSWEET is a PQ-loop family member characterized by conserved Pro-Gln motif
+- [Binder Clip Motion](/xray-mp-wiki/concepts/miscellaneous/binder-clip-motion/) — EcSemiSWEET undergoes binder clip-like conformational change mediated by PQ-loop hinge
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for solubilization of EcSemiSWEET membrane fraction
 - [Cholesteryl Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Stabilizing additive used with [DDM](/xray-mp-wiki/reagents/detergents/ddm) during solubilization and purification
 - [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Inducer for protein expression at 0.2 mM

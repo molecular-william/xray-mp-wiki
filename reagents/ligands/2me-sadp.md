@@ -51,5 +51,5 @@ No comparison data available.
 - [AZD1283](/xray-mp-wiki/reagents/ligands/azd1283/) — Antagonist tested in competition with tritiated 2MeSADP binding
 - [Adenosine Diphosphate (ADP)](/xray-mp-wiki/reagents/ligands/adp/) — Natural agonist; 2MeSADP is a stable analog
 - [Ticagrelor](/xray-mp-wiki/reagents/ligands/ticagrelor/) — Related P2Y12 antagonist
-- [P2Y Receptor Family](/xray-mp-wiki/concepts/p2y-receptor-family/) — 2MeSADP is a purinergic receptor agonist
+- [P2Y Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/p2y-receptor-family/) — 2MeSADP is a purinergic receptor agonist
 - [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) — Fusion tag for crystallization or purification

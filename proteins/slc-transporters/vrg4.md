@@ -116,6 +116,6 @@ Molecular dynamics simulations identified a secondary lipid binding site in a sh
 - [Sodium Citrate](/xray-mp-wiki/reagents/buffers/sodium-citrate/) — Crystallization buffer
 - [Guanosine Diphosphate (GDP)](/xray-mp-wiki/reagents/ligands/gdp/) — Substrate analog
 - [Guanosine Monophosphate (GMP)](/xray-mp-wiki/reagents/ligands/gmp/) — Substrate analog
-- [SLC35 Family (Nucleotide Sugar Transporters)](/xray-mp-wiki/concepts/sl35-family/) — Transporter family classification
+- [SLC35 Family (Nucleotide Sugar Transporters)](/xray-mp-wiki/concepts/transport-mechanisms/sl35-family/) — Transporter family classification
 - [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate) — Entity mentioned in text
 - [PEG](/xray-mp-wiki/reagents/additives/peg) — Entity mentioned in text

@@ -54,5 +54,5 @@ No comparison data available.
 - [Metabotropic Glutamate Receptor 5 (mGlu5)](/xray-mp-wiki/proteins/gpcr/metabotropic-glutamate-receptor-5/) — Primary target; co-crystallized structure (PDB 4OO9)
 - [HTL14242 (Compound 25)](/xray-mp-wiki/reagents/ligands/htl14242/) — Second-generation NAM; different binding mode due to Trp785^6.50 rotamer
 - [MPEP](/xray-mp-wiki/reagents/ligands/mpep/) — Reference NAM; defines MPEP allosteric site
-- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/allosteric-regulation/) — Mavoglurant is a clinical-stage mGlu5 negative allosteric modulator
+- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — Mavoglurant is a clinical-stage mGlu5 negative allosteric modulator
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification

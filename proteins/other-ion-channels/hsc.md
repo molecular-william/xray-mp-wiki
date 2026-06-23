@@ -130,7 +130,7 @@ The T84A mutant disrupts the His201-Thr84 hydrogen bond but did not cause large-
 
 ### Thermostabilization by anions
 
-Apparent melting temperatures of HSC were determined by fitting peak heights from [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) to a Boltzmann sigmoidal curve. Various anions were tested: control 53.3 C, Na2SO3 53.8 C, NaHCO3 57.1 C, NaCl 57.3 C, NaNO2 58.5 C, NaHS 61.7 C. The melting temperature increased progressively with different anions, with NaHS providing the highest [Protein Thermostabilization](/xray-mp-wiki/concepts/thermostabilization/).
+Apparent melting temperatures of HSC were determined by fitting peak heights from [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) to a Boltzmann sigmoidal curve. Various anions were tested: control 53.3 C, Na2SO3 53.8 C, NaHCO3 57.1 C, NaCl 57.3 C, NaNO2 58.5 C, NaHS 61.7 C. The melting temperature increased progressively with different anions, with NaHS providing the highest [Protein Thermostabilization](/xray-mp-wiki/concepts/construct-design/thermostabilization/).
 
 ### pH-independent crystal structure
 
@@ -141,8 +141,8 @@ Backbone superimposition of HSC crystal structures from high pH (pH 9.0), neutra
 
 - [FocA (Formate Channel A from Vibrio cholerae)](/xray-mp-wiki/proteins/other-ion-channels/focA-vibrio-cholerae/) — Related FNT family channel; structural and functional comparison in the paper
 - [HiTehA (TehA from Haemophilus influenzae)](/xray-mp-wiki/proteins/other-ion-channels/hiteha/) — Related anion channel; structural comparison within FNT superfamily
-- [FNT Family (Formate/Nitrite Transporter Family)](/xray-mp-wiki/concepts/fnt-family/) — HSC belongs to the FNT family of anion channels
-- [Ion Channel Selectivity Filter](/xray-mp-wiki/concepts/selectivity-filter/) — HSC selectivity filter compared with FocA in the paper
+- [FNT Family (Formate/Nitrite Transporter Family)](/xray-mp-wiki/concepts/transport-mechanisms/fnt-family/) — HSC belongs to the FNT family of anion channels
+- [Ion Channel Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/) — HSC selectivity filter compared with FocA in the paper
 - [Thermal Shift Assay (Fluorescent CPM)](/xray-mp-wiki/methods/quality-assessment/thermal-shift-assay/) — Thermostability screening by SEC with Boltzmann curve fitting
-- [Protein Thermostabilization](/xray-mp-wiki/concepts/thermostabilization/) — Related biological concept
+- [Protein Thermostabilization](/xray-mp-wiki/concepts/construct-design/thermostabilization/) — Related biological concept
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification

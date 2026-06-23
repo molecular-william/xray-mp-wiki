@@ -176,12 +176,12 @@ Comparing the 2.7 A inward-facing structure with lower-resolution structures of 
 
 ## Cross-References
 
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — BetP is a secondary active transporter using alternating-access mechanism
-- [Sodium-Motive Force (SMF)](/xray-mp-wiki/concepts/sodium-motive-force/) — BetP is a Na+-coupled symporter driven by sodium electrochemical gradient
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — BetP is a secondary active transporter using alternating-access mechanism
+- [Sodium-Motive Force (SMF)](/xray-mp-wiki/concepts/miscellaneous/sodium-motive-force/) — BetP is a Na+-coupled symporter driven by sodium electrochemical gradient
 - [Glycine Betaine](/xray-mp-wiki/reagents/ligands/glycine-betaine/) — Primary substrate/osmolyte transported by BetP
 - [Choline](/xray-mp-wiki/reagents/ligands/choline/) — Secondary substrate for BetP G153D mutant with sixfold increased sodium affinity
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for BetP membrane solubilization and purification
-- [BCCT Family](/xray-mp-wiki/concepts/bcct-family/) — BetP is the founding member of the BCCT transporter family
+- [BCCT Family](/xray-mp-wiki/concepts/transport-mechanisms/bcct-family/) — BetP is the founding member of the BCCT transporter family
 - [LeuT Amino Acid Transporter](/xray-mp-wiki/proteins/enzymes/leut/) — [LeuT](/xray-mp-wiki/proteins/leut) used as structural reference for BetP conformational analysis
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Used for structure determination of both BetP structures from this paper
 - [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) — BetP shares [LeuT](/xray-mp-wiki/proteins/leut) fold topology (RMSD 3.7 A) but lacks Leu25-like side chain rotation in substrate-free states

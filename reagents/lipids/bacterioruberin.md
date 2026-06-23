@@ -48,4 +48,4 @@ No comparison data available.
 ## Cross-References
 
 - [Cruxrhodopsin-3 (cR3)](/xray-mp-wiki/proteins/rhodopsins/cruxrhodopsin-3/) — Bacterioruberin binds at inter-subunit crevices in the cR3 trimer, strengthening the trimeric assembly
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/microbial-rhodopsins/) — Bacterioruberin is a characteristic carotenoid associated with archaeal rhodopsin trimers
+- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — Bacterioruberin is a characteristic carotenoid associated with archaeal rhodopsin trimers

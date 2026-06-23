@@ -81,4 +81,4 @@ An intracellular loop between the two amphipathic helices (residues G208-A229) i
 
 - [SmhB](/xray-mp-wiki/proteins/toxins/smhB/) — SmhB is the B component of the SmhABC tripartite alpha-PFT, interacting with SmhA during pore assembly
 - [ClyA Cytotoxin](/xray-mp-wiki/proteins/toxins/clyA/) — Prototypical single-component alpha-PFT in the same ClyA family
-- [Pore-Forming Toxins](/xray-mp-wiki/concepts/pore-forming-toxins/) — SmhA is a component of a tripartite alpha-pore-forming toxin in the ClyA family
+- [Pore-Forming Toxins](/xray-mp-wiki/concepts/structural-mechanisms/pore-forming-toxins/) — SmhA is a component of a tripartite alpha-pore-forming toxin in the ClyA family

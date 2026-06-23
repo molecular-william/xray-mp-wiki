@@ -43,4 +43,4 @@ No comparison data available.
 ## Cross-References
 
 - [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) — LeuT-desipramine cocrystal structure
-- [Tricyclic Antidepressant (TCA) Inhibition Mechanism in NSS Transporters](/xray-mp-wiki/concepts/tca-inhibition-mechanism/) — TCA inhibition mechanism
+- [Tricyclic Antidepressant (TCA) Inhibition Mechanism in NSS Transporters](/xray-mp-wiki/concepts/transport-mechanisms/tca-inhibition-mechanism/) — TCA inhibition mechanism

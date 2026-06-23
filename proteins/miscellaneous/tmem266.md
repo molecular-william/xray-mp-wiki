@@ -81,7 +81,7 @@ TMEM266 belongs to the family of unconventional voltage-sensor proteins that lac
 
 ## Cross-References
 
-- [Voltage-Sensor Paddle](/xray-mp-wiki/concepts/voltage-sensor-paddle/) — TMEM266 contains a canonical voltage-sensor domain homologous to Hv1/VSOP
+- [Voltage-Sensor Paddle](/xray-mp-wiki/concepts/construct-design/voltage-sensor-paddle/) — TMEM266 contains a canonical voltage-sensor domain homologous to Hv1/VSOP
 - [MES](/xray-mp-wiki/reagents/buffers/mes/) — Buffer used in crystallization (100 mM MES-NaOH pH 6.0)
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Cryoprotectant used during crystal freezing (30% v/v)
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Used for purification of fTMEM266cc via His8-myc-His8 tag

@@ -116,6 +116,6 @@ The Bpe-S8 monobody interface is ~950 A^2 and mainly hydrophobic. Hydrogen bonds
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for Bpe purification and crystallization (5 mM)
 - [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer used in Bpe purification and crystallization (10 mM, pH 7.0)
 - [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/) — NaF used in Bpe purification buffer (100 mM) for fluoride channel activity
-- [Dual-Topology Channels](/xray-mp-wiki/concepts/dual-topology-channels/) — Bpe is a dual-topology homodimer; 2.1 A structure confirms double-barrelled architecture
+- [Dual-Topology Channels](/xray-mp-wiki/concepts/transport-mechanisms/dual-topology-channels/) — Bpe is a dual-topology homodimer; 2.1 A structure confirms double-barrelled architecture
 - [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) — Crystallization method used for structure determination
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement) — Structure determination method used

@@ -21,11 +21,11 @@ Human Protease-Activated Receptor 2 (PAR2) is a class A G protein-coupled recept
 
 | Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
 |---|---|---|---|---|---|
-| doi/10.1038##nature22309 | 5IRV | 2.80 | P1 | Human PAR2-StaR (nine thermostabilizing mutations: G89A, H108A, G157A, M166L, Y174A, V176E, M268A, I289A, T293A) with N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) (residues 1-54 replaced by T4 lysozyme inserted before F58), ICL3 cytochrome b562RIL insertion (between L269 and E276), glycosylation mutation N222Q, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) after K377, C-terminal His6 tag. Bound to antagonist [AZ8838 (PAR2 Antagonist)](/xray-mp-wiki/reagents/ligands/az8838/).
+| doi/10.1038##nature22309 | 5IRV | 2.80 | P1 | Human PAR2-StaR (nine thermostabilizing mutations: G89A, H108A, G157A, M166L, Y174A, V176E, M268A, I289A, T293A) with N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (residues 1-54 replaced by T4 lysozyme inserted before F58), ICL3 cytochrome b562RIL insertion (between L269 and E276), glycosylation mutation N222Q, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) after K377, C-terminal His6 tag. Bound to antagonist [AZ8838 (PAR2 Antagonist)](/xray-mp-wiki/reagents/ligands/az8838/).
  | [AZ8838 (PAR2 Antagonist)](/xray-mp-wiki/reagents/ligands/az8838/) |
 | doi/10.1038##nature22309 | 5IRW | 3.59 | P1 | Same PAR2-StaR [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) fusion construct as above. Bound to antagonist [AZ3451 (PAR2 Antagonist)](/xray-mp-wiki/reagents/ligands/az3451/).
  | [AZ3451 (PAR2 Antagonist)](/xray-mp-wiki/reagents/ligands/az3451/) |
-| doi/10.1038##nature22309 | 5IRX | 4.00 | P212121 | Human PAR2-StaR (nine thermostabilizing mutations) with N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) (residues 1-54 removed, first residue V55), ICL3 cytochrome b562RIL insertion (between L269 and E276), glycosylation mutation N222Q, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) after K377, C-terminal His6 tag (PAR2-StaR NDelta54/CDelta20 N222Q b562RIL-C04). Bound to weak antagonist AZ7188 and Fab fragment of [MAB3949 Monoclonal Antibody (PAR2-specific)](/xray-mp-wiki/reagents/antibodies/mab3949/) blocking antibody.
+| doi/10.1038##nature22309 | 5IRX | 4.00 | P212121 | Human PAR2-StaR (nine thermostabilizing mutations) with N-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (residues 1-54 removed, first residue V55), ICL3 cytochrome b562RIL insertion (between L269 and E276), glycosylation mutation N222Q, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) after K377, C-terminal His6 tag (PAR2-StaR NDelta54/CDelta20 N222Q b562RIL-C04). Bound to weak antagonist AZ7188 and Fab fragment of [MAB3949 Monoclonal Antibody (PAR2-specific)](/xray-mp-wiki/reagents/antibodies/mab3949/) blocking antibody.
  | AZ7188, [MAB3949 Monoclonal Antibody (PAR2-specific)](/xray-mp-wiki/reagents/antibodies/mab3949/) Fab |
 
 ## Expression and Purification
@@ -67,10 +67,10 @@ PAR2 is activated by proteolytic cleavage of the N terminus, which unmasks a tet
 - [Human Protease-Activated Receptor 1 (PAR1)](/xray-mp-wiki/proteins/gpcr/par1/) — PAR2 shares 36% sequence identity with PAR1; structures compared in this paper
 - [Vorapaxar](/xray-mp-wiki/reagents/ligands/vorapaxar/) — PAR1 antagonist; binding pocket eliminated in PAR2 due to structural differences
 - [T4 Lysozyme (T4L)](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — T4L fusion inserted into N terminus for PAR2 crystallization
-- [Allosteric Regulation](/xray-mp-wiki/concepts/allosteric-regulation/) — Paper demonstrates multiple allosteric sites on PAR2 for antagonist binding
-- [Thermostabilization](/xray-mp-wiki/concepts/thermostabilization/) — PAR2-StaR constructed with nine thermostabilizing mutations for crystallization
-- [GPCR Active Conformation](/xray-mp-wiki/concepts/gpcr-active-conformation/) — Antagonist binding prevents structural rearrangements required for GPCR activation
+- [Allosteric Regulation](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — Paper demonstrates multiple allosteric sites on PAR2 for antagonist binding
+- [Thermostabilization](/xray-mp-wiki/concepts/construct-design/thermostabilization/) — PAR2-StaR constructed with nine thermostabilizing mutations for crystallization
+- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — Antagonist binding prevents structural rearrangements required for GPCR activation
 - [His6 Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) — Decahistidine tag added to C terminus for Ni-NTA affinity purification
 - [Lauryl Maltose Neopentyl Glycol (LMNG)](/xray-mp-wiki/reagents/detergents/lmng/) — Primary detergent used for solubilization and purification of PAR2-StaR
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — Related biological concept
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
 - [Trypsin](/xray-mp-wiki/reagents/additives/trypsin/) — Additive used in purification or crystallization buffers

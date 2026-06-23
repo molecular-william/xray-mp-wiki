@@ -56,4 +56,4 @@ The conserved glycine residue Gly-404 (Gly-399 in T. thermophilus) in the linker
 ## Cross-References
 
 - [FtsH from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/aquifex-aeolicus-ftsh/) — Homologous FtsH protein with ADP-bound structure showing different AAA ring arrangement
-- [AAA Protease Mechanism](/xray-mp-wiki/concepts/aaa-protease-mechanism/) — FtsH is the founding member of the AAA+ protease family; this structure provides key mechanistic insights
+- [AAA Protease Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/aaa-protease-mechanism/) — FtsH is the founding member of the AAA+ protease family; this structure provides key mechanistic insights

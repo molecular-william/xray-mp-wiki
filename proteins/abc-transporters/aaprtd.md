@@ -75,7 +75,7 @@ The AaPrtD structure supports a polypeptide transport mechanism distinct from th
 ## Cross-References
 
 - [ABC Transporter Mechanism](/xray-mp-wiki/concepts/abc-transporter-mechanism/) — AaPrtD is a bacterial ABC exporter with a distinct transport mechanism
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — AaPrtD structure supports a T1SS-specific mechanism distinct from alternating access
+- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — AaPrtD structure supports a T1SS-specific mechanism distinct from alternating access
 - [Single-Wavelength Anomalous Diffraction (SAD)](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/) — Structure determined by SAD phasing using samarium, mercury, and selenium derivatives
 - [Type-1 Secretion System](/xray-mp-wiki/concepts/type-1-secretion-system/) — AaPrtD is the ABC transporter component of the T1SS machinery
 - [N-Dodecyl-beta-D-maltopyranoside (beta-DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for purification and crystallization of AaPrtD
