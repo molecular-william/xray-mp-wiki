@@ -50,7 +50,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Aquifex aeolicus TatC](/xray-mp-wiki/proteins/tatc/) — DHPC used for TatC crystallization (PDB 4HTS)
+- [Aquifex aeolicus TatC](/xray-mp-wiki/proteins/flat/tatc/) — DHPC used for TatC crystallization (PDB 4HTS)
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Related nonionic detergent, longer chain, also used for TatC crystallization (PDB 4HTT)
 - [Lauryl Maltose Neopentyl Glycol (LMNG)](/xray-mp-wiki/reagents/detergents/lmng/) — Related neopentyl glycol detergent family
 - [Phosphatidylcholine](/xray-mp-wiki/reagents/lipids/phosphatidylcholine/) — Additive used in purification or crystallization buffers

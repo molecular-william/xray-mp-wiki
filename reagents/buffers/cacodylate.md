@@ -53,7 +53,7 @@ grown by HiLiDe method with [DOPC](/xray-mp-wiki/reagents/lipids/dopc/).
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Porin B (PorB) from Corynebacterium glutamicum](/xray-mp-wiki/proteins/porb-corynebacterium-glutamicum/) | present in crystallization contacts | Observed in crystal form I contact type C dimers alongside 6 Zn2+ ion sites | Mediates crystal packing; found in polar interface of recurring contact type C |
+| [Porin B (PorB) from Corynebacterium glutamicum](/xray-mp-wiki/proteins/miscellaneous/porb-corynebacterium-glutamicum/) | present in crystallization contacts | Observed in crystal form I contact type C dimers alongside 6 Zn2+ ion sites | Mediates crystal packing; found in polar interface of recurring contact type C |
 | [VKOR from Synechococcus sp.](/xray-mp-wiki/proteins/enzymes/synechococcus-vkor/) | 0.1 M | Crystallization buffer for Cys50Ala mutant (12% PEG3350, 0.1 M [Sodium Cacodylate](/xray-mp-wiki/reagents/buffers/sodium-cacodylate/) pH 5.5) and Cys212Ala mutant (11% PEG1500, 8% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 5% ethanol, 0.1 M MgCl2, 0.1 M NaCl, 0.1 M [Sodium Cacodylate](/xray-mp-wiki/reagents/buffers/sodium-cacodylate/) pH 5.5) | Crystals diffracted to 2.8 A (Cys50Ala) and 4.2 A (Cys212Ala); three electron-transfer states captured |
 
 ## Advantages and Disadvantages
@@ -66,7 +66,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Porin B (PorB) from Corynebacterium glutamicum](/xray-mp-wiki/proteins/porb-corynebacterium-glutamicum/) — Cacodylate observed as a bound ligand in PorB crystal contacts
+- [Porin B (PorB) from Corynebacterium glutamicum](/xray-mp-wiki/proteins/miscellaneous/porb-corynebacterium-glutamicum/) — Cacodylate observed as a bound ligand in PorB crystal contacts
 - [VKOR from Synechococcus sp.](/xray-mp-wiki/proteins/enzymes/synechococcus-vkor/) — Related protein structure
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
 - [PEG300](/xray-mp-wiki/reagents/additives/peg300/) — Additive used in purification or crystallization buffers

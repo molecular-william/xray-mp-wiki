@@ -25,4 +25,4 @@ The ER retrieval mechanism involves KDEL receptors that bind to proteins with C-
 
 
 ## Cross-References
-- [KDEL Receptor](/xray-mp-wiki/proteins/kdel-receptor/) — ER retrieval receptor with detailed mechanism
+- [KDEL Receptor](/xray-mp-wiki/proteins/receptors-signaling/kdel-receptor/) — ER retrieval receptor with detailed mechanism
