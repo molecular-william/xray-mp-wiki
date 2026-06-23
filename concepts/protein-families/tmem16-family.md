@@ -35,5 +35,5 @@ All TMEM16 proteins share a common mode of Ca2+ activation despite their functio
 - [nhTMEM16 (TMEM16 Lipid Scramblase from Nectria haematococca)](/xray-mp-wiki/proteins/miscellaneous/nhtmem16/) — nhTMEM16 is the structural prototype of the TMEM16 lipid scramblase subfamily
 - [afTMEM16 (TMEM16 Lipid Scramblase from Aspergillus fumigatus)](/xray-mp-wiki/proteins/miscellaneous/af-tmem16/) — afTMEM16 is the first identified TMEM16 lipid scramblase
 - [mTMEM16A (Murine TMEM16A Calcium-Activated Chloride Channel)](/xray-mp-wiki/proteins/miscellaneous/mtmem16a/) — mTMEM16A is the prototype of the TMEM16 chloride channel subfamily
-- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-ion-coordination/) — TMEM16 Ca2+ binding site is a key example of intramembrane ion coordination
+- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-ion-coordination/) — TMEM16 Ca2+ binding site is a key example of intramembrane ion coordination
 - [Phosphatidylserine](/xray-mp-wiki/reagents/lipids/phosphatidylserine/) — Additive used in purification or crystallization buffers

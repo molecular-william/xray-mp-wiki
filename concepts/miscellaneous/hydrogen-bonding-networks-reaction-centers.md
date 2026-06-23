@@ -29,5 +29,5 @@ On the P_B side (M197 cleft), the network includes: Asp L155 - Tyr M198, Asp L15
 
 ## Cross-References
 - [Rhodobacter sphaeroides Photosynthetic Reaction Center](/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-center/) — The F(M197)H RC structure reveals the hydrogen-bonding network details
-- [Lipidic Sponge Phase](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/lipidic-sponge-phase/) — F(M197)H RC was crystallized using the LSP method
+- [Lipidic Sponge Phase](/xray-mp-wiki/concepts/membrane-mimetics/lipidic-sponge-phase/) — F(M197)H RC was crystallized using the LSP method
 - [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) — Related ligand or cofactor

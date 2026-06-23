@@ -576,7 +576,7 @@ unrel |
 | method | methods/crystallization/imisx-in-situ-crystallization/ | IMISX In-Situ Serial Crystallography | IMISX (in meso in situ) is a serial X-ray crystallography technique that combine |
 | method | methods/crystallization/lipidic-cubic-phase/ | Lipidic Cubic Phase Crystallization | Lipidic cubic phase (LCP) crystallization, also known as the in meso method, is  |
 | method | methods/crystallization/lipidic-sponge-phase-crystallization/ | Lipidic Sponge Phase Crystallization | Lipidic sponge phase (LSP) crystallization is a variant of lipidic cubic phase ( |
-| method | methods/crystallization/liquid-sponge-phase-crystallization/ | Liquid Sponge Phase Crystallization | Liquid sponge phase ([LSP](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mim |
+| method | methods/crystallization/liquid-sponge-phase-crystallization/ | Liquid Sponge Phase Crystallization | Liquid sponge phase ([LSP](/xray-mp-wiki/concepts/membrane-mimetics/lipidic-spon |
 | method | methods/crystallization/microbatch-crystallization-under-oil/ | Microbatch Crystallization Under Oil | Microbatch crystallization under oil is a crystallization method where protein a |
 | method | methods/crystallization/on-chip-crystallization/ | On-Chip Crystallization for Serial Crystallography | On-chip crystallization is a method for growing protein crystals directly on mic |
 | method | methods/crystallization/sitting-drop-vapor-diffusion/ | Sitting-Drop Vapor Diffusion | Sitting-drop vapor diffusion is a widely used protein crystallization technique  |
@@ -655,7 +655,7 @@ orient |
 | protein | proteins/abc-transporters/adeb/ | AdeB Multidrug Efflux Transporter | AdeB is a multidrug efflux transporter from the Gram-negative pathogen Acinetoba |
 | protein | proteins/abc-transporters/algm1m2ss/ | AlgM1M2SS Alginate ABC Transporter | AlgM1M2SS is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC |
 | protein | proteins/abc-transporters/aq_128/ | Aq_128 (Aquifex aeolicus MATE Family Multidrug Resistance Transporter) — aMATE-1 Subfamily Prototype | Aq_128 is a multidrug and toxic compound extrusion (MATE) family transporter fro |
-| protein | proteins/abc-transporters/archaeoglobus-fulgidus-modbc/ | Archaeoglobus fulgidus ModB2C2 Molybdate ABC Transporter with ModA | The molybdate/tungstate ABC transporter from Archaeoglobus fulgidus is a complet |
+| protein | proteins/abc-transporters/archaeoglobus-fulgidus-modbc/ | Archaeoglobus fulgidus ModB2C2 Molybdate ABC Transporter with ModA | Protein: archaeoglobus-fulgidus-modbc |
 | protein | proteins/abc-transporters/art-qn2/ | Art(QN)2 ABC Amino Acid Importer from Thermoanaerobacter tengcongensis | Art(QN)2 is a homodimeric type I ABC importer from the thermophilic bacterium Th |
 | protein | proteins/abc-transporters/bhuuv-t/ | Burkholderia cenocepacia Haem Importer Complex BhuUV-T | The BhuUV-T complex is a type II ATP-binding cassette (ABC) haem importer from t |
 | protein | proteins/abc-transporters/bhuuv/ | Burkholderia cenocepacia Haem Importer Complex BhuUV | The BhuUV complex is the transmembrane and nucleotide-binding domain core of the |
@@ -752,7 +752,7 @@ the thermo |
 | protein | proteins/enzymes/aquifex-aeolicus-mray/ | Aquifex aeolicus MraY Phospho-MurNAc-pentapeptide Translocase | MraY (phospho-MurNAc-pentapeptide translocase) from Aquifex aeolicus
 (MraY_AA) c |
 | protein | proteins/enzymes/archaeoglobus-fulgidus-aglb/ | Archaeoglobus fulgidus AglB (AfAglB) | Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal ol |
-| protein | proteins/enzymes/arnt/ | 4-Amino-4-deoxy-L-arabinose Transferase ArnT from Cupriavidus metallidurans | ArnT (PmrK) is an integral membrane lipid-to-lipid glycosyltransferase that cata |
+| protein | proteins/enzymes/arnt/ | 4-Amino-4-deoxy-L-arabinose Transferase ArnT from Cupriavidus metallidurans | Protein: arnt |
 | protein | proteins/enzymes/ascaris-suum-quinol-fumarate-reductase/ | Ascaris suum Quinol-Fumarate Reductase (QFR) | The X-ray crystal structure of mitochondrial quinol–fumarate reductase (QFR) fro |
 | protein | proteins/enzymes/baca/ | Undecaprenyl Pyrophosphate Phosphatase (UppP/BacA) from Escherichia coli | Undecaprenyl pyrophosphate phosphatase (UppP, also known as BacA) is a 30 kDa po |
 | protein | proteins/enzymes/bc-chbc/ | bcChbC (Bacillus cereus Chitobiose Transporter) | bcChbC is a [Diacetylchitobiose](/xray-mp-wiki/reagents/ligands/diacetylchitobio |
@@ -984,7 +984,7 @@ G-protein-coupled |
 | protein | proteins/gpcr/turkey-beta1-ar-m23/ | Turkey Beta1-Adrenergic Receptor M23 | The turkey beta1-adrenergic receptor (beta1AR) is a class A G protein-coupled re |
 | protein | proteins/gpcr/us28/ | US28 Viral Chemokine Receptor | US28 is a G-protein-coupled receptor encoded by human cytomegalovirus (CMV) that |
 | protein | proteins/kdel-receptor/ | Human KDEL Receptor | The human KDEL receptor is a seven-pass transmembrane receptor that retrieves es |
-| protein | proteins/mfs-transporters/arabidopsis-nitrate-transporter-nrt1-1/ | Arabidopsis thaliana Nitrate Transporter NRT1.1 (CHL1/NPF6.3) | NRT1.1 (CHL1/NPF6.3) is a dual-affinity nitrate transporter from Arabidopsis tha |
+| protein | proteins/mfs-transporters/arabidopsis-nitrate-transporter-nrt1-1/ | Arabidopsis thaliana Nitrate Transporter NRT1.1 (CHL1/NPF6.3) | Protein: arabidopsis-nitrate-transporter-nrt1-1 |
 | protein | proteins/mfs-transporters/at-suc1/ | Arabidopsis thaliana Sucrose Transporter SUC1 | Arabidopsis thaliana SUC1 is a low-affinity sucrose-proton symporter from the SU |
 | protein | proteins/mfs-transporters/bbfpn/ | BbFPN — Putative Bacterial Ferroportin Homologue from Bdellovibrio bacteriovorus | BbFPN is a putative bacterial homologue of ferroportin (FPN/SLC40A1) from Bdello |
 | protein | proteins/mfs-transporters/dtpb/ | Escherichia coli DtpB Peptide Transporter | DtpB is a proton-dependent oligopeptide transporter (POT) from the Major Facilit |
@@ -1035,7 +1035,7 @@ t |
 t |
 | protein | proteins/miscellaneous/a-thaliana-sweet1/ | A. thaliana SWEET1 | A. thaliana SWEET1 is a glucose transporter from the SWEET family found in Arabi |
 | protein | proteins/miscellaneous/af-tmem16/ | afTMEM16 (TMEM16 Lipid Scramblase from Aspergillus fumigatus) | afTMEM16 is a calcium-activated lipid scramblase from the fungus Aspergillus fum |
-| protein | proteins/miscellaneous/arabidopsis-thaliana-cystinosin/ | Arabidopsis thaliana cystinosin (AtCystinosin) | Arabidopsis thaliana cystinosin is a proton-coupled lysosomal cystine transporte |
+| protein | proteins/miscellaneous/arabidopsis-thaliana-cystinosin/ | Arabidopsis thaliana cystinosin (AtCystinosin) | Protein: arabidopsis-thaliana-cystinosin |
 | protein | proteins/miscellaneous/cd47-bril-b6h12/ | CD47 BRIL-B6H12 complex from Homo sapiens | CD47 is the only 5-transmembrane (5-TM) spanning receptor of the immune system.  |
 | protein | proteins/miscellaneous/ec-semisweet/ | E. coli SemiSWEET (EcSemiSWEET) | EcSemiSWEET is a sugar transporter from the SWEET family found in Escherichia co |
 | protein | proteins/miscellaneous/lb-semi-sweet/ | LbSemiSWEET (Leptospira biflexa SemiSWEET) | [LbSemiSWEET from Leptospira biflexa](/xray-mp-wiki/proteins/miscellaneous/lbsem |
@@ -1153,7 +1153,7 @@ a |
 | protein | proteins/photosynthesis/thermochromatium-tepidum-photosynthetic-reaction-center/ | Photosynthetic Reaction Center from Thermochromatium tepidum | The photosynthetic reaction center (RC) from the thermophilic purple sulfur bact |
 | protein | proteins/porb-corynebacterium-glutamicum/ | Porin B (PorB) from Corynebacterium glutamicum | Porin B (PorB) is an alpha-helical porin from Corynebacterium glutamicum, a myco |
 | protein | proteins/pumps-atpases/af-copa/ | CopA from Archaeoglobus fulgidus (AfCopA) | CopA from Archaeoglobus fulgidus (AfCopA) is a copper-transporting P1B-type ATPa |
-| protein | proteins/pumps-atpases/atp11c-cdc50a/ | ATP11C-CDC50A (Human Plasma Membrane Phospholipid Flippase) | ATP11C is a member of the P4-ATPase family that functions as an aminophospholipi |
+| protein | proteins/pumps-atpases/atp11c-cdc50a/ | ATP11C-CDC50A (Human Plasma Membrane Phospholipid Flippase) | Protein: atp11c-cdc50a |
 | protein | proteins/pumps-atpases/bacillus-pseudofirmus-of4-c12-ring/ | Bacillus pseudofirmus OF4 ATP Synthase A16/20G c12 Ring | The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme  |
 | protein | proteins/pumps-atpases/bacillus-pseudofirmus-of4-c13-ring/ | Bacillus pseudofirmus OF4 ATP Synthase c13 Ring (Wild-Type) | The [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthase c-ring from the extreme  |
 | protein | proteins/pumps-atpases/bioy-lactococcus-lactis/ | BioY - Biotin S Component from Lactococcus lactis | BioY is the biotin-specific S component of the Energy-Coupling Factor (ECF) tran |
@@ -1233,7 +1233,7 @@ ATPase |
 | protein | proteins/rhodopsins/anabaena-sensory-rhodopsin/ | Anabaena Sensory Rhodopsin | Anabaena Sensory Rhodopsin (ASR) is a photochromic color sensor
 from the cyanoba |
 | protein | proteins/rhodopsins/archaerhodopsin-1/ | Archaerhodopsin-1 from Halorubrum sp. aus-1 | Archaerhodopsin-1 (aR-1) is a light-driven proton pump from Halorubrum sp. aus-1 |
-| protein | proteins/rhodopsins/archaerhodopsin-2/ | Archaerhodopsin-2 | Archaerhodopsin-2 (aR2) is a light-driven proton pump found in the claret membra |
+| protein | proteins/rhodopsins/archaerhodopsin-2/ | Archaerhodopsin-2 | Protein: archaerhodopsin-2 |
 | protein | proteins/rhodopsins/archaerhodopsin-3/ | Archaerhodopsin-3 (AR3) | Archaerhodopsin-3 (AR3) is a light-driven proton pump from the archaebacterium H |
 | protein | proteins/rhodopsins/bacteriorhodopsin/ | Bacteriorhodopsin (bR) from Halobacterium salinarum | Bacteriorhodopsin (bR) is a light-driven proton pump from the archaeon
 Halobacte |
@@ -1314,7 +1314,7 @@ choanoflage |
 | protein | proteins/slc-transporters/adic/ | AdiC Arginine/Agmatine Antiporter | AdiC is an arginine/agmatine antiporter from the APC (amino acid-polyamine-organ |
 | protein | proteins/slc-transporters/apct/ | ApcT Amino Acid Transporter from Methanocaldococcus jannaschii | ApcT is a 435-amino acid amino acid transporter from the archaeon Methanocaldoco |
 | protein | proteins/slc-transporters/asbt-nm/ | ASBT-NM (Bacterial Homologue of the Bile Acid Sodium Symporter ASBT) | ASBT-NM is a bacterial homologue of the apical sodium-dependent bile acid transp |
-| protein | proteins/slc-transporters/asbt-yf/ | ASBT_Yf (Apical Sodium-Dependent Bile Acid Transporter from Yersinia frederiksenii) | ASBT_Yf (Apical Sodium-Dependent Bile Acid Transporter from Yersinia frederiksen |
+| protein | proteins/slc-transporters/asbt-yf/ | ASBT_Yf (Apical Sodium-Dependent Bile Acid Transporter from Yersinia frederiksenii) | Protein: asbt-yf |
 | protein | proteins/slc-transporters/basc/ | BasC (Bacterial Alanine-Serine-Cysteine Exchanger) | BasC is a bacterial L-amino acid transporter (LAT) from the alanine-serine-cyste |
 | protein | proteins/slc-transporters/bbzip/ | BbZIP (Bordetella bronchiseptica ZIP metal transporter) | BbZIP (ZIPB) is a prokaryotic ZIP family divalent metal transporter from Bordete |
 | protein | proteins/slc-transporters/betp/ | BetP (Na+/Betaine Symporter from Corynebacterium glutamicum) | BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacter |
@@ -1441,7 +1441,7 @@ acti |
 | protein | proteins/toxins/tcdB2-tccC3/ | TcdB2-TccC3 Toxin Complex B-C Fusion from Photorhabdus luminescens | TcdB2-TccC3 is a fusion protein from Photorhabdus luminescens subsp. akhurstii c |
 | protein | proteins/voltage-gated-channels/a-pernix-kvap/ | KvAP voltage-dependent K+ channel from Aeropyrum pernix | [KvAP Voltage-Dependent Potassium Channel](/xray-mp-wiki/proteins/voltage-gated- |
 | protein | proteins/voltage-gated-channels/atpc1/ | AtTPC1 - Arabidopsis thaliana Two-pore Channel 1 | AtTPC1 (Arabidopsis thaliana Two-pore Channel 1) is a plant vacuolar cation chan |
-| protein | proteins/voltage-gated-channels/atpcc1/ | AtTPC1 Vacuolar Two-pore Channel from Arabidopsis thaliana | AtTPC1 is a vacuolar two-pore channel (TPC) from Arabidopsis thaliana that funct |
+| protein | proteins/voltage-gated-channels/atpcc1/ | AtTPC1 Vacuolar Two-pore Channel from Arabidopsis thaliana | Protein: atpcc1 |
 | protein | proteins/voltage-gated-channels/bk-channel/ | Human BK (Slo1/MaxiK) Large-Conductance Ca2+-Gated K+ Channel | BK channels (also called MaxiK or Slo1, gene KCNMA1) are large-conductance Ca2+- |
 | protein | proteins/voltage-gated-channels/bsyetj/ | BsYetJ TMBIM Ca2+ Channel | BsYetJ is a transmembrane Bax inhibitor motif (TMBIM) protein from Bacillus subt |
 | protein | proteins/voltage-gated-channels/ca-vab/ | CaVAb Bacterial Voltage-Gated Calcium Channel | CaVAb is a bacterial voltage-gated calcium channel that serves as an evolutionar |

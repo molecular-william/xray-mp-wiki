@@ -70,7 +70,7 @@ A Zn²⁺ binding site is formed by E80 (TM1) and H135 (TM2) from adjacent subun
 
 - [Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/) — Two methionine triads form a Cu⁺ selectivity filter
 - [Channel-Like Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/channel-like-mechanism/) — Ctr1 functions like an ion channel for Cu⁺ conduction
-- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-ion-coordination/) — Cu⁺ is coordinated by methionine S atoms in the selectivity filter
+- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-ion-coordination/) — Cu⁺ is coordinated by methionine S atoms in the selectivity filter
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — SEC was used as a final purification step
 - [Hanging Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Crystals were grown by hanging drop vapor diffusion
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for solubilization at 2% (w/v)

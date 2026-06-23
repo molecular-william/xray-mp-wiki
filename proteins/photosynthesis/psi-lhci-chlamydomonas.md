@@ -79,7 +79,7 @@ The Form A X-ray structure reveals absence of six chlorophylls from the luminal 
 - [Tris (Tris-HCl buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Crystallization buffer component (50 mM Tris-HCl, pH 7.0)
 - [Lithium Sulfate](/xray-mp-wiki/reagents/additives/lithium-sulfate/) — Crystallization precipitant component (50-100 mM Li2SO4)
 - [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) — Crystallization precipitant (4.5-7.0% PEG 6000) and cryoprotectant component (PEG 400)
-- [Membrane Protein Structural Biology Concepts](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/) — PSI-LHCI is a large multisubunit membrane protein complex embedded in the thylakoid membrane
+- [Membrane Protein Structural Biology Concepts](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics) — PSI-LHCI is a large multisubunit membrane protein complex embedded in the thylakoid membrane
 - [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Method used in structure determination or purification
 - [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) — Buffer component in purification or crystallization
 - [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) — Related ligand or cofactor

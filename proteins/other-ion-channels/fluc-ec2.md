@@ -110,7 +110,7 @@ A [Oxygen Ladder in Selectivity Filters](/xray-mp-wiki/concepts/transport-mechan
 
 ### T114 uses beta-branched methyl rather than hydroxyl
 
-The [Conserved Core Triad in GPCR Activation](/xray-mp-wiki/concepts/signaling-receptors/conserved-core-triad/) in GPCR Activation in GPCR Activation Thr114 At one end of the E. coli Polar Lipids track requires its β-branched [BNG](/xray-mp-wiki/reagents/detergents/n-methyl-beta-d-glucoside/) group for function, not its Surface Hydroxyl Acidity. Val and Ile are active substitutes while Ser (retaining the hydroxyl but lacking the β-methyl) abolishes TREX1 RNase Activity and DNA/RNA Hybrid Processing, suggesting a structural integrity role rather than direct F⁻ [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-ion-coordination/).
+The [Conserved Core Triad in GPCR Activation](/xray-mp-wiki/concepts/signaling-receptors/conserved-core-triad/) in GPCR Activation in GPCR Activation Thr114 At one end of the E. coli Polar Lipids track requires its β-branched [BNG](/xray-mp-wiki/reagents/detergents/n-methyl-beta-d-glucoside/) group for function, not its Surface Hydroxyl Acidity. Val and Ile are active substitutes while Ser (retaining the hydroxyl but lacking the β-methyl) abolishes TREX1 RNase Activity and DNA/RNA Hybrid Processing, suggesting a structural integrity role rather than direct F⁻ [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-ion-coordination/).
 
 ### Channsporter permeation mechanism
 

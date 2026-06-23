@@ -54,4 +54,4 @@ No comparison data available.
 - [Bacteriorhodopsin (bR) from Halobacterium salinarum](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Squalane was used in the LCP crystallization of bR for the 1.29 A structure
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Monoolein is the primary LCP host lipid; squalane is an additive to the LCP
 - [Squalene](/xray-mp-wiki/reagents/lipids/squalene/) — Squalane is the saturated analog of squalene; squalene is a native component of H. salinarum purple membranes
-- [Lipidic Sponge Phase](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/lipidic-sponge-phase/) — Additives like squalane can modulate LCP phase behavior for crystal growth
+- [Lipidic Sponge Phase](/xray-mp-wiki/concepts/membrane-mimetics/lipidic-sponge-phase/) — Additives like squalane can modulate LCP phase behavior for crystal growth

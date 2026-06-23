@@ -26,7 +26,7 @@ The inner (cytoplasmic) membrane of Gram-negative bacteria is the primary permea
 
 
 ## Cross-References
-- [Outer Membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) — The inner and outer membranes define the Gram-negative cell envelope
+- [Outer Membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) — The inner and outer membranes define the Gram-negative cell envelope
 - [Periplasm (Periplasmic Space)](/xray-mp-wiki/concepts/miscellaneous/periplasm/) — The inner membrane forms the inner boundary of the periplasmic space
 - [Membrane Lipid Asymmetry](/xray-mp-wiki/concepts/structural-mechanisms/lipid-asymmetry/) — Lipid distribution across the inner membrane is asymmetric and maintained by flippases
 - [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) — The RND inner membrane transporter is embedded in the inner membrane

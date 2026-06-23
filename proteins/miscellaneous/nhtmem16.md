@@ -118,6 +118,6 @@ While nhTMEM16 functions as a lipid scramblase, TMEM16A and TMEM16B function as 
 - [HEPES (4-(2-Hydroxyethyl)-1-piperazineethanesulfonic Acid)](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer used in nhTMEM16 purification (50 mM HEPES pH 7.6)
 - [Phosphatidylethanolamine](/xray-mp-wiki/reagents/lipids/phosphatidylethanolamine/) — NBD-labeled PE used as substrate in nhTMEM16 scrambling assay
 - [Phosphatidylserine](/xray-mp-wiki/reagents/lipids/phosphatidylserine/) — NBD-labeled PS used as substrate in nhTMEM16 scrambling assay
-- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-ion-coordination/) — nhTMEM16 Ca2+ binding site is an example of intramembrane ion coordination
+- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-ion-coordination/) — nhTMEM16 Ca2+ binding site is an example of intramembrane ion coordination
 - [EDTA](/xray-mp-wiki/reagents/additives/edta) — Entity mentioned in text
 - [Glucose](/xray-mp-wiki/reagents/additives/glucose) — Entity mentioned in text

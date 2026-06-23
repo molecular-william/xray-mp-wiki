@@ -62,7 +62,7 @@ This dynamics-inhibition hypothesis unifies several observations: (1) the Meyer-
 ## Cross-References
 - [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Model membrane protein system used in high-pressure noble gas derivatization study
 - [KR2 — Light-Driven Sodium Pump](/xray-mp-wiki/proteins/rhodopsins/kr2/) — Model membrane protein used in high-pressure noble gas derivatization study
-- [Force-from-Lipid Principle in Mechanosensation](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/force-from-lipid-principle/) — Related concept involving lipid-protein interactions in membrane protein gating
+- [Force-from-Lipid Principle in Mechanosensation](/xray-mp-wiki/concepts/membrane-mimetics/force-from-lipid-principle/) — Related concept involving lipid-protein interactions in membrane protein gating
 - [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — Noble gas binding represents a form of allosteric modulation at the protein-lipid interface
-- [Selective Lipid Binding in Membrane Protein](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/selective-lipid-binding/) — Related concept of lipid-protein interactions on MP surface
+- [Selective Lipid Binding in Membrane Protein](/xray-mp-wiki/concepts/membrane-mimetics/selective-lipid-binding/) — Related concept of lipid-protein interactions on MP surface
 - [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Related ligand or cofactor

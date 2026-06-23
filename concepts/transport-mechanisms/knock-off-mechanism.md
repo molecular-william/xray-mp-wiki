@@ -30,4 +30,4 @@ The knock-off mechanism is a model of ion permeation through selectivity filters
 - [Epithelial Calcium Channel TRPV6](/xray-mp-wiki/proteins/voltage-gated-channels/trpv6/) — Primary structural evidence for knock-off mechanism with multiple cation binding sites
 - [CaVAb Bacterial Voltage-Gated Calcium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/ca-vab/) — Related knock-off mechanism proposed for engineered Ca²⁺ channel
 - [Ion Channel Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/) — Knock-off mechanism operates through multiple binding sites within the selectivity filter
-- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-ion-coordination/) — Direct coordination of Ca²⁺ by aspartate side chains at Site 1 drives knock-off mechanism
+- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-ion-coordination/) — Direct coordination of Ca²⁺ by aspartate side chains at Site 1 drives knock-off mechanism

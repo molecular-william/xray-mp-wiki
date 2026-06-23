@@ -24,7 +24,7 @@ The barbiturate binding site in the GLIC ion channel pore is located between res
 - [GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/glic/) — The locally-closed (LC) mutant K33C-L246C of GLIC was co-crystallized with bromobarbital (3.3 Å, PDB 5L4H), selenocyanobarbital (2.99 Å, PDB 5L47), and thiopental (3.5 Å, PDB 5L4E), all revealing barbiturate binding in the central ion channel pore between residues 2' and 9'.
 
 ## Related Concepts
-- [Noble Gas Anaesthetic Mechanism](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/noble-gas-anaesthetic-mechanism/) — Xenon and bromoform bind the same pore site in GLIC as barbiturates
+- [Noble Gas Anaesthetic Mechanism](/xray-mp-wiki/concepts/membrane-mimetics/noble-gas-anaesthetic-mechanism/) — Xenon and bromoform bind the same pore site in GLIC as barbiturates
 - [Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) — Barbiturates modulate pLGIC activity through pore binding
 - [Non-competitive Inhibition](/xray-mp-wiki/concepts/enzyme-mechanisms/non-competitive-inhibition/) — Barbiturates inhibit cationic pLGICs through a non-competitive mechanism by stabilizing the closed state
 

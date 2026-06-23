@@ -27,7 +27,7 @@ Site-2 proteases (S2Ps) are a conserved family of zinc metalloproteases that per
 
 
 ## Cross-References
-- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-proteolysis/) — S2P is one of four families that perform intramembrane proteolysis
+- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-proteolysis/) — S2P is one of four families that perform intramembrane proteolysis
 - [Escherichia coli RseP (EcRseP)](/xray-mp-wiki/proteins/enzymes/ecrsep/) — Primary structural model for group I S2P mechanism
 - [Kangiella koreensis RseP (KkRseP)](/xray-mp-wiki/proteins/enzymes/kkrsep/) — Comparative structural analysis revealing domain rearrangements
 - [Batimastat](/xray-mp-wiki/reagents/ligands/batimastat/) — Peptide-mimetic inhibitor used for structural characterization of S2P active site

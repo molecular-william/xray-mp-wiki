@@ -65,7 +65,7 @@ interactions to be well accommodated without significant energetic cost.
 ## Cross-References
 - [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase 1a)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — Primary model system used to characterize membrane protein-lipid bilayer adaptation
 - [Hydrophobic Gating](/xray-mp-wiki/concepts/transport-mechanisms/hydrophobic-gating/) — Related concept involving hydrophobic interactions at membrane interfaces
-- [Lipid Annulus](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/lipid-annulus/) — The first-layer phospholipids surrounding membrane proteins form the lipid annulus
+- [Lipid Annulus](/xray-mp-wiki/concepts/membrane-mimetics/lipid-annulus/) — The first-layer phospholipids surrounding membrane proteins form the lipid annulus
 - [Octaethylene glycol mono-n-dodecylether (C12E8)](/xray-mp-wiki/reagents/detergents/octaethylene-glycol-mono-n-dodecylether/) — Detergent used in SERCA crystallization that creates more diffuse membrane interfaces
 - [POPC](/xray-mp-wiki/reagents/lipids/popc/) — POPC bilayer (29 Å) provides the optimal hydrophobic environment for SERCA function
 - [Molecular Dynamics Simulation](/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/) — MD simulations used to characterize bilayer deformations and protein adaptations

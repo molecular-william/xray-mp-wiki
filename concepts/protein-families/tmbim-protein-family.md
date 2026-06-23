@@ -28,4 +28,4 @@ The TMBIM (transmembrane Bax inhibitor motif) protein family is a group of evolu
 - [BsYetJ TMBIM Ca2+ Channel](/xray-mp-wiki/proteins/voltage-gated-channels/bsyetj/) — Best-characterized bacterial TMBIM homolog with multiple crystal structures
 - [Channel Gating via Plug Domain Displacement](/xray-mp-wiki/concepts/transport-mechanisms/channel-gating/) — TMBIM pore opening mechanism involves conformational gating
 - [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — TMBIM pH sensing represents allosteric regulation of channel activity
-- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-ion-coordination/) — TMBIM Ca2+ binding site in transmembrane region
+- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-ion-coordination/) — TMBIM Ca2+ binding site in transmembrane region

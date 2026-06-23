@@ -79,7 +79,7 @@ Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal ol
 
 ### Conserved sequon recognition mechanism between archaeal and eubacterial OSTs
 
-The crystal structure of the cross-linked AfAglB-sequon complex reveals that the [N-Glycosylation Sequon](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/n-glycosylation-sequon/) binds in the same manner as in the C. lari PglB-peptide complex. The acceptor peptide adopts an extended conformation with the Asn-Val-Thr sequon positioned at the boundary between the N-terminal transmembrane region and the C-terminal globular domain. Two conserved interactions are observed: (1) the Asn side-chain carboxamide group interacts with Asp47 and Glu360 ([Carboxylate Dyad](/xray-mp-wiki/concepts/enzyme-mechanisms/carboxylate-dyad/)) and a bound metal ion, and (2) the Thr residue at the +2 position is recognized by the Ser/Thr-binding pocket formed by the W550-W551-D552 motif and K618. This demonstrates evolutionary conservation of sequon recognition between archaeal and eubacterial OSTs despite low sequence identity (<20%).
+The crystal structure of the cross-linked AfAglB-sequon complex reveals that the [N-Glycosylation Sequon](/xray-mp-wiki/concepts/membrane-mimetics/n-glycosylation-sequon/) binds in the same manner as in the C. lari PglB-peptide complex. The acceptor peptide adopts an extended conformation with the Asn-Val-Thr sequon positioned at the boundary between the N-terminal transmembrane region and the C-terminal globular domain. Two conserved interactions are observed: (1) the Asn side-chain carboxamide group interacts with Asp47 and Glu360 ([Carboxylate Dyad](/xray-mp-wiki/concepts/enzyme-mechanisms/carboxylate-dyad/)) and a bound metal ion, and (2) the Thr residue at the +2 position is recognized by the Ser/Thr-binding pocket formed by the W550-W551-D552 motif and K618. This demonstrates evolutionary conservation of sequon recognition between archaeal and eubacterial OSTs despite low sequence identity (<20%).
 
 ### Carboxylate dyad catalytic mechanism
 
@@ -108,7 +108,7 @@ In the cross-linked complex, the stringent N-glycosylation consensus requirement
 
 ## Cross-References
 
-- [N-Glycosylation Sequon](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/n-glycosylation-sequon/) — AfAglB recognizes and catalyzes glycosylation of the Asn-X-Ser/Thr sequon
+- [N-Glycosylation Sequon](/xray-mp-wiki/concepts/membrane-mimetics/n-glycosylation-sequon/) — AfAglB recognizes and catalyzes glycosylation of the Asn-X-Ser/Thr sequon
 - [Carboxylate Dyad](/xray-mp-wiki/concepts/enzyme-mechanisms/carboxylate-dyad/) — Catalytic mechanism of AfAglB involves the Asp47-Glu360 carboxylate dyad
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for solubilization and purification of AfAglB
 - [Lauryldimethylamine N-oxide (LDAO)](/xray-mp-wiki/reagents/detergents/ldao/) — Detergent used for gel filtration and crystallization of AfAglB
@@ -119,4 +119,4 @@ In the cross-linked complex, the stringent N-glycosylation consensus requirement
 - [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Referenced in archaeoglobus-fulgidus-aglb
 - [Nickel Sepharose](/xray-mp-wiki/reagents/additives/nickel-nta/) — Referenced in archaeoglobus-fulgidus-aglb
 - [Lipidic cubic phase (LCP) crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used for ternary complex crystallization at 2.7 A
-- [N-glycosylation sequon](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/n-glycosylation-sequon/) — AfAglB recognizes the Asn-X-Ser/Thr sequon; the TIXE motif explains Pro exclusion
+- [N-glycosylation sequon](/xray-mp-wiki/concepts/membrane-mimetics/n-glycosylation-sequon/) — AfAglB recognizes the Asn-X-Ser/Thr sequon; the TIXE motif explains Pro exclusion

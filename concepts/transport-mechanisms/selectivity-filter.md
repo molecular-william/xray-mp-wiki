@@ -31,6 +31,6 @@ The selectivity filter is a narrow region of the ion channel pore that determine
 - [NavAb Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) — Paper provides detailed structural analysis of NavAb selectivity filter with TLESW sequence
 - [KcsA Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/) — Canonical K+ selectivity filter (TVGYG) for comparison with Na+ selectivity filter architecture
 - [NavMs Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/navms/) — Related bacterial sodium channel with conserved selectivity filter
-- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-ion-coordination/) — Ion coordination schemes in selectivity filter determined by filter chemistry
+- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-ion-coordination/) — Ion coordination schemes in selectivity filter determined by filter chemistry
 - [Channel Gating](/xray-mp-wiki/concepts/transport-mechanisms/channel-gating/) — Selectivity filter conformation changes during gating and inactivation
 - [NaChBac Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/nachbac/) — Related protein structure

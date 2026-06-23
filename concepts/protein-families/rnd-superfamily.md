@@ -30,5 +30,5 @@ The RND superfamily comprises large tripartite efflux pumps that transport diver
 - [Periplasmic Drug-Binding Site in RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/periplasmic-drug-binding-site-rnd/) — Periplasmic drug-binding sites contribute to the broad substrate specificity of RND transporters
 - [Peristaltic Pump Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/peristaltic-pump-mechanism/) — RND transporters employ a peristaltic pump mechanism for drug export
 - [Periplasm (Periplasmic Space)](/xray-mp-wiki/concepts/miscellaneous/periplasm/) — RND tripartite complexes span the periplasmic space
-- [Outer Membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) — The outer membrane factor (OMF) channel resides in the outer membrane
-- [Inner Membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/inner-membrane/) — The RND inner membrane transporter is embedded in the inner membrane
+- [Outer Membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) — The outer membrane factor (OMF) channel resides in the outer membrane
+- [Inner Membrane](/xray-mp-wiki/concepts/membrane-mimetics/inner-membrane/) — The RND inner membrane transporter is embedded in the inner membrane

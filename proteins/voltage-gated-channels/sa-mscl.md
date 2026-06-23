@@ -73,7 +73,7 @@ Removal of 26 C-terminal residues (residues 95-120) lowers the energy barrier fo
 
 - [MscL (Mycobacterium tuberculosis)](/xray-mp-wiki/proteins/other-ion-channels/mscl/) — Related mechanosensitive channel from M. tuberculosis; closed-state pentameric structure (PDB 2OAR) compared to the SaMscL expanded intermediate
 - [Mechanosensitive Gating](/xray-mp-wiki/concepts/transport-mechanisms/mechanosensitive-gating/) — SaMscL is a mechanosensitive ion channel; the structure reveals the expanded intermediate in the gating pathway
-- [Force-from-Lipid Principle](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/force-from-lipid-principle/) — MscL is directly gated by membrane tension via the force-from-lipid principle
+- [Force-from-Lipid Principle](/xray-mp-wiki/concepts/membrane-mimetics/force-from-lipid-principle/) — MscL is directly gated by membrane tension via the force-from-lipid principle
 - [LDAO (Lauryldimethylamine Oxide)](/xray-mp-wiki/reagents/detergents/ldao/) — Detergent used for SaMscL purification and crystallization
 - [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/) — Buffer used in purification (10-50 mM Tris-HCl, pH 7.0-8.0)
 - [PEG 400](/xray-mp-wiki/reagents/additives/peg-400/) — Precipitant used in crystallization (24-30% PEG400)

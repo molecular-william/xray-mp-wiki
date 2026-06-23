@@ -31,6 +31,6 @@ at the center of the transmembrane bundle
 
 ## Cross-References
 - [FlaK (Preflagellin Peptidase from Methanococcus maripaludis)](/xray-mp-wiki/proteins/enzymes/flak/) — First GXGD protease crystal structure solved, revealing active site architecture
-- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-proteolysis/) — GXGD proteases perform intramembrane or membrane-adjacent cleavage
+- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-proteolysis/) — GXGD proteases perform intramembrane or membrane-adjacent cleavage
 - [Signal Peptide Peptidase A from Escherichia coli](/xray-mp-wiki/proteins/enzymes/sppa-ec/) — Bacterial member of the GXGD protease family
 - [Signal Peptide Peptidase A from Bacillus subtilis](/xray-mp-wiki/proteins/enzymes/sppa-bs/) — Bacterial SppA shares presenilin-type aspartic protease activity

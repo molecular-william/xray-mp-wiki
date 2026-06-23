@@ -26,7 +26,7 @@ The periplasm is the gel-like compartment between the inner and outer membranes 
 
 
 ## Cross-References
-- [Outer Membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) — The periplasm is bounded on its outer face by the outer membrane
-- [Inner Membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/inner-membrane/) — The periplasm is bounded on its inner face by the inner membrane
+- [Outer Membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) — The periplasm is bounded on its outer face by the outer membrane
+- [Inner Membrane](/xray-mp-wiki/concepts/membrane-mimetics/inner-membrane/) — The periplasm is bounded on its inner face by the inner membrane
 - [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) — RND pumps span the periplasm as tripartite complexes
 - [Periplasmic Drug-Binding Site in RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/periplasmic-drug-binding-site-rnd/) — Periplasmic domains of RND transporters contain drug-binding pockets

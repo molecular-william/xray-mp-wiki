@@ -20,7 +20,7 @@ cross_references:
 - path: /xray-mp-wiki/concepts/enzyme-mechanisms/rhomboid-protease-substrate-specificity/
   title: Rhomboid Protease Substrate Specificity
   reason: Structural basis of substrate recognition by rhomboid proteases
-- path: /xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-proteolysis/
+- path: /xray-mp-wiki/concepts/membrane-mimetics/intramembrane-proteolysis/
   title: Intramembrane Proteolysis
   reason: Related biological concept
 overview: Rhomboid proteases are intramembrane serine proteases that cleave transmembrane
@@ -30,4 +30,4 @@ overview: Rhomboid proteases are intramembrane serine proteases that cleave tran
   of the E. coli rhomboid [GLPG](/xray-mp-wiki/proteins/enzymes/glpg/) in complex
   with peptidyl-chloromethylketone inhibitors revealed the detailed architecture of
   the S1-S4 substrate-binding subsites and provided mechanistic insights into sequence-specific
-  [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-proteolysis/).
+  [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-proteolysis/).

@@ -83,4 +83,4 @@ Although the N-terminal domain shows sequence conservation only among metazoans,
 ## Cross-References
 
 - [Dimer-of-Dimers Architecture](/xray-mp-wiki/concepts/dimer-of-dimers/) — MCU represents a paradigm for this quaternary assembly in ion channels
-- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-ion-coordination/) — Glu336 ring provides a carboxylate-based Ca2+ selectivity mechanism shared with Orai and CavAb channels
+- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-ion-coordination/) — Glu336 ring provides a carboxylate-based Ca2+ selectivity mechanism shared with Orai and CavAb channels

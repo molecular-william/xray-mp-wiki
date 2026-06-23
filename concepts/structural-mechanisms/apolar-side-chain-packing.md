@@ -30,7 +30,7 @@ Structural informatics searching a nonredundant database of experimental membran
 - [Phospholamban](/xray-mp-wiki/proteins/miscellaneous/phospholamban/) — Natural pentameric TM protein whose apolar C-terminal LxxIxxx domain is tightly packed and rigid (RMSF 0.53 A in MD simulation), while the polar N-terminal sector is dynamic and splayed, confirming that apolar packing drives the pentameric assembly.
 
 ## Related Concepts
-- [Computational Design of Multipass Transmembrane Proteins](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/computational-transmembrane-protein-design/) — Complementary approach using hydrogen bond networks for TM protein design; this concept focuses on apolar packing as the sole stabilizing principle
+- [Computational Design of Multipass Transmembrane Proteins](/xray-mp-wiki/concepts/membrane-mimetics/computational-transmembrane-protein-design/) — Complementary approach using hydrogen bond networks for TM protein design; this concept focuses on apolar packing as the sole stabilizing principle
 - [GxxxG motif](/xray-mp-wiki/concepts/structural-mechanisms/gxxxg-motif/) — Another common TM helix-helix packing motif that mediates close approach of helices via glycine-mediated van der Waals interactions
 
 ## Cross-References

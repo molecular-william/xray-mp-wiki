@@ -17,7 +17,7 @@ verified: false
 The FtsB-FtsL-FtsQ (FtsBLQ) complex is a heterotrimeric Solid-Supported Membrane Electrophysiology Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea complex
 At the heart of the bacterial divisome SNARE Core Complex Assembly and Layer Architecture cascade In E. coli Signal Peptide Peptidase (SppA, Protease IV) (SppA, Protease IV) coli. This
 essential complex regulates the transglycosylation and transpeptidation activities
-of the FtsW-FtsI complex and PBP1b via [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-ion-coordination/) with FtsN, the trigger for
+of the FtsW-FtsI complex and PBP1b via [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-ion-coordination/) with FtsN, the trigger for
 the onset of constriction. The [Single-Crystal Microspectrophotometry](/xray-mp-wiki/methods/structure-determination/single-crystal-microspectrophotometry/) [Structure-Based Design of Third-Generation Antipsychotics](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) of the full-length FtsBLQ complex
 was determined At 3.1 A resolution (PDB 8HHG), revealing a V-shaped Dual-Topology Membrane Protein Architecture
 with a tilted orientation. The [Structure-Based Design of Third-Generation Antipsychotics](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) comprises the FtsB-FtsL heterodimeric

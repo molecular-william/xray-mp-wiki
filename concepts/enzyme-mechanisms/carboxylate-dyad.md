@@ -26,7 +26,7 @@ The carboxylate dyad mechanism operates through a bipartite interaction: the sid
 
 ## Cross-References
 - [Archaeoglobus fulgidus AglB](/xray-mp-wiki/proteins/enzymes/archaeoglobus-fulgidus-aglb/) — AfAglB crystal structure reveals the Asp47-Glu360 dyad interacting with the sequon Asn
-- [N-Glycosylation Sequon](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/n-glycosylation-sequon/) — Carboxylate dyad directly activates the Asn residue of the sequon
+- [N-Glycosylation Sequon](/xray-mp-wiki/concepts/membrane-mimetics/n-glycosylation-sequon/) — Carboxylate dyad directly activates the Asn residue of the sequon
 - [Magnesium Chloride (MgCl2)](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Mg2+ is the metal ion coordinated by the carboxylate dyad
 - [Dithiothreitol (DTT)](/xray-mp-wiki/reagents/additives/dtt/) — DTT used to cleave disulfide tether and release glycopeptide for analysis
 - [AFAGLB](/xray-mp-wiki/proteins/enzymes/afaglb/) — Related protein structure

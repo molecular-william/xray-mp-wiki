@@ -34,6 +34,6 @@ The two-stage mechanism was revealed through non-competitive inhibition kinetics
 
 ## Cross-References
 - [GlpG Rhomboid Intramembrane Protease](/xray-mp-wiki/proteins/enzymes/glpg/) — Rhomboid protease with established two-stage mechanism
-- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-proteolysis/) — Rhomboid catalyzes intramembrane cleavage
+- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-proteolysis/) — Rhomboid catalyzes intramembrane cleavage
 - [Ser/Lys Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/ser-lys-catalytic-mechanism/) — Rhomboid uses Ser/His catalytic dyad
 - [Non-competitive Inhibition of Rhomboid Proteases](/xray-mp-wiki/concepts/enzyme-mechanisms/non-competitive-inhibition/) — Kinetic evidence for two-stage mechanism

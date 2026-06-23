@@ -30,6 +30,6 @@ Kir (inwardly rectifying) potassium channels conduct K+ through a narrow pore th
 
 ## Cross-References
 - [KirBac Potassium Channels](/xray-mp-wiki/proteins/voltage-gated-channels/kirbac-potassium-channels/) — KirBac3.1 is the primary system where lipid-mediated gating was characterized
-- [Selective Lipid Binding](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/selective-lipid-binding/) — The anionic lipid binding specificity of Kir channels is an example of selective lipid-protein interaction
-- [Force-From-Lipid Principle](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/force-from-lipid-principle/) — Kir channel gating by lipid tails represents a direct force-from-lipid mechanism
+- [Selective Lipid Binding](/xray-mp-wiki/concepts/membrane-mimetics/selective-lipid-binding/) — The anionic lipid binding specificity of Kir channels is an example of selective lipid-protein interaction
+- [Force-From-Lipid Principle](/xray-mp-wiki/concepts/membrane-mimetics/force-from-lipid-principle/) — Kir channel gating by lipid tails represents a direct force-from-lipid mechanism
 - [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — The nexus between lipid head group binding and tail-mediated gate operation represents an allosteric mechanism

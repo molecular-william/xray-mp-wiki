@@ -35,5 +35,5 @@ Non-competitive inhibition by peptide aldehydes was demonstrated through real-ti
 ## Cross-References
 - [GlpG Rhomboid Intramembrane Protease](/xray-mp-wiki/proteins/enzymes/glpg/) — Rhomboid protease exhibiting non-competitive inhibition
 - [Two-Stage Catalytic Mechanism of Rhomboid Proteases](/xray-mp-wiki/concepts/enzyme-mechanisms/two-stage-catalytic-mechanism/) — Non-competitive kinetics reveal two-stage mechanism
-- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-proteolysis/) — Rhomboid intramembrane protease mechanism
+- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-proteolysis/) — Rhomboid intramembrane protease mechanism
 - [Rhomboid Protease Family](/xray-mp-wiki/concepts/protein-families/rhomboid-protease/) — Rhomboid protease family overview

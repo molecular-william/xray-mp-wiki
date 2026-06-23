@@ -26,7 +26,7 @@ verified: false
 
 
 ## Cross-References
-- [N-Glycosylation Sequon](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/n-glycosylation-sequon/) — The Ser/Thr-binding pocket in the C-terminal CC domain recognizes the Asn-X-Ser/Thr sequon; the +2 Ser/Thr guides the Asn carboxamide into the catalytic site
+- [N-Glycosylation Sequon](/xray-mp-wiki/concepts/membrane-mimetics/n-glycosylation-sequon/) — The Ser/Thr-binding pocket in the C-terminal CC domain recognizes the Asn-X-Ser/Thr sequon; the +2 Ser/Thr guides the Asn carboxamide into the catalytic site
 - [A. fulgidus AglB-L Oligosaccharyltransferase](/xray-mp-wiki/proteins/enzymes/aglB/) — AglB-L is the primary structural model for the archaeal OST; its two crystal forms define the resting and lipid-phosphate bound states of the catalytic cycle
 - [Carboxylate Dyad](/xray-mp-wiki/concepts/enzyme-mechanisms/carboxylate-dyad/) — The catalytic mechanism involves a carboxylate dyad (Asp47 and Glu360 in AglB-L) that coordinates the divalent metal ion and activates the Asn side chain for nucleophilic attack
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM was used for AglB-L purification and activity assays in the structural characterization

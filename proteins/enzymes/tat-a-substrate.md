@@ -50,6 +50,6 @@ A tetrapeptide model of TatA (Thr-Ala-Ala-Phe) docked into the [GLPG](/xray-mp-w
 ## Cross-References
 
 - [GlpG Rhomboid Intramembrane Protease](/xray-mp-wiki/proteins/enzymes/glpg/) — TatA is a physiological substrate of GlpG; cleavage site specificity demonstrated through A253 mutagenesis of GlpG
-- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-proteolysis/) — TatA cleavage by GlpG is an example of intramembrane proteolysis regulating bacterial cellular processes
+- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-proteolysis/) — TatA cleavage by GlpG is an example of intramembrane proteolysis regulating bacterial cellular processes
 - [Twin-Arginine Translocation (TAT) Pathway](/xray-mp-wiki/concepts/transport-mechanisms/tat-pathway/) — TatA is a component of the twin-arginine translocation pathway in bacteria
 - [Glycine](/xray-mp-wiki/reagents/buffers/glycine) — Entity mentioned in text

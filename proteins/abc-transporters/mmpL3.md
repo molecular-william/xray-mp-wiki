@@ -14,7 +14,7 @@ verified: true
 
 ## Overview
 
-MmpL3 (Mycobacterial membrane protein Large 3) is an inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/inner-membrane/) transporter essential for mycolic acid biosynthesis in mycobacteria. It transports [Trehalose](/xray-mp-wiki/reagents/additives/trehalose) monomycolate (TMM) from the cytoplasm to the cell envelope, a pivotal step in cell wall synthesis. MmpL3 belongs to the Resistance Nodulation Division ([RND](/xray-mp-wiki/concepts/protein-families/rnd-superfamily/)) protein superfamily and is a validated target for anti-tuberculosis drug discovery. The protein from Mycobacterium smegmatis serves as an excellent model for the Mycobacterium tuberculosis ortholog.
+MmpL3 (Mycobacterial membrane protein Large 3) is an inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/inner-membrane/) transporter essential for mycolic acid biosynthesis in mycobacteria. It transports [Trehalose](/xray-mp-wiki/reagents/additives/trehalose) monomycolate (TMM) from the cytoplasm to the cell envelope, a pivotal step in cell wall synthesis. MmpL3 belongs to the Resistance Nodulation Division ([RND](/xray-mp-wiki/concepts/protein-families/rnd-superfamily/)) protein superfamily and is a validated target for anti-tuberculosis drug discovery. The protein from Mycobacterium smegmatis serves as an excellent model for the Mycobacterium tuberculosis ortholog.
 
 
 ## Structure Determination

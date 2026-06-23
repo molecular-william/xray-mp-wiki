@@ -165,7 +165,7 @@ showed the highest success rate. Back-mutation analysis (Xu et al., IUCrJ,
 2019) demonstrated that I196F increases Thermal Shift Assay (Fluorescent CPM) (Fluorescent CPM) stability intrinsically,
 S271A decreases [Single-Crystal Microspectrophotometry](/xray-mp-wiki/methods/structure-determination/single-crystal-microspectrophotometry/) [Apolar Side-Chain Packing in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/apolar-side-chain-packing/) in Membrane Proteins in Membrane Proteins entropy extrinsically, while S193C and M233C
 are dispensable as the two cysteines do not form a [Engineered Disulfide Bridge Conformational Trapping](/xray-mp-wiki/concepts/structural-mechanisms/engineered-disulfide-bridge-trapping/) linkage. This
-analysis provides a general mutagenesis [Force-from-Lipid Principle in Mechanosensation](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/force-from-lipid-principle/) in Mechanosensation in Mechanosensation for structural determination
+analysis provides a general mutagenesis [Force-from-Lipid Principle in Mechanosensation](/xray-mp-wiki/concepts/membrane-mimetics/force-from-lipid-principle/) in Mechanosensation in Mechanosensation for structural determination
 of GPCRs and other Solid-Supported Membrane Electrophysiology [PE-PPE Fusion Proteins](/xray-mp-wiki/concepts/construct-design/pe-ppe-fusion-proteins/).
 
 ### Peptide-Free Inactive Full-Length GLP-1R Structure

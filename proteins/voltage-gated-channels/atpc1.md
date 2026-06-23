@@ -65,7 +65,7 @@ pair creates a Voltage Sensor Trappingred Disulfide Bridge Trapping Kkrsepsep2P 
 ### Structural basis of TPC ion selectivity
 
 Comparison of AtTPC1 and At2HsTPC2 filter [Glua2 Ampa Receptor](/xray-mp-wiki/proteins/other-ion-channels/glua2-ampa-receptor/) shows that the
-M629V mutation causes local [Membrane Mimetics](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/) rearrangements in the filter Zneaercury Ii Chloridelatinum Ii Chlorideotassium Tetrakis Hydroxido Platinate Ii
+M629V mutation causes local [Membrane Mimetics](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics) rearrangements in the filter Zneaercury Ii Chloridelatinum Ii Chlorideotassium Tetrakis Hydroxido Platinate Ii
 [Bovine F1 Atpase](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/)e Stator Complex](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase-stator-complex/), stabilizing a narrow Cry6Aaabce Forming Toxinsed Pore Mechanisming Pore Currentae1P Sodium Channelm Pore Modulek1 Cytoplasmic Poreha Helical Pore Forming Toxin Family [Nb N00](/xray-mp-wiki/reagents/antibodies/nb-n00/) Conformationve Conformationed Conformationomophore Conformationng Conformationing Conformation. The Asn630 [Side Entry Ion Conduction Pathway](/xray-mp-wiki/concepts/transport-mechanisms/side-entry-ion-conduction-pathway/) Ball And Chain Modelar Side Chain Packing is
 Par24 Lysozyme by Hdx Msrier Hydrogen Bondn Bonding Networks Reaction Centers [Proton Wire](/xray-mp-wiki/concepts/transport-mechanisms/proton-wire/) with backbone carbonyls of Thr264 and Ala265
 from filter I. The resulting filter [Structure Based Antipsychotic Design](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) explains how mammalian TPCs
@@ -81,6 +81,6 @@ achieve Sctr1a6 Constitutive Activityrmochromatium Tepidum Hipiph Viscosity Samp
 - [GluA2 AMPA Receptor — Structures with Antagonists, NAMs, and Allosteric Modulators](/xray-mp-wiki/proteins/other-ion-channels/glua2-ampa-receptor/) — Related protein structure; referenced in text
 - [Plant Vacuolar Iron Transporter 1 (VIT1)](/xray-mp-wiki/proteins/pumps-atpases/vit1/) — Related protein structure; referenced in text
 - [Claudin-Mediated Paracellular Ion Selectivity](/xray-mp-wiki/concepts/miscellaneous/claudin-paracellular-ion-selectivity/) — Related concept; referenced in text
-- [Membrane Mimetics and Structural Biology](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/) — Related concept; referenced in text
+- [Membrane Mimetics and Structural Biology](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics) — Related concept; referenced in text
 - [Proton Wire (Chain of Hydrogen Bonds)](/xray-mp-wiki/concepts/transport-mechanisms/proton-wire/) — Related concept; referenced in text
 - [Oxygen Ladder in Selectivity Filters](/xray-mp-wiki/concepts/transport-mechanisms/oxygen-ladder-selectivity-filter/) — Related concept; referenced in text

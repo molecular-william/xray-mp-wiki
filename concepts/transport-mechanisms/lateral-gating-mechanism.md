@@ -22,7 +22,7 @@ The rhomboid protease GlpG has a V-shaped opening between transmembrane helices 
 - GlpG (E. coli rhomboid protease) — The L1 loop between TM1 and TM2 forms the lateral gate, blocking the V-shaped opening between S1 and S3. Contains the conserved WR motif (Trp136/Arg137). Mutation of these residues abolishes or reduces activity, supporting their role in gate dynamics.
 
 ## Related Concepts
-- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-proteolysis/) — Lateral gating is the mechanism by which rhomboid proteases control substrate access during intramembrane proteolysis.
+- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-proteolysis/) — Lateral gating is the mechanism by which rhomboid proteases control substrate access during intramembrane proteolysis.
 - [Ser-His Catalytic Dyad](/xray-mp-wiki/concepts/ser-his-catalytic-dyad/) — Once the lateral gate opens, the substrate accesses the Ser-His catalytic dyad (Ser201/His254) for peptide bond hydrolysis.
 
 ## Cross-References

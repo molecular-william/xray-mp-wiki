@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-KkRseP is an ortholog of E. coli RseP from the marine bacterium Kangiella koreensis (strain DSM 16069). It is a group I site-2 protease (S2P) family member that performs [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-proteolysis/). KkRseP restored the growth deficiency of E. coli rseP mutant cells and cleaved substrates containing TM segments from E. coli RseA, confirming functional conservation. Crystal structures were determined in two crystal forms in complex with [Batimastat](/xray-mp-wiki/reagents/ligands/batimastat/), revealing a PDZ-open conformation distinct from the PDZ-closed conformation of [ECRSEP](/xray-mp-wiki/proteins/enzymes/ecrsep/), suggesting domain rearrangements may occur during substrate accommodation.
+KkRseP is an ortholog of E. coli RseP from the marine bacterium Kangiella koreensis (strain DSM 16069). It is a group I site-2 protease (S2P) family member that performs [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-proteolysis/). KkRseP restored the growth deficiency of E. coli rseP mutant cells and cleaved substrates containing TM segments from E. coli RseA, confirming functional conservation. Crystal structures were determined in two crystal forms in complex with [Batimastat](/xray-mp-wiki/reagents/ligands/batimastat/), revealing a PDZ-open conformation distinct from the PDZ-closed conformation of [ECRSEP](/xray-mp-wiki/proteins/enzymes/ecrsep/), suggesting domain rearrangements may occur during substrate accommodation.
 
 
 ## Structure Determination
@@ -72,7 +72,7 @@ KkRseP cleaves E. coli RseA substrate and restores rseP mutant growth, demonstra
 
 - [Escherichia coli RseP (EcRseP)](/xray-mp-wiki/proteins/enzymes/ecrsep/) — Orthologous S2P used for comparative structural analysis; both determined in same study
 - [Batimastat](/xray-mp-wiki/reagents/ligands/batimastat/) — Peptide-mimetic inhibitor bound in crystal structure
-- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-proteolysis/) — KkRseP is a member of the S2P family of intramembrane proteases
+- [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-proteolysis/) — KkRseP is a member of the S2P family of intramembrane proteases
 - [Site-2 Protease Family Mechanism](/xray-mp-wiki/concepts/protein-families/site-2-protease-family-mechanism/) — Structural comparison provided insights into group I S2P mechanism
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
 - [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Additive used in purification or crystallization buffers

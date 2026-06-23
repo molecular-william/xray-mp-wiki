@@ -29,4 +29,4 @@ The dimer-of-dimers assembly of MCU is stabilized by two types of interfaces: (1
 ## Cross-References
 - [Mitochondrial Calcium Uniporter (MCU)](/xray-mp-wiki/proteins/voltage-gated-channels/mitochondrial-calcium-uniporter-mcu/) — MCU is the primary example of this architecture
 - [Calcium Bowl](/xray-mp-wiki/concepts/miscellaneous/calcium-bowl/) — Related Ca2+ coordination concept; MCU uses a carboxylate ring for Ca2+ selectivity
-- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/intramembrane-ion-coordination/) — MCU's Glu336 ring represents an intramembrane Ca2+ coordination site
+- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-ion-coordination/) — MCU's Glu336 ring represents an intramembrane Ca2+ coordination site

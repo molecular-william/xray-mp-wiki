@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-MlaD is an [inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/inner-membrane/)-associated MCE (mammalian cell entry) protein from Escherichia coli that forms a homo-hexameric ring with a central hydrophobic pore. MlaD is a key component of the Mla lipid transport system, which maintains [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) [lipid asymmetry](/xray-mp-wiki/concepts/structural-mechanisms/lipid-asymmetry/) in [Gram-negative](/xray-mp-wiki/concepts/gram-negative/) bacteria. The protein associates with the MlaFEDB [ABC transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) complex in the [inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/inner-membrane/) and interacts with the [periplasmic](/xray-mp-wiki/concepts/miscellaneous/periplasm/) lipid-binding protein [MLAC](/xray-mp-wiki/proteins/mlaC), which shuttles phospholipids between the inner and outer membranes. MlaD adopts a seven-stranded beta-barrel MCE domain fold and its hexameric assembly creates a continuous hydrophobic channel from the [inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/inner-membrane/) into the [periplasm](/xray-mp-wiki/concepts/miscellaneous/periplasm/).
+MlaD is an [inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/inner-membrane/)-associated MCE (mammalian cell entry) protein from Escherichia coli that forms a homo-hexameric ring with a central hydrophobic pore. MlaD is a key component of the Mla lipid transport system, which maintains [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) [lipid asymmetry](/xray-mp-wiki/concepts/structural-mechanisms/lipid-asymmetry/) in [Gram-negative](/xray-mp-wiki/concepts/gram-negative/) bacteria. The protein associates with the MlaFEDB [ABC transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) complex in the [inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/inner-membrane/) and interacts with the [periplasmic](/xray-mp-wiki/concepts/miscellaneous/periplasm/) lipid-binding protein [MLAC](/xray-mp-wiki/proteins/mlaC), which shuttles phospholipids between the inner and outer membranes. MlaD adopts a seven-stranded beta-barrel MCE domain fold and its hexameric assembly creates a continuous hydrophobic channel from the [inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/inner-membrane/) into the [periplasm](/xray-mp-wiki/concepts/miscellaneous/periplasm/).
 
 ## Structure Determination
 
@@ -75,18 +75,18 @@ beta-barrel MCE domain. The hexameric assembly creates a central channel lined
 with hydrophobic residues including Leu106, Leu107 at the tip of the beta5-beta6
 loop, and Phe150 from the [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) helical bundle. Additional pore-lining residues
 include Met141, Leu143, Leu146, Ile147, and Leu149. The hydrophobic pore is oriented
-toward the [inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/inner-membrane/), poised to facilitate trafficking of small hydrophobic
+toward the [inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/inner-membrane/), poised to facilitate trafficking of small hydrophobic
 molecules to or from the membrane.
 
 ### Functional role in lipid transport at the inner membrane
 
 MlaD associates with the MlaFEDB [ABC transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) complex (MlaF ATPase, MlaE permease,
-MlaB STAS domain) in the [inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/inner-membrane/). The hexameric MlaD ring sits at the [periplasmic](/xray-mp-wiki/concepts/miscellaneous/periplasm/)
-face of the [inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/inner-membrane/), with its [N-terminal](/xray-mp-wiki/concepts/structural-mechanisms/n-terminus/) [transmembrane helix](/xray-mp-wiki/concepts/transmembrane-helix/) anchoring one
+MlaB STAS domain) in the [inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/inner-membrane/). The hexameric MlaD ring sits at the [periplasmic](/xray-mp-wiki/concepts/miscellaneous/periplasm/)
+face of the [inner membrane](/xray-mp-wiki/concepts/membrane-mimetics/inner-membrane/), with its [N-terminal](/xray-mp-wiki/concepts/structural-mechanisms/n-terminus/) [transmembrane helix](/xray-mp-wiki/concepts/transmembrane-helix/) anchoring one
 face of the ring near the membrane. Mutagenesis of pore-lining residues (L106N/L107N,
 Phe150Asn, [C-terminal](/xray-mp-wiki/concepts/structural-mechanisms/c-terminus/) deletions) disrupts complementation of a delta mlaD mutant,
 demonstrating that the hydrophobic pore is essential for MlaD function in maintaining
-[outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) [lipid asymmetry](/xray-mp-wiki/concepts/structural-mechanisms/lipid-asymmetry/).
+[outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) [lipid asymmetry](/xray-mp-wiki/concepts/structural-mechanisms/lipid-asymmetry/).
 
 ### MCE domain fold and conservation
 

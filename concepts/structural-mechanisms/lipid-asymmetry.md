@@ -26,6 +26,6 @@ Membrane lipid asymmetry refers to the non-random distribution of lipids between
 
 
 ## Cross-References
-- [Outer Membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/outer-membrane/) — The outer membrane exhibits extreme lipid asymmetry with LPS in the outer leaflet
-- [Inner Membrane](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/inner-membrane/) — The inner membrane maintains lipid asymmetry essential for cell function
-- [Lipid Annulus](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/lipid-annulus/) — The asymmetric lipid environment shapes the lipid annulus around membrane proteins
+- [Outer Membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) — The outer membrane exhibits extreme lipid asymmetry with LPS in the outer leaflet
+- [Inner Membrane](/xray-mp-wiki/concepts/membrane-mimetics/inner-membrane/) — The inner membrane maintains lipid asymmetry essential for cell function
+- [Lipid Annulus](/xray-mp-wiki/concepts/membrane-mimetics/lipid-annulus/) — The asymmetric lipid environment shapes the lipid annulus around membrane proteins

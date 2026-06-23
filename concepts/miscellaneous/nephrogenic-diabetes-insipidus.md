@@ -71,5 +71,5 @@ promoting monomeric states and aggregation.
 ## Cross-References
 - [Aquaporin-2 (AQP2)](/xray-mp-wiki/proteins/other-ion-channels/aqp2/) — AQP2 mutations are the direct cause of congenital NDI
 - [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — Aquaporin water channels mediate the water transport dysregulated in NDI
-- [N-Glycosylation Sequon](/xray-mp-wiki/concepts/membrane-mimetics/membrane-mimetics/membrane-mimetics/n-glycosylation-sequon/) — N-glycosylation quality control in ER is central to recessive NDI mechanism
+- [N-Glycosylation Sequon](/xray-mp-wiki/concepts/membrane-mimetics/n-glycosylation-sequon/) — N-glycosylation quality control in ER is central to recessive NDI mechanism
 - [UDP-Glucose (UDP-Glc)](/xray-mp-wiki/reagents/substrates/udp-glucose/) — Entity mentioned in text
