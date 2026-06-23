@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [NavMs Sodium Channel](/xray-mp-wiki/proteins/navms/) | IC50 = 4.2 uM | Whole-cell voltage-clamp electrophysiology in HEK293 cells | Inhibition of sodium current; approximately 2-fold less potent than Z-isomer |
+| [NavMs Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/navms/) | IC50 = 4.2 uM | Whole-cell voltage-clamp electrophysiology in HEK293 cells | Inhibition of sodium current; approximately 2-fold less potent than Z-isomer |
 
 ## Binding Mode
 
@@ -53,4 +53,4 @@ No comparison data available.
 - [N-Desmethyltamoxifen](/xray-mp-wiki/reagents/ligands/n-desmethyltamoxifen/) — Primary metabolite of tamoxifen
 - [Z-4-Hydroxytamoxifen](/xray-mp-wiki/reagents/ligands/z-4-hydroxytamoxifen/) — Z-isomer of 4-hydroxytamoxifen; IC50 = 239 nM against NavMs
 - [E-4-Hydroxytamoxifen](/xray-mp-wiki/reagents/ligands/e-4-hydroxytamoxifen/) — E-isomer of 4-hydroxytamoxifen; IC50 = 2.3 uM against NavMs
-- [NavAb Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/navab/) — Another prokaryotic sodium channel for comparative pharmacology
+- [NavAb Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) — Another prokaryotic sodium channel for comparative pharmacology

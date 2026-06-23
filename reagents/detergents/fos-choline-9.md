@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Fos-Choline 9 (FC-9), also known as n-nonyl phosphocholine, is a zwitterionic detergent with a 9-carbon alkyl chain and a phosphocholine head group. It is widely used for membrane protein crystallization due to its mild solubilization properties and low critical micelle concentration. FC-9 is part of the Fos-Choline series of phosphocholine-based detergents.
+Fos-[Choline](/xray-mp-wiki/reagents/ligands/choline/) 9 (FC-9), also known as n-nonyl phosphocholine, is a zwitterionic detergent with a 9-carbon alkyl chain and a phosphocholine head group. It is widely used for membrane protein crystallization due to its mild solubilization properties and low critical micelle concentration. FC-9 is part of the Fos-[Choline](/xray-mp-wiki/reagents/ligands/choline/) series of phosphocholine-based detergents.
 
 
 ## Properties
@@ -27,14 +27,14 @@ Fos-Choline 9 (FC-9), also known as n-nonyl phosphocholine, is a zwitterionic de
 
 ### Membrane protein crystallization
 
-FC-9 is used at low concentrations (typically 1-2% w/v) for crystallization of membrane proteins. In the crystallization of the uracil:proton symporter UraA from Escherichia coli, 1.2% FC-9 combined with 0.06% FC-11 enabled growth of high-resolution crystals (2.5 A) in space group C2221.
+FC-9 is used at low concentrations (typically 1-2% w/v) for crystallization of membrane proteins. In the crystallization of the [URACIL](/xray-mp-wiki/reagents/ligands/uracil/):proton symporter [Uracil:Proton Symporter UraA from Escherichia coli](/xray-mp-wiki/proteins/slc-transporters/uraA/) from Escherichia coli, 1.2% FC-9 combined with 0.06% [FC-11](/xray-mp-wiki/reagents/detergents/fos-choline-11/) enabled growth of high-resolution crystals (2.5 A) in space group C2221.
 
 
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Uracil:Proton Symporter UraA | 1.2% (w/v) | Crystallization of UraA in occluded conformation | Crystal structure at 2.5 A resolution (space group C2221) |
+| [URACIL](/xray-mp-wiki/reagents/ligands/uracil/):Proton Symporter [Uracil:Proton Symporter UraA from Escherichia coli](/xray-mp-wiki/proteins/slc-transporters/uraA/) | 1.2% (w/v) | Crystallization of [Uracil:Proton Symporter UraA from Escherichia coli](/xray-mp-wiki/proteins/slc-transporters/uraA/) in occluded conformation | Crystal structure at 2.5 A resolution (space group C2221) |
 
 ## Advantages and Disadvantages
 
@@ -47,4 +47,6 @@ No comparison data available.
 ## Cross-References
 
 - [Fos-Choline 11 (FC-11)](/xray-mp-wiki/reagents/detergents/fos-choline-11/) — Related phosphocholine detergent with longer alkyl chain
-- [Uracil:Proton Symporter UraA](/xray-mp-wiki/proteins/uraA/) — Primary detergent used for UraA crystallization
+- [Uracil:Proton Symporter UraA](/xray-mp-wiki/proteins/slc-transporters/uraA/) — Primary detergent used for UraA crystallization
+- [Choline](/xray-mp-wiki/reagents/ligands/choline/) — Related ligand or cofactor
+- [URACIL](/xray-mp-wiki/reagents/ligands/uracil/) — Related ligand or cofactor

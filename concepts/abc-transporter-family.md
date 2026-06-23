@@ -1,34 +1,41 @@
 ---
 title: ABC Transporter Family
 created: 2026-06-02
-updated: 2026-06-05
+updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, membrane-protein, subdirectory-concepts]
-sources: [doi/10.1038##nature11448, doi/10.1038##nsmb.2267, doi/10.1038##nsmb.2417]
+tags: [concept-protein-family, membrane-protein, xray-crystallography]
+sources: [doi/10.1038##nature11448, doi/10.1038##nsmb.2267, doi/10.1038##nsmb.2417, doi/10.1038##s41467-017-02741-4, doi/10.1073##pnas.0709388104, doi/10.1073##pnas.1108858108, doi/10.1126##science.1071142, doi/10.1038##nature17666, doi/10.1126##science.1200767]
 verified: false
 ---
 
 # ABC Transporter Family
 
 ## Overview
-The ATP-binding cassette (ABC) transporter superfamily comprises a large group of membrane transporters found in all domains of life. ABC transporters use the energy from ATP hydrolysis to transport a diverse array of substrates across cellular membranes, including ions, sugars, amino acids, peptides, lipids, and xenobiotic compounds. They are classified into several subfamilies (ABC-A through ABC-G) based on sequence homology. The P-glycoprotein (P-gp/MDR) subfamily (ABC-B) includes multidrug transporters that confer resistance to chemotherapeutic agents. The first high-resolution crystal structure of an ABC transporter was that of P-gp from C. elegans, revealing the structural basis for its drug transport mechanism.
+The ATP-binding cassette (ABC) transporter superfamily comprises a large group of membrane transporters found in all domains of life. ABC transporters use the energy from ATP hydrolysis to transport a diverse array of substrates across cellular membranes. The maltose transporter from E. coli (MalFGK2) is a prototype ABC importer whose high-resolution structures have revealed the chemistry of ATP hydrolysis via a general base mechanism, demonstrating that ATP hydrolysis proceeds through a pentacovalent transition state with a conserved glutamate acting as the catalytic base.
+
+The human sterol transporter ABCG5/ABCG8 represents the first atomic model of an ABC sterol transporter, revealing a new transmembrane fold characteristic of the ABC2 exporter superfamily. The structure captures the nucleotide-free inward-facing state with a closed NBD conformation mediated by conserved NPXDF motifs, distinct TMD/NBD interfaces reflecting catalytic asymmetry, and a network of conserved polar residues (TMD polar relay) that couples ATP hydrolysis to sterol transport.
 
 
 ## Mechanism/Details
-ABC transporters share a common architecture consisting of two transmembrane domains (TMDs) that form the translocation pathway and two nucleotide-binding domains (NBDs) that bind and hydrolyze ATP. The TMDs typically contain 6 transmembrane helices each, arranged in a characteristic fold. The NBDs contain conserved motifs including the Walker A and Walker B motifs, the ABC signature motif (LSGGQ), and the H-loop and D-loop. ATP binding and hydrolysis at the NBD interface drives conformational changes that alternate access between inward-facing and outward-facing states, enabling substrate translocation across the membrane. The C. elegans P-gp structure (Loo and Clarke, Nature 2012) revealed a nucleotide-free, inward-facing conformation with a drug-binding cavity accessible from the lipid bilayer. The structure showed 12 transmembrane helices organized into two domains, with the N-terminal half and C-terminal half each containing a TMD and a partially duplicated NBD, consistent with an internal gene duplication event. Heterodimeric ABC exporters, such as TM287/288 from Thermotoga maritima (PDB 3QF4, 2.9 A), feature one degenerate nucleotide binding site (with noncanonical Walker B glutamate and switch histidine) and one consensus site. The TM287/288 structure revealed that the NBDs only partially separate in the inward-facing state, remaining in contact through a D-loop-mediated hydrogen-bond network. The degenerate site preferentially binds nucleotides, while the consensus site features a distorted catalytic dyad that requires NBD closure for proper nucleotide binding.
 
 
 ## Examples in Membrane Protein Work
-- [C. elegans P-glycoprotein](/xray-mp-wiki/proteins/c-elegans-p-glycoprotein/) — ABC-B subfamily; first high-resolution crystal structure of an ABC transporter (PDB 4MQ1, 3.4 A resolution). Structure revealed nucleotide-free inward-facing conformation with drug-binding cavity accessible from lipid bilayer.
-- [ABCG2](/xray-mp-wiki/proteins/abcg2/) — ABC-G subfamily; half-transporter that functions as a homodimer. Transports lipids and xenobiotics; implicated in breast cancer resistance protein (BCRP) activity.
-- [ABCG1](/xray-mp-wiki/proteins/abcg1/) — ABC-G subfamily; homodimeric lipid transporter that mediates cholesterol efflux. Structures solved showing sterol binding at the membrane-transporter interface.
-- [TM287/288](/xray-mp-wiki/proteins/tm287-288/) — Heterodimeric ABC exporter from Thermotoga maritima; first heterodimeric ABC exporter structure (PDB 3QF4, 2.9 A resolution). Inward-facing conformation with degenerate and consensus nucleotide binding sites.
-- [HmuUV](/xray-mp-wiki/proteins/hmuuv/) — Type II ABC importer from Yersinia pestis; haem transporter with HmuU2V2 stoichiometry. Crystal structure (3.0 A, P2_1) in nucleotide-free outward-facing conformation.
+- [MalK (Escherichia coli Maltose Transporter ATPase Subunit)](/xray-mp-wiki/proteins/abc-transporters/malK/) — The MalK dimer forms the nucleotide-binding domains of the maltose transporter; structures at 2.2-2.4 A revealed ground and transition states of ATP hydrolysis
+- [Sav1866 Multidrug ABC Transporter](/xray-mp-wiki/proteins/abc-transporters/sav1866/) — Homodimeric ABC exporter from Staphylococcus aureus; outward-facing conformation
+- [C. elegans P-glycoprotein](/xray-mp-wiki/proteins/abc-transporters/c-elegans-p-glycoprotein/) — First high-resolution crystal structure of an ABC transporter (PDB 4MQ1, 3.4 A)
+- [Mouse P-glycoprotein (Pgp, ABCB1)](/xray-mp-wiki/proteins/abc-transporters/mouse-p-glycoprotein/) — Multidrug ABC transporter
+- [LptB2FGC LPS Transport Complex](/xray-mp-wiki/proteins/abc-transporters/lptb2fgc-complex/) — ABC transporter for LPS extraction in Gram-negative bacteria
+- [BhuUV-T Haem Importer Complex](/xray-mp-wiki/proteins/abc-transporters/bhuuv-t/) — Type II ABC importer from Burkholderia cenocepacia
+- [ABCG5/ABCG8 Sterol Transporter](/xray-mp-wiki/proteins/abc-transporters/abcg5/) — Human sterol transporter; first atomic model of an ABC sterol transporter at 3.9 A (PDB 5DO7); defines the ABC2 exporter superfamily fold
 
 ## Related Concepts
 
 
 ## Cross-References
-
+- [MBP (Escherichia coli Maltose-Binding Protein)](/xray-mp-wiki/proteins/abc-transporters/maltose-binding-protein/) — MBP is the periplasmic binding protein for the maltose ABC transporter
+- [MalF (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/abc-transporters/malF/) — Transmembrane subunit of the maltose ABC importer
+- [MalG (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/abc-transporters/malG/) — Transmembrane subunit of the maltose ABC importer
+- [MalK (Escherichia coli Maltose Transporter ATPase Subunit)](/xray-mp-wiki/proteins/abc-transporters/malK/) — ATPase subunit of the maltose ABC importer; NBD dimer catalyzes ATP hydrolysis
+- [ABCG5/ABCG8 Sterol Transporter](/xray-mp-wiki/proteins/abc-transporters/abcg5/) — First atomic model of an ABC sterol transporter; defines the ABC2 exporter superfamily fold

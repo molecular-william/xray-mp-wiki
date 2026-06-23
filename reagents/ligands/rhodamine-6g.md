@@ -6,7 +6,7 @@ type: reagent
 category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
-sources: [doi/10.1038##nature09408]
+sources: [doi/10.1128##jb.187.19.6804-6815.2005, doi/10.1038##nature09408, doi/10.1126##science.1083137]
 verified: false
 ---
 
@@ -27,7 +27,8 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [NorM-VC (Vibrio cholerae NorM)](/xray-mp-wiki/proteins/norM-vc/) | Not specified (Kd determination) | Fluorescence polarization binding assay (Table S1 of Kim et al. 2010) | Kd = 2.09 +/- 0.0115 uM, excitation 485 nm, emission 535 nm |
+| [NorM-VC (Vibrio cholerae NorM)](/xray-mp-wiki/proteins/abc-transporters/norM-vc/) | Not specified (Kd determination) | Fluorescence polarization binding assay (Table S1 of Kim et al. 2010) | Kd = 2.09 +/- 0.0115 uM, excitation 485 nm, emission 535 nm |
+| [AcrB Multidrug Efflux Transporter](/xray-mp-wiki/proteins/abc-transporters/acrb/) | 1 mM in crystallization | Co-crystallization with AcrB for structure determination of drug-bound state (Yu et al., Science 2003) | Structure of AcrB-R6G complex at 3.5 A; three R6G molecules bound in the central cavity per trimer |
 
 ## Binding Mode
 
@@ -46,4 +47,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [NorM-VC (Vibrio cholerae NorM)](/xray-mp-wiki/proteins/norM-vc/) — Primary substrate binding data from fluorescence polarization assay (Kd = 2.09 uM)
+- [NorM-VC (Vibrio cholerae NorM)](/xray-mp-wiki/proteins/abc-transporters/norM-vc/) — Primary substrate binding data from fluorescence polarization assay (Kd = 2.09 uM)
+- [AcrB Multidrug Efflux Transporter](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Co-crystallized with AcrB to reveal R6G binding mode in the central cavity

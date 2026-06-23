@@ -49,7 +49,7 @@ Static light scattering (SLS) is a biophysical technique used to determine the m
 
 | Protein | Resolution | PDB | Notes |
 |---|---|---|---|
-| [Uracil:Proton Symporter UraA](/xray-mp-wiki/proteins/uraA/) | not applicable | not applicable | SLS used to demonstrate that wild-type UraA exists in monomer-dimer equilibrium in detergent micelles. Constitutive monomeric mutants (M1, M2) showed monomeric molecular weight, while constitutive dimer showed dimeric molecular weight. |
+| [Uracil:Proton Symporter UraA](/xray-mp-wiki/proteins/slc-transporters/uraA/) | not applicable | not applicable | SLS used to demonstrate that wild-type UraA exists in monomer-dimer equilibrium in detergent micelles. Constitutive monomeric mutants (M1, M2) showed monomeric molecular weight, while constitutive dimer showed dimeric molecular weight. |
 
 ## Related Methods
 

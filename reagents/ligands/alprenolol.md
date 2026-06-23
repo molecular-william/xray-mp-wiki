@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Alprenolol is a well-known non-selective beta-adrenergic receptor antagonist. It contains a classical hydroxy-amine motif common to beta-blockers and a prop-1-ene allylbenzene head group that is smaller than the cyclic systems found in other beta2 AR ligands such as ICI 118,551, timolol, and carazolol. The crystal structure of the beta2AR-t4l construct in complex with alprenolol (PDB 3NYA, 3.1 A) showed that despite its smaller head group, it adopts a similar binding pose to the other ligands.
+Alprenolol is a well-known non-selective beta-adrenergic receptor antagonist. It contains a classical hydroxy-amine motif common to beta-blockers and a prop-1-ene allylbenzene head group that is smaller than the cyclic systems found in other beta2 AR ligands such as [ICI 118,551](/xray-mp-wiki/reagents/ligands/ici-118-551/), timolol, and [Carazolol](/xray-mp-wiki/reagents/ligands/carazolol/). The crystal structure of the beta2AR-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) construct in complex with alprenolol (PDB 3NYA, 3.1 A) showed that despite its smaller head group, it adopts a similar binding pose to the other ligands.
 
 
 ## Properties
@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/beta2-adrenergic-receptor/ | Not specified | Crystal structure determination of beta2AR-t4l in complex with alprenolol (PDB 3NYA, 3.1 A) | Demonstrated that a smaller allylbenzene head group adopts a similar binding pose to cyclic beta-blockers |
+| /xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/ | Not specified | Crystal structure determination of beta2AR-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) in complex with alprenolol (PDB 3NYA, 3.1 A) | Demonstrated that a smaller allylbenzene head group adopts a similar binding pose to cyclic beta-blockers |
 
 ## Binding Mode
 
@@ -46,3 +46,7 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [Carazolol](/xray-mp-wiki/reagents/ligands/carazolol/) — Related ligand or cofactor
+- [ICI 118,551](/xray-mp-wiki/reagents/ligands/ici-118-551/) — Related ligand or cofactor
+- [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — Fusion tag for crystallization or purification

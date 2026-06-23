@@ -6,7 +6,7 @@ type: reagent
 category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
-sources: [doi/10.1038##nature12648]
+sources: [doi/10.1038##nature12648, doi/10.1038##s41422-020-00424-2]
 verified: false
 ---
 
@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/leubat/ | 0.1 M | Crystallization reservoir with 100 mM glycine pH 9.4 and 29-31% PEG400 | Vapor diffusion crystallization of Delta13 LeuBAT-antidepressant complexes |
+| /xray-mp-wiki/proteins/slc-transporters/leubat/ | 0.1 M | Crystallization reservoir with 100 mM [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) pH 9.4 and 29-31% [PEG400](/xray-mp-wiki/reagents/additives/peg-400/) | Vapor diffusion crystallization of Delta13 LeuBAT-antidepressant complexes |
 
 ## Advantages and Disadvantages
 
@@ -38,3 +38,6 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [PEG400](/xray-mp-wiki/reagents/additives/peg-400/) — Additive used in purification or crystallization buffers
+- [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) — Buffer component in purification or crystallization

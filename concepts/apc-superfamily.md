@@ -1,12 +1,12 @@
 ---
 title: APC Superfamily (Amino Acid-Polyamine-Organocation Transporter Family)
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
 tags: [concept-protein-family, subdirectory-concepts]
-sources: [doi/10.1038##nature08201, doi/10.1038##nature10917]
+sources: [doi/10.1186##s12915-021-01102-4, doi/10.1038##nature08201, doi/10.1038##nature10917, doi/10.1126##science.1173654, doi/10.1073##pnas.1806206116]
 verified: false
 ---
 
@@ -20,15 +20,18 @@ The APC (amino acid-polyamine-organocation) superfamily comprises membrane trans
 
 
 ## Examples in Membrane Protein Work
+- [AdiC Arginine/Agmatine Antiporter](/xray-mp-wiki/proteins/slc-transporters/adic/) — AdiC is the prototypical APC superfamily member whose crystal structure revealed the conserved 10-TM architecture with inverted pseudo-two-fold symmetry.
 
+- [GadC Glutamate/GABA Antiporter](/xray-mp-wiki/proteins/slc-transporters/gadc/) — GadC is an APC superfamily member with 12 transmembrane segments (unlike the typical 10-TM architecture), featuring a unique C-terminal plug gating mechanism.
+- AgcS (Alanine/Glycine:Cation Symporter from Methanococcus maripaludis) — AgcS (TC# 2.A.25) is an APC superfamily member that transports L-alanine, D-alanine, and glycine with Na+ coupling. Crystal structures revealed substrate selectivity is determined by the small size of the binding pocket, which only accommodates small amino acids. Mutagenesis of Ile-165 and Phe-273 expands selectivity to valine and leucine.
 
 ## Related Concepts
 
 
 ## Cross-References
-- [AdiC Arginine/Agmatine Antiporter](/xray-mp-wiki/proteins/adic/) — Prototypical APC superfamily member; first crystal structure of an APC transporter
-- [GadC Glutamate/GABA Antiporter](/xray-mp-wiki/proteins/gadc/) — APC superfamily member with unique 12-TM architecture and C-plug gating mechanism
-- [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/leut/) — NSS family member with similar fold to APC superfamily transporters
+- [AdiC Arginine/Agmatine Antiporter](/xray-mp-wiki/proteins/slc-transporters/adic/) — Prototypical APC superfamily member; first crystal structure of an APC transporter
+- [GadC Glutamate/GABA Antiporter](/xray-mp-wiki/proteins/slc-transporters/gadc/) — APC superfamily member with unique 12-TM architecture and C-plug gating mechanism
+- [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) — NSS family member with similar fold to APC superfamily transporters
 - [Major Facilitator Superfamily](/xray-mp-wiki/concepts/mfs-transporter/) — Related secondary transporter superfamily with structural parallels
 - [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/nss-family/) — NSS family shares the LeuT-fold structural architecture with APC transporters
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Transport mechanism shared by APC superfamily members

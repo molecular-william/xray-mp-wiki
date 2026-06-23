@@ -1,7 +1,7 @@
 ---
 title: Silicic Acid
-created: 2026-06-04
-updated: 2026-06-04
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -39,7 +39,7 @@ Understanding silicic acid transport mechanisms enables rational manipulation of
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/osnip2-1/ | ~2 mM (physiological soil concentration) | Translocation through OsNIP2;1 channel in POPC bilayer via MD simulations | Spontaneous uptake and export events observed; SF and NPA1 provide largest permeation barrier |
+| /xray-mp-wiki/proteins/other-ion-channels/osnip2-1/ | ~2 mM (physiological soil concentration) | Translocation through OsNIP2;1 channel in [POPC](/xray-mp-wiki/reagents/lipids/popc/) bilayer via MD simulations | Spontaneous uptake and export events observed; SF and NPA1 provide largest permeation barrier |
 
 ## Advantages and Disadvantages
 
@@ -51,5 +51,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [OsNIP2;1 (Silicon Transporter Lsi1 from Oryza sativa)](/xray-mp-wiki/proteins/osnip2-1/) — Primary transporter of silicic acid through root cell membranes
+- [OsNIP2;1 (Silicon Transporter Lsi1 from Oryza sativa)](/xray-mp-wiki/proteins/other-ion-channels/osnip2-1/) — Primary transporter of silicic acid through root cell membranes
 - [Aquaporin Family](/xray-mp-wiki/concepts/aquaporin/) — Silicic acid is transported by NIP subfamily of aquaporins (metalloid porins)
+- [POPC](/xray-mp-wiki/reagents/lipids/popc/) — Additive used in purification or crystallization buffers

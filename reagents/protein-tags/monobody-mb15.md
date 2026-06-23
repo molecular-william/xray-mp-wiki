@@ -45,6 +45,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Beetle ICMT](/xray-mp-wiki/proteins/beetle-icmt/) — MB-15 used as crystallization chaperone and inhibitor for beetle ICMT
+- [Beetle ICMT](/xray-mp-wiki/proteins/enzymes/beetle-icmt/) — MB-15 used as crystallization chaperone and inhibitor for beetle ICMT
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — LCP crystallization matrix used for ICMT-MB-15 complex
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used for ICMT-MB-15 complex

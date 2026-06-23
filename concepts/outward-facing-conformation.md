@@ -1,7 +1,7 @@
 ---
 title: Outward-Facing Conformation of ABC Transporters
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-08
+updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
@@ -28,4 +28,4 @@ The outward-facing conformation is a structural state of ABC transporters in whi
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Outward-facing conformation is a key state in alternating access
 - [Inward-Facing Conformation of ABC Transporters](/xray-mp-wiki/concepts/inward-facing-conformation/) — Complementary conformation in the transport cycle
 - [Type II ABC Transporter Family](/xray-mp-wiki/concepts/type-ii-abc-transporter-family/) — Type II ABC importers adopt outward-facing in apo state
-- [Yersinia pestis Heme Transporter HmuUV](/xray-mp-wiki/proteins/hmuuv/) — HmuUV structure reveals outward-facing conformation in apo state
+- [Yersinia pestis Heme Transporter HmuUV](/xray-mp-wiki/proteins/abc-transporters/hmuuv/) — HmuUV structure reveals outward-facing conformation in apo state

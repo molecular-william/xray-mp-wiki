@@ -41,13 +41,13 @@ head group anchors the substrate through electrostatic and hydrogen-bonding inte
 with polar residues on the protein surface.
 
 ## Examples in Membrane Protein Work
-- [Stearoyl-CoA Desaturase-1 (hSCD1)](/xray-mp-wiki/proteins/stearoyl-coa-desaturase-1/) — The hSCD1 structure (PDB 4ZYO) represents the first structural view of an integral membrane di-iron desaturase. It reveals a unique histidine-coordinated dimetal center that contrasts sharply with the carboxylate-bridged di-iron center of soluble desaturases. The substrate stearoyl-CoA binds in the cytoplasmic cap with its acyl chain extending through a hydrophobic tunnel to the metal center, where regioselective cis-dehydrogenation occurs at the delta-9 position.
+- [Stearoyl-CoA Desaturase-1 (hSCD1)](/xray-mp-wiki/proteins/enzymes/stearoyl-coa-desaturase-1/) — The hSCD1 structure (PDB 4ZYO) represents the first structural view of an integral membrane di-iron desaturase. It reveals a unique histidine-coordinated dimetal center that contrasts sharply with the carboxylate-bridged di-iron center of soluble desaturases. The substrate stearoyl-CoA binds in the cytoplasmic cap with its acyl chain extending through a hydrophobic tunnel to the metal center, where regioselective cis-dehydrogenation occurs at the delta-9 position.
 
 ## Related Concepts
 
 
 ## Cross-References
-- [Stearoyl-CoA Desaturase-1 (hSCD1)](/xray-mp-wiki/proteins/stearoyl-coa-desaturase-1/) — Primary example of membrane-bound di-iron desaturase; structure solved at 3.25 A (PDB 4ZYO)
+- [Stearoyl-CoA Desaturase-1 (hSCD1)](/xray-mp-wiki/proteins/enzymes/stearoyl-coa-desaturase-1/) — Primary example of membrane-bound di-iron desaturase; structure solved at 3.25 A (PDB 4ZYO)
 - [Stearoyl-CoA](/xray-mp-wiki/reagents/ligands/stearoyl-coa/) — Primary substrate for SCD1; bound in the 4ZYO structure
 - [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Related reagent used in purification of di-iron desaturases
 - [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) — Used for Se-SAD phasing of hSCD1 structure determination

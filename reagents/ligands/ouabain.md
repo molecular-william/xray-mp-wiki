@@ -1,12 +1,12 @@
 ---
 title: Ouabain
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-08
+updated: 2026-06-16
 type: reagent
 category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
-sources: [doi/10.1016##j.jsb.2010.12.004, doi/10.1038##ncomms9004]
+sources: [doi/10.1016##j.jsb.2010.12.004, doi/10.1038##ncomms9004, doi/10.1073##pnas.0907054106, doi/10.1073##pnas.1222308110, doi/10.1073##pnas.2123226119, doi/10.1107##s2053230x1600279x, doi/10.1073##pnas.2020438118]
 verified: false
 ---
 
@@ -14,30 +14,33 @@ verified: false
 
 ## Overview
 
-Ouabain is a cardiotonic steroid (cardiac glycoside) that specifically inhibits the Na+,K+-ATPase by binding with high affinity to the extracellular face of the alpha subunit. It has been used clinically for the treatment of heart failure since the 18th century. Digoxin, another cardiac glycoside, has been used since 1785. Ouabain also acts as an endogenous signaling molecule in humans, found in human blood at very low concentrations. The molecule consists of a steroid core with a lactone ring and a sugar moiety. In the E2P phosphoenzyme state of Na+,K+-ATPase, ouabain binds with high affinity, whereas in the [K2]E2 state it binds with low affinity.
-
+Ouabain is a cardiotonic steroid (cardiac glycoside) that specifically inhibits the Na+,K+-ATPase by binding with high affinity to the extracellular face of the alpha subunit. It has been used clinically for the treatment of heart failure since the 18th century. The molecule consists of a steroid core with a five-membered unsaturated lactone ring and a rhamnose sugar moiety. In the E2P phosphoenzyme state of Na+,K+-ATPase, ouabain binds with high affinity (Kd ~3 nM in the presence of Mg2+), whereas K+ binding at site II prevents deep ouabain binding and lowers affinity.
 
 ## Properties
 
 
 ## Use in Membrane Protein Work
 
-No specific use cases documented.
+### Na+,K+-ATPase inhibition
+
+Ouabain is a highly specific inhibitor of the Na+,K+-ATPase. High-affinity binding requires the E2P phosphoenzyme conformation and the presence of Mg2+. The binding site is formed by transmembrane segments alphaM1-alphaM6. The lactone ring is buried in a hydrophobic funnel approximately 5 A from cation site II, allowing long-range electrostatic interactions with Mg2+ bound at that site. This explains the Mg2+-dependence of high-affinity ouabain binding and the antagonistic effect of K+.
+
+
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Na+,K+-ATPase (Pig Kidney) | 20 mM (crystallization soak), high affinity stoichiometric binding | Co-crystallized with pig kidney Na+,K+-ATPase in the E2P phosphoenzyme state; 20 mM ouabain in crystallization buffer for soaking into [K2]E2:MgF4 2- crystals (previously reported low affinity complex by Ogawa et al., 2009) | High affinity type II complex; ouabain plugs the ion pathway from the extracellular side at the alphaM1-alphaM6 binding site |
-| Na+,K+-ATPase (Pig Kidney) | Saturating (used as control for non-specific binding) | 1 mM ouabain added to prevent fluorescent binding of anthroylouabain in ligand binding assays | Completely prevented fluorescence response from anthroylouabain binding, confirming specific binding |
+| [Na+,K+-ATPase (Pig Kidney)](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-pig-kidney/) | 20 mM (crystallization soak) | Co-crystallized with pig kidney Na+,K+-ATPase in the E2P phosphoenzyme state | High affinity type II complex at 3.4 A resolution with Mg2+ at cation site II |
+| Na+,K+-ATPase (Pig Kidney) | Saturating | 1 mM ouabain added to prevent fluorescent binding of anthroylouabain | Completely prevented fluorescence response from anthroylouabain binding |
+| [Shark Na+,K+-ATPase](/xray-mp-wiki/proteins/pumps-atpases/shark-na-k-atpase/) |  | Cryo-EM structure of shark NKA in E2P^ATP and E2P^Pi·Mg2+ states with bound ouabain at 3.4-3.9 A resolution | Ouabain binding causes minimal structural changes; conformational selection mechanism |
 
 ## Binding Mode
 
-### Binding to Na+,K+-ATPase (alpha subunit)
+### Binding to Na+,K+-ATPase alpha subunit
 
-Ouabain binds at a site formed at transmembrane segments alphaM1-alphaM6. The steroid core adopts a chair conformation (in contrast to most steroids which display a planar configuration). The sugar moiety faces the extracellular medium and the lactone ring is buried within the transmembrane domain. Gln111 and Asn122 from alphaM1 and alphaM2 form direct hydrogen bonds to ouabain; simultaneous mutations of Q111 and N122 generate a ouabain-resistant enzyme. Phe783 and Phe786 from alphaM5 stabilize the steroid ring through stacking interactions. Gly319, Val322, and Ala323 of alphaM4 surround the lactone ring. Thr797 of alphaM6 is close to hydroxyl groups from the steroid ring. Arg880 from the large extracellular loop connecting alphaM7 and alphaM8 extends on top of the binding cavity, possibly interacting with the sugar moiety.
+The cis-trans-cis steroid core adopts a U-shaped conformation with convex beta-surface. Four hydroxyl groups on the beta-surface (OH1beta, OH5beta, OH10beta, OH14beta) form hydrogen bonds with side chains of Gln111, Glu117 (alphaM1), Asn122 (alphaM2), and Asp121 (alphaM2). The lactone ring sits in a hydrophobic funnel lined by Leu125 (alphaM2), Ala323 (alphaM4), and Ile800 (alphaM6), approximately 5 A from cation site II. The unsaturated five-membered lactone ring has a partial negative charge on its carbonyl group, enabling long-range electrostatic interactions with Mg2+ at site II. The rhamnose sugar is located in a wide cavity exposed to the extracellular environment, lined by Glu116, Glu312, Arg880, and Asp884.
 
-- **Pocket volume**: Binding cavity at transmembrane segments alphaM1-alphaM6
-- **Key residues**: Q111, N122 (alphaM1-2), F783, F786 (alphaM5), G319, V322, A323 (alphaM4), T797 (alphaM6), R880 (alphaM7-M8 loop)
+- **Key residues**: Gln111, Glu117 (alphaM1), Asn122, Asp121 (alphaM2), Leu125 (alphaM2), Gly319, Val322, Ala323 (alphaM4), Phe783, Phe786 (alphaM5), Thr797, Ile800 (alphaM6), Arg880 (alphaM7-M8 loop)
 
 ## Advantages and Disadvantages
 
@@ -48,3 +51,6 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [Na+,K+-ATPase (Pig Kidney)](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-pig-kidney/) — Primary target of ouabain; high-affinity complex structure determined at 3.4 A
+- [Shark Na+,K+-ATPase](/xray-mp-wiki/proteins/pumps-atpases/shark-na-k-atpase/) — Related Na+,K+-ATPase from different species; ouabain binding comparison

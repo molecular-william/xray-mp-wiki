@@ -6,7 +6,7 @@ type: reagent
 category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
-sources: [doi/10.1038##nature09408]
+sources: [doi/10.1038##nature09408, doi/10.1038##nature05076]
 verified: false
 ---
 
@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [NorM-VC (Vibrio cholerae NorM)](/xray-mp-wiki/proteins/norM-vc/) | Not specified (Kd determination) | Fluorescence polarization binding assay (Table S1 of Kim et al. 2010) | Kd = 1.00 +/- 0.08 uM, excitation 485 nm, emission 595 nm |
+| [NorM-VC (Vibrio cholerae NorM)](/xray-mp-wiki/proteins/abc-transporters/norM-vc/) | Not specified (Kd determination) | Fluorescence polarization binding assay (Table S1 of Kim et al. 2010) | Kd = 1.00 +/- 0.08 uM, excitation 485 nm, emission 595 nm |
 
 ## Binding Mode
 
@@ -46,4 +46,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [NorM-VC (Vibrio cholerae NorM)](/xray-mp-wiki/proteins/norM-vc/) — Primary substrate binding data from fluorescence polarization assay (Kd = 1.00 uM)
+- [NorM-VC (Vibrio cholerae NorM)](/xray-mp-wiki/proteins/abc-transporters/norM-vc/) — Primary substrate binding data from fluorescence polarization assay (Kd = 1.00 uM)

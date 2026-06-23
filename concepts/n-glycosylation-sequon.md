@@ -1,7 +1,7 @@
 ---
 title: N-Glycosylation Sequon
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
@@ -25,7 +25,7 @@ The canonical N-glycosylation sequon is Asn-X-Ser/Thr (X != Pro). The Asn residu
 
 
 ## Cross-References
-- [Archaeoglobus fulgidus AglB](/xray-mp-wiki/proteins/archaeoglobus-fulgidus-aglb/) — AfAglB structure reveals sequon binding at 3.5 A resolution
+- [Archaeoglobus fulgidus AglB](/xray-mp-wiki/proteins/enzymes/archaeoglobus-fulgidus-aglb/) — AfAglB structure reveals sequon binding at 3.5 A resolution
 - [Carboxylate Dyad](/xray-mp-wiki/concepts/carboxylate-dyad/) — Carboxylate dyad activates the Asn side chain for glycosylation
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — OST substrate recognition parallels alternating-access in transporters
 - [Biased Agonism in GPCRs](/xray-mp-wiki/concepts/biased-agonism/) — Both involve relaxed consensus requirements in stabilized states

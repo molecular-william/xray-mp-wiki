@@ -27,14 +27,14 @@ verified: false
 
 ### Lipid additive for HiLiDe crystallization of VKOR from Synechococcus sp.
 
-DOPC at 15 mg/ml was added to the Cys212Ala mutant of VKOR from Synechococcus sp. (20 mg/ml) and incubated overnight before HiLiDe crystallization. The lipid was combined with 0.5% DDM detergent and crystallized in a reservoir containing 11% PEG1500, 8% glycerol, 5% ethanol, 0.1 M MgCl2, 0.1 M NaCl, and 0.1 M sodium cacodylate pH 5.5. The resulting crystals diffracted to 4.2 A resolution in space group P21, capturing state III of the electron transfer cycle.
+DOPC at 15 mg/ml was added to the Cys212Ala mutant of [VKOR from Synechococcus sp.](/xray-mp-wiki/proteins/enzymes/synechococcus-vkor/) (20 mg/ml) and incubated overnight before [HiLiDe Crystallization](/xray-mp-wiki/methods/crystallization/hilide-crystallization/). The lipid was combined with 0.5% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) detergent and crystallized in a reservoir containing 11% PEG1500, 8% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 5% ethanol, 0.1 M MgCl2, 0.1 M NaCl, and 0.1 M [Sodium Cacodylate](/xray-mp-wiki/reagents/buffers/sodium-cacodylate/) pH 5.5. The resulting crystals diffracted to 4.2 A resolution in space group P21, capturing state III of the electron transfer cycle.
 
 
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| VKOR from Synechococcus sp. | 15 mg/ml | HiLiDe crystallization with Cys212Ala mutant; mixed overnight with protein before hanging-drop crystallization | Crystals diffracted to 4.2 A (P21); captured state III of electron transfer |
+| [VKOR from Synechococcus sp.](/xray-mp-wiki/proteins/enzymes/synechococcus-vkor/) | 15 mg/ml | [HiLiDe Crystallization](/xray-mp-wiki/methods/crystallization/hilide-crystallization/) with Cys212Ala mutant; mixed overnight with protein before hanging-drop crystallization | Crystals diffracted to 4.2 A (P21); captured state III of electron transfer |
 
 ## Advantages and Disadvantages
 
@@ -46,4 +46,8 @@ No comparison data available.
 
 ## Cross-References
 
-- [VKOR from Synechococcus sp.](/xray-mp-wiki/proteins/synechococcus-vkor/) — DOPC used as lipid additive in HiLiDe crystallization of Cys212Ala mutant
+- [VKOR from Synechococcus sp.](/xray-mp-wiki/proteins/enzymes/synechococcus-vkor/) — DOPC used as lipid additive in HiLiDe crystallization of Cys212Ala mutant
+- [HiLiDe Crystallization](/xray-mp-wiki/methods/crystallization/hilide-crystallization/) — Method used in structure determination or purification
+- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
+- [Sodium Cacodylate](/xray-mp-wiki/reagents/buffers/sodium-cacodylate/) — Buffer component in purification or crystallization
+- [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used in purification or crystallization

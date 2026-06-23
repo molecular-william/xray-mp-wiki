@@ -35,7 +35,7 @@ DMU was co-crystallized with dvUT at 10 mM to identify urea binding sites. Two s
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Urea Transporter from Desulfovibrio vulgaris (dvUT)](/xray-mp-wiki/proteins/urea-transporter-dvut/) | 10 mM | Co-crystallization ligand | Identified two urea binding sites (So and Si) in the selectivity filter |
+| [Urea Transporter from Desulfovibrio vulgaris (dvUT)](/xray-mp-wiki/proteins/other-ion-channels/urea-transporter-dvut/) | 10 mM | Co-crystallization ligand | Identified two urea binding sites (So and Si) in the selectivity filter |
 
 ## Advantages and Disadvantages
 
@@ -47,4 +47,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [Urea](/xray-mp-wiki/reagents/substrates/urea/) — Native substrate of the urea transporter; DMU is a structural analogue
+- [Urea](/xray-mp-wiki/reagents/additives/urea/) — Native substrate of the urea transporter; DMU is a structural analogue

@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/at2r/) | 20% (v/v) | Added to LCP with embedded AT2R-Cpd 1 microcrystals before XFEL injection to absorb residual precipitant | Prevented lamellar crystalline phase formation during LCP injection into vacuum at LCLS |
+| [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/) | 20% (v/v) | Added to LCP with embedded AT2R-Cpd 1 microcrystals before XFEL injection to absorb residual precipitant | Prevented lamellar crystalline phase formation during LCP injection into vacuum at LCLS |
 
 ## Advantages and Disadvantages
 

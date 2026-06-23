@@ -93,8 +93,8 @@ TM5 and TM6 are too short to span the membrane bilayer fully, and in MD simulati
 
 ## Cross-References
 
-- [Thermus thermophilus SecY Core Channel Subunit](/xray-mp-wiki/proteins/secy/) — TM3 of TatC is reminiscent of SecE TM in the SecY translocon, suggesting a role in stabilization
-- [Thermus thermophilus SecE Accessory Subunit](/xray-mp-wiki/proteins/sece/) — SecE TM structure is mentioned as a structural analogue for TatC TM3
+- [Thermus thermophilus SecY Core Channel Subunit](/xray-mp-wiki/proteins/secretion-translocon/secy/) — TM3 of TatC is reminiscent of SecE TM in the SecY translocon, suggesting a role in stabilization
+- [Thermus thermophilus SecE Accessory Subunit](/xray-mp-wiki/proteins/secretion-translocon/sece/) — SecE TM structure is mentioned as a structural analogue for TatC TM3
 - [Lauryl Maltose Neopentyl Glycol (LMNG)](/xray-mp-wiki/reagents/detergents/lmng/) — LMNG used to solubilize TatC for crystallization (doi/10.1038##NATURE11683)
 - [Polyethylene Glycol (PEG 200)](/xray-mp-wiki/reagents/additives/peg/) — PEG 200 used as crystallization precipitant
 - [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/) — NaCl component of TatC crystallization buffer

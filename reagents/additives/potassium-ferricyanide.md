@@ -1,7 +1,7 @@
 ---
 title: Potassium Ferricyanide
-created: 2026-06-03
-updated: 2026-06-03
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -33,7 +33,7 @@ In TR-SFX experiments on Photosystem II from Thermosynechococcus vulcanus at SAC
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Photosystem II](/xray-mp-wiki/proteins/photosystem-ii/) | 10 mM (pre-flashed), 2 mM (non-pre-flashed) | Mother liquid component for TR-SFX experiments at SACLA XFEL | Enabled controlled S-state transitions for time-resolved structural analysis |
+| [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) | 10 mM (pre-flashed), 2 mM (non-pre-flashed) | Mother liquid component for TR-SFX experiments at SACLA XFEL | Enabled controlled S-state transitions for time-resolved structural analysis |
 
 ## Advantages and Disadvantages
 
@@ -45,5 +45,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [Photosystem II](/xray-mp-wiki/proteins/photosystem-ii/) — Potassium ferricyanide used as electron acceptor in TR-SFX experiments
+- [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) — Potassium ferricyanide used as electron acceptor in TR-SFX experiments
 - [Time-Resolved Serial Femtosecond Crystallography (TR-SFX)](/xray-mp-wiki/methods/structure-determination/time-resolved-serial-femtosecond-crystallography/) — TR-SFX technique used with potassium ferricyanide electron acceptor

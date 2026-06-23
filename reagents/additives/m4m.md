@@ -35,5 +35,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [GluN1b-GluN2B ATD](/xray-mp-wiki/proteins/gluN1b-gluN2b-atd/) — M4M cross-links engineered cysteines at the GluN1b-GluN2B ATD interface to trap active conformation
-- [GluN1-GluN2B NMDA Receptor (Xenopus laevis, Full-Length)](/xray-mp-wiki/proteins/gluN1-gluN2b-nmda-receptor/) — M4M conformational trap experiments link ATD structure to receptor activation
+- [GluN1b-GluN2B ATD](/xray-mp-wiki/proteins/other-ion-channels/gluN1b-gluN2b-atd/) — M4M cross-links engineered cysteines at the GluN1b-GluN2B ATD interface to trap active conformation
+- [GluN1-GluN2B NMDA Receptor (Xenopus laevis, Full-Length)](/xray-mp-wiki/proteins/other-ion-channels/gluN1-gluN2b-nmda-receptor/) — M4M conformational trap experiments link ATD structure to receptor activation

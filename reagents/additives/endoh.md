@@ -37,8 +37,8 @@ LC-MS analysis after EndoH treatment confirms the number of remaining glycosylat
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Interleukin-17 Receptor C (IL-17RC) | not specified | IL-17RC_Q7 and Q8 glycosylation mutants treated with EndoH overnight at 25 deg.C to reduce glycan heterogeneity before complex formation and crystallization
- | LC-MS confirmed one N-acetylglucosamine residue at each of the remaining N-glycosylation sites after EndoH treatment; enabled crystallization of IL-17RC:IL-17F complex
+| Interleukin-17 Receptor C ([IL-17RC](/xray-mp-wiki/proteins/receptors-signaling/il-17rc/)) | not specified | IL-17RC_Q7 and Q8 glycosylation mutants treated with EndoH overnight at 25 deg.C to reduce glycan heterogeneity before complex formation and crystallization
+ | LC-MS confirmed one N-acetylglucosamine residue at each of the remaining N-glycosylation sites after EndoH treatment; enabled crystallization of [IL-17RC](/xray-mp-wiki/proteins/receptors-signaling/il-17rc/):[IL-17F](/xray-mp-wiki/proteins/receptors-signaling/il-17f/) complex
  |
 
 ## Advantages and Disadvantages
@@ -53,4 +53,5 @@ No comparison data available.
 
 - [PNGase F](/xray-mp-wiki/reagents/additives/pngase-f/) — Related glycosidase that cleaves all N-linked glycans including complex types
 - [Thermolysin](/xray-mp-wiki/reagents/additives/thermolysin/) — Protease used for glycosylation site mapping in membrane proteins
-- [Interleukin-17 Receptor C (IL-17RC)](/xray-mp-wiki/proteins/il-17rc/) — IL-17RC has nine N-glycosylation sites reduced by EndoH
+- [Interleukin-17 Receptor C (IL-17RC)](/xray-mp-wiki/proteins/receptors-signaling/il-17rc/) — IL-17RC has nine N-glycosylation sites reduced by EndoH
+- [IL-17F](/xray-mp-wiki/proteins/receptors-signaling/il-17f/) — Related protein structure

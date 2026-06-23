@@ -1,7 +1,7 @@
 ---
 title: Kok Cycle
-created: 2026-06-02
-updated: 2026-06-02
+created: 2026-06-11
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
@@ -13,7 +13,7 @@ verified: false
 # Kok Cycle
 
 ## Overview
-The Kok cycle (also known as the S-state cycle) is the four-step mechanism of water oxidation at the oxygen-evolving complex (OEC) of photosystem II. The cycle involves five oxidation states (S0 through S4), where each photon absorption advances the Mn4Ca cluster by one oxidation state (S-state). After four photochemical turnovers, the S4 state spontaneously decays to S0 with the release of one molecule of O2 and four protons. The redox-active tyrosine residue TyrZ (Tyr161 of D1) mediates electron transfer between the Mn4Ca cluster and the primary electron donor P680+.
+The Kok cycle (also known as the S-state cycle) is the four-step mechanism of water oxidation at the oxygen-evolving complex (OEC) of [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/). The cycle involves five oxidation states (S0 through S4), where each photon absorption advances the Mn4Ca cluster by one oxidation state (S-state). After four photochemical turnovers, the S4 state spontaneously decays to S0 with the release of one molecule of O2 and four protons. The redox-active tyrosine residue TyrZ (Tyr161 of D1) mediates electron transfer between the Mn4Ca cluster and the primary electron donor P680+.
 
 
 ## Mechanism/Details
@@ -21,12 +21,12 @@ The Kok cycle describes the sequential oxidation of the Mn4Ca cluster during wat
 
 
 ## Examples in Membrane Protein Work
-- Photosystem II from Thermosynechococcus elongatus (3.0 A structure, PDB 1K4C):
+- [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) from Thermosynechococcus elongatus (3.0 A structure, PDB 1K4C):
   The S1 state structure reveals the Mn4Ca cluster with four Mn ions in a
   hook/Y-shaped arrangement. Mn1 and Mn3 can attain either +3 or +4 oxidation
   state in S1. Mn4 is ligated by Asp 170 and is not oxidized during S0-S4
   transitions.
-- Photosystem II from spinach (2.9 A structure, PDB 1W5C): The S1 state
+- [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) from spinach (2.9 A structure, PDB 1W5C): The S1 state
   structure provides detailed coordination geometry of the Mn4Ca cluster
   with carboxylate and amino acid ligands.
 - Time-resolved X-ray spectroscopy of PSII: S-state transitions tracked
@@ -38,6 +38,6 @@ The Kok cycle describes the sequential oxidation of the Mn4Ca cluster during wat
 
 
 ## Cross-References
-- [Photosystem II](/xray-mp-wiki/proteins/photosystem-ii/) — Kok cycle occurs at the Mn4Ca cluster of PSII
+- [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) — Kok cycle occurs at the Mn4Ca cluster of PSII
 - [Manganese-Calcium Cluster](/xray-mp-wiki/concepts/manganese-calcium-cluster/) — The Mn4Ca cluster is the catalytic center of the Kok cycle
 - [X-Ray Radiation Damage](/xray-mp-wiki/concepts/x-ray-radiation-damage/) — Mn4Ca cluster susceptible to radiation damage during S-state characterization

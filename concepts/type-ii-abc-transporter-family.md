@@ -1,12 +1,12 @@
 ---
 title: Type II ABC Transporter Family
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-11
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
 tags: [concept-protein-family]
-sources: [doi/10.1038##ncomms13411, doi/10.1038##nsmb.2417]
+sources: [doi/10.1038##ncomms13411, doi/10.1038##nsmb.2417, doi/10.1038##nature11442]
 verified: false
 ---
 
@@ -27,6 +27,6 @@ Type II ABC transporters are a distinct subclass of bacterial ATP-binding casset
 ## Cross-References
 - [ABC Transporter Family](/xray-mp-wiki/concepts/abc-transporter-family/) — Type II ABC transporters are a subclass of ABC transporters
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Type II ABC transporters use alternating access for substrate translocation
-- [Yersinia pestis Heme Transporter HmuUV](/xray-mp-wiki/proteins/hmuuv/) — HmuUV is a type II ABC haem importer
+- [Yersinia pestis Heme Transporter HmuUV](/xray-mp-wiki/proteins/abc-transporters/hmuuv/) — HmuUV is a type II ABC haem importer
 - [Outward-Facing Conformation of ABC Transporters](/xray-mp-wiki/concepts/outward-facing-conformation/) — HmuUV outward-facing apo state reveals distinct coupling mechanism
 - [Inward-Facing Conformation of ABC Transporters](/xray-mp-wiki/concepts/inward-facing-conformation/) — BhuUV inward-facing structure complements HmuUV outward-facing structure

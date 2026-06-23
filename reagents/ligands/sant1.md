@@ -33,7 +33,7 @@ SANT1 was used to crystallize human SMO (PDB: 4N4W, 2.8 A, C2221). The ligand bi
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Smoothened Receptor](/xray-mp-wiki/proteins/smoothened/) | not specified | Co-crystallized with BRIL-deltaCRD-SMO-deltaC construct from Sf9 cells; structure solved at 2.8 A resolution (PDB 4N4W) | Deep binding site revealed in the SMO transmembrane domain; D473(6.54f) not involved in SANT1 binding |
+| [Human Smoothened Receptor](/xray-mp-wiki/proteins/gpcr/smoothened/) | not specified | Co-crystallized with BRIL-deltaCRD-SMO-deltaC construct from Sf9 cells; structure solved at 2.8 A resolution (PDB 4N4W) | Deep binding site revealed in the SMO transmembrane domain; D473(6.54f) not involved in SANT1 binding |
 
 ## Advantages and Disadvantages
 

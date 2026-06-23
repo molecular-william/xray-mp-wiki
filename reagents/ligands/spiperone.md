@@ -1,7 +1,7 @@
 ---
 title: Spiperone
-created: 2026-06-08
-updated: 2026-06-08
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [DRD2](/xray-mp-wiki/proteins/drd2/) | 1 mM | Co-crystallized with DRD2-mbIIIG S121K/L123W construct and Fab3089 antibody fragment in lipidic cubic phase
+| [DRD2](/xray-mp-wiki/proteins/gpcr/drd2/) | 1 mM | Co-crystallized with DRD2-mbIIIG S121K/L123W construct and Fab3089 antibody fragment in lipidic cubic phase
  | Structure solved at 3.1 A resolution by serial femtosecond crystallography at SACLA XFEL, revealing dynamic ECL2 conformation and extended binding pocket
  |
 

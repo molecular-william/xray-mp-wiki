@@ -6,7 +6,7 @@ type: concept
 category: concepts
 layout: default
 tags: [concept-construct-design]
-sources: [doi/10.1038##nature06163, doi/10.1038##nature12357]
+sources: [doi/10.1038##nature06163, doi/10.1038##nature12357, doi/10.1085##jgp.201711884]
 verified: false
 ---
 
@@ -27,14 +27,22 @@ Flexible regions contribute entropic disorder that prevents the formation of reg
   and the full transmembrane region, but removed the unstructured N-terminal
   extension. The delta ASIC1 construct crystallized at 1.9 A resolution,
   revealing the first open state structure of an ASIC.
-  [cASIC1a](/xray-mp-wiki/proteins/asic1a/)
+  [cASIC1a](/xray-mp-wiki/proteins/other-ion-channels/asic1a/)
 - **Beta-2 Adrenergic Receptor**: The long C-terminal tail and parts of the
   third intracellular loop were deleted to produce a thermostabilized construct
   that crystallized in the inactive state.
-  [Beta-2 AR](/xray-mp-wiki/proteins/beta2-adrenergic-receptor/)
+  [Beta-2 AR](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/)
+- **NavAb (Arcobacter butzleri)**: C-terminal truncation of 28 residues
+  (NavAbDelta28) enabled crystallization of a closed state at 2.3 A resolution,
+  with preserved four-helix bundle structure. Truncation of 40 residues
+  (NavAbDelta40, residues 1-226) captured an open state. Progressive truncations
+  (Delta3, Delta7, Delta10, Delta28, Delta40) revealed graded effects on early
+  and late phases of voltage-dependent inactivation, dissecting the functional
+  roles of proximal vs distal C-terminal tail regions.
+  [NavAb](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) (DOI: 10.1085/jgp.201711884)
 - **Aquaporin Z**: Flexible loop regions were trimmed to produce a compact
   construct suitable for crystallographic analysis.
-  [Aquaporin Z](/xray-mp-wiki/proteins/aquaporin-z/)
+  [Aquaporin Z](/xray-mp-wiki/proteins/other-ion-channels/aquaporin-z/)
 
 ## Related Concepts
 - [Fusion Partners (BRIL, T4 Lysozyme)](/xray-mp-wiki/concepts/fusion-partners/) —
@@ -44,5 +52,5 @@ Flexible regions contribute entropic disorder that prevents the formation of reg
   construct modification strategy for improving crystallization
 
 ## Cross-References
-- [Chicken Acid-Sensing Ion Channel 1a (cASIC1a)](/xray-mp-wiki/proteins/asic1a/) — First ASIC structure solved using truncated delta ASIC1 construct (residues 147-526)
+- [Chicken Acid-Sensing Ion Channel 1a (cASIC1a)](/xray-mp-wiki/proteins/other-ion-channels/asic1a/) — First ASIC structure solved using truncated delta ASIC1 construct (residues 147-526)
 - [Fusion Partners (BRIL, T4 Lysozyme)](/xray-mp-wiki/concepts/fusion-partners/) — Alternative construct design strategy for stabilizing flexible regions

@@ -1,12 +1,13 @@
 ---
 title: BODIPY Fluorophore
-created: 2026-05-05
-updated: 2026-05-05
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
-tags: [additive-stabilizer]
+tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1002##anie.202115545]
+verified: false
 ---
 
 # BODIPY Fluorophore
@@ -33,7 +34,7 @@ BODIPY was conjugated to Preladenant via a PEG linker to create PSB-2115. Analyt
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [A2A-PSB1-bRIL](/xray-mp-wiki/proteins/a2a-psb1-bril/) | not specified | BODIPY-labeled Preladenant derivative (PSB-2115) co-crystallized at 2.6 A | First GPCR structure with fluorophore-labeled antagonist |
+| [A2A-PSB1-bRIL](/xray-mp-wiki/proteins/gpcr/a2a-psb1-bril/) | not specified | BODIPY-labeled Preladenant derivative (PSB-2115) co-crystallized at 2.6 A | First GPCR structure with fluorophore-labeled antagonist |
 
 ## Advantages and Disadvantages
 
@@ -45,5 +46,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [A2A-PSB1-bRIL Adenosine A2A Receptor](/xray-mp-wiki/proteins/a2a-psb1-bril/) — Fluorophore in PSB-2115 conjugate
+- [A2A-PSB1-bRIL Adenosine A2A Receptor](/xray-mp-wiki/proteins/gpcr/a2a-psb1-bril/) — Fluorophore in PSB-2115 conjugate
 - [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) — Linker connecting BODIPY to Preladenant

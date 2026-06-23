@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Compound 2 is a potent inverse agonist of the human beta2-adrenergic receptor, originally described by Kolb et al. (2009). The crystal structure of the beta2AR-t4l construct in complex with compound 2 (PDB 3NY9, 2.8 A) revealed unique binding interactions, including a hydrogen bond between the benzofuran oxygen and Ser203, and an additional hydrogen bond between the ethoxy oxygen and Asn293. Compound 2 is the only ligand among the five known beta2 AR-ligand structures that connects transmembrane helices V and VI through hydrogen bond networks.
+Compound 2 is a potent inverse agonist of the human beta2-adrenergic receptor, originally described by Kolb et al. (2009). The crystal structure of the beta2AR-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) construct in complex with compound 2 (PDB 3NY9, 2.8 A) revealed unique binding interactions, including a hydrogen bond between the benzofuran oxygen and Ser203, and an additional hydrogen bond between the ethoxy oxygen and Asn293. Compound 2 is the only ligand among the five known beta2 AR-ligand structures that connects transmembrane helices V and VI through hydrogen bond networks.
 
 
 ## Properties
@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/beta2-adrenergic-receptor/ | Not specified | Crystal structure determination of beta2AR-t4l in complex with compound 2 (PDB 3NY9, 2.8 A) | Revealed unique TM V-TM VI hydrogen bond network connecting transmembrane helices |
+| /xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/ | Not specified | Crystal structure determination of beta2AR-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) in complex with compound 2 (PDB 3NY9, 2.8 A) | Revealed unique TM V-TM VI hydrogen bond network connecting transmembrane helices |
 
 ## Binding Mode
 
@@ -46,3 +46,5 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — Fusion tag for crystallization or purification

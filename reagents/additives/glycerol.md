@@ -38,9 +38,9 @@ Glycerol is included in purification and storage buffers at 5-20% (v/v) to maint
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Glucose Transporter GLUT1 (SLC2A1)](/xray-mp-wiki/proteins/glut1/) | 5% (v/v) | Glycerol included in Ni-NTA wash buffer (5%) and SEC buffer (5%) for GLUT1 purification | Maintained protein stability during affinity purification and SEC |
+| [Human Glucose Transporter GLUT1 (SLC2A1)](/xray-mp-wiki/proteins/mfs-transporters/glut1/) | 5% (v/v) | Glycerol included in Ni-NTA wash buffer (5%) and SEC buffer (5%) for GLUT1 purification | Maintained protein stability during affinity purification and SEC |
 | NtMATE2 | 10% (v/v) in lysis buffer; 5% (v/v) in purification buffers; 1% (v/v) in SEC buffer | Glycerol included at multiple steps of NtMATE2 purification from Pichia pastoris | Maintained protein stability during membrane solubilization and purification |
-| [bcMalT (Bacillus cereus Maltose Transporter)](/xray-mp-wiki/proteins/bc-malt/) | 10% (v/v) in cell resuspension buffer | Glycerol included in cell resuspension buffer (20 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol) for bcMalT expression in E. coli.
+| [bcMalT (Bacillus cereus Maltose Transporter)](/xray-mp-wiki/proteins/enzymes/bc-malt/) | 10% (v/v) in cell resuspension buffer | Glycerol included in cell resuspension buffer (20 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol) for bcMalT expression in E. coli.
  | Protein stability maintained during cell lysis and initial purification |
 | Human GABA_A Receptor Beta-3 Subunit | 20% (v/v) | Cryoprotectant for GABA_A R-β3 crystals; soaking in precipitant solution supplemented with 20% glycerol before flash freezing in liquid nitrogen | Crystals cryoprotected for X-ray data collection at 3.0 A resolution (PDB 4COF) |
 | SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase 1a) | 5% (v/v) in crystallization reservoir; 20% (v/v) in cryoprotection buffer | Crystallization of SERCA1a-SLN complex at hanging-drop vapor diffusion; glycerol in both reservoir (5%) and cryobuffer (20%) | Glycerol served as cryoprotectant and crystallization additive for 3.1 A resolution structure (PDB 4K5T) |

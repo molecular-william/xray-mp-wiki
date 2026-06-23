@@ -35,7 +35,7 @@ Used in scintillation proximity assays (SPA) to measure inhibitor binding affini
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [dDAT](/xray-mp-wiki/proteins/d-dat/) | 1 mM | Co-crystallized with dDAT_cryst (PDB 4XNU) | Stabilized outward-open conformation; resolved at 3.0 A |
+| [dDAT](/xray-mp-wiki/proteins/slc-transporters/d-dat/) | 1 mM | Co-crystallized with dDAT_cryst (PDB 4XNU) | Stabilized outward-open conformation; resolved at 3.0 A |
 
 ## Advantages and Disadvantages
 
@@ -56,4 +56,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [Drosophila Melanogaster Dopamine Transporter](/xray-mp-wiki/proteins/d-dat/) — Primary structural target studied with this inhibitor
+- [Drosophila Melanogaster Dopamine Transporter](/xray-mp-wiki/proteins/slc-transporters/d-dat/) — Primary structural target studied with this inhibitor

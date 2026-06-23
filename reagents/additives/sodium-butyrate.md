@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase 1a) | 0.8 M | Sodium butyrate used at high concentration (0.8 M) as the primary precipitant in the crystallization buffer for SERCA1a. Crystallization buffer also contained 2.75 M glycerol, 10 mM CaCl2, 3 mM MgCl2, 2.5 mM NaN3, and 20 mM MES pH 6.1. Purified SERCA1a mixed with phosphatidylcholine was dialyzed against this buffer | Formation of thin crystals under 20 micrometers in space group C2 suitable for X-ray crystallography at 2.6 A resolution |
+| [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) (Sarcoplasmic Reticulum Ca2+-ATPase 1a) | 0.8 M | Sodium butyrate used at high concentration (0.8 M) as the primary precipitant in the crystallization buffer for [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/). Crystallization buffer also contained 2.75 M [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 10 mM CaCl2, 3 mM MgCl2, 2.5 mM NaN3, and 20 mM MES pH 6.1. Purified [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) mixed with [Phosphatidylcholine](/xray-mp-wiki/reagents/lipids/phosphatidylcholine/) was dialyzed against this buffer | Formation of thin crystals under 20 micrometers in space group C2 suitable for X-ray crystallography at 2.6 A resolution |
 
 ## Advantages and Disadvantages
 
@@ -38,3 +38,7 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — Related protein structure
+- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
+- [Phosphatidylcholine](/xray-mp-wiki/reagents/lipids/phosphatidylcholine/) — Additive used in purification or crystallization buffers

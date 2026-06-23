@@ -1,7 +1,7 @@
 ---
 title: Valinomycin
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -42,4 +42,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [NaK Channel from Bacillus cereus](/xray-mp-wiki/proteins/nak-channel/) — Ionophore used for normalization in NaK 86Rb flux assays
+- [NaK Channel from Bacillus cereus](/xray-mp-wiki/proteins/voltage-gated-channels/nak-channel/) — Ionophore used for normalization in NaK 86Rb flux assays

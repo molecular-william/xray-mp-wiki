@@ -1,12 +1,12 @@
 ---
 title: Right-Handed Coiled-Coil Architecture in Rotary ATPases
-created: 2026-06-04
-updated: 2026-06-04
+created: 2026-06-11
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
 tags: [concept-transport-mechanism, subdirectory-concepts]
-sources: [doi/10.1038##ncomms1693]
+sources: [doi/10.1038##ncomms1693, doi/10.1016##j.str.2012.08.020]
 verified: false
 ---
 
@@ -25,7 +25,8 @@ The peripheral stalk tail of rotary ATPases consists of a right-handed parallel 
 
 
 ## Cross-References
-- [Thermus thermophilus A-ATPase Peripheral Stalk](/xray-mp-wiki/proteins/thermus-thermophilus-a-atpase-peripheral-stalk/) — Primary example of right-handed coiled-coil peripheral stalk architecture at 2.25 A resolution
-- [Subunit E of Pyrococcus horikoshii OT3 A-ATP Synthase](/xray-mp-wiki/proteins/ph-e-subunit-e/) — Related peripheral stalk subunit with S-shaped elastic connector
+- [Yeast V-ATPase EGC_head Peripheral Stalk Complex](/xray-mp-wiki/proteins/pumps-atpases/yeast-v-atpase-egc-head-peripheral-stalk/) — Eukaryotic example of right-handed coiled-coil EG peripheral stalk with heptad/hendecad repeats
+- [Thermus thermophilus A-ATPase Peripheral Stalk](/xray-mp-wiki/proteins/pumps-atpases/thermus-thermophilus-a-atpase-peripheral-stalk/) — Primary example of right-handed coiled-coil peripheral stalk architecture at 2.25 A resolution
+- [Subunit E of Pyrococcus horikoshii OT3 A-ATP Synthase](/xray-mp-wiki/proteins/pumps-atpases/ph-e-subunit-e/) — Related peripheral stalk subunit with S-shaped elastic connector
 - [Peripheral Stalk Elasticity in ATP Synthase](/xray-mp-wiki/concepts/peripheral-stalk-elasticity/) — Elasticity enabled by coiled-coil architecture
 - [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/rotary-atpase-mechanism/) — Stator function in rotary ATPase torque generation

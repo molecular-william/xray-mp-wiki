@@ -1,7 +1,7 @@
 ---
 title: PQ-Loop Family
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-11
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
@@ -27,7 +27,7 @@ The PQ-loop family comprises membrane transporters characterized by a highly con
 
 
 ## Cross-References
-- [EcSemiSWEET](/xray-mp-wiki/proteins/ec-semisweet/) — E. coli SemiSWEET is a PQ-loop family member with solved inward-open and outward-open structures
-- [LbSemiSWEET](/xray-mp-wiki/proteins/lbsemisweet/) — Leptospira biflexa SemiSWEET is a PQ-loop family member with solved outward-open and occluded structures
+- [EcSemiSWEET](/xray-mp-wiki/proteins/miscellaneous/ec-semisweet/) — E. coli SemiSWEET is a PQ-loop family member with solved inward-open and outward-open structures
+- [LbSemiSWEET](/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/) — Leptospira biflexa SemiSWEET is a PQ-loop family member with solved outward-open and occluded structures
 - [SWEET Transporter Family](/xray-mp-wiki/concepts/sweet-transporter/) — SWEET and SemiSWEET families are related to the PQ-loop family
 - [Binder Clip Motion](/xray-mp-wiki/concepts/binder-clip-motion/) — PQ-loop motif serves as molecular hinge enabling binder clip-like motion

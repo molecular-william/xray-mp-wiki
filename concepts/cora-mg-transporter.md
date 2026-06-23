@@ -1,7 +1,7 @@
 ---
 title: CorA Mg2+ Transporter
-created: 2026-05-29
-updated: 2026-05-29
+created: 2026-06-11
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default

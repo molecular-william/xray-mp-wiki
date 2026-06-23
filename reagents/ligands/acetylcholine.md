@@ -1,7 +1,7 @@
 ---
 title: Acetylcholine
-created: 2026-06-02
-updated: 2026-06-02
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Acetylcholine (ACh) is the endogenous neurotransmitter that activates muscarinic and nicotinic acetylcholine receptors. It is the primary excitatory neurotransmitter of the parasympathetic nervous system and plays critical roles in the central nervous system including learning, memory, and attention. Acetylcholine serves as the reference ligand for characterizing agonist activity at muscarinic receptors and was used as the reference ligand in biased agonism transduction coefficient calculations for HTL9936.
+Acetylcholine (ACh) is the endogenous neurotransmitter that activates muscarinic and nicotinic acetylcholine receptors. It is the primary excitatory neurotransmitter of the parasympathetic nervous system and plays critical roles in the central nervous system including learning, memory, and attention. Acetylcholine serves as the reference ligand for characterizing agonist activity at muscarinic receptors and was used as the reference ligand in biased agonism transduction coefficient calculations for [HTL9936](/xray-mp-wiki/reagents/ligands/htl9936/).
 
 
 ## Properties
@@ -36,4 +36,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [M1 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/m1-muscarinic-acetylcholine-receptor/) — Endogenous agonist; reference ligand for transduction coefficient calculations
+- [M1 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m1-muscarinic-acetylcholine-receptor/) — Endogenous agonist; reference ligand for transduction coefficient calculations
+- [HTL9936](/xray-mp-wiki/reagents/ligands/htl9936/) — Related ligand or cofactor

@@ -33,7 +33,7 @@ SAG1.5 was used to crystallize human SMO (PDB: 4QIN, 2.6 A, C2). The ligand form
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Smoothened Receptor](/xray-mp-wiki/proteins/smoothened/) | not specified | Co-crystallized with BRIL-deltaCRD-SMO-deltaC construct from Sf9 cells; structure solved at 2.6 A resolution (PDB 4QIN) | Agonist-induced conformational changes revealed in binding pocket and intracellular side |
+| [Human Smoothened Receptor](/xray-mp-wiki/proteins/gpcr/smoothened/) | not specified | Co-crystallized with BRIL-deltaCRD-SMO-deltaC construct from Sf9 cells; structure solved at 2.6 A resolution (PDB 4QIN) | Agonist-induced conformational changes revealed in binding pocket and intracellular side |
 
 ## Advantages and Disadvantages
 

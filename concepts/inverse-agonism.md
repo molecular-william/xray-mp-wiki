@@ -1,12 +1,12 @@
 ---
 title: Inverse Agonism in GPCR Signaling
-created: 2026-05-27
-updated: 2026-05-27
+created: 2026-06-11
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
 tags: [concept-functional, subdirectory-concepts]
-sources: [doi/10.1016##j.bcp.2022.115291]
+sources: [doi/10.1016##j.bcp.2022.115291, doi/10.1126##scisignal.ado8741, doi/10.1124##molpharm.122.000633]
 verified: false
 ---
 
@@ -25,6 +25,8 @@ Inverse agonism refers to the ability of certain ligands to reduce the basal (co
 
 
 ## Cross-References
-- [Human P2Y12 Receptor](/xray-mp-wiki/proteins/p2y12-receptor/) — Constitutive Gi/o signaling and inverse agonist characterization
+- [Human P2Y12 Receptor](/xray-mp-wiki/proteins/gpcr/p2y12-receptor/) — Constitutive Gi/o signaling and inverse agonist characterization
 - [Selatogrel](/xray-mp-wiki/reagents/ligands/selatogrel/) — Potent P2Y12 inverse agonist
 - [GPCR Active Conformation](/xray-mp-wiki/concepts/gpcr-active-conformation/) — Inverse agonists stabilize inactive receptor conformation
+- [Human Adenosine A2A Receptor (A2AR)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/) — KW-6356 is a structural inverse agonist for A2AR
+- [KW-6356](/xray-mp-wiki/reagents/ligands/kw-6356/) — Novel A2AR inverse agonist with structural characterization

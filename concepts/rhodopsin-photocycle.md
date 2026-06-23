@@ -1,12 +1,12 @@
 ---
 title: Rhodopsin Photocycle
-created: 2026-05-26
-updated: 2026-05-26
+created: 2026-06-08
+updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
 tags: [concept-functional, subdirectory-concepts]
-sources: [doi/10.1016##j.jmb.2011.04.038, doi/10.1016##s0969-2126(99)80118-x, doi/10.1016##j.jmb.2011.06.028]
+sources: [doi/10.1016##j.jmb.2011.04.038, doi/10.1016##s0969-2126(99)80118-x, doi/10.1016##j.jmb.2011.06.028, doi/10.1126##science.aat0094]
 verified: false
 ---
 
@@ -25,5 +25,5 @@ The rhodopsin photocycle involves light-induced isomerization of retinal from al
 
 
 ## Cross-References
-- [Bacteriorhodopsin](/xray-mp-wiki/proteins/bacteriorhodopsin/) — Archetypal microbial rhodopsin with well-characterized photocycle
+- [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Archetypal microbial rhodopsin with well-characterized photocycle
 - [Rhomboid Protease](/xray-mp-wiki/concepts/rhomboid-protease/) — Related rhodopsin superfamily concept

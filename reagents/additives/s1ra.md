@@ -36,7 +36,7 @@ In the xlS1R C179/C203-S1RA structure, an additional S1RA molecule was observed 
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| xl-sigma-1-receptor | Not specified | Soaked into xlS1R C179/C203 mutant crystals after growth with PRE084 | S1RA bound in the ligand-binding pocket; additional density observed near the alpha4/alpha5 entrance |
+| [Sigma-1 Receptor from Xenopus laevis (xlS1R)](/xray-mp-wiki/proteins/receptors-signaling/xl-sigma-1-receptor/) | Not specified | Soaked into xlS1R C179/C203 mutant crystals after growth with [PRE084](/xray-mp-wiki/reagents/additives/pre084/) | S1RA bound in the ligand-binding pocket; additional density observed near the alpha4/alpha5 entrance |
 
 ## Advantages and Disadvantages
 
@@ -47,3 +47,6 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [Sigma-1 Receptor from Xenopus laevis (xlS1R)](/xray-mp-wiki/proteins/receptors-signaling/xl-sigma-1-receptor/) — Related protein structure
+- [PRE084](/xray-mp-wiki/reagents/additives/pre084/) — Additive used in purification or crystallization buffers

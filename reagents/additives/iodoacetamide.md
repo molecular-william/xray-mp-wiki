@@ -1,7 +1,7 @@
 ---
 title: Iodoacetamide
-created: 2026-06-02
-updated: 2026-06-02
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default

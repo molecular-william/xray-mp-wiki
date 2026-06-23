@@ -45,4 +45,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [TM287/288 (ABC Exporter from Thermotoga maritima)](/xray-mp-wiki/proteins/tm287-288/) — Daunomycin is a transported substrate of TM287/288
+- [TM287/288 (ABC Exporter from Thermotoga maritima)](/xray-mp-wiki/proteins/abc-transporters/tm287-288/) — Daunomycin is a transported substrate of TM287/288

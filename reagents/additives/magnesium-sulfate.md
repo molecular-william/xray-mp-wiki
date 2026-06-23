@@ -27,8 +27,8 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase 1a) | 150 mM in reservoir, ~75 mM in equilibrated drop | Crystallization of SERCA1a-SLN complex at hanging-drop vapor diffusion; Mg2+ ions observed bound at Ca2+ site II in the structure | Mg2+ stabilizes an open structure of site II with exposed carbonyl groups, trapping SERCA in E1-SLN intermediate state |
-| SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase 1a) | 3 mM | Purification buffer component | Mg2+ required as cofactor for SERCA ATPase activity |
+| [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) (Sarcoplasmic Reticulum Ca2+-ATPase 1a) | 150 mM in reservoir, ~75 mM in equilibrated drop | Crystallization of SERCA1a-[SLN](/xray-mp-wiki/proteins/pumps-atpases/sarcolipin/) complex at hanging-drop vapor diffusion; Mg2+ ions observed bound at Ca2+ site II in the structure | Mg2+ stabilizes an open structure of site II with exposed carbonyl groups, trapping SERCA in E1-[SLN](/xray-mp-wiki/proteins/pumps-atpases/sarcolipin/) intermediate state |
+| [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) (Sarcoplasmic Reticulum Ca2+-ATPase 1a) | 3 mM | Purification buffer component | Mg2+ required as cofactor for SERCA ATPase activity |
 
 ## Advantages and Disadvantages
 
@@ -40,6 +40,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase 1a)](/xray-mp-wiki/proteins/serca1a/) — Mg2+ is essential cofactor for SERCA ATPase activity; used in crystallization
+- [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase 1a)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — Mg2+ is essential cofactor for SERCA ATPase activity; used in crystallization
 - [Calcium Chloride](/xray-mp-wiki/reagents/additives/calcium-chloride/) — Both are divalent metal salts used in SERCA experiments
-- [Magnesium Chloride](/xray-mp-wiki/reagents/additives/mgcl2/) — Alternative Mg2+ source; magnesium chloride also used in SERCA buffers
+- [Magnesium Chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Alternative Mg2+ source; magnesium chloride also used in SERCA buffers
+- [SLN](/xray-mp-wiki/proteins/pumps-atpases/sarcolipin/) — Related protein structure

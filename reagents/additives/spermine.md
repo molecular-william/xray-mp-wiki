@@ -1,14 +1,14 @@
 ---
 title: Spermine
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
-tags: [additive-salt, additive-stabilizer]
-sources: [doi/10.1016##j.jmb.2012.03.020]
+tags: [additive-stabilizer, subdirectory-additives]
+sources: [doi/10.1016##j.cell.2010.05.003]
+verified: false
 ---
-
 
 # Spermine
 

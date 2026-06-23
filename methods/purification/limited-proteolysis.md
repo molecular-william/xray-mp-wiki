@@ -1,7 +1,7 @@
 ---
 title: Limited Proteolysis
-created: 2026-05-27
-updated: 2026-05-27
+created: 2026-06-11
+updated: 2026-06-11
 type: method
 category: methods
 layout: default

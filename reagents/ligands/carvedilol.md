@@ -1,17 +1,17 @@
 ---
 title: Carvedilol
-created: 2026-05-18
-updated: 2026-05-18
+created: 2026-06-08
+updated: 2026-06-08
 type: reagent
 category: reagents
 layout: default
-tags: [additive-stabilizer]
+tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1016##J.STR.2012.03.014]
+verified: false
 ---
 
-
 # Carvedilol
- [carvedilol](/xray-mp-wiki/reagents/ligands/bucindolol/) [biased agonism](/xray-mp-wiki/concepts/biased-agonism/)
+
 ## Overview
 
 Carvedilol is a beta blocker that acts as a biased agonist of beta-adrenoceptors. Unlike most beta blockers, carvedilol is an inverse agonist of the G protein-signaling pathway but stimulates arrestin-mediated signaling pathways independently of G protein activation. The structure of the beta1-adrenoceptor bound to carvedilol at 2.3 A resolution reveals a polar contact with extracellular loop 2 mediated by a bridging water molecule.
@@ -19,7 +19,6 @@ Carvedilol is a beta blocker that acts as a biased agonist of beta-adrenoceptors
 
 ## Properties
 
-- **Clinical status**: Approved (heart failure, hypertension)
 
 ## Use in Membrane Protein Work
 
@@ -41,4 +40,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [Turkey Beta1-Adrenoceptor Thermostabilized Mutant (beta1AR-m23)](/xray-mp-wiki/proteins/turkey-beta1-ar-m23/) — Co-crystallization ligand at 2.3 A resolution
+- [Turkey Beta1-Adrenoceptor Thermostabilized Mutant (beta1AR-m23)](/xray-mp-wiki/proteins/gpcr/turkey-beta1-ar-m23/) — Co-crystallization ligand at 2.3 A resolution

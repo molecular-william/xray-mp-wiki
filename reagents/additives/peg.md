@@ -1,6 +1,6 @@
 ---
 title: PEG (Polyethylene Glycol)
-created: 2026-06-08
+created: 2026-06-11
 updated: 2026-05-29
 type: reagent
 category: reagents
@@ -41,11 +41,11 @@ PEG of various molecular weights (PEG 400, 300, 600, 3350, 4000) used as precipi
 |---|---|---|---|
 | A2A-PSB1-bRIL | not specified | PEG linker connecting Preladenant to BODIPY fluorophore (PSB-2115) | First GPCR structure with PEG-conjugated ligand (disordered in crystal) |
 | DAP12 (CD331) | 12.4% (w/v) PEG 3350 (trimer); 19.7% (w/v) PEG 3350 (tetramer) | PEG 3350 used as precipitant in LCP crystallization of DAP12-TM transmembrane peptide | Trimer (1.77 A, PDB 4WOL) and tetramer (2.14 A, PDB 4WO1) structures resolved |
-| [NupG Nucleoside Proton Symporter](/xray-mp-wiki/proteins/nupg/) | 28% PEG300 (P21 form), 30% PEG600 (P1 form), 30% PEG550 MME (D323A mutant) | PEG300, PEG600, and PEG550 MME used as precipitants in LCP crystallization of WT and D323A NupG variants | Crystals grown for 1 week, diffraction to 3.8 A (P21) and 3.0 A (P1) |
+| [NupG Nucleoside Proton Symporter](/xray-mp-wiki/proteins/mfs-transporters/nupg/) | 28% PEG300 (P21 form), 30% PEG600 (P1 form), 30% PEG550 MME (D323A mutant) | PEG300, PEG600, and PEG550 MME used as precipitants in LCP crystallization of WT and D323A NupG variants | Crystals grown for 1 week, diffraction to 3.8 A (P21) and 3.0 A (P1) |
 | Mouse Stearoyl-CoA Desaturase 1 (mSCD1) | 37-42% (w/v) PEG400 | Crystallization reservoir component for LCP crystallization of iron-containing mSCD1 (100 mM Tris pH 7.8-8.2, 37-42% PEG400, 20 mM Mg(Ace)2, 50 mM MgCl2) | Crystals diffracted to 3.51 A (PDB 6WF2); space group P212121 |
 | Human TRAAK Potassium Channel | 27-33% (vol/vol) PEG400 | Crystallization precipitant for TRAAK mutants (A198E, A270P, G158D) in hanging-drop vapor diffusion at 4 C (50 mM Tris pH 8.8, 64-200 mM CaCl2, 27-33% PEG400). Also used at 30% for cryoprotection. | Crystals of TRAAK mutants grown for 1-5 weeks, diffracted to 2.3-3.3 A resolution (PDB 7LJ5-7LJ8) |
-| [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/acrB/) | 8-10% PEG 4000 | Crystallization precipitant for AcrB-DARPin complexes (8-10% PEG 4000, 50 mM ADA pH 6.5, 200 mM (NH4)2SO4) | Three crystal structures resolved at 2.54-3.34 A resolution (PDB 2JBS, 3NOC, 3NOG) in space group P2$_{1}$2$_{1}$2$_{1}$ |
-| [bcMalT (Bacillus cereus Maltose Transporter)](/xray-mp-wiki/proteins/bc-malt/) | 39% PEG 400 | PEG 400 used as primary precipitant in LCP crystallization of bcMalT EIIC domain. Crystallization reservoir contained 39% PEG 400, 450 mM NaCl, 3% ethanol, 100 mM NAD pH 6.7.
+| [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) | 8-10% PEG 4000 | Crystallization precipitant for AcrB-DARPin complexes (8-10% PEG 4000, 50 mM ADA pH 6.5, 200 mM (NH4)2SO4) | Three crystal structures resolved at 2.54-3.34 A resolution (PDB 2JBS, 3NOC, 3NOG) in space group P2$_{1}$2$_{1}$2$_{1}$ |
+| [bcMalT (Bacillus cereus Maltose Transporter)](/xray-mp-wiki/proteins/enzymes/bc-malt/) | 39% PEG 400 | PEG 400 used as primary precipitant in LCP crystallization of bcMalT EIIC domain. Crystallization reservoir contained 39% PEG 400, 450 mM NaCl, 3% ethanol, 100 mM NAD pH 6.7.
  | bcMalT crystals appeared in ~3 weeks, diffracted to 2.55 A (PDB 5IWS) |
 
 ## Advantages and Disadvantages
@@ -58,8 +58,8 @@ No comparison data available.
 
 ## Cross-References
 
-- [DAP12 (CD331)](/xray-mp-wiki/proteins/dap12/) — PEG 3350 used as precipitant in LCP crystallization
-- [A2A-PSB1-bRIL Adenosine A2A Receptor](/xray-mp-wiki/proteins/a2a-psb1-bril/) — Linker in PSB-2113 conjugate
+- [DAP12 (CD331)](/xray-mp-wiki/proteins/receptors-signaling/dap12/) — PEG 3350 used as precipitant in LCP crystallization
+- [A2A-PSB1-bRIL Adenosine A2A Receptor](/xray-mp-wiki/proteins/gpcr/a2a-psb1-bril/) — Linker in PSB-2113 conjugate
 - [Preladenant](/xray-mp-wiki/reagents/ligands/preladenant/) — Parent compound for PEG conjugation
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/acrB/) — PEG 4000 at 8-10% used as precipitant in AcrB-DARPin complex crystallization
-- [Human TRAAK Potassium Channel](/xray-mp-wiki/proteins/traak/) — PEG400 (27-33%) used as crystallization precipitant for TRAAK mutants
+- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrB/) — PEG 4000 at 8-10% used as precipitant in AcrB-DARPin complex crystallization
+- [Human TRAAK Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/traak/) — PEG400 (27-33%) used as crystallization precipitant for TRAAK mutants

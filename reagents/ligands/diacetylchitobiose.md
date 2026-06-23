@@ -31,13 +31,13 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| bcChbC (Bacillus cereus Chitobiose Transporter) | Used as crystallization ligand | Diacetylchitobiose was modeled into the electron density of the bcChbC sugar-binding site at 3.3 A resolution (PDB 4DJB). The (GlcNAc)2 molecule was placed in two orientations, with the non-reducing C6'-OH closer to the cytoplasm used in the final model. Fo-Fc difference electron density contoured at 3.0 sigma confirmed the binding.
+| [bcChbC (Bacillus cereus Chitobiose Transporter)](/xray-mp-wiki/proteins/enzymes/bc-chbc/) | Used as crystallization ligand | Diacetylchitobiose was modeled into the electron density of the bcChbC sugar-binding site at 3.3 A resolution (PDB 4DJB). The (GlcNAc)2 molecule was placed in two orientations, with the non-reducing C6'-OH closer to the cytoplasm used in the final model. Fo-Fc difference electron density contoured at 3.0 sigma confirmed the binding.
  | Clear electron density for (GlcNAc)2 observed in the sugar-binding pocket of bcChbC, confirming it as the physiological substrate.
  |
 
 ## Binding Mode
 
-### Binding to bcChbC (Bacillus cereus Chitobiose Transporter)
+### Binding to [bcChbC (Bacillus cereus Chitobiose Transporter)](/xray-mp-wiki/proteins/enzymes/bc-chbc/)
 
 The non-reducing GlcNAc unit interacts with conserved residues His250 (TM5) and Glu334 (TM9) through hydrogen bonds with the C6-OH group. Additional hydrogen bonds and hydrophobic interactions stabilize both sugar units in the binding pocket. The C6-OH of the non-reducing sugar is oriented toward the cytoplasmic side, consistent with the proposed transport direction.
 
@@ -54,6 +54,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [bcChbC (Bacillus cereus Chitobiose Transporter)](/xray-mp-wiki/proteins/bc-chbc/) — Primary transporter for diacetylchitobiose
+- [bcChbC (Bacillus cereus Chitobiose Transporter)](/xray-mp-wiki/proteins/enzymes/bc-chbc/) — Primary transporter for diacetylchitobiose
 - [Maltose](/xray-mp-wiki/reagents/additives/maltose/) — Related disaccharide substrate for EIIC transporters
 - [Elevator Mechanism](/xray-mp-wiki/concepts/elevator-mechanism/) — Diacetylchitobiose transport by bcChbC operates via elevator mechanism

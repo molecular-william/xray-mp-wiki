@@ -21,17 +21,24 @@ P2Y receptors are class A GPCRs that respond to extracellular nucleotide ligands
 
 
 ## Examples in Membrane Protein Work
-
+- P2Y12 receptor (P2Y12R) — Platelet activation and thrombus formation; multiple crystal structures solved (PDB 4NTJ, 7PP1)
+- P2Y1 receptor (P2Y1R) — Calcium mobilization and platelet activation
+- P2Y13 receptor (P2Y13R) — Similar to P2Y12-like receptors with straight helix V
+- P2Y14 receptor (P2Y14R) — Uridine nucleotide receptor, also lacks helix V bend
 
 ## Related Concepts
-
+- Purinergic signaling
+- G-protein-coupled receptor families
+- Gi/o protein signaling
+- Platelet activation pathways
 
 ## Cross-References
-- [Human P2Y12 Receptor](/xray-mp-wiki/proteins/p2y12-receptor/) — Crystal structures of P2Y12R (PDB 4NTJ, 7PP1) solved for this family
+- [Human P2Y12 Receptor](/xray-mp-wiki/proteins/gpcr/p2y12-receptor/) — Crystal structures of P2Y12R (PDB 4NTJ, 7PP1) solved for this family
 - [Adenosine Diphosphate (ADP)](/xray-mp-wiki/reagents/ligands/adp/) — Endogenous agonist for P2Y12 and P2Y1 receptors
 - [AZD1283](/xray-mp-wiki/reagents/ligands/azd1283/) — Non-nucleotide P2Y12 antagonist co-crystallized in first P2Y12 structure
 - [2-Methylthio-ADP (2MeSADP)](/xray-mp-wiki/reagents/ligands/2me-sadp/) — Stable ADP analog agonist for P2Y12 receptor binding assays
 - [Ticagrelor](/xray-mp-wiki/reagents/ligands/ticagrelor/) — Market-approved P2Y12 reversible antagonist
-- [Human 5-HT2A Receptor](/xray-mp-wiki/proteins/5ht2a-receptor/) — Related class A GPCR with crystal structure
+- [Human 5-HT2A Receptor](/xray-mp-wiki/proteins/gpcr/5ht2a-receptor/) — Related class A GPCR with crystal structure
 - [Human Orexin 2 Receptor](/xray-mp-wiki/proteins/or2y-2-receptor/) — Related class A GPCR crystallized using LCP method
 - [GPCR Active Conformation](/xray-mp-wiki/concepts/gpcr-active-conformation/) — P2Y12R exhibits high basal activity characteristic of active-like state
+- [Selatogrel](/xray-mp-wiki/reagents/ligands/selatogrel/) — Related ligand or cofactor

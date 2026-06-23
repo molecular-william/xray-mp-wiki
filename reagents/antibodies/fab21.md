@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [AdiC Arginine/Agmatine Antiporter](/xray-mp-wiki/proteins/adic/) | Stoichiometric excess over AdiC | Fab21 was raised by inoculating mice with E. coli AdiC and screening ELISA-positive hybridomas for stable complexes by size-exclusion chromatography, crystallization, and diffraction quality. The Fab21-AdiC complex was purified on Superdex 200 and crystallized by hanging-drop vapor diffusion. Crystals diffracted to 3.2 A resolution.
+| [AdiC Arginine/Agmatine Antiporter](/xray-mp-wiki/proteins/slc-transporters/adic/) | Stoichiometric excess over AdiC | Fab21 was raised by inoculating mice with E. coli AdiC and screening ELISA-positive hybridomas for stable complexes by size-exclusion chromatography, crystallization, and diffraction quality. The Fab21-AdiC complex was purified on Superdex 200 and crystallized by hanging-drop vapor diffusion. Crystals diffracted to 3.2 A resolution.
  | Enabled structure determination of AdiC at 3.2 A resolution (P1 space group) via anomalous dispersion phasing from SeMet derivatives, with NCS averaging and solvent flattening.
  |
 

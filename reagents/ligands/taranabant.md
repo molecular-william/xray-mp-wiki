@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Cannabinoid Receptor 1 (CNR1/CB1)](/xray-mp-wiki/proteins/cnr1/) | 1 uM (purification), 10 uM (crystallization) | Inverse agonist used for CB1(T210A)-PGS crystallization at 2.6 A resolution (PDB: 5KPR) | High-resolution inactive state structure of human CB1 |
+| [Cannabinoid Receptor 1 (CNR1/CB1)](/xray-mp-wiki/proteins/gpcr/cnr1/) | 1 uM (purification), 10 uM (crystallization) | Inverse agonist used for CB1(T210A)-PGS crystallization at 2.6 A resolution (PDB: 5KPR) | High-resolution inactive state structure of human CB1 |
 
 ## Binding Mode
 
@@ -48,6 +48,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Cannabinoid Receptor 1 (CNR1/CB1)](/xray-mp-wiki/proteins/cnr1/) — Primary target; taranabant-bound CB1 structure solved at 2.6 A
+- [Cannabinoid Receptor 1 (CNR1/CB1)](/xray-mp-wiki/proteins/gpcr/cnr1/) — Primary target; taranabant-bound CB1 structure solved at 2.6 A
 - [Rimonabant](/xray-mp-wiki/reagents/ligands/rimonabant/) — Related inverse agonist with overlapping binding mode in CB1
 - [CP55,940](/xray-mp-wiki/reagents/ligands/cp55940/) — Agonist used in competition binding assays against taranabant

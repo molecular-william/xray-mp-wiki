@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [NavMs Sodium Channel](/xray-mp-wiki/proteins/navms/) | IC50 = 297 nM (WT); 3.6 uM (D220E); 2.8 uM (E227D) | Whole-cell voltage-clamp electrophysiology in HEK293 cells; PDB 6SXG structure | Inhibition of sodium current; D220E and E227D mutations disrupt inner binding site |
+| [NavMs Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/navms/) | IC50 = 297 nM (WT); 3.6 uM (D220E); 2.8 uM (E227D) | Whole-cell voltage-clamp electrophysiology in HEK293 cells; PDB 6SXG structure | Inhibition of sodium current; D220E and E227D mutations disrupt inner binding site |
 | Human Na_v1.2 | IC50 = 2.1 uM | Whole-cell voltage-clamp electrophysiology in HEK293 cells | Inhibition of sodium current with similar mechanism to NavMs |
 | MDA-MB-231 adenocarcinoma cells | IC50 = 889 nM | Voltage-gated sodium current inhibition in triple-negative breast cancer cells | Efficacy independent of ER modulation; TTX-insensitive NaV subtypes |
 
@@ -55,4 +55,4 @@ No comparison data available.
 - [E-4-Hydroxytamoxifen](/xray-mp-wiki/reagents/ligands/e-4-hydroxytamoxifen/) — E-isomer of 4-hydroxytamoxifen; IC50 = 2.3 uM against NavMs
 - [Z-Endoxifen](/xray-mp-wiki/reagents/ligands/z-endoxifen/) — Z-isomer of endoxifen; IC50 = 2.3 uM against NavMs
 - [E-Endoxifen](/xray-mp-wiki/reagents/ligands/e-endoxifen/) — E-isomer of endoxifen; IC50 = 4.2 uM against NavMs
-- [NavAb Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/navab/) — Another prokaryotic sodium channel for comparative pharmacology
+- [NavAb Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) — Another prokaryotic sodium channel for comparative pharmacology

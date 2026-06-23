@@ -1,12 +1,12 @@
 ---
 title: Clomipramine (CMI)
-created: 2026-06-03
-updated: 2026-06-03
+created: 2026-06-16
+updated: 2026-06-16
 type: reagent
 category: reagents
 layout: default
-tags: [ligand, subdirectory-ligands]
-sources: [doi/10.1038##nature12648]
+tags: [additive-ligand, subdirectory-ligands]
+sources: [doi/10.1038##nature06038, doi/10.1038##nature12648]
 verified: false
 ---
 
@@ -14,27 +14,24 @@ verified: false
 
 ## Overview
 
-Clomipramine (CMI) is a tricyclic antidepressant (TCA) used clinically for the treatment of major depressive disorder and obsessive-compulsive disorder. It acts primarily by blocking the serotonin transporter (SERT). Clomipramine binds to the primary binding pocket of biogenic amine transporters, with its tricyclic ring surrounded by hydrophobic residues and its chlorine atom extending into a specific pocket.
-
+Clomipramine (CMI) is a tricyclic antidepressant (TCA) of the dibenzazepine class with a chlorine atom at the 3-position. It is used clinically for the treatment of major depressive disorder and obsessive-compulsive disorder. Clomipramine was the most potent TCA inhibitor of LeuT uptake identified in a functional screen, with an IC50 of approximately 250 µM, and cocrystal structures revealed its binding mode in the extracellular-facing vestibule of the transporter.
 
 ## Properties
 
 
 ## Use in Membrane Protein Work
 
-No specific use cases documented.
+### LeuT TCA binding site characterization
+
+Clomipramine was co-crystallized with LeuT (leucine- and sodium-bound state) revealing that it binds in the extracellular-facing vestibule about 11 A above the substrate and two sodium ions. The chlorine atom forms a polar interaction with Gln34 (3.1 A), and the protonated N2 atom forms a salt bridge with Asp401 (2.9 A). Unlike imipramine or desipramine, clomipramine's chlorine provides an additional stabilizing interaction that partly explains its higher potency.
+
+
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/leubat/ | 10 mM (crystal soaking) | Delta13 LeuBAT crystal structure determination | Solved outward-facing open conformation; tricyclic ring surrounded by hydrophobic residues |
-
-## Binding Mode
-
-### Binding to Delta13 LeuBAT (LeuT engineered mutant)
-
-Tricyclic ring is surrounded by hydrophobic residues including Tyr21, Val104, Tyr108, Phe253 and Phe259. The chlorine atom extends to the pocket formed by Ala105, Ser356 and Gly359, similar to the chlorine positions in sertraline. A salt bridge forms between Asp24 (Asp98 in SERT) and the tertiary aliphatic amine of the TCA. Interactions between Ala105 (Ala173 in SERT) and the TCA 3-position, and between Phe253 (Phe335 in SERT) and the TCA 7-position are consistent with previous SERT models. Ser355 (Ser438 in SERT) is vicinal to the aminopropyl chain of TCA.
-
+| [LeuT](/xray-mp-wiki/proteins/enzymes/leut/) | 10 mM (crystallization) | Cocrystallization with LeuT-leucine-sodium complex | Structure determined at 1.7-1.9 A resolution; revealed TCA binding site in extracellular vestibule |
+| [LeuBAT](/xray-mp-wiki/proteins/slc-transporters/leubat/) | 10 mM (crystal soaking) | Delta13 LEUBAT crystal structure determination | Solved outward-facing open conformation; tricyclic ring surrounded by hydrophobic residues |
 
 ## Advantages and Disadvantages
 
@@ -45,3 +42,6 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) — LeuT-TCA cocrystal structure revealed binding site
+- [Tricyclic Antidepressant (TCA) Inhibition Mechanism in NSS Transporters](/xray-mp-wiki/concepts/tca-inhibition-mechanism/) — TCA inhibition mechanism

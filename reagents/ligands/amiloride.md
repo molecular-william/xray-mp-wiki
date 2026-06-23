@@ -27,8 +27,8 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [ASIC1a](/xray-mp-wiki/proteins/asic1a/) | Not specified (used in crystallization soak) | Soaked into delta13-MitTx crystals; structure 4NTX at 2.3 A resolution | Two molecules in acidic pocket and one in fenestration of extracellular vestibule |
-| [ASIC1a](/xray-mp-wiki/proteins/asic1a/) | 500 uM | Block of PcTx1-mediated current at pH 7.25 | Blocks 95% of peak current mediated by activation of ASIC1a with pH 7.25 and 1 uM PcTx1, but only blocks 10% of steady-state current |
+| [ASIC1a](/xray-mp-wiki/proteins/other-ion-channels/asic1a/) | Not specified (used in crystallization soak) | Soaked into delta13-MitTx crystals; structure 4NTX at 2.3 A resolution | Two molecules in acidic pocket and one in fenestration of extracellular vestibule |
+| [ASIC1a](/xray-mp-wiki/proteins/other-ion-channels/asic1a/) | 500 uM | Block of PcTx1-mediated current at pH 7.25 | Blocks 95% of peak current mediated by activation of ASIC1a with pH 7.25 and 1 uM PcTx1, but only blocks 10% of steady-state current |
 
 ## Binding Mode
 
@@ -47,5 +47,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [ASIC1a Acid-Sensing Ion Channel](/xray-mp-wiki/proteins/asic1a/) — Amiloride bound in ASIC1a-MitTx complex (PDB 4NTX)
-- [Human Orexin 2 Receptor](/xray-mp-wiki/proteins/orexin-2-receptor/) — Amiloride used in OX2R binding assays to test sodium ion modulation
+- [ASIC1a Acid-Sensing Ion Channel](/xray-mp-wiki/proteins/other-ion-channels/asic1a/) — Amiloride bound in ASIC1a-MitTx complex (PDB 4NTX)
+- [Human Orexin 2 Receptor](/xray-mp-wiki/proteins/gpcr/orexin-2-receptor/) — Amiloride used in OX2R binding assays to test sodium ion modulation

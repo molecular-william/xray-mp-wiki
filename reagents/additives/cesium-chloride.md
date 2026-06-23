@@ -34,8 +34,8 @@ CsCl was used in GLIC crystallography studies to identify the ion conduction pat
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/glic/ | Not specified in source | Soaking of GLIC crystals with Cs+ for anomalous diffraction | Anomalous electron density mapped the ion conduction pathway through the pore |
-| [ASIC1a](/xray-mp-wiki/proteins/asic1a/) | Not specified (soaked into crystals) | Anomalous diffraction of high pH ASIC1a-PcTx1 complex crystals | Cs+ binding site identified in the wrist region of the high pH complex, coordinated by backbone carbonyl oxygens |
+| /xray-mp-wiki/proteins/cys-loop-receptors/glic/ | Not specified in source | Soaking of GLIC crystals with Cs+ for anomalous diffraction | Anomalous electron density mapped the ion conduction pathway through the pore |
+| [ASIC1a](/xray-mp-wiki/proteins/other-ion-channels/asic1a/) | Not specified (soaked into crystals) | Anomalous diffraction of high pH ASIC1a-PcTx1 complex crystals | Cs+ binding site identified in the wrist region of the high pH complex, coordinated by backbone carbonyl oxygens |
 
 ## Advantages and Disadvantages
 
@@ -47,7 +47,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp-wiki/proteins/glic/) — Cs+ used for anomalous diffraction to map the ion conduction pathway
+- [GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/glic/) — Cs+ used for anomalous diffraction to map the ion conduction pathway
 - [Zinc Chloride](/xray-mp-wiki/reagents/additives/zinc-chloride/) — Another heavy metal salt used for structural studies in GLIC
 - [Cadmium Chloride](/xray-mp-wiki/reagents/additives/cadmium-chloride/) — Similar divalent salt used for structural and functional studies
-- [Acid-Sensing Ion Channel 1a](/xray-mp-wiki/proteins/asic1a/) — Cs+ binding site mapped in wrist region of ASIC1a-PcTx1 complex
+- [Acid-Sensing Ion Channel 1a](/xray-mp-wiki/proteins/other-ion-channels/asic1a/) — Cs+ binding site mapped in wrist region of ASIC1a-PcTx1 complex

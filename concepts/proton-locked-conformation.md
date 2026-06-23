@@ -1,7 +1,7 @@
 ---
 title: Proton-Locked Conformation
-created: 2026-05-29
-updated: 2026-05-29
+created: 2026-06-11
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
@@ -21,13 +21,17 @@ The proton-locked conformation is characterized by a precise hydrogen bond netwo
 
 
 ## Examples in Membrane Protein Work
-
+- [Spirulina platensis ATP Synthase c15 Ring](/xray-mp-wiki/proteins/pumps-atpases/spirulina-platensis-c15-ring/) — 
+- Ilyobacter tartaricus Na+-dependent ATP synthase c11 ring — 
 
 ## Related Concepts
-
+- Rotating ATPase Mechanism
+- Alternating-Access Mechanism
+- Intramembrane Ion Coordination
+- Sodium-Motive Force
 
 ## Cross-References
-- [Spirulina platensis ATP Synthase c15 Ring](/xray-mp-wiki/proteins/spirulina-platensis-c15-ring/) — Primary structure exhibiting the proton-locked conformation at 2.1 A resolution
+- [Spirulina platensis ATP Synthase c15 Ring](/xray-mp-wiki/proteins/pumps-atpases/spirulina-platensis-c15-ring/) — Primary structure exhibiting the proton-locked conformation at 2.1 A resolution
 - [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/rotary-atpase-mechanism/) — The proton-locked conformation is a key mechanistic element of rotary ATPase function
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — The proton-locked state represents one of the alternating access states in ion translocation
 - [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/intramembrane-ion-coordination/) — Contrasts with Na+-dependent c-rings that use intramembrane ion coordination with buried water

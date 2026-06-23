@@ -1,12 +1,12 @@
 ---
 title: n-Dodecyl-beta-D-maltopyranoside (DDM)
-created: 2026-06-03
-updated: 2026-06-04
+created: 2026-06-08
+updated: 2026-06-16
 type: reagent
 category: reagents
 layout: default
-tags: [detergent-nonionic, solubilization-detergent, detergent-mild, subdirectory-detergents]
-sources: [doi/10.1038##nature17975, doi/10.1038##nature21714, doi/10.1038##ncomms11673, doi/10.1038##ncomms13819, doi/10.1038##ncomms15383, doi/10.1038##ncomms4110, doi/10.1016##j.bbabio.2023.148986, doi/10.1038##nature06325, doi/10.1038##ncomms5355, doi/10.1038##ncomms7112, doi/10.1038##ncomms7874, doi/10.1038##ncomms8097, doi/10.1038##ncomms8177, doi/10.1038##ncomms8995, doi/10.1038##nsmb.1788, doi/10.1038##nsmb.2417, doi/10.1038##nsmb.3029, doi/10.1038##nsmb.3049]
+tags: [detergent-nonionic, subdirectory-detergents]
+sources: [doi/10.1107##s205979832001517x, doi/10.1038##nsmb.2687, doi/10.1038##nsmb.3417, doi/10.1038##s41421-018-0037-y, doi/10.1038##nsmb.3346, doi/10.1038##nature12233, doi/10.1038##nature20606, doi/10.1038##s41467-017-00217-z, doi/10.1038##s41467-017-00887-9, doi/10.1073##pnas.1612927114, doi/10.1126##science.1110064, doi/10.1126##science.1111199, doi/10.7554##eLife.28032, doi/10.7554##eLife.31259, doi/10.1126##sciadv.abp9011, doi/10.1016##j.bbamem.2021.183825]
 verified: false
 ---
 
@@ -14,80 +14,49 @@ verified: false
 
 ## Overview
 
-n-Dodecyl-beta-D-maltopyranoside (DDM) is a mild nonionic detergent with a 12-carbon alkyl chain and a maltose head group. It is widely used for solubilizing membrane proteins from cellular membranes while maintaining protein activity and complex integrity. DDM is particularly effective for solubilizing ion channels and other multi-subunit membrane protein complexes for structural studies. It is also widely used for photosynthetic supercomplexes including PSI-LHCI from Chlamydomonas reinhardtii, where it preserves the intact supercomplex structure during purification and crystallization.
+n-Dodecyl-β-D-maltopyranoside (DDM) is a nonionic, mild detergent widely used for membrane protein solubilization and crystallization. It has a dodecyl (C12) hydrophobic tail and a maltoside hydrophilic headgroup, giving it excellent membrane protein extraction properties while preserving native protein structure. DDM is one of the most commonly used detergents in membrane protein structural biology.
 
 
 ## Properties
 
-- **Chemical name**: n-dodecyl-beta-D-maltopyranoside
-- **Chemical formula**: C26H48O12
-- **Molecular weight**: 532.65 g/mol
-- **Class**: nonionic alkyl maltoside
 
 ## Use in Membrane Protein Work
 
-### Membrane protein solubilization for TRPV6 crystallization
+### Membrane protein crystallization
 
-DDM at 20 mM was used to solubilize TRPV6_cryst from crude membranes of
-HEK 293S cells. After ultracentrifugation to remove insoluble material, the
-supernatant was incubated with streptavidin-linked resin in the presence of
-DDM. The final size exclusion chromatography buffer contained 0.5 mM DDM,
-which was maintained throughout purification to keep the tetrameric channel
-in solution.
+DDM is commonly used at low concentrations (0.03-0.2% w/v) in crystallization setups to maintain protein solubility and stability. It was used at 0.03% (w/v) in the crystallization of DinF-BH MATE transporter, where it was included in both the protein sample and reservoir solution.
 
 
-### Solubilization of ADIPOR1 and ADIPOR2 receptors
+### Membrane protein purification
 
-DDM was used at 1% (w/v) for solubilization of N-terminally truncated
-ADIPOR2 (residues 100-386) and ADIPOR1 (residues 89-375) from Sf9 insect
-cell membranes. The solubilization buffer contained 20 mM HEPES pH 7.5,
-100 mM NaCl, 1% DDM, and 0.1% CHS. For purification, detergent was adjusted
-to 0.5% DDM with 0.05% CHS for anti-Flag affinity chromatography. The final
-elution buffer contained 0.025% DDM with 0.0001% CHS.
-
-
-### Solubilization of VKOR from Synechococcus sp.
-
-DDM at 1% was used to solubilize the membrane fraction containing VKOR from
-Synechococcus sp. Expressing the VKOR-Trx fusion in BL21(DE3) E. coli, the
-membrane fraction was solubilized in 1% DDM with 20 mM Tris/HCl pH 7.5 and
-0.3 M NaCl. After Ni-affinity chromatography, the detergent concentration was
-reduced to 0.04% DDM for SEC purification, with the final sample concentrated
-to approximately 20 mg/ml for crystallization.
-
-
-### Photosynthetic supercomplex solubilization
-
-beta-DDM is used for solubilizing [PSI-LHCI from Chlamydomonas reinhardtii](/xray-mp-wiki/proteins/psi-lhci-chlamydomonas/) supercomplexes from Chlamydomonas reinhardtii thylakoid membranes. The mild detergent preserves the intact [PSI-LHCI from Chlamydomonas reinhardtii](/xray-mp-wiki/proteins/psi-lhci-chlamydomonas/) supercomplex structure, allowing isolation of complexes with 4-10 LHCI antenna complexes bound.
-
-
-### Cryoprotection in X-ray crystallography
-
-beta-DDM (0.05% w/v) is included in the cryoprotection solution for [PSI-LHCI from Chlamydomonas reinhardtii](/xray-mp-wiki/proteins/psi-lhci-chlamydomonas/) crystals to maintain protein stability during freezing. The detergent prevents crystal damage during the cryoprotectant exchange procedure.
-
-
-### Solubilization of HmuUV haem transporter
-
-DDM (0.01% w/v) was used to solubilize the HmuUV type II ABC haem transporter from E. coli BL21 Gold (DE3) membranes. HmuUV was purified using Ni-NTA Superflow affinity chromatography in 10 mM Tris-HCl pH 8.0, 150 mM NaCl, 0.5 mM EDTA-NaOH pH 8.0, and 0.01% DDM. The detergent was maintained throughout crystallization in detergent solution for X-ray structure determination at 3.0 A resolution.
+DDM is frequently used throughout purification workflows, including affinity chromatography and size-exclusion chromatography steps, to maintain membrane protein integrity in detergent solution.
 
 
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Epithelial Calcium Channel TRPV6 | 20 mM (solubilization), 0.5 mM (SEC and final buffer) | Solubilization of TRPV6_cryst from HEK 293S cell membranes followed by streptavidin affinity purification and size exclusion chromatography | Tetrameric TRPV6 channel purified at 2.5-3.0 mg/ml for crystallization |
-| Adiponectin Receptor 2 (ADIPOR2) | 1% (solubilization), 0.5% (affinity chromatography), 0.025% (elution) | Solubilization of ADIPOR2-scFv complex from Sf9 insect cells; combined with 0.1% CHS for solubilization and 0.05% CHS for purification | ADIPOR2 purified at concentrations suitable for LCP crystallization; structures solved at 2.4 A and 3.0 A resolution |
-| LeuT Amino Acid Transporter from Aquifex aeolicus | 40 mM (solubilization), 0.05% (SEC and final buffer) | Membrane solubilization with 40 mM DDM for 1 h at 4 C; final SEC buffer contained 0.05% DDM; LeuT crystallized in 0.05% DDM at pH 6.5 and 5.0 | Three crystal structures determined (PDB 5JAE at 2.50 A, 5JAF at 3.08 A, 5JAG at 2.58 A) revealing outward-oriented Na+-free return state |
-| /xray-mp-wiki/proteins/acrB/ | 0.03% (purification), 0.03% (SEC buffer), 0.03% (crystallization buffer) | DDM co-crystallized with AcrB/DARPin complex in the presence of fusidic acid; DDM molecules bind to the TM1/TM2 groove distal to fusidic acid in each of the L, T, and O protomers; the DDM alkyl chain is located at 6-9 A distance to three methionine side chains (M20 on TM1, M395 and M398 on TM2) | DDM observed in each protomer at the TM1/TM2 groove; in the T state the maltose headgroup is clamped by hydrogen bonding with Asn298, Asp301, and Lys334; DDM appears to interact with fusidic acid via its alkyl chain, potentially stabilizing the ligand binding |
-| [SMO-FLA Fusion Construct](/xray-mp-wiki/proteins/smoothened-fla-fusion/) | 1% (w/v) for solubilization | Solubilization of SMO-FLA fusion construct from HEK293F cell membranes combined with 0.2% (w/v) CHS for 2.5 h at 4 C | Successful solubilization of multi-domain SMO receptor for IMAC purification with subsequent detergent exchange to LMNG |
-| VKOR from Synechococcus sp. | 1% (solubilization), 0.04% (SEC buffer) | Solubilization of VKOR-Trx fusion from BL21(DE3) E. coli membrane fraction in 20 mM Tris/HCl pH 7.5, 0.3 M NaCl; purified by Ni-affinity chromatography and SEC in 0.04% DDM | Protein concentrated to 20 mg/ml for crystallization; three electron-transfer state structures captured (Cys50Ala at 2.8 A, Cys212Ala at 4.2 A, Cys56Ala at 3.6 A) |
-| PSI-LHCI from Chlamydomonas reinhardtii | not specified (used for solubilization) | Solubilization of PSI-LHCI from Chlamydomonas reinhardtii from thylakoid membranes followed by sucrose density gradient purification | Intact PSI-LHCI from Chlamydomonas reinhardtii supercomplex isolated for crystallography and cryo-EM |
-| HmuUV | 0.01% (purification and crystallization) | DDM (Anatrace) used to solubilize HmuUV from E. coli BL21 Gold (DE3) membranes; purified by Ni-NTA Superflow affinity chromatography in 0.01% DDM; maintained in crystallization buffer | HmuUV crystallized in detergent solution; X-ray structure solved at 3.0 A (P2_1) using mercury derivative SIRAS phasing |
-| Human Smoothened Receptor | 0.1% (w/v) | Solubilization of BRIL-deltaCRD-SMO-deltaC from Sf9 insect cell membranes in 50 mM HEPES pH 7.5, 100 mM NaCl | Successful solubilization of SMO-ligand complexes (SMO-SANT1, SMO-Anta XV, SMO-SAG1.5) for Ni-NTA affinity purification and SEC; structures solved at 2.6-2.8 A resolution (PDB 4N4W, 4QIM, 4QIN) |
+| [DinF-BH](/xray-mp-wiki/proteins/abc-transporters/dinf-bh/) | 0.03% (w/v) | Crystallization of DinF-BH MATE transporter; DDM included in both protein sample and reservoir solution | Crystals of apo DinF-BH diffracting to 3.2 Å resolution |
+| [hGPR40](/xray-mp-wiki/proteins/gpcr/hgpr40/) | 1% (w/v) | Initial membrane solubilization of hGPR40 triple mutant T4L fusion; later exchanged to LMNG during IMAC | Solubilized receptor suitable for purification |
+| [pmUlaA](/xray-mp-wiki/proteins/enzymes/pmulaa/) | 1% (w/v) | Membrane solubilization of Pasteurella multocida ascorbate transporter EIIC with 2 mM ascorbic acid | Solubilized transporter for Ni-NTA purification |
+| [MurJ_TA](/xray-mp-wiki/proteins/abc-transporters/murj-ta-thermosiphon-africanus/) | 30 mM | Membrane extraction of MurJ_TA prior to cobalt affinity chromatography | Solubilized MurJ_TA for purification and crystallization |
+| [Vcx1](/xray-mp-wiki/proteins/slc-transporters/vcx1/) | 1:0.19 (w/w) DDM:protein for solubilization; 0.1% in affinity buffers; 0.03% in SEC | Solubilization of Vcx1 from S. cerevisiae membranes; maintained in DDM throughout purification and crystallization | Purified Vcx1 suitable for LCP crystallization and structure determination at 2.3 Å resolution |
+| [NmEptA](/xray-mp-wiki/proteins/enzymes/nm-epta/) | Purified in DDM throughout | Solubilization, Ni-NTA purification, and SEC of NmEptA from N. meningitidis; DDM-bound structure at 2.75 Å | Active full-length enzyme suitable for X-ray crystallography and biophysical studies |
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Very mild detergent that preserves native protein structure and activity
+- Well-characterized and reproducible membrane protein purification
+- High CMC (~0.17 mM) enabling easy removal by dialysis or detergent exchange
+- Compatible with a wide range of crystallization conditions
+
+### Disadvantages
+
+- Forms large micelles that may interfere with certain crystallization methods
+- Relatively large micelle size (~70 kDa) can obscure small protein domains in NMR
+- Not suitable for membrane protein mass spectrometry due to signal suppression
 
 ## Comparison with Related Reagents
 
@@ -95,10 +64,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [Epithelial Calcium Channel TRPV6](/xray-mp-wiki/proteins/trpv6/) — Primary solubilization detergent for TRPV6 crystallization construct
-- [Lauryl Maltose Neopentyl Glycol (LMNG)](/xray-mp-wiki/reagents/detergents/lmng/) — Related maltoside detergent with neopentyl glycol head group, milder alternative
-- [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/leut/) — DDM used for LeuT purification and crystallization in return state structures
-- [Fusidic Acid](/xray-mp-wiki/reagents/ligands/fusidic-acid/) — DDM co-crystallized with AcrB/fusidic acid; DDM binds in TM1/TM2 groove and interacts with fusidic acid alkyl chain
-- [PSI-LHCI from Chlamydomonas reinhardtii](/xray-mp-wiki/proteins/psi-lhci-chlamydomonas/) — Primary solubilization detergent for PSI-LHCI supercomplex
-- [Yersinia pestis Heme Transporter HmuUV](/xray-mp-wiki/proteins/hmuuv/) — DDM (0.01%) used for HmuUV solubilization, purification, and crystallization
-- [Stearoyl-CoA Desaturase-1 (hSCD1)](/xray-mp-wiki/proteins/stearoyl-coa-desaturase-1/) — DDM used for membrane solubilization (1%) and Ni-NTA elution (0.025%)
+- [DinF-BH](/xray-mp-wiki/proteins/abc-transporters/dinf-bh/) — Used for crystallization of the DinF-BH MATE transporter
+- [n-Decyl-beta-D-maltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Shorter-chain maltoside detergent, often used after DDM solubilization for crystallization

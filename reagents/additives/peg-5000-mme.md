@@ -1,7 +1,7 @@
 ---
 title: Polyethylene Glycol 5000 Monomethyl Ether (PEG 5000 MME)
-created: 2026-06-03
-updated: 2026-06-03
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -33,7 +33,7 @@ In TR-SFX experiments on Photosystem II from Thermosynechococcus vulcanus at SAC
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Photosystem II](/xray-mp-wiki/proteins/photosystem-ii/) | 9% (in cryoprotectant mix) | Cryoprotectant component for high viscosity micro-extrusion injector delivery at SACLA XFEL | Maintained crystal integrity during XFEL data collection at room temperature |
+| [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) | 9% (in cryoprotectant mix) | Cryoprotectant component for high viscosity micro-extrusion injector delivery at SACLA XFEL | Maintained crystal integrity during XFEL data collection at room temperature |
 
 ## Advantages and Disadvantages
 
@@ -45,5 +45,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [Photosystem II](/xray-mp-wiki/proteins/photosystem-ii/) — PEG 5000 MME used in cryoprotectant for TR-SFX experiments
+- [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) — PEG 5000 MME used in cryoprotectant for TR-SFX experiments
 - [Polyethylene Glycol 1450 (PEG 1450)](/xray-mp-wiki/reagents/additives/peg-1450/) — PEG 1450 used alongside PEG 5000 MME in cryoprotectant solution

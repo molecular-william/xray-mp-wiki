@@ -33,7 +33,7 @@ Cyclopamine was the first selective SMO ligand discovered and is referenced thro
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Smoothened Receptor](/xray-mp-wiki/proteins/smoothened/) | not specified | Referenced in structural comparison with SANT1, Anta XV, SAG1.5, LY2940680; binding pose shown in structural overlay | Cyclopamine binding site mapped in SMO transmembrane domain cavity |
+| [Human Smoothened Receptor](/xray-mp-wiki/proteins/gpcr/smoothened/) | not specified | Referenced in structural comparison with SANT1, Anta XV, SAG1.5, LY2940680; binding pose shown in structural overlay | Cyclopamine binding site mapped in SMO transmembrane domain cavity |
 
 ## Advantages and Disadvantages
 

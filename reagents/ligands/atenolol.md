@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/beta2-adrenergic-receptor/) | 30 uM | Atenolol was added during solubilization of Sf9 cell membranes containing the beta2 AR-T4L fusion protein. It was subsequently washed away during the M1-Flag affinity chromatography purification step. The receptor was then eluted with Flag peptide and EDTA.
+| [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) | 30 uM | Atenolol was added during solubilization of Sf9 cell membranes containing the beta2 AR-T4L fusion protein. It was subsequently washed away during the M1-Flag affinity chromatography purification step. The receptor was then eluted with Flag peptide and EDTA.
  | Stabilized beta2 AR-T4L during solubilization in DDM for subsequent purification and crystallization.
  |
 
@@ -49,4 +49,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/beta2-adrenergic-receptor/) — Beta2 AR stabilized with atenolol during purification
+- [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Beta2 AR stabilized with atenolol during purification

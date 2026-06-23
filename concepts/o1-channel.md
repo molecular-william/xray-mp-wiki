@@ -1,7 +1,7 @@
 ---
 title: O1 Water Channel of Photosystem II
-created: 2026-06-08
-updated: 2026-06-08
+created: 2026-06-11
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
@@ -24,11 +24,11 @@ During the S2 to S3 transition, specific waters in close proximity to the OEC (W
 The channel's two branches (A and B) are separated by the bottleneck region. In crystallization conditions containing glycerol or DMSO, these small cryoprotectant molecules can occupy positions in both branches of the O1 channel, potentially altering the water network and slightly reducing S-state turnover efficiency during the S2 to S3 and S3 to S0 transitions.
 
 ## Examples in Membrane Protein Work
-- [Photosystem II](/xray-mp-wiki/proteins/photosystem-ii/) — The 1.89 A room-temperature XFEL structure (PDB 7RF1) of PSII from Synechococcus elongatus provided the first high-resolution visualization of the O1 channel water pathway during the S2 to S3 transition. Waters W26, W27, W28, and W39 in the O1 channel show the most significant movement during this transition, with W39 becoming the newly inserted substrate water (Ox) at the open coordination site of Mn1.
+- [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) — The 1.89 A room-temperature XFEL structure (PDB 7RF1) of PSII from Synechococcus elongatus provided the first high-resolution visualization of the O1 channel water pathway during the S2 to S3 transition. Waters W26, W27, W28, and W39 in the O1 channel show the most significant movement during this transition, with W39 becoming the newly inserted substrate water (Ox) at the open coordination site of Mn1.
 
 ## Related Concepts
 
 
 ## Cross-References
-- [Photosystem II](/xray-mp-wiki/proteins/photosystem-ii/) — O1 channel is a structural feature of the PSII water oxidation machinery
+- [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) — O1 channel is a structural feature of the PSII water oxidation machinery
 - [Cl1 Proton Channel](/xray-mp-wiki/concepts/cl1-channel/) — Alternative channel in PSII proposed as proton release pathway

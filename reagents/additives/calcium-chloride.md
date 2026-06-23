@@ -1,33 +1,43 @@
 ---
-title: Calcium Chloride (CaCl₂)
-created: 2026-05-18
-updated: 2026-06-02
+title: Calcium Chloride (CaCl2)
+created: 2026-06-10
+updated: 2026-06-10
 type: reagent
 category: reagents
 layout: default
 tags: [additive-salt, subdirectory-additives]
-sources: [doi/10.1016##j.cell.2010.05.003, doi/10.1016##j.celrep.2015.04.045, doi/10.1016##j.jsbmb.2022.106228, doi/10.1038##nature04508]
+sources: [doi/10.1126##science.280.5360.69]
 verified: false
 ---
 
-# Calcium Chloride (CaCl₂)
+# Calcium Chloride (CaCl2)
 
 ## Overview
 
-Calcium chloride is a common inorganic salt used as a crystallization additive and buffer component in membrane protein crystallography. Ca²⁺ ions can stabilize protein structures and mediate crystal contacts.
+Calcium chloride (CaCl2) is an inorganic salt commonly used in membrane protein crystallization as a precipitant or additive. It can promote protein-protein interactions and crystal packing through divalent cation bridging.
 
 
 ## Properties
 
+- **Chemical name**: Calcium chloride
+- **Chemical formula**: CaCl2
+- **Molecular weight**: 110.98 g/mol
+- **Class**: additive
 
 ## Use in Membrane Protein Work
 
-No specific use cases documented.
+### Crystallization reservoir additive for KcsA
+
+CaCl2 at 200 mM was used in the crystallization reservoir for the
+original KcsA potassium channel structure determination (Doyle et al.,
+1998), along with 100 mM HEPES pH 7.5 and 48% PEG 400.
+
+
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| NaK Channel from Bacillus cereus | 200 mM | CaCl2 used as divalent salt in crystallization solution for NaK channel. Reservoir contained 36-42% PEG 400, 200 mM CaCl2, 100 mM Tris-HCl pH 7.5-8.5, 4% t-butanol. Also used in stabilization solutions for soaking experiments. | NaK crystals diffracted to 2.4 A (Na+ bound) and 2.8 A (K+ bound) resolution |
+| [KcsA Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/) | 200 mM | Crystallization reservoir additive for the first K+ channel X-ray structure | Crystals of KcsA in space group C2 diffracting to 3.2 A |
 
 ## Advantages and Disadvantages
 
@@ -39,5 +49,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [Magnesium Chloride](/xray-mp-wiki/reagents/additives/mgcl2/) — Similar divalent metal salt additive
-- [Potassium Fluoride](/xray-mp-wiki/reagents/additives/potassium-fluoride/) — Common crystallization additive salt
+- [KcsA Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/) — CaCl2 used as reservoir additive for KcsA crystallization

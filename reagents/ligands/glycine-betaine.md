@@ -39,7 +39,7 @@ Glycine betaine is the primary substrate for Na+-coupled symporters in the BCCT 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
 | betp | 250 microM | Glycine betaine is the natural substrate of BetP, a Na+/glycine betaine symporter from Corynebacterium glutamicum. Uptake was measured using [14C]-glycine betaine in DHPF C. glutamicum cells and in E. coli polar lipid proteoliposomes. Maximum uptake at optimum external osmolality was taken as 100%. The uptake was Na+-dependent and osmo-regulated. | Maximal uptake rate 100.8 nmol glycine betaine/min mg dry cells in C. glutamicum cells and 771 nmol glycine betaine/min mg protein in E. coli polar lipid proteoliposomes (WT BetP). |
-| [BetP (Na+/Betaine Symporter from Corynebacterium glutamicum)](/xray-mp-wiki/proteins/betp/) | 5 mM | Glycine betaine was used as a crystallization ligand for surface-engineered BetP mutant (BetP Delta N29/E44E45E46/AAA). Crystals diffracted to 3.1 A resolution (PDB 4AIN). In the closed substrate-bound state (C_cS), betaine binds at the S1 site forming cation-pi interactions with the tryptophan prism (Trp 373, Trp 374, Trp 377 in TMH6'). In the inward-open state (C_iS), betaine shifted towards the cytoplasm and interacted solely with Trp 377 in TMH6'. | Crystal structure at 3.1 A resolution (PDB 4AIN) capturing multiple conformational states of BetP including closed and inward-open states with betaine bound. |
+| [BetP (Na+/Betaine Symporter from Corynebacterium glutamicum)](/xray-mp-wiki/proteins/slc-transporters/betp/) | 5 mM | Glycine betaine was used as a crystallization ligand for surface-engineered BetP mutant (BetP Delta N29/E44E45E46/AAA). Crystals diffracted to 3.1 A resolution (PDB 4AIN). In the closed substrate-bound state (C_cS), betaine binds at the S1 site forming cation-pi interactions with the tryptophan prism (Trp 373, Trp 374, Trp 377 in TMH6'). In the inward-open state (C_iS), betaine shifted towards the cytoplasm and interacted solely with Trp 377 in TMH6'. | Crystal structure at 3.1 A resolution (PDB 4AIN) capturing multiple conformational states of BetP including closed and inward-open states with betaine bound. |
 
 ## Advantages and Disadvantages
 
@@ -51,7 +51,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [BetP](/xray-mp-wiki/proteins/betp/) — Primary substrate of BetP Na+/betaine symporter
+- [BetP](/xray-mp-wiki/proteins/slc-transporters/betp/) — Primary substrate of BetP Na+/betaine symporter
 - [BCCT Family](/xray-mp-wiki/concepts/bcct-family/) — Glycine betaine is the namesake substrate of the BCCT transporter family
 - [Sodium-Motive Force (SMF)](/xray-mp-wiki/concepts/sodium-motive-force/) — BCCT-mediated glycine betaine uptake is driven by sodium gradient
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used for BetP membrane solubilization and purification

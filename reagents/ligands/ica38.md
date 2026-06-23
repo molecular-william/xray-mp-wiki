@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [MmpL3](/xray-mp-wiki/proteins/mmpL3/) | 0.11 uM Kd | MST binding assay; crystal structure at 2.8 A resolution (PDB: 6AJJ) | Carbocyclic spiro group provides extensive hydrophobic interactions |
+| [MmpL3](/xray-mp-wiki/proteins/abc-transporters/mmpL3/) | 0.11 uM Kd | MST binding assay; crystal structure at 2.8 A resolution (PDB: 6AJJ) | Carbocyclic spiro group provides extensive hydrophobic interactions |
 
 ## Binding Mode
 

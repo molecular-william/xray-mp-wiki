@@ -26,7 +26,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/d-dopamine-transporter/) | 86 uM Ki | Cocrystal structure of dDAT_mfc in outward-open conformation bound to D-amphetamine | First visualization of amphetamine substrate bound to active DAT, explaining competitive inhibition with dopamine |
+| [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/slc-transporters/d-dopamine-transporter/) | 86 uM Ki | Cocrystal structure of dDAT_mfc in outward-open conformation bound to D-amphetamine | First visualization of amphetamine substrate bound to active DAT, explaining competitive inhibition with dopamine |
 
 ## Binding Mode
 
@@ -47,7 +47,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/d-dopamine-transporter/) — Primary protein target, substrate-bound structure reported
+- [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/slc-transporters/d-dopamine-transporter/) — Primary protein target, substrate-bound structure reported
 - [Methamphetamine](/xray-mp-wiki/reagents/ligands/methamphetamine/) — Related psychostimulant with similar binding mode
 - [Dopamine](/xray-mp-wiki/reagents/ligands/dopamine/) — Endogenous substrate that D-amphetamine competes with
 - [3,4-Dichlorophenethylamine (DCP)](/xray-mp-wiki/reagents/ligands/3-4-dichlorophenethylamine/) — Related phenethylamine derivative

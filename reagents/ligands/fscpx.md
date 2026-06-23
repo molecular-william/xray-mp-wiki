@@ -1,7 +1,7 @@
 ---
 title: FSCPX
-created: 2026-05-27
-updated: 2026-05-27
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -35,7 +35,7 @@ FSCPX was tested in thermal stability assays and promoted the largest increase i
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Adenosine A1 Receptor (A1AR)](/xray-mp-wiki/proteins/human-adenosine-a1-receptor-a1ar/) | not specified | Thermal stability assay; tested alongside DU172 and other ligands | ~16 C increase in Tm; highest thermal stabilization among tested ligands |
+| [Human Adenosine A1 Receptor (A1AR)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a1-receptor-a1ar/) | not specified | Thermal stability assay; tested alongside DU172 and other ligands | ~16 C increase in Tm; highest thermal stabilization among tested ligands |
 
 ## Advantages and Disadvantages
 
@@ -47,5 +47,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Adenosine A1 Receptor (A1AR)](/xray-mp-wiki/proteins/human-adenosine-a1-receptor-a1ar/) — Thermal stability assay ligand
+- [Human Adenosine A1 Receptor (A1AR)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a1-receptor-a1ar/) — Thermal stability assay ligand
 - [DU172](/xray-mp-wiki/reagents/ligands/du172/) — Related covalent xanthine antagonist; preferred for crystallization

@@ -1,7 +1,7 @@
 ---
 title: Sorbitol
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -28,7 +28,7 @@ Sorbitol (glucitol) is a sugar alcohol commonly used as an osmotic agent and sta
 
 ### Osmotic agent in 86Rb flux assays
 
-400 mM Sorbitol was used as the osmotic agent in the Sephadex G-50 gel filtration columns and in the 86Rb flux buffer (400 mM sorbitol, 10 mM HEPES pH 7.4, 4 mM NMG, 50 uM NaCl or KCl, 5 uM 86RbCl) for NaK channel flux measurements. The high sorbitol concentration maintained osmotic balance and prevented liposome swelling during the assay.
+400 mM Sorbitol was used as the osmotic agent in the Sephadex G-50 gel filtration columns and in the 86Rb flux buffer (400 mM sorbitol, 10 mM HEPES pH 7.4, 4 mM [NMG](/xray-mp-wiki/reagents/additives/n-methyl-d-glucamine/), 50 uM NaCl or KCl, 5 uM 86RbCl) for NaK channel flux measurements. The high sorbitol concentration maintained osmotic balance and prevented liposome swelling during the assay.
 
 
 ## Examples from This Wiki
@@ -44,4 +44,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [NaK Channel from Bacillus cereus](/xray-mp-wiki/proteins/nak-channel/) — Osmotic agent in NaK 86Rb flux assay buffers
+- [NaK Channel from Bacillus cereus](/xray-mp-wiki/proteins/voltage-gated-channels/nak-channel/) — Osmotic agent in NaK 86Rb flux assay buffers
+- [NMG](/xray-mp-wiki/reagents/additives/n-methyl-d-glucamine/) — Additive used in purification or crystallization buffers

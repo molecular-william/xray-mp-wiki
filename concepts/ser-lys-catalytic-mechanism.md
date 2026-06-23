@@ -1,7 +1,7 @@
 ---
 title: Ser/Lys Catalytic Mechanism
-created: 2026-05-27
-updated: 2026-05-27
+created: 2026-06-11
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
@@ -25,5 +25,5 @@ The ser-lys catalytic mechanism is found in rhomboid proteases and signal peptid
 
 
 ## Cross-References
-- [Glpg](/xray-mp-wiki/proteins/glpg/) — Rhomboid protease with ser-lys catalytic dyad
-- [Signal Peptide Peptidase A from Escherichia coli (SppA_EC)](/xray-mp-wiki/proteins/sppa-ec/) — First crystal structure of a Ser/Lys protease; tetrameric bowl-shaped assembly with catalytic dyad formed at domain interface
+- [Glpg](/xray-mp-wiki/proteins/enzymes/glpg/) — Rhomboid protease with ser-lys catalytic dyad
+- [Signal Peptide Peptidase A from Escherichia coli (SppA_EC)](/xray-mp-wiki/proteins/enzymes/sppa-ec/) — First crystal structure of a Ser/Lys protease; tetrameric bowl-shaped assembly with catalytic dyad formed at domain interface

@@ -1,12 +1,12 @@
 ---
 title: P-type ATPase Family
 created: 2026-05-29
-updated: 2026-06-02
+updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
 tags: [concept-protein-family, subdirectory-concepts]
-sources: [doi/10.1038##35015017, doi/10.1038##NSMB.2721, doi/10.1038##nature02680, doi/10.1038##ncomms9004]
+sources: [doi/10.1038##35015017, doi/10.1038##NSMB.2721, doi/10.1038##nature02680, doi/10.1038##ncomms9004, doi/10.1107##s2053230x1600279x]
 verified: false
 ---
 
@@ -20,10 +20,17 @@ P-type ATPases are a major family of ion-transporting ATPases that form a covale
 
 
 ## Examples in Membrane Protein Work
-
+- [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) (Sarcoplasmic Reticulum Ca2+-ATPase 1a) — First high-resolution structure of a P-type ATPase revealed 10 transmembrane helices and three cytoplasmic domains
+- Na+,K+-ATPase (Pig Kidney) — Another P-type ATPase that forms a covalent aspartyl-phosphate intermediate during transport cycle
+- V1-ATPase from Thermus thermophilus — Related ATPase family; V-type ATPases differ from P-type in mechanism but share structural features
+- LpCopA (Copper-Transporting P-type ATPase from Legionella pneumophila) — P_IB subfamily member; reveals unique ion-release pathway with proline-dependent opening mechanism
 
 ## Related Concepts
 
 
 ## Cross-References
-
+- [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — Related protein structure
+- [PIB-4-Type ATPase Family](/xray-mp-wiki/concepts/pib-4-atpase-family/) — PIB-4 is a subclass of heavy-metal transporting P-type ATPases
+- [Internal Counterion Mechanism in P-Type ATPases](/xray-mp-wiki/concepts/internal-counterion-mechanism/) — Internal counterion mechanism found in PIB-4 and PIB-2 ATPase subclasses
+- [P-type ATPase Mechanism](/xray-mp-wiki/concepts/p-type-atpase-mechanism/) — Related mechanism concept
+- [Ion Release Pathway](/xray-mp-wiki/concepts/ion-release-pathway/) — Related concept describing ion release in P-type ATPases

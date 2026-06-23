@@ -1,12 +1,13 @@
 ---
 title: Dioxane
 created: 2026-05-18
-updated: 2026-05-22
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
-tags: [additive-stabilizer]
-sources: [doi/10.1016##j.jmb.2012.03.020]
+tags: [additive-stabilizer, subdirectory-additives]
+sources: [doi/10.1016##j.jmb.2013.04.022]
+verified: false
 ---
 
 # Dioxane
@@ -37,6 +38,3 @@ No comparison data available.
 
 - [MPD](/xray-mp-wiki/reagents/additives/mpd/) — Common organic crystallization additive
 - [Trehalose](/xray-mp-wiki/reagents/additives/trehalose/) — Cryoprotectant additive
-
-
----

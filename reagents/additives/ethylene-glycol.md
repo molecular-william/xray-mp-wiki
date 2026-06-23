@@ -30,7 +30,7 @@ Ethylene glycol (ethane-1,2-diol) is a small polyol compound used as a cryoprote
 
 ### Crystallization cryoprotectant
 
-Ethylene glycol is used as a cryoprotectant in the crystallization reservoir solution for rhomboid protease GlpG. In the bicelle crystallization of active GlpG Y205F, the reservoir buffer contained 5% ethylene glycol along with 0.1 M NaOAc (pH 5.5) and 3 M NaCl.
+Ethylene glycol is used as a cryoprotectant in the crystallization reservoir solution for rhomboid protease [GLPG](/xray-mp-wiki/proteins/enzymes/glpg/). In the [Bicelle Crystallization](/xray-mp-wiki/methods/crystallization/bicelle-crystallization/) of active [GLPG](/xray-mp-wiki/proteins/enzymes/glpg/) Y205F, the reservoir buffer contained 5% ethylene glycol along with 0.1 M NaOAc (pH 5.5) and 3 M NaCl.
 
 
 ## Examples from This Wiki
@@ -46,5 +46,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [GlpG Rhomboid Intramembrane Protease](/xray-mp-wiki/proteins/glpg/) — Used in GlpG bicelle crystallization reservoir
+- [GlpG Rhomboid Intramembrane Protease](/xray-mp-wiki/proteins/enzymes/glpg/) — Used in GlpG bicelle crystallization reservoir
 - [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Similar polyol cryoprotectant
+- [Bicelle Crystallization](/xray-mp-wiki/methods/crystallization/bicelle-crystallization/) — Method used in structure determination or purification

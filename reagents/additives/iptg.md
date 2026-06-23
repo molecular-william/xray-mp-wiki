@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Isopropyl-beta-D-thiogalactopyranoside (IPTG or IPTG) is a non-metabolizable analog of allolactose that acts as an inducer of the lac operon. It binds to the LacI repressor protein, causing a conformational change that releases repression of the lac operon. IPTG is widely used for inducible protein expression in E. coli systems employing lac-based promoters (e.g., T7/lac promoters in pET vectors). Unlike lactose, IPTG is not metabolized by beta-galactosidase, providing stable induction.
+Isopropyl-beta-D-thiogalactopyranoside ([IPTG](/xray-mp-wiki/reagents/additives/isopropyl-beta-d-thiogalactoside/) or [IPTG](/xray-mp-wiki/reagents/additives/isopropyl-beta-d-thiogalactoside/)) is a non-metabolizable analog of allolactose that acts as an inducer of the lac operon. It binds to the LacI repressor protein, causing a conformational change that releases repression of the lac operon. [IPTG](/xray-mp-wiki/reagents/additives/isopropyl-beta-d-thiogalactoside/) is widely used for inducible protein expression in E. coli systems employing lac-based promoters (e.g., T7/lac promoters in pET vectors). Unlike lactose, [IPTG](/xray-mp-wiki/reagents/additives/isopropyl-beta-d-thiogalactoside/) is not metabolized by beta-galactosidase, providing stable induction.
 
 
 ## Properties
@@ -28,7 +28,7 @@ Isopropyl-beta-D-thiogalactopyranoside (IPTG or IPTG) is a non-metabolizable ana
 
 ### IPTG induction of EcSemiSWEET expression
 
-E. coli SemiSWEET expression was induced with 0.2 mM IPTG when the culture reached OD600 = 0.6. After induction, cells were grown for 20 h at 20 C before harvesting for protein purification.
+E. coli [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet/) expression was induced with 0.2 mM [IPTG](/xray-mp-wiki/reagents/additives/isopropyl-beta-d-thiogalactoside/) when the culture reached OD600 = 0.6. After induction, cells were grown for 20 h at 20 C before harvesting for protein purification.
 
 
 ## Examples from This Wiki
@@ -44,4 +44,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [EcSemiSWEET](/xray-mp-wiki/proteins/ec-semisweet/) — IPTG used for induction of EcSemiSWEET expression in E. coli Rosetta 2 cells
+- [EcSemiSWEET](/xray-mp-wiki/proteins/miscellaneous/ec-semisweet/) — IPTG used for induction of EcSemiSWEET expression in E. coli Rosetta 2 cells
+- [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet/) — Related biological concept
+- [IPTG](/xray-mp-wiki/reagents/additives/isopropyl-beta-d-thiogalactoside/) — Additive used in purification or crystallization buffers

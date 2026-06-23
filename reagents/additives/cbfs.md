@@ -1,7 +1,7 @@
 ---
 title: CBFS (8-(chloromercuri)-2-dibenzofuransulfonic acid)
-created: 2026-05-28
-updated: 2026-05-28
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -36,4 +36,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [GLIC](/xray-mp-wiki/proteins/glic/) — Used to covalently label N152C mutant, mimicking ketamine binding and validating the anesthetic binding site
+- [GLIC](/xray-mp-wiki/proteins/cys-loop-receptors/glic/) — Used to covalently label N152C mutant, mimicking ketamine binding and validating the anesthetic binding site

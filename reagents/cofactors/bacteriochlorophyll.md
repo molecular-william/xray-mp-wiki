@@ -1,7 +1,7 @@
 ---
 title: Bacteriochlorophyll
-created: 2026-06-04
-updated: 2026-06-04
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -34,7 +34,7 @@ No specific use cases documented.
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
 | Rhodobacter sphaeroides Reaction Centre with Zn-BChl | 6 Zn-BChl molecules per RC complex | BChl replaced with Zn-BChl in bchD mutant background | Enables study of coordination state effects on electron transfer kinetics |
-| [Blastochloris viridis Photosynthetic Reaction Centre](/xray-mp-wiki/proteins/blastochloris-viridis-photosynthetic-reaction-centre/) | not specified | Bacteriochlorophyll cofactors in the special pair of RC_vir; electron density maps at 3.5 A show unbroken bacteriochlorophyll tails | SFX structure (PDB 4CAS) at 3.5 A resolution; clear electron density for BChl special pair |
+| [Blastochloris viridis Photosynthetic Reaction Centre](/xray-mp-wiki/proteins/photosynthesis/blastochloris-viridis-photosynthetic-reaction-centre/) | not specified | Bacteriochlorophyll cofactors in the special pair of RC_vir; electron density maps at 3.5 A show unbroken bacteriochlorophyll tails | SFX structure (PDB 4CAS) at 3.5 A resolution; clear electron density for BChl special pair |
 
 ## Binding Mode
 
@@ -54,5 +54,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [Rhodobacter sphaeroides Reaction Centre with Zn-Bacteriochlorophyll](/xray-mp-wiki/proteins/rhodobacter-sphaeroides-reaction-centre-zn-bchl/) — Primary source of Zn-BChl structural data
-- [Rps. viridis Photosynthetic Reaction Centre](/xray-mp-wiki/proteins/rps-viridis-reaction-centre/) — Contains native BChl-b cofactors in crystal structure
+- [Rhodobacter sphaeroides Reaction Centre with Zn-Bacteriochlorophyll](/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-centre-zn-bchl/) — Primary source of Zn-BChl structural data
+- [Rps. viridis Photosynthetic Reaction Centre](/xray-mp-wiki/proteins/photosynthesis/rps-viridis-reaction-centre/) — Contains native BChl-b cofactors in crystal structure

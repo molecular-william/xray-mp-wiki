@@ -36,7 +36,7 @@ At pH 7.4, MitTx application induces a slow inward current in cells expressing t
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [ASIC1a](/xray-mp-wiki/proteins/asic1a/) | 600 nM alpha, 300 nM beta | Co-crystallized with chicken delta13 ASIC1a construct at pH 5.5, three structures solved (4NTW, 4NTX, 4NTY) | Open state structure of ASIC1a captured at 2.1-2.6 A resolution |
+| [ASIC1a](/xray-mp-wiki/proteins/other-ion-channels/asic1a/) | 600 nM alpha, 300 nM beta | Co-crystallized with chicken delta13 ASIC1a construct at pH 5.5, three structures solved (4NTW, 4NTX, 4NTY) | Open state structure of ASIC1a captured at 2.1-2.6 A resolution |
 
 ## Binding Mode
 
@@ -55,6 +55,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Acid-Sensing Ion Channel 1a](/xray-mp-wiki/proteins/asic1a/) — Primary target of MitTx; co-crystallized in open state
+- [Acid-Sensing Ion Channel 1a](/xray-mp-wiki/proteins/other-ion-channels/asic1a/) — Primary target of MitTx; co-crystallized in open state
 - [Amiloride](/xray-mp-wiki/reagents/ligands/amiloride/) — Used in crystallization with MitTx-bound ASIC1a (4NTX structure)
 - [Sodium Channel Gating and Selectivity](/xray-mp-wiki/concepts/sodium-channel-gating/) — MitTx stabilizes open state of sodium-selective channel

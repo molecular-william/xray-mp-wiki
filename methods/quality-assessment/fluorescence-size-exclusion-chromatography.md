@@ -6,7 +6,7 @@ type: method
 category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
-sources: [doi/10.1038##nmeth.1251, doi/10.1038##NATURE11683, doi/10.1038##NATURE12179, doi/10.1038##nature06163, doi/10.1038##nature10737, doi/10.1038##nature12357]
+sources: [doi/10.1038##nmeth.1251, doi/10.1038##NATURE11683, doi/10.1038##NATURE12179, doi/10.1038##nature06163, doi/10.1038##nature10737, doi/10.1038##nature12357, doi/10.1073##pnas.2024651118]
 verified: false
 ---
 
@@ -59,9 +59,9 @@ Membrane proteins are expressed in E. coli as N-terminal or C-terminal fusions t
 
 | Protein | Resolution | PDB | Notes |
 |---|---|---|---|
-| [Aquifex aeolicus TatC](/xray-mp-wiki/proteins/tatc/) | N/A | N/A | FSEC used to identify LMNG as the optimal detergent for maintaining A. aeolicus TatC-GFP fusion protein in a monodisperse state. SEC-MALLS confirmed that LMNG maintained TatC in monodisperse form after TEV protease cleavage of the GFP tag. |
-| [Chicken Acid-Sensing Ion Channel 1a (cASIC1)](/xray-mp-wiki/proteins/asic1a/) | N/A | 3HV4 | FSEC used to screen N- and C-terminally EGFP-tagged chicken ASIC1 and delta ASIC1 constructs. Whole cells solubilized in phosphate buffered saline with 20 mM DDM and protease inhibitors for 1 h. Supernatant loaded onto Superose 6 10/300 column equilibrated with 20 mM Tris pH 8.0, 150 mM NaCl, and 1 mM DDM. Delta ASIC1-EGFP fusion showed a monodisperse peak, guiding subsequent purification and crystallization. |
-| [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/leut/) | N/A | N/A | FSEC used to characterize conformation-specific Fab binding to LeuT variants. 2B12 Fab bound LeuT^K in the presence of 10 mM leucine and 200 mM NaCl (left shift of peak retention volume), but not in apo state. 6A10 Fab bound LeuT^K(TSY) in the absence of leucine and sodium, but not in their presence. Titration experiments with molar excess of Fab (0x to 10x) confirmed conformation specificity of both Fabs. |
+| [Aquifex aeolicus TatC](/xray-mp-wiki/proteins/flat/tatc/) | N/A | N/A | FSEC used to identify LMNG as the optimal detergent for maintaining A. aeolicus TatC-GFP fusion protein in a monodisperse state. SEC-MALLS confirmed that LMNG maintained TatC in monodisperse form after TEV protease cleavage of the GFP tag. |
+| [Chicken Acid-Sensing Ion Channel 1a (cASIC1)](/xray-mp-wiki/proteins/other-ion-channels/asic1a/) | N/A | 3HV4 | FSEC used to screen N- and C-terminally EGFP-tagged chicken ASIC1 and delta ASIC1 constructs. Whole cells solubilized in phosphate buffered saline with 20 mM DDM and protease inhibitors for 1 h. Supernatant loaded onto Superose 6 10/300 column equilibrated with 20 mM Tris pH 8.0, 150 mM NaCl, and 1 mM DDM. Delta ASIC1-EGFP fusion showed a monodisperse peak, guiding subsequent purification and crystallization. |
+| [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) | N/A | N/A | FSEC used to characterize conformation-specific Fab binding to LeuT variants. 2B12 Fab bound LeuT^K in the presence of 10 mM leucine and 200 mM NaCl (left shift of peak retention volume), but not in apo state. 6A10 Fab bound LeuT^K(TSY) in the absence of leucine and sodium, but not in their presence. Titration experiments with molar excess of Fab (0x to 10x) confirmed conformation specificity of both Fabs. |
 
 ## Related Methods
 

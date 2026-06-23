@@ -15,9 +15,9 @@ verified: false
 ## Overview
 
 17beta-Estradiol (E2) is the most potent endogenous estrogen steroid hormone. It is
-biosynthesized from estrone (E1) via reduction catalyzed by 17beta-hydroxysteroid
-dehydrogenase type 1 (17HSD1). E1 is itself produced from estrone sulfate (E1S)
-through hydrolysis by steroid sulfatase (hSTS). Local biosynthesis of E2 from
+biosynthesized from [E1](/xray-mp-wiki/reagents/ligands/estrone/) (E1) via reduction catalyzed by 17beta-hydroxysteroid
+dehydrogenase type 1 (17HSD1). E1 is itself produced from [E1](/xray-mp-wiki/reagents/ligands/estrone/) sulfate (E1S)
+through hydrolysis by [Steroid Sulfatase (hSTS)](/xray-mp-wiki/proteins/enzymes/steroid-sulfatase/). Local biosynthesis of E2 from
 E1S has been proposed as the major cause of high levels of active estrogens in
 the breast of post-menopausal women, making the hSTS-E1-E2 pathway a therapeutic
 target in breast cancer.
@@ -50,6 +50,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Steroid Sulfatase (hSTS)](/xray-mp-wiki/proteins/steroid-sulfatase/) — E2 is the final product of hSTS-E1-E2 pathway
+- [Steroid Sulfatase (hSTS)](/xray-mp-wiki/proteins/enzymes/steroid-sulfatase/) — E2 is the final product of hSTS-E1-E2 pathway
 - [Estrone (E1)](/xray-mp-wiki/reagents/ligands/estrone/) — E1 is reduced to E2 by 17HSD1; E1 is the direct precursor
 - [Dihydrotestosterone (DHT)](/xray-mp-wiki/reagents/ligands/dht/) — Parallel androgen pathway from DHEAS through DHEA to DHT

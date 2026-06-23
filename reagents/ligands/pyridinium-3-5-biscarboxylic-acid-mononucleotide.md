@@ -26,7 +26,7 @@ Pyridinium-3,5-biscarboxylic acid mononucleotide (P2CMN) is the direct product o
 
 P2CMN is the product of the LarB-catalyzed reaction, produced by carboxylation of
 NaAD at C5 and subsequent phosphoanhydride hydrolysis. The production of P2CMN was
-monitored by LC-ESI-MS with m/z 378.02. The WT LarB produced P2CMN at a rate 3.8
+monitored by LC-ESI-MS with m/z 378.02. The WT [LarB (Lactiplantibacillus plantarum)](/xray-mp-wiki/proteins/enzymes/larB/) produced P2CMN at a rate 3.8
 times faster than the S127A variant, consistent with the S127A variant's reduced
 hydrolysis activity.
 
@@ -35,7 +35,7 @@ hydrolysis activity.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| LarB (Lactiplantibacillus plantarum) | transient | LC-ESI-MS detection of reaction product | Identified as product of LarB-catalyzed NaAD reaction with m/z 378.02 |
+| [LarB (Lactiplantibacillus plantarum)](/xray-mp-wiki/proteins/enzymes/larB/) | transient | LC-ESI-MS detection of reaction product | Identified as product of LarB-catalyzed NaAD reaction with m/z 378.02 |
 
 ## Advantages and Disadvantages
 
@@ -47,6 +47,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [LarB](/xray-mp-wiki/proteins/larB/) — Enzyme that produces P2CMN from NaAD
+- [LarB](/xray-mp-wiki/proteins/enzymes/larB/) — Enzyme that produces P2CMN from NaAD
 - [NaAD](/xray-mp-wiki/reagents/cofactors/nicotinic-acid-adenine-dinucleotide/) — Substrate that is converted to P2CMN by LarB
 - [DaAD](/xray-mp-wiki/reagents/ligands/dinicotinic-acid-adenine-dinucleotide/) — Intermediate that is hydrolyzed to form P2CMN

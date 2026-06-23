@@ -26,7 +26,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/d-dopamine-transporter/) | 98 uM Ki | Cocrystal structure of dDAT_mfc in outward-open conformation bound to cocaine | First visualization of cocaine bound to active DAT, revealing tropane inhibitor binding mode |
+| [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/slc-transporters/d-dopamine-transporter/) | 98 uM Ki | Cocrystal structure of dDAT_mfc in outward-open conformation bound to cocaine | First visualization of cocaine bound to active DAT, revealing tropane inhibitor binding mode |
 
 ## Binding Mode
 
@@ -47,7 +47,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/d-dopamine-transporter/) — Primary protein target, cocrystal structure reported
+- [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/slc-transporters/d-dopamine-transporter/) — Primary protein target, cocrystal structure reported
 - [RTI-55](/xray-mp-wiki/reagents/ligands/rti-55/) — Related tropane-based inhibitor with iodophenyl group
 - [beta-CFT (CFT)](/xray-mp-wiki/reagents/ligands/beta-cft/) — Related tropane inhibitor with fluorophenyl group
 - [Nortriptyline](/xray-mp-wiki/reagents/ligands/nortriptyline/) — Tricyclic antidepressant inhibitor that binds overlapping site

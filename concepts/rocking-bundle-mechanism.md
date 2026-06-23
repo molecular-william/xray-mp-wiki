@@ -29,5 +29,6 @@ The rocking-bundle mechanism involves coordinated conformational changes of tran
 ## Cross-References
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Rocking-bundle is a mode of achieving alternating access
 - [Elevator Mechanism](/xray-mp-wiki/concepts/elevator-mechanism/) — SLC23 transporters combine elevator and rocking-bundle motions
-- [Uracil:Proton Symporter UraA](/xray-mp-wiki/proteins/uraA/) — SLC23 transporter exhibiting combined rocking-bundle and elevator motions
+- [Uracil:Proton Symporter UraA](/xray-mp-wiki/proteins/slc-transporters/uraA/) — SLC23 transporter exhibiting combined rocking-bundle and elevator motions
 - [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/rocker-switch-mechanism/) — Related domain rotation mechanism in MFS transporters
+- [LEUT](/xray-mp-wiki/proteins/enzymes/leut/) — Related protein structure

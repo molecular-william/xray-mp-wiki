@@ -1,7 +1,7 @@
 ---
 title: Salvinorin A
-created: 2026-05-27
-updated: 2026-05-27
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -27,10 +27,10 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Kappa Opioid Receptor](/xray-mp-wiki/proteins/kappa-opioid-receptor/) | 341 nM EC50 for nanobody recruitment | BRET assay for KOP-Nb6/7 dissociation screening | SalA stimulation caused dissociation of inactive-state nanobody Nb6/7 from KOP |
-| [Kappa Opioid Receptor](/xray-mp-wiki/proteins/kappa-opioid-receptor/) | 10.2 nM EC50, 100% Emax | Nb39 recruitment to KOP measured by BRET | SalA is a full agonist that recruits active-state nanobody Nb39 |
-| [Kappa Opioid Receptor](/xray-mp-wiki/proteins/kappa-opioid-receptor/) | 0.033 nM EC50, 98% Emax for Gi activation | cAMP inhibition assay | Potent G protein activation, used as reference full agonist |
-| [Kappa Opioid Receptor](/xray-mp-wiki/proteins/kappa-opioid-receptor/) | 10 uM | Used during immunization to generate KOP-specific nanobodies | KOP-SalA liposomes used to immunize llamas for nanobody library generation |
+| [Kappa Opioid Receptor](/xray-mp-wiki/proteins/gpcr/kappa-opioid-receptor/) | 341 nM EC50 for nanobody recruitment | BRET assay for KOP-Nb6/7 dissociation screening | SalA stimulation caused dissociation of inactive-state nanobody Nb6/7 from KOP |
+| [Kappa Opioid Receptor](/xray-mp-wiki/proteins/gpcr/kappa-opioid-receptor/) | 10.2 nM EC50, 100% Emax | Nb39 recruitment to KOP measured by BRET | SalA is a full agonist that recruits active-state nanobody Nb39 |
+| [Kappa Opioid Receptor](/xray-mp-wiki/proteins/gpcr/kappa-opioid-receptor/) | 0.033 nM EC50, 98% Emax for Gi activation | cAMP inhibition assay | Potent G protein activation, used as reference full agonist |
+| [Kappa Opioid Receptor](/xray-mp-wiki/proteins/gpcr/kappa-opioid-receptor/) | 10 uM | Used during immunization to generate KOP-specific nanobodies | KOP-SalA liposomes used to immunize llamas for nanobody library generation |
 
 ## Binding Mode
 
@@ -61,4 +61,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [Kappa Opioid Receptor](/xray-mp-wiki/proteins/kappa-opioid-receptor/) — Selective full agonist used in nanobody screening and functional assays
+- [Kappa Opioid Receptor](/xray-mp-wiki/proteins/gpcr/kappa-opioid-receptor/) — Selective full agonist used in nanobody screening and functional assays

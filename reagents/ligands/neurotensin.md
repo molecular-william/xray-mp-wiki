@@ -6,7 +6,7 @@ type: reagent
 category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
-sources: [doi/10.1038##nature11558, doi/10.1038##ncomms8895]
+sources: [doi/10.1038##nature11558, doi/10.1038##ncomms8895, doi/10.1073##PNAS.1317903111]
 verified: false
 ---
 
@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Rat Neurotensin Receptor 1 (NTSR1)](/xray-mp-wiki/proteins/neurotensin-receptor-1/) | 2.5 nM (NTSR1-GW5 Kd), 1.5 nM (wild-type Kd) | [3H]NTS used in saturation binding experiments with wild-type and thermostabilized NTSR1-GW5 constructs. The thermostabilized construct showed similar agonist affinity to wild-type. NTS(8-13) peptide was used for crystallography, binding deep within the transmembrane bundle.
+| [Rat Neurotensin Receptor 1 (NTSR1)](/xray-mp-wiki/proteins/gpcr/neurotensin-receptor-1/) | 2.5 nM (NTSR1-GW5 Kd), 1.5 nM (wild-type Kd) | [3H]NTS used in saturation binding experiments with wild-type and thermostabilized NTSR1-GW5 constructs. The thermostabilized construct showed similar agonist affinity to wild-type. NTS(8-13) peptide was used for crystallography, binding deep within the transmembrane bundle.
  | First crystal structure of a neurotensin receptor in complex with its agonist peptide at 2.80 A resolution, revealing the molecular basis for agonist recognition
  |
 
@@ -49,6 +49,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Rat Neurotensin Receptor 1 (NTSR1)](/xray-mp-wiki/proteins/neurotensin-receptor-1/) — Primary endogenous ligand for NTSR1
+- [Rat Neurotensin Receptor 1 (NTSR1)](/xray-mp-wiki/proteins/gpcr/neurotensin-receptor-1/) — Primary endogenous ligand for NTSR1
 - [SR48692](/xray-mp-wiki/reagents/ligands/sr48692/) — Non-peptide antagonist competing with neurotensin at NTSR1
 - [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) — Related bioactive peptide ligand used in GPCR structural studies

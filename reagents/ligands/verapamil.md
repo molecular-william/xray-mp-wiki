@@ -1,7 +1,7 @@
 ---
 title: Verapamil
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -47,6 +47,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [CaVAb Bacterial Voltage-Gated Calcium Channel](/xray-mp-wiki/proteins/ca-vab/) — Structural studies reveal verapamil binding in the central cavity of the pore
+- [CaVAb Bacterial Voltage-Gated Calcium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/ca-vab/) — Structural studies reveal verapamil binding in the central cavity of the pore
 - [Br-Verapamil](/xray-mp-wiki/reagents/ligands/br-verapamil/) — Brominated derivative used for crystallographic structure determination
-- [C. elegans P-glycoprotein (P-gp)](/xray-mp-wiki/proteins/c-elegans-p-glycoprotein/) — Prototypical P-gp substrate identified in ATPase stimulation assays
+- [C. elegans P-glycoprotein (P-gp)](/xray-mp-wiki/proteins/abc-transporters/c-elegans-p-glycoprotein/) — Prototypical P-gp substrate identified in ATPase stimulation assays

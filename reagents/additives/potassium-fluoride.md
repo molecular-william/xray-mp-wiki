@@ -1,7 +1,7 @@
 ---
 title: Potassium Fluoride (KF)
 created: 2026-05-18
-updated: 2026-05-27
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -36,5 +36,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [Magnesium Chloride](/xray-mp-wiki/reagents/additives/mgcl2/) — Common crystallization salt additive
+- [Magnesium Chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Common crystallization salt additive
 - [Calcium Chloride](/xray-mp-wiki/reagents/additives/calcium-chloride/) — Common crystallization salt additive

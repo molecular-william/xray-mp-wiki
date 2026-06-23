@@ -1,7 +1,7 @@
 ---
 title: Cl1 Proton Channel of Photosystem II
-created: 2026-06-08
-updated: 2026-06-08
+created: 2026-06-11
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
@@ -26,11 +26,11 @@ The open state is stabilized by a newly formed hydrogen bond between E65 and R33
 Water molecules in the Cl1 channel have lower mobility (B-factor average 27 A^2) compared to the O1 channel, and Fo-Fc peaks appear only near the bulk water on the lumen side. This lower mobility, combined with the reversible motion of D1-E65, makes the Cl1 channel more suitable as a proton pathway rather than a water intake channel.
 
 ## Examples in Membrane Protein Work
-- [Photosystem II](/xray-mp-wiki/proteins/photosystem-ii/) — The 1.89 A room-temperature XFEL structure (PDB 7RF1) of PSII revealed the D1-E65 proton gate mechanism. During the S2 to S3 transition, D1-E65 rotates ~50 degrees (at 150 microseconds after second flash) to open the proton gate, then rotates back at 250 microseconds. This gating action enables proton release while preventing back-reaction, with W150 serving as a transient water chain component.
+- [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) — The 1.89 A room-temperature XFEL structure (PDB 7RF1) of PSII revealed the D1-E65 proton gate mechanism. During the S2 to S3 transition, D1-E65 rotates ~50 degrees (at 150 microseconds after second flash) to open the proton gate, then rotates back at 250 microseconds. This gating action enables proton release while preventing back-reaction, with W150 serving as a transient water chain component.
 
 ## Related Concepts
 
 
 ## Cross-References
-- [Photosystem II](/xray-mp-wiki/proteins/photosystem-ii/) — Cl1 channel is a structural feature of the PSII water oxidation machinery
+- [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) — Cl1 channel is a structural feature of the PSII water oxidation machinery
 - [O1 Water Channel](/xray-mp-wiki/concepts/o1-channel/) — Alternative channel in PSII proposed as water intake pathway

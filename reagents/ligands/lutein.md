@@ -14,20 +14,20 @@ verified: false
 
 ## Overview
 
-Lutein is a major carotenoid pigment found in photosynthetic light-harvesting complexes. It serves as both a light-harvesting antenna pigment and a photoprotective agent that quenches triplet states of chlorophyll to prevent the formation of harmful singlet oxygen. Lutein is the most abundant carotenoid in the LHC-II complex, with two molecules bound per monomer in specific central binding sites.
+Lutein is a major [Carotenoid](/xray-mp-wiki/reagents/ligands/carotenoid/) pigment found in photosynthetic light-harvesting complexes. It serves as both a light-harvesting antenna pigment and a photoprotective agent that quenches triplet states of chlorophyll to prevent the formation of harmful singlet oxygen. Lutein is the most abundant [Carotenoid](/xray-mp-wiki/reagents/ligands/carotenoid/) in the [LHC-II](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/) complex, with two molecules bound per monomer in specific central binding sites.
 
 ## Properties
 
 - **Chemical name**: (3R,3'R,5R)-3,3'-dihydroxy-alpha-carotene
 - **Chemical formula**: C40H56O2
 - **Molecular weight**: 568.87 g/mol
-- **Class**: xanthophyll carotenoid
+- **Class**: xanthophyll [Carotenoid](/xray-mp-wiki/reagents/ligands/carotenoid/)
 
 ## Use in Membrane Protein Work
 
 ### Light harvesting in LHC-II
 
-Two lutein molecules (Lut 1 and Lut 2) are bound per monomer in the central location of each LHC-II polypeptide. They are arranged coplanar with chlorophylls 2 and 5 respectively at interplane distances of 3.5 and 3.6 A, enabling efficient energy transfer and triplet quenching.
+Two lutein molecules (Lut 1 and Lut 2) are bound per monomer in the central location of each [LHC-II](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/) polypeptide. They are arranged coplanar with chlorophylls 2 and 5 respectively at interplane distances of 3.5 and 3.6 A, enabling efficient energy transfer and triplet quenching.
 
 
 ### Photoprotection via triplet quenching
@@ -48,6 +48,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Pea Light-Harvesting Complex II](/xray-mp-wiki/proteins/pea-light-harvesting-complex-ii/) — Major binding partner; two lutein molecules per monomer
+- [Pea Light-Harvesting Complex II](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/) — Major binding partner; two lutein molecules per monomer
 - [Neoxanthin](/xray-mp-wiki/reagents/ligands/neoxanthin/) — Another carotenoid bound in LHC-II with a peripheral binding site
 - [Violaxanthin](/xray-mp-wiki/reagents/ligands/violaxanthin/) — Xanthophyll carotenoid also bound in LHC-II at the monomer interface
+- [Carotenoid](/xray-mp-wiki/reagents/ligands/carotenoid/) — Related ligand or cofactor

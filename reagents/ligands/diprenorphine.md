@@ -46,4 +46,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Delta-Opioid Receptor (OPRD1)](/xray-mp-wiki/proteins/delta-opioid-receptor/) — Opioid antagonist characterized in delta-opioid receptor binding assays
+- [Human Delta-Opioid Receptor (OPRD1)](/xray-mp-wiki/proteins/gpcr/delta-opioid-receptor/) — Opioid antagonist characterized in delta-opioid receptor binding assays

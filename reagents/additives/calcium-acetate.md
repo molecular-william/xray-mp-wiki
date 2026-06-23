@@ -1,7 +1,7 @@
 ---
 title: Calcium Acetate
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -35,8 +35,8 @@ Used at 0.2 M in sitting drop vapor diffusion crystallization of truncated E. co
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/thermus-thermophilus-a-atpase-peripheral-stalk/ | 200 mM | Crystallization reservoir solution | Small needle crystals obtained after 48 hours |
-| [XylE (E. coli Sugar Transporter)](/xray-mp-wiki/proteins/xyle/) | 0.2 M (crystallization), 2.5 mM (tag cleavage) | Crystallization: 0.2 M calcium acetate with 20% PEG 600 at pH 4.2; Tag cleavage: 2.5 mM CaCl2 for thrombin protease activity | Inward-facing open conformation solved at 3.5 A (PDB 4QIQ); His-tag removal from XylE |
+| /xray-mp-wiki/proteins/pumps-atpases/thermus-thermophilus-a-atpase-peripheral-stalk/ | 200 mM | Crystallization reservoir solution | Small needle crystals obtained after 48 hours |
+| [XylE (E. coli Sugar Transporter)](/xray-mp-wiki/proteins/mfs-transporters/xyle/) | 0.2 M (crystallization), 2.5 mM (tag cleavage) | Crystallization: 0.2 M calcium acetate with 20% PEG 600 at pH 4.2; Tag cleavage: 2.5 mM CaCl2 for thrombin protease activity | Inward-facing open conformation solved at 3.5 A (PDB 4QIQ); His-tag removal from XylE |
 
 ## Advantages and Disadvantages
 

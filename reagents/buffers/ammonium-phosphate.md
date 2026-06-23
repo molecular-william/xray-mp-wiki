@@ -6,7 +6,7 @@ type: reagent
 category: reagents
 layout: default
 tags: [buffer-phosphate, subdirectory-buffers]
-sources: [doi/10.1016##j.jsbmb.2022.106228]
+sources: [doi/10.1016##j.jsbmb.2022.106228, doi/10.1021##acs.jmedchem.5b00892]
 verified: false
 ---
 
@@ -33,14 +33,14 @@ H142 on the enzyme surface.
 
 ### hSTS crystallization precipitant
 
-Ammonium phosphate (monobasic) at 0.10-0.20 M concentration was essential for crystallization of human placental steroid sulfatase (hSTS). The crystallization reservoir contained 100 mM Tris-HCl (pH 8.5), 0.10-0.20 M ammonium phosphate (monobasic), and 0.3% n-octyl-beta-D-glucopyranoside (BOG). The phosphate ion also binds at H142 on the hSTS surface, forming hydrogen bonds with side chains from H142, W558, K556, S108, and N551, and two water molecules from each monomer.
+Ammonium phosphate (monobasic) at 0.10-0.20 M concentration was essential for crystallization of human placental [Steroid Sulfatase (hSTS)](/xray-mp-wiki/proteins/enzymes/steroid-sulfatase/). The crystallization reservoir contained 100 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) (pH 8.5), 0.10-0.20 M ammonium phosphate (monobasic), and 0.3% n-octyl-beta-D-glucopyranoside (BOG). The phosphate ion also binds at H142 on the hSTS surface, forming hydrogen bonds with side chains from H142, W558, K556, S108, and N551, and two water molecules from each monomer.
 
 
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Steroid Sulfatase (hSTS) | 0.10-0.20 M | Crystallization reservoir (100 mM Tris-HCl pH 8.5, 0.10-0.20 M ammonium phosphate monobasic, 0.3% BOG) | Essential for crystallization; phosphate ion binds at H142 on enzyme surface |
+| [Steroid Sulfatase (hSTS)](/xray-mp-wiki/proteins/enzymes/steroid-sulfatase/) | 0.10-0.20 M | Crystallization reservoir (100 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.5, 0.10-0.20 M ammonium phosphate monobasic, 0.3% BOG) | Essential for crystallization; phosphate ion binds at H142 on enzyme surface |
 
 ## Advantages and Disadvantages
 
@@ -54,3 +54,5 @@ No comparison data available.
 
 - [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Co-used in hSTS crystallization (100 mM Tris-HCl pH 8.5)
 - [Sodium Phosphate](/xray-mp-wiki/reagents/buffers/sodium-phosphate/) — Related phosphate buffer used in membrane protein crystallization
+- [Steroid Sulfatase (hSTS)](/xray-mp-wiki/proteins/enzymes/steroid-sulfatase/) — Related protein structure
+- [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) — Buffer component in purification or crystallization

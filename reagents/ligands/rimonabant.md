@@ -27,8 +27,8 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [MmpL3](/xray-mp-wiki/proteins/mmpL3/) | 29 uM Kd | MST binding assay; crystal structure at 2.9 A resolution (PDB: 6AJI) | Unique binding mode distinct from CB1 receptor; breaks Asp-Tyr pairs |
-| [Cannabinoid Receptor 1 (CNR1/CB1)](/xray-mp-wiki/proteins/cnr1/) | Ki = 4.8 nM (wild-type CB1) | Inverse agonist used in CB1 structural studies; compared to taranabant | Overlapping binding mode with taranabant in CB1 orthosteric pocket |
+| [MmpL3](/xray-mp-wiki/proteins/abc-transporters/mmpL3/) | 29 uM Kd | MST binding assay; crystal structure at 2.9 A resolution (PDB: 6AJI) | Unique binding mode distinct from CB1 receptor; breaks Asp-Tyr pairs |
+| [Cannabinoid Receptor 1 (CNR1/CB1)](/xray-mp-wiki/proteins/gpcr/cnr1/) | Ki = 4.8 nM (wild-type CB1) | Inverse agonist used in CB1 structural studies; compared to taranabant | Overlapping binding mode with taranabant in CB1 orthosteric pocket |
 
 ## Binding Mode
 

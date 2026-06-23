@@ -1,7 +1,7 @@
 ---
 title: Hydroxyapatite Chromatography
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-06-11
 type: method
 category: methods
 layout: default
@@ -20,4 +20,4 @@ Hydroxyapatite chromatography is a separation technique that exploits the affini
 
 | Protein | Resolution | PDB | Notes |
 |---|---|---|---|
-| [EcHyd-1](/xray-mp-wiki/proteins/ec-hyd-1/) | 3.3 A | 4GD3 | Final purification step after Superdex 200; eluted at high phosphate concentration |
+| [EcHyd-1](/xray-mp-wiki/proteins/enzymes/ec-hyd-1/) | 3.3 A | 4GD3 | Final purification step after Superdex 200; eluted at high phosphate concentration |

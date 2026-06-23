@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Zebrafish P2X4 Receptor (zfP2X4)](/xray-mp-wiki/proteins/zfp2x4/) | 100 uM GdCl3 | GdCl3 was applied during whole-cell patch-clamp recordings of zfP2X4. At 100 uM, Gd3+ completely blocked ATP-evoked currents at all tested ATP concentrations (30 uM, 100 uM, 1 mM). The inhibition was voltage-independent (tested at +100 mV and -120 mV) and concentration-dependent, with complete block at 30 uM ATP and partial block at higher ATP concentrations.
+| [Zebrafish P2X4 Receptor (zfP2X4)](/xray-mp-wiki/proteins/other-ion-channels/zfp2x4/) | 100 uM GdCl3 | GdCl3 was applied during whole-cell patch-clamp recordings of zfP2X4. At 100 uM, Gd3+ completely blocked ATP-evoked currents at all tested ATP concentrations (30 uM, 100 uM, 1 mM). The inhibition was voltage-independent (tested at +100 mV and -120 mV) and concentration-dependent, with complete block at 30 uM ATP and partial block at higher ATP concentrations.
  | Complete abolition of 30 uM ATP-evoked currents; partial inhibition of 100 uM ATP currents; no apparent effect on 1 mM ATP currents. Increased rate of deactivation observed in the presence of GdCl3.
  |
 
@@ -41,6 +41,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Zebrafish P2X4 Receptor (zfP2X4)](/xray-mp-wiki/proteins/zfp2x4/) — Primary model for Gd3+ inhibition studies; concentration-dependent block characterized
+- [Zebrafish P2X4 Receptor (zfP2X4)](/xray-mp-wiki/proteins/other-ion-channels/zfp2x4/) — Primary model for Gd3+ inhibition studies; concentration-dependent block characterized
 - [Adenosine Triphosphate (ATP)](/xray-mp-wiki/reagents/ligands/atp/) — Orthosteric agonist; Gd3+ inhibition tested against ATP-evoked currents
 - [P2X Receptor Family](/xray-mp-wiki/concepts/p2x-receptor-family/) — Gd3+ is a characteristic pharmacological inhibitor of P2X receptors

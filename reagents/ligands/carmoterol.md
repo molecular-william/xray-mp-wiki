@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Turkey Beta1-Adrenergic Receptor Thermostabilized Mutant M23 (beta1AR-M23) | 1.9 mg/ml CHS co-crystallized | Co-crystallized with turkey beta1AR-M23 in bicine pH 9.0 buffer with 26% PEG 600 precipitant and 0.65% HEGA-10 detergent. CHS at 1.9 mg/ml was added from a 10 mg/ml stock in 2% HEGA-10 immediately prior to crystallization. | Structure solved at 2.6 A resolution (PDB: implied by car7), representing the active agonist-bound conformation |
+| Turkey Beta1-Adrenergic Receptor Thermostabilized Mutant M23 (beta1AR-M23) | 1.9 mg/ml [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) co-crystallized | Co-crystallized with turkey beta1AR-M23 in bicine pH 9.0 buffer with 26% [PEG 600](/xray-mp-wiki/reagents/additives/peg-600/) precipitant and 0.65% [HEGA-10](/xray-mp-wiki/reagents/detergents/hega-10/) detergent. [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) at 1.9 mg/ml was added from a 10 mg/ml stock in 2% [HEGA-10](/xray-mp-wiki/reagents/detergents/hega-10/) immediately prior to crystallization. | Structure solved at 2.6 A resolution (PDB: implied by car7), representing the active agonist-bound conformation |
 
 ## Binding Mode
 
@@ -48,10 +48,13 @@ No comparison data available.
 
 ## Cross-References
 
-- [Turkey Beta1-Adrenergic Receptor M23](/xray-mp-wiki/proteins/turkey-beta1-ar-m23/) — Carmoterol is the co-crystallized agonist ligand for the beta1AR-M23 structure
-- [Turkey Beta1-Adrenergic Receptor Thermostabilized Mutant M23 with Cyanopindolol (2VT4)](/xray-mp-wiki/proteins/turkey-beta1-ar-m23-2vt4/) — Related beta1AR-M23 structure with antagonist cyanopindolol
+- [Turkey Beta1-Adrenergic Receptor M23](/xray-mp-wiki/proteins/gpcr/turkey-beta1-ar-m23/) — Carmoterol is the co-crystallized agonist ligand for the beta1AR-M23 structure
+- [Turkey Beta1-Adrenergic Receptor Thermostabilized Mutant M23 with Cyanopindolol (2VT4)](/xray-mp-wiki/proteins/gpcr/turkey-beta1-ar-m23-2vt4/) — Related beta1AR-M23 structure with antagonist cyanopindolol
 - [Isoprenaline](/xray-mp-wiki/reagents/ligands/isoprenaline/) — Related beta-adrenergic agonist ligand
 - [Dobutamine](/xray-mp-wiki/reagents/ligands/dobutamine/) — Related beta-adrenergic agonist ligand
 - [Salbutamol](/xray-mp-wiki/reagents/ligands/salbutamol/) — Related beta-adrenergic agonist ligand
 - [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) — Antagonist ligand for beta1AR used in related structure determination
 - [Cholesterol Hydrogen Succinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Lipid additive used in crystallization of beta1AR-M23 with carmoterol
+- [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Additive used in purification or crystallization buffers
+- [PEG 600](/xray-mp-wiki/reagents/additives/peg-600/) — Additive used in purification or crystallization buffers
+- [HEGA-10](/xray-mp-wiki/reagents/detergents/hega-10/) — Detergent used in purification or crystallization

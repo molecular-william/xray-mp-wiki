@@ -37,8 +37,8 @@ PreScission protease provides an alternative to TEV protease for tag cleavage, u
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Interleukin-17A (IL-17A) | not specified | IL-17A construct (residues 34-155) with N68D and C129S mutations expressed with CD33 signal peptide, APP6-tag, and PreScission recognition sequence (LEVLFQGP); tag cleavage to produce mature cytokine for biophysical studies
- | PreScission protease cleavage produced mature IL-17A for ITC and SEC-MALS experiments
+| Interleukin-17A ([IL-17A](/xray-mp-wiki/proteins/receptors-signaling/il-17a/)) | not specified | [IL-17A](/xray-mp-wiki/proteins/receptors-signaling/il-17a/) construct (residues 34-155) with N68D and C129S mutations expressed with CD33 signal peptide, APP6-tag, and PreScission recognition sequence (LEVLFQGP); tag cleavage to produce mature cytokine for biophysical studies
+ | PreScission protease cleavage produced mature [IL-17A](/xray-mp-wiki/proteins/receptors-signaling/il-17a/) for [ITC](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/) and [SEC-MALS](/xray-mp-wiki/methods/quality-assessment/sec-mals/) experiments
  |
 
 ## Advantages and Disadvantages
@@ -53,4 +53,6 @@ No comparison data available.
 
 - [TEV Protease](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) — Alternative site-specific protease for tag cleavage
 - [bRIL Fusion Protein](/xray-mp-wiki/reagents/protein-tags/bril/) — Fusion tag strategy that may require protease cleavage
-- [Interleukin-17A (IL-17A)](/xray-mp-wiki/proteins/il-17a/) — IL-17A construct uses PreScission protease for tag removal
+- [Interleukin-17A (IL-17A)](/xray-mp-wiki/proteins/receptors-signaling/il-17a/) — IL-17A construct uses PreScission protease for tag removal
+- [ITC](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/) — Method used in structure determination or purification
+- [SEC-MALS](/xray-mp-wiki/methods/quality-assessment/sec-mals/) — Method used in structure determination or purification

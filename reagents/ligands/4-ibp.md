@@ -29,7 +29,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Human Sigma-1 Receptor (SIGMAR1) | 1 uM in purification and crystallization buffer | Co-crystallized with human sigma-1 receptor in lipidic cubic phase; used at 1 uM in all purification steps | 3.2 A resolution crystal structure (PDB 5HK2), P21212 space group; iodine atom enabled unambiguous ligand pose determination via anomalous scattering |
+| Human Sigma-1 Receptor ([SIGMAR1](/xray-mp-wiki/proteins/receptors-signaling/sigma-1-receptor/)) | 1 uM in purification and crystallization buffer | Co-crystallized with human sigma-1 receptor in lipidic cubic phase; used at 1 uM in all purification steps | 3.2 A resolution crystal structure (PDB 5HK2), P21212 space group; iodine atom enabled unambiguous ligand pose determination via anomalous scattering |
 
 ## Advantages and Disadvantages
 
@@ -41,6 +41,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Sigma-1 Receptor (SIGMAR1)](/xray-mp-wiki/proteins/sigma-1-receptor/) — Co-crystallized ligand for sigma-1 receptor structure (PDB 5HK2)
+- [Human Sigma-1 Receptor (SIGMAR1)](/xray-mp-wiki/proteins/receptors-signaling/sigma-1-receptor/) — Co-crystallized ligand for sigma-1 receptor structure (PDB 5HK2)
 - [PD144418](/xray-mp-wiki/reagents/ligands/pd144418/) — First ligand co-crystallized with sigma-1 receptor at 2.5 A (PDB 5HK1)
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used for co-crystallization with sigma-1 receptor

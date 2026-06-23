@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-DHPC (1,2-dihexanoyl-sn-glycero-3-phosphocholine) is a zwitterionic detergent derived from phosphatidylcholine with two 6-carbon (hexanoyl) acyl chains. It is commonly used for solubilizing membrane proteins and is particularly useful in crystallization studies where its short acyl chains and zwitterionic head group provide a mild environment. DHPC is frequently used in combination with other detergents to optimize membrane protein crystallization conditions.
+DHPC (1,2-dihexanoyl-sn-glycero-3-phosphocholine) is a zwitterionic detergent derived from [Phosphatidylcholine](/xray-mp-wiki/reagents/lipids/phosphatidylcholine/) with two 6-carbon (hexanoyl) acyl chains. It is commonly used for solubilizing membrane proteins and is particularly useful in crystallization studies where its short acyl chains and zwitterionic head group provide a mild environment. DHPC is frequently used in combination with other detergents to optimize membrane protein crystallization conditions.
 
 
 ## Properties
@@ -22,7 +22,7 @@ DHPC (1,2-dihexanoyl-sn-glycero-3-phosphocholine) is a zwitterionic detergent de
 - **Chemical name**: 1,2-dihexanoyl-sn-glycero-3-phosphocholine
 - **Chemical formula**: C26H52NO8P
 - **Molecular weight**: 506.66 g/mol
-- **Class**: zwitterionic phosphatidylcholine
+- **Class**: zwitterionic [Phosphatidylcholine](/xray-mp-wiki/reagents/lipids/phosphatidylcholine/)
 - **CMC**: Not specified
 - **Head group**: phosphocholine
 - **Tail length**: 6 carbons (hexanoyl, 2 chains)
@@ -50,6 +50,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Aquifex aeolicus TatC](/xray-mp-wiki/proteins/tatc/) — DHPC used for TatC crystallization (PDB 4HTS)
+- [Aquifex aeolicus TatC](/xray-mp-wiki/proteins/flat/tatc/) — DHPC used for TatC crystallization (PDB 4HTS)
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Related nonionic detergent, longer chain, also used for TatC crystallization (PDB 4HTT)
 - [Lauryl Maltose Neopentyl Glycol (LMNG)](/xray-mp-wiki/reagents/detergents/lmng/) — Related neopentyl glycol detergent family
+- [Phosphatidylcholine](/xray-mp-wiki/reagents/lipids/phosphatidylcholine/) — Additive used in purification or crystallization buffers

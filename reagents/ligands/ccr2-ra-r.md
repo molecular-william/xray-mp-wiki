@@ -1,7 +1,7 @@
 ---
 title: CCR2-RA-[R]
-created: 2026-06-03
-updated: 2026-06-03
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -29,7 +29,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| CC Chemokine Receptor 2 with T4 Lysozyme Fusion (CCR2-T4L) | crystallization concentration not specified; used in binding assays | Co-crystallized with CCR2-T4L and BMS-681 in LCP at 2.8 A resolution | Binds intracellular allosteric pocket; sterically interferes with G-protein binding; cooperatively stabilizes inactive conformation with BMS-681 |
+| CC Chemokine Receptor 2 with T4 Lysozyme Fusion ([CCR2-T4L](/xray-mp-wiki/proteins/gpcr/ccr2-t4l/)) | crystallization concentration not specified; used in binding assays | Co-crystallized with [CCR2-T4L](/xray-mp-wiki/proteins/gpcr/ccr2-t4l/) and [BMS-681](/xray-mp-wiki/reagents/ligands/bms-681/) in LCP at 2.8 A resolution | Binds intracellular allosteric pocket; sterically interferes with G-protein binding; cooperatively stabilizes inactive conformation with [BMS-681](/xray-mp-wiki/reagents/ligands/bms-681/) |
 
 ## Binding Mode
 
@@ -46,7 +46,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [CC Chemokine Receptor 2 with T4 Lysozyme Fusion (CCR2-T4L)](/xray-mp-wiki/proteins/ccr2-t4l/) — Co-crystallized allosteric antagonist; primary binding target
+- [CC Chemokine Receptor 2 with T4 Lysozyme Fusion (CCR2-T4L)](/xray-mp-wiki/proteins/gpcr/ccr2-t4l/) — Co-crystallized allosteric antagonist; primary binding target
 - [BMS-681](/xray-mp-wiki/reagents/ligands/bms-681/) — Orthosteric antagonist that cooperates with CCR2-RA-[R] to stabilize inactive CCR2
 - [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/allosteric-regulation/) — CCR2-RA-[R] is a paradigm example of negative allosteric modulation in GPCRs
 - [GPCR Inactive Conformation](/xray-mp-wiki/concepts/gpcr-inactive-conformation/) — CCR2-RA-[R] blocks activation-associated conformational changes

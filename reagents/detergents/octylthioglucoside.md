@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Octylthioglucoside (OG or OTG) is a mild nonionic detergent with an 8-carbon alkyl chain and a thioglucoside head group. It is commonly used for solubilizing and crystallizing membrane proteins, including GPCRs. In the turkey beta1-adrenergic receptor structure determination, octylthioglucoside was used for the detergent exchange on alprenolol sepharose chromatography and as the crystallization detergent.
+Octylthioglucoside (OG or OTG) is a mild nonionic detergent with an 8-carbon alkyl chain and a thioglucoside head group. It is commonly used for solubilizing and crystallizing membrane proteins, including GPCRs. In the turkey beta1-adrenergic receptor structure determination, octylthioglucoside was used for the detergent exchange on [Alprenolol](/xray-mp-wiki/reagents/ligands/alprenolol/) sepharose chromatography and as the crystallization detergent.
 
 
 ## Properties
@@ -28,14 +28,14 @@ Octylthioglucoside (OG or OTG) is a mild nonionic detergent with an 8-carbon alk
 
 ### GPCR crystallization detergent
 
-Octylthioglucoside was used as the crystallization detergent for the turkey beta1AR-M23 structure (PDB: 2VT4). The receptor was solubilized in decylmaltoside and then exchanged to octylthioglucoside on an alprenolol sepharose column. Purified receptor at 5.5-6.0 mg/ml in 0.35% octylthioglucoside was used for crystallization by hanging drop vapour diffusion at 18 C.
+Octylthioglucoside was used as the crystallization detergent for the turkey beta1AR-M23 structure (PDB: 2VT4). The receptor was solubilized in [DM](/xray-mp-wiki/reagents/detergents/dm/) and then exchanged to octylthioglucoside on an [Alprenolol](/xray-mp-wiki/reagents/ligands/alprenolol/) sepharose column. Purified receptor at 5.5-6.0 mg/ml in 0.35% octylthioglucoside was used for crystallization by hanging drop vapour diffusion at 18 C.
 
 
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Turkey Beta1-Adrenergic Receptor Thermostabilized Mutant M23 with Cyanopindolol (2VT4) | 0.35% | Detergent for solubilization and crystallization of beta1AR-M23 | Crystals grown by hanging drop vapour diffusion at 18 C, solved at 2.7 A resolution (PDB: 2VT4) |
+| Turkey Beta1-Adrenergic Receptor Thermostabilized Mutant M23 with [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) (2VT4) | 0.35% | Detergent for solubilization and crystallization of beta1AR-M23 | Crystals grown by hanging drop vapour diffusion at 18 C, solved at 2.7 A resolution (PDB: 2VT4) |
 
 ## Advantages and Disadvantages
 
@@ -47,7 +47,9 @@ No comparison data available.
 
 ## Cross-References
 
-- [Turkey Beta1-Adrenergic Receptor Thermostabilized Mutant M23 with Cyanopindolol (2VT4)](/xray-mp-wiki/proteins/turkey-beta1-ar-m23-2vt4/) — Octylthioglucoside used for crystallization of beta1AR-M23
-- [Decylmaltoside](/xray-mp-wiki/reagents/detergents/decylmaltoside/) — Related detergent used for initial solubilization before detergent exchange to octylthioglucoside
+- [Turkey Beta1-Adrenergic Receptor Thermostabilized Mutant M23 with Cyanopindolol (2VT4)](/xray-mp-wiki/proteins/gpcr/turkey-beta1-ar-m23-2vt4/) — Octylthioglucoside used for crystallization of beta1AR-M23
+- [Decylmaltoside](/xray-mp-wiki/reagents/detergents/dm/) — Related detergent used for initial solubilization before detergent exchange to octylthioglucoside
 - [N-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Related nonionic maltoside detergent, longer chain
 - [N-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — Related nonionic glucoside detergent, non-thio variant
+- [Alprenolol](/xray-mp-wiki/reagents/ligands/alprenolol/) — Related ligand or cofactor
+- [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) — Related ligand or cofactor

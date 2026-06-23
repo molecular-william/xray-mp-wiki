@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Desvenlafaxine is a serotonin-noradrenaline reuptake inhibitor (SNRI) antidepressant, the primary active metabolite of venlafaxine. It acts by blocking both the serotonin transporter (SERT) and norepinephrine transporter (NET). Desvenlafaxine binds to the primary binding pocket of biogenic amine transporters with a characteristic orientation of its cyclohexanol and phenol rings.
+Desvenlafaxine is a serotonin-noradrenaline reuptake inhibitor (SNRI) antidepressant, the primary active metabolite of venlafaxine. It acts by blocking both the [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) transporter ([SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/)) and [Norepinephrine](/xray-mp-wiki/reagents/ligands/norepinephrine/) transporter (NET). Desvenlafaxine binds to the primary binding pocket of [Biogenic Amine Transporters](/xray-mp-wiki/concepts/biogenic-amine-transporters/) with a characteristic orientation of its cyclohexanol and phenol rings.
 
 
 ## Properties
@@ -27,11 +27,11 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/leubat/ | 20 mM (crystal soaking) | Delta13 LeuBAT crystal structure determination | Solved outward-facing open conformation; cyclohexanol ring sandwiched by hydrophobic residues |
+| /xray-mp-wiki/proteins/slc-transporters/leubat/ | 20 mM (crystal soaking) | Delta13 [LEUBAT](/xray-mp-wiki/proteins/slc-transporters/leubat/) crystal structure determination | Solved outward-facing open conformation; cyclohexanol ring sandwiched by hydrophobic residues |
 
 ## Binding Mode
 
-### Binding to Delta13 LeuBAT (LeuT engineered mutant)
+### Binding to Delta13 [LEUBAT](/xray-mp-wiki/proteins/slc-transporters/leubat/) ([LEUT](/xray-mp-wiki/proteins/enzymes/leut/) engineered mutant)
 
 Cyclohexanol ring is sandwiched by hydrophobic groups Tyr21, Val104, Phe259 and Tyr108. The phenol ring protrudes into the extracellular vestibule and interacts with Phe253 by edge-to-face interactions. The hydroxyl group in the cyclohexanol moiety makes a hydrogen bond with the main-chain carbonyl group of Ser355. The phenol hydroxyl interacts with Asp404 and the phenol group of Tyr107. The amine group interacts with the carboxyl group of Asp24.
 
@@ -45,3 +45,10 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [Biogenic Amine Transporters](/xray-mp-wiki/concepts/biogenic-amine-transporters/) — Related biological concept
+- [LEUBAT](/xray-mp-wiki/proteins/slc-transporters/leubat/) — Related protein structure
+- [LEUT](/xray-mp-wiki/proteins/enzymes/leut/) — Related protein structure
+- [SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/) — Related protein structure
+- [Norepinephrine](/xray-mp-wiki/reagents/ligands/norepinephrine/) — Related ligand or cofactor
+- [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) — Related ligand or cofactor

@@ -26,7 +26,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/d-dopamine-transporter/) | 4.5 uM Ki | Cocrystal structure of dDAT_mfc in partially occluded conformation bound to DCP | First visualization of substrate-induced partial occlusion in DAT, supporting alternating access mechanism |
+| [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/slc-transporters/d-dopamine-transporter/) | 4.5 uM Ki | Cocrystal structure of dDAT_mfc in partially occluded conformation bound to DCP | First visualization of substrate-induced partial occlusion in DAT, supporting alternating access mechanism |
 
 ## Binding Mode
 
@@ -47,7 +47,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/d-dopamine-transporter/) — Primary protein target, DCP-bound structure shows partial occlusion
+- [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/slc-transporters/d-dopamine-transporter/) — Primary protein target, DCP-bound structure shows partial occlusion
 - [Dopamine](/xray-mp-wiki/reagents/ligands/dopamine/) — DCP is isosteric analogue of dopamine, higher affinity and oxidative stability
 - [D-Amphetamine](/xray-mp-wiki/reagents/ligands/d-amphetamine/) — Related phenethylamine derivative
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — DCP-induced partial occlusion supports alternating access in NSS transporters

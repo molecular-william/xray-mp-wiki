@@ -6,7 +6,7 @@ type: reagent
 category: reagents
 layout: default
 tags: [additive-ligand, subdirectory-ligands]
-sources: [doi/10.1038##nature17679]
+sources: [doi/10.1038##nature17679, doi/10.1126##science.1251915]
 verified: true
 ---
 
@@ -35,7 +35,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [GluN1b-GluN2B ATD](/xray-mp-wiki/proteins/gluN1b-gluN2b-atd/) — Crystal structure of ifenprodil-bound GluN1b-GluN2B ATD (PDB 3QEL)
-- [GluN1-GluN2B NMDA Receptor (Xenopus laevis, Full-Length)](/xray-mp-wiki/proteins/gluN1-gluN2b-nmda-receptor/) — Ifenprodil-bound intact NMDA receptor structures serve as reference for inhibited conformation
+- [GluN1b-GluN2B ATD](/xray-mp-wiki/proteins/other-ion-channels/gluN1b-gluN2b-atd/) — Crystal structure of ifenprodil-bound GluN1b-GluN2B ATD (PDB 3QEL)
+- [GluN1-GluN2B NMDA Receptor (Xenopus laevis, Full-Length)](/xray-mp-wiki/proteins/other-ion-channels/gluN1-gluN2b-nmda-receptor/) — Ifenprodil-bound intact NMDA receptor structures serve as reference for inhibited conformation
 - [Negative Allosteric Modulation](/xray-mp-wiki/concepts/negative-allosteric-modulation/) — Ifenprodil is a prototypical GluN2B-selective NAM
 - [Allosteric Regulation](/xray-mp-wiki/concepts/allosteric-regulation/) — Ifenprodil exemplifies allosteric regulation at the NMDA receptor ATD interface

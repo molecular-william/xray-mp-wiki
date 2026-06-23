@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-MAG 8.7 is a monoglyceride lipid (1-monooleoyl-glycerol) supplied by Avanti Polar Lipids (Cat No. 850532). It is used as the lipid matrix in lipidic cubic phase (LCP) crystallization of membrane proteins, providing a biomimetic environment that helps maintain protein stability during crystallization.
+[MAG](/xray-mp-wiki/reagents/lipids/mag/) 8.7 is a monoglyceride lipid (1-monooleoyl-[Glycerol](/xray-mp-wiki/reagents/additives/glycerol/)) supplied by Avanti Polar Lipids (Cat No. 850532). It is used as the lipid matrix in lipidic cubic phase (LCP) crystallization of membrane proteins, providing a biomimetic environment that helps maintain protein stability during crystallization.
 
 
 ## Properties
@@ -24,15 +24,15 @@ MAG 8.7 is a monoglyceride lipid (1-monooleoyl-glycerol) supplied by Avanti Pola
 
 ### LCP crystallization of transmembrane domains
 
-Used as the lipidic cubic phase matrix for crystallizing the Thermus thermophilus transhydrogenase dII domain (PDB 5UNI) at a 1:1 protein-to-lipid ratio. The protein sample (60 mg/ml) was mixed with MAG 8.7 using a mechanical syringe mixer (Caffrey and Cherezov, 2009) and dispensed via Gryphon LCP robot as 25 nl boluses.
+Used as the lipidic cubic phase matrix for crystallizing the Thermus thermophilus transhydrogenase dII domain (PDB 5UNI) at a 1:1 protein-to-lipid ratio. The protein sample (60 mg/ml) was mixed with [MAG](/xray-mp-wiki/reagents/lipids/mag/) 8.7 using a mechanical syringe mixer (Caffrey and Cherezov, 2009) and dispensed via Gryphon LCP robot as 25 nl boluses.
 
 
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/transhydrogenase-dii-domain/ | 1:1 protein-to-lipid ratio | LCP crystallization at pH 6.5, 2.2 Å resolution (PDB 5UNI) | Crystals diffracted to 2.2 Å at synchrotron beamlines |
-| Diacylglycerol Kinase (DgkA) | 12 mg/ml DgkA (Delta7 mutant) in 7.8 MAG | LCP crystallization of E. coli DgkA using 7.8 MAG as host lipid at 4 C; crystals harvested and snap-cooled in liquid nitrogen | Highest resolution DgkA Delta7 structure at 2.05 A; MAG density observed in putative active site |
+| /xray-mp-wiki/proteins/enzymes/transhydrogenase-dii-domain/ | 1:1 protein-to-lipid ratio | LCP crystallization at pH 6.5, 2.2 Å resolution (PDB 5UNI) | Crystals diffracted to 2.2 Å at synchrotron beamlines |
+| [Diacylglycerol Kinase (DgkA)](/xray-mp-wiki/proteins/enzymes/diacylglycerol-kinase/) | 12 mg/ml [DGKA](/xray-mp-wiki/proteins/enzymes/dgka/) (Delta7 mutant) in 7.8 [MAG](/xray-mp-wiki/reagents/lipids/mag/) | LCP crystallization of E. coli [DGKA](/xray-mp-wiki/proteins/enzymes/dgka/) using 7.8 [MAG](/xray-mp-wiki/reagents/lipids/mag/) as host lipid at 4 C; crystals harvested and snap-cooled in liquid nitrogen | Highest resolution [DGKA](/xray-mp-wiki/proteins/enzymes/dgka/) Delta7 structure at 2.05 A; [MAG](/xray-mp-wiki/reagents/lipids/mag/) density observed in putative active site |
 
 ## Advantages and Disadvantages
 
@@ -46,3 +46,7 @@ No comparison data available.
 
 - [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Primary application of MAG 8.7 as LCP lipid matrix
 - [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — MAG 8.7 is Avanti's commercial monoolein product
+- [DGKA](/xray-mp-wiki/proteins/enzymes/dgka/) — Related protein structure
+- [Diacylglycerol Kinase (DgkA)](/xray-mp-wiki/proteins/enzymes/diacylglycerol-kinase/) — Related protein structure
+- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
+- [MAG](/xray-mp-wiki/reagents/lipids/mag/) — Additive used in purification or crystallization buffers

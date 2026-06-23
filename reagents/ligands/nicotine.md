@@ -1,7 +1,7 @@
 ---
 title: Nicotine
-created: 2026-06-03
-updated: 2026-06-03
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -40,8 +40,8 @@ Nicotine was used as a co-crystallization ligand for the human alpha4beta2 nicot
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [NtMATE2](/xray-mp-wiki/proteins/ntmate2/) | 2.5 mM | Added to purified NtMATE2 before LCP crystallization | Crystals with two outward-facing forms (Mol-A, Mol-B), Mol-B shows electron density possibly representing nicotine |
-| [Human Alpha4Beta2 Nicotinic Receptor](/xray-mp-wiki/proteins/human-alpha4beta2-nicotinic-receptor/) | 0.1 mM (expression), co-crystallization | Added during baculovirus expression and used as co-crystallization ligand; binds at two alpha-beta interfaces with strong omit electron density (6.8-8.0 sigma) | 3.9 A resolution structure (PDB 5HUW) of heteropentameric receptor in desensitized state |
+| [NtMATE2](/xray-mp-wiki/proteins/abc-transporters/ntmate2/) | 2.5 mM | Added to purified NtMATE2 before LCP crystallization | Crystals with two outward-facing forms (Mol-A, Mol-B), Mol-B shows electron density possibly representing nicotine |
+| [Human Alpha4Beta2 Nicotinic Receptor](/xray-mp-wiki/proteins/cys-loop-receptors/human-alpha4beta2-nicotinic-receptor/) | 0.1 mM (expression), co-crystallization | Added during baculovirus expression and used as co-crystallization ligand; binds at two alpha-beta interfaces with strong omit electron density (6.8-8.0 sigma) | 3.9 A resolution structure (PDB 5HUW) of heteropentameric receptor in desensitized state |
 
 ## Binding Mode
 
@@ -62,6 +62,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [NtMATE2 Nicotine Transporter](/xray-mp-wiki/proteins/ntmate2/) — Physiological substrate
-- [Human Alpha4Beta2 Nicotinic Receptor](/xray-mp-wiki/proteins/human-alpha4beta2-nicotinic-receptor/) — Co-crystallization ligand; binds at orthosteric site at alpha-beta interfaces
-- [Acetylcholine-Binding Protein (AChBP)](/xray-mp-wiki/proteins/acetylcholine-binding-protein/) — Structural reference used to position nicotine in the binding pocket
+- [NtMATE2 Nicotine Transporter](/xray-mp-wiki/proteins/abc-transporters/ntmate2/) — Physiological substrate
+- [Human Alpha4Beta2 Nicotinic Receptor](/xray-mp-wiki/proteins/cys-loop-receptors/human-alpha4beta2-nicotinic-receptor/) — Co-crystallization ligand; binds at orthosteric site at alpha-beta interfaces
+- [Acetylcholine-Binding Protein (AChBP)](/xray-mp-wiki/proteins/cys-loop-receptors/acetylcholine-binding-protein/) — Structural reference used to position nicotine in the binding pocket

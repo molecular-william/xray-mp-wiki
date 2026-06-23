@@ -6,7 +6,7 @@ type: reagent
 category: reagents
 layout: default
 tags: [protein-tag, subdirectory-protein-tags]
-sources: [doi/10.1038##nature17391]
+sources: [doi/10.1038##nature17391, doi/10.1038##s41422-020-00424-2]
 verified: false
 ---
 
@@ -29,7 +29,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Human Sigma-1 Receptor (SIGMAR1) | Not specified | N-terminal FLAG epitope tag used for anti-FLAG antibody affinity purification; tag removed by 3C protease cleavage leaving GPGS scar | Successful affinity purification of sigma-1 receptor with subsequent tag removal for crystallization |
+| Human Sigma-1 Receptor ([SIGMAR1](/xray-mp-wiki/proteins/receptors-signaling/sigma-1-receptor/)) | Not specified | N-terminal FLAG epitope tag used for anti-FLAG antibody affinity purification; tag removed by 3C protease cleavage leaving GPGS scar | Successful affinity purification of sigma-1 receptor with subsequent tag removal for crystallization |
 
 ## Advantages and Disadvantages
 
@@ -41,6 +41,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Sigma-1 Receptor (SIGMAR1)](/xray-mp-wiki/proteins/sigma-1-receptor/) — FLAG tag used for affinity purification of sigma-1 receptor construct
+- [Human Sigma-1 Receptor (SIGMAR1)](/xray-mp-wiki/proteins/receptors-signaling/sigma-1-receptor/) — FLAG tag used for affinity purification of sigma-1 receptor construct
 - [T4 Lysozyme (T4L)](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — Another fusion tag used for membrane protein crystallization
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — FLAG tag purification via anti-FLAG antibody resin

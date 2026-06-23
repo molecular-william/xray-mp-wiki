@@ -1,7 +1,7 @@
 ---
 title: Selatogrel
-created: 2026-05-27
-updated: 2026-05-27
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -37,7 +37,7 @@ Selatogrel was used in BRET2 assays to demonstrate inverse agonist efficacy at t
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human P2Y12 Receptor](/xray-mp-wiki/proteins/p2y12-receptor/) | 2 mM (purification), 10 uM (functional assays) | Co-crystallized ligand for 2.78 A structure (PDB 7pp1); inverse agonist in BRET and cAMP assays | Stabilized inactive receptor conformation; 100-fold more potent than ticagrelor |
+| [Human P2Y12 Receptor](/xray-mp-wiki/proteins/gpcr/p2y12-receptor/) | 2 mM (purification), 10 uM (functional assays) | Co-crystallized ligand for 2.78 A structure (PDB 7pp1); inverse agonist in BRET and cAMP assays | Stabilized inactive receptor conformation; 100-fold more potent than ticagrelor |
 
 ## Binding Mode
 
@@ -58,7 +58,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human P2Y12 Receptor](/xray-mp-wiki/proteins/p2y12-receptor/) — Co-crystallized ligand; inverse agonist target
+- [Human P2Y12 Receptor](/xray-mp-wiki/proteins/gpcr/p2y12-receptor/) — Co-crystallized ligand; inverse agonist target
 - [Ticagrelor](/xray-mp-wiki/reagents/ligands/ticagrelor/) — Related P2Y12 inverse agonist; selatogrel ~100x more potent
 - [Elinogrel](/xray-mp-wiki/reagents/ligands/elinogrel/) — Related P2Y12 antagonist; showed off-target effects
 - [GPCR Active Conformation](/xray-mp-wiki/concepts/gpcr-active-conformation/) — Selatogrel stabilizes inactive conformation

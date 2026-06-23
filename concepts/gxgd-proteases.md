@@ -20,13 +20,17 @@ The GXGD proteases are a family of polytopic membrane proteases that share a con
 
 
 ## Examples in Membrane Protein Work
-
+- [FLAK](/xray-mp-wiki/proteins/enzymes/flak/) (Preflagellin Peptidase from Methanococcus maripaludis) — Prototypic archaeal PFP; first GXGD protease with solved crystal structure
+at 3.6 A resolution revealing six transmembrane helices with the GXGD motif
+at the center of the transmembrane bundle
+- [Signal Peptide Peptidase A from Escherichia coli](/xray-mp-wiki/proteins/enzymes/sppa-ec/) — Bacterial SPP member that shares structural homology with presenilin
+- Signal Peptide Peptidase from Bacillus subtilis — SppA is a membrane-bound self-compartmentalized serine protease with presenilin-type aspartic protease activity
 
 ## Related Concepts
 
 
 ## Cross-References
-- [FlaK (Preflagellin Peptidase from Methanococcus maripaludis)](/xray-mp-wiki/proteins/flak/) — First GXGD protease crystal structure solved, revealing active site architecture
+- [FlaK (Preflagellin Peptidase from Methanococcus maripaludis)](/xray-mp-wiki/proteins/enzymes/flak/) — First GXGD protease crystal structure solved, revealing active site architecture
 - [Intramembrane Proteolysis](/xray-mp-wiki/concepts/intramembrane-proteolysis/) — GXGD proteases perform intramembrane or membrane-adjacent cleavage
-- [Signal Peptide Peptidase A from Escherichia coli](/xray-mp-wiki/proteins/sppa-ec/) — Bacterial member of the GXGD protease family
-- [Signal Peptide Peptidase A from Bacillus subtilis](/xray-mp-wiki/proteins/sppa-bs/) — Bacterial SppA shares presenilin-type aspartic protease activity
+- [Signal Peptide Peptidase A from Escherichia coli](/xray-mp-wiki/proteins/enzymes/sppa-ec/) — Bacterial member of the GXGD protease family
+- [Signal Peptide Peptidase A from Bacillus subtilis](/xray-mp-wiki/proteins/enzymes/sppa-bs/) — Bacterial SppA shares presenilin-type aspartic protease activity

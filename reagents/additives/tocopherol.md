@@ -27,14 +27,14 @@ Tocopherol (commonly known as vitamin E) is a lipophilic antioxidant that protec
 
 ### Antioxidant additive for photosystem II crystallization
 
-Tocopherol at 10 mM was used as an antioxidant additive in the solubilization and crystallization buffers for photosystem II (PSII) microcrystals from Thermosynechococcus elongatus. It was included alongside PIPES buffer (100 mM, pH 7.0) and 5 mM CaCl2 to protect the redox-sensitive chlorophyll and manganese cluster cofactors from oxidative damage during the extended crystallization process.
+Tocopherol at 10 mM was used as an antioxidant additive in the solubilization and crystallization buffers for [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) (PSII) microcrystals from Thermosynechococcus elongatus. It was included alongside PIPES buffer (100 mM, pH 7.0) and 5 mM CaCl2 to protect the redox-sensitive chlorophyll and manganese cluster cofactors from oxidative damage during the extended crystallization process.
 
 
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/photosystem-ii/ | 10 mM | Antioxidant in PSII solubilization and crystallization buffer | Protected redox-sensitive cofactors during microcrystal growth |
+| /xray-mp-wiki/proteins/photosynthesis/photosystem-ii/ | 10 mM | Antioxidant in PSII solubilization and crystallization buffer | Protected redox-sensitive cofactors during microcrystal growth |
 
 ## Advantages and Disadvantages
 
@@ -47,4 +47,4 @@ No comparison data available.
 ## Cross-References
 
 - [PIPES (Piperazine-1,4-Bis(2-Ethanesulfonic Acid))](/xray-mp-wiki/reagents/buffers/pipes/) — Used together with tocopherol in PSII crystallization buffer
-- [Photosystem II](/xray-mp-wiki/proteins/photosystem-ii/) — Tocopherol protects PSII redox-sensitive cofactors during crystallization
+- [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) — Tocopherol protects PSII redox-sensitive cofactors during crystallization

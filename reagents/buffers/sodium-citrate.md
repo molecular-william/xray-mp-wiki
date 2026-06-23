@@ -1,20 +1,20 @@
 ---
-title: Sodium Citrate
+title: Sodium Citrate (Na-Citrate Buffer)
 created: 2026-06-08
 updated: 2026-06-08
 type: reagent
 category: reagents
 layout: default
 tags: [buffer-citrate, subdirectory-buffers]
-sources: [doi/10.1038##nsmb.3049]
+sources: [doi/10.1073##pnas.1207912109, doi/10.7554##eLife.09375]
 verified: false
 ---
 
-# Sodium Citrate
+# Sodium Citrate (Na-Citrate Buffer)
 
 ## Overview
 
-Sodium citrate is a buffer salt derived from citric acid, commonly used in biochemistry for its buffering capacity in the pH range of approximately 3.0-6.2 (citrate buffer) and as a component of crystallization reservoir solutions. It serves as an effective buffering agent and can also act as a weak chelating agent for metal ions. In membrane protein crystallography, sodium citrate is frequently used as a crystallization precipitant and buffer component at concentrations of 50-300 mM.
+Sodium [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) (trisodium [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/)) is a buffer commonly used in biochemical assays and protein crystallization. It has buffering capacity in the pH range 3.0-6.2, with a pKa of 3.13, 4.76, and 6.40 (three ionizable groups). In membrane protein crystallography, [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) buffers are frequently used in crystallization reservoirs and purification steps.
 
 
 ## Properties
@@ -22,17 +22,14 @@ Sodium citrate is a buffer salt derived from citric acid, commonly used in bioch
 
 ## Use in Membrane Protein Work
 
-### Crystallization buffer and precipitant for membrane proteins
+### Crystallization buffer
 
-Sodium citrate at 220 mM was used as the buffer component in the crystallization reservoir solution for hSCD1, combined with 100 mM Tris-HCl pH 8.5 and 30-35% PEG 400 as the precipitant. The citrate buffer helped maintain the pH at 8.5 during vapor diffusion crystallization at 4 C.
+Used at 50 mM concentration at pH 5.5 in the crystallization of the yeast ATP synthase c10 ring, combined with 100 mM Na malonate pH 7.0.
 
 
 ## Examples from This Wiki
 
-| Protein | Concentration | Context | Result |
-|---|---|---|---|
-| [Stearoyl-CoA Desaturase-1 (hSCD1)](/xray-mp-wiki/proteins/stearoyl-coa-desaturase-1/) | 220 mM | Sodium citrate used as buffer component in crystallization reservoir (with 100 mM Tris-HCl pH 8.5 and 30-35% PEG 400) for vapor diffusion crystallization of hSCD1 at 4 C | Native and SeMet-labeled hSCD1 crystals suitable for X-ray diffraction data collection at 3.25 A resolution |
-
+No examples from this wiki.
 ## Advantages and Disadvantages
 
 No advantages/disadvantages recorded.
@@ -42,3 +39,6 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [Yeast ATP Synthase c10 Ring (Oligomycin-Bound)](/xray-mp-wiki/proteins/pumps-atpases/yeast-atp-synthase-c10-ring/) — Crystallized with 50 mM Na citrate pH 5.5
+- [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) — Buffer component in purification or crystallization

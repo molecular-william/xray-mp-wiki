@@ -6,7 +6,7 @@ type: concept
 category: concepts
 layout: default
 tags: [concept-functional, concept-crystallography-principle]
-sources: [doi/10.1016##j.celrep.2015.04.045]
+sources: [doi/10.1016##j.celrep.2015.04.045, doi/10.1126##science.1243352]
 verified: false
 ---
 
@@ -19,13 +19,17 @@ Intramembrane ion coordination refers to the phenomenon where metal cations (suc
 
 
 ## Examples in Membrane Protein Work
-
+- [DAP12 (CD331)](/xray-mp-wiki/proteins/receptors-signaling/dap12/) — Potassium ion coordinated by aspartic acid and threonine side chains at the trimeric TM interface (PDB 4WOL). Seven oxygen atoms from Asp and Thr residues from three chains coordinate the K+ ion. MD simulations showed stability with one ionized aspartic acid.
+- [DAP12 (CD331)](/xray-mp-wiki/proteins/receptors-signaling/dap12/) — Calcium ion coordinated at the tetrameric TM interface (PDB 4WO1). Two overlapping Ca2+ coordination sites with pentagonal bipyramidal geometry, each with 50% occupancy, including a network of water molecules.
 
 ## Related Concepts
-
+- []() — 
+- []() — 
+- []() — 
+- []() — 
 
 ## Cross-References
-- [DAP12 (CD331)](/xray-mp-wiki/proteins/dap12/) — Primary example of intramembrane ion coordination in non-channel protein
+- [DAP12 (CD331)](/xray-mp-wiki/proteins/receptors-signaling/dap12/) — Primary example of intramembrane ion coordination in non-channel protein
 - [Potassium Fluoride](/xray-mp-wiki/reagents/additives/potassium-fluoride/) — Potassium salt relevant to ion coordination studies
 - [Calcium Chloride](/xray-mp-wiki/reagents/additives/calcium-chloride/) — Calcium salt used in crystallization enabling ion coordination discovery
 - [POPC](/xray-mp-wiki/reagents/lipids/popc/) — Membrane lipid used in MD simulations of ion-coordinated DAP12 oligomers

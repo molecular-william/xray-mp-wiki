@@ -1,7 +1,7 @@
 ---
 title: Iron (Fe)
 created: 2026-05-18
-updated: 2026-05-26
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -37,4 +37,4 @@ No comparison data available.
 ## Cross-References
 
 - [Heme](/xray-mp-wiki/reagents/ligands/heme/) — Iron-containing porphyrin cofactor
-- [Magnesium Chloride](/xray-mp-wiki/reagents/additives/mgcl2/) — Common metal salt additive
+- [Magnesium Chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Common metal salt additive

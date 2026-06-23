@@ -15,9 +15,9 @@ verified: false
 ## Overview
 
 Dehydroepiandrosterone (DHEA) is an endogenous androgen steroid hormone and a key
-precursor in the biosynthesis of testosterone and dihydrotestosterone (DHT). DHEA is
-produced by steroid sulfatase (hSTS) through hydrolysis of DHEA sulfate (DHEAS).
-In prostate cancer cells, DHEA is subsequently converted to DHT by 3beta-HSD,
+precursor in the biosynthesis of testosterone and dihydrotestosterone ([DHT](/xray-mp-wiki/reagents/ligands/dht/)). DHEA is
+produced by [Steroid Sulfatase (hSTS)](/xray-mp-wiki/proteins/enzymes/steroid-sulfatase/) through hydrolysis of DHEA sulfate (DHEAS).
+In prostate cancer cells, DHEA is subsequently converted to [DHT](/xray-mp-wiki/reagents/ligands/dht/) by 3beta-HSD,
 17beta-HSD3, and 5alpha-reductases. DHEA is one of the most abundant circulating
 steroids and is produced by the adrenal glands, gonads, and brain.
 
@@ -33,7 +33,7 @@ steroids and is produced by the adrenal glands, gonads, and brain.
 
 ### Substrate/product of hSTS-catalyzed hydrolysis
 
-DHEA is produced by hSTS-catalyzed hydrolysis of DHEA sulfate (DHEAS). In prostate cancer cells (e.g., LNCaP), DHEA is subsequently converted to dihydrotestosterone (DHT), the most potent agonist of the androgen receptor, by 3beta-hydroxysteroid dehydrogenase (3HSD), 17beta-HSD3, and 5alpha-reductases.
+DHEA is produced by hSTS-catalyzed hydrolysis of DHEA sulfate (DHEAS). In prostate cancer cells (e.g., LNCaP), DHEA is subsequently converted to dihydrotestosterone ([DHT](/xray-mp-wiki/reagents/ligands/dht/)), the most potent agonist of the androgen receptor, by 3beta-hydroxysteroid dehydrogenase (3HSD), 17beta-HSD3, and 5alpha-reductases.
 
 
 ## Examples from This Wiki
@@ -49,6 +49,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Steroid Sulfatase (hSTS)](/xray-mp-wiki/proteins/steroid-sulfatase/) — Substrate of hSTS; DHEAS hydrolyzed to DHEA
+- [Steroid Sulfatase (hSTS)](/xray-mp-wiki/proteins/enzymes/steroid-sulfatase/) — Substrate of hSTS; DHEAS hydrolyzed to DHEA
 - [Dihydrotestosterone (DHT)](/xray-mp-wiki/reagents/ligands/dht/) — DHEA is converted to DHT by 3HSD, 17HSD3, and 5alpha-reductases
 - [Estrone (E1)](/xray-mp-wiki/reagents/ligands/estrone/) — Parallel steroid in estrogen biosynthesis pathway

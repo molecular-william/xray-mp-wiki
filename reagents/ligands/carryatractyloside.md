@@ -1,14 +1,14 @@
 ---
 title: Carboxyatractyloside
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
-tags: [additive-stabilizer]
-sources: [doi/10.1016##j.jmb.2012.03.020]
+tags: [ligand, subdirectory-ligands]
+sources: [doi/10.1038##NATURE02056]
+verified: false
 ---
-
 
 # Carboxyatractyloside
 
@@ -36,5 +36,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [Linezolid](/xray-mp-wiki/reagents/antibiotics/linezolid/) — Specific protein-ligand binding study
-- [Bovine ADP/ATP Carrier](/xray-mp-wiki/proteins/bovine-adp-atp-carrier/) — Primary target protein for carboxyatractyloside
+- [Linezolid](/xray-mp-wiki/reagents/ligands/linezolid/) — Specific protein-ligand binding study
+- [Bovine ADP/ATP Carrier](/xray-mp-wiki/proteins/slc-transporters/bovine-adp-atp-carrier/) — Primary target protein for carboxyatractyloside

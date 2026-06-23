@@ -20,7 +20,7 @@ The helical recoil model describes the molecular mechanism of P2X receptor desen
 P2X3 receptors undergo rapid and nearly complete desensitization upon ATP activation, in contrast to P2X2, P2X4, P2X5, and P2X7 subtypes that show slow and incomplete desensitization. The helical recoil model was proposed based on the comparison of four crystal structures of the human P2X3 receptor in different conformational states: apo/resting, agonist-bound/open-pore, agonist-bound/ closed-pore/desensitized, and antagonist-bound/closed.
 In the open state, TM2 undergoes a transition from an alpha-helix to a 3_10-helix centered within the sequence G333-V334-G335. This transition occurs as a result of stretching of the top half of TM2 upward towards the extracellular surface, while the cytoplasmic surface remains anchored by the cytoplasmic cap. The cytoplasmic cap is a domain formed by beta-strands from the N and C termini of each protomer, creating a network of three beta-sheets beneath the transmembrane domain.
 During desensitization, the cytoplasmic cap must break or become destabilized to release the anchor and initiate recoiling. TM2 reverts from the 3_10-helix to an ideal alpha-helix by recoiling the cytoplasmic half of the helix upward. This movement causes V334, which defines the constriction site in the desensitized state (pore radius 1.5 A), to translate upward by 4.4 A and rotate inward, closing the pore at a new constriction site deeper within the membrane bilayer.
-The conserved N-terminal glycine (G24 in P2X3) and C-terminal glycine (G349 in P2X3) are proposed to act as hinges, providing the flexibility necessary for these dynamic conformational changes between functional states, as well as the flexibility needed to reset the receptor to the apo state.
+The conserved N-terminal [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) (G24 in P2X3) and C-terminal [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) (G349 in P2X3) are proposed to act as hinges, providing the flexibility necessary for these dynamic conformational changes between functional states, as well as the flexibility needed to reset the receptor to the apo state.
 The three mutations (P19V, S15V, V16I from rat P2X2) that slow desensitization and were used to capture the open state of hP2X3 provide main chain conformational rigidity and make key hydrophobic interactions that stabilize the cytoplasmic cap structure. This suggests that the stability of the cytoplasmic cap tunes the rate and extent of receptor desensitization.
 
 
@@ -36,7 +36,7 @@ The three mutations (P19V, S15V, V16I from rat P2X2) that slow desensitization a
   P2X2 mutations. Shows rapid desensitization (tau = 523 ms for WT, 429 ms
   for MFC), preventing open state capture.
 - **P2X4 subtypes**: Show slow and incomplete desensitization, suggesting
-  a less stable or absent cytoplasmic cap. zfP2X4 structures do not visualize
+  a less stable or absent cytoplasmic cap. [Zebrafish P2X4 Receptor (zfP2X4)](/xray-mp-wiki/proteins/other-ion-channels/zfp2x4/) structures do not visualize
   cytoplasmic residues.
 
 
@@ -45,7 +45,8 @@ The three mutations (P19V, S15V, V16I from rat P2X2) that slow desensitization a
 
 
 ## Cross-References
-- [Zebrafish P2X4 Receptor (zfP2X4)](/xray-mp-wiki/proteins/zfp2x4/) — zfP2X4 shows slow desensitization; cytoplasmic cap not observed in zfP2X4 structures
+- [Zebrafish P2X4 Receptor (zfP2X4)](/xray-mp-wiki/proteins/other-ion-channels/zfp2x4/) — zfP2X4 shows slow desensitization; cytoplasmic cap not observed in zfP2X4 structures
 - [P2X Receptor Family](/xray-mp-wiki/concepts/p2x-receptor-family/) — P2X receptors divided into fast and slow desensitizing subtypes
 - [Channel Gating via Plug Domain Displacement](/xray-mp-wiki/concepts/channel-gating/) — Comparison of gating and inactivation mechanisms across ion channel families
 - [Protein Thermostabilization](/xray-mp-wiki/concepts/thermostabilization/) — Targeted mutations to stabilize specific conformational states of ion channels
+- [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) — Buffer component used in purification or crystallization

@@ -26,7 +26,7 @@ verified: false
 
 ### Delta-opioid receptor selective antagonist
 
-BNTX is a selective δ-OR antagonist used in pharmacological studies. It contains a cyclopentene functional group shared with naltrindole and naltriben, which contributes to its functional switching behavior in sodium site mutants.
+BNTX is a selective δ-OR antagonist used in pharmacological studies. It contains a cyclopentene functional group shared with [Naltrindole](/xray-mp-wiki/reagents/ligands/naltrindole/) and [Naltriben](/xray-mp-wiki/reagents/ligands/naltriben/), which contributes to its functional switching behavior in sodium site mutants.
 
 
 ## Examples from This Wiki
@@ -52,5 +52,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Delta-Opioid Receptor (OPRD1)](/xray-mp-wiki/proteins/delta-opioid-receptor/) — Primary target of BNTX
+- [Human Delta-Opioid Receptor (OPRD1)](/xray-mp-wiki/proteins/gpcr/delta-opioid-receptor/) — Primary target of BNTX
 - [Naltrindole](/xray-mp-wiki/reagents/ligands/naltrindole/) — Related cyclopentene-containing delta-opioid antagonist
+- [Naltriben](/xray-mp-wiki/reagents/ligands/naltriben/) — Related ligand or cofactor

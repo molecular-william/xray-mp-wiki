@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Sulfoquinovosyl diacylglycerol (SQDG) is an anionic galactolipid found in thylakoid membranes and other photosynthetic membranes. It consists of a diacylglycerol backbone with a sulfoquinovose (6-deoxy-6-sulfoglucose) headgroup. SQDG is the most abundant anionic lipid in chloroplasts and plays important roles in membrane structure, metal ion coordination, and protein-lipid interactions. Three SQDG molecules are integrally bound to each monomer of the photosystem II core complex.
+Sulfoquinovosyl diacylglycerol (SQDG) is an anionic galactolipid found in thylakoid membranes and other photosynthetic membranes. It consists of a diacylglycerol backbone with a sulfoquinovose (6-deoxy-6-sulfoglucose) headgroup. SQDG is the most abundant anionic lipid in chloroplasts and plays important roles in membrane structure, metal ion coordination, and protein-lipid interactions. Three SQDG molecules are integrally bound to each monomer of the [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) core complex.
 
 
 ## Properties
@@ -38,7 +38,7 @@ SQDG provides negatively charged headgroups that can coordinate divalent cations
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Photosystem II | 3 per monomer | Integral lipid bound to PSII core complex from Thermosynechococcus elongatus; anionic headgroup positioned near membrane surface | Contributes to metal ion coordination and structural stability of PSII complex |
+| [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) | 3 per monomer | Integral lipid bound to PSII core complex from Thermosynechococcus elongatus; anionic headgroup positioned near membrane surface | Contributes to metal ion coordination and structural stability of PSII complex |
 
 ## Advantages and Disadvantages
 
@@ -49,3 +49,5 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) — Related protein structure

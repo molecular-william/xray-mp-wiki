@@ -6,7 +6,7 @@ type: concept
 category: concepts
 layout: default
 tags: [concept-protein-family]
-sources: [doi/10.1038##nature10881, doi/10.1038##nsmb.1740]
+sources: [doi/10.1038##nature10881, doi/10.1038##nsmb.1740, doi/10.1126##science.1199098]
 verified: false
 ---
 
@@ -20,13 +20,18 @@ The FNT (formate/nitrite transporter) family comprises pentameric membrane chann
 
 
 ## Examples in Membrane Protein Work
+- [FocA (Formate Channel A from Vibrio cholerae)](/xray-mp-wiki/proteins/other-ion-channels/focA-vibrio-cholerae/) — V. cholerae FocA crystallized at 2.13 A and 2.5 A resolution in P2_1 2_1 2_1, revealing a pentamer with six TMs per monomer and a monomeric formate pore with cytoplasmic slit selectivity filter. Two formate ions were observed bound in the high-formate structure.
+
+- [HSC (Hydrosulfide Channel from Clostridium difficile)](/xray-mp-wiki/proteins/other-ion-channels/hsc/) — HSC is an FNT family member that specifically transports hydrosulfide (HS-) ions. Unlike FocA, HSC appears to be locked in a closed state and does not undergo pH-dependent gating.
+
+- HiTehA (TehA from Haemophilus influenzae) — HiTehA is an FNT family member that functions as an anion-selective channel. It forms trimers rather than pentamers and has a distinct gating mechanism involving a conserved phenylalanine residue.
 
 
 ## Related Concepts
 
 
 ## Cross-References
-- [FocA (Formate Channel A from Vibrio cholerae)](/xray-mp-wiki/proteins/focA-vibrio-cholerae/) — Prototypical FNT family member with characterized formate selectivity filter
-- [HSC (Hydrosulfide Channel from Clostridium difficile)](/xray-mp-wiki/proteins/hsc/) — FNT family member that transports hydrosulfide ions
-- [HiTehA (TehA from Haemophilus influenzae)](/xray-mp-wiki/proteins/hiteha/) — FNT family member with distinct trimeric organization and gating
+- [FocA (Formate Channel A from Vibrio cholerae)](/xray-mp-wiki/proteins/other-ion-channels/focA-vibrio-cholerae/) — Prototypical FNT family member with characterized formate selectivity filter
+- [HSC (Hydrosulfide Channel from Clostridium difficile)](/xray-mp-wiki/proteins/other-ion-channels/hsc/) — FNT family member that transports hydrosulfide ions
+- [HiTehA (TehA from Haemophilus influenzae)](/xray-mp-wiki/proteins/other-ion-channels/hiteha/) — FNT family member with distinct trimeric organization and gating
 - [Ion Channel Selectivity Filter](/xray-mp-wiki/concepts/selectivity-filter/) — FNT family channels share conserved selectivity filter architecture

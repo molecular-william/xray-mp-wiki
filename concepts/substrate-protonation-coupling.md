@@ -1,7 +1,7 @@
 ---
 title: Substrate-Protonation Coupling in MFS Symporters
-created: 2026-06-03
-updated: 2026-06-03
+created: 2026-06-08
+updated: 2026-06-08
 type: concept
 category: concepts
 layout: default
@@ -34,7 +34,7 @@ tightly regulated by the proton motive force.
 
 
 ## Examples in Membrane Protein Work
-
+- [E. coli YbgH](/xray-mp-wiki/proteins/mfs-transporters/ybgH/) — Glu21 serves as the protonation site coupled to substrate binding in YbgH. The polar cluster (Glu32-Glu21-Arg36-Lys136 in YbgH; Glu32-Glu21-Arg36 in POTs) becomes more negative upon substrate binding, promoting Glu21 protonation.
 
 ## Related Concepts
 

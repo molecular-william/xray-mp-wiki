@@ -1,7 +1,7 @@
 ---
 title: Tris(2-carboxyethyl)phosphine (TCEP)
-created: 2026-06-08
-updated: 2026-06-08
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -31,7 +31,7 @@ TCEP at 0.25-1 mM was included in all buffers during hSCD1 purification from Sf9
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Stearoyl-CoA Desaturase-1 (hSCD1)](/xray-mp-wiki/proteins/stearoyl-coa-desaturase-1/) | 0.25 mM (solubilization and elution), 1 mM (SEC buffer) | TCEP included throughout hSCD1 purification from Sf9 insect cell membranes; 0.25 mM in solubilization and Ni-NTA elution buffers, increased to 1 mM in final SEC buffer for stability | Maintained protein stability through multi-step purification; hSCD1 concentrated to 8.5 mg/ml for crystallization |
+| [Stearoyl-CoA Desaturase-1 (hSCD1)](/xray-mp-wiki/proteins/enzymes/stearoyl-coa-desaturase-1/) | 0.25 mM (solubilization and elution), 1 mM (SEC buffer) | TCEP included throughout hSCD1 purification from Sf9 insect cell membranes; 0.25 mM in solubilization and Ni-NTA elution buffers, increased to 1 mM in final SEC buffer for stability | Maintained protein stability through multi-step purification; hSCD1 concentrated to 8.5 mg/ml for crystallization |
 
 ## Advantages and Disadvantages
 

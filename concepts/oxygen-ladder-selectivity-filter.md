@@ -19,7 +19,7 @@ verified: false
 
 
 ## Examples in Membrane Protein Work
-
+- [Urea Transporter from Desulfovibrio vulgaris (dvUT)](/xray-mp-wiki/proteins/other-ion-channels/urea-transporter-dvut/) — Two oxygen ladders from pore helices (Pa, Pb) and transmembrane helices T3 and T5 form a symmetric selectivity filter that coordinates dehydrated urea via hydrogen bonds
 
 ## Related Concepts
 

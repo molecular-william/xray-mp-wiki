@@ -33,7 +33,7 @@ Thrombin protease was used to cleave the N-terminal affinity tags from the BRIL-
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Smoothened Receptor](/xray-mp-wiki/proteins/smoothened/) | not specified | Cleavage of N-terminal HA-Flag-10xHis tags from BRIL-deltaCRD-SMO-deltaC construct after Ni-NTA purification | Tag-free BRIL-deltaCRD-SMO-deltaC chimera released for SEC and crystallization |
+| [Human Smoothened Receptor](/xray-mp-wiki/proteins/gpcr/smoothened/) | not specified | Cleavage of N-terminal HA-Flag-10xHis tags from BRIL-deltaCRD-SMO-deltaC construct after Ni-NTA purification | Tag-free BRIL-deltaCRD-SMO-deltaC chimera released for SEC and crystallization |
 
 ## Advantages and Disadvantages
 
@@ -45,5 +45,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [TEV Protease](/xray-mp-wiki/reagents/tevp-protease/) — Alternative protease used for tag cleavage in other SMO constructs
+- [TEV Protease](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) — Alternative protease used for tag cleavage in other SMO constructs
 - [PreScission Protease](/xray-mp-wiki/reagents/pre-scission-protease/) — Another protease used for tag removal in protein purification

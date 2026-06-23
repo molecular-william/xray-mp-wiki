@@ -32,9 +32,9 @@ Diffractive imaging of imperfect crystals is a macromolecular structure determin
 2. {'step': 'Pattern indexing', 'description': 'Identify Bragg peaks in each diffraction pattern using automated hit-finding software (e.g. Cheetah). Index the lattice to determine crystal orientation and lattice parameters for each pattern using software such as CrystFEL.\n'}
 3. {'step': '3D diffraction volume assembly', 'description': 'Use indexed crystal orientations to assemble individual snapshot diffraction patterns into a 3D reciprocal-space grid representing the full-pattern intensity distribution of the average disordered crystal.\n'}
 4. {'step': 'Background subtraction', 'description': 'Subtract the featureless solvent background from each pattern. This is computed by summing counts along circles of constant q (scattering vector magnitude) after correcting for X-ray beam polarization, excluding very high and very low values to avoid Bragg peak influence.\n'}
-5. {'step': 'Low-resolution phasing from Bragg data', 'description': 'Perform molecular replacement phasing using Bragg peak intensities to obtain a low-resolution electron density map. Generate a binary molecular envelope mask from the smoothed electron density, dilated slightly to avoid over-constraining the phasing.\n'}
+5. {'step': 'Low-resolution phasing from Bragg data', 'description': 'Perform [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) phasing using Bragg peak intensities to obtain a low-resolution electron density map. Generate a binary molecular envelope mask from the smoothed electron density, dilated slightly to avoid over-constraining the phasing.\n'}
 6. {'step': 'Scaling and interpolation', 'description': 'Scale the molecular transform calculated from phased Bragg intensities in magnitude and interpolate to match the merged continuous diffraction data. This is done empirically at an intermediate q range where both data types overlap.\n'}
-7. {'step': 'Iterative phase retrieval', 'description': 'Phase the continuous diffraction using a difference-map algorithm. The algorithm iteratively enforces two constraints: first, Fourier magnitudes match the measured continuous diffraction intensities; second, electron density is zero outside the molecular envelope support. Low-resolution phases from molecular replacement are preserved. Point-group symmetries are applied to Fourier magnitudes.\n'}
+7. {'step': 'Iterative phase retrieval', 'description': 'Phase the continuous diffraction using a difference-map algorithm. The algorithm iteratively enforces two constraints: first, Fourier magnitudes match the measured continuous diffraction intensities; second, electron density is zero outside the molecular envelope support. Low-resolution phases from [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) are preserved. Point-group symmetries are applied to Fourier magnitudes.\n'}
 8. {'step': 'Structure averaging and refinement', 'description': 'Average solutions obtained over multiple random phase starts to produce a self-consistent electron density. Evaluate resolution using Fourier shell correlation (FSC) and phase retrieval transfer function (PRTF). Perform pseudo-crystallographic refinement of the resulting electron density map.\n'}
 
 ### Typical Conditions
@@ -55,7 +55,7 @@ Diffractive imaging of imperfect crystals is a macromolecular structure determin
 - Can measure data from hundreds of thousands of crystals and select the best
 - Enables ab initio phasing using only the molecular envelope as a constraint
 - Applicable to a range of macromolecular systems
-- Demonstrated for membrane protein complexes (photosystem II)
+- Demonstrated for membrane protein complexes ([Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/))
 
 ## Disadvantages
 

@@ -1,7 +1,7 @@
 ---
 title: Vorapaxar
-created: 2026-06-03
-updated: 2026-06-03
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -29,7 +29,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Protease-Activated Receptor 1 (PAR1)](/xray-mp-wiki/proteins/par1/) | 100 nM | Co-crystallized in PDB 4MB0 structure. Vorapaxar was preincubated with platelets at 100 nM for 1 h at 37 C. In Cos7 cells, 100 nM vorapaxar blocked SFLLRN-induced PAR1 signaling at 100 uM. Vorapaxar decreased the maximal response of platelets to the PAR1 agonist peptide SFLLRN without affecting the EC50, indicating non-competitive functional irreversibility.
+| [Human Protease-Activated Receptor 1 (PAR1)](/xray-mp-wiki/proteins/gpcr/par1/) | 100 nM | Co-crystallized in PDB 4MB0 structure. Vorapaxar was preincubated with platelets at 100 nM for 1 h at 37 C. In Cos7 cells, 100 nM vorapaxar blocked SFLLRN-induced PAR1 signaling at 100 uM. Vorapaxar decreased the maximal response of platelets to the PAR1 agonist peptide SFLLRN without affecting the EC50, indicating non-competitive functional irreversibility.
  | Functionally irreversible inhibition of PAR1. Inhibition poorly reversible by washing; recovery requires new protein synthesis. Co-crystallized structure at 2.20 A resolution (PDB 4MB0).
  |
 
@@ -51,6 +51,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Protease-Activated Receptor 1 (PAR1)](/xray-mp-wiki/proteins/par1/) — Co-crystallized ligand in PDB 4MB0 structure at 2.20 A resolution
+- [Human Protease-Activated Receptor 1 (PAR1)](/xray-mp-wiki/proteins/gpcr/par1/) — Co-crystallized ligand in PDB 4MB0 structure at 2.20 A resolution
 - [T4 Lysozyme (T4L)](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — Used in PAR1 crystallization construct as ICL3 fusion partner
-- [Human Protease-Activated Receptor 2 (PAR2) - Stabilized T4L Fusion](/xray-mp-wiki/proteins/par2/) — AZ8838 binds to a similar pocket in PAR2; vorapaxar pocket eliminated in PAR2 due to structural differences
+- [Human Protease-Activated Receptor 2 (PAR2) - Stabilized T4L Fusion](/xray-mp-wiki/proteins/gpcr/par2/) — AZ8838 binds to a similar pocket in PAR2; vorapaxar pocket eliminated in PAR2 due to structural differences

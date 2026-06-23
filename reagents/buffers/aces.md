@@ -1,7 +1,7 @@
 ---
 title: ACES Buffer (N-(2-Acetamido)iminodiacetic Acid)
-created: 2026-05-29
-updated: 2026-05-29
+created: 2026-06-08
+updated: 2026-06-08
 type: reagent
 category: reagents
 layout: default
@@ -28,7 +28,7 @@ ACES (2-[N-(2-Acetamido)iminodiacetic acid]) is a zwitterionic buffering agent c
 
 ### Crystallization buffer for GABA_A R
 
-ACES buffer at 100 mM pH 6.5 was used as the buffering agent in the crystallization of the human GABA_A receptor beta-3 subunit. The crystallization reservoir contained 11.5% PEG 4000, 100 mM NaCl, 100 mM Li2SO4, 100 mM ACES buffer pH 6.5, and 2% benzamidine. Crystallization was performed by sitting-drop vapor diffusion at 4 C.
+ACES buffer at 100 mM pH 6.5 was used as the buffering agent in the crystallization of the human GABA_A receptor beta-3 subunit. The crystallization reservoir contained 11.5% [PEG](/xray-mp-wiki/reagents/additives/peg/) 4000, 100 mM NaCl, 100 mM Li2SO4, 100 mM ACES buffer pH 6.5, and 2% benzamidine. Crystallization was performed by sitting-drop vapor diffusion at 4 C.
 
 
 ## Examples from This Wiki
@@ -47,6 +47,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human GABA_A Receptor Beta-3 Subunit](/xray-mp-wiki/proteins/gabar-b3/) — Crystallization buffer used at 100 mM pH 6.5
+- [Human GABA_A Receptor Beta-3 Subunit](/xray-mp-wiki/proteins/cys-loop-receptors/gabar-b3/) — Crystallization buffer used at 100 mM pH 6.5
 - [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — Commonly used buffer in membrane protein biochemistry
 - [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/) — Common buffer used in purification and crystallization
+- [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers

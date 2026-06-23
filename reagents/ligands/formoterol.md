@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Human Beta2-Adrenergic Receptor (beta2 AR) | 320 uM | NMR spectroscopy study of [13C]methyl-beta2 AR bound to saturating concentration of agonist (R,R)-formoterol. The sample was prepared by reductive methylation of purified beta2 AR365 from Sf9 cells solubilized in DDM.
+| Human Beta2-Adrenergic Receptor (beta2 AR) | 320 uM | NMR spectroscopy study of [13C]methyl-beta2 AR bound to saturating concentration of agonist (R,R)-formoterol. The sample was prepared by reductive methylation of purified beta2 AR365 from Sf9 cells solubilized in [DDM](/xray-mp-wiki/reagents/detergents/ddm/).
  | Stabilized a distinct ECS conformation of beta2 AR, demonstrating conformational coupling between the orthosteric binding site and the extracellular surface. The formoterol-bound spectrum showed distinct chemical shift changes at Lys 305 compared to the unliganded and inverse agonist-bound states.
  |
 
@@ -49,8 +49,9 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Beta2-Adrenergic Receptor (beta2 AR)](/xray-mp-wiki/proteins/beta2-adrenergic-receptor/) — Primary target of formoterol agonist activity
+- [Human Beta2-Adrenergic Receptor (beta2 AR)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Primary target of formoterol agonist activity
 - [Carazolol](/xray-mp-wiki/reagents/ligands/carazolol/) — Inverse agonist ligand for beta2 AR used in comparative NMR study
 - [Alprenolol](/xray-mp-wiki/reagents/ligands/alprenolol/) — Neutral antagonist ligand for beta2 AR used in comparative NMR study
 - [GPCR Active Conformation](/xray-mp-wiki/concepts/gpcr-active-conformation/) — Formoterol stabilizes the active conformation of beta2 AR
 - [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/allosteric-regulation/) — Ligand-specific ECS conformational changes demonstrate allosteric coupling
+- [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used in purification or crystallization

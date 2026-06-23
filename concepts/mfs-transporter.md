@@ -1,12 +1,12 @@
 ---
 title: Major Facilitator Superfamily (MFS)
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-08
+updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
 tags: [concept-protein-family, subdirectory-concepts]
-sources: [doi/10.1038##nature03692, doi/10.1038##EMBOJ.2010.309, doi/10.1016##j.str.2014.06.008, doi/10.1016##j.str.2014.12.012, doi/10.1016##j.jbc.2021.100479, doi/10.1016##j.jmb.2018.02.026, doi/10.1038##nature13306, doi/10.1038##ncomms5521]
+sources: [doi/10.1038##nature03692, doi/10.1038##EMBOJ.2010.309, doi/10.1016##j.str.2014.06.008, doi/10.1016##j.str.2014.12.012, doi/10.1016##j.jbc.2021.100479, doi/10.1016##j.jmb.2018.02.026, doi/10.1038##nature13306, doi/10.1038##ncomms5521, doi/10.1038##ncomms8097, doi/10.1038##ncomms8177, doi/10.1038##s41467-023-42073-0]
 verified: false
 ---
 
@@ -25,9 +25,10 @@ The Major Facilitator Superfamily (MFS) is one of the largest families of second
 
 
 ## Cross-References
-- [Na+/H+ Antiporter NhaA](/xray-mp-wiki/proteins/nhaa/) — MFS transporter with 10 TM helices, first Na+/H+ antiporter structure
-- [PepT_So Oligopeptide Transporter](/xray-mp-wiki/proteins/pept-so/) — POT family member, MFS transporter with 12 TM helices
-- [NupG Nucleoside Proton Symporter](/xray-mp-wiki/proteins/nupg/) — NHS family member, first crystal structure of a nucleoside proton symporter
+- [Na+/H+ Antiporter NhaA](/xray-mp-wiki/proteins/slc-transporters/nhaa/) — MFS transporter with 10 TM helices, first Na+/H+ antiporter structure
+- [PepT_So Oligopeptide Transporter](/xray-mp-wiki/proteins/mfs-transporters/pept-so/) — POT family member, MFS transporter with 12 TM helices
+- [NupG Nucleoside Proton Symporter](/xray-mp-wiki/proteins/mfs-transporters/nupg/) — NHS family member, first crystal structure of a nucleoside proton symporter
 - [POT Family](/xray-mp-wiki/concepts/pot-family/) — Proton-dependent oligopeptide transporter family within MFS
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Core transport mechanism of MFS transporters
 - [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/rocker-switch-mechanism/) — MFS-specific variant of alternating access
+- [Rv1410 MFS Transporter (P55)](/xray-mp-wiki/proteins/mfs-transporters/rv1410/) — DHA2 subclass MFS transporter, TAG:H+ antiporter from Mycobacterium tuberculosis with conserved E157-R426 ion lock

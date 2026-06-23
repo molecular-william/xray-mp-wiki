@@ -6,7 +6,7 @@ type: method
 category: methods
 layout: default
 tags: [structure-mad, structure-xray, subdirectory-structure-determination]
-sources: [doi/10.1016##j.str.2005.11.015, doi/10.1038##NATURE10963, doi/10.1038##ncomms8947]
+sources: [doi/10.1074##jbc.M114.622688, doi/10.1016##j.str.2005.11.015, doi/10.1038##NATURE10963, doi/10.1038##ncomms8947]
 verified: false
 ---
 
@@ -56,8 +56,8 @@ In MAD phasing, diffraction data are collected at multiple wavelengths across th
 
 | Protein | Resolution | PDB | Notes |
 |---|---|---|---|
-| [AcrA multidrug efflux pump periplasmic protein](/xray-mp-wiki/proteins/acra/) | 2.71 A | 2HJ9 | Crystals of AcrA(45-312)-4M (quadruple methionine mutant) collected at three wavelengths (0.97938 A, 0.97955 A, 0.96415 A) at APS-BM19 and one wavelength (1.000 A) at ALS-8.2.2. 16 Se sites located with SHELXL, refined with SHARP. Structure refined to 2.71 A resolution with R_work 23.7% and R_free 27.5%. |
-| [VrH+PPase (Vigna radiata H+-Pumping Inorganic Pyrophosphatase)](/xray-mp-wiki/proteins/vrh-ppase/) | 2.6 A | TBA | Ta6Br12 (tantalum bromide cluster) derivative collected at NSRRC BL13B1 at three wavelengths: peak (1.2545 A), inflection (1.2548 A), remote (1.2299 A) at the Tl LIII absorption edge. 10 Ta sites located. Used MAD phasing to solve the structure. Space group C2. Cell dimensions: a=218.6, b=88.2, c=162.1. |
+| [AcrA multidrug efflux pump periplasmic protein](/xray-mp-wiki/proteins/abc-transporters/acra/) | 2.71 A | 2HJ9 | Crystals of AcrA(45-312)-4M (quadruple methionine mutant) collected at three wavelengths (0.97938 A, 0.97955 A, 0.96415 A) at APS-BM19 and one wavelength (1.000 A) at ALS-8.2.2. 16 Se sites located with SHELXL, refined with SHARP. Structure refined to 2.71 A resolution with R_work 23.7% and R_free 27.5%. |
+| [VrH+PPase (Vigna radiata H+-Pumping Inorganic Pyrophosphatase)](/xray-mp-wiki/proteins/pumps-atpases/vrh-ppase/) | 2.6 A | TBA | Ta6Br12 (tantalum bromide cluster) derivative collected at NSRRC BL13B1 at three wavelengths: peak (1.2545 A), inflection (1.2548 A), remote (1.2299 A) at the Tl LIII absorption edge. 10 Ta sites located. Used MAD phasing to solve the structure. Space group C2. Cell dimensions: a=218.6, b=88.2, c=162.1. |
 
 ## Related Methods
 

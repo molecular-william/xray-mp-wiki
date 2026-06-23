@@ -42,4 +42,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [Na+,K+-ATPase from Squalus acanthias](/xray-mp-wiki/proteins/na-k-atpase-shark/) — Tl⁺ substitution used to visualize sequential K⁺ release from E2·MgF₄²⁻·2K⁺ state
+- [Na+,K+-ATPase from Squalus acanthias](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-shark/) — Tl⁺ substitution used to visualize sequential K⁺ release from E2·MgF₄²⁻·2K⁺ state

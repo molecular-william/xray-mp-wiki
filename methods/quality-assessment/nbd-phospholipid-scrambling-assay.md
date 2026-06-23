@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-The NBD-phospholipid scrambling assay is a functional assay used to measure lipid scramblase activity. It employs nitrobenzoxadiazole (NBD)-labeled phospholipids (NBD-PE and NBD-PS) incorporated into liposomes to monitor the translocation of lipids between the inner and outer leaflets of the bilayer.
+The NBD-phospholipid scrambling assay is a functional assay used to measure lipid scramblase activity. It employs nitrobenzoxadiazole (NBD)-labeled phospholipids ([NBD-PE](/xray-mp-wiki/reagents/lipids/nbd-pe/) and [NBD-PS](/xray-mp-wiki/reagents/lipids/nbd-ps/)) incorporated into liposomes to monitor the translocation of lipids between the inner and outer leaflets of the bilayer.
 
 ## Principle
 
@@ -34,9 +34,9 @@ NBD-labeled phospholipids are incorporated into the outer leaflet of proteolipos
 
 ### Steps
 
-1. {'step': 'Liposome preparation', 'description': 'Prepare liposomes from a mixture of egg PC and E. coli polar lipids (3:1 wt/wt ratio) by extrusion through a 400-nm filter after three freeze-thaw cycles'}
+1. {'step': 'Liposome preparation', 'description': 'Prepare liposomes from a mixture of egg PC and [E. coli Polar Lipids](/xray-mp-wiki/reagents/lipids/e-coli-polar-lipids/) (3:1 wt/wt ratio) by extrusion through a 400-nm filter after three freeze-thaw cycles'}
 2. {'step': 'Protein reconstitution', 'description': 'Reconstitute purified scramblase protein into liposomes by detergent dilution or freeze-thaw cycles'}
-3. {'step': 'Assay setup', 'description': 'Dilute proteoliposome suspension into assay buffer (60 mM HEPES pH 7.4) containing 2 mM EGTA or 2 mM EGTA plus divalent cations in a stirred cuvette at 23 C'}
+3. {'step': 'Assay setup', 'description': 'Dilute proteoliposome suspension into assay buffer (60 mM HEPES pH 7.4) containing 2 mM [EGTA](/xray-mp-wiki/reagents/additives/egta/) or 2 mM [EGTA](/xray-mp-wiki/reagents/additives/egta/) plus divalent cations in a stirred cuvette at 23 C'}
 4. {'step': 'Dithionite addition and fluorescence measurement', 'description': 'Add sodium dithionite to final concentration of 30 mM and record fluorescence decay on a spectrofluorometer (excitation 470 nm, emission 530 nm)'}
 5. {'step': 'Data analysis', 'description': 'Normalize fluorescence intensity to F/Fmax and fit to exponential decay functions to determine scrambling kinetics'}
 

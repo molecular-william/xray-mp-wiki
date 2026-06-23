@@ -1,7 +1,7 @@
 ---
 title: Rolofylline
-created: 2026-05-27
-updated: 2026-05-27
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -35,7 +35,7 @@ Rolofylline was docked into the A1AR crystal structure and found to engage the h
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Adenosine A1 Receptor (A1AR)](/xray-mp-wiki/proteins/human-adenosine-a1-receptor-a1ar/) | not specified | Lowest energy docking conformation into A1AR structure | Engages hydrophobic pocket near T270(7.35) |
+| [Human Adenosine A1 Receptor (A1AR)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a1-receptor-a1ar/) | not specified | Lowest energy docking conformation into A1AR structure | Engages hydrophobic pocket near T270(7.35) |
 
 ## Advantages and Disadvantages
 
@@ -47,5 +47,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Adenosine A1 Receptor (A1AR)](/xray-mp-wiki/proteins/human-adenosine-a1-receptor-a1ar/) — Docked into A1AR binding pocket
+- [Human Adenosine A1 Receptor (A1AR)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a1-receptor-a1ar/) — Docked into A1AR binding pocket
 - [DPCPX](/xray-mp-wiki/reagents/ligands/dpcpx/) — Related xanthine antagonist; similar docking pose

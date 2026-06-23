@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/beta2-adrenergic-receptor/) | Stoichiometric excess over beta2 AR365 | Fab5 fragments were mixed with purified beta2 AR365 in stoichiometric excess to form the beta2 AR365-Fab5 complex. The complex was purified by Superdex-200 size-exclusion chromatography and concentrated to 60 mg/ml for crystallization. Two crystal forms were obtained: beta2 AR365-Fab5 (3.4 A, C2) and beta2 AR24/365-Fab5 (3.4 A, C2).
+| [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) | Stoichiometric excess over beta2 AR365 | Fab5 fragments were mixed with purified beta2 AR365 in stoichiometric excess to form the beta2 AR365-Fab5 complex. The complex was purified by Superdex-200 size-exclusion chromatography and concentrated to 60 mg/ml for crystallization. Two crystal forms were obtained: beta2 AR365-Fab5 (3.4 A, C2) and beta2 AR24/365-Fab5 (3.4 A, C2).
  | First crystal structure of beta2-adrenergic receptor at 3.4 A resolution (PDB: 2RH1)
  |
 
@@ -41,7 +41,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/beta2-adrenergic-receptor/) — Primary target of Fab5 antibody fragment
+- [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Primary target of Fab5 antibody fragment
 - [Nb.AT110i1 Synthetic Nanobody](/xray-mp-wiki/reagents/antibodies/nb-at110i1/) — Related antibody technology used for GPCR crystallization
 - [scFv16 Antibody Fragment](/xray-mp-wiki/reagents/antibodies/scfv16/) — Related antibody fragment used for GPCR crystallization
 - [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Used to purify the beta2 AR365-Fab5 complex

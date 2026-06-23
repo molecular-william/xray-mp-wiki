@@ -1,48 +1,45 @@
 ---
-title: Palmitoyl-Oleoyl-Phosphatidylethanolamine (POPE)
-created: 2026-06-02
-updated: 2026-06-03
+title: POPE (1-palmitoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine)
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
-tags: [lipid-diacyl, subdirectory-lipids]
-sources: [doi/10.1038##nature08156, doi/10.1038##nature12484, doi/10.1038##ncomms11673]
+tags: [lipid, subdirectory-lipids]
+sources: [doi/10.1016##j.jmb.2019.12.025, doi/10.1016##j.str.2019.04.007]
 verified: false
 ---
 
-# Palmitoyl-Oleoyl-Phosphatidylethanolamine (POPE)
+# POPE (1-palmitoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine)
 
 ## Overview
 
-Palmitoyl-oleoyl-phosphatidylethanolamine (POPE) is a diacyl phospholipid with a palmitoyl (16:0) chain at the sn-1 position and an oleoyl (18:1) chain at the sn-2 position. POPE is one of the most abundant phospholipids in bacterial cell membranes and is commonly used in structural biology to mimic biological lipid bilayers. It was used in molecular dynamics simulations to model membrane protein insertion into a phospholipid bilayer.
+POPE (1-palmitoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine) is a zwitterionic phospholipid commonly used in membrane protein structural studies. It is the predominant lipid species in the inner membrane of E. coli and is widely used as a model bilayer for molecular dynamics simulations of membrane proteins. In AcrB studies, POPE was used in MD simulations to model the native membrane environment and investigate competitive binding between POPE acyl chains and carboxylated drugs at the TM1/TM2 groove. In MsbA studies, POPE was used in ATPase activity measurements and MD simulations to study lipid A transport.
 
 
 ## Properties
 
-- **Chemical name**: 1-palmitoyl-2-oleoyl-sn-glycero-3-phosphoethanolamine
-- **Chemical formula**: C41H78NO8P
-- **Molecular weight**: 716.05 g/mol
-- **Class**: phosphatidylethanolamine
+- **Molecular weight**: 718.0
+- **Class**: Phosphatidylethanolamine (zwitterionic phospholipid)
 
 ## Use in Membrane Protein Work
 
-### Molecular dynamics simulation of SNARE complex in lipid bilayer
+### Model membrane for MD simulations of AcrB
 
-POPE lipids were chosen to mimic a simple membrane with a thickness of approximately 4.5-5.0 nm in short molecular dynamics simulations of the synaptic SNARE complex. Because PE head groups are highly abundant in animal membranes and PO is a relatively short tail group, POPE was used to model the position of the SNARE complex in a palmitoyl-oleoyl-phosphatidylethanolamine bilayer. The hydrophobic parts of the transmembrane regions of syntaxin-1A and synaptobrevin-2 were centered within the hydrophobic part of the bilayer.
+POPE bilayers were used for microsecond-long MD simulations of wild-type, I27A, and V340A AcrB variants to study drug binding at the TM1/TM2 groove. POPE molecules at the groove formed H-bonds and salt bridges with residues N298, K334, and H338, competing with carboxylated drug substrates.
 
 
-### Molecular dynamics simulation of LeuT dimer in lipid bilayer
+### Model membrane for MD simulations of MsbA
 
-POPE lipids used to model the membrane bilayer for molecular dynamics simulations of the LeuT crystal dimer. The dimer was inserted into a POPE bilayer with at least 20 A of lipids surrounding it. The system was solvated with TIPS3P water and 0.2 M NaCl. Simulations used CHARMM36 force field for protein and lipids, with a 2 fs time step at 310 K. Total system contained ~130,000 atoms.
+POPE bilayers were used in 200 ns MD simulations of MsbA to study lipid A dissociation from the periplasmic surface binding site. Strong electrostatic interactions between lipid A and POPE head groups were observed.
 
 
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| SNARE complex (syntaxin-1A, SNAP-25A, synaptobrevin-2) | N/A | Molecular dynamics simulation of SNARE complex in POPE bilayer | Estimated position of four-helix bundle in phospholipid bilayer; hydrophilic head groups shown as balls, aliphatic chains as sticks |
-| Na+/H+ Antiporter NapA from Thermus thermophilus | N/A (75% in 4:1 POPE:POPG mixture) | Molecular dynamics simulation of NapA dimer in mixed POPE/POPG bilayer approximating E. coli membrane composition | NapA dimer stable in the mixed lipid bilayer; sodium ions spontaneously bound to Asp 157 |
-| LeuT Amino Acid Transporter from Aquifex aeolicus | N/A (pure POPE bilayer) | Molecular dynamics simulation of LeuT crystal dimer in pure POPE bilayer; dimer inserted with 20 A padding, solvated with TIPS3P water and 0.2 M NaCl; ~130,000 atoms total; CHARMM36 force field; 310 K; 2 fs time step; total simulation 1.2 microseconds | Simulations revealed Leu25 remains stably positioned in S1 substrate-binding site in Na+-free return state, preventing Na+ access to Na1 and Na2 sites |
+| [AcrB Multidrug Efflux Transporter](/xray-mp-wiki/proteins/abc-transporters/acrb/) |  | POPE bilayer MD simulations of wild-type and variant AcrB to study TM1/TM2 groove drug binding |  |
+| [MsbA Lipid A Flippase](/xray-mp-wiki/proteins/abc-transporters/msba/) |  | POPE bilayer MD simulations of MsbA-lipid A interactions and ATPase activity measurements |  |
 
 ## Advantages and Disadvantages
 
@@ -54,6 +51,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [Membrane Mimetics and Structural Biology](/xray-mp-wiki/concepts/membrane-mimetics/) — POPE used as membrane bilayer component in MD simulations
-- [Syntaxin-1A](/xray-mp-wiki/proteins/syntaxin-1a/) — POPE bilayer used to model syntaxin-1A transmembrane region insertion
-- [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/leut/) — POPE bilayer used for LeuT dimer MD simulations revealing return state mechanism
+- [AcrB Multidrug Efflux Transporter](/xray-mp-wiki/proteins/abc-transporters/acrb/) — POPE bilayer used in MD simulations of AcrB to study TM1/TM2 groove drug binding
+- [MsbA Lipid A Flippase](/xray-mp-wiki/proteins/abc-transporters/msba/) — POPE used in MsbA ATPase assays and MD simulations of lipid A transport

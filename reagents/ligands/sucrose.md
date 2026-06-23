@@ -34,7 +34,7 @@ Sucrose can be included in crystallization conditions to promote ligand-bound co
 
 ### Cryoprotectant for squid rhodopsin crystals
 
-Sucrose at 20% (w/v) was used as a cryoprotectant for hexagonal P62 crystals of C-terminally truncated [squid rhodopsin](/xray-mp-wiki/proteins/squid-rhodopsin/). Crystals were soaked for 10 min in cryoprotectant solution and flash-frozen in liquid propane at 100 K for X-ray diffraction data collection.
+Sucrose at 20% (w/v) was used as a cryoprotectant for hexagonal P62 crystals of C-terminally truncated [squid rhodopsin](/xray-mp-wiki/proteins/gpcr/squid-rhodopsin/). Crystals were soaked for 10 min in cryoprotectant solution and flash-frozen in liquid propane at 100 K for X-ray diffraction data collection.
 
 
 ## Examples from This Wiki
@@ -50,6 +50,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [LbSemiSWEET from Leptospira biflexa](/xray-mp-wiki/proteins/lbsemisweet/) — Related sugar transporter; LbSemiSWEET transports glucose instead of sucrose
+- [LbSemiSWEET from Leptospira biflexa](/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/) — Related sugar transporter; LbSemiSWEET transports glucose instead of sucrose
 - [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet/) — Sucrose is the substrate for SemiSWEET transporters including BjSemiSWEET1
 - [SWEET Transporter Family](/xray-mp-wiki/concepts/sweet-transporter/) — Sucrose is a substrate for several SWEET family members in plants

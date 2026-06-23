@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Monogalactosyl diacylglycerol (MGDG) is the most abundant lipid in thylakoid membranes, comprising approximately 50% of total thylakoid lipids. It is a diacylglycerol with a single galactose headgroup attached via a beta-1,1 glycosidic bond. MGDG has non-bilayer propensity and plays a critical role in maintaining the curvature and structural integrity of thylakoid membranes. It is one of the four lipid species integrally bound to photosystem II, with six MGDG molecules per PSII monomer.
+Monogalactosyl diacylglycerol (MGDG) is the most abundant lipid in thylakoid membranes, comprising approximately 50% of total thylakoid lipids. It is a diacylglycerol with a single galactose headgroup attached via a beta-1,1 glycosidic bond. MGDG has non-bilayer propensity and plays a critical role in maintaining the curvature and structural integrity of thylakoid membranes. It is one of the four lipid species integrally bound to [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/), with six MGDG molecules per PSII monomer.
 
 
 ## Properties
@@ -38,7 +38,7 @@ MGDG is the predominant lipid in thylakoid membranes, where its conical molecula
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Photosystem II | 6 per monomer | Integral lipid bound to PSII core complex from Thermosynechococcus elongatus; hydrophilic headgroups near membrane surface, hydrophobic chains in membrane interior | Contributes to structural flexibility and assembly of PSII complex |
+| [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) | 6 per monomer | Integral lipid bound to PSII core complex from Thermosynechococcus elongatus; hydrophilic headgroups near membrane surface, hydrophobic chains in membrane interior | Contributes to structural flexibility and assembly of PSII complex |
 
 ## Advantages and Disadvantages
 
@@ -49,3 +49,5 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) — Related protein structure

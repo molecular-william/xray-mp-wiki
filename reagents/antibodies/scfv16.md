@@ -6,7 +6,7 @@ type: reagent
 category: reagents
 layout: default
 tags: [antibody, subdirectory-antibodies]
-sources: [doi/10.1016##j.cell.2020.01.008]
+sources: [doi/10.1016##j.cell.2020.01.008, doi/10.1038##s41422-022-00679-x]
 verified: false
 ---
 
@@ -27,8 +27,8 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Cannabinoid Receptor 2 (CNR2/CB2)](/xray-mp-wiki/proteins/cb2/) | 1.2 molar excess added to CB2-Gi complex | scFv16 stabilized CB2-Gi complex for cryo-EM structure determination at 2.9 A resolution (PDB 6KPF); 960,302 particles after 3D classification | Enabled high-resolution cryo-EM structure of active-state CB2-Gi complex |
-| [Cannabinoid Receptor 1 (CNR1/CB1)](/xray-mp-wiki/proteins/cnr1/) | 1.2 molar excess added to CB1-Gi complex | scFv16 stabilized CB1-Gi complex for cryo-EM structure determination at 3.0 A resolution (PDB 6KPG); 505,644 particles after 3D classification | Enabled high-resolution cryo-EM structure of active-state CB1-Gi complex |
+| [Cannabinoid Receptor 2 (CNR2/CB2)](/xray-mp-wiki/proteins/gpcr/cb2/) | 1.2 molar excess added to CB2-Gi complex | scFv16 stabilized CB2-Gi complex for cryo-EM structure determination at 2.9 A resolution (PDB 6KPF); 960,302 particles after 3D classification | Enabled high-resolution cryo-EM structure of active-state CB2-Gi complex |
+| [Cannabinoid Receptor 1 (CNR1/CB1)](/xray-mp-wiki/proteins/gpcr/cnr1/) | 1.2 molar excess added to CB1-Gi complex | scFv16 stabilized CB1-Gi complex for cryo-EM structure determination at 3.0 A resolution (PDB 6KPG); 505,644 particles after 3D classification | Enabled high-resolution cryo-EM structure of active-state CB1-Gi complex |
 
 ## Binding Mode
 

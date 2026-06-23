@@ -26,7 +26,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/d-dopamine-transporter/) | 1.4 uM Ki (dDAT_mfc sub^B) | Crystal structure of dDAT_mfc sub^B in complex with beta-CFT; binding assay on dDAT_mfc | Tropane inhibitor bound at central site, structural basis for DAT inhibition by cocaine analogues |
+| [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/slc-transporters/d-dopamine-transporter/) | 1.4 uM Ki (dDAT_mfc sub^B) | Crystal structure of dDAT_mfc sub^B in complex with beta-CFT; binding assay on dDAT_mfc | Tropane inhibitor bound at central site, structural basis for DAT inhibition by cocaine analogues |
 
 ## Binding Mode
 
@@ -47,7 +47,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/d-dopamine-transporter/) — Primary protein target, cocrystal structure reported
+- [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/slc-transporters/d-dopamine-transporter/) — Primary protein target, cocrystal structure reported
 - [Cocaine](/xray-mp-wiki/reagents/ligands/cocaine/) — Related tropane inhibitor, same binding site
 - [RTI-55](/xray-mp-wiki/reagents/ligands/rti-55/) — Related tropane inhibitor with iodophenyl group
 - [Nortriptyline](/xray-mp-wiki/reagents/ligands/nortriptyline/) — Tricyclic antidepressant inhibitor that binds overlapping site

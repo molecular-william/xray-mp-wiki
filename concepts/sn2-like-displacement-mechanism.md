@@ -19,10 +19,10 @@ verified: false
 
 
 ## Examples in Membrane Protein Work
-
+- IPCT/DIPPS from Archaeoglobus fulgidus — Asp357/Asp382 function as base catalysts promoting nucleophilic attack of hydroxyl group (C3) of inositol-1-phosphate on beta-phosphoryl of CDP-inositol, forming DIPP and CMP
 
 ## Related Concepts
 
 
 ## Cross-References
-- [IPCT/DIPPS from Archaeoglobus fulgidus](/xray-mp-wiki/proteins/ipct-dipps/) — DIPPS domain proposed to follow SN2-like single displacement mechanism for phosphotransfer
+- [IPCT/DIPPS from Archaeoglobus fulgidus](/xray-mp-wiki/proteins/enzymes/ipct-dipps/) — DIPPS domain proposed to follow SN2-like single displacement mechanism for phosphotransfer

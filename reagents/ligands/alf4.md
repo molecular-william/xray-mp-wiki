@@ -28,8 +28,8 @@ No specific use cases documented.
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
 | LpCopA (Copper-Transporting P-type ATPase from Legionella pneumophila) | -- | Trapped E2.Pi state of LpCopA for X-ray crystallography; AlF4- binds to Asp426 with Mg2+ | Structure determined at 2.0 A resolution (PDB 3RFU) |
-| SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase 1a) | -- | Mimics E2.Pi state in SERCA1a for structural comparison | Structural comparison reveals A-domain shift relative to P-domain between E2P and E2.Pi states |
-| SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase 1a) | -- | Supplementary data from doi/10.1038/nature06418; E2-P*-AlF4- structure in space group P21 at 3.0 A resolution | Additional E2-Pi structure collected at ESRF ID29 with wavelength 1.066 A; compared with and without thapsigargin |
+| [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) (Sarcoplasmic Reticulum Ca2+-ATPase 1a) | -- | Mimics E2.Pi state in [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) for structural comparison | Structural comparison reveals A-domain shift relative to P-domain between E2P and E2.Pi states |
+| [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) (Sarcoplasmic Reticulum Ca2+-ATPase 1a) | -- | Supplementary data from doi/10.1038/nature06418; E2-P*-AlF4- structure in space group P21 at 3.0 A resolution | Additional E2-Pi structure collected at ESRF ID29 with wavelength 1.066 A; compared with and without [Thapsigargin](/xray-mp-wiki/reagents/ligands/thapsigargin/) |
 
 ## Advantages and Disadvantages
 
@@ -52,5 +52,7 @@ No comparison data available.
 ## Cross-References
 
 - [BeF3 (Beryllium Fluoride)](/xray-mp-wiki/reagents/ligands/bef3/) — Another metal fluoride phosphate analog used for trapping phosphorylated states
-- [LpCopA (Copper-Transporting P-type ATPase from Legionella pneumophila)](/xray-mp-wiki/proteins/lp-copa/) — Used to trap E2.Pi state of LpCopA for crystallography
+- [LpCopA (Copper-Transporting P-type ATPase from Legionella pneumophila)](/xray-mp-wiki/proteins/pumps-atpases/lp-copa/) — Used to trap E2.Pi state of LpCopA for crystallography
 - [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/phosphoenzyme-e2p-state/) — AlF4- is used to structurally mimic the E2.Pi intermediate state
+- [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — Related protein structure
+- [Thapsigargin](/xray-mp-wiki/reagents/ligands/thapsigargin/) — Related ligand or cofactor

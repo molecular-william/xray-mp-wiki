@@ -1,6 +1,6 @@
 ---
 title: Triton X-100
-created: 2026-06-03
+created: 2026-06-11
 updated: 2026-05-28
 type: reagent
 category: reagents
@@ -52,7 +52,7 @@ Triton X-100 was used at 3% w/v to solubilize Escherichia coli membrane proteins
 | Archaerhodopsin-2 | not specified | Triton X-100 used to solubilize aR2 for functional studies | Reverted temporal sequence of light-induced proton uptake and release |
 | Escherichia coli Hydrogenase 1 (EcHyd-1) | 3% (solubilization), 0.02% (SEC) | Triton X-100 used for membrane solubilization of EcHyd-1-cytochrome b complex
  | Partially purified sample subjected to Superdex 200 gel filtration |
-| [bcMalT (Bacillus cereus Maltose Transporter)](/xray-mp-wiki/proteins/bc-malt/) | 0.12% (w/w) | Triton X-100 used in proteoliposome preparation for bcMalT functional assays. Preformed liposomes (E. coli polar lipid extract) destabilized with 0.12% Triton X-100 before bcMalT reconstitution at 1:100 (w/w) ratio.
+| [bcMalT (Bacillus cereus Maltose Transporter)](/xray-mp-wiki/proteins/enzymes/bc-malt/) | 0.12% (w/w) | Triton X-100 used in proteoliposome preparation for bcMalT functional assays. Preformed liposomes (E. coli polar lipid extract) destabilized with 0.12% Triton X-100 before bcMalT reconstitution at 1:100 (w/w) ratio.
  | bcMalT reconstituted into proteoliposomes for [3H]-maltose uptake measurements by facilitated diffusion |
 
 ## Advantages and Disadvantages
@@ -65,6 +65,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [GlpG Rhomboid Protease](/xray-mp-wiki/proteins/glpg/) — Used at 1% for membrane solubilization in L1 loop accessibility studies
-- [Archaerhodopsin-2](/xray-mp-wiki/proteins/archaerhodopsin-2/) — Related archaeal rhodopsin; Triton X-100 solubilization affects proton pump kinetics
-- [Escherichia coli Hydrogenase 1 (EcHyd-1)](/xray-mp-wiki/proteins/ec-hyd-1/) — Used at 3% for membrane solubilization of EcHyd-1-cytochrome b complex
+- [GlpG Rhomboid Protease](/xray-mp-wiki/proteins/enzymes/glpg/) — Used at 1% for membrane solubilization in L1 loop accessibility studies
+- [Archaerhodopsin-2](/xray-mp-wiki/proteins/rhodopsins/archaerhodopsin-2/) — Related archaeal rhodopsin; Triton X-100 solubilization affects proton pump kinetics
+- [Escherichia coli Hydrogenase 1 (EcHyd-1)](/xray-mp-wiki/proteins/enzymes/ec-hyd-1/) — Used at 3% for membrane solubilization of EcHyd-1-cytochrome b complex

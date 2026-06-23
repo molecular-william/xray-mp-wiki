@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Blastochloris viridis Photosynthetic Reaction Centre](/xray-mp-wiki/proteins/blastochloris-viridis-photosynthetic-reaction-centre/) | not specified | Menaquinone cofactor in the QA pocket of RC_vir; electron density maps at 3.5 A resolve both the head group and the isoprenoid tail | SFX structure (PDB 4CAS) at 3.5 A resolution; clear electron density for menaquinone in QA pocket |
+| [Blastochloris viridis Photosynthetic Reaction Centre](/xray-mp-wiki/proteins/photosynthesis/blastochloris-viridis-photosynthetic-reaction-centre/) | not specified | Menaquinone cofactor in the QA pocket of RC_vir; electron density maps at 3.5 A resolve both the head group and the isoprenoid tail | SFX structure (PDB 4CAS) at 3.5 A resolution; clear electron density for menaquinone in QA pocket |
 
 ## Advantages and Disadvantages
 
@@ -41,4 +41,4 @@ No comparison data available.
 
 - [Menaquinone](/xray-mp-wiki/reagents/ligands/menaquinone/) — General menaquinone family; MK-7 is the 7-isoprenoid isoform
 - [Ubiquinone (Coenzyme Q10)](/xray-mp-wiki/reagents/cofactors/ubiquinone/) — Similar quinone electron carrier with different side chain length
-- [Polysulfide Reductase (PsrABC)](/xray-mp-wiki/proteins/polysulfide-reductase/) — MK-7 is the natural quinone substrate for PsrABC
+- [Polysulfide Reductase (PsrABC)](/xray-mp-wiki/proteins/enzymes/polysulfide-reductase/) — MK-7 is the natural quinone substrate for PsrABC

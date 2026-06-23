@@ -1,12 +1,12 @@
 ---
 title: HiLiDe Crystallization
 created: 2026-06-02
-updated: 2026-06-04
+updated: 2026-06-16
 type: method
 category: methods
 layout: default
 tags: [crystallization-vapor-diffusion, subdirectory-crystallization]
-sources: [doi/10.1038##NSMB.2721, doi/10.1038##NSMB.2894, doi/10.1038##ncomms4110]
+sources: [doi/10.1038##NSMB.2721, doi/10.1038##NSMB.2894, doi/10.1038##ncomms4110, doi/10.7554##eLife.73124]
 verified: false
 ---
 
@@ -26,12 +26,12 @@ In HiLiDe crystallization, membrane proteins in detergent solution are mixed wit
 
 - {'name': 'Membrane protein in detergent', 'concentration': '--', 'notes': 'Protein solubilized in appropriate detergent'}
 - {'name': 'Crystallization buffer', 'concentration': '--', 'notes': 'Standard crystallization conditions (precipitant, pH, salts)'}
-- {'name': 'Lipid (optional)', 'concentration': '--', 'notes': 'Exogenous lipid (e.g., DOPC) can be added to facilitate crystal formation'}
+- {'name': 'Lipid (optional)', 'concentration': '--', 'notes': 'Exogenous lipid (e.g., [DOPC](/xray-mp-wiki/reagents/lipids/dopc/)) can be added to facilitate crystal formation'}
 
 ### Steps
 
 1. {'step': 'Protein preparation', 'description': 'Purify membrane protein and solubilize in mild detergent'}
-2. {'step': 'Lipid mixing', 'description': 'Mix protein-detergent complex with lipid (e.g., DOPC) and incubate overnight'}
+2. {'step': 'Lipid mixing', 'description': 'Mix protein-detergent complex with lipid (e.g., [DOPC](/xray-mp-wiki/reagents/lipids/dopc/)) and incubate overnight'}
 3. {'step': 'Mixing', 'description': 'Mix protein-lipid-detergent solution with crystallization reservoir solution'}
 4. {'step': 'Crystallization', 'description': 'Allow crystals to grow via hydrophobic interaction-driven stacking'}
 5. {'step': 'Cryoprotection', 'description': 'Flash-freeze crystals for X-ray data collection'}

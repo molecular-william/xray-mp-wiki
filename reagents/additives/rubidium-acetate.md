@@ -42,4 +42,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [Na+,K+-ATPase from Squalus acanthias](/xray-mp-wiki/proteins/na-k-atpase-shark/) — Rb⁺ substitution used alongside Tl⁺ to confirm sequential K⁺ release
+- [Na+,K+-ATPase from Squalus acanthias](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-shark/) — Rb⁺ substitution used alongside Tl⁺ to confirm sequential K⁺ release

@@ -24,9 +24,9 @@ SNARE complex assembly proceeds through conserved SNARE motifs, each forming one
   contributing two helices), and synaptobrevin-2 (R-SNARE). The X-ray structure at
   3.4 A resolution revealed continuous helical extension from the SNARE core through
   the linkers into the transmembrane regions.
-  [Syntaxin-1A](/xray-mp-wiki/proteins/syntaxin-1a/)
-  [SNAP-25A](/xray-mp-wiki/proteins/snap-25a/)
-  [Synaptobrevin-2](/xray-mp-wiki/proteins/synaptobrevin-2/)
+  [Syntaxin-1A](/xray-mp-wiki/proteins/structural-adhesion/syntaxin-1a/)
+  [SNAP-25A](/xray-mp-wiki/proteins/structural-adhesion/snap-25a/)
+  [Synaptobrevin-2](/xray-mp-wiki/proteins/structural-adhesion/synaptobrevin-2/)
 - **Endosomal SNARE complex**: Composed of syntaxin-7 (Qa-SNARE), syntaxin-8 (Qb-SNARE),
   Vti1b (Qc-SNARE), and endobrevin/STXBP4 (R-SNARE). Contains all four transmembrane
   regions and is more stable than the corresponding core complex.
@@ -38,7 +38,7 @@ SNARE complex assembly proceeds through conserved SNARE motifs, each forming one
   mediated by SNARE complexes
 
 ## Cross-References
-- [Syntaxin-1A](/xray-mp-wiki/proteins/syntaxin-1a/) — Qa-SNARE component of the neuronal SNARE complex
-- [SNAP-25A](/xray-mp-wiki/proteins/snap-25a/) — Qbc-SNARE component contributing two helices to the four-helix bundle
-- [Synaptobrevin-2](/xray-mp-wiki/proteins/synaptobrevin-2/) — R-SNARE component of the neuronal SNARE complex
-- [Tlg2](/xray-mp-wiki/proteins/tlg2/) — Qa-SNARE protein from endosomal system; related SNARE family member
+- [Syntaxin-1A](/xray-mp-wiki/proteins/structural-adhesion/syntaxin-1a/) — Qa-SNARE component of the neuronal SNARE complex
+- [SNAP-25A](/xray-mp-wiki/proteins/structural-adhesion/snap-25a/) — Qbc-SNARE component contributing two helices to the four-helix bundle
+- [Synaptobrevin-2](/xray-mp-wiki/proteins/structural-adhesion/synaptobrevin-2/) — R-SNARE component of the neuronal SNARE complex
+- [Tlg2](/xray-mp-wiki/proteins/structural-adhesion/tlg2/) — Qa-SNARE protein from endosomal system; related SNARE family member

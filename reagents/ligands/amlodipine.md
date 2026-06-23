@@ -1,7 +1,7 @@
 ---
 title: Amlodipine
-created: 2026-06-03
-updated: 2026-06-03
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -46,6 +46,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [CaVAb Bacterial Voltage-Gated Calcium Channel](/xray-mp-wiki/proteins/ca-vab/) — Primary structural target with amlodipine-bound crystal structure
+- [CaVAb Bacterial Voltage-Gated Calcium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/ca-vab/) — Primary structural target with amlodipine-bound crystal structure
 - [Nimodipine](/xray-mp-wiki/reagents/ligands/nimodipine/) — Related dihydropyridine calcium channel antagonist with similar binding site
 - [Verapamil](/xray-mp-wiki/reagents/ligands/verapamil/) — Different class of Ca2+ antagonist (phenylalkylamine) with distinct binding site

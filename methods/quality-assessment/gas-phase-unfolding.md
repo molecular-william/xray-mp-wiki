@@ -25,18 +25,18 @@ Ion mobility measurements are performed over a range of collision voltages (typi
 ### Reagents and Materials
 
 - [n-octyl beta-D-glucopyranoside (OG)]
-- [octyltetraoxyethylene (C8E4)]
-- [phosphatidylglycerol (PG)]
-- [phosphatidylcholine (PC)]
-- [phosphatidylethanolamine (PE)]
-- [phosphatidylserine (PS)]
-- [phosphatidic acid (PA)]
-- [phosphatidylinositol (PI)]
-- [cardiolipin (CDL)]
+- [octyltetraoxyethylene ([C8E4](/xray-mp-wiki/reagents/detergents/c8e4/))]
+- [[Phosphatidylglycerol](/xray-mp-wiki/reagents/lipids/phosphatidylglycerol/) (PG)]
+- [[Phosphatidylcholine](/xray-mp-wiki/reagents/lipids/phosphatidylcholine/) (PC)]
+- [[Phosphatidylethanolamine](/xray-mp-wiki/reagents/lipids/phosphatidylethanolamine/) (PE)]
+- [[Phosphatidylserine](/xray-mp-wiki/reagents/lipids/phosphatidylserine/) (PS)]
+- [[Phosphatidic Acid](/xray-mp-wiki/reagents/lipids/phosphatidic-acid/) (PA)]
+- [[Phosphatidylinositol](/xray-mp-wiki/reagents/lipids/phosphatidylinositol/) (PI)]
+- [[Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) (CDL)]
 
 ### Steps
 
-1. {'step': 'Protein preparation', 'description': 'Purify membrane protein in optimal detergent (e.g., C8E4) and buffer exchange into volatile buffer (200 mM ammonium acetate, pH 7.2-8.0)'}
+1. {'step': 'Protein preparation', 'description': 'Purify membrane protein in optimal detergent (e.g., [C8E4](/xray-mp-wiki/reagents/detergents/c8e4/)) and buffer exchange into volatile buffer (200 mM [Ammonium Acetate](/xray-mp-wiki/reagents/buffers/ammonium-acetate/), pH 7.2-8.0)'}
 2. {'step': 'Lipid addition', 'description': 'Add phospholipids to protein complexes at optimized protein:lipid:detergent ratio; equilibrate 10-30 minutes at room temperature'}
 3. {'step': 'IM-MS measurement', 'description': 'Collect ion mobility mass spectra over range of collision voltages (5 V or 2 V steps); measure ion arrival times'}
 4. {'step': 'CCS calculation', 'description': 'Convert ion arrival time to CCS using Mason-Schamp equation; apply correction factor for missing residues'}

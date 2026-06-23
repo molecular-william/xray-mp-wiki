@@ -1,7 +1,7 @@
 ---
 title: Superdex 200 Increase SEC Resin
-created: 2026-06-08
-updated: 2026-06-08
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -31,7 +31,7 @@ No specific use cases documented.
 |---|---|---|---|
 | NtMATE2 Nicotine Transporter | not specified | Superdex 200 Increase 10/30 GL used for final polishing of NtMATE2 after TALON affinity chromatography and TEV protease tag cleavage. Buffer: 300 mM NaCl, 50 mM HEPES-Na pH 7.0, 1% glycerol, 0.03% LMNG, 0.003% CHS. Concentrated to 12 mg/mL for crystallization.
  | Homogeneous monodisperse peak collected for crystallization |
-| [NupG Nucleoside Proton Symporter](/xray-mp-wiki/proteins/nupg/) | not specified | Superdex 200 10/300 Increase column (GE Healthcare) used for final polishing of full-length NupG from E. coli after Ni-NTA affinity chromatography. Buffer: 25 mM MES pH 6.0, 150 mM NaCl, 0.4% NG. Peak fractions concentrated to 30 mg/ml for crystallization.
+| [NupG Nucleoside Proton Symporter](/xray-mp-wiki/proteins/mfs-transporters/nupg/) | not specified | Superdex 200 10/300 Increase column (GE Healthcare) used for final polishing of full-length NupG from E. coli after Ni-NTA affinity chromatography. Buffer: 25 mM MES pH 6.0, 150 mM NaCl, 0.4% NG. Peak fractions concentrated to 30 mg/ml for crystallization.
  | NupG purified to homogeneity for LCP crystallization |
 | Human Smoothened Receptor (SMO) | not specified | Superdex 200 SEC used for final polishing of BRIL-deltaCRD-SMO-deltaC after Ni-NTA affinity purification and thrombin tag cleavage. Buffer contained DDM. SMO-ligand complexes (SMO-SANT1, SMO-Anta XV, SMO-SAG1.5) purified for crystallization.
  | Homogeneous SMO-ligand complexes obtained for sitting drop vapor diffusion crystallization; three structures solved |

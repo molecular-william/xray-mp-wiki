@@ -1,32 +1,44 @@
 ---
 title: Nitrate/Nitrite Porter (NNP) Family
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-16
+updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
-tags: [concept-protein-family, subdirectory-concepts]
-sources: [doi/10.1038##ncomms8097, doi/10.1038##nature12139, doi/10.1038##nature13116]
+tags: [concept-protein-family, concept-transport-mechanism, xray-crystallography]
+sources: [doi/10.1038##nature12139, doi/10.1016##j.celrep.2013.03.007]
 verified: false
 ---
 
 # Nitrate/Nitrite Porter (NNP) Family
 
 ## Overview
-The nitrate/nitrite porter (NNP) family is a group of membrane transporters within the major facilitator superfamily (MFS) that transport nitrate and nitrite ions across biological membranes. NNP family members are conserved across all domains of life, from archaea to plants. The family includes bacterial transporters like NarK and NarU from Escherichia coli, and plant transporters like NRT2.1 from Arabidopsis thaliana. Members typically have 12 transmembrane helices and operate via an alternating-access mechanism with conserved Gly-mediated helix bending and conserved substrate-binding residues.
+The nitrate/nitrite porter (NNP) family is a subfamily of the major facilitator
+superfamily (MFS) that mediates the uptake of nitrate (NO3-) and nitrite (NO2-)
+across bacterial and eukaryotic membranes. Key members include the bacterial
+NarK and NarU transporters in E. coli and the plant NRT2 high-affinity nitrate
+transporters. NNP transporters are characterized by conserved glycine-rich
+nitrate signature motifs in TM5 and TM11, which provide conformational
+flexibility essential for substrate transport. Unlike the canonical rocker-switch
+model typical of MFS transporters, NNP family members may employ a mechanism
+involving bending of transmembrane helices (particularly TM10 and TM11) around
+flexible glycine hinges rather than rigid-body domain rotation. The substrate-binding
+site is defined by two conserved arginine residues (Arg87 and Arg303 in NarU)
+and polar residues (Asn173 and Tyr261) that coordinate the nitrate anion through
+hydrogen bonds. A thin cytoplasmic gate (two phenylalanine residues) and a thick
+periplasmic gate (multiple hydrophobic and polar layers) control alternating
+access to the binding site.
 
 ## Mechanism/Details
-The nitrate/nitrite porter (NNP) family is the most prevalent nitrate transporter group conserved in archaea, bacteria, fungi, yeast, algae, and plants. NNP family members belong to the major facilitator superfamily (MFS) and share low amino-acid sequence similarity with other MFS families like the NPF (Nitrate transporter 1/Peptide transporter Family). Bacterial NNP transporters play crucial roles in nitrate uptake as terminal electron acceptors for anaerobic respiration and extrusion of cytotoxic nitrite. Escherichia coli contains two NNP family members: NarK (highly expressed during anaerobic growth with nitrate, central role in nitrate uptake) and NarU (important during severe nutrient starvation). The NNP family members in higher plants, such as NRT2.1 from Arabidopsis thaliana, function as key components of high-affinity nitrate transport systems in root cells. NNP transporters share conserved structural features including 12 transmembrane helices with pseudo twofold symmetry, conserved Gly residues for TM helix bending (G268, G363-367, G408, G414, G417-418), and conserved substrate-binding residues (F49, R89, F147, N175, Y263, F267, R305).
+
 
 ## Examples in Membrane Protein Work
-
+- naru — NarU from E. coli is the structurally characterized NNP family member. Its 3.1 A crystal structure revealed occluded and partially inward-open conformations, a nitrate-binding site defined by four conserved residues (Arg87, Arg303, Asn173, Tyr261), and a gating architecture comprising a thin cytoplasmic gate (Phe145, Phe367) and a thick periplasmic gate.
 
 ## Related Concepts
 
 
 ## Cross-References
-- [NarK Nitrate/Nitrite Antiporter from Escherichia coli](/xray-mp-wiki/proteins/nark/) — NNP family member; primary subject of structural and functional studies
-- [NarU Nitrate/Nitrite Antiporter from Escherichia coli](/xray-mp-wiki/proteins/naru/) — Related NNP family member with 75% sequence similarity to NarK
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/mfs-transporter/) — NNP family is a member superfamily within the MFS
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — NNP family transporters operate via alternating access mechanism
-- [Nitrate/Nitrite Antiport Mechanism](/xray-mp-wiki/concepts/nitrate-nitrite-antiport-mechanism/) — NNP family transport mechanism characterized in NarK
+- [NarU Nitrate/Nitrite Transporter from Escherichia coli](/xray-mp-wiki/proteins/mfs-transporters/naru/) — Primary structurally characterized example of the NNP family
+- [Single-Wavelength Anomalous Diffraction (SAD)](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/) — SeMet SAD used to determine NarU structure
+- [Isothermal Titration Calorimetry](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/) — ITC used to characterize substrate binding affinity of NarU

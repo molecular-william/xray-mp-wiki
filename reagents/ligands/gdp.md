@@ -35,7 +35,7 @@ GDP is co-purified with mini-Gs (an engineered G alpha s variant) to form stable
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Adenosine A2A Receptor (A2AR)](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar/) | not specified | GDP bound to engineered mini-Gs in A2AR-mini-Gs complex crystallized at 3.4 A | GDP contributes to the active-state conformation of mini-Gs coupled to A2AR |
+| [Human Adenosine A2A Receptor (A2AR)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/) | not specified | GDP bound to engineered mini-Gs in A2AR-mini-Gs complex crystallized at 3.4 A | GDP contributes to the active-state conformation of mini-Gs coupled to A2AR |
 
 ## Advantages and Disadvantages
 

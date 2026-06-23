@@ -1,14 +1,14 @@
 ---
 title: Nickel Sulfate (NiSO₄)
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
-tags: [additive-salt]
-sources: [doi/10.1016##j.jmb.2012.03.020]
+tags: [additive-salt, subdirectory-additives]
+sources: [doi/10.1186##s12915-023-01689-w]
+verified: false
 ---
-
 
 # Nickel Sulfate (NiSO₄)
 
@@ -37,4 +37,4 @@ No comparison data available.
 ## Cross-References
 
 - [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Ni-NTA affinity purification uses nickel resin
-- [Magnesium Chloride](/xray-mp-wiki/reagents/additives/mgcl2/) — Common metal salt additive
+- [Magnesium Chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Common metal salt additive

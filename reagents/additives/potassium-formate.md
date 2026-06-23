@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/at2r/) | 25-100 mM | LCP crystallization reservoir for AT2R-Cpd 2 complex; also 25 mM for AT2R-Cpd 1 microcrystal preparation | Grew AT2R-Cpd 2 crystals (70x40x20 um) in 100 mM Tris-HCl pH 8.0 with 25-100 mM potassium formate, 25-35% PEG400, and 0.3-1.2% 1,6-hexanediol |
+| [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/) | 25-100 mM | LCP crystallization reservoir for AT2R-Cpd 2 complex; also 25 mM for AT2R-Cpd 1 microcrystal preparation | Grew AT2R-Cpd 2 crystals (70x40x20 um) in 100 mM Tris-HCl pH 8.0 with 25-100 mM potassium formate, 25-35% PEG400, and 0.3-1.2% 1,6-hexanediol |
 
 ## Advantages and Disadvantages
 
@@ -39,6 +39,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/at2r/) — Used in AT2R LCP crystallization
+- [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/) — Used in AT2R LCP crystallization
 - [Polyethylene Glycol 400 (PEG400)](/xray-mp-wiki/reagents/additives/peg-400/) — Co-precipitant used with potassium formate in AT2R crystallization
 - [1,6-Hexanediol](/xray-mp-wiki/reagents/additives/1-6-hexanediol/) — Additive used alongside potassium formate in AT2R crystallization

@@ -17,7 +17,7 @@ The conserved core triad (FPI triad) consists of three highly conserved amino ac
 
 
 ## Mechanism/Details
-In the mu-opioid receptor and beta2-adrenergic receptor, the conserved core triad undergoes a rearrangement associated with a counter-clockwise rotation and outward movement of the cytoplasmic end of TM6. For muOR and beta2AR, the inward movement of TM5 (stabilized by agonist interactions) drives this rearrangement. In the muOR, the morphinan scaffold of the agonist BU72 adopts a pose sterically incompatible with the inactive position of TM3, causing TM3 residues to shift 1.5 A toward TM2. W293^6.48 serves as an important spatial link between the ligand-binding pocket and the triad, with its rotameric state stabilized by agonist binding. The role of the triad differs in the M2 muscarinic receptor, where Val111^3.40 forms a weaker packing interaction, making the triad conformation similar in both inactive and active states.
+In the mu-opioid receptor and beta2-adrenergic receptor, the conserved core triad undergoes a rearrangement associated with a counter-clockwise rotation and outward movement of the cytoplasmic end of TM6. For muOR and beta2AR, the inward movement of TM5 (stabilized by agonist interactions) drives this rearrangement. In the muOR, the morphinan scaffold of the agonist [BU72](/xray-mp-wiki/reagents/ligands/bu72/) adopts a pose sterically incompatible with the inactive position of TM3, causing TM3 residues to shift 1.5 A toward TM2. W293^6.48 serves as an important spatial link between the ligand-binding pocket and the triad, with its rotameric state stabilized by agonist binding. The role of the triad differs in the M2 muscarinic receptor, where Val111^3.40 forms a weaker packing interaction, making the triad conformation similar in both inactive and active states.
 
 
 ## Examples in Membrane Protein Work
@@ -27,7 +27,8 @@ In the mu-opioid receptor and beta2-adrenergic receptor, the conserved core tria
 
 
 ## Cross-References
-- [Murine Mu-Opioid Receptor](/xray-mp-wiki/proteins/mu-opioid-receptor/) — Active-state structure reveals conserved core triad rearrangement
-- [Human Beta2-Adrenergic Receptor](/xray-mp-wiki/proteins/beta2-adrenergic-receptor/) — Similar core triad rearrangement in active beta2AR
+- [Murine Mu-Opioid Receptor](/xray-mp-wiki/proteins/gpcr/mu-opioid-receptor/) — Active-state structure reveals conserved core triad rearrangement
+- [Human Beta2-Adrenergic Receptor](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Similar core triad rearrangement in active beta2AR
 - [GPCR Active Conformation](/xray-mp-wiki/concepts/gpcr-active-conformation/) — Core triad rearrangement is key feature of active GPCR state
 - [Polar Network in GPCR Activation](/xray-mp-wiki/concepts/polar-network-gpcr-activation/) — Core triad rearrangement couples to polar network changes
+- [BU72](/xray-mp-wiki/reagents/ligands/bu72/) — Related ligand or cofactor

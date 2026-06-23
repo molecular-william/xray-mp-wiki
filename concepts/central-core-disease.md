@@ -13,7 +13,7 @@ verified: false
 # Central Core Disease and Ryanodine Receptor SPRY1 Domain
 
 ## Overview
-Central core disease (CCD) is a congenital myopathy associated with mutations in the ryanodine receptor type 1 (RyR1). The N760D mutation in RyR1 (N759D in human) maps to the SPRY1 domain and was shown to profoundly affect FKBP12 binding. This mutation causes approximately 75% misfolding of the SPRY1 domain, reducing FKBP binding at saturating levels by 74%. The N760 residue is involved in a hydrogen bond network with Asp753 and His747, the latter of which is directly in contact with FKBP. The disease-causing mutation introduces a negative charge that causes repulsion with Asp753, leading to conformational changes near the FKBP interface.
+Central core disease (CCD) is a congenital myopathy associated with mutations in the [Ryanodine Receptor Type 1 (RyR1)](/xray-mp-wiki/proteins/voltage-gated-channels/ry1/). The N760D mutation in RyR1 (N759D in human) maps to the SPRY1 domain and was shown to profoundly affect [FKBP12 (FK506 Binding Protein 12)](/xray-mp-wiki/proteins/voltage-gated-channels/fkbp12/) binding. This mutation causes approximately 75% misfolding of the SPRY1 domain, reducing FKBP binding at saturating levels by 74%. The N760 residue is involved in a hydrogen bond network with Asp753 and His747, the latter of which is directly in contact with FKBP. The disease-causing mutation introduces a negative charge that causes repulsion with Asp753, leading to conformational changes near the FKBP interface.
 
 
 ## Mechanism/Details
@@ -26,6 +26,7 @@ Central core disease (CCD) is a congenital myopathy associated with mutations in
 
 
 ## Cross-References
-- [Ryanodine Receptor Type 1 (RyR1)](/xray-mp-wiki/proteins/ry1/) — RyR1 N759D mutation causes central core disease
-- [Mouse RyR2 SPRY1 Domain](/xray-mp-wiki/proteins/ry2-spry1/) — Crystal structure of SPRY1 reveals molecular basis of N760D effect
-- [FKBP12 (FK506 Binding Protein 12)](/xray-mp-wiki/proteins/fkbp12/) — N760D mutation reduces FKBP binding by 74%
+- [Ryanodine Receptor Type 1 (RyR1)](/xray-mp-wiki/proteins/voltage-gated-channels/ry1/) — RyR1 N759D mutation causes central core disease
+- [Mouse RyR2 SPRY1 Domain](/xray-mp-wiki/proteins/voltage-gated-channels/ry2-spry1/) — Crystal structure of SPRY1 reveals molecular basis of N760D effect
+- [FKBP12 (FK506 Binding Protein 12)](/xray-mp-wiki/proteins/voltage-gated-channels/fkbp12/) — N760D mutation reduces FKBP binding by 74%
+- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification

@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Mouse 5-HT3A Receptor](/xray-mp-wiki/proteins/mouse-5ht3a-receptor/) | ~4 mg/mL complex | Co-crystallized with proteolyzed 5-HT3A receptor via hanging drop vapor diffusion; five VHH15 molecules bind radially at subunit interfaces | Enabled crystallization in P2₁2₁2₁ space group at 3.5 Å resolution; VHH15 covers the neurotransmitter binding site |
+| [Mouse 5-HT3A Receptor](/xray-mp-wiki/proteins/cys-loop-receptors/mouse-5ht3a-receptor/) | ~4 mg/mL complex | Co-crystallized with proteolyzed 5-HT3A receptor via hanging drop vapor diffusion; five VHH15 molecules bind radially at subunit interfaces | Enabled crystallization in P2₁2₁2₁ space group at 3.5 Å resolution; VHH15 covers the neurotransmitter binding site |
 
 ## Binding Mode
 
@@ -44,5 +44,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [Mouse 5-HT3A Receptor](/xray-mp-wiki/proteins/mouse-5ht3a-receptor/) — Primary target of VHH15; nanobody enables crystallization of the first mammalian Cys-loop receptor structure
+- [Mouse 5-HT3A Receptor](/xray-mp-wiki/proteins/cys-loop-receptors/mouse-5ht3a-receptor/) — Primary target of VHH15; nanobody enables crystallization of the first mammalian Cys-loop receptor structure
 - [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) — VHH15 is a camelid-derived single-domain antibody fragment

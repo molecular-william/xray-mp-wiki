@@ -1,7 +1,7 @@
 ---
 title: Trypsin
-created: 2026-05-27
-updated: 2026-05-27
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Trypsin is a serine protease that cleaves peptide bonds at the C-terminal side of lysine and arginine residues. In membrane protein crystallography, trypsin is widely used for limited proteolysis experiments to generate stable, crystallizable protein fragments by removing flexible or unstructured regions.
+Trypsin is a serine protease that cleaves peptide bonds at the C-terminal side of lysine and arginine residues. In membrane protein crystallography, trypsin is widely used for [Limited Proteolysis](/xray-mp-wiki/methods/purification/limited-proteolysis/) experiments to generate stable, crystallizable protein fragments by removing flexible or unstructured regions.
 
 
 ## Properties
@@ -33,7 +33,7 @@ Limited trypsinolysis was used to generate a truncated, crystallization-competen
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/osnip2-1/ | not specified | Limited proteolysis to generate crystallization-competent OsNIP2;1 construct (residues 38-264) | Truncated tetrameric fragment used for structure determination at 2.6 A |
+| /xray-mp-wiki/proteins/other-ion-channels/osnip2-1/ | not specified | [Limited Proteolysis](/xray-mp-wiki/methods/purification/limited-proteolysis/) to generate crystallization-competent OsNIP2;1 construct (residues 38-264) | Truncated tetrameric fragment used for structure determination at 2.6 A |
 
 ## Advantages and Disadvantages
 
@@ -45,5 +45,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [OsNIP2;1 (Silicon Transporter Lsi1 from Oryza sativa)](/xray-mp-wiki/proteins/osnip2-1/) — Trypsinolysis generated the crystallization-competent truncated construct (residues 38-264)
+- [OsNIP2;1 (Silicon Transporter Lsi1 from Oryza sativa)](/xray-mp-wiki/proteins/other-ion-channels/osnip2-1/) — Trypsinolysis generated the crystallization-competent truncated construct (residues 38-264)
 - [Limited Proteolysis](/xray-mp-wiki/methods/purification/limited-proteolysis/) — Method used to generate stable protein fragments for crystallization

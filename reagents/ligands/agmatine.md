@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [AdiC Arginine/Agmatine Antiporter](/xray-mp-wiki/proteins/adic/) | not specified | Agmatine is the physiological exchange substrate of AdiC, the arginine/agmatine antiporter from E. coli. In the extreme acid resistance system, extracellular L-arginine is decarboxylated by AdiA to agmatine, which is then exported by AdiC. The rebuilt AdiC structure reveals two substrate binding sites: the proximal site between Trp202 and Trp293 favors arginine, while the distal site between Trp293 and the distal gate (Tyr93, Glu208, Tyr365) favors agmatine.
+| [AdiC Arginine/Agmatine Antiporter](/xray-mp-wiki/proteins/slc-transporters/adic/) | not specified | Agmatine is the physiological exchange substrate of AdiC, the arginine/agmatine antiporter from E. coli. In the extreme acid resistance system, extracellular L-arginine is decarboxylated by AdiA to agmatine, which is then exported by AdiC. The rebuilt AdiC structure reveals two substrate binding sites: the proximal site between Trp202 and Trp293 favors arginine, while the distal site between Trp293 and the distal gate (Tyr93, Glu208, Tyr365) favors agmatine.
  | Agmatine binding at the distal site is a key feature of the alternating access mechanism in AdiC. The distal site has higher affinity for agmatine than arginine, consistent with the directionality of the Arg/Agm exchange antiport.
  |
 
@@ -41,5 +41,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [AdiC Arginine/Agmatine Antiporter](/xray-mp-wiki/proteins/adic/) — AdiC is the primary transporter that exports agmatine as part of the Arg/Agm antiport mechanism
-- [L-Arginine](/xray-mp-wiki/reagents/substrates/l-arginine/) — L-arginine is the substrate that is decarboxylated to form agmatine by AdiA
+- [AdiC Arginine/Agmatine Antiporter](/xray-mp-wiki/proteins/slc-transporters/adic/) — AdiC is the primary transporter that exports agmatine as part of the Arg/Agm antiport mechanism
+- [L-Arginine](/xray-mp-wiki/reagents/ligands/l-arginine/) — L-arginine is the substrate that is decarboxylated to form agmatine by AdiA

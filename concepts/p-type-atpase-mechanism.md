@@ -1,30 +1,31 @@
 ---
 title: P-type ATPase Mechanism
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-16
 type: concept
 category: concepts
 layout: default
 tags: [concept-transport-mechanism, subdirectory-concepts]
-sources: [doi/10.1038##ncomms9004]
+sources: [doi/10.1073##pnas.2006027117, doi/10.1038##ncomms9004, doi/10.1126##science.1099366, doi/10.1073##pnas.2014896117, doi/10.1126##science.1243352, doi/10.1038##nature02981, doi/10.1038##nature07939]
 verified: false
 ---
 
 # P-type ATPase Mechanism
 
 ## Overview
-P-type ATPases are a superfamily of primary active transporters that use ATP hydrolysis to pump ions across membranes. The transport cycle proceeds through E1 and E2 conformational states with a phosphorylated aspartyl intermediate, coupled to alternating-access gating by cytoplasmic and extracellular transmembrane helix pairs. Crystallographic trapping of intermediate states (e.g., E2·MgF₄²⁻·2K⁺) has revealed atomic details of the ion-binding sites, gating mechanisms, and sequential ion substitution kinetics.
+
 
 ## Mechanism/Details
-P-type ATPases form a large family of ion-transporting ATPases that are characterized by the formation of a phosphorylated intermediate during the reaction cycle. The Post-Albers mechanism describes the alternating-access transport cycle involving E1 and E2 conformational states. In E1, cation-binding sites face the cytoplasm with high affinity for cytoplasmic ions. ATP binding and phosphorylation of a conserved aspartate residue trigger a conformational change to E2, exposing binding sites to the extracellular side with low ion affinity. The E2 state can be trapped by phosphate analogues such as MgF₄²⁻ (mimicking Pi). The extracellular gate in P-type ATPases is formed by transmembrane helices (notably M4E in Na+,K+-ATPase) that undergo thermal fluctuations to allow sequential ion binding and release. The cytoplasmic gate is locked by the A-domain positioning and phosphorylation state. Key features include: (1) two gates (cytoplasmic and extracellular) that seal off binding sites during transport; (2) sequential ion binding/release; (3) conserved aspartate phosphorylation; (4) alternating affinity states.
+
 
 ## Examples in Membrane Protein Work
-
+- [SERCA1a](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — Structures of Ca2-E1-AMPPCP (2.6 A) and Ca2-E1-ADP:AlF4- (2.9 A) from rabbit SERCA1a captured the nucleotide-bound and transition states of phosphoryl transfer. ATP binding triggers 90-degree N domain rotation toward P domain and 45-degree A domain rotation, pulling M1-M2 helices 8-9 A toward cytoplasm to close Ca2+ access. ADP:AlF4- complex shows AlF4- between Asp351 and beta-phosphate with ~2.0 A bonding distances, consistent with an associative Sn2 phosphoryl transfer mechanism. Phosphoryl transfer locks the closed conformation, as only the transition state complex (not AMPPCP) fully occludes Ca2+.
 
 ## Related Concepts
 
 
 ## Cross-References
-- [Na+,K+-ATPase from Squalus acanthias](/xray-mp-wiki/proteins/na-k-atpase-shark/) — Shark Na+,K+-ATPase provides direct crystallographic visualization of the E2·Pi state
-- [Na+,K+-ATPase from Pig Kidney](/xray-mp-wiki/proteins/na-k-atpase-pig-kidney/) — Pig kidney ATPase studied by rapid filtration; Forbush flickering-gate model
-- [SERCA1a](/xray-mp-wiki/proteins/serca1a/) — Ca²⁺-ATPase; structural homolog; cytoplasmic gate mechanism well characterized
+- [SERCA1a](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — Ca2+-ATPase; structural characterization of ATP-bound and transition states clarifies the coupling mechanism
+- [SERCA1a E340A Mutant](/xray-mp-wiki/proteins/pumps-atpases/serca1a-e340a/) — E340A mutation reveals how Glu340 mediates interdomain communication between P-domain and transmembrane helices
+- [Na+,K+-ATPase from Squalus acanthias](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-shark/) — Shark Na+,K+-ATPase provides direct crystallographic visualization of the E2.Pi state
+- [Large Domain Motion in P-type ATPases](/xray-mp-wiki/concepts/large-domain-motion-in-p-type-atpases/) — Domain movements observed in SERCA1a upon nucleotide binding are a hallmark of P-type ATPase function

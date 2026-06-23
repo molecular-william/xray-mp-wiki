@@ -6,7 +6,7 @@ type: reagent
 category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
-sources: [doi/10.1038##nature11010]
+sources: [doi/10.1038##nature11010, doi/10.1038##s41467-017-00887-9]
 verified: false
 ---
 
@@ -29,7 +29,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Zebrafish P2X4 Receptor (zfP2X4)](/xray-mp-wiki/proteins/zfp2x4/) | not specified | TNP-ATP was tested in competition binding assays with zfP2X4. The calculated IC50 for TNP-ATP competition with [3H]-ATP binding to EGFP-tagged Delta zfP2X4-C was determined. TNP-ATP was also superimposed on ATP in the Delta zfP2X4-C crystal structure, revealing that its bulky dinitrobenzoyl group precludes the dorsal fin movement induced by ATP binding.
+| [Zebrafish P2X4 Receptor (zfP2X4)](/xray-mp-wiki/proteins/other-ion-channels/zfp2x4/) | not specified | TNP-ATP was tested in competition binding assays with zfP2X4. The calculated IC50 for TNP-ATP competition with [3H]-ATP binding to EGFP-tagged Delta zfP2X4-C was determined. TNP-ATP was also superimposed on ATP in the Delta zfP2X4-C crystal structure, revealing that its bulky dinitrobenzoyl group precludes the dorsal fin movement induced by ATP binding.
  | TNP-ATP binds to zfP2X4 ATP-binding pocket; sterically prevents dorsal fin movement |
 
 ## Advantages and Disadvantages
@@ -42,6 +42,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Zebrafish P2X4 Receptor (zfP2X4)](/xray-mp-wiki/proteins/zfp2x4/) — TNP-ATP tested in competition binding assays and crystal structure analysis
+- [Zebrafish P2X4 Receptor (zfP2X4)](/xray-mp-wiki/proteins/other-ion-channels/zfp2x4/) — TNP-ATP tested in competition binding assays and crystal structure analysis
 - [Adenosine Triphosphate (ATP)](/xray-mp-wiki/reagents/ligands/atp/) — TNP-ATP is a fluorescent analog of ATP; competes for the same binding site
 - [AMP-PNP (Adenylyl-Imidodiphosphate)](/xray-mp-wiki/reagents/ligands/amp-pnp/) — Non-hydrolyzable ATP analogue used in ATP-binding studies

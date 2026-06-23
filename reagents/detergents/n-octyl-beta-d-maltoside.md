@@ -35,8 +35,8 @@ OM is used at 40 mM for solubilizing the urea transporter from Desulfovibrio vul
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Urea Transporter from Desulfovibrio vulgaris (dvUT)](/xray-mp-wiki/proteins/urea-transporter-dvut/) | 40 mM | Gel-filtration buffer after tag cleavage | High-resolution (2.3 A) crystals obtained with Sol-Grade OM |
-| [Urea Transporter from Desulfovibrio vulgaris (dvUT)](/xray-mp-wiki/proteins/urea-transporter-dvut/) | 30 mM | Initial solubilization of E. coli membrane fractions | Protein solubilized for purification (high-purity OM failed to diffract well) |
+| [Urea Transporter from Desulfovibrio vulgaris (dvUT)](/xray-mp-wiki/proteins/other-ion-channels/urea-transporter-dvut/) | 40 mM | Gel-filtration buffer after tag cleavage | High-resolution (2.3 A) crystals obtained with Sol-Grade OM |
+| [Urea Transporter from Desulfovibrio vulgaris (dvUT)](/xray-mp-wiki/proteins/other-ion-channels/urea-transporter-dvut/) | 30 mM | Initial solubilization of E. coli membrane fractions | Protein solubilized for purification (high-purity OM failed to diffract well) |
 
 ## Advantages and Disadvantages
 

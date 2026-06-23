@@ -28,7 +28,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Rabbit RyR1 Repeat12 Domain |  | Hiload SP Sepharose column (GE Healthcare) used for preparative purification of rabbit RyR1 Repeat12 domain (residues 857-1054) before preparative Superdex 200 SEC. This was a modification from the standard purification strategy used for other RyR domains.
+| [Rabbit RyR1 Repeat12 Domain](/xray-mp-wiki/proteins/voltage-gated-channels/ry1-repeat12/) |  | Hiload SP Sepharose column (GE Healthcare) used for preparative purification of [Rabbit RyR1 Repeat12 Domain](/xray-mp-wiki/proteins/voltage-gated-channels/ry1-repeat12/) (residues 857-1054) before preparative [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) SEC. This was a modification from the standard purification strategy used for other RyR domains.
  | Repeat12 domain purified to homogeneity for SEC and crystallization |
 
 ## Advantages and Disadvantages
@@ -41,4 +41,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [Rabbit RyR1 Repeat12 Domain](/xray-mp-wiki/proteins/ry1-repeat12/) — Hiload SP Sepharose used in Repeat12 purification
+- [Rabbit RyR1 Repeat12 Domain](/xray-mp-wiki/proteins/voltage-gated-channels/ry1-repeat12/) — Hiload SP Sepharose used in Repeat12 purification
+- [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) — Additive used in purification or crystallization buffers

@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Digalactosyl diacylglycerol (DGDG) is a galactolipid consisting of a digalactose head group attached to a diacylglycerol backbone. It is one of the most abundant lipids in chloroplast thylakoid membranes and is found bound to the light-harvesting complex II (LHC-II) at the three-fold axis on the luminal side. DGDG fills a hydrophobic cavity and may play a role in trimer-trimer interactions in crystalline proteoliposomes.
+Digalactosyl diacylglycerol (DGDG) is a galactolipid consisting of a digalactose head group attached to a diacylglycerol backbone. It is one of the most abundant lipids in chloroplast thylakoid membranes and is found bound to the light-harvesting complex II ([LHC-II](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/)) at the three-fold axis on the luminal side. DGDG fills a hydrophobic cavity and may play a role in trimer-trimer interactions in crystalline proteoliposomes.
 
 ## Properties
 
@@ -25,12 +25,12 @@ Digalactosyl diacylglycerol (DGDG) is a galactolipid consisting of a digalactose
 
 ### Bound lipid in LHC-II
 
-Three DGDG molecules fill a hydrophobic cavity on the three-fold axis of the LHC-II trimer on the luminal side. In the pea LHC-II crystal structure, the DGDG that connects trimers in crystalline proteoliposomes of spinach LHC-II is absent because the corresponding binding site is involved in extensive hydrophobic crystal contacts. The extreme curvature of proteoliposomes makes it unlikely that the same lipid-trimer configuration exists in flat grana membranes.
+Three DGDG molecules fill a hydrophobic cavity on the three-fold axis of the [LHC-II](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/) trimer on the luminal side. In the pea [LHC-II](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/) crystal structure, the DGDG that connects trimers in crystalline proteoliposomes of spinach [LHC-II](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/) is absent because the corresponding binding site is involved in extensive hydrophobic crystal contacts. The extreme curvature of proteoliposomes makes it unlikely that the same lipid-trimer configuration exists in flat grana membranes.
 
 
 ### Trimer-trimer bridge in proteoliposome assembly
 
-In icosahedral proteoliposome assembly of spinach LHC-II, DGDG molecules bridge adjacent LHC-II trimers. Two DGDG molecules per trimer-trimer contact mediate interactions through their digalactosyl head groups, which are simultaneously hydrogen bonded to lumenal-surface amino acids from two adjacent trimers. The hydrophobic fatty-acid chains extend into the membrane interior, interacting with hydrophobic residues and pigments of LHC-II. DGDG was also used at 2 mg/ml in the solubilization buffer for LHC-II crystallization.
+In icosahedral proteoliposome assembly of spinach [LHC-II](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/), DGDG molecules bridge adjacent [LHC-II](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/) trimers. Two DGDG molecules per trimer-trimer contact mediate interactions through their digalactosyl head groups, which are simultaneously hydrogen bonded to lumenal-surface amino acids from two adjacent trimers. The hydrophobic fatty-acid chains extend into the membrane interior, interacting with hydrophobic residues and pigments of [LHC-II](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/). DGDG was also used at 2 mg/ml in the solubilization buffer for [LHC-II](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/) crystallization.
 
 
 ## Examples from This Wiki
@@ -46,8 +46,8 @@ No comparison data available.
 
 ## Cross-References
 
-- [Spinach Light-Harvesting Complex II](/xray-mp-wiki/proteins/spinach-light-harvesting-complex-ii/) — DGDG bridges LHC-II trimers in icosahedral proteoliposome assembly
-- [Pea Light-Harvesting Complex II](/xray-mp-wiki/proteins/pea-light-harvesting-complex-ii/) — Three DGDG molecules bound per trimer on three-fold axis
+- [Spinach Light-Harvesting Complex II](/xray-mp-wiki/proteins/photosynthesis/spinach-light-harvesting-complex-ii/) — DGDG bridges LHC-II trimers in icosahedral proteoliposome assembly
+- [Pea Light-Harvesting Complex II](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/) — Three DGDG molecules bound per trimer on three-fold axis
 - [Phosphatidylglycerol](/xray-mp-wiki/reagents/lipids/phosphatidylglycerol/) — Another lipid bound to LHC-II; PG at monomer interface, DGDG at three-fold axis
 - [N,N-Bis-(3-D-gluconamidopropyl)deoxycholamide (DBC)](/xray-mp-wiki/reagents/detergents/n-n-bis-3-d-gluconamidopropyl-deoxycholamide/) — DBC used in LHC-II crystallization solution alongside DGDG
 - [Monoacylglycolipid](/xray-mp-wiki/reagents/lipids/monoacylglycolipid/) — Another galactolipid found in thylakoid membranes

@@ -15,8 +15,8 @@ verified: false
 ## Overview
 
 Estrone (E1) is an endogenous estrogen steroid hormone and the product of estrone
-sulfate (E1S) hydrolysis catalyzed by steroid sulfatase (hSTS). E1 is subsequently
-reduced to 17beta-estradiol (E2) by 17beta-hydroxysteroid dehydrogenase type 1
+sulfate (E1S) hydrolysis catalyzed by [Steroid Sulfatase (hSTS)](/xray-mp-wiki/proteins/enzymes/steroid-sulfatase/). E1 is subsequently
+reduced to 17beta-[E2](/xray-mp-wiki/reagents/ligands/estradiol/) (E2) by 17beta-hydroxysteroid dehydrogenase type 1
 (17HSD1). E1 is a key intermediate in the local biosynthesis of estrogens in breast
 tissue, particularly in post-menopausal women, where the sulfatase pathway is the
 major source of active estrogens. E1 can also be recognized at the secondary ligand
@@ -35,7 +35,7 @@ and C205, sandwiched between W555 and F233.
 
 ### Product of hSTS-catalyzed hydrolysis
 
-Estrone is produced by hSTS-catalyzed hydrolysis of estrone sulfate (E1S). It is a key intermediate in the local biosynthesis of estrogens in breast and other tissues. E1 is subsequently reduced to 17beta-estradiol (E2) by 17HSD1.
+Estrone is produced by hSTS-catalyzed hydrolysis of estrone sulfate (E1S). It is a key intermediate in the local biosynthesis of estrogens in breast and other tissues. E1 is subsequently reduced to 17beta-[E2](/xray-mp-wiki/reagents/ligands/estradiol/) (E2) by 17HSD1.
 
 
 ### Secondary ligand binding at hSTS
@@ -56,6 +56,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Steroid Sulfatase (hSTS)](/xray-mp-wiki/proteins/steroid-sulfatase/) — Product of E1S hydrolysis; binds at secondary ligand site
+- [Steroid Sulfatase (hSTS)](/xray-mp-wiki/proteins/enzymes/steroid-sulfatase/) — Product of E1S hydrolysis; binds at secondary ligand site
 - [17beta-Estradiol (E2)](/xray-mp-wiki/reagents/ligands/estradiol/) — E1 is reduced to E2 by 17HSD1
 - [Dehydroepiandrosterone (DHEA)](/xray-mp-wiki/reagents/ligands/dhea/) — Parallel steroid in androgen biosynthesis pathway

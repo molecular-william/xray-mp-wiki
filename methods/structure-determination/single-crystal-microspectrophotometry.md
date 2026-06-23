@@ -1,7 +1,7 @@
 ---
 title: Single-Crystal Microspectrophotometry
-created: 2026-05-29
-updated: 2026-05-29
+created: 2026-06-11
+updated: 2026-06-11
 type: method
 category: methods
 layout: default
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Single-crystal microspectrophotometry is a technique for recording absorption spectra of individual protein crystals at controlled temperatures. It enables characterization of the photochemical state of light-sensitive membrane proteins (such as bacteriorhodopsin) in the crystalline state before and during X-ray data collection, ensuring that the crystal has reached the desired photointermediate.
+Single-crystal microspectrophotometry is a technique for recording absorption spectra of individual protein crystals at controlled temperatures. It enables characterization of the photochemical state of light-sensitive membrane proteins (such as [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/)) in the crystalline state before and during X-ray data collection, ensuring that the crystal has reached the desired photointermediate.
 
 ## Principle
 
@@ -61,4 +61,4 @@ A portable microspectrophotometer directs a light beam through a single crystal 
 
 | Protein | Resolution | PDB | Notes |
 |---|---|---|---|
-| [bacteriorhodopsin](/xray-mp-wiki/proteins/bacteriorhodopsin/) | 1.9 A | 1Qhj (ground state) | Microspectrophotometry used to characterize bacteriorhodopsin crystals before photoexcitation and X-ray data collection at 110 K |
+| [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) | 1.9 A | 1Qhj (ground state) | Microspectrophotometry used to characterize [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) crystals before photoexcitation and X-ray data collection at 110 K |

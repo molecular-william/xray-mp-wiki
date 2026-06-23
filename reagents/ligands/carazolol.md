@@ -6,7 +6,7 @@ type: reagent
 category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
-sources: [doi/10.1038##nature06325, doi/10.1038##nature08650]
+sources: [doi/10.1126##science.1150577, doi/10.1038##nature06325, doi/10.1038##nature08650, doi/10.1038##s41422-020-00424-2]
 verified: false
 ---
 
@@ -27,8 +27,11 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/beta2-adrenergic-receptor/) | 10 uM | Carazolol was used in the crystallization buffer for the first beta2 AR crystal structure determination. The beta2 AR365-Fab5 complex was purified with carazolol in the buffer and crystallized at 3.4 A resolution in C2 space group.
+| [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) | 10 uM | Carazolol was used in the crystallization buffer for the first beta2 AR crystal structure determination. The beta2 AR365-Fab5 complex was purified with carazolol in the buffer and crystallized at 3.4 A resolution in C2 space group.
  | First crystal structure of beta2-adrenergic receptor at 3.4 A resolution (PDB: 2RH1)
+ |
+| [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) | 10 uM | Carazolol was the partial inverse agonist used in the landmark 2.4 A crystal structure of beta2AR-T4L (PDB: 2RH1, Cherezov et al., Science 2007), the first high-resolution structure of a human GPCR bound to a diffusible ligand.
+ | First high-resolution GPCR structure with a diffusible ligand (2.4 A, PDB: 2RH1)
  |
 
 ## Binding Mode
@@ -49,7 +52,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/beta2-adrenergic-receptor/) — Primary target of carazolol inverse agonist activity
+- [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Primary target of carazolol inverse agonist activity
 - [Alprenolol](/xray-mp-wiki/reagents/ligands/alprenolol/) — Related beta-blocker ligand used in beta2 AR crystallization
 - [ICI 118,551](/xray-mp-wiki/reagents/ligands/ici-118-551/) — Another inverse agonist used in beta2 AR structural studies
 - [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) — High-affinity antagonist for beta-adrenergic receptors

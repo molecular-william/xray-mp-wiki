@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [E. coli DtpA Peptide Transporter](/xray-mp-wiki/proteins/dtpa/) | 20 mM (added in powder form to DtpA solution) | Co-crystallization with DtpA-N00 complex; vapor diffusion | Crystal structure solved at 2.65 A resolution (PDB 6GS4); DtpA binding affinity by MST Kd = 76 +/- 16 uM |
+| [E. coli DtpA Peptide Transporter](/xray-mp-wiki/proteins/slc-transporters/dtpa/) | 20 mM (added in powder form to DtpA solution) | Co-crystallization with DtpA-N00 complex; vapor diffusion | Crystal structure solved at 2.65 A resolution (PDB 6GS4); DtpA binding affinity by MST Kd = 76 +/- 16 uM |
 
 ## Advantages and Disadvantages
 
@@ -39,7 +39,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [E. coli DtpA Peptide Transporter](/xray-mp-wiki/proteins/dtpa/) — Valganciclovir binds to DtpA and is transported by it
+- [E. coli DtpA Peptide Transporter](/xray-mp-wiki/proteins/slc-transporters/dtpa/) — Valganciclovir binds to DtpA and is transported by it
 - [POT Family](/xray-mp-wiki/concepts/pot-family/) — Valganciclovir is transported by POT family members (PepT1, PepT2)
 - [Valacyclovir](/xray-mp-wiki/reagents/ligands/valacyclovir/) — Related antiviral prodrug (L-valine derivative of acyclovir) transported by PepT1
 - [Ganciclovir](/xray-mp-wiki/reagents/ligands/ganciclovir/) — Valganciclovir is a valine conjugate prodrug of ganciclovir

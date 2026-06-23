@@ -35,7 +35,7 @@ D-Xylose is the natural substrate for XylE, an E. coli homologue of human glucos
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [XylE (Escherichia coli Sugar Transporter)](/xray-mp-wiki/proteins/xyle/) | 20 mM (crystallization) | D-Xylose used at 20 mM for crystallization of XylE; bound in substrate-binding site with 8 hydrogen bonds; structure solved at 2.8 A resolution in outward-facing, partly occluded conformation | First crystal structure of a sugar porter family member |
+| [XylE (Escherichia coli Sugar Transporter)](/xray-mp-wiki/proteins/mfs-transporters/xyle/) | 20 mM (crystallization) | D-Xylose used at 20 mM for crystallization of XylE; bound in substrate-binding site with 8 hydrogen bonds; structure solved at 2.8 A resolution in outward-facing, partly occluded conformation | First crystal structure of a sugar porter family member |
 
 ## Advantages and Disadvantages
 
@@ -47,5 +47,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [XylE (Escherichia coli Sugar Transporter)](/xray-mp-wiki/proteins/xyle/) — Natural substrate for XylE transport
+- [XylE (Escherichia coli Sugar Transporter)](/xray-mp-wiki/proteins/mfs-transporters/xyle/) — Natural substrate for XylE transport
 - [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — D-Glucose binds to XylE but is not a transport substrate; acts as competitive inhibitor

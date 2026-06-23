@@ -50,6 +50,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [GltTk (Glutamate Transporter Homologue from Thermococcus kodakarensis)](/xray-mp-wiki/proteins/glt-tk/) — TBOA and its derivatives used to solve crystal structures of GltTk
+- [GltTk (Glutamate Transporter Homologue from Thermococcus kodakarensis)](/xray-mp-wiki/proteins/slc-transporters/glt-tk/) — TBOA and its derivatives used to solve crystal structures of GltTk
 - [p-OMe-azo-TBOA](/xray-mp-wiki/reagents/ligands/p-ome-azo-tboa/) — Azobenzene derivative of TBOA used as photoswitchable inhibitor
 - [ONB-hydroxyaspartate](/xray-mp-wiki/reagents/ligands/onb-hydroxyaspartate/) — Photocaged compound structurally related to TBOA, acts as competitive inhibitor

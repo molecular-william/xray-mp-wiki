@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/at2r/) | 100 uM | Co-crystallization with AT2R-BRIL fusion construct in LCP | Determined orthorhombic structure (PDB 5UNH) at 2.9 A resolution by synchrotron radiation |
+| [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/) | 100 uM | Co-crystallization with AT2R-BRIL fusion construct in LCP | Determined orthorhombic structure (PDB 5UNH) at 2.9 A resolution by synchrotron radiation |
 
 ## Binding Mode
 
@@ -46,7 +46,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/at2r/) — Primary target; co-crystallized with Cpd 2 (PDB 5UNH)
-- [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/at1r/) — Cpd 2 is a dual ligand with 10-fold selectivity for AT2R over AT1R
+- [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/) — Primary target; co-crystallized with Cpd 2 (PDB 5UNH)
+- [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/) — Cpd 2 is a dual ligand with 10-fold selectivity for AT2R over AT1R
 - [Compound 1](/xray-mp-wiki/reagents/ligands/compound-1/) — Related AT2R-selective ligand with similar biphenyl-tetrazole scaffold
 - [ZD7155](/xray-mp-wiki/reagents/ligands/zd7155/) — AT1R-selective antagonist for comparison of ligand binding modes

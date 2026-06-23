@@ -33,7 +33,7 @@ HEGA-10 was used in combination with DDM for solubilizing the NavMs sodium chann
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [NavMs Sodium Channel](/xray-mp-wiki/proteins/navms/) | not specified | Solubilization of NavMs and NavMs L F208L mutant from E. coli membranes | Successful solubilization for crystallization of tamoxifen complexes |
+| [NavMs Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/navms/) | not specified | Solubilization of NavMs and NavMs L F208L mutant from E. coli membranes | Successful solubilization for crystallization of tamoxifen complexes |
 
 ## Advantages and Disadvantages
 

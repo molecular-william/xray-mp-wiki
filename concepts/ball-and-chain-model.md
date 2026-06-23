@@ -23,6 +23,7 @@ Mutational analysis confirms the N-plug's inhibitory role. Triple site mutants (
 
 
 ## Examples in Membrane Protein Work
+- [Zebrafish SLC38A9 (drSLC38A9)](/xray-mp-wiki/proteins/slc-transporters/drslc38a9/) — The N-terminal domain of drSLC38A9 (residues 1-96) folds into a beta hairpin that inserts into the substrate-binding pocket in the absence of arginine, blocking transport. Upon arginine binding, the N-plug is released, allowing both substrate transport and Rag GTPase interaction for mTORC1 activation.
 
 
 ## Related Concepts

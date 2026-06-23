@@ -1,7 +1,7 @@
 ---
 title: Elinogrel
-created: 2026-05-27
-updated: 2026-05-27
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -32,7 +32,7 @@ Elinogrel was tested in BRET2 assays and showed inverse agonist efficacy at the 
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human P2Y12 Receptor](/xray-mp-wiki/proteins/p2y12-receptor/) | 10 uM | Inverse agonist in BRET assays; showed off-target effects | Affected Gi, Go, Gq, Gs signaling; excluded from further development |
+| [Human P2Y12 Receptor](/xray-mp-wiki/proteins/gpcr/p2y12-receptor/) | 10 uM | Inverse agonist in BRET assays; showed off-target effects | Affected Gi, Go, Gq, Gs signaling; excluded from further development |
 
 ## Advantages and Disadvantages
 
@@ -44,6 +44,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human P2Y12 Receptor](/xray-mp-wiki/proteins/p2y12-receptor/) — P2Y12 antagonist studied in functional assays
+- [Human P2Y12 Receptor](/xray-mp-wiki/proteins/gpcr/p2y12-receptor/) — P2Y12 antagonist studied in functional assays
 - [Selatogrel](/xray-mp-wiki/reagents/ligands/selatogrel/) — Related P2Y12 inverse agonist without off-target effects
 - [Ticagrelor](/xray-mp-wiki/reagents/ligands/ticagrelor/) — Related P2Y12 inverse agonist

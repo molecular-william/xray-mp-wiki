@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Naltriben is a selective delta-opioid receptor (δ-OR) antagonist containing a cyclopentene functional group, structurally related to naltrindole. It is used as a pharmacological tool compound for studying δ-OR subtype selectivity and has been shown to transform into a beta-arrestin-biased agonist when the allosteric sodium site of the δ-OR is mutated.
+Naltriben is a selective delta-opioid receptor (δ-OR) antagonist containing a cyclopentene functional group, structurally related to [Naltrindole](/xray-mp-wiki/reagents/ligands/naltrindole/). It is used as a pharmacological tool compound for studying δ-OR subtype selectivity and has been shown to transform into a beta-arrestin-biased agonist when the allosteric sodium site of the δ-OR is mutated.
 
 
 ## Properties
@@ -26,7 +26,7 @@ Naltriben is a selective delta-opioid receptor (δ-OR) antagonist containing a c
 
 ### Delta-opioid receptor selective antagonist
 
-Naltriben is a selective δ-OR antagonist used in pharmacological studies of opioid receptor function. It shares structural similarity with naltrindole, containing a cyclopentene functional group that contributes to subtype selectivity.
+Naltriben is a selective δ-OR antagonist used in pharmacological studies of opioid receptor function. It shares structural similarity with [Naltrindole](/xray-mp-wiki/reagents/ligands/naltrindole/), containing a cyclopentene functional group that contributes to subtype selectivity.
 
 
 ## Examples from This Wiki
@@ -52,6 +52,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Delta-Opioid Receptor (OPRD1)](/xray-mp-wiki/proteins/delta-opioid-receptor/) — Primary target of naltriben
+- [Human Delta-Opioid Receptor (OPRD1)](/xray-mp-wiki/proteins/gpcr/delta-opioid-receptor/) — Primary target of naltriben
 - [Naltrindole](/xray-mp-wiki/reagents/ligands/naltrindole/) — Related cyclopentene-containing delta-opioid antagonist
 - [7-Benzylidenenaltrexone (BNTX)](/xray-mp-wiki/reagents/ligands/7-benzylidenenaltrexone/) — Related delta-opioid antagonist with similar properties

@@ -35,7 +35,7 @@ Caffeine was crystallized with the A2AR-StaR2-b562RIL construct at 2.1 A resolut
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Adenosine A2A Receptor (A2AR)](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar/)
+| [Human Adenosine A2A Receptor (A2AR)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/)
  | 3 mM (solubilization); 1 mM (purification) | Crystallized with A2AR-StaR2-b562RIL in LCP at 2.1 A resolution; two binding orientations observed
  | Dual binding mode (caffeine A and B) at ~50:50 ratio; both orientations partially overlap theophylline position
  |
@@ -50,7 +50,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Adenosine A2A Receptor (A2AR)](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar/) — Crystallized with A2AR at 2.1 A resolution; dual binding mode observed
+- [Human Adenosine A2A Receptor (A2AR)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/) — Crystallized with A2AR at 2.1 A resolution; dual binding mode observed
 - [PSB36](/xray-mp-wiki/reagents/ligands/psb36/) — A1-selective xanthine antagonist; compared to caffeine in A2AR structures
 - [ZM241385](/xray-mp-wiki/reagents/ligands/zm241385/) — A2AR-selective xanthine antagonist
 - [DPCPX (8-Cyclopentyl-1,3-dipropylxanthine)](/xray-mp-wiki/reagents/ligands/dpcpx/) — A1-selective xanthine antagonist

@@ -41,7 +41,7 @@ IPTG at 0.5 mM was used to induce expression of truncated E. coli XylE (residues
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
 | IPCT/DIPPS from Archaeoglobus fulgidus | 0.5 mM | Protein expression induction in E. coli C43 DE3 | Recombinant IPCT/DIPPS production for purification |
-| [XylE (E. coli Sugar Transporter)](/xray-mp-wiki/proteins/xyle/) | 0.5 mM | Protein expression induction in E. coli BL21 C43(DE3); OD600 0.5, shifted to 18°C, overnight culture | Truncated XylE (residues 6-480) production for purification and crystallization |
+| [XylE (E. coli Sugar Transporter)](/xray-mp-wiki/proteins/mfs-transporters/xyle/) | 0.5 mM | Protein expression induction in E. coli BL21 C43(DE3); OD600 0.5, shifted to 18°C, overnight culture | Truncated XylE (residues 6-480) production for purification and crystallization |
 
 ## Advantages and Disadvantages
 

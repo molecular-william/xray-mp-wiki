@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Melibiose Permease from Salmonella typhimurium (MelBSt)](/xray-mp-wiki/proteins/melbst/) | 5 mM | Included in protein sample for hanging-drop vapor diffusion crystallization | 2NPG-bound MelBSt crystallized at 3.35 A resolution, revealing sugar-binding site coordinates |
+| [Melibiose Permease from Salmonella typhimurium (MelBSt)](/xray-mp-wiki/proteins/mfs-transporters/melbst/) | 5 mM | Included in protein sample for hanging-drop vapor diffusion crystallization | 2NPG-bound MelBSt crystallized at 3.35 A resolution, revealing sugar-binding site coordinates |
 
 ## Advantages and Disadvantages
 

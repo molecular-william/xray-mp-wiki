@@ -1,7 +1,7 @@
 ---
 title: TALON Cobalt Affinity Resin
-created: 2026-05-29
-updated: 2026-05-29
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -29,7 +29,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [NtMATE2 Nicotine Transporter](/xray-mp-wiki/proteins/ntmate2/) | not specified | TALON cobalt affinity resin used for initial capture of His8-tagged NtMATE2 expressed in Pichia pastoris. Equilibration buffer: 300 mM NaCl, 50 mM HEPES-Na pH 7.0, 5% glycerol, 0.05% DDM, 0.005% CHS, 20 mM imidazole. Elution: 200 mM imidazole pH 8.0.
+| [NtMATE2 Nicotine Transporter](/xray-mp-wiki/proteins/abc-transporters/ntmate2/) | not specified | TALON cobalt affinity resin used for initial capture of His8-tagged NtMATE2 expressed in Pichia pastoris. Equilibration buffer: 300 mM NaCl, 50 mM HEPES-Na pH 7.0, 5% glycerol, 0.05% DDM, 0.005% CHS, 20 mM imidazole. Elution: 200 mM imidazole pH 8.0.
  | His-tagged NtMATE2 captured and eluted with 200 mM imidazole |
 
 ## Advantages and Disadvantages

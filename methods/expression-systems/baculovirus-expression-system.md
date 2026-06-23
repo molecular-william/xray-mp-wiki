@@ -75,9 +75,9 @@ The Bac-to-Bac system uses a modified Autographa californica multiple nucleopoly
 
 | Protein | Resolution | PDB | Notes |
 |---|---|---|---|
-| [Human Glucose Transporter GLUT1 (SLC2A1)](/xray-mp-wiki/proteins/glut1/) | 3.2 | unknown | Full-length human GLUT1 (residues 1-492, N45T, E329Q, C-terminal 10x His) expressed in High Five insect cells using pFastBac baculovirus system; harvested 48 h post-infection |
-| [Human Melanocortin 4 Receptor (MC4-R)](/xray-mp-wiki/proteins/mc4-r/) | 2.90 | 8WKY | MC4-R-PGS construct with thermostabilizing mutations; expressed in Sf9 via Bac-to-Bac system; DDM/CHS solubilized; purified by TALON IMAC; crystallized by LCP at 2.9 A |
-| [Human Melanocortin 4 Receptor (MC4-R)](/xray-mp-wiki/proteins/mc4-r/) | 3.30 | 8WKZ | Same MC4-R-PGS construct; co-crystallized with SBL-MC-31 at 3.3 A |
+| [Human Glucose Transporter GLUT1 (SLC2A1)](/xray-mp-wiki/proteins/mfs-transporters/glut1/) | 3.2 | unknown | Full-length human GLUT1 (residues 1-492, N45T, E329Q, C-terminal 10x His) expressed in High Five insect cells using pFastBac baculovirus system; harvested 48 h post-infection |
+| [Human Melanocortin 4 Receptor (MC4-R)](/xray-mp-wiki/proteins/gpcr/mc4-r/) | 2.90 | 8WKY | MC4-R-PGS construct with thermostabilizing mutations; expressed in Sf9 via Bac-to-Bac system; DDM/CHS solubilized; purified by TALON IMAC; crystallized by LCP at 2.9 A |
+| [Human Melanocortin 4 Receptor (MC4-R)](/xray-mp-wiki/proteins/gpcr/mc4-r/) | 3.30 | 8WKZ | Same MC4-R-PGS construct; co-crystallized with SBL-MC-31 at 3.3 A |
 
 ## Related Methods
 

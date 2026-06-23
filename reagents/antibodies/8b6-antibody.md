@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-8B6 is a monoclonal antibody raised against human serotonin transporter (SERT). The immunogen consisted of residues 73–616 of wild-type SERT cloned into a BacMam vector with a C-terminal StrepII tag, expressed in HEK293S GnT- cells. SERT- knockout mice (Jackson Laboratory, strain 008355) were immunized with reconstituted SERT in proteoliposomes. Hybridoma cell lines were generated and screened by fluorescence-detection size-exclusion chromatography (FSEC) and western blotting for antibodies recognizing tertiary epitopes. The 8B6 Fab fragment was used as a crystallization chaperone to enable structure determination of human SERT at 3.15 A resolution. The 8B6 Fab binds to epitopes on extracellular loops 2 and 4 of SERT and was solved independently at 1.62 A resolution.
+8B6 is a monoclonal antibody raised against human [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) transporter ([SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/)). The immunogen consisted of residues 73–616 of wild-type [SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/) cloned into a BacMam vector with a C-terminal StrepII tag, expressed in HEK293S GnT- cells. SERT- knockout mice (Jackson Laboratory, strain 008355) were immunized with reconstituted [SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/) in proteoliposomes. Hybridoma cell lines were generated and screened by fluorescence-detection size-exclusion chromatography ([FSEC](/xray-mp-wiki/methods/quality-assessment/fluorescence-size-exclusion-chromatography/)) and western blotting for antibodies recognizing tertiary epitopes. The 8B6 Fab fragment was used as a crystallization chaperone to enable structure determination of human [SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/) at 3.15 A resolution. The 8B6 Fab binds to epitopes on extracellular loops 2 and 4 of [SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/) and was solved independently at 1.62 A resolution.
 
 
 ## Properties
@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/ssert/ | Stoichiometric excess over SERT | 8B6 Fab used as crystallization chaperone with SERT-ts3 complex; raised in SERT-knockout mice against residues 73-616 of wild-type SERT; Fab purified from papain-digested monoclonal antibody by cation exchange chromatography | Enabled X-ray crystal structure determination of human SERT at 3.15 A resolution (PDB deposition pending); 8B6 Fab structure solved at 1.62 A resolution; binding site involves EL2 and EL4 |
+| /xray-mp-wiki/proteins/slc-transporters/ssert/ | Stoichiometric excess over [SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/) | 8B6 Fab used as crystallization chaperone with SERT-ts3 complex; raised in SERT-knockout mice against residues 73-616 of wild-type [SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/); Fab purified from papain-digested monoclonal antibody by cation exchange chromatography | Enabled X-ray crystal structure determination of human [SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/) at 3.15 A resolution (PDB deposition pending); 8B6 Fab structure solved at 1.62 A resolution; binding site involves EL2 and EL4 |
 
 ## Advantages and Disadvantages
 
@@ -38,3 +38,7 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [FSEC](/xray-mp-wiki/methods/quality-assessment/fluorescence-size-exclusion-chromatography/) — Method used in structure determination or purification
+- [SERT](/xray-mp-wiki/proteins/slc-transporters/ssert/) — Related protein structure
+- [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) — Related ligand or cofactor

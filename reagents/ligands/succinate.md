@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [SUCNR1](/xray-mp-wiki/proteins/sucnr1/) | 1-3 uM | Endogenous agonist in GTPgammaS functional assay | Activation of SUCNR1 signaling pathway |
+| [SUCNR1](/xray-mp-wiki/proteins/gpcr/sucnr1/) | 1-3 uM | Endogenous agonist in GTPgammaS functional assay | Activation of SUCNR1 signaling pathway |
 
 ## Binding Mode
 
@@ -46,5 +46,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [SUCNR1 (Succinate Receptor 1)](/xray-mp-wiki/proteins/sucnr1/) — Endogenous receptor for succinate
+- [SUCNR1 (Succinate Receptor 1)](/xray-mp-wiki/proteins/gpcr/sucnr1/) — Endogenous receptor for succinate
 - [Intramolecular Salt Bridge](/xray-mp-wiki/concepts/intramolecular-salt-bridge/) — Succinate dicarboxylate structure shares electrostatic principles with salt bridge design

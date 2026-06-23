@@ -1,7 +1,7 @@
 ---
 title: Ton Complex
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
@@ -21,9 +21,9 @@ The Ton complex operates through a coordinated mechanism linking the inner and o
 
 
 ## Examples in Membrane Protein Work
-- [E. coli ExbB](/xray-mp-wiki/proteins/exbB/) — ExbB forms the pentameric core of the Ton complex. First crystal structure solved at 2.6 A resolution (PDB 5FQ7) and 3.5 A at pH 4.5 (PDB 5FQ6), revealing the transmembrane pore, cytoplasmic cavity with basic belt and electronegative cap, and ion channel properties.
-- [E. coli ExbD](/xray-mp-wiki/proteins/exbD/) — ExbD assembles as a dimer within the Ton complex. One copy inserts its TMH into the ExbB pentamer pore; the second copy is located outside. pH-dependent movement of the ExbD TMH modulates channel conductance.
-- [E. coli TonB](/xray-mp-wiki/proteins/tonB/) — TonB associates with the ExbB-ExbD subcomplex. Its periplasmic domain interacts with TBDTs at the outer membrane to deliver energy for ligand transport.
+- E. coli ExbB — ExbB forms the pentameric core of the Ton complex. First crystal structure solved at 2.6 A resolution (PDB 5FQ7) and 3.5 A at pH 4.5 (PDB 5FQ6), revealing the transmembrane pore, cytoplasmic cavity with basic belt and electronegative cap, and ion channel properties.
+- E. coli ExbD — ExbD assembles as a dimer within the Ton complex. One copy inserts its TMH into the ExbB pentamer pore; the second copy is located outside. pH-dependent movement of the ExbD TMH modulates channel conductance.
+- E. coli TonB — TonB associates with the ExbB-ExbD subcomplex. Its periplasmic domain interacts with TBDTs at the outer membrane to deliver energy for ligand transport.
 - TolQ-TolR-TolA complex — Evolutionarily related Tol complex required for cell envelope integrity and cell division. Shares functional analogy with the Ton complex — both use the PMF to transduce energy across membranes.
 - Mot complex — Evolutionarily related to the Ton complex; drives bacterial flagellar rotation using the PMF. Suggests a conserved mechanism for PMF-driven energy transduction in bacteria.
 

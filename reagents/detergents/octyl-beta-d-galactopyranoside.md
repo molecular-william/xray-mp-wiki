@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Melibiose Permease from Salmonella typhimurium (MelBSt)](/xray-mp-wiki/proteins/melbst/) | 0.08% | Crystallization reservoir solution for hanging-drop vapor diffusion | Used in crystallization conditions yielding MelBSt structures at 3.35 A resolution |
+| [Melibiose Permease from Salmonella typhimurium (MelBSt)](/xray-mp-wiki/proteins/mfs-transporters/melbst/) | 0.08% | Crystallization reservoir solution for hanging-drop vapor diffusion | Used in crystallization conditions yielding MelBSt structures at 3.35 A resolution |
 
 ## Advantages and Disadvantages
 

@@ -57,7 +57,7 @@ Proteins carry a net positive or negative charge depending on the pH relative to
 
 | Protein | Resolution | PDB | Notes |
 |---|---|---|---|
-| [Maltose Transporter (MalFGK2)](/xray-mp-wiki/proteins/maltose-transporter/) / EIIA^Glc | not applicable | not specified | EIIA^Glc purified by ion-exchange (Source 15Q, GE Healthcare) in 10 mM Tris-HCl pH 8.0, 200 mM NaCl; MalFGK2 purified by ion-exchange as part of complex purification in 10 mM Tris-HCl pH 8.0, 200 mM NaCl, 0.012% DDM |
+| [Maltose Transporter (MalFGK2)](/xray-mp-wiki/proteins/abc-transporters/maltose-transporter/) / EIIA^Glc | not applicable | not specified | EIIA^Glc purified by ion-exchange (Source 15Q, GE Healthcare) in 10 mM Tris-HCl pH 8.0, 200 mM NaCl; MalFGK2 purified by ion-exchange as part of complex purification in 10 mM Tris-HCl pH 8.0, 200 mM NaCl, 0.012% DDM |
 | [Syntaxin-1A from rat](/xray-mp-wiki/proteins/Syntaxin-1A from rat/) | not applicable | TBA | Ion-exchange chromatography used for purification of syntaxin-1A after Ni-NTA affinity chromatography and tag removal |
 | [Synaptobrevin-2 from rat](/xray-mp-wiki/proteins/Synaptobrevin-2 from rat/) | not applicable | TBA | Ion-exchange chromatography used for purification of synaptobrevin-2 in presence of n-octyl beta-D-glucopyranoside |
 | [SNARE complexes](/xray-mp-wiki/proteins/SNARE complexes/) | not applicable | TBA | SNARE complexes separated from free monomers by ion-exchange chromatography in presence of n-octyl or n-nonyl beta-D-glucopyranoside |
@@ -71,4 +71,4 @@ Proteins carry a net positive or negative charge depending on the pH relative to
 
 - [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Commonly used buffer in ion-exchange chromatography
 - [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/) — Used for salt gradient elution in ion-exchange chromatography
-- [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/octylglucoside/) — Detergent used in ion-exchange purification of SNARE complexes
+- [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — Detergent used in ion-exchange purification of SNARE complexes

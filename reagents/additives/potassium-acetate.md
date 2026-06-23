@@ -41,4 +41,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [Na+,K+-ATPase from Squalus acanthias](/xray-mp-wiki/proteins/na-k-atpase-shark/) — 100 mM potassium acetate in crystallization buffer for E2·MgF₄²⁻·2K⁺ state
+- [Na+,K+-ATPase from Squalus acanthias](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-shark/) — 100 mM potassium acetate in crystallization buffer for E2·MgF₄²⁻·2K⁺ state

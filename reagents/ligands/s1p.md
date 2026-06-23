@@ -1,7 +1,7 @@
 ---
 title: S1P (Sphingosine-1-Phosphate)
-created: 2026-05-27
-updated: 2026-05-27
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -33,7 +33,7 @@ S1P is the endogenous agonist for S1P1 (S1PR1/EDG1). The crystal structure of S1
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Sphingosine-1-Phosphate Receptor 1 (S1P1)](/xray-mp-wiki/proteins/s1p1/) | not specified | Endogenous agonist; co-crystallized structure PDB 3V2Y | First S1P1 crystal structure at 2.8 A |
+| [Sphingosine-1-Phosphate Receptor 1 (S1P1)](/xray-mp-wiki/proteins/gpcr/s1p1/) | not specified | Endogenous agonist; co-crystallized structure PDB 3V2Y | First S1P1 crystal structure at 2.8 A |
 
 ## Advantages and Disadvantages
 
@@ -45,5 +45,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [Sphingosine-1-Phosphate Receptor 1 (S1P1)](/xray-mp-wiki/proteins/s1p1/) — Endogenous agonist; co-crystallized structure PDB 3V2Y
-- [Lysophosphatidic Acid Receptor 1 (LPA1)](/xray-mp-wiki/proteins/lpa1/) — Related lysophospholipid receptor; structural comparison throughout paper
+- [Sphingosine-1-Phosphate Receptor 1 (S1P1)](/xray-mp-wiki/proteins/gpcr/s1p1/) — Endogenous agonist; co-crystallized structure PDB 3V2Y
+- [Lysophosphatidic Acid Receptor 1 (LPA1)](/xray-mp-wiki/proteins/gpcr/lpa1/) — Related lysophospholipid receptor; structural comparison throughout paper

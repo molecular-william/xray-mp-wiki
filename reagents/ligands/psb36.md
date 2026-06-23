@@ -40,11 +40,11 @@ PSB36 was soaked into A2AR-theophylline crystals to obtain a 2.8 A structure, re
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Adenosine A1 Receptor (A1AR)](/xray-mp-wiki/proteins/human-adenosine-a1-receptor-a1ar/)
+| [Human Adenosine A1 Receptor (A1AR)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a1-receptor-a1ar/)
  | 10 uM (purification); 5 uM (crystallization) | Crystallized with A1R-StaR-Delta3-b562RIL in LCP at 3.3 A resolution
  | Orthosteric binding; xanthine core sandwiched between F171 and L250(6.51); noradamantyl group contacts T270(7.35)
  |
-| [Human Adenosine A2A Receptor (A2AR)](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar/)
+| [Human Adenosine A2A Receptor (A2AR)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/)
  | soaked into theophylline crystals | Soaked into A2AR-StaR2-b562RIL-theophylline crystals; structure solved at 2.8 A
  | Binds with submicromolar affinity; sits higher and rotated ~5 degrees compared to A1AR pose; displaces theophylline
  |
@@ -59,6 +59,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Adenosine A1 Receptor (A1AR)](/xray-mp-wiki/proteins/human-adenosine-a1-receptor-a1ar/) — A1-selective antagonist; crystallized with A1R-StaR construct at 3.3 A
-- [Human Adenosine A2A Receptor (A2AR)](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar/) — Binds A2AR with submicromolar affinity; structure at 2.8 A
+- [Human Adenosine A1 Receptor (A1AR)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a1-receptor-a1ar/) — A1-selective antagonist; crystallized with A1R-StaR construct at 3.3 A
+- [Human Adenosine A2A Receptor (A2AR)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/) — Binds A2AR with submicromolar affinity; structure at 2.8 A
 - [DPCPX (8-Cyclopentyl-1,3-dipropylxanthine)](/xray-mp-wiki/reagents/ligands/dpcpx/) — Related A1-selective xanthine antagonist

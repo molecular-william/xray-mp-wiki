@@ -1,15 +1,25 @@
----
 title: Membrane Mimetics and Structural Biology
 type: concept
-tags: [concept-membrane-mimetic, subdirectory-concepts]
+tags:
+- concept-membrane-mimetic
+- subdirectory-concepts
 sources:
-  - doi/10.1016##j.bbabio.2023.148986
-  - doi/10.1016##J.JMB.2004.08.090
-  - doi/10.1006##jmbi.1994.0097
+- doi/10.1016##j.bbabio.2023.148986
+- doi/10.1016##J.JMB.2004.08.090
+- doi/10.1006##jmbi.1994.0097
 cross_references:
-  - path: /xray-mp-wiki/reagents/detergents/ddm/
-    title: n-Dodecyl-beta-D-maltopyranoside (DDM)
-    reason: Common detergent for membrane protein solubilization
-cross_refs_text: '- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Common detergent for membrane protein solubilization'
-details: 'Membrane mimetics are artificial systems that replicate the lipid bilayer environment for structural and functional studies of membrane proteins. Common types include detergents, liposomes, bicelles, nanodiscs, and amphipols. Each has advantages and limitations for different applications.'
-overview: 'Membrane mimetics are artificial systems that replicate the lipid bilayer environment for structural and functional studies of membrane proteins. Common types include detergents, liposomes, bicelles, nanodiscs, and amphipols. Each has advantages and limitations for different applications.'
+- path: /xray-mp-wiki/reagents/detergents/ddm/
+  title: n-Dodecyl-beta-D-maltopyranoside (DDM)
+  reason: Common detergent for membrane protein solubilization
+cross_refs_text: '- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/)
+  — Common detergent for membrane protein solubilization'
+details: Membrane mimetics are artificial systems that replicate the lipid bilayer
+  environment for structural and functional studies of membrane proteins. Common types
+  include detergents, liposomes, bicelles, nanodiscs, and amphipols. Each has advantages
+  and limitations for different applications.
+overview: Membrane mimetics are artificial systems that replicate the lipid bilayer
+  environment for structural and functional studies of membrane proteins. Common types
+  include detergents, liposomes, bicelles, nanodiscs, and amphipols. Each has advantages
+  and limitations for different applications.
+created: '2026-06-11'
+updated: '2026-06-11'

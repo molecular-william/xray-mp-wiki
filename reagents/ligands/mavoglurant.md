@@ -1,7 +1,7 @@
 ---
 title: Mavoglurant (AFQ056)
-created: 2026-06-03
-updated: 2026-06-03
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Mavoglurant (AFQ056, methyl (3aR,4S,7aR)-4-hydroxy-4-[(3-methylphenyl)ethynyl]octahydro-1H-indole-1-carboxylate) is a negative allosteric modulator (NAM) of the metabotropic glutamate receptor 5 (mGlu5) developed by Novartis. It has an acetylene-containing chemotype with a central acetylene flanked by two aromatic groups and a saturated bicyclic ring system. Mavoglurant completed Phase III clinical trials for fragile X syndrome (FXS) and Phase II trials for levodopa-induced dyskinesias in Parkinson's disease. It was the most advanced mGlu5 NAM in clinical development. The crystal structure of mGlu5 in complex with mavoglurant (PDB 4OO9) was the first structure of a class C GPCR NAM bound to its transmembrane domain.
+Mavoglurant (AFQ056, methyl (3aR,4S,7aR)-4-hydroxy-4-[(3-methylphenyl)ethynyl]octahydro-1H-indole-1-carboxylate) is a negative allosteric modulator (NAM) of the [Metabotropic Glutamate Receptor 5 (mGlu5)](/xray-mp-wiki/proteins/gpcr/metabotropic-glutamate-receptor-5/) developed by Novartis. It has an acetylene-containing chemotype with a central acetylene flanked by two aromatic groups and a saturated bicyclic ring system. Mavoglurant completed Phase III clinical trials for fragile X syndrome (FXS) and Phase II trials for levodopa-induced dyskinesias in Parkinson's disease. It was the most advanced mGlu5 NAM in clinical development. The crystal structure of mGlu5 in complex with mavoglurant (PDB 4OO9) was the first structure of a class C GPCR NAM bound to its transmembrane domain.
 
 
 ## Properties
@@ -29,8 +29,8 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Metabotropic Glutamate Receptor 5 (mGlu5) | 40 uM | Co-crystallized with mGlu5-StaR TMD construct (residues 569-836) in lipidic cubic phase; structure determined at 2.6 A resolution (PDB 4OO9); used as molecular replacement search model for subsequent mGlu5 structures | First crystal structure of class C GPCR NAM bound to transmembrane domain; revealed precise location of allosteric binding site and key micro-switches regulating receptor signalling |
-| Metabotropic Glutamate Receptor 5 (mGlu5) | not specified | Competition binding assay; pKi = 8.25 +/- 0.12 at mGlu5 wild-type full-length | High-affinity binding to mGlu5; affinity maintained at thermostabilized StaR construct (pKi 8.17 +/- 0.13) |
+| [Metabotropic Glutamate Receptor 5 (mGlu5)](/xray-mp-wiki/proteins/gpcr/metabotropic-glutamate-receptor-5/) | 40 uM | Co-crystallized with mGlu5-StaR TMD construct (residues 569-836) in lipidic cubic phase; structure determined at 2.6 A resolution (PDB 4OO9); used as [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) search model for subsequent mGlu5 structures | First crystal structure of class C GPCR NAM bound to transmembrane domain; revealed precise location of allosteric binding site and key micro-switches regulating receptor signalling |
+| [Metabotropic Glutamate Receptor 5 (mGlu5)](/xray-mp-wiki/proteins/gpcr/metabotropic-glutamate-receptor-5/) | not specified | Competition binding assay; pKi = 8.25 +/- 0.12 at mGlu5 wild-type full-length | High-affinity binding to mGlu5; affinity maintained at thermostabilized StaR construct (pKi 8.17 +/- 0.13) |
 
 ## Binding Mode
 
@@ -51,7 +51,8 @@ No comparison data available.
 
 ## Cross-References
 
-- [Metabotropic Glutamate Receptor 5 (mGlu5)](/xray-mp-wiki/proteins/metabotropic-glutamate-receptor-5/) — Primary target; co-crystallized structure (PDB 4OO9)
+- [Metabotropic Glutamate Receptor 5 (mGlu5)](/xray-mp-wiki/proteins/gpcr/metabotropic-glutamate-receptor-5/) — Primary target; co-crystallized structure (PDB 4OO9)
 - [HTL14242 (Compound 25)](/xray-mp-wiki/reagents/ligands/htl14242/) — Second-generation NAM; different binding mode due to Trp785^6.50 rotamer
 - [MPEP](/xray-mp-wiki/reagents/ligands/mpep/) — Reference NAM; defines MPEP allosteric site
 - [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/allosteric-regulation/) — Mavoglurant is a clinical-stage mGlu5 negative allosteric modulator
+- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification

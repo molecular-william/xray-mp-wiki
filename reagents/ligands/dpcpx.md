@@ -1,7 +1,7 @@
 ---
 title: DPCPX (8-Cyclopentyl-1,3-dipropylxanthine)
-created: 2026-05-27
-updated: 2026-05-27
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -40,7 +40,7 @@ DPCPX was docked into the A1AR crystal structure, revealing that it engages the 
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Adenosine A1 Receptor (A1AR)](/xray-mp-wiki/proteins/human-adenosine-a1-receptor-a1ar/) | approximately 2 nM [3H]DPCPX | Saturation binding and competition binding assays | Determined Bmax and Kd values; assessed affinity of mutant receptors |
+| [Human Adenosine A1 Receptor (A1AR)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a1-receptor-a1ar/) | approximately 2 nM [3H]DPCPX | Saturation binding and competition binding assays | Determined Bmax and Kd values; assessed affinity of mutant receptors |
 
 ## Advantages and Disadvantages
 
@@ -52,7 +52,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Adenosine A1 Receptor (A1AR)](/xray-mp-wiki/proteins/human-adenosine-a1-receptor-a1ar/) — Primary radioligand for binding assays
+- [Human Adenosine A1 Receptor (A1AR)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a1-receptor-a1ar/) — Primary radioligand for binding assays
 - [DU172](/xray-mp-wiki/reagents/ligands/du172/) — Covalent antagonist used for A1AR crystallization
 - [FSCPX](/xray-mp-wiki/reagents/ligands/fscpx/) — Related covalent xanthine antagonist
 - [ZM241385](/xray-mp-wiki/reagents/ligands/zmc241385/) — A2AAR selective antagonist for comparison

@@ -1,7 +1,7 @@
 ---
 title: X-Ray Radiation Damage in Crystallography
-created: 2026-05-26
-updated: 2026-05-26
+created: 2026-06-11
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default

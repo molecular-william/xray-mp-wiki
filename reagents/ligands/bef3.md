@@ -28,8 +28,8 @@ No specific use cases documented.
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
 | LpCopA (Copper-Transporting P-type ATPase from Legionella pneumophila) | -- | Trapped E2P state of LpCopA for X-ray crystallography; BeF3- binds to Asp426 with Mg2+ | Structure determined at 2.0 A resolution (PDB 3B9B) |
-| SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase 1a) | -- | Mimics E2P state in SERCA1a for structural comparison with LpCopA | Structural comparison reveals similar cytoplasmic domain arrangement in E2P state |
-| SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase 1a) | -- | Supplementary data from doi/10.1038/nature06418; E2P-BeF3- structure in space group P212121 at 2.65 A resolution | Additional E2P structure collected at ESRF ID23-2 with wavelength 0.873 A |
+| [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) (Sarcoplasmic Reticulum Ca2+-ATPase 1a) | -- | Mimics E2P state in [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) for structural comparison with LpCopA | Structural comparison reveals similar cytoplasmic domain arrangement in E2P state |
+| [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) (Sarcoplasmic Reticulum Ca2+-ATPase 1a) | -- | Supplementary data from doi/10.1038/nature06418; E2P-BeF3- structure in space group P212121 at 2.65 A resolution | Additional E2P structure collected at ESRF ID23-2 with wavelength 0.873 A |
 
 ## Advantages and Disadvantages
 
@@ -52,5 +52,6 @@ No comparison data available.
 ## Cross-References
 
 - [AlF4 (Aluminum Fluoride)](/xray-mp-wiki/reagents/ligands/alf4/) — Another metal fluoride phosphate analog used for trapping phosphorylated states
-- [LpCopA (Copper-Transporting P-type ATPase from Legionella pneumophila)](/xray-mp-wiki/proteins/lp-copa/) — Used to trap E2P state of LpCopA for crystallography
+- [LpCopA (Copper-Transporting P-type ATPase from Legionella pneumophila)](/xray-mp-wiki/proteins/pumps-atpases/lp-copa/) — Used to trap E2P state of LpCopA for crystallography
 - [Phosphoenzyme E2P State](/xray-mp-wiki/concepts/phosphoenzyme-e2p-state/) — BeF3- is used to structurally mimic the E2P intermediate state
+- [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — Related protein structure

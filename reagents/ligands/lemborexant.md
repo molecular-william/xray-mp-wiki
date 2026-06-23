@@ -29,7 +29,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Human Orexin 2 Receptor | 10 uM (in lysis buffer), co-crystallized | OX2R-i3d complex co-crystallized with 10 uM lemborexant; lemborexant present throughout purification | PDB 7XRR, 2.89 A resolution; clear electron density for ligand with unique binding mode |
+| [Human Orexin 2 Receptor](/xray-mp-wiki/proteins/gpcr/orexin-2-receptor/) | 10 uM (in lysis buffer), co-crystallized | OX2R-i3d complex co-crystallized with 10 uM lemborexant; lemborexant present throughout purification | PDB 7XRR, 2.89 A resolution; clear electron density for ligand with unique binding mode |
 
 ## Binding Mode
 
@@ -46,7 +46,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Orexin 2 Receptor](/xray-mp-wiki/proteins/orexin-2-receptor/) — Co-crystallized target; PDB 7XRR structure determined
+- [Human Orexin 2 Receptor](/xray-mp-wiki/proteins/gpcr/orexin-2-receptor/) — Co-crystallized target; PDB 7XRR structure determined
 - [Suvorexant](/xray-mp-wiki/reagents/ligands/suvorexant/) — Dual orexin receptor antagonist; compared binding kinetics and structural features
 - [EMPA](/xray-mp-wiki/reagents/ligands/empa/) — OX2R-selective antagonist; binding mode compared with lemborexant
-- [Human Orexin 1 Receptor](/xray-mp-wiki/proteins/orexin-1-receptor/) — Lemborexant binds both OX1R and OX2R; binding mode differs between subtypes
+- [Human Orexin 1 Receptor](/xray-mp-wiki/proteins/enzymes/orexin-1-receptor/) — Lemborexant binds both OX1R and OX2R; binding mode differs between subtypes

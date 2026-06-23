@@ -28,14 +28,14 @@ Sodium thiocyanate (NaSCN) is an inorganic salt used as a crystallization additi
 
 ### Crystallization precipitant for pLGICs
 
-Sodium thiocyanate at 0.4 M concentration is used as a crystallization precipitant for the pentameric ligand-gated ion channel GLIC. It is part of a crystallization solution that also includes sodium acetate buffer, PEG 4000, glycerol, and bromoform. The thiocyanate ion may contribute to protein precipitation through chaotropic effects.
+Sodium thiocyanate at 0.4 M concentration is used as a crystallization precipitant for the pentameric ligand-gated ion channel [GLIC](/xray-mp-wiki/proteins/cys-loop-receptors/glic/). It is part of a crystallization solution that also includes [Sodium Acetate Buffer](/xray-mp-wiki/reagents/buffers/acetate/), [PEG](/xray-mp-wiki/reagents/additives/peg/) 4000, [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), and [Bromoform (Tribromomethane)](/xray-mp-wiki/reagents/ligands/bromoform/). The thiocyanate ion may contribute to protein precipitation through chaotropic effects.
 
 
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/glic/ | 0.4 M | Crystallization reservoir for GLIC locally closed and open forms co-crystallized with bromoform | Crystals grown by hanging-drop vapor diffusion at 20 deg C |
+| /xray-mp-wiki/proteins/cys-loop-receptors/glic/ | 0.4 M | Crystallization reservoir for [GLIC](/xray-mp-wiki/proteins/cys-loop-receptors/glic/) locally closed and open forms co-crystallized with [Bromoform (Tribromomethane)](/xray-mp-wiki/reagents/ligands/bromoform/) | Crystals grown by hanging-drop vapor diffusion at 20 deg C |
 
 ## Advantages and Disadvantages
 
@@ -47,5 +47,9 @@ No comparison data available.
 
 ## Cross-References
 
-- [GLIC](/xray-mp-wiki/proteins/glic/) — Used in GLIC crystallization at 0.4 M concentration
+- [GLIC](/xray-mp-wiki/proteins/cys-loop-receptors/glic/) — Used in GLIC crystallization at 0.4 M concentration
 - [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Method used for GLIC crystallization with NaSCN-containing reservoir
+- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
+- [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers
+- [Sodium Acetate Buffer](/xray-mp-wiki/reagents/buffers/acetate/) — Buffer component in purification or crystallization
+- [Bromoform (Tribromomethane)](/xray-mp-wiki/reagents/ligands/bromoform/) — Related ligand or cofactor

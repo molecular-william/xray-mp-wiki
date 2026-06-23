@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Melibiose Permease from Salmonella typhimurium (MelBSt)](/xray-mp-wiki/proteins/melbst/) | 10 uM | Trp->D2G FRET assay with RSO vesicles; excitation at 290 nm, emission at 490 nm | D2G binding detected by FRET; displacement by 120 mM melibiose; stimulation by 20 mM Na+ or Li+ |
+| [Melibiose Permease from Salmonella typhimurium (MelBSt)](/xray-mp-wiki/proteins/mfs-transporters/melbst/) | 10 uM | Trp->D2G FRET assay with RSO vesicles; excitation at 290 nm, emission at 490 nm | D2G binding detected by FRET; displacement by 120 mM melibiose; stimulation by 20 mM Na+ or Li+ |
 
 ## Advantages and Disadvantages
 

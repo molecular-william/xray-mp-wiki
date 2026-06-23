@@ -28,7 +28,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Glycine Receptor Alpha 3 (GlyRalpha3)](/xray-mp-wiki/proteins/glyr-alpha3/) | Co-crystallized at micromolar concentration | Crystal structure determination (PDB: 5VDH at 2.85 A, PDB: 5VDI at 3.08 A) | Ivermectin binding site resolved in transmembrane domain; channel in desensitized state |
+| [Human Glycine Receptor Alpha 3 (GlyRalpha3)](/xray-mp-wiki/proteins/cys-loop-receptors/glyr-alpha3/) | Co-crystallized at micromolar concentration | Crystal structure determination (PDB: 5VDH at 2.85 A, PDB: 5VDI at 3.08 A) | Ivermectin binding site resolved in transmembrane domain; channel in desensitized state |
 
 ## Binding Mode
 
@@ -58,6 +58,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Glycine Receptor Alpha 3 (GlyRalpha3)](/xray-mp-wiki/proteins/glyr-alpha3/) — Primary target in this study; crystal structure resolved at 2.85 A and 3.08 A
+- [Human Glycine Receptor Alpha 3 (GlyRalpha3)](/xray-mp-wiki/proteins/cys-loop-receptors/glyr-alpha3/) — Primary target in this study; crystal structure resolved at 2.85 A and 3.08 A
 - [Positive Allosteric Modulation](/xray-mp-wiki/concepts/positive-allosteric-modulation/) — Ivermectin acts as a positive allosteric modulator of Cys-loop receptors
 - [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/allosteric-regulation/) — Ivermectin binding mechanism involves allosteric modulation of channel gating

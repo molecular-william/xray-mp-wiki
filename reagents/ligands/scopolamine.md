@@ -1,7 +1,7 @@
 ---
 title: Scopolamine
-created: 2026-05-27
-updated: 2026-05-27
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Scopolamine (hyoscyamine) is a non-selective muscarinic receptor antagonist that produces amnestic effects by blocking cholinergic transmission. It is widely used in preclinical models to induce memory deficits for testing pro-cognitive compounds. In this study, scopolamine was used to induce learning and memory deficits in mouse fear conditioning and rat passive avoidance tests, which were then reversed by HTL9936 treatment. Scopolamine was also used to reverse HTL9936-induced neuronal firing in vivo, confirming M1 receptor-mediated effects.
+Scopolamine (hyoscyamine) is a non-selective muscarinic receptor antagonist that produces amnestic effects by blocking cholinergic transmission. It is widely used in preclinical models to induce memory deficits for testing pro-cognitive compounds. In this study, scopolamine was used to induce learning and memory deficits in mouse fear conditioning and rat passive avoidance tests, which were then reversed by [HTL9936](/xray-mp-wiki/reagents/ligands/htl9936/) treatment. Scopolamine was also used to reverse HTL9936-induced neuronal firing in vivo, confirming M1 receptor-mediated effects.
 
 
 ## Properties
@@ -36,4 +36,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [M1 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/m1-muscarinic-acetylcholine-receptor/) — Used to induce memory deficits in preclinical behavioral models
+- [M1 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m1-muscarinic-acetylcholine-receptor/) — Used to induce memory deficits in preclinical behavioral models
+- [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/) — Related ligand or cofactor
+- [HTL9936](/xray-mp-wiki/reagents/ligands/htl9936/) — Related ligand or cofactor

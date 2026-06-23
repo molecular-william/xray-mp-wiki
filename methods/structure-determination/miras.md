@@ -14,14 +14,14 @@ verified: false
 
 ## Overview
 
-MIRAS (Multiple Isomorphous Replacement with Anomalous Scattering) is a crystallographic phasing method that combines data from isomorphous heavy-atom derivatives with anomalous scattering signals from multiple sources (e.g., mercury derivatives and selenomethionine). It is particularly powerful for de novo structure determination of membrane proteins where molecular replacement is not feasible.
+MIRAS (Multiple Isomorphous Replacement with Anomalous Scattering) is a crystallographic phasing method that combines data from isomorphous heavy-atom derivatives with anomalous scattering signals from multiple sources (e.g., [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) derivatives and [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/)). It is particularly powerful for de novo structure determination of membrane proteins where [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) is not feasible.
 
 ## Principle
 
 MIRAS exploits two independent sources of phase information:
 (1) Isomorphous differences between native and heavy-atom derivative crystals, and
-(2) Anomalous scattering signals from both the heavy atoms (e.g., mercury) and the
-incorporated selenomethionine residues. By combining these signals, MIRAS provides
+(2) Anomalous scattering signals from both the heavy atoms (e.g., [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/)) and the
+incorporated [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) residues. By combining these signals, MIRAS provides
 robust phase estimates that can be improved through solvent flattening and
 non-crystallographic symmetry averaging.
 
@@ -29,22 +29,22 @@ non-crystallographic symmetry averaging.
 
 ### Reagents and Materials
 
-- Seleno-L-methionine (for protein expression)
-- Mercury(II) chloride or other mercury compounds (for crystal derivatization)
+- Seleno-[L-Methionine](/xray-mp-wiki/reagents/ligands/l-methionine/) (for protein expression)
+- [Mercury(II) Chloride](/xray-mp-wiki/reagents/additives/mercury-ii-chloride/) or other [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) compounds (for crystal derivatization)
 
 ### Steps
 
-1. {'step': 'Selenomethionine-incorporated protein expression', 'description': 'Express the target protein in methionine auxotrophic E. coli strains (e.g., B834) in the presence of seleno-L-methionine to achieve near-complete replacement of methionine with selenomethionine. This provides strong anomalous signal from selenium atoms at the selenium K-edge (~12.66 keV).\n'}
-2. {'step': 'Heavy-atom derivative crystal preparation', 'description': 'Soak native crystals in solutions containing mercury compounds (e.g., mercury(II) chloride) to obtain heavy-atom derivative crystals. Screen multiple derivative conditions to identify isomorphous crystals with strong heavy-atom binding sites.\n'}
-3. {'step': 'X-ray data collection', 'description': 'Collect native high-resolution data, heavy-atom derivative data, lower-resolution native data, and selenomethionine anomalous data. Data can be processed using pipelines such as XIA2 with XDS for indexing and scaling, or mosflm and aimless. Collect at appropriate wavelengths to maximize anomalous signal from selenium (anomalous peak) and mercury (L-edges).\n'}
+1. {'step': 'Selenomethionine-incorporated protein expression', 'description': 'Express the target protein in methionine auxotrophic E. coli strains (e.g., B834) in the presence of seleno-[L-Methionine](/xray-mp-wiki/reagents/ligands/l-methionine/) to achieve near-complete replacement of methionine with [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/). This provides strong anomalous signal from selenium atoms at the selenium K-edge (~12.66 keV).\n'}
+2. {'step': 'Heavy-atom derivative crystal preparation', 'description': 'Soak native crystals in solutions containing [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) compounds (e.g., [Mercury(II) Chloride](/xray-mp-wiki/reagents/additives/mercury-ii-chloride/)) to obtain heavy-atom derivative crystals. Screen multiple derivative conditions to identify isomorphous crystals with strong heavy-atom binding sites.\n'}
+3. {'step': 'X-ray data collection', 'description': 'Collect native high-resolution data, heavy-atom derivative data, lower-resolution native data, and [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) anomalous data. Data can be processed using pipelines such as XIA2 with XDS for indexing and scaling, or mosflm and aimless. Collect at appropriate wavelengths to maximize anomalous signal from selenium (anomalous peak) and [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) (L-edges).\n'}
 4. {'step': 'Heavy atom site location', 'description': 'Locate heavy atom sites manually using programs such as RSPS, or automatically using programs such as SHELXD. Refine heavy atom positions and parameters using maximum likelihood programs such as SHARP.\n'}
 5. {'step': 'Initial phasing with solvent flattening', 'description': 'Calculate initial phases using SHARP with solvent flattening in SOLOMON. The combination of isomorphous replacement and anomalous scattering provides phase information that can be significantly improved by density modification.\n'}
-6. {'step': 'Cross-crystal averaging and NCS improvement', 'description': 'Improve map quality through cross-crystal averaging using DMMulti, combining information from the mercury derivative, selenium anomalous, and isomorphous native datasets. Apply non-crystallographic symmetry (NCS) averaging when multiple copies of the molecule exist in the asymmetric unit.\n'}
+6. {'step': 'Cross-crystal averaging and [NCS](/xray-mp-wiki/concepts/non-crystallographic-symmetry/) improvement', 'description': 'Improve map quality through cross-crystal averaging using DMMulti, combining information from the [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) derivative, selenium anomalous, and isomorphous native datasets. Apply non-crystallographic symmetry ([NCS](/xray-mp-wiki/concepts/non-crystallographic-symmetry/)) averaging when multiple copies of the molecule exist in the asymmetric unit.\n'}
 
 ### Typical Conditions
 
 - **temperature**: 100 K (cryo-cooled crystals)
-- **notes**: Data collected on synchrotron beamlines (e.g., Diamond Light Source IO2, IO3, IO4). Anisotropic diffraction may be present and can be addressed through anisotropic truncation of structure factors.
+- **notes**: Data collected on synchrotron beamlines (e.g., Diamond Light Source IO2, IO3, IO4). Anisotropic diffraction may be present and can be addressed through anisotropic [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) of structure factors.
 
 
 
@@ -88,6 +88,79 @@ non-crystallographic symmetry averaging.
 - s
 -  
 - (
+- [
+- M
+- e
+- r
+- c
+- u
+- r
+- y
+-  
+- (
+- H
+- g
+- C
+- l
+- 2
+- )
+-  
+- -
+-  
+- A
+- q
+- u
+- a
+- p
+- o
+- r
+- i
+- n
+-  
+- I
+- n
+- h
+- i
+- b
+- i
+- t
+- o
+- r
+- ]
+- (
+- /
+- x
+- r
+- a
+- y
+- -
+- m
+- p
+- -
+- w
+- i
+- k
+- i
+- /
+- r
+- e
+- a
+- g
+- e
+- n
+- t
+- s
+- /
+- a
+- d
+- d
+- i
+- t
+- i
+- v
+- e
+- s
+- /
 - m
 - e
 - r
@@ -95,6 +168,8 @@ non-crystallographic symmetry averaging.
 - u
 - r
 - y
+- /
+- )
 - ,
 -  
 - s
@@ -196,6 +271,7 @@ non-crystallographic symmetry averaging.
 
 - -
 -  
+- [
 - S
 - e
 - l
@@ -212,6 +288,67 @@ non-crystallographic symmetry averaging.
 - i
 - n
 - e
+-  
+- (
+- S
+- e
+- M
+- e
+- t
+- )
+- ]
+- (
+- /
+- x
+- r
+- a
+- y
+- -
+- m
+- p
+- -
+- w
+- i
+- k
+- i
+- /
+- r
+- e
+- a
+- g
+- e
+- n
+- t
+- s
+- /
+- a
+- d
+- d
+- i
+- t
+- i
+- v
+- e
+- s
+- /
+- s
+- e
+- l
+- e
+- n
+- o
+- m
+- e
+- t
+- h
+- i
+- o
+- n
+- i
+- n
+- e
+- /
+- )
 -  
 - i
 - n
@@ -1124,5 +1261,5 @@ non-crystallographic symmetry averaging.
 
 ## Related Reagents
 
-- [Selenomethionine](/xray-mp-wiki/reagents/ligands/selenomethionine/) — Selenomethionine-incorporated protein used for anomalous phasing
+- [Selenomethionine](/xray-mp-wiki/reagents/additives/selenomethionine/) — Selenomethionine-incorporated protein used for anomalous phasing
 - [Mercury(II) Chloride](/xray-mp-wiki/reagents/additives/mercury-ii-chloride/) — Heavy atom derivative used for MIRAS phasing

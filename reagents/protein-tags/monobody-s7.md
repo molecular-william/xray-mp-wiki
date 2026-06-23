@@ -27,11 +27,11 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Fluoride Channel from B. pertussis (Bpe) | Nanomolar | Bpe-S7 complex crystallized in P21212 space group at 3.6 Angstrom resolution. Structure solved by SAD phasing with Hg-labelled protein. S7 blocks single-channel activity of Bpe. Used as search model for molecular replacement in subsequent Bpe structures. | Provided first structural view of the Fluc channel with monobody at both ends, revealing the double-barrelled architecture and dual-topology homodimer assembly. |
+| [Fluoride Channel from B. pertussis (Bpe)](/xray-mp-wiki/proteins/other-ion-channels/bpe-fluoride-channel/) | Nanomolar | Bpe-S7 complex crystallized in P21212 space group at 3.6 Angstrom resolution. Structure solved by SAD phasing with Hg-labelled protein. S7 blocks single-channel activity of Bpe. Used as search model for [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) in subsequent Bpe structures. | Provided first structural view of the Fluc channel with monobody at both ends, revealing the double-barrelled architecture and dual-topology homodimer assembly. |
 
 ## Binding Mode
 
-### Binding to Fluoride Channel from B. pertussis (Bpe)
+### Binding to [Fluoride Channel from B. pertussis (Bpe)](/xray-mp-wiki/proteins/other-ion-channels/bpe-fluoride-channel/)
 
 S7 interaction surface wraps around a protrusion formed from the TM1-TM2 and TM3b-TM4 connecting loops of the Bpe channel. An eight-residue loop on the monobody plunges deeply into each channel vestibule, contacting the channel mainly via side chains. Channel-monobody interactions are mostly hydrophobic, aromatic, and hydrogen bonded, with a paucity of salt bridges rationalizing the weak ionic strength dependence of binding.
 
@@ -45,3 +45,6 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
+- [Fluoride Channel from B. pertussis (Bpe)](/xray-mp-wiki/proteins/other-ion-channels/bpe-fluoride-channel/) — Related protein structure

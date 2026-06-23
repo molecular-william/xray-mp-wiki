@@ -6,7 +6,7 @@ type: reagent
 category: reagents
 layout: default
 tags: [ligand, subdirectory-ligands]
-sources: [doi/10.1038##nature12944, doi/10.1038##nature08282]
+sources: [doi/10.1038##nature11111, doi/10.1038##nature12944, doi/10.1038##nature08282]
 verified: false
 ---
 
@@ -69,7 +69,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Delta-Opioid Receptor (OPRD1)](/xray-mp-wiki/proteins/delta-opioid-receptor/) — Primary target of naltrindole; used in crystal structure determination
+- [Human Delta-Opioid Receptor (OPRD1)](/xray-mp-wiki/proteins/gpcr/delta-opioid-receptor/) — Primary target of naltrindole; used in crystal structure determination
 - [Naltriben](/xray-mp-wiki/reagents/ligands/naltriben/) — Related cyclopentene-containing δ-OR antagonist
 - [7-Benzylidenenaltrexone (BNTX)](/xray-mp-wiki/reagents/ligands/7-benzylidenenaltrexone/) — Related δ-OR antagonist with similar functional switching properties
 - [Efficacy Switches in GPCR Signaling](/xray-mp-wiki/concepts/efficacy-switches/) — Naltrindole transforms to beta-arrestin agonist in sodium site mutants

@@ -32,8 +32,8 @@ Amantadine is an adamantyl-amine class drug that targets the M2 proton channel o
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/influenza-a-m2-proton-channel/ | not specified | Bound to M2 TM domain (residues 22-46) in Inward_closed conformation; PDB 6BKK, 2.00 A resolution; crystals formed at pH 5.6 | High-resolution structure revealed adamantane in hydrophobic pocket lined by Val27, Ala30, Ser31; ammonium group hydrogen-bonded to Ala30 water layer |
-| /xray-mp-wiki/proteins/influenza-a-m2-proton-channel/ | not specified | Molecular dynamics simulations of amantadine-bound M2 (200 ns simulation in POPC bilayer) | Amantadine undergoes rapid rotation about its major axis (correlation time 40 psec) and torsional averaging about C1-NH2 bond (30 psec); waters form tight clusters near Ala30 and Gly34 carbonyls |
+| /xray-mp-wiki/proteins/other-ion-channels/influenza-a-m2-proton-channel/ | not specified | Bound to M2 TM domain (residues 22-46) in Inward_closed conformation; PDB 6BKK, 2.00 A resolution; crystals formed at pH 5.6 | High-resolution structure revealed adamantane in hydrophobic pocket lined by Val27, Ala30, Ser31; ammonium group hydrogen-bonded to Ala30 water layer |
+| /xray-mp-wiki/proteins/other-ion-channels/influenza-a-m2-proton-channel/ | not specified | Molecular dynamics simulations of amantadine-bound M2 (200 ns simulation in [POPC](/xray-mp-wiki/reagents/lipids/popc/) bilayer) | Amantadine undergoes rapid rotation about its major axis (correlation time 40 psec) and torsional averaging about C1-NH2 bond (30 psec); waters form tight clusters near Ala30 and Gly34 carbonyls |
 
 ## Advantages and Disadvantages
 
@@ -45,7 +45,8 @@ No comparison data available.
 
 ## Cross-References
 
-- [Influenza A M2 Proton Channel](/xray-mp-wiki/proteins/influenza-a-m2-proton-channel/) — Primary target of amantadine; high-resolution crystal structure (6BKK) solved
+- [Influenza A M2 Proton Channel](/xray-mp-wiki/proteins/other-ion-channels/influenza-a-m2-proton-channel/) — Primary target of amantadine; high-resolution crystal structure (6BKK) solved
 - [Rimantadine](/xray-mp-wiki/reagents/ligands/rimantadine/) — Related adamantyl-amine inhibitor with similar binding mechanism
 - [SPIRO (Spiro-adamantyl amine)](/xray-mp-wiki/reagents/ligands/spiro/) — Extended adamantyl-amine derivative that binds deeper in M2 channel
 - [Water Networks in GPCR Ligand Binding](/xray-mp-wiki/concepts/water-network-in-ligand-binding/) — Amantadine binding relies on water-mediated interactions in M2 channel
+- [POPC](/xray-mp-wiki/reagents/lipids/popc/) — Additive used in purification or crystallization buffers

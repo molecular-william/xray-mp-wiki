@@ -6,7 +6,7 @@ type: method
 category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
-sources: [doi/10.1038##EMBOJ.2012.157, doi/10.1038##nsmb.2417]
+sources: [doi/10.7554##eLife.34995, doi/10.1038##EMBOJ.2012.157, doi/10.1038##nsmb.2417]
 verified: false
 ---
 
@@ -33,14 +33,14 @@ activity measurements.
 
 - Purified membrane protein in detergent
 - E. coli lipids (acetone-ether washed)
-- Egg yolk L-alpha-phosphatidylcholine (Avanti Polar Lipids)
+- Egg yolk L-alpha-[Phosphatidylcholine](/xray-mp-wiki/reagents/lipids/phosphatidylcholine/) (Avanti Polar Lipids)
 - Detergent (e.g., DM, n-dodecyl-beta-D-maltoside)
 - Buffer (e.g., potassium phosphate)
 
 ### Steps
 
 1. {'step': 'Protein buffer exchange', 'description': 'Exchange purified protein into a suitable buffer containing low detergent concentration using gel filtration (e.g., 10/300 Superdex S200 column). Example: 50 mM KPi, 150 mM KCl, 0.3% DM, pH 7.0.\n'}
-2. {'step': 'Liposome preparation', 'description': 'Prepare liposomes from a mixture of E. coli lipids and egg yolk L-alpha-phosphatidylcholine in a 3:1 (wt/wt) ratio. Lipids are typically acetone-ether washed to remove free fatty acids.\n'}
+2. {'step': 'Liposome preparation', 'description': 'Prepare liposomes from a mixture of E. coli lipids and egg yolk L-alpha-[Phosphatidylcholine](/xray-mp-wiki/reagents/lipids/phosphatidylcholine/) in a 3:1 (wt/wt) ratio. Lipids are typically acetone-ether washed to remove free fatty acids.\n'}
 3. {'step': 'Proteoliposome formation by rapid dilution', 'description': 'Mix protein-detergent solution with liposomes at a defined protein-to-lipid ratio (e.g., 1:40 wt/wt) and rapidly dilute into buffer (e.g., 50 mM potassium phosphate, pH 7.0) to form proteoliposomes. The rapid dilution below the detergent CMC allows the protein to partition into the lipid bilayer.\n'}
 4. {'step': 'Ultracentrifugation', 'description': 'Remove unincorporated protein and free detergent by ultracentrifugation (e.g., 130,000 g for 3 hours at 4°C). The proteoliposome pellet contains the reconstituted protein-lipid complexes.\n'}
 5. {'step': 'Resuspension and freeze-thaw cycling', 'description': 'Resuspend the proteoliposome pellet to the desired concentration (e.g., 4 mg/ml) in buffer and subject to multiple freeze-thaw cycles (e.g., 5 cycles) to homogenize vesicle size and improve reconstitution efficiency. Store at -80°C until use.\n'}

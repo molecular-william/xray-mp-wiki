@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Angiotensin II Type 1 Receptor (AT1R)](/xray-mp-wiki/proteins/at1r/) | 30 uM complex with AT1R-S1I8 | Crystallization of active-state AT1R in lipidic cubic phase | Stabilized active-state AT1R for X-ray crystallography; PDB 6DO1 at 2.9 A resolution |
+| [Angiotensin II Type 1 Receptor (AT1R)](/xray-mp-wiki/proteins/gpcr/at1r/) | 30 uM complex with AT1R-S1I8 | Crystallization of active-state AT1R in lipidic cubic phase | Stabilized active-state AT1R for X-ray crystallography; PDB 6DO1 at 2.9 A resolution |
 
 ## Advantages and Disadvantages
 
@@ -39,7 +39,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/at1r/) — Primary target stabilized by Nb.AT110i1 in active conformation
+- [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/) — Primary target stabilized by Nb.AT110i1 in active conformation
 - [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) — Endogenous agonist used to select conformation-specific nanobodies
 - [S1I8](/xray-mp-wiki/reagents/ligands/s1i8/) — Partial agonist peptide used in Nb.AT110i1-AT1R crystallization complex
 - [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) — Nb.AT110i1 is a synthetic nanobody derived from camelid VHH scaffold

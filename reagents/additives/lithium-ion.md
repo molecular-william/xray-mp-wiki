@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Melibiose Permease from Salmonella typhimurium (MelBSt)](/xray-mp-wiki/proteins/melbst/) | 20 mM (functional assays) | Cation activation constant for D2G FRET (K0.5 = varies by mutant); melibiose transport assay | Li+ activates melibiose transport; K0.5 values: WT 1.92 mM (Na+) comparable Li+ efficiency; R363C mutant K0.5 = 5.51 mM for Na+ |
+| [Melibiose Permease from Salmonella typhimurium (MelBSt)](/xray-mp-wiki/proteins/mfs-transporters/melbst/) | 20 mM (functional assays) | Cation activation constant for D2G FRET (K0.5 = varies by mutant); melibiose transport assay | Li+ activates melibiose transport; K0.5 values: WT 1.92 mM (Na+) comparable Li+ efficiency; R363C mutant K0.5 = 5.51 mM for Na+ |
 
 ## Advantages and Disadvantages
 

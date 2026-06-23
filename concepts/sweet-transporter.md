@@ -1,7 +1,7 @@
 ---
 title: SWEET Transporter Family
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-11
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
@@ -27,5 +27,5 @@ The SWEET (Sugars Will Eventually be Exported Transporter) family comprises a wi
 
 
 ## Cross-References
-- [LbSemiSWEET](/xray-mp-wiki/proteins/lbsemisweet/) — Bacterial SWEET transporter with solved outward-open and inward-open structures
+- [LbSemiSWEET](/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/) — Bacterial SWEET transporter with solved outward-open and inward-open structures
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — SWEET transporters operate via alternating access

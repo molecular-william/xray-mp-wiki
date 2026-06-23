@@ -1,12 +1,12 @@
 ---
 title: 2-Methyl-2,4-pentanediol (MPD)
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-08
 type: reagent
 category: reagents
 layout: default
 tags: [additive-stabilizer, subdirectory-additives]
-sources: [doi/10.1016##j.jsbmb.2022.106228, doi/10.1016##j.jmb.2012.03.020, doi/10.1038##NATURE12179, doi/10.1038##nature11900, doi/10.1038##ncomms9004]
+sources: [doi/10.1016##j.jsbmb.2022.106228, doi/10.1016##j.jmb.2012.03.020, doi/10.1038##NATURE12179, doi/10.1038##nature11900, doi/10.1038##ncomms9004, doi/10.1038##nsmb.2284]
 verified: false
 ---
 
@@ -19,29 +19,36 @@ verified: false
 
 ## Properties
 
-- **Chemical name**: 2-methyl-2,4-pentanediol
-- **Chemical formula**: C6H14O2
-- **Molecular weight**: 118.17 g/mol
-- **Class**: diol
 
 ## Use in Membrane Protein Work
 
 ### Crystallization precipitant
 
-SppA_BS thermolysin-resistant fragment was crystallized using sitting-drop vapor diffusion with reservoir containing 5% MPD (23% t-butanol, 0.1 M Tris-HCl pH 8.5). The drop contained 1 uL protein and 1 uL reservoir solution equilibrated against 1 mL reservoir at 18 C.
+MPD is used as a precipitant in vapor diffusion crystallization setups. It precipitates proteins by preferential exclusion, concentrating the protein in the drop.
 
 
 ### Cryoprotection
 
-SppA_BS crystals were flash-cooled in cryosolvent containing 20% MPD, 23% t-butanol, and 0.1 M Tris-HCl pH 8.5, then cooled in liquid nitrogen.
+MPD serves as an effective cryoprotectant for flash-cooling protein crystals in liquid nitrogen, preventing ice formation during cryocrystallography data collection.
 
 
 ## Examples from This Wiki
 
-No examples from this wiki.
+| Protein | Concentration | Context | Result |
+|---|---|---|---|
+| [Yeast Mitochondrial ATP Synthase c10 Ring](/xray-mp-wiki/proteins/pumps-atpases/yeast-mitochondrial-atp-synthase-c10-ring/) | 70% | Crystallization buffer for the c10 ring; the structure was determined in the open conformation | c10 ring structure solved in the open conformation |
+
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Dual function as both precipitant and cryoprotectant
+- Low viscosity simplifies handling
+
+### Disadvantages
+
+- May cause protein aggregation at high concentrations
+- Not suitable for all protein crystallization conditions
 
 ## Comparison with Related Reagents
 
@@ -49,6 +56,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [Signal Peptide Peptidase A from Bacillus subtilis (SppA_BS)](/xray-mp-wiki/proteins/sppa-bs/) — Crystallization precipitant and cryoprotectant
-- [Diacylglycerol Kinase (DgkA)](/xray-mp-wiki/proteins/diacylglycerol-kinase/) — Crystallization precipitant component
-- [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase 1a)](/xray-mp-wiki/proteins/serca1a/) — Crystallization additive at 6% (w/v) in hanging-drop vapor diffusion for SERCA-SLN complex
+- [Yeast Mitochondrial ATP Synthase c10 Ring](/xray-mp-wiki/proteins/pumps-atpases/yeast-mitochondrial-atp-synthase-c10-ring/) — 70% MPD used in crystallization buffer for the c10 ring structure

@@ -41,11 +41,11 @@ The first three-dimensional structure of a gating modifier toxin bound to an ion
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [ASIC1a](/xray-mp-wiki/proteins/asic1a/) | 1 uM | Crystallization complex; solved at high pH (3.35 A, R3) and low pH (2.80 A, C2) | PcTx1 bound at subunit interfaces; revealed pH-dependent conformational changes in vestibule and transmembrane domains |
-| [ASIC1a](/xray-mp-wiki/proteins/asic1a/) | 1 uM | Electrophysiology; activation at pH 7.25 | Sustained peak current that rapidly desensitizes; EC50 188.6 +/- 17.8 nM |
-| [ASIC1a](/xray-mp-wiki/proteins/asic1a/) | 1 uM | Amiloride block experiment at pH 7.25 | 500 uM amiloride blocks 95% of PcTx1-mediated peak current but only 10% of steady-state current |
-| [ASIC1a](/xray-mp-wiki/proteins/asic1a/) | ~2 nM affinity | SPR direct binding measurement of PcTx1 with biotinylated human ASIC1(1-467), human ASIC1(residues 25-464) and chicken ASIC1(26-463); virtually identical kinetics and binding constants | PcTx1 binds with ~2 nM affinity to all ASIC1 variants; crystallized chicken ASIC1 variant confirmed by SPR |
-| [ASIC1a](/xray-mp-wiki/proteins/asic1a/) | 2.7 mg/ml | Crystallization of chicken ASIC1(26-463) in complex with synthetic lyophilized PcTx1; space group C2, 3.0 A resolution (PDB 3S3X) | First structure of a gating modifier toxin bound to an ion channel; revealed hydrophobic seal mechanism and cation-binding site in central vestibule |
+| [ASIC1a](/xray-mp-wiki/proteins/other-ion-channels/asic1a/) | 1 uM | Crystallization complex; solved at high pH (3.35 A, R3) and low pH (2.80 A, C2) | PcTx1 bound at subunit interfaces; revealed pH-dependent conformational changes in vestibule and transmembrane domains |
+| [ASIC1a](/xray-mp-wiki/proteins/other-ion-channels/asic1a/) | 1 uM | Electrophysiology; activation at pH 7.25 | Sustained peak current that rapidly desensitizes; EC50 188.6 +/- 17.8 nM |
+| [ASIC1a](/xray-mp-wiki/proteins/other-ion-channels/asic1a/) | 1 uM | Amiloride block experiment at pH 7.25 | 500 uM amiloride blocks 95% of PcTx1-mediated peak current but only 10% of steady-state current |
+| [ASIC1a](/xray-mp-wiki/proteins/other-ion-channels/asic1a/) | ~2 nM affinity | SPR direct binding measurement of PcTx1 with biotinylated human ASIC1(1-467), human ASIC1(residues 25-464) and chicken ASIC1(26-463); virtually identical kinetics and binding constants | PcTx1 binds with ~2 nM affinity to all ASIC1 variants; crystallized chicken ASIC1 variant confirmed by SPR |
+| [ASIC1a](/xray-mp-wiki/proteins/other-ion-channels/asic1a/) | 2.7 mg/ml | Crystallization of chicken ASIC1(26-463) in complex with synthetic lyophilized PcTx1; space group C2, 3.0 A resolution (PDB 3S3X) | First structure of a gating modifier toxin bound to an ion channel; revealed hydrophobic seal mechanism and cation-binding site in central vestibule |
 
 ## Binding Mode
 
@@ -64,7 +64,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Acid-Sensing Ion Channel 1a](/xray-mp-wiki/proteins/asic1a/) — Primary target of PcTx1; complex structures solved at high and low pH
+- [Acid-Sensing Ion Channel 1a](/xray-mp-wiki/proteins/other-ion-channels/asic1a/) — Primary target of PcTx1; complex structures solved at high and low pH
 - [Amiloride](/xray-mp-wiki/reagents/ligands/amiloride/) — Blocks PcTx1-mediated current in ASIC1a
 - [Channel Gating](/xray-mp-wiki/concepts/channel-gating/) — PcTx1 stabilizes the desensitized conformation of ASIC1a
 - [MitTx (Texas coral snake toxin)](/xray-mp-wiki/reagents/ligands/mittx/) — Heteromeric ASIC1 modulator that binds to overlapping site; mutually exclusive with PcTx1

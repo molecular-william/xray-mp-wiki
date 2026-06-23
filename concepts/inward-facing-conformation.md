@@ -1,7 +1,7 @@
 ---
 title: Inward-Facing Conformation of ABC Transporters
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-11
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
@@ -27,5 +27,5 @@ The inward-facing conformation is a structural state of ABC transporters in whic
 ## Cross-References
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Inward/outward-facing conformations are key states in alternating access
 - [ABC Transporter Family](/xray-mp-wiki/concepts/abc-transporter-family/) — Inward-facing conformation is a key state in ABC transporter cycle
-- [Yersinia pestis Heme Transporter HmuUV](/xray-mp-wiki/proteins/hmuuv/) — HmuUV outward-facing conformation is the complementary state
+- [Yersinia pestis Heme Transporter HmuUV](/xray-mp-wiki/proteins/abc-transporters/hmuuv/) — HmuUV outward-facing conformation is the complementary state
 - [Outward-Facing Conformation of ABC Transporters](/xray-mp-wiki/concepts/outward-facing-conformation/) — Complementary conformation in the transport cycle

@@ -1,7 +1,7 @@
 ---
 title: Continuous Diffraction in Macromolecular Crystallography
-created: 2026-06-03
-updated: 2026-06-03
+created: 2026-06-08
+updated: 2026-06-08
 type: concept
 category: concepts
 layout: default

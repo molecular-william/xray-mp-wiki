@@ -1,12 +1,12 @@
 ---
 title: Fusidic Acid
-created: 2026-06-03
-updated: 2026-06-03
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
-tags: [antibiotic, subdirectory-antibiotics]
-sources: [doi/10.1038##ncomms13819]
+tags: [antibiotic, ligand, additive-ligand, subdirectory-antibiotics]
+sources: [doi/10.1016##j.jmb.2019.12.025]
 verified: false
 ---
 
@@ -14,28 +14,26 @@ verified: false
 
 ## Overview
 
-Fusidic acid is a steroidal antibacterial agent (CAS 6990-06-3) produced by Fusidium coccineum. It inhibits bacterial protein synthesis by binding to elongation factor G (EF-G) and preventing the translocation step of protein synthesis. It is primarily active against Gram-positive bacteria, particularly staphylococci. Fusidic acid is a lipophilic carboxylated compound with a pKa of 4.7-5.3, which at neutral pH exists predominantly in its deprotonated carboxylate form. Its lipophilic nature allows it to immerse into the outer leaflet of the inner membrane, where it can be recognized and transported by multidrug efflux pumps such as AcrB in Escherichia coli.
+Fusidic acid (FUA) is a steroid antibiotic that inhibits bacterial protein synthesis by preventing the release of elongation factor G (EF-G) from the ribosome. In structural studies of the AcrB multidrug efflux pump, fusidic acid binds to the TM1/TM2 groove of the transmembrane domain, representing the first example of a membrane-localized carboxylated substrate binding site in AcrB. The AcrB/FUA co-crystal structure (PDB 5JMN) revealed FUA binding at the TM1/TM2 groove in all three protomers (L, T, and O), with tightest binding in the T protomer.
 
 
 ## Properties
 
+- **Molecular weight**: 516.7
+- **Class**: steroid antibiotic
 
 ## Use in Membrane Protein Work
 
-No specific use cases documented.
+### Substrate for AcrB efflux pump transport studies
+
+Fusidic acid is used as a model carboxylated substrate to study the TM1/TM2 groove binding site and transport pathway in AcrB. Combined molecular modeling, mutagenesis, and X-ray crystallography revealed that FUA binds initially at the TM1/TM2 groove and is transported via a PN2/PC1 interface pathway (Channel 4, CH4) towards the deep binding pocket in the periplasmic porter domain.
+
+
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/acrB/ | 4 mM (crystallization), 100-fold molar excess over AcrB | Co-crystallized with AcrB/DARPin complex; binding confirmed by simulated annealing composite omit electron density maps at 2.5 A resolution | Fusidic acid bound to TM1/TM2 groove of the T protomer; weaker densities observed in L and O protomers; apparent Ki of ~2.1 mM for AcrB_C338 cross-linking protection |
-
-## Binding Mode
-
-### Binding to AcrB (Acriflavine resistance protein B)
-
-Fusidic acid binds to a groove formed by the interface between transmembrane helix 1 (TM1) and transmembrane helix 2 (TM2) of the AcrB inner membrane transporter. The binding site is located approximately 6 A from the periplasmic side of the lipid bilayer. Residues interacting with fusidic acid include I27 on TM1 and K334, I337, H338, and V341 on TM2. The binding affinity varies across the three asymmetric protomer conformations, with the tight (T) state showing the strongest binding. The dimethylallyl group of fusidic acid interacts with the alkyl chains of co-bound DDM molecules. Binding is most stable in the T conformation and weaker in the L and O conformers, likely due to different protonation states of His338 in each protomer.
-
-- **Key residues**: I27, K334, I337, H338, V341
+| [AcrB Multidrug Efflux Transporter](/xray-mp-wiki/proteins/abc-transporters/acrb/) |  | FUA bound at TM1/TM2 groove in AcrB wild-type, I27A, N298A, and V340A variant crystal structures; ITC-measured Kd ~528 uM for wild-type AcrB |  |
 
 ## Advantages and Disadvantages
 
@@ -47,6 +45,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/acrB/) — Fusidic acid binds to the TM1/TM2 groove of AcrB; crystal structure solved at 2.5 A (PDB 4DX5)
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM binds to the TM1/TM2 groove distal to fusidic acid and interacts with its dimethylallyl group
-- [Helix Shift Mechanism for Carboxylate Drug Transport](/xray-mp-wiki/concepts/helix-shift-mechanism/) — Fusidic acid is the primary substrate used to demonstrate the helix shift transport mechanism
+- [AcrB Multidrug Efflux Transporter](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Fusidic acid is a carboxylated substrate of AcrB; co-crystal structures reveal TM1/TM2 groove binding and transport pathway

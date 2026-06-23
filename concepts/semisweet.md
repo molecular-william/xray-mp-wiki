@@ -6,7 +6,7 @@ type: concept
 category: concepts
 layout: default
 tags: [concept-protein-family, subdirectory-concepts]
-sources: [doi/10.1038##cr.2014.144, doi/10.1038##nature13670]
+sources: [doi/10.1038##cr.2014.144, doi/10.1038##nature13670, doi/10.1016##j.cell.2017.03.010]
 verified: false
 ---
 
@@ -37,6 +37,6 @@ SemiSWEETs comprise a single three-helix bundle (TM1, TM2, TM3), in contrast to 
 
 
 ## Cross-References
-- [LbSemiSWEET from Leptospira biflexa](/xray-mp-wiki/proteins/lbsemisweet/) — First SemiSWEET crystal structure solved; glucose transporter
+- [LbSemiSWEET from Leptospira biflexa](/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/) — First SemiSWEET crystal structure solved; glucose transporter
 - [SWEET Transporter Family](/xray-mp-wiki/concepts/sweet-transporter/) — SemiSWEETs are bacterial homologues of the SWEET family
 - [MFS Transporter Family](/xray-mp-wiki/concepts/mfs-transporter/) — MFS transporters also use a 3-helix bundle as their basic unit but with different topology

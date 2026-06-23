@@ -17,15 +17,15 @@ Rhomboid intramembrane proteases catalyze substrate cleavage through a two-stage
 
 
 ## Mechanism/Details
-The two-stage mechanism was revealed through non-competitive inhibition kinetics of peptide aldehydes on GlpG. Non-competitive inhibition requires that inhibitors can bind to the enzyme-substrate Michaelis complex, meaning the substrate does not contact the catalytic center in the initial bound state. The kinetic scheme includes: (1) E + S + I form the Michaelis complex at the peripheral gate-open site (interrogation), (2) A conformational change converts this to the catalytic complex at the inner catalytic site (scission), (3) Covalent attachment of substrate to catalytic serine forms the tetrahedral intermediate, (4) Cleavage releases the product. This mechanism allows rhomboid to discriminate substrates from non-substrates before committing to catalysis, explaining its broad sequence selectivity.
+The two-stage mechanism was revealed through non-competitive inhibition kinetics of peptide aldehydes on [GLPG](/xray-mp-wiki/proteins/enzymes/glpg/). Non-competitive inhibition requires that inhibitors can bind to the enzyme-substrate Michaelis complex, meaning the substrate does not contact the catalytic center in the initial bound state. The kinetic scheme includes: (1) E + S + I form the Michaelis complex at the peripheral gate-open site (interrogation), (2) A conformational change converts this to the catalytic complex at the inner catalytic site (scission), (3) Covalent attachment of substrate to catalytic serine forms the tetrahedral intermediate, (4) Cleavage releases the product. This mechanism allows rhomboid to discriminate substrates from non-substrates before committing to catalysis, explaining its broad sequence selectivity.
 
 
 ## Examples in Membrane Protein Work
-- GlpG (E. coli rhomboid protease): Non-competitive inhibition by Gurken peptide
+- [GLPG](/xray-mp-wiki/proteins/enzymes/glpg/) (E. coli rhomboid protease): Non-competitive inhibition by Gurken peptide
   aldehydes (Ac-VRMA-CHO, Ac-RKVRMA-CHO) revealed two substrate-bound forms
 - AarA (Providencia stuartii rhomboid): Same non-competitive inhibition pattern,
   confirming the mechanism is conserved across rhomboid proteases
-- TatA substrate: Initial binding to gate-open GlpG followed by unwinding and
+- TatA substrate: Initial binding to gate-open [GLPG](/xray-mp-wiki/proteins/enzymes/glpg/) followed by unwinding and
   extension into the catalytic center for cleavage
 
 
@@ -33,7 +33,7 @@ The two-stage mechanism was revealed through non-competitive inhibition kinetics
 
 
 ## Cross-References
-- [GlpG Rhomboid Intramembrane Protease](/xray-mp-wiki/proteins/glpg/) — Rhomboid protease with established two-stage mechanism
+- [GlpG Rhomboid Intramembrane Protease](/xray-mp-wiki/proteins/enzymes/glpg/) — Rhomboid protease with established two-stage mechanism
 - [Intramembrane Proteolysis](/xray-mp-wiki/concepts/intramembrane-proteolysis/) — Rhomboid catalyzes intramembrane cleavage
 - [Ser/Lys Catalytic Mechanism](/xray-mp-wiki/concepts/ser-lys-catalytic-mechanism/) — Rhomboid uses Ser/His catalytic dyad
 - [Non-competitive Inhibition of Rhomboid Proteases](/xray-mp-wiki/concepts/non-competitive-inhibition/) — Kinetic evidence for two-stage mechanism

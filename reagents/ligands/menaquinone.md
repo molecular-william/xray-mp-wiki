@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Menaquinone (vitamin K2) is a lipid-soluble electron carrier in the electron transport chain, found in bacterial membranes. It exists as multiple isoforms differentiated by the length of their isoprenoid side chain (e.g., MK-4, MK-7). Menaquinone serves as a ligand in crystallization studies of quinone-binding proteins and as a natural substrate for respiratory enzyme complexes. In Thermus thermophilus, MK-7 is the endogenous quinone for respiratory complexes including polysulfide reductase.
+Menaquinone (vitamin K2) is a lipid-soluble electron carrier in the electron transport chain, found in bacterial membranes. It exists as multiple isoforms differentiated by the length of their isoprenoid side chain (e.g., MK-4, [MK-7](/xray-mp-wiki/reagents/cofactors/menaquinone-7/)). Menaquinone serves as a ligand in crystallization studies of quinone-binding proteins and as a natural substrate for respiratory enzyme complexes. In Thermus thermophilus, [MK-7](/xray-mp-wiki/reagents/cofactors/menaquinone-7/) is the endogenous quinone for respiratory complexes including polysulfide reductase.
 
 
 ## Properties
@@ -36,7 +36,8 @@ No comparison data available.
 
 ## Cross-References
 
-- [Menaquinone-7 (MK-7)](/xray-mp-wiki/reagents/cofactors/menaquinone-7/) — MK-7 is the 7-isoprenoid isoform; endogenous quinone of T. thermophilus
+- [Menaquinone-7 (MK-7)](/xray-mp-wiki/reagents/ligands/menaquinone-7/) — MK-7 is the 7-isoprenoid isoform; endogenous quinone of T. thermophilus
 - [Ubiquinone (Coenzyme Q10)](/xray-mp-wiki/reagents/cofactors/ubiquinone/) — Similar quinone electron carrier with different side chain
 - [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) — Lipid-soluble pigment in photosynthetic complexes
-- [Polysulfide Reductase (PsrABC)](/xray-mp-wiki/proteins/polysulfide-reductase/) — MK-7 is the natural quinone substrate for PsrABC
+- [Polysulfide Reductase (PsrABC)](/xray-mp-wiki/proteins/enzymes/polysulfide-reductase/) — MK-7 is the natural quinone substrate for PsrABC
+- [MK-7](/xray-mp-wiki/reagents/cofactors/menaquinone-7/) — Related ligand or cofactor

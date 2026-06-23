@@ -31,7 +31,7 @@ Strychnine binds to the orthosteric site of the glycine receptor α3 homopentame
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Glycine Receptor Alpha-3 Homopentamer (GlyRα3)](/xray-mp-wiki/proteins/glycine-receptor-alpha3/) | 0.2 mM | Co-crystallization with GlyRα3 crystallization construct at ~3 mg/ml | 3.0 Å crystal structure of GlyRα3-strychnine complex; Kd = 43 nM (SPR), 52 nM (ITC) |
+| [Human Glycine Receptor Alpha-3 Homopentamer (GlyRα3)](/xray-mp-wiki/proteins/cys-loop-receptors/glycine-receptor-alpha3/) | 0.2 mM | Co-crystallization with GlyRα3 crystallization construct at ~3 mg/ml | 3.0 Å crystal structure of GlyRα3-strychnine complex; Kd = 43 nM (SPR), 52 nM (ITC) |
 
 ## Binding Mode
 
@@ -51,5 +51,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Glycine Receptor Alpha-3 Homopentamer (GlyRα3)](/xray-mp-wiki/proteins/glycine-receptor-alpha3/) — Primary target of strychnine; structure solved in complex
+- [Human Glycine Receptor Alpha-3 Homopentamer (GlyRα3)](/xray-mp-wiki/proteins/cys-loop-receptors/glycine-receptor-alpha3/) — Primary target of strychnine; structure solved in complex
 - [Cys-Loop Receptor Family](/xray-mp-wiki/concepts/cys-loop-receptor-family/) — Strychnine acts on GlyR, a member of the Cys-loop receptor family

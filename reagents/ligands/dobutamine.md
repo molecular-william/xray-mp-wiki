@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Turkey Beta1-Adrenergic Receptor Thermostabilized Mutant M23 (beta1AR-M23) | 1.3 mg/ml CHS co-crystallized | Co-crystallized with turkey beta1AR-M23 in tris-HCl pH 8.5 buffer with 25% PEG 600 precipitant and 0.55% HEGA-10 detergent, and in bicine pH 9.0 buffer with 25% PEG 600 and 0.6% HEGA-10. Two distinct crystal forms (dob92 and dob102) were obtained. CHS at 1.3 mg/ml was added from a 10 mg/ml stock in 2% HEGA-10 immediately prior to crystallization. | Two structures solved at 2.5 A (dob92) and 2.6 A (dob102) resolution, representing the active agonist-bound conformation with distinct crystal packing |
+| Turkey Beta1-Adrenergic Receptor Thermostabilized Mutant M23 (beta1AR-M23) | 1.3 mg/ml [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) co-crystallized | Co-crystallized with turkey beta1AR-M23 in [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.5 buffer with 25% [PEG 600](/xray-mp-wiki/reagents/additives/peg-600/) precipitant and 0.55% [HEGA-10](/xray-mp-wiki/reagents/detergents/hega-10/) detergent, and in bicine pH 9.0 buffer with 25% [PEG 600](/xray-mp-wiki/reagents/additives/peg-600/) and 0.6% [HEGA-10](/xray-mp-wiki/reagents/detergents/hega-10/). Two distinct crystal forms (dob92 and dob102) were obtained. [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) at 1.3 mg/ml was added from a 10 mg/ml stock in 2% [HEGA-10](/xray-mp-wiki/reagents/detergents/hega-10/) immediately prior to crystallization. | Two structures solved at 2.5 A (dob92) and 2.6 A (dob102) resolution, representing the active agonist-bound conformation with distinct crystal packing |
 
 ## Binding Mode
 
@@ -47,11 +47,13 @@ No comparison data available.
 
 ## Cross-References
 
-- [Turkey Beta1-Adrenergic Receptor M23](/xray-mp-wiki/proteins/turkey-beta1-ar-m23/) — Dobutamine is the co-crystallized agonist ligand for the beta1AR-M23 structures
-- [Turkey Beta1-Adrenergic Receptor Thermostabilized Mutant M23 with Cyanopindolol (2VT4)](/xray-mp-wiki/proteins/turkey-beta1-ar-m23-2vt4/) — Related beta1AR-M23 structure with antagonist cyanopindolol
+- [Turkey Beta1-Adrenergic Receptor M23](/xray-mp-wiki/proteins/gpcr/turkey-beta1-ar-m23/) — Dobutamine is the co-crystallized agonist ligand for the beta1AR-M23 structures
+- [Turkey Beta1-Adrenergic Receptor Thermostabilized Mutant M23 with Cyanopindolol (2VT4)](/xray-mp-wiki/proteins/gpcr/turkey-beta1-ar-m23-2vt4/) — Related beta1AR-M23 structure with antagonist cyanopindolol
 - [Carmoterol](/xray-mp-wiki/reagents/ligands/carmoterol/) — Related beta-adrenergic agonist ligand with extended pocket interaction
 - [Isoprenaline](/xray-mp-wiki/reagents/ligands/isoprenaline/) — Related beta-adrenergic agonist ligand
 - [Salbutamol](/xray-mp-wiki/reagents/ligands/salbutamol/) — Related beta-adrenergic agonist ligand
 - [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) — Antagonist ligand for beta1AR used in related structure determination
 - [Cholesterol Hydrogen Succinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Lipid additive used in crystallization of beta1AR-M23 with dobutamine
 - [Biased Agonism in G Protein-Coupled Receptors](/xray-mp-wiki/concepts/biased-agonism/) — Dobutamine is a partial agonist, illustrating ligand-specific efficacy differences
+- [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Additive used in purification or crystallization buffers
+- [PEG 600](/xray-mp-wiki/reagents/additives/peg-600/) — Additive used in purification or crystallization buffers

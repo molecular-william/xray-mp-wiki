@@ -1,12 +1,12 @@
 ---
 title: HRV 3C Protease
-created: 2026-06-03
-updated: 2026-06-03
+created: 2026-06-08
+updated: 2026-06-08
 type: reagent
 category: reagents
 layout: default
 tags: [subdirectory-additives]
-sources: [doi/10.1038##nature17188]
+sources: [doi/10.1038##nature17188, doi/10.1073##pnas.1120087109, doi/10.1073##pnas.1120113109]
 verified: false
 ---
 
@@ -29,7 +29,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Human M4 Muscarinic Acetylcholine Receptor | 2% (w/w) relative to receptor protein | Cleavage of N-terminus during concentration prior to size exclusion chromatography; ~2 hr at 4 degrees Celsius | Removal of first 21 residues of M4 receptor N-terminus improved diffraction quality |
+| [Human M4 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m4-muscarinic-acetylcholine-receptor/) | 2% (w/w) relative to receptor protein | Cleavage of N-terminus during concentration prior to [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/); ~2 hr at 4 degrees Celsius | Removal of first 21 residues of M4 receptor N-terminus improved diffraction quality |
 
 ## Advantages and Disadvantages
 
@@ -41,5 +41,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human M4 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/m4-muscarinic-acetylcholine-receptor/) — HRV 3C protease used to cleave N-terminus of M4 receptor construct
+- [Human M4 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m4-muscarinic-acetylcholine-receptor/) — HRV 3C protease used to cleave N-terminus of M4 receptor construct
 - [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/protein-tags/tevp-protease/) — Related site-specific protease used for tag cleavage in protein purification
+- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification

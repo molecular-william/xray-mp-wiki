@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/beta2-adrenergic-receptor/) | 50 uM (purification), 1 mM (crystallization) | Cmpd-15PA was used in complex with carazolol in the M1-Flag affinity column purification step, and at 1 mM in the crystallization precipitant solution. The ligand was exchanged from alprenolol to carazolol and Cmpd-15PA during the second M1-Flag column step after detergent exchange to 0.01% MNG.
+| [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) | 50 uM (purification), 1 mM (crystallization) | Cmpd-15PA was used in complex with carazolol in the M1-Flag affinity column purification step, and at 1 mM in the crystallization precipitant solution. The ligand was exchanged from alprenolol to carazolol and Cmpd-15PA during the second M1-Flag column step after detergent exchange to 0.01% MNG.
  | Crystal structure of beta2 AR-T4L bound to carazolol and Cmpd-15PA at 2.7 A resolution (PDB: 5X7D), revealing the intracellular allosteric binding pocket.
  |
 
@@ -49,7 +49,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/beta2-adrenergic-receptor/) — Primary target of Cmpd-15PA negative allosteric modulation
+- [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Primary target of Cmpd-15PA negative allosteric modulation
 - [Cmpd-15 (Compound-15)](/xray-mp-wiki/reagents/ligands/compound-15/) — Parent compound of Cmpd-15PA
 - [Carazolol](/xray-mp-wiki/reagents/ligands/carazolol/) — Orthosteric inverse agonist co-crystallized with Cmpd-15PA
 - [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/allosteric-regulation/) — Cmpd-15PA is a negative allosteric modulator binding to an intracellular pocket

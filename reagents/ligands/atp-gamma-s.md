@@ -28,14 +28,14 @@ ATPγS (adenosine 5'-O-(3-thiotriphosphate)) is a non-hydrolyzable ATP analog in
 
 ### Structural trapping of ATP-bound protein conformations
 
-ATPγS was used to crystallize the isolated TrkA tetramer from Klebsiella pneumoniae at 3.05 A resolution. The non-hydrolyzable nature of ATPγS allowed visualization of eight ATPγS binding sites across the tetramer, revealing two binding sites per protomer. Likelihood-weighted Fo-Fc maps calculated without ATPγS confirmed the binding sites at 3 sigma contour level.
+ATPγS was used to crystallize the isolated [TRKA](/xray-mp-wiki/proteins/pumps-atpases/trka/) tetramer from Klebsiella pneumoniae at 3.05 A resolution. The non-hydrolyzable nature of ATPγS allowed visualization of eight ATPγS binding sites across the tetramer, revealing two binding sites per protomer. Likelihood-weighted Fo-Fc maps calculated without ATPγS confirmed the binding sites at 3 sigma contour level.
 
 
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| TrkA (ATP-binding Regulatory Subunit from Klebsiella pneumoniae) | Not specified | Crystallization of isolated TrkA tetramer | 3.05 A structure with eight ATPγS binding sites identified across the tetramer (two per protomer); P6122 space group |
+| [TRKA](/xray-mp-wiki/proteins/pumps-atpases/trka/) (ATP-binding Regulatory Subunit from Klebsiella pneumoniae) | Not specified | Crystallization of isolated [TRKA](/xray-mp-wiki/proteins/pumps-atpases/trka/) tetramer | 3.05 A structure with eight ATPγS binding sites identified across the tetramer (two per protomer); P6122 space group |
 
 ## Advantages and Disadvantages
 
@@ -47,7 +47,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [TrkA (ATP-binding Regulatory Subunit from Klebsiella pneumoniae)](/xray-mp-wiki/proteins/trka/) — ATPγS was used to crystallize the isolated TrkA tetramer, revealing eight binding sites across the tetramer
-- [TrkH (Potassium Channel from Klebsiella pneumoniae)](/xray-mp-wiki/proteins/trkh/) — ATPγS-bound TrkA structure provides structural basis for understanding ATP recognition in the TrkH-TrkA complex
+- [TrkA (ATP-binding Regulatory Subunit from Klebsiella pneumoniae)](/xray-mp-wiki/proteins/pumps-atpases/trka/) — ATPγS was used to crystallize the isolated TrkA tetramer, revealing eight binding sites across the tetramer
+- [TrkH (Potassium Channel from Klebsiella pneumoniae)](/xray-mp-wiki/proteins/pumps-atpases/trkh/) — ATPγS-bound TrkA structure provides structural basis for understanding ATP recognition in the TrkH-TrkA complex
 - [Adenosine Triphosphate (ATP)](/xray-mp-wiki/reagents/ligands/atp/) — ATPγS is a non-hydrolyzable analog of ATP, used to trap ATP-bound conformations in structural studies
 - [Adenosine Diphosphate (ADP)](/xray-mp-wiki/reagents/ligands/adp/) — ADP is the hydrolysis product of ATP; ATPγS mimics the triphosphate state

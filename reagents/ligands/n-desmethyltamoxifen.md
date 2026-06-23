@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [NavMs Sodium Channel](/xray-mp-wiki/proteins/navms/) | IC50 = 1.1 uM | Whole-cell voltage-clamp electrophysiology in HEK293 cells; PDB 6SXG structure | Inhibition of sodium current; delay in recovery from inactivated state |
+| [NavMs Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/navms/) | IC50 = 1.1 uM | Whole-cell voltage-clamp electrophysiology in HEK293 cells; PDB 6SXG structure | Inhibition of sodium current; delay in recovery from inactivated state |
 | Human Na_v1.2 | IC50 = 3.2 uM | Whole-cell voltage-clamp electrophysiology in HEK293 cells | Inhibition of sodium current with similar mechanism to NavMs |
 
 ## Binding Mode
@@ -54,4 +54,4 @@ No comparison data available.
 - [E-4-Hydroxytamoxifen](/xray-mp-wiki/reagents/ligands/e-4-hydroxytamoxifen/) — Isomer of 4-hydroxytamoxifen; IC50 data reported for NavMs
 - [Z-Endoxifen](/xray-mp-wiki/reagents/ligands/z-endoxifen/) — Stereoisomer of endoxifen; IC50 = 2.3 uM against NavMs
 - [E-Endoxifen](/xray-mp-wiki/reagents/ligands/e-endoxifen/) — Stereoisomer of endoxifen; IC50 = 4.2 uM against NavMs
-- [NavAb Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/navab/) — Another prokaryotic sodium channel for comparative pharmacology
+- [NavAb Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) — Another prokaryotic sodium channel for comparative pharmacology

@@ -6,7 +6,7 @@ type: method
 category: methods
 layout: default
 tags: [crystallization-hanging-drop, crystallization-vapor-diffusion, subdirectory-crystallization]
-sources: [doi/10.1016##j.jmb.2007.11.080, doi/10.1016##j.jmb.2018.02.026, doi/10.1038##nature13306, doi/10.1038##nsmb.3029]
+sources: [doi/10.1016##j.jmb.2007.04.082, doi/10.1074##jbc.M114.622688, doi/10.1016##j.jmb.2007.11.080, doi/10.1016##j.jmb.2018.02.026, doi/10.1038##nature13306, doi/10.1038##nsmb.3029, doi/10.1073##pnas.1120087109, doi/10.1073##pnas.1120113109, doi/10.15252##embj.201489367, doi/10.15252##embj.2020105164, doi/10.1128##jb.00684-06, doi/10.1093##jb##mvs051, doi/10.1107##s2053230x1600279x, doi/10.1107##s2059798318012561]
 verified: false
 ---
 

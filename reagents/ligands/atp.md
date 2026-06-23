@@ -1,12 +1,12 @@
 ---
 title: Adenosine Triphosphate (ATP)
-created: 2026-06-02
-updated: 2026-06-02
+created: 2026-06-16
+updated: 2026-06-16
 type: reagent
 category: reagents
 layout: default
-tags: [ligand, subdirectory-ligands]
-sources: [doi/10.1038##nature06264]
+tags: [additive-ligand, subdirectory-ligands]
+sources: [doi/10.1016##j.celrep.2015.12.087, doi/10.1016##j.str.2016.02.018]
 verified: false
 ---
 
@@ -14,24 +14,31 @@ verified: false
 
 ## Overview
 
-Adenosine triphosphate (ATP) is the universal energy currency of the cell and the nucleotide substrate hydrolyzed by ATP-binding cassette (ABC) transporters to power substrate translocation across membranes. In the E. coli maltose transporter, two ATP molecules bind at the interface of the MalK dimer, engaging Walker A and B motifs from one monomer and the LSGGQ signature motif of the opposite monomer. ATP binding induces closure of the NBD dimer, which drives the conformational changes necessary for substrate translocation.
-
+Adenosine triphosphate (ATP) is the primary energy currency of cells and also serves as an extracellular signaling molecule. In P2X receptors, ATP acts as the orthosteric agonist, binding at each subunit interface of the trimeric extracellular domain and inducing conformational changes that open the transmembrane pore. In P-type ATPases such as SERCA, ATP serves as both the energy source for ion transport via phosphorylation and as a modulatory ligand that stimulates dephosphorylation of the E2P intermediate.
 
 ## Properties
 
-- **Chemical name**: adenosine-5'-triphosphate
-- **Class**: nucleotide triphosphate
 
 ## Use in Membrane Protein Work
 
-No specific use cases documented.
+### Agonist of AmP2X (invertebrate P2X receptor)
+
+ATP binds to the AmP2X receptor at each subunit interface. The phosphate groups are recognized by Lys66, Lys68, and Lys210 from one subunit and Asn311, Arg313, and Lys327 from the neighboring subunit. The adenine ring forms hydrogen bonds with Thr206 and main chain carbonyl atoms of Lys66 and Thr206. ATP adopts a bent conformation upon binding.
+
+
+### Mg²⁺-ATP complex at the M2 metal binding site
+
+ATP participates in the M2 metal binding site, where the γ-phosphate group coordinates a divalent cation (Zn²⁺ in the crystal structure, Mg²⁺ under physiological conditions) along with Asp188 of the receptor. This coordination is reminiscent of the MgATP²⁻ complex and is important for Mg²⁺ regulation of fast-desensitizing P2X1 and P2X3 receptors.
+
+
+### Nucleotide affinity in SERCA E2P-like conformations
+
+ATP binds to SERCA1a with KD values of 411 nM in the E2·VO₃⁻ (dephosphorylation transition state analog) and 2,695 nM in the E2·BeF₃⁻ (E2P ground state analog). TNP-derivatized nucleotides exhibit 100-1000 fold higher affinity (TNP-ATP KD 2.1 nM in E2·VO₃⁻). The higher affinity in the transition state reflects structural differences in the nucleotide-binding pocket revealed by crystal structures (PDB 5A3Q, 5A3S).
+
+
 ## Examples from This Wiki
 
-| Protein | Concentration | Context | Result |
-|---|---|---|---|
-| [MalK (Escherichia coli Maltose Transporter ATPase Subunit)](/xray-mp-wiki/proteins/malK/) | not specified | Two ATP molecules bound at the MalK dimer interface in the catalytic intermediate structure. ATP contacts Walker A and B motifs from one monomer and the LSGGQ motif of the opposite monomer. The E159Q mutation in MalK prevents ATP hydrolysis, trapping the transporter in the ATP-bound closed conformation.
- | ATP-bound closed MalK dimer; substrate translocated from MBP to TM cavity |
-
+No examples from this wiki.
 ## Advantages and Disadvantages
 
 No advantages/disadvantages recorded.
@@ -41,9 +48,3 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
-
-- [MalK (Escherichia coli Maltose Transporter ATPase Subunit)](/xray-mp-wiki/proteins/malK/) — ATP binding site on MalK dimer interface
-- [MalF (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/malF/) — ATP hydrolysis by MalK drives conformational changes transmitted to MalF
-- [MalG (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/malG/) — ATP hydrolysis by MalK drives conformational changes transmitted to MalG
-- [Maltose](/xray-mp-wiki/reagents/additives/maltose/) — Substrate transported using ATP energy
-- [AMP-PNP (Adenylyl-Imidodiphosphate)](/xray-mp-wiki/reagents/ligands/amp-pnp/) — Non-hydrolyzable ATP analogue used in ABC transporter studies

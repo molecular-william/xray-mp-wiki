@@ -20,13 +20,14 @@ A virtual proton pump is a transport mechanism in which the free energy of subst
 
 
 ## Examples in Membrane Protein Work
+- [AdiC Arginine/Agmatine Antiporter](/xray-mp-wiki/proteins/slc-transporters/adic/) — AdiC is the prototypical virtual proton pump, whose crystal structure revealed the molecular basis for substrate specificity and the aromatic box mechanism for binding the deprotonated-carboxylate form of arginine at pH below 2.
 
 
 ## Related Concepts
 
 
 ## Cross-References
-- [AdiC Arginine/Agmatine Antiporter](/xray-mp-wiki/proteins/adic/) — Prototypical virtual proton pump; first crystal structure
+- [AdiC Arginine/Agmatine Antiporter](/xray-mp-wiki/proteins/slc-transporters/adic/) — Prototypical virtual proton pump; first crystal structure
 - [APC Superfamily](/xray-mp-wiki/concepts/apc-superfamily/) — AdiC belongs to the APC superfamily of transporters
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Virtual proton pumping relies on alternating access transport cycle
-- [L-Arginine](/xray-mp-wiki/reagents/substrates/l-arginine/) — Substrate of virtual proton pump AdiC; decarboxylation drives proton extrusion
+- [L-Arginine](/xray-mp-wiki/reagents/ligands/l-arginine/) — Substrate of virtual proton pump AdiC; decarboxylation drives proton extrusion

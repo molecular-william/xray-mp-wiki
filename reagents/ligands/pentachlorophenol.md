@@ -1,7 +1,7 @@
 ---
 title: Pentachlorophenol (PCP)
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Pentachlorophenol (PCP) is a chlorinated phenolic compound that functions as a quinone analog and inhibitor of quinone-binding proteins. In structural studies of polysulfide reductase (PsrABC) from Thermus thermophilus, PCP was used in cocrystallization experiments to characterize the quinone binding pocket. It binds in the same site as menaquinone-7 and serves as a structural probe for quinone coordination, with its hydroxyl group mimicking the quinone O1 carbonyl.
+Pentachlorophenol (PCP) is a chlorinated phenolic compound that functions as a quinone analog and inhibitor of quinone-binding proteins. In structural studies of [Polysulfide Reductase (PsrABC) from Thermus thermophilus](/xray-mp-wiki/proteins/enzymes/polysulfide-reductase/), PCP was used in cocrystallization experiments to characterize the quinone binding pocket. It binds in the same site as [MK-7](/xray-mp-wiki/reagents/cofactors/menaquinone-7/) and serves as a structural probe for quinone coordination, with its hydroxyl group mimicking the quinone O1 carbonyl.
 
 
 ## Properties
@@ -38,4 +38,5 @@ No comparison data available.
 
 - [Menaquinone](/xray-mp-wiki/reagents/ligands/menaquinone/) — Natural quinone substrate; PCP mimics quinone binding
 - [Ubiquinone (Coenzyme Q10)](/xray-mp-wiki/reagents/cofactors/ubiquinone/) — Related quinone electron carrier
-- [Polysulfide Reductase (PsrABC)](/xray-mp-wiki/proteins/polysulfide-reductase/) — PCP used as crystallization inhibitor to map quinone binding site
+- [Polysulfide Reductase (PsrABC)](/xray-mp-wiki/proteins/enzymes/polysulfide-reductase/) — PCP used as crystallization inhibitor to map quinone binding site
+- [MK-7](/xray-mp-wiki/reagents/cofactors/menaquinone-7/) — Related ligand or cofactor

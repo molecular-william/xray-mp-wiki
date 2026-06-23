@@ -21,8 +21,8 @@ BATs operate via the alternating-access mechanism, cycling between outward-facin
 
 
 ## Examples in Membrane Protein Work
-- [Drosophila melanogaster Dopamine Transporter](/xray-mp-wiki/proteins/d-dat/) — dDAT serves as the primary catecholamine reuptake mechanism in Drosophila (which lacks a dedicated NET). X-ray structures of dDAT with nisoxetine and reboxetine at 3.0 Å revealed the outward-open conformation with inhibitors lodged in the S1 binding site, providing structural basis for NET-selective antidepressant design.
-- [Drosophila melanogaster Dopamine Transporter (nortriptyline-bound)](/xray-mp-wiki/proteins/d-dopamine-transporter/) — Earlier structure of dDAT with nortriptyline (PDB 4M48) first demonstrated that TCAs compete for the S1 substrate-binding site and lock the transporter in an outward-open state, establishing the molecular basis of TCA inhibition.
+- [Drosophila melanogaster Dopamine Transporter](/xray-mp-wiki/proteins/slc-transporters/d-dat/) — dDAT serves as the primary catecholamine reuptake mechanism in Drosophila (which lacks a dedicated NET). X-ray structures of dDAT with nisoxetine and reboxetine at 3.0 Å revealed the outward-open conformation with inhibitors lodged in the S1 binding site, providing structural basis for NET-selective antidepressant design.
+- [Drosophila melanogaster Dopamine Transporter (nortriptyline-bound)](/xray-mp-wiki/proteins/slc-transporters/d-dopamine-transporter/) — Earlier structure of dDAT with nortriptyline (PDB 4M48) first demonstrated that TCAs compete for the S1 substrate-binding site and lock the transporter in an outward-open state, establishing the molecular basis of TCA inhibition.
 
 ## Related Concepts
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — BATs cycle between outward-facing and inward-facing conformations via alternating access

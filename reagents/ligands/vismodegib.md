@@ -36,8 +36,8 @@ Vismodegib-bound SMO structures (PDB: 5L7I) have been used as references for com
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Smoothened Receptor (SMO)](/xray-mp-wiki/proteins/smoothened/) | not specified | Crystal structure determination (PDB 5L7I) | Antagonist-bound SMO structure for comparative analysis |
-| [Human Smoothened Receptor (SMO)](/xray-mp-wiki/proteins/smoothened/) | 5 uM | HEK293F cell expression and purification | Stabilized SMO during expression and purification |
+| [Human Smoothened Receptor (SMO)](/xray-mp-wiki/proteins/gpcr/smoothened/) | not specified | Crystal structure determination (PDB 5L7I) | Antagonist-bound SMO structure for comparative analysis |
+| [Human Smoothened Receptor (SMO)](/xray-mp-wiki/proteins/gpcr/smoothened/) | 5 uM | HEK293F cell expression and purification | Stabilized SMO during expression and purification |
 
 ## Advantages and Disadvantages
 
@@ -49,6 +49,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Smoothened Receptor (SMO)](/xray-mp-wiki/proteins/smoothened/) — Primary target protein; SMO antagonist with FDA approval
+- [Human Smoothened Receptor (SMO)](/xray-mp-wiki/proteins/gpcr/smoothened/) — Primary target protein; SMO antagonist with FDA approval
 - [LY2940680](/xray-mp-wiki/reagents/ligands/ly2940680/) — Another SMO antagonist used in structural studies of SMO
 - [TC114](/xray-mp-wiki/reagents/ligands/tc114/) — LY2940680-derived SMO ligand designed for multi-domain SMO stabilization

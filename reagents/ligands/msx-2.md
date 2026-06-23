@@ -1,12 +1,13 @@
 ---
 title: MSX-2
-created: 2026-05-05
-updated: 2026-05-05
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
-tags: []
+tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1002##anie.202115545]
+verified: false
 ---
 
 # MSX-2
@@ -22,8 +23,6 @@ MSX-2 is a xanthine-based radioligand used for binding assays at adenosine recep
 - **Chemical formula**: C25H35N5O3
 - **Molecular weight**: 457.57 g/mol
 - **Class**: xanthine
-- **Kd/Ki**: 0.8 nM at A2AAR
-- **Clinical status**: Research radioligand
 
 ## Use in Membrane Protein Work
 
@@ -36,7 +35,7 @@ MSX-2 is a xanthine-based radioligand used for binding assays at adenosine recep
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [A2A-PSB1-bRIL](/xray-mp-wiki/proteins/a2a-psb1-bril/) | not specified | [3H]MSX-2 radioligand for competitive binding assays | Used to measure antagonist Ki values |
+| [A2A-PSB1-bRIL](/xray-mp-wiki/proteins/gpcr/a2a-psb1-bril/) | not specified | [3H]MSX-2 radioligand for competitive binding assays | Used to measure antagonist Ki values |
 
 ## Advantages and Disadvantages
 
@@ -48,5 +47,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [A2A-PSB1-bRIL Adenosine A2A Receptor](/xray-mp-wiki/proteins/a2a-psb1-bril/) — Radioligand for binding assays
+- [A2A-PSB1-bRIL Adenosine A2A Receptor](/xray-mp-wiki/proteins/gpcr/a2a-psb1-bril/) — Radioligand for binding assays
 - [ZM241385](/xray-mp-wiki/reagents/ligands/zm241385/) — Related xanthine A2AAR antagonist

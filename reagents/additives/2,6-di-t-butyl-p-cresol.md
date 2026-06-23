@@ -40,4 +40,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [Na+,K+-ATPase from Squalus acanthias](/xray-mp-wiki/proteins/na-k-atpase-shark/) — 2.6 μg/ml in crystallization buffer to stabilize protein during 1-2 month crystallization
+- [Na+,K+-ATPase from Squalus acanthias](/xray-mp-wiki/proteins/pumps-atpases/na-k-atpase-shark/) — 2.6 μg/ml in crystallization buffer to stabilize protein during 1-2 month crystallization

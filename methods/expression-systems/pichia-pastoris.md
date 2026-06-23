@@ -67,7 +67,7 @@ The AOX1 promoter is one of the most powerful inducible promoters known, capable
 
 | Protein | Resolution | PDB | Notes |
 |---|---|---|---|
-| [NtMATE2](/xray-mp-wiki/proteins/ntmate2/) | 3.5 A | 7DQK | C-terminal GFP-His8 tagged; induced with 0.5% methanol at 20°C for 72 h in SMD1168 strain |
+| [NtMATE2](/xray-mp-wiki/proteins/abc-transporters/ntmate2/) | 3.5 A | 7DQK | C-terminal GFP-His8 tagged; induced with 0.5% methanol at 20°C for 72 h in SMD1168 strain |
 
 ## Related Methods
 

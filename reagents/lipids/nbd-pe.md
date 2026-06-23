@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-NBD-phosphatidylethanolamine (NBD-PE) is a fluorescent lipid probe consisting of a phosphatidylethanolamine (PE) lipid backbone with a nitrobenzoxadiazole (NBD) fluorophore attached to the ethanolamine head group. The NBD group has an excitation maximum of 470 nm and emission maximum of 530 nm. NBD-PE is widely used as a fluorescent marker to monitor phospholipid translocation (scrambling) between the inner and outer leaflets of lipid bilayers. In lipid scrambling assays, NBD-PE is incorporated into liposomes and its redistribution is monitored by the selective quenching of outer-leaflet NBD-PE by membrane-impermeable dithionite.
+NBD-[Phosphatidylethanolamine](/xray-mp-wiki/reagents/lipids/phosphatidylethanolamine/) (NBD-PE) is a fluorescent lipid probe consisting of a [Phosphatidylethanolamine](/xray-mp-wiki/reagents/lipids/phosphatidylethanolamine/) (PE) lipid backbone with a nitrobenzoxadiazole (NBD) fluorophore attached to the ethanolamine head group. The NBD group has an excitation maximum of 470 nm and emission maximum of 530 nm. NBD-PE is widely used as a fluorescent marker to monitor phospholipid translocation (scrambling) between the inner and outer leaflets of lipid bilayers. In lipid scrambling assays, NBD-PE is incorporated into liposomes and its redistribution is monitored by the selective quenching of outer-leaflet NBD-PE by membrane-impermeable dithionite.
 
 
 ## Properties
@@ -40,3 +40,5 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [Phosphatidylethanolamine](/xray-mp-wiki/reagents/lipids/phosphatidylethanolamine/) — Additive used in purification or crystallization buffers

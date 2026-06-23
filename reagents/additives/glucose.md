@@ -1,7 +1,7 @@
 ---
 title: Glucose
-created: 2026-06-02
-updated: 2026-06-02
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -30,9 +30,9 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Opsin (Retinal-Free Rhodopsin)](/xray-mp-wiki/proteins/opsin/) | 200 mM | 200 mM glucose tested for reconstitution inhibition of rhodopsin from opsin with 11-cis-retinal. No inhibitory effect observed, confirming that sugar headgroups alone cannot occupy the retinal-binding pocket.
+| [Opsin (Retinal-Free Rhodopsin)](/xray-mp-wiki/proteins/gpcr/opsin/) | 200 mM | 200 mM glucose tested for reconstitution inhibition of rhodopsin from opsin with 11-cis-retinal. No inhibitory effect observed, confirming that sugar headgroups alone cannot occupy the retinal-binding pocket.
  | No inhibition; confirms hydrophobic moiety required for pocket entry |
-| [XylE (Escherichia coli Sugar Transporter)](/xray-mp-wiki/proteins/xyle/) | 40 mM (crystallization), Kd 0.77 mM (ITC) | D-glucose used at 40 mM for crystallization of XylE-D-glucose complex at 2.9 A resolution. Isothermal titration calorimetry measured binding affinity with Kd of 0.77 +/- 0.01 mM. D-glucose inhibits D-xylose transport by nearly 90% but is not itself a transport substrate for XylE.
+| [XylE (Escherichia coli Sugar Transporter)](/xray-mp-wiki/proteins/mfs-transporters/xyle/) | 40 mM (crystallization), Kd 0.77 mM (ITC) | D-glucose used at 40 mM for crystallization of XylE-D-glucose complex at 2.9 A resolution. Isothermal titration calorimetry measured binding affinity with Kd of 0.77 +/- 0.01 mM. D-glucose inhibits D-xylose transport by nearly 90% but is not itself a transport substrate for XylE.
  | Competitive inhibitor of D-xylose transport; binds similarly to D-xylose |
 
 ## Advantages and Disadvantages

@@ -31,7 +31,7 @@ Stearoyl-CoA is the primary substrate for SCD1, which catalyzes the delta-9 desa
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Stearoyl-CoA Desaturase-1 (hSCD1)](/xray-mp-wiki/proteins/stearoyl-coa-desaturase-1/) | stoichiometric (bound during expression) | Stearoyl-CoA was incorporated into hSCD1 during Sf9 insect cell expression and remained bound throughout Ni-NTA affinity chromatography, TEV protease cleavage, and SEC purification on Superdex 200. The substrate was observed in the crystal structure at 3.25 A resolution. | First substrate-bound structure of a membrane di-iron desaturase, revealing the CoA-binding site and hydrophobic tunnel architecture |
+| [Stearoyl-CoA Desaturase-1 (hSCD1)](/xray-mp-wiki/proteins/enzymes/stearoyl-coa-desaturase-1/) | stoichiometric (bound during expression) | Stearoyl-CoA was incorporated into hSCD1 during Sf9 insect cell expression and remained bound throughout Ni-NTA affinity chromatography, TEV protease cleavage, and SEC purification on Superdex 200. The substrate was observed in the crystal structure at 3.25 A resolution. | First substrate-bound structure of a membrane di-iron desaturase, revealing the CoA-binding site and hydrophobic tunnel architecture |
 
 ## Advantages and Disadvantages
 

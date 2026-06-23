@@ -33,7 +33,7 @@ Anta XV was used to crystallize human SMO (PDB: 4QIM, 2.6 A, P212121). The ligan
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Smoothened Receptor](/xray-mp-wiki/proteins/smoothened/) | not specified | Co-crystallized with BRIL-deltaCRD-SMO-deltaC construct from Sf9 cells; structure solved at 2.6 A resolution (PDB 4QIM) | D473(6.54f) interaction revealed; helix VI inward shift observed; distinct ECL3 conformation |
+| [Human Smoothened Receptor](/xray-mp-wiki/proteins/gpcr/smoothened/) | not specified | Co-crystallized with BRIL-deltaCRD-SMO-deltaC construct from Sf9 cells; structure solved at 2.6 A resolution (PDB 4QIM) | D473(6.54f) interaction revealed; helix VI inward shift observed; distinct ECL3 conformation |
 
 ## Advantages and Disadvantages
 

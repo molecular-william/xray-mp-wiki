@@ -22,7 +22,8 @@ Self-processing refers to the phenomenon where a membrane protein cleaves its ow
 
 
 ## Related Concepts
-
+- [](/xray-mp-wiki/concepts/allosteric-regulation/) — 
+- [](/xray-mp-wiki/concepts/oligomeric-assembly/) — 
 
 ## Cross-References
-- [Signal Peptide Peptidase A from Bacillus subtilis (SppA_BS)](/xray-mp-wiki/proteins/sppa-bs/) — Primary example of self-processing; C-terminal peptides bound in all eight active sites of the octamer
+- [Signal Peptide Peptidase A from Bacillus subtilis (SppA_BS)](/xray-mp-wiki/proteins/enzymes/sppa-bs/) — Primary example of self-processing; C-terminal peptides bound in all eight active sites of the octamer

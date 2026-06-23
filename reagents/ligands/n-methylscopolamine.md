@@ -1,7 +1,7 @@
 ---
 title: N-methylscopolamine (NMS)
-created: 2026-05-28
-updated: 2026-05-28
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-N-methylscopolamine (NMS) is a quaternary ammonium derivative of scopolamine that acts as a non-selective muscarinic receptor antagonist. The quaternary ammonium group prevents blood-brain barrier penetration, making NMS useful for peripheral anticholinergic effects without central nervous system side effects. In structural studies, NMS was co-crystallized with the M3 muscarinic receptor-mT4L fusion construct, revealing a binding mode nearly identical to that of tiotropium in the orthosteric pocket.
+N-methylscopolamine (NMS) is a quaternary ammonium derivative of [Scopolamine](/xray-mp-wiki/reagents/ligands/scopolamine/) that acts as a non-selective muscarinic receptor antagonist. The quaternary ammonium group prevents blood-brain barrier penetration, making NMS useful for peripheral anticholinergic effects without central nervous system side effects. In structural studies, NMS was co-crystallized with the M3 muscarinic receptor-mT4L fusion construct, revealing a binding mode nearly identical to that of [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/) in the orthosteric pocket.
 
 
 ## Properties
@@ -29,11 +29,11 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| M3 Muscarinic Acetylcholine Receptor | 10 uM (in lysis buffer), co-crystallized | Co-crystallized with M3-mT4L in LCP; 100 mM Tris pH 7.5, 44% PEG 300, 400 mM ammonium tartrate | PDB 4U16, 3.7 A resolution, space group C2 |
+| [M3 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m3-muscarinic-acetylcholine-receptor/) | 10 uM (in lysis buffer), co-crystallized | Co-crystallized with M3-mT4L in LCP; 100 mM Tris pH 7.5, 44% [PEG](/xray-mp-wiki/reagents/additives/peg/) 300, 400 mM [Ammonium Tartrate](/xray-mp-wiki/reagents/additives/ammonium-tartrate/) | PDB 4U16, 3.7 A resolution, space group C2 |
 
 ## Binding Mode
 
-### Binding to Muscarinic acetylcholine receptors (M1, M2, M3, M4, M5)
+### Binding to Muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/) receptors (M1, M2, M3, M4, M5)
 
 
 ## Advantages and Disadvantages
@@ -46,6 +46,9 @@ No comparison data available.
 
 ## Cross-References
 
-- [M3 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/m3-muscarinic-acetylcholine-receptor/) — Primary co-crystallized protein target, PDB 4U16
+- [M3 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m3-muscarinic-acetylcholine-receptor/) — Primary co-crystallized protein target, PDB 4U16
 - [Scopolamine](/xray-mp-wiki/reagents/ligands/scopolamine/) — Parent compound of NMS
 - [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/) — Related muscarinic antagonist co-crystallized in same study
+- [Ammonium Tartrate](/xray-mp-wiki/reagents/additives/ammonium-tartrate/) — Additive used in purification or crystallization buffers
+- [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers
+- [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/) — Related ligand or cofactor

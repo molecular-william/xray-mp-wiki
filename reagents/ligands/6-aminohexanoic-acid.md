@@ -1,7 +1,7 @@
 ---
 title: 6-Aminohexanoic Acid (6-AHA)
-created: 2026-05-28
-updated: 2026-05-28
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -37,7 +37,7 @@ filtration, providing a quantitative readout of transporter function.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [E. coli YbgH](/xray-mp-wiki/proteins/ybgH/) | 7.2 uM (4 nCi/uCi) | 14C-6-AHA uptake assay to verify YbgH transport activity | WT YbgH showed significant uptake compared to empty vector control; E21Q/A and Y22A mutants lost activity confirming Glu21 importance |
+| [E. coli YbgH](/xray-mp-wiki/proteins/mfs-transporters/ybgH/) | 7.2 uM (4 nCi/uCi) | 14C-6-AHA uptake assay to verify YbgH transport activity | WT YbgH showed significant uptake compared to empty vector control; E21Q/A and Y22A mutants lost activity confirming Glu21 importance |
 
 ## Advantages and Disadvantages
 

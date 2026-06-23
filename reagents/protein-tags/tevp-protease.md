@@ -1,6 +1,6 @@
 ---
 title: TEV Protease (Tobacco Etch Virus Protease)
-created: 2026-06-08
+created: 2020-08-17
 updated: 2026-06-08
 type: reagent
 category: reagents
@@ -43,7 +43,7 @@ TEV protease generates proteins with native N-termini, important for structural 
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Tlg2](/xray-mp-wiki/proteins/tlg2/) | not specified | TEV protease cleaved His7-MBP tags from C. thermophilum Tlg2 constructs including MBP-Tlg2(1-327), MBP-Tlg2(258-327), and other SNARE motifs after Ni-affinity chromatography
+| [Tlg2](/xray-mp-wiki/proteins/structural-adhesion/tlg2/) | not specified | TEV protease cleaved His7-MBP tags from C. thermophilum Tlg2 constructs including MBP-Tlg2(1-327), MBP-Tlg2(258-327), and other SNARE motifs after Ni-affinity chromatography
  | Tags removed overnight at 4C; cleaved tags retained on His60 Ni Superflow resin |
 | MBP-Snc2, MBP-Tlg1, MBP-Vti1 | not specified | TEV protease used to cleave MBP tags from C. thermophilum SNARE motifs (Snc2 R-SNARE, Tlg1 Qc-SNARE, Vti1 Qb-SNARE) for oligomerization assays
  | Released SNARE motifs used in size-exclusion chromatography |
@@ -61,4 +61,4 @@ No comparison data available.
 ## Cross-References
 
 - [BRIL Fusion Protein](/xray-mp-wiki/reagents/protein-tags/bril/) — Related protein tag system using cleavable linkers
-- [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/at1r/) — His-tagged TEV protease used to cleave FLAG/His tags from BRIL-AT1R
+- [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/) — His-tagged TEV protease used to cleave FLAG/His tags from BRIL-AT1R

@@ -1,7 +1,7 @@
 ---
 title: Fab 9D5
-created: 2026-06-08
-updated: 2026-06-08
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -30,7 +30,7 @@ Used to complex with membrane proteins to promote crystal growth and provide add
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [dDAT](/xray-mp-wiki/proteins/d-dat/) | 1.2 molar ratio (Fab:protein) | Complexed with dDAT before crystallization | Successful growth of diffraction-quality crystals at 3.0 A |
+| [dDAT](/xray-mp-wiki/proteins/slc-transporters/d-dat/) | 1.2 molar ratio (Fab:protein) | Complexed with dDAT before crystallization | Successful growth of diffraction-quality crystals at 3.0 A |
 
 ## Advantages and Disadvantages
 
@@ -51,4 +51,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [Drosophila Melanogaster Dopamine Transporter](/xray-mp-wiki/proteins/d-dat/) — Used as crystallization aid for dDAT structure determination
+- [Drosophila Melanogaster Dopamine Transporter](/xray-mp-wiki/proteins/slc-transporters/d-dat/) — Used as crystallization aid for dDAT structure determination

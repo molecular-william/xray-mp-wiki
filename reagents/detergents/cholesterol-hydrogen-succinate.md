@@ -1,47 +1,60 @@
 ---
-title: Cholesterol Hydrogen Succinate (CHS)
-created: 2026-06-02
-updated: 2026-06-02
+title: Cholesteryl Hemisuccinate (CHS)
+created: 2026-06-03
+updated: 2026-06-03
 type: reagent
 category: reagents
 layout: default
-tags: [detergent-nonionic, solubilization-detergent, subdirectory-detergents]
-sources: [doi/10.1002##1873-3468.14136, doi/10.1016##j.cell.2015.04.011, doi/10.1016##j.cell.2016.09.056, doi/10.1016##j.cell.2017.12.011, doi/10.1016##j.str.2017.07.009, doi/10.1016##j.str.2019.12.003, doi/10.1038##NATURE09746, doi/10.1038##NATURE13293, doi/10.1038##nature08650]
+tags: [lipid, subdirectory-detergents]
+sources: [doi/10.1038##nature12167, doi/10.1038##nature14656, doi/10.1038##ncomms15383, doi/10.1038##nature13083, doi/10.1038##nature21714, doi/10.1038##ncomms7112, doi/10.1038##ncomms8097, doi/10.1038##ncomms8177, doi/10.1126##sciadv.abp9011]
 verified: false
 ---
 
-# Cholesterol Hydrogen Succinate (CHS)
+# Cholesteryl Hemisuccinate (CHS)
 
 ## Overview
 
-Cholesterol hydrogen succinate (CHS) is a cholesterol derivative with a succinate linker that provides water solubility. It is used as an additive in detergent mixtures for membrane protein solubilization and stabilization, particularly for GPCRs. CHS mimics the native cholesterol environment of membrane proteins and helps maintain protein stability during purification.
+Cholesteryl hemisuccinate (CHS) is a cholesterol derivative used as a membrane protein stabilizer in solubilization, purification, and crystallization workflows. It helps maintain membrane proteins in a functional, monodisperse state by interacting with hydrophobic transmembrane regions and mimicking the lipid environment of cellular membranes.
 
 
 ## Properties
 
-- **Chemical name**: cholesterol hydrogen succinate
-- **Chemical formula**: C32H50O6
-- **Molecular weight**: 518.73 g/mol
-- **Class**: cholesterol derivative detergent
-- **CMC**: not specified
-- **Head group**: succinate
-- **Tail length**: cholesterol backbone
+- **Chemical name**: cholesteryl 3-beta-O-succinate
+- **Class**: Cholesterol derivative; monoacyl lipid
 
 ## Use in Membrane Protein Work
 
-### Membrane protein stabilization
+### Membrane protein stabilization during solubilization
 
-CHS is used at 0.005% during TALON affinity chromatography equilibration and 0.003% during wash/elution steps for NtMATE2 purification. It is combined with LMNG to provide cholesterol-like environment that stabilizes the membrane protein during purification. The low concentration prevents interference with protein function while maintaining stability.
+CHS was used at 0.1% (w/v) in combination with DDM (0.5% w/v) for solubilization of the human P2Y12 receptor-BRIL fusion protein from Sf9 insect cell membranes. The CHS-DDM mixture enabled efficient extraction of the receptor while maintaining stability, with two cholesterol molecules observed bound to each receptor in the crystal structure.
+
+
+### Stabilization of ADIPOR1 and ADIPOR2 receptors
+
+CHS was used at 0.1% (w/v) in combination with DDM (1% w/v) for solubilization of ADIPOR2 and ADIPOR1 from Sf9 insect cell membranes. For purification, the concentration was adjusted to 0.05% CHS with 0.5% DDM for anti-Flag affinity chromatography, and further to 0.0001% CHS with 0.025% DDM for elution buffer.
+
+
+### Stabilization of RseP proteases in detergent
+
+CHS was added at 0.2% during solubilization and 0.006% during purification (with 0.03% DDM at a ~4:1 DDM:CHS ratio) to maintain protein stability. Both EcRseP and KkRseP were purified in buffers containing 0.03% DDM with 0.006% CHS.
 
 
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [NtMATE2](/xray-mp-wiki/proteins/ntmate2/) | 0.005% (equilibration), 0.003% (wash/elution) | CHS combined with LMNG for NtMATE2 purification | Stabilized NtMATE2 maintained through purification |
-| [Human CD81 Tetraspanin](/xray-mp-wiki/proteins/cd81/) | 0.1% (w/v) in solubilization, 0.01% (w/v) in purification buffers | CHS used with DDM for CD81 solubilization from SF9 insect cell membranes and in LCP crystallization matrix | CHS maintained CD81 stability during purification and crystallization |
-| [Kappa Opioid Receptor](/xray-mp-wiki/proteins/kappa-opioid-receptor/) | 0.2 mg/mL | CHS used with DDM for KOP-BRIL membrane solubilization (0.05% DDM, 0.2 mg/mL CHS) | CHS maintained KOP-BRIL stability during solubilization for active-state structure determination (PDB 6B73) |
-| Human GABA_A Receptor Beta-3 Subunit | 0.0006% | Thermostabilization assay buffer for GABA_A R-β3, with 0.007% DMNG and 0.0006% CHS | Used in SEC-based thermostabilization to evaluate ligand binding (EC50 = 370 uM for benzamidine) |
+| [Human Smoothened Receptor (SMO)](/xray-mp-wiki/proteins/gpcr/smoothened/) | 0.2% (w/v) | Membrane solubilization buffer | Co-solubilization with DDM for SMO 7TM domain extraction from Sf9 insect cell membranes |
+| [Human Smoothened Receptor (SMO)](/xray-mp-wiki/proteins/gpcr/smoothened/) | 0.1% (w/v) | IMAC wash buffer I | Maintained SMO in monodisperse state during affinity purification |
+| [Human Smoothened Receptor (SMO)](/xray-mp-wiki/proteins/gpcr/smoothened/) | 0.05% (w/v) | IMAC wash buffer II | Maintained SMO in monodisperse state during affinity purification |
+| [SMO-FLA Fusion Construct](/xray-mp-wiki/proteins/gpcr/smoothened-fla-fusion/) | 0.2% (w/v) for solubilization, 0.1% (w/v) for wash I, 0.006% (w/v) for wash II and final buffer | Solubilization of SMO-FLA from HEK293F membranes with DDM; used in wash I buffer (0.5% LMNG/0.1% CHS), wash II buffer (0.03% LMNG/0.006% CHS), and final sample buffer (0.03% LMNG/0.006% CHS) | Stabilized SMO-FLA fusion construct throughout IMAC purification and detergent exchange |
+| [Human Smoothened Receptor (SMO)](/xray-mp-wiki/proteins/gpcr/smoothened/) | 6% (w/w) in LCP | Lipidic cubic phase crystallization (40:54:6 protein:monoolein:cholesterol ratio) | Stabilized SMO in LCP matrix for crystal growth |
+| [Human Protease-Activated Receptor 2 (PAR2) - Stabilized T4L Fusion](/xray-mp-wiki/proteins/gpcr/par2/) | 0.1% w/v for solubilization, 0.002% w/v for purification buffers | Used at 0.1% w/v with 1% LMNG for solubilization of PAR2-StaR membranes. Purification buffers contained 0.002% CHS. SPR running buffer contained 0.005% CHS.
+ | Stabilized PAR2-StaR for crystallization with AZ8838, AZ3451, and MAB3949 Fab |
+| Human P2Y12 Receptor | 0.1% (w/v) | Combined with 0.5% DDM for solubilization of P2Y12R-BRIL from Sf9 insect cell membranes | Efficient solubilization; two cholesterol molecules observed bound per receptor in crystal structure (PDB 4NTJ) |
+| Adiponectin Receptor 2 (ADIPOR2) | 0.1% (solubilization), 0.05% (affinity), 0.0001% (elution) | Combined with DDM for solubilization and purification of ADIPOR2-scFv complex from Sf9 insect cells; concentrations decreased during purification steps
+ | ADIPOR2 purified for LCP crystallization; structures solved at 2.4 A and 3.0 A |
+| [Escherichia coli RseP (EcRseP)](/xray-mp-wiki/proteins/enzymes/ecrsep/) | 0.2% (solubilization), 0.006% (purification) | CHS used in EcRseP purification buffers with DDM at ~4:1 ratio | Stabilized EcRseP in detergent solution |
+| [Kangiella koreensis RseP (KkRseP)](/xray-mp-wiki/proteins/enzymes/kkrsep/) | 0.2% (solubilization), 0.006% (purification) | CHS used in KkRseP purification buffers with DDM at ~4:1 ratio | Stabilized KkRseP in detergent solution |
 
 ## Advantages and Disadvantages
 
@@ -53,8 +66,10 @@ No comparison data available.
 
 ## Cross-References
 
-- [NtMATE2 Nicotine Transporter](/xray-mp-wiki/proteins/ntmate2/) — Used with LMNG for stabilization
-- [Lauryl Maltose Neopentyl Glycol (LMNG)](/xray-mp-wiki/reagents/detergents/lmng/) — Combined with LMNG for purification
-- [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/at1r/) — 0.2% CHS used with 1% DDM for AT1R solubilization
-- [Kappa Opioid Receptor](/xray-mp-wiki/proteins/kappa-opioid-receptor/) — CHS used with DDM for KOP-BRIL solubilization (PDB 6B73)
-- [Human Orexin 2 Receptor](/xray-mp-wiki/proteins/orexin-2-receptor/) — CHS used in OX2R-PGS purification buffer
+- [Human Smoothened Receptor (SMO)](/xray-mp-wiki/proteins/gpcr/smoothened/) — Stabilizer used in SMO solubilization and LCP crystallization
+- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Co-lipid used with CHS in LCP crystallization
+- [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used with CHS for membrane protein solubilization
+- [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) — CHS is a cholesterol derivative with similar stabilizing properties
+- [Escherichia coli RseP (EcRseP)](/xray-mp-wiki/proteins/enzymes/ecrsep/) — CHS used in EcRseP purification buffers
+- [Kangiella koreensis RseP (KkRseP)](/xray-mp-wiki/proteins/enzymes/kkrsep/) — CHS used in KkRseP purification buffers
+- [Human P2Y12 Receptor](/xray-mp-wiki/proteins/gpcr/p2y12-receptor/) — CHS used in P2Y12R-BRIL solubilization and purification

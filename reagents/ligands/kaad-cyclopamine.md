@@ -33,7 +33,7 @@ KAAD-cyclopamine was used to demonstrate that the extracellular entrance of the 
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Smoothened Receptor](/xray-mp-wiki/proteins/smoothened/) | not specified | Molecular docking performed to predict binding pose of KAAD-cyclopamine in SMO binding pocket | Confirmed that bulky BODIPY moiety can extend through extracellular entrance via flexible linker |
+| [Human Smoothened Receptor](/xray-mp-wiki/proteins/gpcr/smoothened/) | not specified | Molecular docking performed to predict binding pose of KAAD-cyclopamine in SMO binding pocket | Confirmed that bulky BODIPY moiety can extend through extracellular entrance via flexible linker |
 
 ## Advantages and Disadvantages
 

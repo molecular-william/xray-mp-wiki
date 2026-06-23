@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [GLP-1R](/xray-mp-wiki/proteins/glp1r/) | Not specified | Crystal structure determination of full-length GLP-1R StaR at 3.7 Å resolution (PDB 5NX2). Peptide 5 induces active conformation of class B GPCR. | First crystal structure of class B GPCR bound to peptide agonist |
+| [GLP-1R](/xray-mp-wiki/proteins/gpcr/glp1r/) | Not specified | Crystal structure determination of full-length GLP-1R StaR at 3.7 Å resolution (PDB 5NX2). Peptide 5 induces active conformation of class B GPCR. | First crystal structure of class B GPCR bound to peptide agonist |
 
 ## Binding Mode
 

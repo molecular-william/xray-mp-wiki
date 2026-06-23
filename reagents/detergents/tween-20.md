@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Tween-20 (polysorbate 20) is a nonionic detergent used at low concentrations (0.05%) to stabilize proteins during purification and crystallization. It is derived from polyoxyethylene sorbitan monolaurate and is commonly used in membrane protein biochemistry due to its mild solubilizing properties and compatibility with size-exclusion chromatography. In the Tc toxin complex structures, Tween-20 was included in both TcdA1 and TcdB2-TccC3 purification buffers.
+Tween-20 (polysorbate 20) is a nonionic detergent used at low concentrations (0.05%) to stabilize proteins during purification and crystallization. It is derived from polyoxyethylene sorbitan monolaurate and is commonly used in membrane protein biochemistry due to its mild solubilizing properties and compatibility with size-exclusion chromatography. In the Tc toxin complex structures, Tween-20 was included in both [TcdA1 Toxin Complex A Subunit from Photorhabdus luminescens](/xray-mp-wiki/proteins/toxins/tcdA1/) and [TcdB2-TccC3 Toxin Complex B-C Fusion from Photorhabdus luminescens](/xray-mp-wiki/proteins/toxins/tcdB2-tccC3/) purification buffers.
 
 
 ## Properties
@@ -24,15 +24,15 @@ Tween-20 (polysorbate 20) is a nonionic detergent used at low concentrations (0.
 
 ### TcdA1 and TcdB2-TccC3 purification
 
-Used at 0.05% concentration in purification buffers for both TcdA1 (50 mM MES pH 5.0, 100 mM NaCl, 0.05% Tween-20, 5% glycerol) and TcdB2-TccC3 (50 mM Tris pH 8.0, 100 mM NaCl, 0.05% Tween-20, 5% glycerol). Tween-20 provides protein stability during dialysis and size-exclusion chromatography on Superose 6 10/300 GL columns, preventing aggregation of the large multi-domain Tc toxin subunits.
+Used at 0.05% concentration in purification buffers for both [TcdA1 Toxin Complex A Subunit from Photorhabdus luminescens](/xray-mp-wiki/proteins/toxins/tcdA1/) (50 mM MES pH 5.0, 100 mM NaCl, 0.05% Tween-20, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/)) and [TcdB2-TccC3 Toxin Complex B-C Fusion from Photorhabdus luminescens](/xray-mp-wiki/proteins/toxins/tcdB2-tccC3/) (50 mM Tris pH 8.0, 100 mM NaCl, 0.05% Tween-20, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/)). Tween-20 provides protein stability during dialysis and size-exclusion chromatography on Superose 6 10/300 GL columns, preventing aggregation of the large multi-domain Tc toxin subunits.
 
 
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| TcdA1 (Toxin Complex A from Photorhabdus luminescens) | 0.05% | Purification and crystallization buffer (50 mM MES pH 5.0, 100 mM NaCl, 0.05% Tween-20, 5% glycerol) | Protein stabilization during SEC and crystallization |
-| TcdB2-TccC3 (Toxin Complex B-C Fusion from Photorhabdus luminescens) | 0.05% | Purification buffer (50 mM Tris pH 8.0, 100 mM NaCl, 0.05% Tween-20, 5% glycerol) | Protein stabilization during SEC and crystallization |
+| [TcdA1 Toxin Complex A Subunit from Photorhabdus luminescens](/xray-mp-wiki/proteins/toxins/tcdA1/) (Toxin Complex A from Photorhabdus luminescens) | 0.05% | Purification and crystallization buffer (50 mM MES pH 5.0, 100 mM NaCl, 0.05% Tween-20, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/)) | Protein stabilization during SEC and crystallization |
+| [TcdB2-TccC3 Toxin Complex B-C Fusion from Photorhabdus luminescens](/xray-mp-wiki/proteins/toxins/tcdB2-tccC3/) (Toxin Complex B-C Fusion from Photorhabdus luminescens) | 0.05% | Purification buffer (50 mM Tris pH 8.0, 100 mM NaCl, 0.05% Tween-20, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/)) | Protein stabilization during SEC and crystallization |
 
 ## Advantages and Disadvantages
 
@@ -43,3 +43,7 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [TcdA1 Toxin Complex A Subunit from Photorhabdus luminescens](/xray-mp-wiki/proteins/toxins/tcdA1/) — Related protein structure
+- [TcdB2-TccC3 Toxin Complex B-C Fusion from Photorhabdus luminescens](/xray-mp-wiki/proteins/toxins/tcdB2-tccC3/) — Related protein structure
+- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers

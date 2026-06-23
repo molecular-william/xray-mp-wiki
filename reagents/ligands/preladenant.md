@@ -1,12 +1,13 @@
 ---
 title: Preladenant
-created: 2026-05-18
-updated: 2026-05-18
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
-tags: []
+tags: [ligand, subdirectory-ligands]
 sources: [doi/10.1002##anie.202115545]
+verified: false
 ---
 
 # Preladenant
@@ -22,8 +23,6 @@ Preladenant (SCH-420814) is a potent, highly selective non-xanthine antagonist o
 - **Chemical formula**: C17H15N5O
 - **Molecular weight**: 305.34 g/mol
 - **Class**: tricyclic heterocycle
-- **Kd/Ki**: 0.884 nM at A2AAR, >1000 nM at A2BAR, >1000 nM at A3AR
-- **Clinical status**: Phase III clinical trials (failed efficacy for PD)
 
 ## Use in Membrane Protein Work
 
@@ -36,7 +35,7 @@ Preladenant and its derivatives (PSB-2113, PSB-2115) were co-crystallized with A
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [A2A-PSB1-bRIL](/xray-mp-wiki/proteins/a2a-psb1-bril/) | not specified | Parent compound of PSB-2113 (PEGylated) and PSB-2115 (BODIPY-labeled) | First GPCR structures with PEG- and fluorophore-conjugated ligands |
+| [A2A-PSB1-bRIL](/xray-mp-wiki/proteins/gpcr/a2a-psb1-bril/) | not specified | Parent compound of PSB-2113 (PEGylated) and PSB-2115 (BODIPY-labeled) | First GPCR structures with PEG- and fluorophore-conjugated ligands |
 
 ## Binding Mode
 
@@ -57,5 +56,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [A2A-PSB1-bRIL Adenosine A2A Receptor](/xray-mp-wiki/proteins/a2a-psb1-bril/) — Parent compound of co-crystallized ligands
+- [A2A-PSB1-bRIL Adenosine A2A Receptor](/xray-mp-wiki/proteins/gpcr/a2a-psb1-bril/) — Parent compound of co-crystallized ligands
 - [ZM241385](/xray-mp-wiki/reagents/ligands/zm241385/) — Related A2AAR antagonist

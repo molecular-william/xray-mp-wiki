@@ -1,7 +1,7 @@
 ---
 title: Digitonin
-created: 2026-06-02
-updated: 2026-06-02
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -46,7 +46,7 @@ Digitonin is commonly used for functional studies of ion channels, as it can per
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
 | NavAb Bacterial Voltage-Gated Sodium Channel | Used for cryo-EM sample preparation | MBP-NavAb/KAV/G94C/Q150C disulfide-crosslinked resting state prepared in digitonin detergent for cryo-EM structure determination at 4.0 A resolution | High-quality cryo-EM density map enabling atomic model building of the resting state structure (PDB 6P6X, EMDB EMD-20265) |
-| [DAP12 (CD331)](/xray-mp-wiki/proteins/dap12/) | 0.5% digitonin | ER membrane fraction extracted in 0.5% digitonin for DAP12 oligomer analysis by immunoprecipitation and non-reducing SDS-PAGE | DAP12 dimers, trimers, and tetramers resolved by non-reducing SDS-PAGE from ER microsomes |
+| [DAP12 (CD331)](/xray-mp-wiki/proteins/receptors-signaling/dap12/) | 0.5% digitonin | ER membrane fraction extracted in 0.5% digitonin for DAP12 oligomer analysis by immunoprecipitation and non-reducing SDS-PAGE | DAP12 dimers, trimers, and tetramers resolved by non-reducing SDS-PAGE from ER microsomes |
 
 ## Advantages and Disadvantages
 
@@ -58,6 +58,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [NavAb Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/navab/) — Primary detergent for cryo-EM structure determination of NavAb resting state
+- [NavAb Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) — Primary detergent for cryo-EM structure determination of NavAb resting state
 - [N-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Related nonionic detergent, commonly used alternative for membrane protein solubilization
-- [Cryo-Electron Microscopy](/xray-mp-wiki/methods/cryo-em/) — Digitonin is widely used for cryo-EM sample preparation of membrane proteins
+- [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Digitonin is widely used for cryo-EM sample preparation of membrane proteins

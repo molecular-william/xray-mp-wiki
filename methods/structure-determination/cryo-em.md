@@ -1,12 +1,12 @@
 ---
 title: Cryo-Electron Microscopy
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-08
+updated: 2026-06-09
 type: method
 category: methods
 layout: default
 tags: [structure-cryoem, subdirectory-structure-determination]
-sources: [doi/10.1016##j.cell.2019.06.031, doi/10.1016##j.cell.2020.01.008, doi/10.1038##nature17679, doi/10.1038##ncomms8947]
+sources: [doi/10.1016##j.cell.2019.06.031, doi/10.1016##j.cell.2020.01.008, doi/10.1038##nature17679, doi/10.1038##ncomms8947, doi/10.1016##jsb.2004.09.003, doi/10.15252##embj.2021108341, doi/10.1126##scisignal.ado8741]
 verified: false
 ---
 
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Cryo-electron microscopy (cryo-EM) is a high-resolution structure determination technique for membrane proteins and macromolecular complexes. Samples are flash-frozen in vitreous ice, preserving native conformation without crystallization. Single particle analysis enables 3D reconstruction from thousands of particle images, achieving near-atomic resolution for suitably sized complexes. Cryo-EM has been used to solve structures of intact heterotetrameric GluN1b-GluN2B NMDA receptors at multiple conformational states (active, non-active1, non-active2) in the presence of glycine and L-glutamate without allosteric inhibitors.
+Cryo-electron microscopy (cryo-EM) is a high-resolution structure determination technique for membrane proteins and macromolecular complexes. Samples are flash-frozen in vitreous ice, preserving native conformation without crystallization. Single particle analysis enables 3D reconstruction from thousands of particle images, achieving near-atomic resolution for suitably sized complexes. Cryo-EM has been used to solve structures of intact heterotetrameric GluN1b-GluN2B NMDA receptors at multiple conformational states (active, non-active1, non-active2) in the presence of [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) and [L-Glutamate](/xray-mp-wiki/reagents/substrates/l-glutamate/) without allosteric inhibitors.
 
 ## Principle
 
@@ -24,14 +24,14 @@ Purified protein is applied to a grid, blotted to form a thin film, and rapidly 
 
 ### Reagents and Materials
 
-- Digitonin or other suitable detergent for membrane protein solubilization
+- [Digitonin](/xray-mp-wiki/reagents/detergents/digitonin/) or other suitable detergent for membrane protein solubilization
 - Buffer components (Tris, NaCl, etc.)
 - Grid preparation materials (quantifoil grids, glow discharge)
 - C-flat 1.2/1.3 Cu 400 mesh grids (Protochips)
 
 ### Steps
 
-1. {'step': 'Sample preparation', 'description': 'Purify membrane protein in appropriate detergent (e.g., digitonin for cryo-EM). Concentrate to suitable density (typically 0.5-3 mg/ml).'}
+1. {'step': 'Sample preparation', 'description': 'Purify membrane protein in appropriate detergent (e.g., [Digitonin](/xray-mp-wiki/reagents/detergents/digitonin/) for cryo-EM). Concentrate to suitable density (typically 0.5-3 mg/ml).'}
 2. {'step': 'Grid application', 'description': 'Apply 3-4 ul of sample to glow-discharged grid. Blot and plunge-freeze in liquid ethane.'}
 3. {'step': 'Data collection', 'description': 'Collect images on cryo-EM (e.g., Tecnai G2 F20) at 200-300 keV. Use automatic data collection software for high-throughput acquisition.'}
 4. {'step': 'Motion correction', 'description': 'Correct for beam-induced motion using software such as MotionCor2.'}

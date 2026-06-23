@@ -1,7 +1,7 @@
 ---
 title: Citrate Buffer (Sodium Citrate)
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -53,7 +53,7 @@ Sodium citrate at 25 mM pH 4.0 was used as the buffering agent in the crystalliz
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Glycine Receptor Alpha-3 Homopentamer (GlyRα3)](/xray-mp-wiki/proteins/glycine-receptor-alpha3/) | 25 mM, pH 4.0 | Crystallization reservoir buffer component | Successful crystallization of GlyRα3-strychnine complex via hanging-drop vapor diffusion |
+| [Human Glycine Receptor Alpha-3 Homopentamer (GlyRα3)](/xray-mp-wiki/proteins/cys-loop-receptors/glycine-receptor-alpha3/) | 25 mM, pH 4.0 | Crystallization reservoir buffer component | Successful crystallization of GlyRα3-strychnine complex via hanging-drop vapor diffusion |
 
 ## Advantages and Disadvantages
 

@@ -36,7 +36,7 @@ A lanthanide donor (e.g., europium-streptavidin) is excited by a pulsed light so
 
 ## Advantages
 
-- Sensitive enough to detect interactions at ~1000-fold lower concentrations than SEC-MALS
+- Sensitive enough to detect interactions at ~1000-fold lower concentrations than [SEC-MALS](/xray-mp-wiki/methods/quality-assessment/sec-mals/)
 - Time-gated detection eliminates background fluorescence
 - Homogeneous assay format (no separation steps required)
 - Suitable for high-throughput screening

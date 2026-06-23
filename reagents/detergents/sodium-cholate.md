@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Sodium cholate is an anionic bile salt detergent commonly used as a co-detergent in membrane protein solubilization. It is often combined with milder nonionic detergents like DDM to improve solubilization efficiency for difficult membrane proteins, particularly GPCRs. Sodium cholate helps disrupt lipid-protein and protein-protein interactions while the co-detergent maintains protein stability. After solubilization, the sodium cholate concentration is typically reduced or exchanged to milder detergents for downstream purification and crystallization.
+Sodium cholate is an anionic bile salt detergent commonly used as a co-detergent in membrane protein solubilization. It is often combined with milder nonionic detergents like [DDM](/xray-mp-wiki/reagents/detergents/ddm/) to improve solubilization efficiency for difficult membrane proteins, particularly GPCRs. Sodium cholate helps disrupt lipid-protein and protein-protein interactions while the co-detergent maintains protein stability. After solubilization, the sodium cholate concentration is typically reduced or exchanged to milder detergents for downstream purification and crystallization.
 
 
 ## Properties
@@ -35,3 +35,5 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used in purification or crystallization

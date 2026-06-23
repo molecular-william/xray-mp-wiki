@@ -1,6 +1,6 @@
 ---
 title: Maltose
-created: 2026-06-03
+created: 2026-06-11
 updated: 2026-05-28
 type: reagent
 category: reagents
@@ -30,9 +30,9 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Opsin (Retinal-Free Rhodopsin)](/xray-mp-wiki/proteins/opsin/) | 200 mM | 200 mM maltose tested for reconstitution inhibition of rhodopsin from opsin with 11-cis-retinal. No inhibitory effect observed, indicating sugar headgroups alone cannot occupy the retinal-binding pocket.
+| [Opsin (Retinal-Free Rhodopsin)](/xray-mp-wiki/proteins/gpcr/opsin/) | 200 mM | 200 mM maltose tested for reconstitution inhibition of rhodopsin from opsin with 11-cis-retinal. No inhibitory effect observed, indicating sugar headgroups alone cannot occupy the retinal-binding pocket.
  | No inhibition; hydrophobic moiety required for pocket entry |
-| [bcMalT (Bacillus cereus Maltose Transporter)](/xray-mp-wiki/proteins/bc-malt/) | 4.5 uM (IC50) | Radiolabeled maltose binding to full-length bcMalT measured by scintillation proximity assay. Unlabeled maltose competed with [3H]-maltose with IC50 of 4.5 +/- 1.1 uM. Maltose also found bound in the bcMalT crystal structure active site.
+| [bcMalT (Bacillus cereus Maltose Transporter)](/xray-mp-wiki/proteins/enzymes/bc-malt/) | 4.5 uM (IC50) | Radiolabeled maltose binding to full-length bcMalT measured by scintillation proximity assay. Unlabeled maltose competed with [3H]-maltose with IC50 of 4.5 +/- 1.1 uM. Maltose also found bound in the bcMalT crystal structure active site.
  | Selective high-affinity binding; physiological substrate for bcMalT |
 
 ## Advantages and Disadvantages
@@ -47,4 +47,4 @@ No comparison data available.
 
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM contains maltose headgroup; bcMalT crystals contained maltose from DDM/DM detergent head groups
 - [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — OG contains glucose headgroup; comparison shows hydrophobic chain is required
-- [Decylmaltoside (DM)](/xray-mp-wiki/reagents/detergents/decylmaltoside/) — DM contains maltose headgroup; bcMalT crystals contained maltose from DDM/DM detergent head groups
+- [Decylmaltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — DM contains maltose headgroup; bcMalT crystals contained maltose from DDM/DM detergent head groups

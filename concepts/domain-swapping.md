@@ -1,7 +1,7 @@
 ---
 title: Three-Dimensional Domain Swapping
-created: 2026-05-26
-updated: 2026-05-26
+created: 2026-06-11
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
@@ -25,4 +25,4 @@ Three-dimensional domain swapping occurs when a protein unfolds partially and ex
 
 
 ## Cross-References
-- [EcGlpg Cyto](/xray-mp-wiki/proteins/ecglpg-cyto/) — Domain-swapped rhomboid protease structure
+- [EcGlpg Cyto](/xray-mp-wiki/proteins/enzymes/ecglpg-cyto/) — Domain-swapped rhomboid protease structure

@@ -1,12 +1,12 @@
 ---
 title: Nitrate/Nitrite Antiport Mechanism
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-11
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
 tags: [subdirectory-concepts]
-sources: [doi/10.1038##ncomms8097]
+sources: [doi/10.1038##nature12139, doi/10.1038##ncomms8097]
 verified: false
 ---
 
@@ -25,7 +25,7 @@ The nitrate/nitrite antiport mechanism is the transport mechanism employed by NN
 
 
 ## Cross-References
-- [NarK Nitrate/Nitrite Antiporter from Escherichia coli](/xray-mp-wiki/proteins/nark/) — Primary structural and mechanistic characterization of nitrate/nitrite antiport
+- [NarK Nitrate/Nitrite Antiporter from Escherichia coli](/xray-mp-wiki/proteins/mfs-transporters/nark/) — Primary structural and mechanistic characterization of nitrate/nitrite antiport
 - [Nitrate/Nitrite Porter (NNP) Family](/xray-mp-wiki/concepts/nnp-family/) — NNP family members use the nitrate/nitrite antiport mechanism
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Nitrate/nitrite antiport operates via alternating access between inward-open and outward-open states
-- [NarU Nitrate/Nitrite Antiporter from Escherichia coli](/xray-mp-wiki/proteins/naru/) — Related NNP family member with similar antiport mechanism
+- [NarU Nitrate/Nitrite Antiporter from Escherichia coli](/xray-mp-wiki/proteins/mfs-transporters/naru/) — Related NNP family member with similar antiport mechanism

@@ -1,7 +1,7 @@
 ---
 title: Kanamycin
-created: 2026-05-28
-updated: 2026-05-28
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -26,14 +26,14 @@ Kanamycin is an aminoglycoside antibiotic used as a selection agent in bacterial
 
 ### Bacterial selection
 
-In [MexB Multidrug Exporter from Pseudomonas aeruginosa](/xray-mp-wiki/proteins/mexB/) expression, kanamycin was added at 50 mg/L to E. coli culture media to maintain the pET28 vector carrying the MexB gene during protein expression.
+In [MexB Multidrug Exporter from Pseudomonas aeruginosa](/xray-mp-wiki/proteins/abc-transporters/mexB/) expression, kanamycin was added at 50 mg/L to E. coli culture media to maintain the pET28 vector carrying the MexB gene during protein expression.
 
 
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [MexB Multidrug Exporter from Pseudomonas aeruginosa](/xray-mp-wiki/proteins/mexB/) | 50 mg/L | Selection agent for pET28 vector in E. coli C43(DE3) culture | Plasmid maintained during MexB expression |
+| [MexB Multidrug Exporter from Pseudomonas aeruginosa](/xray-mp-wiki/proteins/abc-transporters/mexB/) | 50 mg/L | Selection agent for pET28 vector in E. coli C43(DE3) culture | Plasmid maintained during MexB expression |
 
 ## Advantages and Disadvantages
 
@@ -45,4 +45,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [MexB Multidrug Exporter from Pseudomonas aeruginosa](/xray-mp-wiki/proteins/mexB/) — 50 mg/L for plasmid maintenance during expression
+- [MexB Multidrug Exporter from Pseudomonas aeruginosa](/xray-mp-wiki/proteins/abc-transporters/mexB/) — 50 mg/L for plasmid maintenance during expression

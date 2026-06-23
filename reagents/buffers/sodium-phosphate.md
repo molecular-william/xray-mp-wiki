@@ -6,7 +6,7 @@ type: reagent
 category: reagents
 layout: default
 tags: [buffer-phosphate, subdirectory-buffers]
-sources: [doi/10.1038##nature12648]
+sources: [doi/10.1038##NATURE06717, doi/10.1038##nature12648]
 verified: false
 ---
 
@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/leubat/ | 100 mM | Crystallization reservoir for Delta13 LeuBAT-antidepressant complexes | Used at pH 7.0 with 32-34% PEG300 for vapor diffusion crystallization |
+| /xray-mp-wiki/proteins/slc-transporters/leubat/ | 100 mM | Crystallization reservoir for Delta13 LeuBAT-antidepressant complexes | Used at pH 7.0 with 32-34% [PEG300](/xray-mp-wiki/reagents/additives/peg300/) for vapor diffusion crystallization |
 
 ## Advantages and Disadvantages
 
@@ -38,3 +38,5 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [PEG300](/xray-mp-wiki/reagents/additives/peg300/) — Additive used in purification or crystallization buffers

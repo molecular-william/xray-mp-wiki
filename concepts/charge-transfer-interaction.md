@@ -1,7 +1,7 @@
 ---
 title: Charge-Transfer Interaction
-created: 2026-05-27
-updated: 2026-05-27
+created: 2026-06-11
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
@@ -27,6 +27,6 @@ The charge-transfer interaction in DsbB involves the unpaired Cys44 thiolate in 
 
 
 ## Cross-References
-- [DsbB](/xray-mp-wiki/proteins/dsbB/) — DsbB catalytic cycle involves charge-transfer interaction between Cys44 thiolate and ubiquinone Q8
+- [DsbB](/xray-mp-wiki/proteins/enzymes/dsbB/) — DsbB catalytic cycle involves charge-transfer interaction between Cys44 thiolate and ubiquinone Q8
 - [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) — Ubiquinone Q8 quinone ring forms charge-transfer interaction with DsbB Cys44 thiolate
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Both involve conformational changes driven by charge transfer and redox chemistry

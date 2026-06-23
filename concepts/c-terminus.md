@@ -1,0 +1,30 @@
+---
+title: C-Terminus (C-Terminal Domain)
+created: 2026-06-22
+updated: 2026-06-22
+type: concept
+category: concepts
+layout: default
+tags: [concept-structural]
+sources: [doi/10.1038##nrm.2017.70]
+verified: false
+---
+
+# C-Terminus (C-Terminal Domain)
+
+## Overview
+The C-terminus (C-terminal domain) of a protein is the end of the polypeptide chain terminating in a carboxyl group. In membrane proteins, the C-terminus can be located on either the cytoplasmic or extracellular side depending on membrane topology. It often plays roles in protein folding, stability, post-translational modifications, and protein-protein interactions.
+
+
+## Mechanism/Details
+
+
+## Examples in Membrane Protein Work
+
+
+## Related Concepts
+
+
+## Cross-References
+- [N-Terminus (N-Terminal Domain)](/xray-mp-wiki/concepts/n-terminus/) — The C-terminus is the counterpart to the N-terminus of the polypeptide chain
+- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation/) — C-terminal truncation is a common construct design strategy for improving crystallization

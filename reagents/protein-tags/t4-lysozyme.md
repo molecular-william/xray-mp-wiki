@@ -1,12 +1,12 @@
 ---
 title: T4 Lysozyme (T4L)
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-03
+updated: 2026-06-03
 type: reagent
 category: reagents
 layout: default
 tags: [protein-tag, subdirectory-protein-tags]
-sources: [doi/10.1021##acs.jmedchem.5b00892, doi/10.1021##acs.jmedchem.7b01722, doi/10.1038##nature10867, doi/10.1038##nature11558, doi/10.1038##nature11701, doi/10.1038##nature12357, doi/10.1038##nature14656, doi/10.1038##nature22309, doi/10.1038##nchembio.2547, doi/10.1038##ncomms8895]
+sources: [doi/10.1021##acs.jmedchem.5b00892, doi/10.1021##acs.jmedchem.7b01722, doi/10.1038##nature10867, doi/10.1038##nature11111, doi/10.1038##nature11558, doi/10.1038##nature11701, doi/10.1038##nature12357, doi/10.1038##nature14656, doi/10.1038##nature22309, doi/10.1038##nchembio.2547, doi/10.1038##ncomms8895, doi/10.1038##s41422-020-00424-2]
 verified: false
 ---
 
@@ -46,7 +46,7 @@ T4L replaces ICL2 in mGlu5-StaR construct, providing a rigid scaffold that enabl
 | Rat Neurotensin Receptor 1 (NTSR1) | not specified | T4L inserted into ICL3 replacing NTSR1 residues H269-R299 in NTSR1-GW5-T4L construct. The thermostabilized GW5 mutant contains six point mutations (A86L, E166A, G215A, L310A, F358A, V360A). T4L provided crystallographic contacts enabling structure determination at 2.80 A resolution.
  | Enabled crystal structure of neurotensin receptor in complex with agonist NTS(8-13)
  |
-| [Human Protease-Activated Receptor 1 (PAR1)](/xray-mp-wiki/proteins/par1/) | not specified | T4L inserted between A301 and A303 in ICL3 of human PAR1 construct. The PAR1 construct also included N-terminal FLAG epitope, TEV cleavage site between P85 and A86 (N-terminus before P85 removed by TEV protease), 10xHis tag after S395, and glycosylation mutations N250G and N259S in ECL2. T4L provided a rigid crystallization handle. Lattice packing showed T4L packed against extracellular loops, but molecular dynamics simulations confirmed that ECL loop structures did not change when T4L was removed.
+| [Human Protease-Activated Receptor 1 (PAR1)](/xray-mp-wiki/proteins/gpcr/par1/) | not specified | T4L inserted between A301 and A303 in ICL3 of human PAR1 construct. The PAR1 construct also included N-terminal FLAG epitope, TEV cleavage site between P85 and A86 (N-terminus before P85 removed by TEV protease), 10xHis tag after S395, and glycosylation mutations N250G and N259S in ECL2. T4L provided a rigid crystallization handle. Lattice packing showed T4L packed against extracellular loops, but molecular dynamics simulations confirmed that ECL loop structures did not change when T4L was removed.
  | Enabled crystal structure of human PAR1 in complex with vorapaxar at 2.20 A resolution (PDB 4MB0). The T4L fusion was critical for obtaining well-ordered crystals in space group P212121.
  |
 | Human Protease-Activated Receptor 2 (PAR2) - Stabilized T4L Fusion | not specified | T4L inserted between F58 and F59 in N terminus of PAR2-StaR, replacing residues 1-54 (NDelta57). The PAR2-StaR T4L fusion construct also included nine thermostabilizing mutations, ICL3 cytochrome b562RIL insertion, N222Q mutation, and C-terminal truncation after K377. T4L provided crystal contacts in the triclinic P1 crystal lattice.
@@ -66,8 +66,8 @@ No comparison data available.
 
 ## Cross-References
 
-- [Metabotropic Glutamate Receptor 5 (mGlu5)](/xray-mp-wiki/proteins/metabotropic-glutamate-receptor-5/) — T4L inserted into ICL2 for mGlu5 crystallization
+- [Metabotropic Glutamate Receptor 5 (mGlu5)](/xray-mp-wiki/proteins/gpcr/metabotropic-glutamate-receptor-5/) — T4L inserted into ICL2 for mGlu5 crystallization
 - [BRIL Fusion Protein](/xray-mp-wiki/reagents/protein-tags/bril/) — Alternative fusion partner; replaces ICL3 instead of ICL2
-- [Rat Neurotensin Receptor 1 (NTSR1)](/xray-mp-wiki/proteins/neurotensin-receptor-1/) — T4L fusion replacing ICL3 in NTSR1-GW5-T4L crystallization construct
-- [Human Protease-Activated Receptor 1 (PAR1)](/xray-mp-wiki/proteins/par1/) — T4L inserted into ICL3 (A301-A303) for PAR1 vorapaxar complex crystallization
-- [Human Protease-Activated Receptor 2 (PAR2) - Stabilized T4L Fusion](/xray-mp-wiki/proteins/par2/) — T4L inserted between F58 and F59 in N terminus (replacing residues 1-54) for PAR2 crystallization
+- [Rat Neurotensin Receptor 1 (NTSR1)](/xray-mp-wiki/proteins/gpcr/neurotensin-receptor-1/) — T4L fusion replacing ICL3 in NTSR1-GW5-T4L crystallization construct
+- [Human Protease-Activated Receptor 1 (PAR1)](/xray-mp-wiki/proteins/gpcr/par1/) — T4L inserted into ICL3 (A301-A303) for PAR1 vorapaxar complex crystallization
+- [Human Protease-Activated Receptor 2 (PAR2) - Stabilized T4L Fusion](/xray-mp-wiki/proteins/gpcr/par2/) — T4L inserted between F58 and F59 in N terminus (replacing residues 1-54) for PAR2 crystallization

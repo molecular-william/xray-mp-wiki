@@ -1,7 +1,7 @@
 ---
 title: N-Methyl-D-Glucamine (NMG)
-created: 2026-06-05
-updated: 2026-06-05
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -26,7 +26,7 @@ N-Methyl-D-glucamine (NMG) is an organic compound used as an ion substitute in i
 
 ### Flux assay buffer component
 
-NMG (4 mM) was included in the reconstitution buffer (10 mM HEPES pH 7.4, 400 mM NaCl or KCl, 4 mM NMG) and in the 86Rb flux buffer (400 mM sorbitol, 10 mM HEPES pH 7.4, 4 mM NMG, 50 uM NaCl or KCl, 5 uM 86RbCl) used for ion conduction measurements of the NaK channel.
+NMG (4 mM) was included in the reconstitution buffer (10 mM HEPES pH 7.4, 400 mM NaCl or KCl, 4 mM NMG) and in the 86Rb flux buffer (400 mM [Sorbitol](/xray-mp-wiki/reagents/additives/sorbitol/), 10 mM HEPES pH 7.4, 4 mM NMG, 50 uM NaCl or KCl, 5 uM 86RbCl) used for ion conduction measurements of the NaK channel.
 
 
 ## Examples from This Wiki
@@ -42,4 +42,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [NaK Channel from Bacillus cereus](/xray-mp-wiki/proteins/nak-channel/) — NMG used as impermeant counter-ion in NaK flux assay buffers
+- [NaK Channel from Bacillus cereus](/xray-mp-wiki/proteins/voltage-gated-channels/nak-channel/) — NMG used as impermeant counter-ion in NaK flux assay buffers
+- [Sorbitol](/xray-mp-wiki/reagents/additives/sorbitol/) — Additive used in purification or crystallization buffers

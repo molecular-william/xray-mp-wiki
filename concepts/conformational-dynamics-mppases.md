@@ -1,7 +1,7 @@
 ---
 title: Conformational Dynamics in M-PPases
-created: 2026-06-03
-updated: 2026-06-03
+created: 2026-06-11
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
@@ -27,8 +27,8 @@ M-PPases (membrane-bound H+-pumping pyrophosphatases) undergo large-scale confor
 
 
 ## Cross-References
-- [TmPPase (Thermotoga maritima H+-Pumping Pyrophosphatase)](/xray-mp-wiki/proteins/tmppase/) — Four conformational states captured showing helix movements
-- [VrPPase (Vibrio rotiferans H+-Pumping Pyrophosphatase)](/xray-mp-wiki/proteins/vrppase/) — Two conformational states with detailed helix 5/13/14 movements
+- [TmPPase (Thermotoga maritima H+-Pumping Pyrophosphatase)](/xray-mp-wiki/proteins/pumps-atpases/tmppase/) — Four conformational states captured showing helix movements
+- [VrPPase (Vibrio rotiferans H+-Pumping Pyrophosphatase)](/xray-mp-wiki/proteins/pumps-atpases/vrppase/) — Two conformational states with detailed helix 5/13/14 movements
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — M-PPases cycle through conformational states for alternating access
 - [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/rocker-switch-mechanism/) — Related conformational change mechanism in transport proteins
 - [Large Domain Motion in P-type ATPases](/xray-mp-wiki/concepts/large-domain-motion-in-p-type-atpases/) — P-type pumps share conformational dynamics principles

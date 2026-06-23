@@ -1,12 +1,12 @@
 ---
 title: MOPS (3-(N-Morpholino)propanesulfonic Acid)
-created: 2026-06-03
-updated: 2026-06-03
+created: 2026-06-08
+updated: 2026-06-10
 type: reagent
 category: reagents
 layout: default
 tags: [buffer-mops, subdirectory-buffers]
-sources: [doi/10.1016##j.jmb.2012.05.026, doi/10.1016##j.jmb.2013.04.022, doi/10.1016##j.str.2014.06.008, doi/10.1038##SJ.EMBOJ.7600585, doi/10.1038##nature11900]
+sources: [doi/10.1016##j.jmb.2012.05.026, doi/10.1016##j.jmb.2013.04.022, doi/10.1016##j.str.2014.06.008, doi/10.1038##SJ.EMBOJ.7600585, doi/10.1038##nature11542, doi/10.1038##nature11900, doi/10.1073##pnas.1009864107, doi/10.7554##eLife.18767, doi/10.7554##eLife.28032]
 verified: false
 ---
 
@@ -41,7 +41,10 @@ MOPS-KOH pH 6.8 used as primary buffer for SERCA purification from rabbit sarcop
 
 ## Examples from This Wiki
 
-No examples from this wiki.
+| Protein | Concentration | Context | Result |
+|---|---|---|---|
+| [E. coli Fluc-Ec2 Fluoride Ion Channel](/xray-mp-wiki/proteins/other-ion-channels/fluc-ec2/) | 15 mM MOPS-NaOH pH 7.0 | Single-channel recording buffer | Standard recording condition for planar bilayer electrophysiology |
+
 ## Advantages and Disadvantages
 
 No advantages/disadvantages recorded.

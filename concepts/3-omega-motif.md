@@ -25,6 +25,6 @@ The 3 omega motif is a structural motif in microbial rhodopsins formed by three 
 
 
 ## Cross-References
-- [Chloride Ion Rhodopsin](/xray-mp-wiki/proteins/clir/) — 3 omega motif discovered in CIR structure
-- [Bacteriorhodopsin](/xray-mp-wiki/proteins/bacteriorhodopsin/) — Comparison with other microbial rhodopsin structures
+- [Chloride Ion Rhodopsin](/xray-mp-wiki/proteins/rhodopsins/clir/) — 3 omega motif discovered in CIR structure
+- [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Comparison with other microbial rhodopsin structures
 - [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-photocycle/) — Structural motif in rhodopsin family

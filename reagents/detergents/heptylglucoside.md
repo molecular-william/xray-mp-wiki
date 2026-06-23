@@ -1,12 +1,13 @@
 ---
 title: Heptylglucoside (HpG)
-created: 2026-05-18
-updated: 2026-05-22
+created: 2026-06-08
+updated: 2026-06-08
 type: reagent
 category: reagents
 layout: default
-tags: [detergent-nonionic, detergent-mild]
-sources: [doi/10.1002##anie.201302374]
+tags: [detergent-nonionic, solubilization-detergent, subdirectory-detergents]
+sources: [doi/10.1002##anie.201302374, doi/10.7554##eLife.09375]
+verified: false
 ---
 
 # Heptylglucoside (HpG)
@@ -28,7 +29,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Opsin (Retinal-Free Rhodopsin)](/xray-mp-wiki/proteins/opsin/) | ~70 mM (above CMC) | HpG tested for reconstitution inhibition of rhodopsin from opsin with 11-cis-retinal. Inhibition observed above critical micellar concentration, indicating HpG enters the retinal-binding pocket.
+| [Opsin (Retinal-Free Rhodopsin)](/xray-mp-wiki/proteins/gpcr/opsin/) | ~70 mM (above CMC) | HpG tested for reconstitution inhibition of rhodopsin from opsin with 11-cis-retinal. Inhibition observed above critical micellar concentration, indicating HpG enters the retinal-binding pocket.
  | Concentration-dependent inhibition of reconstitution; detergent occupies ligand-binding pocket |
 
 ## Advantages and Disadvantages
@@ -43,8 +44,4 @@ No comparison data available.
 
 - [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — Same alkylglucoside family; OG also occupies retinal-binding pocket
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Common membrane protein detergent for comparison
-- [Opsin (Retinal-Free Rhodopsin)](/xray-mp-wiki/proteins/opsin/) — HpG tested for reconstitution inhibition; occupies retinal-binding pocket
-- [Nonylglucoside (NG)](/xray-mp-wiki/reagents/detergents/nonylglucoside/) — Related alkylglucoside; intermediate chain length between OG and HpG
-
-
----
+- [Salmonella enterica Citrate/Sodium Symporter (SeCitS)](/xray-mp-wiki/proteins/slc-transporters/se-cits/) — HG used as crystallization additive for SeMet SeCitS

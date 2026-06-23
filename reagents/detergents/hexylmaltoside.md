@@ -1,19 +1,20 @@
 ---
 title: Hexyl Maltoside (HxM)
 created: 2026-05-18
-updated: 2026-05-18
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
-tags: [detergent-nonionic, detergent-mild, solubilization-detergent]
+tags: [detergent-nonionic, solubilization-detergent, detergent-mild, subdirectory-detergents]
 sources: [doi/10.1002##anie.201302374]
+verified: false
 ---
 
 # Hexyl Maltoside (HxM)
 
 ## Overview
 
-Hexyl maltoside (HxM, n-hexyl-beta-D-maltopyranoside) is a nonionic detergent with a 6-carbon alkyl chain and a maltose headgroup. It was tested in rhodopsin reconstitution assays with opsin and showed minimal inhibitory effect on retinal binding, suggesting it does not fit well into the retinal-binding pocket due to its short alkyl chain.
+Hexyl maltoside (HxM, n-hexyl-beta-D-maltopyranoside) is a nonionic detergent with a 6-carbon alkyl chain and a [Maltose](/xray-mp-wiki/reagents/additives/maltose/) headgroup. It was tested in rhodopsin reconstitution assays with [OPSIN](/xray-mp-wiki/proteins/gpcr/opsin/) and showed minimal inhibitory effect on [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) binding, suggesting it does not fit well into the retinal-binding pocket due to its short alkyl chain.
 
 
 ## Properties
@@ -30,14 +31,14 @@ HxM is a mild detergent suitable for solubilizing membrane proteins that are sen
 
 ### Ligand binding pocket studies
 
-HxM showed almost no inhibitory effect on rhodopsin reconstitution from opsin, indicating the short hexyl chain does not fit into the retinal-binding pocket. This was used to establish structure-activity relationships for detergent binding.
+HxM showed almost no inhibitory effect on rhodopsin reconstitution from [OPSIN](/xray-mp-wiki/proteins/gpcr/opsin/), indicating the short hexyl chain does not fit into the retinal-binding pocket. This was used to establish structure-activity relationships for detergent binding.
 
 
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Opsin | Varies (tested in reconstitution assay) | HxM tested for its ability to compete with 11-cis-retinal reconstitution | Almost no inhibitory effect, indicating short chain does not fit retinal-binding pocket |
+| [OPSIN](/xray-mp-wiki/proteins/gpcr/opsin/) | Varies (tested in reconstitution assay) | HxM tested for its ability to compete with [11-cis-Retinal](/xray-mp-wiki/reagents/ligands/11-cis-retinal/) reconstitution | Almost no inhibitory effect, indicating short chain does not fit retinal-binding pocket |
 
 ## Advantages and Disadvantages
 
@@ -50,6 +51,7 @@ No comparison data available.
 ## Cross-References
 
 - [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Related maltoside detergent with longer 12-carbon chain
-- [Opsin (Retinal-Free Rhodopsin)](/xray-mp-wiki/proteins/opsin/) — HxM tested in rhodopsin reconstitution assays with opsin
-- [11-cis-Retinal](/xray-mp-wiki/reagents/ligands/11-cis-retinal/) — Chromophore used in rhodopsin reconstitution with HxM
-- [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — Short-chain nonionic detergent with similar structure-activity relationships
+- [OPSIN](/xray-mp-wiki/proteins/gpcr/opsin/) — Related protein structure
+- [Maltose](/xray-mp-wiki/reagents/additives/maltose/) — Additive used in purification or crystallization buffers
+- [11-cis-Retinal](/xray-mp-wiki/reagents/ligands/11-cis-retinal/) — Related ligand or cofactor
+- [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Related ligand or cofactor

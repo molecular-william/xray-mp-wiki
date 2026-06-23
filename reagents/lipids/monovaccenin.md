@@ -1,7 +1,7 @@
 ---
 title: Monovaccenin
-created: 2026-05-27
-updated: 2026-05-27
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -30,7 +30,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [LbSemiSWEET](/xray-mp-wiki/proteins/lbsemisweet/) | 1:1.5 wt/wt ratio | LbSemiSWEET D57A mutant reconstituted with monovaccenin for crystallization in vapor diffusion setup. Used as the lipid component in the protein sample.
+| [LbSemiSWEET](/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/) | 1:1.5 wt/wt ratio | LbSemiSWEET D57A mutant reconstituted with monovaccenin for crystallization in vapor diffusion setup. Used as the lipid component in the protein sample.
  | Crystals grew within one week in precipitant containing 50 mM Tris pH 8, 100 mM LiSO4, 35% PEG 400 |
 
 ## Advantages and Disadvantages

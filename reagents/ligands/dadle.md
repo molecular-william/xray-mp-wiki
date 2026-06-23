@@ -56,6 +56,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Delta-Opioid Receptor (OPRD1)](/xray-mp-wiki/proteins/delta-opioid-receptor/) — Selective agonist for delta-opioid receptor functional assays
+- [Human Delta-Opioid Receptor (OPRD1)](/xray-mp-wiki/proteins/gpcr/delta-opioid-receptor/) — Selective agonist for delta-opioid receptor functional assays
 - [BW373U86](/xray-mp-wiki/reagents/ligands/bw373u86/) — Sodium-insensitive delta-opioid agonist used for comparison
 - [Sodium Ion Allosteric Modulation in GPCRs](/xray-mp-wiki/concepts/sodium-allosteric-modulation/) — DADLE binding strongly modulated by sodium ions

@@ -39,4 +39,4 @@ No comparison data available.
 
 ## Cross-References
 
-- [PepT_So2 Oligopeptide Transporter](/xray-mp-wiki/proteins/pept-so2/) — AAA was co-crystallized with PepT_So2 and bound in its substrate-binding cavity
+- [PepT_So2 Oligopeptide Transporter](/xray-mp-wiki/proteins/mfs-transporters/pept-so2/) — AAA was co-crystallized with PepT_So2 and bound in its substrate-binding cavity

@@ -21,10 +21,16 @@ DMT superfamily transporters share a common architectural blueprint: ten transme
 
 
 ## Examples in Membrane Protein Work
-
+- SnYddG — 
+- EcYddG — 
+- E. coli nucleotide sugar transporters — 
 
 ## Related Concepts
-
+- [](/xray-mp-wiki/concepts/sm-family/) — 
+- [](/xray-mp-wiki/concepts/alternating-access-mechanism/) — 
+- [](/xray-mp-wiki/concepts/rocker-switch-mechanism/) — 
+- [](/xray-mp-wiki/concepts/mfs-transporter/) — 
+- [](/xray-mp-wiki/concepts/rnd-efflux-pumps/) — 
 
 ## Cross-References
 - [SMR Family (Small Multidrug Resistance Family)](/xray-mp-wiki/concepts/sm-family/) — Proposed evolutionary progenitor of DMT superfamily; structural superposition reveals similarity between 4-TM SMR and 10-TM DMT proteins

@@ -1,7 +1,7 @@
 ---
 title: Glycerol 3-Phosphate
-created: 2026-05-27
-updated: 2026-05-27
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Glycerol 3-phosphate (G3P) is a phosphorylated glycerol molecule that serves as the second substrate for phosphatidylglycerol phosphate synthase (PgsA). In the PgsA-catalyzed reaction, G3P attacks the phosphatidyl group of cytidine diphosphate-diacylglycerol (CDP-DAG) to form phosphatidylglycerol phosphate (PGP) and cytidine monophosphate (CMP). G3P enters the active site through Channel 2, a putative entrance channel separated from the CMP release channel (Channel 1) by Lys75 and Ala130. The negatively charged G3P head group is attracted to the electropositive region of the active site cavity by conserved residues including Arg118 and Tyr181.
+[Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) 3-phosphate (G3P) is a phosphorylated [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) molecule that serves as the second substrate for [Phosphatidylglycerol Phosphate](/xray-mp-wiki/reagents/lipids/phosphatidylglycerol-phosphate/) synthase (PgsA). In the PgsA-catalyzed reaction, G3P attacks the phosphatidyl group of cytidine diphosphate-diacylglycerol (CDP-[DAG](/xray-mp-wiki/reagents/lipids/dag/)) to form [Phosphatidylglycerol Phosphate](/xray-mp-wiki/reagents/lipids/phosphatidylglycerol-phosphate/) (PGP) and cytidine monophosphate (CMP). G3P enters the active site through Channel 2, a putative entrance channel separated from the CMP release channel (Channel 1) by Lys75 and Ala130. The negatively charged G3P head group is attracted to the electropositive region of the active site cavity by conserved residues including Arg118 and Tyr181.
 
 
 ## Properties
@@ -35,3 +35,7 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
+- [DAG](/xray-mp-wiki/reagents/lipids/dag/) — Additive used in purification or crystallization buffers
+- [Phosphatidylglycerol Phosphate](/xray-mp-wiki/reagents/lipids/phosphatidylglycerol-phosphate/) — Additive used in purification or crystallization buffers

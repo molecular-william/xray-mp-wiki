@@ -1,7 +1,7 @@
 ---
 title: Nimodipine
-created: 2026-06-03
-updated: 2026-06-03
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Nimodipine is a dihydropyridine calcium channel antagonist used for the treatment of cardiovascular disorders. It binds to the same lipid-facing subunit interface on voltage-gated calcium channels as amlodipine, acting as an allosteric modulator of voltage-dependent channel activation. In the CaVAb bacterial channel, nimodipine binds with nanomolar affinity (IC50 = 100 nM) in a state-dependent manner. Its binding displaces an endogenous lipid molecule and allosterically induces an asymmetric conformation of the selectivity filter, similar to amlodipine.
+Nimodipine is a dihydropyridine calcium channel antagonist used for the treatment of cardiovascular disorders. It binds to the same lipid-facing subunit interface on voltage-gated calcium channels as [Amlodipine](/xray-mp-wiki/reagents/ligands/amlodipine/), acting as an allosteric modulator of voltage-dependent channel activation. In the CaVAb bacterial channel, nimodipine binds with nanomolar affinity (IC50 = 100 nM) in a state-dependent manner. Its binding displaces an endogenous lipid molecule and allosterically induces an asymmetric conformation of the selectivity filter, similar to [Amlodipine](/xray-mp-wiki/reagents/ligands/amlodipine/).
 
 
 ## Properties
@@ -47,5 +47,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [CaVAb Bacterial Voltage-Gated Calcium Channel](/xray-mp-wiki/proteins/ca-vab/) — Primary structural target with nimodipine-bound crystal structure
+- [CaVAb Bacterial Voltage-Gated Calcium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/ca-vab/) — Primary structural target with nimodipine-bound crystal structure
 - [Amlodipine](/xray-mp-wiki/reagents/ligands/amlodipine/) — Related dihydropyridine calcium channel antagonist with similar binding site and mechanism

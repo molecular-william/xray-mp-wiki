@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Melibiose Permease from Salmonella typhimurium (MelBSt)](/xray-mp-wiki/proteins/melbst/) | 2.65 mM (IC50 for D2G displacement), ~1 mM (Kd with Na+ or Li+) | Sugar binding assay by isothermal titration calorimetry and cell accumulation assay | Single sugar-binding site with exothermic binding; positive cooperative binding with Na+ or Li+ |
+| [Melibiose Permease from Salmonella typhimurium (MelBSt)](/xray-mp-wiki/proteins/mfs-transporters/melbst/) | 2.65 mM (IC50 for D2G displacement), ~1 mM (Kd with Na+ or Li+) | Sugar binding assay by isothermal titration calorimetry and cell accumulation assay | Single sugar-binding site with exothermic binding; positive cooperative binding with Na+ or Li+ |
 
 ## Advantages and Disadvantages
 

@@ -1,7 +1,7 @@
 ---
 title: WxG100 Family Proteins
-created: 2026-05-27
-updated: 2026-05-27
+created: 2026-06-11
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
@@ -17,7 +17,7 @@ The WxG100 family (also known as the ESAT-6 family) comprises small helical prot
 
 
 ## Mechanism/Details
-The WxG100 family is defined by a conserved tryptophan-x-glycine motif and a size of approximately 100 amino acids. Members form heterodimers comprising two chains about 100 residues long. The YxxxD/E secretion motif is present in a subset of secreted ESX substrates, including EsxB homologs, PE proteins, and several Esp proteins. In crystal structures, the YxxxD/E motif adopts a helical conformation, which may be important for secretion mechanism recognition. The extended sequence pattern Hxxx D/Exx hxxx H was identified in subsequent analysis, where H represents a highly conserved hydrophobic residue and h represents a less conserved hydrophobic residue.
+The WxG100 family is defined by a conserved tryptophan-x-[Glycine](/xray-mp-wiki/reagents/buffers/glycine/) motif and a size of approximately 100 amino acids. Members form heterodimers comprising two chains about 100 residues long. The YxxxD/E secretion motif is present in a subset of secreted ESX substrates, including EsxB homologs, PE proteins, and several Esp proteins. In crystal structures, the YxxxD/E motif adopts a helical conformation, which may be important for secretion mechanism recognition. The extended sequence pattern Hxxx D/Exx hxxx H was identified in subsequent analysis, where H represents a highly conserved hydrophobic residue and h represents a less conserved hydrophobic residue.
 
 
 ## Examples in Membrane Protein Work
@@ -27,7 +27,8 @@ The WxG100 family is defined by a conserved tryptophan-x-glycine motif and a siz
 
 
 ## Cross-References
-- [EspB](/xray-mp-wiki/proteins/espB/) — EspB secretion is co-dependent with WxG100 proteins EsxA and EsxB
+- [EspB](/xray-mp-wiki/proteins/secretion-translocon/espB/) — EspB secretion is co-dependent with WxG100 proteins EsxA and EsxB
 - [PE-PPE Fusion Proteins](/xray-mp-wiki/concepts/pe-ppe-fusion-proteins/) — WxG100 family is structurally similar to PE-PPE fusion proteins
 - [ESX-1 Secretion System](/xray-mp-wiki/concepts/esx-1-secretion-system/) — WxG100 family proteins are secreted by ESX-1 and other ESX systems
-- [PE25](/xray-mp-wiki/proteins/pe25/) — PE25-PPE41 structure was used as search model for EspB, which shares structural similarity with WxG100
+- [PE25](/xray-mp-wiki/proteins/secretion-translocon/pe25/) — PE25-PPE41 structure was used as search model for EspB, which shares structural similarity with WxG100
+- [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) — Buffer component used in purification or crystallization

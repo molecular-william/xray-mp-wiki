@@ -14,7 +14,7 @@ verified: true
 
 ## Overview
 
-Riboflavin (vitamin B2) is an essential precursor for flavin mononucleotide (FMN) and flavin adenine dinucleotide (FAD). It serves as a substrate for the energy-coupling factor (ECF) type riboflavin transporter. In the ECF transporter S component RibU, riboflavin binds with high affinity (approximately 0.6 nM) in a hydrophobic pocket on the periplasmic side of the membrane.
+Riboflavin (vitamin B2) is an essential precursor for flavin mononucleotide (FMN) and flavin adenine dinucleotide ([FAD](/xray-mp-wiki/reagents/additives/flavin-adenine-dinucleotide/)). It serves as a substrate for the energy-coupling factor (ECF) type riboflavin transporter. In the ECF transporter S component [RIBU](/xray-mp-wiki/proteins/pumps-atpases/ribu/), riboflavin binds with high affinity (approximately 0.6 nM) in a hydrophobic pocket on the periplasmic side of the membrane.
 
 
 ## Properties
@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| RibU | 0.6 nM (Kd) | ECF-type riboflavin transporter S component from Staphylococcus aureus | High-affinity binding in hydrophobic pocket with multiple hydrogen bonds |
+| [RIBU](/xray-mp-wiki/proteins/pumps-atpases/ribu/) | 0.6 nM (Kd) | ECF-type riboflavin transporter S component from Staphylococcus aureus | High-affinity binding in hydrophobic pocket with multiple hydrogen bonds |
 
 ## Advantages and Disadvantages
 
@@ -39,5 +39,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [Escherichia coli CorA Mg2+ Channel (Cytoplasmic Domain)](/xray-mp-wiki/proteins/ec-cor-a/) — Example of another nutrient uptake transporter
+- [Escherichia coli CorA Mg2+ Channel (Cytoplasmic Domain)](/xray-mp-wiki/proteins/abc-transporters/ec-cor-a/) — Example of another nutrient uptake transporter
 - [ECF Transporter](/xray-mp-wiki/concepts/ecf-transporter/) — Energy-coupling factor transporter family that specifically transports riboflavin
+- [RIBU](/xray-mp-wiki/proteins/pumps-atpases/ribu/) — Related protein structure
+- [FAD](/xray-mp-wiki/reagents/additives/flavin-adenine-dinucleotide/) — Additive used in purification or crystallization buffers

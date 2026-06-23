@@ -1,7 +1,7 @@
 ---
 title: Lutetium Acetate
-created: 2026-06-04
-updated: 2026-06-04
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -30,7 +30,7 @@ Single crystals were soaked for 10 minutes in crystallization buffer supplemente
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/thermus-thermophilus-a-atpase-peripheral-stalk/ | 100 mM | Crystal soaking for SAD phasing | Two heavy atom sites identified; phases obtained via MIRAS |
+| /xray-mp-wiki/proteins/pumps-atpases/thermus-thermophilus-a-atpase-peripheral-stalk/ | 100 mM | Crystal soaking for SAD phasing | Two heavy atom sites identified; phases obtained via [MIRAS](/xray-mp-wiki/methods/structure-determination/miras/) |
 
 ## Advantages and Disadvantages
 
@@ -41,3 +41,5 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [MIRAS](/xray-mp-wiki/methods/structure-determination/miras/) — Method used in structure determination or purification

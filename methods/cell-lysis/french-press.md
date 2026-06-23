@@ -24,12 +24,12 @@ A cell suspension is pressurized in a closed chamber and then forced through a n
 
 ### Reagents and Materials
 
-- {'name': 'Buffer', 'description': 'Homogenization buffer containing 25 mM Tris-HCl pH 8.0 and 150 mM NaCl\n'}
+- {'name': 'Buffer', 'description': 'Homogenization buffer containing 25 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0 and 150 mM NaCl\n'}
 - {'name': 'Cell pellet', 'description': 'E. coli cells collected after induction and growth at 37 C for 4 h\n'}
 
 ### Steps
 
-1. {'step': 'Cell resuspension', 'description': 'Collected E. coli cells are resuspended in homogenization buffer (25 mM Tris-HCl pH 8.0, 150 mM NaCl)\n'}
+1. {'step': 'Cell resuspension', 'description': 'Collected E. coli cells are resuspended in homogenization buffer (25 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM NaCl)\n'}
 2. {'step': 'High-pressure homogenization', 'description': 'Resuspended cells are passed through the French press at high pressure to disrupt the cell wall and release cellular contents\n'}
 3. {'step': 'Low-speed centrifugation', 'description': 'Cell debris is removed by low-speed centrifugation for 10 min\n'}
 4. {'step': 'Ultracentrifugation', 'description': 'The supernatant is ultracentrifuged for 1 h at 150,000g to collect the membrane fraction containing membrane proteins\n'}

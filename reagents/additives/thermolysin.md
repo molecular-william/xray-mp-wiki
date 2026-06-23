@@ -1,20 +1,20 @@
 ---
 title: Thermolysin
-created: 2026-05-07
-updated: 2026-05-07
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
-tags: [additive-stabilizer]
+tags: [additive-stabilizer, subdirectory-additives]
 sources: [doi/10.1016##j.jmb.2012.03.020]
+verified: false
 ---
-
 
 # Thermolysin
 
 ## Overview
 
-Thermolysin is a thermostable neutral metalloprotease produced by Bacillus thermoproteolyticus. It is widely used for [limited proteolysis](/xray-mp-wiki/methods/purification/limited-proteolysis/) experiments to identify protease-resistant protein domains and to generate stable protein fragments suitable for crystallization. Thermolysin cleaves at the N-terminal side of hydrophobic residues (Leu, Phe, Val, Ile).
+Thermolysin is a thermostable neutral metalloprotease produced by Bacillus thermoproteolyticus. It is widely used for [Limited Proteolysis](/xray-mp-wiki/methods/purification/limited-proteolysis/) experiments to identify protease-resistant protein domains and to generate stable protein fragments suitable for crystallization. Thermolysin cleaves at the N-terminal side of hydrophobic residues (Leu, Phe, Val, Ile).
 
 
 ## Properties
@@ -43,4 +43,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [Signal Peptide Peptidase A from Bacillus subtilis (SppA_BS)](/xray-mp-wiki/proteins/sppa-bs/) — Used for limited proteolysis to generate crystallization-competent fragment
+- [Signal Peptide Peptidase A from Bacillus subtilis (SppA_BS)](/xray-mp-wiki/proteins/enzymes/sppa-bs/) — Used for limited proteolysis to generate crystallization-competent fragment
+- [Limited Proteolysis](/xray-mp-wiki/methods/purification/limited-proteolysis/) — Method used in structure determination or purification

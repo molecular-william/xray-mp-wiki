@@ -36,7 +36,7 @@ Desthiobiotin was included as an elution agent during TRPV6_cryst affinity purif
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Human Glycine Receptor Alpha-3 Homopentamer (GlyRα3)](/xray-mp-wiki/proteins/glycine-receptor-alpha3/) | 5 mM | Elution buffer for Strep-tag affinity chromatography | Specific elution of Strep II-tagged GlyRα3 crystallization construct |
+| [Human Glycine Receptor Alpha-3 Homopentamer (GlyRα3)](/xray-mp-wiki/proteins/cys-loop-receptors/glycine-receptor-alpha3/) | 5 mM | Elution buffer for Strep-tag affinity chromatography | Specific elution of Strep II-tagged GlyRα3 crystallization construct |
 | Epithelial Calcium Channel TRPV6 | 10 mM (elution), 5 mM (purification buffer) | Elution from streptavidin affinity resin during TRPV6_cryst purification; bound at intersubunit interface | Desthiobiotin observed at intersubunit interface near ATP-binding site in ankyrin repeat domain |
 
 ## Advantages and Disadvantages
@@ -49,6 +49,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Human Glycine Receptor Alpha-3 Homopentamer (GlyRα3)](/xray-mp-wiki/proteins/glycine-receptor-alpha3/) — Used for elution of Strep-tagged GlyRα3 from Strep affinity resin
-- [Epithelial Calcium Channel TRPV6](/xray-mp-wiki/proteins/trpv6/) — Used for elution of Strep-tagged TRPV6_cryst; bound at intersubunit interface
+- [Human Glycine Receptor Alpha-3 Homopentamer (GlyRα3)](/xray-mp-wiki/proteins/cys-loop-receptors/glycine-receptor-alpha3/) — Used for elution of Strep-tagged GlyRα3 from Strep affinity resin
+- [Epithelial Calcium Channel TRPV6](/xray-mp-wiki/proteins/voltage-gated-channels/trpv6/) — Used for elution of Strep-tagged TRPV6_cryst; bound at intersubunit interface
 - [Transient Receptor Potential Vanilloid 1 (TRPV1)](/xray-mp-wiki/proteins/trpv1/) — Desthiobiotin binding site overlaps with ATP-binding site in TRPV1 ankyrin repeats

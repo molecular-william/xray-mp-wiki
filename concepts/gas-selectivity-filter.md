@@ -1,7 +1,7 @@
 ---
 title: GAS Selectivity Filter
-created: 2026-05-27
-updated: 2026-05-27
+created: 2026-06-11
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
@@ -21,11 +21,11 @@ The GAS (Gly-Ala-Ser) motif in the second transmembrane segment (TM2) of ASICs a
 
 
 ## Examples in Membrane Protein Work
-
+- [ASIC1a](/xray-mp-wiki/proteins/other-ion-channels/asic1a/) — The GAS (Gly-Ala-Ser) selectivity filter in ASIC1a adopts an extended, belt-like conformation with the cytoplasmic portion of TM2 swapping between subunits
 
 ## Related Concepts
 
 
 ## Cross-References
-- [Acid-Sensing Ion Channel 1a](/xray-mp-wiki/proteins/asic1a/) — GAS selectivity filter structure solved in open state
+- [Acid-Sensing Ion Channel 1a](/xray-mp-wiki/proteins/other-ion-channels/asic1a/) — GAS selectivity filter structure solved in open state
 - [Sodium Channel Gating and Selectivity](/xray-mp-wiki/concepts/sodium-channel-gating/) — Related mechanism of ion selectivity in sodium channels

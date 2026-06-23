@@ -1,7 +1,7 @@
 ---
 title: Bacteriopheophytin
-created: 2026-06-04
-updated: 2026-06-04
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -33,7 +33,7 @@ No specific use cases documented.
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
 | Rhodobacter sphaeroides Reaction Centre (wild-type) | 2 BPhe molecules per RC (HA and HB sites) | Native cofactors in wild-type RC; replaced by Zn-BChl in bchD mutant | Primary electron acceptor in the productive electron transfer chain |
-| [Blastochloris viridis Photosynthetic Reaction Centre](/xray-mp-wiki/proteins/blastochloris-viridis-photosynthetic-reaction-centre/) | not specified | L-branch bacteriopheophytin cofactor in RC_vir; electron density maps at 3.5 A show BPhe lacks a metal centre | SFX structure (PDB 4CAS) at 3.5 A resolution; clear electron density for BPhe cofactors |
+| [Blastochloris viridis Photosynthetic Reaction Centre](/xray-mp-wiki/proteins/photosynthesis/blastochloris-viridis-photosynthetic-reaction-centre/) | not specified | L-branch bacteriopheophytin cofactor in RC_vir; electron density maps at 3.5 A show BPhe lacks a metal centre | SFX structure (PDB 4CAS) at 3.5 A resolution; clear electron density for BPhe cofactors |
 
 ## Binding Mode
 
@@ -53,5 +53,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) — BPhe is formed by demetallation of BChl (removal of central Mg2+)
-- [Rps. viridis Photosynthetic Reaction Centre](/xray-mp-wiki/proteins/rps-viridis-reaction-centre/) — Contains native BPhe-b cofactors at HA and HB sites
+- [Bacteriochlorophyll](/xray-mp-wiki/reagents/bacteriochlorophyll/) — BPhe is formed by demetallation of BChl (removal of central Mg2+)
+- [Rps. viridis Photosynthetic Reaction Centre](/xray-mp-wiki/proteins/photosynthesis/rps-viridis-reaction-centre/) — Contains native BPhe-b cofactors at HA and HB sites

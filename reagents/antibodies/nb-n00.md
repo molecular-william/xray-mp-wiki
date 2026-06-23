@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [E. coli DtpA Peptide Transporter](/xray-mp-wiki/proteins/dtpa/) | 1:1.2 molar ratio with DtpA | Co-crystallization of DtpA-N00 complex; vapor diffusion in glycine buffer | Stabilized inward-facing conformation of DtpA; enabled structure determination at 3.30 A (PDB 6GS7) and 2.65 A with valganciclovir (PDB 6GS4) |
+| [E. coli DtpA Peptide Transporter](/xray-mp-wiki/proteins/slc-transporters/dtpa/) | 1:1.2 molar ratio with DtpA | Co-crystallization of DtpA-N00 complex; vapor diffusion in glycine buffer | Stabilized inward-facing conformation of DtpA; enabled structure determination at 3.30 A (PDB 6GS7) and 2.65 A with valganciclovir (PDB 6GS4) |
 
 ## Advantages and Disadvantages
 
@@ -39,8 +39,8 @@ No comparison data available.
 
 ## Cross-References
 
-- [E. coli DtpA Peptide Transporter](/xray-mp-wiki/proteins/dtpa/) — Primary target stabilized by N00 nanobody for crystallography
+- [E. coli DtpA Peptide Transporter](/xray-mp-wiki/proteins/slc-transporters/dtpa/) — Primary target stabilized by N00 nanobody for crystallography
 - [Nb.AT110i1 Synthetic Nanobody](/xray-mp-wiki/reagents/antibodies/nb-at110i1/) — Another conformation-selective nanobody for membrane protein crystallography
 - [scFv16 Antibody Fragment](/xray-mp-wiki/reagents/antibodies/scfv16/) — Stabilizing antibody fragment used in membrane protein crystallography
-- Nanobody — N00 is a camelid-derived nanobody (single-domain antibody)
+- [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) — N00 is a camelid-derived nanobody (single-domain antibody)
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — N00 selectively binds the inward-facing conformation of the MFS transporter

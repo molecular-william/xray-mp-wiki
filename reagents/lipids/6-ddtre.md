@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-6-n-Dodecyl-alpha,alpha-trehalose (6-DDTre) is a lipid analog consisting of a dodecyl (C12) alkyl chain linked to a trehalose head group. It serves as a detergent mimic of trehalose monomycolate (TMM), the natural substrate of MmpL3, an essential mycobacterial membrane transporter involved in cell wall biosynthesis. 6-DDTre has been shown to bind in the periplasmic cavity of MmpL3, suggesting a role in substrate transportation.
+6-n-Dodecyl-alpha,alpha-[Trehalose](/xray-mp-wiki/reagents/additives/trehalose/) (6-DDTre) is a lipid analog consisting of a dodecyl (C12) alkyl chain linked to a [Trehalose](/xray-mp-wiki/reagents/additives/trehalose/) head group. It serves as a detergent mimic of [Trehalose](/xray-mp-wiki/reagents/additives/trehalose/) monomycolate (TMM), the natural substrate of [MmpL3 from Mycobacterium smegmatis](/xray-mp-wiki/proteins/abc-transporters/mmpL3/), an essential mycobacterial membrane transporter involved in cell wall biosynthesis. 6-DDTre has been shown to bind in the periplasmic cavity of [MmpL3 from Mycobacterium smegmatis](/xray-mp-wiki/proteins/abc-transporters/mmpL3/), suggesting a role in substrate transportation.
 
 
 ## Properties
@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| MmpL3 | 1% (w/v) for solubilization; used in SEC buffer | Used to solubilize MmpL3 during purification; binds in periplasmic cavity | Mimics TMM substrate, binds in periplasmic cavity and GT opening of MmpL3 |
+| [MmpL3 from Mycobacterium smegmatis](/xray-mp-wiki/proteins/abc-transporters/mmpL3/) | 1% (w/v) for solubilization; used in SEC buffer | Used to solubilize [MmpL3 from Mycobacterium smegmatis](/xray-mp-wiki/proteins/abc-transporters/mmpL3/) during purification; binds in periplasmic cavity | Mimics TMM substrate, binds in periplasmic cavity and GT opening of [MmpL3 from Mycobacterium smegmatis](/xray-mp-wiki/proteins/abc-transporters/mmpL3/) |
 
 ## Advantages and Disadvantages
 
@@ -39,5 +39,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [MmpL3](/xray-mp-wiki/proteins/mmpL3/) — Binds in periplasmic cavity of MmpL3, mimics TMM substrate
+- [MmpL3](/xray-mp-wiki/proteins/abc-transporters/mmpL3/) — Binds in periplasmic cavity of MmpL3, mimics TMM substrate
 - [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Co-used with 6-DDTre for MmpL3 solubilization and purification
+- [Trehalose](/xray-mp-wiki/reagents/additives/trehalose/) — Additive used in purification or crystallization buffers

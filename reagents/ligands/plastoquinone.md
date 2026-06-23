@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Plastoquinone (PQ) is a lipophilic benzoquinone electron carrier in the photosynthetic electron transport chain of chloroplasts and cyanobacteria. It accepts electrons and protons from photosystem II at the QB binding site, becoming reduced to plastoquinol (PQH2), which then diffuses through the thylakoid membrane to the cytochrome b6f complex. Plastoquinone is structurally analogous to ubiquinone (coenzyme Q) but has a phytyl side chain instead of an isoprenoid tail. Two plastoquinone molecules (QA and QB) are bound per monomer of the photosystem II core complex.
+Plastoquinone (PQ) is a lipophilic benzoquinone electron carrier in the photosynthetic electron transport chain of chloroplasts and cyanobacteria. It accepts electrons and protons from [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) at the QB binding site, becoming reduced to plastoquinol (PQH2), which then diffuses through the thylakoid membrane to the cytochrome b6f complex. Plastoquinone is structurally analogous to [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) (coenzyme Q) but has a phytyl side chain instead of an isoprenoid tail. Two plastoquinone molecules (QA and QB) are bound per monomer of the [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) core complex.
 
 
 ## Properties
@@ -38,7 +38,7 @@ A lipophilic cavity is proposed for the diffusion of reduced plastoquinone (plas
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| Photosystem II | 2 per monomer (QA and QB sites) | QA tightly bound plastoquinone accepts electron from pheophytin; QB loosely bound plastoquinone accepts two electrons and two protons to form plastoquinol | Central electron carrier in PSII; PQH2 diffuses through lipophilic cavity to cytochrome b6f complex |
+| [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) | 2 per monomer (QA and QB sites) | QA tightly bound plastoquinone accepts electron from pheophytin; QB loosely bound plastoquinone accepts two electrons and two protons to form plastoquinol | Central electron carrier in PSII; PQH2 diffuses through lipophilic cavity to cytochrome b6f complex |
 
 ## Advantages and Disadvantages
 
@@ -49,3 +49,6 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) — Related protein structure
+- [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) — Related ligand or cofactor

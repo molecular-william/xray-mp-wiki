@@ -6,7 +6,7 @@ type: method
 category: methods
 layout: default
 tags: [quality-assessment, subdirectory-quality-assessment]
-sources: [doi/10.1016##j.immuni.2020.02.004]
+sources: [doi/10.1073##pnas.2009624117, doi/10.1073##pnas.2006997117, doi/10.1073##pnas.1901888116, doi/10.1073##pnas.1901822116, doi/10.1073##pnas.1901346116, doi/10.1016##j.immuni.2020.02.004]
 verified: false
 ---
 
@@ -24,11 +24,11 @@ A solution of one binding partner is titrated into a solution of the other in an
 
 ### Reagents and Materials
 
-- {'calorimeter': 'MicroCal Auto-ITC200 (Malvern Instruments)', 'buffer': 'PBS pH 7.4, 1 mM EDTA', 'cytokine_concentrations': '200 uM IL-17F, 275 uM IL-17A homodimer, 185 uM IL-17A/F heterodimer', 'receptor_concentrations': '36-42 uM IL-17RC or 25-35 uM IL-17RA'}
+- {'calorimeter': 'MicroCal Auto-ITC200 (Malvern Instruments)', 'buffer': 'PBS pH 7.4, 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/)', 'cytokine_concentrations': '200 uM [IL-17F](/xray-mp-wiki/proteins/receptors-signaling/il-17f/), 275 uM [IL-17A](/xray-mp-wiki/proteins/receptors-signaling/il-17a/) homodimer, 185 uM [IL-17A](/xray-mp-wiki/proteins/receptors-signaling/il-17a/)/F heterodimer', 'receptor_concentrations': '36-42 uM [IL-17RC](/xray-mp-wiki/proteins/receptors-signaling/il-17rc/) or 25-35 uM [IL-17RA](/xray-mp-wiki/proteins/receptors-signaling/il-17ra/)'}
 
 ### Steps
 
-1. {'step': 'Protein dialysis', 'description': 'All proteins dialyzed overnight against PBS pH 7.4, 1 mM EDTA\n'}
+1. {'step': 'Protein dialysis', 'description': 'All proteins dialyzed overnight against PBS pH 7.4, 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/)\n'}
 2. {'step': 'Protein quantification', 'description': 'Protein concentration quantified by HPLC using UV absorbance at 210 nm\n'}
 3. {'step': 'Titration', 'description': '26 successive 3 s injections of 1.5 uL cytokine into 400 uL receptor solution with 180 s interval between successive injections\n'}
 4. {'step': 'Delay', 'description': 'Initial delay of 60 s applied before first injection\n'}

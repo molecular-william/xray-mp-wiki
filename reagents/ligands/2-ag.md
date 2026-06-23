@@ -1,7 +1,7 @@
 ---
 title: 2-AG (2-Arachidonoylglycerol)
-created: 2026-05-27
-updated: 2026-05-27
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -33,7 +33,7 @@ verified: false
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [Cannabinoid Receptor 1 (CNR1/CB1)](/xray-mp-wiki/proteins/cnr1/) | not specified | Endogenous agonist of CB1 cannabinoid receptor | Activates CB1-mediated signaling |
+| [Cannabinoid Receptor 1 (CNR1/CB1)](/xray-mp-wiki/proteins/gpcr/cnr1/) | not specified | Endogenous agonist of CB1 cannabinoid receptor | Activates CB1-mediated signaling |
 
 ## Advantages and Disadvantages
 
@@ -45,6 +45,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [Cannabinoid Receptor 1 (CNR1/CB1)](/xray-mp-wiki/proteins/cnr1/) — Endogenous full agonist of CB1
+- [Cannabinoid Receptor 1 (CNR1/CB1)](/xray-mp-wiki/proteins/gpcr/cnr1/) — Endogenous full agonist of CB1
 - [AEA (Anandamide)](/xray-mp-wiki/reagents/ligands/aea/) — Other primary endogenous cannabinoid
-- [Lysophosphatidic Acid Receptor 1 (LPA1)](/xray-mp-wiki/proteins/lpa1/) — Phosphorylated form 2-ALPA activates LPA1
+- [Lysophosphatidic Acid Receptor 1 (LPA1)](/xray-mp-wiki/proteins/gpcr/lpa1/) — Phosphorylated form 2-ALPA activates LPA1

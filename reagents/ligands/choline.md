@@ -39,7 +39,7 @@ Choline is an essential nutrient required for cell membrane synthesis, neurotran
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [BetP (Na+/Betaine Symporter from Corynebacterium glutamicum)](/xray-mp-wiki/proteins/betp/) | 1 mM | Choline was used as a substrate for the BetP G153D mutant, which was co-crystallized with choline. The G153D mutation (Gly 153 to aspartate in the unfolded stretch of TMH1') conferred sixfold increased affinity for sodium and additional specificity for choline. Choline bound at the S1 binding site, interacting with the tryptophan prism (Trp 373, Trp 374, Trp 377 in TMH6') that forms the signature motif of the BCCT family. In the inward-open state (C_iS), choline shifted towards the cytoplasm and interacted solely with Trp 377 in TMH6' and backbone carbonyls from TMH1'. | Crystal structure of BetP G153D in complex with choline solved at 3.2 A resolution (PDB 4AMR), revealing conformational asymmetry in the BetP trimer with up to six distinct transport states captured. |
+| [BetP (Na+/Betaine Symporter from Corynebacterium glutamicum)](/xray-mp-wiki/proteins/slc-transporters/betp/) | 1 mM | Choline was used as a substrate for the BetP G153D mutant, which was co-crystallized with choline. The G153D mutation (Gly 153 to aspartate in the unfolded stretch of TMH1') conferred sixfold increased affinity for sodium and additional specificity for choline. Choline bound at the S1 binding site, interacting with the tryptophan prism (Trp 373, Trp 374, Trp 377 in TMH6') that forms the signature motif of the BCCT family. In the inward-open state (C_iS), choline shifted towards the cytoplasm and interacted solely with Trp 377 in TMH6' and backbone carbonyls from TMH1'. | Crystal structure of BetP G153D in complex with choline solved at 3.2 A resolution (PDB 4AMR), revealing conformational asymmetry in the BetP trimer with up to six distinct transport states captured. |
 
 ## Advantages and Disadvantages
 
@@ -51,6 +51,6 @@ No comparison data available.
 
 ## Cross-References
 
-- [BetP (Na+/Betaine Symporter from Corynebacterium glutamicum)](/xray-mp-wiki/proteins/betp/) — Substrate for BetP G153D mutant with sixfold increased sodium affinity
+- [BetP (Na+/Betaine Symporter from Corynebacterium glutamicum)](/xray-mp-wiki/proteins/slc-transporters/betp/) — Substrate for BetP G153D mutant with sixfold increased sodium affinity
 - [Glycine Betaine](/xray-mp-wiki/reagents/ligands/glycine-betaine/) — Structurally similar quaternary ammonium compound, primary substrate of wild-type BetP
 - [BCCT Family](/xray-mp-wiki/concepts/bcct-family/) — Choline is one of the three substrates of the BCCT transporter family

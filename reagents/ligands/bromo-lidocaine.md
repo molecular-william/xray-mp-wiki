@@ -14,7 +14,7 @@ verified: false
 
 ## Overview
 
-Bromo-lidocaine is a derivative of the local anesthetic lidocaine with a bromine atom substituted on the aromatic ring. The bromine atom provides a strong anomalous signal in X-ray crystallography, making bromo-lidocaine useful for identifying the binding site of lidocaine and related local anesthetics in ion channel structures.
+Bromo-[Lidocaine](/xray-mp-wiki/reagents/ligands/lidocaine/) is a derivative of the local anesthetic [Lidocaine](/xray-mp-wiki/reagents/ligands/lidocaine/) with a bromine atom substituted on the aromatic ring. The bromine atom provides a strong anomalous signal in X-ray crystallography, making bromo-[Lidocaine](/xray-mp-wiki/reagents/ligands/lidocaine/) useful for identifying the binding site of [Lidocaine](/xray-mp-wiki/reagents/ligands/lidocaine/) and related local anesthetics in ion channel structures.
 
 
 ## Properties
@@ -27,14 +27,14 @@ Bromo-lidocaine is a derivative of the local anesthetic lidocaine with a bromine
 
 ### Crystallographic probe for local anesthetic binding
 
-Bromo-lidocaine at 15 mM was used for soaking of GLIC crystals. The bromine atom provides a strong anomalous signal, allowing identification of the lidocaine binding site in the hydrophobic region at the extracellular half of the pore. The bulky and hydrophobic end of lidocaine occupies the wider and more hydrophobic region of the pore.
+Bromo-[Lidocaine](/xray-mp-wiki/reagents/ligands/lidocaine/) at 15 mM was used for soaking of [GLIC](/xray-mp-wiki/proteins/cys-loop-receptors/glic/) crystals. The bromine atom provides a strong anomalous signal, allowing identification of the [Lidocaine](/xray-mp-wiki/reagents/ligands/lidocaine/) binding site in the hydrophobic region at the extracellular half of the pore. The bulky and hydrophobic end of [Lidocaine](/xray-mp-wiki/reagents/ligands/lidocaine/) occupies the wider and more hydrophobic region of the pore.
 
 
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| /xray-mp-wiki/proteins/glic/ | 15 mM | Soaking of GLIC crystals; bromine provides anomalous signal | Lidocaine binding site identified in hydrophobic region at extracellular half of pore |
+| /xray-mp-wiki/proteins/cys-loop-receptors/glic/ | 15 mM | Soaking of [GLIC](/xray-mp-wiki/proteins/cys-loop-receptors/glic/) crystals; bromine provides anomalous signal | [Lidocaine](/xray-mp-wiki/reagents/ligands/lidocaine/) binding site identified in hydrophobic region at extracellular half of pore |
 
 ## Advantages and Disadvantages
 
@@ -46,6 +46,7 @@ No comparison data available.
 
 ## Cross-References
 
-- [GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp-wiki/proteins/glic/) — Used for crystallography to identify local anesthetic binding site
+- [GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/glic/) — Used for crystallography to identify local anesthetic binding site
 - [Tetrabutylammonium (TBA)](/xray-mp-wiki/reagents/ligands/tetrabutylammonium/) — Larger pore blocker; lidocaine and TBA share overlapping binding region in pore
 - [Tetraethylammonium (TEA)](/xray-mp-wiki/reagents/ligands/tetraethylammonium/) — Smaller quaternary ammonium blocker; lidocaine binding site is deeper in pore
+- [Lidocaine](/xray-mp-wiki/reagents/ligands/lidocaine/) — Related ligand or cofactor

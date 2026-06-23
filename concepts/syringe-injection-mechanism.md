@@ -28,6 +28,6 @@ Tc toxin complexes are composed of three subunits: TcA, TcB, and TcC. TcA forms 
 
 
 ## Cross-References
-- [TcdA1 Toxin Complex A Subunit](/xray-mp-wiki/proteins/tcdA1/) — TcA forms the syringe-like translocation channel
-- [TcdB2-TccC3 Toxin Complex B-C Fusion](/xray-mp-wiki/proteins/tcdB2-tccC3/) — TcB-TccC forms the cocoon and gate that delivers the toxic domain
+- [TcdA1 Toxin Complex A Subunit](/xray-mp-wiki/proteins/toxins/tcdA1/) — TcA forms the syringe-like translocation channel
+- [TcdB2-TccC3 Toxin Complex B-C Fusion](/xray-mp-wiki/proteins/toxins/tcdB2-tccC3/) — TcB-TccC forms the cocoon and gate that delivers the toxic domain
 - [Entropic Spring Mechanism](/xray-mp-wiki/concepts/entropic-spring-mechanism/) — Entropic spring provides the driving force for the injection process

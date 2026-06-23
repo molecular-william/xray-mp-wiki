@@ -1,7 +1,7 @@
 ---
 title: 11-cis-Retinal
-created: 2026-06-02
-updated: 2026-06-02
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
@@ -36,7 +36,7 @@ No specific use cases documented.
 |---|---|---|---|
 | Bovine Rhodopsin (Dark State) | 1:1 stoichiometry | Covalently bound to Lys296 via protonated Schiff base in the dark state | Inverse agonist effect keeps basal activity below that of ligand-free opsin |
 | Rhodopsin N2C/D282C Mutant | 1:1 stoichiometry | Covalently bound to Lys296; expressed in COS mammalian cells with exogenous 11-cis-retinal supplied before solubilization | Stabilized holoprotein form suitable for crystallization |
-| [Squid Rhodopsin](/xray-mp-wiki/proteins/squid-rhodopsin/) | 1:1 stoichiometry | Covalently bound to Lys305 via protonated Schiff base in the dark state; the retinal polyene chain takes a less distorted configuration in squid rhodopsin than in bovine rhodopsin | Native holoprotein from squid microvillar membranes; crystal structure solved at 2.5 A resolution (PDB 2BRS) |
+| [Squid Rhodopsin](/xray-mp-wiki/proteins/gpcr/squid-rhodopsin/) | 1:1 stoichiometry | Covalently bound to Lys305 via protonated Schiff base in the dark state; the retinal polyene chain takes a less distorted configuration in squid rhodopsin than in bovine rhodopsin | Native holoprotein from squid microvillar membranes; crystal structure solved at 2.5 A resolution (PDB 2BRS) |
 
 ## Binding Mode
 
@@ -53,5 +53,5 @@ No comparison data available.
 
 ## Cross-References
 
-- [Bovine Rhodopsin (Dark State)](/xray-mp-wiki/proteins/bovine-rhodopsin/) — Primary chromophore binding partner; defines the visual pigment
-- [Rhodopsin N2C/D282C Mutant](/xray-mp-wiki/proteins/rhodopsin-n2c-d282c-mutant/) — Recombinant rhodopsin mutant requiring 11-cis-retinal for holoprotein formation
+- [Bovine Rhodopsin (Dark State)](/xray-mp-wiki/proteins/gpcr/bovine-rhodopsin/) — Primary chromophore binding partner; defines the visual pigment
+- [Rhodopsin N2C/D282C Mutant](/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/) — Recombinant rhodopsin mutant requiring 11-cis-retinal for holoprotein formation

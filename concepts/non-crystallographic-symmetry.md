@@ -1,12 +1,12 @@
 ---
 title: Non-Crystallographic Symmetry (NCS)
-created: 2026-06-03
-updated: 2026-06-03
+created: 2026-06-11
+updated: 2026-06-11
 type: concept
 category: concepts
 layout: default
 tags: [concept-crystallography-principle, xray-crystallography]
-sources: [doi/10.1038##nature10867, doi/10.1038##nature12357]
+sources: [doi/10.1107##S0907444908017162, doi/10.1038##nature10867, doi/10.1038##nature12357]
 verified: false
 ---
 

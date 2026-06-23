@@ -27,9 +27,9 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| [ABCG5](/xray-mp-wiki/proteins/abcg5/) | Not specified (molecular docking) | Stigmasterol docked on ABCG5/G8 using UCSF DOCK6 suite; shows asymmetric binding with more poses on ABCG5-dominant side; "C"-shaped pattern surrounding Y432 | Stigmasterol binds in two clusters partitioned between each monomer on ABCG5-dominant side; three binding pockets across both sides of transporter-membrane interface |
-| [ABCG8](/xray-mp-wiki/proteins/abcg8/) | Not specified (molecular docking) | Stigmasterol docked on ABCG5/G8 heterodimer; highest clusters of stigmasterol and cholesterol located on opposite sides of the transporter | Preferred association of stigmasterol on either side of the transporter-membrane interface; distinct from cholesterol binding pattern |
-| [ABCG1](/xray-mp-wiki/proteins/abcg1/) | Not specified (molecular docking) | Stigmasterol docked on ABCG1 for sterol selectivity comparison; shows similar binding conformations as cholesterol but with reduced poses | Decreased stigmasterol binding poses on ABCG1 compared to ABCG5/G8; suggests ABCG5/G8-specific phytosterol selectivity |
+| [ABCG5](/xray-mp-wiki/proteins/abc-transporters/abcg5/) | Not specified (molecular docking) | Stigmasterol docked on ABCG5/G8 using UCSF DOCK6 suite; shows asymmetric binding with more poses on ABCG5-dominant side; "C"-shaped pattern surrounding Y432 | Stigmasterol binds in two clusters partitioned between each monomer on ABCG5-dominant side; three binding pockets across both sides of transporter-membrane interface |
+| [ABCG8](/xray-mp-wiki/proteins/abc-transporters/abcg8/) | Not specified (molecular docking) | Stigmasterol docked on ABCG5/G8 heterodimer; highest clusters of stigmasterol and cholesterol located on opposite sides of the transporter | Preferred association of stigmasterol on either side of the transporter-membrane interface; distinct from cholesterol binding pattern |
+| [ABCG1](/xray-mp-wiki/proteins/abc-transporters/abcg1/) | Not specified (molecular docking) | Stigmasterol docked on ABCG1 for sterol selectivity comparison; shows similar binding conformations as cholesterol but with reduced poses | Decreased stigmasterol binding poses on ABCG1 compared to ABCG5/G8; suggests ABCG5/G8-specific phytosterol selectivity |
 
 ## Advantages and Disadvantages
 

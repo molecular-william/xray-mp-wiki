@@ -1,20 +1,20 @@
 ---
 title: LAPAO
-created: 2026-05-05
-updated: 2026-05-22
+created: 2026-06-11
+updated: 2026-06-11
 type: reagent
 category: reagents
 layout: default
-tags: [detergent-zwitterionic, detergent-mild]
+tags: [detergent-nonionic, solubilization-detergent, subdirectory-detergents]
 sources: [doi/10.1016##J.FEBSLET.2005.09.061]
+verified: false
 ---
 
 # LAPAO
 
 ## Overview
 
-LAPAO (3-laurylamido-N,N'-dimethylpropylaminoxyde) is a zwitterionic detergent used for extracting the [bovine mitochondrial ADP/ATP carrier](/xray-mp-wiki/proteins/bovine-adp-atp-carrier/) from heart muscle mitochondria. Used at 2% (w/v) during extraction, it preserves the protein-inhibitor complex with [carboxyatractyloside](/xray-mp-wiki/reagents/ligands/carryatractyloside/) and maintains endogenous [cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) binding critical for structural integrity. LAPAO is often compared with [LDAO](/xray-mp-wiki/reagents/detergents/lDAO/) and [DDM](/xray-mp-wiki/reagents/detergents/ddm/) for membrane protein extraction.
-
+LAPAO (3-laurylamido-N,N'-dimethylpropylaminoxyde) is a zwitterionic detergent used for extracting the [Bovine ADP/ATP Carrier](/xray-mp-wiki/proteins/slc-transporters/bovine-adp-atp-carrier/) from heart muscle mitochondria. Used at 2% (w/v) during extraction, it preserves the protein-inhibitor complex with carboxyatractyloside and maintains endogenous cardiolipin binding critical for structural integrity.
 
 ## Properties
 
@@ -34,6 +34,3 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
-
-
----

@@ -27,7 +27,7 @@ No specific use cases documented.
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
-| SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase 1a) | Present in crystallization buffer | Decavanadate used in crystallization buffer for formation of tubular crystals of SERCA in the absence of Ca2+. In the 2.6 A structure fitted to low-resolution map from tubular crystals, decavanadate was identified as binding in a groove between domains N and P near Asp 351 | Decavanadate binds like a ball in jaws between domains N and P, preventing domain closure. Arg 489, Lys 492 (domain N), and Arg 678 participate in binding, explaining its inhibitory effect on ATPase activity |
+| [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) (Sarcoplasmic Reticulum Ca2+-ATPase 1a) | Present in crystallization buffer | Decavanadate used in crystallization buffer for formation of tubular crystals of SERCA in the absence of Ca2+. In the 2.6 A structure fitted to low-resolution map from tubular crystals, decavanadate was identified as binding in a groove between domains N and P near Asp 351 | Decavanadate binds like a ball in jaws between domains N and P, preventing domain closure. Arg 489, Lys 492 (domain N), and Arg 678 participate in binding, explaining its inhibitory effect on ATPase activity |
 
 ## Advantages and Disadvantages
 
@@ -38,3 +38,5 @@ No advantages/disadvantages recorded.
 No comparison data available.
 
 ## Cross-References
+
+- [SERCA1a (Sarcoplasmic Reticulum Ca2+-ATPase)](/xray-mp-wiki/proteins/pumps-atpases/serca1a/) — Related protein structure

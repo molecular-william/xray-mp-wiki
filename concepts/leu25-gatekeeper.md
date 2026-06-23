@@ -26,9 +26,9 @@ The Leu25 gatekeeper is a conserved mechanism in the NSS (neurotransmitter:sodiu
 
 
 ## Cross-References
-- [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/leut/) — Leu25 gatekeeper mechanism defined in LeuT structures 5JAE, 5JAF, 5JAG
-- [Human Serotonin Transporter (SERT)](/xray-mp-wiki/proteins/ssert/) — Equivalent Leu99 in hSERT critical for transport rate
+- [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) — Leu25 gatekeeper mechanism defined in LeuT structures 5JAE, 5JAF, 5JAG
+- [Human Serotonin Transporter (SERT)](/xray-mp-wiki/proteins/slc-transporters/ssert/) — Equivalent Leu99 in hSERT critical for transport rate
 - [Neurotransmitter/Sodium Symporter (NSS) Family](/xray-mp-wiki/concepts/nss-family/) — Leu25 is completely conserved across all NSS family members
 - [LeuT Return State Mechanism](/xray-mp-wiki/concepts/leut-return-state-mechanism/) — Leu25 gatekeeper is integral to the return state mechanism
-- [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/d-dopamine-transporter/) — NSS family homolog with conserved Leu25 equivalent
+- [Drosophila Dopamine Transporter (dDAT)](/xray-mp-wiki/proteins/slc-transporters/d-dopamine-transporter/) — NSS family homolog with conserved Leu25 equivalent
 - [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism/) — Gatekeeper mechanism regulates alternating access transitions
