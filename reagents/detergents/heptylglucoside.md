@@ -1,7 +1,7 @@
 ---
-title: Heptylglucoside (HpG)
+title: "Heptylglucoside (HpG)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -19,12 +19,19 @@ Heptylglucoside (HpG, n-heptyl beta-D-glucopyranoside) is a nonionic detergent w
 
 ## Properties
 
-- **Chemical name**: n-heptyl beta-D-glucopyranoside
-- **Class**: nonionic detergent
 
 ## Use in Membrane Protein Work
 
-No specific use cases documented.
+### Model for odorant-receptor interaction in GPCRs
+
+HpG, along with other alkylglucosides (OG, NG), was tested for its ability to occupy the retinal-binding pocket of opsin (Ops*). HpG showed concentration-dependent inhibition of rhodopsin reconstitution above its CMC (~70 mM), indicating it enters the orthosteric ligand-binding pocket and can engage in hydrogen-bond interactions. This provides a structural model for how hydrophobic odorants enter olfactory receptors.
+
+
+### Crystallization additive for SeMet SeCitS
+
+HG (n-heptyl-β-D-glucopyranoside) was used at 2% as a crystallization additive for selenomethionine-derivatized SeCitS from Salmonella enterica. The SeMet SeCitS was supplemented with 2% HG and crystallized in 100 mM MES pH 6.5, 250 mM NaCl, 30% PEG400, yielding crystals that enabled structure determination at 3.9 Å by SAD phasing.
+
+
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
@@ -34,7 +41,17 @@ No specific use cases documented.
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Short alkyl chain (C7) allows HpG to fit into confined ligand-binding pockets, demonstrated by its ability to occupy the retinal-binding pocket of opsin as a structural model for odorant-GPCR interactions
+- Serves as an effective crystallization additive for membrane proteins, as shown for SeMet SeCitS where 2% HG yielded well-diffracting crystals
+- Useful for studying detergent-ligand competition in GPCR ligand-binding pockets
+
+### Disadvantages
+
+- High CMC (~70 mM) limits its use as a primary detergent for membrane protein solubilization compared to longer-chain detergents
+- Short hydrophobic tail provides limited hydrophobic matching with transmembrane domains, making it unsuitable for long-term stabilization of most membrane proteins
+- High concentrations required for micelle formation may interfere with protein behavior at elevated levels
 
 ## Comparison with Related Reagents
 

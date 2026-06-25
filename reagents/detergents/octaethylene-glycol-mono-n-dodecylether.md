@@ -1,7 +1,7 @@
 ---
-title: Octaethylene Glycol Mono-n-Dodecylether (C12E6)
+title: "Octaethylene Glycol Mono-n-Dodecylether (C12E6)"
 created: 2026-05-29
-updated: 2026-06-04
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -19,10 +19,17 @@ Octaethylene glycol mono-n-dodecylether (C12E6) is a nonionic detergent with a d
 
 ## Properties
 
+- **Chemical name**: Octaethylene glycol mono-n-dodecyl ether
+- **Molecular weight**: 538.8 g/mol
+- **Class**: detergent-nonionic
 
 ## Use in Membrane Protein Work
 
-No specific use cases documented.
+### SERCA1a solubilization and crystallization
+
+> C12E8 is used for solubilizing the sarcoplasmic reticulum Ca2+-ATPase (SERCA1a) from rabbit hind leg muscle prior to affinity column chromatography purification and crystallization. It enables the determination of high-resolution structures in multiple conformational states, including the Ca2+-bound (E1Ca2+) state at 2.6 Å, the thapsigargin-bound (E2) state at 3.1 Å, and the sarcolipin-bound E1 intermediate state at 3.1 Å.
+
+
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
@@ -32,7 +39,16 @@ No specific use cases documented.
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Mild nonionic detergent well-suited for preserving the functional integrity and ATPase activity of P-type ATPases like SERCA1a
+- Low CMC (~0.09 mM) enables use at low detergent concentrations, minimizing interference with crystallization
+- Long polyethylene glycol head group (8 EO units) provides steric stabilization of solubilized membrane proteins
+
+### Disadvantages
+
+- Relatively high cost compared to conventional detergents like DDM
+- Limited applicability — primarily characterized for P-type ATPases; may not be optimal for other membrane protein classes
 
 ## Comparison with Related Reagents
 

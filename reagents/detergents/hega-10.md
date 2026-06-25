@@ -1,7 +1,7 @@
 ---
-title: Decanoyl-N-Hydroxyethylglucamide (HEGA-10)
+title: "Decanoyl-N-Hydroxyethylglucamide (HEGA-10)"
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -20,6 +20,7 @@ Decanoyl-N-Hydroxyethylglucamide (HEGA-10) is a nonionic glucoside detergent use
 ## Properties
 
 - **Chemical name**: Decanoyl-N-hydroxyethylglucamide
+- **Molecular weight**: 377.5 g/mol
 - **Class**: nonionic glucoside detergent
 
 ## Use in Membrane Protein Work
@@ -37,7 +38,15 @@ HEGA-10 was used in combination with DDM for solubilizing the NavMs sodium chann
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Nonionic glucoside detergent that provides mild solubilization preserving protein stability during purification and crystallization
+- Effective in combination with DDM for solubilizing tetrameric voltage-gated sodium channels from E. coli membranes, enabling successful crystallization of drug-channel complexes (doi/10.1016##j.molcel.2020.12.048)
+
+### Disadvantages
+
+- Limited published data on its CMC and aggregation number relative to more widely used detergents like DDM and OG
+- Typically used in combination with other detergents (e.g., DDM) rather than as a standalone solubilizing agent, suggesting limited solubilization power alone
 
 ## Comparison with Related Reagents
 

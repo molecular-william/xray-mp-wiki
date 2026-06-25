@@ -1,7 +1,7 @@
 ---
-title: Glyco-diosgenin (GDN)
+title: "Glyco-diosgenin (GDN)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -42,7 +42,19 @@ GDN is used for solubilizing [PSI-LHCI from Chlamydomonas reinhardtii](/xray-mp-
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Mild nonionic detergent derived from natural steroidal sapogenin (diosgenin), suitable for stabilizing large, multi-subunit membrane protein supercomplexes
+- Improves cryo-EM particle quality and reduces background noise in micrographs compared to conventional detergents like beta-DDM
+- Can replace harsher detergents via sucrose density gradient ultracentrifugation without compromising complex integrity
+- Enables structural studies of photosynthetic supercomplexes by preserving native-like interactions during sample preparation
+
+### Disadvantages
+
+- Limited commercial availability and higher cost compared to standard maltoside detergents
+- Primarily characterized for photosynthetic complexes — applicability to other membrane protein classes less established
+- Steroidal ring system may not be compatible with all membrane protein targets
+- Relatively high molecular weight (~647 g/mol) compared to simple alkyl detergents
 
 ## Comparison with Related Reagents
 

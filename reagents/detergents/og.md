@@ -1,12 +1,12 @@
 ---
-title: n-Octyl beta-D-glucopyranoside (OG)
+title: "n-Octyl beta-D-glucopyranoside (OG)"
 created: 2026-06-02
-updated: 2026-06-11
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
 tags: [detergent-nonionic, solubilization-detergent, subdirectory-detergents]
-sources: [doi/10.1002##anie.201302374, doi/10.1016##j.jmb.2011.04.038, doi/10.1016##j.jmb.2011.06.028, doi/10.1016##j.jmb.2011.08.044, doi/10.1016##j.jmb.2007.02.070, doi/10.1002##1873-3468.14136, doi/10.1016##j.jsbmb.2022.106228, doi/10.1016##s0022-2836(03)00024-x, doi/10.1038##nature06925, doi/10.1038##nature12648, doi/10.1038##nature10917, doi/10.1038##nature09487, doi/10.1038##nsmb.1788, doi/10.1073##pnas.0811322106, doi/10.1073##pnas.0902725106, doi/10.7554##eLife.09375, doi/10.1371##journal.pone.0097475, doi/10.1016##S0022-2836(02)00681-2, doi/10.1038##NATURE01109]
+sources: [doi/10.1002##anie.201302374, doi/10.1016##j.jmb.2011.04.038, doi/10.1016##j.jmb.2011.06.028, doi/10.1016##j.jmb.2011.08.044, doi/10.1016##j.jmb.2007.02.070, doi/10.1002##1873-3468.14136, doi/10.1016##j.jsbmb.2022.106228, doi/10.1016##s0022-2836(03)00024-x, doi/10.1038##nature06925, doi/10.1038##nature12648, doi/10.1038##nature10917, doi/10.1038##nature09487, doi/10.1038##nsmb.1788, doi/10.1073##pnas.0811322106, doi/10.1073##pnas.0902725106, doi/10.7554##eLife.09375, doi/10.1371##journal.pone.0097475, doi/10.1016##S0022-2836(02)00681-2, doi/10.1038##NATURE01109, doi/10.1006##jmbi.1999.3027]
 verified: false
 ---
 
@@ -65,10 +65,27 @@ beta-Octylglucoside was used as the detergent medium for crystallizing HiTehA, t
 | [LeuBAT](/xray-mp-wiki/proteins/slc-transporters/leubat/) | 40 mM (SEC) | Delta13 LeuBAT size-exclusion chromatography for crystallization | Final purification buffer component for crystal growth |
 | [GadC Glutamate/GABA Antiporter](/xray-mp-wiki/proteins/slc-transporters/gadc/) | 2% (w/v) | Solubilization of E. coli membrane fraction containing GadC | Successful extraction of GadC into detergent micelles for subsequent purification |
 | [LeuT](/xray-mp-wiki/proteins/enzymes/leut/) | 40 mM (SEC), 1.17% (w/v) for crystallization | Crystallization detergent for all LeuT structures; binds in S2 site of extracellular vestibule | OG in S2 site blocks substrate binding and Na+-coupled symport; all LeuT structures represent functionally blocked forms |
+| [HiTehA](/xray-mp-wiki/proteins/other-ion-channels/hiteha/) | solubilization concentration in beta-octylglucoside | Crystallization of HiTehA bacterial anion channel in beta-octylglucoside using PEG600 or PEG400 as precipitant | Structure solved at 1.20 Å resolution; four OG molecules in asymmetric unit |
+| [Human Aquaporin 4](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-4/) | OG molecule bound in crystal structure | OG molecule found bound in hAQP4 crystal structure | Structural insight into aquaporin-detergent interactions |
+| [SeCitS](/xray-mp-wiki/proteins/slc-transporters/se-cits/) | crystallization additive | OG used as crystallization additive for SeCitS citrate/sodium symporter | Improved crystal quality for structure determination |
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Small micelle size (~26 kDa) makes OG suitable for NMR studies and certain crystallization applications where larger detergents would obscure protein surfaces
+- Readily removed by dialysis due to high CMC (20-28 mM), facilitating detergent exchange and proteoliposome reconstitution
+- Well-characterized behavior in crystallization screens with predictable phase behavior across a wide pH range
+- Can access and bind deep hydrophobic pockets of membrane proteins, providing structural insights into ligand-binding sites
+- Cost-effective compared to specialty detergents like LMNG or digitonin
+
+### Disadvantages
+
+- High CMC requires higher detergent concentrations for solubilization, increasing cost for large-scale preparations
+- Can bind non-specifically to hydrophobic protein pockets, potentially competing with native ligands or substrates
+- May partially denature sensitive membrane proteins due to relatively short C8 chain providing less hydrophobic stabilization
+- Forms relatively small micelles that may not fully accommodate large multi-domain membrane proteins or complexes
+- Not compatible with certain crystallization conditions where high OG concentrations lead to detergent phase separation
 
 ## Comparison with Related Reagents
 

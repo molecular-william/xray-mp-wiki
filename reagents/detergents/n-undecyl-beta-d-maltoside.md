@@ -1,7 +1,7 @@
 ---
-title: n-Undecyl-β-D-maltoside (UDM)
+title: "n-Undecyl-β-D-maltoside (UDM)"
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -31,7 +31,15 @@ UDM at 0.01% was used as the detergent for size-exclusion chromatography and cry
 No examples from this wiki.
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Shorter C11 alkyl chain produces smaller micelles compared to DDM (C12), which can improve crystal packing of membrane proteins
+- Closely related to DDM but with different micelle properties that may be beneficial for crystallization of specific targets
+
+### Disadvantages
+
+- Higher CMC (~0.59 mM) compared to DDM (~0.17 mM), requiring more detergent to maintain micellar concentration
+- May be less stabilizing than DDM for some membrane proteins due to shorter hydrophobic tail
 
 ## Comparison with Related Reagents
 

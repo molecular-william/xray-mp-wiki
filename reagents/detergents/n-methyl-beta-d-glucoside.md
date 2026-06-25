@@ -1,7 +1,7 @@
 ---
-title: n-Methyl-beta-D-glucoside (BNG)
+title: "n-Methyl-beta-D-glucoside (BNG)"
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -20,6 +20,7 @@ n-Methyl-beta-D-glucoside (BNG or NG) is a mild nonionic detergent with a methyl
 ## Properties
 
 - **Chemical name**: n-methyl-beta-D-glucopyranoside
+- **Molecular weight**: 194.2 g/mol
 - **Class**: nonionic alkyl glucoside
 
 ## Use in Membrane Protein Work
@@ -37,7 +38,16 @@ BNG at 0.8% was used to solubilize trimeric [LHC-II](/xray-mp-wiki/proteins/phot
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Mild nonionic detergent that preserves the native trimeric structure and pigment binding of LHC-II during solubilization
+- Compatible with icosahedral proteoliposome crystallization, enabling Type III membrane protein crystal formation
+- Short-chain glucoside allows easy removal by dialysis for reconstitution into lipid bilayers
+
+### Disadvantages
+
+- Short methyl chain provides limited hydrophobic stabilization, unsuitable for larger or more hydrophobic membrane proteins
+- Higher CMC relative to longer-chain detergents requires higher concentrations for effective solubilization
 
 ## Comparison with Related Reagents
 

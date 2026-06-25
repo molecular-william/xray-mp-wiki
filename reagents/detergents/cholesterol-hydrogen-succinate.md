@@ -1,7 +1,7 @@
 ---
-title: Cholesteryl Hemisuccinate (CHS)
+title: "Cholesteryl Hemisuccinate (CHS)"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -58,7 +58,18 @@ CHS was added at 0.2% during solubilization and 0.006% during purification (with
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Mimics the native cholesterol environment in cellular membranes, stabilizing membrane proteins by interacting with hydrophobic transmembrane regions
+- Widely used in combination with both DDM and LMNG for solubilization and purification of GPCRs, transporters, and proteases
+- Maintains membrane proteins in a functional, monodisperse state during multi-step purification workflows
+- Compatible with LCP crystallization — cholesterol can be incorporated at up to 6% (w/w) in the LCP matrix
+
+### Disadvantages
+
+- Not a standalone solubilizing detergent; must be used in combination with another detergent (e.g., DDM, LMNG) at controlled ratios
+- Concentration must be carefully titrated — typically 0.006–0.2% (w/v) depending on the stage — as excessive CHS can cause sample heterogeneity
+- Water-insoluble and must be co-dissolved with the primary detergent before addition to aqueous buffers
 
 ## Comparison with Related Reagents
 

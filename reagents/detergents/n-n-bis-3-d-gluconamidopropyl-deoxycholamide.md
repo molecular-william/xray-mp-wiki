@@ -1,7 +1,7 @@
 ---
-title: N,N-Bis-(3-D-gluconamidopropyl)deoxycholamide (DBC)
+title: "N,N-Bis-(3-D-gluconamidopropyl)deoxycholamide (DBC)"
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -20,6 +20,7 @@ N,N-Bis-(3-D-gluconamidopropyl)deoxycholamide (DBC) is a zwitterionic detergent 
 ## Properties
 
 - **Chemical name**: N,N-bis-(3-D-gluconamidopropyl)deoxycholamide
+- **Molecular weight**: ~878.0 g/mol
 - **Class**: zwitterionic bile acid derivative
 
 ## Use in Membrane Protein Work
@@ -37,7 +38,15 @@ DBC at 0.2% was included in the crystallization solution for sitting-drop vapor 
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Effective crystallization additive for membrane protein crystallography, promoting large well-ordered crystals in Type III proteoliposome assembly
+- Bile acid backbone provides unique detergent geometry that complements glucoside detergents in mixed micelle crystallization systems
+
+### Disadvantages
+
+- High molecular weight and complex structure make it more expensive and less available than conventional detergents
+- Zwitterionic bile acid derivative may not be compatible with all membrane protein targets; effectiveness is protein-dependent
 
 ## Comparison with Related Reagents
 

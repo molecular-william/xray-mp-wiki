@@ -1,7 +1,7 @@
 ---
-title: Tween-20 Polysorbate 20 Nonionic Detergent
+title: "Tween-20 Polysorbate 20 Nonionic Detergent"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -36,7 +36,16 @@ Used at 0.05% concentration in purification buffers for both [TcdA1 Toxin Comple
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Mild nonionic detergent that prevents aggregation of large multi-domain protein complexes during dialysis and size-exclusion chromatography
+- Compatible with high-resolution structural studies — used at 0.05% in Tc toxin purification buffers for both crystallography and cryo-EM
+- Low CMC (~0.06 mM) allows use at very low concentrations (0.05% w/v) minimizing interference with downstream applications
+
+### Disadvantages
+
+- Poor solubilizing ability for integral membrane proteins compared to alkyl maltoside detergents like DDM
+- Polydisperse composition as a mixture of fatty acid esters can introduce batch-to-batch variability
 
 ## Comparison with Related Reagents
 

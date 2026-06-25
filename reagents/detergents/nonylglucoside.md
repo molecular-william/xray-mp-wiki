@@ -1,7 +1,7 @@
 ---
-title: Nonylglucoside (NG)
+title: "Nonylglucoside (NG)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -43,7 +43,17 @@ Nonylglucoside (NG, n-nonyl beta-D-glucopyranoside) is a nonionic detergent with
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Short alkyl chain (C9) facilitates crystallization by reducing micelle size and increasing protein-detergent exchange rates, making NG suitable for crystallizing proteins where longer-chain detergents would interfere.
+- The glucose headgroup can co-crystallize in substrate-binding sites of sugar transporters, providing structural insights into substrate recognition, as observed in GLUT1 (inward-open conformation at 3.2 A) and FucP (outward-open conformation at 3.14 A) structures.
+- Intermediate behavior between OG (C8) and longer-chain detergents like DDM - more stabilizing than OG while still suitable for crystallization, as demonstrated in the opsin reconstitution inhibition studies.
+
+### Disadvantages
+
+- High CMC (~6.5 mM) compared to maltoside detergents like DDM (~0.17 mM) or LMNG (~0.15%), requiring higher detergent concentrations for solubilization and increasing cost for large-scale preparations.
+- Can bind in substrate-binding pockets of transporters (e.g., GLUT1, FucP), potentially inhibiting protein function and competing with physiological substrates during crystallization.
+- Shorter alkyl chain (C9) provides less hydrophobic stabilization than C10-C12 detergents, making it less suitable for inherently unstable membrane proteins.
 
 ## Comparison with Related Reagents
 

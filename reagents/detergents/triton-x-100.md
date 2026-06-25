@@ -1,7 +1,7 @@
 ---
-title: Triton X-100
+title: "Triton X-100"
 created: 2026-06-11
-updated: 2026-05-28
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -57,11 +57,26 @@ Triton X-100 was used at 3% w/v to solubilize Escherichia coli membrane proteins
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Highly effective for initial membrane solubilization - efficiently dissolves cellular membranes and exposes all protein surface residues for biochemical modification studies, as demonstrated for GlpG rhomboid protease L1 loop accessibility studies.
+- Low cost and widely available compared to specialized detergents like LMNG or DDM, making it suitable for large-scale membrane preparations and initial extraction steps.
+- Compatible with subsequent detergent exchange protocols - proteins initially solubilized in Triton X-100 can be exchanged into milder detergents for downstream purification and crystallization.
+
+### Disadvantages
+
+- Strong solubilizing properties can denature sensitive membrane proteins and disrupt protein-protein interactions, as the harsh hydrophobic interactions may extract lipids essential for protein stability.
+- High UV absorbance at 280 nm due to the aromatic ring in the octylphenyl group interferes with standard protein concentration measurements by spectrophotometry.
+- Not suitable for crystallography due to polydispersity and large micelle size - must be exchanged for milder, crystallography-compatible detergents like DDM, LMNG, or OG before crystallization trials.
+- Environmental and regulatory concerns - Triton X-100 is classified as a substance of very high concern (SVHC) under REACH due to the persistence of its degradation product, 4-tert-octylphenol.
 
 ## Comparison with Related Reagents
 
-No comparison data available.
+| detergent | comparison |
+|---|---|
+| DDM (n-Dodecyl-beta-D-maltopyranoside) | DDM is a milder, non-denaturing alternative to Triton X-100 for membrane protein solubilization. While Triton X-100 is more effective at extracting proteins from membranes, DDM is preferred for maintaining native protein conformation and is compatible with crystallography. DDM has low UV absorbance, unlike Triton X-100. |
+| LMNG (Lauryl Maltose Neopentyl Glycol) | LMNG provides superior stabilization for GPCRs and other sensitive membrane proteins compared to Triton X-100. Triton X-100 is more aggressive in solubilization but often denatures GPCRs, while LMNG maintains receptor activity and enables high-resolution structure determination. Triton X-100 is significantly less expensive. |
+| OG (n-Octyl-beta-D-glucopyranoside) | OG is a short-chain detergent commonly used for crystallization of bacterial membrane proteins, while Triton X-100 is primarily used for initial solubilization and functional studies. OG has a very high CMC (~18-20 mM) and is easy to remove by dialysis, unlike Triton X-100 which forms large micelles and is difficult to remove. |
 
 ## Cross-References
 

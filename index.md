@@ -1691,8 +1691,8 @@ common |
 | reagent | reagents/detergents/c8e4/ | Octyltetraoxyethylene (C8E4) | Octyltetraoxyethylene (C8E4, n-octyltetraoxyethylene) is a nonionic detergent wi |
 | reagent | reagents/detergents/chapso/ | CHAPSO | CHAPSO (3-[(3-cholamidopropyl)dimethylammonio]-2-hydroxy-1-propanesulfonate) is  |
 | reagent | reagents/detergents/cholesterol-hydrogen-succinate/ | Cholesteryl Hemisuccinate (CHS) | Cholesteryl hemisuccinate (CHS) is a cholesterol derivative used as a membrane p |
-| reagent | reagents/detergents/cymal-4/ | Cymal-4 | Cymal-4 (4-(1-cyclohexylbutoxy)-3-cyclohexyl-1-propanol) is a nonionic detergent |
-| reagent | reagents/detergents/cymal-6/ | Cymal-6 | Cymal-6 (6-(1-cyclohexylhexyloxy)-3-cyclohexyl-1-propanol) is a nonionic deterge |
+| reagent | reagents/detergents/cymal-4/ | Cymal-4 | Cymal-4 (4-cyclohexyl-1-butyl-beta-D-maltoside) is a short-chain nonionic deterg |
+| reagent | reagents/detergents/cymal-6/ | Cymal-6 | Cymal-6 (6-cyclohexyl-1-hexyl-beta-D-maltoside) is a nonionic detergent in the C |
 | reagent | reagents/detergents/ddm/ | n-Dodecyl-beta-D-maltopyranoside (DDM) | n-Dodecyl-β-D-maltopyranoside (DDM) is a nonionic, mild detergent widely used fo |
 | reagent | reagents/detergents/dhpc/ | 1,2-Dihexanoyl-sn-glycero-3-phosphocholine (DHPC) | DHPC (1,2-dihexanoyl-sn-glycero-3-phosphocholine) is a zwitterionic detergent de |
 | reagent | reagents/detergents/digitonin/ | Digitonin | Digitonin is a mild nonionic triterpene glycoside detergent extracted from the r |
@@ -1719,7 +1719,7 @@ common |
 | reagent | reagents/detergents/n-methyl-beta-d-glucoside/ | n-Methyl-beta-D-glucoside (BNG) | n-Methyl-beta-D-glucoside (BNG or NG) is a mild nonionic detergent with a methyl |
 | reagent | reagents/detergents/n-n-bis-3-d-gluconamidopropyl-deoxycholamide/ | N,N-Bis-(3-D-gluconamidopropyl)deoxycholamide (DBC) | N,N-Bis-(3-D-gluconamidopropyl)deoxycholamide (DBC) is a zwitterionic detergent  |
 | reagent | reagents/detergents/n-nonyl-beta-d-glucopyranoside/ | n-Nonyl-beta-D-Glucopyranoside (Nonyl Glucoside) | n-Nonyl-beta-D-glucopyranoside (nonyl glucoside, NG) is a nonionic detergent wit |
-| reagent | reagents/detergents/n-octyl-beta-d-glucopyranoside/ | n-Octyl-beta-D-Glucopyranoside (OG) | n-Octyl-beta-D-glucopyranoside (octylglucoside) is a nonionic detergent used in  |
+| reagent | reagents/detergents/n-octyl-beta-d-glucopyranoside/ | n-Octyl-beta-D-Glucopyranoside (OG) | n-Octyl-beta-D-glucopyranoside (octylglucoside, OG) is a mild nonionic detergent |
 | reagent | reagents/detergents/n-octyl-beta-d-maltoside/ | n-Octyl-beta-D-maltoside (OM) | n-Octyl-beta-D-maltoside (OM) is a nonionic detergent with an octyl (C8) alkyl c |
 | reagent | reagents/detergents/n-undecyl-beta-d-maltoside/ | n-Undecyl-β-D-maltoside (UDM) | n-Undecyl-β-D-maltoside (UDM) is a nonionic detergent with an 11-carbon alkyl ch |
 | reagent | reagents/detergents/nm/ | n-Nonyl-beta-D-maltopyranoside (NM) | n-Nonyl-beta-D-maltopyranoside (NM) is a nonionic maltoside detergent with a 9-c |
@@ -1731,7 +1731,7 @@ common |
 | reagent | reagents/detergents/ogng/ | Octyl Glucose Neopentyl Glycol (OGNG) | Octyl [Glucose](/xray-mp-wiki/reagents/additives/glucose/) neopentyl glycol (OGN |
 | reagent | reagents/detergents/sodium-cholate/ | Sodium Cholate | Sodium cholate is an anionic bile salt detergent commonly used as a co-detergent |
 | reagent | reagents/detergents/sucrose-monododecanoate/ | Sucrose Monododecanoate (SM) | [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) monododecanoate (SM) is a non |
-| reagent | reagents/detergents/thesit/ | Thesit (Polyoxyethylene 9-dodecyl ether) | C12E9 is a nonionic surfactant consisting of a dodecyl (C12) alkyl chain attache |
+| reagent | reagents/detergents/thesit/ | Thesit (Polyoxyethylene 9-dodecyl ether) | Thesit (polyoxyethylene 9-dodecyl ether), also known as C12E9 or dodecyl nonaoxy |
 | reagent | reagents/detergents/tridecylmaltoside/ | Tridecyl Maltoside (TDM) | Tridecyl maltoside (TDM) is a mild nonionic detergent with a 13-carbon alkyl cha |
 | reagent | reagents/detergents/triton-x-100/ | Triton X-100 | Triton X-100 is a nonionic octylphenyl polyethoxylate detergent used for solubil |
 | reagent | reagents/detergents/tween-20/ | Tween-20 Polysorbate 20 Nonionic Detergent | Tween-20 (polysorbate 20) is a nonionic detergent used at low concentrations (0. |

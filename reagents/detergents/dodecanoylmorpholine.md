@@ -1,7 +1,7 @@
 ---
-title: Dodecanoylmorpholine (DM)
+title: "Dodecanoylmorpholine (DM)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -20,7 +20,8 @@ Dodecanoylmorpholine (DM) is a nonionic surfactant commonly used as a mild deter
 ## Properties
 
 - **Chemical name**: dodecanoylmorpholine
-- **Class**: detergent
+- **Molecular weight**: 285.47 g/mol
+- **Class**: detergent-nonionic
 
 ## Use in Membrane Protein Work
 
@@ -34,7 +35,16 @@ DM was used to solubilize and purify the NaK nonselective cation channel from Ba
 No examples from this wiki.
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Preserves ion channel function during purification and reconstitution — NaK channels purified in DM retain activity in 86Rb flux assays
+- Suitable for reconstitution into lipid vesicles — DM can be removed by dialysis after lipid solubilization at 10 mM, enabling functional studies in POPE/POPG liposomes
+- Mild nonionic detergent that maintains native oligomeric state of membrane proteins
+
+### Disadvantages
+
+- Relatively high CMC (~1.5 mM) compared to longer-chain detergents like DDM, requiring higher concentrations for solubilization
+- Limited availability and higher cost relative to standard detergents like DDM or OG
 
 ## Comparison with Related Reagents
 

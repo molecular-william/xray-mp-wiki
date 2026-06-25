@@ -1,7 +1,7 @@
 ---
-title: FA-3 (Facade-EM Facial Amphiphile)
+title: "FA-3 (Facade-EM Facial Amphiphile)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -20,6 +20,7 @@ FA-3 (Facade-EM, 3alpha-hydroxy-7alpha,12alpha-di-((O-beta-D-maltosyl)-2-hydroxy
 ## Properties
 
 - **Chemical name**: 3alpha-hydroxy-7alpha,12alpha-di-((O-beta-D-maltosyl)-2-hydroxyethoxy)-cholane
+- **Molecular weight**: "~1250 g/mol"
 - **Class**: Facial amphiphile (bile acid-derived)
 
 ## Use in Membrane Protein Work
@@ -37,7 +38,18 @@ FA-3 was used at 0.04 wt% (0.36 mM) for MsbA crystallization. The detergent was 
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Superior thermal stability compared to conventional detergents — MsbA in FA-3 has a Tm of ~57°C vs UDM and LMNG (Figure 2E)
+- Maintains ATPase activity comparable to lipid bilayer conditions — MsbA in FA-3 shows ~200 nmol/min/mg activity, similar to MSP1D1 nanodiscs (Figure 2B)
+- Facial amphiphile architecture provides a more membrane-like environment than conventional micelle-forming detergents
+- Lacks the strong dissolving power of phospholipids for lipid A, helping retain native lipid substrates at binding sites during crystallization
+
+### Disadvantages
+
+- Complex multi-step synthesis as a bile acid-derived facial amphiphile makes it more expensive and less accessible than conventional detergents
+- Limited solubilizing power for some membrane proteins compared to conventional detergents like DDM
+- Weak dissolving power for lipids means it may not be suitable for extracting membrane proteins directly from native membranes without pre-solubilization
 
 ## Comparison with Related Reagents
 

@@ -1,7 +1,7 @@
 ---
-title: Decylphosphocholine (DPC)
+title: "Decylphosphocholine (DPC)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -19,6 +19,7 @@ Decylphosphocholine ([DPC](/xray-mp-wiki/reagents/detergents/dodecylphosphocholi
 
 ## Properties
 
+- **Molecular weight**: 335.5 g/mol
 - **Class**: zwitterionic detergent (phosphocholine)
 
 ## Use in Membrane Protein Work
@@ -36,7 +37,16 @@ Decylphosphocholine ([DPC](/xray-mp-wiki/reagents/detergents/dodecylphosphocholi
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Enables clear NMR discrimination between Inward_open and Inward_closed conformations of the M2 proton channel — the Trp41 indole proton peak shifts from ~10.2 ppm to ~11.0 ppm between states
+- Supports functional inhibitor binding studies — the small molecule WJ10 almost fully shifts the M2 conformational equilibrium to the Inward_closed state in DPC
+- Zwitterionic headgroup mimics natural phospholipids, providing a membrane-mimetic environment suitable for solution NMR of transmembrane peptides and proteins
+
+### Disadvantages
+
+- Short C10 chain may not stabilize larger membrane protein complexes as effectively as longer-chain phosphocholine detergents
+- Zwitterionic nature can interfere with some biochemical assays and may not be suitable for crystallization of all membrane protein targets
 
 ## Comparison with Related Reagents
 

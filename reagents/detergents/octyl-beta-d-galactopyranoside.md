@@ -1,7 +1,7 @@
 ---
-title: Octyl-beta-D-galactopyranoside
+title: "Octyl-beta-D-galactopyranoside"
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -19,10 +19,17 @@ Octyl-beta-D-galactopyranoside is a nonionic galactoside detergent used in membr
 
 ## Properties
 
+- **Chemical name**: Octyl-beta-D-galactopyranoside
+- **Molecular weight**: 292.4 g/mol
+- **Class**: detergent-nonionic
 
 ## Use in Membrane Protein Work
 
-No specific use cases documented.
+### MelB crystallization additive
+
+Octyl-beta-D-galactopyranoside was used at 0.08% in the crystallization reservoir solution for MelBSt (Salmonella typhimurium melibiose permease) hanging-drop vapor-diffusion experiments. The galactose head group contributed to crystallization by potentially participating in specific protein-ligand interactions.
+
+
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
@@ -31,7 +38,16 @@ No specific use cases documented.
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Galactose head group can form specific interactions with sugar-binding proteins, useful for galactoside transporters like MelB
+- Effective at low concentrations (0.08%) as a crystallization additive
+- Structurally similar to OG (octyl-glucoside) but with different sugar specificity
+
+### Disadvantages
+
+- Relatively high CMC (~25 mM) limits use in protein purification compared to longer-chain detergents
+- Less commonly used than OG, so less characterized in membrane protein applications
 
 ## Comparison with Related Reagents
 

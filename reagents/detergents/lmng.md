@@ -1,7 +1,7 @@
 ---
-title: Lauryl Maltose Neopentyl Glycol (LMNG)
+title: "Lauryl Maltose Neopentyl Glycol (LMNG)"
 created: 2026-06-03
-updated: 2026-06-04
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -26,7 +26,26 @@ LMNG (lauryl maltose neopentyl glycol, also known as MNG or MNG-3) is a nonionic
 
 ## Use in Membrane Protein Work
 
-No specific use cases documented.
+### GPCR stabilization and purification
+
+LMNG is extensively used for stabilizing G protein-coupled receptors (GPCRs) during solubilization and purification. It maintains receptor activity and ligand-binding capacity better than conventional detergents like DDM. The neopentyl glycol (NG) moiety provides enhanced hydrophobic matching with GPCR transmembrane domains, reducing receptor denaturation.
+
+
+### Membrane protein crystallization in lipidic cubic phase
+
+LMNG is commonly combined with cholesterol hemisuccinate (CHS) for crystallizing membrane proteins, particularly GPCRs, in lipidic cubic phase (LCP). The LMNG/CHS mixed micelle system helps maintain protein monodispersity and stability during crystallization, enabling structure determination of difficult targets like the sigma-1 receptor, SMO, and AT1R.
+
+
+### Sigma-1 receptor solubilization and crystallization
+
+Used at 1% w/v with 0.1% CHS for solubilization of the human sigma-1 receptor from Sf9 insect cell membranes. Purification buffers contained 0.01% LMNG and 0.001% CHS. The LMNG/CHS system enabled successful crystallization and structure determination of the sigma-1 receptor in complex with PD144418 and 4-IBP at 2.5-3.2 A resolution.
+
+
+### LeuBAT (engineered neurotransmitter transporter) purification
+
+LMNG (MNG-3) was used at 1% for solubilization and 0.02% for purification of LeuBAT mutants for antidepressant-bound structure determination. Cell membranes were solubilized in 1% MNG-3 and purified by IMAC in the presence of 0.02% MNG-3 before exchange into OG for crystallization.
+
+
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
@@ -40,7 +59,18 @@ No specific use cases documented.
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- More stabilizing than DDM for GPCRs - maintains ligand-binding activity and receptor monodispersity during purification and crystallization, as demonstrated for multiple GPCRs including rhodopsin-arrestin complexes and the sigma-1 receptor.
+- Lower CMC (~0.15% or ~2.8 microM) than DDM, allowing use at lower detergent concentrations for crystallization and reducing background interference.
+- The neopentyl glycol linker provides conformational restraint that reduces detergent polydispersity and improves protein stability compared to conventional maltoside detergents with flexible linkers.
+- Compatible with CHS supplementation for enhanced GPCR stabilization, enabling crystallization of challenging receptors in active conformations.
+
+### Disadvantages
+
+- Significantly higher cost compared to conventional detergents like DDM, limiting use in large-scale preparative applications.
+- Forms relatively small micelles, which may not effectively solubilize very large membrane protein complexes or supramolecular assemblies.
+- Optimal GPCR stabilization often requires supplementation with CHS, adding complexity to buffer optimization.
 
 ## Comparison with Related Reagents
 

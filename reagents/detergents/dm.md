@@ -1,7 +1,7 @@
 ---
-title: n-Decyl-beta-D-Maltoside (DM)
+title: "n-Decyl-beta-D-Maltoside (DM)"
 created: 2026-06-05
-updated: 2026-06-10
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -19,20 +19,59 @@ Decyl-β-D-maltoside (DM) is a mild nonionic detergent with a 10-carbon alkyl ch
 
 ## Properties
 
+- **Chemical name**: n-Decyl-beta-D-maltopyranoside
+- **Chemical formula**: C22H42O11
+- **Molecular weight**: 482.5 g/mol
+- **Class**: nonionic alkyl maltoside
 
 ## Use in Membrane Protein Work
 
-No specific use cases documented.
+### Membrane protein extraction and purification
+
+> DM is used at 1-2% (w/v) for membrane extraction and 0.25% (w/v) in purification buffers. ScaDMT purified in DM was shown to be monomeric by multiangle light scattering (MALS), demonstrating DM's ability to maintain monodisperse protein samples suitable for structural studies.
+
+
+### Crystallization detergent for transport proteins
+
+> DM has been used as the primary detergent for crystallization of ScaDMT (SLC11/NRAMP family transporter). The protein was purified and crystallized in DM-containing buffers, yielding crystals that allowed structure determination of this transition-metal ion transporter.
+
+
+### Segregated detergent phase for SeCitS crystallization
+
+> DM was used as the crystallization detergent for SeCitS citrate/sodium symporter. The structure of SeCitS, solved at 2.5 Å, revealed three different conformations of the active protomer, providing unprecedented mechanistic insight into Na+-driven transport.
+
+
+### Multi-step purification of membrane proteins
+
+> DM is employed throughout multi-step purification workflows including IMAC and SEC. It has been used in combination with other detergents for the purification of the mjS2P intramembrane metalloprotease and Fluc-Ec2 fluoride channel.
+
+
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
 |---|---|---|---|
 | ScaDMT | 1-2% (w/v) for extraction, 0.25% (w/v) for purification and SEC buffers | Membrane protein extraction from E. coli vesicles; purification by IMAC and SEC | ScaDMT purified as monomer in DM; used in crystallization and functional assays |
 | ScaDMT | 0.25% (w/v) in HEPES buffer for SEC | Size-exclusion chromatography on Superdex S200 column | Peak fractions pooled for crystallization and transport assays |
+| [SeCitS](/xray-mp-wiki/proteins/slc-transporters/se-cits/) | 0.25% (w/v) | Crystallization of SeCitS citrate/sodium symporter from S. enterica in DM | Structure solved at 2.5 Å showing three conformations of active protomer |
+| [Fluc-Ec2](/xray-mp-wiki/proteins/other-ion-channels/fluc-ec2/) | 0.25% (w/v) | Purification of E. coli Fluc-Ec2 fluoride ion channel | Purified protein suitable for structural and functional studies |
+| [mjS2P](/xray-mp-wiki/proteins/enzymes/mjs2p/) | DM as primary crystallization detergent | Primary crystallization detergent for mjS2P intramembrane metalloprotease from M. jannaschii | Crystals obtained for structure determination of Site-2 protease family |
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Milder than shorter-chain detergents like OG, preserving protein activity better during purification
+- Higher CMC than DDM (~1.8 mM vs ~0.17 mM), enabling easier removal by dialysis
+- Smaller micelle size than DDM, making it more suitable for NMR and certain crystallization applications
+- Proven track record for producing monomeric, monodisperse membrane protein preparations
+- Effective at moderate concentrations (0.1-0.5% w/v) for maintaining protein stability
+
+### Disadvantages
+
+- Shorter C10 tail provides less hydrophobic matching than DDM for proteins with large transmembrane domains
+- Higher CMC than longer-chain detergents, requiring higher concentrations for solubilization
+- May be too mild for complete extraction of some integral membrane proteins from native membranes
+- Less commonly used for GPCR crystallization compared to DDM or LMNG
 
 ## Comparison with Related Reagents
 

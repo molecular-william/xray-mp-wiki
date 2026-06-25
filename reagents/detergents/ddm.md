@@ -1,7 +1,7 @@
 ---
-title: n-Dodecyl-beta-D-maltopyranoside (DDM)
+title: "n-Dodecyl-beta-D-maltopyranoside (DDM)"
 created: 2026-06-08
-updated: 2026-06-16
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -19,6 +19,10 @@ n-Dodecyl-β-D-maltopyranoside (DDM) is a nonionic, mild detergent widely used f
 
 ## Properties
 
+- **Chemical name**: n-Dodecyl-beta-D-maltopyranoside
+- **Chemical formula**: C24H46O11
+- **Molecular weight**: 510.6 g/mol
+- **Class**: nonionic alkyl maltoside
 
 ## Use in Membrane Protein Work
 
@@ -32,6 +36,16 @@ DDM is commonly used at low concentrations (0.03-0.2% w/v) in crystallization se
 DDM is frequently used throughout purification workflows, including affinity chromatography and size-exclusion chromatography steps, to maintain membrane protein integrity in detergent solution.
 
 
+### Membrane protein extraction
+
+> Used at 1% (w/v) for initial membrane solubilization of various membrane proteins including GPCRs and transporters. In the hGPR40 study, DDM was used at 1% (w/v) for membrane solubilization of the triple mutant T4L fusion protein prior to exchange to LMNG during IMAC purification.
+
+
+### Substrate-binding pocket probe
+
+> A single DDM molecule was found bound in the active site of NmEptA lipid A phosphoethanolamine transferase, occupying the substrate-binding pocket. The carbohydrate moiety of DDM formed hydrogen bonds with invariant residues in the PH2 and PH2' helices, providing insights into substrate recognition by membrane enzymes.
+
+
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
@@ -42,6 +56,8 @@ DDM is frequently used throughout purification workflows, including affinity chr
 | [MurJ_TA](/xray-mp-wiki/proteins/abc-transporters/murj-ta-thermosiphon-africanus/) | 30 mM | Membrane extraction of MurJ_TA prior to cobalt affinity chromatography | Solubilized MurJ_TA for purification and crystallization |
 | [Vcx1](/xray-mp-wiki/proteins/slc-transporters/vcx1/) | 1:0.19 (w/w) DDM:protein for solubilization; 0.1% in affinity buffers; 0.03% in SEC | Solubilization of Vcx1 from S. cerevisiae membranes; maintained in DDM throughout purification and crystallization | Purified Vcx1 suitable for LCP crystallization and structure determination at 2.3 Å resolution |
 | [NmEptA](/xray-mp-wiki/proteins/enzymes/nm-epta/) | Purified in DDM throughout | Solubilization, Ni-NTA purification, and SEC of NmEptA from N. meningitidis; DDM-bound structure at 2.75 Å | Active full-length enzyme suitable for X-ray crystallography and biophysical studies |
+| [CCR9](/xray-mp-wiki/proteins/gpcr/ccr9-receptor/) | 0.1% (w/v) in LCP crystallization | CCR9-StaR thermostabilized receptor crystallized in LCP with DDM as detergent throughout purification | Structure of CCR9 in complex with allosteric antagonist vercirnon at 2.8 Å |
+| [CmeB](/xray-mp-wiki/proteins/other-ion-channels/cmeb/) | purification concentration | Purification of C. jejuni CmeB multidrug efflux pump for X-ray crystallography and smFRET studies | Two distinct conformations of CmeB trimer captured; insight into independent protomer function |
 
 ## Advantages and Disadvantages
 
@@ -51,12 +67,19 @@ DDM is frequently used throughout purification workflows, including affinity chr
 - Well-characterized and reproducible membrane protein purification
 - High CMC (~0.17 mM) enabling easy removal by dialysis or detergent exchange
 - Compatible with a wide range of crystallization conditions
+- Forms well-ordered micelles (~70 kDa) suitable for NMR studies of membrane proteins
+- Compatible with both vapor-diffusion and lipidic cubic phase crystallization methods
+- Extensively characterized and understood in terms of membrane protein extraction efficiency
+- Effective at relatively low concentrations (0.03-0.2% w/v) for crystallization
 
 ### Disadvantages
 
 - Forms large micelles that may interfere with certain crystallization methods
 - Relatively large micelle size (~70 kDa) can obscure small protein domains in NMR
 - Not suitable for membrane protein mass spectrometry due to signal suppression
+- Cannot be used directly for mass spectrometry-based membrane protein studies without detergent removal or exchange
+- May interfere with lipid-mediated protein-protein interactions by delipidation during purification
+- Forms large detergent belt that may mask functionally important hydrophobic surface regions
 
 ## Comparison with Related Reagents
 

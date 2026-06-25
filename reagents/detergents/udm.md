@@ -1,7 +1,7 @@
 ---
-title: n-Undecyl-beta-D-maltoside (UDM)
+title: "n-Undecyl-beta-D-maltoside (UDM)"
 created: 2026-06-04
-updated: 2026-06-08
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -19,10 +19,22 @@ n-Undecyl-beta-D-maltoside ([UDM](/xray-mp-wiki/reagents/detergents/udm/)) is a 
 
 ## Properties
 
+- **Chemical name**: n-Undecyl-beta-D-maltopyranoside
+- **Molecular weight**: ~496.6 g/mol
+- **Class**: detergent-nonionic
 
 ## Use in Membrane Protein Work
 
-No specific use cases documented.
+### Membrane protein solubilization and purification
+
+> UDM is used for membrane extraction of MFS transporters such as MelBSt at 1.5% (w/v), followed by maintenance at lower concentrations (0.035%) during cobalt-affinity chromatography. The maltoside headgroup provides mild solubilization suitable for maintaining transporter activity and stability during purification.
+
+
+### Crystallization additive for membrane proteins
+
+> UDM was used together with DDM in the crystallization of the E. hirae V-ATPase K ring (NtpK10 ring). UDM molecules were resolved at crystal contact sites, with the maltose ring visible in electron density maps, while the undecyl moieties appeared as elongated features at some sites and were disordered at others.
+
+
 ## Examples from This Wiki
 
 | Protein | Concentration | Context | Result |
@@ -31,7 +43,17 @@ No specific use cases documented.
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Mild non-ionic maltoside detergent suitable for membrane protein purification and crystallization
+- Slightly shorter alkyl chain (C11) than DDM (C12), providing different solubilization properties for hydrophobic matching
+- Effective for solubilization of MFS transporters at moderate detergent concentrations
+
+### Disadvantages
+
+- Less commonly used than DDM (C12) — fewer characterization data available
+- C11 chain may not be optimal for all membrane protein targets
+- Higher CMC than DDM, requiring higher concentrations for solubilization
 
 ## Comparison with Related Reagents
 

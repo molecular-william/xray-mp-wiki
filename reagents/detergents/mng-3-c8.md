@@ -1,7 +1,7 @@
 ---
-title: Maltose Neopentyl Glycol 3-C8 (MNG-3-C8)
+title: "Maltose Neopentyl Glycol 3-C8 (MNG-3-C8)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -19,6 +19,8 @@ MNG-3-C8 is a [Maltose](/xray-mp-wiki/reagents/additives/maltose/) neopentyl gly
 
 ## Properties
 
+- **Chemical name**: Maltose Neopentyl Glycol 3-C8
+- **Molecular weight**: ~1031.2 g/mol
 - **Class**: non-ionic detergent ([Maltose](/xray-mp-wiki/reagents/additives/maltose/) neopentyl glycol family)
 
 ## Use in Membrane Protein Work
@@ -36,7 +38,19 @@ MNG-3-C8 was identified as the detergent that selectively stabilizes the Inward_
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Selectively stabilizes specific conformational states of membrane proteins — enables trapping of conformational states inaccessible with conventional detergents
+- Non-ionic and mild, suitable for both solution NMR screening and LCP crystallization
+- Enables crystallization of previously intractable protein targets (e.g., M2 S31N Inward_closed state)
+- Additional hydrophobic tail length relative to shorter MNG variants enhances stabilization of certain conformational states
+
+### Disadvantages
+
+- High molecular weight (~1031 g/mol) compared to conventional detergents like DDM (~511 g/mol)
+- Not as widely available or characterized as LMNG or conventional maltoside detergents
+- Conformational stabilization properties are protein-dependent — may not be universally applicable
+- Higher cost than conventional detergents
 
 ## Comparison with Related Reagents
 

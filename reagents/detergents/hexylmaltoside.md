@@ -1,7 +1,7 @@
 ---
-title: Hexyl Maltoside (HxM)
+title: "Hexyl Maltoside (HxM)"
 created: 2026-05-18
-updated: 2026-06-11
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -42,7 +42,17 @@ HxM showed almost no inhibitory effect on rhodopsin reconstitution from [OPSIN](
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Minimal interference with ligand-receptor interactions — HxM showed almost no inhibitory effect on rhodopsin reconstitution from opsin, unlike longer-chain maltosides
+- Very mild detergent due to short C6 alkyl chain, making it suitable for fragile or sensitive membrane proteins
+- Useful as a control in structure-activity relationship studies of detergent binding to GPCR ligand-binding pockets
+
+### Disadvantages
+
+- Short C6 hydrocarbon chain limits solubilization efficiency for hydrophobic membrane proteins compared to longer-chain detergents like DDM
+- High CMC (~15 mM) requires relatively high detergent concentrations for effective solubilization
+- May not adequately stabilize larger membrane protein complexes or multi-subunit assemblies
 
 ## Comparison with Related Reagents
 

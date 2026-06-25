@@ -1,7 +1,7 @@
 ---
-title: Tetradecylbetaine (C14-betaine)
+title: "Tetradecylbetaine (C14-betaine)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -19,6 +19,8 @@ Tetradecylbetaine (C14-betaine) is a zwitterionic detergent with a tetradecyl (C
 
 ## Properties
 
+- **Chemical name**: Tetradecylbetaine
+- **Molecular weight**: 285.5 g/mol
 - **Class**: zwitterionic detergent (betaine)
 
 ## Use in Membrane Protein Work
@@ -36,7 +38,16 @@ C14-betaine was used as the detergent medium for quantitative NMR pH titration e
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Uniquely enables interconversion between Inward_open and Inward_closed conformational states of the influenza A M2 proton channel within the physiological pH range, allowing quantitative NMR pH titration experiments without requiring inhibitors (doi/10.1021##jacs.9b02196)
+- Both conformational states of M2 are observable in C14-betaine in the absence of any drugs, providing a detergent medium that preserves the native-like conformational equilibrium of the channel (doi/10.1021##jacs.9b02196)
+- The betaine head group is zwitterionic and charge-neutral across a wide pH range, making it suitable for pH-dependent biophysical studies
+
+### Disadvantages
+
+- Specific to M2 channel studies in the source literature; limited data on its general utility for crystallizing other membrane protein targets
+- The C14 tail may form relatively large micelles that could interfere with crystallization of small or monomeric membrane proteins
 
 ## Comparison with Related Reagents
 

@@ -1,7 +1,7 @@
 ---
-title: Lysophosphatidylcholine Phosphatidylglycerol (LPPG)
+title: "Lysophosphatidylcholine Phosphatidylglycerol (LPPG)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-23
 type: reagent
 category: reagents
 layout: default
@@ -19,6 +19,8 @@ LPPG is a zwitterionic lipid-based detergent used in solution NMR studies of mem
 
 ## Properties
 
+- **Chemical name**: 1-palmitoyl-2-hydroxy-sn-glycero-3-phospho-(1-rac-glycerol)
+- **Molecular weight**: ~484.6 g/mol
 - **Class**: zwitterionic detergent (lipid-based)
 
 ## Use in Membrane Protein Work
@@ -36,7 +38,15 @@ LPPG was used in solution NMR experiments to screen detergents for their effects
 
 ## Advantages and Disadvantages
 
-No advantages/disadvantages recorded.
+### Advantages
+
+- Exclusively stabilizes the Inward_open conformational state of the M2 proton channel, allowing unambiguous study of this state by solution NMR
+- Conformational preference for Inward_open is maintained even in the presence of inhibitors such as amantadine
+
+### Disadvantages
+
+- Strong bias toward the Inward_open conformation limits its utility for studying the Inward_closed state or conformational equilibria
+- Not compatible with crystallization of the Inward_closed conformation; alternative detergents such as MNG-3-C8 are required for that purpose
 
 ## Comparison with Related Reagents
 
