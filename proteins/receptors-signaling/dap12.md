@@ -1,7 +1,7 @@
 ---
 title: "DAP12 (CD331)"
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,53 +16,298 @@ verified: false
 
 DAP12 (Discoidin Domain-Related Protein 12, also known as CD331 or KARAP) is a eukaryotic immunoreceptor signaling module that lacks a structured ectodomain. It associates with various client receptors to form hetero-oligomeric complexes in the endoplasmic reticulum, enabling activating immune receptor signaling. The transmembrane domain of DAP12 forms homo-oligomers (dimers, trimers, tetramers) through polar interactions between aspartic acid and threonine motifs, and also hetero-oligomerizes with client receptors via a central lysine residue in the receptor TM domain. This paper presents the first crystal structures of DAP12 transmembrane oligomers determined in a lipidic cubic phase membrane environment.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.celrep.2015.04.045 | 4WOL | 1.77 A | Not specified | Human DAP12 transmembrane peptide (33 amino acids, beginning from second extracellular cysteine, sequence CSTVSPGVLAGIVVGDLVLTVLIALAVYFLGRL), disulfide-linked dimer precursor | Coordinated potassium ion at the aspartic acid/threonine polar core |
-| doi/10.1016##j.celrep.2015.04.045 | 4WO1 | 2.14 A | Not specified | Human DAP12 transmembrane peptide (33 amino acids, beginning from second extracellular cysteine), disulfide-linked dimer precursor | Coordinated calcium ion(s) at the aspartic acid/threonine polar core |
+### doi/10.1016##j.celrep.2015.04.045
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4wol">4WOL</a></td>
+      <td>1.77 A</td>
+      <td>Not specified</td>
+      <td>Human DAP12 transmembrane peptide (33 amino acids, beginning from second extracellular cysteine, sequence CSTVSPGVLAGIVVGDLVLTVLIALAVYFLGRL), disulfide-linked dimer precursor</td>
+      <td>Coordinated potassium ion at the aspartic acid/threonine polar core</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4wo1">4WO1</a></td>
+      <td>2.14 A</td>
+      <td>Not specified</td>
+      <td>Human DAP12 transmembrane peptide (33 amino acids, beginning from second extracellular cysteine), disulfide-linked dimer precursor</td>
+      <td>Coordinated calcium ion(s) at the aspartic acid/threonine polar core</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli (trpLE fusion system)
 - **Construct**: DAP12-TM peptide (33 amino acids) produced as a trpLE fusion, disulfide-linked through N-terminal cysteine, cyanogen bromide digested, HPLC purified
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Fusion protein expression</td>
+      <td>Expression in E. coli</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>DAP12-TM peptide produced as trpLE fusion in E. coli</td>
+    </tr>
+    <tr>
+      <td>Disulfide-linked dimer formation</td>
+      <td>Refolding</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>Disulfide-linked through N-terminal cysteine</td>
+    </tr>
+    <tr>
+      <td>Cyanogen bromide cleavage</td>
+      <td>Proteolytic digestion</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>Cleavage to release TM peptide from trpLE fusion; methionine changed to valine to avoid internal cleavage</td>
+    </tr>
+    <tr>
+      <td>HPLC purification</td>
+      <td>High-performance liquid chromatography</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>Purified following published procedure (Sharma et al., 2013); stored as lyophilized product</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Fusion protein expression | Expression in E. coli | -- | -- + -- | DAP12-TM peptide produced as trpLE fusion in E. coli |
-| Disulfide-linked dimer formation | Refolding | -- | -- + -- | Disulfide-linked through N-terminal cysteine |
-| Cyanogen bromide cleavage | Proteolytic digestion | -- | -- + -- | Cleavage to release TM peptide from trpLE fusion; methionine changed to valine to avoid internal cleavage |
-| HPLC purification | High-performance liquid chromatography | -- | -- + -- | Purified following published procedure (Sharma et al., 2013); stored as lyophilized product |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP) crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>DAP12-TM peptide reconstituted into <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> LCP by co-dissolution in hexafluoroisopropanol (HFIP), followed by solvent removal and mixing with water</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>5-7 days (small oval discs visible)</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Trimer structure (PDB 4WOL) diffracted to 1.77 A. Three parallel alpha helices in asymmetric unit arranged in right-handed trimeric coiled coil. Coordinated potassium ion at polar core.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP) crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>DAP12-TM peptide reconstituted into <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> LCP by co-dissolution in hexafluoroisopropanol (HFIP), followed by solvent removal and mixing with water</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>1-3 days (star-like clusters visible)</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Tetramer structure (PDB 4WO1) diffracted to 2.14 A. Four parallel alpha helices in asymmetric unit. Coordinated calcium ion at polar core.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4wol">4WOL</a> — Chain A (1 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">CS</span><span class="topo-membrane">TVSPGVLAGIVVGDLVLTVLIAL</span><span class="topo-inside">AVYFLGRL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>8</td>
+      <td>9</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>25</td>
+      <td>10</td>
+      <td>32</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>33</td>
+      <td>33</td>
+      <td>40</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1016##j.celrep.2015.04.045
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4wol">4WOL</a> — Chain B (1 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) crystallization |
-| Protein sample | DAP12-TM peptide reconstituted into [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) LCP by co-dissolution in hexafluoroisopropanol (HFIP), followed by solvent removal and mixing with water |
-| Temperature | Not specified |
-| Growth time | 5-7 days (small oval discs visible) |
-| Cryoprotection | Not specified |
-| Notes | Trimer structure (PDB 4WOL) diffracted to 1.77 A. Three parallel alpha helices in asymmetric unit arranged in right-handed trimeric coiled coil. Coordinated potassium ion at polar core. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">CST</span><span class="topo-outside">V</span><span class="topo-membrane">SPGVLAGIVVGDLVLTVLIALAV</span><span class="topo-inside">YFLGRL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>8</td>
+      <td>10</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>11</td>
+      <td>11</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>27</td>
+      <td>12</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>33</td>
+      <td>35</td>
+      <td>40</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) crystallization |
-| Protein sample | DAP12-TM peptide reconstituted into [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) LCP by co-dissolution in hexafluoroisopropanol (HFIP), followed by solvent removal and mixing with water |
-| Temperature | Not specified |
-| Growth time | 1-3 days (star-like clusters visible) |
-| Cryoprotection | Not specified |
-| Notes | Tetramer structure (PDB 4WO1) diffracted to 2.14 A. Four parallel alpha helices in asymmetric unit. Coordinated calcium ion at polar core. |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4wo1">4WO1</a> — Chain A (1 TMs, alpha)**
 
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">C</span><span class="topo-outside">STVSPGV</span><span class="topo-membrane">LAGIVVGDLVLTVLIALAVYFLG</span><span class="topo-inside">RL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>8</td>
+      <td>9</td>
+      <td>15</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>31</td>
+      <td>16</td>
+      <td>38</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>33</td>
+      <td>39</td>
+      <td>40</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -125,12 +370,12 @@ with findings in other transmembrane proteins (Kim et al., 2005).
 
 ## Cross-References
 
-- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — DAP12-TM crystallized in monoolein LCP to obtain trimer and tetramer structures
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Primary lipid component of the cubic phase membrane environment for DAP12 crystallization
-- [POPC](/xray-mp-wiki/reagents/lipids/popc/) — Palmitoyl-oleoyl phosphatidylcholine used in MD simulations of DAP12 oligomers
-- [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) — PEG 3350 used as precipitant in both crystallization conditions
-- [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) — 10% cholesterol used in trimer crystallization condition
-- [Intramembrane Ion Coordination](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-ion-coordination/) — Central mechanism discovered - potassium and calcium coordination at DAP12 TM polar core
-- [Calcium Chloride](/xray-mp-wiki/reagents/additives/calcium-chloride/) — 0.269 M calcium chloride used in tetramer crystallization condition
-- [Molecular Dynamics Simulation](/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/) — 200-ns MD simulations validated trimer/tetramer stability in POPC bilayer
-- [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) — Referenced in context related to Glycine
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — DAP12-TM crystallized in monoolein LCP to obtain trimer and tetramer structures
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — Primary lipid component of the cubic phase membrane environment for DAP12 crystallization
+- <a href="/xray-mp-wiki/reagents/lipids/popc/">POPC</a> — Palmitoyl-oleoyl phosphatidylcholine used in MD simulations of DAP12 oligomers
+- <a href="/xray-mp-wiki/reagents/additives/peg/">PEG (Polyethylene Glycol)</a> — PEG 3350 used as precipitant in both crystallization conditions
+- <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a> — 10% cholesterol used in trimer crystallization condition
+- <a href="/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-ion-coordination/">Intramembrane Ion Coordination</a> — Central mechanism discovered - potassium and calcium coordination at DAP12 TM polar core
+- <a href="/xray-mp-wiki/reagents/additives/calcium-chloride/">Calcium Chloride</a> — 0.269 M calcium chloride used in tetramer crystallization condition
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/">Molecular Dynamics Simulation</a> — 200-ns MD simulations validated trimer/tetramer stability in POPC bilayer
+- <a href="/xray-mp-wiki/reagents/buffers/glycine/">Glycine</a> — Referenced in context related to Glycine

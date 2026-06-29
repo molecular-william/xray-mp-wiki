@@ -1,7 +1,7 @@
 ---
 title: "Sulfide:Quinone Oxidoreductase (SQR) from Aquifex aeolicus"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,44 +17,100 @@ verified: false
 Sulfide:quinone oxidoreductase (SQR) from Aquifex aeolicus is a flavoprotein that oxidizes sulfide to zero-valent sulfur, transferring electrons via [FAD](/xray-mp-wiki/reagents/additives/flavin-adenine-dinucleotide/) to the quinone pool. It is a homotrimeric, periplasmic integral monotopic membrane protein involved in sulfide detoxification and energy transduction.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.0904165106 | 3HYW | 2.3 | — | Native full-length SQR | [FAD](/xray-mp-wiki/reagents/additives/flavin-adenine-dinucleotide/) |
-| doi/10.1073##pnas.0904165106 | 3HYW | 2.0 | — | Native full-length SQR | [Decylubiquinone](/xray-mp-wiki/reagents/additives/decylubiquinone/) |
-| doi/10.1073##pnas.0904165106 | 3HYW | 2.9 | — | Native full-length SQR | [Aurachin C](/xray-mp-wiki/reagents/additives/aurachin-c/) |
+### doi/10.1073##pnas.0904165106
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3hyw">3HYW</a></td>
+      <td>2.3</td>
+      <td>—</td>
+      <td>Native full-length SQR</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/flavin-adenine-dinucleotide/">FAD</a></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3hyw">3HYW</a></td>
+      <td>2.0</td>
+      <td>—</td>
+      <td>Native full-length SQR</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/decylubiquinone/">Decylubiquinone</a></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3hyw">3HYW</a></td>
+      <td>2.9</td>
+      <td>—</td>
+      <td>Native full-length SQR</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/aurachin-c/">Aurachin C</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Native from Aquifex aeolicus membranes
 
 - **Notes**: Protein was isolated from native membranes of the hyperthermophilic bacterium Aquifex aeolicus. The organism grows at extreme temperatures (85-95 °C).
 
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Membrane isolation</td>
+      <td>Native membrane preparation</td>
+      <td>—</td>
+      <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Protein extracted from native A. aeolicus membranes using <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>
+</td>
+    </tr>
+    <tr>
+      <td>Purification</td>
+      <td>Chromatographic purification</td>
+      <td>—</td>
+      <td></td>
+      <td>Details of purification steps in SI</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane isolation | Native membrane preparation | — | [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Protein extracted from native A. aeolicus membranes using [DDM](/xray-mp-wiki/reagents/detergents/ddm/)
- |
-| Purification | Chromatographic purification | — |  | Details of purification steps in SI |
-
-
-## Crystallization
-
-### doi/10.1073##pnas.0904165106
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion (soaking) |
-| Temperature | — |
-| Notes | Crystals soaked with [Decylubiquinone](/xray-mp-wiki/reagents/additives/decylubiquinone/) (substrate) and [Aurachin C](/xray-mp-wiki/reagents/additives/aurachin-c/) (inhibitor) for complex structures. Osmium and gold complex salts used for [MIRAS](/xray-mp-wiki/methods/structure-determination/miras/) phasing.
- |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion (soaking)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals soaked with <a href="/xray-mp-wiki/reagents/additives/decylubiquinone/">Decylubiquinone</a> (substrate) and <a href="/xray-mp-wiki/reagents/additives/aurachin-c/">Aurachin C</a> (inhibitor) for complex structures. Osmium and gold complex salts used for <a href="/xray-mp-wiki/methods/structure-determination/miras/">MIRAS</a> phasing.
+</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -90,13 +146,13 @@ same or an alternative hydrophobic channel.
 
 ## Cross-References
 
-- [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) — Physiological electron acceptor for SQR
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/n-dodecyl-beta-d-maltopyranoside/) — Used for membrane protein extraction
-- [MES](/xray-mp-wiki/reagents/buffers/mes/) — Buffer used in crystallization
-- [MIRAS](/xray-mp-wiki/methods/structure-determination/miras/) — Phasing method using Os and Au derivatives
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Used in refinement
-- [Riboflavin (Vitamin B2)](/xray-mp-wiki/reagents/cofactors/riboflavin/) — FAD is derived from riboflavin
-- [MIRAS](/xray-mp-wiki/methods/structure-determination/miras/) — Method used in structure determination or purification
-- [Aurachin C](/xray-mp-wiki/reagents/additives/aurachin-c/) — Additive used in purification or crystallization buffers
-- [Decylubiquinone](/xray-mp-wiki/reagents/additives/decylubiquinone/) — Additive used in purification or crystallization buffers
-- [FAD](/xray-mp-wiki/reagents/additives/flavin-adenine-dinucleotide/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/cofactors/ubiquinone/">Ubiquinone</a> — Physiological electron acceptor for SQR
+- <a href="/xray-mp-wiki/reagents/n-dodecyl-beta-d-maltopyranoside/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Used for membrane protein extraction
+- <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a> — Buffer used in crystallization
+- <a href="/xray-mp-wiki/methods/structure-determination/miras/">MIRAS</a> — Phasing method using Os and Au derivatives
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Used in refinement
+- <a href="/xray-mp-wiki/reagents/cofactors/riboflavin/">Riboflavin (Vitamin B2)</a> — FAD is derived from riboflavin
+- <a href="/xray-mp-wiki/methods/structure-determination/miras/">MIRAS</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/aurachin-c/">Aurachin C</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/decylubiquinone/">Decylubiquinone</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/flavin-adenine-dinucleotide/">FAD</a> — Additive used in purification or crystallization buffers

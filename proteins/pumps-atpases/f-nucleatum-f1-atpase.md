@@ -1,7 +1,7 @@
 ---
 title: "F1-ATPase from Fusobacterium nucleatum"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -26,54 +26,120 @@ C. thermarum and M. smegmatis where betaE is occupied by  and phosphate/sulfate)
 The hydrolytic activity is likely regulated by  concentration, as in mitochondria.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1098##rsob.190066 | 6q45 | 3.6 | P2_1 | F. nucleatum [F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pumps-atpases/tbrucei-f1-atpase/) (alpha3beta3gammaepsilon subunits, His10-tagged epsilon-subunit) |  (alpha-subunits), +Mg2+ (betaTP, betaDP), partial  or  (betaE) |
+### doi/10.1098##rsob.190066
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6q45">6Q45</a></td>
+      <td>3.6</td>
+      <td>P2_1</td>
+      <td>F. nucleatum <a href="/xray-mp-wiki/proteins/pumps-atpases/tbrucei-f1-atpase/">F1-ATPase from Trypanosoma brucei</a> (alpha3beta3gammaepsilon subunits, His10-tagged epsilon-subunit)</td>
+      <td> (alpha-subunits), +Mg2+ (betaTP, betaDP), partial  or  (betaE)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli DK8 (Delta-unc) with pRARE helper plasmid
 - **Construct**: F. nucleatum atpAGDC genes (alpha, gamma, beta, epsilon) cloned into pTrc99a. His10-tag with TEV cleavage site on epsilon-subunit.
 - **Notes**: Expressed from pJP3 and pJP5 constructs. Cells grown in 2x YT medium with , , 0.2% . Induced with 1 mM  at 37 C for 3-4 h then 16 h at 30 C.
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: Escherichia coli DK8 (Delta-unc)
 - **Expression construct**: F. nucleatum [F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pumps-atpases/tbrucei-f1-atpase/) with His10-TEV tag on epsilon-subunit
 - **Tag info**: His10 tag on epsilon-subunit, cleavable by [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/additives/tev-protease/)
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis and membrane isolation</td>
+      <td>French press or sonication</td>
+      <td>—</td>
+      <td>50 mM  Hcl]] pH 8.0, 100 mM NaCl, 20 mM , 10% , 2 mM </td>
+      <td>Cells resuspended and lysed; membranes isolated by ultracentrifugation</td>
+    </tr>
+    <tr>
+      <td>Nickel <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Ni-NTA</td>
+      <td>50 mM  Hcl]] pH 8.0, 100 mM NaCl, 20-250 mM , 10% , 2 mM </td>
+      <td>His10-tagged <a href="/xray-mp-wiki/proteins/pumps-atpases/tbrucei-f1-atpase/">F1-ATPase from Trypanosoma brucei</a> bound and eluted with  gradient</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease (Tobacco Etch Virus Protease)</a> cleavage</td>
+      <td>On-column or dialysis cleavage</td>
+      <td>—</td>
+      <td></td>
+      <td>His10 tag removed by <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease (Tobacco Etch Virus Protease)</a>; further polishing by <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis and membrane isolation | French press or sonication | — | 50 mM  Hcl]] pH 8.0, 100 mM NaCl, 20 mM , 10% , 2 mM  | Cells resuspended and lysed; membranes isolated by ultracentrifugation |
-| Nickel [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA | 50 mM  Hcl]] pH 8.0, 100 mM NaCl, 20-250 mM , 10% , 2 mM  | His10-tagged [F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pumps-atpases/tbrucei-f1-atpase/) bound and eluted with  gradient |
-| [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/additives/tev-protease/) cleavage | On-column or dialysis cleavage | — |  | His10 tag removed by [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/additives/tev-protease/); further polishing by size exclusion chromatography |
+**Crystallization:**
 
-
-## Crystallization
-
-### doi/10.1098##rsob.190066
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion, hanging drop |
-| Protein sample | 2-2.5 mg/ml [F1-ATPase from Trypanosoma brucei](/xray-mp-wiki/proteins/pumps-atpases/tbrucei-f1-atpase/) in 20 mM  Hcl]] pH 8.0, 100 mM NaCl, 2 mM , 10%  |
-| Reservoir | 100 mM sodium  pH 6.0, 100 mM magnesium , 15.5% (w/v)  5000 monomethyl ether |
-| Mixing ratio | 1:0.8:0.2 (protein:precipitant:0.2% low melting-point agarose) |
-| Temperature | 18 |
-| Growth time | 3-4 days |
-| Cryoprotection | 30% (v/v) [Ethylene Glycol](/xray-mp-wiki/reagents/additives/ethylene-glycol/) in reservoir buffer |
-| Notes | Crystals harvested after 3-4 days. Diffraction data collected at Australian Synchrotron MX2 beamline. Four datasets merged due to radiation damage. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion, hanging drop</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>2-2.5 mg/ml <a href="/xray-mp-wiki/proteins/pumps-atpases/tbrucei-f1-atpase/">F1-ATPase from Trypanosoma brucei</a> in 20 mM  Hcl]] pH 8.0, 100 mM NaCl, 2 mM , 10% </td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>100 mM sodium  pH 6.0, 100 mM magnesium , 15.5% (w/v)  5000 monomethyl ether</td>
+    </tr>
+    <tr>
+      <td>Mixing ratio</td>
+      <td>1:0.8:0.2 (protein:precipitant:0.2% low melting-point agarose)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>3-4 days</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>30% (v/v) <a href="/xray-mp-wiki/reagents/additives/ethylene-glycol/">Ethylene Glycol</a> in reservoir buffer</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals harvested after 3-4 days. Diffraction data collected at Australian Synchrotron MX2 beamline. Four datasets merged due to radiation damage.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
 ### Partial ADP occupancy in betaE site
 
-Unlike the F1-ATPases from C. thermarum and M. smegmatis where the betaE site is clearly occupied by  + phosphate (or sulfate), the betaE site in F. nucleatum shows only weak density that may be  at low occupancy or a  molecule from the crystallization buffer. This partial occupancy correlates with the intermediate level of  hydrolysis inhibition in F. nucleatum compared to C. thermarum (strong inhibition) and M. smegmatis (very low activity).
+Unlike the F1-ATPases from C. thermarum and M. smegmatis where the betaE site is clearly occupied by  + phosphate (or sulfate), the betaE site in F. nucleatum shows only weak density that may be  at low occupancy or a molecule from the crystallization buffer. This partial occupancy correlates with the intermediate level of hydrolysis inhibition in F. nucleatum compared to C. thermarum (strong inhibition) and M. smegmatis (very low activity).
 
 ### ADP-dependent regulation of ATP hydrolysis
 
@@ -90,13 +156,13 @@ The crystallization buffer contained 100 mM sodium  pH 6.0, and the weak density
 
 ## Cross-References
 
-- [F1-ATPase from Caldalkalibacillus thermarum](/xray-mp-wiki/proteins/pumps-atpases/c-thermarum-f1-atpase/) — Most similar F1-ATPase structure; betaE occupied by ADP+phosphate; used as MR search model
-- [Bovine F1-ATPase (Mitochondrial ATP Synthase Catalytic Domain)](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) — Homologous enzyme; F. nucleatum F1-ATPase regulation by ADP concentration similar to mitochondrial enzyme
-- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/) — The rotary catalytic mechanism is the fundamental operating principle of F1-ATPases
-- [ADP](/xray-mp-wiki/reagents/ligands/adp/) — Referenced in f-nucleatum-f1-atpase text
-- [ATP](/xray-mp-wiki/reagents/ligands/atp/) — Referenced in f-nucleatum-f1-atpase text
-- [Citrate](/xray-mp-wiki/reagents/buffers/citrate/) — Referenced in f-nucleatum-f1-atpase text
-- [Iptg](/xray-mp-wiki/reagents/additives/iptg/) — Referenced in f-nucleatum-f1-atpase text
-- [Ampicillin](/xray-mp-wiki/reagents/antibiotics/ampicillin/) — Referenced in f-nucleatum-f1-atpase text
-- [Chloramphenicol](/xray-mp-wiki/reagents/antibiotics/chloramphenicol/) — Referenced in f-nucleatum-f1-atpase text
-- [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Referenced in f-nucleatum-f1-atpase text
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/c-thermarum-f1-atpase/">F1-ATPase from Caldalkalibacillus thermarum</a> — Most similar F1-ATPase structure; betaE occupied by ADP+phosphate; used as MR search model
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/">Bovine F1-ATPase (Mitochondrial ATP Synthase Catalytic Domain)</a> — Homologous enzyme; F. nucleatum F1-ATPase regulation by ADP concentration similar to mitochondrial enzyme
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/">F1-ATPase Rotary Catalytic Mechanism</a> — The rotary catalytic mechanism is the fundamental operating principle of F1-ATPases
+- <a href="/xray-mp-wiki/reagents/ligands/adp/">ADP</a> — Referenced in f-nucleatum-f1-atpase text
+- <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a> — Referenced in f-nucleatum-f1-atpase text
+- <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate</a> — Referenced in f-nucleatum-f1-atpase text
+- <a href="/xray-mp-wiki/reagents/additives/iptg/">Iptg</a> — Referenced in f-nucleatum-f1-atpase text
+- <a href="/xray-mp-wiki/reagents/antibiotics/ampicillin/">Ampicillin</a> — Referenced in f-nucleatum-f1-atpase text
+- <a href="/xray-mp-wiki/reagents/antibiotics/chloramphenicol/">Chloramphenicol</a> — Referenced in f-nucleatum-f1-atpase text
+- <a href="/xray-mp-wiki/reagents/additives/glucose/">Glucose</a> — Referenced in f-nucleatum-f1-atpase text

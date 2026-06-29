@@ -1,7 +1,7 @@
 ---
 title: "Human CC Chemokine Receptor 7 (CCR7)"
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -31,44 +31,321 @@ including Navarixin (a CXCR1/CXCR2 phase II antagonist), CS-1, and CS-2,
 demonstrating that the TM7-H8 allosteric pocket can be targeted by diverse
 chemotypes with selectivity across chemokine receptor subtypes.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.cell.2019.07.028 | 6QZH | 2.1 | P212121 | Human CCR7-Sialidase NanA fusion with L145W mutation, HRV 3C cleavage sites, deletion of ICL3 residues 248-256 (replaced by NanA residues 1-470) | Cmp2105 |
+### doi/10.1016##j.cell.2019.07.028
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6qzh">6QZH</a></td>
+      <td>2.1</td>
+      <td>P212121</td>
+      <td>Human CCR7-Sialidase NanA fusion with L145W mutation, HRV 3C cleavage sites, deletion of ICL3 residues 248-256 (replaced by NanA residues 1-470)</td>
+      <td>Cmp2105</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Spodoptera frugiperda (Sf9) insect cells using Bac-to-Bac baculovirus system
 - **Construct**: CCR7-Sialidase NanA fusion: N-terminal decahistidine tag, two HRV 3C protease cleavage sites (between residues 36-43 and 352-359), deletion of Arg248-Phe256 (ICL3) replaced by Sialidase NanA (residues 1-470, PDB: 2YA4) flanked by GS linkers, L145W thermostabilizing mutation
 - **Notes**: Expressed in 10 L Wave Bioreactors at 27 C, 19 rocks/min, 40% oxygen. Infection at 2x10^6 cells/mL, harvested at 72 h post-infection.
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis and membrane preparation</td>
+      <td>Dounce homogenization and ultracentrifugation</td>
+      <td>—</td>
+      <td>10 mM HEPES/NaOH pH 7.5, 10 mM MgCl2, 20 mM KCl, Roche protease inhibitors</td>
+      <td>Membranes washed extensively with low salt buffer, high salt buffer (1 M NaCl), and low salt buffer.</td>
+    </tr>
+    <tr>
+      <td>Membrane solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>—</td>
+      <td>50 mM HEPES/NaOH pH 7.5, 300 mM NaCl, 20 mM imidazole/HCl pH 7.5, 23 uM Cmp2105, protease inhibitors + 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Membranes pre-treated with 23 uM Cmp2105 and 2 mg/mL iodoacetamide for 1 h at 4 C before solubilization.</td>
+    </tr>
+    <tr>
+      <td>Affinity purification</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
+      <td>—</td>
+      <td></td>
+      <td>Decahistidine-tagged CCR7-NanA fusion purified using <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> Superflow resin.</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td>—</td>
+      <td></td>
+      <td>Final polishing step.</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis and membrane preparation | Dounce homogenization and ultracentrifugation | — | 10 mM HEPES/NaOH pH 7.5, 10 mM MgCl2, 20 mM KCl, Roche protease inhibitors | Membranes washed extensively with low salt buffer, high salt buffer (1 M NaCl), and low salt buffer. |
-| Membrane solubilization | Detergent solubilization | — | 50 mM HEPES/NaOH pH 7.5, 300 mM NaCl, 20 mM imidazole/HCl pH 7.5, 23 uM Cmp2105, protease inhibitors + 1% (w/v) DDM, 0.2% (w/v) CHS | Membranes pre-treated with 23 uM Cmp2105 and 2 mg/mL iodoacetamide for 1 h at 4 C before solubilization. |
-| Affinity purification | TALON metal affinity chromatography | — |  | Decahistidine-tagged CCR7-NanA fusion purified using TALON Superflow resin. |
-| Size-exclusion chromatography | SEC | — |  | Final polishing step. |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a>)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified CCR7-Sialidase NanA complex with Cmp2105 in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> buffer</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>-- (not specified)</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>-- (not specified)</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a> crystallization in meso. Data collected at X06SA (PXI) beamline, Swiss Light Source. 5x5 um collimated beam. Data from 11 crystals merged.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6qzh">6QZH</a> — Chain A (7 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GPGSSLCSKK</span><span class="topo-outside">DVRNFKAWF</span><span class="topo-membrane">LPIMYSIICFVGLLGNGLVVLTYIY</span><span class="topo-inside">FKRLKTMT</span><span class="topo-membrane">DTYLLNLA</span></span>
+<span class="topo-line"><span class="topo-membrane">VADILFLLTLPFWAY</span><span class="topo-outside">SAAKSWVFGVH</span><span class="topo-membrane">FCKLIFAIYKMSFFSGMWLLLCIS</span><span class="topo-inside">IDRYVAIV</span><span class="topo-unknown">QA</span></span>
+<span class="topo-line"><span class="topo-unknown">VSA</span><span class="topo-inside">HRHRARVLLISK</span><span class="topo-membrane">LSCVGIWILATVLSIPELLYS</span><span class="topo-outside">DLQRSSSEQAMRCSLITEHVE</span><span class="topo-membrane">AFI</span></span>
+<span class="topo-line"><span class="topo-membrane">TIQVAQMVIGFLVPLLAMSF</span><span class="topo-inside">CYLVIISKLHALTEKTDIFESGRNGNPNKDGIKSYRIPAL</span></span>
+<span class="topo-line"><span class="topo-inside">LKTDKGTLIAGADERRLHSSDWGDIGMVIRRSEDNGKTWGDRVTITNLRDNPKASDPSIG</span></span>
+<span class="topo-line"><span class="topo-inside">SPVNIDMVLVQDPETKRIFSIYDMFPEGKGIFGMSSQKEEAYKKIDGKTYQILYREGEKG</span></span>
+<span class="topo-line"><span class="topo-inside">AYTIRENGTVYTPDGKATDYRVVVDPVKPAYSDKGDLYKGDQLLGNIYFTTNKTSPFRIA</span></span>
+<span class="topo-line"><span class="topo-inside">KDSYLWMSYSDDDGKTWSAPQDITPMVKADWMKFLGVGPGTGIVLRNGPHKGRILIPVYT</span></span>
+<span class="topo-line"><span class="topo-inside">TNNVSHLDGSQSSRVIYSDDHGKTWHAGEAVNDNRQVDGQKIHSSTMNNRRAQNTESTVV</span></span>
+<span class="topo-line"><span class="topo-inside">QLNNGDVKLFMRGLTGDLQVATSKDGGVTWEKDIKRYPQVKDVYVQMSAIHTMHEGKEYI</span></span>
+<span class="topo-line"><span class="topo-inside">ILSNAGGPKRENGMVHLARVEENGELTWLKHNPIQKGEFAYNSLQELGNGEYGILYEHTE</span></span>
+<span class="topo-line"><span class="topo-inside">KGQNAYTLSFRKFNWEFLSKSKGHERN</span><span class="topo-unknown">KA</span><span class="topo-inside">IKV</span><span class="topo-membrane">IIAVVVVFIVFQLPYNGVVLAQTV</span><span class="topo-unknown">ANFN</span></span>
+<span class="topo-line"><span class="topo-unknown">ITSS</span><span class="topo-outside">TCELSKQ</span><span class="topo-membrane">LNIAYDVTYSLACVRCCVNPFLYAFIG</span><span class="topo-inside">VKFRNDLFKLF</span><span class="topo-unknown">KDLGCLSGGRL</span></span>
+<span class="topo-line"><span class="topo-unknown">EVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>10</td>
+      <td>42</td>
+      <td>51</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>19</td>
+      <td>52</td>
+      <td>60</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>44</td>
+      <td>61</td>
+      <td>85</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>52</td>
+      <td>86</td>
+      <td>93</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>75</td>
+      <td>94</td>
+      <td>116</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>86</td>
+      <td>117</td>
+      <td>127</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>110</td>
+      <td>128</td>
+      <td>151</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>111</td>
+      <td>118</td>
+      <td>152</td>
+      <td>159</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>119</td>
+      <td>123</td>
+      <td>160</td>
+      <td>164</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>135</td>
+      <td>165</td>
+      <td>176</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>156</td>
+      <td>177</td>
+      <td>197</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>177</td>
+      <td>198</td>
+      <td>218</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>200</td>
+      <td>219</td>
+      <td>241</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>201</td>
+      <td>210</td>
+      <td>242</td>
+      <td>251</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>211</td>
+      <td>682</td>
+      <td>1001</td>
+      <td>1472</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>683</td>
+      <td>687</td>
+      <td>255</td>
+      <td>259</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>688</td>
+      <td>689</td>
+      <td>260</td>
+      <td>261</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>690</td>
+      <td>692</td>
+      <td>262</td>
+      <td>264</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>693</td>
+      <td>716</td>
+      <td>265</td>
+      <td>288</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>717</td>
+      <td>724</td>
+      <td>289</td>
+      <td>296</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>725</td>
+      <td>731</td>
+      <td>297</td>
+      <td>303</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>732</td>
+      <td>758</td>
+      <td>304</td>
+      <td>330</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>759</td>
+      <td>769</td>
+      <td>331</td>
+      <td>341</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>770</td>
+      <td>785</td>
+      <td>342</td>
+      <td>357</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1016##j.cell.2019.07.028
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Protein sample | Purified CCR7-Sialidase NanA complex with Cmp2105 in DDM/CHS buffer |
-| Temperature | 20 C |
-| Growth time | -- (not specified) |
-| Cryoprotection | -- (not specified) |
-| Notes | LCP crystallization in meso. Data collected at X06SA (PXI) beamline, Swiss Light Source. 5x5 um collimated beam. Data from 11 crystals merged. |
-
+</div>
 
 ## Biological / Functional Insights
 
@@ -121,11 +398,11 @@ structural data with thermal stability screening for GPCR drug discovery.
 
 ## Cross-References
 
-- [CCR5 Chemokine Receptor](/xray-mp-wiki/proteins/gpcr/ccr5/) — Related human CC chemokine receptor for structural comparison
-- [US28 Viral Chemokine Receptor](/xray-mp-wiki/proteins/gpcr/us28/) — Viral chemokine receptor for comparison of active/inactive conformations
-- [Human Beta2-Adrenergic Receptor (beta2 AR)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Class A GPCR for comparison of intracellular allosteric binding
-- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used for CCR7 crystallization
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — MR method used with homology model of CCR7 and Sialidase NanA (PDB 2YA4)
-- [Single-Wavelength Anomalous Diffraction (SAD)](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/) — Native SAD used in combination with MR for structure determination
-- [Molecular Docking](/xray-mp-wiki/methods/structure-determination/molecular-docking/) — Docking of CS-1 and Navarixin into CCR7 allosteric pocket using GOLD
-- [Thermal Shift Assay](/xray-mp-wiki/methods/quality-assessment/thermal-shift-assay/) — CPM-based thermofluor assay used to validate ligand binding to CCR7
+- <a href="/xray-mp-wiki/proteins/gpcr/ccr5/">CCR5 Chemokine Receptor</a> — Related human CC chemokine receptor for structural comparison
+- <a href="/xray-mp-wiki/proteins/gpcr/us28/">US28 Viral Chemokine Receptor</a> — Viral chemokine receptor for comparison of active/inactive conformations
+- <a href="/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/">Human Beta2-Adrenergic Receptor (beta2 AR)</a> — Class A GPCR for comparison of intracellular allosteric binding
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — LCP method used for CCR7 crystallization
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — MR method used with homology model of CCR7 and Sialidase NanA (PDB 2YA4)
+- <a href="/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/">Single-Wavelength Anomalous Diffraction (SAD)</a> — Native SAD used in combination with MR for structure determination
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-docking/">Molecular Docking</a> — Docking of CS-1 and Navarixin into CCR7 allosteric pocket using GOLD
+- <a href="/xray-mp-wiki/methods/quality-assessment/thermal-shift-assay/">Thermal Shift Assay</a> — CPM-based thermofluor assay used to validate ligand binding to CCR7

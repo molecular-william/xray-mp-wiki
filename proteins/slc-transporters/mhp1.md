@@ -1,7 +1,7 @@
 ---
 title: "Mhp1 Benzyl-Hydantoin Transporter from Microbacterium liquefaciens"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,41 +17,108 @@ verified: false
 Mhp1 is a member of the Nucleobase-Cation-Symport-1 (NCS1) family from Microbacterium liquefaciens that transports [Benzyl-Hydantoin](/xray-mp-wiki/reagents/ligands/benzyl-hydantoin/) and related nucleobase derivatives in a sodium-dependent manner. The structure was determined by X-ray crystallography in three conformations: an outward-facing open state (2.85 Å resolution), an outward-facing occluded state bound to [Benzyl-Hydantoin](/xray-mp-wiki/reagents/ligands/benzyl-hydantoin/) (4 Å resolution), and a substrate-free inward-facing state (3.8 Å resolution). Together, these three structures capture all major conformational states of the alternating access transport cycle, providing a complete structural basis for the mechanism.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1126##science.1164440 | — (see supporting material) | 2.85 | — | Full-length Mhp1 | — |
-| doi/10.1126##science.1164440 | — (see supporting material) | 4.0 | — | Full-length Mhp1 | [Benzyl-Hydantoin](/xray-mp-wiki/reagents/ligands/benzyl-hydantoin/) |
-| doi/10.1126##science.1186303 | — (see supporting material) | 3.8 | — | Full-length Mhp1 (residues 6-470) | — |
+### doi/10.1126##science.1164440
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/— (see supporting material)">— (SEE SUPPORTING MATERIAL)</a></td>
+      <td>2.85</td>
+      <td>—</td>
+      <td>Full-length Mhp1</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/— (see supporting material)">— (SEE SUPPORTING MATERIAL)</a></td>
+      <td>4.0</td>
+      <td>—</td>
+      <td>Full-length Mhp1</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/benzyl-hydantoin/">Benzyl-Hydantoin</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli (see supporting material)
 - **Construct**: Full-length Mhp1
 - **Notes**: Details in supporting online material (reference 24)
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli
 - **Expression construct**: Full-length Mhp1
 - **Tag info**: His-tag (see supporting material)
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression | E. coli fermentation | — | — + — | Overexpression in E. coli |
-| Purification | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) (see supporting material) | — | — + — | Details in supporting online material |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Expression</td>
+      <td>E. coli fermentation</td>
+      <td>—</td>
+      <td>— + —</td>
+      <td>Overexpression in E. coli</td>
+    </tr>
+    <tr>
+      <td>Purification</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (see supporting material)</td>
+      <td>—</td>
+      <td>— + —</td>
+      <td>Details in supporting online material</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: Purified Mhp1 in detergent solution
 **Yield**: —
 **Purity**: —
 
+### doi/10.1126##science.1186303
 
-## Crystallization
+**Structures:**
 
-No crystallization described.
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/— (see supporting material)">— (SEE SUPPORTING MATERIAL)</a></td>
+      <td>3.8</td>
+      <td>—</td>
+      <td>Full-length Mhp1 (residues 6-470)</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: E. coli (see supporting material)
+- **Construct**: Full-length Mhp1
+- **Notes**: Details in supporting online material (reference 24)
+
 
 ## Biological / Functional Insights
 
@@ -86,12 +153,12 @@ The inward-facing Mhp1 structure resembles the inward-facing [VSGLT](/xray-mp-wi
 
 ## Cross-References
 
-- [Nucleobase-Cation-Symport-1 (NCS1) Family](/xray-mp-wiki/concepts/transport-mechanisms/ncs1-family/) — Mhp1 is the founding structurally characterized member of the NCS1 family
-- [V. parahaemolyticus Sodium-Galactose Transporter (vSGLT)](/xray-mp-wiki/proteins/slc-transporters/vsglt/) — vSGLT shares the same structural fold and inward-facing Mhp1 resembles inward-facing vSGLT
-- [LeuT Amino Acid Transporter](/xray-mp-wiki/proteins/enzymes/leut/) — LeuT shares a nearly identical fold and was used for structural comparison
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Mhp1 three-state structure provides a complete picture of the alternating access cycle
-- [Rocking-Bundle Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rocking-bundle-mechanism/) — Mhp1 conformational changes are consistent with the rocking-bundle model
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [ADIC](/xray-mp-wiki/proteins/slc-transporters/adic/) — Related protein structure
-- [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) — Additive used in purification or crystallization buffers
-- [Benzyl-Hydantoin](/xray-mp-wiki/reagents/ligands/benzyl-hydantoin/) — Related ligand or cofactor
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/ncs1-family/">Nucleobase-Cation-Symport-1 (NCS1) Family</a> — Mhp1 is the founding structurally characterized member of the NCS1 family
+- <a href="/xray-mp-wiki/proteins/slc-transporters/vsglt/">V. parahaemolyticus Sodium-Galactose Transporter (vSGLT)</a> — vSGLT shares the same structural fold and inward-facing Mhp1 resembles inward-facing vSGLT
+- <a href="/xray-mp-wiki/proteins/enzymes/leut/">LeuT Amino Acid Transporter</a> — LeuT shares a nearly identical fold and was used for structural comparison
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating Access Mechanism</a> — Mhp1 three-state structure provides a complete picture of the alternating access cycle
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/rocking-bundle-mechanism/">Rocking-Bundle Mechanism</a> — Mhp1 conformational changes are consistent with the rocking-bundle model
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/slc-transporters/adic/">ADIC</a> — Related protein structure
+- <a href="/xray-mp-wiki/reagents/additives/selenomethionine/">Selenomethionine (SeMet)</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/ligands/benzyl-hydantoin/">Benzyl-Hydantoin</a> — Related ligand or cofactor

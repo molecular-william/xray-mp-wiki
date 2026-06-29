@@ -1,12 +1,12 @@
 ---
 title: "hGLUT1 (Human Glucose Transporter 1)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
-sources: [doi/10.1073##pnas.2017749118]
+sources: []
 verified: false
 ---
 
@@ -27,17 +27,9 @@ selectively inhibit [PfHT1 (Plasmodium falciparum Hexose Transporter 1)](/xray-m
 conserved orthosteric site and the PfHT1-specific allosteric pocket.
 
 
-## Structure Determination
+## Publications
 
-No structure determined.
-
-## Expression and Purification
-
-No purification described.
-
-## Crystallization
-
-No crystallization described.
+No publications.
 
 ## Biological / Functional Insights
 
@@ -54,8 +46,8 @@ reflected in the CC50/EC50 values (36.1 to 107.2) for mammalian cells.
 
 ## Cross-References
 
-- [PfHT1 (Plasmodium falciparum Hexose Transporter 1)](/xray-mp-wiki/proteins/mfs-transporters/pfht1/) — Primary target for selective inhibitor design; structural comparison with hGLUT1 revealed the allosteric pocket
-- [hGLUT3 (Human Glucose Transporter 3)](/xray-mp-wiki/proteins/mfs-transporters/hglut3/) — hGLUT3 shares 80% sequence similarity and was used as a surrogate for hGLUT1 in crystallographic studies
-- [Selective Starvation of Malaria Parasites](/xray-mp-wiki/concepts/miscellaneous/selective-starvation/) — Selectivity over hGLUT1 is critical for the selective starvation strategy
-- [SLC2A1](/xray-mp-wiki/proteins/mfs-transporters/glut1/) — Related protein structure
-- [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/proteins/mfs-transporters/pfht1/">PfHT1 (Plasmodium falciparum Hexose Transporter 1)</a> — Primary target for selective inhibitor design; structural comparison with hGLUT1 revealed the allosteric pocket
+- <a href="/xray-mp-wiki/proteins/mfs-transporters/hglut3/">hGLUT3 (Human Glucose Transporter 3)</a> — hGLUT3 shares 80% sequence similarity and was used as a surrogate for hGLUT1 in crystallographic studies
+- <a href="/xray-mp-wiki/concepts/miscellaneous/selective-starvation/">Selective Starvation of Malaria Parasites</a> — Selectivity over hGLUT1 is critical for the selective starvation strategy
+- <a href="/xray-mp-wiki/proteins/mfs-transporters/glut1/">SLC2A1</a> — Related protein structure
+- <a href="/xray-mp-wiki/reagents/additives/glucose/">Glucose</a> — Additive used in purification or crystallization buffers

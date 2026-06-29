@@ -1,7 +1,7 @@
 ---
 title: "GkPOT Proton-Coupled Oligopeptide Transporter"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -27,42 +27,360 @@ Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncated GLP-1 Agonist Nonapep
 formation between Glu310 and Arg43, inducing the transition to the ABC Transporter Outward-Occluded Mechanism
 GPCR Inactive Conformation.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.1301079110 | 4IKV | 1.9 A | Not specified in text | Full-length GkPOT (1-496) | [Alafosfalin](/xray-mp-wiki/reagents/ligands/alafosfalin/) (dipeptide analog) |
+### doi/10.1073##pnas.1301079110
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4ikv">4IKV</a></td>
+      <td>1.9 A</td>
+      <td>Not specified in text</td>
+      <td>Full-length GkPOT (1-496)</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/alafosfalin/">Alafosfalin</a> (dipeptide analog)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli Signal Peptide Peptidase (SppA, Protease IV) (SppA, Protease IV) coli
 - **Construct**: Full-length GkPOT (residues 1-496)
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Overexpression</td>
+      <td>Overexpression in E. coli</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>Full-length GkPOT overexpressed in E. coli</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Solid-Supported Membrane Electrophysiology solubilization</td>
+      <td>--</td>
+      <td>-- + 1.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (DDM)</td>
+      <td>Solubilized from Solid-Supported Membrane Electrophysiology fraction</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-sulfate/">Nickel Sulfate (NiSO₄)</a> (NiSO₄) (NiSO₄)-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Ni-NTA</td>
+      <td>-- + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Purification to homogeneity</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td>--</td>
+      <td>-- + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Final polishing step</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Overexpression | Overexpression in E. coli | -- | -- + -- | Full-length GkPOT overexpressed in E. coli |
-| Solubilization | Solid-Supported Membrane Electrophysiology solubilization | -- | -- + 1.5% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (DDM) | Solubilized from Solid-Supported Membrane Electrophysiology fraction |
-| [Nickel Sulfate (NiSO₄)](/xray-mp-wiki/reagents/additives/nickel-sulfate/) (NiSO₄) (NiSO₄)-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA | -- + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Purification to homogeneity |
-| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | -- | -- + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Final polishing step |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> Crystallization (LCP)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a></td>
+    </tr>
+    <tr>
+      <td>Protein-to-lipid ratio</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystallized using <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> Crystallization method with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a>. SeMet Heavy Atom Derivative Detergents and Lipids for Membrane Protein Crystallography used for SAD SeMet Single-Wavelength Anomalous Dispersion (SeMet SAD) Phrasing. Native data collected to 1.9 A at Entropic Spring Mechanism in Tc Toxin Injection in Tc Toxin Injection-8 BL32XU. Diffractive Imaging of Imperfect Crystals also obtained for E310Q variant in complex with <a href="/xray-mp-wiki/reagents/ligands/alafosfalin/">Alafosfalin</a> and MgSO4-<a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-ion-bound-configurations/">Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters</a> in K+ Channel Selectivity Filters in K+ Channel Selectivity Filters form.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4ikv">4IKV</a> — Chain A (14 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ASIDKQQIAASVPQRGFFGHPKGL</span><span class="topo-membrane">FTLFFTEFWERFSYYGMRAILV</span><span class="topo-inside">YYMYYEVSKGGLG</span></span>
+<span class="topo-line"><span class="topo-inside">LDEHLAL</span><span class="topo-membrane">AIMSIYGALVYMSGIIGGWLA</span><span class="topo-outside">DRVFGT</span><span class="topo-membrane">SRAVFYGGLLIMAGHIALAI</span><span class="topo-inside">PGGVAA</span></span>
+<span class="topo-line"><span class="topo-membrane">LFVSMALIVLGTGLLKPNVS</span><span class="topo-outside">SIVGDMYKPGDDRRDAGFS</span><span class="topo-membrane">IFYMGINLGAFLAPLVVGTA</span><span class="topo-inside">G</span></span>
+<span class="topo-line"><span class="topo-inside">MKYNFHL</span><span class="topo-membrane">GFGLAAVGMFLGLVVFVATR</span><span class="topo-outside">KKNLGLAGTYVPNPLTPAEKK</span><span class="topo-membrane">KAAAIMAVGAVV</span></span>
+<span class="topo-line"><span class="topo-membrane">IAVLLAILI</span><span class="topo-inside">PNGW</span><span class="topo-membrane">FTVETFISLVGILGIIIPIIYFVV</span><span class="topo-outside">MYRSPKTTAEERSRVI</span><span class="topo-membrane">AYIPLFV</span></span>
+<span class="topo-line"><span class="topo-membrane">ASAMFWAIQEQGSTILA</span><span class="topo-inside">NYADKRTQLDVAGIHLSPA</span><span class="topo-membrane">WFQSLNPLFIIILAPVFAWMW</span><span class="topo-outside">VKL</span></span>
+<span class="topo-line"><span class="topo-outside">GKRQ</span><span class="topo-membrane">PTIPQKFALGLLFAGLSFIVIL</span><span class="topo-inside">VPGHLSGGGLVHPI</span><span class="topo-membrane">WLVLSYFIVVLGELCLSPVG</span></span>
+<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">SATTKLAPAAFSAQTM</span><span class="topo-membrane">SLWFLSNAAAQAINAQLV</span><span class="topo-inside">RFYTPENETAY</span><span class="topo-membrane">FGTIGGAALVLGLI</span></span>
+<span class="topo-line"><span class="topo-membrane">LLAIA</span><span class="topo-outside">PRIGRLMK</span><span class="topo-unknown">GIRLESSGENLYFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>25</td>
+      <td>2</td>
+      <td>25</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>47</td>
+      <td>26</td>
+      <td>47</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>67</td>
+      <td>48</td>
+      <td>67</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>88</td>
+      <td>68</td>
+      <td>88</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>94</td>
+      <td>89</td>
+      <td>94</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>114</td>
+      <td>95</td>
+      <td>114</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>115</td>
+      <td>120</td>
+      <td>115</td>
+      <td>120</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>140</td>
+      <td>121</td>
+      <td>140</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>141</td>
+      <td>159</td>
+      <td>141</td>
+      <td>159</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>160</td>
+      <td>179</td>
+      <td>160</td>
+      <td>179</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>180</td>
+      <td>187</td>
+      <td>180</td>
+      <td>187</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>188</td>
+      <td>207</td>
+      <td>188</td>
+      <td>207</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>208</td>
+      <td>228</td>
+      <td>208</td>
+      <td>228</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>229</td>
+      <td>249</td>
+      <td>229</td>
+      <td>249</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>250</td>
+      <td>253</td>
+      <td>250</td>
+      <td>253</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>254</td>
+      <td>277</td>
+      <td>254</td>
+      <td>277</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>278</td>
+      <td>293</td>
+      <td>278</td>
+      <td>293</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>294</td>
+      <td>317</td>
+      <td>294</td>
+      <td>317</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>318</td>
+      <td>336</td>
+      <td>318</td>
+      <td>336</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>337</td>
+      <td>357</td>
+      <td>337</td>
+      <td>357</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>358</td>
+      <td>364</td>
+      <td>358</td>
+      <td>364</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>365</td>
+      <td>386</td>
+      <td>365</td>
+      <td>386</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>387</td>
+      <td>400</td>
+      <td>387</td>
+      <td>400</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>401</td>
+      <td>421</td>
+      <td>401</td>
+      <td>421</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>422</td>
+      <td>437</td>
+      <td>422</td>
+      <td>437</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>438</td>
+      <td>455</td>
+      <td>438</td>
+      <td>455</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>456</td>
+      <td>466</td>
+      <td>456</td>
+      <td>466</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>467</td>
+      <td>485</td>
+      <td>467</td>
+      <td>485</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>486</td>
+      <td>493</td>
+      <td>486</td>
+      <td>493</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>494</td>
+      <td>507</td>
+      <td>494</td>
+      <td>507</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1073##pnas.1301079110
-
-| Parameter | Value |
-|---|---|
-| Method | [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) Crystallization (LCP) |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) |
-| Protein-to-lipid ratio | Not specified |
-| Temperature | Not specified |
-| Notes | Crystallized using [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) Crystallization method with [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/). SeMet Heavy Atom Derivative Detergents and Lipids for Membrane Protein Crystallography used for SAD SeMet Single-Wavelength Anomalous Dispersion (SeMet SAD) Phrasing. Native data collected to 1.9 A at Entropic Spring Mechanism in Tc Toxin Injection in Tc Toxin Injection-8 BL32XU. Diffractive Imaging of Imperfect Crystals also obtained for E310Q variant in complex with [Alafosfalin](/xray-mp-wiki/reagents/ligands/alafosfalin/) and MgSO4-[Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters](/xray-mp-wiki/concepts/transport-mechanisms/alternating-ion-bound-configurations/) in K+ Channel Selectivity Filters in K+ Channel Selectivity Filters form. |
-
+</div>
 
 ## Biological / Functional Insights
 
@@ -101,13 +419,13 @@ the structural Agonist-to-Antagonist Conversion via C8 Modification between Inwa
 
 ## Cross-References
 
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — GkPOT operates via the alternating-access mechanism, transitioning between inward-open, occluded, and outward-open states during the transport cycle
-- [Substrate-Protonation Coupling in MFS Symporters](/xray-mp-wiki/concepts/transport-mechanisms/substrate-protonation-coupling/) — Referenced in gkpot description
-- [Agonist-to-Antagonist Conversion via C8 Modification](/xray-mp-wiki/concepts/construct-design/agonist-to-antagonist-conversion/) — Referenced in gkpot description
-- [Glucose/H+ Symport Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/glucose-h-symport-mechanism/) — Referenced in gkpot description
-- [Carboxylate Dyad in Oligosaccharyltransferase](/xray-mp-wiki/concepts/enzyme-mechanisms/carboxylate-dyad/) — Referenced in gkpot description
-- [Ball-and-Chain Model for SLC38A9](/xray-mp-wiki/concepts/transport-mechanisms/ball-and-chain-model/) — Referenced in gkpot description
-- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Referenced in gkpot description
-- [TREX1 RNase Activity and DNA/RNA Hybrid Processing](/xray-mp-wiki/concepts/enzyme-mechanisms/trex1-rnase-activity/) — Referenced in gkpot description
-- [Metabotropic Glutamate Receptor 5 (mGlu5)](/xray-mp-wiki/proteins/gpcr/metabotropic-glutamate-receptor-5/) — Referenced in gkpot description
-- [Single-Crystal Microspectrophotometry](/xray-mp-wiki/methods/structure-determination/single-crystal-microspectrophotometry/) — Referenced in gkpot description
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating-Access Mechanism</a> — GkPOT operates via the alternating-access mechanism, transitioning between inward-open, occluded, and outward-open states during the transport cycle
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/substrate-protonation-coupling/">Substrate-Protonation Coupling in MFS Symporters</a> — Referenced in gkpot description
+- <a href="/xray-mp-wiki/concepts/construct-design/agonist-to-antagonist-conversion/">Agonist-to-Antagonist Conversion via C8 Modification</a> — Referenced in gkpot description
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/glucose-h-symport-mechanism/">Glucose/H+ Symport Mechanism</a> — Referenced in gkpot description
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/carboxylate-dyad/">Carboxylate Dyad in Oligosaccharyltransferase</a> — Referenced in gkpot description
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/ball-and-chain-model/">Ball-and-Chain Model for SLC38A9</a> — Referenced in gkpot description
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> — Referenced in gkpot description
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/trex1-rnase-activity/">TREX1 RNase Activity and DNA/RNA Hybrid Processing</a> — Referenced in gkpot description
+- <a href="/xray-mp-wiki/proteins/gpcr/metabotropic-glutamate-receptor-5/">Metabotropic Glutamate Receptor 5 (mGlu5)</a> — Referenced in gkpot description
+- <a href="/xray-mp-wiki/methods/structure-determination/single-crystal-microspectrophotometry/">Single-Crystal Microspectrophotometry</a> — Referenced in gkpot description

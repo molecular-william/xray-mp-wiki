@@ -1,7 +1,7 @@
 ---
 title: "OLPVRII (Organic Lake Phycodnavirus Rhodopsin II)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,51 +17,127 @@ verified: false
 OLPVRII (Organic Lake Phycodnavirus Rhodopsin II) is a viral rhodopsin from group 2, encoded by a nucleocytoplasmic large DNA virus (NCLDV) that infects marine phytoplankton. With only 211 amino acids, it is the smallest microbial rhodopsin with a known crystal structure. OLPVRII assembles into a pentamer with a unique bottle-like central channel featuring a narrow vestibule lined by a ring of five arginine residues (R29) on the cytoplasmic side and a hydrophobic barrier formed by five phenylalanine residues (F24). The proton donor is Glu42 located in helix B, whereas most microbial rhodopsins have the proton donor in helix C. Functional characterization and molecular dynamics simulations suggest that OLPVRII acts as an outward proton pump in liposomes, but its unique pentameric architecture with a central pore analogous to pentameric ligand-gated ion channels suggests it may function as a light-gated ion channel.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##s41467-019-12718-0 | 6S7I | 2.50 | P21 | Full-length OLPVRII (residues 1-211) | all-trans Retinal |
+### doi/10.1038##s41467-019-12718-0
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6s7i">6S7I</a></td>
+      <td>2.50</td>
+      <td>P21</td>
+      <td>Full-length OLPVRII (residues 1-211)</td>
+      <td>all-trans Retinal</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli (C41 strain)
 - **Construct**: Codon-optimized OLPVRII (Uniprot F2Y2Z0) in pEKT vector
 - **Induction**: Not specified
 - **Media**: 2xYT medium
 
-### Purification Workflow
+**Purification:**
 
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture | Fermentation | -- | 2xYT medium + -- | 5L culture |
-| Membrane preparation | Cell disruption and membrane isolation | -- | 50 mM Tris-HCl pH 7.6, 300 mM NaCl + -- | Standard membrane preparation protocols |
-| Solubilization | Detergent solubilization | -- | 50 mM Tris-HCl pH 7.6, 300 mM NaCl + DDM (n-Dodecyl-beta-D-maltopyranoside) | Protein solubilized in DDM |
-| Affinity chromatography | Immobilized metal-affinity chromatography (IMAC) | Ni-NTA | 50 mM Tris-HCl pH 7.6, 300 mM NaCl, 20 mM imidazole + DDM | His-tag purification |
-| Size-exclusion chromatography | Size-exclusion chromatography | Superdex 200 | 10 mM Tris-HCl pH 7.6, 100 mM NaCl, 0.03% DDM + 0.03% DDM | Monomeric and pentameric fractions separated |
-
-**Final sample**: 20 mg/ml in DDM
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture</td>
+      <td>Fermentation</td>
+      <td>--</td>
+      <td>2xYT medium + --</td>
+      <td>5L culture</td>
+    </tr>
+    <tr>
+      <td>Membrane preparation</td>
+      <td>Cell disruption and membrane isolation</td>
+      <td>--</td>
+      <td>50 mM Tris-HCl pH 7.6, 300 mM NaCl + --</td>
+      <td>Standard membrane preparation protocols</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>50 mM Tris-HCl pH 7.6, 300 mM NaCl + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (n-<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
+      <td>Protein solubilized in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td>Immobilized metal-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (IMAC)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td>50 mM Tris-HCl pH 7.6, 300 mM NaCl, 20 mM imidazole + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>His-tag purification</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
+      <td>10 mM Tris-HCl pH 7.6, 100 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Monomeric and pentameric fractions separated</td>
+    </tr>
+  </tbody>
+</table>
+**Final sample**: 20 mg/ml in [DDM](/xray-mp-wiki/reagents/detergents/ddm/)
 **Purity**: High (A280/A520 ratio 1.0-1.3 for monomers, 1.3-1.7 for pentamers)
 
+**Crystallization:**
 
-## Crystallization
-
-### doi/10.1038##s41467-019-12718-0
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Protein sample | 20-25 mg/ml OLPVRII in DDM |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) |
-| Protein-to-lipid ratio | 60:40 (w/w) |
-| Temperature | 22 |
-| Growth time | 6-12 weeks |
-| Cryoprotection | Crystals flash-cooled in liquid nitrogen |
-| Notes | Crystals grown using in meso approach. Diffraction data collected at P14 beamline (PETRAIII, Hamburg). Structure solved by molecular replacement using archaerhodopsin-2 (PDB 2Ei4) as search model. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>20-25 mg/ml OLPVRII in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a></td>
+    </tr>
+    <tr>
+      <td>Protein-to-lipid ratio</td>
+      <td>60:40 (w/w)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>6-12 weeks</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Crystals flash-cooled in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown using in meso approach. Diffraction data collected at P14 beamline (PETRAIII, Hamburg). Structure solved by molecular replacement using archaerhodopsin-2 (PDB 2Ei4) as search model.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -88,10 +164,13 @@ The key amino acids forming the pentamer (E26, R36, W203) are highly conserved i
 
 ## Cross-References
 
-- [OLPVR1](/xray-mp-wiki/proteins/rhodopsins/olpvr1/) — Related group 1 viral channelrhodopsin from the same virus
-- [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Archetypal microbial rhodopsin for structural comparison
-- [KR2 (Krokinobacter eikastus sodium-pumping rhodopsin)](/xray-mp-wiki/proteins/rhodopsins/kr2/) — Reference for pentameric rhodopsin structure comparison
-- [GLIC (Gloeobacter violaceus ligand-gated ion channel)](/xray-mp-wiki/proteins/cys-loop-receptors/glic/) — Structural analog for pentameric channel architecture
-- [All-trans retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Chromophore cofactor covalently bound via Schiff base to Lys195
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — LCP crystallization lipid matrix
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent for protein solubilization and purification
+- <a href="/xray-mp-wiki/proteins/rhodopsins/olpvr1/">OLPVR1</a> — Related group 1 viral channelrhodopsin from the same virus
+- <a href="/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/">Bacteriorhodopsin</a> — Archetypal microbial rhodopsin for structural comparison
+- <a href="/xray-mp-wiki/proteins/rhodopsins/kr2/">KR2 (Krokinobacter eikastus sodium-pumping rhodopsin)</a> — Reference for pentameric rhodopsin structure comparison
+- <a href="/xray-mp-wiki/proteins/cys-loop-receptors/glic/">GLIC (Gloeobacter violaceus ligand-gated ion channel)</a> — Structural analog for pentameric channel architecture
+- <a href="/xray-mp-wiki/reagents/ligands/retinal/">All-trans retinal</a> — Chromophore cofactor covalently bound via Schiff base to Lys195
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) crystallization lipid matrix
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Detergent for protein solubilization and purification
+- <a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> — Immobilized metal affinity chromatography resin
+- <a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200 Increase SEC Resin</a> — Size-exclusion chromatography resin
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a> — Crystallization method used for structure determination

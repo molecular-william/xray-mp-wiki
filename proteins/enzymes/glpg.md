@@ -1,12 +1,12 @@
 ---
 title: "GlpG (Escherichia coli Rhomboid Protease)"
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [enzyme, membrane-protein]
-sources: [doi/10.1038##nature05255, doi/10.1073##pnas.0609773104, doi/10.1073##pnas.0611080104, doi/10.1016##j.jmb.2011.01.029, doi/10.1038##nsmb1179, doi/10.1038##s41594-019-0296-9]
+sources: [doi/10.1038##nature05255, doi/10.1073##pnas.0609773104, doi/10.1073##pnas.0611080104, doi/10.1038##nsmb1179, doi/10.1016##j.jmb.2011.01.029, doi/10.1038##s41594-019-0296-9]
 verified: false
 ---
 
@@ -14,116 +14,1853 @@ verified: false
 
 ## Overview
 
-GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists of a core of six transmembrane helices with the catalytic dyad (Ser201/His254) residing in a water-filled cavity. The first crystal structures of any intramembrane protease were solved concurrently by three independent groups in 2006-2007: Wang et al. (Nature 2006) at 2.1 A resolution, Ben-Shem et al. (PNAS 2007) at 2.3 A resolution using SIRAS phasing with ethylmercury chloride, and Wu et al. (NSMB 2006) at 2.6 A resolution. These structures revealed the rhomboid core architecture with six transmembrane segments, a V-shaped lateral opening for substrate access gated by loop L1, and a water-filled hydrophilic active site embedded within the membrane bilayer. A key feature of the PNAS 2007 structure is TM4, which starts deep within the membrane at the catalytic serine residue, placing the active site in an externally exposed cavity that provides a hydrophilic environment for proteolysis. Subsequent structures were determined in a lipid environment (PDB 2XTV) at 1.7 A resolution using bicelle crystallization, revealing ordered lipid molecules forming an annulus around the protein, and in a delipidated detergent environment (PDB 2XTU) at 1.85 A resolution. Wang and Ha (PNAS 2007) described an open-cap conformation using PDB 2IC8 as starting model (2.5 A resolution, space group R32) where the capping loop L5 is lifted, exposing the catalytic Ser-201 to aqueous solution, with a water molecule occupying the putative oxyanion hole (His-150/Asn-154). This structure revealed the L5 cap as a dynamic gate regulating active-site access and proposed si-face cleavage by rhomboid proteases. Cho et al. (2019) reported ten time-resolved crystallographic snapshots of GlpG catalysis from gate opening to peptide release, capturing apoenzyme, aldehyde inhibitor complex, scission complex, tetrahedral intermediate, acyl intermediate, hydrolytic complex, and catalytic resolution states. These snapshots revealed the complete catalytic cycle of rhomboid intramembrane proteolysis at atomic resolution, including L5 loop dynamics, water recruitment, and the role of conserved active-site residues.
+GlpG is an Escherichia coli rhomboid intramembrane serine protease. It consists of a core of six transmembrane helices with the catalytic dyad (Ser201/His254) residing in a water-filled cavity. The first crystal structures of any intramembrane protease were solved concurrently by three independent groups in 2006-2007: Wang et al. (Nature 2006) at 2.1 A resolution, Ben-Shem et al. (PNAS 2007) at 2.3 A resolution using SIRAS phasing with ethylmercury chloride, and Wu et al. (NSMB 2006) at 2.6 A resolution. These structures revealed the rhomboid core architecture with six transmembrane segments, a V-shaped lateral opening for substrate access gated by loop L1, and a water-filled hydrophilic active site embedded within the membrane bilayer. A key feature of the PNAS 2007 structure is TM4, which starts deep within the membrane at the catalytic serine residue, placing the active site in an externally exposed cavity that provides a hydrophilic environment for proteolysis. Subsequent structures were determined in a lipid environment (PDB 2XTV) at 1.7 A resolution using bicelle crystallization, revealing ordered lipid molecules forming an annulus around the protein, and in a delipidated detergent environment (PDB 2XTU) at 1.85 A resolution. Wang and Ha (PNAS 2007) described an open-cap conformation using PDB 2IC8 as starting model (2.5 A resolution, space group R32) where the capping loop L5 is lifted, exposing the catalytic Ser-201 to aqueous solution, with a water molecule occupying the putative oxyanion hole (His-150/Asn-154). This structure revealed the L5 cap as a dynamic gate regulating active-site access and proposed si-face cleavage by rhomboid proteases. Cho et al. (2019) reported ten time-resolved crystallographic snapshots of GlpG catalysis from gate opening to peptide release, capturing apoenzyme, aldehyde inhibitor complex, scission complex, tetrahedral intermediate, acyl intermediate, hydrolytic complex, and catalytic resolution states. These snapshots revealed the complete catalytic cycle of rhomboid [Intramembrane Proteolysis](/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-proteolysis/) at atomic resolution, including L5 loop dynamics, water recruitment, and the role of conserved active-site residues.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature05255 | 2IC8 | 2.1 |  | Core domain of GlpG (E. coli rhomboid protease) |  |
-| doi/10.1073##pnas.0609773104 | 2IRV | 2.3 | P2(1) | Trypsin-treated rhomboid core (residues 93-276) of E. coli GlpG with C-terminal His6 tag |  |
-| doi/10.1073##pnas.0611080104 | 2O7L | 2.5 | R32 | Core domain of GlpG (E. coli rhomboid protease), residues 87-276 | DCI (3,4-dichloroisocoumarin, serine protease inhibitor, 2.5 mM soak) |
-| doi/10.1038##nsmb1179 | 2NRF | 2.6 | P2(1) | Transmembrane core domain (residues 87-276) of GlpG from E. coli, with N-terminal His6 tag removed by thrombin |  |
-| doi/10.1016##j.jmb.2011.01.029 | 2XTV | 1.7 | P2(1)2(1)2(1) | N-terminally truncated GlpG S201T active-site mutant from E. coli, with C-terminal His-tag | None (S201T inactive mutant) |
-| doi/10.1016##j.jmb.2011.01.029 | 2XTU | 1.85 | R32 | N-terminally truncated GlpG S201T active-site mutant from E. coli, with C-terminal His-tag | None (S201T inactive mutant) |
-| doi/10.1038##s41594-019-0296-9 | 6UL0 |  |  | E. coli GlpG in bicelle membrane (apoenzyme) |  |
-| doi/10.1038##s41594-019-0296-9 | 6UL1 |  |  | E. coli GlpG in bicelle membrane soaked with Ac-VRMA-CHO | Ac-VRMA-CHO (aldehyde inhibitor) |
-| doi/10.1038##s41594-019-0296-9 | 6UL2 |  |  | E. coli GlpG in bicelle membrane soaked with Ac-VRMA-CHO | Ac-VRMA-CHO (aldehyde inhibitor) |
-| doi/10.1038##s41594-019-0296-9 | 6UL3 |  |  | E. coli GlpG in bicelle membrane soaked with Ac-VRMA-CHO | Ac-VRMA-CHO (aldehyde inhibitor) |
-| doi/10.1038##s41594-019-0296-9 | 6UL4 |  |  | E. coli GlpG in bicelle membrane soaked with Ac-VRMA-CHO | Ac-VRMA-CHO (aldehyde inhibitor) |
-| doi/10.1038##s41594-019-0296-9 | 6UL5 |  |  | E. coli GlpG in bicelle membrane soaked with Ac-VRMA-CHO | Ac-VRMA-CHO (aldehyde inhibitor) |
-| doi/10.1038##s41594-019-0296-9 | 6UL6 |  |  | E. coli GlpG in bicelle membrane soaked with Ac-VRMA-CHO | Ac-VRMA-CHO (aldehyde inhibitor) |
-| doi/10.1038##s41594-019-0296-9 | 6UL7 |  |  | E. coli GlpG in bicelle membrane soaked with Ac-VRMA-CHO | Ac-VRMA-CHO (aldehyde inhibitor) |
+<details class="pub-entry" markdown="1">
+<summary><strong>doi/10.1038##nature05255 (1 structure, 1 sequence)</strong></summary>
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2ic8">2IC8</a></td>
+      <td>2.1</td>
+      <td></td>
+      <td>Core domain of GlpG (E. coli rhomboid protease)</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli C43 (DE3)
-- **Construct**: Full-length GlpG in pET15b vector with N-terminal His6 tag; transmembrane core domain (residues 87-276) generated by limited proteolysis during purification
+- **Construct**: Full-length GlpG in pET15b vector with N-terminal His6 tag; transmembrane core domain (residues 87-276) generated by [Limited Proteolysis](/xray-mp-wiki/methods/purification/limited-proteolysis/) during purification
 
-### Purification Workflow
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>GlpG core domain at 5 mg/mL in 10 mM Tris-HCl pH 7.6, 20 mM <a href="/xray-mp-wiki/reagents/detergents/nonylglucoside/">NG</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>3 M NaCl, 100 mM Bis-Tris propane pH 7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Room temperature</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>~1 month (<a href="/xray-mp-wiki/reagents/additives/selenomethionine/">Selenomethionine (SeMet)</a> crystals)</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Cryo-protection by stepwise transfer to mother liquor with 25% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>. Native and <a href="/xray-mp-wiki/reagents/additives/selenomethionine/">Selenomethionine (SeMet)</a> crystals grown. SeMet crystals required 2 mM DTT and 0.1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>. Data collected at BNL-NSLS beamlines X6A, X26C, X29.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-##### Steps
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2ic8">2IC8</a> — Chain A (6 TMs, alpha)**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Protein expression and membrane preparation | Expression in E. coli C43 (DE3), French press lysis, ultracentrifugation at 150,000g for 1h to isolate membranes |  | 25 mM Tris (pH 8.0), 500 mM NaCl | Membrane fraction solubilized with 2% (w/v) n-nonyl-beta-D-glucoside |
-| Affinity chromatography | Nickel-nitrilotriacetic acid (Ni-NTA) affinity chromatography | Ni-NTA (Qiagen) | 25 mM Tris (pH 8.0), 150 mM NaCl, 250 mM imidazole, 0.4% (w/v) NG | N-terminal His6 tag removed by thrombin |
-| Size-exclusion chromatography | Superdex-200 gel filtration | Superdex-200 (GE Healthcare) | 10 mM Tris (pH 8.0), 150 mM NaCl, 0.4% (w/v) NG | Peak fraction collected at ~20 mg/ml for crystallization |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">ERA</span><span class="topo-membrane">GPVTWVMMIACVVVFIA</span><span class="topo-inside">MQILG</span><span class="topo-unknown">DQEVMLWL</span><span class="topo-inside">AWPFDPTLKFEFW</span><span class="topo-unknown">RYFTHAL</span><span class="topo-inside">MHFS</span><span class="topo-membrane">LMH</span></span>
+<span class="topo-line"><span class="topo-membrane">ILFNLLWWWYLGGAVE</span><span class="topo-outside">KRLGS</span><span class="topo-membrane">GKLIVITLISALLSGYV</span><span class="topo-inside">QQKFSGPWFG</span><span class="topo-membrane">GLSGVVYALMGY</span></span>
+<span class="topo-line"><span class="topo-membrane">VWLRGER</span><span class="topo-outside">DPQSGIY</span><span class="topo-membrane">LQRGLIIFALIWIVAGW</span><span class="topo-inside">FDLFGMSMAN</span><span class="topo-membrane">GAHIAGLAVGLAMAFVD</span><span class="topo-outside">SL</span></span>
+<span class="topo-line"><span class="topo-outside">NA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>91</td>
+      <td>93</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>20</td>
+      <td>94</td>
+      <td>110</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>25</td>
+      <td>111</td>
+      <td>115</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>33</td>
+      <td>116</td>
+      <td>123</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>46</td>
+      <td>124</td>
+      <td>136</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>53</td>
+      <td>137</td>
+      <td>143</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>57</td>
+      <td>144</td>
+      <td>147</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>76</td>
+      <td>148</td>
+      <td>166</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>81</td>
+      <td>167</td>
+      <td>171</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>98</td>
+      <td>172</td>
+      <td>188</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>108</td>
+      <td>189</td>
+      <td>198</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>109</td>
+      <td>127</td>
+      <td>199</td>
+      <td>217</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>128</td>
+      <td>134</td>
+      <td>218</td>
+      <td>224</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>151</td>
+      <td>225</td>
+      <td>241</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>152</td>
+      <td>161</td>
+      <td>242</td>
+      <td>251</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>162</td>
+      <td>178</td>
+      <td>252</td>
+      <td>268</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>179</td>
+      <td>182</td>
+      <td>269</td>
+      <td>272</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
+</details>
 
-## Crystallization
+<details class="pub-entry" markdown="1">
+<summary><strong>doi/10.1073##pnas.0609773104 (1 structure, 3 sequences)</strong></summary>
 
-### doi/10.1038##nature05255
+**Structures:**
 
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | GlpG core domain at 5 mg/mL in 10 mM Tris-HCl pH 7.6, 20 mM nonylglucoside |
-| Reservoir | 3 M NaCl, 100 mM Bis-Tris propane pH 7.0 |
-| Temperature | Room temperature |
-| Growth time | ~1 month (selenomethionine crystals) |
-| Notes | Cryo-protection by stepwise transfer to mother liquor with 25% glycerol. Native and selenomethionine crystals grown. SeMet crystals required 2 mM DTT and 0.1 mM EDTA. Data collected at BNL-NSLS beamlines X6A, X26C, X29. |
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2irv">2IRV</a></td>
+      <td>2.3</td>
+      <td>P2(1)</td>
+      <td>Trypsin-treated rhomboid core (residues 93-276) of E. coli GlpG with C-terminal His6 tag</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-### doi/10.1073##pnas.0609773104
+**Expression:**
 
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | Trypsin-treated GlpG core (residues 93-276) at 5 mg/ml in 20 mM Hepes pH 7.5, 90 mM NaCl, 10% glycerol, lauryl dimethylamine oxide (LDAO) |
-| Reservoir | 30% PEG 400, 200 mM CaCl2, 100 mM MES pH 6.5 |
-| Temperature | 4 C |
-| Growth time | Not specified |
-| Notes | Trypsin removed N-terminal cytoplasmic region. Expressed in E. coli C43(DE3) with mipA deletion. Purified by Ni-NTA, trypsinized overnight at 4 C, trypsin removed by para-aminobenzamidine and Sephadex G-50 columns. Dialyzed and concentrated to 5 mg/ml. SIRAS phasing from ethylmercury chloride derivative. Native data collected at 120 K on a Rigaku RU-H3R generator (home source). Derivative data collected at ESRF beamline ID29-1. Processed with Denzo/Scalepack. SOLVE for heavy atom positions, RESOLVE for density modification and auto-building. Refined in CNS. Verified with MolProbity and PROCHECK. |
+- **Expression system**: Escherichia coli C43 (DE3)
+- **Construct**: Full-length GlpG in pET15b vector with N-terminal His6 tag; transmembrane core domain (residues 87-276) generated by [Limited Proteolysis](/xray-mp-wiki/methods/purification/limited-proteolysis/) during purification
 
-### doi/10.1073##pnas.0611080104
+**Crystallization:**
 
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion with inhibitor soaking |
-| Protein sample | GlpG core domain (residues 87-276) at ~20 mg/ml in 10 mM Tris (pH 8.0), 150 mM NaCl, 0.4% (w/v) n-nonyl-beta-D-glucoside |
-| Reservoir | 3 M NaCl, 100 mM Bis-Tris propane pH 7.0 (from 2IC8 protocol) |
-| Temperature | Room temperature |
-| Growth time | Crystals grown as described in Wang 2006; soaked 5 days with DCI/DMSO |
-| Notes | Crystals grown from the original 2IC8 protocol. Stepwise cryoprotection to 25% glycerol, 0.6% NG, 3.0 M NaCl, 100 mM Bis-Tris propane pH 7.0. Inhibitor soaking: 2.5 mM DCI (3,4-dichloroisocoumarin) in 2% DMSO, 5 days at room temperature before flash freezing. The open-cap conformation was observed in DCI-soaked crystals (Phe-245 and L5 loop 245-249 disordered). Control crystals treated identically without DCI showed the closed conformation. Data collected at NSLS beamline X25. |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Trypsin-treated GlpG core (residues 93-276) at 5 mg/ml in 20 mM Hepes pH 7.5, 90 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, lauryl dimethylamine oxide (<a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a>)</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>30% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 400, 200 mM CaCl2, 100 mM MES pH 6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/trypsin/">Trypsin</a> removed N-terminal cytoplasmic region. Expressed in E. coli C43(DE3) with mipA deletion. Purified by Ni-NTA, trypsinized overnight at 4 C, <a href="/xray-mp-wiki/reagents/additives/trypsin/">Trypsin</a> removed by para-aminobenzamidine and Sephadex G-50 columns. Dialyzed and concentrated to 5 mg/ml. SIRAS phasing from ethylmercury chloride derivative. Native data collected at 120 K on a Rigaku RU-<a href="/xray-mp-wiki/proteins/gpcr/human-histamine-h3-receptor/">H3R</a> generator (home source). Derivative data collected at ESRF beamline ID29-1. Processed with Denzo/Scalepack. SOLVE for heavy atom positions, RESOLVE for density modification and auto-building. Refined in CNS. Verified with MolProbity and PROCHECK.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-### doi/10.1038##nsmb1179
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2irv">2IRV</a> — Chain A (6 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | GlpG core domain (residues 87-276) at ~20 mg/ml in 10 mM Tris (pH 8.0), 150 mM NaCl, 0.4% (w/v) n-nonyl-beta-D-glucoside |
-| Reservoir | Not specified (physiological pH 7.4 and normal ionic strength) |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Notes | Native data set collected and heavy-atom derivatives prepared. Molecular replacement phasing. Data collected at BNL-NSLS. Two molecules per asymmetric unit. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">RA</span><span class="topo-membrane">GPVTWVMMIACVVVFIAMQI</span><span class="topo-outside">LGDQEVMLWLAWPFDPTLKFEFWRYFTHALMHFS</span><span class="topo-membrane">LMHI</span></span>
+<span class="topo-line"><span class="topo-membrane">LFNLLWWWYLGGAVE</span><span class="topo-inside">KRLGS</span><span class="topo-membrane">GKLIVITLISALLSGYVQ</span><span class="topo-outside">QKFSGPWF</span><span class="topo-membrane">GGLSGVVYALMGYV</span></span>
+<span class="topo-line"><span class="topo-membrane">WLR</span><span class="topo-inside">GERDPQSGIY</span><span class="topo-membrane">LQRGLIIFALIWIVAGW</span><span class="topo-outside">FD</span><span class="topo-unknown">LFGMSM</span><span class="topo-outside">AN</span><span class="topo-membrane">GAHIAGLAVGLAMAFVD</span><span class="topo-inside">SLN</span></span>
+<span class="topo-line"><span class="topo-inside">AR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>92</td>
+      <td>93</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>22</td>
+      <td>94</td>
+      <td>113</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>56</td>
+      <td>114</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>75</td>
+      <td>148</td>
+      <td>166</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>80</td>
+      <td>167</td>
+      <td>171</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>98</td>
+      <td>172</td>
+      <td>189</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>106</td>
+      <td>190</td>
+      <td>197</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>107</td>
+      <td>123</td>
+      <td>198</td>
+      <td>214</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>133</td>
+      <td>215</td>
+      <td>224</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>134</td>
+      <td>150</td>
+      <td>225</td>
+      <td>241</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td>152</td>
+      <td>242</td>
+      <td>243</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>153</td>
+      <td>158</td>
+      <td>244</td>
+      <td>249</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>159</td>
+      <td>160</td>
+      <td>250</td>
+      <td>251</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>161</td>
+      <td>177</td>
+      <td>252</td>
+      <td>268</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>182</td>
+      <td>269</td>
+      <td>273</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1016##j.jmb.2011.01.029
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2irv">2IRV</a> — Chain D (6 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Bicelle crystallization |
-| Protein sample | Truncated GlpG S201T at 9 mg/ml in nonyl glucoside, mixed with 2% DMPC/CHAPSO bicelles (2.6:1 ratio) |
-| Reservoir | 1.5 M NaCl, 0.1 M Bis-Tris (pH 7) |
-| Temperature | 298 K (25 C) |
-| Growth time | 20-30 days |
-| Notes | Crystals appeared after one week, grew to max 0.3 x 0.08 x 0.05 mm. Type I membrane protein crystals with alternating up-down orientation of molecules. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">RA</span><span class="topo-membrane">GPVTWVMMIACVVVFIAMQI</span><span class="topo-outside">LGDQEVMLWLAWPFDPTLKFEFWRYFTHALMHFS</span><span class="topo-membrane">LMHI</span></span>
+<span class="topo-line"><span class="topo-membrane">LFNLLWWWYLGGAVE</span><span class="topo-inside">KRLGS</span><span class="topo-membrane">GKLIVITLISALLSGYVQ</span><span class="topo-outside">QKFSGPWF</span><span class="topo-membrane">GGLSGVVYALMGYV</span></span>
+<span class="topo-line"><span class="topo-membrane">WLR</span><span class="topo-inside">GERDPQSGIY</span><span class="topo-membrane">LQRGLIIFALIWIVAGW</span><span class="topo-outside">FD</span><span class="topo-unknown">LFGMSM</span><span class="topo-outside">AN</span><span class="topo-membrane">GAHIAGLAVGLAMAFVD</span><span class="topo-inside">SLN</span></span>
+<span class="topo-line"><span class="topo-inside">AR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>92</td>
+      <td>93</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>22</td>
+      <td>94</td>
+      <td>113</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>56</td>
+      <td>114</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>75</td>
+      <td>148</td>
+      <td>166</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>80</td>
+      <td>167</td>
+      <td>171</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>98</td>
+      <td>172</td>
+      <td>189</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>106</td>
+      <td>190</td>
+      <td>197</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>107</td>
+      <td>123</td>
+      <td>198</td>
+      <td>214</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>133</td>
+      <td>215</td>
+      <td>224</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>134</td>
+      <td>150</td>
+      <td>225</td>
+      <td>241</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td>152</td>
+      <td>242</td>
+      <td>243</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>153</td>
+      <td>158</td>
+      <td>244</td>
+      <td>249</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>159</td>
+      <td>160</td>
+      <td>250</td>
+      <td>251</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>161</td>
+      <td>177</td>
+      <td>252</td>
+      <td>268</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>182</td>
+      <td>269</td>
+      <td>273</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion (hanging drop) |
-| Protein sample | Completely delipidated truncated GlpG S201T at ~8 mg/ml in nonyl glucoside |
-| Reservoir | 2.5-3.0 M ammonium chloride |
-| Temperature | 298 K (25 C) |
-| Notes | Detergent environment; trigonal crystal form (R32). |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2irv">2IRV</a> — Chain C (6 TMs, alpha)**
 
-### doi/10.1038##s41594-019-0296-9
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">RA</span><span class="topo-membrane">GPVTWVMMIACVVVFIAMQI</span><span class="topo-outside">LGDQEVMLWLAWPFDPTLKFEFWRYFTHALMHFS</span><span class="topo-membrane">LMHI</span></span>
+<span class="topo-line"><span class="topo-membrane">LFNLLWWWYLGGAVE</span><span class="topo-inside">KRLGS</span><span class="topo-membrane">GKLIVITLISALLSGYVQ</span><span class="topo-outside">QKFSGPWF</span><span class="topo-membrane">GGLSGVVYALMGYV</span></span>
+<span class="topo-line"><span class="topo-membrane">WLR</span><span class="topo-inside">GERDPQSGIY</span><span class="topo-membrane">LQRGLIIFALIWIVAGW</span><span class="topo-outside">FD</span><span class="topo-unknown">LFGMSM</span><span class="topo-outside">AN</span><span class="topo-membrane">GAHIAGLAVGLAMAFVD</span><span class="topo-inside">SLN</span></span>
+<span class="topo-line"><span class="topo-inside">AR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>92</td>
+      <td>93</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>22</td>
+      <td>94</td>
+      <td>113</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>56</td>
+      <td>114</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>75</td>
+      <td>148</td>
+      <td>166</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>80</td>
+      <td>167</td>
+      <td>171</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>98</td>
+      <td>172</td>
+      <td>189</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>106</td>
+      <td>190</td>
+      <td>197</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>107</td>
+      <td>123</td>
+      <td>198</td>
+      <td>214</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>133</td>
+      <td>215</td>
+      <td>224</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>134</td>
+      <td>150</td>
+      <td>225</td>
+      <td>241</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td>152</td>
+      <td>242</td>
+      <td>243</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>153</td>
+      <td>158</td>
+      <td>244</td>
+      <td>249</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>159</td>
+      <td>160</td>
+      <td>250</td>
+      <td>251</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>161</td>
+      <td>177</td>
+      <td>252</td>
+      <td>268</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>182</td>
+      <td>269</td>
+      <td>273</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Bicelle crystallization with time-resolved soaking |
-| Protein sample | E. coli GlpG in DMPC/CHAPSO bicelle membrane |
-| Notes | Crystals of GlpG in bicelle membrane were soaked with Ac-VRMA-CHO peptide aldehyde for increasing lengths of time prior to freezing and X-ray diffraction analysis. This time-resolved approach captured 10 catalytic snapshots from gate opening to peptide release. |
+</div>
+</details>
+
+<details class="pub-entry" markdown="1">
+<summary><strong>doi/10.1073##pnas.0611080104 (1 structure, 1 sequence)</strong></summary>
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2o7l">2O7L</a></td>
+      <td>2.5</td>
+      <td>R32</td>
+      <td>Core domain of GlpG (E. coli rhomboid protease), residues 87-276</td>
+      <td>DCI (3,4-dichloroisocoumarin, serine protease inhibitor, 2.5 mM soak)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Escherichia coli C43 (DE3)
+- **Construct**: Full-length GlpG in pET15b vector with N-terminal His6 tag; transmembrane core domain (residues 87-276) generated by [Limited Proteolysis](/xray-mp-wiki/methods/purification/limited-proteolysis/) during purification
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop vapor diffusion with inhibitor soaking</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>GlpG core domain (residues 87-276) at ~20 mg/ml in 10 mM Tris (pH 8.0), 150 mM NaCl, 0.4% (w/v) n-nonyl-beta-D-glucoside</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>3 M NaCl, 100 mM Bis-Tris propane pH 7.0 (from 2IC8 protocol)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Room temperature</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Crystals grown as described in Wang 2006; soaked 5 days with DCI/DMSO</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown from the original 2IC8 protocol. Stepwise cryoprotection to 25% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.6% NG, 3.0 M NaCl, 100 mM Bis-Tris propane pH 7.0. Inhibitor soaking: 2.5 mM DCI (3,4-dichloroisocoumarin) in 2% DMSO, 5 days at room temperature before flash freezing. The open-cap conformation was observed in DCI-soaked crystals (Phe-245 and L5 loop 245-249 disordered). Control crystals treated identically without DCI showed the closed conformation. Data collected at NSLS beamline X25.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2o7l">2O7L</a> — Chain A (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">AGP</span><span class="topo-membrane">VTWVMMIACVVVFIAMQI</span><span class="topo-inside">LG</span><span class="topo-unknown">DQEVMLWL</span><span class="topo-inside">AWPFDPTLKFEFWRYFTHALMHFS</span><span class="topo-membrane">LMHIL</span></span>
+<span class="topo-line"><span class="topo-membrane">FNLLWWWYLGG</span><span class="topo-outside">AVEKRLGSG</span><span class="topo-membrane">KLIVITLISALLSGYVQQ</span><span class="topo-inside">KFSGPWF</span><span class="topo-membrane">GGLSGVVYALMGYVW</span></span>
+<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">RGERDPQSGIYLQRG</span><span class="topo-membrane">LIIFALIWIVAGWFDL</span><span class="topo-unknown">FGMSM</span><span class="topo-inside">A</span><span class="topo-membrane">NGAHIAGLAVGLAMAFV</span><span class="topo-outside">DSLNA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>93</td>
+      <td>95</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>21</td>
+      <td>96</td>
+      <td>113</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>23</td>
+      <td>114</td>
+      <td>115</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>31</td>
+      <td>116</td>
+      <td>123</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>55</td>
+      <td>124</td>
+      <td>147</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>71</td>
+      <td>148</td>
+      <td>163</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>80</td>
+      <td>164</td>
+      <td>172</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>98</td>
+      <td>173</td>
+      <td>190</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>105</td>
+      <td>191</td>
+      <td>197</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>121</td>
+      <td>198</td>
+      <td>213</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>122</td>
+      <td>136</td>
+      <td>214</td>
+      <td>228</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>137</td>
+      <td>152</td>
+      <td>229</td>
+      <td>244</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>153</td>
+      <td>157</td>
+      <td>245</td>
+      <td>249</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>158</td>
+      <td>158</td>
+      <td>250</td>
+      <td>250</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>159</td>
+      <td>175</td>
+      <td>251</td>
+      <td>267</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>180</td>
+      <td>268</td>
+      <td>272</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
+</details>
+
+<details class="pub-entry" markdown="1">
+<summary><strong>doi/10.1038##nsmb1179 (1 structure, 3 sequences)</strong></summary>
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2nrf">2NRF</a></td>
+      <td>2.6</td>
+      <td>P2(1)</td>
+      <td>Transmembrane core domain (residues 87-276) of GlpG from E. coli, with N-terminal His6 tag removed by thrombin</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Escherichia coli C43 (DE3)
+- **Construct**: Full-length GlpG in pET15b vector with N-terminal His6 tag; transmembrane core domain (residues 87-276) generated by [Limited Proteolysis](/xray-mp-wiki/methods/purification/limited-proteolysis/) during purification
+
+**Purification:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Protein expression and membrane preparation</td>
+      <td>Expression in E. coli C43 (DE3), <a href="/xray-mp-wiki/methods/cell-lysis/french-press/">French press</a> lysis, ultracentrifugation at 150,000g for 1h to isolate membranes</td>
+      <td></td>
+      <td>25 mM Tris (pH 8.0), 500 mM NaCl</td>
+      <td>Membrane fraction solubilized with 2% (w/v) n-nonyl-beta-D-glucoside</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Nickel-nitrilotriacetic acid (Ni-NTA) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Ni-NTA (Qiagen)</td>
+      <td>25 mM Tris (pH 8.0), 150 mM NaCl, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.4% (w/v) NG</td>
+      <td>N-terminal His6 tag removed by thrombin</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> gel filtration</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> (GE Healthcare)</td>
+      <td>10 mM Tris (pH 8.0), 150 mM NaCl, 0.4% (w/v) NG</td>
+      <td>Peak fraction collected at ~20 mg/ml for crystallization</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>GlpG core domain (residues 87-276) at ~20 mg/ml in 10 mM Tris (pH 8.0), 150 mM NaCl, 0.4% (w/v) n-nonyl-beta-D-glucoside</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not specified (physiological pH 7.4 and normal ionic strength)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Native data set collected and heavy-atom derivatives prepared. <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> phasing. Data collected at BNL-NSLS. Two molecules per asymmetric unit.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2nrf">2NRF</a> — Chain A (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">ERAGP</span><span class="topo-membrane">VTWVMMIACVVVFIAMQIL</span><span class="topo-unknown">GDQEVMLWL</span><span class="topo-inside">AWPFDPTLKFEFWRYF</span><span class="topo-membrane">THALMHFSLMH</span></span>
+<span class="topo-line"><span class="topo-membrane">ILFNLLWWWYLGG</span><span class="topo-outside">AVEKRLGSGK</span><span class="topo-membrane">LIVITLISALLSGYVQQK</span><span class="topo-inside">FSGPWF</span><span class="topo-membrane">GGLSGVVYALMGY</span></span>
+<span class="topo-line"><span class="topo-membrane">VWL</span><span class="topo-outside">RGERDPQSGIYL</span><span class="topo-membrane">QRGLIIFALIWIVAGWFDLFGM</span><span class="topo-inside">S</span><span class="topo-membrane">MANGAHIAGLAVGLAMAFV</span><span class="topo-outside">DSL</span></span>
+<span class="topo-line"><span class="topo-outside">NA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>91</td>
+      <td>95</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>24</td>
+      <td>96</td>
+      <td>114</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>33</td>
+      <td>115</td>
+      <td>123</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>49</td>
+      <td>124</td>
+      <td>139</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>73</td>
+      <td>140</td>
+      <td>163</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>83</td>
+      <td>164</td>
+      <td>173</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>101</td>
+      <td>174</td>
+      <td>191</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>102</td>
+      <td>107</td>
+      <td>192</td>
+      <td>197</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>123</td>
+      <td>198</td>
+      <td>213</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>135</td>
+      <td>214</td>
+      <td>225</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>157</td>
+      <td>226</td>
+      <td>247</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>158</td>
+      <td>158</td>
+      <td>248</td>
+      <td>248</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>159</td>
+      <td>177</td>
+      <td>249</td>
+      <td>267</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>182</td>
+      <td>268</td>
+      <td>272</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2nrf">2NRF</a> — Chain D (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">ERAGP</span><span class="topo-membrane">VTWVMMIACVVVFIAMQIL</span><span class="topo-unknown">GDQEVMLWL</span><span class="topo-inside">AWPFDPTLKFEFWRYF</span><span class="topo-membrane">THALMHFSLMH</span></span>
+<span class="topo-line"><span class="topo-membrane">ILFNLLWWWYLGG</span><span class="topo-outside">AVEKRLGSGK</span><span class="topo-membrane">LIVITLISALLSGYVQQK</span><span class="topo-inside">FSGPWF</span><span class="topo-membrane">GGLSGVVYALMGY</span></span>
+<span class="topo-line"><span class="topo-membrane">VWL</span><span class="topo-outside">RGERDPQSGIYL</span><span class="topo-membrane">QRGLIIFALIWIVAGWFDLFGM</span><span class="topo-inside">S</span><span class="topo-membrane">MANGAHIAGLAVGLAMAFV</span><span class="topo-outside">DSL</span></span>
+<span class="topo-line"><span class="topo-outside">NA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>91</td>
+      <td>95</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>24</td>
+      <td>96</td>
+      <td>114</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>33</td>
+      <td>115</td>
+      <td>123</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>49</td>
+      <td>124</td>
+      <td>139</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>73</td>
+      <td>140</td>
+      <td>163</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>83</td>
+      <td>164</td>
+      <td>173</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>101</td>
+      <td>174</td>
+      <td>191</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>102</td>
+      <td>107</td>
+      <td>192</td>
+      <td>197</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>123</td>
+      <td>198</td>
+      <td>213</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>135</td>
+      <td>214</td>
+      <td>225</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>157</td>
+      <td>226</td>
+      <td>247</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>158</td>
+      <td>158</td>
+      <td>248</td>
+      <td>248</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>159</td>
+      <td>177</td>
+      <td>249</td>
+      <td>267</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>182</td>
+      <td>268</td>
+      <td>272</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2nrf">2NRF</a> — Chain C (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">ERAGP</span><span class="topo-membrane">VTWVMMIACVVVFIAMQIL</span><span class="topo-unknown">GDQEVMLWL</span><span class="topo-inside">AWPFDPTLKFEFWRYF</span><span class="topo-membrane">THALMHFSLMH</span></span>
+<span class="topo-line"><span class="topo-membrane">ILFNLLWWWYLGG</span><span class="topo-outside">AVEKRLGSGK</span><span class="topo-membrane">LIVITLISALLSGYVQQK</span><span class="topo-inside">FSGPWF</span><span class="topo-membrane">GGLSGVVYALMGY</span></span>
+<span class="topo-line"><span class="topo-membrane">VWL</span><span class="topo-outside">RGERDPQSGIYL</span><span class="topo-membrane">QRGLIIFALIWIVAGWFDLFGM</span><span class="topo-inside">S</span><span class="topo-membrane">MANGAHIAGLAVGLAMAFV</span><span class="topo-outside">DSL</span></span>
+<span class="topo-line"><span class="topo-outside">NA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>91</td>
+      <td>95</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>24</td>
+      <td>96</td>
+      <td>114</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>33</td>
+      <td>115</td>
+      <td>123</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>49</td>
+      <td>124</td>
+      <td>139</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>73</td>
+      <td>140</td>
+      <td>163</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>83</td>
+      <td>164</td>
+      <td>173</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>101</td>
+      <td>174</td>
+      <td>191</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>102</td>
+      <td>107</td>
+      <td>192</td>
+      <td>197</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>123</td>
+      <td>198</td>
+      <td>213</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>135</td>
+      <td>214</td>
+      <td>225</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>157</td>
+      <td>226</td>
+      <td>247</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>158</td>
+      <td>158</td>
+      <td>248</td>
+      <td>248</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>159</td>
+      <td>177</td>
+      <td>249</td>
+      <td>267</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>182</td>
+      <td>268</td>
+      <td>272</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
+</details>
+
+<details class="pub-entry" markdown="1">
+<summary><strong>doi/10.1016##j.jmb.2011.01.029 (2 structures, 2 sequences)</strong></summary>
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2xtv">2XTV</a></td>
+      <td>1.7</td>
+      <td>P2(1)2(1)2(1)</td>
+      <td>N-terminally truncated GlpG S201T active-site mutant from E. coli, with C-terminal His-tag</td>
+      <td>None (S201T inactive mutant)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2xtu">2XTU</a></td>
+      <td>1.85</td>
+      <td>R32</td>
+      <td>N-terminally truncated GlpG S201T active-site mutant from E. coli, with C-terminal His-tag</td>
+      <td>None (S201T inactive mutant)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Escherichia coli C43 (DE3)
+- **Construct**: Full-length GlpG in pET15b vector with N-terminal His6 tag; transmembrane core domain (residues 87-276) generated by [Limited Proteolysis](/xray-mp-wiki/methods/purification/limited-proteolysis/) during purification
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Bicelle crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Truncated GlpG S201T at 9 mg/ml in nonyl glucoside, mixed with 2% <a href="/xray-mp-wiki/reagents/lipids/dmpc/">DMPC</a>/CHAPSO bicelles (2.6:1 ratio)</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>1.5 M NaCl, 0.1 M Bis-Tris (pH 7)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>298 K (25 C)</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>20-30 days</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals appeared after one week, grew to max 0.3 x 0.08 x 0.05 mm. Type I membrane protein crystals with alternating up-down orientation of molecules.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion (hanging drop)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Completely delipidated truncated GlpG S201T at ~8 mg/ml in nonyl glucoside</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>2.5-3.0 M <a href="/xray-mp-wiki/reagents/additives/ammonium-chloride/">Ammonium Chloride</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>298 K (25 C)</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Detergent environment; trigonal crystal form (R32).</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2xtv">2XTV</a> — Chain A (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">AGP</span><span class="topo-membrane">VTWVMMIACVVVFIAM</span><span class="topo-inside">QILGDQEVMLWLAWPFDPTLKFEFWRYF</span><span class="topo-membrane">THALMHFSLMHIL</span></span>
+<span class="topo-line"><span class="topo-membrane">FNLLWWWYLGG</span><span class="topo-outside">AVEKRLGSGKL</span><span class="topo-membrane">IVITLISALLSGYVQ</span><span class="topo-inside">QKFSGPWFG</span><span class="topo-membrane">GLTGVVYALMGYVW</span></span>
+<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-outside">RGERDPQSGIYLQR</span><span class="topo-membrane">GLIIFALIWIVAGWFDLF</span><span class="topo-unknown">GM</span><span class="topo-inside">SMA</span><span class="topo-membrane">NGAHIAGLAVGLAMAF</span><span class="topo-outside">VDSLNA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>93</td>
+      <td>95</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>19</td>
+      <td>96</td>
+      <td>111</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>47</td>
+      <td>112</td>
+      <td>139</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>71</td>
+      <td>140</td>
+      <td>163</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>82</td>
+      <td>164</td>
+      <td>174</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>97</td>
+      <td>175</td>
+      <td>189</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>106</td>
+      <td>190</td>
+      <td>198</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>107</td>
+      <td>121</td>
+      <td>199</td>
+      <td>213</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>122</td>
+      <td>135</td>
+      <td>214</td>
+      <td>227</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>153</td>
+      <td>228</td>
+      <td>245</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>154</td>
+      <td>155</td>
+      <td>246</td>
+      <td>247</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>156</td>
+      <td>158</td>
+      <td>248</td>
+      <td>250</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>159</td>
+      <td>174</td>
+      <td>251</td>
+      <td>266</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>180</td>
+      <td>267</td>
+      <td>272</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2xtu">2XTU</a> — Chain A (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">ER</span><span class="topo-membrane">AGPVTWVMMIACVVVFIA</span><span class="topo-inside">MQILG</span><span class="topo-unknown">DQEVMLWL</span><span class="topo-inside">AWPFDPTLKFEFW</span><span class="topo-unknown">RYFTHAL</span><span class="topo-inside">MHFS</span><span class="topo-membrane">LMH</span></span>
+<span class="topo-line"><span class="topo-membrane">ILFNLLWWWYLGGAVE</span><span class="topo-outside">KRLGS</span><span class="topo-membrane">GKLIVITLISALLSGYVQ</span><span class="topo-inside">QKFSGPWFG</span><span class="topo-membrane">GLTGVVYALMGY</span></span>
+<span class="topo-line"><span class="topo-membrane">VWLR</span><span class="topo-outside">GERDPQSGIY</span><span class="topo-membrane">LQRGLIIFALIWIVAGWFDLF</span><span class="topo-inside">GMS</span><span class="topo-membrane">MANGAHIAGLAVGLAMAFVD</span><span class="topo-outside">SL</span></span>
+<span class="topo-line"><span class="topo-outside">N</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>91</td>
+      <td>92</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>20</td>
+      <td>93</td>
+      <td>110</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>25</td>
+      <td>111</td>
+      <td>115</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>33</td>
+      <td>116</td>
+      <td>123</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>46</td>
+      <td>124</td>
+      <td>136</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>53</td>
+      <td>137</td>
+      <td>143</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>57</td>
+      <td>144</td>
+      <td>147</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>76</td>
+      <td>148</td>
+      <td>166</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>81</td>
+      <td>167</td>
+      <td>171</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>99</td>
+      <td>172</td>
+      <td>189</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>108</td>
+      <td>190</td>
+      <td>198</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>109</td>
+      <td>124</td>
+      <td>199</td>
+      <td>214</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>125</td>
+      <td>134</td>
+      <td>215</td>
+      <td>224</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>155</td>
+      <td>225</td>
+      <td>245</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>156</td>
+      <td>158</td>
+      <td>246</td>
+      <td>248</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>159</td>
+      <td>178</td>
+      <td>249</td>
+      <td>268</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>179</td>
+      <td>181</td>
+      <td>269</td>
+      <td>271</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
+</details>
+
+<details class="pub-entry" markdown="1">
+<summary><strong>doi/10.1038##s41594-019-0296-9 (8 structures)</strong></summary>
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ul0">6UL0</a></td>
+      <td></td>
+      <td></td>
+      <td>E. coli GlpG in bicelle membrane (apoenzyme)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ul1">6UL1</a></td>
+      <td></td>
+      <td></td>
+      <td>E. coli GlpG in bicelle membrane soaked with Ac-VRMA-CHO</td>
+      <td>Ac-VRMA-CHO (aldehyde inhibitor)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ul2">6UL2</a></td>
+      <td></td>
+      <td></td>
+      <td>E. coli GlpG in bicelle membrane soaked with Ac-VRMA-CHO</td>
+      <td>Ac-VRMA-CHO (aldehyde inhibitor)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ul3">6UL3</a></td>
+      <td></td>
+      <td></td>
+      <td>E. coli GlpG in bicelle membrane soaked with Ac-VRMA-CHO</td>
+      <td>Ac-VRMA-CHO (aldehyde inhibitor)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ul4">6UL4</a></td>
+      <td></td>
+      <td></td>
+      <td>E. coli GlpG in bicelle membrane soaked with Ac-VRMA-CHO</td>
+      <td>Ac-VRMA-CHO (aldehyde inhibitor)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ul5">6UL5</a></td>
+      <td></td>
+      <td></td>
+      <td>E. coli GlpG in bicelle membrane soaked with Ac-VRMA-CHO</td>
+      <td>Ac-VRMA-CHO (aldehyde inhibitor)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ul6">6UL6</a></td>
+      <td></td>
+      <td></td>
+      <td>E. coli GlpG in bicelle membrane soaked with Ac-VRMA-CHO</td>
+      <td>Ac-VRMA-CHO (aldehyde inhibitor)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ul7">6UL7</a></td>
+      <td></td>
+      <td></td>
+      <td>E. coli GlpG in bicelle membrane soaked with Ac-VRMA-CHO</td>
+      <td>Ac-VRMA-CHO (aldehyde inhibitor)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Escherichia coli C43 (DE3)
+- **Construct**: Full-length GlpG in pET15b vector with N-terminal His6 tag; transmembrane core domain (residues 87-276) generated by [Limited Proteolysis](/xray-mp-wiki/methods/purification/limited-proteolysis/) during purification
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Bicelle crystallization with time-resolved soaking</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>E. coli GlpG in <a href="/xray-mp-wiki/reagents/lipids/dmpc/">DMPC</a>/CHAPSO bicelle membrane</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals of GlpG in bicelle membrane were soaked with Ac-VRMA-CHO peptide aldehyde for increasing lengths of time prior to freezing and X-ray diffraction analysis. This time-resolved approach captured 10 catalytic snapshots from gate opening to peptide release.</td>
+    </tr>
+  </tbody>
+</table>
+</details>
 
 
 ## Biological / Functional Insights
@@ -158,7 +1895,7 @@ The active site of GlpG contains a number of water molecules widely distributed 
 
 ### Lipid annulus around GlpG and asymmetric bilayer
 
-The 1.7 A structure of GlpG in bicelles reveals 14 ordered lipid molecules forming an annulus around the protein. Most lipids cluster around TM1, L1, and TM3. The bilayer is asymmetric with well-ordered lipids found only on the cytoplasmic side. The hydrophobic belt of GlpG is ~23 A wide, and the average bilayer thickness is ~25 A, close to the lamellar phase of DMPC bilayers.
+The 1.7 A structure of GlpG in bicelles reveals 14 ordered lipid molecules forming an annulus around the protein. Most lipids cluster around TM1, L1, and TM3. The bilayer is asymmetric with well-ordered lipids found only on the cytoplasmic side. The hydrophobic belt of GlpG is ~23 A wide, and the average bilayer thickness is ~25 A, close to the lamellar phase of [DMPC](/xray-mp-wiki/reagents/lipids/dmpc/) bilayers.
 
 ### Ten catalytic snapshots of rhomboid intramembrane proteolysis
 
@@ -186,7 +1923,18 @@ The catalytic snapshots reveal the specific roles of conserved residues during e
 
 ### Transmembrane substrate binding and cleavage
 
-Time-resolved experiments with a peptide substrate (Ac-RKVRMAAIVFSFP-amide) revealed how a full transmembrane substrate binds and is cleaved. The substrate adopts an abrupt bend at the scissile bond, allowing access to the membrane-embedded active site. This bending is facilitated by glycine and proline residues near the cleavage site, and the structure rationalizes the sequence specificity of rhomboid proteases.
+Time-resolved experiments with a peptide substrate (Ac-RKVRMAAIVFSFP-amide) revealed how a full transmembrane substrate binds and is cleaved. The substrate adopts an abrupt bend at the scissile bond, allowing access to the membrane-embedded active site. This bending is facilitated by [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) and proline residues near the cleavage site, and the structure rationalizes the sequence specificity of rhomboid proteases.
 
 
 ## Cross-References
+
+- <a href="/xray-mp-wiki/concepts/membrane-mimetics/intramembrane-proteolysis/">Intramembrane Proteolysis</a> — Related biological concept
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/purification/limited-proteolysis/">Limited Proteolysis</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/gpcr/human-histamine-h3-receptor/">H3R</a> — Related protein structure
+- <a href="/xray-mp-wiki/reagents/additives/ammonium-chloride/">Ammonium Chloride</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> — Additive used in purification or crystallization buffers

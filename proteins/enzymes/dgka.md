@@ -1,7 +1,7 @@
 ---
 title: "E. coli Diacylglycerol Kinase (DgkA)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -14,63 +14,468 @@ verified: false
 
 ## Overview
 
-Diacylglycerol kinase (DgkA) from Escherichia coli is a 121-residue integral membrane enzyme that catalyses the ATP-dependent phosphorylation of diacylglycerol ([DAG](/xray-mp-wiki/reagents/lipids/dag/)) to phosphatidic acid. For half a century, DgkA has served as a model for investigating membrane protein enzymology, folding, assembly, and stability. The crystal structure reveals a homo-trimeric enzyme with three transmembrane helices (H1-H3) and an N-terminal amphiphilic surface helix per monomer. The three active sites are of the composite, shared-site type, formed between adjacent subunits. The structure was determined by the lipidic cubic phase (in meso) method using 7.8 [MAG](/xray-mp-wiki/reagents/lipids/mag/) as host lipid, with phases obtained by Se-Met SAD.
+Diacylglycerol kinase (DgkA) from Escherichia coli is a 121-residue integral membrane enzyme that catalyses the ATP-dependent phosphorylation of diacylglycerol ([DAG](/xray-mp-wiki/reagents/lipids/dag/)) to phosphatidic acid. For half a century, DgkA has served as a model for investigating membrane protein enzymology, folding, assembly, and stability. The crystal structure reveals a homo-trimeric enzyme with three transmembrane helices (H1-H3) and an N-terminal amphiphilic surface helix per monomer. The three active sites are of the composite, shared-site type, formed between adjacent subunits. The structure was determined by the [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (in meso) method using 7.8 [MAG](/xray-mp-wiki/reagents/lipids/mag/) as host lipid, with phases obtained by Se-Met [SAD](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/).
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##NATURE12179 | 3ZE4 | 2.05 |  | DgkA Delta7 (Ala41Cys Cys46Ala Ile53Val Ile70Leu Met96Leu Val107Asp Cys113Ala) with 7.8 [MAG](/xray-mp-wiki/reagents/lipids/mag/) | [MAG](/xray-mp-wiki/reagents/lipids/mag/) (monoacylglycerol) |
-| doi/10.1038##NCOMMS10140 | 4UXX | 2.7 | P3321 | DgkA Delta4 construct (I53C I70L M96L V107D) co-crystallized with 9.9 [MAG](/xray-mp-wiki/reagents/lipids/mag/) and soaked with zinc-ACP; ternary complex with ACP (non-hydrolysable [ATP](/xray-mp-wiki/reagents/ligands/atp/) analogue) and lipid substrate bound in active site asBC | Zinc-ACP (adenylylmethylenediphosphonate), [MAG](/xray-mp-wiki/reagents/lipids/mag/) (monoacylglycerol lipid substrate) |
+### doi/10.1038##NATURE12179
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3ze4">3ZE4</a></td>
+      <td>2.05</td>
+      <td></td>
+      <td>DgkA Delta7 (Ala41Cys Cys46Ala Ile53Val Ile70Leu Met96Leu Val107Asp Cys113Ala) with 7.8 <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a></td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a> (monoacylglycerol)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli B893(DE3) methionine auxotroph pTrcHisB vector
 - **Construct**: Wild-type dgkA Delta4 (Ile53Cys Ile70Leu Met96Leu Val107Asp) and Delta7 mutants cloned into pTrcHisB using NcoI and EcoRI sites
 
-### Purification Workflow
+**Purification:**
 
-#### Source: doi/10.1038##NATURE12179
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Protein production</td>
+      <td>Auto-induction or <a href="/xray-mp-wiki/reagents/additives/iptg/">Iptg</a> induction in E. coli</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>DgkA proteins expressed and purified as described with an additional <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> step; Se-Met labelling performed using methionine auxotroph B893(DE3) in M9 minimal media</td>
+    </tr>
+  </tbody>
+</table>
 
+**Crystallization:**
 
-##### Steps
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> (in meso) crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>DgkA (Delta7 Delta4 or wild-type) at 12 mg/ml reconstituted into 7.8 <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a> cubic mesophase</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Direct snap-cooling in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown in glass sandwich plates; initial trials with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> (9.9 <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a>) at 20 C yielded minute crystals; optimization with shorter-chain <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a> (7.8 <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a>) at 4 C gave quality crystals; 50 nl protein-lipid mesophase + 800 nl precipitant</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Protein production | Auto-induction or [Iptg](/xray-mp-wiki/reagents/additives/iptg/) induction in E. coli | -- | -- + -- | DgkA proteins expressed and purified as described with an additional size-exclusion chromatography step; Se-Met labelling performed using methionine auxotroph B893(DE3) in M9 minimal media |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3ze4">3ZE4</a> — Chain A (3 TMs, alpha)**
 
-#### Source: doi/10.1038##NCOMMS10140
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GHHHHHHELANNTTG</span><span class="topo-inside">F</span><span class="topo-unknown">TRIIKAAGYSWKGLRAAWIN</span><span class="topo-inside">EAAFRQ</span><span class="topo-membrane">EGVAVLLAVVIACWL</span><span class="topo-outside">DVD</span></span>
+<span class="topo-line"><span class="topo-outside">A</span><span class="topo-membrane">ITRVLLISSVMLVMIV</span><span class="topo-inside">EILNSAIEAVVDRIGSEYHELSGRAKDMGSAAVL</span><span class="topo-membrane">IAIIVAVIT</span></span>
+<span class="topo-line"><span class="topo-membrane">WCILL</span><span class="topo-outside">WSHF</span><span class="topo-unknown">G</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>15</td>
+      <td>-8</td>
+      <td>6</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>16</td>
+      <td>7</td>
+      <td>7</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>36</td>
+      <td>8</td>
+      <td>27</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>42</td>
+      <td>28</td>
+      <td>33</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>57</td>
+      <td>34</td>
+      <td>48</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>61</td>
+      <td>49</td>
+      <td>52</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>77</td>
+      <td>53</td>
+      <td>68</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>111</td>
+      <td>69</td>
+      <td>102</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>112</td>
+      <td>125</td>
+      <td>103</td>
+      <td>116</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>126</td>
+      <td>129</td>
+      <td>117</td>
+      <td>120</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>130</td>
+      <td>121</td>
+      <td>121</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3ze4">3ZE4</a> — Chain B (3 TMs, alpha)**
 
-##### Steps
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GHHHHHHELANNTT</span><span class="topo-inside">GF</span><span class="topo-unknown">TRIIKAAGYSWKGLRAAWI</span><span class="topo-inside">NEAAFRQ</span><span class="topo-membrane">EGVAVLLAVVIACWL</span><span class="topo-outside">DVD</span></span>
+<span class="topo-line"><span class="topo-outside">A</span><span class="topo-membrane">ITRVLLISSVMLVMI</span><span class="topo-inside">VEILNSAIEAVVDRIGSEYHELSGRAKDMGSAAVL</span><span class="topo-membrane">IAIIVAVIT</span></span>
+<span class="topo-line"><span class="topo-membrane">WCILLW</span><span class="topo-outside">SHF</span><span class="topo-unknown">G</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>14</td>
+      <td>-8</td>
+      <td>5</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>16</td>
+      <td>6</td>
+      <td>7</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>35</td>
+      <td>8</td>
+      <td>26</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>42</td>
+      <td>27</td>
+      <td>33</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>57</td>
+      <td>34</td>
+      <td>48</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>61</td>
+      <td>49</td>
+      <td>52</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>76</td>
+      <td>53</td>
+      <td>67</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>111</td>
+      <td>68</td>
+      <td>102</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>112</td>
+      <td>126</td>
+      <td>103</td>
+      <td>117</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>127</td>
+      <td>129</td>
+      <td>118</td>
+      <td>120</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>130</td>
+      <td>121</td>
+      <td>121</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Protein expression and purification | Auto-induction in E. coli | -- | -- + -- | Delta4-DgkA expressed and purified as previously described (Nature 2012); co-crystallized with 9.9 [MAG](/xray-mp-wiki/reagents/lipids/mag/) host lipid in LCP; zinc-ACP soaked into crystals |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3ze4">3ZE4</a> — Chain C (3 TMs, alpha)**
 
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GHHHHHHELANNTTGFTRIIKAAGYSWKGLRAAWIN</span><span class="topo-inside">EAAFRQ</span><span class="topo-membrane">EGVAVLLAVVIACWL</span><span class="topo-outside">DVD</span></span>
+<span class="topo-line"><span class="topo-outside">A</span><span class="topo-membrane">ITRVLLISSVMLVMI</span><span class="topo-inside">VEILNSAIEAVVDRIGSEYHELSGRAKDMGSAAVL</span><span class="topo-membrane">IAIIVAVIT</span></span>
+<span class="topo-line"><span class="topo-membrane">WCILLW</span><span class="topo-outside">SH</span><span class="topo-unknown">FG</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>36</td>
+      <td>-8</td>
+      <td>27</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>42</td>
+      <td>28</td>
+      <td>33</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>57</td>
+      <td>34</td>
+      <td>48</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>61</td>
+      <td>49</td>
+      <td>52</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>76</td>
+      <td>53</td>
+      <td>67</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>111</td>
+      <td>68</td>
+      <td>102</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>112</td>
+      <td>126</td>
+      <td>103</td>
+      <td>117</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>127</td>
+      <td>128</td>
+      <td>118</td>
+      <td>119</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>129</td>
+      <td>130</td>
+      <td>120</td>
+      <td>121</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-## Crystallization
-
-### doi/10.1038##NATURE12179
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (in meso) crystallization |
-| Protein sample | DgkA (Delta7 Delta4 or wild-type) at 12 mg/ml reconstituted into 7.8 [MAG](/xray-mp-wiki/reagents/lipids/mag/) cubic mesophase |
-| Temperature | 4 |
-| Cryoprotection | Direct snap-cooling in liquid nitrogen |
-| Notes | Crystals grown in glass sandwich plates; initial trials with [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) (9.9 [MAG](/xray-mp-wiki/reagents/lipids/mag/)) at 20 C yielded minute crystals; optimization with shorter-chain [MAG](/xray-mp-wiki/reagents/lipids/mag/) (7.8 [MAG](/xray-mp-wiki/reagents/lipids/mag/)) at 4 C gave quality crystals; 50 nl protein-lipid mesophase + 800 nl precipitant |
-
+</div>
 ### doi/10.1038##NCOMMS10140
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (in meso) crystallization |
-| Protein sample | Delta4-DgkA reconstituted into 9.9 [MAG](/xray-mp-wiki/reagents/lipids/mag/) cubic mesophase at 4 degrees C |
-| Temperature | 4 |
-| Cryoprotection | Direct snap-cooling in liquid nitrogen |
-| Notes | Co-crystallized with 9.9 [MAG](/xray-mp-wiki/reagents/lipids/mag/) host lipid; soaked with zinc-ACP to obtain ternary complex; also obtained room-temperature SFX structure using XFEL (Delta7 construct with 7.9 [MAG](/xray-mp-wiki/reagents/lipids/mag/)) |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4uxx">4UXX</a></td>
+      <td>2.7</td>
+      <td>P3321</td>
+      <td>DgkA Delta4 construct (I53C I70L M96L V107D) co-crystallized with 9.9 <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a> and soaked with zinc-ACP; ternary complex with ACP (non-hydrolysable <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a> analogue) and lipid substrate bound in active site asBC</td>
+      <td>Zinc-ACP (adenylylmethylenediphosphonate), <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a> (monoacylglycerol lipid substrate)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: E. coli B893(DE3) methionine auxotroph pTrcHisB vector
+- **Construct**: Wild-type dgkA Delta4 (Ile53Cys Ile70Leu Met96Leu Val107Asp) and Delta7 mutants cloned into pTrcHisB using NcoI and EcoRI sites
+
+**Purification:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Protein expression and purification</td>
+      <td>Auto-induction in E. coli</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>Delta4-DgkA expressed and purified as previously described (Nature 2012); co-crystallized with 9.9 <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a> host lipid in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>; zinc-ACP soaked into crystals</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> (in meso) crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Delta4-DgkA reconstituted into 9.9 <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a> cubic mesophase at 4 degrees C</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Direct snap-cooling in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Co-crystallized with 9.9 <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a> host lipid; soaked with zinc-ACP to obtain ternary complex; also obtained room-temperature SFX structure using XFEL (Delta7 construct with 7.9 <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a>)</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -109,17 +514,17 @@ Serial femtosecond crystallography (SFX) at an X-ray free-electron laser (XFEL) 
 
 ## Cross-References
 
-- [Monoolein (9.9 MAG)](/xray-mp-wiki/reagents/lipids/monoolein/) — Host lipid for initial in meso crystallization trials
-- [Lipidic Cubic Phase (In Meso) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used to obtain DgkA structures
-- [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) — Used for Se-Met SAD phasing
-- [Decylmaltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Detergent in enzyme assay mixture
-- [DAG](/xray-mp-wiki/reagents/lipids/dag/) — Referenced in context related to DAG
-- [MAG](/xray-mp-wiki/reagents/lipids/mag/) — Referenced in context related to MAG
-- [ATP](/xray-mp-wiki/reagents/ligands/atp/) — Referenced in context related to ATP
-- [Iptg](/xray-mp-wiki/reagents/additives/iptg/) — Referenced in context related to Iptg
-- [MPD](/xray-mp-wiki/reagents/additives/mpd/) — Referenced in context related to MPD
-- [Acetate](/xray-mp-wiki/reagents/buffers/acetate/) — Referenced in context related to Acetate
-- [Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) — Component of enzyme assay buffer
-- [PIPES Buffer](/xray-mp-wiki/reagents/buffers/pipes/) — Buffer used in kinase and ADP assays
-- [Single-Wavelength Anomalous Diffraction (SAD)](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/) — Phasing method for Delta7 structure
-- [Dgka](/xray-mp-wiki/proteins/enzymes/dgka/) — Referenced in context related to Dgka
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein (9.9 MAG)</a> — Host lipid for initial in meso crystallization trials
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase (In Meso) Crystallization</a> — Crystallization method used to obtain DgkA structures
+- <a href="/xray-mp-wiki/reagents/additives/selenomethionine/">Selenomethionine (SeMet)</a> — Used for Se-Met [SAD](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/) phasing
+- <a href="/xray-mp-wiki/reagents/detergents/dm/">Decylmaltoside (DM)</a> — Detergent in enzyme assay mixture
+- <a href="/xray-mp-wiki/reagents/lipids/dag/">DAG</a> — Referenced in context related to DAG
+- <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a> — Referenced in context related to MAG
+- <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a> — Referenced in context related to ATP
+- <a href="/xray-mp-wiki/reagents/additives/iptg/">Iptg</a> — Referenced in context related to Iptg
+- <a href="/xray-mp-wiki/reagents/additives/mpd/">MPD</a> — Referenced in context related to MPD
+- <a href="/xray-mp-wiki/reagents/buffers/acetate/">Acetate</a> — Referenced in context related to Acetate
+- <a href="/xray-mp-wiki/reagents/lipids/cardiolipin/">Cardiolipin</a> — Component of enzyme assay buffer
+- <a href="/xray-mp-wiki/reagents/buffers/pipes/">PIPES Buffer</a> — Buffer used in kinase and ADP assays
+- <a href="/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/">Single-Wavelength Anomalous Diffraction (SAD)</a> — Phasing method for Delta7 structure
+- <a href="/xray-mp-wiki/proteins/enzymes/dgka/">Dgka</a> — Referenced in context related to Dgka

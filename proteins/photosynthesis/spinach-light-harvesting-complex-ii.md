@@ -1,7 +1,7 @@
 ---
 title: "Spinach Light-Harvesting Complex II (LHC-II)"
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,40 +17,769 @@ verified: false
 The spinach light-harvesting complex II ([LHC-II](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/)) from Spinacia oleracea is the major light-harvesting pigment-protein complex of [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) in green plants. It serves as the principal solar energy collector in photosynthesis and functions in photoprotection under high-light conditions. The first X-ray crystal structure of spinach [LHC-II](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/) at 2.72 A resolution was determined using icosahedral proteoliposome assembly. Each monomer comprises 232 amino acid residues, 14 chlorophylls (8 Chl a and 6 Chl b), 4 carotenoids (2 [LUTEIN](/xray-mp-wiki/reagents/ligands/lutein/), 1 [Neoxanthin](/xray-mp-wiki/reagents/ligands/neoxanthin/), and 1 xanthophyll-cycle [Carotenoid](/xray-mp-wiki/reagents/ligands/carotenoid/)), and 2 lipids.
 
 
-## Structure Determination
-
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature02373 | 1RWT | 2.72 | R 3 2 |  |  |
-| doi/10.1093##mp##ssu005 | 4LCZ | 2.70 |  | Spinach LHCII crystallized under physiological-relevant cation conditions (10-30 mM Zn2+, 200 mM Na+, pH 6.5), revealing face-to-face stromal packing | 14 chlorophylls (8 Chl a, 6 Chl b), 4 carotenoids, 8 Zn2+, 3 [Cacodylate (Sodium Dimethylarsenate)](/xray-mp-wiki/reagents/buffers/cacodylate/), 5 Na+ per trimer |
-
-## Expression and Purification
-
-### Purification Workflow
-
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Isolation | Thylakoid isolation and [LHC-II](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/) extraction from Spinacia oleracea | — |  | Protocol described in ref. 30 of original paper |
-| Gel filtration chromatography | Size-exclusion chromatography on Hiload 16/60 [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) pg column (Pharmacia Biotech) | — |  | Single step added to improve sample purification and ensure crystallization reproducibility |
-| Solubilization | Solubilization in [BNG](/xray-mp-wiki/reagents/detergents/n-methyl-beta-d-glucoside/) detergent with DGDG lipid | — |  | 0.8% [BNG](/xray-mp-wiki/reagents/detergents/n-methyl-beta-d-glucoside/) and 2 mg/ml DGDG to final concentration of 4 mg/ml chlorophyll |
-
-
-## Crystallization
+## Publications
 
 ### doi/10.1038##nature02373
 
-| Parameter | Value |
-|---|---|
-| Method | sitting-drop vapor diffusion |
-| Protein sample | Trimeric [LHC-II](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/) from Spinacia oleracea solubilized in 0.8% [BNG](/xray-mp-wiki/reagents/detergents/n-methyl-beta-d-glucoside/) ([BNG](/xray-mp-wiki/reagents/detergents/n-methyl-beta-d-glucoside/)) with 2 mg/ml [Digalactosyl Diacylglycerol](/xray-mp-wiki/reagents/lipids/digalactosyl-diacylglycerol/) (DGDG) at 4 mg/ml chlorophyll (about 8 mg/ml protein) concentration |
-| Reservoir | 66.5 mM HEPES-NaOH pH 7.5, 0.9-1.1 M [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) trisodium, 0.2% N,N-bis-(3-D-gluconamidopropyl)deoxycholamide ([DBC](/xray-mp-wiki/reagents/detergents/n-n-bis-3-d-gluconamidopropyl-deoxycholamide/)) |
-| Temperature | 291-293 |
-| Growth time | One week for appearance, one month for maximum size |
-| Notes | Green tubular crystals grown to 0.5 x 0.5 x 0.05 mm. Structure solved by single isomorphous replacement (SIR) method. Ten [LHC-II](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/) monomers in asymmetric unit of large R 3 2 unit cell. Novel Type III membrane-protein crystal assembly using icosahedral proteoliposome. |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1rwt">1RWT</a></td>
+      <td>2.72</td>
+      <td>R 3 2</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>sitting-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Trimeric <a href="/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/">LHC-II</a> from Spinacia oleracea solubilized in 0.8% <a href="/xray-mp-wiki/reagents/detergents/n-methyl-beta-d-glucoside/">BNG</a> (<a href="/xray-mp-wiki/reagents/detergents/n-methyl-beta-d-glucoside/">BNG</a>) with 2 mg/ml <a href="/xray-mp-wiki/reagents/lipids/digalactosyl-diacylglycerol/">Digalactosyl Diacylglycerol</a> (DGDG) at 4 mg/ml chlorophyll (about 8 mg/ml protein) concentration</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>66.5 mM HEPES-NaOH pH 7.5, 0.9-1.1 M <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a> trisodium, 0.2% N,N-bis-(3-D-gluconamidopropyl)deoxycholamide (<a href="/xray-mp-wiki/reagents/detergents/n-n-bis-3-d-gluconamidopropyl-deoxycholamide/">DBC</a>)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>291-293</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>One week for appearance, one month for maximum size</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Green tubular crystals grown to 0.5 x 0.5 x 0.05 mm. Structure solved by single isomorphous replacement (SIR) method. Ten <a href="/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/">LHC-II</a> monomers in asymmetric unit of large R 3 2 unit cell. Novel Type III membrane-protein crystal assembly using icosahedral proteoliposome.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1rwt">1RWT</a> — Chain B (3 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">RKTAGKPKTVQSS</span><span class="topo-outside">SPWYGPDRVKYLGPFSGESPSYLTGEFPGDYGWDTAGLSADPETFAK</span></span>
+<span class="topo-line"><span class="topo-outside">NREL</span><span class="topo-membrane">EVIHCRWAMLGALGCVFPELL</span><span class="topo-inside">ARNGVKFGEAVWFKAGSQIFSEGGLDYLGNPSLVH</span></span>
+<span class="topo-line"><span class="topo-inside">AQS</span><span class="topo-membrane">ILAIWACQVILMGAVEGYR</span><span class="topo-outside">IAGGPLGEVVDPLYPGGSFDPLGLADDPEAFAELKVK</span><span class="topo-membrane">E</span></span>
+<span class="topo-line"><span class="topo-membrane">IKNGRLAMFSMFGFFVQAI</span><span class="topo-inside">VTGKG</span><span class="topo-unknown">PLENLADHLA</span><span class="topo-inside">DPVNNNAWNFATNFVPG</span><span class="topo-unknown">K</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>13</td>
+      <td>1</td>
+      <td>13</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>64</td>
+      <td>14</td>
+      <td>64</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>85</td>
+      <td>65</td>
+      <td>85</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>123</td>
+      <td>86</td>
+      <td>123</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>142</td>
+      <td>124</td>
+      <td>142</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>179</td>
+      <td>143</td>
+      <td>179</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>180</td>
+      <td>199</td>
+      <td>180</td>
+      <td>199</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>204</td>
+      <td>200</td>
+      <td>204</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>205</td>
+      <td>214</td>
+      <td>205</td>
+      <td>214</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>215</td>
+      <td>231</td>
+      <td>215</td>
+      <td>231</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>232</td>
+      <td>232</td>
+      <td>232</td>
+      <td>232</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1rwt">1RWT</a> — Chain F (3 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">RKTAGKPKTVQSS</span><span class="topo-outside">SPWYGPDRVKYLGPFSGESPSYLTGEFPGDYGWDTAGLSADPETFAK</span></span>
+<span class="topo-line"><span class="topo-outside">NREL</span><span class="topo-membrane">EVIHCRWAMLGALGCVFPELL</span><span class="topo-inside">ARNGVKFGEAV</span><span class="topo-unknown">WFKAGSQIF</span><span class="topo-inside">SEGGLDYLGNPSLVH</span></span>
+<span class="topo-line"><span class="topo-inside">AQS</span><span class="topo-membrane">ILAIWACQVILMGAVEGYR</span><span class="topo-outside">IAGGPLGEVVDPLYPGGSFDPLGLADDPEAFAELKVK</span><span class="topo-membrane">E</span></span>
+<span class="topo-line"><span class="topo-membrane">IKNGRLAMFSMFGFFVQAI</span><span class="topo-inside">VTGKG</span><span class="topo-unknown">PLENLADHLA</span><span class="topo-inside">DPVNNNAWNFATNFVPGK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>13</td>
+      <td>1</td>
+      <td>13</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>64</td>
+      <td>14</td>
+      <td>64</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>85</td>
+      <td>65</td>
+      <td>85</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>96</td>
+      <td>86</td>
+      <td>96</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>105</td>
+      <td>97</td>
+      <td>105</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>123</td>
+      <td>106</td>
+      <td>123</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>142</td>
+      <td>124</td>
+      <td>142</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>179</td>
+      <td>143</td>
+      <td>179</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>180</td>
+      <td>199</td>
+      <td>180</td>
+      <td>199</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>204</td>
+      <td>200</td>
+      <td>204</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>205</td>
+      <td>214</td>
+      <td>205</td>
+      <td>214</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>215</td>
+      <td>232</td>
+      <td>215</td>
+      <td>232</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1rwt">1RWT</a> — Chain G (3 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">RKTAGKPKTVQSS</span><span class="topo-outside">SPWYGPDRVKYLGPFSGESPSYLTGEFPGDYGWDTAGLSADPETFAK</span></span>
+<span class="topo-line"><span class="topo-outside">NREL</span><span class="topo-membrane">EVIHCRWAMLGALGCVFPELL</span><span class="topo-inside">ARNGVKFGEAV</span><span class="topo-unknown">WFKAGSQIF</span><span class="topo-inside">SEGGLDYLGNPSLVH</span></span>
+<span class="topo-line"><span class="topo-inside">AQS</span><span class="topo-membrane">ILAIWACQVILMGAVEGYR</span><span class="topo-outside">IAGGPLGEVVDPLYPGGSFDPLGLADDPEAFAELKVK</span><span class="topo-membrane">E</span></span>
+<span class="topo-line"><span class="topo-membrane">IKNGRLAMFSMFGFFVQAI</span><span class="topo-inside">VTGKG</span><span class="topo-unknown">PLENLADHLA</span><span class="topo-inside">DPVNNNAWNFATNFVPG</span><span class="topo-unknown">K</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>13</td>
+      <td>1</td>
+      <td>13</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>64</td>
+      <td>14</td>
+      <td>64</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>85</td>
+      <td>65</td>
+      <td>85</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>96</td>
+      <td>86</td>
+      <td>96</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>105</td>
+      <td>97</td>
+      <td>105</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>123</td>
+      <td>106</td>
+      <td>123</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>142</td>
+      <td>124</td>
+      <td>142</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>179</td>
+      <td>143</td>
+      <td>179</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>180</td>
+      <td>199</td>
+      <td>180</td>
+      <td>199</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>204</td>
+      <td>200</td>
+      <td>204</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>205</td>
+      <td>214</td>
+      <td>205</td>
+      <td>214</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>215</td>
+      <td>231</td>
+      <td>215</td>
+      <td>231</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>232</td>
+      <td>232</td>
+      <td>232</td>
+      <td>232</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
+### doi/10.1093##mp##ssu005
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4lcz">4LCZ</a></td>
+      <td>2.70</td>
+      <td></td>
+      <td>Spinach LHCII crystallized under physiological-relevant cation conditions (10-30 mM Zn2+, 200 mM Na+, pH 6.5), revealing face-to-face stromal packing</td>
+      <td>14 chlorophylls (8 Chl a, 6 Chl b), 4 carotenoids, 8 Zn2+, 3 <a href="/xray-mp-wiki/reagents/buffers/cacodylate/">Cacodylate (Sodium Dimethylarsenate)</a>, 5 Na+ per trimer</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4lcz">4LCZ</a> — Chain A (3 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">TVQSS</span><span class="topo-inside">SPWYGPDRVKYLGPFSGESPSYLTGEFPGDYGWDTAGLSADPETFAKNRE</span><span class="topo-membrane">LEVIH</span></span>
+<span class="topo-line"><span class="topo-membrane">CRWAMLGALGCVFP</span><span class="topo-outside">ELLARNGVKFGEAVWFKAGSQIFSEGGLDYLGNPSLVHAQSIL</span><span class="topo-membrane">AIW</span></span>
+<span class="topo-line"><span class="topo-membrane">ACQVILMGAVEGYR</span><span class="topo-inside">IAGGPLGEVVDPLYPGGSFDPLGLADDPEAFAELKVK</span><span class="topo-membrane">EIKNGRLAM</span></span>
+<span class="topo-line"><span class="topo-membrane">FSMFGFFVQ</span><span class="topo-outside">AIVTGKG</span><span class="topo-unknown">PLENLADHLA</span><span class="topo-outside">DPVNNNA</span><span class="topo-unknown">WNFATNFVPGK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>9</td>
+      <td>13</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>55</td>
+      <td>14</td>
+      <td>63</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>74</td>
+      <td>64</td>
+      <td>82</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>117</td>
+      <td>83</td>
+      <td>125</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>118</td>
+      <td>134</td>
+      <td>126</td>
+      <td>142</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>171</td>
+      <td>143</td>
+      <td>179</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>172</td>
+      <td>189</td>
+      <td>180</td>
+      <td>197</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>190</td>
+      <td>196</td>
+      <td>198</td>
+      <td>204</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>197</td>
+      <td>206</td>
+      <td>205</td>
+      <td>214</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>207</td>
+      <td>213</td>
+      <td>215</td>
+      <td>221</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>224</td>
+      <td>222</td>
+      <td>232</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4lcz">4LCZ</a> — Chain B (3 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">TVQSS</span><span class="topo-inside">SPWYGPDRVKYLGPFSGESPSYLTGEFPGDYGWDTAGLSADPETFAKNRE</span><span class="topo-membrane">LEVIH</span></span>
+<span class="topo-line"><span class="topo-membrane">CRWAMLGALGCVF</span><span class="topo-outside">PELLARNGVKFGEAVWFKAGSQIFSEGGLDYLGNPSLVHAQSIL</span><span class="topo-membrane">AIW</span></span>
+<span class="topo-line"><span class="topo-membrane">ACQVILMGAVEGYR</span><span class="topo-inside">IAGGPLGEVVDPLYPGGSFDPLGLADDPEAFAELKVK</span><span class="topo-membrane">EIKNGRLAM</span></span>
+<span class="topo-line"><span class="topo-membrane">FSMFGFFVQ</span><span class="topo-outside">AIVTGKG</span><span class="topo-unknown">PLENLADHLA</span><span class="topo-outside">DPVNNNA</span><span class="topo-unknown">WNFATNFVPGK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>9</td>
+      <td>13</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>55</td>
+      <td>14</td>
+      <td>63</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>73</td>
+      <td>64</td>
+      <td>81</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>117</td>
+      <td>82</td>
+      <td>125</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>118</td>
+      <td>134</td>
+      <td>126</td>
+      <td>142</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>171</td>
+      <td>143</td>
+      <td>179</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>172</td>
+      <td>189</td>
+      <td>180</td>
+      <td>197</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>190</td>
+      <td>196</td>
+      <td>198</td>
+      <td>204</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>197</td>
+      <td>206</td>
+      <td>205</td>
+      <td>214</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>207</td>
+      <td>213</td>
+      <td>215</td>
+      <td>221</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>224</td>
+      <td>222</td>
+      <td>232</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4lcz">4LCZ</a> — Chain C (3 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">TVQSS</span><span class="topo-inside">SPWYGPDRVKYLGPFSGESPSYLTGEFPGDYGWDTAGLSADPETFAKNRE</span><span class="topo-membrane">LEVIH</span></span>
+<span class="topo-line"><span class="topo-membrane">CRWAMLGALGCVFP</span><span class="topo-outside">ELLARNGVKFGEAV</span><span class="topo-unknown">WFKAGSQIF</span><span class="topo-outside">SEGGLDYLGNPSLVHAQSIL</span><span class="topo-membrane">AIW</span></span>
+<span class="topo-line"><span class="topo-membrane">ACQVILMGAVEGYR</span><span class="topo-inside">IAGGPLGEVVDPLYPGGSFDPLGLADDPEAFAELKVK</span><span class="topo-membrane">EIKNGRLAM</span></span>
+<span class="topo-line"><span class="topo-membrane">FSMFGFFVQ</span><span class="topo-outside">AIVTGKG</span><span class="topo-unknown">PLENLADHLA</span><span class="topo-outside">DPVNNNA</span><span class="topo-unknown">WNFATNFVPGK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>9</td>
+      <td>13</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>55</td>
+      <td>14</td>
+      <td>63</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>74</td>
+      <td>64</td>
+      <td>82</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>88</td>
+      <td>83</td>
+      <td>96</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>97</td>
+      <td>97</td>
+      <td>105</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>117</td>
+      <td>106</td>
+      <td>125</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>118</td>
+      <td>134</td>
+      <td>126</td>
+      <td>142</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>171</td>
+      <td>143</td>
+      <td>179</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>172</td>
+      <td>189</td>
+      <td>180</td>
+      <td>197</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>190</td>
+      <td>196</td>
+      <td>198</td>
+      <td>204</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>197</td>
+      <td>206</td>
+      <td>205</td>
+      <td>214</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>207</td>
+      <td>213</td>
+      <td>215</td>
+      <td>221</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>224</td>
+      <td>222</td>
+      <td>232</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -77,13 +806,13 @@ A structure-based NPQ model is proposed. DGDG-mediated aggregation of [LHC-II](/
 
 ## Cross-References
 
-- [Pea Light-Harvesting Complex II](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/) — Electron crystallography structure at 3.4 A resolution; 89% sequence conservation with spinach LHC-II
-- [Lutein](/xray-mp-wiki/reagents/ligands/lutein/) — Two lutein molecules per monomer, structural and light-harvesting roles
-- [Neoxanthin](/xray-mp-wiki/reagents/ligands/neoxanthin/) — 9'-cis neoxanthin bound in Chl b-rich region near helix C
-- [Violaxanthin](/xray-mp-wiki/reagents/ligands/violaxanthin/) — Xanthophyll-cycle carotenoid at monomer-monomer interface, involved in NPQ
-- [Digalactosyl Diacylglycerol](/xray-mp-wiki/reagents/lipids/digalactosyl-diacylglycerol/) — DGDG bridges adjacent LHC-II trimers in proteoliposome assembly
-- [Phosphatidylglycerol](/xray-mp-wiki/reagents/lipids/phosphatidylglycerol/) — PG stabilizes LHC-II trimer at monomer-monomer interfaces
-- [n-Methyl-beta-D-glucoside (BNG)](/xray-mp-wiki/reagents/detergents/n-methyl-beta-d-glucoside/) — Detergent used for LHC-II solubilization at 0.8%
-- [Non-photochemical Quenching (NPQ)](/xray-mp-wiki/concepts/miscellaneous/non-photochemical-quenching/) — Structure-based NPQ model proposed for LHC-II
-- [Photosystem II](/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/) — Related protein structure
-- [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/">Pea Light-Harvesting Complex II</a> — Electron crystallography structure at 3.4 A resolution; 89% sequence conservation with spinach LHC-II
+- <a href="/xray-mp-wiki/reagents/ligands/lutein/">Lutein</a> — Two lutein molecules per monomer, structural and light-harvesting roles
+- <a href="/xray-mp-wiki/reagents/ligands/neoxanthin/">Neoxanthin</a> — 9'-cis neoxanthin bound in Chl b-rich region near helix C
+- <a href="/xray-mp-wiki/reagents/ligands/violaxanthin/">Violaxanthin</a> — Xanthophyll-cycle carotenoid at monomer-monomer interface, involved in NPQ
+- <a href="/xray-mp-wiki/reagents/lipids/digalactosyl-diacylglycerol/">Digalactosyl Diacylglycerol</a> — DGDG bridges adjacent LHC-II trimers in proteoliposome assembly
+- <a href="/xray-mp-wiki/reagents/lipids/phosphatidylglycerol/">Phosphatidylglycerol</a> — PG stabilizes LHC-II trimer at monomer-monomer interfaces
+- <a href="/xray-mp-wiki/reagents/detergents/n-methyl-beta-d-glucoside/">n-Methyl-beta-D-glucoside (BNG)</a> — Detergent used for LHC-II solubilization at 0.8%
+- <a href="/xray-mp-wiki/concepts/miscellaneous/non-photochemical-quenching/">Non-photochemical Quenching (NPQ)</a> — Structure-based NPQ model proposed for LHC-II
+- <a href="/xray-mp-wiki/proteins/photosynthesis/photosystem-ii/">Photosystem II</a> — Related protein structure
+- <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> — Additive used in purification or crystallization buffers

@@ -1,7 +1,7 @@
 ---
 title: "LH1-RC complex from Thermochromatium tepidum"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,43 +16,105 @@ verified: false
 
 The light-harvesting core antenna (LH1) and the reaction centre (RC) from Thermochromatium tepidum form a supramolecular complex to use sunlight energy efficiently. The structure, determined at 3.0 A resolution, reveals the RC surrounded by 16 heterodimers of the LH1 alpha/beta-subunit forming a completely closed structure. Calcium ions located at the periplasmic side of LH1 stabilize the complex and enhance thermostability. Thirty-two [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) (B915) and 16 spirilloxanthin molecules in the LH1 ring form an elliptical assembly. The structure provides insights into [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) channels in the closed LH1 complex.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature13197 | 4V8K | 3.0 | P21 | LH1-RC core complex from Thermochromatium tepidum, 16 LH1 alpha/beta heterodimers surrounding RC with H, L, M and Cyt subunits | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a (B915), spirilloxanthin, [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/), non-haem [IRON](/xray-mp-wiki/reagents/additives/iron/), calcium ions, haem |
+### doi/10.1038##nature13197
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4v8k">4V8K</a></td>
+      <td>3.0</td>
+      <td>P21</td>
+      <td>LH1-RC core complex from Thermochromatium tepidum, 16 LH1 alpha/beta heterodimers surrounding RC with H, L, M and Cyt subunits</td>
+      <td><a href="/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/">Bacteriochlorophyll</a> a (B915), spirilloxanthin, <a href="/xray-mp-wiki/reagents/cofactors/ubiquinone/">Ubiquinone</a>, non-haem <a href="/xray-mp-wiki/reagents/additives/iron/">IRON</a>, calcium ions, haem</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Thermochromatium tepidum (native thermophilic purple bacterium)
 - **Construct**: Native LH1-RC complex, wild-type
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Chromatophore preparation</td>
+      <td>Cell disruption and differential centrifugation</td>
+      <td>--</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 0.8% <a href="/xray-mp-wiki/reagents/detergents/dpc/">DPC</a> + 0.28% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a></td>
+      <td>Chromatophores treated with 0.28% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> at 25 C for 60 min to remove excess LH2</td>
+    </tr>
+    <tr>
+      <td>LH1-RC extraction</td>
+      <td>Detergent extraction</td>
+      <td>--</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 0.8% <a href="/xray-mp-wiki/reagents/detergents/dpc/">DPC</a> + 1.0% n-decylphosphocholine (<a href="/xray-mp-wiki/reagents/detergents/dpc/">DPC</a>)</td>
+      <td>Pellet after ultracentrifugation treated with 1.0% <a href="/xray-mp-wiki/reagents/detergents/dpc/">DPC</a> to yield LH1-RC rich components</td>
+    </tr>
+    <tr>
+      <td>Anion-exchange chromatography</td>
+      <td>DEAE anion-exchange column (Toyopearl 650S; TOSOH)</td>
+      <td>DEAE Toyopearl 650S</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 0.8% <a href="/xray-mp-wiki/reagents/detergents/dpc/">DPC</a> + 0.8% <a href="/xray-mp-wiki/reagents/detergents/dpc/">DPC</a></td>
+      <td>Eluted by linear gradient of CaCl2 from 10 mM to 25 mM; peak fractions with A915/A280 > 2.20 collected</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Chromatophore preparation | Cell disruption and differential centrifugation | -- | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 0.8% [DPC](/xray-mp-wiki/reagents/detergents/dpc/) + 0.28% [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) | Chromatophores treated with 0.28% [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) at 25 C for 60 min to remove excess LH2 |
-| LH1-RC extraction | Detergent extraction | -- | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 0.8% [DPC](/xray-mp-wiki/reagents/detergents/dpc/) + 1.0% n-decylphosphocholine ([DPC](/xray-mp-wiki/reagents/detergents/dpc/)) | Pellet after ultracentrifugation treated with 1.0% [DPC](/xray-mp-wiki/reagents/detergents/dpc/) to yield LH1-RC rich components |
-| Anion-exchange chromatography | DEAE anion-exchange column (Toyopearl 650S; TOSOH) | DEAE Toyopearl 650S | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 0.8% [DPC](/xray-mp-wiki/reagents/detergents/dpc/) + 0.8% [DPC](/xray-mp-wiki/reagents/detergents/dpc/) | Eluted by linear gradient of CaCl2 from 10 mM to 25 mM; peak fractions with A915/A280 > 2.20 collected |
-
-
-## Crystallization
-
-### doi/10.1038##nature13197
-
-| Parameter | Value |
-|---|---|
-| Method | Sitting-drop vapor diffusion |
-| Protein sample | LH1-RC at ~22 mg/ml in 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 0.8% [DPC](/xray-mp-wiki/reagents/detergents/dpc/) |
-| Reservoir | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.4, 50 mM CaCl2, 0.54% [DPC](/xray-mp-wiki/reagents/detergents/dpc/), 2% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 14% [PEG 3000](/xray-mp-wiki/reagents/additives/peg3000/) |
-| Temperature | 20 C |
-| Growth time | ~2 weeks |
-| Cryoprotection | Stepwise [PEG 3000](/xray-mp-wiki/reagents/additives/peg3000/) and [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) replacement; final 24% [PEG 3000](/xray-mp-wiki/reagents/additives/peg3000/), 16% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/); flash-frozen in liquid nitrogen |
-| Notes | Dehydration and cryoprotectant replacement performed by progressively raising [PEG 3000](/xray-mp-wiki/reagents/additives/peg3000/) (15% to 24%) and [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) (1% to 16%) concentrations. Crystal size 0.3x0.4x0.05 to 0.4x0.8x0.2 mm3. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>LH1-RC at ~22 mg/ml in 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 0.8% <a href="/xray-mp-wiki/reagents/detergents/dpc/">DPC</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.4, 50 mM CaCl2, 0.54% <a href="/xray-mp-wiki/reagents/detergents/dpc/">DPC</a>, 2% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 14% <a href="/xray-mp-wiki/reagents/additives/peg3000/">PEG 3000</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>~2 weeks</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Stepwise <a href="/xray-mp-wiki/reagents/additives/peg3000/">PEG 3000</a> and <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> replacement; final 24% <a href="/xray-mp-wiki/reagents/additives/peg3000/">PEG 3000</a>, 16% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>; flash-frozen in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Dehydration and cryoprotectant replacement performed by progressively raising <a href="/xray-mp-wiki/reagents/additives/peg3000/">PEG 3000</a> (15% to 24%) and <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> (1% to 16%) concentrations. Crystal size 0.3x0.4x0.05 to 0.4x0.8x0.2 mm3.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -79,13 +141,13 @@ The secondary quinone molecule (QB) in proximity to the non-haem [IRON](/xray-mp
 
 ## Cross-References
 
-- [LH2 from Rhodopseudomonas acidophila](/xray-mp-wiki/proteins/photosynthesis/lh2-rps-acidophila/) — Related light-harvesting complex with similar transmembrane helix fold
-- [LH2 from Rhodospirillum molischianum](/xray-mp-wiki/proteins/photosynthesis/lh2-rs-molischianum/) — Similar LH2 structure used for comparison of transmembrane regions
-- [Blastochloris viridis Photosynthetic Reaction Centre](/xray-mp-wiki/proteins/photosynthesis/blastochloris-viridis-photosynthetic-reaction-centre/) — Related RC structure determined by SFX
-- [Rhodobacter sphaeroides Photosynthetic Reaction Center](/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-center/) — Related RC from a different purple bacterium
-- [PSI-LHCI supercomplex from Chlamydomonas reinhardtii](/xray-mp-wiki/proteins/photosynthesis/psi-lhci-chlamydomonas/) — Another photosynthetic pigment-protein complex
-- [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) — Primary pigment cofactor in LH1 and RC
-- [Lauryldimethylamine N-oxide (LDAO)](/xray-mp-wiki/reagents/detergents/ldao/) — Detergent used to remove excess LH2 during purification
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
-- [IRON](/xray-mp-wiki/reagents/additives/iron/) — Additive used in purification or crystallization buffers
-- [PEG 3000](/xray-mp-wiki/reagents/additives/peg3000/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/proteins/photosynthesis/lh2-rps-acidophila/">LH2 from Rhodopseudomonas acidophila</a> — Related light-harvesting complex with similar transmembrane helix fold
+- <a href="/xray-mp-wiki/proteins/photosynthesis/lh2-rs-molischianum/">LH2 from Rhodospirillum molischianum</a> — Similar LH2 structure used for comparison of transmembrane regions
+- <a href="/xray-mp-wiki/proteins/photosynthesis/blastochloris-viridis-photosynthetic-reaction-centre/">Blastochloris viridis Photosynthetic Reaction Centre</a> — Related RC structure determined by SFX
+- <a href="/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-center/">Rhodobacter sphaeroides Photosynthetic Reaction Center</a> — Related RC from a different purple bacterium
+- <a href="/xray-mp-wiki/proteins/photosynthesis/psi-lhci-chlamydomonas/">PSI-LHCI supercomplex from Chlamydomonas reinhardtii</a> — Another photosynthetic pigment-protein complex
+- <a href="/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/">Bacteriochlorophyll</a> — Primary pigment cofactor in LH1 and RC
+- <a href="/xray-mp-wiki/reagents/detergents/ldao/">Lauryldimethylamine N-oxide (LDAO)</a> — Detergent used to remove excess LH2 during purification
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/iron/">IRON</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/peg3000/">PEG 3000</a> — Additive used in purification or crystallization buffers

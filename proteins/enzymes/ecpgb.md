@@ -1,7 +1,7 @@
 ---
 title: "E. coli Phosphatidylglycerophosphate Phosphatase B (ecPgpB)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -22,39 +22,267 @@ entrance cleft, allowing lateral movement of lipid substrates from the membrane 
 The structure serves as a prototype for eukaryotic PAP2 enzymes including human -6-phosphatase.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.1403097111 | 4PX7 | 3.2 | P2(1)2(1)2(1) | ecPgpB WT and I116M/E120K mutant |  |
+### doi/10.1073##pnas.1403097111
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4px7">4PX7</a></td>
+      <td>3.2</td>
+      <td>P2(1)2(1)2(1)</td>
+      <td>ecPgpB WT and I116M/E120K mutant</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli BL21
 - **Construct**: Full-length PgpB cloned from E. coli BL21 genome
 - **Notes**: Expressed as recombinant protein
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli BL21
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Purification</td>
+      <td>Detergent solubilization and purification</td>
+      <td>—</td>
+      <td> + <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> ()</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Purification | Detergent solubilization and purification | — |  + [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) () |  |
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified ecPgpB in detergent combination</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>I116M/E120K double mutant gave better resolution. Space group P2(1)2(1)2(1).</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-## Crystallization
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4px7">4PX7</a> — Chain A (6 TMs, alpha)**
 
-### doi/10.1073##pnas.1403097111
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">GRSI</span><span class="topo-membrane">ARRTAVGAALLLVMPVAVWIS</span><span class="topo-outside">GWRWQPG</span><span class="topo-unknown">EQ</span><span class="topo-outside">SWLLK</span><span class="topo-membrane">AAFWVTETVTQPWGVITHLIL</span></span>
+<span class="topo-line"><span class="topo-membrane">FGWFL</span><span class="topo-inside">WCLRFRIKAA</span><span class="topo-membrane">FVLFAILAAAILVGQGVKSWIK</span><span class="topo-outside">DKVQEPRPFVIWLEKTHHMPVDK</span></span>
+<span class="topo-line"><span class="topo-outside">FYTLKRAERGNLVKEQLAE</span><span class="topo-unknown">EKNI</span><span class="topo-outside">P</span><span class="topo-unknown">QYLRSHWQKE</span><span class="topo-outside">TGFA</span><span class="topo-membrane">FPSGHTMFAASWALLAVGLLW</span><span class="topo-inside">P</span></span>
+<span class="topo-line"><span class="topo-inside">RRR</span><span class="topo-membrane">TLTIAILLVWATGVMGSRLL</span><span class="topo-outside">LGM</span><span class="topo-membrane">HWPRDLVVATLISWALVAVATWLA</span><span class="topo-inside">QRICGPLTPP</span></span>
+<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">EENREIAQREQESLEHH</span><span class="topo-unknown">HHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>1</td>
+      <td>4</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>25</td>
+      <td>5</td>
+      <td>25</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>32</td>
+      <td>26</td>
+      <td>32</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>34</td>
+      <td>33</td>
+      <td>34</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>39</td>
+      <td>35</td>
+      <td>39</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>65</td>
+      <td>40</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>75</td>
+      <td>66</td>
+      <td>75</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>97</td>
+      <td>76</td>
+      <td>97</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>139</td>
+      <td>98</td>
+      <td>139</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>140</td>
+      <td>143</td>
+      <td>140</td>
+      <td>143</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>144</td>
+      <td>144</td>
+      <td>144</td>
+      <td>144</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>145</td>
+      <td>154</td>
+      <td>145</td>
+      <td>154</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>155</td>
+      <td>158</td>
+      <td>155</td>
+      <td>158</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>159</td>
+      <td>179</td>
+      <td>159</td>
+      <td>179</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>180</td>
+      <td>183</td>
+      <td>180</td>
+      <td>183</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>184</td>
+      <td>203</td>
+      <td>184</td>
+      <td>203</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>204</td>
+      <td>206</td>
+      <td>204</td>
+      <td>206</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>207</td>
+      <td>230</td>
+      <td>207</td>
+      <td>230</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>231</td>
+      <td>240</td>
+      <td>231</td>
+      <td>240</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>241</td>
+      <td>241</td>
+      <td>241</td>
+      <td>241</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>242</td>
+      <td>258</td>
+      <td>242</td>
+      <td>258</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>259</td>
+      <td>262</td>
+      <td>259</td>
+      <td>262</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | Purified ecPgpB in detergent combination |
-| Notes | I116M/E120K double mutant gave better resolution. Space group P2(1)2(1)2(1). |
-
+</div>
 
 ## Biological / Functional Insights
 
@@ -79,8 +307,8 @@ and ciCPO (PDB 1VNC), confirming evolutionary relationship between soluble and T
 
 ## Cross-References
 
-- [Type II Phosphatidic Acid Phosphatase (PAP2) Family](/xray-mp-wiki/concepts/protein-families/pap2-family/) — ecPgpB is prototypical transmembrane PAP2 enzyme
-- [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Referenced in ecpgb text
-- [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) — Referenced in ecpgb text
-- [Nonyl Beta D Glucopyranoside](/xray-mp-wiki/reagents/nonyl-beta-d-glucopyranoside/) — Referenced in ecpgb text
-- [Phosphatidic Acid](/xray-mp-wiki/reagents/lipids/phosphatidic-acid/) — Referenced in ecpgb text
+- <a href="/xray-mp-wiki/concepts/protein-families/pap2-family/">Type II Phosphatidic Acid Phosphatase (PAP2) Family</a> — ecPgpB is prototypical transmembrane PAP2 enzyme
+- <a href="/xray-mp-wiki/reagents/additives/glucose/">Glucose</a> — Referenced in ecpgb text
+- <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> — Referenced in ecpgb text
+- <a href="/xray-mp-wiki/reagents/nonyl-beta-d-glucopyranoside/">Nonyl Beta D Glucopyranoside</a> — Referenced in ecpgb text
+- <a href="/xray-mp-wiki/reagents/lipids/phosphatidic-acid/">Phosphatidic Acid</a> — Referenced in ecpgb text

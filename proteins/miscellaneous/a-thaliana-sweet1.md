@@ -1,12 +1,12 @@
 ---
 title: "A. thaliana SWEET1"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [transporter, membrane-protein]
-sources: [doi/10.1038##nature13670]
+sources: []
 verified: false
 ---
 
@@ -17,21 +17,9 @@ verified: false
 A. thaliana SWEET1 is a glucose transporter from the SWEET family found in Arabidopsis thaliana. It consists of two [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet)-like units fused via an inversion linker transmembrane helix, forming a seven-transmembrane-helix protein. SWEET1 functions as a glucose transporter and was functionally characterized in a hexose-uptake-deficient yeast strain. Conserved tryptophan and asparagine residues in both transmembrane helix bundle repeats are essential for transport activity.
 
 
-## Structure Determination
+## Publications
 
-No structure determined.
-
-## Expression and Purification
-
-- **Expression system**: Saccharomyces cerevisiae
-- **Construct**: A. thaliana SWEET1 with GFP tag and point mutations (W56A, N73A, W176A, N192A)
-- **Notes**: Expressed as SWEET1-GFP fusion in EBY4000 hexose-transport-defective yeast strain
-
-No purification described.
-
-## Crystallization
-
-No crystallization described.
+No publications.
 
 ## Biological / Functional Insights
 
@@ -46,7 +34,7 @@ The W56A, N73A, W176A, and N192A mutations had no significant effect on the plas
 
 ## Cross-References
 
-- [LbSemiSWEET from Leptospira biflexa](/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/) — Bacterial [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet) homolog with conserved W and N residues critical for function
-- [SWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/sweet-transporter/) — A. thaliana SWEET1 is a member of the SWEET family of sugar transporters
-- [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) — SWEETs consist of two [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet)-like units fused via an inversion linker
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — SWEETs operate via alternating access transport
+- <a href="/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/">LbSemiSWEET from Leptospira biflexa</a> — Bacterial [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet) homolog with conserved W and N residues critical for function
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/sweet-transporter/">SWEET Transporter Family</a> — A. thaliana SWEET1 is a member of the SWEET family of sugar transporters
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/semisweet/">SemiSWEET Transporter Family</a> — SWEETs consist of two [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet)-like units fused via an inversion linker
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating-Access Mechanism</a> — SWEETs operate via alternating access transport

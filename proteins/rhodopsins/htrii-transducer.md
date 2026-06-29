@@ -1,7 +1,7 @@
 ---
 title: "HtrII Transducer (Sensory Rhodopsin II Transducer)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -26,42 +26,493 @@ two TM helices and a short cytoplasmic fragment and forms a functionally
 unimpaired complex with SRII.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##NATURE01109 | 1H2S | 1.94 | Orthorhombic | HtrII_114 (residues 1-114, C-terminal truncated) in complex with NpSRII |  |
+### doi/10.1038##NATURE01109
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1h2s">1H2S</a></td>
+      <td>1.94</td>
+      <td>Orthorhombic</td>
+      <td>HtrII_114 (residues 1-114, C-terminal truncated) in complex with NpSRII</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli BL21 (DE3)
 - **Construct**: C-terminal 7x His-tagged HtrII_114 (residues 1-114)
 - **Notes**: Co-expressed and co-purified with NpSRII
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Affinity purification</td>
+      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>—</td>
+      <td>Imidazole-containing buffer</td>
+      <td>His-tagged HtrII_114 purified via C-terminal His tag</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/ion-exchange-chromatography/">Ion-Exchange Chromatography</a></td>
+      <td>DEAE chromatography</td>
+      <td>—</td>
+      <td>Buffer with 2% n-octyl-beta-D-glucopyranoside</td>
+      <td>Imidazol removed by DEAE chromatography before complex formation</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Affinity purification | Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | — | Imidazole-containing buffer | His-tagged HtrII_114 purified via C-terminal His tag |
-| [Ion-Exchange Chromatography](/xray-mp-wiki/methods/purification/ion-exchange-chromatography/) | DEAE chromatography | — | Buffer with 2% n-octyl-beta-D-glucopyranoside | Imidazol removed by DEAE chromatography before complex formation |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>NpSRII-HtrII_114 complex (1:1 ratio) reconstituted into H. salinarum polar lipids</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monovacccin</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>22°C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Thin orange orthorhombic crystals ~140 um. Complex solubilized in 2% n-octyl-beta-D-glucopyranoside, 150 mM NaCl, 25 mM Na/KPi pH 5.1. Data collected at ESRF beamline ID14-1.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1h2s">1H2S</a> — Chain A (7 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">MVGL</span><span class="topo-membrane">TTLFWLGAIGMLVGTLAFA</span><span class="topo-inside">WAGRDAGSGERRYYV</span><span class="topo-membrane">TLVGISGIAAVAYVVMAL</span><span class="topo-outside">GVGW</span></span>
+<span class="topo-line"><span class="topo-outside">VPVAERTVF</span><span class="topo-membrane">APRYIDWILTTPLIVY</span><span class="topo-inside">FLGLLAGLDSREFG</span><span class="topo-membrane">IVITLNTVVMLAGFAGA</span><span class="topo-outside">MVPG</span></span>
+<span class="topo-line"><span class="topo-outside">IER</span><span class="topo-membrane">YALFGMGAVAFLGLVYY</span><span class="topo-inside">LVGPMTESASQRSSGIKSLYVRLRN</span><span class="topo-membrane">LTVILWAIYPFIWLL</span></span>
+<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-outside">PPGVALLTPT</span><span class="topo-membrane">VDVALIVYLDLVTKVGFGF</span><span class="topo-inside">IALDAAATLRAEHGE</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>1</td>
+      <td>4</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>23</td>
+      <td>5</td>
+      <td>23</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>38</td>
+      <td>24</td>
+      <td>38</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>56</td>
+      <td>39</td>
+      <td>56</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>69</td>
+      <td>57</td>
+      <td>69</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>85</td>
+      <td>70</td>
+      <td>85</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>99</td>
+      <td>86</td>
+      <td>99</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>116</td>
+      <td>100</td>
+      <td>116</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>117</td>
+      <td>123</td>
+      <td>117</td>
+      <td>123</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>140</td>
+      <td>124</td>
+      <td>140</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>141</td>
+      <td>165</td>
+      <td>141</td>
+      <td>165</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>166</td>
+      <td>181</td>
+      <td>166</td>
+      <td>181</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>182</td>
+      <td>191</td>
+      <td>182</td>
+      <td>191</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>210</td>
+      <td>192</td>
+      <td>210</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>211</td>
+      <td>225</td>
+      <td>211</td>
+      <td>225</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##NATURE01109
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1h2s">1H2S</a> — Chain B (2 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Protein sample | NpSRII-HtrII_114 complex (1:1 ratio) reconstituted into H. salinarum polar lipids |
-| Lipid | Monovacccin |
-| Temperature | 22°C |
-| Growth time | Not specified |
-| Notes | Thin orange orthorhombic crystals ~140 um. Complex solubilized in 2% n-octyl-beta-D-glucopyranoside, 150 mM NaCl, 25 mM Na/KPi pH 5.1. Data collected at ESRF beamline ID14-1. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">G</span><span class="topo-membrane">AVFIFVGALTVLFGAIA</span><span class="topo-outside">YGEVTAAAATGDAAAVQEAAVS</span><span class="topo-membrane">AILGLIILLGINLGLVAA</span><span class="topo-inside">TL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>23</td>
+      <td>23</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>18</td>
+      <td>24</td>
+      <td>40</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>40</td>
+      <td>41</td>
+      <td>62</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>58</td>
+      <td>63</td>
+      <td>80</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>60</td>
+      <td>81</td>
+      <td>82</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1h2s">1H2S</a> — Chain C (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">MVGL</span><span class="topo-membrane">TTLFWLGAIGMLVGTLAFA</span><span class="topo-inside">WAGRDAGSGERRYYV</span><span class="topo-membrane">TLVGISGIAAVAYVVMAL</span><span class="topo-outside">GVGW</span></span>
+<span class="topo-line"><span class="topo-outside">VPVAERTVF</span><span class="topo-membrane">APRYIDWILTTPLIVY</span><span class="topo-inside">FLGLLAGLDSREFG</span><span class="topo-membrane">IVITLNTVVMLAGFAGA</span><span class="topo-outside">MVPG</span></span>
+<span class="topo-line"><span class="topo-outside">IER</span><span class="topo-membrane">YALFGMGAVAFLGLVYY</span><span class="topo-inside">LVGPMTESASQRSSGIKSLYVRLRN</span><span class="topo-membrane">LTVILWAIYPFIWLL</span></span>
+<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-outside">PPGVALLTPT</span><span class="topo-membrane">VDVALIVYLDLVTKVGFGF</span><span class="topo-inside">IALDAAATLRAEHGE</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>1</td>
+      <td>4</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>23</td>
+      <td>5</td>
+      <td>23</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>38</td>
+      <td>24</td>
+      <td>38</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>56</td>
+      <td>39</td>
+      <td>56</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>69</td>
+      <td>57</td>
+      <td>69</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>85</td>
+      <td>70</td>
+      <td>85</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>99</td>
+      <td>86</td>
+      <td>99</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>116</td>
+      <td>100</td>
+      <td>116</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>117</td>
+      <td>123</td>
+      <td>117</td>
+      <td>123</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>140</td>
+      <td>124</td>
+      <td>140</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>141</td>
+      <td>165</td>
+      <td>141</td>
+      <td>165</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>166</td>
+      <td>181</td>
+      <td>166</td>
+      <td>181</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>182</td>
+      <td>191</td>
+      <td>182</td>
+      <td>191</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>210</td>
+      <td>192</td>
+      <td>210</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>211</td>
+      <td>225</td>
+      <td>211</td>
+      <td>225</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1h2s">1H2S</a> — Chain D (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">G</span><span class="topo-membrane">AVFIFVGALTVLFGAIA</span><span class="topo-outside">YGEVTAAAATGDAAAVQEAAVS</span><span class="topo-membrane">AILGLIILLGINLGLVAA</span><span class="topo-inside">TL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>23</td>
+      <td>23</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>18</td>
+      <td>24</td>
+      <td>40</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>40</td>
+      <td>41</td>
+      <td>62</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>58</td>
+      <td>63</td>
+      <td>80</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>60</td>
+      <td>81</td>
+      <td>82</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -82,7 +533,7 @@ two-component cascade.
 
 ## Cross-References
 
-- [Sensory Rhodopsin II (NpSRII)](/xray-mp-wiki/proteins/rhodopsins/sensory-rhodopsin-ii/) — HtrII forms a tight complex with NpSRII and mediates phototaxis signal transduction
-- [Two-Component Signaling System (TCS) in Membrane Sensors](/xray-mp-wiki/concepts/signaling-receptors/two-component-signaling-system/) — HtrII links SRII photoactivation to the CheA/CheY two-component signalling cascade
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [Ion-Exchange Chromatography](/xray-mp-wiki/methods/purification/ion-exchange-chromatography/) — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/rhodopsins/sensory-rhodopsin-ii/">Sensory Rhodopsin II (NpSRII)</a> — HtrII forms a tight complex with NpSRII and mediates phototaxis signal transduction
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/two-component-signaling-system/">Two-Component Signaling System (TCS) in Membrane Sensors</a> — HtrII links SRII photoactivation to the CheA/CheY two-component signalling cascade
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/purification/ion-exchange-chromatography/">Ion-Exchange Chromatography</a> — Method used in structure determination or purification

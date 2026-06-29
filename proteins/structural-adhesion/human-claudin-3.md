@@ -1,12 +1,12 @@
 ---
 title: "Human Claudin-3 (hCLDN-3)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [receptor, membrane-protein]
-sources: [doi/10.1073##pnas.2024651118]
+sources: []
 verified: false
 ---
 
@@ -27,17 +27,9 @@ receptor (Kd = 9.5 nM, with NPLVP motif containing leucine at position 3),
 hCLDN-3 is not a primary CpE receptor in humans.
 
 
-## Structure Determination
+## Publications
 
-No structure determined.
-
-## Expression and Purification
-
-No purification described.
-
-## Crystallization
-
-No crystallization described.
+No publications.
 
 ## Biological / Functional Insights
 
@@ -61,5 +53,5 @@ implications for translating CpE-based therapies from mouse models to humans.
 
 ## Cross-References
 
-- [Human Claudin-4 (hCLDN-4)](/xray-mp-wiki/proteins/structural-adhesion/human-claudin-4/) — Direct comparison with hCLDN-3 reveals NPLVA/NPVVP motif divergence as basis for differential CpE affinity
-- [C-CPE (Clostridium perfringens Enterotoxin)](/xray-mp-wiki/reagents/ligands/c-cpe/) — hCLDN-3 is a low-affinity CpE receptor in humans
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/human-claudin-4/">Human Claudin-4 (hCLDN-4)</a> — Direct comparison with hCLDN-3 reveals NPLVA/NPVVP motif divergence as basis for differential CpE affinity
+- <a href="/xray-mp-wiki/reagents/ligands/c-cpe/">C-CPE (Clostridium perfringens Enterotoxin)</a> — hCLDN-3 is a low-affinity CpE receptor in humans

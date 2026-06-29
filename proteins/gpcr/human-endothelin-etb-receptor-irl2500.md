@@ -1,7 +1,7 @@
 ---
 title: "Human Endothelin ETB Receptor in Complex with IRL2500"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -24,44 +24,310 @@ D[2.50], stabilizing the inactive conformation. [IRL2500](/xray-mp-wiki/reagents
 agonist, as demonstrated using a constitutively active ETB mutant (L192[3.43]Q).
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##s42003-019-0482-7 | 6K1Q | 2.7 | I422 | ETB-Y4-mT4L (thermostabilized ETB receptor with R124Y[1.55], K270A[5.35], S342A[6.54], I381A[7.48] mutations; mT4L inserted in ICL3 between K303[5.68] and L311[6.23]; C396A/C400A/C405A; N-terminal deletion G57-L66; C-terminus truncated after S407; C-terminal TEV-GFP-His10 tag) | [IRL2500](/xray-mp-wiki/reagents/ligands/irl2500/) |
+### doi/10.1038##s42003-019-0482-7
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6k1q">6K1Q</a></td>
+      <td>2.7</td>
+      <td>I422</td>
+      <td>ETB-Y4-mT4L (thermostabilized ETB receptor with R124Y[1.55], K270A[5.35], S342A[6.54], I381A[7.48] mutations; mT4L inserted in ICL3 between K303[5.68] and L311[6.23]; C396A/C400A/C405A; N-terminal deletion G57-L66; C-terminus truncated after S407; C-terminal TEV-GFP-His10 tag)</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/irl2500/">IRL2500</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Sf9 insect cells using Bac-to-Bac baculovirus expression system (Invitrogen)
 - **Construct**: ETB-Y4-mT4L subcloned into modified pFastBac vector with C-terminal TEV cleavage site followed by GFP-His10 tag
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture and infection</td>
+      <td>Baculovirus infection of <a href="/xray-mp-wiki/methods/expression-systems/sf9-expression-system/">Sf9</a> cells</td>
+      <td>—</td>
+      <td>Sf900 II medium</td>
+      <td>Infected at cell density of 4.0 x 10^6 cells per ml, grown for 48 h at 27°C</td>
+    </tr>
+    <tr>
+      <td>Cell disruption</td>
+      <td>Sonication</td>
+      <td>—</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 20% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a></td>
+      <td>Crude membrane fraction collected by <a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">ultracentrifugation</a> at 180,000 g for 1 h</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>—</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 200 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10 μM <a href="/xray-mp-wiki/reagents/ligands/irl2500/">IRL2500</a>, 2 mg/ml <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">Iodoacetamide</a></td>
+      <td>Solubilized for 1 h at 4°C; supernatant clarified by <a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">ultracentrifugation</a> at 180,000 g for 20 min</td>
+    </tr>
+    <tr>
+      <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (IMAC)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin (Clontech)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> cobalt affinity resin</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10 μM <a href="/xray-mp-wiki/reagents/ligands/irl2500/">IRL2500</a>, 15 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> (wash); 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> (elution)</td>
+      <td>Incubated with <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin for 30 min; washed with 10 column volumes; eluted with 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
+    </tr>
+    <tr>
+      <td>TEV protease cleavage and tag removal</td>
+      <td>TEV cleavage and dialysis</td>
+      <td>—</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10 μM <a href="/xray-mp-wiki/reagents/ligands/irl2500/">IRL2500</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a> treatment during dialysis; cleaved <a href="/xray-mp-wiki/reagents/protein-tags/gfp/">GFP</a>-<a href="/xray-mp-wiki/reagents/protein-tags/his-tag/">His10</a> tag removed with Co2+-NTA resin</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex200</a> 10/300 Increase column</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10 μM <a href="/xray-mp-wiki/reagents/ligands/irl2500/">IRL2500</a></td>
+      <td>Peak fractions pooled and concentrated to 40 mg/ml using centrifugal filter device (Millipore 50 kDa MW cutoff); <a href="/xray-mp-wiki/reagents/ligands/irl2500/">IRL2500</a> added to 100 μM final concentration during concentration</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture and infection | Baculovirus infection of Sf9 cells | — | Sf900 II medium | Infected at cell density of 4.0 x 10^6 cells per ml, grown for 48 h at 27°C |
-| Cell disruption | Sonication | — | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 20% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) | Crude membrane fraction collected by ultracentrifugation at 180,000 g for 1 h |
-| Solubilization | Detergent solubilization | — | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 200 mM NaCl, 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.2% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 μM [IRL2500](/xray-mp-wiki/reagents/ligands/irl2500/), 2 mg/ml [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) | Solubilized for 1 h at 4°C; supernatant clarified by ultracentrifugation at 180,000 g for 20 min |
-| Immobilized metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) (IMAC) | [TALON](/xray-mp-wiki/reagents/additives/talon/) resin (Clontech) | [TALON](/xray-mp-wiki/reagents/additives/talon/) cobalt affinity resin | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 500 mM NaCl, 0.1% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 μM [IRL2500](/xray-mp-wiki/reagents/ligands/irl2500/), 15 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (wash); 200 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (elution) | Incubated with [TALON](/xray-mp-wiki/reagents/additives/talon/) resin for 30 min; washed with 10 column volumes; eluted with 200 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
-| TEV protease cleavage and tag removal | TEV cleavage and dialysis | — | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 500 mM NaCl, 10 μM [IRL2500](/xray-mp-wiki/reagents/ligands/irl2500/) | TEV protease treatment during dialysis; cleaved GFP-His10 tag removed with Co2+-NTA resin |
-| Size-exclusion chromatography | Size-exclusion chromatography | Superdex200 10/300 Increase column | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 150 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 μM [IRL2500](/xray-mp-wiki/reagents/ligands/irl2500/) | Peak fractions pooled and concentrated to 40 mg/ml using centrifugal filter device (Millipore 50 kDa MW cutoff); [IRL2500](/xray-mp-wiki/reagents/ligands/irl2500/) added to 100 μM final concentration during concentration |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic cubic phase (LCP) crystallization</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified ETB-Y4-<a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">mT4L</a>-<a href="/xray-mp-wiki/reagents/ligands/irl2500/">IRL2500</a> complex at 40 mg/ml</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> and <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a> (10:1 by mass)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20°C</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Protein-laden mesophase dispensed into 96-well glass plates in 30 nl drops overlaid with 800 nl precipitant solution by Gryphon <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> robot. Crystals harvested directly from <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> using micromounts or LithoLoops, frozen in <a href="/xray-mp-wiki/concepts/methods-techniques/cryocooling/">liquid nitrogen</a> without extra cryoprotectant.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6k1q">6K1Q</a> — Chain A (7 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GGGLAPAEVPKGDRTAGSPPRTISPPPC</span><span class="topo-inside">QGPIEIKETFKY</span><span class="topo-membrane">INTVVSCLVFVLGIIGNSTL</span></span>
+<span class="topo-line"><span class="topo-membrane">LYIIY</span><span class="topo-outside">KNKCMRNGP</span><span class="topo-membrane">NILIASLALGDLLHIVIDIPINVYKL</span><span class="topo-inside">LAEDWPFGA</span><span class="topo-membrane">EMCKLVPFIQK</span></span>
+<span class="topo-line"><span class="topo-membrane">ASVGITVLSLCALSI</span><span class="topo-outside">DRYRAVASWS</span><span class="topo-unknown">RIKGIG</span><span class="topo-outside">VPKWTA</span><span class="topo-membrane">VEIVLIWVVSVVLAVPEAIGF</span><span class="topo-inside">DI</span></span>
+<span class="topo-line"><span class="topo-inside">ITMDYKGSYLRICLLHPVQKTAFMQFY</span><span class="topo-membrane">ATAKDWWLFSFYFCLPLAITAFFYT</span><span class="topo-outside">LMTCEMLR</span></span>
+<span class="topo-line"><span class="topo-outside">KNIFEMLRIDEG</span><span class="topo-unknown">GGSGGDE</span><span class="topo-outside">AEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMV</span></span>
+<span class="topo-line"><span class="topo-outside">FQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYLN</span></span>
+<span class="topo-line"><span class="topo-outside">DHLKQRREVAK</span><span class="topo-membrane">TVFCLVLVFALCWLPLHLARILKLTL</span><span class="topo-inside">YNQNDPNRCELLSF</span><span class="topo-membrane">LLVLDYIGI</span></span>
+<span class="topo-line"><span class="topo-membrane">NMASLNSCANPIALYLVS</span><span class="topo-outside">KRFKNAFKSALCC</span><span class="topo-unknown">WAQSPSSENLYFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>28</td>
+      <td>63</td>
+      <td>90</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>40</td>
+      <td>91</td>
+      <td>102</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>65</td>
+      <td>103</td>
+      <td>127</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>74</td>
+      <td>128</td>
+      <td>136</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>100</td>
+      <td>137</td>
+      <td>162</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>109</td>
+      <td>163</td>
+      <td>171</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>110</td>
+      <td>135</td>
+      <td>172</td>
+      <td>197</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>145</td>
+      <td>198</td>
+      <td>207</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td>151</td>
+      <td>208</td>
+      <td>213</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>152</td>
+      <td>157</td>
+      <td>214</td>
+      <td>219</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>158</td>
+      <td>178</td>
+      <td>220</td>
+      <td>240</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>179</td>
+      <td>207</td>
+      <td>241</td>
+      <td>269</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>208</td>
+      <td>232</td>
+      <td>270</td>
+      <td>294</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>233</td>
+      <td>241</td>
+      <td>295</td>
+      <td>303</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>242</td>
+      <td>252</td>
+      <td>1002</td>
+      <td>1012</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>260</td>
+      <td>358</td>
+      <td>1013</td>
+      <td>1111</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>359</td>
+      <td>371</td>
+      <td>311</td>
+      <td>323</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>372</td>
+      <td>397</td>
+      <td>324</td>
+      <td>349</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>398</td>
+      <td>411</td>
+      <td>350</td>
+      <td>363</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>412</td>
+      <td>438</td>
+      <td>364</td>
+      <td>390</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>439</td>
+      <td>451</td>
+      <td>391</td>
+      <td>403</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>452</td>
+      <td>464</td>
+      <td>404</td>
+      <td>416</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##s42003-019-0482-7
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) crystallization |
-| Protein sample | Purified ETB-Y4-mT4L-[IRL2500](/xray-mp-wiki/reagents/ligands/irl2500/) complex at 40 mg/ml |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) and [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) (10:1 by mass) |
-| Temperature | 20°C |
-| Notes | Protein-laden mesophase dispensed into 96-well glass plates in 30 nl drops overlaid with 800 nl precipitant solution by Gryphon LCP robot. Crystals harvested directly from LCP using micromounts or LithoLoops, frozen in liquid nitrogen without extra cryoprotectant. |
-
+</div>
 
 ## Biological / Functional Insights
 
@@ -101,13 +367,13 @@ also showed inverse agonist activity in this assay.
 
 ## Cross-References
 
-- [Human Endothelin ETB Receptor Bound to Endothelin-1](/xray-mp-wiki/proteins/gpcr/human-endothelin-etb-receptor-et1/) — Same ETB receptor bound to agonist ET-1 for comparison of binding modes
-- [Human Endothelin ETB Receptor Bound to Bosentan](/xray-mp-wiki/proteins/gpcr/etb-receptor-bosentan/) — Same ETB receptor bound to clinical antagonist for comparison
-- [Human Endothelin ETB Receptor in Complex with Sarafotoxin S6b](/xray-mp-wiki/proteins/gpcr/etb-s6b-complex/) — Related ETB receptor structure with snake toxin agonist
-- [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent for membrane solubilization
-- [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) — Detergent used in IMAC wash and SEC buffers
-- [T4 Lysozyme (T4L) fusion](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — mT4L insertion in ICL3 enabled crystallization
-- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used for ETB receptor crystallization
-- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — IRL2500 stabilizes the inactive conformation, relevant to GPCR activation mechanism
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [Leukotriene B4 Receptor 1 (BLT1) — Guinea Pig and Human](/xray-mp-wiki/proteins/gpcr/blt1/) — Related protein structure
+- <a href="/xray-mp-wiki/proteins/gpcr/human-endothelin-etb-receptor-et1/">Human Endothelin ETB Receptor Bound to Endothelin-1</a> — Same ETB receptor bound to agonist ET-1 for comparison of binding modes
+- <a href="/xray-mp-wiki/proteins/gpcr/etb-receptor-bosentan/">Human Endothelin ETB Receptor Bound to Bosentan</a> — Same ETB receptor bound to clinical antagonist for comparison
+- <a href="/xray-mp-wiki/proteins/gpcr/etb-s6b-complex/">Human Endothelin ETB Receptor in Complex with Sarafotoxin S6b</a> — Related ETB receptor structure with snake toxin agonist
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> — Primary detergent for membrane solubilization
+- <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> — Detergent used in IMAC wash and SEC buffers
+- <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4 Lysozyme (T4L) fusion</a> — mT4L insertion in ICL3 enabled crystallization
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — LCP method used for ETB receptor crystallization
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/">GPCR Active Conformation</a> — IRL2500 stabilizes the inactive conformation, relevant to GPCR activation mechanism
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/gpcr/blt1/">Leukotriene B4 Receptor 1 (BLT1) — Guinea Pig and Human</a> — Related protein structure

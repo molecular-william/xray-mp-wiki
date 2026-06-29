@@ -1,7 +1,7 @@
 ---
 title: "Lysophosphatidic Acid Receptor 6 (LPA6/P2Y5)"
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,47 +16,274 @@ verified: false
 
 Lysophosphatidic acid receptor 6 (LPA6, also known as P2Y5 or LPAR6) is a class A G protein-coupled receptor that belongs to the phylogenetically distant non-EDG family of LPA receptors (LPA4-LPA6). LPA6 is activated by lysophosphatidic acid (LPA), a bioactive lipid composed of a phosphate group, a glycerol backbone, and a single acyl chain. Unlike the EDG family LPA receptors (LPA1-LPA3), the non-EDG family shares sequence similarity with the P2Y family of nucleotide receptors. LPA6 regulates hair follicle formation, and null mutations in LPAR6 or the upstream LPA-producing enzyme PA-PLA1alpha (LIPH) cause autosomal recessive wooly hair/hypotrichosis, a congenital hair disease. LPA6 is also involved in cancer progression. The 3.2 A crystal structure of zebrafish LPA6a revealed a laterally open ligand-binding pocket towards the membrane and provided insights into the LPA recognition mechanism of non-EDG family LPA receptors.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature23448 | 5XSZ | 3.20 | P2_12_12_1 | Zebrafish LPA6a (Uniprot Q08BG4) with C-terminal truncation (residues 313-357 removed) and T4L insertion in ICL3 between V227 and L233; monoolein-bound; inactive state | Monoolein (MO1-MO3) |
+### doi/10.1038##nature23448
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5xsz">5XSZ</a></td>
+      <td>3.20</td>
+      <td>P2_12_12_1</td>
+      <td>Zebrafish LPA6a (Uniprot Q08BG4) with C-terminal truncation (residues 313-357 removed) and T4L insertion in ICL3 between V227 and L233; monoolein-bound; inactive state</td>
+      <td>Monoolein (MO1-MO3)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Sf9 insect cells (Bac-to-Bac baculovirus expression system)
 - **Construct**: Zebrafish LPA6a (Uniprot Q08BG4) with N-terminal HA signal + Flag tag + TEV site; C-terminal TEV site + eGFP-His6 tag; C-terminal truncation (residues 313-357 removed); T4L inserted in ICL3 between V227 and L233 for crystallization
 - **Notes**: Sf9 cells infected at 3 x 10^5 cells/mL, incubated 48 h at 27 C. Cells collected by centrifugation, resuspended in 50 mM Na-citrate pH 5.0, 150 mM NaCl, 10% glycerol with protease inhibitors.
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: Sf9 insect cells
 - **Expression construct**: Zebrafish LPA6a with N-term HA-Flag-TEV and C-term TEV-eGFP-His6 tags; C-terminal truncation (313-357); T4L fusion in ICL3
 - **Tag info**: HA signal + Flag epitope (N-term), eGFP-His6 tag (C-term)
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Sonication</td>
+      <td></td>
+      <td>50 mM Na-<a href="/xray-mp-wiki/reagents/citrate/">citrate</a> pH 5.0, 150 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/glycerol/">glycerol</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/pmsf/">PMSF</a>, 1.0 ug/mL aprotinin, 0.4 ug/mL leupeptin</td>
+      <td>Cells disrupted by sonication; membrane fraction collected by ultracentrifugation at 125,000g for 1 h at 4 C</td>
+    </tr>
+    <tr>
+      <td>Membrane solubilization</td>
+      <td>Detergent solubilization</td>
+      <td></td>
+      <td>50 mM Na-<a href="/xray-mp-wiki/reagents/citrate/">citrate</a> pH 5.0, 150 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/glycerol/">glycerol</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/pmsf/">PMSF</a>, 1.0 ug/mL aprotinin, 0.4 ug/mL leupeptin, 2 mg/mL <a href="/xray-mp-wiki/reagents/iodoacetamide/">iodoacetamide</a> + 1% <a href="/xray-mp-wiki/reagents/ddm/">DDM</a> + 0.2% <a href="/xray-mp-wiki/reagents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Solubilization for 2 h at 4 C; insoluble material removed by ultracentrifugation at 125,000g for 30 min</td>
+    </tr>
+    <tr>
+      <td>Ni Sepharose affinity chromatography</td>
+      <td>Immobilized metal <a href="/xray-mp-wiki/methods/affinity-chromatography/">affinity chromatography</a></td>
+      <td>Ni Sepharose excel resin (GE Healthcare)</td>
+      <td>50 mM Na-<a href="/xray-mp-wiki/reagents/citrate/">citrate</a> pH 5.0, 150 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/glycerol/">glycerol</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/pmsf/">PMSF</a>, 1.0 ug/mL aprotinin, 0.4 ug/mL leupeptin, 20 mM <a href="/xray-mp-wiki/reagents/imidazole/">imidazole</a> + 0.1% <a href="/xray-mp-wiki/reagents/ddm/">DDM</a> + 0.02% <a href="/xray-mp-wiki/reagents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Batch incubation for 1.5 h at 4 C; washed with 10 column volumes; eluted with 300 mM <a href="/xray-mp-wiki/reagents/imidazole/">imidazole</a></td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Sonication |  | 50 mM Na-citrate pH 5.0, 150 mM NaCl, 10% glycerol, 0.1 mM PMSF, 1.0 ug/mL aprotinin, 0.4 ug/mL leupeptin | Cells disrupted by sonication; membrane fraction collected by ultracentrifugation at 125,000g for 1 h at 4 C |
-| Membrane solubilization | Detergent solubilization |  | 50 mM Na-citrate pH 5.0, 150 mM NaCl, 10% glycerol, 0.1 mM PMSF, 1.0 ug/mL aprotinin, 0.4 ug/mL leupeptin, 2 mg/mL iodoacetamide + 1% DDM + 0.2% CHS | Solubilization for 2 h at 4 C; insoluble material removed by ultracentrifugation at 125,000g for 30 min |
-| Ni Sepharose affinity chromatography | Immobilized metal affinity chromatography | Ni Sepharose excel resin (GE Healthcare) | 50 mM Na-citrate pH 5.0, 150 mM NaCl, 10% glycerol, 0.1 mM PMSF, 1.0 ug/mL aprotinin, 0.4 ug/mL leupeptin, 20 mM imidazole + 0.1% DDM + 0.02% CHS | Batch incubation for 1.5 h at 4 C; washed with 10 column volumes; eluted with 300 mM imidazole |
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/lipidic-cubic-phase/">Lipidic cubic phase</a> (LCP) crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified <a href="/xray-mp-wiki/proteins/lpa6/">LPA6</a>-<a href="/xray-mp-wiki/reagents/t4-lysozyme/">T4L</a> fusion protein (after TEV cleavage to remove eGFP-<a href="/xray-mp-wiki/reagents/his6-tag/">His6 tag</a>)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a> (90% w/w) + <a href="/xray-mp-wiki/reagents/lipids/cholesterol">Cholesterol</a> (10% w/w)</td>
+    </tr>
+    <tr>
+      <td>Protein-to-lipid ratio</td>
+      <td>2:3 (protein:lipid)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>3-4 wk</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>241 crystals merged into single dataset for 3.2 A resolution structure. Data collected at SPring-8 BL32XU beamline using 10 um minibeam. Rastering used to find best diffracting crystal regions.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-## Crystallization
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5xsz">5XSZ</a> — Chain A (7 TMs, alpha)**
 
-### doi/10.1038##nature23448
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GMYNTSLEMEMLNVSNVTHCPKN</span><span class="topo-inside">DNFKYPLYS</span><span class="topo-membrane">MVFSIVFMVGLITNVAAMYIFMCS</span><span class="topo-outside">LKLR</span></span>
+<span class="topo-line"><span class="topo-outside">N</span><span class="topo-membrane">ETTTYMMNLVVSDLLFVLTLP</span><span class="topo-inside">LRVFYFVQQNWPFGSLLCKLSV</span><span class="topo-membrane">SLFYTNMYGSILFLTC</span></span>
+<span class="topo-line"><span class="topo-membrane">ISVDRF</span><span class="topo-outside">LAIVYPFRSRGL</span><span class="topo-membrane">RTKRNAKIVCAAVWVLVLSGSLP</span><span class="topo-inside">TGFMLNSTNKLENNSISCF</span></span>
+<span class="topo-line"><span class="topo-unknown">ENFSSK</span><span class="topo-inside">EWKSHLSK</span><span class="topo-membrane">VVIFIETVGFLIPLMLNVVCSAM</span><span class="topo-outside">VLQTLRRPNTVNIFEMLRIDNGL</span></span>
+<span class="topo-line"><span class="topo-outside">RLKIYKNTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDA</span></span>
+<span class="topo-line"><span class="topo-outside">AVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNL</span></span>
+<span class="topo-line"><span class="topo-outside">AKSRWYNQTPNRAKRVITTFRTGTWDAYLNKKKIL</span><span class="topo-membrane">RMIIVHLFIFCFCFIPYNVNLVF</span><span class="topo-inside">YS</span></span>
+<span class="topo-line"><span class="topo-inside">LVRTNTLKGCAAESVVRT</span><span class="topo-membrane">IYPIALCIAVSNCCFDPIVYYFTS</span><span class="topo-outside">ETIQNSASSEDLYFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>23</td>
+      <td>0</td>
+      <td>22</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>32</td>
+      <td>23</td>
+      <td>31</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>56</td>
+      <td>32</td>
+      <td>55</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>61</td>
+      <td>56</td>
+      <td>60</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>82</td>
+      <td>61</td>
+      <td>81</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>104</td>
+      <td>82</td>
+      <td>103</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>126</td>
+      <td>104</td>
+      <td>125</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>127</td>
+      <td>138</td>
+      <td>126</td>
+      <td>137</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>139</td>
+      <td>161</td>
+      <td>138</td>
+      <td>160</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>162</td>
+      <td>180</td>
+      <td>161</td>
+      <td>179</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>181</td>
+      <td>186</td>
+      <td>180</td>
+      <td>185</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>187</td>
+      <td>194</td>
+      <td>186</td>
+      <td>193</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>195</td>
+      <td>217</td>
+      <td>194</td>
+      <td>216</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>395</td>
+      <td>217</td>
+      <td>239</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>396</td>
+      <td>418</td>
+      <td>240</td>
+      <td>262</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>419</td>
+      <td>438</td>
+      <td>263</td>
+      <td>282</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>439</td>
+      <td>462</td>
+      <td>283</td>
+      <td>306</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>463</td>
+      <td>477</td>
+      <td>307</td>
+      <td>321</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) crystallization |
-| Protein sample | Purified LPA6-T4L fusion protein (after TEV cleavage to remove eGFP-His6 tag) |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) (90% w/w) + [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol) (10% w/w) |
-| Protein-to-lipid ratio | 2:3 (protein:lipid) |
-| Temperature | 20 C |
-| Growth time | 3-4 wk |
-| Notes | 241 crystals merged into single dataset for 3.2 A resolution structure. Data collected at SPring-8 BL32XU beamline using 10 um minibeam. Rastering used to find best diffracting crystal regions. |
-
+</div>
 
 ## Biological / Functional Insights
 
@@ -83,5 +310,5 @@ The LPA6 structure shows unexpected similarity to P2Y family ADP receptors. The 
 
 ## Cross-References
 
-- [Lysophosphatidic Acid Receptor 1 (LPA1)](/xray-mp-wiki/proteins/lpa1) — LPA1 is an EDG-family LPA receptor with distinct binding pocket architecture; sequenced and structurally compared
-- [P2Y12 Receptor](/xray-mp-wiki/proteins/p2y12-receptor) — Evolutionarily related P2Y family receptor sharing similar TM6/TM7 inward shift activation mechanism
+- <a href="/xray-mp-wiki/proteins/lpa1">Lysophosphatidic Acid Receptor 1 (LPA1)</a> — LPA1 is an EDG-family LPA receptor with distinct binding pocket architecture; sequenced and structurally compared
+- <a href="/xray-mp-wiki/proteins/p2y12-receptor">P2Y12 Receptor</a> — Evolutionarily related P2Y family receptor sharing similar TM6/TM7 inward shift activation mechanism

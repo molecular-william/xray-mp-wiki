@@ -1,7 +1,7 @@
 ---
 title: "OsNIP2;1 (Silicon Transporter Lsi1 from Oryza sativa)"
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,44 +17,1308 @@ verified: false
 OsNIP2;1 (Nodulin26-like Intrinsic Protein 2;1) is a silicon transporter from the rice plant Oryza sativa, also known as Lsi1 (low silicon rice 1). It belongs to the NIP (Nodulin26-like Intrinsic Protein) subfamily of aquaporins, also termed metalloid porins. OsNIP2;1 mediates the uptake of silicic acid across root cell plasma membranes, a critical step for silicon accumulation in rice and other grasses. The protein forms a tetrameric assembly with each protomer containing six transmembrane helices and two half-helices forming NPA motifs. The structure reveals a novel five-residue selectivity filter (TGSGR) and a channel gating mechanism involving cytoplasmic loop D.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.jmb.2021.167226 | 7NL4 | 2.6 A | P1 | Truncated OsNIP2;1, residues 38-264, N4Q/N13Q/N26Q glycosylation mutants, C-terminal 6xHis-tag | None (apo) |
-| doi/10.1016##j.jmb.2021.167226 | 7NL4 | 3.8 A | C2 | Full-length OsNIP2;1, N4Q/N13Q/N26Q glycosylation mutants, C-terminal 6xHis-tag | None (apo) |
+### doi/10.1016##j.jmb.2021.167226
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7nl4">7NL4</a></td>
+      <td>2.6 A</td>
+      <td>P1</td>
+      <td>Truncated OsNIP2;1, residues 38-264, N4Q/N13Q/N26Q glycosylation mutants, C-terminal 6xHis-tag</td>
+      <td>None (apo)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7nl4">7NL4</a></td>
+      <td>3.8 A</td>
+      <td>C2</td>
+      <td>Full-length OsNIP2;1, N4Q/N13Q/N26Q glycosylation mutants, C-terminal 6xHis-tag</td>
+      <td>None (apo)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Saccharomyces cerevisiae W303 delta pep4 strain
 - **Construct**: Synthetic gene optimized for yeast expression; hexa-histidine tag at C terminus; N-terminal glycosylation sites removed (N4Q/N13Q/N26Q); cloned via BamHI and XhoI into 83v vector; expressed by galactose induction (YP medium with 1.5% galactose) at 30 C for 16-20 hours
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Cell disruption (cell disrupter at 35-37 kpsi)</td>
+      <td>--</td>
+      <td>TSB buffer (20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, pH 8) with 5 mM <a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a> + --</td>
+      <td>Cells resuspended in TSB buffer with <a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a>; lysed by 1-2 passes through cell disrupter; membranes collected by centrifugation at 200,000g for 90 min</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Membrane solubilization</td>
+      <td>--</td>
+      <td>TSB buffer (20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, pH 8) with Complete <a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a>-free protease inhibitor + 1:1 (w/w) mixture of <a href="/xray-mp-wiki/reagents/detergents/ddm">dodecyl-beta-D-maltoside ([DDM</a>)] and <a href="/xray-mp-wiki/reagents/detergents/decylmaltoside/">DM</a> (total 1% w/v detergent)</td>
+      <td>Homogenization in TSB with DDM/DM mixture; stirred at 4 C for 1 hr or overnight; 1 g total detergent per 2 liters of cells</td>
+    </tr>
+    <tr>
+      <td>Affinity chromatography</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td>--</td>
+      <td>TSB buffer with <a href="/xray-mp-wiki/reagents/detergents/decylmaltoside/">DM</a> + <a href="/xray-mp-wiki/reagents/detergents/decylmaltoside">'[DM</a>']</td>
+      <td>Centrifuged membrane extract loaded onto <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Cell disruption (cell disrupter at 35-37 kpsi) | -- | TSB buffer (20 mM [Tris](/xray-mp-wiki/reagents/buffers/tris), 300 mM NaCl, pH 8) with 5 mM [EDTA](/xray-mp-wiki/reagents/additives/edta) + -- | Cells resuspended in TSB buffer with [EDTA](/xray-mp-wiki/reagents/additives/edta); lysed by 1-2 passes through cell disrupter; membranes collected by centrifugation at 200,000g for 90 min |
-| Solubilization | Membrane solubilization | -- | TSB buffer (20 mM [Tris](/xray-mp-wiki/reagents/buffers/tris), 300 mM NaCl, pH 8) with Complete [EDTA](/xray-mp-wiki/reagents/additives/edta)-free protease inhibitor + 1:1 (w/w) mixture of [dodecyl-beta-D-maltoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm))] and [[DM](/xray-mp-wiki/reagents/detergents/decylmaltoside)] (total 1% w/v detergent) | Homogenization in TSB with DDM/DM mixture; stirred at 4 C for 1 hr or overnight; 1 g total detergent per 2 liters of cells |
-| Affinity chromatography | Ni-NTA affinity chromatography | -- | TSB buffer with [[DM](/xray-mp-wiki/reagents/detergents/decylmaltoside)] + ['[DM](/xray-mp-wiki/reagents/detergents/decylmaltoside)'] | Centrifuged membrane extract loaded onto Ni-NTA resin |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion (sitting drop)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Truncated OsNIP2;1 (residues 38-264) at ~5 mg/ml in <a href="/xray-mp-wiki/reagents/detergents/decylmaltoside/">DM</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>MemGold H11 hit condition: 1 mM <a href="/xray-mp-wiki/reagents/additives/cadmium-chloride/">cadmium chloride</a>, 30 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">magnesium chloride</a>, 0.1 M <a href="/xray-mp-wiki/reagents/buffers/mes">MES</a> (pH 6.5), 30% <a href="/xray-mp-wiki/reagents/additives/peg">PEG</a> 400</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Block-shaped crystals in space group P1. Data collected at beamline I24 at Diamond Light Source. Solved by molecular replacement using AqpM from Methanothermobacter marburgensis (PDB 2EVU) as search model. Two tetramers per asymmetric unit. Cadmium ions bridge tetramers via cytoplasmic faces.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7nl4">7NL4</a> — Chain A (6 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKK</span><span class="topo-membrane">VVSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIY</span></span>
+<span class="topo-line"><span class="topo-membrane">AVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQV</span><span class="topo-membrane">PFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
+<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AISGG</span><span class="topo-unknown">S</span></span>
+<span class="topo-line"><span class="topo-unknown">MNPARTLGP</span><span class="topo-outside">ALASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIRFE</span><span class="topo-unknown">DTPK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>8</td>
+      <td>13</td>
+      <td>45</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>31</td>
+      <td>51</td>
+      <td>68</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>45</td>
+      <td>69</td>
+      <td>82</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>63</td>
+      <td>83</td>
+      <td>100</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>66</td>
+      <td>101</td>
+      <td>103</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>80</td>
+      <td>104</td>
+      <td>117</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>89</td>
+      <td>118</td>
+      <td>126</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>107</td>
+      <td>127</td>
+      <td>144</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>129</td>
+      <td>145</td>
+      <td>166</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>147</td>
+      <td>167</td>
+      <td>184</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>156</td>
+      <td>185</td>
+      <td>193</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>174</td>
+      <td>194</td>
+      <td>211</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>179</td>
+      <td>212</td>
+      <td>216</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>180</td>
+      <td>189</td>
+      <td>217</td>
+      <td>226</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>190</td>
+      <td>199</td>
+      <td>227</td>
+      <td>236</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>217</td>
+      <td>237</td>
+      <td>254</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>223</td>
+      <td>255</td>
+      <td>260</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1016##j.jmb.2021.167226
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7nl4">7NL4</a> — Chain B (6 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion (sitting drop) |
-| Protein sample | Truncated OsNIP2;1 (residues 38-264) at ~5 mg/ml in [[DM](/xray-mp-wiki/reagents/detergents/decylmaltoside)] |
-| Reservoir | MemGold H11 hit condition: 1 mM cadmium chloride, 30 mM magnesium chloride, 0.1 M [MES](/xray-mp-wiki/reagents/buffers/mes) (pH 6.5), 30% [PEG](/xray-mp-wiki/reagents/additives/peg) 400 |
-| Temperature | not specified |
-| Growth time | not specified |
-| Cryoprotection | not specified |
-| Notes | Block-shaped crystals in space group P1. Data collected at beamline I24 at Diamond Light Source. Solved by molecular replacement using AqpM from Methanothermobacter marburgensis (PDB 2EVU) as search model. Two tetramers per asymmetric unit. Cadmium ions bridge tetramers via cytoplasmic faces. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKK</span><span class="topo-membrane">VVSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIY</span></span>
+<span class="topo-line"><span class="topo-membrane">AVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQV</span><span class="topo-membrane">PFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
+<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AISGG</span><span class="topo-unknown">S</span></span>
+<span class="topo-line"><span class="topo-unknown">MNPARTLGP</span><span class="topo-outside">ALASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIRFE</span><span class="topo-unknown">DTPK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>8</td>
+      <td>13</td>
+      <td>45</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>31</td>
+      <td>51</td>
+      <td>68</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>45</td>
+      <td>69</td>
+      <td>82</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>63</td>
+      <td>83</td>
+      <td>100</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>66</td>
+      <td>101</td>
+      <td>103</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>80</td>
+      <td>104</td>
+      <td>117</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>89</td>
+      <td>118</td>
+      <td>126</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>107</td>
+      <td>127</td>
+      <td>144</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>129</td>
+      <td>145</td>
+      <td>166</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>147</td>
+      <td>167</td>
+      <td>184</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>156</td>
+      <td>185</td>
+      <td>193</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>174</td>
+      <td>194</td>
+      <td>211</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>179</td>
+      <td>212</td>
+      <td>216</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>180</td>
+      <td>189</td>
+      <td>217</td>
+      <td>226</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>190</td>
+      <td>199</td>
+      <td>227</td>
+      <td>236</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>217</td>
+      <td>237</td>
+      <td>254</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>223</td>
+      <td>255</td>
+      <td>260</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7nl4">7NL4</a> — Chain C (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKK</span><span class="topo-membrane">VVSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIY</span></span>
+<span class="topo-line"><span class="topo-membrane">AVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQ</span><span class="topo-membrane">VPFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
+<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AIS</span><span class="topo-unknown">GGS</span></span>
+<span class="topo-line"><span class="topo-unknown">MNPARTLGP</span><span class="topo-outside">ALASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIR</span><span class="topo-unknown">FEDTPK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>8</td>
+      <td>13</td>
+      <td>45</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>31</td>
+      <td>51</td>
+      <td>68</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>45</td>
+      <td>69</td>
+      <td>82</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>63</td>
+      <td>83</td>
+      <td>100</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>66</td>
+      <td>101</td>
+      <td>103</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>80</td>
+      <td>104</td>
+      <td>117</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>88</td>
+      <td>118</td>
+      <td>125</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>107</td>
+      <td>126</td>
+      <td>144</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>129</td>
+      <td>145</td>
+      <td>166</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>147</td>
+      <td>167</td>
+      <td>184</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>156</td>
+      <td>185</td>
+      <td>193</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>174</td>
+      <td>194</td>
+      <td>211</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>177</td>
+      <td>212</td>
+      <td>214</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>189</td>
+      <td>215</td>
+      <td>226</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>190</td>
+      <td>199</td>
+      <td>227</td>
+      <td>236</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>217</td>
+      <td>237</td>
+      <td>254</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>221</td>
+      <td>255</td>
+      <td>258</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7nl4">7NL4</a> — Chain D (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKKV</span><span class="topo-membrane">VSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIY</span></span>
+<span class="topo-line"><span class="topo-membrane">AVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQ</span><span class="topo-membrane">VPFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
+<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AIS</span><span class="topo-unknown">GGS</span></span>
+<span class="topo-line"><span class="topo-unknown">MNPARTLGPAL</span><span class="topo-outside">ASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIRFE</span><span class="topo-unknown">DTPK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>8</td>
+      <td>14</td>
+      <td>45</td>
+      <td>51</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>31</td>
+      <td>52</td>
+      <td>68</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>45</td>
+      <td>69</td>
+      <td>82</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>63</td>
+      <td>83</td>
+      <td>100</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>66</td>
+      <td>101</td>
+      <td>103</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>80</td>
+      <td>104</td>
+      <td>117</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>88</td>
+      <td>118</td>
+      <td>125</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>107</td>
+      <td>126</td>
+      <td>144</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>129</td>
+      <td>145</td>
+      <td>166</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>147</td>
+      <td>167</td>
+      <td>184</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>156</td>
+      <td>185</td>
+      <td>193</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>174</td>
+      <td>194</td>
+      <td>211</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>177</td>
+      <td>212</td>
+      <td>214</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>191</td>
+      <td>215</td>
+      <td>228</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>199</td>
+      <td>229</td>
+      <td>236</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>217</td>
+      <td>237</td>
+      <td>254</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>223</td>
+      <td>255</td>
+      <td>260</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7nl4">7NL4</a> — Chain A (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKK</span><span class="topo-membrane">VVSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIY</span></span>
+<span class="topo-line"><span class="topo-membrane">AVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQV</span><span class="topo-membrane">PFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
+<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AISGG</span><span class="topo-unknown">S</span></span>
+<span class="topo-line"><span class="topo-unknown">MNPARTLGP</span><span class="topo-outside">ALASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIRFE</span><span class="topo-unknown">DTPK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>8</td>
+      <td>13</td>
+      <td>45</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>31</td>
+      <td>51</td>
+      <td>68</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>45</td>
+      <td>69</td>
+      <td>82</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>63</td>
+      <td>83</td>
+      <td>100</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>66</td>
+      <td>101</td>
+      <td>103</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>80</td>
+      <td>104</td>
+      <td>117</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>89</td>
+      <td>118</td>
+      <td>126</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>107</td>
+      <td>127</td>
+      <td>144</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>129</td>
+      <td>145</td>
+      <td>166</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>147</td>
+      <td>167</td>
+      <td>184</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>156</td>
+      <td>185</td>
+      <td>193</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>174</td>
+      <td>194</td>
+      <td>211</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>179</td>
+      <td>212</td>
+      <td>216</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>180</td>
+      <td>189</td>
+      <td>217</td>
+      <td>226</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>190</td>
+      <td>199</td>
+      <td>227</td>
+      <td>236</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>217</td>
+      <td>237</td>
+      <td>254</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>223</td>
+      <td>255</td>
+      <td>260</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7nl4">7NL4</a> — Chain B (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKK</span><span class="topo-membrane">VVSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIY</span></span>
+<span class="topo-line"><span class="topo-membrane">AVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQV</span><span class="topo-membrane">PFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
+<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AISGG</span><span class="topo-unknown">S</span></span>
+<span class="topo-line"><span class="topo-unknown">MNPARTLGP</span><span class="topo-outside">ALASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIRFE</span><span class="topo-unknown">DTPK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>8</td>
+      <td>13</td>
+      <td>45</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>31</td>
+      <td>51</td>
+      <td>68</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>45</td>
+      <td>69</td>
+      <td>82</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>63</td>
+      <td>83</td>
+      <td>100</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>66</td>
+      <td>101</td>
+      <td>103</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>80</td>
+      <td>104</td>
+      <td>117</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>89</td>
+      <td>118</td>
+      <td>126</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>107</td>
+      <td>127</td>
+      <td>144</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>129</td>
+      <td>145</td>
+      <td>166</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>147</td>
+      <td>167</td>
+      <td>184</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>156</td>
+      <td>185</td>
+      <td>193</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>174</td>
+      <td>194</td>
+      <td>211</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>179</td>
+      <td>212</td>
+      <td>216</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>180</td>
+      <td>189</td>
+      <td>217</td>
+      <td>226</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>190</td>
+      <td>199</td>
+      <td>227</td>
+      <td>236</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>217</td>
+      <td>237</td>
+      <td>254</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>223</td>
+      <td>255</td>
+      <td>260</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7nl4">7NL4</a> — Chain C (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKK</span><span class="topo-membrane">VVSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIY</span></span>
+<span class="topo-line"><span class="topo-membrane">AVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQ</span><span class="topo-membrane">VPFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
+<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AIS</span><span class="topo-unknown">GGS</span></span>
+<span class="topo-line"><span class="topo-unknown">MNPARTLGP</span><span class="topo-outside">ALASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIR</span><span class="topo-unknown">FEDTPK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>8</td>
+      <td>13</td>
+      <td>45</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>31</td>
+      <td>51</td>
+      <td>68</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>45</td>
+      <td>69</td>
+      <td>82</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>63</td>
+      <td>83</td>
+      <td>100</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>66</td>
+      <td>101</td>
+      <td>103</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>80</td>
+      <td>104</td>
+      <td>117</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>88</td>
+      <td>118</td>
+      <td>125</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>107</td>
+      <td>126</td>
+      <td>144</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>129</td>
+      <td>145</td>
+      <td>166</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>147</td>
+      <td>167</td>
+      <td>184</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>156</td>
+      <td>185</td>
+      <td>193</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>174</td>
+      <td>194</td>
+      <td>211</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>177</td>
+      <td>212</td>
+      <td>214</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>189</td>
+      <td>215</td>
+      <td>226</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>190</td>
+      <td>199</td>
+      <td>227</td>
+      <td>236</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>217</td>
+      <td>237</td>
+      <td>254</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>221</td>
+      <td>255</td>
+      <td>258</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7nl4">7NL4</a> — Chain D (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">AIADFFP</span><span class="topo-inside">PHLLKKV</span><span class="topo-membrane">VSEVVATFLLVFMTCGA</span><span class="topo-outside">AGISGSDLSRISQL</span><span class="topo-membrane">GQSIAGGLIVTVMIY</span></span>
+<span class="topo-line"><span class="topo-membrane">AVG</span><span class="topo-inside">HIS</span><span class="topo-unknown">GAHMNPAVTLAFAV</span><span class="topo-inside">FRHFPWIQ</span><span class="topo-membrane">VPFYWAAQFTGAICASFVL</span><span class="topo-outside">KAVIHPVDVIGTT</span></span>
+<span class="topo-line"><span class="topo-outside">TPVGPHWHS</span><span class="topo-membrane">LVVEVIVTFNMMFVTLAV</span><span class="topo-inside">ATDTRAVGE</span><span class="topo-membrane">LAGLAVGSAVCITSIFAG</span><span class="topo-outside">AIS</span><span class="topo-unknown">GGS</span></span>
+<span class="topo-line"><span class="topo-unknown">MNPARTLGPAL</span><span class="topo-outside">ASNKFDGL</span><span class="topo-membrane">WIYFLGPVMGTLSGAWTY</span><span class="topo-inside">TFIRFE</span><span class="topo-unknown">DTPK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>8</td>
+      <td>14</td>
+      <td>45</td>
+      <td>51</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>31</td>
+      <td>52</td>
+      <td>68</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>45</td>
+      <td>69</td>
+      <td>82</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>63</td>
+      <td>83</td>
+      <td>100</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>66</td>
+      <td>101</td>
+      <td>103</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>80</td>
+      <td>104</td>
+      <td>117</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>88</td>
+      <td>118</td>
+      <td>125</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>107</td>
+      <td>126</td>
+      <td>144</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>129</td>
+      <td>145</td>
+      <td>166</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>147</td>
+      <td>167</td>
+      <td>184</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>156</td>
+      <td>185</td>
+      <td>193</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>174</td>
+      <td>194</td>
+      <td>211</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>177</td>
+      <td>212</td>
+      <td>214</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>191</td>
+      <td>215</td>
+      <td>228</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>199</td>
+      <td>229</td>
+      <td>236</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>217</td>
+      <td>237</td>
+      <td>254</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>223</td>
+      <td>255</td>
+      <td>260</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -73,13 +1337,13 @@ MD simulations reveal spontaneous silicic acid uptake and export through OsNIP2;
 
 ## Cross-References
 
-- [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — OsNIP2;1 is a member of the NIP subfamily of aquaporins (metalloid porins)
-- [Decylmaltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Detergent used for membrane solubilization and purification
-- [n-Dodecyl-beta-D-Maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used in solubilization mixture with DM (1:1 w/w)
-- [Decyl Maltose Neopentyl Glycol (DMng)](/xray-mp-wiki/reagents/detergents/dmng/) — Detergent in which OsNIP2;1 behaves well for crystallization
-- [Cadmium Chloride](/xray-mp-wiki/reagents/additives/cadmium-chloride/) — Used in crystallization reservoir; bridges tetramers via cytoplasmic faces
-- [MES Buffer](/xray-mp-wiki/reagents/buffers/mes/) — Buffer in crystallization reservoir (0.1 M, pH 6.5)
-- [PEG (Polyethylene Glycol) 400](/xray-mp-wiki/reagents/additives/peg/) — Crystallization precipitant (30% w/v)
-- [Magnesium Chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Crystallization additive (30 mM)
-- [EDTA](/xray-mp-wiki/reagents/additives/edta) — Additive used in purification or crystallization buffers
-- [Tris](/xray-mp-wiki/reagents/buffers/tris) — Buffer component in purification or crystallization
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/">Aquaporin Family</a> — OsNIP2;1 is a member of the NIP subfamily of aquaporins (metalloid porins)
+- <a href="/xray-mp-wiki/reagents/detergents/dm/">Decylmaltoside (DM)</a> — Detergent used for membrane solubilization and purification
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-Maltopyranoside (DDM)</a> — Detergent used in solubilization mixture with DM (1:1 w/w)
+- <a href="/xray-mp-wiki/reagents/detergents/dmng/">Decyl Maltose Neopentyl Glycol (DMng)</a> — Detergent in which OsNIP2;1 behaves well for crystallization
+- <a href="/xray-mp-wiki/reagents/additives/cadmium-chloride/">Cadmium Chloride</a> — Used in crystallization reservoir; bridges tetramers via cytoplasmic faces
+- <a href="/xray-mp-wiki/reagents/buffers/mes/">MES Buffer</a> — Buffer in crystallization reservoir (0.1 M, pH 6.5)
+- <a href="/xray-mp-wiki/reagents/additives/peg/">PEG (Polyethylene Glycol) 400</a> — Crystallization precipitant (30% w/v)
+- <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Magnesium Chloride</a> — Crystallization additive (30 mM)
+- <a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a> — Buffer component in purification or crystallization

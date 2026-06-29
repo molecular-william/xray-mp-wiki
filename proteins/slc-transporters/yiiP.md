@@ -1,7 +1,7 @@
 ---
 title: "Escherichia coli Zinc Transporter YiiP"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -24,37 +24,54 @@ homologs (ZnT-3, ZnT-8) play critical roles in zinc homeostasis, neurotransmissi
 and insulin secretion, and ZnT-8 is linked to type 2 diabetes pathogenesis.
 
 
-## Structure Determination
+## Publications
 
-No structure determined.
+### doi/10.1126##science.1143748
 
-## Expression and Purification
+**Expression:**
 
 - **Expression system**: Escherichia coli
 - **Construct**: Full-length YiiP with C-terminal His6 tag
 - **Notes**: Endogenous expression inducible by Zn²⁺ and Fe²⁺. Transcription of yiiP gene is inducible by both metals.
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli
 - **Expression construct**: Full-length YiiP
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Membrane preparation</td>
+      <td>Cell lysis and membrane isolation</td>
+      <td>—</td>
+      <td></td>
+      <td>Native membrane vesicles used for transport measurement</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane preparation | Cell lysis and membrane isolation | — |  | Native membrane vesicles used for transport measurement |
+**Crystallization:**
 
-
-## Crystallization
-
-### doi/10.1126##science.1143748
-
-| Parameter | Value |
-|---|---|
-| Method | Multiple isomorphous replacement with anomalous scattering ([MIRAS](/xray-mp-wiki/methods/structure-determination/miras/)) |
-| Notes | Zn²⁺ improved stability of YiiP in detergent micelles. 12 heavy-atom derivative crystals used for phasing. Resolution: 3.8 Å. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Multiple isomorphous replacement with anomalous scattering (<a href="/xray-mp-wiki/methods/structure-determination/miras/">MIRAS</a>)</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Zn²⁺ improved stability of YiiP in detergent micelles. 12 heavy-atom derivative crystals used for phasing. Resolution: 3.8 Å.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -103,6 +120,6 @@ Zn²⁺ and Cd²⁺ over Ca²⁺, Mg²⁺, Ni²⁺, Co²⁺, and Mn²⁺.
 
 ## Cross-References
 
-- [Cation Diffusion Facilitator (CDF) Family](/xray-mp-wiki/concepts/protein-families/cation-diffusion-facilitator-family/) — YiiP is the founding structurally characterized CDF family member
-- [MIRAS](/xray-mp-wiki/methods/structure-determination/miras/) — Method used in structure determination or purification
-- [EDTA](/xray-mp-wiki/reagents/additives/edta/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/concepts/protein-families/cation-diffusion-facilitator-family/">Cation Diffusion Facilitator (CDF) Family</a> — YiiP is the founding structurally characterized CDF family member
+- <a href="/xray-mp-wiki/methods/structure-determination/miras/">MIRAS</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> — Additive used in purification or crystallization buffers

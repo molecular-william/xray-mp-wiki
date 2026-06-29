@@ -1,7 +1,7 @@
 ---
 title: "Human Neurokinin 1 Receptor (NK1R)"
 created: 2026-06-08
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,20 +17,49 @@ verified: false
 The human neurokinin 1 receptor (NK1R, TACR1) is a class A G protein-coupled receptor that binds the neuropeptide Substance P (SP) as its preferred endogenous agonist. NK1R is expressed in the central and peripheral nervous system, smooth muscle, endothelial cells, and immune cells. It is implicated in nausea, analgesia, inflammation, pruritus, and depression, making it a key therapeutic target for chemotherapy-induced nausea and vomiting (CINV). The receptor was crystallized as a thermostabilized NK1R-PGS fusion construct (with Pyrococcus abyssi glycogen synthase replacing intracellular loop 3), and high-resolution structures were determined in complex with the antagonists CP-99,994 (3.27 A), [Aprepitant](/xray-mp-wiki/reagents/ligands/aprepitant/) (2.40 A), [Netupitant](/xray-mp-wiki/reagents/ligands/netupitant/) (2.20 A), and L760735 (3.4 A).
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##s41467-018-07939-8 | 6HLL | 3.27 A | C2221 | Human NK1R-PGS fusion: Pyrococcus abyssi glycogen synthase (PGS) replacing ICL3; expressed in Sf9 insect cells via baculovirus
- | CP-99,994 |
-| doi/10.1038##s41467-018-07939-8 | 6HLO | 2.40 A | P212121 | Human NK1R-PGS fusion: Pyrococcus abyssi glycogen synthase (PGS) replacing ICL3; expressed in Sf9 insect cells via baculovirus
- | [Aprepitant](/xray-mp-wiki/reagents/ligands/aprepitant/) |
-| doi/10.1038##s41467-018-07939-8 | 6HLP | 2.20 A | P212121 | Human NK1R-PGS fusion: Pyrococcus abyssi glycogen synthase (PGS) replacing ICL3; expressed in Sf9 insect cells via baculovirus
- | [Netupitant](/xray-mp-wiki/reagents/ligands/netupitant/) |
-| doi/10.1073##pnas.1812717115 | 6E59 | 3.4 A | not specified | Human NK1R-PGS fusion: Pyrococcus abyssi glycogen synthase (PGS) replacing ICL3; expressed in Sf9 insect cells via baculovirus
- | L760735 |
+### doi/10.1038##s41467-018-07939-8
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6hll">6HLL</a></td>
+      <td>3.27 A</td>
+      <td>C2221</td>
+      <td>Human NK1R-PGS fusion: Pyrococcus abyssi glycogen synthase (PGS) replacing ICL3; expressed in Sf9 insect cells via baculovirus
+</td>
+      <td>CP-99,994</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6hlo">6HLO</a></td>
+      <td>2.40 A</td>
+      <td>P212121</td>
+      <td>Human NK1R-PGS fusion: Pyrococcus abyssi glycogen synthase (PGS) replacing ICL3; expressed in Sf9 insect cells via baculovirus
+</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/aprepitant/">Aprepitant</a></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6hlp">6HLP</a></td>
+      <td>2.20 A</td>
+      <td>P212121</td>
+      <td>Human NK1R-PGS fusion: Pyrococcus abyssi glycogen synthase (PGS) replacing ICL3; expressed in Sf9 insect cells via baculovirus
+</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/netupitant/">Netupitant</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Sf9 insect cells (baculovirus expression)
 - **Construct**: Human NK1R with [PGS (Pyrococcus abyssi Glycogen Synthase) Fusion](/xray-mp-wiki/reagents/protein-tags/pgs-fusion/) replacing ICL3; N-terminal [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) and His10 tag; 3C protease cleavage site for tag removal
@@ -38,66 +67,732 @@ The human neurokinin 1 receptor (NK1R, TACR1) is a class A G protein-coupled rec
 - **Notes**: Receptor expressed in Sf9 insect cells using baculovirus system. Thermostabilized construct based on directed evolution studies (Schutz et al. 2016).
 
 
-### Purification Workflow
+**Purification:**
 
-#### Source: doi/10.1038##s41467-018-07939-8
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Membrane preparation</td>
+      <td>Homogenization and ultracentrifugation</td>
+      <td>—</td>
+      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 10% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + None</td>
+      <td>Sf9 cell pellet resuspended and membranes collected</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent extraction</td>
+      <td>—</td>
+      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 10% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.2% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Membranes solubilized for 1 h at 4 C with <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+    </tr>
+    <tr>
+      <td>Ni-NTA affinity</td>
+      <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin</td>
+      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 10% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>
+ + 0.05% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.01% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/his-tag">His-tag</a>ged receptor bound to <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin, eluted with 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
+    </tr>
+    <tr>
+      <td>Buffer exchange and tag cleavage</td>
+      <td>Desalting (PD MiniTrap G-25)</td>
+      <td>—</td>
+      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 10% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.03% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.006% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> removed; <a href="/xray-mp-wiki/reagents/protein-tags/his-tag">His-tag</a>ged 3C protease and PNGaseF added for 6 h at 4 C</td>
+    </tr>
+    <tr>
+      <td>Reverse Ni-NTA</td>
+      <td>Flow-through collection</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin</td>
+      <td>50 mM HEPES pH 7.5, 500 mM NaCl, 10% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.03% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.006% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>
+ + 0.03% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.006% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Cleaved receptor collected as flow-through; uncleaved and 3C protease bind resin</td>
+    </tr>
+    <tr>
+      <td>Concentration</td>
+      <td>Vivaspin 2 concentrator (100 kDa MWCO)</td>
+      <td>—</td>
+      <td>as above + as above</td>
+      <td>Concentrated to ~50-60 mg/ml for crystallization</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>~50-60 mg/ml NK1R-PGS in 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.006% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> + 10% (w/v) <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>CP-99,994 complex crystals appeared in <1 h in broad conditions. <a href="/xray-mp-wiki/reagents/ligands/aprepitant/">Aprepitant</a> complex: 100 mM sodium <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a> pH 6.0, 31% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a>, 50-70 mM MgCl2, 50 uM <a href="/xray-mp-wiki/reagents/ligands/aprepitant/">Aprepitant</a>. <a href="/xray-mp-wiki/reagents/ligands/netupitant/">Netupitant</a> complex: 100 mM sodium <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a> pH 6.0, 31% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a>, 40-50 mM Mg(HCO3)2, 50 uM <a href="/xray-mp-wiki/reagents/ligands/netupitant/">Netupitant</a>. All crystals cryo-cooled in liquid nitrogen without additional cryoprotectant.
+</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6hll">6HLL</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MDNVLPVDSDLSPNISTNTSEPNQFV</span><span class="topo-inside">QPA</span><span class="topo-membrane">WQIVLWAAAYTVIVVTSVVGNVVVM</span><span class="topo-outside">WIILAH</span></span>
+<span class="topo-line"><span class="topo-outside">KRMRTVTNYF</span><span class="topo-membrane">LVNAAFAEASMAAFNTVVNFTYAV</span><span class="topo-inside">HNEWY</span><span class="topo-membrane">YGLFYCKFHNFFPIAAIFASI</span></span>
+<span class="topo-line"><span class="topo-membrane">YSMTA</span><span class="topo-outside">VAFDRYMAIIHPLQPRLSLTATK</span><span class="topo-membrane">VVICVIWVLALLLAFPQGYYS</span><span class="topo-inside">TTETMPSRVVC</span></span>
+<span class="topo-line"><span class="topo-inside">KIEWPEHPNKI</span><span class="topo-membrane">YEKVYHICVTVLIYFLPLLVIGYLYT</span><span class="topo-outside">VVGITLRASGIDCSFWNESYLTG</span></span>
+<span class="topo-line"><span class="topo-outside">SRDERKKSLLSKFGMDEGVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGK</span></span>
+<span class="topo-line"><span class="topo-outside">GDPELEGWARSLEEKHGNVKVITEMLSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCL</span></span>
+<span class="topo-line"><span class="topo-outside">GAIPIASAVGGLRDIITNETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMS</span></span>
+<span class="topo-line"><span class="topo-outside">FSEQVSAARKVVKMM</span><span class="topo-membrane">IVVVCTFAICWLPFHIFFLLPY</span><span class="topo-unknown">INPDLYLKKF</span><span class="topo-inside">IQ</span><span class="topo-membrane">QVYLAIMWLAM</span></span>
+<span class="topo-line"><span class="topo-membrane">SSTMYNPIIY</span><span class="topo-outside">CCLN</span><span class="topo-unknown">DRFRLGFKHA</span><span class="topo-outside">F</span><span class="topo-unknown">RCCPFISAGDYEGLE</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>27</td>
+      <td>29</td>
+      <td>27</td>
+      <td>29</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>54</td>
+      <td>30</td>
+      <td>54</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>70</td>
+      <td>55</td>
+      <td>70</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>94</td>
+      <td>71</td>
+      <td>94</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>99</td>
+      <td>95</td>
+      <td>99</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>125</td>
+      <td>100</td>
+      <td>125</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>126</td>
+      <td>148</td>
+      <td>126</td>
+      <td>148</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>169</td>
+      <td>149</td>
+      <td>169</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>170</td>
+      <td>191</td>
+      <td>170</td>
+      <td>191</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>217</td>
+      <td>192</td>
+      <td>217</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>435</td>
+      <td>218</td>
+      <td>250</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>436</td>
+      <td>457</td>
+      <td>251</td>
+      <td>272</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>468</td>
+      <td>469</td>
+      <td>283</td>
+      <td>284</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>470</td>
+      <td>490</td>
+      <td>285</td>
+      <td>305</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>491</td>
+      <td>494</td>
+      <td>306</td>
+      <td>309</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>495</td>
+      <td>504</td>
+      <td>310</td>
+      <td>319</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>505</td>
+      <td>505</td>
+      <td>320</td>
+      <td>320</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6hlo">6HLO</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MDNVLPVDSDLSPNISTNTSEPNQFVQ</span><span class="topo-inside">PAW</span><span class="topo-membrane">QIVLWAAAYTVIVVTSVVGNVV</span><span class="topo-outside">VMWIILAH</span></span>
+<span class="topo-line"><span class="topo-outside">KRMRTVTNYFLVN</span><span class="topo-membrane">AAFAEASMAAFNTVVNFTYA</span><span class="topo-inside">VHNEWYY</span><span class="topo-membrane">GLFYCKFHNFFPIAAIFASI</span></span>
+<span class="topo-line"><span class="topo-membrane">YSMT</span><span class="topo-outside">AVAFDRYMAIIHPLQPRLSLTATKVVI</span><span class="topo-membrane">CVIWVLALLLAFPQGYYST</span><span class="topo-inside">TETMPSRVVC</span></span>
+<span class="topo-line"><span class="topo-inside">KIEWPEHPNKI</span><span class="topo-membrane">YEKVYHICVTVLIYFLPLLVIG</span><span class="topo-outside">YLYTVVGITLRASGIDCSFWNESYLTG</span></span>
+<span class="topo-line"><span class="topo-outside">SRDERKKSLLSKFGMDEGVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGK</span></span>
+<span class="topo-line"><span class="topo-outside">GDPELEGWARSLEEKHGNVKVITEMLSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCL</span></span>
+<span class="topo-line"><span class="topo-outside">GAIPIASAVGGLRDIITNETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMS</span></span>
+<span class="topo-line"><span class="topo-outside">FSEQVSAARKVVKMMIV</span><span class="topo-membrane">VVCTFAICWLPFHIFFLLPYIN</span><span class="topo-inside">PDLY</span><span class="topo-unknown">LKK</span><span class="topo-inside">FIQQ</span><span class="topo-membrane">VYLAIMWLAM</span></span>
+<span class="topo-line"><span class="topo-membrane">SSTMYNPII</span><span class="topo-outside">YCCLN</span><span class="topo-unknown">DRFRLGFKHA</span><span class="topo-outside">FRCC</span><span class="topo-unknown">PFISAGDYEGLE</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>28</td>
+      <td>30</td>
+      <td>28</td>
+      <td>30</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>52</td>
+      <td>31</td>
+      <td>52</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>73</td>
+      <td>53</td>
+      <td>73</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>93</td>
+      <td>74</td>
+      <td>93</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>100</td>
+      <td>94</td>
+      <td>100</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>124</td>
+      <td>101</td>
+      <td>124</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>125</td>
+      <td>151</td>
+      <td>125</td>
+      <td>151</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>152</td>
+      <td>170</td>
+      <td>152</td>
+      <td>170</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>191</td>
+      <td>171</td>
+      <td>191</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>213</td>
+      <td>192</td>
+      <td>213</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>437</td>
+      <td>214</td>
+      <td>252</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>438</td>
+      <td>459</td>
+      <td>253</td>
+      <td>274</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>460</td>
+      <td>463</td>
+      <td>275</td>
+      <td>278</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>467</td>
+      <td>470</td>
+      <td>282</td>
+      <td>285</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>471</td>
+      <td>489</td>
+      <td>286</td>
+      <td>304</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>490</td>
+      <td>494</td>
+      <td>305</td>
+      <td>309</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>495</td>
+      <td>504</td>
+      <td>310</td>
+      <td>319</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>505</td>
+      <td>508</td>
+      <td>320</td>
+      <td>324</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6hlp">6HLP</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MDNVLPVDSDLSPNISTNTSEPNQFV</span><span class="topo-inside">QPA</span><span class="topo-membrane">WQIVLWAAAYTVIVVTSVVGNVVVM</span><span class="topo-outside">WIILAH</span></span>
+<span class="topo-line"><span class="topo-outside">KRMRTVTNYF</span><span class="topo-membrane">LVNAAFAEASMAAFNTVVNFTYAV</span><span class="topo-inside">HNEW</span><span class="topo-membrane">YYGLFYCKFHNFFPIAAIFASI</span></span>
+<span class="topo-line"><span class="topo-membrane">YSMTA</span><span class="topo-outside">VAFDRYMAIIHPLQPRLSLTATKVV</span><span class="topo-membrane">ICVIWVLALLLAFPQGYYSTT</span><span class="topo-inside">ETMPSRVVC</span></span>
+<span class="topo-line"><span class="topo-inside">KIEWPEHPNK</span><span class="topo-membrane">IYEKVYHICVTVLIYFLPLLVIGY</span><span class="topo-outside">LYTVVGITLRASGIDCSFWNESYLTG</span></span>
+<span class="topo-line"><span class="topo-outside">SRDERKKSLLSKFGMDEGVTFMFIGRFDRGQKGVDVLLKAIEILSSKKEFQEMRFIIIGK</span></span>
+<span class="topo-line"><span class="topo-outside">GDPELEGWARSLEEKHGNVKVITEMLSREFVRELYGSVDFVIIPSYFEPFGLVALEAMCL</span></span>
+<span class="topo-line"><span class="topo-outside">GAIPIASAVGGLRDIITNETGILVKAGDPGELANAILKALELSRSDLSKFRENCKKRAMS</span></span>
+<span class="topo-line"><span class="topo-outside">FSEQVSAARKVVKMM</span><span class="topo-membrane">IVVVCTFAICWLPFHIFFLLPYINP</span><span class="topo-inside">DL</span><span class="topo-unknown">Y</span><span class="topo-inside">LKKF</span><span class="topo-membrane">IQQVYLAIMWLAM</span></span>
+<span class="topo-line"><span class="topo-membrane">SSTMYNPIIY</span><span class="topo-outside">CCLNDRFRLGFKHAFRC</span><span class="topo-unknown">C</span><span class="topo-outside">PFIS</span><span class="topo-unknown">AGDYEGLE</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>26</td>
+      <td>1</td>
+      <td>26</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>29</td>
+      <td>27</td>
+      <td>29</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>54</td>
+      <td>30</td>
+      <td>54</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>70</td>
+      <td>55</td>
+      <td>70</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>94</td>
+      <td>71</td>
+      <td>94</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>98</td>
+      <td>95</td>
+      <td>98</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>125</td>
+      <td>99</td>
+      <td>125</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>126</td>
+      <td>150</td>
+      <td>126</td>
+      <td>150</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td>171</td>
+      <td>151</td>
+      <td>171</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>172</td>
+      <td>190</td>
+      <td>172</td>
+      <td>190</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>191</td>
+      <td>214</td>
+      <td>191</td>
+      <td>214</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>215</td>
+      <td>226</td>
+      <td>215</td>
+      <td>226</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>227</td>
+      <td>422</td>
+      <td>1218</td>
+      <td>1413</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>423</td>
+      <td>435</td>
+      <td>238</td>
+      <td>250</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>436</td>
+      <td>460</td>
+      <td>251</td>
+      <td>275</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>461</td>
+      <td>462</td>
+      <td>276</td>
+      <td>277</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>463</td>
+      <td>463</td>
+      <td>278</td>
+      <td>278</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>464</td>
+      <td>467</td>
+      <td>279</td>
+      <td>282</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>468</td>
+      <td>490</td>
+      <td>283</td>
+      <td>305</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>491</td>
+      <td>506</td>
+      <td>306</td>
+      <td>321</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>507</td>
+      <td>507</td>
+      <td>323</td>
+      <td>323</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>508</td>
+      <td>508</td>
+      <td>324</td>
+      <td>324</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>509</td>
+      <td>512</td>
+      <td>324</td>
+      <td>327</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>513</td>
+      <td>520</td>
+      <td>328</td>
+      <td>335</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
+### doi/10.1073##pnas.1812717115
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6e59">6E59</a></td>
+      <td>3.4 A</td>
+      <td>not specified</td>
+      <td>Human NK1R-PGS fusion: Pyrococcus abyssi glycogen synthase (PGS) replacing ICL3; expressed in Sf9 insect cells via baculovirus
+</td>
+      <td>L760735</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Sf9 insect cells (baculovirus expression)
+- **Construct**: Human NK1R with [PGS (Pyrococcus abyssi Glycogen Synthase) Fusion](/xray-mp-wiki/reagents/protein-tags/pgs-fusion/) replacing ICL3; N-terminal [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) and His10 tag; 3C protease cleavage site for tag removal
+
+- **Notes**: Receptor expressed in Sf9 insect cells using baculovirus system. Thermostabilized construct based on directed evolution studies (Schutz et al. 2016).
 
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane preparation | Homogenization and ultracentrifugation | — | 50 mM HEPES pH 7.5, 500 mM NaCl, 10% (v/v) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + None | Sf9 cell pellet resuspended and membranes collected |
-| Solubilization | Detergent extraction | — | 50 mM HEPES pH 7.5, 500 mM NaCl, 10% (v/v) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 250 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 1% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.2% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Membranes solubilized for 1 h at 4 C with [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/CHS |
-| Ni-NTA affinity | Immobilized metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA resin | 50 mM HEPES pH 7.5, 500 mM NaCl, 250 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 10% (v/v) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/)
- + 0.05% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.01% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | His-tagged receptor bound to Ni-NTA resin, eluted with 250 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
-| Buffer exchange and tag cleavage | Desalting (PD MiniTrap G-25) | — | 50 mM HEPES pH 7.5, 500 mM NaCl, 10% (v/v) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 0.03% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.006% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) removed; His-tagged 3C protease and PNGaseF added for 6 h at 4 C |
-| Reverse Ni-NTA | Flow-through collection | Ni-NTA resin | 50 mM HEPES pH 7.5, 500 mM NaCl, 10% (v/v) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.03% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.006% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)
- + 0.03% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.006% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Cleaved receptor collected as flow-through; uncleaved and 3C protease bind resin |
-| Concentration | Vivaspin 2 concentrator (100 kDa MWCO) | — | as above + as above | Concentrated to ~50-60 mg/ml for crystallization |
-
-#### Source: doi/10.1073##pnas.1812717115
+**Purification:**
 
 - **Expression system**: Sf9 insect cells (baculovirus)
 - **Expression construct**: Human NK1R-PGS fusion with N-terminal [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) and His10 tag
 - **Tag info**: N-terminal [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) + His10 tag
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Membrane preparation</td>
+      <td>Homogenization and ultracentrifugation</td>
+      <td>—</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.4, 500 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a></td>
+      <td>Sf9 cell pellet homogenized</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent extraction</td>
+      <td>—</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.4, 500 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.02% Na Cholate, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 2 mg/mL <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">Iodoacetamide</a>, 5 uM L760735 + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% Na Cholate, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Solubilization for 1 h at 4 C, ultracentrifugation at 100,000 x g</td>
+    </tr>
+    <tr>
+      <td>Ni-NTA batch binding</td>
+      <td>Batch binding with <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.4, 500 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% Na Cholate, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 5 uM L760735</td>
+      <td>20 GE <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> added before binding, batch mode for 4 h at 4 C</td>
+    </tr>
+    <tr>
+      <td>Ni-NTA elution</td>
+      <td>Column elution</td>
+      <td>—</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.4, 500 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% Na Cholate, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 5 uM L760735</td>
+      <td>Eluted with 5 volumes of elution buffer</td>
+    </tr>
+    <tr>
+      <td>M1 anti-FLAG affinity</td>
+      <td>M1 <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> with detergent exchange</td>
+      <td>M1 anti-<a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> agarose</td>
+      <td>200 ug/mL <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> peptide, 5 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> + Detergent exchanged from <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>/Na Cholate/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> to 0.05% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> on M1 beads</td>
+      <td>2 mM CaCl2 added before loading; eluted with <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> peptide + <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a></td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
+      <td></td>
+      <td>Single monomeric peak collected, purity checked by SDS/PAGE</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane preparation | Homogenization and ultracentrifugation | — | 50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.4, 500 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) | Sf9 cell pellet homogenized |
-| Solubilization | Detergent extraction | — | 50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.4, 500 mM NaCl, 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.02% Na Cholate, 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 2 mg/mL [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/), 5 uM L760735 + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.2% Na Cholate, 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Solubilization for 1 h at 4 C, ultracentrifugation at 100,000 x g |
-| Ni-NTA batch binding | Batch binding with Ni-NTA agarose | Ni-NTA agarose | 50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.4, 500 mM NaCl, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% Na Cholate, 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 50 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 5 uM L760735 | 20 GE [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) added before binding, batch mode for 4 h at 4 C |
-| Ni-NTA elution | Column elution | — | 50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.4, 500 mM NaCl, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% Na Cholate, 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 200 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 5 uM L760735 | Eluted with 5 volumes of elution buffer |
-| M1 anti-FLAG affinity | M1 FLAG [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) with detergent exchange | M1 anti-FLAG agarose | 200 ug/mL FLAG peptide, 5 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/) + Detergent exchanged from [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/Na Cholate/CHS to 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) on M1 beads | 2 mM CaCl2 added before loading; eluted with FLAG peptide + [EDTA](/xray-mp-wiki/reagents/additives/edta/) |
-| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | SEC | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) |  | Single monomeric peak collected, purity checked by SDS/PAGE |
+**Crystallization:**
 
-
-## Crystallization
-
-### doi/10.1038##s41467-018-07939-8
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Protein sample | ~50-60 mg/ml NK1R-PGS in 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) + 10% (w/v) [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
-| Temperature | 20 C |
-| Notes | CP-99,994 complex crystals appeared in <1 h in broad conditions. [Aprepitant](/xray-mp-wiki/reagents/ligands/aprepitant/) complex: 100 mM sodium [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) pH 6.0, 31% [PEG400](/xray-mp-wiki/reagents/additives/peg-400/), 50-70 mM MgCl2, 50 uM [Aprepitant](/xray-mp-wiki/reagents/ligands/aprepitant/). [Netupitant](/xray-mp-wiki/reagents/ligands/netupitant/) complex: 100 mM sodium [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) pH 6.0, 31% [PEG400](/xray-mp-wiki/reagents/additives/peg-400/), 40-50 mM Mg(HCO3)2, 50 uM [Netupitant](/xray-mp-wiki/reagents/ligands/netupitant/). All crystals cryo-cooled in liquid nitrogen without additional cryoprotectant.
- |
-
-### doi/10.1073##pnas.1812717115
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Protein sample | 30-50 mg/ml NK1R-PGS |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) + 10% (w/w) [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) (2:3 protein:lipid mass ratio) |
-| Temperature | 20 C |
-| Notes | Crystals observed in 1 day, full size in 1 week. Cryoprotected in crystallization mother liquid. Data from 36 merged crystals. Diffraction data collected at APS 23ID-D beamline (12 keV, Pilatus3 6M detector). Resolution limit 3.4 A. Structure solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) with Phaser.
- |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>30-50 mg/ml NK1R-PGS</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> + 10% (w/w) <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a> (2:3 protein:lipid mass ratio)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals observed in 1 day, full size in 1 week. Cryoprotected in crystallization mother liquid. Data from 36 merged crystals. Diffraction data collected at APS 23ID-D beamline (12 keV, Pilatus3 6M detector). Resolution limit 3.4 A. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> with Phaser.
+</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -153,13 +848,13 @@ binding without orthosteric pocket contraction.
 
 ## Cross-References
 
-- [Aprepitant](/xray-mp-wiki/reagents/ligands/aprepitant/) — L760735 is a close analog of the clinically approved drug aprepitant
-- [Lauryl Maltose Neopentyl Glycol (LMNG)](/xray-mp-wiki/reagents/detergents/lmng/) — Detergent exchanged on M1 anti-FLAG beads during purification
-- [Tachykinin Receptor Family](/xray-mp-wiki/concepts/tachykinin-receptor-family/) — NK1R is the founding member of the tachykinin receptor family
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
-- [EBP](/xray-mp-wiki/proteins/enzymes/human-ebp/) — Related protein structure
-- [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Additive used in purification or crystallization buffers
-- [EDTA](/xray-mp-wiki/reagents/additives/edta/) — Additive used in purification or crystallization buffers
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/ligands/aprepitant/">Aprepitant</a> — L760735 is a close analog of the clinically approved drug aprepitant
+- <a href="/xray-mp-wiki/reagents/detergents/lmng/">Lauryl Maltose Neopentyl Glycol (LMNG)</a> — Detergent exchanged on M1 anti-FLAG beads during purification
+- <a href="/xray-mp-wiki/concepts/tachykinin-receptor-family/">Tachykinin Receptor Family</a> — NK1R is the founding member of the tachykinin receptor family
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/enzymes/human-ebp/">EBP</a> — Related protein structure
+- <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Additive used in purification or crystallization buffers

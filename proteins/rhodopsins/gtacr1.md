@@ -1,7 +1,7 @@
 ---
 title: "GtACR1 Anion Channelrhodopsin from Guillardia theta"
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,64 +17,733 @@ verified: false
 GtACR1 is a natural light-gated anion channelrhodopsin from the cryptophyte alga Guillardia theta. It is the most potent neuron-silencing optogenetic tool available, exhibiting 25-fold higher unitary conductance than the cation channelrhodopsin CrChR2. The X-ray crystal structure of the dark (closed) state was determined at 2.9 A resolution (Li et al., 2019, PDB 6EDQ). The structure reveals a continuous intramolecular tunnel traversing the protein from the extracellular surface to a large cytoplasmic cavity, lined primarily by small polar and aliphatic residues essential for anion conductance. A disulfide-immobilized extracellular cap facilitates channel closing, and the ion path is blocked mid-membrane by the photoactive retinylidene chromophore. The structure also reveals a novel photoactive site configuration that maintains the retinylidene Schiff base protonated in the open-channel state, in contrast to cation channelrhodopsins where Schiff base deprotonation precedes channel opening. GtACR1 forms a disulfide-crosslinked homodimer stabilized by TM3 and TM4 interactions and an intermolecular C6-C6 disulfide bridge. The bromide-bound structure at 3.2 A resolution (Li et al., 2021, PDB 7L1E) revealed structural changes that relax the C1 and C3 tunnel constrictions, including a novel salt-bridge switch mechanism involving Arg94, providing direct evidence that the tunnel is the closed form of the channel and shedding light on the light-gated channel activation mechanism.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.7554##eLife.41741 | 6EDQ | 2.9 A | P2(1)2(1)2 | GtACR1 from G. theta, residues 1-295, dark (closed) state | all-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/), [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) lipids |
-| doi/10.7554##eLife.65903 | 7L1E | 3.2 A | P 2(1) | GtACR1 from G. theta, residues 1-295, bromide-bound pre-activated state | all-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/), bromide ion |
+### doi/10.7554##eLife.41741
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6edq">6EDQ</a></td>
+      <td>2.9 A</td>
+      <td>P2(1)2(1)2</td>
+      <td>GtACR1 from G. theta, residues 1-295, dark (closed) state</td>
+      <td>all-trans <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a>, <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> lipids</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Pichia pastoris
 - **Construct**: GtACR1 (GenBank KP171708, residues 1-295) with C-terminal His8 tag in pPIC9K
 
-### Purification Workflow
+**Purification:**
 
-#### Source: doi/10.7554##eLife.41741
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture and harvesting</td>
+      <td>Baculovirus expression in Sf9 cells</td>
+      <td>not applicable</td>
+      <td>350 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 20 mM HEPES pH 7.5 (Buffer A) with 0.1 mM PMSF + not specified</td>
+      <td>Sf9 cells infected at ~2x10^6 cells/ml with GtACR1-encoding baculovirus at 15:1 (v/v); 5 uM all-trans-<a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a> added; 3 days in spinner flasks at 27 C. Pink-colored cells harvested by centrifugation.</td>
+    </tr>
+    <tr>
+      <td>Cell lysis and membrane isolation</td>
+      <td>High-pressure homogenization and ultracentrifugation</td>
+      <td>not applicable</td>
+      <td>Buffer A (350 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 20 mM HEPES pH 7.5) with 0.1 mM PMSF + not specified</td>
+      <td>Cells ruptured by 3 passes through EmulsiFlex-C3 homogenizer; low-speed spin at 5000 rpm for 10 min to remove debris; membranes pelleted at 40,000 rpm for 1 hr in Ti45 rotor.</td>
+    </tr>
+    <tr>
+      <td>Membrane solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>not applicable</td>
+      <td>Buffer A + 1% n-dodecyl-beta-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
+      <td>Membranes suspended in Buffer A and solubilized with 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> for 1 hr at 4 C with shaking; undissolved material removed by ultracentrifugation at 45,000 rpm for 1 hr.</td>
+    </tr>
+    <tr>
+      <td>Ni-NTA affinity chromatography</td>
+      <td>Immobilized metal ion <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td>Ni-NTA resin (Qiagen)</td>
+      <td>Buffer A with 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>; 15 mM and 40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> for washes; 400 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> for elution + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Supernatant supplemented with 15 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> incubated with Ni resin for 1 hr at 4 C; step-wise washes with 15 mM and 40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; eluted with 400 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> in Buffer A + 0.03% DDM.</td>
+    </tr>
+    <tr>
+      <td>Size exclusion chromatography</td>
+      <td>Size exclusion chromatography</td>
+      <td>Superdex Increase 10/300 GL column (GE Healthcare)</td>
+      <td>Buffer B (350 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>) + not specified</td>
+      <td>Eluted protein further purified on Superdex Increase 10/300 GL column equilibrated with Buffer B.</td>
+    </tr>
+  </tbody>
+</table>
 
+**Crystallization:**
 
-##### Steps
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP) crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>GtACR1 in buffer, ~unknown concentration</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>100 K (data collection)</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> (LCP). Continuous grid-scan method used for X-ray data collection at SLS X06SA-PXI beamline (Swiss Light Source). Four partial datasets merged to 2.9 A. Space group P2(1)2(1)2, cell dimensions a=77.79 A, b=149.55 A, c=62.41 A, alpha=beta=gamma=90 degrees. Data processed with XDS/XSCALE. Structure solved by molecular replacement using CrChR2 (PDB 6EID) as search model.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture and harvesting | Baculovirus expression in Sf9 cells | not applicable | 350 mM NaCl, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 20 mM HEPES pH 7.5 (Buffer A) with 0.1 mM PMSF + not specified | Sf9 cells infected at ~2x10^6 cells/ml with GtACR1-encoding baculovirus at 15:1 (v/v); 5 uM all-trans-[Retinal](/xray-mp-wiki/reagents/ligands/retinal/) added; 3 days in spinner flasks at 27 C. Pink-colored cells harvested by centrifugation. |
-| Cell lysis and membrane isolation | High-pressure homogenization and ultracentrifugation | not applicable | Buffer A (350 mM NaCl, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 20 mM HEPES pH 7.5) with 0.1 mM PMSF + not specified | Cells ruptured by 3 passes through EmulsiFlex-C3 homogenizer; low-speed spin at 5000 rpm for 10 min to remove debris; membranes pelleted at 40,000 rpm for 1 hr in Ti45 rotor. |
-| Membrane solubilization | Detergent solubilization | not applicable | Buffer A + 1% n-dodecyl-beta-D-maltopyranoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) | Membranes suspended in Buffer A and solubilized with 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) for 1 hr at 4 C with shaking; undissolved material removed by ultracentrifugation at 45,000 rpm for 1 hr. |
-| Ni-NTA affinity chromatography | Immobilized metal ion affinity chromatography | Ni-NTA resin (Qiagen) | Buffer A with 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/); 15 mM and 40 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) for washes; 400 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) for elution + 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Supernatant supplemented with 15 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) incubated with Ni resin for 1 hr at 4 C; step-wise washes with 15 mM and 40 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/); eluted with 400 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) in Buffer A + 0.03% DDM. |
-| Size exclusion chromatography | Size exclusion chromatography | Superdex Increase 10/300 GL column (GE Healthcare) | Buffer B (350 mM NaCl, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/)) + not specified | Eluted protein further purified on Superdex Increase 10/300 GL column equilibrated with Buffer B. |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6edq">6EDQ</a> — Chain A (7 TMs, alpha)**
 
-#### Source: doi/10.7554##eLife.65903
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MSSIT</span><span class="topo-outside">CDPAIYGEWSRENQFCVEKSLITLDG</span><span class="topo-membrane">IKYVQLVMAVVSACQVFFMV</span><span class="topo-inside">TRAPKVPW</span><span class="topo-membrane">E</span></span>
+<span class="topo-line"><span class="topo-membrane">AIYLPTTEMITYSLAFT</span><span class="topo-outside">GNGYIRVANGKYL</span><span class="topo-membrane">PWARMASWLCTCPIMLG</span><span class="topo-inside">LVSNMALVKYKSI</span></span>
+<span class="topo-line"><span class="topo-inside">PLNP</span><span class="topo-membrane">MMIAASSICTVFGITAS</span><span class="topo-outside">VVLDPLH</span><span class="topo-membrane">VWLYCFISSIFFIFEMVVAF</span><span class="topo-inside">AIFAITIHDFQT</span></span>
+<span class="topo-line"><span class="topo-inside">IGSPMSLKVVERLKL</span><span class="topo-membrane">MRIVFYVSWMAYPILWSFS</span><span class="topo-outside">STGACIMSE</span><span class="topo-membrane">NTSSVLYLLGDALCKNT</span></span>
+<span class="topo-line"><span class="topo-membrane">YGI</span><span class="topo-inside">LLWATTWGLLNGKWDRDYVKGRNVDGTLM</span><span class="topo-unknown">PEYEQDLEKGNTERYEDARAGETHHHHH</span></span>
+<span class="topo-line"><span class="topo-unknown">HHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>6</td>
+      <td>31</td>
+      <td>6</td>
+      <td>31</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>51</td>
+      <td>32</td>
+      <td>51</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>59</td>
+      <td>52</td>
+      <td>59</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>77</td>
+      <td>60</td>
+      <td>77</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>90</td>
+      <td>78</td>
+      <td>90</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>107</td>
+      <td>91</td>
+      <td>107</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>124</td>
+      <td>108</td>
+      <td>124</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>125</td>
+      <td>141</td>
+      <td>125</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>148</td>
+      <td>142</td>
+      <td>148</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>168</td>
+      <td>149</td>
+      <td>168</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>169</td>
+      <td>195</td>
+      <td>169</td>
+      <td>195</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>196</td>
+      <td>214</td>
+      <td>196</td>
+      <td>214</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>215</td>
+      <td>223</td>
+      <td>215</td>
+      <td>223</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>224</td>
+      <td>243</td>
+      <td>224</td>
+      <td>243</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>244</td>
+      <td>272</td>
+      <td>244</td>
+      <td>272</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6edq">6EDQ</a> — Chain B (7 TMs, alpha)**
 
-##### Steps
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MSSI</span><span class="topo-outside">TCDPAIYGEWSRENQFCVEKSLITLDG</span><span class="topo-membrane">IKYVQLVMAVVSACQVFFMV</span><span class="topo-inside">TRAPKVPW</span><span class="topo-membrane">E</span></span>
+<span class="topo-line"><span class="topo-membrane">AIYLPTTEMITYSLAFT</span><span class="topo-outside">GNGYIRVANGKYL</span><span class="topo-membrane">PWARMASWLCTCPIMLG</span><span class="topo-inside">LVSNMALVKYKSI</span></span>
+<span class="topo-line"><span class="topo-inside">PLNP</span><span class="topo-membrane">MMIAASSICTVFGITAS</span><span class="topo-outside">VVLDPLH</span><span class="topo-membrane">VWLYCFISSIFFIFEMVVAF</span><span class="topo-inside">AIFAITIHDFQT</span></span>
+<span class="topo-line"><span class="topo-inside">IGSPMSLKVVERLKLM</span><span class="topo-membrane">RIVFYVSWMAYPILWSFS</span><span class="topo-outside">STGACIMSE</span><span class="topo-membrane">NTSSVLYLLGDALCKNT</span></span>
+<span class="topo-line"><span class="topo-membrane">YGI</span><span class="topo-inside">LLWATTWGLLNGKWDRDYVKGRNVDGTLMPEYEQDL</span><span class="topo-unknown">EKGNTERYEDARAGETHHHHH</span></span>
+<span class="topo-line"><span class="topo-unknown">HHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>5</td>
+      <td>31</td>
+      <td>5</td>
+      <td>31</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>51</td>
+      <td>32</td>
+      <td>51</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>59</td>
+      <td>52</td>
+      <td>59</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>77</td>
+      <td>60</td>
+      <td>77</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>90</td>
+      <td>78</td>
+      <td>90</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>107</td>
+      <td>91</td>
+      <td>107</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>124</td>
+      <td>108</td>
+      <td>124</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>125</td>
+      <td>141</td>
+      <td>125</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>148</td>
+      <td>142</td>
+      <td>148</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>168</td>
+      <td>149</td>
+      <td>168</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>169</td>
+      <td>196</td>
+      <td>169</td>
+      <td>196</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>197</td>
+      <td>214</td>
+      <td>197</td>
+      <td>214</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>215</td>
+      <td>223</td>
+      <td>215</td>
+      <td>223</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>224</td>
+      <td>243</td>
+      <td>224</td>
+      <td>243</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>244</td>
+      <td>279</td>
+      <td>244</td>
+      <td>279</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-
-
-## Crystallization
-
-### doi/10.7554##eLife.41741
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) crystallization |
-| Protein sample | GtACR1 in buffer, ~unknown concentration |
-| Temperature | 100 K (data collection) |
-| Growth time | not specified |
-| Notes | Crystals grown in lipidic cubic phase (LCP). Continuous grid-scan method used for X-ray data collection at SLS X06SA-PXI beamline (Swiss Light Source). Four partial datasets merged to 2.9 A. Space group P2(1)2(1)2, cell dimensions a=77.79 A, b=149.55 A, c=62.41 A, alpha=beta=gamma=90 degrees. Data processed with XDS/XSCALE. Structure solved by molecular replacement using CrChR2 (PDB 6EID) as search model. |
-
+</div>
 ### doi/10.7554##eLife.65903
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) crystallization in IMISX plates |
-| Protein sample | GtACR1 in purification buffer (350 mM NaBr, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/)) |
-| Temperature | 100 K (data collection) |
-| Growth time | 1 month |
-| Notes | LCP crystallization set up in IMISX glass plates to facilitate high-throughput data collection. Crystals harvested using micromesh loops and 3D-printed holders. Data collected by serial synchrotron crystallography at SLS X06SA-PXI beamline. 217 datasets collected using EIGER 16M detector; 31 IMISX and 5 loop-mounted datasets merged to 3.2 A. Space group P 2(1). Structure solved by molecular replacement using 6EDQ as search model. Rwork/Rfree = 0.24/0.29. |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7l1e">7L1E</a></td>
+      <td>3.2 A</td>
+      <td>P 2(1)</td>
+      <td>GtACR1 from G. theta, residues 1-295, bromide-bound pre-activated state</td>
+      <td>all-trans <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a>, bromide ion</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Pichia pastoris
+- **Construct**: GtACR1 (GenBank KP171708, residues 1-295) with C-terminal His8 tag in pPIC9K
+
+**Purification:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP) crystallization in IMISX plates</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>GtACR1 in purification buffer (350 mM NaBr, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>100 K (data collection)</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>1 month</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>LCP crystallization set up in IMISX glass plates to facilitate high-throughput data collection. Crystals harvested using micromesh loops and 3D-printed holders. Data collected by serial synchrotron crystallography at SLS X06SA-PXI beamline. 217 datasets collected using EIGER 16M detector; 31 IMISX and 5 loop-mounted datasets merged to 3.2 A. Space group P 2(1). Structure solved by molecular replacement using 6EDQ as search model. Rwork/Rfree = 0.24/0.29.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7l1e">7L1E</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">IT</span><span class="topo-outside">CDPAIYGEWSRENQFCVEKSLITLDG</span><span class="topo-membrane">IKYVQLVMAVVSACQVFFMVTR</span><span class="topo-inside">APKV</span><span class="topo-membrane">PWEAIY</span></span>
+<span class="topo-line"><span class="topo-membrane">LPTTEMITYSLAFTGNGY</span><span class="topo-outside">IRVANGKYL</span><span class="topo-membrane">PWARMASWLCTCPIMLGLVSN</span><span class="topo-inside">MALVKYKSIP</span><span class="topo-membrane">LN</span></span>
+<span class="topo-line"><span class="topo-membrane">PMMIAASSICTVFGITAS</span><span class="topo-outside">VVLDPLH</span><span class="topo-membrane">VWLYCFISSIFFIFEMVVAFAIFA</span><span class="topo-inside">ITIHDFQTIGS</span></span>
+<span class="topo-line"><span class="topo-inside">PMSLKVVER</span><span class="topo-membrane">LKLMRIVFYVSWMAYPILWSFS</span><span class="topo-outside">STGACIMSE</span><span class="topo-membrane">NTSSVLYLLGDALCKNTYGI</span></span>
+<span class="topo-line"><span class="topo-membrane">LLWA</span><span class="topo-inside">TTWGLLNGKWDRDYVKGRNVDGT</span><span class="topo-unknown">LM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>3</td>
+      <td>28</td>
+      <td>6</td>
+      <td>31</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>50</td>
+      <td>32</td>
+      <td>53</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>54</td>
+      <td>54</td>
+      <td>57</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>78</td>
+      <td>58</td>
+      <td>81</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>87</td>
+      <td>82</td>
+      <td>90</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>108</td>
+      <td>91</td>
+      <td>111</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>109</td>
+      <td>118</td>
+      <td>112</td>
+      <td>121</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>119</td>
+      <td>138</td>
+      <td>122</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>139</td>
+      <td>145</td>
+      <td>142</td>
+      <td>148</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td>169</td>
+      <td>149</td>
+      <td>172</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>170</td>
+      <td>189</td>
+      <td>173</td>
+      <td>192</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>190</td>
+      <td>211</td>
+      <td>193</td>
+      <td>214</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>212</td>
+      <td>220</td>
+      <td>215</td>
+      <td>223</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>221</td>
+      <td>244</td>
+      <td>224</td>
+      <td>247</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>245</td>
+      <td>267</td>
+      <td>248</td>
+      <td>270</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7l1e">7L1E</a> — Chain B (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">ITCDPAIYGEWSRENQFCVEKSLITLDGI</span><span class="topo-membrane">KYVQLVMAVVSACQVFFMVTR</span><span class="topo-inside">APKV</span><span class="topo-membrane">PWEAIY</span></span>
+<span class="topo-line"><span class="topo-membrane">LPTTEMITYSLAFT</span><span class="topo-outside">GNGYIRVANGKYL</span><span class="topo-membrane">PWARMASWLCTCPIMLGLVSN</span><span class="topo-inside">MALVKYKSIP</span><span class="topo-membrane">LN</span></span>
+<span class="topo-line"><span class="topo-membrane">PMMIAASSICTVFGITAS</span><span class="topo-outside">VVLDPL</span><span class="topo-membrane">HVWLYCFISSIFFIFEMVVAFAIF</span><span class="topo-inside">AITIHDFQTIGS</span></span>
+<span class="topo-line"><span class="topo-inside">PMSLKVVER</span><span class="topo-membrane">LKLMRIVFYVSWMAYPILWSFS</span><span class="topo-outside">STGACIMSE</span><span class="topo-membrane">NTSSVLYLLGDALCKNTYGI</span></span>
+<span class="topo-line"><span class="topo-membrane">LLWA</span><span class="topo-inside">TTWGLLNGKWDRDYVKGRNVDGTLM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>29</td>
+      <td>4</td>
+      <td>32</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>50</td>
+      <td>33</td>
+      <td>53</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>54</td>
+      <td>54</td>
+      <td>57</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>74</td>
+      <td>58</td>
+      <td>77</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>87</td>
+      <td>78</td>
+      <td>90</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>108</td>
+      <td>91</td>
+      <td>111</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>109</td>
+      <td>118</td>
+      <td>112</td>
+      <td>121</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>119</td>
+      <td>138</td>
+      <td>122</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>139</td>
+      <td>144</td>
+      <td>142</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>145</td>
+      <td>168</td>
+      <td>148</td>
+      <td>171</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>169</td>
+      <td>189</td>
+      <td>172</td>
+      <td>192</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>190</td>
+      <td>211</td>
+      <td>193</td>
+      <td>214</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>212</td>
+      <td>220</td>
+      <td>215</td>
+      <td>223</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>221</td>
+      <td>244</td>
+      <td>224</td>
+      <td>247</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>245</td>
+      <td>269</td>
+      <td>248</td>
+      <td>272</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -117,13 +786,13 @@ The conformational changes induced by bromide binding expand the tunnel in both 
 
 ## Cross-References
 
-- [Channelrhodopsin C1C2 Chimera](/xray-mp-wiki/proteins/rhodopsins/channelrhodopsin-c1c2/) — Closely related cation channelrhodopsin chimera used for structural comparison
-- [iC++ Designed Anion Channelrhodopsin](/xray-mp-wiki/proteins/rhodopsins/ic-plus-plus/) — Designed ACR created by structure-guided engineering for comparison with natural ACR GtACR1
-- [Channelrhodopsin Photocycle](/xray-mp-wiki/concepts/transport-mechanisms/channelrhodopsin-photocycle/) — GtACR1 exhibits a distinct photocycle mechanism with protonated Schiff base in open state
-- [Lipidic Cubic Phase (LCP) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — GtACR1 structure determined by LCP crystallization method
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for GtACR1 purification and solubilization
-- [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Referenced in gtacr1 text
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Referenced in gtacr1 text
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Referenced in gtacr1 text
-- [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Referenced in gtacr1 text
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Referenced in gtacr1 text
+- <a href="/xray-mp-wiki/proteins/rhodopsins/channelrhodopsin-c1c2/">Channelrhodopsin C1C2 Chimera</a> — Closely related cation channelrhodopsin chimera used for structural comparison
+- <a href="/xray-mp-wiki/proteins/rhodopsins/ic-plus-plus/">iC++ Designed Anion Channelrhodopsin</a> — Designed ACR created by structure-guided engineering for comparison with natural ACR GtACR1
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/channelrhodopsin-photocycle/">Channelrhodopsin Photocycle</a> — GtACR1 exhibits a distinct photocycle mechanism with protonated Schiff base in open state
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase (LCP) Crystallization</a> — GtACR1 structure determined by LCP crystallization method
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Primary detergent used for GtACR1 purification and solubilization
+- <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a> — Referenced in gtacr1 text
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — Referenced in gtacr1 text
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Referenced in gtacr1 text
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> — Referenced in gtacr1 text
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Referenced in gtacr1 text

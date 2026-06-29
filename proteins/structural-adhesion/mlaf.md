@@ -1,7 +1,7 @@
 ---
 title: "E. coli MlaF ABC ATPase"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,57 +17,148 @@ verified: false
 MlaF is the cytoplasmic ABC ATPase (nucleotide binding domain, NBD) component of the MlaFEDB ABC transporter complex from Escherichia coli. Together with the transmembrane domain protein MlaE, the periplasmic MCE domain protein [E. coli MlaD MCE Protein](/xray-mp-wiki/proteins/structural-adhesion/mlaD/), and the STAS domain regulatory protein [MLAB](/xray-mp-wiki/proteins/structural-adhesion/mlab/), MlaF drives phospholipid trafficking across the bacterial envelope to maintain outer membrane integrity. MlaF exhibits a canonical ABC ATPase fold with catalytic and helical subdomains, and possesses a unique ~25 amino acid C-terminal extension (CTE) that forms a domain-swapped reciprocal 'handshake' with the adjacent MlaF subunit, stabilizing the MlaF dimer. The signature motif of MlaF (LSGGM) contains a rare methionine instead of the consensus glutamine at its final position, a feature conserved in Mla and TGD-like MCE transport systems.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.7554##eLife.60030 | 6XGY | 2.9 A | P3_2 21 | Full-length E. coli MlaF (269 residues), residues 5-267 resolved, co-expressed with [MLAB](/xray-mp-wiki/proteins/structural-adhesion/mlab/) with N-terminal His-TEV tag | ADP, Mg²⁺ |
-| doi/10.7554##eLife.60030 | 6XGZ | 2.6 A | P2_1 2_1 2_1 | Full-length E. coli MlaF (269 residues), residues 5-267 resolved, co-expressed with [MLAB](/xray-mp-wiki/proteins/structural-adhesion/mlab/), apo form (no nucleotide) | None (apo) |
+### doi/10.7554##eLife.60030
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6xgy">6XGY</a></td>
+      <td>2.9 A</td>
+      <td>P3_2 21</td>
+      <td>Full-length E. coli MlaF (269 residues), residues 5-267 resolved, co-expressed with <a href="/xray-mp-wiki/proteins/structural-adhesion/mlab/">MLAB</a> with N-terminal His-TEV tag</td>
+      <td>ADP, Mg²⁺</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6xgz">6XGZ</a></td>
+      <td>2.6 A</td>
+      <td>P2_1 2_1 2_1</td>
+      <td>Full-length E. coli MlaF (269 residues), residues 5-267 resolved, co-expressed with <a href="/xray-mp-wiki/proteins/structural-adhesion/mlab/">MLAB</a>, apo form (no nucleotide)</td>
+      <td>None (apo)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli Rosetta 2 (DE3), T7-based expression
 - **Construct**: Full-length MlaF (269 residues) co-expressed with [MLAB](/xray-mp-wiki/proteins/structural-adhesion/mlab/) from a bicistronic operon. MlaF with N-terminal Strep tag (optional), [MLAB](/xray-mp-wiki/proteins/structural-adhesion/mlab/) with N-terminal His6-TEV tag. For MlaFEDB complex purification, constructs encoded the entire mlaFEDCB operon with N-terminal His-TEV tag on [E. coli MlaD MCE Protein](/xray-mp-wiki/proteins/structural-adhesion/mlaD/).
 
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli Rosetta 2 (DE3)
 - **Tag info**: His6-TEV tag on [MLAB](/xray-mp-wiki/proteins/structural-adhesion/mlab/) (for MlaFB complex), His-TEV tag on [E. coli MlaD MCE Protein](/xray-mp-wiki/proteins/structural-adhesion/mlaD/) (for MlaFEDB complex)
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Freeze-thaw / Emulsiflex</td>
+      <td>--</td>
+      <td>50 mM Tris pH 8.0, 300 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 1 mg/ml lysozyme, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, 25U benzonase + --</td>
+      <td>Freeze-thaw lysis for small-scale. Emulsiflex-C3 for large-scale. Clarified by centrifugation at 15,000g.</td>
+    </tr>
+    <tr>
+      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (IMAC)</td>
+      <td>Ni-NTA agarose (GE Healthcare)</td>
+      <td>Ni Wash Buffer (50 mM Tris pH 8.0, 300 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>); Ni Elution Buffer (50 mM Tris pH 8.0, 300 mM NaCl, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>) + --</td>
+      <td>Batch binding at 4°C, followed by wash and elution</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 16/60 (GE Healthcare)</td>
+      <td>20 mM Tris pH 8.0, 150 mM NaCl, 2 mM TCEP + --</td>
+      <td>MlaFB complex elutes at ~40 kDa (1:1 heterodimer)</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Freeze-thaw / Emulsiflex | -- | 50 mM Tris pH 8.0, 300 mM NaCl, 10 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 1 mg/ml lysozyme, 0.5 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/), 25U benzonase + -- | Freeze-thaw lysis for small-scale. Emulsiflex-C3 for large-scale. Clarified by centrifugation at 15,000g. |
-| Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Immobilized metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) (IMAC) | Ni-NTA agarose (GE Healthcare) | Ni Wash Buffer (50 mM Tris pH 8.0, 300 mM NaCl, 10 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/)); Ni Elution Buffer (50 mM Tris pH 8.0, 300 mM NaCl, 250 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/)) + -- | Batch binding at 4°C, followed by wash and elution |
-| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | SEC | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) 16/60 (GE Healthcare) | 20 mM Tris pH 8.0, 150 mM NaCl, 2 mM TCEP + -- | MlaFB complex elutes at ~40 kDa (1:1 heterodimer) |
+**Crystallization:**
 
-
-## Crystallization
-
-### doi/10.7554##eLife.60030
-
-| Parameter | Value |
-|---|---|
-| Method | Sitting-drop vapor diffusion |
-| Protein sample | MlaFB complex at 24 mg/ml in 20 mM Tris pH 8.0, 150 mM NaCl, 2 mM TCEP |
-| Reservoir | 0.7 M ammonium dihydrogen phosphate, 0.07 M sodium [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) pH 5.6, 30% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) |
-| Temperature | 18 |
-| Growth time | Not specified |
-| Cryoprotection | Reservoir solution supplemented with 5% [Ethylene Glycol](/xray-mp-wiki/reagents/additives/ethylene-glycol/) |
-| Notes | Crystals of apo MlaFB (MlaF_1B_1, PDB 6XGZ). 100 nL + 100 nL drop. |
-
-| Parameter | Value |
-|---|---|
-| Method | Sitting-drop vapor diffusion |
-| Protein sample | MlaFB complex at 24 mg/ml supplemented with 2 mM ADP and 2 mM magnesium acetate in 20 mM Tris pH 8.0, 150 mM NaCl, 2 mM TCEP |
-| Reservoir | 0.2 M magnesium formate |
-| Temperature | 4 |
-| Growth time | Not specified |
-| Cryoprotection | Reservoir solution supplemented with 35% [Ethylene Glycol](/xray-mp-wiki/reagents/additives/ethylene-glycol/) |
-| Notes | Crystals of ADP-bound MlaFB (MlaF_2B_2, PDB 6XGY). 100 nL + 100 nL drop. Phased using BALBES with search models 2OUK (MlaF) and 3F43 ([MLAB](/xray-mp-wiki/proteins/structural-adhesion/mlab/)). |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>MlaFB complex at 24 mg/ml in 20 mM Tris pH 8.0, 150 mM NaCl, 2 mM TCEP</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.7 M ammonium dihydrogen phosphate, 0.07 M sodium <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a> pH 5.6, 30% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Reservoir solution supplemented with 5% <a href="/xray-mp-wiki/reagents/additives/ethylene-glycol/">Ethylene Glycol</a></td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals of apo MlaFB (MlaF_1B_1, PDB 6XGZ). 100 nL + 100 nL drop.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>MlaFB complex at 24 mg/ml supplemented with 2 mM ADP and 2 mM magnesium acetate in 20 mM Tris pH 8.0, 150 mM NaCl, 2 mM TCEP</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.2 M magnesium formate</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Reservoir solution supplemented with 35% <a href="/xray-mp-wiki/reagents/additives/ethylene-glycol/">Ethylene Glycol</a></td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals of ADP-bound MlaFB (MlaF_2B_2, PDB 6XGY). 100 nL + 100 nL drop. Phased using BALBES with search models 2OUK (MlaF) and 3F43 (<a href="/xray-mp-wiki/proteins/structural-adhesion/mlab/">MLAB</a>).</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -107,13 +198,13 @@ regulation through STAS domain proteins.
 
 ## Cross-References
 
-- [E. coli MlaB STAS Domain Protein](/xray-mp-wiki/proteins/mlaB/) — Binding partner that stabilizes MlaF and promotes MlaFEDB complex assembly
-- [E. coli MlaD MCE Protein](/xray-mp-wiki/proteins/structural-adhesion/mlaD/) — Transmembrane/periplasmic component of the MlaFEDB complex
-- [E. coli MlaC Periplasmic Lipid-Binding Protein](/xray-mp-wiki/proteins/structural-adhesion/mlaC/) — Periplasmic shuttle protein in the Mla lipid transport pathway
-- [E. coli MlaA Outer Membrane Lipoprotein](/xray-mp-wiki/proteins/miscellaneous/mlaA/) — Outer membrane component of the Mla lipid transport system
-- [ADP](/xray-mp-wiki/reagents/ligands/adp/) — Bound nucleotide in the MlaF_2B_2 dimeric structure (post-hydrolysis state)
-- [ABC Transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — MlaF is the NBD of the MlaFEDB ABC transporter complex
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification
-- [MLAB](/xray-mp-wiki/proteins/structural-adhesion/mlab/) — Related protein structure
-- [EDTA](/xray-mp-wiki/reagents/additives/edta/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/proteins/mlaB/">E. coli MlaB STAS Domain Protein</a> — Binding partner that stabilizes MlaF and promotes MlaFEDB complex assembly
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/mlaD/">E. coli MlaD MCE Protein</a> — Transmembrane/periplasmic component of the MlaFEDB complex
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/mlaC/">E. coli MlaC Periplasmic Lipid-Binding Protein</a> — Periplasmic shuttle protein in the Mla lipid transport pathway
+- <a href="/xray-mp-wiki/proteins/miscellaneous/mlaA/">E. coli MlaA Outer Membrane Lipoprotein</a> — Outer membrane component of the Mla lipid transport system
+- <a href="/xray-mp-wiki/reagents/ligands/adp/">ADP</a> — Bound nucleotide in the MlaF_2B_2 dimeric structure (post-hydrolysis state)
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/">ABC Transporter</a> — MlaF is the NBD of the MlaFEDB ABC transporter complex
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/mlab/">MLAB</a> — Related protein structure
+- <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> — Additive used in purification or crystallization buffers

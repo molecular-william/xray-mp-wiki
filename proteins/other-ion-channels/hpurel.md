@@ -1,7 +1,7 @@
 ---
 title: "Helicobacter pylori Urea Channel (HpUrel)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,34 +17,50 @@ verified: false
 HpUrel is a [UREA](/xray-mp-wiki/reagents/substrates/urea/) channel from Helicobacter pylori J99, belonging to the AmiS/Urel superfamily. Urel is essential for H. pylori survival in the acidic gastric environment, facilitating rapid [UREA](/xray-mp-wiki/reagents/substrates/urea/) permeation to the cytoplasmic urease, which hydrolyzes [UREA](/xray-mp-wiki/reagents/substrates/urea/) to ammonia and carbon dioxide to neutralize periplasmic pH. HpUrel forms a hexameric channel with a central lipid bilayer plug. Each protomer contains five transmembrane helices (TMH1-TMH5). The structure reveals a constriction region around Trp153 that occludes the channel, and a pH sensor in periplasmic loop 2 (PL2) that regulates channel opening in response to acidic pH.
 
 
-## Structure Determination
+## Publications
 
-No structure determined.
+### doi/10.1038##nature11684
 
-## Expression and Purification
+**Expression:**
 
 - **Expression system**: Not specified in available data
 - **Construct**: Not specified in available data
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Purification</td>
+      <td>Not specified in available data</td>
+      <td>—</td>
+      <td></td>
+      <td>Detailed purification methods not available in supplementary information</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Purification | Not specified in available data | — |  | Detailed purification methods not available in supplementary information |
-
-
-## Crystallization
-
-### doi/10.1038##nature11684
-
-| Parameter | Value |
-|---|---|
-| Method | Not specified |
-| Notes | Crystals belong to space group P4_2_2_12. Cell dimensions: a=b=122.9 A, c=141.4 A. Native data collected to 3.39 A resolution. SeMet MAD data used for experimental phasing with 3-fold [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) averaging. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals belong to space group P4_2_2_12. Cell dimensions: a=b=122.9 A, c=141.4 A. Native data collected to 3.39 A resolution. SeMet MAD data used for experimental phasing with 3-fold <a href="/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/">NCS</a> averaging.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -78,8 +94,8 @@ carbonyl oxygen pointing toward TMH2 near the center of the hexamer.
 
 ## Cross-References
 
-- [Urea Transporter dvUT](/xray-mp-wiki/proteins/other-ion-channels/urea-transporter-dvut/) — Related urea channel/facilitator from Desulfovibrio vulgaris
-- [Urea](/xray-mp-wiki/reagents/substrates/urea/) — Substrate of the HpUrel urea channel
-- [Channel-like Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/channel-like-mechanism/) — HpUrel operates as a channel facilitating urea diffusion
-- [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) — Related biological concept
-- [UREA](/xray-mp-wiki/reagents/substrates/urea/) — Entity mentioned in text
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/urea-transporter-dvut/">Urea Transporter dvUT</a> — Related urea channel/facilitator from Desulfovibrio vulgaris
+- <a href="/xray-mp-wiki/reagents/substrates/urea/">Urea</a> — Substrate of the HpUrel urea channel
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/channel-like-mechanism/">Channel-like Mechanism</a> — HpUrel operates as a channel facilitating urea diffusion
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/">NCS</a> — Related biological concept
+- <a href="/xray-mp-wiki/reagents/substrates/urea/">UREA</a> — Entity mentioned in text

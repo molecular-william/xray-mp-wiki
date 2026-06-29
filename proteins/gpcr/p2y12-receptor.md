@@ -1,7 +1,7 @@
 ---
 title: "Human P2Y12 Receptor"
 created: 2026-05-27
-updated: 2026-06-16
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,83 +16,863 @@ verified: false
 
 The P2Y12 receptor is a class A G protein-coupled receptor (GPCR) expressed on human platelets that mediates [ADP](/xray-mp-wiki/reagents/ligands/adp)-induced platelet activation and aggregation. It is a critical drug target for antiplatelet therapy. The receptor exhibits high plasticity in its extracellular regions with striking conformational changes between agonist- and antagonist-bound states, distinguishing it from other class A GPCRs. The first structure of a GPCR bound to an agonist revealed large-scale extracellular rearrangements forming a closed lid over the ligand binding pocket.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.bcp.2022.115291 | 7pp1 | 2.78 A | C2 | Human P2Y12 receptor with [BRIL](/xray-mp-wiki/reagents/protein-tags/bril) fused to ICL3 at T223-R224, D294(7.49)N mutation | [Selatogrel](/xray-mp-wiki/reagents/ligands/selatogrel) (ACT-246475) |
-| doi/10.1038##nature13083 | 4ntj | 2.6 A | C2 | Human P2Y12 receptor with [BRIL](/xray-mp-wiki/reagents/protein-tags/bril) fused to ICL3 at T223-R224, D294(7.49)N mutation | [AZD1283](/xray-mp-wiki/reagents/ligands/azd1283) |
-| doi/10.1038##nature13288 | 4PXZ | 2.5 A | C222(1) | Human P2Y12 receptor with BRIL fused to ICL3 at T223-R224, D294(7.49)N mutation | [2MeSADP](/xray-mp-wiki/reagents/ligands/2me-sadp) |
-| doi/10.1038##nature13288 | 4PXZ | 3.1 A | C2 | Human P2Y12 receptor with BRIL fused to ICL3 at T223-R224, D294(7.49)N mutation | [2MeSATP](/xray-mp-wiki/reagents/ligands/2me-satp) |
+### doi/10.1016##j.bcp.2022.115291
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7pp1">7PP1</a></td>
+      <td>2.78 A</td>
+      <td>C2</td>
+      <td>Human P2Y12 receptor with <a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL</a> fused to ICL3 at T223-R224, D294(7.49)N mutation</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/selatogrel">Selatogrel</a> (ACT-246475)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Sf9 insect cells
 - **Construct**: Human P2Y12 receptor-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril) fusion protein. [BRIL](/xray-mp-wiki/reagents/protein-tags/bril) (thermostabilized apocytochrome b562 RIL) fused into ICL3 at T223-R224 with D294(7.49)N mutation for improved yield.
 
-### Purification Workflow
+**Purification:**
 
-#### Source: doi/10.1016##j.bcp.2022.115291
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture and membrane preparation</td>
+      <td><a href="/xray-mp-wiki/methods/expression-systems/sf9-expression-system/">Sf9</a> insect cell expression</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>P2Y12-<a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL</a> fusion protein expressed in <a href="/xray-mp-wiki/methods/expression-systems/sf9-expression-system/">Sf9</a> insect cells; expressed as previously described</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Immobilized metal affinity chromatography</a></td>
+      <td>IMAC</td>
+      <td>-- + --</td>
+      <td>Purified in the presence of 2 mM <a href="/xray-mp-wiki/reagents/ligands/selatogrel">Selatogrel</a> to stabilize the receptor-ligand complex</td>
+    </tr>
+  </tbody>
+</table>
 
+**Crystallization:**
 
-##### Steps
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>X-ray crystallography</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>P2Y12-<a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL</a> in complex with <a href="/xray-mp-wiki/reagents/ligands/selatogrel">Selatogrel</a> (2 mM)</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Data collection and structure refinement statistics in Table 2 of the original paper. PDB accession code 7pp1.</td>
+    </tr>
+  </tbody>
+</table>
+### doi/10.1038##nature13083
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture and membrane preparation | Sf9 insect cell expression | -- | -- + -- | P2Y12-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril) fusion protein expressed in Sf9 insect cells; expressed as previously described |
-| Affinity chromatography | Immobilized metal affinity chromatography | IMAC | -- + -- | Purified in the presence of 2 mM [Selatogrel](/xray-mp-wiki/reagents/ligands/selatogrel) to stabilize the receptor-ligand complex |
+**Structures:**
 
-#### Source: doi/10.1038##nature13288
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4ntj">4NTJ</a></td>
+      <td>2.6 A</td>
+      <td>C2</td>
+      <td>Human P2Y12 receptor with <a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL</a> fused to ICL3 at T223-R224, D294(7.49)N mutation</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/azd1283">AZD1283</a></td>
+    </tr>
+  </tbody>
+</table>
 
+**Expression:**
 
-##### Steps
+- **Expression system**: Sf9 insect cells
+- **Construct**: Human P2Y12 receptor-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril) fusion protein. [BRIL](/xray-mp-wiki/reagents/protein-tags/bril) (thermostabilized apocytochrome b562 RIL) fused into ICL3 at T223-R224 with D294(7.49)N mutation for improved yield.
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| 1. Membrane preparation | Hypotonic buffer washing with low and high salt | — |  | Membranes washed repeatedly before solubilization |
-| 2. Ligand incubation | Incubation with 20 uM ligand | — |  | 2MeSADP or 2MeSATP in presence of 2 mg/ml iodoacetamide and EDTA-free protease inhibitor cocktail, 30 min |
-| 3. Solubilization | Detergent extraction | — | 0.5% DDM + 0.1% cholesteryl hemisuccinate (CHS) | 4 deg C, 2.5 h |
-| 4. Affinity chromatography | TALON IMAC | TALON IMAC resin (Clontech) | 50 mM HEPES pH 7.5, 1 M NaCl, 10% glycerol, 0.05% DDM, 0.01% CHS | Wash with 30 mM imidazole, elute with 270 mM imidazole |
-| 5. Buffer exchange and tag removal | PD MiniTrap G-25, PreScission protease + PNGase F treatment | — |  | Ligand increased to 2 mM after buffer exchange. His-tag removed by PreScission protease. Deglycosylated by PNGase F. Cleaved tag removed by Ni-NTA. |
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic cubic phase</a> (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>) crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>P2Y12R-<a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL</a> (D294N mutation) in complex with <a href="/xray-mp-wiki/reagents/ligands/azd1283">AZD1283</a></td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Data collection from 15 crystals at 23ID-B/D beamline (GM/CA CAT) at APS using 10 um minibeam at 1.0330 A wavelength. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using <a href="/xray-mp-wiki/proteins/par1">PAR1</a> (PDB 3VW7) and <a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL</a> (PDB 1M6T) as initial models. Two receptor molecules form parallel dimer mediated by helix V. Two <a href="/xray-mp-wiki/reagents/lipids/cholesterol">Cholesterol</a> molecules bound per receptor.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4ntj">4NTJ</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPQAVDNLTSAPGNTS</span><span class="topo-outside">LCTRDYKITQVL</span><span class="topo-membrane">FPLLYTVLFFVGLITNGLAMRIFF</span></span>
+<span class="topo-line"><span class="topo-membrane">QI</span><span class="topo-inside">RSKSN</span><span class="topo-membrane">FIIFLKNTVISDLLMILTFPFKI</span><span class="topo-outside">LSDAKL</span><span class="topo-unknown">GTGP</span><span class="topo-outside">LRTFV</span><span class="topo-membrane">CQVTSVIFYFTMYIS</span></span>
+<span class="topo-line"><span class="topo-membrane">ISFLGLITIDR</span><span class="topo-inside">YQKTTRPFKT</span><span class="topo-unknown">SNP</span><span class="topo-inside">KNLL</span><span class="topo-membrane">GAKILSVVIWAFMFLLSLPNMIL</span><span class="topo-unknown">TNRQPRDKN</span></span>
+<span class="topo-line"><span class="topo-unknown">VKKCSFL</span><span class="topo-outside">KSEFGLV</span><span class="topo-membrane">WHEIVNYICQVIFWINFLIVIVCYT</span><span class="topo-inside">LITKELYRSYVRTADLEDNWE</span></span>
+<span class="topo-line"><span class="topo-inside">TLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLE</span><span class="topo-unknown">DKSPDSPEMK</span><span class="topo-inside">DFRHGFDIL</span></span>
+<span class="topo-line"><span class="topo-inside">VGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLRGVGKV</span><span class="topo-unknown">P</span><span class="topo-inside">RKKVNV</span><span class="topo-membrane">KVFIIIAVF</span></span>
+<span class="topo-line"><span class="topo-membrane">FICFVPFHFARIPYTLS</span><span class="topo-outside">QTRDVFDCTAENTLFY</span><span class="topo-membrane">VKESTLWLTSLNACLNPFIYFFLC</span><span class="topo-unknown">KSF</span></span>
+<span class="topo-line"><span class="topo-unknown">RNSLIS</span><span class="topo-inside">M</span><span class="topo-unknown">LKCPNSATSLSQDNRKKEQDGGDPNEETPMGRPLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>24</td>
+      <td>-8</td>
+      <td>15</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>36</td>
+      <td>16</td>
+      <td>27</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>62</td>
+      <td>28</td>
+      <td>53</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>67</td>
+      <td>54</td>
+      <td>58</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>90</td>
+      <td>59</td>
+      <td>81</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>96</td>
+      <td>82</td>
+      <td>87</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>100</td>
+      <td>88</td>
+      <td>91</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>105</td>
+      <td>92</td>
+      <td>96</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>131</td>
+      <td>97</td>
+      <td>122</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>132</td>
+      <td>141</td>
+      <td>123</td>
+      <td>132</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>144</td>
+      <td>133</td>
+      <td>135</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>145</td>
+      <td>148</td>
+      <td>136</td>
+      <td>139</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>171</td>
+      <td>140</td>
+      <td>162</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>172</td>
+      <td>187</td>
+      <td>163</td>
+      <td>178</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>188</td>
+      <td>194</td>
+      <td>179</td>
+      <td>185</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>195</td>
+      <td>219</td>
+      <td>186</td>
+      <td>210</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>220</td>
+      <td>232</td>
+      <td>211</td>
+      <td>223</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>233</td>
+      <td>281</td>
+      <td>1001</td>
+      <td>1049</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>282</td>
+      <td>291</td>
+      <td>1050</td>
+      <td>1059</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>292</td>
+      <td>338</td>
+      <td>1060</td>
+      <td>1106</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>339</td>
+      <td>344</td>
+      <td>224</td>
+      <td>229</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>345</td>
+      <td>230</td>
+      <td>230</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>346</td>
+      <td>351</td>
+      <td>231</td>
+      <td>236</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>352</td>
+      <td>377</td>
+      <td>237</td>
+      <td>262</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>378</td>
+      <td>393</td>
+      <td>263</td>
+      <td>278</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>394</td>
+      <td>417</td>
+      <td>279</td>
+      <td>302</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>418</td>
+      <td>426</td>
+      <td>303</td>
+      <td>311</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>427</td>
+      <td>427</td>
+      <td>312</td>
+      <td>312</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>466</td>
+      <td>313</td>
+      <td>351</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
+### doi/10.1038##nature13288
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4pxz">4PXZ</a></td>
+      <td>2.5 A</td>
+      <td>C222(1)</td>
+      <td>Human P2Y12 receptor with BRIL fused to ICL3 at T223-R224, D294(7.49)N mutation</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/2me-sadp">2MeSADP</a></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4pxz">4PXZ</a></td>
+      <td>3.1 A</td>
+      <td>C2</td>
+      <td>Human P2Y12 receptor with BRIL fused to ICL3 at T223-R224, D294(7.49)N mutation</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/2me-satp">2MeSATP</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Sf9 insect cells
+- **Construct**: Human P2Y12 receptor-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril) fusion protein. [BRIL](/xray-mp-wiki/reagents/protein-tags/bril) (thermostabilized apocytochrome b562 RIL) fused into ICL3 at T223-R224 with D294(7.49)N mutation for improved yield.
+
+**Purification:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1. Membrane preparation</td>
+      <td>Hypotonic buffer washing with low and high salt</td>
+      <td>—</td>
+      <td></td>
+      <td>Membranes washed repeatedly before solubilization</td>
+    </tr>
+    <tr>
+      <td>2. Ligand incubation</td>
+      <td>Incubation with 20 uM ligand</td>
+      <td>—</td>
+      <td></td>
+      <td>2Me<a href="/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/">SAD</a>P or 2MeSATP in presence of 2 mg/ml iodoacetamide and EDTA-free protease inhibitor cocktail, 30 min</td>
+    </tr>
+    <tr>
+      <td>3. Solubilization</td>
+      <td>Detergent extraction</td>
+      <td>—</td>
+      <td>0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.1% cholesteryl hemisuccinate (CHS)</td>
+      <td>4 deg C, 2.5 h</td>
+    </tr>
+    <tr>
+      <td>4. <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
+      <td>TALON IMAC</td>
+      <td>TALON IMAC resin (Clontech)</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 1 M NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% CHS</td>
+      <td>Wash with 30 mM <a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a>, elute with 270 mM imidazole</td>
+    </tr>
+    <tr>
+      <td>5. Buffer exchange and tag removal</td>
+      <td>PD MiniTrap G-25, PreScission protease + PNGase F treatment</td>
+      <td>—</td>
+      <td></td>
+      <td>Ligand increased to 2 mM after buffer exchange. <a href="/xray-mp-wiki/reagents/protein-tags/his-tag/">His-tag</a> removed by PreScission protease. Deglycosylated by PNGase F. Cleaved tag removed by <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a>.</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: 30-40 mg/ml purified P2Y12R-BRIL in complex with ligand
 **Yield**: N/A
 
+**Crystallization:**
 
-## Crystallization
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic cubic phase</a> (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>) crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>P2Y12R-BRIL in complex with 2Me<a href="/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/">SAD</a>P</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>10% cholesterol, 90% <a href="/xray-mp-wiki/reagents/lipids/monoolein/">monoolein</a></td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>1 week</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals appeared in 0.30-0.45 M <a href="/xray-mp-wiki/reagents/buffers/ammonium-acetate/">Ammonium Acetate</a>, 0.1 M <a href="/xray-mp-wiki/reagents/buffers/sodium-citrate/">Sodium Citrate</a> pH 5.0, 30-40% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a>400, 3% 1-propanol, 500 uM 2Me<a href="/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/">SAD</a>P. Crystal size: 80 x 50 x 5 um3. 17 crystals used. Data collected at SPring-8 BL41XU beamline using 10 um minibeam.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic cubic phase</a> (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>) crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>P2Y12R-BRIL in complex with 2MeSATP</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>6 crystals used for data collection. Crystal size: 30 x 30 x 5 um3.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-### doi/10.1016##j.bcp.2022.115291
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4pxz">4PXZ</a> — Chain A (7 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | X-ray crystallography |
-| Protein sample | P2Y12-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril) in complex with [Selatogrel](/xray-mp-wiki/reagents/ligands/selatogrel) (2 mM) |
-| Notes | Data collection and structure refinement statistics in Table 2 of the original paper. PDB accession code 7pp1. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPQAVDNLTSAPGNT</span><span class="topo-outside">SLCTRDYKIT</span><span class="topo-membrane">QVLFPLLYTVLFFVGLITNGLAMRIFF</span></span>
+<span class="topo-line"><span class="topo-inside">QIRSKSNFII</span><span class="topo-membrane">FLKNTVISDLLMILTFPFKILSDA</span><span class="topo-outside">KLGTGP</span><span class="topo-membrane">LRTFVCQVTSVIFYFTMYIS</span></span>
+<span class="topo-line"><span class="topo-membrane">ISFLGLITI</span><span class="topo-inside">DRYQKTTRP</span><span class="topo-unknown">FKTSN</span><span class="topo-inside">PKNLLGAK</span><span class="topo-membrane">ILSVVIWAFMFLLSLPNMILTN</span><span class="topo-outside">RQPRDKN</span></span>
+<span class="topo-line"><span class="topo-outside">VKKCSFLKSEF</span><span class="topo-membrane">GLVWHEIVNYICQVIFWINFLIVIVCYTL</span><span class="topo-inside">ITKELYRSYVRTADLEDNWE</span></span>
+<span class="topo-line"><span class="topo-inside">TLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDIL</span></span>
+<span class="topo-line"><span class="topo-inside">VGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLRGVGKVPRKKVNV</span><span class="topo-membrane">KVFIIIAVF</span></span>
+<span class="topo-line"><span class="topo-membrane">FICFVPFHFARIPYTL</span><span class="topo-outside">SQTRDVFDCTAENTL</span><span class="topo-membrane">FYVKESTLWLTSLNACLNPFIYFF</span><span class="topo-inside">LCKSF</span></span>
+<span class="topo-line"><span class="topo-unknown">RNSLISMLKCPNSATSLSQDNRKKEQDGGDPNEETPMGRPLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>23</td>
+      <td>-8</td>
+      <td>14</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>33</td>
+      <td>15</td>
+      <td>24</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>60</td>
+      <td>25</td>
+      <td>51</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>70</td>
+      <td>52</td>
+      <td>61</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>94</td>
+      <td>62</td>
+      <td>85</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>100</td>
+      <td>86</td>
+      <td>91</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>129</td>
+      <td>92</td>
+      <td>120</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>138</td>
+      <td>121</td>
+      <td>129</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>139</td>
+      <td>143</td>
+      <td>130</td>
+      <td>134</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>144</td>
+      <td>151</td>
+      <td>135</td>
+      <td>142</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>152</td>
+      <td>173</td>
+      <td>143</td>
+      <td>164</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>174</td>
+      <td>191</td>
+      <td>165</td>
+      <td>182</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>220</td>
+      <td>183</td>
+      <td>211</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>221</td>
+      <td>232</td>
+      <td>212</td>
+      <td>223</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>233</td>
+      <td>338</td>
+      <td>1001</td>
+      <td>1106</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>339</td>
+      <td>351</td>
+      <td>224</td>
+      <td>236</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>352</td>
+      <td>376</td>
+      <td>237</td>
+      <td>261</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>377</td>
+      <td>391</td>
+      <td>262</td>
+      <td>276</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>392</td>
+      <td>415</td>
+      <td>277</td>
+      <td>300</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>416</td>
+      <td>420</td>
+      <td>301</td>
+      <td>305</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>421</td>
+      <td>466</td>
+      <td>306</td>
+      <td>351</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##nature13083
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4pxz">4PXZ</a> — Chain A (7 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) crystallization |
-| Protein sample | P2Y12R-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril) (D294N mutation) in complex with [AZD1283](/xray-mp-wiki/reagents/ligands/azd1283) |
-| Notes | Data collection from 15 crystals at 23ID-B/D beamline (GM/CA CAT) at APS using 10 um minibeam at 1.0330 A wavelength. Structure solved by molecular replacement using [PAR1](/xray-mp-wiki/proteins/par1) (PDB 3VW7) and [BRIL](/xray-mp-wiki/reagents/protein-tags/bril) (PDB 1M6T) as initial models. Two receptor molecules form parallel dimer mediated by helix V. Two [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol) molecules bound per receptor. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPQAVDNLTSAPGNT</span><span class="topo-outside">SLCTRDYKIT</span><span class="topo-membrane">QVLFPLLYTVLFFVGLITNGLAMRIFF</span></span>
+<span class="topo-line"><span class="topo-inside">QIRSKSNFII</span><span class="topo-membrane">FLKNTVISDLLMILTFPFKILSDA</span><span class="topo-outside">KLGTGP</span><span class="topo-membrane">LRTFVCQVTSVIFYFTMYIS</span></span>
+<span class="topo-line"><span class="topo-membrane">ISFLGLITI</span><span class="topo-inside">DRYQKTTRP</span><span class="topo-unknown">FKTSN</span><span class="topo-inside">PKNLLGAK</span><span class="topo-membrane">ILSVVIWAFMFLLSLPNMILTN</span><span class="topo-outside">RQPRDKN</span></span>
+<span class="topo-line"><span class="topo-outside">VKKCSFLKSEF</span><span class="topo-membrane">GLVWHEIVNYICQVIFWINFLIVIVCYTL</span><span class="topo-inside">ITKELYRSYVRTADLEDNWE</span></span>
+<span class="topo-line"><span class="topo-inside">TLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDIL</span></span>
+<span class="topo-line"><span class="topo-inside">VGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLRGVGKVPRKKVNV</span><span class="topo-membrane">KVFIIIAVF</span></span>
+<span class="topo-line"><span class="topo-membrane">FICFVPFHFARIPYTL</span><span class="topo-outside">SQTRDVFDCTAENTL</span><span class="topo-membrane">FYVKESTLWLTSLNACLNPFIYFF</span><span class="topo-inside">LCKSF</span></span>
+<span class="topo-line"><span class="topo-unknown">RNSLISMLKCPNSATSLSQDNRKKEQDGGDPNEETPMGRPLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>23</td>
+      <td>-8</td>
+      <td>14</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>33</td>
+      <td>15</td>
+      <td>24</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>60</td>
+      <td>25</td>
+      <td>51</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>70</td>
+      <td>52</td>
+      <td>61</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>94</td>
+      <td>62</td>
+      <td>85</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>100</td>
+      <td>86</td>
+      <td>91</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>129</td>
+      <td>92</td>
+      <td>120</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>138</td>
+      <td>121</td>
+      <td>129</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>139</td>
+      <td>143</td>
+      <td>130</td>
+      <td>134</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>144</td>
+      <td>151</td>
+      <td>135</td>
+      <td>142</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>152</td>
+      <td>173</td>
+      <td>143</td>
+      <td>164</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>174</td>
+      <td>191</td>
+      <td>165</td>
+      <td>182</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>220</td>
+      <td>183</td>
+      <td>211</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>221</td>
+      <td>232</td>
+      <td>212</td>
+      <td>223</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>233</td>
+      <td>338</td>
+      <td>1001</td>
+      <td>1106</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>339</td>
+      <td>351</td>
+      <td>224</td>
+      <td>236</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>352</td>
+      <td>376</td>
+      <td>237</td>
+      <td>261</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>377</td>
+      <td>391</td>
+      <td>262</td>
+      <td>276</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>392</td>
+      <td>415</td>
+      <td>277</td>
+      <td>300</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>416</td>
+      <td>420</td>
+      <td>301</td>
+      <td>305</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>421</td>
+      <td>466</td>
+      <td>306</td>
+      <td>351</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##nature13288
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) crystallization |
-| Protein sample | P2Y12R-BRIL in complex with 2MeSADP |
-| Lipid | 10% cholesterol, 90% monoolein |
-| Growth time | 1 week |
-| Notes | Crystals appeared in 0.30-0.45 M ammonium acetate, 0.1 M sodium citrate pH 5.0, 30-40% PEG400, 3% 1-propanol, 500 uM 2MeSADP. Crystal size: 80 x 50 x 5 um3. 17 crystals used. Data collected at SPring-8 BL41XU beamline using 10 um minibeam. |
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) crystallization |
-| Protein sample | P2Y12R-BRIL in complex with 2MeSATP |
-| Notes | 6 crystals used for data collection. Crystal size: 30 x 30 x 5 um3. |
-
+</div>
 
 ## Biological / Functional Insights
 
@@ -139,13 +919,13 @@ The 2MeSADP binding pocket involves residues from helices III, IV, V, VI, and VI
 
 ## Cross-References
 
-- [BRIL Fusion Protein](/xray-mp-wiki/reagents/protein-tags/bril/) — BRIL fused to ICL3 for crystallization
-- [Selatogrel](/xray-mp-wiki/reagents/ligands/selatogrel/) — Co-crystallized inverse agonist ligand
-- [AZD1283](/xray-mp-wiki/reagents/ligands/azd1283/) — Co-crystallized reversible antagonist in first P2Y12 structure (PDB 4NTJ)
-- [Ticagrelor](/xray-mp-wiki/reagents/ligands/ticagrelor/) — Related P2Y12 inverse agonist for comparison
-- [Elinogrel](/xray-mp-wiki/reagents/ligands/elinogrel/) — Related P2Y12 antagonist studied in paper
-- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — Selatogrel stabilizes inactive conformation vs active
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — IMAC purification method used
-- [A2A-PSB1-bRIL Adenosine A2A Receptor](/xray-mp-wiki/proteins/gpcr/a2a-psb1-bril/) — Related GPCR-BRIL fusion structure
-- [PAR1](/xray-mp-wiki/proteins/par1) — Related protein structure
-- [S1P1](/xray-mp-wiki/proteins/s1p1) — Related protein structure
+- <a href="/xray-mp-wiki/reagents/protein-tags/bril/">BRIL Fusion Protein</a> — BRIL fused to ICL3 for crystallization
+- <a href="/xray-mp-wiki/reagents/ligands/selatogrel/">Selatogrel</a> — Co-crystallized inverse agonist ligand
+- <a href="/xray-mp-wiki/reagents/ligands/azd1283/">AZD1283</a> — Co-crystallized reversible antagonist in first P2Y12 structure (PDB 4NTJ)
+- <a href="/xray-mp-wiki/reagents/ligands/ticagrelor/">Ticagrelor</a> — Related P2Y12 inverse agonist for comparison
+- <a href="/xray-mp-wiki/reagents/ligands/elinogrel/">Elinogrel</a> — Related P2Y12 antagonist studied in paper
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/">GPCR Active Conformation</a> — Selatogrel stabilizes inactive conformation vs active
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — IMAC purification method used
+- <a href="/xray-mp-wiki/proteins/gpcr/a2a-psb1-bril/">A2A-PSB1-bRIL Adenosine A2A Receptor</a> — Related GPCR-BRIL fusion structure
+- <a href="/xray-mp-wiki/proteins/par1">PAR1</a> — Related protein structure
+- <a href="/xray-mp-wiki/proteins/s1p1">S1P1</a> — Related protein structure

@@ -1,12 +1,12 @@
 ---
 title: "Steroid Sulfatase (hSTS)"
 created: 2026-05-27
-updated: 2026-06-16
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
-sources: [doi/10.1016##j.jsbmb.2022.106228, doi/10.1074##jbc.M211497200]
+sources: [doi/10.1074##jbc.M211497200, doi/10.1016##j.jsbmb.2022.106228]
 verified: false
 ---
 
@@ -16,54 +16,359 @@ verified: false
 
 Steroid sulfatase (hSTS) from human placenta is an integral membrane enzyme of the endoplasmic reticulum that catalyzes the hydrolysis of sulfate esters of [E1](/xray-mp-wiki/reagents/ligands/estrone) sulfate (E1S) and dehydroepiandrosterone sulfate (DHEAS) to yield the unconjugated steroids [E1](/xray-mp-wiki/reagents/ligands/estrone) (E1) and [DHEA](/xray-mp-wiki/reagents/ligands/dhea). These steroids serve as precursors for the biosynthesis of 17β-[E2](/xray-mp-wiki/reagents/ligands/estradiol) (E2) and dihydrotestosterone ([DHT](/xray-mp-wiki/reagents/ligands/dht)), the most potent estrogens and androgens. hSTS is a key enzyme for local production of E2 and [DHT](/xray-mp-wiki/reagents/ligands/dht) in breast and prostate tissues, and is responsible for maintaining high levels of estrogens in breast tumor cells. The enzyme is Ca2+-dependent and contains a post-translationally modified catalytic residue (formylglycine, further activated to hydroxyformylglycine). The tertiary structure consists of a globular polar catalytic domain and two antiparallel transmembrane helices. hSTS forms a stable trimeric oligomer that integrates into the lipid bilayer.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1074##jbc.M211497200 | 1P49 | 2.60 | P3 | Full-length human estrone sulfatase purified from human placenta microsomal fraction | Ca2+, sulfate (covalently linked to FGS75), BOG (detergent) |
-| doi/10.1016##j.jsbmb.2022.106228 | 8EG3 | 2.0 A | P321 | Human placental steroid sulfatase (hSTS), full-length, two transmembrane helices (alpha8, alpha9), N47 and N333 glycosylated, purified from human placenta microsomal fraction | Ca2+ (catalytic cofactor), FGS75 (covalently linked sulfate ester at catalytic site), BOG (detergent, two binding sites) |
+### doi/10.1074##jbc.M211497200
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1p49">1P49</a></td>
+      <td>2.60</td>
+      <td>P3</td>
+      <td>Full-length human estrone sulfatase purified from human placenta microsomal fraction</td>
+      <td>Ca2+, sulfate (covalently linked to FGS75), BOG (detergent)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Human placenta (native expression, purified from microsomal fraction)
 - **Construct**: Full-length hSTS, two antiparallel transmembrane helices (alpha8 and alpha9), globular lumen-facing polar domain with two subdomains (SD1 and SD2), N47 and N333 glycosylation sites
 
-### Purification Workflow
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion (sitting drop)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>hSTS purified from human placenta, solubilized in 0.3% BOG (n-octyl-beta-D-glucopyranoside)</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>100 mM Tris-HCl pH 8.5, 0.10-0.20 M ammonium phosphate monobasic, 0.3% BOG</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals belong to space group P3 with one molecule per asymmetric unit. Data collected at CHESS (wavelength 0.948 A) and in-house R-AXIS-IV (Cu Kalpha). Structure solved by SIRAS using two HgCl2 derivatives. Initial phase calculation using SOLVE and PHASES.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-##### Steps
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1p49">1P49</a> — Chain A (2 TMs, alpha)**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Microsomal fraction preparation | Homogenization and differential centrifugation of human placenta | -- | Not specified + -- | hSTS localized to rough endoplasmic reticulum microsomal fraction |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">H</span><span class="topo-inside">AASRPNIILVMADDLGIGDPGCYGNKTIRTPNIDRLASGGVKLTQHLAASPL</span><span class="topo-unknown">A</span><span class="topo-inside">TPSRAA</span></span>
+<span class="topo-line"><span class="topo-inside">FMTGRYPVRSGMASWSRTGVFLFTASSGGLPTDEITFAKLLKDQGYSTALIGKWHLGMSC</span></span>
+<span class="topo-line"><span class="topo-inside">HSKTDFCHHPLHHGFNYFYGISLTNLRDCKPGEGSVFTT</span><span class="topo-membrane">GFKRLVFLPLQIVGVTLLTLA</span></span>
+<span class="topo-line"><span class="topo-membrane">ALNC</span><span class="topo-outside">LGLLHV</span><span class="topo-membrane">PLGVFFSLLFLAALILTLFLGF</span><span class="topo-inside">LHYFRPLNCFMMRNYEIIQQPMSYDNLT</span></span>
+<span class="topo-line"><span class="topo-inside">QRLTVEAAQFIQRNTETPFLLVLSYLHVHTALFSSKDFAGKSQHGVYGDAVEEMDWSVGQ</span></span>
+<span class="topo-line"><span class="topo-inside">ILNLLDELRLANDTLIYFTSDQGAHVEEVSSKGEIHGGSNGIYKGGKANNWEGGIRVPGI</span></span>
+<span class="topo-line"><span class="topo-inside">LRWPRVIQAGQKIDEPTSNMDIFPTVAKLAGAPLPEDRIIDGRDLMPLLEGKSQRSDHEF</span></span>
+<span class="topo-line"><span class="topo-inside">LFHYCNAYLNAVRWHPQNSTSIWKAFFFTPNFNPV</span><span class="topo-unknown">GSNG</span><span class="topo-inside">CFATHVCFCFGSYVTHHDPPL</span></span>
+<span class="topo-line"><span class="topo-inside">LFDISKDPRERNPLTPASEPRFYEILKVMQEAADRHTQTLPEVPDQFSWNNFLWKPWLQL</span></span>
+<span class="topo-line"><span class="topo-inside">CCPSTGLSCQCDRE</span><span class="topo-unknown">KQDKRLSR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>22</td>
+      <td>22</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>53</td>
+      <td>23</td>
+      <td>74</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>54</td>
+      <td>75</td>
+      <td>75</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>159</td>
+      <td>76</td>
+      <td>180</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>160</td>
+      <td>184</td>
+      <td>181</td>
+      <td>205</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>185</td>
+      <td>190</td>
+      <td>206</td>
+      <td>211</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>191</td>
+      <td>212</td>
+      <td>212</td>
+      <td>233</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>213</td>
+      <td>455</td>
+      <td>234</td>
+      <td>476</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>456</td>
+      <td>459</td>
+      <td>477</td>
+      <td>480</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>460</td>
+      <td>554</td>
+      <td>481</td>
+      <td>575</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>555</td>
+      <td>562</td>
+      <td>576</td>
+      <td>583</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-
-## Crystallization
-
-### doi/10.1074##jbc.M211497200
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion (sitting drop) |
-| Protein sample | hSTS purified from human placenta, solubilized in 0.3% BOG (n-octyl-beta-D-glucopyranoside) |
-| Reservoir | 100 mM Tris-HCl pH 8.5, 0.10-0.20 M ammonium phosphate monobasic, 0.3% BOG |
-| Temperature | 20 |
-| Growth time | -- |
-| Cryoprotection | -- |
-| Notes | Crystals belong to space group P3 with one molecule per asymmetric unit. Data collected at CHESS (wavelength 0.948 A) and in-house R-AXIS-IV (Cu Kalpha). Structure solved by SIRAS using two HgCl2 derivatives. Initial phase calculation using SOLVE and PHASES. |
-
+</div>
 ### doi/10.1016##j.jsbmb.2022.106228
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion crystallization |
-| Protein sample | hSTS purified from human placenta microsomal fraction, solubilized in 0.3% n-octyl-beta-D-glucopyranoside (BOG) |
-| Reservoir | 100 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) (pH 8.5), 0.10-0.20 M ammonium phosphate (monobasic), 0.3% BOG |
-| Temperature | Not specified (room temperature implied) |
-| Growth time | Not specified |
-| Cryoprotection | Cryo-cooled with 50% 2-methyl-2,4-pentanediol ([MPD](/xray-mp-wiki/reagents/additives/mpd)) |
-| Notes | Six hSTS molecules in unit cell, one per asymmetric unit. Solvent content ~59%. Data collected at Stanford Synchrotron Radiation Light Source beamline 11-1 (wavelength 0.97945 A). Starting model was 2.6 A structure (1P49). |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/8eg3">8EG3</a></td>
+      <td>2.0 A</td>
+      <td>P321</td>
+      <td>Human placental steroid sulfatase (hSTS), full-length, two transmembrane helices (alpha8, alpha9), N47 and N333 glycosylated, purified from human placenta microsomal fraction</td>
+      <td>Ca2+ (catalytic cofactor), FGS75 (covalently linked sulfate ester at catalytic site), BOG (detergent, two binding sites)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Human placenta (native expression, purified from microsomal fraction)
+- **Construct**: Full-length hSTS, two antiparallel transmembrane helices (alpha8 and alpha9), globular lumen-facing polar domain with two subdomains (SD1 and SD2), N47 and N333 glycosylation sites
+
+**Purification:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Microsomal fraction preparation</td>
+      <td>Homogenization and differential centrifugation of human placenta</td>
+      <td>--</td>
+      <td>Not specified + --</td>
+      <td>hSTS localized to rough endoplasmic reticulum microsomal fraction</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>hSTS purified from human placenta microsomal fraction, solubilized in 0.3% n-octyl-beta-D-glucopyranoside (BOG)</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>100 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> (pH 8.5), 0.10-0.20 M ammonium phosphate (monobasic), 0.3% BOG</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified (room temperature implied)</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Cryo-cooled with 50% 2-methyl-2,4-pentanediol (<a href="/xray-mp-wiki/reagents/additives/mpd">MPD</a>)</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Six hSTS molecules in unit cell, one per asymmetric unit. Solvent content ~59%. Data collected at Stanford Synchrotron Radiation Light Source beamline 11-1 (wavelength 0.97945 A). Starting model was 2.6 A structure (1P49).</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/8eg3">8EG3</a> — Chain A (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MPLRKMKIPFLLLFFLWEAESH</span><span class="topo-inside">AASRPNIILVMADDLGIGDPGCYGNKTIRTPNIDRLAS</span></span>
+<span class="topo-line"><span class="topo-inside">GGVKLTQHLAASPL?TPSRAAFMTGRYPVRSGMASWSRTGVFLFTASSGGLPTDEITFAK</span></span>
+<span class="topo-line"><span class="topo-inside">LLKDQGYSTALIGKWHLGMSCHSKTDFCHHPLHHGFNYFYGISLTNLRDCKPGEGSVFTT</span></span>
+<span class="topo-line"><span class="topo-inside">G</span><span class="topo-membrane">FKRLVFLPLQIVGVTLLTLAALNC</span><span class="topo-outside">LGLL</span><span class="topo-membrane">HVPLGVFFSLLFLAALILTLFLGFLH</span><span class="topo-inside">YFRPL</span></span>
+<span class="topo-line"><span class="topo-inside">NCFMMRNYEIIQQPMSYDNLTQRLTVEAAQFIQRNTETPFLLVLSYLHVHTALFSSKDFA</span></span>
+<span class="topo-line"><span class="topo-inside">GKSQHGVYGDAVEEMDWSVGQILNLLDELRLANDTLIYFTSDQGAHVEEVSSKGEIHGGS</span></span>
+<span class="topo-line"><span class="topo-inside">NGIYKGGKANNWEGGIRVPGILRWPRVIQAGQKIDEPTSNMDIFPTVAKLAGAPLPEDRI</span></span>
+<span class="topo-line"><span class="topo-inside">IDGRDLMPLLEGKSQRSDHEFLFHYCNAYLNAVRWHPQNSTSIWKAFFFTPNFNPVGSNG</span></span>
+<span class="topo-line"><span class="topo-inside">CFATHVCFCFGSYVTHHDPPLLFDISKDPRERNPLTPASEPRFYEILKVMQEAADRHTQT</span></span>
+<span class="topo-line"><span class="topo-inside">LPEVPDQFSWNNFLWKPWLQLCCPSTGLSCQCDREK</span><span class="topo-unknown">QDKRLSR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>22</td>
+      <td>1</td>
+      <td>22</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>181</td>
+      <td>23</td>
+      <td>181</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>182</td>
+      <td>205</td>
+      <td>182</td>
+      <td>205</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>206</td>
+      <td>209</td>
+      <td>206</td>
+      <td>209</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>210</td>
+      <td>235</td>
+      <td>210</td>
+      <td>235</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>236</td>
+      <td>576</td>
+      <td>236</td>
+      <td>576</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>577</td>
+      <td>583</td>
+      <td>577</td>
+      <td>583</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -94,11 +399,11 @@ Three hSTS monomers associate via their pairs of antiparallel hydrophobic helice
 
 ## Cross-References
 
-- [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — Detergent used for solubilization and crystallization of hSTS
-- [2-Methyl-2,4-pentanediol (MPD)](/xray-mp-wiki/reagents/additives/mpd/) — Cryoprotectant used for flash-cooling hSTS crystals
-- [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Buffer component (100 mM, pH 8.5) in crystallization reservoir
-- [Ammonium Phosphate](/xray-mp-wiki/reagents/buffers/ammonium-phosphate/) — Crystallization precipitant (0.10-0.20 M ammonium phosphate monobasic)
-- [Calcium Chloride](/xray-mp-wiki/reagents/additives/calcium-chloride/) — Ca2+ ion at catalytic center, seven-coordinated
-- [Estrone](/xray-mp-wiki/reagents/ligands/estrone/) — Product of E1S hydrolysis, binds at secondary ligand site
-- [Dehydroepiandrosterone (DHEA)](/xray-mp-wiki/reagents/ligands/dhea/) — Substrate of hSTS, hydrolyzed from DHEAS
-- [Positive Allosteric Modulation](/xray-mp-wiki/concepts/structural-mechanisms/positive-allosteric-modulation/) — Secondary ligand site and phosphate binding site may regulate hSTS activity allosterically
+- <a href="/xray-mp-wiki/reagents/detergents/og/">n-Octyl beta-D-glucopyranoside (OG)</a> — Detergent used for solubilization and crystallization of hSTS
+- <a href="/xray-mp-wiki/reagents/additives/mpd/">2-Methyl-2,4-pentanediol (MPD)</a> — Cryoprotectant used for flash-cooling hSTS crystals
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> — Buffer component (100 mM, pH 8.5) in crystallization reservoir
+- <a href="/xray-mp-wiki/reagents/buffers/ammonium-phosphate/">Ammonium Phosphate</a> — Crystallization precipitant (0.10-0.20 M ammonium phosphate monobasic)
+- <a href="/xray-mp-wiki/reagents/additives/calcium-chloride/">Calcium Chloride</a> — Ca2+ ion at catalytic center, seven-coordinated
+- <a href="/xray-mp-wiki/reagents/ligands/estrone/">Estrone</a> — Product of E1S hydrolysis, binds at secondary ligand site
+- <a href="/xray-mp-wiki/reagents/ligands/dhea/">Dehydroepiandrosterone (DHEA)</a> — Substrate of hSTS, hydrolyzed from DHEAS
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/positive-allosteric-modulation/">Positive Allosteric Modulation</a> — Secondary ligand site and phosphate binding site may regulate hSTS activity allosterically

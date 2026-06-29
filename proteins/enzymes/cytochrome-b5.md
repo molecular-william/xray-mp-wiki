@@ -1,12 +1,12 @@
 ---
 title: "Cytochrome b5"
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
-sources: [doi/10.1016##j.jmb.2020.05.017, doi/10.1038##nature14549]
+sources: [doi/10.1016##j.jmb.2020.05.017]
 verified: false
 ---
 
@@ -17,33 +17,78 @@ verified: false
 Cytochrome b5 is a membrane-embedded electron transfer protein consisting of a soluble cytosolic domain and a single C-terminal transmembrane helix. The soluble domain contains a b-type heme group ligated by two axial histidine residues. In the endoplasmic reticulum, cytochrome b5 serves as the intermediate electron carrier between cytochrome b5 reductase and various downstream enzymes including [STEAROYL-COA](/xray-mp-wiki/reagents/ligands/stearoyl-coa) desaturase 1 (SCD1). This paper reports the expression and purification of the soluble domain of mouse cytochrome b5 for in vitro electron transfer studies.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.jmb.2020.05.017 | 2I96 | not specified in this paper | not specified | Soluble cytosolic domain of mouse cytochrome b5 | B-type heme (protoporphyrin IX with [IRON](/xray-mp-wiki/reagents/additives/iron)) |
+### doi/10.1016##j.jmb.2020.05.017
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2i96">2I96</a></td>
+      <td>not specified in this paper</td>
+      <td>not specified</td>
+      <td>Soluble cytosolic domain of mouse cytochrome b5</td>
+      <td>B-type heme (protoporphyrin IX with <a href="/xray-mp-wiki/reagents/additives/iron">IRON</a>)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli (pET vector)
 - **Construct**: Mouse cytochrome b5 soluble domain, C-terminally tagged with polyhistidine tag and TEV protease site
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell expression and lysis</td>
+      <td>E. coli expression in pET vector with sonication</td>
+      <td>--</td>
+      <td>Buffer A (composition not fully specified) + --</td>
+      <td>Cells supplemented with 0.5 mM delta-aminolevulinic acid, 5 uM FeCl3, and 1 uM hemin chloride for <a href="/xray-mp-wiki/reagents/ligands/heme">HEME</a> biosynthesis</td>
+    </tr>
+    <tr>
+      <td>Affinity chromatography</td>
+      <td>Cobalt <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon">TALON</a> cobalt-based affinity resin</td>
+      <td>-- + --</td>
+      <td>Polyhistidine tag captured on <a href="/xray-mp-wiki/reagents/additives/talon">TALON</a> resin</td>
+    </tr>
+    <tr>
+      <td>Tag cleavage</td>
+      <td>TEV protease cleavage</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon">TALON</a> resin</td>
+      <td>-- + --</td>
+      <td>TEV protease cleaved His tag</td>
+    </tr>
+    <tr>
+      <td>Concentration</td>
+      <td>Concentration</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>Concentrated using 10 kDa cutoff concentrators</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell expression and lysis | E. coli expression in pET vector with sonication | -- | Buffer A (composition not fully specified) + -- | Cells supplemented with 0.5 mM delta-aminolevulinic acid, 5 uM FeCl3, and 1 uM hemin chloride for [HEME](/xray-mp-wiki/reagents/ligands/heme) biosynthesis |
-| Affinity chromatography | Cobalt affinity chromatography | [TALON](/xray-mp-wiki/reagents/additives/talon) cobalt-based affinity resin | -- + -- | Polyhistidine tag captured on [TALON](/xray-mp-wiki/reagents/additives/talon) resin |
-| Tag cleavage | TEV protease cleavage | [TALON](/xray-mp-wiki/reagents/additives/talon) resin | -- + -- | TEV protease cleaved His tag |
-| Concentration | Concentration | -- | -- + -- | Concentrated using 10 kDa cutoff concentrators |
-
-
-## Crystallization
-
-No crystallization described.
 
 ## Biological / Functional Insights
 
@@ -67,11 +112,11 @@ ligated by two axial histidine residues, characteristic of b-type cytochromes.
 
 ## Cross-References
 
-- [Mouse Stearoyl-CoA Desaturase 1 (mSCD1)](/xray-mp-wiki/proteins/enzymes/mouse-scd1/) — Direct electron acceptor; cyt b5 oxidized by SCD1
-- [Cytochrome b5 Reductase](/xray-mp-wiki/proteins/enzymes/cytochrome-b5-reductase/) — Reduces cytochrome b5 using NADH as electron donor
-- [NADH](/xray-mp-wiki/reagents/cofactors/nadh/) — Electron donor for cytochrome b5 reduction by b5R
-- [NADH](/xray-mp-wiki/reagents/cofactors/nadh) — Reagent used in this study
-- [TALON](/xray-mp-wiki/reagents/additives/talon) — Reagent used in this study
-- [HEME](/xray-mp-wiki/reagents/ligands/heme) — Reagent used in this study
-- [STEAROYL-COA](/xray-mp-wiki/reagents/ligands/stearoyl-coa) — Reagent used in this study
-- [IRON](/xray-mp-wiki/reagents/additives/iron) — Reagent used in this study
+- <a href="/xray-mp-wiki/proteins/enzymes/mouse-scd1/">Mouse Stearoyl-CoA Desaturase 1 (mSCD1)</a> — Direct electron acceptor; cyt b5 oxidized by SCD1
+- <a href="/xray-mp-wiki/proteins/enzymes/cytochrome-b5-reductase/">Cytochrome b5 Reductase</a> — Reduces cytochrome b5 using NADH as electron donor
+- <a href="/xray-mp-wiki/reagents/cofactors/nadh/">NADH</a> — Electron donor for cytochrome b5 reduction by b5R
+- <a href="/xray-mp-wiki/reagents/cofactors/nadh">NADH</a> — Reagent used in this study
+- <a href="/xray-mp-wiki/reagents/additives/talon">TALON</a> — Reagent used in this study
+- <a href="/xray-mp-wiki/reagents/ligands/heme">HEME</a> — Reagent used in this study
+- <a href="/xray-mp-wiki/reagents/ligands/stearoyl-coa">STEAROYL-COA</a> — Reagent used in this study
+- <a href="/xray-mp-wiki/reagents/additives/iron">IRON</a> — Reagent used in this study

@@ -1,7 +1,7 @@
 ---
 title: "E. coli Lipoprotein Diacylglyceryl Transferase (Lgt)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,43 +17,373 @@ verified: false
 Lgt (phosphatidylglycerol:prolipoprotein diacylglyceryl transferase) is an integral membrane enzyme from Escherichia coli that catalyses the first step of bacterial lipoprotein biogenesis: the transfer of a diacylglyceryl group from [Phosphatidylglycerol](/xray-mp-wiki/reagents/lipids/phosphatidylglycerol/) (PG) to the thiol group of the conserved cysteine residue in the lipobox motif of prolipoproteins. The crystal structures of E. coli Lgt were determined at 1.6 and 1.9 A resolution, revealing a novel 7-transmembrane helix fold with a periplasmic head domain, two amphipathic arms, and a central cavity containing two PG-binding sites. The catalytic centre involves a conserved hydrogen bond network centred on R143 and R239. Lgt is an essential enzyme in Gram-negative bacteria and a potential target for broad-spectrum antibiotics.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##ncomms10198 | 5AZC | 1.6 | P2_12_12_1 | wild-type E. coli Lgt (residues 3-286) | palmitic acid, [OG](/xray-mp-wiki/reagents/detergents/og/), PG |
-| doi/10.1038##ncomms10198 | 5AZC | 1.9 | P2_12_12_1 | wild-type E. coli Lgt (residues 3-286) | PG, diacylglycerol ([DAG](/xray-mp-wiki/reagents/lipids/dag/)) |
+### doi/10.1038##ncomms10198
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5azc">5AZC</a></td>
+      <td>1.6</td>
+      <td>P2_12_12_1</td>
+      <td>wild-type E. coli Lgt (residues 3-286)</td>
+      <td>palmitic acid, <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a>, PG</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5azc">5AZC</a></td>
+      <td>1.9</td>
+      <td>P2_12_12_1</td>
+      <td>wild-type E. coli Lgt (residues 3-286)</td>
+      <td>PG, diacylglycerol (<a href="/xray-mp-wiki/reagents/lipids/dag/">DAG</a>)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli C43(DE3) with pET28a vector; [Iptg](/xray-mp-wiki/reagents/additives/iptg/) induction at 16 C for 20 h
 - **Construct**: full-length E. coli Lgt (291 aa) with N-terminal [His6 Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/)
 
-### Purification Workflow
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion (not explicitly specified as hanging/sitting drop)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified Lgt in 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 7.5, 100 mM NaCl, 0.6% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a>; concentrated to ~20 mg/mL</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not explicitly specified in the raw text</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Two crystal forms obtained: form-1 (1.6 A, with palmitic acid/OG) and form-2 (1.9 A, with PG/DAG). Phased using Se-Met SAD.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-##### Steps
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5azc">5AZC</a> — Chain A (7 TMs, alpha)**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis and membrane preparation | Homogenization at 10,000-15,000 psi, differential centrifugation | — | 20 mM [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 300 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) |  |
-| Solubilization | Detergent solubilization | — | 0.5% [DM](/xray-mp-wiki/reagents/detergents/dm/) ([DM](/xray-mp-wiki/reagents/detergents/dm/)) |  |
-| Ni-NTA affinity chromatography | Affinity chromatography | HiTrap nickel column | Elution: 20 mM [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 300 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.25% [DM](/xray-mp-wiki/reagents/detergents/dm/), 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |  |
-| Size-exclusion chromatography | SEC | — | 20 mM [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 100 mM NaCl, 0.6% [OG](/xray-mp-wiki/reagents/detergents/og/) |  |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MVT</span><span class="topo-outside">SSYLHFPEFDPVIFSIGPVAL</span><span class="topo-membrane">HWYGLMYLVGFIFAMWLATRRA</span><span class="topo-inside">NRPGSGWTK</span><span class="topo-membrane">NEVEN</span></span>
+<span class="topo-line"><span class="topo-membrane">LLYAGFLGVFLGGRIGYVLF</span><span class="topo-outside">YN</span><span class="topo-unknown">FPQFMA</span><span class="topo-outside">DPLYLFRVWDGG</span><span class="topo-membrane">MSFHGGLIGVIVVMIIFARR</span></span>
+<span class="topo-line"><span class="topo-inside">TKRS</span><span class="topo-membrane">FFQVSDFIAPLIPFGLGAGRLGN</span><span class="topo-outside">FINGELWGRVDPNFPFAMLFPGSRTEDILLLQT</span></span>
+<span class="topo-line"><span class="topo-outside">NPQWQSIFDTYGVLPRHPS</span><span class="topo-membrane">QLYELLLEGVVLFIILNLYIR</span><span class="topo-inside">KPRPMG</span><span class="topo-membrane">AVSGLFLIGYGAFR</span></span>
+<span class="topo-line"><span class="topo-membrane">IIVEF</span><span class="topo-outside">FRQPDAQFTGA</span><span class="topo-membrane">WVQYISMGQILSIPMIVAGVIMMVWA</span><span class="topo-inside">YRRSP</span><span class="topo-unknown">QQHVSLEHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>4</td>
+      <td>24</td>
+      <td>3</td>
+      <td>23</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>46</td>
+      <td>24</td>
+      <td>45</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>55</td>
+      <td>46</td>
+      <td>54</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>80</td>
+      <td>55</td>
+      <td>79</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>82</td>
+      <td>80</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>88</td>
+      <td>82</td>
+      <td>87</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>100</td>
+      <td>88</td>
+      <td>99</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>120</td>
+      <td>100</td>
+      <td>119</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>124</td>
+      <td>120</td>
+      <td>123</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>125</td>
+      <td>147</td>
+      <td>124</td>
+      <td>146</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>199</td>
+      <td>147</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>220</td>
+      <td>199</td>
+      <td>219</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>221</td>
+      <td>226</td>
+      <td>220</td>
+      <td>225</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>227</td>
+      <td>245</td>
+      <td>226</td>
+      <td>244</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>246</td>
+      <td>256</td>
+      <td>245</td>
+      <td>255</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>257</td>
+      <td>282</td>
+      <td>256</td>
+      <td>281</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>287</td>
+      <td>282</td>
+      <td>286</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5azc">5AZC</a> — Chain A (7 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MVT</span><span class="topo-outside">SSYLHFPEFDPVIFSIGPVAL</span><span class="topo-membrane">HWYGLMYLVGFIFAMWLATRRA</span><span class="topo-inside">NRPGSGWTK</span><span class="topo-membrane">NEVEN</span></span>
+<span class="topo-line"><span class="topo-membrane">LLYAGFLGVFLGGRIGYVLF</span><span class="topo-outside">YN</span><span class="topo-unknown">FPQFMA</span><span class="topo-outside">DPLYLFRVWDGG</span><span class="topo-membrane">MSFHGGLIGVIVVMIIFARR</span></span>
+<span class="topo-line"><span class="topo-inside">TKRS</span><span class="topo-membrane">FFQVSDFIAPLIPFGLGAGRLGN</span><span class="topo-outside">FINGELWGRVDPNFPFAMLFPGSRTEDILLLQT</span></span>
+<span class="topo-line"><span class="topo-outside">NPQWQSIFDTYGVLPRHPS</span><span class="topo-membrane">QLYELLLEGVVLFIILNLYIR</span><span class="topo-inside">KPRPMG</span><span class="topo-membrane">AVSGLFLIGYGAFR</span></span>
+<span class="topo-line"><span class="topo-membrane">IIVEF</span><span class="topo-outside">FRQPDAQFTGA</span><span class="topo-membrane">WVQYISMGQILSIPMIVAGVIMMVWA</span><span class="topo-inside">YRRSP</span><span class="topo-unknown">QQHVSLEHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>4</td>
+      <td>24</td>
+      <td>3</td>
+      <td>23</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>46</td>
+      <td>24</td>
+      <td>45</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>55</td>
+      <td>46</td>
+      <td>54</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>80</td>
+      <td>55</td>
+      <td>79</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>82</td>
+      <td>80</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>88</td>
+      <td>82</td>
+      <td>87</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>100</td>
+      <td>88</td>
+      <td>99</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>120</td>
+      <td>100</td>
+      <td>119</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>124</td>
+      <td>120</td>
+      <td>123</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>125</td>
+      <td>147</td>
+      <td>124</td>
+      <td>146</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>199</td>
+      <td>147</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>220</td>
+      <td>199</td>
+      <td>219</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>221</td>
+      <td>226</td>
+      <td>220</td>
+      <td>225</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>227</td>
+      <td>245</td>
+      <td>226</td>
+      <td>244</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>246</td>
+      <td>256</td>
+      <td>245</td>
+      <td>255</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>257</td>
+      <td>282</td>
+      <td>256</td>
+      <td>281</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>287</td>
+      <td>282</td>
+      <td>286</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##ncomms10198
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion (not explicitly specified as hanging/sitting drop) |
-| Protein sample | Purified Lgt in 20 mM [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 100 mM NaCl, 0.6% [OG](/xray-mp-wiki/reagents/detergents/og/); concentrated to ~20 mg/mL |
-| Reservoir | Not explicitly specified in the raw text |
-| Temperature | Not specified |
-| Notes | Two crystal forms obtained: form-1 (1.6 A, with palmitic acid/OG) and form-2 (1.9 A, with PG/DAG). Phased using Se-Met SAD. |
-
+</div>
 
 ## Biological / Functional Insights
 
@@ -72,13 +402,13 @@ Palmitic acid binds to the active site and acts as a competitive inhibitor of Lg
 
 ## Cross-References
 
-- [OG](/xray-mp-wiki/reagents/detergents/og/) — Referenced in context related to OG
-- [DAG](/xray-mp-wiki/reagents/lipids/dag/) — Referenced in context related to DAG
-- [Iptg](/xray-mp-wiki/reagents/additives/iptg/) — Referenced in context related to Iptg
-- [His6 Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) — Referenced in context related to His6 Tag
-- [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) — Referenced in context related to Tris Hcl
-- [DM](/xray-mp-wiki/reagents/detergents/dm/) — Referenced in context related to DM
-- [DM](/xray-mp-wiki/reagents/detergents/dm/) — Referenced in context related to DM
-- [Phosphatidylglycerol](/xray-mp-wiki/reagents/lipids/phosphatidylglycerol/) — Referenced in context related to Phosphatidylglycerol
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Referenced in context related to Glycerol
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Referenced in context related to Imidazole
+- <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a> — Referenced in context related to OG
+- <a href="/xray-mp-wiki/reagents/lipids/dag/">DAG</a> — Referenced in context related to DAG
+- <a href="/xray-mp-wiki/reagents/additives/iptg/">Iptg</a> — Referenced in context related to Iptg
+- <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His6 Tag</a> — Referenced in context related to His6 Tag
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> — Referenced in context related to Tris Hcl
+- <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> — Referenced in context related to DM
+- <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> — Referenced in context related to DM
+- <a href="/xray-mp-wiki/reagents/lipids/phosphatidylglycerol/">Phosphatidylglycerol</a> — Referenced in context related to Phosphatidylglycerol
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Referenced in context related to Glycerol
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Referenced in context related to Imidazole

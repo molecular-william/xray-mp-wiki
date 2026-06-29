@@ -1,7 +1,7 @@
 ---
 title: "NrfH Quinol Dehydrogenase from Desulfovibrio vulgaris"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,42 +16,208 @@ verified: false
 
 NrfH is a membrane-bound cytochrome c quinol dehydrogenase from Desulfovibrio vulgaris Hildenborough that serves as the electron donor to the cytochrome c nitrite reductase NrfA. NrfH belongs to the NapC/NirT family of quinol-oxidizing cytochromes widespread in bacterial respiratory chains. The protein comprises an N-terminal transmembrane helix and a periplasmic globular domain that binds four c-type haems arranged in alternating stacked and perpendicular di-haem motifs. NrfH was crystallized as a stable complex with its physiological partner NrfA, forming a large alpha4beta2 quaternary arrangement (approximately 150 x 120 x 95 A). The 2.3 A crystal structure reveals highly unusual haem coordination: haem 1 is a methionine-coordinated high-spin haem (Met49 as proximal ligand instead of the canonical His from the CXXCH motif, with Asp89 occupying the distal position), which is unprecedented in biological systems. Haem 4 is coordinated by His140 (proximal) and Lys331 from the internal NrfA subunit (distal). A menaquinol-binding cavity near haem 1 includes conserved residues Lys82, Gly86, and Asp89.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##SJ.EMBOJ.7601439 | 2J7A | 2.3 A | P2_12_12_1 | NrfH-NrfA complex from Desulfovibrio vulgaris Hildenborough, native protein solubilized in 0.015% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Four c-type haems per NrfH monomer; menaquinol binding site near haem 1 |
+### doi/10.1038##SJ.EMBOJ.7601439
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2j7a">2J7A</a></td>
+      <td>2.3 A</td>
+      <td>P2_12_12_1</td>
+      <td>NrfH-NrfA complex from Desulfovibrio vulgaris Hildenborough, native protein solubilized in 0.015% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Four c-type haems per NrfH monomer; menaquinol binding site near haem 1</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Desulfovibrio vulgaris Hildenborough (native)
 - **Construct**: Native NrfHA complex isolated from D. vulgaris membranes
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Membrane extraction</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>Not specified + 0.015% (w/v) dodecyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
+      <td>Native NrfHA complex solubilized from D. vulgaris membranes using <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+    </tr>
+    <tr>
+      <td>Purification</td>
+      <td>Not specified</td>
+      <td>--</td>
+      <td>Not specified + 0.015% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Complex purified as previously described (Rodrigues et al., 2006)</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane extraction | Detergent solubilization | -- | Not specified + 0.015% (w/v) dodecyl-beta-D-maltoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) | Native NrfHA complex solubilized from D. vulgaris membranes using [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
-| Purification | Not specified | -- | Not specified + 0.015% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Complex purified as previously described (Rodrigues et al., 2006) |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>NrfHA complex at 5 mg/ml in 0.015% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>10% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 4K (polyethylene glycol 4000), pH 7.5</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>277 K</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals belong to space group P2_12_12_1 with cell parameters a = 79.4, b = 256.8, c = 579.2 A. Asymmetric unit contains 12 NrfA and 6 NrfH molecules. Data collected at Swiss Light Source using three-wavelength MAD experiment based on <a href="/xray-mp-wiki/reagents/additives/iron/">IRON</a> atoms.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2j7a">2J7A</a> — Chain B (0 TMs, non_tm)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">AGCSDVSTELKTPVYKTKLTAEEIRNSAFKPEFPKQYASYERNDETTVMTEYKGSVPFNK</span></span>
+<span class="topo-line"><span class="topo-outside">NDNVNPLPEGYRHAQPYLKNLWLGYPFMYEYREARGHTYAIQDFLHIDRINRYAEKGGLP</span></span>
+<span class="topo-line"><span class="topo-outside">ATCWNCKTPKMMEWVKESGDGFWAKDVNEFRDKIDMKDHTIGCATCHDPQTMELRITSVP</span></span>
+<span class="topo-line"><span class="topo-outside">LTDYLVSQGKDPKKLPRNEMRALVCGQCHVEYYFNGPTMGVNKKPVFPWAEGFDPADMYR</span></span>
+<span class="topo-line"><span class="topo-outside">YYDKHGDLQVKGFEGKFADWTHPASKTPMIKAQHPEYETWINGTHGAAGVTCADCHMSYT</span></span>
+<span class="topo-line"><span class="topo-outside">RSDDKKKISSHWWTSPMKDPEMRACRQCHSDKTPDYLKSRVLFTQKRTFDLLLAAQEVSV</span></span>
+<span class="topo-line"><span class="topo-outside">KAHEAVRLANEYQGAKAAGYDDLMIQAREMVRKGQFFWDYVSAENSVGFHNPAKALDTLA</span></span>
+<span class="topo-line"><span class="topo-outside">QSQQFSQKAIDLAMEATQYGIGKDLSGDIKTIVPPILKMNRKLQQDPEFMKTHKWFQYLP</span></span>
+<span class="topo-line"><span class="topo-outside">VLPKADQVWDGQKRLVSA</span><span class="topo-unknown">KQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>498</td>
+      <td>25</td>
+      <td>522</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>499</td>
+      <td>500</td>
+      <td>523</td>
+      <td>524</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##SJ.EMBOJ.7601439
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2j7a">2J7A</a> — Chain C (1 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Sitting-drop vapor diffusion |
-| Protein sample | NrfHA complex at 5 mg/ml in 0.015% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
-| Reservoir | 10% [PEG](/xray-mp-wiki/reagents/additives/peg/) 4K (polyethylene glycol 4000), pH 7.5 |
-| Temperature | 277 K |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Crystals belong to space group P2_12_12_1 with cell parameters a = 79.4, b = 256.8, c = 579.2 A. Asymmetric unit contains 12 NrfA and 6 NrfH molecules. Data collected at Swiss Light Source using three-wavelength MAD experiment based on [IRON](/xray-mp-wiki/reagents/additives/iron/) atoms. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MSEEKSRNGPARL</span><span class="topo-inside">KLV</span><span class="topo-membrane">LGGATLGVVALATVAFGM</span><span class="topo-outside">KYTDQRPFCTSCHIMNPVGVTHKLSG</span></span>
+<span class="topo-line"><span class="topo-outside">HANISCNDCHAPHNLLAKLPFKAIAGARDVYMNTLGHPGDLILAGMETKEVVNANCKACH</span></span>
+<span class="topo-line"><span class="topo-outside">TMTNVEVASMEAKKYCTDCHRNVQHMRMKPISTREVAD</span><span class="topo-unknown">E</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>13</td>
+      <td>1</td>
+      <td>13</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>16</td>
+      <td>14</td>
+      <td>16</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>34</td>
+      <td>17</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>158</td>
+      <td>35</td>
+      <td>158</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
 
 ## Biological / Functional Insights
 
@@ -74,7 +240,7 @@ NrfH haem 4 has a unique inter-protein coordination: the proximal ligand is His1
 
 ## Cross-References
 
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent for NrfHA complex solubilization at 0.015% (w/v)
-- [Multi-wavelength Anomalous Diffraction (MAD)](/xray-mp-wiki/methods/structure-determination/multi-wavelength-anomalous-diffraction/) — MAD phasing using iron atoms used to solve NrfH structure
-- [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) — Crystallization precipitant (10% PEG 4K)
-- [IRON](/xray-mp-wiki/reagents/additives/iron/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Primary detergent for NrfHA complex solubilization at 0.015% (w/v)
+- <a href="/xray-mp-wiki/methods/structure-determination/multi-wavelength-anomalous-diffraction/">Multi-wavelength Anomalous Diffraction (MAD)</a> — MAD phasing using iron atoms used to solve NrfH structure
+- <a href="/xray-mp-wiki/reagents/additives/peg/">PEG (Polyethylene Glycol)</a> — Crystallization precipitant (10% PEG 4K)
+- <a href="/xray-mp-wiki/reagents/additives/iron/">IRON</a> — Additive used in purification or crystallization buffers

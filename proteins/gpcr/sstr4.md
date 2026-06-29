@@ -1,12 +1,12 @@
 ---
 title: "Somatostatin Receptor 4 (SSTR4)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [gpcr, membrane-protein]
-sources: [doi/10.1038##s41422-022-00679-x]
+sources: []
 verified: false
 ---
 
@@ -17,21 +17,9 @@ verified: false
 Somatostatin receptor 4 (SSTR4) is a class A G protein-coupled receptor belonging to the SRIF2 subfamily of somatostatin receptors. SSTR4 is highly expressed in the central nervous system and mediates potent analgesic and anti-inflammatory actions, making it a promising target for non-opioid pain control, especially for chronic neuropathic, inflammatory and mixed pain. [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) structures of SSTR4-Gi1 bound to endogenous ligand SST-14 (2.9 A) and non-peptide agonist J-2156 (2.8 A) were determined, revealing ligand recognition and subtype selectivity mechanisms.
 
 
-## Structure Determination
+## Publications
 
-No structure determined.
-
-## Expression and Purification
-
-- **Expression system**: High-Five insect cells (co-expression with Gi1 protein)
-- **Construct**: SSTR4 with C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (L328), V264(6.40)F mutation, HA signal peptide, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) at N-terminus, twin-strep tag at C-terminus
-- **Notes**: For [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) studies; Gi1 protein subunits co-expressed
-
-No purification described.
-
-## Crystallization
-
-No crystallization described.
+No publications.
 
 ## Biological / Functional Insights
 
@@ -50,7 +38,7 @@ The hydrophobic cavity formed by helix VI, ECL3 and helix VII, along with non-co
 
 ## Cross-References
 
-- [Somatostatin Receptor 2 (SSTR2)](/xray-mp-wiki/proteins/gpcr/sstr2/) — Related SSTR family member with distinct ligand selectivity
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
-- [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Method used in structure determination or purification
-- [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) — Fusion tag for crystallization or purification
+- <a href="/xray-mp-wiki/proteins/gpcr/sstr2/">Somatostatin Receptor 2 (SSTR2)</a> — Related SSTR family member with distinct ligand selectivity
+- <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a> — Related biological concept
+- <a href="/xray-mp-wiki/methods/structure-determination/cryo-em/">Cryo-Electron Microscopy</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a> — Fusion tag for crystallization or purification

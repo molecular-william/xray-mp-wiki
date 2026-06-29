@@ -1,12 +1,12 @@
 ---
 title: "Human Claudin-4 (hCLDN-4)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [receptor, membrane-protein, xray-crystallography]
-sources: [doi/10.1073##pnas.2024651118, doi/10.1126##science.1261833]
+sources: [doi/10.1073##pnas.2024651118]
 verified: false
 ---
 
@@ -26,41 +26,230 @@ high-affinity CpE binding (Kd = 2.5 nM), distinguishing hCLDN-4 as the primary h
 receptor, in contrast to mice where CLDN-3 and CLDN-8 serve this role.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.2024651118 | 7KP4 | 3.37 |  | hCLDN-4 residues 5-186 with C-terminal affinity tag, in complex with cCpE | cCpE (Clostridium perfringens enterotoxin C-terminal domain) |
+### doi/10.1073##pnas.2024651118
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7kp4">7KP4</a></td>
+      <td>3.37</td>
+      <td></td>
+      <td>hCLDN-4 residues 5-186 with C-terminal affinity tag, in complex with cCpE</td>
+      <td>cCpE (Clostridium perfringens enterotoxin C-terminal domain)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Sf9 insect cells via baculovirus
 - **Construct**: Full-length human CLDN-4 with C-terminal tag
 - **Notes**: Expressed using Bac-to-Bac baculovirus expression system
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Membrane preparation</td>
+      <td>Homogenization and centrifugation</td>
+      <td>—</td>
+      <td></td>
+      <td>Membranes collected from Sf9 cell pellets</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>—</td>
+      <td>1% n-undecyl-beta-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/udm/">UDM</a>)</td>
+      <td>Membrane proteins solubilized from Sf9 cell membranes</td>
+    </tr>
+    <tr>
+      <td>Complex formation</td>
+      <td>Incubation with cCpE</td>
+      <td>—</td>
+      <td></td>
+      <td>Purified hCLDN-4 mixed with cCpE to form complex</td>
+    </tr>
+    <tr>
+      <td>Gel filtration</td>
+      <td>Size-exclusion chromatography</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
+      <td>20 mM HEPES pH 7.5, 150 mM NaCl, 0.22 M <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>hCLDN-4/cCpE complex purified to homogeneity</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane preparation | Homogenization and centrifugation | — |  | Membranes collected from Sf9 cell pellets |
-| Solubilization | Detergent solubilization | — | 1% n-undecyl-beta-D-maltopyranoside ([UDM](/xray-mp-wiki/reagents/detergents/udm/)) | Membrane proteins solubilized from Sf9 cell membranes |
-| Complex formation | Incubation with cCpE | — |  | Purified hCLDN-4 mixed with cCpE to form complex |
-| Gel filtration | Size-exclusion chromatography | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | 20 mM HEPES pH 7.5, 150 mM NaCl, 0.22 M [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | hCLDN-4/cCpE complex purified to homogeneity |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>hCLDN-4/cCpE complex</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Data collected at ALS beamline 8.3.1. Structure determined by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a>. Resolution 3.37 A.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7kp4">7KP4</a> — Chain A (4 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MASM</span><span class="topo-outside">GLQ</span><span class="topo-membrane">VMGIALAVLGWLAVMLCCALPMW</span><span class="topo-inside">RVTAFIGSNIVTSQTIWEGLWMNCVVQSTG</span></span>
+<span class="topo-line"><span class="topo-inside">QMQCKVYDSLLALPQ</span><span class="topo-membrane">DLQAARALVIISIIVAALGVLLSVV</span><span class="topo-outside">GGKCTNCLEDESAKAKTM</span><span class="topo-membrane">IV</span></span>
+<span class="topo-line"><span class="topo-membrane">AGVVFLLAGLMVIVPVSWTAHN</span><span class="topo-inside">IIQDFYNPLVASGQKREM</span><span class="topo-membrane">GASLYVGWAASGLLLLGGGL</span></span>
+<span class="topo-line"><span class="topo-membrane">LCC</span><span class="topo-outside">NCP</span><span class="topo-unknown">PRTDKPYSAKYSAARSAAASNYVGLVPR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>5</td>
+      <td>7</td>
+      <td>5</td>
+      <td>7</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>30</td>
+      <td>8</td>
+      <td>30</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>75</td>
+      <td>31</td>
+      <td>75</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>100</td>
+      <td>76</td>
+      <td>100</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>118</td>
+      <td>101</td>
+      <td>118</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>119</td>
+      <td>142</td>
+      <td>119</td>
+      <td>142</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>160</td>
+      <td>143</td>
+      <td>160</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>161</td>
+      <td>183</td>
+      <td>161</td>
+      <td>183</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>184</td>
+      <td>186</td>
+      <td>184</td>
+      <td>186</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1073##pnas.2024651118
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7kp4">7KP4</a> — Chain B (0 TMs, non_tm)**
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | hCLDN-4/cCpE complex |
-| Notes | Data collected at ALS beamline 8.3.1. Structure determined by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/). Resolution 3.37 A. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MSTDIEKEILDLAAATERLNLTDALNSNPAGNLYDWRSSNSYPWTQKLNLHLTITATGQK</span></span>
+<span class="topo-line"><span class="topo-inside">YRILASKIVDFNIYSNNFNNLVKLEQSLGDGVKDHYVDISLDAGQYVLVMKANSSYSGNY</span></span>
+<span class="topo-line"><span class="topo-inside">PYSILFQKFGLVPR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>134</td>
+      <td>191</td>
+      <td>324</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
 
 ## Biological / Functional Insights
 
@@ -105,10 +294,10 @@ that repels cations, creating a cation-tight barrier. This contrasts with hCLDN-
 
 ## Cross-References
 
-- [Human Claudin-9 (hCLDN-9)](/xray-mp-wiki/proteins/structural-adhesion/human-claudin-9/) — Related claudin-CpE complex structure; both show conserved claudin fold and NPLVA motif for CpE binding
-- [Mouse Claudin-19 (mCldn19)](/xray-mp-wiki/proteins/structural-adhesion/claudin-19-mouse/) — Related claudin-C-CPE complex structure revealing shared CpE binding mode
-- [C-CPE (Clostridium perfringens Enterotoxin)](/xray-mp-wiki/reagents/ligands/c-cpe/) — hCLDN-4 is the primary human CpE receptor; structure reveals NPLVA motif recognition
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
-- [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) — Additive used in purification or crystallization buffers
-- [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used in purification or crystallization
-- [UDM](/xray-mp-wiki/reagents/detergents/udm/) — Detergent used in purification or crystallization
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/human-claudin-9/">Human Claudin-9 (hCLDN-9)</a> — Related claudin-CpE complex structure; both show conserved claudin fold and NPLVA motif for CpE binding
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/claudin-19-mouse/">Mouse Claudin-19 (mCldn19)</a> — Related claudin-C-CPE complex structure revealing shared CpE binding mode
+- <a href="/xray-mp-wiki/reagents/ligands/c-cpe/">C-CPE (Clostridium perfringens Enterotoxin)</a> — hCLDN-4 is the primary human CpE receptor; structure reveals NPLVA motif recognition
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> — Detergent used in purification or crystallization
+- <a href="/xray-mp-wiki/reagents/detergents/udm/">UDM</a> — Detergent used in purification or crystallization

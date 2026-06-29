@@ -1,7 +1,7 @@
 ---
 title: "CP29 Light-Harvesting Complex from Spinach (Spinacia oleracea)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,38 +17,87 @@ verified: false
 CP29 is a minor light-harvesting chlorophyll a/b-binding protein from photosystem II of spinach (Spinacia oleracea). It functions in light harvesting and energy regulation, participating in non-photochemical quenching. The structure was determined to 2.8 Å resolution via X-ray crystallography, revealing 13 chlorophyll molecules (8 Chl a, 5 Chl b), 2 [Lutein](/xray-mp-wiki/reagents/ligands/lutein/) molecules, and 1 [Violaxanthin](/xray-mp-wiki/reagents/ligands/violaxanthin/) molecule. CP29 plays important roles in energy transfer between the major light-harvesting complex II (LHC-II) and the photosystem II core.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nsmb.2008 | Not yet assigned | 2.8 | — | Full-length CP29 from Spinacia oleracea |  |
+### doi/10.1038##nsmb.2008
 
-## Expression and Purification
+**Structures:**
 
-### Purification Workflow
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/not yet assigned">NOT YET ASSIGNED</a></td>
+      <td>2.8</td>
+      <td>—</td>
+      <td>Full-length CP29 from Spinacia oleracea</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+**Purification:**
 
 - **Expression system**: Native spinach (Spinacia oleracea)
 - **Expression construct**: Native CP29 from thylakoid membranes
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Thylakoid isolation</td>
+      <td>Standard thylakoid isolation from spinach</td>
+      <td>—</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>—</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Purification</td>
+      <td>Not detailed in supplementary information</td>
+      <td>—</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Thylakoid isolation | Standard thylakoid isolation from spinach | — |  |  |
-| Solubilization | Detergent solubilization | — |  |  |
-| Purification | Not detailed in supplementary information | — |  |  |
+**Crystallization:**
 
-
-## Crystallization
-
-### doi/10.1038##nsmb.2008
-
-| Parameter | Value |
-|---|---|
-| Method | Sitting-drop vapor diffusion |
-| Protein sample | Purified CP29 from spinach thylakoid membranes |
-| Temperature | Not specified |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified CP29 from spinach thylakoid membranes</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -63,9 +112,9 @@ CP29 shares significant sequence homology with LHCII, with conserved secondary s
 
 ## Cross-References
 
-- [Spinach Light-Harvesting Complex II (LHC-II)](/xray-mp-wiki/proteins/photosynthesis/spinach-light-harvesting-complex-ii/) — Homologous major light-harvesting complex; CP29 is a minor LHC associated with PSII
-- [Non-photochemical Quenching (NPQ)](/xray-mp-wiki/concepts/miscellaneous/non-photochemical-quenching/) — CP29 functions in energy regulation and may participate in NPQ mechanisms
-- [Lutein](/xray-mp-wiki/reagents/ligands/lutein/) — Referenced in the context of Lutein
-- [Violaxanthin](/xray-mp-wiki/reagents/ligands/violaxanthin/) — Referenced in the context of Violaxanthin
-- [Carotenoid](/xray-mp-wiki/reagents/ligands/carotenoid/) — Referenced in the context of Carotenoid
-- [Glycerol 3 Phosphate](/xray-mp-wiki/reagents/additives/glycerol-3-phosphate/) — Referenced in the context of Glycerol 3 Phosphate
+- <a href="/xray-mp-wiki/proteins/photosynthesis/spinach-light-harvesting-complex-ii/">Spinach Light-Harvesting Complex II (LHC-II)</a> — Homologous major light-harvesting complex; CP29 is a minor LHC associated with PSII
+- <a href="/xray-mp-wiki/concepts/miscellaneous/non-photochemical-quenching/">Non-photochemical Quenching (NPQ)</a> — CP29 functions in energy regulation and may participate in NPQ mechanisms
+- <a href="/xray-mp-wiki/reagents/ligands/lutein/">Lutein</a> — Referenced in the context of Lutein
+- <a href="/xray-mp-wiki/reagents/ligands/violaxanthin/">Violaxanthin</a> — Referenced in the context of Violaxanthin
+- <a href="/xray-mp-wiki/reagents/ligands/carotenoid/">Carotenoid</a> — Referenced in the context of Carotenoid
+- <a href="/xray-mp-wiki/reagents/additives/glycerol-3-phosphate/">Glycerol 3 Phosphate</a> — Referenced in the context of Glycerol 3 Phosphate

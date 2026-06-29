@@ -1,7 +1,7 @@
 ---
 title: "Spinach Chloroplast c14 Rotor Ring (CFo c14 Ring)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,45 +17,1005 @@ verified: false
 The crystal structure of the membrane-integral c14 rotor ring of the proton translocating F1Fo ATP synthase from spinach (Spinacia oleracea) chloroplasts determined at 3.8 A resolution. The rotor ring consists of 14 identical c subunit protomers symmetrically arranged around a central pore. This is the first structure of an isolated c-ring rotor from a proton-driven ATPase. The conserved carboxylate Glu61, essential for proton transport, points toward the periphery of the ring where it is stabilized by hydrogen bonding with Tyr66 from the adjacent protomer. Comparisons with the c11 rotor of Ilyobacter tartaricus show conserved carboxylate spacing of 10.6-10.8 A despite different stoichiometries, suggesting a conserved gear distance in rotary ATPases.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1074##jbc.m109.006916 | 2W5J | 3.8 | C2 | Spinach chloroplast c14 ring (14 identical c subunit protomers, residues 3-79 resolved) | Glu61 (conserved proton-binding carboxylate) |
+### doi/10.1074##jbc.m109.006916
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2w5j">2W5J</a></td>
+      <td>3.8</td>
+      <td>C2</td>
+      <td>Spinach chloroplast c14 ring (14 identical c subunit protomers, residues 3-79 resolved)</td>
+      <td>Glu61 (conserved proton-binding carboxylate)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Spinach plants (Spinacia oleracea) grown in local greenhouse
 - **Construct**: Native CF1Fo purified from spinach thylakoid membranes; crystallization results in spontaneous loss of F1 subunits and subunits a, b, b', yielding isolated c14 ring
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Thylakoid membrane preparation</td>
+      <td>Washed in sodium pyrophosphate buffer pH 7.4 with <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a> and PMSF; precipitated by centrifugation at 3000 x g</td>
+      <td>--</td>
+      <td>20 mM sodium pyrophosphate pH 7.4, 2 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>, 0.002% (w/v) PMSF + --</td>
+      <td>Membranes resuspended in 400 mM <a href="/xray-mp-wiki/reagents/ligands/sucrose/">Sucrose</a>, 20 mM Tricine pH 7.4, 5 mM MgCl2, 0.002% PMSF, 50 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a></td>
+    </tr>
+    <tr>
+      <td>Solubilization of CF1Fo</td>
+      <td>Detergent extraction</td>
+      <td>--</td>
+      <td>-- + 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/sodium-cholate/">Sodium Cholate</a> + 2% (w/v) beta-<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
+      <td>Suspension stirred on ice for 15 min and sonicated. Unsolubilized material removed by centrifugation at 100,000 x g</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/reagents/additives/ammonium-sulfate/">Ammonium Sulfate</a> precipitation</td>
+      <td>48% (w/v) <a href="/xray-mp-wiki/reagents/additives/ammonium-sulfate/">Ammonium Sulfate</a> precipitation</td>
+      <td>--</td>
+      <td>50 mM Tricine pH 8.0, 4% (w/v) <a href="/xray-mp-wiki/reagents/buffers/glycine/">Glycine</a>, 10% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 5 mM MgCl2, 5 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>, 0.002% PMSF, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Pellet dissolved in same buffer</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/reagents/ligands/sucrose/">Sucrose</a> gradient centrifugation</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/sucrose/">Sucrose</a> gradient (600 mM to 0 mM linear gradient)</td>
+      <td>--</td>
+      <td>50 mM Tricine pH 8.0, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>, 0.002% PMSF + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Centrifuged 24 h at 75,000 x g at 4 C</td>
+    </tr>
+    <tr>
+      <td>Anion exchange chromatography</td>
+      <td>POROS HQ20 anion exchange</td>
+      <td>POROS HQ20</td>
+      <td>50 mM Tricine pH 8.0, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 4% <a href="/xray-mp-wiki/reagents/buffers/glycine/">Glycine</a>, 5 mM MgCl2 + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Further purification step</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Thylakoid membrane preparation | Washed in sodium pyrophosphate buffer pH 7.4 with [DTT](/xray-mp-wiki/reagents/additives/dtt/) and PMSF; precipitated by centrifugation at 3000 x g | -- | 20 mM sodium pyrophosphate pH 7.4, 2 mM [DTT](/xray-mp-wiki/reagents/additives/dtt/), 0.002% (w/v) PMSF + -- | Membranes resuspended in 400 mM [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/), 20 mM Tricine pH 7.4, 5 mM MgCl2, 0.002% PMSF, 50 mM [DTT](/xray-mp-wiki/reagents/additives/dtt/) |
-| Solubilization of CF1Fo | Detergent extraction | -- | -- + 1% (w/v) [Sodium Cholate](/xray-mp-wiki/reagents/detergents/sodium-cholate/) + 2% (w/v) beta-[DDM](/xray-mp-wiki/reagents/detergents/ddm/) ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) | Suspension stirred on ice for 15 min and sonicated. Unsolubilized material removed by centrifugation at 100,000 x g |
-| [Ammonium Sulfate](/xray-mp-wiki/reagents/additives/ammonium-sulfate/) precipitation | 48% (w/v) [Ammonium Sulfate](/xray-mp-wiki/reagents/additives/ammonium-sulfate/) precipitation | -- | 50 mM Tricine pH 8.0, 4% (w/v) [Glycine](/xray-mp-wiki/reagents/buffers/glycine/), 10% (v/v) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 5 mM MgCl2, 5 mM [DTT](/xray-mp-wiki/reagents/additives/dtt/), 0.002% PMSF, 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Pellet dissolved in same buffer |
-| [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) gradient centrifugation | [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) gradient (600 mM to 0 mM linear gradient) | -- | 50 mM Tricine pH 8.0, 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 5 mM [DTT](/xray-mp-wiki/reagents/additives/dtt/), 0.002% PMSF + 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Centrifuged 24 h at 75,000 x g at 4 C |
-| Anion exchange chromatography | POROS HQ20 anion exchange | POROS HQ20 | 50 mM Tricine pH 8.0, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 4% [Glycine](/xray-mp-wiki/reagents/buffers/glycine/), 5 mM MgCl2 + 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Further purification step |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion (sitting drop)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified CF1Fo (which spontaneously forms c14 ring crystals)</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>100 mM sodium <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a> pH 4.6, 300 mM NaCl, 20% (v/v) 2-methyl-2,4-pentanediol (<a href="/xray-mp-wiki/reagents/additives/mpd/">MPD</a>)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals obtained after spontaneous loss of F1 and peripheral F0 subunits during crystallization. Crystals contain only the c14 ring. Data collected at ESRF beamline ID14. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using tetradecameric models generated from I. tartaricus c11 monomer (1yce). Self-rotation function and AFM studies confirmed 14-fold symmetry.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2w5j">2W5J</a> — Chain A (2 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
+<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>2</td>
+      <td>13</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>33</td>
+      <td>14</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>49</td>
+      <td>35</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>73</td>
+      <td>51</td>
+      <td>74</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>78</td>
+      <td>75</td>
+      <td>79</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1074##jbc.m109.006916
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2w5j">2W5J</a> — Chain B (2 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion (sitting drop) |
-| Protein sample | Purified CF1Fo (which spontaneously forms c14 ring crystals) |
-| Reservoir | 100 mM sodium [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) pH 4.6, 300 mM NaCl, 20% (v/v) 2-methyl-2,4-pentanediol ([MPD](/xray-mp-wiki/reagents/additives/mpd/)) |
-| Temperature | 20 |
-| Growth time | -- |
-| Cryoprotection | -- |
-| Notes | Crystals obtained after spontaneous loss of F1 and peripheral F0 subunits during crystallization. Crystals contain only the c14 ring. Data collected at ESRF beamline ID14. Structure solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) using tetradecameric models generated from I. tartaricus c11 monomer (1yce). Self-rotation function and AFM studies confirmed 14-fold symmetry. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
+<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>2</td>
+      <td>13</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>33</td>
+      <td>14</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>49</td>
+      <td>35</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>73</td>
+      <td>51</td>
+      <td>74</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>78</td>
+      <td>75</td>
+      <td>79</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2w5j">2W5J</a> — Chain C (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
+<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>2</td>
+      <td>13</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>33</td>
+      <td>14</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>49</td>
+      <td>35</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>73</td>
+      <td>51</td>
+      <td>74</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>78</td>
+      <td>75</td>
+      <td>79</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2w5j">2W5J</a> — Chain D (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
+<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>2</td>
+      <td>13</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>33</td>
+      <td>14</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>49</td>
+      <td>35</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>73</td>
+      <td>51</td>
+      <td>74</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>78</td>
+      <td>75</td>
+      <td>79</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2w5j">2W5J</a> — Chain E (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
+<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>2</td>
+      <td>13</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>33</td>
+      <td>14</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>49</td>
+      <td>35</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>73</td>
+      <td>51</td>
+      <td>74</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>78</td>
+      <td>75</td>
+      <td>79</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2w5j">2W5J</a> — Chain F (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
+<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>2</td>
+      <td>13</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>33</td>
+      <td>14</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>49</td>
+      <td>35</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>73</td>
+      <td>51</td>
+      <td>74</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>78</td>
+      <td>75</td>
+      <td>79</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2w5j">2W5J</a> — Chain G (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
+<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALALL</span><span class="topo-outside">FANP</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>2</td>
+      <td>13</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>33</td>
+      <td>14</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>49</td>
+      <td>35</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>74</td>
+      <td>51</td>
+      <td>75</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>78</td>
+      <td>76</td>
+      <td>79</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2w5j">2W5J</a> — Chain H (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
+<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALALL</span><span class="topo-outside">FANP</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>2</td>
+      <td>13</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>33</td>
+      <td>14</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>49</td>
+      <td>35</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>74</td>
+      <td>51</td>
+      <td>75</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>78</td>
+      <td>76</td>
+      <td>79</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2w5j">2W5J</a> — Chain I (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIRG</span><span class="topo-membrane">TLLLSLAFME</span></span>
+<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALALL</span><span class="topo-outside">FANP</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>2</td>
+      <td>13</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>33</td>
+      <td>14</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>50</td>
+      <td>35</td>
+      <td>51</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>74</td>
+      <td>52</td>
+      <td>75</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>78</td>
+      <td>76</td>
+      <td>79</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2w5j">2W5J</a> — Chain J (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIRG</span><span class="topo-membrane">TLLLSLAFME</span></span>
+<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALALLF</span><span class="topo-outside">ANP</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>2</td>
+      <td>13</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>33</td>
+      <td>14</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>50</td>
+      <td>35</td>
+      <td>51</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>75</td>
+      <td>52</td>
+      <td>76</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>78</td>
+      <td>77</td>
+      <td>79</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2w5j">2W5J</a> — Chain K (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIRG</span><span class="topo-membrane">TLLLSLAFME</span></span>
+<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALALLF</span><span class="topo-outside">ANP</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>2</td>
+      <td>13</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>33</td>
+      <td>14</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>50</td>
+      <td>35</td>
+      <td>51</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>75</td>
+      <td>52</td>
+      <td>76</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>78</td>
+      <td>77</td>
+      <td>79</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2w5j">2W5J</a> — Chain L (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
+<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALALL</span><span class="topo-outside">FANP</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>2</td>
+      <td>13</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>33</td>
+      <td>14</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>49</td>
+      <td>35</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>74</td>
+      <td>51</td>
+      <td>75</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>78</td>
+      <td>76</td>
+      <td>79</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2w5j">2W5J</a> — Chain M (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
+<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALALL</span><span class="topo-outside">FANP</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>2</td>
+      <td>13</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>33</td>
+      <td>14</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>49</td>
+      <td>35</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>74</td>
+      <td>51</td>
+      <td>75</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>78</td>
+      <td>76</td>
+      <td>79</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2w5j">2W5J</a> — Chain V (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">NPLIAAASVIAA</span><span class="topo-membrane">GLAVGLASIGPGVGQGTAAGQ</span><span class="topo-inside">AVEGIARQPEAEGKIR</span><span class="topo-membrane">GTLLLSLAFME</span></span>
+<span class="topo-line"><span class="topo-membrane">ALTIYGLVVALAL</span><span class="topo-outside">LFANP</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>2</td>
+      <td>13</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>33</td>
+      <td>14</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>49</td>
+      <td>35</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>73</td>
+      <td>51</td>
+      <td>74</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>78</td>
+      <td>75</td>
+      <td>79</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -82,13 +1042,13 @@ Current models suggest that proton transport involves either a single access cha
 
 ## Cross-References
 
-- [Ilyobacter tartaricus c11 Rotor Ring](/xray-mp-wiki/proteins/pumps-atpases/ilyobacter-tartaricus-c-subunit/) — Na+-translocating c11 ring used as molecular replacement search model and key structural comparator
-- [Spirulina platensis c15 Ring](/xray-mp-wiki/proteins/pumps-atpases/spirulina-platensis-c15-ring/) — Another c-ring rotor structure with different stoichiometry for comparison
-- [Bacillus pseudofirmus OF4 c13 Ring](/xray-mp-wiki/proteins/pumps-atpases/bacillus-pseudofirmus-of4-c13-ring/) — Bacterial c-ring rotor for comparison of proton-translocating c-rings
-- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/) — The c14 ring is the rotor component of the rotary ATP synthase mechanism
-- [Proton Wire](/xray-mp-wiki/concepts/transport-mechanisms/proton-wire/) — Proposed involvement of backbone carbonyls and water wires in proton translocation through the c-ring
-- [Common Drug-Binding Site on ATP Synthase c-Ring](/xray-mp-wiki/concepts/structural-mechanisms/common-drug-binding-site-atp-synthase-c-ring/) — Structural basis of c-ring as drug target
-- [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) — Related biological concept
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
-- [Ammonium Sulfate](/xray-mp-wiki/reagents/additives/ammonium-sulfate/) — Additive used in purification or crystallization buffers
-- [DTT](/xray-mp-wiki/reagents/additives/dtt/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/ilyobacter-tartaricus-c-subunit/">Ilyobacter tartaricus c11 Rotor Ring</a> — Na+-translocating c11 ring used as molecular replacement search model and key structural comparator
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/spirulina-platensis-c15-ring/">Spirulina platensis c15 Ring</a> — Another c-ring rotor structure with different stoichiometry for comparison
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/bacillus-pseudofirmus-of4-c13-ring/">Bacillus pseudofirmus OF4 c13 Ring</a> — Bacterial c-ring rotor for comparison of proton-translocating c-rings
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/">Rotary ATPase Mechanism</a> — The c14 ring is the rotor component of the rotary ATP synthase mechanism
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/proton-wire/">Proton Wire</a> — Proposed involvement of backbone carbonyls and water wires in proton translocation through the c-ring
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/common-drug-binding-site-atp-synthase-c-ring/">Common Drug-Binding Site on ATP Synthase c-Ring</a> — Structural basis of c-ring as drug target
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/">NCS</a> — Related biological concept
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/ammonium-sulfate/">Ammonium Sulfate</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a> — Additive used in purification or crystallization buffers

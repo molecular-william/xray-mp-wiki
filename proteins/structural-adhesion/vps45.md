@@ -1,7 +1,7 @@
 ---
 title: "Vps45 (Cryptococcus thermophilum SM Protein)"
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,86 +16,254 @@ verified: false
 
 Vps45 is a Sec1/Munc18-family (SM) protein from the filamentous fungus Cryptococcus thermophilum that functions as a SNARE chaperone in membrane trafficking from the endosome to the trans-Golgi network. The crystal structures of Vps45 alone and in complex with the Qa-SNARE [TLG2](/xray-mp-wiki/proteins/tlg2) reveal that Vps45 holds [TLG2](/xray-mp-wiki/proteins/tlg2) in an open conformation with its SNARE motif disengaged from its Habc domain, in contrast to the closed (clamped) conformation observed for Munc18-1 with syntaxin-1. Vps45 rescues [TLG2](/xray-mp-wiki/proteins/tlg2) from homo-tetrameric oligomers into stoichiometric 1:1 complexes and its unfurled domain 3a helical hairpin exposes the presumptive R-SNARE binding site for template complex assembly.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.7554##eLife.60724 | 6XJL | 2.00 A | P212121 | C. thermophilum Vps45 (XP_006692860.1 homolog) alone, full-length cytoplasmic domain | None |
-| doi/10.7554##eLife.60724 | 6XMD | 3.88 A | P21221 | C. thermophilum Vps45 in complex with Qa-SNARE Tlg2 (residues 1-310) cytoplasmic domain | None |
-| doi/10.7554##eLife.60724 | 6XM1 | 2.80 A | P212121 | C. thermophilum Vps45 in complex with full-length Qa-SNARE Tlg2 (residues 1-327) cytoplasmic domain | None |
+### doi/10.7554##eLife.60724
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6xjl">6XJL</a></td>
+      <td>2.00 A</td>
+      <td>P212121</td>
+      <td>C. thermophilum Vps45 (XP_006692860.1 homolog) alone, full-length cytoplasmic domain</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6xmd">6XMD</a></td>
+      <td>3.88 A</td>
+      <td>P21221</td>
+      <td>C. thermophilum Vps45 in complex with Qa-SNARE Tlg2 (residues 1-310) cytoplasmic domain</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6xm1">6XM1</a></td>
+      <td>2.80 A</td>
+      <td>P212121</td>
+      <td>C. thermophilum Vps45 in complex with full-length Qa-SNARE Tlg2 (residues 1-327) cytoplasmic domain</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli BL21 Rosetta (Novagen) for Vps45 alone; E. coli BL21-Codon Plus (Agilent) for [TLG2](/xray-mp-wiki/proteins/tlg2) and Vps45-[TLG2](/xray-mp-wiki/proteins/tlg2) co-expression
 - **Construct**: Vps45 with N-terminal His7 tag for individual expression, or C-terminal His7 tag for co-expression with Tlg2. All constructs cloned into pQLink bacterial expression plasmids. Tlg2 constructs carried N-terminal His7 and MBP tags followed by TEV protease cleavage site. Mutations (V306D, F335R, L258M, I272M) introduced using QuikChange mutagenesis (Agilent). Vps45 overproduced at 25 C for 18 hr; Tlg2 and Vps45-Tlg2 co-expression at 16 C.
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Pressure homogenization (Emulsiflex-C5, Avestin)</td>
+      <td>--</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">beta-Mercaptoethanol</a> + --</td>
+      <td>Cell pellets resuspended in lysis buffer supplemented with 1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a> and 10 ug/mL DNase. Clarified by centrifugation at 30,000 g.</td>
+    </tr>
+    <tr>
+      <td>Ni-affinity chromatography</td>
+      <td>Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td>His60 Ni Superflow Resin (ClonTech)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 100 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">beta-Mercaptoethanol</a> (wash); 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> in wash buffer (elution) + --</td>
+      <td>Resin washed with wash buffer, eluted with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>. Performed on ice or at 4 C.</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>Size-exclusion chromatography</td>
+      <td>Superdex 200 HR 16/60 (GE Healthcare)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 5 mM dithiothreitol (<a href="/xray-mp-wiki/reagents/additives/dtt">DTT</a>) + --</td>
+      <td>Gel filtration buffer. Final purification step.</td>
+    </tr>
+    <tr>
+      <td>Tag cleavage (<a href="/xray-mp-wiki/proteins/tlg2">TLG2</a> constructs)</td>
+      <td>Protease digestion (TEV protease)</td>
+      <td>His60 Ni Superflow (cleaved His7-MBP tags removed)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>, 50 mM NaCl + --</td>
+      <td>TEV protease cleavage site present between tags and protein for tag removal.</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Pressure homogenization (Emulsiflex-C5, Avestin) | -- | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 150 mM NaCl, 5 mM [beta-Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol) + -- | Cell pellets resuspended in lysis buffer supplemented with 1 mM [PMSF](/xray-mp-wiki/reagents/additives/pmsf) and 10 ug/mL DNase. Clarified by centrifugation at 30,000 g. |
-| Ni-affinity chromatography | Ni-affinity chromatography | His60 Ni Superflow Resin (ClonTech) | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 100 mM NaCl, 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole), 5 mM [beta-Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol) (wash); 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) in wash buffer (elution) + -- | Resin washed with wash buffer, eluted with 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole). Performed on ice or at 4 C. |
-| Size-exclusion chromatography | Size-exclusion chromatography | Superdex 200 HR 16/60 (GE Healthcare) | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 150 mM NaCl, 5 mM dithiothreitol ([DTT](/xray-mp-wiki/reagents/additives/dtt)) + -- | Gel filtration buffer. Final purification step. |
-| Tag cleavage ([TLG2](/xray-mp-wiki/proteins/tlg2) constructs) | Protease digestion (TEV protease) | His60 Ni Superflow (cleaved His7-MBP tags removed) | 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole), 50 mM NaCl + -- | TEV protease cleavage site present between tags and protein for tag removal. |
-
-
-## Crystallization
-
-### doi/10.7554##eLife.60724
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion with streak seeding |
-| Protein sample | Vps45-[TLG2](/xray-mp-wiki/proteins/tlg2)(1-327) complex at 4 mg/ml in 25 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 8.0, 50 mM NaCl, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), 5 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep) |
-| Reservoir | 0.2 M potassium [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate), 14% (w/v) [PEG](/xray-mp-wiki/reagents/additives/peg) 3350, 5 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep) |
-| Temperature | Room temperature |
-| Growth time | ~3 days |
-| Cryoprotection | 1:1 mixture of well buffer supplemented with 30% (v/v) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), then frozen in liquid nitrogen |
-| Notes | Diamond-shaped crystals in P212121 space group with two complexes in the asymmetric unit. Improved by streak seeding with Vps45-[TLG2](/xray-mp-wiki/proteins/tlg2) crystals. Data collected at NSLSII FMX beamline. |
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | Vps45-[TLG2](/xray-mp-wiki/proteins/tlg2)(1-310) complex at 4 mg/ml in 25 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 8.0, 50 mM NaCl, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), 5 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep) |
-| Reservoir | 0.2 M potassium [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate), 14% (w/v) [PEG](/xray-mp-wiki/reagents/additives/peg) 3350, 5 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep) |
-| Temperature | Room temperature |
-| Growth time | ~3 days |
-| Cryoprotection | 1:1 mixture of well buffer supplemented with 30% (v/v) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), then frozen in liquid nitrogen |
-| Notes | P21221 crystal form with single complex in the asymmetric unit. Streak seeded with Vps45-[TLG2](/xray-mp-wiki/proteins/tlg2) crystals. |
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | Vps45-V306D,F335R-[TLG2](/xray-mp-wiki/proteins/tlg2) complex at 4 mg/ml |
-| Reservoir | 0.2 M potassium [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate), 14% (w/v) [PEG](/xray-mp-wiki/reagents/additives/peg) 3350, 5 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep) |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | 1:1 mixture of well buffer supplemented with 30% (v/v) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), then frozen in liquid nitrogen |
-| Notes | Mutant Vps45-V306D,F335R in complex with [TLG2](/xray-mp-wiki/proteins/tlg2). P21 crystal form. |
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | SeMet-labeled Vps45-[TLG2](/xray-mp-wiki/proteins/tlg2)(L258M,I272M) complex at 5 mg/ml in 0.1 M [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 7.5, 0.2 M NaCl, 10% 2-propanol, 5 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep) |
-| Reservoir | 0.1 M [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 7.5, 0.2 M NaCl, 10% (v/v) 2-propanol, 5 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep) |
-| Temperature | Not specified |
-| Growth time | ~3 days |
-| Cryoprotection | 1:1 mixture of well buffer supplemented with 30% (v/v) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol) plus 10% (v/v) 2-propanol, then frozen in liquid nitrogen |
-| Notes | SeMet-labeled for SAD phasing. L258M and I272M mutations confirmed sequence register in SNARE helix. P212121 crystal form. |
-
-| Parameter | Value |
-|---|---|
-| Method | X-ray crystallography |
-| Protein sample | Native Vps45 at ~4 mg/ml |
-| Reservoir | Not specified |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Vps45 alone crystallized in P212121 space group. Data collected at CHESS F1 beamline (0.9782 A wavelength). Resolution 2.00 A. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion with streak seeding</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Vps45-<a href="/xray-mp-wiki/proteins/tlg2">TLG2</a>(1-327) complex at 4 mg/ml in 25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 8.0, 50 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/tcep">TCEP</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.2 M potassium <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate Buffer (Sodium Citrate)</a>, 14% (w/v) <a href="/xray-mp-wiki/reagents/additives/peg">PEG</a> 3350, 5 mM <a href="/xray-mp-wiki/reagents/additives/tcep">TCEP</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Room temperature</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>~3 days</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>1:1 mixture of well buffer supplemented with 30% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, then frozen in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Diamond-shaped crystals in P212121 space group with two complexes in the asymmetric unit. Improved by streak seeding with Vps45-<a href="/xray-mp-wiki/proteins/tlg2">TLG2</a> crystals. Data collected at NSLSII FMX beamline.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Vps45-<a href="/xray-mp-wiki/proteins/tlg2">TLG2</a>(1-310) complex at 4 mg/ml in 25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 8.0, 50 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/tcep">TCEP</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.2 M potassium <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate Buffer (Sodium Citrate)</a>, 14% (w/v) <a href="/xray-mp-wiki/reagents/additives/peg">PEG</a> 3350, 5 mM <a href="/xray-mp-wiki/reagents/additives/tcep">TCEP</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Room temperature</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>~3 days</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>1:1 mixture of well buffer supplemented with 30% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, then frozen in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>P21221 crystal form with single complex in the asymmetric unit. Streak seeded with Vps45-<a href="/xray-mp-wiki/proteins/tlg2">TLG2</a> crystals.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Vps45-V306D,F335R-<a href="/xray-mp-wiki/proteins/tlg2">TLG2</a> complex at 4 mg/ml</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.2 M potassium <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate Buffer (Sodium Citrate)</a>, 14% (w/v) <a href="/xray-mp-wiki/reagents/additives/peg">PEG</a> 3350, 5 mM <a href="/xray-mp-wiki/reagents/additives/tcep">TCEP</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>1:1 mixture of well buffer supplemented with 30% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, then frozen in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Mutant Vps45-V306D,F335R in complex with <a href="/xray-mp-wiki/proteins/tlg2">TLG2</a>. P21 crystal form.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>SeMet-labeled Vps45-<a href="/xray-mp-wiki/proteins/tlg2">TLG2</a>(L258M,I272M) complex at 5 mg/ml in 0.1 M <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 0.2 M NaCl, 10% 2-propanol, 5 mM <a href="/xray-mp-wiki/reagents/additives/tcep">TCEP</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.1 M <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 0.2 M NaCl, 10% (v/v) 2-propanol, 5 mM <a href="/xray-mp-wiki/reagents/additives/tcep">TCEP</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>~3 days</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>1:1 mixture of well buffer supplemented with 30% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> plus 10% (v/v) 2-propanol, then frozen in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>SeMet-labeled for SAD phasing. L258M and I272M mutations confirmed sequence register in SNARE helix. P212121 crystal form.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>X-ray crystallography</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Native Vps45 at ~4 mg/ml</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Vps45 alone crystallized in P212121 space group. Data collected at CHESS F1 beamline (0.9782 A wavelength). Resolution 2.00 A.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -118,13 +286,13 @@ The Vps45-[TLG2](/xray-mp-wiki/proteins/tlg2) structure establishes that SM prot
 
 ## Cross-References
 
-- [Tlg2 (Cryptococcus thermophilum Qa-SNARE Protein)](/xray-mp-wiki/proteins/structural-adhesion/tlg2/) — Cognate Qa-SNARE partner co-crystallized with Vps45 in PDB entries 6XMD and 6XM1; forms 1:1 complexes with Vps45
-- [beta-Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol) — Entity mentioned in text
-- [PMSF](/xray-mp-wiki/reagents/additives/pmsf) — Entity mentioned in text
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) — Entity mentioned in text
-- [TCEP](/xray-mp-wiki/reagents/additives/tcep) — Entity mentioned in text
-- [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate) — Entity mentioned in text
-- [PEG](/xray-mp-wiki/reagents/additives/peg) — Entity mentioned in text
-- [HEPES](/xray-mp-wiki/reagents/buffers/hepes) — Entity mentioned in text
-- [DTT](/xray-mp-wiki/reagents/additives/dtt) — Entity mentioned in text
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol) — Entity mentioned in text
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/tlg2/">Tlg2 (Cryptococcus thermophilum Qa-SNARE Protein)</a> — Cognate Qa-SNARE partner co-crystallized with Vps45 in PDB entries 6XMD and 6XM1; forms 1:1 complexes with Vps45
+- <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">beta-Mercaptoethanol</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/additives/tcep">TCEP</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate Buffer (Sodium Citrate)</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/additives/peg">PEG</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/additives/dtt">DTT</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> — Entity mentioned in text

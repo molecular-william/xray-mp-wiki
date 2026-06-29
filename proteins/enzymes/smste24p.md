@@ -1,7 +1,7 @@
 ---
 title: "SmSte24p CAAX Protease from Saccharomyces cerevisiae"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,30 +17,33 @@ verified: false
 SmSte24p (Ste24p) is an integral membrane zinc metalloprotease from Saccharomyces cerevisiae belonging to the CAAX protease family. It processes the a-factor mating pheromone precursor and is homologous to human [Human ZMPSTE24 (Zinc Metalloprotease)](/xray-mp-wiki/proteins/enzymes/zmpste24/), mutations in which cause restrictive dermopathy and progeria. The crystal structure reveals seven transmembrane helices surrounding a large internal cavity (~14,000 Å³) that is thought to serve as a water reservoir for catalysis. The active site contains a zinc ion coordinated by the HEXXH motif (H297-H301) with striking structural similarity to the bacterial zinc metalloprotease [Thermolysin](/xray-mp-wiki/reagents/additives/thermolysin/).
 
 
-## Structure Determination
+## Publications
 
-No structure determined.
+### doi/10.1126##science.1232048
 
-## Expression and Purification
+**Expression:**
 
 - **Expression system**: Saccharomyces cerevisiae
 - **Notes**: Full-length protein expression; purification details in Clark et al. Protein Expr. Purif. 71, 207 (2010)
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: Saccharomyces cerevisiae
 - **Expression construct**: Full-length 461-residue with C-terminal affinity tags
 - **Tag info**: C-terminal affinity tags cleaved leaving 8 additional residues
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-
-
-## Crystallization
-
-No crystallization described.
 
 ## Biological / Functional Insights
 
@@ -63,5 +66,5 @@ Most missense mutations in human [Human ZMPSTE24 (Zinc Metalloprotease)](/xray-m
 
 ## Cross-References
 
-- [Human ZMPSTE24 (Zinc Metalloprotease)](/xray-mp-wiki/proteins/enzymes/zmpste24/) — Related protein structure
-- [Thermolysin](/xray-mp-wiki/reagents/additives/thermolysin/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/proteins/enzymes/zmpste24/">Human ZMPSTE24 (Zinc Metalloprotease)</a> — Related protein structure
+- <a href="/xray-mp-wiki/reagents/additives/thermolysin/">Thermolysin</a> — Additive used in purification or crystallization buffers

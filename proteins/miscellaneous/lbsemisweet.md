@@ -1,7 +1,7 @@
 ---
 title: "LbSemiSWEET from Leptospira biflexa"
 created: 2026-05-27
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,60 +17,400 @@ verified: false
 LbSemiSWEET is a sugar transporter from the SWEET family found in the bacterium Leptospira biflexa. It is among the smallest characterized transporters at less than 20 kDa, with a simple geometry as a symmetric dimer of three-helix bundles. LbSemiSWEET transports a single substrate ([Glucose](/xray-mp-wiki/reagents/additives/glucose/)) and operates via an alternating-access mechanism. The SWEET family is widespread and plays critical roles in phloem loading, nectar secretion, pollen development, and seed filling in plants.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.cell.2017.03.010 | 5UHS | 2.8 | P212121 | LbSemiSWEET D57A mutant | [Glucose](/xray-mp-wiki/reagents/additives/glucose/) |
-| doi/10.1016##j.cell.2017.03.010 | 5UHQ | 2.8 | P212121 | LbSemiSWEET Q20A mutant | -- |
-| doi/10.1038##nature13670 | -- | 2.40 | P21 | Full-length L. biflexa serovar Patoc [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) | -- |
+### doi/10.1016##j.cell.2017.03.010
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5uhs">5UHS</a></td>
+      <td>2.8</td>
+      <td>P212121</td>
+      <td>LbSemiSWEET D57A mutant</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/glucose/">Glucose</a></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5uhq">5UHQ</a></td>
+      <td>2.8</td>
+      <td>P212121</td>
+      <td>LbSemiSWEET Q20A mutant</td>
+      <td>--</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli
 - **Construct**: LbSemiSWEET with C-terminal 3C protease recognition site and 10xHis-tag
 - **Induction**: 0.2 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg/), 22 C overnight
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Sonication</td>
+      <td>--</td>
+      <td>TBS (50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl)</td>
+      <td>Pelleted cells resuspended in TBS and lysed by sonication</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>TBS with 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (2% w/v)</td>
+      <td>Solubilized for 2 hours at 4 C; insoluble debris pelleted at 16,000 rpm</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Cobalt <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>HisPur cobalt resin</td>
+      <td>TBS with 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (0.1%)</td>
+      <td>His-tag cleaved by 3C protease to elute protein</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (0.03%)</td>
+      <td>Peak fractions pooled, concentrated, flash frozen in liquid N2, stored at -80 C</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Sonication | -- | TBS (50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM NaCl) | Pelleted cells resuspended in TBS and lysed by sonication |
-| Solubilization | Detergent solubilization | -- | TBS with 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (2% w/v) | Solubilized for 2 hours at 4 C; insoluble debris pelleted at 16,000 rpm |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Cobalt [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | HisPur cobalt resin | TBS with 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (0.1%) | His-tag cleaved by 3C protease to elute protein |
-| Size-exclusion chromatography | Size-exclusion chromatography | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | 10 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM NaCl, 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (0.03%) | Peak fractions pooled, concentrated, flash frozen in liquid N2, stored at -80 C |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>LbSemiSWEET D57A reconstituted with <a href="/xray-mp-wiki/reagents/lipids/monovaccenin/">Monovaccenin</a> (1:1.5 wt/wt)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grew within one week; D57A mutation favors outward-open conformation</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>LbSemiSWEET Q20A reconstituted with <a href="/xray-mp-wiki/reagents/lipids/monopalmitolein/">Monopalmitolein</a> (1:1.5 wt/wt)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals appeared within two days; Q20A mutation favors inward-open conformation</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5uhs">5UHS</a> — Chain A (3 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MENL</span><span class="topo-membrane">IGYVAAFLTTVSFLPQVLRVV</span><span class="topo-outside">MTKQTRDI</span><span class="topo-membrane">SRNMYIMFFLGVVLWFVYGI</span><span class="topo-inside">LRSAL</span><span class="topo-membrane">PI</span></span>
+<span class="topo-line"><span class="topo-membrane">ILANVVTLFFVTIILYYKLT</span><span class="topo-outside">E</span><span class="topo-unknown">GNQTGSLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>1</td>
+      <td>4</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>25</td>
+      <td>5</td>
+      <td>25</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>33</td>
+      <td>26</td>
+      <td>33</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>53</td>
+      <td>34</td>
+      <td>53</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>58</td>
+      <td>54</td>
+      <td>58</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>80</td>
+      <td>59</td>
+      <td>80</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>81</td>
+      <td>81</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1016##j.cell.2017.03.010
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5uhs">5UHS</a> — Chain B (3 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | vapor diffusion |
-| Protein sample | LbSemiSWEET D57A reconstituted with [Monovaccenin](/xray-mp-wiki/reagents/lipids/monovaccenin/) (1:1.5 wt/wt) |
-| Temperature | 4 C |
-| Notes | Crystals grew within one week; D57A mutation favors outward-open conformation |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MENL</span><span class="topo-membrane">IGYVAAFLTTVSFLPQVLRVV</span><span class="topo-outside">MTKQTRDI</span><span class="topo-membrane">SRNMYIMFFLGVVLWFVYGI</span><span class="topo-inside">LRSAL</span><span class="topo-membrane">PI</span></span>
+<span class="topo-line"><span class="topo-membrane">ILANVVTLFFVTIILYYKL</span><span class="topo-outside">TE</span><span class="topo-unknown">GNQTGSLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>1</td>
+      <td>4</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>25</td>
+      <td>5</td>
+      <td>25</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>33</td>
+      <td>26</td>
+      <td>33</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>53</td>
+      <td>34</td>
+      <td>53</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>58</td>
+      <td>54</td>
+      <td>58</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>79</td>
+      <td>59</td>
+      <td>79</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>81</td>
+      <td>80</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | vapor diffusion |
-| Protein sample | LbSemiSWEET Q20A reconstituted with [Monopalmitolein](/xray-mp-wiki/reagents/lipids/monopalmitolein/) (1:1.5 wt/wt) |
-| Temperature | 4 C |
-| Notes | Crystals appeared within two days; Q20A mutation favors inward-open conformation |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5uhq">5UHQ</a> — Chain A (2 TMs, alpha)**
 
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MENLIGYVAAFLTTVSFLPAVLRVVMTKQTRD</span><span class="topo-membrane">ISRNMYIMFFLGVVLWFVYGIL</span><span class="topo-outside">RSDL</span><span class="topo-membrane">PI</span></span>
+<span class="topo-line"><span class="topo-membrane">ILANVVTLFFVTIILYYKLTE</span><span class="topo-inside">GNQTGSLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>32</td>
+      <td>1</td>
+      <td>32</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>54</td>
+      <td>33</td>
+      <td>54</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>58</td>
+      <td>55</td>
+      <td>58</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>81</td>
+      <td>59</td>
+      <td>81</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>93</td>
+      <td>82</td>
+      <td>93</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 ### doi/10.1038##nature13670
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase |
-| Protein sample | L. biflexa serovar Patoc [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) reconstituted into [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) (1:1.5 protein:lipid) |
-| Temperature | 20 C |
-| Notes | Crystals grew in about 1 week; captured in occluded conformation |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/--">--</a></td>
+      <td>2.40</td>
+      <td>P21</td>
+      <td>Full-length L. biflexa serovar Patoc <a href="/xray-mp-wiki/concepts/transport-mechanisms/semisweet/">SemiSWEET Transporter Family</a></td>
+      <td>--</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Escherichia coli
+- **Construct**: LbSemiSWEET with C-terminal 3C protease recognition site and 10xHis-tag
+- **Induction**: 0.2 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg/), 22 C overnight
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>L. biflexa serovar Patoc <a href="/xray-mp-wiki/concepts/transport-mechanisms/semisweet/">SemiSWEET Transporter Family</a> reconstituted into <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> (1:1.5 protein:lipid)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grew in about 1 week; captured in occluded conformation</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -93,20 +433,20 @@ The L. biflexa [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-m
 
 ## Cross-References
 
-- [Vibrio sp. SemiSWEET](/xray-mp-wiki/proteins/miscellaneous/vibrio-sp-semisweet/) — Related bacterial SemiSWEET crystallized in outward-open state at 1.70 Å
-- [A. thaliana SWEET1](/xray-mp-wiki/proteins/miscellaneous/a-thaliana-sweet1/) — Plant SWEET1 with conserved W and N residues critical for sugar transport
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — LbSemiSWEET operates via alternating access with spontaneous conformational transitions
-- [SWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/sweet-transporter/) — LbSemiSWEET is a member of the SWEET family of sugar transporters
-- [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for solubilization and purification
-- [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Substrate transported by LbSemiSWEET; used in crystallization
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used in lipidic cubic phase crystallization
-- [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) — Related biological concept
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Additive used in purification or crystallization buffers
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/alternating-access/) — LbSemiSWEET exemplifies the alternating access model of transporter function
-- [Lipidic Cubic Phase (LCP) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Both D57A and Q20A mutants were crystallized using LCP with monoacylglycerols
-- [Molecular Dynamics Simulation](/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/) — MD simulations captured spontaneous outward-open to inward-open transitions
-- [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Tris-HCl pH 8.0 used as main purification buffer and crystallization reservoir
-- [PEG 400 (Polyethylene Glycol 400)](/xray-mp-wiki/reagents/additives/peg-400/) — Used as precipitant in both D57A and Q20A crystallization conditions
-- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification
-- [LbSemiSWEET from Leptospira biflexa](/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/) — Related protein structure
+- <a href="/xray-mp-wiki/proteins/miscellaneous/vibrio-sp-semisweet/">Vibrio sp. SemiSWEET</a> — Related bacterial SemiSWEET crystallized in outward-open state at 1.70 Å
+- <a href="/xray-mp-wiki/proteins/miscellaneous/a-thaliana-sweet1/">A. thaliana SWEET1</a> — Plant SWEET1 with conserved W and N residues critical for sugar transport
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating-Access Mechanism</a> — LbSemiSWEET operates via alternating access with spontaneous conformational transitions
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/sweet-transporter/">SWEET Transporter Family</a> — LbSemiSWEET is a member of the SWEET family of sugar transporters
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> — Primary detergent used for solubilization and purification
+- <a href="/xray-mp-wiki/reagents/additives/glucose/">Glucose</a> — Substrate transported by LbSemiSWEET; used in crystallization
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — Lipid used in lipidic cubic phase crystallization
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/semisweet/">SemiSWEET Transporter Family</a> — Related biological concept
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/iptg/">IPTG</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/concepts/alternating-access/">Alternating Access Mechanism</a> — LbSemiSWEET exemplifies the alternating access model of transporter function
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase (LCP) Crystallization</a> — Both D57A and Q20A mutants were crystallized using LCP with monoacylglycerols
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/">Molecular Dynamics Simulation</a> — MD simulations captured spontaneous outward-open to inward-open transitions
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> — Tris-HCl pH 8.0 used as main purification buffer and crystallization reservoir
+- <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG 400 (Polyethylene Glycol 400)</a> — Used as precipitant in both D57A and Q20A crystallization conditions
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/">LbSemiSWEET from Leptospira biflexa</a> — Related protein structure

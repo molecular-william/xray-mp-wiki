@@ -1,7 +1,7 @@
 ---
 title: "Interleukin-17 Receptor A (IL-17RA)"
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,33 +17,66 @@ verified: false
 IL-17RA is the founding and best-known member of the interleukin-17 receptor (IL-17R) family. It is a single-pass type I transmembrane glycoprotein that serves as the shared receptor for several members of the IL-17 cytokine family, including [IL-17A](/xray-mp-wiki/proteins/receptors-signaling/il-17a/), [IL-17F](/xray-mp-wiki/proteins/receptors-signaling/il-17f/), and [IL-17A](/xray-mp-wiki/proteins/receptors-signaling/il-17a/)/F. IL-17RA was traditionally believed to operate in concert with [IL-17RC](/xray-mp-wiki/proteins/receptors-signaling/il-17rc/) to mediate IL-17 signaling. However, structural analysis revealed that [IL-17RC](/xray-mp-wiki/proteins/receptors-signaling/il-17rc/) and IL-17RA compete for the same binding surface on [IL-17F](/xray-mp-wiki/proteins/receptors-signaling/il-17f/). IL-17RA has a shorter extracellular domain compared to [IL-17RC](/xray-mp-wiki/proteins/receptors-signaling/il-17rc/) and is classified as a "short receptor." It contains a cytoplasmic SEFIR domain for intracellular signaling.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.immuni.2020.02.004 | 3JVF | not specified | not specified | Human IL-17RA extracellular domain (referenced structure from Ely et al., 2009; the numbering in the PDB differs from UniProt Q96F46 by +31)
- | [IL-17F](/xray-mp-wiki/proteins/receptors-signaling/il-17f/) |
+### doi/10.1016##j.immuni.2020.02.004
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3jvf">3JVF</a></td>
+      <td>not specified</td>
+      <td>not specified</td>
+      <td>Human IL-17RA extracellular domain (referenced structure from Ely et al., 2009; the numbering in the PDB differs from UniProt Q96F46 by +31)
+</td>
+      <td><a href="/xray-mp-wiki/proteins/receptors-signaling/il-17f/">IL-17F</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: HEK293S cells (human embryonic kidney cells deficient in N-acetylglucosaminyl-transferase I)
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Protein expression</td>
+      <td>Transient expression in HEK293S cells</td>
+      <td>--</td>
+      <td>V3 medium (Novartis medium, patent WO 2011/134920 A1) + --</td>
+      <td>Full-length IL-17RA ECD (residues 33-320 of UniProt entry Q96F46) fused to CD33 signal peptide and C-terminal APP4-tag, cloned into pRS5-derived vector
+</td>
+    </tr>
+    <tr>
+      <td>SEC purification</td>
+      <td>Size-exclusion chromatography</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>IL-17RA purified by SEC; used for <a href="/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/">ITC</a> and <a href="/xray-mp-wiki/methods/quality-assessment/sec-mals/">SEC-MALS</a> experiments
+</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Protein expression | Transient expression in HEK293S cells | -- | V3 medium (Novartis medium, patent WO 2011/134920 A1) + -- | Full-length IL-17RA ECD (residues 33-320 of UniProt entry Q96F46) fused to CD33 signal peptide and C-terminal APP4-tag, cloned into pRS5-derived vector
- |
-| SEC purification | Size-exclusion chromatography | -- | -- + -- | IL-17RA purified by SEC; used for [ITC](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/) and [SEC-MALS](/xray-mp-wiki/methods/quality-assessment/sec-mals/) experiments
- |
-
-
-## Crystallization
-
-No crystallization described.
 
 ## Biological / Functional Insights
 
@@ -66,12 +99,12 @@ In the presence of both IL-17RA and [IL-17RC](/xray-mp-wiki/proteins/receptors-s
 
 ## Cross-References
 
-- [Interleukin-17 Receptor C (IL-17RC)](/xray-mp-wiki/proteins/receptors-signaling/il-17rc/) — Co-receptor that competes with IL-17RA for cytokine binding
-- [Interleukin-17F (IL-17F)](/xray-mp-wiki/proteins/receptors-signaling/il-17f/) — Cytokine that forms asymmetric 1:1 complex with IL-17RA
-- [Interleukin-17A (IL-17A)](/xray-mp-wiki/proteins/receptors-signaling/il-17a/) — Cytokine that efficiently drives heteromeric IL-17RC:IL-17RA:IL-17A complex
-- [Tall Receptor](/xray-mp-wiki/concepts/tall-receptor/) — IL-17RA classified as a short receptor, contrasting with tall IL-17RC
-- [Competitive Receptor Binding](/xray-mp-wiki/concepts/competitive-receptor-binding/) — IL-17RA and IL-17RC compete for the same binding surface on IL-17F
-- [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) — Related precipitant used in crystallization
-- [ITC](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/) — Method used in structure determination or purification
-- [SEC-MALS](/xray-mp-wiki/methods/quality-assessment/sec-mals/) — Method used in structure determination or purification
-- [TR-FRET](/xray-mp-wiki/methods/quality-assessment/tr-fret/) — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/receptors-signaling/il-17rc/">Interleukin-17 Receptor C (IL-17RC)</a> — Co-receptor that competes with IL-17RA for cytokine binding
+- <a href="/xray-mp-wiki/proteins/receptors-signaling/il-17f/">Interleukin-17F (IL-17F)</a> — Cytokine that forms asymmetric 1:1 complex with IL-17RA
+- <a href="/xray-mp-wiki/proteins/receptors-signaling/il-17a/">Interleukin-17A (IL-17A)</a> — Cytokine that efficiently drives heteromeric IL-17RC:IL-17RA:IL-17A complex
+- <a href="/xray-mp-wiki/concepts/tall-receptor/">Tall Receptor</a> — IL-17RA classified as a short receptor, contrasting with tall IL-17RC
+- <a href="/xray-mp-wiki/concepts/competitive-receptor-binding/">Competitive Receptor Binding</a> — IL-17RA and IL-17RC compete for the same binding surface on IL-17F
+- <a href="/xray-mp-wiki/reagents/additives/peg/">PEG (Polyethylene Glycol)</a> — Related precipitant used in crystallization
+- <a href="/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/">ITC</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/quality-assessment/sec-mals/">SEC-MALS</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/quality-assessment/tr-fret/">TR-FRET</a> — Method used in structure determination or purification

@@ -1,7 +1,7 @@
 ---
 title: "Vibrio sp. SemiSWEET"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,42 +17,101 @@ verified: false
 Vibrio sp. [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) is a bacterial sugar transporter from the [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) family found in Vibrio sp. N418. It is among the smallest characterized transporters, consisting of a single three-helix bundle per monomer that forms symmetric parallel dimers to generate the translocation pathway. Vibrio sp. [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) crystallized in an outward-open conformation at 1.70 Å resolution, providing high-resolution insight into the [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) transport mechanism.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature13670 | -- | 1.70 | I4122 | Full-length Vibrio sp. N418 [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) with C-terminal His-tag | -- |
+### doi/10.1038##nature13670
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/--">--</a></td>
+      <td>1.70</td>
+      <td>I4122</td>
+      <td>Full-length Vibrio sp. N418 <a href="/xray-mp-wiki/concepts/transport-mechanisms/semisweet/">SemiSWEET Transporter Family</a> with C-terminal His-tag</td>
+      <td>--</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli
 - **Construct**: Full-length Vibrio sp. N418 [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) with C-terminal 3C protease site and His-tag
 - **Induction**: 0.2 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg/), 22 C overnight
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Sonication</td>
+      <td>--</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl</td>
+      <td>Pelleted cells resuspended and lysed by sonication</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>Cell lysate supernatant + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (2% w/v)</td>
+      <td>Solubilized for 2 hours at 4 C; debris removed by centrifugation at 16,000 rpm</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Cobalt <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>HisPur Cobalt Resin</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>His-tag cleaved with <a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a></td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>Size-exclusion chromatography</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Peak fractions pooled, concentrated, flash-frozen in liquid nitrogen, stored at -80 C</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Sonication | -- | 50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM NaCl | Pelleted cells resuspended and lysed by sonication |
-| Solubilization | Detergent solubilization | -- | Cell lysate supernatant + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (2% w/v) | Solubilized for 2 hours at 4 C; debris removed by centrifugation at 16,000 rpm |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Cobalt [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | HisPur Cobalt Resin | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM NaCl, 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | His-tag cleaved with [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) |
-| Size-exclusion chromatography | Size-exclusion chromatography | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | 10 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM NaCl, 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Peak fractions pooled, concentrated, flash-frozen in liquid nitrogen, stored at -80 C |
-
-
-## Crystallization
-
-### doi/10.1038##nature13670
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase |
-| Protein sample | Vibrio sp. [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) reconstituted into [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) (1:1.5 protein:lipid) |
-| Temperature | 20 C |
-| Notes | Crystals appeared within 2 days; grew to full size in about 1 week |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Vibrio sp. <a href="/xray-mp-wiki/concepts/transport-mechanisms/semisweet/">SemiSWEET Transporter Family</a> reconstituted into <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> (1:1.5 protein:lipid)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals appeared within 2 days; grew to full size in about 1 week</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -75,13 +134,13 @@ The conserved PQ-dipetide motif is embedded in the membrane and is part of TM1, 
 
 ## Cross-References
 
-- [LbSemiSWEET from Leptospira biflexa](/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/) — Related bacterial SemiSWEET crystallized in occluded state at 2.4 Å
-- [TySemiSWEET from Thermotoga yellowstonii](/xray-mp-wiki/proteins/miscellaneous/tysemisweet/) — Another bacterial SemiSWEET that transports sucrose
-- [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) — Vibrio sp. SemiSWEET is a member of the SemiSWEET family
-- [SWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/sweet-transporter/) — SemiSWEETs are bacterial homologues of SWEET transporters
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Vibrio sp. SemiSWEET undergoes alternating access transport
-- [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/) — SemiSWEETs operate via rocking-type movement
-- [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for solubilization and purification
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used in lipidic cubic phase crystallization
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/">LbSemiSWEET from Leptospira biflexa</a> — Related bacterial SemiSWEET crystallized in occluded state at 2.4 Å
+- <a href="/xray-mp-wiki/proteins/miscellaneous/tysemisweet/">TySemiSWEET from Thermotoga yellowstonii</a> — Another bacterial SemiSWEET that transports sucrose
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/semisweet/">SemiSWEET Transporter Family</a> — Vibrio sp. SemiSWEET is a member of the SemiSWEET family
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/sweet-transporter/">SWEET Transporter Family</a> — SemiSWEETs are bacterial homologues of SWEET transporters
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating-Access Mechanism</a> — Vibrio sp. SemiSWEET undergoes alternating access transport
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/">Rocker-Switch Mechanism</a> — SemiSWEETs operate via rocking-type movement
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> — Primary detergent used for solubilization and purification
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — Lipid used in lipidic cubic phase crystallization
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/iptg/">IPTG</a> — Additive used in purification or crystallization buffers

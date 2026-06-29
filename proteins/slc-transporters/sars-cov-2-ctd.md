@@ -1,7 +1,7 @@
 ---
 title: "SARS-CoV-2 Spike Protein C-Terminal Domain"
 created: 2026-05-27
-updated: 2026-06-09
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,93 +17,299 @@ verified: false
 The C-terminal domain (CTD) of the SARS-CoV-2 spike (S) protein, also known as the receptor-binding domain (RBD), is the region responsible for recognizing and binding to the host cell receptor human ACE2 ([Human Angiotensin-Converting Enzyme 2 (hACE2)](/xray-mp-wiki/proteins/slc-transporters/hace2/)). The SARS-CoV-2 CTD spans residues 319-541 of the S1 subunit and forms a core subdomain with beta strands and an external subdomain. It displays stronger affinity for [Human Angiotensin-Converting Enzyme 2 (hACE2)](/xray-mp-wiki/proteins/slc-transporters/hace2/) compared to the SARS-CoV RBD due to key residue substitutions, and is antigenically distinct from SARS-CoV RBD.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.cell.2020.03.045 | 6LZG | 2.50 A | P41212 | SARS-CoV-2 spike protein CTD residues 319-541, in complex with [Human Angiotensin-Converting Enzyme 2 (hACE2)](/xray-mp-wiki/proteins/slc-transporters/hace2/) | [Human Angiotensin-Converting Enzyme 2 (hACE2)](/xray-mp-wiki/proteins/slc-transporters/hace2/) (human ACE2 residues 19-615) |
-| doi/10.1038##s41586-020-2180-5 | 6M0J | 2.45 A | P4₁2₁2 | SARS-CoV-2 RBD residues Arg319-Phe541, in complex with ACE2 (residues Ser19-Asp615) | [Human Angiotensin-Converting Enzyme 2 (hACE2)](/xray-mp-wiki/proteins/slc-transporters/hace2/) N-terminal peptidase domain, zinc ion |
-| doi/10.1038##s41586-020-2179-y | 6VW1 | 2.68 A | P 21 21 21 | SARS-CoV-2 chimeric RBD (SARS-CoV-2 core + SARS-CoV side loop) in complex with human ACE2 (residues 1-615) | human ACE2 (residues 1-615), zinc ion |
+### doi/10.1016##j.cell.2020.03.045
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6lzg">6LZG</a></td>
+      <td>2.50 A</td>
+      <td>P41212</td>
+      <td>SARS-CoV-2 spike protein CTD residues 319-541, in complex with <a href="/xray-mp-wiki/proteins/slc-transporters/hace2/">Human Angiotensin-Converting Enzyme 2 (hACE2)</a></td>
+      <td><a href="/xray-mp-wiki/proteins/slc-transporters/hace2/">Human Angiotensin-Converting Enzyme 2 (hACE2)</a> (human ACE2 residues 19-615)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Hi5 insect cells (baculovirus)
 - **Construct**: SARS-CoV-2 RBD residues Arg319-Phe541, N-terminal gp67 signal peptide for secretion, C-terminal 6xHis tag
 
-### Purification Workflow
+**Purification:**
 
-#### Source: doi/10.1016##j.cell.2020.03.045
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture and protein expression</td>
+      <td>Mammalian transient transfection</td>
+      <td>--</td>
+      <td>--</td>
+      <td>HEK293T cells transfected with pCAGGS plasmid; supernatant collected 24 h post-transfection</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Protein A <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>HiTrap rProtein A FF column</td>
+      <td>Binding buffer 20 mM Na3PO4 pH 7.0; elution with 0.1 M glycine-HCl pH 3.0 neutralized with 1 M <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 9.0</td>
+      <td>mFc fusion protein captured on Protein A column</td>
+    </tr>
+    <tr>
+      <td>Gel filtration</td>
+      <td>Size-exclusion chromatography</td>
+      <td>Gel filtration column</td>
+      <td>PBS</td>
+      <td>Further purification and buffer exchange</td>
+    </tr>
+  </tbody>
+</table>
 
+**Crystallization:**
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture and protein expression | Mammalian transient transfection | -- | -- | HEK293T cells transfected with pCAGGS plasmid; supernatant collected 24 h post-transfection |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Protein A [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | HiTrap rProtein A FF column | Binding buffer 20 mM Na3PO4 pH 7.0; elution with 0.1 M glycine-HCl pH 3.0 neutralized with 1 M [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 9.0 | mFc fusion protein captured on Protein A column |
-| Gel filtration | Size-exclusion chromatography | Gel filtration column | PBS | Further purification and buffer exchange |
-
-#### Source: doi/10.1038##s41586-020-2180-5
-
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Baculovirus expression | Expression in Hi5 insect cells via Bac-to-Bac system | -- | HBS (10 mM HEPES pH 7.2, 150 mM NaCl) | pFastBac-Dual vector with gp67 signal peptide; virus amplified in SF9 cells; Hi5 cells infected at 2 x 10^6 cells/ml; supernatant collected 60 h post-infection |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA affinity | Ni-NTA resin (GE Healthcare) | HBS (10 mM HEPES pH 7.2, 150 mM NaCl) + -- | Eluted with 500 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) in HBS buffer |
-| Size-exclusion chromatography | Gel filtration | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) column (GE Healthcare) | HBS (10 mM HEPES pH 7.2, 150 mM NaCl) + -- | Pre-equilibrated with HBS; complex formed by mixing with ACE2 before SEC; concentrated to 13 mg/ml |
-
-#### Source: doi/10.1038##s41586-020-2179-y
-
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Baculovirus expression | Expression in Sf9 insect cells via Bac-to-Bac system (Life Technologies) | -- | 20 mM Tris pH 7.2, 200 mM NaCl | pFastBac vector with honeybee melittin signal peptide and C-terminal [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag/); RBD and ACE2 separately expressed and secreted into medium |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA affinity | Ni-NTA column | 20 mM Tris pH 7.2, 200 mM NaCl + -- | His6-tagged proteins purified from cell culture medium |
-| Size-exclusion chromatography | Gel filtration | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) column (GE Healthcare) | 20 mM Tris pH 7.2, 200 mM NaCl + -- | RBD and ACE2 incubated together; complex purified by Superdex200 gel-filtration; concentrated to 13 mg/ml |
-
-
-## Crystallization
-
-### doi/10.1016##j.cell.2020.03.045
-
-| Parameter | Value |
-|---|---|
-| Method | Sitting-drop vapor diffusion |
-| Protein sample | SARS-CoV-2 CTD/hACE2 complex, protein concentration 15 mg/ml |
-| Reservoir | 0.1 M MES pH 6.5, 10% w/v [PEG](/xray-mp-wiki/reagents/additives/peg/) 5000 MME, 12% v/v 1-propanol |
-| Temperature | 18 C |
-| Growth time | not specified |
-| Cryoprotection | Reservoir solution supplemented with 20% v/v [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) before flash-cooling in liquid nitrogen |
-| Notes | Crystals diffracted to 2.5 A; data collected at SSRF BL17U (wavelength 0.97919 A) |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>SARS-CoV-2 CTD/hACE2 complex, protein concentration 15 mg/ml</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.1 M MES pH 6.5, 10% w/v <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 5000 MME, 12% v/v 1-propanol</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>18 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Reservoir solution supplemented with 20% v/v <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> before flash-cooling in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals diffracted to 2.5 A; data collected at SSRF BL17U (wavelength 0.97919 A)</td>
+    </tr>
+  </tbody>
+</table>
 ### doi/10.1038##s41586-020-2180-5
 
-| Parameter | Value |
-|---|---|
-| Method | Sitting-drop vapor diffusion |
-| Protein sample | SARS-CoV-2 RBD/ACE2 complex at 13 mg/ml in 20 mM Tris pH 7.5, 150 mM NaCl |
-| Reservoir | 100 mM MES pH 6.5, 10% [PEG](/xray-mp-wiki/reagents/additives/peg/) 5000 MME, 12% 1-propanol |
-| Temperature | Room temperature |
-| Growth time | not specified |
-| Cryoprotection | Reservoir solution supplemented with 20% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) before flash-cooling in liquid nitrogen |
-| Notes | Sitting drops of 200 nl complex + 200 nl well solution; diffraction at 100 K, wavelength 1.07180 A on BL17U1 at SSRF; data processed with aquarium pipeline |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6m0j">6M0J</a></td>
+      <td>2.45 A</td>
+      <td>P4₁2₁2</td>
+      <td>SARS-CoV-2 RBD residues Arg319-Phe541, in complex with ACE2 (residues Ser19-Asp615)</td>
+      <td><a href="/xray-mp-wiki/proteins/slc-transporters/hace2/">Human Angiotensin-Converting Enzyme 2 (hACE2)</a> N-terminal peptidase domain, zinc ion</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Hi5 insect cells (baculovirus)
+- **Construct**: SARS-CoV-2 RBD residues Arg319-Phe541, N-terminal gp67 signal peptide for secretion, C-terminal 6xHis tag
+
+**Purification:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Baculovirus expression</td>
+      <td>Expression in Hi5 insect cells via Bac-to-Bac system</td>
+      <td>--</td>
+      <td>HBS (10 mM HEPES pH 7.2, 150 mM NaCl)</td>
+      <td>pFastBac-Dual vector with gp67 signal peptide; virus amplified in SF9 cells; Hi5 cells infected at 2 x 10^6 cells/ml; supernatant collected 60 h post-infection</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Ni-NTA affinity</td>
+      <td>Ni-NTA resin (GE Healthcare)</td>
+      <td>HBS (10 mM HEPES pH 7.2, 150 mM NaCl) + --</td>
+      <td>Eluted with 500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> in HBS buffer</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>Gel filtration</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> column (GE Healthcare)</td>
+      <td>HBS (10 mM HEPES pH 7.2, 150 mM NaCl) + --</td>
+      <td>Pre-equilibrated with HBS; complex formed by mixing with ACE2 before SEC; concentrated to 13 mg/ml</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>SARS-CoV-2 RBD/ACE2 complex at 13 mg/ml in 20 mM Tris pH 7.5, 150 mM NaCl</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>100 mM MES pH 6.5, 10% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 5000 MME, 12% 1-propanol</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Room temperature</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Reservoir solution supplemented with 20% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> before flash-cooling in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Sitting drops of 200 nl complex + 200 nl well solution; diffraction at 100 K, wavelength 1.07180 A on BL17U1 at SSRF; data processed with aquarium pipeline</td>
+    </tr>
+  </tbody>
+</table>
 ### doi/10.1038##s41586-020-2179-y
 
-| Parameter | Value |
-|---|---|
-| Method | Sitting-drop vapor diffusion |
-| Protein sample | SARS-CoV-2 chimeric RBD-ACE2 complex at 13 mg/ml |
-| Reservoir | 100 mM Tris pH 8.5, 18-20% [PEG](/xray-mp-wiki/reagents/additives/peg/) 6000, 100 mM NaCl |
-| Temperature | Room temperature |
-| Growth time | not specified |
-| Cryoprotection | 100 mM Tris pH 8.5, 30% [PEG](/xray-mp-wiki/reagents/additives/peg/) 6000, 100 mM NaCl, 30% [Ethylene Glycol](/xray-mp-wiki/reagents/additives/ethylene-glycol/); flash-frozen in liquid nitrogen |
-| Notes | X-ray diffraction data collected at Advanced Photon Source beamline 24-ID-E; structure determined by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) using SARS-CoV RBD-ACE2 (PDB 2AJF) |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6vw1">6VW1</a></td>
+      <td>2.68 A</td>
+      <td>P 21 21 21</td>
+      <td>SARS-CoV-2 chimeric RBD (SARS-CoV-2 core + SARS-CoV side loop) in complex with human ACE2 (residues 1-615)</td>
+      <td>human ACE2 (residues 1-615), zinc ion</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Hi5 insect cells (baculovirus)
+- **Construct**: SARS-CoV-2 RBD residues Arg319-Phe541, N-terminal gp67 signal peptide for secretion, C-terminal 6xHis tag
+
+**Purification:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Baculovirus expression</td>
+      <td>Expression in Sf9 insect cells via Bac-to-Bac system (Life Technologies)</td>
+      <td>--</td>
+      <td>20 mM Tris pH 7.2, 200 mM NaCl</td>
+      <td>pFastBac vector with honeybee melittin signal peptide and C-terminal <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">Polyhistidine Tag (His6)</a>; RBD and ACE2 separately expressed and secreted into medium</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Ni-NTA affinity</td>
+      <td>Ni-NTA column</td>
+      <td>20 mM Tris pH 7.2, 200 mM NaCl + --</td>
+      <td>His6-tagged proteins purified from cell culture medium</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>Gel filtration</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> column (GE Healthcare)</td>
+      <td>20 mM Tris pH 7.2, 200 mM NaCl + --</td>
+      <td>RBD and ACE2 incubated together; complex purified by Superdex200 gel-filtration; concentrated to 13 mg/ml</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>SARS-CoV-2 chimeric RBD-ACE2 complex at 13 mg/ml</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>100 mM Tris pH 8.5, 18-20% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 6000, 100 mM NaCl</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Room temperature</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>100 mM Tris pH 8.5, 30% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 6000, 100 mM NaCl, 30% <a href="/xray-mp-wiki/reagents/additives/ethylene-glycol/">Ethylene Glycol</a>; flash-frozen in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>X-ray diffraction data collected at Advanced Photon Source beamline 24-ID-E; structure determined by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using SARS-CoV RBD-ACE2 (PDB 2AJF)</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -130,13 +336,13 @@ The 2.68 A crystal structure of the SARS-CoV-2 chimeric RBD-ACE2 complex (PDB 6V
 
 ## Cross-References
 
-- [Human Angiotensin-Converting Enzyme 2 (hACE2)](/xray-mp-wiki/proteins/slc-transporters/hace2/) — Co-crystallized receptor in PDB 6LZG, 6M0J and 6VW1
-- [2-(N-Morpholino)ethanesulfonic Acid (MES)](/xray-mp-wiki/reagents/buffers/mes/) — Crystallization buffer at pH 6.5
-- [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) — PEG 5000 MME used as crystallization precipitant
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Cryoprotectant (20% v/v) for flash-cooling crystals
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Protein A affinity purification of mFc-fusion protein; Ni-NTA affinity of His-tagged RBD
-- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Final purification step for SARS-CoV-2 CTD-mFc and RBD-ACE2 complex
-- [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) — 10 mM HEPES pH 7.2 used in HBS purification buffer
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — 500 mM imidazole used for elution from Ni-NTA resin
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
-- [Ethylene Glycol](/xray-mp-wiki/reagents/additives/ethylene-glycol/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/proteins/slc-transporters/hace2/">Human Angiotensin-Converting Enzyme 2 (hACE2)</a> — Co-crystallized receptor in PDB 6LZG, 6M0J and 6VW1
+- <a href="/xray-mp-wiki/reagents/buffers/mes/">2-(N-Morpholino)ethanesulfonic Acid (MES)</a> — Crystallization buffer at pH 6.5
+- <a href="/xray-mp-wiki/reagents/additives/peg/">PEG (Polyethylene Glycol)</a> — PEG 5000 MME used as crystallization precipitant
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Cryoprotectant (20% v/v) for flash-cooling crystals
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Protein A affinity purification of mFc-fusion protein; Ni-NTA affinity of His-tagged RBD
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> — Final purification step for SARS-CoV-2 CTD-mFc and RBD-ACE2 complex
+- <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> — 10 mM HEPES pH 7.2 used in HBS purification buffer
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — 500 mM imidazole used for elution from Ni-NTA resin
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/ethylene-glycol/">Ethylene Glycol</a> — Additive used in purification or crystallization buffers

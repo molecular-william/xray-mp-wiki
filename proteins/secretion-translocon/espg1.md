@@ -1,7 +1,7 @@
 ---
 title: "EspG1"
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,42 +17,98 @@ verified: false
 EspG1 is the ESX-1-specific chaperone from Mycobacterium tuberculosis that belongs to the EspG chaperone family. EspG chaperones mediate the secretion of PE-PPE proteins and other ESX substrates by binding to a conserved motif on the PPE domain and protecting the heterodimer from self-polymerization. EspG1 is specific to the ESX-1 secretion system, while other EspG paralogs (EspG3, EspG5) are specific to ESX-3 and ESX-5 respectively. EspG1 does not bind [EspB](/xray-mp-wiki/proteins/espB), distinguishing EspB from canonical PE-PPE heterodimers that require EspG chaperones for folding and stability.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.jsb.2015.06.003 | 4KXR | Not specified | Not specified | EspG5 in complex with PE25-[PPE41](/xray-mp-wiki/proteins/ppe41) heterodimer | PE25-[PPE41](/xray-mp-wiki/proteins/ppe41) heterodimer |
-| doi/10.1016##j.jsb.2015.06.003 | 4W4L | Not specified | Not specified | EspG5 in complex with PE25-[PPE41](/xray-mp-wiki/proteins/ppe41) heterodimer | PE25-[PPE41](/xray-mp-wiki/proteins/ppe41) heterodimer |
+### doi/10.1016##j.jsb.2015.06.003
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4kxr">4KXR</a></td>
+      <td>Not specified</td>
+      <td>Not specified</td>
+      <td>EspG5 in complex with PE25-<a href="/xray-mp-wiki/proteins/ppe41">PPE41</a> heterodimer</td>
+      <td>PE25-<a href="/xray-mp-wiki/proteins/ppe41">PPE41</a> heterodimer</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4w4l">4W4L</a></td>
+      <td>Not specified</td>
+      <td>Not specified</td>
+      <td>EspG5 in complex with PE25-<a href="/xray-mp-wiki/proteins/ppe41">PPE41</a> heterodimer</td>
+      <td>PE25-<a href="/xray-mp-wiki/proteins/ppe41">PPE41</a> heterodimer</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Not specified in this paper
 - **Construct**: EspG1 expressed in E. coli for pull-down experiments with [EspB](/xray-mp-wiki/proteins/espB)
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Expression and purification</td>
+      <td>Not specified</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>EspG1 expressed in E. coli for pull-down experiments with <a href="/xray-mp-wiki/proteins/espB">EspB</a>; detailed purification described in Korotkova et al. (2014) Mol Microbiol</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression and purification | Not specified | -- | -- + -- | EspG1 expressed in E. coli for pull-down experiments with [EspB](/xray-mp-wiki/proteins/espB); detailed purification described in Korotkova et al. (2014) Mol Microbiol |
-
-
-## Crystallization
-
-### doi/10.1016##j.jsb.2015.06.003
-
-| Parameter | Value |
-|---|---|
-| Method | Not specified in this paper |
-| Protein sample | EspG5-PE25-[PPE41](/xray-mp-wiki/proteins/ppe41) complex |
-| Reservoir | -- |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Structures of EspG5-PE25-[PPE41](/xray-mp-wiki/proteins/ppe41) complex described in Korotkova et al. (2014) Mol Microbiol and Ekiert and Cox (2014) PNAS 111:14758-14763 |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Not specified in this paper</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>EspG5-PE25-<a href="/xray-mp-wiki/proteins/ppe41">PPE41</a> complex</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Structures of EspG5-PE25-<a href="/xray-mp-wiki/proteins/ppe41">PPE41</a> complex described in Korotkova et al. (2014) Mol Microbiol and Ekiert and Cox (2014) PNAS 111:14758-14763</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -71,8 +127,8 @@ Different EspG chaperones are specific to different ESX systems: EspG1 for ESX-1
 
 ## Cross-References
 
-- [PE25](/xray-mp-wiki/proteins/secretion-translocon/pe25/) — EspG chaperones bind the PE25-[PPE41](/xray-mp-wiki/proteins/ppe41) heterodimer to protect it from self-polymerization
-- [PPE41](/xray-mp-wiki/proteins/secretion-translocon/ppe41/) — EspG chaperones bind the hh motif on [PPE41](/xray-mp-wiki/proteins/ppe41) for heterodimer folding and secretion
-- [EspB](/xray-mp-wiki/proteins/secretion-translocon/espB/) — [EspB](/xray-mp-wiki/proteins/espB) does not bind EspG1, unlike canonical PE-PPE heterodimers
-- [ESX-1 Secretion System](/xray-mp-wiki/concepts/transport-mechanisms/esx-1-secretion-system/) — EspG1 is the ESX-1-specific chaperone for PE-PPE protein secretion
-- [PE-PPE Fusion Proteins](/xray-mp-wiki/concepts/construct-design/pe-ppe-fusion-proteins/) — EspG1 chaperones are not required for PE-PPE fusion proteins like [EspB](/xray-mp-wiki/proteins/espB)
+- <a href="/xray-mp-wiki/proteins/secretion-translocon/pe25/">PE25</a> — EspG chaperones bind the PE25-[PPE41](/xray-mp-wiki/proteins/ppe41) heterodimer to protect it from self-polymerization
+- <a href="/xray-mp-wiki/proteins/secretion-translocon/ppe41/">PPE41</a> — EspG chaperones bind the hh motif on [PPE41](/xray-mp-wiki/proteins/ppe41) for heterodimer folding and secretion
+- <a href="/xray-mp-wiki/proteins/secretion-translocon/espB/">EspB</a> — [EspB](/xray-mp-wiki/proteins/espB) does not bind EspG1, unlike canonical PE-PPE heterodimers
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/esx-1-secretion-system/">ESX-1 Secretion System</a> — EspG1 is the ESX-1-specific chaperone for PE-PPE protein secretion
+- <a href="/xray-mp-wiki/concepts/construct-design/pe-ppe-fusion-proteins/">PE-PPE Fusion Proteins</a> — EspG1 chaperones are not required for PE-PPE fusion proteins like [EspB](/xray-mp-wiki/proteins/espB)

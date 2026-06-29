@@ -1,7 +1,7 @@
 ---
 title: "SotB (Escherichia coli Drug-Proton Antiporter)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,43 +17,778 @@ verified: false
 SotB is a drug-proton antiporter (DHA) from the DHA1 family (TCDB: 2.A.1.2) of the Major Facilitator Superfamily ([MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/)) in Escherichia coli. Drug-proton antiporters play an important role in multi-drug resistance by utilizing the proton-motive force to drive the expulsion of toxic molecules, including antibiotics and drugs. SotB has the conserved [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) fold with 12 transmembrane helices divided into N and C six-helix bundles connected by a cytosolic loop region. Four crystal structures of SotB were captured in different conformations, including substrate-bound occluded, inward-facing, and inward-open states, revealing nonlinear rigid-body movements of alternating access during the state transition from inward-open to occluded conformation.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.bbrc.2020.11.096 | 6KKI | unknown | unknown | E. coli SotB (DHA1 family [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) transporter) | Substrate-bound occluded |
-| doi/10.1016##j.bbrc.2020.11.096 | 6KKI | unknown | unknown | E. coli SotB | Inward-facing state |
-| doi/10.1016##j.bbrc.2020.11.096 | 6KKI | unknown | unknown | E. coli SotB | Inward-open state |
+### doi/10.1016##j.bbrc.2020.11.096
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6kki">6KKI</a></td>
+      <td>unknown</td>
+      <td>unknown</td>
+      <td>E. coli SotB (DHA1 family <a href="/xray-mp-wiki/concepts/protein-families/mfs-transporter/">MFS</a> transporter)</td>
+      <td>Substrate-bound occluded</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6kki">6KKI</a></td>
+      <td>unknown</td>
+      <td>unknown</td>
+      <td>E. coli SotB</td>
+      <td>Inward-facing state</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6kki">6KKI</a></td>
+      <td>unknown</td>
+      <td>unknown</td>
+      <td>E. coli SotB</td>
+      <td>Inward-open state</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli
 - **Construct**: E. coli SotB full-length protein
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Expression and purification</td>
+      <td>Recombinant expression in E. coli</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>Details provided in Materials and Methods of the paper</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression and purification | Recombinant expression in E. coli | -- | -- + -- | Details provided in Materials and Methods of the paper |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified SotB in detergent micelles</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not specified in extracted text</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Four crystal structures captured in different conformations: substrate-bound occluded, inward-facing, and inward-open states. The structures reveal nonlinear rigid-body movements of alternating access during the state transition from inward-open to occluded conformation. SotB belongs to the DHA1 family (TCDB: 2.A.1.2) of <a href="/xray-mp-wiki/concepts/protein-families/mfs-transporter/">MFS</a> transporters. Data collected at Shanghai Synchrotron Radiation Facility (SSRF).</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6kki">6KKI</a> — Chain A (12 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHSDEVDAHMTTNTVSRK</span><span class="topo-inside">VAWLRVV</span><span class="topo-membrane">TLAVAAFIFNTTEFVPV</span></span>
+<span class="topo-line"><span class="topo-membrane">GL</span><span class="topo-outside">LSDIAQSFHMQTAQVG</span><span class="topo-membrane">IMLTIYAWVVALMSLPFMLMT</span><span class="topo-inside">SQVERRK</span><span class="topo-membrane">LLICLFVVFIASHV</span></span>
+<span class="topo-line"><span class="topo-membrane">LSFLS</span><span class="topo-outside">WSFT</span><span class="topo-membrane">VLVISRIGVAFAHAIFWSIT</span><span class="topo-inside">ASLAIRMA</span><span class="topo-unknown">PAGKR</span><span class="topo-inside">AQALS</span><span class="topo-membrane">LIATGTALAMVLG</span></span>
+<span class="topo-line"><span class="topo-membrane">LPLGRIVG</span><span class="topo-outside">QYFGW</span><span class="topo-membrane">RMTFFAIGIGALITLLCLIK</span><span class="topo-inside">LLP</span><span class="topo-unknown">LLPSEHSGSLK</span><span class="topo-inside">SLPLLFRRPALM</span><span class="topo-membrane">S</span></span>
+<span class="topo-line"><span class="topo-membrane">IYLLTVVVVTAHYTAYSYI</span><span class="topo-outside">EPFVQNIAGFSANFAT</span><span class="topo-membrane">ALLLLLGGAGIIGSVIFGKLG</span><span class="topo-inside">NQY</span><span class="topo-membrane">A</span></span>
+<span class="topo-line"><span class="topo-membrane">SALVSTAIALLLVCLALL</span><span class="topo-outside">LPAANSEIH</span><span class="topo-membrane">LGVLSIFWGIAMMIIGLGMQV</span><span class="topo-inside">KVLALAPDATDV</span></span>
+<span class="topo-line"><span class="topo-inside">AM</span><span class="topo-membrane">ALFSGIFNIGIGAGALVGNQ</span><span class="topo-outside">VSLHWSMSMI</span><span class="topo-membrane">GYVGAVPAFAALIWSIIIF</span><span class="topo-inside">RRWPVTL</span><span class="topo-unknown">EE</span></span>
+<span class="topo-line"><span class="topo-unknown">QTQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>37</td>
+      <td>43</td>
+      <td>10</td>
+      <td>16</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>62</td>
+      <td>17</td>
+      <td>35</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>78</td>
+      <td>36</td>
+      <td>51</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>99</td>
+      <td>52</td>
+      <td>72</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>106</td>
+      <td>73</td>
+      <td>79</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>107</td>
+      <td>125</td>
+      <td>80</td>
+      <td>98</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>126</td>
+      <td>129</td>
+      <td>99</td>
+      <td>102</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>149</td>
+      <td>103</td>
+      <td>122</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>150</td>
+      <td>157</td>
+      <td>123</td>
+      <td>130</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>163</td>
+      <td>167</td>
+      <td>136</td>
+      <td>140</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>168</td>
+      <td>188</td>
+      <td>141</td>
+      <td>161</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>189</td>
+      <td>193</td>
+      <td>162</td>
+      <td>166</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>194</td>
+      <td>213</td>
+      <td>167</td>
+      <td>186</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>216</td>
+      <td>187</td>
+      <td>189</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>228</td>
+      <td>239</td>
+      <td>201</td>
+      <td>212</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>240</td>
+      <td>259</td>
+      <td>213</td>
+      <td>232</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>260</td>
+      <td>275</td>
+      <td>233</td>
+      <td>248</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>276</td>
+      <td>296</td>
+      <td>249</td>
+      <td>269</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>297</td>
+      <td>299</td>
+      <td>270</td>
+      <td>272</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>318</td>
+      <td>273</td>
+      <td>291</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>319</td>
+      <td>327</td>
+      <td>292</td>
+      <td>300</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>328</td>
+      <td>348</td>
+      <td>301</td>
+      <td>321</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>349</td>
+      <td>362</td>
+      <td>322</td>
+      <td>335</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>363</td>
+      <td>382</td>
+      <td>336</td>
+      <td>355</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>383</td>
+      <td>392</td>
+      <td>356</td>
+      <td>365</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>393</td>
+      <td>411</td>
+      <td>366</td>
+      <td>384</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>412</td>
+      <td>418</td>
+      <td>385</td>
+      <td>391</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1016##j.bbrc.2020.11.096
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6kki">6KKI</a> — Chain A (12 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | Purified SotB in detergent micelles |
-| Reservoir | Not specified in extracted text |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Four crystal structures captured in different conformations: substrate-bound occluded, inward-facing, and inward-open states. The structures reveal nonlinear rigid-body movements of alternating access during the state transition from inward-open to occluded conformation. SotB belongs to the DHA1 family (TCDB: 2.A.1.2) of [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) transporters. Data collected at Shanghai Synchrotron Radiation Facility (SSRF). |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHSDEVDAHMTTNTVSRK</span><span class="topo-inside">VAWLRVV</span><span class="topo-membrane">TLAVAAFIFNTTEFVPV</span></span>
+<span class="topo-line"><span class="topo-membrane">GL</span><span class="topo-outside">LSDIAQSFHMQTAQVG</span><span class="topo-membrane">IMLTIYAWVVALMSLPFMLMT</span><span class="topo-inside">SQVERRK</span><span class="topo-membrane">LLICLFVVFIASHV</span></span>
+<span class="topo-line"><span class="topo-membrane">LSFLS</span><span class="topo-outside">WSFT</span><span class="topo-membrane">VLVISRIGVAFAHAIFWSIT</span><span class="topo-inside">ASLAIRMA</span><span class="topo-unknown">PAGKR</span><span class="topo-inside">AQALS</span><span class="topo-membrane">LIATGTALAMVLG</span></span>
+<span class="topo-line"><span class="topo-membrane">LPLGRIVG</span><span class="topo-outside">QYFGW</span><span class="topo-membrane">RMTFFAIGIGALITLLCLIK</span><span class="topo-inside">LLP</span><span class="topo-unknown">LLPSEHSGSLK</span><span class="topo-inside">SLPLLFRRPALM</span><span class="topo-membrane">S</span></span>
+<span class="topo-line"><span class="topo-membrane">IYLLTVVVVTAHYTAYSYI</span><span class="topo-outside">EPFVQNIAGFSANFAT</span><span class="topo-membrane">ALLLLLGGAGIIGSVIFGKLG</span><span class="topo-inside">NQY</span><span class="topo-membrane">A</span></span>
+<span class="topo-line"><span class="topo-membrane">SALVSTAIALLLVCLALL</span><span class="topo-outside">LPAANSEIH</span><span class="topo-membrane">LGVLSIFWGIAMMIIGLGMQV</span><span class="topo-inside">KVLALAPDATDV</span></span>
+<span class="topo-line"><span class="topo-inside">AM</span><span class="topo-membrane">ALFSGIFNIGIGAGALVGNQ</span><span class="topo-outside">VSLHWSMSMI</span><span class="topo-membrane">GYVGAVPAFAALIWSIIIF</span><span class="topo-inside">RRWPVTL</span><span class="topo-unknown">EE</span></span>
+<span class="topo-line"><span class="topo-unknown">QTQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>37</td>
+      <td>43</td>
+      <td>10</td>
+      <td>16</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>62</td>
+      <td>17</td>
+      <td>35</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>78</td>
+      <td>36</td>
+      <td>51</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>99</td>
+      <td>52</td>
+      <td>72</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>106</td>
+      <td>73</td>
+      <td>79</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>107</td>
+      <td>125</td>
+      <td>80</td>
+      <td>98</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>126</td>
+      <td>129</td>
+      <td>99</td>
+      <td>102</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>149</td>
+      <td>103</td>
+      <td>122</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>150</td>
+      <td>157</td>
+      <td>123</td>
+      <td>130</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>163</td>
+      <td>167</td>
+      <td>136</td>
+      <td>140</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>168</td>
+      <td>188</td>
+      <td>141</td>
+      <td>161</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>189</td>
+      <td>193</td>
+      <td>162</td>
+      <td>166</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>194</td>
+      <td>213</td>
+      <td>167</td>
+      <td>186</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>216</td>
+      <td>187</td>
+      <td>189</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>228</td>
+      <td>239</td>
+      <td>201</td>
+      <td>212</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>240</td>
+      <td>259</td>
+      <td>213</td>
+      <td>232</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>260</td>
+      <td>275</td>
+      <td>233</td>
+      <td>248</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>276</td>
+      <td>296</td>
+      <td>249</td>
+      <td>269</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>297</td>
+      <td>299</td>
+      <td>270</td>
+      <td>272</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>318</td>
+      <td>273</td>
+      <td>291</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>319</td>
+      <td>327</td>
+      <td>292</td>
+      <td>300</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>328</td>
+      <td>348</td>
+      <td>301</td>
+      <td>321</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>349</td>
+      <td>362</td>
+      <td>322</td>
+      <td>335</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>363</td>
+      <td>382</td>
+      <td>336</td>
+      <td>355</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>383</td>
+      <td>392</td>
+      <td>356</td>
+      <td>365</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>393</td>
+      <td>411</td>
+      <td>366</td>
+      <td>384</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>412</td>
+      <td>418</td>
+      <td>385</td>
+      <td>391</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6kki">6KKI</a> — Chain A (12 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHSDEVDAHMTTNTVSRK</span><span class="topo-inside">VAWLRVV</span><span class="topo-membrane">TLAVAAFIFNTTEFVPV</span></span>
+<span class="topo-line"><span class="topo-membrane">GL</span><span class="topo-outside">LSDIAQSFHMQTAQVG</span><span class="topo-membrane">IMLTIYAWVVALMSLPFMLMT</span><span class="topo-inside">SQVERRK</span><span class="topo-membrane">LLICLFVVFIASHV</span></span>
+<span class="topo-line"><span class="topo-membrane">LSFLS</span><span class="topo-outside">WSFT</span><span class="topo-membrane">VLVISRIGVAFAHAIFWSIT</span><span class="topo-inside">ASLAIRMA</span><span class="topo-unknown">PAGKR</span><span class="topo-inside">AQALS</span><span class="topo-membrane">LIATGTALAMVLG</span></span>
+<span class="topo-line"><span class="topo-membrane">LPLGRIVG</span><span class="topo-outside">QYFGW</span><span class="topo-membrane">RMTFFAIGIGALITLLCLIK</span><span class="topo-inside">LLP</span><span class="topo-unknown">LLPSEHSGSLK</span><span class="topo-inside">SLPLLFRRPALM</span><span class="topo-membrane">S</span></span>
+<span class="topo-line"><span class="topo-membrane">IYLLTVVVVTAHYTAYSYI</span><span class="topo-outside">EPFVQNIAGFSANFAT</span><span class="topo-membrane">ALLLLLGGAGIIGSVIFGKLG</span><span class="topo-inside">NQY</span><span class="topo-membrane">A</span></span>
+<span class="topo-line"><span class="topo-membrane">SALVSTAIALLLVCLALL</span><span class="topo-outside">LPAANSEIH</span><span class="topo-membrane">LGVLSIFWGIAMMIIGLGMQV</span><span class="topo-inside">KVLALAPDATDV</span></span>
+<span class="topo-line"><span class="topo-inside">AM</span><span class="topo-membrane">ALFSGIFNIGIGAGALVGNQ</span><span class="topo-outside">VSLHWSMSMI</span><span class="topo-membrane">GYVGAVPAFAALIWSIIIF</span><span class="topo-inside">RRWPVTL</span><span class="topo-unknown">EE</span></span>
+<span class="topo-line"><span class="topo-unknown">QTQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>37</td>
+      <td>43</td>
+      <td>10</td>
+      <td>16</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>62</td>
+      <td>17</td>
+      <td>35</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>78</td>
+      <td>36</td>
+      <td>51</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>99</td>
+      <td>52</td>
+      <td>72</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>106</td>
+      <td>73</td>
+      <td>79</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>107</td>
+      <td>125</td>
+      <td>80</td>
+      <td>98</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>126</td>
+      <td>129</td>
+      <td>99</td>
+      <td>102</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>149</td>
+      <td>103</td>
+      <td>122</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>150</td>
+      <td>157</td>
+      <td>123</td>
+      <td>130</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>163</td>
+      <td>167</td>
+      <td>136</td>
+      <td>140</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>168</td>
+      <td>188</td>
+      <td>141</td>
+      <td>161</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>189</td>
+      <td>193</td>
+      <td>162</td>
+      <td>166</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>194</td>
+      <td>213</td>
+      <td>167</td>
+      <td>186</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>216</td>
+      <td>187</td>
+      <td>189</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>228</td>
+      <td>239</td>
+      <td>201</td>
+      <td>212</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>240</td>
+      <td>259</td>
+      <td>213</td>
+      <td>232</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>260</td>
+      <td>275</td>
+      <td>233</td>
+      <td>248</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>276</td>
+      <td>296</td>
+      <td>249</td>
+      <td>269</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>297</td>
+      <td>299</td>
+      <td>270</td>
+      <td>272</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>318</td>
+      <td>273</td>
+      <td>291</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>319</td>
+      <td>327</td>
+      <td>292</td>
+      <td>300</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>328</td>
+      <td>348</td>
+      <td>301</td>
+      <td>321</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>349</td>
+      <td>362</td>
+      <td>322</td>
+      <td>335</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>363</td>
+      <td>382</td>
+      <td>336</td>
+      <td>355</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>383</td>
+      <td>392</td>
+      <td>356</td>
+      <td>365</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>393</td>
+      <td>411</td>
+      <td>366</td>
+      <td>384</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>412</td>
+      <td>418</td>
+      <td>385</td>
+      <td>391</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -64,7 +799,7 @@ The four SotB structures reveal that the transition from inward-open to occluded
 
 ## Cross-References
 
-- [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA/) — Related MFS drug-proton antiporter for comparative structural analysis
-- [NarK Nitrate/Nitrite Antiporter](/xray-mp-wiki/proteins/mfs-transporters/nark/) — Related MFS transporter with alternating access mechanism
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — SotB belongs to the DHA1 family of the MFS superfamily
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Related biological concept
+- <a href="/xray-mp-wiki/proteins/mfs-transporters/mdfA/">MdfA Multidrug Efflux Transporter</a> — Related MFS drug-proton antiporter for comparative structural analysis
+- <a href="/xray-mp-wiki/proteins/mfs-transporters/nark/">NarK Nitrate/Nitrite Antiporter</a> — Related MFS transporter with alternating access mechanism
+- <a href="/xray-mp-wiki/concepts/protein-families/mfs-transporter/">Major Facilitator Superfamily (MFS)</a> — SotB belongs to the DHA1 family of the MFS superfamily
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating Access Mechanism</a> — Related biological concept

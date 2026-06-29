@@ -1,7 +1,7 @@
 ---
 title: "SNAP29 (Synaptosomal-Associated Protein 29)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -21,23 +21,37 @@ helices to the bundle (Qb residues 40-126, Qc residues 191-258) and the conserve
 residues Q84 (Qb) and Q230 (Qc) that participate in the hydrophilic 0-layer.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.2006997117 | 7BV6 |  |  | SNAP29 Qb-SNARE (40-126) and Qc-SNARE (191-258) in complex with [STX17](/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/) and [VAMP8 (Vesicle-Associated Membrane Protein 8)](/xray-mp-wiki/proteins/structural-adhesion/vamp8/) | none |
+### doi/10.1073##pnas.2006997117
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7bv6">7BV6</a></td>
+      <td></td>
+      <td></td>
+      <td>SNAP29 Qb-SNARE (40-126) and Qc-SNARE (191-258) in complex with <a href="/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/">STX17</a> and <a href="/xray-mp-wiki/proteins/structural-adhesion/vamp8/">VAMP8 (Vesicle-Associated Membrane Protein 8)</a></td>
+      <td>none</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli BL21(DE3)
 - **Construct**: Human SNAP29 Qb (40-126) and Qc (191-258) fragments
 - **Notes**: Expressed with MBP or GB1 tags using in-house modified pET32a vectors. Induced with 100 uM [IPTG](/xray-mp-wiki/reagents/additives/iptg/) at 16 C.
 
-No purification described.
-
-## Crystallization
-
-No crystallization described.
 
 ## Biological / Functional Insights
 
@@ -51,7 +65,7 @@ SNARE core complex formation.
 
 ## Cross-References
 
-- [Syntaxin17 (STX17)](/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/) — SNAP29 assembles with STX17 and VAMP8 to form the autophagic SNARE complex
-- [VAMP8](/xray-mp-wiki/proteins/structural-adhesion/vamp8/) — VAMP8 is the R-SNARE partner in the autophagic SNARE complex
-- [Autophagic SNARE Fusion Mechanism](/xray-mp-wiki/concepts/construct-design/autophagic-snare-fusion-mechanism/) — SNAP29 provides two of the four helices in the autophagic SNARE complex
-- [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/">Syntaxin17 (STX17)</a> — SNAP29 assembles with STX17 and VAMP8 to form the autophagic SNARE complex
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/vamp8/">VAMP8</a> — VAMP8 is the R-SNARE partner in the autophagic SNARE complex
+- <a href="/xray-mp-wiki/concepts/construct-design/autophagic-snare-fusion-mechanism/">Autophagic SNARE Fusion Mechanism</a> — SNAP29 provides two of the four helices in the autophagic SNARE complex
+- <a href="/xray-mp-wiki/reagents/additives/iptg/">IPTG</a> — Additive used in purification or crystallization buffers

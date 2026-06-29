@@ -1,7 +1,7 @@
 ---
 title: "Human Adenosine A2A Receptor A2A-PSB1-bRIL Complex"
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,44 +16,478 @@ verified: false
 
 The [A2AAR](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar) (A2AAR) is a class A GPCR and an important drug target for immuno-oncology and neurodegenerative diseases. A novel thermostabilized mutant construct, A2A-PSB1-bRIL, was engineered with a single S91K mutation that confers superior stability compared to the previously used A2A-StaR2 construct with nine mutations. This enabled the first high-resolution co-crystal structures of a GPCR in complex with PEGylated and fluorophore-labeled antagonist derivatives.
 
-## Structure Determination
-
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1002##anie.202115545 | 7PX4 | 2.25 A | P212121 | A2AAR with single S91K mutation, C-terminus truncated, ICL3 replaced by [bRIL](/xray-mp-wiki/reagents/protein-tags/bril/) fusion protein | PSB-2113 (PEGylated [Preladenant](/xray-mp-wiki/reagents/ligands/preladenant)) |
-| doi/10.1002##anie.202115545 | 7PYR | 2.6 A | P212121 | A2AAR with single S91K mutation, C-terminus truncated, ICL3 replaced by [bRIL](/xray-mp-wiki/reagents/protein-tags/bril/) fusion protein | PSB-2115 (BODIPY-labeled [Preladenant](/xray-mp-wiki/reagents/ligands/preladenant) derivative) |
-
-## Expression and Purification
-
-- **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/sf9-insect-cells)
-- **Construct**: A2AAR with S91K mutation (S91K in position 3,30), C-terminal truncation, ICL3 replaced by [bRIL](/xray-mp-wiki/reagents/protein-tags/bril/) fusion protein
-
-### Purification Workflow
-
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture and membrane preparation | Sf9 insect cell expression | -- | -- + -- | Receptor expressed in [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/sf9-insect-cells); membranes harvested for binding assays and purification |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) | Ni-NTA [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta) | -- | [His Tag](/xray-mp-wiki/reagents/protein-tags/his-tag) on bRIL fusion partner used for affinity capture |
-| [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) | [Size-exclusion chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) column | -- | Analytical SEC confirmed presence of fluorophore in A2A-PSB1-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril)-PSB-2115 complex at 495 nm absorption maximum |
-
-
-## Crystallization
+## Publications
 
 ### doi/10.1002##anie.202115545
 
-| Parameter | Value |
-|---|---|
-| Method | [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) |
-| Protein sample | A2A-PSB1-bRIL co-crystallized with [PSB-2113 (PEGylated Preladenant)](/xray-mp-wiki/reagents/ligands/psb-2113) or PSB-2115 |
-| Reservoir | not specified in main text |
-| Temperature | not specified in main text |
-| Growth time | not specified in main text |
-| Cryoprotection | not specified in main text |
-| Notes | Crystals diffracted to 2.25 A (PDB: 7PX4) and 2.6 A (PDB: 7PYR). Data deposited in the Protein Data Bank under accession codes 7PX4 and 7PYR. |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7px4">7PX4</a></td>
+      <td>2.25 A</td>
+      <td>P212121</td>
+      <td>A2AAR with single S91K mutation, C-terminus truncated, ICL3 replaced by <a href="/xray-mp-wiki/reagents/protein-tags/bril/">bRIL</a> fusion protein</td>
+      <td>PSB-2113 (PEGylated <a href="/xray-mp-wiki/reagents/ligands/preladenant">Preladenant</a>)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7pyr">7PYR</a></td>
+      <td>2.6 A</td>
+      <td>P212121</td>
+      <td>A2AAR with single S91K mutation, C-terminus truncated, ICL3 replaced by <a href="/xray-mp-wiki/reagents/protein-tags/bril/">bRIL</a> fusion protein</td>
+      <td>PSB-2115 (BODIPY-labeled <a href="/xray-mp-wiki/reagents/ligands/preladenant">Preladenant</a> derivative)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/sf9-insect-cells)
+- **Construct**: A2AAR with S91K mutation (S91K in position 3,30), C-terminal [truncation](/xray-mp-wiki/concepts/truncation/), ICL3 replaced by [bRIL](/xray-mp-wiki/reagents/protein-tags/bril/) fusion protein
+
+**Purification:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture and membrane preparation</td>
+      <td>Sf9 insect cell expression</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>Receptor expressed in <a href="/xray-mp-wiki/methods/expression-systems/sf9-insect-cells">Sf9 Insect Cells</a>; membranes harvested for binding assays and purification</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a></td>
+      <td>--</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/his-tag">His Tag</a> on <a href="/xray-mp-wiki/reagents/protein-tags/bril">bRIL</a> fusion partner used for affinity capture</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a> column</td>
+      <td>--</td>
+      <td>Analytical <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a> confirmed presence of fluorophore in A2A-PSB1-<a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL</a>-PSB-2115 complex at 495 <a href="/xray-mp-wiki/reagents/detergents/nm/">nm</a> absorption maximum</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>A2A-PSB1-<a href="/xray-mp-wiki/reagents/protein-tags/bril">bRIL</a> co-crystallized with <a href="/xray-mp-wiki/reagents/ligands/psb-2113">PSB-2113 (PEGylated Preladenant)</a> or PSB-2115</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>not specified in main text</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>not specified in main text</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>not specified in main text</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>not specified in main text</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals diffracted to 2.25 A (PDB: 7PX4) and 2.6 A (PDB: 7PYR). Data deposited in the Protein Data Bank under accession codes 7PX4 and 7PYR.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7px4">7PX4</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDD</span><span class="topo-inside">DGAPPIMGSSV</span><span class="topo-membrane">YITVELAIAVLAILGNVLVCWAVWL</span><span class="topo-outside">NS</span></span>
+<span class="topo-line"><span class="topo-outside">NLQNV</span><span class="topo-membrane">TNYFVVSLAAADIAVGVLAIPFAI</span><span class="topo-inside">TISTGFCAACHGCLF</span><span class="topo-membrane">IACFVLVLTQSKIFSL</span></span>
+<span class="topo-line"><span class="topo-membrane">LAIAIDRYI</span><span class="topo-outside">AIRIPLRYNGLV</span><span class="topo-membrane">TGTRAKGIIAICWVLSFAIGLTPML</span><span class="topo-inside">GWNNCGQPKEGKNH</span></span>
+<span class="topo-line"><span class="topo-inside">SQGCGEGQVACLFEDVVPMN</span><span class="topo-membrane">YMVYFNFFACVLVPLLLMLGVYLRIF</span><span class="topo-outside">LAARRQLADLEDNW</span></span>
+<span class="topo-line"><span class="topo-outside">ETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPDSP</span><span class="topo-outside">EMKDFRHGFDI</span></span>
+<span class="topo-line"><span class="topo-outside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHA</span><span class="topo-membrane">AKSLAIIV</span></span>
+<span class="topo-line"><span class="topo-membrane">GLFALCWLPLHIINCF</span><span class="topo-inside">TFFCPDCSHAPLWL</span><span class="topo-membrane">MYLAIVLSHTNSVVNPFIYAYRI</span><span class="topo-outside">REFRQTF</span></span>
+<span class="topo-line"><span class="topo-outside">RKIIRS</span><span class="topo-unknown">HVLRQQEPFKAHHHHHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>22</td>
+      <td>-24</td>
+      <td>-3</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>33</td>
+      <td>-2</td>
+      <td>8</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>58</td>
+      <td>9</td>
+      <td>33</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>65</td>
+      <td>34</td>
+      <td>40</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>89</td>
+      <td>41</td>
+      <td>64</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>104</td>
+      <td>65</td>
+      <td>79</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>129</td>
+      <td>80</td>
+      <td>104</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>141</td>
+      <td>105</td>
+      <td>116</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>166</td>
+      <td>117</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>167</td>
+      <td>200</td>
+      <td>142</td>
+      <td>175</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>201</td>
+      <td>226</td>
+      <td>176</td>
+      <td>201</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>227</td>
+      <td>233</td>
+      <td>202</td>
+      <td>208</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>234</td>
+      <td>275</td>
+      <td>1001</td>
+      <td>1042</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>276</td>
+      <td>289</td>
+      <td>1043</td>
+      <td>1056</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>290</td>
+      <td>339</td>
+      <td>1057</td>
+      <td>1106</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>340</td>
+      <td>352</td>
+      <td>219</td>
+      <td>231</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>353</td>
+      <td>376</td>
+      <td>232</td>
+      <td>255</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>377</td>
+      <td>390</td>
+      <td>256</td>
+      <td>269</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>391</td>
+      <td>413</td>
+      <td>270</td>
+      <td>292</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>414</td>
+      <td>426</td>
+      <td>293</td>
+      <td>305</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>427</td>
+      <td>447</td>
+      <td>306</td>
+      <td>326</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7pyr">7PYR</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDD</span><span class="topo-inside">DGAPPIMGSSV</span><span class="topo-membrane">YITVELAIAVLAILGNVLVCWAVW</span><span class="topo-outside">LNS</span></span>
+<span class="topo-line"><span class="topo-outside">NLQNV</span><span class="topo-membrane">TNYFVVSLAAADIAVGVLAIPFAIT</span><span class="topo-inside">ISTGFCAACHGCL</span><span class="topo-membrane">FIACFVLVLTQSKIFSL</span></span>
+<span class="topo-line"><span class="topo-membrane">LAIAIDRY</span><span class="topo-outside">IAIRIPLRYNGLVTGT</span><span class="topo-membrane">RAKGIIAICWVLSFAIGLTPMLGW</span><span class="topo-inside">NNCGQPKEGKNH</span></span>
+<span class="topo-line"><span class="topo-inside">SQGCGEGQVACLFEDVVPMN</span><span class="topo-membrane">YMVYFNFFACVLVPLLLMLGVYLRIFL</span><span class="topo-outside">AARRQLADLEDNW</span></span>
+<span class="topo-line"><span class="topo-outside">ETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQK</span><span class="topo-unknown">ATPPKLEDKSPDSP</span><span class="topo-outside">EMKDFRHGFDI</span></span>
+<span class="topo-line"><span class="topo-outside">LVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLERARSTLQKEVHA</span><span class="topo-membrane">AKSLAIIV</span></span>
+<span class="topo-line"><span class="topo-membrane">GLFALCWLPLHIINCF</span><span class="topo-inside">TFFCPDCSHAPLWL</span><span class="topo-membrane">MYLAIVLSHTNSVVNPFIYAYRI</span><span class="topo-outside">REFRQTF</span></span>
+<span class="topo-line"><span class="topo-outside">RKIIRS</span><span class="topo-unknown">HVLRQQEPFKAHHHHHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>22</td>
+      <td>-24</td>
+      <td>-3</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>33</td>
+      <td>-2</td>
+      <td>8</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>57</td>
+      <td>9</td>
+      <td>32</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>65</td>
+      <td>33</td>
+      <td>40</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>90</td>
+      <td>41</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>103</td>
+      <td>66</td>
+      <td>78</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>128</td>
+      <td>79</td>
+      <td>103</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>129</td>
+      <td>144</td>
+      <td>104</td>
+      <td>119</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>145</td>
+      <td>168</td>
+      <td>120</td>
+      <td>143</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>169</td>
+      <td>200</td>
+      <td>144</td>
+      <td>175</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>201</td>
+      <td>227</td>
+      <td>176</td>
+      <td>202</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>228</td>
+      <td>233</td>
+      <td>203</td>
+      <td>208</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>234</td>
+      <td>275</td>
+      <td>1001</td>
+      <td>1042</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>276</td>
+      <td>289</td>
+      <td>1043</td>
+      <td>1056</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>290</td>
+      <td>339</td>
+      <td>1057</td>
+      <td>1106</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>340</td>
+      <td>352</td>
+      <td>219</td>
+      <td>231</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>353</td>
+      <td>376</td>
+      <td>232</td>
+      <td>255</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>377</td>
+      <td>390</td>
+      <td>256</td>
+      <td>269</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>391</td>
+      <td>413</td>
+      <td>270</td>
+      <td>292</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>414</td>
+      <td>426</td>
+      <td>293</td>
+      <td>305</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>427</td>
+      <td>447</td>
+      <td>306</td>
+      <td>326</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -80,13 +514,13 @@ The [Preladenant](/xray-mp-wiki/reagents/ligands/preladenant) derivative PSB-211
 
 ## Cross-References
 
-- [Human Adenosine A2A Receptor (A2AR)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/) — A2A-PSB1-bRIL is a thermostabilized mutant of the human [A2AAR](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar)
-- [bRIL Fusion Protein](/xray-mp-wiki/reagents/protein-tags/bril/) — [BRIL](/xray-mp-wiki/reagents/protein-tags/bril) (thermostabilized apocytochrome b562 RIL) replaces ICL3 for crystallization
-- [Preladenant](/xray-mp-wiki/reagents/ligands/preladenant/) — Parent compound of co-crystallized ligands [PSB-2113 (PEGylated Preladenant)](/xray-mp-wiki/reagents/ligands/psb-2113) and PSB-2115
-- [PSB-2113 (PEGylated Preladenant)](/xray-mp-wiki/reagents/ligands/psb-2113/) — Co-crystallized ligand for PDB 7PX4
-- [BODIPY Fluorophore](/xray-mp-wiki/reagents/additives/bodipy/) — Attached to PSB-2115 as fluorescent probe
-- [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) — PEG linker used in [PSB-2113 (PEGylated Preladenant)](/xray-mp-wiki/reagents/ligands/psb-2113) conjugate
-- [ZM241385](/xray-mp-wiki/reagents/ligands/zm241385/) — Structurally related [A2AAR](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar) antagonist used as binding reference
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta) affinity purification used for His-tagged bRIL fusion construct
-- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) used to confirm complex formation and monodispersity
-- [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) — Crystallization method used for structure determination
+- <a href="/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/">Human Adenosine A2A Receptor (A2AR)</a> — A2A-PSB1-bRIL is a thermostabilized mutant of the human [A2AAR](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar)
+- <a href="/xray-mp-wiki/reagents/protein-tags/bril/">bRIL Fusion Protein</a> — [BRIL](/xray-mp-wiki/reagents/protein-tags/bril) (thermostabilized apocytochrome b562 RIL) replaces ICL3 for crystallization
+- <a href="/xray-mp-wiki/reagents/ligands/preladenant/">Preladenant</a> — Parent compound of co-crystallized ligands [PSB-2113 (PEGylated Preladenant)](/xray-mp-wiki/reagents/ligands/psb-2113) and PSB-2115
+- <a href="/xray-mp-wiki/reagents/ligands/psb-2113/">PSB-2113 (PEGylated Preladenant)</a> — Co-crystallized ligand for PDB 7PX4
+- <a href="/xray-mp-wiki/reagents/additives/bodipy/">BODIPY Fluorophore</a> — Attached to PSB-2115 as fluorescent probe
+- <a href="/xray-mp-wiki/reagents/additives/peg/">PEG (Polyethylene Glycol)</a> — PEG linker used in [PSB-2113 (PEGylated Preladenant)](/xray-mp-wiki/reagents/ligands/psb-2113) conjugate
+- <a href="/xray-mp-wiki/reagents/ligands/zm241385/">ZM241385</a> — Structurally related [A2AAR](/xray-mp-wiki/proteins/human-adenosine-a2a-receptor-a2ar) antagonist used as binding reference
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta) affinity purification used for His-tagged bRIL fusion construct
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> — [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) used to confirm complex formation and monodispersity
+- <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a> — Crystallization method used for structure determination

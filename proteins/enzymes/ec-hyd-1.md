@@ -1,7 +1,7 @@
 ---
 title: "Escherichia coli Hydrogenase 1 (EcHyd-1)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,55 +17,953 @@ verified: false
 Hydrogenase 1 (EcHyd-1) is a membrane-bound, O2-tolerant [NiFe]-hydrogenase from Escherichia coli that catalyzes the reversible oxidation of molecular hydrogen (H2 ↔ 2H+ + 2e-). Unlike other E. coli hydrogenases (Hyd-2 and Hyd-3), EcHyd-1 is maximally expressed during fermentation under anaerobic conditions. It functions to protect O2-sensitive enzymes during the anaerobic-to-aerobic metabolic transition by reducing intracellular O2 to water. The enzyme forms a dimer of heterodimers with a hydrophobic membrane-anchoring small subunit C-terminal domain. The crystal structure reveals a [4Fe-3S] proximal cluster with two supernumerary Cys residues (Cys19 and Cys120) that enable O2 tolerance by providing two successive electrons to reduce O2 to H2O.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.str.2012.11.010 | 4GD3 | 3.3 | P212121 | Full-length EcHyd-1 in a 2:1 complex with cytochrome b | NiFe active site, [Fe4S4], [Fe3S4], [Fe4S4] clusters; [Heme](/xray-mp-wiki/reagents/ligands/heme/) (cytochrome b) |
-| doi/10.1073##pnas.1119806109 | 3USE | 1.67 | orthorhombic | EcHyd-1 dimer of heterodimers with C-terminal His tag (as-isolated, aerobically purified) | NiFe active site (Ni-B state), [4Fe-3S] proximal cluster, [4Fe-4S] distal cluster, [3Fe-4S] medial cluster |
-| doi/10.1073##pnas.1119806109 | 3USE | 1.47 | orthorhombic | EcHyd-1 dimer of heterodimers (H2-reduced, 8 bar H2 for 10 min) | NiFe active site (Ni-C/Ni-R states), [4Fe-3S] proximal cluster (PC2 state) |
-| doi/10.1073##pnas.1119806109 | 3USE | 2.0 | orthorhombic | EcHyd-1 dimer of heterodimers (chemically oxidized with 2 mM OH-NQ + 10 mM K3Fe(CN)6) | NiFe active site (Ni-B state), [4Fe-3S] proximal cluster (PC3 state) |
-| doi/10.1073##pnas.1121542109 |  | 1.47 | not specified | EcHyd-1 (SL)2 heterodimer | NiFe active site, [Fe4S4], [Fe3S4], [Fe4S4] clusters |
+### doi/10.1016##j.str.2012.11.010
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4gd3">4GD3</a></td>
+      <td>3.3</td>
+      <td>P212121</td>
+      <td>Full-length EcHyd-1 in a 2:1 complex with cytochrome b</td>
+      <td>NiFe active site, [Fe4S4], [Fe3S4], [Fe4S4] clusters; <a href="/xray-mp-wiki/reagents/ligands/heme/">Heme</a> (cytochrome b)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli (native expression)
 - **Construct**: Full-length membrane-bound EcHyd-1 (S and L subunits)
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: Escherichia coli
 - **Expression construct**: Full-length EcHyd-1
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Membrane solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>-- + 3% w/v Triton X-100</td>
+      <td>Cell membrane proteins at 10 mg/ml stirred overnight at 4 C</td>
+    </tr>
+    <tr>
+      <td>Gel filtration</td>
+      <td>Size-exclusion chromatography</td>
+      <td>Superdex 200</td>
+      <td>-- + 0.02% Triton X-100</td>
+      <td>Performed in anaerobic glove box; cytochrome b co-eluted in second peak</td>
+    </tr>
+    <tr>
+      <td>Hydroxyapatite chromatography</td>
+      <td>Hydroxyapatite chromatography</td>
+      <td>Hydroxyapatite</td>
+      <td>K2HPO4/KH2PO4 + --</td>
+      <td>Protein eluted at double the concentration of K2HPO4/KH2PO4 compared to previous protocol</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane solubilization | Detergent solubilization | -- | -- + 3% w/v Triton X-100 | Cell membrane proteins at 10 mg/ml stirred overnight at 4 C |
-| Gel filtration | Size-exclusion chromatography | Superdex 200 | -- + 0.02% Triton X-100 | Performed in anaerobic glove box; cytochrome b co-eluted in second peak |
-| Hydroxyapatite chromatography | Hydroxyapatite chromatography | Hydroxyapatite | K2HPO4/KH2PO4 + -- | Protein eluted at double the concentration of K2HPO4/KH2PO4 compared to previous protocol |
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystal 1; Pilatus detector; wavelength = 1.7389 A; cell: a=124.7, b=164.6, c=210.6 A</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystal 2; Pilatus detector; wavelength = 0.97908 A; cell: a=126.0, b=165.3, c=212.8 A</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-## Crystallization
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4gd3">4GD3</a> — Chain S (2 TMs, alpha)**
 
-### doi/10.1016##j.str.2012.11.010
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">LEN</span><span class="topo-outside">KPRIPVVWIHGLECTCCTESFIRSAHPLAKDVILSLISLDYDDTLMAAAGTQAEEVF</span></span>
+<span class="topo-line"><span class="topo-outside">EDIITQYNGKYILAVEGNPPLGEQGMFCISSGRPFIEKLKRAAAGASAIIAWGTCASWGC</span></span>
+<span class="topo-line"><span class="topo-outside">VQAARPNPTQATPIDKVITDKPIIKVPGCPPIPDVMSAIITYMVTFDRLPDVDRMGRPLM</span></span>
+<span class="topo-line"><span class="topo-outside">FYGQRIHDKCYRRAHFDAGEFVQSWDDDAARKGYCLYKMGCKGPTTYNACSSTRWNDGVS</span></span>
+<span class="topo-line"><span class="topo-outside">FCIQSGHGCLGCAENGFWDRGSFYSRVVDIPQMGTHST</span><span class="topo-membrane">ADTVGLTALGVVAAAVG</span><span class="topo-inside">VHAVA</span></span>
+<span class="topo-line"><span class="topo-inside">SAVDQRR</span><span class="topo-unknown">RHNQQPTETEHQPGNEDKQARSHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>1</td>
+      <td>3</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>278</td>
+      <td>4</td>
+      <td>278</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>279</td>
+      <td>295</td>
+      <td>279</td>
+      <td>295</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>296</td>
+      <td>307</td>
+      <td>296</td>
+      <td>307</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>308</td>
+      <td>335</td>
+      <td>308</td>
+      <td>335</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Notes | Crystal 1; Pilatus detector; wavelength = 1.7389 A; cell: a=124.7, b=164.6, c=210.6 A |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4gd3">4GD3</a> — Chain L (0 TMs, non_tm)**
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Notes | Crystal 2; Pilatus detector; wavelength = 0.97908 A; cell: a=126.0, b=165.3, c=212.8 A |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">STQYETQGYTINNAGRRLVVDPITRIEGHMRCEVNINDQNVITNAVSCGTMFRGLEIIL</span></span>
+<span class="topo-line"><span class="topo-outside">QGRDPRDAWAFVERICGVCTGVHALASVYAIEDAIGIKVPDNANIIRNIMLATLWCHDHL</span></span>
+<span class="topo-line"><span class="topo-outside">VHFYQLAGMDWIDVLDALKADPRKTSELAQSLSSWPKSSPGYFFDVQNRLKKFVEGGQLG</span></span>
+<span class="topo-line"><span class="topo-outside">IFRNGYWGHPQYKLPPEANLMGFAHYLEALDFQREIVKIHAVFGGKNPHPNWIVGGMPCA</span></span>
+<span class="topo-line"><span class="topo-outside">INIDESGAVGAVNMERLNLVQSIITRTADFINNVMIPDALAIGQFNKPWSEIGTGLSDKC</span></span>
+<span class="topo-line"><span class="topo-outside">VLSYGAFPDIANDFGEKSLLMPGGAVINGDFNNVLPVDLVDPQQVQEFVDHAWYRYPNDQ</span></span>
+<span class="topo-line"><span class="topo-outside">VGRHPFDGITDPWYNPGDVKGSDTNIQQLNEQERYSWIKAPRWRGNAMEVGPLARTLIAY</span></span>
+<span class="topo-line"><span class="topo-outside">HKGDAATVESVDRMMSALNLPLSGIQSTLGRILCRAHEAQWAAGKLQYFFDKLMTNLKNG</span></span>
+<span class="topo-line"><span class="topo-outside">NLATASTEKWEPATWPTECRGVGFTEAPRGALGHWAAIRDGKIDLYQCVVPTTWNASPRD</span></span>
+<span class="topo-line"><span class="topo-outside">PKGQIGAYEAALMNTKMAIPEQPLEILRTLHSFDPCLACSTH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>582</td>
+      <td>2</td>
+      <td>582</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4gd3">4GD3</a> — Chain T (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">LEN</span><span class="topo-outside">KPRIPVVWIHGLECTCCTESFIRSAHPLAKDVILSLISLDYDDTLMAAAGTQAEEVF</span></span>
+<span class="topo-line"><span class="topo-outside">EDIITQYNGKYILAVEGNPPLGEQGMFCISSGRPFIEKLKRAAAGASAIIAWGTCASWGC</span></span>
+<span class="topo-line"><span class="topo-outside">VQAARPNPTQATPIDKVITDKPIIKVPGCPPIPDVMSAIITYMVTFDRLPDVDRMGRPLM</span></span>
+<span class="topo-line"><span class="topo-outside">FYGQRIHDKCYRRAHFDAGEFVQSWDDDAARKGYCLYKMGCKGPTTYNACSSTRWNDGVS</span></span>
+<span class="topo-line"><span class="topo-outside">FCIQSGHGCLGCAENGFWDRGSFYSRVVDIPQMGTHSTA</span><span class="topo-membrane">DTVGLTALGVVAAAVGVHAVA</span></span>
+<span class="topo-line"><span class="topo-inside">SAV</span><span class="topo-unknown">DQRRRHNQQPTETEHQPGNEDKQARSHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>1</td>
+      <td>3</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>279</td>
+      <td>4</td>
+      <td>279</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>300</td>
+      <td>280</td>
+      <td>300</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>301</td>
+      <td>303</td>
+      <td>301</td>
+      <td>303</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>304</td>
+      <td>335</td>
+      <td>304</td>
+      <td>335</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4gd3">4GD3</a> — Chain M (0 TMs, non_tm)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">STQYETQGYTINNAGRRLVVDPITRIEGHMRCEVNINDQNVITNAVSCGTMFRGLEIIL</span></span>
+<span class="topo-line"><span class="topo-outside">QGRDPRDAWAFVERICGVCTGVHALASVYAIEDAIGIKVPDNANIIRNIMLATLWCHDHL</span></span>
+<span class="topo-line"><span class="topo-outside">VHFYQLAGMDWIDVLDALKADPRKTSELAQSLSSWPKSSPGYFFDVQNRLKKFVEGGQLG</span></span>
+<span class="topo-line"><span class="topo-outside">IFRNGYWGHPQYKLPPEANLMGFAHYLEALDFQREIVKIHAVFGGKNPHPNWIVGGMPCA</span></span>
+<span class="topo-line"><span class="topo-outside">INIDESGAVGAVNMERLNLVQSIITRTADFINNVMIPDALAIGQFNKPWSEIGTGLSDKC</span></span>
+<span class="topo-line"><span class="topo-outside">VLSYGAFPDIANDFGEKSLLMPGGAVINGDFNNVLPVDLVDPQQVQEFVDHAWYRYPNDQ</span></span>
+<span class="topo-line"><span class="topo-outside">VGRHPFDGITDPWYNPGDVKGSDTNIQQLNEQERYSWIKAPRWRGNAMEVGPLARTLIAY</span></span>
+<span class="topo-line"><span class="topo-outside">HKGDAATVESVDRMMSALNLPLSGIQSTLGRILCRAHEAQWAAGKLQYFFDKLMTNLKNG</span></span>
+<span class="topo-line"><span class="topo-outside">NLATASTEKWEPATWPTECRGVGFTEAPRGALGHWAAIRDGKIDLYQCVVPTTWNASPRD</span></span>
+<span class="topo-line"><span class="topo-outside">PKGQIGAYEAALMNTKMAIPEQPLEILRTLHSFDPCLACSTH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>582</td>
+      <td>2</td>
+      <td>582</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4gd3">4GD3</a> — Chain Q (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">LEN</span><span class="topo-outside">KPRIPVVWIHGLECTCCTESFIRSAHPLAKDVILSLISLDYDDTLMAAAGTQAEEVF</span></span>
+<span class="topo-line"><span class="topo-outside">EDIITQYNGKYILAVEGNPPLGEQGMFCISSGRPFIEKLKRAAAGASAIIAWGTCASWGC</span></span>
+<span class="topo-line"><span class="topo-outside">VQAARPNPTQATPIDKVITDKPIIKVPGCPPIPDVMSAIITYMVTFDRLPDVDRMGRPLM</span></span>
+<span class="topo-line"><span class="topo-outside">FYGQRIHDKCYRRAHFDAGEFVQSWDDDAARKGYCLYKMGCKGPTTYNACSSTRWNDGVS</span></span>
+<span class="topo-line"><span class="topo-outside">FCIQSGHGCLGCAENGFWDRGSFYSRVVDIPQMGTHST</span><span class="topo-membrane">ADTVGLTALGVVAAAVG</span><span class="topo-inside">VHAVA</span></span>
+<span class="topo-line"><span class="topo-inside">SAVDQRR</span><span class="topo-unknown">RHNQQPTETEHQPGNEDKQARSHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>1</td>
+      <td>3</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>278</td>
+      <td>4</td>
+      <td>278</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>279</td>
+      <td>295</td>
+      <td>279</td>
+      <td>295</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>296</td>
+      <td>307</td>
+      <td>296</td>
+      <td>307</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>308</td>
+      <td>335</td>
+      <td>308</td>
+      <td>335</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4gd3">4GD3</a> — Chain J (0 TMs, non_tm)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">STQYETQGYTINNAGRRLVVDPITRIEGHMRCEVNINDQNVITNAVSCGTMFRGLEIIL</span></span>
+<span class="topo-line"><span class="topo-outside">QGRDPRDAWAFVERICGVCTGVHALASVYAIEDAIGIKVPDNANIIRNIMLATLWCHDHL</span></span>
+<span class="topo-line"><span class="topo-outside">VHFYQLAGMDWIDVLDALKADPRKTSELAQSLSSWPKSSPGYFFDVQNRLKKFVEGGQLG</span></span>
+<span class="topo-line"><span class="topo-outside">IFRNGYWGHPQYKLPPEANLMGFAHYLEALDFQREIVKIHAVFGGKNPHPNWIVGGMPCA</span></span>
+<span class="topo-line"><span class="topo-outside">INIDESGAVGAVNMERLNLVQSIITRTADFINNVMIPDALAIGQFNKPWSEIGTGLSDKC</span></span>
+<span class="topo-line"><span class="topo-outside">VLSYGAFPDIANDFGEKSLLMPGGAVINGDFNNVLPVDLVDPQQVQEFVDHAWYRYPNDQ</span></span>
+<span class="topo-line"><span class="topo-outside">VGRHPFDGITDPWYNPGDVKGSDTNIQQLNEQERYSWIKAPRWRGNAMEVGPLARTLIAY</span></span>
+<span class="topo-line"><span class="topo-outside">HKGDAATVESVDRMMSALNLPLSGIQSTLGRILCRAHEAQWAAGKLQYFFDKLMTNLKNG</span></span>
+<span class="topo-line"><span class="topo-outside">NLATASTEKWEPATWPTECRGVGFTEAPRGALGHWAAIRDGKIDLYQCVVPTTWNASPRD</span></span>
+<span class="topo-line"><span class="topo-outside">PKGQIGAYEAALMNTKMAIPEQPLEILRTLHSFDPCLACSTH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>582</td>
+      <td>2</td>
+      <td>582</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4gd3">4GD3</a> — Chain R (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">LEN</span><span class="topo-outside">KPRIPVVWIHGLECTCCTESFIRSAHPLAKDVILSLISLDYDDTLMAAAGTQAEEVF</span></span>
+<span class="topo-line"><span class="topo-outside">EDIITQYNGKYILAVEGNPPLGEQGMFCISSGRPFIEKLKRAAAGASAIIAWGTCASWGC</span></span>
+<span class="topo-line"><span class="topo-outside">VQAARPNPTQATPIDKVITDKPIIKVPGCPPIPDVMSAIITYMVTFDRLPDVDRMGRPLM</span></span>
+<span class="topo-line"><span class="topo-outside">FYGQRIHDKCYRRAHFDAGEFVQSWDDDAARKGYCLYKMGCKGPTTYNACSSTRWNDGVS</span></span>
+<span class="topo-line"><span class="topo-outside">FCIQSGHGCLGCAENGFWDRGSFYSRVVDIPQMGTHSTA</span><span class="topo-membrane">DTVGLTALGVVAAAVGVHAVA</span></span>
+<span class="topo-line"><span class="topo-inside">SAV</span><span class="topo-unknown">DQRRRHNQQPTETEHQPGNEDKQARSHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>1</td>
+      <td>3</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>279</td>
+      <td>4</td>
+      <td>279</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>300</td>
+      <td>280</td>
+      <td>300</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>301</td>
+      <td>303</td>
+      <td>301</td>
+      <td>303</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>304</td>
+      <td>335</td>
+      <td>304</td>
+      <td>335</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4gd3">4GD3</a> — Chain K (0 TMs, non_tm)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">STQYETQGYTINNAGRRLVVDPITRIEGHMRCEVNINDQNVITNAVSCGTMFRGLEIIL</span></span>
+<span class="topo-line"><span class="topo-outside">QGRDPRDAWAFVERICGVCTGVHALASVYAIEDAIGIKVPDNANIIRNIMLATLWCHDHL</span></span>
+<span class="topo-line"><span class="topo-outside">VHFYQLAGMDWIDVLDALKADPRKTSELAQSLSSWPKSSPGYFFDVQNRLKKFVEGGQLG</span></span>
+<span class="topo-line"><span class="topo-outside">IFRNGYWGHPQYKLPPEANLMGFAHYLEALDFQREIVKIHAVFGGKNPHPNWIVGGMPCA</span></span>
+<span class="topo-line"><span class="topo-outside">INIDESGAVGAVNMERLNLVQSIITRTADFINNVMIPDALAIGQFNKPWSEIGTGLSDKC</span></span>
+<span class="topo-line"><span class="topo-outside">VLSYGAFPDIANDFGEKSLLMPGGAVINGDFNNVLPVDLVDPQQVQEFVDHAWYRYPNDQ</span></span>
+<span class="topo-line"><span class="topo-outside">VGRHPFDGITDPWYNPGDVKGSDTNIQQLNEQERYSWIKAPRWRGNAMEVGPLARTLIAY</span></span>
+<span class="topo-line"><span class="topo-outside">HKGDAATVESVDRMMSALNLPLSGIQSTLGRILCRAHEAQWAAGKLQYFFDKLMTNLKNG</span></span>
+<span class="topo-line"><span class="topo-outside">NLATASTEKWEPATWPTECRGVGFTEAPRGALGHWAAIRDGKIDLYQCVVPTTWNASPRD</span></span>
+<span class="topo-line"><span class="topo-outside">PKGQIGAYEAALMNTKMAIPEQPLEILRTLHSFDPCLACSTH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>582</td>
+      <td>2</td>
+      <td>582</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4gd3">4GD3</a> — Chain A (4 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MQQKSDN</span><span class="topo-inside">VVSHYVFEAPV</span><span class="topo-membrane">RIWHWLTVLCMAVLMVTGY</span><span class="topo-outside">FIGKPLPSVSGEATYLFYMGYIR</span></span>
+<span class="topo-line"><span class="topo-outside">LI</span><span class="topo-membrane">HFSAGMVFTVVLLMRIYW</span><span class="topo-inside">AFVGNRYSR</span><span class="topo-unknown">ELFIVPVWRKSWW</span><span class="topo-inside">QGVWYEIRWYLFL</span><span class="topo-unknown">AKRPS</span></span>
+<span class="topo-line"><span class="topo-unknown">ADIGHN</span><span class="topo-inside">PIA</span><span class="topo-membrane">QAAMFGYFLMSVFMIITGFALYS</span><span class="topo-outside">EHSQYAI</span><span class="topo-unknown">FAPFRYVVEFFYWT</span><span class="topo-outside">GGNSMDI</span></span>
+<span class="topo-line"><span class="topo-outside">HSW</span><span class="topo-membrane">HRLGMWLIGAFVIGHVYMALR</span><span class="topo-inside">EDIMSD</span><span class="topo-unknown">DTVISTMVNGYRSHKFGKISNKERS</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>7</td>
+      <td>1</td>
+      <td>7</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>18</td>
+      <td>8</td>
+      <td>18</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>37</td>
+      <td>19</td>
+      <td>37</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>62</td>
+      <td>38</td>
+      <td>62</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>80</td>
+      <td>63</td>
+      <td>80</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>89</td>
+      <td>81</td>
+      <td>89</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>102</td>
+      <td>90</td>
+      <td>102</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>103</td>
+      <td>115</td>
+      <td>103</td>
+      <td>115</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>126</td>
+      <td>116</td>
+      <td>126</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>127</td>
+      <td>129</td>
+      <td>127</td>
+      <td>129</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>152</td>
+      <td>130</td>
+      <td>152</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>153</td>
+      <td>159</td>
+      <td>153</td>
+      <td>159</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>160</td>
+      <td>173</td>
+      <td>160</td>
+      <td>173</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>174</td>
+      <td>183</td>
+      <td>174</td>
+      <td>183</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>184</td>
+      <td>204</td>
+      <td>184</td>
+      <td>204</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>205</td>
+      <td>210</td>
+      <td>205</td>
+      <td>210</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>211</td>
+      <td>235</td>
+      <td>211</td>
+      <td>235</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4gd3">4GD3</a> — Chain B (4 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MQQKSDN</span><span class="topo-inside">VVSHYVFEAPV</span><span class="topo-membrane">RIWHWLTVLCMAVLMVTGY</span><span class="topo-outside">FIGKPLPSVSGEATYLFYMGYIR</span></span>
+<span class="topo-line"><span class="topo-outside">LI</span><span class="topo-membrane">HFSAGMVFTVVLLMRIYW</span><span class="topo-inside">AFVGNRYSR</span><span class="topo-unknown">ELFIVPVWRKSWW</span><span class="topo-inside">QGVWYEIRWYLFL</span><span class="topo-unknown">AKRPS</span></span>
+<span class="topo-line"><span class="topo-unknown">ADIGHN</span><span class="topo-inside">PIA</span><span class="topo-membrane">QAAMFGYFLMSVFMIITGFA</span><span class="topo-outside">LYSEHSQYAI</span><span class="topo-unknown">FAPFRYVVEFFYWT</span><span class="topo-outside">GGNSMDI</span></span>
+<span class="topo-line"><span class="topo-outside">HSW</span><span class="topo-membrane">HRLGMWLIGAFVIGHVYMALR</span><span class="topo-inside">EDIMSD</span><span class="topo-unknown">DTVISTMVNGYRSHKFGKISNKERS</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>7</td>
+      <td>1</td>
+      <td>7</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>18</td>
+      <td>8</td>
+      <td>18</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>37</td>
+      <td>19</td>
+      <td>37</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>62</td>
+      <td>38</td>
+      <td>62</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>80</td>
+      <td>63</td>
+      <td>80</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>89</td>
+      <td>81</td>
+      <td>89</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>102</td>
+      <td>90</td>
+      <td>102</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>103</td>
+      <td>115</td>
+      <td>103</td>
+      <td>115</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>126</td>
+      <td>116</td>
+      <td>126</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>127</td>
+      <td>129</td>
+      <td>127</td>
+      <td>129</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>149</td>
+      <td>130</td>
+      <td>149</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>150</td>
+      <td>159</td>
+      <td>150</td>
+      <td>159</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>160</td>
+      <td>173</td>
+      <td>160</td>
+      <td>173</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>174</td>
+      <td>183</td>
+      <td>174</td>
+      <td>183</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>184</td>
+      <td>204</td>
+      <td>184</td>
+      <td>204</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>205</td>
+      <td>210</td>
+      <td>205</td>
+      <td>210</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>211</td>
+      <td>235</td>
+      <td>211</td>
+      <td>235</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 ### doi/10.1073##pnas.1119806109
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Notes | As-isolated EcHyd-1 crystal; orthorhombic; data collected at SLS (Swiss Light Source). H2-reduced structure by exposing crystal to 8 bar H2 for 10 min. Oxidized structure by soaking as-isolated crystal with 2 mM 4-OH-1,4-naphthoquinone (OH-NQ) and 10 mM K3Fe(CN)6. Focused microbeam used for data collection. |
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3use">3USE</a></td>
+      <td>1.67</td>
+      <td>orthorhombic</td>
+      <td>EcHyd-1 dimer of heterodimers with C-terminal His tag (as-isolated, aerobically purified)</td>
+      <td>NiFe active site (Ni-B state), [4Fe-3S] proximal cluster, [4Fe-4S] distal cluster, [3Fe-4S] medial cluster</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3use">3USE</a></td>
+      <td>1.47</td>
+      <td>orthorhombic</td>
+      <td>EcHyd-1 dimer of heterodimers (H2-reduced, 8 bar H2 for 10 min)</td>
+      <td>NiFe active site (Ni-C/Ni-R states), [4Fe-3S] proximal cluster (PC2 state)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3use">3USE</a></td>
+      <td>2.0</td>
+      <td>orthorhombic</td>
+      <td>EcHyd-1 dimer of heterodimers (chemically oxidized with 2 mM OH-NQ + 10 mM K3Fe(CN)6)</td>
+      <td>NiFe active site (Ni-B state), [4Fe-3S] proximal cluster (PC3 state)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Escherichia coli (native expression)
+- **Construct**: Full-length membrane-bound EcHyd-1 (S and L subunits)
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>As-isolated EcHyd-1 crystal; orthorhombic; data collected at SLS (Swiss Light Source). H2-reduced structure by exposing crystal to 8 bar H2 for 10 min. Oxidized structure by soaking as-isolated crystal with 2 mM 4-OH-1,4-naphthoquinone (OH-NQ) and 10 mM K3Fe(CN)6. Focused microbeam used for data collection.</td>
+    </tr>
+  </tbody>
+</table>
+### doi/10.1073##pnas.1121542109
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>1.47</td>
+      <td>not specified</td>
+      <td>EcHyd-1 (SL)2 heterodimer</td>
+      <td>NiFe active site, [Fe4S4], [Fe3S4], [Fe4S4] clusters</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Escherichia coli (native expression)
+- **Construct**: Full-length membrane-bound EcHyd-1 (S and L subunits)
 
 
 ## Biological / Functional Insights
@@ -93,7 +991,7 @@ Quantum mechanical/molecular mechanical (QM/MM) calculations reproduced publishe
 
 ## Cross-References
 
-- [Cytochrome b](/xray-mp-wiki/proteins/enzymes/cytochrome-b/) — Physiological partner; forms 2:1 complex with EcHyd-1
-- [Triton X-100](/xray-mp-wiki/reagents/detergents/triton-x-100/) — Detergent used for membrane solubilization
-- [Heme](/xray-mp-wiki/reagents/ligands/heme/) — Referenced in context related to Heme
-- [Iron](/xray-mp-wiki/reagents/additives/iron/) — Referenced in context related to Iron
+- <a href="/xray-mp-wiki/proteins/enzymes/cytochrome-b/">Cytochrome b</a> — Physiological partner; forms 2:1 complex with EcHyd-1
+- <a href="/xray-mp-wiki/reagents/detergents/triton-x-100/">Triton X-100</a> — Detergent used for membrane solubilization
+- <a href="/xray-mp-wiki/reagents/ligands/heme/">Heme</a> — Referenced in context related to Heme
+- <a href="/xray-mp-wiki/reagents/additives/iron/">Iron</a> — Referenced in context related to Iron

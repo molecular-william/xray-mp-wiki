@@ -1,7 +1,7 @@
 ---
 title: "SmhA from Serratia marcescens"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,50 +17,125 @@ verified: false
 SmhA is the A component of the SmhABC tripartite alpha-pore-forming toxin (alpha-PFT) from Serratia marcescens MSU-97. SmhA shares structural similarity with the A components of other tripartite ClyA family alpha-PFTs such as NheA and AhlB. SmhA adopts a compact soluble structure with a beta-tongue motif that shields hydrophobic residues. Upon membrane binding, SmhA is proposed to undergo a conformational change from the soluble form to an extended helical pore form, providing the hydrophilic lining of the tripartite pore lumen. SmhA interacts with the SmhB component during pore assembly after formation of the SmhBC pro-pore complex.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##s41598-021-85726-0 | 7A26 | 2.98 A | P42 | Full-length SmhA with C-terminal 6xHis tag (SeMet) | -- |
-| doi/10.1038##s41598-021-85726-0 | 7A27 | 2.57 A | P212121 | Full-length SmhA with C-terminal 6xHis tag | -- |
+### doi/10.1038##s41598-021-85726-0
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7a26">7A26</a></td>
+      <td>2.98 A</td>
+      <td>P42</td>
+      <td>Full-length SmhA with C-terminal 6xHis tag (SeMet)</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7a27">7A27</a></td>
+      <td>2.57 A</td>
+      <td>P212121</td>
+      <td>Full-length SmhA with C-terminal 6xHis tag</td>
+      <td>--</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli BL21 DE3
 - **Construct**: Full-length SmhA with C-terminal 6xHis tag, cloned into pET21a
 - **Induction**: 1 mM IPTG at 16 C overnight
 - **Media**: LB medium
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli BL21 DE3
 - **Expression construct**: SmhA with C-terminal 6xHis tag
 - **Tag info**: C-terminal 6xHis tag
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Sonication</td>
+      <td>—</td>
+      <td>50 mM Tris pH 8</td>
+      <td>3 x 20 s burst at 16000 nm lambda</td>
+    </tr>
+    <tr>
+      <td>Clarification</td>
+      <td>Centrifugation</td>
+      <td>—</td>
+      <td></td>
+      <td>40,000 g for 15 min</td>
+    </tr>
+    <tr>
+      <td>Affinity chromatography</td>
+      <td>Ni-NTA</td>
+      <td>5 ml Nickel Hi-trap column (GE Healthcare)</td>
+      <td>50 mM Tris pH 8, 0.5 M NaCl</td>
+      <td>Elution with 0-1 M imidazole gradient</td>
+    </tr>
+    <tr>
+      <td>Size exclusion chromatography</td>
+      <td>SEC</td>
+      <td>Superdex 200 pg (GE Healthcare)</td>
+      <td>50 mM Tris pH 8, 0.5 M NaCl</td>
+      <td>Pre-equilibrated with running buffer</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Sonication | — | 50 mM Tris pH 8 | 3 x 20 s burst at 16000 nm lambda |
-| Clarification | Centrifugation | — |  | 40,000 g for 15 min |
-| Affinity chromatography | Ni-NTA | 5 ml Nickel Hi-trap column (GE Healthcare) | 50 mM Tris pH 8, 0.5 M NaCl | Elution with 0-1 M imidazole gradient |
-| Size exclusion chromatography | SEC | Superdex 200 pg (GE Healthcare) | 50 mM Tris pH 8, 0.5 M NaCl | Pre-equilibrated with running buffer |
+**Crystallization:**
 
-
-## Crystallization
-
-### doi/10.1038##s41598-021-85726-0
-
-| Parameter | Value |
-|---|---|
-| Method | [Sitting drop vapor diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) |
-| Protein sample | SmhA at 7 mg/ml in 50 mM Tris pH8, 10 mM NaCl |
-| Reservoir | SeMet: 0.1 M MES pH 6.5, 0.16 M CaCl2, 20% PEG 6000; S-Met: 0.2 M potassium nitrate, 20% PEG 3350 |
-| Mixing ratio | 200 nl:200 nl |
-| Temperature | 7 C |
-| Cryoprotection | Mother liquor with additional 20% (v/v) ethylene glycol |
-| Notes | Crystals grown in 96-well plates. SeMet structure solved by SAD at 2.98 A using CRANK2 pipeline. S-Met structure solved by molecular replacement at 2.57 A. Data collected at Diamond Light Source beamlines I03 and I04-1. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">Sitting drop vapor diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>SmhA at 7 mg/ml in 50 mM Tris pH8, 10 mM NaCl</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>SeMet: 0.1 M MES pH 6.5, 0.16 M CaCl2, 20% PEG 6000; S-Met: 0.2 M potassium nitrate, 20% PEG 3350</td>
+    </tr>
+    <tr>
+      <td>Mixing ratio</td>
+      <td>200 nl:200 nl</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>7 C</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Mother liquor with additional 20% (v/v) ethylene glycol</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown in 96-well plates. SeMet structure solved by SAD at 2.98 A using CRANK2 pipeline. S-Met structure solved by molecular replacement at 2.57 A. Data collected at Diamond Light Source beamlines I03 and I04-1.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -79,6 +154,6 @@ An intracellular loop between the two amphipathic helices (residues G208-A229) i
 
 ## Cross-References
 
-- [SmhB](/xray-mp-wiki/proteins/toxins/smhB/) — SmhB is the B component of the SmhABC tripartite alpha-PFT, interacting with SmhA during pore assembly
-- [ClyA Cytotoxin](/xray-mp-wiki/proteins/toxins/clyA/) — Prototypical single-component alpha-PFT in the same ClyA family
-- [Pore-Forming Toxins](/xray-mp-wiki/concepts/structural-mechanisms/pore-forming-toxins/) — SmhA is a component of a tripartite alpha-pore-forming toxin in the ClyA family
+- <a href="/xray-mp-wiki/proteins/toxins/smhB/">SmhB</a> — SmhB is the B component of the SmhABC tripartite alpha-PFT, interacting with SmhA during pore assembly
+- <a href="/xray-mp-wiki/proteins/toxins/clyA/">ClyA Cytotoxin</a> — Prototypical single-component alpha-PFT in the same ClyA family
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/pore-forming-toxins/">Pore-Forming Toxins</a> — SmhA is a component of a tripartite alpha-pore-forming toxin in the ClyA family

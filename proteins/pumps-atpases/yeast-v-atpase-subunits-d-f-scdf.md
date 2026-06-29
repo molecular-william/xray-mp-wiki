@@ -1,7 +1,7 @@
 ---
 title: "Yeast V-ATPase Subunits D and F (ScDF Assembly)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,42 +17,98 @@ verified: false
 The DF assembly of the Saccharomyces cerevisiae V-ATPase (ScDF) is a central stalk subcomplex essential for coupling ATP hydrolysis in the V1 domain to proton pumping in the VO domain. The crystal structure of ScDF was determined at 3.1 A resolution using [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) multi-wavelength anomalous dispersion (MAD) phasing. Two conformations (ScDF1 and ScDF2) were observed in the asymmetric unit. Subunit D (ScD, 163 residues) consists of a long pair of alpha-helices connected by a short helix and a beta-hairpin region flanked by flexible loops. Subunit F (ScF, 118 residues) comprises an N-terminal globular domain of four beta-strands and four alpha-helices, connected via a flexible loop (Pro-95 to Asp-106) to a C-terminal alpha-helix (alpha5). The structures reveal that the C-terminal helix of ScF can adopt both perpendicular and parallel orientations relative to the ScD helices. Solution SAXS data confirm the flexibility of the C-terminal segment, enabling rearrangements between compact and extended conformations important for rotary catalysis and reversible V1VO disassembly.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1074##jbc.M114.622688 | 4RND | 3.1 | P6(1) |  |  |
+### doi/10.1074##jbc.M114.622688
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4rnd">4RND</a></td>
+      <td>3.1</td>
+      <td>P6(1)</td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli BL21 (DE3)
 - **Construct**: Recombinant ScDF heterodimer (subunits D and F from S. cerevisiae V-ATPase); SeMet-labeled version produced for MAD phasing
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Nickel-nitrilotriacetic acid (Ni-NTA) chromatography</td>
+      <td>—</td>
+      <td></td>
+      <td>As described previously (ref 18). <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a> used in all buffers for SeMet protein to avoid selenium oxidation.</td>
+    </tr>
+    <tr>
+      <td>Buffer exchange</td>
+      <td>Buffer exchange into crystallization buffer</td>
+      <td>—</td>
+      <td>50 mM Tris/HCl pH 8.5, 250 mM NaCl, 5 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> (plus 2 mM TCEP for SeMet)</td>
+      <td>For SeMet ScDF, buffer contained 2 mM tris(2-carboxyethyl)-phosphine (TCEP)</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Nickel-nitrilotriacetic acid (Ni-NTA) chromatography | — |  | As described previously (ref 18). [DTT](/xray-mp-wiki/reagents/additives/dtt/) used in all buffers for SeMet protein to avoid selenium oxidation. |
-| Buffer exchange | Buffer exchange into crystallization buffer | — | 50 mM Tris/HCl pH 8.5, 250 mM NaCl, 5 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/) (plus 2 mM TCEP for SeMet) | For SeMet ScDF, buffer contained 2 mM tris(2-carboxyethyl)-phosphine (TCEP) |
-
-
-## Crystallization
-
-### doi/10.1074##jbc.M114.622688
-
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | ScDF (5-8 mg/ml) in 50 mM Tris/HCl pH 8.5, 250 mM NaCl, 5 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/) |
-| Reservoir | 0.1 M sodium [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) tribasic dihydrate pH 5.6, 1.2 M ammonium [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) monobasic |
-| Temperature | 18 C |
-| Growth time | Not specified |
-| Cryoprotection | 25% (v/v) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) in crystallization buffer |
-| Notes | Initial hits from Hampton Crystal Screen 1, condition 11 (0.1 M sodium [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) pH 5.6, 1.0 M ammonium phosphate monobasic). Optimized with additives (NDSB-201). SeMet crystals grown with 2 mM TCEP. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>ScDF (5-8 mg/ml) in 50 mM Tris/HCl pH 8.5, 250 mM NaCl, 5 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.1 M sodium <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a> tribasic dihydrate pH 5.6, 1.2 M ammonium <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a> monobasic</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>18 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>25% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> in crystallization buffer</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Initial hits from Hampton Crystal Screen 1, condition 11 (0.1 M sodium <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a> pH 5.6, 1.0 M ammonium phosphate monobasic). Optimized with additives (NDSB-201). SeMet crystals grown with 2 mM TCEP.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -87,13 +143,13 @@ Superposition of ScF with the gamma subunit of E. coli F-ATP synthase reveals a 
 
 ## Cross-References
 
-- [Yeast V1-ATPase from S. cerevisiae](/xray-mp-wiki/proteins/pumps-atpases/yeast-v1-atpase/) — ScDF is a subcomplex of the yeast V-ATPase central stalk; the DF assembly couples ATP hydrolysis in V1 to ion pumping in VO
-- [Enterococcus hirae V1-ATPase](/xray-mp-wiki/proteins/pumps-atpases/enterococcus-hirae-v1-atpase/) — Related A-ATP synthase A3B3 structure used for fitting ScDF (PDB 3VR6); comparison of DF assembly across species
-- [V1-ATPase from Thermus thermophilus](/xray-mp-wiki/proteins/pumps-atpases/v1-atpase-t-thermophilus/) — Related bacterial V-ATPase; comparison of central stalk structure and rotary mechanism
-- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/) — ScDF is the central motor element coupling ATP hydrolysis to proton pumping in the rotary mechanism
-- [Peripheral Stalk Elasticity in ATP Synthase](/xray-mp-wiki/concepts/enzyme-mechanisms/peripheral-stalk-elasticity/) — Flexibility of the ScF C-terminal region and its role in reversible V1VO disassembly relates to elastic energy transmission in the stalk
-- [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — Crystallization method for ScDF
-- [Multi-Wavelength Anomalous Diffraction (MAD)](/xray-mp-wiki/methods/structure-determination/multi-wavelength-anomalous-diffraction/) — MAD phasing with SeMet was essential for solving the ScDF structure
-- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Used in purification of ScDF
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [DTT](/xray-mp-wiki/reagents/additives/dtt/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/yeast-v1-atpase/">Yeast V1-ATPase from S. cerevisiae</a> — ScDF is a subcomplex of the yeast V-ATPase central stalk; the DF assembly couples ATP hydrolysis in V1 to ion pumping in VO
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/enterococcus-hirae-v1-atpase/">Enterococcus hirae V1-ATPase</a> — Related A-ATP synthase A3B3 structure used for fitting ScDF (PDB 3VR6); comparison of DF assembly across species
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/v1-atpase-t-thermophilus/">V1-ATPase from Thermus thermophilus</a> — Related bacterial V-ATPase; comparison of central stalk structure and rotary mechanism
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/">Rotary ATPase Mechanism</a> — ScDF is the central motor element coupling ATP hydrolysis to proton pumping in the rotary mechanism
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/peripheral-stalk-elasticity/">Peripheral Stalk Elasticity in ATP Synthase</a> — Flexibility of the ScF C-terminal region and its role in reversible V1VO disassembly relates to elastic energy transmission in the stalk
+- <a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">Sitting-Drop Vapor Diffusion</a> — Crystallization method for ScDF
+- <a href="/xray-mp-wiki/methods/structure-determination/multi-wavelength-anomalous-diffraction/">Multi-Wavelength Anomalous Diffraction (MAD)</a> — MAD phasing with SeMet was essential for solving the ScDF structure
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> — Used in purification of ScDF
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a> — Additive used in purification or crystallization buffers

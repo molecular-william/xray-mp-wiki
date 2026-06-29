@@ -1,12 +1,12 @@
 ---
 title: "Human CXCR4 Chemokine Receptor"
 created: 2026-06-08
-updated: 2026-06-16
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [gpcr, membrane-protein]
-sources: [doi/10.1126##science.1194396, doi/10.1126##science.1261064]
+sources: []
 verified: false
 ---
 
@@ -17,17 +17,9 @@ verified: false
 CXCR4 is a G protein-coupled chemokine receptor activated exclusively by the chemokine CXCL12 (SDF-1) and couples primarily through Gi proteins. It is a critical regulator of cell migration in immune surveillance, inflammation, and development. CXCR4 has been associated with more than 23 types of cancers, where it promotes metastasis, angiogenesis, and tumor growth. It also serves as a co-receptor for T-tropic HIV-1 viral entry.
 
 
-## Structure Determination
+## Publications
 
-No structure determined.
-
-## Expression and Purification
-
-No purification described.
-
-## Crystallization
-
-No crystallization described.
+No publications.
 
 ## Biological / Functional Insights
 
@@ -82,7 +74,7 @@ The structure provides a structural explanation for why CC chemokines bind exclu
 
 ## Cross-References
 
-- [It1T](/xray-mp-wiki/reagents/ligands/it1t/) — Referenced in the context of It1T
-- [Cvx15](/xray-mp-wiki/reagents/ligands/cvx15/) — Referenced in the context of Cvx15
-- [vMIP-II (Viral CC Chemokine Antagonist)](/xray-mp-wiki/reagents/ligands/vmip-ii/) — vMIP-II chemokine bound to CXCR4 in the 4RWS complex structure
-- [GPCR-Chemokine Recognition (CRS1/CRS1.5/CRS2)](/xray-mp-wiki/concepts/signaling-receptors/gpcr-chemokine-recognition/) — The CXCR4:vMIP-II structure established the three-part chemokine recognition site model
+- <a href="/xray-mp-wiki/reagents/ligands/it1t/">It1T</a> — Referenced in the context of It1T
+- <a href="/xray-mp-wiki/reagents/ligands/cvx15/">Cvx15</a> — Referenced in the context of Cvx15
+- <a href="/xray-mp-wiki/reagents/ligands/vmip-ii/">vMIP-II (Viral CC Chemokine Antagonist)</a> — vMIP-II chemokine bound to CXCR4 in the 4RWS complex structure
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/gpcr-chemokine-recognition/">GPCR-Chemokine Recognition (CRS1/CRS1.5/CRS2)</a> — The CXCR4:vMIP-II structure established the three-part chemokine recognition site model

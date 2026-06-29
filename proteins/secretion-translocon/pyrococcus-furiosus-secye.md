@@ -1,7 +1,7 @@
 ---
 title: "Pyrococcus furiosus SecYE Translocon"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -31,39 +31,439 @@ vestibule, acting as a nascent chain mimic. In vivo complementation assays showe
 [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) of the 15 C-terminal residues of [SECY](/xray-mp-wiki/proteins/secretion-translocon/secy/) fails to rescue a secY-deficient
 E. coli strain, confirming the essential role of this helix in protein targeting.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.1012556107 | 3MP7 | 3.1 A | P2_1 2_1 2_1 | Full-length Pyrococcus furiosus SecYEbeta complex; [SECY](/xray-mp-wiki/proteins/secretion-translocon/secy/) (1-468), [SECE](/xray-mp-wiki/proteins/secretion-translocon/sece/) (1-61), Secbeta (1-130) | none |
+### doi/10.1073##pnas.1012556107
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3mp7">3MP7</a></td>
+      <td>3.1 A</td>
+      <td>P2_1 2_1 2_1</td>
+      <td>Full-length Pyrococcus furiosus SecYEbeta complex; <a href="/xray-mp-wiki/proteins/secretion-translocon/secy/">SECY</a> (1-468), <a href="/xray-mp-wiki/proteins/secretion-translocon/sece/">SECE</a> (1-61), Secbeta (1-130)</td>
+      <td>none</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli
 - **Construct**: Full-length Pfu-SecYEbeta complex; [SECY](/xray-mp-wiki/proteins/secretion-translocon/secy/), [SECE](/xray-mp-wiki/proteins/secretion-translocon/sece/), Secbeta co-expressed
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Expression</td>
+      <td>Overexpression in E. coli</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>SecYEbeta complex expressed in E. coli</td>
+    </tr>
+    <tr>
+      <td>Selective heat precipitation</td>
+      <td>Heat treatment</td>
+      <td>--</td>
+      <td>-- + <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
+      <td>Selective heat precipitation of thermostable Pfu proteins</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Agarose Resin</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (His-tag)</td>
+      <td>Ni-NTA</td>
+      <td>-- + <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Gel-filtration chromatography</td>
+      <td>Size-exclusion chromatography</td>
+      <td>--</td>
+      <td>-- + <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
+      <td>Final purification step</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression | Overexpression in E. coli | -- | -- + -- | SecYEbeta complex expressed in E. coli |
-| Selective heat precipitation | Heat treatment | -- | -- + [OG](/xray-mp-wiki/reagents/detergents/og/) | Selective heat precipitation of thermostable Pfu proteins |
-| [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) (His-tag) | Ni-NTA | -- + [OG](/xray-mp-wiki/reagents/detergents/og/) | -- |
-| Gel-filtration chromatography | Size-exclusion chromatography | -- | -- + [OG](/xray-mp-wiki/reagents/detergents/og/) | Final purification step |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Not specified in main text</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Purified in <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a>. Data collected at ALS beamline 8.3.1. Seleno-MAD phasing at 3.5 A resolution. Anisotropic data truncated along a*, b*, c* to 3.3, 4.1, and 2.9 A respectively with anisotropic scaling.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3mp7">3MP7</a> — Chain A (10 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGARDIIYALERWFPEVERPKRRVP</span><span class="topo-inside">LRERFMWT</span><span class="topo-membrane">GVALILYYVLAEIPV</span><span class="topo-outside">YGIPERIQDYFQ</span></span>
+<span class="topo-line"><span class="topo-outside">FLRVVLAGRNGS</span><span class="topo-membrane">ILTLGIGPIVTAGIIL</span><span class="topo-inside">QL</span><span class="topo-unknown">LVGSEIIKLDLANPEDRRFYQAL</span><span class="topo-inside">QR</span><span class="topo-membrane">VFSVF</span></span>
+<span class="topo-line"><span class="topo-membrane">MCFFEAAVWI</span><span class="topo-outside">LGGAFGRV</span><span class="topo-unknown">GVDVTY</span><span class="topo-outside">AIAV</span><span class="topo-membrane">LMILQLAMGGIVLIILDE</span><span class="topo-inside">LVSKWGIGSG</span><span class="topo-membrane">ISLF</span></span>
+<span class="topo-line"><span class="topo-membrane">IAAGVSQTILTRSLNP</span><span class="topo-outside">LTDPN</span><span class="topo-unknown">IID</span><span class="topo-outside">PLTGQPAIVGAIPYFIQHILKGDLWGAIYRGGSAP</span><span class="topo-membrane">D</span></span>
+<span class="topo-line"><span class="topo-membrane">MLSVVATIVVFFIVVYF</span><span class="topo-inside">ESMRVEI</span><span class="topo-unknown">PLGYRGVTVRGS</span><span class="topo-inside">YPIRFLYVS</span><span class="topo-membrane">NIPIILTFALYANIQ</span></span>
+<span class="topo-line"><span class="topo-membrane">LWA</span><span class="topo-outside">RVLDRLGHPWLGRFDPTTGSPISGFVLYVIPPRNIFSVIDNP</span><span class="topo-membrane">VRAIVYLILTVIFSL</span></span>
+<span class="topo-line"><span class="topo-membrane">LFG</span><span class="topo-inside">YLWVELTGLDARSIAR</span><span class="topo-unknown">QLQRAGLQ</span><span class="topo-inside">IPGFRRDPRTLEK</span><span class="topo-unknown">VLQRYI</span><span class="topo-inside">PYVTFW</span><span class="topo-membrane">GSLTVALI</span></span>
+<span class="topo-line"><span class="topo-membrane">AVLADFL</span><span class="topo-outside">G</span><span class="topo-membrane">ALGTGTGILLTVGIL</span><span class="topo-inside">YRFYEEIAREQITEMFPALRKLFGAGT</span><span class="topo-unknown">LVPRGSHHHH</span></span>
+<span class="topo-line"><span class="topo-unknown">HH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>25</td>
+      <td>1</td>
+      <td>25</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>33</td>
+      <td>26</td>
+      <td>33</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>48</td>
+      <td>34</td>
+      <td>48</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>72</td>
+      <td>49</td>
+      <td>72</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>88</td>
+      <td>73</td>
+      <td>88</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>90</td>
+      <td>89</td>
+      <td>90</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>113</td>
+      <td>91</td>
+      <td>113</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>114</td>
+      <td>115</td>
+      <td>114</td>
+      <td>115</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>130</td>
+      <td>116</td>
+      <td>130</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>131</td>
+      <td>138</td>
+      <td>131</td>
+      <td>138</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>139</td>
+      <td>144</td>
+      <td>139</td>
+      <td>144</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>145</td>
+      <td>148</td>
+      <td>145</td>
+      <td>148</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>166</td>
+      <td>149</td>
+      <td>166</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>167</td>
+      <td>176</td>
+      <td>167</td>
+      <td>176</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>177</td>
+      <td>196</td>
+      <td>177</td>
+      <td>196</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>197</td>
+      <td>201</td>
+      <td>197</td>
+      <td>201</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>202</td>
+      <td>204</td>
+      <td>202</td>
+      <td>204</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>205</td>
+      <td>239</td>
+      <td>205</td>
+      <td>239</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>240</td>
+      <td>257</td>
+      <td>240</td>
+      <td>257</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>264</td>
+      <td>258</td>
+      <td>264</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>265</td>
+      <td>276</td>
+      <td>265</td>
+      <td>276</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>277</td>
+      <td>285</td>
+      <td>277</td>
+      <td>285</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>286</td>
+      <td>303</td>
+      <td>286</td>
+      <td>303</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>304</td>
+      <td>345</td>
+      <td>304</td>
+      <td>345</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>346</td>
+      <td>363</td>
+      <td>346</td>
+      <td>363</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>364</td>
+      <td>379</td>
+      <td>364</td>
+      <td>379</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>380</td>
+      <td>387</td>
+      <td>380</td>
+      <td>387</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>388</td>
+      <td>400</td>
+      <td>388</td>
+      <td>400</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>401</td>
+      <td>406</td>
+      <td>401</td>
+      <td>406</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>407</td>
+      <td>412</td>
+      <td>407</td>
+      <td>412</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>413</td>
+      <td>427</td>
+      <td>413</td>
+      <td>427</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>428</td>
+      <td>428</td>
+      <td>428</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>429</td>
+      <td>443</td>
+      <td>429</td>
+      <td>443</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>444</td>
+      <td>470</td>
+      <td>444</td>
+      <td>470</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>471</td>
+      <td>482</td>
+      <td>471</td>
+      <td>482</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1073##pnas.1012556107
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3mp7">3MP7</a> — Chain B (1 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Not specified in main text |
-| Notes | Purified in [OG](/xray-mp-wiki/reagents/detergents/og/). Data collected at ALS beamline 8.3.1. Seleno-MAD phasing at 3.5 A resolution. Anisotropic data truncated along a*, b*, c* to 3.3, 4.1, and 2.9 A respectively with anisotropic scaling. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MAELQER</span><span class="topo-inside">IRHFWKESRRAFLVTKKPNWA</span><span class="topo-unknown">TYKRAA</span><span class="topo-membrane">KITGLGIILIGLIGMLIRIVG</span><span class="topo-outside">ILILG</span></span>
+<span class="topo-line"><span class="topo-outside">G</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>7</td>
+      <td>0</td>
+      <td>6</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>28</td>
+      <td>7</td>
+      <td>28</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>34</td>
+      <td>29</td>
+      <td>34</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>55</td>
+      <td>35</td>
+      <td>55</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>61</td>
+      <td>56</td>
+      <td>61</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
 
 ## Biological / Functional Insights
 
@@ -115,13 +515,13 @@ topological arbitration of the incoming nascent chain.
 
 ## Cross-References
 
-- [Thermus thermophilus SecY Core Channel Subunit](/xray-mp-wiki/proteins/secretion-translocon/secy/) — Homologous SecY channel protein from a different organism
-- [Thermus thermophilus SecYEG Translocon Complex](/xray-mp-wiki/proteins/secretion-translocon/secyeg/) — Homologous SecYEG complex from a different organism
-- [SecE Accessory Subunit](/xray-mp-wiki/proteins/secretion-translocon/sece/) — SecE is the essential accessory subunit of the SecY complex
-- [SecG Accessory Subunit](/xray-mp-wiki/proteins/secretion-translocon/secg/) — SecG (homolog of Secbeta) is the accessory subunit of the SecY complex
-- [Methanococcus jannaschii SecY Translocation Channel](/xray-mp-wiki/proteins/secretion-translocon/methanococcus-jannaschii-secy/) — Homologous archaeal SecY; used as molecular replacement model for Pfu-SecYE structure solution
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — The SecY channel undergoes conformational changes to alternately open the lateral gate and displace the plug during translocation
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
-- [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/proteins/secretion-translocon/secy/">Thermus thermophilus SecY Core Channel Subunit</a> — Homologous SecY channel protein from a different organism
+- <a href="/xray-mp-wiki/proteins/secretion-translocon/secyeg/">Thermus thermophilus SecYEG Translocon Complex</a> — Homologous SecYEG complex from a different organism
+- <a href="/xray-mp-wiki/proteins/secretion-translocon/sece/">SecE Accessory Subunit</a> — SecE is the essential accessory subunit of the SecY complex
+- <a href="/xray-mp-wiki/proteins/secretion-translocon/secg/">SecG Accessory Subunit</a> — SecG (homolog of Secbeta) is the accessory subunit of the SecY complex
+- <a href="/xray-mp-wiki/proteins/secretion-translocon/methanococcus-jannaschii-secy/">Methanococcus jannaschii SecY Translocation Channel</a> — Homologous archaeal SecY; used as molecular replacement model for Pfu-SecYE structure solution
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating-Access Mechanism</a> — The SecY channel undergoes conformational changes to alternately open the lateral gate and displace the plug during translocation
+- <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a> — Related biological concept
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Agarose Resin</a> — Additive used in purification or crystallization buffers

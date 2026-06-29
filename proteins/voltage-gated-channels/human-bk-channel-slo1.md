@@ -1,7 +1,7 @@
 ---
 title: "Human BK Channel (Slo1)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,37 +17,118 @@ verified: false
 The BK (Slo1) channel is a high-conductance voltage- and Ca2+-activated K+ channel that provides negative feedback regulation of membrane voltage and Ca2+ signaling, playing central roles in neuronal excitability, smooth muscle contractility, and hair cell tuning. It is dually regulated by membrane voltage and intracellular Ca2+. Depolarization and increased intracellular Ca2+ both cause BK channels to open, hyperpolarizing the membrane and reducing Ca2+ influx.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1126##science.1190414 | 3MT5 | 3.0 |  | Human BK channel CTD (gating ring, residues 343-1061) | None |
-| doi/10.1073##pnas.1908183117 | 6V5A | 2.0 |  | Human BK channel CTD L390P mutant | None |
-| doi/10.1038##nature09252 | 3NAF | 3.10 | I422 | Human BK channel intracellular domain residues 329-1113, N-terminal GCN4_LI leucine zipper fusion | None (Ca2+-free state) |
+### doi/10.1126##science.1190414
 
-## Expression and Purification
+**Structures:**
 
-### Purification Workflow
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3mt5">3MT5</a></td>
+      <td>3.0</td>
+      <td></td>
+      <td>Human BK channel CTD (gating ring, residues 343-1061)</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
+
+### doi/10.1073##pnas.1908183117
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6v5a">6V5A</a></td>
+      <td>2.0</td>
+      <td></td>
+      <td>Human BK channel CTD L390P mutant</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
+
+**Purification:**
 
 - **Expression system**: E. coli
 - **Expression construct**: Human BK CTD L390P mutant (residues 343-1061)
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Protein expression and purification</td>
+      <td>Standard E. coli expression and chromatography</td>
+      <td>—</td>
+      <td></td>
+      <td>Structure determined by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using PDB 3MT5 as search model with alphaB helix deleted to avoid model bias. Final model Rwork/Rfree = 20.3%/22.5% at 2.0 A.</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Protein expression and purification | Standard E. coli expression and chromatography | — |  | Structure determined by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) using PDB 3MT5 as search model with alphaB helix deleted to avoid model bias. Final model Rwork/Rfree = 20.3%/22.5% at 2.0 A. |
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Human BK CTD L390P mutant</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystal structure refined to 2.0 A resolution. L390P mutation flattens the first turn of the alphaB helix compared to wild-type, with no other notable structural changes in the CTD.</td>
+    </tr>
+  </tbody>
+</table>
+### doi/10.1038##nature09252
 
-## Crystallization
+**Structures:**
 
-### doi/10.1073##pnas.1908183117
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | Human BK CTD L390P mutant |
-| Notes | Crystal structure refined to 2.0 A resolution. L390P mutation flattens the first turn of the alphaB helix compared to wild-type, with no other notable structural changes in the CTD. |
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3naf">3NAF</a></td>
+      <td>3.10</td>
+      <td>I422</td>
+      <td>Human BK channel intracellular domain residues 329-1113, N-terminal GCN4_LI leucine zipper fusion</td>
+      <td>None (Ca2+-free state)</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ## Biological / Functional Insights
@@ -99,8 +180,8 @@ The Nature 2010 structure (PDB 3NAF) at 3.1 A revealed the full BK channel gatin
 
 ## Cross-References
 
-- [BK Channel Gating Mechanism](/xray-mp-wiki/concepts/bk-channel-gating/) — The alphaB helix/VSD interface is a key element in BK channel allosteric gating
-- [Allosteric Coupling](/xray-mp-wiki/concepts/allosteric-coupling/) — HCA model analysis reveals allosteric coupling between voltage sensors and pore gate
-- [RCK Domain Gating Ring](/xray-mp-wiki/concepts/rck-domain-gating-ring/) — The CTD gating ring houses Ca2+ sensors and transduces Ca2+ binding to pore opening
-- [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Method used in structure determination or purification
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/concepts/bk-channel-gating/">BK Channel Gating Mechanism</a> — The alphaB helix/VSD interface is a key element in BK channel allosteric gating
+- <a href="/xray-mp-wiki/concepts/allosteric-coupling/">Allosteric Coupling</a> — HCA model analysis reveals allosteric coupling between voltage sensors and pore gate
+- <a href="/xray-mp-wiki/concepts/rck-domain-gating-ring/">RCK Domain Gating Ring</a> — The CTD gating ring houses Ca2+ sensors and transduces Ca2+ binding to pore opening
+- <a href="/xray-mp-wiki/methods/structure-determination/cryo-em/">Cryo-Electron Microscopy</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification

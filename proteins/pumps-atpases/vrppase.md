@@ -1,7 +1,7 @@
 ---
 title: "VrPPase (Vibrio rotiferans H+-Pumping Pyrophosphatase)"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,20 +17,38 @@ verified: false
 VrPPase (H+-pumping inorganic pyrophosphatase from Vibrio rotiferans) is a membrane-bound enzyme that catalyzes the hydrolysis of inorganic pyrophosphate (PPi) and couples the released energy to proton translocation across the membrane. This bacterial M-PPase forms a dimer with 16 transmembrane helices per monomer. The structure reveals distinct inner-ring (gold) and outer-ring (red) helical sub-structures in the dimer. Two conformational states have been captured — substrate-analogue-bound (VrPPase:[IDP](/xray-mp-wiki/reagents/ligands/idp/)) and product-bound (VrPPase:P_i) — providing structural insights into the conformational cycle of M-PPases.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##ncomms13596 |  | Not specified (supplementary only) | Not specified (supplementary only) |  | [IDP](/xray-mp-wiki/reagents/ligands/idp/) (inositol pyrophosphate) |
-| doi/10.1038##ncomms13596 |  | Not specified (supplementary only) | Not specified (supplementary only) |  | Pi (inorganic phosphate) |
+### doi/10.1038##ncomms13596
 
-## Expression and Purification
+**Structures:**
 
-No purification described.
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>Not specified (supplementary only)</td>
+      <td>Not specified (supplementary only)</td>
+      <td></td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/idp/">IDP</a> (inositol pyrophosphate)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Not specified (supplementary only)</td>
+      <td>Not specified (supplementary only)</td>
+      <td></td>
+      <td>Pi (inorganic phosphate)</td>
+    </tr>
+  </tbody>
+</table>
 
-## Crystallization
-
-No crystallization described.
 
 ## Biological / Functional Insights
 
@@ -82,8 +100,8 @@ etidronate against H+-PPases.
 
 ## Cross-References
 
-- [VrH+PPase (Vigna radiata H+-Pumping Inorganic Pyrophosphatase)](/xray-mp-wiki/proteins/pumps-atpases/vrh-ppase/) — Plant homolog with conserved dimeric architecture and 16 TM helices per monomer
-- [TmPPase (Thermotoga maritima H+-Pumping Pyrophosphatase)](/xray-mp-wiki/proteins/pumps-atpases/tmppase/) — Bacterial homolog with 99.7% sequence identity at key residues; 4 vs 2 captured states
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — M-PPases cycle between outward-facing and inward-facing conformations
-- [Conformational Dynamics in MFS Transporters](/xray-mp-wiki/concepts/transport-mechanisms/conformational-dynamics-mfs/) — Related conformational change principles apply to M-PPase helix movements
-- [IDP](/xray-mp-wiki/reagents/ligands/idp/) — Related ligand or cofactor
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/vrh-ppase/">VrH+PPase (Vigna radiata H+-Pumping Inorganic Pyrophosphatase)</a> — Plant homolog with conserved dimeric architecture and 16 TM helices per monomer
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/tmppase/">TmPPase (Thermotoga maritima H+-Pumping Pyrophosphatase)</a> — Bacterial homolog with 99.7% sequence identity at key residues; 4 vs 2 captured states
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating-Access Mechanism</a> — M-PPases cycle between outward-facing and inward-facing conformations
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/conformational-dynamics-mfs/">Conformational Dynamics in MFS Transporters</a> — Related conformational change principles apply to M-PPase helix movements
+- <a href="/xray-mp-wiki/reagents/ligands/idp/">IDP</a> — Related ligand or cofactor

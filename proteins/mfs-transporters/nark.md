@@ -1,7 +1,7 @@
 ---
 title: "NarK Nitrate/Nitrite Antiporter from Escherichia coli"
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -19,82 +19,1522 @@ NarK plays a central role in nitrate uptake and nitrite extrusion in Escherichia
 movement of transmembrane helices and key residues in the substrate-binding site. NarK comprises 12 transmembrane helices with pseudo twofold symmetry and adopts inward-open, occluded, and outward-open conformations during the alternating access transport cycle.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature12139 | 4JR9 | 2.60 | not specified | Full-length E. coli NarK (strain K12) co-crystallized with Fab antibody fragment (hybridoma line 4G5, IgG2a, kappa) | none (apo, inward-facing conformation) |
-| doi/10.1038##nature12139 | 4JR9 | 2.80 | not specified | NarK-Fab complex crystal soaked in buffer containing 50 mM sodium nitrite | nitrite (NO2-) |
-| doi/10.1038##ncomms8097 | 4U4V | 2.35 A | P2_12_12_1 | Full-length E. coli NarK (GI: 945783, residues 1-427) from strain K-12 MG1655, N-terminal His8-GFP tag cleaved | none (apo inward-open state) |
-| doi/10.1038##ncomms8097 | 4U4V | 2.4 A | P2_12_12_1 | Full-length E. coli NarK with nitrate bound | nitrate ion (NO3-) |
-| doi/10.1038##ncomms8097 | 4U4V | 2.4 A | P2_12_12_1 | Full-length E. coli NarK with nitrate bound | nitrate ion (NO3-) |
+### doi/10.1038##nature12139
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4jr9">4JR9</a></td>
+      <td>2.60</td>
+      <td>not specified</td>
+      <td>Full-length E. coli NarK (strain K12) co-crystallized with Fab antibody fragment (hybridoma line 4G5, IgG2a, kappa)</td>
+      <td>none (apo, inward-facing conformation)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4jr9">4JR9</a></td>
+      <td>2.80</td>
+      <td>not specified</td>
+      <td>NarK-Fab complex crystal soaked in buffer containing 50 mM sodium nitrite</td>
+      <td>nitrite (NO2-)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli BL21(DE3) C41 (for nature12139) or E. coli C41(DE3) Delta ACRB (for ncomms8097)
 - **Construct**: Full-length NarK from E. coli K12, pET15b with N-terminal 8x His-tag and thrombin cleavage site (nature12139) or pET-modified with N-terminal His8-GFP tag (ncomms8097)
 - **Induction**: 0.3 mM IPTG at 37 C for 4-5 h (nature12139); 0.5 mM IPTG at 20 C for 24 h (ncomms8097)
 
-### Purification Workflow
+**Purification:**
 
-#### Source: doi/10.1038##nature12139
-
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| 1. Membrane preparation | Ultracentrifugation | not applicable | 20 mM Tris-HCl pH 8, 150 mM NaCl, 1 mM PMSF | 30 min at 15,000g to remove debris, then 1 h at 130,000g to pellet membranes. Pellets resuspended and frozen at -80 C until use. |
-| 2. Solubilization | Detergent solubilization | not applicable | 20 mM Tris-HCl pH 8, 150 mM NaCl + 1% n-decyl-beta-D-maltopyranoside (DM) | 4 C for 2 h. After addition of 20 mM imidazole, clarified by centrifugation. |
-| 3. Ni-NTA affinity chromatography | Affinity chromatography | Ni-NTA agarose | 20 mM Tris-HCl pH 8, 150 mM NaCl, 0.2% DM | Wash with 50 mM imidazole, elution with 250 mM imidazole in same buffer. |
-| 4. Thrombin cleavage and SEC | Thrombin digestion + gel filtration | Superdex-200 | 20 mM Tris-HCl pH 8, 150 mM NaCl, 0.2% DM | His-tag removed by thrombin digestion at 1:1000 enzyme:protein molar ratio, 4 C overnight. Final gel filtration in Superdex-200. |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1. Membrane preparation</td>
+      <td><a href="/xray-mp-wiki/methods/purification/ultracentrifugation">Ultracentrifugation</a></td>
+      <td>not applicable</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>-HCl pH 8, 150 mM NaCl, 1 mM PMSF</td>
+      <td>30 min at 15,000g to remove debris, then 1 h at 130,000g to pellet membranes. Pellets resuspended and frozen at -80 C until use.</td>
+    </tr>
+    <tr>
+      <td>2. Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>not applicable</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>-HCl pH 8, 150 mM NaCl + 1% n-decyl-beta-D-maltopyranoside (DM)</td>
+      <td>4 C for 2 h. After addition of 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">imidazole</a>, clarified by centrifugation.</td>
+    </tr>
+    <tr>
+      <td>3. <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>-HCl pH 8, 150 mM NaCl, 0.2% DM</td>
+      <td>Wash with 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">imidazole</a>, elution with 250 mM <a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a> in same buffer.</td>
+    </tr>
+    <tr>
+      <td>4. Thrombin cleavage and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td>Thrombin digestion + <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">gel filtration</a></td>
+      <td>Superdex-200</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>-HCl pH 8, 150 mM NaCl, 0.2% DM</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/his-tag/">His-tag</a> removed by thrombin digestion at 1:1000 enzyme:protein molar ratio, 4 C overnight. Final <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">gel filtration</a> in Superdex-200.</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: Purified NarK in 0.2% DM buffer
 
-#### Source: doi/10.1038##ncomms8097
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion">Hanging-drop vapor diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>NarK-Fab complex at 5.8 mg/mL in 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>-HCl pH 8, 150 mM NaCl, 0.2% DM</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.1 M citric acid pH 3.5, 0.1 M NaCl, 0.1 M Li2SO4, 28% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a>400</td>
+    </tr>
+    <tr>
+      <td>Mixing ratio</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>30% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a>400 in reservoir solution for 5 min before flash freezing</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Fab antibody fragment produced from mouse monoclonal IgG (hybridoma line 4G5, IgG2a, kappa). Initial NarK crystals gave anisotropic diffraction to 4-6 A. Only NarK-Fab complex gave high-quality crystals diffracting to ~2.5 A. Data collected at ALS beamline 8.2.2. Nitrite-bound crystals obtained by soaking in 50 mM sodium nitrite overnight before freezing. Nitrate soaking deteriorated crystal packing.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-##### Steps
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4jr9">4JR9</a> — Chain A (12 TMs, alpha)**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Microfluidizer processor (Microfluidics) at 15,000 p.s.i., three passages | not applicable | 50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 300 mM NaCl, 20 mM NaNO3, 0.1 mM [PMSF](/xray-mp-wiki/reagents/additives/pmsf), 4 mM [beta-Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol) | Centrifugation at 12,000g, 30 min, 4 C to remove debris |
-| Membrane isolation | Ultracentrifugation | not applicable | Same as lysis buffer | 138,000g, 1 h, 4 C to pellet membranes |
-| Solubilization | Detergent solubilization | not applicable | 50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 300 mM NaCl, 20 mM NaNO3, 0.1 mM [PMSF](/xray-mp-wiki/reagents/additives/pmsf), 4 mM [beta-Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol) + 2% n-dodecyl-beta-D-maltoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm)), 0.4% cholesteryl hemisuccinate (CHS) | 30 min at 4 C, ultracentrifugation at 138,000g, 30 min |
-| Affinity chromatography | Ni-NTA affinity chromatography | Ni-NTA Superflow (Qiagen), 10 ml | 50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 300 mM NaCl, 25 mM NaNO3, 4 mM [beta-Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol), 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm), 0.01% CHS + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm), 0.01% CHS | Binding 2 h; wash with 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole); elution with 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) at 4 C |
-| Tag cleavage | Protease cleavage | Ni-NTA column (10 ml) |  | His-tagged tobacco etch virus protease (produced in-house) cleaved GFP-His8 tag; protease retained on column |
-| Size-exclusion chromatography | SEC | HiLoad 16/600 Superdex 200 pg column (GE Healthcare) | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 150 mM NaCl, 25 mM NaNO3, 4 mM [beta-Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol), 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm), 0.01% CHS + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm), 0.01% CHS | Final sample concentrated to 15-20 mg/ml |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GSHMSHSSAPERAT</span><span class="topo-outside">GAVITDWRPEDPAFWQQRGQRIASRNLWI</span><span class="topo-membrane">SVPCLLLAFCVWMLFSA</span></span>
+<span class="topo-line"><span class="topo-inside">VAVNLPKVGFNFTTDQLFM</span><span class="topo-membrane">LTALPSVSGALLRVPYS</span><span class="topo-outside">FMVPIFGGRRW</span><span class="topo-membrane">TAFSTGILIIPCV</span></span>
+<span class="topo-line"><span class="topo-membrane">WLG</span><span class="topo-inside">FAVQDTSTPYSVFI</span><span class="topo-membrane">IISLLCGFAGANFASS</span><span class="topo-outside">MANISFFFPKQKQGGALGL</span><span class="topo-membrane">NGGLGNMG</span></span>
+<span class="topo-line"><span class="topo-membrane">VSVMQLVAPLV</span><span class="topo-inside">VS</span><span class="topo-unknown">LSIFAVFGSQGVKQPDGTELY</span><span class="topo-inside">LAN</span><span class="topo-membrane">ASWIWVPFLAIFTIAAW</span><span class="topo-outside">FGMNDL</span></span>
+<span class="topo-line"><span class="topo-outside">A</span><span class="topo-unknown">TSKASIKEQLPVLKRGH</span><span class="topo-outside">LW</span><span class="topo-membrane">IMSLLYLATFGSFIGFSAGF</span><span class="topo-inside">AMLSKTQFPDVQILQ</span><span class="topo-membrane">YAFFG</span></span>
+<span class="topo-line"><span class="topo-membrane">PFIGALARSAGG</span><span class="topo-outside">ALSDRLGGT</span><span class="topo-membrane">RVTLVNFILMAIFSGLL</span><span class="topo-inside">FLTLPTDGQGGSFMAFF</span><span class="topo-membrane">AVFLA</span></span>
+<span class="topo-line"><span class="topo-membrane">LFLTAGLGSGSTF</span><span class="topo-outside">QMISVIFRKLTMDRVKAEGGSDERAMREAATDTAAALG</span><span class="topo-membrane">FISAIGAIG</span></span>
+<span class="topo-line"><span class="topo-membrane">GFFIPKA</span><span class="topo-inside">FGSSLALTGSPVGA</span><span class="topo-membrane">MKVFLIFYIACVVITWAV</span><span class="topo-outside">YG</span><span class="topo-unknown">RHSKK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>14</td>
+      <td>-2</td>
+      <td>11</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>43</td>
+      <td>12</td>
+      <td>40</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>60</td>
+      <td>41</td>
+      <td>57</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>79</td>
+      <td>58</td>
+      <td>76</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>96</td>
+      <td>77</td>
+      <td>93</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>107</td>
+      <td>94</td>
+      <td>104</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>123</td>
+      <td>105</td>
+      <td>120</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>137</td>
+      <td>121</td>
+      <td>134</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>138</td>
+      <td>153</td>
+      <td>135</td>
+      <td>150</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>154</td>
+      <td>172</td>
+      <td>151</td>
+      <td>169</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>173</td>
+      <td>191</td>
+      <td>170</td>
+      <td>188</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>193</td>
+      <td>189</td>
+      <td>190</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>194</td>
+      <td>214</td>
+      <td>191</td>
+      <td>211</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>215</td>
+      <td>217</td>
+      <td>212</td>
+      <td>214</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>234</td>
+      <td>215</td>
+      <td>231</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>241</td>
+      <td>232</td>
+      <td>238</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>242</td>
+      <td>258</td>
+      <td>239</td>
+      <td>255</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>259</td>
+      <td>260</td>
+      <td>256</td>
+      <td>257</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>261</td>
+      <td>280</td>
+      <td>258</td>
+      <td>277</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>281</td>
+      <td>295</td>
+      <td>278</td>
+      <td>292</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>296</td>
+      <td>312</td>
+      <td>293</td>
+      <td>309</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>313</td>
+      <td>321</td>
+      <td>310</td>
+      <td>318</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>322</td>
+      <td>338</td>
+      <td>319</td>
+      <td>335</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>339</td>
+      <td>355</td>
+      <td>336</td>
+      <td>352</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>356</td>
+      <td>373</td>
+      <td>353</td>
+      <td>370</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>374</td>
+      <td>411</td>
+      <td>371</td>
+      <td>408</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>412</td>
+      <td>427</td>
+      <td>409</td>
+      <td>424</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>441</td>
+      <td>425</td>
+      <td>438</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>442</td>
+      <td>459</td>
+      <td>439</td>
+      <td>456</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>460</td>
+      <td>461</td>
+      <td>457</td>
+      <td>458</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>462</td>
+      <td>466</td>
+      <td>459</td>
+      <td>463</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-**Final sample**: 15-20 mg/ml
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4jr9">4JR9</a> — Chain A (12 TMs, alpha)**
 
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GSHMSHSSAPERAT</span><span class="topo-outside">GAVITDWRPEDPAFWQQRGQRIASRNLWI</span><span class="topo-membrane">SVPCLLLAFCVWMLFSA</span></span>
+<span class="topo-line"><span class="topo-inside">VAVNLPKVGFNFTTDQLFM</span><span class="topo-membrane">LTALPSVSGALLRVPYS</span><span class="topo-outside">FMVPIFGGRRW</span><span class="topo-membrane">TAFSTGILIIPCV</span></span>
+<span class="topo-line"><span class="topo-membrane">WLG</span><span class="topo-inside">FAVQDTSTPYSVFI</span><span class="topo-membrane">IISLLCGFAGANFASS</span><span class="topo-outside">MANISFFFPKQKQGGALGL</span><span class="topo-membrane">NGGLGNMG</span></span>
+<span class="topo-line"><span class="topo-membrane">VSVMQLVAPLV</span><span class="topo-inside">VS</span><span class="topo-unknown">LSIFAVFGSQGVKQPDGTELY</span><span class="topo-inside">LAN</span><span class="topo-membrane">ASWIWVPFLAIFTIAAW</span><span class="topo-outside">FGMNDL</span></span>
+<span class="topo-line"><span class="topo-outside">A</span><span class="topo-unknown">TSKASIKEQLPVLKRGH</span><span class="topo-outside">LW</span><span class="topo-membrane">IMSLLYLATFGSFIGFSAGF</span><span class="topo-inside">AMLSKTQFPDVQILQ</span><span class="topo-membrane">YAFFG</span></span>
+<span class="topo-line"><span class="topo-membrane">PFIGALARSAGG</span><span class="topo-outside">ALSDRLGGT</span><span class="topo-membrane">RVTLVNFILMAIFSGLL</span><span class="topo-inside">FLTLPTDGQGGSFMAFF</span><span class="topo-membrane">AVFLA</span></span>
+<span class="topo-line"><span class="topo-membrane">LFLTAGLGSGSTF</span><span class="topo-outside">QMISVIFRKLTMDRVKAEGGSDERAMREAATDTAAALG</span><span class="topo-membrane">FISAIGAIG</span></span>
+<span class="topo-line"><span class="topo-membrane">GFFIPKA</span><span class="topo-inside">FGSSLALTGSPVGA</span><span class="topo-membrane">MKVFLIFYIACVVITWAV</span><span class="topo-outside">YG</span><span class="topo-unknown">RHSKK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>14</td>
+      <td>-2</td>
+      <td>11</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>43</td>
+      <td>12</td>
+      <td>40</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>60</td>
+      <td>41</td>
+      <td>57</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>79</td>
+      <td>58</td>
+      <td>76</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>96</td>
+      <td>77</td>
+      <td>93</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>107</td>
+      <td>94</td>
+      <td>104</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>123</td>
+      <td>105</td>
+      <td>120</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>137</td>
+      <td>121</td>
+      <td>134</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>138</td>
+      <td>153</td>
+      <td>135</td>
+      <td>150</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>154</td>
+      <td>172</td>
+      <td>151</td>
+      <td>169</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>173</td>
+      <td>191</td>
+      <td>170</td>
+      <td>188</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>193</td>
+      <td>189</td>
+      <td>190</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>194</td>
+      <td>214</td>
+      <td>191</td>
+      <td>211</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>215</td>
+      <td>217</td>
+      <td>212</td>
+      <td>214</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>234</td>
+      <td>215</td>
+      <td>231</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>241</td>
+      <td>232</td>
+      <td>238</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>242</td>
+      <td>258</td>
+      <td>239</td>
+      <td>255</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>259</td>
+      <td>260</td>
+      <td>256</td>
+      <td>257</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>261</td>
+      <td>280</td>
+      <td>258</td>
+      <td>277</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>281</td>
+      <td>295</td>
+      <td>278</td>
+      <td>292</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>296</td>
+      <td>312</td>
+      <td>293</td>
+      <td>309</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>313</td>
+      <td>321</td>
+      <td>310</td>
+      <td>318</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>322</td>
+      <td>338</td>
+      <td>319</td>
+      <td>335</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>339</td>
+      <td>355</td>
+      <td>336</td>
+      <td>352</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>356</td>
+      <td>373</td>
+      <td>353</td>
+      <td>370</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>374</td>
+      <td>411</td>
+      <td>371</td>
+      <td>408</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>412</td>
+      <td>427</td>
+      <td>409</td>
+      <td>424</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>441</td>
+      <td>425</td>
+      <td>438</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>442</td>
+      <td>459</td>
+      <td>439</td>
+      <td>456</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>460</td>
+      <td>461</td>
+      <td>457</td>
+      <td>458</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>462</td>
+      <td>466</td>
+      <td>459</td>
+      <td>463</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-## Crystallization
-
-### doi/10.1038##nature12139
-
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | NarK-Fab complex at 5.8 mg/mL in 20 mM Tris-HCl pH 8, 150 mM NaCl, 0.2% DM |
-| Reservoir | 0.1 M citric acid pH 3.5, 0.1 M NaCl, 0.1 M Li2SO4, 28% PEG400 |
-| Mixing ratio | not specified |
-| Temperature | not specified |
-| Growth time | not specified |
-| Cryoprotection | 30% PEG400 in reservoir solution for 5 min before flash freezing |
-| Notes | Fab antibody fragment produced from mouse monoclonal IgG (hybridoma line 4G5, IgG2a, kappa). Initial NarK crystals gave anisotropic diffraction to 4-6 A. Only NarK-Fab complex gave high-quality crystals diffracting to ~2.5 A. Data collected at ALS beamline 8.2.2. Nitrite-bound crystals obtained by soaking in 50 mM sodium nitrite overnight before freezing. Nitrate soaking deteriorated crystal packing. |
-
+</div>
 ### doi/10.1038##ncomms8097
 
-| Parameter | Value |
-|---|---|
-| Method | Sitting-drop vapor diffusion |
-| Protein sample | Purified NarK, 15-20 mg/ml |
-| Reservoir | not specified in paper |
-| Mixing ratio | not specified |
-| Temperature | not specified |
-| Growth time | not specified |
-| Notes | Three crystal structures determined (apo inward-open, nitrate-bound inward-open, nitrate-bound occluded); all in P212121 space group; X-ray source: SPring-8 BL32XU |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4u4v">4U4V</a></td>
+      <td>2.35 A</td>
+      <td>P2_12_12_1</td>
+      <td>Full-length E. coli NarK (GI: 945783, residues 1-427) from strain K-12 MG1655, N-terminal His8-GFP tag cleaved</td>
+      <td>none (apo inward-open state)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4u4v">4U4V</a></td>
+      <td>2.4 A</td>
+      <td>P2_12_12_1</td>
+      <td>Full-length E. coli NarK with nitrate bound</td>
+      <td>nitrate ion (NO3-)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4u4v">4U4V</a></td>
+      <td>2.4 A</td>
+      <td>P2_12_12_1</td>
+      <td>Full-length E. coli NarK with nitrate bound</td>
+      <td>nitrate ion (NO3-)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Escherichia coli BL21(DE3) C41 (for nature12139) or E. coli C41(DE3) Delta ACRB (for ncomms8097)
+- **Construct**: Full-length NarK from E. coli K12, pET15b with N-terminal 8x His-tag and thrombin cleavage site (nature12139) or pET-modified with N-terminal His8-GFP tag (ncomms8097)
+- **Induction**: 0.3 mM IPTG at 37 C for 4-5 h (nature12139); 0.5 mM IPTG at 20 C for 24 h (ncomms8097)
+
+**Purification:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td><a href="/xray-mp-wiki/methods/cell-lysis/french-press/">Microfluidizer</a> processor (Microfluidics) at 15,000 p.s.i., three passages</td>
+      <td>not applicable</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 20 mM NaNO3, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a>, 4 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">beta-Mercaptoethanol</a></td>
+      <td>Centrifugation at 12,000g, 30 min, 4 C to remove debris</td>
+    </tr>
+    <tr>
+      <td>Membrane isolation</td>
+      <td><a href="/xray-mp-wiki/methods/purification/ultracentrifugation">Ultracentrifugation</a></td>
+      <td>not applicable</td>
+      <td>Same as lysis buffer</td>
+      <td>138,000g, 1 h, 4 C to pellet membranes</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>not applicable</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 20 mM NaNO3, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a>, 4 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">beta-Mercaptoethanol</a> + 2% n-dodecyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>), 0.4% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate">cholesteryl hemisuccinate</a> (CHS)</td>
+      <td>30 min at 4 C, <a href="/xray-mp-wiki/methods/purification/ultracentrifugation">ultracentrifugation</a> at 138,000g, 30 min</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Superflow</a> (Qiagen), 10 ml</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 25 mM NaNO3, 4 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">beta-Mercaptoethanol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.01% CHS + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.01% CHS</td>
+      <td>Binding 2 h; wash with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>; elution with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> at 4 C</td>
+    </tr>
+    <tr>
+      <td>Tag cleavage</td>
+      <td>Protease cleavage</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> column (10 ml)</td>
+      <td></td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/his-tag/">His-tag</a>ged tobacco etch virus protease (produced in-house) cleaved <a href="/xray-mp-wiki/reagents/protein-tags/gfp/">GFP</a>-His8 tag; protease retained on column</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td>HiLoad 16/600 <a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200</a> pg column (GE Healthcare)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 25 mM NaNO3, 4 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">beta-Mercaptoethanol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.01% CHS + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 0.01% CHS</td>
+      <td>Final sample concentrated to 15-20 mg/ml</td>
+    </tr>
+  </tbody>
+</table>
+**Final sample**: 15-20 mg/ml
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion">Sitting-drop vapor diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified NarK, 15-20 mg/ml</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>not specified in paper</td>
+    </tr>
+    <tr>
+      <td>Mixing ratio</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Three crystal structures determined (apo inward-open, nitrate-bound inward-open, nitrate-bound occluded); all in P212121 space group; X-ray source: SPring-8 BL32XU</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4u4v">4U4V</a> — Chain A (12 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MSHSSAPERATG</span><span class="topo-inside">AVITDWRPEDPAFWQQRGQRIASRNLW</span><span class="topo-membrane">ISVPCLLLAFCVWMLFS</span><span class="topo-outside">AVAV</span></span>
+<span class="topo-line"><span class="topo-outside">NLPKVGFNFTTDQLFML</span><span class="topo-membrane">TALPSVSGALLRVPY</span><span class="topo-inside">SFMVPIFGGRRW</span><span class="topo-membrane">TAFSTGILIIPCVWL</span><span class="topo-outside">G</span></span>
+<span class="topo-line"><span class="topo-outside">FAVQDTSTPYSVF</span><span class="topo-membrane">IIISLLCGFAGANFASS</span><span class="topo-inside">MANISFFFPKQKQGGAL</span><span class="topo-membrane">GLNGGLGNMGVSV</span></span>
+<span class="topo-line"><span class="topo-membrane">MQLVA</span><span class="topo-outside">PLVVSLSIFAVFGSQGVKQPDGTELYLANA</span><span class="topo-membrane">SWIWVPFLAIFTIAA</span><span class="topo-inside">WFGMNDLAT</span><span class="topo-unknown">S</span></span>
+<span class="topo-line"><span class="topo-unknown">KASIKEQ</span><span class="topo-inside">LPVLKRGHL</span><span class="topo-membrane">WIMSLLYLATFGSFIGFSA</span><span class="topo-outside">GFAMLSKTQFPDVQILQYA</span><span class="topo-membrane">FFGPFI</span></span>
+<span class="topo-line"><span class="topo-membrane">GALARSAGGALS</span><span class="topo-inside">DRLG</span><span class="topo-membrane">GTRVTLVNFILMAIFS</span><span class="topo-outside">GLLFLTLPTD</span><span class="topo-unknown">G</span><span class="topo-outside">QGGSFMAFFAV</span><span class="topo-membrane">FLALFL</span></span>
+<span class="topo-line"><span class="topo-membrane">TAGLGSGSTF</span><span class="topo-inside">QMISVIFRKLTMDRVKAEGGSDERAMREAATDTAAALG</span><span class="topo-membrane">FISAIGAIGGFF</span></span>
+<span class="topo-line"><span class="topo-membrane">IP</span><span class="topo-outside">KAFGSSLALTGSPVGAMK</span><span class="topo-membrane">VFLIFYIACVVITWAVY</span><span class="topo-inside">GRHSKK</span><span class="topo-unknown">LESSGENLYFQG</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>1</td>
+      <td>12</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>39</td>
+      <td>13</td>
+      <td>39</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>56</td>
+      <td>40</td>
+      <td>56</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>77</td>
+      <td>57</td>
+      <td>77</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>92</td>
+      <td>78</td>
+      <td>92</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>104</td>
+      <td>93</td>
+      <td>104</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>119</td>
+      <td>105</td>
+      <td>119</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>120</td>
+      <td>133</td>
+      <td>120</td>
+      <td>133</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>134</td>
+      <td>150</td>
+      <td>134</td>
+      <td>150</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td>167</td>
+      <td>151</td>
+      <td>167</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>168</td>
+      <td>185</td>
+      <td>168</td>
+      <td>185</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>186</td>
+      <td>215</td>
+      <td>186</td>
+      <td>215</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>230</td>
+      <td>216</td>
+      <td>230</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>231</td>
+      <td>239</td>
+      <td>231</td>
+      <td>239</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>240</td>
+      <td>247</td>
+      <td>240</td>
+      <td>247</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>248</td>
+      <td>256</td>
+      <td>248</td>
+      <td>256</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>257</td>
+      <td>275</td>
+      <td>257</td>
+      <td>275</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>276</td>
+      <td>294</td>
+      <td>276</td>
+      <td>294</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>295</td>
+      <td>312</td>
+      <td>295</td>
+      <td>312</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>313</td>
+      <td>316</td>
+      <td>313</td>
+      <td>316</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>317</td>
+      <td>332</td>
+      <td>317</td>
+      <td>332</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>333</td>
+      <td>342</td>
+      <td>333</td>
+      <td>342</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>343</td>
+      <td>343</td>
+      <td>343</td>
+      <td>343</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>354</td>
+      <td>344</td>
+      <td>354</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>355</td>
+      <td>370</td>
+      <td>355</td>
+      <td>370</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>371</td>
+      <td>408</td>
+      <td>371</td>
+      <td>408</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>409</td>
+      <td>422</td>
+      <td>409</td>
+      <td>422</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>423</td>
+      <td>440</td>
+      <td>423</td>
+      <td>440</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>441</td>
+      <td>457</td>
+      <td>441</td>
+      <td>457</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>458</td>
+      <td>463</td>
+      <td>458</td>
+      <td>463</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>464</td>
+      <td>475</td>
+      <td>464</td>
+      <td>475</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4u4v">4U4V</a> — Chain A (12 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MSHSSAPERATG</span><span class="topo-inside">AVITDWRPEDPAFWQQRGQRIASRNLW</span><span class="topo-membrane">ISVPCLLLAFCVWMLFS</span><span class="topo-outside">AVAV</span></span>
+<span class="topo-line"><span class="topo-outside">NLPKVGFNFTTDQLFML</span><span class="topo-membrane">TALPSVSGALLRVPY</span><span class="topo-inside">SFMVPIFGGRRW</span><span class="topo-membrane">TAFSTGILIIPCVWL</span><span class="topo-outside">G</span></span>
+<span class="topo-line"><span class="topo-outside">FAVQDTSTPYSVF</span><span class="topo-membrane">IIISLLCGFAGANFASS</span><span class="topo-inside">MANISFFFPKQKQGGAL</span><span class="topo-membrane">GLNGGLGNMGVSV</span></span>
+<span class="topo-line"><span class="topo-membrane">MQLVA</span><span class="topo-outside">PLVVSLSIFAVFGSQGVKQPDGTELYLANA</span><span class="topo-membrane">SWIWVPFLAIFTIAA</span><span class="topo-inside">WFGMNDLAT</span><span class="topo-unknown">S</span></span>
+<span class="topo-line"><span class="topo-unknown">KASIKEQ</span><span class="topo-inside">LPVLKRGHL</span><span class="topo-membrane">WIMSLLYLATFGSFIGFSA</span><span class="topo-outside">GFAMLSKTQFPDVQILQYA</span><span class="topo-membrane">FFGPFI</span></span>
+<span class="topo-line"><span class="topo-membrane">GALARSAGGALS</span><span class="topo-inside">DRLG</span><span class="topo-membrane">GTRVTLVNFILMAIFS</span><span class="topo-outside">GLLFLTLPTD</span><span class="topo-unknown">G</span><span class="topo-outside">QGGSFMAFFAV</span><span class="topo-membrane">FLALFL</span></span>
+<span class="topo-line"><span class="topo-membrane">TAGLGSGSTF</span><span class="topo-inside">QMISVIFRKLTMDRVKAEGGSDERAMREAATDTAAALG</span><span class="topo-membrane">FISAIGAIGGFF</span></span>
+<span class="topo-line"><span class="topo-membrane">IP</span><span class="topo-outside">KAFGSSLALTGSPVGAMK</span><span class="topo-membrane">VFLIFYIACVVITWAVY</span><span class="topo-inside">GRHSKK</span><span class="topo-unknown">LESSGENLYFQG</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>1</td>
+      <td>12</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>39</td>
+      <td>13</td>
+      <td>39</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>56</td>
+      <td>40</td>
+      <td>56</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>77</td>
+      <td>57</td>
+      <td>77</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>92</td>
+      <td>78</td>
+      <td>92</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>104</td>
+      <td>93</td>
+      <td>104</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>119</td>
+      <td>105</td>
+      <td>119</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>120</td>
+      <td>133</td>
+      <td>120</td>
+      <td>133</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>134</td>
+      <td>150</td>
+      <td>134</td>
+      <td>150</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td>167</td>
+      <td>151</td>
+      <td>167</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>168</td>
+      <td>185</td>
+      <td>168</td>
+      <td>185</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>186</td>
+      <td>215</td>
+      <td>186</td>
+      <td>215</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>230</td>
+      <td>216</td>
+      <td>230</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>231</td>
+      <td>239</td>
+      <td>231</td>
+      <td>239</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>240</td>
+      <td>247</td>
+      <td>240</td>
+      <td>247</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>248</td>
+      <td>256</td>
+      <td>248</td>
+      <td>256</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>257</td>
+      <td>275</td>
+      <td>257</td>
+      <td>275</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>276</td>
+      <td>294</td>
+      <td>276</td>
+      <td>294</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>295</td>
+      <td>312</td>
+      <td>295</td>
+      <td>312</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>313</td>
+      <td>316</td>
+      <td>313</td>
+      <td>316</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>317</td>
+      <td>332</td>
+      <td>317</td>
+      <td>332</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>333</td>
+      <td>342</td>
+      <td>333</td>
+      <td>342</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>343</td>
+      <td>343</td>
+      <td>343</td>
+      <td>343</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>354</td>
+      <td>344</td>
+      <td>354</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>355</td>
+      <td>370</td>
+      <td>355</td>
+      <td>370</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>371</td>
+      <td>408</td>
+      <td>371</td>
+      <td>408</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>409</td>
+      <td>422</td>
+      <td>409</td>
+      <td>422</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>423</td>
+      <td>440</td>
+      <td>423</td>
+      <td>440</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>441</td>
+      <td>457</td>
+      <td>441</td>
+      <td>457</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>458</td>
+      <td>463</td>
+      <td>458</td>
+      <td>463</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>464</td>
+      <td>475</td>
+      <td>464</td>
+      <td>475</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4u4v">4U4V</a> — Chain A (12 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MSHSSAPERATG</span><span class="topo-inside">AVITDWRPEDPAFWQQRGQRIASRNLW</span><span class="topo-membrane">ISVPCLLLAFCVWMLFS</span><span class="topo-outside">AVAV</span></span>
+<span class="topo-line"><span class="topo-outside">NLPKVGFNFTTDQLFML</span><span class="topo-membrane">TALPSVSGALLRVPY</span><span class="topo-inside">SFMVPIFGGRRW</span><span class="topo-membrane">TAFSTGILIIPCVWL</span><span class="topo-outside">G</span></span>
+<span class="topo-line"><span class="topo-outside">FAVQDTSTPYSVF</span><span class="topo-membrane">IIISLLCGFAGANFASS</span><span class="topo-inside">MANISFFFPKQKQGGAL</span><span class="topo-membrane">GLNGGLGNMGVSV</span></span>
+<span class="topo-line"><span class="topo-membrane">MQLVA</span><span class="topo-outside">PLVVSLSIFAVFGSQGVKQPDGTELYLANA</span><span class="topo-membrane">SWIWVPFLAIFTIAA</span><span class="topo-inside">WFGMNDLAT</span><span class="topo-unknown">S</span></span>
+<span class="topo-line"><span class="topo-unknown">KASIKEQ</span><span class="topo-inside">LPVLKRGHL</span><span class="topo-membrane">WIMSLLYLATFGSFIGFSA</span><span class="topo-outside">GFAMLSKTQFPDVQILQYA</span><span class="topo-membrane">FFGPFI</span></span>
+<span class="topo-line"><span class="topo-membrane">GALARSAGGALS</span><span class="topo-inside">DRLG</span><span class="topo-membrane">GTRVTLVNFILMAIFS</span><span class="topo-outside">GLLFLTLPTD</span><span class="topo-unknown">G</span><span class="topo-outside">QGGSFMAFFAV</span><span class="topo-membrane">FLALFL</span></span>
+<span class="topo-line"><span class="topo-membrane">TAGLGSGSTF</span><span class="topo-inside">QMISVIFRKLTMDRVKAEGGSDERAMREAATDTAAALG</span><span class="topo-membrane">FISAIGAIGGFF</span></span>
+<span class="topo-line"><span class="topo-membrane">IP</span><span class="topo-outside">KAFGSSLALTGSPVGAMK</span><span class="topo-membrane">VFLIFYIACVVITWAVY</span><span class="topo-inside">GRHSKK</span><span class="topo-unknown">LESSGENLYFQG</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>1</td>
+      <td>12</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>39</td>
+      <td>13</td>
+      <td>39</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>56</td>
+      <td>40</td>
+      <td>56</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>77</td>
+      <td>57</td>
+      <td>77</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>92</td>
+      <td>78</td>
+      <td>92</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>104</td>
+      <td>93</td>
+      <td>104</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>119</td>
+      <td>105</td>
+      <td>119</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>120</td>
+      <td>133</td>
+      <td>120</td>
+      <td>133</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>134</td>
+      <td>150</td>
+      <td>134</td>
+      <td>150</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td>167</td>
+      <td>151</td>
+      <td>167</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>168</td>
+      <td>185</td>
+      <td>168</td>
+      <td>185</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>186</td>
+      <td>215</td>
+      <td>186</td>
+      <td>215</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>230</td>
+      <td>216</td>
+      <td>230</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>231</td>
+      <td>239</td>
+      <td>231</td>
+      <td>239</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>240</td>
+      <td>247</td>
+      <td>240</td>
+      <td>247</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>248</td>
+      <td>256</td>
+      <td>248</td>
+      <td>256</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>257</td>
+      <td>275</td>
+      <td>257</td>
+      <td>275</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>276</td>
+      <td>294</td>
+      <td>276</td>
+      <td>294</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>295</td>
+      <td>312</td>
+      <td>295</td>
+      <td>312</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>313</td>
+      <td>316</td>
+      <td>313</td>
+      <td>316</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>317</td>
+      <td>332</td>
+      <td>317</td>
+      <td>332</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>333</td>
+      <td>342</td>
+      <td>333</td>
+      <td>342</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>343</td>
+      <td>343</td>
+      <td>343</td>
+      <td>343</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>354</td>
+      <td>344</td>
+      <td>354</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>355</td>
+      <td>370</td>
+      <td>355</td>
+      <td>370</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>371</td>
+      <td>408</td>
+      <td>371</td>
+      <td>408</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>409</td>
+      <td>422</td>
+      <td>409</td>
+      <td>422</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>423</td>
+      <td>440</td>
+      <td>423</td>
+      <td>440</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>441</td>
+      <td>457</td>
+      <td>441</td>
+      <td>457</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>458</td>
+      <td>463</td>
+      <td>458</td>
+      <td>463</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>464</td>
+      <td>475</td>
+      <td>464</td>
+      <td>475</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -133,13 +1573,13 @@ In the nitrate-bound occluded state, the negative charge of nitrate relaxes the 
 
 ## Cross-References
 
-- [Nitrate/Nitrite Porter (NNP) Family](/xray-mp-wiki/concepts/protein-families/nnp-family/) — NarK belongs to the NNP family of the major facilitator superfamily
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — NarK is a member of the MFS superfamily
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — NarK operates via alternating access between inward-open, occluded, and outward-open states
-- [NarU Nitrate/Nitrite Antiporter from Escherichia coli](/xray-mp-wiki/proteins/mfs-transporters/naru/) — Related NNP family member with 75% sequence similarity to NarK
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/n-dodecyl-beta-d-maltopyranoside/) — Primary detergent used for NarK membrane solubilization
-- [Cholesteryl Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Lipid stabilizer used with DDM for NarK solubilization
-- [IPTG](/xray-mp-wiki/reagents/additives/iptg) — Entity mentioned in text
-- [DDM](/xray-mp-wiki/reagents/detergents/ddm) — Entity mentioned in text
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) — Entity mentioned in text
-- [G418](/xray-mp-wiki/reagents/additives/g418) — Entity mentioned in text
+- <a href="/xray-mp-wiki/concepts/protein-families/nnp-family/">Nitrate/Nitrite Porter (NNP) Family</a> — NarK belongs to the NNP family of the major facilitator superfamily
+- <a href="/xray-mp-wiki/concepts/protein-families/mfs-transporter/">Major Facilitator Superfamily (MFS)</a> — NarK is a member of the MFS superfamily
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating-Access Mechanism</a> — NarK operates via alternating access between inward-open, occluded, and outward-open states
+- <a href="/xray-mp-wiki/proteins/mfs-transporters/naru/">NarU Nitrate/Nitrite Antiporter from Escherichia coli</a> — Related NNP family member with 75% sequence similarity to NarK
+- <a href="/xray-mp-wiki/reagents/detergents/n-dodecyl-beta-d-maltopyranoside/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Primary detergent used for NarK membrane solubilization
+- <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesteryl Hemisuccinate (CHS)</a> — Lipid stabilizer used with DDM for NarK solubilization
+- <a href="/xray-mp-wiki/reagents/additives/iptg">IPTG</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/additives/g418">G418</a> — Entity mentioned in text

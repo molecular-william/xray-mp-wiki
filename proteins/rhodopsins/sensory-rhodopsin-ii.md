@@ -1,12 +1,12 @@
 ---
 title: "Sensory Rhodopsin II (NpSRII)"
 created: 2026-06-08
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [receptor, membrane-protein, xray-crystallography]
-sources: [doi/10.1126##science.1062977, doi/10.1073##pnas.181203898, doi/10.1038##NATURE01109, doi/10.1016##j.jmb.2011.07.022, doi/10.1016##j.jmb.2011.11.025]
+sources: [doi/10.1038##NATURE01109, doi/10.1016##j.jmb.2011.07.022, doi/10.1126##science.1062977]
 verified: false
 ---
 
@@ -28,66 +28,872 @@ the transducer-bound complex, providing insights into signal transduction
 and proton pumping mechanisms.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##NATURE01109 | 1H2S | 1.94 | Orthorhombic | NpSRII in complex with HtrII_114 (transducer residues 1-114) | all-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
-| doi/10.1016##j.jmb.2011.07.022 | 3QAP | 1.9 | C2221 | Uncomplexed NpSRII ground state | all-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
-| doi/10.1016##j.jmb.2011.07.022 | 3QDC | 2.6 | C2221 | Uncomplexed NpSRII active state (M/O intermediate) | 13-cis [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
+### doi/10.1038##NATURE01109
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1h2s">1H2S</a></td>
+      <td>1.94</td>
+      <td>Orthorhombic</td>
+      <td>NpSRII in complex with HtrII_114 (transducer residues 1-114)</td>
+      <td>all-trans <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Natronobacterium pharaonis (native source)
 - **Notes**: Expressed in native host; purified for crystallographic studies
 
-### Purification Workflow
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-#### Source: doi/10.1126##science.1062977
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1h2s">1H2S</a> — Chain A (7 TMs, alpha)**
 
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">MVGL</span><span class="topo-membrane">TTLFWLGAIGMLVGTLAFA</span><span class="topo-inside">WAGRDAGSGERRYYV</span><span class="topo-membrane">TLVGISGIAAVAYVVMAL</span><span class="topo-outside">GVGW</span></span>
+<span class="topo-line"><span class="topo-outside">VPVAERTVF</span><span class="topo-membrane">APRYIDWILTTPLIVY</span><span class="topo-inside">FLGLLAGLDSREFG</span><span class="topo-membrane">IVITLNTVVMLAGFAGA</span><span class="topo-outside">MVPG</span></span>
+<span class="topo-line"><span class="topo-outside">IER</span><span class="topo-membrane">YALFGMGAVAFLGLVYY</span><span class="topo-inside">LVGPMTESASQRSSGIKSLYVRLRN</span><span class="topo-membrane">LTVILWAIYPFIWLL</span></span>
+<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-outside">PPGVALLTPT</span><span class="topo-membrane">VDVALIVYLDLVTKVGFGF</span><span class="topo-inside">IALDAAATLRAEHGE</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>1</td>
+      <td>4</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>23</td>
+      <td>5</td>
+      <td>23</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>38</td>
+      <td>24</td>
+      <td>38</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>56</td>
+      <td>39</td>
+      <td>56</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>69</td>
+      <td>57</td>
+      <td>69</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>85</td>
+      <td>70</td>
+      <td>85</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>99</td>
+      <td>86</td>
+      <td>99</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>116</td>
+      <td>100</td>
+      <td>116</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>117</td>
+      <td>123</td>
+      <td>117</td>
+      <td>123</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>140</td>
+      <td>124</td>
+      <td>140</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>141</td>
+      <td>165</td>
+      <td>141</td>
+      <td>165</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>166</td>
+      <td>181</td>
+      <td>166</td>
+      <td>181</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>182</td>
+      <td>191</td>
+      <td>182</td>
+      <td>191</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>210</td>
+      <td>192</td>
+      <td>210</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>211</td>
+      <td>225</td>
+      <td>211</td>
+      <td>225</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-##### Steps
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1h2s">1H2S</a> — Chain B (2 TMs, alpha)**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Solubilization and purification | Affinity/purification using octylglucoside | — | Octylglucoside-containing buffer + beta-octylglucoside | Purified NpSRII at 28.0 mg/ml preincubated with H. salinarum polar lipids (11.2 mg/ml) |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">G</span><span class="topo-membrane">AVFIFVGALTVLFGAIA</span><span class="topo-outside">YGEVTAAAATGDAAAVQEAAVS</span><span class="topo-membrane">AILGLIILLGINLGLVAA</span><span class="topo-inside">TL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>23</td>
+      <td>23</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>18</td>
+      <td>24</td>
+      <td>40</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>40</td>
+      <td>41</td>
+      <td>62</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>58</td>
+      <td>63</td>
+      <td>80</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>60</td>
+      <td>81</td>
+      <td>82</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-#### Source: doi/10.1016##j.jmb.2011.07.022
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1h2s">1H2S</a> — Chain C (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">MVGL</span><span class="topo-membrane">TTLFWLGAIGMLVGTLAFA</span><span class="topo-inside">WAGRDAGSGERRYYV</span><span class="topo-membrane">TLVGISGIAAVAYVVMAL</span><span class="topo-outside">GVGW</span></span>
+<span class="topo-line"><span class="topo-outside">VPVAERTVF</span><span class="topo-membrane">APRYIDWILTTPLIVY</span><span class="topo-inside">FLGLLAGLDSREFG</span><span class="topo-membrane">IVITLNTVVMLAGFAGA</span><span class="topo-outside">MVPG</span></span>
+<span class="topo-line"><span class="topo-outside">IER</span><span class="topo-membrane">YALFGMGAVAFLGLVYY</span><span class="topo-inside">LVGPMTESASQRSSGIKSLYVRLRN</span><span class="topo-membrane">LTVILWAIYPFIWLL</span></span>
+<span class="topo-line"><span class="topo-membrane">G</span><span class="topo-outside">PPGVALLTPT</span><span class="topo-membrane">VDVALIVYLDLVTKVGFGF</span><span class="topo-inside">IALDAAATLRAEHGE</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>1</td>
+      <td>4</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>23</td>
+      <td>5</td>
+      <td>23</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>38</td>
+      <td>24</td>
+      <td>38</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>56</td>
+      <td>39</td>
+      <td>56</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>69</td>
+      <td>57</td>
+      <td>69</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>85</td>
+      <td>70</td>
+      <td>85</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>99</td>
+      <td>86</td>
+      <td>99</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>116</td>
+      <td>100</td>
+      <td>116</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>117</td>
+      <td>123</td>
+      <td>117</td>
+      <td>123</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>140</td>
+      <td>124</td>
+      <td>140</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>141</td>
+      <td>165</td>
+      <td>141</td>
+      <td>165</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>166</td>
+      <td>181</td>
+      <td>166</td>
+      <td>181</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>182</td>
+      <td>191</td>
+      <td>182</td>
+      <td>191</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>210</td>
+      <td>192</td>
+      <td>210</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>211</td>
+      <td>225</td>
+      <td>211</td>
+      <td>225</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1h2s">1H2S</a> — Chain D (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">G</span><span class="topo-membrane">AVFIFVGALTVLFGAIA</span><span class="topo-outside">YGEVTAAAATGDAAAVQEAAVS</span><span class="topo-membrane">AILGLIILLGINLGLVAA</span><span class="topo-inside">TL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>23</td>
+      <td>23</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>18</td>
+      <td>24</td>
+      <td>40</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>40</td>
+      <td>41</td>
+      <td>62</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>58</td>
+      <td>63</td>
+      <td>80</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>60</td>
+      <td>81</td>
+      <td>82</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
+### doi/10.1016##j.jmb.2011.07.022
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3qap">3QAP</a></td>
+      <td>1.9</td>
+      <td>C2221</td>
+      <td>Uncomplexed NpSRII ground state</td>
+      <td>all-trans <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3qdc">3QDC</a></td>
+      <td>2.6</td>
+      <td>C2221</td>
+      <td>Uncomplexed NpSRII active state (M/O intermediate)</td>
+      <td>13-cis <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Natronobacterium pharaonis (native source)
+- **Notes**: Expressed in native host; purified for crystallographic studies
+
+**Purification:**
 
 - **Expression system**: E. coli BL21(DE3)
 - **Expression construct**: NpSRII with C-terminal 7x His tag in pET27bmod
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Expression</td>
+      <td>Heterologous expression in E. coli</td>
+      <td>—</td>
+      <td></td>
+      <td>NpSRII-His was expressed in E. coli strain BL21(DE3) using pET27bmod vector</td>
+    </tr>
+    <tr>
+      <td>Purification</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> and DEAE cellulose chromatography</td>
+      <td>—</td>
+      <td></td>
+      <td>Purified as described previously (Hohenfeld et al. 1999, FEBS Lett.; Shimono et al. 1997). <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> removed by DEAE cellulose chromatography. NpSRII-His reconstituted into purple membrane lipids (protein-to-lipid ratio ~1:1)</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression | Heterologous expression in E. coli | — |  | NpSRII-His was expressed in E. coli strain BL21(DE3) using pET27bmod vector |
-| Purification | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) and DEAE cellulose chromatography | — |  | Purified as described previously (Hohenfeld et al. 1999, FEBS Lett.; Shimono et al. 1997). [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) removed by DEAE cellulose chromatography. NpSRII-His reconstituted into purple membrane lipids (protein-to-lipid ratio ~1:1) |
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a></td>
+    </tr>
+    <tr>
+      <td>Protein-to-lipid ratio</td>
+      <td>~1:1</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>22°C</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown as described previously (Hohenfeld et al. 1999; Shimono et al. 1997). Active state trapped in crystals by laser illumination (488 nm, 0.33 W, 2 s). Cryostream blocked during illumination. Optimal conditions produced ~35% M-state and ~25% O-state. Crystal space group C2221.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-## Crystallization
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3qap">3QAP</a> — Chain A (7 TMs, alpha)**
 
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MVGL</span><span class="topo-membrane">TTLFWLGAIGMLVGTLAFAWAGR</span><span class="topo-outside">DAGSGERR</span><span class="topo-membrane">YYVTLVGISGIAAVAYVVMALGVGW</span></span>
+<span class="topo-line"><span class="topo-inside">VPVAERTV</span><span class="topo-membrane">FAPRYIDWILTTPLIVYFLGL</span><span class="topo-outside">LAGLDSR</span><span class="topo-membrane">EFGIVITLNTVVMLAGFAGAMV</span><span class="topo-inside">PG</span></span>
+<span class="topo-line"><span class="topo-inside">IE</span><span class="topo-membrane">RYALFGMGAVAFLGLVYYLVGPMT</span><span class="topo-outside">ESASQRSSGIKSL</span><span class="topo-membrane">YVRLRNLTVILWAIYPFIWLL</span></span>
+<span class="topo-line"><span class="topo-membrane">GPPG</span><span class="topo-inside">VALLTPT</span><span class="topo-membrane">VDVALIVYLDLVTKVGFGFIALDA</span><span class="topo-outside">AATL</span><span class="topo-unknown">RAEHGESLAGVDTDAPAVAD</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>1</td>
+      <td>4</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>27</td>
+      <td>5</td>
+      <td>27</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>35</td>
+      <td>28</td>
+      <td>35</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>60</td>
+      <td>36</td>
+      <td>60</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>68</td>
+      <td>61</td>
+      <td>68</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>89</td>
+      <td>69</td>
+      <td>89</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>96</td>
+      <td>90</td>
+      <td>96</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>118</td>
+      <td>97</td>
+      <td>118</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>119</td>
+      <td>122</td>
+      <td>119</td>
+      <td>122</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>123</td>
+      <td>146</td>
+      <td>123</td>
+      <td>146</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>147</td>
+      <td>159</td>
+      <td>147</td>
+      <td>159</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>160</td>
+      <td>184</td>
+      <td>160</td>
+      <td>184</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>185</td>
+      <td>191</td>
+      <td>185</td>
+      <td>191</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>215</td>
+      <td>192</td>
+      <td>215</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>219</td>
+      <td>216</td>
+      <td>219</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>220</td>
+      <td>239</td>
+      <td>220</td>
+      <td>239</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3qdc">3QDC</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MVGL</span><span class="topo-membrane">TTLFWLGAIGMLVGTLAFAWAGR</span><span class="topo-outside">DAGSGER</span><span class="topo-membrane">RYYVTLVGISGIAAVAYVVMALGVGW</span></span>
+<span class="topo-line"><span class="topo-inside">VPVAERTV</span><span class="topo-membrane">FAPRYIDWILTTPLIVYFLGLLA</span><span class="topo-outside">GLDS</span><span class="topo-membrane">REFGIVITLNTVVMLAGFAGAMV</span><span class="topo-inside">PG</span></span>
+<span class="topo-line"><span class="topo-inside">IE</span><span class="topo-membrane">RYALFGMGAVAFLGLVYYLVGPMT</span><span class="topo-outside">ESASQRSSGIKSL</span><span class="topo-membrane">YVRLRNLTVILWAIYPFIWLL</span></span>
+<span class="topo-line"><span class="topo-membrane">GPPG</span><span class="topo-inside">VALLTPT</span><span class="topo-membrane">VDVALIVYLDLVTKVGFGFIALDA</span><span class="topo-outside">AATL</span><span class="topo-unknown">RAEHGESLAGVDTDAPAVAD</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>1</td>
+      <td>4</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>27</td>
+      <td>5</td>
+      <td>27</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>34</td>
+      <td>28</td>
+      <td>34</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>60</td>
+      <td>35</td>
+      <td>60</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>68</td>
+      <td>61</td>
+      <td>68</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>91</td>
+      <td>69</td>
+      <td>91</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>95</td>
+      <td>92</td>
+      <td>95</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>118</td>
+      <td>96</td>
+      <td>118</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>119</td>
+      <td>122</td>
+      <td>119</td>
+      <td>122</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>123</td>
+      <td>146</td>
+      <td>123</td>
+      <td>146</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>147</td>
+      <td>159</td>
+      <td>147</td>
+      <td>159</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>160</td>
+      <td>184</td>
+      <td>160</td>
+      <td>184</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>185</td>
+      <td>191</td>
+      <td>185</td>
+      <td>191</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>215</td>
+      <td>192</td>
+      <td>215</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>219</td>
+      <td>216</td>
+      <td>219</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>220</td>
+      <td>239</td>
+      <td>220</td>
+      <td>239</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 ### doi/10.1126##science.1062977
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) |
-| Protein-to-lipid ratio | 1:1 (v/v) |
-| Temperature | 22°C |
-| Growth time | Overnight incubation then crystallization |
-| Notes | 10 ul aliquots of octylglucoside-purified NpSRII (28.0 mg/ml) preincubated with H. salinarum polar lipids were mixed with 10 ul of [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) and centrifuged for 1 hour at 11,000g at 22°C. After overnight incubation at 2°C, crystals appeared within 36 hours. |
+**Expression:**
 
-### doi/10.1016##j.jmb.2011.07.022
+- **Expression system**: Natronobacterium pharaonis (native source)
+- **Notes**: Expressed in native host; purified for crystallographic studies
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) |
-| Protein-to-lipid ratio | ~1:1 |
-| Temperature | 22°C |
-| Notes | Crystals grown as described previously (Hohenfeld et al. 1999; Shimono et al. 1997). Active state trapped in crystals by laser illumination (488 nm, 0.33 W, 2 s). Cryostream blocked during illumination. Optimal conditions produced ~35% M-state and ~25% O-state. Crystal space group C2221. |
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Solubilization and purification</td>
+      <td>Affinity/purification using octylglucoside</td>
+      <td>—</td>
+      <td>Octylglucoside-containing buffer + beta-octylglucoside</td>
+      <td>Purified NpSRII at 28.0 mg/ml preincubated with H. salinarum polar lipids (11.2 mg/ml)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a></td>
+    </tr>
+    <tr>
+      <td>Protein-to-lipid ratio</td>
+      <td>1:1 (v/v)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>22°C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Overnight incubation then crystallization</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>10 ul aliquots of octylglucoside-purified NpSRII (28.0 mg/ml) preincubated with H. salinarum polar lipids were mixed with 10 ul of <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> and centrifuged for 1 hour at 11,000g at 22°C. After overnight incubation at 2°C, crystals appeared within 36 hours.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -158,12 +964,12 @@ bound.
 
 ## Cross-References
 
-- [n-Octyl-beta-D-glucoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — OG used for NpSRII purification and crystallization
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Monoolein used as the host lipid for LCP crystallization
-- [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Closely related archaeal rhodopsin used for structural comparison of active state and proton pumping mechanism
-- [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Chromophore covalently bound to NpSRII via protonated Schiff base; isomerizes from all-trans to 13-cis upon light activation
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — NpSRII is a member of the microbial rhodopsin family; active state structure informs understanding of rhodopsin signal transduction
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
-- [Halorhodopsin (HR) from Halobacterium salinarum](/xray-mp-wiki/proteins/rhodopsins/halorhodopsin/) — Related protein structure
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/detergents/og/">n-Octyl-beta-D-glucoside (OG)</a> — OG used for NpSRII purification and crystallization
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — Monoolein used as the host lipid for LCP crystallization
+- <a href="/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/">Bacteriorhodopsin</a> — Closely related archaeal rhodopsin used for structural comparison of active state and proton pumping mechanism
+- <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a> — Chromophore covalently bound to NpSRII via protonated Schiff base; isomerizes from all-trans to 13-cis upon light activation
+- <a href="/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/">Microbial Rhodopsins</a> — NpSRII is a member of the microbial rhodopsin family; active state structure informs understanding of rhodopsin signal transduction
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/rhodopsins/halorhodopsin/">Halorhodopsin (HR) from Halobacterium salinarum</a> — Related protein structure
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Additive used in purification or crystallization buffers

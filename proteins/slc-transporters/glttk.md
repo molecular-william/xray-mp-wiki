@@ -1,7 +1,7 @@
 ---
 title: "GltTk — substrate-free aspartate transporter"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -23,23 +23,36 @@ conformational changes that occur upon substrate binding and provides insight
 into the alternating-access mechanism of glutamate transporter homologs.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nsmb.2663 | 4MO4 | 3.0 | P3221 | Full-length GltTk |  |
+### doi/10.1038##nsmb.2663
 
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4mo4">4MO4</a></td>
+      <td>3.0</td>
+      <td>P3221</td>
+      <td>Full-length GltTk</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
  - R-work 21.2%, R-free 26.6%; Atoms: 9308
 
-## Expression and Purification
+**Expression:**
 
 - **Expression system**: Escherichia coli
 
-No purification described.
-
-## Crystallization
-
-No crystallization described.
 
 ## Biological / Functional Insights
 
@@ -78,5 +91,5 @@ hairpin domains (HP1 and HP2).
 
 ## Cross-References
 
-- [Gltph](/xray-mp-wiki/proteins/slc-transporters/glt-ph/) — Referenced in glttk text
-- [L Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/) — Referenced in glttk text
+- <a href="/xray-mp-wiki/proteins/slc-transporters/glt-ph/">Gltph</a> — Referenced in glttk text
+- <a href="/xray-mp-wiki/reagents/substrates/l-aspartate/">L Aspartate</a> — Referenced in glttk text

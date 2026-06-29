@@ -1,12 +1,12 @@
 ---
 title: "Human Claudin-1 (hCLDN-1)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [receptor, membrane-protein]
-sources: [doi/10.1073##pnas.2024651118]
+sources: []
 verified: false
 ---
 
@@ -26,17 +26,9 @@ but only high-affinity complexes (Kd < 10 nM) with slow dissociation rates funct
 as physiologically relevant receptors.
 
 
-## Structure Determination
+## Publications
 
-No structure determined.
-
-## Expression and Purification
-
-No purification described.
-
-## Crystallization
-
-No crystallization described.
+No publications.
 
 ## Biological / Functional Insights
 
@@ -53,5 +45,5 @@ with Kd < 10 nM.
 
 ## Cross-References
 
-- [Human Claudin-4 (hCLDN-4)](/xray-mp-wiki/proteins/structural-adhesion/human-claudin-4/) — Comparison reveals NPLVA vs DPMTP motif divergence and affinity differences
-- [C-CPE (Clostridium perfringens Enterotoxin)](/xray-mp-wiki/reagents/ligands/c-cpe/) — hCLDN-1 is a low-affinity CpE receptor
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/human-claudin-4/">Human Claudin-4 (hCLDN-4)</a> — Comparison reveals NPLVA vs DPMTP motif divergence and affinity differences
+- <a href="/xray-mp-wiki/reagents/ligands/c-cpe/">C-CPE (Clostridium perfringens Enterotoxin)</a> — hCLDN-1 is a low-affinity CpE receptor

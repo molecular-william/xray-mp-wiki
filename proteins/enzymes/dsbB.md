@@ -1,12 +1,12 @@
 ---
 title: "DsbB (Disulfide Bond Formation Protein B)"
 created: 2026-06-08
-updated: 2026-06-16
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
-sources: [doi/10.1016##j.cell.2006.10.034, doi/10.1038##emboj.2009.21, doi/10.1126##sciadv.abe3717]
+sources: [doi/10.1038##emboj.2009.21, doi/10.1126##sciadv.abe3717]
 verified: false
 ---
 
@@ -26,46 +26,524 @@ transitions during catalysis, driven by the sequential relocation of its active-
 cysteines, which is regulated by a membrane-associated amphiphilic "horizontal
 helix" in the P2 loop.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##emboj.2009.21 | 2ZUQ | 3.4 | C2 | DsbB(Cys41Ser) mutant in complex with Fab antibody fragment | [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) (UQ) |
-| doi/10.1038##emboj.2009.21 | 2HI7 | 3.7 | P4(2)2(1)2 | DsbB(Cys130Ser) in disulfide-linked complex with DsbA(Cys33Ala) | [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) (UQ) |
-| doi/10.1126##sciadv.abe3717 | 6WVF | 2.9 |  | DsbB with termini restrained by split sfGFP | [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) (UQ) |
+### doi/10.1038##emboj.2009.21
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2zuq">2ZUQ</a></td>
+      <td>3.4</td>
+      <td>C2</td>
+      <td>DsbB(Cys41Ser) mutant in complex with Fab antibody fragment</td>
+      <td><a href="/xray-mp-wiki/reagents/cofactors/ubiquinone/">Ubiquinone</a> (UQ)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2hi7">2HI7</a></td>
+      <td>3.7</td>
+      <td>P4(2)2(1)2</td>
+      <td>DsbB(Cys130Ser) in disulfide-linked complex with DsbA(Cys33Ala)</td>
+      <td><a href="/xray-mp-wiki/reagents/cofactors/ubiquinone/">Ubiquinone</a> (UQ)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli
 - **Construct**: Full-length DsbB with His6-myc tag; Cys41Ser mutant and Cys130Ser mutant variants
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli SS141 (dsbB::kan5)
 - **Expression construct**: His6-myc tag
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Complex formation</td>
+      <td>Size-exclusion chromatography</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>DsbB-Fab complex of 1:1 stoichiometry prepared by size-exclusion chromatography</td>
+    </tr>
+    <tr>
+      <td>Crystal growth</td>
+      <td>Sitting-drop vapor diffusion</td>
+      <td>--</td>
+      <td>0.1 M <a href="/xray-mp-wiki/reagents/buffers/mops/">Mops</a> pH 7.0 + --</td>
+      <td>Crystallized in 15% PEG3350, 0.1 M magnesium formate, 0.1 M <a href="/xray-mp-wiki/reagents/buffers/mops/">Mops</a> (pH 7.0)</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Complex formation | Size-exclusion chromatography | -- | -- + -- | DsbB-Fab complex of 1:1 stoichiometry prepared by size-exclusion chromatography |
-| Crystal growth | Sitting-drop vapor diffusion | -- | 0.1 M [Mops](/xray-mp-wiki/reagents/buffers/mops/) pH 7.0 + -- | Crystallized in 15% PEG3350, 0.1 M magnesium formate, 0.1 M [Mops](/xray-mp-wiki/reagents/buffers/mops/) (pH 7.0) |
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion (sitting drop)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>DsbB(Cys41Ser)-Fab complex</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>15% PEG3350, 0.1 M magnesium formate, 0.1 M <a href="/xray-mp-wiki/reagents/buffers/mops/">Mops</a> (pH 7.0)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>10 days</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>27% PEG3350, 0.1 M magnesium formate, 0.1 M <a href="/xray-mp-wiki/reagents/buffers/mops/">Mops</a> pH 7.0, 0.1% <a href="/xray-mp-wiki/reagents/detergents/dhpc/">DHPC</a></td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Co-crystallization with monoclonal Fab antibody fragment was essential for obtaining diffracting crystals. Wild-type DsbB was conformationally heterogeneous; the Cys41Ser mutant provided homogeneous initial-state conformation.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-## Crystallization
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2zuq">2ZUQ</a> — Chain A (4 TMs, alpha)**
 
-### doi/10.1038##emboj.2009.21
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MLRFLNQAS</span><span class="topo-inside">QGR</span><span class="topo-membrane">GAWLLMAFTALALELT</span><span class="topo-outside">ALWFQHVMLLKPSVLCIYER</span><span class="topo-membrane">VALFGVLGAALI</span></span>
+<span class="topo-line"><span class="topo-membrane">GAIA</span><span class="topo-inside">PKTPL</span><span class="topo-membrane">RYVAMVIWLYSAFRGVQ</span><span class="topo-outside">LTYEHTMLQLYPSPFATCDFMV</span><span class="topo-unknown">RFPEW</span><span class="topo-outside">LPLDKWV</span></span>
+<span class="topo-line"><span class="topo-outside">PQVFVASGDCAERQWDFLGLEMPQW</span><span class="topo-membrane">LLGIFIAYLIVAVLVVI</span><span class="topo-unknown">SQPFKAKKRDLFGR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>9</td>
+      <td>1</td>
+      <td>9</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>12</td>
+      <td>10</td>
+      <td>12</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>28</td>
+      <td>13</td>
+      <td>28</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>29</td>
+      <td>48</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>64</td>
+      <td>49</td>
+      <td>64</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>69</td>
+      <td>65</td>
+      <td>69</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>86</td>
+      <td>70</td>
+      <td>86</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>108</td>
+      <td>87</td>
+      <td>108</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>109</td>
+      <td>113</td>
+      <td>109</td>
+      <td>113</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>114</td>
+      <td>145</td>
+      <td>114</td>
+      <td>145</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td>162</td>
+      <td>146</td>
+      <td>162</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>163</td>
+      <td>176</td>
+      <td>163</td>
+      <td>176</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion (sitting drop) |
-| Protein sample | DsbB(Cys41Ser)-Fab complex |
-| Reservoir | 15% PEG3350, 0.1 M magnesium formate, 0.1 M [Mops](/xray-mp-wiki/reagents/buffers/mops/) (pH 7.0) |
-| Temperature | Not specified |
-| Growth time | 10 days |
-| Cryoprotection | 27% PEG3350, 0.1 M magnesium formate, 0.1 M [Mops](/xray-mp-wiki/reagents/buffers/mops/) pH 7.0, 0.1% [DHPC](/xray-mp-wiki/reagents/detergents/dhpc/) |
-| Notes | Co-crystallization with monoclonal Fab antibody fragment was essential for obtaining diffracting crystals. Wild-type DsbB was conformationally heterogeneous; the Cys41Ser mutant provided homogeneous initial-state conformation. |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2hi7">2HI7</a> — Chain A (0 TMs, non_tm)**
 
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">AQYEDGKQYTTLEKPVAGAPQVLEFFSFFCPHAYQFEEVLHISDNVKKKLPEGVKMTKYH</span></span>
+<span class="topo-line"><span class="topo-inside">VNFMGGDLGKDLTQAWAVAMALGVEDKVTVPLFEGVQKTQTIRSASDIRDVFINAGIKGE</span></span>
+<span class="topo-line"><span class="topo-inside">EYDAAWNSFVVKSLVAQQEKAAADVQLRGVPAMFVNGKYQLNPQGMDTSNMDVFVQQYAD</span></span>
+<span class="topo-line"><span class="topo-inside">TVKYLSEK</span><span class="topo-unknown">K</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>188</td>
+      <td>1</td>
+      <td>188</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>189</td>
+      <td>189</td>
+      <td>189</td>
+      <td>189</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2hi7">2HI7</a> — Chain B (4 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MLRFLNQASQGRG</span><span class="topo-outside">A</span><span class="topo-membrane">WLLMAFTALALELTALW</span><span class="topo-inside">FQHVMLLKPCVLCIYE</span><span class="topo-membrane">RVALFGVLGAALI</span></span>
+<span class="topo-line"><span class="topo-membrane">GAIAP</span><span class="topo-outside">KTPL</span><span class="topo-membrane">RYVAMVIWLYSAFRGV</span><span class="topo-inside">QLTYEHTMLQLYPSPFATCDFMVRFPEWLPLDKWV</span></span>
+<span class="topo-line"><span class="topo-inside">PQVFVA</span><span class="topo-unknown">SGDSAERQWDFLGLE</span><span class="topo-inside">MPQW</span><span class="topo-membrane">LLGIFIAYLIVAVLVVI</span><span class="topo-unknown">SQPFKAKKRDLFGR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>13</td>
+      <td>1</td>
+      <td>13</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>14</td>
+      <td>14</td>
+      <td>14</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>31</td>
+      <td>15</td>
+      <td>31</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>47</td>
+      <td>32</td>
+      <td>47</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>65</td>
+      <td>48</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>69</td>
+      <td>66</td>
+      <td>69</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>85</td>
+      <td>70</td>
+      <td>85</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>126</td>
+      <td>86</td>
+      <td>126</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>127</td>
+      <td>141</td>
+      <td>127</td>
+      <td>141</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>145</td>
+      <td>142</td>
+      <td>145</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td>162</td>
+      <td>146</td>
+      <td>162</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>163</td>
+      <td>176</td>
+      <td>163</td>
+      <td>176</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
+### doi/10.1126##sciadv.abe3717
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6wvf">6WVF</a></td>
+      <td>2.9</td>
+      <td></td>
+      <td>DsbB with termini restrained by split sfGFP</td>
+      <td><a href="/xray-mp-wiki/reagents/cofactors/ubiquinone/">Ubiquinone</a> (UQ)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Escherichia coli
+- **Construct**: Full-length DsbB with His6-myc tag; Cys41Ser mutant and Cys130Ser mutant variants
+
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6wvf">6WVF</a> — Chain A (4 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-inside">KGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTL</span></span>
+<span class="topo-line"><span class="topo-inside">VTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
+<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNNQASQGR</span><span class="topo-membrane">GAWLLMAFTALALEL</span><span class="topo-outside">TALWFQHVMLLKPCVL</span></span>
+<span class="topo-line"><span class="topo-outside">CIYE</span><span class="topo-membrane">RVALFGVLGAALIGAI</span><span class="topo-inside">APK</span><span class="topo-unknown">T</span><span class="topo-inside">PL</span><span class="topo-membrane">RYVAMVIWLYSAFRGVQ</span><span class="topo-outside">LTYEHTMLQLYPSPFAT</span></span>
+<span class="topo-line"><span class="topo-outside">SDFMVRFPEWLPLDKWVPQVFVASGDCAERQWDFLGLEMPQWL</span><span class="topo-membrane">LGIFIAYLIVAVLVVI</span><span class="topo-inside">S</span></span>
+<span class="topo-line"><span class="topo-inside">QPFKNSHNVYITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYL</span></span>
+<span class="topo-line"><span class="topo-inside">STQSVLSKDPNEKRDHMVLLEFVTAAGITH</span><span class="topo-unknown">HHHHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>3</td>
+      <td>64</td>
+      <td>3</td>
+      <td>64</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>149</td>
+      <td>68</td>
+      <td>151</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>150</td>
+      <td>164</td>
+      <td>152</td>
+      <td>166</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>184</td>
+      <td>167</td>
+      <td>186</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>185</td>
+      <td>200</td>
+      <td>187</td>
+      <td>202</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>201</td>
+      <td>203</td>
+      <td>203</td>
+      <td>205</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>205</td>
+      <td>206</td>
+      <td>207</td>
+      <td>208</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>207</td>
+      <td>223</td>
+      <td>209</td>
+      <td>225</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>224</td>
+      <td>283</td>
+      <td>226</td>
+      <td>285</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>284</td>
+      <td>299</td>
+      <td>286</td>
+      <td>301</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>390</td>
+      <td>302</td>
+      <td>392</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -92,10 +570,10 @@ The 2.9 A structure of termini-restrained DsbB (PDB 6WVF) reveals that the thiol
 
 ## Cross-References
 
-- [DsbA](/xray-mp-wiki/proteins/enzymes/dsbA/) — Direct functional partner in periplasmic disulfide bond formation
-- [Disulfide Bond Formation](/xray-mp-wiki/concepts/enzyme-mechanisms/disulfide-bond-formation/) — DsbB is the central enzyme in the bacterial disulfide bond formation pathway
-- [Termini Restraining](/xray-mp-wiki/concepts/miscellaneous/termini-restraining/) — High-resolution DsbB structure (6WVF) was determined using termini-restraining approach with split sfGFP
-- [DHPC](/xray-mp-wiki/reagents/detergents/dhpc/) — Detergent used in cryoprotection during crystallization
-- [Sitting Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion-sitting-drop/) — Crystallization method used for DsbB-Fab complex
-- [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) — Referenced in context related to Ubiquinone
-- [Mops](/xray-mp-wiki/reagents/buffers/mops/) — Referenced in context related to Mops
+- <a href="/xray-mp-wiki/proteins/enzymes/dsbA/">DsbA</a> — Direct functional partner in periplasmic disulfide bond formation
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/disulfide-bond-formation/">Disulfide Bond Formation</a> — DsbB is the central enzyme in the bacterial disulfide bond formation pathway
+- <a href="/xray-mp-wiki/concepts/miscellaneous/termini-restraining/">Termini Restraining</a> — High-resolution DsbB structure (6WVF) was determined using termini-restraining approach with split sfGFP
+- <a href="/xray-mp-wiki/reagents/detergents/dhpc/">DHPC</a> — Detergent used in cryoprotection during crystallization
+- <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion-sitting-drop/">Sitting Drop Vapor Diffusion</a> — Crystallization method used for DsbB-Fab complex
+- <a href="/xray-mp-wiki/reagents/cofactors/ubiquinone/">Ubiquinone</a> — Referenced in context related to Ubiquinone
+- <a href="/xray-mp-wiki/reagents/buffers/mops/">Mops</a> — Referenced in context related to Mops

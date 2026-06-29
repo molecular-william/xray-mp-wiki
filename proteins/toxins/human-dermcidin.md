@@ -1,7 +1,7 @@
 ---
 title: "Human Dermcidin (DCD) Antimicrobial Channel"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,42 +17,98 @@ verified: false
 Dermcidin (DCD) is a human antimicrobial host-defense peptide that forms transmembrane channels to disrupt bacterial membranes. Its X-ray crystal structure reveals a hexameric channel architecture composed of zinc-connected trimers of antiparallel helix pairs. The channel has a unique barrel-stave-like architecture with six lateral openings (eyelets) that allow ions to enter sideways. DCD channels exhibit a conductance of ~80-110 pS and are anion-selective. The structure and functional mechanism were elucidated through a combination of X-ray crystallography, solid-state NMR spectroscopy, electrophysiology, and molecular dynamics simulations, providing a foundation for structure-based design of peptide antibiotics.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.1214739110 | not in raw text | not specified | — | Full-length DCD peptide (synthetic) | Zn2+ |
+### doi/10.1073##pnas.1214739110
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/not in raw text">NOT IN RAW TEXT</a></td>
+      <td>not specified</td>
+      <td>—</td>
+      <td>Full-length DCD peptide (synthetic)</td>
+      <td>Zn2+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Chemically synthesized peptide (>97% purity, Peptide2.0)
 
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Peptide synthesis</td>
+      <td>Chemical synthesis</td>
+      <td>—</td>
+      <td></td>
+      <td>DCD peptide synthesized by Peptide2.0 at >97% purity</td>
+    </tr>
+    <tr>
+      <td>Preparation for crystallization</td>
+      <td>Dissolved in buffer</td>
+      <td>—</td>
+      <td>10 mM HEPES</td>
+      <td>50 mg/mL (~10 mM) peptide in 10 mM HEPES</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Peptide synthesis | Chemical synthesis | — |  | DCD peptide synthesized by Peptide2.0 at >97% purity |
-| Preparation for crystallization | Dissolved in buffer | — | 10 mM HEPES | 50 mg/mL (~10 mM) peptide in 10 mM HEPES |
-
-
-## Crystallization
-
-### doi/10.1073##pnas.1214739110
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion (sitting drop) |
-| Protein sample | DCD peptide at 50 mg/mL in 10 mM HEPES |
-| Reservoir | 0.2 M Zn(ac)2, 0.1 M Na-[Cacodylate (Sodium Dimethylarsenate)](/xray-mp-wiki/reagents/buffers/cacodylate/), 18% PEG8000, pH 6.5 |
-| Mixing ratio | 1:1 (400 nL peptide + 400 nL reservoir) |
-| Temperature | 100 K (cryo) |
-| Cryoprotection | None (flash-frozen from mother liquor) |
-| Notes | Crystallized in absence of detergents or lipids; crystals flash-frozen in liquid nitrogen without cryoprotectant |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion (sitting drop)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>DCD peptide at 50 mg/mL in 10 mM HEPES</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.2 M Zn(ac)2, 0.1 M Na-<a href="/xray-mp-wiki/reagents/buffers/cacodylate/">Cacodylate (Sodium Dimethylarsenate)</a>, 18% PEG8000, pH 6.5</td>
+    </tr>
+    <tr>
+      <td>Mixing ratio</td>
+      <td>1:1 (400 nL peptide + 400 nL reservoir)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>100 K (cryo)</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>None (flash-frozen from mother liquor)</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystallized in absence of detergents or lipids; crystals flash-frozen in liquid nitrogen without cryoprotectant</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -100,5 +156,5 @@ population.
 
 ## Cross-References
 
-- [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — Used for DCD peptide preparation (10 mM HEPES)
-- [Cacodylate (Sodium Dimethylarsenate)](/xray-mp-wiki/reagents/buffers/cacodylate/) — Used in crystallization reservoir (0.1 M Na-cacodylate, pH 6.5)
+- <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> — Used for DCD peptide preparation (10 mM HEPES)
+- <a href="/xray-mp-wiki/reagents/buffers/cacodylate/">Cacodylate (Sodium Dimethylarsenate)</a> — Used in crystallization reservoir (0.1 M Na-cacodylate, pH 6.5)

@@ -1,7 +1,7 @@
 ---
 title: "Cry6Aa (Bacillus thuringiensis Pore-Forming Toxin)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -33,68 +33,178 @@ transmembrane region abolished toxicity, consistent with a pore-forming mode
 of action.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1186##s12915-016-0295-9 | 5KUC | 2.0 | P 65 | Trypsin-cleaved Cry6Aa core (residues 12-390 disulfide bonded to residues 444-475) | -- |
-| doi/10.1186##s12915-016-0295-9 | 5KUD | 2.7 | P 21 21 2 | Full-length Cry6Aa (residues Met1-Asn475) | -- |
+### doi/10.1186##s12915-016-0295-9
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5kuc">5KUC</a></td>
+      <td>2.0</td>
+      <td>P 65</td>
+      <td>Trypsin-cleaved Cry6Aa core (residues 12-390 disulfide bonded to residues 444-475)</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5kud">5KUD</a></td>
+      <td>2.7</td>
+      <td>P 21 21 2</td>
+      <td>Full-length Cry6Aa (residues Met1-Asn475)</td>
+      <td>--</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Pseudomonas fluorescens (for crystallography); E. coli Shuffle T7 Express LysY (for recombinant production and bioassays); B. thuringiensis BMB171 (for native crystal production)
 - **Construct**: Full-length Cry6Aa1 (GenBank AAA22357) from Dow AgroSciences
 - **Notes**: Produced as inclusion bodies in P. fluorescens. Also soluble expression in E. coli Shuffle T7 with [Iptg](/xray-mp-wiki/reagents/additives/iptg/) induction.
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: P. fluorescens (inclusion bodies)
 - **Expression construct**: Full-length Cry6Aa1
 - **Tag info**: Untagged
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Inclusion body preparation | Microfluidizer (16,000 psi, 2 passes) | — | 50 mM [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 200 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.5% Triton X-100, 20 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/), 1 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep/) | Washed multiple times with lysis buffer and [EDTA](/xray-mp-wiki/reagents/additives/edta/) buffer |
-| Solubilization | Solubilization at pH 11.0 | — | 25 mM CAPS pH 11.0 | Inclusion bodies solubilized at high pH |
-| Anion exchange chromatography | Ion exchange | Source 15Q 16/10 | 25 mM CAPS pH 11.0, with 0-1 M NaCl gradient |  |
-| Size-exclusion chromatography | SEC | Superdex 75 26/90 | 25 mM CAPS pH 11.0, 50 mM NaCl |  |
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Inclusion body preparation</td>
+      <td>Microfluidizer (16,000 psi, 2 passes)</td>
+      <td>—</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 7.5, 200 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.5% Triton X-100, 20 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a></td>
+      <td>Washed multiple times with lysis buffer and <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> buffer</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Solubilization at pH 11.0</td>
+      <td>—</td>
+      <td>25 mM CAPS pH 11.0</td>
+      <td>Inclusion bodies solubilized at high pH</td>
+    </tr>
+    <tr>
+      <td>Anion exchange chromatography</td>
+      <td>Ion exchange</td>
+      <td>Source 15Q 16/10</td>
+      <td>25 mM CAPS pH 11.0, with 0-1 M NaCl gradient</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>SEC</td>
+      <td>Superdex 75 26/90</td>
+      <td>25 mM CAPS pH 11.0, 50 mM NaCl</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 - **Expression system**: B. thuringiensis BMB171
 - **Expression construct**: Cry6Aa2 in pHT304
 - **Tag info**: Untagged
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Bt crystal production</td>
+      <td>Growth in Embrapa medium to >98% autolysis</td>
+      <td>—</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Crystal purification</td>
+      <td>Discontinuous <a href="/xray-mp-wiki/reagents/ligands/sucrose/">Sucrose</a> density gradient ultracentrifugation</td>
+      <td>—</td>
+      <td></td>
+      <td>Cry6Aa crystals purified, then solubilized at pH 10.0 or pH 12.7 or pH 3.0</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Bt crystal production | Growth in Embrapa medium to >98% autolysis | — |  |  |
-| Crystal purification | Discontinuous [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) density gradient ultracentrifugation | — |  | Cry6Aa crystals purified, then solubilized at pH 10.0 or pH 12.7 or pH 3.0 |
+**Crystallization:**
 
-
-## Crystallization
-
-### doi/10.1186##s12915-016-0295-9
-
-| Parameter | Value |
-|---|---|
-| Method | Sitting-drop vapor diffusion |
-| Protein sample | Trypsin-cleaved Cry6Aa at 100 mg/mL in 25 mM CAPS pH 11.0, 50 mM NaCl |
-| Reservoir | 20% [Peg](/xray-mp-wiki/reagents/additives/peg/) 1000, 0.1 M sodium phosphate dibasic/citric acid pH 4.2, 0.2 M lithium sulfate |
-| Mixing ratio | 1:1 |
-| Temperature | not specified |
-| Growth time | not specified |
-| Cryoprotection | not specified |
-| Notes | Data collected at LS-CAT (APS) on Mar CCD-300 detector at 100 K |
-
-| Parameter | Value |
-|---|---|
-| Method | Sitting-drop vapor diffusion |
-| Protein sample | Full-length Cry6Aa |
-| Reservoir | not specified |
-| Notes | Full-length structure solved at lower resolution (2.7 A). N-terminal 11 residues, C-terminal 6 residues, and some internal loops not resolved. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Trypsin-cleaved Cry6Aa at 100 mg/mL in 25 mM CAPS pH 11.0, 50 mM NaCl</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>20% <a href="/xray-mp-wiki/reagents/additives/peg/">Peg</a> 1000, 0.1 M sodium phosphate dibasic/citric acid pH 4.2, 0.2 M lithium sulfate</td>
+    </tr>
+    <tr>
+      <td>Mixing ratio</td>
+      <td>1:1</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Data collected at LS-CAT (APS) on Mar CCD-300 detector at 100 K</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Full-length Cry6Aa</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Full-length structure solved at lower resolution (2.7 A). N-terminal 11 residues, C-terminal 6 residues, and some internal loops not resolved.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -131,13 +241,13 @@ Cry6Ba, which has coleopteran activity but reduced nematode toxicity.
 
 ## Cross-References
 
-- [Alpha-Helical Pore-Forming Toxin Family](/xray-mp-wiki/concepts/protein-families/alpha-helical-pore-forming-toxin-family/) — Cry6Aa is a founding member of this structural class among B. thuringiensis Cry toxins
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Trypsin-cleaved Cry6Aa structure solved by MR using hemolysin B (PDB 2NRJ) as search model
-- [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) — Referenced in the context of Glycine
-- [Iptg](/xray-mp-wiki/reagents/additives/iptg/) — Referenced in the context of Iptg
-- [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) — Referenced in the context of Tris Hcl
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Referenced in the context of Glycerol
-- [EDTA](/xray-mp-wiki/reagents/additives/edta/) — Referenced in the context of EDTA
-- [TCEP](/xray-mp-wiki/reagents/additives/tcep/) — Referenced in the context of TCEP
-- [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) — Referenced in the context of Sucrose
-- [Peg](/xray-mp-wiki/reagents/additives/peg/) — Referenced in the context of Peg
+- <a href="/xray-mp-wiki/concepts/protein-families/alpha-helical-pore-forming-toxin-family/">Alpha-Helical Pore-Forming Toxin Family</a> — Cry6Aa is a founding member of this structural class among B. thuringiensis Cry toxins
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Trypsin-cleaved Cry6Aa structure solved by MR using hemolysin B (PDB 2NRJ) as search model
+- <a href="/xray-mp-wiki/reagents/buffers/glycine/">Glycine</a> — Referenced in the context of Glycine
+- <a href="/xray-mp-wiki/reagents/additives/iptg/">Iptg</a> — Referenced in the context of Iptg
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> — Referenced in the context of Tris Hcl
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Referenced in the context of Glycerol
+- <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> — Referenced in the context of EDTA
+- <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a> — Referenced in the context of TCEP
+- <a href="/xray-mp-wiki/reagents/ligands/sucrose/">Sucrose</a> — Referenced in the context of Sucrose
+- <a href="/xray-mp-wiki/reagents/additives/peg/">Peg</a> — Referenced in the context of Peg

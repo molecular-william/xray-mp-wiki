@@ -1,7 +1,7 @@
 ---
 title: "Burkholderia cenocepacia Haem Importer Complex BhuUV"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,49 +16,114 @@ verified: false
 
 The BhuUV complex is the transmembrane and nucleotide-binding domain core of the type II ATP-binding cassette (ABC) haem importer from the Gram-negative pathogen Burkholderia cenocepacia. It consists of the transmembrane domain dimer BhuU and the nucleotide-binding domain dimer BhuV. The crystal structure in the nucleotide-free form reveals an inward-facing conformation where the cytoplasmic gate is open and the periplasmic gate is closed. This represents the post-translocation state of the haem transport cycle. BhuUV is a close ortholog of [Hmuuv](/xray-mp-wiki/proteins/abc-transporters/hmuuv/) from Yersinia pestis.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##ncomms13411 | unspecified | 2.8 | P2₁2₁2₁ | BhuU (TMD) dimer + BhuV (NBD) dimer (without BhuT) | none (nucleotide-free) |
+### doi/10.1038##ncomms13411
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/unspecified">UNSPECIFIED</a></td>
+      <td>2.8</td>
+      <td>P2₁2₁2₁</td>
+      <td>BhuU (TMD) dimer + BhuV (NBD) dimer (without BhuT)</td>
+      <td>none (nucleotide-free)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli
 - **Construct**: BhuU and BhuV co-expressed from a single plasmid with N-terminal 8 His-tag and enterokinase cleavage site on BhuU.
 - **Induction**: 0.3 mM IPTG at OD600 0.6-0.8, further growth 20 h at 16°C
 - **Media**: LB medium with ampicillin (50 µg/mL)
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli c41 (DE3)
 - **Expression construct**: BhuU with N-terminal 8 His-tag + enterokinase site + BhuV
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | French press | -- | 50 mM [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 150 mM NaCl, 2 mM MgCl₂, 10 µg/mL DNase, 0.2 mg/mL lysozyme + -- | Cell debris removed by centrifugation; membrane fraction obtained by ultracentrifugation at 66,000g for 1 h |
-| Membrane solubilization | Detergent solubilization | -- | 50 mM [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 150 mM NaCl + 2% (w/v) n-decyl-β-D-maltopyranoside ([DM](/xray-mp-wiki/reagents/detergents/dm/)) | Solubilized for 1 h at 4°C |
-| Affinity chromatography | Ni-NTA affinity chromatography | Ni-NTA agarose | 50 mM [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 150 mM NaCl, 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 0.02% [DM](/xray-mp-wiki/reagents/detergents/dm/) | His-tagged BhuUV captured |
-| Size-exclusion chromatography | Size-exclusion chromatography | -- | 50 mM [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 150 mM NaCl, 0.02% [DM](/xray-mp-wiki/reagents/detergents/dm/) + 0.02% [DM](/xray-mp-wiki/reagents/detergents/dm/) | BhuUV complex purified |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>French press</td>
+      <td>--</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 7.5, 150 mM NaCl, 2 mM MgCl₂, 10 µg/mL DNase, 0.2 mg/mL lysozyme + --</td>
+      <td>Cell debris removed by centrifugation; membrane fraction obtained by ultracentrifugation at 66,000g for 1 h</td>
+    </tr>
+    <tr>
+      <td>Membrane solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 7.5, 150 mM NaCl + 2% (w/v) n-decyl-β-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
+      <td>Solubilized for 1 h at 4°C</td>
+    </tr>
+    <tr>
+      <td>Affinity chromatography</td>
+      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td>Ni-NTA agarose</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 7.5, 150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+      <td>His-tagged BhuUV captured</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>Size-exclusion chromatography</td>
+      <td>--</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 7.5, 150 mM NaCl, 0.02% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+      <td>BhuUV complex purified</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: BhuUV complex in 50 mM Tris-HCl pH 7.5, 150 mM NaCl, 0.02% DM
 
+**Crystallization:**
 
-## Crystallization
-
-### doi/10.1038##ncomms13411
-
-| Parameter | Value |
-|---|---|
-| Method | Sitting-drop vapor diffusion |
-| Protein sample | BhuUV complex |
-| Reservoir | unspecified |
-| Temperature | 4°C or 20°C |
-| Growth time | unspecified |
-| Notes | Nucleotide-free form; 76 ligands and 22 water molecules resolved in refinement |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>BhuUV complex</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>unspecified</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4°C or 20°C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>unspecified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Nucleotide-free form; 76 ligands and 22 water molecules resolved in refinement</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -77,13 +142,13 @@ Structural alignment of BhuU and HmuU monomers (r.m.s.d. 0.8 Å for 135 Cα atom
 
 ## Cross-References
 
-- [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — BhuUV is a type II ABC transporter
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Inward/outward-facing conformations illustrate alternating access
-- [BhuUV-T Complex](/xray-mp-wiki/proteins/abc-transporters/bhuuv-t/) — BhuUV is the core complex of BhuUV-T
-- [French Press Cell Lysis](/xray-mp-wiki/methods/cell-lysis/french-press/) — Used for cell lysis in BhuUV purification
-- [n-Decyl-β-D-Maltopyranoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Detergent used for membrane solubilization
-- [Yersinia pestis Heme Transporter HmuUV](/xray-mp-wiki/proteins/abc-transporters/hmuuv/) — Orthologous type II ABC haem importer; HmuUV is outward-facing vs BhuUV inward-facing
-- [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) — Referenced in the context of Tris Hcl
-- [DM](/xray-mp-wiki/reagents/detergents/dm/) — Referenced in the context of DM
-- [ATP](/xray-mp-wiki/reagents/ligands/atp/) — Referenced in the context of ATP
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Referenced in the context of Imidazole
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/">ABC Transporter Family</a> — BhuUV is a type II ABC transporter
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating-Access Mechanism</a> — Inward/outward-facing conformations illustrate alternating access
+- <a href="/xray-mp-wiki/proteins/abc-transporters/bhuuv-t/">BhuUV-T Complex</a> — BhuUV is the core complex of BhuUV-T
+- <a href="/xray-mp-wiki/methods/cell-lysis/french-press/">French Press Cell Lysis</a> — Used for cell lysis in BhuUV purification
+- <a href="/xray-mp-wiki/reagents/detergents/dm/">n-Decyl-β-D-Maltopyranoside (DM)</a> — Detergent used for membrane solubilization
+- <a href="/xray-mp-wiki/proteins/abc-transporters/hmuuv/">Yersinia pestis Heme Transporter HmuUV</a> — Orthologous type II ABC haem importer; HmuUV is outward-facing vs BhuUV inward-facing
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> — Referenced in the context of Tris Hcl
+- <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> — Referenced in the context of DM
+- <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a> — Referenced in the context of ATP
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Referenced in the context of Imidazole

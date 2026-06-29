@@ -1,7 +1,7 @@
 ---
 title: "NCX_Mj Sodium/Calcium Exchanger from Methanococcus jannaschii"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,49 +17,517 @@ verified: false
 NCX_Mj is a sodium/calcium exchanger (NCX) from the archaeon Methanococcus jannaschii, belonging to the cation-Ca2+ exchanger superfamily. It is a membrane transporter that catalyzes the electrogenic exchange of three Na+ ions for one Ca2+ ion across the cell membrane, playing an essential role in maintaining Ca2+ homeostasis. Like all NCX proteins, it contains two highly conserved homologous alpha repeat sequence motifs arising from a gene-duplication event. NCX_Mj lacks the large intracellular regulatory domain found in eukaryotic NCX homologs, making it a minimal functional unit for ion transport. Its 1.9 A crystal structure revealed an outward-facing conformation with 10 transmembrane helices and four clustered ion-binding sites, providing the first structural insight into the NCX ion-exchange mechanism.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1126##science.1215759 | 3V5U | 1.9 | P212121 | Full-length NCX_Mj | Ca2+, Na+ (modeled in binding sites) |
-| doi/10.1126##science.1215759 | 3V5U | 3.6 | P212121 | Full-length NCX_Mj (conventional crystallization in detergent) | Cd2+ or Mn2+ (at divalent blockage site) |
+### doi/10.1126##science.1215759
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3v5u">3V5U</a></td>
+      <td>1.9</td>
+      <td>P212121</td>
+      <td>Full-length NCX_Mj</td>
+      <td>Ca2+, Na+ (modeled in binding sites)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3v5u">3V5U</a></td>
+      <td>3.6</td>
+      <td>P212121</td>
+      <td>Full-length NCX_Mj (conventional crystallization in detergent)</td>
+      <td>Cd2+ or Mn2+ (at divalent blockage site)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli
 - **Construct**: Full-length NCX_Mj from Methanococcus jannaschii
 - **Notes**: Expressed in E. coli cells for functional characterization via 45Ca2+ flux assays. Purification and crystallization construct details not specified in main text.
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: Escherichia coli
 - **Expression construct**: Full-length NCX_Mj
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Expression</td>
+      <td>E. coli expression</td>
+      <td>—</td>
+      <td></td>
+      <td>NCX_Mj expressed in E. coli cells</td>
+    </tr>
+    <tr>
+      <td>Purification</td>
+      <td>Not detailed in main text</td>
+      <td>—</td>
+      <td></td>
+      <td>Purification details in Supporting Online Material. Protein used for both LCP and conventional crystallization.</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression | E. coli expression | — |  | NCX_Mj expressed in E. coli cells |
-| Purification | Not detailed in main text | — |  | Purification details in Supporting Online Material. Protein used for both LCP and conventional crystallization. |
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP) crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified NCX_Mj in detergent (buffer details not specified in main text)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>LCP crystallization yielded well-diffracting crystals of P212121 space group with one subunit per asymmetric unit. Structure determined by SIRAS using samarium-derivatized crystals and refined to 1.9 A resolution.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">Sitting-Drop Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified NCX_Mj in detergent</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Conventional crystallization in detergent yielded crystals diffracting to 3.6 A. Structure determined by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using LCP structure as search model. CdCl2 or MnCl2 were essential additives, binding at the Smid site (divalent blockage site). Structure virtually identical to LCP structure.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-## Crystallization
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3v5u">3V5U</a> — Chain A (10 TMs, alpha)**
 
-### doi/10.1126##science.1215759
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">MVI</span><span class="topo-membrane">LGVGYFLLGLILLYYGSDWFV</span><span class="topo-inside">LGSERIARHFNVSNFVI</span><span class="topo-membrane">GATVMAIGTSLPEILTSA</span><span class="topo-outside">Y</span></span>
+<span class="topo-line"><span class="topo-outside">ASYMHAPGISI</span><span class="topo-membrane">GNAIGSCICNIGLVLGLSAII</span><span class="topo-inside">SPIIVDKNLQK</span><span class="topo-membrane">NILVYLLFVIFAAVIGI</span></span>
+<span class="topo-line"><span class="topo-outside">DGFSW</span><span class="topo-membrane">IDGVVLLILFIIYLRWT</span><span class="topo-inside">VKNGSA</span><span class="topo-unknown">EIEENND</span><span class="topo-inside">KNNPSVVFSLV</span><span class="topo-membrane">LLIIGLIGVLVGAE</span></span>
+<span class="topo-line"><span class="topo-membrane">LFVDGA</span><span class="topo-outside">KKIALALDISDKVIGFTL</span><span class="topo-membrane">VAFGTSLPELMVSLAAA</span><span class="topo-inside">KRNLGGM</span><span class="topo-membrane">VLGNVIGSNIAD</span></span>
+<span class="topo-line"><span class="topo-membrane">IGGALAVGSL</span><span class="topo-outside">FMHLPAEN</span><span class="topo-membrane">VQMAVLVIMSLLLYLFA</span><span class="topo-inside">KYSKI</span><span class="topo-membrane">GRWQGILFLALYIIAIAS</span><span class="topo-outside">LR</span></span>
+<span class="topo-line"><span class="topo-outside">MGGG</span><span class="topo-unknown">SLVPRGSRSHHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>1</td>
+      <td>3</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>24</td>
+      <td>4</td>
+      <td>24</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>41</td>
+      <td>25</td>
+      <td>41</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>59</td>
+      <td>42</td>
+      <td>59</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>71</td>
+      <td>60</td>
+      <td>71</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>92</td>
+      <td>72</td>
+      <td>92</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>103</td>
+      <td>93</td>
+      <td>103</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>120</td>
+      <td>104</td>
+      <td>120</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>125</td>
+      <td>121</td>
+      <td>125</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>126</td>
+      <td>142</td>
+      <td>126</td>
+      <td>142</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>148</td>
+      <td>143</td>
+      <td>148</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>155</td>
+      <td>149</td>
+      <td>155</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>156</td>
+      <td>166</td>
+      <td>156</td>
+      <td>166</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>167</td>
+      <td>186</td>
+      <td>167</td>
+      <td>186</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>187</td>
+      <td>204</td>
+      <td>187</td>
+      <td>204</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>205</td>
+      <td>221</td>
+      <td>205</td>
+      <td>221</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>222</td>
+      <td>228</td>
+      <td>222</td>
+      <td>228</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>229</td>
+      <td>250</td>
+      <td>229</td>
+      <td>250</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>251</td>
+      <td>258</td>
+      <td>251</td>
+      <td>258</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>259</td>
+      <td>275</td>
+      <td>259</td>
+      <td>275</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>276</td>
+      <td>280</td>
+      <td>276</td>
+      <td>280</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>281</td>
+      <td>298</td>
+      <td>281</td>
+      <td>298</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>299</td>
+      <td>304</td>
+      <td>299</td>
+      <td>304</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>305</td>
+      <td>320</td>
+      <td>305</td>
+      <td>320</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) crystallization |
-| Protein sample | Purified NCX_Mj in detergent (buffer details not specified in main text) |
-| Temperature | 20 |
-| Notes | LCP crystallization yielded well-diffracting crystals of P212121 space group with one subunit per asymmetric unit. Structure determined by SIRAS using samarium-derivatized crystals and refined to 1.9 A resolution. |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3v5u">3V5U</a> — Chain A (10 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) |
-| Protein sample | Purified NCX_Mj in detergent |
-| Notes | Conventional crystallization in detergent yielded crystals diffracting to 3.6 A. Structure determined by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) using LCP structure as search model. CdCl2 or MnCl2 were essential additives, binding at the Smid site (divalent blockage site). Structure virtually identical to LCP structure. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">MVI</span><span class="topo-membrane">LGVGYFLLGLILLYYGSDWFV</span><span class="topo-inside">LGSERIARHFNVSNFVI</span><span class="topo-membrane">GATVMAIGTSLPEILTSA</span><span class="topo-outside">Y</span></span>
+<span class="topo-line"><span class="topo-outside">ASYMHAPGISI</span><span class="topo-membrane">GNAIGSCICNIGLVLGLSAII</span><span class="topo-inside">SPIIVDKNLQK</span><span class="topo-membrane">NILVYLLFVIFAAVIGI</span></span>
+<span class="topo-line"><span class="topo-outside">DGFSW</span><span class="topo-membrane">IDGVVLLILFIIYLRWT</span><span class="topo-inside">VKNGSA</span><span class="topo-unknown">EIEENND</span><span class="topo-inside">KNNPSVVFSLV</span><span class="topo-membrane">LLIIGLIGVLVGAE</span></span>
+<span class="topo-line"><span class="topo-membrane">LFVDGA</span><span class="topo-outside">KKIALALDISDKVIGFTL</span><span class="topo-membrane">VAFGTSLPELMVSLAAA</span><span class="topo-inside">KRNLGGM</span><span class="topo-membrane">VLGNVIGSNIAD</span></span>
+<span class="topo-line"><span class="topo-membrane">IGGALAVGSL</span><span class="topo-outside">FMHLPAEN</span><span class="topo-membrane">VQMAVLVIMSLLLYLFA</span><span class="topo-inside">KYSKI</span><span class="topo-membrane">GRWQGILFLALYIIAIAS</span><span class="topo-outside">LR</span></span>
+<span class="topo-line"><span class="topo-outside">MGGG</span><span class="topo-unknown">SLVPRGSRSHHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>1</td>
+      <td>3</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>24</td>
+      <td>4</td>
+      <td>24</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>41</td>
+      <td>25</td>
+      <td>41</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>59</td>
+      <td>42</td>
+      <td>59</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>71</td>
+      <td>60</td>
+      <td>71</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>92</td>
+      <td>72</td>
+      <td>92</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>103</td>
+      <td>93</td>
+      <td>103</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>120</td>
+      <td>104</td>
+      <td>120</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>125</td>
+      <td>121</td>
+      <td>125</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>126</td>
+      <td>142</td>
+      <td>126</td>
+      <td>142</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>148</td>
+      <td>143</td>
+      <td>148</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>155</td>
+      <td>149</td>
+      <td>155</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>156</td>
+      <td>166</td>
+      <td>156</td>
+      <td>166</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>167</td>
+      <td>186</td>
+      <td>167</td>
+      <td>186</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>187</td>
+      <td>204</td>
+      <td>187</td>
+      <td>204</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>205</td>
+      <td>221</td>
+      <td>205</td>
+      <td>221</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>222</td>
+      <td>228</td>
+      <td>222</td>
+      <td>228</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>229</td>
+      <td>250</td>
+      <td>229</td>
+      <td>250</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>251</td>
+      <td>258</td>
+      <td>251</td>
+      <td>258</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>259</td>
+      <td>275</td>
+      <td>259</td>
+      <td>275</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>276</td>
+      <td>280</td>
+      <td>276</td>
+      <td>280</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>281</td>
+      <td>298</td>
+      <td>281</td>
+      <td>298</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>299</td>
+      <td>304</td>
+      <td>299</td>
+      <td>304</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>305</td>
+      <td>320</td>
+      <td>305</td>
+      <td>320</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
 
 ## Biological / Functional Insights
 
@@ -127,10 +595,10 @@ ions when Ca2+ site is occupied by Na+).
 
 ## Cross-References
 
-- [Na+/H+ Antiporter NhaA from Escherichia coli](/xray-mp-wiki/proteins/slc-transporters/nhaa/) — Related Na+-coupled membrane transporter with alternating access mechanism
-- [CLC-ec1 Cl-/H+ Antiporter](/xray-mp-wiki/proteins/slc-transporters/clc-ec1/) — Another ion-coupled antiporter with known structure and mechanistic studies
-- [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/) — NCX_Mj alternating access transport mechanism shares principles with rocker-switch
-- [Maltose Transporter MalFGK2 (E. coli)](/xray-mp-wiki/proteins/abc-transporters/maltose-transporter-malfgk2/) — ABC transporter with alternating access mechanism for comparison
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Related biological concept
-- [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — Method used in structure determination or purification
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/slc-transporters/nhaa/">Na+/H+ Antiporter NhaA from Escherichia coli</a> — Related Na+-coupled membrane transporter with alternating access mechanism
+- <a href="/xray-mp-wiki/proteins/slc-transporters/clc-ec1/">CLC-ec1 Cl-/H+ Antiporter</a> — Another ion-coupled antiporter with known structure and mechanistic studies
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/">Rocker-Switch Mechanism</a> — NCX_Mj alternating access transport mechanism shares principles with rocker-switch
+- <a href="/xray-mp-wiki/proteins/abc-transporters/maltose-transporter-malfgk2/">Maltose Transporter MalFGK2 (E. coli)</a> — ABC transporter with alternating access mechanism for comparison
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating Access Mechanism</a> — Related biological concept
+- <a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">Sitting-Drop Vapor Diffusion</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification

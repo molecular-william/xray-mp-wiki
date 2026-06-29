@@ -1,7 +1,7 @@
 ---
 title: "SLC35A1 Human CMP-Sialic Acid Transporter (mCST)"
 created: 2026-06-03
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,56 +16,772 @@ verified: false
 
 SLC35A1 is the human CMP-sialic acid transporter, a member of the SLC35 family of nucleotide sugar transporters (NSTs). It imports CMP-sialic acid into the Golgi apparatus for sialylation reactions using an antiport mechanism exchanging CMP-sialic acid for CMP. SLC35A1 is mutated in congenital disorder of glycosylation IIf, resulting in a lack of sialic acid on the surface of cells. The first crystal structures of the mouse ortholog (mCST, 91% identical to human CST) were determined by Ahuja and Whorton (2019, eLife) at 2.58 A resolution in complex with CMP (PDB 6OH2) and at 2.75 A with CMP-sialic acid (PDB 6OH3) using [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/). These structures reveal a 10-TM bundle adopting the drug/metabolite transporter (DMT) superfamily fold with a pseudo-two-fold inverted symmetry. The structures define the molecular basis for nucleotide selectivity, explain disease-causing mutations, and reveal a unique lumen-facing partially-occluded conformation that represents a key intermediate in the transport cycle.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature24464 | Homology model (based on Vrg4, PDB 5OGE) | N/A | N/A | Full-length SLC35A1 homology model | CMP-sialic acid (predicted binding) |
-| doi/10.7554##eLife.45221 | 6OH2 | 2.58 A | C2 | mCST DeltaC (lacking last 15 residues; residues 15-317) | CMP |
-| doi/10.7554##eLife.45221 | 6OH3 | 2.75 A | C2 | mCST DeltaC (lacking last 15 residues; residues 7-317) | CMP-sialic acid |
-| doi/10.7554##eLife.45221 | 6OH4 | 3.4 x 3.4 x 4.6 A (anisotropic) | P2(1) | Full-length mCST (residues 15-317) | CMP |
+### doi/10.1038##nature24464
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/homology model (based on vrg4, pdb 5oge)">HOMOLOGY MODEL (BASED ON VRG4, PDB 5OGE)</a></td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>Full-length SLC35A1 homology model</td>
+      <td>CMP-sialic acid (predicted binding)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Pichia pastoris SMD1168H
 - **Construct**: mCST with N-terminal GFP-His10 tag and [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) site
 
-### Purification Workflow
-
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane solubilization | Detergent extraction | -- | 25 mM HEPES pH 7.5, 150 mM NaCl, 5 mM [DTT](/xray-mp-wiki/reagents/additives/dtt/), 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/) + 1% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Membranes resuspended and homogenized, solubilized for 1.5 hr at 4C |
-| IMAC | Immobilized metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA agarose | 25 mM HEPES pH 7.5, 150 mM NaCl, 5 mM [DTT](/xray-mp-wiki/reagents/additives/dtt/), 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/), 0.1% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Batch binding for 1.5 hr. Washed with 5 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), then 20 mM, then 40 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/). Eluted with 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
-| Tag cleavage | Protease digestion | -- | 25 mM HEPES pH 7.5, 150 mM NaCl, 5 mM [DTT](/xray-mp-wiki/reagents/additives/dtt/), 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/), 0.1% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) added at 1:20 ratio, overnight at 4C to cleave GFP-His10 tag |
-| SEC | Size-exclusion chromatography | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) (GE Healthcare) | 25 mM HEPES pH 7.5, 150 mM NaCl, 0.1% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 5 mM [DTT](/xray-mp-wiki/reagents/additives/dtt/), 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/) + 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Concentrated in 50 K MWCO concentrator before SEC |
-
-
-## Crystallization
-
 ### doi/10.7554##eLife.45221
 
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion (HDVD) |
-| Protein sample | mCST at 5 mg/mL in 25 mM HEPES pH 7.5, 150 mM NaCl, 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), supplemented with 20 mM CMP |
-| Reservoir | 25.6-26.8% [PEG](/xray-mp-wiki/reagents/additives/peg/) 400, 0.1 M Tris pH 8.5, 0.1 M magnesium acetate |
-| Temperature | 20 C |
-| Growth time | 5-13 days |
-| Cryoprotection | Increased [PEG](/xray-mp-wiki/reagents/additives/peg/) 400 concentration in mother liquor |
-| Notes | Rectangular rod-shaped crystals. Data from 5 crystals merged. Hg and Pt derivatives prepared by soaking for [MIRAS](/xray-mp-wiki/methods/structure-determination/miras/) phasing. Anisotropic diffraction to 3.4 x 3.4 x 4.6 A. |
+**Structures:**
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Protein sample | mCST DeltaC at 5-7 mg/mL in 25 mM HEPES pH 7.5, 150 mM NaCl, 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
-| Temperature | 20 C |
-| Growth time | 3-6 days |
-| Cryoprotection | Crystals harvested directly from LCP drop and flash-frozen in liquid N2 |
-| Notes | Protein mixed with [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/). LCP crystals diffracted to 2.58 A (CMP complex) and 2.75 A (CMP-Sia complex). Rod-shaped crystals. For CMP-Sia complex, apyrase was added to maintain low CMP levels. Data from 26 crystals merged for CMP complex. |
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6oh2">6OH2</a></td>
+      <td>2.58 A</td>
+      <td>C2</td>
+      <td>mCST DeltaC (lacking last 15 residues; residues 15-317)</td>
+      <td>CMP</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6oh3">6OH3</a></td>
+      <td>2.75 A</td>
+      <td>C2</td>
+      <td>mCST DeltaC (lacking last 15 residues; residues 7-317)</td>
+      <td>CMP-sialic acid</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6oh4">6OH4</a></td>
+      <td>3.4 x 3.4 x 4.6 A (anisotropic)</td>
+      <td>P2(1)</td>
+      <td>Full-length mCST (residues 15-317)</td>
+      <td>CMP</td>
+    </tr>
+  </tbody>
+</table>
 
+**Expression:**
+
+- **Expression system**: Pichia pastoris SMD1168H
+- **Construct**: mCST with N-terminal GFP-His10 tag and [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) site
+
+**Purification:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Membrane solubilization</td>
+      <td>Detergent extraction</td>
+      <td>--</td>
+      <td>25 mM HEPES pH 7.5, 150 mM NaCl, 5 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> + 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Membranes resuspended and homogenized, solubilized for 1.5 hr at 4C</td>
+    </tr>
+    <tr>
+      <td>IMAC</td>
+      <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Ni-NTA agarose</td>
+      <td>25 mM HEPES pH 7.5, 150 mM NaCl, 5 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, 0.1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Batch binding for 1.5 hr. Washed with 5 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, then 20 mM, then 40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>. Eluted with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
+    </tr>
+    <tr>
+      <td>Tag cleavage</td>
+      <td>Protease digestion</td>
+      <td>--</td>
+      <td>25 mM HEPES pH 7.5, 150 mM NaCl, 5 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, 0.1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> added at 1:20 ratio, overnight at 4C to cleave GFP-His10 tag</td>
+    </tr>
+    <tr>
+      <td>SEC</td>
+      <td>Size-exclusion chromatography</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> (GE Healthcare)</td>
+      <td>25 mM HEPES pH 7.5, 150 mM NaCl, 0.1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Concentrated in 50 K MWCO concentrator before SEC</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop vapor diffusion (HDVD)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>mCST at 5 mg/mL in 25 mM HEPES pH 7.5, 150 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, supplemented with 20 mM CMP</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>25.6-26.8% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 400, 0.1 M Tris pH 8.5, 0.1 M magnesium acetate</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>5-13 days</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Increased <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 400 concentration in mother liquor</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Rectangular rod-shaped crystals. Data from 5 crystals merged. Hg and Pt derivatives prepared by soaking for <a href="/xray-mp-wiki/methods/structure-determination/miras/">MIRAS</a> phasing. Anisotropic diffraction to 3.4 x 3.4 x 4.6 A.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>mCST DeltaC at 5-7 mg/mL in 25 mM HEPES pH 7.5, 150 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>3-6 days</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Crystals harvested directly from LCP drop and flash-frozen in liquid N2</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Protein mixed with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a>. LCP crystals diffracted to 2.58 A (CMP complex) and 2.75 A (CMP-Sia complex). Rod-shaped crystals. For CMP-Sia complex, apyrase was added to maintain low CMP levels. Data from 26 crystals merged for CMP complex.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6oh2">6OH2</a> — Chain A (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MAPARENVSLFFKL</span><span class="topo-inside">Y</span><span class="topo-membrane">CLTVMTLVAAAYT</span><span class="topo-outside">VALRYTRTTAEELYF</span><span class="topo-membrane">STTAVCITEVIKLLIS</span><span class="topo-inside">V</span></span>
+<span class="topo-line"><span class="topo-inside">GLLAKETGSLGRFKASLSENVLGSPKELAKLS</span><span class="topo-membrane">VPSLVYAVQNNMAFLA</span><span class="topo-outside">LSNLDAAVY</span><span class="topo-membrane">QVT</span></span>
+<span class="topo-line"><span class="topo-membrane">YQLKIPCTALCTVL</span><span class="topo-inside">MLNRTL</span><span class="topo-membrane">SKLQWISVFMLCGGVTLVQ</span><span class="topo-outside">WKPA</span><span class="topo-unknown">QATK</span><span class="topo-outside">VVVAQNPLLGFG</span><span class="topo-membrane">A</span></span>
+<span class="topo-line"><span class="topo-membrane">IAIAVLCSGFAGVYF</span><span class="topo-inside">EKVLKSSDTS</span><span class="topo-unknown">LWVRNIQM</span><span class="topo-membrane">YLSGIVVTLAGTYLSDGA</span><span class="topo-outside">EIQEKGFFY</span></span>
+<span class="topo-line"><span class="topo-outside">GYTY</span><span class="topo-membrane">YVWFVIFLASVGGLYTSVVV</span><span class="topo-inside">KYTD</span><span class="topo-membrane">NIMKGFSAAAAIVLSTIASVLL</span><span class="topo-outside">FGLQITLSF</span><span class="topo-membrane">A</span></span>
+<span class="topo-line"><span class="topo-membrane">LGALLVCVSIYLYGL</span><span class="topo-inside">PR</span><span class="topo-unknown">QDTTSNSLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>15</td>
+      <td>15</td>
+      <td>15</td>
+      <td>15</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>28</td>
+      <td>16</td>
+      <td>28</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>43</td>
+      <td>29</td>
+      <td>43</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>59</td>
+      <td>44</td>
+      <td>59</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>92</td>
+      <td>60</td>
+      <td>92</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>108</td>
+      <td>93</td>
+      <td>108</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>109</td>
+      <td>117</td>
+      <td>109</td>
+      <td>117</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>118</td>
+      <td>134</td>
+      <td>118</td>
+      <td>134</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>140</td>
+      <td>135</td>
+      <td>140</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>141</td>
+      <td>159</td>
+      <td>141</td>
+      <td>159</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>160</td>
+      <td>163</td>
+      <td>160</td>
+      <td>163</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>168</td>
+      <td>179</td>
+      <td>168</td>
+      <td>179</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>180</td>
+      <td>195</td>
+      <td>180</td>
+      <td>195</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>196</td>
+      <td>205</td>
+      <td>196</td>
+      <td>205</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>206</td>
+      <td>213</td>
+      <td>206</td>
+      <td>213</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>231</td>
+      <td>214</td>
+      <td>231</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>232</td>
+      <td>244</td>
+      <td>232</td>
+      <td>244</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>245</td>
+      <td>264</td>
+      <td>245</td>
+      <td>264</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>265</td>
+      <td>268</td>
+      <td>265</td>
+      <td>268</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>269</td>
+      <td>290</td>
+      <td>269</td>
+      <td>290</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>299</td>
+      <td>291</td>
+      <td>299</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>315</td>
+      <td>300</td>
+      <td>315</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>316</td>
+      <td>317</td>
+      <td>316</td>
+      <td>317</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6oh3">6OH3</a> — Chain A (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MAPARE</span><span class="topo-inside">NVSLF</span><span class="topo-membrane">FKLYCLTVMTLVAAAYTVAL</span><span class="topo-outside">RYTRTTAEELYF</span><span class="topo-membrane">STTAVCITEVIKLLIS</span><span class="topo-inside">V</span></span>
+<span class="topo-line"><span class="topo-inside">GLLAKETGSLGRFKASLSENVLGSPKELAKLSV</span><span class="topo-membrane">PSLVYAVQNNMAFLAL</span><span class="topo-outside">SNLDA</span><span class="topo-membrane">AVYQVT</span></span>
+<span class="topo-line"><span class="topo-membrane">YQLKIPCTALC</span><span class="topo-inside">TVLMLNRTLSK</span><span class="topo-membrane">LQWISVFMLCGGVTLVQW</span><span class="topo-unknown">KPAQATK</span><span class="topo-outside">VVVAQNPLL</span><span class="topo-membrane">GFGA</span></span>
+<span class="topo-line"><span class="topo-membrane">IAIAVLCSGFAG</span><span class="topo-inside">VYFEKVLKSSDTS</span><span class="topo-unknown">LWVRNIQM</span><span class="topo-membrane">YLSGIVVTLAGTYLSDGAEIQ</span><span class="topo-outside">EKGFFY</span></span>
+<span class="topo-line"><span class="topo-outside">GYTY</span><span class="topo-membrane">YVWFVIFLASVGGLYTSVVV</span><span class="topo-inside">KYTDN</span><span class="topo-membrane">IMKGFSAAAAIVLSTIASVLL</span><span class="topo-outside">FGLQITLS</span><span class="topo-membrane">FA</span></span>
+<span class="topo-line"><span class="topo-membrane">LGALLVCVSIYLY</span><span class="topo-inside">GLPR</span><span class="topo-unknown">QDTTSNSLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>7</td>
+      <td>11</td>
+      <td>7</td>
+      <td>11</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>31</td>
+      <td>12</td>
+      <td>31</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>43</td>
+      <td>32</td>
+      <td>43</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>59</td>
+      <td>44</td>
+      <td>59</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>93</td>
+      <td>60</td>
+      <td>93</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>109</td>
+      <td>94</td>
+      <td>109</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>110</td>
+      <td>114</td>
+      <td>110</td>
+      <td>114</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>115</td>
+      <td>131</td>
+      <td>115</td>
+      <td>131</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>132</td>
+      <td>142</td>
+      <td>132</td>
+      <td>142</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>160</td>
+      <td>143</td>
+      <td>160</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>168</td>
+      <td>176</td>
+      <td>168</td>
+      <td>176</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>177</td>
+      <td>192</td>
+      <td>177</td>
+      <td>192</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>193</td>
+      <td>205</td>
+      <td>193</td>
+      <td>205</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>206</td>
+      <td>213</td>
+      <td>206</td>
+      <td>213</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>234</td>
+      <td>214</td>
+      <td>234</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>244</td>
+      <td>235</td>
+      <td>244</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>245</td>
+      <td>264</td>
+      <td>245</td>
+      <td>264</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>265</td>
+      <td>269</td>
+      <td>265</td>
+      <td>269</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>270</td>
+      <td>290</td>
+      <td>270</td>
+      <td>290</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>298</td>
+      <td>291</td>
+      <td>298</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>299</td>
+      <td>313</td>
+      <td>299</td>
+      <td>313</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>314</td>
+      <td>317</td>
+      <td>314</td>
+      <td>317</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6oh4">6OH4</a> — Chain A (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MAPARENVSLFFKL</span><span class="topo-inside">Y</span><span class="topo-membrane">CLTVMTLVAAAYTVAL</span><span class="topo-outside">RYTRTTAEELYF</span><span class="topo-membrane">STTAVCITEVIKLLISV</span></span>
+<span class="topo-line"><span class="topo-membrane">GL</span><span class="topo-inside">LAKETGS</span><span class="topo-unknown">LGRFKASLSE</span><span class="topo-inside">NVLGSPKELAKL</span><span class="topo-membrane">SVPSLVYAVQNNMAFLAL</span><span class="topo-outside">SNLDA</span><span class="topo-membrane">AVYQVT</span></span>
+<span class="topo-line"><span class="topo-membrane">YQLKIPCTALCT</span><span class="topo-inside">VLMLNRTLSK</span><span class="topo-membrane">LQWISVFMLCGGVTLVQW</span><span class="topo-outside">KPA</span><span class="topo-unknown">QATK</span><span class="topo-outside">VVVAQNPLL</span><span class="topo-membrane">GFGA</span></span>
+<span class="topo-line"><span class="topo-membrane">IAIAVLCSGFAGVYF</span><span class="topo-inside">EKVLKSSDTS</span><span class="topo-unknown">LWVRNIQM</span><span class="topo-membrane">YLSGIVVTLAGTYLSDGA</span><span class="topo-outside">EIQEKGFFY</span></span>
+<span class="topo-line"><span class="topo-outside">GYTY</span><span class="topo-membrane">YVWFVIFLASVGGLYTSVVV</span><span class="topo-inside">KYTD</span><span class="topo-membrane">NIMKGFSAAAAIVLSTIASVLLF</span><span class="topo-outside">GLQITL</span><span class="topo-membrane">SFA</span></span>
+<span class="topo-line"><span class="topo-membrane">LGALLVCVSIYLYG</span><span class="topo-inside">LPR</span><span class="topo-unknown">QDTTSIQQEATSKERIIGVSNSLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>15</td>
+      <td>15</td>
+      <td>15</td>
+      <td>15</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>31</td>
+      <td>16</td>
+      <td>31</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>43</td>
+      <td>32</td>
+      <td>43</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>62</td>
+      <td>44</td>
+      <td>62</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>69</td>
+      <td>63</td>
+      <td>69</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>79</td>
+      <td>70</td>
+      <td>79</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>91</td>
+      <td>80</td>
+      <td>91</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>109</td>
+      <td>92</td>
+      <td>109</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>110</td>
+      <td>114</td>
+      <td>110</td>
+      <td>114</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>115</td>
+      <td>132</td>
+      <td>115</td>
+      <td>132</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>133</td>
+      <td>142</td>
+      <td>133</td>
+      <td>142</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>160</td>
+      <td>143</td>
+      <td>160</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>161</td>
+      <td>163</td>
+      <td>161</td>
+      <td>163</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>168</td>
+      <td>176</td>
+      <td>168</td>
+      <td>176</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>177</td>
+      <td>195</td>
+      <td>177</td>
+      <td>195</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>196</td>
+      <td>205</td>
+      <td>196</td>
+      <td>205</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>206</td>
+      <td>213</td>
+      <td>206</td>
+      <td>213</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>231</td>
+      <td>214</td>
+      <td>231</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>232</td>
+      <td>244</td>
+      <td>232</td>
+      <td>244</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>245</td>
+      <td>264</td>
+      <td>245</td>
+      <td>264</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>265</td>
+      <td>268</td>
+      <td>265</td>
+      <td>268</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>269</td>
+      <td>291</td>
+      <td>269</td>
+      <td>291</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>292</td>
+      <td>297</td>
+      <td>292</td>
+      <td>297</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>298</td>
+      <td>314</td>
+      <td>298</td>
+      <td>314</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>315</td>
+      <td>317</td>
+      <td>315</td>
+      <td>317</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -100,13 +816,13 @@ CMP binding quenches mCST intrinsic tryptophan fluorescence through a single res
 
 ## Cross-References
 
-- [Vrg4 GDP-Mannose Transporter](/xray-mp-wiki/proteins/slc-transporters/vrg4/) — Structural homolog and reference model for the DMT superfamily fold
-- [SLC35C1 Human GDP-Fucose Transporter](/xray-mp-wiki/proteins/slc-transporters/slc35c1/) — Related SLC35 family nucleotide sugar transporter
-- [SLC35 Family (Nucleotide Sugar Transporters)](/xray-mp-wiki/concepts/transport-mechanisms/sl35-family/) — Transporter family classification
-- [Lipidic Cubic Phase (LCP)](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP crystallization method used to obtain high-resolution structures
-- [N-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for purification and crystallization
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [MIRAS](/xray-mp-wiki/methods/structure-determination/miras/) — Method used in structure determination or purification
-- [DTT](/xray-mp-wiki/reagents/additives/dtt/) — Additive used in purification or crystallization buffers
-- [EDTA](/xray-mp-wiki/reagents/additives/edta/) — Additive used in purification or crystallization buffers
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/proteins/slc-transporters/vrg4/">Vrg4 GDP-Mannose Transporter</a> — Structural homolog and reference model for the DMT superfamily fold
+- <a href="/xray-mp-wiki/proteins/slc-transporters/slc35c1/">SLC35C1 Human GDP-Fucose Transporter</a> — Related SLC35 family nucleotide sugar transporter
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/sl35-family/">SLC35 Family (Nucleotide Sugar Transporters)</a> — Transporter family classification
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase (LCP)</a> — LCP crystallization method used to obtain high-resolution structures
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">N-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Primary detergent used for purification and crystallization
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/structure-determination/miras/">MIRAS</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Additive used in purification or crystallization buffers

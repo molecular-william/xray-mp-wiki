@@ -1,12 +1,12 @@
 ---
 title: "Mouse Claudin-3 (mCLDN-3)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [receptor, membrane-protein]
-sources: [doi/10.1073##pnas.2024651118]
+sources: []
 verified: false
 ---
 
@@ -24,17 +24,9 @@ has valine at position 3 (NPVVP152), resulting in 26-fold lower CpE affinity. Cp
 cytotoxic to mCLDN-3-expressing Sf9 cells, demonstrating functional receptor activity.
 
 
-## Structure Determination
+## Publications
 
-No structure determined.
-
-## Expression and Purification
-
-No purification described.
-
-## Crystallization
-
-No crystallization described.
+No publications.
 
 ## Biological / Functional Insights
 
@@ -61,6 +53,6 @@ between mice (CLDN-3) and humans (CLDN-4).
 
 ## Cross-References
 
-- [Human Claudin-4 (hCLDN-4)](/xray-mp-wiki/proteins/structural-adhesion/human-claudin-4/) — Both are high-affinity CpE receptors sharing leucine at position 3 of NPLVA motif
-- [Human Claudin-3 (hCLDN-3)](/xray-mp-wiki/proteins/structural-adhesion/human-claudin-3/) — Species-specific divergence at position 3 (Leu vs Val) explains differing CpE receptor status
-- [C-CPE (Clostridium perfringens Enterotoxin)](/xray-mp-wiki/reagents/ligands/c-cpe/) — mCLDN-3 is a high-affinity CpE receptor in mice
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/human-claudin-4/">Human Claudin-4 (hCLDN-4)</a> — Both are high-affinity CpE receptors sharing leucine at position 3 of NPLVA motif
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/human-claudin-3/">Human Claudin-3 (hCLDN-3)</a> — Species-specific divergence at position 3 (Leu vs Val) explains differing CpE receptor status
+- <a href="/xray-mp-wiki/reagents/ligands/c-cpe/">C-CPE (Clostridium perfringens Enterotoxin)</a> — mCLDN-3 is a high-affinity CpE receptor in mice

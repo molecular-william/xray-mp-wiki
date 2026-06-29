@@ -1,7 +1,7 @@
 ---
 title: "GluA2 Ligand-Binding Domain (L504Y, N775S)"
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,21 +16,32 @@ verified: false
 
 The ligand-binding domain ([LBD](/xray-mp-wiki/proteins/other-ion-channels/avglur1/)) of the AMPA receptor subunit GluA2, engineered with L504Y and N775S mutations. The L504Y mutation promotes dimerization of the [LBD](/xray-mp-wiki/proteins/other-ion-channels/avglur1/) in solution, while the N775S mutation converts it into a flip-like isoform. This construct was crystallized in complex with glutamate and the thienothiadiazine dioxide PAM compound 32 (BPAM395) to elucidate the binding mode of thienothiadiazine dioxides at the AMPA receptor allosteric site.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.ejmech.2023.116036 | 8QEZ | 1.55 | not reported | GluA2-[LBD](/xray-mp-wiki/proteins/other-ion-channels/avglur1/) (L504Y, N775S), rat origin. L504Y creates dimeric [LBD](/xray-mp-wiki/proteins/other-ion-channels/avglur1/); N775S induces flip-like isoform | glutamate (orthosteric), compound 32/BPAM395 (allosteric PAM) |
+### doi/10.1016##j.ejmech.2023.116036
 
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/8qez">8QEZ</a></td>
+      <td>1.55</td>
+      <td>not reported</td>
+      <td>GluA2-<a href="/xray-mp-wiki/proteins/other-ion-channels/avglur1/">LBD</a> (L504Y, N775S), rat origin. L504Y creates dimeric <a href="/xray-mp-wiki/proteins/other-ion-channels/avglur1/">LBD</a>; N775S induces flip-like isoform</td>
+      <td>glutamate (orthosteric), compound 32/BPAM395 (allosteric PAM)</td>
+    </tr>
+  </tbody>
+</table>
  - R-work not reported%, R-free not reported%; Data collection: ESRF beamline ID29
 
-## Expression and Purification
-
-No purification described.
-
-## Crystallization
-
-No crystallization described.
 
 ## Biological / Functional Insights
 
@@ -41,5 +52,5 @@ Two molecules of compound 32 bind at the allosteric site located at the [LBD](/x
 
 ## Cross-References
 
-- [Positive Allosteric Modulation](/xray-mp-wiki/concepts/structural-mechanisms/positive-allosteric-modulation/) — Compound 32 acts as a positive allosteric modulator of AMPA receptors
-- [LBD](/xray-mp-wiki/proteins/other-ion-channels/avglur1/) — Related protein structure
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/positive-allosteric-modulation/">Positive Allosteric Modulation</a> — Compound 32 acts as a positive allosteric modulator of AMPA receptors
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/avglur1/">LBD</a> — Related protein structure

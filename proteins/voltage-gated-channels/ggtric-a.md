@@ -1,7 +1,7 @@
 ---
 title: "GgTRIC-A (Chicken Trimeric Intracellular Cation Channel A)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,44 +17,104 @@ verified: false
 GgTRIC-A is the Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel (Gallus gallus) ortholog of the C. elegans TRIC-B1 Channel-A subtype of trimeric Intracellular Allosteric Antagonism Cation Diffusion Facilitator (CDF) Family (Tric) [KirBac Potassium Channels](/xray-mp-wiki/proteins/voltage-gated-channels/kirbac-potassium-channels/). C. elegans TRIC-B1 Channel [KirBac Potassium Channels](/xray-mp-wiki/proteins/voltage-gated-channels/kirbac-potassium-channels/) provide counter-Ion currents that facilitate active Ca2+ [Proton-Release Channel in Archaeal Rhodopsins](/xray-mp-wiki/concepts/transport-mechanisms/proton-release-channel-archaeal-rhodopsins/) in Archaeal Rhodopsins in Archaeal Rhodopsins from Intracellular Allosteric Antagonism stores such as sarcoplasmic reticulum and endoplasmic reticulum. C. elegans TRIC-B1 Channel-A couples with RyR [Desensitization in Cys-Loop Receptors](/xray-mp-wiki/concepts/signaling-receptors/desensitization-in-cys-loop-receptors/) in Cys-Loop Receptors in Cys-Loop Receptors (RyRs) to mediate Ca2+ [Proton-Release Channel in Archaeal Rhodopsins](/xray-mp-wiki/concepts/transport-mechanisms/proton-release-channel-archaeal-rhodopsins/) in Archaeal Rhodopsins in Archaeal Rhodopsins In excitable cells, especially striated muscle and brain. GgTRIC-A shares 76% sequence identity with Human HsTRIC-A and 40% with Human HsTRIC-B. The [Structure-Based Design of Third-Generation Antipsychotics](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) was solved by SeMet Single-Wavelength Anomalous Dispersion (SeMet SAD) Phrasing At 1.8 A resolution.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.1817271116 |  | 1.8 |  | Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel GgTRIC-A, full-length with C-terminal His tag | Ca2+, DgkA (DAG) |
-| doi/10.1073##pnas.1817271116 |  |  |  | Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel GgTRIC-A, Ca2+-[Bovine F1-ATPase (azide-inhibited form)](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) (azide-inhibited form) (azide-free ground state) GPCR Active State High-Affinity Agonist Binding | [DAG](/xray-mp-wiki/reagents/lipids/dag/) |
-| doi/10.1073##pnas.1817271116 |  |  |  | Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel GgTRIC-A K129A [Rhodopsin N2C/D282C Mutant](/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/) | [DAG](/xray-mp-wiki/reagents/lipids/dag/) |
-| doi/10.1073##pnas.1817271116 |  |  |  | Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel GgTRIC-A K129Q [Rhodopsin N2C/D282C Mutant](/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/) | [DAG](/xray-mp-wiki/reagents/lipids/dag/) |
+### doi/10.1073##pnas.1817271116
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>1.8</td>
+      <td></td>
+      <td>Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel GgTRIC-A, full-length with C-terminal His tag</td>
+      <td>Ca2+, DgkA (DAG)</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel GgTRIC-A, Ca2+-<a href="/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/">Bovine F1-ATPase (azide-inhibited form)</a> (azide-inhibited form) (azide-free ground state) GPCR Active State High-Affinity Agonist Binding</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/dag/">DAG</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel GgTRIC-A K129A <a href="/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/">Rhodopsin N2C/D282C Mutant</a></td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/dag/">DAG</a></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel GgTRIC-A K129Q <a href="/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/">Rhodopsin N2C/D282C Mutant</a></td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/dag/">DAG</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Schizosaccharomyces pombe (Yeast)
 - **Construct**: Full-length GgTRIC-A with codon optimization, C-terminal His tag
 - **Notes**: Gene synthesized with codon optimization for S. pombe Sf9 Insect Cell Expression System
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: Schizosaccharomyces pombe
 - **Expression construct**: Full-length GgTRIC-A with C-terminal His tag
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> purification</td>
+      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>—</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.5, 150 mM KCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.06% <a href="/xray-mp-wiki/reagents/detergents/ogng/">OGNG</a></td>
+      <td>Solubilized In OG <a href="/xray-mp-wiki/proteins/mfs-transporters/hglut1/">hGLUT1 (Human Glucose Transporter 1)</a>-neopentyl <a href="/xray-mp-wiki/reagents/detergents/c12e8/">C12E8</a> (OGNG) amphiphiles</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) purification | Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | — | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) Ph 7.5, 150 mM KCl, 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 0.06% [OGNG](/xray-mp-wiki/reagents/detergents/ogng/) | Solubilized In OG [hGLUT1 (Human Glucose Transporter 1)](/xray-mp-wiki/proteins/mfs-transporters/hglut1/)-neopentyl [C12E8](/xray-mp-wiki/reagents/detergents/c12e8/) (OGNG) amphiphiles |
+**Crystallization:**
 
-
-## Crystallization
-
-### doi/10.1073##pnas.1817271116
-
-| Parameter | Value |
-|---|---|
-| Method | [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) |
-| Protein sample | Purified GgTRIC-A In 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) Ph 7.5, 150 mM KCl, 0.06% [OGNG](/xray-mp-wiki/reagents/detergents/ogng/) |
-| Reservoir | Multiple conditions (see Si Appendix Table S2) |
-| Notes | Crystallized In multiple lattices. SeMet Single-Wavelength Anomalous Dispersion (SeMet SAD) Phrasing used for [G592 (Initial Quinoline MsbA Inhibitor)](/xray-mp-wiki/reagents/ligands/g592-initial-quinoline-msba-inhibitor/) (Initial Quinoline MsbA Inhibitor) (Initial Quinoline MsbA Inhibitor) [Structure-Based Design of Third-Generation Antipsychotics](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) solution. Structures determined In both Ca2+-[Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters](/xray-mp-wiki/concepts/transport-mechanisms/alternating-ion-bound-configurations/) in K+ Channel Selectivity Filters in K+ Channel Selectivity Filters and Ca2+-[Bovine F1-ATPase (azide-inhibited form)](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) (azide-inhibited form) (azide-free ground state) [Gluex Conformational States in CLC Transport Cycle](/xray-mp-wiki/concepts/transport-mechanisms/gluex-conformational-states-clc/) in CLC Transport Cycle in CLC Transport Cycle. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">Sitting-Drop Vapor Diffusion</a> <a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">Sitting-Drop Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified GgTRIC-A In 20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.5, 150 mM KCl, 0.06% <a href="/xray-mp-wiki/reagents/detergents/ogng/">OGNG</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Multiple conditions (see Si Appendix Table S2)</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystallized In multiple lattices. SeMet Single-Wavelength Anomalous Dispersion (SeMet SAD) Phrasing used for <a href="/xray-mp-wiki/reagents/ligands/g592-initial-quinoline-msba-inhibitor/">G592 (Initial Quinoline MsbA Inhibitor)</a> (Initial Quinoline MsbA Inhibitor) (Initial Quinoline MsbA Inhibitor) <a href="/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/">Structure-Based Design of Third-Generation Antipsychotics</a> solution. Structures determined In both Ca2+-<a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-ion-bound-configurations/">Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters</a> in K+ Channel Selectivity Filters in K+ Channel Selectivity Filters and Ca2+-<a href="/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/">Bovine F1-ATPase (azide-inhibited form)</a> (azide-inhibited form) (azide-free ground state) <a href="/xray-mp-wiki/concepts/transport-mechanisms/gluex-conformational-states-clc/">Gluex Conformational States in CLC Transport Cycle</a> in CLC Transport Cycle in CLC Transport Cycle.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -81,13 +141,13 @@ Paired [AGGC](/xray-mp-wiki/reagents/ligands/n-acetyl-s-geranylgeranyl-l-cystein
 
 ## Cross-References
 
-- [XTRIC-B (Xenopus TRIC-B)](/xray-mp-wiki/proteins/voltage-gated-channels/xtric-b/) — Vertebrate TRIC-B subtype used for comparison; similar overall fold and trimeric architecture
-- [Diacylglycerol (DAG)](/xray-mp-wiki/reagents/lipids/dag/) — DAG binds at lateral fenestrations between protomers; identified by lipidomics and crystallography
-- [si-Face Cleavage in Rhomboid Proteases](/xray-mp-wiki/concepts/enzyme-mechanisms/si-face-cleavage/) — Referenced in ggtric-a description
-- [Gating Modifier Toxin Binding Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/gating-modifier-toxin-binding/) — Referenced in ggtric-a description
-- [Structure-Based Design of Third-Generation Antipsychotics](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) — Referenced in ggtric-a description
-- [Prokaryotic TRIC Trimeric Intracellular Cation Channels](/xray-mp-wiki/proteins/voltage-gated-channels/tric-channel/) — Referenced in ggtric-a description
-- [Diacylglycerol Kinase (DgkA)](/xray-mp-wiki/proteins/enzymes/dgka/) — Referenced in ggtric-a description
-- [Arabidopsis thaliana Sucrose Transporter SUC1](/xray-mp-wiki/proteins/mfs-transporters/at-suc1/) — Referenced in ggtric-a description
-- [Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel](/xray-mp-wiki/proteins/other-ion-channels/chicken-bestrophin-1/) — Referenced in ggtric-a description
-- [Octyl-beta-D-galactopyranoside](/xray-mp-wiki/reagents/detergents/octyl-beta-d-galactopyranoside/) — Referenced in ggtric-a description
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/xtric-b/">XTRIC-B (Xenopus TRIC-B)</a> — Vertebrate TRIC-B subtype used for comparison; similar overall fold and trimeric architecture
+- <a href="/xray-mp-wiki/reagents/lipids/dag/">Diacylglycerol (DAG)</a> — DAG binds at lateral fenestrations between protomers; identified by lipidomics and crystallography
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/si-face-cleavage/">si-Face Cleavage in Rhomboid Proteases</a> — Referenced in ggtric-a description
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/gating-modifier-toxin-binding/">Gating Modifier Toxin Binding Mechanism</a> — Referenced in ggtric-a description
+- <a href="/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/">Structure-Based Design of Third-Generation Antipsychotics</a> — Referenced in ggtric-a description
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/tric-channel/">Prokaryotic TRIC Trimeric Intracellular Cation Channels</a> — Referenced in ggtric-a description
+- <a href="/xray-mp-wiki/proteins/enzymes/dgka/">Diacylglycerol Kinase (DgkA)</a> — Referenced in ggtric-a description
+- <a href="/xray-mp-wiki/proteins/mfs-transporters/at-suc1/">Arabidopsis thaliana Sucrose Transporter SUC1</a> — Referenced in ggtric-a description
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/chicken-bestrophin-1/">Chicken BEST1 Bestrophin-1 Ca2+-activated Cl- channel</a> — Referenced in ggtric-a description
+- <a href="/xray-mp-wiki/reagents/detergents/octyl-beta-d-galactopyranoside/">Octyl-beta-D-galactopyranoside</a> — Referenced in ggtric-a description

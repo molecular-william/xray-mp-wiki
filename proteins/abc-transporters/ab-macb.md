@@ -1,7 +1,7 @@
 ---
 title: "MacB ABC Transporter from Acinetobacter baumannii"
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,54 +17,623 @@ verified: false
 MacB from Acinetobacter baumannii is an ATP-binding cassette (ABC) transporter that functions as part of the tripartite MacA-MacB-TolC efflux complex. It actively extrudes macrolide antibiotics, virulence factors, peptides, and cell envelope precursors across both the plasma membrane and outer membrane. The crystal structure at 3.4 Å resolution reveals a homodimer in which each protomer contains a nucleotide-binding domain (NBD) and four transmembrane helices that protrude into the periplasm to form a periplasmic binding domain (PLD) for interaction with the membrane fusion protein MacA. MacB represents a structurally unique ABC transporter with the smallest number of transmembrane helices (four) among characterized ABC exporters.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##s41467-017-01399-2 | 5GKO | 3.40 | P4₁2₁2 | Full-length A. baumannii MacB (Se-Met derivative) | Se-Met |
-| doi/10.1038##s41467-017-01399-2 | 5WS4 | 3.40 | P4₁2₁2 | Full-length A. baumannii MacB | ADPβS |
+### doi/10.1038##s41467-017-01399-2
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5gko">5GKO</a></td>
+      <td>3.40</td>
+      <td>P4₁2₁2</td>
+      <td>Full-length A. baumannii MacB (Se-Met derivative)</td>
+      <td>Se-Met</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5ws4">5WS4</a></td>
+      <td>3.40</td>
+      <td>P4₁2₁2</td>
+      <td>Full-length A. baumannii MacB</td>
+      <td>ADPβS</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli C43(DE3)
-- **Construct**: Full-length A. baumannii MacB with C-terminal His6-tag
+- **Construct**: Full-length A. baumannii MacB with C-terminal [His6-tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/)
 - **Notes**: Expressed in E. coli C43(DE3) cells
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli C43(DE3)
 - **Expression construct**: Full-length A. baumannii MacB with C-terminal His6-tag
 - **Tag info**: C-terminal His6-tag
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane preparation | Ultracentrifugation | — | 50 mM Tris pH 7.0, 10% (v/v) glycerol | Membranes collected after French press lysis and low-speed centrifugation |
-| Solubilization | Detergent solubilization | — | 50 mM Tris pH 7.0, 10% (v/v) glycerol + 2% (w/v) n-undecyl-β-D-maltoside (UDM) | Solubilized on ice for 1 h with protease inhibitors (Roche) |
-| Affinity chromatography | Ni-NTA affinity chromatography | Chelating Sepharose resin immobilized with Ni2+ | 20 mM Tris pH 7.5, 100 mM NaCl, 25 mM imidazole, 10% (v/v) glycerol + 0.05% (w/v) UDM | Eluted with 300 mM imidazole in wash buffer |
-| Size-exclusion chromatography | Size-exclusion chromatography | Superdex-200 Increase 10/300 GL | 20 mM Tris pH 7.5, 100 mM NaCl, 10% (v/v) glycerol + 0.05% (w/v) UDM | Flow rate 0.3 ml/min using AKTA explorer 10 S |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Membrane preparation</td>
+      <td><a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">Ultracentrifugation</a></td>
+      <td>—</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.0, 10% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a></td>
+      <td>Membranes collected after <a href="/xray-mp-wiki/methods/cell-lysis/french-press/">French press</a> lysis and low-speed centrifugation</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>—</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.0, 10% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 2% (w/v) <a href="/xray-mp-wiki/reagents/detergents/n-undecyl-beta-d-maltoside/">n-undecyl-β-D-maltoside (UDM)</a></td>
+      <td>Solubilized on ice for 1 h with protease inhibitors (Roche)</td>
+    </tr>
+    <tr>
+      <td>Affinity chromatography</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">affinity chromatography</a></td>
+      <td>Chelating Sepharose resin immobilized with Ni2+</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.5, 100 mM NaCl, 25 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a>, 10% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 0.05% (w/v) <a href="/xray-mp-wiki/reagents/detergents/udm/">UDM</a></td>
+      <td>Eluted with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> in wash buffer</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size-exclusion chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size-exclusion chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex-200</a> Increase 10/300 GL</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.5, 100 mM NaCl, 10% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> + 0.05% (w/v) <a href="/xray-mp-wiki/reagents/detergents/udm/">UDM</a></td>
+      <td>Flow rate 0.3 ml/min using AKTA explorer 10 <a href="/xray-mp-wiki/reagents/ligands/s-citalopram/">S</a></td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: ~24 mg/ml MacB in 20 mM Tris pH 7.5, 100 mM NaCl, 10% (v/v) glycerol, 0.05% (w/v) UDM
 **Yield**: Not specified
 **Purity**: >95% by SDS-PAGE
 
+**Crystallization:**
 
-## Crystallization
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting-drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">vapor diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified MacB at ~24 mg/ml with 10 mM ADPβS and 2 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">MgCl2</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>1.2-1.3 M <a href="/xray-mp-wiki/reagents/buffers/citrate/">sodium citrate</a>, 100 mM Na-<a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.2</td>
+    </tr>
+    <tr>
+      <td>Mixing ratio</td>
+      <td>1:1 (protein:reservoir)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>25 °C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>1 week</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> gradually increased to 30% (v/v) by soaking in several steps</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown by <a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">sitting-drop vapor diffusion</a> technique. For Se-Met labeling, M9 minimal medium with seleno-<a href="/xray-mp-wiki/reagents/ligands/l-methionine/">L-methionine</a>; 2 mM <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a> added instead of ADPβS before crystallization.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-### doi/10.1038##s41467-017-01399-2
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5gko">5GKO</a> — Chain A (4 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Sitting-drop vapor diffusion |
-| Protein sample | Purified MacB at ~24 mg/ml with 10 mM ADPβS and 2 mM MgCl2 |
-| Reservoir | 1.2-1.3 M sodium citrate, 100 mM Na-HEPES pH 7.2 |
-| Mixing ratio | 1:1 (protein:reservoir) |
-| Temperature | 25 °C |
-| Growth time | 1 week |
-| Cryoprotection | Glycerol gradually increased to 30% (v/v) by soaking in several steps |
-| Notes | Crystals grown by sitting-drop vapor diffusion technique. For Se-Met labeling, M9 minimal medium with seleno-L-methionine; 2 mM ATP added instead of ADPβS before crystallization. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MHHHHHHMT</span><span class="topo-inside">KQALLEVSNLVREFPAGESTIQILKGIDLTIYEGELVAIVGQSGSGKSTLM</span></span>
+<span class="topo-line"><span class="topo-inside">NILGCLDRPTSGSYKVNGQETGKLEPDQLAQLRREYFGFIFQRYHLLGDLSAEGNVEVPA</span></span>
+<span class="topo-line"><span class="topo-inside">VYAGVTPADRKQRATALLTELGLGTKTQNRPSQLSGGQQQRVSIARALMNGGDVILADEP</span></span>
+<span class="topo-line"><span class="topo-inside">TGALDSHSGVEVMRILRELNAAGHTIILVTHDMQVAKNATRIIEISDGEIISDRPNVPDQ</span></span>
+<span class="topo-line"><span class="topo-inside">SLEEVKSDPDAAPA</span><span class="topo-unknown">LQNKQKKGKSIS</span><span class="topo-inside">AWR</span><span class="topo-unknown">STLDRLSEAFQMALLSMNA</span><span class="topo-inside">H</span><span class="topo-membrane">RMRTFLTMLGI</span></span>
+<span class="topo-line"><span class="topo-membrane">IIGIASVVTVVAL</span><span class="topo-outside">GNGSQQQILSNISSLGTNTITVFQGRGFGDNSKTANFKTLVPADADA</span></span>
+<span class="topo-line"><span class="topo-outside">LMTQPYVSAVSPMVSTSKTMRYQQNEANATINGVSNDYFDVKGLVFKDGQTFDQRSVRDR</span></span>
+<span class="topo-line"><span class="topo-outside">SQDVVIDTNTQKQFFSDGTNPIGQVVLLGSVPARIIGIVEPQTSGMGSDDTLNVYMPYTT</span></span>
+<span class="topo-line"><span class="topo-outside">VMSRMLGQAHVRNIVVRINDKYSTSAAENAIVNLLTQRHGAQDIFTMNSDSIRQTIEKTT</span></span>
+<span class="topo-line"><span class="topo-outside">STMTL</span><span class="topo-membrane">LVSAIAVISLVVGGIGVMNIMLV</span><span class="topo-inside">SVTERTQEIGVRMAVGARQSDIL</span><span class="topo-membrane">QQFLIEAIL</span></span>
+<span class="topo-line"><span class="topo-membrane">VCLIGGVLGVLLSLGLGQLI</span><span class="topo-outside">NKFAGGNFAVA</span><span class="topo-membrane">YSTTSIVAAFVCSTLIGVVFGFLPAK</span><span class="topo-inside">NAA</span></span>
+<span class="topo-line"><span class="topo-inside">KLDPVAALSRE</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>10</td>
+      <td>254</td>
+      <td>3</td>
+      <td>247</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>267</td>
+      <td>269</td>
+      <td>260</td>
+      <td>262</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>270</td>
+      <td>288</td>
+      <td>263</td>
+      <td>281</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>289</td>
+      <td>289</td>
+      <td>282</td>
+      <td>282</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>290</td>
+      <td>313</td>
+      <td>283</td>
+      <td>306</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>314</td>
+      <td>545</td>
+      <td>307</td>
+      <td>538</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>546</td>
+      <td>568</td>
+      <td>539</td>
+      <td>561</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>569</td>
+      <td>591</td>
+      <td>562</td>
+      <td>584</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>592</td>
+      <td>620</td>
+      <td>585</td>
+      <td>613</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>621</td>
+      <td>631</td>
+      <td>614</td>
+      <td>624</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>632</td>
+      <td>657</td>
+      <td>625</td>
+      <td>650</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>658</td>
+      <td>671</td>
+      <td>651</td>
+      <td>664</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5gko">5GKO</a> — Chain B (4 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MHHHHHHMT</span><span class="topo-inside">KQALLEVSNLVREFPAGESTIQILKGIDLTIYEGELVAIVGQSGSGKSTLM</span></span>
+<span class="topo-line"><span class="topo-inside">NILGCLDRPTSGSYKVNGQETGKLEPDQLAQLRREYFGFIFQRYHLLGDLSAEGNVEVPA</span></span>
+<span class="topo-line"><span class="topo-inside">VYAGVTPADRKQRATALLTELGLGTKTQNRPSQLSGGQQQRVSIARALMNGGDVILADEP</span></span>
+<span class="topo-line"><span class="topo-inside">TGALDSHSGVEVMRILRELNAAGHTIILVTHDMQVAKNATRIIEISDGEIISDRPNVPDQ</span></span>
+<span class="topo-line"><span class="topo-inside">SLEEVKSDPDAAPA</span><span class="topo-unknown">LQNKQKKGKSIS</span><span class="topo-inside">AWRS</span><span class="topo-unknown">TLDRLSEAFQMALLSMNA</span><span class="topo-inside">HR</span><span class="topo-membrane">MRTFLTMLGI</span></span>
+<span class="topo-line"><span class="topo-membrane">IIGIASVVTVVAL</span><span class="topo-outside">GNGSQQQILSNISSLGTNTITVFQGRGFGDNSKTANFKTLVPADADA</span></span>
+<span class="topo-line"><span class="topo-outside">LMTQPYVSAVSPMVSTSKTMRYQQNEANATINGVSNDYFDVKGLVFKDGQTFDQRSVRDR</span></span>
+<span class="topo-line"><span class="topo-outside">SQDVVIDTNTQKQFFSDGTNPIGQVVLLGSVPARIIGIVEPQTSGMGSDDTLNVYMPYTT</span></span>
+<span class="topo-line"><span class="topo-outside">VMSRMLGQAHVRNIVVRINDKYSTSAAENAIVNLLTQRHGAQDIFTMNSDSIRQTIEKTT</span></span>
+<span class="topo-line"><span class="topo-outside">STMTL</span><span class="topo-membrane">LVSAIAVISLVVGGIGVMNIMLV</span><span class="topo-inside">SVTERTQEIGVRMAVGARQSDILQQF</span><span class="topo-membrane">LIEAIL</span></span>
+<span class="topo-line"><span class="topo-membrane">VCLIGGVLGVLLSLGLGQLI</span><span class="topo-outside">NKFAGGNFAVA</span><span class="topo-membrane">YSTTSIVAAFVCSTLIGVVFGFLPAK</span><span class="topo-inside">NAA</span></span>
+<span class="topo-line"><span class="topo-inside">KLDPVAALSRE</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>10</td>
+      <td>254</td>
+      <td>3</td>
+      <td>247</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>267</td>
+      <td>270</td>
+      <td>260</td>
+      <td>263</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>271</td>
+      <td>288</td>
+      <td>264</td>
+      <td>281</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>289</td>
+      <td>290</td>
+      <td>282</td>
+      <td>283</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>313</td>
+      <td>284</td>
+      <td>306</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>314</td>
+      <td>545</td>
+      <td>307</td>
+      <td>538</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>546</td>
+      <td>568</td>
+      <td>539</td>
+      <td>561</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>569</td>
+      <td>594</td>
+      <td>562</td>
+      <td>587</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>595</td>
+      <td>620</td>
+      <td>588</td>
+      <td>613</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>621</td>
+      <td>631</td>
+      <td>614</td>
+      <td>624</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>632</td>
+      <td>657</td>
+      <td>625</td>
+      <td>650</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>658</td>
+      <td>671</td>
+      <td>651</td>
+      <td>664</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5ws4">5WS4</a> — Chain A (4 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MHHHHHHMT</span><span class="topo-inside">KQALLEVSNLVREFPAGESTIQILKGIDLTIYEGELVAIVGQSGSGKSTLM</span></span>
+<span class="topo-line"><span class="topo-inside">NILGCLDRPTSGSYKVNGQETGKLEPDQLAQLRREYFGFIFQRYHLLGDLSAEGNVEVPA</span></span>
+<span class="topo-line"><span class="topo-inside">VYAGVTPADRKQRATALLTELGLGTKTQNRPSQLSGGQQQRVSIARALMNGGDVILADEP</span></span>
+<span class="topo-line"><span class="topo-inside">TGALDSHSGVEVMRILRELNAAGHTIILVTHDMQVAKNATRIIEISDGEIISDRPNVPDQ</span></span>
+<span class="topo-line"><span class="topo-inside">SLEEVKSDPDAAPA</span><span class="topo-unknown">LQNKQKKGKSIS</span><span class="topo-inside">AWR</span><span class="topo-unknown">STLDRLSEAFQMALLSMNA</span><span class="topo-inside">HR</span><span class="topo-membrane">MRTFLTMLGI</span></span>
+<span class="topo-line"><span class="topo-membrane">IIGIASVVTVVAL</span><span class="topo-outside">GNGSQQQILSNISSLGTNTITVFQGRGFGDNSKTANFKTLVPADADA</span></span>
+<span class="topo-line"><span class="topo-outside">LMTQPYVSAVSPMVSTSKTMRYQQNEANATINGVSNDYFDVKGLVFKDGQTFDQRSVRDR</span></span>
+<span class="topo-line"><span class="topo-outside">SQDVVIDTNTQKQFFSDGTNPIGQVVLLGSVPARIIGIVEPQTSGMGSDDTLNVYMPYTT</span></span>
+<span class="topo-line"><span class="topo-outside">VMSRMLGQAHVRNIVVRINDKYSTSAAENAIVNLLTQRHGAQDIFTMNSDSIRQTIEKTT</span></span>
+<span class="topo-line"><span class="topo-outside">STMT</span><span class="topo-membrane">LLVSAIAVISLVVGGIGVMNIM</span><span class="topo-inside">LVSVTERTQEIGVRMAVGARQSDILQQFL</span><span class="topo-membrane">IEAIL</span></span>
+<span class="topo-line"><span class="topo-membrane">VCLIGGVLGVLLSLGLGQLINKF</span><span class="topo-outside">AGGNFAV</span><span class="topo-membrane">AYSTTSIVAAFVCSTLIGVVFGFLP</span><span class="topo-inside">AKNAA</span></span>
+<span class="topo-line"><span class="topo-inside">KLDPVAALSRE</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>10</td>
+      <td>254</td>
+      <td>3</td>
+      <td>247</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>267</td>
+      <td>269</td>
+      <td>260</td>
+      <td>262</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>270</td>
+      <td>288</td>
+      <td>263</td>
+      <td>281</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>289</td>
+      <td>290</td>
+      <td>282</td>
+      <td>283</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>313</td>
+      <td>284</td>
+      <td>306</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>314</td>
+      <td>544</td>
+      <td>307</td>
+      <td>537</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>545</td>
+      <td>566</td>
+      <td>538</td>
+      <td>559</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>567</td>
+      <td>595</td>
+      <td>560</td>
+      <td>588</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>596</td>
+      <td>623</td>
+      <td>589</td>
+      <td>616</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>624</td>
+      <td>630</td>
+      <td>617</td>
+      <td>623</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>631</td>
+      <td>655</td>
+      <td>624</td>
+      <td>648</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>656</td>
+      <td>671</td>
+      <td>649</td>
+      <td>664</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5ws4">5WS4</a> — Chain B (4 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MHHHHHHMT</span><span class="topo-inside">KQALLEVSNLVREFPAGESTIQILKGIDLTIYEGELVAIVGQSGSGKSTLM</span></span>
+<span class="topo-line"><span class="topo-inside">NILGCLDRPTSGSYKVNGQETGKLEPDQLAQLRREYFGFIFQRYHLLGDLSAEGNVEVPA</span></span>
+<span class="topo-line"><span class="topo-inside">VYAGVTPADRKQRATALLTELGLGTKTQNRPSQLSGGQQQRVSIARALMNGGDVILADEP</span></span>
+<span class="topo-line"><span class="topo-inside">TGALDSHSGVEVMRILRELNAAGHTIILVTHDMQVAKNATRIIEISDGEIISDRPNVPDQ</span></span>
+<span class="topo-line"><span class="topo-inside">SLEEVKSDPDAAPA</span><span class="topo-unknown">LQNKQKKGKSIS</span><span class="topo-inside">AWRS</span><span class="topo-unknown">TLDRLSEAFQMALLSMNA</span><span class="topo-inside">HR</span><span class="topo-membrane">MRTFLTMLGI</span></span>
+<span class="topo-line"><span class="topo-membrane">IIGIASVVTVVAL</span><span class="topo-outside">GNGSQQQILSNISSLGTNTITVFQGRGFGDNSKTANFKTLVPADADA</span></span>
+<span class="topo-line"><span class="topo-outside">LMTQPYVSAVSPMVSTSKTMRYQQNEANATINGVSNDYFDVKGLVFKDGQTFDQRSVRDR</span></span>
+<span class="topo-line"><span class="topo-outside">SQDVVIDTNTQKQFFSDGTNPIGQVVLLGSVPARIIGIVEPQTSGMGSDDTLNVYMPYTT</span></span>
+<span class="topo-line"><span class="topo-outside">VMSRMLGQAHVRNIVVRINDKYSTSAAENAIVNLLTQRHGAQDIFTMNSDSIRQTIEKTT</span></span>
+<span class="topo-line"><span class="topo-outside">STMT</span><span class="topo-membrane">LLVSAIAVISLVVGGIGVMNIM</span><span class="topo-inside">LVSVTERTQEIGVRMAVGARQSDILQQFL</span><span class="topo-membrane">IEAIL</span></span>
+<span class="topo-line"><span class="topo-membrane">VCLIGGVLGVLLSLGLGQLINK</span><span class="topo-outside">FAGGNFAV</span><span class="topo-membrane">AYSTTSIVAAFVCSTLIGVVFGFLP</span><span class="topo-inside">AKNAA</span></span>
+<span class="topo-line"><span class="topo-inside">KLDPVAALSRE</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>10</td>
+      <td>254</td>
+      <td>3</td>
+      <td>247</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>267</td>
+      <td>270</td>
+      <td>260</td>
+      <td>263</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>271</td>
+      <td>288</td>
+      <td>264</td>
+      <td>281</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>289</td>
+      <td>290</td>
+      <td>282</td>
+      <td>283</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>313</td>
+      <td>284</td>
+      <td>306</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>314</td>
+      <td>544</td>
+      <td>307</td>
+      <td>537</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>545</td>
+      <td>566</td>
+      <td>538</td>
+      <td>559</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>567</td>
+      <td>595</td>
+      <td>560</td>
+      <td>588</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>596</td>
+      <td>622</td>
+      <td>589</td>
+      <td>615</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>623</td>
+      <td>630</td>
+      <td>616</td>
+      <td>623</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>631</td>
+      <td>655</td>
+      <td>624</td>
+      <td>648</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>656</td>
+      <td>671</td>
+      <td>649</td>
+      <td>664</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -87,11 +656,11 @@ MacB functions as part of the MacA-MacB-TolC tripartite complex that spans both 
 
 ## Cross-References
 
-- [MacB ABC Transporter from Aggregatibacter actinomycetemcomitans](/xray-mp-wiki/proteins/abc-transporters/macb/) — Orthologous MacB from related bacterial species with structural comparison
-- [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — MacB is a member of the ABC transporter superfamily with unique structural features
-- [Mechanotransmission](/xray-mp-wiki/concepts/miscellaneous/mechanotransmission/) — Related biological concept for MacB-type ABC transporters
-- [n-Undecyl-β-D-Maltoside (UDM)](/xray-mp-wiki/reagents/detergents/udm/) — Detergent used for MacB purification and crystallization
-- [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Buffer used in purification buffers
-- [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer used in crystallization reservoir
-- [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — Method used for crystallization of MacB
-- [Selenomethionine SAD Phasing](/xray-mp-wiki/methods/structure-determination/semet-sad-phasing/) — Phase determination method used for MacB structure
+- <a href="/xray-mp-wiki/proteins/abc-transporters/macb/">MacB ABC Transporter from Aggregatibacter actinomycetemcomitans</a> — Orthologous MacB from related bacterial species with structural comparison
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/">ABC Transporter Family</a> — MacB is a member of the ABC transporter superfamily with unique structural features
+- <a href="/xray-mp-wiki/concepts/miscellaneous/mechanotransmission/">Mechanotransmission</a> — Related biological concept for MacB-type ABC transporters
+- <a href="/xray-mp-wiki/reagents/detergents/udm/">n-Undecyl-β-D-Maltoside (UDM)</a> — Detergent used for MacB purification and crystallization
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> — Buffer used in purification buffers
+- <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> — Buffer used in crystallization reservoir
+- <a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">Sitting-Drop Vapor Diffusion</a> — Method used for crystallization of MacB
+- <a href="/xray-mp-wiki/methods/structure-determination/semet-sad-phasing/">Selenomethionine SAD Phasing</a> — Phase determination method used for MacB structure

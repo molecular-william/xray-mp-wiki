@@ -1,12 +1,12 @@
 ---
 title: "Bovine F1-ATPase (azide-inhibited form)"
 created: 2026-06-08
-updated: 2026-06-10
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [enzyme, membrane-protein, xray-crystallography]
-sources: [doi/10.1073##pnas.0602915103, doi/10.1073##pnas.1506465112, doi/10.1073##pnas.93.14.6913, doi/10.1074##jbc.M700203200]
+sources: [doi/10.1073##pnas.0602915103, doi/10.1073##pnas.1506465112, doi/10.1073##pnas.93.14.6913]
 verified: false
 ---
 
@@ -16,44 +16,157 @@ verified: false
 
 Bovine F1-ATPase is the catalytic domain of the mitochondrial F1Fo-ATP synthase, an enzyme that synthesizes [ATP](/xray-mp-wiki/reagents/ligands/atp/) using the proton motive force across the inner mitochondrial membrane. This structure was determined at 1.95 A resolution from crystals grown in the presence of [ADP](/xray-mp-wiki/reagents/ligands/adp/), [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/), and azide. The azide anion binds between the beta-phosphate of [ADP](/xray-mp-wiki/reagents/ligands/adp/) and the catalytically essential residues beta-Lys-162 (P loop) and alpha-Arg-373 (arginine finger) in the ADP-binding catalytic subunit betaDP, occupying a position similar to the gamma-phosphate in the ATP-binding subunit betaTP. Azide binding tightens the interaction of these residues with the nucleotide, stabilizing the ADP-bound state and inhibiting [ATP](/xray-mp-wiki/reagents/ligands/atp/) hydrolysis. This mechanism appears to be common to many ATPases including ABC transporters, SecA, and DNA topoisomerase IIalpha.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.0602915103 | 2CK3 | 1.95 A | P2$_1$2$_1$2$_1$ | Bovine mitochondrial F1-ATPase (alpha3beta3gamma subunit complex) | [ADP](/xray-mp-wiki/reagents/ligands/adp/), [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/), azide (N3-) |
-| doi/10.1073##pnas.1506465112 | 4YXW | 3.1 |  | Bovine F1-ATPase (a3b3gde subunits) with Mg-AMP-PNP and thiophosphate | Mg-AMP-PNP (3 noncatalytic + 2 catalytic sites), thiophosphate (beta-E) |
-| doi/10.1073##pnas.1506465112 | 4YXW | 3.3 |  | Bovine F1-ATPase with I1-60His-K39A inhibitor (F1-I3-ThioP) | [ATP](/xray-mp-wiki/reagents/ligands/atp/) |
-| doi/10.1073##pnas.93.14.6913 | 1COW | 3.1 | P2$_1$2$_1$2$_1$ | Bovine mitochondrial F1-ATPase (alpha3beta3gamma subcomplex) in complex with aurovertin B. | Aurovertin B, [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/), [ADP](/xray-mp-wiki/reagents/ligands/adp/) |
+### doi/10.1073##pnas.0602915103
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2ck3">2CK3</a></td>
+      <td>1.95 A</td>
+      <td>P2$_1$2$_1$2$_1$</td>
+      <td>Bovine mitochondrial F1-ATPase (alpha3beta3gamma subunit complex)</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/adp/">ADP</a>, <a href="/xray-mp-wiki/reagents/ligands/amp-pnp/">Amp Pnp</a>, azide (N3-)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Bovine heart mitochondria (native source)
 - **Construct**: Native F1-ATPase purified from bovine heart mitochondria
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Purification of F1-ATPase from bovine heart mitochondria</td>
+      <td>Standard mitochondrial F1-ATPase purification protocol</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>F1-ATPase was purified from bovine heart mitochondria. The alpha3beta3gamma subcomplex was used for crystallization.</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Purification of F1-ATPase from bovine heart mitochondria | Standard mitochondrial F1-ATPase purification protocol | -- | -- + -- | F1-ATPase was purified from bovine heart mitochondria. The alpha3beta3gamma subcomplex was used for crystallization. |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">Vapor diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified F1-ATPase with <a href="/xray-mp-wiki/reagents/ligands/adp/">ADP</a>, <a href="/xray-mp-wiki/reagents/ligands/amp-pnp/">Amp Pnp</a>, and azide</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Mixing ratio</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown in the presence of <a href="/xray-mp-wiki/reagents/ligands/adp/">ADP</a>, <a href="/xray-mp-wiki/reagents/ligands/amp-pnp/">Amp Pnp</a> (5-adenyl-imidodiphosphate), and azide. Space group P2_1_2_1_2_1.</td>
+    </tr>
+  </tbody>
+</table>
+### doi/10.1073##pnas.1506465112
 
+**Structures:**
 
-## Crystallization
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4yxw">4YXW</a></td>
+      <td>3.1</td>
+      <td></td>
+      <td>Bovine F1-ATPase (a3b3gde subunits) with Mg-AMP-PNP and thiophosphate</td>
+      <td>Mg-AMP-PNP (3 noncatalytic + 2 catalytic sites), thiophosphate (beta-E)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4yxw">4YXW</a></td>
+      <td>3.3</td>
+      <td></td>
+      <td>Bovine F1-ATPase with I1-60His-K39A inhibitor (F1-I3-ThioP)</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a></td>
+    </tr>
+  </tbody>
+</table>
 
-### doi/10.1073##pnas.0602915103
+**Expression:**
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | Purified F1-ATPase with [ADP](/xray-mp-wiki/reagents/ligands/adp/), [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/), and azide |
-| Reservoir | -- |
-| Mixing ratio | -- |
-| Temperature | -- |
-| Growth time | -- |
-| Cryoprotection | -- |
-| Notes | Crystals grown in the presence of [ADP](/xray-mp-wiki/reagents/ligands/adp/), [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/) (5-adenyl-imidodiphosphate), and azide. Space group P2_1_2_1_2_1. |
+- **Expression system**: Bovine heart mitochondria (native source)
+- **Construct**: Native F1-ATPase purified from bovine heart mitochondria
+
+### doi/10.1073##pnas.93.14.6913
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1cow">1COW</a></td>
+      <td>3.1</td>
+      <td>P2$_1$2$_1$2$_1$</td>
+      <td>Bovine mitochondrial F1-ATPase (alpha3beta3gamma subcomplex) in complex with aurovertin B.</td>
+      <td>Aurovertin B, <a href="/xray-mp-wiki/reagents/ligands/amp-pnp/">Amp Pnp</a>, <a href="/xray-mp-wiki/reagents/ligands/adp/">ADP</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Bovine heart mitochondria (native source)
+- **Construct**: Native F1-ATPase purified from bovine heart mitochondria
 
 
 ## Biological / Functional Insights
@@ -85,10 +198,10 @@ The uncompetitive inhibitor aurovertin B binds to bovine F1-ATPase at two equiva
 
 ## Cross-References
 
-- [ATP Synthase Mechanism](/xray-mp-wiki/concepts/atp-synthase-mechanism/) — F1-ATPase is the catalytic domain of the F1Fo-ATP synthase, the central enzyme of oxidative phosphorylation
-- [ADP Inhibition](/xray-mp-wiki/concepts/adp-inhibition/) — Azide inhibition of F1-ATPase works by enhancing the natural ADP-inhibited state
-- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/) — Structural basis of phosphate release generating rotary substep
-- [AMP-PNP (Adenylyl Imidodiphosphate)](/xray-mp-wiki/reagents/ligands/amp-pnp/) — AMP-PNP used to trap the phosphate release dwell state
-- [ATP](/xray-mp-wiki/reagents/ligands/atp/) — Referenced in the context of ATP
-- [ADP](/xray-mp-wiki/reagents/ligands/adp/) — Referenced in the context of ADP
-- [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/) — Referenced in the context of Amp Pnp
+- <a href="/xray-mp-wiki/concepts/atp-synthase-mechanism/">ATP Synthase Mechanism</a> — F1-ATPase is the catalytic domain of the F1Fo-ATP synthase, the central enzyme of oxidative phosphorylation
+- <a href="/xray-mp-wiki/concepts/adp-inhibition/">ADP Inhibition</a> — Azide inhibition of F1-ATPase works by enhancing the natural ADP-inhibited state
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/">F1-ATPase Rotary Catalytic Mechanism</a> — Structural basis of phosphate release generating rotary substep
+- <a href="/xray-mp-wiki/reagents/ligands/amp-pnp/">AMP-PNP (Adenylyl Imidodiphosphate)</a> — AMP-PNP used to trap the phosphate release dwell state
+- <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a> — Referenced in the context of ATP
+- <a href="/xray-mp-wiki/reagents/ligands/adp/">ADP</a> — Referenced in the context of ADP
+- <a href="/xray-mp-wiki/reagents/ligands/amp-pnp/">Amp Pnp</a> — Referenced in the context of Amp Pnp

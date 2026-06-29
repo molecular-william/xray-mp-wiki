@@ -1,7 +1,7 @@
 ---
 title: "ExbB (E. coli)"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,45 +17,119 @@ verified: false
 ExbB is an integral polytopic membrane protein from Escherichia coli that is a core component of the Ton complex, which transduces energy from the proton motive force at the inner membrane to [TonB (E. coli)](/xray-mp-wiki/proteins/tonB)-dependent transporters at the outer membrane. ExbB contains three transmembrane helices and a large cytoplasmic domain. It assembles as a pentamer with a transmembrane pore and a large enclosed cytoplasmic cavity featuring a strongly electropositive basic belt and an electronegative cap. The ExbB pentamer forms an ion channel with a conductance of approximately 220 pS at neutral pH.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature19757 | 5FQ7 | 2.6 A | P63 | ExbB (residues 1-237) | calcium ion |
-| doi/10.1038##nature19757 | 5FQ6 | 3.5 A | P212121 | ExbB (residues 1-237) | calcium ion |
+### doi/10.1038##nature19757
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5fq7">5FQ7</a></td>
+      <td>2.6 A</td>
+      <td>P63</td>
+      <td>ExbB (residues 1-237)</td>
+      <td>calcium ion</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5fq6">5FQ6</a></td>
+      <td>3.5 A</td>
+      <td>P212121</td>
+      <td>ExbB (residues 1-237)</td>
+      <td>calcium ion</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli K-12 BL21(DE3) cells transformed with pET26b/ExbB plasmid
 - **Construct**: ExbB with C-terminal 6xHis tag, expressed in LB or SelenoMet medium
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Emulsiflex-C3 high-pressure homogenization</td>
+      <td>--</td>
+      <td>1xPBS + --</td>
+      <td>Cells resuspended in 1xPBS with 100 uM AEBSF, 100 uM DNase, 50 ug/ml lysozyme; disrupted at ~15,000 p.s.i.</td>
+    </tr>
+    <tr>
+      <td>Membrane isolation</td>
+      <td>Ultracentrifugation</td>
+      <td>--</td>
+      <td>1xPBS or TBS + --</td>
+      <td>Pelleted at 200,000g for 1 h at 4 C; membranes resuspended with dounce homogenizer</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Membrane solubilization</td>
+      <td>--</td>
+      <td>1xPBS or TBS + 1% <a href="/xray-mp-wiki/reagents/detergents/triton-x-100">Triton X-100</a></td>
+      <td>Solubilized by addition of <a href="/xray-mp-wiki/reagents/detergents/triton-x-100">Triton X-100</a> to 1% final concentration</td>
+    </tr>
+    <tr>
+      <td>Affinity purification</td>
+      <td>His-tag <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
+      <td>--</td>
+      <td>1xPBS or TBS + 1% <a href="/xray-mp-wiki/reagents/detergents/triton-x-100">Triton X-100</a></td>
+      <td>Purified using C-terminal 10xHis tag on <a href="/xray-mp-wiki/proteins/exbD">ExbD (E. coli)</a> in the ExbB-ExbD subcomplex</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Emulsiflex-C3 high-pressure homogenization | -- | 1xPBS + -- | Cells resuspended in 1xPBS with 100 uM AEBSF, 100 uM DNase, 50 ug/ml lysozyme; disrupted at ~15,000 p.s.i. |
-| Membrane isolation | Ultracentrifugation | -- | 1xPBS or TBS + -- | Pelleted at 200,000g for 1 h at 4 C; membranes resuspended with dounce homogenizer |
-| Solubilization | Membrane solubilization | -- | 1xPBS or TBS + 1% [Triton X-100](/xray-mp-wiki/reagents/detergents/triton-x-100) | Solubilized by addition of [Triton X-100](/xray-mp-wiki/reagents/detergents/triton-x-100) to 1% final concentration |
-| Affinity purification | His-tag [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) | -- | 1xPBS or TBS + 1% [Triton X-100](/xray-mp-wiki/reagents/detergents/triton-x-100) | Purified using C-terminal 10xHis tag on [ExbD (E. coli)](/xray-mp-wiki/proteins/exbD) in the ExbB-ExbD subcomplex |
-
-
-## Crystallization
-
-### doi/10.1038##nature19757
-
-| Parameter | Value |
-|---|---|
-| Method | [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) |
-| Protein sample | ExbB-[ExbD (E. coli)](/xray-mp-wiki/proteins/exbD) subcomplex at pH 7.0 |
-| Reservoir | Not specified in paper |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Initial phases calculated using Se-SAD at 5.2 A resolution (Extended Data Fig. 1). Native structure at 2.6 A solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement) using the Se-SAD model. Two ExbB pentamers per asymmetric unit with some helical shifts indicating flexibility. Ring-like difference density observed along conserved residues T148 and T181 in the transmembrane pore. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>ExbB-<a href="/xray-mp-wiki/proteins/exbD">ExbD (E. coli)</a> subcomplex at pH 7.0</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not specified in paper</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Initial phases calculated using Se-SAD at 5.2 A resolution (Extended Data Fig. 1). Native structure at 2.6 A solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement">Molecular Replacement</a> using the Se-SAD model. Two ExbB pentamers per asymmetric unit with some helical shifts indicating flexibility. Ring-like difference density observed along conserved residues T148 and T181 in the transmembrane pore.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -82,13 +156,13 @@ Two ExbB pentamers were observed per asymmetric unit with helical shifts between
 
 ## Cross-References
 
-- [ExbD (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/exbD/) — ExbB forms a stable pentamer that interacts with the [ExbD (E. coli)](/xray-mp-wiki/proteins/exbD) dimer to constitute the Ton subcomplex
-- [TonB (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/tonB/) — TonB interacts with the ExbB-[ExbD (E. coli)](/xray-mp-wiki/proteins/exbD) subcomplex to form the fully assembled Ton complex
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for solubilization of the fully assembled Ton complex
-- [Triton X-100](/xray-mp-wiki/reagents/detergents/triton-x-100/) — Detergent used for solubilization of the Ton subcomplex (1% final concentration)
-- [Calcium Chloride](/xray-mp-wiki/reagents/additives/calcium-chloride/) — Calcium ion observed binding at the cytoplasmic pore (E105/E109) in the crystal structure
-- [Single-Wavelength Anomalous Diffraction (SEMet-SAD)](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/) — Initial phases calculated using Se-SAD at 5.2 A resolution
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Native 2.6 A structure solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement) using the Se-SAD model
-- [DEER Spectroscopy](/xray-mp-wiki/methods/quality-assessment/deer-spectroscopy/) — DEER performed on ExbB C25S mutant labeled with MTSL at position C25 to confirm pentameric state
-- [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) — Crystallization method used for structure determination
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) — Purification method used in protein preparation
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/exbD/">ExbD (E. coli)</a> — ExbB forms a stable pentamer that interacts with the [ExbD (E. coli)](/xray-mp-wiki/proteins/exbD) dimer to constitute the Ton subcomplex
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/tonB/">TonB (E. coli)</a> — TonB interacts with the ExbB-[ExbD (E. coli)](/xray-mp-wiki/proteins/exbD) subcomplex to form the fully assembled Ton complex
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Detergent used for solubilization of the fully assembled Ton complex
+- <a href="/xray-mp-wiki/reagents/detergents/triton-x-100/">Triton X-100</a> — Detergent used for solubilization of the Ton subcomplex (1% final concentration)
+- <a href="/xray-mp-wiki/reagents/additives/calcium-chloride/">Calcium Chloride</a> — Calcium ion observed binding at the cytoplasmic pore (E105/E109) in the crystal structure
+- <a href="/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/">Single-Wavelength Anomalous Diffraction (SEMet-SAD)</a> — Initial phases calculated using Se-SAD at 5.2 A resolution
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Native 2.6 A structure solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement) using the Se-SAD model
+- <a href="/xray-mp-wiki/methods/quality-assessment/deer-spectroscopy/">DEER Spectroscopy</a> — DEER performed on ExbB C25S mutant labeled with MTSL at position C25 to confirm pentameric state
+- <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a> — Crystallization method used for structure determination
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a> — Purification method used in protein preparation

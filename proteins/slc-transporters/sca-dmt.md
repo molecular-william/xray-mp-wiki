@@ -1,7 +1,7 @@
 ---
 title: "ScaDMT Divalent Metal-Ion Transporter"
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,38 +17,407 @@ verified: false
 ScaDMT is a divalent metal-ion transporter from Staphylococcus capitis belonging to the [SLC11 (NRAMP) Family](/xray-mp-wiki/concepts/protein-families/slc11-nramp-family/). It catalyzes the proton-coupled transport of transition-metal ions including Mn2+, Fe2+, Cd2+, Co2+, Ni2+, and Pb2+ across cellular membranes. The protein adopts an inward-facing conformation with a LeuT-fold architecture and a substrate-binding site at the center of the transporter. ScaDMT is highly homologous to human DMT1 (SLC11A2), sharing 37% identical and 59% homologous residues. It contains 448 amino acids and is monomeric in detergent solution as determined by multiangle light scattering.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nsmb.2904 | 5M94 | 3.6 A | P3_1 2 1 | Selenomethionine-labeled ScaDMT^tru-[Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) complex | SeMet (for structural determination by X-ray crystallography) |
+### doi/10.1038##nsmb.2904
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5m94">5M94</a></td>
+      <td>3.6 A</td>
+      <td>P3_1 2 1</td>
+      <td>Selenomethionine-labeled ScaDMT^tru-<a href="/xray-mp-wiki/reagents/protein-tags/nanobody/">Nanobody</a> complex</td>
+      <td>SeMet (for structural determination by X-ray crystallography)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli
 - **Construct**: ScaDMT from S. capitis DSM 20326 (448 aa), C-terminal His10 tag separated by [HRV 3C Protease](/xray-mp-wiki/reagents/additives/hrv-3c-protease/) cleavage site, cloned into pBXC3H vector
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis and membrane preparation</td>
+      <td>Cell disruption with custom-made cell disruptor; ultracentrifugation to harvest membranes</td>
+      <td>--</td>
+      <td>50 mM potassium phosphate pH 7.5, 150 mM NaCl + DM (1-2% w/v)</td>
+      <td>Membrane vesicles extracted with 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> and 1-2% DM</td>
+    </tr>
+    <tr>
+      <td>Affinity purification</td>
+      <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (IMAC)</td>
+      <td>Ni-NTA</td>
+      <td>DM-containing buffer + DM</td>
+      <td>His10-tagged protein purified; <a href="/xray-mp-wiki/reagents/additives/hrv-3c-protease/">HRV 3C Protease</a> cleavage during dialysis</td>
+    </tr>
+    <tr>
+      <td>Tag cleavage and SEC</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/hrv-3c-protease/">HRV 3C Protease</a> cleavage followed by size-exclusion chromatography</td>
+      <td>Superdex S200</td>
+      <td>10 mM HEPES pH 7.5, 150 mM NaCl, 0.25% DM + DM</td>
+      <td>Cleaved protein concentrated and pooled for experiments</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis and membrane preparation | Cell disruption with custom-made cell disruptor; ultracentrifugation to harvest membranes | -- | 50 mM potassium phosphate pH 7.5, 150 mM NaCl + DM (1-2% w/v) | Membrane vesicles extracted with 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) and 1-2% DM |
-| Affinity purification | Immobilized metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) (IMAC) | Ni-NTA | DM-containing buffer + DM | His10-tagged protein purified; [HRV 3C Protease](/xray-mp-wiki/reagents/additives/hrv-3c-protease/) cleavage during dialysis |
-| Tag cleavage and SEC | [HRV 3C Protease](/xray-mp-wiki/reagents/additives/hrv-3c-protease/) cleavage followed by size-exclusion chromatography | Superdex S200 | 10 mM HEPES pH 7.5, 150 mM NaCl, 0.25% DM + DM | Cleaved protein concentrated and pooled for experiments |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/nanobody/">Nanobody</a> co-crystallization, vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Full-length ScaDMT crystals grew to 6.5 A resolution in P3_2 2 1. ScaDMT^tru co-crystallized with <a href="/xray-mp-wiki/reagents/protein-tags/nanobody/">Nanobody</a> in <a href="/xray-mp-wiki/reagents/additives/peg-600/">PEG 600</a>/650 precipitants yielding 3.1 A structures in P3_1 2 1. Mn2+ complexes obtained by soaking. SeMet-labeled crystals used for structural determination.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5m94">5M94</a> — Chain A (8 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MAVA</span><span class="topo-outside">VGYMDPGNWITSMQGGAQYGYTLLF</span><span class="topo-membrane">VILISSLAAMLLQSMTV</span><span class="topo-inside">RLGIATGKDLAQMT</span></span>
+<span class="topo-line"><span class="topo-inside">RHFLSKPVAI</span><span class="topo-membrane">IFWIIAELAIIATDIAE</span><span class="topo-outside">VIGSAIALDLIFGIPLIVGALITVFDVFLLLFI</span></span>
+<span class="topo-line"><span class="topo-outside">MRFGFRKIEAIVGTLIFTVLAIFVFEVFISSPQLTDILNGFVPHKEIVTNQGILYIA</span><span class="topo-membrane">LGI</span></span>
+<span class="topo-line"><span class="topo-membrane">IGATIMPHNLYLHSSIV</span><span class="topo-inside">QSRKYDRHDNEEKAQAI</span><span class="topo-membrane">KYATIDSNLQLSIAFV</span><span class="topo-outside">VNCLLLTLGA</span></span>
+<span class="topo-line"><span class="topo-outside">ALFFGTKTNDLGGFYDLYHALKTEPVLGATLGGVMSTLFAVALLASGQ</span><span class="topo-membrane">NSTITGTLAGQI</span></span>
+<span class="topo-line"><span class="topo-membrane">VME</span><span class="topo-inside">GFLRL</span><span class="topo-membrane">SIPNWLRRLITRSLAVIP</span><span class="topo-outside">VIICLIIFKGNSEKIEQLLVF</span><span class="topo-membrane">SQVFLSIALPFSL</span></span>
+<span class="topo-line"><span class="topo-membrane">IPLQ</span><span class="topo-inside">LATSNKKLMGPFINKTW</span><span class="topo-membrane">VNIISWTLIVILSGLNVYLIIQTF</span><span class="topo-unknown">QELALEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>41</td>
+      <td>44</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>29</td>
+      <td>45</td>
+      <td>69</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>46</td>
+      <td>70</td>
+      <td>86</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>70</td>
+      <td>87</td>
+      <td>110</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>87</td>
+      <td>111</td>
+      <td>127</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>177</td>
+      <td>128</td>
+      <td>217</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>197</td>
+      <td>218</td>
+      <td>237</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>214</td>
+      <td>238</td>
+      <td>254</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>215</td>
+      <td>230</td>
+      <td>255</td>
+      <td>270</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>231</td>
+      <td>288</td>
+      <td>271</td>
+      <td>328</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>289</td>
+      <td>303</td>
+      <td>329</td>
+      <td>343</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>304</td>
+      <td>308</td>
+      <td>344</td>
+      <td>348</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>309</td>
+      <td>326</td>
+      <td>349</td>
+      <td>366</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>327</td>
+      <td>347</td>
+      <td>367</td>
+      <td>387</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>348</td>
+      <td>364</td>
+      <td>388</td>
+      <td>404</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>365</td>
+      <td>381</td>
+      <td>405</td>
+      <td>421</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>382</td>
+      <td>405</td>
+      <td>422</td>
+      <td>445</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>406</td>
+      <td>415</td>
+      <td>446</td>
+      <td>455</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##nsmb.2904
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5m94">5M94</a> — Chain C (8 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) co-crystallization, vapor diffusion |
-| Notes | Full-length ScaDMT crystals grew to 6.5 A resolution in P3_2 2 1. ScaDMT^tru co-crystallized with [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) in [PEG 600](/xray-mp-wiki/reagents/additives/peg-600/)/650 precipitants yielding 3.1 A structures in P3_1 2 1. Mn2+ complexes obtained by soaking. SeMet-labeled crystals used for structural determination. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MAVA</span><span class="topo-outside">VGYMDPGNWITSMQGGAQYGYTLLF</span><span class="topo-membrane">VILISSLAAMLLQSMTV</span><span class="topo-inside">RLGIATGKDLAQMT</span></span>
+<span class="topo-line"><span class="topo-inside">RHFLSKPVAI</span><span class="topo-membrane">IFWIIAELAIIATDIAE</span><span class="topo-outside">VIGSAIALDLIFGIPLIVGALITVFDVFLLLFI</span></span>
+<span class="topo-line"><span class="topo-outside">MRFGFRKIEAIVGTLIFTVLAIFVFEVFISSPQLTDILNGFVPHKEIVTNQGILYIA</span><span class="topo-membrane">LGI</span></span>
+<span class="topo-line"><span class="topo-membrane">IGATIMPHNLYLHSSIV</span><span class="topo-inside">QSRKYDRHDNEEKAQAI</span><span class="topo-membrane">KYATIDSNLQLSIAFV</span><span class="topo-outside">VNCLLLTLGA</span></span>
+<span class="topo-line"><span class="topo-outside">ALFFGTKTNDLGGFYDLYHALKTEPVLGATLGGVMSTLFAVALLASG</span><span class="topo-membrane">QNSTITGTLAGQI</span></span>
+<span class="topo-line"><span class="topo-membrane">VME</span><span class="topo-inside">GFLRLS</span><span class="topo-membrane">IPNWLRRLITRSLAVIP</span><span class="topo-outside">VIICLIIFKGNSEKIEQLLVF</span><span class="topo-membrane">SQVFLSIALPFSL</span></span>
+<span class="topo-line"><span class="topo-membrane">IPLQ</span><span class="topo-inside">LATSNKKLMGPFINKTW</span><span class="topo-membrane">VNIISWTLIVILSGLNVYLIIQTF</span><span class="topo-unknown">QELALEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>41</td>
+      <td>44</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>29</td>
+      <td>45</td>
+      <td>69</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>46</td>
+      <td>70</td>
+      <td>86</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>70</td>
+      <td>87</td>
+      <td>110</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>87</td>
+      <td>111</td>
+      <td>127</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>177</td>
+      <td>128</td>
+      <td>217</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>197</td>
+      <td>218</td>
+      <td>237</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>214</td>
+      <td>238</td>
+      <td>254</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>215</td>
+      <td>230</td>
+      <td>255</td>
+      <td>270</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>231</td>
+      <td>287</td>
+      <td>271</td>
+      <td>327</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>288</td>
+      <td>303</td>
+      <td>328</td>
+      <td>343</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>304</td>
+      <td>309</td>
+      <td>344</td>
+      <td>349</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>310</td>
+      <td>326</td>
+      <td>350</td>
+      <td>366</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>327</td>
+      <td>347</td>
+      <td>367</td>
+      <td>387</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>348</td>
+      <td>364</td>
+      <td>388</td>
+      <td>404</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>365</td>
+      <td>381</td>
+      <td>405</td>
+      <td>421</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>382</td>
+      <td>405</td>
+      <td>422</td>
+      <td>445</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>406</td>
+      <td>415</td>
+      <td>446</td>
+      <td>455</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
 
 ## Biological / Functional Insights
 
@@ -84,20 +453,20 @@ outward-facing state.
 
 ## Cross-References
 
-- [SLC11 (NRAMP) Family](/xray-mp-wiki/concepts/protein-families/slc11-nramp-family/) — ScaDMT is a member of the SLC11/NRAMP family of divalent metal-ion transporters
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — ScaDMT transports ions via the alternating-access mechanism
-- [Inward-Facing Conformation](/xray-mp-wiki/concepts/transport-mechanisms/inward-facing-conformation/) — ScaDMT structures adopt inward-facing conformation
-- [LeuT Return-State Mechanism](/xray-mp-wiki/concepts/miscellaneous/leut-return-state-mechanism/) — ScaDMT shares the LeuT-fold architecture with amino acid permeases
-- [Decylmaltoside](/xray-mp-wiki/reagents/detergents/dm/) — DM used for solubilization and purification of ScaDMT
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
-- [HRV 3C Protease](/xray-mp-wiki/reagents/additives/hrv-3c-protease/) — Additive used in purification or crystallization buffers
-- [PEG 600](/xray-mp-wiki/reagents/additives/peg-600/) — Additive used in purification or crystallization buffers
-- [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) — Fusion tag for crystallization or purification
-- [ScaDMT Divalent Metal-Ion Transporter](/xray-mp-wiki/proteins/slc-transporters/sca-dmt/) — ScaDMT^tru is a truncated N-terminal variant of full-length ScaDMT
-- [DMT Superfamily (Drug/Metabolite Transporter Superfamily)](/xray-mp-wiki/concepts/transport-mechanisms/dmt-superfamily/) — ScaDMT^tru is a member of the SLC11 family
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol) — Entity mentioned in text
-- [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody) — Entity mentioned in text
-- [PEG](/xray-mp-wiki/reagents/additives/peg) — Entity mentioned in text
-- [HEPES](/xray-mp-wiki/reagents/buffers/hepes) — Entity mentioned in text
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/truncation) — Entity mentioned in text
+- <a href="/xray-mp-wiki/concepts/protein-families/slc11-nramp-family/">SLC11 (NRAMP) Family</a> — ScaDMT is a member of the SLC11/NRAMP family of divalent metal-ion transporters
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating-Access Mechanism</a> — ScaDMT transports ions via the alternating-access mechanism
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/inward-facing-conformation/">Inward-Facing Conformation</a> — ScaDMT structures adopt inward-facing conformation
+- <a href="/xray-mp-wiki/concepts/miscellaneous/leut-return-state-mechanism/">LeuT Return-State Mechanism</a> — ScaDMT shares the LeuT-fold architecture with amino acid permeases
+- <a href="/xray-mp-wiki/reagents/detergents/dm/">Decylmaltoside</a> — DM used for solubilization and purification of ScaDMT
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/hrv-3c-protease/">HRV 3C Protease</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/peg-600/">PEG 600</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/protein-tags/nanobody/">Nanobody</a> — Fusion tag for crystallization or purification
+- <a href="/xray-mp-wiki/proteins/slc-transporters/sca-dmt/">ScaDMT Divalent Metal-Ion Transporter</a> — ScaDMT^tru is a truncated N-terminal variant of full-length ScaDMT
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/dmt-superfamily/">DMT Superfamily (Drug/Metabolite Transporter Superfamily)</a> — ScaDMT^tru is a member of the SLC11 family
+- <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/protein-tags/nanobody">Nanobody</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/additives/peg">PEG</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/concepts/truncation">Protein Truncation for Crystallization</a> — Entity mentioned in text

@@ -1,12 +1,12 @@
 ---
 title: "Human Excitatory Amino Acid Transporter 1 (EAAT1)"
 created: 2026-06-08
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography, transporter]
-sources: [doi/10.1038##nature22064, doi/10.1038##s41586-021-03240-9, doi/10.15252##embj.2021108341]
+sources: [doi/10.1038##nature22064, doi/10.15252##embj.2021108341]
 verified: false
 ---
 
@@ -39,53 +39,6051 @@ The conserved E386 residue in EAAT1_CRYST (E406 in full-length numbering)
 plays a critical role in the proton coupling mechanism, and its mutation
 to glutamine alters the ion-bound conformation.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature22064 | 5LLM | 3.25 | P6_3 | EAAT1_cryst (thermostabilized, N155T/N204T, ASCT2 TM3-4c swap) with UCPH101 and L-Asp bound | UCPH101, [L Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/) |
-| doi/10.1038##nature22064 | 5LLM | 3.10 | P6_3 | EAAT1_cryst-II (M231I/F235I mutant) with UCPH101 bound | UCPH101, [L Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/) |
-| doi/10.1038##nature22064 | 5LLM | 3.32 | P6_3 | EAAT1_cryst-II (M231I/F235I mutant) UCPH101-unbound | [L Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/) |
-| doi/10.1038##nature22064 | 5LLM | 3.71 | P6_3 | EAAT1_cryst with UCPH101 and TBOA-TFB bound | UCPH101, TBOA-TFB |
-| doi/10.15252##embj.2021108341 | 7AWM | 3.25 | P6_3 | EAAT1_CRYST Na+/L-asp and UCPH101 bound | Na+, [L Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/), UCPH101 |
-| doi/10.15252##embj.2021108341 | 7AWM | 3.60 | P6_3 | EAAT1_CRYST-E386Q Na+/L-asp and UCPH101 bound | Na+, [L Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/), UCPH101 |
-| doi/10.15252##embj.2021108341 | 7AWM | 3.92 | P6_3 | EAAT1_CRYST Rb+/Ba2+ and UCPH101 bound | Rb+, Ba2+, UCPH101 |
-| doi/10.15252##embj.2021108341 | 7AWM | 3.91 | P6_3 | EAAT1_CRYST-II Rb+/Ba2+ and UCPH101 bound | Rb+, Ba2+, UCPH101 |
-| doi/10.15252##embj.2021108341 | 7AWM | 3.70 | P6_3 | EAAT1_CRYST-II Ba2+ and UCPH101 bound | Ba2+, UCPH101 |
-| doi/10.15252##embj.2021108341 | 7AWM | 3.99 |  | Wild-type human EAAT1 (full-length) |  |
+### doi/10.1038##nature22064
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5llm">5LLM</a></td>
+      <td>3.25</td>
+      <td>P6_3</td>
+      <td>EAAT1_cryst (thermostabilized, N155T/N204T, ASCT2 TM3-4c swap) with UCPH101 and L-Asp bound</td>
+      <td>UCPH101, <a href="/xray-mp-wiki/reagents/substrates/l-aspartate/">L Aspartate</a></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5llm">5LLM</a></td>
+      <td>3.10</td>
+      <td>P6_3</td>
+      <td>EAAT1_cryst-II (M231I/F235I mutant) with UCPH101 bound</td>
+      <td>UCPH101, <a href="/xray-mp-wiki/reagents/substrates/l-aspartate/">L Aspartate</a></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5llm">5LLM</a></td>
+      <td>3.32</td>
+      <td>P6_3</td>
+      <td>EAAT1_cryst-II (M231I/F235I mutant) UCPH101-unbound</td>
+      <td><a href="/xray-mp-wiki/reagents/substrates/l-aspartate/">L Aspartate</a></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5llm">5LLM</a></td>
+      <td>3.71</td>
+      <td>P6_3</td>
+      <td>EAAT1_cryst with UCPH101 and TBOA-TFB bound</td>
+      <td>UCPH101, TBOA-TFB</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: HEK293F cells
 - **Construct**: EAAT1 with N-terminal Strep-tag II, eGFP, PreScission cleavage site; thermostabilizing consensus mutations; N155T/N204T; ASCT2 TM3-4c swap
 - **Notes**: Transient transfection with PEI; cells grown in Excell293 medium; collected 48 h post-transfection
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Solubilization</td>
+      <td>Resuspension and douce homogenization</td>
+      <td>—</td>
+      <td>50 mM HEPES/Tris-base pH 7.4, 200 mM NaCl, 1 mM L-Asp, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">Pmsf</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 2% DDS (dodecanoyl <a href="/xray-mp-wiki/reagents/ligands/sucrose/">Sucrose</a>) + 0.4% CHS</td>
+      <td>1 h incubation at 4 C; ultracentrifugation at 247,000g for 45 min</td>
+    </tr>
+    <tr>
+      <td>Affinity chromatography</td>
+      <td>Strep-Tactin affinity</td>
+      <td>Strep-Tactin resin</td>
+      <td>50 mM HEPES/Tris-base pH 7.4, 200 mM NaCl, 1 mM L-Asp, 1 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 3x CMC DDS + 0.01% CHS</td>
+      <td>Fractions analyzed by FSEC; elution with <a href="/xray-mp-wiki/reagents/ligands/desthiobiotin/">Desthiobiotin</a></td>
+    </tr>
+    <tr>
+      <td>Size exclusion chromatography</td>
+      <td>SEC polishing</td>
+      <td>Superose 6 10/300</td>
+      <td>50 mM HEPES/Tris-base pH 7.4, 200 mM NaCl, 1 mM L-Asp, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.0632% DDS + 0.01264% CHS</td>
+      <td>Final purification step before crystallization</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Solubilization | Resuspension and douce homogenization | — | 50 mM HEPES/Tris-base pH 7.4, 200 mM NaCl, 1 mM L-Asp, 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/), 1 mM [Pmsf](/xray-mp-wiki/reagents/additives/pmsf/), 1 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 2% DDS (dodecanoyl [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/)) + 0.4% CHS | 1 h incubation at 4 C; ultracentrifugation at 247,000g for 45 min |
-| Affinity chromatography | Strep-Tactin affinity | Strep-Tactin resin | 50 mM HEPES/Tris-base pH 7.4, 200 mM NaCl, 1 mM L-Asp, 1 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep/), 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 3x CMC DDS + 0.01% CHS | Fractions analyzed by FSEC; elution with [Desthiobiotin](/xray-mp-wiki/reagents/ligands/desthiobiotin/) |
-| Size exclusion chromatography | SEC polishing | Superose 6 10/300 | 50 mM HEPES/Tris-base pH 7.4, 200 mM NaCl, 1 mM L-Asp, 0.5 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep/), 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 0.0632% DDS + 0.01264% CHS | Final purification step before crystallization |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion (hanging drop)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified EAAT1_cryst in 50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.4, 200 mM NaCl, 1 mM L-Asp, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 0.0632% DDS, 0.01264% CHS, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not specified in raw paper</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown in presence of 0.5 mM UCPH101; space group P6_3</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5llm">5LLM</a> — Chain A (8 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLLAKKKVQNI</span><span class="topo-outside">TKEDVKSFLRRNALL</span><span class="topo-membrane">LLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLGFLLR</span><span class="topo-inside">PYPLSPRE</span><span class="topo-membrane">VKYFAFPGELLMRMLKMLILPLIV</span><span class="topo-outside">SSLITGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIILVLII</span><span class="topo-inside">HP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-inside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-inside">TT</span><span class="topo-unknown">YEERTITGTRVKV</span><span class="topo-inside">PVGQ</span><span class="topo-membrane">EVEGMNILGLVVFSMVF</span><span class="topo-outside">GFALGKM</span></span>
+<span class="topo-line"><span class="topo-outside">GEQGQLLVDFFNSLNEATMKLVAII</span><span class="topo-membrane">MWYAPLGILFLIAGKIV</span><span class="topo-inside">E</span><span class="topo-unknown">MEDLEVL</span><span class="topo-inside">GGQLGMY</span><span class="topo-membrane">MVT</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLI</span><span class="topo-outside">YFLITRKNPFVFIAGI</span><span class="topo-unknown">LQALITALGTSSSSATLPIT</span><span class="topo-outside">FKCLEENN</span></span>
+<span class="topo-line"><span class="topo-outside">GVDKRITRFV</span><span class="topo-membrane">LPVGATINMDGTALYEAVA</span><span class="topo-inside">AIFIAQ</span><span class="topo-unknown">VNNYELDFG</span><span class="topo-inside">QI</span><span class="topo-unknown">ITISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAGLVT</span><span class="topo-inside">MVIVLTAVGLPTDDITLIIAV</span><span class="topo-membrane">DWLLDRFRTMVNVLGDALG</span><span class="topo-outside">AGIVEHLSRK</span></span>
+<span class="topo-line"><span class="topo-outside">ELEKQDA</span><span class="topo-unknown">ELGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>36</td>
+      <td>1</td>
+      <td>36</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>51</td>
+      <td>37</td>
+      <td>51</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>69</td>
+      <td>52</td>
+      <td>69</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>77</td>
+      <td>70</td>
+      <td>77</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>101</td>
+      <td>78</td>
+      <td>101</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>102</td>
+      <td>120</td>
+      <td>102</td>
+      <td>120</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>145</td>
+      <td>121</td>
+      <td>145</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td>147</td>
+      <td>146</td>
+      <td>147</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>199</td>
+      <td>198</td>
+      <td>199</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>212</td>
+      <td>200</td>
+      <td>212</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>213</td>
+      <td>216</td>
+      <td>213</td>
+      <td>216</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>217</td>
+      <td>233</td>
+      <td>217</td>
+      <td>233</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>234</td>
+      <td>265</td>
+      <td>234</td>
+      <td>265</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>266</td>
+      <td>282</td>
+      <td>266</td>
+      <td>282</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>283</td>
+      <td>283</td>
+      <td>283</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>284</td>
+      <td>290</td>
+      <td>284</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>297</td>
+      <td>291</td>
+      <td>297</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>298</td>
+      <td>316</td>
+      <td>298</td>
+      <td>316</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>317</td>
+      <td>332</td>
+      <td>317</td>
+      <td>332</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>333</td>
+      <td>352</td>
+      <td>333</td>
+      <td>352</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>353</td>
+      <td>370</td>
+      <td>353</td>
+      <td>370</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>371</td>
+      <td>389</td>
+      <td>371</td>
+      <td>389</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>390</td>
+      <td>395</td>
+      <td>390</td>
+      <td>395</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>396</td>
+      <td>404</td>
+      <td>396</td>
+      <td>404</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>405</td>
+      <td>406</td>
+      <td>405</td>
+      <td>406</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>407</td>
+      <td>430</td>
+      <td>407</td>
+      <td>430</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>431</td>
+      <td>451</td>
+      <td>431</td>
+      <td>451</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>452</td>
+      <td>470</td>
+      <td>452</td>
+      <td>470</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>471</td>
+      <td>487</td>
+      <td>471</td>
+      <td>487</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>488</td>
+      <td>522</td>
+      <td>488</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##nature22064
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5llm">5LLM</a> — Chain A (8 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion (hanging drop) |
-| Protein sample | Purified EAAT1_cryst in 50 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.4, 200 mM NaCl, 1 mM L-Asp, 0.5 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep/), 0.0632% DDS, 0.01264% CHS, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) |
-| Reservoir | Not specified in raw paper |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Crystals grown in presence of 0.5 mM UCPH101; space group P6_3 |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLLAKKKVQNI</span><span class="topo-outside">TKEDVKSFLRRNALL</span><span class="topo-membrane">LLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLGFLLR</span><span class="topo-inside">PYPLSPRE</span><span class="topo-membrane">VKYFAFPGELLMRMLKMLILPLIV</span><span class="topo-outside">SSLITGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIILVLII</span><span class="topo-inside">HP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-inside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-inside">TT</span><span class="topo-unknown">YEERTITGTRVKV</span><span class="topo-inside">PVGQ</span><span class="topo-membrane">EVEGMNILGLVVFSMVF</span><span class="topo-outside">GFALGKM</span></span>
+<span class="topo-line"><span class="topo-outside">GEQGQLLVDFFNSLNEATMKLVAII</span><span class="topo-membrane">MWYAPLGILFLIAGKIV</span><span class="topo-inside">E</span><span class="topo-unknown">MEDLEVL</span><span class="topo-inside">GGQLGMY</span><span class="topo-membrane">MVT</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLI</span><span class="topo-outside">YFLITRKNPFVFIAGI</span><span class="topo-unknown">LQALITALGTSSSSATLPIT</span><span class="topo-outside">FKCLEENN</span></span>
+<span class="topo-line"><span class="topo-outside">GVDKRITRFV</span><span class="topo-membrane">LPVGATINMDGTALYEAVA</span><span class="topo-inside">AIFIAQ</span><span class="topo-unknown">VNNYELDFG</span><span class="topo-inside">QI</span><span class="topo-unknown">ITISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAGLVT</span><span class="topo-inside">MVIVLTAVGLPTDDITLIIAV</span><span class="topo-membrane">DWLLDRFRTMVNVLGDALG</span><span class="topo-outside">AGIVEHLSRK</span></span>
+<span class="topo-line"><span class="topo-outside">ELEKQDA</span><span class="topo-unknown">ELGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>36</td>
+      <td>1</td>
+      <td>36</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>51</td>
+      <td>37</td>
+      <td>51</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>69</td>
+      <td>52</td>
+      <td>69</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>77</td>
+      <td>70</td>
+      <td>77</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>101</td>
+      <td>78</td>
+      <td>101</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>102</td>
+      <td>120</td>
+      <td>102</td>
+      <td>120</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>145</td>
+      <td>121</td>
+      <td>145</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td>147</td>
+      <td>146</td>
+      <td>147</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>199</td>
+      <td>198</td>
+      <td>199</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>212</td>
+      <td>200</td>
+      <td>212</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>213</td>
+      <td>216</td>
+      <td>213</td>
+      <td>216</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>217</td>
+      <td>233</td>
+      <td>217</td>
+      <td>233</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>234</td>
+      <td>265</td>
+      <td>234</td>
+      <td>265</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>266</td>
+      <td>282</td>
+      <td>266</td>
+      <td>282</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>283</td>
+      <td>283</td>
+      <td>283</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>284</td>
+      <td>290</td>
+      <td>284</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>297</td>
+      <td>291</td>
+      <td>297</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>298</td>
+      <td>316</td>
+      <td>298</td>
+      <td>316</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>317</td>
+      <td>332</td>
+      <td>317</td>
+      <td>332</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>333</td>
+      <td>352</td>
+      <td>333</td>
+      <td>352</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>353</td>
+      <td>370</td>
+      <td>353</td>
+      <td>370</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>371</td>
+      <td>389</td>
+      <td>371</td>
+      <td>389</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>390</td>
+      <td>395</td>
+      <td>390</td>
+      <td>395</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>396</td>
+      <td>404</td>
+      <td>396</td>
+      <td>404</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>405</td>
+      <td>406</td>
+      <td>405</td>
+      <td>406</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>407</td>
+      <td>430</td>
+      <td>407</td>
+      <td>430</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>431</td>
+      <td>451</td>
+      <td>431</td>
+      <td>451</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>452</td>
+      <td>470</td>
+      <td>452</td>
+      <td>470</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>471</td>
+      <td>487</td>
+      <td>471</td>
+      <td>487</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>488</td>
+      <td>522</td>
+      <td>488</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5llm">5LLM</a> — Chain A (8 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLLAKKKVQNI</span><span class="topo-outside">TKEDVKSFLRRNALL</span><span class="topo-membrane">LLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLGFLLR</span><span class="topo-inside">PYPLSPRE</span><span class="topo-membrane">VKYFAFPGELLMRMLKMLILPLIV</span><span class="topo-outside">SSLITGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIILVLII</span><span class="topo-inside">HP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-inside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-inside">TT</span><span class="topo-unknown">YEERTITGTRVKV</span><span class="topo-inside">PVGQ</span><span class="topo-membrane">EVEGMNILGLVVFSMVF</span><span class="topo-outside">GFALGKM</span></span>
+<span class="topo-line"><span class="topo-outside">GEQGQLLVDFFNSLNEATMKLVAII</span><span class="topo-membrane">MWYAPLGILFLIAGKIV</span><span class="topo-inside">E</span><span class="topo-unknown">MEDLEVL</span><span class="topo-inside">GGQLGMY</span><span class="topo-membrane">MVT</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLI</span><span class="topo-outside">YFLITRKNPFVFIAGI</span><span class="topo-unknown">LQALITALGTSSSSATLPIT</span><span class="topo-outside">FKCLEENN</span></span>
+<span class="topo-line"><span class="topo-outside">GVDKRITRFV</span><span class="topo-membrane">LPVGATINMDGTALYEAVA</span><span class="topo-inside">AIFIAQ</span><span class="topo-unknown">VNNYELDFG</span><span class="topo-inside">QI</span><span class="topo-unknown">ITISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAGLVT</span><span class="topo-inside">MVIVLTAVGLPTDDITLIIAV</span><span class="topo-membrane">DWLLDRFRTMVNVLGDALG</span><span class="topo-outside">AGIVEHLSRK</span></span>
+<span class="topo-line"><span class="topo-outside">ELEKQDA</span><span class="topo-unknown">ELGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>36</td>
+      <td>1</td>
+      <td>36</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>51</td>
+      <td>37</td>
+      <td>51</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>69</td>
+      <td>52</td>
+      <td>69</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>77</td>
+      <td>70</td>
+      <td>77</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>101</td>
+      <td>78</td>
+      <td>101</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>102</td>
+      <td>120</td>
+      <td>102</td>
+      <td>120</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>145</td>
+      <td>121</td>
+      <td>145</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td>147</td>
+      <td>146</td>
+      <td>147</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>199</td>
+      <td>198</td>
+      <td>199</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>212</td>
+      <td>200</td>
+      <td>212</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>213</td>
+      <td>216</td>
+      <td>213</td>
+      <td>216</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>217</td>
+      <td>233</td>
+      <td>217</td>
+      <td>233</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>234</td>
+      <td>265</td>
+      <td>234</td>
+      <td>265</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>266</td>
+      <td>282</td>
+      <td>266</td>
+      <td>282</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>283</td>
+      <td>283</td>
+      <td>283</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>284</td>
+      <td>290</td>
+      <td>284</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>297</td>
+      <td>291</td>
+      <td>297</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>298</td>
+      <td>316</td>
+      <td>298</td>
+      <td>316</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>317</td>
+      <td>332</td>
+      <td>317</td>
+      <td>332</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>333</td>
+      <td>352</td>
+      <td>333</td>
+      <td>352</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>353</td>
+      <td>370</td>
+      <td>353</td>
+      <td>370</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>371</td>
+      <td>389</td>
+      <td>371</td>
+      <td>389</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>390</td>
+      <td>395</td>
+      <td>390</td>
+      <td>395</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>396</td>
+      <td>404</td>
+      <td>396</td>
+      <td>404</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>405</td>
+      <td>406</td>
+      <td>405</td>
+      <td>406</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>407</td>
+      <td>430</td>
+      <td>407</td>
+      <td>430</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>431</td>
+      <td>451</td>
+      <td>431</td>
+      <td>451</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>452</td>
+      <td>470</td>
+      <td>452</td>
+      <td>470</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>471</td>
+      <td>487</td>
+      <td>471</td>
+      <td>487</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>488</td>
+      <td>522</td>
+      <td>488</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5llm">5LLM</a> — Chain A (8 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLLAKKKVQNI</span><span class="topo-outside">TKEDVKSFLRRNALL</span><span class="topo-membrane">LLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLGFLLR</span><span class="topo-inside">PYPLSPRE</span><span class="topo-membrane">VKYFAFPGELLMRMLKMLILPLIV</span><span class="topo-outside">SSLITGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIILVLII</span><span class="topo-inside">HP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-inside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-inside">TT</span><span class="topo-unknown">YEERTITGTRVKV</span><span class="topo-inside">PVGQ</span><span class="topo-membrane">EVEGMNILGLVVFSMVF</span><span class="topo-outside">GFALGKM</span></span>
+<span class="topo-line"><span class="topo-outside">GEQGQLLVDFFNSLNEATMKLVAII</span><span class="topo-membrane">MWYAPLGILFLIAGKIV</span><span class="topo-inside">E</span><span class="topo-unknown">MEDLEVL</span><span class="topo-inside">GGQLGMY</span><span class="topo-membrane">MVT</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLI</span><span class="topo-outside">YFLITRKNPFVFIAGI</span><span class="topo-unknown">LQALITALGTSSSSATLPIT</span><span class="topo-outside">FKCLEENN</span></span>
+<span class="topo-line"><span class="topo-outside">GVDKRITRFV</span><span class="topo-membrane">LPVGATINMDGTALYEAVA</span><span class="topo-inside">AIFIAQ</span><span class="topo-unknown">VNNYELDFG</span><span class="topo-inside">QI</span><span class="topo-unknown">ITISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAGLVT</span><span class="topo-inside">MVIVLTAVGLPTDDITLIIAV</span><span class="topo-membrane">DWLLDRFRTMVNVLGDALG</span><span class="topo-outside">AGIVEHLSRK</span></span>
+<span class="topo-line"><span class="topo-outside">ELEKQDA</span><span class="topo-unknown">ELGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>36</td>
+      <td>1</td>
+      <td>36</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>51</td>
+      <td>37</td>
+      <td>51</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>69</td>
+      <td>52</td>
+      <td>69</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>77</td>
+      <td>70</td>
+      <td>77</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>101</td>
+      <td>78</td>
+      <td>101</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>102</td>
+      <td>120</td>
+      <td>102</td>
+      <td>120</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>145</td>
+      <td>121</td>
+      <td>145</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td>147</td>
+      <td>146</td>
+      <td>147</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>199</td>
+      <td>198</td>
+      <td>199</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>212</td>
+      <td>200</td>
+      <td>212</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>213</td>
+      <td>216</td>
+      <td>213</td>
+      <td>216</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>217</td>
+      <td>233</td>
+      <td>217</td>
+      <td>233</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>234</td>
+      <td>265</td>
+      <td>234</td>
+      <td>265</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>266</td>
+      <td>282</td>
+      <td>266</td>
+      <td>282</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>283</td>
+      <td>283</td>
+      <td>283</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>284</td>
+      <td>290</td>
+      <td>284</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>297</td>
+      <td>291</td>
+      <td>297</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>298</td>
+      <td>316</td>
+      <td>298</td>
+      <td>316</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>317</td>
+      <td>332</td>
+      <td>317</td>
+      <td>332</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>333</td>
+      <td>352</td>
+      <td>333</td>
+      <td>352</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>353</td>
+      <td>370</td>
+      <td>353</td>
+      <td>370</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>371</td>
+      <td>389</td>
+      <td>371</td>
+      <td>389</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>390</td>
+      <td>395</td>
+      <td>390</td>
+      <td>395</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>396</td>
+      <td>404</td>
+      <td>396</td>
+      <td>404</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>405</td>
+      <td>406</td>
+      <td>405</td>
+      <td>406</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>407</td>
+      <td>430</td>
+      <td>407</td>
+      <td>430</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>431</td>
+      <td>451</td>
+      <td>431</td>
+      <td>451</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>452</td>
+      <td>470</td>
+      <td>452</td>
+      <td>470</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>471</td>
+      <td>487</td>
+      <td>471</td>
+      <td>487</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>488</td>
+      <td>522</td>
+      <td>488</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
+### doi/10.15252##embj.2021108341
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a></td>
+      <td>3.25</td>
+      <td>P6_3</td>
+      <td>EAAT1_CRYST Na+/L-asp and UCPH101 bound</td>
+      <td>Na+, <a href="/xray-mp-wiki/reagents/substrates/l-aspartate/">L Aspartate</a>, UCPH101</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a></td>
+      <td>3.60</td>
+      <td>P6_3</td>
+      <td>EAAT1_CRYST-E386Q Na+/L-asp and UCPH101 bound</td>
+      <td>Na+, <a href="/xray-mp-wiki/reagents/substrates/l-aspartate/">L Aspartate</a>, UCPH101</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a></td>
+      <td>3.92</td>
+      <td>P6_3</td>
+      <td>EAAT1_CRYST Rb+/Ba2+ and UCPH101 bound</td>
+      <td>Rb+, Ba2+, UCPH101</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a></td>
+      <td>3.91</td>
+      <td>P6_3</td>
+      <td>EAAT1_CRYST-II Rb+/Ba2+ and UCPH101 bound</td>
+      <td>Rb+, Ba2+, UCPH101</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a></td>
+      <td>3.70</td>
+      <td>P6_3</td>
+      <td>EAAT1_CRYST-II Ba2+ and UCPH101 bound</td>
+      <td>Ba2+, UCPH101</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a></td>
+      <td>3.99</td>
+      <td></td>
+      <td>Wild-type human EAAT1 (full-length)</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: HEK293F cells
+- **Construct**: EAAT1 with N-terminal Strep-tag II, eGFP, PreScission cleavage site; thermostabilizing consensus mutations; N155T/N204T; ASCT2 TM3-4c swap
+- **Notes**: Transient transfection with PEI; cells grown in Excell293 medium; collected 48 h post-transfection
+
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a> — Chain A (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLL</span><span class="topo-inside">AKKKVQNITKEDVKSFLRRN</span><span class="topo-membrane">ALLLLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLG</span><span class="topo-outside">FLLRPYPLSPREVKYF</span><span class="topo-membrane">AFPGELLMRMLKMLILPLIVSSLI</span><span class="topo-inside">TGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIIL</span><span class="topo-outside">VLIIHP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-outside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-outside">T</span><span class="topo-unknown">TYEERTITGTRVKVPVG</span><span class="topo-outside">QE</span><span class="topo-membrane">VEGMNILGLVVFSMVFG</span><span class="topo-inside">FALGKM</span></span>
+<span class="topo-line"><span class="topo-inside">GEQGQLLVDFFNSLNEA</span><span class="topo-membrane">TMKLVAIIMWYAPLGILFLIAG</span><span class="topo-outside">KIV</span><span class="topo-unknown">EMEDLEVL</span><span class="topo-outside">GGQLGMYMV</span><span class="topo-membrane">T</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLIYFL</span><span class="topo-inside">ITRKNP</span><span class="topo-membrane">FVFIAGILQALITALGTS</span><span class="topo-outside">S</span><span class="topo-membrane">SSATLPITFKCL</span><span class="topo-inside">EENN</span></span>
+<span class="topo-line"><span class="topo-inside">GVDKRIT</span><span class="topo-membrane">RFVLPVGATINMDGTALYEAV</span><span class="topo-outside">AAIFIAQVNNYELDFGQII</span><span class="topo-unknown">TISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAG</span><span class="topo-outside">LVTMVIVLTAVGLPTDDITLIIAVDW</span><span class="topo-membrane">LLDRFRTMVNVLGDALGAGIV</span><span class="topo-inside">EHLSRK</span></span>
+<span class="topo-line"><span class="topo-inside">ELEKQDAE</span><span class="topo-unknown">LGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>28</td>
+      <td>1</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>29</td>
+      <td>48</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>65</td>
+      <td>49</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>81</td>
+      <td>66</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>105</td>
+      <td>82</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>120</td>
+      <td>106</td>
+      <td>120</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>141</td>
+      <td>121</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>147</td>
+      <td>142</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>215</td>
+      <td>199</td>
+      <td>215</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>217</td>
+      <td>216</td>
+      <td>217</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>234</td>
+      <td>218</td>
+      <td>234</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>257</td>
+      <td>235</td>
+      <td>257</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>279</td>
+      <td>258</td>
+      <td>279</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>282</td>
+      <td>280</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>290</td>
+      <td>283</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>299</td>
+      <td>291</td>
+      <td>299</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>319</td>
+      <td>300</td>
+      <td>319</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>325</td>
+      <td>320</td>
+      <td>325</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>326</td>
+      <td>343</td>
+      <td>326</td>
+      <td>343</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>356</td>
+      <td>345</td>
+      <td>356</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>367</td>
+      <td>357</td>
+      <td>367</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>388</td>
+      <td>368</td>
+      <td>388</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>407</td>
+      <td>389</td>
+      <td>407</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>427</td>
+      <td>408</td>
+      <td>427</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>453</td>
+      <td>428</td>
+      <td>453</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>454</td>
+      <td>474</td>
+      <td>454</td>
+      <td>474</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>475</td>
+      <td>488</td>
+      <td>475</td>
+      <td>488</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>522</td>
+      <td>489</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a> — Chain B (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLL</span><span class="topo-inside">AKKKVQNITKEDVKSFLRRN</span><span class="topo-membrane">ALLLLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLG</span><span class="topo-outside">FLLRPYPLSPREVKYF</span><span class="topo-membrane">AFPGELLMRMLKMLILPLIVSSLI</span><span class="topo-inside">TGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIIL</span><span class="topo-outside">VLIIHP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-outside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-outside">T</span><span class="topo-unknown">TYEERTITGTRVKVPVG</span><span class="topo-outside">QE</span><span class="topo-membrane">VEGMNILGLVVFSMVFG</span><span class="topo-inside">FALGKM</span></span>
+<span class="topo-line"><span class="topo-inside">GEQGQLLVDFFNSLNEA</span><span class="topo-membrane">TMKLVAIIMWYAPLGILFLIAG</span><span class="topo-outside">KIV</span><span class="topo-unknown">EMEDLEVL</span><span class="topo-outside">GGQLGMYMV</span><span class="topo-membrane">T</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLIYFL</span><span class="topo-inside">ITRKNP</span><span class="topo-membrane">FVFIAGILQALITALGTS</span><span class="topo-outside">S</span><span class="topo-membrane">SSATLPITFKCL</span><span class="topo-inside">EENN</span></span>
+<span class="topo-line"><span class="topo-inside">GVDKRIT</span><span class="topo-membrane">RFVLPVGATINMDGTALYEAV</span><span class="topo-outside">AAIFIAQVNNYELDFGQII</span><span class="topo-unknown">TISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAG</span><span class="topo-outside">LVTMVIVLTAVGLPTDDITLIIAVDW</span><span class="topo-membrane">LLDRFRTMVNVLGDALGAGIV</span><span class="topo-inside">EHLSRK</span></span>
+<span class="topo-line"><span class="topo-inside">ELEKQDAE</span><span class="topo-unknown">LGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>28</td>
+      <td>1</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>29</td>
+      <td>48</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>65</td>
+      <td>49</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>81</td>
+      <td>66</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>105</td>
+      <td>82</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>120</td>
+      <td>106</td>
+      <td>120</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>141</td>
+      <td>121</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>147</td>
+      <td>142</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>215</td>
+      <td>199</td>
+      <td>215</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>217</td>
+      <td>216</td>
+      <td>217</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>234</td>
+      <td>218</td>
+      <td>234</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>257</td>
+      <td>235</td>
+      <td>257</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>279</td>
+      <td>258</td>
+      <td>279</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>282</td>
+      <td>280</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>290</td>
+      <td>283</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>299</td>
+      <td>291</td>
+      <td>299</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>319</td>
+      <td>300</td>
+      <td>319</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>325</td>
+      <td>320</td>
+      <td>325</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>326</td>
+      <td>343</td>
+      <td>326</td>
+      <td>343</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>356</td>
+      <td>345</td>
+      <td>356</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>367</td>
+      <td>357</td>
+      <td>367</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>388</td>
+      <td>368</td>
+      <td>388</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>407</td>
+      <td>389</td>
+      <td>407</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>427</td>
+      <td>408</td>
+      <td>427</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>453</td>
+      <td>428</td>
+      <td>453</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>454</td>
+      <td>474</td>
+      <td>454</td>
+      <td>474</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>475</td>
+      <td>488</td>
+      <td>475</td>
+      <td>488</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>522</td>
+      <td>489</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a> — Chain C (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLL</span><span class="topo-inside">AKKKVQNITKEDVKSFLRRN</span><span class="topo-membrane">ALLLLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLG</span><span class="topo-outside">FLLRPYPLSPREVKYF</span><span class="topo-membrane">AFPGELLMRMLKMLILPLIVSSLI</span><span class="topo-inside">TGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIIL</span><span class="topo-outside">VLIIHP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-outside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-outside">T</span><span class="topo-unknown">TYEERTITGTRVKVPVG</span><span class="topo-outside">QE</span><span class="topo-membrane">VEGMNILGLVVFSMVFG</span><span class="topo-inside">FALGKM</span></span>
+<span class="topo-line"><span class="topo-inside">GEQGQLLVDFFNSLNEA</span><span class="topo-membrane">TMKLVAIIMWYAPLGILFLIAG</span><span class="topo-outside">KIV</span><span class="topo-unknown">EMEDLEVL</span><span class="topo-outside">GGQLGMYMV</span><span class="topo-membrane">T</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLIYFL</span><span class="topo-inside">ITRKNP</span><span class="topo-membrane">FVFIAGILQALITALGTS</span><span class="topo-outside">S</span><span class="topo-membrane">SSATLPITFKCL</span><span class="topo-inside">EENN</span></span>
+<span class="topo-line"><span class="topo-inside">GVDKRIT</span><span class="topo-membrane">RFVLPVGATINMDGTALYEAV</span><span class="topo-outside">AAIFIAQVNNYELDFGQII</span><span class="topo-unknown">TISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAG</span><span class="topo-outside">LVTMVIVLTAVGLPTDDITLIIAVDW</span><span class="topo-membrane">LLDRFRTMVNVLGDALGAGIV</span><span class="topo-inside">EHLSRK</span></span>
+<span class="topo-line"><span class="topo-inside">ELEKQDAE</span><span class="topo-unknown">LGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>28</td>
+      <td>1</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>29</td>
+      <td>48</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>65</td>
+      <td>49</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>81</td>
+      <td>66</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>105</td>
+      <td>82</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>120</td>
+      <td>106</td>
+      <td>120</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>141</td>
+      <td>121</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>147</td>
+      <td>142</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>215</td>
+      <td>199</td>
+      <td>215</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>217</td>
+      <td>216</td>
+      <td>217</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>234</td>
+      <td>218</td>
+      <td>234</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>257</td>
+      <td>235</td>
+      <td>257</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>279</td>
+      <td>258</td>
+      <td>279</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>282</td>
+      <td>280</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>290</td>
+      <td>283</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>299</td>
+      <td>291</td>
+      <td>299</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>319</td>
+      <td>300</td>
+      <td>319</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>325</td>
+      <td>320</td>
+      <td>325</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>326</td>
+      <td>343</td>
+      <td>326</td>
+      <td>343</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>356</td>
+      <td>345</td>
+      <td>356</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>367</td>
+      <td>357</td>
+      <td>367</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>388</td>
+      <td>368</td>
+      <td>388</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>407</td>
+      <td>389</td>
+      <td>407</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>427</td>
+      <td>408</td>
+      <td>427</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>453</td>
+      <td>428</td>
+      <td>453</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>454</td>
+      <td>474</td>
+      <td>454</td>
+      <td>474</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>475</td>
+      <td>488</td>
+      <td>475</td>
+      <td>488</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>522</td>
+      <td>489</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a> — Chain A (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLL</span><span class="topo-inside">AKKKVQNITKEDVKSFLRRN</span><span class="topo-membrane">ALLLLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLG</span><span class="topo-outside">FLLRPYPLSPREVKYF</span><span class="topo-membrane">AFPGELLMRMLKMLILPLIVSSLI</span><span class="topo-inside">TGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIIL</span><span class="topo-outside">VLIIHP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-outside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-outside">T</span><span class="topo-unknown">TYEERTITGTRVKVPVG</span><span class="topo-outside">QE</span><span class="topo-membrane">VEGMNILGLVVFSMVFG</span><span class="topo-inside">FALGKM</span></span>
+<span class="topo-line"><span class="topo-inside">GEQGQLLVDFFNSLNEA</span><span class="topo-membrane">TMKLVAIIMWYAPLGILFLIAG</span><span class="topo-outside">KIV</span><span class="topo-unknown">EMEDLEVL</span><span class="topo-outside">GGQLGMYMV</span><span class="topo-membrane">T</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLIYFL</span><span class="topo-inside">ITRKNP</span><span class="topo-membrane">FVFIAGILQALITALGTS</span><span class="topo-outside">S</span><span class="topo-membrane">SSATLPITFKCL</span><span class="topo-inside">EENN</span></span>
+<span class="topo-line"><span class="topo-inside">GVDKRIT</span><span class="topo-membrane">RFVLPVGATINMDGTALYEAV</span><span class="topo-outside">AAIFIAQVNNYELDFGQII</span><span class="topo-unknown">TISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAG</span><span class="topo-outside">LVTMVIVLTAVGLPTDDITLIIAVDW</span><span class="topo-membrane">LLDRFRTMVNVLGDALGAGIV</span><span class="topo-inside">EHLSRK</span></span>
+<span class="topo-line"><span class="topo-inside">ELEKQDAE</span><span class="topo-unknown">LGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>28</td>
+      <td>1</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>29</td>
+      <td>48</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>65</td>
+      <td>49</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>81</td>
+      <td>66</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>105</td>
+      <td>82</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>120</td>
+      <td>106</td>
+      <td>120</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>141</td>
+      <td>121</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>147</td>
+      <td>142</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>215</td>
+      <td>199</td>
+      <td>215</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>217</td>
+      <td>216</td>
+      <td>217</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>234</td>
+      <td>218</td>
+      <td>234</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>257</td>
+      <td>235</td>
+      <td>257</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>279</td>
+      <td>258</td>
+      <td>279</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>282</td>
+      <td>280</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>290</td>
+      <td>283</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>299</td>
+      <td>291</td>
+      <td>299</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>319</td>
+      <td>300</td>
+      <td>319</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>325</td>
+      <td>320</td>
+      <td>325</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>326</td>
+      <td>343</td>
+      <td>326</td>
+      <td>343</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>356</td>
+      <td>345</td>
+      <td>356</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>367</td>
+      <td>357</td>
+      <td>367</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>388</td>
+      <td>368</td>
+      <td>388</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>407</td>
+      <td>389</td>
+      <td>407</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>427</td>
+      <td>408</td>
+      <td>427</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>453</td>
+      <td>428</td>
+      <td>453</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>454</td>
+      <td>474</td>
+      <td>454</td>
+      <td>474</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>475</td>
+      <td>488</td>
+      <td>475</td>
+      <td>488</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>522</td>
+      <td>489</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a> — Chain B (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLL</span><span class="topo-inside">AKKKVQNITKEDVKSFLRRN</span><span class="topo-membrane">ALLLLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLG</span><span class="topo-outside">FLLRPYPLSPREVKYF</span><span class="topo-membrane">AFPGELLMRMLKMLILPLIVSSLI</span><span class="topo-inside">TGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIIL</span><span class="topo-outside">VLIIHP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-outside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-outside">T</span><span class="topo-unknown">TYEERTITGTRVKVPVG</span><span class="topo-outside">QE</span><span class="topo-membrane">VEGMNILGLVVFSMVFG</span><span class="topo-inside">FALGKM</span></span>
+<span class="topo-line"><span class="topo-inside">GEQGQLLVDFFNSLNEA</span><span class="topo-membrane">TMKLVAIIMWYAPLGILFLIAG</span><span class="topo-outside">KIV</span><span class="topo-unknown">EMEDLEVL</span><span class="topo-outside">GGQLGMYMV</span><span class="topo-membrane">T</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLIYFL</span><span class="topo-inside">ITRKNP</span><span class="topo-membrane">FVFIAGILQALITALGTS</span><span class="topo-outside">S</span><span class="topo-membrane">SSATLPITFKCL</span><span class="topo-inside">EENN</span></span>
+<span class="topo-line"><span class="topo-inside">GVDKRIT</span><span class="topo-membrane">RFVLPVGATINMDGTALYEAV</span><span class="topo-outside">AAIFIAQVNNYELDFGQII</span><span class="topo-unknown">TISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAG</span><span class="topo-outside">LVTMVIVLTAVGLPTDDITLIIAVDW</span><span class="topo-membrane">LLDRFRTMVNVLGDALGAGIV</span><span class="topo-inside">EHLSRK</span></span>
+<span class="topo-line"><span class="topo-inside">ELEKQDAE</span><span class="topo-unknown">LGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>28</td>
+      <td>1</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>29</td>
+      <td>48</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>65</td>
+      <td>49</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>81</td>
+      <td>66</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>105</td>
+      <td>82</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>120</td>
+      <td>106</td>
+      <td>120</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>141</td>
+      <td>121</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>147</td>
+      <td>142</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>215</td>
+      <td>199</td>
+      <td>215</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>217</td>
+      <td>216</td>
+      <td>217</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>234</td>
+      <td>218</td>
+      <td>234</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>257</td>
+      <td>235</td>
+      <td>257</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>279</td>
+      <td>258</td>
+      <td>279</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>282</td>
+      <td>280</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>290</td>
+      <td>283</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>299</td>
+      <td>291</td>
+      <td>299</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>319</td>
+      <td>300</td>
+      <td>319</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>325</td>
+      <td>320</td>
+      <td>325</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>326</td>
+      <td>343</td>
+      <td>326</td>
+      <td>343</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>356</td>
+      <td>345</td>
+      <td>356</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>367</td>
+      <td>357</td>
+      <td>367</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>388</td>
+      <td>368</td>
+      <td>388</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>407</td>
+      <td>389</td>
+      <td>407</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>427</td>
+      <td>408</td>
+      <td>427</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>453</td>
+      <td>428</td>
+      <td>453</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>454</td>
+      <td>474</td>
+      <td>454</td>
+      <td>474</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>475</td>
+      <td>488</td>
+      <td>475</td>
+      <td>488</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>522</td>
+      <td>489</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a> — Chain C (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLL</span><span class="topo-inside">AKKKVQNITKEDVKSFLRRN</span><span class="topo-membrane">ALLLLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLG</span><span class="topo-outside">FLLRPYPLSPREVKYF</span><span class="topo-membrane">AFPGELLMRMLKMLILPLIVSSLI</span><span class="topo-inside">TGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIIL</span><span class="topo-outside">VLIIHP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-outside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-outside">T</span><span class="topo-unknown">TYEERTITGTRVKVPVG</span><span class="topo-outside">QE</span><span class="topo-membrane">VEGMNILGLVVFSMVFG</span><span class="topo-inside">FALGKM</span></span>
+<span class="topo-line"><span class="topo-inside">GEQGQLLVDFFNSLNEA</span><span class="topo-membrane">TMKLVAIIMWYAPLGILFLIAG</span><span class="topo-outside">KIV</span><span class="topo-unknown">EMEDLEVL</span><span class="topo-outside">GGQLGMYMV</span><span class="topo-membrane">T</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLIYFL</span><span class="topo-inside">ITRKNP</span><span class="topo-membrane">FVFIAGILQALITALGTS</span><span class="topo-outside">S</span><span class="topo-membrane">SSATLPITFKCL</span><span class="topo-inside">EENN</span></span>
+<span class="topo-line"><span class="topo-inside">GVDKRIT</span><span class="topo-membrane">RFVLPVGATINMDGTALYEAV</span><span class="topo-outside">AAIFIAQVNNYELDFGQII</span><span class="topo-unknown">TISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAG</span><span class="topo-outside">LVTMVIVLTAVGLPTDDITLIIAVDW</span><span class="topo-membrane">LLDRFRTMVNVLGDALGAGIV</span><span class="topo-inside">EHLSRK</span></span>
+<span class="topo-line"><span class="topo-inside">ELEKQDAE</span><span class="topo-unknown">LGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>28</td>
+      <td>1</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>29</td>
+      <td>48</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>65</td>
+      <td>49</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>81</td>
+      <td>66</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>105</td>
+      <td>82</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>120</td>
+      <td>106</td>
+      <td>120</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>141</td>
+      <td>121</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>147</td>
+      <td>142</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>215</td>
+      <td>199</td>
+      <td>215</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>217</td>
+      <td>216</td>
+      <td>217</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>234</td>
+      <td>218</td>
+      <td>234</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>257</td>
+      <td>235</td>
+      <td>257</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>279</td>
+      <td>258</td>
+      <td>279</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>282</td>
+      <td>280</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>290</td>
+      <td>283</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>299</td>
+      <td>291</td>
+      <td>299</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>319</td>
+      <td>300</td>
+      <td>319</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>325</td>
+      <td>320</td>
+      <td>325</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>326</td>
+      <td>343</td>
+      <td>326</td>
+      <td>343</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>356</td>
+      <td>345</td>
+      <td>356</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>367</td>
+      <td>357</td>
+      <td>367</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>388</td>
+      <td>368</td>
+      <td>388</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>407</td>
+      <td>389</td>
+      <td>407</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>427</td>
+      <td>408</td>
+      <td>427</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>453</td>
+      <td>428</td>
+      <td>453</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>454</td>
+      <td>474</td>
+      <td>454</td>
+      <td>474</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>475</td>
+      <td>488</td>
+      <td>475</td>
+      <td>488</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>522</td>
+      <td>489</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a> — Chain A (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLL</span><span class="topo-inside">AKKKVQNITKEDVKSFLRRN</span><span class="topo-membrane">ALLLLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLG</span><span class="topo-outside">FLLRPYPLSPREVKYF</span><span class="topo-membrane">AFPGELLMRMLKMLILPLIVSSLI</span><span class="topo-inside">TGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIIL</span><span class="topo-outside">VLIIHP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-outside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-outside">T</span><span class="topo-unknown">TYEERTITGTRVKVPVG</span><span class="topo-outside">QE</span><span class="topo-membrane">VEGMNILGLVVFSMVFG</span><span class="topo-inside">FALGKM</span></span>
+<span class="topo-line"><span class="topo-inside">GEQGQLLVDFFNSLNEA</span><span class="topo-membrane">TMKLVAIIMWYAPLGILFLIAG</span><span class="topo-outside">KIV</span><span class="topo-unknown">EMEDLEVL</span><span class="topo-outside">GGQLGMYMV</span><span class="topo-membrane">T</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLIYFL</span><span class="topo-inside">ITRKNP</span><span class="topo-membrane">FVFIAGILQALITALGTS</span><span class="topo-outside">S</span><span class="topo-membrane">SSATLPITFKCL</span><span class="topo-inside">EENN</span></span>
+<span class="topo-line"><span class="topo-inside">GVDKRIT</span><span class="topo-membrane">RFVLPVGATINMDGTALYEAV</span><span class="topo-outside">AAIFIAQVNNYELDFGQII</span><span class="topo-unknown">TISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAG</span><span class="topo-outside">LVTMVIVLTAVGLPTDDITLIIAVDW</span><span class="topo-membrane">LLDRFRTMVNVLGDALGAGIV</span><span class="topo-inside">EHLSRK</span></span>
+<span class="topo-line"><span class="topo-inside">ELEKQDAE</span><span class="topo-unknown">LGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>28</td>
+      <td>1</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>29</td>
+      <td>48</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>65</td>
+      <td>49</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>81</td>
+      <td>66</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>105</td>
+      <td>82</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>120</td>
+      <td>106</td>
+      <td>120</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>141</td>
+      <td>121</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>147</td>
+      <td>142</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>215</td>
+      <td>199</td>
+      <td>215</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>217</td>
+      <td>216</td>
+      <td>217</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>234</td>
+      <td>218</td>
+      <td>234</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>257</td>
+      <td>235</td>
+      <td>257</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>279</td>
+      <td>258</td>
+      <td>279</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>282</td>
+      <td>280</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>290</td>
+      <td>283</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>299</td>
+      <td>291</td>
+      <td>299</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>319</td>
+      <td>300</td>
+      <td>319</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>325</td>
+      <td>320</td>
+      <td>325</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>326</td>
+      <td>343</td>
+      <td>326</td>
+      <td>343</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>356</td>
+      <td>345</td>
+      <td>356</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>367</td>
+      <td>357</td>
+      <td>367</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>388</td>
+      <td>368</td>
+      <td>388</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>407</td>
+      <td>389</td>
+      <td>407</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>427</td>
+      <td>408</td>
+      <td>427</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>453</td>
+      <td>428</td>
+      <td>453</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>454</td>
+      <td>474</td>
+      <td>454</td>
+      <td>474</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>475</td>
+      <td>488</td>
+      <td>475</td>
+      <td>488</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>522</td>
+      <td>489</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a> — Chain B (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLL</span><span class="topo-inside">AKKKVQNITKEDVKSFLRRN</span><span class="topo-membrane">ALLLLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLG</span><span class="topo-outside">FLLRPYPLSPREVKYF</span><span class="topo-membrane">AFPGELLMRMLKMLILPLIVSSLI</span><span class="topo-inside">TGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIIL</span><span class="topo-outside">VLIIHP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-outside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-outside">T</span><span class="topo-unknown">TYEERTITGTRVKVPVG</span><span class="topo-outside">QE</span><span class="topo-membrane">VEGMNILGLVVFSMVFG</span><span class="topo-inside">FALGKM</span></span>
+<span class="topo-line"><span class="topo-inside">GEQGQLLVDFFNSLNEA</span><span class="topo-membrane">TMKLVAIIMWYAPLGILFLIAG</span><span class="topo-outside">KIV</span><span class="topo-unknown">EMEDLEVL</span><span class="topo-outside">GGQLGMYMV</span><span class="topo-membrane">T</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLIYFL</span><span class="topo-inside">ITRKNP</span><span class="topo-membrane">FVFIAGILQALITALGTS</span><span class="topo-outside">S</span><span class="topo-membrane">SSATLPITFKCL</span><span class="topo-inside">EENN</span></span>
+<span class="topo-line"><span class="topo-inside">GVDKRIT</span><span class="topo-membrane">RFVLPVGATINMDGTALYEAV</span><span class="topo-outside">AAIFIAQVNNYELDFGQII</span><span class="topo-unknown">TISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAG</span><span class="topo-outside">LVTMVIVLTAVGLPTDDITLIIAVDW</span><span class="topo-membrane">LLDRFRTMVNVLGDALGAGIV</span><span class="topo-inside">EHLSRK</span></span>
+<span class="topo-line"><span class="topo-inside">ELEKQDAE</span><span class="topo-unknown">LGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>28</td>
+      <td>1</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>29</td>
+      <td>48</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>65</td>
+      <td>49</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>81</td>
+      <td>66</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>105</td>
+      <td>82</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>120</td>
+      <td>106</td>
+      <td>120</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>141</td>
+      <td>121</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>147</td>
+      <td>142</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>215</td>
+      <td>199</td>
+      <td>215</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>217</td>
+      <td>216</td>
+      <td>217</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>234</td>
+      <td>218</td>
+      <td>234</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>257</td>
+      <td>235</td>
+      <td>257</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>279</td>
+      <td>258</td>
+      <td>279</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>282</td>
+      <td>280</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>290</td>
+      <td>283</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>299</td>
+      <td>291</td>
+      <td>299</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>319</td>
+      <td>300</td>
+      <td>319</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>325</td>
+      <td>320</td>
+      <td>325</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>326</td>
+      <td>343</td>
+      <td>326</td>
+      <td>343</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>356</td>
+      <td>345</td>
+      <td>356</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>367</td>
+      <td>357</td>
+      <td>367</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>388</td>
+      <td>368</td>
+      <td>388</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>407</td>
+      <td>389</td>
+      <td>407</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>427</td>
+      <td>408</td>
+      <td>427</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>453</td>
+      <td>428</td>
+      <td>453</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>454</td>
+      <td>474</td>
+      <td>454</td>
+      <td>474</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>475</td>
+      <td>488</td>
+      <td>475</td>
+      <td>488</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>522</td>
+      <td>489</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a> — Chain C (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLL</span><span class="topo-inside">AKKKVQNITKEDVKSFLRRN</span><span class="topo-membrane">ALLLLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLG</span><span class="topo-outside">FLLRPYPLSPREVKYF</span><span class="topo-membrane">AFPGELLMRMLKMLILPLIVSSLI</span><span class="topo-inside">TGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIIL</span><span class="topo-outside">VLIIHP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-outside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-outside">T</span><span class="topo-unknown">TYEERTITGTRVKVPVG</span><span class="topo-outside">QE</span><span class="topo-membrane">VEGMNILGLVVFSMVFG</span><span class="topo-inside">FALGKM</span></span>
+<span class="topo-line"><span class="topo-inside">GEQGQLLVDFFNSLNEA</span><span class="topo-membrane">TMKLVAIIMWYAPLGILFLIAG</span><span class="topo-outside">KIV</span><span class="topo-unknown">EMEDLEVL</span><span class="topo-outside">GGQLGMYMV</span><span class="topo-membrane">T</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLIYFL</span><span class="topo-inside">ITRKNP</span><span class="topo-membrane">FVFIAGILQALITALGTS</span><span class="topo-outside">S</span><span class="topo-membrane">SSATLPITFKCL</span><span class="topo-inside">EENN</span></span>
+<span class="topo-line"><span class="topo-inside">GVDKRIT</span><span class="topo-membrane">RFVLPVGATINMDGTALYEAV</span><span class="topo-outside">AAIFIAQVNNYELDFGQII</span><span class="topo-unknown">TISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAG</span><span class="topo-outside">LVTMVIVLTAVGLPTDDITLIIAVDW</span><span class="topo-membrane">LLDRFRTMVNVLGDALGAGIV</span><span class="topo-inside">EHLSRK</span></span>
+<span class="topo-line"><span class="topo-inside">ELEKQDAE</span><span class="topo-unknown">LGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>28</td>
+      <td>1</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>29</td>
+      <td>48</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>65</td>
+      <td>49</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>81</td>
+      <td>66</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>105</td>
+      <td>82</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>120</td>
+      <td>106</td>
+      <td>120</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>141</td>
+      <td>121</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>147</td>
+      <td>142</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>215</td>
+      <td>199</td>
+      <td>215</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>217</td>
+      <td>216</td>
+      <td>217</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>234</td>
+      <td>218</td>
+      <td>234</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>257</td>
+      <td>235</td>
+      <td>257</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>279</td>
+      <td>258</td>
+      <td>279</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>282</td>
+      <td>280</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>290</td>
+      <td>283</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>299</td>
+      <td>291</td>
+      <td>299</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>319</td>
+      <td>300</td>
+      <td>319</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>325</td>
+      <td>320</td>
+      <td>325</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>326</td>
+      <td>343</td>
+      <td>326</td>
+      <td>343</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>356</td>
+      <td>345</td>
+      <td>356</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>367</td>
+      <td>357</td>
+      <td>367</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>388</td>
+      <td>368</td>
+      <td>388</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>407</td>
+      <td>389</td>
+      <td>407</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>427</td>
+      <td>408</td>
+      <td>427</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>453</td>
+      <td>428</td>
+      <td>453</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>454</td>
+      <td>474</td>
+      <td>454</td>
+      <td>474</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>475</td>
+      <td>488</td>
+      <td>475</td>
+      <td>488</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>522</td>
+      <td>489</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a> — Chain A (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLL</span><span class="topo-inside">AKKKVQNITKEDVKSFLRRN</span><span class="topo-membrane">ALLLLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLG</span><span class="topo-outside">FLLRPYPLSPREVKYF</span><span class="topo-membrane">AFPGELLMRMLKMLILPLIVSSLI</span><span class="topo-inside">TGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIIL</span><span class="topo-outside">VLIIHP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-outside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-outside">T</span><span class="topo-unknown">TYEERTITGTRVKVPVG</span><span class="topo-outside">QE</span><span class="topo-membrane">VEGMNILGLVVFSMVFG</span><span class="topo-inside">FALGKM</span></span>
+<span class="topo-line"><span class="topo-inside">GEQGQLLVDFFNSLNEA</span><span class="topo-membrane">TMKLVAIIMWYAPLGILFLIAG</span><span class="topo-outside">KIV</span><span class="topo-unknown">EMEDLEVL</span><span class="topo-outside">GGQLGMYMV</span><span class="topo-membrane">T</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLIYFL</span><span class="topo-inside">ITRKNP</span><span class="topo-membrane">FVFIAGILQALITALGTS</span><span class="topo-outside">S</span><span class="topo-membrane">SSATLPITFKCL</span><span class="topo-inside">EENN</span></span>
+<span class="topo-line"><span class="topo-inside">GVDKRIT</span><span class="topo-membrane">RFVLPVGATINMDGTALYEAV</span><span class="topo-outside">AAIFIAQVNNYELDFGQII</span><span class="topo-unknown">TISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAG</span><span class="topo-outside">LVTMVIVLTAVGLPTDDITLIIAVDW</span><span class="topo-membrane">LLDRFRTMVNVLGDALGAGIV</span><span class="topo-inside">EHLSRK</span></span>
+<span class="topo-line"><span class="topo-inside">ELEKQDAE</span><span class="topo-unknown">LGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>28</td>
+      <td>1</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>29</td>
+      <td>48</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>65</td>
+      <td>49</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>81</td>
+      <td>66</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>105</td>
+      <td>82</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>120</td>
+      <td>106</td>
+      <td>120</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>141</td>
+      <td>121</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>147</td>
+      <td>142</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>215</td>
+      <td>199</td>
+      <td>215</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>217</td>
+      <td>216</td>
+      <td>217</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>234</td>
+      <td>218</td>
+      <td>234</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>257</td>
+      <td>235</td>
+      <td>257</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>279</td>
+      <td>258</td>
+      <td>279</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>282</td>
+      <td>280</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>290</td>
+      <td>283</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>299</td>
+      <td>291</td>
+      <td>299</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>319</td>
+      <td>300</td>
+      <td>319</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>325</td>
+      <td>320</td>
+      <td>325</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>326</td>
+      <td>343</td>
+      <td>326</td>
+      <td>343</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>356</td>
+      <td>345</td>
+      <td>356</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>367</td>
+      <td>357</td>
+      <td>367</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>388</td>
+      <td>368</td>
+      <td>388</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>407</td>
+      <td>389</td>
+      <td>407</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>427</td>
+      <td>408</td>
+      <td>427</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>453</td>
+      <td>428</td>
+      <td>453</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>454</td>
+      <td>474</td>
+      <td>454</td>
+      <td>474</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>475</td>
+      <td>488</td>
+      <td>475</td>
+      <td>488</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>522</td>
+      <td>489</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a> — Chain B (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLL</span><span class="topo-inside">AKKKVQNITKEDVKSFLRRN</span><span class="topo-membrane">ALLLLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLG</span><span class="topo-outside">FLLRPYPLSPREVKYF</span><span class="topo-membrane">AFPGELLMRMLKMLILPLIVSSLI</span><span class="topo-inside">TGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIIL</span><span class="topo-outside">VLIIHP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-outside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-outside">T</span><span class="topo-unknown">TYEERTITGTRVKVPVG</span><span class="topo-outside">QE</span><span class="topo-membrane">VEGMNILGLVVFSMVFG</span><span class="topo-inside">FALGKM</span></span>
+<span class="topo-line"><span class="topo-inside">GEQGQLLVDFFNSLNEA</span><span class="topo-membrane">TMKLVAIIMWYAPLGILFLIAG</span><span class="topo-outside">KIV</span><span class="topo-unknown">EMEDLEVL</span><span class="topo-outside">GGQLGMYMV</span><span class="topo-membrane">T</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLIYFL</span><span class="topo-inside">ITRKNP</span><span class="topo-membrane">FVFIAGILQALITALGTS</span><span class="topo-outside">S</span><span class="topo-membrane">SSATLPITFKCL</span><span class="topo-inside">EENN</span></span>
+<span class="topo-line"><span class="topo-inside">GVDKRIT</span><span class="topo-membrane">RFVLPVGATINMDGTALYEAV</span><span class="topo-outside">AAIFIAQVNNYELDFGQII</span><span class="topo-unknown">TISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAG</span><span class="topo-outside">LVTMVIVLTAVGLPTDDITLIIAVDW</span><span class="topo-membrane">LLDRFRTMVNVLGDALGAGIV</span><span class="topo-inside">EHLSRK</span></span>
+<span class="topo-line"><span class="topo-inside">ELEKQDAE</span><span class="topo-unknown">LGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>28</td>
+      <td>1</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>29</td>
+      <td>48</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>65</td>
+      <td>49</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>81</td>
+      <td>66</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>105</td>
+      <td>82</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>120</td>
+      <td>106</td>
+      <td>120</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>141</td>
+      <td>121</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>147</td>
+      <td>142</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>215</td>
+      <td>199</td>
+      <td>215</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>217</td>
+      <td>216</td>
+      <td>217</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>234</td>
+      <td>218</td>
+      <td>234</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>257</td>
+      <td>235</td>
+      <td>257</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>279</td>
+      <td>258</td>
+      <td>279</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>282</td>
+      <td>280</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>290</td>
+      <td>283</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>299</td>
+      <td>291</td>
+      <td>299</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>319</td>
+      <td>300</td>
+      <td>319</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>325</td>
+      <td>320</td>
+      <td>325</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>326</td>
+      <td>343</td>
+      <td>326</td>
+      <td>343</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>356</td>
+      <td>345</td>
+      <td>356</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>367</td>
+      <td>357</td>
+      <td>367</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>388</td>
+      <td>368</td>
+      <td>388</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>407</td>
+      <td>389</td>
+      <td>407</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>427</td>
+      <td>408</td>
+      <td>427</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>453</td>
+      <td>428</td>
+      <td>453</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>454</td>
+      <td>474</td>
+      <td>454</td>
+      <td>474</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>475</td>
+      <td>488</td>
+      <td>475</td>
+      <td>488</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>522</td>
+      <td>489</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a> — Chain C (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLL</span><span class="topo-inside">AKKKVQNITKEDVKSFLRRN</span><span class="topo-membrane">ALLLLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLG</span><span class="topo-outside">FLLRPYPLSPREVKYF</span><span class="topo-membrane">AFPGELLMRMLKMLILPLIVSSLI</span><span class="topo-inside">TGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIIL</span><span class="topo-outside">VLIIHP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-outside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-outside">T</span><span class="topo-unknown">TYEERTITGTRVKVPVG</span><span class="topo-outside">QE</span><span class="topo-membrane">VEGMNILGLVVFSMVFG</span><span class="topo-inside">FALGKM</span></span>
+<span class="topo-line"><span class="topo-inside">GEQGQLLVDFFNSLNEA</span><span class="topo-membrane">TMKLVAIIMWYAPLGILFLIAG</span><span class="topo-outside">KIV</span><span class="topo-unknown">EMEDLEVL</span><span class="topo-outside">GGQLGMYMV</span><span class="topo-membrane">T</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLIYFL</span><span class="topo-inside">ITRKNP</span><span class="topo-membrane">FVFIAGILQALITALGTS</span><span class="topo-outside">S</span><span class="topo-membrane">SSATLPITFKCL</span><span class="topo-inside">EENN</span></span>
+<span class="topo-line"><span class="topo-inside">GVDKRIT</span><span class="topo-membrane">RFVLPVGATINMDGTALYEAV</span><span class="topo-outside">AAIFIAQVNNYELDFGQII</span><span class="topo-unknown">TISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAG</span><span class="topo-outside">LVTMVIVLTAVGLPTDDITLIIAVDW</span><span class="topo-membrane">LLDRFRTMVNVLGDALGAGIV</span><span class="topo-inside">EHLSRK</span></span>
+<span class="topo-line"><span class="topo-inside">ELEKQDAE</span><span class="topo-unknown">LGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>28</td>
+      <td>1</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>29</td>
+      <td>48</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>65</td>
+      <td>49</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>81</td>
+      <td>66</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>105</td>
+      <td>82</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>120</td>
+      <td>106</td>
+      <td>120</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>141</td>
+      <td>121</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>147</td>
+      <td>142</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>215</td>
+      <td>199</td>
+      <td>215</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>217</td>
+      <td>216</td>
+      <td>217</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>234</td>
+      <td>218</td>
+      <td>234</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>257</td>
+      <td>235</td>
+      <td>257</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>279</td>
+      <td>258</td>
+      <td>279</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>282</td>
+      <td>280</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>290</td>
+      <td>283</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>299</td>
+      <td>291</td>
+      <td>299</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>319</td>
+      <td>300</td>
+      <td>319</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>325</td>
+      <td>320</td>
+      <td>325</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>326</td>
+      <td>343</td>
+      <td>326</td>
+      <td>343</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>356</td>
+      <td>345</td>
+      <td>356</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>367</td>
+      <td>357</td>
+      <td>367</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>388</td>
+      <td>368</td>
+      <td>388</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>407</td>
+      <td>389</td>
+      <td>407</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>427</td>
+      <td>408</td>
+      <td>427</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>453</td>
+      <td>428</td>
+      <td>453</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>454</td>
+      <td>474</td>
+      <td>454</td>
+      <td>474</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>475</td>
+      <td>488</td>
+      <td>475</td>
+      <td>488</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>522</td>
+      <td>489</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a> — Chain A (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLL</span><span class="topo-inside">AKKKVQNITKEDVKSFLRRN</span><span class="topo-membrane">ALLLLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLG</span><span class="topo-outside">FLLRPYPLSPREVKYF</span><span class="topo-membrane">AFPGELLMRMLKMLILPLIVSSLI</span><span class="topo-inside">TGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIIL</span><span class="topo-outside">VLIIHP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-outside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-outside">T</span><span class="topo-unknown">TYEERTITGTRVKVPVG</span><span class="topo-outside">QE</span><span class="topo-membrane">VEGMNILGLVVFSMVFG</span><span class="topo-inside">FALGKM</span></span>
+<span class="topo-line"><span class="topo-inside">GEQGQLLVDFFNSLNEA</span><span class="topo-membrane">TMKLVAIIMWYAPLGILFLIAG</span><span class="topo-outside">KIV</span><span class="topo-unknown">EMEDLEVL</span><span class="topo-outside">GGQLGMYMV</span><span class="topo-membrane">T</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLIYFL</span><span class="topo-inside">ITRKNP</span><span class="topo-membrane">FVFIAGILQALITALGTS</span><span class="topo-outside">S</span><span class="topo-membrane">SSATLPITFKCL</span><span class="topo-inside">EENN</span></span>
+<span class="topo-line"><span class="topo-inside">GVDKRIT</span><span class="topo-membrane">RFVLPVGATINMDGTALYEAV</span><span class="topo-outside">AAIFIAQVNNYELDFGQII</span><span class="topo-unknown">TISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAG</span><span class="topo-outside">LVTMVIVLTAVGLPTDDITLIIAVDW</span><span class="topo-membrane">LLDRFRTMVNVLGDALGAGIV</span><span class="topo-inside">EHLSRK</span></span>
+<span class="topo-line"><span class="topo-inside">ELEKQDAE</span><span class="topo-unknown">LGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>28</td>
+      <td>1</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>29</td>
+      <td>48</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>65</td>
+      <td>49</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>81</td>
+      <td>66</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>105</td>
+      <td>82</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>120</td>
+      <td>106</td>
+      <td>120</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>141</td>
+      <td>121</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>147</td>
+      <td>142</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>215</td>
+      <td>199</td>
+      <td>215</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>217</td>
+      <td>216</td>
+      <td>217</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>234</td>
+      <td>218</td>
+      <td>234</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>257</td>
+      <td>235</td>
+      <td>257</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>279</td>
+      <td>258</td>
+      <td>279</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>282</td>
+      <td>280</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>290</td>
+      <td>283</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>299</td>
+      <td>291</td>
+      <td>299</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>319</td>
+      <td>300</td>
+      <td>319</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>325</td>
+      <td>320</td>
+      <td>325</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>326</td>
+      <td>343</td>
+      <td>326</td>
+      <td>343</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>356</td>
+      <td>345</td>
+      <td>356</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>367</td>
+      <td>357</td>
+      <td>367</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>388</td>
+      <td>368</td>
+      <td>388</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>407</td>
+      <td>389</td>
+      <td>407</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>427</td>
+      <td>408</td>
+      <td>427</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>453</td>
+      <td>428</td>
+      <td>453</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>454</td>
+      <td>474</td>
+      <td>454</td>
+      <td>474</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>475</td>
+      <td>488</td>
+      <td>475</td>
+      <td>488</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>522</td>
+      <td>489</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a> — Chain B (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLL</span><span class="topo-inside">AKKKVQNITKEDVKSFLRRN</span><span class="topo-membrane">ALLLLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLG</span><span class="topo-outside">FLLRPYPLSPREVKYF</span><span class="topo-membrane">AFPGELLMRMLKMLILPLIVSSLI</span><span class="topo-inside">TGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIIL</span><span class="topo-outside">VLIIHP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-outside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-outside">T</span><span class="topo-unknown">TYEERTITGTRVKVPVG</span><span class="topo-outside">QE</span><span class="topo-membrane">VEGMNILGLVVFSMVFG</span><span class="topo-inside">FALGKM</span></span>
+<span class="topo-line"><span class="topo-inside">GEQGQLLVDFFNSLNEA</span><span class="topo-membrane">TMKLVAIIMWYAPLGILFLIAG</span><span class="topo-outside">KIV</span><span class="topo-unknown">EMEDLEVL</span><span class="topo-outside">GGQLGMYMV</span><span class="topo-membrane">T</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLIYFL</span><span class="topo-inside">ITRKNP</span><span class="topo-membrane">FVFIAGILQALITALGTS</span><span class="topo-outside">S</span><span class="topo-membrane">SSATLPITFKCL</span><span class="topo-inside">EENN</span></span>
+<span class="topo-line"><span class="topo-inside">GVDKRIT</span><span class="topo-membrane">RFVLPVGATINMDGTALYEAV</span><span class="topo-outside">AAIFIAQVNNYELDFGQII</span><span class="topo-unknown">TISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAG</span><span class="topo-outside">LVTMVIVLTAVGLPTDDITLIIAVDW</span><span class="topo-membrane">LLDRFRTMVNVLGDALGAGIV</span><span class="topo-inside">EHLSRK</span></span>
+<span class="topo-line"><span class="topo-inside">ELEKQDAE</span><span class="topo-unknown">LGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>28</td>
+      <td>1</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>29</td>
+      <td>48</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>65</td>
+      <td>49</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>81</td>
+      <td>66</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>105</td>
+      <td>82</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>120</td>
+      <td>106</td>
+      <td>120</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>141</td>
+      <td>121</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>147</td>
+      <td>142</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>215</td>
+      <td>199</td>
+      <td>215</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>217</td>
+      <td>216</td>
+      <td>217</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>234</td>
+      <td>218</td>
+      <td>234</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>257</td>
+      <td>235</td>
+      <td>257</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>279</td>
+      <td>258</td>
+      <td>279</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>282</td>
+      <td>280</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>290</td>
+      <td>283</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>299</td>
+      <td>291</td>
+      <td>299</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>319</td>
+      <td>300</td>
+      <td>319</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>325</td>
+      <td>320</td>
+      <td>325</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>326</td>
+      <td>343</td>
+      <td>326</td>
+      <td>343</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>356</td>
+      <td>345</td>
+      <td>356</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>367</td>
+      <td>357</td>
+      <td>367</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>388</td>
+      <td>368</td>
+      <td>388</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>407</td>
+      <td>389</td>
+      <td>407</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>427</td>
+      <td>408</td>
+      <td>427</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>453</td>
+      <td>428</td>
+      <td>453</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>454</td>
+      <td>474</td>
+      <td>454</td>
+      <td>474</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>475</td>
+      <td>488</td>
+      <td>475</td>
+      <td>488</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>522</td>
+      <td>489</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a> — Chain C (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLL</span><span class="topo-inside">AKKKVQNITKEDVKSFLRRN</span><span class="topo-membrane">ALLLLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLG</span><span class="topo-outside">FLLRPYPLSPREVKYF</span><span class="topo-membrane">AFPGELLMRMLKMLILPLIVSSLI</span><span class="topo-inside">TGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIIL</span><span class="topo-outside">VLIIHP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-outside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-outside">T</span><span class="topo-unknown">TYEERTITGTRVKVPVG</span><span class="topo-outside">QE</span><span class="topo-membrane">VEGMNILGLVVFSMVFG</span><span class="topo-inside">FALGKM</span></span>
+<span class="topo-line"><span class="topo-inside">GEQGQLLVDFFNSLNEA</span><span class="topo-membrane">TMKLVAIIMWYAPLGILFLIAG</span><span class="topo-outside">KIV</span><span class="topo-unknown">EMEDLEVL</span><span class="topo-outside">GGQLGMYMV</span><span class="topo-membrane">T</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLIYFL</span><span class="topo-inside">ITRKNP</span><span class="topo-membrane">FVFIAGILQALITALGTS</span><span class="topo-outside">S</span><span class="topo-membrane">SSATLPITFKCL</span><span class="topo-inside">EENN</span></span>
+<span class="topo-line"><span class="topo-inside">GVDKRIT</span><span class="topo-membrane">RFVLPVGATINMDGTALYEAV</span><span class="topo-outside">AAIFIAQVNNYELDFGQII</span><span class="topo-unknown">TISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAG</span><span class="topo-outside">LVTMVIVLTAVGLPTDDITLIIAVDW</span><span class="topo-membrane">LLDRFRTMVNVLGDALGAGIV</span><span class="topo-inside">EHLSRK</span></span>
+<span class="topo-line"><span class="topo-inside">ELEKQDAE</span><span class="topo-unknown">LGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>28</td>
+      <td>1</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>29</td>
+      <td>48</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>65</td>
+      <td>49</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>81</td>
+      <td>66</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>105</td>
+      <td>82</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>120</td>
+      <td>106</td>
+      <td>120</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>141</td>
+      <td>121</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>147</td>
+      <td>142</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>215</td>
+      <td>199</td>
+      <td>215</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>217</td>
+      <td>216</td>
+      <td>217</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>234</td>
+      <td>218</td>
+      <td>234</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>257</td>
+      <td>235</td>
+      <td>257</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>279</td>
+      <td>258</td>
+      <td>279</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>282</td>
+      <td>280</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>290</td>
+      <td>283</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>299</td>
+      <td>291</td>
+      <td>299</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>319</td>
+      <td>300</td>
+      <td>319</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>325</td>
+      <td>320</td>
+      <td>325</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>326</td>
+      <td>343</td>
+      <td>326</td>
+      <td>343</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>356</td>
+      <td>345</td>
+      <td>356</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>367</td>
+      <td>357</td>
+      <td>367</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>388</td>
+      <td>368</td>
+      <td>388</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>407</td>
+      <td>389</td>
+      <td>407</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>427</td>
+      <td>408</td>
+      <td>427</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>453</td>
+      <td>428</td>
+      <td>453</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>454</td>
+      <td>474</td>
+      <td>454</td>
+      <td>474</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>475</td>
+      <td>488</td>
+      <td>475</td>
+      <td>488</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>522</td>
+      <td>489</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a> — Chain A (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLL</span><span class="topo-inside">AKKKVQNITKEDVKSFLRRN</span><span class="topo-membrane">ALLLLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLG</span><span class="topo-outside">FLLRPYPLSPREVKYF</span><span class="topo-membrane">AFPGELLMRMLKMLILPLIVSSLI</span><span class="topo-inside">TGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIIL</span><span class="topo-outside">VLIIHP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-outside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-outside">T</span><span class="topo-unknown">TYEERTITGTRVKVPVG</span><span class="topo-outside">QE</span><span class="topo-membrane">VEGMNILGLVVFSMVFG</span><span class="topo-inside">FALGKM</span></span>
+<span class="topo-line"><span class="topo-inside">GEQGQLLVDFFNSLNEA</span><span class="topo-membrane">TMKLVAIIMWYAPLGILFLIAG</span><span class="topo-outside">KIV</span><span class="topo-unknown">EMEDLEVL</span><span class="topo-outside">GGQLGMYMV</span><span class="topo-membrane">T</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLIYFL</span><span class="topo-inside">ITRKNP</span><span class="topo-membrane">FVFIAGILQALITALGTS</span><span class="topo-outside">S</span><span class="topo-membrane">SSATLPITFKCL</span><span class="topo-inside">EENN</span></span>
+<span class="topo-line"><span class="topo-inside">GVDKRIT</span><span class="topo-membrane">RFVLPVGATINMDGTALYEAV</span><span class="topo-outside">AAIFIAQVNNYELDFGQII</span><span class="topo-unknown">TISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAG</span><span class="topo-outside">LVTMVIVLTAVGLPTDDITLIIAVDW</span><span class="topo-membrane">LLDRFRTMVNVLGDALGAGIV</span><span class="topo-inside">EHLSRK</span></span>
+<span class="topo-line"><span class="topo-inside">ELEKQDAE</span><span class="topo-unknown">LGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>28</td>
+      <td>1</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>29</td>
+      <td>48</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>65</td>
+      <td>49</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>81</td>
+      <td>66</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>105</td>
+      <td>82</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>120</td>
+      <td>106</td>
+      <td>120</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>141</td>
+      <td>121</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>147</td>
+      <td>142</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>215</td>
+      <td>199</td>
+      <td>215</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>217</td>
+      <td>216</td>
+      <td>217</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>234</td>
+      <td>218</td>
+      <td>234</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>257</td>
+      <td>235</td>
+      <td>257</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>279</td>
+      <td>258</td>
+      <td>279</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>282</td>
+      <td>280</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>290</td>
+      <td>283</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>299</td>
+      <td>291</td>
+      <td>299</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>319</td>
+      <td>300</td>
+      <td>319</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>325</td>
+      <td>320</td>
+      <td>325</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>326</td>
+      <td>343</td>
+      <td>326</td>
+      <td>343</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>356</td>
+      <td>345</td>
+      <td>356</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>367</td>
+      <td>357</td>
+      <td>367</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>388</td>
+      <td>368</td>
+      <td>388</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>407</td>
+      <td>389</td>
+      <td>407</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>427</td>
+      <td>408</td>
+      <td>427</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>453</td>
+      <td>428</td>
+      <td>453</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>454</td>
+      <td>474</td>
+      <td>454</td>
+      <td>474</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>475</td>
+      <td>488</td>
+      <td>475</td>
+      <td>488</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>522</td>
+      <td>489</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a> — Chain B (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLL</span><span class="topo-inside">AKKKVQNITKEDVKSFLRRN</span><span class="topo-membrane">ALLLLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLG</span><span class="topo-outside">FLLRPYPLSPREVKYF</span><span class="topo-membrane">AFPGELLMRMLKMLILPLIVSSLI</span><span class="topo-inside">TGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIIL</span><span class="topo-outside">VLIIHP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-outside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-outside">T</span><span class="topo-unknown">TYEERTITGTRVKVPVG</span><span class="topo-outside">QE</span><span class="topo-membrane">VEGMNILGLVVFSMVFG</span><span class="topo-inside">FALGKM</span></span>
+<span class="topo-line"><span class="topo-inside">GEQGQLLVDFFNSLNEA</span><span class="topo-membrane">TMKLVAIIMWYAPLGILFLIAG</span><span class="topo-outside">KIV</span><span class="topo-unknown">EMEDLEVL</span><span class="topo-outside">GGQLGMYMV</span><span class="topo-membrane">T</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLIYFL</span><span class="topo-inside">ITRKNP</span><span class="topo-membrane">FVFIAGILQALITALGTS</span><span class="topo-outside">S</span><span class="topo-membrane">SSATLPITFKCL</span><span class="topo-inside">EENN</span></span>
+<span class="topo-line"><span class="topo-inside">GVDKRIT</span><span class="topo-membrane">RFVLPVGATINMDGTALYEAV</span><span class="topo-outside">AAIFIAQVNNYELDFGQII</span><span class="topo-unknown">TISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAG</span><span class="topo-outside">LVTMVIVLTAVGLPTDDITLIIAVDW</span><span class="topo-membrane">LLDRFRTMVNVLGDALGAGIV</span><span class="topo-inside">EHLSRK</span></span>
+<span class="topo-line"><span class="topo-inside">ELEKQDAE</span><span class="topo-unknown">LGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>28</td>
+      <td>1</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>29</td>
+      <td>48</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>65</td>
+      <td>49</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>81</td>
+      <td>66</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>105</td>
+      <td>82</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>120</td>
+      <td>106</td>
+      <td>120</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>141</td>
+      <td>121</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>147</td>
+      <td>142</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>215</td>
+      <td>199</td>
+      <td>215</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>217</td>
+      <td>216</td>
+      <td>217</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>234</td>
+      <td>218</td>
+      <td>234</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>257</td>
+      <td>235</td>
+      <td>257</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>279</td>
+      <td>258</td>
+      <td>279</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>282</td>
+      <td>280</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>290</td>
+      <td>283</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>299</td>
+      <td>291</td>
+      <td>299</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>319</td>
+      <td>300</td>
+      <td>319</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>325</td>
+      <td>320</td>
+      <td>325</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>326</td>
+      <td>343</td>
+      <td>326</td>
+      <td>343</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>356</td>
+      <td>345</td>
+      <td>356</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>367</td>
+      <td>357</td>
+      <td>367</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>388</td>
+      <td>368</td>
+      <td>388</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>407</td>
+      <td>389</td>
+      <td>407</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>427</td>
+      <td>408</td>
+      <td>427</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>453</td>
+      <td>428</td>
+      <td>453</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>454</td>
+      <td>474</td>
+      <td>454</td>
+      <td>474</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>475</td>
+      <td>488</td>
+      <td>475</td>
+      <td>488</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>522</td>
+      <td>489</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7awm">7AWM</a> — Chain C (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTKSNGEEPKMGGRMERFQQGVSKRTLL</span><span class="topo-inside">AKKKVQNITKEDVKSFLRRN</span><span class="topo-membrane">ALLLLTVLAVIL</span></span>
+<span class="topo-line"><span class="topo-membrane">GVVLG</span><span class="topo-outside">FLLRPYPLSPREVKYF</span><span class="topo-membrane">AFPGELLMRMLKMLILPLIVSSLI</span><span class="topo-inside">TGLASLDAKASGRLG</span></span>
+<span class="topo-line"><span class="topo-membrane">MRAVVYYMSTTIIAVVLGIIL</span><span class="topo-outside">VLIIHP</span><span class="topo-unknown">GAASAAITASVGAAGSAENAPSK</span><span class="topo-outside">EVLDC</span><span class="topo-unknown">FLDLA</span></span>
+<span class="topo-line"><span class="topo-unknown">RNIFPSNLVSAAFRSYS</span><span class="topo-outside">T</span><span class="topo-unknown">TYEERTITGTRVKVPVG</span><span class="topo-outside">QE</span><span class="topo-membrane">VEGMNILGLVVFSMVFG</span><span class="topo-inside">FALGKM</span></span>
+<span class="topo-line"><span class="topo-inside">GEQGQLLVDFFNSLNEA</span><span class="topo-membrane">TMKLVAIIMWYAPLGILFLIAG</span><span class="topo-outside">KIV</span><span class="topo-unknown">EMEDLEVL</span><span class="topo-outside">GGQLGMYMV</span><span class="topo-membrane">T</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVGLVIHGLIVLPLIYFL</span><span class="topo-inside">ITRKNP</span><span class="topo-membrane">FVFIAGILQALITALGTS</span><span class="topo-outside">S</span><span class="topo-membrane">SSATLPITFKCL</span><span class="topo-inside">EENN</span></span>
+<span class="topo-line"><span class="topo-inside">GVDKRIT</span><span class="topo-membrane">RFVLPVGATINMDGTALYEAV</span><span class="topo-outside">AAIFIAQVNNYELDFGQII</span><span class="topo-unknown">TISITATAASIGA</span></span>
+<span class="topo-line"><span class="topo-unknown">AGIPQAG</span><span class="topo-outside">LVTMVIVLTAVGLPTDDITLIIAVDW</span><span class="topo-membrane">LLDRFRTMVNVLGDALGAGIV</span><span class="topo-inside">EHLSRK</span></span>
+<span class="topo-line"><span class="topo-inside">ELEKQDAE</span><span class="topo-unknown">LGNSVIEENEMKKPYQLIAQDNETEKPIDSETKM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>28</td>
+      <td>1</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>29</td>
+      <td>48</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>65</td>
+      <td>49</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>81</td>
+      <td>66</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>105</td>
+      <td>82</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>120</td>
+      <td>106</td>
+      <td>120</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>141</td>
+      <td>121</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>147</td>
+      <td>142</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>170</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>175</td>
+      <td>171</td>
+      <td>175</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>197</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>215</td>
+      <td>199</td>
+      <td>215</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>217</td>
+      <td>216</td>
+      <td>217</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>234</td>
+      <td>218</td>
+      <td>234</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>257</td>
+      <td>235</td>
+      <td>257</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>279</td>
+      <td>258</td>
+      <td>279</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>282</td>
+      <td>280</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>290</td>
+      <td>283</td>
+      <td>290</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>299</td>
+      <td>291</td>
+      <td>299</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>300</td>
+      <td>319</td>
+      <td>300</td>
+      <td>319</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>325</td>
+      <td>320</td>
+      <td>325</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>326</td>
+      <td>343</td>
+      <td>326</td>
+      <td>343</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>344</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>356</td>
+      <td>345</td>
+      <td>356</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>367</td>
+      <td>357</td>
+      <td>367</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>388</td>
+      <td>368</td>
+      <td>388</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>407</td>
+      <td>389</td>
+      <td>407</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>427</td>
+      <td>408</td>
+      <td>427</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>453</td>
+      <td>428</td>
+      <td>453</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>454</td>
+      <td>474</td>
+      <td>454</td>
+      <td>474</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>475</td>
+      <td>488</td>
+      <td>475</td>
+      <td>488</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>522</td>
+      <td>489</td>
+      <td>522</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -158,14 +6156,14 @@ substrate-induced conformational changes.
 
 ## Cross-References
 
-- [GltPh (Glutamate Transporter Homologue from Pyrococcus horikoshii)](/xray-mp-wiki/proteins/slc-transporters/glt-ph/) — Prokaryotic homologue with same fold; structural basis for elevator mechanism
-- [Elevator Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/elevator-mechanism/) — EAAT1 transports substrates via elevator-like rigid-body movements of the transport domain
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — SLC1 transporters operate by alternating access of the substrate binding site
-- [UCPH101](/xray-mp-wiki/reagents/ligands/ucph101/) — Selective allosteric inhibitor of EAAT1 bound in the TranD-ScaD interface
-- [TBOA (DL-threo-beta-benzyloxyaspartic acid)](/xray-mp-wiki/reagents/ligands/tboa/) — Competitive inhibitor bound in co-structure with UCPH101
-- [DDS (Dodecanoyl Sucrose)](/xray-mp-wiki/reagents/detergents/dds/) — Detergent used for solubilization and crystallization
-- [Anion Channel Gating](/xray-mp-wiki/concepts/transport-mechanisms/anion-channel-gating/) — EAAT1 Cl- conductance is gated by two hydrophobic regions at the domain interface
-- [DTT (Dithiothreitol)](/xray-mp-wiki/reagents/additives/dtt/) — Reducing agent used to test disulfide crosslinking in EAAT1 cysteine mutants
-- [Glutamate Transporter Family (SLC1/EAAT)](/xray-mp-wiki/concepts/transport-mechanisms/glutamate-transporter-family/) — EAAT1 is a human SLC1 family member; ion-coupling mechanism is shared across the family
-- [Substrate-Protonation Coupling](/xray-mp-wiki/concepts/transport-mechanisms/substrate-protonation-coupling/) — E386 protonation is coupled to substrate binding in EAAT1 transport mechanism
-- [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — Cryo-EM structure of wild-type EAAT1 determined at 3.99 A
+- <a href="/xray-mp-wiki/proteins/slc-transporters/glt-ph/">GltPh (Glutamate Transporter Homologue from Pyrococcus horikoshii)</a> — Prokaryotic homologue with same fold; structural basis for elevator mechanism
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/elevator-mechanism/">Elevator Mechanism</a> — EAAT1 transports substrates via elevator-like rigid-body movements of the transport domain
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating-Access Mechanism</a> — SLC1 transporters operate by alternating access of the substrate binding site
+- <a href="/xray-mp-wiki/reagents/ligands/ucph101/">UCPH101</a> — Selective allosteric inhibitor of EAAT1 bound in the TranD-ScaD interface
+- <a href="/xray-mp-wiki/reagents/ligands/tboa/">TBOA (DL-threo-beta-benzyloxyaspartic acid)</a> — Competitive inhibitor bound in co-structure with UCPH101
+- <a href="/xray-mp-wiki/reagents/detergents/dds/">DDS (Dodecanoyl Sucrose)</a> — Detergent used for solubilization and crystallization
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/anion-channel-gating/">Anion Channel Gating</a> — EAAT1 Cl- conductance is gated by two hydrophobic regions at the domain interface
+- <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT (Dithiothreitol)</a> — Reducing agent used to test disulfide crosslinking in EAAT1 cysteine mutants
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/glutamate-transporter-family/">Glutamate Transporter Family (SLC1/EAAT)</a> — EAAT1 is a human SLC1 family member; ion-coupling mechanism is shared across the family
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/substrate-protonation-coupling/">Substrate-Protonation Coupling</a> — E386 protonation is coupled to substrate binding in EAAT1 transport mechanism
+- <a href="/xray-mp-wiki/methods/structure-determination/cryo-em/">Cryo-Electron Microscopy</a> — Cryo-EM structure of wild-type EAAT1 determined at 3.99 A

@@ -1,7 +1,7 @@
 ---
 title: "Turkey Beta1-Adrenergic Receptor Ligand-Free Basal State"
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,42 +17,101 @@ verified: false
 Turkey beta1-adrenergic receptor (beta1-AR) in its ligand-free basal state, determined at 3.5 A resolution with highly anisotropic diffraction. The receptor was crystallized without any bound ligands in a membrane-like lipid environment, revealing the inactive conformational state of a GPCR prior to ligand binding. The structure displays an oligomeric arrangement with two distinct dimer interfaces: Interface 1 (TM1-TM2-H8-ECL1, ~1700 A2 buried surface) and Interface 2 (TM4-TM5-ICL2-ECL2, ~900 A2 buried surface). The inactive conformation is characterized by the presence of the ionic lock salt bridge between Arg139(3.50) and Glu285(6.30), and an empty, contracted ligand-binding pocket compared to antagonist-bound structures.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nsmb.2504 | 4DA1 | 3.5 A | unknown (highly anisotropic) | Turkey beta1-AR(H0) with deletions of residues 3-32, 249-283, 366-483; mutations C116L and C358A; C-terminal His6 tag | None (ligand-free) |
+### doi/10.1038##nsmb.2504
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4da1">4DA1</a></td>
+      <td>3.5 A</td>
+      <td>unknown (highly anisotropic)</td>
+      <td>Turkey beta1-AR(H0) with deletions of residues 3-32, 249-283, 366-483; mutations C116L and C358A; C-terminal His6 tag</td>
+      <td>None (ligand-free)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: High5 insect cells (baculovirus expression vector system)
 - **Construct**: Turkey beta1-AR(H0) with deletions of residues 3-32, 249-283, 366-483; point mutations C116L and C358A; C-terminal His6 tag. Subcloned into baculoviral expression vector pVL1393.
 - **Notes**: High5 cells grown in suspension in High5 Express Medium at 27 C, 110 r.p.m. Infected at MOI 5-10, harvested 48 h post-infection.
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell harvest and membrane preparation</td>
+      <td>Cells broken by sonication, membranes pelleted by ultracentrifugation at 45,000 r.p.m. for 1 h at 4 C.</td>
+      <td>--</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a> (initial); 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8, 0.35 M NaCl, 0.2 mM <a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a> (final) + --</td>
+      <td>Membranes resuspended at 10-20 mg protein/ml and flash frozen in liquid nitrogen.</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> solubilization</td>
+      <td>Detergent solubilization of membrane pellets</td>
+      <td>--</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8, 0.35 M NaCl, 2% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> + 2% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> (n-dodecyl-beta-D-maltopyranoside)</td>
+      <td>Solubilized at 10 mg/ml protein in ice-cold buffer.</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/reagents/ligands/alprenolol">Alprenolol</a>-affinity chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity-chromatography</a> using <a href="/xray-mp-wiki/reagents/ligands/alprenolol">Alprenolol</a>-sepharose</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/alprenolol">Alprenolol</a> sepharose</td>
+      <td>Buffer containing <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>Second purification step. Receptor eluted with <a href="/xray-mp-wiki/reagents/ligands/cyanopindolol">Cyanopindolol</a>.</td>
+    </tr>
+    <tr>
+      <td>Nickel-affinity chromatography</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity-chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/)</td>
+      <td>Buffer containing <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>Third purification step using His6 tag.</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell harvest and membrane preparation | Cells broken by sonication, membranes pelleted by ultracentrifugation at 45,000 r.p.m. for 1 h at 4 C. | -- | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8, 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta) (initial); 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8, 0.35 M NaCl, 0.2 mM [EDTA](/xray-mp-wiki/reagents/additives/edta) (final) + -- | Membranes resuspended at 10-20 mg protein/ml and flash frozen in liquid nitrogen. |
-| [DDM](/xray-mp-wiki/reagents/detergents/ddm) solubilization | Detergent solubilization of membrane pellets | -- | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8, 0.35 M NaCl, 2% [DDM](/xray-mp-wiki/reagents/detergents/ddm) + 2% [DDM](/xray-mp-wiki/reagents/detergents/ddm) (n-dodecyl-beta-D-maltopyranoside) | Solubilized at 10 mg/ml protein in ice-cold buffer. |
-| [Alprenolol](/xray-mp-wiki/reagents/ligands/alprenolol)-affinity chromatography | Affinity chromatography using [Alprenolol](/xray-mp-wiki/reagents/ligands/alprenolol)-sepharose | [Alprenolol](/xray-mp-wiki/reagents/ligands/alprenolol) sepharose | Buffer containing [DDM](/xray-mp-wiki/reagents/detergents/ddm) + [DDM](/xray-mp-wiki/reagents/detergents/ddm) | Second purification step. Receptor eluted with [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol). |
-| Nickel-affinity chromatography | Ni-NTA affinity chromatography | Ni-NTA | Buffer containing [DDM](/xray-mp-wiki/reagents/detergents/ddm) + [DDM](/xray-mp-wiki/reagents/detergents/ddm) | Third purification step using His6 tag. |
-
-
-## Crystallization
-
-### doi/10.1038##nsmb.2504
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) crystallization in membrane-like lipid environment |
-| Protein sample | Purified beta1-AR at concentration suitable for LCP. Crystallization at pH ~4 in the presence of synthetic lipids creating a membrane-like environment. |
-| Temperature | Not specified in text |
-| Notes | Diffraction was highly anisotropic. Structure solved by molecular replacement using the partial agonist ([Salbutamol (Albuterol)](/xray-mp-wiki/reagents/ligands/salbutamol))-bound beta1-AR as search model. The crystal packing indicated a membrane-like environment with extensive lipid impaction. At pH ~4, antagonist binding to beta1-AR is reduced, ensuring the ligand-free state. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) crystallization in membrane-like lipid environment</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified beta1-AR at concentration suitable for <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/). Crystallization at pH ~4 in the presence of synthetic lipids creating a membrane-like environment.</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified in text</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Diffraction was highly anisotropic. Structure solved by molecular replacement using the partial agonist (<a href="/xray-mp-wiki/reagents/ligands/salbutamol">Salbutamol (Albuterol)</a>)-bound beta1-AR as search model. The crystal packing indicated a membrane-like environment with extensive lipid impaction. At pH ~4, antagonist binding to beta1-AR is reduced, ensuring the ligand-free state.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -79,13 +138,13 @@ The ligand-free beta1-AR in this structure is in an inactive conformation, unlik
 
 ## Cross-References
 
-- [Turkey Beta1-Adrenergic Receptor M23](/xray-mp-wiki/proteins/gpcr/turkey-beta1-ar-m23/) — Related thermostabilized turkey beta1AR construct; this ligand-free structure provides the basal state for comparison
-- [Turkey Beta1-Adrenergic Receptor Thermostabilized Mutant M23 with Cyanopindolol (2VT4)](/xray-mp-wiki/proteins/gpcr/turkey-beta1-ar-m23-2vt4/) — Antagonist-bound structure for comparison of ligand-binding pocket conformation
-- [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Model system for GPCR-G protein coupling studies; used in docking experiments with beta1-AR oligomers
-- [N-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for membrane solubilization and all purification steps
-- [Alprenolol](/xray-mp-wiki/reagents/ligands/alprenolol/) — Used for affinity chromatography purification step
-- [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) — Used to elute receptor from alprenolol-affinity column
-- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — This structure represents the ligand-free basal state in an inactive conformation with intact ionic lock
-- [GPCR-G Protein Coupling](/xray-mp-wiki/concepts/signaling-receptors/gpcr-g-protein-coupling/) — Docking experiments with Gs protein on beta1-AR oligomers
-- [Salbutamol (Albuterol)](/xray-mp-wiki/reagents/ligands/salbutamol) — Entity mentioned in text
-- [OPSIN](/xray-mp-wiki/proteins/opsin) — Entity mentioned in text
+- <a href="/xray-mp-wiki/proteins/gpcr/turkey-beta1-ar-m23/">Turkey Beta1-Adrenergic Receptor M23</a> — Related thermostabilized turkey beta1AR construct; this ligand-free structure provides the basal state for comparison
+- <a href="/xray-mp-wiki/proteins/gpcr/turkey-beta1-ar-m23-2vt4/">Turkey Beta1-Adrenergic Receptor Thermostabilized Mutant M23 with Cyanopindolol (2VT4)</a> — Antagonist-bound structure for comparison of ligand-binding pocket conformation
+- <a href="/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/">Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)</a> — Model system for GPCR-G protein coupling studies; used in docking experiments with beta1-AR oligomers
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">N-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Detergent used for membrane solubilization and all purification steps
+- <a href="/xray-mp-wiki/reagents/ligands/alprenolol/">Alprenolol</a> — Used for affinity chromatography purification step
+- <a href="/xray-mp-wiki/reagents/ligands/cyanopindolol/">Cyanopindolol</a> — Used to elute receptor from alprenolol-affinity column
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/">GPCR Inactive Conformation</a> — This structure represents the ligand-free basal state in an inactive conformation with intact ionic lock
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/gpcr-g-protein-coupling/">GPCR-G Protein Coupling</a> — Docking experiments with Gs protein on beta1-AR oligomers
+- <a href="/xray-mp-wiki/reagents/ligands/salbutamol">Salbutamol (Albuterol)</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/proteins/opsin">OPSIN</a> — Entity mentioned in text

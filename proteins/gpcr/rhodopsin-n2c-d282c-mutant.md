@@ -1,7 +1,7 @@
 ---
 title: "Rhodopsin N2C/D282C Mutant"
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,44 +16,260 @@ verified: false
 
 The N2C/D282C mutant of rhodopsin is a thermally stabilized recombinant form with an engineered disulfide bond between Cys2 and Cys282, enabling handling of [OPSIN](/xray-mp-wiki/proteins/gpcr/opsin/) in detergent solution and increasing thermal stability by 10 deg.C. This structure, solved at 3.4 A resolution, was the first crystal structure of a recombinantly produced GPCR and opened the way for structural investigation of GPCR mutants expressed heterologously in cultured mammalian cells.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##J.JMB.2007.03.007 | 2J4Y | 3.4 A | P31 | Rhodopsin N2C/D282C mutant, residues 1-326 of 348; 326 of 348 residues in refined structure; two monomers (A and B) in asymmetric unit; post-translational modifications include acetylation of N-terminus, N-linked glycosylation at Asn15, and [11-cis-Retinal](/xray-mp-wiki/reagents/ligands/11-cis-retinal/) bound via Schiff base to Lys296 | [11-cis-Retinal](/xray-mp-wiki/reagents/ligands/11-cis-retinal/) (covalently bound to Lys296 via protonated Schiff base) |
+### doi/10.1016##J.JMB.2007.03.007
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2j4y">2J4Y</a></td>
+      <td>3.4 A</td>
+      <td>P31</td>
+      <td>Rhodopsin N2C/D282C mutant, residues 1-326 of 348; 326 of 348 residues in refined structure; two monomers (A and B) in asymmetric unit; post-translational modifications include acetylation of N-terminus, N-linked glycosylation at Asn15, and <a href="/xray-mp-wiki/reagents/ligands/11-cis-retinal/">11-cis-Retinal</a> bound via Schiff base to Lys296</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/11-cis-retinal/">11-cis-Retinal</a> (covalently bound to Lys296 via protonated Schiff base)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: COS-1 mammalian cells (heterologous transient expression)
 - **Construct**: Rhodopsin N2C/D282C double mutant with engineered disulfide bond between introduced Cys residues at positions 2 and 282; replaces hydrogen bond between Asn2 and Asp282 without changing overall fold; also screened N2C/N15D/D282C triple mutant for full deglycosylation
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell harvest and membrane preparation</td>
+      <td>Transient expression in COS-1 cells; membrane isolation from 50 plates (15 cm) of 5x10^5 cells per plate</td>
+      <td>--</td>
+      <td>not specified (extraction from transfected COS cells)</td>
+      <td>~5x10^5 COS-1 cells per 15 cm plate; 50 plates per preparation; expression level about 50% of wild-type</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization from membrane preparation</td>
+      <td>--</td>
+      <td>not specified + 0.02% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (N-Dodecyl-beta-D-maltopyranoside)</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/11-cis-retinal/">11-cis-Retinal</a> supplied exogenously before solubilization to form stable holoprotein (<a href="/xray-mp-wiki/proteins/gpcr/opsin/">OPSIN</a> apoprotein is unstable in detergent)</td>
+    </tr>
+    <tr>
+      <td>Immunoaffinity chromatography</td>
+      <td>1D4 immunoaffinity chromatography</td>
+      <td>1D4 antibody</td>
+      <td>not specified + 0.02% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (N-Dodecyl-beta-D-maltopyranoside)</td>
+      <td>Primary purification step using 1D4 antibody column; final yield ~0.6 mg of rhodopsin per preparation; protein/chromophore ratio (A280/A500) of 1.65</td>
+    </tr>
+    <tr>
+      <td>Detergent exchange</td>
+      <td>Size-exclusion chromatography on Sephadex G50</td>
+      <td>Sephadex G50</td>
+      <td>not specified + 0.2% (w/v) <a href="/xray-mp-wiki/reagents/detergents/c8e4/">C8E4</a> (Octyltetraoxyethylene), exchanged from 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Detergent exchange immediately before crystallization trials or thermal stability experiments</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell harvest and membrane preparation | Transient expression in COS-1 cells; membrane isolation from 50 plates (15 cm) of 5x10^5 cells per plate | -- | not specified (extraction from transfected COS cells) | ~5x10^5 COS-1 cells per 15 cm plate; 50 plates per preparation; expression level about 50% of wild-type |
-| Solubilization | Detergent solubilization from membrane preparation | -- | not specified + 0.02% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (N-Dodecyl-beta-D-maltopyranoside) | [11-cis-Retinal](/xray-mp-wiki/reagents/ligands/11-cis-retinal/) supplied exogenously before solubilization to form stable holoprotein ([OPSIN](/xray-mp-wiki/proteins/gpcr/opsin/) apoprotein is unstable in detergent) |
-| Immunoaffinity chromatography | 1D4 immunoaffinity chromatography | 1D4 antibody | not specified + 0.02% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (N-Dodecyl-beta-D-maltopyranoside) | Primary purification step using 1D4 antibody column; final yield ~0.6 mg of rhodopsin per preparation; protein/chromophore ratio (A280/A500) of 1.65 |
-| Detergent exchange | Size-exclusion chromatography on Sephadex G50 | Sephadex G50 | not specified + 0.2% (w/v) [C8E4](/xray-mp-wiki/reagents/detergents/c8e4/) (Octyltetraoxyethylene), exchanged from 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Detergent exchange immediately before crystallization trials or thermal stability experiments |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>10 mg/ml N2C/D282C rhodopsin in 0.2% <a href="/xray-mp-wiki/reagents/detergents/c8e4/">C8E4</a> (Octyltetraoxyethylene); concentrated with Centricon 30 and Microcon 30 (Millipore); N,N-dimethyldodecylamine-N-oxide added to 0.05%</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>1.2-1.7 M <a href="/xray-mp-wiki/reagents/additives/lithium-sulfate/">Lithium Sulfate</a>, 0.1 M HEPES (pH 7.5); 1 µl protein + 1 µl mother liquor sitting drops</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>not specified (room temperature implied)</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>crystals appeared within two weeks</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>20% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> in mother liquor; crystals picked into cryoloops under infrared illumination</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Needle-like crystals up to 100 µm long; unit cell a=b=109.3 A, c=77.7 A; diffracted to ~3.5 A after 15 s exposure; microcrystallography with 5 µm X-ray beam at ID13 beamline, ESRF Grenoble</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2j4y">2J4Y</a> — Chain A (7 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">-</span><span class="topo-inside">MCGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFS</span><span class="topo-membrane">MLAAYMFLLIMLGFPINFLTL</span></span>
+<span class="topo-line"><span class="topo-membrane">YVTVQ</span><span class="topo-outside">HKKLRTPL</span><span class="topo-membrane">NYILLNLAVADLFMVFGGFTTTLYTS</span><span class="topo-inside">LHGYFVFGPTG</span><span class="topo-membrane">CNLEGFFATL</span></span>
+<span class="topo-line"><span class="topo-membrane">GGEIALWSLVVLAI</span><span class="topo-outside">ERYVVVCKPMSNFRFGENH</span><span class="topo-membrane">AIMGVAFTWVMALACAAPPLVGWS</span><span class="topo-inside">RYI</span></span>
+<span class="topo-line"><span class="topo-inside">PEGMQCSCGIDYYTPHEET</span><span class="topo-membrane">NNESFVIYMFVVHFIIPLIVIFFCYG</span><span class="topo-outside">QLVFTVKEAAAQQQE</span></span>
+<span class="topo-line"><span class="topo-outside">SATTQKAEKEVTRM</span><span class="topo-membrane">VIIMVIAFLICWLPYAGVAFYIFTH</span><span class="topo-inside">QGSCFGPI</span><span class="topo-membrane">FMTIPAFFAKTSA</span></span>
+<span class="topo-line"><span class="topo-membrane">VYNPVIYIMM</span><span class="topo-outside">NKQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>39</td>
+      <td>1</td>
+      <td>38</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>65</td>
+      <td>39</td>
+      <td>64</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>73</td>
+      <td>65</td>
+      <td>72</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>99</td>
+      <td>73</td>
+      <td>98</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>110</td>
+      <td>99</td>
+      <td>109</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>111</td>
+      <td>134</td>
+      <td>110</td>
+      <td>133</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>153</td>
+      <td>134</td>
+      <td>152</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>154</td>
+      <td>177</td>
+      <td>153</td>
+      <td>176</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>199</td>
+      <td>177</td>
+      <td>198</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>225</td>
+      <td>199</td>
+      <td>224</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>226</td>
+      <td>254</td>
+      <td>225</td>
+      <td>253</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>255</td>
+      <td>279</td>
+      <td>254</td>
+      <td>278</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>287</td>
+      <td>279</td>
+      <td>286</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>288</td>
+      <td>310</td>
+      <td>287</td>
+      <td>309</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>311</td>
+      <td>327</td>
+      <td>310</td>
+      <td>326</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>328</td>
+      <td>349</td>
+      <td>327</td>
+      <td>348</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1016##J.JMB.2007.03.007
-
-| Parameter | Value |
-|---|---|
-| Method | Sitting-drop vapor diffusion |
-| Protein sample | 10 mg/ml N2C/D282C rhodopsin in 0.2% [C8E4](/xray-mp-wiki/reagents/detergents/c8e4/) (Octyltetraoxyethylene); concentrated with Centricon 30 and Microcon 30 (Millipore); N,N-dimethyldodecylamine-N-oxide added to 0.05% |
-| Reservoir | 1.2-1.7 M [Lithium Sulfate](/xray-mp-wiki/reagents/additives/lithium-sulfate/), 0.1 M HEPES (pH 7.5); 1 µl protein + 1 µl mother liquor sitting drops |
-| Temperature | not specified (room temperature implied) |
-| Growth time | crystals appeared within two weeks |
-| Cryoprotection | 20% (v/v) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) in mother liquor; crystals picked into cryoloops under infrared illumination |
-| Notes | Needle-like crystals up to 100 µm long; unit cell a=b=109.3 A, c=77.7 A; diffracted to ~3.5 A after 15 s exposure; microcrystallography with 5 µm X-ray beam at ID13 beamline, ESRF Grenoble |
-
+</div>
 
 ## Biological / Functional Insights
 
@@ -84,13 +300,13 @@ Mutations at Asn15 that disrupt glycosylation are not tolerated and cause autoso
 
 ## Cross-References
 
-- [Bovine Rhodopsin](/xray-mp-wiki/proteins/gpcr/bovine-rhodopsin/) — Wild-type structure (1GZM) used as search model for molecular replacement; structural comparison shows 0.745 A rms difference
-- [11-cis-Retinal](/xray-mp-wiki/reagents/ligands/11-cis-retinal/) — Chromophore covalently bound to Lys296 via protonated Schiff base; supplied exogenously before solubilization for holoprotein formation
-- [DDM (N-Dodecyl-beta-D-maltopyranoside)](/xray-mp-wiki/reagents/detergents/ddm/) — Initial detergent used for solubilization at 0.02% (w/v); exchanged to C8E4 before crystallization
-- [Octyltetraoxyethylene (C8E4)](/xray-mp-wiki/reagents/detergents/c8e4/) — Primary detergent for crystallization at 0.2% (w/v); provides enhanced thermal stability for the N2C/D282C mutant
-- [Lithium Sulfate](/xray-mp-wiki/reagents/additives/lithium-sulfate/) — Primary precipitant in crystallization reservoir at 1.2-1.7 M concentration
-- [HEPES (4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid)](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer component in crystallization mother liquor at 0.1 M, pH 7.5
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Cryoprotectant at 20% (v/v) used for harvesting microcrystals
-- [Magnesium Chloride (MgCl2)](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Component of thermal stability assay buffer (2 mM MgCl2)
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — 1D4 immunoaffinity chromatography used as primary purification method
-- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Sephadex G50 column used for detergent exchange from DDM to C8E4
+- <a href="/xray-mp-wiki/proteins/gpcr/bovine-rhodopsin/">Bovine Rhodopsin</a> — Wild-type structure (1GZM) used as search model for molecular replacement; structural comparison shows 0.745 A rms difference
+- <a href="/xray-mp-wiki/reagents/ligands/11-cis-retinal/">11-cis-Retinal</a> — Chromophore covalently bound to Lys296 via protonated Schiff base; supplied exogenously before solubilization for holoprotein formation
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM (N-Dodecyl-beta-D-maltopyranoside)</a> — Initial detergent used for solubilization at 0.02% (w/v); exchanged to C8E4 before crystallization
+- <a href="/xray-mp-wiki/reagents/detergents/c8e4/">Octyltetraoxyethylene (C8E4)</a> — Primary detergent for crystallization at 0.2% (w/v); provides enhanced thermal stability for the N2C/D282C mutant
+- <a href="/xray-mp-wiki/reagents/additives/lithium-sulfate/">Lithium Sulfate</a> — Primary precipitant in crystallization reservoir at 1.2-1.7 M concentration
+- <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES (4-(2-hydroxyethyl)-1-piperazineethanesulfonic acid)</a> — Buffer component in crystallization mother liquor at 0.1 M, pH 7.5
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Cryoprotectant at 20% (v/v) used for harvesting microcrystals
+- <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Magnesium Chloride (MgCl2)</a> — Component of thermal stability assay buffer (2 mM MgCl2)
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — 1D4 immunoaffinity chromatography used as primary purification method
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> — Sephadex G50 column used for detergent exchange from DDM to C8E4

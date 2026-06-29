@@ -1,7 +1,7 @@
 ---
 title: "Human Glycine Receptor Alpha-3 Homopentamer (GlyRα3)"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,48 +17,113 @@ verified: false
 The human [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptor alpha-3 subunit (GlyRα3) is a [Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) ([Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/)) belonging to the [Cys-Loop Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) family. [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) receptors mediate fast inhibitory synaptic transmission in the spinal cord and brainstem and play key roles in motor coordination and inflammatory pain processing. Disruption of GlyR function causes hyperekplexia, a neurological disorder with exaggerated startle response. In vivo, GlyRs exist as homopentamers of α-subunits or heteropentamers of α- and β-subunits. The GlyRα3 homopentamer structure presented here represents the first crystallographic analysis of a [Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) in the antagonist-induced inactive state.
 
 
-## Structure Determination
+## Publications
 
-No structure determined.
+### doi/10.1038##nature14972
 
-## Expression and Purification
+**Expression:**
 
 - **Expression system**: [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) expression in [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/)
 - **Construct**: GlyRα3 crystallization construct (human GlyRα3 residues 1-460, Δ343-418::AGT, C-terminus truncated by 4 residues, Strep II tag added to C-terminus)
 - **Notes**: The 76-residue intracellular loop between M3 and M4 helices was replaced with an Ala-Gly-Thr tripeptide. Four residues were deleted from the C-terminus based on sequence alignments with mammalian GlyRα3 sequences. [Bac-to-Bac Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) system was used for [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) generation. Cells grown in sfx medium at 27°C for 72 h.
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) ([Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/))
 - **Expression construct**: GlyRα3 crystallization construct with [Strep-tag II](/xray-mp-wiki/reagents/protein-tags/strep-tag/)
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture and harvest</td>
+      <td><a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/">Baculovirus Expression System</a> expression</td>
+      <td>—</td>
+      <td>sfx medium</td>
+      <td>Sf9 cells grown at 27°C for 72 h, harvested by centrifugation at 2000g</td>
+    </tr>
+    <tr>
+      <td>Membrane preparation</td>
+      <td>Cell lysis and membrane isolation</td>
+      <td>—</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Hydroxymethyl) Aminomethane</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride (NaCl)</a>, 1% protease inhibitors cocktail</td>
+      <td>Cells disrupted in Microfluidizer, homogenate clarified at 10000g, crude membranes collected at 125000g</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Hydroxymethyl) Aminomethane</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride (NaCl)</a> + 0.2 g <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> per gram of membranes</td>
+      <td>Membranes mechanically homogenized in <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a></td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Strep-tag <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Strep affinity resin (IBA)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Hydroxymethyl) Aminomethane</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride (NaCl)</a>, 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a></td>
+      <td>Bound to Strep resin, washed with buffer containing 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a></td>
+    </tr>
+    <tr>
+      <td>Elution</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Strep affinity resin (IBA)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Hydroxymethyl) Aminomethane</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride (NaCl)</a>, 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a>, 5 mM <a href="/xray-mp-wiki/reagents/ligands/desthiobiotin">Desthiobiotin</a></td>
+      <td>Eluted with 5 mM <a href="/xray-mp-wiki/reagents/ligands/desthiobiotin">Desthiobiotin</a></td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a></td>
+      <td>--</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Hydroxymethyl) Aminomethane</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride (NaCl)</a>, 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a></td>
+      <td>Further purified by gel filtration, all steps at 4°C</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture and harvest | [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) expression | — | sfx medium | Sf9 cells grown at 27°C for 72 h, harvested by centrifugation at 2000g |
-| Membrane preparation | Cell lysis and membrane isolation | — | 50 mM [Tris (Hydroxymethyl) Aminomethane](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/), 1% protease inhibitors cocktail | Cells disrupted in Microfluidizer, homogenate clarified at 10000g, crude membranes collected at 125000g |
-| Solubilization | Detergent solubilization | -- | 20 mM [Tris (Hydroxymethyl) Aminomethane](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/) + 0.2 g [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) per gram of membranes | Membranes mechanically homogenized in [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Strep-tag [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Strep affinity resin (IBA) | 20 mM [Tris (Hydroxymethyl) Aminomethane](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/), 1 mM [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) | Bound to Strep resin, washed with buffer containing 1 mM [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) |
-| Elution | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Strep affinity resin (IBA) | 20 mM [Tris (Hydroxymethyl) Aminomethane](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/), 1 mM [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/), 5 mM [Desthiobiotin](/xray-mp-wiki/reagents/ligands/desthiobiotin) | Eluted with 5 mM [Desthiobiotin](/xray-mp-wiki/reagents/ligands/desthiobiotin) |
-| [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | -- | 20 mM [Tris (Hydroxymethyl) Aminomethane](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/), 1 mM [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) | Further purified by gel filtration, all steps at 4°C |
+**Crystallization:**
 
-
-## Crystallization
-
-### doi/10.1038##nature14972
-
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop [Vapor Diffusion Crystallization](/xray-mp-wiki/methods/crystallization/vapor-diffusion/) |
-| Protein sample | ~3 mg/ml GlyRα3-[Strychnine](/xray-mp-wiki/reagents/ligands/strychnine/) complex (0.2 mM [Strychnine](/xray-mp-wiki/reagents/ligands/strychnine/) incubated at 4°C for 30 min) |
-| Reservoir | 25 mM [Sodium Citrate](/xray-mp-wiki/reagents/buffers/sodium-citrate/) pH 4.0, 100 mM KCl, 200 mM [Magnesium Chloride (MgCl2)](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 30-33% [PEG 400](/xray-mp-wiki/reagents/additives/peg-400/) |
-| Mixing ratio | 0.5 μl protein : 0.5 μl reservoir |
-| Temperature | 4 |
-| Growth time | ~1 month |
-| Cryoprotection | Direct freezing in liquid nitrogen from crystallization drops |
-| Notes | Diffraction data collected at beamline 22-ID, Advanced Photon Source, Argonne. Final 3.0 Å data set assembled from 15 crystals (10-30° per crystal). Structure determined by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) using apo-[GluCl (GABA-Gated Chloride Channel from C. elegans)](/xray-mp-wiki/proteins/glucl) (4TNV) as search model. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">Vapor Diffusion Crystallization</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>~3 mg/ml GlyRα3-<a href="/xray-mp-wiki/reagents/ligands/strychnine/">Strychnine</a> complex (0.2 mM <a href="/xray-mp-wiki/reagents/ligands/strychnine/">Strychnine</a> incubated at 4°C for 30 min)</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/sodium-citrate/">Sodium Citrate</a> pH 4.0, 100 mM KCl, 200 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Magnesium Chloride (MgCl2)</a>, 30-33% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG 400</a></td>
+    </tr>
+    <tr>
+      <td>Mixing ratio</td>
+      <td>0.5 μl protein : 0.5 μl reservoir</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>~1 month</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Direct freezing in liquid nitrogen from crystallization drops</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Diffraction data collected at beamline 22-ID, Advanced Photon Source, Argonne. Final 3.0 Å data set assembled from 15 crystals (10-30° per crystal). Structure determined by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using apo-<a href="/xray-mp-wiki/proteins/glucl">GluCl (GABA-Gated Chloride Channel from C. elegans)</a> (4TNV) as search model.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -81,13 +146,13 @@ Highly conserved residue Pro250 (Pro-2') of M2 is critical for ion selectivity; 
 
 ## Cross-References
 
-- [Cys-Loop Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) — GlyRα3 belongs to the Cys-loop receptor (pLGIC) family
-- [GluCl (GABA-Gated Chloride Channel from C. elegans)](/xray-mp-wiki/proteins/cys-loop-receptors/glucl/) — Used as molecular replacement search model; key comparative structure for pLGIC gating
-- [ELIC (Erwinia chrysanthemi Ligand-gated Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/elic/) — Prokaryotic pLGIC homologue used for structural comparisons
-- [GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/glic/) — Prokaryotic pLGIC homologue for structural comparisons
-- [Human GABA_A Receptor Beta-3 Subunit](/xray-mp-wiki/proteins/cys-loop-receptors/gabar-b3/) — Related eukaryotic Cys-loop receptor structure for comparison
-- [Mouse 5-HT3A Receptor](/xray-mp-wiki/proteins/cys-loop-receptors/mouse-5ht3a-receptor/) — Related eukaryotic Cys-loop receptor structure
-- [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) — Native neurotransmitter ligand of glycine receptors
-- [Isothermal Titration Calorimetry (ITC)](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/) — Used to measure strychnine binding thermodynamics to GlyRα3
-- [Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) — Referenced in glycine-receptor-alpha3
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Referenced in glycine-receptor-alpha3
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/">Cys-Loop Receptor Family</a> — GlyRα3 belongs to the Cys-loop receptor (pLGIC) family
+- <a href="/xray-mp-wiki/proteins/cys-loop-receptors/glucl/">GluCl (GABA-Gated Chloride Channel from C. elegans)</a> — Used as molecular replacement search model; key comparative structure for pLGIC gating
+- <a href="/xray-mp-wiki/proteins/cys-loop-receptors/elic/">ELIC (Erwinia chrysanthemi Ligand-gated Ion Channel)</a> — Prokaryotic pLGIC homologue used for structural comparisons
+- <a href="/xray-mp-wiki/proteins/cys-loop-receptors/glic/">GLIC (Gloeobacter violaceus Ion Channel)</a> — Prokaryotic pLGIC homologue for structural comparisons
+- <a href="/xray-mp-wiki/proteins/cys-loop-receptors/gabar-b3/">Human GABA_A Receptor Beta-3 Subunit</a> — Related eukaryotic Cys-loop receptor structure for comparison
+- <a href="/xray-mp-wiki/proteins/cys-loop-receptors/mouse-5ht3a-receptor/">Mouse 5-HT3A Receptor</a> — Related eukaryotic Cys-loop receptor structure
+- <a href="/xray-mp-wiki/reagents/buffers/glycine/">Glycine</a> — Native neurotransmitter ligand of glycine receptors
+- <a href="/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/">Isothermal Titration Calorimetry (ITC)</a> — Used to measure strychnine binding thermodynamics to GlyRα3
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/">Pentameric Ligand-Gated Ion Channel (pLGIC)</a> — Referenced in glycine-receptor-alpha3
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Referenced in glycine-receptor-alpha3

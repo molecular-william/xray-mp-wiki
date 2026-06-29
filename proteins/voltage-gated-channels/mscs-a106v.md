@@ -1,7 +1,7 @@
 ---
 title: "E. coli MscS Mechanosensitive Channel (A106V Open Form)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,26 +17,29 @@ verified: false
 The structure of an open form of the *Escherichia coli* mechanosensitive channel of small conductance ([MSCS](/xray-mp-wiki/proteins/voltage-gated-channels/mscs/)) was determined at 3.45 Å resolution using the A106V mutant. [MSCS](/xray-mp-wiki/proteins/voltage-gated-channels/mscs/) is a heptameric channel that opens in response to membrane tension to allow rapid ion efflux, relieving turgor pressure during hypo-osmotic shock. The A106V structure reveals a pore diameter of ~13 Å created by substantial rotational rearrangement of the three transmembrane helices per monomer (TM1, TM2, TM3a, and TM3b). The opening mechanism involves TM3a helices pivoting around [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) G113, moving side chains L105 and L109 out of the pore lumen in a camera-iris-like motion, breaking the hydrophobic "vapor lock" that prevents ion passage in the closed state.
 
 
-## Structure Determination
+## Publications
 
-No structure determined.
+### doi/10.1126##science.1159262
 
-## Expression and Purification
+**Expression:**
 
 - **Expression system**: E. coli
 - **Notes**: Functional in vivo; heptameric channel
 
-No purification described.
+**Crystallization:**
 
-## Crystallization
-
-### doi/10.1126##science.1159262
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Notes | A106V mutant crystals diffracted to 3.45 Å resolution |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>A106V mutant crystals diffracted to 3.45 Å resolution</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -63,5 +66,5 @@ The open-state TM3a helices are no longer close-packed but physically separated.
 
 ## Cross-References
 
-- [MSCS](/xray-mp-wiki/proteins/voltage-gated-channels/mscs/) — Related protein structure
-- [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) — Buffer component in purification or crystallization
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/mscs/">MSCS</a> — Related protein structure
+- <a href="/xray-mp-wiki/reagents/buffers/glycine/">Glycine</a> — Buffer component in purification or crystallization

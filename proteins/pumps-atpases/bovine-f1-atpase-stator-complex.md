@@ -1,7 +1,7 @@
 ---
 title: "Bovine Mitochondrial F1-ATPase-Stator Complex (Membrane Extrinsic Region)"
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,47 +16,105 @@ verified: false
 
 The bovine mitochondrial F1-ATPase-stator complex (F1-stator_T) is a subcomplex of the F1Fo-ATP synthase, the enzyme that synthesizes ATP using the proton motive force across the inner mitochondrial membrane. This 3.2 Å resolution structure captures the membrane extrinsic region of the stator, containing residues 122-207 of subunit b, residues 5-25 and 35-57 of F6, three segments of subunit d (residues 30-40, 65-74, 85-91), and residues 1-146 and 169-189 of the oligomycin sensitivity conferral protein (OSCP). Subunit b extends as a continuous 160 Å long α-helix from residue 188 back to residue 79 near the inner mitochondrial membrane surface. The stator is a key structural element that counteracts the rotational torque of the rotor during ATP synthesis.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.0910365106 | 2WSS | 3.2 | P2(1)2(1)2(1) | Bovine F1-ATPase (α3β3γδɛ) complexed with stator_T subcomplex (b, d, F6, OSCP). Selenomethionine-substituted stator_T. | AMP-PNP (non-hydrolyzable ATP analog) |
+### doi/10.1073##pnas.0910365106
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2wss">2WSS</a></td>
+      <td>3.2</td>
+      <td>P2(1)2(1)2(1)</td>
+      <td>Bovine F1-ATPase (α3β3γδɛ) complexed with stator_T subcomplex (b, d, F6, OSCP). Selenomethionine-substituted stator_T.</td>
+      <td>AMP-PNP (non-hydrolyzable ATP analog)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli (bacterial overexpression)
 - **Construct**: Stator_T subcomplex (b, d, F6, OSCP) expressed from a plasmid encoding all 3 proteins in an operon. OSCP produced separately by bacterial overexpression and refolded.
 - **Notes**: Proteins mixed together and stator_T complex purified before assembly with bovine F1-ATPase.
 
-### Purification Workflow
+**Purification:**
 
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Stator_T complex purification | Ion exchange and gel filtration chromatography | -- | -- | Stator_T complex purified after mixing overexpressed subunits. Purity assessed by SDS/PAGE. Molecular masses verified by mass spectrometry. |
-| Assembly with F1-ATPase | Complex formation followed by gel filtration chromatography | -- | -- | Stator_T assembled with native bovine F1-ATPase and purified by gel filtration. |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Stator_T complex purification</td>
+      <td>Ion exchange and gel filtration chromatography</td>
+      <td>--</td>
+      <td>--</td>
+      <td>Stator_T complex purified after mixing overexpressed subunits. Purity assessed by SDS/PAGE. Molecular masses verified by mass spectrometry.</td>
+    </tr>
+    <tr>
+      <td>Assembly with F1-ATPase</td>
+      <td>Complex formation followed by gel filtration chromatography</td>
+      <td>--</td>
+      <td>--</td>
+      <td>Stator_T assembled with native bovine F1-ATPase and purified by gel filtration.</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: 12.5 mg/mL F1-stator_T complex in D2O-based buffer
 **Purity**: Intact subunits confirmed by SDS/PAGE analysis of crystals
 
+**Crystallization:**
 
-## Crystallization
-
-### doi/10.1073##pnas.0910365106
-
-| Parameter | Value |
-|---|---|
-| Method | Microbatch under light paraffin oil |
-| Protein sample | 12.5 mg/mL F1-stator_T complex in D2O-based buffer |
-| Reservoir | 15-22% (w/v) polyethylene glycol 8000, 300 mM ammonium sulfate, 100 mM [MES](/xray-mp-wiki/reagents/buffers/mes) (pH 6.5), 1 mM [AMP-PNP](/xray-mp-wiki/reagents/ligands/amp-pnp) |
-| Mixing ratio | 1:1 protein:reservoir (3 µL drops) |
-| Temperature | 23°C |
-| Growth time | 14 days |
-| Cryoprotection | Crystals passed through cryoprotection solutions: 10 mM [Tris-HCl](/xray-mp-wiki/reagents/buffers/tris-hcl) (pH 8.0), 100 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride), 25 mM [Sucrose](/xray-mp-wiki/reagents/additives/sucrose), 1 mM [MgSO4](/xray-mp-wiki/reagents/additives/magnesium-sulfate), 2.5 mM [DTT](/xray-mp-wiki/reagents/additives/dtt), 0.5 mM [EDTA](/xray-mp-wiki/reagents/additives/edta), 0.01% NaN3, 0.0005% [PMSF](/xray-mp-wiki/reagents/additives/phenylmethylsulfonyl-fluoride), 20 µM [ADP](/xray-mp-wiki/reagents/ligands/adp), 19-22% (w/v) PEG8000, 150 mM (NH4)2SO4, 50 mM MES (pH 6.5), 0.5 mM AMP-PNP, 5-20% (v/v) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol) (increased in 5% steps) |
-| Notes | Crystals grown by microbatch under light paraffin oil in 72-well microbatch plates. 4 crystals harvested, washed, and analyzed by SDS/PAGE (intact subunits confirmed). Data collected at ESRF beamline ID23eh1 (λ=0.9790 Å). |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Microbatch under light paraffin oil</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>12.5 mg/mL F1-stator_T complex in D2O-based buffer</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>15-22% (w/v) polyethylene glycol 8000, 300 mM ammonium sulfate, 100 mM <a href="/xray-mp-wiki/reagents/buffers/mes">MES</a> (pH 6.5), 1 mM <a href="/xray-mp-wiki/reagents/ligands/amp-pnp">AMP-PNP</a></td>
+    </tr>
+    <tr>
+      <td>Mixing ratio</td>
+      <td>1:1 protein:reservoir (3 µL drops)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>23°C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>14 days</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Crystals passed through cryoprotection solutions: 10 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl</a> (pH 8.0), 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride">NaCl</a>, 25 mM <a href="/xray-mp-wiki/reagents/additives/sucrose">Sucrose</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-sulfate">MgSO4</a>, 2.5 mM <a href="/xray-mp-wiki/reagents/additives/dtt">DTT</a>, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a>, 0.01% NaN3, 0.0005% <a href="/xray-mp-wiki/reagents/additives/phenylmethylsulfonyl-fluoride">PMSF</a>, 20 µM <a href="/xray-mp-wiki/reagents/ligands/adp">ADP</a>, 19-22% (w/v) PEG8000, 150 mM (NH4)2SO4, 50 mM MES (pH 6.5), 0.5 mM AMP-PNP, 5-20% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> (increased in 5% steps)</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown by microbatch under light paraffin oil in 72-well microbatch plates. 4 crystals harvested, washed, and analyzed by SDS/PAGE (intact subunits confirmed). Data collected at ESRF beamline ID23eh1 (λ=0.9790 Å).</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -75,6 +133,6 @@ The OSCP interaction with αE involves α-helices 1 and 5 of OSCP and residues 6
 
 ## Cross-References
 
-- [Bovine F1-ATPase (azide-inhibited form)](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) — Catalytic domain of the same ATP synthase; azide-inhibited structure used as MR search model (PDB 2CK3)
-- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/) — ATP synthase uses a rotary catalytic mechanism driven by the proton motive force
-- [Yeast Mitochondrial ATP Synthase c10 Ring](/xray-mp-wiki/proteins/pumps-atpases/yeast-mitochondrial-atp-synthase-c10-ring/) — Membrane rotor component of ATP synthase; the c-ring interacts with the stator via subunit a
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/">Bovine F1-ATPase (azide-inhibited form)</a> — Catalytic domain of the same ATP synthase; azide-inhibited structure used as MR search model (PDB 2CK3)
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/">Rotary ATPase Mechanism</a> — ATP synthase uses a rotary catalytic mechanism driven by the proton motive force
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/yeast-mitochondrial-atp-synthase-c10-ring/">Yeast Mitochondrial ATP Synthase c10 Ring</a> — Membrane rotor component of ATP synthase; the c-ring interacts with the stator via subunit a

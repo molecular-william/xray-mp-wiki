@@ -1,7 +1,7 @@
 ---
 title: "TmrAB Heterodimeric ABC Transporter from Thermus thermophilus"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,35 +17,353 @@ verified: false
 TmrAB (TmrA/TmrB) from *Thermus thermophilus* is a heterodimeric ABC half-transporter that serves as a structural and functional homolog of the human transporter associated with antigen processing (TAP). It is a multidrug resistance protein that transports peptides, fluorophores, and potentially lipids. TmrAB shares 27-30% sequence identity with human TAP1/TAP2 and can restore antigen processing in human TAP-deficient cells. The 2.7-Å crystal structure reveals an asymmetric inward-facing conformation with a single catalytically active ATP-binding site, making it a model system for asymmetric ABC exporters.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.1620009114 | 5MKK | 2.7 | — | Full-length TmrA (TTC0976) and TmrB (TTC0977) |  |
+### doi/10.1073##pnas.1620009114
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5mkk">5MKK</a></td>
+      <td>2.7</td>
+      <td>—</td>
+      <td>Full-length TmrA (TTC0976) and TmrB (TTC0977)</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli BL21(DE3)
 - **Construct**: Full-length TmrA and TmrB co-expressed
 - **Notes**: SeMet-labeled protein prepared using [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) Expression Media. Detailed cloning described in Materials and Methods.
 
-### Purification Workflow
+**Purification:**
 
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | French press | — | 20 mM Hepes pH 7.5, 300 mM NaCl | Lysozyme and DNase I added. Cell debris removed by centrifugation at 10,000 x g. |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | His-tag purification | — |  | Details of purification described in Materials and Methods |
-| Size-exclusion chromatography | SEC | — |  | Detailed in Materials and Methods |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>French press</td>
+      <td>—</td>
+      <td>20 mM Hepes pH 7.5, 300 mM NaCl</td>
+      <td>Lysozyme and DNase I added. Cell debris removed by centrifugation at 10,000 x g.</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>His-tag purification</td>
+      <td>—</td>
+      <td></td>
+      <td>Details of purification described in Materials and Methods</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>SEC</td>
+      <td>—</td>
+      <td></td>
+      <td>Detailed in Materials and Methods</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: Purified TmrAB in 20 mM Hepes pH 7.5, 140 mM NaCl, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/)
 
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-## Crystallization
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5mkk">5MKK</a> — Chain A (6 TMs, alpha)**
 
-No crystallization described.
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">TEDTYSKAF</span><span class="topo-outside">D</span><span class="topo-unknown">RALFARILRYV</span><span class="topo-membrane">WPYRLQVVLALLFLLVVTLAAA</span><span class="topo-inside">ATPLFFKWAIDLALVPT</span></span>
+<span class="topo-line"><span class="topo-inside">EPRPLAERFHLLLWISLGFL</span><span class="topo-membrane">AVRAVHFAATYGETYLIQWVG</span><span class="topo-outside">QRVLFDLRSDLFAKLMRLH</span></span>
+<span class="topo-line"><span class="topo-outside">PGFYDRNPVGRLMTRVTSDVDAINQ</span><span class="topo-membrane">FITGGLVGVIADLFTLVGLLG</span><span class="topo-inside">FMLFLSPKLTLVV</span><span class="topo-membrane">L</span></span>
+<span class="topo-line"><span class="topo-membrane">LVAPVLLAVTTWVRLGMR</span><span class="topo-outside">SAYREMRLRLARVNAALQENLSGVETIQLFVKEREREEKFDR</span></span>
+<span class="topo-line"><span class="topo-outside">LNRDLFRAWVEI</span><span class="topo-membrane">IRWFALFFPVVGFLGDFAV</span><span class="topo-inside">ASLVYYGGGEVVRGAVSLGLLVAFVD</span><span class="topo-membrane">YTR</span></span>
+<span class="topo-line"><span class="topo-membrane">QLFQPLQDLSDKFNLF</span><span class="topo-outside">QGAMASAERIFGVLDTEEELKDPEDPTPIRGFRGEVEFRDVWLA</span></span>
+<span class="topo-line"><span class="topo-outside">YTPKGVEPTEKDWVLKGVSFRVRPGEKVALVGATGAGKTSVVSLIARFYDPQRGCVFLDG</span></span>
+<span class="topo-line"><span class="topo-outside">VDVRRYRQEELRRHVGIVLQEPFLFSGTVLDNLRLFDPSVPPERVEEVARFLGAHEFILR</span></span>
+<span class="topo-line"><span class="topo-outside">LPKGYQTVLGERGAGLSTGEKQLLALVRALLASPDILLILDEATASVDSETEKRLQEALY</span></span>
+<span class="topo-line"><span class="topo-outside">KAMEGRTSLIIAHRLSTIRHVDRILVFRKGRLVEEGSHEELLAKGGYYAALYRLQFQEAK</span></span>
+<span class="topo-line"><span class="topo-outside">LG</span><span class="topo-unknown">GGGENLYFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>10</td>
+      <td>10</td>
+      <td>11</td>
+      <td>11</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>21</td>
+      <td>12</td>
+      <td>22</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>43</td>
+      <td>23</td>
+      <td>44</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>80</td>
+      <td>45</td>
+      <td>81</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>101</td>
+      <td>82</td>
+      <td>102</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>102</td>
+      <td>145</td>
+      <td>103</td>
+      <td>146</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td>166</td>
+      <td>147</td>
+      <td>167</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>167</td>
+      <td>179</td>
+      <td>168</td>
+      <td>180</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>180</td>
+      <td>198</td>
+      <td>181</td>
+      <td>199</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>252</td>
+      <td>200</td>
+      <td>253</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>253</td>
+      <td>271</td>
+      <td>254</td>
+      <td>272</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>272</td>
+      <td>297</td>
+      <td>273</td>
+      <td>298</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>298</td>
+      <td>316</td>
+      <td>299</td>
+      <td>317</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>317</td>
+      <td>602</td>
+      <td>318</td>
+      <td>603</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5mkk">5MKK</a> — Chain B (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">TGR</span><span class="topo-unknown">SAAPLLRRLWPYV</span><span class="topo-outside">GRYRW</span><span class="topo-membrane">RYLWAVLAGLVSIFFFVLTP</span><span class="topo-inside">YFLRLAVDAVQAGRGFGVY</span></span>
+<span class="topo-line"><span class="topo-inside">ALAI</span><span class="topo-membrane">VASAALSGLLSYAMRRLAV</span><span class="topo-outside">VASRQVEYDLRRDLLHHLLTLDRDFYHKHRVGDLMNR</span></span>
+<span class="topo-line"><span class="topo-outside">LNTDLSAVREMVGP</span><span class="topo-membrane">GILMGSRLSFLVLLAFLSMYA</span><span class="topo-inside">VNARLA</span><span class="topo-membrane">FYLTLILPGIFLAMRFLLR</span></span>
+<span class="topo-line"><span class="topo-membrane">LID</span><span class="topo-outside">RRYREAQEVFDRISTLAQEAFSGIRVVKGYALERRMVAWFQDLNRLYVEKSL</span><span class="topo-membrane">ALARV</span></span>
+<span class="topo-line"><span class="topo-membrane">EGPLHALLGFLMGFAFL</span><span class="topo-inside">TVLWAGGAMVVRGELSVGELVQF</span><span class="topo-membrane">NAYLAQLTWPILGLGWVM</span><span class="topo-outside">AL</span></span>
+<span class="topo-line"><span class="topo-outside">YQRGLTSLRRLFELLDEKPAIRDEDPLPLALEDLSGEVRFEGVGLKRDGRWLLRGLTLTI</span></span>
+<span class="topo-line"><span class="topo-outside">PEGMTLGITGRTGSGKSLLAALVPRLLDPSEGRVYVGGHEARRIPLAVLRKAVGVAPQEP</span></span>
+<span class="topo-line"><span class="topo-outside">FLFSETILENIAFGLDEVDRERVEWAARLAGIHEEILAFPKGYETVLGERGITLSGGQRQ</span></span>
+<span class="topo-line"><span class="topo-outside">RVALARALAKRPKILILDDALSAVDAETEARILQGLKTVLGKQTTLLISHRTAALRHADW</span></span>
+<span class="topo-line"><span class="topo-outside">IIVLDGGRIVEEGTHESLLQAGGLYAEMDRLQKEVEA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>2</td>
+      <td>4</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>16</td>
+      <td>5</td>
+      <td>17</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>21</td>
+      <td>18</td>
+      <td>22</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>41</td>
+      <td>23</td>
+      <td>42</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>64</td>
+      <td>43</td>
+      <td>65</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>83</td>
+      <td>66</td>
+      <td>84</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>134</td>
+      <td>85</td>
+      <td>135</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>155</td>
+      <td>136</td>
+      <td>156</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>156</td>
+      <td>161</td>
+      <td>157</td>
+      <td>162</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>162</td>
+      <td>183</td>
+      <td>163</td>
+      <td>184</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>184</td>
+      <td>235</td>
+      <td>185</td>
+      <td>236</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>236</td>
+      <td>257</td>
+      <td>237</td>
+      <td>258</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>280</td>
+      <td>259</td>
+      <td>281</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>281</td>
+      <td>298</td>
+      <td>282</td>
+      <td>299</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>299</td>
+      <td>577</td>
+      <td>300</td>
+      <td>578</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -76,13 +394,13 @@ The C-terminal helices of TmrA and TmrB form a zipper-like structure that plays 
 
 ## Cross-References
 
-- [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — TmrAB is a heterodimeric ABC exporter and member of the ABC transporter superfamily
-- [ABC Transporter Allosteric Regulation](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-allosteric-regulation/) — TmrAB exhibits asymmetric ATP hydrolysis with one degenerate nucleotide-binding site
-- [Conformational Asymmetry in ABC Transporters](/xray-mp-wiki/concepts/transport-mechanisms/conformational-asymmetry-abc-transporters/) — TmrAB structure reveals asymmetric inward-facing state with C-terminal zipper helices
-- [Buffer HEPES](/xray-mp-wiki/reagents/buffers/hepes/) — Used in purification and reconstitution buffers for TmrAB
-- [POPE (1-Palmitoyl-2-Oleoyl-Phosphatidylethanolamine)](/xray-mp-wiki/reagents/lipids/pope/) — Used in MD simulations and lipid modulation studies of TmrAB
-- [POPG (1-Palmitoyl-2-Oleoyl-Phosphatidylglycerol)](/xray-mp-wiki/reagents/lipids/popg/) — Used in MD simulations; 30% PG essential for TmrAB activity
-- [POPC (1-Palmitoyl-2-Oleoyl-Phosphatidylcholine)](/xray-mp-wiki/reagents/lipids/popc/) — Used in liposome reconstitution for TmrAB transport assays
-- [Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) — Used as a minor component (5 mol%) in liposome reconstitution
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/">ABC Transporter Family</a> — TmrAB is a heterodimeric ABC exporter and member of the ABC transporter superfamily
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-allosteric-regulation/">ABC Transporter Allosteric Regulation</a> — TmrAB exhibits asymmetric ATP hydrolysis with one degenerate nucleotide-binding site
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/conformational-asymmetry-abc-transporters/">Conformational Asymmetry in ABC Transporters</a> — TmrAB structure reveals asymmetric inward-facing state with C-terminal zipper helices
+- <a href="/xray-mp-wiki/reagents/buffers/hepes/">Buffer HEPES</a> — Used in purification and reconstitution buffers for TmrAB
+- <a href="/xray-mp-wiki/reagents/lipids/pope/">POPE (1-Palmitoyl-2-Oleoyl-Phosphatidylethanolamine)</a> — Used in MD simulations and lipid modulation studies of TmrAB
+- <a href="/xray-mp-wiki/reagents/lipids/popg/">POPG (1-Palmitoyl-2-Oleoyl-Phosphatidylglycerol)</a> — Used in MD simulations; 30% PG essential for TmrAB activity
+- <a href="/xray-mp-wiki/reagents/lipids/popc/">POPC (1-Palmitoyl-2-Oleoyl-Phosphatidylcholine)</a> — Used in liposome reconstitution for TmrAB transport assays
+- <a href="/xray-mp-wiki/reagents/lipids/cardiolipin/">Cardiolipin</a> — Used as a minor component (5 mol%) in liposome reconstitution
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Additive used in purification or crystallization buffers

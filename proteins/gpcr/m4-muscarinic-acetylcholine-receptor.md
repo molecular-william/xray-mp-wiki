@@ -1,7 +1,7 @@
 ---
 title: "Human M4 Muscarinic Acetylcholine Receptor"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,48 +17,290 @@ verified: false
 The human M4 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/) receptor (M4 mAChR) is a class A G protein-coupled receptor that mediates inhibitory cholinergic neurotransmission in the central nervous system. It couples to Gi/Go family G proteins and is highly expressed in the striatum, where it plays a critical role in motor control and cognitive function. The M4 receptor has emerged as an attractive drug target for schizophrenia, as selective M4 positive allosteric modulators (PAMs) have demonstrated preclinical efficacy. The first crystal structure of the M4 receptor was solved in complex with the inverse agonist [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/) at 2.6 A resolution, revealing the orthosteric binding site and a network of residues linking the orthosteric and allosteric sites.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature17188 | 5DSG | 2.6 A | P 1 21 1 | Human M4 muscarinic receptor, N-terminal FLAG epitope tag, N-terminus truncated (residues 1-21 removed), residues 226-389 of ICL3 replaced by minimal T4 lysozyme (mT4L), C-terminal 8x histidine tag
- | [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/) |
+### doi/10.1038##nature17188
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5dsg">5DSG</a></td>
+      <td>2.6 A</td>
+      <td>P 1 21 1</td>
+      <td>Human M4 muscarinic receptor, N-terminal FLAG epitope tag, N-terminus truncated (residues 1-21 removed), residues 226-389 of ICL3 replaced by minimal T4 lysozyme (mT4L), C-terminal 8x histidine tag
+</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/tiotropium/">Tiotropium</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Sf9 insect cells (baculovirus expression vector system)
 - **Construct**: Human M4 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/) receptor with N-terminal FLAG epitope tag, N-terminus truncated (residues 1-21 removed by [HRV 3C Protease](/xray-mp-wiki/reagents/additives/hrv-3c-protease/) cleavage at engineered HRV 3C site), residues 226-389 of ICL3 replaced by minimal Cys-free T4 lysozyme fusion (mT4L), and C-terminal deca-histidine tag. Expressed using the Bac-to-Bac Baculovirus Expression System (Invitrogen) in Sf9 cells.
 
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Sf9 cell expression</td>
+      <td>Baculovirus expression in <a href="/xray-mp-wiki/methods/expression-systems/sf9-expression-system/">Sf9 insect cells</a></td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>Cells infected at density of 4.0-5.0 x 10^6 cells/mL, treated with 10 uM <a href="/xray-mp-wiki/reagents/ligands/atropine/">Atropine</a>, harvested at 60 hours</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Membrane solubilization in presence of <a href="/xray-mp-wiki/reagents/ligands/tiotropium/">Tiotropium</a></td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>Receptor solubilized and purified in presence of <a href="/xray-mp-wiki/reagents/ligands/tiotropium/">Tiotropium</a> as previously described for M3 receptor</td>
+    </tr>
+    <tr>
+      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin</td>
+      <td>-- + --</td>
+      <td>First purification step via C-terminal <a href="/xray-mp-wiki/reagents/protein-tags/his-tag/">His tag</a></td>
+    </tr>
+    <tr>
+      <td>FLAG <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> affinity resin</td>
+      <td>-- + --</td>
+      <td>Second purification step via N-terminal <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> epitope tag</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td>Size exclusion column</td>
+      <td>-- + --</td>
+      <td>N-terminus cleaved with <a href="/xray-mp-wiki/reagents/additives/hrv-3c-protease/">HRV 3C Protease</a> (2% w/w) during concentration prior to SEC (~2hr at 4 degrees C). Purified receptor concentrated to 85 AU (~50 mg/mL) and flash frozen in small aliquots using <a href="/xray-mp-wiki/concepts/methods-techniques/cryocooling/">liquid nitrogen</a>.</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Sf9 cell expression | Baculovirus expression in Sf9 insect cells | -- | -- + -- | Cells infected at density of 4.0-5.0 x 10^6 cells/mL, treated with 10 uM [Atropine](/xray-mp-wiki/reagents/ligands/atropine/), harvested at 60 hours |
-| Solubilization | Membrane solubilization in presence of [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/) | -- | -- + -- | Receptor solubilized and purified in presence of [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/) as previously described for M3 receptor |
-| Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA resin | -- + -- | First purification step via C-terminal His tag |
-| FLAG [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | FLAG [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | FLAG affinity resin | -- + -- | Second purification step via N-terminal FLAG epitope tag |
-| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | Size exclusion column | -- + -- | N-terminus cleaved with [HRV 3C Protease](/xray-mp-wiki/reagents/additives/hrv-3c-protease/) (2% w/w) during concentration prior to SEC (~2hr at 4 degrees C). Purified receptor concentrated to 85 AU (~50 mg/mL) and flash frozen in small aliquots using liquid nitrogen. |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic cubic phase (LCP) crystallization</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>M4-<a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">mT4L</a> bound to <a href="/xray-mp-wiki/reagents/ligands/tiotropium/">Tiotropium</a>, reconstituted by mixing protein solution into 10:1 (w/w) <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a>:<a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a> in 1:1.5 parts w/w protein:lipid ratio using the two-syringe method. Sample volume 20-40 nL.
+</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 degrees Celsius</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Initial crystals formed after 24 hours</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Crystals harvested using mesh grid loops and stored in <a href="/xray-mp-wiki/concepts/methods-techniques/cryocooling/">liquid nitrogen</a></td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>M4-<a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">mT4L</a> crystallized in space group P 1 21 1. Data processed using XDS. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using inactive M2 structure (PDB: 3UON) and inactive M3-<a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">mT4L</a> (PDB: 4U15) as search models for receptor and <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">mT4L</a> fusion domains respectively. Refinement carried out in Phenix with manual building in Coot. 64 crystals used. Final Rwork/Rfree: 22.7%/24.0%.
+</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5dsg">5DSG</a> — Chain A (7 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">GPSSHNRYETVEMV</span><span class="topo-membrane">FIATVTGSLSLVTVVGNILVMLSIK</span><span class="topo-inside">VNRQLQTVNN</span><span class="topo-membrane">YFLFSLACADL</span></span>
+<span class="topo-line"><span class="topo-membrane">IIGAFSMNLYTVYI</span><span class="topo-outside">IKGYWPLGAV</span><span class="topo-membrane">VCDLWLALDYVVSNASVMNLLIISF</span><span class="topo-inside">DRYFCVTKPLT</span></span>
+<span class="topo-line"><span class="topo-inside">YPARRTTKMA</span><span class="topo-membrane">GLMIAAAWVLSFVLWAPAILFWQFVV</span><span class="topo-outside">GKRTVPDNQCFIQFL</span><span class="topo-membrane">SNPAVTFGT</span></span>
+<span class="topo-line"><span class="topo-membrane">AIAAFYLPVVIMTVLYI</span><span class="topo-inside">HISLASRSRVNIFEMLRIDE</span><span class="topo-unknown">GGGSGGD</span><span class="topo-inside">EAEKLFNQDVDAAVRG</span></span>
+<span class="topo-line"><span class="topo-inside">ILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSR</span></span>
+<span class="topo-line"><span class="topo-inside">WYNQTPNRAKRVITTFRTGTWDAY</span><span class="topo-unknown">QMAARE</span><span class="topo-inside">RKVTR</span><span class="topo-membrane">TIFAILLAFILTWTPYNVMVLVNTF</span></span>
+<span class="topo-line"><span class="topo-membrane">CQ</span><span class="topo-outside">SCIPDT</span><span class="topo-membrane">VWSIGYWLCYVNSTINPACYALCN</span><span class="topo-inside">ATFKKTFRHLLLC</span><span class="topo-unknown">QYRNIGTARHHHHHH</span></span>
+<span class="topo-line"><span class="topo-unknown">HH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>14</td>
+      <td>20</td>
+      <td>33</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>39</td>
+      <td>34</td>
+      <td>58</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>49</td>
+      <td>59</td>
+      <td>68</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>74</td>
+      <td>69</td>
+      <td>93</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>84</td>
+      <td>94</td>
+      <td>103</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>109</td>
+      <td>104</td>
+      <td>128</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>110</td>
+      <td>130</td>
+      <td>129</td>
+      <td>149</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>131</td>
+      <td>156</td>
+      <td>150</td>
+      <td>175</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>171</td>
+      <td>176</td>
+      <td>190</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>172</td>
+      <td>197</td>
+      <td>191</td>
+      <td>216</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>207</td>
+      <td>217</td>
+      <td>226</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>208</td>
+      <td>217</td>
+      <td>1002</td>
+      <td>1011</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>225</td>
+      <td>324</td>
+      <td>1019</td>
+      <td>1118</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>331</td>
+      <td>335</td>
+      <td>396</td>
+      <td>400</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>336</td>
+      <td>362</td>
+      <td>401</td>
+      <td>427</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>363</td>
+      <td>368</td>
+      <td>428</td>
+      <td>433</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>369</td>
+      <td>392</td>
+      <td>434</td>
+      <td>457</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>393</td>
+      <td>405</td>
+      <td>458</td>
+      <td>470</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>406</td>
+      <td>422</td>
+      <td>471</td>
+      <td>487</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##nature17188
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) crystallization |
-| Protein sample | M4-mT4L bound to [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/), reconstituted by mixing protein solution into 10:1 (w/w) [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/):[Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) in 1:1.5 parts w/w protein:lipid ratio using the two-syringe method. Sample volume 20-40 nL.
- |
-| Temperature | 20 degrees Celsius |
-| Growth time | Initial crystals formed after 24 hours |
-| Cryoprotection | Crystals harvested using mesh grid loops and stored in liquid nitrogen |
-| Notes | M4-mT4L crystallized in space group P 1 21 1. Data processed using XDS. Structure solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) using inactive M2 structure (PDB: 3UON) and inactive M3-mT4L (PDB: 4U15) as search models for receptor and mT4L fusion domains respectively. Refinement carried out in Phenix with manual building in Coot. 64 crystals used. Final Rwork/Rfree: 22.7%/24.0%.
- |
-
+</div>
 
 ## Biological / Functional Insights
 
@@ -85,13 +327,13 @@ The M4 structure is overall similar to M1, M2, and M3 with RMSD of 0.6-0.9 A (ex
 
 ## Cross-References
 
-- [M1 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m1-muscarinic-acetylcholine-receptor/) — Related muscarinic receptor subtype; co-crystallized with tiotropium in same study
-- [Human M2 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m2-muscarinic-acetylcholine-receptor/) — Related muscarinic receptor subtype; used as search model for M4 structure determination (PDB 3UON)
-- [M3 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m3-muscarinic-acetylcholine-receptor/) — Related muscarinic receptor subtype; used as search model for mT4L fusion (PDB 4U15)
-- [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/) — Inverse agonist co-crystallized with M4 receptor (PDB 5DSG)
-- [mT4L (Minimal T4 Lysozyme)](/xray-mp-wiki/proteins/gpcr/mt4l-lysozyme/) — Minimal T4 lysozyme fusion used to replace ICL3 for crystallization
-- [Flag Epitope Tag (DYKDDDDK)](/xray-mp-wiki/reagents/protein-tags/flag-tag/) — N-terminal FLAG tag used for purification and as crystallization construct component
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — LCP lipid matrix used for M4 crystallization (10:1 monoolein:cholesterol)
-- [Allosteric Regulation in Membrane Proteins](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — M4 receptor allosteric site and cooperativity network central to paper findings
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/gpcr/m1-muscarinic-acetylcholine-receptor/">M1 Muscarinic Acetylcholine Receptor</a> — Related muscarinic receptor subtype; co-crystallized with tiotropium in same study
+- <a href="/xray-mp-wiki/proteins/gpcr/m2-muscarinic-acetylcholine-receptor/">Human M2 Muscarinic Acetylcholine Receptor</a> — Related muscarinic receptor subtype; used as search model for M4 structure determination (PDB 3UON)
+- <a href="/xray-mp-wiki/proteins/gpcr/m3-muscarinic-acetylcholine-receptor/">M3 Muscarinic Acetylcholine Receptor</a> — Related muscarinic receptor subtype; used as search model for mT4L fusion (PDB 4U15)
+- <a href="/xray-mp-wiki/reagents/ligands/tiotropium/">Tiotropium</a> — Inverse agonist co-crystallized with M4 receptor (PDB 5DSG)
+- <a href="/xray-mp-wiki/proteins/gpcr/mt4l-lysozyme/">mT4L (Minimal T4 Lysozyme)</a> — Minimal T4 lysozyme fusion used to replace ICL3 for crystallization
+- <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">Flag Epitope Tag (DYKDDDDK)</a> — N-terminal FLAG tag used for purification and as crystallization construct component
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — LCP lipid matrix used for M4 crystallization (10:1 monoolein:cholesterol)
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/">Allosteric Regulation in Membrane Proteins</a> — M4 receptor allosteric site and cooperativity network central to paper findings
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> — Method used in structure determination or purification

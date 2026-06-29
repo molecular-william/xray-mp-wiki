@@ -1,7 +1,7 @@
 ---
 title: "Human Vitamin K Epoxide Reductase (HsVKOR)"
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,66 +17,843 @@ verified: false
 Human [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide reductase (HsVKOR) is an integral membrane enzyme of the endoplasmic reticulum that catalyzes the reduction of [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide to [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) hydroquinone, a critical step in the [Vitamin K Cycle](/xray-mp-wiki/concepts/enzyme-mechanisms/vitamin-k-cycle/) that sustains blood coagulation. HsVKOR is the target of [Warfarin](/xray-mp-wiki/reagents/ligands/warfarin/) and related [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) antagonists, which are widely used oral anticoagulants. The structure reveals a four-transmembrane-helix bundle (TM1-4) that creates a central pocket housing the active site cysteines Cys132 and Cys135. A large ER-luminal region connecting TM1 and TM2 contains a beta-hairpin, cap domain, and anchor domain that together cover the active site pocket. The enzyme undergoes open-to-closed conformational changes during its catalytic cycle, and [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) antagonists inhibit by mimicking the binding interactions of the natural substrates.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1126##science.abc5667 | 6WV3 | 3.2 | C2221 | HsVKOR (3-155) with sfGFP fusion at termini; N- and C-termini restrained by split sfGFP | [Warfarin](/xray-mp-wiki/reagents/ligands/warfarin/) |
-| doi/10.1126##science.abc5667 | 6WV6 | 3.1 | P212121 | HsVKOR (3-155) with sfGFP fusion at termini | [Phenindione](/xray-mp-wiki/reagents/ligands/phenindione/) |
-| doi/10.1126##science.abc5667 | 6WVH | 3.2 | C2221 | HsVKOR (3-155) with sfGFP fusion at termini | [Brodifacoum](/xray-mp-wiki/reagents/ligands/brodifacoum/) |
-| doi/10.1126##science.abc5667 | 6WV7 | 3.1 | I222 | HsVKOR (3-155) with sfGFP fusion at termini | [Chlorophacinone](/xray-mp-wiki/reagents/ligands/chlorophacinone/) |
-| doi/10.1126##science.abc5667 | 6WV4 | 3.2 | C2221 | HsVKOR Cys43Ser mutant (3-155) with sfGFP fusion at termini | [Warfarin](/xray-mp-wiki/reagents/ligands/warfarin/) |
-| doi/10.1126##science.abc5667 | 6WV5 | 3.0 | C2221 | HsVKOR Cys43Ser mutant (3-155) with sfGFP fusion at termini | [Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide (KO) adduct |
+### doi/10.1126##science.abc5667
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6wv3">6WV3</a></td>
+      <td>3.2</td>
+      <td>C2221</td>
+      <td>HsVKOR (3-155) with sfGFP fusion at termini; N- and C-termini restrained by split sfGFP</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/warfarin/">Warfarin</a></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6wv6">6WV6</a></td>
+      <td>3.1</td>
+      <td>P212121</td>
+      <td>HsVKOR (3-155) with sfGFP fusion at termini</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/phenindione/">Phenindione</a></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6wvh">6WVH</a></td>
+      <td>3.2</td>
+      <td>C2221</td>
+      <td>HsVKOR (3-155) with sfGFP fusion at termini</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/brodifacoum/">Brodifacoum</a></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6wv7">6WV7</a></td>
+      <td>3.1</td>
+      <td>I222</td>
+      <td>HsVKOR (3-155) with sfGFP fusion at termini</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/chlorophacinone/">Chlorophacinone</a></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6wv4">6WV4</a></td>
+      <td>3.2</td>
+      <td>C2221</td>
+      <td>HsVKOR Cys43Ser mutant (3-155) with sfGFP fusion at termini</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/warfarin/">Warfarin</a></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6wv5">6WV5</a></td>
+      <td>3.0</td>
+      <td>C2221</td>
+      <td>HsVKOR Cys43Ser mutant (3-155) with sfGFP fusion at termini</td>
+      <td><a href="/xray-mp-wiki/reagents/cofactors/vitamin-k/">Vitamin K</a> epoxide (KO) adduct</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Pichia pastoris (split sfGFP fusion)
 - **Construct**: HsVKOR (3-155) with N- and C-terminal halves of superfolder GFP (sfGFP); codon-optimized
 - **Notes**: Termini-restrained construct catalytically active and inhibitable by [Warfarin](/xray-mp-wiki/reagents/ligands/warfarin/) both in cells and after purification
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: Pichia pastoris
 - **Expression construct**: HsVKOR (3-155) with sfGFP fusion at N- and C-termini
 - **Tag info**: Split superfolder GFP (sfGFP) fused to N- and C-termini
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture and induction | [Methanol](/xray-mp-wiki/reagents/additives/methanol/) induction in Pichia pastoris |  | BMG media (1.2% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.34% YNB, 1% [Ammonium Sulfate](/xray-mp-wiki/reagents/additives/ammonium-sulfate/), 0.4 ug/mL biotin, 100 mM potassium phosphate pH 6.0); BMM media for induction | 1 L culture in BMG at 30C for 20 hr, then switched to BMM with 0.7% [Methanol](/xray-mp-wiki/reagents/additives/methanol/) at 25C for 2 days |
-| Cell lysis | Ball mill |  | 225 mM NaCl, 75 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 10 ug/mL DNase I + 2% n-Dodecyl-beta-D-maltopyranoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) | Frozen cells broken by ball mill; membranes solubilized with [DDM](/xray-mp-wiki/reagents/detergents/ddm/) for 3 hr at 4C |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON](/xray-mp-wiki/reagents/additives/talon/) metal-affinity resin (Clontech) | Wash: 10 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 150 mM NaCl, 0.2% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 20 mM Tris pH 8.0; Elution: 250 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 150 mM NaCl, 0.2% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 20 mM Tris pH 8.0
- + 0.2% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Protein incubated with [TALON](/xray-mp-wiki/reagents/additives/talon/) resin for 3 hr at 4C; washed and eluted |
-| Size-exclusion chromatography | Size-exclusion chromatography (SEC) | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | 150 mM NaCl, 20 mM Tris pH 8.0 + 0.05% Lauryl [Maltose](/xray-mp-wiki/reagents/additives/maltose/) neopentyl glycol ([LMNG](/xray-mp-wiki/reagents/detergents/lmng/)) | Peak fractions collected; concentrated to 40 mg/mL for crystallization |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture and induction</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/methanol/">Methanol</a> induction in Pichia pastoris</td>
+      <td></td>
+      <td>BMG media (1.2% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.34% YNB, 1% <a href="/xray-mp-wiki/reagents/additives/ammonium-sulfate/">Ammonium Sulfate</a>, 0.4 ug/mL biotin, 100 mM potassium phosphate pH 6.0); BMM media for induction</td>
+      <td>1 L culture in BMG at 30C for 20 hr, then switched to BMM with 0.7% <a href="/xray-mp-wiki/reagents/additives/methanol/">Methanol</a> at 25C for 2 days</td>
+    </tr>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Ball mill</td>
+      <td></td>
+      <td>225 mM NaCl, 75 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 10 ug/mL DNase I + 2% n-Dodecyl-beta-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
+      <td>Frozen cells broken by ball mill; membranes solubilized with <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> for 3 hr at 4C</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> metal-affinity resin (Clontech)</td>
+      <td>Wash: 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 150 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 20 mM Tris pH 8.0; Elution: 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 150 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 20 mM Tris pH 8.0
+ + 0.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Protein incubated with <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin for 3 hr at 4C; washed and eluted</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>Size-exclusion chromatography (SEC)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
+      <td>150 mM NaCl, 20 mM Tris pH 8.0 + 0.05% Lauryl <a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a> neopentyl glycol (<a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>)</td>
+      <td>Peak fractions collected; concentrated to 40 mg/mL for crystallization</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: 40 mg/mL in 150 mM NaCl, 20 mM Tris pH 8.0, 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/)
 
+**Crystallization:**
 
-## Crystallization
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>HsVKOR (sfGFP fusion) with pre-bound VKA ligands; 40 mg/mL</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a></td>
+    </tr>
+    <tr>
+      <td>Protein-to-lipid ratio</td>
+      <td>2:3 (v/v)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Crystals appeared within one week, optimal size after several weeks</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Ligands added during purification (HsVKOR unstable without ligand). Crystals harvested from lipid bolus and flash-frozen in liquid nitrogen. Data collected at APS NE-CAT beamlines 24ID-C and 24ID-E.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>HsVKOR Cys43Ser mutant (sfGFP fusion); 40 mg/mL</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a></td>
+    </tr>
+    <tr>
+      <td>Protein-to-lipid ratio</td>
+      <td>2:3 (v/v)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Several weeks</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Co-crystallized with KO (<a href="/xray-mp-wiki/reagents/cofactors/vitamin-k/">Vitamin K</a> epoxide) mixed with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a></td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-### doi/10.1126##science.abc5667
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6wv3">6WV3</a> — Chain A (4 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Protein sample | HsVKOR (sfGFP fusion) with pre-bound VKA ligands; 40 mg/mL |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) |
-| Protein-to-lipid ratio | 2:3 (v/v) |
-| Temperature | 22 |
-| Growth time | Crystals appeared within one week, optimal size after several weeks |
-| Notes | Ligands added during purification (HsVKOR unstable without ligand). Crystals harvested from lipid bolus and flash-frozen in liquid nitrogen. Data collected at APS NE-CAT beamlines 24ID-C and 24ID-E. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-inside">KGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTL</span></span>
+<span class="topo-line"><span class="topo-inside">VTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
+<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNSTWGS</span><span class="topo-membrane">PGWVRLALCLTGLVLSL</span><span class="topo-outside">YALHVKAARARDRDYR</span></span>
+<span class="topo-line"><span class="topo-outside">ALCDVGTAISCSRVFSSRWGRGFGLVEHVLGQDSILNQSN</span><span class="topo-membrane">SIFGCIFYTLQLLLGCL</span><span class="topo-inside">RTR</span></span>
+<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">ASVLMLLSSLVSLAGSVYLAW</span><span class="topo-outside">ILFFVLYDFCIV</span><span class="topo-membrane">CITTYAINVSLMWLSFRKV</span><span class="topo-inside">QENSHNV</span></span>
+<span class="topo-line"><span class="topo-inside">YITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKD</span></span>
+<span class="topo-line"><span class="topo-inside">PNEKRDHMVLLEFVTAAGITHHH</span><span class="topo-unknown">HHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>3</td>
+      <td>64</td>
+      <td>3</td>
+      <td>64</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>147</td>
+      <td>68</td>
+      <td>149</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>164</td>
+      <td>150</td>
+      <td>166</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>220</td>
+      <td>167</td>
+      <td>222</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>221</td>
+      <td>237</td>
+      <td>223</td>
+      <td>239</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>238</td>
+      <td>241</td>
+      <td>240</td>
+      <td>243</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>242</td>
+      <td>262</td>
+      <td>244</td>
+      <td>264</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>263</td>
+      <td>274</td>
+      <td>265</td>
+      <td>276</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>275</td>
+      <td>293</td>
+      <td>277</td>
+      <td>295</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>294</td>
+      <td>383</td>
+      <td>296</td>
+      <td>385</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Protein sample | HsVKOR Cys43Ser mutant (sfGFP fusion); 40 mg/mL |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) |
-| Protein-to-lipid ratio | 2:3 (v/v) |
-| Temperature | 22 |
-| Growth time | Several weeks |
-| Notes | Co-crystallized with KO ([Vitamin K](/xray-mp-wiki/reagents/cofactors/vitamin-k/) epoxide) mixed with [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6wv6">6WV6</a> — Chain A (4 TMs, alpha)**
 
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTL</span></span>
+<span class="topo-line"><span class="topo-outside">VTTL</span><span class="topo-unknown">G</span><span class="topo-outside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
+<span class="topo-line"><span class="topo-outside">IELKGIDFKEDGNILGHKLEYNSTWGS</span><span class="topo-membrane">PGWVRLALCLTGLVLSLYALHVKA</span><span class="topo-inside">ARARDRDYR</span></span>
+<span class="topo-line"><span class="topo-inside">ALCDVGTAISCSRVFSSRWGRGFGLV</span><span class="topo-membrane">EHVLGQDSILNQSNSIFGCIFYTLQLLLGCL</span><span class="topo-outside">RTR</span></span>
+<span class="topo-line"><span class="topo-outside">W</span><span class="topo-membrane">ASVLMLLSSLVSLAGSVYLAWILFF</span><span class="topo-inside">VLYDF</span><span class="topo-membrane">CIVCITTYAINVSLMWLSFRKVQ</span><span class="topo-outside">ENSHNV</span></span>
+<span class="topo-line"><span class="topo-outside">YITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKD</span></span>
+<span class="topo-line"><span class="topo-outside">PNEKRDHMVLLEFVTAAGITHHH</span><span class="topo-unknown">HHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>64</td>
+      <td>2</td>
+      <td>64</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>147</td>
+      <td>68</td>
+      <td>149</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>171</td>
+      <td>150</td>
+      <td>173</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>172</td>
+      <td>206</td>
+      <td>174</td>
+      <td>208</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>207</td>
+      <td>237</td>
+      <td>209</td>
+      <td>239</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>238</td>
+      <td>241</td>
+      <td>240</td>
+      <td>243</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>242</td>
+      <td>266</td>
+      <td>244</td>
+      <td>268</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>267</td>
+      <td>271</td>
+      <td>269</td>
+      <td>273</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>272</td>
+      <td>294</td>
+      <td>274</td>
+      <td>296</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>295</td>
+      <td>383</td>
+      <td>297</td>
+      <td>385</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6wvh">6WVH</a> — Chain A (4 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTL</span></span>
+<span class="topo-line"><span class="topo-inside">VTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
+<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNSTWGS</span><span class="topo-membrane">PGWVRLALCLTGLVLSLYALHVKA</span><span class="topo-outside">ARARDRDYR</span></span>
+<span class="topo-line"><span class="topo-outside">ALCDVGTAIS</span><span class="topo-unknown">CSRVFS</span><span class="topo-outside">SRWGRGFGLV</span><span class="topo-membrane">EHVLGQDSILNQSNSIFGCIFYTLQLLLGCL</span><span class="topo-inside">RTR</span></span>
+<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">ASVLMLLSSLVSLAGSVYLAWILF</span><span class="topo-outside">FVLYDF</span><span class="topo-membrane">CIVCITTYAINVSLMWLSFRKVQ</span><span class="topo-inside">ENSHNV</span></span>
+<span class="topo-line"><span class="topo-inside">YITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKD</span></span>
+<span class="topo-line"><span class="topo-inside">PNEKRDHMVLLEFVTAAGITHH</span><span class="topo-unknown">HHHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>64</td>
+      <td>2</td>
+      <td>64</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>147</td>
+      <td>68</td>
+      <td>149</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>171</td>
+      <td>150</td>
+      <td>173</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>172</td>
+      <td>190</td>
+      <td>174</td>
+      <td>192</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>191</td>
+      <td>196</td>
+      <td>193</td>
+      <td>198</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>197</td>
+      <td>206</td>
+      <td>199</td>
+      <td>208</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>207</td>
+      <td>237</td>
+      <td>209</td>
+      <td>239</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>238</td>
+      <td>241</td>
+      <td>240</td>
+      <td>243</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>242</td>
+      <td>265</td>
+      <td>244</td>
+      <td>267</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>266</td>
+      <td>271</td>
+      <td>268</td>
+      <td>273</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>272</td>
+      <td>294</td>
+      <td>274</td>
+      <td>296</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>295</td>
+      <td>382</td>
+      <td>297</td>
+      <td>384</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6wv7">6WV7</a> — Chain A (4 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">SKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTL</span></span>
+<span class="topo-line"><span class="topo-outside">VTTL</span><span class="topo-unknown">G</span><span class="topo-outside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
+<span class="topo-line"><span class="topo-outside">IELKGIDFKEDGNILGHKLEYNSTWGS</span><span class="topo-membrane">PGWVRLALCLTGLVLSLYALHV</span><span class="topo-inside">KAARARDRDYR</span></span>
+<span class="topo-line"><span class="topo-inside">ALCDVGTAISCSRVFSSRWGRGFGLV</span><span class="topo-membrane">EHVLGQDSILNQSNSIFGCIFYTLQLLLGCL</span><span class="topo-outside">RTR</span></span>
+<span class="topo-line"><span class="topo-outside">W</span><span class="topo-membrane">ASVLMLLSSLVSLAGSVYLAWIL</span><span class="topo-inside">FFVLYDFC</span><span class="topo-membrane">IVCITTYAINVSLMWLSFRKVQ</span><span class="topo-outside">ENSHNV</span></span>
+<span class="topo-line"><span class="topo-outside">YITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKD</span></span>
+<span class="topo-line"><span class="topo-outside">PNEKRDHMVLLEFVTAAGITHH</span><span class="topo-unknown">HHHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>64</td>
+      <td>2</td>
+      <td>64</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>147</td>
+      <td>68</td>
+      <td>149</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>169</td>
+      <td>150</td>
+      <td>171</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>170</td>
+      <td>206</td>
+      <td>172</td>
+      <td>208</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>207</td>
+      <td>237</td>
+      <td>209</td>
+      <td>239</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>238</td>
+      <td>241</td>
+      <td>240</td>
+      <td>243</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>242</td>
+      <td>264</td>
+      <td>244</td>
+      <td>266</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>265</td>
+      <td>272</td>
+      <td>267</td>
+      <td>274</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>273</td>
+      <td>294</td>
+      <td>275</td>
+      <td>296</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>295</td>
+      <td>382</td>
+      <td>297</td>
+      <td>384</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6wv4">6WV4</a> — Chain A (4 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">SKGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICT</span><span class="topo-unknown">T</span><span class="topo-inside">GKLPVPWPTL</span></span>
+<span class="topo-line"><span class="topo-inside">VTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
+<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNSTWGS</span><span class="topo-membrane">PGWVRLALCLTGLVLSLYAL</span><span class="topo-outside">HVKAA</span><span class="topo-unknown">RARDRDYR</span></span>
+<span class="topo-line"><span class="topo-unknown">ALSDV</span><span class="topo-outside">GTAISCSRVFSSRWGRGFGLVEHVLGQDS</span><span class="topo-membrane">ILNQSNSIFGCIFYTLQLLLGCL</span><span class="topo-inside">RTR</span></span>
+<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">ASVLMLLSSLVSLAGSVYLA</span><span class="topo-outside">WILFFVLYDFCIV</span><span class="topo-membrane">CITTYAINVSLMWLSFRKVQ</span><span class="topo-inside">ENSHNV</span></span>
+<span class="topo-line"><span class="topo-inside">YITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKD</span></span>
+<span class="topo-line"><span class="topo-inside">PNEKRDHMVLLEFVTAAGI</span><span class="topo-unknown">THHHHHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>49</td>
+      <td>2</td>
+      <td>49</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>64</td>
+      <td>51</td>
+      <td>64</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>147</td>
+      <td>68</td>
+      <td>149</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>167</td>
+      <td>150</td>
+      <td>169</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>168</td>
+      <td>172</td>
+      <td>170</td>
+      <td>174</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>186</td>
+      <td>214</td>
+      <td>188</td>
+      <td>216</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>215</td>
+      <td>237</td>
+      <td>217</td>
+      <td>239</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>238</td>
+      <td>241</td>
+      <td>240</td>
+      <td>243</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>242</td>
+      <td>261</td>
+      <td>244</td>
+      <td>263</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>262</td>
+      <td>274</td>
+      <td>264</td>
+      <td>276</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>275</td>
+      <td>294</td>
+      <td>277</td>
+      <td>296</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>295</td>
+      <td>379</td>
+      <td>297</td>
+      <td>381</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6wv5">6WV5</a> — Chain A (4 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MS</span><span class="topo-inside">KGEELFTGVVPILVELDGDVNGHKFSVRGEGEGDATNGKLTLKFICTTGKLPVPWPTL</span></span>
+<span class="topo-line"><span class="topo-inside">VTTL</span><span class="topo-unknown">G</span><span class="topo-inside">VQCFSRYPDHMKRHDFFKSAMPEGYVQERTISFKDDGTYKTRAEVKFEGDTLVNR</span></span>
+<span class="topo-line"><span class="topo-inside">IELKGIDFKEDGNILGHKLEYNSTWGS</span><span class="topo-membrane">PGWVRLALCLTGLVLSLYALHVKA</span><span class="topo-outside">ARARDRDYR</span></span>
+<span class="topo-line"><span class="topo-unknown">ALSDVGTAI</span><span class="topo-outside">SCSRVFSSRWGRGFGLVEHVLGQDSILNQ</span><span class="topo-membrane">SNSIFGCIFYTLQLLLGCL</span><span class="topo-inside">RTR</span></span>
+<span class="topo-line"><span class="topo-inside">W</span><span class="topo-membrane">ASVLMLLSSLVSLAGSVYLAWILF</span><span class="topo-outside">FVLYDF</span><span class="topo-membrane">CIVCITTYAINVSLMWLSFRKVQ</span><span class="topo-inside">ENSHNV</span></span>
+<span class="topo-line"><span class="topo-inside">YITADKQKNGIKANFKIRHNVEDGSVQLADHYQQNTPIGDGPVLLPDNHYLSTQSVLSKD</span></span>
+<span class="topo-line"><span class="topo-inside">PNEKRDHMVLLEFVTAAGITHH</span><span class="topo-unknown">HHHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>3</td>
+      <td>64</td>
+      <td>3</td>
+      <td>64</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>147</td>
+      <td>68</td>
+      <td>149</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>171</td>
+      <td>150</td>
+      <td>173</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>172</td>
+      <td>180</td>
+      <td>174</td>
+      <td>182</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>190</td>
+      <td>218</td>
+      <td>192</td>
+      <td>220</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>219</td>
+      <td>237</td>
+      <td>221</td>
+      <td>239</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>238</td>
+      <td>241</td>
+      <td>240</td>
+      <td>243</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>242</td>
+      <td>265</td>
+      <td>244</td>
+      <td>267</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>266</td>
+      <td>271</td>
+      <td>268</td>
+      <td>273</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>272</td>
+      <td>294</td>
+      <td>274</td>
+      <td>296</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>295</td>
+      <td>382</td>
+      <td>297</td>
+      <td>384</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -103,14 +880,14 @@ The warfarin-bound structure differs from the 3-OH K-bound structure. In the 3-O
 
 ## Cross-References
 
-- [VKOR from Synechococcus sp.](/xray-mp-wiki/proteins/enzymes/synechococcus-vkor/) — Bacterial homolog of HsVKOR providing earlier structural information
-- [TrVKORL](/xray-mp-wiki/proteins/enzymes/trvkorl/) — Pufferfish VKOR-like protein used for ligand-free structural comparison
-- [Warfarin](/xray-mp-wiki/reagents/ligands/warfarin/) — Primary VKA inhibitor bound in HsVKOR structures
-- [Brodifacoum](/xray-mp-wiki/reagents/ligands/brodifacoum/) — Superwarfarin bound in HsVKOR structure 6WVH
-- [Termini Restraining](/xray-mp-wiki/concepts/miscellaneous/termini-restraining/) — HsVKOR structure was determined using the termini-restraining approach with split sfGFP
-- [Vitamin K Catalytic Cycle](/xray-mp-wiki/concepts/enzyme-mechanisms/vitamin-k-cycle/) — Central enzymatic cycle catalyzed by HsVKOR
-- [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for HsVKOR purification
-- [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) — Detergent used for SEC and final sample of HsVKOR
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used for LCP crystallization of HsVKOR
-- [Vitamin K Cycle](/xray-mp-wiki/concepts/enzyme-mechanisms/vitamin-k-cycle/) — Related biological concept
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/enzymes/synechococcus-vkor/">VKOR from Synechococcus sp.</a> — Bacterial homolog of HsVKOR providing earlier structural information
+- <a href="/xray-mp-wiki/proteins/enzymes/trvkorl/">TrVKORL</a> — Pufferfish VKOR-like protein used for ligand-free structural comparison
+- <a href="/xray-mp-wiki/reagents/ligands/warfarin/">Warfarin</a> — Primary VKA inhibitor bound in HsVKOR structures
+- <a href="/xray-mp-wiki/reagents/ligands/brodifacoum/">Brodifacoum</a> — Superwarfarin bound in HsVKOR structure 6WVH
+- <a href="/xray-mp-wiki/concepts/miscellaneous/termini-restraining/">Termini Restraining</a> — HsVKOR structure was determined using the termini-restraining approach with split sfGFP
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/vitamin-k-cycle/">Vitamin K Catalytic Cycle</a> — Central enzymatic cycle catalyzed by HsVKOR
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> — Detergent used for HsVKOR purification
+- <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> — Detergent used for SEC and final sample of HsVKOR
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — Lipid used for LCP crystallization of HsVKOR
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/vitamin-k-cycle/">Vitamin K Cycle</a> — Related biological concept
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification

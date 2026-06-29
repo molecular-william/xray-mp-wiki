@@ -1,7 +1,7 @@
 ---
 title: "RibU (ECF-Type Riboflavin Transporter S Component from Staphylococcus aureus)"
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,42 +16,253 @@ verified: true
 
 RibU is the S component (substrate-binding protein) of the energy-coupling factor (ECF) type [Riboflavin (Vitamin B2)](/xray-mp-wiki/reagents/cofactors/riboflavin/) transporter from Staphylococcus aureus. ECF transporters are a unique family of membrane transporters responsible for vitamin uptake in prokaryotes. RibU comprises six transmembrane segments, adopts a previously unreported transporter fold, and binds [Riboflavin (Vitamin B2)](/xray-mp-wiki/reagents/cofactors/riboflavin/) on the periplasmic side.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature09488 | 3P5N | 3.6 | P212121 | residues 10-141, 153-188 | [Riboflavin (Vitamin B2)](/xray-mp-wiki/reagents/cofactors/riboflavin/) |
+### doi/10.1038##nature09488
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3p5n">3P5N</a></td>
+      <td>3.6</td>
+      <td>P212121</td>
+      <td>residues 10-141, 153-188</td>
+      <td><a href="/xray-mp-wiki/reagents/cofactors/riboflavin/">Riboflavin (Vitamin B2)</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli
 - **Induction**: 0.5 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg/) at A600 0.8, 14 h at 37 C
 
-### Purification Workflow
+**Purification:**
 
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | French press (2 passes at 15-20,000 psi) | N/A | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/), pH 8.0, 100 mM NaCl | Cell debris removed by centrifugation |
-| Membrane isolation | Ultracentrifugation (150,000g, 1 h) | N/A | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/), pH 8.0, 100 mM NaCl | Membrane fraction collected |
-| Solubilization | Detergent solubilization | N/A | 2% beta-NG in 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/), pH 8.0, 100 mM NaCl | 2 h at 4 C, followed by ultracentrifugation (150,000g, 30 min) |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA agarose (Qiagen) | 20 mM Tris, pH 8.0, 500 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 0.4% beta-NG | Elution with 500 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
-| Size-exclusion chromatography | Gel filtration | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) (GE Healthcare) | 20 mM Tris, pH 8.0, 100 mM NaCl, 0.4% beta-NG | Peak fraction concentrated to 8 mg/ml for crystallization |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>French press (2 passes at 15-20,000 psi)</td>
+      <td>N/A</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a>, pH 8.0, 100 mM NaCl</td>
+      <td>Cell debris removed by centrifugation</td>
+    </tr>
+    <tr>
+      <td>Membrane isolation</td>
+      <td>Ultracentrifugation (150,000g, 1 h)</td>
+      <td>N/A</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a>, pH 8.0, 100 mM NaCl</td>
+      <td>Membrane fraction collected</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>N/A</td>
+      <td>2% beta-NG in 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a>, pH 8.0, 100 mM NaCl</td>
+      <td>2 h at 4 C, followed by ultracentrifugation (150,000g, 30 min)</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Ni-NTA agarose (Qiagen)</td>
+      <td>20 mM Tris, pH 8.0, 500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.4% beta-NG</td>
+      <td>Elution with 500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>Gel filtration</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> (GE Healthcare)</td>
+      <td>20 mM Tris, pH 8.0, 100 mM NaCl, 0.4% beta-NG</td>
+      <td>Peak fraction concentrated to 8 mg/ml for crystallization</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: 8 mg/ml in 20 mM Tris, pH 8.0, 100 mM NaCl, 0.4% beta-NG
 
+**Crystallization:**
 
-## Crystallization
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>N/A</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-### doi/10.1038##nature09488
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3p5n">3P5N</a> — Chain A (6 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Temperature | N/A |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MNGRRKLNM</span><span class="topo-outside">QQNKRLIT</span><span class="topo-membrane">ISMLSAIAFVLTFIKF</span><span class="topo-inside">PIPFLPPYL</span><span class="topo-membrane">TLDFSDVPSLLATF</span><span class="topo-outside">TFGP</span></span>
+<span class="topo-line"><span class="topo-membrane">VAGIIVALVKNLLNYLFSM</span><span class="topo-inside">GDP</span><span class="topo-membrane">VGPFANFLAGASFLLTAYAIY</span><span class="topo-outside">KNKRSTK</span><span class="topo-membrane">SLITGLIIAT</span></span>
+<span class="topo-line"><span class="topo-membrane">IVMTIVLSILN</span><span class="topo-inside">YFVLLPLYGM</span><span class="topo-unknown">IFNLADIANNL</span><span class="topo-inside">KVIIVSGII</span><span class="topo-membrane">PFNIIKGIVISIVFILLYR</span></span>
+<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">LANFLKR</span><span class="topo-unknown">I</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>9</td>
+      <td>1</td>
+      <td>9</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>17</td>
+      <td>10</td>
+      <td>17</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>33</td>
+      <td>18</td>
+      <td>33</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>42</td>
+      <td>34</td>
+      <td>42</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>56</td>
+      <td>43</td>
+      <td>56</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>60</td>
+      <td>57</td>
+      <td>60</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>79</td>
+      <td>61</td>
+      <td>79</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>82</td>
+      <td>80</td>
+      <td>82</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>103</td>
+      <td>83</td>
+      <td>103</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>110</td>
+      <td>104</td>
+      <td>110</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>111</td>
+      <td>131</td>
+      <td>111</td>
+      <td>131</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>132</td>
+      <td>141</td>
+      <td>132</td>
+      <td>141</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>152</td>
+      <td>142</td>
+      <td>152</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>153</td>
+      <td>161</td>
+      <td>153</td>
+      <td>161</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>162</td>
+      <td>181</td>
+      <td>162</td>
+      <td>181</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>182</td>
+      <td>188</td>
+      <td>182</td>
+      <td>188</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>189</td>
+      <td>189</td>
+      <td>189</td>
+      <td>189</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
 
 ## Biological / Functional Insights
 
@@ -78,13 +289,13 @@ Sequence alignment of RibU with representatives from eight bacterial species sho
 
 ## Cross-References
 
-- [Nonylglucoside (NG)](/xray-mp-wiki/reagents/detergents/nonylglucoside/) — Related nonionic glucoside detergent
-- [Nonylmaltoside](/xray-mp-wiki/reagents/detergents/nonylmaltoside/) — Related nonionic maltoside detergent
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Eluent for Ni-NTA affinity chromatography
-- [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Buffer component throughout purification
-- [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) — Size-exclusion chromatography resin
-- [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) — Affinity chromatography resin
-- [Multi-Wavelength Anomalous Diffraction](/xray-mp-wiki/methods/structure-determination/multi-wavelength-anomalous-diffraction/) — Phasing method used for structure determination
-- [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Crystallization method used
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/detergents/nonylglucoside/">Nonylglucoside (NG)</a> — Related nonionic glucoside detergent
+- <a href="/xray-mp-wiki/reagents/detergents/nonylmaltoside/">Nonylmaltoside</a> — Related nonionic maltoside detergent
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Eluent for Ni-NTA affinity chromatography
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> — Buffer component throughout purification
+- <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a> — Size-exclusion chromatography resin
+- <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Agarose Resin</a> — Affinity chromatography resin
+- <a href="/xray-mp-wiki/methods/structure-determination/multi-wavelength-anomalous-diffraction/">Multi-Wavelength Anomalous Diffraction</a> — Phasing method used for structure determination
+- <a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">Hanging-Drop Vapor Diffusion</a> — Crystallization method used
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/iptg/">IPTG</a> — Additive used in purification or crystallization buffers

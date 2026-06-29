@@ -1,7 +1,7 @@
 ---
 title: "Rabbit RyR1 Repeat12 Domain"
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,45 +17,71 @@ verified: false
 The Repeat12 domain of rabbit Ryanodine Receptor Type 1 (RyR1), spanning residues 857-1054, was crystallized at 1.55 A resolution. It adopts a unique U-shaped loop (U-lid) connecting two repeat halves, with an additional three-stranded beta-sheet filling the space between the two halves. This domain is structurally distinct from the phosphorylation domain (Repeat34), which has a prominent horseshoe shape. The Repeat12 domain docks at the corner region of the full-length RyR assembly. Five malignant hyperthermia mutations and two [CPVT](/xray-mp-wiki/concepts/cpvt) mutations map to this domain. All four cysteines were mutated to alanine to facilitate crystallization.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##ncomms8947 | 5C30 | 1.55 A | P 3_1 2 1 | Rabbit RyR1 Repeat12 domain, residues 857-1054 (C-to-A mutants), native | None (apo structure) |
-| doi/10.1038##ncomms8947 | 5C33 | 2.35 A | P 3_1 2 1 | Rabbit RyR1 Repeat12 domain, residues 857-1054, SeMet-labelled | None (SAD phasing structure) |
+### doi/10.1038##ncomms8947
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5c30">5C30</a></td>
+      <td>1.55 A</td>
+      <td>P 3_1 2 1</td>
+      <td>Rabbit RyR1 Repeat12 domain, residues 857-1054 (C-to-A mutants), native</td>
+      <td>None (apo structure)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5c33">5C33</a></td>
+      <td>2.35 A</td>
+      <td>P 3_1 2 1</td>
+      <td>Rabbit RyR1 Repeat12 domain, residues 857-1054, SeMet-labelled</td>
+      <td>None (SAD phasing structure)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli
 - **Notes**: All four cysteines in Repeat12 were mutated to alanine by Quikchange (Stratagene) to facilitate crystallization. Expressed as HMT fusion.
 
 
-### Purification Workflow
+**Crystallization:**
 
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Ni2+ affinity chromatography | Ni-NTA affinity chromatography | Ni-NTA |  | First purification step after expression |
-| Ion exchange chromatography | Hiload SP Sepharose column | Hiload SP Sepharose (GE Healthcare) |  | Repeat12 was purified by Hiload SP Sepharose column before preparative Superdex 200 SEC. This was a modification from the standard purification strategy used for other RyR domains.
- |
-| Size exclusion chromatography | Superdex 200 SEC | Superdex 200 |  | Preparative Superdex 200 for final polishing |
-
-
-## Crystallization
-
-### doi/10.1038##ncomms8947
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion (sitting drop) |
-| Protein sample | Rabbit RyR1 Repeat12 domain, 857-1054, C-to-A mutants |
-| Reservoir | Not explicitly specified in paper |
-| Temperature | Not explicitly specified |
-| Notes | Crystallized by standard vapor diffusion. Space group P 3_1 2 1. SeMet-labelled crystals used for SAD phasing.
- |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion (sitting drop)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Rabbit RyR1 Repeat12 domain, 857-1054, C-to-A mutants</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not explicitly specified in paper</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not explicitly specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystallized by standard vapor diffusion. Space group P 3_1 2 1. SeMet-labelled crystals used for SAD phasing.
+</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -78,10 +104,10 @@ Unbiased 6D docking in [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structur
 
 ## Cross-References
 
-- [Ryanodine Receptor (RyR)](/xray-mp-wiki/proteins/voltage-gated-channels/ryanodine-receptor/) — Parent protein family; Repeat12 is a domain of RyR
-- [Ryanodine Receptor Type 1 (RyR1)](/xray-mp-wiki/proteins/voltage-gated-channels/ry1/) — Related RyR isoform; Repeat12 is a domain of RyR1
-- [Mouse RyR2 SPRY1 Domain](/xray-mp-wiki/proteins/voltage-gated-channels/ry2-spry1/) — Co-crystallized domain from the same paper
-- [FKBP12 (FK506 Binding Protein 12)](/xray-mp-wiki/proteins/voltage-gated-channels/fkbp12/) — Accessory protein binding to RyR1 SPRY1 domain; Repeat12 is adjacent to SPRY1 in the sequence
-- [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em) — Entity mentioned in text
-- [Glycine](/xray-mp-wiki/reagents/buffers/glycine) — Entity mentioned in text
-- [CPVT](/xray-mp-wiki/concepts/cpvt) — Entity mentioned in text
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/ryanodine-receptor/">Ryanodine Receptor (RyR)</a> — Parent protein family; Repeat12 is a domain of RyR
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/ry1/">Ryanodine Receptor Type 1 (RyR1)</a> — Related RyR isoform; Repeat12 is a domain of RyR1
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/ry2-spry1/">Mouse RyR2 SPRY1 Domain</a> — Co-crystallized domain from the same paper
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/fkbp12/">FKBP12 (FK506 Binding Protein 12)</a> — Accessory protein binding to RyR1 SPRY1 domain; Repeat12 is adjacent to SPRY1 in the sequence
+- <a href="/xray-mp-wiki/methods/structure-determination/cryo-em">Cryo-Electron Microscopy</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/buffers/glycine">Glycine</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/concepts/cpvt">CPVT</a> — Entity mentioned in text

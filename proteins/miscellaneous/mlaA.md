@@ -1,7 +1,7 @@
 ---
 title: "E. coli MlaA Outer Membrane Lipoprotein"
 created: 2026-05-27
-updated: 2026-06-16
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,66 +16,195 @@ verified: false
 
 MlaA is an [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) lipoprotein from Escherichia coli that forms a complex with the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) porin proteins OmpC and OmpF. MlaA is a key component of the Mla lipid transport system, where it functions at the [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) as a monomeric alpha-helical phospholipid translocation channel embedded in the inner leaflet of the OM with a doughnut-shaped architecture. The central amphipathic pore allows selective removal of misplaced outer leaflet phospholipids while preventing access of inner leaflet phospholipids. Enterobacterial MlaA proteins form stable complexes with OmpF/C, though the porins do not play an active role in phospholipid transport.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.cell.2017.03.019 | 5UW8 | not determined | not applicable | Mature MlaA (signal peptide-cleaved, residues 1-251) in complex with OmpF porin | none |
-| doi/10.1038##s41564-017-0046-x | 5NUP | 3.0 | Not specified | Klebsiella pneumoniae MlaA (KpMlaA) in complex with E. coli OmpF trimer, full-length mature protein | none |
-| doi/10.1038##s41564-017-0046-x | 5NUQ | Not specified | Not specified | Serratia marcescens MlaA (SmMlaA) in complex with E. coli OmpF trimer, full-length mature protein | none |
+### doi/10.1016##j.cell.2017.03.019
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5uw8">5UW8</a></td>
+      <td>not determined</td>
+      <td>not applicable</td>
+      <td>Mature MlaA (signal peptide-cleaved, residues 1-251) in complex with OmpF porin</td>
+      <td>none</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli
 - **Construct**: Mature MlaA (residues 1-251), signal peptide-cleaved, cloned into custom pET vector (pDCE587)
 
-### Purification Workflow
+**Purification:**
 
-#### Source: doi/10.1016##j.cell.2017.03.019
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Co-expression and solubilization</td>
+      <td>Co-expression of MlaA with OmpF, solubilization with detergent</td>
+      <td>--</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 8.0, 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
+      <td>MlaA-OmpF complex solubilized from <a href="/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/">outer membrane</a> fraction</td>
+    </tr>
+    <tr>
+      <td>Complex purification</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> and gel filtration</td>
+      <td>Not specified</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>MlaA-OmpC/OmpF complex purified for <a href="/xray-mp-wiki/methods/quality-assessment/biolayer-interferometry/">biolayer interferometry</a> studies</td>
+    </tr>
+  </tbody>
+</table>
 
+### doi/10.1038##s41564-017-0046-x
 
-##### Steps
+**Structures:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Co-expression and solubilization | Co-expression of MlaA with OmpF, solubilization with detergent | -- | 50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 300 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/) + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) | MlaA-OmpF complex solubilized from [outer membrane](/xray-mp-wiki/concepts/membrane-mimetics/outer-membrane/) fraction |
-| Complex purification | [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) and gel filtration | Not specified | 20 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/) + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | MlaA-OmpC/OmpF complex purified for [biolayer interferometry](/xray-mp-wiki/methods/quality-assessment/biolayer-interferometry/) studies |
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5nup">5NUP</a></td>
+      <td>3.0</td>
+      <td>Not specified</td>
+      <td>Klebsiella pneumoniae MlaA (KpMlaA) in complex with E. coli OmpF trimer, full-length mature protein</td>
+      <td>none</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5nuq">5NUQ</a></td>
+      <td>Not specified</td>
+      <td>Not specified</td>
+      <td>Serratia marcescens MlaA (SmMlaA) in complex with E. coli OmpF trimer, full-length mature protein</td>
+      <td>none</td>
+    </tr>
+  </tbody>
+</table>
 
-#### Source: doi/10.1038##s41564-017-0046-x
+**Expression:**
+
+- **Expression system**: E. coli
+- **Construct**: Mature MlaA (residues 1-251), signal peptide-cleaved, cloned into custom pET vector (pDCE587)
+
+**Purification:**
 
 - **Expression system**: E. coli BL21
 - **Expression construct**: KpMlaA (Klebsiella pneumoniae) or SmMlaA (Serratia marcescens) orthologues with N-terminal hexahistidine tag, cloned into pBAD24 vector
 - **Tag info**: N-terminal hexahistidine tag
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression | Arabinose-inducible expression in E. coli BL21 | — | Low-salt LB medium (tryptone 10 g/L, NaCl 5 g/L, yeast extract 5 g/L) | Expression induced with 0.2% arabinose at OD600 ~0.6, 20 C for 4-16 hr |
-| Cell lysis | High-pressure homogenization (Constant Systems, 20,000-23,000 psi) | — | [Tris](/xray-mp-wiki/reagents/buffers/tris/) buffered saline pH 7.5, 1 mM [PMSF](/xray-mp-wiki/reagents/additives/pmsf/) | Membranes harvested by ultracentrifugation |
-| Membrane solubilization | Detergent extraction | — | [Tris](/xray-mp-wiki/reagents/buffers/tris/) buffered saline pH 7.5, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 0.5% DM + 0.5% DDM (for KpMlaA-syn), 1% DDM (for native complexes) | Stirred 1 hr at 4 C |
-| Nickel affinity chromatography | Ni-NTA | Ni-NTA (Qiagen) | [Tris](/xray-mp-wiki/reagents/buffers/tris/) buffered saline pH 7.5, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), 0.15% DDM, 25 mM imidazole (wash), 250 mM imidazole (elution) | MlaA-OmpF complex eluted as stable complex |
-| Buffer exchange | Amicon Ultra-15 concentrator (100 kDa cutoff) | — | 10 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), 0.4% C8E4 | For KpMlaA; SmMlaA further purified by SEC |
-| Size-exclusion chromatography (SmMlaA only) | HiLoad 26/600 Superdex 200 | — | 10 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 8, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), 0.4% C6H12 | SmMlaA-OmpF complex purified by SEC |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Expression</td>
+      <td>Arabinose-inducible expression in E. coli BL21</td>
+      <td>—</td>
+      <td>Low-salt LB medium (tryptone 10 g/L, NaCl 5 g/L, yeast extract 5 g/L)</td>
+      <td>Expression induced with 0.2% arabinose at OD600 ~0.6, 20 C for 4-16 hr</td>
+    </tr>
+    <tr>
+      <td>Cell lysis</td>
+      <td>High-pressure homogenization (Constant Systems, 20,000-23,000 psi)</td>
+      <td>—</td>
+      <td><a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> buffered saline pH 7.5, 1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">PMSF</a></td>
+      <td>Membranes harvested by ultracentrifugation</td>
+    </tr>
+    <tr>
+      <td>Membrane solubilization</td>
+      <td>Detergent extraction</td>
+      <td>—</td>
+      <td><a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> buffered saline pH 7.5, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.5% DM + 0.5% DDM (for KpMlaA-syn), 1% DDM (for native complexes)</td>
+      <td>Stirred 1 hr at 4 C</td>
+    </tr>
+    <tr>
+      <td>Nickel affinity chromatography</td>
+      <td>Ni-NTA</td>
+      <td>Ni-NTA (Qiagen)</td>
+      <td><a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> buffered saline pH 7.5, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.15% DDM, 25 mM imidazole (wash), 250 mM imidazole (elution)</td>
+      <td>MlaA-OmpF complex eluted as stable complex</td>
+    </tr>
+    <tr>
+      <td>Buffer exchange</td>
+      <td>Amicon Ultra-15 concentrator (100 kDa cutoff)</td>
+      <td>—</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.4% C8E4</td>
+      <td>For KpMlaA; SmMlaA further purified by SEC</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography (SmMlaA only)</td>
+      <td>HiLoad 26/600 Superdex 200</td>
+      <td>—</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 8, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.4% C6H12</td>
+      <td>SmMlaA-OmpF complex purified by SEC</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: ~10 mg/mL, flash-frozen in liquid nitrogen
 **Purity**: >95% by SDS-PAGE, confirmed by mass spectrometry
 
+**Crystallization:**
 
-## Crystallization
-
-### doi/10.1038##s41564-017-0046-x
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion (sitting drop) |
-| Protein sample | KpMlaA-OmpF complex at ~10 mg/mL in 10 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 150 mM NaCl, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), 0.4% C8E4 |
-| Reservoir | 0.1 M [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 8.5, 0.2 M lithium sulfate, 24% [PEG](/xray-mp-wiki/reagents/additives/peg/) 4000 |
-| Temperature | 20 C |
-| Growth time | Not specified |
-| Cryoprotection | 20% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol) |
-| Notes | Crystals also obtained for SmMlaA-OmpF complex. LPS molecules observed in porin LPS-binding site in one KpMlaA-OmpF structure. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion (sitting drop)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>KpMlaA-OmpF complex at ~10 mg/mL in 10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 150 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.4% C8E4</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.1 M <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 8.5, 0.2 M lithium sulfate, 24% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 4000</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>20% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a></td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals also obtained for SmMlaA-OmpF complex. LPS molecules observed in porin LPS-binding site in one KpMlaA-OmpF structure.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -119,14 +248,14 @@ The N26-F27 deletion variant (MlaA*) shows a more severe phenotype than the mlaA
 
 ## Cross-References
 
-- [E. coli MlaC Lipid-Binding Protein](/xray-mp-wiki/proteins/structural-adhesion/mlaC/) — MlaC directly interacts with MlaA-OmpF complex to deliver lipids to the outer membrane
-- [E. coli MlaD MCE Protein](/xray-mp-wiki/proteins/structural-adhesion/mlaD/) — MlaA is the outer membrane partner of MlaD at the inner membrane in the Mla system
-- [E. coli YebT Tube-like MCE Protein](/xray-mp-wiki/proteins/structural-adhesion/yebT/) — YebT may associate with YebS in the inner membrane and PqiC in the outer membrane similarly
-- [E. coli PqiB Syringe-like MCE Protein](/xray-mp-wiki/proteins/structural-adhesion/pqiB/) — PqiB may interact with outer membrane lipoprotein PqiC similarly to MlaA
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used for MlaA-OmpF complex solubilization from membranes
-- [MCE Protein Family](/xray-mp-wiki/concepts/protein-families/mce-protein-family/) — MlaA is a key component of the Mla system, an MCE protein family member
-- [TRIS](/xray-mp-wiki/reagents/buffers/tris/) — Entity mentioned in text
-- [EDTA](/xray-mp-wiki/reagents/additives/edta/) — Entity mentioned in text
-- [Gram-negative](/xray-mp-wiki/concepts/gram-negative/) — Entity mentioned in text
-- [biolayer interferometry](/xray-mp-wiki/methods/quality-assessment/biolayer-interferometry/) — Entity mentioned in text
-- [Lipid Asymmetry](/xray-mp-wiki/concepts/structural-mechanisms/lipid-asymmetry/) — MlaA functions to maintain outer membrane lipid asymmetry
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/mlaC/">E. coli MlaC Lipid-Binding Protein</a> — MlaC directly interacts with MlaA-OmpF complex to deliver lipids to the outer membrane
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/mlaD/">E. coli MlaD MCE Protein</a> — MlaA is the outer membrane partner of MlaD at the inner membrane in the Mla system
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/yebT/">E. coli YebT Tube-like MCE Protein</a> — YebT may associate with YebS in the inner membrane and PqiC in the outer membrane similarly
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/pqiB/">E. coli PqiB Syringe-like MCE Protein</a> — PqiB may interact with outer membrane lipoprotein PqiC similarly to MlaA
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — DDM used for MlaA-OmpF complex solubilization from membranes
+- <a href="/xray-mp-wiki/concepts/protein-families/mce-protein-family/">MCE Protein Family</a> — MlaA is a key component of the Mla system, an MCE protein family member
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">TRIS</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/concepts/gram-negative/">Gram-negative</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/methods/quality-assessment/biolayer-interferometry/">biolayer interferometry</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/lipid-asymmetry/">Lipid Asymmetry</a> — MlaA functions to maintain outer membrane lipid asymmetry

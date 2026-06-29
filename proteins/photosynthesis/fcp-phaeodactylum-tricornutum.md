@@ -1,7 +1,7 @@
 ---
 title: "Fucoxanthin Chlorophyll a/c-Binding Protein (FCP) from Phaeodactylum tricornutum"
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,43 +17,196 @@ verified: false
  chlorophyll a/c-binding protein (FCP) is a light-harvesting antenna protein from the marine diatom *Phaeodactylum tricornutum*. FCPs belong to the superfamily of transmembrane light-harvesting complex (LHC) proteins and contain the pigments Chl a, Chl c, and  (Fx), enabling them to absorb light in the blue-green region that penetrates underwater. The structure of Lhcf4 was solved as a homodimer at 1.8-Å resolution, revealing a unique pigment arrangement with nine Chls (seven Chl a, two Chl c), seven Fxs, and one diadinoxanthin (Ddx) per monomer. Unlike the trimeric LHCII of green plants, FCP forms a dimer stabilized by interactions between transmembrane C helices. FCPs display robust [Non-photochemical Quenching (NPQ) in LHC-II](/xray-mp-wiki/concepts/miscellaneous/non-photochemical-quenching/) (NPQ) via the Ddx-Dtx xanthophyll cycle, providing photoprotection under fluctuating light conditions in the ocean surface layer.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1126##science.aav0365 | 6A2W | 1.8 | TBD | Lhcf4 (residues 1-166 of 167 total); native FCP dimer from Phaeodactylum tricornutum | Chl a (x7), Chl c (x2), Fx (x7), Ddx (x1), phosphatidyl- (x1),  (x1), [OTG](/xray-mp-wiki/reagents/detergents/og/), a-, Ca2+ (x2) |
+### doi/10.1126##science.aav0365
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6a2w">6A2W</a></td>
+      <td>1.8</td>
+      <td>TBD</td>
+      <td>Lhcf4 (residues 1-166 of 167 total); native FCP dimer from Phaeodactylum tricornutum</td>
+      <td>Chl a (x7), Chl c (x2), Fx (x7), Ddx (x1), phosphatidyl- (x1),  (x1), <a href="/xray-mp-wiki/reagents/detergents/og/">OTG</a>, a-, Ca2+ (x2)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Native Phaeodactylum tricornutum cells
 - **Construct**: Native Lhcf4 (product of lhcf3/lhcf4 genes, 167 residues)
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture and harvest</td>
+      <td>Glass bead disruption</td>
+      <td>—</td>
+      <td>20 mM tricine, 10 mM , 20 mM KCl, 5% , pH 7.8 (TMKS buffer)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Thylakoid membrane isolation</td>
+      <td>Centrifugation</td>
+      <td>—</td>
+      <td>TMKS buffer</td>
+      <td>100,000 x g for 20 min at 4 C</td>
+    </tr>
+    <tr>
+      <td>Membrane solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>—</td>
+      <td>1% (w/v) n-dodecyl-alpha-D-maltopyranoside (alpha-)</td>
+      <td>0.5 mg Chl a/ml for 30 min on ice</td>
+    </tr>
+    <tr>
+      <td>Anion exchange chromatography (1st column)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/ion-exchange-chromatography/">Ion-Exchange Chromatography</a></td>
+      <td>Q-Sepharose HP</td>
+      <td>TMKS buffer with 0.03% alpha-</td>
+      <td>Wash with 0.25 M NaCl; elute with 0.25-0.42 M NaCl gradient; Lhcf4 elutes at 0.35-0.38 M NaCl</td>
+    </tr>
+    <tr>
+      <td>Anion exchange chromatography (2nd column)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/ion-exchange-chromatography/">Ion-Exchange Chromatography</a></td>
+      <td>Q-Sepharose HP</td>
+      <td>TMKS buffer with 0.03% alpha-</td>
+      <td>Same conditions as first column to increase purity</td>
+    </tr>
+    <tr>
+      <td> gradient centrifugation</td>
+      <td>Density gradient centrifugation</td>
+      <td>—</td>
+      <td>TMK buffer with 0.03% alpha-</td>
+      <td>5-20% linear  gradient, 303,800 x g for 16 h</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture and harvest | Glass bead disruption | — | 20 mM tricine, 10 mM , 20 mM KCl, 5% , pH 7.8 (TMKS buffer) |  |
-| Thylakoid membrane isolation | Centrifugation | — | TMKS buffer | 100,000 x g for 20 min at 4 C |
-| Membrane solubilization | Detergent solubilization | — | 1% (w/v) n-dodecyl-alpha-D-maltopyranoside (alpha-) | 0.5 mg Chl a/ml for 30 min on ice |
-| Anion exchange chromatography (1st column) | [Ion-Exchange Chromatography](/xray-mp-wiki/methods/purification/ion-exchange-chromatography/) | Q-Sepharose HP | TMKS buffer with 0.03% alpha- | Wash with 0.25 M NaCl; elute with 0.25-0.42 M NaCl gradient; Lhcf4 elutes at 0.35-0.38 M NaCl |
-| Anion exchange chromatography (2nd column) | [Ion-Exchange Chromatography](/xray-mp-wiki/methods/purification/ion-exchange-chromatography/) | Q-Sepharose HP | TMKS buffer with 0.03% alpha- | Same conditions as first column to increase purity |
-|  gradient centrifugation | Density gradient centrifugation | — | TMK buffer with 0.03% alpha- | 5-20% linear  gradient, 303,800 x g for 16 h |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified FCP dimer in TMK buffer with 0.03% alpha-</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals diffracted to 1.8 A resolution. Phasing by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using PHASER with an LHCII search model, followed by extension to 1.8 A.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6a2w">6A2W</a> — Chain A (3 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">AFEDELGAQPPLGFFDPLGLVADGDQEKFDRLRYVE</span><span class="topo-membrane">IKHGRISMLAVVGYLVQ</span><span class="topo-outside">EAGVRLP</span></span>
+<span class="topo-line"><span class="topo-outside">GTIDYSGKTFAEIPNGFAAFKEIPA</span><span class="topo-membrane">GGLVQLLFFIGVLES</span><span class="topo-inside">SVMRDLTGEAEFVGDFRNGA</span></span>
+<span class="topo-line"><span class="topo-inside">IDFGWDTFDEETQFKKRAI</span><span class="topo-membrane">ELNQGRAAQMGILALMVH</span><span class="topo-outside">EQLGVSLLP</span><span class="topo-unknown">Q</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>36</td>
+      <td>1</td>
+      <td>36</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>53</td>
+      <td>37</td>
+      <td>53</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>85</td>
+      <td>54</td>
+      <td>85</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>100</td>
+      <td>86</td>
+      <td>100</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>139</td>
+      <td>101</td>
+      <td>139</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>140</td>
+      <td>157</td>
+      <td>140</td>
+      <td>157</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>158</td>
+      <td>166</td>
+      <td>158</td>
+      <td>166</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1126##science.aav0365
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | Purified FCP dimer in TMK buffer with 0.03% alpha- |
-| Temperature | 4 |
-| Notes | Crystals diffracted to 1.8 A resolution. Phasing by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) using PHASER with an LHCII search model, followed by extension to 1.8 A. |
-
+</div>
 
 ## Biological / Functional Insights
 
@@ -76,13 +229,13 @@ One Ddx molecule is located near the monomer-monomer interface. Its weak electro
 
 ## Cross-References
 
-- [Pea Light-Harvesting Complex II (LHC-II)](/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/) — FCP is structurally homologous to LHCII but has unique pigment composition and dimeric assembly
-- [Spinach Light-Harvesting Complex II (LHC-II)](/xray-mp-wiki/proteins/photosynthesis/spinach-light-harvesting-complex-ii/) — Comparison of FCP with LHCII reveals differences in pigment binding and oligomeric state
-- [Non-photochemical Quenching (NPQ)](/xray-mp-wiki/concepts/miscellaneous/non-photochemical-quenching/) — FCPs exhibit robust NPQ via the Ddx-Dtx xanthophyll cycle for photoprotection under high light
-- [Lutein](/xray-mp-wiki/reagents/ligands/lutein/) — Lutein-binding sites in LHCII correspond to Fx303 and Fx305 positions in FCP
-- [Fucoxanthin](/xray-mp-wiki/reagents/ligands/fucoxanthin/) — Referenced in fcp-phaeodactylum-tricornutum text
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Referenced in fcp-phaeodactylum-tricornutum text
-- [Digalactosyl Diacylglycerol](/xray-mp-wiki/reagents/lipids/digalactosyl-diacylglycerol/) — Referenced in fcp-phaeodactylum-tricornutum text
-- [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Referenced in fcp-phaeodactylum-tricornutum text
-- [Mgcl2](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Referenced in fcp-phaeodactylum-tricornutum text
-- [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) — Referenced in fcp-phaeodactylum-tricornutum text
+- <a href="/xray-mp-wiki/proteins/photosynthesis/pea-light-harvesting-complex-ii/">Pea Light-Harvesting Complex II (LHC-II)</a> — FCP is structurally homologous to LHCII but has unique pigment composition and dimeric assembly
+- <a href="/xray-mp-wiki/proteins/photosynthesis/spinach-light-harvesting-complex-ii/">Spinach Light-Harvesting Complex II (LHC-II)</a> — Comparison of FCP with LHCII reveals differences in pigment binding and oligomeric state
+- <a href="/xray-mp-wiki/concepts/miscellaneous/non-photochemical-quenching/">Non-photochemical Quenching (NPQ)</a> — FCPs exhibit robust NPQ via the Ddx-Dtx xanthophyll cycle for photoprotection under high light
+- <a href="/xray-mp-wiki/reagents/ligands/lutein/">Lutein</a> — Lutein-binding sites in LHCII correspond to Fx303 and Fx305 positions in FCP
+- <a href="/xray-mp-wiki/reagents/ligands/fucoxanthin/">Fucoxanthin</a> — Referenced in fcp-phaeodactylum-tricornutum text
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Referenced in fcp-phaeodactylum-tricornutum text
+- <a href="/xray-mp-wiki/reagents/lipids/digalactosyl-diacylglycerol/">Digalactosyl Diacylglycerol</a> — Referenced in fcp-phaeodactylum-tricornutum text
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> — Referenced in fcp-phaeodactylum-tricornutum text
+- <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Mgcl2</a> — Referenced in fcp-phaeodactylum-tricornutum text
+- <a href="/xray-mp-wiki/reagents/ligands/sucrose/">Sucrose</a> — Referenced in fcp-phaeodactylum-tricornutum text

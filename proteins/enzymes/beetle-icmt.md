@@ -1,7 +1,7 @@
 ---
 title: "Isoprenylcysteine Carboxyl Methyltransferase (ICMT) from Tribolium castaneum"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,43 +16,482 @@ verified: false
 
 ICMT (isoprenylcysteine carboxyl methyltransferase) from the beetle Tribolium castaneum is an integral membrane enzyme that catalyzes the final step of CAAX box processing — the carboxyl methylation of prenylated cysteine residues in proteins such as RAS GTPases, prelamin A, and RAB proteins. The beetle ortholog exhibited superior biochemical stability compared to other eukaryotic ICMT orthologues, making it suitable for crystallization. The structure reveals eight transmembrane alpha-helices and a unique active site architecture spanning both cytosolic and membrane-exposed regions, solving the topographical challenge of bringing two reactants with different cellular localizations together in a membrane environment.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature25439 | 5V7P | 2.3 A | P21 21 21 | Full-length beetle ICMT (UniProt D6WJ77) with C-terminal YL1/2 antibody-affinity tag (AAEGEEF), in complex with AdoHcy cofactor, [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) lipid, and MB-15 monobody inhibitor. Surface mutations G151A and E154A introduced for crystallizability. | [S Adenosyl L Homocysteine](/xray-mp-wiki/reagents/cofactors/s-adenosyl-l-homocysteine/) (AdoHcy), [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) lipid, MB-15 monobody |
-| doi/10.1038##nature25439 | 5V7P | 4.0 A | C2221 | Beetle ICMT without monobody, in detergent ([Dmng](/xray-mp-wiki/reagents/detergents/dmng/)) | AdoHcy cofactor, lipid density in cavity |
+### doi/10.1038##nature25439
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5v7p">5V7P</a></td>
+      <td>2.3 A</td>
+      <td>P21 21 21</td>
+      <td>Full-length beetle ICMT (UniProt D6WJ77) with C-terminal YL1/2 antibody-affinity tag (AAEGEEF), in complex with AdoHcy cofactor, <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> lipid, and MB-15 monobody inhibitor. Surface mutations G151A and E154A introduced for crystallizability.</td>
+      <td><a href="/xray-mp-wiki/reagents/cofactors/s-adenosyl-l-homocysteine/">S Adenosyl L Homocysteine</a> (AdoHcy), <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> lipid, MB-15 monobody</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5v7p">5V7P</a></td>
+      <td>4.0 A</td>
+      <td>C2221</td>
+      <td>Beetle ICMT without monobody, in detergent (<a href="/xray-mp-wiki/reagents/detergents/dmng/">Dmng</a>)</td>
+      <td>AdoHcy cofactor, lipid density in cavity</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Pichia pastoris strain SMD1168
 - **Construct**: Full-length beetle ICMT (D6WJ77) with C-terminal YL1/2 antibody-affinity tag (Ala-Ala-Glu-Gly-Glu-Glu-Phe, AAEGEEF). Cloned into pPICZ-C vector (EcoRI and SalI sites). Surface mutations G151A and E154A introduced to improve crystallizability.
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis and solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> (pH 7.5), 150 mM KCl, 2 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 2 mM CaCl2, 25 uM AdoHcy + 2 g <a href="/xray-mp-wiki/reagents/detergents/dmng/">Dmng</a> (decyl <a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a> neopentyl glycol) per 40 g cells, 45 min at room temperature</td>
+      <td>Lysed P. pastoris cells extracted with <a href="/xray-mp-wiki/reagents/detergents/dmng/">Dmng</a> detergent</td>
+    </tr>
+    <tr>
+      <td>Antibody-affinity chromatography</td>
+      <td>Affinity chromatography</td>
+      <td>YL1/2 antibody coupled to CNBr-activated sepharose beads</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> (pH 7.5), 150 mM KCl, 2 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 2 mM CaCl2, 25 uM AdoHcy, 1 mM <a href="/xray-mp-wiki/reagents/detergents/dmng/">Dmng</a> + 1 mM <a href="/xray-mp-wiki/reagents/detergents/dmng/">Dmng</a></td>
+      <td>YL1/2 antibody recognizes C-terminal AAEGEEF tag. Elution with 5 mM Asp-Phe peptide or Glu-Glu-Phe peptide</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>Size-exclusion chromatography</td>
+      <td>Superdex 200 Increase column (GE Healthcare)</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> (pH 7.5), 150 mM KCl, 5 mM <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP</a>, 2 mM CaCl2, 25 uM AdoHcy, 1 mM <a href="/xray-mp-wiki/reagents/detergents/dmng/">Dmng</a> + 1 mM <a href="/xray-mp-wiki/reagents/detergents/dmng/">Dmng</a></td>
+      <td>ICMT-monobody complex purified at 1:3 molar ratio (ICMT:monobody)</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis and solubilization | Detergent solubilization | -- | 10 mM [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) (pH 7.5), 150 mM KCl, 2 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep/), 2 mM CaCl2, 25 uM AdoHcy + 2 g [Dmng](/xray-mp-wiki/reagents/detergents/dmng/) (decyl [Maltose](/xray-mp-wiki/reagents/additives/maltose/) neopentyl glycol) per 40 g cells, 45 min at room temperature | Lysed P. pastoris cells extracted with [Dmng](/xray-mp-wiki/reagents/detergents/dmng/) detergent |
-| Antibody-affinity chromatography | Affinity chromatography | YL1/2 antibody coupled to CNBr-activated sepharose beads | 10 mM [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) (pH 7.5), 150 mM KCl, 2 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep/), 2 mM CaCl2, 25 uM AdoHcy, 1 mM [Dmng](/xray-mp-wiki/reagents/detergents/dmng/) + 1 mM [Dmng](/xray-mp-wiki/reagents/detergents/dmng/) | YL1/2 antibody recognizes C-terminal AAEGEEF tag. Elution with 5 mM Asp-Phe peptide or Glu-Glu-Phe peptide |
-| Size-exclusion chromatography | Size-exclusion chromatography | Superdex 200 Increase column (GE Healthcare) | 10 mM [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) (pH 7.5), 150 mM KCl, 5 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep/), 2 mM CaCl2, 25 uM AdoHcy, 1 mM [Dmng](/xray-mp-wiki/reagents/detergents/dmng/) + 1 mM [Dmng](/xray-mp-wiki/reagents/detergents/dmng/) | ICMT-monobody complex purified at 1:3 molar ratio (ICMT:monobody) |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified beetle ICMT in complex with MB-15 monobody (1:3 molar ratio)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals obtained in lipidic-cubic phase in the presence of AdoHcy cofactor and AGGC substrate analog. SeMet crystals collected for SAD phasing. Native crystals at 2.3 A (P21 21 21) and 4.0 A (C2221, ICMT without monobody in detergent).</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5v7p">5V7P</a> — Chain A (8 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">LSPAGKISLQS</span><span class="topo-membrane">FTGSSLVFFVICMFNHY</span><span class="topo-inside">YGITNL</span><span class="topo-membrane">VVNTLIVFFYAVNVYFF</span><span class="topo-outside">LKFFYNEF</span></span>
+<span class="topo-line"><span class="topo-outside">AFAIAI</span><span class="topo-membrane">RAAFLGLVLVLGLYIKLVA</span><span class="topo-inside">PPNI</span><span class="topo-membrane">QIFGGYMSVMALFHYS</span><span class="topo-outside">EFLAIAIVQPKQVST</span></span>
+<span class="topo-line"><span class="topo-outside">DSFVI</span><span class="topo-membrane">NHSPQYTIAAVSSWVEFFI</span><span class="topo-inside">ETYFFPGLKEIH</span><span class="topo-membrane">WLSNIGLCVCILGEVLR</span><span class="topo-outside">KTAILTA</span></span>
+<span class="topo-line"><span class="topo-outside">GSNFNHLVQCEKSSDHVLVTHGVYAWFRHPSYV</span><span class="topo-membrane">GWFYWSIGTQIILINP</span><span class="topo-inside">L</span><span class="topo-membrane">CIPAYTLASW</span></span>
+<span class="topo-line"><span class="topo-membrane">MFF</span><span class="topo-outside">KERIYIEESMLLSFFGQQYCDYQQQVGTGIPFIEGYKI</span><span class="topo-unknown">AAEGEEF</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>12</td>
+      <td>2</td>
+      <td>12</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>29</td>
+      <td>13</td>
+      <td>29</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>35</td>
+      <td>30</td>
+      <td>35</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>52</td>
+      <td>36</td>
+      <td>52</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>66</td>
+      <td>53</td>
+      <td>66</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>85</td>
+      <td>67</td>
+      <td>85</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>89</td>
+      <td>86</td>
+      <td>89</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>105</td>
+      <td>90</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>125</td>
+      <td>106</td>
+      <td>125</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>126</td>
+      <td>144</td>
+      <td>126</td>
+      <td>144</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>145</td>
+      <td>156</td>
+      <td>145</td>
+      <td>156</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>173</td>
+      <td>157</td>
+      <td>173</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>174</td>
+      <td>213</td>
+      <td>174</td>
+      <td>213</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>229</td>
+      <td>214</td>
+      <td>229</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>230</td>
+      <td>230</td>
+      <td>230</td>
+      <td>230</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>231</td>
+      <td>243</td>
+      <td>231</td>
+      <td>243</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>244</td>
+      <td>281</td>
+      <td>244</td>
+      <td>281</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##nature25439
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5v7p">5V7P</a> — Chain D (0 TMs, non_tm)**
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Protein sample | Purified beetle ICMT in complex with MB-15 monobody (1:3 molar ratio) |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Crystals obtained in lipidic-cubic phase in the presence of AdoHcy cofactor and AGGC substrate analog. SeMet crystals collected for SAD phasing. Native crystals at 2.3 A (P21 21 21) and 4.0 A (C2221, ICMT without monobody in detergent). |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">AVSSVPTKLEVVAATPTSLLISWDAPAVTVDLYVITYGETGGNSPVQEFKVPGSKSTATI</span></span>
+<span class="topo-line"><span class="topo-outside">SGLKPGVDYTITVYAFSSYYWPSYKGSPISINYRT</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>95</td>
+      <td>0</td>
+      <td>94</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5v7p">5V7P</a> — Chain A (8 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">LSPAGKISLQS</span><span class="topo-membrane">FTGSSLVFFVICMFNHY</span><span class="topo-inside">YGITNL</span><span class="topo-membrane">VVNTLIVFFYAVNVYFF</span><span class="topo-outside">LKFFYNEF</span></span>
+<span class="topo-line"><span class="topo-outside">AFAIAI</span><span class="topo-membrane">RAAFLGLVLVLGLYIKLVA</span><span class="topo-inside">PPNI</span><span class="topo-membrane">QIFGGYMSVMALFHYS</span><span class="topo-outside">EFLAIAIVQPKQVST</span></span>
+<span class="topo-line"><span class="topo-outside">DSFVI</span><span class="topo-membrane">NHSPQYTIAAVSSWVEFFI</span><span class="topo-inside">ETYFFPGLKEIH</span><span class="topo-membrane">WLSNIGLCVCILGEVLR</span><span class="topo-outside">KTAILTA</span></span>
+<span class="topo-line"><span class="topo-outside">GSNFNHLVQCEKSSDHVLVTHGVYAWFRHPSYV</span><span class="topo-membrane">GWFYWSIGTQIILINP</span><span class="topo-inside">L</span><span class="topo-membrane">CIPAYTLASW</span></span>
+<span class="topo-line"><span class="topo-membrane">MFF</span><span class="topo-outside">KERIYIEESMLLSFFGQQYCDYQQQVGTGIPFIEGYKI</span><span class="topo-unknown">AAEGEEF</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>12</td>
+      <td>2</td>
+      <td>12</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>29</td>
+      <td>13</td>
+      <td>29</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>35</td>
+      <td>30</td>
+      <td>35</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>52</td>
+      <td>36</td>
+      <td>52</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>66</td>
+      <td>53</td>
+      <td>66</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>85</td>
+      <td>67</td>
+      <td>85</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>89</td>
+      <td>86</td>
+      <td>89</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>105</td>
+      <td>90</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>125</td>
+      <td>106</td>
+      <td>125</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>126</td>
+      <td>144</td>
+      <td>126</td>
+      <td>144</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>145</td>
+      <td>156</td>
+      <td>145</td>
+      <td>156</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>173</td>
+      <td>157</td>
+      <td>173</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>174</td>
+      <td>213</td>
+      <td>174</td>
+      <td>213</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>229</td>
+      <td>214</td>
+      <td>229</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>230</td>
+      <td>230</td>
+      <td>230</td>
+      <td>230</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>231</td>
+      <td>243</td>
+      <td>231</td>
+      <td>243</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>244</td>
+      <td>281</td>
+      <td>244</td>
+      <td>281</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5v7p">5V7P</a> — Chain D (0 TMs, non_tm)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">AVSSVPTKLEVVAATPTSLLISWDAPAVTVDLYVITYGETGGNSPVQEFKVPGSKSTATI</span></span>
+<span class="topo-line"><span class="topo-outside">SGLKPGVDYTITVYAFSSYYWPSYKGSPISINYRT</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>95</td>
+      <td>0</td>
+      <td>94</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -83,13 +522,13 @@ Despite sharing only 14% sequence identity with the prokaryotic methyltransferas
 
 ## Cross-References
 
-- [SAM (S-Adenosyl-L-Methionine)](/xray-mp-wiki/reagents/ligands/sam/) — Methyl donor cofactor for ICMT methylation reaction
-- [DMNG (Decyl Maltose Neopentyl Glycol)](/xray-mp-wiki/reagents/detergents/dmng/) — Detergent used for solubilization and purification of beetle ICMT
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used in LCP crystallization and modeled in the active site cavity
-- [TCEP (Tris(2-carboxyethyl)phosphine)](/xray-mp-wiki/reagents/additives/tcep/) — Reducing agent used throughout purification and crystallization
-- [Tris-HCl](/xray-mp-wiki/reagents/buffers/tris/) — Buffer component (10 mM, pH 7.5) in purification and crystallization
-- [Potassium Chloride (KCl)](/xray-mp-wiki/reagents/additives/potassium-chloride/) — Salt component (150 mM) in purification buffers
-- [Calcium Chloride (CaCl2)](/xray-mp-wiki/reagents/additives/calcium-chloride/) — Added at 2 mM in lysis and purification buffers
-- [Ma-ICMT (Isoprenylcysteine Carboxyl Methyltransferase from Methanosarcina acetivorans)](/xray-mp-wiki/proteins/enzymes/ma-icmt/) — Prokaryotic ortholog with analogous cofactor-binding domain but different substrate access architecture
-- [S Adenosyl L Homocysteine](/xray-mp-wiki/reagents/cofactors/s-adenosyl-l-homocysteine/) — Referenced in the context of S Adenosyl L Homocysteine
-- [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) — Referenced in the context of Tris Hcl
+- <a href="/xray-mp-wiki/reagents/ligands/sam/">SAM (S-Adenosyl-L-Methionine)</a> — Methyl donor cofactor for ICMT methylation reaction
+- <a href="/xray-mp-wiki/reagents/detergents/dmng/">DMNG (Decyl Maltose Neopentyl Glycol)</a> — Detergent used for solubilization and purification of beetle ICMT
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — Lipid used in LCP crystallization and modeled in the active site cavity
+- <a href="/xray-mp-wiki/reagents/additives/tcep/">TCEP (Tris(2-carboxyethyl)phosphine)</a> — Reducing agent used throughout purification and crystallization
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl</a> — Buffer component (10 mM, pH 7.5) in purification and crystallization
+- <a href="/xray-mp-wiki/reagents/additives/potassium-chloride/">Potassium Chloride (KCl)</a> — Salt component (150 mM) in purification buffers
+- <a href="/xray-mp-wiki/reagents/additives/calcium-chloride/">Calcium Chloride (CaCl2)</a> — Added at 2 mM in lysis and purification buffers
+- <a href="/xray-mp-wiki/proteins/enzymes/ma-icmt/">Ma-ICMT (Isoprenylcysteine Carboxyl Methyltransferase from Methanosarcina acetivorans)</a> — Prokaryotic ortholog with analogous cofactor-binding domain but different substrate access architecture
+- <a href="/xray-mp-wiki/reagents/cofactors/s-adenosyl-l-homocysteine/">S Adenosyl L Homocysteine</a> — Referenced in the context of S Adenosyl L Homocysteine
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> — Referenced in the context of Tris Hcl

@@ -1,7 +1,7 @@
 ---
 title: "Starkeya novella YddG (SnYddG)"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,44 +17,115 @@ verified: false
 SnYddG is a member of the drug/metabolite transporter (DMT) superfamily from the bacterium Starkeya novella. It functions as an amino acid exporter, expelling aromatic amino acids and exogenous toxic compounds to maintain cellular homeostasis. The crystal structure was determined at 2.4 A resolution in an outward-facing conformation, revealing a novel membrane transporter topology with ten transmembrane segments arranged as two five-helix inverted repeats related by two-fold pseudo-symmetry. The overall structure is basket-shaped with a large central substrate-binding cavity. The DMT superfamily comprises more than 32 families of membrane transporters ubiquitously found in eukaryotes, bacteria, and archaea.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature17991 | 5KJF | 2.4 A | P2 | SnYddG with C-terminal (His)8 tag and TEV protease cleavage site | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) (in LCP matrix) |
+### doi/10.1038##nature17991
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5kjf">5KJF</a></td>
+      <td>2.4 A</td>
+      <td>P2</td>
+      <td>SnYddG with C-terminal (His)8 tag and TEV protease cleavage site</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> (in LCP matrix)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli Rosetta2 (DE3)
 - **Construct**: S. novella yddG gene (gi:502932551) cloned from S. novella genomic DNA (strain JCM 20403) into a pET-derived plasmid with C-terminal (His)8 tag and TEV protease cleavage site. Overexpressed and induced with 0.5 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg/) for 2 h at 37 C.
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell disruption and membrane isolation</td>
+      <td>Cells disrupted with Microfluidizer, membrane fractions collected by ultracentrifugation at 12,000g followed by ultracentrifugation at 200,000g</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>Cells grown in LB medium with 50 ug/mL <a href="/xray-mp-wiki/reagents/antibiotics/ampicillin/">Ampicillin</a></td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Membrane solubilization</td>
+      <td>--</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> (pH 7.0), 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 1 mM PMSF + 1.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.24% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Insoluble material removed by ultracentrifugation at 150,000g for 30 min</td>
+    </tr>
+    <tr>
+      <td>Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (Ni-NTA resin, QIAGEN)</td>
+      <td>Ni-NTA resin (QIAGEN)</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> (pH 7.0), 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 1.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.24% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 1.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>(His)8 tag cleaved by TEV protease at 4 C overnight</td>
+    </tr>
+    <tr>
+      <td>Second Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Ni-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> to remove TEV protease and uncleaved protein</td>
+      <td>Ni-NTA resin</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> (pH 7.0), 300 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 1.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.24% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 1.2% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>(His)8 tag-cleaved protein collected in flow-through</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td>Gel-filtration chromatography (<a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase 10/300 GL, GE Healthcare)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase 10/300 GL (GE Healthcare)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> (pH 7.0), 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.006% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Protein concentrated to ~15 mg/mL using Amicon Ultra 50K filter (Millipore)</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell disruption and membrane isolation | Cells disrupted with Microfluidizer, membrane fractions collected by ultracentrifugation at 12,000g followed by ultracentrifugation at 200,000g | -- | -- + -- | Cells grown in LB medium with 50 ug/mL [Ampicillin](/xray-mp-wiki/reagents/antibiotics/ampicillin/) |
-| Solubilization | Membrane solubilization | -- | 50 mM HEPES (pH 7.0), 300 mM NaCl, 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 1 mM PMSF + 1.2% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.24% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Insoluble material removed by ultracentrifugation at 150,000g for 30 min |
-| Ni-[Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-[Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) (Ni-NTA resin, QIAGEN) | Ni-NTA resin (QIAGEN) | 50 mM HEPES (pH 7.0), 300 mM NaCl, 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 1.2% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.24% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 1.2% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | (His)8 tag cleaved by TEV protease at 4 C overnight |
-| Second Ni-[Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-[Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) to remove TEV protease and uncleaved protein | Ni-NTA resin | 50 mM HEPES (pH 7.0), 300 mM NaCl, 1.2% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.24% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 1.2% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | (His)8 tag-cleaved protein collected in flow-through |
-| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | Gel-filtration chromatography ([Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) Increase 10/300 GL, GE Healthcare) | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) Increase 10/300 GL (GE Healthcare) | 20 mM HEPES (pH 7.0), 150 mM NaCl, 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Protein concentrated to ~15 mg/mL using Amicon Ultra 50K filter (Millipore) |
-
-
-## Crystallization
-
-### doi/10.1038##nature17991
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) crystallization |
-| Protein sample | 15 mg/mL SnYddG in 20 mM HEPES (pH 7.0), 150 mM NaCl, 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) |
-| Temperature | not specified |
-| Growth time | not specified |
-| Cryoprotection | not specified |
-| Notes | Twin-syringe mixing method for protein-LCP mixture. Sandwich-drop crystallization on 96-well glass plates using Gryphon LCP (Art Robbins Instruments). Initial hits optimized by hanging-drop method on siliconized glass coverslips. Data collected at SPring-8 BL32XU beamline. Space group P2 with cell dimensions a=105.84, b=84.65, c=112.25 A, alpha=90, beta=108.46, gamma=90. Rwork/Rfree 0.2264/0.2495 for 50-2.4 A data. Molecule B selected from asymmetric unit based on best electron density quality. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP) crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>15 mg/mL SnYddG in 20 mM HEPES (pH 7.0), 150 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.006% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Twin-syringe mixing method for protein-LCP mixture. Sandwich-drop crystallization on 96-well glass plates using Gryphon LCP (Art Robbins Instruments). Initial hits optimized by hanging-drop method on siliconized glass coverslips. Data collected at SPring-8 BL32XU beamline. Space group P2 with cell dimensions a=105.84, b=84.65, c=112.25 A, alpha=90, beta=108.46, gamma=90. Rwork/Rfree 0.2264/0.2495 for 50-2.4 A data. Molecule B selected from asymmetric unit based on best electron density quality.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -114,13 +185,13 @@ between four-transmembrane SMR and ten-transmembrane DMT proteins.
 
 ## Cross-References
 
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent (1.2% for solubilization, 0.03% for SEC purification) used throughout SnYddG purification
-- [Cholesteryl Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Lipid additive (0.24% for solubilization, 0.006% for SEC) used to stabilize SnYddG during purification
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used as LCP matrix (2:3 protein-to-lipid ratio) for SnYddG crystallization
-- [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer (50 mM pH 7.0 for solubilization, 20 mM pH 7.0 for SEC) used in SnYddG purification
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Eluent (20 mM) used in Ni-NTA affinity chromatography for SnYddG purification
-- [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) — Used to cleave C-terminal (His)8 tag from SnYddG at 4 C overnight
-- [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) — Size-exclusion chromatography resin (Superdex 200 Increase 10/300 GL) used for final SnYddG purification step
-- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used for SnYddG structure determination via twin-syringe mixing with monoolein
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Primary detergent (1.2% for solubilization, 0.03% for SEC purification) used throughout SnYddG purification
+- <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesteryl Hemisuccinate (CHS)</a> — Lipid additive (0.24% for solubilization, 0.006% for SEC) used to stabilize SnYddG during purification
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — Lipid used as LCP matrix (2:3 protein-to-lipid ratio) for SnYddG crystallization
+- <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> — Buffer (50 mM pH 7.0 for solubilization, 20 mM pH 7.0 for SEC) used in SnYddG purification
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Eluent (20 mM) used in Ni-NTA affinity chromatography for SnYddG purification
+- <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease</a> — Used to cleave C-terminal (His)8 tag from SnYddG at 4 C overnight
+- <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a> — Size-exclusion chromatography resin (Superdex 200 Increase 10/300 GL) used for final SnYddG purification step
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — Crystallization method used for SnYddG structure determination via twin-syringe mixing with monoolein
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> — Method used in structure determination or purification

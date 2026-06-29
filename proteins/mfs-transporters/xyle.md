@@ -1,12 +1,12 @@
 ---
 title: "XylE (Escherichia coli Sugar Transporter)"
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
-sources: [doi/10.1038##nature11524, doi/10.1038##nature13306, doi/10.1038##ncomms5521, doi/10.1038##nsmb.2569]
+sources: [doi/10.1038##nature11524, doi/10.1038##ncomms5521, doi/10.1038##nsmb.2569]
 verified: false
 ---
 
@@ -17,134 +17,1722 @@ verified: false
 XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reagents/additives/glucose) transporters [SLC2A1](/xray-mp-wiki/proteins/glut1)-4. It belongs to the sugar porter (SP) family within the major facilitator superfamily (MFS) of secondary transporters. XylE functions as a proton-coupled xylose (H+/xylose) symporter. XylE has been crystallized in multiple conformations: an outward-facing partly occluded conformation, an inward-facing partly occluded conformation, and a new inward-facing open conformation with a detached cytoplasmic domain. The inward-open structure reveals an asymmetric rocker-switch movement of the N-domain against the C-domain during transport. Key proton-coupling residues include Asp27 (TM1), Arg133, and Glu206 (TM6); sugar-binding residues include Gln168 (TM5) and Trp392 (TM10).
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature11524 | 4GBZ | 2.8 | unknown | Full-length wild-type XylE from E. coli O157:H7 | D-xylose |
-| doi/10.1038##nature11524 | 4GBX | 2.9 | unknown | Full-length wild-type XylE from E. coli O157:H7 | D-glucose |
-| doi/10.1038##nature11524 | 4GBY | 2.6 | unknown | Full-length wild-type XylE from E. coli O157:H7 | 6-bromo-6-deoxy-D-glucose |
-| doi/10.1038##ncomms5521 | 4QIQ | 3.5 | P3;21 | Truncated XylE residues 6-480 from E. coli BL21(DE3) genomic DNA | D-glucose (30 mM, crystallization additive) |
-| doi/10.1038##nsmb.2569 | 4JA4 | 4.2 | P6_1 | Full-length wild-type XylE from E. coli C41(DE3), N-terminal His6-TEV tag | None (apoprotein) |
-| doi/10.1038##nsmb.2569 | 4JA3 | 3.8 | C2 | Full-length wild-type XylE from E. coli C41(DE3), N-terminal His6-TEV tag | None (apoprotein) |
+### doi/10.1038##nature11524
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4gbz">4GBZ</a></td>
+      <td>2.8</td>
+      <td>unknown</td>
+      <td>Full-length wild-type XylE from E. coli O157:H7</td>
+      <td>D-xylose</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4gbx">4GBX</a></td>
+      <td>2.9</td>
+      <td>unknown</td>
+      <td>Full-length wild-type XylE from E. coli O157:H7</td>
+      <td>D-glucose</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4gby">4GBY</a></td>
+      <td>2.6</td>
+      <td>unknown</td>
+      <td>Full-length wild-type XylE from E. coli O157:H7</td>
+      <td>6-bromo-6-deoxy-D-glucose</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli BL21(DE3) and E. coli BL21 C43(DE3)
 - **Construct**: Full-length XylE, N-terminal His6-tag (pET15b); Truncated XylE residues 6-480 (pET-15b)
 - **Induction**: 0.2 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg) at D600 of 1.5 (full-length); 0.5 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg) at OD600 0.5, shifted to 18C (truncated)
 - **Media**: Luria-Bertani medium and Luria-Bertani (LB) medium at 37C, 250 rpm
 
-### Purification Workflow
-
-#### Source: doi/10.1038##nature11524
+**Purification:**
 
 - **Expression system**: E. coli BL21(DE3)
 - **Expression construct**: Full-length XylE with N-terminal [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag) (pET15b)
 - **Tag info**: [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag), removed by protease
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture | Fermentation | — | Luria-Bertani medium | 12 flasks, 300 r.p.m., 4 h at 37 C after [IPTG](/xray-mp-wiki/reagents/additives/iptg) induction |
-| Cell harvest and homogenization | French press cell lysis | — | 25 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 150 mM NaCl | Two passes at 10,000-15,000 lb/in2 |
-| Membrane preparation | Ultracentrifugation | — | 25 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 150 mM NaCl | 150,000g for 1 h; membrane fraction harvested |
-| Membrane solubilization | Detergent solubilization | -- | 25 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 150 mM NaCl + 1.5% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm) | 1 h incubation at 4 C |
-| Affinity chromatography | Ni-NTA affinity chromatography | Ni-NTA (Qiagen) | 25 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 150 mM NaCl, 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole), 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm) + 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm) | Wash with 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole); elute with 250 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) |
-| Tag removal | Protease cleavage | — |  | Hexahistidine tag removed |
-| Size-exclusion chromatography | SEC | [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200) (GE Healthcare) | 25 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 150 mM NaCl, various detergents + various |  |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture</td>
+      <td>Fermentation</td>
+      <td>—</td>
+      <td>Luria-Bertani medium</td>
+      <td>12 flasks, 300 r.p.m., 4 h at 37 C after <a href="/xray-mp-wiki/reagents/additives/iptg">IPTG</a> induction</td>
+    </tr>
+    <tr>
+      <td>Cell harvest and homogenization</td>
+      <td>French press cell lysis</td>
+      <td>—</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl</td>
+      <td>Two passes at 10,000-15,000 lb/in2</td>
+    </tr>
+    <tr>
+      <td>Membrane preparation</td>
+      <td>Ultracentrifugation</td>
+      <td>—</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl</td>
+      <td>150,000g for 1 h; membrane fraction harvested</td>
+    </tr>
+    <tr>
+      <td>Membrane solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl + 1.5% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>1 h incubation at 4 C</td>
+    </tr>
+    <tr>
+      <td>Affinity chromatography</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (Qiagen)</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>Wash with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>; elute with 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a></td>
+    </tr>
+    <tr>
+      <td>Tag removal</td>
+      <td>Protease cleavage</td>
+      <td>—</td>
+      <td></td>
+      <td>Hexahistidine tag removed</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200 Increase SEC Resin</a> (GE Healthcare)</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, various detergents + various</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: 10 mg/ml in 25 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 150 mM NaCl
 
-#### Source: doi/10.1038##ncomms5521
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>XylE purified in <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystallized with 20 mM <a href="/xray-mp-wiki/reagents/substrates/d-xylose">D-Xylose</a>; diffraction to 2.8 A</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>XylE purified in <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystallized with 40 mM D-<a href="/xray-mp-wiki/reagents/additives/glucose">Glucose</a>; diffraction to 2.9 A</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>XylE purified in <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystallized with 40 mM 6-bromo-6-deoxy-D-<a href="/xray-mp-wiki/reagents/additives/glucose">Glucose</a>; Br anomalous signal; diffraction to 2.6 A</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4gbz">4GBZ</a> — Chain A (12 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MNTQ</span><span class="topo-inside">YNSSYIFSIT</span><span class="topo-membrane">LVATLGGLLFGYDTAVISGTV</span><span class="topo-unknown">ESLNTV</span><span class="topo-outside">FVAPQNLSESAANS</span><span class="topo-membrane">LLGFC</span></span>
+<span class="topo-line"><span class="topo-membrane">VASALIGCIIGGALG</span><span class="topo-inside">GYCSNRFGRRDS</span><span class="topo-membrane">LKIAAVLFFISGVGSAWP</span><span class="topo-outside">ELGFTSINPDNTVPV</span></span>
+<span class="topo-line"><span class="topo-outside">YLAG</span><span class="topo-membrane">YVPEFVIYRIIGGIGVGLASMLSP</span><span class="topo-inside">MYIAELAPAHIRG</span><span class="topo-membrane">KLVSFNQFAIIFGQLLVYC</span></span>
+<span class="topo-line"><span class="topo-membrane">VNYFI</span><span class="topo-outside">ARSGDASWLNTDG</span><span class="topo-membrane">WRYMFASECIPALLFLMLLY</span><span class="topo-inside">TVPESPRWLMSRGKQEQAEGIL</span></span>
+<span class="topo-line"><span class="topo-inside">RKIMGNTLATQAVQEIKHSLDHGRKTGGRLLMFGVGVIV</span><span class="topo-membrane">IGVMLSIFQQFVGINVVLYYA</span></span>
+<span class="topo-line"><span class="topo-membrane">PE</span><span class="topo-outside">VFKTLGASTDIAL</span><span class="topo-membrane">LQTIIVGVINLTFTVLAIMTV</span><span class="topo-inside">DKFGR</span><span class="topo-membrane">KPLQIIGALGMAIGMFSLG</span></span>
+<span class="topo-line"><span class="topo-membrane">TAFY</span><span class="topo-outside">TQAPGIV</span><span class="topo-membrane">ALLSMLFYVAAFAMSWGPVCWVLL</span><span class="topo-inside">SEIFPNAIRGKALA</span><span class="topo-membrane">IAVAAQWLANY</span></span>
+<span class="topo-line"><span class="topo-membrane">FVSWTFPMMDK</span><span class="topo-unknown">NSWLVAHF</span><span class="topo-outside">HN</span><span class="topo-membrane">GFSYWIYGCMGVLAALFMW</span><span class="topo-inside">KFVPETKGKTLEELEALWE</span><span class="topo-unknown">P</span></span>
+<span class="topo-line"><span class="topo-unknown">ETKKTQQTATL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>1</td>
+      <td>4</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>14</td>
+      <td>5</td>
+      <td>14</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>35</td>
+      <td>15</td>
+      <td>35</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>41</td>
+      <td>36</td>
+      <td>41</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>55</td>
+      <td>42</td>
+      <td>55</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>75</td>
+      <td>56</td>
+      <td>75</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>87</td>
+      <td>76</td>
+      <td>87</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>105</td>
+      <td>88</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>124</td>
+      <td>106</td>
+      <td>124</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>125</td>
+      <td>148</td>
+      <td>125</td>
+      <td>148</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>161</td>
+      <td>149</td>
+      <td>161</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>162</td>
+      <td>185</td>
+      <td>162</td>
+      <td>185</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>186</td>
+      <td>198</td>
+      <td>186</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>218</td>
+      <td>199</td>
+      <td>218</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>219</td>
+      <td>279</td>
+      <td>219</td>
+      <td>279</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>302</td>
+      <td>280</td>
+      <td>302</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>303</td>
+      <td>315</td>
+      <td>303</td>
+      <td>315</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>316</td>
+      <td>336</td>
+      <td>316</td>
+      <td>336</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>337</td>
+      <td>341</td>
+      <td>337</td>
+      <td>341</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>342</td>
+      <td>364</td>
+      <td>342</td>
+      <td>364</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>365</td>
+      <td>371</td>
+      <td>365</td>
+      <td>371</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>372</td>
+      <td>395</td>
+      <td>372</td>
+      <td>395</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>396</td>
+      <td>409</td>
+      <td>396</td>
+      <td>409</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>410</td>
+      <td>431</td>
+      <td>410</td>
+      <td>431</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>432</td>
+      <td>439</td>
+      <td>432</td>
+      <td>439</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>440</td>
+      <td>441</td>
+      <td>440</td>
+      <td>441</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>442</td>
+      <td>460</td>
+      <td>442</td>
+      <td>460</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>461</td>
+      <td>479</td>
+      <td>461</td>
+      <td>479</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>480</td>
+      <td>491</td>
+      <td>480</td>
+      <td>491</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4gby">4GBY</a> — Chain A (12 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MNTQ</span><span class="topo-outside">YNSSYIF</span><span class="topo-membrane">SITLVATLGGLLFGYDTAVIS</span><span class="topo-inside">GTVESLNTVFVAPQNLSESAANSLLG</span><span class="topo-membrane">FC</span></span>
+<span class="topo-line"><span class="topo-membrane">VASALIGCIIGGALGGYCS</span><span class="topo-outside">NRFGR</span><span class="topo-membrane">RDSLKIAAVLFFISGVGSAWPE</span><span class="topo-inside">LGFTSINPDNTVPV</span></span>
+<span class="topo-line"><span class="topo-inside">YLAGYVP</span><span class="topo-membrane">EFVIYRIIGGIGVGLASMLSPMYI</span><span class="topo-outside">AELAPAHIRG</span><span class="topo-membrane">KLVSFNQFAIIFGQLLVYC</span></span>
+<span class="topo-line"><span class="topo-membrane">VN</span><span class="topo-inside">YFIARSGDASWLNTDGWRY</span><span class="topo-membrane">MFASECIPALLFLMLLYTV</span><span class="topo-outside">PESPRWLMSRGKQEQAEGIL</span></span>
+<span class="topo-line"><span class="topo-outside">RKIMGNTLATQAVQEIKHSLDHGRKTGGRLLMFGVGVIV</span><span class="topo-membrane">IGVMLSIFQQFVGINVVLYYA</span></span>
+<span class="topo-line"><span class="topo-membrane">P</span><span class="topo-inside">EVFKTLGASTDIALLQ</span><span class="topo-membrane">TIIVGVINLTFTVLAIMTV</span><span class="topo-outside">DKFGR</span><span class="topo-membrane">KPLQIIGALGMAIGMFSLG</span></span>
+<span class="topo-line"><span class="topo-membrane">TA</span><span class="topo-inside">FYTQAPGIV</span><span class="topo-membrane">ALLSMLFYVAAFAMSWGPVCWVLLS</span><span class="topo-outside">EIFPNAIRGKAL</span><span class="topo-membrane">AIAVAAQWLANY</span></span>
+<span class="topo-line"><span class="topo-membrane">FVSWTFPMMD</span><span class="topo-inside">KNSWLVAHFHNG</span><span class="topo-membrane">FSYWIYGCMGVLAALFMW</span><span class="topo-outside">KFVPETKGKTLEELEALWE</span><span class="topo-unknown">P</span></span>
+<span class="topo-line"><span class="topo-unknown">ETKKTQQTATL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>1</td>
+      <td>4</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>11</td>
+      <td>5</td>
+      <td>11</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>32</td>
+      <td>12</td>
+      <td>32</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>58</td>
+      <td>33</td>
+      <td>58</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>79</td>
+      <td>59</td>
+      <td>79</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>84</td>
+      <td>80</td>
+      <td>84</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>106</td>
+      <td>85</td>
+      <td>106</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>107</td>
+      <td>127</td>
+      <td>107</td>
+      <td>127</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>128</td>
+      <td>151</td>
+      <td>128</td>
+      <td>151</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>152</td>
+      <td>161</td>
+      <td>152</td>
+      <td>161</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>162</td>
+      <td>182</td>
+      <td>162</td>
+      <td>182</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>183</td>
+      <td>201</td>
+      <td>183</td>
+      <td>201</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>202</td>
+      <td>220</td>
+      <td>202</td>
+      <td>220</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>221</td>
+      <td>279</td>
+      <td>221</td>
+      <td>279</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>301</td>
+      <td>280</td>
+      <td>301</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>302</td>
+      <td>317</td>
+      <td>302</td>
+      <td>317</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>318</td>
+      <td>336</td>
+      <td>318</td>
+      <td>336</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>337</td>
+      <td>341</td>
+      <td>337</td>
+      <td>341</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>342</td>
+      <td>362</td>
+      <td>342</td>
+      <td>362</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>363</td>
+      <td>371</td>
+      <td>363</td>
+      <td>371</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>372</td>
+      <td>396</td>
+      <td>372</td>
+      <td>396</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>397</td>
+      <td>408</td>
+      <td>397</td>
+      <td>408</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>409</td>
+      <td>430</td>
+      <td>409</td>
+      <td>430</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>431</td>
+      <td>442</td>
+      <td>431</td>
+      <td>442</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>443</td>
+      <td>460</td>
+      <td>443</td>
+      <td>460</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>461</td>
+      <td>479</td>
+      <td>461</td>
+      <td>479</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>480</td>
+      <td>491</td>
+      <td>480</td>
+      <td>491</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
+### doi/10.1038##ncomms5521
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4qiq">4QIQ</a></td>
+      <td>3.5</td>
+      <td>P3;21</td>
+      <td>Truncated XylE residues 6-480 from E. coli BL21(DE3) genomic DNA</td>
+      <td>D-glucose (30 mM, crystallization additive)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: E. coli BL21(DE3) and E. coli BL21 C43(DE3)
+- **Construct**: Full-length XylE, N-terminal His6-tag (pET15b); Truncated XylE residues 6-480 (pET-15b)
+- **Induction**: 0.2 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg) at D600 of 1.5 (full-length); 0.5 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg) at OD600 0.5, shifted to 18C (truncated)
+- **Media**: Luria-Bertani medium and Luria-Bertani (LB) medium at 37C, 250 rpm
+
+**Purification:**
 
 - **Expression system**: E. coli BL21 C43(DE3)
 - **Expression construct**: Truncated XylE residues 6-480, N-terminal [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag) (pET-15b)
 - **Tag info**: [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag), removed by thrombin protease overnight at 4C with 2.5 mM CaCl2
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture | Fermentation | — | Luria-Bertani (LB) medium at 37C, 250 rpm | Shifted to 18C at OD600 0.5; induced with 0.5 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg); overnight culture |
-| Cell harvest and homogenization | Microfluidizer M110-P cell lysis | — | 25 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 150 mM NaCl | 20,000 psi |
-| Membrane preparation | Ultracentrifugation | — | 25 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 150 mM NaCl | 10,000g for 30 min at 4C, then 1 h at 4C |
-| Membrane solubilization | Detergent solubilization | -- | 10 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.5 + 1% (w/v) DM (decyl-beta-D-maltopyranoside) | 5% w/v DM added, rotated 2 h at 4C; centrifuged 150,000g for 45 min at 4C |
-| Affinity chromatography | Ni-NTA affinity chromatography | Ni-NTA (Qiagen) | 25 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) + 0.2% w/v DM | Wash with 25 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) then 50 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole); elute with 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) in 10 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.5, 150 mM NaCl, 0.2% DM |
-| Tag removal | Protease cleavage | — |  | His-tag cleaved overnight at 4C using 1 unit human alpha-thrombin per 1 mg XylE with 2.5 mM CaCl2 |
-| Size-exclusion chromatography | SEC | Superdex S200 | 10 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.5, 150 mM NaCl, various detergents + various (screened for optimal detergent) |  |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture</td>
+      <td>Fermentation</td>
+      <td>—</td>
+      <td>Luria-Bertani (LB) medium at 37C, 250 rpm</td>
+      <td>Shifted to 18C at OD600 0.5; induced with 0.5 mM <a href="/xray-mp-wiki/reagents/additives/iptg">IPTG</a>; overnight culture</td>
+    </tr>
+    <tr>
+      <td>Cell harvest and homogenization</td>
+      <td>Microfluidizer M110-P cell lysis</td>
+      <td>—</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl</td>
+      <td>20,000 psi</td>
+    </tr>
+    <tr>
+      <td>Membrane preparation</td>
+      <td>Ultracentrifugation</td>
+      <td>—</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl</td>
+      <td>10,000g for 30 min at 4C, then 1 h at 4C</td>
+    </tr>
+    <tr>
+      <td>Membrane solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.5 + 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
+      <td>5% w/v <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> added, rotated 2 h at 4C; centrifuged 150,000g for 45 min at 4C</td>
+    </tr>
+    <tr>
+      <td>Affinity chromatography</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (Qiagen)</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + 0.2% w/v <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+      <td>Wash with 25 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> then 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>; elute with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> in 10 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.5, 150 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+    </tr>
+    <tr>
+      <td>Tag removal</td>
+      <td>Protease cleavage</td>
+      <td>—</td>
+      <td></td>
+      <td>His-tag cleaved overnight at 4C using 1 unit human alpha-thrombin per 1 mg XylE with 2.5 mM CaCl2</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td>Superdex S200</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.5, 150 mM NaCl, various detergents + various (screened for optimal detergent)</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: 5-6 mg/ml
 
-#### Source: doi/10.1038##nsmb.2569
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>XylE purified in 1% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, concentrated to 5-6 mg/ml</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20C</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Inward-facing open conformation with detached cytoplasmic domain; PDB 4QIQ</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4qiq">4QIQ</a> — Chain A (12 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GSHMNS</span><span class="topo-outside">SYIFSITL</span><span class="topo-membrane">VATLGGLLFGYDTAVISGTVESLN</span><span class="topo-inside">TVFVAPQNLSES</span><span class="topo-membrane">AANSLLGFCV</span></span>
+<span class="topo-line"><span class="topo-membrane">ASALIGCIIGGALG</span><span class="topo-outside">GYCSNRFGRRD</span><span class="topo-membrane">SLKIAAVLFFISGVGSAWPE</span><span class="topo-inside">LGFTSINPDNTVPVY</span></span>
+<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">AGYVPEFVIYRIIGGIGVGLASM</span><span class="topo-outside">LSPMYIAELAPAHIRGKLVS</span><span class="topo-membrane">FNQFAIIFGQLLVYCV</span></span>
+<span class="topo-line"><span class="topo-membrane">NYFIAR</span><span class="topo-inside">SGDASWLNTD</span><span class="topo-membrane">GWRYMFASECIPALLFLMLLY</span><span class="topo-outside">TVPESPRWLM</span><span class="topo-unknown">SRGKQEQAEGILR</span></span>
+<span class="topo-line"><span class="topo-unknown">KIMGN</span><span class="topo-outside">TLATQAVQEIKHSLD</span><span class="topo-unknown">HGRKTGG</span><span class="topo-outside">RLLMFGVGVIV</span><span class="topo-membrane">IGVMLSIFQQFVGINVVLYYAP</span></span>
+<span class="topo-line"><span class="topo-membrane">EVFK</span><span class="topo-inside">TLGAST</span><span class="topo-membrane">DIALLQTIIVGVINLTFTVLAIMTV</span><span class="topo-outside">DKFGRK</span><span class="topo-membrane">PLQIIGALGMAIGMFSLGT</span></span>
+<span class="topo-line"><span class="topo-membrane">AFY</span><span class="topo-inside">TQAPG</span><span class="topo-membrane">IVALLSMLFYVAAFAMSWGPVCW</span><span class="topo-outside">VLLSEIFPNAIRGKALAI</span><span class="topo-membrane">AVAAQWLANYF</span></span>
+<span class="topo-line"><span class="topo-membrane">VSWTFPMMDKN</span><span class="topo-unknown">SWLVAHF</span><span class="topo-inside">HN</span><span class="topo-membrane">GFSYWIYGCMGVLAALFMWKF</span><span class="topo-outside">VPETKGKTL</span><span class="topo-unknown">EELEALWEP</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>6</td>
+      <td>2</td>
+      <td>7</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>14</td>
+      <td>8</td>
+      <td>15</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>38</td>
+      <td>16</td>
+      <td>39</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>50</td>
+      <td>40</td>
+      <td>51</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>74</td>
+      <td>52</td>
+      <td>75</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>85</td>
+      <td>76</td>
+      <td>86</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>105</td>
+      <td>87</td>
+      <td>106</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>121</td>
+      <td>107</td>
+      <td>122</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>122</td>
+      <td>144</td>
+      <td>123</td>
+      <td>145</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>145</td>
+      <td>164</td>
+      <td>146</td>
+      <td>165</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>186</td>
+      <td>166</td>
+      <td>187</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>187</td>
+      <td>196</td>
+      <td>188</td>
+      <td>197</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>197</td>
+      <td>217</td>
+      <td>198</td>
+      <td>218</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>227</td>
+      <td>219</td>
+      <td>228</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>228</td>
+      <td>245</td>
+      <td>229</td>
+      <td>246</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>246</td>
+      <td>260</td>
+      <td>247</td>
+      <td>261</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>261</td>
+      <td>267</td>
+      <td>262</td>
+      <td>268</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>268</td>
+      <td>278</td>
+      <td>269</td>
+      <td>279</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>279</td>
+      <td>304</td>
+      <td>280</td>
+      <td>305</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>305</td>
+      <td>310</td>
+      <td>306</td>
+      <td>311</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>311</td>
+      <td>335</td>
+      <td>312</td>
+      <td>336</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>336</td>
+      <td>341</td>
+      <td>337</td>
+      <td>342</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>342</td>
+      <td>363</td>
+      <td>343</td>
+      <td>364</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>364</td>
+      <td>368</td>
+      <td>365</td>
+      <td>369</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>369</td>
+      <td>391</td>
+      <td>370</td>
+      <td>392</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>392</td>
+      <td>409</td>
+      <td>393</td>
+      <td>410</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>410</td>
+      <td>431</td>
+      <td>411</td>
+      <td>432</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>432</td>
+      <td>438</td>
+      <td>433</td>
+      <td>439</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>439</td>
+      <td>440</td>
+      <td>440</td>
+      <td>441</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>441</td>
+      <td>461</td>
+      <td>442</td>
+      <td>462</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>462</td>
+      <td>470</td>
+      <td>463</td>
+      <td>471</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>471</td>
+      <td>479</td>
+      <td>472</td>
+      <td>480</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
+### doi/10.1038##nsmb.2569
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4ja4">4JA4</a></td>
+      <td>4.2</td>
+      <td>P6_1</td>
+      <td>Full-length wild-type XylE from E. coli C41(DE3), N-terminal His6-TEV tag</td>
+      <td>None (apoprotein)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4ja3">4JA3</a></td>
+      <td>3.8</td>
+      <td>C2</td>
+      <td>Full-length wild-type XylE from E. coli C41(DE3), N-terminal His6-TEV tag</td>
+      <td>None (apoprotein)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: E. coli BL21(DE3) and E. coli BL21 C43(DE3)
+- **Construct**: Full-length XylE, N-terminal His6-tag (pET15b); Truncated XylE residues 6-480 (pET-15b)
+- **Induction**: 0.2 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg) at D600 of 1.5 (full-length); 0.5 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg) at OD600 0.5, shifted to 18C (truncated)
+- **Media**: Luria-Bertani medium and Luria-Bertani (LB) medium at 37C, 250 rpm
+
+**Purification:**
 
 - **Expression system**: E. coli C41(DE3)
 - **Expression construct**: Full-length wild-type XylE from E. coli C41(DE3), N-terminal His6-TEV tag (modified pTH27 vector)
 - **Tag info**: [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag) with TEV protease cleavage site, removed by TEV protease
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture | Fermentation in Terrific broth (TB) medium | — | Terrific broth (TB) | 220 r.p.m., 37 C; overexpression induced by 0.2 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg) at OD600 0.7-1.0; harvested after 16-20 h at 20 C |
-| Cell lysis | Emulsiflex microfluidizer at 15,000 p.s.i. chamber pressure | — | 20 mM sodium phosphate (Na-P) pH 7.5, 300 mM NaCl, 0.5 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep), 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), 1 mg/ml lysozyme, 5 U/ml DNaseI, [EDTA](/xray-mp-wiki/reagents/additives/edta)-free Complete Protease Inhibitor Cocktail | Resuspension at 4 C for 45 min; debris removed by centrifugation at 10,000g for 10 min at 4 C |
-| Membrane preparation | Ultracentrifugation | — | Same as lysis buffer | 104,000g (Beckman Coulter, Ti45 rotor) at 4 C for 50 min |
-| Membrane solubilization | Detergent solubilization | -- | 20 mM Na-P pH 7.5, 300 mM NaCl, 15 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole), 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), 0.5 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep), Complete Protease Inhibitor Cocktail + 1% decyl-beta-D-maltoside (DM) | 60 min incubation at 4 C; clarified by ultracentrifugation at 104,000g for 30 min at 4 C |
-| IMAC purification | Immobilized metal ion affinity chromatography (IMAC) with Ni-NTA beads | Ni-NTA beads | 20 mM Na-P pH 7.5, 300 mM NaCl, 15-30 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole), 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), 0.5 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep), 0.2% DM + 0.2% DM | Beads incubated with supernatant for 1 h; column washed with 15-30 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) wash buffer |
-| Tag removal | TEV protease cleavage | -- | Same as IMAC buffer | 1 mg TEV per ml of IMAC beads, incubated overnight at 4 C; cleavage >95% complete |
-| Size-exclusion chromatography | SEC on HiLoad Superdex 200 16/60 GL column | HiLoad Superdex 200 16/60 GL (ÄKTAexplorer 10) | 20 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes), 150 mM NaCl, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), 0.5 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep), 0.2% DM + 0.2% DM | Peak fractions collected, concentrated to 8-18 mg/ml |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture</td>
+      <td>Fermentation in Terrific broth (TB) medium</td>
+      <td>—</td>
+      <td>Terrific broth (TB)</td>
+      <td>220 r.p.m., 37 C; overexpression induced by 0.2 mM <a href="/xray-mp-wiki/reagents/additives/iptg">IPTG</a> at OD600 0.7-1.0; harvested after 16-20 h at 20 C</td>
+    </tr>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Emulsiflex microfluidizer at 15,000 p.s.i. chamber pressure</td>
+      <td>—</td>
+      <td>20 mM sodium phosphate (Na-P) pH 7.5, 300 mM NaCl, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/tcep">TCEP</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 1 mg/ml lysozyme, 5 U/ml DNaseI, <a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a>-free Complete Protease Inhibitor Cocktail</td>
+      <td>Resuspension at 4 C for 45 min; debris removed by centrifugation at 10,000g for 10 min at 4 C</td>
+    </tr>
+    <tr>
+      <td>Membrane preparation</td>
+      <td>Ultracentrifugation</td>
+      <td>—</td>
+      <td>Same as lysis buffer</td>
+      <td>104,000g (Beckman Coulter, Ti45 rotor) at 4 C for 50 min</td>
+    </tr>
+    <tr>
+      <td>Membrane solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>20 mM Na-P pH 7.5, 300 mM NaCl, 15 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/tcep">TCEP</a>, Complete Protease Inhibitor Cocktail + 1% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> (<a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>)</td>
+      <td>60 min incubation at 4 C; clarified by ultracentrifugation at 104,000g for 30 min at 4 C</td>
+    </tr>
+    <tr>
+      <td>IMAC purification</td>
+      <td>Immobilized metal ion <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> (IMAC) with <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> beads</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> beads</td>
+      <td>20 mM Na-P pH 7.5, 300 mM NaCl, 15-30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/tcep">TCEP</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+      <td>Beads incubated with supernatant for 1 h; column washed with 15-30 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> wash buffer</td>
+    </tr>
+    <tr>
+      <td>Tag removal</td>
+      <td><a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> protease cleavage</td>
+      <td>--</td>
+      <td>Same as IMAC buffer</td>
+      <td>1 mg <a href="/xray-mp-wiki/reagents/enzymes/tev-protease/">TEV</a> per ml of IMAC beads, incubated overnight at 4 C; cleavage >95% complete</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> on HiLoad <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 16/60 GL column</td>
+      <td>HiLoad <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 16/60 GL (ÄKTAexplorer 10)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a>, 150 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/tcep">TCEP</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+      <td>Peak fractions collected, concentrated to 8-18 mg/ml</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: 8-18 mg/ml
 
+**Crystallization:**
 
-## Crystallization
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion crystallization; P6_1 space group; 3-fold averaging for phase improvement</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Tag-free XylE at 8-18 mg/ml in 20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a>, 150 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/tcep">TCEP</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not specified in text</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Inward open conformation; PDB 4JA4; 4.2 A resolution; data collected at Diamond Light Source beamline I02 (proposal MX5873/MX6603)</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion crystallization; C2 space group; 2-fold averaging for phase improvement</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Tag-free XylE at 8-18 mg/ml in 20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a>, 150 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/tcep">TCEP</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not specified in text</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Partially occluded inward open conformation; PDB 4JA3; 3.8 A resolution; data collected at SOLEIL synchrotron beamline PROXIMA1 (proposal 20110314)</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-### doi/10.1038##nature11524
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4ja4">4JA4</a> — Chain A (12 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | XylE purified in [DDM](/xray-mp-wiki/reagents/detergents/ddm) |
-| Notes | Crystallized with 20 mM [D-Xylose](/xray-mp-wiki/reagents/substrates/d-xylose); diffraction to 2.8 A |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GNTQYNSS</span><span class="topo-outside">YIF</span><span class="topo-membrane">SITLVATLGGLLFGYDTAVISG</span><span class="topo-inside">TVESLNTVFVAPQNLSESAANSLLG</span><span class="topo-membrane">FC</span></span>
+<span class="topo-line"><span class="topo-membrane">VASALIGCIIGGALG</span><span class="topo-outside">GYCSNRFGRR</span><span class="topo-membrane">DSLKIAAVLFFISGVGSAWP</span><span class="topo-inside">ELGFTSINPDNTVPV</span></span>
+<span class="topo-line"><span class="topo-inside">YLAGYV</span><span class="topo-membrane">PEFVIYRIIGGIGVGLASMLSP</span><span class="topo-outside">MYIAELAPAHIRGKLV</span><span class="topo-membrane">SFNQFAIIFGQLLVYC</span></span>
+<span class="topo-line"><span class="topo-membrane">VN</span><span class="topo-inside">YFIARSGDASWLNTDGWRYM</span><span class="topo-membrane">FASECIPALLFLMLLYTV</span><span class="topo-outside">PESPRWLM</span><span class="topo-unknown">SRGK</span><span class="topo-outside">QEQAEGIL</span></span>
+<span class="topo-line"><span class="topo-outside">RKIMGNTLATQAVQEIKHSLDHG</span><span class="topo-unknown">RKTGGRLL</span><span class="topo-outside">MFGVGVIV</span><span class="topo-membrane">IGVMLSIFQQFVGINVVLYYA</span></span>
+<span class="topo-line"><span class="topo-inside">PEV</span><span class="topo-unknown">FKTLGASTDIA</span><span class="topo-inside">LLQ</span><span class="topo-membrane">TIIVGVINLTFTVLAIMTV</span><span class="topo-outside">DKFGRK</span><span class="topo-membrane">PLQIIGALGMAIGMFSLG</span></span>
+<span class="topo-line"><span class="topo-membrane">T</span><span class="topo-inside">AFYTQAPGIVA</span><span class="topo-membrane">LLSMLFYVAAFAMSWGPVCW</span><span class="topo-outside">VLLSEIFPNAIRGKALA</span><span class="topo-membrane">IAVAAQWLANY</span></span>
+<span class="topo-line"><span class="topo-membrane">FVSWTFPMM</span><span class="topo-inside">DKNSW</span><span class="topo-unknown">LVAHFH</span><span class="topo-inside">NGF</span><span class="topo-membrane">SYWIYGCMGVLAALFMWKF</span><span class="topo-outside">VPETKGKTLEELEALWE</span><span class="topo-unknown">P</span></span>
+<span class="topo-line"><span class="topo-unknown">ETKKT</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>8</td>
+      <td>1</td>
+      <td>8</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>11</td>
+      <td>9</td>
+      <td>11</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>33</td>
+      <td>12</td>
+      <td>33</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>58</td>
+      <td>34</td>
+      <td>58</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>75</td>
+      <td>59</td>
+      <td>75</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>85</td>
+      <td>76</td>
+      <td>85</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>105</td>
+      <td>86</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>126</td>
+      <td>106</td>
+      <td>126</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>127</td>
+      <td>148</td>
+      <td>127</td>
+      <td>148</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>164</td>
+      <td>149</td>
+      <td>164</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>182</td>
+      <td>165</td>
+      <td>182</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>183</td>
+      <td>202</td>
+      <td>183</td>
+      <td>202</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>203</td>
+      <td>220</td>
+      <td>203</td>
+      <td>220</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>221</td>
+      <td>228</td>
+      <td>221</td>
+      <td>228</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>229</td>
+      <td>232</td>
+      <td>229</td>
+      <td>232</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>233</td>
+      <td>263</td>
+      <td>233</td>
+      <td>263</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>264</td>
+      <td>271</td>
+      <td>264</td>
+      <td>271</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>272</td>
+      <td>279</td>
+      <td>272</td>
+      <td>279</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>300</td>
+      <td>280</td>
+      <td>300</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>301</td>
+      <td>303</td>
+      <td>301</td>
+      <td>303</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>304</td>
+      <td>314</td>
+      <td>304</td>
+      <td>314</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>315</td>
+      <td>317</td>
+      <td>315</td>
+      <td>317</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>318</td>
+      <td>336</td>
+      <td>318</td>
+      <td>336</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>337</td>
+      <td>342</td>
+      <td>337</td>
+      <td>342</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>343</td>
+      <td>361</td>
+      <td>343</td>
+      <td>361</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>362</td>
+      <td>372</td>
+      <td>362</td>
+      <td>372</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>373</td>
+      <td>392</td>
+      <td>373</td>
+      <td>392</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>393</td>
+      <td>409</td>
+      <td>393</td>
+      <td>409</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>410</td>
+      <td>429</td>
+      <td>410</td>
+      <td>429</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>430</td>
+      <td>434</td>
+      <td>430</td>
+      <td>434</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>435</td>
+      <td>440</td>
+      <td>435</td>
+      <td>440</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>441</td>
+      <td>443</td>
+      <td>441</td>
+      <td>443</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>444</td>
+      <td>462</td>
+      <td>444</td>
+      <td>462</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>463</td>
+      <td>479</td>
+      <td>463</td>
+      <td>479</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>480</td>
+      <td>485</td>
+      <td>480</td>
+      <td>485</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | XylE purified in [DDM](/xray-mp-wiki/reagents/detergents/ddm) |
-| Notes | Crystallized with 40 mM D-[Glucose](/xray-mp-wiki/reagents/additives/glucose); diffraction to 2.9 A |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4ja3">4JA3</a> — Chain A (12 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | XylE purified in [DDM](/xray-mp-wiki/reagents/detergents/ddm) |
-| Notes | Crystallized with 40 mM 6-bromo-6-deoxy-D-[Glucose](/xray-mp-wiki/reagents/additives/glucose); Br anomalous signal; diffraction to 2.6 A |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GNTQYNS</span><span class="topo-inside">SYIFSITL</span><span class="topo-membrane">VATLGGLLFGYDTAVISGTVESLN</span><span class="topo-outside">TVFVAPQNLSES</span><span class="topo-membrane">AANSLLGFC</span></span>
+<span class="topo-line"><span class="topo-membrane">VASALIGCIIGGALG</span><span class="topo-inside">GYCSNRFGRRDS</span><span class="topo-membrane">LKIAAVLFFISGVGSAWPE</span><span class="topo-outside">LGFTSINPDNTVPV</span></span>
+<span class="topo-line"><span class="topo-outside">YL</span><span class="topo-membrane">AGYVPEFVIYRIIGGIGVGLASMLS</span><span class="topo-inside">PMYIAELAPAHIRGKLVS</span><span class="topo-membrane">FNQFAIIFGQLLVYC</span></span>
+<span class="topo-line"><span class="topo-membrane">VNYFIARS</span><span class="topo-outside">GDASWLNTD</span><span class="topo-membrane">GWRYMFASECIPALLFLMLLY</span><span class="topo-inside">TVPESPRWLMSRGKQEQAEGIL</span></span>
+<span class="topo-line"><span class="topo-inside">RKIMGNTLATQAVQEIKHSLDHGR</span><span class="topo-unknown">KTGGRLLMFGV</span><span class="topo-inside">GVIV</span><span class="topo-membrane">IGVMLSIFQQFVGINVVLYYA</span></span>
+<span class="topo-line"><span class="topo-membrane">PEV</span><span class="topo-unknown">FKTLGA</span><span class="topo-outside">ST</span><span class="topo-membrane">DIALLQTIIVGVINLTFTVLAIMTV</span><span class="topo-inside">DKFGRK</span><span class="topo-membrane">PLQIIGALGMAIGMFSLG</span></span>
+<span class="topo-line"><span class="topo-membrane">TAFY</span><span class="topo-outside">TQAPG</span><span class="topo-membrane">IVALLSMLFYVAAFAMSWGPVCW</span><span class="topo-inside">VLLSE</span><span class="topo-unknown">IFPNAIRGK</span><span class="topo-inside">ALA</span><span class="topo-membrane">IAVAAQWLANY</span></span>
+<span class="topo-line"><span class="topo-membrane">FVSWTFPMMDK</span><span class="topo-outside">NS</span><span class="topo-unknown">WLVAHF</span><span class="topo-outside">HN</span><span class="topo-membrane">GFSYWIYGCMGVLAALFMWKF</span><span class="topo-inside">VPE</span><span class="topo-unknown">TKGKTLEELEALWEP</span></span>
+<span class="topo-line"><span class="topo-unknown">ETKKT</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>7</td>
+      <td>1</td>
+      <td>7</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>15</td>
+      <td>8</td>
+      <td>15</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>39</td>
+      <td>16</td>
+      <td>39</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>51</td>
+      <td>40</td>
+      <td>51</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>75</td>
+      <td>52</td>
+      <td>75</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>87</td>
+      <td>76</td>
+      <td>87</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>106</td>
+      <td>88</td>
+      <td>106</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>107</td>
+      <td>122</td>
+      <td>107</td>
+      <td>122</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>123</td>
+      <td>147</td>
+      <td>123</td>
+      <td>147</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>165</td>
+      <td>148</td>
+      <td>165</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>166</td>
+      <td>188</td>
+      <td>166</td>
+      <td>188</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>189</td>
+      <td>197</td>
+      <td>189</td>
+      <td>197</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>218</td>
+      <td>198</td>
+      <td>218</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>219</td>
+      <td>264</td>
+      <td>219</td>
+      <td>264</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>265</td>
+      <td>275</td>
+      <td>265</td>
+      <td>275</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>276</td>
+      <td>279</td>
+      <td>276</td>
+      <td>279</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>303</td>
+      <td>280</td>
+      <td>303</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>304</td>
+      <td>309</td>
+      <td>304</td>
+      <td>309</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>310</td>
+      <td>311</td>
+      <td>310</td>
+      <td>311</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>312</td>
+      <td>336</td>
+      <td>312</td>
+      <td>336</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>337</td>
+      <td>342</td>
+      <td>337</td>
+      <td>342</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>343</td>
+      <td>364</td>
+      <td>343</td>
+      <td>364</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>365</td>
+      <td>369</td>
+      <td>365</td>
+      <td>369</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>370</td>
+      <td>392</td>
+      <td>370</td>
+      <td>392</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>393</td>
+      <td>397</td>
+      <td>393</td>
+      <td>397</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>398</td>
+      <td>406</td>
+      <td>398</td>
+      <td>406</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>407</td>
+      <td>409</td>
+      <td>407</td>
+      <td>409</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>410</td>
+      <td>431</td>
+      <td>410</td>
+      <td>431</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>432</td>
+      <td>433</td>
+      <td>432</td>
+      <td>433</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>434</td>
+      <td>439</td>
+      <td>434</td>
+      <td>439</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>440</td>
+      <td>441</td>
+      <td>440</td>
+      <td>441</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>442</td>
+      <td>462</td>
+      <td>442</td>
+      <td>462</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>463</td>
+      <td>465</td>
+      <td>463</td>
+      <td>465</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>466</td>
+      <td>485</td>
+      <td>466</td>
+      <td>485</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##ncomms5521
-
-| Parameter | Value |
-|---|---|
-| Method | Sitting drop vapor diffusion |
-| Protein sample | XylE purified in 1% DM, concentrated to 5-6 mg/ml |
-| Temperature | 20C |
-| Notes | Inward-facing open conformation with detached cytoplasmic domain; PDB 4QIQ |
-
-### doi/10.1038##nsmb.2569
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion crystallization; P6_1 space group; 3-fold averaging for phase improvement |
-| Protein sample | Tag-free XylE at 8-18 mg/ml in 20 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes), 150 mM NaCl, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), 0.5 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep), 0.2% DM |
-| Reservoir | Not specified in text |
-| Notes | Inward open conformation; PDB 4JA4; 4.2 A resolution; data collected at Diamond Light Source beamline I02 (proposal MX5873/MX6603) |
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion crystallization; C2 space group; 2-fold averaging for phase improvement |
-| Protein sample | Tag-free XylE at 8-18 mg/ml in 20 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes), 150 mM NaCl, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), 0.5 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep), 0.2% DM |
-| Reservoir | Not specified in text |
-| Notes | Partially occluded inward open conformation; PDB 4JA3; 3.8 A resolution; data collected at SOLEIL synchrotron beamline PROXIMA1 (proposal 20110314) |
-
+</div>
 
 ## Biological / Functional Insights
 
@@ -215,21 +1803,21 @@ At the periplasmic side, interactions between the N and C subdomains are tighter
 
 ## Cross-References
 
-- [Human Glucose Transporter GLUT1 (SLC2A1)](/xray-mp-wiki/proteins/mfs-transporters/glut1/) — Human homologue; structural comparison reveals 16 degree domain rotation between inward-open GLUT1 and outward-facing XylE
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — XylE belongs to the MFS, specifically the sugar porter subfamily
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — XylE captures an outward-facing conformation in the alternating-access cycle
-- [Rocker-Switch Mechanism](/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/) — XylE asymmetric rocker-switch movement revealed by MD simulations
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent for XylE solubilization and purification
-- [Decylmaltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Used at 1% for XylE solubilization in ncomms5521 study
-- [PEG 600](/xray-mp-wiki/reagents/additives/peg-600/) — Crystallization precipitant at 20% for inward-open conformation
-- [Calcium Acetate](/xray-mp-wiki/reagents/additives/calcium-acetate/) — Crystallization additive at 0.2 M for inward-open conformation
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Used for Ni-NTA elution of His-tagged XylE at 300 mM
-- [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) — Affinity purification of His-tagged XylE
-- [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) — SEC polishing of XylE
-- [Thrombin Protease](/xray-mp-wiki/reagents/protein-tags/thrombin-protease/) — Used to cleave His-tag from XylE
-- [D-Xylose](/xray-mp-wiki/reagents/substrates/d-xylose/) — Primary ligand studied; substrate for XylE transport
-- [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Competitive inhibitor of XylE; binds with Kd 0.77 mM; also used as crystallization additive
-- [Molecular Dynamics Simulation](/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/) — Used to investigate transport cycle and proton-coupling mechanism
-- [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer used for SEC purification and final sample preparation (20 mM HEPES pH adjusted)
-- [Tris(2-carboxyethyl)phosphine (TCEP)](/xray-mp-wiki/reagents/additives/tcep/) — Reducing agent used at 0.5 mM in lysis, solubilization, and purification buffers
-- [His6-tag](/xray-mp-wiki/reagents/protein-tags/histidine-tag/) — N-terminal His6-TEV tag used for IMAC purification of XylE in nsmb.2569 study
+- <a href="/xray-mp-wiki/proteins/mfs-transporters/glut1/">Human Glucose Transporter GLUT1 (SLC2A1)</a> — Human homologue; structural comparison reveals 16 degree domain rotation between inward-open GLUT1 and outward-facing XylE
+- <a href="/xray-mp-wiki/concepts/protein-families/mfs-transporter/">Major Facilitator Superfamily (MFS)</a> — XylE belongs to the MFS, specifically the sugar porter subfamily
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating-Access Mechanism</a> — XylE captures an outward-facing conformation in the alternating-access cycle
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/rocker-switch-mechanism/">Rocker-Switch Mechanism</a> — XylE asymmetric rocker-switch movement revealed by MD simulations
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Primary detergent for XylE solubilization and purification
+- <a href="/xray-mp-wiki/reagents/detergents/dm/">Decylmaltoside (DM)</a> — Used at 1% for XylE solubilization in ncomms5521 study
+- <a href="/xray-mp-wiki/reagents/additives/peg-600/">PEG 600</a> — Crystallization precipitant at 20% for inward-open conformation
+- <a href="/xray-mp-wiki/reagents/additives/calcium-acetate/">Calcium Acetate</a> — Crystallization additive at 0.2 M for inward-open conformation
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Used for Ni-NTA elution of His-tagged XylE at 300 mM
+- <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Agarose Resin</a> — Affinity purification of His-tagged XylE
+- <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> — SEC polishing of XylE
+- <a href="/xray-mp-wiki/reagents/protein-tags/thrombin-protease/">Thrombin Protease</a> — Used to cleave His-tag from XylE
+- <a href="/xray-mp-wiki/reagents/substrates/d-xylose/">D-Xylose</a> — Primary ligand studied; substrate for XylE transport
+- <a href="/xray-mp-wiki/reagents/additives/glucose/">Glucose</a> — Competitive inhibitor of XylE; binds with Kd 0.77 mM; also used as crystallization additive
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/">Molecular Dynamics Simulation</a> — Used to investigate transport cycle and proton-coupling mechanism
+- <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> — Buffer used for SEC purification and final sample preparation (20 mM HEPES pH adjusted)
+- <a href="/xray-mp-wiki/reagents/additives/tcep/">Tris(2-carboxyethyl)phosphine (TCEP)</a> — Reducing agent used at 0.5 mM in lysis, solubilization, and purification buffers
+- <a href="/xray-mp-wiki/reagents/protein-tags/histidine-tag/">His6-tag</a> — N-terminal His6-TEV tag used for IMAC purification of XylE in nsmb.2569 study

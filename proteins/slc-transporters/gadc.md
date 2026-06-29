@@ -1,7 +1,7 @@
 ---
 title: "GadC Glutamate/GABA Antiporter"
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,48 +17,415 @@ verified: false
 GadC is a SLC1/EAAT/GATs antiporter from the Apc (JLK-6 acid-polyamine-organocation) [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) of Solid-Supported Membrane Electrophysiology [Biogenic Amine Transporters](/xray-mp-wiki/concepts/transport-mechanisms/biogenic-amine-transporters/). It functions In the acid [Sulfonamide Resistance](/xray-mp-wiki/concepts/miscellaneous/sulfonamide-resistance/) Sf9 Insect Cell Expression System 2 (AR2) of E. coli Signal Peptide Peptidase (SppA, Protease IV) (SppA, Protease IV) coli, exchanging extracellular [L-Glutamate](/xray-mp-wiki/reagents/substrates/l-glutamate/) for Intracellular Allosteric Antagonism GATs to facilitate net [Influenza A M2 Proton Channel](/xray-mp-wiki/proteins/other-ion-channels/influenza-a-m2-proton-channel/) [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) Microbatch Crystallization Under Oil acidic conditions. GadC comprises 12 [De Novo Design of Transmembrane Pores](/xray-mp-wiki/concepts/structural-mechanisms/de-novo-design-transmembrane-pores/) segments (TMs) and adopts an Inward-Facing Conformation of ABC Transporters-open GPCR Inactive Conformation with a C-terminal plug (C-plug) that blocks the TatA Substrate of E. coli [Rhomboid Protease Family](/xray-mp-wiki/concepts/protein-families/rhomboid-protease/) GlpG-AChBP cleft. The CLC Cl-/H+ Exchange Transport Mechanism is strictly pH-Dependent Quinone Binding in Photosynthetic Reaction Centers in Photosynthetic Reaction Centers, with robust TREX1 RNase Activity and DNA/RNA Hybrid Processing At Ph 5.5 or below and no detectable CLC Cl-/H+ Exchange Transport Mechanism above Ph 6.5.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature10917 | 4DJK | 2.95 A | P2_12_12_1 | Full-length E. coli GadC (residues 1-511) from E. coli C41 Expression Strain O157:H7 | none (Ligand-Free, Inward-open state with C-plug) |
+### doi/10.1038##nature10917
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4djk">4DJK</a></td>
+      <td>2.95 A</td>
+      <td>P2_12_12_1</td>
+      <td>Full-length E. coli GadC (residues 1-511) from E. coli C41 Expression Strain O157:H7</td>
+      <td>none (Ligand-Free, Inward-open state with C-plug)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli Signal Peptide Peptidase (SppA, Protease IV) (SppA, Protease IV) coli BL21(DE3)
 - **Construct**: Full-length GadC (residues 1-511) with N-Terminal [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) Fusion for GPCR Crystallization His-tag, cloned In pET15b
 
-### Purification Workflow
+**Purification:**
 
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | [French Press Cell Lysis](/xray-mp-wiki/methods/cell-lysis/french-press/) | not applicable | 25 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) Ph 8.0, 150 mM NaCl + not specified | Homogenization of collected cells after ultracentrifugation of lysate |
-| Solid-Supported Membrane Electrophysiology isolation | Ultracentrifugation | not applicable | 25 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) Ph 8.0, 150 mM NaCl + not specified | 1 h At 150,000g to collect Solid-Supported Membrane Electrophysiology fraction |
-| Solubilization | Detergent solubilization | not applicable | 25 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) Ph 8.0, 150 mM NaCl + 2% OG-Beta-D-NG (Beta-Og) | 2 h incubation At 4 C |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA (Qiagen) | 25 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) Ph 8.0, 500 mM NaCl, 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 0.4% NM (Nm) + 0.4% Nm | His-tag removed On column |
-| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [SEC-MALS](/xray-mp-wiki/methods/quality-assessment/sec-mals/) | [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/)-200 10/30 (GE Healthcare) | 25 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) Ph 8.0, 150 mM NaCl, various Heavy Atom Derivative Detergents and Lipids for Membrane Protein Crystallography + 0.2% Beta-ngHKA or 0.023% [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) (for crystallization) | Peak fractions collected |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td><a href="/xray-mp-wiki/methods/cell-lysis/french-press/">French Press Cell Lysis</a></td>
+      <td>not applicable</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> Ph 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a> + not specified</td>
+      <td>Homogenization of collected cells after ultracentrifugation of lysate</td>
+    </tr>
+    <tr>
+      <td>Solid-Supported Membrane Electrophysiology isolation</td>
+      <td>Ultracentrifugation</td>
+      <td>not applicable</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> Ph 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a> + not specified</td>
+      <td>1 h At 150,000g to collect Solid-Supported Membrane Electrophysiology fraction</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>not applicable</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> Ph 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a> + 2% <a href="/xray-mp-wiki/reagents/detergents/n-octyl-beta-d-glucopyranoside/">OG-Beta-D-NG</a> (<a href="/xray-mp-wiki/reagents/detergents/n-octyl-beta-d-glucopyranoside/">Beta-Og</a>)</td>
+      <td>2 h incubation At 4 C</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> (Qiagen)</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> Ph 8.0, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.4% <a href="/xray-mp-wiki/reagents/detergents/nm/">NM</a> (<a href="/xray-mp-wiki/reagents/detergents/nm/">Nm</a>) + 0.4% <a href="/xray-mp-wiki/reagents/detergents/nm/">Nm</a></td>
+      <td>His-tag removed On column</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/quality-assessment/sec-mals/">SEC-MALS</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a>-200 10/30 (GE Healthcare)</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> Ph 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, various Heavy Atom Derivative Detergents and Lipids for Membrane Protein Crystallography + 0.2% <a href="/xray-mp-wiki/reagents/detergents/n-nonyl-beta-d-glucopyranoside/">Beta-ngHKA</a> or 0.023% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> (for crystallization)</td>
+      <td>Peak fractions collected</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: 10-15 mg/ml
 
+**Crystallization:**
 
-## Crystallization
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">Hanging-Drop Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>GadC, 10-15 mg/ml In 0.2% <a href="/xray-mp-wiki/reagents/detergents/n-nonyl-beta-d-glucopyranoside/">Beta-ngHKA</a>, 0.023% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>21% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a>, 100 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> Ph 8.0, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 325 mM <a href="/xray-mp-wiki/reagents/buffers/sodium-acetate/">Sodium Acetate</a></td>
+    </tr>
+    <tr>
+      <td>Mixing ratio</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>18 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>overnight to 1 week</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>flash-frozen In cold nitrogen stream At 100 K; Platinum(II) Chloride derivatives by 48 h soak In mother liquor containing 10 mg/ml K2Pt(NO2)4</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Rod-shaped Diffractive Imaging of Imperfect Crystals; best Multi-Wavelength Anomalous Diffraction 2.95 A At SSRF beamline BL17U. SeMet and Pt-SAD derivatives also obtained.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-### doi/10.1038##nature10917
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4djk">4DJK</a> — Chain A (12 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) |
-| Protein sample | GadC, 10-15 mg/ml In 0.2% Beta-ngHKA, 0.023% [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) |
-| Reservoir | 21% [PEG400](/xray-mp-wiki/reagents/additives/peg-400/), 100 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) Ph 8.0, 100 mM NaCl, 325 mM [Sodium Acetate](/xray-mp-wiki/reagents/buffers/sodium-acetate/) |
-| Mixing ratio | not specified |
-| Temperature | 18 C |
-| Growth time | overnight to 1 week |
-| Cryoprotection | flash-frozen In cold nitrogen stream At 100 K; Platinum(II) Chloride derivatives by 48 h soak In mother liquor containing 10 mg/ml K2Pt(NO2)4 |
-| Notes | Rod-shaped Diffractive Imaging of Imperfect Crystals; best Multi-Wavelength Anomalous Diffraction 2.95 A At SSRF beamline BL17U. SeMet and Pt-SAD derivatives also obtained. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MATSVQTGKAK</span><span class="topo-outside">QLT</span><span class="topo-unknown">LLGFFAIT</span><span class="topo-membrane">ASMVMAVYEYPTF</span><span class="topo-inside">ATSGFS</span><span class="topo-membrane">LVFFLLLGGILWFIPVG</span><span class="topo-outside">LC</span></span>
+<span class="topo-line"><span class="topo-outside">AAEMATVDGW</span><span class="topo-unknown">EEG</span><span class="topo-outside">G</span><span class="topo-unknown">VFAWVSNTL</span><span class="topo-outside">GPRWGFAAISF</span><span class="topo-membrane">GYLQIAIGFIPMLYFVLGAL</span><span class="topo-inside">SYILKW</span></span>
+<span class="topo-line"><span class="topo-inside">PALNEDPITK</span><span class="topo-membrane">TIAALIILWALALTQFG</span><span class="topo-outside">GTKY</span><span class="topo-membrane">TARIAKVGFFAGILLPAFILIA</span><span class="topo-inside">LAAIYLH</span></span>
+<span class="topo-line"><span class="topo-unknown">SGAPVAIEMDSK</span><span class="topo-inside">TFFPDFSKVGTL</span><span class="topo-membrane">VVFVAFILSYMGV</span><span class="topo-outside">EASATHVNEMSNPGRDYPL</span><span class="topo-membrane">AMLL</span></span>
+<span class="topo-line"><span class="topo-membrane">LMVAAICLSSVGGL</span><span class="topo-inside">SIAMVIPGNEINLSAGVMQTFTVLMSHVAPEIEWTVRV</span><span class="topo-membrane">ISALLLLG</span></span>
+<span class="topo-line"><span class="topo-membrane">VLAEIASWIVGP</span><span class="topo-outside">SRGMYVTAQKNLLPAAFAKMNKNGVPVTLV</span><span class="topo-membrane">ISQLVITSIALIILTNT</span><span class="topo-inside">G</span></span>
+<span class="topo-line"><span class="topo-inside">GGNNMS</span><span class="topo-membrane">FLIALALTVVIYLCAYF</span><span class="topo-outside">MLFIGYIVLVLKHPDLKRTFNIPGGKGVKLV</span><span class="topo-membrane">VAIVGL</span></span>
+<span class="topo-line"><span class="topo-membrane">LTSIMAFIVSFLP</span><span class="topo-inside">PDNIQGDSTDMY</span><span class="topo-membrane">VELLVVSFLVVLAL</span><span class="topo-outside">PFILYAV</span><span class="topo-unknown">HDRKGKANTGVTLE</span></span>
+<span class="topo-line"><span class="topo-unknown">PINSQNAPKG</span><span class="topo-outside">HFFLHPRARSP</span><span class="topo-unknown">HYIVMNDKKH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>11</td>
+      <td>1</td>
+      <td>11</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>14</td>
+      <td>12</td>
+      <td>14</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>22</td>
+      <td>15</td>
+      <td>22</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>35</td>
+      <td>23</td>
+      <td>35</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>41</td>
+      <td>36</td>
+      <td>41</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>58</td>
+      <td>42</td>
+      <td>58</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>70</td>
+      <td>59</td>
+      <td>70</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>73</td>
+      <td>71</td>
+      <td>73</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>74</td>
+      <td>74</td>
+      <td>74</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>83</td>
+      <td>75</td>
+      <td>83</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>94</td>
+      <td>84</td>
+      <td>94</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>114</td>
+      <td>95</td>
+      <td>114</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>115</td>
+      <td>130</td>
+      <td>115</td>
+      <td>130</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>131</td>
+      <td>147</td>
+      <td>131</td>
+      <td>147</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>151</td>
+      <td>148</td>
+      <td>151</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>152</td>
+      <td>173</td>
+      <td>152</td>
+      <td>173</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>174</td>
+      <td>180</td>
+      <td>174</td>
+      <td>180</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>181</td>
+      <td>192</td>
+      <td>181</td>
+      <td>192</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>193</td>
+      <td>204</td>
+      <td>193</td>
+      <td>204</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>205</td>
+      <td>217</td>
+      <td>205</td>
+      <td>217</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>236</td>
+      <td>218</td>
+      <td>236</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>237</td>
+      <td>254</td>
+      <td>237</td>
+      <td>254</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>255</td>
+      <td>292</td>
+      <td>255</td>
+      <td>292</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>293</td>
+      <td>312</td>
+      <td>293</td>
+      <td>312</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>313</td>
+      <td>342</td>
+      <td>313</td>
+      <td>342</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>343</td>
+      <td>359</td>
+      <td>343</td>
+      <td>359</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>360</td>
+      <td>366</td>
+      <td>360</td>
+      <td>366</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>367</td>
+      <td>383</td>
+      <td>367</td>
+      <td>383</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>384</td>
+      <td>414</td>
+      <td>384</td>
+      <td>414</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>415</td>
+      <td>433</td>
+      <td>415</td>
+      <td>433</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>434</td>
+      <td>445</td>
+      <td>434</td>
+      <td>445</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>446</td>
+      <td>459</td>
+      <td>446</td>
+      <td>459</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>460</td>
+      <td>466</td>
+      <td>460</td>
+      <td>466</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>467</td>
+      <td>490</td>
+      <td>467</td>
+      <td>490</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>491</td>
+      <td>501</td>
+      <td>491</td>
+      <td>501</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>502</td>
+      <td>511</td>
+      <td>502</td>
+      <td>511</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
 
 ## Biological / Functional Insights
 
@@ -84,18 +451,18 @@ Structural alignment between ABC Transporter Outward-Occluded Mechanism-open [Ad
 
 ### L7 loop gating at periplasmic side
 
-The L7 loop At the Periplasmic Drug-Binding Site in [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) in [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) Side, together with the C-plug At the [GIRK1 Cytoplasmic Pore (G Protein-Gated Inward Rectifier K+ Channel)](/xray-mp-wiki/proteins/voltage-gated-channels/girk1-cytoplasmic-pore/) (G Protein-Gated Inward Rectifier K+ Channel) (G Protein-Gated Inward Rectifier K+ Channel) Side, closes the GadC GPCR Inactive Conformation. The L7 loop interacts with surrounding elements through [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) bonds and van der Waals contacts. A [Engineered Disulfide Bridge Conformational Trapping](/xray-mp-wiki/concepts/structural-mechanisms/engineered-disulfide-bridge-trapping/) bond between L267C and N364C could be formed (Ca-Ca distance ~5.6 A), and oxidation with o-phenanthroline Copper(I) Ion/)/) complex eliminated CLC Cl-/H+ Exchange Transport Mechanism-[Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) Transport in Gram-Negative Bacteria/)-transport/) in Gram-Negative Bacteria-Ping-Pong Catalytic Mechanism/) TREX1 RNase Activity and DNA/RNA Hybrid Processing](/xray-mp-wiki/proteins/gpcr/trex1/)-[TREX1 RNase Activity and DNA/RNA Hybrid Processing and DNA/RNA Hybrid Processing](/xray-mp-wiki/concepts/enzyme-mechanisms/trex1-rnase-activity/)-[[GPR6 — Orphan G Protein-Coupled Receptor Implicated in Parkinson's Disease](/xray-mp-wiki/proteins/gpcr/gpr6/) — Orphan G Protein-Coupled Receptor Implicated in Parkinson's Disease High Constitutive Activity and Orphan Receptor Signaling](/xray-mp-wiki/concepts/signaling-receptors/gpr6-constitutive-activity/)/), which was restored by [[DTT](/xray-mp-wiki/reagents/additives/dtt/)](/xray-mp-wiki/reagents/additives/[[DTT](/xray-mp-wiki/reagents/additives/dtt/)](/xray-mp-wiki/reagents/additives/[[DTT](/xray-mp-wiki/reagents/additives/dtt/)](/xray-mp-wiki/reagents/additives/dtt/)/)/) reduction.
+The L7 loop At the Periplasmic Drug-Binding Site in [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) in [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) Side, together with the C-plug At the [GIRK1 Cytoplasmic Pore (G Protein-Gated Inward Rectifier K+ Channel)](/xray-mp-wiki/proteins/voltage-gated-channels/girk1-cytoplasmic-pore/) (G Protein-Gated Inward Rectifier K+ Channel) (G Protein-Gated Inward Rectifier K+ Channel) Side, closes the GadC GPCR Inactive Conformation. The L7 loop interacts with surrounding elements through [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) bonds and van der Waals contacts. A [Engineered Disulfide Bridge Conformational Trapping](/xray-mp-wiki/concepts/structural-mechanisms/engineered-disulfide-bridge-trapping/) bond between L267C and N364C could be formed (Ca-Ca distance ~5.6 A), and oxidation with o-phenanthroline Copper(I) Ion/)/) complex eliminated CLC Cl-/H+ Exchange Transport Mechanism-[Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) Transport in Gram-Negative Bacteria/)-transport/) in Gram-Negative Bacteria-Ping-Pong Catalytic Mechanism/) TREX1 RNase Activity and DNA/RNA Hybrid Processing](/xray-mp-wiki/proteins/gpcr/trex1/)-[TREX1 RNase Activity and DNA/RNA Hybrid Processing and DNA/RNA Hybrid Processing](/xray-mp-wiki/concepts/enzyme-mechanisms/trex1-rnase-activity/)-[GPR6 — Orphan G Protein-Coupled Receptor Implicated in Parkinson's Disease](/xray-mp-wiki/proteins/gpcr/gpr6/)(/xray-mp-wiki/concepts/signaling-receptors/gpr6-constitutive-activity/)/), which was restored by [DTT](/xray-mp-wiki/reagents/additives/dtt/)(/xray-mp-wiki/reagents/additives/[DTT](/xray-mp-wiki/reagents/additives/dtt/)(/xray-mp-wiki/reagents/additives/[DTT](/xray-mp-wiki/reagents/additives/dtt/)(/xray-mp-wiki/reagents/additives/dtt/)/)/) reduction.
 
 
 ## Cross-References
 
-- [AdiC Arginine/Agmatine Antiporter](/xray-mp-wiki/proteins/slc-transporters/adic/) — Homologous APC superfamily member; used as structural comparison for transport mechanism
-- [APC Superfamily (Amino Acid-Polyamine-Organocation Transporter Family)](/xray-mp-wiki/concepts/transport-mechanisms/apc-superfamily/) — GadC belongs to the APC superfamily of membrane transporters
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — GadC operates via alternating access between outward-closed/inward-open states
-- [n-Octyl-beta-D-glucopyranoside (beta-OG)](/xray-mp-wiki/reagents/detergents/n-octyl-beta-d-glucopyranoside/) — Primary detergent used for GadC membrane solubilization
-- [n-Nonyl-beta-D-maltopyranoside (NM)](/xray-mp-wiki/reagents/detergents/nm/) — Detergent used in Ni-NTA wash and elution buffers during GadC purification
-- [n-Nonyl-beta-D-glucopyranoside (beta-NG)](/xray-mp-wiki/reagents/detergents/n-nonyl-beta-d-glucopyranoside/) — Detergent used in GadC crystallization
-- [beta-FOA (beta-Fuoxymorphamine)](/xray-mp-wiki/reagents/ligands/beta-foa/) — Referenced in gadc description
-- [Glutamate Transporter Family (SLC1/EAAT)](/xray-mp-wiki/concepts/transport-mechanisms/glutamate-transporter-family/) — Referenced in gadc description
-- [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Referenced in gadc description
-- [Sodium Acetate](/xray-mp-wiki/reagents/buffers/sodium-acetate/) — Referenced in gadc description
+- <a href="/xray-mp-wiki/proteins/slc-transporters/adic/">AdiC Arginine/Agmatine Antiporter</a> — Homologous APC superfamily member; used as structural comparison for transport mechanism
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/apc-superfamily/">APC Superfamily (Amino Acid-Polyamine-Organocation Transporter Family)</a> — GadC belongs to the APC superfamily of membrane transporters
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating-Access Mechanism</a> — GadC operates via alternating access between outward-closed/inward-open states
+- <a href="/xray-mp-wiki/reagents/detergents/n-octyl-beta-d-glucopyranoside/">n-Octyl-beta-D-glucopyranoside (beta-OG)</a> — Primary detergent used for GadC membrane solubilization
+- <a href="/xray-mp-wiki/reagents/detergents/nm/">n-Nonyl-beta-D-maltopyranoside (NM)</a> — Detergent used in Ni-NTA wash and elution buffers during GadC purification
+- <a href="/xray-mp-wiki/reagents/detergents/n-nonyl-beta-d-glucopyranoside/">n-Nonyl-beta-D-glucopyranoside (beta-NG)</a> — Detergent used in GadC crystallization
+- <a href="/xray-mp-wiki/reagents/ligands/beta-foa/">beta-FOA (beta-Fuoxymorphamine)</a> — Referenced in gadc description
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/glutamate-transporter-family/">Glutamate Transporter Family (SLC1/EAAT)</a> — Referenced in gadc description
+- <a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">Hanging-Drop Vapor Diffusion</a> — Referenced in gadc description
+- <a href="/xray-mp-wiki/reagents/buffers/sodium-acetate/">Sodium Acetate</a> — Referenced in gadc description

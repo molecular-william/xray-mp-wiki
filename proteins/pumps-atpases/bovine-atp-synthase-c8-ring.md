@@ -1,7 +1,7 @@
 ---
 title: "Bovine Mitochondrial F-ATPase c8-Ring (F1-c-ring Complex)"
 created: 2026-06-21
-updated: 2026-06-21
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,47 +16,1013 @@ verified: false
 
 The bovine mitochondrial F-ATPase (ATP synthase) c8-ring is part of the membrane-embedded rotor of the enzyme that drives ATP synthesis using the transmembrane proton-motive force. The structure of the bovine F1-c-ring complex was determined at 3.5 A resolution, revealing that the c-ring contains 8 c-subunits (c8-ring). This is the first c-ring structure from a higher eukaryote, establishing that vertebrate F-ATPases contain c8-rings and require 2.7 protons per ATP synthesised (or 3.7 total including transport costs).
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.1011099107 | 2XND | 3.5 A | P2(1)2(1)2(1) | Bovine F1-c-ring subcomplex (F1 domain alpha3beta3gamma + c8-ring) | AMP-PNP, Mg2+ |
+### doi/10.1073##pnas.1011099107
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2xnd">2XND</a></td>
+      <td>3.5 A</td>
+      <td>P2(1)2(1)2(1)</td>
+      <td>Bovine F1-c-ring subcomplex (F1 domain alpha3beta3gamma + c8-ring)</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/amp-pnp/">AMP-PNP</a>, Mg2+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Bovine heart mitochondria (native source)
-- **Construct**: Native F1Fo-ATPase purified from bovine heart mitochondria; F1-c-ring subcomplex prepared by ion exchange chromatography
+- **Construct**: Native F1Fo-ATPase purified from bovine heart mitochondria; F1-c-ring subcomplex prepared by [Ion-Exchange Chromatography](/xray-mp-wiki/methods/purification/ion-exchange-chromatography/)
 
-### Purification Workflow
+**Purification:**
 
 - **Expression construct**: Native F1Fo-ATPase from bovine heart mitochondria
 - **Tag info**: Purified via IF1(1-60) affinity column (residues 1-60 of F1-ATPase inhibitor protein IF1)
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Purification of F1Fo-ATPase</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>IF1(1-60) affinity column</td>
+      <td>20 mM Tris-HCl pH 8.0, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 1 mM ADP, 2 mM MgSO4, 0.02% NaN3 + 20 mM N-dodecyl-N,N-(dimethylammonio)butyrate</td>
+      <td>Purified from bovine heart mitochondria</td>
+    </tr>
+    <tr>
+      <td>F1-c-ring subcomplex preparation</td>
+      <td><a href="/xray-mp-wiki/methods/purification/ion-exchange-chromatography/">Ion-Exchange Chromatography</a></td>
+      <td>HiTrap Q HP</td>
+      <td>20 mM Tris-HCl pH 8.0, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 1 mM ADP, 2 mM MgSO4, 0.02% NaN3 + 0.95 mM n-tridecyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/tridecylmaltoside/">TDM</a>)</td>
+      <td>Eluted with 0-1 M NaCl gradient, complex eluted at 0.35-0.40 mM NaCl. Pooled fractions dialyzed against buffer with 0.95 mM <a href="/xray-mp-wiki/reagents/detergents/tridecylmaltoside/">TDM</a> and concentrated to 22 mg/mL on Vivaspin Q mini H spin column.</td>
+    </tr>
+  </tbody>
+</table>
+**Final sample**: 10 mg/mL in 20 mM Tris-HCl pH 8.0, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 1 mM ADP, 2 mM MgSO4, 0.02% NaN3, 5.7 mM [TDM](/xray-mp-wiki/reagents/detergents/tridecylmaltoside/), 1 mM [AMP-PNP](/xray-mp-wiki/reagents/ligands/amp-pnp/)
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Purification of F1Fo-ATPase | Affinity chromatography | IF1(1-60) affinity column | 20 mM Tris-HCl pH 8.0, 10% glycerol, 1 mM ADP, 2 mM MgSO4, 0.02% NaN3 + 20 mM N-dodecyl-N,N-(dimethylammonio)butyrate | Purified from bovine heart mitochondria |
-| F1-c-ring subcomplex preparation | Ion exchange chromatography | HiTrap Q HP | 20 mM Tris-HCl pH 8.0, 10% glycerol, 1 mM ADP, 2 mM MgSO4, 0.02% NaN3 + 0.95 mM n-tridecyl-beta-D-maltoside (TDM) | Eluted with 0-1 M NaCl gradient, complex eluted at 0.35-0.40 mM NaCl. Pooled fractions dialyzed against buffer with 0.95 mM TDM and concentrated to 22 mg/mL on Vivaspin Q mini H spin column. |
+**Crystallization:**
 
-**Final sample**: 10 mg/mL in 20 mM Tris-HCl pH 8.0, 10% glycerol, 1 mM ADP, 2 mM MgSO4, 0.02% NaN3, 5.7 mM TDM, 1 mM AMP-PNP
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Microbatch under oil</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Bovine F1-c-ring complex at 10 mg/mL with 5.7 mM <a href="/xray-mp-wiki/reagents/detergents/tridecylmaltoside/">TDM</a>, 1 mM <a href="/xray-mp-wiki/reagents/ligands/amp-pnp/">AMP-PNP</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>14-16.5% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 4600, 100 mM Hepes pH 7.0, 50 mM K2HPO4 pH 7.0</td>
+    </tr>
+    <tr>
+      <td>Mixing ratio</td>
+      <td>2 uL protein + 2 uL reservoir</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>23 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>42 days</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>50 mM Hepes pH 7.0, 25 mM K2HPO4</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals harvested and analyzed by SDS-PAGE confirmed all subunits of F1-c-ring complex present and undegraded. Four crystals were harvested, washed three times in buffer, dissolved and analyzed.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2xnd">2XND</a> — Chain A (0 TMs, non_tm)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">ADTSVDLEETGRVLSIGDGIARVHGLRNVQAEEMVEFSSGLKGMSLNLEPDNVGVVVFGN</span></span>
+<span class="topo-line"><span class="topo-inside">DKLIKEGDIVKRTGAIVDVPVGEELLGRVVDALGNAIDGKGPIGSKARRRVGLKAPGIIP</span></span>
+<span class="topo-line"><span class="topo-inside">RISVREPMQTGIKAVDSLVPIGRGQRELIIGDRQTGKTSIAIDTIINQKRFNDGTDEKKK</span></span>
+<span class="topo-line"><span class="topo-inside">LYCIYVAIGQKRSTVAQLVKRLTDADAMKYTIVVSATASDAAPLQYLAPYSGCSMGEYFR</span></span>
+<span class="topo-line"><span class="topo-inside">DNGKHALIIYDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKMNDAFGG</span></span>
+<span class="topo-line"><span class="topo-inside">GSLTALPVIETQAGDVSAYIPTNVISITDGQIFLETELFYKGIRPAINVGLSVSRVGSAA</span></span>
+<span class="topo-line"><span class="topo-inside">QTRAMKQVAGTMKLELAQYREVAAFAQFGSDLDAATQQLLSRGVRLTELLKQGQYSPMAI</span></span>
+<span class="topo-line"><span class="topo-inside">EEQVAVIYAGVRGYLDKLEPSKITKFENAFLSHVISQHQALLGKIRTDGKISEESDAKLK</span></span>
+<span class="topo-line"><span class="topo-inside">EIVTNFLAGFEA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>492</td>
+      <td>19</td>
+      <td>510</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1073##pnas.1011099107
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2xnd">2XND</a> — Chain B (0 TMs, non_tm)**
 
-| Parameter | Value |
-|---|---|
-| Method | Microbatch under oil |
-| Protein sample | Bovine F1-c-ring complex at 10 mg/mL with 5.7 mM TDM, 1 mM AMP-PNP |
-| Reservoir | 14-16.5% PEG 4600, 100 mM Hepes pH 7.0, 50 mM K2HPO4 pH 7.0 |
-| Mixing ratio | 2 uL protein + 2 uL reservoir |
-| Temperature | 23 C |
-| Growth time | 42 days |
-| Cryoprotection | 50 mM Hepes pH 7.0, 25 mM K2HPO4 |
-| Notes | Crystals harvested and analyzed by SDS-PAGE confirmed all subunits of F1-c-ring complex present and undegraded. Four crystals were harvested, washed three times in buffer, dissolved and analyzed. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">ADTSVDLEETGRVLSIGDGIARVHGLRNVQAEEMVEFSSGLKGMSLNLEPDNVGVVVFGN</span></span>
+<span class="topo-line"><span class="topo-inside">DKLIKEGDIVKRTGAIVDVPVGEELLGRVVDALGNAIDGKGPIGSKARRRVGLKAPGIIP</span></span>
+<span class="topo-line"><span class="topo-inside">RISVREPMQTGIKAVDSLVPIGRGQRELIIGDRQTGKTSIAIDTIINQKRFNDGTDEKKK</span></span>
+<span class="topo-line"><span class="topo-inside">LYCIYVAIGQKRSTVAQLVKRLTDADAMKYTIVVSATASDAAPLQYLAPYSGCSMGEYFR</span></span>
+<span class="topo-line"><span class="topo-inside">DNGKHALIIYDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKMNDAFGG</span></span>
+<span class="topo-line"><span class="topo-inside">GSLTALPVIETQAGDVSAYIPTNVISITDGQIFLETELFYKGIRPAINVGLSVSRVGSAA</span></span>
+<span class="topo-line"><span class="topo-inside">QTRAMKQVAGTMKLELAQYREVAAFAQFGSDLDAATQQLLSRGVRLTELLKQGQYSPMAI</span></span>
+<span class="topo-line"><span class="topo-inside">EEQVAVIYAGVRGYLDKLEPSKITKFENAFLSHVISQHQALLGKIRTDGKISEESDAKLK</span></span>
+<span class="topo-line"><span class="topo-inside">EIVTNFLAGFEA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>492</td>
+      <td>19</td>
+      <td>510</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2xnd">2XND</a> — Chain C (0 TMs, non_tm)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">ADTSVDLEETGRVLSIGDGIARVHGLRNVQAEEMVEFSSGLKGMSLNLEPDNVGVVVFGN</span></span>
+<span class="topo-line"><span class="topo-inside">DKLIKEGDIVKRTGAIVDVPVGEELLGRVVDALGNAIDGKGPIGSKARRRVGLKAPGIIP</span></span>
+<span class="topo-line"><span class="topo-inside">RISVREPMQTGIKAVDSLVPIGRGQRELIIGDRQTGKTSIAIDTIINQKRFNDGTDEKKK</span></span>
+<span class="topo-line"><span class="topo-inside">LYCIYVAIGQKRSTVAQLVKRLTDADAMKYTIVVSATASDAAPLQYLAPYSGCSMGEYFR</span></span>
+<span class="topo-line"><span class="topo-inside">DNGKHALIIYDDLSKQAVAYRQMSLLLRRPPGREAYPGDVFYLHSRLLERAAKMNDAFGG</span></span>
+<span class="topo-line"><span class="topo-inside">GSLTALPVIETQAGDVSAYIPTNVISITDGQIFLETELFYKGIRPAINVGLSVSRVGSAA</span></span>
+<span class="topo-line"><span class="topo-inside">QTRAMKQVAGTMKLELAQYREVAAFAQFGSDLDAATQQLLSRGVRLTELLKQGQYSPMAI</span></span>
+<span class="topo-line"><span class="topo-inside">EEQVAVIYAGVRGYLDKLEPSKITKFENAFLSHVISQHQALLGKIRTDGKISEESDAKLK</span></span>
+<span class="topo-line"><span class="topo-inside">EIVTNFLAGFEA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>492</td>
+      <td>19</td>
+      <td>510</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2xnd">2XND</a> — Chain D (0 TMs, non_tm)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">TTGRIVAVIGAVVDVQFDEGLPPILNALEVQGRETRLVLEVAQHLGESTVRTIAMDGTEG</span></span>
+<span class="topo-line"><span class="topo-inside">LVRGQKVLDSGAPIRIPVGPETLGRIMNVIGEPIDERGPIKTKQFAAIHAEAPEFVEMSV</span></span>
+<span class="topo-line"><span class="topo-inside">EQEILVTGIKVVDLLAPYAKGGKIGLFGGAGVGKTVLIMELINNVAKAHGGYSVFAGVGE</span></span>
+<span class="topo-line"><span class="topo-inside">RTREGNDLYHEMIESGVINLKDATSKVALVYGQMNEPPGARARVALTGLTVAEYFRDQEG</span></span>
+<span class="topo-line"><span class="topo-inside">QDVLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGTMQERITTTKKGSITSVQ</span></span>
+<span class="topo-line"><span class="topo-inside">AIYVPADDLTDPAPATTFAHLDATTVLSRAIAELGIYPAVDPLDSTSRIMDPNIVGSEHY</span></span>
+<span class="topo-line"><span class="topo-inside">DVARGVQKILQDYKSLQDIIAILGMDELSEEDKLTVSRARKIQRFLSQPFQVAEVFTGHL</span></span>
+<span class="topo-line"><span class="topo-inside">GKLVPLKETIKGFQQILAGEYDHLPEQAFYMVGPIEEAVAKADKLAE</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>467</td>
+      <td>9</td>
+      <td>475</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2xnd">2XND</a> — Chain E (0 TMs, non_tm)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">TTGRIVAVIGAVVDVQFDEGLPPILNALEVQGRETRLVLEVAQHLGESTVRTIAMDGTEG</span></span>
+<span class="topo-line"><span class="topo-inside">LVRGQKVLDSGAPIRIPVGPETLGRIMNVIGEPIDERGPIKTKQFAAIHAEAPEFVEMSV</span></span>
+<span class="topo-line"><span class="topo-inside">EQEILVTGIKVVDLLAPYAKGGKIGLFGGAGVGKTVLIMELINNVAKAHGGYSVFAGVGE</span></span>
+<span class="topo-line"><span class="topo-inside">RTREGNDLYHEMIESGVINLKDATSKVALVYGQMNEPPGARARVALTGLTVAEYFRDQEG</span></span>
+<span class="topo-line"><span class="topo-inside">QDVLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGTMQERITTTKKGSITSVQ</span></span>
+<span class="topo-line"><span class="topo-inside">AIYVPADDLTDPAPATTFAHLDATTVLSRAIAELGIYPAVDPLDSTSRIMDPNIVGSEHY</span></span>
+<span class="topo-line"><span class="topo-inside">DVARGVQKILQDYKSLQDIIAILGMDELSEEDKLTVSRARKIQRFLSQPFQVAEVFTGHL</span></span>
+<span class="topo-line"><span class="topo-inside">GKLVPLKETIKGFQQILAGEYDHLPEQAFYMVGPIEEAVAKADKLA</span><span class="topo-unknown">E</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>466</td>
+      <td>9</td>
+      <td>474</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>467</td>
+      <td>467</td>
+      <td>475</td>
+      <td>475</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2xnd">2XND</a> — Chain F (0 TMs, non_tm)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">TTGRIVAVIGAVVDVQFDEGLPPILNALEVQGRETRLVLEVAQHLGESTVRTIAMDGTEG</span></span>
+<span class="topo-line"><span class="topo-inside">LVRGQKVLDSGAPIRIPVGPETLGRIMNVIGEPIDERGPIKTKQFAAIHAEAPEFVEMSV</span></span>
+<span class="topo-line"><span class="topo-inside">EQEILVTGIKVVDLLAPYAKGGKIGLFGGAGVGKTVLIMELINNVAKAHGGYSVFAGVGE</span></span>
+<span class="topo-line"><span class="topo-inside">RTREGNDLYHEMIESGVINLKDATSKVALVYGQMNEPPGARARVALTGLTVAEYFRDQEG</span></span>
+<span class="topo-line"><span class="topo-inside">QDVLLFIDNIFRFTQAGSEVSALLGRIPSAVGYQPTLATDMGTMQERITTTKKGSITSVQ</span></span>
+<span class="topo-line"><span class="topo-inside">AIYVPADDLTDPAPATTFAHLDATTVLSRAIAELGIYPAVDPLDSTSRIMDPNIVGSEHY</span></span>
+<span class="topo-line"><span class="topo-inside">DVARGVQKILQDYKSLQDIIAILGMDELSEEDKLTVSRARKIQRFLSQPFQVAEVFTGHL</span></span>
+<span class="topo-line"><span class="topo-inside">GKLVPLKETIKGFQQILAGEYDHLPEQAFYMVGPIEEAVAKADKLA</span><span class="topo-unknown">E</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>466</td>
+      <td>9</td>
+      <td>474</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>467</td>
+      <td>467</td>
+      <td>475</td>
+      <td>475</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2xnd">2XND</a> — Chain G (0 TMs, non_tm)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">ATLKDITRRLKSIKNIQKITKSMKMVAAAKYARAERELKPARVYGVGSLALYEKADIKTP</span></span>
+<span class="topo-line"><span class="topo-inside">E</span><span class="topo-unknown">DKKKH</span><span class="topo-inside">LIIGVSSDRGLCGAIHSSVAKQMKSEAANL</span><span class="topo-unknown">AAAG</span><span class="topo-inside">KEVKIIGVGDKIRSILHRTH</span></span>
+<span class="topo-line"><span class="topo-inside">SDQFLVTFKEVGRRPPTFGDASVIALELLNSGYEFDEGSIIFNRFRSVISYKTEEKPIFS</span></span>
+<span class="topo-line"><span class="topo-inside">LDTISSAESMSIYDDIDADVLRNYQEYSLANIIYYSLKESTTSEQSARMTAMDNASKNAS</span></span>
+<span class="topo-line"><span class="topo-inside">EMIDKLTLTFNRTRQAVITKELIEIISGAAAL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>61</td>
+      <td>1</td>
+      <td>61</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>66</td>
+      <td>62</td>
+      <td>66</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>96</td>
+      <td>67</td>
+      <td>96</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>100</td>
+      <td>97</td>
+      <td>100</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>272</td>
+      <td>101</td>
+      <td>272</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2xnd">2XND</a> — Chain H (0 TMs, non_tm)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">QMSFTFASPTQVFFNSANVRQVDVPTQTGAFGILAAHVPTLQVLRPGLVVVHAEDGTTSK</span></span>
+<span class="topo-line"><span class="topo-inside">YFVSSGSVTVNADSSVQLLAEEAVTLDMLDLGAAKANLEKAQSELLGAADEATRAEIQIR</span></span>
+<span class="topo-line"><span class="topo-inside">IEANEALVKAL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>131</td>
+      <td>15</td>
+      <td>145</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2xnd">2XND</a> — Chain I (0 TMs, non_tm)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">VAYWRQAGLSYIRYSQICAKAVRDALKTEFKANAMKTSGSTIKIVKV</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>47</td>
+      <td>1</td>
+      <td>47</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2xnd">2XND</a> — Chain J (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAAT</span><span class="topo-membrane">VGVAGSGAGIGTV</span><span class="topo-inside">FGSLIIGYARNPSLKQQLFSYAI</span><span class="topo-membrane">LGFALSEAMG</span></span>
+<span class="topo-line"><span class="topo-membrane">LFCL</span><span class="topo-outside">MVAFLILF</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>14</td>
+      <td>2</td>
+      <td>15</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>27</td>
+      <td>16</td>
+      <td>28</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>50</td>
+      <td>29</td>
+      <td>51</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>64</td>
+      <td>52</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>72</td>
+      <td>66</td>
+      <td>73</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2xnd">2XND</a> — Chain K (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAAT</span><span class="topo-membrane">VGVAGSGAGIGTVF</span><span class="topo-inside">GSLIIGYARNPSLKQQLFSYA</span><span class="topo-membrane">ILGFALSEAMG</span></span>
+<span class="topo-line"><span class="topo-membrane">LFCL</span><span class="topo-outside">MVAFLILF</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>14</td>
+      <td>2</td>
+      <td>15</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>28</td>
+      <td>16</td>
+      <td>29</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>49</td>
+      <td>30</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>64</td>
+      <td>51</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>72</td>
+      <td>66</td>
+      <td>73</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2xnd">2XND</a> — Chain L (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAATV</span><span class="topo-membrane">GVAGSGAGIGTVF</span><span class="topo-inside">GSLIIGYARNPSLKQQLFSYA</span><span class="topo-membrane">ILGFALSEAMG</span></span>
+<span class="topo-line"><span class="topo-membrane">LFC</span><span class="topo-outside">LMVAFLILF</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>15</td>
+      <td>2</td>
+      <td>16</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>28</td>
+      <td>17</td>
+      <td>29</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>49</td>
+      <td>30</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>63</td>
+      <td>51</td>
+      <td>64</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>72</td>
+      <td>65</td>
+      <td>73</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2xnd">2XND</a> — Chain M (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAATV</span><span class="topo-membrane">GVAGSGAGIGTVFG</span><span class="topo-inside">SLIIGYARNPSLKQQLFSY</span><span class="topo-membrane">AILGFALSEAMG</span></span>
+<span class="topo-line"><span class="topo-membrane">LFC</span><span class="topo-outside">LMVAFLILF</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>15</td>
+      <td>2</td>
+      <td>16</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>29</td>
+      <td>17</td>
+      <td>30</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>48</td>
+      <td>31</td>
+      <td>49</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>63</td>
+      <td>50</td>
+      <td>64</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>72</td>
+      <td>65</td>
+      <td>73</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2xnd">2XND</a> — Chain N (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAATV</span><span class="topo-membrane">GVAGSGAGIGTVFG</span><span class="topo-inside">SLIIGYARNPSLKQQLFSY</span><span class="topo-membrane">AILGFALSEAMG</span></span>
+<span class="topo-line"><span class="topo-membrane">LF</span><span class="topo-outside">CLMVAFLILF</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>15</td>
+      <td>2</td>
+      <td>16</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>29</td>
+      <td>17</td>
+      <td>30</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>48</td>
+      <td>31</td>
+      <td>49</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>62</td>
+      <td>50</td>
+      <td>63</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>72</td>
+      <td>64</td>
+      <td>73</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2xnd">2XND</a> — Chain O (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAATV</span><span class="topo-membrane">GVAGSGAGIGTVF</span><span class="topo-inside">GSLIIGYARNPSLKQQLFSY</span><span class="topo-membrane">AILGFALSEAMG</span></span>
+<span class="topo-line"><span class="topo-membrane">LF</span><span class="topo-outside">CLMVAFLILF</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>15</td>
+      <td>2</td>
+      <td>16</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>28</td>
+      <td>17</td>
+      <td>29</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>30</td>
+      <td>49</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>62</td>
+      <td>50</td>
+      <td>63</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>72</td>
+      <td>64</td>
+      <td>73</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2xnd">2XND</a> — Chain P (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAAT</span><span class="topo-membrane">VGVAGSGAGIGTVF</span><span class="topo-inside">GSLIIGYARNPSLKQQLFSYA</span><span class="topo-membrane">ILGFALSEAMG</span></span>
+<span class="topo-line"><span class="topo-membrane">LFCL</span><span class="topo-outside">MVAFLILF</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>14</td>
+      <td>2</td>
+      <td>15</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>28</td>
+      <td>16</td>
+      <td>29</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>49</td>
+      <td>30</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>64</td>
+      <td>51</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>72</td>
+      <td>66</td>
+      <td>73</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2xnd">2XND</a> — Chain Q (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">IDTAAKFIGAGAAT</span><span class="topo-membrane">VGVAGSGAGIGTV</span><span class="topo-inside">FGSLIIGYARNPSLKQQLFSYAI</span><span class="topo-membrane">LGFALSEAMG</span></span>
+<span class="topo-line"><span class="topo-membrane">LFCL</span><span class="topo-outside">MVAFLILF</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>14</td>
+      <td>2</td>
+      <td>15</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>27</td>
+      <td>16</td>
+      <td>28</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>50</td>
+      <td>29</td>
+      <td>51</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>64</td>
+      <td>52</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>72</td>
+      <td>66</td>
+      <td>73</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -66,17 +1032,22 @@ The bovine F-ATPase c-ring contains 8 c-subunits, establishing the first c-ring 
 
 ### Bioenergetic cost of ATP synthesis
 
-With a c8-ring, each 360 degree rotation of the central stalk (producing 3 ATP) requires 8 protons (one per c-subunit glutamate). Therefore 8/3 = 2.67 protons per ATP. Including the electrogenic exchange of ATP for ADP by the ADP/ATP translocase (one charge) and the electroneutral phosphate/proton symport (one proton) adds one more proton, giving a total of 3.7 protons per ATP exported to the cytoplasm. The P/O ratio is 10/3.7 = 2.7 for NADH and 6/3.7 = 1.6 for succinate, close to experimental values of 2.5 and 1.5.
+With a c8-ring, each 360 degree rotation of the central stalk (producing 3 ATP) requires 8 protons (one per c-subunit glutamate). Therefore 8/3 = 2.67 protons per ATP. Including the electrogenic exchange of ATP for ADP by the ADP/ATP translocase (one charge) and the electroneutral phosphate/proton symport (one proton) adds one more proton, giving a total of 3.7 protons per ATP exported to the cytoplasm. The P/O ratio is 10/3.7 = 2.7 for NADH and 6/3.7 = 1.6 for [Succinate (Succinic Acid)](/xray-mp-wiki/reagents/ligands/succinate/), close to experimental values of 2.5 and 1.5.
 
 ### Cardiolipin binding and c8-ring stabilization
 
-The c8-ring has eight trimethylated Lys43 residues that likely mark binding sites for cardiolipin, an abundant inner mitochondrial membrane lipid with no head group. Unlike larger rings (c10+), the c8-ring outer ring has gaps between C-terminal alpha-helices that expose the inner ring to the lipid bilayer. Each bound cardiolipin with two acyl side chains could help strengthen the c8-ring by cross-linking adjacent c-subunits. The Lys43 trimethylation is conserved across Animalia.
+The c8-ring has eight trimethylated Lys43 residues that likely mark binding sites for [Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/), an abundant inner mitochondrial membrane lipid with no head group. Unlike larger rings (c10+), the c8-ring outer ring has gaps between C-terminal alpha-helices that expose the inner ring to the lipid bilayer. Each bound [Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) with two acyl side chains could help strengthen the c8-ring by cross-linking adjacent c-subunits. The Lys43 trimethylation is conserved across Animalia.
 
 
 ## Cross-References
 
-- [Bovine F1-ATPase](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) — Catalytic domain of the same ATP synthase complex
-- [Cardiolipin](/xray-mp-wiki/reagents/lipids/cardiolipin/) — Cardiolipin binds c8-ring external surface and stabilizes the ring structure
-- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/) — Rotary mechanism of ATP synthesis coupled to proton flow through c-ring
-- [Symmetry Mismatch in Rotary Motors](/xray-mp-wiki/concepts/structural-mechanisms/symmetry-mismatch-rotary-motor/) — Mismatch between c8-ring (8-fold) and catalytic domain (3-fold) symmetry
-- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/) — Broader rotary catalysis mechanism context
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/">Bovine F1-ATPase</a> — Catalytic domain of the same ATP synthase complex
+- <a href="/xray-mp-wiki/reagents/lipids/cardiolipin/">Cardiolipin</a> — Cardiolipin binds c8-ring external surface and stabilizes the ring structure
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/">F1-ATPase Rotary Catalytic Mechanism</a> — Rotary mechanism of ATP synthesis coupled to proton flow through c-ring
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/symmetry-mismatch-rotary-motor/">Symmetry Mismatch in Rotary Motors</a> — Mismatch between c8-ring (8-fold) and catalytic domain (3-fold) symmetry
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/">Rotary ATPase Mechanism</a> — Broader rotary catalysis mechanism context
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/purification/ion-exchange-chromatography/">Ion-Exchange Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/detergents/tridecylmaltoside/">TDM</a> — Detergent used in purification or crystallization

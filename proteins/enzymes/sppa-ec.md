@@ -1,7 +1,7 @@
 ---
 title: "Signal Peptide Peptidase A from Escherichia coli"
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,46 +16,126 @@ verified: false
 
 Signal peptide peptidase (SppA) from *Escherichia coli* is the first crystal structure of a bacterial signal peptide peptidase reported. SppA_EC forms a tetrameric assembly with a novel bowl-shaped architecture featuring a dramatically hydrophobic interior and four separate active sites that utilize a Ser/Lys catalytic dyad mechanism. The structure reveals that the previously predicted transmembrane segments are actually buried within the globular domain, and shows a surprising fold similarity to the cytoplasmic [ClpP](/xray-mp-wiki/proteins/enzymes/clpp/) protease despite a different catalytic mechanism.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.jmb.2007.11.080 | 3BF0 | 2.6 A | P2_1 | SppA_EC delta 2-46 (residues 47-549, lacking predicted N-terminal TM segment), with 6xHis tag and thrombin cleavage site (MGSSHHHHHHSSGLVPRGSH) | -- |
-| doi/10.1016##j.jmb.2007.11.080 | 3BF1 | 2.5 A | P2_1 | SppA_EC delta 2-46 (native), with 6xHis tag and thrombin cleavage site | -- |
+### doi/10.1016##j.jmb.2007.11.080
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3bf0">3BF0</a></td>
+      <td>2.6 A</td>
+      <td>P2_1</td>
+      <td>SppA_EC delta 2-46 (residues 47-549, lacking predicted N-terminal TM segment), with 6xHis tag and thrombin cleavage site (MGSSHHHHHHSSGLVPRGSH)</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3bf1">3BF1</a></td>
+      <td>2.5 A</td>
+      <td>P2_1</td>
+      <td>SppA_EC delta 2-46 (native), with 6xHis tag and thrombin cleavage site</td>
+      <td>--</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: *E. coli* BL21 (DE3) cells transformed with plasmid pET28-sppA_delta2-46
 - **Construct**: SppA_EC delta 2-46 (residues 47-549) with N-terminal 6xHis affinity tag and thrombin cleavage site (MGSSHHHHHHSSGLVPRGSH), cloned into pET-28a using NdeI and XhoI restriction sites. The expressed protein is 593 residues in length (including the 6xHis tag and thrombin site) with a molecular mass of 63,849 Da and a theoretical isoelectric point of 5.9.
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture and induction</td>
+      <td>Overnight small-scale cultures diluted 1:50 into LB media with <a href="/xray-mp-wiki/reagents/additives/kanamycin/">kanamycin</a> (25 ug/mL), grown at 37 C for 3.5 h, then induced with 0.75 mM <a href="/xray-mp-wiki/reagents/additives/iptg">IPTG</a> at 27.5 C for 3.5 h. Cells pelleted by centrifugation at 37,000 x g for 20 min.</td>
+      <td>--</td>
+      <td>LB media with <a href="/xray-mp-wiki/reagents/additives/kanamycin/">kanamycin</a> (25 ug/mL) + --</td>
+      <td>For <a href="/xray-mp-wiki/reagents/additives/selenomethionine">Selenomethionine (SeMet)</a>-incorporated protein, BL21 (DE3) cells grown in M9 minimal media supplemented with amino acids including 60 mg Se-Met, with 15 min pre- induction before 0.75 mM <a href="/xray-mp-wiki/reagents/additives/iptg">IPTG</a> addition.</td>
+    </tr>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Cell pellet resuspended in buffer A and lysed by sonication (three 15-s pulses at 30% amplitude with 30-s rest) and homogenization (20,000-25,000 psi, 3 min, Avestin Emulsiflex-3C). Lysate centrifuged at 30,000 x g for 35 min; supernatant used for purification.</td>
+      <td>--</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>-HCl (pH 7.5), 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">sodium-chloride</a> + --</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Ni-NTA affinity chromatography</td>
+      <td>Supernatant applied three times to Ni2+-NTA affinity column (5 mL column volume, Qiagen) pre-equilibrated with 5 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a>, 50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>-HCl (pH 7.5), 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">sodium-chloride</a>. Column washed with 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> in buffer (10 column volumes), then eluted with step gradient (100 to 500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> in 100 mM increments). Protein eluted between 200 and 400 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a>.</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">nickel-nta</a> (Qiagen, 5 mL column volume)</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>-HCl (pH 7.5), 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">sodium-chloride</a>, 100-400 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a> (elution) + --</td>
+      <td>Fractions containing SppA_EC pooled for next step.</td>
+    </tr>
+    <tr>
+      <td>Concentration</td>
+      <td>Protein concentrated via Amicon ultracentrifuge filter (Millipore).</td>
+      <td>--</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>-HCl (pH 7.5), 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">sodium-chloride</a> + --</td>
+      <td>Concentrated to 8 mg/mL.</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>Applied to Sephacryl S-100 HiPrep 26/60 SEC column on AKTA Prime system (Pharmacia Biotech) at 1 mL/min. Fractions containing pure SppA analyzed by SDS-PAGE and concentrated to 8 mg/mL. Analytical SEC with multiangle light scattering consistent with monodispersed tetramer in solution.</td>
+      <td>Sephacryl S-100 HiPrep 26/60 column (Pharmacia Biotech)</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>-HCl (pH 7.5), 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">sodium-chloride</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/">ethylenediaminetetraacetic acid</a> (<a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a>) + --</td>
+      <td>Cleavage assays confirmed SppA_EC_delta2-46 is catalytically active.</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture and induction | Overnight small-scale cultures diluted 1:50 into LB media with [kanamycin](/xray-mp-wiki/reagents/additives/kanamycin/) (25 ug/mL), grown at 37 C for 3.5 h, then induced with 0.75 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg) at 27.5 C for 3.5 h. Cells pelleted by centrifugation at 37,000 x g for 20 min. | -- | LB media with [kanamycin](/xray-mp-wiki/reagents/additives/kanamycin/) (25 ug/mL) + -- | For [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine)-incorporated protein, BL21 (DE3) cells grown in M9 minimal media supplemented with amino acids including 60 mg Se-Met, with 15 min pre- induction before 0.75 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg) addition. |
-| Cell lysis | Cell pellet resuspended in buffer A and lysed by sonication (three 15-s pulses at 30% amplitude with 30-s rest) and homogenization (20,000-25,000 psi, 3 min, Avestin Emulsiflex-3C). Lysate centrifuged at 30,000 x g for 35 min; supernatant used for purification. | -- | 50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris)-HCl (pH 7.5), 100 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) + -- | -- |
-| Ni-NTA affinity chromatography | Supernatant applied three times to Ni2+-NTA affinity column (5 mL column volume, Qiagen) pre-equilibrated with 5 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris)-HCl (pH 7.5), 100 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/). Column washed with 50 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) in buffer (10 column volumes), then eluted with step gradient (100 to 500 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) in 100 mM increments). Protein eluted between 200 and 400 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/). | [nickel-nta](/xray-mp-wiki/reagents/additives/nickel-nta/) (Qiagen, 5 mL column volume) | 50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris)-HCl (pH 7.5), 100 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 100-400 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (elution) + -- | Fractions containing SppA_EC pooled for next step. |
-| Concentration | Protein concentrated via Amicon ultracentrifuge filter (Millipore). | -- | 50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris)-HCl (pH 7.5), 100 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) + -- | Concentrated to 8 mg/mL. |
-| Size-exclusion chromatography | Applied to Sephacryl S-100 HiPrep 26/60 SEC column on AKTA Prime system (Pharmacia Biotech) at 1 mL/min. Fractions containing pure SppA analyzed by SDS-PAGE and concentrated to 8 mg/mL. Analytical SEC with multiangle light scattering consistent with monodispersed tetramer in solution. | Sephacryl S-100 HiPrep 26/60 column (Pharmacia Biotech) | 50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris)-HCl (pH 7.5), 100 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 1 mM [ethylenediaminetetraacetic acid](/xray-mp-wiki/reagents/additives/) ([EDTA](/xray-mp-wiki/reagents/additives/edta)) + -- | Cleavage assays confirmed SppA_EC_delta2-46 is catalytically active. |
-
-
-## Crystallization
-
-### doi/10.1016##j.jmb.2007.11.080
-
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | SppA_EC delta 2-46 at 8 mg/mL in 50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris)-HCl (pH 7.5), 100 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta). Drop prepared by mixing 1 uL protein with 1 uL reservoir solution. |
-| Reservoir | 100 mM [Tris](/xray-mp-wiki/reagents/buffers/tris)-HCl (pH 7.5), 18% [polyethylene glycol 3350](/xray-mp-wiki/reagents/), 200 mM [sodium-phosphate](/xray-mp-wiki/reagents/buffers/sodium-phosphate/) (K2HPO4) |
-| Temperature | 18 C |
-| Growth time | -- |
-| Cryoprotection | Reservoir solution with 20% water replaced by [glycerol](/xray-mp-wiki/reagents/additives/glycerol/). Crystals incubated in cryosolvent for ~5 min before flash-cooling in liquid nitrogen. |
-| Notes | Crystals in space group P2_1 with unit cell dimensions 93.0 x 153.0 x 100.2 A, beta = 104.2 deg (Se-Met) and 94.2 x 153.5 x 100.7 A, beta = 104.3 deg (native). Four molecules in the asymmetric unit, Matthews coefficient 2.7 A^3/Da (54.6% solvent). Se-Met crystals used for SAD phasing at NSLS beamline X4A. Native crystals collected at ALS beamline 8.2.1. Data processed with HKL2000. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>SppA_EC delta 2-46 at 8 mg/mL in 50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>-HCl (pH 7.5), 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">sodium-chloride</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a>. Drop prepared by mixing 1 uL protein with 1 uL reservoir solution.</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>100 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a>-HCl (pH 7.5), 18% <a href="/xray-mp-wiki/reagents/">polyethylene glycol 3350</a>, 200 mM <a href="/xray-mp-wiki/reagents/buffers/sodium-phosphate/">sodium-phosphate</a> (K2HPO4)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>18 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Reservoir solution with 20% water replaced by <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>. Crystals incubated in cryosolvent for ~5 min before flash-cooling in liquid nitrogen.</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals in space group P2_1 with unit cell dimensions 93.0 x 153.0 x 100.2 A, beta = 104.2 deg (Se-Met) and 94.2 x 153.5 x 100.7 A, beta = 104.3 deg (native). Four molecules in the asymmetric unit, Matthews coefficient 2.7 A^3/Da (54.6% solvent). Se-Met crystals used for SAD phasing at NSLS beamline X4A. Native crystals collected at ALS beamline 8.2.1. Data processed with HKL2000.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -132,9 +212,9 @@ depression may help guide signal peptide substrate towards the active site.
 
 ## Cross-References
 
-- [Signal Peptide Peptidase A from Bacillus subtilis (SppA_BS)](/xray-mp-wiki/proteins/enzymes/sppa-bs/) — Gram-positive homolog compared throughout the paper; half-size unduplicated SppA variant discussed in structural context; octameric assembly compared to tetrameric SppA_EC
-- [ClpP Protease](/xray-mp-wiki/proteins/enzymes/clpp/) — Major structural comparison; ClpP shows surprising fold similarity to SppA despite different catalytic mechanisms (Ser/His/Asp vs Ser/Lys); both share unique oxyanion hole architecture using main-chain amide NH from residue following nucleophile
-- [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine) — Entity mentioned in text
-- [IPTG](/xray-mp-wiki/reagents/additives/iptg) — Entity mentioned in text
-- [Glycine](/xray-mp-wiki/reagents/buffers/glycine) — Entity mentioned in text
-- [EDTA](/xray-mp-wiki/reagents/additives/edta) — Entity mentioned in text
+- <a href="/xray-mp-wiki/proteins/enzymes/sppa-bs/">Signal Peptide Peptidase A from Bacillus subtilis (SppA_BS)</a> — Gram-positive homolog compared throughout the paper; half-size unduplicated SppA variant discussed in structural context; octameric assembly compared to tetrameric SppA_EC
+- <a href="/xray-mp-wiki/proteins/enzymes/clpp/">ClpP Protease</a> — Major structural comparison; ClpP shows surprising fold similarity to SppA despite different catalytic mechanisms (Ser/His/Asp vs Ser/Lys); both share unique oxyanion hole architecture using main-chain amide NH from residue following nucleophile
+- <a href="/xray-mp-wiki/reagents/additives/selenomethionine">Selenomethionine (SeMet)</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/additives/iptg">IPTG</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/buffers/glycine">Glycine</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/additives/edta">EDTA</a> — Entity mentioned in text

@@ -1,7 +1,7 @@
 ---
 title: "E. coli Methionine ABC Transporter MetNI"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,37 +17,53 @@ verified: false
 The MetNI complex is the high-affinity methionine ABC transporter from *Escherichia coli*, consisting of the transmembrane domain MetI and the nucleotide-binding domain MetN. The structure reveals an inward-facing, ATPase-inactive conformation and provides the first crystallographic analysis of a member of the methionine uptake transporter family. MetI contains an odd number of five transmembrane helices per subunit (with N and C termini on opposite sides of the membrane), in contrast to other structurally characterized ABC transporters. MetN features a C-terminal C2 (ACT) domain that mediates allosteric regulation through methionine binding, providing a molecular mechanism for transinhibition of methionine transport.
 
 
-## Structure Determination
+## Publications
 
-No structure determined.
+### doi/10.1126##science.1157987
 
-## Expression and Purification
+**Expression:**
 
 - **Expression system**: E. coli
 - **Notes**: Detergent-solubilized transporter
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Solubilization and purification | Detergent solubilization | — |  | MetNI complex purified in detergent-solubilized form |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Solubilization and purification</td>
+      <td>Detergent solubilization</td>
+      <td>—</td>
+      <td></td>
+      <td>MetNI complex purified in detergent-solubilized form</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: Detergent-solubilized MetNI transporter
 
+**Crystallization:**
 
-## Crystallization
-
-### doi/10.1126##science.1157987
-
-| Parameter | Value |
-|---|---|
-| Method | Soaking |
-| Notes | Crystals soaked in 1 mM L-[Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) for 2 hours; diffraction data collected to 5.2 Å resolution at the selenium edge |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Soaking</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals soaked in 1 mM L-<a href="/xray-mp-wiki/reagents/additives/selenomethionine/">Selenomethionine (SeMet)</a> for 2 hours; diffraction data collected to 5.2 Å resolution at the selenium edge</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -66,8 +82,8 @@ Methionine binds to the C2 (ACT) domain dimer interface near residues Met301 and
 
 ## Cross-References
 
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
-- [MalF (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/abc-transporters/malF/) — Related protein structure
-- [MalG (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/abc-transporters/malG/) — Related protein structure
-- [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) — Additive used in purification or crystallization buffers
-- [L-Methionine](/xray-mp-wiki/reagents/ligands/l-methionine/) — Related ligand or cofactor
+- <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a> — Related biological concept
+- <a href="/xray-mp-wiki/proteins/abc-transporters/malF/">MalF (Escherichia coli Maltose Transporter Transmembrane Subunit)</a> — Related protein structure
+- <a href="/xray-mp-wiki/proteins/abc-transporters/malG/">MalG (Escherichia coli Maltose Transporter Transmembrane Subunit)</a> — Related protein structure
+- <a href="/xray-mp-wiki/reagents/additives/selenomethionine/">Selenomethionine (SeMet)</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/ligands/l-methionine/">L-Methionine</a> — Related ligand or cofactor

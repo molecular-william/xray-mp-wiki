@@ -1,7 +1,7 @@
 ---
 title: "Interleukin-17A (IL-17A)"
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,35 +17,74 @@ verified: false
 IL-17A is a secreted cytokine and the best-studied member of the IL-17 cytokine family. It forms homodimers and plays a key role in innate and adaptive immune responses as well as in a broad range of chronic inflammatory and autoimmune disorders. IL-17A signals through a heteromeric receptor complex comprising [IL-17RA](/xray-mp-wiki/proteins/receptors-signaling/il-17ra/) and [IL-17RC](/xray-mp-wiki/proteins/receptors-signaling/il-17rc/). Unlike [IL-17F](/xray-mp-wiki/proteins/receptors-signaling/il-17f/), IL-17A readily drives formation of the heteromeric [IL-17RC](/xray-mp-wiki/proteins/receptors-signaling/il-17rc/):[IL-17RA](/xray-mp-wiki/proteins/receptors-signaling/il-17ra/):IL-17A complex at nanomolar concentrations. IL-17A can also form heterodimers with [IL-17F](/xray-mp-wiki/proteins/receptors-signaling/il-17f/) (IL-17A/F), which has intermediate ability to assemble the heteromeric complex.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.immuni.2020.02.004 | 5L9F | not specified | not specified | Human IL-17A, residues 34-155 of UniProt entry Q16552, with two point mutations (N68D and C129S) reported by Liu et al., 2013; fused to CD33 signal peptide, APP6-tag, and PreScission recognition sequence (LEVLFQGP)
- | -- |
-| doi/10.1016##j.immuni.2020.02.004 | 6HG4 | not specified | not specified | IL-17A homodimer in complex with [IL-17RA](/xray-mp-wiki/proteins/receptors-signaling/il-17ra/) and [IL-17RC](/xray-mp-wiki/proteins/receptors-signaling/il-17rc/) (heteromeric 1:1:1 complex analyzed by [SEC-MALS](/xray-mp-wiki/methods/quality-assessment/sec-mals/) and [TR-FRET](/xray-mp-wiki/methods/quality-assessment/tr-fret/))
- | [IL-17RA](/xray-mp-wiki/proteins/receptors-signaling/il-17ra/) and [IL-17RC](/xray-mp-wiki/proteins/receptors-signaling/il-17rc/) |
+### doi/10.1016##j.immuni.2020.02.004
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5l9f">5L9F</a></td>
+      <td>not specified</td>
+      <td>not specified</td>
+      <td>Human IL-17A, residues 34-155 of UniProt entry Q16552, with two point mutations (N68D and C129S) reported by Liu et al., 2013; fused to CD33 signal peptide, APP6-tag, and PreScission recognition sequence (LEVLFQGP)
+</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6hg4">6HG4</a></td>
+      <td>not specified</td>
+      <td>not specified</td>
+      <td>IL-17A homodimer in complex with <a href="/xray-mp-wiki/proteins/receptors-signaling/il-17ra/">IL-17RA</a> and <a href="/xray-mp-wiki/proteins/receptors-signaling/il-17rc/">IL-17RC</a> (heteromeric 1:1:1 complex analyzed by <a href="/xray-mp-wiki/methods/quality-assessment/sec-mals/">SEC-MALS</a> and <a href="/xray-mp-wiki/methods/quality-assessment/tr-fret/">TR-FRET</a>)
+</td>
+      <td><a href="/xray-mp-wiki/proteins/receptors-signaling/il-17ra/">IL-17RA</a> and <a href="/xray-mp-wiki/proteins/receptors-signaling/il-17rc/">IL-17RC</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: HEK293S cells (human embryonic kidney cells deficient in N-acetylglucosaminyl-transferase I)
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Protein expression</td>
+      <td>Transient co-expression in HEK293S cells</td>
+      <td>--</td>
+      <td>V3 medium (Novartis medium, patent WO 2011/134920 A1) + --</td>
+      <td>Co-expression of IL-17A and <a href="/xray-mp-wiki/proteins/receptors-signaling/il-17f/">IL-17F</a> led to production of IL-17A, <a href="/xray-mp-wiki/proteins/receptors-signaling/il-17f/">IL-17F</a>, and IL-17A/F heterodimer; cells grown to 3 x 10^6 cells/mL
+</td>
+    </tr>
+    <tr>
+      <td>Purification</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> and SEC</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>IL-17A purified from supernatant; used for <a href="/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/">ITC</a> and <a href="/xray-mp-wiki/methods/quality-assessment/sec-mals/">SEC-MALS</a> experiments
+</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Protein expression | Transient co-expression in HEK293S cells | -- | V3 medium (Novartis medium, patent WO 2011/134920 A1) + -- | Co-expression of IL-17A and [IL-17F](/xray-mp-wiki/proteins/receptors-signaling/il-17f/) led to production of IL-17A, [IL-17F](/xray-mp-wiki/proteins/receptors-signaling/il-17f/), and IL-17A/F heterodimer; cells grown to 3 x 10^6 cells/mL
- |
-| Purification | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) and SEC | -- | -- + -- | IL-17A purified from supernatant; used for [ITC](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/) and [SEC-MALS](/xray-mp-wiki/methods/quality-assessment/sec-mals/) experiments
- |
-
-
-## Crystallization
-
-No crystallization described.
 
 ## Biological / Functional Insights
 
@@ -64,13 +103,13 @@ IL-17A-induced angiogenesis through the [Phosphatidylinositol](/xray-mp-wiki/rea
 
 ## Cross-References
 
-- [Interleukin-17 Receptor C (IL-17RC)](/xray-mp-wiki/proteins/receptors-signaling/il-17rc/) — Co-receptor that forms heteromeric complex with IL-17A
-- [Interleukin-17 Receptor A (IL-17RA)](/xray-mp-wiki/proteins/receptors-signaling/il-17ra/) — Shared co-receptor that forms heteromeric complex with IL-17A
-- [Interleukin-17F (IL-17F)](/xray-mp-wiki/proteins/receptors-signaling/il-17f/) — Related cytokine; can form heterodimer with IL-17A
-- [Competitive Receptor Binding](/xray-mp-wiki/concepts/competitive-receptor-binding/) — IL-17A efficiently assembles heteromeric complex unlike IL-17F
-- [SEC-MALS](/xray-mp-wiki/methods/quality-assessment/size-exclusion-chromatography-mals/) — Used to analyze IL-17A receptor complex stoichiometry
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [ITC](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/) — Method used in structure determination or purification
-- [SEC-MALS](/xray-mp-wiki/methods/quality-assessment/sec-mals/) — Method used in structure determination or purification
-- [TR-FRET](/xray-mp-wiki/methods/quality-assessment/tr-fret/) — Method used in structure determination or purification
-- [Phosphatidylinositol](/xray-mp-wiki/reagents/lipids/phosphatidylinositol/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/proteins/receptors-signaling/il-17rc/">Interleukin-17 Receptor C (IL-17RC)</a> — Co-receptor that forms heteromeric complex with IL-17A
+- <a href="/xray-mp-wiki/proteins/receptors-signaling/il-17ra/">Interleukin-17 Receptor A (IL-17RA)</a> — Shared co-receptor that forms heteromeric complex with IL-17A
+- <a href="/xray-mp-wiki/proteins/receptors-signaling/il-17f/">Interleukin-17F (IL-17F)</a> — Related cytokine; can form heterodimer with IL-17A
+- <a href="/xray-mp-wiki/concepts/competitive-receptor-binding/">Competitive Receptor Binding</a> — IL-17A efficiently assembles heteromeric complex unlike IL-17F
+- <a href="/xray-mp-wiki/methods/quality-assessment/size-exclusion-chromatography-mals/">SEC-MALS</a> — Used to analyze IL-17A receptor complex stoichiometry
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/">ITC</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/quality-assessment/sec-mals/">SEC-MALS</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/quality-assessment/tr-fret/">TR-FRET</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/lipids/phosphatidylinositol/">Phosphatidylinositol</a> — Additive used in purification or crystallization buffers

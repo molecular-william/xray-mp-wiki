@@ -1,7 +1,7 @@
 ---
 title: "A. fulgidus AglB-L Oligosaccharyltransferase"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,57 +17,725 @@ verified: false
 AglB-L (archaeal glycosylation B, Long form) from Archaeoglobus fulgidus is a single-subunit membrane oligosaccharyltransferase (OST) that transfers oligosaccharide chains to asparagine residues in proteins (N-linked glycosylation). The full-length crystal structures were determined at 2.5 A and 3.41 A resolutions in two crystal forms. The structures reveal 13 transmembrane helices with a characteristic long plastic loop (EL5) in the transmembrane region. The catalytic center consists of conserved acidic residues (Asp47, Glu360) coordinating a divalent metal ion (Zn2+ or Mg2+). AglB-L shares high structural similarity with the eubacterial PglB from Campylobacter lari, despite less than 20% sequence identity, indicating a conserved catalytic mechanism across archaeal, eubacterial, and eukaryotic (STT3) OSTs.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.1309777110 | 3WAJ | 2.50 A | C2 | A. fulgidus AglB-L full-length; C-terminal His10-tag after thrombin cleavage site; crystal form 1 in n-octyl-beta-D-glucopyranoside (OG); Zn2+ and sulfate ion bound; EL5 loop disordered | Zn2+ (catalytic site, six-coordinated, distorted octahedral), sulfate ion (mimics dolichol-phosphate phosphate group) |
-| doi/10.1073##pnas.1309777110 | 3WAJ | 3.41 A | P4_3_2_1_2 | A. fulgidus AglB-L full-length; crystal form 2 in [LDAO](/xray-mp-wiki/reagents/detergents/ldao/); resting state with well-ordered EL5 plastic loop | unknown metal ion; no sulfate ion bound |
+### doi/10.1073##pnas.1309777110
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3waj">3WAJ</a></td>
+      <td>2.50 A</td>
+      <td>C2</td>
+      <td>A. fulgidus AglB-L full-length; C-terminal His10-tag after thrombin cleavage site; crystal form 1 in n-octyl-beta-D-glucopyranoside (OG); Zn2+ and sulfate ion bound; EL5 loop disordered</td>
+      <td>Zn2+ (catalytic site, six-coordinated, distorted octahedral), sulfate ion (mimics dolichol-phosphate phosphate group)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3waj">3WAJ</a></td>
+      <td>3.41 A</td>
+      <td>P4_3_2_1_2</td>
+      <td>A. fulgidus AglB-L full-length; crystal form 2 in <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a>; resting state with well-ordered EL5 plastic loop</td>
+      <td>unknown metal ion; no sulfate ion bound</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli C43 (DE3)
 - **Construct**: A. fulgidus AglB-L (O29867_ARCFU) cloned into pET-52b(+) between NcoI and XhoI sites; C-terminal His10-tag after thrombin cleavage site; cultured in Terrific Broth with [Ampicillin](/xray-mp-wiki/reagents/antibiotics/ampicillin/) (100 mg/L) at 310 K overnight
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli C43 (DE3)
 - **Expression construct**: C-terminal His10-tag
 - **Tag info**: C-terminal His10-tag, removable by thrombin cleavage
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture | Overnight expression | not applicable | Terrific Broth with 100 mg/L [Ampicillin](/xray-mp-wiki/reagents/antibiotics/ampicillin/) + not applicable | Overnight culture at 310 K |
-| Protein extraction and purification | Detergent solubilization and affinity purification | not specified | not specified + not specified (monodisperse in various detergents by gel filtration) | Monodisperse and monomeric in various detergents by gel filtration chromatography |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture</td>
+      <td>Overnight expression</td>
+      <td>not applicable</td>
+      <td>Terrific Broth with 100 mg/L <a href="/xray-mp-wiki/reagents/antibiotics/ampicillin/">Ampicillin</a> + not applicable</td>
+      <td>Overnight culture at 310 K</td>
+    </tr>
+    <tr>
+      <td>Protein extraction and purification</td>
+      <td>Detergent solubilization and <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity purification</a></td>
+      <td>not specified</td>
+      <td>not specified + not specified (monodisperse in various detergents by gel filtration)</td>
+      <td>Monodisperse and monomeric in various detergents by gel filtration chromatography</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: Purified in n-dodecyl-beta-D-maltopyranoside (DDM) for activity assays
 **Yield**: Highest yield among three A. fulgidus AglB paralogs
 
+**Crystallization:**
 
-## Crystallization
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">vapor diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>A. fulgidus AglB-L in <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.2 M zinc sulfate, 0.1 M sodium <a href="/xray-mp-wiki/reagents/buffers/acetate/">Acetate Buffer (Sodium Acetate)</a> buffer pH 4.6, 15% (vol/vol) polyethylene glycol 4000</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>293 K</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>0.2 M zinc sulfate, 0.1 M sodium <a href="/xray-mp-wiki/reagents/buffers/acetate/">Acetate Buffer (Sodium Acetate)</a> pH 4.6, 15% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG (Polyethylene Glycol)</a> 4000, 1% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a>, 15% ethylene glycol</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystal form 1; space group C2; contains 0.06% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> added; Zn2+ and sulfate bound; EL5 disordered</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">vapor diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>A. fulgidus AglB-L in <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.02 M <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> HCl pH 8.0, 22% (wt/vol) polyethylene glycol 550MME</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>293 K</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>0.02 M <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> HCl pH 8.0, 28% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG (Polyethylene Glycol)</a> 550MME, 0.06% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a></td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystal form 2; space group P4_3_2_1_2; resting state with well-ordered EL5 plastic loop; no sulfate bound</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-### doi/10.1073##pnas.1309777110
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3waj">3WAJ</a> — Chain A (13 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | A. fulgidus AglB-L in [OG](/xray-mp-wiki/reagents/detergents/og/) |
-| Reservoir | 0.2 M zinc sulfate, 0.1 M sodium [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate/) buffer pH 4.6, 15% (vol/vol) polyethylene glycol 4000 |
-| Temperature | 293 K |
-| Cryoprotection | 0.2 M zinc sulfate, 0.1 M sodium [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate/) pH 4.6, 15% [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) 4000, 1% [OG](/xray-mp-wiki/reagents/detergents/og/), 15% ethylene glycol |
-| Notes | Crystal form 1; space group C2; contains 0.06% [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) added; Zn2+ and sulfate bound; EL5 disordered |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MQNAESWFKKYWHL</span><span class="topo-outside">S</span><span class="topo-membrane">VLVIAALISV</span><span class="topo-inside">KLRILNPWNSVFTWTVRLGGNDPWYYYRLIENTIH</span></span>
+<span class="topo-line"><span class="topo-inside">NFPHRIWFDPFTYYPYGSYTHFG</span><span class="topo-unknown">PFLVYLGSIAGII</span><span class="topo-inside">FSATSGESLRAVLAFIPAI</span><span class="topo-membrane">GGVLA</span></span>
+<span class="topo-line"><span class="topo-membrane">ILPVYLLTREVFDK</span><span class="topo-outside">R</span><span class="topo-membrane">AAVIAAFLIAIV</span><span class="topo-inside">PGQFLQRSILGFNDHHI</span><span class="topo-membrane">WEAFWQVSALGTFLLA</span></span>
+<span class="topo-line"><span class="topo-membrane">YNRW</span><span class="topo-outside">KGHD</span><span class="topo-unknown">LSHN</span><span class="topo-outside">LT</span><span class="topo-membrane">ARQMAYPVIAGITIGLYVLS</span><span class="topo-inside">WGA</span><span class="topo-membrane">GFIIAPIILAFMFFAFVL</span><span class="topo-outside">AGFVN</span></span>
+<span class="topo-line"><span class="topo-outside">ADRKN</span><span class="topo-membrane">LSLVAVVTFAVSALIYLP</span><span class="topo-inside">FAFNYPGFSTIFYSP</span><span class="topo-membrane">FQLLVLLGSAVIAAAFYQI</span><span class="topo-outside">EKW</span></span>
+<span class="topo-line"><span class="topo-outside">NDVGFFERVGLGRKGMP</span><span class="topo-membrane">LAVIVLTALIMGLFFV</span><span class="topo-unknown">ISPDFARNLLSVVRVVQPKGGALTIAE</span></span>
+<span class="topo-line"><span class="topo-unknown">VYPFFFTHNGEFT</span><span class="topo-inside">LT</span><span class="topo-unknown">NAVLHF</span><span class="topo-membrane">GALFFFGMAGILYSAYRFL</span><span class="topo-outside">KRRS</span><span class="topo-membrane">FPEMALLIWAIAMFIA</span></span>
+<span class="topo-line"><span class="topo-membrane">LW</span><span class="topo-inside">GQNRFAY</span><span class="topo-membrane">YFAAVSAVYSALALSVVFDKLH</span><span class="topo-unknown">LYRALENAIGARNKLSY</span><span class="topo-outside">F</span><span class="topo-membrane">RVAFALLIALA</span></span>
+<span class="topo-line"><span class="topo-membrane">AIYPTY</span><span class="topo-inside">ILADAQSSYAGGPNKQWYDALTWMRENTPDGEKYDEYYLQLYPTPQSNKEPFSY</span></span>
+<span class="topo-line"><span class="topo-inside">PFETYGVISWWDYGHWIEAVAHRMPIANPFQAGIGNKYNNVPGASSFFTAENESYAEFVA</span></span>
+<span class="topo-line"><span class="topo-inside">EKLNVKYVVSDIEMETGKYYAMAVWAEGDLPLAEKYYGGYFYYSPTGTFGYANSQWDIPL</span></span>
+<span class="topo-line"><span class="topo-inside">NSIIIPLRIPSELYYSTMEAKLHLFDGSGLSHYRMIYESDYPAEWKSYSSQVNLNNESQV</span></span>
+<span class="topo-line"><span class="topo-inside">LQTALYEAVMRARYGVSPTMGTQEVLYKYAYTQLYEKKMGIPVKIAPSGYVKIFERVKGA</span></span>
+<span class="topo-line"><span class="topo-inside">VVTGKVSANVTEVSVNATIKTNQNRTFEYWQTVEVKNGTYTVVLPYSHNSDYPVKPITPY</span></span>
+<span class="topo-line"><span class="topo-inside">HIKAGNVVKEITIYESQVQNGEIIQLDL</span><span class="topo-unknown">ELALVPR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>14</td>
+      <td>1</td>
+      <td>14</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>15</td>
+      <td>15</td>
+      <td>15</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>25</td>
+      <td>16</td>
+      <td>25</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>83</td>
+      <td>26</td>
+      <td>83</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>96</td>
+      <td>84</td>
+      <td>96</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>115</td>
+      <td>97</td>
+      <td>115</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>134</td>
+      <td>116</td>
+      <td>134</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>135</td>
+      <td>135</td>
+      <td>135</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>147</td>
+      <td>136</td>
+      <td>147</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>164</td>
+      <td>148</td>
+      <td>164</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>184</td>
+      <td>165</td>
+      <td>184</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>185</td>
+      <td>188</td>
+      <td>185</td>
+      <td>188</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>189</td>
+      <td>192</td>
+      <td>189</td>
+      <td>192</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>193</td>
+      <td>194</td>
+      <td>193</td>
+      <td>194</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>195</td>
+      <td>214</td>
+      <td>195</td>
+      <td>214</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>215</td>
+      <td>217</td>
+      <td>215</td>
+      <td>217</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>235</td>
+      <td>218</td>
+      <td>235</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>236</td>
+      <td>245</td>
+      <td>236</td>
+      <td>245</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>246</td>
+      <td>263</td>
+      <td>246</td>
+      <td>263</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>264</td>
+      <td>278</td>
+      <td>264</td>
+      <td>278</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>279</td>
+      <td>297</td>
+      <td>279</td>
+      <td>297</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>298</td>
+      <td>317</td>
+      <td>298</td>
+      <td>317</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>318</td>
+      <td>333</td>
+      <td>318</td>
+      <td>333</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>334</td>
+      <td>373</td>
+      <td>334</td>
+      <td>373</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>374</td>
+      <td>375</td>
+      <td>374</td>
+      <td>375</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>376</td>
+      <td>381</td>
+      <td>376</td>
+      <td>381</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>382</td>
+      <td>400</td>
+      <td>382</td>
+      <td>400</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>401</td>
+      <td>404</td>
+      <td>401</td>
+      <td>404</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>405</td>
+      <td>422</td>
+      <td>405</td>
+      <td>422</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>423</td>
+      <td>429</td>
+      <td>423</td>
+      <td>429</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>430</td>
+      <td>451</td>
+      <td>430</td>
+      <td>451</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>452</td>
+      <td>468</td>
+      <td>452</td>
+      <td>468</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>469</td>
+      <td>469</td>
+      <td>469</td>
+      <td>469</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>470</td>
+      <td>486</td>
+      <td>470</td>
+      <td>486</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>487</td>
+      <td>868</td>
+      <td>487</td>
+      <td>868</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>869</td>
+      <td>875</td>
+      <td>869</td>
+      <td>875</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | A. fulgidus AglB-L in [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) |
-| Reservoir | 0.02 M [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) HCl pH 8.0, 22% (wt/vol) polyethylene glycol 550MME |
-| Temperature | 293 K |
-| Cryoprotection | 0.02 M [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) HCl pH 8.0, 28% [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) 550MME, 0.06% [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) |
-| Notes | Crystal form 2; space group P4_3_2_1_2; resting state with well-ordered EL5 plastic loop; no sulfate bound |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3waj">3WAJ</a> — Chain A (13 TMs, alpha)**
 
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MQNAESWFKKYWHL</span><span class="topo-outside">S</span><span class="topo-membrane">VLVIAALISV</span><span class="topo-inside">KLRILNPWNSVFTWTVRLGGNDPWYYYRLIENTIH</span></span>
+<span class="topo-line"><span class="topo-inside">NFPHRIWFDPFTYYPYGSYTHFG</span><span class="topo-unknown">PFLVYLGSIAGII</span><span class="topo-inside">FSATSGESLRAVLAFIPAI</span><span class="topo-membrane">GGVLA</span></span>
+<span class="topo-line"><span class="topo-membrane">ILPVYLLTREVFDK</span><span class="topo-outside">R</span><span class="topo-membrane">AAVIAAFLIAIV</span><span class="topo-inside">PGQFLQRSILGFNDHHI</span><span class="topo-membrane">WEAFWQVSALGTFLLA</span></span>
+<span class="topo-line"><span class="topo-membrane">YNRW</span><span class="topo-outside">KGHD</span><span class="topo-unknown">LSHN</span><span class="topo-outside">LT</span><span class="topo-membrane">ARQMAYPVIAGITIGLYVLS</span><span class="topo-inside">WGA</span><span class="topo-membrane">GFIIAPIILAFMFFAFVL</span><span class="topo-outside">AGFVN</span></span>
+<span class="topo-line"><span class="topo-outside">ADRKN</span><span class="topo-membrane">LSLVAVVTFAVSALIYLP</span><span class="topo-inside">FAFNYPGFSTIFYSP</span><span class="topo-membrane">FQLLVLLGSAVIAAAFYQI</span><span class="topo-outside">EKW</span></span>
+<span class="topo-line"><span class="topo-outside">NDVGFFERVGLGRKGMP</span><span class="topo-membrane">LAVIVLTALIMGLFFV</span><span class="topo-unknown">ISPDFARNLLSVVRVVQPKGGALTIAE</span></span>
+<span class="topo-line"><span class="topo-unknown">VYPFFFTHNGEFT</span><span class="topo-inside">LT</span><span class="topo-unknown">NAVLHF</span><span class="topo-membrane">GALFFFGMAGILYSAYRFL</span><span class="topo-outside">KRRS</span><span class="topo-membrane">FPEMALLIWAIAMFIA</span></span>
+<span class="topo-line"><span class="topo-membrane">LW</span><span class="topo-inside">GQNRFAY</span><span class="topo-membrane">YFAAVSAVYSALALSVVFDKLH</span><span class="topo-unknown">LYRALENAIGARNKLSY</span><span class="topo-outside">F</span><span class="topo-membrane">RVAFALLIALA</span></span>
+<span class="topo-line"><span class="topo-membrane">AIYPTY</span><span class="topo-inside">ILADAQSSYAGGPNKQWYDALTWMRENTPDGEKYDEYYLQLYPTPQSNKEPFSY</span></span>
+<span class="topo-line"><span class="topo-inside">PFETYGVISWWDYGHWIEAVAHRMPIANPFQAGIGNKYNNVPGASSFFTAENESYAEFVA</span></span>
+<span class="topo-line"><span class="topo-inside">EKLNVKYVVSDIEMETGKYYAMAVWAEGDLPLAEKYYGGYFYYSPTGTFGYANSQWDIPL</span></span>
+<span class="topo-line"><span class="topo-inside">NSIIIPLRIPSELYYSTMEAKLHLFDGSGLSHYRMIYESDYPAEWKSYSSQVNLNNESQV</span></span>
+<span class="topo-line"><span class="topo-inside">LQTALYEAVMRARYGVSPTMGTQEVLYKYAYTQLYEKKMGIPVKIAPSGYVKIFERVKGA</span></span>
+<span class="topo-line"><span class="topo-inside">VVTGKVSANVTEVSVNATIKTNQNRTFEYWQTVEVKNGTYTVVLPYSHNSDYPVKPITPY</span></span>
+<span class="topo-line"><span class="topo-inside">HIKAGNVVKEITIYESQVQNGEIIQLDL</span><span class="topo-unknown">ELALVPR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>14</td>
+      <td>1</td>
+      <td>14</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>15</td>
+      <td>15</td>
+      <td>15</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>25</td>
+      <td>16</td>
+      <td>25</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>83</td>
+      <td>26</td>
+      <td>83</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>96</td>
+      <td>84</td>
+      <td>96</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>115</td>
+      <td>97</td>
+      <td>115</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>134</td>
+      <td>116</td>
+      <td>134</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>135</td>
+      <td>135</td>
+      <td>135</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>147</td>
+      <td>136</td>
+      <td>147</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>164</td>
+      <td>148</td>
+      <td>164</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>184</td>
+      <td>165</td>
+      <td>184</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>185</td>
+      <td>188</td>
+      <td>185</td>
+      <td>188</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>189</td>
+      <td>192</td>
+      <td>189</td>
+      <td>192</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>193</td>
+      <td>194</td>
+      <td>193</td>
+      <td>194</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>195</td>
+      <td>214</td>
+      <td>195</td>
+      <td>214</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>215</td>
+      <td>217</td>
+      <td>215</td>
+      <td>217</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>235</td>
+      <td>218</td>
+      <td>235</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>236</td>
+      <td>245</td>
+      <td>236</td>
+      <td>245</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>246</td>
+      <td>263</td>
+      <td>246</td>
+      <td>263</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>264</td>
+      <td>278</td>
+      <td>264</td>
+      <td>278</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>279</td>
+      <td>297</td>
+      <td>279</td>
+      <td>297</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>298</td>
+      <td>317</td>
+      <td>298</td>
+      <td>317</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>318</td>
+      <td>333</td>
+      <td>318</td>
+      <td>333</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>334</td>
+      <td>373</td>
+      <td>334</td>
+      <td>373</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>374</td>
+      <td>375</td>
+      <td>374</td>
+      <td>375</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>376</td>
+      <td>381</td>
+      <td>376</td>
+      <td>381</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>382</td>
+      <td>400</td>
+      <td>382</td>
+      <td>400</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>401</td>
+      <td>404</td>
+      <td>401</td>
+      <td>404</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>405</td>
+      <td>422</td>
+      <td>405</td>
+      <td>422</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>423</td>
+      <td>429</td>
+      <td>423</td>
+      <td>429</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>430</td>
+      <td>451</td>
+      <td>430</td>
+      <td>451</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>452</td>
+      <td>468</td>
+      <td>452</td>
+      <td>468</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>469</td>
+      <td>469</td>
+      <td>469</td>
+      <td>469</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>470</td>
+      <td>486</td>
+      <td>470</td>
+      <td>486</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>487</td>
+      <td>868</td>
+      <td>487</td>
+      <td>868</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>869</td>
+      <td>875</td>
+      <td>869</td>
+      <td>875</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -94,13 +762,13 @@ In crystal form 1, a sulfate ion is bound 5.0 A from the Zn2+ ion, interacting w
 
 ## Cross-References
 
-- [N-Glycosylation Sequon](/xray-mp-wiki/concepts/membrane-mimetics/n-glycosylation-sequon/) — AglB-L recognizes the N-glycosylation sequon (Asn-X-Ser/Thr) via the Ser/Thr-binding pocket in its C-terminal domain
-- [Catalytic Cycle of Oligosaccharyltransferase](/xray-mp-wiki/concepts/enzyme-mechanisms/ost-catalytic-cycle/) — The AglB-L crystal structures in two forms provide structural snapshots of different states in the OST catalytic cycle
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for AglB-L purification and activity assays
-- [n-Octyl-beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/n-octyl-beta-d-glucopyranoside/) — Detergent used in crystal form 1 crystallization
-- [LDAO (Lauryldimethylamine-N-oxide)](/xray-mp-wiki/reagents/detergents/ldao/) — Detergent used in crystal form 2 crystallization
-- [X-ray Crystallography](/xray-mp-wiki/methods/structure-determination/xray-crystallography/) — Method used in the study
-- [N-Glycosylation Sequon](/xray-mp-wiki/concepts/membrane-mimetics/n-glycosylation-sequon/) — Key concept related to this protein
-- [Catalytic Cycle of Oligosaccharyltransferase](/xray-mp-wiki/concepts/enzyme-mechanisms/ost-catalytic-cycle/) — Key concept related to this protein
-- [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein mentioned in the study
-- [ELIC (Erwinia chrysanthemi Pentameric Ligand-Gated Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/elic/) — Related protein mentioned in the study
+- <a href="/xray-mp-wiki/concepts/membrane-mimetics/n-glycosylation-sequon/">N-Glycosylation Sequon</a> — AglB-L recognizes the N-glycosylation sequon (Asn-X-Ser/Thr) via the Ser/Thr-binding pocket in its C-terminal domain
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/ost-catalytic-cycle/">Catalytic Cycle of Oligosaccharyltransferase</a> — The AglB-L crystal structures in two forms provide structural snapshots of different states in the OST catalytic cycle
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Detergent used for AglB-L purification and activity assays
+- <a href="/xray-mp-wiki/reagents/detergents/n-octyl-beta-d-glucopyranoside/">n-Octyl-beta-D-glucopyranoside (OG)</a> — Detergent used in crystal form 1 crystallization
+- <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO (Lauryldimethylamine-N-oxide)</a> — Detergent used in crystal form 2 crystallization
+- <a href="/xray-mp-wiki/methods/structure-determination/xray-crystallography/">X-ray Crystallography</a> — Method used in the study
+- <a href="/xray-mp-wiki/concepts/membrane-mimetics/n-glycosylation-sequon/">N-Glycosylation Sequon</a> — Key concept related to this protein
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/ost-catalytic-cycle/">Catalytic Cycle of Oligosaccharyltransferase</a> — Key concept related to this protein
+- <a href="/xray-mp-wiki/proteins/rhodopsins/gr/">GR (Halobacterium sp. GR Bacteriorhodopsin)</a> — Related protein mentioned in the study
+- <a href="/xray-mp-wiki/proteins/cys-loop-receptors/elic/">ELIC (Erwinia chrysanthemi Pentameric Ligand-Gated Ion Channel)</a> — Related protein mentioned in the study

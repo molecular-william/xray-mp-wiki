@@ -1,7 +1,7 @@
 ---
 title: "Rat Kynurenine 3-Monooxygenase (Rat KMO)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -28,65 +28,168 @@ determined in its membrane-embedded form using [Lipidic Cubic Phase](/xray-mp-wi
 medicinal chemistry and DNA-encoded chemical library screening.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##s42003-021-01666-5 | Not explicitly stated in raw paper | 3.0 | C 1 2 1 | Full-length Rat KMO (residues 1-478), N-terminal GST-tag with thrombin cleavage site, C-terminal TEV site followed by FLAG tag | Compound 3 (KMO inhibitor) and FAD cofactor |
-| doi/10.1038##s42003-021-01666-5 | Not explicitly stated in raw paper | 3.0 | C 1 2 1 | Full-length Rat KMO (residues 1-478), N-terminal GST-tag with thrombin cleavage site, C-terminal TEV site followed by FLAG tag | Compound 4 (KMO inhibitor from DNA-encoded chemical library) and FAD cofactor |
+### doi/10.1038##s42003-021-01666-5
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/not explicitly stated in raw paper">NOT EXPLICITLY STATED IN RAW PAPER</a></td>
+      <td>3.0</td>
+      <td>C 1 2 1</td>
+      <td>Full-length Rat KMO (residues 1-478), N-terminal GST-tag with thrombin cleavage site, C-terminal <a href="/xray-mp-wiki/reagents/proteases/tev-protease/">TEV</a> site followed by <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG tag</a></td>
+      <td>Compound 3 (KMO inhibitor) and FAD cofactor</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/not explicitly stated in raw paper">NOT EXPLICITLY STATED IN RAW PAPER</a></td>
+      <td>3.0</td>
+      <td>C 1 2 1</td>
+      <td>Full-length Rat KMO (residues 1-478), N-terminal GST-tag with thrombin cleavage site, C-terminal <a href="/xray-mp-wiki/reagents/proteases/tev-protease/">TEV</a> site followed by <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG tag</a></td>
+      <td>Compound 4 (KMO inhibitor from DNA-encoded chemical library) and FAD cofactor</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Spodoptera frugiperda Sf9 cells (Bac-to-Bac Baculovirus Expression System)
 - **Construct**: Full-length KMO (1-478) with N-terminal GST-tag (thrombin-cleavable) and
-C-terminal TEV-FLAG tag
+C-terminal [TEV](/xray-mp-wiki/reagents/proteases/tev-protease/)-[FLAG tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/)
 
 - **Notes**: Sf9 cells infected at 2-3 x 10^6 cells/mL with baculovirus MOI of 0.1,
 grown at 27°C, collected 2 days post-infection
 
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: Sf9 insect cells (Bac-to-Bac baculovirus)
-- **Expression construct**: GST-thrombin-KMO-TEV-FLAG (full-length 1-478)
-- **Tag info**: N-terminal GST (thrombin-cleavable), C-terminal FLAG (TEV-cleavable)
+- **Expression construct**: GST-thrombin-KMO-[TEV](/xray-mp-wiki/reagents/proteases/tev-protease/)-[FLAG tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) (full-length 1-478)
+- **Tag info**: N-terminal GST (thrombin-cleavable), C-terminal [FLAG tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) ([TEV](/xray-mp-wiki/reagents/proteases/tev-protease/)-cleavable)
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell disruption and solubilization</td>
+      <td>Sonication</td>
+      <td>--</td>
+      <td>20 mM potassium phosphate pH 7.5, 10% glycerol, 300 mM NaCl, 7 mM 2-mercaptoethanol, 50 µM FAD, protease inhibitors + 0.5% n-dodecyl β-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
+      <td>Cells disrupted by sonication in lysis buffer; insoluble debris removed by centrifugation</td>
+    </tr>
+    <tr>
+      <td>Glutathione <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td>Batch purification</td>
+      <td>Glutathione Sepharose 4 Fast Flow (GE Healthcare)</td>
+      <td>20 mM potassium phosphate pH 7.5, 10% glycerol, 300 mM NaCl + 0.012% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Resin washed with same buffer; eluted with 33 mM glutathione</td>
+    </tr>
+    <tr>
+      <td>Buffer exchange and concentration</td>
+      <td>Ultrafiltration</td>
+      <td>AmiconUltra-15 Centrifugal Filters 50k (Millipore)</td>
+      <td>20 mM potassium phosphate pH 7.5, 10% glycerol, 300 mM NaCl + 0.012% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Concentrated, then desalted via PD-10 (GE Healthcare) to remove glutathione</td>
+    </tr>
+    <tr>
+      <td>Thrombin digestion</td>
+      <td>Proteolytic tag removal</td>
+      <td>--</td>
+      <td>Not specified + Not specified</td>
+      <td>Digested with thrombin (Novagen) at 10 U/mg at 4°C to remove GST tag</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell disruption and solubilization | Sonication | -- | 20 mM potassium phosphate pH 7.5, 10% glycerol, 300 mM NaCl, 7 mM 2-mercaptoethanol, 50 µM FAD, protease inhibitors + 0.5% n-dodecyl β-D-maltoside (DDM) | Cells disrupted by sonication in lysis buffer; insoluble debris removed by centrifugation |
-| Glutathione affinity chromatography | Batch purification | Glutathione Sepharose 4 Fast Flow (GE Healthcare) | 20 mM potassium phosphate pH 7.5, 10% glycerol, 300 mM NaCl + 0.012% DDM | Resin washed with same buffer; eluted with 33 mM glutathione |
-| Buffer exchange and concentration | Ultrafiltration | AmiconUltra-15 Centrifugal Filters 50k (Millipore) | 20 mM potassium phosphate pH 7.5, 10% glycerol, 300 mM NaCl + 0.012% DDM | Concentrated, then desalted via PD-10 (GE Healthcare) to remove glutathione |
-| Thrombin digestion | Proteolytic tag removal | -- | Not specified + Not specified | Digested with thrombin (Novagen) at 10 U/mg at 4°C to remove GST tag |
+**Crystallization:**
 
-
-## Crystallization
-
-### doi/10.1038##s42003-021-01666-5
-
-| Parameter | Value |
-|---|---|
-| Method | [Lipidic Cubic Phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (in meso) crystallization |
-| Protein sample | Purified Rat KMO after thrombin cleavage, in complex with compound 3 |
-| Lipid | Monoolein |
-| Protein-to-lipid ratio | Not specified |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Structure determined at 3.0 A resolution. Space group C 1 2 1, cell dimensions: a=160.97, b=63.43, c=152.42 A, beta=113.5 deg. Two structures solved: complex with compound 3 and complex with compound 4. |
-
-| Parameter | Value |
-|---|---|
-| Method | [Lipidic Cubic Phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (in meso) crystallization |
-| Protein sample | Purified Rat KMO after thrombin cleavage, in complex with compound 4 |
-| Lipid | Monoolein |
-| Protein-to-lipid ratio | Not specified |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Structure determined at 3.0 A resolution. Space group C 1 2 1, cell dimensions: a=161.51, b=63.42, c=152.66 A, beta=113.4 deg. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase</a> (in meso) crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified Rat KMO after thrombin cleavage, in complex with compound 3</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
+    </tr>
+    <tr>
+      <td>Protein-to-lipid ratio</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Structure determined at 3.0 A resolution. Space group C 1 2 1, cell dimensions: a=160.97, b=63.43, c=152.42 A, beta=113.5 deg. Two structures solved: complex with compound 3 and complex with compound 4.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase</a> (in meso) crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified Rat KMO after thrombin cleavage, in complex with compound 4</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
+    </tr>
+    <tr>
+      <td>Protein-to-lipid ratio</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Structure determined at 3.0 A resolution. Space group C 1 2 1, cell dimensions: a=161.51, b=63.42, c=152.66 A, beta=113.4 deg.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -127,8 +230,8 @@ KMO for neurological indications where blood-brain barrier penetration is critic
 
 ## Cross-References
 
-- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — KMO was crystallized in meso (lipidic cubic phase) for structure determination
-- [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — KMO was expressed in Sf9 insect cells using the Bac-to-Bac baculovirus system
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used for membrane protein solubilization and throughout purification
-- [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) — C-terminal FLAG tag used in KMO expression construct
-- [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) — TEV cleavage site included between KMO and C-terminal FLAG tag
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — KMO was crystallized in meso (lipidic cubic phase) for structure determination
+- <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/">Baculovirus Expression System</a> — KMO was expressed in Sf9 insect cells using the Bac-to-Bac baculovirus system
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — [DDM](/xray-mp-wiki/reagents/detergents/ddm/) used for membrane protein solubilization and throughout purification
+- <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a> — C-terminal [FLAG tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) used in KMO expression construct
+- <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease</a> — [TEV](/xray-mp-wiki/reagents/proteases/tev-protease/) cleavage site included between KMO and C-terminal [FLAG tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/)

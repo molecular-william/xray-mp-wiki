@@ -1,7 +1,7 @@
 ---
 title: "Archaeoglobus fulgidus AglB (AfAglB)"
 created: 2026-05-29
-updated: 2026-06-10
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,64 +16,1038 @@ verified: false
 
 Archaeoglobus fulgidus AglB (AfAglB) is the catalytic subunit of the archaeal oligosaccharyltransferase (OST), a single-subunit membrane enzyme that transfers an oligosaccharide chain to Asn residues in the Asn-X-Ser/Thr sequon of substrate proteins. AfAglB comprises 13 transmembrane helices in the N-terminal region and a C-terminal globular domain. Despite low sequence identity (<20%) to eubacterial PglB homologs, AfAglB shares a highly conserved catalytic architecture including the [Carboxylate Dyad](/xray-mp-wiki/concepts/enzyme-mechanisms/carboxylate-dyad/) (Asp47 and Glu360 with a metal ion) that activates the acceptor Asn side chain for nucleophilic attack on the lipid-linked oligosaccharide donor.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1021##acs.biochem.6b01089 | 5GMY | 3.5 A | Not specified in paper | AfAglB G617C mutant cross-linked with acceptor peptide Ac-RYNVTAC-NH2 via engineered disulfide bond at position 617 | Acceptor peptide (Ac-RYNVTAC-NH2) containing N-glycosylation sequon Asn-Val-Thr |
-| doi/10.1073##pnas.1314195110 | 3WAK | Not specified in paper | Not specified in paper | Apo AfAglB (wild-type, full-length) | None |
-| doi/10.1038##s42003-021-02473-8 | 7E9S | 2.7 A | Not specified in paper | AfAglB G617C mutant with tethered sequon peptide (TAMRA-APY(Dab)VTASCR-OH), ternary complex with dolichol-phosphate | Dolichol-phosphate, Mn2+ |
+### doi/10.1021##acs.biochem.6b01089
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5gmy">5GMY</a></td>
+      <td>3.5 A</td>
+      <td>Not specified in paper</td>
+      <td>AfAglB G617C mutant cross-linked with acceptor peptide Ac-RYNVTAC-NH2 via engineered disulfide bond at position 617</td>
+      <td>Acceptor peptide (Ac-RYNVTAC-NH2) containing N-glycosylation sequon Asn-Val-Thr</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli C43 (DE3) cells
 - **Construct**: AfAglB G617C mutant (cysteine introduced at position 617 for peptide tethering); native AfAglB lacks cysteine residues
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell disruption</td>
+      <td>Sonication of E. coli C43 (DE3) membrane fractions</td>
+      <td>--</td>
+      <td>TS buffer (50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Buffer</a>, pH 8.0, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride</a>) + --</td>
+      <td>Cells grown at 310 K in Terrific Broth with 100 mg/L <a href="/xray-mp-wiki/reagents/antibiotics/ampicillin/">Ampicillin</a>; induced with 0.5 mM <a href="/xray-mp-wiki/reagents/additives/iptg/">IPTG</a> at 298 K</td>
+    </tr>
+    <tr>
+      <td>Membrane isolation</td>
+      <td><a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">Ultracentrifugation</a> at 100,000 x g for 2 h</td>
+      <td>--</td>
+      <td>TS buffer (50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Buffer</a>, pH 8.0, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride</a>) + --</td>
+      <td>Pellets containing membrane fractions collected</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization of membrane pellets</td>
+      <td>--</td>
+      <td>TS buffer (50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Buffer</a>, pH 8.0, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride</a>) + 1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
+      <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>-solubilized protein recovered after <a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">ultracentrifugation</a> at 100,000 x g for 1 h</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Nickel Sepharose High Performance resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Nickel Sepharose</a> High Performance (GE Healthcare)</td>
+      <td>TS buffer (50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Buffer</a>, pH 8.0, 100 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride</a>) containing 0.1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>His-tagged recombinant protein purified by <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Gel filtration chromatography</td>
+      <td>Gel filtration in <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a></td>
+      <td>Not specified</td>
+      <td>Not specified in paper + 0.06% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a></td>
+      <td>Performed for crystallization; G617C mutant purified by gel filtration</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell disruption | Sonication of E. coli C43 (DE3) membrane fractions | -- | TS buffer (50 mM [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/), pH 8.0, 100 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/)) + -- | Cells grown at 310 K in Terrific Broth with 100 mg/L [Ampicillin](/xray-mp-wiki/reagents/antibiotics/ampicillin/); induced with 0.5 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg/) at 298 K |
-| Membrane isolation | Ultracentrifugation at 100,000 x g for 2 h | -- | TS buffer (50 mM [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/), pH 8.0, 100 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/)) + -- | Pellets containing membrane fractions collected |
-| Solubilization | Detergent solubilization of membrane pellets | -- | TS buffer (50 mM [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/), pH 8.0, 100 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/)) + 1% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) | [DDM](/xray-mp-wiki/reagents/detergents/ddm/)-solubilized protein recovered after ultracentrifugation at 100,000 x g for 1 h |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Nickel Sepharose High Performance resin | [Nickel Sepharose](/xray-mp-wiki/reagents/additives/nickel-nta/) High Performance (GE Healthcare) | TS buffer (50 mM [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/), pH 8.0, 100 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/)) containing 0.1% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.1% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | His-tagged recombinant protein purified by [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) |
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">Hanging drop vapor diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>AfAglB G617C mutant cross-linked with acceptor peptide Ac-RYNVTAC-NH2, concentrated to 15 mg/ml, dialyzed against 10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Buffer</a>, pH 7.5, 0.1 M <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride</a>, 0.06% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.01 M <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Magnesium Chloride</a>, 0.1 M Bis-<a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Buffer</a>, pH 6.5, 22% (w/v) <a href="/xray-mp-wiki/reagents/additives/peg-550-mme/">PEG 550 MME</a>, 5% (v/v) Jeffamine M-600, pH 7.0</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>293 K</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>0.01 M <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Magnesium Chloride</a>, 0.1 M Bis-<a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Buffer</a>, pH 6.5, 30% (v/v) <a href="/xray-mp-wiki/reagents/additives/peg-550-mme/">PEG 550 MME</a>, 0.06% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a>; cryocooled in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Initial screening with MemGold I, MemGold II, and MemStart+MemSys Kits (Molecular Dimensions). X-ray data collected at SPring-8 BL44XU to 3.50 A resolution. Solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using apo AfAglB (3WAK) as search model. R_work/R_free = 20.7%/27.8%. Calculated solvent content 63.2% (Vm = 3.35 A^3/Da).</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-##### Steps
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5gmy">5GMY</a> — Chain A (13 TMs, alpha)**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Gel filtration chromatography | Gel filtration in LDAO | Not specified | Not specified in paper + 0.06% (w/v) [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) | Performed for crystallization; G617C mutant purified by gel filtration |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MQNA</span><span class="topo-outside">E</span><span class="topo-membrane">SWFKKYWHLSVLVIAALI</span><span class="topo-inside">SVKLRILNPWNSVFTWTVRLGGNDPWYYYRLIENTIH</span></span>
+<span class="topo-line"><span class="topo-inside">NFPHRIWFDPFTYYPYGSYTHFG</span><span class="topo-unknown">PFLVYLGSIAGII</span><span class="topo-inside">FSATSGESLRAVLAFIPAIGGV</span><span class="topo-membrane">LA</span></span>
+<span class="topo-line"><span class="topo-membrane">ILPVYLLTREVF</span><span class="topo-outside">D</span><span class="topo-membrane">KRAAVIAAFLIAIV</span><span class="topo-inside">PGQFLQRSILGFNDHHIWE</span><span class="topo-membrane">AFWQVSALGTFLLA</span></span>
+<span class="topo-line"><span class="topo-membrane">YNRW</span><span class="topo-outside">KGHDLSHNL</span><span class="topo-membrane">TARQMAYPVIAGITIGLYV</span><span class="topo-inside">LSWGAG</span><span class="topo-membrane">FIIAPIILAFMFFAFVL</span><span class="topo-outside">AGFVN</span></span>
+<span class="topo-line"><span class="topo-outside">ADRKN</span><span class="topo-membrane">LSLVAVVTFAVSALIYLP</span><span class="topo-inside">FAFNYPGFSTIFYSP</span><span class="topo-membrane">FQLLVLLGSAVIAAAFYQ</span><span class="topo-outside">IEKW</span></span>
+<span class="topo-line"><span class="topo-outside">NDVGFFERVGLGRKGMP</span><span class="topo-membrane">LAVIVLTALIMGLFFVI</span><span class="topo-unknown">SPDFARNLLSVVRVVQ</span><span class="topo-inside">PKGGALTIAE</span></span>
+<span class="topo-line"><span class="topo-inside">VYPFFFTHNGEFTL</span><span class="topo-unknown">TNAVLHF</span><span class="topo-membrane">GALFFFGMAGILYSAYRFL</span><span class="topo-outside">KRRS</span><span class="topo-membrane">FPEMALLIWAIAMFIA</span></span>
+<span class="topo-line"><span class="topo-membrane">LW</span><span class="topo-inside">GQNRFAYY</span><span class="topo-membrane">FAAVSAVYSALALSVVFDKL</span><span class="topo-outside">HLYRALENAIGARNKLS</span><span class="topo-membrane">YFRVAFALLIALA</span></span>
+<span class="topo-line"><span class="topo-membrane">AIYPT</span><span class="topo-inside">YILADAQSSYAGGPNKQWYDALTWMRENTPDGEKYDEYYLQLYPTPQSNKEPFSY</span></span>
+<span class="topo-line"><span class="topo-inside">PFETYGVISWWDYGHWIEAVAHRMPIANPFQAGIGNKYNNVPGASSFFTAENESYAEFVA</span></span>
+<span class="topo-line"><span class="topo-inside">EKLNVKYVVSDIEMETCKYYAMAVWAEGDLPLAEKYYGGYFYYSPTGTFGYANSQWDIPL</span></span>
+<span class="topo-line"><span class="topo-inside">NSIIIPLRIPSELYYSTMEAKLHLFDGSGLSHYRMIYESDYPAEWKSYSSQVNLNNESQV</span></span>
+<span class="topo-line"><span class="topo-inside">LQTALYEAVMRARYGVSPTMGTQEVLYKYAYTQLYEKKMGIPVKIAPSGYVKIFERVKGA</span></span>
+<span class="topo-line"><span class="topo-inside">VVTGKVSANVTEVSVNATIKTNQNRTFEYWQTVEVKNGTYTVVLPYSHNSDYPVKPITPY</span></span>
+<span class="topo-line"><span class="topo-inside">HIKAGNVVKEITIYESQVQNGEIIQLDL</span><span class="topo-unknown">ELALVPR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>5</td>
+      <td>5</td>
+      <td>5</td>
+      <td>5</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>23</td>
+      <td>6</td>
+      <td>23</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>83</td>
+      <td>24</td>
+      <td>83</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>96</td>
+      <td>84</td>
+      <td>96</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>118</td>
+      <td>97</td>
+      <td>118</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>119</td>
+      <td>132</td>
+      <td>119</td>
+      <td>132</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>133</td>
+      <td>133</td>
+      <td>133</td>
+      <td>133</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>134</td>
+      <td>147</td>
+      <td>134</td>
+      <td>147</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>166</td>
+      <td>148</td>
+      <td>166</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>167</td>
+      <td>184</td>
+      <td>167</td>
+      <td>184</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>185</td>
+      <td>193</td>
+      <td>185</td>
+      <td>193</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>194</td>
+      <td>212</td>
+      <td>194</td>
+      <td>212</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>213</td>
+      <td>218</td>
+      <td>213</td>
+      <td>218</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>219</td>
+      <td>235</td>
+      <td>219</td>
+      <td>235</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>236</td>
+      <td>245</td>
+      <td>236</td>
+      <td>245</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>246</td>
+      <td>263</td>
+      <td>246</td>
+      <td>263</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>264</td>
+      <td>278</td>
+      <td>264</td>
+      <td>278</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>279</td>
+      <td>296</td>
+      <td>279</td>
+      <td>296</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>297</td>
+      <td>317</td>
+      <td>297</td>
+      <td>317</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>318</td>
+      <td>334</td>
+      <td>318</td>
+      <td>334</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>351</td>
+      <td>374</td>
+      <td>351</td>
+      <td>374</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>375</td>
+      <td>381</td>
+      <td>375</td>
+      <td>381</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>382</td>
+      <td>400</td>
+      <td>382</td>
+      <td>400</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>401</td>
+      <td>404</td>
+      <td>401</td>
+      <td>404</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>405</td>
+      <td>422</td>
+      <td>405</td>
+      <td>422</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>423</td>
+      <td>430</td>
+      <td>423</td>
+      <td>430</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>431</td>
+      <td>450</td>
+      <td>431</td>
+      <td>450</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>451</td>
+      <td>467</td>
+      <td>451</td>
+      <td>467</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>468</td>
+      <td>485</td>
+      <td>468</td>
+      <td>485</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>486</td>
+      <td>868</td>
+      <td>486</td>
+      <td>868</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
+### doi/10.1073##pnas.1314195110
 
-## Crystallization
+**Structures:**
 
-### doi/10.1021##acs.biochem.6b01089
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3wak">3WAK</a></td>
+      <td>Not specified in paper</td>
+      <td>Not specified in paper</td>
+      <td>Apo AfAglB (wild-type, full-length)</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
 
-| Parameter | Value |
-|---|---|
-| Method | Hanging drop vapor diffusion |
-| Protein sample | AfAglB G617C mutant cross-linked with acceptor peptide Ac-RYNVTAC-NH2, concentrated to 15 mg/ml, dialyzed against 10 mM [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/), pH 7.5, 0.1 M [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 0.06% (w/v) [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) |
-| Reservoir | 0.01 M [Magnesium Chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 0.1 M Bis-[Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/), pH 6.5, 22% (w/v) [PEG 550 MME](/xray-mp-wiki/reagents/additives/peg-550-mme/), 5% (v/v) Jeffamine M-600, pH 7.0 |
-| Temperature | 293 K |
-| Growth time | Not specified |
-| Cryoprotection | 0.01 M [Magnesium Chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 0.1 M Bis-[Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/), pH 6.5, 30% (v/v) [PEG 550 MME](/xray-mp-wiki/reagents/additives/peg-550-mme/), 0.06% (w/v) [LDAO](/xray-mp-wiki/reagents/detergents/ldao/); cryocooled in liquid nitrogen |
-| Notes | Initial screening with MemGold I, MemGold II, and MemStart+MemSys Kits (Molecular Dimensions). X-ray data collected at SPring-8 BL44XU to 3.50 A resolution. Solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) using apo AfAglB (3WAK) as search model. R_work/R_free = 20.7%/27.8%. Calculated solvent content 63.2% (Vm = 3.35 A^3/Da). |
+**Expression:**
 
+- **Expression system**: E. coli C43 (DE3) cells
+- **Construct**: AfAglB G617C mutant (cysteine introduced at position 617 for peptide tethering); native AfAglB lacks cysteine residues
+
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3wak">3WAK</a> — Chain A (13 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MQNA</span><span class="topo-outside">ESW</span><span class="topo-membrane">FKKYWHLSVLVIAALIS</span><span class="topo-inside">VKLRILNPWNSVFTWTVRLGGNDPWYYYRLIENTIH</span></span>
+<span class="topo-line"><span class="topo-inside">NFPHRIWFDPFTYYPYGSYTHFG</span><span class="topo-unknown">PFLVYLGSIAGII</span><span class="topo-inside">FSATSGESLRAVLAFIPAIGG</span><span class="topo-membrane">VLA</span></span>
+<span class="topo-line"><span class="topo-membrane">ILPVYLLTREVFDK</span><span class="topo-outside">R</span><span class="topo-membrane">AAVIAAFLIAIV</span><span class="topo-inside">PGQFLQRSILGFNDHHIWE</span><span class="topo-membrane">AFWQVSALGTFLLA</span></span>
+<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">NRWKGHDLSHNLTARQM</span><span class="topo-membrane">AYPVIAGITIGLYV</span><span class="topo-inside">LSWGAG</span><span class="topo-membrane">FIIAPIILAFMFFA</span><span class="topo-outside">FVLAGFVN</span></span>
+<span class="topo-line"><span class="topo-outside">ADRKNL</span><span class="topo-membrane">SLVAVVTFAVSALIYL</span><span class="topo-inside">PFAFNYPGFSTIFYSPFQ</span><span class="topo-membrane">LLVLLGSAVIAAAF</span><span class="topo-outside">YQIEKW</span></span>
+<span class="topo-line"><span class="topo-outside">NDVGFFERVGLGRKGMPLAV</span><span class="topo-membrane">IVLTALIMGLFFVIS</span><span class="topo-inside">PD</span><span class="topo-unknown">FARNLLSVV</span><span class="topo-inside">RVVQPKGGALTIAE</span></span>
+<span class="topo-line"><span class="topo-inside">VYPFFFTHNGEFTL</span><span class="topo-unknown">TNAVLHF</span><span class="topo-membrane">GALFFFGMAGILYSAY</span><span class="topo-outside">RFLKRRSFP</span><span class="topo-membrane">EMALLIWAIAMFIA</span></span>
+<span class="topo-line"><span class="topo-membrane">L</span><span class="topo-inside">WGQNRFAYY</span><span class="topo-membrane">FAAVSAVYSALALSVVF</span><span class="topo-outside">DKLHLYRALENAIGARNKLSYF</span><span class="topo-membrane">RVAFALLIALA</span></span>
+<span class="topo-line"><span class="topo-membrane">AIYPTY</span><span class="topo-inside">ILADAQSSYAGGPNKQWYDALTWMRENTPDGEKYDEYYLQLYPTPQSNKEPFSY</span></span>
+<span class="topo-line"><span class="topo-inside">PFETYGVISWWDYGHWIEAVAHRMPIANPFQAGIGNKYNNVPGASSFFTAENESYAEFVA</span></span>
+<span class="topo-line"><span class="topo-inside">EKLNVKYVVSDIEMETGKYYAMAVWAEGDLPLAEKYYGGYFYYSPTGTFGYANSQWDIPL</span></span>
+<span class="topo-line"><span class="topo-inside">NSIIIPLRIPSELYYSTMEAKLHLFDGSGLSHYRMIYESDYPAEWKSYSSQVNLNNESQV</span></span>
+<span class="topo-line"><span class="topo-inside">LQTALYEAVMRARYGVSPTMGTQEVLYKYAYTQLYEKKMGIPVKIAPSGYVKIFERVKGA</span></span>
+<span class="topo-line"><span class="topo-inside">VVTGKVSANVTEVSVNATIKTNQNRTFEYWQTVEVKNGTYTVVLPYSHNSDYPVKPITPY</span></span>
+<span class="topo-line"><span class="topo-inside">HIKAGNVVKEITIYESQVQNGEIIQLDL</span><span class="topo-unknown">ELALVPR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>1</td>
+      <td>4</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>7</td>
+      <td>5</td>
+      <td>7</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>24</td>
+      <td>8</td>
+      <td>24</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>83</td>
+      <td>25</td>
+      <td>83</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>96</td>
+      <td>84</td>
+      <td>96</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>117</td>
+      <td>97</td>
+      <td>117</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>118</td>
+      <td>134</td>
+      <td>118</td>
+      <td>134</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>135</td>
+      <td>135</td>
+      <td>135</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>147</td>
+      <td>136</td>
+      <td>147</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>166</td>
+      <td>148</td>
+      <td>166</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>167</td>
+      <td>181</td>
+      <td>167</td>
+      <td>181</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>182</td>
+      <td>198</td>
+      <td>182</td>
+      <td>198</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>212</td>
+      <td>199</td>
+      <td>212</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>213</td>
+      <td>218</td>
+      <td>213</td>
+      <td>218</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>219</td>
+      <td>232</td>
+      <td>219</td>
+      <td>232</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>233</td>
+      <td>246</td>
+      <td>233</td>
+      <td>246</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>247</td>
+      <td>262</td>
+      <td>247</td>
+      <td>262</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>263</td>
+      <td>280</td>
+      <td>263</td>
+      <td>280</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>281</td>
+      <td>294</td>
+      <td>281</td>
+      <td>294</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>295</td>
+      <td>320</td>
+      <td>295</td>
+      <td>320</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>321</td>
+      <td>335</td>
+      <td>321</td>
+      <td>335</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>336</td>
+      <td>337</td>
+      <td>336</td>
+      <td>337</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>338</td>
+      <td>346</td>
+      <td>338</td>
+      <td>346</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>347</td>
+      <td>374</td>
+      <td>347</td>
+      <td>374</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>375</td>
+      <td>381</td>
+      <td>375</td>
+      <td>381</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>382</td>
+      <td>397</td>
+      <td>382</td>
+      <td>397</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>398</td>
+      <td>406</td>
+      <td>398</td>
+      <td>406</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>407</td>
+      <td>421</td>
+      <td>407</td>
+      <td>421</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>422</td>
+      <td>430</td>
+      <td>422</td>
+      <td>430</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>431</td>
+      <td>447</td>
+      <td>431</td>
+      <td>447</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>448</td>
+      <td>469</td>
+      <td>448</td>
+      <td>469</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>470</td>
+      <td>486</td>
+      <td>470</td>
+      <td>486</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>487</td>
+      <td>868</td>
+      <td>487</td>
+      <td>868</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>869</td>
+      <td>875</td>
+      <td>869</td>
+      <td>875</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 ### doi/10.1038##s42003-021-02473-8
 
-| Parameter | Value |
-|---|---|
-| Method | [Lipidic cubic phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) |
-| Protein sample | AfAglB G617C mutant cross-linked to sequon peptide, in DDM detergent |
-| Lipid | 7.7 MAG (1-(7Z-tetradecenoyl)-rac-glycerol) |
-| Temperature | 100 K (cryo) |
-| Growth time | Not specified |
-| Notes | Lipidic sponge mesophase. Crystals identified by magenta color of TAMRA dye. Data collected from 2529 microcrystals at microfocus BL32XU, SPring-8. 483 datasets merged and scaled to 2.7 A using KAMO. |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7e9s">7E9S</a></td>
+      <td>2.7 A</td>
+      <td>Not specified in paper</td>
+      <td>AfAglB G617C mutant with tethered sequon peptide (TAMRA-APY(Dab)VTASCR-OH), ternary complex with dolichol-phosphate</td>
+      <td>Dolichol-phosphate, Mn2+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: E. coli C43 (DE3) cells
+- **Construct**: AfAglB G617C mutant (cysteine introduced at position 617 for peptide tethering); native AfAglB lacks cysteine residues
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic cubic phase</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>AfAglB G617C mutant cross-linked to sequon peptide, in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> detergent</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>7.7 MAG (1-(7Z-tetradecenoyl)-rac-<a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>100 K (cryo)</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Lipidic sponge mesophase. Crystals identified by magenta color of TAMRA dye. Data collected from 2529 microcrystals at microfocus BL32XU, SPring-8. 483 datasets merged and scaled to 2.7 A using KAMO.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7e9s">7E9S</a> — Chain A (13 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MQNAE</span><span class="topo-inside">SWFKKYW</span><span class="topo-membrane">HLSVLVIAALISVKL</span><span class="topo-outside">RILNPWNSVFTWTVRLGGNDPWYYYRLIENTIH</span></span>
+<span class="topo-line"><span class="topo-outside">NFPHRIWFDPFTYYPYGSYTHFG</span><span class="topo-unknown">PFLVYLGSIAGII</span><span class="topo-outside">FSATSGESLRAVLAFIPAI</span><span class="topo-membrane">GGVLA</span></span>
+<span class="topo-line"><span class="topo-membrane">ILPVYLLTREV</span><span class="topo-inside">FDKRA</span><span class="topo-membrane">AVIAAFLIAIVP</span><span class="topo-outside">GQFLQRSILGFNDHHI</span><span class="topo-membrane">WEAFWQVSALGTFLLA</span></span>
+<span class="topo-line"><span class="topo-inside">YNRWKGHDLSHNLTARQM</span><span class="topo-membrane">AYPVIAGITIGLYVL</span><span class="topo-outside">SWGAG</span><span class="topo-membrane">FIIAPIILAFMFFA</span><span class="topo-inside">FVLAGFVN</span></span>
+<span class="topo-line"><span class="topo-inside">ADRKNLS</span><span class="topo-membrane">LVAVVTFAVSALIYLP</span><span class="topo-outside">FAFNYPGFSTIFYSPFQ</span><span class="topo-membrane">LLVLLGSAVIAAAF</span><span class="topo-inside">YQIEKW</span></span>
+<span class="topo-line"><span class="topo-inside">NDVGFFERVGLGRKGMPL</span><span class="topo-membrane">AVIVLTALIMGLFFV</span><span class="topo-outside">I</span><span class="topo-unknown">SPDFARNLLSVV</span><span class="topo-outside">RVVQPKGGALTIAE</span></span>
+<span class="topo-line"><span class="topo-outside">VYPFFFTHNGEFTL</span><span class="topo-unknown">TNAVLH</span><span class="topo-membrane">FGALFFFGMAGILYSA</span><span class="topo-inside">YRFLKRRSFP</span><span class="topo-membrane">EMALLIWAIAMFIA</span></span>
+<span class="topo-line"><span class="topo-membrane">LW</span><span class="topo-outside">GQNRFA</span><span class="topo-membrane">YYFAAVSAVYSALALS</span><span class="topo-inside">VVFDKLH</span><span class="topo-unknown">LYRALEN</span><span class="topo-inside">AIGARNKLSYFRVA</span><span class="topo-membrane">FALLIALA</span></span>
+<span class="topo-line"><span class="topo-membrane">AIYPTYILA</span><span class="topo-outside">DAQSSYAGGPNKQWYDALTWMRENTPDGEKYDEYYLQLYPTPQSNKEPFSY</span></span>
+<span class="topo-line"><span class="topo-outside">PFETYGVISWWDYGHWIEAVAHRMPIANPFQAGIGNKYNNVPGASSFFTAENESYAEFVA</span></span>
+<span class="topo-line"><span class="topo-outside">EKLNVKYVVSDIEMETCKYYAMAVWAEGDLPLAEKYYGGYFYYSPTGTFGYANSQWDIPL</span></span>
+<span class="topo-line"><span class="topo-outside">NSIIIPLRIPSELYYSTMEAKLHLFDGSGLSHYRMIYESDYPAEWKSYSSQVNLNNESQV</span></span>
+<span class="topo-line"><span class="topo-outside">LQTALYEAVMRARYGVSPTMGTQEVLYKYAYTQLYEKKMGIPVKIAPSGYVKIFERVKGA</span></span>
+<span class="topo-line"><span class="topo-outside">VVTGKVSANVTEVSVNATIKTNQNRTFEYWQTVEVKNGTYTVVLPYSHNSDYPVKPITPY</span></span>
+<span class="topo-line"><span class="topo-outside">HIKAGNVVKEITIYESQVQNGEIIQLDLELAL</span><span class="topo-unknown">VPR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>6</td>
+      <td>12</td>
+      <td>6</td>
+      <td>12</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>27</td>
+      <td>13</td>
+      <td>27</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>83</td>
+      <td>28</td>
+      <td>83</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>96</td>
+      <td>84</td>
+      <td>96</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>115</td>
+      <td>97</td>
+      <td>115</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>131</td>
+      <td>116</td>
+      <td>131</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>132</td>
+      <td>136</td>
+      <td>132</td>
+      <td>136</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>137</td>
+      <td>148</td>
+      <td>137</td>
+      <td>148</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>164</td>
+      <td>149</td>
+      <td>164</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>180</td>
+      <td>165</td>
+      <td>180</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>181</td>
+      <td>198</td>
+      <td>181</td>
+      <td>198</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>213</td>
+      <td>199</td>
+      <td>213</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>218</td>
+      <td>214</td>
+      <td>218</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>219</td>
+      <td>232</td>
+      <td>219</td>
+      <td>232</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>233</td>
+      <td>247</td>
+      <td>233</td>
+      <td>247</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>248</td>
+      <td>263</td>
+      <td>248</td>
+      <td>263</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>264</td>
+      <td>280</td>
+      <td>264</td>
+      <td>280</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>281</td>
+      <td>294</td>
+      <td>281</td>
+      <td>294</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>295</td>
+      <td>318</td>
+      <td>295</td>
+      <td>318</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>319</td>
+      <td>333</td>
+      <td>319</td>
+      <td>333</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>334</td>
+      <td>334</td>
+      <td>334</td>
+      <td>334</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>335</td>
+      <td>346</td>
+      <td>335</td>
+      <td>346</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>347</td>
+      <td>374</td>
+      <td>347</td>
+      <td>374</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>375</td>
+      <td>380</td>
+      <td>375</td>
+      <td>380</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>381</td>
+      <td>396</td>
+      <td>381</td>
+      <td>396</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>397</td>
+      <td>406</td>
+      <td>397</td>
+      <td>406</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>407</td>
+      <td>422</td>
+      <td>407</td>
+      <td>422</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>423</td>
+      <td>428</td>
+      <td>423</td>
+      <td>428</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>429</td>
+      <td>444</td>
+      <td>429</td>
+      <td>444</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>445</td>
+      <td>451</td>
+      <td>445</td>
+      <td>451</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>452</td>
+      <td>458</td>
+      <td>452</td>
+      <td>458</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>459</td>
+      <td>472</td>
+      <td>459</td>
+      <td>472</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>473</td>
+      <td>489</td>
+      <td>473</td>
+      <td>489</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>490</td>
+      <td>872</td>
+      <td>490</td>
+      <td>872</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -108,15 +1082,15 @@ In the cross-linked complex, the stringent N-glycosylation consensus requirement
 
 ## Cross-References
 
-- [N-Glycosylation Sequon](/xray-mp-wiki/concepts/membrane-mimetics/n-glycosylation-sequon/) — AfAglB recognizes and catalyzes glycosylation of the Asn-X-Ser/Thr sequon
-- [Carboxylate Dyad](/xray-mp-wiki/concepts/enzyme-mechanisms/carboxylate-dyad/) — Catalytic mechanism of AfAglB involves the Asp47-Glu360 carboxylate dyad
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for solubilization and purification of AfAglB
-- [Lauryldimethylamine N-oxide (LDAO)](/xray-mp-wiki/reagents/detergents/ldao/) — Detergent used for gel filtration and crystallization of AfAglB
-- [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Buffer used throughout AfAglB expression, purification, and assays
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Referenced in archaeoglobus-fulgidus-aglb
-- [PEG 550 MME](/xray-mp-wiki/reagents/additives/peg-550-mme/) — Referenced in archaeoglobus-fulgidus-aglb
-- [Ampicillin](/xray-mp-wiki/reagents/antibiotics/ampicillin/) — Referenced in archaeoglobus-fulgidus-aglb
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Referenced in archaeoglobus-fulgidus-aglb
-- [Nickel Sepharose](/xray-mp-wiki/reagents/additives/nickel-nta/) — Referenced in archaeoglobus-fulgidus-aglb
-- [Lipidic cubic phase (LCP) crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used for ternary complex crystallization at 2.7 A
-- [N-glycosylation sequon](/xray-mp-wiki/concepts/membrane-mimetics/n-glycosylation-sequon/) — AfAglB recognizes the Asn-X-Ser/Thr sequon; the TIXE motif explains Pro exclusion
+- <a href="/xray-mp-wiki/concepts/membrane-mimetics/n-glycosylation-sequon/">N-Glycosylation Sequon</a> — AfAglB recognizes and catalyzes glycosylation of the Asn-X-Ser/Thr sequon
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/carboxylate-dyad/">Carboxylate Dyad</a> — Catalytic mechanism of AfAglB involves the Asp47-Glu360 carboxylate dyad
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Detergent used for solubilization and purification of AfAglB
+- <a href="/xray-mp-wiki/reagents/detergents/ldao/">Lauryldimethylamine N-oxide (LDAO)</a> — Detergent used for gel filtration and crystallization of AfAglB
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> — Buffer used throughout AfAglB expression, purification, and assays
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Referenced in archaeoglobus-fulgidus-aglb
+- <a href="/xray-mp-wiki/reagents/additives/peg-550-mme/">PEG 550 MME</a> — Referenced in archaeoglobus-fulgidus-aglb
+- <a href="/xray-mp-wiki/reagents/antibiotics/ampicillin/">Ampicillin</a> — Referenced in archaeoglobus-fulgidus-aglb
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Referenced in archaeoglobus-fulgidus-aglb
+- <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Nickel Sepharose</a> — Referenced in archaeoglobus-fulgidus-aglb
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic cubic phase (LCP) crystallization</a> — LCP method used for ternary complex crystallization at 2.7 A
+- <a href="/xray-mp-wiki/concepts/membrane-mimetics/n-glycosylation-sequon/">N-glycosylation sequon</a> — AfAglB recognizes the Asn-X-Ser/Thr sequon; the TIXE motif explains Pro exclusion

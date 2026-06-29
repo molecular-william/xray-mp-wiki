@@ -1,7 +1,7 @@
 ---
 title: "Human Dopamine D3 Receptor (D3R)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -28,19 +28,203 @@ conformations of intracellular loop 2 (ICL2), suggesting conformational
 dynamics relevant to signaling.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1126##science.1197410 | 3PBL |  | — | Full-length D3R with T4L fusion in ICL3, N-terminal 31 residues deleted (no interpretable density) | Eticlopride |
+### doi/10.1126##science.1197410
 
-## Expression and Purification
+**Structures:**
 
-No purification described.
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3pbl">3PBL</a></td>
+      <td></td>
+      <td>—</td>
+      <td>Full-length D3R with T4L fusion in ICL3, N-terminal 31 residues deleted (no interpretable density)</td>
+      <td>Eticlopride</td>
+    </tr>
+  </tbody>
+</table>
 
-## Crystallization
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-No crystallization described.
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3pbl">3PBL</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">DYKDDDDGAPASLSQLSSHLNYTCGAENSTGASQARPHAY</span><span class="topo-outside">YAL</span><span class="topo-membrane">SYCALILAIVFGNGLVC</span></span>
+<span class="topo-line"><span class="topo-membrane">MAVLK</span><span class="topo-inside">ERALQTTT</span><span class="topo-membrane">NYLVVSLAVADLLVATLVMP</span><span class="topo-outside">WVVYLEVTGGVWNFSRICCDV</span><span class="topo-membrane">FVTLDV</span></span>
+<span class="topo-line"><span class="topo-membrane">MMCTASIWNLCAISID</span><span class="topo-inside">RYTAVVMPVHYQHGTGQSSCRRV</span><span class="topo-membrane">ALMITAVWVLAFAVSCPLL</span><span class="topo-outside">FG</span></span>
+<span class="topo-line"><span class="topo-outside">FNTTGDPTVCSISNPDF</span><span class="topo-membrane">VIYSSVVSFYLPFGVTVLVYAR</span><span class="topo-inside">IYVVLKQRRRKNIFEMLRIDE</span></span>
+<span class="topo-line"><span class="topo-inside">GLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDV</span></span>
+<span class="topo-line"><span class="topo-inside">DAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAV</span></span>
+<span class="topo-line"><span class="topo-inside">NLAKSRWYNQTPNRAKRVITTFRTGTWDAYGVPLREKKATQ</span><span class="topo-membrane">MVAIVLGAFIVCWLPFFLT</span></span>
+<span class="topo-line"><span class="topo-outside">HVLNTHCQTCHVSPELYSA</span><span class="topo-membrane">TTWLGYVNSALNPVIYTTFN</span><span class="topo-inside">IEFRKAFLKILSC</span><span class="topo-unknown">GRPLEVLF</span></span>
+<span class="topo-line"><span class="topo-unknown">Q</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>40</td>
+      <td>-8</td>
+      <td>31</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>43</td>
+      <td>32</td>
+      <td>34</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>65</td>
+      <td>35</td>
+      <td>56</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>73</td>
+      <td>57</td>
+      <td>64</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>93</td>
+      <td>65</td>
+      <td>84</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>114</td>
+      <td>85</td>
+      <td>105</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>115</td>
+      <td>136</td>
+      <td>106</td>
+      <td>127</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>137</td>
+      <td>159</td>
+      <td>128</td>
+      <td>150</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>160</td>
+      <td>178</td>
+      <td>151</td>
+      <td>169</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>179</td>
+      <td>197</td>
+      <td>170</td>
+      <td>188</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>219</td>
+      <td>189</td>
+      <td>210</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>220</td>
+      <td>230</td>
+      <td>211</td>
+      <td>221</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>231</td>
+      <td>390</td>
+      <td>1002</td>
+      <td>1161</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>391</td>
+      <td>401</td>
+      <td>319</td>
+      <td>329</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>402</td>
+      <td>420</td>
+      <td>330</td>
+      <td>348</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>421</td>
+      <td>439</td>
+      <td>349</td>
+      <td>367</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>440</td>
+      <td>459</td>
+      <td>368</td>
+      <td>387</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>460</td>
+      <td>472</td>
+      <td>388</td>
+      <td>400</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>473</td>
+      <td>481</td>
+      <td>401</td>
+      <td>409</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -63,4 +247,4 @@ A second extracellular binding pocket at the junction of ECL2, ECL1, and helices
 
 ## Cross-References
 
-- [Human Beta2-Adrenergic Receptor (beta2 AR)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — D3R structure is compared with beta2 AR throughout the paper
+- <a href="/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/">Human Beta2-Adrenergic Receptor (beta2 AR)</a> — D3R structure is compared with beta2 AR throughout the paper

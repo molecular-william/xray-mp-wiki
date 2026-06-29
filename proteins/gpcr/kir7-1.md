@@ -1,12 +1,12 @@
 ---
 title: "Kir7.1 Inwardly Rectifying Potassium Channel"
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [ion-channel, channel, membrane-protein, xray-crystallography]
-sources: [doi/10.1021##acs.jmedchem.3c01822]
+sources: []
 verified: false
 ---
 
@@ -16,20 +16,9 @@ verified: false
 
 Kir7.1 (encoded by KCNJ13) is an inwardly rectifying potassium channel expressed in several tissues within and outside the central nervous system, including the paraventricular hypothalamus (PVH). Kir7.1 is functionally coupled to the melanocortin 4 receptor ([MC4-R](/xray-mp-wiki/proteins/gpcr/mc4-r/)) through a G protein-independent mechanism. [MC4-R](/xray-mp-wiki/proteins/gpcr/mc4-r/) activation by alpha-MSH induces Kir7.1 channel closure (decreased K+ conductance, depolarization), while AgRP induces channel opening (increased K+ conductance, hyperpolarization). This coupling modulates PVH MC4R neuronal firing frequency and feeding behavior. Kir7.1 R125M (M125R) mutant is used for Ba2+-sensitive current recordings as it regains sensitivity to Ba2+ block.
 
-## Structure Determination
+## Publications
 
-No structure determined.
-
-## Expression and Purification
-
-- **Expression system**: T-REx 293 cells (inducible HEK293 line)
-- **Construct**: T-REx 293 cells co-expressing human [MC4-R](/xray-mp-wiki/proteins/gpcr/mc4-r/) and Kir7.1 R125M mutant. Cells cultured in high [Glucose](/xray-mp-wiki/reagents/additives/glucose/) DMEM. Inducible expression system used to prevent toxicity from Kir7.1 overexpression.
-
-No purification described.
-
-## Crystallization
-
-No crystallization described.
+No publications.
 
 ## Biological / Functional Insights
 
@@ -44,9 +33,9 @@ Peptides that promote Kir7.1 channel closing (e.g., SBL-MC-69) reduce food intak
 
 ## Cross-References
 
-- [Human Melanocortin 4 Receptor (MC4-R)](/xray-mp-wiki/proteins/gpcr/mc4-r/) — MC4-R functionally couples to Kir7.1 through G protein-independent mechanism
-- [SHU9119](/xray-mp-wiki/reagents/ligands/shu9119/) — Antagonist that increases Kir7.1 channel opening, mimicking AgRP effect
-- [Barium Chloride](/xray-mp-wiki/reagents/additives/barium-chloride/) — Kir7.1 channel blocker used to measure channel-specific K+ currents
-- [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Additive used in purification or crystallization buffers
-- [PG-934](/xray-mp-wiki/reagents/ligands/pg-934/) — Related ligand or cofactor
-- [SBL-MC-31](/xray-mp-wiki/reagents/ligands/sbl-mc-31/) — Related ligand or cofactor
+- <a href="/xray-mp-wiki/proteins/gpcr/mc4-r/">Human Melanocortin 4 Receptor (MC4-R)</a> — MC4-R functionally couples to Kir7.1 through G protein-independent mechanism
+- <a href="/xray-mp-wiki/reagents/ligands/shu9119/">SHU9119</a> — Antagonist that increases Kir7.1 channel opening, mimicking AgRP effect
+- <a href="/xray-mp-wiki/reagents/additives/barium-chloride/">Barium Chloride</a> — Kir7.1 channel blocker used to measure channel-specific K+ currents
+- <a href="/xray-mp-wiki/reagents/additives/glucose/">Glucose</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/ligands/pg-934/">PG-934</a> — Related ligand or cofactor
+- <a href="/xray-mp-wiki/reagents/ligands/sbl-mc-31/">SBL-MC-31</a> — Related ligand or cofactor

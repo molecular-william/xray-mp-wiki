@@ -1,7 +1,7 @@
 ---
 title: "Phosphatidylglycerol Phosphate Synthase PgsA from Staphylococcus aureus"
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,45 +16,666 @@ verified: false
 
 [Phosphatidylglycerol](/xray-mp-wiki/reagents/lipids/phosphatidylglycerol) phosphate synthase (PgsA) from Staphylococcus aureus (SaPgsA) is a membrane-embedded enzyme that catalyzes the conversion of cytidine diphosphate-diacylglycerol (CDP-DAG) and [Glycerol](/xray-mp-wiki/reagents/additives/glycerol) 3-phosphate (G3P) into [Phosphatidylglycerol](/xray-mp-wiki/reagents/lipids/phosphatidylglycerol) phosphate (PGP) and cytidine monophosphate (CMP). PgsA forms a homodimer and is essential for [Phosphatidylglycerol](/xray-mp-wiki/reagents/lipids/phosphatidylglycerol) biosynthesis in bacteria. Mutations in pgsA are frequently associated with [Daptomycin](/xray-mp-wiki/reagents/ligands/daptomycin) resistance in pathogenic Gram-positive bacteria, making SaPgsA a potential antibacterial target.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.crstbi.2021.11.005 | 7DRJ | 2.5 A | not specified | Full-length SaPgsA, homodimer, 6 transmembrane helices per protomer | phosphatidylglycerol phosphate (PGP) |
-| doi/10.1016##j.crstbi.2021.11.005 | 7DRK | 3.0 A | not specified | Full-length SaPgsA, homodimer, 6 transmembrane helices per protomer | cytidine diphosphate-diacylglycerol (CDP-DAG) |
+### doi/10.1016##j.crstbi.2021.11.005
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7drj">7DRJ</a></td>
+      <td>2.5 A</td>
+      <td>not specified</td>
+      <td>Full-length SaPgsA, homodimer, 6 transmembrane helices per protomer</td>
+      <td>phosphatidylglycerol phosphate (PGP)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7drk">7DRK</a></td>
+      <td>3.0 A</td>
+      <td>not specified</td>
+      <td>Full-length SaPgsA, homodimer, 6 transmembrane helices per protomer</td>
+      <td>cytidine diphosphate-diacylglycerol (CDP-DAG)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli C41(DE3) or C43(DE3)
 - **Construct**: Full-length SaPgsA with N-terminal His-tag, codon-optimized for E. coli expression
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture and membrane preparation</td>
+      <td>E. coli expression in Terrific Broth, <a href="/xray-mp-wiki/reagents/additives/iptg">IPTG</a> induction</td>
+      <td>--</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 200 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + --</td>
+      <td>Induction at 37 C for 2-3 h or 16 C for 12-15 h; cells harvested by centrifugation</td>
+    </tr>
+    <tr>
+      <td>Cell lysis</td>
+      <td>French press at 900-1000 bar, 4-5 passes</td>
+      <td>--</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 200 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + --</td>
+      <td>Membrane fraction pelleted at 160,000xg for 1 h</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 200 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + 1.5% beta-<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>Solubilization for 2-3 h at 4 C</td>
+    </tr>
+    <tr>
+      <td>Affinity chromatography</td>
+      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td>Ni-NTA</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 7.5, 300 mM NaCl, 10% glycerin, 0.1% beta-<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> (wash); 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>, 0.05% beta-<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> (elution) + beta-<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>Protein eluted with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a></td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>Size-exclusion chromatography</td>
+      <td>Superdex 200</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 0.05% beta-<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> + beta-<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>SaPgsA eluted as dimer confirmed by <a href="/xray-mp-wiki/methods/quality-assessment/sec-mals">SEC-MALS</a></td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture and membrane preparation | E. coli expression in Terrific Broth, [IPTG](/xray-mp-wiki/reagents/additives/iptg) induction | -- | 50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 200 mM NaCl, 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) + -- | Induction at 37 C for 2-3 h or 16 C for 12-15 h; cells harvested by centrifugation |
-| Cell lysis | French press at 900-1000 bar, 4-5 passes | -- | 50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 200 mM NaCl, 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) + -- | Membrane fraction pelleted at 160,000xg for 1 h |
-| Solubilization | Detergent solubilization | -- | 50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 200 mM NaCl, 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) + 1.5% beta-[DDM](/xray-mp-wiki/reagents/detergents/ddm) | Solubilization for 2-3 h at 4 C |
-| Affinity chromatography | Ni-NTA affinity chromatography | Ni-NTA | 25 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.5, 300 mM NaCl, 10% glycerin, 0.1% beta-[DDM](/xray-mp-wiki/reagents/detergents/ddm) (wash); 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole), 0.05% beta-[DDM](/xray-mp-wiki/reagents/detergents/ddm) (elution) + beta-[DDM](/xray-mp-wiki/reagents/detergents/ddm) | Protein eluted with 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) |
-| Size-exclusion chromatography | Size-exclusion chromatography | Superdex 200 | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 150 mM NaCl, 0.05% beta-[DDM](/xray-mp-wiki/reagents/detergents/ddm) + beta-[DDM](/xray-mp-wiki/reagents/detergents/ddm) | SaPgsA eluted as dimer confirmed by [SEC-MALS](/xray-mp-wiki/methods/quality-assessment/sec-mals) |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>SaPgsA reconstituted in <a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a> LCP</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>not specified in main text</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>not specified in main text</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>not specified in main text</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>SaPgsA-PGP complex (7DRJ) at 2.5 A resolution; SaPgsA-CDP-DAG complex (7DRK) at 3.0 A resolution. Initial phases solved by ab initio phasing with ARCIMBOLDO-LITE.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7drj">7DRJ</a> — Chain A (6 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MNI</span><span class="topo-membrane">PNQITVFRVVLIPVFILFAL</span><span class="topo-inside">VDFGFGNVSFLGGYEIR</span></span>
+<span class="topo-line"><span class="topo-inside">IELLI</span><span class="topo-membrane">SGFIFILASLSDFVDGYL</span><span class="topo-outside">ARKWNLVTNMGKFL</span><span class="topo-membrane">DPLADKLLVASALIVLVQ</span><span class="topo-inside">LGLT</span><span class="topo-membrane">N</span></span>
+<span class="topo-line"><span class="topo-membrane">SVVAIIIIAREFAVTG</span><span class="topo-outside">LRLLQIEQGFVSAA</span><span class="topo-membrane">GQLGKIKTAVTMVAITWLLL</span><span class="topo-inside">GDPLATLIGL</span></span>
+<span class="topo-line"><span class="topo-inside">SL</span><span class="topo-membrane">GQILLYIGVIFTILSGIEYF</span><span class="topo-outside">YKGRDVFK</span><span class="topo-unknown">QK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>20</td>
+      <td>-19</td>
+      <td>0</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>23</td>
+      <td>1</td>
+      <td>3</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>43</td>
+      <td>4</td>
+      <td>23</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>65</td>
+      <td>24</td>
+      <td>45</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>83</td>
+      <td>46</td>
+      <td>63</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>97</td>
+      <td>64</td>
+      <td>77</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>115</td>
+      <td>78</td>
+      <td>95</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>119</td>
+      <td>96</td>
+      <td>99</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>120</td>
+      <td>136</td>
+      <td>100</td>
+      <td>116</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>137</td>
+      <td>150</td>
+      <td>117</td>
+      <td>130</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td>170</td>
+      <td>131</td>
+      <td>150</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>182</td>
+      <td>151</td>
+      <td>162</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>183</td>
+      <td>202</td>
+      <td>163</td>
+      <td>182</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>203</td>
+      <td>210</td>
+      <td>183</td>
+      <td>190</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>211</td>
+      <td>212</td>
+      <td>191</td>
+      <td>192</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1016##j.crstbi.2021.11.005
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7drj">7DRJ</a> — Chain B (6 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase |
-| Protein sample | SaPgsA reconstituted in [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) LCP |
-| Temperature | not specified in main text |
-| Growth time | not specified in main text |
-| Cryoprotection | not specified in main text |
-| Notes | SaPgsA-PGP complex (7DRJ) at 2.5 A resolution; SaPgsA-CDP-DAG complex (7DRK) at 3.0 A resolution. Initial phases solved by ab initio phasing with ARCIMBOLDO-LITE. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MNI</span><span class="topo-membrane">PNQITVFRVVLIPVFILFAL</span><span class="topo-inside">VDFGFGNVSFLGGYEIR</span></span>
+<span class="topo-line"><span class="topo-inside">IELLI</span><span class="topo-membrane">SGFIFILASLSDFVDGYL</span><span class="topo-outside">ARKWNLVTNMGKFL</span><span class="topo-membrane">DPLADKLLVASALIVLVQ</span><span class="topo-inside">LGLT</span><span class="topo-membrane">N</span></span>
+<span class="topo-line"><span class="topo-membrane">SVVAIIIIAREFAVTGL</span><span class="topo-outside">RLLQIEQGFVSAA</span><span class="topo-membrane">GQLGKIKTAVTMVAITWLLL</span><span class="topo-inside">GDPLATLIGL</span></span>
+<span class="topo-line"><span class="topo-inside">SL</span><span class="topo-membrane">GQILLYIGVIFTILSGIEYF</span><span class="topo-outside">YKGR</span><span class="topo-unknown">DVFKQK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>20</td>
+      <td>-19</td>
+      <td>0</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>23</td>
+      <td>1</td>
+      <td>3</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>43</td>
+      <td>4</td>
+      <td>23</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>65</td>
+      <td>24</td>
+      <td>45</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>83</td>
+      <td>46</td>
+      <td>63</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>97</td>
+      <td>64</td>
+      <td>77</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>115</td>
+      <td>78</td>
+      <td>95</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>119</td>
+      <td>96</td>
+      <td>99</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>120</td>
+      <td>137</td>
+      <td>100</td>
+      <td>117</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>138</td>
+      <td>150</td>
+      <td>118</td>
+      <td>130</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td>170</td>
+      <td>131</td>
+      <td>150</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>182</td>
+      <td>151</td>
+      <td>162</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>183</td>
+      <td>202</td>
+      <td>163</td>
+      <td>182</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>203</td>
+      <td>206</td>
+      <td>183</td>
+      <td>186</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>207</td>
+      <td>212</td>
+      <td>187</td>
+      <td>192</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7drk">7DRK</a> — Chain A (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSHM</span><span class="topo-outside">NIPNQ</span><span class="topo-membrane">ITVFRVVLIPVFILFAL</span><span class="topo-inside">VDFGFGNVSFLGGYEIR</span></span>
+<span class="topo-line"><span class="topo-inside">IELL</span><span class="topo-membrane">ISGFIFILASLSDFVDGYL</span><span class="topo-outside">ARKWNLVTNMGKFL</span><span class="topo-membrane">DPLADKLLVASALIVLVQ</span><span class="topo-inside">LGLT</span><span class="topo-membrane">N</span></span>
+<span class="topo-line"><span class="topo-membrane">SVVAIIIIAREFAVT</span><span class="topo-outside">GLRLLQIEQGFVSAAGQ</span><span class="topo-membrane">LGKIKTAVTMVAITWLLL</span><span class="topo-inside">GDPLATLIGL</span></span>
+<span class="topo-line"><span class="topo-inside">SL</span><span class="topo-membrane">GQILLYIGVIFTILSGIE</span><span class="topo-outside">YFYKG</span><span class="topo-unknown">RDVFKQK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>21</td>
+      <td>-19</td>
+      <td>1</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>26</td>
+      <td>2</td>
+      <td>6</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>43</td>
+      <td>7</td>
+      <td>23</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>64</td>
+      <td>24</td>
+      <td>44</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>83</td>
+      <td>45</td>
+      <td>63</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>97</td>
+      <td>64</td>
+      <td>77</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>115</td>
+      <td>78</td>
+      <td>95</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>119</td>
+      <td>96</td>
+      <td>99</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>120</td>
+      <td>135</td>
+      <td>100</td>
+      <td>115</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>152</td>
+      <td>116</td>
+      <td>132</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>153</td>
+      <td>170</td>
+      <td>133</td>
+      <td>150</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>182</td>
+      <td>151</td>
+      <td>162</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>183</td>
+      <td>200</td>
+      <td>163</td>
+      <td>180</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>201</td>
+      <td>205</td>
+      <td>181</td>
+      <td>185</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>206</td>
+      <td>212</td>
+      <td>186</td>
+      <td>192</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7drk">7DRK</a> — Chain B (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPRGSH</span><span class="topo-outside">MNIPNQ</span><span class="topo-membrane">ITVFRVVLIPVFILFAL</span><span class="topo-inside">VDFGFGNVSFLGGYEIR</span></span>
+<span class="topo-line"><span class="topo-inside">IELL</span><span class="topo-membrane">ISGFIFILASLSDFVDGYL</span><span class="topo-outside">ARKWNLVTNMGKFL</span><span class="topo-membrane">DPLADKLLVASALIVLVQ</span><span class="topo-inside">LGLT</span><span class="topo-membrane">N</span></span>
+<span class="topo-line"><span class="topo-membrane">SVVAIIIIAREFAVT</span><span class="topo-outside">GLRLLQIEQGFVSAAGQ</span><span class="topo-membrane">LGKIKTAVTMVAITWLLL</span><span class="topo-inside">GDPLATLIGL</span></span>
+<span class="topo-line"><span class="topo-inside">SL</span><span class="topo-membrane">GQILLYIGVIFTILSGIE</span><span class="topo-outside">YFYKG</span><span class="topo-unknown">RDVFKQK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>20</td>
+      <td>-19</td>
+      <td>0</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>26</td>
+      <td>1</td>
+      <td>6</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>43</td>
+      <td>7</td>
+      <td>23</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>64</td>
+      <td>24</td>
+      <td>44</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>83</td>
+      <td>45</td>
+      <td>63</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>97</td>
+      <td>64</td>
+      <td>77</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>115</td>
+      <td>78</td>
+      <td>95</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>119</td>
+      <td>96</td>
+      <td>99</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>120</td>
+      <td>135</td>
+      <td>100</td>
+      <td>115</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>152</td>
+      <td>116</td>
+      <td>132</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>153</td>
+      <td>170</td>
+      <td>133</td>
+      <td>150</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>171</td>
+      <td>182</td>
+      <td>151</td>
+      <td>162</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>183</td>
+      <td>200</td>
+      <td>163</td>
+      <td>180</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>201</td>
+      <td>205</td>
+      <td>181</td>
+      <td>185</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>206</td>
+      <td>212</td>
+      <td>186</td>
+      <td>192</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -85,13 +706,13 @@ The 3-phosphoryl moiety of PGP is sandwiched between TM3 and TM5, interacting wi
 
 ## Cross-References
 
-- [Phosphatidylglycerol Phosphate](/xray-mp-wiki/reagents/lipids/phosphatidylglycerol-phosphate/) — Product of SaPgsA enzymatic reaction
-- [Cytidine Diphosphate Diacylglycerol](/xray-mp-wiki/reagents/lipids/cytidine-diphosphate-diacylglycerol/) — Substrate of SaPgsA enzymatic reaction
-- [Glycerol 3-Phosphate](/xray-mp-wiki/reagents/additives/glycerol-3-phosphate/) — Second substrate of SaPgsA enzymatic reaction
-- [Phosphatidylglycerol](/xray-mp-wiki/reagents/lipids/phosphatidylglycerol/) — Downstream product of PG biosynthesis pathway catalyzed by PgsA
-- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used for SaPgsA structures
-- [n-Dodecyl-beta-D-maltopyranoside (beta-DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for SaPgsA solubilization and purification
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid component of LCP crystallization matrix
-- [SEC-MALS](/xray-mp-wiki/methods/quality-assessment/sec-mals) — Entity mentioned in text
-- [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) — Entity mentioned in text
-- [DDM](/xray-mp-wiki/reagents/detergents/ddm) — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/lipids/phosphatidylglycerol-phosphate/">Phosphatidylglycerol Phosphate</a> — Product of SaPgsA enzymatic reaction
+- <a href="/xray-mp-wiki/reagents/lipids/cytidine-diphosphate-diacylglycerol/">Cytidine Diphosphate Diacylglycerol</a> — Substrate of SaPgsA enzymatic reaction
+- <a href="/xray-mp-wiki/reagents/additives/glycerol-3-phosphate/">Glycerol 3-Phosphate</a> — Second substrate of SaPgsA enzymatic reaction
+- <a href="/xray-mp-wiki/reagents/lipids/phosphatidylglycerol/">Phosphatidylglycerol</a> — Downstream product of PG biosynthesis pathway catalyzed by PgsA
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — Crystallization method used for SaPgsA structures
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (beta-DDM)</a> — Detergent used for SaPgsA solubilization and purification
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — Lipid component of LCP crystallization matrix
+- <a href="/xray-mp-wiki/methods/quality-assessment/sec-mals">SEC-MALS</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> — Entity mentioned in text

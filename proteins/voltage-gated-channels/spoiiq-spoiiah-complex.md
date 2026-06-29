@@ -1,7 +1,7 @@
 ---
 title: "SpoIIQ-SpoIIIAH Intercellular Channel Complex from Bacillus subtilis"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -27,76 +27,211 @@ feeding tube through which the mother cell supplies small molecules to the fores
 for late-stage gene expression during sporulation.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.1120087109 | 3TUF | 2.75 A | Not specified | SpoIIQ(43-283) + SpoIIIAH(32-218) complex | none (apo) |
-| doi/10.1073##pnas.1120113109 | 3UZ0 | 2.8 A | P2_12_12_1 | SpoIIQ(73-220) + SpoIIIAH(90-218) truncated complex | none (apo) |
+### doi/10.1073##pnas.1120087109
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3tuf">3TUF</a></td>
+      <td>2.75 A</td>
+      <td>Not specified</td>
+      <td>SpoIIQ(43-283) + SpoIIIAH(32-218) complex</td>
+      <td>none (apo)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli
 - **Construct**: SpoIIQ extracellular domain (residues 43-283) and SpoIIIAH extracellular domain (residues 32-218) expressed separately as recombinant proteins
 
-### Purification Workflow
-
-#### Source: doi/10.1073##pnas.1120087109
+**Purification:**
 
 - **Expression system**: E. coli
 - **Expression construct**: SpoIIQ(43-283) and SpoIIIAH(32-218) with N-terminal cleavable [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag/)
 - **Tag info**: [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag/), removed by [HRV 3C Protease](/xray-mp-wiki/reagents/additives/hrv-3c-protease/) leaving residual GPA tag
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Ni-NTA</td>
+      <td>Nickel affinity resin</td>
+      <td>Not specified + Not specified</td>
+      <td>His6-tagged proteins purified by nickel <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+    </tr>
+    <tr>
+      <td>Tag cleavage</td>
+      <td>Proteolytic digestion</td>
+      <td>Not specified</td>
+      <td>Not specified + Not specified</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">Polyhistidine Tag (His6)</a> removed by <a href="/xray-mp-wiki/reagents/additives/hrv-3c-protease/">HRV 3C Protease</a></td>
+    </tr>
+    <tr>
+      <td>Gel filtration</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td>Superdex S200</td>
+      <td>Not specified + Not specified</td>
+      <td>Purification of complex by SEC-MALLS; Superdex S200 10/300 column</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA | Nickel affinity resin | Not specified + Not specified | His6-tagged proteins purified by nickel [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) |
-| Tag cleavage | Proteolytic digestion | Not specified | Not specified + Not specified | [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag/) removed by [HRV 3C Protease](/xray-mp-wiki/reagents/additives/hrv-3c-protease/) |
-| Gel filtration | [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | Superdex S200 | Not specified + Not specified | Purification of complex by SEC-MALLS; Superdex S200 10/300 column |
+**Crystallization:**
 
-#### Source: doi/10.1073##pnas.1120113109
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>SpoIIQ(43-283)-SpoIIIAH(32-218) complex at 45 mg/mL</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.1 M <a href="/xray-mp-wiki/reagents/buffers/sodium-acetate/">Sodium Acetate</a>, pH 4.5, 50% (vol/vol) <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 400</td>
+    </tr>
+    <tr>
+      <td>Mixing ratio</td>
+      <td>1:1 (complex:reservoir)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Large single crystals obtained. X-ray diffraction data at Diamond Light Source beamlines I04 and I02. SAD phasing at 0.9796 A using selenomethionine-derivatized SpoIIQ.</td>
+    </tr>
+  </tbody>
+</table>
+### doi/10.1073##pnas.1120113109
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3uz0">3UZ0</a></td>
+      <td>2.8 A</td>
+      <td>P2_12_12_1</td>
+      <td>SpoIIQ(73-220) + SpoIIIAH(90-218) truncated complex</td>
+      <td>none (apo)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Escherichia coli
+- **Construct**: SpoIIQ extracellular domain (residues 43-283) and SpoIIIAH extracellular domain (residues 32-218) expressed separately as recombinant proteins
+
+**Purification:**
 
 - **Expression system**: E. coli
 - **Expression construct**: SpoIIQ(73-220) and SpoIIIAH(90-218) truncated constructs
 - **Tag info**: Not specified
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Ni-NTA</td>
+      <td>Not specified</td>
+      <td>Not specified + Not specified</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">Polyhistidine Tag (His6)</a> affinity purification of truncated complex</td>
+    </tr>
+    <tr>
+      <td>Gel filtration</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td>Not specified</td>
+      <td>Not specified + Not specified</td>
+      <td>Purification of truncated SpoIIQ(73-220)-SpoIIIAH(90-218) complex</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA | Not specified | Not specified + Not specified | [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag/) affinity purification of truncated complex |
-| Gel filtration | [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | Not specified | Not specified + Not specified | Purification of truncated SpoIIQ(73-220)-SpoIIIAH(90-218) complex |
+**Crystallization:**
 
-
-## Crystallization
-
-### doi/10.1073##pnas.1120087109
-
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | SpoIIQ(43-283)-SpoIIIAH(32-218) complex at 45 mg/mL |
-| Reservoir | 0.1 M [Sodium Acetate](/xray-mp-wiki/reagents/buffers/sodium-acetate/), pH 4.5, 50% (vol/vol) [PEG](/xray-mp-wiki/reagents/additives/peg/) 400 |
-| Mixing ratio | 1:1 (complex:reservoir) |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Large single crystals obtained. X-ray diffraction data at Diamond Light Source beamlines I04 and I02. SAD phasing at 0.9796 A using selenomethionine-derivatized SpoIIQ. |
-
-### doi/10.1073##pnas.1120113109
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion crystallization |
-| Protein sample | Truncated SpoIIQ(73-220)-SpoIIIAH(90-218) complex |
-| Reservoir | Not specified |
-| Mixing ratio | Not specified |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Crystallized in orthorhombic space group P2_12_12_1 with two complexes per asymmetric unit. SAD phasing at 0.979 A using [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) derivative. Data collected at NE-CAT 24-ID, Advanced Photon Source. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Truncated SpoIIQ(73-220)-SpoIIIAH(90-218) complex</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Mixing ratio</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystallized in orthorhombic space group P2_12_12_1 with two complexes per asymmetric unit. SAD phasing at 0.979 A using <a href="/xray-mp-wiki/reagents/additives/selenomethionine/">Selenomethionine (SeMet)</a> derivative. Data collected at NE-CAT 24-ID, Advanced Photon Source.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -154,13 +289,13 @@ for a structural/scaffolding role.
 
 ## Cross-References
 
-- [Single-Wavelength Anomalous Diffraction (SAD)](/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/) — SAD phasing used for structure solution of the SpoIIQ-SpoIIIAH complex
-- [Size Exclusion Chromatography with Multi-Angle Light Scattering (SEC-MALS)](/xray-mp-wiki/methods/quality-assessment/sec-mals/) — SEC-MALLS used to determine oligomeric state of the complex
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Ni-NTA affinity chromatography used for initial purification
-- [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Gel filtration used for complex purification and SEC-MALLS analysis
-- [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Crystallization method for the SpoIIQ-SpoIIIAH complex
-- [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate/) — Sodium acetate pH 4.5 used as crystallization reservoir buffer
-- [Nickel-NTA (Ni-NTA) Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) — Nickel affinity resin used for His6-tagged protein purification
-- [Polyethylene Glycol 400 (PEG400)](/xray-mp-wiki/reagents/additives/peg-400/) — PEG 400 used as precipitant in crystallization reservoir
-- [HRV 3C Protease](/xray-mp-wiki/reagents/additives/hrv-3c-protease/) — Additive used in purification or crystallization buffers
-- [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction/">Single-Wavelength Anomalous Diffraction (SAD)</a> — SAD phasing used for structure solution of the SpoIIQ-SpoIIIAH complex
+- <a href="/xray-mp-wiki/methods/quality-assessment/sec-mals/">Size Exclusion Chromatography with Multi-Angle Light Scattering (SEC-MALS)</a> — SEC-MALLS used to determine oligomeric state of the complex
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Ni-NTA affinity chromatography used for initial purification
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a> — Gel filtration used for complex purification and SEC-MALLS analysis
+- <a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">Hanging-Drop Vapor Diffusion</a> — Crystallization method for the SpoIIQ-SpoIIIAH complex
+- <a href="/xray-mp-wiki/reagents/buffers/acetate/">Acetate Buffer (Sodium Acetate)</a> — Sodium acetate pH 4.5 used as crystallization reservoir buffer
+- <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Nickel-NTA (Ni-NTA) Resin</a> — Nickel affinity resin used for His6-tagged protein purification
+- <a href="/xray-mp-wiki/reagents/additives/peg-400/">Polyethylene Glycol 400 (PEG400)</a> — PEG 400 used as precipitant in crystallization reservoir
+- <a href="/xray-mp-wiki/reagents/additives/hrv-3c-protease/">HRV 3C Protease</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> — Additive used in purification or crystallization buffers

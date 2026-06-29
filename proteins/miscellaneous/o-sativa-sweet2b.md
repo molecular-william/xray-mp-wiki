@@ -1,7 +1,7 @@
 ---
 title: "O. sativa SWEET2b (OsSWEET2b)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,54 +17,958 @@ verified: false
 OsSWEET2b is a vacuolar glucose transporter from the SWEET family found in rice (Oryza sativa). It is a seven-transmembrane-helix protein composed of two triple-helix bundles (THBs) connected by an inversion linker helix (TM4), forming an asymmetrical transport pathway in an inward-open conformation. OsSWEET2b assembles as a homo-trimer in the membrane, with each protomer containing its own transport route. The structure reveals a conserved proline tetrad that functions as hinges for gating and an asymmetrical substrate-binding pocket that diverges from the symmetrical architecture of ancestral bacterial SemiSWEETs.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature15391 | 5CTG | 3.1 | P2_1 | OsSWEET2b(deltaC15)-3C-EGFP-His; reductive methylation | -- |
-| doi/10.1038##nature15391 | 5CTH | 3.7 | P2_1_2_1 | OsSWEET2b(deltaC15)-3C-EGFP-His; reductive methylation | -- |
+### doi/10.1038##nature15391
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5ctg">5CTG</a></td>
+      <td>3.1</td>
+      <td>P2_1</td>
+      <td>OsSWEET2b(deltaC15)-3C-EGFP-His; reductive methylation</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5cth">5CTH</a></td>
+      <td>3.7</td>
+      <td>P2_1_2_1</td>
+      <td>OsSWEET2b(deltaC15)-3C-EGFP-His; reductive methylation</td>
+      <td>--</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Pichia pastoris (native); sf9 insect cells (SeMet)
 - **Construct**: OsSWEET2b(deltaC15)-3C-EGFP-His; C-terminal 15 disordered residues removed
 - **Induction**: OD600 10 at 27 C for native; 48 h at 27 C for sf9
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis and membrane extraction</td>
+      <td>Detergent extraction</td>
+      <td>--</td>
+      <td>3% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> with protease inhibitor cocktail</td>
+      <td>4 C for 2 h</td>
+    </tr>
+    <tr>
+      <td>Centrifugation</td>
+      <td>Centrifugation</td>
+      <td>--</td>
+      <td>--</td>
+      <td>16,000 rpm for 45 min to remove insoluble</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography">IMAC</a></td>
+      <td><a href="/xray-mp-wiki/reagents/affinity-resins/cobalt-resin">Cobalt</a> resin</td>
+      <td>0.3% <a href="/xray-mp-wiki/reagents/detergents/dm">DM (n-decyl-beta-D-maltoside)</a>, 20 mM imidazole</td>
+      <td>4 C for 2 h; cleaved with 3C protease</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size-Exclusion Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/gel-filtration">Gel Filtration</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200</a></td>
+      <td>10 mM Tris-HCl pH 8.0, 150 mM NaCl, 0.5% <a href="/xray-mp-wiki/reagents/detergents/n-nonyl-beta-d-maltopyranoside">NG (n-nonyl-beta-D-glucopyranoside)</a></td>
+      <td>Protein concentrated to 10 mg/mL for crystallization</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis and membrane extraction | Detergent extraction | -- | 3% [DDM](/xray-mp-wiki/reagents/detergents/ddm) with protease inhibitor cocktail | 4 C for 2 h |
-| Centrifugation | Centrifugation | -- | -- | 16,000 rpm for 45 min to remove insoluble |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) | [IMAC](/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography) | [Cobalt](/xray-mp-wiki/reagents/affinity-resins/cobalt-resin) resin | 0.3% [DM (n-decyl-beta-D-maltoside)](/xray-mp-wiki/reagents/detergents/dm), 20 mM imidazole | 4 C for 2 h; cleaved with 3C protease |
-| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) | [Gel Filtration](/xray-mp-wiki/methods/purification/gel-filtration) | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200) | 10 mM Tris-HCl pH 8.0, 150 mM NaCl, 0.5% [NG (n-nonyl-beta-D-glucopyranoside)](/xray-mp-wiki/reagents/detergents/n-nonyl-beta-d-maltopyranoside) | Protein concentrated to 10 mg/mL for crystallization |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion">Hanging Drop</a> <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>OsSWEET2b(deltaC15) in 0.5% NG</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>30% PEG 400, 0.1 M MES pH 6.5, 10 mM MnCl2, 5% ethanol</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Form I (P2_1) plate-like crystals; directly flash-frozen without cryoprotectant</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion">Hanging Drop</a> <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>OsSWEET2b(deltaC15) in 0.5% NG</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>27% PEG 400, 0.1 M MES pH 6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Form II (P2_1_2_1) cubic crystals; cryo-protected by gradual PEG400 concentration increase to 44%</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5ctg">5CTG</a> — Chain A (7 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DSLYDISCF</span><span class="topo-membrane">AAGLAGNIFALALFLSPV</span><span class="topo-inside">TTFKRILKAKSTERFDG</span><span class="topo-membrane">LPYLFSLLNCLICLW</span></span>
+<span class="topo-line"><span class="topo-membrane">YGL</span><span class="topo-outside">PWVADGR</span><span class="topo-membrane">LLVATVNGIGAVFQLAYICLFI</span><span class="topo-inside">FYADSRKTRMK</span><span class="topo-membrane">IIGLLVLVVCGFALVSH</span></span>
+<span class="topo-line"><span class="topo-membrane">AS</span><span class="topo-outside">VFFFDQPLRQQ</span><span class="topo-membrane">FVGAVSMASLISMFASPLAVM</span><span class="topo-inside">GVVIRSESVEFM</span><span class="topo-membrane">PFYLSLSTFLMSAS</span></span>
+<span class="topo-line"><span class="topo-membrane">FALYGL</span><span class="topo-outside">LLRD</span><span class="topo-membrane">FFIYFPNGLGLILGAMQLALYAY</span><span class="topo-inside">YS</span><span class="topo-unknown">SNSLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>10</td>
+      <td>2</td>
+      <td>10</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>28</td>
+      <td>11</td>
+      <td>28</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>45</td>
+      <td>29</td>
+      <td>45</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>63</td>
+      <td>46</td>
+      <td>63</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>70</td>
+      <td>64</td>
+      <td>70</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>92</td>
+      <td>71</td>
+      <td>92</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>103</td>
+      <td>93</td>
+      <td>103</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>122</td>
+      <td>104</td>
+      <td>122</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>123</td>
+      <td>133</td>
+      <td>123</td>
+      <td>133</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>134</td>
+      <td>154</td>
+      <td>134</td>
+      <td>154</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>155</td>
+      <td>166</td>
+      <td>155</td>
+      <td>166</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>167</td>
+      <td>186</td>
+      <td>167</td>
+      <td>186</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>187</td>
+      <td>190</td>
+      <td>187</td>
+      <td>190</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>191</td>
+      <td>213</td>
+      <td>191</td>
+      <td>213</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>215</td>
+      <td>214</td>
+      <td>215</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##nature15391
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5ctg">5CTG</a> — Chain B (7 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | [Hanging Drop](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion) [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) |
-| Protein sample | OsSWEET2b(deltaC15) in 0.5% NG |
-| Reservoir | 30% PEG 400, 0.1 M MES pH 6.5, 10 mM MnCl2, 5% ethanol |
-| Temperature | 22 |
-| Growth time | -- |
-| Notes | Form I (P2_1) plate-like crystals; directly flash-frozen without cryoprotectant |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DSLYDISCF</span><span class="topo-membrane">AAGLAGNIFALALFLSPV</span><span class="topo-inside">TTFKRILKAKSTERFDG</span><span class="topo-membrane">LPYLFSLLNCLICLW</span></span>
+<span class="topo-line"><span class="topo-membrane">YGL</span><span class="topo-outside">PWVADGR</span><span class="topo-membrane">LLVATVNGIGAVFQLAYICLFI</span><span class="topo-inside">FYADSRKTRM</span><span class="topo-membrane">KIIGLLVLVVCGFALVSH</span></span>
+<span class="topo-line"><span class="topo-membrane">AS</span><span class="topo-outside">VFFFDQPLRQQ</span><span class="topo-membrane">FVGAVSMASLISMFASPLAVM</span><span class="topo-inside">GVVIRSESVEFM</span><span class="topo-membrane">PFYLSLSTFLMSAS</span></span>
+<span class="topo-line"><span class="topo-membrane">FALYGL</span><span class="topo-outside">LLRD</span><span class="topo-membrane">FFIYFPNGLGLILGAMQLALYAY</span><span class="topo-inside">YSSNSLEV</span><span class="topo-unknown">LFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>10</td>
+      <td>2</td>
+      <td>10</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>28</td>
+      <td>11</td>
+      <td>28</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>45</td>
+      <td>29</td>
+      <td>45</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>63</td>
+      <td>46</td>
+      <td>63</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>70</td>
+      <td>64</td>
+      <td>70</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>92</td>
+      <td>71</td>
+      <td>92</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>102</td>
+      <td>93</td>
+      <td>102</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>103</td>
+      <td>122</td>
+      <td>103</td>
+      <td>122</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>123</td>
+      <td>133</td>
+      <td>123</td>
+      <td>133</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>134</td>
+      <td>154</td>
+      <td>134</td>
+      <td>154</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>155</td>
+      <td>166</td>
+      <td>155</td>
+      <td>166</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>167</td>
+      <td>186</td>
+      <td>167</td>
+      <td>186</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>187</td>
+      <td>190</td>
+      <td>187</td>
+      <td>190</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>191</td>
+      <td>213</td>
+      <td>191</td>
+      <td>213</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>221</td>
+      <td>214</td>
+      <td>221</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | [Hanging Drop](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion) [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) |
-| Protein sample | OsSWEET2b(deltaC15) in 0.5% NG |
-| Reservoir | 27% PEG 400, 0.1 M MES pH 6.0 |
-| Temperature | 22 |
-| Growth time | -- |
-| Notes | Form II (P2_1_2_1) cubic crystals; cryo-protected by gradual PEG400 concentration increase to 44% |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5ctg">5CTG</a> — Chain C (7 TMs, alpha)**
 
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MD</span><span class="topo-outside">SLYDISCF</span><span class="topo-membrane">AAGLAGNIFALALFLSPV</span><span class="topo-inside">TTFKRILKAKSTERFDG</span><span class="topo-membrane">LPYLFSLLNCLICLW</span></span>
+<span class="topo-line"><span class="topo-membrane">YGL</span><span class="topo-outside">PWVADGR</span><span class="topo-membrane">LLVATVNGIGAVFQLAYICLFI</span><span class="topo-inside">FYADSRKTRMK</span><span class="topo-membrane">IIGLLVLVVCGFALVSH</span></span>
+<span class="topo-line"><span class="topo-membrane">AS</span><span class="topo-outside">VFFFDQPLRQQ</span><span class="topo-membrane">FVGAVSMASLISMFASPLAVM</span><span class="topo-inside">GVVIRSESVEFM</span><span class="topo-membrane">PFYLSLSTFLMSAS</span></span>
+<span class="topo-line"><span class="topo-membrane">FALYGL</span><span class="topo-outside">LLRD</span><span class="topo-membrane">FFIYFPNGLGLILGAMQLALYAY</span><span class="topo-inside">YSSN</span><span class="topo-unknown">SLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>3</td>
+      <td>10</td>
+      <td>3</td>
+      <td>10</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>28</td>
+      <td>11</td>
+      <td>28</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>45</td>
+      <td>29</td>
+      <td>45</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>63</td>
+      <td>46</td>
+      <td>63</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>70</td>
+      <td>64</td>
+      <td>70</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>92</td>
+      <td>71</td>
+      <td>92</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>103</td>
+      <td>93</td>
+      <td>103</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>122</td>
+      <td>104</td>
+      <td>122</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>123</td>
+      <td>133</td>
+      <td>123</td>
+      <td>133</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>134</td>
+      <td>154</td>
+      <td>134</td>
+      <td>154</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>155</td>
+      <td>166</td>
+      <td>155</td>
+      <td>166</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>167</td>
+      <td>186</td>
+      <td>167</td>
+      <td>186</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>187</td>
+      <td>190</td>
+      <td>187</td>
+      <td>190</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>191</td>
+      <td>213</td>
+      <td>191</td>
+      <td>213</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>217</td>
+      <td>214</td>
+      <td>217</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5cth">5CTH</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DSLYDISCF</span><span class="topo-membrane">AAGLAGNIFALALFLSPV</span><span class="topo-inside">TTFKRILKAKSTERFDGL</span><span class="topo-membrane">PYLFSLLNCLICLW</span></span>
+<span class="topo-line"><span class="topo-membrane">YGL</span><span class="topo-outside">PWVADGR</span><span class="topo-membrane">LLVATVNGIGAVFQLAYICL</span><span class="topo-inside">FIFYADSRKTRMKI</span><span class="topo-membrane">IGLLVLVVCGFALVSH</span></span>
+<span class="topo-line"><span class="topo-membrane">AS</span><span class="topo-outside">VFFFDQPLRQQ</span><span class="topo-membrane">FVGAVSMASLISMFASPLA</span><span class="topo-inside">VMGVVIRSESVEFM</span><span class="topo-membrane">PFYLSLSTFLMSAS</span></span>
+<span class="topo-line"><span class="topo-membrane">FALYGL</span><span class="topo-outside">LLRD</span><span class="topo-membrane">FFIYFPNGLGLILGAMQLALYA</span><span class="topo-inside">Y</span><span class="topo-unknown">YSSNSLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>10</td>
+      <td>2</td>
+      <td>10</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>28</td>
+      <td>11</td>
+      <td>28</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>46</td>
+      <td>29</td>
+      <td>46</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>63</td>
+      <td>47</td>
+      <td>63</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>70</td>
+      <td>64</td>
+      <td>70</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>90</td>
+      <td>71</td>
+      <td>90</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>104</td>
+      <td>91</td>
+      <td>104</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>122</td>
+      <td>105</td>
+      <td>122</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>123</td>
+      <td>133</td>
+      <td>123</td>
+      <td>133</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>134</td>
+      <td>152</td>
+      <td>134</td>
+      <td>152</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>153</td>
+      <td>166</td>
+      <td>153</td>
+      <td>166</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>167</td>
+      <td>186</td>
+      <td>167</td>
+      <td>186</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>187</td>
+      <td>190</td>
+      <td>187</td>
+      <td>190</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>191</td>
+      <td>212</td>
+      <td>191</td>
+      <td>212</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>213</td>
+      <td>213</td>
+      <td>213</td>
+      <td>213</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5cth">5CTH</a> — Chain B (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MD</span><span class="topo-outside">SLYDISCF</span><span class="topo-membrane">AAGLAGNIFALALFLSPV</span><span class="topo-inside">TTFKRILKAKSTERFDGL</span><span class="topo-membrane">PYLFSLLNCLICLW</span></span>
+<span class="topo-line"><span class="topo-membrane">YGL</span><span class="topo-outside">PWVADGR</span><span class="topo-membrane">LLVATVNGIGAVFQLAYICL</span><span class="topo-inside">FIFYADSRKTRMKI</span><span class="topo-membrane">IGLLVLVVCGFALVSH</span></span>
+<span class="topo-line"><span class="topo-membrane">AS</span><span class="topo-outside">VFFFDQPLRQQ</span><span class="topo-membrane">FVGAVSMASLISMFASPLA</span><span class="topo-inside">VMGVVIRSESVEFMP</span><span class="topo-membrane">FYLSLSTFLMSAS</span></span>
+<span class="topo-line"><span class="topo-membrane">FALYGL</span><span class="topo-outside">LLRD</span><span class="topo-membrane">FFIYFPNGLGLILGAMQLALYA</span><span class="topo-inside">YYSSN</span><span class="topo-unknown">SLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>3</td>
+      <td>10</td>
+      <td>3</td>
+      <td>10</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>28</td>
+      <td>11</td>
+      <td>28</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>46</td>
+      <td>29</td>
+      <td>46</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>63</td>
+      <td>47</td>
+      <td>63</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>70</td>
+      <td>64</td>
+      <td>70</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>90</td>
+      <td>71</td>
+      <td>90</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>104</td>
+      <td>91</td>
+      <td>104</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>122</td>
+      <td>105</td>
+      <td>122</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>123</td>
+      <td>133</td>
+      <td>123</td>
+      <td>133</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>134</td>
+      <td>152</td>
+      <td>134</td>
+      <td>152</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>153</td>
+      <td>167</td>
+      <td>153</td>
+      <td>167</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>168</td>
+      <td>186</td>
+      <td>168</td>
+      <td>186</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>187</td>
+      <td>190</td>
+      <td>187</td>
+      <td>190</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>191</td>
+      <td>212</td>
+      <td>191</td>
+      <td>212</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>213</td>
+      <td>217</td>
+      <td>213</td>
+      <td>217</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5cth">5CTH</a> — Chain C (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MDSL</span><span class="topo-outside">YDISCF</span><span class="topo-membrane">AAGLAGNIFALALFLSPV</span><span class="topo-inside">TTFKRILKAKSTERFDGL</span><span class="topo-membrane">PYLFSLLNCLICLW</span></span>
+<span class="topo-line"><span class="topo-membrane">YGL</span><span class="topo-outside">PWVADGRL</span><span class="topo-membrane">LVATVNGIGAVFQLAYICL</span><span class="topo-inside">FIFYADSRKTRMKI</span><span class="topo-membrane">IGLLVLVVCGFALVSH</span></span>
+<span class="topo-line"><span class="topo-membrane">AS</span><span class="topo-outside">VFFFDQPLRQQ</span><span class="topo-membrane">FVGAVSMASLISMFASPLA</span><span class="topo-inside">VMGVVIRSESVEFMPF</span><span class="topo-membrane">YLSLSTFLMSAS</span></span>
+<span class="topo-line"><span class="topo-membrane">FALYGL</span><span class="topo-outside">LLRD</span><span class="topo-membrane">FFIYFPNGLGLILGAMQLALYA</span><span class="topo-inside">YYSSN</span><span class="topo-unknown">SLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>5</td>
+      <td>10</td>
+      <td>5</td>
+      <td>10</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>28</td>
+      <td>11</td>
+      <td>28</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>46</td>
+      <td>29</td>
+      <td>46</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>63</td>
+      <td>47</td>
+      <td>63</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>71</td>
+      <td>64</td>
+      <td>71</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>90</td>
+      <td>72</td>
+      <td>90</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>104</td>
+      <td>91</td>
+      <td>104</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>122</td>
+      <td>105</td>
+      <td>122</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>123</td>
+      <td>133</td>
+      <td>123</td>
+      <td>133</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>134</td>
+      <td>152</td>
+      <td>134</td>
+      <td>152</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>153</td>
+      <td>168</td>
+      <td>153</td>
+      <td>168</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>169</td>
+      <td>186</td>
+      <td>169</td>
+      <td>186</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>187</td>
+      <td>190</td>
+      <td>187</td>
+      <td>190</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>191</td>
+      <td>212</td>
+      <td>191</td>
+      <td>212</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>213</td>
+      <td>217</td>
+      <td>213</td>
+      <td>217</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -91,11 +995,11 @@ Mutations in the extrafacial gate (V188A) and intrafacial gate (P23T) of AtSWEET
 
 ## Cross-References
 
-- [E. coli SemiSWEET (EcSemiSWEET)](/xray-mp-wiki/proteins/miscellaneous/ec-semisweet/) — Bacterial homolog with inward-open and outward-open structures; shares conserved binding pocket residues and PQ-loop hinge
-- [A. thaliana SWEET1](/xray-mp-wiki/proteins/miscellaneous/a-thaliana-sweet1/) — Closely related plant SWEET used for structure-function mutagenesis studies
-- [TySemiSWEET](/xray-mp-wiki/proteins/miscellaneous/tysemisweet/) — Bacterial SemiSWEET homolog with conserved structural features
-- [LbSemiSWEET](/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/) — Bacterial SemiSWEET homolog with outward-open and occluded structures
-- [SWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/sweet-transporter/) — OsSWEET2b is a eukaryotic member of the SWEET family
-- [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent for membrane extraction
-- [DM (n-decyl-beta-D-maltoside)](/xray-mp-wiki/reagents/detergents/dm/) — Detergent used in wash buffer during purification
-- [NG (n-nonyl-beta-D-glucopyranoside)](/xray-mp-wiki/reagents/detergents/nm/) — Detergent used in gel filtration and crystallization
+- <a href="/xray-mp-wiki/proteins/miscellaneous/ec-semisweet/">E. coli SemiSWEET (EcSemiSWEET)</a> — Bacterial homolog with inward-open and outward-open structures; shares conserved binding pocket residues and PQ-loop hinge
+- <a href="/xray-mp-wiki/proteins/miscellaneous/a-thaliana-sweet1/">A. thaliana SWEET1</a> — Closely related plant SWEET used for structure-function mutagenesis studies
+- <a href="/xray-mp-wiki/proteins/miscellaneous/tysemisweet/">TySemiSWEET</a> — Bacterial SemiSWEET homolog with conserved structural features
+- <a href="/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/">LbSemiSWEET</a> — Bacterial SemiSWEET homolog with outward-open and occluded structures
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/sweet-transporter/">SWEET Transporter Family</a> — OsSWEET2b is a eukaryotic member of the SWEET family
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> — Primary detergent for membrane extraction
+- <a href="/xray-mp-wiki/reagents/detergents/dm/">DM (n-decyl-beta-D-maltoside)</a> — Detergent used in wash buffer during purification
+- <a href="/xray-mp-wiki/reagents/detergents/nm/">NG (n-nonyl-beta-D-glucopyranoside)</a> — Detergent used in gel filtration and crystallization

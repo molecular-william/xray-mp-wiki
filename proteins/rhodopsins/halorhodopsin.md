@@ -1,7 +1,7 @@
 ---
 title: "Halorhodopsin (HR) from Halobacterium salinarum"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -25,43 +25,103 @@ revealing the molecular mechanism of chloride binding and transport
 through a protonated Schiff base [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) chromophore.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1126##science.288.5470.1390 | 1E12 | 1.8 | — | Mature HR (253 amino acids), Val229Ala mutant | [Retinal](/xray-mp-wiki/reagents/ligands/retinal/), Chloride |
+### doi/10.1126##science.288.5470.1390
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1e12">1E12</a></td>
+      <td>1.8</td>
+      <td>—</td>
+      <td>Mature HR (253 amino acids), Val229Ala mutant</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a>, Chloride</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Halobacterium salinarum D2
 - **Notes**: Homologous overexpression of mature HR; DNA sequencing of the hop gene revealed a single point mutation Val229Ala in the FG loop
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: H. salinarum D2
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Membrane solubilization</td>
+      <td>Solubilization</td>
+      <td>—</td>
+      <td>4 M KCl, 50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.2 + 5% cholate</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Hydrophobic interaction chromatography</td>
+      <td>Column chromatography</td>
+      <td>Phenyl-sepharose CL-4B</td>
+      <td>0.4% phosphate buffer (wash)</td>
+      <td>Eluted by changing to 1% beta-octyl-glucoside in the same buffer</td>
+    </tr>
+    <tr>
+      <td>Concentration</td>
+      <td>Ultrafiltration</td>
+      <td>—</td>
+      <td></td>
+      <td>Concentrated on 50 kDa cutoff Amicon membrane filters</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane solubilization | Solubilization | — | 4 M KCl, 50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.2 + 5% cholate |  |
-| Hydrophobic interaction chromatography | Column chromatography | Phenyl-sepharose CL-4B | 0.4% phosphate buffer (wash) | Eluted by changing to 1% beta-octyl-glucoside in the same buffer |
-| Concentration | Ultrafiltration | — |  | Concentrated on 50 kDa cutoff Amicon membrane filters |
+**Crystallization:**
 
-
-## Crystallization
-
-### doi/10.1126##science.288.5470.1390
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Lipid | 1-monoleoyl-rac-[Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) ([Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/)) |
-| Protein-to-lipid ratio | 58-62% [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) (w/w) |
-| Temperature | 22°C |
-| Growth time | ~2 weeks |
-| Notes | HR concentration 3.3-4.0 mg/ml. Crystals grew in dark. Final size 0.1 x 0.1 x 0.02 mm. Space group P6_322, a=b=67.3 Å, c=209.2 Å. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>1-monoleoyl-rac-<a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> (<a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a>)</td>
+    </tr>
+    <tr>
+      <td>Protein-to-lipid ratio</td>
+      <td>58-62% <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> (w/w)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>22°C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>~2 weeks</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>HR concentration 3.3-4.0 mg/ml. Crystals grew in dark. Final size 0.1 x 0.1 x 0.02 mm. Space group P6_322, a=b=67.3 Å, c=209.2 Å.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -80,10 +140,10 @@ HR assembles as trimers around a central patch containing three molecules of pal
 
 ## Cross-References
 
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — HR is a member of the archaeal rhodopsin subfamily of microbial rhodopsins; comparison with BR reveals mechanistic equivalence of ion transport
-- [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — BR is the proton-pumping archaeal rhodopsin; structural comparison reveals the mechanistic basis for chloride vs proton transport
-- [Pharaonis Halorhodopsin (phR)](/xray-mp-wiki/proteins/rhodopsins/pharaonis-halorhodopsin/) — Homologous light-driven chloride pump from Natronobacterium pharaonis; related halorhodopsin with similar function
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
-- [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) — Buffer component in purification or crystallization
-- [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Related ligand or cofactor
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/">Microbial Rhodopsins</a> — HR is a member of the archaeal rhodopsin subfamily of microbial rhodopsins; comparison with BR reveals mechanistic equivalence of ion transport
+- <a href="/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/">Bacteriorhodopsin</a> — BR is the proton-pumping archaeal rhodopsin; structural comparison reveals the mechanistic basis for chloride vs proton transport
+- <a href="/xray-mp-wiki/proteins/rhodopsins/pharaonis-halorhodopsin/">Pharaonis Halorhodopsin (phR)</a> — Homologous light-driven chloride pump from Natronobacterium pharaonis; related halorhodopsin with similar function
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> — Buffer component in purification or crystallization
+- <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a> — Related ligand or cofactor
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — Additive used in purification or crystallization buffers

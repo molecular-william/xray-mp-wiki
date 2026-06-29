@@ -1,7 +1,7 @@
 ---
 title: "Mouse TREX1 (Three Prime Repair Exonuclease 1)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,24 +16,66 @@ verified: false
 
 TREX1 (Three prime repair exonuclease 1) is a crucial mammalian enzyme consisting of an N-terminal nuclease domain and a C-terminal transmembrane domain. It acts as a 3'-to-5' exonuclease in the cytoplasm and nucleus, anchored at the endoplasmic reticulum (ER) membrane under normal conditions, where it degrades endogenous DNA to prevent nucleic acid-mediated immune activation. Dysfunction of TREX1 leads to accumulation of cytosolic nucleic acids and autoimmune diseases including Aicardi-Goutieres syndrome (AGS), systemic lupus erythematosus (SLE), and familial chilblain lupus (FCL). TREX1 is a member of the [DEDDh Exonuclease Family](/xray-mp-wiki/concepts/protein-families/deddh-exonuclease-family/) and adopts a general two-metal ion mechanism for catalysis. This paper establishes that TREX1 can digest single-stranded RNA (ssRNA) and DNA/RNA hybrids but not double-stranded RNA (dsRNA), through a combination of nuclease activity assays, X-ray crystallography, and all-atom molecular dynamics simulations.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1093##nar##gkad910 | 8HCC | 2.0 | P12(1)1 | mTREX1 (amino acids 11-242) with RNA product (AMP) |  |
-| doi/10.1093##nar##gkad910 | 8HCD | 2.0 | P12(1)1 | mTREX1 (amino acids 11-242) with DNA product (dGMP) |  |
-| doi/10.1093##nar##gkad910 | 8HCE | 1.5 | P2(1)2(1)2(1) | mTREX1 (amino acids 11-242) with CMP |  |
-| doi/10.1093##nar##gkad910 | 8HCF | 1.6 | P2(1)2(1)2(1) | mTREX1 (amino acids 11-242) with UMP |  |
-| doi/10.1093##nar##gkad910 | 8HCG | 1.8 | P3(2)21 | mTREX1 (amino acids 11-242) with dAMP |  |
-| doi/10.1093##nar##gkad910 | 8HCH | 2.0 | P12(1)1 | mTREX1 (amino acids 11-242) with uridine |  |
+### doi/10.1093##nar##gkad910
 
-## Expression and Purification
+**Structures:**
 
-No purification described.
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/8hcc">8HCC</a></td>
+      <td>2.0</td>
+      <td>P12(1)1</td>
+      <td>mTREX1 (amino acids 11-242) with RNA product (AMP)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/8hcd">8HCD</a></td>
+      <td>2.0</td>
+      <td>P12(1)1</td>
+      <td>mTREX1 (amino acids 11-242) with DNA product (dGMP)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/8hce">8HCE</a></td>
+      <td>1.5</td>
+      <td>P2(1)2(1)2(1)</td>
+      <td>mTREX1 (amino acids 11-242) with CMP</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/8hcf">8HCF</a></td>
+      <td>1.6</td>
+      <td>P2(1)2(1)2(1)</td>
+      <td>mTREX1 (amino acids 11-242) with UMP</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/8hcg">8HCG</a></td>
+      <td>1.8</td>
+      <td>P3(2)21</td>
+      <td>mTREX1 (amino acids 11-242) with dAMP</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/8hch">8HCH</a></td>
+      <td>2.0</td>
+      <td>P12(1)1</td>
+      <td>mTREX1 (amino acids 11-242) with uridine</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-## Crystallization
-
-No crystallization described.
 
 ## Biological / Functional Insights
 
@@ -56,6 +98,6 @@ DNA/RNA hybrids are processed by TREX1 with efficiency comparable to dsDNA diges
 
 ## Cross-References
 
-- [TREX1 RNase Activity](/xray-mp-wiki/concepts/enzyme-mechanisms/trex1-rnase-activity/) — This paper establishes the molecular basis of TREX1's RNase activity
-- [DEDDh Exonuclease Family](/xray-mp-wiki/concepts/protein-families/deddh-exonuclease-family/) — TREX1 is a member of the DEDDh family
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/trex1-rnase-activity/">TREX1 RNase Activity</a> — This paper establishes the molecular basis of TREX1's RNase activity
+- <a href="/xray-mp-wiki/concepts/protein-families/deddh-exonuclease-family/">DEDDh Exonuclease Family</a> — TREX1 is a member of the DEDDh family
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification

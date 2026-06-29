@@ -1,7 +1,7 @@
 ---
 title: "AcrA multidrug efflux pump periplasmic protein"
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,44 +16,112 @@ verified: false
 
 AcrA is a periplasmic membrane fusion protein from Escherichia coli that partners with the inner membrane RND transporter [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/acrB) and the outer membrane channel TolC to form the AcrAB-TolC tripartite multidrug efflux system. The crystal structure of the stable core construct AcrA(45-312) with quadruple methionine substitution was determined at 2.71 A resolution by multi-wavelength anomalous diffraction (MAD). AcrA adopts an elongated sickle-shaped monomer composed of three domains: a beta-barrel domain, a lipoyl domain, and an alpha-helical hairpin domain. The alpha-helical hairpin exhibits unsuspected conformational flexibility with four distinct orientations captured in the crystal, which has mechanistic significance for coupling AcrA conformations to TolC channel opening.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.str.2005.11.015 | 2HJ9 | 2.71 A | C222 | AcrA(45-312) quadruple methionine mutant (F223M/L224M/L287M/L288M) | None |
+### doi/10.1016##j.str.2005.11.015
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2hj9">2HJ9</a></td>
+      <td>2.71 A</td>
+      <td>C222</td>
+      <td>AcrA(45-312) quadruple methionine mutant (F223M/L224M/L287M/L288M)</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli BL21(DE3)
 - **Construct**: AcrA(26-397) with C-terminal [His Tag](/xray-mp-wiki/reagents/protein-tags/his-tag) (LEHHHHHH), or AcrA(45-312) with quadruple methionine substitution (F223M/L224M/L287M/L288M)
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Sonication of <a href="/xray-mp-wiki/organisms/e-coli/">E. coli</a> BL21(DE3) cells expressing AcrA(26-397)</td>
+      <td>--</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl</a> (pH 8.0), 150 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + --</td>
+      <td>Cytoplasmic expression of soluble <a href="/xray-mp-wiki/proteins/acra/">AcrA</a> fragment</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography">IMAC</a></td>
+      <td>Ni2+ chelation chromatography</td>
+      <td>Poros MC (<a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a>)</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl</a> (pH 8.0), 150 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + --</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/his-tag/">His-tag</a>ged AcrA purified from soluble fraction</td>
+    </tr>
+    <tr>
+      <td>Dialysis and concentration</td>
+      <td>Dialysis and Amicon <a href="/xray-mp-wiki/methods/purification/ultrafiltration/">ultrafiltration</a></td>
+      <td>--</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a> (pH 8.0), 150 mM NaCl + --</td>
+      <td>Concentrated using Amicon <a href="/xray-mp-wiki/methods/purification/ultrafiltration/">ultrafiltration</a> (MW cutoff 30 kDa; Millipore)</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200</a></td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a> (pH 8.0) + --</td>
+      <td>Purified to homogeneity, concentrated to 30 mg/mL</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Sonication of E. coli BL21(DE3) cells expressing AcrA(26-397) | -- | 50 mM Tris-HCl (pH 8.0), 150 mM NaCl, 10 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) + -- | Cytoplasmic expression of soluble AcrA fragment |
-| [IMAC](/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography) | Ni2+ chelation chromatography | Poros MC ([Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta)) | 50 mM Tris-HCl (pH 8.0), 150 mM NaCl, 10 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) + -- | His-tagged AcrA purified from soluble fraction |
-| Dialysis and concentration | Dialysis and Amicon ultrafiltration | -- | 50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris) (pH 8.0), 150 mM NaCl + -- | Concentrated using Amicon ultrafiltration (MW cutoff 30 kDa; Millipore) |
-| [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200) | 10 mM [Tris](/xray-mp-wiki/reagents/buffers/tris) (pH 8.0) + -- | Purified to homogeneity, concentrated to 30 mg/mL |
-
-
-## Crystallization
-
-### doi/10.1016##j.str.2005.11.015
-
-| Parameter | Value |
-|---|---|
-| Method | [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) |
-| Protein sample | 30 mg/mL AcrA(45-312)-4M in 10 mM [Tris](/xray-mp-wiki/reagents/buffers/tris) (pH 8.0) |
-| Reservoir | 30% MPD, 20 mM MgCl2, 100 mM [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate) (pH 5.4), 1 mM TCEP |
-| Temperature | 4 C |
-| Growth time | not specified |
-| Cryoprotection | Well buffer supplemented with 1 mM [TCEP](/xray-mp-wiki/reagents/additives/tcep), flash cooled in liquid nitrogen |
-| Notes | Space group C222, cell dimensions a=88.7 A, b=100.0 A, c=332.6 A. Four molecules per asymmetric unit, 60% solvent content. Data collected at APS-BM19 and ALS-8.2.2 beamlines. Multi-wavelength MAD phasing with [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine)-labeled protein. 16 Se sites located with SHELXL, refined with SHARP. R_work 23.7%, R_free 27.5% at 2.71 A resolution. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>30 mg/mL AcrA(45-312)-4M in 10 mM <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a> (pH 8.0)</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>30% MPD, 20 mM MgCl2, 100 mM <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate Buffer (Sodium Citrate)</a> (pH 5.4), 1 mM TCEP</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Well buffer supplemented with 1 mM <a href="/xray-mp-wiki/reagents/additives/tcep">TCEP</a>, flash cooled in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Space group C222, cell dimensions a=88.7 A, b=100.0 A, c=332.6 A. Four molecules per asymmetric unit, 60% solvent content. Data collected at APS-BM19 and ALS-8.2.2 beamlines. Multi-wavelength <a href="/xray-mp-wiki/methods/structure-determination/multi-wavelength-anomalous-diffraction/">MAD</a> phasing with <a href="/xray-mp-wiki/reagents/additives/selenomethionine">Selenomethionine (SeMet)</a>-labeled protein. 16 Se si<a href="/xray-mp-wiki/reagents/buffers/tes/">tes</a> located with SHELXL, refined with SHARP. R_work 23.7%, R_free 27.5% at 2.71 A resolution.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -116,13 +184,13 @@ that these positions are critical for AcrA function in the efflux system.
 
 ## Cross-References
 
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Inner membrane RND partner in the AcrAB-[TolC](/xray-mp-wiki/proteins/tolc) tripartite efflux system
-- [MexB Efflux Pump](/xray-mp-wiki/proteins/abc-transporters/mexB/) — P. aeruginosa RND inner membrane partner of MexA, homologous to [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/acrB)
-- [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) — Used for MAD phasing via [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine) labeling of quadruple methionine mutant
-- [Tris Buffer](/xray-mp-wiki/reagents/buffers/tris/) — Primary buffer (50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris) pH 8.0) used in expression, purification, and crystallization
-- [Magnesium Chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — 20 mM [MgCl2](/xray-mp-wiki/reagents/additives/magnesium-chloride) component of crystallization reservoir
-- [Citrate Buffer](/xray-mp-wiki/reagents/buffers/citrate/) — 100 mM [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate) (pH 5.4) component of crystallization reservoir
-- [2-Methyl-2,4-pentanediol (MPD)](/xray-mp-wiki/reagents/additives/mpd/) — 30% [MPD](/xray-mp-wiki/reagents/additives/mpd) used as precipitant in crystallization
-- [Thermolysin](/xray-mp-wiki/reagents/additives/thermolysin/) — Used for limited proteolytic digestion to map AcrA domain architecture
-- [MexA (P. aeruginosa)](/xray-mp-wiki/proteins/mexa) — Related membrane protein structure
-- [TolC Outer Membrane Channel](/xray-mp-wiki/proteins/tolc) — Related membrane protein structure
+- <a href="/xray-mp-wiki/proteins/abc-transporters/acrb/">AcrB multidrug efflux pump</a> — Inner membrane RND partner in the AcrAB-[TolC](/xray-mp-wiki/proteins/tolc) tripartite efflux system
+- <a href="/xray-mp-wiki/proteins/abc-transporters/mexB/">MexB Efflux Pump</a> — P. aeruginosa RND inner membrane partner of MexA, homologous to [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/acrB)
+- <a href="/xray-mp-wiki/reagents/additives/selenomethionine/">Selenomethionine (SeMet)</a> — Used for MAD phasing via [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine) labeling of quadruple methionine mutant
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Buffer</a> — Primary buffer (50 mM [Tris](/xray-mp-wiki/reagents/buffers/tris) pH 8.0) used in expression, purification, and crystallization
+- <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Magnesium Chloride</a> — 20 mM [MgCl2](/xray-mp-wiki/reagents/additives/magnesium-chloride) component of crystallization reservoir
+- <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer</a> — 100 mM [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate) (pH 5.4) component of crystallization reservoir
+- <a href="/xray-mp-wiki/reagents/additives/mpd/">2-Methyl-2,4-pentanediol (MPD)</a> — 30% [MPD](/xray-mp-wiki/reagents/additives/mpd) used as precipitant in crystallization
+- <a href="/xray-mp-wiki/reagents/additives/thermolysin/">Thermolysin</a> — Used for limited proteolytic digestion to map AcrA domain architecture
+- <a href="/xray-mp-wiki/proteins/mexa">MexA (P. aeruginosa)</a> — Related membrane protein structure
+- <a href="/xray-mp-wiki/proteins/tolc">TolC Outer Membrane Channel</a> — Related membrane protein structure

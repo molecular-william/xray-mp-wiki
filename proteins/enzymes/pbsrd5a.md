@@ -1,7 +1,7 @@
 ---
 title: "PbSRD5A Steroid 5α-Reductase (Proteobacteria bacterium)"
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,47 +17,97 @@ verified: false
 PbSRD5A is a steroid 5α-reductase from *Proteobacteria bacterium*, a homolog of human SRD5A1 and SRD5A2. It is a monomeric enzyme with seven transmembrane segments (TM1-7) that catalyzes the NADPH-dependent reduction of the 3-oxo-Δ⁴ carbon-carbon double bond in steroid hormones (testosterone, progesterone, 4-androstene-3,17-dione) to generate their corresponding 3-oxo-5α steroids. The crystal structure of PbSRD5A in complex with NADPH was determined at 2.0 Å resolution. TM1-4 enclose a hydrophobic substrate binding cavity, while TM5-7 coordinate the NADPH cofactor through an extensive hydrogen bond network. A conserved Q-E-Y catalytic motif (Q53-E54-Y87 in PbSRD5A; Q56-E57-Y91 in HsSRD5A2) is essential for substrate recognition and catalysis. The structure provides a framework for understanding disease-related mutations in human SRD5A2 associated with steroid 5α-reductase 2 deficiency.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##s41467-020-20675-2 | 7D7L | 2.00 | Unknown | Full-length PbSRD5A with N-terminal 10XHis tag | NADPH |
+### doi/10.1038##s41467-020-20675-2
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7d7l">7D7L</a></td>
+      <td>2.00</td>
+      <td>Unknown</td>
+      <td>Full-length PbSRD5A with N-terminal 10XHis tag</td>
+      <td>NADPH</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Spodoptera frugiperda (SF9) insect cells
 - **Construct**: N-terminal 10XHis tag, pFastBac vector, Bac-to-bac system
 - **Induction**: Baculovirus infection at 2 × 10⁶ cells/ml
 - **Media**: SF9 insect cell medium
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: SF9 insect cells
 - **Expression construct**: N-terminal 10XHis tag
 - **Tag info**: [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag)
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture and infection | Baculovirus infection | -- | -- | SF9 cells at 2 × 10⁶ cells/ml, 10 ml virus/L culture, 60 h post-infection |
-| Cell harvesting | Centrifugation | -- | -- | Frozen at -80°C until use |
-| Protein purification | Affinity chromatography | -- | -- | Purified via N-terminal 10XHis tag |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture and infection</td>
+      <td>Baculovirus infection</td>
+      <td>--</td>
+      <td>--</td>
+      <td>SF9 cells at 2 × 10⁶ cells/ml, 10 ml virus/L culture, 60 h post-infection</td>
+    </tr>
+    <tr>
+      <td>Cell harvesting</td>
+      <td>Centrifugation</td>
+      <td>--</td>
+      <td>--</td>
+      <td>Frozen at -80°C until use</td>
+    </tr>
+    <tr>
+      <td>Protein purification</td>
+      <td>Affinity chromatography</td>
+      <td>--</td>
+      <td>--</td>
+      <td>Purified via N-terminal 10XHis tag</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: Purified PbSRD5A
 **Purity**: Purified to homogeneity
 
+**Crystallization:**
 
-## Crystallization
-
-### doi/10.1038##s41467-020-20675-2
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) |
-| Notes | Crystallization conditions and details not fully specified in extracted text. Structure solved at 2.0 Å resolution. X-ray diffraction data collected at Shanghai Synchrotron Radiation Facility (SSRF). |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a></td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystallization conditions and details not fully specified in extracted text. Structure solved at 2.0 Å resolution. X-ray diffraction data collected at Shanghai Synchrotron Radiation Facility (SSRF).</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -92,9 +142,9 @@ PbSRD5A is inhibited by dutasteride (IC50 = 1.59 +/- 0.19 uM), which inhibits bo
 
 ## Cross-References
 
-- [NADPH](/xray-mp-wiki/reagents/cofactors/nadph/) — Essential cofactor for steroid reduction
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — LCP crystallization lipid; occupies substrate binding pocket
-- [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag/) — Affinity tag for purification
-- [Finasteride](/xray-mp-wiki/reagents/ligands/finasteride/) — SRD5A2-specific inhibitor
-- [Dutasteride](/xray-mp-wiki/reagents/ligands/dutasteride/) — Dual SRD5A1/SRD5A2 inhibitor
-- [Steroid 5alpha-Reductase Family](/xray-mp-wiki/concepts/steroid-reductase-family/) — Enzyme family classification
+- <a href="/xray-mp-wiki/reagents/cofactors/nadph/">NADPH</a> — Essential cofactor for steroid reduction
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — LCP crystallization lipid; occupies substrate binding pocket
+- <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">Polyhistidine Tag (His6)</a> — Affinity tag for purification
+- <a href="/xray-mp-wiki/reagents/ligands/finasteride/">Finasteride</a> — SRD5A2-specific inhibitor
+- <a href="/xray-mp-wiki/reagents/ligands/dutasteride/">Dutasteride</a> — Dual SRD5A1/SRD5A2 inhibitor
+- <a href="/xray-mp-wiki/concepts/steroid-reductase-family/">Steroid 5alpha-Reductase Family</a> — Enzyme family classification

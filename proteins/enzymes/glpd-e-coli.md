@@ -1,7 +1,7 @@
 ---
 title: "E. coli Glycerol-3-Phosphate Dehydrogenase (GlpD)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,47 +17,133 @@ verified: false
 E. coli glycerol-3-phosphate dehydrogenase (GlpD) is an essential monotopic membrane enzyme that catalyzes the oxidation of sn-glycerol-3-phosphate (G3P) to dihydroxyacetone phosphate (DHAP), with concurrent reduction of FAD to FADH2, and passes electrons on to ubiquinone in the respiratory electron transport chain. It functions at the central junction of respiration, glycolysis, and phospholipid biosynthesis, localized to the cytoplasmic membrane where it may constitute up to 10% of inner membrane proteins in constitutive strains. The enzyme comprises two major domains: an N-terminal FAD-binding domain (residues 1-388) containing the substrate-binding and membrane-embedded base regions, and a soluble C-terminal cap domain (residues 389-501). The dimeric enzyme is formed by monomers related by a noncrystallographic 2-fold axis. Seven crystal structures of the fully active enzyme were determined up to 1.75 A resolution, including complexes with substrate analogues (PEP, 2-PGA, GAP), product (DHAP), and ubiquinone analogues (menadione, HQNO), revealing conformational states, the catalytic mechanism, and the ubiquinone-binding site.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.0712331105 | 2QCU | 1.75 | I222 | Full-length E. coli GlpD (selenomethionine-labeled) | FAD (cofactor); beta-OG detergent molecules; native enzyme |
-| doi/10.1073##pnas.0712331105 | 2QCU | 2.1 | I222 | Full-length E. coli GlpD | FAD; DHAP (dihydroxyacetone phosphate, product) |
-| doi/10.1073##pnas.0712331105 | 2QCU | 2.1 | I222 | Full-length E. coli GlpD | FAD; PEP (phosphoenolpyruvate, substrate analogue) |
-| doi/10.1073##pnas.0712331105 | 2QCU | 2.3 | I222 | Full-length E. coli GlpD | FAD; 2-PGA (glyceric acid 2-phosphate, substrate analogue) |
-| doi/10.1073##pnas.0712331105 | 2QCU | 2.9 | I222 | Full-length E. coli GlpD | FAD; GAP (glyceraldehyde-3-phosphate, substrate analogue) |
-| doi/10.1073##pnas.0712331105 | 2QCU | 2.6 | I222 | Full-length E. coli GlpD | FAD; Menadione (MD, ubiquinone analogue) |
-| doi/10.1073##pnas.0712331105 | 2QCU | 2.9 | I222 | Full-length E. coli GlpD | FAD; HQNO (2-n-heptyl-4-hydroxyquinoline N-oxide, ubiquinone analogue) |
+### doi/10.1073##pnas.0712331105
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2qcu">2QCU</a></td>
+      <td>1.75</td>
+      <td>I222</td>
+      <td>Full-length E. coli GlpD (selenomethionine-labeled)</td>
+      <td>FAD (cofactor); beta-OG detergent molecules; native enzyme</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2qcu">2QCU</a></td>
+      <td>2.1</td>
+      <td>I222</td>
+      <td>Full-length E. coli GlpD</td>
+      <td>FAD; DHAP (dihydroxyacetone phosphate, product)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2qcu">2QCU</a></td>
+      <td>2.1</td>
+      <td>I222</td>
+      <td>Full-length E. coli GlpD</td>
+      <td>FAD; PEP (phosphoenolpyruvate, substrate analogue)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2qcu">2QCU</a></td>
+      <td>2.3</td>
+      <td>I222</td>
+      <td>Full-length E. coli GlpD</td>
+      <td>FAD; 2-PGA (glyceric acid 2-phosphate, substrate analogue)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2qcu">2QCU</a></td>
+      <td>2.9</td>
+      <td>I222</td>
+      <td>Full-length E. coli GlpD</td>
+      <td>FAD; GAP (glyceraldehyde-3-phosphate, substrate analogue)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2qcu">2QCU</a></td>
+      <td>2.6</td>
+      <td>I222</td>
+      <td>Full-length E. coli GlpD</td>
+      <td>FAD; Menadione (MD, ubiquinone analogue)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2qcu">2QCU</a></td>
+      <td>2.9</td>
+      <td>I222</td>
+      <td>Full-length E. coli GlpD</td>
+      <td>FAD; HQNO (2-n-heptyl-4-hydroxyquinoline N-oxide, ubiquinone analogue)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli
 - **Construct**: Full-length E. coli GlpD; selenomethionine-labeled for MAD phasing
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Solubilization and purification</td>
+      <td>Detergent solubilization and protein purification (details in SI)</td>
+      <td>--</td>
+      <td>Crystallization solution with PEG 6000 + <a href="/xray-mp-wiki/reagents/detergents/og/">beta-OG (n-octyl-beta-D-glucopyranoside)</a></td>
+      <td>Five beta-OG detergent molecules found interacting with GlpD dimer. Activity measured in 1% beta-OG. Enzyme can be functionally reconstituted with E. coli membrane vesicles.</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Solubilization and purification | Detergent solubilization and protein purification (details in SI) | -- | Crystallization solution with PEG 6000 + [beta-OG (n-octyl-beta-D-glucopyranoside)](/xray-mp-wiki/reagents/detergents/og/) | Five beta-OG detergent molecules found interacting with GlpD dimer. Activity measured in 1% beta-OG. Enzyme can be functionally reconstituted with E. coli membrane vesicles. |
-
-
-## Crystallization
-
-### doi/10.1073##pnas.0712331105
-
-| Parameter | Value |
-|---|---|
-| Method | Sitting-drop vapor diffusion |
-| Protein sample | Purified GlpD, DHAP-bound complex crystals |
-| Reservoir | Crystallization solution supplemented with 4% extra PEG 6000 |
-| Temperature | 4 |
-| Growth time | Crystals soaked for 42 h (MD) and 78 h (HQNO) |
-| Cryoprotection | 30% ethylene glycol (final concentration); crystals looped and flash-cooled in liquid nitrogen |
-| Notes | Soaking experiments: GlpD-DHAP crystals transferred to sitting drops containing 4 uL crystallization solution with 4% extra PEG 6000 and either MD or HQNO at 2.5 mM at 4 C. GAP soaking: similar protocol with 5 mM GAP. Crystals screened after 24 h. Native enzyme crystallized in space group I222 with ~55% solvent content and two molecules per asymmetric unit. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified GlpD, DHAP-bound complex crystals</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Crystallization solution supplemented with 4% extra PEG 6000</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Crystals soaked for 42 h (MD) and 78 h (HQNO)</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>30% ethylene glycol (final concentration); crystals looped and flash-cooled in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Soaking experiments: GlpD-DHAP crystals transferred to sitting drops containing 4 uL crystallization solution with 4% extra PEG 6000 and either MD or HQNO at 2.5 mM at 4 C. GAP soaking: similar protocol with 5 mM GAP. Crystals screened after 24 h. Native enzyme crystallized in space group I222 with ~55% solvent content and two molecules per asymmetric unit.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -80,8 +166,8 @@ Electrostatic surface calculations show distinct regions of highly positive patc
 
 ## Cross-References
 
-- [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — Beta-OG is the detergent used for solubilization and crystallization of GlpD; five molecules found per dimer
-- [Ethylene Glycol](/xray-mp-wiki/reagents/additives/ethylene-glycol/) — 30% ethylene glycol used as cryoprotectant for flash-freezing GlpD crystals
-- [PEG 6000](/xray-mp-wiki/reagents/additives/peg-6000/) — PEG 6000 used as crystallization precipitant in sitting-drop vapor diffusion
-- [Glycerol Facilitator (GlpF)](/xray-mp-wiki/proteins/other-ion-channels/glpf/) — GlpF is a membrane protein member of the glycerol metabolic pathway that facilitates glycerol transport upstream of GlpD
-- [Multi-Wavelength Anomalous Diffraction (MAD)](/xray-mp-wiki/methods/structure-determination/multi-wavelength-anomalous-diffraction/) — Three-wavelength MAD dataset used for phasing selenomethionine-labeled GlpD at SER-CAT beamline ID-22
+- <a href="/xray-mp-wiki/reagents/detergents/og/">n-Octyl beta-D-glucopyranoside (OG)</a> — Beta-OG is the detergent used for solubilization and crystallization of GlpD; five molecules found per dimer
+- <a href="/xray-mp-wiki/reagents/additives/ethylene-glycol/">Ethylene Glycol</a> — 30% ethylene glycol used as cryoprotectant for flash-freezing GlpD crystals
+- <a href="/xray-mp-wiki/reagents/additives/peg-6000/">PEG 6000</a> — PEG 6000 used as crystallization precipitant in sitting-drop vapor diffusion
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/glpf/">Glycerol Facilitator (GlpF)</a> — GlpF is a membrane protein member of the glycerol metabolic pathway that facilitates glycerol transport upstream of GlpD
+- <a href="/xray-mp-wiki/methods/structure-determination/multi-wavelength-anomalous-diffraction/">Multi-Wavelength Anomalous Diffraction (MAD)</a> — Three-wavelength MAD dataset used for phasing selenomethionine-labeled GlpD at SER-CAT beamline ID-22

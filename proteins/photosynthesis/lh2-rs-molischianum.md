@@ -1,7 +1,7 @@
 ---
 title: "B800-850 Light-Harvesting Complex II (LH2) from Rhodospirillum molischianum"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,41 +17,1031 @@ verified: false
 The B800-850 light-harvesting complex II (LH2) from Rhodospirillum molischianum is an octameric integral membrane protein that functions as a peripheral antenna complex in photosynthetic purple bacteria. The crystal structure was determined at 2.4 Å resolution by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) using a homology model based on the Rhodopseudomonas acidophila LH2 structure. The complex displays two concentric cylinders of sixteen membrane-spanning helical subunits, containing two rings of bacteriochlorophyll-a molecules — one ring of sixteen B850 BChl-as perpendicular to the membrane plane and one ring of eight B800 BChl-as nearly parallel to the membrane plane — plus eight membrane-spanning lycopenes. The B800 BChl-a is ligated by an aspartate residue (α-Asp6), in contrast to the formyl-methionine ligand found in Rps. acidophila.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##S0969-2126(96)00063-9 | 1LGH | 2.4 | P42₁2 | Native LH2 complex from Rhodospirillum molischianum. Octameric (α₈β₈) ring of α- and β-apoproteins with [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a (B800 and B850) and lycopene [Carotenoid](/xray-mp-wiki/reagents/ligands/carotenoid/) pigments. Asymmetric unit contains two αβ-heterodimers with 8-fold [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/). | [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) a (B800, B850), lycopene |
+### doi/10.1016##S0969-2126(96)00063-9
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1lgh">1LGH</a></td>
+      <td>2.4</td>
+      <td>P42₁2</td>
+      <td>Native LH2 complex from Rhodospirillum molischianum. Octameric (α₈β₈) ring of α- and β-apoproteins with <a href="/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/">Bacteriochlorophyll</a> a (B800 and B850) and lycopene <a href="/xray-mp-wiki/reagents/ligands/carotenoid/">Carotenoid</a> pigments. Asymmetric unit contains two αβ-heterodimers with 8-fold <a href="/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/">NCS</a>.</td>
+      <td><a href="/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/">Bacteriochlorophyll</a> a (B800, B850), lycopene</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Rhodospirillum molischianum (native expression)
 - **Construct**: Native LH2 complex, no affinity tags or modifications
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>LH2 complex purification</td>
+      <td>Ion exchange and detergent exchange</td>
+      <td>Mono-Q FPLC (Pharmacia), Q-Sepharose fast flow</td>
+      <td>10 mM phosphate buffer (pH 8.7) + <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> (initially), then UDAO after exchange</td>
+      <td>The material eluted from Mono-Q FPLC was dialysed against 10 mM phosphate buffer pH 8.7 containing 0.1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> and 0.1% sodium azide. Detergent was exchanged by absorbing onto Q-Sepharose, washing with buffer containing 0.2% UDAO instead of <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a>, and eluting with 150 mM potassium phosphate buffer pH 6.5 containing 0.2% UDAO and 0.1% sodium azide.</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| LH2 complex purification | Ion exchange and detergent exchange | Mono-Q FPLC (Pharmacia), Q-Sepharose fast flow | 10 mM phosphate buffer (pH 8.7) + [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) (initially), then UDAO after exchange | The material eluted from Mono-Q FPLC was dialysed against 10 mM phosphate buffer pH 8.7 containing 0.1% (w/v) [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) and 0.1% sodium azide. Detergent was exchanged by absorbing onto Q-Sepharose, washing with buffer containing 0.2% UDAO instead of [LDAO](/xray-mp-wiki/reagents/detergents/ldao/), and eluting with 150 mM potassium phosphate buffer pH 6.5 containing 0.2% UDAO and 0.1% sodium azide. |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion (sitting drop)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified LH2 complex at OD850 ~200 (20 mg/mL) in 150 mM potassium phosphate pH 6.5, 0.2% UDAO, with 3.2% (w/v) HPTO added</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>3.0-3.3 M <a href="/xray-mp-wiki/reagents/additives/ammonium-sulfate/">Ammonium Sulfate</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Room temperature</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Flash frozen; no explicit cryoprotection specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals in space group P42₁2 with two crystallographically independent octameric complexes per asymmetric unit. Data collected from selenomethionine-incorporated protein. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using a homology model. Rwork/Rfree = 21.1/23.2%. The α-apoprotein is 56 residues, the β-apoprotein 45 residues (first two residues not observed). 16 water molecules, 3 UDAO and 6 HPTO molecules per αβ-heterodimer.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1lgh">1LGH</a> — Chain A (1 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">SNPKDD</span><span class="topo-unknown">YKIWLV</span><span class="topo-outside">INPSTWL</span><span class="topo-membrane">PVIWIVATVVAIAVHAAVL</span><span class="topo-inside">AAPGFNWIALGAAKSAAK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>6</td>
+      <td>1</td>
+      <td>6</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>12</td>
+      <td>7</td>
+      <td>12</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>19</td>
+      <td>13</td>
+      <td>19</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>38</td>
+      <td>20</td>
+      <td>38</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>56</td>
+      <td>39</td>
+      <td>56</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1016##S0969-2126(96)00063-9
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1lgh">1LGH</a> — Chain B (1 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion (sitting drop) |
-| Protein sample | Purified LH2 complex at OD850 ~200 (20 mg/mL) in 150 mM potassium phosphate pH 6.5, 0.2% UDAO, with 3.2% (w/v) HPTO added |
-| Reservoir | 3.0-3.3 M [Ammonium Sulfate](/xray-mp-wiki/reagents/additives/ammonium-sulfate/) |
-| Temperature | Room temperature |
-| Growth time | Not specified |
-| Cryoprotection | Flash frozen; no explicit cryoprotection specified |
-| Notes | Crystals in space group P42₁2 with two crystallographically independent octameric complexes per asymmetric unit. Data collected from selenomethionine-incorporated protein. Structure solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) using a homology model. Rwork/Rfree = 21.1/23.2%. The α-apoprotein is 56 residues, the β-apoprotein 45 residues (first two residues not observed). 16 water molecules, 3 UDAO and 6 HPTO molecules per αβ-heterodimer. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">AE</span><span class="topo-outside">RSLSGLTEEEAIAVHDQF</span><span class="topo-membrane">KTTFSAFIILAAVAHVLVWV</span><span class="topo-inside">WKPWF</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>20</td>
+      <td>3</td>
+      <td>20</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>40</td>
+      <td>21</td>
+      <td>40</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>45</td>
+      <td>41</td>
+      <td>45</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1lgh">1LGH</a> — Chain D (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">SNPKDD</span><span class="topo-unknown">YKIWLV</span><span class="topo-outside">INPSTWL</span><span class="topo-membrane">PVIWIVATVVAIAVHAAVL</span><span class="topo-inside">AAPGFNWIALGAAKSAAK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>6</td>
+      <td>1</td>
+      <td>6</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>12</td>
+      <td>7</td>
+      <td>12</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>19</td>
+      <td>13</td>
+      <td>19</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>38</td>
+      <td>20</td>
+      <td>38</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>56</td>
+      <td>39</td>
+      <td>56</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1lgh">1LGH</a> — Chain E (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">AE</span><span class="topo-outside">RSLSGLTEEEAIAVHDQF</span><span class="topo-membrane">KTTFSAFIILAAVAHVLVWV</span><span class="topo-inside">WKPWF</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>20</td>
+      <td>3</td>
+      <td>20</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>40</td>
+      <td>21</td>
+      <td>40</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>45</td>
+      <td>41</td>
+      <td>45</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1lgh">1LGH</a> — Chain M (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">SNPKDD</span><span class="topo-unknown">YKIWLV</span><span class="topo-outside">INPSTWL</span><span class="topo-membrane">PVIWIVATVVAIAVHAAVL</span><span class="topo-inside">AAPGFNWIALGAAKSAAK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>6</td>
+      <td>1</td>
+      <td>6</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>12</td>
+      <td>7</td>
+      <td>12</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>19</td>
+      <td>13</td>
+      <td>19</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>38</td>
+      <td>20</td>
+      <td>38</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>56</td>
+      <td>39</td>
+      <td>56</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1lgh">1LGH</a> — Chain N (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">AE</span><span class="topo-outside">RSLSGLTEEEAIAVHDQF</span><span class="topo-membrane">KTTFSAFIILAAVAHVLVWV</span><span class="topo-inside">WKPWF</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>20</td>
+      <td>3</td>
+      <td>20</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>40</td>
+      <td>21</td>
+      <td>40</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>45</td>
+      <td>41</td>
+      <td>45</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1lgh">1LGH</a> — Chain P (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">SNPKDD</span><span class="topo-unknown">YKIWLV</span><span class="topo-outside">INPSTWL</span><span class="topo-membrane">PVIWIVATVVAIAVHAAVL</span><span class="topo-inside">AAPGFNWIALGAAKSAAK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>6</td>
+      <td>1</td>
+      <td>6</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>12</td>
+      <td>7</td>
+      <td>12</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>19</td>
+      <td>13</td>
+      <td>19</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>38</td>
+      <td>20</td>
+      <td>38</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>56</td>
+      <td>39</td>
+      <td>56</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1lgh">1LGH</a> — Chain Q (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">AE</span><span class="topo-outside">RSLSGLTEEEAIAVHDQF</span><span class="topo-membrane">KTTFSAFIILAAVAHVLVWV</span><span class="topo-inside">WKPWF</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>20</td>
+      <td>3</td>
+      <td>20</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>40</td>
+      <td>21</td>
+      <td>40</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>45</td>
+      <td>41</td>
+      <td>45</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1lgh">1LGH</a> — Chain R (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">SNPKDD</span><span class="topo-unknown">YKIWLV</span><span class="topo-outside">INPSTWL</span><span class="topo-membrane">PVIWIVATVVAIAVHAAVL</span><span class="topo-inside">AAPGFNWIALGAAKSAAK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>6</td>
+      <td>1</td>
+      <td>6</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>12</td>
+      <td>7</td>
+      <td>12</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>19</td>
+      <td>13</td>
+      <td>19</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>38</td>
+      <td>20</td>
+      <td>38</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>56</td>
+      <td>39</td>
+      <td>56</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1lgh">1LGH</a> — Chain S (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">AE</span><span class="topo-outside">RSLSGLTEEEAIAVHDQF</span><span class="topo-membrane">KTTFSAFIILAAVAHVLVWV</span><span class="topo-inside">WKPWF</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>20</td>
+      <td>3</td>
+      <td>20</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>40</td>
+      <td>21</td>
+      <td>40</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>45</td>
+      <td>41</td>
+      <td>45</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1lgh">1LGH</a> — Chain T (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">SNPKDD</span><span class="topo-unknown">YKIWLV</span><span class="topo-outside">INPSTWL</span><span class="topo-membrane">PVIWIVATVVAIAVHAAVL</span><span class="topo-inside">AAPGFNWIALGAAKSAAK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>6</td>
+      <td>1</td>
+      <td>6</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>12</td>
+      <td>7</td>
+      <td>12</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>19</td>
+      <td>13</td>
+      <td>19</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>38</td>
+      <td>20</td>
+      <td>38</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>56</td>
+      <td>39</td>
+      <td>56</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1lgh">1LGH</a> — Chain U (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">AE</span><span class="topo-outside">RSLSGLTEEEAIAVHDQF</span><span class="topo-membrane">KTTFSAFIILAAVAHVLVWV</span><span class="topo-inside">WKPWF</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>20</td>
+      <td>3</td>
+      <td>20</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>40</td>
+      <td>21</td>
+      <td>40</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>45</td>
+      <td>41</td>
+      <td>45</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1lgh">1LGH</a> — Chain V (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">SNPKDD</span><span class="topo-unknown">YKIWLV</span><span class="topo-outside">INPSTWL</span><span class="topo-membrane">PVIWIVATVVAIAVHAAVL</span><span class="topo-inside">AAPGFNWIALGAAKSAAK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>6</td>
+      <td>1</td>
+      <td>6</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>12</td>
+      <td>7</td>
+      <td>12</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>19</td>
+      <td>13</td>
+      <td>19</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>38</td>
+      <td>20</td>
+      <td>38</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>56</td>
+      <td>39</td>
+      <td>56</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1lgh">1LGH</a> — Chain W (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">AE</span><span class="topo-outside">RSLSGLTEEEAIAVHDQF</span><span class="topo-membrane">KTTFSAFIILAAVAHVLVWV</span><span class="topo-inside">WKPWF</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>20</td>
+      <td>3</td>
+      <td>20</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>40</td>
+      <td>21</td>
+      <td>40</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>45</td>
+      <td>41</td>
+      <td>45</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1lgh">1LGH</a> — Chain Y (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">SNPKDD</span><span class="topo-unknown">YKIWLV</span><span class="topo-outside">INPSTWL</span><span class="topo-membrane">PVIWIVATVVAIAVHAAVL</span><span class="topo-inside">AAPGFNWIALGAAKSAAK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>6</td>
+      <td>1</td>
+      <td>6</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>12</td>
+      <td>7</td>
+      <td>12</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>19</td>
+      <td>13</td>
+      <td>19</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>38</td>
+      <td>20</td>
+      <td>38</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>56</td>
+      <td>39</td>
+      <td>56</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1lgh">1LGH</a> — Chain X (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">AE</span><span class="topo-outside">RSLSGLTEEEAIAVHDQF</span><span class="topo-membrane">KTTFSAFIILAAVAHVLVWV</span><span class="topo-inside">WKPWF</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>20</td>
+      <td>3</td>
+      <td>20</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>40</td>
+      <td>21</td>
+      <td>40</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>45</td>
+      <td>41</td>
+      <td>45</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -82,13 +1072,13 @@ The α- and β-apoproteins have marginal sequence homology (26% and 31% identity
 
 ## Cross-References
 
-- [B800-850 LH2 Light-Harvesting Complex from Rhodopseudomonas acidophila](/xray-mp-wiki/proteins/photosynthesis/lh2-rps-acidophila/) — Related LH2 from a different purple bacterium; structural homolog
-- [Bacteriochlorophyll](/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/) — B800 and B850 bacteriochlorophyll a are the primary chromophores
-- [Carotenoid](/xray-mp-wiki/reagents/ligands/carotenoid/) — Lycopene is the major carotenoid in this complex
-- [Lycopene](/xray-mp-wiki/reagents/ligands/lycopene/) — Major carotenoid in the LH2 complex; functions in energy transfer and photoprotection
-- [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) — Initial solubilization detergent used during purification
-- [UDAO](/xray-mp-wiki/reagents/detergents/udao/) — Detergent used after exchange for crystallization
-- [Rps. viridis Photosynthetic Reaction Centre](/xray-mp-wiki/proteins/photosynthesis/rps-viridis-reaction-centre/) — Related photosynthetic membrane protein from purple bacteria
-- [Rhodobacter sphaeroides Reaction Centre with Zn-BChl](/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-center/) — Related photosynthetic complex from purple bacteria
-- [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) — Related biological concept
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/photosynthesis/lh2-rps-acidophila/">B800-850 LH2 Light-Harvesting Complex from Rhodopseudomonas acidophila</a> — Related LH2 from a different purple bacterium; structural homolog
+- <a href="/xray-mp-wiki/reagents/cofactors/bacteriochlorophyll/">Bacteriochlorophyll</a> — B800 and B850 bacteriochlorophyll a are the primary chromophores
+- <a href="/xray-mp-wiki/reagents/ligands/carotenoid/">Carotenoid</a> — Lycopene is the major carotenoid in this complex
+- <a href="/xray-mp-wiki/reagents/ligands/lycopene/">Lycopene</a> — Major carotenoid in the LH2 complex; functions in energy transfer and photoprotection
+- <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> — Initial solubilization detergent used during purification
+- <a href="/xray-mp-wiki/reagents/detergents/udao/">UDAO</a> — Detergent used after exchange for crystallization
+- <a href="/xray-mp-wiki/proteins/photosynthesis/rps-viridis-reaction-centre/">Rps. viridis Photosynthetic Reaction Centre</a> — Related photosynthetic membrane protein from purple bacteria
+- <a href="/xray-mp-wiki/proteins/photosynthesis/rhodobacter-sphaeroides-reaction-center/">Rhodobacter sphaeroides Reaction Centre with Zn-BChl</a> — Related photosynthetic complex from purple bacteria
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/">NCS</a> — Related biological concept
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification

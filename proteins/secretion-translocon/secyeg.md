@@ -1,7 +1,7 @@
 ---
 title: "Thermus thermophilus SecYEG Translocon Complex"
 created: 2026-05-27
-updated: 2026-06-09
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,84 +17,1198 @@ verified: false
 The SecYEG translocon from Thermus thermophilus is a heterotrimeric protein-conducting channel that mediates protein translocation across the bacterial plasma membrane and integration of membrane proteins. The complex comprises [SECY](/xray-mp-wiki/proteins/secy) (core channel-forming subunit with 10 transmembrane helices), [SECE](/xray-mp-wiki/proteins/sece) (essential accessory subunit that stabilizes SecY), and [SECG](/xray-mp-wiki/proteins/secg) (accessory subunit with 2 transmembrane helices and a large cytoplasmic loop). The 2008 structure of SecYE (without SecG) at 3.2 A revealed a 'pre-open' state of the translocon in complex with an anti-SecY Fab fragment, showing how SecA binding induces conformational changes. The 2015 structures at 2.7 A (resting) and 3.6 A (peptide-bound) further elucidated the complete SecYEG architecture in a lipidic cubic phase environment using [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein).
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.celrep.2015.10.025 | 5AWW | 2.7 A | I222 | Full-length Thermus thermophilus SecYEG complex; SecY(R252G)-His6, SecE, SecG; expressed in E. coli BL21(DE3) | None |
-| doi/10.1016##j.celrep.2015.10.025 | 5CH4 | 3.6 A | C222_1 | Full-length Thermus thermophilus SecYEG complex with peptide-bound state; SecY(R252G)-His6, SecE, SecG; expressed in E. coli BL21(DE3) | SecE N-terminal MFARL peptide |
-| doi/10.1038##nature07421 | 2ZJS | 3.2 A | Not specified in paper | Full-length Thermus thermophilus SecY(L2V/R252E) with C-terminal His6-tag (auto-cleaved), SecE; complexed with anti-SecY Fab fragment | None (apo-SecYE in pre-open state) |
+### doi/10.1016##j.celrep.2015.10.025
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5aww">5AWW</a></td>
+      <td>2.7 A</td>
+      <td>I222</td>
+      <td>Full-length Thermus thermophilus SecYEG complex; SecY(R252G)-His6, SecE, SecG; expressed in E. coli BL21(DE3)</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5ch4">5CH4</a></td>
+      <td>3.6 A</td>
+      <td>C222_1</td>
+      <td>Full-length Thermus thermophilus SecYEG complex with peptide-bound state; SecY(R252G)-His6, SecE, SecG; expressed in E. coli BL21(DE3)</td>
+      <td>SecE N-terminal MFARL peptide</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli BL21(DE3)
 - **Construct**: Thermus thermophilus SecY(R252G)-His6, SecE, SecG co-expressed from two plasmids (pAK22/pAK24); SecY contains R252G mutation in periplasmic loop
 
-### Purification Workflow
+**Purification:**
 
-#### Source: doi/10.1016##j.celrep.2015.10.025
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Membrane fraction preparation</td>
+      <td>Differential centrifugation</td>
+      <td>--</td>
+      <td>Not specified + --</td>
+      <td>Total membrane fraction from E. coli BL21(DE3) cells co-expressing <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Sec</a>YEG</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a> + 2% <a href="/xray-mp-wiki/reagents/detergents/ddm">n-dodecyl-beta-D-maltoside</a> (<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>)</td>
+      <td>1 hr at 4 C; ultracentrifugation at 138,000 x g for 30 min</td>
+    </tr>
+    <tr>
+      <td>Ni-NTA affinity chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity chromatography</a> (<a href="/xray-mp-wiki/reagents/protein-tags/his-tag">His-tag</a>)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA agarose</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>Equilibration with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>; wash with 40 mM imidazole; elution with 300 mM imidazole</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size-exclusion chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/resins/superdex-200">Superdex 200</a> 10/300 GL column</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>Concentrated to ~15 mg/ml using Amicon Ultra 50-kDa cutoff filter</td>
+    </tr>
+    <tr>
+      <td>Ion-exchange chromatography</td>
+      <td>Ion-exchange chromatography</td>
+      <td>HiTrap SP HP column</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 0.25% n-decyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/dm">DM</a>), 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 0.25% <a href="/xray-mp-wiki/reagents/detergents/dm">DM</a></td>
+      <td>Elution with linear gradient of 0-100% elution buffer (1 M NaCl, 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 0.25% <a href="/xray-mp-wiki/reagents/detergents/dm">DM</a>, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>); final sample dialyzed against 0.25% <a href="/xray-mp-wiki/reagents/detergents/dm">DM</a> and 5% glycerol</td>
+    </tr>
+  </tbody>
+</table>
 
+**Crystallization:**
 
-##### Steps
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">Lipidic cubic phase</a> crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Sec</a>YEG (~15 mg/ml) mixed with liquefied <a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a> at 2:3 protein-to-lipid ratio (w/w)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>About 10 days</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Cryocooled to 100 K for X-ray data collection</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>I222 space group; resting state structure at 2.7 A resolution; crystals grown using glass sandwich plates</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">Lipidic cubic phase</a> crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Sec</a>YEG mixed with liquefied <a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a> at defined protein-to-lipid ratio</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Cryocooled to 100 K for X-ray data collection</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>C222_1 space group; peptide-bound state structure at 3.6 A resolution</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane fraction preparation | Differential centrifugation | -- | Not specified + -- | Total membrane fraction from E. coli BL21(DE3) cells co-expressing SecYEG |
-| Solubilization | Detergent solubilization | -- | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 300 mM NaCl, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), 0.1 mM [PMSF](/xray-mp-wiki/reagents/additives/pmsf) + 2% n-dodecyl-beta-D-maltoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm)) | 1 hr at 4 C; ultracentrifugation at 138,000 x g for 30 min |
-| Ni-NTA affinity chromatography | Affinity chromatography (His-tag) | Ni-NTA agarose | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 300 mM NaCl, 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm), 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol) + 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm) | Equilibration with 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole); wash with 40 mM imidazole; elution with 300 mM imidazole |
-| Size-exclusion chromatography | Size-exclusion chromatography | Superdex 200 10/300 GL column | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 300 mM NaCl, 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm), 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol) + 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm) | Concentrated to ~15 mg/ml using Amicon Ultra 50-kDa cutoff filter |
-| Ion-exchange chromatography | Ion-exchange chromatography | HiTrap SP HP column | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 0.25% n-decyl-beta-D-maltoside (DM), 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol) + 0.25% DM | Elution with linear gradient of 0-100% elution buffer (1 M NaCl, 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 0.25% DM, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol)); final sample dialyzed against 0.25% DM and 5% glycerol |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5aww">5AWW</a> — Chain Y (10 TMs, alpha)**
 
-#### Source: doi/10.1038##nature07421
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">VKAFWSALQ</span><span class="topo-outside">IPELRQRVLFT</span><span class="topo-membrane">LLVLAAYRLGAFI</span><span class="topo-inside">PTPGVDLDKIQEFLRTAQGGVFGIIN</span></span>
+<span class="topo-line"><span class="topo-inside">LFSGGNFERFS</span><span class="topo-membrane">IFALGIMPYITAAIIM</span><span class="topo-outside">QILVTVVPALEKLSKEGEEGRRIINQY</span><span class="topo-membrane">TRIGGI</span></span>
+<span class="topo-line"><span class="topo-membrane">ALGAFQGF</span><span class="topo-inside">FLATAFLGAEGGRFLLPGWSPGPFFWFVVV</span><span class="topo-membrane">VTQVAGIALLLWMA</span><span class="topo-outside">ERITEYGI</span></span>
+<span class="topo-line"><span class="topo-outside">GNG</span><span class="topo-membrane">TSLIIFAGIVVEWLPQIL</span><span class="topo-inside">RTIGLIRTGEVNLV</span><span class="topo-membrane">AFLFFLAFIVLAFAGM</span><span class="topo-outside">AAVQQAERR</span></span>
+<span class="topo-line"><span class="topo-outside">IPVQYARKVVGGRVYGGQATYIPIKLNAAGV</span><span class="topo-membrane">IPIIFAAAILQIPIFL</span><span class="topo-inside">AAPFQDNPVLQGI</span></span>
+<span class="topo-line"><span class="topo-inside">ANFFNPTRP</span><span class="topo-membrane">SGLFIEVLLVILF</span><span class="topo-outside">TYVYTAVQFDPKRIAESLREYGGFIPGIRPGEPTVKFL</span></span>
+<span class="topo-line"><span class="topo-outside">EHIVSRLTLWGAL</span><span class="topo-membrane">FLGLVTLLPQIIQ</span><span class="topo-inside">NLTGIHS</span><span class="topo-membrane">IAFSGIGLLIVVGVA</span><span class="topo-outside">LDTLRQVESQLM</span></span>
+<span class="topo-line"><span class="topo-outside">LRSY</span><span class="topo-unknown">EGFLSRGRLRGRNRHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>10</td>
+      <td>2</td>
+      <td>10</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>21</td>
+      <td>11</td>
+      <td>21</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>34</td>
+      <td>22</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>71</td>
+      <td>35</td>
+      <td>71</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>87</td>
+      <td>72</td>
+      <td>87</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>114</td>
+      <td>88</td>
+      <td>114</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>115</td>
+      <td>128</td>
+      <td>115</td>
+      <td>128</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>129</td>
+      <td>158</td>
+      <td>129</td>
+      <td>158</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>159</td>
+      <td>172</td>
+      <td>159</td>
+      <td>172</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>173</td>
+      <td>183</td>
+      <td>173</td>
+      <td>183</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>184</td>
+      <td>201</td>
+      <td>184</td>
+      <td>201</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>202</td>
+      <td>215</td>
+      <td>202</td>
+      <td>215</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>231</td>
+      <td>216</td>
+      <td>231</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>232</td>
+      <td>271</td>
+      <td>232</td>
+      <td>271</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>272</td>
+      <td>287</td>
+      <td>272</td>
+      <td>287</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>288</td>
+      <td>309</td>
+      <td>288</td>
+      <td>309</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>310</td>
+      <td>322</td>
+      <td>310</td>
+      <td>322</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>323</td>
+      <td>373</td>
+      <td>323</td>
+      <td>373</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>374</td>
+      <td>386</td>
+      <td>374</td>
+      <td>386</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>387</td>
+      <td>393</td>
+      <td>387</td>
+      <td>393</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>394</td>
+      <td>408</td>
+      <td>394</td>
+      <td>408</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>409</td>
+      <td>424</td>
+      <td>409</td>
+      <td>424</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5aww">5AWW</a> — Chain E (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">M</span><span class="topo-unknown">FARLIRYFQEARAELA</span><span class="topo-outside">RVTWPTREQVVEGTQAI</span><span class="topo-membrane">LLFTLAFMVILGLYDTVF</span><span class="topo-inside">RFLIGLLR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>1</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>17</td>
+      <td>2</td>
+      <td>17</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>34</td>
+      <td>18</td>
+      <td>34</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>52</td>
+      <td>35</td>
+      <td>52</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>60</td>
+      <td>53</td>
+      <td>60</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5aww">5AWW</a> — Chain G (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MDLLYTLVIL</span><span class="topo-membrane">FYLGVAGLLVYLVL</span><span class="topo-outside">VQEPKQGAGDLMGGSADLFSARGVTGGLYR</span><span class="topo-membrane">LTVILG</span></span>
+<span class="topo-line"><span class="topo-membrane">VVFAALA</span><span class="topo-inside">LVIGLWPR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>10</td>
+      <td>1</td>
+      <td>10</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>24</td>
+      <td>11</td>
+      <td>24</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>25</td>
+      <td>54</td>
+      <td>25</td>
+      <td>54</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>67</td>
+      <td>55</td>
+      <td>67</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>75</td>
+      <td>68</td>
+      <td>75</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5ch4">5CH4</a> — Chain Y (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MVKAFWSALQIPELRQRV</span><span class="topo-membrane">LFTLLVLAAYRLGAFI</span><span class="topo-outside">PTPGVD</span><span class="topo-unknown">LDKIQEF</span><span class="topo-outside">LRTAQGGVFGIIN</span></span>
+<span class="topo-line"><span class="topo-outside">LFSGGNFERFS</span><span class="topo-membrane">IFALGIMPYITAAIIM</span><span class="topo-inside">QILVTVVPALEKLSKEGEEGRRIINQY</span><span class="topo-membrane">TRIGGI</span></span>
+<span class="topo-line"><span class="topo-membrane">ALGAFQGFFL</span><span class="topo-outside">ATAFLGAEGGRFLLPGWSPGPFFWFVV</span><span class="topo-membrane">VVTQVAGIALLLWMAERI</span><span class="topo-inside">TEYGI</span></span>
+<span class="topo-line"><span class="topo-inside">GNG</span><span class="topo-membrane">TSLIIFAGIVVEWLPQIL</span><span class="topo-outside">RTIGLIRTGEVNLV</span><span class="topo-membrane">AFLFFLAFIVLAFAGM</span><span class="topo-inside">AAVQQAERR</span></span>
+<span class="topo-line"><span class="topo-inside">IPVQYARGAAGYGGQATYIPIKLNAAGV</span><span class="topo-membrane">IPIIFAAAILQIPIFLA</span><span class="topo-outside">APFQDNPVLQGI</span><span class="topo-membrane">ANF</span></span>
+<span class="topo-line"><span class="topo-membrane">FNPTRPSGLFIEVLLVILF</span><span class="topo-inside">TYVYTAVQFDPKRIAESLREYGGFIPGIRPGEPTVKFLEHI</span></span>
+<span class="topo-line"><span class="topo-inside">VSRLTLWGAL</span><span class="topo-membrane">FLGLVTLLPQIIQNLT</span><span class="topo-outside">GI</span><span class="topo-membrane">HSIAFSGIGLLIVVGVA</span><span class="topo-inside">LDTLRQVESQLMLRS</span></span>
+<span class="topo-line"><span class="topo-inside">Y</span><span class="topo-unknown">EGFLSRGRLRGRNRHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>18</td>
+      <td>1</td>
+      <td>18</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>34</td>
+      <td>19</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>40</td>
+      <td>35</td>
+      <td>40</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>47</td>
+      <td>41</td>
+      <td>47</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>71</td>
+      <td>48</td>
+      <td>71</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>87</td>
+      <td>72</td>
+      <td>87</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>114</td>
+      <td>88</td>
+      <td>114</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>115</td>
+      <td>130</td>
+      <td>115</td>
+      <td>130</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>131</td>
+      <td>157</td>
+      <td>131</td>
+      <td>157</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>158</td>
+      <td>175</td>
+      <td>158</td>
+      <td>175</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>183</td>
+      <td>176</td>
+      <td>183</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>184</td>
+      <td>201</td>
+      <td>184</td>
+      <td>201</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>202</td>
+      <td>215</td>
+      <td>202</td>
+      <td>215</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>231</td>
+      <td>216</td>
+      <td>231</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>232</td>
+      <td>268</td>
+      <td>232</td>
+      <td>271</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>269</td>
+      <td>285</td>
+      <td>272</td>
+      <td>288</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>286</td>
+      <td>297</td>
+      <td>289</td>
+      <td>300</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>298</td>
+      <td>319</td>
+      <td>301</td>
+      <td>322</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>370</td>
+      <td>323</td>
+      <td>373</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>371</td>
+      <td>386</td>
+      <td>374</td>
+      <td>389</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>387</td>
+      <td>388</td>
+      <td>390</td>
+      <td>391</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>405</td>
+      <td>392</td>
+      <td>408</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>406</td>
+      <td>421</td>
+      <td>409</td>
+      <td>424</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5ch4">5CH4</a> — Chain E (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MFARLIRYFQEARAELARVTWPTREQVVEGTQAI</span><span class="topo-membrane">LLFTLAFMVILGLYDTVF</span><span class="topo-outside">RFLIGLLR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>34</td>
+      <td>1</td>
+      <td>34</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>52</td>
+      <td>35</td>
+      <td>52</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>60</td>
+      <td>53</td>
+      <td>60</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5ch4">5CH4</a> — Chain G (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">MDLLYTLVIL</span><span class="topo-membrane">FYLGVAGLLVYLVLV</span><span class="topo-inside">QEPKQGAGDLMGGSADLFSARGVTGGL</span><span class="topo-membrane">YRLTVILG</span></span>
+<span class="topo-line"><span class="topo-membrane">VVFAALA</span><span class="topo-outside">LVIGLWP</span><span class="topo-unknown">R</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>10</td>
+      <td>1</td>
+      <td>10</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>25</td>
+      <td>11</td>
+      <td>25</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>52</td>
+      <td>26</td>
+      <td>52</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>67</td>
+      <td>53</td>
+      <td>67</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>74</td>
+      <td>68</td>
+      <td>74</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
+### doi/10.1038##nature07421
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2zjs">2ZJS</a></td>
+      <td>3.2 A</td>
+      <td>Not specified in paper</td>
+      <td>Full-length Thermus thermophilus SecY(L2V/R252E) with C-terminal His6-tag (auto-cleaved), SecE; complexed with anti-SecY Fab fragment</td>
+      <td>None (apo-SecYE in pre-open state)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Escherichia coli BL21(DE3)
+- **Construct**: Thermus thermophilus SecY(R252G)-His6, SecE, SecG co-expressed from two plasmids (pAK22/pAK24); SecY contains R252G mutation in periplasmic loop
+
+**Purification:**
 
 - **Expression system**: Escherichia coli
 - **Expression construct**: Full-length T. thermophilus SecY(L2V/R252E)-His6, SecE; co-expressed from two plasmids (pTT159/pSTD343)
 - **Tag info**: C-terminal His6-tag on SecY; auto-cleaved during storage at 20 C for 2 weeks
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Membrane fraction preparation</td>
+      <td>Differential centrifugation</td>
+      <td>--</td>
+      <td>Not specified + --</td>
+      <td>Total membrane fraction from E. coli cells overproducing <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Sec</a>YE</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>Not specified + <a href="/xray-mp-wiki/reagents/detergents/ddm">n-dodecyl-beta-D-maltoside</a> (<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>)</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Sec</a>YE complex solubilized from membrane fraction with <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+    </tr>
+    <tr>
+      <td>Purification</td>
+      <td>Column chromatography (three steps)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> + gel filtration</td>
+      <td>Not specified + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>Three successive chromatography steps; His6-tag auto-cleaved after storage at 20 C for 2 weeks; re-chromatographed on <a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a></td>
+    </tr>
+    <tr>
+      <td>Fab complex purification</td>
+      <td>Gel filtration chromatography</td>
+      <td>Gel filtration column</td>
+      <td>Not specified + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Sec</a>YE mixed with stoichiometric excess of Fab; complex isolated by gel filtration</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane fraction preparation | Differential centrifugation | -- | Not specified + -- | Total membrane fraction from E. coli cells overproducing SecYE |
-| Solubilization | Detergent solubilization | -- | Not specified + n-dodecyl-beta-D-maltoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm)) | SecYE complex solubilized from membrane fraction with DDM |
-| Purification | Column chromatography (three steps) | Ni-NTA + gel filtration | Not specified + [DDM](/xray-mp-wiki/reagents/detergents/ddm) | Three successive chromatography steps; His6-tag auto-cleaved after storage at 20 C for 2 weeks; re-chromatographed on Ni-NTA |
-| Fab complex purification | Gel filtration chromatography | Gel filtration column | Not specified + [DDM](/xray-mp-wiki/reagents/detergents/ddm) | SecYE mixed with stoichiometric excess of Fab; complex isolated by gel filtration |
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor diffusion</a> crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified Fab-SecYE complex</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Cryocooled to 100 K for X-ray data collection at SPring-8 and PF</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Structure determined by <a href="/xray-mp-wiki/methods/phasing/multiple-anomalous-dispersion">MAD</a> method using SeMet-labelled <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Sec</a>YE crystals. Refined to Rwork/Rfree of 24.4%/28.0% at 3.2 A resolution. Asymmetric unit contains one Fab-SecYE complex. Data collected at beamline BL41XU (SPring-8) and NW12 (PF).</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-## Crystallization
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2zjs">2ZJS</a> — Chain Y (10 TMs, alpha)**
 
-### doi/10.1016##j.celrep.2015.10.025
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MV</span><span class="topo-unknown">KAFWSAL</span><span class="topo-inside">QIPELRQRV</span><span class="topo-membrane">LFTLLVLAAYRLGAFI</span><span class="topo-outside">PTPGVD</span><span class="topo-unknown">LDKIQEFLR</span><span class="topo-outside">TAQGGVFGIIN</span></span>
+<span class="topo-line"><span class="topo-outside">LFSGGNFERFS</span><span class="topo-membrane">IFALGIMPYITAAIIM</span><span class="topo-inside">QILVTVV</span><span class="topo-unknown">PALEKLS</span><span class="topo-inside">KEGEEGRRIINQY</span><span class="topo-membrane">TRIGGI</span></span>
+<span class="topo-line"><span class="topo-membrane">ALGAFQGFFL</span><span class="topo-outside">ATAFLGAEGGRFLLPGWSPGPFFWFVV</span><span class="topo-membrane">VVTQVAGIALLLWMAERI</span><span class="topo-inside">TEYGI</span></span>
+<span class="topo-line"><span class="topo-inside">GN</span><span class="topo-membrane">GTSLIIFAGIVVEWLPQIL</span><span class="topo-outside">RTIGLIRTGEVNL</span><span class="topo-membrane">VAFLFFLAFIVLAFAGM</span><span class="topo-inside">AAVQQAERR</span></span>
+<span class="topo-line"><span class="topo-inside">IPVQYAR</span><span class="topo-unknown">KVVGGRV</span><span class="topo-inside">YGGQATYIPIKLNAAGV</span><span class="topo-membrane">IPIIFAAAILQIPIFLA</span><span class="topo-outside">APFQDNPVLQGI</span></span>
+<span class="topo-line"><span class="topo-outside">ANF</span><span class="topo-membrane">FNPTRPSGLFIEVLLVILFT</span><span class="topo-inside">YVYTAVQFDPKRIAESLREYGGFIPGIRPGEPTVKFL</span></span>
+<span class="topo-line"><span class="topo-inside">EHIVSRLTLWGA</span><span class="topo-membrane">LFLGLVTLLPQIIQNLT</span><span class="topo-outside">GIH</span><span class="topo-membrane">SIAFSGIGLLIVVGVA</span><span class="topo-inside">LDTLRQVESQLM</span></span>
+<span class="topo-line"><span class="topo-inside">LR</span><span class="topo-unknown">SYEGFLSRGRLR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>9</td>
+      <td>3</td>
+      <td>9</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>18</td>
+      <td>10</td>
+      <td>18</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>34</td>
+      <td>19</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>40</td>
+      <td>35</td>
+      <td>40</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>49</td>
+      <td>41</td>
+      <td>49</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>71</td>
+      <td>50</td>
+      <td>71</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>87</td>
+      <td>72</td>
+      <td>87</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>94</td>
+      <td>88</td>
+      <td>94</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>101</td>
+      <td>95</td>
+      <td>101</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>102</td>
+      <td>114</td>
+      <td>102</td>
+      <td>114</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>115</td>
+      <td>130</td>
+      <td>115</td>
+      <td>130</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>131</td>
+      <td>157</td>
+      <td>131</td>
+      <td>157</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>158</td>
+      <td>175</td>
+      <td>158</td>
+      <td>175</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>182</td>
+      <td>176</td>
+      <td>182</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>183</td>
+      <td>201</td>
+      <td>183</td>
+      <td>201</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>202</td>
+      <td>214</td>
+      <td>202</td>
+      <td>214</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>215</td>
+      <td>231</td>
+      <td>215</td>
+      <td>231</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>232</td>
+      <td>247</td>
+      <td>232</td>
+      <td>247</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>248</td>
+      <td>254</td>
+      <td>248</td>
+      <td>254</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>255</td>
+      <td>271</td>
+      <td>255</td>
+      <td>271</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>272</td>
+      <td>288</td>
+      <td>272</td>
+      <td>288</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>289</td>
+      <td>303</td>
+      <td>289</td>
+      <td>303</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>304</td>
+      <td>323</td>
+      <td>304</td>
+      <td>323</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>324</td>
+      <td>372</td>
+      <td>324</td>
+      <td>372</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>373</td>
+      <td>389</td>
+      <td>373</td>
+      <td>389</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>390</td>
+      <td>392</td>
+      <td>390</td>
+      <td>392</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>393</td>
+      <td>408</td>
+      <td>393</td>
+      <td>408</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>409</td>
+      <td>422</td>
+      <td>409</td>
+      <td>422</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>423</td>
+      <td>434</td>
+      <td>423</td>
+      <td>434</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase crystallization |
-| Protein sample | Purified SecYEG (~15 mg/ml) mixed with liquefied [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) at 2:3 protein-to-lipid ratio (w/w) |
-| Temperature | 20 C |
-| Growth time | About 10 days |
-| Cryoprotection | Cryocooled to 100 K for X-ray data collection |
-| Notes | I222 space group; resting state structure at 2.7 A resolution; crystals grown using glass sandwich plates |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2zjs">2ZJS</a> — Chain E (1 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase crystallization |
-| Protein sample | Purified SecYEG mixed with liquefied [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) at defined protein-to-lipid ratio |
-| Temperature | 20 C |
-| Growth time | Not specified |
-| Cryoprotection | Cryocooled to 100 K for X-ray data collection |
-| Notes | C222_1 space group; peptide-bound state structure at 3.6 A resolution |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MFARLIRYFQE</span><span class="topo-inside">ARAELARVTWPTREQVVEGT</span><span class="topo-membrane">QAILLFTLAFMVILGLYDTVF</span><span class="topo-outside">RFLIG</span><span class="topo-unknown">LLR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>11</td>
+      <td>1</td>
+      <td>11</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>31</td>
+      <td>12</td>
+      <td>31</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>52</td>
+      <td>32</td>
+      <td>52</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>57</td>
+      <td>53</td>
+      <td>57</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>60</td>
+      <td>58</td>
+      <td>60</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##nature07421
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion crystallization |
-| Protein sample | Purified Fab-SecYE complex |
-| Reservoir | Not specified |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Cryocooled to 100 K for X-ray data collection at SPring-8 and PF |
-| Notes | Structure determined by MAD method using SeMet-labelled SecYE crystals. Refined to Rwork/Rfree of 24.4%/28.0% at 3.2 A resolution. Asymmetric unit contains one Fab-SecYE complex. Data collected at beamline BL41XU (SPring-8) and NW12 (PF). |
-
+</div>
 
 ## Biological / Functional Insights
 
@@ -125,14 +1239,14 @@ Intermolecular disulfide cross-linking experiments identified the SecA-SecY inte
 
 ## Cross-References
 
-- [Thermotoga maritima SecA ATPase](/xray-mp-wiki/proteins/secretion-translocon/thermotoga-maritima-seca/) — SecA is the cytoplasmic ATPase motor that binds SecYEG to drive protein translocation
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Primary lipid component for LCP crystallization matrix
-- [n-Dodecyl-beta-D-maltoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary solubilization detergent used for membrane protein extraction
-- [n-Decyl-beta-D-maltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Mild detergent used for crystallization sample preparation and ion-exchange chromatography
-- [MOPS (3-(N-morpholino)propanesulfonic acid)](/xray-mp-wiki/reagents/buffers/mops/) — Crystallization reservoir buffer component
-- [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) — Affinity chromatography resin for His-tagged SecY purification
-- [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) — Size-exclusion chromatography for complex purification and monodispersity assessment
-- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used for both SecYEG structures
-- [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) — Main buffer component in purification
-- [PMSF](/xray-mp-wiki/reagents/additives/pmsf) — Entity mentioned in text
-- [SECE](/xray-mp-wiki/proteins/sece) — Related protein
+- <a href="/xray-mp-wiki/proteins/secretion-translocon/thermotoga-maritima-seca/">Thermotoga maritima SecA ATPase</a> — SecA is the cytoplasmic ATPase motor that binds SecYEG to drive protein translocation
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — Primary lipid component for LCP crystallization matrix
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltoside (DDM)</a> — Primary solubilization detergent used for membrane protein extraction
+- <a href="/xray-mp-wiki/reagents/detergents/dm/">n-Decyl-beta-D-maltoside (DM)</a> — Mild detergent used for crystallization sample preparation and ion-exchange chromatography
+- <a href="/xray-mp-wiki/reagents/buffers/mops/">MOPS (3-(N-morpholino)propanesulfonic acid)</a> — Crystallization reservoir buffer component
+- <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Agarose Resin</a> — Affinity chromatography resin for His-tagged SecY purification
+- <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a> — Size-exclusion chromatography for complex purification and monodispersity assessment
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — Crystallization method used for both SecYEG structures
+- <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> — Main buffer component in purification
+- <a href="/xray-mp-wiki/reagents/additives/pmsf">PMSF</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/proteins/sece">SECE</a> — Related protein

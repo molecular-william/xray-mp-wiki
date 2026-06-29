@@ -1,7 +1,7 @@
 ---
 title: "C. elegans P-glycoprotein (P-gp)"
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,43 +17,108 @@ verified: false
 P-glycoprotein (P-gp) from Caenorhabditis elegans is an [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC) transporter that functions as a multidrug efflux pump. It belongs to the P-gp/MDR subfamily of ABC transporters and confers cellular resistance to a wide range of cytotoxic drugs including actinomycin D, [Paclitaxel](/xray-mp-wiki/reagents/ligands/paclitaxel/), and [Verapamil](/xray-mp-wiki/reagents/ligands/verapamil/). P-gp is a primary active transporter that uses [ATP](/xray-mp-wiki/reagents/ligands/atp/) hydrolysis to extrude hydrophobic compounds from cells, playing a critical role in multidrug resistance. The C. elegans P-gp structure was solved by X-ray crystallography at 3.4 A resolution, providing the first high-resolution view of an ABC transporter in a nucleotide-free conformation. The protein is N-glycosylated at residue N125 and expresses as a functional full-length protein when produced in Sf9 insect cells.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature11448 | 4MQ1 | 3.4 | P212121 | C. elegans P-glycoprotein, full-length, N125 glycosylated | None (nucleotide-free) |
+### doi/10.1038##nature11448
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4mq1">4MQ1</a></td>
+      <td>3.4</td>
+      <td>P212121</td>
+      <td>C. elegans P-glycoprotein, full-length, N125 glycosylated</td>
+      <td>None (nucleotide-free)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Baculovirus expression in Sf9 insect cells
 - **Construct**: Full-length C. elegans P-glycoprotein with GFP tag on C-terminus for expression monitoring
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Expression</td>
+      <td><a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/">Baculovirus expression</a> in <a href="/xray-mp-wiki/methods/expression-systems/sf9-expression-system/">Sf9</a> cells</td>
+      <td>--</td>
+      <td>Not specified + Not specified</td>
+      <td>P-gp expression monitored by <a href="/xray-mp-wiki/reagents/protein-tags/gfp/">GFP</a> fluorescence fused to C-terminus</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>Not specified + Not specified</td>
+      <td>Not specified in supplementary information</td>
+    </tr>
+    <tr>
+      <td>Purification</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/gfp/">GFP</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/gfp-trap/">GFP-Trap</a></td>
+      <td>Not specified + Not specified</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/gfp/">GFP</a>-tagged P-gp purified using <a href="/xray-mp-wiki/reagents/protein-tags/gfp-trap/">GFP-Trap beads</a></td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a> (<a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a>)</td>
+      <td>--</td>
+      <td>Not specified + Not specified</td>
+      <td>Final polishing step; <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> used for sample homogeneity assessment</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression | Baculovirus expression in Sf9 cells | -- | Not specified + Not specified | P-gp expression monitored by GFP fluorescence fused to C-terminus |
-| Solubilization | Detergent solubilization | -- | Not specified + Not specified | Not specified in supplementary information |
-| Purification | GFP affinity chromatography | GFP-Trap | Not specified + Not specified | GFP-tagged P-gp purified using GFP-Trap beads |
-| Size-exclusion chromatography | Size-exclusion chromatography (SEC) | -- | Not specified + Not specified | Final polishing step; SEC used for sample homogeneity assessment |
-
-
-## Crystallization
-
-### doi/10.1038##nature11448
-
-| Parameter | Value |
-|---|---|
-| Method | Not specified |
-| Protein sample | C. elegans P-glycoprotein, nucleotide-free |
-| Reservoir | Not specified |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Notes | Space group P212121, unit cell a=96.8, b=155.3, c=162.4 Angstroms. Structure determined by SeMet SAD and Hg anomalous diffraction. Resolution 3.4 A, Rwork/Rfree 24.9/28.2. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>C. elegans P-glycoprotein, nucleotide-free</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Space group P212121, unit cell a=96.8, b=155.3, c=162.4 Angstroms. Structure determined by <a href="/xray-mp-wiki/reagents/additives/selenomethionine/">SeMet</a> SAD and Hg anomalous diffraction. Resolution 3.4 A, Rwork/Rfree 24.9/28.2.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -80,13 +145,13 @@ A [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techni
 
 ## Cross-References
 
-- [ABCG2](/xray-mp-wiki/proteins/abc-transporters/abcg2/) — ABC transporter G subfamily; multidrug efflux pump with similar drug resistance function
-- [ABCG1](/xray-mp-wiki/proteins/abc-transporters/abcg1/) — ABC transporter G subfamily member; lipid transporter with structural similarities
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Multidrug efflux pump from E. coli; functional comparison with P-gp
-- [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — P-gp is a member of the ABC (ATP-binding cassette) superfamily of transporters
-- [Actinomycin D](/xray-mp-wiki/reagents/antibiotics/actinomycin-d/) — P-gp substrate; tested for cellular resistance in P-gp-expressing cells
-- [Paclitaxel](/xray-mp-wiki/reagents/ligands/paclitaxel/) — P-gp substrate; antimitotic drug whose cellular toxicity is reversed by P-gp
-- [GR (Halobacterium sp. GR Bacteriorhodopsin)](/xray-mp-wiki/proteins/rhodopsins/gr/) — Related protein structure
-- [AcrB multidrug efflux pump](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Related protein structure
-- [ABCG2](/xray-mp-wiki/proteins/abc-transporters/abcg2/) — Related protein structure
-- [ELIC (Erwinia chrysanthemi Pentameric Ligand-Gated Ion Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/elic/) — Related protein structure
+- <a href="/xray-mp-wiki/proteins/abc-transporters/abcg2/">ABCG2</a> — ABC transporter G subfamily; multidrug efflux pump with similar drug resistance function
+- <a href="/xray-mp-wiki/proteins/abc-transporters/abcg1/">ABCG1</a> — ABC transporter G subfamily member; lipid transporter with structural similarities
+- <a href="/xray-mp-wiki/proteins/abc-transporters/acrb/">AcrB multidrug efflux pump</a> — Multidrug efflux pump from E. coli; functional comparison with P-gp
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/">ABC Transporter Family</a> — P-gp is a member of the ABC (ATP-binding cassette) superfamily of transporters
+- <a href="/xray-mp-wiki/reagents/antibiotics/actinomycin-d/">Actinomycin D</a> — P-gp substrate; tested for cellular resistance in P-gp-expressing cells
+- <a href="/xray-mp-wiki/reagents/ligands/paclitaxel/">Paclitaxel</a> — P-gp substrate; antimitotic drug whose cellular toxicity is reversed by P-gp
+- <a href="/xray-mp-wiki/proteins/rhodopsins/gr/">GR (Halobacterium sp. GR Bacteriorhodopsin)</a> — Related protein structure
+- <a href="/xray-mp-wiki/proteins/abc-transporters/acrb/">AcrB multidrug efflux pump</a> — Related protein structure
+- <a href="/xray-mp-wiki/proteins/abc-transporters/abcg2/">ABCG2</a> — Related protein structure
+- <a href="/xray-mp-wiki/proteins/cys-loop-receptors/elic/">ELIC (Erwinia chrysanthemi Pentameric Ligand-Gated Ion Channel)</a> — Related protein structure

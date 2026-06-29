@@ -1,7 +1,7 @@
 ---
 title: "Human GABA_A Receptor Beta-3 Subunit"
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,56 +17,710 @@ verified: false
 The Human GABA_A Mouse 5-HT3A Receptor Beta-3 PH-E Subunit E of F-[ATP](/xray-mp-wiki/reagents/ligands/atp/) Synthase Peripheral Stalk (GABA_A R-β3) is a pentameric Turkey Beta1-Adrenergic Receptor Ligand-Free Basal State-Gated-Pore Mechanism [Chloride-Pumping Rhodopsin (ClR) from Nonlabens marinus](/xray-mp-wiki/proteins/rhodopsins/cir-nonlabens-marinus/) (ClR) from Nonlabens marinus (ClR) from Nonlabens marinus Ec2 that serves as the principal mediator of rapid inhibitory synaptic transmission In the Human brain. GABA_A [Desensitization in Cys-Loop Receptors](/xray-mp-wiki/concepts/signaling-receptors/desensitization-in-cys-loop-receptors/) in Cys-Loop Receptors in Cys-Loop Receptors belong to the Cys-Loop Receptor Family Mouse 5-HT3A Receptor [MFS](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) of pentameric Turkey Beta1-Adrenergic Receptor Ligand-Free Basal State-Gated-Pore Mechanism Ion [KirBac Potassium Channels](/xray-mp-wiki/proteins/voltage-gated-channels/kirbac-potassium-channels/) (pLGICs), which also includes NaAD AChBP [Desensitization in Cys-Loop Receptors](/xray-mp-wiki/concepts/signaling-receptors/desensitization-in-cys-loop-receptors/) in Cys-Loop Receptors in Cys-Loop Receptors and [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) (5-Hydroxytryptamine, 5-HT) (5-Hydroxytryptamine, 5-HT) (5-Hydroxytryptamine, 5-HT) 5-HT3 [Desensitization in Cys-Loop Receptors](/xray-mp-wiki/concepts/signaling-receptors/desensitization-in-cys-loop-receptors/) in Cys-Loop Receptors in Cys-Loop Receptors. The β3 PH-E Subunit E of F-[ATP](/xray-mp-wiki/reagents/ligands/atp/) Synthase Peripheral Stalk can form functional homomeric [KirBac Potassium Channels](/xray-mp-wiki/proteins/voltage-gated-channels/kirbac-potassium-channels/) and serves as a [Ball-and-Chain Model for SLC38A9](/xray-mp-wiki/concepts/transport-mechanisms/ball-and-chain-model/) for understanding Heteromeric AMPA Receptor Organization GABA_A Mouse 5-HT3A Receptor Dual-Topology Membrane Protein Architecture. This [Structure-Based Design of Third-Generation Antipsychotics](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) represents the first three-dimensional [Structure-Based Design of Third-Generation Antipsychotics](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) of any GABA_A Mouse 5-HT3A Receptor, revealing architectural elements unique to eukaryotic Cys-Loop Receptor Family [Desensitization in Cys-Loop Receptors](/xray-mp-wiki/concepts/signaling-receptors/desensitization-in-cys-loop-receptors/) in Cys-Loop Receptors in Cys-Loop Receptors and the structural basis of Ec2 [Desensitization in Cys-Loop Receptors](/xray-mp-wiki/concepts/signaling-receptors/desensitization-in-cys-loop-receptors/) in Cys-Loop Receptors in Cys-Loop Receptors.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##NATURE13293 | 4COF | 3.0 A | C2 | Full-length Human GABA_A Mouse 5-HT3A Receptor Beta-3 PH-E Subunit E of F-[ATP](/xray-mp-wiki/reagents/ligands/atp/) Synthase Peripheral Stalk (UniProt P28472, residues 26-447), N-terminally tagged with monoVenus fluorescent Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea, C-terminally tagged with Rho-1D4 epitope (TETSQVAPA). [Structure-Based Design of Third-Generation Antipsychotics](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) On GenBank M82919, codon-[G247 (Optimized Quinoline MsbA Inhibitor)](/xray-mp-wiki/reagents/ligands/g247-optimized-quinoline-msba-inhibitor/) (Optimized Quinoline MsbA Inhibitor) (Optimized Quinoline MsbA Inhibitor) for mammalian Sf9 Insect Cell Expression System.
- | [Benzamidine](/xray-mp-wiki/reagents/ligands/benzamidine/) (crystallization Ligand, EC50 = 61 uM Agonist) |
+### doi/10.1038##NATURE13293
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4cof">4COF</a></td>
+      <td>3.0 A</td>
+      <td>C2</td>
+      <td>Full-length Human GABA_A Mouse 5-HT3A Receptor Beta-3 PH-E Subunit E of F-<a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a> Synthase Peripheral Stalk (UniProt P28472, residues 26-447), N-terminally tagged with monoVenus fluorescent Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea, C-terminally tagged with Rho-1D4 epitope (TETSQVAPA). <a href="/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/">Structure-Based Design of Third-Generation Antipsychotics</a> On GenBank M82919, codon-<a href="/xray-mp-wiki/reagents/ligands/g247-optimized-quinoline-msba-inhibitor/">G247 (Optimized Quinoline MsbA Inhibitor)</a> (Optimized Quinoline MsbA Inhibitor) (Optimized Quinoline MsbA Inhibitor) for mammalian Sf9 Insect Cell Expression System.
+</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/benzamidine/">Benzamidine</a> (crystallization Ligand, EC50 = 61 uM Agonist)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: HEK293S-GnTI- cells
 - **Construct**: Synthetic cDNA encoding full-length Human GABA_A R Beta-3 PH-E Subunit E of F-[ATP](/xray-mp-wiki/reagents/ligands/atp/) Synthase Peripheral Stalk (GenBank M82919), codon-[G247 (Optimized Quinoline MsbA Inhibitor)](/xray-mp-wiki/reagents/ligands/g247-optimized-quinoline-msba-inhibitor/) (Optimized Quinoline MsbA Inhibitor) (Optimized Quinoline MsbA Inhibitor) for mammalian Sf9 Insect Cell Expression System. Cloned into pHILsec vector with ESX-1 Secretion System signal sequence. N-Terminal [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) Fusion for GPCR Crystallization monoVenus tag (10 JLK-6 acids) and C-terminal Rho-1D4 epitope tag (TETSQVAPA, 9 JLK-6 acids).
 
 
-### Purification Workflow
+**Purification:**
 
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell Sf9 Insect Cell Expression System | Transient transfection In HEK293S-GnTI- cells | -- | Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea Sf9 Insect Cell Expression System media (PEM, Invitrogen) with L-glutamine, Non-essential [JLK-6](/xray-mp-wiki/reagents/ligands/amino-methoxy-isocoumarin/) acids, 1% fetal calf serum + -- | 61 batches grown In suspension to 2 x 10^6 cells/ml. Transfected with PEI Max and plasmid DNA. 40-70% transfection Ligand Efficiency in Drug Discovery in Drug Discovery. 48-72 h post-transfection.
- |
-| Cell lysis and solubilization | Detergent solubilization of Solid-Supported Membrane Electrophysiology fraction | -- | 10 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) Ph 7.2, 300 mM NaCl, 1:100 mammalian [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) [G907 (Quinoline MsbA Inhibitor)](/xray-mp-wiki/reagents/ligands/g907-quinoline-msba-inhibitor/) (Quinoline MsbA Inhibitor) (Quinoline MsbA Inhibitor) + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Cells resuspended and solubilized for 2 h At 4 C. Insoluble material removed by centrifugation (10,000g, 15 min).
- |
-| Immuno-[Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) purification | Rho-1D4 [8B6 Monoclonal Antibody (SERT-specific)](/xray-mp-wiki/reagents/antibodies/8b6-antibody/) (SERT-specific) (SERT-specific)-coated [Hiload SP Sepharose Ion Exchange Resin](/xray-mp-wiki/reagents/additives/hiload-sp-sepharose/) beads | Rho-1D4 [8B6 Monoclonal Antibody (SERT-specific)](/xray-mp-wiki/reagents/antibodies/8b6-antibody/) (SERT-specific) (SERT-specific) coupled to CNBr-activated [Hiload SP Sepharose Ion Exchange Resin](/xray-mp-wiki/reagents/additives/hiload-sp-sepharose/) | 10 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) Ph 7.2, 300 mM NaCl, 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Incubated for 2 h At 4 C with purified Rho-1D4 [8B6 Monoclonal Antibody (SERT-specific)](/xray-mp-wiki/reagents/antibodies/8b6-antibody/) (SERT-specific) (SERT-specific) On beads. Washed with [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) (Tris-HCl Buffer) (Tris(hydroxymethyl)aminomethane) At 3x CMC. Eluted overnight with 500 uM TETSQVAPA Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncated GLP-1 Agonist Nonapeptide).
- |
-| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) 3.2/300 [SEC-MALS](/xray-mp-wiki/methods/quality-assessment/sec-mals/) | [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) 3.2/300 (GE Healthcare) | 10 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) Ph 7.2, 300 mM NaCl, 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | HPLC Sf9 Insect Cell Expression System with automated micro-volume loader and In-line [FSEC](/xray-mp-wiki/methods/quality-assessment/fluorescence-size-exclusion-chromatography/) detection (Shimadzu). Peak fractions concentrated to 3 mg/ml.
- |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell Sf9 Insect Cell Expression System</td>
+      <td>Transient transfection In HEK293S-GnTI- cells</td>
+      <td>--</td>
+      <td>Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea Sf9 Insect Cell Expression System media (PEM, Invitrogen) with L-glutamine, Non-essential <a href="/xray-mp-wiki/reagents/ligands/amino-methoxy-isocoumarin/">JLK-6</a> acids, 1% fetal calf serum + --</td>
+      <td>61 batches grown In suspension to 2 x 10^6 cells/ml. Transfected with PEI Max and plasmid DNA. 40-70% transfection Ligand Efficiency in Drug Discovery in Drug Discovery. 48-72 h post-transfection.
+</td>
+    </tr>
+    <tr>
+      <td>Cell lysis and solubilization</td>
+      <td>Detergent solubilization of Solid-Supported Membrane Electrophysiology fraction</td>
+      <td>--</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.2, 300 mM NaCl, 1:100 mammalian <a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> <a href="/xray-mp-wiki/reagents/ligands/g907-quinoline-msba-inhibitor/">G907 (Quinoline MsbA Inhibitor)</a> (Quinoline MsbA Inhibitor) (Quinoline MsbA Inhibitor) + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Cells resuspended and solubilized for 2 h At 4 C. Insoluble material removed by centrifugation (10,000g, 15 min).
+</td>
+    </tr>
+    <tr>
+      <td>Immuno-<a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> purification</td>
+      <td>Rho-1D4 <a href="/xray-mp-wiki/reagents/antibodies/8b6-antibody/">8B6 Monoclonal Antibody (SERT-specific)</a> (SERT-specific) (SERT-specific)-coated <a href="/xray-mp-wiki/reagents/additives/hiload-sp-sepharose/">Hiload SP Sepharose Ion Exchange Resin</a> beads</td>
+      <td>Rho-1D4 <a href="/xray-mp-wiki/reagents/antibodies/8b6-antibody/">8B6 Monoclonal Antibody (SERT-specific)</a> (SERT-specific) (SERT-specific) coupled to CNBr-activated <a href="/xray-mp-wiki/reagents/additives/hiload-sp-sepharose/">Hiload SP Sepharose Ion Exchange Resin</a></td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.2, 300 mM NaCl, 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Incubated for 2 h At 4 C with purified Rho-1D4 <a href="/xray-mp-wiki/reagents/antibodies/8b6-antibody/">8B6 Monoclonal Antibody (SERT-specific)</a> (SERT-specific) (SERT-specific) On beads. Washed with <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> (Tris-HCl Buffer) (Tris(hydroxymethyl)aminomethane) At 3x CMC. Eluted overnight with 500 uM TETSQVAPA Peptide 5 (Truncated GLP-1 Agonist Nonapeptide) (Truncated GLP-1 Agonist Nonapeptide).
+</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a> 3.2/300 <a href="/xray-mp-wiki/methods/quality-assessment/sec-mals/">SEC-MALS</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a> 3.2/300 (GE Healthcare)</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.2, 300 mM NaCl, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>HPLC Sf9 Insect Cell Expression System with automated micro-volume loader and In-line <a href="/xray-mp-wiki/methods/quality-assessment/fluorescence-size-exclusion-chromatography/">FSEC</a> detection (Shimadzu). Peak fractions concentrated to 3 mg/ml.
+</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: 3 mg/ml In 10 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) Ph 7.2, 300 mM NaCl, 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm/)
 
+**Crystallization:**
 
-## Crystallization
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">Sitting-Drop Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>GABA_A R-β3 Rice silicon channel Lsi1 crystallization construct (3 mg/ml) with <a href="/xray-mp-wiki/reagents/ligands/benzamidine/">Benzamidine</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>11.5% <a href="/xray-mp-wiki/reagents/additives/peg-4000/">PEG 4000 (Polyethylene Glycol 4000)</a> (Polyethylene Glycol 4000) (Polyethylene Glycol 4000) (Polyethylene Glycol 4000), 100 mM NaCl, 100 mM Li2SO4, 100 mM ACES <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> (Tris-HCl Buffer) (Tris(hydroxymethyl)aminomethane) (N-(2-Acetamido)iminodiacetic Acid) (N-(2-Acetamido)iminodiacetic acid) Ph 6.5, 2% (v/v) <a href="/xray-mp-wiki/reagents/ligands/benzamidine/">Benzamidine</a>
+</td>
+    </tr>
+    <tr>
+      <td>Mixing ratio</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Soaking In precipitant solution supplemented with 20% GlpF for 30 min before flash freezing In Liquid Sponge Phase Crystallization nitrogen
+</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td><a href="/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/">Structure-Based Design of Third-Generation Antipsychotics</a> solved At 3.0 A resolution by Molecular Replacement using <a href="/xray-mp-wiki/proteins/cys-loop-receptors/glucl/">GluCl (C. elegans Glutamate-Gated Chloride Channel)</a> (C. elegans Glutamate-Gated Chloride Channel) (C. elegans Glutamate-Gated Chloride Channel) (C. elegans Glutamate-Gated Chloride Channel) (PDB 3RIF) as search <a href="/xray-mp-wiki/concepts/transport-mechanisms/ball-and-chain-model/">Ball-and-Chain Model for SLC38A9</a>. R_work = 0.207, R_free = 0.227. 13972 atoms (13643 protein, 279 glycans, 45 Benzamidine, 5 Chloride).
+</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-### doi/10.1038##NATURE13293
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4cof">4COF</a> — Chain A (4 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) |
-| Protein sample | GABA_A R-β3 Rice silicon channel Lsi1 crystallization construct (3 mg/ml) with [Benzamidine](/xray-mp-wiki/reagents/ligands/benzamidine/) |
-| Reservoir | 11.5% [PEG 4000 (Polyethylene Glycol 4000)](/xray-mp-wiki/reagents/additives/peg-4000/) (Polyethylene Glycol 4000) (Polyethylene Glycol 4000) (Polyethylene Glycol 4000), 100 mM NaCl, 100 mM Li2SO4, 100 mM ACES [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) (Tris-HCl Buffer) (Tris(hydroxymethyl)aminomethane) (N-(2-Acetamido)iminodiacetic Acid) (N-(2-Acetamido)iminodiacetic acid) Ph 6.5, 2% (v/v) [Benzamidine](/xray-mp-wiki/reagents/ligands/benzamidine/)
- |
-| Mixing ratio | Not specified |
-| Temperature | 4 C |
-| Growth time | Not specified |
-| Cryoprotection | Soaking In precipitant solution supplemented with 20% GlpF for 30 min before flash freezing In Liquid Sponge Phase Crystallization nitrogen
- |
-| Notes | [Structure-Based Design of Third-Generation Antipsychotics](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) solved At 3.0 A resolution by Molecular Replacement using [GluCl (C. elegans Glutamate-Gated Chloride Channel)](/xray-mp-wiki/proteins/cys-loop-receptors/glucl/) (C. elegans Glutamate-Gated Chloride Channel) (C. elegans Glutamate-Gated Chloride Channel) (C. elegans Glutamate-Gated Chloride Channel) (PDB 3RIF) as search [Ball-and-Chain Model for SLC38A9](/xray-mp-wiki/concepts/transport-mechanisms/ball-and-chain-model/). R_work = 0.207, R_free = 0.227. 13972 atoms (13643 protein, 279 glycans, 45 Benzamidine, 5 Chloride).
- |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">ETG</span><span class="topo-inside">QSVNDPGNMSFVKETVDKLLKGYDIRLRPDFGGPPVCVGMNIDIASIDMVSEVNMDY</span></span>
+<span class="topo-line"><span class="topo-inside">TLTMYFQQYWRDKRLAYSGIPLNLTLDNRVADQLWVPDTYFLNDKKSFVHGVTVKNRMIR</span></span>
+<span class="topo-line"><span class="topo-inside">LHPDGTVLYGLRITTTAACMMDLRRYPLDEQNCTLEIESYGYTTDDIEFYWRGGDKAVTG</span></span>
+<span class="topo-line"><span class="topo-inside">VERIELPQFSIVEHRLVSRNVVFATGAYPRLSLSFRLKRNIGYFILQT</span><span class="topo-membrane">YMPSILITILSW</span></span>
+<span class="topo-line"><span class="topo-membrane">VSFWI</span><span class="topo-outside">NYDA</span><span class="topo-membrane">SAARVALGITTVLTMTTINT</span><span class="topo-inside">HLRETLPKIPYVKAID</span><span class="topo-membrane">MYLMGCFVFVFLALL</span></span>
+<span class="topo-line"><span class="topo-membrane">EYAFVN</span><span class="topo-outside">YIFFSQPARAAAI</span><span class="topo-membrane">DRWSRIVFPFTFSLFNLVYWLY</span><span class="topo-inside">YV</span><span class="topo-unknown">NGATETSQVAPA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>-2</td>
+      <td>0</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>228</td>
+      <td>1</td>
+      <td>225</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>229</td>
+      <td>245</td>
+      <td>226</td>
+      <td>242</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>246</td>
+      <td>249</td>
+      <td>243</td>
+      <td>246</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>250</td>
+      <td>269</td>
+      <td>247</td>
+      <td>266</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>270</td>
+      <td>285</td>
+      <td>267</td>
+      <td>282</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>286</td>
+      <td>306</td>
+      <td>283</td>
+      <td>303</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>307</td>
+      <td>317</td>
+      <td>304</td>
+      <td>314</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>318</td>
+      <td>319</td>
+      <td>422</td>
+      <td>423</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>341</td>
+      <td>424</td>
+      <td>445</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>342</td>
+      <td>343</td>
+      <td>446</td>
+      <td>447</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>355</td>
+      <td>448</td>
+      <td>459</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4cof">4COF</a> — Chain B (4 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">ETGQSVNDPGNM</span><span class="topo-inside">SFVKETVDKLLKGYDIRLRPDFGGPPVCVGMNIDIASIDMVSEVNMDY</span></span>
+<span class="topo-line"><span class="topo-inside">TLTMYFQQYWRDKRLAYSGIPLNLTLDNRVADQLWVPDTYFLNDKKSFVHGVTVKNRMIR</span></span>
+<span class="topo-line"><span class="topo-inside">LHPDGTVLYGLRITTTAACMMDLRRYPLDEQNCTLEIESYGYTTDDIEFYWRGGDKAVTG</span></span>
+<span class="topo-line"><span class="topo-inside">VERIELPQFSIVEHRLVSRNVVFATGAYPRLSLSFRLKRNIGYFILQT</span><span class="topo-membrane">YMPSILITILSW</span></span>
+<span class="topo-line"><span class="topo-membrane">VSFWI</span><span class="topo-outside">NYDA</span><span class="topo-membrane">SAARVALGITTVLTMTTINT</span><span class="topo-inside">HLRETLPKIPYVKAID</span><span class="topo-membrane">MYLMGCFVFVFLALL</span></span>
+<span class="topo-line"><span class="topo-membrane">EYAFVN</span><span class="topo-outside">YIFFSQPARAAAI</span><span class="topo-membrane">DRWSRIVFPFTFSLFNLVYWLY</span><span class="topo-inside">YV</span><span class="topo-unknown">NGATETSQVAPA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>-2</td>
+      <td>9</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>228</td>
+      <td>10</td>
+      <td>225</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>229</td>
+      <td>245</td>
+      <td>226</td>
+      <td>242</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>246</td>
+      <td>249</td>
+      <td>243</td>
+      <td>246</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>250</td>
+      <td>269</td>
+      <td>247</td>
+      <td>266</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>270</td>
+      <td>285</td>
+      <td>267</td>
+      <td>282</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>286</td>
+      <td>306</td>
+      <td>283</td>
+      <td>303</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>307</td>
+      <td>317</td>
+      <td>304</td>
+      <td>314</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>318</td>
+      <td>319</td>
+      <td>422</td>
+      <td>423</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>341</td>
+      <td>424</td>
+      <td>445</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>342</td>
+      <td>343</td>
+      <td>446</td>
+      <td>447</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>355</td>
+      <td>448</td>
+      <td>459</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4cof">4COF</a> — Chain C (4 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">ETGQSVNDPGNM</span><span class="topo-inside">SFVKETVDKLLKGYDIRLRPDFGGPPVCVGMNIDIASIDMVSEVNMDY</span></span>
+<span class="topo-line"><span class="topo-inside">TLTMYFQQYWRDKRLAYSGIPLNLTLDNRVADQLWVPDTYFLNDKKSFVHGVTVKNRMIR</span></span>
+<span class="topo-line"><span class="topo-inside">LHPDGTVLYGLRITTTAACMMDLRRYPLDEQNCTLEIESYGYTTDDIEFYWRGGDKAVTG</span></span>
+<span class="topo-line"><span class="topo-inside">VERIELPQFSIVEHRLVSRNVVFATGAYPRLSLSFRLKRNIGYFILQT</span><span class="topo-membrane">YMPSILITILSW</span></span>
+<span class="topo-line"><span class="topo-membrane">VSFWI</span><span class="topo-outside">NYDA</span><span class="topo-membrane">SAARVALGITTVLTMTTINT</span><span class="topo-inside">HLRETLPKIPYVKAID</span><span class="topo-membrane">MYLMGCFVFVFLALL</span></span>
+<span class="topo-line"><span class="topo-membrane">EYAFVN</span><span class="topo-outside">YIFFSQPARAAAI</span><span class="topo-membrane">DRWSRIVFPFTFSLFNLVYWLY</span><span class="topo-inside">YV</span><span class="topo-unknown">NGATETSQVAPA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>-2</td>
+      <td>9</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>228</td>
+      <td>10</td>
+      <td>225</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>229</td>
+      <td>245</td>
+      <td>226</td>
+      <td>242</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>246</td>
+      <td>249</td>
+      <td>243</td>
+      <td>246</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>250</td>
+      <td>269</td>
+      <td>247</td>
+      <td>266</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>270</td>
+      <td>285</td>
+      <td>267</td>
+      <td>282</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>286</td>
+      <td>306</td>
+      <td>283</td>
+      <td>303</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>307</td>
+      <td>317</td>
+      <td>304</td>
+      <td>314</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>318</td>
+      <td>319</td>
+      <td>422</td>
+      <td>423</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>341</td>
+      <td>424</td>
+      <td>445</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>342</td>
+      <td>343</td>
+      <td>446</td>
+      <td>447</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>355</td>
+      <td>448</td>
+      <td>459</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4cof">4COF</a> — Chain D (4 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">ETGQSVNDPGNM</span><span class="topo-inside">SFVKETVDKLLKGYDIRLRPDFGGPPVCVGMNIDIASIDMVSEVNMDY</span></span>
+<span class="topo-line"><span class="topo-inside">TLTMYFQQYWRDKRLAYSGIPLNLTLDNRVADQLWVPDTYFLNDKKSFVHGVTVKNRMIR</span></span>
+<span class="topo-line"><span class="topo-inside">LHPDGTVLYGLRITTTAACMMDLRRYPLDEQNCTLEIESYGYTTDDIEFYWRGGDKAVTG</span></span>
+<span class="topo-line"><span class="topo-inside">VERIELPQFSIVEHRLVSRNVVFATGAYPRLSLSFRLKRNIGYFILQT</span><span class="topo-membrane">YMPSILITILSW</span></span>
+<span class="topo-line"><span class="topo-membrane">VSFWI</span><span class="topo-outside">NYDA</span><span class="topo-membrane">SAARVALGITTVLTMTTINT</span><span class="topo-inside">HLRETLPKIPYVKAID</span><span class="topo-membrane">MYLMGCFVFVFLALL</span></span>
+<span class="topo-line"><span class="topo-membrane">EYAFVN</span><span class="topo-outside">YIFFSQPARAAAI</span><span class="topo-membrane">DRWSRIVFPFTFSLFNLVYWLY</span><span class="topo-inside">YVN</span><span class="topo-unknown">GATETSQVAPA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>-2</td>
+      <td>9</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>228</td>
+      <td>10</td>
+      <td>225</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>229</td>
+      <td>245</td>
+      <td>226</td>
+      <td>242</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>246</td>
+      <td>249</td>
+      <td>243</td>
+      <td>246</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>250</td>
+      <td>269</td>
+      <td>247</td>
+      <td>266</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>270</td>
+      <td>285</td>
+      <td>267</td>
+      <td>282</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>286</td>
+      <td>306</td>
+      <td>283</td>
+      <td>303</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>307</td>
+      <td>317</td>
+      <td>304</td>
+      <td>314</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>318</td>
+      <td>319</td>
+      <td>422</td>
+      <td>423</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>341</td>
+      <td>424</td>
+      <td>445</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>342</td>
+      <td>344</td>
+      <td>446</td>
+      <td>448</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>345</td>
+      <td>355</td>
+      <td>449</td>
+      <td>459</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4cof">4COF</a> — Chain E (4 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">ETGQSVNDPGNM</span><span class="topo-inside">SFVKETVDKLLKGYDIRLRPDFGGPPVCVGMNIDIASIDMVSEVNMDY</span></span>
+<span class="topo-line"><span class="topo-inside">TLTMYFQQYWRDKRLAYSGIPLNLTLDNRVADQLWVPDTYFLNDKKSFVHGVTVKNRMIR</span></span>
+<span class="topo-line"><span class="topo-inside">LHPDGTVLYGLRITTTAACMMDLRRYPLDEQNCTLEIESYGYTTDDIEFYWRGGDKAVTG</span></span>
+<span class="topo-line"><span class="topo-inside">VERIELPQFSIVEHRLVSRNVVFATGAYPRLSLSFRLKRNIGYFILQT</span><span class="topo-membrane">YMPSILITILSW</span></span>
+<span class="topo-line"><span class="topo-membrane">VSFWI</span><span class="topo-outside">NYDA</span><span class="topo-membrane">SAARVALGITTVLTMTTINT</span><span class="topo-inside">HLRETLPKIPYVKAID</span><span class="topo-membrane">MYLMGCFVFVFLALL</span></span>
+<span class="topo-line"><span class="topo-membrane">EYAFVN</span><span class="topo-outside">YIFFSQPARAAAI</span><span class="topo-membrane">DRWSRIVFPFTFSLFNLVYWLY</span><span class="topo-inside">YV</span><span class="topo-unknown">NGATETSQVAPA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>-2</td>
+      <td>9</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>228</td>
+      <td>10</td>
+      <td>225</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>229</td>
+      <td>245</td>
+      <td>226</td>
+      <td>242</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>246</td>
+      <td>249</td>
+      <td>243</td>
+      <td>246</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>250</td>
+      <td>269</td>
+      <td>247</td>
+      <td>266</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>270</td>
+      <td>285</td>
+      <td>267</td>
+      <td>282</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>286</td>
+      <td>306</td>
+      <td>283</td>
+      <td>303</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>307</td>
+      <td>317</td>
+      <td>304</td>
+      <td>314</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>318</td>
+      <td>319</td>
+      <td>422</td>
+      <td>423</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>320</td>
+      <td>341</td>
+      <td>424</td>
+      <td>445</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>342</td>
+      <td>343</td>
+      <td>446</td>
+      <td>447</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>355</td>
+      <td>448</td>
+      <td>459</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -89,13 +743,13 @@ A [Water Networks in GPCR Ligand Binding](/xray-mp-wiki/concepts/signaling-recep
 
 ## Cross-References
 
-- [Benzamidine](/xray-mp-wiki/reagents/ligands/benzamidine/) — Novel GABA_A R agonist ligand; EC50 = 61 uM; crystallization additive at 2%
-- [ACES Buffer (N-(2-Acetamido)iminodiacetic Acid)](/xray-mp-wiki/reagents/buffers/aces/) — Crystallization buffer at 100 mM, pH 6.5
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Structure solved by MR using GluCl (PDB 3RIF) as search model
-- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — SEC on Superdex 200 3.2/300 for final purification step
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary solubilization detergent at 1%
-- [N-Dodecyl-D-maltopyranoside (DMNG)](/xray-mp-wiki/reagents/detergents/dmng/) — Used in thermostabilization assay buffer at 0.007%
-- [Cholesterol Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Used in thermostabilization assay buffer at 0.0006%
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Cryoprotectant at 20% in crystallization
-- [beta-FOA (beta-Fuoxymorphamine)](/xray-mp-wiki/reagents/ligands/beta-foa/) — Referenced in gabar-b3 description
-- [Structure-Based Design of Third-Generation Antipsychotics](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) — Referenced in gabar-b3 description
+- <a href="/xray-mp-wiki/reagents/ligands/benzamidine/">Benzamidine</a> — Novel GABA_A R agonist ligand; EC50 = 61 uM; crystallization additive at 2%
+- <a href="/xray-mp-wiki/reagents/buffers/aces/">ACES Buffer (N-(2-Acetamido)iminodiacetic Acid)</a> — Crystallization buffer at 100 mM, pH 6.5
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Structure solved by MR using GluCl (PDB 3RIF) as search model
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> — SEC on Superdex 200 3.2/300 for final purification step
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Primary solubilization detergent at 1%
+- <a href="/xray-mp-wiki/reagents/detergents/dmng/">N-Dodecyl-D-maltopyranoside (DMNG)</a> — Used in thermostabilization assay buffer at 0.007%
+- <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesterol Hemisuccinate (CHS)</a> — Used in thermostabilization assay buffer at 0.0006%
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Cryoprotectant at 20% in crystallization
+- <a href="/xray-mp-wiki/reagents/ligands/beta-foa/">beta-FOA (beta-Fuoxymorphamine)</a> — Referenced in gabar-b3 description
+- <a href="/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/">Structure-Based Design of Third-Generation Antipsychotics</a> — Referenced in gabar-b3 description

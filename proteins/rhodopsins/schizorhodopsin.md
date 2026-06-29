@@ -1,7 +1,7 @@
 ---
 title: "Schizorhodopsin SzR4 (AM_5_00977)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -31,43 +31,531 @@ enables an "untrapped inward H+ release" mechanism: H+ is released from the
 without being metastably trapped at E81, unlike other proton pumps.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.2016328118 | 7E4G | 2.1 |  | Full-length SzR4 (AM_5_00977) | all-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) |
+### doi/10.1073##pnas.2016328118
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7e4g">7E4G</a></td>
+      <td>2.1</td>
+      <td></td>
+      <td>Full-length SzR4 (AM_5_00977)</td>
+      <td>all-trans <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli C41(Rosetta)
 - **Construct**: SzR4 with C-terminal TEV cleavage site followed by GFP-His10 tag in pET21a(+)
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell growth and membrane preparation</td>
+      <td>E. coli C41(Rosetta) transformed with pET21a(+)-SzR4, grown at 25 C for 20 h with 1 mM <a href="/xray-mp-wiki/reagents/additives/iptg/">IPTG</a> induction and 10 uM all-trans <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a> supplementation. Cells disrupted by sonication in 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 20% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>. Crude membrane fraction collected by ultracentrifugation at 180,000g for 1 h.</td>
+      <td>--</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 20% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + --</td>
+      <td>Cells harvested and disrupted by sonication</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Membrane fraction solubilized for 1 h at 4 C in buffer containing detergent</td>
+      <td>--</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 20% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Solubilized for 1 h at 4 C</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Eluate from affinity step treated with TEV protease and dialyzed overnight. Cleaved GFP and protease removed with Co2+-NTA resin.</td>
+      <td>Co2+-NTA</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 150 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>TEV cleavage removed GFP-His10 tag</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>Flow-through concentrated and loaded onto Superdex200 10/300 Increase column</td>
+      <td>Superdex200 10/300 Increase</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 150 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Peak fractions pooled and concentrated to 30 mg/mL</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell growth and membrane preparation | E. coli C41(Rosetta) transformed with pET21a(+)-SzR4, grown at 25 C for 20 h with 1 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg/) induction and 10 uM all-trans [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) supplementation. Cells disrupted by sonication in 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 20% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/). Crude membrane fraction collected by ultracentrifugation at 180,000g for 1 h. | -- | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 20% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + -- | Cells harvested and disrupted by sonication |
-| Solubilization | Membrane fraction solubilized for 1 h at 4 C in buffer containing detergent | -- | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 20% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Solubilized for 1 h at 4 C |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Eluate from affinity step treated with TEV protease and dialyzed overnight. Cleaved GFP and protease removed with Co2+-NTA resin. | Co2+-NTA | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 150 mM NaCl, 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | TEV cleavage removed GFP-His10 tag |
-| Size-exclusion chromatography | Flow-through concentrated and loaded onto Superdex200 10/300 Increase column | Superdex200 10/300 Increase | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 150 mM NaCl, 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Peak fractions pooled and concentrated to 30 mg/mL |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP) crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>30 mg/mL SzR4 in 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.5, 150 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> (protein:lipid ratio 1:1.5)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Crystals harvested directly from LCP and frozen in liquid nitrogen without added cryoprotectant</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown in LCP using Gryphon robot. 30 nL protein-laden mesophase drops overlaid with 800 nL precipitant solution in 96-well glass plates. Data collected at SPring-8 BL32XU with EIGER X 9M detector at 1.0 A wavelength. 148 small-wedge datasets (10 deg/crystal) processed with KAMO, XDS, and XSCALE. Structure determined by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> with PHASER using BR structure (PDB 1M0K).</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7e4g">7E4G</a> — Chain A (7 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MEQI</span><span class="topo-membrane">IFYLGIGMFILSTIMFFF</span><span class="topo-outside">LKKKNAKLAS</span><span class="topo-membrane">INIIVSFVTIVSYILML</span><span class="topo-inside">SGLFTLSATSG</span></span>
+<span class="topo-line"><span class="topo-inside">DTIY</span><span class="topo-membrane">WTRWAFYAVSCSFLMV</span><span class="topo-outside">EISYLLRIDNTTRL</span><span class="topo-membrane">EILVFNSMVMITGLFAS</span><span class="topo-inside">ISEDLY</span><span class="topo-membrane">KWL</span></span>
+<span class="topo-line"><span class="topo-membrane">FFIISSVAYLNVLFL</span><span class="topo-outside">IAKNRSEKKAII</span><span class="topo-membrane">LFVAIFWSGFPIVWILS</span><span class="topo-inside">PAGLMVLNAFW</span><span class="topo-membrane">TALFY</span></span>
+<span class="topo-line"><span class="topo-membrane">LVLDFITKIYFGF</span><span class="topo-outside">HTTFKH</span><span class="topo-unknown">IEQLEHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>1</td>
+      <td>4</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>22</td>
+      <td>5</td>
+      <td>22</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>32</td>
+      <td>23</td>
+      <td>32</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>49</td>
+      <td>33</td>
+      <td>49</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>64</td>
+      <td>50</td>
+      <td>64</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>80</td>
+      <td>65</td>
+      <td>80</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>94</td>
+      <td>81</td>
+      <td>94</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>111</td>
+      <td>95</td>
+      <td>111</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>112</td>
+      <td>117</td>
+      <td>112</td>
+      <td>117</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>118</td>
+      <td>135</td>
+      <td>118</td>
+      <td>135</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>147</td>
+      <td>136</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>164</td>
+      <td>148</td>
+      <td>164</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>175</td>
+      <td>165</td>
+      <td>175</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>193</td>
+      <td>176</td>
+      <td>193</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>194</td>
+      <td>199</td>
+      <td>194</td>
+      <td>199</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1073##pnas.2016328118
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7e4g">7E4G</a> — Chain B (7 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) crystallization |
-| Protein sample | 30 mg/mL SzR4 in 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 150 mM NaCl, 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) (protein:lipid ratio 1:1.5) |
-| Temperature | 20 C |
-| Cryoprotection | Crystals harvested directly from LCP and frozen in liquid nitrogen without added cryoprotectant |
-| Notes | Crystals grown in LCP using Gryphon robot. 30 nL protein-laden mesophase drops overlaid with 800 nL precipitant solution in 96-well glass plates. Data collected at SPring-8 BL32XU with EIGER X 9M detector at 1.0 A wavelength. 148 small-wedge datasets (10 deg/crystal) processed with KAMO, XDS, and XSCALE. Structure determined by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) with PHASER using BR structure (PDB 1M0K). |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MEQI</span><span class="topo-membrane">IFYLGIGMFILSTIMFFF</span><span class="topo-outside">LKKKNAKLAS</span><span class="topo-membrane">INIIVSFVTIVSYILML</span><span class="topo-inside">SGLFTLSATSG</span></span>
+<span class="topo-line"><span class="topo-inside">DTIY</span><span class="topo-membrane">WTRWAFYAVSCSFLMV</span><span class="topo-outside">EISYLLRIDNTTRL</span><span class="topo-membrane">EILVFNSMVMITGLFAS</span><span class="topo-inside">ISEDLY</span><span class="topo-membrane">KWL</span></span>
+<span class="topo-line"><span class="topo-membrane">FFIISSVAYLNVLFL</span><span class="topo-outside">IAKNR</span><span class="topo-unknown">SEK</span><span class="topo-outside">KAII</span><span class="topo-membrane">LFVAIFWSGFPIVWILS</span><span class="topo-inside">PAGLMVLNAFW</span><span class="topo-membrane">TALFY</span></span>
+<span class="topo-line"><span class="topo-membrane">LVLDFITKIYFGFH</span><span class="topo-outside">TTFKH</span><span class="topo-unknown">IEQLEHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>1</td>
+      <td>4</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>22</td>
+      <td>5</td>
+      <td>22</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>32</td>
+      <td>23</td>
+      <td>32</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>49</td>
+      <td>33</td>
+      <td>49</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>64</td>
+      <td>50</td>
+      <td>64</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>80</td>
+      <td>65</td>
+      <td>80</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>94</td>
+      <td>81</td>
+      <td>94</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>111</td>
+      <td>95</td>
+      <td>111</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>112</td>
+      <td>117</td>
+      <td>112</td>
+      <td>117</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>118</td>
+      <td>135</td>
+      <td>118</td>
+      <td>135</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>140</td>
+      <td>136</td>
+      <td>140</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>144</td>
+      <td>147</td>
+      <td>144</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>164</td>
+      <td>148</td>
+      <td>164</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>175</td>
+      <td>165</td>
+      <td>175</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>194</td>
+      <td>176</td>
+      <td>194</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>195</td>
+      <td>199</td>
+      <td>195</td>
+      <td>199</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7e4g">7E4G</a> — Chain C (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MEQI</span><span class="topo-membrane">IFYLGIGMFILSTIMFFF</span><span class="topo-outside">LKKKNAKLAS</span><span class="topo-membrane">INIIVSFVTIVSYILML</span><span class="topo-inside">SGLFTLSATSG</span></span>
+<span class="topo-line"><span class="topo-inside">DTIY</span><span class="topo-membrane">WTRWAFYAVSCSFLMV</span><span class="topo-outside">EISYLLRIDNTTRL</span><span class="topo-membrane">EILVFNSMVMITGLFAS</span><span class="topo-inside">ISEDLY</span><span class="topo-membrane">KWL</span></span>
+<span class="topo-line"><span class="topo-membrane">FFIISSVAYLNVLFL</span><span class="topo-outside">IAK</span><span class="topo-unknown">NRSE</span><span class="topo-outside">KKAII</span><span class="topo-membrane">LFVAIFWSGFPIVWILS</span><span class="topo-inside">PAGLMVLNAFW</span><span class="topo-membrane">TALFY</span></span>
+<span class="topo-line"><span class="topo-membrane">LVLDFITKIYFGF</span><span class="topo-outside">HTTF</span><span class="topo-unknown">KHIEQLEHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>1</td>
+      <td>4</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>22</td>
+      <td>5</td>
+      <td>22</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>32</td>
+      <td>23</td>
+      <td>32</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>49</td>
+      <td>33</td>
+      <td>49</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>64</td>
+      <td>50</td>
+      <td>64</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>80</td>
+      <td>65</td>
+      <td>80</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>94</td>
+      <td>81</td>
+      <td>94</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>111</td>
+      <td>95</td>
+      <td>111</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>112</td>
+      <td>117</td>
+      <td>112</td>
+      <td>117</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>118</td>
+      <td>135</td>
+      <td>118</td>
+      <td>135</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>138</td>
+      <td>136</td>
+      <td>138</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>147</td>
+      <td>143</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>164</td>
+      <td>148</td>
+      <td>164</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>175</td>
+      <td>165</td>
+      <td>175</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>193</td>
+      <td>176</td>
+      <td>193</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>194</td>
+      <td>197</td>
+      <td>194</td>
+      <td>197</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -138,13 +626,13 @@ kinetic behaviors of SzR compared to xenorhodopsins and [Bacteriorhodopsin](/xra
 
 ## Cross-References
 
-- [Microbial Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/) — SzR is a newly identified family of microbial rhodopsins from Asgard archaea
-- [Evolution of Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/evolution-of-rhodopsins/) — SzRs are phylogenetically intermediate between type-1 rhodopsins and heliorhodopsins
-- [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — SzR4 structure was solved by molecular replacement using BR model and shows structural similarity to BR
-- [BcXeR (Xenorhodopsin from Bacillus coahuilensis)](/xray-mp-wiki/proteins/rhodopsins/bcxer/) — SzR and XeR both function as inward H+ pumps but with different mechanisms
-- [Proton Wire](/xray-mp-wiki/concepts/transport-mechanisms/proton-wire/) — SzR uses a water-mediated transport network (proton wire) for inward H+ release
-- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — SzR4 was crystallized using LCP with monoolein
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Monoolein was the lipid used for LCP crystallization
-- [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — All-trans retinal is covalently bound to K188 via Schiff base
-- [Retinal Chromophore Conformation](/xray-mp-wiki/concepts/structural-mechanisms/retinal-chromophore-conformation/) — All-trans to 13-cis isomerization drives the photocycle
-- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/) — SzR exhibits a photocycle with M-intermediate formation
+- <a href="/xray-mp-wiki/concepts/rhodopsin-mechanisms/microbial-rhodopsins/">Microbial Rhodopsins</a> — SzR is a newly identified family of microbial rhodopsins from Asgard archaea
+- <a href="/xray-mp-wiki/concepts/rhodopsin-mechanisms/evolution-of-rhodopsins/">Evolution of Rhodopsins</a> — SzRs are phylogenetically intermediate between type-1 rhodopsins and heliorhodopsins
+- <a href="/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/">Bacteriorhodopsin</a> — SzR4 structure was solved by molecular replacement using BR model and shows structural similarity to BR
+- <a href="/xray-mp-wiki/proteins/rhodopsins/bcxer/">BcXeR (Xenorhodopsin from Bacillus coahuilensis)</a> — SzR and XeR both function as inward H+ pumps but with different mechanisms
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/proton-wire/">Proton Wire</a> — SzR uses a water-mediated transport network (proton wire) for inward H+ release
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — SzR4 was crystallized using LCP with monoolein
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — Monoolein was the lipid used for LCP crystallization
+- <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a> — All-trans retinal is covalently bound to K188 via Schiff base
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/retinal-chromophore-conformation/">Retinal Chromophore Conformation</a> — All-trans to 13-cis isomerization drives the photocycle
+- <a href="/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/">Rhodopsin Photocycle</a> — SzR exhibits a photocycle with M-intermediate formation

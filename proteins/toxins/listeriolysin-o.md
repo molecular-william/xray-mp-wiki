@@ -1,7 +1,7 @@
 ---
 title: "Listeriolysin O"
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,19 +17,31 @@ verified: false
 Listeriolysin O (LLO) is a cholesterol-dependent cytolysin (CDC) and essential virulence factor of the Gram-positive pathogen *Listeria monocytogenes*. LLO enables the bacteria to escape the phagosome by forming pores in the phagosomal membrane. It is unique among CDCs for its pH- and temperature-dependent pore-forming activity, which restricts its activity to the acidic phagosomal compartment while sparing the neutral-pH host plasma membrane. LLO contains four domains (D1-D4), a distinctive N-terminal PPII helix, and a tryptophan-rich undecapeptide. The crystal structure reveals the molecular basis of oligomerization and pore formation, including seven ion-coordination clusters that regulate conformational switching.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##NCOMMS4690 | 4CDB | 2.15 A | P212121 | Wild-type LLO from *Listeria monocytogenes* | Na+ (7 ions), water molecules (18 coordinated) |
+### doi/10.1038##NCOMMS4690
 
-## Expression and Purification
+**Structures:**
 
-No purification described.
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4cdb">4CDB</a></td>
+      <td>2.15 A</td>
+      <td>P212121</td>
+      <td>Wild-type LLO from *Listeria monocytogenes*</td>
+      <td>Na+ (7 ions), water molecules (18 coordinated)</td>
+    </tr>
+  </tbody>
+</table>
 
-## Crystallization
-
-No crystallization described.
 
 ## Biological / Functional Insights
 
@@ -48,5 +60,5 @@ The N-terminal PPII helix of LLO plays a regulatory role in pore formation. Loca
 
 ## Cross-References
 
-- [Cholesterol-Dependent Cytolysins](/xray-mp-wiki/concepts/miscellaneous/cholesterol-dependent-cytolysins/) — LLO is a member of the CDC family, the largest family of bacterial pore-forming toxins
-- [Pore-Forming Toxins](/xray-mp-wiki/concepts/structural-mechanisms/pore-forming-toxins/) — LLO is a type II pore-forming toxin that disrupts host cell membranes
+- <a href="/xray-mp-wiki/concepts/miscellaneous/cholesterol-dependent-cytolysins/">Cholesterol-Dependent Cytolysins</a> — LLO is a member of the CDC family, the largest family of bacterial pore-forming toxins
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/pore-forming-toxins/">Pore-Forming Toxins</a> — LLO is a type II pore-forming toxin that disrupts host cell membranes

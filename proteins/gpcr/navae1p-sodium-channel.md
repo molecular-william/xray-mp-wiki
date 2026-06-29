@@ -1,7 +1,7 @@
 ---
 title: "NavAe1p Prokaryotic Sodium Channel Pore"
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,55 +16,587 @@ verified: false
 
 NavAe1p is a pore-only construct of the prokaryotic voltage-gated sodium channel NavAe1 from Alkalilimnicola ehrlichei, a bacterium found in Mono Lake, California. The crystal structure at 4.0 A resolution reveals a closed conformation of the complete pore domain with a cytoplasmic tail including a helical neck and coiled-coil region. Key findings include the S6 activation gate position, the role of the cytoplasmic tail neck in stabilizing the closed state, and an outer ion binding site at the selectivity filter that reveals a previously unknown calcium binding determinant conserved in eukaryotic voltage-gated calcium channels.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.jmb.2013.10.010 | 4J4Q | 4.0 A | I222 | NavAe1p pore-only construct from Alkalilimnicola ehrlichei; includes transmembrane pore domain (S5, P1, P2, S6) and full cytoplasmic tail (neck + coiled-coil); homotetramer | Calcium ion at outer ion binding site (selectivity filter outer mouth), coordinated by 4 Ser198 side-chain oxygens and 4 water molecules |
-| doi/10.1016##j.jmb.2013.10.010 | 4J4Q | 3.8 A | P4212 | NavAe1p pore-only construct, low-calcium crystallization condition | None (no anomalous density at outer ion site) |
-| doi/10.1016##j.jmb.2013.10.010 | 4J4Q | 4.0 A | I222 | NavAe1p H245G mutant pore-only construct; no Ca2+ at neck ion or outer ion site | None (no anomalous density for neck ion or outer ion) |
+### doi/10.1016##j.jmb.2013.10.010
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4j4q">4J4Q</a></td>
+      <td>4.0 A</td>
+      <td>I222</td>
+      <td>NavAe1p pore-only construct from Alkalilimnicola ehrlichei; includes transmembrane pore domain (S5, P1, P2, S6) and full cytoplasmic tail (neck + coiled-coil); homotetramer</td>
+      <td>Calcium ion at outer ion binding site (selectivity filter outer mouth), coordinated by 4 Ser198 side-chain oxygens and 4 water molecules</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4j4q">4J4Q</a></td>
+      <td>3.8 A</td>
+      <td>P4212</td>
+      <td>NavAe1p pore-only construct, low-calcium crystallization condition</td>
+      <td>None (no anomalous density at outer ion site)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4j4q">4J4Q</a></td>
+      <td>4.0 A</td>
+      <td>I222</td>
+      <td>NavAe1p H245G mutant pore-only construct; no Ca2+ at neck ion or outer ion site</td>
+      <td>None (no anomalous density for neck ion or outer ion)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: HEK 293 mammalian cells (for functional electrophysiology); NavAe1p purified from prior publication (Shaya et al. 2011)
 - **Construct**: NavAe1p pore-only construct (residues corresponding to pore domain S5-P1-P2-S6 plus cytoplasmic tail with neck and coiled-coil); full-length NavAe1 for electrophysiology; H245G mutant for structural comparison
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Expression and solubilization</td>
+      <td>Transient transfection of HEK 293 cells; membrane extraction and solubilization</td>
+      <td>--</td>
+      <td>Described in prior publication (Shaya et al. 2011) + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (N-Dodecyl-Beta-D-Maltoside) at 0.25-0.3 mM</td>
+      <td>NavAe1p expressed and purified in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> as previously described in Shaya et al. 2011 (ref 19 in the paper). Full-length NavAe1 expressed in HEK 293 cells for functional studies.</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>Size-exclusion chromatography</td>
+      <td>--</td>
+      <td>0.25 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 200 mM NaCl, 20 mM Na-HEPES pH 8.0 + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (N-Dodecyl-Beta-D-Maltoside) at 0.25 mM</td>
+      <td>Final SEC buffer exchange prior to concentration for crystallization</td>
+    </tr>
+    <tr>
+      <td>Concentration</td>
+      <td>Ultrafiltration</td>
+      <td>Amicon Ultra-15 100-kDa molecular mass cutoff (Millipore)</td>
+      <td>0.25 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 200 mM NaCl, 20 mM Na-HEPES pH 8.0 + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> at 0.25 mM</td>
+      <td>Concentrated to ~15 mg/ml for high-calcium condition; ~13.5 mg/ml for low-calcium condition</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression and solubilization | Transient transfection of HEK 293 cells; membrane extraction and solubilization | -- | Described in prior publication (Shaya et al. 2011) + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (N-Dodecyl-Beta-D-Maltoside) at 0.25-0.3 mM | NavAe1p expressed and purified in [DDM](/xray-mp-wiki/reagents/detergents/ddm/) as previously described in Shaya et al. 2011 (ref 19 in the paper). Full-length NavAe1 expressed in HEK 293 cells for functional studies. |
-| Size-exclusion chromatography | Size-exclusion chromatography | -- | 0.25 mM [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 200 mM NaCl, 20 mM Na-HEPES pH 8.0 + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (N-Dodecyl-Beta-D-Maltoside) at 0.25 mM | Final SEC buffer exchange prior to concentration for crystallization |
-| Concentration | Ultrafiltration | Amicon Ultra-15 100-kDa molecular mass cutoff (Millipore) | 0.25 mM [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 200 mM NaCl, 20 mM Na-HEPES pH 8.0 + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) at 0.25 mM | Concentrated to ~15 mg/ml for high-calcium condition; ~13.5 mg/ml for low-calcium condition |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>13.5 mg/ml NavAe1p, 0.25 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.5 M TMAO, 200 mM NaCl, 20 mM Na-HEPES pH 8.0</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>200 mM CaCl2, 30% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 400, 100 mM Na-acetate pH 5.0 (high-calcium condition)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>~3 weeks (high-calcium); crystals grew to ~200 um x 70 um x 15 um</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>I222 crystals. Protein-TMAO solution (0.7 ul) mixed with 0.7 ul mother liquor mixed with agarose (0.25% final) solidified at room temperature. Anomalous scattering confirmed Ca2+ at outer ion site.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>13.5 mg/ml NavAe1p, 0.25 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 200 mM NaCl, 20 mM Na-HEPES pH 8.0</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>200 mM MgCl2, 30% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 400, 100 mM MOPS pH 6.5 (low-calcium condition)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>~2 weeks; crystals appeared in 2 days, grew to ~200 um x 50 um x 50 um</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>P4212 crystals. No anomalous density at outer ion site.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4j4q">4J4Q</a> — Chain A (7 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSML</span><span class="topo-membrane">AAYMFLLIMLGFPINFLTLY</span></span>
+<span class="topo-line"><span class="topo-membrane">VTVQH</span><span class="topo-outside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATLG</span></span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYIP</span></span>
+<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-outside">TVKEAAAQQQES</span></span>
+<span class="topo-line"><span class="topo-outside">ATTQKAEK</span><span class="topo-membrane">EVTRMVIIMVIAFLICWLPYAGVAF</span><span class="topo-inside">YIFTHQGSDFGPIFMTI</span><span class="topo-membrane">PAFFAKTSAV</span></span>
+<span class="topo-line"><span class="topo-membrane">YNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>40</td>
+      <td>1</td>
+      <td>40</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>65</td>
+      <td>41</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>68</td>
+      <td>66</td>
+      <td>68</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>96</td>
+      <td>69</td>
+      <td>96</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>111</td>
+      <td>97</td>
+      <td>111</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>112</td>
+      <td>137</td>
+      <td>112</td>
+      <td>137</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>138</td>
+      <td>150</td>
+      <td>138</td>
+      <td>150</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td>173</td>
+      <td>151</td>
+      <td>173</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>174</td>
+      <td>202</td>
+      <td>174</td>
+      <td>202</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>203</td>
+      <td>228</td>
+      <td>203</td>
+      <td>228</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>229</td>
+      <td>248</td>
+      <td>229</td>
+      <td>248</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>249</td>
+      <td>273</td>
+      <td>249</td>
+      <td>273</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>274</td>
+      <td>290</td>
+      <td>274</td>
+      <td>290</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>310</td>
+      <td>291</td>
+      <td>310</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>311</td>
+      <td>326</td>
+      <td>311</td>
+      <td>326</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>327</td>
+      <td>348</td>
+      <td>327</td>
+      <td>348</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1016##j.jmb.2013.10.010
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4j4q">4J4Q</a> — Chain A (7 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | 13.5 mg/ml NavAe1p, 0.25 mM [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.5 M TMAO, 200 mM NaCl, 20 mM Na-HEPES pH 8.0 |
-| Reservoir | 200 mM CaCl2, 30% [PEG](/xray-mp-wiki/reagents/additives/peg/) 400, 100 mM Na-acetate pH 5.0 (high-calcium condition) |
-| Temperature | 4 C |
-| Growth time | ~3 weeks (high-calcium); crystals grew to ~200 um x 70 um x 15 um |
-| Cryoprotection | Not specified |
-| Notes | I222 crystals. Protein-TMAO solution (0.7 ul) mixed with 0.7 ul mother liquor mixed with agarose (0.25% final) solidified at room temperature. Anomalous scattering confirmed Ca2+ at outer ion site. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSML</span><span class="topo-membrane">AAYMFLLIMLGFPINFLTLY</span></span>
+<span class="topo-line"><span class="topo-membrane">VTVQH</span><span class="topo-outside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATLG</span></span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYIP</span></span>
+<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-outside">TVKEAAAQQQES</span></span>
+<span class="topo-line"><span class="topo-outside">ATTQKAEK</span><span class="topo-membrane">EVTRMVIIMVIAFLICWLPYAGVAF</span><span class="topo-inside">YIFTHQGSDFGPIFMTI</span><span class="topo-membrane">PAFFAKTSAV</span></span>
+<span class="topo-line"><span class="topo-membrane">YNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>40</td>
+      <td>1</td>
+      <td>40</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>65</td>
+      <td>41</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>68</td>
+      <td>66</td>
+      <td>68</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>96</td>
+      <td>69</td>
+      <td>96</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>111</td>
+      <td>97</td>
+      <td>111</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>112</td>
+      <td>137</td>
+      <td>112</td>
+      <td>137</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>138</td>
+      <td>150</td>
+      <td>138</td>
+      <td>150</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td>173</td>
+      <td>151</td>
+      <td>173</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>174</td>
+      <td>202</td>
+      <td>174</td>
+      <td>202</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>203</td>
+      <td>228</td>
+      <td>203</td>
+      <td>228</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>229</td>
+      <td>248</td>
+      <td>229</td>
+      <td>248</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>249</td>
+      <td>273</td>
+      <td>249</td>
+      <td>273</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>274</td>
+      <td>290</td>
+      <td>274</td>
+      <td>290</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>310</td>
+      <td>291</td>
+      <td>310</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>311</td>
+      <td>326</td>
+      <td>311</td>
+      <td>326</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>327</td>
+      <td>348</td>
+      <td>327</td>
+      <td>348</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | 13.5 mg/ml NavAe1p, 0.25 mM [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 200 mM NaCl, 20 mM Na-HEPES pH 8.0 |
-| Reservoir | 200 mM MgCl2, 30% [PEG](/xray-mp-wiki/reagents/additives/peg/) 400, 100 mM MOPS pH 6.5 (low-calcium condition) |
-| Temperature | 4 C |
-| Growth time | ~2 weeks; crystals appeared in 2 days, grew to ~200 um x 50 um x 50 um |
-| Cryoprotection | Not specified |
-| Notes | P4212 crystals. No anomalous density at outer ion site. |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4j4q">4J4Q</a> — Chain A (7 TMs, alpha)**
 
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MNGTEGPNFYVPFSNKTGVVRSPFEAPQYYLAEPWQFSML</span><span class="topo-membrane">AAYMFLLIMLGFPINFLTLY</span></span>
+<span class="topo-line"><span class="topo-membrane">VTVQH</span><span class="topo-outside">KKL</span><span class="topo-membrane">RTPLNYILLNLAVADLFMVFGGFTTTLY</span><span class="topo-inside">TSLHGYFVFGPTGCN</span><span class="topo-membrane">LEGFFATLG</span></span>
+<span class="topo-line"><span class="topo-membrane">GEIALWSLVVLAIERYV</span><span class="topo-outside">VVCKPMSNFRFGE</span><span class="topo-membrane">NHAIMGVAFTWVMALACAAPPLV</span><span class="topo-inside">GWSRYIP</span></span>
+<span class="topo-line"><span class="topo-inside">EGMQCSCGIDYYTPHEETNNES</span><span class="topo-membrane">FVIYMFVVHFIIPLIVIFFCYGQLVF</span><span class="topo-outside">TVKEAAAQQQES</span></span>
+<span class="topo-line"><span class="topo-outside">ATTQKAEK</span><span class="topo-membrane">EVTRMVIIMVIAFLICWLPYAGVAF</span><span class="topo-inside">YIFTHQGSDFGPIFMTI</span><span class="topo-membrane">PAFFAKTSAV</span></span>
+<span class="topo-line"><span class="topo-membrane">YNPVIYIMMN</span><span class="topo-outside">KQFRNCMVTTLCCGKN</span><span class="topo-unknown">PLGDDEASTTVSKTETSQVAPA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>40</td>
+      <td>1</td>
+      <td>40</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>65</td>
+      <td>41</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>68</td>
+      <td>66</td>
+      <td>68</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>96</td>
+      <td>69</td>
+      <td>96</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>111</td>
+      <td>97</td>
+      <td>111</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>112</td>
+      <td>137</td>
+      <td>112</td>
+      <td>137</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>138</td>
+      <td>150</td>
+      <td>138</td>
+      <td>150</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td>173</td>
+      <td>151</td>
+      <td>173</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>174</td>
+      <td>202</td>
+      <td>174</td>
+      <td>202</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>203</td>
+      <td>228</td>
+      <td>203</td>
+      <td>228</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>229</td>
+      <td>248</td>
+      <td>229</td>
+      <td>248</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>249</td>
+      <td>273</td>
+      <td>249</td>
+      <td>273</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>274</td>
+      <td>290</td>
+      <td>274</td>
+      <td>290</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>291</td>
+      <td>310</td>
+      <td>291</td>
+      <td>310</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>311</td>
+      <td>326</td>
+      <td>311</td>
+      <td>326</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>327</td>
+      <td>348</td>
+      <td>327</td>
+      <td>348</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -91,13 +623,13 @@ A model for BacNav gating is proposed: in the closed state, the intracellular po
 
 ## Cross-References
 
-- [N-Dodecyl-Beta-D-Maltoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary solubilization detergent used throughout purification (0.25-0.3 mM)
-- [HEPES (4-(2-Hydroxyethyl)-1-piperazineethanesulfonic Acid)](/xray-mp-wiki/reagents/buffers/hepes/) — Purification and crystallization buffer at 20 mM pH 8.0
-- [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate/) — Crystallization buffer at 100 mM pH 5.0 for high-calcium condition
-- [MOPS (4-Morpholineethanesulfonic Acid)](/xray-mp-wiki/reagents/buffers/mops/) — Crystallization buffer at 100 mM pH 6.5 for low-calcium condition
-- [PEG (Polyethylene Glycol) 400](/xray-mp-wiki/reagents/additives/peg/) — Crystallization precipitant at 30% in both conditions
-- [Calcium Chloride](/xray-mp-wiki/reagents/additives/calcium-chloride/) — Crystallization additive (200 mM) in high-calcium condition; bound at outer ion site
-- [Trimethylamine N-Oxide (TMAO)](/xray-mp-wiki/reagents/additives/tmao/) — Crystallization additive (0.5 M) in high-calcium condition to stabilize protein
-- [Magnesium Chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Crystallization additive (200 mM) in low-calcium condition
-- [KirBac Potassium Channels](/xray-mp-wiki/proteins/voltage-gated-channels/kirbac-potassium-channels/) — Prokaryotic ion channel with similar modular pore domain architecture
-- [Ilyobacter Tartaricus C-Subunit](/xray-mp-wiki/proteins/pumps-atpases/ilyobacter-tartaricus-c-subunit/) — Prokaryotic membrane protein with coiled-coil cytoplasmic domain architecture
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">N-Dodecyl-Beta-D-Maltoside (DDM)</a> — Primary solubilization detergent used throughout purification (0.25-0.3 mM)
+- <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES (4-(2-Hydroxyethyl)-1-piperazineethanesulfonic Acid)</a> — Purification and crystallization buffer at 20 mM pH 8.0
+- <a href="/xray-mp-wiki/reagents/buffers/acetate/">Acetate Buffer (Sodium Acetate)</a> — Crystallization buffer at 100 mM pH 5.0 for high-calcium condition
+- <a href="/xray-mp-wiki/reagents/buffers/mops/">MOPS (4-Morpholineethanesulfonic Acid)</a> — Crystallization buffer at 100 mM pH 6.5 for low-calcium condition
+- <a href="/xray-mp-wiki/reagents/additives/peg/">PEG (Polyethylene Glycol) 400</a> — Crystallization precipitant at 30% in both conditions
+- <a href="/xray-mp-wiki/reagents/additives/calcium-chloride/">Calcium Chloride</a> — Crystallization additive (200 mM) in high-calcium condition; bound at outer ion site
+- <a href="/xray-mp-wiki/reagents/additives/tmao/">Trimethylamine N-Oxide (TMAO)</a> — Crystallization additive (0.5 M) in high-calcium condition to stabilize protein
+- <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Magnesium Chloride</a> — Crystallization additive (200 mM) in low-calcium condition
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/kirbac-potassium-channels/">KirBac Potassium Channels</a> — Prokaryotic ion channel with similar modular pore domain architecture
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/ilyobacter-tartaricus-c-subunit/">Ilyobacter Tartaricus C-Subunit</a> — Prokaryotic membrane protein with coiled-coil cytoplasmic domain architecture

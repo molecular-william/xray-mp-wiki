@@ -1,7 +1,7 @@
 ---
 title: "GLUT5 Fructose Transporter"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,57 +17,141 @@ verified: false
 GLUT5 is a fructose-specific facilitated-diffusion transporter belonging to the solute carrier 2 (SLC2) family and the major facilitator superfamily (MFS). It is primarily expressed in the small intestine but also found in brain, adipose tissue, kidney, testes, and skeletal muscle. GLUT5 is the only member of the GLUT family specific to fructose, and its altered activity has been linked to metabolic disorders such as type 2 diabetes and obesity. GLUT5 is also overexpressed in certain tumour cells, making it a potential drug target. This paper describes the crystal structures of Rattus norvegicus GLUT5 (rGLUT5) in an open outward-facing conformation at 3.27 A resolution and Bos taurus GLUT5 (bGLUT5) in an open inward-facing conformation at 3.0 A resolution, providing mechanistic insights into fructose transport via a gated-pore mechanism.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature14909 | -- | 3.27 | P2_1 | Rat GLUT5 (full-length, N50Y deglycosylation mutant) in complex with 4D111Fv fragment (VL and VH chains) | -- |
-| doi/10.1038##nature14909 | -- | 3.0 | P2_12_12_1 | Bovine GLUT5 (residues 1-473, N51A deglycosylation mutant) | -- |
+### doi/10.1038##nature14909
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/--">--</a></td>
+      <td>3.27</td>
+      <td>P2_1</td>
+      <td>Rat GLUT5 (full-length, N50Y deglycosylation mutant) in complex with 4D111Fv fragment (VL and VH chains)</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/--">--</a></td>
+      <td>3.0</td>
+      <td>P2_12_12_1</td>
+      <td>Bovine GLUT5 (residues 1-473, N51A deglycosylation mutant)</td>
+      <td>--</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Saccharomyces cerevisiae FGY217
 - **Construct**: Full-length GLUT5 with C-terminal His6 tag and TEV cleavage site (pDDGFP2 vector, GAL1 inducible)
 - **Notes**: GLUT5 homologues screened using fluorescence-based methods. Rat GLUT5 N50Y and bovine GLUT5 N51A mutants were used for deglycosylation.
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: S. cerevisiae FGY217
 - **Expression construct**: Full-length GLUT5 with C-terminal His6 tag, TEV cleavable
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture | Yeast fermentation | -- | -- + -- | 10 ml S. cerevisiae culture; overexpression as described previously |
-| Membrane preparation | Cell lysis and ultracentrifugation | -- | 20 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 150 mM NaCl + -- | -- |
-| Solubilization and purification | Affinity chromatography and SEC | -- | 20 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 150 mM NaCl + 0.03% n-dodecyl-beta-D-maltopyranoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) | Purified in [DDM](/xray-mp-wiki/reagents/detergents/ddm/); monodisperse peak assessed by gel filtration |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture</td>
+      <td>Yeast fermentation</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>10 ml S. cerevisiae culture; overexpression as described previously</td>
+    </tr>
+    <tr>
+      <td>Membrane preparation</td>
+      <td>Cell lysis and ultracentrifugation</td>
+      <td>--</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.5, 150 mM NaCl + --</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Solubilization and purification</td>
+      <td>Affinity chromatography and SEC</td>
+      <td>--</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.5, 150 mM NaCl + 0.03% n-dodecyl-beta-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
+      <td>Purified in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>; monodisperse peak assessed by gel filtration</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: 0.06 mg/ml in purification buffer (20 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 150 mM NaCl, 0.03% DDM)
 
+**Crystallization:**
 
-## Crystallization
-
-### doi/10.1038##nature14909
-
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | rGLUT5-Fv complex in [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
-| Reservoir | 33-35% [Peg](/xray-mp-wiki/reagents/additives/peg/) 400, 0.12 M CaCl2 |
-| Temperature | 20 C |
-| Cryoprotection | -- |
-| Notes | Rat GLUT5 crystallized in complex with 4D111Fv fragment in the open outward-facing conformation |
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | bGLUT5 in [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
-| Reservoir | -- |
-| Temperature | 20 C |
-| Cryoprotection | -- |
-| Notes | Bovine GLUT5 crystallized in the open inward-facing conformation; data showed severe anisotropy (resolutions along a*/b*/c* of 4.0/3.0/4.0 A) |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>rGLUT5-Fv complex in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>33-35% <a href="/xray-mp-wiki/reagents/additives/peg/">Peg</a> 400, 0.12 M CaCl2</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Rat GLUT5 crystallized in complex with 4D111Fv fragment in the open outward-facing conformation</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>bGLUT5 in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Bovine GLUT5 crystallized in the open inward-facing conformation; data showed severe anisotropy (resolutions along a*/b*/c* of 4.0/3.0/4.0 A)</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -86,13 +170,13 @@ In the outward-facing conformation, conserved salt bridges form between the N- a
 
 ## Cross-References
 
-- [MFS Transporter](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — GLUT5 belongs to the Major Facilitator Superfamily
-- [Sugar Porter Family](/xray-mp-wiki/concepts/protein-families/sugar-porter-family/) — GLUT5 is a member of the sugar porter subfamily of MFS transporters
-- [GLUT1](/xray-mp-wiki/proteins/mfs-transporters/glut1/) — Comparison with hGLUT1 inward-facing structure shows conservation of substrate-binding residues
-- [D-Fructose](/xray-mp-wiki/reagents/ligands/d-fructose/) — Primary substrate of GLUT5
-- [Tris](/xray-mp-wiki/reagents/buffers/tris/) — Referenced in glut5 text
-- [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Referenced in glut5 text
-- [Peg](/xray-mp-wiki/reagents/additives/peg/) — Referenced in glut5 text
-- [Rocker](/xray-mp-wiki/proteins/miscellaneous/rocker/) — Referenced in glut5 text
-- [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Referenced in glut5 text
-- [D Fructose](/xray-mp-wiki/reagents/ligands/d-fructose/) — Referenced in glut5 text
+- <a href="/xray-mp-wiki/concepts/protein-families/mfs-transporter/">MFS Transporter</a> — GLUT5 belongs to the Major Facilitator Superfamily
+- <a href="/xray-mp-wiki/concepts/protein-families/sugar-porter-family/">Sugar Porter Family</a> — GLUT5 is a member of the sugar porter subfamily of MFS transporters
+- <a href="/xray-mp-wiki/proteins/mfs-transporters/glut1/">GLUT1</a> — Comparison with hGLUT1 inward-facing structure shows conservation of substrate-binding residues
+- <a href="/xray-mp-wiki/reagents/ligands/d-fructose/">D-Fructose</a> — Primary substrate of GLUT5
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> — Referenced in glut5 text
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> — Referenced in glut5 text
+- <a href="/xray-mp-wiki/reagents/additives/peg/">Peg</a> — Referenced in glut5 text
+- <a href="/xray-mp-wiki/proteins/miscellaneous/rocker/">Rocker</a> — Referenced in glut5 text
+- <a href="/xray-mp-wiki/reagents/additives/glucose/">Glucose</a> — Referenced in glut5 text
+- <a href="/xray-mp-wiki/reagents/ligands/d-fructose/">D Fructose</a> — Referenced in glut5 text

@@ -1,7 +1,7 @@
 ---
 title: "bcChbC (Bacillus cereus Chitobiose Transporter)"
 created: 2026-05-28
-updated: 2026-06-02
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,20 +17,54 @@ verified: false
 bcChbC is a [Diacetylchitobiose](/xray-mp-wiki/reagents/ligands/diacetylchitobiose/) (GlcNAc2) transporter from Bacillus cereus, belonging to the [Glucose](/xray-mp-wiki/reagents/additives/glucose/) superfamily of enzyme IIC (EIIC) components of the bacterial phosphoenolpyruvate:carbohydrate phosphotransferase system (PTS). Its crystal structure was solved in an inward-facing occluded conformation and serves as a key comparison with bcMalT, which crystallized in the outward-facing occluded conformation. Together, these two structures provide the first structural evidence for the elevator-car transport mechanism in EIIC sugar transporters.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.str.2016.04.003 | 3G5R | 3.2 | P212121 | EIIC domain of chitobiose transporter from Bacillus cereus | [Diacetylchitobiose](/xray-mp-wiki/reagents/ligands/diacetylchitobiose/) (GlcNAc2) |
-| doi/10.1038##nature09939 | 4DJB | 3.3 | P43212 | EIIC domain (93 residues) of chitobiose transporter from Bacillus cereus, [His6 Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) removed by TEV protease | [Diacetylchitobiose](/xray-mp-wiki/reagents/ligands/diacetylchitobiose/) (GlcNAc2) |
+### doi/10.1016##j.str.2016.04.003
 
-## Expression and Purification
+**Structures:**
 
-No purification described.
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3g5r">3G5R</a></td>
+      <td>3.2</td>
+      <td>P212121</td>
+      <td>EIIC domain of chitobiose transporter from Bacillus cereus</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/diacetylchitobiose/">Diacetylchitobiose</a> (GlcNAc2)</td>
+    </tr>
+  </tbody>
+</table>
 
-## Crystallization
+### doi/10.1038##nature09939
 
-No crystallization described.
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4djb">4DJB</a></td>
+      <td>3.3</td>
+      <td>P43212</td>
+      <td>EIIC domain (93 residues) of chitobiose transporter from Bacillus cereus, <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His6 Tag</a> removed by TEV protease</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/diacetylchitobiose/">Diacetylchitobiose</a> (GlcNAc2)</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Biological / Functional Insights
 
@@ -57,13 +91,13 @@ A speculative model for the ChbC transport mechanism was proposed based on the c
 
 ## Cross-References
 
-- [bcMalT (Bacillus cereus Maltose Transporter)](/xray-mp-wiki/proteins/enzymes/bc-malt/) — Comparison structure; outward-facing occluded conformation of same superfamily
-- [Elevator Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/elevator-mechanism/) — bcChbC provides the inward-facing state for the elevator mechanism
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — bcChbC represents the inward-facing state of the alternating-access cycle
-- [Maltose](/xray-mp-wiki/reagents/additives/maltose/) — Related substrate; bcMalT binds maltose while bcChbC binds GlcNAc2
-- [Diacetylchitobiose (GlcNAc2)](/xray-mp-wiki/reagents/ligands/diacetylchitobiose/) — bcChbC bound to diacetylchitobiose ligand in crystal structure
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used in purification and stability testing of ChbC
-- [Decylmaltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — DM used in stability testing of ChbC by gel filtration
-- [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) — TEV protease used to remove His6 tag from ChbC during purification
-- [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Referenced in the context of Glucose
-- [His6 Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) — Referenced in the context of His6 Tag
+- <a href="/xray-mp-wiki/proteins/enzymes/bc-malt/">bcMalT (Bacillus cereus Maltose Transporter)</a> — Comparison structure; outward-facing occluded conformation of same superfamily
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/elevator-mechanism/">Elevator Mechanism</a> — bcChbC provides the inward-facing state for the elevator mechanism
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating-Access Mechanism</a> — bcChbC represents the inward-facing state of the alternating-access cycle
+- <a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a> — Related substrate; bcMalT binds maltose while bcChbC binds GlcNAc2
+- <a href="/xray-mp-wiki/reagents/ligands/diacetylchitobiose/">Diacetylchitobiose (GlcNAc2)</a> — bcChbC bound to diacetylchitobiose ligand in crystal structure
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — DDM used in purification and stability testing of ChbC
+- <a href="/xray-mp-wiki/reagents/detergents/dm/">Decylmaltoside (DM)</a> — DM used in stability testing of ChbC by gel filtration
+- <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease</a> — TEV protease used to remove His6 tag from ChbC during purification
+- <a href="/xray-mp-wiki/reagents/additives/glucose/">Glucose</a> — Referenced in the context of Glucose
+- <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His6 Tag</a> — Referenced in the context of His6 Tag

@@ -1,7 +1,7 @@
 ---
 title: "Human CRTH2 (PGD2 Receptor)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,47 +17,698 @@ verified: false
 CRTH2 (chemoattractant receptor-homologous molecule expressed on Th2 cells, also known as DP2) is a G-protein-coupled receptor (GPCR) for prostaglandin D2 (PGD2). It mediates type 2 inflammation and is a major drug target for asthma and other inflammatory disorders. CRTH2 is the only member of the prostanoid receptor family that is phylogenetically distant from other prostanoid receptors. This paper reports the crystal structure of human CRTH2 bound to the PGD2 derivative [15R Methyl Pgd2](/xray-mp-wiki/reagents/ligands/15r-methyl-pgd2/) (15mPGD2) by serial femtosecond crystallography (SFX) at 2.6-3.2 A resolution, revealing a "polar group in" binding mode that contrasts with the "polar group out" mode of PGE2 in EP3. Previous structures reported CRTH2 bound to antagonists fevipiprant (2.80 A) and CAY10471 (2.74 A).
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.molcel.2018.08.009 | 6D26 | 2.80 | P212121 | Human CRTH2 with mT4L insertion in ICL3, N25A mutation, C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) (R340-S395 removed), N-terminal 8-amino acid linker | Fevipiprant (QAW039) |
-| doi/10.1016##j.molcel.2018.08.009 | 6D27 | 2.74 | P212121 | Human CRTH2 with mT4L insertion in ICL3, N25A mutation, C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) (R340-S395 removed), N-terminal 8-amino acid linker | CAY10471 |
-| doi/10.1073##pnas.2102813118 | 7M8W | 2.60 | P212121 | Human CRTH2 with mT4L insertion in ICL3, N25A mutation, C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) at R340 | [15R Methyl Pgd2](/xray-mp-wiki/reagents/ligands/15r-methyl-pgd2/) (15mPGD2) |
+### doi/10.1016##j.molcel.2018.08.009
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6d26">6D26</a></td>
+      <td>2.80</td>
+      <td>P212121</td>
+      <td>Human CRTH2 with mT4L insertion in ICL3, N25A mutation, C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Truncation</a> (R340-S395 removed), N-terminal 8-amino acid linker</td>
+      <td>Fevipiprant (QAW039)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6d27">6D27</a></td>
+      <td>2.74</td>
+      <td>P212121</td>
+      <td>Human CRTH2 with mT4L insertion in ICL3, N25A mutation, C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Truncation</a> (R340-S395 removed), N-terminal 8-amino acid linker</td>
+      <td>CAY10471</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Spodoptera frugiperda (Sf9)
 - **Construct**: Human CRTH2 (UniProt Q9Y5Y4) with N-terminal FLAG tag, mT4L insertion in ICL3 (between R237 and I238), N25A mutation, C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) at R340. Expressed using Bac-to-Bac baculovirus system in Sf9 insect cells.
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Expression</td>
+      <td>Baculovirus infection</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>Sf9 cells infected with baculovirus, harvested 48 h post-infection</td>
+    </tr>
+    <tr>
+      <td>Membrane preparation</td>
+      <td>Centrifugation and homogenization</td>
+      <td>--</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> (pH 7.5), 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Mgcl2</a>, 20 mM KCl, protease inhibitors + --</td>
+      <td>Cells lysed by repeated homogenization and centrifugation</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> (pH 7.5), 500 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Mgcl2</a>, 20 mM KCl, 30% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a></td>
+      <td>Membranes solubilized in 1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>; supernatant after 1 h binding with ligand</td>
+    </tr>
+    <tr>
+      <td>Affinity purification</td>
+      <td>Anti-<a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a> M1 <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
+      <td>Anti-<a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a> M1 resin</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> (pH 7.5), 500 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Mgcl2</a>, 20 mM KCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> + 0.002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Bound in 2 mM CaCl2; eluted with 5 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> + 200 ug/ml <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a> peptide</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> (pH 7.5), 150 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Mgcl2</a>, 20 mM KCl + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> + 0.002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Final purification after concentrating eluted protein. Final sample buffer for crystallization.</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression | Baculovirus infection | -- | -- + -- | Sf9 cells infected with baculovirus, harvested 48 h post-infection |
-| Membrane preparation | Centrifugation and homogenization | -- | 20 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) (pH 7.5), 10 mM [Mgcl2](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 20 mM KCl, protease inhibitors + -- | Cells lysed by repeated homogenization and centrifugation |
-| Solubilization | Detergent solubilization | -- | 20 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) (pH 7.5), 500 mM NaCl, 10 mM [Mgcl2](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 20 mM KCl, 30% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 1% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) | Membranes solubilized in 1% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) + 0.2% CHS; supernatant after 1 h binding with ligand |
-| Affinity purification | Anti-FLAG M1 affinity chromatography | Anti-FLAG M1 resin | 20 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) (pH 7.5), 500 mM NaCl, 10 mM [Mgcl2](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 20 mM KCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) + 0.002% CHS | Bound in 2 mM CaCl2; eluted with 5 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/) + 200 ug/ml FLAG peptide |
-| Size-exclusion chromatography | SEC | Superdex 200 | 20 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) (pH 7.5), 150 mM NaCl, 10 mM [Mgcl2](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 20 mM KCl + 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) + 0.002% CHS | Final purification after concentrating eluted protein. Final sample buffer for crystallization. |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified CRTH2-mT4L in 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>, 0.002% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> (pH 7.5), 150 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Mgcl2</a>, 20 mM KCl</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>25% (w/v) <a href="/xray-mp-wiki/reagents/additives/peg/">Peg</a> 3350, 0.1 M bis-tris propane (pH 6.5-7.0), 0.15 M Na-succinate, and 5% (v/v) <a href="/xray-mp-wiki/reagents/additives/peg/">Peg</a> 200</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Reservoir solution supplemented with 25% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a></td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals diffracted to 2.74-2.80 A. Structures solved by molecular replacement using C5aR (6C1R) and T4L from ETBR (5XPR). Data collected at APS GM/CA beamline. Two PDB depositions: 6D26 (fevipiprant-bound) and 6D27 (CAY10471-bound).</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6d26">6D26</a> — Chain A (7 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GMSAN</span><span class="topo-inside">ATLKPLCPILEQMSRLQSHSATSIRYIDH</span><span class="topo-membrane">AAVLLHGLASLLGLVENGVILFVVGC</span></span>
+<span class="topo-line"><span class="topo-outside">RMRQTVV</span><span class="topo-membrane">TTWVLHLALSDLLASASLPFFTYFL</span><span class="topo-inside">AVGHSWELGTT</span><span class="topo-membrane">FCKLHSSIFFLNMFASG</span></span>
+<span class="topo-line"><span class="topo-membrane">FLLSAISLD</span><span class="topo-outside">RCLQVVRPVWAQNHRTVAA</span><span class="topo-membrane">AHKVCLVLWALAVLNTVPYFVFR</span><span class="topo-inside">DTISRLDGR</span></span>
+<span class="topo-line"><span class="topo-inside">IMCYYNVLLLNPGPDRDATCNSR</span><span class="topo-membrane">QAALAVSKFLLAFLVPLAIIASSHAA</span><span class="topo-outside">VSLRLQHRADL</span></span>
+<span class="topo-line"><span class="topo-outside">GLQHRNIFEMLRIDEGGGSGGDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAAL</span></span>
+<span class="topo-line"><span class="topo-outside">INMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWD</span></span>
+<span class="topo-line"><span class="topo-outside">AYRRRPGRFV</span><span class="topo-membrane">RLVAAVVAAFALCWGPYHVFSLLEA</span><span class="topo-inside">RAHANPGLRPLVWRG</span><span class="topo-membrane">LPFVTSLAFF</span></span>
+<span class="topo-line"><span class="topo-membrane">NSVANPVLYVLTC</span><span class="topo-outside">PDMLRKLRRSLRTVLESVL</span><span class="topo-unknown">VDDSELGGAGSSLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>0</td>
+      <td>4</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>34</td>
+      <td>5</td>
+      <td>33</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>60</td>
+      <td>34</td>
+      <td>59</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>67</td>
+      <td>60</td>
+      <td>66</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>92</td>
+      <td>67</td>
+      <td>91</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>93</td>
+      <td>103</td>
+      <td>92</td>
+      <td>102</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>129</td>
+      <td>103</td>
+      <td>128</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>148</td>
+      <td>129</td>
+      <td>147</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>171</td>
+      <td>148</td>
+      <td>170</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>172</td>
+      <td>203</td>
+      <td>171</td>
+      <td>202</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>204</td>
+      <td>229</td>
+      <td>203</td>
+      <td>228</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>230</td>
+      <td>237</td>
+      <td>229</td>
+      <td>236</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>238</td>
+      <td>362</td>
+      <td>1238</td>
+      <td>1362</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>363</td>
+      <td>370</td>
+      <td>2238</td>
+      <td>2245</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>371</td>
+      <td>395</td>
+      <td>2246</td>
+      <td>2270</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>396</td>
+      <td>410</td>
+      <td>2271</td>
+      <td>2285</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>411</td>
+      <td>433</td>
+      <td>2286</td>
+      <td>2308</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>434</td>
+      <td>452</td>
+      <td>2309</td>
+      <td>2327</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>453</td>
+      <td>470</td>
+      <td>2328</td>
+      <td>2345</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1016##j.molcel.2018.08.009
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6d27">6D27</a> — Chain A (7 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | Purified CRTH2-mT4L in 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.002% CHS, 20 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) (pH 7.5), 150 mM NaCl, 10 mM [Mgcl2](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 20 mM KCl |
-| Reservoir | 25% (w/v) [Peg](/xray-mp-wiki/reagents/additives/peg/) 3350, 0.1 M bis-tris propane (pH 6.5-7.0), 0.15 M Na-succinate, and 5% (v/v) [Peg](/xray-mp-wiki/reagents/additives/peg/) 200 |
-| Temperature | 20 |
-| Growth time | -- |
-| Cryoprotection | Reservoir solution supplemented with 25% (v/v) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) |
-| Notes | Crystals diffracted to 2.74-2.80 A. Structures solved by molecular replacement using C5aR (6C1R) and T4L from ETBR (5XPR). Data collected at APS GM/CA beamline. Two PDB depositions: 6D26 (fevipiprant-bound) and 6D27 (CAY10471-bound). |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GMSAN</span><span class="topo-inside">ATLKPLCPILEQMSRL</span><span class="topo-unknown">QSHS</span><span class="topo-inside">ATSIRYIDHA</span><span class="topo-membrane">AVLLHGLASLLGLVENGVILFVVGC</span></span>
+<span class="topo-line"><span class="topo-outside">RMRQTVVT</span><span class="topo-membrane">TWVLHLALSDLLASASLPFFTY</span><span class="topo-inside">FLAVGHSWELGTT</span><span class="topo-membrane">FCKLHSSIFFLNMFASG</span></span>
+<span class="topo-line"><span class="topo-membrane">FLLSAISL</span><span class="topo-outside">DRCLQVVRPVWAQNHRTVAAA</span><span class="topo-membrane">HKVCLVLWALAVLNTVPYFVFR</span><span class="topo-inside">DTISRLDGR</span></span>
+<span class="topo-line"><span class="topo-inside">IMCYYNVLLLNPGPDRDATCN</span><span class="topo-membrane">SRQAALAVSKFLLAFLVPLAIIASSH</span><span class="topo-outside">AAVSLRLQHRADL</span></span>
+<span class="topo-line"><span class="topo-outside">GLQHRNIFEMLRIDEGGGSGGDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAAL</span></span>
+<span class="topo-line"><span class="topo-outside">INMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWD</span></span>
+<span class="topo-line"><span class="topo-outside">AYRRRPGRFVR</span><span class="topo-membrane">LVAAVVAAFALCWGPYHVFSLLEAR</span><span class="topo-inside">AHANPGLRPLVWR</span><span class="topo-membrane">GLPFVTSLAFF</span></span>
+<span class="topo-line"><span class="topo-membrane">NSVANPVLYVLTC</span><span class="topo-outside">PDMLRKLRRSLRTVLESVL</span><span class="topo-unknown">VDDSELGGAGSSLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>0</td>
+      <td>4</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>21</td>
+      <td>5</td>
+      <td>20</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>25</td>
+      <td>21</td>
+      <td>24</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>35</td>
+      <td>25</td>
+      <td>34</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>60</td>
+      <td>35</td>
+      <td>59</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>68</td>
+      <td>60</td>
+      <td>67</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>90</td>
+      <td>68</td>
+      <td>89</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>103</td>
+      <td>90</td>
+      <td>102</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>128</td>
+      <td>103</td>
+      <td>127</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>129</td>
+      <td>149</td>
+      <td>128</td>
+      <td>148</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>150</td>
+      <td>171</td>
+      <td>149</td>
+      <td>170</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>172</td>
+      <td>201</td>
+      <td>171</td>
+      <td>200</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>202</td>
+      <td>227</td>
+      <td>201</td>
+      <td>226</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>228</td>
+      <td>237</td>
+      <td>227</td>
+      <td>236</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>238</td>
+      <td>362</td>
+      <td>1238</td>
+      <td>1362</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>363</td>
+      <td>371</td>
+      <td>2238</td>
+      <td>2246</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>372</td>
+      <td>396</td>
+      <td>2247</td>
+      <td>2271</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>397</td>
+      <td>409</td>
+      <td>2272</td>
+      <td>2284</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>410</td>
+      <td>433</td>
+      <td>2285</td>
+      <td>2308</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>434</td>
+      <td>452</td>
+      <td>2309</td>
+      <td>2327</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>453</td>
+      <td>470</td>
+      <td>2328</td>
+      <td>2345</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
+### doi/10.1073##pnas.2102813118
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7m8w">7M8W</a></td>
+      <td>2.60</td>
+      <td>P212121</td>
+      <td>Human CRTH2 with mT4L insertion in ICL3, N25A mutation, C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Truncation</a> at R340</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/15r-methyl-pgd2/">15R Methyl Pgd2</a> (15mPGD2)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Spodoptera frugiperda (Sf9)
+- **Construct**: Human CRTH2 (UniProt Q9Y5Y4) with N-terminal FLAG tag, mT4L insertion in ICL3 (between R237 and I238), N25A mutation, C-terminal [Truncation](/xray-mp-wiki/concepts/methods-techniques/truncation/) at R340. Expressed using Bac-to-Bac baculovirus system in Sf9 insect cells.
+
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7m8w">7M8W</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GMS</span><span class="topo-inside">ANATLKPLCPILEQMSRLQSHSATSIRYIDHA</span><span class="topo-membrane">AVLLHGLASLLGLVENGVILFVVGC</span></span>
+<span class="topo-line"><span class="topo-membrane">R</span><span class="topo-outside">MRQTV</span><span class="topo-membrane">VTTWVLHLALSDLLASASLPFFTY</span><span class="topo-inside">FLAVGHSWELGTTF</span><span class="topo-membrane">CKLHSSIFFLNMFASG</span></span>
+<span class="topo-line"><span class="topo-membrane">FLLSAISLDRC</span><span class="topo-outside">LQVVRPVWAQNHRTVA</span><span class="topo-membrane">AAHKVCLVLWALAVLNTVPYFV</span><span class="topo-inside">FRDTISRLDGR</span></span>
+<span class="topo-line"><span class="topo-inside">IMCYYNVLLLNPGPDRDATCNSRQA</span><span class="topo-membrane">ALAVSKFLLAFLVPLAIIASSHAA</span><span class="topo-outside">VSLRLQHRADL</span></span>
+<span class="topo-line"><span class="topo-outside">GLQHRNIFE</span><span class="topo-unknown">MLRIDEGGGSGGDEA</span><span class="topo-outside">EKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAAL</span></span>
+<span class="topo-line"><span class="topo-outside">INMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWD</span></span>
+<span class="topo-line"><span class="topo-outside">AYRRRPGRF</span><span class="topo-membrane">VRLVAAVVAAFALCWGPYHVFSLL</span><span class="topo-inside">EARAHANPGLRPLVWRG</span><span class="topo-membrane">LPFVTSLAFF</span></span>
+<span class="topo-line"><span class="topo-membrane">NSVANPVLYVLTC</span><span class="topo-outside">PDMLRKLRRSLRTVLESVLVDD</span><span class="topo-unknown">SELGGAGSSLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>0</td>
+      <td>2</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>35</td>
+      <td>3</td>
+      <td>34</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>61</td>
+      <td>35</td>
+      <td>60</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>66</td>
+      <td>61</td>
+      <td>65</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>90</td>
+      <td>66</td>
+      <td>89</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>104</td>
+      <td>90</td>
+      <td>103</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>131</td>
+      <td>104</td>
+      <td>130</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>132</td>
+      <td>147</td>
+      <td>131</td>
+      <td>146</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>148</td>
+      <td>169</td>
+      <td>147</td>
+      <td>168</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>170</td>
+      <td>205</td>
+      <td>169</td>
+      <td>204</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>206</td>
+      <td>229</td>
+      <td>205</td>
+      <td>228</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>230</td>
+      <td>237</td>
+      <td>229</td>
+      <td>236</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>238</td>
+      <td>245</td>
+      <td>900</td>
+      <td>907</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>246</td>
+      <td>249</td>
+      <td>1002</td>
+      <td>1005</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>250</td>
+      <td>264</td>
+      <td>1006</td>
+      <td>1020</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>265</td>
+      <td>362</td>
+      <td>1064</td>
+      <td>1161</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>363</td>
+      <td>369</td>
+      <td>238</td>
+      <td>244</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>370</td>
+      <td>393</td>
+      <td>245</td>
+      <td>268</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>394</td>
+      <td>410</td>
+      <td>269</td>
+      <td>285</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>411</td>
+      <td>433</td>
+      <td>286</td>
+      <td>308</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>434</td>
+      <td>455</td>
+      <td>309</td>
+      <td>330</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>456</td>
+      <td>470</td>
+      <td>331</td>
+      <td>345</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -88,13 +739,13 @@ Unlike EP3 where PGE2 directly contacts W6.48 (the toggle switch), 15mPGD2 binds
 
 ## Cross-References
 
-- [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) — Primary solubilization and purification detergent (1% for solubilization, 0.01% for SEC)
-- [Cholesteryl Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — 0.2% CHS added to LMNG for stabilization
-- [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) — 20 mM HEPES (pH 7.5) used in purification and crystallization buffers
-- [Polyethylene Glycol (PEG)](/xray-mp-wiki/reagents/additives/peg/) — 25% PEG 3350 as crystallization precipitant
-- [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — CRTH2 expressed in Sf9 insect cells using Bac-to-Bac system
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Anti-FLAG M1 affinity purification
-- [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Crystallization method for CRTH2 antagonist structures
-- [Lipidic Cubic Phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP used for crystallization in the SFX structure (PDB 7M8W)
-- [Serial Femtosecond Crystallography](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/) — SFX used to collect diffraction data from CRTH2 microcrystals at LCLS XFEL
-- [Molecular Dynamics Simulation](/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/) — MD simulations used to study lipid recognition and capture by CRTH2
+- <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a> — Primary solubilization and purification detergent (1% for solubilization, 0.01% for SEC)
+- <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesteryl Hemisuccinate (CHS)</a> — 0.2% CHS added to LMNG for stabilization
+- <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> — 20 mM HEPES (pH 7.5) used in purification and crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/peg/">Polyethylene Glycol (PEG)</a> — 25% PEG 3350 as crystallization precipitant
+- <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/">Baculovirus Expression System</a> — CRTH2 expressed in Sf9 insect cells using Bac-to-Bac system
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Anti-FLAG M1 affinity purification
+- <a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">Hanging-Drop Vapor Diffusion</a> — Crystallization method for CRTH2 antagonist structures
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase</a> — LCP used for crystallization in the SFX structure (PDB 7M8W)
+- <a href="/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography/">Serial Femtosecond Crystallography</a> — SFX used to collect diffraction data from CRTH2 microcrystals at LCLS XFEL
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-dynamics-simulation/">Molecular Dynamics Simulation</a> — MD simulations used to study lipid recognition and capture by CRTH2

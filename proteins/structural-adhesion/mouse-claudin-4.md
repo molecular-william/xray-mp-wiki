@@ -1,12 +1,12 @@
 ---
 title: "Mouse Claudin-4 (mCLDN-4)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [receptor, membrane-protein]
-sources: [doi/10.1073##pnas.2024651118]
+sources: []
 verified: false
 ---
 
@@ -23,17 +23,9 @@ cytotoxic to mCLDN-4-expressing Sf9 cells. This positions mCLDN-4 as a potential
 secondary CpE receptor in mice, alongside the primary receptors CLDN-3 and CLDN-8.
 
 
-## Structure Determination
+## Publications
 
-No structure determined.
-
-## Expression and Purification
-
-No purification described.
-
-## Crystallization
-
-No crystallization described.
+No publications.
 
 ## Biological / Functional Insights
 
@@ -50,5 +42,5 @@ its role as a secondary CpE receptor in mice.
 
 ## Cross-References
 
-- [Human Claudin-4 (hCLDN-4)](/xray-mp-wiki/proteins/structural-adhesion/human-claudin-4/) — Sequence comparison reveals species differences at position 3 of the CpE-binding motif
-- [C-CPE (Clostridium perfringens Enterotoxin)](/xray-mp-wiki/reagents/ligands/c-cpe/) — mCLDN-4 is a secondary CpE receptor in mice
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/human-claudin-4/">Human Claudin-4 (hCLDN-4)</a> — Sequence comparison reveals species differences at position 3 of the CpE-binding motif
+- <a href="/xray-mp-wiki/reagents/ligands/c-cpe/">C-CPE (Clostridium perfringens Enterotoxin)</a> — mCLDN-4 is a secondary CpE receptor in mice

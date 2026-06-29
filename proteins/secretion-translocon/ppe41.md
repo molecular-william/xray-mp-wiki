@@ -1,7 +1,7 @@
 ---
 title: "PPE41"
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,43 +17,105 @@ verified: false
 PPE41 is the conserved N-terminal domain of the PPE (Pro-Pro-Glu) protein family from Mycobacterium tuberculosis. PPE41 forms a heterodimer with [PE25](/xray-mp-wiki/proteins/secretion-translocon/pe25/) through a four-helix bundle interface, creating an elongated all-helical structure characteristic of ESX-secreted substrates. The PPE41 protein contains a characteristic hh motif (residues D121-T129) that serves as the binding site for EspG chaperones. PPE41 is secreted by the ESX-1 type VII secretion system as part of the PE25-PPE41 heterodimer and is essential for mycobacterial virulence.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.jsb.2015.06.003 | 2G38 | 2.0 A | Not specified | PE25-PPE41 heterodimer (N-terminal domains only, lacking C-terminal regions) | None |
-| doi/10.1016##j.jsb.2015.06.003 | 4KXR | Not specified | Not specified | PE25-PPE41-EspG5 complex | EspG5 chaperone |
-| doi/10.1016##j.jsb.2015.06.003 | 4W4L | Not specified | Not specified | PE25-PPE41-EspG5 complex | EspG5 chaperone |
+### doi/10.1016##j.jsb.2015.06.003
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2g38">2G38</a></td>
+      <td>2.0 A</td>
+      <td>Not specified</td>
+      <td>PE25-PPE41 heterodimer (N-terminal domains only, lacking C-terminal regions)</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4kxr">4KXR</a></td>
+      <td>Not specified</td>
+      <td>Not specified</td>
+      <td>PE25-PPE41-EspG5 complex</td>
+      <td>EspG5 chaperone</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4w4l">4W4L</a></td>
+      <td>Not specified</td>
+      <td>Not specified</td>
+      <td>PE25-PPE41-EspG5 complex</td>
+      <td>EspG5 chaperone</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Not specified in this paper
 - **Construct**: PPE41 N-terminal domain as part of PE25-PPE41 heterodimer
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Not specified</td>
+      <td>Not specified</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>Purification details not described in this paper; original structure determined by Strong et al. (2006) PNAS 103:8060-8065</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Not specified | Not specified | -- | -- + -- | Purification details not described in this paper; original structure determined by Strong et al. (2006) PNAS 103:8060-8065 |
-
-
-## Crystallization
-
-### doi/10.1016##j.jsb.2015.06.003
-
-| Parameter | Value |
-|---|---|
-| Method | Not specified in this paper |
-| Protein sample | PE25-PPE41 heterodimer |
-| Reservoir | -- |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Original crystallization described in Strong et al. (2006) PNAS 103:8060-8065 |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Not specified in this paper</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>PE25-PPE41 heterodimer</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Original crystallization described in Strong et al. (2006) PNAS 103:8060-8065</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -72,8 +134,8 @@ The YxxxD/E secretion motif is present in [PE25](/xray-mp-wiki/proteins/secretio
 
 ## Cross-References
 
-- [PE25](/xray-mp-wiki/proteins/secretion-translocon/pe25/) — PPE41 forms the heterodimer partner of PE25 in the canonical PE-PPE complex
-- [EspB](/xray-mp-wiki/proteins/secretion-translocon/espB/) — EspB structure structurally resembles the PE25-PPE41 heterodimer despite being a single-chain fusion
-- [PE-PPE Fusion Proteins](/xray-mp-wiki/concepts/construct-design/pe-ppe-fusion-proteins/) — PPE41 is the PPE domain component of the canonical PE-PPE heterodimer architecture
-- [ESX-1 Secretion System](/xray-mp-wiki/concepts/transport-mechanisms/esx-1-secretion-system/) — PPE41 is a secreted substrate of the ESX-1 type VII secretion system as part of PE25-PPE41
-- [EspG1](/xray-mp-wiki/proteins/secretion-translocon/espg1/) — EspG chaperones bind the hh motif on PPE41 for heterodimer folding and secretion
+- <a href="/xray-mp-wiki/proteins/secretion-translocon/pe25/">PE25</a> — PPE41 forms the heterodimer partner of PE25 in the canonical PE-PPE complex
+- <a href="/xray-mp-wiki/proteins/secretion-translocon/espB/">EspB</a> — EspB structure structurally resembles the PE25-PPE41 heterodimer despite being a single-chain fusion
+- <a href="/xray-mp-wiki/concepts/construct-design/pe-ppe-fusion-proteins/">PE-PPE Fusion Proteins</a> — PPE41 is the PPE domain component of the canonical PE-PPE heterodimer architecture
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/esx-1-secretion-system/">ESX-1 Secretion System</a> — PPE41 is a secreted substrate of the ESX-1 type VII secretion system as part of PE25-PPE41
+- <a href="/xray-mp-wiki/proteins/secretion-translocon/espg1/">EspG1</a> — EspG chaperones bind the hh motif on PPE41 for heterodimer folding and secretion

@@ -1,7 +1,7 @@
 ---
 title: "CopA from Archaeoglobus fulgidus (AfCopA)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,45 +17,77 @@ verified: false
 CopA from Archaeoglobus fulgidus (AfCopA) is a copper-transporting P1B-type ATPase that facilitates cellular export of copper. P1B-ATPases are present in all kingdoms of life and are essential for copper homeostasis. This paper presents the first inward-facing E1 conformation structure of a P1B-ATPase at 2.7 A resolution, revealing the mechanism of Cu+ uptake from cytosolic chaperones. The structure shows a unique A-domain arrangement and identifies a methionine (M158) that plays a key role in chaperone-mediated Cu+ transfer to the transmembrane core, together with the CPC signature motif cysteines (C380, C382).
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##s41467-022-32751-w | 7ROI | 2.7 | Not specified | AfCopA truncated construct lacking N- and C-terminal heavy metal binding domains (residues G80-G736), expressed in E. coli | Cu+ (in the presence of copper) |
-| doi/10.1038##s41467-022-32751-w | 7ROH | 3.3 | Not specified | AfCopA truncated construct (residues G80-G736) | Cu+ (data collected at copper absorption edge, 1.37 A) |
-| doi/10.1038##s41467-022-32751-w | 7ROG | 2.8 | Not specified | AfCopA truncated construct (residues G80-G736) | Apo (no copper) |
+### doi/10.1038##s41467-022-32751-w
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7roi">7ROI</a></td>
+      <td>2.7</td>
+      <td>Not specified</td>
+      <td>AfCopA truncated construct lacking N- and C-terminal heavy metal binding domains (residues G80-G736), expressed in E. coli</td>
+      <td>Cu+ (in the presence of copper)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7roh">7ROH</a></td>
+      <td>3.3</td>
+      <td>Not specified</td>
+      <td>AfCopA truncated construct (residues G80-G736)</td>
+      <td>Cu+ (data collected at copper absorption edge, 1.37 A)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7rog">7ROG</a></td>
+      <td>2.8</td>
+      <td>Not specified</td>
+      <td>AfCopA truncated construct (residues G80-G736)</td>
+      <td>Apo (no copper)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli C43 strain
 - **Construct**: AfCopA deltaNdeltaC (residues G80-G736, UniProtKB O29777) cloned into pET-22b(+); expression induced with 1 mM [IPTG (Isopropyl-beta-D-thiogalactopyranoside)](/xray-mp-wiki/reagents/additives/iptg) at 20 C for 16 h
 - **Induction**: 1 mM [IPTG (Isopropyl-beta-D-thiogalactopyranoside)](/xray-mp-wiki/reagents/additives/iptg), 20 C, 16 h
 
-### Purification Workflow
+**Crystallization:**
 
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | High-pressure homogenization (25 kpsi) | — | 20 mM Tris-HCl pH 7.6, 200 mM KCl, 20% glycerol, 5 mM [Beta-Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol), 1 mM PMSF | Cells disrupted at 25 kpsi, debris removed by centrifugation, membranes collected by ultracentrifugation at 185,500 x g for 3 h |
-| Solubilization | [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm) solubilization | — | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.6, 200 mM KCl, 1% DDM | Membranes solubilized for 2 h |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) | Ni-Sepharose resin | Ni-Sepharose loose resin (Cytiva) | 20 mM Tris-HCl pH 7.6, 200 mM KCl, 50 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) (wash), 500 mM imidazole (elution) | Sample loaded twice; [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease) added for tag cleavage |
-| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) | [Superose 6 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superose-6-increase) column | — | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 7.6, 200 mM KCl, 0.02% DDM |  |
-
-
-## Crystallization
-
-### doi/10.1038##s41467-022-32751-w
-
-| Parameter | Value |
-|---|---|
-| Method | HiLiDe (high lipid and detergent) crystallization |
-| Protein sample | AfCopA at 2.25 mg/mL DOPC and 5 mg/mL [Octaethylene Glycol Monododecyl Ether (C12E8)](/xray-mp-wiki/reagents/detergents/c12e8), incubated 16 h at 4 C; 1 mM CuSO4 added for Cu+ bound structures |
-| Reservoir | 1.5 M ammonium citrate, 0.1 M MES pH 5.5, 5 mM [Beta-Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol) |
-| Temperature | 4 C |
-| Notes | Hanging drop vapor diffusion; 5.0 mM 06:0 Lyso PC additive used for final data collection; crystals flash-frozen in liquid nitrogen |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>HiLiDe (high lipid and detergent) crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>AfCopA at 2.25 mg/mL DOPC and 5 mg/mL <a href="/xray-mp-wiki/reagents/detergents/c12e8">Octaethylene Glycol Monododecyl Ether (C12E8)</a>, incubated 16 h at 4 C; 1 mM CuSO4 added for Cu+ bound structures</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>1.5 M ammonium <a href="/xray-mp-wiki/reagents/buffers/citrate/">citrate</a>, 0.1 M MES pH 5.5, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">Beta-Mercaptoethanol</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">Hanging drop vapor diffusion</a>; 5.0 mM 06:0 Lyso PC additive used for final data collection; crystals flash-frozen in liquid nitrogen</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -74,13 +106,13 @@ In the E1 conformation, C380 and C382 of the conserved CPC motif in M4 are surfa
 
 ## Cross-References
 
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) — Purification method used in protein preparation
-- [Size-Exclusion Chromatography (SEC)](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) — Purification method used in protein preparation
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) — Additive used in purification or crystallization buffers
-- [Superose 6 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superose-6-increase) — Additive used in purification or crystallization buffers
-- [C12E8](/xray-mp-wiki/reagents/detergents/c12e8) — Detergent used for membrane protein solubilization
-- [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris-hcl) — Buffer component in purification and crystallization
-- [Beta-Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol) — Additive used in purification or crystallization buffers
-- [Iptg](/xray-mp-wiki/reagents/additives/iptg) — Additive used in purification or crystallization buffers
-- [Tev Protease](/xray-mp-wiki/reagents/additives/tev-protease) — Additive used in purification or crystallization buffers
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm) — Detergent used for membrane protein solubilization
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a> — Purification method used in protein preparation
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size-Exclusion Chromatography (SEC)</a> — Purification method used in protein preparation
+- <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/superose-6-increase">Superose 6 Increase SEC Resin</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/detergents/c12e8">C12E8</a> — Detergent used for membrane protein solubilization
+- <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris Hcl</a> — Buffer component in purification and crystallization
+- <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">Beta-Mercaptoethanol</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/iptg">Iptg</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/tev-protease">Tev Protease</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/detergents/ddm">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Detergent used for membrane protein solubilization

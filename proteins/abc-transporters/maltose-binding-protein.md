@@ -1,12 +1,12 @@
 ---
 title: "MBP (Escherichia coli Maltose-Binding Protein)"
 created: 2026-06-02
-updated: 2026-06-16
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [receptor, membrane-protein, xray-crystallography]
-sources: [doi/10.1038##nature06264, doi/10.1038##nature12232, doi/10.1073##pnas.1311407110, doi/10.1126##science.1200767]
+sources: [doi/10.1038##nature06264]
 verified: false
 ---
 
@@ -30,40 +30,553 @@ der Waals interactions with a continuous surface of four stacking aromatic
 residues.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature06264 | 2R6G | 2.8 | — | Open apo conformation of MBP from E. coli maltose transporter |  |
-| doi/10.1038##nature06264 | 1OMP |  | — | Open apo MBP (search model for molecular replacement) |  |
-| doi/10.1038##nature06264 | 1JW5 |  | — |  | maltose |
+### doi/10.1038##nature06264
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2r6g">2R6G</a></td>
+      <td>2.8</td>
+      <td>—</td>
+      <td>Open apo conformation of MBP from E. coli maltose transporter</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1omp">1OMP</a></td>
+      <td></td>
+      <td>—</td>
+      <td>Open apo MBP (search model for molecular replacement)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1jw5">1JW5</a></td>
+      <td></td>
+      <td>—</td>
+      <td></td>
+      <td>maltose</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli BAR1000
 - **Construct**: MBP under mal promoter; increased expression strain
 - **Notes**: Cells cultured overnight with maltose induction
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli BAR1000
 - **Expression construct**: MBP under mal promoter
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture | Fermentation | — | Luria-Bertani medium supplemented with 4 g/L maltose | Cells cultured overnight with maltose induction |
-| Osmotic shock | Osmotic shock | — | 30 mM Tris-HCl pH 8, 20% sucrose; then ice-cold 5 mM MgSO4 | Cells resuspended in sucrose buffer, centrifuged, then resuspended in MgSO4 to release periplasmic MBP |
-| Ion-exchange chromatography | Ion-exchange chromatography | Source 15Q (GE Healthcare) | 20 mM Tris-HCl pH 8 | FPLC (AKTA) at 4 C |
-| Size-exclusion chromatography | SEC | Superdex 200 (GE Healthcare) | 20 mM Tris-HCl pH 8 | FPLC (AKTA) at 4 C |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture</td>
+      <td>Fermentation</td>
+      <td>—</td>
+      <td>Luria-Bertani medium supplemented with 4 g/L maltose</td>
+      <td>Cells cultured overnight with maltose induction</td>
+    </tr>
+    <tr>
+      <td>Osmotic shock</td>
+      <td>Osmotic shock</td>
+      <td>—</td>
+      <td>30 mM Tris-HCl pH 8, 20% sucrose; then ice-cold 5 mM MgSO4</td>
+      <td>Cells resuspended in sucrose buffer, centrifuged, then resuspended in MgSO4 to release periplasmic MBP</td>
+    </tr>
+    <tr>
+      <td>Ion-exchange chromatography</td>
+      <td>Ion-exchange chromatography</td>
+      <td>Source 15Q (GE Healthcare)</td>
+      <td>20 mM Tris-HCl pH 8</td>
+      <td>FPLC (AKTA) at 4 C</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>SEC</td>
+      <td>Superdex 200 (GE Healthcare)</td>
+      <td>20 mM Tris-HCl pH 8</td>
+      <td>FPLC (AKTA) at 4 C</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: 1 mg/mL in 20 mM Tris-HCl pH 8
 
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-## Crystallization
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2r6g">2R6G</a> — Chain A (0 TMs, non_tm)**
 
-No crystallization described.
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">ASVQLQNVTKAWGEVVVSKDINLDIHEGEFVVFVGPSGCGKSTLLRMIAGLETITSGDL</span></span>
+<span class="topo-line"><span class="topo-inside">FIGEKRMNDTPPAERGVGMVFQSYALYPHLSVAENMSFGLKLAGAKKEVINQRVNQVAEV</span></span>
+<span class="topo-line"><span class="topo-inside">LQLAHLLDRKPKALSGGQRQRVAIGRTLVAEPSVFLLDQPLSNLDAALRVQMRIEISRLH</span></span>
+<span class="topo-line"><span class="topo-inside">KRLGRTMIYVTHDQVEAMTLADKIVVLDAGRVAQVGKPLELYHYPADRFVAGFIGSPKMN</span></span>
+<span class="topo-line"><span class="topo-inside">FLPVKVTATAIDQVQVELPMPNRQQVWLPVESRDVQVGANMSLGIRPEHLLPSDIADVIL</span></span>
+<span class="topo-line"><span class="topo-inside">EGEVQVVEQLGNETQIHIQIPSIRQNLVYRQNDVVLVEEGATFAIGLPPERCHLFREDGT</span></span>
+<span class="topo-line"><span class="topo-inside">ACRRLHKEPGVA</span><span class="topo-unknown">SASHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>372</td>
+      <td>2</td>
+      <td>372</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>373</td>
+      <td>381</td>
+      <td>373</td>
+      <td>381</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2r6g">2R6G</a> — Chain B (0 TMs, non_tm)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">ASVQLQNVTKAWGEVVVSKDINLDIHEGEFVVFVGPSGCGKSTLLRMIAGLETITSGDL</span></span>
+<span class="topo-line"><span class="topo-inside">FIGEKRMNDTPPAERGVGMVFQSYALYPHLSVAENMSFGLKLAGAKKEVINQRVNQVAEV</span></span>
+<span class="topo-line"><span class="topo-inside">LQLAHLLDRKPKALSGGQRQRVAIGRTLVAEPSVFLLDQPLSNLDAALRVQMRIEISRLH</span></span>
+<span class="topo-line"><span class="topo-inside">KRLGRTMIYVTHDQVEAMTLADKIVVLDAGRVAQVGKPLELYHYPADRFVAGFIGSPKMN</span></span>
+<span class="topo-line"><span class="topo-inside">FLPVKVTATAIDQVQVELPMPNRQQVWLPVESRDVQVGANMSLGIRPEHLLPSDIADVIL</span></span>
+<span class="topo-line"><span class="topo-inside">EGEVQVVEQLGNETQIHIQIPSIRQNLVYRQNDVVLVEEGATFAIGLPPERCHLFREDGT</span></span>
+<span class="topo-line"><span class="topo-inside">ACRRLHKEPGVAS</span><span class="topo-unknown">ASHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>373</td>
+      <td>2</td>
+      <td>373</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>374</td>
+      <td>381</td>
+      <td>374</td>
+      <td>381</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2r6g">2R6G</a> — Chain E (0 TMs, non_tm)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">KIEEGKLVIWINGDKGYNGLAEVGKKFEKDTGIKVTVEHPDKLEEKFPQVAATGDGPDII</span></span>
+<span class="topo-line"><span class="topo-outside">FWAHDRFGGYAQSGLLAEITPDKAFQDKLYPFTWDAVRYNGKLIAYPIAVEALSLIYNKD</span></span>
+<span class="topo-line"><span class="topo-outside">LLPNPPKTWEEIPALDKELKAKGKSALMFNLQEPYFTWPLIAADGGYAFKYENGKYDIKD</span></span>
+<span class="topo-line"><span class="topo-outside">VGVDNAGAKAGLTFLVDLIKNKHMNADTDYSIAEAAFNKGETAMTINGPWAWSNIDTSKV</span></span>
+<span class="topo-line"><span class="topo-outside">NYGVTVLPTFKGQPSKPFVGVLSAGINAASPNKELAKEFLENYLLTDEGLEAVNKDKPLG</span></span>
+<span class="topo-line"><span class="topo-outside">AVALKSYEEELAKDPRIAATMENAQKGEIMPNIPQMSAFWYAVRTAVINAASGRQTVDEA</span></span>
+<span class="topo-line"><span class="topo-outside">LKDAQTRITK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>370</td>
+      <td>1</td>
+      <td>370</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2r6g">2R6G</a> — Chain F (8 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MDVIKKKHWWQS</span><span class="topo-inside">DALK</span><span class="topo-membrane">WSVLGLLGLLVGYLVV</span><span class="topo-outside">LMYAQGEYLFA</span><span class="topo-membrane">ITTLILSSAGLYIFANR</span></span>
+<span class="topo-line"><span class="topo-inside">KAYAW</span><span class="topo-membrane">RYVYPGMAGMGLFVLFPLV</span><span class="topo-outside">CTIAIAFTNYSSTNQLTFERAQEVLLDRSWQAGKTY</span></span>
+<span class="topo-line"><span class="topo-outside">NFGLYPAGDEWQLALSDGETGKNYLSDAFKFGGEQKLQLKETTAQPEGERANLRVITQNR</span></span>
+<span class="topo-line"><span class="topo-outside">QALSDITAILPDGNKVMMSSLRQFSGTQPLYTLDGDGTLTNNQSGVKYRPNNQIGFYQSI</span></span>
+<span class="topo-line"><span class="topo-outside">TA</span><span class="topo-unknown">DG</span><span class="topo-outside">NWGDEKLSPGYTVTTGWKNFTRVFTDEGIQKPFLAIF</span><span class="topo-membrane">VWTVVFSLITVFLTVAVGM</span></span>
+<span class="topo-line"><span class="topo-membrane">VLACLV</span><span class="topo-inside">QWEALRG</span><span class="topo-membrane">KAVYRVLLILPYAVPS</span><span class="topo-outside">FISILIFKGLFNQSFGEINMMLSALFGVKPA</span></span>
+<span class="topo-line"><span class="topo-outside">WFSDPTTAR</span><span class="topo-membrane">TMLIIVNTWLGYPYMMILCMGL</span><span class="topo-inside">LKAIPDDLYEASAMDGAGPFQNFFKITLP</span></span>
+<span class="topo-line"><span class="topo-inside">LLIKP</span><span class="topo-membrane">LTPLMIASFAFNFNN</span><span class="topo-outside">FVLIQLLTNGGPDRLGTTTPAGYTDLLVNYTYRIAFEGGG</span></span>
+<span class="topo-line"><span class="topo-outside">GQDFGLAAAIAT</span><span class="topo-membrane">LIFLLVGALAIV</span><span class="topo-unknown">NLKATRMKFD</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>1</td>
+      <td>12</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>16</td>
+      <td>13</td>
+      <td>16</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>32</td>
+      <td>17</td>
+      <td>32</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>43</td>
+      <td>33</td>
+      <td>43</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>60</td>
+      <td>44</td>
+      <td>60</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>65</td>
+      <td>61</td>
+      <td>65</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>84</td>
+      <td>66</td>
+      <td>84</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>242</td>
+      <td>85</td>
+      <td>242</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>243</td>
+      <td>244</td>
+      <td>243</td>
+      <td>244</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>245</td>
+      <td>281</td>
+      <td>245</td>
+      <td>281</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>282</td>
+      <td>306</td>
+      <td>282</td>
+      <td>306</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>307</td>
+      <td>313</td>
+      <td>307</td>
+      <td>313</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>314</td>
+      <td>329</td>
+      <td>314</td>
+      <td>329</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>330</td>
+      <td>369</td>
+      <td>330</td>
+      <td>369</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>370</td>
+      <td>391</td>
+      <td>370</td>
+      <td>391</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>392</td>
+      <td>425</td>
+      <td>392</td>
+      <td>425</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>426</td>
+      <td>440</td>
+      <td>426</td>
+      <td>440</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>441</td>
+      <td>492</td>
+      <td>441</td>
+      <td>492</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>493</td>
+      <td>504</td>
+      <td>493</td>
+      <td>504</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>505</td>
+      <td>514</td>
+      <td>505</td>
+      <td>514</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2r6g">2R6G</a> — Chain G (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MAMVQP</span><span class="topo-inside">KSQKARLF</span><span class="topo-membrane">ITHLLLLLFIAAIMFPLL</span><span class="topo-outside">MVVAISLRQGNFATGSLIPEQISWDHWK</span></span>
+<span class="topo-line"><span class="topo-outside">LALGFSV</span><span class="topo-unknown">EQADGR</span><span class="topo-outside">ITPPPFPVLLWL</span><span class="topo-membrane">WNSVKVAGISAIGIVALSTTCA</span><span class="topo-inside">YAFARMRFP</span><span class="topo-membrane">GKAT</span></span>
+<span class="topo-line"><span class="topo-membrane">LLKGMLIFQMFPA</span><span class="topo-outside">VLSLVALYALFDRLGEYIPFIGLNTH</span><span class="topo-membrane">GGVIFAYLGGIALHVWTIK</span><span class="topo-inside">GY</span></span>
+<span class="topo-line"><span class="topo-inside">FETIDSSLEEAAALDGATPWQAFRLVLLPLSVP</span><span class="topo-membrane">ILAVVFILSFIAAITE</span><span class="topo-outside">VPVASLLLRDV</span></span>
+<span class="topo-line"><span class="topo-outside">NSYTLAVGMQQYLNPQNYLWGDFAAAAV</span><span class="topo-membrane">MSALPITIVFLLAQRWL</span><span class="topo-inside">VNGLTAGGVKG</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>6</td>
+      <td>1</td>
+      <td>6</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>14</td>
+      <td>7</td>
+      <td>14</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>32</td>
+      <td>15</td>
+      <td>32</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>67</td>
+      <td>33</td>
+      <td>67</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>73</td>
+      <td>68</td>
+      <td>73</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>85</td>
+      <td>74</td>
+      <td>85</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>107</td>
+      <td>86</td>
+      <td>107</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>116</td>
+      <td>108</td>
+      <td>116</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>117</td>
+      <td>133</td>
+      <td>117</td>
+      <td>133</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>134</td>
+      <td>159</td>
+      <td>134</td>
+      <td>159</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>160</td>
+      <td>178</td>
+      <td>160</td>
+      <td>178</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>179</td>
+      <td>213</td>
+      <td>179</td>
+      <td>213</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>229</td>
+      <td>214</td>
+      <td>229</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>230</td>
+      <td>268</td>
+      <td>230</td>
+      <td>268</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>269</td>
+      <td>285</td>
+      <td>269</td>
+      <td>285</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>286</td>
+      <td>296</td>
+      <td>286</td>
+      <td>296</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -86,9 +599,9 @@ In the pretranslocation state bound with maltoheptaose, the first four glucosyl 
 
 ## Cross-References
 
-- [Maltose Transporter MalFGK2 (E. coli)](/xray-mp-wiki/proteins/abc-transporters/maltose-transporter-malfgk2/) — MBP delivers substrate to the MalFGK2 ABC transporter complex
-- [Maltose](/xray-mp-wiki/reagents/additives/maltose/) — Physiological substrate; binds in MBP cleft
-- [Adenosine Triphosphate (ATP)](/xray-mp-wiki/reagents/ligands/atp/) — MBP stimulates ATP hydrolysis upon delivering substrate to TM subunits
-- [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Buffer used for MBP purification and storage
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — ABC transporter transport mechanism
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — MBP structure (1OMP) used as search model for phasing
+- <a href="/xray-mp-wiki/proteins/abc-transporters/maltose-transporter-malfgk2/">Maltose Transporter MalFGK2 (E. coli)</a> — MBP delivers substrate to the MalFGK2 ABC transporter complex
+- <a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a> — Physiological substrate; binds in MBP cleft
+- <a href="/xray-mp-wiki/reagents/ligands/atp/">Adenosine Triphosphate (ATP)</a> — MBP stimulates ATP hydrolysis upon delivering substrate to TM subunits
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> — Buffer used for MBP purification and storage
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating-Access Mechanism</a> — ABC transporter transport mechanism
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — MBP structure (1OMP) used as search model for phasing

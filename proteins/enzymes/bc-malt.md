@@ -1,7 +1,7 @@
 ---
 title: "bcMalT (Bacillus cereus Maltose Transporter)"
 created: 2026-05-28
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,49 +17,926 @@ verified: false
 bcMalT is a [Maltose](/xray-mp-wiki/reagents/additives/maltose) transporter from Bacillus cereus, belonging to the Glucose superfamily of enzyme IIC (EIIC) components of the phosphoenolpyruvate:carbohydrate phosphotransferase system (PTS). It is the first crystal structure of a Glucose superfamily EIIC transporter in an outward-facing occluded conformation. The protein undergoes a large rigid-body motion of its substrate-binding domain, moving the substrate-binding cavity by approximately 20 A between inward-facing and outward-facing states, consistent with an elevator-car transport mechanism.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.str.2016.04.003 | 5IWS | 2.55 | I222 | Trypsinized EIIC domain (residues 8-450) | [Maltose](/xray-mp-wiki/reagents/additives/maltose) |
-| doi/10.1073##pnas.1800647115 | 6BVG | 3.2 | I222 | bcMalT T280C/E54C double-cysteine mutant, Hg2+-crosslinked, inward-facing conformation | [Maltose](/xray-mp-wiki/reagents/additives/maltose) |
+### doi/10.1016##j.str.2016.04.003
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5iws">5IWS</a></td>
+      <td>2.55</td>
+      <td>I222</td>
+      <td>Trypsinized EIIC domain (residues 8-450)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/maltose">Maltose</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli
 - **Construct**: His6-tagged EIIC domain from Bacillus cereus (Uniprot Q63GK8), cloned into pMCSG28 vector, [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine)-derivatized
 - **Notes**: Gene cloned from Bacillus cereus E33L chromosome. Cells grown in SeMet-containing minimal media, induced with 0.5 mM [IPTG (Isopropyl-beta-D-thiogalactopyranoside)](/xray-mp-wiki/reagents/additives/iptg) at 20 C overnight.
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli
 - **Expression construct**: C-terminal [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag) on full-length protein, trypsinized to yield EIIC domain only
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td><a href="/xray-mp-wiki/methods/purification/sonication/">Sonication</a></td>
+      <td>—</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% glycerol, 2 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">Beta-Mercaptoethanol</a>, 25 ug/mL <a href="/xray-mp-wiki/reagents/additives/dnase/">DNase I</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">MgCl2</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">PMSF (Phenylmethylsulfonyl Fluoride)</a></td>
+      <td>Cells resuspended and sonicated until fully lysed</td>
+    </tr>
+    <tr>
+      <td>Membrane extraction</td>
+      <td>Detergent solubilization</td>
+      <td>—</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a> + 30 mM <a href="/xray-mp-wiki/reagents/detergents/ddm">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> (Anatrace)</td>
+      <td>Gentle shaking for 2 hours at room temperature, centrifuged 45 min at 55,000g</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA Agarose Resin</a> affinity (<a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a>, Clontech)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon">TALON Cobalt Affinity Resin</a> cobalt affinity resin</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES Buffer</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a> + 30 mM <a href="/xray-mp-wiki/reagents/detergents/ddm">n-Dodecyl-beta-D-maltopyranoside (DDM)</a></td>
+      <td>Washed with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>, eluted with 300 mM imidazole</td>
+    </tr>
+    <tr>
+      <td>Limited proteolysis</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/trypsin">Trypsin</a> digestion</td>
+      <td>—</td>
+      <td></td>
+      <td>1:20 wt ratio bcMalT to <a href="/xray-mp-wiki/reagents/additives/trypsin">Trypsin</a>, 30 min at room temperature, yielded EIIC domain (~50.84 kDa)</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size-Exclusion Chromatography</a></td>
+      <td>SEC (<a href="/xray-mp-wiki/reagents/additives/superdex-200">Superdex 200 Increase SEC Resin</a> 10/300 GL)</td>
+      <td>—</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10 mM trehalose, 4 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM (n-Decyl-beta-D-Maltoside)</a>, 4 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">Beta-Mercaptoethanol</a></td>
+      <td>Full-length EIICB protein unstable at high concentrations in detergent; trypsinized EIIC domain used for crystallization</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Sonication | — | 20 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol, 2 mM [Beta-Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol), 25 ug/mL DNase I, 5 mM MgCl2, 1 mM PMSF | Cells resuspended and sonicated until fully lysed |
-| Membrane extraction | Detergent solubilization | — | 20 mM HEPES pH 7.5, 150 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol) + 30 mM [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm) (Anatrace) | Gentle shaking for 2 hours at room temperature, centrifuged 45 min at 55,000g |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) | [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta) affinity (TALON, Clontech) | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon) cobalt affinity resin | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes) pH 7.5, 150 mM NaCl + 30 mM [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm) | Washed with 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole), eluted with 300 mM imidazole |
-| Limited proteolysis | [Trypsin](/xray-mp-wiki/reagents/additives/trypsin) digestion | — |  | 1:20 wt ratio bcMalT to [Trypsin](/xray-mp-wiki/reagents/additives/trypsin), 30 min at room temperature, yielded EIIC domain (~50.84 kDa) |
-| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) | SEC ([Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200) 10/300 GL) | — | 20 mM HEPES pH 7.5, 150 mM NaCl, 10 mM trehalose, 4 mM DM, 4 mM [Beta-Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol) | Full-length EIICB protein unstable at high concentrations in detergent; trypsinized EIIC domain used for crystallization |
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">Lipidic Cubic Phase Crystallization</a> (in meso)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>50-55 mg/mL trypsinized EIIC domain in 20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride</a>, 10 mM trehalose, 4 mM <a href="/xray-mp-wiki/reagents/detergents/dm/">DM (n-Decyl-beta-D-Maltoside)</a>, 4 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol">Beta-Mercaptoethanol</a></td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a></td>
+    </tr>
+    <tr>
+      <td>Protein-to-lipid ratio</td>
+      <td>2:3 (protein solution:molten <a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a>, w:w)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Room temperature</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Approximately 3 weeks</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Flash frozen in liquid nitrogen</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-## Crystallization
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5iws">5IWS</a> — Chain A (8 TMs, alpha)**
 
-### doi/10.1016##j.str.2016.04.003
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">ITSFD</span><span class="topo-inside">FWQKF</span><span class="topo-membrane">GKALLVVVAVMPAAGLMISIG</span><span class="topo-outside">KLIGMSAGDINAVHTIARV</span><span class="topo-membrane">MEDIGWAIIT</span></span>
+<span class="topo-line"><span class="topo-membrane">NLHILFAVAIGGSW</span><span class="topo-inside">AKDRA</span><span class="topo-membrane">GGAFAALLAFVLTNRIT</span><span class="topo-outside">GAIFGVNAEMLADSKAKVSSVLAG</span></span>
+<span class="topo-line"><span class="topo-outside">DLIVKDYFTSVLGAPALNM</span><span class="topo-membrane">GVFVGIITGFLGATLY</span><span class="topo-inside">NKYYNYNKLPQALAFFNGKR</span><span class="topo-membrane">FVPFV</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVWSTVTAIVLSLLW</span><span class="topo-outside">PFIQSGLNEFGRWIAASKDSAPIVAP</span><span class="topo-unknown">FVYGTLERLLLPFGLHHM</span></span>
+<span class="topo-line"><span class="topo-unknown">LT</span><span class="topo-outside">IPMNYTELGGTYTMLTGSKVGQVVAGQDPLWLAWITDLNNLLANGDTKAYNDLLNNVV</span></span>
+<span class="topo-line"><span class="topo-outside">PARFK</span><span class="topo-membrane">AGQVIGSTAALMGIA</span><span class="topo-inside">FAMFRNVDKEKRAKYKPMFL</span><span class="topo-unknown">SAALAVFLTGVTEPIEFMFM</span></span>
+<span class="topo-line"><span class="topo-unknown">F</span><span class="topo-inside">IAP</span><span class="topo-membrane">VLYVVYAITTGLAFALA</span><span class="topo-outside">DLINLRVHAFGFIELITRTPMMVNAGLTRDL</span><span class="topo-membrane">INFVIVSL</span></span>
+<span class="topo-line"><span class="topo-membrane">VFFGLNFTLF</span><span class="topo-inside">NFLIKKFNLPTPGRAGNY</span><span class="topo-unknown">IDNEDEASEGTGNVQDGSLATK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>3</td>
+      <td>7</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>10</td>
+      <td>8</td>
+      <td>12</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>31</td>
+      <td>13</td>
+      <td>33</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>50</td>
+      <td>34</td>
+      <td>52</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>74</td>
+      <td>53</td>
+      <td>76</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>79</td>
+      <td>77</td>
+      <td>81</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>96</td>
+      <td>82</td>
+      <td>98</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>139</td>
+      <td>99</td>
+      <td>141</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>140</td>
+      <td>155</td>
+      <td>142</td>
+      <td>157</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>156</td>
+      <td>175</td>
+      <td>158</td>
+      <td>177</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>196</td>
+      <td>178</td>
+      <td>198</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>197</td>
+      <td>222</td>
+      <td>199</td>
+      <td>224</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>223</td>
+      <td>242</td>
+      <td>225</td>
+      <td>244</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>243</td>
+      <td>305</td>
+      <td>245</td>
+      <td>307</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>306</td>
+      <td>320</td>
+      <td>308</td>
+      <td>322</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>321</td>
+      <td>340</td>
+      <td>323</td>
+      <td>342</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>341</td>
+      <td>361</td>
+      <td>343</td>
+      <td>363</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>362</td>
+      <td>364</td>
+      <td>364</td>
+      <td>366</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>365</td>
+      <td>381</td>
+      <td>367</td>
+      <td>383</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>382</td>
+      <td>412</td>
+      <td>384</td>
+      <td>414</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>413</td>
+      <td>430</td>
+      <td>415</td>
+      <td>432</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>431</td>
+      <td>448</td>
+      <td>433</td>
+      <td>450</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>449</td>
+      <td>470</td>
+      <td>451</td>
+      <td>472</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) (in meso) |
-| Protein sample | 50-55 mg/mL trypsinized EIIC domain in 20 mM HEPES pH 7.5, 150 mM NaCl, 10 mM trehalose, 4 mM DM, 4 mM [Beta-Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol) |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) |
-| Protein-to-lipid ratio | 2:3 (protein solution:molten [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein), w:w) |
-| Temperature | Room temperature |
-| Growth time | Approximately 3 weeks |
-| Cryoprotection | Flash frozen in liquid nitrogen |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5iws">5IWS</a> — Chain C (8 TMs, alpha)**
 
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">ITSFD</span><span class="topo-inside">FWQKF</span><span class="topo-membrane">GKALLVVVAVMPAAGLMISIG</span><span class="topo-outside">KLIGMSAGDINAVHTIARV</span><span class="topo-membrane">MEDIGWAIIT</span></span>
+<span class="topo-line"><span class="topo-membrane">NLHILFAVAIGGSW</span><span class="topo-inside">AKDRA</span><span class="topo-membrane">GGAFAALLAFVLTNRIT</span><span class="topo-outside">GAIFGVNAEMLADSKAKVSSVLAG</span></span>
+<span class="topo-line"><span class="topo-outside">DLIVKDYFTSVLGAPALNM</span><span class="topo-membrane">GVFVGIITGFLGATLY</span><span class="topo-inside">NKYYNYNKLPQALAFFNGKR</span><span class="topo-membrane">FVPFV</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVWSTVTAIVLSLLW</span><span class="topo-outside">PFIQSGLNEFGRWIAASKDSAPIVAP</span><span class="topo-unknown">FVYGTLERLLLPFGLHHM</span></span>
+<span class="topo-line"><span class="topo-unknown">LT</span><span class="topo-outside">IPMNYTELGGTYTMLTGSKVGQVVAGQDPLWLAWITDLNNLLANGDTKAYNDLLNNVV</span></span>
+<span class="topo-line"><span class="topo-outside">PARFK</span><span class="topo-membrane">AGQVIGSTAALMGIA</span><span class="topo-inside">FAMFRNVDKEKRAKYKPMFL</span><span class="topo-unknown">SAALAVFLTGVTEPIEFMFM</span></span>
+<span class="topo-line"><span class="topo-unknown">F</span><span class="topo-inside">IAP</span><span class="topo-membrane">VLYVVYAITTGLAFALA</span><span class="topo-outside">DLINLRVHAFGFIELITRTPMMVNAGLTRDL</span><span class="topo-membrane">INFVIVSL</span></span>
+<span class="topo-line"><span class="topo-membrane">VFFGLNFTLF</span><span class="topo-inside">NFLIKKFNLPTPGRAGNY</span><span class="topo-unknown">IDNEDEASEGTGNVQDGSLATK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>3</td>
+      <td>7</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>10</td>
+      <td>8</td>
+      <td>12</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>31</td>
+      <td>13</td>
+      <td>33</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>50</td>
+      <td>34</td>
+      <td>52</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>74</td>
+      <td>53</td>
+      <td>76</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>79</td>
+      <td>77</td>
+      <td>81</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>96</td>
+      <td>82</td>
+      <td>98</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>139</td>
+      <td>99</td>
+      <td>141</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>140</td>
+      <td>155</td>
+      <td>142</td>
+      <td>157</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>156</td>
+      <td>175</td>
+      <td>158</td>
+      <td>177</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>196</td>
+      <td>178</td>
+      <td>198</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>197</td>
+      <td>222</td>
+      <td>199</td>
+      <td>224</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>223</td>
+      <td>242</td>
+      <td>225</td>
+      <td>244</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>243</td>
+      <td>305</td>
+      <td>245</td>
+      <td>307</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>306</td>
+      <td>320</td>
+      <td>308</td>
+      <td>322</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>321</td>
+      <td>340</td>
+      <td>323</td>
+      <td>342</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>341</td>
+      <td>361</td>
+      <td>343</td>
+      <td>363</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>362</td>
+      <td>364</td>
+      <td>364</td>
+      <td>366</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>365</td>
+      <td>381</td>
+      <td>367</td>
+      <td>383</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>382</td>
+      <td>412</td>
+      <td>384</td>
+      <td>414</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>413</td>
+      <td>430</td>
+      <td>415</td>
+      <td>432</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>431</td>
+      <td>448</td>
+      <td>433</td>
+      <td>450</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>449</td>
+      <td>470</td>
+      <td>451</td>
+      <td>472</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
+### doi/10.1073##pnas.1800647115
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6bvg">6BVG</a></td>
+      <td>3.2</td>
+      <td>I222</td>
+      <td>bcMalT T280C/E54C double-cysteine mutant, Hg2+-crosslinked, inward-facing conformation</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/maltose">Maltose</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: E. coli
+- **Construct**: His6-tagged EIIC domain from Bacillus cereus (Uniprot Q63GK8), cloned into pMCSG28 vector, [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine)-derivatized
+- **Notes**: Gene cloned from Bacillus cereus E33L chromosome. Cells grown in SeMet-containing minimal media, induced with 0.5 mM [IPTG (Isopropyl-beta-D-thiogalactopyranoside)](/xray-mp-wiki/reagents/additives/iptg) at 20 C overnight.
+
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6bvg">6BVG</a> — Chain A (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">ITS</span><span class="topo-membrane">FDFWQKFGKALLVVVAVMPAAGLMISIGKLI</span><span class="topo-inside">GMSAGDINAVHTIARV</span><span class="topo-membrane">MCDIGWAIIT</span></span>
+<span class="topo-line"><span class="topo-membrane">NLHILFAVAIGGSWAKD</span><span class="topo-unknown">R</span><span class="topo-membrane">AGGAFAALLAFVLTNRIT</span><span class="topo-inside">GAIFGVNAEMLADSKAKVSSVLAG</span></span>
+<span class="topo-line"><span class="topo-inside">DLIVKDYFTSVLGAPALNM</span><span class="topo-membrane">GVFVGIITGFLGATLYNKYY</span><span class="topo-outside">NYNKLPQA</span><span class="topo-membrane">LAFFNGKRFVPFV</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVWSTVTAIVLSLLW</span><span class="topo-inside">PFIQSGLNEFGRWIAASKDSA</span><span class="topo-membrane">PIVAPFVYGTLERLLLPF</span><span class="topo-unknown">G</span><span class="topo-membrane">LHHM</span></span>
+<span class="topo-line"><span class="topo-membrane">LTIPMNYTELGG</span><span class="topo-inside">TYTMLTGSKVGQVVAGQDPLWLAWICDLNNLLANGDTKAYNDLLNNVV</span></span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">ARFKAGQVIGSTAALMGIAFA</span><span class="topo-outside">MFRNVDKEKRAKYKPMFLSAA</span><span class="topo-unknown">LAVFLTGVTEPIE</span><span class="topo-outside">FMFM</span></span>
+<span class="topo-line"><span class="topo-outside">FIAPVL</span><span class="topo-membrane">YVVYAITTGLAFALADLI</span><span class="topo-unknown">NLRVHAFGFIELITRTPMMV</span><span class="topo-inside">NAGLT</span><span class="topo-membrane">RDLINFVIVSL</span></span>
+<span class="topo-line"><span class="topo-membrane">VFFGLNFTLFNF</span><span class="topo-outside">LIKKFNLPTPGRAGNYI</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+      <td>4</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>34</td>
+      <td>6</td>
+      <td>36</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>50</td>
+      <td>37</td>
+      <td>52</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>77</td>
+      <td>53</td>
+      <td>79</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>96</td>
+      <td>81</td>
+      <td>98</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>139</td>
+      <td>99</td>
+      <td>141</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>140</td>
+      <td>159</td>
+      <td>142</td>
+      <td>161</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>160</td>
+      <td>167</td>
+      <td>162</td>
+      <td>169</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>168</td>
+      <td>196</td>
+      <td>170</td>
+      <td>198</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>197</td>
+      <td>217</td>
+      <td>199</td>
+      <td>219</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>235</td>
+      <td>220</td>
+      <td>237</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>237</td>
+      <td>252</td>
+      <td>239</td>
+      <td>254</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>253</td>
+      <td>301</td>
+      <td>255</td>
+      <td>303</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>302</td>
+      <td>322</td>
+      <td>304</td>
+      <td>324</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>323</td>
+      <td>343</td>
+      <td>325</td>
+      <td>345</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>356</td>
+      <td>346</td>
+      <td>358</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>366</td>
+      <td>359</td>
+      <td>368</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>367</td>
+      <td>384</td>
+      <td>369</td>
+      <td>386</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>386</td>
+      <td>404</td>
+      <td>388</td>
+      <td>406</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>405</td>
+      <td>409</td>
+      <td>407</td>
+      <td>411</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>410</td>
+      <td>432</td>
+      <td>412</td>
+      <td>434</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>433</td>
+      <td>449</td>
+      <td>435</td>
+      <td>451</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6bvg">6BVG</a> — Chain B (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">ITS</span><span class="topo-membrane">FDFWQKFGKALLVVVAVMPAAGLMISIGKLI</span><span class="topo-inside">GMSAGDINAVHTIARV</span><span class="topo-membrane">MCDIGWAIIT</span></span>
+<span class="topo-line"><span class="topo-membrane">NLHILFAVAIGGSWAKD</span><span class="topo-unknown">R</span><span class="topo-membrane">AGGAFAALLAFVLTNRIT</span><span class="topo-inside">GAIFGVNAEMLADSKAKVSSVLAG</span></span>
+<span class="topo-line"><span class="topo-inside">DLIVKDYFTSVLGAPALN</span><span class="topo-membrane">MGVFVGIITGFLGATLYNKYY</span><span class="topo-outside">NYNKLPQA</span><span class="topo-membrane">LAFFNGKRFVPFV</span></span>
+<span class="topo-line"><span class="topo-membrane">VIVWSTVTAIVLSLLW</span><span class="topo-inside">PFIQSGLNEFGRWIAASKDSA</span><span class="topo-membrane">PIVAPFVYGTLERLLLPF</span><span class="topo-unknown">G</span><span class="topo-membrane">LHHM</span></span>
+<span class="topo-line"><span class="topo-membrane">LTIPMNYTELGG</span><span class="topo-inside">TYTMLTGSKVGQVVAGQDPLWLAWICDLNNLLANGDTKAYNDLLNNVV</span></span>
+<span class="topo-line"><span class="topo-inside">P</span><span class="topo-membrane">ARFKAGQVIGSTAALMGIAFA</span><span class="topo-outside">MFRNVDKEKRAKYKPMFLSAA</span><span class="topo-unknown">LAVFLTGVTEPIE</span><span class="topo-outside">FMFM</span></span>
+<span class="topo-line"><span class="topo-outside">FIAPVL</span><span class="topo-membrane">YVVYAITTGLAFALADLI</span><span class="topo-unknown">NLRVHAFGFIELITRTPMMV</span><span class="topo-inside">NAGLT</span><span class="topo-membrane">RDLINFVIVSL</span></span>
+<span class="topo-line"><span class="topo-membrane">VFFGLNFTLFNF</span><span class="topo-outside">LIKKFNLPTPGRAGNYI</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>3</td>
+      <td>4</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>34</td>
+      <td>6</td>
+      <td>36</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>50</td>
+      <td>37</td>
+      <td>52</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>77</td>
+      <td>53</td>
+      <td>79</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>96</td>
+      <td>81</td>
+      <td>98</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>138</td>
+      <td>99</td>
+      <td>140</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>139</td>
+      <td>159</td>
+      <td>141</td>
+      <td>161</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>160</td>
+      <td>167</td>
+      <td>162</td>
+      <td>169</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>168</td>
+      <td>196</td>
+      <td>170</td>
+      <td>198</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>197</td>
+      <td>217</td>
+      <td>199</td>
+      <td>219</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>235</td>
+      <td>220</td>
+      <td>237</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>237</td>
+      <td>252</td>
+      <td>239</td>
+      <td>254</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>253</td>
+      <td>301</td>
+      <td>255</td>
+      <td>303</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>302</td>
+      <td>322</td>
+      <td>304</td>
+      <td>324</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>323</td>
+      <td>343</td>
+      <td>325</td>
+      <td>345</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>344</td>
+      <td>356</td>
+      <td>346</td>
+      <td>358</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>366</td>
+      <td>359</td>
+      <td>368</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>367</td>
+      <td>384</td>
+      <td>369</td>
+      <td>386</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>386</td>
+      <td>404</td>
+      <td>388</td>
+      <td>406</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>405</td>
+      <td>409</td>
+      <td>407</td>
+      <td>411</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>410</td>
+      <td>432</td>
+      <td>412</td>
+      <td>434</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>433</td>
+      <td>449</td>
+      <td>435</td>
+      <td>451</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -82,13 +959,13 @@ The crystal structure of bcMalT cross-linked in an inward-facing conformation (b
 
 ## Cross-References
 
-- [bcChbC (Bacillus cereus Chitobiose Transporter)](/xray-mp-wiki/proteins/bc-chbc) — Comparison structure; inward-facing occluded conformation of [Glucose](/xray-mp-wiki/reagents/additives/glucose) superfamily EIIC
-- [Elevator Mechanism](/xray-mp-wiki/concepts/elevator-mechanism) — bcMalT provides structural evidence for elevator-car transport in EIIC transporters
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/alternating-access-mechanism) — bcMalT and bcChbC represent outward- and inward-facing states of the alternating-access cycle
-- [Maltose](/xray-mp-wiki/reagents/additives/maltose) — bcMalT selectively binds and transports [Maltose](/xray-mp-wiki/reagents/additives/maltose); IC50 4.5 uM
-- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) — bcMalT crystallized using LCP method with [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein)
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm) — [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm) used for membrane protein solubilization during bcMalT purification
-- [Lauryldimethylamine N-oxide (LDAO)](/xray-mp-wiki/reagents/detergents/lDAO) — [Lauryldimethylamine N-oxide (LDAO)](/xray-mp-wiki/reagents/detergents/lDAO) used for functional assays and proteoliposome reconstitution
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) — [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) used as lipid matrix in LCP crystallization of bcMalT
-- [Size-Exclusion Chromatography (SEC)](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) — Purification method used in protein preparation
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) — Purification method used in protein preparation
+- <a href="/xray-mp-wiki/proteins/bc-chbc">bcChbC (Bacillus cereus Chitobiose Transporter)</a> — Comparison structure; inward-facing occluded conformation of [Glucose](/xray-mp-wiki/reagents/additives/glucose) superfamily EIIC
+- <a href="/xray-mp-wiki/concepts/elevator-mechanism">Elevator Mechanism</a> — bcMalT provides structural evidence for elevator-car transport in EIIC transporters
+- <a href="/xray-mp-wiki/concepts/alternating-access-mechanism">Alternating-Access Mechanism</a> — bcMalT and bcChbC represent outward- and inward-facing states of the alternating-access cycle
+- <a href="/xray-mp-wiki/reagents/additives/maltose">Maltose</a> — bcMalT selectively binds and transports [Maltose](/xray-mp-wiki/reagents/additives/maltose); IC50 4.5 uM
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">Lipidic Cubic Phase Crystallization</a> — bcMalT crystallized using LCP method with [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein)
+- <a href="/xray-mp-wiki/reagents/detergents/ddm">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm) used for membrane protein solubilization during bcMalT purification
+- <a href="/xray-mp-wiki/reagents/detergents/lDAO">Lauryldimethylamine N-oxide (LDAO)</a> — [Lauryldimethylamine N-oxide (LDAO)](/xray-mp-wiki/reagents/detergents/lDAO) used for functional assays and proteoliposome reconstitution
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a> — [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) used as lipid matrix in LCP crystallization of bcMalT
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size-Exclusion Chromatography (SEC)</a> — Purification method used in protein preparation
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a> — Purification method used in protein preparation

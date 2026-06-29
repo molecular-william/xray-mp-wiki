@@ -1,7 +1,7 @@
 ---
 title: "SLC35C1 Human GDP-Fucose Transporter"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,19 +17,31 @@ verified: false
 SLC35C1 is the human [GDP-Fucose](/xray-mp-wiki/reagents/substrates/gdp-fucose/) transporter, a member of the SLC35 family of nucleotide sugar transporters. It imports [GDP-Fucose](/xray-mp-wiki/reagents/substrates/gdp-fucose/) into the lumen of the Golgi apparatus for fucosylation reactions. SLC35C1 is the gene defective in leukocyte adhesion deficiency II (CDG-IIc), a congenital disorder of glycosylation. The protein shares structural homology with the yeast [GDP-Mannose](/xray-mp-wiki/reagents/substrates/gdp-mannose/) transporter [Vrg4 GDP-Mannose Transporter (Saccharomyces cerevisiae)](/xray-mp-wiki/proteins/slc-transporters/vrg4/), with conserved nucleotide-binding features but distinct sugar-recognition motifs. The sugar pocket contains a GTAKA motif replacing the GALNK motif found in mannose-specific transporters.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature24464 | Homology model (based on Vrg4, PDB 5OGE) | N/A | N/A | Full-length SLC35C1 homology model | [GDP-Fucose](/xray-mp-wiki/reagents/substrates/gdp-fucose/) (predicted binding) |
+### doi/10.1038##nature24464
 
-## Expression and Purification
+**Structures:**
 
-No purification described.
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/homology model (based on vrg4, pdb 5oge)">HOMOLOGY MODEL (BASED ON VRG4, PDB 5OGE)</a></td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>Full-length SLC35C1 homology model</td>
+      <td><a href="/xray-mp-wiki/reagents/substrates/gdp-fucose/">GDP-Fucose</a> (predicted binding)</td>
+    </tr>
+  </tbody>
+</table>
 
-## Crystallization
-
-No crystallization described.
 
 ## Biological / Functional Insights
 
@@ -44,8 +56,8 @@ Mutations causing leukocyte adhesion deficiency II include Arg147Cys and Thr308A
 
 ## Cross-References
 
-- [Vrg4 GDP-Mannose Transporter](/xray-mp-wiki/proteins/slc-transporters/vrg4/) — Structural homolog and reference for homology modeling
-- [GDP-Fucose](/xray-mp-wiki/reagents/substrates/gdp-fucose/) — Substrate
-- [SLC35 Family (Nucleotide Sugar Transporters)](/xray-mp-wiki/concepts/transport-mechanisms/sl35-family/) — Transporter family classification
-- [GDP-Fucose](/xray-mp-wiki/reagents/substrates/gdp-fucose/) — Entity mentioned in text
-- [GDP-Mannose](/xray-mp-wiki/reagents/substrates/gdp-mannose/) — Entity mentioned in text
+- <a href="/xray-mp-wiki/proteins/slc-transporters/vrg4/">Vrg4 GDP-Mannose Transporter</a> — Structural homolog and reference for homology modeling
+- <a href="/xray-mp-wiki/reagents/substrates/gdp-fucose/">GDP-Fucose</a> — Substrate
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/sl35-family/">SLC35 Family (Nucleotide Sugar Transporters)</a> — Transporter family classification
+- <a href="/xray-mp-wiki/reagents/substrates/gdp-fucose/">GDP-Fucose</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/substrates/gdp-mannose/">GDP-Mannose</a> — Entity mentioned in text

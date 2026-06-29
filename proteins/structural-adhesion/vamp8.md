@@ -1,7 +1,7 @@
 ---
 title: "VAMP8 (Vesicle-Associated Membrane Protein 8)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -21,23 +21,37 @@ autophagosome-lysosome fusion. VAMP8 localizes to lysosomes and provides the R-S
 STX17-SNAP29-VAMP8 SNARE core complex was determined, revealing a canonical four-helix bundle.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.2006997117 | 7BV6 |  |  | VAMP8 R-SNARE motif (residues 8-75) in complex with [STX17](/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/) and [SNAP29 (Synaptosomal-Associated Protein 29)](/xray-mp-wiki/proteins/structural-adhesion/snap29/) | none |
+### doi/10.1073##pnas.2006997117
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7bv6">7BV6</a></td>
+      <td></td>
+      <td></td>
+      <td>VAMP8 R-SNARE motif (residues 8-75) in complex with <a href="/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/">STX17</a> and <a href="/xray-mp-wiki/proteins/structural-adhesion/snap29/">SNAP29 (Synaptosomal-Associated Protein 29)</a></td>
+      <td>none</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli BL21(DE3)
 - **Construct**: Human VAMP8 cytoplasmic region (residues 8-75)
 - **Notes**: Expressed with Trx tag using in-house modified pET32a vector. Induced with 100 uM [IPTG](/xray-mp-wiki/reagents/additives/iptg/) at 16 C.
 
-No purification described.
-
-## Crystallization
-
-No crystallization described.
 
 ## Biological / Functional Insights
 
@@ -50,7 +64,7 @@ hydrophilic 0-layer together with Q196 ([STX17](/xray-mp-wiki/proteins/structura
 
 ## Cross-References
 
-- [Syntaxin17 (STX17)](/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/) — VAMP8 assembles with STX17 to form the autophagic SNARE complex
-- [SNAP29](/xray-mp-wiki/proteins/structural-adhesion/snap29/) — SNAP29 and VAMP8 are the partner SNAREs in the autophagic fusion complex
-- [Autophagic SNARE Fusion Mechanism](/xray-mp-wiki/concepts/construct-design/autophagic-snare-fusion-mechanism/) — VAMP8 provides the R-SNARE for autophagosome-lysosome fusion
-- [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/">Syntaxin17 (STX17)</a> — VAMP8 assembles with STX17 to form the autophagic SNARE complex
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/snap29/">SNAP29</a> — SNAP29 and VAMP8 are the partner SNAREs in the autophagic fusion complex
+- <a href="/xray-mp-wiki/concepts/construct-design/autophagic-snare-fusion-mechanism/">Autophagic SNARE Fusion Mechanism</a> — VAMP8 provides the R-SNARE for autophagosome-lysosome fusion
+- <a href="/xray-mp-wiki/reagents/additives/iptg/">IPTG</a> — Additive used in purification or crystallization buffers

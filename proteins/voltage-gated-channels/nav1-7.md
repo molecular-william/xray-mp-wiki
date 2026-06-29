@@ -1,7 +1,7 @@
 ---
 title: "Human Nav1.7 Voltage-Gated Sodium Channel"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,45 +17,108 @@ verified: false
 Nav1.7 (encoded by SCN9A) is a voltage-gated sodium channel isoform highly expressed in peripheral nervous system neurons, particularly in dorsal root ganglion and olfactory epithelium. It plays a central role in pain perception: gain-of-function mutations cause extreme pain disorders, while loss-of-function mutations cause congenital insensitivity to pain. Nav1.7 is a validated target for analgesic drug development. The first X-ray crystal structure of the Nav1.7 VSD4 (voltage-sensor domain IV) was determined as a chimera fused onto the bacterial [NAVAB](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) channel, revealing the binding mode of isoform-selective aryl sulfonamide antagonists that trap VSD4 in an activated conformation.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1126##science.aac5464 | N/A (not explicitly stated in paper) | 3.53 | — | Nav1.7 VSD4-[NAVAB](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) chimeric channel — human Nav1.7 VSD4 (S1-S4, residues 1525-1625) grafted onto bacterial [NAVAB](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) channel scaffold | [GX-936](/xray-mp-wiki/reagents/ligands/gx-936/) (aryl sulfonamide antagonist) |
-| doi/10.1126##science.aac5464 | N/A (not explicitly stated in paper) | 3.85 | — | Nav1.7 VSD4-[NAVAB](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) with GX-629 (brominated analog for SAD phasing) | GX-629 |
-| doi/10.1126##science.aac5464 | N/A (not explicitly stated in paper) | 4.35 | — | Nav1.7 VSD4-[NAVAB](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) (selenomethionine-incorporated, 5 Met landmarks) | [GX-936](/xray-mp-wiki/reagents/ligands/gx-936/) |
+### doi/10.1126##science.aac5464
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/n/a (not explicitly stated in paper)">N/A (NOT EXPLICITLY STATED IN PAPER)</a></td>
+      <td>3.53</td>
+      <td>—</td>
+      <td>Nav1.7 VSD4-<a href="/xray-mp-wiki/proteins/voltage-gated-channels/navab/">NAVAB</a> chimeric channel — human Nav1.7 VSD4 (S1-S4, residues 1525-1625) grafted onto bacterial <a href="/xray-mp-wiki/proteins/voltage-gated-channels/navab/">NAVAB</a> channel scaffold</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/gx-936/">GX-936</a> (aryl sulfonamide antagonist)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/n/a (not explicitly stated in paper)">N/A (NOT EXPLICITLY STATED IN PAPER)</a></td>
+      <td>3.85</td>
+      <td>—</td>
+      <td>Nav1.7 VSD4-<a href="/xray-mp-wiki/proteins/voltage-gated-channels/navab/">NAVAB</a> with GX-629 (brominated analog for SAD phasing)</td>
+      <td>GX-629</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/n/a (not explicitly stated in paper)">N/A (NOT EXPLICITLY STATED IN PAPER)</a></td>
+      <td>4.35</td>
+      <td>—</td>
+      <td>Nav1.7 VSD4-<a href="/xray-mp-wiki/proteins/voltage-gated-channels/navab/">NAVAB</a> (selenomethionine-incorporated, 5 Met landmarks)</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/gx-936/">GX-936</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: HEK293 cells (mammalian expression)
 - **Construct**: Nav1.7 VSD4-[NAVAB](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) chimera with grafted human Nav1.7 VSD4 residues (S1-S4, residues 1525-1625)
 - **Notes**: Exploiting evolutionary relationship between human and bacterial Nav channels. The chimera preserved high-affinity antagonist binding as confirmed by radioligand binding and alanine-scanning mutagenesis.
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: HEK293 cells
 - **Expression construct**: Nav1.7 VSD4-[NAVAB](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) chimeric protein
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture and expression</td>
+      <td>Transient transfection of HEK293 cells</td>
+      <td>—</td>
+      <td></td>
+      <td>Protein production for crystallization studies</td>
+    </tr>
+    <tr>
+      <td>Purification</td>
+      <td>Affinity and <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td>Not specified in main text</td>
+      <td>Not specified in main text + Not specified in main text</td>
+      <td>Standard membrane protein purification protocol</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture and expression | Transient transfection of HEK293 cells | — |  | Protein production for crystallization studies |
-| Purification | Affinity and [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | Not specified in main text | Not specified in main text + Not specified in main text | Standard membrane protein purification protocol |
+**Crystallization:**
 
-
-## Crystallization
-
-### doi/10.1126##science.aac5464
-
-| Parameter | Value |
-|---|---|
-| Method | [Bicelle Crystallization](/xray-mp-wiki/methods/crystallization/bicelle-crystallization/) |
-| Protein sample | Nav1.7 VSD4-[NAVAB](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) chimera |
-| Temperature | 4 |
-| Cryoprotection | Not specified |
-| Notes | Crystals grown from PC-based bicelle system. [GX-936](/xray-mp-wiki/reagents/ligands/gx-936/), GX-629, or GX-674 included for cocrystallization. Data collected at Br absorption edge (0.9199 A) for SAD phasing with GX-629. SeMet protein used for landmarking. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/bicelle-crystallization/">Bicelle Crystallization</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Nav1.7 VSD4-<a href="/xray-mp-wiki/proteins/voltage-gated-channels/navab/">NAVAB</a> chimera</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown from PC-based bicelle system. <a href="/xray-mp-wiki/reagents/ligands/gx-936/">GX-936</a>, GX-629, or GX-674 included for cocrystallization. Data collected at Br absorption edge (0.9199 A) for SAD phasing with GX-629. SeMet protein used for landmarking.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -78,8 +141,8 @@ A novel protein-engineering strategy was devised by exploiting the evolutionary 
 
 ## Cross-References
 
-- [GX-936](/xray-mp-wiki/reagents/ligands/gx-936/) — Co-crystallized aryl sulfonamide antagonist that traps Nav1.7 VSD4 in activated state
-- [Bicelle Crystallization](/xray-mp-wiki/methods/crystallization/bicelle-crystallization/) — Method used in structure determination or purification
-- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification
-- [NAVAB](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) — Related protein structure
-- [Phosphatidylcholine](/xray-mp-wiki/reagents/lipids/phosphatidylcholine/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/ligands/gx-936/">GX-936</a> — Co-crystallized aryl sulfonamide antagonist that traps Nav1.7 VSD4 in activated state
+- <a href="/xray-mp-wiki/methods/crystallization/bicelle-crystallization/">Bicelle Crystallization</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/navab/">NAVAB</a> — Related protein structure
+- <a href="/xray-mp-wiki/reagents/lipids/phosphatidylcholine/">Phosphatidylcholine</a> — Additive used in purification or crystallization buffers

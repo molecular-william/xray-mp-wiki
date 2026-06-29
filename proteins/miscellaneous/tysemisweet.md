@@ -1,7 +1,7 @@
 ---
 title: "TySemiSWEET from Thermotoga yellowstonii"
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,38 +17,237 @@ verified: false
 TySemiSWEET is a bacterial sugar transporter from the [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) family found in Thermotoga yellowstonii. It is a dimeric three-helix bundle transporter that selectively transports disaccharides such as [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/). The structure reveals an elongated central pocket that accommodates a disaccharide ligand, providing structural insight into substrate selectivity within the [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) family.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##cr.2014.144 | 4RNG | 2.4 | P212121 | TySemiSWEET full-length | [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) (tentative) |
+### doi/10.1038##cr.2014.144
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4rng">4RNG</a></td>
+      <td>2.4</td>
+      <td>P212121</td>
+      <td>TySemiSWEET full-length</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/sucrose/">Sucrose</a> (tentative)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli
 - **Construct**: TySemiSWEET full-length
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>-- + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Purified in detergent micelles; crystals in hanging-drop diffusion did not diffract beyond 10 A</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Solubilization | Detergent solubilization | -- | -- + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Purified in detergent micelles; crystals in hanging-drop diffusion did not diffract beyond 10 A |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>TySemiSWEET</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals diffracted beyond 2.4 A at BL32XU, SPring-8; structure determined by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using <a href="/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/">LbSemiSWEET from Leptospira biflexa</a> as search model</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4rng">4RNG</a> — Chain A (3 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MEFSI</span><span class="topo-outside">DLNN</span><span class="topo-membrane">LIGIIAGAITTSALIPQALKIY</span><span class="topo-inside">KTKSARDV</span><span class="topo-membrane">SLAMFIFMAIGITLWFFYG</span><span class="topo-outside">VL</span></span>
+<span class="topo-line"><span class="topo-outside">IKEI</span><span class="topo-membrane">PVILANLISLILIFLIIFMKIR</span><span class="topo-inside">Y</span><span class="topo-unknown">GHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>6</td>
+      <td>9</td>
+      <td>6</td>
+      <td>9</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>31</td>
+      <td>10</td>
+      <td>31</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>39</td>
+      <td>32</td>
+      <td>39</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>58</td>
+      <td>40</td>
+      <td>58</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>64</td>
+      <td>59</td>
+      <td>64</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>86</td>
+      <td>65</td>
+      <td>86</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>87</td>
+      <td>87</td>
+      <td>87</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##cr.2014.144
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4rng">4RNG</a> — Chain C (3 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | lipidic cubic phase |
-| Protein sample | TySemiSWEET |
-| Temperature | -- |
-| Notes | Crystals diffracted beyond 2.4 A at BL32XU, SPring-8; structure determined by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) using [LbSemiSWEET from Leptospira biflexa](/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/) as search model |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MEFSI</span><span class="topo-outside">DLNNLI</span><span class="topo-membrane">GIIAGAITTSALIPQALKIY</span><span class="topo-inside">KTKSARDV</span><span class="topo-membrane">SLAMFIFMAIGITLWFFYGV</span><span class="topo-outside">L</span></span>
+<span class="topo-line"><span class="topo-outside">IKEI</span><span class="topo-membrane">PVILANLISLILIFLIIFMKI</span><span class="topo-inside">RYG</span><span class="topo-unknown">HHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>6</td>
+      <td>11</td>
+      <td>6</td>
+      <td>11</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>31</td>
+      <td>12</td>
+      <td>31</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>39</td>
+      <td>32</td>
+      <td>39</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>59</td>
+      <td>40</td>
+      <td>59</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>60</td>
+      <td>64</td>
+      <td>60</td>
+      <td>64</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>85</td>
+      <td>65</td>
+      <td>85</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>88</td>
+      <td>86</td>
+      <td>88</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
 
 ## Biological / Functional Insights
 
@@ -67,12 +266,12 @@ Each protomer contains three transmembrane helices (TM1, TM2, TM3) with TM3 posi
 
 ## Cross-References
 
-- [LbSemiSWEET from Leptospira biflexa](/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/) — Close homologue used as molecular replacement search model; structural comparison reveals pocket size differences
-- [SWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/sweet-transporter/) — TySemiSWEET is a member of the SemiSWEET subfamily of sugar transporters
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — TySemiSWEET operates via alternating access with outward-open and occluded conformations captured
-- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — TySemiSWEET crystals obtained by LCP diffracted to 2.4 A at SPring-8
-- [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/semisweet/) — Related biological concept
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
-- [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Additive used in purification or crystallization buffers
-- [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used in purification or crystallization
-- [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) — Related ligand or cofactor
+- <a href="/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/">LbSemiSWEET from Leptospira biflexa</a> — Close homologue used as molecular replacement search model; structural comparison reveals pocket size differences
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/sweet-transporter/">SWEET Transporter Family</a> — TySemiSWEET is a member of the SemiSWEET subfamily of sugar transporters
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating-Access Mechanism</a> — TySemiSWEET operates via alternating access with outward-open and occluded conformations captured
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — TySemiSWEET crystals obtained by LCP diffracted to 2.4 A at SPring-8
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/semisweet/">SemiSWEET Transporter Family</a> — Related biological concept
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/glucose/">Glucose</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> — Detergent used in purification or crystallization
+- <a href="/xray-mp-wiki/reagents/ligands/sucrose/">Sucrose</a> — Related ligand or cofactor

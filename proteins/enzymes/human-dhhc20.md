@@ -1,7 +1,7 @@
 ---
 title: "Human DHHC20 Palmitoyltransferase"
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -28,68 +28,366 @@ cellular transformation and has been proposed as a therapeutic target for
 cancers resistant to EGFR-targeted therapy.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1126##science.aao6326 | 6BML | 2.44 | — | hDHHC20 (residues 5-299), reductively methylated, hexagonal P63 form |  |
-| doi/10.1126##science.aao6326 | 6BML | 2.44 | — | hDHHC20 C263A mutant with 2-bromopalmitate (2-BP) covalent inhibitor |  |
+### doi/10.1126##science.aao6326
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6bml">6BML</a></td>
+      <td>2.44</td>
+      <td>—</td>
+      <td>hDHHC20 (residues 5-299), reductively methylated, hexagonal P63 form</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6bml">6BML</a></td>
+      <td>2.44</td>
+      <td>—</td>
+      <td>hDHHC20 C263A mutant with 2-bromopalmitate (2-BP) covalent inhibitor</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Pichia pastoris (yeast)
 - **Construct**: N-terminal His10-GFP-PreScission-tagged hDHHC20
 - **Notes**: Codon-optimized hDHHC20 cloned into pPICZ-C vector; expressed in Pichia pastoris SDM1163 cells
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: Pichia pastoris
 - **Expression construct**: N-terminal His10-GFP tag with PreScission cleavage site
 - **Tag info**: His10-GFP, removed by [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/)
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON](/xray-mp-wiki/reagents/additives/talon/) resin (cobalt affinity) | — | 50 mM HEPES pH 7.5, 150 mM NaCl, 2 mM beta-ME, 2 mM TCEP + 1 mM [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Wash with 25 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), elute with 200 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/); gravity flow at ambient temperature |
-| SEC / Tag removal | PreScission cleavage overnight at 4C, then [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) Increase SEC | — | 50 mM HEPES pH 7.5, 150 mM NaCl, 2 mM TCEP + 0.5 mM [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | GFP tag and [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) removed by SEC; fractions pooled and concentrated using 50 kDa MWCO Amicon |
-| Reductive methylation (for crystallization) | Formaldehyde and DMAB complex treatment | — | 50 mM HEPES pH 7.5, 250 mM NaCl, 2 mM TCEP, 0.5 mM [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Methylation quenched with Tris HCl pH 8.0 and [DTT](/xray-mp-wiki/reagents/additives/dtt/); then SEC on [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) Increase |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin (cobalt affinity)</td>
+      <td>—</td>
+      <td>50 mM HEPES pH 7.5, 150 mM NaCl, 2 mM beta-ME, 2 mM TCEP + 1 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Wash with 25 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, elute with 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; gravity flow at ambient temperature</td>
+    </tr>
+    <tr>
+      <td>SEC / Tag removal</td>
+      <td>PreScission cleavage overnight at 4C, then <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase SEC</td>
+      <td>—</td>
+      <td>50 mM HEPES pH 7.5, 150 mM NaCl, 2 mM TCEP + 0.5 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>GFP tag and <a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> removed by SEC; fractions pooled and concentrated using 50 kDa MWCO Amicon</td>
+    </tr>
+    <tr>
+      <td>Reductive methylation (for crystallization)</td>
+      <td>Formaldehyde and DMAB complex treatment</td>
+      <td>—</td>
+      <td>50 mM HEPES pH 7.5, 250 mM NaCl, 2 mM TCEP, 0.5 mM <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Methylation quenched with Tris HCl pH 8.0 and <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>; then SEC on <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: Concentrated in SEC buffer containing 0.05 mg/mL [POPC](/xray-mp-wiki/reagents/lipids/popc/):[POPG](/xray-mp-wiki/reagents/lipids/popg/):POPA (3:1:1) lipids and 0.5 mM [DDM](/xray-mp-wiki/reagents/detergents/ddm/)
 
+**Crystallization:**
 
-## Crystallization
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a></td>
+    </tr>
+    <tr>
+      <td>Protein-to-lipid ratio</td>
+      <td>1:1 (v/v)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20°C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>3.5 months</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Directly frozen in liquid N2</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Hexagonal crystals; data collected at APS NE-CAT 24ID-C; microbatch format with 100 nl LCP bolus and ~3.6 ul crystallization solution</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a></td>
+    </tr>
+    <tr>
+      <td>Protein-to-lipid ratio</td>
+      <td>1:1 (v/v)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20°C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>1.5 months</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>2-BP modified C263A hDHHC20 crystals; data collected at APS GM/CA-CAT 23ID-D</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">Hanging-Drop Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>zfDHHS15 (zebrafish DHHC15 C153S mutant)</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>50 mM MES pH 6.5, 50 mM NaH2PO4, 30.3% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 300, 50 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>, 2.5% 2,5-Hexanediol</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20°C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>3 months</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>P21 crystal form; data collected at APS GM/CA-CAT 23ID-B</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-### doi/10.1126##science.aao6326
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6bml">6BML</a> — Chain A (4 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) |
-| Protein-to-lipid ratio | 1:1 (v/v) |
-| Temperature | 20°C |
-| Growth time | 3.5 months |
-| Cryoprotection | Directly frozen in liquid N2 |
-| Notes | Hexagonal crystals; data collected at APS NE-CAT 24ID-C; microbatch format with 100 nl LCP bolus and ~3.6 ul crystallization solution |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">TLWRCCQRVVGWV</span><span class="topo-membrane">PVLFITFVVVWSYYAYVVELCVFTIF</span><span class="topo-outside">GNEEN</span><span class="topo-membrane">GKTVVYLVAFHLFFVM</span></span>
+<span class="topo-line"><span class="topo-membrane">FVWSYW</span><span class="topo-inside">MTIFTSPASPSKEFYLSNSEKERYEKEFSQERQQEILRRAARALPIYTTSASKT</span></span>
+<span class="topo-line"><span class="topo-inside">IRYCEKCQLIKPDRAHHCSACDSCILKMDHHCPWVNNCVGFSNYKFFLL</span><span class="topo-membrane">FLLYSLLYCLF</span></span>
+<span class="topo-line"><span class="topo-membrane">VAATVLEYFIKFWT</span><span class="topo-outside">NELTD</span><span class="topo-membrane">TRAKFHVLFLFFVSAMFFISVLS</span><span class="topo-inside">LFSYHCWLVGKNRTTIES</span></span>
+<span class="topo-line"><span class="topo-inside">FRAPTFSYGPDGNGFSLGASKNWRQVFGDEKKYWLLPIFSSLGDGCSFPTRL</span><span class="topo-unknown">VGM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>13</td>
+      <td>5</td>
+      <td>17</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>39</td>
+      <td>18</td>
+      <td>43</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>44</td>
+      <td>44</td>
+      <td>48</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>66</td>
+      <td>49</td>
+      <td>70</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>169</td>
+      <td>71</td>
+      <td>173</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>170</td>
+      <td>194</td>
+      <td>174</td>
+      <td>198</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>195</td>
+      <td>199</td>
+      <td>199</td>
+      <td>203</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>222</td>
+      <td>204</td>
+      <td>226</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>223</td>
+      <td>292</td>
+      <td>227</td>
+      <td>296</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) |
-| Protein-to-lipid ratio | 1:1 (v/v) |
-| Temperature | 20°C |
-| Growth time | 1.5 months |
-| Notes | 2-BP modified C263A hDHHC20 crystals; data collected at APS GM/CA-CAT 23ID-D |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6bml">6BML</a> — Chain A (4 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) |
-| Protein sample | zfDHHS15 (zebrafish DHHC15 C153S mutant) |
-| Reservoir | 50 mM MES pH 6.5, 50 mM NaH2PO4, 30.3% [PEG](/xray-mp-wiki/reagents/additives/peg/) 300, 50 mM [DTT](/xray-mp-wiki/reagents/additives/dtt/), 2.5% 2,5-Hexanediol |
-| Temperature | 20°C |
-| Growth time | 3 months |
-| Notes | P21 crystal form; data collected at APS GM/CA-CAT 23ID-B |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">TLWRCCQRVVGWV</span><span class="topo-membrane">PVLFITFVVVWSYYAYVVELCVFTIF</span><span class="topo-outside">GNEEN</span><span class="topo-membrane">GKTVVYLVAFHLFFVM</span></span>
+<span class="topo-line"><span class="topo-membrane">FVWSYW</span><span class="topo-inside">MTIFTSPASPSKEFYLSNSEKERYEKEFSQERQQEILRRAARALPIYTTSASKT</span></span>
+<span class="topo-line"><span class="topo-inside">IRYCEKCQLIKPDRAHHCSACDSCILKMDHHCPWVNNCVGFSNYKFFLL</span><span class="topo-membrane">FLLYSLLYCLF</span></span>
+<span class="topo-line"><span class="topo-membrane">VAATVLEYFIKFWT</span><span class="topo-outside">NELTD</span><span class="topo-membrane">TRAKFHVLFLFFVSAMFFISVLS</span><span class="topo-inside">LFSYHCWLVGKNRTTIES</span></span>
+<span class="topo-line"><span class="topo-inside">FRAPTFSYGPDGNGFSLGASKNWRQVFGDEKKYWLLPIFSSLGDGCSFPTRL</span><span class="topo-unknown">VGM</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>13</td>
+      <td>5</td>
+      <td>17</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>39</td>
+      <td>18</td>
+      <td>43</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>44</td>
+      <td>44</td>
+      <td>48</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>66</td>
+      <td>49</td>
+      <td>70</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>169</td>
+      <td>71</td>
+      <td>173</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>170</td>
+      <td>194</td>
+      <td>174</td>
+      <td>198</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>195</td>
+      <td>199</td>
+      <td>199</td>
+      <td>203</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>222</td>
+      <td>204</td>
+      <td>226</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>223</td>
+      <td>292</td>
+      <td>227</td>
+      <td>296</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
 
 ## Biological / Functional Insights
 
@@ -128,13 +426,13 @@ catalytic activity.
 
 ## Cross-References
 
-- [DHHC Palmitoyltransferase Family](/xray-mp-wiki/concepts/protein-families/dhhc-palmitoyltransferase-family/) — hDHHC20 is a member of the DHHC family of S-acyltransferases
-- [n-Dodecyl-beta-D-maltoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Used for purification and stabilization of hDHHC20 (1 mM in affinity, 0.5 mM in SEC)
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Used as LCP host lipid for crystallization of hDHHC20
-- [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Method used in structure determination or purification
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [DTT](/xray-mp-wiki/reagents/additives/dtt/) — Additive used in purification or crystallization buffers
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers
-- [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers
-- [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) — Additive used in purification or crystallization buffers
-- [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/concepts/protein-families/dhhc-palmitoyltransferase-family/">DHHC Palmitoyltransferase Family</a> — hDHHC20 is a member of the DHHC family of S-acyltransferases
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltoside (DDM)</a> — Used for purification and stabilization of hDHHC20 (1 mM in affinity, 0.5 mM in SEC)
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — Used as LCP host lipid for crystallization of hDHHC20
+- <a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">Hanging-Drop Vapor Diffusion</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> — Additive used in purification or crystallization buffers

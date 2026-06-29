@@ -1,7 +1,7 @@
 ---
 title: "Human Sigma-1 Receptor (SIGMAR1)"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,43 +17,181 @@ verified: false
 The human sigma-1 receptor (SIGMAR1) is an ER-resident single-pass transmembrane protein and evolutionary isolate with no discernible similarity to other human protein families. It functions as an ER chaperone and regulator of calcium signaling, modulating various ion channels and GPCRs. Mutations in SIGMAR1 are linked to juvenile-onset amyotrophic lateral sclerosis (ALS). The receptor forms a trimer with a cupin-like beta-barrel ligand-binding domain and a single transmembrane helix per protomer, revealing an unexpected single-pass transmembrane topology.
 
 
-## Structure Determination
-
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature17391 | 5HK1 | 2.5 A | P21212 | Human sigma-1 receptor with N-terminal hemagglutinin signal sequence, FLAG epitope tag, and 3C protease cleavage site (GPGS scar after tag removal); expressed in Sf9 insect cells | PD144418 |
-| doi/10.1038##nature17391 | 5HK2 | 3.2 A | P21212 | Human sigma-1 receptor with N-terminal hemagglutinin signal sequence, FLAG epitope tag, and 3C protease cleavage site (GPGS scar after tag removal); expressed in Sf9 insect cells | 4-IBP |
-
-## Expression and Purification
-
-### Purification Workflow
-
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression | Baculovirus expression in Sf9 insect cells (FastBac system, ThermoFisher) | — | Not specified | Human sigma-1 receptor cloned into pFastbac1 with N-terminal HA signal sequence, FLAG tag, and 3C protease cleavage site; infected at 4x10^6 cells/mL, shaken at 27 C for 2 days |
-| Cell lysis | Osmotic shock in 20 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 7.5, 2 mM magnesium chloride, benzonase nuclease | — | 20 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 7.5, 2 mM magnesium chloride | Frozen cell paste thawed and lysed by osmotic shock; centrifuged at 20,000 rpm for 15 min |
-| Solubilization | [LMNG](/xray-mp-wiki/reagents/detergents/lmng) (1% w/v) and CHS (0.1% w/v) in 250 mM NaCl, 20 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 7.5, 20% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol) | — | 250 mM NaCl, 20 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 7.5, 20% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), 1% [LMNG](/xray-mp-wiki/reagents/detergents/lmng), 0.1% CHS | Glass dounce tissue grinder, stirred 2 hr at 4 C, centrifuged 20 min, filtered on glass microfiber |
-| FLAG affinity chromatography | Anti-FLAG antibody affinity resin (5 mL) | — | 100 mM NaCl, 20 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 7.5, 2 mM calcium chloride, 0.2% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), 0.1% [LMNG](/xray-mp-wiki/reagents/detergents/lmng), 0.01% CHS | Gravity flow loading; extensive washing in two buffer conditions; elution with 5 mM [EDTA](/xray-mp-wiki/reagents/additives/edta) and 0.2 mg/mL FLAG peptide |
-| Tag cleavage | 3C protease (1:100 w:w) | — | Same as elution buffer without calcium | Incubated at 4 C overnight; resulting protein identical to wild-type except GPGS scar |
-| Size-exclusion chromatography | Sephadex S200 column (GE Healthcare) | — | 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng), 0.001% CHS, 100 mM NaCl, 20 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 7.5, 1 uM ligand | Protein consistently ran as high molecular weight oligomer during SEC |
-| Final concentration | Concentration to 20-30 mg/mL | — | 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng), 0.001% CHS, 100 mM NaCl, 20 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 7.5, 1 uM ligand | Flash frozen with liquid nitrogen in 8-9 uL aliquots; stored at -80 C |
-
-
-## Crystallization
+## Publications
 
 ### doi/10.1038##nature17391
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Lipid | 10:1 [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein):[Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol) (w:w) |
-| Temperature | Not specified |
-| Notes | Purified receptor reconstituted into LCP by mixing with 10:1 [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein):[Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol) at 1.5:1 lipid:protein ratio by mass using coupled syringe method. Dispersed in 30-40 nL drops overlaid with 600 nL precipitant (40-50% [PEG](/xray-mp-wiki/reagents/additives/peg) 300, 220-250 mM Li2SO4, 0.1 M [MES](/xray-mp-wiki/reagents/buffers/mes) pH 6.5) using Gryphon LCP robot. Crystals grew over 2-4 weeks.
- |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5hk1">5HK1</a></td>
+      <td>2.5 A</td>
+      <td>P21212</td>
+      <td>Human sigma-1 receptor with N-terminal hemagglutinin signal sequence, FLAG epitope tag, and 3C protease cleavage site (GPGS scar after tag removal); expressed in Sf9 insect cells</td>
+      <td>PD144418</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5hk2">5HK2</a></td>
+      <td>3.2 A</td>
+      <td>P21212</td>
+      <td>Human sigma-1 receptor with N-terminal hemagglutinin signal sequence, FLAG epitope tag, and 3C protease cleavage site (GPGS scar after tag removal); expressed in Sf9 insect cells</td>
+      <td>4-IBP</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> (LCP)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>10:1 <a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a>:<a href="/xray-mp-wiki/reagents/lipids/cholesterol">Cholesterol</a> (w:w)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Purified receptor reconstituted into LCP by mixing with 10:1 <a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a>:<a href="/xray-mp-wiki/reagents/lipids/cholesterol">Cholesterol</a> at 1.5:1 lipid:protein ratio by mass using coupled syringe method. Dispersed in 30-40 nL drops overlaid with 600 nL precipitant (40-50% <a href="/xray-mp-wiki/reagents/additives/peg">PEG</a> 300, 220-250 mM Li2SO4, 0.1 M <a href="/xray-mp-wiki/reagents/buffers/mes">MES</a> pH 6.5) using Gryphon LCP robot. Crystals grew over 2-4 weeks.
+</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5hk1">5HK1</a> — Chain A (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GPGSMQWAVGR</span><span class="topo-outside">RWAW</span><span class="topo-membrane">AALLLAVAAVLTQVVWLWLGTQ</span><span class="topo-inside">SFVFQREEIAQLARQYAGLDHEL</span></span>
+<span class="topo-line"><span class="topo-inside">AFSRLIVELRRLHPGHVLPDEELQWVFVNAGGWMGAMCLLHASLSEYVLLFGTALGSRGH</span></span>
+<span class="topo-line"><span class="topo-inside">SGRYWAEISDTIISGTFHQWREGTTKSEVFYPGETVVHGPGEATAVEWGPNTWMVEYGRG</span></span>
+<span class="topo-line"><span class="topo-inside">VIPSTLAFALADTVFSTQD</span><span class="topo-unknown">FLTLFYTLRSYARGLRLELTTYL</span><span class="topo-inside">F</span><span class="topo-unknown">GQDP</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>12</td>
+      <td>15</td>
+      <td>8</td>
+      <td>11</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>37</td>
+      <td>12</td>
+      <td>33</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>199</td>
+      <td>34</td>
+      <td>195</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>222</td>
+      <td>196</td>
+      <td>218</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>223</td>
+      <td>223</td>
+      <td>219</td>
+      <td>219</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5hk2">5HK2</a> — Chain A (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GPGSM</span><span class="topo-outside">QWAVGRRW</span><span class="topo-membrane">AWAALLLAVAAVLTQVVWLWLG</span><span class="topo-inside">TQSFVFQREEIAQLARQYAGLDHEL</span></span>
+<span class="topo-line"><span class="topo-inside">AFSRLIVELRRLHPGHVLPDEELQWVFVNAGGWMGAMCLLHASLSEYVLLFGTALGSRGH</span></span>
+<span class="topo-line"><span class="topo-inside">SGRYWAEISDTIISGTFHQWREGTTKSEVFYPGETVVHGPGEATAVEWGPNTWMVEYGRG</span></span>
+<span class="topo-line"><span class="topo-inside">VIPSTLAFALADTVFSTQDFLTLFYTLRSYARGLRLELTTYL</span><span class="topo-unknown">FGQDP</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>6</td>
+      <td>13</td>
+      <td>2</td>
+      <td>9</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>35</td>
+      <td>10</td>
+      <td>31</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>222</td>
+      <td>32</td>
+      <td>218</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -71,7 +209,7 @@ Glu102 is deeply buried, with its carboxyl oxygen atoms accepting hydrogen bonds
 
 ### Oligomerization state and ligand-mediated regulation
 
-The sigma-1 receptor forms trimers in the crystal with an interface of 9300 A^2 between protomers. [SEC-MALS](/xray-mp-wiki/methods/quality-assessment/sec-mals) and native PAGE revealed polydisperse oligomers ranging from hexamers to 15-mers (140-400 kDa excluding detergent). In LMNG/CHS mixed micelles, agonists partially disrupt high-order oligomers while antagonists stabilize them, suggesting oligomerization is a key functional property linked to ligand efficacy.
+The sigma-1 receptor forms trimers in the crystal with an interface of 9300 A^2 between protomers. [SEC-MALS](/xray-mp-wiki/methods/quality-assessment/sec-mals) and native PAGE revealed polydisperse oligomers ranging from hexamers to 15-mers (140-400 kDa excluding detergent). In [LMNG](/xray-mp-wiki/reagents/lmng/)/CHS mixed micelles, agonists partially disrupt high-order oligomers while antagonists stabilize them, suggesting oligomerization is a key functional property linked to ligand efficacy.
 
 ### Single-pass transmembrane topology
 
@@ -80,13 +218,13 @@ The structure reveals a single transmembrane domain per protomer, contrary to pr
 
 ## Cross-References
 
-- [PD144418](/xray-mp-wiki/reagents/ligands/pd144418/) — High-affinity sigma-1 antagonist used in co-crystallization (PDB 5HK1)
-- [4-IBP](/xray-mp-wiki/reagents/ligands/4-ibp/) — Sigma-1 ligand used in co-crystallization (PDB 5HK2)
-- [Lauryl Maltose Neopentyl Glycol (LMNG)](/xray-mp-wiki/reagents/detergents/lmng/) — Primary detergent for solubilization and purification
-- [Cholesterol Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Lipid additive in solubilization and LCP crystallization
-- [SEC-MALS](/xray-mp-wiki/methods/quality-assessment/sec-mals/) — Used to assess oligomerization state of sigma-1 receptor
-- [Cupin Fold](/xray-mp-wiki/concepts/structural-mechanisms/cupin-fold/) — Structural fold of the ligand-binding domain
-- [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) — Epitope tag used for affinity purification of sigma-1 receptor
-- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used for crystallization of sigma-1 receptor
-- [MES](/xray-mp-wiki/reagents/buffers/mes) — Buffer component in crystallization
-- [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol) — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/ligands/pd144418/">PD144418</a> — High-affinity sigma-1 antagonist used in co-crystallization (PDB 5HK1)
+- <a href="/xray-mp-wiki/reagents/ligands/4-ibp/">4-IBP</a> — Sigma-1 ligand used in co-crystallization (PDB 5HK2)
+- <a href="/xray-mp-wiki/reagents/detergents/lmng/">Lauryl Maltose Neopentyl Glycol (LMNG)</a> — Primary detergent for solubilization and purification
+- <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesterol Hemisuccinate (CHS)</a> — Lipid additive in solubilization and LCP crystallization
+- <a href="/xray-mp-wiki/methods/quality-assessment/sec-mals/">SEC-MALS</a> — Used to assess oligomerization state of sigma-1 receptor
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/cupin-fold/">Cupin Fold</a> — Structural fold of the ligand-binding domain
+- <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a> — Epitope tag used for affinity purification of sigma-1 receptor
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — LCP method used for crystallization of sigma-1 receptor
+- <a href="/xray-mp-wiki/reagents/buffers/mes">MES</a> — Buffer component in crystallization
+- <a href="/xray-mp-wiki/reagents/lipids/cholesterol">Cholesterol</a> — Entity mentioned in text

@@ -1,7 +1,7 @@
 ---
 title: "FtsB-FtsL-FtsQ (FtsBLQ) Complex from Escherichia coli"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -30,48 +30,717 @@ complementation assays provide a [Structure-Based Design of Third-Generation Ant
 peptidoglycan synthases by FtsBLQ, where a potential Allosteric Mechanism of Aspartate Carbamoyltransferase Binding-Change Mechanism At the
 FtsB-FtsQ Batch Crystallization with Free Interface Diffusion may modulate divisome Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea interactions.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##s41467-023-37543-4 | 8HHG | 3.1 | Not specified | Full-length E. coli FtsB-FtsL-FtsQ complex (1:1:1 stoichiometry); FtsL(S3N,R4K,V5L) [Constitutive Active GPCR Mutations](/xray-mp-wiki/concepts/signaling-receptors/constitutive-active-gpcr-mutations/) for enhanced Sf9 Insect Cell Expression System; N-Terminal [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) Fusion for GPCR Crystallization His-tag On FtsL, cleaved by [Thrombin Protease](/xray-mp-wiki/reagents/protein-tags/thrombin-protease/) | None |
-| doi/10.1038##s41467-023-37543-4 | 8HHF | 3.1 | Not specified | FtsB(D59H) [Rhodopsin N2C/D282C Mutant](/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/) FtsBLQ complex | None |
-| doi/10.1038##s41467-023-37543-4 | 8HHH | 3.1 | Not specified | FtsB(E56A) [Rhodopsin N2C/D282C Mutant](/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/) FtsBLQ complex | None |
+### doi/10.1038##s41467-023-37543-4
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/8hhg">8HHG</a></td>
+      <td>3.1</td>
+      <td>Not specified</td>
+      <td>Full-length E. coli FtsB-FtsL-FtsQ complex (1:1:1 stoichiometry); FtsL(S3N,R4K,V5L) <a href="/xray-mp-wiki/concepts/signaling-receptors/constitutive-active-gpcr-mutations/">Constitutive Active GPCR Mutations</a> for enhanced Sf9 Insect Cell Expression System; N-Terminal <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> Fusion for GPCR Crystallization His-tag On FtsL, cleaved by <a href="/xray-mp-wiki/reagents/protein-tags/thrombin-protease/">Thrombin Protease</a></td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/8hhf">8HHF</a></td>
+      <td>3.1</td>
+      <td>Not specified</td>
+      <td>FtsB(D59H) <a href="/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/">Rhodopsin N2C/D282C Mutant</a> FtsBLQ complex</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/8hhh">8HHH</a></td>
+      <td>3.1</td>
+      <td>Not specified</td>
+      <td>FtsB(E56A) <a href="/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/">Rhodopsin N2C/D282C Mutant</a> FtsBLQ complex</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli Signal Peptide Peptidase (SppA, Protease IV) (SppA, Protease IV) coli
 - **Construct**: pRSFDuet-1 vector with ftsB-ftsL-ftsQ; FtsL with N-Terminal [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) Fusion for GPCR Crystallization His-tag and [Thrombin Protease](/xray-mp-wiki/reagents/protein-tags/thrombin-protease/) [si-Face Cleavage in Rhomboid Proteases](/xray-mp-wiki/concepts/enzyme-mechanisms/si-face-cleavage/) in Rhomboid Proteases in Rhomboid Proteases Site; FtsL(S3N,R4K,V5L) [Constitutive Active GPCR Mutations](/xray-mp-wiki/concepts/signaling-receptors/constitutive-active-gpcr-mutations/) for enhanced Sf9 Insect Cell Expression System
 - **Induction**: 1 mM [IPTG (Isopropyl-beta-D-thiogalactopyranoside)](/xray-mp-wiki/reagents/additives/iptg/) (Isopropyl-beta-D-thiogalactopyranoside) (Isopropyl-beta-D-thiogalactopyranoside) (Isopropyl-beta-D-thiogalactopyranoside) for 4 h At 37 C In TB medium
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell harvest and lysis</td>
+      <td>Microfluidizer (3 passes)</td>
+      <td>—</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> Ph 8.0, 200 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 10 ug/mL DNase I, 1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">PMSF (Phenylmethylsulfonyl Fluoride)</a> (Phenylmethylsulfonyl Fluoride) (Phenylmethylsulfonyl Fluoride) (Phenylmethylsulfonyl Fluoride), <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>-<a href="/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/">Bovine F1-ATPase (azide-inhibited form)</a> (azide-inhibited form) (azide-free ground state) <a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> <a href="/xray-mp-wiki/reagents/ligands/g907-quinoline-msba-inhibitor/">G907 (Quinoline MsbA Inhibitor)</a> (Quinoline MsbA Inhibitor) (Quinoline MsbA Inhibitor) cocktail</td>
+      <td>Cells grown In TB medium with appropriate antibiotics</td>
+    </tr>
+    <tr>
+      <td>Solid-Supported Membrane Electrophysiology isolation</td>
+      <td>Differential centrifugation</td>
+      <td>—</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> Ph 8.0, 200 mM NaCl, 10% GlpF, <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>-<a href="/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/">Bovine F1-ATPase (azide-inhibited form)</a> (azide-inhibited form) (azide-free ground state) <a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> <a href="/xray-mp-wiki/reagents/ligands/g907-quinoline-msba-inhibitor/">G907 (Quinoline MsbA Inhibitor)</a> (Quinoline MsbA Inhibitor) (Quinoline MsbA Inhibitor) cocktail</td>
+      <td>Pellet collected At 27,000 x g for 30 min At 4 C</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>—</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> Ph 8.0, 200 mM NaCl, 10% GlpF, <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>-<a href="/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/">Bovine F1-ATPase (azide-inhibited form)</a> (azide-inhibited form) (azide-free ground state) <a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> <a href="/xray-mp-wiki/reagents/ligands/g907-quinoline-msba-inhibitor/">G907 (Quinoline MsbA Inhibitor)</a> (Quinoline MsbA Inhibitor) (Quinoline MsbA Inhibitor) cocktail + 2% <a href="/xray-mp-wiki/reagents/detergents/cymal-6/">Cymal-6</a>-5 (structural studies) or 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (kinetic studies)</td>
+      <td>Moderate stirring At 4 C for 4 h; clarified At 27,000 x g for 30 min</td>
+    </tr>
+    <tr>
+      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (His-tag)</td>
+      <td>Ni-NTA agarose gravity column</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> Ph 8.0, 200 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cymal-6/">Cymal-6</a>-5</td>
+      <td>Washed extensively with 40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-ion-bound-configurations/">Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters</a> in K+ Channel Selectivity Filters in K+ Channel Selectivity Filters Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea eluted with 500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> or cleaved On-column by <a href="/xray-mp-wiki/reagents/protein-tags/thrombin-protease/">Thrombin Protease</a> At room temperature overnight</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td>Gel filtration</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a>-200 10/300 GL column</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.5, 200 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cymal-6/">Cymal-6</a>-5 + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cymal-6/">Cymal-6</a>-5</td>
+      <td>Final purification step; concentrated to ~10 mg/mL using 50 kDa MWCO centrifugal concentrator</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell harvest and lysis | Microfluidizer (3 passes) | — | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) Ph 8.0, 200 mM NaCl, 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 10 ug/mL DNase I, 1 mM [PMSF (Phenylmethylsulfonyl Fluoride)](/xray-mp-wiki/reagents/additives/pmsf/) (Phenylmethylsulfonyl Fluoride) (Phenylmethylsulfonyl Fluoride) (Phenylmethylsulfonyl Fluoride), [EDTA](/xray-mp-wiki/reagents/additives/edta/)-[Bovine F1-ATPase (azide-inhibited form)](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) (azide-inhibited form) (azide-free ground state) [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) [G907 (Quinoline MsbA Inhibitor)](/xray-mp-wiki/reagents/ligands/g907-quinoline-msba-inhibitor/) (Quinoline MsbA Inhibitor) (Quinoline MsbA Inhibitor) cocktail | Cells grown In TB medium with appropriate antibiotics |
-| Solid-Supported Membrane Electrophysiology isolation | Differential centrifugation | — | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) Ph 8.0, 200 mM NaCl, 10% GlpF, [EDTA](/xray-mp-wiki/reagents/additives/edta/)-[Bovine F1-ATPase (azide-inhibited form)](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) (azide-inhibited form) (azide-free ground state) [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) [G907 (Quinoline MsbA Inhibitor)](/xray-mp-wiki/reagents/ligands/g907-quinoline-msba-inhibitor/) (Quinoline MsbA Inhibitor) (Quinoline MsbA Inhibitor) cocktail | Pellet collected At 27,000 x g for 30 min At 4 C |
-| Solubilization | Detergent solubilization | — | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) Ph 8.0, 200 mM NaCl, 10% GlpF, [EDTA](/xray-mp-wiki/reagents/additives/edta/)-[Bovine F1-ATPase (azide-inhibited form)](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) (azide-inhibited form) (azide-free ground state) [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) [G907 (Quinoline MsbA Inhibitor)](/xray-mp-wiki/reagents/ligands/g907-quinoline-msba-inhibitor/) (Quinoline MsbA Inhibitor) (Quinoline MsbA Inhibitor) cocktail + 2% [Cymal-6](/xray-mp-wiki/reagents/detergents/cymal-6/)-5 (structural studies) or 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (kinetic studies) | Moderate stirring At 4 C for 4 h; clarified At 27,000 x g for 30 min |
-| Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) (His-tag) | Ni-NTA agarose gravity column | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) Ph 8.0, 200 mM NaCl, 0.2% [Cymal-6](/xray-mp-wiki/reagents/detergents/cymal-6/)-5 | Washed extensively with 40 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/); [Alternating Ion-Bound Configurations in K+ Channel Selectivity Filters](/xray-mp-wiki/concepts/transport-mechanisms/alternating-ion-bound-configurations/) in K+ Channel Selectivity Filters in K+ Channel Selectivity Filters Rh Protein from Nitrosomonas europaea from Nitrosomonas europaea eluted with 500 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) or cleaved On-column by [Thrombin Protease](/xray-mp-wiki/reagents/protein-tags/thrombin-protease/) At room temperature overnight |
-| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | Gel filtration | [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/)-200 10/300 GL column | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) Ph 7.5, 200 mM NaCl, 0.2% [Cymal-6](/xray-mp-wiki/reagents/detergents/cymal-6/)-5 + 0.2% [Cymal-6](/xray-mp-wiki/reagents/detergents/cymal-6/)-5 | Final purification step; concentrated to ~10 mg/mL using 50 kDa MWCO centrifugal concentrator |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">Sitting-Drop Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified FtsBLQ complex At ~10 mg/mL In 20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> Ph 7.5, 200 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cymal-6/">Cymal-6</a>-5</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.1 M <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> Ph 8.0, 20-35% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>1-3 days</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Diffractive Imaging of Imperfect Crystals harvested and flash-cooled In Liquid Sponge Phase Crystallization nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Data collected At TPS 05A beamline (NSRRC, Taiwan) and X06SA-PXI (SLS, Switzerland). <a href="/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/">Structure-Based Design of Third-Generation Antipsychotics</a> solved by Molecular Replacement using partial <a href="/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/">Structure-Based Design of Third-Generation Antipsychotics</a> (PDB 5Z2W) as search <a href="/xray-mp-wiki/concepts/transport-mechanisms/ball-and-chain-model/">Ball-and-Chain Model for SLC38A9</a>; ~40% of atoms manually built including 3 fully <a href="/xray-mp-wiki/methods/structure-determination/time-resolved-serial-synchrotron-crystallography/">TR-SMX</a> Tm helices. <a href="/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/">Rhodopsin N2C/D282C Mutant</a> structures (8HHF, 8HHH) refined to RMSD ~0.45 A from wild-Type.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/8hhg">8HHG</a> — Chain Q (1 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MSQAALNTRNSEEEVSSRRNN</span><span class="topo-outside">GTRLAGILFLLT</span><span class="topo-membrane">VLTTVLVSGWVVLGWMEDAQR</span><span class="topo-inside">LPLSKL</span></span>
+<span class="topo-line"><span class="topo-inside">VLTGERHYTRNDDIRQSILALGEPGTFMTQDVNIIQTQIEQRLPWIKQVSVRKQWPDELK</span></span>
+<span class="topo-line"><span class="topo-inside">IHLVEYVPIARWNDQHMVDAEGNTFSVPPERTSKQVLPMLYGPEGSANEVLQGYREMGQM</span></span>
+<span class="topo-line"><span class="topo-inside">LAKDRFTLKEAAMTARRSWQLTLNNDIKLNLGRGDTMKRLARFVELYPVLQQQAQTDGKR</span></span>
+<span class="topo-line"><span class="topo-inside">ISYVDLRYDSGAAVGWAPLP</span><span class="topo-unknown">PEESTQQQNQAQAEQQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>21</td>
+      <td>1</td>
+      <td>21</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>33</td>
+      <td>22</td>
+      <td>33</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>54</td>
+      <td>34</td>
+      <td>54</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>260</td>
+      <td>55</td>
+      <td>260</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>261</td>
+      <td>276</td>
+      <td>261</td>
+      <td>276</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##s41467-023-37543-4
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/8hhg">8HHG</a> — Chain B (1 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | [Sitting-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) |
-| Protein sample | Purified FtsBLQ complex At ~10 mg/mL In 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) Ph 7.5, 200 mM NaCl, 0.2% [Cymal-6](/xray-mp-wiki/reagents/detergents/cymal-6/)-5 |
-| Reservoir | 0.1 M [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) Ph 8.0, 20-35% [PEG400](/xray-mp-wiki/reagents/additives/peg-400/) |
-| Temperature | 20 |
-| Growth time | 1-3 days |
-| Cryoprotection | Diffractive Imaging of Imperfect Crystals harvested and flash-cooled In Liquid Sponge Phase Crystallization nitrogen |
-| Notes | Data collected At TPS 05A beamline (NSRRC, Taiwan) and X06SA-PXI (SLS, Switzerland). [Structure-Based Design of Third-Generation Antipsychotics](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) solved by Molecular Replacement using partial [Structure-Based Design of Third-Generation Antipsychotics](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) (PDB 5Z2W) as search [Ball-and-Chain Model for SLC38A9](/xray-mp-wiki/concepts/transport-mechanisms/ball-and-chain-model/); ~40% of atoms manually built including 3 fully [TR-SMX](/xray-mp-wiki/methods/structure-determination/time-resolved-serial-synchrotron-crystallography/) Tm helices. [Rhodopsin N2C/D282C Mutant](/xray-mp-wiki/proteins/gpcr/rhodopsin-n2c-d282c-mutant/) structures (8HHF, 8HHH) refined to RMSD ~0.45 A from wild-Type. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSQDPNS</span><span class="topo-outside">MGK</span><span class="topo-membrane">LTLLLLAILVWLQYSLWFGKNGIHDYT</span><span class="topo-inside">RVNDDVAAQQATNA</span></span>
+<span class="topo-line"><span class="topo-inside">KLKARNDQLFAEIDDLNGGQEALEERARNELSMTRPGETFYRLVP</span><span class="topo-unknown">DASKRAQSAGQNNR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>16</td>
+      <td>-15</td>
+      <td>0</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>19</td>
+      <td>1</td>
+      <td>3</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>46</td>
+      <td>4</td>
+      <td>30</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>105</td>
+      <td>31</td>
+      <td>89</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>119</td>
+      <td>90</td>
+      <td>103</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/8hhg">8HHG</a> — Chain L (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MISRVTEALSKVKGSMGSHERHALPGVIGDDLLRFGKL</span><span class="topo-outside">P</span><span class="topo-membrane">LCLFICIILTAVTVVTTA</span><span class="topo-inside">HHT</span></span>
+<span class="topo-line"><span class="topo-inside">RLLTAQREQLVLERDALDIEWRNLILEENALGDHSRVERIATEKLQMQHVDPSQENIVV</span><span class="topo-unknown">Q</span></span>
+<span class="topo-line"><span class="topo-unknown">K</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>38</td>
+      <td>1</td>
+      <td>38</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>39</td>
+      <td>39</td>
+      <td>39</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>57</td>
+      <td>40</td>
+      <td>57</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>119</td>
+      <td>58</td>
+      <td>119</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>120</td>
+      <td>121</td>
+      <td>120</td>
+      <td>121</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/8hhf">8HHF</a> — Chain Q (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MSQAALNTRNSEEEVSSRRNN</span><span class="topo-outside">GTRLAGILFLL</span><span class="topo-membrane">TVLTTVLVSGWVVLGWMEDAQR</span><span class="topo-inside">LPLSKL</span></span>
+<span class="topo-line"><span class="topo-inside">VLTGERHYTRNDDIRQSILALGEPGTFMTQDVNIIQTQIEQRLPWIKQVSVRKQWPDELK</span></span>
+<span class="topo-line"><span class="topo-inside">IHLVEYVPIARWNDQHMVDAEGNTFSVPPERTSKQVLPMLYGPEGSANEVLQGYREMGQM</span></span>
+<span class="topo-line"><span class="topo-inside">LAKDRFTLKEAAMTARRSWQLTLNNDIKLNLGRGDTMKRLARFVELYPVLQQQAQTDGKR</span></span>
+<span class="topo-line"><span class="topo-inside">ISYVDLRYDSGAAVGWAPLP</span><span class="topo-unknown">PEESTQQQNQAQAEQQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>21</td>
+      <td>1</td>
+      <td>21</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>32</td>
+      <td>22</td>
+      <td>32</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>54</td>
+      <td>33</td>
+      <td>54</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>260</td>
+      <td>55</td>
+      <td>260</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>261</td>
+      <td>276</td>
+      <td>261</td>
+      <td>276</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/8hhf">8HHF</a> — Chain B (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSQDPNS</span><span class="topo-outside">MGKL</span><span class="topo-membrane">TLLLLAILVWLQYSLWFGKNG</span><span class="topo-inside">IHDYTRVNDDVAAQQATNA</span></span>
+<span class="topo-line"><span class="topo-inside">KLKARNDQLFAEIDHLNGGQEALEERARNELSMTRPGETFYRLVP</span><span class="topo-unknown">DASKRAQSAGQNNR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>16</td>
+      <td>-15</td>
+      <td>0</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>20</td>
+      <td>1</td>
+      <td>4</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>41</td>
+      <td>5</td>
+      <td>25</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>105</td>
+      <td>26</td>
+      <td>89</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>119</td>
+      <td>90</td>
+      <td>103</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/8hhf">8HHF</a> — Chain L (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MISRVTEALSKVKGSMGSHERHALPGVIGDDLLRFGKL</span><span class="topo-outside">P</span><span class="topo-membrane">LCLFICIILTAVTVVTTAH</span><span class="topo-inside">HT</span></span>
+<span class="topo-line"><span class="topo-inside">RLLTAQREQLVLERDALDIEWRNLILEENALGDHSRVERIATEKLQMQHVDPSQENIVV</span><span class="topo-unknown">Q</span></span>
+<span class="topo-line"><span class="topo-unknown">K</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>38</td>
+      <td>1</td>
+      <td>38</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>39</td>
+      <td>39</td>
+      <td>39</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>58</td>
+      <td>40</td>
+      <td>58</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>119</td>
+      <td>59</td>
+      <td>119</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>120</td>
+      <td>121</td>
+      <td>120</td>
+      <td>121</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/8hhh">8HHH</a> — Chain Q (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MSQAALNTRNSEEEVSSRRNN</span><span class="topo-outside">GTRLAGILFLLT</span><span class="topo-membrane">VLTTVLVSGWVVLGWMEDAQR</span><span class="topo-inside">LPLSKL</span></span>
+<span class="topo-line"><span class="topo-inside">VLTGERHYTRNDDIRQSILALGEPGTFMTQDVNIIQTQIEQRLPWIKQVSVRKQWPDELK</span></span>
+<span class="topo-line"><span class="topo-inside">IHLVEYVPIARWNDQHMVDAEGNTFSVPPERTSKQVLPMLYGPEGSANEVLQGYREMGQM</span></span>
+<span class="topo-line"><span class="topo-inside">LAKDRFTLKEAAMTARRSWQLTLNNDIKLNLGRGDTMKRLARFVELYPVLQQQAQTDGKR</span></span>
+<span class="topo-line"><span class="topo-inside">ISYVDLRYDSGAAVGWAPLP</span><span class="topo-unknown">PEESTQQQNQAQAEQQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>21</td>
+      <td>1</td>
+      <td>21</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>33</td>
+      <td>22</td>
+      <td>33</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>54</td>
+      <td>34</td>
+      <td>54</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>260</td>
+      <td>55</td>
+      <td>260</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>261</td>
+      <td>276</td>
+      <td>261</td>
+      <td>276</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/8hhh">8HHH</a> — Chain B (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSQDPNS</span><span class="topo-outside">MGK</span><span class="topo-membrane">LTLLLLAILVWLQYSLWFGKNGIHD</span><span class="topo-inside">YTRVNDDVAAQQATNA</span></span>
+<span class="topo-line"><span class="topo-inside">KLKARNDQLFAAIDDLNGGQEALEERARNELSMTRPGETFYRLVP</span><span class="topo-unknown">DASKRAQSAGQNNR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>16</td>
+      <td>-15</td>
+      <td>0</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>19</td>
+      <td>1</td>
+      <td>3</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>44</td>
+      <td>4</td>
+      <td>28</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>105</td>
+      <td>29</td>
+      <td>89</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>119</td>
+      <td>90</td>
+      <td>103</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/8hhh">8HHH</a> — Chain L (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MISRVTEALSKVKGSMGSHERHALPGVIGDDLLRFGKL</span><span class="topo-outside">P</span><span class="topo-membrane">LCLFICIILTAVTVVTTA</span><span class="topo-inside">HHT</span></span>
+<span class="topo-line"><span class="topo-inside">RLLTAQREQLVLERDALDIEWRNLILEENALGDHSRVERIATEKLQMQHVDPSQENIVV</span><span class="topo-unknown">Q</span></span>
+<span class="topo-line"><span class="topo-unknown">K</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>38</td>
+      <td>1</td>
+      <td>38</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>39</td>
+      <td>39</td>
+      <td>39</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>57</td>
+      <td>40</td>
+      <td>57</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>119</td>
+      <td>58</td>
+      <td>119</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>120</td>
+      <td>121</td>
+      <td>120</td>
+      <td>121</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -109,13 +778,13 @@ constriction.
 
 ## Cross-References
 
-- [Thermus thermophilus SecYEG Translocon Complex](/xray-mp-wiki/proteins/secretion-translocon/secyeg/) — Another heterotrimeric membrane protein complex from bacteria; comparison of coiled-coil and regulatory mechanisms
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Ni-NTA affinity chromatography used for His-tagged complex purification
-- [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Superdex-200 used for final purification and monodispersity assessment
-- [Sitting Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — Crystallization method for FtsBLQ complex
-- [Cymal-5](/xray-mp-wiki/reagents/detergents/cymal-5/) — Primary detergent for solubilization and crystallization of FtsBLQ
-- [n-Dodecyl-beta-D-maltoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for kinetic studies
-- [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) — Main buffer in purification and crystallization
-- [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer used in size-exclusion chromatography and final sample
-- [beta-FOA (beta-Fuoxymorphamine)](/xray-mp-wiki/reagents/ligands/beta-foa/) — Referenced in ftsblq-complex description
-- [Polar Network in GPCR Activation](/xray-mp-wiki/concepts/signaling-receptors/polar-network-gpcr-activation/) — Referenced in ftsblq-complex description
+- <a href="/xray-mp-wiki/proteins/secretion-translocon/secyeg/">Thermus thermophilus SecYEG Translocon Complex</a> — Another heterotrimeric membrane protein complex from bacteria; comparison of coiled-coil and regulatory mechanisms
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Ni-NTA affinity chromatography used for His-tagged complex purification
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a> — Superdex-200 used for final purification and monodispersity assessment
+- <a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">Sitting Drop Vapor Diffusion</a> — Crystallization method for FtsBLQ complex
+- <a href="/xray-mp-wiki/reagents/detergents/cymal-5/">Cymal-5</a> — Primary detergent for solubilization and crystallization of FtsBLQ
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltoside (DDM)</a> — Detergent used for kinetic studies
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> — Main buffer in purification and crystallization
+- <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES Buffer</a> — Buffer used in size-exclusion chromatography and final sample
+- <a href="/xray-mp-wiki/reagents/ligands/beta-foa/">beta-FOA (beta-Fuoxymorphamine)</a> — Referenced in ftsblq-complex description
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/polar-network-gpcr-activation/">Polar Network in GPCR Activation</a> — Referenced in ftsblq-complex description

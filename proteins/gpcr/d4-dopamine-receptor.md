@@ -1,7 +1,7 @@
 ---
 title: "D4 Dopamine Receptor (DRD4)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -27,45 +27,422 @@ by non-conserved residues V87^2.57, L90^2.60, F91^2.61, and L111^3.28
 provides an atomic-resolution model for DRD4 ligand selectivity.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1126##science.aan5468 | 5WIU | 1.95 | — | DRD4-BRIL fusion (residues 228-336 of ICL3 replaced with thermostabilized apocytochrome b562RIL), bound to [Nemonapride](/xray-mp-wiki/reagents/ligands/nemonapride/), 200 mM Na+ added | [Nemonapride](/xray-mp-wiki/reagents/ligands/nemonapride/), Na+ |
-| doi/10.1126##science.aan5468 | 5WIV | 2.15 | — | DRD4-BRIL fusion (residues 228-336 of ICL3 replaced with [Bril](/xray-mp-wiki/reagents/protein-tags/bril/)), bound to [Nemonapride](/xray-mp-wiki/reagents/ligands/nemonapride/), no added Na+ | [Nemonapride](/xray-mp-wiki/reagents/ligands/nemonapride/) |
+### doi/10.1126##science.aan5468
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5wiu">5WIU</a></td>
+      <td>1.95</td>
+      <td>—</td>
+      <td>DRD4-BRIL fusion (residues 228-336 of ICL3 replaced with thermostabilized apocytochrome b562RIL), bound to <a href="/xray-mp-wiki/reagents/ligands/nemonapride/">Nemonapride</a>, 200 mM Na+ added</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/nemonapride/">Nemonapride</a>, Na+</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5wiv">5WIV</a></td>
+      <td>2.15</td>
+      <td>—</td>
+      <td>DRD4-BRIL fusion (residues 228-336 of ICL3 replaced with <a href="/xray-mp-wiki/reagents/protein-tags/bril/">Bril</a>), bound to <a href="/xray-mp-wiki/reagents/ligands/nemonapride/">Nemonapride</a>, no added Na+</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/nemonapride/">Nemonapride</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Spodoptera frugiperda (Sf9) insect cells via baculovirus
 - **Construct**: DRD4-BRIL — residues 228-336 of ICL3 replaced with thermostabilized apocytochrome b562RIL ([Bril](/xray-mp-wiki/reagents/protein-tags/bril/))
 - **Notes**: DRD4-BRIL has binding affinity for 3H-N-methylspiperone similar to native DRD4. [Nemonapride](/xray-mp-wiki/reagents/ligands/nemonapride/) added during purification to form complex.
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: Sf9 insect cells, baculovirus
 - **Expression construct**: DRD4-BRIL (ICL3 replaced with BRIL)
 - **Tag info**: BRIL fusion (no affinity tag mentioned for DRD4 portion)
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression | Baculovirus infection | — |  | Sf9 cells infected with recombinant baculovirus encoding DRD4-BRIL construct |
-| Complex formation | Ligand addition | — |  | [Nemonapride](/xray-mp-wiki/reagents/ligands/nemonapride/) added during purification to stabilize the receptor-ligand complex |
-| Purification | Affinity chromatography | — |  | Purification details in supplementary materials; DRD4/nemonapride complex purified to homogeneity |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Expression</td>
+      <td>Baculovirus infection</td>
+      <td>—</td>
+      <td></td>
+      <td>Sf9 cells infected with recombinant baculovirus encoding DRD4-<a href="/xray-mp-wiki/reagents/protein-tags/bril/">bril</a> construct</td>
+    </tr>
+    <tr>
+      <td>Complex formation</td>
+      <td>Ligand addition</td>
+      <td>—</td>
+      <td></td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/nemonapride/">Nemonapride</a> added during purification to stabilize the receptor-ligand complex</td>
+    </tr>
+    <tr>
+      <td>Purification</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity-chromatography</a></td>
+      <td>—</td>
+      <td></td>
+      <td>Purification details in supplementary materials; DRD4/nemonapride complex purified to homogeneity</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: DRD4/nemonapride complex in crystallization buffer
 
+**Crystallization:**
 
-## Crystallization
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown in presence and absence of 200 mM added sodium. DRD4/nemonapride complex crystals diffracted to 1.95 Å resolution. Data collected at GM/CA@APS, Advanced Photon Source.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-### doi/10.1126##science.aan5468
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5wiu">5WIU</a> — Chain A (7 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Notes | Crystals grown in presence and absence of 200 mM added sodium. DRD4/nemonapride complex crystals diffracted to 1.95 Å resolution. Data collected at GM/CA@APS, Advanced Photon Source. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GGTTMGNRSTADADGLLAGRGPAAGASAGASAGLAGQ</span><span class="topo-outside">GAA</span><span class="topo-membrane">ALVGGVLLIGAVLAGNSLVC</span></span>
+<span class="topo-line"><span class="topo-membrane">VSV</span><span class="topo-inside">ATERALQTPT</span><span class="topo-membrane">NSFIVSLAAADLLLALLVLPLFV</span><span class="topo-outside">YSEVQGGAWLLSPRLCDA</span><span class="topo-membrane">LMAMDV</span></span>
+<span class="topo-line"><span class="topo-membrane">MLCTASIFNLCAISVDRFV</span><span class="topo-inside">AVAVPLRYNRQGGSRR</span><span class="topo-membrane">QLLLIGATWLLSAAVAAPVL</span><span class="topo-outside">CGLND</span></span>
+<span class="topo-line"><span class="topo-unknown">VRGRD</span><span class="topo-outside">PAVCRLEDRDYVVY</span><span class="topo-membrane">SSVCSFFLPCPLMLLLYWATFR</span><span class="topo-inside">GLQRWEVARRADLEDNWET</span></span>
+<span class="topo-line"><span class="topo-inside">LNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSP</span><span class="topo-unknown">DS</span><span class="topo-inside">PEMKDFRHGFDILV</span></span>
+<span class="topo-line"><span class="topo-inside">GQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLAKITGRERKAM</span><span class="topo-membrane">RVLPVVVGAFLL</span></span>
+<span class="topo-line"><span class="topo-membrane">CWTPFFV</span><span class="topo-outside">VHITQALCPACSVPPRLVSA</span><span class="topo-membrane">VTWLGYVNSALNPVIYTVFN</span><span class="topo-unknown">AEFRNVFR</span><span class="topo-inside">KA</span><span class="topo-unknown">LRA</span></span>
+<span class="topo-line"><span class="topo-unknown">CC</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>38</td>
+      <td>40</td>
+      <td>34</td>
+      <td>36</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>63</td>
+      <td>37</td>
+      <td>59</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>73</td>
+      <td>60</td>
+      <td>69</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>96</td>
+      <td>70</td>
+      <td>92</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>114</td>
+      <td>93</td>
+      <td>110</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>115</td>
+      <td>139</td>
+      <td>111</td>
+      <td>135</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>140</td>
+      <td>155</td>
+      <td>136</td>
+      <td>151</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>156</td>
+      <td>175</td>
+      <td>152</td>
+      <td>171</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>180</td>
+      <td>172</td>
+      <td>176</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>186</td>
+      <td>199</td>
+      <td>182</td>
+      <td>195</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>221</td>
+      <td>196</td>
+      <td>217</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>222</td>
+      <td>284</td>
+      <td>218</td>
+      <td>1053</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>287</td>
+      <td>348</td>
+      <td>1056</td>
+      <td>393</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>349</td>
+      <td>367</td>
+      <td>394</td>
+      <td>412</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>368</td>
+      <td>387</td>
+      <td>413</td>
+      <td>432</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>388</td>
+      <td>407</td>
+      <td>433</td>
+      <td>452</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>415</td>
+      <td>453</td>
+      <td>460</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>416</td>
+      <td>417</td>
+      <td>461</td>
+      <td>462</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5wiv">5WIV</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GGTTMGNRSTADADGLLAGRGPAAGASAGASAGLA</span><span class="topo-inside">GQGAA</span><span class="topo-membrane">ALVGGVLLIGAVLAGNSLVC</span></span>
+<span class="topo-line"><span class="topo-membrane">VS</span><span class="topo-outside">VATERALQTPTNS</span><span class="topo-membrane">FIVSLAAADLLLALLVLPLFV</span><span class="topo-inside">YSEVQGGAWLLSPRLCDA</span><span class="topo-membrane">LMAMDV</span></span>
+<span class="topo-line"><span class="topo-membrane">MLCTASIFNLCAISV</span><span class="topo-outside">DRFVAVAVPLRYNRQGGSRRQ</span><span class="topo-membrane">LLLIGATWLLSAAVAAPVLC</span><span class="topo-inside">GLND</span></span>
+<span class="topo-line"><span class="topo-unknown">VRGRD</span><span class="topo-inside">PAVCRLEDRD</span><span class="topo-membrane">YVVYSSVCSFFLPCPLMLLLY</span><span class="topo-outside">WATFRGLQRWEVARRADLEDNWET</span></span>
+<span class="topo-line"><span class="topo-outside">LNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILV</span></span>
+<span class="topo-line"><span class="topo-outside">GQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLAKITGRERKAMRVL</span><span class="topo-membrane">PVVVGAFLL</span></span>
+<span class="topo-line"><span class="topo-membrane">CWTPFFVVHITQAL</span><span class="topo-inside">CPACSVPPRL</span><span class="topo-membrane">VSAVTWLGYVNSALNPVIYTV</span><span class="topo-outside">FN</span><span class="topo-unknown">AEFRNVFR</span><span class="topo-outside">KALR</span><span class="topo-unknown">A</span></span>
+<span class="topo-line"><span class="topo-unknown">CC</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>36</td>
+      <td>40</td>
+      <td>32</td>
+      <td>36</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>62</td>
+      <td>37</td>
+      <td>58</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>75</td>
+      <td>59</td>
+      <td>71</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>96</td>
+      <td>72</td>
+      <td>92</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>114</td>
+      <td>93</td>
+      <td>110</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>115</td>
+      <td>135</td>
+      <td>111</td>
+      <td>131</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>156</td>
+      <td>132</td>
+      <td>152</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>176</td>
+      <td>153</td>
+      <td>172</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>177</td>
+      <td>180</td>
+      <td>173</td>
+      <td>176</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>186</td>
+      <td>195</td>
+      <td>182</td>
+      <td>191</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>196</td>
+      <td>216</td>
+      <td>192</td>
+      <td>212</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>217</td>
+      <td>351</td>
+      <td>213</td>
+      <td>396</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>352</td>
+      <td>374</td>
+      <td>397</td>
+      <td>419</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>375</td>
+      <td>384</td>
+      <td>420</td>
+      <td>429</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>385</td>
+      <td>405</td>
+      <td>430</td>
+      <td>450</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>406</td>
+      <td>407</td>
+      <td>451</td>
+      <td>452</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>408</td>
+      <td>415</td>
+      <td>453</td>
+      <td>460</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>416</td>
+      <td>419</td>
+      <td>461</td>
+      <td>464</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -92,12 +469,12 @@ Using the 1.95 Å DRD4 structure, a virtual screen of over 600,000 cationic lead
 
 ## Cross-References
 
-- [Human Dopamine D3 Receptor (D3R)](/xray-mp-wiki/proteins/gpcr/human-dopamine-d3-receptor/) — DRD3 is the closest structural homolog; comparison of EBP and constitutive activity mechanisms
-- [Sodium Ion Allosteric Modulation in GPCRs](/xray-mp-wiki/concepts/signaling-receptors/sodium-allosteric-modulation/) — First direct structural evidence for sodium allosteric site in a dopamine receptor
-- [Biased Agonism in G Protein-Coupled Receptors](/xray-mp-wiki/concepts/signaling-receptors/biased-agonism/) — Compound 9-6-24 shows 7.4-fold arrestin bias over Gαi/o signaling
-- [DRD2 Extended Binding Pocket (DRD2-EBP)](/xray-mp-wiki/concepts/structural-mechanisms/drd2-extended-binding-pocket/) — Closely related concept — DRD4 EBP is the DRD4-specific analog driving subtype selectivity
-- [Dopamine](/xray-mp-wiki/reagents/ligands/dopamine/) — Referenced in context related to Dopamine
-- [Nemonapride](/xray-mp-wiki/reagents/ligands/nemonapride/) — Referenced in context related to Nemonapride
-- [Bril](/xray-mp-wiki/reagents/protein-tags/bril/) — Referenced in context related to Bril
-- [DRD2](/xray-mp-wiki/proteins/gpcr/drd2/) — Referenced in context related to DRD2
-- [NM](/xray-mp-wiki/reagents/detergents/nm/) — Referenced in context related to NM
+- <a href="/xray-mp-wiki/proteins/gpcr/human-dopamine-d3-receptor/">Human Dopamine D3 Receptor (D3R)</a> — DRD3 is the closest structural homolog; comparison of EBP and constitutive activity mechanisms
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/sodium-allosteric-modulation/">Sodium Ion Allosteric Modulation in GPCRs</a> — First direct structural evidence for sodium allosteric site in a dopamine receptor
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/biased-agonism/">Biased Agonism in G Protein-Coupled Receptors</a> — Compound 9-6-24 shows 7.4-fold arrestin bias over Gαi/o signaling
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/drd2-extended-binding-pocket/">DRD2 Extended Binding Pocket (DRD2-EBP)</a> — Closely related concept — DRD4 EBP is the DRD4-specific analog driving subtype selectivity
+- <a href="/xray-mp-wiki/reagents/ligands/dopamine/">Dopamine</a> — Referenced in context related to Dopamine
+- <a href="/xray-mp-wiki/reagents/ligands/nemonapride/">Nemonapride</a> — Referenced in context related to Nemonapride
+- <a href="/xray-mp-wiki/reagents/protein-tags/bril/">Bril</a> — Referenced in context related to Bril
+- <a href="/xray-mp-wiki/proteins/gpcr/drd2/">DRD2</a> — Referenced in context related to DRD2
+- <a href="/xray-mp-wiki/reagents/detergents/nm/">NM</a> — Referenced in context related to NM

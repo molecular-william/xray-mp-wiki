@@ -1,12 +1,12 @@
 ---
 title: "NarQ (E. coli Nitrate/Nitrite Sensor Histidine Kinase)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [membrane-protein, enzyme]
-sources: [doi/10.3390##ijms21093110, doi/10.1073##pnas.2014896117, doi/10.1016##j.bpj.2017.11.3744, doi/10.1002##bies.201700197]
+sources: [doi/10.3390##ijms21093110, doi/10.1073##pnas.2014896117]
 verified: false
 ---
 
@@ -25,31 +25,517 @@ the presence of nitrate or nitrite, while dephosphorylating them in the
 absence of ligands.
 
 
-## Structure Determination
-
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.3390##ijms21093110 | 6YUE | 2.4 | F222 | Sensor-TM-HAMP fragment (residues 1-234) of NarQ R50S mutant | None (mutant unable to bind nitrate) |
-| doi/10.1073##pnas.2014896117 | 5IJI | 2.8 | F222 | Sensor-TM-HAMP fragment (residues 1-234) of wild-type NarQ, ligand-bound | Nitrate |
-| doi/10.1073##pnas.2014896117 | 5JEQ | 3.0 | C222_1 | Sensor-TM-HAMP fragment (residues 1-234) of NarQ R50K mutant, ligand-free | None |
-
-## Expression and Purification
-
-No purification described.
-
-## Crystallization
+## Publications
 
 ### doi/10.3390##ijms21093110
 
-| Parameter | Value |
-|---|---|
-| Method | In meso (lipidic cubic phase) crystallization |
-| Protein sample | Sensor-TM-HAMP fragment of NarQ R50S mutant (30 mg/mL in crystallization buffer) |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) |
-| Temperature | 22 °C (crystallization), 100 K (data collection) |
-| Cryoprotection | 20% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) added to precipitant solution, 5 min incubation |
-| Notes | Crystals of ~100 um grown within 1 week using NT8 robotic system (LCP version). Harvested using micromounts, flash-cooled in liquid nitrogen. Data collected at ESRF beamline ID23-1 with PILATUS 6M-F detector at 100 K. |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6yue">6YUE</a></td>
+      <td>2.4</td>
+      <td>F222</td>
+      <td>Sensor-TM-HAMP fragment (residues 1-234) of NarQ R50S mutant</td>
+      <td>None (mutant unable to bind nitrate)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>In meso (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>) crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Sensor-TM-HAMP fragment of NarQ R50S mutant (30 mg/mL in crystallization buffer)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>22 °C (crystallization), 100 K (data collection)</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>20% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> added to precipitant solution, 5 min incubation</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals of ~100 um grown within 1 week using NT8 robotic system (LCP version). Harvested using micromounts, flash-cooled in liquid nitrogen. Data collected at ESRF beamline ID23-1 with PILATUS 6M-F detector at 100 K.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6yue">6YUE</a> — Chain A (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MIVKRPVSASLARAF</span><span class="topo-membrane">FYIVLLSILSTGIALLTLASSLR</span><span class="topo-outside">DAEAINIAGSLSMQSYRLGYDL</span></span>
+<span class="topo-line"><span class="topo-outside">QSGSPQLNAHRQLFQQALHSPVLTNLNVWYVPEAVKTRYAHLNANWLEMNNRLSKGDLPW</span></span>
+<span class="topo-line"><span class="topo-outside">YQANINNYVNQIDLFVLALQHY</span><span class="topo-membrane">AERKMLLVVAISLAGGIGIFTLVF</span><span class="topo-inside">FTLRRIRHQVVAPL</span></span>
+<span class="topo-line"><span class="topo-inside">NQLVTASQRIEHGQFDSPPLDTNLPNELGLLAKTFNQMSSELHKLYR</span><span class="topo-unknown">SLEHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>15</td>
+      <td>1</td>
+      <td>15</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>38</td>
+      <td>16</td>
+      <td>38</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>142</td>
+      <td>39</td>
+      <td>142</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>166</td>
+      <td>143</td>
+      <td>166</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>167</td>
+      <td>227</td>
+      <td>167</td>
+      <td>227</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6yue">6YUE</a> — Chain B (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MIVKRPVSASLARAF</span><span class="topo-membrane">FYIVLLSILSTGIALLTLASSLR</span><span class="topo-outside">DAEAINIAGSLSMQSYRLGYDL</span></span>
+<span class="topo-line"><span class="topo-outside">QSGSPQLNAHRQLFQQALHSPVLTNLNVWYVPEAVKTRYAHLNANWLEMNNRLSKGDLPW</span></span>
+<span class="topo-line"><span class="topo-outside">YQANINNYVNQIDLFVLALQHY</span><span class="topo-membrane">AERKMLLVVAISLAGGIGIFTLVF</span><span class="topo-inside">FTLRRIRHQVVAPL</span></span>
+<span class="topo-line"><span class="topo-inside">NQLVTASQRIEHGQFDSPPLDTNLPNELGLLAKTFNQMSSELHKLYR</span><span class="topo-unknown">SLEHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>15</td>
+      <td>1</td>
+      <td>15</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>38</td>
+      <td>16</td>
+      <td>38</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>142</td>
+      <td>39</td>
+      <td>142</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>166</td>
+      <td>143</td>
+      <td>166</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>167</td>
+      <td>227</td>
+      <td>167</td>
+      <td>227</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
+### doi/10.1073##pnas.2014896117
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5iji">5IJI</a></td>
+      <td>2.8</td>
+      <td>F222</td>
+      <td>Sensor-TM-HAMP fragment (residues 1-234) of wild-type NarQ, ligand-bound</td>
+      <td>Nitrate</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5jeq">5JEQ</a></td>
+      <td>3.0</td>
+      <td>C222_1</td>
+      <td>Sensor-TM-HAMP fragment (residues 1-234) of NarQ R50K mutant, ligand-free</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5iji">5IJI</a> — Chain A (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MIVKRPVSASLARAF</span><span class="topo-membrane">FYIVLLSILSTGIALLTLASSLR</span><span class="topo-outside">DAEAINIAGSLRMQSYRLGYDL</span></span>
+<span class="topo-line"><span class="topo-outside">QSGSPQLNAHRQLFQQALHSPVLTNLNVWYVPEAVKTRYAHLNANWLEMNNRLSKGDLPW</span></span>
+<span class="topo-line"><span class="topo-outside">YQANINNYVNQIDLFVLALQHY</span><span class="topo-membrane">AERKMLLVVAISLAGGIGIFTLVF</span><span class="topo-inside">FTLRRIRHQVVAPL</span></span>
+<span class="topo-line"><span class="topo-inside">NQLVTASQRIEHGQFDSPPLDTNLPNELGLLAKTFNQMSSELHKLYR</span><span class="topo-unknown">SLEHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>15</td>
+      <td>1</td>
+      <td>15</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>38</td>
+      <td>16</td>
+      <td>38</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>142</td>
+      <td>39</td>
+      <td>142</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>166</td>
+      <td>143</td>
+      <td>166</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>167</td>
+      <td>227</td>
+      <td>167</td>
+      <td>227</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5iji">5IJI</a> — Chain B (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MIVKRPVSASLARAF</span><span class="topo-membrane">FYIVLLSILSTGIALLTLASSLR</span><span class="topo-outside">DAEAINIAGSLRMQSYRLGYDL</span></span>
+<span class="topo-line"><span class="topo-outside">QSGSPQLNAHRQLFQQALHSPVLTNLNVWYVPEAVKTRYAHLNANWLEMNNRLSKGDLPW</span></span>
+<span class="topo-line"><span class="topo-outside">YQANINNYVNQIDLFVLALQHY</span><span class="topo-membrane">AERKMLLVVAISLAGGIGIFTLVF</span><span class="topo-inside">FTLRRIRHQVVAPL</span></span>
+<span class="topo-line"><span class="topo-inside">NQLVTASQRIEHGQFDSPPLDTNLPNELGLLAKTFNQMSSELHKLYR</span><span class="topo-unknown">SLEHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>15</td>
+      <td>1</td>
+      <td>15</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>38</td>
+      <td>16</td>
+      <td>38</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>142</td>
+      <td>39</td>
+      <td>142</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>166</td>
+      <td>143</td>
+      <td>166</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>167</td>
+      <td>227</td>
+      <td>167</td>
+      <td>227</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5jeq">5JEQ</a> — Chain A (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MIVKRPVSASLARA</span><span class="topo-membrane">FFYIVLLSILSTGIALLTLASSL</span><span class="topo-outside">RDAEAINIAGSLKMQSYRLGYDL</span></span>
+<span class="topo-line"><span class="topo-outside">QSGSPQLNAHRQLFQQALHSPVLTNLNVWYVPEAVKTRYAHLNANWLEMNNRLSKGDLPW</span></span>
+<span class="topo-line"><span class="topo-outside">YQANINNYVNQIDLFVLALQHY</span><span class="topo-membrane">AERKMLLVVAISLAGGIGIFTLV</span><span class="topo-inside">FFTLRRIRHQVVAPL</span></span>
+<span class="topo-line"><span class="topo-inside">NQLVTASQRIEH</span><span class="topo-unknown">G</span><span class="topo-inside">QF</span><span class="topo-unknown">DS</span><span class="topo-inside">PPLDTNLPNELGLLAKTFNQMSSELHKLYRSLE</span><span class="topo-unknown">HHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>14</td>
+      <td>1</td>
+      <td>14</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>37</td>
+      <td>15</td>
+      <td>37</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>142</td>
+      <td>38</td>
+      <td>142</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>165</td>
+      <td>143</td>
+      <td>165</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>166</td>
+      <td>192</td>
+      <td>166</td>
+      <td>192</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>194</td>
+      <td>195</td>
+      <td>194</td>
+      <td>195</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>230</td>
+      <td>198</td>
+      <td>230</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5jeq">5JEQ</a> — Chain B (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MIVKRPVSASLARA</span><span class="topo-membrane">FFYIVLLSILSTGIALLTLASSL</span><span class="topo-outside">RDAEAINIAGSLKMQSYRLGYDL</span></span>
+<span class="topo-line"><span class="topo-outside">QSGSPQLNAHRQLFQQALHSPVLTNLNVWYVPEAVKTRYAHLNANWLEMNNRLSKGDLPW</span></span>
+<span class="topo-line"><span class="topo-outside">YQANINNYVNQIDLFVLALQHY</span><span class="topo-membrane">AERKMLLVVAISLAGGIGIFTLV</span><span class="topo-inside">FFTLRRIRHQVVAPL</span></span>
+<span class="topo-line"><span class="topo-inside">NQLVTASQRIEH</span><span class="topo-unknown">G</span><span class="topo-inside">QF</span><span class="topo-unknown">DS</span><span class="topo-inside">PPLDTNLPNELGLLAKTFNQMSSELHKLYRSLE</span><span class="topo-unknown">HHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>14</td>
+      <td>1</td>
+      <td>14</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>37</td>
+      <td>15</td>
+      <td>37</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>142</td>
+      <td>38</td>
+      <td>142</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>165</td>
+      <td>143</td>
+      <td>165</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>166</td>
+      <td>192</td>
+      <td>166</td>
+      <td>192</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>194</td>
+      <td>195</td>
+      <td>194</td>
+      <td>195</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>230</td>
+      <td>198</td>
+      <td>230</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -97,8 +583,8 @@ full-length or multi-domain fragments for understanding TM signaling.
 
 ## Cross-References
 
-- [Two-Component Signaling System](/xray-mp-wiki/concepts/signaling-receptors/two-component-signaling-system/) — NarQ is the archetypal TCS sensor used to demonstrate the complete TM signaling mechanism including helical rotation, diagonal scissoring, and piston-like shifts
-- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — In meso crystallization was essential for obtaining NarQ TM domain structures
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/two-component-signaling-system/">Two-Component Signaling System</a> — NarQ is the archetypal TCS sensor used to demonstrate the complete TM signaling mechanism including helical rotation, diagonal scissoring, and piston-like shifts
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — In meso crystallization was essential for obtaining NarQ TM domain structures
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — Additive used in purification or crystallization buffers

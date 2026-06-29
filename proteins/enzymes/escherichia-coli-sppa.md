@@ -1,7 +1,7 @@
 ---
 title: "E. coli Signal Peptide Peptidase (SppA, Protease IV)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -29,44 +29,112 @@ cytoplasmic Ser/His/Asp protease , suggesting a possible role in quality
 assurance of periplasmic and membrane-bound proteins.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.jmb.2007.11.080 | 3BF0 | 2.6 A | P2_1 | SppAΔ2-46 (residues 56-549) with N-terminal 6xHis tag and thrombin cleavage site, expressed in E. coli BL21(DE3); native and SeMet-incorporated | None (apo structure) |
+### doi/10.1016##j.jmb.2007.11.080
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3bf0">3BF0</a></td>
+      <td>2.6 A</td>
+      <td>P2_1</td>
+      <td>SppAΔ2-46 (residues 56-549) with N-terminal 6xHis tag and thrombin cleavage site, expressed in E. coli BL21(DE3); native and SeMet-incorporated</td>
+      <td>None (apo structure)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli BL21(DE3)
 - **Construct**: SppAΔ2-46 with N-terminal MGSS-HHHHHH-SSGLVPR-GSH tag (6xHis + thrombin cleavage site) followed by Met and SppA starting at Gly47; cloned into pET-28a via NdeI and XhoI sites
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell growth and induction</td>
+      <td>Cells grown in LB + 25 ug/mL  at 37C, induced with 0.75 mM  at 27.5C for 3.5 h</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>Overnight culture diluted 2:100 into LB media</td>
+    </tr>
+    <tr>
+      <td>Cell lysis</td>
+      <td>French press in 50 mM  Hcl]] pH 7.5, 100 mM NaCl, 5 mM </td>
+      <td>--</td>
+      <td>50 mM  Hcl]] pH 7.5, 100 mM NaCl, 5 mM  + --</td>
+      <td>Lysate centrifuged at 37,000g for 20 min</td>
+    </tr>
+    <tr>
+      <td>Nickel <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Ni-NTA column (5 mL column volume, Qiagen)</td>
+      <td>Ni-NTA agarose (Qiagen)</td>
+      <td>50 mM  Hcl]] pH 7.5, 100 mM NaCl; wash with 50 mM ; elution with 100-500 mM  step gradient + --</td>
+      <td>Protein eluted between 200-400 mM </td>
+    </tr>
+    <tr>
+      <td>Size exclusion chromatography</td>
+      <td>Sephacryl S-100 HiPrep 26/60 SEC on AKTA Prime</td>
+      <td>Sephacryl S-100 HiPrep 26/60 (GE Healthcare)</td>
+      <td>50 mM  Hcl]] pH 7.5, 100 mM NaCl, 1 mM  + --</td>
+      <td>Run at 1 mL/min; fractions analyzed by SDS-PAGE; concentrated to 8 mg/mL</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell growth and induction | Cells grown in LB + 25 ug/mL  at 37C, induced with 0.75 mM  at 27.5C for 3.5 h | -- | -- + -- | Overnight culture diluted 2:100 into LB media |
-| Cell lysis | French press in 50 mM  Hcl]] pH 7.5, 100 mM NaCl, 5 mM  | -- | 50 mM  Hcl]] pH 7.5, 100 mM NaCl, 5 mM  + -- | Lysate centrifuged at 37,000g for 20 min |
-| Nickel [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA column (5 mL column volume, Qiagen) | Ni-NTA agarose (Qiagen) | 50 mM  Hcl]] pH 7.5, 100 mM NaCl; wash with 50 mM ; elution with 100-500 mM  step gradient + -- | Protein eluted between 200-400 mM  |
-| Size exclusion chromatography | Sephacryl S-100 HiPrep 26/60 SEC on AKTA Prime | Sephacryl S-100 HiPrep 26/60 (GE Healthcare) | 50 mM  Hcl]] pH 7.5, 100 mM NaCl, 1 mM  + -- | Run at 1 mL/min; fractions analyzed by SDS-PAGE; concentrated to 8 mg/mL |
-
-
-## Crystallization
-
-### doi/10.1016##j.jmb.2007.11.080
-
-| Parameter | Value |
-|---|---|
-| Method | [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) |
-| Protein sample | 8 mg/mL SppAΔ2-46 (native or SeMet-incorporated) |
-| Reservoir | 100 mM  Hcl]] pH 7.5, 18%  3350, 200 mM K2HPO4 |
-| Temperature | 18 C |
-| Growth time | Not specified |
-| Cryoprotection | 20%  (replacing water in reservoir solution); crystals incubated ~5 min before flash-cooling in liquid N2 |
-| Notes | Crystals in space group P2_1 with 4 molecules per asymmetric unit. SeMet data collected at NSLS beamline X4A; native data at ALS beamline 8.2.1. Matthews coefficient 2.7 A3/Da (54.6% solvent). |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">Hanging-Drop Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>8 mg/mL SppAΔ2-46 (native or SeMet-incorporated)</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>100 mM  Hcl]] pH 7.5, 18%  3350, 200 mM K2HPO4</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>18 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>20%  (replacing water in reservoir solution); crystals incubated ~5 min before flash-cooling in liquid N2</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals in space group P2_1 with 4 molecules per asymmetric unit. SeMet data collected at NSLS beamline X4A; native data at ALS beamline 8.2.1. Matthews coefficient 2.7 A3/Da (54.6% solvent).</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -119,13 +187,13 @@ structure of  with a bound peptide-based inhibitor.
 
 ## Cross-References
 
-- [Signal Peptide Processing](/xray-mp-wiki/concepts/signal-peptide-processing/) — SppA cleaves remnant signal peptides after Sec-dependent protein secretion
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Ni-NTA affinity chromatography used for initial purification
-- [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Sephacryl S-100 SEC used for final purification step
-- [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Crystallization method used for SppAΔ2-46
-- [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Tris-HCl pH 7.5 used in all purification buffers and crystallization reservoir
-- [PEG 3350 (Polyethylene Glycol 3350)](/xray-mp-wiki/reagents/additives/peg-3350/) — 18% PEG 3350 used as precipitant in crystallization
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Used for elution in Ni-NTA affinity chromatography
-- [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) — SeMet-incorporated SppA used for SAD phasing
-- [Clpp](/xray-mp-wiki/proteins/enzymes/clpp/) — Referenced in escherichia-coli-sppa text
-- [Iptg](/xray-mp-wiki/reagents/additives/iptg/) — Referenced in escherichia-coli-sppa text
+- <a href="/xray-mp-wiki/concepts/signal-peptide-processing/">Signal Peptide Processing</a> — SppA cleaves remnant signal peptides after Sec-dependent protein secretion
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Ni-NTA affinity chromatography used for initial purification
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a> — Sephacryl S-100 SEC used for final purification step
+- <a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">Hanging-Drop Vapor Diffusion</a> — Crystallization method used for SppAΔ2-46
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> — Tris-HCl pH 7.5 used in all purification buffers and crystallization reservoir
+- <a href="/xray-mp-wiki/reagents/additives/peg-3350/">PEG 3350 (Polyethylene Glycol 3350)</a> — 18% PEG 3350 used as precipitant in crystallization
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Used for elution in Ni-NTA affinity chromatography
+- <a href="/xray-mp-wiki/reagents/additives/selenomethionine/">Selenomethionine (SeMet)</a> — SeMet-incorporated SppA used for SAD phasing
+- <a href="/xray-mp-wiki/proteins/enzymes/clpp/">Clpp</a> — Referenced in escherichia-coli-sppa text
+- <a href="/xray-mp-wiki/reagents/additives/iptg/">Iptg</a> — Referenced in escherichia-coli-sppa text

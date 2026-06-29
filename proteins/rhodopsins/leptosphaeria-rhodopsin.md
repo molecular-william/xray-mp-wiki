@@ -1,7 +1,7 @@
 ---
 title: "Leptosphaeria Rhodopsin (LR/Mac)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -28,13 +28,32 @@ Structure-based phylogenetic analysis of all available light-driven proton pump
 structures supports an archaeal origin of eukaryotic proton-pumping rhodopsins.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##s42003-021-02326-4 | Not explicitly stated in raw paper | 2.2 | P 21 21 21 | Full-length LR (residues 1-313) from Leptosphaeria maculans, C-terminal polyhistidine tag (H6/H9), expressed in Leishmania tarentolae | all-trans-retinal (covalently bound via Schiff base) |
+### doi/10.1038##s42003-021-02326-4
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/not explicitly stated in raw paper">NOT EXPLICITLY STATED IN RAW PAPER</a></td>
+      <td>2.2</td>
+      <td>P 21 21 21</td>
+      <td>Full-length LR (residues 1-313) from Leptosphaeria maculans, C-terminal polyhistidine tag (H6/H9), expressed in Leishmania tarentolae</td>
+      <td>all-trans-retinal (covalently bound via Schiff base)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Leishmania tarentolae (LEXSY expression system)
 - **Construct**: LR 1-313 (full-length) and LR 49-313 (N-terminally truncated) with
@@ -46,38 +65,97 @@ Cells grown at 26°C in Brain-Heart-Infusion Broth, induced with tetracycline.
 for LR 1-313, 10 mg/L for LR 49-313.
 
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: Leishmania tarentolae (LEXSY)
 - **Expression construct**: Full-length LR 1-313 with C-terminal H6/H9 tag; truncated LR 49-313
 - **Tag info**: C-terminal polyhistidine tag (H6 and H9)
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell disruption</td>
+      <td>Microfluidizer (M-110P Lab Homogenizer)</td>
+      <td>--</td>
+      <td>50 mM NaH2PO4/Na2HPO4 pH 7.6, 0.1 M NaCl, 10% glycerol, 1 mM EDTA, 2 mM 6-aminohexanoic acid, 50 mg/L DNase I, cOmplete protease inhibitor cocktail + --</td>
+      <td>Cells disrupted at 10,000 psi</td>
+    </tr>
+    <tr>
+      <td>Membrane isolation</td>
+      <td>Ultracentrifugation</td>
+      <td>--</td>
+      <td>Same buffer without DNase I + --</td>
+      <td>120,000 x g for 1 h at 4°C, repeated once after resuspension</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>20 mM HEPES pH 8.0, 0.2 M NaCl, cOmplete protease inhibitor + 1% n-dodecyl β-D-maltoside (DDM)</td>
+      <td>Membranes stirred overnight at 4°C; 20 µM all-trans-retinal added for LR 1-313, 5 µM for LR 49-313; insoluble fraction removed by ultracentrifugation</td>
+    </tr>
+    <tr>
+      <td>Ni-NTA affinity chromatography</td>
+      <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td>Ni-NTA resin (Cube Biotech)</td>
+      <td>20 mM HEPES pH 7.5, 0.2 M NaCl, 0.25 M L-Histidine, 0.1 mM PMSF, 2 mM 6-aminohexanoic acid, cOmplete + 0.1% DDM</td>
+      <td>Eluted with L-Histidine-containing buffer</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>Size-exclusion chromatography</td>
+      <td>Superdex 200 Increase 10/300 GL (GE Healthcare)</td>
+      <td>10 mM NaH2PO4/Na2HPO4 pH 6.5, 0.2 M NaCl, 1 mM EDTA, 2 mM 6-aminohexanoic acid, 0.1 mM PMSF, cOmplete + 0.05% DDM</td>
+      <td>A280/A540 absorbance ratio ~1.5; concentrated to 30-40 mg/ml for crystallization</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell disruption | Microfluidizer (M-110P Lab Homogenizer) | -- | 50 mM NaH2PO4/Na2HPO4 pH 7.6, 0.1 M NaCl, 10% glycerol, 1 mM EDTA, 2 mM 6-aminohexanoic acid, 50 mg/L DNase I, cOmplete protease inhibitor cocktail + -- | Cells disrupted at 10,000 psi |
-| Membrane isolation | Ultracentrifugation | -- | Same buffer without DNase I + -- | 120,000 x g for 1 h at 4°C, repeated once after resuspension |
-| Solubilization | Detergent solubilization | -- | 20 mM HEPES pH 8.0, 0.2 M NaCl, cOmplete protease inhibitor + 1% n-dodecyl β-D-maltoside (DDM) | Membranes stirred overnight at 4°C; 20 µM all-trans-retinal added for LR 1-313, 5 µM for LR 49-313; insoluble fraction removed by ultracentrifugation |
-| Ni-NTA affinity chromatography | Immobilized metal affinity chromatography | Ni-NTA resin (Cube Biotech) | 20 mM HEPES pH 7.5, 0.2 M NaCl, 0.25 M L-Histidine, 0.1 mM PMSF, 2 mM 6-aminohexanoic acid, cOmplete + 0.1% DDM | Eluted with L-Histidine-containing buffer |
-| Size-exclusion chromatography | Size-exclusion chromatography | Superdex 200 Increase 10/300 GL (GE Healthcare) | 10 mM NaH2PO4/Na2HPO4 pH 6.5, 0.2 M NaCl, 1 mM EDTA, 2 mM 6-aminohexanoic acid, 0.1 mM PMSF, cOmplete + 0.05% DDM | A280/A540 absorbance ratio ~1.5; concentrated to 30-40 mg/ml for crystallization |
+**Crystallization:**
 
-
-## Crystallization
-
-### doi/10.1038##s42003-021-02326-4
-
-| Parameter | Value |
-|---|---|
-| Method | [Lipidic Cubic Phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (in meso) crystallization |
-| Protein sample | Purified LR at 30-40 mg/ml in 10 mM NaH2PO4/Na2HPO4 pH 6.5, 0.2 M NaCl, 0.05% DDM |
-| Lipid | Monoolein |
-| Protein-to-lipid ratio | Not specified |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Crystals grown using in meso approach. Structure determined at 2.2 A resolution. Space group P 21 21 21, cell dimensions: a=63.54, b=70.78, c=148.02 A. Data collected at ESRF synchrotron beamlines. Rwork/Rfree = 23.8/28.5%. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase</a> (in meso) crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified LR at 30-40 mg/ml in 10 mM NaH2PO4/Na2HPO4 pH 6.5, 0.2 M NaCl, 0.05% DDM</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>Monoolein</td>
+    </tr>
+    <tr>
+      <td>Protein-to-lipid ratio</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown using in meso approach. Structure determined at 2.2 A resolution. Space group P 21 21 21, cell dimensions: a=63.54, b=70.78, c=148.02 A. Data collected at ESRF synchrotron beamlines. Rwork/Rfree = 23.8/28.5%.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -132,11 +210,11 @@ archaeal ancestors of eukaryotes.
 
 ## Cross-References
 
-- [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — LR shows striking structural similarity to archaeal HsBR in membrane core architecture
-- [Coccomyxa subellipsoidea Rhodopsin (CsR)](/xray-mp-wiki/proteins/rhodopsins/coccomyxa-rhodopsin/) — CsR is another eukaryotic proton pump rhodopsin with known structure
-- [Acetabularia Rhodopsin II](/xray-mp-wiki/proteins/rhodopsins/acetabularia-rhodopsin-ii/) — ARII is a characterized eukaryotic rhodopsin used for structural comparison
-- [Archaerhodopsin-1](/xray-mp-wiki/proteins/rhodopsins/archaerhodopsin-1/) — Archaeal proton pump used as reference in phylogenetic analysis
-- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LR was crystallized using in meso approach
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — DDM used for solubilization and purification of LR
-- [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — All-trans-retinal is the chromophore covalently bound to LR
-- [Rhodopsin Photocycle](/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/) — LR exhibits a characteristic rhodopsin photocycle with five intermediates
+- <a href="/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/">Bacteriorhodopsin</a> — LR shows striking structural similarity to archaeal HsBR in membrane core architecture
+- <a href="/xray-mp-wiki/proteins/rhodopsins/coccomyxa-rhodopsin/">Coccomyxa subellipsoidea Rhodopsin (CsR)</a> — CsR is another eukaryotic proton pump rhodopsin with known structure
+- <a href="/xray-mp-wiki/proteins/rhodopsins/acetabularia-rhodopsin-ii/">Acetabularia Rhodopsin II</a> — ARII is a characterized eukaryotic rhodopsin used for structural comparison
+- <a href="/xray-mp-wiki/proteins/rhodopsins/archaerhodopsin-1/">Archaerhodopsin-1</a> — Archaeal proton pump used as reference in phylogenetic analysis
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — LR was crystallized using in meso approach
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — DDM used for solubilization and purification of LR
+- <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a> — All-trans-retinal is the chromophore covalently bound to LR
+- <a href="/xray-mp-wiki/concepts/rhodopsin-mechanisms/rhodopsin-photocycle/">Rhodopsin Photocycle</a> — LR exhibits a characteristic rhodopsin photocycle with five intermediates

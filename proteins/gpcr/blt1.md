@@ -1,7 +1,7 @@
 ---
 title: "Leukotriene B4 Receptor 1 (BLT1) — Guinea Pig and Human"
 created: 2026-06-03
-updated: 2026-06-09
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,51 +16,415 @@ verified: false
 
 The leukotriene B4 receptor 1 (BLT1) is a class A G protein-coupled receptor that mediates the biological effects of leukotriene B4 (LTB4), a potent inflammatory lipid mediator. BLT1 is primarily expressed on leukocytes and plays a central role in inflammatory and immune responses. The first crystal structure of BLT1 was determined for a thermostabilized guinea pig construct in complex with the antagonist BIIL260 (PDB 5X33, 3.7 A), revealing a novel sodium ion-mimicking mechanism by which the [Benzamidine](/xray-mp-wiki/reagents/additives/benzamidine) moiety of BIIL260 stabilizes the inactive state of the receptor. Subsequently, the human BLT1 (hBLT1) crystal structure was determined in complex with the selective antagonist MK-D-046 (PDB 7K15, 2.9 A), developed for the treatment of type 2 diabetes and other inflammatory conditions. The hBLT1 structure, combined with site-directed mutagenesis, structure-activity relationship (SAR) analysis, and docking studies, revealed molecular determinants of ligand binding and selectivity toward different BLT receptor subtypes and across species, and identified a putative membrane-buried ligand access channel. 
 
-## Structure Determination
-
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nchembio.2547 | 5X33 | 3.7 A | Not specified | Thermostabilized guinea pig BLT1 mutant lacking residues 1-14, with H83G/K88G/V212A/S309A mutations, fused with [T4 Lysozyme](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme) (T4L) at intracellular loop 3 (construct ICL3-10)  | [BIIL260](/xray-mp-wiki/reagents/ligands/biil260) |
-| doi/10.1038##s41467-021-23149-1 | 7K15 | 2.9 A | P 21 2 21 | Human BLT1 (hBLT1) with N-terminal residues 1-4 and C-terminal residues 311-352 truncated, flavodoxin fusion in ICL3 between residues 212 and 213, and five thermostabilizing point mutations (L1063.41W, S1163.51Y, A1965.53I, C2877.55F, S310A) | [MK-D-046](/xray-mp-wiki/reagents/ligands/mk-d-046) (selective antagonist) |
-
-## Expression and Purification
-
-### Purification Workflow
-
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression | [Pichia pastoris](/xray-mp-wiki/organisms/pichia-pastoris) stable expression | — | BMGY medium (1% yeast extract, 2% peptone, 100 mM potassium phosphate pH 6.0, 1.34% yeast nitrogen base, 1% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol)) at 30 C | BLT1-T4L construct expressed in P. pastoris (pPIC3.5K vector) |
-| Induction | BMMY medium induction with [Methanol](/xray-mp-wiki/reagents/additives/methanol) | — | BMMY medium (1% yeast extract, 2% peptone, 100 mM potassium phosphate pH 6.0, 1.34% yeast nitrogen base, 0.5% [Methanol](/xray-mp-wiki/reagents/additives/methanol)) at 30 C | Induced expression for 18-20 h |
-| Cell disruption | Bead beater with glass beads | — | 50 mM Tris pH 8.0, 1 M NaCl, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol), protease inhibitor cocktail | 20 cycles of 1 min disruption and 2 min chilling |
-| Membrane preparation | Differential ultracentrifugation | — | 50 mM Tris pH 8.0, 1 M NaCl, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol) | 3,500 x g for 5 min to remove debris, then 100,000 x g for 1 h |
-| Membrane solubilization | Potter homogenizer with [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide) | — | 50 mM Tris-Cl pH 8.0, 150 mM NaCl, 5% glycerol, 4 mg/ml [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide), protease inhibitor cocktail | Membrane pellet suspended and solubilized |
-
-
-## Crystallization
+## Publications
 
 ### doi/10.1038##nchembio.2547
 
-| Parameter | Value |
-|---|---|
-| Method | [Lipidic Cubic Phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) (LCP) |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) |
-| Temperature | Not specified |
-| Notes | Thermostabilized BLT1-T4L fusion crystallized in complex with BIIL260 by the [Lipidic Cubic Phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) method. Protein was mixed with monoolein at a 1:1 (w/w) ratio. The structure was determined at 3.7 A resolution.  |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5x33">5X33</a></td>
+      <td>3.7 A</td>
+      <td>Not specified</td>
+      <td>Thermostabilized guinea pig BLT1 mutant lacking residues 1-14, with H83G/K88G/V212A/S309A mutations, fused with <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme">T4 Lysozyme</a> (T4L) at intracellular loop 3 (construct ICL3-10) </td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/biil260">BIIL260</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">Lipidic Cubic Phase</a> (LCP)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Thermostabilized <a href="/xray-mp-wiki/proteins/blt1/">BLT1</a>-<a href="/xray-mp-wiki/reagents/t4-lysozyme/">T4L</a> fusion crystallized in complex with <a href="/xray-mp-wiki/reagents/biil260/">BIIL260</a> by the <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">Lipidic Cubic Phase</a> method. Protein was mixed with <a href="/xray-mp-wiki/reagents/monoolein/">monoolein</a> at a 1:1 (w/w) ratio. The structure was determined at 3.7 A resolution. </td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5x33">5X33</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">ELMDYKDDDDKEF</span><span class="topo-inside">SNTF</span><span class="topo-membrane">IPLLAMILLSVSMVVGLPGNTFVVW</span><span class="topo-outside">SILKRMRKRSVTALM</span><span class="topo-membrane">VLN</span></span>
+<span class="topo-line"><span class="topo-membrane">LALADLAVLLTAPFFLHFL</span><span class="topo-inside">TWGTWSFGL</span><span class="topo-membrane">AGCRLCHYICGVSMYASVLLITA</span><span class="topo-outside">MSLDRSLAV</span></span>
+<span class="topo-line"><span class="topo-outside">ASPFLSQKVRTKTAARWL</span><span class="topo-membrane">LVGIWGASFLLATPVLAFRK</span><span class="topo-inside">VVKLTNETDLCLAVYPSDR</span><span class="topo-membrane">HKA</span></span>
+<span class="topo-line"><span class="topo-membrane">FHLLFEAFTGFVVPFLIVVA</span><span class="topo-outside">SYADISRRLRARGSGSNIFEMLRIDEGLRLKIYKDTEGYY</span></span>
+<span class="topo-line"><span class="topo-outside">TIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLK</span></span>
+<span class="topo-line"><span class="topo-outside">PVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNR</span></span>
+<span class="topo-line"><span class="topo-outside">AKRVITTFRTGTWDAYGSGSRFHRRRRTGRLVV</span><span class="topo-membrane">IIILAFAAFWLPYHVVDLVEGSRVL</span><span class="topo-inside">AG</span></span>
+<span class="topo-line"><span class="topo-unknown">TL</span><span class="topo-inside">DQSKQQL</span><span class="topo-membrane">RNARKVCIALAFLSSSVNPLLYAC</span><span class="topo-outside">A</span><span class="topo-unknown">GGGLLRSAGVGFVAKLLEATGAEAFS</span></span>
+<span class="topo-line"><span class="topo-unknown">TRRGGTLAQTVKGIPMAPEPGASGSLDGLKQSESDEFLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>14</td>
+      <td>17</td>
+      <td>15</td>
+      <td>18</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>42</td>
+      <td>19</td>
+      <td>43</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>57</td>
+      <td>44</td>
+      <td>58</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>79</td>
+      <td>59</td>
+      <td>80</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>88</td>
+      <td>81</td>
+      <td>89</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>111</td>
+      <td>90</td>
+      <td>112</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>112</td>
+      <td>138</td>
+      <td>113</td>
+      <td>139</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>139</td>
+      <td>158</td>
+      <td>140</td>
+      <td>159</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>159</td>
+      <td>177</td>
+      <td>160</td>
+      <td>178</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>200</td>
+      <td>179</td>
+      <td>201</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>201</td>
+      <td>393</td>
+      <td>202</td>
+      <td>226</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>394</td>
+      <td>418</td>
+      <td>227</td>
+      <td>251</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>419</td>
+      <td>420</td>
+      <td>252</td>
+      <td>253</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>423</td>
+      <td>429</td>
+      <td>256</td>
+      <td>262</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>430</td>
+      <td>453</td>
+      <td>263</td>
+      <td>286</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>454</td>
+      <td>454</td>
+      <td>287</td>
+      <td>287</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 ### doi/10.1038##s41467-021-23149-1
 
-| Parameter | Value |
-|---|---|
-| Method | [Lipidic Cubic Phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) (LCP) |
-| Protein sample | hBLT1-CC at ~30 mg/mL in 50 mM HEPES pH 7.5, 200 mM NaCl, 0.2% DDM, 0.02% CHS, 100 µM MK-D-046 |
-| Temperature | 20 |
-| Growth time | 1-14 days |
-| Cryoprotection | Crystals flash-frozen in liquid nitrogen directly from LCP |
-| Notes | hBLT1-CC crystallized in LCP using NT8-LCP robot. Crystals appeared 24-48 h after incubation at 20 C and continued to grow up to 2 weeks. Average crystal size was 40 x 15 x 8 µm. Data collected from 32 crystals at APS GM/CA 231D-B beamline. Structure solved by molecular replacement using gpBLT1 (PDB 5X33) and flavodoxin (PDB 1I10) as search models. Anisotropic truncation: 2.9 A x 2.9 A x 3.6 A by STARANISO.  |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7k15">7K15</a></td>
+      <td>2.9 A</td>
+      <td>P 21 2 21</td>
+      <td>Human BLT1 (hBLT1) with N-terminal residues 1-4 and C-terminal residues 311-352 truncated, flavodoxin fusion in ICL3 between residues 212 and 213, and five thermostabilizing point mutations (L1063.41W, S1163.51Y, A1965.53I, C2877.55F, S310A)</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/mk-d-046">MK-D-046</a> (selective antagonist)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">Lipidic Cubic Phase</a> (LCP)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>hBLT1-CC at ~30 mg/mL in 50 mM <a href="/xray-mp-wiki/reagents/hepes/">HEPES</a> pH 7.5, 200 mM NaCl, 0.2% <a href="/xray-mp-wiki/reagents/ddm/">DDM</a>, 0.02% <a href="/xray-mp-wiki/reagents/cholesterol-hydrogen-succinate/">CHS</a>, 100 µM MK-D-046</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>1-14 days</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Crystals flash-frozen in liquid nitrogen directly from LCP</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>hBLT1-CC crystallized in LCP using NT8-LCP robot. Crystals appeared 24-48 h after incubation at 20 C and continued to grow up to 2 weeks. Average crystal size was 40 x 15 x 8 µm. Data collected from 32 crystals at APS GM/CA 231D-B beamline. Structure solved by <a href="/xray-mp-wiki/methods/molecular-replacement/">molecular replacement</a> using gpBLT1 (PDB 5X33) and flavodoxin (PDB 1I10) as search models. Anisotropic <a href="/xray-mp-wiki/concepts/truncation/">truncation</a>: 2.9 A x 2.9 A x 3.6 A by STARANISO. </td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7k15">7K15</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAGRASSAAPPSL</span><span class="topo-outside">GVEFI</span><span class="topo-membrane">SLLAIILLSVALAVGLPGNS</span></span>
+<span class="topo-line"><span class="topo-membrane">FVVWSILK</span><span class="topo-inside">RMQKRSVTAL</span><span class="topo-membrane">MVLNLALADLAVLLTAPFFLHFL</span><span class="topo-outside">AQGTWSF</span><span class="topo-membrane">GLAGCRLCHYVC</span></span>
+<span class="topo-line"><span class="topo-membrane">GVSMYASVWLITAMSL</span><span class="topo-inside">DRYLAVARPFVSQKLRTKAMAR</span><span class="topo-membrane">RVLAGIWVLSFLLATPVLAYRT</span></span>
+<span class="topo-line"><span class="topo-outside">VVPWKTNMSLCFPRYPSEG</span><span class="topo-membrane">HRAFHLIFEAVTGFLLPFLIVVASYSD</span><span class="topo-inside">IGRRLQARRAKALI</span></span>
+<span class="topo-line"><span class="topo-inside">VYGSTTGNTEYTAETIARELADAGYEVDSRDAASVEAGGLFEGFDLVLLGCSTWGDDSIE</span></span>
+<span class="topo-line"><span class="topo-inside">LQDDFIPLFDSLEETGAQGRKVACFGCGDSSWEYFCGAVDAIEEKLKNLGAEIVQDGLRI</span></span>
+<span class="topo-line"><span class="topo-inside">DGDPRAARDDIVGWAHDVRGAIRRFRRSRRTGR</span><span class="topo-membrane">LVVLIILTFAAFWLPYHVVNLAEAGR</span><span class="topo-outside">A</span></span>
+<span class="topo-line"><span class="topo-outside">LAGQAAGLGLVGKRL</span><span class="topo-membrane">SLARNVLIALAFLSSSVNPVLYAFAGGG</span><span class="topo-inside">LLRSAGVGFVAKLLEGT</span></span>
+<span class="topo-line"><span class="topo-inside">G</span><span class="topo-unknown">AEFLEVL</span><span class="topo-inside">FQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>36</td>
+      <td>40</td>
+      <td>13</td>
+      <td>17</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>68</td>
+      <td>18</td>
+      <td>45</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>78</td>
+      <td>46</td>
+      <td>55</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>101</td>
+      <td>56</td>
+      <td>78</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>102</td>
+      <td>108</td>
+      <td>79</td>
+      <td>85</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>109</td>
+      <td>136</td>
+      <td>86</td>
+      <td>113</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>137</td>
+      <td>158</td>
+      <td>114</td>
+      <td>135</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>159</td>
+      <td>180</td>
+      <td>136</td>
+      <td>157</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>181</td>
+      <td>199</td>
+      <td>158</td>
+      <td>176</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>226</td>
+      <td>177</td>
+      <td>203</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>227</td>
+      <td>393</td>
+      <td>204</td>
+      <td>221</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>394</td>
+      <td>419</td>
+      <td>222</td>
+      <td>247</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>420</td>
+      <td>435</td>
+      <td>248</td>
+      <td>263</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>436</td>
+      <td>463</td>
+      <td>264</td>
+      <td>291</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>464</td>
+      <td>481</td>
+      <td>292</td>
+      <td>309</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>482</td>
+      <td>488</td>
+      <td>310</td>
+      <td>316</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>490</td>
+      <td>317</td>
+      <td>318</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -99,19 +463,19 @@ Comparison of hBLT1 and gpBLT1 structures revealed that four non-conserved resid
 
 ## Cross-References
 
-- [BIIL260](/xray-mp-wiki/reagents/ligands/biil260/) — Primary antagonist ligand bound in the first gpBLT1 crystal structure (PDB 5X33)
-- [MK-D-046](/xray-mp-wiki/reagents/ligands/mk-d-046/) — Selective antagonist co-crystallized with hBLT1 (PDB 7K15)
-- [Benzamidine](/xray-mp-wiki/reagents/ligands/benzamidine/) — [Benzamidine](/xray-mp-wiki/reagents/additives/benzamidine) moiety of BIIL260 mimics the sodium ion in BLT1
-- [Leukotriene B4 (LTB4)](/xray-mp-wiki/reagents/ligands/ltb4/) — Endogenous agonist of BLT1
-- [T4 Lysozyme (T4L)](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — T4L fusion at ICL3 enabled gpBLT1 crystallization
-- [Flavodoxin](/xray-mp-wiki/reagents/protein-tags/flavodoxin/) — Flavodoxin fusion at ICL3 enabled hBLT1 crystallization
-- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) method used for both BLT1 structures
-- [Protein Thermostabilization](/xray-mp-wiki/concepts/construct-design/thermostabilization/) — Mutations used for both gpBLT1 and hBLT1 thermostabilization
-- [Sodium Ion Allosteric Modulation in GPCRs](/xray-mp-wiki/concepts/signaling-receptors/sodium-allosteric-modulation/) — BLT1 is sensitive to allosteric sodium modulation
-- [Pichia pastoris Expression System](/xray-mp-wiki/methods/expression-systems/pichia-pastoris/) — gpBLT1-T4L expressed in [Pichia pastoris](/xray-mp-wiki/organisms/pichia-pastoris)
-- [Insect Cell Expression System](/xray-mp-wiki/expression-systems/insect-cell-expression/) — hBLT1 expressed using baculovirus in insect cells
-- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — Both BLT1 structures represent the inactive state
-- [Inverse Agonism in GPCR Signaling](/xray-mp-wiki/concepts/signaling-receptors/inverse-agonism/) — [BIIL260](/xray-mp-wiki/reagents/ligands/biil260) acts as an inverse agonist for BLT1
-- [Negative Allosteric Modulation](/xray-mp-wiki/concepts/signaling-receptors/negative-allosteric-modulation/) — [Benzamidine](/xray-mp-wiki/reagents/additives/benzamidine) moiety of BIIL260 serves as negative allosteric modulator
-- [Extra-helical Binding Site in GPCRs](/xray-mp-wiki/concepts/signaling-receptors/extra-helical-binding-site/) — [Benzamidine](/xray-mp-wiki/reagents/additives/benzamidine) binding site is an extra-helical allosteric site
-- [Membrane Access Channel in GPCRs](/xray-mp-wiki/concepts/membrane-access-channel/) — hBLT1 structure revealed a putative membrane-buried ligand access channel between TM4 and TM5
+- <a href="/xray-mp-wiki/reagents/ligands/biil260/">BIIL260</a> — Primary antagonist ligand bound in the first gpBLT1 crystal structure (PDB 5X33)
+- <a href="/xray-mp-wiki/reagents/ligands/mk-d-046/">MK-D-046</a> — Selective antagonist co-crystallized with hBLT1 (PDB 7K15)
+- <a href="/xray-mp-wiki/reagents/ligands/benzamidine/">Benzamidine</a> — [Benzamidine](/xray-mp-wiki/reagents/additives/benzamidine) moiety of BIIL260 mimics the sodium ion in BLT1
+- <a href="/xray-mp-wiki/reagents/ligands/ltb4/">Leukotriene B4 (LTB4)</a> — Endogenous agonist of BLT1
+- <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4 Lysozyme (T4L)</a> — T4L fusion at ICL3 enabled gpBLT1 crystallization
+- <a href="/xray-mp-wiki/reagents/protein-tags/flavodoxin/">Flavodoxin</a> — Flavodoxin fusion at ICL3 enabled hBLT1 crystallization
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) method used for both BLT1 structures
+- <a href="/xray-mp-wiki/concepts/construct-design/thermostabilization/">Protein Thermostabilization</a> — Mutations used for both gpBLT1 and hBLT1 thermostabilization
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/sodium-allosteric-modulation/">Sodium Ion Allosteric Modulation in GPCRs</a> — BLT1 is sensitive to allosteric sodium modulation
+- <a href="/xray-mp-wiki/methods/expression-systems/pichia-pastoris/">Pichia pastoris Expression System</a> — gpBLT1-T4L expressed in [Pichia pastoris](/xray-mp-wiki/organisms/pichia-pastoris)
+- <a href="/xray-mp-wiki/expression-systems/insect-cell-expression/">Insect Cell Expression System</a> — hBLT1 expressed using baculovirus in insect cells
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/">GPCR Inactive Conformation</a> — Both BLT1 structures represent the inactive state
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/inverse-agonism/">Inverse Agonism in GPCR Signaling</a> — [BIIL260](/xray-mp-wiki/reagents/ligands/biil260) acts as an inverse agonist for BLT1
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/negative-allosteric-modulation/">Negative Allosteric Modulation</a> — [Benzamidine](/xray-mp-wiki/reagents/additives/benzamidine) moiety of BIIL260 serves as negative allosteric modulator
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/extra-helical-binding-site/">Extra-helical Binding Site in GPCRs</a> — [Benzamidine](/xray-mp-wiki/reagents/additives/benzamidine) binding site is an extra-helical allosteric site
+- <a href="/xray-mp-wiki/concepts/membrane-access-channel/">Membrane Access Channel in GPCRs</a> — hBLT1 structure revealed a putative membrane-buried ligand access channel between TM4 and TM5

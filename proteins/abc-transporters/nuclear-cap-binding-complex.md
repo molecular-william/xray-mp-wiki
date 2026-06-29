@@ -1,7 +1,7 @@
 ---
 title: "Nuclear Cap-Binding Complex (CBC)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,43 +17,100 @@ verified: false
 The nuclear cap-binding complex (CBC) is a heterodimer of CBP20 (NCBP2, 20 kDa) and CBP80 (NCBP1, 80 kDa) that binds tightly to the 5′-cap structure (m⁷GpppN) added co-transcriptionally to all nascent Pol II transcripts. CBC protects capped transcripts from decapping and 5′-3′ degradation, and acts as a platform for interaction with nuclear factors that determine transcript fate. Crystal structures of human CBC bound to C-terminal peptides of ARS2 or NELF-E have been determined at 2.8 Å resolution, revealing that both partners bind identically to the same site at the CBP20-CBP80 interface. The homologous C-terminal peptides of NELF-E and ARS2 share 7 identical residues out of 21, including key interacting residues that form a bipartite binding site. These structures define two mutually exclusive CBC-containing complexes: CBC-NELF-E (associated with early transcription pausing) and CBC-ARS2-PHAX (associated with later events such as 3′-end processing and nuclear export).
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##s41467-017-01402-w | 5OO6 | 2.79 | P2₁ | CBC-ΔNLS (CBP80 with residues 1-19 deleted) + CBP20, reconstituted heterodimer; crystallized with m⁷GTP and NELF-E³⁶⁰⁻³⁸⁰ synthetic peptide | m⁷GTP, NELF-E³⁶⁰⁻³⁸⁰ peptide |
-| doi/10.1038##s41467-017-01402-w | 5OO6 | 2.80 | P1 | CBC-ΔNLS (CBP80 with residues 1-19 deleted) + CBP20, reconstituted heterodimer; crystallized with m⁷GTP and ARS2⁸²⁷⁻⁸⁷¹ peptide | m⁷GTP, ARS2⁸²⁷⁻⁸⁷¹ peptide |
+### doi/10.1038##s41467-017-01402-w
 
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5oo6">5OO6</a></td>
+      <td>2.79</td>
+      <td>P2₁</td>
+      <td>CBC-ΔNLS (CBP80 with residues 1-19 deleted) + CBP20, reconstituted heterodimer; crystallized with m⁷GTP and NELF-E³⁶⁰⁻³⁸⁰ synthetic peptide</td>
+      <td>m⁷GTP, NELF-E³⁶⁰⁻³⁸⁰ peptide</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5oo6">5OO6</a></td>
+      <td>2.80</td>
+      <td>P1</td>
+      <td>CBC-ΔNLS (CBP80 with residues 1-19 deleted) + CBP20, reconstituted heterodimer; crystallized with m⁷GTP and ARS2⁸²⁷⁻⁸⁷¹ peptide</td>
+      <td>m⁷GTP, ARS2⁸²⁷⁻⁸⁷¹ peptide</td>
+    </tr>
+  </tbody>
+</table>
  - R-work 20.2%, R-free 22.9%; Data collection: ESRF ID30A1, 0.966 Å wavelength; 117,089 reflections (6345 free); redundancy 2.71
  - R-work 23.1%, R-free 26.8%; Data collection: ESRF ID23-1, 0.97917 Å wavelength; 190,778 reflections (10,059 free); redundancy 2.08
 
-## Expression and Purification
+**Expression:**
 
 - **Expression system**: E. coli Rosetta 2 for CBP20 and ARS2/NELF-E/PHAX constructs; High Five insect cells for CBP80ΔNLS and full-length NELF-E
 
 - **Construct**: CBP20 with N-terminal GST tag (pETM30). CBP80ΔNLS (residues 1-19 deleted) expressed in insect cells. Reconstituted CBC heterodimer by co-purification: His-tagged CBP20 lysate immobilized on Ni-sepharose, then CBP80 lysate applied to the column.
 
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli Rosetta 2 / High Five insect cells
 - **Expression construct**: CBP20 (GST-tag), CBP80ΔNLS (insect cells), ARS2 constructs (pETM11), NELF-E constructs (pETM11), PHAX constructs (pETM11)
 - **Tag info**: N-terminal 6xHis-tag (TEV-cleavable) for CBP20, ARS2, NELF-E, PHAX constructs
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Sonication</td>
+      <td>—</td>
+      <td>50 mM HEPES pH 7.8, 300 mM NaCl, 10% v/v <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 5 mM β-mercaptoethanol</td>
+      <td>Lysates clarified by centrifugation</td>
+    </tr>
+    <tr>
+      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Nickel <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>—</td>
+      <td>50 mM HEPES pH 7.8, 300 mM NaCl, 10% v/v <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 5 mM β-mercaptoethanol</td>
+      <td>Washed with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, eluted with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> in lysis buffer</td>
+    </tr>
+    <tr>
+      <td>TEV protease cleavage</td>
+      <td>Proteolytic cleavage</td>
+      <td>—</td>
+      <td></td>
+      <td>Overnight dialysis into 20 mM HEPES pH 7.8, 120 mM NaCl, 10% v/v <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 5 mM β-mercaptoethanol with His-tagged TEV protease at 1:100 ratio</td>
+    </tr>
+    <tr>
+      <td>Reverse Ni-NTA</td>
+      <td>Nickel <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (flow-through)</td>
+      <td>—</td>
+      <td></td>
+      <td>Post-cleavage sample passed over Ni-sepharose to remove TEV and uncleaved protein</td>
+    </tr>
+    <tr>
+      <td>Anion exchange chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/ion-exchange-chromatography/">Ion-Exchange Chromatography</a></td>
+      <td>—</td>
+      <td>20 mM HEPES pH 7.8, 50-800 mM NaCl gradient, 0.5 mM TCEP</td>
+      <td>HitTrap Q column; optional HiTrap Heparin column used for some constructs</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Sonication | — | 50 mM HEPES pH 7.8, 300 mM NaCl, 10% v/v [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 5 mM β-mercaptoethanol | Lysates clarified by centrifugation |
-| Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Nickel [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | — | 50 mM HEPES pH 7.8, 300 mM NaCl, 10% v/v [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 5 mM β-mercaptoethanol | Washed with 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), eluted with 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) in lysis buffer |
-| TEV protease cleavage | Proteolytic cleavage | — |  | Overnight dialysis into 20 mM HEPES pH 7.8, 120 mM NaCl, 10% v/v [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 5 mM β-mercaptoethanol with His-tagged TEV protease at 1:100 ratio |
-| Reverse Ni-NTA | Nickel [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) (flow-through) | — |  | Post-cleavage sample passed over Ni-sepharose to remove TEV and uncleaved protein |
-| Anion exchange chromatography | [Ion-Exchange Chromatography](/xray-mp-wiki/methods/purification/ion-exchange-chromatography/) | — | 20 mM HEPES pH 7.8, 50-800 mM NaCl gradient, 0.5 mM TCEP | HitTrap Q column; optional HiTrap Heparin column used for some constructs |
-
-
-## Crystallization
-
-No crystallization described.
 
 ## Biological / Functional Insights
 
@@ -76,8 +133,8 @@ The C-terminal 27 residues of ARS2 (845-871) are sufficient for CBC binding. The
 
 ## Cross-References
 
-- [Human Delta-Opioid Receptor (DOP)](/xray-mp-wiki/proteins/gpcr/delta-opioid-receptor/) — Reference for crossover topic; both illustrate X-ray crystallography of protein-ligand complexes
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [Ion-Exchange Chromatography](/xray-mp-wiki/methods/purification/ion-exchange-chromatography/) — Method used in structure determination or purification
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/proteins/gpcr/delta-opioid-receptor/">Human Delta-Opioid Receptor (DOP)</a> — Reference for crossover topic; both illustrate X-ray crystallography of protein-ligand complexes
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/purification/ion-exchange-chromatography/">Ion-Exchange Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Additive used in purification or crystallization buffers

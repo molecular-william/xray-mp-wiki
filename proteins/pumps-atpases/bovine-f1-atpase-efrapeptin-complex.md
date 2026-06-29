@@ -1,7 +1,7 @@
 ---
 title: "Bovine F1-ATPase-Efrapeptin Complex"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,41 +17,91 @@ verified: false
 The structure of bovine mitochondrial F1-ATPase complexed with efrapeptin C, a modified linear peptide antibiotic that inhibits both [ATP](/xray-mp-wiki/reagents/ligands/atp/) synthesis and hydrolysis. Efrapeptin binds in the central cavity of F1-ATPase at a unique site formed by the gamma-subunit, the empty beta-E subunit, and the adjacent alpha-E and alpha-TP subunits. The binding is predominantly hydrophobic and prevents conversion of the beta-E subunit to a nucleotide-binding conformation, thereby blocking the cyclic interconversion of catalytic sites required by the binding change mechanism.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.93.18.9420 | 1EFR | 3.3 |  | Bovine mitochondrial F1-ATPase (alpha3beta3gamma subcomplex) with bound efrapeptin C | Efrapeptin C, [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/), [ADP](/xray-mp-wiki/reagents/ligands/adp/) |
+### doi/10.1073##pnas.93.18.9420
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1efr">1EFR</a></td>
+      <td>3.3</td>
+      <td></td>
+      <td>Bovine mitochondrial F1-ATPase (alpha3beta3gamma subcomplex) with bound efrapeptin C</td>
+      <td>Efrapeptin C, <a href="/xray-mp-wiki/reagents/ligands/amp-pnp/">Amp Pnp</a>, <a href="/xray-mp-wiki/reagents/ligands/adp/">ADP</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Bovine heart mitochondria (native source)
 - **Construct**: Native F1-ATPase purified from bovine heart mitochondria
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Purification of F1-ATPase from bovine heart mitochondria</td>
+      <td>Standard mitochondrial F1-ATPase purification protocol</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>F1-ATPase was purified from bovine heart mitochondria. The alpha3beta3gamma subcomplex with bound efrapeptin C was used for crystallization.</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Purification of F1-ATPase from bovine heart mitochondria | Standard mitochondrial F1-ATPase purification protocol | -- | -- + -- | F1-ATPase was purified from bovine heart mitochondria. The alpha3beta3gamma subcomplex with bound efrapeptin C was used for crystallization. |
-
-
-## Crystallization
-
-### doi/10.1073##pnas.93.18.9420
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | Purified F1-ATPase with [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/), [ADP](/xray-mp-wiki/reagents/ligands/adp/), and efrapeptin |
-| Reservoir | -- |
-| Temperature | -- |
-| Growth time | -- |
-| Cryoprotection | -- |
-| Notes | Crystals grown in the presence of [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/), [ADP](/xray-mp-wiki/reagents/ligands/adp/), and efrapeptin. Data collected at the Synchrotron Radiation Source, Daresbury, UK (station 9.6) using a MAR Research image plate detector. Diffraction data processed with MOSFLM and programs from the CCP4 suite. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified F1-ATPase with <a href="/xray-mp-wiki/reagents/ligands/amp-pnp/">Amp Pnp</a>, <a href="/xray-mp-wiki/reagents/ligands/adp/">ADP</a>, and efrapeptin</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown in the presence of <a href="/xray-mp-wiki/reagents/ligands/amp-pnp/">Amp Pnp</a>, <a href="/xray-mp-wiki/reagents/ligands/adp/">ADP</a>, and efrapeptin. Data collected at the Synchrotron Radiation Source, Daresbury, UK (station 9.6) using a MAR Research image plate detector. Diffraction data processed with MOSFLM and programs from the CCP4 suite.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -78,10 +128,10 @@ The efrapeptin-bound structure provides direct structural support for the bindin
 
 ## Cross-References
 
-- [Bovine F1-ATPase (azide-inhibited form)](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) — Same enzyme in different inhibited states provides complementary structural information
-- [Binding-Change Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/binding-change-mechanism/) — Efrapeptin inhibits by blocking the beta-E to closed conformation transition required by the binding change mechanism
-- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/) — Structural evidence for the rotary mechanism and its inhibition by efrapeptin
-- [Rotary ATPase Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/) — Efrapeptin inhibits the rotary catalytic cycle by preventing beta-subunit conformational changes
-- [ATP](/xray-mp-wiki/reagents/ligands/atp/) — Referenced in the context of ATP
-- [Amp Pnp](/xray-mp-wiki/reagents/ligands/amp-pnp/) — Referenced in the context of Amp Pnp
-- [ADP](/xray-mp-wiki/reagents/ligands/adp/) — Referenced in the context of ADP
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/">Bovine F1-ATPase (azide-inhibited form)</a> — Same enzyme in different inhibited states provides complementary structural information
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/binding-change-mechanism/">Binding-Change Mechanism</a> — Efrapeptin inhibits by blocking the beta-E to closed conformation transition required by the binding change mechanism
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/">F1-ATPase Rotary Catalytic Mechanism</a> — Structural evidence for the rotary mechanism and its inhibition by efrapeptin
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/rotary-atpase-mechanism/">Rotary ATPase Mechanism</a> — Efrapeptin inhibits the rotary catalytic cycle by preventing beta-subunit conformational changes
+- <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a> — Referenced in the context of ATP
+- <a href="/xray-mp-wiki/reagents/ligands/amp-pnp/">Amp Pnp</a> — Referenced in the context of Amp Pnp
+- <a href="/xray-mp-wiki/reagents/ligands/adp/">ADP</a> — Referenced in the context of ADP

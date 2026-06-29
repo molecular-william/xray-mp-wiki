@@ -1,7 +1,7 @@
 ---
 title: "Human Protease-Activated Receptor 1 (PAR1)"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,27 +17,47 @@ verified: false
 Human Protease-Activated Receptor 1 (PAR1) is a class A G protein-coupled receptor that serves as the primary signaling receptor for thrombin, a key protease in hemostasis and thrombosis. PAR1 activation by thrombin initiates platelet aggregation and promotes inflammatory responses. The crystal structure of human PAR1 in complex with the functionally irreversible antagonist [Vorapaxar](/xray-mp-wiki/reagents/ligands/vorapaxar/) was solved at 2.20 A resolution, revealing a closed ligand-binding pocket with the extracellular loop 2 (ECL2) forming a lid over the binding site. This structure provided the first high-resolution view of a thrombin-activated GPCR and enabled structure-based design of selective PAR1 antagonists for cardiovascular therapy.
 
 
-## Structure Determination
-
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature11701 | 4MB0 | 2.20 | P212121 | Human PAR1 with N-terminal FLAG epitope, TEV cleavage site between P85 and A86 (N-terminus before P85 removed), T4 lysozyme inserted between A301 and A303 in ICL3, 10xHis tag after S395, glycosylation mutations N250G and N259S in ECL2. Truncated at residue 395.
- | [Vorapaxar](/xray-mp-wiki/reagents/ligands/vorapaxar/) |
-
-## Expression and Purification
-
-No purification described.
-
-## Crystallization
+## Publications
 
 ### doi/10.1038##nature11701
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Notes | 18 crystals merged. Space group P212121. Cell dimensions: 44.0, 71.5, 172.2 A. Resolution 30.0 - 2.20 A (2.25 - 2.20 in highest shell). R_merge 13.5% (57.5% in highest shell). Completeness 95.6% (85.7% in highest shell). Multiplicity 4.8 (3.3 in highest shell). R_work/R_free 21.8/23.5. Average B-factors: PAR1 40.6 A^2, T4 lysozyme 53.5 A^2, [Vorapaxar](/xray-mp-wiki/reagents/ligands/vorapaxar/) 30.5 A^2, water 46.4 A^2, lipids 69.1 A^2. Ramachandran favored 97.5%, allowed 2.5%, outliers 0.
- |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4mb0">4MB0</a></td>
+      <td>2.20</td>
+      <td>P212121</td>
+      <td>Human PAR1 with N-terminal FLAG epitope, TEV cleavage site between P85 and A86 (N-terminus before P85 removed), T4 lysozyme inserted between A301 and A303 in ICL3, 10xHis tag after S395, glycosylation mutations N250G and N259S in ECL2. Truncated at residue 395.
+</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/vorapaxar/">Vorapaxar</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>18 crystals merged. Space group P212121. Cell dimensions: 44.0, 71.5, 172.2 A. Resolution 30.0 - 2.20 A (2.25 - 2.20 in highest shell). R_merge 13.5% (57.5% in highest shell). Completeness 95.6% (85.7% in highest shell). Multiplicity 4.8 (3.3 in highest shell). R_work/R_free 21.8/23.5. Average B-factors: PAR1 40.6 A^2, T4 lysozyme 53.5 A^2, <a href="/xray-mp-wiki/reagents/ligands/vorapaxar/">Vorapaxar</a> 30.5 A^2, water 46.4 A^2, lipids 69.1 A^2. Ramachandran favored 97.5%, allowed 2.5%, outliers 0.
+</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -60,10 +80,10 @@ The PAR1 ligand-binding site is closer to the extracellular surface than in beta
 
 ## Cross-References
 
-- [T4 Lysozyme (T4L)](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — T4L fusion inserted into ICL3 (between A301 and A303) for PAR1 crystallization
-- [Vorapaxar](/xray-mp-wiki/reagents/ligands/vorapaxar/) — Co-crystallized functionally irreversible antagonist in PDB 4MB0
-- [Human Beta2-Adrenergic Receptor (beta2 AR)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Structural comparison; ligand-binding site position differs from PAR1
-- [Sphingosine-1-Phosphate Receptor 1 (S1P1)](/xray-mp-wiki/proteins/gpcr/s1p1/) — Structural comparison; S1P1 has lipid-embedded ligand with wide membrane access
-- [Human M2 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m2-muscarinic-acetylcholine-receptor/) — Structural comparison; M2R ligand-binding site position differs from PAR1
-- [M3 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m3-muscarinic-acetylcholine-receptor/) — GPCR crystallized using T4L fusion into ICL3 for structure determination
-- [Human Protease-Activated Receptor 2 (PAR2) - Stabilized T4L Fusion](/xray-mp-wiki/proteins/gpcr/par2/) — PAR2 shares 36% sequence identity with PAR1; structural comparison in Cheng et al. 2017
+- <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4 Lysozyme (T4L)</a> — T4L fusion inserted into ICL3 (between A301 and A303) for PAR1 crystallization
+- <a href="/xray-mp-wiki/reagents/ligands/vorapaxar/">Vorapaxar</a> — Co-crystallized functionally irreversible antagonist in PDB 4MB0
+- <a href="/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/">Human Beta2-Adrenergic Receptor (beta2 AR)</a> — Structural comparison; ligand-binding site position differs from PAR1
+- <a href="/xray-mp-wiki/proteins/gpcr/s1p1/">Sphingosine-1-Phosphate Receptor 1 (S1P1)</a> — Structural comparison; S1P1 has lipid-embedded ligand with wide membrane access
+- <a href="/xray-mp-wiki/proteins/gpcr/m2-muscarinic-acetylcholine-receptor/">Human M2 Muscarinic Acetylcholine Receptor</a> — Structural comparison; M2R ligand-binding site position differs from PAR1
+- <a href="/xray-mp-wiki/proteins/gpcr/m3-muscarinic-acetylcholine-receptor/">M3 Muscarinic Acetylcholine Receptor</a> — GPCR crystallized using T4L fusion into ICL3 for structure determination
+- <a href="/xray-mp-wiki/proteins/gpcr/par2/">Human Protease-Activated Receptor 2 (PAR2) - Stabilized T4L Fusion</a> — PAR2 shares 36% sequence identity with PAR1; structural comparison in Cheng et al. 2017

@@ -1,7 +1,7 @@
 ---
 title: "Kir3.1-KirBac1.3 Chimeric GIRK Channel"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,13 +17,32 @@ verified: false
 The Kir3.1 (GIRK1) K+ channel is a G-protein-gated inward rectifier that participates in heart rate control and neuronal excitability. A chimeric channel was constructed by replacing three-fourths of the transmembrane pore of mouse Kir3.1 with the pore of the prokaryotic KirBac1.3 channel from Burkholderia xenovorans, leaving the cytoplasmic pore and membrane interfacial regions of Kir3.1 origin. Two crystal structures were determined at 2.2 Å resolution, revealing a closed inner helix bundle gate and two conformations of the cytoplasmic pore (dilated and constricted), mediated by rigid-body movements of the G-loop. The selectivity filter is nearly identical to [KcsA](/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/) (r.m.s.d. < 0.2 Å), demonstrating extreme structural conservation of the K+ selectivity mechanism.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##sj.emboj.7601828 | 2QKS | 2.2 | P4 | Chimeric channel — N-terminal KirBac1.3 sequence (aa 1-23 + LV insertion) fused to mouse Kir3.1 (aa 41-82, 178-371) with M180A mutation; C-terminal His6-tag (VPRGSGGLEHHHHHH); thrombin-cleavable N-terminus; expressed in pET-28b(+) | Rb+ ions (7 sites from RbCl soak), nonylglucoside (detergent molecule at PIP2-binding site) |
+### doi/10.1038##sj.emboj.7601828
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2qks">2QKS</a></td>
+      <td>2.2</td>
+      <td>P4</td>
+      <td>Chimeric channel — N-terminal KirBac1.3 sequence (aa 1-23 + LV insertion) fused to mouse Kir3.1 (aa 41-82, 178-371) with M180A mutation; C-terminal His6-tag (VPRGSGGLEHHHHHH); thrombin-cleavable N-terminus; expressed in pET-28b(+)</td>
+      <td>Rb+ ions (7 sites from RbCl soak), nonylglucoside (detergent molecule at PIP2-binding site)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli BL21(DE3)
 - **Construct**: Kir3.1-KirBac1.3 chimera in pET-28b(+); aa 1-23 KirBac1.3 + LV insertion + aa 41-82 and 178-371 of mouse Kir3.1 (M180A); C-terminal His6-tag; thrombin site for N-terminus removal
@@ -31,40 +50,597 @@ The Kir3.1 (GIRK1) K+ channel is a G-protein-gated inward rectifier that partici
 - **Induction**: 300 µM IPTG at OD600 = 2.0; temperature lowered to 23°C; 12-15 h induction
 - **Media**: LB medium
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli BL21(DE3)
 - **Expression construct**: Full-length chimera with C-terminal His6-tag in pET-28b(+)
 - **Tag info**: C-terminal His6-tag (VPRGSGGLEHHHHHH); N-terminal KirBac1.3 sequence removed by thrombin cleavage
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture | Shaker flask fermentation | -- | -- + -- | 16 L LB medium; cells grown at 37°C to OD600 = 2.0, then induced at 23°C for 12-15 h |
-| Cell harvesting and resuspension | Centrifugation | -- | 50 mM Tris-HCl pH 7.5, 150 mM KCl + -- | Protease inhibitors: 100 µM PMSF, 1 µg/ml leupeptin, 1 µg/ml pepstatin, 1000× aprotinin |
-| Cell lysis | French press | -- | 50 mM Tris-HCl pH 7.5, 150 mM KCl + -- | French pressure cell press at 15,000 psi, 4°C |
-| Membrane extraction | Detergent solubilization | -- | 50 mM Tris-HCl pH 7.5, 150 mM KCl + 20 mM dodecylmaltopyranoside (DDM) | Gentle shaking for 2 h at room temperature; debris removed by centrifugation at 40,000 g for 20 min |
-| Affinity purification | -- | -- | -- + -- | His6-tag purification (details not specified in text); N-terminal KirBac1.3 tag removed by thrombin cleavage before crystallization |
-| Final purification and detergent exchange | Size exclusion chromatography (inferred) | -- | -- + Nonylglucoside | Purified as stable tetramer in nonylglucoside for crystallization; final sample contained channel in nonylglucoside |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture</td>
+      <td>Shaker flask fermentation</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>16 L LB medium; cells grown at 37°C to OD600 = 2.0, then induced at 23°C for 12-15 h</td>
+    </tr>
+    <tr>
+      <td>Cell harvesting and resuspension</td>
+      <td>Centrifugation</td>
+      <td>--</td>
+      <td>50 mM Tris-HCl pH 7.5, 150 mM KCl + --</td>
+      <td>Protease inhibitors: 100 µM PMSF, 1 µg/ml leupeptin, 1 µg/ml pepstatin, 1000× aprotinin</td>
+    </tr>
+    <tr>
+      <td>Cell lysis</td>
+      <td>French press</td>
+      <td>--</td>
+      <td>50 mM Tris-HCl pH 7.5, 150 mM KCl + --</td>
+      <td>French pressure cell press at 15,000 psi, 4°C</td>
+    </tr>
+    <tr>
+      <td>Membrane extraction</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>50 mM Tris-HCl pH 7.5, 150 mM KCl + 20 mM dodecylmaltopyranoside (DDM)</td>
+      <td>Gentle shaking for 2 h at room temperature; debris removed by centrifugation at 40,000 g for 20 min</td>
+    </tr>
+    <tr>
+      <td>Affinity purification</td>
+      <td>--</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>His6-tag purification (details not specified in text); N-terminal KirBac1.3 tag removed by thrombin cleavage before crystallization</td>
+    </tr>
+    <tr>
+      <td>Final purification and detergent exchange</td>
+      <td>Size exclusion chromatography (inferred)</td>
+      <td>--</td>
+      <td>-- + Nonylglucoside</td>
+      <td>Purified as stable tetramer in nonylglucoside for crystallization; final sample contained channel in nonylglucoside</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: Purified chimera tetramer in nonylglucoside detergent
 
+**Crystallization:**
 
-## Crystallization
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified Kir3.1-KirBac1.3 chimera in nonylglucoside</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>120 mM KCl, 200 mM potassium phosphate, PEG 4000, pH 6.2</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals in space group P4 (a = b = 98.42 Å, c = 92.62 Å); two unique subunits per asymmetric unit, producing two distinct four-fold symmetric channels (dilated and constricted cytoplasmic pore conformations). RbCl soak used to identify permeant ions at 2.4 Å. Data collected at Brookhaven X29 beamline. Resolution: 100-2.2 Å.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-### doi/10.1038##sj.emboj.7601828
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2qks">2QKS</a> — Chain A (2 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | Purified Kir3.1-KirBac1.3 chimera in nonylglucoside |
-| Reservoir | 120 mM KCl, 200 mM potassium phosphate, PEG 4000, pH 6.2 |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Crystals in space group P4 (a = b = 98.42 Å, c = 92.62 Å); two unique subunits per asymmetric unit, producing two distinct four-fold symmetric channels (dilated and constricted cytoplasmic pore conformations). RbCl soak used to identify permeant ions at 2.4 Å. Data collected at Brookhaven X29 beamline. Resolution: 100-2.2 Å. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">KKRQRFVDKNGRCNVQHGN</span><span class="topo-unknown">LGSETSR</span><span class="topo-outside">YL</span><span class="topo-unknown">SDLFTTLVD</span><span class="topo-outside">LK</span><span class="topo-membrane">WRWFFVSLAVLFLLLNTAF</span></span>
+<span class="topo-line"><span class="topo-membrane">ATLYMLG</span><span class="topo-inside">SAPIANQFPAGF</span><span class="topo-unknown">GGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQTV</span><span class="topo-membrane">YAHWIATLEIFVGMSSI</span></span>
+<span class="topo-line"><span class="topo-membrane">ALATGCAF</span><span class="topo-outside">IKMSQPKKRAETLMFSEHAVISMRDGKLTLMFRVGNLRNSHMVSAQIRCKLL</span></span>
+<span class="topo-line"><span class="topo-outside">KSRQTPEGEFLPLDQLELDVGFSTGADQLFLVSPLTICHVIDAKSPFYDLSQRSMQTEQF</span></span>
+<span class="topo-line"><span class="topo-outside">EVVVILEGIVETTGMTCQARTSYTEDEVLWGHRFFPVISLEEGFFKVDYSQFHATFEVPT</span></span>
+<span class="topo-line"><span class="topo-outside">PPYSVKEQEEM</span><span class="topo-unknown">LLMSSPLVPR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>21</td>
+      <td>3</td>
+      <td>21</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>28</td>
+      <td>22</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>30</td>
+      <td>29</td>
+      <td>30</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>39</td>
+      <td>31</td>
+      <td>39</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>41</td>
+      <td>40</td>
+      <td>41</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>67</td>
+      <td>42</td>
+      <td>67</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>79</td>
+      <td>68</td>
+      <td>79</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>96</td>
+      <td>80</td>
+      <td>96</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>103</td>
+      <td>97</td>
+      <td>103</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>128</td>
+      <td>104</td>
+      <td>128</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>129</td>
+      <td>311</td>
+      <td>129</td>
+      <td>311</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>312</td>
+      <td>321</td>
+      <td>312</td>
+      <td>321</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2qks">2QKS</a> — Chain C (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">KKRQRFVDKNGRCNVQHGN</span><span class="topo-unknown">LGSETSR</span><span class="topo-outside">YL</span><span class="topo-unknown">SDLFTTLVD</span><span class="topo-outside">LK</span><span class="topo-membrane">WRWFFVSLAVLFLLLNTAF</span></span>
+<span class="topo-line"><span class="topo-membrane">ATLYMLG</span><span class="topo-inside">SAPIANQFPAGF</span><span class="topo-unknown">GGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQTV</span><span class="topo-membrane">YAHWIATLEIFVGMSSI</span></span>
+<span class="topo-line"><span class="topo-membrane">ALATGCAF</span><span class="topo-outside">IKMSQPKKRAETLMFSEHAVISMRDGKLTLMFRVGNLRNSHMVSAQIRCKLL</span></span>
+<span class="topo-line"><span class="topo-outside">KSRQTPEGEFLPLDQLELDVGFSTGADQLFLVSPLTICHVIDAKSPFYDLSQRSMQTEQF</span></span>
+<span class="topo-line"><span class="topo-outside">EVVVILEGIVETTGMTCQARTSYTEDEVLWGHRFFPVISLEEGFFKVDYSQFHATFEVPT</span></span>
+<span class="topo-line"><span class="topo-outside">PPYSVKEQEEM</span><span class="topo-unknown">LLMSSPLVPR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>21</td>
+      <td>3</td>
+      <td>21</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>28</td>
+      <td>22</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>30</td>
+      <td>29</td>
+      <td>30</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>39</td>
+      <td>31</td>
+      <td>39</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>41</td>
+      <td>40</td>
+      <td>41</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>67</td>
+      <td>42</td>
+      <td>67</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>79</td>
+      <td>68</td>
+      <td>79</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>96</td>
+      <td>80</td>
+      <td>96</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>103</td>
+      <td>97</td>
+      <td>103</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>128</td>
+      <td>104</td>
+      <td>128</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>129</td>
+      <td>311</td>
+      <td>129</td>
+      <td>311</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>312</td>
+      <td>321</td>
+      <td>312</td>
+      <td>321</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2qks">2QKS</a> — Chain D (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">KKRQRFVDKNGRCNVQHGN</span><span class="topo-unknown">LGSETSR</span><span class="topo-outside">YL</span><span class="topo-unknown">SDLFTTLVD</span><span class="topo-outside">LK</span><span class="topo-membrane">WRWFFVSLAVLFLLLNTAF</span></span>
+<span class="topo-line"><span class="topo-membrane">ATLYMLG</span><span class="topo-inside">SAPIANQFPAGF</span><span class="topo-unknown">GGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQTV</span><span class="topo-membrane">YAHWIATLEIFVGMSSI</span></span>
+<span class="topo-line"><span class="topo-membrane">ALATGCAF</span><span class="topo-outside">IKMSQPKKRAETLMFSEHAVISMRDGKLTLMFRVGNLRNSHMVSAQIRCKLL</span></span>
+<span class="topo-line"><span class="topo-outside">KSRQTPEGEFLPLDQLELDVGFSTGADQLFLVSPLTICHVIDAKSPFYDLSQRSMQTEQF</span></span>
+<span class="topo-line"><span class="topo-outside">EVVVILEGIVETTGMTCQARTSYTEDEVLWGHRFFPVISLEEGFFKVDYSQFHATFEVPT</span></span>
+<span class="topo-line"><span class="topo-outside">PPYSVKEQEEM</span><span class="topo-unknown">LLMSSPLVPR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>21</td>
+      <td>3</td>
+      <td>21</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>28</td>
+      <td>22</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>30</td>
+      <td>29</td>
+      <td>30</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>39</td>
+      <td>31</td>
+      <td>39</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>41</td>
+      <td>40</td>
+      <td>41</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>67</td>
+      <td>42</td>
+      <td>67</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>79</td>
+      <td>68</td>
+      <td>79</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>96</td>
+      <td>80</td>
+      <td>96</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>103</td>
+      <td>97</td>
+      <td>103</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>128</td>
+      <td>104</td>
+      <td>128</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>129</td>
+      <td>311</td>
+      <td>129</td>
+      <td>311</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>312</td>
+      <td>321</td>
+      <td>312</td>
+      <td>321</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2qks">2QKS</a> — Chain E (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GS</span><span class="topo-outside">KKRQRFVDKNGRCNVQHGN</span><span class="topo-unknown">LGSETSR</span><span class="topo-outside">YL</span><span class="topo-unknown">SDLFTTLVD</span><span class="topo-outside">LK</span><span class="topo-membrane">WRWFFVSLAVLFLLLNTAF</span></span>
+<span class="topo-line"><span class="topo-membrane">ATLYMLG</span><span class="topo-inside">SAPIANQFPAGF</span><span class="topo-unknown">GGAFFFSVETLATVGYG</span><span class="topo-inside">DMHPQTV</span><span class="topo-membrane">YAHWIATLEIFVGMSSI</span></span>
+<span class="topo-line"><span class="topo-membrane">ALATGCAF</span><span class="topo-outside">IKMSQPKKRAETLMFSEHAVISMRDGKLTLMFRVGNLRNSHMVSAQIRCKLL</span></span>
+<span class="topo-line"><span class="topo-outside">KSRQTPEGEFLPLDQLELDVGFSTGADQLFLVSPLTICHVIDAKSPFYDLSQRSMQTEQF</span></span>
+<span class="topo-line"><span class="topo-outside">EVVVILEGIVETTGMTCQARTSYTEDEVLWGHRFFPVISLEEGFFKVDYSQFHATFEVPT</span></span>
+<span class="topo-line"><span class="topo-outside">PPYSVKEQEEM</span><span class="topo-unknown">LLMSSPLVPR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>2</td>
+      <td>1</td>
+      <td>2</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>21</td>
+      <td>3</td>
+      <td>21</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>28</td>
+      <td>22</td>
+      <td>28</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>30</td>
+      <td>29</td>
+      <td>30</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>39</td>
+      <td>31</td>
+      <td>39</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>41</td>
+      <td>40</td>
+      <td>41</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>67</td>
+      <td>42</td>
+      <td>67</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>79</td>
+      <td>68</td>
+      <td>79</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>96</td>
+      <td>80</td>
+      <td>96</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>103</td>
+      <td>97</td>
+      <td>103</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>128</td>
+      <td>104</td>
+      <td>128</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>129</td>
+      <td>311</td>
+      <td>129</td>
+      <td>311</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>312</td>
+      <td>321</td>
+      <td>312</td>
+      <td>321</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -99,11 +675,11 @@ The chimera showed no detectable channel activity in planar lipid membranes (POP
 
 ## Cross-References
 
-- [GIRK1 Cytoplasmic Pore](/xray-mp-wiki/proteins/voltage-gated-channels/girk1-cytoplasmic-pore/) — Kir3.1 cytoplasmic domain structure; the chimera incorporates Kir3.1 cytoplasmic pore residues 41-82 and 178-371
-- [KirBac Potassium Channels](/xray-mp-wiki/proteins/voltage-gated-channels/kirbac-potassium-channels/) — Related prokaryotic Kir channels; the chimera transmembrane pore derives from KirBac1.3
-- [KcsA Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/) — High-resolution K+ channel structure used for selectivity filter comparison (r.m.s.d. < 0.2 Å)
-- [Nonylglucoside (NG)](/xray-mp-wiki/reagents/detergents/nonylglucoside/) — Primary detergent for purification and crystallization; observed bound at PIP2-binding site
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Used at 20 mM for membrane extraction during purification
-- [French Press](/xray-mp-wiki/methods/cell-lysis/french-press/) — Cell lysis method at 15,000 psi
-- [Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/) — The chimera structure demonstrates extreme structural conservation of the K+ selectivity filter
-- [Channel Gating](/xray-mp-wiki/concepts/transport-mechanisms/channel-gating/) — Dual-gate mechanism (inner helix bundle and G-loop) elucidated by two conformations in the same crystal
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/girk1-cytoplasmic-pore/">GIRK1 Cytoplasmic Pore</a> — Kir3.1 cytoplasmic domain structure; the chimera incorporates Kir3.1 cytoplasmic pore residues 41-82 and 178-371
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/kirbac-potassium-channels/">KirBac Potassium Channels</a> — Related prokaryotic Kir channels; the chimera transmembrane pore derives from KirBac1.3
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/">KcsA Potassium Channel</a> — High-resolution K+ channel structure used for selectivity filter comparison (r.m.s.d. < 0.2 Å)
+- <a href="/xray-mp-wiki/reagents/detergents/nonylglucoside/">Nonylglucoside (NG)</a> — Primary detergent for purification and crystallization; observed bound at PIP2-binding site
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Used at 20 mM for membrane extraction during purification
+- <a href="/xray-mp-wiki/methods/cell-lysis/french-press/">French Press</a> — Cell lysis method at 15,000 psi
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/">Selectivity Filter</a> — The chimera structure demonstrates extreme structural conservation of the K+ selectivity filter
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/channel-gating/">Channel Gating</a> — Dual-gate mechanism (inner helix bundle and G-loop) elucidated by two conformations in the same crystal

@@ -1,7 +1,7 @@
 ---
 title: "MjCorA — CorA Mg2+ Transporter from Methanocaldococcus jannaschii"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,38 +17,79 @@ verified: false
 CorA is the primary Mg2+ transport system in most prokaryotes and is conserved throughout the CorA family including eukaryotic homologs. The structure of MjCorA from Methanocaldococcus jannaschii was determined at 3.2 Å resolution, revealing the complete architecture including the conserved extraplasmic loop containing the signature GMN motif that functions as a selectivity filter. The structure shows a pentameric arrangement with two transmembrane helices per monomer. Polar residues facing the channel coordinate a partially hydrated Mg2+ during transport. A unique gating mechanism is proposed involving a helical turn upon Mg2+ binding to regulatory intracellular binding sites, converting a polar ion passage into a narrow hydrophobic pore.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.1210076109 | not in raw text | 3.20 | — | Full-length MjCorA | Mg2+ |
+### doi/10.1073##pnas.1210076109
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/not in raw text">NOT IN RAW TEXT</a></td>
+      <td>3.20</td>
+      <td>—</td>
+      <td>Full-length MjCorA</td>
+      <td>Mg2+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Heterologous expression in Escherichia coli (strain not specified)
 
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Protein purification</td>
+      <td>Standard purification (details in SI)</td>
+      <td>—</td>
+      <td>HEPES-NaOH buffer with MgCl2 + Dodecyl-maltoside</td>
+      <td>Full-length MjCorA purified in solubilization buffer containing dodecyl-maltoside</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Protein purification | Standard purification (details in SI) | — | HEPES-NaOH buffer with MgCl2 + Dodecyl-maltoside | Full-length MjCorA purified in solubilization buffer containing dodecyl-maltoside |
-
-
-## Crystallization
-
-### doi/10.1073##pnas.1210076109
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | Full-length MjCorA in solubilization buffer |
-| Reservoir | 30% PEG8000, HEPES-NaOH, 60 mM MgCl2 |
-| Notes | Crystallized in 30% PEG8000, HEPES-NaOH, 60 mM MgCl2 |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Full-length MjCorA in solubilization buffer</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>30% PEG8000, HEPES-NaOH, 60 mM MgCl2</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystallized in 30% PEG8000, HEPES-NaOH, 60 mM MgCl2</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -89,4 +130,4 @@ while allowing Mg2+, Co2+, and Ni2+ which have similar radii
 
 ## Cross-References
 
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification

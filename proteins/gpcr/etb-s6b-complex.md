@@ -1,7 +1,7 @@
 ---
 title: "Human Endothelin ETB Receptor in Complex with Sarafotoxin S6b"
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,45 +16,346 @@ verified: false
 
 The human endothelin ETB receptor (ETBR) is a class A GPCR that binds endothelin peptides and sarafotoxins, regulating vascular tone through nitric oxide-mediated vasorelaxation. The crystal structure of the thermostabilized ETB receptor in complex with the non-selective sarafotoxin S6b at 3.0 A resolution reveals the binding mode of sarafotoxins and provides structural insight into their subtype selectivity. The S6b-bound receptor shows an outward displacement of the intracellular end of TM5, suggesting a more active conformation for G-protein coupling.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.bbrc.2019.12.091 | 6LRY | 3.0 A | not specified | ETB-Y5-T4L thermostabilized construct with T4 lysozyme inserted in ICL3, C-terminus truncated after S405, five thermostabilizing mutations (R124Y, D154A, K270A, DS342A, I381A), and three cysteine-to-alanine mutations (C396A, C400A, C405A) | Sarafotoxin S6b (SRTX-b) |
+### doi/10.1016##j.bbrc.2019.12.091
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6lry">6LRY</a></td>
+      <td>3.0 A</td>
+      <td>not specified</td>
+      <td>ETB-Y5-T4L thermostabilized construct with T4 lysozyme inserted in ICL3, C-terminus truncated after S405, five thermostabilizing mutations (R124Y, D154A, K270A, DS342A, I381A), and three cysteine-to-alanine mutations (C396A, C400A, C405A)</td>
+      <td>Sarafotoxin S6b (SRTX-b)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Sf9 insect cells using Bac-to-Bac baculovirus expression system (Invitrogen)
 - **Construct**: Hemagglutinin signal peptide, Flag epitope tag (DYKDDDDK) with nine-amino-acid linker at N-terminus, TEV protease recognition sequence between G57 and L66, C-terminus truncated after S405, thermostabilizing mutations R124Y, D154A, K270A, DS342A, I381A, cysteine-to-alanine mutations C396A, C400A, C405A, T4 lysozyme inserted in intracellular loop 3 between L303 and L311 (ETB-Y5-T4L), GFP-His10 tag at C-terminus
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture and membrane preparation</td>
+      <td>Sf9 insect cell expression</td>
+      <td>--</td>
+      <td>20 mM Tris-HCl, pH 7.5, 20% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + --</td>
+      <td>Cells infected with recombinant baculovirus at 4.0 x 10^6 cells/mL in SF900 II medium, grown for 48 h at 27 C. Membranes harvested by <a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">ultracentrifugation</a> at 180,000g for 1 h.</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Membrane solubilization</td>
+      <td>--</td>
+      <td>20 mM Tris-HCl, pH 7.5, 200 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">sodium-chloride</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">ddm</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">cholesterol-hydrogen-succinate</a> (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>) + 2 mg/mL <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">iodoacetamide</a></td>
+      <td>Solubilized for 1 h at 4 C. Supernatant separated by <a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">ultracentrifugation</a> at 180,000g for 20 min.</td>
+    </tr>
+    <tr>
+      <td>Affinity chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> on <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> cobalt affinity resin (Clontech)</td>
+      <td>20 mM Tris-HCl, pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">sodium-chloride</a> + 0.1% <a href="/xray-mp-wiki/reagents/detergents/lmng/">lmng</a> (wash) / 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">lmng</a> (elution) + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> (wash) / 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> (elution)</td>
+      <td>Incubated with <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin for 30 min. Washed with 10 column volumes. Eluted with 200 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">imidazole</a>.</td>
+    </tr>
+    <tr>
+      <td>TEV protease cleavage and tag removal</td>
+      <td>TEV protease cleavage followed by <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> depletion</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> cobalt affinity resin (Clontech)</td>
+      <td>20 mM Tris-HCl, pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">sodium-chloride</a> + --</td>
+      <td>Eluate treated with <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a> and dialyzed. Cleaved GFP-His10 tag and <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV protease</a> removed with <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin.</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a> on Superdex200</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">superdex-200</a></td>
+      <td>20 mM Tris-HCl, pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">sodium-chloride</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">lmng</a> + 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">cholesterol-hydrogen-succinate</a></td>
+      <td>Peak fractions pooled, concentrated to 40 mg/mL using 50 kDa MW cutoff centrifugal filter. S6b added during concentration.</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture and membrane preparation | Sf9 insect cell expression | -- | 20 mM Tris-HCl, pH 7.5, 20% glycerol + -- | Cells infected with recombinant baculovirus at 4.0 x 10^6 cells/mL in SF900 II medium, grown for 48 h at 27 C. Membranes harvested by ultracentrifugation at 180,000g for 1 h. |
-| Solubilization | Membrane solubilization | -- | 20 mM Tris-HCl, pH 7.5, 200 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) + 1% [ddm](/xray-mp-wiki/reagents/detergents/ddm/) + 0.2% [cholesterol-hydrogen-succinate](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) (CHS) + 2 mg/mL [iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) | Solubilized for 1 h at 4 C. Supernatant separated by ultracentrifugation at 180,000g for 20 min. |
-| Affinity chromatography | [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) on TALON resin | [TALON](/xray-mp-wiki/reagents/additives/talon/) cobalt affinity resin (Clontech) | 20 mM Tris-HCl, pH 7.5, 500 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) + 0.1% [lmng](/xray-mp-wiki/reagents/detergents/lmng/) (wash) / 0.01% [lmng](/xray-mp-wiki/reagents/detergents/lmng/) (elution) + 0.01% CHS (wash) / 0.001% CHS (elution) | Incubated with TALON resin for 30 min. Washed with 10 column volumes. Eluted with 200 mM [imidazole](/xray-mp-wiki/reagents/additives/imidazole/). |
-| TEV protease cleavage and tag removal | TEV protease cleavage followed by [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) depletion | [TALON](/xray-mp-wiki/reagents/additives/talon/) cobalt affinity resin (Clontech) | 20 mM Tris-HCl, pH 7.5, 500 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) + -- | Eluate treated with [TEV protease](/xray-mp-wiki/reagents/additives/tev-protease/) and dialyzed. Cleaved GFP-His10 tag and TEV protease removed with TALON resin. |
-| Size-exclusion chromatography | [Size-exclusion chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) on Superdex200 | [superdex-200](/xray-mp-wiki/reagents/additives/superdex-200/) | 20 mM Tris-HCl, pH 7.5, 150 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/) + 0.01% [lmng](/xray-mp-wiki/reagents/detergents/lmng/) + 0.001% [cholesterol-hydrogen-succinate](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Peak fractions pooled, concentrated to 40 mg/mL using 50 kDa MW cutoff centrifugal filter. S6b added during concentration. |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>ETB-S6b complex at 40 mg/mL in 20 mM Tris-HCl, pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">sodium-chloride</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/lmng/">lmng</a>, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">cholesterol-hydrogen-succinate</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>not specified in the available text</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>not specified in the available text</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>not specified in the available text</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>not specified in the available text</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>32 datasets collected and merged by KAMO. Structure determined by molecular replacement using ET-3-bound receptor (PDB 6IGK). Space group not specified in main text.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6lry">6LRY</a> — Chain A (7 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GGGLAPAEVPKGDRTAGSPPRTI</span><span class="topo-outside">SPPPCQGPIEIKETFKYI</span><span class="topo-membrane">NTVVSCLVFVLGIIGNSTL</span></span>
+<span class="topo-line"><span class="topo-membrane">LYIIYK</span><span class="topo-inside">NKCMRNGPN</span><span class="topo-membrane">ILIASLALGDLLHIVIAIPINV</span><span class="topo-outside">YKLLAEDWPFGAEMCK</span><span class="topo-membrane">LVPFIQK</span></span>
+<span class="topo-line"><span class="topo-membrane">ASVGITVLSLCALSI</span><span class="topo-inside">DRYRAVASWSRIK</span><span class="topo-unknown">GIG</span><span class="topo-inside">VPKWT</span><span class="topo-membrane">AVEIVLIWVVSVVLAVPEAIG</span><span class="topo-outside">FDI</span></span>
+<span class="topo-line"><span class="topo-outside">ITMDYKGSYLRICLLHPVQKT</span><span class="topo-membrane">AFMQFYATAKDWWLFSFYFCLPLAITAFFYT</span><span class="topo-inside">LMTCEMLR</span></span>
+<span class="topo-line"><span class="topo-inside">KNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITK</span></span>
+<span class="topo-line"><span class="topo-inside">DEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRM</span></span>
+<span class="topo-line"><span class="topo-inside">LQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYLNDHLKQRREVAK</span><span class="topo-membrane">TVFCLV</span></span>
+<span class="topo-line"><span class="topo-membrane">LVFALCWLPLHLARIL</span><span class="topo-outside">KLTLYNQNDPNRCELLSFLLVL</span><span class="topo-membrane">DYIGINMASLNSCANPIALYLV</span></span>
+<span class="topo-line"><span class="topo-membrane">S</span><span class="topo-inside">KRFKNAFKSALCC</span><span class="topo-unknown">WAQSENLYFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>23</td>
+      <td>63</td>
+      <td>85</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>41</td>
+      <td>86</td>
+      <td>103</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>66</td>
+      <td>104</td>
+      <td>128</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>75</td>
+      <td>129</td>
+      <td>137</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>97</td>
+      <td>138</td>
+      <td>159</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>113</td>
+      <td>160</td>
+      <td>175</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>114</td>
+      <td>135</td>
+      <td>176</td>
+      <td>197</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>148</td>
+      <td>198</td>
+      <td>210</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>151</td>
+      <td>211</td>
+      <td>213</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>152</td>
+      <td>156</td>
+      <td>214</td>
+      <td>218</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>177</td>
+      <td>219</td>
+      <td>239</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>201</td>
+      <td>240</td>
+      <td>263</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>202</td>
+      <td>232</td>
+      <td>264</td>
+      <td>294</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>233</td>
+      <td>241</td>
+      <td>295</td>
+      <td>303</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>242</td>
+      <td>401</td>
+      <td>1000</td>
+      <td>1159</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>402</td>
+      <td>414</td>
+      <td>311</td>
+      <td>323</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>415</td>
+      <td>436</td>
+      <td>324</td>
+      <td>345</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>437</td>
+      <td>458</td>
+      <td>346</td>
+      <td>367</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>459</td>
+      <td>481</td>
+      <td>368</td>
+      <td>390</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>482</td>
+      <td>494</td>
+      <td>391</td>
+      <td>403</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>495</td>
+      <td>504</td>
+      <td>404</td>
+      <td>413</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1016##j.bbrc.2019.12.091
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6lry">6LRY</a> — Chain B (0 TMs, non_tm)**
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | ETB-S6b complex at 40 mg/mL in 20 mM Tris-HCl, pH 7.5, 150 mM [sodium-chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 0.01% [lmng](/xray-mp-wiki/reagents/detergents/lmng/), 0.001% [cholesterol-hydrogen-succinate](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) |
-| Reservoir | not specified in the available text |
-| Temperature | not specified in the available text |
-| Growth time | not specified in the available text |
-| Cryoprotection | not specified in the available text |
-| Notes | 32 datasets collected and merged by KAMO. Structure determined by molecular replacement using ET-3-bound receptor (PDB 6IGK). Space group not specified in main text. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">CSCKDMTDKECLYFCHQDV</span><span class="topo-unknown">IW</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>19</td>
+      <td>1</td>
+      <td>19</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>21</td>
+      <td>20</td>
+      <td>21</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
 
 ## Biological / Functional Insights
 
@@ -81,18 +382,18 @@ The thermostabilizing mutations R124Y(1,55), D154A(2,57), K270A(5,35), DS342A(6,
 
 ## Cross-References
 
-- [Human Endothelin ETB Receptor in Complex with Sarafotoxin S6b](/xray-mp-wiki/proteins/gpcr/etb-s6b-complex/) — This is the current entity being reconstructed
-- [Human Adenosine A2A Receptor (A2AR)](/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/) — Other class A GPCR in the database with similar thermostabilization approaches (T4 lysozyme, bRIL fusions)
-- [bRIL Fusion Protein](/xray-mp-wiki/reagents/protein-tags/bril/) — Related thermostabilization strategy for GPCRs (T4 lysozyme used in ETB instead)
-- [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) — Used to cleave the GFP-His10 tag during purification
-- [LMNG (Lauryl Maltose Neopentyl Glycol)](/xray-mp-wiki/reagents/detergents/lmng/) — Primary detergent used in affinity chromatography wash/elution and SEC
-- [Cholesterol Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Added to solubilization and purification buffers to stabilize the GPCR
-- [DDM (N-Dodecyl-beta-D-maltoside)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used in initial membrane solubilization
-- [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) — Used for His-tag affinity capture and tag removal
-- [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) — Size-exclusion chromatography resin for final polishing
-- [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) — Added during solubilization (2 mg/mL) to prevent disulfide scrambling
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Used as eluent for TALON Ni-NTA affinity chromatography
-- [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/) — Salt component in all purification buffers
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — TALON resin-based His-tag affinity purification
-- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Superdex200 SEC used for final purification and complex verification
-- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — S6b-bound receptor shows outward displacement of TM5 consistent with active conformation
+- <a href="/xray-mp-wiki/proteins/gpcr/etb-s6b-complex/">Human Endothelin ETB Receptor in Complex with Sarafotoxin S6b</a> — This is the current entity being reconstructed
+- <a href="/xray-mp-wiki/proteins/gpcr/human-adenosine-a2a-receptor-a2ar/">Human Adenosine A2A Receptor (A2AR)</a> — Other class A GPCR in the database with similar thermostabilization approaches (T4 lysozyme, bRIL fusions)
+- <a href="/xray-mp-wiki/reagents/protein-tags/bril/">bRIL Fusion Protein</a> — Related thermostabilization strategy for GPCRs (T4 lysozyme used in ETB instead)
+- <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease</a> — Used to cleave the GFP-His10 tag during purification
+- <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG (Lauryl Maltose Neopentyl Glycol)</a> — Primary detergent used in affinity chromatography wash/elution and SEC
+- <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesterol Hemisuccinate (CHS)</a> — Added to solubilization and purification buffers to stabilize the GPCR
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM (N-Dodecyl-beta-D-maltoside)</a> — Primary detergent used in initial membrane solubilization
+- <a href="/xray-mp-wiki/reagents/additives/talon/">TALON Cobalt Affinity Resin</a> — Used for His-tag affinity capture and tag removal
+- <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a> — Size-exclusion chromatography resin for final polishing
+- <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">Iodoacetamide</a> — Added during solubilization (2 mg/mL) to prevent disulfide scrambling
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Used as eluent for TALON Ni-NTA affinity chromatography
+- <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride (NaCl)</a> — Salt component in all purification buffers
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — TALON resin-based His-tag affinity purification
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> — Superdex200 SEC used for final purification and complex verification
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/">GPCR Active Conformation</a> — S6b-bound receptor shows outward displacement of TM5 consistent with active conformation

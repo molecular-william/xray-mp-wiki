@@ -1,7 +1,7 @@
 ---
 title: "NavMs Sodium Channel from Magnetococcus marinus"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,40 +16,459 @@ verified: false
 
 [NAVMS](/xray-mp-wiki/proteins/voltage-gated-channels/navms/) is a prokaryotic voltage-gated sodium channel from Magnetococcus marinus that serves as a model system for understanding sodium channel structure, gating, and inactivation. The channel forms a homotetramer with each monomer consisting of a transmembrane domain containing the voltage sensor and pore functionalities, and a C-terminal domain (CTD) comprising a flexible linker region connected to a four-helix coiled-coil bundle. The 2.9 A crystal structure of the [NAVMS](/xray-mp-wiki/proteins/voltage-gated-channels/navms/) pore with its full-length CTD reveals a fully open pore conformation. Combined electron paramagnetic resonance (EPR) spectroscopy, molecular dynamics simulations, and electrophysiology demonstrate that the coiled-coil domain couples inactivation with channel opening, enabled by negatively charged residues in the linker region.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##NCOMMS3465 | 3ZJZ | 2.9 | C2221 | NavMs-pore + CTD (full-length C-terminal domain), residues 1-274 from Magnetococcus marinus | None |
+### doi/10.1038##NCOMMS3465
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3zjz">3ZJZ</a></td>
+      <td>2.9</td>
+      <td>C2221</td>
+      <td>NavMs-pore + CTD (full-length C-terminal domain), residues 1-274 from Magnetococcus marinus</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli expression system (described in earlier NavMs-pore study, PDB 4F4L)
 - **Construct**: NavMs-pore + CTD construct with full-length C-terminal domain
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Purification</td>
+      <td>HisTrap HP <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> followed by size-exclusion chromatography</td>
+      <td>HisTrap HP column, size exclusion column</td>
+      <td>Buffer A (composition not specified in raw paper) + Not specified</td>
+      <td>Untagged wild-type NavMs-pore + CTD concentrated to 14 mg/ml for crystallization</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Purification | HisTrap HP [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) followed by size-exclusion chromatography | HisTrap HP column, size exclusion column | Buffer A (composition not specified in raw paper) + Not specified | Untagged wild-type NavMs-pore + CTD concentrated to 14 mg/ml for crystallization |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion (sitting drop)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>NavMs-pore + CTD at 14 mg/ml</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.1 M trisodium <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a>, 0.1 M <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 34% v/v <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Protein mixed in 2:1 ratio with reservoir solution for 150 nl sitting drops. Data collected at Diamond Light Source. Space group C2221, cell dimensions a=80.15, b=334.38, c=80.21 A. Structure determined by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using monomer A from NavMs-pore structure (PDB 4F4L).</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3zjz">3ZJZ</a> — Chain A (2 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GSHMG</span><span class="topo-outside">V</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATNL</span><span class="topo-inside">YGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIV</span></span>
+<span class="topo-line"><span class="topo-inside">RPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAM</span><span class="topo-unknown">AITKEQEEEAKTGHHQEPISQTL</span></span>
+<span class="topo-line"><span class="topo-unknown">LHLGDRLDRIEKQLAQNNELLQRQQPQKK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>1</td>
+      <td>5</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>27</td>
+      <td>7</td>
+      <td>27</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>39</td>
+      <td>28</td>
+      <td>39</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>56</td>
+      <td>40</td>
+      <td>56</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>69</td>
+      <td>57</td>
+      <td>69</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>93</td>
+      <td>70</td>
+      <td>93</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>97</td>
+      <td>94</td>
+      <td>97</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>149</td>
+      <td>98</td>
+      <td>149</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##NCOMMS3465
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3zjz">3ZJZ</a> — Chain B (2 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion (sitting drop) |
-| Protein sample | NavMs-pore + CTD at 14 mg/ml |
-| Reservoir | 0.1 M trisodium [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/), 0.1 M [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 34% v/v [PEG400](/xray-mp-wiki/reagents/additives/peg-400/) |
-| Temperature | 4 |
-| Cryoprotection | Not specified |
-| Notes | Protein mixed in 2:1 ratio with reservoir solution for 150 nl sitting drops. Data collected at Diamond Light Source. Space group C2221, cell dimensions a=80.15, b=334.38, c=80.21 A. Structure determined by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) using monomer A from NavMs-pore structure (PDB 4F4L). |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GSHMG</span><span class="topo-outside">V</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATNL</span><span class="topo-inside">YGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIV</span></span>
+<span class="topo-line"><span class="topo-inside">RPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAM</span><span class="topo-unknown">AITKEQEEEAKTGHHQEPISQTL</span></span>
+<span class="topo-line"><span class="topo-unknown">LHLGDRLDRIEKQLAQNNELLQRQQPQKK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>1</td>
+      <td>5</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>27</td>
+      <td>7</td>
+      <td>27</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>39</td>
+      <td>28</td>
+      <td>39</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>56</td>
+      <td>40</td>
+      <td>56</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>69</td>
+      <td>57</td>
+      <td>69</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>93</td>
+      <td>70</td>
+      <td>93</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>97</td>
+      <td>94</td>
+      <td>97</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>149</td>
+      <td>98</td>
+      <td>149</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3zjz">3ZJZ</a> — Chain E (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GSHMG</span><span class="topo-outside">V</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATNL</span><span class="topo-inside">YGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIV</span></span>
+<span class="topo-line"><span class="topo-inside">RPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAM</span><span class="topo-unknown">AITKEQEEEAKTGHHQEPISQTL</span></span>
+<span class="topo-line"><span class="topo-unknown">LHLGDRLDRIEKQLAQNNELLQRQQPQKK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>1</td>
+      <td>5</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>27</td>
+      <td>7</td>
+      <td>27</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>39</td>
+      <td>28</td>
+      <td>39</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>56</td>
+      <td>40</td>
+      <td>56</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>69</td>
+      <td>57</td>
+      <td>69</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>93</td>
+      <td>70</td>
+      <td>93</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>97</td>
+      <td>94</td>
+      <td>97</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>149</td>
+      <td>98</td>
+      <td>149</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3zjz">3ZJZ</a> — Chain F (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GSHMG</span><span class="topo-outside">V</span><span class="topo-membrane">GSVAALLTVVFYIAAVMATNL</span><span class="topo-inside">YGATFPEWFGDL</span><span class="topo-unknown">SKSLYTLFQVMTLESWS</span><span class="topo-inside">MGIV</span></span>
+<span class="topo-line"><span class="topo-inside">RPVMNVHPN</span><span class="topo-membrane">AWVFFIPFIMLTTFTVLNLFIGII</span><span class="topo-outside">VDAM</span><span class="topo-unknown">AITKEQEEEAKTGHHQEPISQTL</span></span>
+<span class="topo-line"><span class="topo-unknown">LHLGDRLDRIEKQLAQNNELLQRQQPQKK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>1</td>
+      <td>5</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>6</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>27</td>
+      <td>7</td>
+      <td>27</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>39</td>
+      <td>28</td>
+      <td>39</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>56</td>
+      <td>40</td>
+      <td>56</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>69</td>
+      <td>57</td>
+      <td>69</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>93</td>
+      <td>70</td>
+      <td>93</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>97</td>
+      <td>94</td>
+      <td>97</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>149</td>
+      <td>98</td>
+      <td>149</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -76,13 +495,13 @@ The CTDs of all identified prokaryotic sodium channels exhibit similar flexible 
 
 ## Cross-References
 
-- [KcsA Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/) — Related tetrameric ion channel serving as structural model
-- [Sitting Drop Vapor Diffusion Crystallization](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — Crystallization method used for NavMs
-- [Sodium Channel Gating](/xray-mp-wiki/concepts/transport-mechanisms/sodium-channel-gating/) — NavMs provides insights into sodium channel gating mechanisms
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
-- [NaChBac Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/nachbac/) — Related protein structure
-- [NAVMS](/xray-mp-wiki/proteins/voltage-gated-channels/navms/) — Related protein structure
-- [PEG400](/xray-mp-wiki/reagents/additives/peg-400/) — Additive used in purification or crystallization buffers
-- [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) — Buffer component in purification or crystallization
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/">KcsA Potassium Channel</a> — Related tetrameric ion channel serving as structural model
+- <a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">Sitting Drop Vapor Diffusion Crystallization</a> — Crystallization method used for NavMs
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/sodium-channel-gating/">Sodium Channel Gating</a> — NavMs provides insights into sodium channel gating mechanisms
+- <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a> — Related biological concept
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/nachbac/">NaChBac Bacterial Voltage-Gated Sodium Channel</a> — Related protein structure
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/navms/">NAVMS</a> — Related protein structure
+- <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a> — Buffer component in purification or crystallization

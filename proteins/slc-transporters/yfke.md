@@ -1,7 +1,7 @@
 ---
 title: "YfkE Ca2+/H+ Antiporter from Bacillus subtilis"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,37 +17,60 @@ verified: false
 YfkE is a Ca2+/H+ antiporter from *Bacillus subtilis* belonging to the [Ca2+:Cation Antiporter (CaCA) Superfamily](/xray-mp-wiki/concepts/transport-mechanisms/caca-superfamily/). The structure was determined by X-ray crystallography at 3.1-Å resolution, revealing a homotrimeric assembly with an inward-facing conformation. Each protomer contains 11 transmembrane helices (TMs 0-10) arranged in two antiparallel helical bundles with a pseudo twofold symmetry. The structure provides insights into the Ca2+/H+ exchange mechanism and pH regulation of CAX family proteins.
 
 
-## Structure Determination
+## Publications
 
-No structure determined.
+### doi/10.1073##pnas.1302515110
 
-## Expression and Purification
+**Expression:**
 
 - **Expression system**: E. coli
 - **Construct**: Polyhistidine tag inserted within the cytoplasmic loop between TMs 5 and 6; K116A and L77M mutations
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli
 - **Tag info**: Polyhistidine tag
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Solubilization and extraction</td>
+      <td>Detergent extraction</td>
+      <td>—</td>
+      <td>n-dodecyl-beta-D-maltoside</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Purification</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Ni-NTA</td>
+      <td>n-dodecyl-beta-D-maltoside</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Solubilization and extraction | Detergent extraction | — | n-dodecyl-beta-D-maltoside |  |
-| Purification | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA | n-dodecyl-beta-D-maltoside |  |
+**Crystallization:**
 
-
-## Crystallization
-
-### doi/10.1073##pnas.1302515110
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion (hanging drop) |
-| Notes | Crystals obtained at pH 4 for both native and Se-Met proteins |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion (hanging drop)</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals obtained at pH 4 for both native and Se-Met proteins</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -66,6 +89,6 @@ Sequence differences between YfkE and NCX_Mj reveal how Na+-binding sites in NCX
 
 ## Cross-References
 
-- [Ca2+:Cation Antiporter (CaCA) Superfamily](/xray-mp-wiki/concepts/transport-mechanisms/caca-superfamily/) — YfkE is a member of the CAX family within the CaCA superfamily
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Structural comparison of inward-facing YfkE and outward-facing NCX_Mj demonstrates alternating access
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/caca-superfamily/">Ca2+:Cation Antiporter (CaCA) Superfamily</a> — YfkE is a member of the CAX family within the CaCA superfamily
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating Access Mechanism</a> — Structural comparison of inward-facing YfkE and outward-facing NCX_Mj demonstrates alternating access
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification

@@ -1,7 +1,7 @@
 ---
 title: "TonB (E. coli)"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,45 +17,119 @@ verified: false
 TonB is an integral polytopic membrane protein from Escherichia coli that serves as the energy transducer connecting the inner membrane [Ton Complex](/xray-mp-wiki/concepts/miscellaneous/ton-complex/) (ExbB-[ExbD (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/exbD/)) to TonB-dependent transporters (TBDTs) at the outer membrane. TonB contains a single N-terminal transmembrane helix that anchors a large C-terminal periplasmic domain. The periplasmic domain contains a conserved 5-7 residue TonB box that interacts with TBDTs upon ligand binding. TonB exchanges for one [ExbD (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/exbD/) monomer during energy transduction, and its interaction with [ExbD (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/exbD/) triggers conformational changes that lead to ligand uptake by TBDTs at the outer membrane.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature19757 | 5FQ7 | 2.6 A | P63 | ExbB-ExbD-TonB fully assembled complex | calcium ion |
-| doi/10.1038##nature19757 | 5FQ6 | 3.5 A | P212121 | ExbB-ExbD-TonB fully assembled complex | calcium ion |
+### doi/10.1038##nature19757
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5fq7">5FQ7</a></td>
+      <td>2.6 A</td>
+      <td>P63</td>
+      <td>ExbB-ExbD-TonB fully assembled complex</td>
+      <td>calcium ion</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5fq6">5FQ6</a></td>
+      <td>3.5 A</td>
+      <td>P212121</td>
+      <td>ExbB-ExbD-TonB fully assembled complex</td>
+      <td>calcium ion</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli K-12 BL21(DE3) cells
 - **Construct**: TonB cloned into pACYCDUET-1 vector with N-terminal 10xHis tag followed by TEV protease site; TonB C18A mutant also prepared
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Emulsiflex-C3 high-pressure homogenization</td>
+      <td>--</td>
+      <td>TBS + --</td>
+      <td>Cells resuspended with 100 uM AEBSF, 100 uM DNase, 50 ug/ml lysozyme; disrupted at ~15,000 p.s.i.</td>
+    </tr>
+    <tr>
+      <td>Membrane isolation</td>
+      <td>Ultracentrifugation</td>
+      <td>--</td>
+      <td>TBS + --</td>
+      <td>Pelleted at 200,000g for 1 h at 4 C; membranes resuspended with dounce homogenizer</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Membrane solubilization</td>
+      <td>--</td>
+      <td>TBS + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Solubilized by addition of <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> to 1% final concentration</td>
+    </tr>
+    <tr>
+      <td>Affinity purification</td>
+      <td>His-tag <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>--</td>
+      <td>TBS + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Purified using N-terminal 10xHis tag on TonB; co-expression with <a href="/xray-mp-wiki/proteins/other-ion-channels/exbB/">ExbB (E. coli)</a> and <a href="/xray-mp-wiki/proteins/other-ion-channels/exbD/">ExbD (E. coli)</a> for <a href="/xray-mp-wiki/concepts/miscellaneous/ton-complex/">Ton Complex</a></td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Emulsiflex-C3 high-pressure homogenization | -- | TBS + -- | Cells resuspended with 100 uM AEBSF, 100 uM DNase, 50 ug/ml lysozyme; disrupted at ~15,000 p.s.i. |
-| Membrane isolation | Ultracentrifugation | -- | TBS + -- | Pelleted at 200,000g for 1 h at 4 C; membranes resuspended with dounce homogenizer |
-| Solubilization | Membrane solubilization | -- | TBS + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Solubilized by addition of [DDM](/xray-mp-wiki/reagents/detergents/ddm/) to 1% final concentration |
-| Affinity purification | His-tag [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | -- | TBS + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Purified using N-terminal 10xHis tag on TonB; co-expression with [ExbB (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/exbB/) and [ExbD (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/exbD/) for [Ton Complex](/xray-mp-wiki/concepts/miscellaneous/ton-complex/) |
-
-
-## Crystallization
-
-### doi/10.1038##nature19757
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | ExbB-ExbD-TonB fully assembled complex |
-| Reservoir | Not specified in paper |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | The fully assembled [Ton Complex](/xray-mp-wiki/concepts/miscellaneous/ton-complex/) was characterized by electron microscopy, crosslinking, and DEER spectroscopy. Only a single TMH of TonB can fit within the [ExbB (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/exbB/) pentamer pore. DEER on the fully assembled complex (TonB C18A-[ExbB (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/exbB/) C25S-[ExbD (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/exbD/) N78C) showed distance distributions nearly identical to the subcomplex, confirming [ExbD (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/exbD/) remains dimeric in the presence of TonB. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>ExbB-ExbD-TonB fully assembled complex</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not specified in paper</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>The fully assembled <a href="/xray-mp-wiki/concepts/miscellaneous/ton-complex/">Ton Complex</a> was characterized by electron microscopy, crosslinking, and DEER spectroscopy. Only a single TMH of TonB can fit within the <a href="/xray-mp-wiki/proteins/other-ion-channels/exbB/">ExbB (E. coli)</a> pentamer pore. DEER on the fully assembled complex (TonB C18A-<a href="/xray-mp-wiki/proteins/other-ion-channels/exbB/">ExbB (E. coli)</a> C25S-<a href="/xray-mp-wiki/proteins/other-ion-channels/exbD/">ExbD (E. coli)</a> N78C) showed distance distributions nearly identical to the subcomplex, confirming <a href="/xray-mp-wiki/proteins/other-ion-channels/exbD/">ExbD (E. coli)</a> remains dimeric in the presence of TonB.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -74,11 +148,11 @@ DEER spectroscopy on the fully assembled [Ton Complex](/xray-mp-wiki/concepts/mi
 
 ## Cross-References
 
-- [ExbB (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/exbB/) — TonB interacts with the ExbB pentamer as part of the fully assembled Ton complex
-- [ExbD (E. coli)](/xray-mp-wiki/proteins/other-ion-channels/exbD/) — TonB interacts directly with ExbD; TonB may exchange for one ExbD monomer during energy transduction
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for solubilization of the fully assembled Ton complex (1% DDM)
-- [His6 Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) — N-terminal 10xHis tag used for TonB purification
-- [DEER Spectroscopy](/xray-mp-wiki/methods/quality-assessment/deer-spectroscopy/) — DEER performed on the fully assembled Ton complex (TonB C18A-ExbB C25S-ExbD N78C) to validate stoichiometry
-- [Circular Dichroism Spectroscopy](/xray-mp-wiki/methods/quality-assessment/circular-dichroism-spectroscopy/) — Circular dichroism used to assess secondary structure and thermal stability of the Ton subcomplex
-- [Ton Complex](/xray-mp-wiki/concepts/miscellaneous/ton-complex/) — TonB is a core component of the Ton complex; the concept page describes the functional complex and energy transduction mechanism
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/exbB/">ExbB (E. coli)</a> — TonB interacts with the ExbB pentamer as part of the fully assembled Ton complex
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/exbD/">ExbD (E. coli)</a> — TonB interacts directly with ExbD; TonB may exchange for one ExbD monomer during energy transduction
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Detergent used for solubilization of the fully assembled Ton complex (1% DDM)
+- <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His6 Tag</a> — N-terminal 10xHis tag used for TonB purification
+- <a href="/xray-mp-wiki/methods/quality-assessment/deer-spectroscopy/">DEER Spectroscopy</a> — DEER performed on the fully assembled Ton complex (TonB C18A-ExbB C25S-ExbD N78C) to validate stoichiometry
+- <a href="/xray-mp-wiki/methods/quality-assessment/circular-dichroism-spectroscopy/">Circular Dichroism Spectroscopy</a> — Circular dichroism used to assess secondary structure and thermal stability of the Ton subcomplex
+- <a href="/xray-mp-wiki/concepts/miscellaneous/ton-complex/">Ton Complex</a> — TonB is a core component of the Ton complex; the concept page describes the functional complex and energy transduction mechanism
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification

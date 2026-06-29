@@ -1,7 +1,7 @@
 ---
 title: "Polysulfide Reductase (PsrABC) from Thermus thermophilus"
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,46 +16,126 @@ verified: false
 
 Polysulfide reductase (PsrABC) from Thermus thermophilus is an integral membrane protein complex responsible for quinone-coupled reduction of polysulfide (Sn2-). It is a molybdenum/tungsten-containing bis-molybdopterin guanine dinucleotide (bis-MGD) oxidoreductase that uses [MK-7](/xray-mp-wiki/reagents/cofactors/menaquinone-7/) as the endogenous electron donor and polysulfide as the terminal electron acceptor. The enzyme is expressed under aerobic conditions in this thermophilic bacterium and is proposed to function as a key energy-conserving enzyme in the respiratory chain, potentially coupling electron transfer to proton pumping across the membrane.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##NSMB.1434 | unknown (not explicitly stated in paper) | 2.4 A | P212121 | Native PsrABC heterotrimeric complex from Thermus thermophilus. The dimeric (ABC)2 configuration has a total molecular weight of approximately 260 kDa. PsrA subunit (733 residues), PsrB subunit (194 residues), and PsrC subunit (integral membrane, 8 transmembrane helices). Each monomer contains two Mo-bis-MGD cofactors, five [4Fe-4S] clusters on PsrB, one [4Fe-4S] cluster on PsrA, and 1,306 resolved water molecules. | [MK-7](/xray-mp-wiki/reagents/cofactors/menaquinone-7/), [PCP](/xray-mp-wiki/reagents/ligands/pentachlorophenol/), [UQ1](/xray-mp-wiki/reagents/ligands/ubiquinone-1/) |
+### doi/10.1038##NSMB.1434
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/unknown (not explicitly stated in paper)">UNKNOWN (NOT EXPLICITLY STATED IN PAPER)</a></td>
+      <td>2.4 A</td>
+      <td>P212121</td>
+      <td>Native PsrABC heterotrimeric complex from Thermus thermophilus. The dimeric (ABC)2 configuration has a total molecular weight of approximately 260 kDa. PsrA subunit (733 residues), PsrB subunit (194 residues), and PsrC subunit (integral membrane, 8 transmembrane helices). Each monomer contains two Mo-bis-MGD cofactors, five [4Fe-4S] clusters on PsrB, one [4Fe-4S] cluster on PsrA, and 1,306 resolved water molecules.</td>
+      <td><a href="/xray-mp-wiki/reagents/cofactors/menaquinone-7/">MK-7</a>, <a href="/xray-mp-wiki/reagents/ligands/pentachlorophenol/">PCP</a>, <a href="/xray-mp-wiki/reagents/ligands/ubiquinone-1/">UQ1</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Thermus thermophilus (HB27)
 - **Construct**: His-tagged PsrABC complex from Thermus thermophilus HB27. The PsrA subunit N-terminus contains a twin-arginine translocase (TAT) motif, suggesting periplasmic localization. N-terminal sequencing confirmed absence of first 28 amino acids including the TAT signal peptide.
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>French press</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>Cells lysed by French press</td>
+    </tr>
+    <tr>
+      <td>Membrane isolation</td>
+      <td>Differential centrifugation</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>Membranes isolated by centrifugation</td>
+    </tr>
+    <tr>
+      <td>Membrane solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>-- + n-dodecyl-beta-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
+      <td>Membranes solubilized in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+    </tr>
+    <tr>
+      <td>Affinity purification</td>
+      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 300 mM NaCl + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Eluted with linear gradient from 100-280 mM NaCl</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>Size-exclusion chromatography</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
+      <td>30 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 100 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + n-dodecyl-beta-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
+      <td>Column pre-equilibrated and run at 0.5 mL/min. Flow rate 0.5 mL/min</td>
+    </tr>
+    <tr>
+      <td>Concentration</td>
+      <td>Ultrafiltration</td>
+      <td>--</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + n-dodecyl-beta-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
+      <td>Concentrated to approximately 15 mg/mL using Amicon Ultra-15 with 10 kDa MWCO filter. Purity approximately 95% by SDS-PAGE</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | French press | -- | -- + -- | Cells lysed by French press |
-| Membrane isolation | Differential centrifugation | -- | -- + -- | Membranes isolated by centrifugation |
-| Membrane solubilization | Detergent solubilization | -- | -- + n-dodecyl-beta-D-maltopyranoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) | Membranes solubilized in [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
-| Affinity purification | Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON](/xray-mp-wiki/reagents/additives/talon/) | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 300 mM NaCl + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Eluted with linear gradient from 100-280 mM NaCl |
-| Size-exclusion chromatography | Size-exclusion chromatography | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | 30 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 100 mM NaCl, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + n-dodecyl-beta-D-maltopyranoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) | Column pre-equilibrated and run at 0.5 mL/min. Flow rate 0.5 mL/min |
-| Concentration | Ultrafiltration | -- | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + n-dodecyl-beta-D-maltopyranoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) | Concentrated to approximately 15 mg/mL using Amicon Ultra-15 with 10 kDa MWCO filter. Purity approximately 95% by SDS-PAGE |
-
-
-## Crystallization
-
-### doi/10.1038##NSMB.1434
-
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | PsrABC complex at 15 mg/mL in 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
-| Reservoir | 0.1 M MES pH 6.5, 30-34% [PEG400](/xray-mp-wiki/reagents/additives/peg-400/), 200 mM CaCl2 |
-| Temperature | 20 C |
-| Growth time | 48 h for initial appearance; full size in approximately 2 weeks |
-| Cryoprotection | not specified |
-| Notes | Native crystals and quinone/inhibitor-bound complexes obtained from cocrystallization. [MK-7](/xray-mp-wiki/reagents/cofactors/menaquinone-7/), [PCP](/xray-mp-wiki/reagents/ligands/pentachlorophenol/), and [UQ1](/xray-mp-wiki/reagents/ligands/ubiquinone-1/) added to reservoir at 0.5-1 mM. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>PsrABC complex at 15 mg/mL in 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.1 M MES pH 6.5, 30-34% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a>, 200 mM CaCl2</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>48 h for initial appearance; full size in approximately 2 weeks</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Native crystals and quinone/inhibitor-bound complexes obtained from cocrystallization. <a href="/xray-mp-wiki/reagents/cofactors/menaquinone-7/">MK-7</a>, <a href="/xray-mp-wiki/reagents/ligands/pentachlorophenol/">PCP</a>, and <a href="/xray-mp-wiki/reagents/ligands/ubiquinone-1/">UQ1</a> added to reservoir at 0.5-1 mM.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -82,13 +162,13 @@ PsrC accommodates a possible proton-relay network centered on a hydrophilic cavi
 
 ## Cross-References
 
-- [Menaquinone-7 (MK-7)](/xray-mp-wiki/reagents/cofactors/menaquinone-7/) — Endogenous quinone substrate and electron donor
-- [Ubiquinone (Coenzyme Q10)](/xray-mp-wiki/reagents/cofactors/ubiquinone/) — Similar quinone electron carrier; UQ1 used as crystallization analog
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for solubilization and purification
-- [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Buffer component in purification and crystallization
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Related redox enzyme mechanism principle
-- [Menaquinone](/xray-mp-wiki/reagents/ligands/menaquinone/) — General menaquinone family; MK-7 is specific isoform used by Psr
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [NARGHI](/xray-mp-wiki/proteins/enzymes/narghi/) — Related protein structure
-- [PEG400](/xray-mp-wiki/reagents/additives/peg-400/) — Additive used in purification or crystallization buffers
-- [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/cofactors/menaquinone-7/">Menaquinone-7 (MK-7)</a> — Endogenous quinone substrate and electron donor
+- <a href="/xray-mp-wiki/reagents/cofactors/ubiquinone/">Ubiquinone (Coenzyme Q10)</a> — Similar quinone electron carrier; UQ1 used as crystallization analog
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Primary detergent used for solubilization and purification
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> — Buffer component in purification and crystallization
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating-Access Mechanism</a> — Related redox enzyme mechanism principle
+- <a href="/xray-mp-wiki/reagents/ligands/menaquinone/">Menaquinone</a> — General menaquinone family; MK-7 is specific isoform used by Psr
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/enzymes/narghi/">NARGHI</a> — Related protein structure
+- <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> — Additive used in purification or crystallization buffers

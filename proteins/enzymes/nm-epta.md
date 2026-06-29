@@ -1,7 +1,7 @@
 ---
 title: "NmEptA - Lipid A Phosphoethanolamine Transferase from Neisseria meningitidis"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,44 +16,253 @@ verified: false
 
 NmEptA is a [Lipid A](/xray-mp-wiki/reagents/lipids/lipid-a/) phosphoethanolamine (PEA) transferase from *Neisseria meningitidis* that catalyzes the transfer of phosphoethanolamine from [Phosphatidylethanolamine](/xray-mp-wiki/reagents/lipids/phosphatidylethanolamine/) to the 1 and 4' headgroup positions of [Lipid A](/xray-mp-wiki/reagents/lipids/lipid-a/). This modification masks the negatively charged phosphate groups on the bacterial surface, conferring resistance to cationic antimicrobial peptides (CAMPs) such as colistin. The full-length X-ray crystal structure at 2.75 Å resolution reveals a helical transmembrane domain and a periplasmic-facing soluble hydrolase-fold domain connected by a bridging helix. A Zn2+ ion is tetrahedrally coordinated at the active site, with Thr280 serving as the catalytic nucleophile. The structure provides insights into conformational dynamics that enable binding of two differently-sized lipid substrates and informs structure-guided drug design for treating multidrug-resistant bacterial infections.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.1612927114 | 5FGN | 2.75 | — | Full-length NmEptA (hexahistidine-tagged) | Zn2+, [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
+### doi/10.1073##pnas.1612927114
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5fgn">5FGN</a></td>
+      <td>2.75</td>
+      <td>—</td>
+      <td>Full-length NmEptA (hexahistidine-tagged)</td>
+      <td>Zn2+, <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli
 - **Construct**: Full-length NmEptA with N-terminal hexahistidine tag
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli
 - **Expression construct**: Full-length NmEptA with hexahistidine tag
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Solubilization | Detergent extraction | — | [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Enzyme expressed recombinantly and purified in presence of [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni2+-NTA | Ni-NTA | [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |  |
-| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | SEC | Not specified | [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |  |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent extraction</td>
+      <td>—</td>
+      <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Enzyme expressed recombinantly and purified in presence of <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Ni2+-NTA</td>
+      <td>Ni-NTA</td>
+      <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td>SEC</td>
+      <td>Not specified</td>
+      <td><a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: Purified NmEptA in [DDM](/xray-mp-wiki/reagents/detergents/ddm/) micelles
 **Purity**: Monodisperse and thermally stable
 
+**Crystallization:**
 
-## Crystallization
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Not specified in main text</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified full-length NmEptA in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using soluble domain structure (PDB 4KAV). Data collected at Diamond Light Source and Australian Synchrotron.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-### doi/10.1073##pnas.1612927114
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5fgn">5FGN</a> — Chain A (5 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Not specified in main text |
-| Protein sample | Purified full-length NmEptA in [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
-| Notes | Structure solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) using soluble domain structure (PDB 4KAV). Data collected at Diamond Light Source and Australian Synchrotron. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MIKPNLR</span><span class="topo-inside">PKLG</span><span class="topo-membrane">SSALIAFLSLYSSLVLNY</span><span class="topo-outside">AFFAKVVELHPFNGTGADIFLY</span><span class="topo-membrane">TMPVVLFFL</span></span>
+<span class="topo-line"><span class="topo-membrane">SNFVFHVIALPF</span><span class="topo-inside">V</span><span class="topo-membrane">HKVLIPLILVISAAVSY</span><span class="topo-outside">QEIFFNIYFN</span><span class="topo-unknown">KSMLNNVLQ</span><span class="topo-outside">TTAAESARLIT</span></span>
+<span class="topo-line"><span class="topo-outside">P</span><span class="topo-membrane">GYVLWIVCLGVLPALAYIAV</span><span class="topo-inside">KVKYRVWYKEFL</span><span class="topo-membrane">TRLVLAAVSFLCALGIAML</span><span class="topo-outside">Q</span><span class="topo-unknown">YQDYASF</span></span>
+<span class="topo-line"><span class="topo-unknown">FRN</span><span class="topo-outside">NKSVTHLIVPSNFI</span><span class="topo-unknown">GAGVSKYKDWKRSNI</span><span class="topo-outside">PYTQLDMAVVQNRPAGSLRRFVVLVVGE</span></span>
+<span class="topo-line"><span class="topo-outside">TTRAANWGLNGYSRQTTPLLAARGDEIVNFPQVRSCGTSTAHSLPCMFSTFDRTDYDEIK</span></span>
+<span class="topo-line"><span class="topo-outside">AEHQDNLLDIVQRAGVEVTWLENDSGCKGVCGKVPNTDVTSLNLPEYCRNGECLDNILLT</span></span>
+<span class="topo-line"><span class="topo-outside">KFDEVLNKNDKDAVLILHTIGSHGPTYYERYTEAERKFTPTCDTNEINKCTRATLVNTYD</span></span>
+<span class="topo-line"><span class="topo-outside">NTVLYVDQFIDKVIRKLENRDDLESVVHYVSDHGESLGENGMYLHAAPYAIAPSGQTHIP</span></span>
+<span class="topo-line"><span class="topo-outside">MVMWFSKAFRQHGGIDFQCLKQKAAENEYSHDHYFSTVLGLMDISNSQTYRKEMDILAAC</span></span>
+<span class="topo-line"><span class="topo-outside">RRP</span><span class="topo-unknown">RHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>8</td>
+      <td>11</td>
+      <td>8</td>
+      <td>11</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>29</td>
+      <td>12</td>
+      <td>29</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>51</td>
+      <td>30</td>
+      <td>51</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>72</td>
+      <td>52</td>
+      <td>72</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>73</td>
+      <td>73</td>
+      <td>73</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>90</td>
+      <td>74</td>
+      <td>90</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>100</td>
+      <td>91</td>
+      <td>100</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>109</td>
+      <td>101</td>
+      <td>109</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>110</td>
+      <td>121</td>
+      <td>110</td>
+      <td>121</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>122</td>
+      <td>141</td>
+      <td>122</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>153</td>
+      <td>142</td>
+      <td>153</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>154</td>
+      <td>172</td>
+      <td>154</td>
+      <td>172</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>173</td>
+      <td>173</td>
+      <td>173</td>
+      <td>173</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>174</td>
+      <td>183</td>
+      <td>174</td>
+      <td>183</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>184</td>
+      <td>197</td>
+      <td>184</td>
+      <td>197</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>212</td>
+      <td>198</td>
+      <td>212</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>213</td>
+      <td>543</td>
+      <td>213</td>
+      <td>543</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
 
 ## Biological / Functional Insights
 
@@ -76,13 +285,13 @@ Two amphipathic helices located in a periplasmic loop between TMH3 and TMH4 (PH2
 
 ## Cross-References
 
-- [n-Dodecyl-beta-D-maltoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for solubilization, purification, and crystallization of NmEptA
-- [Cymal-6](/xray-mp-wiki/reagents/detergents/cymal-6/) — Alternative maltoside detergent used in conformational studies
-- [Foscholine-12](/xray-mp-wiki/reagents/detergents/foscholine-12/) — Zwitterionic detergent used in conformational studies showing non-productive state
-- [His6-tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) — Affinity tag used for purification
-- [Nickel-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) — Affinity resin for purification of hexahistidine-tagged NmEptA
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [Limited Proteolysis](/xray-mp-wiki/methods/purification/limited-proteolysis/) — Method used in structure determination or purification
-- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
-- [ARNT](/xray-mp-wiki/proteins/enzymes/arnt/) — Related protein structure
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltoside (DDM)</a> — Primary detergent used for solubilization, purification, and crystallization of NmEptA
+- <a href="/xray-mp-wiki/reagents/detergents/cymal-6/">Cymal-6</a> — Alternative maltoside detergent used in conformational studies
+- <a href="/xray-mp-wiki/reagents/detergents/foscholine-12/">Foscholine-12</a> — Zwitterionic detergent used in conformational studies showing non-productive state
+- <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His6-tag</a> — Affinity tag used for purification
+- <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Nickel-NTA</a> — Affinity resin for purification of hexahistidine-tagged NmEptA
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/purification/limited-proteolysis/">Limited Proteolysis</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/enzymes/arnt/">ARNT</a> — Related protein structure

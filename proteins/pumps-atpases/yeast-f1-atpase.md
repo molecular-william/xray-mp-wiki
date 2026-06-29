@@ -1,7 +1,7 @@
 ---
 title: "Yeast Mitochondrial F1 ATPase from Saccharomyces cerevisiae"
 created: 2026-06-08
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,41 +17,114 @@ verified: false
 Yeast mitochondrial F1 ATPase is the water-soluble catalytic domain of the F1F0 ATP synthase (EC 3.6.3.14), the molecular motor responsible for ATP synthesis in mitochondria. The F1 complex has an α3β3γδε subunit stoichiometry, with three catalytic sites at the α/β interfaces. This 2.8 Å crystal structure reveals three independent copies of the complex with different conformational states, providing new insights into the rotary catalytic mechanism, including the binding of phosphate to the empty (βE) catalytic site.
 
 
-## Structure Determination
-
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##sj.emboj.7601410 | 2HLD | 2.8 | P21 | Yeast F1 ATPase (alpha3beta3gammadeltaepsilon) | [AMP-PNP (Adenylyl Imidodiphosphate)](/xray-mp-wiki/reagents/ligands/amp-pnp/) |
-| doi/10.1098##rsob.120164 | 3ZIA | 2.5 | P21 | Yeast F1 ATPase (alpha3beta3gammadeltaepsilon) inhibited by yI1-53 (IF1 residues 1-53, E21A mutation) | ADP |
-
-## Expression and Purification
-
-- **Expression system**: Saccharomyces cerevisiae
-
-No purification described.
-
-## Crystallization
+## Publications
 
 ### doi/10.1038##sj.emboj.7601410
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Notes | Crystals grown in monoclinic space group P21 with three F1 complexes per asymmetric unit; 0.25 mM NiSO4 present in crystallization medium |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2hld">2HLD</a></td>
+      <td>2.8</td>
+      <td>P21</td>
+      <td>Yeast F1 ATPase (alpha3beta3gammadeltaepsilon)</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/amp-pnp/">AMP-PNP (Adenylyl Imidodiphosphate)</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Saccharomyces cerevisiae
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown in monoclinic space group P21 with three F1 complexes per asymmetric unit; 0.25 mM NiSO4 present in crystallization medium</td>
+    </tr>
+  </tbody>
+</table>
 ### doi/10.1098##rsob.120164
 
-| Parameter | Value |
-|---|---|
-| Method | Microbatch under oil |
-| Protein sample | Yeast F1-ATPase (10 mg/ml) inhibited with yI1-53 (E21A), in 100 mM Bis-Tris propane pH 7.5, 100 mM [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/), 1 mM ADP, 10 mM magnesium sulphate, 100 mM sodium-potassium tartrate |
-| Reservoir | Filtered paraffin oil (as sealant) |
-| Mixing ratio | NA (microbatch) |
-| Temperature | 23 |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Enzyme inhibited with 4-fold molar excess of yI1-53 before crystallization. Crystals grown in D2O-based crystallization buffer under paraffin oil in 72-well micro-batch plates. |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3zia">3ZIA</a></td>
+      <td>2.5</td>
+      <td>P21</td>
+      <td>Yeast F1 ATPase (alpha3beta3gammadeltaepsilon) inhibited by yI1-53 (IF1 residues 1-53, E21A mutation)</td>
+      <td>ADP</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Saccharomyces cerevisiae
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Microbatch under oil</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Yeast F1-ATPase (10 mg/ml) inhibited with yI1-53 (E21A), in 100 mM Bis-Tris propane pH 7.5, 100 mM <a href="/xray-mp-wiki/reagents/ligands/sucrose/">Sucrose</a>, 1 mM ADP, 10 mM magnesium sulphate, 100 mM sodium-potassium tartrate</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Filtered paraffin oil (as sealant)</td>
+    </tr>
+    <tr>
+      <td>Mixing ratio</td>
+      <td>NA (microbatch)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>23</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Enzyme inhibited with 4-fold molar excess of yI1-53 before crystallization. Crystals grown in D2O-based crystallization buffer under paraffin oil in 72-well micro-batch plates.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -123,8 +196,8 @@ metal ion before ADP.
 
 ## Cross-References
 
-- [Bovine F1 ATPase](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) — Homologous ATP synthase catalytic domain used for comparison
-- [Yeast Mitochondrial ATP Synthase c10 Ring](/xray-mp-wiki/proteins/pumps-atpases/yeast-mitochondrial-atp-synthase-c10-ring/) — The membrane rotor component of the same ATP synthase complex
-- [AMP-PNP](/xray-mp-wiki/reagents/ligands/amp-pnp/) — ATP analog bound in the catalytic sites
-- [F1-ATPase Rotary Catalytic Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/) — The IF1-inhibited structure captures a post-hydrolysis intermediate providing evidence for sequential product release in the rotary mechanism
-- [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) — Related ligand or cofactor
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/">Bovine F1 ATPase</a> — Homologous ATP synthase catalytic domain used for comparison
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/yeast-mitochondrial-atp-synthase-c10-ring/">Yeast Mitochondrial ATP Synthase c10 Ring</a> — The membrane rotor component of the same ATP synthase complex
+- <a href="/xray-mp-wiki/reagents/ligands/amp-pnp/">AMP-PNP</a> — ATP analog bound in the catalytic sites
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/">F1-ATPase Rotary Catalytic Mechanism</a> — The IF1-inhibited structure captures a post-hydrolysis intermediate providing evidence for sequential product release in the rotary mechanism
+- <a href="/xray-mp-wiki/reagents/ligands/sucrose/">Sucrose</a> — Related ligand or cofactor

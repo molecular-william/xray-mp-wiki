@@ -1,7 +1,7 @@
 ---
 title: "CAX_Af H+/Ca2+ Exchanger (Archaeoglobus fulgidus)"
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -28,42 +28,309 @@ by Ca2+ and H+ binding. CAX_Af is one of only two CAX family structures determin
 (alongside [Vcx1](/xray-mp-wiki/proteins/slc-transporters/vcx1/)) and represents the first H+/Ca2+
 exchanger structure captured in an inward-facing conformation.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1126##science.1239002 | 4KPP | 2.3 | P212121 | Full-length CAX_Af (residues 1-301) | none (H+ bound state) |
+### doi/10.1126##science.1239002
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4kpp">4KPP</a></td>
+      <td>2.3</td>
+      <td>P212121</td>
+      <td>Full-length CAX_Af (residues 1-301)</td>
+      <td>none (H+ bound state)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli
 - **Construct**: Full-length CAX_Af from Archaeoglobus fulgidus
 - **Notes**: Expressed in E. coli for functional characterization; purified and crystallized via LCP method. Mutants (E78A, E78Q, E255A, E255Q, E258A, E258Q) were generated for functional studies.
 
-### Purification Workflow
+**Purification:**
 
-- **Expression system**: E. coli
+- **Expression system**: [E. coli](/xray-mp-wiki/organisms/e-coli/)
 - **Expression construct**: Full-length CAX_Af
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Expression</td>
+      <td><a href="/xray-mp-wiki/organisms/e-coli/">E. coli</a> expression</td>
+      <td>—</td>
+      <td></td>
+      <td>Expressed in <a href="/xray-mp-wiki/organisms/e-coli/">E. coli</a> cells for 45Ca2+ uptake assays using <a href="/xray-mp-wiki/methods/expression-systems/iptg-induction/">IPTG induction</a></td>
+    </tr>
+    <tr>
+      <td>Purification</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
+      <td>—</td>
+      <td></td>
+      <td>Purified protein crystallized by <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> method. Details in Supporting Online Material.</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression | E. coli expression | — |  | Expressed in E. coli cells for 45Ca2+ uptake assays using IPTG induction |
-| Purification | Affinity chromatography | — |  | Purified protein crystallized by LCP method. Details in Supporting Online Material. |
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic cubic phase</a> (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified CAX_Af in detergent</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystallized under low-pH conditions (pH 6.0-6.5) which stabilizes the H+ bound state. Structure determined by multiple anomalous dispersion (MAD) using <a href="/xray-mp-wiki/reagents/additives/mercury/">mercury</a> derivatives. Final model refined to 2.3 A resolution. Crystallographic asymmetric unit contained two molecules.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-## Crystallization
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4kpp">4KPP</a> — Chain A (12 TMs, alpha)**
 
-### doi/10.1126##science.1239002
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">DFTKEK</span><span class="topo-membrane">FQLLAISSLTLPWLISLA</span><span class="topo-inside">FNYHHPALTQT</span><span class="topo-membrane">LLSGLAVVSASFLISWAAETAE</span><span class="topo-outside">MD</span></span>
+<span class="topo-line"><span class="topo-outside">VPRS</span><span class="topo-membrane">FSLAIVALLAVLPEYAVDG</span><span class="topo-inside">YFAWKAGSVGGEYVHYAT</span><span class="topo-membrane">ANMTGANRLLIGIGWSLVA</span></span>
+<span class="topo-line"><span class="topo-membrane">FI</span><span class="topo-outside">AFRTLKSKEVELDDGI</span><span class="topo-membrane">RLEIFFLFLATLYAFTL</span><span class="topo-inside">PLKGHISPF</span><span class="topo-membrane">DALVFVSLYAIYIYLS</span></span>
+<span class="topo-line"><span class="topo-membrane">T</span><span class="topo-outside">KAEREEVEVGGVPAYLCSLKTE</span><span class="topo-membrane">TRRLSVVVLFLFAGFTILMSV</span><span class="topo-inside">EAFSEGLLETARIAGI</span></span>
+<span class="topo-line"><span class="topo-inside">DEFLA</span><span class="topo-membrane">VQWIAPLASESPELIVAIY</span><span class="topo-outside">FVRRFRVSAS</span><span class="topo-membrane">MNALISSKVNQWTLLIGTIAI</span><span class="topo-inside">IYSIS</span></span>
+<span class="topo-line"><span class="topo-inside">AFKLQSLPLDARQSEE</span><span class="topo-membrane">VLLTAAQSLFAVAILL</span><span class="topo-outside">DLKI</span><span class="topo-membrane">SWKEASALFLLFIVQLLF</span><span class="topo-inside">PGVEV</span><span class="topo-membrane">R</span></span>
+<span class="topo-line"><span class="topo-membrane">YIISAIYIILSLPILFAKR</span><span class="topo-outside">KEIVESFRTVKRLISLE</span><span class="topo-unknown">SSGENLYFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>7</td>
+      <td>2</td>
+      <td>7</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>25</td>
+      <td>8</td>
+      <td>25</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>36</td>
+      <td>26</td>
+      <td>36</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>58</td>
+      <td>37</td>
+      <td>58</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>64</td>
+      <td>59</td>
+      <td>64</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>65</td>
+      <td>83</td>
+      <td>65</td>
+      <td>83</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>101</td>
+      <td>84</td>
+      <td>101</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>102</td>
+      <td>122</td>
+      <td>102</td>
+      <td>122</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>123</td>
+      <td>138</td>
+      <td>123</td>
+      <td>138</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>139</td>
+      <td>155</td>
+      <td>139</td>
+      <td>155</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>156</td>
+      <td>164</td>
+      <td>156</td>
+      <td>164</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>181</td>
+      <td>165</td>
+      <td>181</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>182</td>
+      <td>203</td>
+      <td>182</td>
+      <td>203</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>204</td>
+      <td>224</td>
+      <td>204</td>
+      <td>224</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>225</td>
+      <td>245</td>
+      <td>225</td>
+      <td>245</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>246</td>
+      <td>264</td>
+      <td>246</td>
+      <td>264</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>265</td>
+      <td>274</td>
+      <td>265</td>
+      <td>274</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>275</td>
+      <td>295</td>
+      <td>275</td>
+      <td>295</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>296</td>
+      <td>316</td>
+      <td>296</td>
+      <td>316</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>317</td>
+      <td>332</td>
+      <td>317</td>
+      <td>332</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>333</td>
+      <td>336</td>
+      <td>333</td>
+      <td>336</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>337</td>
+      <td>354</td>
+      <td>337</td>
+      <td>354</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>355</td>
+      <td>359</td>
+      <td>355</td>
+      <td>359</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>360</td>
+      <td>379</td>
+      <td>360</td>
+      <td>379</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>380</td>
+      <td>396</td>
+      <td>380</td>
+      <td>396</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>397</td>
+      <td>405</td>
+      <td>397</td>
+      <td>405</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Protein sample | Purified CAX_Af in detergent |
-| Temperature | 20 |
-| Notes | Crystallized under low-pH conditions (pH 6.0-6.5) which stabilizes the H+ bound state. Structure determined by multiple anomalous dispersion (MAD) using mercury derivatives. Final model refined to 2.3 A resolution. Crystallographic asymmetric unit contained two molecules. |
-
+</div>
 
 ## Biological / Functional Insights
 
@@ -90,7 +357,7 @@ Alanine or glutamine mutations of Glu78, Glu255, or Glu258 decreased H+/Ca2+ exc
 
 ## Cross-References
 
-- [NCX_Mj Sodium/Calcium Exchanger](/xray-mp-wiki/proteins/slc-transporters/ncx-mj/) — Homologous CaCA superfamily member; outward-facing structure used for structural comparison revealing the alternating access mechanism
-- [Ca2+:Cation Antiporter (CaCA) Superfamily](/xray-mp-wiki/concepts/transport-mechanisms/caca-superfamily/) — CAX_Af is a member of the CAX family within the CaCA superfamily
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — CAX_Af operates via alternating access with gating bundle sliding
-- [Vcx1](/xray-mp-wiki/proteins/slc-transporters/vcx1/) — Another CAX family structure; cytosol-facing conformation for comparison
+- <a href="/xray-mp-wiki/proteins/slc-transporters/ncx-mj/">NCX_Mj Sodium/Calcium Exchanger</a> — Homologous CaCA superfamily member; outward-facing structure used for structural comparison revealing the alternating access mechanism
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/caca-superfamily/">Ca2+:Cation Antiporter (CaCA) Superfamily</a> — CAX_Af is a member of the CAX family within the CaCA superfamily
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating-Access Mechanism</a> — CAX_Af operates via alternating access with gating bundle sliding
+- <a href="/xray-mp-wiki/proteins/slc-transporters/vcx1/">Vcx1</a> — Another CAX family structure; cytosol-facing conformation for comparison

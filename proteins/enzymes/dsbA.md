@@ -1,7 +1,7 @@
 ---
 title: "DsbA"
 created: 2026-05-27
-updated: 2026-06-16
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,43 +16,449 @@ verified: false
 
 DsbA is a periplasmic dithiol oxidase from Escherichia coli belonging to the thioredoxin-like protein family. It is the primary enzyme responsible for introducing disulfide bonds into folding secretory and periplasmic proteins by disulfide exchange. DsbA contains a highly reactive, catalytically unstable disulfide bond between Cys27 and Cys29 (numbering of the E. coli protein) that rapidly oxidizes substrate proteins. Reduced DsbA is then reoxidized by the inner membrane quinone reductase [DSBB](/xray-mp-wiki/proteins/dsbB), completing the oxidative protein folding pathway in the E. coli periplasm.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.cell.2006.10.034 | 2HI7 | 3.7 | P4(2)2(1)2 | DsbB(Cys130Ser)-DsbA(Cys33Ala) complex, a stable reaction intermediate mimic held together by a Cys30(DsbA)-Cys104(DsbB) intermolecular disulfide bond | [UBIQUINONE](/xray-mp-wiki/reagents/cofactors/ubiquinone) Q8 (bound to DsbB, not directly to DsbA) |
-| doi/10.1016##j.febslet.2008.07.063 | 3E9J | Not explicitly stated | Not available | DsbA(Cys33Ala) single-cysteine variant covalently bound to wtDsbB via intermolecular disulfide bond between Cys30 of DsbA and Cys104 of [DSBB](/xray-mp-wiki/proteins/dsbB). The Cys33Ala mutation was introduced to prevent formation of an incorrect disulfide bond during complex formation. | [UBIQUINONE](/xray-mp-wiki/reagents/cofactors/ubiquinone) Q8 (bound to DsbB, not directly to DsbA) |
+### doi/10.1016##j.cell.2006.10.034
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2hi7">2HI7</a></td>
+      <td>3.7</td>
+      <td>P4(2)2(1)2</td>
+      <td>DsbB(Cys130Ser)-DsbA(Cys33Ala) complex, a stable reaction intermediate mimic held together by a Cys30(DsbA)-Cys104(DsbB) intermolecular disulfide bond</td>
+      <td><a href="/xray-mp-wiki/reagents/cofactors/ubiquinone">UBIQUINONE</a> Q8 (bound to DsbB, not directly to DsbA)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli
 - **Construct**: DsbA(Cys33Ala) variant expressed and purified from E. coli. Purified according to an improved protocol compared to the previously described procedure.
 
-### Purification Workflow
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2hi7">2HI7</a> — Chain A (0 TMs, non_tm)**
 
-##### Steps
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">AQYEDGKQYTTLEKPVAGAPQVLEFFSFFCPHAYQFEEVLHISDNVKKKLPEGVKMTKYH</span></span>
+<span class="topo-line"><span class="topo-inside">VNFMGGDLGKDLTQAWAVAMALGVEDKVTVPLFEGVQKTQTIRSASDIRDVFINAGIKGE</span></span>
+<span class="topo-line"><span class="topo-inside">EYDAAWNSFVVKSLVAQQEKAAADVQLRGVPAMFVNGKYQLNPQGMDTSNMDVFVQQYAD</span></span>
+<span class="topo-line"><span class="topo-inside">TVKYLSEK</span><span class="topo-unknown">K</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>188</td>
+      <td>1</td>
+      <td>188</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>189</td>
+      <td>189</td>
+      <td>189</td>
+      <td>189</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression and purification | Expression and purification | -- | -- + -- | DsbA(Cys33Ala) purified according to an improved protocol. Detailed protocol available in supplementary data. |
-| Complex formation | In vitro complex formation | -- | -- + -- | Purified DsbA(Cys33Ala) mixed with wtDsbB-Q8-enriched membrane suspension to form the mixed disulfide complex |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2hi7">2HI7</a> — Chain B (4 TMs, alpha)**
 
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MLRFLNQASQGRG</span><span class="topo-outside">A</span><span class="topo-membrane">WLLMAFTALALELTALW</span><span class="topo-inside">FQHVMLLKPCVLCIYE</span><span class="topo-membrane">RVALFGVLGAALI</span></span>
+<span class="topo-line"><span class="topo-membrane">GAIAP</span><span class="topo-outside">KTPL</span><span class="topo-membrane">RYVAMVIWLYSAFRGV</span><span class="topo-inside">QLTYEHTMLQLYPSPFATCDFMVRFPEWLPLDKWV</span></span>
+<span class="topo-line"><span class="topo-inside">PQVFVA</span><span class="topo-unknown">SGDSAERQWDFLGLE</span><span class="topo-inside">MPQW</span><span class="topo-membrane">LLGIFIAYLIVAVLVVI</span><span class="topo-unknown">SQPFKAKKRDLFGR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>13</td>
+      <td>1</td>
+      <td>13</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>14</td>
+      <td>14</td>
+      <td>14</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>31</td>
+      <td>15</td>
+      <td>31</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>47</td>
+      <td>32</td>
+      <td>47</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>65</td>
+      <td>48</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>69</td>
+      <td>66</td>
+      <td>69</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>85</td>
+      <td>70</td>
+      <td>85</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>126</td>
+      <td>86</td>
+      <td>126</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>127</td>
+      <td>141</td>
+      <td>127</td>
+      <td>141</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>145</td>
+      <td>142</td>
+      <td>145</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td>162</td>
+      <td>146</td>
+      <td>162</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>163</td>
+      <td>176</td>
+      <td>163</td>
+      <td>176</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-## Crystallization
-
+</div>
 ### doi/10.1016##j.febslet.2008.07.063
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | wtDsbB-DsbA(Cys33Ala)-Q8 complex in nonylmaltoside |
-| Reservoir | Not explicitly stated |
-| Temperature | Not explicitly stated |
-| Growth time | Not explicitly stated |
-| Cryoprotection | None; crystals mounted in cryoloops and cryocooled by immersion into liquid nitrogen without additional cryoprotectant |
-| Notes | Crystals grown and cryocooled without cryoprotectant. Crystallographic data collection, structure solution and refinement described in supplementary data. Resolution same as the [DSBB](/xray-mp-wiki/proteins/dsbB)(Cys130Ser)-DsbA(Cys33Ala)-Q8 complex structure. |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3e9j">3E9J</a></td>
+      <td>Not explicitly stated</td>
+      <td>Not available</td>
+      <td>DsbA(Cys33Ala) single-cysteine variant covalently bound to wtDsbB via intermolecular disulfide bond between Cys30 of DsbA and Cys104 of <a href="/xray-mp-wiki/proteins/dsbB">DSBB</a>. The Cys33Ala mutation was introduced to prevent formation of an incorrect disulfide bond during complex formation.</td>
+      <td><a href="/xray-mp-wiki/reagents/cofactors/ubiquinone">UBIQUINONE</a> Q8 (bound to DsbB, not directly to DsbA)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: E. coli
+- **Construct**: DsbA(Cys33Ala) variant expressed and purified from E. coli. Purified according to an improved protocol compared to the previously described procedure.
+
+**Purification:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Expression and purification</td>
+      <td>Expression and purification</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>DsbA(Cys33Ala) purified according to an improved protocol. Detailed protocol available in supplementary data.</td>
+    </tr>
+    <tr>
+      <td>Complex formation</td>
+      <td>In vitro complex formation</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>Purified DsbA(Cys33Ala) mixed with wtDsbB-Q8-enriched membrane suspension to form the mixed disulfide complex</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>wtDsbB-DsbA(Cys33Ala)-Q8 complex in nonylmaltoside</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not explicitly stated</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not explicitly stated</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not explicitly stated</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>None; crystals mounted in cryoloops and cryocooled by immersion into liquid nitrogen without additional cryoprotectant</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown and cryocooled without cryoprotectant. Crystallographic data collection, structure solution and refinement described in supplementary data. Resolution same as the <a href="/xray-mp-wiki/proteins/dsbB">DSBB</a>(Cys130Ser)-DsbA(Cys33Ala)-Q8 complex structure.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3e9j">3E9J</a> — Chain B (0 TMs, non_tm)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">AQYEDGKQYTTLEKPVAGAPQVLEFFSFFCPHAYQFEEVLHISDNVKKKLPEGVKMTKYH</span></span>
+<span class="topo-line"><span class="topo-inside">VNFMGGDLGKDLTQAWAVAMALGVEDKVTVPLFEGVQKTQTIRSASDIRDVFINAGIKGE</span></span>
+<span class="topo-line"><span class="topo-inside">EYDAAWNSFVVKSLVAQQEKAAADVQLRGVPAMFVNGKYQLNPQGMDTSNMDVFVQQYAD</span></span>
+<span class="topo-line"><span class="topo-inside">TVKYLSEK</span><span class="topo-unknown">K</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>188</td>
+      <td>1</td>
+      <td>188</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>189</td>
+      <td>189</td>
+      <td>189</td>
+      <td>189</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3e9j">3E9J</a> — Chain C (4 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MLRFLNQASQGRG</span><span class="topo-outside">A</span><span class="topo-membrane">WLLMAFTALALELTALW</span><span class="topo-inside">FQHVMLLKPCVLCIYE</span><span class="topo-membrane">RVALFGVLGAALI</span></span>
+<span class="topo-line"><span class="topo-membrane">GAIAP</span><span class="topo-outside">KTPLR</span><span class="topo-membrane">YVAMVIWLYSAFRGVQ</span><span class="topo-inside">LTYEHTMLQLYPSPFATCDFMVRFPEWLPLDKWV</span></span>
+<span class="topo-line"><span class="topo-inside">PQVFVA</span><span class="topo-unknown">SGDCAERQWDFLGLE</span><span class="topo-inside">MPQW</span><span class="topo-membrane">LLGIFIAYLIVAVLVVI</span><span class="topo-unknown">SQPFKAKKRDLFGRHHHH</span></span>
+<span class="topo-line"><span class="topo-unknown">HH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>13</td>
+      <td>1</td>
+      <td>13</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>14</td>
+      <td>14</td>
+      <td>14</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>31</td>
+      <td>15</td>
+      <td>31</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>47</td>
+      <td>32</td>
+      <td>47</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>65</td>
+      <td>48</td>
+      <td>65</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>66</td>
+      <td>70</td>
+      <td>66</td>
+      <td>70</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>86</td>
+      <td>71</td>
+      <td>86</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>126</td>
+      <td>87</td>
+      <td>126</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>127</td>
+      <td>141</td>
+      <td>127</td>
+      <td>141</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>145</td>
+      <td>142</td>
+      <td>145</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td>162</td>
+      <td>146</td>
+      <td>162</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>163</td>
+      <td>182</td>
+      <td>163</td>
+      <td>182</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -71,7 +477,7 @@ DsbA is the central oxidant in the E. coli periplasmic oxidative protein folding
 
 ## Cross-References
 
-- [DsbB](/xray-mp-wiki/proteins/enzymes/dsbB/) — DsbB is the inner membrane quinone reductase that reoxidizes reduced DsbA, completing the oxidative protein folding cycle
-- [Ubiquinone](/xray-mp-wiki/reagents/cofactors/ubiquinone/) — Terminal electron acceptor in the DsbA-DsbB oxidative folding pathway
-- [Nonylmaltoside](/xray-mp-wiki/reagents/detergents/nonylmaltoside/) — Detergent used for solubilization of the DsbB-DsbA complex
-- [UBIQUINONE](/xray-mp-wiki/reagents/cofactors/ubiquinone) — Reagent used in this study
+- <a href="/xray-mp-wiki/proteins/enzymes/dsbB/">DsbB</a> — DsbB is the inner membrane quinone reductase that reoxidizes reduced DsbA, completing the oxidative protein folding cycle
+- <a href="/xray-mp-wiki/reagents/cofactors/ubiquinone/">Ubiquinone</a> — Terminal electron acceptor in the DsbA-DsbB oxidative folding pathway
+- <a href="/xray-mp-wiki/reagents/detergents/nonylmaltoside/">Nonylmaltoside</a> — Detergent used for solubilization of the DsbB-DsbA complex
+- <a href="/xray-mp-wiki/reagents/cofactors/ubiquinone">UBIQUINONE</a> — Reagent used in this study

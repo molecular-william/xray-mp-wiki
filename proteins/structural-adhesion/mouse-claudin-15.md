@@ -1,7 +1,7 @@
 ---
 title: "Mouse Claudin-15 (mCldn15)"
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -14,38 +14,212 @@ verified: false
 
 ## Overview
 
-Mouse claudin-15 (mCldn15) is a tight junction membrane protein belonging to the claudin family of tetraspanin-fold proteins. Claudins form the backbone of tight junction strands that regulate paracellular permeability in epithelial cell sheets. The crystal structure of a crystallization-optimized construct (mCldn15, with 33 C-terminal residues truncated and membrane-proximal cysteines substituted with alanines) was determined at 2.4 Å resolution using selenomethionine SAD phasing. The structure reveals a characteristic β-sheet fold comprising two extracellular segments (ECS1 and ECS2) anchored to a four-helix transmembrane bundle by a conserved W-GLW-C-C consensus motif. This work provides the first high-resolution view of a claudin family member and insights into the molecular architecture of tight junctions.
+Mouse claudin-15 (mCldn15) is a tight junction membrane protein belonging to the claudin family of tetraspanin-fold proteins. Claudins form the backbone of tight junction strands that regulate paracellular permeability in epithelial cell sheets. The crystal structure of a crystallization-optimized construct (mCldn15, with 33 C-terminal residues truncated and membrane-proximal cysteines substituted with alanines) was determined at 2.4 Å resolution using [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine/) SAD phasing. The structure reveals a characteristic β-sheet fold comprising two extracellular segments (ECS1 and ECS2) anchored to a four-helix transmembrane bundle by a conserved W-GLW-C-C consensus motif. This work provides the first high-resolution view of a claudin family member and insights into the molecular architecture of tight junctions.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1126##science.1248571 | 4P79 | 2.4 | — | mCldn15 (C-terminal 33 residues truncated, three membrane-proximal cysteines substituted with alanines) | None |
+### doi/10.1126##science.1248571
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4p79">4P79</a></td>
+      <td>2.4</td>
+      <td>—</td>
+      <td>mCldn15 (C-terminal 33 residues truncated, three membrane-proximal cysteines substituted with alanines)</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Sf9 insect cells (baculovirus)
 - **Construct**: mCldn15 — removed 33 residues from C-terminus; substituted membrane-proximal cysteines with alanines
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Protein purification</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>—</td>
+      <td></td>
+      <td>Purified in <a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a> neopentyl glycol (MNG) detergent</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Protein purification | Affinity chromatography | — |  | Purified in maltose neopentyl glycol (MNG) detergent |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP)</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystallized in monoolein-based LCP; structure determined by SeMet SAD phasing using microfocused synchrotron X-ray beam</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4p79">4P79</a> — Chain A (4 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">G</span><span class="topo-outside">SEFMSVA</span><span class="topo-membrane">VETFGFFMSALGLLMLGLTLSNSYW</span><span class="topo-inside">RVST</span><span class="topo-unknown">VHGNVITT</span><span class="topo-inside">NTIFENLWYSCATDS</span></span>
+<span class="topo-line"><span class="topo-inside">LGVSNCWDFP</span><span class="topo-unknown">SMLALS</span><span class="topo-inside">GYVQG</span><span class="topo-membrane">CRALMITAILLGFLGLFLGMVGL</span><span class="topo-outside">RATNVGNMDLSK</span><span class="topo-membrane">KAKL</span></span>
+<span class="topo-line"><span class="topo-membrane">LAIAGTLHILAGACGMVAISWYA</span><span class="topo-inside">VNITTDFFNPLYAGTKYELG</span><span class="topo-membrane">PALYLGWSASLLSILGG</span></span>
+<span class="topo-line"><span class="topo-membrane">ICVFSTAA</span><span class="topo-outside">AS</span><span class="topo-unknown">SKEEPATR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>1</td>
+      <td>-3</td>
+      <td>-3</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>8</td>
+      <td>-2</td>
+      <td>4</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>33</td>
+      <td>5</td>
+      <td>29</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>37</td>
+      <td>30</td>
+      <td>33</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>45</td>
+      <td>34</td>
+      <td>41</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>70</td>
+      <td>42</td>
+      <td>66</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>76</td>
+      <td>67</td>
+      <td>72</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>81</td>
+      <td>73</td>
+      <td>77</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>104</td>
+      <td>78</td>
+      <td>100</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>116</td>
+      <td>101</td>
+      <td>112</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>117</td>
+      <td>143</td>
+      <td>113</td>
+      <td>139</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>144</td>
+      <td>163</td>
+      <td>140</td>
+      <td>159</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>164</td>
+      <td>188</td>
+      <td>160</td>
+      <td>184</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>189</td>
+      <td>190</td>
+      <td>185</td>
+      <td>186</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>191</td>
+      <td>198</td>
+      <td>187</td>
+      <td>194</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1126##science.1248571
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Notes | Crystallized in monoolein-based LCP; structure determined by SeMet SAD phasing using microfocused synchrotron X-ray beam |
-
+</div>
 
 ## Biological / Functional Insights
 
@@ -72,6 +246,9 @@ Two variable regions (V1 in ECS1 and V2 in ECS2) with poorly conserved sequences
 
 ## Cross-References
 
-- [Claudin-Mediated Paracellular Ion Selectivity](/xray-mp-wiki/concepts/miscellaneous/claudin-paracellular-ion-selectivity/) — Related concept describing how claudin charge selectivity is determined by specific residues in the first extracellular domain
-- [Mouse Claudin-19 (mCldn19)](/xray-mp-wiki/proteins/mouse-claudin-19/) — Related claudin family member with similar tetraspanin fold, bound to C-CPE enterotoxin
-- [Tight Junction Architecture](/xray-mp-wiki/concepts/tight-junction-architecture/) — The claudin-15 structure provides the molecular basis for understanding tight junction strand formation
+- <a href="/xray-mp-wiki/concepts/miscellaneous/claudin-paracellular-ion-selectivity/">Claudin-Mediated Paracellular Ion Selectivity</a> — Related concept describing how claudin charge selectivity is determined by specific residues in the first extracellular domain
+- <a href="/xray-mp-wiki/proteins/mouse-claudin-19/">Mouse Claudin-19 (mCldn19)</a> — Related claudin family member with similar tetraspanin fold, bound to C-CPE enterotoxin
+- <a href="/xray-mp-wiki/concepts/tight-junction-architecture/">Tight Junction Architecture</a> — The claudin-15 structure provides the molecular basis for understanding tight junction strand formation
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/maltose/">Maltose</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/selenomethionine/">Selenomethionine (SeMet)</a> — Additive used in purification or crystallization buffers

@@ -1,7 +1,7 @@
 ---
 title: "NavSulP (Sulfitobacter pontiacus Voltage-Gated Sodium Channel)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -27,47 +27,578 @@ crystal structure at 3.2 A resolution. The 4HB connects directly to the inner
 helix of the pore domain and promotes the conformational change of the inner
 helix required for inactivation.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##ncomms1797 | 3VOU | 3.2 | P3121 | NaK-NavSulP C239 chimera channel (NavSulP C-terminal region grafted into NaK channel) | None |
+### doi/10.1038##ncomms1797
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3vou">3VOU</a></td>
+      <td>3.2</td>
+      <td>P3121</td>
+      <td>NaK-NavSulP C239 chimera channel (NavSulP C-terminal region grafted into NaK channel)</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli KRX strain (Promega)
 - **Construct**: Full-length NavSulP with C-terminal His-tag
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli KRX (Promega)
 - **Expression construct**: Full-length NavSulP with C-terminal His-tag
 - **Tag info**: C-terminal His-tag
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Protein expression</td>
+      <td>E. coli expression</td>
+      <td>—</td>
+      <td></td>
+      <td>Cells grown at 37 C to OD600 of 0.8, induced with 0.1% rhamnose, grown for 16 h at 18 C</td>
+    </tr>
+    <tr>
+      <td>Cell lysis</td>
+      <td>French Press</td>
+      <td>—</td>
+      <td>TBS (20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl)</td>
+      <td>Cells suspended in TBS buffer and lysed at 12,000 psi</td>
+    </tr>
+    <tr>
+      <td>Membrane collection</td>
+      <td>Ultracentrifugation</td>
+      <td>—</td>
+      <td>TBS</td>
+      <td>Membranes collected by centrifugation at 100,000g for 1 h at 4 C</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>—</td>
+      <td>TBS with 40 mM <a href="/xray-mp-wiki/reagents/detergents/cymal-6/">Cymal-6</a> (Anatrace) + 40 mM <a href="/xray-mp-wiki/reagents/detergents/cymal-6/">Cymal-6</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Cobalt <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>HIS-Select cobalt affinity gel (Sigma)</td>
+      <td>TBS + 3 mM <a href="/xray-mp-wiki/reagents/detergents/cymal-6/">Cymal-6</a> + 0.1 mg/ml <a href="/xray-mp-wiki/reagents/lipids/e-coli-polar-lipids/">E. coli Polar Lipids</a> + 3 mM <a href="/xray-mp-wiki/reagents/detergents/cymal-6/">Cymal-6</a></td>
+      <td>Washed with 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, eluted with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>Size-exclusion chromatography</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
+      <td>150 mM NaCl, 20 mM HEPES-NaOH pH 8.0 + 3 mM <a href="/xray-mp-wiki/reagents/detergents/cymal-6/">Cymal-6</a> + 0.1 mg/ml <a href="/xray-mp-wiki/reagents/lipids/e-coli-polar-lipids/">E. coli Polar Lipids</a> + 3 mM <a href="/xray-mp-wiki/reagents/detergents/cymal-6/">Cymal-6</a></td>
+      <td>Final purification step in gel filtration buffer</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Protein expression | E. coli expression | — |  | Cells grown at 37 C to OD600 of 0.8, induced with 0.1% rhamnose, grown for 16 h at 18 C |
-| Cell lysis | French Press | — | TBS (20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM NaCl) | Cells suspended in TBS buffer and lysed at 12,000 psi |
-| Membrane collection | Ultracentrifugation | — | TBS | Membranes collected by centrifugation at 100,000g for 1 h at 4 C |
-| Solubilization | Detergent solubilization | — | TBS with 40 mM [Cymal-6](/xray-mp-wiki/reagents/detergents/cymal-6/) (Anatrace) + 40 mM [Cymal-6](/xray-mp-wiki/reagents/detergents/cymal-6/) |  |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Cobalt [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | HIS-Select cobalt affinity gel (Sigma) | TBS + 3 mM [Cymal-6](/xray-mp-wiki/reagents/detergents/cymal-6/) + 0.1 mg/ml [E. coli Polar Lipids](/xray-mp-wiki/reagents/lipids/e-coli-polar-lipids/) + 3 mM [Cymal-6](/xray-mp-wiki/reagents/detergents/cymal-6/) | Washed with 10 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), eluted with 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
-| Size-exclusion chromatography | Size-exclusion chromatography | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | 150 mM NaCl, 20 mM HEPES-NaOH pH 8.0 + 3 mM [Cymal-6](/xray-mp-wiki/reagents/detergents/cymal-6/) + 0.1 mg/ml [E. coli Polar Lipids](/xray-mp-wiki/reagents/lipids/e-coli-polar-lipids/) + 3 mM [Cymal-6](/xray-mp-wiki/reagents/detergents/cymal-6/) | Final purification step in gel filtration buffer |
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Protein sample</td>
+      <td>NaK-NavSulP C239 chimera channel</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystal structure of the NaK-NavSulP C239 chimera at 3.2 A resolution. Space group P3121. Data collected at BL38B1 in SPring-8 with approval of JASRI (Proposal numbers 2009B1211, 2010A1270, 2010A1803, 2010B1232). Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using NaK structure (PDB 2AHY) as search model.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-## Crystallization
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3vou">3VOU</a> — Chain A (2 TMs, alpha)**
 
-### doi/10.1038##ncomms1797
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGS</span><span class="topo-outside">M</span><span class="topo-unknown">LSFILTLKRMLKACLRAW</span><span class="topo-outside">KDKEFQ</span><span class="topo-membrane">VLFVLTFLTLTSGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">LDALYFS</span></span>
+<span class="topo-line"><span class="topo-unknown">VVTLTTVGDG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGKVFTILYIFIGIGLVFGFI</span><span class="topo-outside">HKLAVNVQLPSILSNRKKETDA</span></span>
+<span class="topo-line"><span class="topo-outside">YRLEVMEKLEAIEKKLAEHSRQ</span><span class="topo-unknown">GSLVPR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>-2</td>
+      <td>0</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>1</td>
+      <td>1</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>22</td>
+      <td>2</td>
+      <td>19</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>28</td>
+      <td>20</td>
+      <td>25</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>26</td>
+      <td>45</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>53</td>
+      <td>46</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>70</td>
+      <td>51</td>
+      <td>67</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>77</td>
+      <td>68</td>
+      <td>74</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>98</td>
+      <td>75</td>
+      <td>95</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>142</td>
+      <td>96</td>
+      <td>139</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>148</td>
+      <td>140</td>
+      <td>145</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Protein sample | NaK-NavSulP C239 chimera channel |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Crystal structure of the NaK-NavSulP C239 chimera at 3.2 A resolution. Space group P3121. Data collected at BL38B1 in SPring-8 with approval of JASRI (Proposal numbers 2009B1211, 2010A1270, 2010A1803, 2010B1232). Structure solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) using NaK structure (PDB 2AHY) as search model. |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3vou">3VOU</a> — Chain B (2 TMs, alpha)**
 
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGS</span><span class="topo-outside">M</span><span class="topo-unknown">LSFILTLKRMLKACLRA</span><span class="topo-outside">WKDKEFQ</span><span class="topo-membrane">VLFVLTFLTLTSGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">LDALYFS</span></span>
+<span class="topo-line"><span class="topo-unknown">VVTLTTVGDG</span><span class="topo-inside">NFSPQTDF</span><span class="topo-membrane">GKVFTILYIFIGIGLVFGFI</span><span class="topo-outside">HKLAV</span><span class="topo-unknown">NVQ</span><span class="topo-outside">LPSILSNRKKETDA</span></span>
+<span class="topo-line"><span class="topo-outside">YRLEVMEKLEAIEKKLAEHSRQ</span><span class="topo-unknown">GSLVPR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>-2</td>
+      <td>0</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>1</td>
+      <td>1</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>21</td>
+      <td>2</td>
+      <td>18</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>28</td>
+      <td>19</td>
+      <td>25</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>26</td>
+      <td>45</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>53</td>
+      <td>46</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>70</td>
+      <td>51</td>
+      <td>67</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>78</td>
+      <td>68</td>
+      <td>75</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>98</td>
+      <td>76</td>
+      <td>95</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>103</td>
+      <td>96</td>
+      <td>100</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>106</td>
+      <td>101</td>
+      <td>103</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>107</td>
+      <td>142</td>
+      <td>104</td>
+      <td>139</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>148</td>
+      <td>140</td>
+      <td>145</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3vou">3VOU</a> — Chain C (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGS</span><span class="topo-outside">M</span><span class="topo-unknown">LSFILTLKRMLKACLRAW</span><span class="topo-outside">KDKEFQ</span><span class="topo-membrane">VLFVLTFLTLTSGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">LDALYFS</span></span>
+<span class="topo-line"><span class="topo-unknown">VVTLTTVGDG</span><span class="topo-inside">NFSPQTD</span><span class="topo-membrane">FGKVFTILYIFIGIGLVFGFI</span><span class="topo-outside">HKLAVNVQLPSILSNRKKETDA</span></span>
+<span class="topo-line"><span class="topo-outside">YRLEVMEKLEAIEKKLAEHSRQ</span><span class="topo-unknown">GSLVPR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>-2</td>
+      <td>0</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>1</td>
+      <td>1</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>22</td>
+      <td>2</td>
+      <td>19</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>28</td>
+      <td>20</td>
+      <td>25</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>26</td>
+      <td>45</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>53</td>
+      <td>46</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>70</td>
+      <td>51</td>
+      <td>67</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>77</td>
+      <td>68</td>
+      <td>74</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>98</td>
+      <td>75</td>
+      <td>95</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>142</td>
+      <td>96</td>
+      <td>139</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>148</td>
+      <td>140</td>
+      <td>145</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3vou">3VOU</a> — Chain D (2 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGS</span><span class="topo-outside">M</span><span class="topo-unknown">LSFILTLKRMLKACLRA</span><span class="topo-outside">WKDKEFQ</span><span class="topo-membrane">VLFVLTFLTLTSGTIFYSTV</span><span class="topo-inside">EGLRP</span><span class="topo-unknown">LDALYFS</span></span>
+<span class="topo-line"><span class="topo-unknown">VVTLTTVGDG</span><span class="topo-inside">NFSPQTDF</span><span class="topo-membrane">GKVFTILYIFIGIGLVFGFI</span><span class="topo-outside">HKLAV</span><span class="topo-unknown">NVQ</span><span class="topo-outside">LPSILSNRKKETDA</span></span>
+<span class="topo-line"><span class="topo-outside">YRLEVMEKLEAIEKKLAEHSRQ</span><span class="topo-unknown">GSLVPR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>-2</td>
+      <td>0</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>4</td>
+      <td>1</td>
+      <td>1</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>21</td>
+      <td>2</td>
+      <td>18</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>22</td>
+      <td>28</td>
+      <td>19</td>
+      <td>25</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>48</td>
+      <td>26</td>
+      <td>45</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>53</td>
+      <td>46</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>70</td>
+      <td>51</td>
+      <td>67</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>78</td>
+      <td>68</td>
+      <td>75</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>98</td>
+      <td>76</td>
+      <td>95</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>99</td>
+      <td>103</td>
+      <td>96</td>
+      <td>100</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>106</td>
+      <td>101</td>
+      <td>103</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>107</td>
+      <td>142</td>
+      <td>104</td>
+      <td>139</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>148</td>
+      <td>140</td>
+      <td>145</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -90,13 +621,13 @@ The 4HB involves specific intersubunit interactions, including a salt bridge of 
 
 ## Cross-References
 
-- [NavAb Bacterial Voltage-Gated Sodium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/navab/) — Prokaryotic voltage-gated sodium channel homolog from Arcobacter butzleri, used for structural comparison (PDB 3RVZ)
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
-- [KCSA](/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/) — Related protein structure
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers
-- [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) — Additive used in purification or crystallization buffers
-- [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) — Buffer component in purification or crystallization
-- [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) — Buffer component in purification or crystallization
-- [Cymal-6](/xray-mp-wiki/reagents/detergents/cymal-6/) — Detergent used in purification or crystallization
-- [E. coli Polar Lipids](/xray-mp-wiki/reagents/lipids/e-coli-polar-lipids/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/navab/">NavAb Bacterial Voltage-Gated Sodium Channel</a> — Prokaryotic voltage-gated sodium channel homolog from Arcobacter butzleri, used for structural comparison (PDB 3RVZ)
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/">KCSA</a> — Related protein structure
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/buffers/glycine/">Glycine</a> — Buffer component in purification or crystallization
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> — Buffer component in purification or crystallization
+- <a href="/xray-mp-wiki/reagents/detergents/cymal-6/">Cymal-6</a> — Detergent used in purification or crystallization
+- <a href="/xray-mp-wiki/reagents/lipids/e-coli-polar-lipids/">E. coli Polar Lipids</a> — Additive used in purification or crystallization buffers

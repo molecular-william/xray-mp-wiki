@@ -1,7 +1,7 @@
 ---
 title: "Human Platelet-Activating Factor Receptor (PAFR)"
 created: 2018-05-28
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,51 +16,507 @@ verified: false
 
 The human platelet-activating factor receptor (PAFR) is a class A [G Protein](/xray-mp-wiki/concepts/signaling-receptors/gpcr-g-protein-coupling/)-coupled receptor that responds to platelet-activating factor (PAF), a phospholipid mediator of cell-to-cell communication involved in inflammation, immune responses, and cardiovascular regulation. The first crystal structures of PAFR were determined in complex with the antagonist SR 27417 at 2.8 A resolution (PDB 5ZKP) and the inverse agonist ABT-491 at 2.9 A resolution (PDB 5ZKQ) (Cao et al., 2018). The structures reveal an unusual conformation in the SR 27417-bound state, with the intracellular tips of helices II and IV shifting outward by 13 A and 4 A, respectively, and helix VIII adopting an inward conformation across the helical bundle. Combined with smFRET and functional assays, the structures suggest that the conformational change in the helical bundle is ligand dependent and plays a critical role in PAFR activation.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##s41594-018-0068-y | 5ZKP | 2.8 A | P 21 21 21 | Human PAFR with ICL3 replaced by residues 2-148 of modified flavodoxin (P2A Y98W), C-terminal truncation (C317-N342 removed), five point mutations (F116Y, N169D, A230D, V234A, D289N), N-terminal HA signal peptide, C-terminal PreScission site and decahistidine/FLAG tag | SR 27417 (antagonist) |
-| doi/10.1038##s41594-018-0068-y | 5ZKQ | 2.9 A | P 21 21 21 | Human PAFR with ICL3 replaced by mT4L fusion, C-terminal truncation (C317-N342 removed), five point mutations (F116Y, N169D, A230D, V234A, D289N), N-terminal HA signal peptide, C-terminal PreScission site and decahistidine/FLAG tag | ABT-491 (inverse agonist) |
+### doi/10.1038##s41594-018-0068-y
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5zkp">5ZKP</a></td>
+      <td>2.8 A</td>
+      <td>P 21 21 21</td>
+      <td>Human PAFR with ICL3 replaced by residues 2-148 of modified flavodoxin (P2A Y98W), C-terminal truncation (C317-N342 removed), five point mutations (F116Y, N169D, A230D, V234A, D289N), N-terminal HA signal peptide, C-terminal PreScission site and decahistidine/FLAG tag</td>
+      <td>SR 27417 (antagonist)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5zkq">5ZKQ</a></td>
+      <td>2.9 A</td>
+      <td>P 21 21 21</td>
+      <td>Human PAFR with ICL3 replaced by mT4L fusion, C-terminal truncation (C317-N342 removed), five point mutations (F116Y, N169D, A230D, V234A, D289N), N-terminal HA signal peptide, C-terminal PreScission site and decahistidine/FLAG tag</td>
+      <td>ABT-491 (inverse agonist)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: [Sf9](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) insect cells ([Baculovirus](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) expression system)
 - **Construct**: Human PAFR with ICL3 replaced by flavodoxin or mT4L fusion, C-terminal truncation (C317-N342), five point mutations (F116Y, N169D, A230D, V234A, D289N), N-terminal HA signal peptide, C-terminal PreScission site and decahistidine/FLAG tag
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Expression</td>
+      <td><a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/">Baculovirus</a> infection of <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/">Sf9</a> cells at MOI 5 for 48 h; 1 uM SR 27417 or ABT-491 added during expression</td>
+      <td>--</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 10 mM MgCl2, 20 mM KCl, EDTA-free <a href="/xray-mp-wiki/reagents/additives/protease-inhibitor-cocktail/">protease inhibitor cocktail</a> + --</td>
+      <td>Cells disrupted by hypotonic buffer and Dounce homogenization; extensive washing of membranes by repeated centrifugation</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>30 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 5 mM MgCl2, 10 mM KCl, 7.5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 25 uM ligand (SR 27417 or ABT-491), 1 mg/ml <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">iodoacetamide</a>, EDTA-free <a href="/xray-mp-wiki/reagents/additives/protease-inhibitor-cocktail/">protease inhibitor cocktail</a> + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">cholesterol hemisuccinate (CHS)</a></td>
+      <td>Membranes solubilized at 0.5% DDM + 0.1% CHS</td>
+    </tr>
+    <tr>
+      <td>Affinity purification</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">IMAC</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC resin (Clontech)</td>
+      <td>Same as solubilization buffer with ligand + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Imidazole removed via PD MiniTrap G-25 column after elution</td>
+    </tr>
+    <tr>
+      <td>Tag cleavage</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission protease</a> cleavage (overnight)</td>
+      <td>--</td>
+      <td>Same as solubilization buffer + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Histidine-tagged PreScission protease (30 ul) treated overnight to remove C-terminal His tag</td>
+    </tr>
+    <tr>
+      <td>Negative purification</td>
+      <td>Negative <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> purification</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> superflow resin (Qiagen)</td>
+      <td>Same as solubilization buffer + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Cleaved His tag and PreScission protease removed by passage through Ni-NTA resin</td>
+    </tr>
+    <tr>
+      <td>Concentration</td>
+      <td>Concentration by ultrafiltration</td>
+      <td>--</td>
+      <td>Same as solubilization buffer + 0.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.1% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>PAFR-flavodoxin concentrated to 30-40 mg/ml; PAFR-mT4L concentrated to 40-45 mg/ml; Vivaspin concentrator with 100 kDa MWCO</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression | [Baculovirus](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) infection of [Sf9](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) cells at MOI 5 for 48 h; 1 uM SR 27417 or ABT-491 added during expression | -- | 10 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 10 mM MgCl2, 20 mM KCl, EDTA-free [protease inhibitor cocktail](/xray-mp-wiki/reagents/additives/protease-inhibitor-cocktail/) + -- | Cells disrupted by hypotonic buffer and Dounce homogenization; extensive washing of membranes by repeated centrifugation |
-| Solubilization | Detergent solubilization | -- | 30 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 5 mM MgCl2, 10 mM KCl, 7.5% [glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 25 uM ligand (SR 27417 or ABT-491), 1 mg/ml [iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/), EDTA-free [protease inhibitor cocktail](/xray-mp-wiki/reagents/additives/protease-inhibitor-cocktail/) + 0.5% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% [cholesterol hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Membranes solubilized at 0.5% DDM + 0.1% CHS |
-| Affinity purification | [TALON](/xray-mp-wiki/reagents/additives/talon/) [IMAC](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC resin (Clontech) | Same as solubilization buffer with ligand + 0.5% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Imidazole removed via PD MiniTrap G-25 column after elution |
-| Tag cleavage | [PreScission protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) cleavage (overnight) | -- | Same as solubilization buffer + 0.5% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Histidine-tagged PreScission protease (30 ul) treated overnight to remove C-terminal His tag |
-| Negative purification | Negative [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) purification | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) superflow resin (Qiagen) | Same as solubilization buffer + 0.5% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Cleaved His tag and PreScission protease removed by passage through Ni-NTA resin |
-| Concentration | Concentration by ultrafiltration | -- | Same as solubilization buffer + 0.5% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | PAFR-flavodoxin concentrated to 30-40 mg/ml; PAFR-mT4L concentrated to 40-45 mg/ml; Vivaspin concentrator with 100 kDa MWCO |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic cubic phase</a> (LCP) crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>PAFR-flavodoxin (for SR 27417 complex) or PAFR-mT4L (for ABT-491 complex), concentrated to 30-45 mg/ml in purification buffer</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>2-3 weeks</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Reservoirs with 32-40% PEG 400; crystals flash-cooled in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Protein reconstituted into LCP with <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a>.
+PAFR-SR 27417 (flavodoxin fusion): 30-40 mg/ml, 28-30% PEG 400, 100 mM Na <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate</a>
+pH 5.0, 100 mM Na malonate pH 7.0, 100 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, no sarcosine. PAFR-ABT-491
+(mT4L fusion): 40-45 mg/ml, 30-32% PEG 400, 100 mM Na <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate</a> pH 5.0, 100 mM
+Na malonate pH 7.0, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 3% sarcosine. Data merged from 36 crystals
+(SR 27417) and 52 crystals (ABT-491) due to radiation damage.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5zkp">5ZKP</a> — Chain A (7 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GAPEPHD</span><span class="topo-outside">SSHMDSEFRYTL</span><span class="topo-membrane">FPIVYSIIFVLGVIANGYVLWVFAR</span><span class="topo-inside">LYPCKKFN</span><span class="topo-membrane">EIKIFMVN</span></span>
+<span class="topo-line"><span class="topo-membrane">LTMADMLFLITLPLWI</span><span class="topo-outside">VYYQNQGNWILPKFLCN</span><span class="topo-membrane">VAGCLFFINTYCSVAFLGVITYNRY</span><span class="topo-inside">QA</span></span>
+<span class="topo-line"><span class="topo-inside">VTRPI</span><span class="topo-unknown">KTAQANTRKRGISL</span><span class="topo-inside">S</span><span class="topo-membrane">LVIWVAIVGAASYFL</span><span class="topo-outside">ILDSTNTVPDSAGSGDVTRCFEHYE</span></span>
+<span class="topo-line"><span class="topo-outside">KGSVPV</span><span class="topo-membrane">LIIHIFIVFSFFLVFLIILFCNLVII</span><span class="topo-inside">RTLLMQAKALIVYGSTTGNTEYTAETIA</span></span>
+<span class="topo-line"><span class="topo-inside">RELADAGYEVDSRDAASVEAGGLFEGFDLVLLGCSTWGDDSIELQDDFIPLFDSLEETGA</span></span>
+<span class="topo-line"><span class="topo-inside">QGRKVACFGCGDSSWEYFCGAVDAIEEKLKNLGAEIVQDGLRIDGDPRAARDDIVGWAHD</span></span>
+<span class="topo-line"><span class="topo-inside">VRGAIAEVKRRDL</span><span class="topo-membrane">WMACTVLAVFIICFVPHHVVQLPW</span><span class="topo-outside">TLAELGFQDSKFHQAINDA</span><span class="topo-membrane">HQVT</span></span>
+<span class="topo-line"><span class="topo-membrane">LCLLSTNCVLNPVIYCFLTK</span><span class="topo-inside">KFRKHLTEKFYSMRSSR</span><span class="topo-unknown">KEFLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>7</td>
+      <td>-1</td>
+      <td>5</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>19</td>
+      <td>6</td>
+      <td>17</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>20</td>
+      <td>44</td>
+      <td>18</td>
+      <td>42</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>52</td>
+      <td>43</td>
+      <td>50</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>76</td>
+      <td>51</td>
+      <td>74</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>93</td>
+      <td>75</td>
+      <td>91</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>118</td>
+      <td>92</td>
+      <td>116</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>119</td>
+      <td>125</td>
+      <td>117</td>
+      <td>123</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>126</td>
+      <td>139</td>
+      <td>124</td>
+      <td>137</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>140</td>
+      <td>140</td>
+      <td>138</td>
+      <td>138</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>141</td>
+      <td>155</td>
+      <td>139</td>
+      <td>153</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>156</td>
+      <td>186</td>
+      <td>154</td>
+      <td>184</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>187</td>
+      <td>212</td>
+      <td>185</td>
+      <td>210</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>213</td>
+      <td>218</td>
+      <td>211</td>
+      <td>216</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>219</td>
+      <td>365</td>
+      <td>1001</td>
+      <td>1147</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>366</td>
+      <td>373</td>
+      <td>224</td>
+      <td>231</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>374</td>
+      <td>397</td>
+      <td>232</td>
+      <td>255</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>398</td>
+      <td>416</td>
+      <td>256</td>
+      <td>274</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>417</td>
+      <td>440</td>
+      <td>275</td>
+      <td>298</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>441</td>
+      <td>457</td>
+      <td>299</td>
+      <td>315</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>458</td>
+      <td>466</td>
+      <td>316</td>
+      <td>324</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##s41594-018-0068-y
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5zkq">5ZKQ</a> — Chain A (7 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | [Lipidic cubic phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (LCP) crystallization |
-| Protein sample | PAFR-flavodoxin (for SR 27417 complex) or PAFR-mT4L (for ABT-491 complex), concentrated to 30-45 mg/ml in purification buffer |
-| Temperature | 20 C |
-| Growth time | 2-3 weeks |
-| Cryoprotection | Reservoirs with 32-40% PEG 400; crystals flash-cooled in liquid nitrogen |
-| Notes | Protein reconstituted into LCP with [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/).
-PAFR-SR 27417 (flavodoxin fusion): 30-40 mg/ml, 28-30% PEG 400, 100 mM Na citrate
-pH 5.0, 100 mM Na malonate pH 7.0, 100 mM imidazole, no sarcosine. PAFR-ABT-491
-(mT4L fusion): 40-45 mg/ml, 30-32% PEG 400, 100 mM Na citrate pH 5.0, 100 mM
-Na malonate pH 7.0, 20 mM imidazole, 3% sarcosine. Data merged from 36 crystals
-(SR 27417) and 52 crystals (ABT-491) due to radiation damage. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GAPEP</span><span class="topo-outside">HDSSHMDSEFRYT</span><span class="topo-membrane">LFPIVYSIIFVLGVIANGYVLWVFA</span><span class="topo-inside">RL</span><span class="topo-unknown">YPCKK</span><span class="topo-inside">FNEIK</span><span class="topo-membrane">IFMVN</span></span>
+<span class="topo-line"><span class="topo-membrane">LTMADMLFLITLPLWIVYY</span><span class="topo-outside">QNQGNWIL</span><span class="topo-membrane">PKFLCNVAGCLFFINTYCSVAFLGVITY</span><span class="topo-inside">NRYQA</span></span>
+<span class="topo-line"><span class="topo-inside">VTRP</span><span class="topo-unknown">IKTA</span><span class="topo-inside">QANTRKRG</span><span class="topo-membrane">ISLSLVIWVAIVGAASYFLIL</span><span class="topo-outside">DSTNTVPDSAGSGDVTRCFEHYE</span></span>
+<span class="topo-line"><span class="topo-outside">KGSV</span><span class="topo-membrane">PVLIIHIFIVFSFFLVFLIILFCNL</span><span class="topo-inside">VIIRTLLMQP</span><span class="topo-unknown">VNIFEMLRIDEGGGSGGDEAE</span></span>
+<span class="topo-line"><span class="topo-unknown">KLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQK</span></span>
+<span class="topo-line"><span class="topo-unknown">RWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAY</span><span class="topo-inside">AEVKRRDLW</span><span class="topo-membrane">MACTVLAVFIICFV</span></span>
+<span class="topo-line"><span class="topo-membrane">PHHVVQLPWTL</span><span class="topo-outside">AELGFQDSKFHQA</span><span class="topo-membrane">INDAHQVTLCLLSTNCVLNPVIYCF</span><span class="topo-inside">LT</span><span class="topo-unknown">KKFRKHLTE</span></span>
+<span class="topo-line"><span class="topo-unknown">KFYSMRSSRKEFLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>-1</td>
+      <td>3</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>18</td>
+      <td>4</td>
+      <td>16</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>43</td>
+      <td>17</td>
+      <td>41</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>45</td>
+      <td>42</td>
+      <td>43</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>50</td>
+      <td>44</td>
+      <td>48</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>55</td>
+      <td>49</td>
+      <td>53</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>79</td>
+      <td>54</td>
+      <td>77</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>87</td>
+      <td>78</td>
+      <td>85</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>88</td>
+      <td>115</td>
+      <td>86</td>
+      <td>113</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>124</td>
+      <td>114</td>
+      <td>122</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>125</td>
+      <td>128</td>
+      <td>123</td>
+      <td>126</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>129</td>
+      <td>136</td>
+      <td>127</td>
+      <td>134</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>137</td>
+      <td>157</td>
+      <td>135</td>
+      <td>155</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>158</td>
+      <td>184</td>
+      <td>156</td>
+      <td>182</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>185</td>
+      <td>209</td>
+      <td>183</td>
+      <td>207</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>210</td>
+      <td>219</td>
+      <td>208</td>
+      <td>217</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>338</td>
+      <td>346</td>
+      <td>224</td>
+      <td>232</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>347</td>
+      <td>371</td>
+      <td>233</td>
+      <td>257</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>372</td>
+      <td>384</td>
+      <td>258</td>
+      <td>270</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>385</td>
+      <td>409</td>
+      <td>271</td>
+      <td>295</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>410</td>
+      <td>411</td>
+      <td>296</td>
+      <td>297</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>412</td>
+      <td>438</td>
+      <td>298</td>
+      <td>324</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
 
 ## Biological / Functional Insights
 
@@ -87,17 +543,17 @@ Molecular docking of PAF into the PAFR-SR 27417 structure revealed that the sn-1
 
 ## Cross-References
 
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent (0.5%) used for membrane solubilization and purification
-- [Cholesteryl Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Stabilizing additive (0.1%) used with DDM in purification buffers
-- [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer (30 mM, pH 7.5) used in purification and crystallization
-- [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/) — Salt (150 mM) included in purification buffer
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Cryoprotectant/stabilizer (7.5%) in purification buffer
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid used for LCP crystallization matrix
-- [Lipidic Cubic Phase (LCP) Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used for both PAFR complexes
-- [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Protein expressed in Sf9 cells using baculovirus system
-- [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Expression host for recombinant PAFR production
-- [TALON IMAC Resin](/xray-mp-wiki/reagents/additives/talon/) — Used for affinity purification of PAFR
-- [Ni-NTA Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) — Used for negative purification after tag cleavage
-- [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) — Added (1 mg/ml) during solubilization
-- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — PAFR structures reveal ligand-dependent conformational changes in helical bundle
-- [Bovine Rhodopsin](/xray-mp-wiki/proteins/gpcr/bovine-rhodopsin/) — Prototypical class A GPCR for structural comparison
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Detergent (0.5%) used for membrane solubilization and purification
+- <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesteryl Hemisuccinate (CHS)</a> — Stabilizing additive (0.1%) used with DDM in purification buffers
+- <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> — Buffer (30 mM, pH 7.5) used in purification and crystallization
+- <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride (NaCl)</a> — Salt (150 mM) included in purification buffer
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Cryoprotectant/stabilizer (7.5%) in purification buffer
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — Lipid used for LCP crystallization matrix
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase (LCP) Crystallization</a> — LCP method used for both PAFR complexes
+- <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/">Baculovirus Expression System</a> — Protein expressed in Sf9 cells using baculovirus system
+- <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/">Sf9 Insect Cells</a> — Expression host for recombinant PAFR production
+- <a href="/xray-mp-wiki/reagents/additives/talon/">TALON IMAC Resin</a> — Used for affinity purification of PAFR
+- <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Resin</a> — Used for negative purification after tag cleavage
+- <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">Iodoacetamide</a> — Added (1 mg/ml) during solubilization
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/">GPCR Active Conformation</a> — PAFR structures reveal ligand-dependent conformational changes in helical bundle
+- <a href="/xray-mp-wiki/proteins/gpcr/bovine-rhodopsin/">Bovine Rhodopsin</a> — Prototypical class A GPCR for structural comparison

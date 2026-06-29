@@ -1,7 +1,7 @@
 ---
 title: "AqpM (Aquaporin from Methanothermobacter marburgensis)"
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -18,46 +18,752 @@ AqpM is the aquaporin from the methanogenic archaeon Methanothermobacter marburg
 
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.0509469102 | 2F2B | 1.68 A | P4₁2₁2 | Full-length AqpM from Methanothermobacter marburgensis with N-terminal 10-His tag removed by Factor Xa digestion | Water and glycerol molecules in the channel; two octyl-β-D-glucoside (OG) detergent molecules (low-resolution structure only) |
+### doi/10.1073##pnas.0509469102
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2f2b">2F2B</a></td>
+      <td>1.68 A</td>
+      <td>P4₁2₁2</td>
+      <td>Full-length AqpM from Methanothermobacter marburgensis with N-terminal 10-His tag removed by Factor Xa digestion</td>
+      <td>Water and glycerol molecules in the channel; two octyl-β-D-glucoside (OG) detergent molecules (low-resolution structure only)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli, recombinant expression
 - **Construct**: Full-length AqpM with N-terminal 10-His tag and Factor Xa cleavage site
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td><a href="/xray-mp-wiki/methods/cell-lysis/french-press/">Microfluidizer</a> (3 cycles, 15,000–18,000 psi at 4°C)</td>
+      <td>--</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.4, 300 mM NaCl, 1 mM PMSF</td>
+      <td>Cells lysed in solubilization buffer</td>
+    </tr>
+    <tr>
+      <td>Membrane recovery</td>
+      <td><a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">Ultracentrifugation</a></td>
+      <td>--</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.4, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 300 mM NaCl, 1 mM PMSF</td>
+      <td>138,000 × g for 1 h</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Solubilization in octyl-β-D-glucoside (<a href="/xray-mp-wiki/reagents/detergents/og/">OG</a>)</td>
+      <td>--</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.4, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 300 mM NaCl, 1 mM PMSF, 5.0% OG</td>
+      <td>Incubated at 4°C for 3 h with stirring</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Immobilized metal affinity chromatography</a> (Co²⁺-Sepharose)</td>
+      <td>Co²⁺-Sepharose</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.4, 300 mM NaCl, 1.2% OG, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 50 mM (wash) / 300 mM (elution) <a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a></td>
+      <td>Batch binding overnight at 4°C; elution with <a href="/xray-mp-wiki/reagents/buffers/imidazole/">imidazole</a> gradient</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+      <td>Size-exclusion column</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.4, 100 mM NaCl, 1.2% OG</td>
+      <td>After tag cleavage by Factor Xa, another <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> step was performed</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Microfluidizer (3 cycles, 15,000–18,000 psi at 4°C) | -- | 50 mM Tris pH 7.4, 300 mM NaCl, 1 mM PMSF | Cells lysed in solubilization buffer |
-| Membrane recovery | Ultracentrifugation | -- | 50 mM Tris pH 7.4, 10% glycerol, 300 mM NaCl, 1 mM PMSF | 138,000 × g for 1 h |
-| Solubilization | Solubilization in octyl-β-D-glucoside (OG) | -- | 50 mM Tris pH 7.4, 10% glycerol, 300 mM NaCl, 1 mM PMSF, 5.0% OG | Incubated at 4°C for 3 h with stirring |
-| Affinity chromatography | Immobilized metal affinity chromatography (Co²⁺-Sepharose) | Co²⁺-Sepharose | 50 mM Tris pH 7.4, 300 mM NaCl, 1.2% OG, 10% glycerol, 50 mM (wash) / 300 mM (elution) imidazole | Batch binding overnight at 4°C; elution with imidazole gradient |
-| Size-exclusion chromatography | SEC | Size-exclusion column | 50 mM Hepes pH 7.4, 100 mM NaCl, 1.2% OG | After tag cleavage by Factor Xa, another SEC step was performed |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting-drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">vapor diffusion</a> (<a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> screen)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified AqpM at ~10 mg/ml in 50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.4, 100 mM NaCl, 1.2% OG</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>100 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 9.0, 100 mM NaCl, 20% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG 4000</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>22 °C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>2-3 days to appear, ~2 weeks to full size (200-300 μm along c axis)</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a> in reservoir</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Best crystals grew from protein samples dialyzed to avoid phase separation. Crystal form is tetragonal. Highest diffracting crystal grew in <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 8.5, 200 mM MgCl₂, 23% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG 4000</a>. Data collected at ALS Beamline 8.3.1. Two structures determined: low-resolution (2.3 Å) from a crystal in the detergent-rich phase, and high-resolution (1.68 Å) from a dialyzed sample with no phase separation.
+</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2f2b">2F2B</a> — Chain A (6 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">MVSLTKR</span><span class="topo-membrane">CIAEFIGTFILVFFGAGS</span><span class="topo-inside">AAVTLMIASGGTSPNPFNIGIGLLGGLGDW</span><span class="topo-membrane">VAIGL</span></span>
+<span class="topo-line"><span class="topo-membrane">AFGFAIAASIYALG</span><span class="topo-outside">NISG</span><span class="topo-unknown">CHINPAVTIGLWS</span><span class="topo-outside">VKKFPGREV</span><span class="topo-membrane">VPYIIAQLLGAAFGSFIF</span><span class="topo-inside">LQ</span></span>
+<span class="topo-line"><span class="topo-inside">CAGIGAATVGGLGATAPFPGISYWQA</span><span class="topo-membrane">MLAEVVGTFLLMITIMGI</span><span class="topo-outside">AVDERAPKGF</span><span class="topo-membrane">AGIIIG</span></span>
+<span class="topo-line"><span class="topo-membrane">LTVAGIITTLG</span><span class="topo-inside">NIS</span><span class="topo-unknown">GSSLNPARTFGPYLN</span><span class="topo-inside">DMIFAGTDLWNYY</span><span class="topo-membrane">SIYVIGPIVGAVLAALTY</span></span>
+<span class="topo-line"><span class="topo-outside">QYLTS</span><span class="topo-unknown">E</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>7</td>
+      <td>1</td>
+      <td>7</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>25</td>
+      <td>8</td>
+      <td>25</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>55</td>
+      <td>26</td>
+      <td>55</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>74</td>
+      <td>56</td>
+      <td>74</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>78</td>
+      <td>75</td>
+      <td>78</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>91</td>
+      <td>79</td>
+      <td>91</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>100</td>
+      <td>92</td>
+      <td>100</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>118</td>
+      <td>101</td>
+      <td>118</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>119</td>
+      <td>146</td>
+      <td>119</td>
+      <td>146</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>147</td>
+      <td>164</td>
+      <td>147</td>
+      <td>164</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>174</td>
+      <td>165</td>
+      <td>174</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>191</td>
+      <td>175</td>
+      <td>191</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>194</td>
+      <td>192</td>
+      <td>194</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>195</td>
+      <td>209</td>
+      <td>195</td>
+      <td>209</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>210</td>
+      <td>222</td>
+      <td>210</td>
+      <td>222</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>223</td>
+      <td>240</td>
+      <td>223</td>
+      <td>240</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>241</td>
+      <td>245</td>
+      <td>241</td>
+      <td>245</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>246</td>
+      <td>246</td>
+      <td>246</td>
+      <td>246</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1073##pnas.0509469102
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2f2b">2F2B</a> — Chain B (6 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Sitting-drop vapor diffusion (PEG screen) |
-| Protein sample | Purified AqpM at ~10 mg/ml in 50 mM Hepes pH 7.4, 100 mM NaCl, 1.2% OG |
-| Reservoir | 100 mM Tris pH 9.0, 100 mM NaCl, 20% PEG 4000, 10% glycerol |
-| Temperature | 22 °C |
-| Growth time | 2-3 days to appear, ~2 weeks to full size (200-300 μm along c axis) |
-| Cryoprotection | 10% glycerol in reservoir |
-| Notes | Best crystals grew from protein samples dialyzed to avoid phase separation. Crystal form is tetragonal. Highest diffracting crystal grew in Tris pH 8.5, 200 mM MgCl₂, 23% PEG 4000. Data collected at ALS Beamline 8.3.1. Two structures determined: low-resolution (2.3 Å) from a crystal in the detergent-rich phase, and high-resolution (1.68 Å) from a dialyzed sample with no phase separation.
- |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">MVSLTKR</span><span class="topo-membrane">CIAEFIGTFILVFFGAGS</span><span class="topo-inside">AAVTLMIASGGTSPNPFNIGIGLLGGLGDW</span><span class="topo-membrane">VAIGL</span></span>
+<span class="topo-line"><span class="topo-membrane">AFGFAIAASIYALG</span><span class="topo-outside">NISG</span><span class="topo-unknown">CHINPAVTIGLWS</span><span class="topo-outside">VKKFPGREV</span><span class="topo-membrane">VPYIIAQLLGAAFGSFIF</span><span class="topo-inside">LQ</span></span>
+<span class="topo-line"><span class="topo-inside">CAGIGAATVGGLGATAPFPGISYWQA</span><span class="topo-membrane">MLAEVVGTFLLMITIMGI</span><span class="topo-outside">AVDERAPKGF</span><span class="topo-membrane">AGIIIG</span></span>
+<span class="topo-line"><span class="topo-membrane">LTVAGIITTLG</span><span class="topo-inside">NIS</span><span class="topo-unknown">GSSLNPARTFGPYLN</span><span class="topo-inside">DMIFAGTDLWNYY</span><span class="topo-membrane">SIYVIGPIVGAVLAALTY</span></span>
+<span class="topo-line"><span class="topo-outside">QYLTS</span><span class="topo-unknown">E</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>7</td>
+      <td>1</td>
+      <td>7</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>25</td>
+      <td>8</td>
+      <td>25</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>55</td>
+      <td>26</td>
+      <td>55</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>74</td>
+      <td>56</td>
+      <td>74</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>78</td>
+      <td>75</td>
+      <td>78</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>91</td>
+      <td>79</td>
+      <td>91</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>100</td>
+      <td>92</td>
+      <td>100</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>118</td>
+      <td>101</td>
+      <td>118</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>119</td>
+      <td>146</td>
+      <td>119</td>
+      <td>146</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>147</td>
+      <td>164</td>
+      <td>147</td>
+      <td>164</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>174</td>
+      <td>165</td>
+      <td>174</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>191</td>
+      <td>175</td>
+      <td>191</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>194</td>
+      <td>192</td>
+      <td>194</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>195</td>
+      <td>209</td>
+      <td>195</td>
+      <td>209</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>210</td>
+      <td>222</td>
+      <td>210</td>
+      <td>222</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>223</td>
+      <td>240</td>
+      <td>223</td>
+      <td>240</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>241</td>
+      <td>245</td>
+      <td>241</td>
+      <td>245</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>246</td>
+      <td>246</td>
+      <td>246</td>
+      <td>246</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2f2b">2F2B</a> — Chain C (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">MVSLTKR</span><span class="topo-membrane">CIAEFIGTFILVFFGAGS</span><span class="topo-inside">AAVTLMIASGGTSPNPFNIGIGLLGGLGDW</span><span class="topo-membrane">VAIGL</span></span>
+<span class="topo-line"><span class="topo-membrane">AFGFAIAASIYALG</span><span class="topo-outside">NISG</span><span class="topo-unknown">CHINPAVTIGLWS</span><span class="topo-outside">VKKFPGREV</span><span class="topo-membrane">VPYIIAQLLGAAFGSFIF</span><span class="topo-inside">LQ</span></span>
+<span class="topo-line"><span class="topo-inside">CAGIGAATVGGLGATAPFPGISYWQA</span><span class="topo-membrane">MLAEVVGTFLLMITIMGI</span><span class="topo-outside">AVDERAPKGF</span><span class="topo-membrane">AGIIIG</span></span>
+<span class="topo-line"><span class="topo-membrane">LTVAGIITTLG</span><span class="topo-inside">NIS</span><span class="topo-unknown">GSSLNPARTFGPYLN</span><span class="topo-inside">DMIFAGTDLWNYY</span><span class="topo-membrane">SIYVIGPIVGAVLAALTY</span></span>
+<span class="topo-line"><span class="topo-outside">QYLTS</span><span class="topo-unknown">E</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>7</td>
+      <td>1</td>
+      <td>7</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>25</td>
+      <td>8</td>
+      <td>25</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>55</td>
+      <td>26</td>
+      <td>55</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>74</td>
+      <td>56</td>
+      <td>74</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>78</td>
+      <td>75</td>
+      <td>78</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>91</td>
+      <td>79</td>
+      <td>91</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>100</td>
+      <td>92</td>
+      <td>100</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>118</td>
+      <td>101</td>
+      <td>118</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>119</td>
+      <td>146</td>
+      <td>119</td>
+      <td>146</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>147</td>
+      <td>164</td>
+      <td>147</td>
+      <td>164</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>174</td>
+      <td>165</td>
+      <td>174</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>191</td>
+      <td>175</td>
+      <td>191</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>194</td>
+      <td>192</td>
+      <td>194</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>195</td>
+      <td>209</td>
+      <td>195</td>
+      <td>209</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>210</td>
+      <td>222</td>
+      <td>210</td>
+      <td>222</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>223</td>
+      <td>240</td>
+      <td>223</td>
+      <td>240</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>241</td>
+      <td>245</td>
+      <td>241</td>
+      <td>245</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>246</td>
+      <td>246</td>
+      <td>246</td>
+      <td>246</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2f2b">2F2B</a> — Chain D (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">MVSLTKR</span><span class="topo-membrane">CIAEFIGTFILVFFGAGS</span><span class="topo-inside">AAVTLMIASGGTSPNPFNIGIGLLGGLGDW</span><span class="topo-membrane">VAIGL</span></span>
+<span class="topo-line"><span class="topo-membrane">AFGFAIAASIYALG</span><span class="topo-outside">NISG</span><span class="topo-unknown">CHINPAVTIGLWS</span><span class="topo-outside">VKKFPGREV</span><span class="topo-membrane">VPYIIAQLLGAAFGSFIF</span><span class="topo-inside">LQ</span></span>
+<span class="topo-line"><span class="topo-inside">CAGIGAATVGGLGATAPFPGISYWQA</span><span class="topo-membrane">MLAEVVGTFLLMITIMGI</span><span class="topo-outside">AVDERAPKGF</span><span class="topo-membrane">AGIIIG</span></span>
+<span class="topo-line"><span class="topo-membrane">LTVAGIITTLG</span><span class="topo-inside">NIS</span><span class="topo-unknown">GSSLNPARTFGPYLN</span><span class="topo-inside">DMIFAGTDLWNYY</span><span class="topo-membrane">SIYVIGPIVGAVLAALTY</span></span>
+<span class="topo-line"><span class="topo-outside">QYLTS</span><span class="topo-unknown">E</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>7</td>
+      <td>1</td>
+      <td>7</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>25</td>
+      <td>8</td>
+      <td>25</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>55</td>
+      <td>26</td>
+      <td>55</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>74</td>
+      <td>56</td>
+      <td>74</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>78</td>
+      <td>75</td>
+      <td>78</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>91</td>
+      <td>79</td>
+      <td>91</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>92</td>
+      <td>100</td>
+      <td>92</td>
+      <td>100</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>118</td>
+      <td>101</td>
+      <td>118</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>119</td>
+      <td>146</td>
+      <td>119</td>
+      <td>146</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>147</td>
+      <td>164</td>
+      <td>147</td>
+      <td>164</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>174</td>
+      <td>165</td>
+      <td>174</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>191</td>
+      <td>175</td>
+      <td>191</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>194</td>
+      <td>192</td>
+      <td>194</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>195</td>
+      <td>209</td>
+      <td>195</td>
+      <td>209</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>210</td>
+      <td>222</td>
+      <td>210</td>
+      <td>222</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>223</td>
+      <td>240</td>
+      <td>223</td>
+      <td>240</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>241</td>
+      <td>245</td>
+      <td>241</td>
+      <td>245</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>246</td>
+      <td>246</td>
+      <td>246</td>
+      <td>246</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -84,7 +790,7 @@ AqpM contains the canonical aquaporin NPA (Asn-Pro-Ala) motifs (N82-P83-A84 from
 
 ## Cross-References
 
-- [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — AqpM is a member of the aquaporin superfamily; first structurally characterized archaeal aquaporin
-- [Aquaporin-1](/xray-mp-wiki/proteins/other-ion-channels/aqp1/) — Water-selective aquaporin used as comparison for selectivity filter dimensions and conductance
-- [Aquaporin Z (AqpZ)](/xray-mp-wiki/proteins/other-ion-channels/aquaporin-z/) — Bacterial water-specific aquaporin used for comparison of monomer-monomer interface
-- [GlpF (Glycerol Facilitator from E. coli)](/xray-mp-wiki/proteins/other-ion-channels/glpf/) — Aquaglyceroporin used as comparison for selectivity filter dimensions and tetramer stability
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/">Aquaporin Family</a> — AqpM is a member of the aquaporin superfamily; first structurally characterized archaeal aquaporin
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/aqp1/">Aquaporin-1</a> — Water-selective aquaporin used as comparison for selectivity filter dimensions and conductance
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/aquaporin-z/">Aquaporin Z (AqpZ)</a> — Bacterial water-specific aquaporin used for comparison of monomer-monomer interface
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/glpf/">GlpF (Glycerol Facilitator from E. coli)</a> — Aquaglyceroporin used as comparison for selectivity filter dimensions and tetramer stability

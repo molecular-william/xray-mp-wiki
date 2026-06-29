@@ -1,12 +1,12 @@
 ---
 title: "Angiotensin II Type 1 Receptor"
 created: 2026-05-27
-updated: 2026-06-10
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
-sources: [doi/10.1016##j.cell.2015.04.011, doi/10.1016##j.cell.2018.12.006, doi/10.1016##j.str.2019.12.003, doi/10.1038##nature22035, doi/10.1074##jbc.M115.689000, doi/10.1126##science.aay9813]
+sources: [doi/10.1074##jbc.M115.689000, doi/10.1016##j.cell.2015.04.011, doi/10.1016##j.cell.2018.12.006, doi/10.1126##science.aay9813]
 verified: false
 ---
 
@@ -17,134 +17,1648 @@ verified: false
 The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 1 receptor (AT1R) is a class A G protein-coupled receptor that serves as the primary regulator of blood pressure maintenance. AT1R mediates most of the physiological effects of [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/), the endogenous agonist, including vasoconstriction, aldosterone secretion, and sodium retention. The first crystal structure of AT1R was determined in complex with the inverse agonist [olmesartan](/xray-mp-wiki/reagents/ligands/olmesartan/) (Benicar) at 2.8 A resolution by conventional synchrotron cryo-crystallography (Zhang et al., 2015, JBC), revealing the molecular basis for ligand recognition and functional selectivity. A room temperature structure in complex with the antagonist [ZD7155](/xray-mp-wiki/reagents/ligands/zd7155/) was subsequently solved at 2.9 A using serial femtosecond crystallography. Dysregulation of AT1R signaling contributes to hypertension, cardiac hypertrophy, heart failure, and renal disease. AT1R is a major therapeutic target, with angiotensin receptor blockers (ARBs, or sartans) being among the most widely prescribed anti-hypertensive drugs worldwide.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1074##jbc.M115.689000 | 4ZUD | 2.8 | P32 | BRIL-AT1R fusion; N-terminal truncations: Met1, Thr7-Asp16; C-terminal truncation: residues 320-359 (4 residues shorter than construct used for 4YAY); HA signal sequence, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), 10x [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) (cleaved), TEV cleavage site | [Olmesartan](/xray-mp-wiki/reagents/ligands/olmesartan/) |
-| doi/10.1016##j.cell.2015.04.011 | 4YAY | 2.9 |  | BRIL-AT1R fusion; N-terminal truncations: residue 1, residues 7-16; C-terminal [Protein Truncation for Crystallography](/xray-mp-wiki/concepts/methods-techniques/truncation/): residues 320-359; HA signal sequence, FLAG tag, 10x His tag (cleaved), TEV cleavage site | [ZD7155](/xray-mp-wiki/reagents/ligands/zd7155/) |
-| doi/10.1016##j.cell.2018.12.006 | 6DO1 | 2.9 | P21212 | AT1R with BRIL inserted into ICL3 (residues 226-227); I320 stop codon; N-terminal HA signal sequence, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/); no N-terminal deletion | S1I8 (Sarcosine1,Isoleucine8-[Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/)) |
-| doi/10.1126##science.aay9813 | 6OS0 | 2.9 |  | AT1R-AT110i1 nanobody complex | Angiotensin II (AngII) |
-| doi/10.1126##science.aay9813 | 6OS1 | 2.9 |  | AT1R-AT110i1 nanobody complex | TRV023 |
-| doi/10.1126##science.aay9813 | 6OS2 | 2.9 |  | AT1R-AT110i1 nanobody complex | TRV026 |
+### doi/10.1074##jbc.M115.689000
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4zud">4ZUD</a></td>
+      <td>2.8</td>
+      <td>P32</td>
+      <td>BRIL-AT1R fusion; N-terminal truncations: Met1, Thr7-Asp16; C-terminal truncation: residues 320-359 (4 residues shorter than construct used for 4YAY); HA signal sequence, <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a>, 10x <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His Tag</a> (cleaved), TEV cleavage site</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/olmesartan/">Olmesartan</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Sf9 insect cells (Bac-to-Bac [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) expression system)
 - **Construct**: BRIL-AT1R chimera with N-terminal HA signal, FLAG, [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tags, TEV site
 - **Notes**: AT1R gene sequence optimized for insect cell expression. [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) (apocytochrome b562RIL, M7W, H102I, R106L) fused to N-terminus. Truncations: Met1, Thr7-Asp16, residues 320-359 after helix VIII. Full glycosylation retained (no PNGase F treatment).
 
 
-### Purification Workflow
-
-#### Source: doi/10.1074##jbc.M115.689000
+**Purification:**
 
 - **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/)
 - **Expression construct**: [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-AT1R chimera with HA/FLAG/His tags (olmesartan-bound)
 - **Tag info**: [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) (N-terminal, cleaved by TEV)
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell infection | [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) infection |  |  | 2-3 x 10^6 cells/mL infected with [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) at 27C, harvested at 48 hr |
-| Membrane preparation | Hypotonic and high osmotic buffer washes |  | Hypotonic: 10 mM HEPES pH 7.5, 10 mM MgCl2, 20 mM KCl; High osmotic: 10 mM HEPES pH 7.5, 1.0 M NaCl, 10 mM MgCl2, 20 mM KCl | Added EDTA-free protease inhibitor cocktail; membranes incubated with 100 uM [Olmesartan](/xray-mp-wiki/reagents/ligands/olmesartan/) for 1 h at 4C before solubilization |
-| Solubilization | Detergent solubilization |  | 50 mM HEPES pH 7.5, 500 mM NaCl + 1% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) + 0.2% CHS | BRIL-AT1R in complex with [Olmesartan](/xray-mp-wiki/reagents/ligands/olmesartan/) solubilized from membranes; buffer contained 20 uM [Olmesartan](/xray-mp-wiki/reagents/ligands/olmesartan/), 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) IMAC | 50 mM HEPES pH 7.5, 500 mM NaCl, 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 0.05% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) + 0.01% CHS | [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) capture; buffer contained [Olmesartan](/xray-mp-wiki/reagents/ligands/olmesartan/) 100 uM; wash with 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), elute with 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
-| Tag cleavage and deglycosylation | Protease and glycosidase treatment |  | 50 mM HEPES pH 7.5, 500 mM NaCl, 10% glycerol, 0.02% DDM, 0.004% CHS + 0.02% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) + 0.004% CHS | Overnight treatment with His-tagged [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) and PNGase F to cleave N-terminal tags and glycosylation sites |
-| Concentration | Centrifugal concentration |  |  | Concentrated to 30 mg/ml with [Vivaspin](/xray-mp-wiki/reagents/additives/vivaspin/) 100 kDa cutoff concentrator; monodispersity tested by analytical [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell infection</td>
+      <td><a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/">Baculovirus Expression System</a> infection</td>
+      <td></td>
+      <td></td>
+      <td>2-3 x 10^6 cells/mL infected with <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/">Baculovirus Expression System</a> at 27C, harvested at 48 hr</td>
+    </tr>
+    <tr>
+      <td>Membrane preparation</td>
+      <td>Hypotonic and high osmotic buffer washes</td>
+      <td></td>
+      <td>Hypotonic: 10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 10 mM MgCl2, 20 mM KCl; High osmotic: 10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 1.0 M NaCl, 10 mM MgCl2, 20 mM KCl</td>
+      <td>Added EDTA-free protease inhibitor cocktail; membranes incubated with 100 uM <a href="/xray-mp-wiki/reagents/ligands/olmesartan/">Olmesartan</a> for 1 h at 4C before solubilization</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 500 mM NaCl + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/bril/">BRIL</a>-AT1R in complex with <a href="/xray-mp-wiki/reagents/ligands/olmesartan/">Olmesartan</a> solubilized from membranes; buffer contained 20 uM <a href="/xray-mp-wiki/reagents/ligands/olmesartan/">Olmesartan</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON Cobalt Affinity Resin</a> <a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography/">IMAC</a></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 500 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His Tag</a> capture; buffer contained <a href="/xray-mp-wiki/reagents/ligands/olmesartan/">Olmesartan</a> 100 uM; wash with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, elute with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
+    </tr>
+    <tr>
+      <td>Tag cleavage and deglycosylation</td>
+      <td>Protease and glycosidase treatment</td>
+      <td></td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.5, 500 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">glycerol</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.004% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> + 0.02% <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> + 0.004% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>Overnight treatment with <a href="/xray-mp-wiki/reagents/protein-tags/his-tag">His-tag</a>ged <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease</a> and PNGase F to cleave N-terminal tags and glycosylation sites</td>
+    </tr>
+    <tr>
+      <td>Concentration</td>
+      <td>Centrifugal concentration</td>
+      <td></td>
+      <td></td>
+      <td>Concentrated to 30 mg/ml with <a href="/xray-mp-wiki/reagents/additives/vivaspin/">Vivaspin</a> 100 kDa cutoff concentrator; monodispersity tested by analytical <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a></td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: 30 mg/ml
 **Purity**: Tested by analytical [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)
 
-#### Source: doi/10.1016##j.cell.2015.04.011
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a>)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/bril/">BRIL</a>-AT1R + <a href="/xray-mp-wiki/reagents/ligands/olmesartan/">Olmesartan</a>, 30 mg/ml</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> supplemented with 10% <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a></td>
+    </tr>
+    <tr>
+      <td>Protein-to-lipid ratio</td>
+      <td>1:1</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Crystals appeared and grew over several weeks</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals harvested from <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> using micromounts; cryo-cooled at 100K. Data collected at GM/CA@APS (23ID-D), Advanced Photon Source, using 10 um minibeam at 1.0330 A wavelength, 1 s exposure, 1.0 oscillation. Detector: Pilatus3 6M. Space group P32, merohedral twinning (twin law h,k,l and k,h,-l) refined with phenix.xtriage and Refmac5. Single crystal of 70x70x15 um3, 4 non-overlapping spots used.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4zud">4ZUD</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">DLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKD</span></span>
+<span class="topo-line"><span class="topo-inside">FRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLILNSSDCPKAGRHN</span></span>
+<span class="topo-line"><span class="topo-inside">YIFV</span><span class="topo-membrane">MIPTLYSIIFVVGIFGNSLVVIVIYF</span><span class="topo-outside">YMKLKTV</span><span class="topo-membrane">ASVFLLNLALADLCFLLTLPLWA</span></span>
+<span class="topo-line"><span class="topo-membrane">V</span><span class="topo-inside">YTAMEYRWPFGNYLCK</span><span class="topo-membrane">IASASVSFNLYASVFLLTCLSIDRY</span><span class="topo-outside">LAIVHP</span><span class="topo-unknown">MKSRLRR</span><span class="topo-outside">TM</span><span class="topo-membrane">LVA</span></span>
+<span class="topo-line"><span class="topo-membrane">KVTCIIIWLLAGLASLPAI</span><span class="topo-inside">IHRNVFFIENTNITVCAFHYE</span><span class="topo-unknown">SQN</span><span class="topo-inside">STLPIG</span><span class="topo-membrane">LGLTKNILGFL</span></span>
+<span class="topo-line"><span class="topo-membrane">FPFLIILTSYTL</span><span class="topo-outside">IWKAL</span><span class="topo-unknown">KKAYEIQKNKPR</span><span class="topo-outside">NDDI</span><span class="topo-membrane">FKIIMAIVLFFFFSWIPHQIFTFL</span><span class="topo-inside">DVL</span></span>
+<span class="topo-line"><span class="topo-inside">IQLGIIRDCRIADIVDTA</span><span class="topo-membrane">MPITICIAYFNNCLNPLFYGF</span><span class="topo-unknown">LGKKFKRYFLQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>124</td>
+      <td>1002</td>
+      <td>29</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>125</td>
+      <td>150</td>
+      <td>30</td>
+      <td>55</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td>157</td>
+      <td>56</td>
+      <td>62</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>158</td>
+      <td>181</td>
+      <td>63</td>
+      <td>86</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>182</td>
+      <td>197</td>
+      <td>87</td>
+      <td>102</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>222</td>
+      <td>103</td>
+      <td>127</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>223</td>
+      <td>228</td>
+      <td>128</td>
+      <td>133</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>236</td>
+      <td>237</td>
+      <td>141</td>
+      <td>142</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>238</td>
+      <td>259</td>
+      <td>143</td>
+      <td>164</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>260</td>
+      <td>280</td>
+      <td>165</td>
+      <td>185</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>284</td>
+      <td>289</td>
+      <td>189</td>
+      <td>194</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>290</td>
+      <td>312</td>
+      <td>195</td>
+      <td>217</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>313</td>
+      <td>317</td>
+      <td>218</td>
+      <td>222</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>330</td>
+      <td>333</td>
+      <td>235</td>
+      <td>238</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>334</td>
+      <td>357</td>
+      <td>239</td>
+      <td>262</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>358</td>
+      <td>378</td>
+      <td>263</td>
+      <td>283</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>379</td>
+      <td>399</td>
+      <td>284</td>
+      <td>304</td>
+      <td>Membrane</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
+### doi/10.1016##j.cell.2015.04.011
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4yay">4YAY</a></td>
+      <td>2.9</td>
+      <td></td>
+      <td>BRIL-AT1R fusion; N-terminal truncations: residue 1, residues 7-16; C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallography</a>: residues 320-359; HA signal sequence, FLAG tag, 10x His tag (cleaved), TEV cleavage site</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/zd7155/">ZD7155</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Sf9 insect cells (Bac-to-Bac [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) expression system)
+- **Construct**: BRIL-AT1R chimera with N-terminal HA signal, FLAG, [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tags, TEV site
+- **Notes**: AT1R gene sequence optimized for insect cell expression. [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) (apocytochrome b562RIL, M7W, H102I, R106L) fused to N-terminus. Truncations: Met1, Thr7-Asp16, residues 320-359 after helix VIII. Full glycosylation retained (no PNGase F treatment).
+
+
+**Purification:**
 
 - **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/)
 - **Expression construct**: [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-AT1R chimera with HA/FLAG/His tags
 - **Tag info**: FLAG, [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) (N-terminal, cleaved by TEV)
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell infection | [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) infection |  |  | 2-3 x 10^6 cells/mL infected with [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) at 27C, harvested at 48 hr |
-| Membrane isolation | Cell lysis and membrane preparation |  |  | Isolated membranes from Sf9 cells |
-| Solubilization | Detergent solubilization |  | 1% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) + 0.2% CHS | BRIL-AT1R in complex with [ZD7155](/xray-mp-wiki/reagents/ligands/zd7155/) solubilized from membranes |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) IMAC | 1% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) + 0.2% CHS | [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) capture |
-| Desalting | Size exclusion (column) | PD MiniTrap G-25 |  | Remove [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
-| Tag cleavage | Protease cleavage |  |  | Overnight treatment with His-tagged [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) to cleave N-terminal FLAG/His |
-| Tag removal | [Immobilized Metal Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) flow-through | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) IMAC |  | Cleaved FLAG/His tags and [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) removed by TALON resin |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell infection</td>
+      <td><a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/">Baculovirus Expression System</a> infection</td>
+      <td></td>
+      <td></td>
+      <td>2-3 x 10^6 cells/mL infected with <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/">Baculovirus Expression System</a> at 27C, harvested at 48 hr</td>
+    </tr>
+    <tr>
+      <td>Membrane isolation</td>
+      <td>Cell lysis and membrane preparation</td>
+      <td></td>
+      <td></td>
+      <td>Isolated membranes from <a href="/xray-mp-wiki/methods/expression-systems/sf9-expression-system/">Sf9</a> cells</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td></td>
+      <td>1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/bril/">BRIL</a>-AT1R in complex with <a href="/xray-mp-wiki/reagents/ligands/zd7155/">ZD7155</a> solubilized from membranes</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON Cobalt Affinity Resin</a> <a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography/">IMAC</a></td>
+      <td>1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> + 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His Tag</a> capture</td>
+    </tr>
+    <tr>
+      <td>Desalting</td>
+      <td>Size exclusion (column)</td>
+      <td>PD MiniTrap G-25</td>
+      <td></td>
+      <td>Remove <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
+    </tr>
+    <tr>
+      <td>Tag cleavage</td>
+      <td>Protease cleavage</td>
+      <td></td>
+      <td></td>
+      <td>Overnight treatment with <a href="/xray-mp-wiki/reagents/protein-tags/his-tag">His-tag</a>ged <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease</a> to cleave N-terminal <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a>/His</td>
+    </tr>
+    <tr>
+      <td>Tag removal</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Immobilized Metal Affinity Chromatography</a> flow-through</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON Cobalt Affinity Resin</a> <a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography/">IMAC</a></td>
+      <td></td>
+      <td>Cleaved <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a>/<a href="/xray-mp-wiki/reagents/protein-tags/his-tag">His tag</a>s and <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease</a> removed by <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> resin</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: 30 mg/ml
 **Purity**: Tested by analytical [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)
 
-#### Source: doi/10.1016##j.cell.2018.12.006
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a>)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/bril/">BRIL</a>-AT1R + <a href="/xray-mp-wiki/reagents/ligands/zd7155/">ZD7155</a>, 30 mg/ml</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a></td>
+    </tr>
+    <tr>
+      <td>Protein-to-lipid ratio</td>
+      <td>1:1</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>2-4 weeks</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4yay">4YAY</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">A</span><span class="topo-inside">DLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKD</span></span>
+<span class="topo-line"><span class="topo-inside">FRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLILNSSDCPKAGRHN</span></span>
+<span class="topo-line"><span class="topo-inside">YIFVMI</span><span class="topo-membrane">PTLYSIIFVVGIFGNSLVVIVIYFYM</span><span class="topo-outside">KLKTV</span><span class="topo-membrane">ASVFLLNLALADLCFLLTLPLWA</span></span>
+<span class="topo-line"><span class="topo-inside">VYTAMEYRWPFGNYLCK</span><span class="topo-membrane">IASASVSFNLYASVFLLTCLSIDRY</span><span class="topo-outside">LAIVHPMKSRLRRTML</span><span class="topo-membrane">VA</span></span>
+<span class="topo-line"><span class="topo-membrane">KVTCIIIWLLAGLASLPAII</span><span class="topo-inside">HRNVFFI</span><span class="topo-unknown">ENTN</span><span class="topo-inside">ITVCAFHYE</span><span class="topo-unknown">SQNS</span><span class="topo-inside">TLPI</span><span class="topo-membrane">GLGLTKNILGFL</span></span>
+<span class="topo-line"><span class="topo-membrane">FPFLIILTSYTLIWK</span><span class="topo-outside">ALKK</span><span class="topo-unknown">AYEIQKNKPR</span><span class="topo-outside">NDD</span><span class="topo-membrane">IFKIIMAIVLFFFFSWIPHQIFTF</span><span class="topo-inside">LDVL</span></span>
+<span class="topo-line"><span class="topo-inside">IQLGIIRDCRIADIVDTAMP</span><span class="topo-membrane">ITICIAYFNNCLNPLFYGFLGK</span><span class="topo-unknown">KFKRYFLQL</span><span class="topo-outside">L</span><span class="topo-unknown">KY</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>126</td>
+      <td>1002</td>
+      <td>31</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>127</td>
+      <td>152</td>
+      <td>32</td>
+      <td>57</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>153</td>
+      <td>157</td>
+      <td>58</td>
+      <td>62</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>158</td>
+      <td>180</td>
+      <td>63</td>
+      <td>85</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>181</td>
+      <td>197</td>
+      <td>86</td>
+      <td>102</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>222</td>
+      <td>103</td>
+      <td>127</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>223</td>
+      <td>238</td>
+      <td>128</td>
+      <td>143</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>239</td>
+      <td>260</td>
+      <td>144</td>
+      <td>165</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>261</td>
+      <td>267</td>
+      <td>166</td>
+      <td>172</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>272</td>
+      <td>280</td>
+      <td>177</td>
+      <td>185</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>285</td>
+      <td>288</td>
+      <td>190</td>
+      <td>193</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>289</td>
+      <td>315</td>
+      <td>194</td>
+      <td>220</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>316</td>
+      <td>319</td>
+      <td>221</td>
+      <td>224</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>330</td>
+      <td>332</td>
+      <td>235</td>
+      <td>237</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>333</td>
+      <td>356</td>
+      <td>238</td>
+      <td>261</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>380</td>
+      <td>262</td>
+      <td>285</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>381</td>
+      <td>402</td>
+      <td>286</td>
+      <td>307</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>403</td>
+      <td>411</td>
+      <td>308</td>
+      <td>316</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>412</td>
+      <td>412</td>
+      <td>317</td>
+      <td>317</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
+### doi/10.1016##j.cell.2018.12.006
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6do1">6DO1</a></td>
+      <td>2.9</td>
+      <td>P21212</td>
+      <td>AT1R with BRIL inserted into ICL3 (residues 226-227); I320 stop codon; N-terminal HA signal sequence, <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a>; no N-terminal deletion</td>
+      <td>S1I8 (Sarcosine1,Isoleucine8-<a href="/xray-mp-wiki/reagents/ligands/angiotensin-ii/">Angiotensin II</a>)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Sf9 insect cells (Bac-to-Bac [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) expression system)
+- **Construct**: BRIL-AT1R chimera with N-terminal HA signal, FLAG, [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tags, TEV site
+- **Notes**: AT1R gene sequence optimized for insect cell expression. [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) (apocytochrome b562RIL, M7W, H102I, R106L) fused to N-terminus. Truncations: Met1, Thr7-Asp16, residues 320-359 after helix VIII. Full glycosylation retained (no PNGase F treatment).
+
+
+**Purification:**
 
 - **Expression system**: Expi293F mammalian cells (tetracycline-inducible)
 - **Expression construct**: AT1R with N-terminal HA signal, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), BRIL inserted into ICL3 (residues 226-227), I320 stop codon
 - **Tag info**: N-terminal HA signal, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/)
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture | Mammalian transient expression |  | Expi293F expression media | Tetracycline-inducible Expi293F cells; induced with 4 mg/mL doxycycline, 5 mM [Sodium Butyrate](/xray-mp-wiki/reagents/additives/sodium-butyrate/), 1 uM losartan |
-| Cell lysis | Hypotonic lysis |  | 10 mM Tris pH 7.4, 2 mM EDTA, 10 mM MgCl2, benzonase, [Benzamidine](/xray-mp-wiki/reagents/ligands/benzamidine/), leupeptin, 5 uM losartan | Frozen cell pellets lysed under hypotonic conditions at room temperature |
-| Membrane isolation | Centrifugation |  |  | 30,000 x g for 15 min |
-| Solubilization | Detergent solubilization |  | 20 mM HEPES pH 7.4, 500 mM NaCl, 10 mM MgCl2, benzonase, [Benzamidine](/xray-mp-wiki/reagents/ligands/benzamidine/), leupeptin, 5 uM losartan + 0.5% MNG + 0.05% [Cholesterol Hydrogen Succinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | 2 h stirring at room temperature then 4 C |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) affinity | [M1 FLAG Affinity Resin](/xray-mp-wiki/reagents/protein-tags/m1-flag-resin/) | 20 mM [HEPES (HEPES Buffer)](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.4, 500 mM NaCl, 0.01% MNG, 0.01% CHS, 2 mM CaCl2 + 0.01% MNG + 0.01% [Cholesterol Hydrogen Succinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | FLAG-tagged AT1R captured on [M1 FLAG Affinity Resin](/xray-mp-wiki/reagents/protein-tags/m1-flag-resin/) |
-| Elution | [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) peptide elution | [M1 FLAG Affinity Resin](/xray-mp-wiki/reagents/protein-tags/m1-flag-resin/) | 20 mM [HEPES (HEPES Buffer)](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.4, 500 mM NaCl, 0.01% MNG, 0.01% CHS, 0.2 mg/mL FLAG peptide, 5 mM EDTA + 0.01% MNG + 0.01% [Cholesterol Hydrogen Succinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | AT1R eluted with [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) peptide |
-| [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) | 20 mM [HEPES (HEPES Buffer)](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.4, 100 mM NaCl, 0.01% MNG, 0.001% CHS (HNM buffer) + 0.01% MNG + 0.001% [Cholesterol Hydrogen Succinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Monomeric [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/) isolated; for crystallography, treated with EndoH for 90 min prior to SEC |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture</td>
+      <td>Mammalian transient expression</td>
+      <td></td>
+      <td>Expi293F expression media</td>
+      <td>Tetracycline-inducible Expi293F cells; induced with 4 mg/mL doxycycline, 5 mM <a href="/xray-mp-wiki/reagents/additives/sodium-butyrate/">Sodium Butyrate</a>, 1 uM losartan</td>
+    </tr>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Hypotonic lysis</td>
+      <td></td>
+      <td>10 mM Tris pH 7.4, 2 mM EDTA, 10 mM MgCl2, benzonase, <a href="/xray-mp-wiki/reagents/ligands/benzamidine/">Benzamidine</a>, leupeptin, 5 uM losartan</td>
+      <td>Frozen cell pellets lysed under hypotonic conditions at room temperature</td>
+    </tr>
+    <tr>
+      <td>Membrane isolation</td>
+      <td>Centrifugation</td>
+      <td></td>
+      <td></td>
+      <td>30,000 x g for 15 min</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> pH 7.4, 500 mM NaCl, 10 mM MgCl2, benzonase, <a href="/xray-mp-wiki/reagents/ligands/benzamidine/">Benzamidine</a>, leupeptin, 5 uM losartan + 0.5% MNG + 0.05% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesterol Hydrogen Succinate (CHS)</a></td>
+      <td>2 h stirring at room temperature then 4 C</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a> affinity</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/m1-flag-resin/">M1 FLAG Affinity Resin</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES (HEPES Buffer)</a> pH 7.4, 500 mM NaCl, 0.01% MNG, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 2 mM CaCl2 + 0.01% MNG + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesterol Hydrogen Succinate (CHS)</a></td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a>-tagged AT1R captured on <a href="/xray-mp-wiki/reagents/protein-tags/m1-flag-resin/">M1 FLAG Affinity Resin</a></td>
+    </tr>
+    <tr>
+      <td>Elution</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a> peptide elution</td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/m1-flag-resin/">M1 FLAG Affinity Resin</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES (HEPES Buffer)</a> pH 7.4, 500 mM NaCl, 0.01% MNG, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 0.2 mg/mL <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG</a> peptide, 5 mM EDTA + 0.01% MNG + 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesterol Hydrogen Succinate (CHS)</a></td>
+      <td>AT1R eluted with <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag/">FLAG Tag</a> peptide</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES (HEPES Buffer)</a> pH 7.4, 100 mM NaCl, 0.01% MNG, 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> (HNM buffer) + 0.01% MNG + 0.001% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesterol Hydrogen Succinate (CHS)</a></td>
+      <td>Monomeric <a href="/xray-mp-wiki/proteins/gpcr/at1r/">Angiotensin II Type 1 Receptor</a> isolated; for crystallography, treated with EndoH for 90 min prior to <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a></td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: 30 uM
 **Purity**: Monomeric peak by [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)
 
+**Crystallization:**
 
-## Crystallization
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a>)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>AT1R-<a href="/xray-mp-wiki/reagents/protein-tags/bril/">BRIL</a>(ICL3) + S1I8 + Nb.AT110i1, 30 uM</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>10:1 <a href="/xray-mp-wiki/reagents/lipids/monoolein/">monoolein</a>:<a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a></td>
+    </tr>
+    <tr>
+      <td>Protein-to-lipid ratio</td>
+      <td>1.5:1 by mass</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>6-11 days</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-### doi/10.1074##jbc.M115.689000
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6do1">6DO1</a> — Chain A (7 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase ([Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
-| Protein sample | [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-AT1R + [Olmesartan](/xray-mp-wiki/reagents/ligands/olmesartan/), 30 mg/ml |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) supplemented with 10% [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
-| Protein-to-lipid ratio | 1:1 |
-| Temperature | 20 |
-| Growth time | Crystals appeared and grew over several weeks |
-| Notes | Crystals harvested from LCP using micromounts; cryo-cooled at 100K. Data collected at GM/CA@APS (23ID-D), Advanced Photon Source, using 10 um minibeam at 1.0330 A wavelength, 1 s exposure, 1.0 oscillation. Detector: Pilatus3 6M. Space group P32, merohedral twinning (twin law h,k,l and k,h,-l) refined with phenix.xtriage and Refmac5. Single crystal of 70x70x15 um3, 4 non-overlapping spots used. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">DYKDDDDKILNSSTE</span><span class="topo-inside">DGIKRIQDDCPKAGRHNY</span><span class="topo-membrane">IFVMIPTLYSIIFVVGIFGNSLVV</span><span class="topo-outside">IVI</span></span>
+<span class="topo-line"><span class="topo-outside">YFYMKLKTVASVF</span><span class="topo-membrane">LLNLALADLCFLLTLPLWAVYTA</span><span class="topo-inside">MEYRWPF</span><span class="topo-membrane">GNYLCKIASASVSFNLY</span></span>
+<span class="topo-line"><span class="topo-membrane">ASVFLLTCLSI</span><span class="topo-outside">DRYLAIVHPMKSRLRRTMLVAK</span><span class="topo-membrane">VTCIIIWLLAGLASLPAIIHR</span><span class="topo-inside">NVFFIE</span></span>
+<span class="topo-line"><span class="topo-inside">NTNITVCAFHYE</span><span class="topo-unknown">SQN</span><span class="topo-inside">STLP</span><span class="topo-membrane">IGLGLTKNILGFLFPFLIILTSYT</span><span class="topo-outside">LIWKALKKAYDLEDN</span><span class="topo-unknown">WE</span></span>
+<span class="topo-line"><span class="topo-unknown">TLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDIL</span></span>
+<span class="topo-line"><span class="topo-unknown">VGQIDDALKLANEGKVKEAQAAAEQLKTTRNAEIQKNKP</span><span class="topo-outside">RNDDIFKII</span><span class="topo-membrane">MAIVLFFFFSWI</span></span>
+<span class="topo-line"><span class="topo-membrane">PHQIFTFLDV</span><span class="topo-inside">LIQLGIIRDCRIADIV</span><span class="topo-membrane">DTAMPITICIAYFNNCLNPLFY</span><span class="topo-outside">GFLG</span><span class="topo-unknown">KKFKRYFL</span></span>
+<span class="topo-line"><span class="topo-unknown">Q</span><span class="topo-outside">LL</span><span class="topo-unknown">KY</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>16</td>
+      <td>33</td>
+      <td>9</td>
+      <td>26</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>57</td>
+      <td>27</td>
+      <td>50</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>73</td>
+      <td>51</td>
+      <td>66</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>96</td>
+      <td>67</td>
+      <td>89</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>103</td>
+      <td>90</td>
+      <td>96</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>131</td>
+      <td>97</td>
+      <td>124</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>132</td>
+      <td>153</td>
+      <td>125</td>
+      <td>146</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>154</td>
+      <td>174</td>
+      <td>147</td>
+      <td>167</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>192</td>
+      <td>168</td>
+      <td>185</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>196</td>
+      <td>199</td>
+      <td>189</td>
+      <td>192</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>223</td>
+      <td>193</td>
+      <td>216</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>224</td>
+      <td>238</td>
+      <td>217</td>
+      <td>231</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>340</td>
+      <td>348</td>
+      <td>333</td>
+      <td>341</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>349</td>
+      <td>370</td>
+      <td>342</td>
+      <td>363</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>371</td>
+      <td>386</td>
+      <td>364</td>
+      <td>379</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>387</td>
+      <td>408</td>
+      <td>380</td>
+      <td>401</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>409</td>
+      <td>412</td>
+      <td>402</td>
+      <td>405</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>413</td>
+      <td>421</td>
+      <td>406</td>
+      <td>414</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>422</td>
+      <td>423</td>
+      <td>415</td>
+      <td>416</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1016##j.cell.2015.04.011
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6do1">6DO1</a> — Chain B (7 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase ([Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
-| Protein sample | BRIL-AT1R + [ZD7155](/xray-mp-wiki/reagents/ligands/zd7155/), 30 mg/ml |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) |
-| Protein-to-lipid ratio | 1:1 |
-| Temperature | 20 |
-| Growth time | 2-4 weeks |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">DYKDDDDKILNSSTE</span><span class="topo-inside">DGIKRIQDDCPKAGRHNY</span><span class="topo-membrane">IFVMIPTLYSIIFVVGIFGNSLVVI</span><span class="topo-outside">VI</span></span>
+<span class="topo-line"><span class="topo-outside">YFYMKLKTVASVF</span><span class="topo-membrane">LLNLALADLCFLLTLPLWAVYTA</span><span class="topo-inside">MEYRWPF</span><span class="topo-membrane">GNYLCKIASASVSFNLY</span></span>
+<span class="topo-line"><span class="topo-membrane">ASVFLLTCLSI</span><span class="topo-outside">DRYLAIVHPMKSRLRRTMLVAK</span><span class="topo-membrane">VTCIIIWLLAGLASLPAIIHR</span><span class="topo-inside">NVFFIE</span></span>
+<span class="topo-line"><span class="topo-inside">NTNITVCAFHYE</span><span class="topo-unknown">SQN</span><span class="topo-inside">STLP</span><span class="topo-membrane">IGLGLTKNILGFLFPFLIILTSYT</span><span class="topo-outside">LIWKALKKAYDLEDN</span><span class="topo-unknown">WE</span></span>
+<span class="topo-line"><span class="topo-unknown">TLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDIL</span></span>
+<span class="topo-line"><span class="topo-unknown">VGQIDDALKLANEGKVKEAQAAAEQLKTTRNAEIQKNKP</span><span class="topo-outside">RNDDIFKII</span><span class="topo-membrane">MAIVLFFFFSWI</span></span>
+<span class="topo-line"><span class="topo-membrane">PHQIFTFLDV</span><span class="topo-inside">LIQLGIIRDCRIADIV</span><span class="topo-membrane">DTAMPITICIAYFNNCLNPLFY</span><span class="topo-outside">GFLG</span><span class="topo-unknown">KKFKRYFL</span></span>
+<span class="topo-line"><span class="topo-unknown">Q</span><span class="topo-outside">LL</span><span class="topo-unknown">KY</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>16</td>
+      <td>33</td>
+      <td>9</td>
+      <td>26</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>58</td>
+      <td>27</td>
+      <td>51</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>73</td>
+      <td>52</td>
+      <td>66</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>96</td>
+      <td>67</td>
+      <td>89</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>103</td>
+      <td>90</td>
+      <td>96</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>131</td>
+      <td>97</td>
+      <td>124</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>132</td>
+      <td>153</td>
+      <td>125</td>
+      <td>146</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>154</td>
+      <td>174</td>
+      <td>147</td>
+      <td>167</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>192</td>
+      <td>168</td>
+      <td>185</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>196</td>
+      <td>199</td>
+      <td>189</td>
+      <td>192</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>223</td>
+      <td>193</td>
+      <td>216</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>224</td>
+      <td>238</td>
+      <td>217</td>
+      <td>231</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>340</td>
+      <td>348</td>
+      <td>333</td>
+      <td>341</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>349</td>
+      <td>370</td>
+      <td>342</td>
+      <td>363</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>371</td>
+      <td>386</td>
+      <td>364</td>
+      <td>379</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>387</td>
+      <td>408</td>
+      <td>380</td>
+      <td>401</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>409</td>
+      <td>412</td>
+      <td>402</td>
+      <td>405</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>413</td>
+      <td>421</td>
+      <td>406</td>
+      <td>414</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>422</td>
+      <td>423</td>
+      <td>415</td>
+      <td>416</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1016##j.cell.2018.12.006
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase ([Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
-| Protein sample | AT1R-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)(ICL3) + S1I8 + Nb.AT110i1, 30 uM |
-| Lipid | 10:1 monoolein:[Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
-| Protein-to-lipid ratio | 1.5:1 by mass |
-| Temperature | 20 |
-| Growth time | 6-11 days |
-
+</div>
 ### doi/10.1126##science.aay9813
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Protein sample | AT1R-AT110i1 nanobody complex + AngII, TRV023, or TRV026 |
-| Lipid | Monoolein |
-| Notes | Crystal structures of AT1R bound to three ligands with divergent bias profiles. Data collected at APS GM/CA beamlines. Structures deposited as PDB 6OS0 (AngII), 6OS1 (TRV023), 6OS2 (TRV026). |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6os0">6OS0</a></td>
+      <td>2.9</td>
+      <td></td>
+      <td>AT1R-AT110i1 nanobody complex</td>
+      <td>Angiotensin II (AngII)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6os1">6OS1</a></td>
+      <td>2.9</td>
+      <td></td>
+      <td>AT1R-AT110i1 nanobody complex</td>
+      <td>TRV023</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6os2">6OS2</a></td>
+      <td>2.9</td>
+      <td></td>
+      <td>AT1R-AT110i1 nanobody complex</td>
+      <td>TRV026</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Sf9 insect cells (Bac-to-Bac [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) expression system)
+- **Construct**: BRIL-AT1R chimera with N-terminal HA signal, FLAG, [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) tags, TEV site
+- **Notes**: AT1R gene sequence optimized for insect cell expression. [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) (apocytochrome b562RIL, M7W, H102I, R106L) fused to N-terminus. Truncations: Met1, Thr7-Asp16, residues 320-359 after helix VIII. Full glycosylation retained (no PNGase F treatment).
+
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>AT1R-AT110i1 <a href="/xray-mp-wiki/reagents/protein-tags/nanobody/">nanobody</a> complex + AngII, TRV023, or TRV026</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a></td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystal structures of AT1R bound to three ligands with divergent bias profiles. Data collected at APS GM/CA beamlines. Structures deposited as PDB 6OS0 (AngII), 6OS1 (TRV023), 6OS2 (TRV026).</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6os0">6OS0</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">DYKDDDDKILNSSTE</span><span class="topo-inside">DGIKRIQDDCPKAGRHNYIFV</span><span class="topo-membrane">MIPTLYSIIFVVGIFGNSLVVIVI</span></span>
+<span class="topo-line"><span class="topo-membrane">YF</span><span class="topo-outside">YMKLKTV</span><span class="topo-membrane">ASVFLLNLALADLCFLLTLPLWAV</span><span class="topo-inside">YTAMEYRWPFGNY</span><span class="topo-membrane">LCKIASASVSFNLY</span></span>
+<span class="topo-line"><span class="topo-membrane">ASVFLLTCLSIDRYL</span><span class="topo-outside">AIVH</span><span class="topo-unknown">PMKSRLR</span><span class="topo-outside">RTM</span><span class="topo-membrane">LVAKVTCIIIWLLAGLASLPAII</span><span class="topo-inside">HRNVFFIE</span></span>
+<span class="topo-line"><span class="topo-inside">NTNITVCAFHYESQN</span><span class="topo-unknown">ST</span><span class="topo-inside">LPIG</span><span class="topo-membrane">LGLTKNILGFLFPFLIILTSYTLIWK</span><span class="topo-outside">ALKKAYDLEDNWE</span></span>
+<span class="topo-line"><span class="topo-outside">TLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKATPP</span><span class="topo-unknown">KLEDKSPDS</span><span class="topo-outside">PEMKDFRHGFDIL</span></span>
+<span class="topo-line"><span class="topo-outside">VGQIDDALKLANEGKVKEAQAAAEQLKTTR</span><span class="topo-unknown">N</span><span class="topo-outside">AEIQKNKPRNDDIF</span><span class="topo-membrane">KIIMAIVLFFFFSWI</span></span>
+<span class="topo-line"><span class="topo-membrane">PHQIFTFL</span><span class="topo-inside">DVLIQLGIIRDCRIADIVDTA</span><span class="topo-membrane">MPITICIAYFNNCLNPLFYGFL</span><span class="topo-outside">G</span><span class="topo-unknown">KKFKRYFL</span></span>
+<span class="topo-line"><span class="topo-unknown">Q</span><span class="topo-outside">L</span><span class="topo-unknown">LKY</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>16</td>
+      <td>36</td>
+      <td>9</td>
+      <td>29</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>62</td>
+      <td>30</td>
+      <td>55</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>69</td>
+      <td>56</td>
+      <td>62</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>93</td>
+      <td>63</td>
+      <td>86</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>106</td>
+      <td>87</td>
+      <td>99</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>107</td>
+      <td>135</td>
+      <td>100</td>
+      <td>128</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>139</td>
+      <td>129</td>
+      <td>132</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>140</td>
+      <td>146</td>
+      <td>133</td>
+      <td>139</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>147</td>
+      <td>149</td>
+      <td>140</td>
+      <td>142</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>150</td>
+      <td>172</td>
+      <td>143</td>
+      <td>165</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>173</td>
+      <td>195</td>
+      <td>166</td>
+      <td>188</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>198</td>
+      <td>201</td>
+      <td>191</td>
+      <td>194</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>202</td>
+      <td>227</td>
+      <td>195</td>
+      <td>220</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>228</td>
+      <td>278</td>
+      <td>221</td>
+      <td>271</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>288</td>
+      <td>330</td>
+      <td>281</td>
+      <td>323</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>332</td>
+      <td>345</td>
+      <td>1226</td>
+      <td>1239</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>346</td>
+      <td>368</td>
+      <td>1240</td>
+      <td>1262</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>369</td>
+      <td>389</td>
+      <td>1263</td>
+      <td>1283</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>390</td>
+      <td>411</td>
+      <td>1284</td>
+      <td>1305</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>412</td>
+      <td>412</td>
+      <td>1306</td>
+      <td>1306</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>413</td>
+      <td>421</td>
+      <td>1307</td>
+      <td>1315</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>422</td>
+      <td>422</td>
+      <td>1316</td>
+      <td>1316</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6os1">6OS1</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">DYKDDDDKILNSSTEDG</span><span class="topo-inside">IKRIQDDCPKAGRHNY</span><span class="topo-membrane">IFVMIPTLYSIIFVVGIFGNSLVVIVI</span></span>
+<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">FYMKLKTVASV</span><span class="topo-membrane">FLLNLALADLCFLLTLPLWAVYTA</span><span class="topo-inside">MEYRWPFGNY</span><span class="topo-membrane">LCKIASASVSFNLY</span></span>
+<span class="topo-line"><span class="topo-membrane">ASVFLLTCLSI</span><span class="topo-outside">DRYLAIVHPMKSRLRRTMLV</span><span class="topo-membrane">AKVTCIIIWLLAGLASLPAIIHR</span><span class="topo-inside">NVFFIE</span></span>
+<span class="topo-line"><span class="topo-inside">NTNITVCAFHYESQNSTL</span><span class="topo-membrane">PIGLGLTKNILGFLFPFLIILTSYT</span><span class="topo-outside">LIWKALKKAYDLEDNWE</span></span>
+<span class="topo-line"><span class="topo-outside">TLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKA</span><span class="topo-unknown">TPPKLEDKSPDSPEMKDF</span><span class="topo-outside">RHGFDIL</span></span>
+<span class="topo-line"><span class="topo-outside">VGQIDDALKLANEGKVKEAQAAAEQLK</span><span class="topo-unknown">TTRNAEIQ</span><span class="topo-outside">KNKPRNDDIFKII</span><span class="topo-membrane">MAIVLFFFFSWI</span></span>
+<span class="topo-line"><span class="topo-membrane">PHQIFTFLDVL</span><span class="topo-inside">IQLGIIRDCRIADI</span><span class="topo-membrane">VDTAMPITICIAYFNNCLNPLFYG</span><span class="topo-outside">FLG</span><span class="topo-unknown">KKFKRYFL</span></span>
+<span class="topo-line"><span class="topo-unknown">QLL</span><span class="topo-outside">K</span><span class="topo-unknown">Y</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>18</td>
+      <td>33</td>
+      <td>11</td>
+      <td>26</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>61</td>
+      <td>27</td>
+      <td>54</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>72</td>
+      <td>55</td>
+      <td>65</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>73</td>
+      <td>96</td>
+      <td>66</td>
+      <td>89</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>106</td>
+      <td>90</td>
+      <td>99</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>107</td>
+      <td>131</td>
+      <td>100</td>
+      <td>124</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>132</td>
+      <td>151</td>
+      <td>125</td>
+      <td>144</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>152</td>
+      <td>174</td>
+      <td>145</td>
+      <td>167</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>198</td>
+      <td>168</td>
+      <td>191</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>223</td>
+      <td>192</td>
+      <td>216</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>224</td>
+      <td>275</td>
+      <td>217</td>
+      <td>268</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>294</td>
+      <td>327</td>
+      <td>287</td>
+      <td>320</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>336</td>
+      <td>348</td>
+      <td>1230</td>
+      <td>1242</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>349</td>
+      <td>371</td>
+      <td>1243</td>
+      <td>1265</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>372</td>
+      <td>385</td>
+      <td>1266</td>
+      <td>1279</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>386</td>
+      <td>409</td>
+      <td>1280</td>
+      <td>1303</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>410</td>
+      <td>412</td>
+      <td>1304</td>
+      <td>1306</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>413</td>
+      <td>423</td>
+      <td>1307</td>
+      <td>1317</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>424</td>
+      <td>424</td>
+      <td>1318</td>
+      <td>1318</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6os2">6OS2</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">DYKDDDDKILNSSTEDG</span><span class="topo-inside">IKRIQDDCPKAGRHNY</span><span class="topo-membrane">IFVMIPTLYSIIFVVGIFGNSLVVIVI</span></span>
+<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-outside">FYMKLKTVAS</span><span class="topo-membrane">VFLLNLALADLCFLLTLPLWAVYTA</span><span class="topo-inside">MEYRWPFGNY</span><span class="topo-membrane">LCKIASASVSFNLY</span></span>
+<span class="topo-line"><span class="topo-membrane">ASVFLLTCLSI</span><span class="topo-outside">DRYLAIVHPMKSRLRRTML</span><span class="topo-membrane">VAKVTCIIIWLLAGLASLPAIIHR</span><span class="topo-inside">NVFFIE</span></span>
+<span class="topo-line"><span class="topo-inside">NTNITVCAFHYESQNSTL</span><span class="topo-membrane">PIGLGLTKNILGFLFPFLIILTSYT</span><span class="topo-outside">LIWKALKKAYDLEDNWE</span></span>
+<span class="topo-line"><span class="topo-outside">TLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKA</span><span class="topo-unknown">TPPKLEDKSPDSPEMKDFR</span><span class="topo-outside">HGFDIL</span></span>
+<span class="topo-line"><span class="topo-outside">VGQIDDALKLANEGKVKEAQAAAEQLK</span><span class="topo-unknown">TTRNAEIQ</span><span class="topo-outside">KNKPRNDDIFKII</span><span class="topo-membrane">MAIVLFFFFSWI</span></span>
+<span class="topo-line"><span class="topo-membrane">PHQIFTFLDVL</span><span class="topo-inside">IQLGIIRDCRIADI</span><span class="topo-membrane">VDTAMPITICIAYFNNCLNPLFYG</span><span class="topo-outside">FLG</span><span class="topo-unknown">KKFKRYFL</span></span>
+<span class="topo-line"><span class="topo-unknown">QLL</span><span class="topo-outside">K</span><span class="topo-unknown">Y</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>18</td>
+      <td>33</td>
+      <td>11</td>
+      <td>26</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>61</td>
+      <td>27</td>
+      <td>54</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>71</td>
+      <td>55</td>
+      <td>64</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>96</td>
+      <td>65</td>
+      <td>89</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>106</td>
+      <td>90</td>
+      <td>99</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>107</td>
+      <td>131</td>
+      <td>100</td>
+      <td>124</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>132</td>
+      <td>150</td>
+      <td>125</td>
+      <td>143</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td>174</td>
+      <td>144</td>
+      <td>167</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>198</td>
+      <td>168</td>
+      <td>191</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>223</td>
+      <td>192</td>
+      <td>216</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>224</td>
+      <td>275</td>
+      <td>217</td>
+      <td>268</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>295</td>
+      <td>327</td>
+      <td>288</td>
+      <td>320</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>336</td>
+      <td>348</td>
+      <td>1230</td>
+      <td>1242</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>349</td>
+      <td>371</td>
+      <td>1243</td>
+      <td>1265</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>372</td>
+      <td>385</td>
+      <td>1266</td>
+      <td>1279</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>386</td>
+      <td>409</td>
+      <td>1280</td>
+      <td>1303</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>410</td>
+      <td>412</td>
+      <td>1304</td>
+      <td>1306</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>413</td>
+      <td>423</td>
+      <td>1307</td>
+      <td>1317</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>424</td>
+      <td>424</td>
+      <td>1318</td>
+      <td>1318</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -259,25 +1773,25 @@ Deviations from the conserved sodium-binding motif are enriched in peptide- and 
 
 ## Cross-References
 
-- [ZD7155](/xray-mp-wiki/reagents/ligands/zd7155/) — Primary ligand bound in PDB 4YAY structure
-- [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) — Endogenous agonist of [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
-- [S1I8](/xray-mp-wiki/reagents/ligands/s1i8/) — Partial agonist peptide used in active-state PDB 6DO1 crystallization
-- [Nb.AT110i1 Synthetic Nanobody](/xray-mp-wiki/reagents/antibodies/nb-at110i1/) — Conformation-specific [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) stabilizing active-state AT1R (PDB 6DO1)
-- [Lauryl Maltose Neopentyl Glycol (MNG)](/xray-mp-wiki/reagents/detergents/mng/) — Detergent used for [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/) solubilization and purification in PDB 6DO1
-- [Losartan](/xray-mp-wiki/reagents/ligands/losartan/) — ARB used for [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/) expression stabilization and comparison with peptide ligands
-- [Olmesartan](/xray-mp-wiki/reagents/ligands/olmesartan/) — Inverse agonist ARB bound in PDB 4ZUD structure; used for functional selectivity studies
-- [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) — Thermostabilization fusion partner inserted into [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/) ICL3 for PDB 6DO1
-- [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/) — Close homolog with distinct signaling; AT2R structure reveals helix 8 canonical conformation upon [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) binding
-- [Beta-Arrestin](/xray-mp-wiki/concepts/signaling-receptors/beta-arrestin/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
-- [NPxxY Motif](/xray-mp-wiki/concepts/structural-mechanisms/npxxy-motif/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
-- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
-- [Immobilized Metal Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
-- [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
-- [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
-- [M1 FLAG Affinity Resin](/xray-mp-wiki/reagents/protein-tags/m1-flag-resin/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
-- [PEG 300](/xray-mp-wiki/reagents/additives/peg-300/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
-- [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
-- [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
+- <a href="/xray-mp-wiki/reagents/ligands/zd7155/">ZD7155</a> — Primary ligand bound in PDB 4YAY structure
+- <a href="/xray-mp-wiki/reagents/ligands/angiotensin-ii/">Angiotensin II</a> — Endogenous agonist of [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
+- <a href="/xray-mp-wiki/reagents/ligands/s1i8/">S1I8</a> — Partial agonist peptide used in active-state PDB 6DO1 crystallization
+- <a href="/xray-mp-wiki/reagents/antibodies/nb-at110i1/">Nb.AT110i1 Synthetic Nanobody</a> — Conformation-specific [Nanobody](/xray-mp-wiki/reagents/protein-tags/nanobody/) stabilizing active-state AT1R (PDB 6DO1)
+- <a href="/xray-mp-wiki/reagents/detergents/mng/">Lauryl Maltose Neopentyl Glycol (MNG)</a> — Detergent used for [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/) solubilization and purification in PDB 6DO1
+- <a href="/xray-mp-wiki/reagents/ligands/losartan/">Losartan</a> — ARB used for [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/) expression stabilization and comparison with peptide ligands
+- <a href="/xray-mp-wiki/reagents/ligands/olmesartan/">Olmesartan</a> — Inverse agonist ARB bound in PDB 4ZUD structure; used for functional selectivity studies
+- <a href="/xray-mp-wiki/reagents/protein-tags/bril/">BRIL</a> — Thermostabilization fusion partner inserted into [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/) ICL3 for PDB 6DO1
+- <a href="/xray-mp-wiki/proteins/gpcr/at2r/">Angiotensin II Type 2 Receptor</a> — Close homolog with distinct signaling; AT2R structure reveals helix 8 canonical conformation upon [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) binding
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/beta-arrestin/">Beta-Arrestin</a> — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/npxxy-motif/">NPxxY Motif</a> — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
+- <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a> — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Immobilized Metal Affinity Chromatography</a> — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a> — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
+- <a href="/xray-mp-wiki/proteins/gpcr/at1r/">Angiotensin II Type 1 Receptor</a> — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
+- <a href="/xray-mp-wiki/reagents/protein-tags/m1-flag-resin/">M1 FLAG Affinity Resin</a> — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
+- <a href="/xray-mp-wiki/reagents/additives/peg-300/">PEG 300</a> — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
+- <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/">Baculovirus Expression System</a> — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)
+- <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/">Sf9 Insect Cells</a> — Referenced in [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/)

@@ -1,7 +1,7 @@
 ---
 title: "F1-ATPase from Trypanosoma brucei"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -28,40 +28,85 @@ a pentatricopeptide repeat (PPR) protein with three PPRs and appears to
 have no role in the catalytic mechanism, though it is essential for
 complex assembly.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.1720940115 | 6F5D | 3.2 | P2(1) | T. brucei F1-ATPase (alpha3-beta3-gamma-delta-epsilon + 3x p18) |  |
+### doi/10.1073##pnas.1720940115
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6f5d">6F5D</a></td>
+      <td>3.2</td>
+      <td>P2(1)</td>
+      <td>T. brucei F1-ATPase (alpha3-beta3-gamma-delta-epsilon + 3x p18)</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Trypanosoma brucei (native source)
 - **Construct**: Endogenous F1-ATPase purified from T. brucei mitochondria
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: T. brucei (native)
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Crystallization</td>
+      <td>Vapor diffusion</td>
+      <td>—</td>
+      <td>50 mM MES pH 6.0, 0.5 mM ADP, 5% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 12000, 30% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.1 M MgSO4</td>
+      <td>Cryoprotected by adding 0.1 M MgSO4, 0.5 mM ADP, 50 mM MES pH 6.0, 5% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 12000, 30% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>. Harvested with MicroLoop (MiTeGen) and flash-frozen.</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Crystallization | Vapor diffusion | — | 50 mM MES pH 6.0, 0.5 mM ADP, 5% [PEG](/xray-mp-wiki/reagents/additives/peg/) 12000, 30% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.1 M MgSO4 | Cryoprotected by adding 0.1 M MgSO4, 0.5 mM ADP, 50 mM MES pH 6.0, 5% [PEG](/xray-mp-wiki/reagents/additives/peg/) 12000, 30% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/). Harvested with MicroLoop (MiTeGen) and flash-frozen. |
+**Crystallization:**
 
-
-## Crystallization
-
-### doi/10.1073##pnas.1720940115
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | Purified T. brucei F1-ATPase |
-| Temperature | Not specified |
-| Cryoprotection | 0.1 M MgSO4, 0.5 mM ADP, 50 mM MES pH 6.0, 5% [PEG](/xray-mp-wiki/reagents/additives/peg/) 12000, 30% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) |
-| Notes | Unit cell a=124.2 A, b=206.4 A, c=130.2 A, alpha=gamma=90 degrees, beta=104.9 degrees. Space group P2(1). Data collected at ESRF, Grenoble at 100 K with PILATUS3 2M detector at 0.966 A wavelength. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified T. brucei F1-ATPase</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>0.1 M MgSO4, 0.5 mM ADP, 50 mM MES pH 6.0, 5% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 12000, 30% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a></td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Unit cell a=124.2 A, b=206.4 A, c=130.2 A, alpha=gamma=90 degrees, beta=104.9 degrees. Space group P2(1). Data collected at ESRF, Grenoble at 100 K with PILATUS3 2M detector at 0.966 A wavelength.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -95,7 +140,7 @@ gamma increases from 1,000 to 1,700 A2.
 
 ## Cross-References
 
-- [F1-ATPase Rotary Mechanism](/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/) — T. brucei F1-ATPase has conventional rotary catalytic mechanism
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
-- [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/concepts/enzyme-mechanisms/f1-atpase-rotary-mechanism/">F1-ATPase Rotary Mechanism</a> — T. brucei F1-ATPase has conventional rotary catalytic mechanism
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> — Additive used in purification or crystallization buffers

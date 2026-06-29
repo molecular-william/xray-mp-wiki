@@ -1,7 +1,7 @@
 ---
 title: "Yeast V-ATPase EGC_head Peripheral Stalk Complex"
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -26,30 +26,68 @@ coiled coil, and a rectifying helix that restores parallel orientation. The
 C_head domain binds to the N-terminal region of the EG coiled coil via
 loops L1, L2 and alpha helix 1.
 
-## Structure Determination
-
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.str.2012.08.020 | 4DL0 | 2.91 | P 21 21 21 | EG heterodimer (full-length E and G subunits) + C_head (residues 167-263 of subunit C/Vma5p) | Lead ion (from TMLA soaking) |
-| doi/10.1016##j.str.2012.08.020 | 4DL0 | 2.82 | P 2 21 21 | EG heterodimer (full-length E and G subunits) + C_head (residues 167-263 of subunit C/Vma5p) | None |
-
-## Expression and Purification
-
-No purification described.
-
-## Crystallization
+## Publications
 
 ### doi/10.1016##j.str.2012.08.020
 
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | EGC_head complex in 20 mM Tris pH 7.5, 100 mM NaCl |
-| Reservoir | 0.1 M Li2SO4, 0.15 M glycine, 0.1 M MES pH 6.0, 20% PEG-mme 2000 |
-| Temperature | 22 C |
-| Growth time | ~2 weeks |
-| Notes | Two crystal forms obtained: P21 21 21 and P22 21 21. Crystals cryoprotected in reservoir with 40% PEG-mme 2000. For SAD phasing, crystals soaked in 10 mM trimethyl lead acetate (TMLA) for 30 min. |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4dl0">4DL0</a></td>
+      <td>2.91</td>
+      <td>P 21 21 21</td>
+      <td>EG heterodimer (full-length E and G subunits) + C_head (residues 167-263 of subunit C/Vma5p)</td>
+      <td>Lead ion (from TMLA soaking)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4dl0">4DL0</a></td>
+      <td>2.82</td>
+      <td>P 2 21 21</td>
+      <td>EG heterodimer (full-length E and G subunits) + C_head (residues 167-263 of subunit C/Vma5p)</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">vapor diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>EGC_head complex in 20 mM Tris pH 7.5, 100 mM NaCl</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.1 M Li2SO4, 0.15 M <a href="/xray-mp-wiki/reagents/buffers/glycine/">Glycine</a>, 0.1 M MES pH 6.0, 20% PEG-mme 2000</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>22 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>~2 weeks</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Two crystal forms obtained: P21 21 21 and P22 21 21. Crystals cryoprotected in reservoir with 40% PEG-mme 2000. For <a href="/xray-mp-wiki/methods/structure-determination/single-wavelength-anomalous-diffraction">SAD</a> phasing, crystals soaked in 10 mM trimethyl lead acetate (TMLA) for 30 min.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -59,7 +97,7 @@ The EG heterodimer folds as a right-handed coiled coil. Subunit E contains hende
 
 ### Subunit G bulge and rectifying helix
 
-The subunit G helix contains a deformity around Asn61 characterized by a short random coil bulge (Gly-Gly-Val-Gly). A short rectifying helix (Glu67-Gln77) just past the bulge crosses subunit E at ~45 degrees to restore parallel orientation. Following the rectifying helix, subunit G wraps around E at ~30 degrees, forming a three-helix bundle with the C-terminal alpha helix of subunit E, suggesting relative stability of this region. The glycine residue Gly63 in the bulge is highly conserved and flanked by predicted disordered regions in both E and G, conserved from yeast to humans.
+The subunit G helix contains a deformity around Asn61 characterized by a short random coil bulge (Gly-Gly-Val-Gly). A short rectifying helix (Glu67-Gln77) just past the bulge crosses subunit E at ~45 degrees to restore parallel orientation. Following the rectifying helix, subunit G wraps around E at ~30 degrees, forming a three-helix bundle with the C-terminal alpha helix of subunit E, suggesting relative stability of this region. The [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) residue Gly63 in the bulge is highly conserved and flanked by predicted disordered regions in both E and G, conserved from yeast to humans.
 
 ### Two flexible hinges in the EG coiled coil
 
@@ -71,7 +109,10 @@ The interaction between the EG heterodimer and C_head is mediated by hydrophobic
 
 ### Spring-loading mechanism for peripheral stalk EG3
 
-Fitting of the EGC_head models into a 3D cryo-EM reconstruction of the intact V-ATPase revealed a mismatch for peripheral stalk EG3. Neither conformation fits well into the EG3 EM density, suggesting the EGC subcomplex adopts a different conformation in the assembled enzyme than in isolation. This leads to a proposed spring-loading mechanism: during assembly, the chaperone complex RAVE positions EG and subunit C at the V1-Vo interface, inducing strain (compression) into the EG3 coiled coil. Upon the signal for regulated dissociation, interactions involving subunit C are weakened, releasing the strain and pulling EG3 (or subunit C) out of the interface.
+Fitting of the EGC_head models into a 3D [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) reconstruction of the intact V-ATPase revealed a mismatch for peripheral stalk EG3. Neither conformation fits well into the EG3 EM density, suggesting the EGC subcomplex adopts a different conformation in the assembled enzyme than in isolation. This leads to a proposed spring-loading mechanism: during assembly, the chaperone complex RAVE positions EG and subunit C at the V1-Vo interface, inducing strain (compression) into the EG3 coiled coil. Upon the signal for regulated dissociation, interactions involving subunit C are weakened, releasing the strain and pulling EG3 (or subunit C) out of the interface.
 
 
 ## Cross-References
+
+- <a href="/xray-mp-wiki/methods/structure-determination/cryo-em/">Cryo-Electron Microscopy</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/buffers/glycine/">Glycine</a> — Buffer component used in purification or crystallization

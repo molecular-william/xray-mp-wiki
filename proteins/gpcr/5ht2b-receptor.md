@@ -1,12 +1,12 @@
 ---
 title: "Human 5-HT2B Receptor"
 created: 2026-05-27
-updated: 2026-06-21
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
-sources: [doi/10.1016##j.cell.2016.12.033, doi/10.1038##s41594-018-0116-7, doi/10.1126##science.1244142]
+sources: [doi/10.1016##j.cell.2016.12.033, doi/10.1126##science.1244142]
 verified: false
 ---
 
@@ -16,54 +16,329 @@ verified: false
 
 The human serotonin 2B (5-HT2B) receptor is a class A GPCR that signals primarily through Gq/11 and [Beta-Arrestin](/xray-mp-wiki/concepts/beta-arrestin) pathways. It is a target of several drugs and is the molecular target of the hallucinogen LSD. Multiple crystal structures have been determined revealing structural determinants of receptor activation and biased agonism, including complexes with ergotamine, LSD, methylergonovine, methysergide, lisuride, and LY266097.
 
-## Structure Determination
-
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.cell.2016.12.033 | 5TVN | 2.9 A | C2221 | Human 5-HT2B receptor, N-terminal residues 1-35 truncated, C-terminal residues 406-481 truncated, thermostabilizing M144W mutation, ICL3 replaced by BRIL fusion (A1-L106 of apocytochrome b562 RIL), N-terminal HA signal sequence and [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag), C-terminal PreScission site and 10xHis tag | [LSD](/xray-mp-wiki/reagents/ligands/lsd) |
-
-## Expression and Purification
-
-- **Expression system**: [Sf9 Cells](/xray-mp-wiki/methods/expression-systems/sf9-insect-cells)
-- **Construct**: Human 5-HT2B receptor, N-terminal residues 1-35 truncated, C-terminal residues 406-481 truncated, thermostabilizing M144W mutation, ICL3 replaced by BRIL fusion (A1-L106 of apocytochrome b562 RIL), N-terminal HA signal sequence and [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag), C-terminal PreScission site and 10xHis tag
-
-### Purification Workflow
-
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture and membrane preparation | Baculovirus expression in [Sf9 Cells](/xray-mp-wiki/methods/expression-systems/sf9-insect-cells) | -- | 10 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 7.5, 10 mM MgCl2, 20 mM KCl, 150 mM NaCl + -- | High-titer recombinant [Baculovirus](/xray-mp-wiki/methods/expression-systems/baculovirus-expression) used to infect Sf9 cells. Cells harvested 48 hr post-infection, washed in PBS, flash-frozen at -80C |
-| Membrane solubilization | Detergent solubilization | -- | 10 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 7.5, 150 mM NaCl + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm) | LSD (50 uM) pre-incubated with membranes before solubilization. [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide) treatment for 30 min prior to solubilization |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) | [IMAC](/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography) | [TALON](/xray-mp-wiki/reagents/additives/talon) IMAC resin | -- + [DDM](/xray-mp-wiki/reagents/detergents/ddm) | [His Tag](/xray-mp-wiki/reagents/protein-tags/his-tag) on C-terminus used for affinity capture via TALON resin |
-| [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) column | 10 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 7.5, 150 mM NaCl + [DDM](/xray-mp-wiki/reagents/detergents/ddm) | Final purification step to obtain monodisperse 5-HT2B-R-LSD-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril) complex |
-
-
-## Crystallization
+## Publications
 
 ### doi/10.1016##j.cell.2016.12.033
 
-| Parameter | Value |
-|---|---|
-| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) crystallization |
-| Protein sample | 5-HT2B-R-LSD-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril) complex at ~15 mg/ml |
-| Temperature | 20 C |
-| Growth time | not specified in main text |
-| Cryoprotection | not specified in main text |
-| Notes | LCP method with [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein). Crystals diffracted to 2.9 A (space group C2221). Solved by molecular replacement using 5-HT2B-R/ERG (PDB: 4IB4) and BRIL (PDB: 1M6T) as search models |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5tvn">5TVN</a></td>
+      <td>2.9 A</td>
+      <td>C2221</td>
+      <td>Human 5-HT2B receptor, N-terminal residues 1-35 truncated, C-terminal residues 406-481 truncated, thermostabilizing M144W mutation, ICL3 replaced by BRIL fusion (A1-L106 of apocytochrome b562 RIL), N-terminal HA signal sequence and <a href="/xray-mp-wiki/reagents/protein-tags/flag-tag">FLAG Tag</a>, C-terminal PreScission site and 10xHis tag</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/lsd">LSD</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: [Sf9 Cells](/xray-mp-wiki/methods/expression-systems/sf9-insect-cells)
+- **Construct**: Human 5-HT2B receptor, N-terminal residues 1-35 truncated, C-terminal residues 406-481 truncated, thermostabilizing M144W mutation, ICL3 replaced by [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) fusion (A1-L106 of apocytochrome b562 RIL), N-terminal HA signal sequence and [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag), C-terminal PreScission site and 10xHis tag
+
+**Purification:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture and membrane preparation</td>
+      <td>Baculovirus expression in <a href="/xray-mp-wiki/methods/expression-systems/sf9-insect-cells">Sf9 Cells</a></td>
+      <td>--</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">MgCl2</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/potassium-chloride-kcl/">KCl</a>, 150 mM NaCl + --</td>
+      <td>High-titer recombinant <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression">Baculovirus</a> used to infect Sf9 cells. Cells harvested 48 hr post-infection, washed in PBS, flash-frozen at -80C</td>
+    </tr>
+    <tr>
+      <td>Membrane solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 150 mM NaCl + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/lsd/">LSD</a> (50 uM) pre-incubated with membranes before solubilization. <a href="/xray-mp-wiki/reagents/additives/iodoacetamide">Iodoacetamide</a> treatment for 30 min prior to solubilization</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography">IMAC</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon">TALON</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">IMAC</a> resin</td>
+      <td>-- + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/his-tag">His Tag</a> on <a href="/xray-mp-wiki/concepts/c-terminus/">C-terminus</a> used for affinity capture via <a href="/xray-mp-wiki/reagents/additives/talon">TALON</a> resin</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a> column</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 150 mM NaCl + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>Final purification step to obtain monodisperse 5-HT2B-R-<a href="/xray-mp-wiki/reagents/ligands/lsd/">LSD</a>-<a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL</a> complex</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a> crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>5-HT2B-R-<a href="/xray-mp-wiki/reagents/ligands/lsd/">LSD</a>-<a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL</a> complex at ~15 mg/ml</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>not specified in main text</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>not specified in main text</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a> method with <a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a>. Crystals diffracted to 2.9 A (space group C2221). Solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">molecular replacement</a> using 5-HT2B-R/<a href="/xray-mp-wiki/reagents/ligands/ergotamine/">ERG</a> (PDB: 4IB4) and <a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL</a> (PDB: 1M6T) as search models</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5tvn">5TVN</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">EEMKQIVEEQGNK</span><span class="topo-membrane">LHWAALLILMVIIPTIGGNTLVI</span><span class="topo-inside">LAVSLEKKLQYATNYF</span><span class="topo-membrane">LMSLAVAD</span></span>
+<span class="topo-line"><span class="topo-membrane">LLVGLFVMPIALLTIMF</span><span class="topo-outside">EAMW</span><span class="topo-membrane">PLPLVLCPAWLFLDVLFSTASIWHLCAISV</span><span class="topo-inside">DRYIAIKKP</span></span>
+<span class="topo-line"><span class="topo-inside">IQANQYNSRATAFI</span><span class="topo-membrane">KITVVWLISIGIAIPVPIKGI</span><span class="topo-outside">ET</span><span class="topo-unknown">DVD</span><span class="topo-outside">NPNNITCVLTKER</span><span class="topo-membrane">FGDFMLF</span></span>
+<span class="topo-line"><span class="topo-membrane">GSLAAFFTPLAIMIVTYFL</span><span class="topo-inside">TIHALQKKAADLEDNWETLNDNLKVIEKADNAAQVKDALTK</span></span>
+<span class="topo-line"><span class="topo-inside">MRAAALDAQKATPPKLE</span><span class="topo-unknown">DKSPDS</span><span class="topo-inside">PEMKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAE</span></span>
+<span class="topo-line"><span class="topo-inside">QLKTTRNAYIQKYLVQTISNEQRASKV</span><span class="topo-membrane">LGIVFFLFLLMWCPFFITNITLVLC</span><span class="topo-outside">DSCNQTTL</span></span>
+<span class="topo-line"><span class="topo-membrane">QMLLEIFVWIGYVSSGVNPLVYT</span><span class="topo-inside">LFNKTFRDAFGRYITCNYR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>13</td>
+      <td>41</td>
+      <td>53</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>36</td>
+      <td>54</td>
+      <td>76</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>52</td>
+      <td>77</td>
+      <td>92</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>53</td>
+      <td>77</td>
+      <td>93</td>
+      <td>117</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>81</td>
+      <td>118</td>
+      <td>121</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>111</td>
+      <td>122</td>
+      <td>151</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>112</td>
+      <td>134</td>
+      <td>152</td>
+      <td>174</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>155</td>
+      <td>175</td>
+      <td>195</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>156</td>
+      <td>157</td>
+      <td>196</td>
+      <td>197</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>158</td>
+      <td>160</td>
+      <td>198</td>
+      <td>200</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>161</td>
+      <td>173</td>
+      <td>201</td>
+      <td>213</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>174</td>
+      <td>199</td>
+      <td>214</td>
+      <td>239</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>208</td>
+      <td>240</td>
+      <td>248</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>209</td>
+      <td>257</td>
+      <td>1001</td>
+      <td>1049</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>263</td>
+      <td>1050</td>
+      <td>1055</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>264</td>
+      <td>314</td>
+      <td>1056</td>
+      <td>1106</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>315</td>
+      <td>327</td>
+      <td>313</td>
+      <td>325</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>328</td>
+      <td>352</td>
+      <td>326</td>
+      <td>350</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>353</td>
+      <td>360</td>
+      <td>351</td>
+      <td>358</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>361</td>
+      <td>383</td>
+      <td>359</td>
+      <td>381</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>384</td>
+      <td>402</td>
+      <td>382</td>
+      <td>400</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 ### doi/10.1126##science.1244142
 
-| Parameter | Value |
-|---|---|
-| Method | [LCP-SFX](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography) |
-| Protein sample | 5-HT2B-R-ergotamine-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril) complex in LCP at ~3 mg/ml (300 ug total) |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) |
-| Protein-to-lipid ratio | 40:60 (w/w) |
-| Temperature | 21 C (room temperature) |
-| Notes | LCP-grown microcrystals (5x5x5 um) delivered via LCP injector at LCLS CXI. Co-axial He/N2 gas stabilization at 20-30 bar. 4,217,508 diffraction patterns collected in 10 hours at 120 Hz, 50 fs pulses, 9.5 keV. 152,651 crystal hits (3.6%), 32,819 indexed (21.5%). Structure solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement) at 2.8 A resolution. Rwork/Rfree = 22.7/27.0%. Space group C2221. First room-temperature GPCR structure obtained by SFX. |
+**Expression:**
 
+- **Expression system**: [Sf9 Cells](/xray-mp-wiki/methods/expression-systems/sf9-insect-cells)
+- **Construct**: Human 5-HT2B receptor, N-terminal residues 1-35 truncated, C-terminal residues 406-481 truncated, thermostabilizing M144W mutation, ICL3 replaced by [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) fusion (A1-L106 of apocytochrome b562 RIL), N-terminal HA signal sequence and [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag), C-terminal PreScission site and 10xHis tag
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography">LCP-SFX</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>5-HT2B-R-<a href="/xray-mp-wiki/reagents/ligands/ergotamine/">ergotamine</a>-<a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL</a> complex in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a> at ~3 mg/ml (300 ug total)</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a></td>
+    </tr>
+    <tr>
+      <td>Protein-to-lipid ratio</td>
+      <td>40:60 (w/w)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>21 C (room temperature)</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a>-grown microcrystals (5x5x5 um) delivered via <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a> injector at LCLS CXI. Co-axial He/N2 gas stabilization at 20-30 bar. 4,217,508 diffraction patterns collected in 10 hours at 120 Hz, 50 fs pulses, 9.5 keV. 152,651 crystal hits (3.6%), 32,819 indexed (21.5%). Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement">Molecular Replacement</a> at 2.8 A resolution. Rwork/Rfree = 22.7/27.0%. Space group C2221. First room-temperature <a href="/xray-mp-wiki/concepts/gpcr/">GPCR</a> structure obtained by SFX.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -98,14 +373,14 @@ The residue L362^7.35 at the bottom of the orthosteric binding pocket acts as a 
 
 ## Cross-References
 
-- [LSD (Lysergic Acid Diethylamide)](/xray-mp-wiki/reagents/ligands/lsd) — Primary co-crystallized ligand in PDB 5TVN
-- [bRIL Fusion Protein](/xray-mp-wiki/reagents/protein-tags/bril) — Replaces ICL3 for crystallization
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm) — Primary solubilization detergent
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) — [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) lipid matrix for crystallization
-- [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes) — Buffer component in purification and crystallization
-- [Cholesterol Hemisucinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate) — Stabilizing lipid additive
-- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) — Crystallization method used
-- [Human 5-HT2A Receptor](/xray-mp-wiki/proteins/5ht2a-receptor) — Homology model based on 5-HT2B-R/LSD structure; functional assays performed
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) — Purification method used in protein preparation
-- [Baculovirus](/xray-mp-wiki/methods/expression-systems/baculovirus-expression) — Expression system used for protein production
-- [Serial Femtosecond Crystallography](/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography) — SFX method used to obtain room-temperature 2.8 A structure of 5-HT2B-ergotamine complex
+- <a href="/xray-mp-wiki/reagents/ligands/lsd">LSD (Lysergic Acid Diethylamide)</a> — Primary co-crystallized ligand in PDB 5TVN
+- <a href="/xray-mp-wiki/reagents/protein-tags/bril">bRIL Fusion Protein</a> — Replaces ICL3 for crystallization
+- <a href="/xray-mp-wiki/reagents/detergents/ddm">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Primary solubilization detergent
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a> — [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) lipid matrix for crystallization
+- <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES Buffer</a> — Buffer component in purification and crystallization
+- <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate">Cholesterol Hemisucinate (CHS)</a> — Stabilizing lipid additive
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">Lipidic Cubic Phase Crystallization</a> — Crystallization method used
+- <a href="/xray-mp-wiki/proteins/5ht2a-receptor">Human 5-HT2A Receptor</a> — Homology model based on 5-HT2B-R/LSD structure; functional assays performed
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a> — Purification method used in protein preparation
+- <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression">Baculovirus</a> — Expression system used for protein production
+- <a href="/xray-mp-wiki/methods/structure-determination/serial-femtosecond-crystallography">Serial Femtosecond Crystallography</a> — SFX method used to obtain room-temperature 2.8 A structure of 5-HT2B-ergotamine complex

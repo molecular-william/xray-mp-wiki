@@ -1,7 +1,7 @@
 ---
 title: "E. coli SemiSWEET (EcSemiSWEET)"
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,50 +17,134 @@ verified: false
 EcSemiSWEET is a sugar transporter from the SWEET family found in Escherichia coli. It is a bacterial homolog of eukaryotic SWEET transporters and belongs to the PQ-loop family characterized by a conserved Pro-Gln motif. EcSemiSWEET functions as a dimer of three-helix bundles and mediates facilitative diffusion of sugars across biological membranes. Crystal structures in both inward-open and outward-open conformations reveal a 'binder clip-like' conformational mechanism driven by the PQ-loop hinge motif.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##ncomms7112 | 4X1F | 2.0 | P212121 | [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet)-LESSGEN-LYFQGQFTS-H8 | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) |
-| doi/10.1038##ncomms7112 | 4X1G | 3.0 | C2 | [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet)-LESSGEN-LYFQGQFTS-H8 | -- |
+### doi/10.1038##ncomms7112
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4x1f">4X1F</a></td>
+      <td>2.0</td>
+      <td>P212121</td>
+      <td><a href="/xray-mp-wiki/concepts/semisweet">SemiSWEET Transporter Family</a>-LESSGEN-LYFQGQFTS-H8</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4x1g">4X1G</a></td>
+      <td>3.0</td>
+      <td>C2</td>
+      <td><a href="/xray-mp-wiki/concepts/semisweet">SemiSWEET Transporter Family</a>-LESSGEN-LYFQGQFTS-H8</td>
+      <td>--</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli Rosetta 2 (DE3)
 - **Construct**: [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet)-LESSGEN-LYFQGQFTS-H8
 - **Induction**: 0.2 mM [IPTG (Isopropyl-beta-D-thiogalactopyranoside)](/xray-mp-wiki/reagents/additives/iptg), OD600 0.6, 20 C for 20 h
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Microfluidizer processor</td>
+      <td>--</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a> pH 8.0, 150 mM NaCl, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">PMSF</a></td>
+      <td>Three passes at 15,000 psi; debris removed by 10,000g for 10 min</td>
+    </tr>
+    <tr>
+      <td>Membrane isolation</td>
+      <td><a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">Ultracentrifugation</a></td>
+      <td>--</td>
+      <td>--</td>
+      <td>138,000g for 1 h to collect membrane fraction</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>20 mM Tris-HCl pH 8.0, 150 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> (2%), <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> (0.4%)</td>
+      <td>90 min at 4 C; insoluble removed by 138,000g for 30 min</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography">IMAC</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> resin (Qiagen)</td>
+      <td>20 mM Tris-HCl pH 8.0, 150 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>, 0.05% DDM, 0.01% CHS</td>
+      <td>Incubated 90 min; washed; eluted with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a></td>
+    </tr>
+    <tr>
+      <td>Tag cleavage</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/tev-protease">TEV Protease</a> cleavage</td>
+      <td>--</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>-free Tris buffer</td>
+      <td>His8-tag cleaved by tobacco etch virus protease; dialysed overnight</td>
+    </tr>
+    <tr>
+      <td>Secondary affinity purification</td>
+      <td><a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography">IMAC</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> resin</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a>-free Tris buffer</td>
+      <td>Remove cleaved His8-tag and <a href="/xray-mp-wiki/reagents/additives/tev-protease">TEV Protease</a></td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Microfluidizer processor | -- | 50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0, 150 mM NaCl, 0.1 mM PMSF | Three passes at 15,000 psi; debris removed by 10,000g for 10 min |
-| Membrane isolation | Ultracentrifugation | -- | -- | 138,000g for 1 h to collect membrane fraction |
-| Solubilization | Detergent solubilization | -- | 20 mM Tris-HCl pH 8.0, 150 mM NaCl, 10 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) + [DDM](/xray-mp-wiki/reagents/detergents/ddm) (2%), CHS (0.4%) | 90 min at 4 C; insoluble removed by 138,000g for 30 min |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) | [IMAC](/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography) | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta) resin (Qiagen) | 20 mM Tris-HCl pH 8.0, 150 mM NaCl, 10 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole), 0.05% DDM, 0.01% CHS | Incubated 90 min; washed; eluted with 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) |
-| Tag cleavage | [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease) cleavage | -- | [Imidazole](/xray-mp-wiki/reagents/additives/imidazole)-free Tris buffer | His8-tag cleaved by tobacco etch virus protease; dialysed overnight |
-| Secondary affinity purification | [IMAC](/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography) | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta) resin | [Imidazole](/xray-mp-wiki/reagents/additives/imidazole)-free Tris buffer | Remove cleaved His8-tag and [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease) |
-
-
-## Crystallization
-
-### doi/10.1038##ncomms7112
-
-| Parameter | Value |
-|---|---|
-| Method | Sitting drop [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) |
-| Protein sample | [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet)-H8 (inward-open) |
-| Notes | Inward-open structure (Crystal-I) with [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) in substrate pocket |
-
-| Parameter | Value |
-|---|---|
-| Method | Sitting drop [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) |
-| Protein sample | [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet)-H8 (outward-open) |
-| Notes | Outward-open structure (Crystal-II); both conformations captured simultaneously |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td><a href="/xray-mp-wiki/concepts/semisweet">SemiSWEET Transporter Family</a>-H8 (inward-open)</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Inward-open structure (Crystal-I) with <a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a> in substrate pocket</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td><a href="/xray-mp-wiki/concepts/semisweet">SemiSWEET Transporter Family</a>-H8 (outward-open)</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Outward-open structure (Crystal-II); both conformations captured simultaneously</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -87,13 +171,13 @@ Proposed transport cycle: inward-open state captures substrate -> PQ-loop hinge 
 
 ## Cross-References
 
-- [LbSemiSWEET](/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/) — Related bacterial [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet) from Leptospira biflexa with solved outward-open and occluded structures
-- [SWEET Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/sweet-transporter/) — EcSemiSWEET is a bacterial member of the SWEET family of sugar transporters
-- [PQ-Loop Family](/xray-mp-wiki/concepts/protein-families/pq-loop-family/) — EcSemiSWEET is a PQ-loop family member characterized by conserved Pro-Gln motif
-- [Binder Clip Motion](/xray-mp-wiki/concepts/miscellaneous/binder-clip-motion/) — EcSemiSWEET undergoes binder clip-like conformational change mediated by PQ-loop hinge
-- [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for solubilization of EcSemiSWEET membrane fraction
-- [Cholesteryl Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Stabilizing additive used with [DDM](/xray-mp-wiki/reagents/detergents/ddm) during solubilization and purification
-- [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Inducer for protein expression at 0.2 mM
-- [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Primary buffer component (50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0) for expression and purification
-- [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/affinity-resins/ni-nta/) — Affinity resin used for His8-tag purification of EcSemiSWEET
-- [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) — Tobacco etch virus protease used to cleave His8-tag from EcSemiSWEET
+- <a href="/xray-mp-wiki/proteins/miscellaneous/lbsemisweet/">LbSemiSWEET</a> — Related bacterial [SemiSWEET Transporter Family](/xray-mp-wiki/concepts/semisweet) from Leptospira biflexa with solved outward-open and occluded structures
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/sweet-transporter/">SWEET Transporter Family</a> — EcSemiSWEET is a bacterial member of the SWEET family of sugar transporters
+- <a href="/xray-mp-wiki/concepts/protein-families/pq-loop-family/">PQ-Loop Family</a> — EcSemiSWEET is a PQ-loop family member characterized by conserved Pro-Gln motif
+- <a href="/xray-mp-wiki/concepts/miscellaneous/binder-clip-motion/">Binder Clip Motion</a> — EcSemiSWEET undergoes binder clip-like conformational change mediated by PQ-loop hinge
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> — Primary detergent used for solubilization of EcSemiSWEET membrane fraction
+- <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesteryl Hemisuccinate (CHS)</a> — Stabilizing additive used with [DDM](/xray-mp-wiki/reagents/detergents/ddm) during solubilization and purification
+- <a href="/xray-mp-wiki/reagents/additives/iptg/">IPTG</a> — Inducer for protein expression at 0.2 mM
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> — Primary buffer component (50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl) pH 8.0) for expression and purification
+- <a href="/xray-mp-wiki/reagents/affinity-resins/ni-nta/">Ni-NTA Agarose Resin</a> — Affinity resin used for His8-tag purification of EcSemiSWEET
+- <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease</a> — Tobacco etch virus protease used to cleave His8-tag from EcSemiSWEET

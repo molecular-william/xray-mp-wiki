@@ -1,7 +1,7 @@
 ---
 title: "AvGluR1 Ligand-Binding Domain (LBD)"
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,17 +17,65 @@ verified: false
 The ligand-binding domain (LBD) of AvGluR1, an ionotropic glutamate receptor from the freshwater bdelloid rotifer Adineta vaga. AvGluR1 is proposed as an evolutionary link between prokaryotic and eukaryotic iGluRs, possessing both an amino-terminal domain and three membrane-spanning segments with the SYTAN motif characteristic of AMPA, kainate, and NMDA receptors. The LBD exhibits unusual ligand binding properties, accommodating chemically diverse amino acids including alanine, cysteine, methionine, and phenylalanine alongside glutamate, aspartate, and serine. A key discovery is that [Chloride Ion](/xray-mp-wiki/reagents/additives/chloride/) ions act as surrogate ligand atoms, replacing the gamma-carboxyl group for neutral amino acids.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.str.2013.01.006 | 4IO2 | 1.37 | P21 | S1 A433-K543 + GT linker + S2 L656-P788 | L-glutamate |
-| doi/10.1016##j.str.2013.01.006 | 4IO3 | 1.66 | P21 | S1 A433-K543 + GT linker + S2 L656-P788 | L-aspartate |
-| doi/10.1016##j.str.2013.01.006 | 4IO4 | 1.94 | P21 | S1 A433-K543 + GT linker + S2 L656-P788 | L-serine |
-| doi/10.1016##j.str.2013.01.006 | 4IO5 | 1.72 | P21 | S1 A433-K543 + GT linker + S2 L656-P788 | L-alanine |
-| doi/10.1016##j.str.2013.01.006 | 4IO6 | 1.60 | P21 | S1 A433-K543 + GT linker + S2 L656-P788 | L-methionine |
-| doi/10.1016##j.str.2013.01.006 | 4IO7 | 1.92 | P21 | S1 A433-K543 + GT linker + S2 L656-P788 | L-phenylalanine |
+### doi/10.1016##j.str.2013.01.006
 
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4io2">4IO2</a></td>
+      <td>1.37</td>
+      <td>P21</td>
+      <td>S1 A433-K543 + GT linker + S2 L656-P788</td>
+      <td>L-glutamate</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4io3">4IO3</a></td>
+      <td>1.66</td>
+      <td>P21</td>
+      <td>S1 A433-K543 + GT linker + S2 L656-P788</td>
+      <td>L-aspartate</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4io4">4IO4</a></td>
+      <td>1.94</td>
+      <td>P21</td>
+      <td>S1 A433-K543 + GT linker + S2 L656-P788</td>
+      <td>L-serine</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4io5">4IO5</a></td>
+      <td>1.72</td>
+      <td>P21</td>
+      <td>S1 A433-K543 + GT linker + S2 L656-P788</td>
+      <td>L-alanine</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4io6">4IO6</a></td>
+      <td>1.60</td>
+      <td>P21</td>
+      <td>S1 A433-K543 + GT linker + S2 L656-P788</td>
+      <td>L-methionine</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4io7">4IO7</a></td>
+      <td>1.92</td>
+      <td>P21</td>
+      <td>S1 A433-K543 + GT linker + S2 L656-P788</td>
+      <td>L-phenylalanine</td>
+    </tr>
+  </tbody>
+</table>
  - Data collection: SER-CAT 22-ID beamline, APS, Advanced Photon Source
  - Data collection: SER-CAT 22-ID beamline, APS, Advanced Photon Source
  - Data collection: SER-CAT 22-ID beamline, APS, Advanced Photon Source
@@ -35,43 +83,90 @@ The ligand-binding domain (LBD) of AvGluR1, an ionotropic glutamate receptor fro
  - Data collection: SER-CAT 22-ID beamline, APS, Advanced Photon Source
  - Data collection: SER-CAT 22-ID beamline, APS, Advanced Photon Source
 
-## Expression and Purification
+**Expression:**
 
 - **Expression system**: Escherichia coli Origami B(DE3)
 - **Construct**: S1 residues A433-K543 connected via a GT dipeptide linker to S2 residues L656-P788, with N-terminal MH8SSGLVPRGS affinity tag and thrombin cleavage site
 - **Induction**: 30 uM [IPTG](/xray-mp-wiki/reagents/additives/iptg/) for 15 hr at 18 C
 - **Media**: pET22b vector
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli Origami B(DE3)
 - **Expression construct**: S1 A433-K543 + GT linker + S2 L656-P788, N-terminal MH8SSGLVPRGS affinity tag
 - **Tag info**: MH8SSGLVPRGS [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) with [Thrombin](/xray-mp-wiki/reagents/additives/thrombin/) cleavage site
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis and solubilization | Bacterial cell lysis, soluble fraction isolated | N/A | N/A | Soluble fraction from bacterial cell lysates |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA chromatography | [Ni-NTA Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) | N/A | N-terminal [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) purification |
-| Tag cleavage | Thrombin cleavage | N/A | N/A | Extended native N-terminal sequence by four residues (ARLK) to enable [Thrombin](/xray-mp-wiki/reagents/additives/thrombin/) cleavage |
-| Ion exchange chromatography | SP sepharose ion exchange | SP sepharose | N/A | Final purification step |
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis and solubilization</td>
+      <td>Bacterial cell lysis, soluble fraction isolated</td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>Soluble fraction from bacterial cell lysates</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> chromatography</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Resin</a></td>
+      <td>N/A</td>
+      <td>N-terminal <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His Tag</a> purification</td>
+    </tr>
+    <tr>
+      <td>Tag cleavage</td>
+      <td>Thrombin cleavage</td>
+      <td>N/A</td>
+      <td>N/A</td>
+      <td>Extended native N-terminal sequence by four residues (ARLK) to enable <a href="/xray-mp-wiki/reagents/additives/thrombin/">Thrombin</a> cleavage</td>
+    </tr>
+    <tr>
+      <td>Ion exchange chromatography</td>
+      <td>SP sepharose ion exchange</td>
+      <td>SP sepharose</td>
+      <td>N/A</td>
+      <td>Final purification step</td>
+    </tr>
+  </tbody>
+</table>
 **Yield**: 8-10 mg from 12 L cultures
 
+**Crystallization:**
 
-## Crystallization
-
-### doi/10.1016##j.str.2013.01.006
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | AvGluR1 LBD with [L-Glutamate](/xray-mp-wiki/reagents/substrates/l-glutamate/) |
-| Reservoir | N/A |
-| Temperature | N/A |
-| Growth time | N/A |
-| Notes | Crystallized as back-to-back dimers, canonical arrangement found in full-length GluA2. P21 space group |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>AvGluR1 LBD with <a href="/xray-mp-wiki/reagents/substrates/l-glutamate/">L-Glutamate</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>N/A</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystallized as back-to-back dimers, canonical arrangement found in full-length GluA2. P21 space group</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -98,13 +193,13 @@ Treatment with [Concanavalin A](/xray-mp-wiki/reagents/additives/concanavalin-a/
 
 ## Cross-References
 
-- [L-Glutamate](/xray-mp-wiki/reagents/substrates/l-glutamate/) — Primary orthosteric ligand of AvGluR1 with Kd 203 nM
-- [L-Aspartate](/xray-mp-wiki/reagents/substrates/l-aspartate/) — Acidic amino acid ligand binding to AvGluR1 LBD
-- [L-Alanine](/xray-mp-wiki/reagents/substrates/l-alanine/) — Neutral amino acid ligand using chloride ion as surrogate
-- [L-Serine](/xray-mp-wiki/reagents/substrates/l-serine/) — Neutral amino acid ligand using chloride ion as surrogate
-- [L-Methionine](/xray-mp-wiki/reagents/ligands/l-methionine/) — Neutral amino acid ligand with reduced chloride dependence
-- [L-Phenylalanine](/xray-mp-wiki/reagents/ligands/l-phenylalanine/) — Hydrophobic amino acid ligand that occludes anion binding site
-- [GluA2 LBD](/xray-mp-wiki/proteins/other-ion-channels/glua2-lbd/) — AMPA receptor LBD used for structural comparison of dimer assembly
-- [Allosteric Regulation](/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/) — ATD-LBD linker conformation and allosteric regulation of activation
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Referenced in avglur1
-- [Nickel Sepharose](/xray-mp-wiki/reagents/additives/nickel-nta/) — Referenced in avglur1
+- <a href="/xray-mp-wiki/reagents/substrates/l-glutamate/">L-Glutamate</a> — Primary orthosteric ligand of AvGluR1 with Kd 203 nM
+- <a href="/xray-mp-wiki/reagents/substrates/l-aspartate/">L-Aspartate</a> — Acidic amino acid ligand binding to AvGluR1 LBD
+- <a href="/xray-mp-wiki/reagents/substrates/l-alanine/">L-Alanine</a> — Neutral amino acid ligand using chloride ion as surrogate
+- <a href="/xray-mp-wiki/reagents/substrates/l-serine/">L-Serine</a> — Neutral amino acid ligand using chloride ion as surrogate
+- <a href="/xray-mp-wiki/reagents/ligands/l-methionine/">L-Methionine</a> — Neutral amino acid ligand with reduced chloride dependence
+- <a href="/xray-mp-wiki/reagents/ligands/l-phenylalanine/">L-Phenylalanine</a> — Hydrophobic amino acid ligand that occludes anion binding site
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/glua2-lbd/">GluA2 LBD</a> — AMPA receptor LBD used for structural comparison of dimer assembly
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/allosteric-regulation/">Allosteric Regulation</a> — ATD-LBD linker conformation and allosteric regulation of activation
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Referenced in avglur1
+- <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Nickel Sepharose</a> — Referenced in avglur1

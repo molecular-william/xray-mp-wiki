@@ -1,7 +1,7 @@
 ---
 title: "Gs Protein Alpha Subunit (Galpha s)"
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,38 +17,60 @@ verified: false
 The Gs protein alpha subunit (Galpha s) is the catalytic subunit of the stimulatory heterotrimeric G protein that activates adenylate cyclase. Galpha s is central to GPCR signaling as the primary transducer for Gs-coupled receptors including the beta2-adrenergic receptor. The subunit consists of two distinct domains: a Ras-like GTPase domain (Galpha sRas) that mediates receptor and Gbeta interactions, and an alpha-helical domain (Galpha sAH) that together with Galpha sRas forms the nucleotide binding pocket. The first high-resolution structure of Galpha s in complex with an activated GPCR revealed a dramatic 127-degree rotation of the alpha-helical domain relative to the Ras domain in the nucleotide-free state.
 
 
-## Structure Determination
-
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature10361 | 3SNY | 3.2 A | P212121 | Gs heterotrimer (Galpha s short + His6-Gbeta1 + Ggamma2) in complex with T4L-beta2AR-[Nb35](/xray-mp-wiki/reagents/antibodies/nb35/) | Nucleotide-free |
-| doi/10.1038##nature10361 | 1AZT | 2.0 A | Not specified | Galpha s-GTPgammaS complex | GTPgammaS |
-
-## Expression and Purification
-
-### Purification Workflow
-
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression | Baculovirus expression in HighFive insect cells | — | Insect Xpress serum-free media (Lonza) | Bovine Galpha s short expressed with His6-rat Gbeta1 and bovine Ggamma2 |
-| Cell lysis | Nitrogen cavitation bomb (600 p.s.i. N2, 40 min) | — | 50 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 8.0, 65 mM NaCl, 1.1 mM [Mgcl2](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 1 mM EDTA, 1x PTT, 1x LS, 5 mM [Beta Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/), 10 uM GDP | Membranes harvested by ultracentrifugation at 180,000g |
-| Membrane solubilization | Detergent solubilization of washed membrane pellet | — | Wash buffer (50 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 8.0, 50 mM NaCl, 100 uM [Mgcl2](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 1x PTT, 1x LS, 5 mM [Beta Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/), 10 uM GDP) | Frozen pellet resuspended and flash-frozen with liquid nitrogen |
-
-
-## Crystallization
+## Publications
 
 ### doi/10.1038##nature10361
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Lipid | 7.7 [MAG](/xray-mp-wiki/reagents/lipids/mag/) with 10% [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
-| Temperature | Not specified |
-| Notes | Gs alpha subunit crystallized as part of the T4L-beta2AR-Gs-[Nb35](/xray-mp-wiki/reagents/antibodies/nb35/) ternary complex |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3sny">3SNY</a></td>
+      <td>3.2 A</td>
+      <td>P212121</td>
+      <td>Gs heterotrimer (Galpha s short + His6-Gbeta1 + Ggamma2) in complex with T4L-beta2AR-<a href="/xray-mp-wiki/reagents/antibodies/nb35/">Nb35</a></td>
+      <td>Nucleotide-free</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1azt">1AZT</a></td>
+      <td>2.0 A</td>
+      <td>Not specified</td>
+      <td>Galpha s-GTPgammaS complex</td>
+      <td>GTPgammaS</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/))</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td>7.7 <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a> with 10% <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Gs alpha subunit crystallized as part of the T4L-beta2AR-Gs-<a href="/xray-mp-wiki/reagents/antibodies/nb35/">Nb35</a> ternary complex</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -88,13 +110,13 @@ heterotrimer is required for productive signaling.
 
 ## Cross-References
 
-- [Human Beta2-Adrenergic Receptor (beta2 AR)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Primary receptor that activates Galpha s
-- [Gs Protein Beta Subunit (Gbeta1)](/xray-mp-wiki/proteins/gpcr/gs-beta/) — Gbeta1 forms heterodimer with Galpha s in the Gs heterotrimer
-- [Gs Protein Gamma Subunit (Ggamma2)](/xray-mp-wiki/proteins/gpcr/gs-gamma/) — Ggamma2 pairs with Gbeta1 as the Gbeta gamma dimer
-- [Guanosine Diphosphate (GDP)](/xray-mp-wiki/reagents/ligands/gdp/) — Nucleotide bound to Galpha s in the inactive state
-- [Nb35](/xray-mp-wiki/reagents/antibodies/nb35/) — Referenced in gs-alpha text
-- [Beta Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/) — Referenced in gs-alpha text
-- [Mgcl2](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Referenced in gs-alpha text
-- [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) — Referenced in gs-alpha text
-- [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) — Referenced in gs-alpha text
-- [MAG](/xray-mp-wiki/reagents/lipids/mag/) — Referenced in gs-alpha text
+- <a href="/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/">Human Beta2-Adrenergic Receptor (beta2 AR)</a> — Primary receptor that activates Galpha s
+- <a href="/xray-mp-wiki/proteins/gpcr/gs-beta/">Gs Protein Beta Subunit (Gbeta1)</a> — Gbeta1 forms heterodimer with Galpha s in the Gs heterotrimer
+- <a href="/xray-mp-wiki/proteins/gpcr/gs-gamma/">Gs Protein Gamma Subunit (Ggamma2)</a> — Ggamma2 pairs with Gbeta1 as the Gbeta gamma dimer
+- <a href="/xray-mp-wiki/reagents/ligands/gdp/">Guanosine Diphosphate (GDP)</a> — Nucleotide bound to Galpha s in the inactive state
+- <a href="/xray-mp-wiki/reagents/antibodies/nb35/">Nb35</a> — Referenced in gs-alpha text
+- <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">Beta Mercaptoethanol</a> — Referenced in gs-alpha text
+- <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Mgcl2</a> — Referenced in gs-alpha text
+- <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> — Referenced in gs-alpha text
+- <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a> — Referenced in gs-alpha text
+- <a href="/xray-mp-wiki/reagents/lipids/mag/">MAG</a> — Referenced in gs-alpha text

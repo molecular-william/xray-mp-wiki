@@ -1,7 +1,7 @@
 ---
 title: "Syntaxin17 (STX17)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -25,24 +25,44 @@ of the STX17-SNAP29-[VAMP8 (Vesicle-Associated Membrane Protein 8)](/xray-mp-wik
 canonical four-helix bundle with 16 hydrophobic layers and a conserved hydrophilic 0 layer.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.2006997117 | 7BV6 | 2.0 |  | STX17 LIR motif (residues 167-188) in complex with [GABARAP (Gamma-aminobutyric Acid Receptor-Associated Protein)](/xray-mp-wiki/proteins/structural-adhesion/gabarap/) | none |
-| doi/10.1073##pnas.2006997117 | 7BV6 |  |  | STX17 (residues 142-228), [SNAP29 (Synaptosomal-Associated Protein 29)](/xray-mp-wiki/proteins/structural-adhesion/snap29/) (residues 40-126, 191-258), [VAMP8 (Vesicle-Associated Membrane Protein 8)](/xray-mp-wiki/proteins/structural-adhesion/vamp8/) (residues 8-75) SNARE core complex | none |
+### doi/10.1073##pnas.2006997117
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7bv6">7BV6</a></td>
+      <td>2.0</td>
+      <td></td>
+      <td>STX17 LIR motif (residues 167-188) in complex with <a href="/xray-mp-wiki/proteins/structural-adhesion/gabarap/">GABARAP (Gamma-aminobutyric Acid Receptor-Associated Protein)</a></td>
+      <td>none</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7bv6">7BV6</a></td>
+      <td></td>
+      <td></td>
+      <td>STX17 (residues 142-228), <a href="/xray-mp-wiki/proteins/structural-adhesion/snap29/">SNAP29 (Synaptosomal-Associated Protein 29)</a> (residues 40-126, 191-258), <a href="/xray-mp-wiki/proteins/structural-adhesion/vamp8/">VAMP8 (Vesicle-Associated Membrane Protein 8)</a> (residues 8-75) SNARE core complex</td>
+      <td>none</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli BL21(DE3)
 - **Construct**: Human STX17, [SNAP29 (Synaptosomal-Associated Protein 29)](/xray-mp-wiki/proteins/structural-adhesion/snap29/), [VAMP8 (Vesicle-Associated Membrane Protein 8)](/xray-mp-wiki/proteins/structural-adhesion/vamp8/), and ATG8s expressed as recombinant proteins with various affinity tags
 - **Notes**: Proteins expressed using in-house modified pET32a vectors. Induced with 100 uM [IPTG](/xray-mp-wiki/reagents/additives/iptg/) at 16 C.
 
-No purification described.
-
-## Crystallization
-
-No crystallization described.
 
 ## Biological / Functional Insights
 
@@ -94,11 +114,11 @@ implicated in NSF-mediated [SNARE Complex](/xray-mp-wiki/concepts/structural-mec
 
 ## Cross-References
 
-- [GABARAP (Gamma-aminobutyric Acid Receptor-Associated Protein)](/xray-mp-wiki/proteins/structural-adhesion/gabarap/) — GABARAP binds STX17 LIR motif and relieves autoinhibition
-- [SNAP29 (Synaptosomal-Associated Protein 29)](/xray-mp-wiki/proteins/structural-adhesion/snap29/) — SNAP29 contributes Qb- and Qc-SNARE motifs to the autophagic SNARE complex
-- [VAMP8 (Vesicle-Associated Membrane Protein 8)](/xray-mp-wiki/proteins/structural-adhesion/vamp8/) — VAMP8 contributes the R-SNARE motif to the autophagic SNARE complex
-- [Autophagic SNARE Fusion Mechanism](/xray-mp-wiki/concepts/construct-design/autophagic-snare-fusion-mechanism/) — STX17 is the central Qa-SNARE in this mechanism
-- [SNARE Complex](/xray-mp-wiki/concepts/structural-mechanisms/snare-complex/) — Related biological concept
-- [ITC](/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/) — Method used in structure determination or purification
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
-- [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/gabarap/">GABARAP (Gamma-aminobutyric Acid Receptor-Associated Protein)</a> — GABARAP binds STX17 LIR motif and relieves autoinhibition
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/snap29/">SNAP29 (Synaptosomal-Associated Protein 29)</a> — SNAP29 contributes Qb- and Qc-SNARE motifs to the autophagic SNARE complex
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/vamp8/">VAMP8 (Vesicle-Associated Membrane Protein 8)</a> — VAMP8 contributes the R-SNARE motif to the autophagic SNARE complex
+- <a href="/xray-mp-wiki/concepts/construct-design/autophagic-snare-fusion-mechanism/">Autophagic SNARE Fusion Mechanism</a> — STX17 is the central Qa-SNARE in this mechanism
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/snare-complex/">SNARE Complex</a> — Related biological concept
+- <a href="/xray-mp-wiki/methods/quality-assessment/isothermal-titration-calorimetry/">ITC</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/iptg/">IPTG</a> — Additive used in purification or crystallization buffers

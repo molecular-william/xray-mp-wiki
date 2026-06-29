@@ -1,7 +1,7 @@
 ---
 title: "Xanthorhodopsin"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,43 +17,266 @@ verified: false
 Xanthorhodopsin is a light-driven proton pump from the eubacterium Salinibacter ruber that contains a dual chromophore system: a [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) chromophore and a noncovalently bound [Carotenoid](/xray-mp-wiki/reagents/ligands/carotenoid/) ([Salinixanthin](/xray-mp-wiki/reagents/ligands/salinixanthin/)) antenna. The 1.9 Å crystal structure reveals 7 transmembrane helices similar to [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) and archaerhodopsin, but with considerably different architecture. The structure introduces novel structural motifs for proton transfer during the photocycle, particularly a His-62–Asp-96 complex for regulating the pKa of the primary proton acceptor, and a dramatically different proton release mechanism compared to archaeal pumps. The close approach of the [Salinixanthin](/xray-mp-wiki/reagents/ligands/salinixanthin/) and [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) polyenes (center-to-center distance 11.7 Å, 46° angle) explains the ~45% efficiency of excited-state energy transfer from the [Carotenoid](/xray-mp-wiki/reagents/ligands/carotenoid/) antenna to [Retinal](/xray-mp-wiki/reagents/ligands/retinal/). This structure defines the geometry of the dual chromophore system and provides a model for eubacterial proton pump mechanisms.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.0807162105 | 3DDL | 1.9 A | P1 | Full-length xanthorhodopsin from Salinibacter ruber | [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) and [Salinixanthin](/xray-mp-wiki/reagents/ligands/salinixanthin/) ([Carotenoid](/xray-mp-wiki/reagents/ligands/carotenoid/) antenna) |
+### doi/10.1073##pnas.0807162105
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3ddl">3DDL</a></td>
+      <td>1.9 A</td>
+      <td>P1</td>
+      <td>Full-length xanthorhodopsin from Salinibacter ruber</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a> and <a href="/xray-mp-wiki/reagents/ligands/salinixanthin/">Salinixanthin</a> (<a href="/xray-mp-wiki/reagents/ligands/carotenoid/">Carotenoid</a> antenna)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Salinibacter ruber (native source)
 - **Construct**: Native xanthorhodopsin
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell disruption and membrane preparation</td>
+      <td>French press</td>
+      <td>--</td>
+      <td>100 mM NaCl, 5 mM bicine (pH 8.0) + 0.01% dodecyl maltoside</td>
+      <td>Cells broken and membranes washed with buffer containing 0.01% dodecyl maltoside</td>
+    </tr>
+    <tr>
+      <td>Membrane resuspension</td>
+      <td>Centrifugation</td>
+      <td>--</td>
+      <td>30 mM phosphate (pH 5.6), 1 mM sodium azide + --</td>
+      <td>Membrane fraction resuspended to 5 mg/ml xanthorhodopsin</td>
+    </tr>
+    <tr>
+      <td>Solubilization in bicelle medium</td>
+      <td>Bicelle solubilization</td>
+      <td>--</td>
+      <td>-- + 16.7% (wt/wt) <a href="/xray-mp-wiki/reagents/lipids/dmpc/">DMPC</a> in 20% nonyl maltoside</td>
+      <td>One volume of <a href="/xray-mp-wiki/reagents/lipids/dmpc/">DMPC</a>/nonyl maltoside bicelle mixture added to 3 volumes of xanthorhodopsin preparation, vortexed, incubated overnight at 4°C</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell disruption and membrane preparation | French press | -- | 100 mM NaCl, 5 mM bicine (pH 8.0) + 0.01% dodecyl maltoside | Cells broken and membranes washed with buffer containing 0.01% dodecyl maltoside |
-| Membrane resuspension | Centrifugation | -- | 30 mM phosphate (pH 5.6), 1 mM sodium azide + -- | Membrane fraction resuspended to 5 mg/ml xanthorhodopsin |
-| Solubilization in bicelle medium | Bicelle solubilization | -- | -- + 16.7% (wt/wt) [DMPC](/xray-mp-wiki/reagents/lipids/dmpc/) in 20% nonyl maltoside | One volume of [DMPC](/xray-mp-wiki/reagents/lipids/dmpc/)/nonyl maltoside bicelle mixture added to 3 volumes of xanthorhodopsin preparation, vortexed, incubated overnight at 4°C |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting-drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">vapor diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Solubilized xanthorhodopsin in bicelle medium (5 mg/ml)</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>2.5-3 M <a href="/xray-mp-wiki/reagents/buffers/sodium-phosphate/">Sodium Phosphate</a> (pH 5.6)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>22°C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>4-5 months</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Stepwise equilibration with 5%, 10%, then 15% <a href="/xray-mp-wiki/reagents/additives/ethylene-glycol/">Ethylene Glycol</a></td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown in sitting drops containing 10 µL solubilized xanthorhodopsin, 3 µL of 3 M <a href="/xray-mp-wiki/reagents/buffers/sodium-phosphate/">Sodium Phosphate</a> (pH 5.6), and 2 µL of 2.5 mM sodium azide. Crystals approximately 30 × 30 × 150 µm. Data collected at 100 K on SSRL beamline 9.1.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3ddl">3DDL</a> — Chain A (7 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MLQ</span><span class="topo-inside">ELPTLTPGQYSLV</span><span class="topo-membrane">FNMFSFTVATMTASFVFFVLARNNV</span><span class="topo-outside">APKY</span><span class="topo-membrane">RISMMVSALVVFIAG</span></span>
+<span class="topo-line"><span class="topo-membrane">YHYFRITS</span><span class="topo-inside">SWEAAYALQNGMYQPTGELFND</span><span class="topo-membrane">AYRYVDWLLTVPLLTVELVLVM</span><span class="topo-outside">GLPKNERG</span></span>
+<span class="topo-line"><span class="topo-membrane">PLAAKLGFLAALMIVLGYPGEVS</span><span class="topo-inside">ENAAL</span><span class="topo-membrane">FGTRGLWGFLSTIPFVWILYILFTQL</span><span class="topo-outside">GDTIQR</span></span>
+<span class="topo-line"><span class="topo-outside">QSSRVST</span><span class="topo-membrane">LLGNARLLLLATWGFYPIAYMIPM</span><span class="topo-unknown">AFPEAF</span><span class="topo-inside">PSNTPGTIVA</span><span class="topo-membrane">LQVGYTIADVLAK</span></span>
+<span class="topo-line"><span class="topo-membrane">AGYGVLIYNIAK</span><span class="topo-outside">AKSEEEGFN</span><span class="topo-unknown">VSEMVEPATASA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>1</td>
+      <td>3</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>16</td>
+      <td>4</td>
+      <td>16</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>41</td>
+      <td>17</td>
+      <td>41</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>45</td>
+      <td>42</td>
+      <td>45</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>68</td>
+      <td>46</td>
+      <td>68</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>90</td>
+      <td>69</td>
+      <td>90</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>112</td>
+      <td>91</td>
+      <td>112</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>113</td>
+      <td>120</td>
+      <td>113</td>
+      <td>120</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>143</td>
+      <td>121</td>
+      <td>143</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>144</td>
+      <td>148</td>
+      <td>144</td>
+      <td>148</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>174</td>
+      <td>149</td>
+      <td>174</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>187</td>
+      <td>175</td>
+      <td>187</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>188</td>
+      <td>211</td>
+      <td>188</td>
+      <td>211</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>212</td>
+      <td>217</td>
+      <td>212</td>
+      <td>217</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>218</td>
+      <td>227</td>
+      <td>218</td>
+      <td>227</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>228</td>
+      <td>252</td>
+      <td>228</td>
+      <td>252</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>253</td>
+      <td>261</td>
+      <td>253</td>
+      <td>261</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>262</td>
+      <td>273</td>
+      <td>262</td>
+      <td>273</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1073##pnas.0807162105
-
-| Parameter | Value |
-|---|---|
-| Method | Sitting-drop vapor diffusion |
-| Protein sample | Solubilized xanthorhodopsin in bicelle medium (5 mg/ml) |
-| Reservoir | 2.5-3 M [Sodium Phosphate](/xray-mp-wiki/reagents/buffers/sodium-phosphate/) (pH 5.6) |
-| Temperature | 22°C |
-| Growth time | 4-5 months |
-| Cryoprotection | Stepwise equilibration with 5%, 10%, then 15% [Ethylene Glycol](/xray-mp-wiki/reagents/additives/ethylene-glycol/) |
-| Notes | Crystals grown in sitting drops containing 10 µL solubilized xanthorhodopsin, 3 µL of 3 M [Sodium Phosphate](/xray-mp-wiki/reagents/buffers/sodium-phosphate/) (pH 5.6), and 2 µL of 2.5 mM sodium azide. Crystals approximately 30 × 30 × 150 µm. Data collected at 100 K on SSRL beamline 9.1. |
-
+</div>
 
 ## Biological / Functional Insights
 
@@ -76,13 +299,13 @@ The main chain of xanthorhodopsin differs more from [Bacteriorhodopsin](/xray-mp
 
 ## Cross-References
 
-- [Salinixanthin](/xray-mp-wiki/reagents/ligands/salinixanthin/) — Carotenoid antenna chromophore bound to xanthorhodopsin
-- [Retinal](/xray-mp-wiki/reagents/ligands/retinal/) — Primary chromophore of xanthorhodopsin
-- [Bacteriorhodopsin](/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/) — Archaeal homolog with different proton release mechanism
-- [Proton Release Complex](/xray-mp-wiki/concepts/rhodopsin-mechanisms/proton-release-complex/) — Xanthorhodopsin lacks the canonical proton release complex found in BR
-- [Evolution of Rhodopsins](/xray-mp-wiki/concepts/rhodopsin-mechanisms/evolution-of-rhodopsins/) — Xanthorhodopsin reveals evolutionary divergence between archaeal and eubacterial proton pumps
-- [Bicelle Crystallization](/xray-mp-wiki/methods/crystallization/bicelle-crystallization/) — Structure was solved from crystals grown in bicelle medium
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
-- [Anabaena Sensory Rhodopsin](/xray-mp-wiki/proteins/rhodopsins/anabaena-sensory-rhodopsin/) — Related protein structure
-- [Ethylene Glycol](/xray-mp-wiki/reagents/additives/ethylene-glycol/) — Additive used in purification or crystallization buffers
-- [Sodium Phosphate](/xray-mp-wiki/reagents/buffers/sodium-phosphate/) — Buffer component in purification or crystallization
+- <a href="/xray-mp-wiki/reagents/ligands/salinixanthin/">Salinixanthin</a> — Carotenoid antenna chromophore bound to xanthorhodopsin
+- <a href="/xray-mp-wiki/reagents/ligands/retinal/">Retinal</a> — Primary chromophore of xanthorhodopsin
+- <a href="/xray-mp-wiki/proteins/rhodopsins/bacteriorhodopsin/">Bacteriorhodopsin</a> — Archaeal homolog with different proton release mechanism
+- <a href="/xray-mp-wiki/concepts/rhodopsin-mechanisms/proton-release-complex/">Proton Release Complex</a> — Xanthorhodopsin lacks the canonical proton release complex found in BR
+- <a href="/xray-mp-wiki/concepts/rhodopsin-mechanisms/evolution-of-rhodopsins/">Evolution of Rhodopsins</a> — Xanthorhodopsin reveals evolutionary divergence between archaeal and eubacterial proton pumps
+- <a href="/xray-mp-wiki/methods/crystallization/bicelle-crystallization/">Bicelle Crystallization</a> — Structure was solved from crystals grown in bicelle medium
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/rhodopsins/anabaena-sensory-rhodopsin/">Anabaena Sensory Rhodopsin</a> — Related protein structure
+- <a href="/xray-mp-wiki/reagents/additives/ethylene-glycol/">Ethylene Glycol</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/buffers/sodium-phosphate/">Sodium Phosphate</a> — Buffer component in purification or crystallization

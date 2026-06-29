@@ -1,7 +1,7 @@
 ---
 title: "LptB2FGC LPS Transport Complex from Enterobacter cloacae and Vibrio cholerae"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,60 +16,990 @@ verified: false
 
 The LptB2FGC complex is the inner membrane component of the lipopolysaccharide (LPS) transport machinery in Gram-negative bacteria, comprising an ABC transporter (LptB2FG) and an accessory protein LptC. This complex powers the unidirectional extraction of LPS from the inner membrane and its transfer to the periplasmic bridge protein LptA, which ultimately delivers LPS to the outer membrane translocon LptDE. Crystal structures of the LptB2FGC complex from Enterobacter cloacae (3.2 A, PDB 6MIT) and Vibrio cholerae (2.85 A, PDB 6MJP) reveal that LptC inserts a single transmembrane helix between LptG TM1 and LptF TM5, breaking the pseudosymmetry of the transporter and defining a single pathway for LPS entry into the cavity. ATP binding and hydrolysis by the cytoplasmic ATPase LptB provides the energy to extract LPS from the membrane, while a gate in the beta-jellyroll domain of LptF prevents backward movement, ensuring unidirectional transport.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##s41586-019-1039-0 | 6MIT | 3.2 A | P212121 | E. cloacae LptB2FGC complex, LptC with C-terminal thrombin cleavage site and hepta-histidine tag | Novobiocin (involved in crystal contacts only) |
-| doi/10.1038##s41586-019-1039-0 | 6MJP | 2.85 A | P212121 | V. cholerae LptB(E163Q)2FGC complex (catalytically inactive ATPase mutant), LptC with C-terminal thrombin cleavage site and hepta-histidine tag | AMPPNP (non-hydrolysable ATP analog) |
+### doi/10.1038##s41586-019-1039-0
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6mit">6MIT</a></td>
+      <td>3.2 A</td>
+      <td>P212121</td>
+      <td>E. cloacae LptB2FGC complex, LptC with C-terminal thrombin cleavage site and hepta-histidine tag</td>
+      <td>Novobiocin (involved in crystal contacts only)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6mjp">6MJP</a></td>
+      <td>2.85 A</td>
+      <td>P212121</td>
+      <td>V. cholerae LptB(E163Q)2FGC complex (catalytically inactive ATPase mutant), LptC with C-terminal thrombin cleavage site and hepta-histidine tag</td>
+      <td>AMPPNP (non-hydrolysable ATP analog)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli C43
 - **Construct**: LptB and LptFG cloned into pCDFduet; LptC with C-terminal thrombin-his7 tag in pBADHisA. Co-transformed into C43 E. coli.
 - **Induction**: 200 uM [IPTG](/xray-mp-wiki/reagents/additives/iptg/) + 0.02% L-arabinose for 12 h at 30 C for E. cloacae; 20 C for V. cholerae in LB
 - **Media**: M9 minimal media with trace elements, carbenicillin (50 ug/mL), spectinomycin (50 ug/mL) for E. cloacae; LB for V. cholerae
 
-### Purification Workflow
+**Purification:**
 
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Emulsiflex C3 homogenizer (3x passes at 15,000 psi) | — | 20 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.4, 300 mM NaCl, 0.2 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/), 1 mM PMSF, lysozyme (100 ug/mL), DNAse I (50 ug/mL), cOmplete protease inhibitors | Debris removed by 12,000 x g spin; membranes pelleted at 100,000 x g for 1 h |
-| Membrane solubilization | Detergent solubilization | — | 20 mM Tris pH 7.4, 300 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 5 mM MgCl2, cOmplete protease inhibitors + 1% w/v [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Supplemented with 2 mM ATP; rocked at 4 C for 2 h |
-| Ni-NTA affinity | Ni-NTA agarose gravity flow | — | 20 mM Tris pH 7.4, 300 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Washed with 20 CV of 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), then 30 CV wash buffer |
-| Gel filtration | SEC | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) Increase 10/300 | 300 mM NaCl, 20 mM Tris pH 7.4, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 0.025% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Supplemented with 0.5 mM THP. Tag cleaved with thrombin, then flowed through Ni-NTA to remove uncleaved protein |
-| Tag removal | Thrombin cleavage | — |  | Incubated overnight at 4 C with restriction grade thrombin; removed by passing through Ni-NTA with 8 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Emulsiflex C3 homogenizer (3x passes at 15,000 psi)</td>
+      <td>—</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.4, 300 mM NaCl, 0.2 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, 1 mM PMSF, lysozyme (100 ug/mL), DNAse I (50 ug/mL), cOmplete protease inhibitors</td>
+      <td>Debris removed by 12,000 x g spin; membranes pelleted at 100,000 x g for 1 h</td>
+    </tr>
+    <tr>
+      <td>Membrane solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>—</td>
+      <td>20 mM Tris pH 7.4, 300 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 5 mM MgCl2, cOmplete protease inhibitors + 1% w/v <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Supplemented with 2 mM ATP; rocked at 4 C for 2 h</td>
+    </tr>
+    <tr>
+      <td>Ni-NTA affinity</td>
+      <td>Ni-NTA agarose gravity flow</td>
+      <td>—</td>
+      <td>20 mM Tris pH 7.4, 300 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Washed with 20 CV of 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, then 30 CV wash buffer</td>
+    </tr>
+    <tr>
+      <td>Gel filtration</td>
+      <td>SEC</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase 10/300</td>
+      <td>300 mM NaCl, 20 mM Tris pH 7.4, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 0.025% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Supplemented with 0.5 mM THP. Tag cleaved with thrombin, then flowed through Ni-NTA to remove uncleaved protein</td>
+    </tr>
+    <tr>
+      <td>Tag removal</td>
+      <td>Thrombin cleavage</td>
+      <td>—</td>
+      <td></td>
+      <td>Incubated overnight at 4 C with restriction grade thrombin; removed by passing through Ni-NTA with 8 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: 10-15 mg/mL in gel filtration buffer using 100-kDa cut-off concentrator
 
+**Crystallization:**
 
-## Crystallization
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>E. cloacae LptB2FGC at 14 mg/mL, supplemented with 2 mM Na-novobiocin</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>500 mM Li2SO4, 100 mM MES pH 6.5, 21% v/v <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>3 weeks</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Stepwise dehydration by increasing <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a> concentration by 2% per day to 35%; crystals frozen directly from drops</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Streak-seeding improved crystal morphology. Novobiocin involved in crystal contacts only, not in a functionally significant site.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>V. cholerae LptB(E163Q)2FGC at 10 mg/mL with 2 mM AMPPNP</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>200 mM CaCl2, 100 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.5, 40% v/v <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>1-6 weeks</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Cryo-solution of 41% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a>, 200 mM CaCl2, 300 mM NaCl, 100 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.5</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Long, fragile plate crystals. Crystals also obtained with wild-type protein and AMPPNP.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-### doi/10.1038##s41586-019-1039-0
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6mit">6MIT</a> — Chain A (0 TMs, non_tm)**
 
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | E. cloacae LptB2FGC at 14 mg/mL, supplemented with 2 mM Na-novobiocin |
-| Reservoir | 500 mM Li2SO4, 100 mM MES pH 6.5, 21% v/v [PEG400](/xray-mp-wiki/reagents/additives/peg-400/) |
-| Temperature | 4 C |
-| Growth time | 3 weeks |
-| Cryoprotection | Stepwise dehydration by increasing [PEG400](/xray-mp-wiki/reagents/additives/peg-400/) concentration by 2% per day to 35%; crystals frozen directly from drops |
-| Notes | Streak-seeding improved crystal morphology. Novobiocin involved in crystal contacts only, not in a functionally significant site. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ATLTAKNLAKAYKGRRVVEDVSLTVNSGEIVGLLGPNGAGKTTTFYMVVGIVPRDAGNI</span></span>
+<span class="topo-line"><span class="topo-outside">IIDDEDISLLPLHARARRGIGYLPQEASIFRRLSVFDNLMAVLQIRDDLTSEQRQDRANE</span></span>
+<span class="topo-line"><span class="topo-outside">LMEEFHIEHLRDSLGQALSGGERRRVEIARALAANPKFILLDEPFAGVDPISVIDIKRII</span></span>
+<span class="topo-line"><span class="topo-outside">EHLRDSGLGVLITDHNVRETLAVCERAYIVSQGNLIAHGTPQQILEDDHVKRVYLGEDFR</span></span>
+<span class="topo-line"><span class="topo-outside">L</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>241</td>
+      <td>2</td>
+      <td>241</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Sitting-drop vapor diffusion |
-| Protein sample | V. cholerae LptB(E163Q)2FGC at 10 mg/mL with 2 mM AMPPNP |
-| Reservoir | 200 mM CaCl2, 100 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.5, 40% v/v [PEG400](/xray-mp-wiki/reagents/additives/peg-400/) |
-| Temperature | 20 C |
-| Growth time | 1-6 weeks |
-| Cryoprotection | Cryo-solution of 41% [PEG400](/xray-mp-wiki/reagents/additives/peg-400/), 200 mM CaCl2, 300 mM NaCl, 100 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.5 |
-| Notes | Long, fragile plate crystals. Crystals also obtained with wild-type protein and AMPPNP. |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6mit">6MIT</a> — Chain B (0 TMs, non_tm)**
 
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-outside">ATLTAKNLAKAYKGRRVVEDVSLTVNSGEIVGLLGPNGAGKTTTFYMVVGIVPRDAGNI</span></span>
+<span class="topo-line"><span class="topo-outside">IIDDEDISLLPLHARARRGIGYLPQEASIFRRLSVFDNLMAVLQIRDDLTSEQRQDRANE</span></span>
+<span class="topo-line"><span class="topo-outside">LMEEFHIEHLRDSLGQALSGGERRRVEIARALAANPKFILLDEPFAGVDPISVIDIKRII</span></span>
+<span class="topo-line"><span class="topo-outside">EHLRDSGLGVLITDHNVRETLAVCERAYIVSQGNLIAHGTPQQILEDDHVKRVYLGEDFR</span></span>
+<span class="topo-line"><span class="topo-outside">L</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>241</td>
+      <td>2</td>
+      <td>241</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6mit">6MIT</a> — Chain C (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">MSKT</span><span class="topo-membrane">RRWVIILLSLVALILIGVNL</span><span class="topo-unknown">ADRDDTQTEVINNN</span><span class="topo-inside">DPTYKSDHSDTVVYSPEGALNY</span></span>
+<span class="topo-line"><span class="topo-inside">RLIAQHVEYFSDDGISWFTQPVMTTFDKDKVPTWSIKSDRAKLTNDRMLYLYGHVEVNAL</span></span>
+<span class="topo-line"><span class="topo-inside">TADSQLRKITTDNAQINLVTQDVTSQDLVTLYGTTFNSSGLRMRGNLRSKNAELIEKVRT</span></span>
+<span class="topo-line"><span class="topo-inside">SYEIQNKQT</span><span class="topo-unknown">QPLVPR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>1</td>
+      <td>4</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>24</td>
+      <td>5</td>
+      <td>24</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>39</td>
+      <td>189</td>
+      <td>39</td>
+      <td>189</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6mit">6MIT</a> — Chain F (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">MIIIRYLV</span><span class="topo-membrane">RETLKSQLAILFILLLIFFCQKLVKIL</span><span class="topo-inside">GAAVDGEIPTNLV</span><span class="topo-membrane">LSLLGLGIPEMA</span></span>
+<span class="topo-line"><span class="topo-membrane">QLILPLSLFLGLLMT</span><span class="topo-outside">LGKLYTESEITVMHACGLSKAVLV</span><span class="topo-membrane">KAAMILALFTGIVAAVNVMWA</span></span>
+<span class="topo-line"><span class="topo-membrane">GPMS</span><span class="topo-inside">SRHQDEVLAEAKANPGMAALAQGQFQQATDGNSVLFIESVDGSKFNDVFLAQLRTK</span></span>
+<span class="topo-line"><span class="topo-inside">GNARPSVVVADSGQLAQRKDGSQVVTLNKGTRFEGTAMLRDFRITDFQNYQAIIG</span><span class="topo-unknown">HQAVA</span></span>
+<span class="topo-line"><span class="topo-unknown">L</span><span class="topo-inside">DPTDTEQMD</span><span class="topo-unknown">MRTLWNT</span><span class="topo-inside">DTDRARA</span><span class="topo-membrane">EFHWRITLVFTVFMMALIVVPLS</span><span class="topo-outside">VVNPRQGR</span><span class="topo-membrane">VLSML</span></span>
+<span class="topo-line"><span class="topo-membrane">PAMLLYLIYFLLQTSIRS</span><span class="topo-inside">NGAKGKLD</span><span class="topo-membrane">PMVWTWFVNSLYILLALGLNL</span><span class="topo-outside">WDTVPVRRI</span><span class="topo-unknown">RARF</span></span>
+<span class="topo-line"><span class="topo-unknown">SRKGAI</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>8</td>
+      <td>1</td>
+      <td>8</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>35</td>
+      <td>9</td>
+      <td>35</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>48</td>
+      <td>36</td>
+      <td>48</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>75</td>
+      <td>49</td>
+      <td>75</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>99</td>
+      <td>76</td>
+      <td>99</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>124</td>
+      <td>100</td>
+      <td>124</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>125</td>
+      <td>235</td>
+      <td>125</td>
+      <td>235</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>242</td>
+      <td>250</td>
+      <td>242</td>
+      <td>250</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>251</td>
+      <td>257</td>
+      <td>251</td>
+      <td>257</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>258</td>
+      <td>264</td>
+      <td>258</td>
+      <td>264</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>265</td>
+      <td>287</td>
+      <td>265</td>
+      <td>287</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>288</td>
+      <td>295</td>
+      <td>288</td>
+      <td>295</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>296</td>
+      <td>318</td>
+      <td>296</td>
+      <td>318</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>319</td>
+      <td>326</td>
+      <td>319</td>
+      <td>326</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>327</td>
+      <td>347</td>
+      <td>327</td>
+      <td>347</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>348</td>
+      <td>356</td>
+      <td>348</td>
+      <td>356</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6mit">6MIT</a> — Chain G (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MQAF</span><span class="topo-outside">GV</span><span class="topo-unknown">LDRYIG</span><span class="topo-membrane">KTIFTTIMMTLFMLVSLSGIIKFVDQLK</span><span class="topo-inside">KAGQGSYD</span><span class="topo-membrane">ALGAGMYTLLSV</span></span>
+<span class="topo-line"><span class="topo-membrane">PKDVQIFFPMAALLGALLGL</span><span class="topo-outside">GMLAQRSELVVMQASGFTRLQVA</span><span class="topo-membrane">LSVMKTAIPLVLLTMAI</span></span>
+<span class="topo-line"><span class="topo-membrane">GEWVAPQGE</span><span class="topo-inside">QMARNYRAQAMYGGSLLSTQQGLWAKDGQNFVYIERVKGDDELGGVSIYAF</span></span>
+<span class="topo-line"><span class="topo-inside">NDERRLQSVRHASSAKFDPEHKQWRLSQVDESDLTNPKQITGSQTVSGTWKTNLTPDKLG</span></span>
+<span class="topo-line"><span class="topo-inside">VVALDPDALSISGLHNYVKYLKSSGQDAGRYQL</span><span class="topo-membrane">NMWSKIFQPMSVAVMMLMALSFI</span><span class="topo-outside">FGPL</span></span>
+<span class="topo-line"><span class="topo-outside">RSVPM</span><span class="topo-membrane">GVRVVTGISFGFVFYVLDQIFG</span><span class="topo-inside">PLTLVYGIPPI</span><span class="topo-membrane">IGALLPSASFLLISLWLLLKR</span><span class="topo-unknown">S</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>5</td>
+      <td>6</td>
+      <td>5</td>
+      <td>6</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>12</td>
+      <td>7</td>
+      <td>12</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>40</td>
+      <td>13</td>
+      <td>40</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>48</td>
+      <td>41</td>
+      <td>48</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>80</td>
+      <td>49</td>
+      <td>80</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>103</td>
+      <td>81</td>
+      <td>103</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>129</td>
+      <td>104</td>
+      <td>129</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>273</td>
+      <td>130</td>
+      <td>273</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>274</td>
+      <td>296</td>
+      <td>274</td>
+      <td>296</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>297</td>
+      <td>305</td>
+      <td>297</td>
+      <td>305</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>306</td>
+      <td>327</td>
+      <td>306</td>
+      <td>327</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>328</td>
+      <td>338</td>
+      <td>328</td>
+      <td>338</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>339</td>
+      <td>359</td>
+      <td>339</td>
+      <td>359</td>
+      <td>Membrane</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6mjp">6MJP</a> — Chain A (0 TMs, non_tm)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AILKAQHLAKSYKKRKVVSDVSLQVESGQIVGLLGPNGAGKTTSFYMIVGLVARDEGTI</span></span>
+<span class="topo-line"><span class="topo-inside">TIDDNDISILPMHSRSRMGIGYLPQEASIFRKLSVEDNIMAVLQTREELTHEERQDKLED</span></span>
+<span class="topo-line"><span class="topo-inside">LLEEFHIQHIRKSAGMALSGGERRRVEIARALAANPQFILLDQPFAGVDPISVIDIKKII</span></span>
+<span class="topo-line"><span class="topo-inside">EHLRDRGLGVLITDHNVRETLDVCEKAYIVSQGRLIAEGTPQDVLNNEQVKQVYLGEQFR</span></span>
+<span class="topo-line"><span class="topo-inside">L</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>241</td>
+      <td>2</td>
+      <td>241</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6mjp">6MJP</a> — Chain B (0 TMs, non_tm)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">AILKAQHLAKSYKKRKVVSDVSLQVESGQIVGLLGPNGAGKTTSFYMIVGLVARDEGTI</span></span>
+<span class="topo-line"><span class="topo-inside">TIDDNDISILPMHSRSRMGIGYLPQEASIFRKLSVEDNIMAVLQTREELTHEERQDKLED</span></span>
+<span class="topo-line"><span class="topo-inside">LLEEFHIQHIRKSAGMALSGGERRRVEIARALAANPQFILLDQPFAGVDPISVIDIKKII</span></span>
+<span class="topo-line"><span class="topo-inside">EHLRDRGLGVLITDHNVRETLDVCEKAYIVSQGRLIAEGTPQDVLNNEQVKQVYLGEQFR</span></span>
+<span class="topo-line"><span class="topo-inside">L</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>241</td>
+      <td>2</td>
+      <td>241</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6mjp">6MJP</a> — Chain C (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">M</span><span class="topo-inside">S</span><span class="topo-membrane">LSRIVYVLLLFIASWSLY</span><span class="topo-outside">YLLGQEQDSKIQVAPNLELPMFSGENLENISYDEQGIRNY</span></span>
+<span class="topo-line"><span class="topo-outside">VITSIHLDHYAKSGNTLFKAPILKVYREGTLQEWEITARRGILSKDQVLTLYDDVLAKNL</span></span>
+<span class="topo-line"><span class="topo-outside">LPDSGFDTLTTSEMSIQLKSRDFWADKPVELRGPQFETHGQAMKGNFADHSAELY</span><span class="topo-unknown">NQVQG</span></span>
+<span class="topo-line"><span class="topo-unknown">RYETLTPLVPR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+      <td>2</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>20</td>
+      <td>3</td>
+      <td>20</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>175</td>
+      <td>21</td>
+      <td>175</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6mjp">6MJP</a> — Chain F (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MIIVRYLIRET</span><span class="topo-membrane">IKSQFAIFFVLFLVFLSQKFI</span><span class="topo-outside">RVLAD</span><span class="topo-unknown">ASDGEIPTS</span><span class="topo-outside">M</span><span class="topo-unknown">ILSIVGLN</span><span class="topo-membrane">MPAMG</span></span>
+<span class="topo-line"><span class="topo-membrane">LLMLPLSLYIGILLT</span><span class="topo-inside">FGRLYAESEITVMNATGIGNKFLI</span><span class="topo-membrane">RAALYLALITASVAAFNALWL</span></span>
+<span class="topo-line"><span class="topo-membrane">A</span><span class="topo-outside">PWSQDKEAHLMEQFA</span><span class="topo-unknown">AENSV</span><span class="topo-outside">DLLQKGHFQRSPDGSSVVFIDNIENRKLYNVFVAQLAPR</span></span>
+<span class="topo-line"><span class="topo-outside">DSILPSVMFSHSGDVKE</span><span class="topo-unknown">LS</span><span class="topo-outside">DGRQIITLYDGTRYEGVPTRVDYMITNFDSYDGLIGQ</span><span class="topo-unknown">REVK</span></span>
+<span class="topo-line"><span class="topo-unknown">SA</span><span class="topo-outside">ERDWEALPTLSLLNNADRRAQAELQ</span><span class="topo-membrane">WRISLVVCIPLLTMLVVPLS</span><span class="topo-inside">AVNPRQGRF</span><span class="topo-membrane">AKMG</span></span>
+<span class="topo-line"><span class="topo-membrane">PAILIYLTYFLALSAT</span><span class="topo-outside">KSAIEDGSLPVII</span><span class="topo-membrane">GLWPINAALLLAALMVNTL</span><span class="topo-inside">DS</span><span class="topo-unknown">IPVRRFKDRW</span></span>
+<span class="topo-line"><span class="topo-unknown">KQ</span><span class="topo-inside">R</span><span class="topo-unknown">KVA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>11</td>
+      <td>1</td>
+      <td>11</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>32</td>
+      <td>12</td>
+      <td>32</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>37</td>
+      <td>33</td>
+      <td>37</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>47</td>
+      <td>47</td>
+      <td>47</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>55</td>
+      <td>48</td>
+      <td>55</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>56</td>
+      <td>75</td>
+      <td>56</td>
+      <td>75</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>76</td>
+      <td>99</td>
+      <td>76</td>
+      <td>99</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>121</td>
+      <td>100</td>
+      <td>121</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>122</td>
+      <td>136</td>
+      <td>122</td>
+      <td>136</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>197</td>
+      <td>142</td>
+      <td>197</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>200</td>
+      <td>236</td>
+      <td>200</td>
+      <td>236</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>243</td>
+      <td>267</td>
+      <td>243</td>
+      <td>267</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>268</td>
+      <td>287</td>
+      <td>268</td>
+      <td>287</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>288</td>
+      <td>296</td>
+      <td>288</td>
+      <td>296</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>297</td>
+      <td>316</td>
+      <td>297</td>
+      <td>316</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>317</td>
+      <td>329</td>
+      <td>317</td>
+      <td>329</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>330</td>
+      <td>348</td>
+      <td>330</td>
+      <td>348</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>349</td>
+      <td>350</td>
+      <td>349</td>
+      <td>350</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>351</td>
+      <td>362</td>
+      <td>351</td>
+      <td>362</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>363</td>
+      <td>363</td>
+      <td>363</td>
+      <td>363</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6mjp">6MJP</a> — Chain G (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MFKILDWYIGRTI</span><span class="topo-membrane">VATTALVLVTFVGLSGIIKYVEQL</span><span class="topo-outside">RKVGEGSYDL</span><span class="topo-membrane">LQALLFVVLSIPR</span></span>
+<span class="topo-line"><span class="topo-membrane">DVEMFFPMAALLGALI</span><span class="topo-inside">GLGALASSSELVVMQAAGFSKLDIGLSV</span><span class="topo-membrane">LKTAIPLMIIVTLLGE</span></span>
+<span class="topo-line"><span class="topo-membrane">WGAPQAQ</span><span class="topo-outside">KMARDMRAFATSGGAI</span><span class="topo-unknown">MS</span><span class="topo-outside">VRTGVWARDANDFIFIAKVENEHLYGLNLWRFDEN</span></span>
+<span class="topo-line"><span class="topo-outside">KKLSTVIFSEQVDYVANNEWLMKDAVLTRLVNDIEISKESLPEYRWRTSLAPDKLAVVTV</span></span>
+<span class="topo-line"><span class="topo-outside">KPEELSLTGLSDYVHYLKASEQDSSRYELA</span><span class="topo-membrane">LWRKVTQPISIAVMMLMALSF</span><span class="topo-inside">IFGPLRSVT</span></span>
+<span class="topo-line"><span class="topo-inside">MG</span><span class="topo-membrane">ARILSGVIAGFSFYISSEFFG</span><span class="topo-outside">PLSLVYGLPPL</span><span class="topo-membrane">FGALAPSLVFLAIALGLLG</span><span class="topo-inside">RKL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>13</td>
+      <td>1</td>
+      <td>13</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>37</td>
+      <td>14</td>
+      <td>37</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>47</td>
+      <td>38</td>
+      <td>47</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>76</td>
+      <td>48</td>
+      <td>76</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>104</td>
+      <td>77</td>
+      <td>104</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>127</td>
+      <td>105</td>
+      <td>127</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>128</td>
+      <td>143</td>
+      <td>128</td>
+      <td>143</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td>270</td>
+      <td>146</td>
+      <td>270</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>271</td>
+      <td>291</td>
+      <td>271</td>
+      <td>291</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>292</td>
+      <td>302</td>
+      <td>292</td>
+      <td>302</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>303</td>
+      <td>323</td>
+      <td>303</td>
+      <td>323</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>324</td>
+      <td>334</td>
+      <td>324</td>
+      <td>334</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>335</td>
+      <td>353</td>
+      <td>335</td>
+      <td>353</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>354</td>
+      <td>356</td>
+      <td>354</td>
+      <td>356</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -96,13 +1026,13 @@ The LptC TM helix coordinates ATP hydrolysis with LPS extraction from the membra
 
 ## Cross-References
 
-- [LPS Transport](/xray-mp-wiki/concepts/lps-transport/) — LptB2FGC is the inner membrane motor for LPS transport in Gram-negative bacteria
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Ni-NTA affinity chromatography used for purification of His-tagged complex
-- [Hanging Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — E. cloacae LptB2FGC crystallized by hanging-drop vapor diffusion
-- [Sitting Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/) — V. cholerae LptB2FGC crystallized by sitting-drop vapor diffusion
-- [EDTA](/xray-mp-wiki/reagents/additives/edta/) — Additive used in purification or crystallization buffers
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers
-- [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Additive used in purification or crystallization buffers
-- [PEG400](/xray-mp-wiki/reagents/additives/peg-400/) — Additive used in purification or crystallization buffers
-- [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/concepts/lps-transport/">LPS Transport</a> — LptB2FGC is the inner membrane motor for LPS transport in Gram-negative bacteria
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Ni-NTA affinity chromatography used for purification of His-tagged complex
+- <a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">Hanging Drop Vapor Diffusion</a> — E. cloacae LptB2FGC crystallized by hanging-drop vapor diffusion
+- <a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion/">Sitting Drop Vapor Diffusion</a> — V. cholerae LptB2FGC crystallized by sitting-drop vapor diffusion
+- <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/iptg/">IPTG</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> — Additive used in purification or crystallization buffers

@@ -1,12 +1,12 @@
 ---
 title: "HsTPC2 - Human Two-pore Channel 2"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [ion-channel, membrane-protein]
-sources: [doi/10.1073##pnas.1616191114]
+sources: []
 verified: false
 ---
 
@@ -17,21 +17,9 @@ verified: false
 HsTPC2 (Human Two-pore Channel 2) is an endo/lysosomal cation channel belonging to the two-pore channel (TPC) family. It is a Na+-selective channel activated by [Phosphatidylinositol](/xray-mp-wiki/reagents/lipids/phosphatidylinositol/) 3,5-bisphosphate (PI(3,5)P2), with high selectivity for Na+ over K+ (PNa/PK ~23.8) and Na+ over Ca2+ (PNa/PCa ~16.8). HsTPC2 shares high sequence similarity with plant AtTPC1 in the selectivity filter region but exhibits drastically different ion selectivity. The selectivity is defined by a Val/Asn pair in filter II (Val651/Asn652), which when introduced into AtTPC1 confers Na+ selectivity. HsTPC2 is not activated by NAADP under the conditions tested.
 
 
-## Structure Determination
+## Publications
 
-No structure determined.
-
-## Expression and Purification
-
-- **Expression system**: HEK293 cells
-- **Construct**: HsTPC2 with L11A/L12A mutations on the N-terminal lysosomal targeting sequence to allow plasma membrane expression
-- **Notes**: L11A/L12A mutant enables plasma membrane localization for patch-clamp electrophysiology in inside-out configuration
-
-No purification described.
-
-## Crystallization
-
-No crystallization described.
+No publications.
 
 ## Biological / Functional Insights
 
@@ -56,5 +44,5 @@ also exhibits Na+ selectivity.
 
 ## Cross-References
 
-- [Two-pore Channel Family](/xray-mp-wiki/concepts/two-pore-channel/) — HsTPC2 is a founding human member of the two-pore channel family
-- [Phosphatidylinositol](/xray-mp-wiki/reagents/lipids/phosphatidylinositol/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/concepts/two-pore-channel/">Two-pore Channel Family</a> — HsTPC2 is a founding human member of the two-pore channel family
+- <a href="/xray-mp-wiki/reagents/lipids/phosphatidylinositol/">Phosphatidylinositol</a> — Additive used in purification or crystallization buffers

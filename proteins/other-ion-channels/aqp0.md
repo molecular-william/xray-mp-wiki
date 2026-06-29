@@ -1,7 +1,7 @@
 ---
 title: "Aquaporin 0 (AQP0) from Bos taurus"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,45 +16,835 @@ verified: false
 
 Aquaporin 0 (AQP0) is the major integral membrane protein of the vertebrate lens fiber cell, accounting for over 60% of the fiber cell plasma membrane protein complement. The x-ray structure of bovine AQP0 (bAQP0) was determined at 2.2 A resolution, revealing a water-selective channel with eight discrete water molecules within the channel lumen. The selectivity for water is based on the identity and location of signature amino acid residues that are hallmarks of the water-selective arm of the [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) family. The channel lumen is narrowed by two quasi-2-fold related tyrosine side chains (Tyr-23 and Tyr-149) that account for reduced water conductance relative to other aquaporins. The structure showed no evidence of channel gating at high pH (pH 10), contrary to the postulated pH-gating mechanism.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.0405274101 | 1YMG | 2.24 | P42(12 | Full-length bovine AQP0 (263 amino acids from native bovine lens | Water Network In Ligand Bindingr Networks Membrane Protein Oligomerization molecules (8 waters in Navms21Bc2cccannel175nnelpaannel6A Kv1 2l 4 A106V Ahila Oraicdivity Filter1 Trek 1l Gating Channelhannel GatingBk Channel Slo1Dermcidinluoride Channelluoride ChannelKir3 2ibrio CholeraeTask 1 K2P3 1 Channel GatingSodium ChannelP Sodium ChannelChannel Gatingnza A M2 Proton Channel Kirbac1 3 Chimeral Like Mechanismore ModuleThermus Thermophilus Channel Inactivation Gating Spoiiah Complexella Typhimurium Focaformational Equilibriumating Mechanismococcus Jannaschii SecyCytoplasmic Porenza A M2 Proton Channel S31Nillus Thermodenitrificans Secye Release Channel Archaeal Rhodopsins Channel Ion Permeability Selectivityating Ion Bound Configurations; n-NMl Beta D Glucopyranoside-Gs Betaar B3an Beta1 Ara Arrestin Signalingkey Beta1 Ar M23a1 Adrenergic Receptora2 Adrenergic Receptoran Alpha4Beta2 Nicotinic Receptoran Beta 2 Adrenergic Receptorkey Beta1 Ar M23 2Vt4key Beta1 Ar Ligand Free Basal-D-glucoside (NGG [Tween 20](/xray-mp-wiki/reagents/detergents/tween-20/) |
+### doi/10.1073##pnas.0405274101
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1ymg">1YMG</a></td>
+      <td>2.24</td>
+      <td>P42(12</td>
+      <td>Full-length bovine AQP0 (263 amino acids from native bovine lens</td>
+      <td>Water Network In Ligand Bindingr Networks Membrane Protein Oligomerization molecules (8 waters in Navms21Bc2cccannel175nnelpaannel6A Kv1 2l 4 A106V Ahila Oraicdivity Filter1 Trek 1l Gating Channelhannel GatingBk Channel Slo1Dermcidinluoride Channelluoride ChannelKir3 2ibrio CholeraeTask 1 K2P3 1 Channel GatingSodium ChannelP Sodium ChannelChannel Gatingnza A M2 Proton Channel Kirbac1 3 Chimeral Like Mechanismore ModuleThermus Thermophilus Channel Inactivation Gating Spoiiah Complexella Typhimurium Focaformational Equilibriumating Mechanismococcus Jannaschii SecyCytoplasmic Porenza A M2 Proton Channel S31Nillus Thermodenitrificans Secye Release Channel Archaeal Rhodopsins Channel Ion Permeability Selectivityating Ion Bound Configurations; n-NMl Beta D Glucopyranoside-Gs Betaar B3an Beta1 Ara Arrestin Signalingkey Beta1 Ar M23a1 Adrenergic Receptora2 Adrenergic Receptoran Alpha4Beta2 Nicotinic Receptoran Beta 2 Adrenergic Receptorkey Beta1 Ar M23 2Vt4key Beta1 Ar Ligand Free Basal-D-glucoside (NGG <a href="/xray-mp-wiki/reagents/detergents/tween-20/">Tween 20</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Native bovine lens tissue
 - **Construct**: Native bAQP0 purified from fresh bovine eyes
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Homogenization and membrane preparation</td>
+      <td>Homogenization and washing</td>
+      <td>--</td>
+      <td>Lens Hepeseteter Chesr Hepesr Glyciner Acetater Succinater Mesm <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate</a> (0.5 M NaCl, 20 mM TrisPs Hclfer Trisfer Bis <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> Propane pH 8.0, 1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">Pmsf</a> + --</td>
+      <td>Lenses removed from fresh Bovine Rhodopsine F1 Atpasepsin 2 2Ae Na K Atpasee Adp Atp Carriere F1 Atpase Azide Freee F1 Atpase Efrapeptin Complexe F1 Atpase Stator Complex eyes, decapsulated, homogenized, stirred overnight, and washed five times by centrifugation at 125,000 x g for 1 h. Urearela Transporter Dvut/<a href="/xray-mp-wiki/proteins/enzymes/acer3/">ACER3</a> stripping not performed as it P Glycoprotein Induced Fit Bindingduced Tight Junction Disassemblyduced Domain Rearrangement P Type Atpases AQP0 <a href="/xray-mp-wiki/concepts/structural-mechanisms/water-networks-membrane-protein-oligomerization/">Water Networks Membrane Protein Oligomerization</a>.</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>-- + 300 mM octylglucopyranoside (OG</td>
+      <td>Membranes solubilized in 300 mM OGG</td>
+    </tr>
+    <tr>
+      <td>Cation exchange chromatography</td>
+      <td>Cation exchange</td>
+      <td>--</td>
+      <td>20 mM Biciner <a href="/xray-mp-wiki/reagents/buffers/bicine/">Bicine</a> pH 9.0, 40 mM OGG, 1 M NaCl elution + 40 mM OG</td>
+      <td>DequaliniumFamilyc ASuperfamilyChanneln Diffusion Facilitator Family Hdx MsSp Sepharosehange Chromatographyton Transport Mechanism at pH 9.0</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>SEC (TSK column</td>
+      <td>TSK gel column</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.0, 0.4 M NaCl + 10 mM n-nonyl-beta-D-glucoside (NG</td>
+      <td>AQP0 eluted in the second TSK peak. Protein-<a href="/xray-mp-wiki/reagents/detergents/tween-20/">Tween 20</a> Ton ComplexcComplexpdc ComplexTSecretase Complexb1 BrilTccc3pinachBtuf ComplexB Complex Cterm Camgc Complex Release Complexs Acidophila Molischianum Spoiiah ComplexCore Complex Assemblyg Pseudomonas Aeruginosaght Harvesting Complex Ii F1 Atpase Efrapeptin Complexh Light Harvesting Complex IiEndothelin Etb Receptor <a href="/xray-mp-wiki/reagents/ligands/irl2500/">Irl2500</a> F1 Atpase Stator Complex was tetrameric (187,857 Da with 0.66 g OG per g Mladoxinstabilizationtiona5Ama3hapin 1A3 Familyotein Family Family 1obrevin 2 4Protein FamilyntamerProtein Family Yidcov 2 Ctd Agonismotein FamilyKir3 2dral Twinning Mep Protein Familyrome B561 Family Protein Couplinge Binding Proteincholine Binding Proteinopology Architecturetein Nitrosomonas EuropaeaeCytoplasmic Poreree Protein Synthesischromatium Tepidum Hipipaeodactylum TricornutumGas Anaesthetic MechanismNetworks Membrane Protein Oligomerizationne Protein Crystals For Neutron Diffractionirected Spin Labeling Membrane ProteinAtom Derivative Detergents And Lipids (256 mol OGG per mol AQP0 tetramer.</td>
+    </tr>
+    <tr>
+      <td>Concentration and dialysis</td>
+      <td>Stirred-cell concentration and dialysis</td>
+      <td>--</td>
+      <td>10 mM Biciner <a href="/xray-mp-wiki/reagents/buffers/bicine/">Bicine</a> pH 9.0, 50 mM NaCl + 10 mM NG</td>
+      <td>Concentrated to 5-10 mg/mL using Amicon YM-30 Cuscjmray-mp-wiki/proteins/wza/ 1ocessing4Yidce MimeticsCdc50Aric Regulation Like Mechanismve Lipid BindingCenter Mechanismpology ArchitectureSide Chain PackingCoupling Mechanismee Protein Synthesise1 Anion Exchangerponent Signaling Systemas Anaesthetic Mechanismupported Membrane ElectrophysiologyF1 Atpase Stator Complexetworks Membrane Protein Oligomerizatione Protein Crystals For Neutron Diffractionrected Spin Labeling Membrane Proteintom Derivative Detergents And Lipids, dialyzed for 3 days against 100 kDa cut-off bag</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Homogenization and membrane preparation | Homogenization and washing | -- | Lens Hepeseteter Chesr Hepesr Glyciner Acetater Succinater Mesm [Citrate](/xray-mp-wiki/reagents/buffers/citrate/) (0.5 M NaCl, 20 mM TrisPs Hclfer Trisfer Bis [Tris](/xray-mp-wiki/reagents/buffers/tris/) Propane pH 8.0, 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/), 0.5 mM [Pmsf](/xray-mp-wiki/reagents/additives/pmsf/) + -- | Lenses removed from fresh Bovine Rhodopsine F1 Atpasepsin 2 2Ae Na K Atpasee Adp Atp Carriere F1 Atpase Azide Freee F1 Atpase Efrapeptin Complexe F1 Atpase Stator Complex eyes, decapsulated, homogenized, stirred overnight, and washed five times by centrifugation at 125,000 x g for 1 h. Urearela Transporter Dvut/[ACER3](/xray-mp-wiki/proteins/enzymes/acer3/) stripping not performed as it P Glycoprotein Induced Fit Bindingduced Tight Junction Disassemblyduced Domain Rearrangement P Type Atpases AQP0 [Water Networks Membrane Protein Oligomerization](/xray-mp-wiki/concepts/structural-mechanisms/water-networks-membrane-protein-oligomerization/). |
-| Solubilization | Detergent solubilization | -- | -- + 300 mM octylglucopyranoside (OG | Membranes solubilized in 300 mM OGG |
-| Cation exchange chromatography | Cation exchange | -- | 20 mM Biciner [Bicine](/xray-mp-wiki/reagents/buffers/bicine/) pH 9.0, 40 mM OGG, 1 M NaCl elution + 40 mM OG | DequaliniumFamilyc ASuperfamilyChanneln Diffusion Facilitator Family Hdx MsSp Sepharosehange Chromatographyton Transport Mechanism at pH 9.0 |
-| Size-exclusion chromatography | SEC (TSK column | TSK gel column | 20 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.0, 0.4 M NaCl + 10 mM n-nonyl-beta-D-glucoside (NG | AQP0 eluted in the second TSK peak. Protein-[Tween 20](/xray-mp-wiki/reagents/detergents/tween-20/) Ton ComplexcComplexpdc ComplexTSecretase Complexb1 BrilTccc3pinachBtuf ComplexB Complex Cterm Camgc Complex Release Complexs Acidophila Molischianum Spoiiah ComplexCore Complex Assemblyg Pseudomonas Aeruginosaght Harvesting Complex Ii F1 Atpase Efrapeptin Complexh Light Harvesting Complex IiEndothelin Etb Receptor [Irl2500](/xray-mp-wiki/reagents/ligands/irl2500/) F1 Atpase Stator Complex was tetrameric (187,857 Da with 0.66 g OG per g Mladoxinstabilizationtiona5Ama3hapin 1A3 Familyotein Family Family 1obrevin 2 4Protein FamilyntamerProtein Family Yidcov 2 Ctd Agonismotein FamilyKir3 2dral Twinning Mep Protein Familyrome B561 Family Protein Couplinge Binding Proteincholine Binding Proteinopology Architecturetein Nitrosomonas EuropaeaeCytoplasmic Poreree Protein Synthesischromatium Tepidum Hipipaeodactylum TricornutumGas Anaesthetic MechanismNetworks Membrane Protein Oligomerizationne Protein Crystals For Neutron Diffractionirected Spin Labeling Membrane ProteinAtom Derivative Detergents And Lipids (256 mol OGG per mol AQP0 tetramer. |
-| Concentration and dialysis | Stirred-cell concentration and dialysis | -- | 10 mM Biciner [Bicine](/xray-mp-wiki/reagents/buffers/bicine/) pH 9.0, 50 mM NaCl + 10 mM NG | Concentrated to 5-10 mg/mL using Amicon YM-30 Cuscjmray-mp-wiki/proteins/wza/ 1ocessing4Yidce MimeticsCdc50Aric Regulation Like Mechanismve Lipid BindingCenter Mechanismpology ArchitectureSide Chain PackingCoupling Mechanismee Protein Synthesise1 Anion Exchangerponent Signaling Systemas Anaesthetic Mechanismupported Membrane ElectrophysiologyF1 Atpase Stator Complexetworks Membrane Protein Oligomerizatione Protein Crystals For Neutron Diffractionrected Spin Labeling Membrane Proteintom Derivative Detergents And Lipids, dialyzed for 3 days against 100 kDa cut-off bag |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting-drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified bAQP0 at 5-10 mg/mL in 10 mM Biciner Bicine pH 9.0, 10 mM NGG, 50 mM NaCl</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>30% polyethylene Peg0000000000000450000ene Glycol C850Mme50 Mmemine Ed 2001000 Mme 1K, 20 mM Glycinee Betaine GlycineGlyt1lpha3e Gating Hingee Receptor Alpha3 pH 10.0, 50 mM NaCl</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Room temperature</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Diffractive Imaging Imperfect Crystalse Protein Crystals For Neutron Diffraction appeared over several months and matured over 1 year of incubation</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Crystals looped and frozen by rapid immersion in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Regular tetragonal prisms 100-200 um in <a href="/xray-mp-wiki/proteins/other-ion-channels/gluN1-gluN2b-nmda-receptor/">Glun1 Glun2B Nmda Receptor</a>, uniaxially birefringent <a href="/xray-mp-wiki/methods/crystallization/microbatch-crystallization-under-oil/">Microbatch Crystallization Under Oil</a> polarized light. Space group P42(12. Data collected at Beamline 8.3.1 at the Advanced Kr2ic Light Scattering SpinachMalst Adapted StateRps AcidophilaRs Molischianum5Bpr Proteorhodopsin2Bpr ProteorhodopsinLight Harvesting Complex Iiach Light Harvesting Complex Ii Source (ALS, Lawrence Berkeley National Laboratory. Diffractive Imaging Imperfect Crystalse Protein Crystals For Neutron Diffraction mounted at approximately 100 K.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1ymg">1YMG</a> — Chain A (6 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MWELR</span><span class="topo-inside">SASFW</span><span class="topo-membrane">RAICAEFFASLFYVFFGLGA</span><span class="topo-outside">SLRWA</span><span class="topo-unknown">P</span><span class="topo-outside">GPLHVL</span><span class="topo-membrane">QVALAFGLALATLVQAVG</span></span>
+<span class="topo-line"><span class="topo-inside">HI</span><span class="topo-unknown">SGAHVNPAVTFAFLVG</span><span class="topo-inside">SQMSL</span><span class="topo-membrane">LRAICYMVAQLLGAVAGAAVLYSV</span><span class="topo-outside">TPPAVRGNLALNT</span></span>
+<span class="topo-line"><span class="topo-outside">LHPGVSVG</span><span class="topo-membrane">QATIVEIFLTLQFVLCIFATY</span><span class="topo-inside">DERRNGRL</span><span class="topo-membrane">GSVALAVGFSLTLGHLFGM</span><span class="topo-outside">YYT</span><span class="topo-unknown">G</span></span>
+<span class="topo-line"><span class="topo-unknown">AGMNPARSFAPAIL</span><span class="topo-outside">TRNFTNH</span><span class="topo-membrane">WVYWVGPVIGAGLGSLLYDFLL</span><span class="topo-inside">FPRLKSVSERLSILKG</span><span class="topo-unknown">S</span></span>
+<span class="topo-line"><span class="topo-unknown">RPSESNGQPEVTGEPVELKTQAL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>1</td>
+      <td>5</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>10</td>
+      <td>6</td>
+      <td>10</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>30</td>
+      <td>11</td>
+      <td>30</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>35</td>
+      <td>31</td>
+      <td>35</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>36</td>
+      <td>36</td>
+      <td>36</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>42</td>
+      <td>37</td>
+      <td>42</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>60</td>
+      <td>43</td>
+      <td>60</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>62</td>
+      <td>61</td>
+      <td>62</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>78</td>
+      <td>63</td>
+      <td>78</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>83</td>
+      <td>79</td>
+      <td>83</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>107</td>
+      <td>84</td>
+      <td>107</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>128</td>
+      <td>108</td>
+      <td>128</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>129</td>
+      <td>149</td>
+      <td>129</td>
+      <td>149</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>150</td>
+      <td>157</td>
+      <td>150</td>
+      <td>157</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>158</td>
+      <td>176</td>
+      <td>158</td>
+      <td>176</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>177</td>
+      <td>179</td>
+      <td>177</td>
+      <td>179</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>180</td>
+      <td>194</td>
+      <td>180</td>
+      <td>194</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>195</td>
+      <td>201</td>
+      <td>195</td>
+      <td>201</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>202</td>
+      <td>223</td>
+      <td>202</td>
+      <td>223</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>224</td>
+      <td>239</td>
+      <td>224</td>
+      <td>239</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>240</td>
+      <td>263</td>
+      <td>240</td>
+      <td>263</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1073##pnas.0405274101
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1ymg">1YMG</a> — Chain B (6 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Sitting-drop vapor diffusion |
-| Protein sample | Purified bAQP0 at 5-10 mg/mL in 10 mM Biciner Bicine pH 9.0, 10 mM NGG, 50 mM NaCl |
-| Reservoir | 30% polyethylene Peg0000000000000450000ene Glycol C850Mme50 Mmemine Ed 2001000 Mme 1K, 20 mM Glycinee Betaine GlycineGlyt1lpha3e Gating Hingee Receptor Alpha3 pH 10.0, 50 mM NaCl |
-| Temperature | Room temperature |
-| Growth time | Diffractive Imaging Imperfect Crystalse Protein Crystals For Neutron Diffraction appeared over several months and matured over 1 year of incubation |
-| Cryoprotection | Crystals looped and frozen by rapid immersion in liquid nitrogen |
-| Notes | Regular tetragonal prisms 100-200 um in [Glun1 Glun2B Nmda Receptor](/xray-mp-wiki/proteins/other-ion-channels/gluN1-gluN2b-nmda-receptor/), uniaxially birefringent [Microbatch Crystallization Under Oil](/xray-mp-wiki/methods/crystallization/microbatch-crystallization-under-oil/) polarized light. Space group P42(12. Data collected at Beamline 8.3.1 at the Advanced Kr2ic Light Scattering SpinachMalst Adapted StateRps AcidophilaRs Molischianum5Bpr Proteorhodopsin2Bpr ProteorhodopsinLight Harvesting Complex Iiach Light Harvesting Complex Ii Source (ALS, Lawrence Berkeley National Laboratory. Diffractive Imaging Imperfect Crystalse Protein Crystals For Neutron Diffraction mounted at approximately 100 K. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MWELR</span><span class="topo-inside">SASFW</span><span class="topo-membrane">RAICAEFFASLFYVFFGLGA</span><span class="topo-outside">SLRWA</span><span class="topo-unknown">P</span><span class="topo-outside">GPLHVL</span><span class="topo-membrane">QVALAFGLALATLVQAVG</span></span>
+<span class="topo-line"><span class="topo-inside">HI</span><span class="topo-unknown">SGAHVNPAVTFAFLVG</span><span class="topo-inside">SQMSL</span><span class="topo-membrane">LRAICYMVAQLLGAVAGAAVLYSV</span><span class="topo-outside">TPPAVRGNLALNT</span></span>
+<span class="topo-line"><span class="topo-outside">LHPGVSVG</span><span class="topo-membrane">QATIVEIFLTLQFVLCIFATY</span><span class="topo-inside">DERRNGRL</span><span class="topo-membrane">GSVALAVGFSLTLGHLFGM</span><span class="topo-outside">YYT</span><span class="topo-unknown">G</span></span>
+<span class="topo-line"><span class="topo-unknown">AGMNPARSFAPAIL</span><span class="topo-outside">TRNFTNH</span><span class="topo-membrane">WVYWVGPVIGAGLGSLLYDFLL</span><span class="topo-inside">FPRLKSVSERLSILKG</span><span class="topo-unknown">S</span></span>
+<span class="topo-line"><span class="topo-unknown">RPSESNGQPEVTGEPVELKTQAL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>1</td>
+      <td>5</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>10</td>
+      <td>6</td>
+      <td>10</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>30</td>
+      <td>11</td>
+      <td>30</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>35</td>
+      <td>31</td>
+      <td>35</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>36</td>
+      <td>36</td>
+      <td>36</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>42</td>
+      <td>37</td>
+      <td>42</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>60</td>
+      <td>43</td>
+      <td>60</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>62</td>
+      <td>61</td>
+      <td>62</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>78</td>
+      <td>63</td>
+      <td>78</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>83</td>
+      <td>79</td>
+      <td>83</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>107</td>
+      <td>84</td>
+      <td>107</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>128</td>
+      <td>108</td>
+      <td>128</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>129</td>
+      <td>149</td>
+      <td>129</td>
+      <td>149</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>150</td>
+      <td>157</td>
+      <td>150</td>
+      <td>157</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>158</td>
+      <td>176</td>
+      <td>158</td>
+      <td>176</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>177</td>
+      <td>179</td>
+      <td>177</td>
+      <td>179</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>180</td>
+      <td>194</td>
+      <td>180</td>
+      <td>194</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>195</td>
+      <td>201</td>
+      <td>195</td>
+      <td>201</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>202</td>
+      <td>223</td>
+      <td>202</td>
+      <td>223</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>224</td>
+      <td>239</td>
+      <td>224</td>
+      <td>239</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>240</td>
+      <td>263</td>
+      <td>240</td>
+      <td>263</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1ymg">1YMG</a> — Chain C (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MWELR</span><span class="topo-inside">SASFW</span><span class="topo-membrane">RAICAEFFASLFYVFFGLGA</span><span class="topo-outside">SLRWA</span><span class="topo-unknown">P</span><span class="topo-outside">GPLHVL</span><span class="topo-membrane">QVALAFGLALATLVQAVG</span></span>
+<span class="topo-line"><span class="topo-inside">HI</span><span class="topo-unknown">SGAHVNPAVTFAFLVG</span><span class="topo-inside">SQMSL</span><span class="topo-membrane">LRAICYMVAQLLGAVAGAAVLYSV</span><span class="topo-outside">TPPAVRGNLALNT</span></span>
+<span class="topo-line"><span class="topo-outside">LHPGVSVG</span><span class="topo-membrane">QATIVEIFLTLQFVLCIFATY</span><span class="topo-inside">DERRNGRL</span><span class="topo-membrane">GSVALAVGFSLTLGHLFGM</span><span class="topo-outside">YYT</span><span class="topo-unknown">G</span></span>
+<span class="topo-line"><span class="topo-unknown">AGMNPARSFAPAIL</span><span class="topo-outside">TRNFTNH</span><span class="topo-membrane">WVYWVGPVIGAGLGSLLYDFLL</span><span class="topo-inside">FPRLKSVSERLSILKG</span><span class="topo-unknown">S</span></span>
+<span class="topo-line"><span class="topo-unknown">RPSESNGQPEVTGEPVELKTQAL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>1</td>
+      <td>5</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>10</td>
+      <td>6</td>
+      <td>10</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>30</td>
+      <td>11</td>
+      <td>30</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>35</td>
+      <td>31</td>
+      <td>35</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>36</td>
+      <td>36</td>
+      <td>36</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>42</td>
+      <td>37</td>
+      <td>42</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>60</td>
+      <td>43</td>
+      <td>60</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>62</td>
+      <td>61</td>
+      <td>62</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>78</td>
+      <td>63</td>
+      <td>78</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>83</td>
+      <td>79</td>
+      <td>83</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>107</td>
+      <td>84</td>
+      <td>107</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>128</td>
+      <td>108</td>
+      <td>128</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>129</td>
+      <td>149</td>
+      <td>129</td>
+      <td>149</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>150</td>
+      <td>157</td>
+      <td>150</td>
+      <td>157</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>158</td>
+      <td>176</td>
+      <td>158</td>
+      <td>176</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>177</td>
+      <td>179</td>
+      <td>177</td>
+      <td>179</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>180</td>
+      <td>194</td>
+      <td>180</td>
+      <td>194</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>195</td>
+      <td>201</td>
+      <td>195</td>
+      <td>201</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>202</td>
+      <td>223</td>
+      <td>202</td>
+      <td>223</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>224</td>
+      <td>239</td>
+      <td>224</td>
+      <td>239</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>240</td>
+      <td>263</td>
+      <td>240</td>
+      <td>263</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1ymg">1YMG</a> — Chain D (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MWELR</span><span class="topo-inside">SASFW</span><span class="topo-membrane">RAICAEFFASLFYVFFGLGA</span><span class="topo-outside">SLRWA</span><span class="topo-unknown">P</span><span class="topo-outside">GPLHVL</span><span class="topo-membrane">QVALAFGLALATLVQAVG</span></span>
+<span class="topo-line"><span class="topo-inside">HI</span><span class="topo-unknown">SGAHVNPAVTFAFLVG</span><span class="topo-inside">SQMSL</span><span class="topo-membrane">LRAICYMVAQLLGAVAGAAVLYSV</span><span class="topo-outside">TPPAVRGNLALNT</span></span>
+<span class="topo-line"><span class="topo-outside">LHPGVSVG</span><span class="topo-membrane">QATIVEIFLTLQFVLCIFATY</span><span class="topo-inside">DERRNGRL</span><span class="topo-membrane">GSVALAVGFSLTLGHLFGM</span><span class="topo-outside">YYT</span><span class="topo-unknown">G</span></span>
+<span class="topo-line"><span class="topo-unknown">AGMNPARSFAPAIL</span><span class="topo-outside">TRNFTNH</span><span class="topo-membrane">WVYWVGPVIGAGLGSLLYDFLL</span><span class="topo-inside">FPRLKSVSERLSILKG</span><span class="topo-unknown">S</span></span>
+<span class="topo-line"><span class="topo-unknown">RPSESNGQPEVTGEPVELKTQAL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>1</td>
+      <td>5</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>10</td>
+      <td>6</td>
+      <td>10</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>30</td>
+      <td>11</td>
+      <td>30</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>35</td>
+      <td>31</td>
+      <td>35</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>36</td>
+      <td>36</td>
+      <td>36</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>42</td>
+      <td>37</td>
+      <td>42</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>60</td>
+      <td>43</td>
+      <td>60</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>62</td>
+      <td>61</td>
+      <td>62</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>78</td>
+      <td>63</td>
+      <td>78</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>83</td>
+      <td>79</td>
+      <td>83</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>84</td>
+      <td>107</td>
+      <td>84</td>
+      <td>107</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>108</td>
+      <td>128</td>
+      <td>108</td>
+      <td>128</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>129</td>
+      <td>149</td>
+      <td>129</td>
+      <td>149</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>150</td>
+      <td>157</td>
+      <td>150</td>
+      <td>157</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>158</td>
+      <td>176</td>
+      <td>158</td>
+      <td>176</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>177</td>
+      <td>179</td>
+      <td>177</td>
+      <td>179</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>180</td>
+      <td>194</td>
+      <td>180</td>
+      <td>194</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>195</td>
+      <td>201</td>
+      <td>195</td>
+      <td>201</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>202</td>
+      <td>223</td>
+      <td>202</td>
+      <td>223</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>224</td>
+      <td>239</td>
+      <td>224</td>
+      <td>239</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>240</td>
+      <td>263</td>
+      <td>240</td>
+      <td>263</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -81,13 +871,13 @@ Two independent Semet Sad Phasinge Crystal Microspectrophotometrye Wavelength An
 
 ## Cross-References
 
-- [PfMATE (Pyrococcus furiosus Multidrug and Toxic Compound Extrusion Transporter)](/xray-mp-wiki/proteins/abc-transporters/pfmate/) — Related protein structure; referenced in text
-- [Bovine F1-ATPase (azide-inhibited form)](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) — Related protein structure; referenced in text
-- [VcINDY Sodium-Dependent Dicarboxylate Transporter](/xray-mp-wiki/proteins/slc-transporters/vcindy/) — Related protein structure; referenced in text
-- [sCtr1 (High-Affinity Copper Transporter from Salmo salar)](/xray-mp-wiki/proteins/other-ion-channels/sctr1/) — Related protein structure; referenced in text
-- [Vrg4 GDP-Mannose Transporter (Saccharomyces cerevisiae)](/xray-mp-wiki/proteins/slc-transporters/vrg4/) — Related protein structure; referenced in text
-- [AcrB Multidrug Efflux Transporter](/xray-mp-wiki/proteins/abc-transporters/acrb/) — Related protein structure; referenced in text
-- [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) — Related protein structure; referenced in text
-- [E. coli DtpA Peptide Transporter](/xray-mp-wiki/proteins/slc-transporters/dtpa/) — Related protein structure; referenced in text
-- [AdeB Multidrug Efflux Transporter](/xray-mp-wiki/proteins/abc-transporters/adeb/) — Related protein structure; referenced in text
-- [YePEPT (Yersinia enterocolitica Peptide Transporter)](/xray-mp-wiki/proteins/mfs-transporters/yepept/) — Related protein structure; referenced in text
+- <a href="/xray-mp-wiki/proteins/abc-transporters/pfmate/">PfMATE (Pyrococcus furiosus Multidrug and Toxic Compound Extrusion Transporter)</a> — Related protein structure; referenced in text
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/">Bovine F1-ATPase (azide-inhibited form)</a> — Related protein structure; referenced in text
+- <a href="/xray-mp-wiki/proteins/slc-transporters/vcindy/">VcINDY Sodium-Dependent Dicarboxylate Transporter</a> — Related protein structure; referenced in text
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/sctr1/">sCtr1 (High-Affinity Copper Transporter from Salmo salar)</a> — Related protein structure; referenced in text
+- <a href="/xray-mp-wiki/proteins/slc-transporters/vrg4/">Vrg4 GDP-Mannose Transporter (Saccharomyces cerevisiae)</a> — Related protein structure; referenced in text
+- <a href="/xray-mp-wiki/proteins/abc-transporters/acrb/">AcrB Multidrug Efflux Transporter</a> — Related protein structure; referenced in text
+- <a href="/xray-mp-wiki/proteins/enzymes/leut/">LeuT Amino Acid Transporter from Aquifex aeolicus</a> — Related protein structure; referenced in text
+- <a href="/xray-mp-wiki/proteins/slc-transporters/dtpa/">E. coli DtpA Peptide Transporter</a> — Related protein structure; referenced in text
+- <a href="/xray-mp-wiki/proteins/abc-transporters/adeb/">AdeB Multidrug Efflux Transporter</a> — Related protein structure; referenced in text
+- <a href="/xray-mp-wiki/proteins/mfs-transporters/yepept/">YePEPT (Yersinia enterocolitica Peptide Transporter)</a> — Related protein structure; referenced in text

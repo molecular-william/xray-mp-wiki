@@ -1,7 +1,7 @@
 ---
 title: "BcTSPO Translocator Protein from Bacillus cereus"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,37 +17,324 @@ verified: false
 BcTSPO is the translocator protein (TSPO) homolog from *Bacillus cereus*, a bacterial member of the tryptophan-rich TSPO family. Crystal structures were determined for the apo form at 1.7 Å resolution and for the PK11195-bound dimer, revealing a five-transmembrane-helix fold with a highly conserved ligand-binding pocket between TM1 and TM2. BcTSPO binds the benzodiazepine ligand [Pk11195](/xray-mp-wiki/reagents/ligands/pk11195/) and the endogenous porphyrin protoporphyrin IX (PpIX), and catalyzes the photooxidative degradation of PpIX — a reaction involving conserved tryptophan residues W51 and W138. The A142T mutation (corresponding to the human A147T polymorphism associated with psychiatric disorders) abrogates PpIX degradation activity and alters ligand binding.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1126##science.aaa1534 | 4RYQ | 1.7 | — | Wild-type BcTSPO (apo) |  |
-| doi/10.1126##science.aaa1534 | 4RYQ | — | — | PK11195-bound BcTSPO dimer |  |
+### doi/10.1126##science.aaa1534
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4ryq">4RYQ</a></td>
+      <td>1.7</td>
+      <td>—</td>
+      <td>Wild-type BcTSPO (apo)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4ryq">4RYQ</a></td>
+      <td>—</td>
+      <td>—</td>
+      <td>PK11195-bound BcTSPO dimer</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli
 - **Construct**: Wild-type BcTSPO and variants (W51F, W138F, W51F/W138F, A142T)
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Protein purification</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity chromatography</a></td>
+      <td>—</td>
+      <td></td>
+      <td>Purified BcTSPO used for crystallization and activity assays</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Protein purification | Affinity chromatography | — |  | Purified BcTSPO used for crystallization and activity assays |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic cubic phase</a> (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>) and detergent micelle</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Apo structure solved from detergent micelle at 1.7 Å. PK11195-bound dimer crystallized in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>. Apo micelle may be a swapped dimer.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4ryq">4RYQ</a> — Chain A (5 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKHHHHHHHHHHENLYFQSYVMF</span><span class="topo-outside">MKKS</span><span class="topo-membrane">SIIVFFLTYGLFYVSSVLFP</span><span class="topo-inside">ID</span><span class="topo-unknown">RTWY</span></span>
+<span class="topo-line"><span class="topo-unknown">DA</span><span class="topo-inside">LEKPSWTPPGM</span><span class="topo-membrane">TIGMIWAVLFGLIALSVAIIY</span><span class="topo-outside">NNYGFKPK</span><span class="topo-membrane">TFWFLFLLNYIFNQAFSY</span></span>
+<span class="topo-line"><span class="topo-membrane">FQ</span><span class="topo-inside">FSQKNLF</span><span class="topo-membrane">LATVDCLLVAITTLLLIMFSS</span><span class="topo-outside">NLSK</span><span class="topo-membrane">VSAWLLIPYFLWSAFATYLSW</span><span class="topo-inside">TIYSI</span></span>
+<span class="topo-line"><span class="topo-inside">N</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>31</td>
+      <td>34</td>
+      <td>3</td>
+      <td>6</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>54</td>
+      <td>7</td>
+      <td>26</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>56</td>
+      <td>27</td>
+      <td>28</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>62</td>
+      <td>29</td>
+      <td>34</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>73</td>
+      <td>35</td>
+      <td>45</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>94</td>
+      <td>46</td>
+      <td>66</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>102</td>
+      <td>67</td>
+      <td>74</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>103</td>
+      <td>122</td>
+      <td>75</td>
+      <td>94</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>123</td>
+      <td>129</td>
+      <td>95</td>
+      <td>101</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>150</td>
+      <td>102</td>
+      <td>122</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td>154</td>
+      <td>123</td>
+      <td>126</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>155</td>
+      <td>175</td>
+      <td>127</td>
+      <td>147</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>181</td>
+      <td>148</td>
+      <td>153</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1126##science.aaa1534
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4ryq">4RYQ</a> — Chain A (5 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) and detergent micelle |
-| Notes | Apo structure solved from detergent micelle at 1.7 Å. PK11195-bound dimer crystallized in LCP. Apo micelle may be a swapped dimer. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MDYKDDDDKHHHHHHHHHHENLYFQSYVMF</span><span class="topo-outside">MKKS</span><span class="topo-membrane">SIIVFFLTYGLFYVSSVLFP</span><span class="topo-inside">ID</span><span class="topo-unknown">RTWY</span></span>
+<span class="topo-line"><span class="topo-unknown">DA</span><span class="topo-inside">LEKPSWTPPGM</span><span class="topo-membrane">TIGMIWAVLFGLIALSVAIIY</span><span class="topo-outside">NNYGFKPK</span><span class="topo-membrane">TFWFLFLLNYIFNQAFSY</span></span>
+<span class="topo-line"><span class="topo-membrane">FQ</span><span class="topo-inside">FSQKNLF</span><span class="topo-membrane">LATVDCLLVAITTLLLIMFSS</span><span class="topo-outside">NLSK</span><span class="topo-membrane">VSAWLLIPYFLWSAFATYLSW</span><span class="topo-inside">TIYSI</span></span>
+<span class="topo-line"><span class="topo-inside">N</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>31</td>
+      <td>34</td>
+      <td>3</td>
+      <td>6</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>54</td>
+      <td>7</td>
+      <td>26</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>56</td>
+      <td>27</td>
+      <td>28</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>62</td>
+      <td>29</td>
+      <td>34</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>63</td>
+      <td>73</td>
+      <td>35</td>
+      <td>45</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>94</td>
+      <td>46</td>
+      <td>66</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>102</td>
+      <td>67</td>
+      <td>74</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>103</td>
+      <td>122</td>
+      <td>75</td>
+      <td>94</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>123</td>
+      <td>129</td>
+      <td>95</td>
+      <td>101</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>150</td>
+      <td>102</td>
+      <td>122</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>151</td>
+      <td>154</td>
+      <td>123</td>
+      <td>126</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>155</td>
+      <td>175</td>
+      <td>127</td>
+      <td>147</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>181</td>
+      <td>148</td>
+      <td>153</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
 
 ## Biological / Functional Insights
 
@@ -70,6 +357,6 @@ The A142T mutation in BcTSPO corresponds to the human A147T polymorphism associa
 
 ## Cross-References
 
-- [PK11195](/xray-mp-wiki/reagents/ligands/pk11195/) — PK11195 is a high-affinity ligand of BcTSPO, binding in the conserved pocket between TM1 and TM2
-- [Protoporphyrin IX (PpIX)](/xray-mp-wiki/reagents/ligands/protoporphyrin-ix/) — PpIX is an endogenous porphyrin ligand that is photooxidatively degraded by BcTSPO
-- [RsTSPO Translocator Protein from Rhodobacter sphaeroides](/xray-mp-wiki/proteins/structural-adhesion/rstspo/) — BcTSPO and RsTSPO share the conserved five-helix TSPO fold and are bacterial homologs of mammalian TSPO
+- <a href="/xray-mp-wiki/reagents/ligands/pk11195/">PK11195</a> — PK11195 is a high-affinity ligand of BcTSPO, binding in the conserved pocket between TM1 and TM2
+- <a href="/xray-mp-wiki/reagents/ligands/protoporphyrin-ix/">Protoporphyrin IX (PpIX)</a> — PpIX is an endogenous porphyrin ligand that is photooxidatively degraded by BcTSPO
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/rstspo/">RsTSPO Translocator Protein from Rhodobacter sphaeroides</a> — BcTSPO and RsTSPO share the conserved five-helix TSPO fold and are bacterial homologs of mammalian TSPO

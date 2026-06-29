@@ -1,7 +1,7 @@
 ---
 title: "AtPIP2;4 (Arabidopsis thaliana Plasma Membrane Intrinsic Protein 2;4)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,45 +17,723 @@ verified: false
 AtPIP2;4 is a plasma membrane intrinsic protein (PIP) [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) from Arabidopsis thaliana. It belongs to the PIP2 subfamily of plant [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/), which form homotetramers at the plasma membrane and function as water and hydrogen peroxide (H2O2) channels. AtPIP2;4 shares the conserved [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) hourglass architecture with six transmembrane helices and two half-helices containing NPA motifs. The structure was determined at 3.7 Å resolution (PDB: 6QIM), revealing high structural similarity to SoPIP2;1 from spinach (75% sequence identity). Unlike SoPIP2;1, Cd2+ cation is not required to retain the closed conformation. AtPIP2;4 is an efficient transporter of both water and H2O2, with H2O2 transport capacity comparable to SoPIP2;1 and significantly higher than human [AQP1](/xray-mp-wiki/proteins/other-ion-channels/aqp1/).
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.bbamem.2019.183065 | 6QIM | 3.7 | P 63 22 | Truncated AtPIP2;4(28-279) with 8xHis-tag, expressed in Pichia pastoris, purified in LDAO/OG micelles | None |
+### doi/10.1016##j.bbamem.2019.183065
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6qim">6QIM</a></td>
+      <td>3.7</td>
+      <td>P 63 22</td>
+      <td>Truncated AtPIP2;4(28-279) with 8xHis-tag, expressed in Pichia pastoris, purified in LDAO/OG micelles</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Pichia pastoris (X-33Δ strain, aquaporin-deficient)
 - **Construct**: Two constructs produced: Full-length AtPIP2;4-FL (1-291) and truncated AtPIP2;4(28-279), both with C-terminal TEV-8xHis tag. Codon-optimized gene, cloned into pPICZB vector.
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Bead beating (12×30s with cooling)</td>
+      <td>--</td>
+      <td>Breaking buffer (50 mM potassium phosphate pH 7.5, 5% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 2 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">Pmsf</a>) + --</td>
+      <td>Glass beads (0.5 mm) used. Cell debris removed at 10,000g.</td>
+    </tr>
+    <tr>
+      <td>Membrane preparation</td>
+      <td><a href="/xray-mp-wiki/methods/purification/ultracentrifugation/">Ultracentrifugation</a> and <a href="/xray-mp-wiki/reagents/substrates/urea/">Urea</a> wash</td>
+      <td>--</td>
+      <td><a href="/xray-mp-wiki/reagents/substrates/urea/">Urea</a> buffer (4 M <a href="/xray-mp-wiki/reagents/substrates/urea/">Urea</a>, 5 mM Tris·HCl pH 9.5, 2 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, 2 mM <a href="/xray-mp-wiki/reagents/additives/egta/">Egta</a>); Membrane wash buffer (20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 8, 20 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 2 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/pmsf/">Pmsf</a>) + --</td>
+      <td>Membranes collected at 200,000g for 90 min at 4°C.</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization screen</td>
+      <td>--</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 8, 200 mM NaCl + 2% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> (n-Dodecyl-N,N-Dimethylamine-N-Oxide)</td>
+      <td><a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a> selected as most efficient detergent after screening CHAPS, <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>, FC12, <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a>, MNG, NG, β-OG.</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography/">Immobilized metal affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> agarose (Qiagen)</td>
+      <td>Wash: 20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 8.0, 200 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.4% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a>, 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; Elution: 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 0.4% <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO</a></td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> added before loading. 50 mg of AtPIP2;4-FL obtained from 90 g cells.</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">SEC</a> for buffer exchange and polishing</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex200</a> Increase 10/300 GL (GE Healthcare)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris Hcl</a> pH 8.0, 200 mM NaCl + 1% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a> (n-Octyl-β-D-Glucopyranoside) or 0.145% OGNPG (Octyl <a href="/xray-mp-wiki/reagents/additives/glucose/">Glucose</a> Neopentyl Glycol)</td>
+      <td>For crystallization, β-OG and OGNPG gave monodisperse peaks for FL. For truncated variant, β-OG, <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> and <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> gave monodisperse peaks.</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Bead beating (12×30s with cooling) | -- | Breaking buffer (50 mM potassium phosphate pH 7.5, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 2 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/), 1 mM [Pmsf](/xray-mp-wiki/reagents/additives/pmsf/)) + -- | Glass beads (0.5 mm) used. Cell debris removed at 10,000g. |
-| Membrane preparation | Ultracentrifugation and [Urea](/xray-mp-wiki/reagents/substrates/urea/) wash | -- | [Urea](/xray-mp-wiki/reagents/substrates/urea/) buffer (4 M [Urea](/xray-mp-wiki/reagents/substrates/urea/), 5 mM Tris·HCl pH 9.5, 2 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/), 2 mM [Egta](/xray-mp-wiki/reagents/additives/egta/)); Membrane wash buffer (20 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 8, 20 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 2 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/), 1 mM [Pmsf](/xray-mp-wiki/reagents/additives/pmsf/)) + -- | Membranes collected at 200,000g for 90 min at 4°C. |
-| Solubilization | Detergent solubilization screen | -- | 20 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 8, 200 mM NaCl + 2% [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) (n-Dodecyl-N,N-Dimethylamine-N-Oxide) | [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) selected as most efficient detergent after screening CHAPS, [DDM](/xray-mp-wiki/reagents/detergents/ddm/), [DM](/xray-mp-wiki/reagents/detergents/dm/), FC12, [LDAO](/xray-mp-wiki/reagents/detergents/ldao/), MNG, NG, β-OG. |
-| Ni-NTA affinity chromatography | Immobilized metal affinity chromatography | Ni-NTA agarose (Qiagen) | Wash: 20 mM [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 200 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.4% [LDAO](/xray-mp-wiki/reagents/detergents/ldao/), 50 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/); Elution: 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 0.4% [LDAO](/xray-mp-wiki/reagents/detergents/ldao/) | 10 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) added before loading. 50 mg of AtPIP2;4-FL obtained from 90 g cells. |
-| Size-exclusion chromatography | SEC for buffer exchange and polishing | Superdex200 Increase 10/300 GL (GE Healthcare) | 20 mM [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 200 mM NaCl + 1% [OG](/xray-mp-wiki/reagents/detergents/og/) (n-Octyl-β-D-Glucopyranoside) or 0.145% OGNPG (Octyl [Glucose](/xray-mp-wiki/reagents/additives/glucose/) Neopentyl Glycol) | For crystallization, β-OG and OGNPG gave monodisperse peaks for FL. For truncated variant, β-OG, [DM](/xray-mp-wiki/reagents/detergents/dm/) and [DDM](/xray-mp-wiki/reagents/detergents/ddm/) gave monodisperse peaks. |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging-drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">vapor diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>AtPIP2;4(28-279) at 20 mg/mL in 1% <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>1.5 M sodium formate, 0.05 M sodium <a href="/xray-mp-wiki/reagents/buffers/cacodylate/">Cacodylate</a> pH 5.5, 30% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a>, 3% w/v 6-Aminohexanoic acid, 0.01 M Calcium chloride dihydrate</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Few days</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Flash frozen in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals appeared after a few days. The tetramer shows a typical <a href="/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/">Aquaporin</a> oligomer with four individual water pores. Two molecules in asymmetric unit. Data collected at ESRF beamline MASSIF-1 (ID30A-1). <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular replacement</a> with SoPIP2;1 (PDB: 4jc6).</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6qim">6QIM</a> — Chain A (6 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MEE</span><span class="topo-inside">LRKWPLYRA</span><span class="topo-membrane">VIAEFVATLLFLYVSILTV</span><span class="topo-outside">IGYKAQTDATAGGVDCGGVGIL</span><span class="topo-membrane">GIAWAFG</span></span>
+<span class="topo-line"><span class="topo-membrane">GMIFVLVYCTA</span><span class="topo-inside">GIS</span><span class="topo-unknown">GGHINPAVTVGLFL</span><span class="topo-inside">ARKVSLV</span><span class="topo-membrane">RTVLYIVAQCLGAICGCGFV</span><span class="topo-outside">KAFQS</span></span>
+<span class="topo-line"><span class="topo-outside">SYYTRYGGGANELADGYNKG</span><span class="topo-membrane">TGLGAEIIGTFVLVYTVFSA</span><span class="topo-inside">TDPKRNARDSHVPVL</span><span class="topo-membrane">APLPI</span></span>
+<span class="topo-line"><span class="topo-membrane">GFAVFMVHLATI</span><span class="topo-outside">PIT</span><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-outside">YNNEKAWDDQ</span><span class="topo-membrane">WIFWVGPMIGAAAAAFYH</span><span class="topo-inside">QF</span></span>
+<span class="topo-line"><span class="topo-inside">ILRAAA</span><span class="topo-unknown">IKALGHHHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>4</td>
+      <td>12</td>
+      <td>32</td>
+      <td>40</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>31</td>
+      <td>41</td>
+      <td>59</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>53</td>
+      <td>60</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>71</td>
+      <td>82</td>
+      <td>99</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>74</td>
+      <td>100</td>
+      <td>102</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>88</td>
+      <td>103</td>
+      <td>116</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>95</td>
+      <td>117</td>
+      <td>123</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>115</td>
+      <td>124</td>
+      <td>143</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>140</td>
+      <td>144</td>
+      <td>168</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>141</td>
+      <td>160</td>
+      <td>169</td>
+      <td>188</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>161</td>
+      <td>175</td>
+      <td>189</td>
+      <td>203</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>192</td>
+      <td>204</td>
+      <td>220</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>193</td>
+      <td>195</td>
+      <td>221</td>
+      <td>223</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>196</td>
+      <td>210</td>
+      <td>224</td>
+      <td>238</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>211</td>
+      <td>220</td>
+      <td>239</td>
+      <td>248</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>221</td>
+      <td>238</td>
+      <td>249</td>
+      <td>266</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>239</td>
+      <td>246</td>
+      <td>267</td>
+      <td>274</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1016##j.bbamem.2019.183065
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6qim">6QIM</a> — Chain B (6 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Hanging-drop vapor diffusion |
-| Protein sample | AtPIP2;4(28-279) at 20 mg/mL in 1% [OG](/xray-mp-wiki/reagents/detergents/og/) |
-| Reservoir | 1.5 M sodium formate, 0.05 M sodium [Cacodylate](/xray-mp-wiki/reagents/buffers/cacodylate/) pH 5.5, 30% [PEG400](/xray-mp-wiki/reagents/additives/peg-400/), 3% w/v 6-Aminohexanoic acid, 0.01 M Calcium chloride dihydrate |
-| Temperature | 4 |
-| Growth time | Few days |
-| Cryoprotection | Flash frozen in liquid nitrogen |
-| Notes | Crystals appeared after a few days. The tetramer shows a typical [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) oligomer with four individual water pores. Two molecules in asymmetric unit. Data collected at ESRF beamline MASSIF-1 (ID30A-1). Molecular replacement with SoPIP2;1 (PDB: 4jc6). |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MEE</span><span class="topo-inside">LRKWPLYRA</span><span class="topo-membrane">VIAEFVATLLFLYVSILT</span><span class="topo-outside">VIGYKAQTDATAGGVDCGGVGIL</span><span class="topo-membrane">GIAWAFG</span></span>
+<span class="topo-line"><span class="topo-membrane">GMIFVLVYCTA</span><span class="topo-inside">GIS</span><span class="topo-unknown">GGHINPAVTVGLFL</span><span class="topo-inside">ARKVSLVRT</span><span class="topo-membrane">VLYIVAQCLGAICGCGFV</span><span class="topo-outside">KAFQS</span></span>
+<span class="topo-line"><span class="topo-outside">SYYTRYGGGANELADGYNKG</span><span class="topo-membrane">TGLGAEIIGTFVLVYTVFSA</span><span class="topo-inside">TDPKRNARDSHVPVLA</span><span class="topo-membrane">PLPI</span></span>
+<span class="topo-line"><span class="topo-membrane">GFAVFMVHLATI</span><span class="topo-outside">PIT</span><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-outside">YNNEKAWDDQ</span><span class="topo-membrane">WIFWVGPMIGAAAAAFYH</span><span class="topo-inside">QF</span></span>
+<span class="topo-line"><span class="topo-inside">ILRAAAI</span><span class="topo-unknown">KALGHHHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>4</td>
+      <td>12</td>
+      <td>32</td>
+      <td>40</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>30</td>
+      <td>41</td>
+      <td>58</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>53</td>
+      <td>59</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>71</td>
+      <td>82</td>
+      <td>99</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>74</td>
+      <td>100</td>
+      <td>102</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>88</td>
+      <td>103</td>
+      <td>116</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>97</td>
+      <td>117</td>
+      <td>125</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>115</td>
+      <td>126</td>
+      <td>143</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>140</td>
+      <td>144</td>
+      <td>168</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>141</td>
+      <td>160</td>
+      <td>169</td>
+      <td>188</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>161</td>
+      <td>176</td>
+      <td>189</td>
+      <td>204</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>177</td>
+      <td>192</td>
+      <td>205</td>
+      <td>220</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>193</td>
+      <td>195</td>
+      <td>221</td>
+      <td>223</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>196</td>
+      <td>210</td>
+      <td>224</td>
+      <td>238</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>211</td>
+      <td>220</td>
+      <td>239</td>
+      <td>248</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>221</td>
+      <td>238</td>
+      <td>249</td>
+      <td>266</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>239</td>
+      <td>247</td>
+      <td>267</td>
+      <td>275</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6qim">6QIM</a> — Chain C (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MEE</span><span class="topo-inside">LRKWPLYRA</span><span class="topo-membrane">VIAEFVATLLFLYVSILTV</span><span class="topo-outside">IGYKAQTDATAGGVDCGGVGIL</span><span class="topo-membrane">GIAWAFG</span></span>
+<span class="topo-line"><span class="topo-membrane">GMIFVLVYCTA</span><span class="topo-inside">GIS</span><span class="topo-unknown">GGHINPAVTVGLFL</span><span class="topo-inside">ARKVSLV</span><span class="topo-membrane">RTVLYIVAQCLGAICGCGFV</span><span class="topo-outside">KAFQS</span></span>
+<span class="topo-line"><span class="topo-outside">SYYTRYGGGANELADGYNKG</span><span class="topo-membrane">TGLGAEIIGTFVLVYTVFSA</span><span class="topo-inside">TDPKRNARDSHVPVL</span><span class="topo-membrane">APLPI</span></span>
+<span class="topo-line"><span class="topo-membrane">GFAVFMVHLATI</span><span class="topo-outside">PIT</span><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-outside">YNNEKAWDDQ</span><span class="topo-membrane">WIFWVGPMIGAAAAAFYH</span><span class="topo-inside">QF</span></span>
+<span class="topo-line"><span class="topo-inside">ILRAAA</span><span class="topo-unknown">IKALGHHHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>4</td>
+      <td>12</td>
+      <td>32</td>
+      <td>40</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>31</td>
+      <td>41</td>
+      <td>59</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>53</td>
+      <td>60</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>71</td>
+      <td>82</td>
+      <td>99</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>74</td>
+      <td>100</td>
+      <td>102</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>88</td>
+      <td>103</td>
+      <td>116</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>95</td>
+      <td>117</td>
+      <td>123</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>115</td>
+      <td>124</td>
+      <td>143</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>140</td>
+      <td>144</td>
+      <td>168</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>141</td>
+      <td>160</td>
+      <td>169</td>
+      <td>188</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>161</td>
+      <td>175</td>
+      <td>189</td>
+      <td>203</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>192</td>
+      <td>204</td>
+      <td>220</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>193</td>
+      <td>195</td>
+      <td>221</td>
+      <td>223</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>196</td>
+      <td>210</td>
+      <td>224</td>
+      <td>238</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>211</td>
+      <td>220</td>
+      <td>239</td>
+      <td>248</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>221</td>
+      <td>238</td>
+      <td>249</td>
+      <td>266</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>239</td>
+      <td>246</td>
+      <td>267</td>
+      <td>274</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6qim">6QIM</a> — Chain D (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MEE</span><span class="topo-inside">LRKWPLYRA</span><span class="topo-membrane">VIAEFVATLLFLYVSILT</span><span class="topo-outside">VIGYKAQTDATAGGVDCGGVGIL</span><span class="topo-membrane">GIAWAFG</span></span>
+<span class="topo-line"><span class="topo-membrane">GMIFVLVYCTA</span><span class="topo-inside">GIS</span><span class="topo-unknown">GGHINPAVTVGLFL</span><span class="topo-inside">ARKVSLVRT</span><span class="topo-membrane">VLYIVAQCLGAICGCGFV</span><span class="topo-outside">KAFQS</span></span>
+<span class="topo-line"><span class="topo-outside">SYYTRYGGGANELADGYNKG</span><span class="topo-membrane">TGLGAEIIGTFVLVYTVFSA</span><span class="topo-inside">TDPKRNARDSHVPVLA</span><span class="topo-membrane">PLPI</span></span>
+<span class="topo-line"><span class="topo-membrane">GFAVFMVHLATI</span><span class="topo-outside">PIT</span><span class="topo-unknown">GTGINPARSFGAAVI</span><span class="topo-outside">YNNEKAWDDQ</span><span class="topo-membrane">WIFWVGPMIGAAAAAFYH</span><span class="topo-inside">QF</span></span>
+<span class="topo-line"><span class="topo-inside">ILRAAAI</span><span class="topo-unknown">KALGHHHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>4</td>
+      <td>12</td>
+      <td>32</td>
+      <td>40</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>30</td>
+      <td>41</td>
+      <td>58</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>53</td>
+      <td>59</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>71</td>
+      <td>82</td>
+      <td>99</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>74</td>
+      <td>100</td>
+      <td>102</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>88</td>
+      <td>103</td>
+      <td>116</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>97</td>
+      <td>117</td>
+      <td>125</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>98</td>
+      <td>115</td>
+      <td>126</td>
+      <td>143</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>140</td>
+      <td>144</td>
+      <td>168</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>141</td>
+      <td>160</td>
+      <td>169</td>
+      <td>188</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>161</td>
+      <td>176</td>
+      <td>189</td>
+      <td>204</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>177</td>
+      <td>192</td>
+      <td>205</td>
+      <td>220</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>193</td>
+      <td>195</td>
+      <td>221</td>
+      <td>223</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>196</td>
+      <td>210</td>
+      <td>224</td>
+      <td>238</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>211</td>
+      <td>220</td>
+      <td>239</td>
+      <td>248</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>221</td>
+      <td>238</td>
+      <td>249</td>
+      <td>266</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>239</td>
+      <td>247</td>
+      <td>267</td>
+      <td>275</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -74,13 +752,13 @@ The pore-lining residues of hAQP1, SoPIP2;1 and AtPIP2;4 are almost identical. T
 
 ## Cross-References
 
-- [SoPIP2;1 (Spinach Plasma Membrane Aquaporin)](/xray-mp-wiki/proteins/other-ion-channels/so-pip2-1/) — Highly homologous plant aquaporin (75% sequence identity) used as molecular replacement model and for comparative functional analysis
-- [Aquaporin Z](/xray-mp-wiki/proteins/other-ion-channels/aquaporin-z/) — Related bacterial aquaporin for comparative structural analysis
-- [Pichia pastoris Expression System](/xray-mp-wiki/methods/expression-systems/pichia-pastoris/) — Expression system used for recombinant AtPIP2;4 production
-- [Hanging-Drop Vapor Diffusion](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Method used for crystallization of AtPIP2;4
-- [LDAO (n-Dodecyl-N,N-Dimethylamine-N-Oxide)](/xray-mp-wiki/reagents/detergents/ldao/) — Primary detergent for solubilization and purification
-- [n-Octyl-beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — Detergent used for crystallization and final SEC buffer
-- [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — AtPIP2;4 is a member of the aquaporin family
-- [AQP1](/xray-mp-wiki/proteins/other-ion-channels/aqp1/) — Referenced in the context of AQP1
-- [Urea](/xray-mp-wiki/reagents/substrates/urea/) — Referenced in the context of Urea
-- [Tris](/xray-mp-wiki/reagents/buffers/tris/) — Referenced in the context of Tris
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/so-pip2-1/">SoPIP2;1 (Spinach Plasma Membrane Aquaporin)</a> — Highly homologous plant aquaporin (75% sequence identity) used as molecular replacement model and for comparative functional analysis
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/aquaporin-z/">Aquaporin Z</a> — Related bacterial aquaporin for comparative structural analysis
+- <a href="/xray-mp-wiki/methods/expression-systems/pichia-pastoris/">Pichia pastoris Expression System</a> — Expression system used for recombinant AtPIP2;4 production
+- <a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">Hanging-Drop Vapor Diffusion</a> — Method used for crystallization of AtPIP2;4
+- <a href="/xray-mp-wiki/reagents/detergents/ldao/">LDAO (n-Dodecyl-N,N-Dimethylamine-N-Oxide)</a> — Primary detergent for solubilization and purification
+- <a href="/xray-mp-wiki/reagents/detergents/og/">n-Octyl-beta-D-glucopyranoside (OG)</a> — Detergent used for crystallization and final SEC buffer
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/">Aquaporin Family</a> — AtPIP2;4 is a member of the aquaporin family
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/aqp1/">AQP1</a> — Referenced in the context of AQP1
+- <a href="/xray-mp-wiki/reagents/substrates/urea/">Urea</a> — Referenced in the context of Urea
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> — Referenced in the context of Tris

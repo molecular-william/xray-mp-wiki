@@ -1,12 +1,12 @@
 ---
 title: "Epithelial Calcium Channel TRPV5"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
-sources: [doi/10.1038##nature17975]
+sources: []
 verified: false
 ---
 
@@ -17,21 +17,9 @@ verified: false
 TRPV5 is a Ca²⁺-selective transient receptor potential vanilloid channel that, together with [Epithelial Calcium Channel TRPV6](/xray-mp-wiki/proteins/voltage-gated-channels/trpv6/), plays a vital role in active Ca²⁺ transport across epithelial tissues. TRPV5 and [Epithelial Calcium Channel TRPV6](/xray-mp-wiki/proteins/voltage-gated-channels/trpv6/) share approximately 75% sequence identity and belong to the vanilloid (TRPV) subfamily of TRP channels. Unlike other TRP channels, TRPV5 and [Epithelial Calcium Channel TRPV6](/xray-mp-wiki/proteins/voltage-gated-channels/trpv6/) have not been reported to be responsive to temperature, tastants, or odors. They form homo- or heteromeric tetrameric assemblies of four subunits, each containing a central K⁺ channel-like transmembrane domain flanked by intracellular N- and C-terminal domains. TRPV5 and [Epithelial Calcium Channel TRPV6](/xray-mp-wiki/proteins/voltage-gated-channels/trpv6/) achieve exceptional Ca²⁺ selectivity (P_Ca/P_Na > 100) through direct coordination of Ca²⁺ by a ring of aspartate side chains in the selectivity filter.
 
 
-## Structure Determination
+## Publications
 
-No structure determined.
-
-## Expression and Purification
-
-- **Expression system**: Not specified in this source
-- **Construct**: Full-length rat TRPV5, ~670 residues. Not directly crystallized in this study; mentioned as closely related channel to [Epithelial Calcium Channel TRPV6](/xray-mp-wiki/proteins/voltage-gated-channels/trpv6/) (~75% sequence identity). TRPV5 crystallization construct details not provided in this paper.
-
-
-No purification described.
-
-## Crystallization
-
-No crystallization described.
+No publications.
 
 ## Biological / Functional Insights
 
@@ -46,7 +34,7 @@ The [Epithelial Calcium Channel TRPV6](/xray-mp-wiki/proteins/voltage-gated-chan
 
 ## Cross-References
 
-- [Epithelial Calcium Channel TRPV6](/xray-mp-wiki/proteins/voltage-gated-channels/trpv6/) — Closely related channel (~75% sequence identity), structural comparison from this paper
-- [Transient Receptor Potential Vanilloid 1 (TRPV1)](/xray-mp-wiki/proteins/trpv1/) — Other TRPV family member, structural comparison reference
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/n-dodecyl-beta-d-maltopyranoside/) — Detergent used for TRPV6 solubilization, likely applicable to TRPV5
-- [Ion Channel Selectivity Filter](/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/) — Ca²⁺ selectivity filter mechanism shared between TRPV5 and TRPV6
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/trpv6/">Epithelial Calcium Channel TRPV6</a> — Closely related channel (~75% sequence identity), structural comparison from this paper
+- <a href="/xray-mp-wiki/proteins/trpv1/">Transient Receptor Potential Vanilloid 1 (TRPV1)</a> — Other TRPV family member, structural comparison reference
+- <a href="/xray-mp-wiki/reagents/detergents/n-dodecyl-beta-d-maltopyranoside/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Detergent used for TRPV6 solubilization, likely applicable to TRPV5
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/selectivity-filter/">Ion Channel Selectivity Filter</a> — Ca²⁺ selectivity filter mechanism shared between TRPV5 and TRPV6

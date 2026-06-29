@@ -1,7 +1,7 @@
 ---
 title: "Synaptobrevin-2 (Rat Neuronal Qc-SNARE Protein)"
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,55 +17,151 @@ verified: false
 Synaptobrevin-2 (also known as VAMP-2) is a neuronal Qc-SNARE protein from rat that resides on synaptic vesicle membranes. It contains an N-terminal proline-rich region, a SNARE motif, a short linker, and a C-terminal transmembrane domain. Synaptobrevin-2 is the vesicle-associated component of the neuronal SNARE complex, which assembles with [Syntaxin-1A (Rat Neuronal Qa-SNARE Protein)](/xray-mp-wiki/proteins/syntaxin-1a) and SNAP-25 to drive synaptic vesicle fusion. The X-ray structure of the SNARE complex including synaptobrevin-2 transmembrane region revealed continuous helical extension through the linker into the membrane.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature08156 | TBA | 3.4 A | C2 | Rat synaptobrevin-2 residues 30-116 (SNARE motif, linker, transmembrane region; lacking N-terminal proline-rich region) | None |
-| doi/10.1038##nature08156 | TBA | 4.8 A | I212121 | Rat synaptobrevin-2 residues 30-116 complexed with syntaxin-1A, crystallized in n-heptyl beta-D-glucopyranoside | None |
+### doi/10.1038##nature08156
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/tba">TBA</a></td>
+      <td>3.4 A</td>
+      <td>C2</td>
+      <td>Rat synaptobrevin-2 residues 30-116 (SNARE motif, linker, transmembrane region; lacking N-terminal proline-rich region)</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/tba">TBA</a></td>
+      <td>4.8 A</td>
+      <td>I212121</td>
+      <td>Rat synaptobrevin-2 residues 30-116 complexed with syntaxin-1A, crystallized in n-heptyl beta-D-glucopyranoside</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli BI21 (DE3)
 - **Construct**: Rat synaptobrevin-2 (residues 1-96 and 1-116) with N-terminal His-tag, expressed from pET28a. For crystallization, residues 30-116 (lacking N-terminal proline-rich region) were cloned into pET28a via NdeI/XhoI sites.
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Protein expression</td>
+      <td>Expression in E. coli BI21 (DE3) from pET28a</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>His-tagged synaptobrevin-2 expressed separately</td>
+    </tr>
+    <tr>
+      <td>Ni-NTA affinity chromatography</td>
+      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td>Ni-NTA agarose</td>
+      <td>-- + --</td>
+      <td>Initial purification of His-tagged synaptobrevin-2</td>
+    </tr>
+    <tr>
+      <td>Ion-exchange chromatography</td>
+      <td>Ion-exchange chromatography</td>
+      <td>Not specified</td>
+      <td>50 mM n-octyl beta-D-glucopyranoside + n-octyl beta-D-glucopyranoside</td>
+      <td>Purified by ion exchange chromatography in presence of 50 mM n-octyl beta-D-glucopyranoside</td>
+    </tr>
+    <tr>
+      <td>Complex assembly</td>
+      <td>In vitro complex assembly</td>
+      <td>--</td>
+      <td>Assembled by overnight incubation of monomers at 4 C + --</td>
+      <td>Synaptobrevin-2 used in complex assembly with <a href="/xray-mp-wiki/proteins/syntaxin-1a">Syntaxin-1A (Rat Neuronal Qa-SNARE Protein)</a> and <a href="/xray-mp-wiki/proteins/snap-25a">SNAP-25A (Rat Neuronal Qbc-SNARE Protein)</a></td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Protein expression | Expression in E. coli BI21 (DE3) from pET28a | -- | -- + -- | His-tagged synaptobrevin-2 expressed separately |
-| Ni-NTA affinity chromatography | Ni-NTA affinity chromatography | Ni-NTA agarose | -- + -- | Initial purification of His-tagged synaptobrevin-2 |
-| Ion-exchange chromatography | Ion-exchange chromatography | Not specified | 50 mM n-octyl beta-D-glucopyranoside + n-octyl beta-D-glucopyranoside | Purified by ion exchange chromatography in presence of 50 mM n-octyl beta-D-glucopyranoside |
-| Complex assembly | In vitro complex assembly | -- | Assembled by overnight incubation of monomers at 4 C + -- | Synaptobrevin-2 used in complex assembly with [Syntaxin-1A (Rat Neuronal Qa-SNARE Protein)](/xray-mp-wiki/proteins/syntaxin-1a) and [SNAP-25A (Rat Neuronal Qbc-SNARE Protein)](/xray-mp-wiki/proteins/snap-25a) |
-
-
-## Crystallization
-
-### doi/10.1038##nature08156
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion in n-nonyl beta-D-glucopyranoside |
-| Protein sample | Syntaxin-1A/SNAP-25/synaptobrevin-2 complex with linkers and TMRs in n-nonyl beta-D-glucopyranoside |
-| Reservoir | Not specified in main text |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | C2 space group, 3.4 A resolution. Two similar complexes per asymmetric unit (r.m.s.d. 0.6 A). X-shaped assembly formed by four complexes through TMR contacts. |
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion in n-heptyl beta-D-glucopyranoside |
-| Protein sample | Syntaxin-1A/SNAP-25/synaptobrevin-2 complex purified and crystallized in n-heptyl beta-D-glucopyranoside |
-| Reservoir | Not specified in main text |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | I212121 space group, 4.8 A resolution. Two similar complexes per asymmetric unit. C-terminal parts of synaptobrevin-2 TMRs deviate slightly, indicating conformational flexibility. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion in n-nonyl beta-D-glucopyranoside</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Syntaxin-1A/SNAP-25/synaptobrevin-2 complex with linkers and TMRs in n-nonyl beta-D-glucopyranoside</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not specified in main text</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>C2 space group, 3.4 A resolution. Two similar complexes per asymmetric unit (r.m.s.d. 0.6 A). X-shaped assembly formed by four complexes through TMR contacts.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion in n-heptyl beta-D-glucopyranoside</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Syntaxin-1A/SNAP-25/synaptobrevin-2 complex purified and crystallized in n-heptyl beta-D-glucopyranoside</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not specified in main text</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>I212121 space group, 4.8 A resolution. Two similar complexes per asymmetric unit. C-terminal parts of synaptobrevin-2 TMRs deviate slightly, indicating conformational flexibility.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -88,10 +184,10 @@ When only the TMR of synaptobrevin-2 was present in the complex, stability was l
 
 ## Cross-References
 
-- [Syntaxin-1A (Rat Neuronal Qa-SNARE Protein)](/xray-mp-wiki/proteins/structural-adhesion/syntaxin-1a/) — Core SNARE complex partner; forms continuous helical bundle through SNARE motif, linker, and TMR
-- [SNAP-25A (Rat Neuronal Qbc-SNARE Protein)](/xray-mp-wiki/proteins/structural-adhesion/snap-25a/) — Third component of the neuronal SNARE complex; assembled in trans with syntaxin-1A and synaptobrevin-2
-- [Nonylglucoside (NG)](/xray-mp-wiki/reagents/detergents/nonylglucoside/) — n-nonyl beta-D-glucopyranoside used as detergent for crystallization (12 mM)
-- [Heptylglucoside (HpG)](/xray-mp-wiki/reagents/detergents/heptylglucoside/) — n-heptyl beta-D-glucopyranoside used for alternative crystallization (140 mM)
-- [n-Octyl beta-D-glucopyranoside (OG)](/xray-mp-wiki/reagents/detergents/og/) — n-octyl beta-D-glucopyranoside used in purification buffer (50 mM)
-- [n-Dodecyl-beta-D-maltopyranoside (beta-DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — n-dodecyl beta-D-maltopyranoside (0.03% w/v) used for endosomal SNARE complex purification
-- [SNARE Complex](/xray-mp-wiki/concepts/structural-mechanisms/snare-complex/) — Synaptobrevin-2 is the Qc-SNARE component of the four-helix bundle SNARE complex
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/syntaxin-1a/">Syntaxin-1A (Rat Neuronal Qa-SNARE Protein)</a> — Core SNARE complex partner; forms continuous helical bundle through SNARE motif, linker, and TMR
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/snap-25a/">SNAP-25A (Rat Neuronal Qbc-SNARE Protein)</a> — Third component of the neuronal SNARE complex; assembled in trans with syntaxin-1A and synaptobrevin-2
+- <a href="/xray-mp-wiki/reagents/detergents/nonylglucoside/">Nonylglucoside (NG)</a> — n-nonyl beta-D-glucopyranoside used as detergent for crystallization (12 mM)
+- <a href="/xray-mp-wiki/reagents/detergents/heptylglucoside/">Heptylglucoside (HpG)</a> — n-heptyl beta-D-glucopyranoside used for alternative crystallization (140 mM)
+- <a href="/xray-mp-wiki/reagents/detergents/og/">n-Octyl beta-D-glucopyranoside (OG)</a> — n-octyl beta-D-glucopyranoside used in purification buffer (50 mM)
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (beta-DDM)</a> — n-dodecyl beta-D-maltopyranoside (0.03% w/v) used for endosomal SNARE complex purification
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/snare-complex/">SNARE Complex</a> — Synaptobrevin-2 is the Qc-SNARE component of the four-helix bundle SNARE complex

@@ -1,7 +1,7 @@
 ---
 title: "Yersinia pestis Heme Transporter HmuUV"
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,47 +16,100 @@ verified: false
 
 The HmuUV complex is the transmembrane and nucleotide-binding domain core of the type II [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (ABC) haem importer from the Gram-negative pathogen Yersinia pestis. It consists of the transmembrane domain dimer HmuU and the nucleotide-binding domain dimer HmuV. The crystal structure in the nucleotide-free form reveals an outward-facing conformation where the periplasmic gate is open and the cytoplasmic gate is closed. This represents the substrate-receptive state of the haem transport cycle, poised to accept a haem molecule from the cognate periplasmic binding protein HmuT. The structure also provides mechanistic insights into the coupling mechanism of type II ABC importers.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nsmb.2417 | unspecified | 3.0 | P2₁ | HmuU (TMD) dimer + HmuV (NBD) dimer (nucleotide-free) | none (nucleotide-free; outward-facing conformation) |
+### doi/10.1038##nsmb.2417
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/unspecified">UNSPECIFIED</a></td>
+      <td>3.0</td>
+      <td>P2₁</td>
+      <td>HmuU (TMD) dimer + HmuV (NBD) dimer (nucleotide-free)</td>
+      <td>none (nucleotide-free; outward-facing conformation)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli
 - **Construct**: HmuU and HmuV co-expressed from a single plasmid with N-terminal His10 (decahistidine) tag on HmuU. HmuT expressed separately with C-terminal hexahistidine tag.
 - **Induction**: unspecified
 - **Media**: unspecified
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli BL21 Gold (DE3)
 - **Expression construct**: HmuU with N-terminal His10 tag + HmuV
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane solubilization | Detergent solubilization | -- | unspecified + n-dodecyl-β-D-maltopyranoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) | Solubilized from membranes using [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (Anatrace) |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) Superflow (Qiagen) | 10 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 0.5 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/)-NaOH pH 8.0, 0.01% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.01% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | His10-tagged HmuUV captured |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Membrane solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>unspecified + n-dodecyl-β-D-maltopyranoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
+      <td>Solubilized from membranes using <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (Anatrace)</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> Superflow (Qiagen)</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 0.5 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>-NaOH pH 8.0, 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.01% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>His10-tagged HmuUV captured</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: HmuUV in 10 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 8.0, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 0.5 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/)-NaOH pH 8.0, 0.01% [DDM](/xray-mp-wiki/reagents/detergents/ddm/)
 
+**Crystallization:**
 
-## Crystallization
-
-### doi/10.1038##nsmb.2417
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion in detergent solution |
-| Protein sample | HmuUV complex |
-| Reservoir | unspecified |
-| Temperature | unspecified |
-| Growth time | unspecified |
-| Notes | 3D crystals grown in detergent solution. Phased using two [Mercury (HgCl2) - Aquaporin Inhibitor](/xray-mp-wiki/reagents/additives/mercury/) derivatives (EMP and EMTS) by single-wavelength anomalous diffraction (SIRAS). Diffraction data anisotropic: 3.0 A best, 3.2 A worst direction. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion in detergent solution</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>HmuUV complex</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>unspecified</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>unspecified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>unspecified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>3D crystals grown in detergent solution. Phased using two <a href="/xray-mp-wiki/reagents/additives/mercury/">Mercury (HgCl2) - Aquaporin Inhibitor</a> derivatives (EMP and EMTS) by single-wavelength anomalous diffraction (SIRAS). Diffraction data anisotropic: 3.0 A best, 3.2 A worst direction.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -87,13 +140,13 @@ The outward-facing conformation of HmuUV in the nucleotide-free state has implic
 
 ## Cross-References
 
-- [Type II ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/type-ii-abc-transporter-family/) — HmuUV is a type II ABC transporter
-- [ABC Transporter Family](/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/) — HmuUV is an ABC transporter
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Outward/inward-facing conformations illustrate alternating access
-- [Inward-Facing Conformation of ABC Transporters](/xray-mp-wiki/concepts/transport-mechanisms/inward-facing-conformation/) — HmuUV outward-facing conformation contrasts with inward-facing BhuUV
-- [BhuUV Complex](/xray-mp-wiki/proteins/abc-transporters/bhuuv/) — Orthologous haem transporter from Burkholderia cenocepacia
-- [BhuUV-T Complex](/xray-mp-wiki/proteins/abc-transporters/bhuuv-t/) — Orthologous haem importer complex from Burkholderia cenocepacia
-- [n-Dodecyl-β-D-Maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for membrane solubilization of HmuUV
-- [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) — Buffer used in HmuUV purification and crystallization
-- [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) — Affinity resin used for His-tag purification of HmuUV
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Related protein
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/type-ii-abc-transporter-family/">Type II ABC Transporter Family</a> — HmuUV is a type II ABC transporter
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/abc-transporter-family/">ABC Transporter Family</a> — HmuUV is an ABC transporter
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating-Access Mechanism</a> — Outward/inward-facing conformations illustrate alternating access
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/inward-facing-conformation/">Inward-Facing Conformation of ABC Transporters</a> — HmuUV outward-facing conformation contrasts with inward-facing BhuUV
+- <a href="/xray-mp-wiki/proteins/abc-transporters/bhuuv/">BhuUV Complex</a> — Orthologous haem transporter from Burkholderia cenocepacia
+- <a href="/xray-mp-wiki/proteins/abc-transporters/bhuuv-t/">BhuUV-T Complex</a> — Orthologous haem importer complex from Burkholderia cenocepacia
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-β-D-Maltopyranoside (DDM)</a> — Detergent used for membrane solubilization of HmuUV
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> — Buffer used in HmuUV purification and crystallization
+- <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> — Affinity resin used for His-tag purification of HmuUV
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Related protein

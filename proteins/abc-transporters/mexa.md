@@ -1,7 +1,7 @@
 ---
 title: "MexA multidrug efflux pump periplasmic adaptor"
 created: 2026-06-08
-updated: 2026-06-16
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,41 +17,118 @@ verified: false
 MexA is the periplasmic adaptor (membrane fusion protein) component of the MexAB-OprM tripartite multidrug efflux pump from Pseudomonas aeruginosa. The crystal structure was determined at 3.0 A resolution, revealing an elongated molecule composed of three linearly arranged subdomains: a 47 A alpha-helical hairpin, a lipoyl domain, and a six-stranded beta-barrel. In the crystal, hairpins of neighboring MexA monomers pack side-by-side to form twisted arcs. Based on the structure and packing, a model was proposed for the key periplasmic interaction between the outer membrane channel OprM and the adaptor protein in the assembled drug efflux pump, where a ring of nine MexA molecules forms a sheath around the alpha-helical barrel of OprM, potentially inducing or stabilizing the open state.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.0400375101 | 1T5E | 3.0 | not specified in raw paper | Full-length mature MexA from P. aeruginosa PAO1 (residues 29-383 after signal peptide cleavage and lipid modification), missing N-terminal 28 residues and C-terminal 101 residues in the crystal structure | None |
-| doi/10.1074##jbc.C400164200 | 1VF7 | 2.40 | not specified in paper | Fatty-acylated MexA from P. aeruginosa TNP070 with N-terminal Azu-His6 tag (residues 1-383), 13-mer (hexamer + heptamer) in asymmetric unit | None |
+### doi/10.1073##pnas.0400375101
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1t5e">1T5E</a></td>
+      <td>3.0</td>
+      <td>not specified in raw paper</td>
+      <td>Full-length mature MexA from P. aeruginosa PAO1 (residues 29-383 after signal peptide cleavage and lipid modification), missing N-terminal 28 residues and C-terminal 101 residues in the crystal structure</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Not specified in raw paper
 - **Construct**: Full-length MexA from P. aeruginosa
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Purification</td>
+      <td>Not specified in raw paper</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>Purification details not available in the raw paper text (methods section truncated)</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Purification | Not specified in raw paper | -- | -- + -- | Purification details not available in the raw paper text (methods section truncated) |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Not specified in raw paper</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystallization details not available in the raw paper text (methods section truncated). Data collected at beamline ID29 of the European Synchrotron Radiation Facility, Grenoble, France.</td>
+    </tr>
+  </tbody>
+</table>
+### doi/10.1074##jbc.C400164200
 
+**Structures:**
 
-## Crystallization
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1vf7">1VF7</a></td>
+      <td>2.40</td>
+      <td>not specified in paper</td>
+      <td>Fatty-acylated MexA from P. aeruginosa TNP070 with N-terminal Azu-His6 tag (residues 1-383), 13-mer (hexamer + heptamer) in asymmetric unit</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
 
-### doi/10.1073##pnas.0400375101
+**Expression:**
 
-| Parameter | Value |
-|---|---|
-| Method | Not specified in raw paper |
-| Protein sample | -- |
-| Reservoir | -- |
-| Temperature | -- |
-| Growth time | -- |
-| Cryoprotection | -- |
-| Notes | Crystallization details not available in the raw paper text (methods section truncated). Data collected at beamline ID29 of the European Synchrotron Radiation Facility, Grenoble, France. |
+- **Expression system**: Not specified in raw paper
+- **Construct**: Full-length MexA from P. aeruginosa
 
 
 ## Biological / Functional Insights
@@ -83,9 +160,9 @@ Based on the MexA structure, two models were proposed for the MexAB-OprM assembl
 
 ## Cross-References
 
-- [MexB (Pseudomonas aeruginosa multidrug exporter)](/xray-mp-wiki/proteins/abc-transporters/mexB/) — Inner membrane RND partner in the MexAB-OprM tripartite efflux system from P. aeruginosa
-- [AcrB Multidrug Efflux Transporter](/xray-mp-wiki/proteins/abc-transporters/acrb/) — E. coli RND homologue of MexB; MexA is the P. aeruginosa homologue of AcrA
-- [AcrA multidrug efflux pump periplasmic protein](/xray-mp-wiki/proteins/abc-transporters/acra/) — E. coli homologue of MexA with the same three-domain architecture (alpha-helical hairpin, lipoyl domain, beta-barrel)
-- [MEXB](/xray-mp-wiki/proteins/abc-transporters/mexb/) — Related protein structure
-- [RND Efflux Pumps](/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/) — MexA is the periplasmic adaptor component of the RND MexAB-OprM tripartite efflux pump
-- [HME-RND Efflux Pump (Heavy-Metal Efflux RND)](/xray-mp-wiki/concepts/transport-mechanisms/hme-rnd-efflux-pump/) — Related RND subfamily with different substrate specificity; both use periplasmic adaptors
+- <a href="/xray-mp-wiki/proteins/abc-transporters/mexB/">MexB (Pseudomonas aeruginosa multidrug exporter)</a> — Inner membrane RND partner in the MexAB-OprM tripartite efflux system from P. aeruginosa
+- <a href="/xray-mp-wiki/proteins/abc-transporters/acrb/">AcrB Multidrug Efflux Transporter</a> — E. coli RND homologue of MexB; MexA is the P. aeruginosa homologue of AcrA
+- <a href="/xray-mp-wiki/proteins/abc-transporters/acra/">AcrA multidrug efflux pump periplasmic protein</a> — E. coli homologue of MexA with the same three-domain architecture (alpha-helical hairpin, lipoyl domain, beta-barrel)
+- <a href="/xray-mp-wiki/proteins/abc-transporters/mexb/">MEXB</a> — Related protein structure
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/rnd-efflux-pumps/">RND Efflux Pumps</a> — MexA is the periplasmic adaptor component of the RND MexAB-OprM tripartite efflux pump
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/hme-rnd-efflux-pump/">HME-RND Efflux Pump (Heavy-Metal Efflux RND)</a> — Related RND subfamily with different substrate specificity; both use periplasmic adaptors

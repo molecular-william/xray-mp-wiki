@@ -1,7 +1,7 @@
 ---
 title: "SaTRIC Channel from Sulfolobus acidocaldarius"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,71 +17,193 @@ verified: false
 SaTRIC is a Trimeric Intracellular Cation (TRIC) channel from the archaeon Sulfolobus acidocaldarius. It forms a homotrimeric complex with each monomer containing seven transmembrane helices arranged in a 3+3+1 topology. The channel is permeable to monovalent cations (K+, Na+) and divalent cations (Mg2+, Ca2+). Multiple crystal structures were solved in different ion-bound states, revealing ion-dependent conformational changes in the pore-forming helices and the structural basis for cation selectivity.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##ncomms15103 |  | 3.1 A | P321 | SaTRIC residues 1-207, L148M/L180M double mutant, Se-Met labeled | not specified |
-| doi/10.1038##ncomms15103 |  | 1.6 A | P63 | SaTRIC residues 1-207, wild-type, Native | Na+ bound |
-| doi/10.1038##ncomms15103 |  | 1.8 A | P63 | SaTRIC residues 1-207, wild-type, Native | Mg2+ bound |
-| doi/10.1038##ncomms15103 |  | 2.4 A | R32 | SaTRIC residues 1-207, wild-type, Native | ion-free |
+### doi/10.1038##ncomms15103
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td>3.1 A</td>
+      <td>P321</td>
+      <td>SaTRIC residues 1-207, L148M/L180M double mutant, Se-Met labeled</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>1.6 A</td>
+      <td>P63</td>
+      <td>SaTRIC residues 1-207, wild-type, Native</td>
+      <td>Na+ bound</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>1.8 A</td>
+      <td>P63</td>
+      <td>SaTRIC residues 1-207, wild-type, Native</td>
+      <td>Mg2+ bound</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>2.4 A</td>
+      <td>R32</td>
+      <td>SaTRIC residues 1-207, wild-type, Native</td>
+      <td>ion-free</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: not specified in supplementary tables
 - **Construct**: SaTRIC from Sulfolobus acidocaldarius. The crystallization construct covers residues 1-207, encompassing the transmembrane domain. A double mutant L148M/L180M was also prepared for the Type 1 crystal form.
 
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Protein solution</td>
+      <td>not specified</td>
+      <td>--</td>
+      <td>HEPES 20 mM pH 7.5, NaCl 200 mM + n-DM (n-dodecyl-beta-D-maltoside) 4 mM</td>
+      <td>Protein solution for Type 1, Type 2a, Type 2b crystallization; for Type 2b RbCl 200 mM replaced NaCl; for Type 3 NaBr 200 mM replaced NaCl</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Protein solution | not specified | -- | HEPES 20 mM pH 7.5, NaCl 200 mM + n-DM (n-dodecyl-beta-D-maltoside) 4 mM | Protein solution for Type 1, Type 2a, Type 2b crystallization; for Type 2b RbCl 200 mM replaced NaCl; for Type 3 NaBr 200 mM replaced NaCl |
-
-
-## Crystallization
-
-### doi/10.1038##ncomms15103
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Protein sample | SaTRIC residues 1-207 (WT or L148M/L180M mutant) in HEPES 20 mM pH 7.5, NaCl 200 mM, DM 4 mM |
-| Temperature | not specified |
-| Growth time | not specified |
-| Cryoprotection | not specified |
-| Notes | Type 1 crystal: Se-Met labeled L148M/L180M mutant. Wavelength 0.97853 A, space group P321, resolution ~3.1 A. |
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Protein sample | SaTRIC residues 1-207 WT, Native, in HEPES 20 mM pH 7.5, NaCl 200 mM, DM 4 mM |
-| Temperature | not specified |
-| Growth time | not specified |
-| Cryoprotection | not specified |
-| Notes | Type 2a crystal: Wild-type, Native. Wavelength 0.97876 A, space group P63, resolution ~1.6 A. Na+ bound structure. |
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Protein sample | SaTRIC residues 1-207 WT, Native, in HEPES 20 mM pH 7.5, RbCl 200 mM, DM 4 mM |
-| Temperature | not specified |
-| Growth time | not specified |
-| Cryoprotection | not specified |
-| Notes | Type 2b crystal: Wild-type, Native. Wavelength 0.81530 A (near Mg K-edge for anomalous), space group P63, resolution ~1.8 A. Mg2+ bound structure. |
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Protein sample | SaTRIC residues 1-207 WT, Native, in HEPES 20 mM pH 7.5, NaBr 200 mM, DM 4 mM |
-| Temperature | not specified |
-| Growth time | not specified |
-| Cryoprotection | not specified |
-| Notes | Type 3 crystal: Wild-type, Native, ion-free. Wavelength 0.91532 A, space group R32, resolution ~2.4 A. Unmodelled density in ion-conducting pore observed. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>SaTRIC residues 1-207 (WT or L148M/L180M mutant) in HEPES 20 mM pH 7.5, NaCl 200 mM, DM 4 mM</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Type 1 crystal: Se-Met labeled L148M/L180M mutant. Wavelength 0.97853 A, space group P321, resolution ~3.1 A.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>SaTRIC residues 1-207 WT, Native, in HEPES 20 mM pH 7.5, NaCl 200 mM, DM 4 mM</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Type 2a crystal: Wild-type, Native. Wavelength 0.97876 A, space group P63, resolution ~1.6 A. Na+ bound structure.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>SaTRIC residues 1-207 WT, Native, in HEPES 20 mM pH 7.5, RbCl 200 mM, DM 4 mM</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Type 2b crystal: Wild-type, Native. Wavelength 0.81530 A (near Mg K-edge for anomalous), space group P63, resolution ~1.8 A. Mg2+ bound structure.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>SaTRIC residues 1-207 WT, Native, in HEPES 20 mM pH 7.5, NaBr 200 mM, DM 4 mM</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Type 3 crystal: Wild-type, Native, ion-free. Wavelength 0.91532 A, space group R32, resolution ~2.4 A. Unmodelled density in ion-conducting pore observed.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -104,11 +226,11 @@ The SaTRIC D99A mutant was functionally characterized by single-channel electrop
 
 ## Cross-References
 
-- [CpTRIC Channel from Clostridium perfringens](/xray-mp-wiki/proteins/voltage-gated-channels/cp-tric/) — Homologous TRIC channel from C. perfringens; structural comparison between prokaryotic TRIC channels
-- [C. elegans TRIC-B1 Channel](/xray-mp-wiki/proteins/voltage-gated-channels/tric-b1/) — Eukaryotic TRIC channel homolog; shared 7-TM hourglass architecture and PIP2-dependent gating
-- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — All four SaTRIC crystal structures solved by LCP method
-- [TRIC Channel Gating Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/tric-channel-gating/) — SaTRIC belongs to the TRIC channel family with ion-dependent gating
-- [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) — Buffer component (20 mM, pH 7.5) used in protein solution and crystallization
-- [Decylmaltoside (DM)](/xray-mp-wiki/reagents/detergents/dm/) — Detergent (4 mM) used throughout SaTRIC protein solutions for stability
-- [PEG200](/xray-mp-wiki/reagents/additives/peg200/) — Additive used in purification or crystallization buffers
-- [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) — Buffer component in purification or crystallization
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/cp-tric/">CpTRIC Channel from Clostridium perfringens</a> — Homologous TRIC channel from C. perfringens; structural comparison between prokaryotic TRIC channels
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/tric-b1/">C. elegans TRIC-B1 Channel</a> — Eukaryotic TRIC channel homolog; shared 7-TM hourglass architecture and PIP2-dependent gating
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — All four SaTRIC crystal structures solved by LCP method
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/tric-channel-gating/">TRIC Channel Gating Mechanism</a> — SaTRIC belongs to the TRIC channel family with ion-dependent gating
+- <a href="/xray-mp-wiki/reagents/buffers/hepes/">HEPES</a> — Buffer component (20 mM, pH 7.5) used in protein solution and crystallization
+- <a href="/xray-mp-wiki/reagents/detergents/dm/">Decylmaltoside (DM)</a> — Detergent (4 mM) used throughout SaTRIC protein solutions for stability
+- <a href="/xray-mp-wiki/reagents/additives/peg200/">PEG200</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/buffers/citrate/">Citrate Buffer (Sodium Citrate)</a> — Buffer component in purification or crystallization

@@ -1,0 +1,193 @@
+/* Wiki custom styles */
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap');
+
+/* ─── Collapsible publications ─────────────────────────── */
+details.pub-entry {
+  margin: 1em 0;
+  padding: 0.5em 1em;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background: #fafafa;
+}
+details.pub-entry summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: #2c3e50;
+  padding: 0.3em 0;
+}
+details.pub-entry[open] {
+  background: #fff;
+  border-color: #bbb;
+}
+
+/* ─── PDB ID links ─────────────────────────────────────── */
+a.pdb-link {
+  font-family: 'JetBrains Mono', monospace;
+  font-weight: 500;
+  background: #e8f4fd;
+  padding: 1px 6px;
+  border-radius: 3px;
+  text-decoration: none;
+}
+a.pdb-link:hover {
+  background: #c5e5f7;
+}
+
+/* ─── Tables ──────────────────────────────────────────── */
+
+/* Full data tables: Structures, Purification steps */
+table.wiki-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 14px;
+  margin: 0.8em 0;
+  overflow-x: auto;
+  display: block;
+}
+table.wiki-table thead {
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+table.wiki-table th {
+  background: #2c3e50;
+  color: #fff;
+  padding: 8px 12px;
+  text-align: left;
+  font-weight: 600;
+  white-space: nowrap;
+  border: none;
+}
+table.wiki-table td {
+  padding: 6px 12px;
+  border-bottom: 1px solid #e8e8e8;
+  vertical-align: top;
+  background: #fff;
+}
+table.wiki-table tbody tr:nth-child(even) td {
+  background: #f5f8fa;
+}
+table.wiki-table tbody tr:hover td {
+  background: #e8f0f8;
+}
+/* Construct column: allow wrapping for long text */
+table.wiki-table td:nth-child(4) {
+  max-width: 350px;
+  word-break: break-word;
+}
+/* Compact tables (≤3 columns): no scroll */
+table.wiki-table.compact {
+  display: table;
+  width: auto;
+  min-width: 60%;
+}
+
+/* Key-value tables: Crystallization parameters */
+table.wiki-kv-table {
+  border-collapse: collapse;
+  margin: 0.5em 0;
+  width: auto;
+  max-width: 100%;
+}
+table.wiki-kv-table td {
+  padding: 4px 10px;
+  border-bottom: 1px solid #eee;
+  vertical-align: top;
+}
+table.wiki-kv-table tr:nth-child(even) td {
+  background: #fafafa;
+}
+table.wiki-kv-table td:first-child {
+  font-weight: 600;
+  white-space: nowrap;
+  padding-right: 24px;
+  vertical-align: top;
+  color: #2c3e50;
+}
+
+/* Mini tables: Topology regions */
+table.wiki-mini-table {
+  font-size: 13px;
+  border-collapse: collapse;
+  margin: 0.5em 0;
+}
+table.wiki-mini-table th,
+table.wiki-mini-table td {
+  padding: 3px 10px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+table.wiki-mini-table th {
+  background: #ecf0f1;
+  font-weight: 600;
+  color: #2c3e50;
+}
+table.wiki-mini-table tr:nth-child(even) td {
+  background: #fafafa;
+}
+
+/* ─── Sequence topology colors ─────────────────────────── */
+.sequences {
+  margin: 1em 0;
+}
+.sequence-entry {
+  margin: 0.8em 0;
+  padding: 0.5em;
+  border-left: 3px solid #3498db;
+  background: #f8f9fa;
+  border-radius: 4px;
+}
+.sequence-text {
+  font-family: 'JetBrains Mono', 'Courier New', monospace;
+  font-size: 13px;
+  line-height: 1.7;
+  letter-spacing: 0.5px;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+.topo-line {
+  display: block;
+}
+.topo-membrane {
+  background: #2ecc71;
+  color: #fff;
+  padding: 0 1px;
+  border-radius: 2px;
+}
+.topo-inside {
+  background: #3498db;
+  color: #fff;
+  padding: 0 1px;
+  border-radius: 2px;
+}
+.topo-outside {
+  background: #e74c3c;
+  color: #fff;
+  padding: 0 1px;
+  border-radius: 2px;
+}
+.topo-unknown {
+  background: #95a5a6;
+  color: #fff;
+  padding: 0 1px;
+  border-radius: 2px;
+}
+
+/* Legend */
+.topo-legend {
+  margin-bottom: 6px;
+  font-size: 12px;
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.topo-legend span {
+  padding: 1px 6px;
+  border-radius: 3px;
+  color: #fff;
+  font-family: sans-serif;
+}
+.topo-membrane-legend { background: #2ecc71; }
+.topo-inside-legend { background: #3498db; }
+.topo-outside-legend { background: #e74c3c; }
+.topo-unknown-legend { background: #95a5a6; }

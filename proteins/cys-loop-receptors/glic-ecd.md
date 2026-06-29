@@ -1,12 +1,12 @@
 ---
 title: "GLIC ECD (Extracellular Domain of Gloeobacter violaceus Ion Channel)"
 created: 2026-05-27
-updated: 2026-06-02
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [ion-channel, membrane-protein]
-sources: [doi/10.1016##j.jmb.2009.11.024, doi/10.1038##emboj.2013.17]
+sources: [doi/10.1016##j.jmb.2009.11.024]
 verified: true
 ---
 
@@ -16,35 +16,45 @@ verified: true
 
 The extracellular domain (ECD) of the [Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) ([Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/)) from *Gloeobacter violaceus* ([GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp-wiki/proteins/glic)). [GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp-wiki/proteins/glic) is a bacterial proton-gated ion channel homologous to eukaryotic Cys-loop receptors including the nicotinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) receptor (nAChR). The isolated ECD was crystallized at neutral pH, revealing an unexpected hexameric quaternary structure instead of the expected pentameric assembly. This finding demonstrated that the transmembrane domain is necessary for proper pentameric oligomeric assembly of [GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp-wiki/proteins/glic).
 
-## Structure Determination
-
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.jmb.2009.11.024 | 3IGQ | 2.3 | P21212 | ECD residues 3-193, F116G Y119T P120E F121S, C-terminal His-tag | chloride ion, sodium ion, acetate |
-
-## Expression and Purification
-
-### Purification Workflow
-
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | French press in 20 mM [Tris (Hydroxymethyl) Aminomethane](/xray-mp-wiki/reagents/buffers/tris/) pH 7.6, 300 mM [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/) | — |  |  |
-| Affinity purification | [Ni-NTA Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) resin | — |  |  |
-| [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Superose 6 SEC Resin](/xray-mp-wiki/reagents/additives/superose-6/) 10/300 GL column in 20 mM [Tris (Hydroxymethyl) Aminomethane](/xray-mp-wiki/reagents/buffers/tris/) pH 7.6, 300 mM [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/) | — |  |  |
-
-
-## Crystallization
+## Publications
 
 ### doi/10.1016##j.jmb.2009.11.024
 
-| Parameter | Value |
-|---|---|
-| Method | [Vapor Diffusion Crystallization](/xray-mp-wiki/methods/crystallization/vapor-diffusion/) |
-| Temperature | 20 |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3igq">3IGQ</a></td>
+      <td>2.3</td>
+      <td>P21212</td>
+      <td>ECD residues 3-193, F116G Y119T P120E F121S, C-terminal His-tag</td>
+      <td>chloride ion, sodium ion, acetate</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">Vapor Diffusion Crystallization</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -71,13 +81,13 @@ The crystal structure of the [GLIC (Gloeobacter violaceus Ion Channel)](/xray-mp
 
 ## Cross-References
 
-- [Pentameric Ligand-Gated Ion Channel (pLGIC)](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) — Referenced in glic-ecd
-- [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Referenced in glic-ecd
-- [Vapor Diffusion Crystallization](/xray-mp-wiki/methods/crystallization/vapor-diffusion/) — Referenced in glic-ecd
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Referenced in glic-ecd
-- [Bis-Tris Propane Buffer](/xray-mp-wiki/reagents/buffers/bis-tris-propane/) — Referenced in glic-ecd
-- [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/) — Referenced in glic-ecd
-- [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine) — Referenced in glic-ecd
-- [Ni-NTA Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) — Referenced in glic-ecd
-- [Superose 6 SEC Resin](/xray-mp-wiki/reagents/additives/superose-6/) — Referenced in glic-ecd
-- [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate) — Referenced in glic-ecd
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/">Pentameric Ligand-Gated Ion Channel (pLGIC)</a> — Referenced in glic-ecd
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size Exclusion Chromatography</a> — Referenced in glic-ecd
+- <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">Vapor Diffusion Crystallization</a> — Referenced in glic-ecd
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Referenced in glic-ecd
+- <a href="/xray-mp-wiki/reagents/buffers/bis-tris-propane/">Bis-Tris Propane Buffer</a> — Referenced in glic-ecd
+- <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride (NaCl)</a> — Referenced in glic-ecd
+- <a href="/xray-mp-wiki/reagents/ligands/acetylcholine">Acetylcholine</a> — Referenced in glic-ecd
+- <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Resin</a> — Referenced in glic-ecd
+- <a href="/xray-mp-wiki/reagents/additives/superose-6/">Superose 6 SEC Resin</a> — Referenced in glic-ecd
+- <a href="/xray-mp-wiki/reagents/buffers/acetate">Acetate Buffer (Sodium Acetate)</a> — Referenced in glic-ecd

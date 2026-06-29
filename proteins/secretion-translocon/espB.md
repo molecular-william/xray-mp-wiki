@@ -1,7 +1,7 @@
 ---
 title: "EspB"
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,77 +17,229 @@ verified: false
 EspB is a secreted virulence factor from Mycobacterium tuberculosis, encoded within the ESX-1 (type VII secretion) locus and classified as one of the Esp (ESX-secreted protein) family. EspB contains a unique PE-PPE fusion architecture in its N-terminal domain, adopting an elongated all-helical fold that structurally resembles the PE25-PPE41 heterodimer despite limited sequence similarity. The mature secreted form is a 50 kDa protein resulting from proteolytic cleavage of the C-terminal domain by the MycP1 serine protease. EspB forms oligomeric donut-shaped particles and has been shown to bind phospholipids including [Phosphatidylserine](/xray-mp-wiki/reagents/lipids/phosphatidylserine) and phosphatidic acid. EspB is required for host-cell death, phagosomal escape, and co-dependent secretion of ESAT-6/CFP-10.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.jsb.2015.06.003 | 4XWP | 1.82 A | C2221 | EspB residues 7-278 (PE-PPE domains only), N-terminal [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag) with TEV cleavage site | None |
-| doi/10.1016##j.jsb.2015.06.003 | 4XXX | 1.5 A | C2221 | EspB residues 7-278 (PE-PPE domains only), N-terminal [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag) with TEV cleavage site | None (crystallized with [Phosphatidylserine](/xray-mp-wiki/reagents/lipids/phosphatidylserine) additive but no lipid observed in structure) |
-| doi/10.1016##j.jsb.2015.06.003 | 4XXN | 2.14 A | I222 | EspB residues 7-278 (PE-PPE domains only), N-terminal [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag) with TEV cleavage site | None |
-| doi/10.1016##j.jsb.2015.06.003 | 4XY3 | 3.04 A | Not specified | Full-length EspB residues 1-460 | None |
+### doi/10.1016##j.jsb.2015.06.003
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4xwp">4XWP</a></td>
+      <td>1.82 A</td>
+      <td>C2221</td>
+      <td>EspB residues 7-278 (PE-PPE domains only), N-terminal <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag">Polyhistidine Tag (His6)</a> with TEV cleavage site</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4xxx">4XXX</a></td>
+      <td>1.5 A</td>
+      <td>C2221</td>
+      <td>EspB residues 7-278 (PE-PPE domains only), N-terminal <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag">Polyhistidine Tag (His6)</a> with TEV cleavage site</td>
+      <td>None (crystallized with <a href="/xray-mp-wiki/reagents/lipids/phosphatidylserine">Phosphatidylserine</a> additive but no lipid observed in structure)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4xxn">4XXN</a></td>
+      <td>2.14 A</td>
+      <td>I222</td>
+      <td>EspB residues 7-278 (PE-PPE domains only), N-terminal <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag">Polyhistidine Tag (His6)</a> with TEV cleavage site</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4xy3">4XY3</a></td>
+      <td>3.04 A</td>
+      <td>Not specified</td>
+      <td>Full-length EspB residues 1-460</td>
+      <td>None</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli Rosetta2(DE3)
 - **Construct**: EspB residues 7-278 cloned into modified pET-28b vector with N-terminal His6-tag and [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease) cleavage site
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Cell disruption</td>
+      <td>--</td>
+      <td>20 mM Tris pH 8.5, 300 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + --</td>
+      <td>Cells resuspended and passed five times through cell disrupter at 4 C</td>
+    </tr>
+    <tr>
+      <td>Affinity purification</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> column</td>
+      <td>20 mM Tris pH 8.5, 300 mM NaCl, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> (wash); gradient to 250 mM imidazole (elution) + --</td>
+      <td>Lysate applied to pre-equilibrated Ni-NTA column; EspB eluted in gradient with <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a></td>
+    </tr>
+    <tr>
+      <td>Tag cleavage</td>
+      <td>Proteolytic cleavage</td>
+      <td>--</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 300 mM NaCl + --</td>
+      <td>Cleaved protein dialysed overnight at 4 C with <a href="/xray-mp-wiki/reagents/additives/tev-protease">TEV Protease</a></td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td>Superdex200 16/30 column</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 100 mM NaCl + --</td>
+      <td>Protein concentrated to 10 mg/mL; purity >90%</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Cell disruption | -- | 20 mM Tris pH 8.5, 300 mM NaCl, 10 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) + -- | Cells resuspended and passed five times through cell disrupter at 4 C |
-| Affinity purification | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta) column | 20 mM Tris pH 8.5, 300 mM NaCl, 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) (wash); gradient to 250 mM imidazole (elution) + -- | Lysate applied to pre-equilibrated Ni-NTA column; EspB eluted in gradient with [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) |
-| Tag cleavage | Proteolytic cleavage | -- | 20 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 7.5, 300 mM NaCl + -- | Cleaved protein dialysed overnight at 4 C with [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease) |
-| [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) | Superdex200 16/30 column | 20 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 7.5, 100 mM NaCl + -- | Protein concentrated to 10 mg/mL; purity >90% |
-
-
-## Crystallization
-
-### doi/10.1016##j.jsb.2015.06.003
-
-| Parameter | Value |
-|---|---|
-| Method | Hanging drop [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) |
-| Protein sample | EspB7-278 at 10 mg/mL |
-| Reservoir | 0.2 M calcium acetate, 0.1 M [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris-hcl), 20% PEG3000 |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Reservoir mother liquor supplemented with 25% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol); flash cooled in liquid nitrogen |
-| Notes | Space group C2221; structure refined to 1.82 A resolution (Rwork 0.199, Rfree 0.234); [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement) using PE25-PPE41 heterodimer (PDB 2G38) as search model; loop residues 86-115 and 125-130 missing due to disorder |
-
-| Parameter | Value |
-|---|---|
-| Method | Sitting drop [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) |
-| Protein sample | EspB7-278 at 10 mg/mL with 1 mM L-alpha-[Phosphatidylserine](/xray-mp-wiki/reagents/lipids/phosphatidylserine) additive |
-| Reservoir | 0.2 M potassium dihydrogen phosphate, 20% w/v [PEG](/xray-mp-wiki/reagents/additives/peg)3350 |
-| Temperature | 291 K |
-| Growth time | Not specified |
-| Cryoprotection | Reservoir mother liquor supplemented with 25% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol); flash cooled in liquid nitrogen |
-| Notes | Space group C2221; best dataset diffracted to 1.5 A resolution (Rwork 0.194, Rfree 0.218); refined with seven TLS groups; isomorphous with 4XWP but less disordered (only residues 90-114 missing); no electron density for [Phosphatidylserine](/xray-mp-wiki/reagents/lipids/phosphatidylserine) observed despite additive presence |
-
-| Parameter | Value |
-|---|---|
-| Method | Hanging drop [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) |
-| Protein sample | EspB7-278 at 10 mg/mL |
-| Reservoir | 0.2 M sodium chloride, 0.1 M CAPS pH 10.5, 1.26 M [Ammonium Sulfate](/xray-mp-wiki/reagents/additives/ammonium-sulfate) |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Space group I222; structure solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement) using EspB7-278 C2221 structure (PDB 4XWP) as search model; refined to 2.14 A resolution (Rwork 0.204, Rfree 0.251); loop residues 82-114 missing |
-
-| Parameter | Value |
-|---|---|
-| Method | Hanging drop [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) |
-| Protein sample | Full-length EspB1-460 |
-| Reservoir | 0.1 M CAPSO pH 10.8, 0.2 M sodium chloride, 1.5 M [Ammonium Sulfate](/xray-mp-wiki/reagents/additives/ammonium-sulfate) |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Space group not specified; structure solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement) using EspB7-278 (PDB 4XXN) as search model; refined to 3.04 A resolution (Rwork 0.220, Rfree 0.266); C-terminal domain disordered; only 5 additional C-terminal residues (279-283) added |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>EspB7-278 at 10 mg/mL</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.2 M calcium acetate, 0.1 M <a href="/xray-mp-wiki/reagents/buffers/tris-hcl">Tris-HCl Buffer</a>, 20% PEG3000</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Reservoir mother liquor supplemented with 25% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>; flash cooled in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Space group C2221; structure refined to 1.82 A resolution (Rwork 0.199, Rfree 0.234); <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement">Molecular Replacement</a> using PE25-PPE41 heterodimer (PDB 2G38) as search model; loop residues 86-115 and 125-130 missing due to disorder</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Sitting drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>EspB7-278 at 10 mg/mL with 1 mM L-alpha-<a href="/xray-mp-wiki/reagents/lipids/phosphatidylserine">Phosphatidylserine</a> additive</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.2 M potassium dihydrogen phosphate, 20% w/v <a href="/xray-mp-wiki/reagents/additives/peg">PEG</a>3350</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>291 K</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Reservoir mother liquor supplemented with 25% <a href="/xray-mp-wiki/reagents/additives/glycerol">Glycerol</a>; flash cooled in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Space group C2221; best dataset diffracted to 1.5 A resolution (Rwork 0.194, Rfree 0.218); refined with seven TLS groups; isomorphous with 4XWP but less disordered (only residues 90-114 missing); no electron density for <a href="/xray-mp-wiki/reagents/lipids/phosphatidylserine">Phosphatidylserine</a> observed despite additive presence</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>EspB7-278 at 10 mg/mL</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.2 M sodium chloride, 0.1 M CAPS pH 10.5, 1.26 M <a href="/xray-mp-wiki/reagents/additives/ammonium-sulfate">Ammonium Sulfate</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Space group I222; structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement">Molecular Replacement</a> using EspB7-278 C2221 structure (PDB 4XWP) as search model; refined to 2.14 A resolution (Rwork 0.204, Rfree 0.251); loop residues 82-114 missing</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Full-length EspB1-460</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.1 M CAPSO pH 10.8, 0.2 M sodium chloride, 1.5 M <a href="/xray-mp-wiki/reagents/additives/ammonium-sulfate">Ammonium Sulfate</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Space group not specified; structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement">Molecular Replacement</a> using EspB7-278 (PDB 4XXN) as search model; refined to 3.04 A resolution (Rwork 0.220, Rfree 0.266); C-terminal domain disordered; only 5 additional C-terminal residues (279-283) added</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -114,13 +266,13 @@ The conserved YxxxD/E secretion motif (residues 81-85) in EspB is located adjace
 
 ## Cross-References
 
-- [PE25](/xray-mp-wiki/proteins/secretion-translocon/pe25/) — PE25-[PPE41](/xray-mp-wiki/proteins/ppe41) heterodimer structure (PDB 2G38) was used as search model for EspB phasing
-- [PPE41](/xray-mp-wiki/proteins/secretion-translocon/ppe41/) — [PPE41](/xray-mp-wiki/proteins/ppe41) forms the heterodimer partner of PE25, structurally compared to EspB
-- [PE-PPE Fusion Proteins](/xray-mp-wiki/concepts/construct-design/pe-ppe-fusion-proteins/) — EspB is the archetypal PE-PPE fusion protein with a heterodimer-like fold
-- [ESX-1 Secretion System](/xray-mp-wiki/concepts/transport-mechanisms/esx-1-secretion-system/) — EspB is a central secreted substrate of the ESX-1 type VII secretion system
-- [WxG100 Family Proteins](/xray-mp-wiki/concepts/protein-families/wxg100-family-proteins/) — EspB secretion mechanism is co-dependent with WxG100 proteins EsxA and EsxB
-- [Phosphatidylserine](/xray-mp-wiki/reagents/lipids/phosphatidylserine/) — EspB binds [Phosphatidylserine](/xray-mp-wiki/reagents/lipids/phosphatidylserine) and crystallized with it as an additive
-- [EspG1](/xray-mp-wiki/proteins/secretion-translocon/espg1/) — EspG1 chaperone does not bind EspB, unlike PE25-[PPE41](/xray-mp-wiki/proteins/ppe41) heterodimer
-- [MycP1](/xray-mp-wiki/proteins/secretion-translocon/mycp1/) — [MycP1](/xray-mp-wiki/proteins/mycp1) protease cleaves full-length EspB to generate the mature 50 kDa isoform
-- [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) — Crystallization method used for structure determination
-- [Size-Exclusion Chromatography (SEC)](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) — Purification method used in protein preparation
+- <a href="/xray-mp-wiki/proteins/secretion-translocon/pe25/">PE25</a> — PE25-[PPE41](/xray-mp-wiki/proteins/ppe41) heterodimer structure (PDB 2G38) was used as search model for EspB phasing
+- <a href="/xray-mp-wiki/proteins/secretion-translocon/ppe41/">PPE41</a> — [PPE41](/xray-mp-wiki/proteins/ppe41) forms the heterodimer partner of PE25, structurally compared to EspB
+- <a href="/xray-mp-wiki/concepts/construct-design/pe-ppe-fusion-proteins/">PE-PPE Fusion Proteins</a> — EspB is the archetypal PE-PPE fusion protein with a heterodimer-like fold
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/esx-1-secretion-system/">ESX-1 Secretion System</a> — EspB is a central secreted substrate of the ESX-1 type VII secretion system
+- <a href="/xray-mp-wiki/concepts/protein-families/wxg100-family-proteins/">WxG100 Family Proteins</a> — EspB secretion mechanism is co-dependent with WxG100 proteins EsxA and EsxB
+- <a href="/xray-mp-wiki/reagents/lipids/phosphatidylserine/">Phosphatidylserine</a> — EspB binds [Phosphatidylserine](/xray-mp-wiki/reagents/lipids/phosphatidylserine) and crystallized with it as an additive
+- <a href="/xray-mp-wiki/proteins/secretion-translocon/espg1/">EspG1</a> — EspG1 chaperone does not bind EspB, unlike PE25-[PPE41](/xray-mp-wiki/proteins/ppe41) heterodimer
+- <a href="/xray-mp-wiki/proteins/secretion-translocon/mycp1/">MycP1</a> — [MycP1](/xray-mp-wiki/proteins/mycp1) protease cleaves full-length EspB to generate the mature 50 kDa isoform
+- <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a> — Crystallization method used for structure determination
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size-Exclusion Chromatography (SEC)</a> — Purification method used in protein preparation

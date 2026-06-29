@@ -1,12 +1,12 @@
 ---
 title: "Turkey Beta1-Adrenergic Receptor Thermostabilized Mutant M23 with Cyanopindolol (2VT4)"
 created: 2026-05-29
-updated: 2026-05-29
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [gpcr, membrane-protein, xray-crystallography]
-sources: [doi/10.1038##NATURE07101, doi/10.1038##NATURE09746]
+sources: [doi/10.1038##NATURE07101]
 verified: false
 ---
 
@@ -17,44 +17,309 @@ verified: false
 The turkey beta1-adrenergic receptor (beta1AR) thermostabilized mutant M23 was crystallized in complex with the high-affinity antagonist [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) at 2.7 A resolution (PDB: 2VT4). The construct was engineered for crystallization by truncating residues T34-424, adding a His6 tag at the C terminus, deleting segments of cytoplasmic loop 3 (CL3), and introducing six thermostabilizing point mutations (R68S, M90V, Y227A, A282L, F327A, F338M) along with C116L for increased expression and C358A to remove palmitoylation. The structure represents the inactive (R) conformation of a beta-adrenergic receptor and reveals the molecular details of antagonist binding, including the role of extracellular loop 2 (EL2) and a short alpha-helix in cytoplasmic loop 2 (CL2) that interacts with the conserved DRY motif.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##NATURE07101 | 2VT4 | 2.7 A | triclinic | Turkey beta1AR truncated T34-424 with His6 tag, CL3 deletions (244-271, 277-278), mutations C116L, R68S, M90V, Y227A, A282L, F327A, F338M, C358A | [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) |
+### doi/10.1038##NATURE07101
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2vt4">2VT4</a></td>
+      <td>2.7 A</td>
+      <td>triclinic</td>
+      <td>Turkey beta1AR truncated T34-424 with His6 tag, CL3 deletions (244-271, 277-278), mutations C116L, R68S, M90V, Y227A, A282L, F327A, F338M, C358A</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/cyanopindolol/">Cyanopindolol</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Baculovirus expression in High 5 insect cells
 - **Construct**: Turkey beta1AR truncated T34-424 with His6 tag at C terminus. Six thermostabilizing mutations: R68S, M90V, Y227A, A282L, F327A, F338M. Additional mutations: C116L (increased expression), C358A (removed palmitoylation). CL3 deletions: residues 244-271 and 277-278.
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Membrane preparation and solubilization</td>
+      <td>Baculovirus expression in High 5 cells followed by membrane preparation. Solubilized in <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a>.</td>
+      <td>--</td>
+      <td>Buffer containing <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> + <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+      <td>Solubilization and IMAC performed in buffers containing <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+    </tr>
+    <tr>
+      <td>IMAC purification</td>
+      <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (IMAC)</td>
+      <td>IMAC resin</td>
+      <td>Buffer containing <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> + <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+      <td>Solubilization and IMAC performed in buffers containing <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a></td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/reagents/ligands/alprenolol/">Alprenolol</a> sepharose chromatography with detergent exchange</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> on <a href="/xray-mp-wiki/reagents/ligands/alprenolol/">Alprenolol</a> sepharose with detergent exchange</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/alprenolol/">Alprenolol</a> sepharose</td>
+      <td>Buffer for <a href="/xray-mp-wiki/reagents/ligands/alprenolol/">Alprenolol</a> sepharose chromatography + Exchanged from <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> to <a href="/xray-mp-wiki/reagents/detergents/octylthioglucoside/">OTG</a> on the column</td>
+      <td>Detergent exchanged from <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> to <a href="/xray-mp-wiki/reagents/detergents/octylthioglucoside/">OTG</a> on the <a href="/xray-mp-wiki/reagents/ligands/alprenolol/">Alprenolol</a> sepharose column. Purified receptor eluted from <a href="/xray-mp-wiki/reagents/ligands/alprenolol/">Alprenolol</a> sepharose with <a href="/xray-mp-wiki/reagents/ligands/cyanopindolol/">Cyanopindolol</a> (30 uM).</td>
+    </tr>
+    <tr>
+      <td>Buffer exchange and concentration</td>
+      <td>Buffer exchange and concentration</td>
+      <td>--</td>
+      <td>10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.7, 50 mM NaCl, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, 0.35% <a href="/xray-mp-wiki/reagents/detergents/octylthioglucoside/">OTG</a>, 0.5 mM <a href="/xray-mp-wiki/reagents/ligands/cyanopindolol/">Cyanopindolol</a> + 0.35% <a href="/xray-mp-wiki/reagents/detergents/octylthioglucoside/">OTG</a></td>
+      <td>Final receptor concentration: 5.5-6.0 mg/ml</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane preparation and solubilization | Baculovirus expression in High 5 cells followed by membrane preparation. Solubilized in [DM](/xray-mp-wiki/reagents/detergents/dm/). | -- | Buffer containing [DM](/xray-mp-wiki/reagents/detergents/dm/) + [DM](/xray-mp-wiki/reagents/detergents/dm/) | Solubilization and IMAC performed in buffers containing [DM](/xray-mp-wiki/reagents/detergents/dm/) |
-| IMAC purification | Immobilized metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) (IMAC) | IMAC resin | Buffer containing [DM](/xray-mp-wiki/reagents/detergents/dm/) + [DM](/xray-mp-wiki/reagents/detergents/dm/) | Solubilization and IMAC performed in buffers containing [DM](/xray-mp-wiki/reagents/detergents/dm/) |
-| [Alprenolol](/xray-mp-wiki/reagents/ligands/alprenolol/) sepharose chromatography with detergent exchange | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) on [Alprenolol](/xray-mp-wiki/reagents/ligands/alprenolol/) sepharose with detergent exchange | [Alprenolol](/xray-mp-wiki/reagents/ligands/alprenolol/) sepharose | Buffer for [Alprenolol](/xray-mp-wiki/reagents/ligands/alprenolol/) sepharose chromatography + Exchanged from [DM](/xray-mp-wiki/reagents/detergents/dm/) to [OTG](/xray-mp-wiki/reagents/detergents/octylthioglucoside/) on the column | Detergent exchanged from [DM](/xray-mp-wiki/reagents/detergents/dm/) to [OTG](/xray-mp-wiki/reagents/detergents/octylthioglucoside/) on the [Alprenolol](/xray-mp-wiki/reagents/ligands/alprenolol/) sepharose column. Purified receptor eluted from [Alprenolol](/xray-mp-wiki/reagents/ligands/alprenolol/) sepharose with [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) (30 uM). |
-| Buffer exchange and concentration | Buffer exchange and concentration | -- | 10 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.7, 50 mM NaCl, 0.1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/), 0.35% [OTG](/xray-mp-wiki/reagents/detergents/octylthioglucoside/), 0.5 mM [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) + 0.35% [OTG](/xray-mp-wiki/reagents/detergents/octylthioglucoside/) | Final receptor concentration: 5.5-6.0 mg/ml |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging drop vapour diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified beta1AR-M23 at 5.5-6.0 mg/ml in 10 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.7, 50 mM NaCl, 0.1 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, 0.35% <a href="/xray-mp-wiki/reagents/detergents/octylthioglucoside/">OTG</a>, 0.5 mM <a href="/xray-mp-wiki/reagents/ligands/cyanopindolol/">Cyanopindolol</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.1 M N-(2-acetamido)iminodiacetic acid (<a href="/xray-mp-wiki/reagents/buffers/aces/">ADA</a>):NaOH pH 6.9-7.3, 29-32% <a href="/xray-mp-wiki/reagents/additives/peg-600/">PEG 600</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>18 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Crystals grown by vapour diffusion with hanging drops</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/peg-600/">PEG 600</a> concentration increased to 55-70% in the drop</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>58 mg of receptor used to set up 17,800 crystallization trials. Crystallization optimized by vapour diffusion at 18 C. Crystals mounted on Hampton CrystalCap HT loops and cryo-cooled in liquid nitrogen.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2vt4">2VT4</a> — Chain A (7 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGAELLSQQ</span><span class="topo-inside">W</span><span class="topo-membrane">EAGMSLLMALVVLLIVAGNVLVI</span><span class="topo-outside">AAIGSTQRLQTLTNLFIT</span><span class="topo-membrane">SLACADLVV</span></span>
+<span class="topo-line"><span class="topo-membrane">GLLVVPFGATLVV</span><span class="topo-inside">RGTW</span><span class="topo-membrane">LWGSFLCELWTSLDVLCVTASIETLC</span><span class="topo-outside">VIAIDRYLAITSPFRYQ</span></span>
+<span class="topo-line"><span class="topo-outside">SLMTRARAKVII</span><span class="topo-membrane">CTVWAISALVSFLPIMMHWWRD</span><span class="topo-inside">ED</span><span class="topo-unknown">PQALKCYQ</span><span class="topo-inside">DPGCC</span><span class="topo-membrane">DFVTNRAYAIA</span></span>
+<span class="topo-line"><span class="topo-membrane">SSIISFYIPLLIMIF</span><span class="topo-outside">VALRVYREAKEQI</span><span class="topo-unknown">RKIDRASKRKRVMLM</span><span class="topo-outside">REHKALKTLG</span><span class="topo-membrane">IIMGVFT</span></span>
+<span class="topo-line"><span class="topo-membrane">LCWLPFFLVNIVNVFN</span><span class="topo-inside">RDLVPD</span><span class="topo-membrane">WLFVAFNWLGYANSAMNPII</span><span class="topo-outside">YCRS</span><span class="topo-unknown">PDFRKAFKRL</span><span class="topo-outside">LA</span><span class="topo-unknown">FP</span></span>
+<span class="topo-line"><span class="topo-unknown">RKADRRLHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>9</td>
+      <td>31</td>
+      <td>39</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>10</td>
+      <td>10</td>
+      <td>40</td>
+      <td>40</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>33</td>
+      <td>41</td>
+      <td>63</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>51</td>
+      <td>64</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>52</td>
+      <td>73</td>
+      <td>82</td>
+      <td>103</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>77</td>
+      <td>104</td>
+      <td>107</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>103</td>
+      <td>108</td>
+      <td>133</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>132</td>
+      <td>134</td>
+      <td>162</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>133</td>
+      <td>154</td>
+      <td>163</td>
+      <td>184</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>155</td>
+      <td>156</td>
+      <td>185</td>
+      <td>186</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>164</td>
+      <td>187</td>
+      <td>194</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>169</td>
+      <td>195</td>
+      <td>199</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>170</td>
+      <td>195</td>
+      <td>200</td>
+      <td>225</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>196</td>
+      <td>208</td>
+      <td>226</td>
+      <td>238</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>209</td>
+      <td>223</td>
+      <td>239</td>
+      <td>253</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>224</td>
+      <td>233</td>
+      <td>284</td>
+      <td>293</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>234</td>
+      <td>256</td>
+      <td>294</td>
+      <td>316</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>257</td>
+      <td>262</td>
+      <td>317</td>
+      <td>322</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>263</td>
+      <td>282</td>
+      <td>323</td>
+      <td>342</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>286</td>
+      <td>343</td>
+      <td>346</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>287</td>
+      <td>296</td>
+      <td>347</td>
+      <td>356</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>297</td>
+      <td>298</td>
+      <td>357</td>
+      <td>358</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>299</td>
+      <td>313</td>
+      <td>359</td>
+      <td>373</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##NATURE07101
-
-| Parameter | Value |
-|---|---|
-| Method | Hanging drop vapour diffusion |
-| Protein sample | Purified beta1AR-M23 at 5.5-6.0 mg/ml in 10 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.7, 50 mM NaCl, 0.1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/), 0.35% [OTG](/xray-mp-wiki/reagents/detergents/octylthioglucoside/), 0.5 mM [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) |
-| Reservoir | 0.1 M N-(2-acetamido)iminodiacetic acid ([ADA](/xray-mp-wiki/reagents/buffers/aces/)):NaOH pH 6.9-7.3, 29-32% [PEG 600](/xray-mp-wiki/reagents/additives/peg-600/) |
-| Temperature | 18 C |
-| Growth time | Crystals grown by vapour diffusion with hanging drops |
-| Cryoprotection | [PEG 600](/xray-mp-wiki/reagents/additives/peg-600/) concentration increased to 55-70% in the drop |
-| Notes | 58 mg of receptor used to set up 17,800 crystallization trials. Crystallization optimized by vapour diffusion at 18 C. Crystals mounted on Hampton CrystalCap HT loops and cryo-cooled in liquid nitrogen. |
-
+</div>
 
 ## Biological / Functional Insights
 
@@ -132,13 +397,13 @@ to make the interface more similar to beta1AR.
 
 ## Cross-References
 
-- [Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)](/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/) — Related beta-adrenergic receptor structure for comparative analysis of ligand-binding pockets
-- [Turkey Beta1-Adrenergic Receptor M23](/xray-mp-wiki/proteins/gpcr/turkey-beta1-ar-m23/) — Related thermostabilized turkey beta1AR construct (BRIL-fusion variant)
-- [Cyanopindolol](/xray-mp-wiki/reagents/ligands/cyanopindolol/) — High-affinity antagonist ligand co-crystallized with beta1AR-M23
-- [Octylthioglucoside (OG)](/xray-mp-wiki/reagents/detergents/octylthioglucoside/) — Detergent used for crystallization
-- [GPCR Inactive Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/) — The structure represents the inactive R conformation of the beta1AR
-- [Hanging Drop Vapor Diffusion Crystallization](/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/) — Crystallization method used for beta1AR-M23
-- [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Expression system used for beta1AR-M23 production
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Structure solved by molecular replacement using beta2AR as search model
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [EDTA](/xray-mp-wiki/reagents/additives/edta/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/proteins/gpcr/beta2-adrenergic-receptor/">Human Beta2-Adrenergic Receptor with T4 Lysozyme Fusion (beta2AR-t4l)</a> — Related beta-adrenergic receptor structure for comparative analysis of ligand-binding pockets
+- <a href="/xray-mp-wiki/proteins/gpcr/turkey-beta1-ar-m23/">Turkey Beta1-Adrenergic Receptor M23</a> — Related thermostabilized turkey beta1AR construct (BRIL-fusion variant)
+- <a href="/xray-mp-wiki/reagents/ligands/cyanopindolol/">Cyanopindolol</a> — High-affinity antagonist ligand co-crystallized with beta1AR-M23
+- <a href="/xray-mp-wiki/reagents/detergents/octylthioglucoside/">Octylthioglucoside (OG)</a> — Detergent used for crystallization
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/gpcr-inactive-conformation/">GPCR Inactive Conformation</a> — The structure represents the inactive R conformation of the beta1AR
+- <a href="/xray-mp-wiki/methods/crystallization/hanging-drop-vapor-diffusion/">Hanging Drop Vapor Diffusion Crystallization</a> — Crystallization method used for beta1AR-M23
+- <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/">Baculovirus Expression System</a> — Expression system used for beta1AR-M23 production
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Structure solved by molecular replacement using beta2AR as search model
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a> — Additive used in purification or crystallization buffers

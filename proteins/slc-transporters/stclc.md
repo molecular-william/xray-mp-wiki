@@ -1,7 +1,7 @@
 ---
 title: "StClC CIC Chloride Channel"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,41 +17,555 @@ verified: false
 StClC is a prokaryotic CIC chloride channel from Salmonella enterica serovar typhimurium whose X-ray crystal structure at 3.0 Å resolution, together with the related EcClC channel from Escherichia coli at 3.5 Å, revealed the molecular basis of anion selectivity in CIC chloride channels. The structure showed that CIC channels form homodimers with two independent pores, each pore formed by a separate subunit with an antiparallel transmembrane architecture. Each subunit is composed of two roughly repeated halves that span the membrane with opposite orientations, and the Cl- selectivity filter is defined by electrostatic interactions with alpha-helix dipoles and chemical coordination with main-chain amide nitrogen atoms and side-chain hydroxyl groups from Ser 107 and Tyr 445. The pore features a narrow selectivity filter near the membrane center with wider vestibules on both sides. A conserved glutamate residue (Glu 148) projects into the pore above the Cl- binding site and is proposed to act as a gate that must be displaced for Cl- conduction to occur. This landmark study established the physical and chemical principles underlying anion selectivity in the CIC channel family.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##415287a | 1KPL | 3.0 A | P2(1) | Full-length StClC from Salmonella enterica serovar typhimurium with C-terminal His tag | Cl- ion bound in selectivity filter |
+### doi/10.1038##415287a
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1kpl">1KPL</a></td>
+      <td>3.0 A</td>
+      <td>P2(1)</td>
+      <td>Full-length StClC from Salmonella enterica serovar typhimurium with C-terminal His tag</td>
+      <td>Cl- ion bound in selectivity filter</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli BL21 DE3
 - **Construct**: StClC cloned into pET28b+ vector using NcoI and XhoI restriction sites with C-terminal His tag
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Protein expression</td>
+      <td>E. coli expression</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>StClC expressed in E. coli BL21 DE3 with C-terminal His tag</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Protein expression | E. coli expression | -- | -- + -- | StClC expressed in E. coli BL21 DE3 with C-terminal His tag |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion / heavy atom derivatization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified StClC in detergent</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Native data collected at BNL X25 beamline. Initial phases estimated from platinum derivatives. Four-fold <a href="/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/">NCS</a> averaging and phase extension to 3.0 Å using RAVE and DM. Solvent-flattened, averaged electron density maps used for model building. Crystal form: P2(1) space group.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1kpl">1KPL</a> — Chain A (10 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MKTDTSTFLAQQIVRLRRRDQIRRLLQRDK</span><span class="topo-outside">TPL</span><span class="topo-membrane">AILFMAAVVGTLTGLVGVAFEKAVSWV</span></span>
+<span class="topo-line"><span class="topo-membrane">Q</span><span class="topo-inside">NMRIGALVQVADHAFLLWP</span><span class="topo-membrane">LAFILSALLAMVGYFLVRKFAP</span><span class="topo-outside">EAGGSGIPEIEGALEELR</span></span>
+<span class="topo-line"><span class="topo-outside">PVRW</span><span class="topo-membrane">WRVLPVKFIGGMGTLGAG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGGNLG</span><span class="topo-outside">RMVLDVFRMRSAEARHTLLAT</span></span>
+<span class="topo-line"><span class="topo-unknown">GAAAGLSAAFNAPLAGILFII</span><span class="topo-outside">EEMRPQFRYNLIS</span><span class="topo-membrane">IKAVFTGVIMSSIVFRIFN</span><span class="topo-inside">GEAPIIE</span></span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPVNT</span><span class="topo-membrane">LWLYLILGIIFGVVGPVFNSLVLRTQDMFQ</span><span class="topo-outside">RFHGGEI</span><span class="topo-membrane">KKWVLMGGAIGG</span></span>
+<span class="topo-line"><span class="topo-membrane">LCGILG</span><span class="topo-inside">LIEPAAAGGGFNLIPIAAAGNFSVGLLL</span><span class="topo-membrane">FIFITRVVTTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-line"><span class="topo-membrane">LALGTLLG</span><span class="topo-inside">TAFGMAAAVLFPQYHLEAGTFAI</span><span class="topo-unknown">AGMGALMAASVRAPLTGIVLVLEMT</span><span class="topo-inside">DNYQ</span></span>
+<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">ILPMIITCLGATLLAQFLGGK</span><span class="topo-outside">PLYSTILARTLAKQDAEQ</span><span class="topo-unknown">AEKNQNAPADENT</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>30</td>
+      <td>1</td>
+      <td>30</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>31</td>
+      <td>33</td>
+      <td>31</td>
+      <td>33</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>61</td>
+      <td>34</td>
+      <td>61</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>80</td>
+      <td>62</td>
+      <td>80</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>102</td>
+      <td>81</td>
+      <td>102</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>103</td>
+      <td>124</td>
+      <td>103</td>
+      <td>124</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>125</td>
+      <td>142</td>
+      <td>125</td>
+      <td>142</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>143</td>
+      <td>143</td>
+      <td>143</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>144</td>
+      <td>159</td>
+      <td>144</td>
+      <td>159</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>160</td>
+      <td>180</td>
+      <td>160</td>
+      <td>180</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>181</td>
+      <td>201</td>
+      <td>181</td>
+      <td>201</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>202</td>
+      <td>214</td>
+      <td>202</td>
+      <td>214</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>215</td>
+      <td>233</td>
+      <td>215</td>
+      <td>233</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>234</td>
+      <td>251</td>
+      <td>234</td>
+      <td>251</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>252</td>
+      <td>281</td>
+      <td>252</td>
+      <td>281</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>282</td>
+      <td>288</td>
+      <td>282</td>
+      <td>288</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>289</td>
+      <td>306</td>
+      <td>289</td>
+      <td>306</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>307</td>
+      <td>334</td>
+      <td>307</td>
+      <td>334</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>335</td>
+      <td>351</td>
+      <td>335</td>
+      <td>351</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>352</td>
+      <td>352</td>
+      <td>352</td>
+      <td>352</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>353</td>
+      <td>368</td>
+      <td>353</td>
+      <td>368</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>369</td>
+      <td>391</td>
+      <td>369</td>
+      <td>391</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>392</td>
+      <td>416</td>
+      <td>392</td>
+      <td>416</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>417</td>
+      <td>421</td>
+      <td>417</td>
+      <td>421</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>422</td>
+      <td>442</td>
+      <td>422</td>
+      <td>442</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>443</td>
+      <td>460</td>
+      <td>443</td>
+      <td>460</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>461</td>
+      <td>473</td>
+      <td>461</td>
+      <td>473</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##415287a
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1kpl">1KPL</a> — Chain B (10 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion / heavy atom derivatization |
-| Protein sample | Purified StClC in detergent |
-| Reservoir | Not specified |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Native data collected at BNL X25 beamline. Initial phases estimated from platinum derivatives. Four-fold [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) averaging and phase extension to 3.0 Å using RAVE and DM. Solvent-flattened, averaged electron density maps used for model building. Crystal form: P2(1) space group. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MKTDTSTFLAQ</span><span class="topo-outside">QIVRLRRRDQIRRLLQRDKTPLAI</span><span class="topo-membrane">LFMAAVVGTLTGLVGVAFEKAVSWV</span></span>
+<span class="topo-line"><span class="topo-membrane">Q</span><span class="topo-inside">NMRIGALVQVADHAFLLWP</span><span class="topo-membrane">LAFILSALLAMVGYFLVRKFAP</span><span class="topo-outside">EAGGSGIPEIEGALEELR</span></span>
+<span class="topo-line"><span class="topo-outside">PVRW</span><span class="topo-membrane">WRVLPVKFIGGMGTLGAG</span><span class="topo-inside">M</span><span class="topo-membrane">VLGREGPTVQIGGNLG</span><span class="topo-outside">RMVLDVFRMRSAEARHTLLAT</span></span>
+<span class="topo-line"><span class="topo-unknown">GAAAGLSAAFNAPLAGILFII</span><span class="topo-outside">EEMRPQFRYNLIS</span><span class="topo-membrane">IKAVFTGVIMSSIVFRIFN</span><span class="topo-inside">GEAPIIE</span></span>
+<span class="topo-line"><span class="topo-inside">VGKLSDAPV</span><span class="topo-membrane">NTLWLYLILGIIFGVVGPVFNSLVLRTQ</span><span class="topo-unknown">DMFQRFH</span><span class="topo-outside">GGEI</span><span class="topo-membrane">KKWVLMGGAIGG</span></span>
+<span class="topo-line"><span class="topo-membrane">LCGILG</span><span class="topo-inside">LIEPAAAGGGFNLIPIAAAGNFSVGLLL</span><span class="topo-membrane">FIFITRVVTTLLCFSSG</span><span class="topo-outside">A</span><span class="topo-membrane">PGGIFAPM</span></span>
+<span class="topo-line"><span class="topo-membrane">LALGTLLG</span><span class="topo-unknown">TAFGMAAAVLF</span><span class="topo-inside">PQYHLEAGTFAI</span><span class="topo-unknown">AGMGALMAASVRAPLTGIVLVLEMT</span><span class="topo-inside">DNYQ</span></span>
+<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">ILPMIITCLGATLLAQFLGGK</span><span class="topo-outside">PLYSTILARTLAKQDAEQAE</span><span class="topo-unknown">KNQNAPADENT</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>11</td>
+      <td>1</td>
+      <td>11</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>35</td>
+      <td>12</td>
+      <td>35</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>61</td>
+      <td>36</td>
+      <td>61</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>62</td>
+      <td>80</td>
+      <td>62</td>
+      <td>80</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>81</td>
+      <td>102</td>
+      <td>81</td>
+      <td>102</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>103</td>
+      <td>124</td>
+      <td>103</td>
+      <td>124</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>125</td>
+      <td>142</td>
+      <td>125</td>
+      <td>142</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>143</td>
+      <td>143</td>
+      <td>143</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>144</td>
+      <td>159</td>
+      <td>144</td>
+      <td>159</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>160</td>
+      <td>180</td>
+      <td>160</td>
+      <td>180</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>181</td>
+      <td>201</td>
+      <td>181</td>
+      <td>201</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>202</td>
+      <td>214</td>
+      <td>202</td>
+      <td>214</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>215</td>
+      <td>233</td>
+      <td>215</td>
+      <td>233</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>234</td>
+      <td>249</td>
+      <td>234</td>
+      <td>249</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>250</td>
+      <td>277</td>
+      <td>250</td>
+      <td>277</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>278</td>
+      <td>284</td>
+      <td>278</td>
+      <td>284</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>285</td>
+      <td>288</td>
+      <td>285</td>
+      <td>288</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>289</td>
+      <td>306</td>
+      <td>289</td>
+      <td>306</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>307</td>
+      <td>334</td>
+      <td>307</td>
+      <td>334</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>335</td>
+      <td>351</td>
+      <td>335</td>
+      <td>351</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>352</td>
+      <td>352</td>
+      <td>352</td>
+      <td>352</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>353</td>
+      <td>368</td>
+      <td>353</td>
+      <td>368</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>369</td>
+      <td>379</td>
+      <td>369</td>
+      <td>379</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>380</td>
+      <td>391</td>
+      <td>380</td>
+      <td>391</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>392</td>
+      <td>416</td>
+      <td>392</td>
+      <td>416</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>417</td>
+      <td>421</td>
+      <td>417</td>
+      <td>421</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>422</td>
+      <td>442</td>
+      <td>422</td>
+      <td>442</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>443</td>
+      <td>462</td>
+      <td>443</td>
+      <td>462</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>463</td>
+      <td>473</td>
+      <td>463</td>
+      <td>473</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
 
 ## Biological / Functional Insights
 
@@ -78,5 +592,5 @@ The vestibules leading to the selectivity filter on both sides of the membrane c
 
 ## Cross-References
 
-- [KcsA Potassium Channel](/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/) — Comparison of antiparallel (CIC) vs barrel-stave (KcsA) ion channel architectures
-- [NCS](/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/) — Related biological concept
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/">KcsA Potassium Channel</a> — Comparison of antiparallel (CIC) vs barrel-stave (KcsA) ion channel architectures
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/non-crystallographic-symmetry/">NCS</a> — Related biological concept

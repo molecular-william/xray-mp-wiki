@@ -1,7 +1,7 @@
 ---
 title: "BcsB from Rhodobacter sphaeroides (Cellulose Synthase Periplasmic Subunit)"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,43 +16,362 @@ verified: false
 
 BcsB is a periplasmic protein that associates with the catalytic [Bcsa](/xray-mp-wiki/proteins/enzymes/bcsa/) subunit to form the bacterial cellulose synthase complex from Rhodobacter sphaeroides. BcsB is anchored to the inner membrane via a single C-terminal transmembrane helix and contains two periplasmic carbohydrate binding domains (CBD1 and CBD2) connected by a conserved disulphide bond, and two flavodoxin-like domains (FD1 and FD2). The CBD domains interact with the translocating glucan chain as it exits the [Bcsa](/xray-mp-wiki/proteins/enzymes/bcsa/) transmembrane channel, while the conserved residues at the tip of CBD1 likely play a role in glucan binding. [Bcsa](/xray-mp-wiki/proteins/enzymes/bcsa/) and BcsB can be fused as a single polypeptide in some species, supporting the genetic observation that BcsB is essential for cellulose synthesis.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature11744 | 4HG6 | 4.5 A |  | BcsA-BcsB complex from Rhodobacter sphaeroides; BcsB residues 21-725 with N-terminal PelB signal sequence (generates additional Met-Gly dipeptide after cleavage) | Translocating glucan (18 [Glucose](/xray-mp-wiki/reagents/additives/glucose/) units visible in electron density) |
+### doi/10.1038##nature11744
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4hg6">4HG6</a></td>
+      <td>4.5 A</td>
+      <td></td>
+      <td>BcsA-BcsB complex from Rhodobacter sphaeroides; BcsB residues 21-725 with N-terminal PelB signal sequence (generates additional Met-Gly dipeptide after cleavage)</td>
+      <td>Translocating glucan (18 <a href="/xray-mp-wiki/reagents/additives/glucose/">Glucose</a> units visible in electron density)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli Rosetta 2 cells
 - **Construct**: BcsB residues 21-725 cloned into pETDuet vector with N-terminal PelB signal sequence; amplified without native N-terminal signal sequence
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Co-expression and membrane preparation</td>
+      <td>Auto-induction culture</td>
+      <td>--</td>
+      <td>ZYP-5052 auto-induction medium + --</td>
+      <td><a href="/xray-mp-wiki/proteins/enzymes/bcsa/">Bcsa</a> and BcsB co-expressed in E. coli Rosetta 2 cells; cells grown at 37 C in ZYP-5052 auto-induction medium</td>
+    </tr>
+    <tr>
+      <td>Membrane solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>20 mM sodium phosphate pH 7.2, 0.3 M NaCl, 5 mM <a href="/xray-mp-wiki/reagents/additives/cellobiose/">Cellobiose</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Mgcl2</a>, 40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 2% Triton X-100</td>
+      <td>Crude membranes solubilized for 60 min at 4 C</td>
+    </tr>
+    <tr>
+      <td>Affinity chromatography</td>
+      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td>Ni-NTA agarose (Qiagen)</td>
+      <td>RB2 buffer with 40 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 2% Triton X-100</td>
+      <td>Batch incubation with Ni-NTA agarose; <a href="/xray-mp-wiki/proteins/enzymes/bcsa/">Bcsa</a> carries C-terminal His12 tag for purification of the complex</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Co-expression and membrane preparation | Auto-induction culture | -- | ZYP-5052 auto-induction medium + -- | [Bcsa](/xray-mp-wiki/proteins/enzymes/bcsa/) and BcsB co-expressed in E. coli Rosetta 2 cells; cells grown at 37 C in ZYP-5052 auto-induction medium |
-| Membrane solubilization | Detergent solubilization | -- | 20 mM sodium phosphate pH 7.2, 0.3 M NaCl, 5 mM [Cellobiose](/xray-mp-wiki/reagents/additives/cellobiose/), 5 mM [Mgcl2](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 40 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 2% Triton X-100 | Crude membranes solubilized for 60 min at 4 C |
-| Affinity chromatography | Ni-NTA affinity chromatography | Ni-NTA agarose (Qiagen) | RB2 buffer with 40 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 2% Triton X-100 | Batch incubation with Ni-NTA agarose; [Bcsa](/xray-mp-wiki/proteins/enzymes/bcsa/) carries C-terminal His12 tag for purification of the complex |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified BcsA-BcsB complex</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>30% <a href="/xray-mp-wiki/reagents/additives/peg200/">PEG200</a>, 0.1 M <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a> pH 6.5, 50 mM NaCl</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>approximately 7 days for initial crystals</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals of selenomethionine-derivatized BcsA-BcsB complex grown at 4 C; diffraction to 4.5 A</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4hg6">4HG6</a> — Chain A (8 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MTVRAKARSPLRV</span><span class="topo-membrane">VPVLLFLLWVALLVPFGLLAA</span><span class="topo-outside">APVAPSAQ</span><span class="topo-membrane">GLIALSAVVLVALLKPFA</span></span>
+<span class="topo-line"><span class="topo-inside">DKM</span><span class="topo-membrane">VPRFLLLSAASMLVMRYWFWRLF</span><span class="topo-outside">ETLPPPAL</span><span class="topo-membrane">DASFLFALLLFAVETFSISIFFLNGF</span></span>
+<span class="topo-line"><span class="topo-inside">LSADPTDRPFPRPLQPEELPTVDILVPSYNEPADMLSVTLAAAKNMIYPARLRTVVLCDD</span></span>
+<span class="topo-line"><span class="topo-inside">GGTDQRCMSPDPELAQKAQERRRELQQLCRELGVVYSTRERNEHAKAGNMSAALERLKGE</span></span>
+<span class="topo-line"><span class="topo-inside">LVVVFDADHVPSRDFLARTVGYFVEDPDLFLVQTPHFFINPDPIQRNLALGDRCPPENEM</span></span>
+<span class="topo-line"><span class="topo-inside">FYGKIHRGLDRWGGAFFCGSAAVLRRRALDEAGGFAGETITEDAETALEIHSRGWKSLYI</span></span>
+<span class="topo-line"><span class="topo-inside">DRAMIAGLQPETFASFIQQRGRWATGMMQMLLLKNPLFRRGLGIAQRLCYLNSMSFWF</span><span class="topo-membrane">FP</span></span>
+<span class="topo-line"><span class="topo-membrane">LVRMMFLVAPLIYLFFGIE</span><span class="topo-outside">IFVATFEEV</span><span class="topo-membrane">LAYMPGYLAVSFLVQNA</span><span class="topo-inside">LFARQRWPLVSEVYE</span></span>
+<span class="topo-line"><span class="topo-inside">VAQAPYLARAIVTTLLRPRSARFAVTAKDETLSENYISPIYRPLL</span><span class="topo-membrane">FTFLLCLSGVLATLV</span></span>
+<span class="topo-line"><span class="topo-membrane">RWV</span><span class="topo-outside">AFPGDRSV</span><span class="topo-membrane">LLVVGGWAVLNVLLVG</span><span class="topo-inside">FALRAVAEKQQRRAAPRVQMEVPAEAQIPAFGN</span></span>
+<span class="topo-line"><span class="topo-inside">RSLTATVLDASTSGVRLLVRLPGVGDPHPALEAGGLIQFQPKFPDAPQLERMVRGRIRSA</span></span>
+<span class="topo-line"><span class="topo-inside">RREGGTVMVGVIFEAGQPIAVRETVAYLIFGESAHWRTMREATMRPIGLLHGMARILWMA</span></span>
+<span class="topo-line"><span class="topo-inside">AASLPKTARDFMDEPARRRRRHEEPKEKQAHLLAFGTDF</span><span class="topo-unknown">STEPDWAGELLDPTAQVSARP</span></span>
+<span class="topo-line"><span class="topo-unknown">NTVAWGSNHHHHHHKLHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>1</td>
+      <td>12</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>34</td>
+      <td>14</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>35</td>
+      <td>42</td>
+      <td>35</td>
+      <td>42</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>60</td>
+      <td>43</td>
+      <td>60</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>63</td>
+      <td>61</td>
+      <td>63</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>86</td>
+      <td>64</td>
+      <td>86</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>87</td>
+      <td>94</td>
+      <td>87</td>
+      <td>94</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>120</td>
+      <td>95</td>
+      <td>120</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>418</td>
+      <td>121</td>
+      <td>418</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>419</td>
+      <td>439</td>
+      <td>419</td>
+      <td>439</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>440</td>
+      <td>448</td>
+      <td>440</td>
+      <td>448</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>449</td>
+      <td>465</td>
+      <td>449</td>
+      <td>465</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>466</td>
+      <td>525</td>
+      <td>466</td>
+      <td>525</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>526</td>
+      <td>543</td>
+      <td>526</td>
+      <td>543</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>544</td>
+      <td>551</td>
+      <td>544</td>
+      <td>551</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>552</td>
+      <td>567</td>
+      <td>552</td>
+      <td>567</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>568</td>
+      <td>759</td>
+      <td>568</td>
+      <td>759</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>760</td>
+      <td>802</td>
+      <td>760</td>
+      <td>802</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##nature11744
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4hg6">4HG6</a> — Chain B (1 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | Purified BcsA-BcsB complex |
-| Reservoir | 30% [PEG200](/xray-mp-wiki/reagents/additives/peg200/), 0.1 M [MES](/xray-mp-wiki/reagents/buffers/mes/) pH 6.5, 50 mM NaCl |
-| Temperature | 4 C |
-| Growth time | approximately 7 days for initial crystals |
-| Cryoprotection | -- |
-| Notes | Crystals of selenomethionine-derivatized BcsA-BcsB complex grown at 4 C; diffraction to 4.5 A |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGQDAPMIVIEGLTSEEPQASPDAVAEAVPAAEVA</span><span class="topo-outside">PWIIPLRPLAETAQVGPLFRLQGQQ</span></span>
+<span class="topo-line"><span class="topo-outside">ARAAFRLFLPTEAVGGTLTLAQRSSIDILPESSQIIVRMNDQEIGRFTPRQFGALGAVTM</span></span>
+<span class="topo-line"><span class="topo-outside">PLGEAVRAGDNLVTIEAQHRHRIYCGADAEFDLWTEVDLSQSGVALPAAAIGTEPTSFIA</span></span>
+<span class="topo-line"><span class="topo-outside">ALTAQAESGRPVEIRTPTPPDEATLRTLAQALGRPLPDEALPLALSKPWSAETGPTYARI</span></span>
+<span class="topo-line"><span class="topo-outside">TLLPSDADRVSIRRGGDGAVVLVLEHPPEGSPNASLVADLLGATPTLPPPTLPQIPPGRV</span></span>
+<span class="topo-line"><span class="topo-outside">VTLADMGVDTILTDNRYFNRDIDFQLPDDWLLLASQKAQIGIDYGFAGGLPEGALLLVKV</span></span>
+<span class="topo-line"><span class="topo-outside">NGTTVRMLPLDRDAAPVKPRLDIRFPARLLHPGPNRLSFESVIPGNPPDQPCPASAGDLM</span></span>
+<span class="topo-line"><span class="topo-outside">QVLSSTDLEVPPSPRMQMADMARDLAQVTPASVHPATPDGLARTLPFMAAFREVPDAAPV</span></span>
+<span class="topo-line"><span class="topo-outside">DLTVAGLHDIATVPLNEEGLTPRLLALTLLPST</span><span class="topo-unknown">VSRLVERPATPA</span><span class="topo-outside">GPPANALAPLGAAPG</span></span>
+<span class="topo-line"><span class="topo-outside">EGVMPPLVESNWSDRAQTFVQATLQPVIQTVRRMLRPGDGNLAEWLATRKGTAMLLAPEP</span></span>
+<span class="topo-line"><span class="topo-outside">GKLWVILGPEAEPARVAEALAMAPRSPGGPRGQVAVLGSDGRWSSWSKPGLLPELREPVS</span></span>
+<span class="topo-line"><span class="topo-outside">LDNVRSVVGNVASARPPLL</span><span class="topo-membrane">LGGMLGLAWISAAIAVGFV</span><span class="topo-inside">LRTR</span><span class="topo-unknown">RKGLK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>35</td>
+      <td>19</td>
+      <td>53</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>513</td>
+      <td>54</td>
+      <td>531</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>514</td>
+      <td>525</td>
+      <td>532</td>
+      <td>543</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>526</td>
+      <td>679</td>
+      <td>544</td>
+      <td>697</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>680</td>
+      <td>698</td>
+      <td>698</td>
+      <td>716</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>699</td>
+      <td>702</td>
+      <td>717</td>
+      <td>720</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>703</td>
+      <td>707</td>
+      <td>721</td>
+      <td>725</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
 
 ## Biological / Functional Insights
 
@@ -75,13 +394,13 @@ A cluster of conserved residues including His 159, Arg 160, Ile 161, Leu 171, an
 
 ## Cross-References
 
-- [BcsA from Rhodobacter sphaeroides](/xray-mp-wiki/proteins/enzymes/bcsa/) — Catalytic partner; BcsA-BcsB complex solved by X-ray crystallography at 4.5 A
-- [Triton X-100](/xray-mp-wiki/reagents/detergents/triton-x-100/) — Nonionic detergent used for solubilization of BcsA-BcsB complex from membranes
-- [Sodium Phosphate Buffer](/xray-mp-wiki/reagents/buffers/sodium-phosphate/) — Buffer component in purification buffers
-- [Cellobiose](/xray-mp-wiki/reagents/additives/cellobiose/) — Additive (5 mM) in purification buffers for BcsA-BcsB complex
-- [Magnesium Chloride (MgCl2)](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Additive (5 mM) in solubilization buffer
-- [GT-A Fold (Glycosyltransferase A Fold)](/xray-mp-wiki/concepts/structural-mechanisms/gt-a-fold/) — Structural domain of partner protein BcsA
-- [PilZ Domain](/xray-mp-wiki/concepts/structural-mechanisms/pilz-domain/) — Cyclic-di-GMP binding domain of partner protein BcsA
-- [Glucose](/xray-mp-wiki/reagents/additives/glucose/) — Referenced in the context of Glucose
-- [Mgcl2](/xray-mp-wiki/reagents/additives/magnesium-chloride/) — Referenced in the context of Mgcl2
-- [PEG200](/xray-mp-wiki/reagents/additives/peg200/) — Referenced in the context of PEG200
+- <a href="/xray-mp-wiki/proteins/enzymes/bcsa/">BcsA from Rhodobacter sphaeroides</a> — Catalytic partner; BcsA-BcsB complex solved by X-ray crystallography at 4.5 A
+- <a href="/xray-mp-wiki/reagents/detergents/triton-x-100/">Triton X-100</a> — Nonionic detergent used for solubilization of BcsA-BcsB complex from membranes
+- <a href="/xray-mp-wiki/reagents/buffers/sodium-phosphate/">Sodium Phosphate Buffer</a> — Buffer component in purification buffers
+- <a href="/xray-mp-wiki/reagents/additives/cellobiose/">Cellobiose</a> — Additive (5 mM) in purification buffers for BcsA-BcsB complex
+- <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Magnesium Chloride (MgCl2)</a> — Additive (5 mM) in solubilization buffer
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/gt-a-fold/">GT-A Fold (Glycosyltransferase A Fold)</a> — Structural domain of partner protein BcsA
+- <a href="/xray-mp-wiki/concepts/structural-mechanisms/pilz-domain/">PilZ Domain</a> — Cyclic-di-GMP binding domain of partner protein BcsA
+- <a href="/xray-mp-wiki/reagents/additives/glucose/">Glucose</a> — Referenced in the context of Glucose
+- <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">Mgcl2</a> — Referenced in the context of Mgcl2
+- <a href="/xray-mp-wiki/reagents/additives/peg200/">PEG200</a> — Referenced in the context of PEG200

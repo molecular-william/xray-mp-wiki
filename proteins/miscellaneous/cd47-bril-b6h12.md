@@ -1,7 +1,7 @@
 ---
 title: "CD47 BRIL-B6H12 complex from Homo sapiens"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,42 +17,275 @@ verified: false
 CD47 is the only 5-transmembrane (5-TM) spanning receptor of the immune system. Its extracellular domain (ECD) is a heavily glycosylated cell surface marker of self that binds signal regulatory protein alpha (SIRPalpha) and inhibits macrophage phagocytosis, delivering a 'don't eat me' signal. This structural characterization presents the crystal structure of full-length human CD47 in complex with the function-blocking antibody B6H12, which can inhibit the binding of two endogenous partners, SIRPalpha and thrombospondin-1. The structure reveals a unique extracellular loop region (ECLR) architecture, comprised of two extracellular loops and a six-residue linker (RVVSWF) that forms an extended SWF loop. The hydrophobic aromatic side chains of W118 and F119 from the SWF loop are buried deep in the ECLR core, providing an anchor point for tethering the ECD to the transmembrane domain. Molecular dynamics simulations revealed ECD motion between two macrostates (s1 and s2), with a ~22 degree tilt transition mediated by the conformational switch of Tyr184 on ECL1. CD47 is a validated drug target in cancer immuno-therapy, with multiple clinical trials focused on blocking CD47-SIRPalpha interaction.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##s41467-021-25475-w | 7MYZ | 2.85 | P 21 21 21 | Full-length CD47 (residues 1-278) with [BRIL](/xray-mp-wiki/reagents/protein-tags/bril) fusion on helix IV, in complex with B6H12 Fab | B6H12 Fab |
+### doi/10.1038##s41467-021-25475-w
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7myz">7MYZ</a></td>
+      <td>2.85</td>
+      <td>P 21 21 21</td>
+      <td>Full-length CD47 (residues 1-278) with <a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL</a> fusion on helix IV, in complex with B6H12 Fab</td>
+      <td>B6H12 Fab</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: CHO cells
 - **Construct**: CD47 (residues 1-278) with [BRIL](/xray-mp-wiki/reagents/protein-tags/bril) fusion on helix IV, expressed transiently in ExpiCHO-S cells
 - **Notes**: B6H12 mAb expressed in ExpiCHO-S cells. Fab prepared from IgG1 using Pierce Fab Preparation kit.
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Cell lysis by sonication</td>
+      <td>—</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">TRIS</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride">NaCl</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>Membrane fraction collected by <a href="/xray-mp-wiki/methods/purification/ultracentrifugation">ultracentrifugation</a></td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity chromatography</a> (Protein-A for Fab, <a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> for CD47)</td>
+      <td>Protein-A affinity resin / <a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA</a> Superflow</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">TRIS</a> pH 8.0, 150 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride">NaCl</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>B6H12 Fab eluted with 100 mM sodium <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate</a> pH 3.3, neutralized</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size-exclusion chromatography</a></td>
+      <td>—</td>
+      <td>25 mM <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> pH 7.5, 250 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride">NaCl</a> + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>Final purification step for complex formation and crystallization</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| 1 | Cell lysis by sonication | — | 50 mM [TRIS](/xray-mp-wiki/reagents/buffers/tris) pH 8.0, 150 mM NaCl + [DDM](/xray-mp-wiki/reagents/detergents/ddm) | Membrane fraction collected by ultracentrifugation |
-| 2 | Affinity chromatography (Protein-A for Fab, Ni-NTA for CD47) | Protein-A affinity resin / Ni-NTA Superflow | 50 mM [TRIS](/xray-mp-wiki/reagents/buffers/tris) pH 8.0, 150 mM NaCl + [DDM](/xray-mp-wiki/reagents/detergents/ddm) | B6H12 Fab eluted with 100 mM sodium [Citrate](/xray-mp-wiki/reagents/buffers/citrate) pH 3.3, neutralized |
-| 3 | Size-exclusion chromatography | — | 25 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 7.5, 250 mM NaCl + [DDM](/xray-mp-wiki/reagents/detergents/ddm) | Final purification step for complex formation and crystallization |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor diffusion</a>, <a href="/xray-mp-wiki/methods/crystallization/sitting-drop-vapor-diffusion">sitting drop</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>CD47-<a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL</a>-B6H12 complex at ~10 mg/mL</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>25% <a href="/xray-mp-wiki/reagents/additives/peg400">PEG400</a>, 0.1 M sodium <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate</a> pH 5.5, 0.1 M <a href="/xray-mp-wiki/reagents/buffers/mes">MES</a> pH 6.0</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>293</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Full-length CD47-B6H12 complex crystals diffracted to 2.85 Angstrom</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7myz">7MYZ</a> — Chain C (5 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">QLLFNKTKSVEFTFCNDTVVIPCFVTNMEAQNTTEVYVKWKFKGRDIYTFDGALNKSTVP</span></span>
+<span class="topo-line"><span class="topo-outside">TDFSSAKIEVSQLLKGDASLKMDKSDAVSHTGNYTCEVTELTREGETIIELKYRVVSWFS</span></span>
+<span class="topo-line"><span class="topo-outside">P</span><span class="topo-membrane">NENILIVIFPIFAILLFWGQFG</span><span class="topo-inside">IKT</span><span class="topo-unknown">LKYRSGADLEDNWETLNDNLKVIEKADNAAQVKD</span></span>
+<span class="topo-line"><span class="topo-unknown">ALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQ</span></span>
+<span class="topo-line"><span class="topo-unknown">AAAEQLKTTRNAYIQKYLGMDEK</span><span class="topo-inside">TIA</span><span class="topo-membrane">LLVAGLVITVIVIVGAILFVP</span><span class="topo-outside">GEYS</span><span class="topo-membrane">LKNATGLGL</span></span>
+<span class="topo-line"><span class="topo-membrane">IVTSTGILILLHYYV</span><span class="topo-inside">F</span><span class="topo-unknown">STAIG</span><span class="topo-inside">LTS</span><span class="topo-membrane">FVIAILVIQVIAYILAVVGLSLCI</span><span class="topo-outside">AACIPMH</span><span class="topo-membrane">GPLLI</span></span>
+<span class="topo-line"><span class="topo-membrane">SGLSILALAQLLGLVYMK</span><span class="topo-inside">FVASNQ</span><span class="topo-unknown">KTIQPPRKAVEEPLNAFKESKGMMNDEHHHHHHHHH</span></span>
+<span class="topo-line"><span class="topo-unknown">H</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>121</td>
+      <td>1</td>
+      <td>121</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>122</td>
+      <td>143</td>
+      <td>122</td>
+      <td>143</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>144</td>
+      <td>146</td>
+      <td>144</td>
+      <td>146</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>147</td>
+      <td>147</td>
+      <td>147</td>
+      <td>147</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>264</td>
+      <td>266</td>
+      <td>158</td>
+      <td>160</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>267</td>
+      <td>287</td>
+      <td>161</td>
+      <td>181</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>288</td>
+      <td>291</td>
+      <td>182</td>
+      <td>185</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>292</td>
+      <td>315</td>
+      <td>186</td>
+      <td>209</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>316</td>
+      <td>316</td>
+      <td>210</td>
+      <td>210</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>322</td>
+      <td>324</td>
+      <td>216</td>
+      <td>218</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>325</td>
+      <td>348</td>
+      <td>219</td>
+      <td>242</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>349</td>
+      <td>355</td>
+      <td>243</td>
+      <td>249</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>356</td>
+      <td>378</td>
+      <td>250</td>
+      <td>272</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>379</td>
+      <td>384</td>
+      <td>273</td>
+      <td>278</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1038##s41467-021-25475-w
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7myz">7MYZ</a> — Chain D (0 TMs, non_tm)**
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion, sitting drop |
-| Protein sample | CD47-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril)-B6H12 complex at ~10 mg/mL |
-| Reservoir | 25% [PEG400](/xray-mp-wiki/reagents/additives/peg400), 0.1 M sodium [Citrate](/xray-mp-wiki/reagents/buffers/citrate) pH 5.5, 0.1 M [MES](/xray-mp-wiki/reagents/buffers/mes) pH 6.0 |
-| Temperature | 293 |
-| Notes | Full-length CD47-B6H12 complex crystals diffracted to 2.85 Angstrom |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">QLLFNKTKSVEFTFCNDTVVIPCFVTNMEAQNTTEVYVKWKFKGRDIYTFDGALNKSTVP</span></span>
+<span class="topo-line"><span class="topo-outside">TDFSSAKIEVSQLLKGDASLKMDKSDAVSHTGNYTCEVTELTREGETIIELKYRVVS</span><span class="topo-unknown">WFS</span></span>
+<span class="topo-line"><span class="topo-unknown">PNENILIVIFPIFAILLFWGQFGIKTLKYRSGADLEDNWETLNDNLKVIEKADNAAQVKD</span></span>
+<span class="topo-line"><span class="topo-unknown">ALTKMRAAALDAQKATPPKLEDKSPDSPEMKDFRHGFDILVGQIDDALKLANEGKVKEAQ</span></span>
+<span class="topo-line"><span class="topo-unknown">AAAEQLKTTRNAYIQKYLGMDEKTIALLVAGLVITVIVIVGAILFVPGEYSLKNATGLGL</span></span>
+<span class="topo-line"><span class="topo-unknown">IVTSTGILILLHYYVFSTAIGLTSFVIAILVIQVIAYILAVVGLSLCIAACIPMHGPLLI</span></span>
+<span class="topo-line"><span class="topo-unknown">SGLSILALAQLLGLVYMKFVASNQKTIQPPRKAVEEPLNAFKESKGMMNDEHHHHHHHHH</span></span>
+<span class="topo-line"><span class="topo-unknown">H</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>117</td>
+      <td>1</td>
+      <td>117</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
 
 ## Biological / Functional Insights
 
@@ -67,10 +300,10 @@ The relative orientation of the ECD with respect to the TMD is dynamic. Molecula
 
 ## Cross-References
 
-- [TRIS](/xray-mp-wiki/reagents/buffers/tris) — Entity mentioned in overview or biological insights
-- [DDM](/xray-mp-wiki/reagents/detergents/ddm) — Entity mentioned in overview or biological insights
-- [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate) — Entity mentioned in overview or biological insights
-- [BRIL](/xray-mp-wiki/reagents/protein-tags/bril) — Entity mentioned in overview or biological insights
-- [HEPES](/xray-mp-wiki/reagents/buffers/hepes) — Entity mentioned in overview or biological insights
-- [MES](/xray-mp-wiki/reagents/buffers/mes) — Entity mentioned in text
-- [PEG400](/xray-mp-wiki/reagents/additives/peg400) — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/buffers/tris">TRIS</a> — Entity mentioned in overview or biological insights
+- <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> — Entity mentioned in overview or biological insights
+- <a href="/xray-mp-wiki/reagents/buffers/citrate">Citrate Buffer (Sodium Citrate)</a> — Entity mentioned in overview or biological insights
+- <a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL</a> — Entity mentioned in overview or biological insights
+- <a href="/xray-mp-wiki/reagents/buffers/hepes">HEPES</a> — Entity mentioned in overview or biological insights
+- <a href="/xray-mp-wiki/reagents/buffers/mes">MES</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/additives/peg400">PEG400</a> — Entity mentioned in text

@@ -1,7 +1,7 @@
 ---
 title: "Human Parathyroid Hormone 1 Receptor (PTH1R)"
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,44 +17,112 @@ verified: false
 The human parathyroid hormone 1 receptor (PTH1R) is a class B G-protein-coupled receptor that mediates the actions of parathyroid hormone (PTH) and parathyroid hormone-related protein (PTHrP), playing a central role in calcium homeostasis and bone metabolism. PTH1R is a major drug target for osteoporosis and hypoparathyroidism. The high-resolution crystal structure of the engineered PTH1R (PTH1R_XTAL) in complex with an engineered peptide agonist (ePTH) was determined, revealing the detailed interactions between the receptor and its ligand. The construct included deletions in the extracellular domain (ECD) and C-terminus, a PGS fusion replacing ICL3, and 10 thermostabilizing mutations from directed yeast evolution.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##s41594-018-0151-4 | 6HX0 | 3.00 | P 2_1 2_1 2_1 | PTH1R_XTAL (ECD-PTH1R_S-PGS fusion) with N-terminal HA signal, FLAG tag, His10 tag, 3C cleavage site; ECD deletion (61-104), C-term deletion (481-593), ICL3 (389-397) replaced by PGS fusion; 10 thermostabilising mutations from yeast evolution | ePTH (engineered PTH peptide agonist) |
+### doi/10.1038##s41594-018-0151-4
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6hx0">6HX0</a></td>
+      <td>3.00</td>
+      <td>P 2_1 2_1 2_1</td>
+      <td>PTH1R_XTAL (ECD-PTH1R_S-PGS fusion) with N-terminal HA signal, FLAG tag, His10 tag, 3C cleavage site; ECD deletion (61-104), C-term deletion (481-593), ICL3 (389-397) replaced by PGS fusion; 10 thermostabilising mutations from yeast evolution</td>
+      <td>ePTH (engineered PTH peptide agonist)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Spodoptera frugiperda Sf9 insect cells (baculovirus) and HEK293T cells
 - **Construct**: PTH1R_XTAL — melittin signal peptide, FLAG epitope, His10 tag, 3C protease cleavage site, ECD-PTH1R_S-PGS with ECD deletion (61-104), C-term deletion (481-593), ICL3 (389-397) replaced by PGS
 - **Notes**: Directed evolution in S. cerevisiae followed by additional thermostabilising mutations
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture</td>
+      <td>Baculovirus infection of Sf9 cells</td>
+      <td>—</td>
+      <td></td>
+      <td>Receptor expressed in Sf9 insect cells</td>
+    </tr>
+    <tr>
+      <td>Membrane preparation</td>
+      <td>Homogenization and ultracentrifugation</td>
+      <td>—</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent extraction</td>
+      <td>—</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Affinity chromatography</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) / <a href="/xray-mp-wiki/reagents/additives/talon/">talon</a> immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity-chromatography</a></td>
+      <td>—</td>
+      <td></td>
+      <td>His10 tag purification</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)</td>
+      <td>—</td>
+      <td></td>
+      <td>Final polishing step in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)-compatible buffer</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture | Baculovirus infection of Sf9 cells | — |  | Receptor expressed in Sf9 insect cells |
-| Membrane preparation | Homogenization and ultracentrifugation | — |  |  |
-| Solubilization | Detergent extraction | — |  |  |
-| Affinity chromatography | Ni-NTA / TALON immobilized metal affinity chromatography | — |  | His10 tag purification |
-| Size-exclusion chromatography | SEC | — |  | Final polishing step in LCP-compatible buffer |
-
-
-## Crystallization
-
-### doi/10.1038##s41594-018-0151-4
-
-| Parameter | Value |
-|---|---|
-| Method | LCP (lipid cubic phase) |
-| Protein sample | PTH1R_XTAL-ePTH complex in buffer |
-| Temperature | 20 C |
-| Growth time | 3-7 days |
-| Notes | Crystals grew in lipidic cubic phase (monoolein-based); P2_1_2_1_2_1 space group; diffraction to ~3.0 A resolution |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (lipid cubic phase)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>PTH1R_XTAL-ePTH complex in buffer</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>3-7 days</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grew in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> (monoolein-based); P2_1_2_1_2_1 space group; diffraction to ~3.0 A resolution</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -81,7 +149,7 @@ The crystal structure resolved glycosylation (GlcNAc and fucose) at residue N161
 
 ## Cross-References
 
-- [Polar Network in GPCR Activation](/xray-mp-wiki/concepts/signaling-receptors/polar-network-gpcr-activation/) — The HETX motif is a conserved polar network in class B GPCRs critical for activation
-- [Constitutive Active GPCR Mutations](/xray-mp-wiki/concepts/signaling-receptors/constitutive-active-gpcr-mutations/) — Jansen metaphyseal chondrodysplasia mutations cause constitutive PTH1R activation
-- [GPCR Active Conformation](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/) — PTH1R-ePTH complex represents an active-state class B GPCR
-- [Thermostabilization](/xray-mp-wiki/concepts/construct-design/thermostabilization/) — Directed yeast evolution and additional mutations stabilized PTH1R for crystallization
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/polar-network-gpcr-activation/">Polar Network in GPCR Activation</a> — The HETX motif is a conserved polar network in class B GPCRs critical for activation
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/constitutive-active-gpcr-mutations/">Constitutive Active GPCR Mutations</a> — Jansen metaphyseal chondrodysplasia mutations cause constitutive PTH1R activation
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-conformation/">GPCR Active Conformation</a> — PTH1R-ePTH complex represents an active-state class B GPCR
+- <a href="/xray-mp-wiki/concepts/construct-design/thermostabilization/">Thermostabilization</a> — Directed yeast evolution and additional mutations stabilized PTH1R for crystallization

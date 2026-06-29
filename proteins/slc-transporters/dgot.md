@@ -1,7 +1,7 @@
 ---
 title: "DgoT (E. coli D-galactonate Transporter)"
 created: 2019-05-13
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -30,63 +30,642 @@ reversible protonation of Asp46 and Glu133, with Glu133 protonation releasing Ar
 bind the anionic substrate.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1371##journal.pbio.3000260 | 6E9N | 2.9 x 3.8 x 3.8 (anisotropic) | P 1 21 1 | Wild-type DgoT (residues 27-443) from E. coli, C-terminal decahistidine tag with thrombin cleavage site | beta-nonylglucoside (beta-NG), gluconate (nonspecific binding in cavity) |
-| doi/10.1371##journal.pbio.3000260 | 6E9O | 3.5 | C 1 2 1 | E133Q mutant DgoT (residues 24-443) from E. coli, C-terminal decahistidine tag with thrombin cleavage site | D-galactonate |
+### doi/10.1371##journal.pbio.3000260
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6e9n">6E9N</a></td>
+      <td>2.9 x 3.8 x 3.8 (anisotropic)</td>
+      <td>P 1 21 1</td>
+      <td>Wild-type DgoT (residues 27-443) from E. coli, C-terminal decahistidine tag with thrombin cleavage site</td>
+      <td>beta-nonylglucoside (beta-NG), gluconate (nonspecific binding in cavity)</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6e9o">6E9O</a></td>
+      <td>3.5</td>
+      <td>C 1 2 1</td>
+      <td>E133Q mutant DgoT (residues 24-443) from E. coli, C-terminal decahistidine tag with thrombin cleavage site</td>
+      <td>D-galactonate</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli C41(DE3)
 - **Construct**: Full-length DgoT with C-terminal decahistidine tag and thrombin cleavage site (pQE60)
 - **Induction**: 0.5-1 mM IPTG at OD600 0.6-0.8, 18C for 16 h
 - **Media**: Terrific Broth (TB) supplemented with 2 mM MgSO4
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli C41(DE3)
 - **Expression construct**: Full-length DgoT with C-terminal decahistidine tag (pQE60)
 - **Tag info**: C-terminal decahistidine tag with thrombin cleavage site
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Emulsiflex C3 homogenizer</td>
+      <td>—</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.4, 300 mM NaCl</td>
+      <td>5-6 cycles at 15,000-20,000 psi; debris removed at 10,000-18,000g for 20 min</td>
+    </tr>
+    <tr>
+      <td>Membrane preparation</td>
+      <td>Ultracentrifugation</td>
+      <td>—</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.4, 300 mM NaCl</td>
+      <td>185,500g for 1 h; membranes flash frozen in liquid N2 and stored at -80C</td>
+    </tr>
+    <tr>
+      <td>Membrane solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>—</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.4, 150 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> + 1.4% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (n-dodecyl-beta-D-maltoside)</td>
+      <td>2 h stirring at 4C; insoluble material removed at 185,500g for 20 min</td>
+    </tr>
+    <tr>
+      <td>Affinity chromatography</td>
+      <td>Cobalt <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">Talon</a> cobalt affinity resin (Clontech)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.4, 150 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Wash with 10 CV wash buffer + 500 mM NaCl; elute with 150 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
+    </tr>
+    <tr>
+      <td>Desalting</td>
+      <td>Desalting column</td>
+      <td>10-DG desalting column (Bio-Rad)</td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> pH 7.4, 150 mM NaCl, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> removed prior to tag cleavage</td>
+    </tr>
+    <tr>
+      <td>Tag removal</td>
+      <td>Thrombin cleavage</td>
+      <td>—</td>
+      <td></td>
+      <td>Overnight digestion at 4C with alpha-thrombin</td>
+    </tr>
+    <tr>
+      <td>Concentration</td>
+      <td>Centrifugal concentration</td>
+      <td>—</td>
+      <td></td>
+      <td>Concentrated to 5 mg/ml using 100 kDa MWCO concentrator</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Emulsiflex C3 homogenizer | — | 20 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 7.4, 300 mM NaCl | 5-6 cycles at 15,000-20,000 psi; debris removed at 10,000-18,000g for 20 min |
-| Membrane preparation | Ultracentrifugation | — | 20 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 7.4, 300 mM NaCl | 185,500g for 1 h; membranes flash frozen in liquid N2 and stored at -80C |
-| Membrane solubilization | Detergent solubilization | — | 20 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 7.4, 150 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 1.4% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (n-dodecyl-beta-D-maltoside) | 2 h stirring at 4C; insoluble material removed at 185,500g for 20 min |
-| Affinity chromatography | Cobalt affinity chromatography | [Talon](/xray-mp-wiki/reagents/additives/talon/) cobalt affinity resin (Clontech) | 20 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 7.4, 150 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 10 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Wash with 10 CV wash buffer + 500 mM NaCl; elute with 150 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
-| Desalting | Desalting column | 10-DG desalting column (Bio-Rad) | 20 mM [Tris](/xray-mp-wiki/reagents/buffers/tris/) pH 7.4, 150 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) removed prior to tag cleavage |
-| Tag removal | Thrombin cleavage | — |  | Overnight digestion at 4C with alpha-thrombin |
-| Concentration | Centrifugal concentration | — |  | Concentrated to 5 mg/ml using 100 kDa MWCO concentrator |
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging drop vapor diffusion (HiLiDe method)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>WT DgoT at 5 mg/ml, repipidated into E. coli polar lipids (2.33:1 protein:lipid, 5:1 detergent:lipid)</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>39% <a href="/xray-mp-wiki/reagents/additives/peg/">Peg</a> 400, 100 mM sodium <a href="/xray-mp-wiki/reagents/buffers/acetate/">Acetate</a> pH 5.35</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>2-3 days (small rod-shaped crystals)</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Well solution used as cryoprotectant</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>HiLiDe-treated DgoT crystallized via hanging drop; Al's oil placed over well solution to slow vapor diffusion; protein pre-incubated with 10 mM sodium gluconate; space group P2_1; data collected at ALS Beamline 8.3.1 at wavelength 1.1159 A</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging drop vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>DgoT E133Q at 7-8 mg/ml (not lipidated)</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>32% <a href="/xray-mp-wiki/reagents/additives/peg/">Peg</a> 1000, 100 mM <a href="/xray-mp-wiki/reagents/buffers/glycine/">Glycine</a> pH 9.0</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>4C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>3-4 weeks to 9 months (150-200 um rectangular crystals)</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Well solution used as cryoprotectant</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Protein pre-incubated with 10 mM Na galactonate; space group C2; data collected at ALS Beamline 8.3.1 at wavelength 1.1158 A</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-## Crystallization
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6e9n">6E9N</a> — Chain A (12 TMs, alpha)**
 
-### doi/10.1371##journal.pbio.3000260
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MVSGFAMPKIWRKLAMDIPVNAAKPG</span><span class="topo-inside">RRRYL</span><span class="topo-membrane">TLVMIFITVVICYVDRANLAVAS</span><span class="topo-outside">AHIQEE</span></span>
+<span class="topo-line"><span class="topo-outside">FGITKAEM</span><span class="topo-membrane">GYVFSAFAWLYTLCQIPGGWFL</span><span class="topo-inside">DRVGS</span><span class="topo-membrane">RVTYFIAIFGWSVATLFQGFA</span><span class="topo-outside">TGLM</span></span>
+<span class="topo-line"><span class="topo-membrane">SLIGLRAITGIFEAPAFPTN</span><span class="topo-inside">NRMVTSWFPEHERASA</span><span class="topo-membrane">VGFYTSGQFVGLAFLTPLLIWI</span><span class="topo-outside">QE</span></span>
+<span class="topo-line"><span class="topo-outside">MLSWH</span><span class="topo-membrane">WVFIVTGGIGIIWSLIWFKVY</span><span class="topo-inside">QPPRLTKGISKAELDYIRDGGGLVDGDA</span><span class="topo-unknown">PVKKEA</span></span>
+<span class="topo-line"><span class="topo-unknown">RQ</span><span class="topo-inside">PLTAKDWKLVFHR</span><span class="topo-membrane">KLIGVYLGQFAVASTLWFFLTWFP</span><span class="topo-outside">NYLTQEKGITALKAG</span><span class="topo-membrane">FMTTVP</span></span>
+<span class="topo-line"><span class="topo-membrane">FLAAFVGVLLSGWV</span><span class="topo-inside">ADLLVRKGFSLGFAR</span><span class="topo-membrane">KTPIICGLLISTCIMGAN</span><span class="topo-outside">YTNDPM</span><span class="topo-membrane">MIMCLMA</span></span>
+<span class="topo-line"><span class="topo-membrane">LAFFGNGFASITW</span><span class="topo-inside">SLVSSLAPMRLIGLTG</span><span class="topo-membrane">GVFNFAGGLGGITVPLVVGYL</span><span class="topo-outside">AQGYGFAP</span><span class="topo-membrane">AL</span></span>
+<span class="topo-line"><span class="topo-membrane">VYISAVALIGALSYILLVG</span><span class="topo-inside">DVKR</span><span class="topo-unknown">VGSLVPRGSGSHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>26</td>
+      <td>1</td>
+      <td>26</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>31</td>
+      <td>27</td>
+      <td>31</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>54</td>
+      <td>32</td>
+      <td>54</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>68</td>
+      <td>55</td>
+      <td>68</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>90</td>
+      <td>69</td>
+      <td>90</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>95</td>
+      <td>91</td>
+      <td>95</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>96</td>
+      <td>116</td>
+      <td>96</td>
+      <td>116</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>117</td>
+      <td>120</td>
+      <td>117</td>
+      <td>120</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>121</td>
+      <td>140</td>
+      <td>121</td>
+      <td>140</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>141</td>
+      <td>156</td>
+      <td>141</td>
+      <td>156</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>178</td>
+      <td>157</td>
+      <td>178</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>179</td>
+      <td>185</td>
+      <td>179</td>
+      <td>185</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>186</td>
+      <td>206</td>
+      <td>186</td>
+      <td>206</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>207</td>
+      <td>234</td>
+      <td>207</td>
+      <td>234</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>242</td>
+      <td>235</td>
+      <td>242</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>243</td>
+      <td>255</td>
+      <td>243</td>
+      <td>255</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>256</td>
+      <td>279</td>
+      <td>256</td>
+      <td>279</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>280</td>
+      <td>294</td>
+      <td>280</td>
+      <td>294</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>295</td>
+      <td>314</td>
+      <td>295</td>
+      <td>314</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>315</td>
+      <td>329</td>
+      <td>315</td>
+      <td>329</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>330</td>
+      <td>347</td>
+      <td>330</td>
+      <td>347</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>348</td>
+      <td>353</td>
+      <td>348</td>
+      <td>353</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>354</td>
+      <td>373</td>
+      <td>354</td>
+      <td>373</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>374</td>
+      <td>389</td>
+      <td>374</td>
+      <td>389</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>390</td>
+      <td>410</td>
+      <td>390</td>
+      <td>410</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>411</td>
+      <td>418</td>
+      <td>411</td>
+      <td>418</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>419</td>
+      <td>439</td>
+      <td>419</td>
+      <td>439</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>440</td>
+      <td>443</td>
+      <td>440</td>
+      <td>443</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>444</td>
+      <td>460</td>
+      <td>444</td>
+      <td>460</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Hanging drop vapor diffusion (HiLiDe method) |
-| Protein sample | WT DgoT at 5 mg/ml, repipidated into E. coli polar lipids (2.33:1 protein:lipid, 5:1 detergent:lipid) |
-| Reservoir | 39% [Peg](/xray-mp-wiki/reagents/additives/peg/) 400, 100 mM sodium [Acetate](/xray-mp-wiki/reagents/buffers/acetate/) pH 5.35 |
-| Temperature | 4C |
-| Growth time | 2-3 days (small rod-shaped crystals) |
-| Cryoprotection | Well solution used as cryoprotectant |
-| Notes | HiLiDe-treated DgoT crystallized via hanging drop; Al's oil placed over well solution to slow vapor diffusion; protein pre-incubated with 10 mM sodium gluconate; space group P2_1; data collected at ALS Beamline 8.3.1 at wavelength 1.1159 A |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6e9o">6E9O</a> — Chain B (12 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Hanging drop vapor diffusion |
-| Protein sample | DgoT E133Q at 7-8 mg/ml (not lipidated) |
-| Reservoir | 32% [Peg](/xray-mp-wiki/reagents/additives/peg/) 1000, 100 mM [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) pH 9.0 |
-| Temperature | 4C |
-| Growth time | 3-4 weeks to 9 months (150-200 um rectangular crystals) |
-| Cryoprotection | Well solution used as cryoprotectant |
-| Notes | Protein pre-incubated with 10 mM Na galactonate; space group C2; data collected at ALS Beamline 8.3.1 at wavelength 1.1158 A |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MVSGFAMPKIWRKLAMDIPVNAA</span><span class="topo-outside">KPGRRRYL</span><span class="topo-membrane">TLVMIFITVVICYVDRANL</span><span class="topo-inside">AVASAHIQEE</span></span>
+<span class="topo-line"><span class="topo-inside">FGITKAEMGYV</span><span class="topo-membrane">FSAFAWLYTLCQIPGGWFL</span><span class="topo-outside">DRVGSR</span><span class="topo-membrane">VTYFIAIFGWSVATLFQGF</span><span class="topo-inside">ATGLM</span></span>
+<span class="topo-line"><span class="topo-inside">S</span><span class="topo-membrane">LIGLRAITGIFQAPAFPTNN</span><span class="topo-outside">RMVTSWFPEHER</span><span class="topo-membrane">ASAVGFYTSGQFVGLAFLTPLL</span><span class="topo-inside">IWIQE</span></span>
+<span class="topo-line"><span class="topo-inside">MLSWHW</span><span class="topo-membrane">VFIVTGGIGIIWSLIWFKV</span><span class="topo-outside">YQPPRLTKGISKAELDYIRDGGGLV</span><span class="topo-unknown">DGDAPVKKEA</span></span>
+<span class="topo-line"><span class="topo-unknown">RQ</span><span class="topo-outside">PLTAKDWKLV</span><span class="topo-membrane">FHRKLIGVYLGQFAVASTLWFFLT</span><span class="topo-inside">WFPNYLTQEKGIT</span><span class="topo-unknown">ALKAG</span><span class="topo-inside">FMTT</span><span class="topo-membrane">VP</span></span>
+<span class="topo-line"><span class="topo-membrane">FLAAFVGVLLSGWVAD</span><span class="topo-outside">LLVRKGFSLGF</span><span class="topo-membrane">ARKTPIICGLLISTCIMG</span><span class="topo-inside">ANYTNDPMMIMC</span><span class="topo-membrane">LMA</span></span>
+<span class="topo-line"><span class="topo-membrane">LAFFGNGFASITWSLV</span><span class="topo-outside">SSLAPMRLIG</span><span class="topo-membrane">LTGGVFNFAGGLGGITVPLV</span><span class="topo-inside">VGYLAQGYGFAPAL</span></span>
+<span class="topo-line"><span class="topo-membrane">VYISAVALIGALSYILLV</span><span class="topo-outside">GDVK</span><span class="topo-unknown">RVGSLVPRGSGSHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>24</td>
+      <td>31</td>
+      <td>24</td>
+      <td>31</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>50</td>
+      <td>32</td>
+      <td>50</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>51</td>
+      <td>71</td>
+      <td>51</td>
+      <td>71</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>90</td>
+      <td>72</td>
+      <td>90</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>96</td>
+      <td>91</td>
+      <td>96</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>115</td>
+      <td>97</td>
+      <td>115</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>121</td>
+      <td>116</td>
+      <td>121</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>122</td>
+      <td>141</td>
+      <td>122</td>
+      <td>141</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>153</td>
+      <td>142</td>
+      <td>153</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>154</td>
+      <td>175</td>
+      <td>154</td>
+      <td>175</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>186</td>
+      <td>176</td>
+      <td>186</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>187</td>
+      <td>205</td>
+      <td>187</td>
+      <td>205</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>206</td>
+      <td>230</td>
+      <td>206</td>
+      <td>230</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>243</td>
+      <td>252</td>
+      <td>243</td>
+      <td>252</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>253</td>
+      <td>276</td>
+      <td>253</td>
+      <td>276</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>277</td>
+      <td>289</td>
+      <td>277</td>
+      <td>289</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>295</td>
+      <td>298</td>
+      <td>295</td>
+      <td>298</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>299</td>
+      <td>316</td>
+      <td>299</td>
+      <td>316</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>317</td>
+      <td>327</td>
+      <td>317</td>
+      <td>327</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>328</td>
+      <td>345</td>
+      <td>328</td>
+      <td>345</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>346</td>
+      <td>357</td>
+      <td>346</td>
+      <td>357</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>358</td>
+      <td>376</td>
+      <td>358</td>
+      <td>376</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>377</td>
+      <td>386</td>
+      <td>377</td>
+      <td>386</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>387</td>
+      <td>406</td>
+      <td>387</td>
+      <td>406</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>407</td>
+      <td>420</td>
+      <td>407</td>
+      <td>420</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>421</td>
+      <td>438</td>
+      <td>421</td>
+      <td>438</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>439</td>
+      <td>442</td>
+      <td>439</td>
+      <td>442</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
 
 ## Biological / Functional Insights
 
@@ -152,13 +731,13 @@ interaction, explaining the loss of transport in infantile sialic acid storage d
 
 ## Cross-References
 
-- [Major Facilitator Superfamily (MFS)](/xray-mp-wiki/concepts/protein-families/mfs-transporter/) — DgoT belongs to the MFS fold with 12 TM helices arranged in 2 six-helix bundles
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Two structures capture inward-open and outward-facing states of the transport cycle
-- [XylE (E. coli Sugar Transporter)](/xray-mp-wiki/proteins/mfs-transporters/xyle/) — Related MFS transporter; structural comparison for periplasmic gating via TM7 bending
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for DgoT solubilization and purification
-- [beta-Octylglucoside (OG) / beta-Nonylglucoside (beta-NG)](/xray-mp-wiki/reagents/detergents/og/) — Beta-NG identified in aqueous cavity of WT DgoT structure
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Used for cobalt affinity elution at 150 mM
-- [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Used for induction of DgoT expression at 0.5-1 mM
-- [Tris](/xray-mp-wiki/reagents/buffers/tris/) — Primary buffer used in purification (20 mM Tris pH 7.4)
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Used at 10% in purification buffers for protein stability
-- [Thrombin Protease](/xray-mp-wiki/reagents/protein-tags/thrombin-protease/) — Used to cleave decahistidine tag from DgoT
+- <a href="/xray-mp-wiki/concepts/protein-families/mfs-transporter/">Major Facilitator Superfamily (MFS)</a> — DgoT belongs to the MFS fold with 12 TM helices arranged in 2 six-helix bundles
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating-Access Mechanism</a> — Two structures capture inward-open and outward-facing states of the transport cycle
+- <a href="/xray-mp-wiki/proteins/mfs-transporters/xyle/">XylE (E. coli Sugar Transporter)</a> — Related MFS transporter; structural comparison for periplasmic gating via TM7 bending
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Primary detergent used for DgoT solubilization and purification
+- <a href="/xray-mp-wiki/reagents/detergents/og/">beta-Octylglucoside (OG) / beta-Nonylglucoside (beta-NG)</a> — Beta-NG identified in aqueous cavity of WT DgoT structure
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Used for cobalt affinity elution at 150 mM
+- <a href="/xray-mp-wiki/reagents/additives/iptg/">IPTG</a> — Used for induction of DgoT expression at 0.5-1 mM
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris</a> — Primary buffer used in purification (20 mM Tris pH 7.4)
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Used at 10% in purification buffers for protein stability
+- <a href="/xray-mp-wiki/reagents/protein-tags/thrombin-protease/">Thrombin Protease</a> — Used to cleave decahistidine tag from DgoT

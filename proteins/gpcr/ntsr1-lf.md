@@ -1,7 +1,7 @@
 ---
 title: "NTSR1-LF Mutant"
 created: 2026-06-05
-updated: 2026-06-05
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,43 +17,219 @@ verified: false
 NTSR1-LF is a thermostabilized mutant of the [Neurotensin](/xray-mp-wiki/reagents/ligands/neurotensin/) receptor 1 ([NTSR1](/xray-mp-wiki/proteins/gpcr/neurotensin-receptor-1/)) containing two point mutations: wild-type L310(6.37) and wild-type F358(7.42), but lacking the E166(3.49) residue (replaced by the thermostabilizing mutation E166A found in the parent NTSR1-GW5 construct). The construct retains wild-type residues at positions 6.37 and 7.42, enabling moderate G-protein activation ability. The structure was determined at 2.6 A resolution (space group P212121), slightly higher resolution than NTSR1-ELF. NTSR1-LF is able to catalyze nucleotide exchange at Galphaq at a moderate level, likely because of the absence of the E166(3.49) side chain which is critical for full G-protein activation. The structure was obtained with T4 lysozyme ([T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/)) fusion replacing most of ICL3 for crystallization.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##ncomms8895 | 4XEE | 2.6 A | P212121 | NTSR1-LF-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/): Wild-type residues at positions L310(6.37), F358(7.42); E166A mutation at position 3.49; T4 lysozyme replacing most of ICL3 (residues H269-R299); expressed in Sf9 insect cells via baculovirus
- | NTS(8-13) |
+### doi/10.1038##ncomms8895
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4xee">4XEE</a></td>
+      <td>2.6 A</td>
+      <td>P212121</td>
+      <td>NTSR1-LF-<a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a>: Wild-type residues at positions L310(6.37), F358(7.42); E166A mutation at position 3.49; T4 lysozyme replacing most of ICL3 (residues H269-R299); expressed in Sf9 insect cells via baculovirus
+</td>
+      <td>NTS(8-13)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Sf9 insect cells (baculovirus expression)
 - **Construct**: NTSR1-LF-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) construct with wild-type residues at positions 6.37, 7.42; E166A mutation at 3.49; T4 lysozyme replacing most of ICL3 (residues H269-R299)
 
 
-### Purification Workflow
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a>)</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>NTSR1-LF-<a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> crystallized in <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a>) with cholesteryl hemisuccinate (<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>) additive. Crystals in space group P212121. Resolution 2.6 A. The <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase">LCP</a> method with <a href="/xray-mp-wiki/reagents/detergents/lmng/">LMNG</a>/<a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> mixed micelles enabled crystallization of the active-like conformation.
+</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-##### Steps
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4xee">4XEE</a> — Chain A (7 TMs, alpha)**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression | Baculovirus expression in Sf9 insect cells | — | Not specified | NTSR1-LF construct produced in insect cells |
-| Membrane preparation | Urea-washed P2 insect cell membranes | — | Not specified | Membranes washed with [UREA](/xray-mp-wiki/reagents/substrates/urea/) to reduce background binding |
-| Solubilization | [LMNG](/xray-mp-wiki/reagents/detergents/lmng/)/CHS detergent | — | 1% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Solubilized in [LMNG](/xray-mp-wiki/reagents/detergents/lmng/)/CHS with [Neurotensin](/xray-mp-wiki/reagents/ligands/neurotensin/) peptide |
-| Purification | Ni-NTA affinity ([TALON](/xray-mp-wiki/reagents/additives/talon/) resin) | — | 50 mM TrisHCl pH 7.4, 200 mM NaCl, 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Batch incubation with [TALON](/xray-mp-wiki/reagents/additives/talon/) resin; eluted with 250 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
-| Desalting | PD10 column | — | 50 mM TrisHCl pH 7.4, 200 mM NaCl, 0.003% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0003% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Desalted and NTS(8-13) added to 20 uM |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">DYKDDDDATSTSESDTA</span><span class="topo-inside">GPNSDLDVNTD</span><span class="topo-membrane">IYSKVLVTAIYLALFVVGTVGNSVTL</span><span class="topo-outside">FTLARK</span></span>
+<span class="topo-line"><span class="topo-unknown">KSLQSLQ</span><span class="topo-outside">STVHYH</span><span class="topo-membrane">LGSLALSDLLILLLAMPVELYNFIWV</span><span class="topo-inside">HHPW</span><span class="topo-membrane">AFGDAGCRGYYFLRDAC</span></span>
+<span class="topo-line"><span class="topo-membrane">TYATALNVASLSV</span><span class="topo-outside">ERYLAICHPFKAKTLMSRSRTKK</span><span class="topo-membrane">FISAIWLASALLAIPMLFTMG</span><span class="topo-inside">LQN</span></span>
+<span class="topo-line"><span class="topo-inside">RSADGTHPGGLVCTPIVDTAT</span><span class="topo-membrane">VKVVIQVNTFMSFLFPMLVISILNTV</span><span class="topo-outside">IANKLTVMV</span><span class="topo-unknown">HQAA</span></span>
+<span class="topo-line"><span class="topo-unknown">EQGRVCTVGTHNGLEHSTFNMTIE</span><span class="topo-outside">PGRVQALRHGVL</span><span class="topo-membrane">VLRAVVIAFVVCWLPYHVRRLMFC</span></span>
+<span class="topo-line"><span class="topo-membrane">Y</span><span class="topo-inside">ISDEQWTTFLFDFY</span><span class="topo-membrane">HYFYMLTNALFYASSAINPILYN</span><span class="topo-outside">LVSANFRQVFLSTL</span><span class="topo-unknown">ACLCPGWR</span></span>
+<span class="topo-line"><span class="topo-unknown">HRRKAHHHHHHHHHHGG</span><span class="topo-outside">NIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKS</span></span>
+<span class="topo-line"><span class="topo-outside">ELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVF</span></span>
+<span class="topo-line"><span class="topo-outside">QMGETGVAGFTNSLRMLNNKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYGSG</span></span>
+<span class="topo-line"><span class="topo-outside">S</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>18</td>
+      <td>28</td>
+      <td>50</td>
+      <td>60</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>54</td>
+      <td>61</td>
+      <td>86</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>60</td>
+      <td>87</td>
+      <td>92</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>73</td>
+      <td>100</td>
+      <td>105</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>99</td>
+      <td>106</td>
+      <td>131</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>103</td>
+      <td>132</td>
+      <td>135</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>133</td>
+      <td>136</td>
+      <td>165</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>134</td>
+      <td>156</td>
+      <td>166</td>
+      <td>188</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>157</td>
+      <td>177</td>
+      <td>189</td>
+      <td>209</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>201</td>
+      <td>210</td>
+      <td>233</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>202</td>
+      <td>227</td>
+      <td>234</td>
+      <td>259</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>228</td>
+      <td>236</td>
+      <td>260</td>
+      <td>268</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>265</td>
+      <td>276</td>
+      <td>297</td>
+      <td>308</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>277</td>
+      <td>301</td>
+      <td>309</td>
+      <td>333</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>302</td>
+      <td>315</td>
+      <td>334</td>
+      <td>347</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>316</td>
+      <td>338</td>
+      <td>348</td>
+      <td>370</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>339</td>
+      <td>352</td>
+      <td>371</td>
+      <td>384</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>378</td>
+      <td>541</td>
+      <td>1002</td>
+      <td>1165</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-
-## Crystallization
-
-### doi/10.1038##ncomms8895
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Notes | NTSR1-LF-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) crystallized in lipidic cubic phase (LCP) with cholesteryl hemisuccinate ([CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)) additive. Crystals in space group P212121. Resolution 2.6 A. The LCP method with [LMNG](/xray-mp-wiki/reagents/detergents/lmng/)/CHS mixed micelles enabled crystallization of the active-like conformation.
- |
-
+</div>
 
 ## Biological / Functional Insights
 
@@ -72,13 +248,13 @@ The bulkier L310(6.37) side chain sterically prevents R167(3.50) from adopting t
 
 ## Cross-References
 
-- [Rat Neurotensin Receptor 1 (NTSR1)](/xray-mp-wiki/proteins/gpcr/neurotensin-receptor-1/) — NTSR1-LF is a mutant derivative of NTSR1 with wild-type residues at positions 6.37, 7.42
-- [NTSR1-EL Constitutively Active Mutant](/xray-mp-wiki/proteins/gpcr/ntsr1-el/) — Related constitutively active mutant with F358A; used for comparative structural analysis of constitutive activity
-- [T4 Lysozyme (T4L)](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) — T4L fusion replacing ICL3 in NTSR1-LF-T4L crystallization construct
-- [Lauryl Maltose Neopentyl Glycol (LMNG)](/xray-mp-wiki/reagents/detergents/lmng/) — Detergent used for solubilization and purification of NTSR1-LF-T4L
-- [Cholesteryl Hemisuccinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — CHS used in combination with LMNG for solubilization and in LCP crystallization
-- [OPSIN](/xray-mp-wiki/proteins/gpcr/opsin/) — Related protein structure
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers
-- [TALON](/xray-mp-wiki/reagents/additives/talon/) — Additive used in purification or crystallization buffers
-- [Neurotensin](/xray-mp-wiki/reagents/ligands/neurotensin/) — Related ligand or cofactor
-- [UREA](/xray-mp-wiki/reagents/substrates/urea/) — Entity mentioned in text
+- <a href="/xray-mp-wiki/proteins/gpcr/neurotensin-receptor-1/">Rat Neurotensin Receptor 1 (NTSR1)</a> — NTSR1-LF is a mutant derivative of NTSR1 with wild-type residues at positions 6.37, 7.42
+- <a href="/xray-mp-wiki/proteins/gpcr/ntsr1-el/">NTSR1-EL Constitutively Active Mutant</a> — Related constitutively active mutant with F358A; used for comparative structural analysis of constitutive activity
+- <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4 Lysozyme (T4L)</a> — T4L fusion replacing ICL3 in NTSR1-LF-T4L crystallization construct
+- <a href="/xray-mp-wiki/reagents/detergents/lmng/">Lauryl Maltose Neopentyl Glycol (LMNG)</a> — Detergent used for solubilization and purification of NTSR1-LF-T4L
+- <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">Cholesteryl Hemisuccinate (CHS)</a> — CHS used in combination with LMNG for solubilization and in LCP crystallization
+- <a href="/xray-mp-wiki/proteins/gpcr/opsin/">OPSIN</a> — Related protein structure
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/ligands/neurotensin/">Neurotensin</a> — Related ligand or cofactor
+- <a href="/xray-mp-wiki/reagents/substrates/urea/">UREA</a> — Entity mentioned in text

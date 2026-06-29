@@ -1,7 +1,7 @@
 ---
 title: "Human M5 Muscarinic Acetylcholine Receptor"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,46 +17,465 @@ verified: false
 The human M5 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/) receptor (M5 mAChR) is a class A G protein-coupled receptor that preferentially couples to Gq/11 proteins. It represents less than 2% of total muscarinic receptor expression in the brain but is found predominantly in the central nervous system, where it has recently emerged as an exciting therapeutic target for treating disorders including drug addiction. The first high-resolution crystal structure of the M5 mAChR was determined bound to the clinically used inverse agonist [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/) at 3.4 A resolution, using a T4 lysozyme ([T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/)) fusion construct with the thermostabilizing S117(3.39)R mutation. This structure enabled complete structural comparison across all five mAChR family members (M1-M5), revealing differences in extracellular loop (ECL) regions that mediate orthosteric and allosteric ligand selectivity. A ternary complex structure with the bis-ammonium alkane modulator 4B-C7/3-phth was also determined at 2.55 A. Chimeric swaps between M2 and M5 ECL regions provided structural insight into kinetic selectivity, where ligands show differential residency times between related family members.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.1914446116 | 6OL9 | 3.4 A | Not specified | Human M5 muscarinic receptor with T4 lysozyme fusion (residues 225-430 of ICL3 replaced by [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/)), S117(3.39)R thermostabilizing mutation, N-terminal 20 amino acids cleaved by TEV protease site, bound to [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/)
- | [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/) |
-| doi/10.1073##pnas.1914446116 | 6OL9 | 2.55 A | Not specified | Human M5 muscarinic receptor with T4 lysozyme fusion, S117(3.39)R mutation, ternary complex with [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/) and bis-ammonium alkane modulator 4B-C7/3-phth
- | [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/), 4B-C7/3-phth |
+### doi/10.1073##pnas.1914446116
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ol9">6OL9</a></td>
+      <td>3.4 A</td>
+      <td>Not specified</td>
+      <td>Human M5 muscarinic receptor with T4 lysozyme fusion (residues 225-430 of ICL3 replaced by <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a>), S117(3.39)R thermostabilizing mutation, N-terminal 20 amino acids cleaved by TEV protease site, bound to <a href="/xray-mp-wiki/reagents/ligands/tiotropium/">Tiotropium</a>
+</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/tiotropium/">Tiotropium</a></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6ol9">6OL9</a></td>
+      <td>2.55 A</td>
+      <td>Not specified</td>
+      <td>Human M5 muscarinic receptor with T4 lysozyme fusion, S117(3.39)R mutation, ternary complex with <a href="/xray-mp-wiki/reagents/ligands/tiotropium/">Tiotropium</a> and bis-ammonium alkane modulator 4B-C7/3-phth
+</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/tiotropium/">Tiotropium</a>, 4B-C7/3-phth</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Not specified in source paper (standard baculovirus/Sf9 insect cell system as previously described for M3-M4 receptors)
 - **Construct**: M5-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) with S117(3.39)R mutation. ICL3 residues 225-430 removed and replaced with T4 lysozyme fusion. N-terminal TEV protease site for removal of first 20 amino acids.
 
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Receptor expression and purification</td>
+      <td>M5-<a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> with S117(3.39)R purified similarly to previous methods for M3 receptor</td>
+      <td>Not specified</td>
+      <td>Not specified + Not specified</td>
+      <td>S117(3.39)R mutation increased receptor yields during purification and resulted in crystals diffracting to 3.4 A.</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Receptor expression and purification | M5-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) with S117(3.39)R purified similarly to previous methods for M3 receptor | Not specified | Not specified + Not specified | S117(3.39)R mutation increased receptor yields during purification and resulted in crystals diffracting to 3.4 A. |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>M5-<a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> S117(3.39)R bound to <a href="/xray-mp-wiki/reagents/ligands/tiotropium/">Tiotropium</a>, reconstituted into 10:1 (wt/wt) <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a>:<a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a> in 1:1.5 wt/wt protein:lipid ratio
+</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 degrees Celsius</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Crystals appeared within 24 hours and grew to full size in 1-2 days</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Whole drops harvested using mesh grid loops and flash-frozen in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>For allosteric modulator cocrystallization, 2.5 mM modulator was added to purified protein and incubated on ice for 3 hours before <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) reconstitution. The ternary complex with 4B-C7/3-phth yielded crystals that grew to much larger size and diffracted to 2.55 A. Data collected at SPring-8 beamline BL32XU and Australian Synchrotron MX2 beamline. Structure solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using M5-mTAL (PDB 4U15) as search model for receptor and <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> ensemble for T4 lysozyme. Refinement performed with Phenix.
+</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6ol9">6OL9</a> — Chain A (7 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GAPLERH</span><span class="topo-outside">RLWE</span><span class="topo-membrane">VITIAAVTAVVSLITIVGNVLVMISFKV</span><span class="topo-inside">NSQLKTVN</span><span class="topo-membrane">NYYLLSLACADLI</span></span>
+<span class="topo-line"><span class="topo-membrane">IGIFSMNLYTTYI</span><span class="topo-outside">LMGRWALGSLA</span><span class="topo-membrane">CDLWLALDYVASNARVMNLLVISFD</span><span class="topo-inside">RYFSITRPLTY</span></span>
+<span class="topo-line"><span class="topo-inside">RAKRTP</span><span class="topo-membrane">KRAGIMIGLAWLISFILWAPAILCW</span><span class="topo-outside">QYLVGKRTVPLDECQIQF</span><span class="topo-membrane">LSEPTITFGTA</span></span>
+<span class="topo-line"><span class="topo-membrane">IAAFYIPVSVMTILYC</span><span class="topo-inside">RIYRETEKRTNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHL</span><span class="topo-unknown">LTK</span></span>
+<span class="topo-line"><span class="topo-unknown">SPSLNAAKSELDKAIGRNCNGVI</span><span class="topo-inside">TKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVR</span></span>
+<span class="topo-line"><span class="topo-inside">RAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRT</span></span>
+<span class="topo-line"><span class="topo-inside">GTWDAYRVVLVKERKAAQT</span><span class="topo-membrane">LSAILLAFIITWTPYNIMVLVSTFC</span><span class="topo-outside">DKCV</span><span class="topo-membrane">PVTLWHLGYWLC</span></span>
+<span class="topo-line"><span class="topo-membrane">YVNSTVNPICYALC</span><span class="topo-inside">NRTFRKTFKMLLLCR</span><span class="topo-unknown">WKKKKVEEKLYWQGNSKLPSSHHHHHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>7</td>
+      <td>19</td>
+      <td>25</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>11</td>
+      <td>26</td>
+      <td>29</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>39</td>
+      <td>30</td>
+      <td>57</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>47</td>
+      <td>58</td>
+      <td>65</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>73</td>
+      <td>66</td>
+      <td>91</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>84</td>
+      <td>92</td>
+      <td>102</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>109</td>
+      <td>103</td>
+      <td>127</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>110</td>
+      <td>126</td>
+      <td>128</td>
+      <td>144</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>127</td>
+      <td>151</td>
+      <td>145</td>
+      <td>169</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>152</td>
+      <td>169</td>
+      <td>170</td>
+      <td>187</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>170</td>
+      <td>196</td>
+      <td>188</td>
+      <td>214</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>197</td>
+      <td>206</td>
+      <td>215</td>
+      <td>224</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>207</td>
+      <td>237</td>
+      <td>1001</td>
+      <td>1031</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>238</td>
+      <td>263</td>
+      <td>1032</td>
+      <td>1057</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>264</td>
+      <td>366</td>
+      <td>1058</td>
+      <td>1160</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>367</td>
+      <td>379</td>
+      <td>431</td>
+      <td>443</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>380</td>
+      <td>404</td>
+      <td>444</td>
+      <td>468</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>405</td>
+      <td>408</td>
+      <td>469</td>
+      <td>472</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>409</td>
+      <td>434</td>
+      <td>473</td>
+      <td>498</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>435</td>
+      <td>449</td>
+      <td>499</td>
+      <td>513</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>450</td>
+      <td>480</td>
+      <td>514</td>
+      <td>544</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1073##pnas.1914446116
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6ol9">6OL9</a> — Chain A (7 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) crystallization |
-| Protein sample | M5-[T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) S117(3.39)R bound to [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/), reconstituted into 10:1 (wt/wt) [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/):[Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) in 1:1.5 wt/wt protein:lipid ratio
- |
-| Temperature | 20 degrees Celsius |
-| Growth time | Crystals appeared within 24 hours and grew to full size in 1-2 days |
-| Cryoprotection | Whole drops harvested using mesh grid loops and flash-frozen in liquid nitrogen |
-| Notes | For allosteric modulator cocrystallization, 2.5 mM modulator was added to purified protein and incubated on ice for 3 hours before LCP reconstitution. The ternary complex with 4B-C7/3-phth yielded crystals that grew to much larger size and diffracted to 2.55 A. Data collected at SPring-8 beamline BL32XU and Australian Synchrotron MX2 beamline. Structure solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) using M5-mTAL (PDB 4U15) as search model for receptor and [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) ensemble for T4 lysozyme. Refinement performed with Phenix.
- |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">GAPLERH</span><span class="topo-outside">RLWE</span><span class="topo-membrane">VITIAAVTAVVSLITIVGNVLVMISFKV</span><span class="topo-inside">NSQLKTVN</span><span class="topo-membrane">NYYLLSLACADLI</span></span>
+<span class="topo-line"><span class="topo-membrane">IGIFSMNLYTTYI</span><span class="topo-outside">LMGRWALGSLA</span><span class="topo-membrane">CDLWLALDYVASNARVMNLLVISFD</span><span class="topo-inside">RYFSITRPLTY</span></span>
+<span class="topo-line"><span class="topo-inside">RAKRTP</span><span class="topo-membrane">KRAGIMIGLAWLISFILWAPAILCW</span><span class="topo-outside">QYLVGKRTVPLDECQIQF</span><span class="topo-membrane">LSEPTITFGTA</span></span>
+<span class="topo-line"><span class="topo-membrane">IAAFYIPVSVMTILYC</span><span class="topo-inside">RIYRETEKRTNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHL</span><span class="topo-unknown">LTK</span></span>
+<span class="topo-line"><span class="topo-unknown">SPSLNAAKSELDKAIGRNCNGVI</span><span class="topo-inside">TKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVR</span></span>
+<span class="topo-line"><span class="topo-inside">RAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRT</span></span>
+<span class="topo-line"><span class="topo-inside">GTWDAYRVVLVKERKAAQT</span><span class="topo-membrane">LSAILLAFIITWTPYNIMVLVSTFC</span><span class="topo-outside">DKCV</span><span class="topo-membrane">PVTLWHLGYWLC</span></span>
+<span class="topo-line"><span class="topo-membrane">YVNSTVNPICYALC</span><span class="topo-inside">NRTFRKTFKMLLLCR</span><span class="topo-unknown">WKKKKVEEKLYWQGNSKLPSSHHHHHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>7</td>
+      <td>19</td>
+      <td>25</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>11</td>
+      <td>26</td>
+      <td>29</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>39</td>
+      <td>30</td>
+      <td>57</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>40</td>
+      <td>47</td>
+      <td>58</td>
+      <td>65</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>73</td>
+      <td>66</td>
+      <td>91</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>84</td>
+      <td>92</td>
+      <td>102</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>109</td>
+      <td>103</td>
+      <td>127</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>110</td>
+      <td>126</td>
+      <td>128</td>
+      <td>144</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>127</td>
+      <td>151</td>
+      <td>145</td>
+      <td>169</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>152</td>
+      <td>169</td>
+      <td>170</td>
+      <td>187</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>170</td>
+      <td>196</td>
+      <td>188</td>
+      <td>214</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>197</td>
+      <td>206</td>
+      <td>215</td>
+      <td>224</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>207</td>
+      <td>237</td>
+      <td>1001</td>
+      <td>1031</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>238</td>
+      <td>263</td>
+      <td>1032</td>
+      <td>1057</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>264</td>
+      <td>366</td>
+      <td>1058</td>
+      <td>1160</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>367</td>
+      <td>379</td>
+      <td>431</td>
+      <td>443</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>380</td>
+      <td>404</td>
+      <td>444</td>
+      <td>468</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>405</td>
+      <td>408</td>
+      <td>469</td>
+      <td>472</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>409</td>
+      <td>434</td>
+      <td>473</td>
+      <td>498</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>435</td>
+      <td>449</td>
+      <td>499</td>
+      <td>513</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>450</td>
+      <td>480</td>
+      <td>514</td>
+      <td>544</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
 
 ## Biological / Functional Insights
 
@@ -75,13 +494,13 @@ Comparison of the M2 and M5 extracellular vestibules (ECV) revealed major differ
 
 ## Cross-References
 
-- [M1 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m1-muscarinic-acetylcholine-receptor/) — Related muscarinic receptor subtype; compared in M5 structural study
-- [Human M2 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m2-muscarinic-acetylcholine-receptor/) — Related muscarinic receptor subtype; used for ECL chimeric swaps and kinetic selectivity studies
-- [M3 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m3-muscarinic-acetylcholine-receptor/) — Related muscarinic receptor subtype; M5 structure solved using M3-mTAL (PDB 4U15) as molecular replacement search model
-- [Human M4 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m4-muscarinic-acetylcholine-receptor/) — Related muscarinic receptor subtype; compared in M5 structural study
-- [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/) — Inverse agonist co-crystallized with M5 receptor (PDB 6OL9)
-- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method for M5 structure determination
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
-- [Ammonium Tartrate](/xray-mp-wiki/reagents/additives/ammonium-tartrate/) — Additive used in purification or crystallization buffers
-- [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers
-- [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/) — Related ligand or cofactor
+- <a href="/xray-mp-wiki/proteins/gpcr/m1-muscarinic-acetylcholine-receptor/">M1 Muscarinic Acetylcholine Receptor</a> — Related muscarinic receptor subtype; compared in M5 structural study
+- <a href="/xray-mp-wiki/proteins/gpcr/m2-muscarinic-acetylcholine-receptor/">Human M2 Muscarinic Acetylcholine Receptor</a> — Related muscarinic receptor subtype; used for ECL chimeric swaps and kinetic selectivity studies
+- <a href="/xray-mp-wiki/proteins/gpcr/m3-muscarinic-acetylcholine-receptor/">M3 Muscarinic Acetylcholine Receptor</a> — Related muscarinic receptor subtype; M5 structure solved using M3-mTAL (PDB 4U15) as molecular replacement search model
+- <a href="/xray-mp-wiki/proteins/gpcr/m4-muscarinic-acetylcholine-receptor/">Human M4 Muscarinic Acetylcholine Receptor</a> — Related muscarinic receptor subtype; compared in M5 structural study
+- <a href="/xray-mp-wiki/reagents/ligands/tiotropium/">Tiotropium</a> — Inverse agonist co-crystallized with M5 receptor (PDB 6OL9)
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — Crystallization method for M5 structure determination
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/ammonium-tartrate/">Ammonium Tartrate</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/ligands/acetylcholine/">Acetylcholine</a> — Related ligand or cofactor

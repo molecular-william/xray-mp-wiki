@@ -1,12 +1,12 @@
 ---
 title: "MgtE (Magnesium Transport Channel)"
 created: 2026-06-08
-updated: 2026-06-16
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [ion-channel, membrane-protein, xray-crystallography]
-sources: [doi/10.1038##nature06093, doi/10.1038##s41467-017-00082-w, doi/10.1038##emboj.2009.288, doi/10.1038##ncomms6374]
+sources: [doi/10.1038##emboj.2009.288, doi/10.1038##ncomms6374]
 verified: false
 ---
 
@@ -31,59 +31,690 @@ ions via carboxylate groups of Asp432, in contrast to dehydrated K+ recognition
 by KcsA. Periplasmic M2 and M3 sites bind transition metal cations such as Mn2+
 and regulate channel gating.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##emboj.2009.288 | 2ZY9 | 2.94 | Not specified | Full-length Thermus thermophilus MgtE | Mg2+ ions (7 binding sites: Mg1-Mg7) |
-| doi/10.1038##ncomms6374 | 4U9L | 2.2 | P 2(1) 2(1) 2(1) | MgtE transmembrane domain (MgtE-TMD) from Thermus thermophilus | Mg2+, Mn2+, Ca2+ ions at M1 site; Mn2+ at M2, M2', M3 sites |
+### doi/10.1038##emboj.2009.288
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/2zy9">2ZY9</a></td>
+      <td>2.94</td>
+      <td>Not specified</td>
+      <td>Full-length Thermus thermophilus MgtE</td>
+      <td>Mg2+ ions (7 binding sites: Mg1-Mg7)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli
 - **Construct**: Full-length Thermus thermophilus MgtE with His6 tag in pET vector
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli
 - **Expression construct**: His6 tag
 - **Tag info**: His6 tag
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Solubilization and extraction</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>50 mM HEPES pH 7.0, 150 mM NaCl + 0.1% (w/v) n-dodecyl-beta-D-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
+      <td>Protein expressed and solubilized in <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> as described in Hattori et al., 2007</td>
+    </tr>
+    <tr>
+      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Ni-NTA (Qiagen)</td>
+      <td>50 mM HEPES pH 7.0, 150 mM NaCl + 0.25% (w/v) n-nonyl-beta-D-thiomaltoside (NTM)</td>
+      <td>Detergent exchanged from <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> to NTM during purification. Wash with 50 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, elute with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>SEC</td>
+      <td>HiLoad 16/60 <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
+      <td>20 mM HEPES pH 7.0, 150 mM NaCl + 0.25% (w/v) NTM</td>
+      <td>Final purification step</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Solubilization and extraction | Detergent solubilization | -- | 50 mM HEPES pH 7.0, 150 mM NaCl + 0.1% (w/v) n-dodecyl-beta-D-maltoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) | Protein expressed and solubilized in [DDM](/xray-mp-wiki/reagents/detergents/ddm/) as described in Hattori et al., 2007 |
-| Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA (Qiagen) | 50 mM HEPES pH 7.0, 150 mM NaCl + 0.25% (w/v) n-nonyl-beta-D-thiomaltoside (NTM) | Detergent exchanged from [DDM](/xray-mp-wiki/reagents/detergents/ddm/) to NTM during purification. Wash with 50 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), elute with 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
-| Size-exclusion chromatography | SEC | HiLoad 16/60 [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | 20 mM HEPES pH 7.0, 150 mM NaCl + 0.25% (w/v) NTM | Final purification step |
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified full-length MgtE in NTM at ~10 mg/ml</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>7-9% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 4000, 0.2 M MgCl2, 0.1 M MES pH 6.5</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>9% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 4000, 0.2 M MgCl2, 0.1 M MES pH 6.5, 30% <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a></td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>New crystal form obtained by extensive detergent screening. Co2+-soaked crystals used for anomalous signal to confirm Mg2+-binding sites. Structure determined at 2.94 A resolution, improved from earlier 3.5 A structure.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-## Crystallization
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2zy9">2ZY9</a> — Chain A (5 TMs, alpha)**
 
-### doi/10.1038##emboj.2009.288
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLGVLPGGPLHMEEKLAVSLQEALQEGDTRALR</span><span class="topo-inside">EVLEEIHPQDLLALW</span></span>
+<span class="topo-line"><span class="topo-inside">DELKGEHRYVVLTLLPKAKAAEVLSHLSPEEQAEYLKTLPPWRLREILEELSLDDLADAL</span></span>
+<span class="topo-line"><span class="topo-inside">QAVRKEDPAYFQRLKDLLDPRTRAEVEALARYEEDEAGGLMTPEYVAVREGMTVEEVLRF</span></span>
+<span class="topo-line"><span class="topo-inside">LRRAAPDAETIYYIYVVDEKGRLKGVLSLRDLIVADPRTRVAEIMNPKVVYVRTDTDQEE</span></span>
+<span class="topo-line"><span class="topo-inside">VARLMADYDFTVLPVVDEEGRLVGIVTVDDVLDVLEAEATEDIHKLGAVDVPDLVYSEAG</span></span>
+<span class="topo-line"><span class="topo-inside">PVAL</span><span class="topo-membrane">WLARVRWLVILILTGMVTSSILQG</span><span class="topo-outside">F</span><span class="topo-unknown">ESVLEA</span><span class="topo-outside">VTAL</span><span class="topo-membrane">AFYVPVLLGTGGNTGNQSA</span><span class="topo-inside">TL</span></span>
+<span class="topo-line"><span class="topo-inside">IIRALATRDLDLRDWRRVF</span><span class="topo-membrane">LKEMGVGLLLGLTLSFLLVGKVYWD</span><span class="topo-outside">GHPLL</span><span class="topo-membrane">LPVVGVSLVLI</span></span>
+<span class="topo-line"><span class="topo-membrane">VFFANLVGAML</span><span class="topo-unknown">PFLLRRL</span><span class="topo-inside">GVDPAL</span><span class="topo-membrane">VSNPLVATLSDVTGLLIYLSVA</span><span class="topo-outside">RLLLEA</span><span class="topo-unknown">V</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>45</td>
+      <td>-22</td>
+      <td>22</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>46</td>
+      <td>304</td>
+      <td>23</td>
+      <td>281</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>305</td>
+      <td>328</td>
+      <td>282</td>
+      <td>305</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>329</td>
+      <td>329</td>
+      <td>306</td>
+      <td>306</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>330</td>
+      <td>335</td>
+      <td>307</td>
+      <td>312</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>336</td>
+      <td>339</td>
+      <td>313</td>
+      <td>316</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>340</td>
+      <td>358</td>
+      <td>317</td>
+      <td>335</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>359</td>
+      <td>379</td>
+      <td>336</td>
+      <td>356</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>380</td>
+      <td>404</td>
+      <td>357</td>
+      <td>381</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>405</td>
+      <td>409</td>
+      <td>382</td>
+      <td>386</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>410</td>
+      <td>431</td>
+      <td>387</td>
+      <td>408</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>432</td>
+      <td>438</td>
+      <td>409</td>
+      <td>415</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>439</td>
+      <td>444</td>
+      <td>416</td>
+      <td>421</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>445</td>
+      <td>466</td>
+      <td>422</td>
+      <td>443</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>467</td>
+      <td>472</td>
+      <td>444</td>
+      <td>449</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>473</td>
+      <td>473</td>
+      <td>450</td>
+      <td>450</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | Purified full-length MgtE in NTM at ~10 mg/ml |
-| Reservoir | 7-9% [PEG](/xray-mp-wiki/reagents/additives/peg/) 4000, 0.2 M MgCl2, 0.1 M MES pH 6.5 |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | 9% [PEG](/xray-mp-wiki/reagents/additives/peg/) 4000, 0.2 M MgCl2, 0.1 M MES pH 6.5, 30% [PEG400](/xray-mp-wiki/reagents/additives/peg-400/) |
-| Notes | New crystal form obtained by extensive detergent screening. Co2+-soaked crystals used for anomalous signal to confirm Mg2+-binding sites. Structure determined at 2.94 A resolution, improved from earlier 3.5 A structure. |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/2zy9">2ZY9</a> — Chain B (5 TMs, alpha)**
 
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLGVLPGGPLHMEEKLAVSLQEALQEGDTR</span><span class="topo-inside">ALREVLEEIHPQDLLALW</span></span>
+<span class="topo-line"><span class="topo-inside">DELKGEHRYVVLTLLPKAKAAEVLSHLSPEEQAEYLKTLPPWRLREILEELSLDDLADAL</span></span>
+<span class="topo-line"><span class="topo-inside">QAVRKEDPAYFQRLKDLLDPRTRAEVEALARYEEDEAGGLMTPEYVAVREGMTVEEVLRF</span></span>
+<span class="topo-line"><span class="topo-inside">LRRAAPDAETIYYIYVVDEKGRLKGVLSLRDLIVADPRTRVAEIMNPKVVYVRTDTDQEE</span></span>
+<span class="topo-line"><span class="topo-inside">VARLMADYDFTVLPVVDEEGRLVGIVTVDDVLDVLEAEATEDIHKLGAVDVPDLVYSEAG</span></span>
+<span class="topo-line"><span class="topo-inside">PVAL</span><span class="topo-membrane">WLARVRWLVILILTGMVTSSILQG</span><span class="topo-outside">FESVLEAVTAL</span><span class="topo-membrane">AFYVPVLLGTGGNTGNQSA</span><span class="topo-inside">TL</span></span>
+<span class="topo-line"><span class="topo-inside">IIRALATRDLDLRDWRRV</span><span class="topo-membrane">FLKEMGVGLLLGLTLSFLLVGKVYWD</span><span class="topo-outside">GHPLLL</span><span class="topo-membrane">PVVGVSLVLI</span></span>
+<span class="topo-line"><span class="topo-membrane">VFFANLVGAMLP</span><span class="topo-inside">FLLRRLGVDPAL</span><span class="topo-membrane">VSNPLVATLSDVTGLLIYLSVA</span><span class="topo-outside">RLLLE</span><span class="topo-unknown">AV</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>42</td>
+      <td>-22</td>
+      <td>19</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>304</td>
+      <td>20</td>
+      <td>281</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>305</td>
+      <td>328</td>
+      <td>282</td>
+      <td>305</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>329</td>
+      <td>339</td>
+      <td>306</td>
+      <td>316</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>340</td>
+      <td>358</td>
+      <td>317</td>
+      <td>335</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>359</td>
+      <td>378</td>
+      <td>336</td>
+      <td>355</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>379</td>
+      <td>404</td>
+      <td>356</td>
+      <td>381</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>405</td>
+      <td>410</td>
+      <td>382</td>
+      <td>387</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>411</td>
+      <td>432</td>
+      <td>388</td>
+      <td>409</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>433</td>
+      <td>444</td>
+      <td>410</td>
+      <td>421</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>445</td>
+      <td>466</td>
+      <td>422</td>
+      <td>443</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>467</td>
+      <td>471</td>
+      <td>444</td>
+      <td>448</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>472</td>
+      <td>473</td>
+      <td>449</td>
+      <td>450</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 ### doi/10.1038##ncomms6374
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | Purified MgtE-TMD after TEV cleavage, in 0.1% DDM |
-| Reservoir | Not specified in detail |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | MgtE-TMD crystals obtained after TEV protease cleavage of the loop connecting cytosolic and TM domains. Three data sets collected: Mg2+-bound (2.2 A), Mn2+-bound (2.2 A native, 2.84 A anomalous), and Ca2+-bound (3.2 A). |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4u9l">4U9L</a></td>
+      <td>2.2</td>
+      <td>P 2(1) 2(1) 2(1)</td>
+      <td>MgtE transmembrane domain (MgtE-TMD) from Thermus thermophilus</td>
+      <td>Mg2+, Mn2+, Ca2+ ions at M1 site; Mn2+ at M2, M2', M3 sites</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Escherichia coli
+- **Construct**: Full-length Thermus thermophilus MgtE with His6 tag in pET vector
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified MgtE-TMD after TEV cleavage, in 0.1% DDM</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not specified in detail</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>MgtE-TMD crystals obtained after TEV protease cleavage of the loop connecting cytosolic and TM domains. Three data sets collected: Mg2+-bound (2.2 A), Mn2+-bound (2.2 A native, 2.84 A anomalous), and Ca2+-bound (3.2 A).</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4u9l">4U9L</a> — Chain A (5 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">LVYSEAGPVALW</span><span class="topo-membrane">LARVRWLVILILTGMVTSSILQG</span><span class="topo-outside">F</span><span class="topo-unknown">ESVLEA</span><span class="topo-outside">VTAL</span><span class="topo-membrane">AFYVPVLLGTGGNT</span></span>
+<span class="topo-line"><span class="topo-membrane">GNQSATL</span><span class="topo-inside">IIRALATRDLDLRDW</span><span class="topo-membrane">RRVFLKEMGVGLLLGLTLSFLLVGKVYWD</span><span class="topo-outside">GHPLL</span><span class="topo-membrane">LPVV</span></span>
+<span class="topo-line"><span class="topo-membrane">GVSLVLIVFFANLVGAMLPFLL</span><span class="topo-inside">RRLGVDP</span><span class="topo-membrane">ALVSNPLVATLSDVTGLLIYLSVA</span><span class="topo-outside">RLLLEA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>12</td>
+      <td>271</td>
+      <td>282</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>35</td>
+      <td>283</td>
+      <td>305</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>36</td>
+      <td>306</td>
+      <td>306</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>42</td>
+      <td>307</td>
+      <td>312</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>46</td>
+      <td>313</td>
+      <td>316</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>67</td>
+      <td>317</td>
+      <td>337</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>82</td>
+      <td>338</td>
+      <td>352</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>111</td>
+      <td>353</td>
+      <td>381</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>112</td>
+      <td>116</td>
+      <td>382</td>
+      <td>386</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>117</td>
+      <td>142</td>
+      <td>387</td>
+      <td>412</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>149</td>
+      <td>413</td>
+      <td>419</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>150</td>
+      <td>173</td>
+      <td>420</td>
+      <td>443</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>174</td>
+      <td>179</td>
+      <td>444</td>
+      <td>449</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4u9l">4U9L</a> — Chain B (5 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">LVYSEAG</span><span class="topo-membrane">PVALWLARVRWLVILILTGMVTSSILQG</span><span class="topo-outside">F</span><span class="topo-unknown">ESVLEA</span><span class="topo-outside">VTALA</span><span class="topo-membrane">FYVPVLLGTGGNT</span></span>
+<span class="topo-line"><span class="topo-membrane">GNQSATLI</span><span class="topo-inside">IRALATRDLDLRDW</span><span class="topo-membrane">RRVFLKEMGVGLLLGLTLSFLLVGKVYWD</span><span class="topo-outside">GHPLLL</span><span class="topo-membrane">PVV</span></span>
+<span class="topo-line"><span class="topo-membrane">GVSLVLIVFFANLVGAMLPFLL</span><span class="topo-inside">RRLGVDPAL</span><span class="topo-membrane">VSNPLVATLSDVTGLLIYLSVA</span><span class="topo-outside">RLLLE</span><span class="topo-unknown">A</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>7</td>
+      <td>271</td>
+      <td>277</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>35</td>
+      <td>278</td>
+      <td>305</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>36</td>
+      <td>306</td>
+      <td>306</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>42</td>
+      <td>307</td>
+      <td>312</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>47</td>
+      <td>313</td>
+      <td>317</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>68</td>
+      <td>318</td>
+      <td>338</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>82</td>
+      <td>339</td>
+      <td>352</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>111</td>
+      <td>353</td>
+      <td>381</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>112</td>
+      <td>117</td>
+      <td>382</td>
+      <td>387</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>118</td>
+      <td>142</td>
+      <td>388</td>
+      <td>412</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>151</td>
+      <td>413</td>
+      <td>421</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>152</td>
+      <td>173</td>
+      <td>422</td>
+      <td>443</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>174</td>
+      <td>178</td>
+      <td>444</td>
+      <td>448</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -114,13 +745,13 @@ Three periplasmic metal-binding sites (M2, M2', M3) were identified in the Mn2+-
 
 ## Cross-References
 
-- [CorA Mg2+ Channel](/xray-mp-wiki/proteins/corA/) — Functional homolog also involved in bacterial Mg2+ transport
-- [Magnesium Homeostasis](/xray-mp-wiki/concepts/magnesium-homeostasis/) — MgtE directly participates in cellular Mg2+ homeostasis
-- [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for protein extraction
-- [NTM (n-Nonyl-beta-D-Thiomaltoside)](/xray-mp-wiki/reagents/detergents/ntm/) — Detergent used for crystallization
-- [Vapor Diffusion Crystallization](/xray-mp-wiki/methods/crystallization/vapor-diffusion/) — Crystallization method used for MgtE
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers
-- [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers
-- [PEG400](/xray-mp-wiki/reagents/additives/peg-400/) — Additive used in purification or crystallization buffers
-- [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/proteins/corA/">CorA Mg2+ Channel</a> — Functional homolog also involved in bacterial Mg2+ transport
+- <a href="/xray-mp-wiki/concepts/magnesium-homeostasis/">Magnesium Homeostasis</a> — MgtE directly participates in cellular Mg2+ homeostasis
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> — Detergent used for protein extraction
+- <a href="/xray-mp-wiki/reagents/detergents/ntm/">NTM (n-Nonyl-beta-D-Thiomaltoside)</a> — Detergent used for crystallization
+- <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">Vapor Diffusion Crystallization</a> — Crystallization method used for MgtE
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> — Additive used in purification or crystallization buffers

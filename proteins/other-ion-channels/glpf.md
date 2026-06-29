@@ -1,12 +1,12 @@
 ---
 title: "GlpF (Glycerol Facilitator from E. coli)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
-sources: [doi/10.1038##414872a, doi/10.1126##science.1067778, doi/10.1126##science.290.5491.481, doi/10.1126##science.290.5497.481]
+sources: [doi/10.1126##science.1067778, doi/10.1126##science.290.5491.481]
 verified: false
 ---
 
@@ -31,63 +31,797 @@ the conserved NPA (Asn-Pro-Ala) motifs and helix dipoles establish a
 bipolar water orientation that blocks proton conduction.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1126##science.1067778 | 1FX8 | 2.2 | — | Full-length GlpF ([Glycerol](/xray-mp-wiki/reagents/additives/glycerol/)-bound, GlpF+G) | [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) |
+### doi/10.1126##science.1067778
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/1fx8">1FX8</a></td>
+      <td>2.2</td>
+      <td>—</td>
+      <td>Full-length GlpF (<a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>-bound, GlpF+G)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli
 - **Notes**: Overexpressed, purified, and crystallized as described in Fu et al. (2000) (PDB 1FX8)
 
-### Purification Workflow
+**Purification:**
 
-#### Source: doi/10.1126##science.290.5491.481
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Overexpression and purification</td>
+      <td>As described in Fu et al. (2000)</td>
+      <td>—</td>
+      <td></td>
+      <td>Purification protocol for GlpF from E. coli as previously established</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">Vapor diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>15% (w/w) <a href="/xray-mp-wiki/reagents/additives/d-xylose/">xylose</a> (for GlpF-G) or 15% (w/w) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> (for GlpF+G)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>100 K (cryo)</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown in space group I422, isomorphous to crystals previously grown in 15% (w/w) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> (PDB 1FX8). Xylose was used as a non-transported substrate replacement for <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> to obtain the water-bound form.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1fx8">1FX8</a> — Chain A (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MSQTS</span><span class="topo-outside">TLKGQ</span><span class="topo-membrane">CIAEFLGTGLLIFFGVGC</span><span class="topo-inside">VAALKVAGASFGQW</span><span class="topo-membrane">EISVIWGLGVAMAIYLTA</span></span>
+<span class="topo-line"><span class="topo-outside">GVS</span><span class="topo-unknown">GAHLNPAVTIALWLF</span><span class="topo-outside">ACFDKRK</span><span class="topo-membrane">VIPFIVSQVAGAFCAAALV</span><span class="topo-inside">YGLYYNLFFDFEQTHH</span></span>
+<span class="topo-line"><span class="topo-inside">IVRGSVESVDLAGTFSTYPNPHINFVQA</span><span class="topo-membrane">FAVEMVITAILMGLILALT</span><span class="topo-outside">DDGNGVPRGPL</span><span class="topo-membrane">AP</span></span>
+<span class="topo-line"><span class="topo-membrane">LLIGLLIAVIGASMG</span><span class="topo-inside">PLT</span><span class="topo-unknown">GFAMNPARDFGPKVF</span><span class="topo-inside">AWLAGWGNVAFTGGRDIPYF</span><span class="topo-membrane">LVPLFGP</span></span>
+<span class="topo-line"><span class="topo-membrane">IVGAIVGAFAYRKLI</span><span class="topo-outside">GRHL</span><span class="topo-unknown">PCDICVVEEKETTTPSEQKASL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>1</td>
+      <td>5</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>10</td>
+      <td>6</td>
+      <td>10</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>28</td>
+      <td>11</td>
+      <td>28</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>42</td>
+      <td>29</td>
+      <td>42</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>60</td>
+      <td>43</td>
+      <td>60</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>63</td>
+      <td>61</td>
+      <td>63</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>78</td>
+      <td>64</td>
+      <td>78</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>85</td>
+      <td>79</td>
+      <td>85</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>104</td>
+      <td>86</td>
+      <td>104</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>148</td>
+      <td>105</td>
+      <td>148</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>167</td>
+      <td>149</td>
+      <td>167</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>168</td>
+      <td>178</td>
+      <td>168</td>
+      <td>178</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>179</td>
+      <td>195</td>
+      <td>179</td>
+      <td>195</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>196</td>
+      <td>198</td>
+      <td>196</td>
+      <td>198</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>213</td>
+      <td>199</td>
+      <td>213</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>233</td>
+      <td>214</td>
+      <td>233</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>234</td>
+      <td>255</td>
+      <td>234</td>
+      <td>255</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>256</td>
+      <td>259</td>
+      <td>256</td>
+      <td>259</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>260</td>
+      <td>281</td>
+      <td>260</td>
+      <td>281</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1fx8">1FX8</a> — Chain B (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MSQTS</span><span class="topo-outside">TLKGQ</span><span class="topo-membrane">CIAEFLGTGLLIFFGVGC</span><span class="topo-inside">VAALKVAGASFGQW</span><span class="topo-membrane">EISVIWGLGVAMAIYLTA</span></span>
+<span class="topo-line"><span class="topo-outside">GVS</span><span class="topo-unknown">GAHLNPAVTIALWLF</span><span class="topo-outside">ACFDKRK</span><span class="topo-membrane">VIPFIVSQVAGAFCAAALV</span><span class="topo-inside">YGLYYNLFFDFEQTHH</span></span>
+<span class="topo-line"><span class="topo-inside">IVRGSVESVDLAGTFSTYPNPHINFVQA</span><span class="topo-membrane">FAVEMVITAILMGLILALT</span><span class="topo-outside">DDGNGVPRGPL</span><span class="topo-membrane">AP</span></span>
+<span class="topo-line"><span class="topo-membrane">LLIGLLIAVIGASMG</span><span class="topo-inside">PLT</span><span class="topo-unknown">GFAMNPARDFGPKVF</span><span class="topo-inside">AWLAGWGNVAFTGGRDIPYF</span><span class="topo-membrane">LVPLFGP</span></span>
+<span class="topo-line"><span class="topo-membrane">IVGAIVGAFAYRKLI</span><span class="topo-outside">GRHL</span><span class="topo-unknown">PCDICVVEEKETTTPSEQKASL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>1</td>
+      <td>5</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>10</td>
+      <td>6</td>
+      <td>10</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>28</td>
+      <td>11</td>
+      <td>28</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>42</td>
+      <td>29</td>
+      <td>42</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>60</td>
+      <td>43</td>
+      <td>60</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>63</td>
+      <td>61</td>
+      <td>63</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>78</td>
+      <td>64</td>
+      <td>78</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>85</td>
+      <td>79</td>
+      <td>85</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>104</td>
+      <td>86</td>
+      <td>104</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>148</td>
+      <td>105</td>
+      <td>148</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>167</td>
+      <td>149</td>
+      <td>167</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>168</td>
+      <td>178</td>
+      <td>168</td>
+      <td>178</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>179</td>
+      <td>195</td>
+      <td>179</td>
+      <td>195</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>196</td>
+      <td>198</td>
+      <td>196</td>
+      <td>198</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>213</td>
+      <td>199</td>
+      <td>213</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>233</td>
+      <td>214</td>
+      <td>233</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>234</td>
+      <td>255</td>
+      <td>234</td>
+      <td>255</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>256</td>
+      <td>259</td>
+      <td>256</td>
+      <td>259</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>260</td>
+      <td>281</td>
+      <td>260</td>
+      <td>281</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1fx8">1FX8</a> — Chain C (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MSQTS</span><span class="topo-outside">TLKGQ</span><span class="topo-membrane">CIAEFLGTGLLIFFGVGC</span><span class="topo-inside">VAALKVAGASFGQW</span><span class="topo-membrane">EISVIWGLGVAMAIYLTA</span></span>
+<span class="topo-line"><span class="topo-outside">GVS</span><span class="topo-unknown">GAHLNPAVTIALWLF</span><span class="topo-outside">ACFDKRK</span><span class="topo-membrane">VIPFIVSQVAGAFCAAALV</span><span class="topo-inside">YGLYYNLFFDFEQTHH</span></span>
+<span class="topo-line"><span class="topo-inside">IVRGSVESVDLAGTFSTYPNPHINFVQA</span><span class="topo-membrane">FAVEMVITAILMGLILALT</span><span class="topo-outside">DDGNGVPRGPL</span><span class="topo-membrane">AP</span></span>
+<span class="topo-line"><span class="topo-membrane">LLIGLLIAVIGASMG</span><span class="topo-inside">PLT</span><span class="topo-unknown">GFAMNPARDFGPKVF</span><span class="topo-inside">AWLAGWGNVAFTGGRDIPYF</span><span class="topo-membrane">LVPLFGP</span></span>
+<span class="topo-line"><span class="topo-membrane">IVGAIVGAFAYRKLI</span><span class="topo-outside">GRHL</span><span class="topo-unknown">PCDICVVEEKETTTPSEQKASL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>1</td>
+      <td>5</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>10</td>
+      <td>6</td>
+      <td>10</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>28</td>
+      <td>11</td>
+      <td>28</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>42</td>
+      <td>29</td>
+      <td>42</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>60</td>
+      <td>43</td>
+      <td>60</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>63</td>
+      <td>61</td>
+      <td>63</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>78</td>
+      <td>64</td>
+      <td>78</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>85</td>
+      <td>79</td>
+      <td>85</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>104</td>
+      <td>86</td>
+      <td>104</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>148</td>
+      <td>105</td>
+      <td>148</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>167</td>
+      <td>149</td>
+      <td>167</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>168</td>
+      <td>178</td>
+      <td>168</td>
+      <td>178</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>179</td>
+      <td>195</td>
+      <td>179</td>
+      <td>195</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>196</td>
+      <td>198</td>
+      <td>196</td>
+      <td>198</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>213</td>
+      <td>199</td>
+      <td>213</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>233</td>
+      <td>214</td>
+      <td>233</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>234</td>
+      <td>255</td>
+      <td>234</td>
+      <td>255</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>256</td>
+      <td>259</td>
+      <td>256</td>
+      <td>259</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>260</td>
+      <td>281</td>
+      <td>260</td>
+      <td>281</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/1fx8">1FX8</a> — Chain D (6 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MSQTS</span><span class="topo-outside">TLKGQ</span><span class="topo-membrane">CIAEFLGTGLLIFFGVGC</span><span class="topo-inside">VAALKVAGASFGQW</span><span class="topo-membrane">EISVIWGLGVAMAIYLTA</span></span>
+<span class="topo-line"><span class="topo-outside">GVS</span><span class="topo-unknown">GAHLNPAVTIALWLF</span><span class="topo-outside">ACFDKRK</span><span class="topo-membrane">VIPFIVSQVAGAFCAAALV</span><span class="topo-inside">YGLYYNLFFDFEQTHH</span></span>
+<span class="topo-line"><span class="topo-inside">IVRGSVESVDLAGTFSTYPNPHINFVQA</span><span class="topo-membrane">FAVEMVITAILMGLILALT</span><span class="topo-outside">DDGNGVPRGPL</span><span class="topo-membrane">AP</span></span>
+<span class="topo-line"><span class="topo-membrane">LLIGLLIAVIGASMG</span><span class="topo-inside">PLT</span><span class="topo-unknown">GFAMNPARDFGPKVF</span><span class="topo-inside">AWLAGWGNVAFTGGRDIPYF</span><span class="topo-membrane">LVPLFGP</span></span>
+<span class="topo-line"><span class="topo-membrane">IVGAIVGAFAYRKLI</span><span class="topo-outside">GRHL</span><span class="topo-unknown">PCDICVVEEKETTTPSEQKASL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>1</td>
+      <td>5</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>10</td>
+      <td>6</td>
+      <td>10</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>11</td>
+      <td>28</td>
+      <td>11</td>
+      <td>28</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>42</td>
+      <td>29</td>
+      <td>42</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>60</td>
+      <td>43</td>
+      <td>60</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>61</td>
+      <td>63</td>
+      <td>61</td>
+      <td>63</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>64</td>
+      <td>78</td>
+      <td>64</td>
+      <td>78</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>85</td>
+      <td>79</td>
+      <td>85</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>86</td>
+      <td>104</td>
+      <td>86</td>
+      <td>104</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>148</td>
+      <td>105</td>
+      <td>148</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>167</td>
+      <td>149</td>
+      <td>167</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>168</td>
+      <td>178</td>
+      <td>168</td>
+      <td>178</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>179</td>
+      <td>195</td>
+      <td>179</td>
+      <td>195</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>196</td>
+      <td>198</td>
+      <td>196</td>
+      <td>198</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>199</td>
+      <td>213</td>
+      <td>199</td>
+      <td>213</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>214</td>
+      <td>233</td>
+      <td>214</td>
+      <td>233</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>234</td>
+      <td>255</td>
+      <td>234</td>
+      <td>255</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>256</td>
+      <td>259</td>
+      <td>256</td>
+      <td>259</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>260</td>
+      <td>281</td>
+      <td>260</td>
+      <td>281</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
+### doi/10.1126##science.290.5491.481
+
+**Expression:**
+
+- **Expression system**: E. coli
+- **Notes**: Overexpressed, purified, and crystallized as described in Fu et al. (2000) (PDB 1FX8)
+
+**Purification:**
 
 - **Expression system**: E. coli K12
 - **Expression construct**: GlpF with N-terminal [His6 Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) and thrombin cleavage site
 - **Tag info**: [His6 Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/), removed by thrombin cleavage
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Nickel affinity chromatography | Affinity chromatography | Ni-NTA |  | [His6 Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) purification |
-| Size-exclusion chromatography | SEC | — |  | Purified by SEC after nickel affinity |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Nickel affinity chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a></td>
+      <td></td>
+      <td><a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His6 Tag</a> purification</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>SEC</td>
+      <td>—</td>
+      <td></td>
+      <td>Purified by SEC after nickel affinity</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: 15-20 mg/ml in crystallization buffer
 
-#### Source: doi/10.1126##science.1067778
+**Crystallization:**
 
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Overexpression and purification | As described in Fu et al. (2000) | — |  | Purification protocol for GlpF from E. coli as previously established |
-
-
-## Crystallization
-
-### doi/10.1126##science.290.5491.481
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Reservoir | 28% (w/v) [Peg](/xray-mp-wiki/reagents/additives/peg/) 2000, 100 mM [Bicine](/xray-mp-wiki/reagents/buffers/bicine/), 15% (v/v) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 35 mM [[OG](/xray-mp-wiki/reagents/detergents/og/)](/xray-mp-wiki/reagents/n-octyl-beta-d-glucoside/), 300 mM MgCl2, 5 mM DTT |
-| Temperature | 100 K (cryo) |
-
-### doi/10.1126##science.1067778
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Reservoir | 15% (w/w) xylose (for GlpF-G) or 15% (w/w) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) (for GlpF+G) |
-| Temperature | 100 K (cryo) |
-| Notes | Crystals grown in space group I422, isomorphous to crystals previously grown in 15% (w/w) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) (PDB 1FX8). Xylose was used as a non-transported substrate replacement for [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) to obtain the water-bound form. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>28% (w/v) <a href="/xray-mp-wiki/reagents/additives/peg/">Peg</a> 2000, 100 mM <a href="/xray-mp-wiki/reagents/buffers/bicine/">Bicine</a>, 15% (v/v) <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 35 mM <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a>, 300 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">MgCl₂</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">[DTT</a>](/xray-mp-wiki/reagents/additives/dtt/)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>100 K (cryo)</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -114,15 +848,15 @@ The selectivity filter (SF) region of GlpF shows low water occupancy in both cry
 
 ## Cross-References
 
-- [Aquaporin](/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/) — GlpF is a member of the aquaporin superfamily; the proton exclusion mechanism described here applies to the entire AQP family
-- [Aquaporin Z (AqpZ)](/xray-mp-wiki/proteins/other-ion-channels/aquaporin-z/) — Related aquaporin water channel from E. coli; same superfamily as GlpF
-- [Human Aquaporin 2](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-2/) — Human homolog in the aquaporin family; same NPA motif mechanism
-- [Human Aquaporin 4](/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-4/) — Human homolog in the aquaporin family; conserved NPA motif and bipolar water orientation mechanism
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Referenced in glpf text
-- [His6 Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) — Referenced in glpf text
-- [Bicine](/xray-mp-wiki/reagents/buffers/bicine/) — Referenced in glpf text
-- [OG](/xray-mp-wiki/reagents/detergents/og/) — Referenced in glpf text
-- [Peg](/xray-mp-wiki/reagents/additives/peg/) — Referenced in glpf text
-- [Aquaporin-1 (AQP1)](/xray-mp-wiki/proteins/other-ion-channels/aqp1/) — Water-specific aquaporin used as structural comparison; AQP1 constriction region is narrower and more hydrophilic, excluding glycerol
-- [Glpf](/xray-mp-wiki/proteins/other-ion-channels/glpf/) — Referenced in glycerol-facilitator text
-- [Glycine](/xray-mp-wiki/reagents/buffers/glycine/) — Referenced in glycerol-facilitator text
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/aquaporin/">Aquaporin</a> — GlpF is a member of the aquaporin superfamily; the proton exclusion mechanism described here applies to the entire AQP family
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/aquaporin-z/">Aquaporin Z (AqpZ)</a> — Related aquaporin water channel from E. coli; same superfamily as GlpF
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-2/">Human Aquaporin 2</a> — Human homolog in the aquaporin family; same NPA motif mechanism
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/human-aquaporin-4/">Human Aquaporin 4</a> — Human homolog in the aquaporin family; conserved NPA motif and bipolar water orientation mechanism
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Referenced in glpf text
+- <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">His6 Tag</a> — Referenced in glpf text
+- <a href="/xray-mp-wiki/reagents/buffers/bicine/">Bicine</a> — Referenced in glpf text
+- <a href="/xray-mp-wiki/reagents/detergents/og/">OG</a> — Referenced in glpf text
+- <a href="/xray-mp-wiki/reagents/additives/peg/">Peg</a> — Referenced in glpf text
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/aqp1/">Aquaporin-1 (AQP1)</a> — Water-specific aquaporin used as structural comparison; AQP1 constriction region is narrower and more hydrophilic, excluding glycerol
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/glpf/">Glpf</a> — Referenced in glycerol-facilitator text
+- <a href="/xray-mp-wiki/reagents/buffers/glycine/">Glycine</a> — Referenced in glycerol-facilitator text

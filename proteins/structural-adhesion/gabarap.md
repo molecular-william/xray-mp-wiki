@@ -1,7 +1,7 @@
 ---
 title: "GABARAP (Gamma-aminobutyric Acid Receptor-Associated Protein)"
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -24,23 +24,37 @@ Alpha-helices followed by a ubiquitin-like core with a four-stranded Beta-sheet 
 complex was determined At 2.0 A resolution.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.2006997117 | 7BV6 | 2.0 |  | GABARAP In complex with [STX17](/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/) LIR SLC6 Substrate Recognition by the GMG Motif (residues 167-188) | none |
+### doi/10.1073##pnas.2006997117
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7bv6">7BV6</a></td>
+      <td>2.0</td>
+      <td></td>
+      <td>GABARAP In complex with <a href="/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/">STX17</a> LIR SLC6 Substrate Recognition by the GMG Motif (residues 167-188)</td>
+      <td>none</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli Signal Peptide Peptidase (SppA, Protease IV) (SppA, Protease IV) coli BL21(DE3)
 - **Construct**: Full-length Human GABARAP
 - **Notes**: Expressed with His6 or GST tags using In-house modified pET32a vectors. CpE-Induced Tight Junction Disassembly with 100 uM [IPTG (Isopropyl-beta-D-thiogalactopyranoside)](/xray-mp-wiki/reagents/additives/iptg/) (Isopropyl-beta-D-thiogalactopyranoside) (Isopropyl-beta-D-thiogalactopyranoside) (Isopropyl-beta-D-thiogalactopyranoside) At 16 C.
 
-No purification described.
-
-## Crystallization
-
-No crystallization described.
 
 ## Biological / Functional Insights
 
@@ -60,13 +74,13 @@ include: residue L55/F62 In GABARAP (providing Hydrophobic contacts with the C-t
 
 ## Cross-References
 
-- [Syntaxin17 (STX17)](/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/) — GABARAP binds STX17 LIR motif to regulate autophagic SNARE assembly
-- [Autophagic SNARE Fusion Mechanism](/xray-mp-wiki/concepts/construct-design/autophagic-snare-fusion-mechanism/) — GABARAP-mediated STX17 recruitment is a key step in autophagosome-lysosome fusion
-- [Two-Electrode Voltage Clamp (TEVC)](/xray-mp-wiki/methods/quality-assessment/two-electrode-voltage-clamp/) — Referenced in gabarap description
-- [beta-FOA (beta-Fuoxymorphamine)](/xray-mp-wiki/reagents/ligands/beta-foa/) — Referenced in gabarap description
-- [Polar Network in GPCR Activation](/xray-mp-wiki/concepts/signaling-receptors/polar-network-gpcr-activation/) — Referenced in gabarap description
-- [Structure-Based Design of Third-Generation Antipsychotics](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) — Referenced in gabarap description
-- [N-Terminal T4 Lysozyme Fusion for GPCR Crystallization](/xray-mp-wiki/concepts/signaling-receptors/n-terminal-t4-lysozyme-fusion/) — Referenced in gabarap description
-- [Gamma-Butyrobetaine (4-Trimethylaminobutyrate)](/xray-mp-wiki/reagents/ligands/gamma-butyrobetaine/) — Referenced in gabarap description
-- [Arabidopsis thaliana Sucrose Transporter SUC1](/xray-mp-wiki/proteins/mfs-transporters/at-suc1/) — Referenced in gabarap description
-- [Polyhistidine Tag (His6)](/xray-mp-wiki/reagents/protein-tags/his6-tag/) — Referenced in gabarap description
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/syntaxin17/">Syntaxin17 (STX17)</a> — GABARAP binds STX17 LIR motif to regulate autophagic SNARE assembly
+- <a href="/xray-mp-wiki/concepts/construct-design/autophagic-snare-fusion-mechanism/">Autophagic SNARE Fusion Mechanism</a> — GABARAP-mediated STX17 recruitment is a key step in autophagosome-lysosome fusion
+- <a href="/xray-mp-wiki/methods/quality-assessment/two-electrode-voltage-clamp/">Two-Electrode Voltage Clamp (TEVC)</a> — Referenced in gabarap description
+- <a href="/xray-mp-wiki/reagents/ligands/beta-foa/">beta-FOA (beta-Fuoxymorphamine)</a> — Referenced in gabarap description
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/polar-network-gpcr-activation/">Polar Network in GPCR Activation</a> — Referenced in gabarap description
+- <a href="/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/">Structure-Based Design of Third-Generation Antipsychotics</a> — Referenced in gabarap description
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/n-terminal-t4-lysozyme-fusion/">N-Terminal T4 Lysozyme Fusion for GPCR Crystallization</a> — Referenced in gabarap description
+- <a href="/xray-mp-wiki/reagents/ligands/gamma-butyrobetaine/">Gamma-Butyrobetaine (4-Trimethylaminobutyrate)</a> — Referenced in gabarap description
+- <a href="/xray-mp-wiki/proteins/mfs-transporters/at-suc1/">Arabidopsis thaliana Sucrose Transporter SUC1</a> — Referenced in gabarap description
+- <a href="/xray-mp-wiki/reagents/protein-tags/his6-tag/">Polyhistidine Tag (His6)</a> — Referenced in gabarap description

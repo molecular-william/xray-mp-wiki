@@ -1,7 +1,7 @@
 ---
 title: "Human Oxytocin Receptor (OTR)"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,41 +17,262 @@ verified: false
 The human oxytocin receptor (OTR) is a class A G protein-coupled receptor (GPCR) that mediates the physiological effects of the neuropeptide hormone oxytocin, including regulation of parturition, lactation, and socioemotional behaviors. OTR belongs to the neurohypophyseal receptor family along with the vasopressin receptors (V1aR, V1bR, V2R). The receptor exhibits strong dependence on allosteric modulators including [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) and Mg2+ for proper function. The first crystal structure of OTR was determined in complex with the nonpeptidic antagonist [Retosiban](/xray-mp-wiki/reagents/additives/retosiban/) at 3.2-A resolution using lipidic cubic phase (LCP) crystallization.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1126##sciadv.abb5419 | 6TPK | 3.2 |  | OTR_XTAL (PGS fusion, D153A/S224A, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/)) | [Retosiban](/xray-mp-wiki/reagents/additives/retosiban/) (antagonist), [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/), Mg2+ coordination site identified |
+### doi/10.1126##sciadv.abb5419
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6tpk">6TPK</a></td>
+      <td>3.2</td>
+      <td></td>
+      <td>OTR_XTAL (PGS fusion, D153A/S224A, C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a>)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/retosiban/">Retosiban</a> (antagonist), <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a>, Mg2+ coordination site identified</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Spodoptera frugiperda (Sf9) insect cells
 - **Construct**: OTR crystallization construct (OTR_XTAL) with PGS fusion in ICL3 (residues R232-L265 replaced), C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (residues 360-389), and D153A/S224A thermostabilizing mutations
 - **Notes**: SNAP tag and octahistidine affinity tag at N-terminus (removed by 3C protease and PNGase F after purification). Codon-optimized for Sf9.
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Solubilization</td>
+      <td>1% (w/v) <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.2% (w/v) <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> in 30 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10 mM KCl, 5 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">MgCl2</a></td>
+      <td>—</td>
+      <td>30 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10 mM KCl, 5 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">MgCl2</a></td>
+      <td>Membranes solubilized for 2.5 h at 4 C with 100 uM <a href="/xray-mp-wiki/reagents/additives/retosiban/">Retosiban</a> and <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">Iodoacetamide</a></td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> <a href="/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography/">IMAC</a> resin</td>
+      <td>—</td>
+      <td>Wash I: 50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10 mM <a href="/xray-mp-wiki/reagents/additives/magnesium-chloride/">MgCl2</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 8 mM <a href="/xray-mp-wiki/reagents/ligands/atp/">ATP</a>, 50 uM <a href="/xray-mp-wiki/reagents/additives/retosiban/">Retosiban</a>. Wash II: 50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 15 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 50 uM <a href="/xray-mp-wiki/reagents/additives/retosiban/">Retosiban</a></td>
+      <td>Elution: 50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 100 uM <a href="/xray-mp-wiki/reagents/additives/retosiban/">Retosiban</a></td>
+    </tr>
+    <tr>
+      <td>Desalting / tag removal</td>
+      <td>PD MiniTrap G-25 column</td>
+      <td>—</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/hepes/">Hepes</a> pH 7.5, 500 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">NaCl</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.006% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 100 uM <a href="/xray-mp-wiki/reagents/additives/retosiban/">Retosiban</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> removed, then treated with His-tagged 3C protease and PNGase F overnight to remove affinity tags and deglycosylate. Cleaved receptor collected as <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> flow-through.</td>
+    </tr>
+    <tr>
+      <td>Concentration</td>
+      <td>100-kDa MWCO Vivaspin 2 concentrator</td>
+      <td>—</td>
+      <td>Same as G25 buffer</td>
+      <td>Concentrated to ~70 mg/ml; typical yield ~0.8 mg per liter of expression volume</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Solubilization | 1% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.2% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) in 30 mM Hepes pH 7.5, 500 mM NaCl, 10 mM KCl, 5 mM MgCl2 | — | 30 mM Hepes pH 7.5, 500 mM NaCl, 10 mM KCl, 5 mM MgCl2 | Membranes solubilized for 2.5 h at 4 C with 100 uM [Retosiban](/xray-mp-wiki/reagents/additives/retosiban/) and [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC resin | — | Wash I: 50 mM Hepes pH 7.5, 500 mM NaCl, 10 mM MgCl2, 5 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.2% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 8 mM ATP, 50 uM [Retosiban](/xray-mp-wiki/reagents/additives/retosiban/). Wash II: 50 mM Hepes pH 7.5, 500 mM NaCl, 15 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 50 uM [Retosiban](/xray-mp-wiki/reagents/additives/retosiban/) | Elution: 50 mM Hepes pH 7.5, 500 mM NaCl, 250 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 100 uM [Retosiban](/xray-mp-wiki/reagents/additives/retosiban/) |
-| Desalting / tag removal | PD MiniTrap G-25 column | — | 50 mM Hepes pH 7.5, 500 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 100 uM [Retosiban](/xray-mp-wiki/reagents/additives/retosiban/) | [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) removed, then treated with His-tagged 3C protease and PNGase F overnight to remove affinity tags and deglycosylate. Cleaved receptor collected as Ni-NTA flow-through. |
-| Concentration | 100-kDa MWCO Vivaspin 2 concentrator | — | Same as G25 buffer | Concentrated to ~70 mg/ml; typical yield ~0.8 mg per liter of expression volume |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a>)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>16</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>OTR:<a href="/xray-mp-wiki/reagents/additives/retosiban/">Retosiban</a> complex (~70 mg/ml) mixed with molten <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> for <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> reconstitution. Strong electron density for <a href="/xray-mp-wiki/reagents/additives/retosiban/">Retosiban</a>, <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a>, and key interaction residues.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6tpk">6TPK</a> — Chain A (7 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">NEA</span><span class="topo-membrane">LARVEVAVLCLILLLALSGNACVLL</span><span class="topo-inside">ALH</span><span class="topo-unknown">TTRQK</span><span class="topo-inside">HSRLFFF</span><span class="topo-membrane">MKHLSIADLVVAVFQVL</span></span>
+<span class="topo-line"><span class="topo-membrane">PQLLWDI</span><span class="topo-outside">TFRFYG</span><span class="topo-membrane">PDLLCRLVKYLQLVGMFASTYLLLLMSL</span><span class="topo-inside">DRCLAICQPLRSLRRRTAR</span></span>
+<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">AVLATWLGCLVVSAPQVHIF</span><span class="topo-outside">SLREVADGVFDCWAVFIRPWG</span><span class="topo-membrane">PKAYITWITLAVYIVPVI</span></span>
+<span class="topo-line"><span class="topo-membrane">VLATCYG</span><span class="topo-inside">LIAFKIWQN</span><span class="topo-unknown">LRLKTAAAAAAEAPEGAAAGDGGRVALARVSSVK</span><span class="topo-inside">LISKAKIRTV</span></span>
+<span class="topo-line"><span class="topo-inside">KM</span><span class="topo-membrane">TFIIVLAFIVCWTPFFFVQMWSVW</span><span class="topo-outside">DANAPKEA</span><span class="topo-membrane">SAFIIVMLLASLNCCCKPWIYML</span><span class="topo-inside">FMG</span></span>
+<span class="topo-line"><span class="topo-inside">HLFHGID?SFW</span><span class="topo-unknown">CC</span><span class="topo-inside">NESYLTGSRDERKKSLLSKFGMDEGVTFMFIGRFDRGQKGVDVLLKA</span></span>
+<span class="topo-line"><span class="topo-inside">IEILSSKKEFQEMRFIIIGKGDPELEGWARSLEEKHGNVKVITEMLSREFVRELYGSVDF</span></span>
+<span class="topo-line"><span class="topo-inside">VIIPSYFEPFGLVALEAMCLGAIPIASAVGGLRDIITNETGILVKAGDPGELANAILKAL</span></span>
+<span class="topo-line"><span class="topo-inside">ELSRSDLSKFRENCKKRAMSFS</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>35</td>
+      <td>37</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>28</td>
+      <td>38</td>
+      <td>62</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>31</td>
+      <td>63</td>
+      <td>65</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>43</td>
+      <td>71</td>
+      <td>77</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>67</td>
+      <td>78</td>
+      <td>101</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>73</td>
+      <td>102</td>
+      <td>107</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>101</td>
+      <td>108</td>
+      <td>135</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>102</td>
+      <td>121</td>
+      <td>136</td>
+      <td>155</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>122</td>
+      <td>141</td>
+      <td>156</td>
+      <td>175</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>142</td>
+      <td>162</td>
+      <td>176</td>
+      <td>196</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>163</td>
+      <td>187</td>
+      <td>197</td>
+      <td>221</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>188</td>
+      <td>196</td>
+      <td>222</td>
+      <td>230</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>231</td>
+      <td>242</td>
+      <td>265</td>
+      <td>276</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>243</td>
+      <td>266</td>
+      <td>277</td>
+      <td>300</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>267</td>
+      <td>274</td>
+      <td>301</td>
+      <td>308</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>275</td>
+      <td>297</td>
+      <td>309</td>
+      <td>331</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>298</td>
+      <td>311</td>
+      <td>332</td>
+      <td>345</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>314</td>
+      <td>502</td>
+      <td>348</td>
+      <td>536</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1126##sciadv.abb5419
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Temperature | 16 |
-| Notes | OTR:[Retosiban](/xray-mp-wiki/reagents/additives/retosiban/) complex (~70 mg/ml) mixed with molten [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) for LCP reconstitution. Strong electron density for [Retosiban](/xray-mp-wiki/reagents/additives/retosiban/), [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/), and key interaction residues. |
-
+</div>
 
 ## Biological / Functional Insights
 
@@ -74,13 +295,13 @@ Two acidic residues, E42^1.35 and D100^2.65, at the extracellular tips of helice
 
 ## Cross-References
 
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Used as the LCP matrix for OTR crystallization
-- [GPCR Active State and High-Affinity Agonist Binding](/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-state-high-affinity-agonist-binding/) — OTR is a class A GPCR with allosteric modulation by cholesterol and Mg2+
-- [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) — Related biological concept
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Additive used in purification or crystallization buffers
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers
-- [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) — Additive used in purification or crystallization buffers
-- [Retosiban](/xray-mp-wiki/reagents/additives/retosiban/) — Additive used in purification or crystallization buffers
-- [TALON](/xray-mp-wiki/reagents/additives/talon/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — Used as the LCP matrix for OTR crystallization
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/gpcr-active-state-high-affinity-agonist-binding/">GPCR Active State and High-Affinity Agonist Binding</a> — OTR is a class A GPCR with allosteric modulation by cholesterol and Mg2+
+- <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a> — Related biological concept
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">Iodoacetamide</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/retosiban/">Retosiban</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> — Additive used in purification or crystallization buffers

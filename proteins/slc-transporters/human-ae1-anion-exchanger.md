@@ -1,7 +1,7 @@
 ---
 title: "Human AE1 Anion Exchanger (Band 3) - C-Terminal Membrane Domain"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,51 +17,722 @@ verified: false
 Human AE1 (anion exchanger 1, also known as Band 3) is the most abundant membrane protein in erythrocytes, where it catalyzes the electroneutral exchange of bicarbonate and chloride ions across the plasma membrane. This exchange is essential for CO2 transport from tissues to lungs. AE1 is a 110-kD glycoprotein built from a cytosolic N-terminal domain (residues 1-360) and a C-terminal integral membrane domain (AE1_CTD, residues 361-911) that performs anion exchange. The crystal structure of AE1_CTD was determined at 3.5 Å resolution in an outward-facing open conformation, locked by the covalent inhibitor [H2DIDS (4,4-Diisothiocyanatodihydro-stilbene-2,2-disulfonic acid)](/xray-mp-wiki/reagents/additives/h2dids/) and in complex with a monoclonal antibody Fab fragment. The structure reveals 14 transmembrane segments arranged in two inverted repeats of seven TMs, forming core and gate domains. AE1_CTD is a physiological homodimer with the dimer interface formed exclusively through gate domain residues (TMs 5, 6, 7).
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1126##science.aaa4335 | 4YZF | 3.5 | — | AE1_CTD (residues 381-887), N-terminally cleaved by [Trypsin](/xray-mp-wiki/reagents/additives/trypsin/) | [H2DIDS (4,4-Diisothiocyanatodihydro-stilbene-2,2-disulfonic acid)](/xray-mp-wiki/reagents/additives/h2dids/) |
+### doi/10.1126##science.aaa4335
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4yzf">4YZF</a></td>
+      <td>3.5</td>
+      <td>—</td>
+      <td>AE1_CTD (residues 381-887), N-terminally cleaved by <a href="/xray-mp-wiki/reagents/additives/trypsin/">Trypsin</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/h2dids/">H2DIDS (4,4-Diisothiocyanatodihydro-stilbene-2,2-disulfonic acid)</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Native human erythrocytes
 - **Construct**: AE1_CTD (residues 381-887) - C-terminal membrane domain cleaved by [Trypsin](/xray-mp-wiki/reagents/additives/trypsin/) from full-length AE1 purified from erythrocyte ghost membranes
 - **Notes**: Protein purified directly from human erythrocyte white ghost membranes, not recombinantly expressed
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: Native (human erythrocytes)
 - **Expression construct**: Full-length AE1, C-terminal domain cleaved by [Trypsin](/xray-mp-wiki/reagents/additives/trypsin/)
 - **Tag info**: No affinity tag used (native purification)
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Ghost membrane preparation | Hypotonic lysis and membrane isolation | — | — + — | White ghost membranes prepared from human erythrocytes |
-| Proteolytic cleavage | [Trypsin](/xray-mp-wiki/reagents/additives/trypsin/) digestion | — | — + — | N-terminus of AE1_CTD cleaved by [Trypsin](/xray-mp-wiki/reagents/additives/trypsin/) to release the C-terminal membrane domain |
-| Inhibitor treatment | Chemical modification | — | — + — | Treated with [H2DIDS (4,4-Diisothiocyanatodihydro-stilbene-2,2-disulfonic acid)](/xray-mp-wiki/reagents/additives/h2dids/) (4,4-diisothiocyanatodihydro-stilbene-2,2-disulfonic acid) to irreversibly lock the outward-facing conformation |
-| Deglycosylation | Enzymatic deglycosylation | — | — + — | Deglycosylated with N-glycosidase F to obtain well-diffracting crystals |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Ghost membrane preparation</td>
+      <td>Hypotonic lysis and membrane isolation</td>
+      <td>—</td>
+      <td>— + —</td>
+      <td>White ghost membranes prepared from human erythrocytes</td>
+    </tr>
+    <tr>
+      <td>Proteolytic cleavage</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/trypsin/">Trypsin</a> digestion</td>
+      <td>—</td>
+      <td>— + —</td>
+      <td>N-terminus of AE1_CTD cleaved by <a href="/xray-mp-wiki/reagents/additives/trypsin/">Trypsin</a> to release the C-terminal membrane domain</td>
+    </tr>
+    <tr>
+      <td>Inhibitor treatment</td>
+      <td>Chemical modification</td>
+      <td>—</td>
+      <td>— + —</td>
+      <td>Treated with <a href="/xray-mp-wiki/reagents/additives/h2dids/">H2DIDS (4,4-Diisothiocyanatodihydro-stilbene-2,2-disulfonic acid)</a> (4,4-diisothiocyanatodihydro-stilbene-2,2-disulfonic acid) to irreversibly lock the outward-facing conformation</td>
+    </tr>
+    <tr>
+      <td>Deglycosylation</td>
+      <td>Enzymatic deglycosylation</td>
+      <td>—</td>
+      <td>— + —</td>
+      <td>Deglycosylated with N-glycosidase F to obtain well-diffracting crystals</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: Deglycosylated AE1_CTD-[H2DIDS (4,4-Diisothiocyanatodihydro-stilbene-2,2-disulfonic acid)](/xray-mp-wiki/reagents/additives/h2dids/) complex
 **Yield**: —
 **Purity**: —
 
+**Crystallization:**
 
-## Crystallization
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Co-crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>AE1_CTD-<a href="/xray-mp-wiki/reagents/additives/h2dids/">H2DIDS (4,4-Diisothiocyanatodihydro-stilbene-2,2-disulfonic acid)</a> complex with monoclonal antibody Fab fragment</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Co-crystallized with a monoclonal antibody Fab fragment that binds tightly to a conformational epitope of AE1_CTD. The antibody was selected from a panel raised by inoculation of mice with AE1_CTD-displaying baculovirus. Two steps were required for crystallization: (1) deglycosylation with N-glycosidase F, (2) co-crystallization with Fab fragment.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-### doi/10.1126##science.aaa4335
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4yzf">4YZF</a> — Chain A (14 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Co-crystallization |
-| Protein sample | AE1_CTD-[H2DIDS (4,4-Diisothiocyanatodihydro-stilbene-2,2-disulfonic acid)](/xray-mp-wiki/reagents/additives/h2dids/) complex with monoclonal antibody Fab fragment |
-| Temperature | — |
-| Growth time | — |
-| Cryoprotection | — |
-| Notes | Co-crystallized with a monoclonal antibody Fab fragment that binds tightly to a conformational epitope of AE1_CTD. The antibody was selected from a panel raised by inoculation of mice with AE1_CTD-displaying baculovirus. Two steps were required for crystallization: (1) deglycosylation with N-glycosidase F, (2) co-crystallization with Fab fragment. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MEELQDDYEDMMEENLEQEEYEDPDIPESQMEEPAAHDTEATATDYHTTSHPGTHKVYVE</span></span>
+<span class="topo-line"><span class="topo-unknown">LQELVMDEKNQELRWMEAARWVQLEENLGENGAWGRPHLSHLTFWSLLELRRVFTKGTVL</span></span>
+<span class="topo-line"><span class="topo-unknown">LDLQETSLAGVANQLLDRFIFEDQIRPQDREELLRALLLKHSHAGELEALGGVKPAVLTR</span></span>
+<span class="topo-line"><span class="topo-unknown">SGDPSQPLLPQHSSLETQLFCEQGDGGTEGHSPSGILEKIPPDSEATLVLVGRADFLEQP</span></span>
+<span class="topo-line"><span class="topo-unknown">VLGFVRLQEAAELEAVELPVPIRFLFVLLGPEAPHIDYTQLGRAAATLMSERVFRIDAYM</span></span>
+<span class="topo-line"><span class="topo-unknown">AQSRGELLHSLEGFLDCSLVLPPTDAPSEQALLSLVPVQRELLRRRYQSSPAKPDSSFYK</span></span>
+<span class="topo-line"><span class="topo-unknown">GLDLNGGPDDPLQQTGQLFG</span><span class="topo-inside">GLVRDIRRRYPYYLSDITDA</span><span class="topo-membrane">FSPQVLAAVIFIYFAALSPA</span></span>
+<span class="topo-line"><span class="topo-outside">ITFGGLLGEKTRNQMGVSEL</span><span class="topo-membrane">LISTAVQGILFALLG</span><span class="topo-inside">AQ</span><span class="topo-membrane">PLLVVGFSGPLLVFE</span><span class="topo-outside">EAFFSFCE</span></span>
+<span class="topo-line"><span class="topo-outside">TNGLEYIVGR</span><span class="topo-membrane">VWIGFWLILLVVLVV</span><span class="topo-inside">AFEGSFLVRFISRYTQEI</span><span class="topo-membrane">FSFLISLIFIYETFSKL</span></span>
+<span class="topo-line"><span class="topo-outside">IKIFQDHPLQKTY</span><span class="topo-unknown">NYNVLMVPKPQGP</span><span class="topo-outside">LPNTALLSL</span><span class="topo-membrane">VLMAGTFFFAMMLRKF</span><span class="topo-inside">KNSSYFPGK</span></span>
+<span class="topo-line"><span class="topo-inside">LRRV</span><span class="topo-membrane">IGDFGVPISILIMVLV</span><span class="topo-outside">DFFIQDTYTQKLSVPDGFKV</span><span class="topo-unknown">SNSSARGW</span><span class="topo-outside">VIHPLGLRSEFP</span></span>
+<span class="topo-line"><span class="topo-outside">IWMM</span><span class="topo-membrane">FASALPALLVFILIFLESQITT</span><span class="topo-inside">LIVSKPERKMVKGSGFHL</span><span class="topo-membrane">DLLLVVGMGGVAALF</span><span class="topo-outside">G</span></span>
+<span class="topo-line"><span class="topo-outside">M</span><span class="topo-membrane">PWLSATTVRSVTHANAL</span><span class="topo-inside">TVM</span><span class="topo-unknown">GKASTPGAAAQ</span><span class="topo-inside">IQEVKEQ</span><span class="topo-membrane">RISGLLVAVLVGLS</span><span class="topo-outside">ILMEPIL</span></span>
+<span class="topo-line"><span class="topo-outside">SRIPLA</span><span class="topo-membrane">VLFGIFLYMGVTSLS</span><span class="topo-inside">GIQLFDRILLLFKPPKYHPDVPYVKRVKTWRMHLFTGIQ</span></span>
+<span class="topo-line"><span class="topo-membrane">IICLAVLWVVKSTP</span><span class="topo-outside">A</span><span class="topo-membrane">SLALPFVLILT</span><span class="topo-inside">VPLRRVLLPLIFRNVELQCLD</span><span class="topo-unknown">ADDAKATFDEEEG</span></span>
+<span class="topo-line"><span class="topo-unknown">RDEYDEVAMPV</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>380</td>
+      <td>1</td>
+      <td>380</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>381</td>
+      <td>400</td>
+      <td>381</td>
+      <td>400</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>401</td>
+      <td>420</td>
+      <td>401</td>
+      <td>420</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>421</td>
+      <td>440</td>
+      <td>421</td>
+      <td>440</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>441</td>
+      <td>455</td>
+      <td>441</td>
+      <td>455</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>456</td>
+      <td>457</td>
+      <td>456</td>
+      <td>457</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>458</td>
+      <td>472</td>
+      <td>458</td>
+      <td>472</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>473</td>
+      <td>490</td>
+      <td>473</td>
+      <td>490</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>491</td>
+      <td>505</td>
+      <td>491</td>
+      <td>505</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>506</td>
+      <td>523</td>
+      <td>506</td>
+      <td>523</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>524</td>
+      <td>540</td>
+      <td>524</td>
+      <td>540</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>541</td>
+      <td>553</td>
+      <td>541</td>
+      <td>553</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>554</td>
+      <td>566</td>
+      <td>554</td>
+      <td>566</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>567</td>
+      <td>575</td>
+      <td>567</td>
+      <td>575</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>576</td>
+      <td>591</td>
+      <td>576</td>
+      <td>591</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>592</td>
+      <td>604</td>
+      <td>592</td>
+      <td>604</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>605</td>
+      <td>620</td>
+      <td>605</td>
+      <td>620</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>621</td>
+      <td>640</td>
+      <td>621</td>
+      <td>640</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>641</td>
+      <td>648</td>
+      <td>641</td>
+      <td>648</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>649</td>
+      <td>664</td>
+      <td>649</td>
+      <td>664</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>665</td>
+      <td>686</td>
+      <td>665</td>
+      <td>686</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>687</td>
+      <td>704</td>
+      <td>687</td>
+      <td>704</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>705</td>
+      <td>719</td>
+      <td>705</td>
+      <td>719</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>720</td>
+      <td>721</td>
+      <td>720</td>
+      <td>721</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>722</td>
+      <td>738</td>
+      <td>722</td>
+      <td>738</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>739</td>
+      <td>741</td>
+      <td>739</td>
+      <td>741</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>742</td>
+      <td>752</td>
+      <td>742</td>
+      <td>752</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>753</td>
+      <td>759</td>
+      <td>753</td>
+      <td>759</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>760</td>
+      <td>773</td>
+      <td>760</td>
+      <td>773</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>774</td>
+      <td>786</td>
+      <td>774</td>
+      <td>786</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>787</td>
+      <td>801</td>
+      <td>787</td>
+      <td>801</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>802</td>
+      <td>840</td>
+      <td>802</td>
+      <td>840</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>841</td>
+      <td>854</td>
+      <td>841</td>
+      <td>854</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>855</td>
+      <td>855</td>
+      <td>855</td>
+      <td>855</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>856</td>
+      <td>866</td>
+      <td>856</td>
+      <td>866</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>867</td>
+      <td>887</td>
+      <td>867</td>
+      <td>887</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>888</td>
+      <td>911</td>
+      <td>888</td>
+      <td>911</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4yzf">4YZF</a> — Chain B (14 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MEELQDDYEDMMEENLEQEEYEDPDIPESQMEEPAAHDTEATATDYHTTSHPGTHKVYVE</span></span>
+<span class="topo-line"><span class="topo-unknown">LQELVMDEKNQELRWMEAARWVQLEENLGENGAWGRPHLSHLTFWSLLELRRVFTKGTVL</span></span>
+<span class="topo-line"><span class="topo-unknown">LDLQETSLAGVANQLLDRFIFEDQIRPQDREELLRALLLKHSHAGELEALGGVKPAVLTR</span></span>
+<span class="topo-line"><span class="topo-unknown">SGDPSQPLLPQHSSLETQLFCEQGDGGTEGHSPSGILEKIPPDSEATLVLVGRADFLEQP</span></span>
+<span class="topo-line"><span class="topo-unknown">VLGFVRLQEAAELEAVELPVPIRFLFVLLGPEAPHIDYTQLGRAAATLMSERVFRIDAYM</span></span>
+<span class="topo-line"><span class="topo-unknown">AQSRGELLHSLEGFLDCSLVLPPTDAPSEQALLSLVPVQRELLRRRYQSSPAKPDSSFYK</span></span>
+<span class="topo-line"><span class="topo-unknown">GLDLNGGPDDPLQQTGQLFG</span><span class="topo-inside">GLVRDIRRRYPYYLSDITDAFSP</span><span class="topo-membrane">QVLAAVIFIYFAALSPA</span></span>
+<span class="topo-line"><span class="topo-outside">ITFGGLLGEKTRNQMGVSEL</span><span class="topo-membrane">LISTAVQGILFALLG</span><span class="topo-inside">AQ</span><span class="topo-membrane">PLLVVGFSGPLLVFE</span><span class="topo-outside">EAFFSFCE</span></span>
+<span class="topo-line"><span class="topo-outside">TNGLEYIVGR</span><span class="topo-membrane">VWIGFWLILLVVLVV</span><span class="topo-inside">AFEGSFLVRFISRYTQEI</span><span class="topo-membrane">FSFLISLIFIYETFSKL</span></span>
+<span class="topo-line"><span class="topo-outside">IKIFQDHPLQKTY</span><span class="topo-unknown">NYNVLMVPKPQGP</span><span class="topo-outside">LPNTALLSL</span><span class="topo-membrane">VLMAGTFFFAMMLRKF</span><span class="topo-inside">KNSSYFPGK</span></span>
+<span class="topo-line"><span class="topo-inside">LRRV</span><span class="topo-membrane">IGDFGVPISILIMVLV</span><span class="topo-outside">DFFIQDTYTQKLSVPDGFKV</span><span class="topo-unknown">SNSSARGW</span><span class="topo-outside">VIHPLGLRSEFP</span></span>
+<span class="topo-line"><span class="topo-outside">IWMM</span><span class="topo-membrane">FASALPALLVFILIFLESQITT</span><span class="topo-inside">LIVSKPERKMVKGSGFHL</span><span class="topo-membrane">DLLLVVGMGGVAALF</span><span class="topo-outside">G</span></span>
+<span class="topo-line"><span class="topo-outside">M</span><span class="topo-membrane">PWLSATTVRSVTHANAL</span><span class="topo-inside">TVM</span><span class="topo-unknown">GKASTPGAAAQ</span><span class="topo-inside">IQEVKEQ</span><span class="topo-membrane">RISGLLVAVLVGLS</span><span class="topo-outside">ILMEPIL</span></span>
+<span class="topo-line"><span class="topo-outside">SRIPL</span><span class="topo-membrane">AVLFGIFLYMGVTSL</span><span class="topo-inside">SGIQLFDRILLLFKPPKYHPDVPYVKRVKTWRMHLFTGIQ</span></span>
+<span class="topo-line"><span class="topo-membrane">IICLAVLWVVKSTP</span><span class="topo-outside">A</span><span class="topo-membrane">SLALPFVLILT</span><span class="topo-inside">VPLRRVLLPLIFRNVELQCLD</span><span class="topo-unknown">ADDAKATFDEEEG</span></span>
+<span class="topo-line"><span class="topo-unknown">RDEYDEVAMPV</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>380</td>
+      <td>1</td>
+      <td>380</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>381</td>
+      <td>403</td>
+      <td>381</td>
+      <td>403</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>404</td>
+      <td>420</td>
+      <td>404</td>
+      <td>420</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>421</td>
+      <td>440</td>
+      <td>421</td>
+      <td>440</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>441</td>
+      <td>455</td>
+      <td>441</td>
+      <td>455</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>456</td>
+      <td>457</td>
+      <td>456</td>
+      <td>457</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>458</td>
+      <td>472</td>
+      <td>458</td>
+      <td>472</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>473</td>
+      <td>490</td>
+      <td>473</td>
+      <td>490</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>491</td>
+      <td>505</td>
+      <td>491</td>
+      <td>505</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>506</td>
+      <td>523</td>
+      <td>506</td>
+      <td>523</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>524</td>
+      <td>540</td>
+      <td>524</td>
+      <td>540</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>541</td>
+      <td>553</td>
+      <td>541</td>
+      <td>553</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>554</td>
+      <td>566</td>
+      <td>554</td>
+      <td>566</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>567</td>
+      <td>575</td>
+      <td>567</td>
+      <td>575</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>576</td>
+      <td>591</td>
+      <td>576</td>
+      <td>591</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>592</td>
+      <td>604</td>
+      <td>592</td>
+      <td>604</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>605</td>
+      <td>620</td>
+      <td>605</td>
+      <td>620</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>621</td>
+      <td>640</td>
+      <td>621</td>
+      <td>640</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>641</td>
+      <td>648</td>
+      <td>641</td>
+      <td>648</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>649</td>
+      <td>664</td>
+      <td>649</td>
+      <td>664</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>665</td>
+      <td>686</td>
+      <td>665</td>
+      <td>686</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>687</td>
+      <td>704</td>
+      <td>687</td>
+      <td>704</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>705</td>
+      <td>719</td>
+      <td>705</td>
+      <td>719</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>720</td>
+      <td>721</td>
+      <td>720</td>
+      <td>721</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>722</td>
+      <td>738</td>
+      <td>722</td>
+      <td>738</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>739</td>
+      <td>741</td>
+      <td>739</td>
+      <td>741</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>742</td>
+      <td>752</td>
+      <td>742</td>
+      <td>752</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>753</td>
+      <td>759</td>
+      <td>753</td>
+      <td>759</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>760</td>
+      <td>773</td>
+      <td>760</td>
+      <td>773</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>774</td>
+      <td>785</td>
+      <td>774</td>
+      <td>785</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>786</td>
+      <td>800</td>
+      <td>786</td>
+      <td>800</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>801</td>
+      <td>840</td>
+      <td>801</td>
+      <td>840</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>841</td>
+      <td>854</td>
+      <td>841</td>
+      <td>854</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>855</td>
+      <td>855</td>
+      <td>855</td>
+      <td>855</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>856</td>
+      <td>866</td>
+      <td>856</td>
+      <td>866</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>867</td>
+      <td>887</td>
+      <td>867</td>
+      <td>887</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>888</td>
+      <td>911</td>
+      <td>888</td>
+      <td>911</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -84,9 +755,9 @@ Specific mutations in AE1_CTD are related to red cell diseases including spheroc
 
 ## Cross-References
 
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — AE1 structure in outward-facing conformation provides a structural basis for the alternating access mechanism of anion exchange
-- [LEUT](/xray-mp-wiki/proteins/enzymes/leut/) — Related protein structure
-- [Uracil:Proton Symporter UraA from Escherichia coli](/xray-mp-wiki/proteins/slc-transporters/uraA/) — Related protein structure
-- [H2DIDS (4,4-Diisothiocyanatodihydro-stilbene-2,2-disulfonic acid)](/xray-mp-wiki/reagents/additives/h2dids/) — Additive used in purification or crystallization buffers
-- [Trypsin](/xray-mp-wiki/reagents/additives/trypsin/) — Additive used in purification or crystallization buffers
-- [URACIL](/xray-mp-wiki/reagents/ligands/uracil/) — Related ligand or cofactor
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating Access Mechanism</a> — AE1 structure in outward-facing conformation provides a structural basis for the alternating access mechanism of anion exchange
+- <a href="/xray-mp-wiki/proteins/enzymes/leut/">LEUT</a> — Related protein structure
+- <a href="/xray-mp-wiki/proteins/slc-transporters/uraA/">Uracil:Proton Symporter UraA from Escherichia coli</a> — Related protein structure
+- <a href="/xray-mp-wiki/reagents/additives/h2dids/">H2DIDS (4,4-Diisothiocyanatodihydro-stilbene-2,2-disulfonic acid)</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/trypsin/">Trypsin</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/ligands/uracil/">URACIL</a> — Related ligand or cofactor

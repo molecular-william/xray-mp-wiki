@@ -1,7 +1,7 @@
 ---
 title: "Escherichia coli YidC"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,54 +17,449 @@ verified: false
 YidC is an essential bacterial membrane protein insertase and chaperone that mediates the insertion and assembly of membrane proteins. It is a member of the conserved YidC/Alb3/Oxa1 family. The crystal structure of full-length E. coli YidC was first determined at 3.2 Å resolution, revealing five transmembrane helices (TM2-6) forming a hydrophilic groove open toward both the cytoplasmic and membrane sides, along with the periplasmic P1 domain and the C1 region. A later higher-resolution structure at 2.8 Å revealed the complete core region including the previously disordered C2 cytoplasmic loop. YidC cooperates with the  translocon complex during membrane protein biogenesis and can also function independently as an insertase.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.bbrc.2018.09.043 | 6AL2 | 2.8 | P1 | Full-length E. coli YidC core region (residues 325-532) | none |
-| doi/10.1038##srep07299 | 3WVF | 3.2 | P1 | Full-length E. coli YidC (residues 2-540) with C-terminal His8 tag, TEV-cleavable | none |
+### doi/10.1016##j.bbrc.2018.09.043
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6al2">6AL2</a></td>
+      <td>2.8</td>
+      <td>P1</td>
+      <td>Full-length E. coli YidC core region (residues 325-532)</td>
+      <td>none</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli
 - **Construct**: Full-length E. coli YidC (residues 2-540) with LE接头SGENLYFQGQFTS-H8 tag
 
-### Purification Workflow
+**Purification:**
 
-#### Source: doi/10.1016##j.bbrc.2018.09.043
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Expression</td>
+      <td>E. coli expression</td>
+      <td>—</td>
+      <td>-- + --</td>
+      <td>Protein expressed in E. coli cells.</td>
+    </tr>
+    <tr>
+      <td>Crystallization</td>
+      <td>Helical Data Collection Method</td>
+      <td>—</td>
+      <td>-- + --</td>
+      <td>Over 100 crystals used for data collection. 97 datasets merged for final structure determination. Data collected at SPring-8 beamline BL32XU, wavelength 1.00 A, 100 K.</td>
+    </tr>
+  </tbody>
+</table>
 
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-##### Steps
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6al2">6AL2</a> — Chain A (5 TMs, alpha)**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression | E. coli expression | — | -- + -- | Protein expressed in E. coli cells. |
-| Crystallization | Helical Data Collection Method | — | -- + -- | Over 100 crystals used for data collection. 97 datasets merged for final structure determination. Data collected at SPring-8 beamline BL32XU, wavelength 1.00 A, 100 K. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MDSQRNLLVIALLFVSFMIWQAWEQDKNPQPQAQQTTQTTTTAAGSAA</span><span class="topo-outside">DQGVPASGQGKL</span></span>
+<span class="topo-line"><span class="topo-outside">ISVKTDVLDLTINTRGGDVEQALLPAYPKELNSTQPFQLLETSPQFIYQAQSGLTGRDGP</span></span>
+<span class="topo-line"><span class="topo-outside">DNPANGPRPLYNVEKDAYVLAEGQNELQVPMTYTDAAGNTFTKTFVLKRGDYAVNVNYNV</span></span>
+<span class="topo-line"><span class="topo-outside">QNAGEKPLEISTFGQLKQSITLPPHLDTGSSNFALHTFRGAAYSTPDEKYEKYKFDTIAD</span></span>
+<span class="topo-line"><span class="topo-outside">NENLNISSKGGWVAMLQQYFATAWIPHNDGTNNFYTANLGNGIAAIGYKSQPVLVQPGQT</span></span>
+<span class="topo-line"><span class="topo-outside">GAMNSTLWVGPEIQDKMAAVAPHLDLTVDYGWLW</span><span class="topo-unknown">FISQPLFKLLKWIHSFV</span><span class="topo-outside">GNWGF</span><span class="topo-membrane">SIII</span></span>
+<span class="topo-line"><span class="topo-membrane">ITFIVRGIMYPLTKAQY</span><span class="topo-inside">TSMAKMRMLQPKIQAMRERLGDD</span><span class="topo-unknown">KQRISQEMMALYKA</span><span class="topo-inside">EKVNPL</span></span>
+<span class="topo-line"><span class="topo-membrane">GGCFPLLIQMPIFLALY</span><span class="topo-outside">YMLMGSVELRQAPFALWIHDLSAQDPY</span><span class="topo-membrane">YILPILMGVTMFFIQK</span></span>
+<span class="topo-line"><span class="topo-membrane">MS</span><span class="topo-inside">PTTVTDPMQQK</span><span class="topo-membrane">IMTFMPVIFTVFFLWFPS</span><span class="topo-outside">G</span><span class="topo-membrane">LVLYYIVSNLVTIIQQQL</span><span class="topo-inside">IY</span><span class="topo-unknown">RGLEKRGL</span></span>
+<span class="topo-line"><span class="topo-unknown">LESSGENLYFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>49</td>
+      <td>334</td>
+      <td>49</td>
+      <td>334</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>335</td>
+      <td>351</td>
+      <td>335</td>
+      <td>351</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>352</td>
+      <td>356</td>
+      <td>352</td>
+      <td>356</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>377</td>
+      <td>357</td>
+      <td>377</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>378</td>
+      <td>400</td>
+      <td>378</td>
+      <td>400</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>401</td>
+      <td>414</td>
+      <td>401</td>
+      <td>414</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>415</td>
+      <td>420</td>
+      <td>415</td>
+      <td>420</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>421</td>
+      <td>437</td>
+      <td>421</td>
+      <td>437</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>438</td>
+      <td>464</td>
+      <td>438</td>
+      <td>464</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>465</td>
+      <td>482</td>
+      <td>465</td>
+      <td>482</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>483</td>
+      <td>493</td>
+      <td>483</td>
+      <td>493</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>494</td>
+      <td>511</td>
+      <td>494</td>
+      <td>511</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>512</td>
+      <td>512</td>
+      <td>512</td>
+      <td>512</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>513</td>
+      <td>530</td>
+      <td>513</td>
+      <td>530</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>531</td>
+      <td>532</td>
+      <td>531</td>
+      <td>532</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-#### Source: doi/10.1038##srep07299
-
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression | E. coli expression in BL21(DE3) | — | LB medium with 50 ug/mL  + -- | Cells induced with 1 mM  for 18 h at 37 C. Harvested by centrifugation at 4,500 g for 10 min at 4 C. |
-| Membrane preparation | Ultracentrifugation | — | 20 mM -NaOH pH 5.6, 300 mM NaCl, 2%  (), 0.1 mM  + 2%  () | Total membranes prepared as described. YidC solubilized for 1 h at 4 C. Ultracentrifugation at 138,000 g for 30 min at 4 C. |
-| Affinity purification | Ni Sepharose excel (IMAC) | — | 20 mM -NaOH pH 5.6, 300 mM NaCl, 0.25%  + 0.25%  () | Batch binding for 30 min at 4 C. Wash with 50 mM . Elution with 100-500 mM  gradient. |
-| TEV cleavage | His-tagged [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/additives/tev-protease/) | — | 20 mM -NaOH pH 5.6, 300 mM NaCl, 0.25% , 10 mM  + 0.25%  | C-terminal His8 tag cleaved by [TEV Protease (Tobacco Etch Virus Protease)](/xray-mp-wiki/reagents/additives/tev-protease/) for 12 h at 4 C. Flow-through collected from Ni-NTA after cleavage. |
-| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | HiLoad 16/600 Superdex 200 | — | 20 mM -NaOH pH 5.6, 300 mM NaCl, 0.25%  + 0.25%  | Final polishing step. N-terminal sequencing confirmed intact YidC in purified sample. |
-
-
-## Crystallization
-
+</div>
 ### doi/10.1038##srep07299
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion, sitting drop |
-| Temperature | 20 |
-| Notes | Crystallized by sitting drop vapor diffusion at 20 C. Crystals appeared within 3-7 days. Data collected at BL32XU of SPring-8 at 100 K. Helical data collection method used for small crystals. |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3wvf">3WVF</a></td>
+      <td>3.2</td>
+      <td>P1</td>
+      <td>Full-length E. coli YidC (residues 2-540) with C-terminal His8 tag, TEV-cleavable</td>
+      <td>none</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Escherichia coli
+- **Construct**: Full-length E. coli YidC (residues 2-540) with LE接头SGENLYFQGQFTS-H8 tag
+
+**Purification:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Expression</td>
+      <td>E. coli expression in BL21(DE3)</td>
+      <td>—</td>
+      <td>LB medium with 50 ug/mL  + --</td>
+      <td>Cells induced with 1 mM  for 18 h at 37 C. Harvested by centrifugation at 4,500 g for 10 min at 4 C.</td>
+    </tr>
+    <tr>
+      <td>Membrane preparation</td>
+      <td>Ultracentrifugation</td>
+      <td>—</td>
+      <td>20 mM -NaOH pH 5.6, 300 mM NaCl, 2%  (), 0.1 mM  + 2%  ()</td>
+      <td>Total membranes prepared as described. YidC solubilized for 1 h at 4 C. Ultracentrifugation at 138,000 g for 30 min at 4 C.</td>
+    </tr>
+    <tr>
+      <td>Affinity purification</td>
+      <td>Ni Sepharose excel (IMAC)</td>
+      <td>—</td>
+      <td>20 mM -NaOH pH 5.6, 300 mM NaCl, 0.25%  + 0.25%  ()</td>
+      <td>Batch binding for 30 min at 4 C. Wash with 50 mM . Elution with 100-500 mM  gradient.</td>
+    </tr>
+    <tr>
+      <td>TEV cleavage</td>
+      <td>His-tagged <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease (Tobacco Etch Virus Protease)</a></td>
+      <td>—</td>
+      <td>20 mM -NaOH pH 5.6, 300 mM NaCl, 0.25% , 10 mM  + 0.25% </td>
+      <td>C-terminal His8 tag cleaved by <a href="/xray-mp-wiki/reagents/additives/tev-protease/">TEV Protease (Tobacco Etch Virus Protease)</a> for 12 h at 4 C. Flow-through collected from Ni-NTA after cleavage.</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td>HiLoad 16/600 Superdex 200</td>
+      <td>—</td>
+      <td>20 mM -NaOH pH 5.6, 300 mM NaCl, 0.25%  + 0.25% </td>
+      <td>Final polishing step. N-terminal sequencing confirmed intact YidC in purified sample.</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion, sitting drop</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystallized by sitting drop vapor diffusion at 20 C. Crystals appeared within 3-7 days. Data collected at BL32XU of SPring-8 at 100 K. Helical data collection method used for small crystals.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/3wvf">3WVF</a> — Chain A (5 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MDSQRNLLVIALLFVSFMIWQAWEQDKNPQPQAQQTTQTTTTAAGSAADQGVPAS</span><span class="topo-outside">GQGKL</span></span>
+<span class="topo-line"><span class="topo-outside">ISVKTDVLDLTINTRGGDVEQALLPAYPKELNSTQPFQLLETSPQFIYQAQSGLTGRDGP</span></span>
+<span class="topo-line"><span class="topo-outside">DNPANGPRPLYNVEKDAYVLAEGQNELQVPMTYTDAAGNTFTKTFVLKRGDYAVNVNYNV</span></span>
+<span class="topo-line"><span class="topo-outside">QNAGEKPLEISTFGQLKQSITLP</span><span class="topo-unknown">PHLDTGSSNFAL</span><span class="topo-outside">HTFRGAAYSTPDEKYEKYKFDTIAD</span></span>
+<span class="topo-line"><span class="topo-outside">NENLNISSKGGWVAMLQQYFATAWIPHNDGTNNFYTANLGNGIAAIGYKSQPVLVQPGQT</span></span>
+<span class="topo-line"><span class="topo-outside">GAMNSTLWVGPEIQDKMAAVAPHLDLTVDYGWL</span><span class="topo-unknown">WFISQPLFKLLKWIHSFV</span><span class="topo-outside">GNWG</span><span class="topo-membrane">FSIII</span></span>
+<span class="topo-line"><span class="topo-membrane">ITFIVRGIMYPLT</span><span class="topo-inside">KAQYTSMAKMRMLQPKIQAMRERLGDDKQRISQEMMALYKAEKVNPL</span></span>
+<span class="topo-line"><span class="topo-inside">GGC</span><span class="topo-membrane">FPLLIQMPIFLALYY</span><span class="topo-outside">MLMGSVELRQAPFALWIHDLSAQDPY</span><span class="topo-membrane">YILPILMGVTMFF</span><span class="topo-inside">IQ</span><span class="topo-unknown">K</span></span>
+<span class="topo-line"><span class="topo-unknown">MSPTTVTDPMQQ</span><span class="topo-inside">KIMTF</span><span class="topo-membrane">MPVIFTVFFLWFP</span><span class="topo-outside">S</span><span class="topo-membrane">GLVLYYIVSNLVTII</span><span class="topo-inside">QQ</span><span class="topo-unknown">QLIYRGLEKRGL</span></span>
+<span class="topo-line"><span class="topo-unknown">LESSGENLYFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>56</td>
+      <td>203</td>
+      <td>56</td>
+      <td>203</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>333</td>
+      <td>216</td>
+      <td>333</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>334</td>
+      <td>351</td>
+      <td>334</td>
+      <td>351</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>352</td>
+      <td>355</td>
+      <td>352</td>
+      <td>355</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>356</td>
+      <td>373</td>
+      <td>356</td>
+      <td>373</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>374</td>
+      <td>423</td>
+      <td>374</td>
+      <td>423</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>424</td>
+      <td>438</td>
+      <td>424</td>
+      <td>438</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>439</td>
+      <td>464</td>
+      <td>439</td>
+      <td>464</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>465</td>
+      <td>477</td>
+      <td>465</td>
+      <td>477</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>478</td>
+      <td>479</td>
+      <td>478</td>
+      <td>479</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>493</td>
+      <td>497</td>
+      <td>493</td>
+      <td>497</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>498</td>
+      <td>510</td>
+      <td>498</td>
+      <td>510</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>511</td>
+      <td>511</td>
+      <td>511</td>
+      <td>511</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>512</td>
+      <td>526</td>
+      <td>512</td>
+      <td>526</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>527</td>
+      <td>528</td>
+      <td>527</td>
+      <td>528</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -103,12 +498,12 @@ The holo-translocon is composed of single copies of YidC,  and SecDFYajC. SecF i
 
 ## Cross-References
 
-- [YidC/Oxa1/Alb3 Insertase Family](/xray-mp-wiki/concepts/protein-families/yidc-oxa1-alb3-insertase-family/) — YidC is the founding bacterial member of the YidC/Alb3/Oxa1 insertase family
-- [Secyeg](/xray-mp-wiki/proteins/secretion-translocon/secyeg/) — Referenced in ec-yidc text
-- [Ampicillin](/xray-mp-wiki/reagents/antibiotics/ampicillin/) — Referenced in ec-yidc text
-- [Iptg](/xray-mp-wiki/reagents/additives/iptg/) — Referenced in ec-yidc text
-- [DM](/xray-mp-wiki/reagents/detergents/dm/) — Referenced in ec-yidc text
-- [Pmsf](/xray-mp-wiki/reagents/additives/pmsf/) — Referenced in ec-yidc text
-- [Ada](/xray-mp-wiki/reagents/buffers/aces/) — Referenced in ec-yidc text
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Referenced in ec-yidc text
-- [Popc](/xray-mp-wiki/reagents/lipids/popc/) — Referenced in ec-yidc text
+- <a href="/xray-mp-wiki/concepts/protein-families/yidc-oxa1-alb3-insertase-family/">YidC/Oxa1/Alb3 Insertase Family</a> — YidC is the founding bacterial member of the YidC/Alb3/Oxa1 insertase family
+- <a href="/xray-mp-wiki/proteins/secretion-translocon/secyeg/">Secyeg</a> — Referenced in ec-yidc text
+- <a href="/xray-mp-wiki/reagents/antibiotics/ampicillin/">Ampicillin</a> — Referenced in ec-yidc text
+- <a href="/xray-mp-wiki/reagents/additives/iptg/">Iptg</a> — Referenced in ec-yidc text
+- <a href="/xray-mp-wiki/reagents/detergents/dm/">DM</a> — Referenced in ec-yidc text
+- <a href="/xray-mp-wiki/reagents/additives/pmsf/">Pmsf</a> — Referenced in ec-yidc text
+- <a href="/xray-mp-wiki/reagents/buffers/aces/">Ada</a> — Referenced in ec-yidc text
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Referenced in ec-yidc text
+- <a href="/xray-mp-wiki/reagents/lipids/popc/">Popc</a> — Referenced in ec-yidc text

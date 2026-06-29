@@ -1,7 +1,7 @@
 ---
 title: "A-type ATPase peripheral stalk from Thermus thermophilus"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,19 +17,31 @@ verified: false
 The crystal structure of the EG peripheral stalk complex from the A-type ATPase of Thermus thermophilus reveals a right-handed coiled coil (RHCC) architecture. Subunit E and subunit G form an elongated heterodimeric coiled coil that connects the catalytic A3B3 hexamer (V1 domain) to the membrane-embedded rotor. Fourier transform analysis of hydrophobic residue periodicities in A-type and V-type ATPase subunits shows prominent peaks at periodicities of 3.75 (quindecad, 15/4) and 3.66 (hendecad, 11/3) rather than 3.5 (heptad, 7/2), distinguishing the A/V-type peripheral stalk architecture from canonical left-handed coiled coils.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nsmb.1761 | 3K5B |  |  | EG peripheral stalk complex from T. thermophilus A-type ATPase | none |
+### doi/10.1038##nsmb.1761
 
-## Expression and Purification
+**Structures:**
 
-No purification described.
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3k5b">3K5B</a></td>
+      <td></td>
+      <td></td>
+      <td>EG peripheral stalk complex from T. thermophilus A-type ATPase</td>
+      <td>none</td>
+    </tr>
+  </tbody>
+</table>
 
-## Crystallization
-
-No crystallization described.
 
 ## Biological / Functional Insights
 

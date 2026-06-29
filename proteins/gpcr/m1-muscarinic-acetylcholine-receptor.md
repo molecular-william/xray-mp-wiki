@@ -1,12 +1,12 @@
 ---
 title: "M1 Muscarinic Acetylcholine Receptor"
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [gpcr, receptor, membrane-protein, xray-crystallography]
-sources: [doi/10.1016##j.cell.2021.11.001, doi/10.1038##nature17188, doi/10.1126##science.aax2517]
+sources: [doi/10.1126##science.aax2517, doi/10.1038##nature17188, doi/10.1016##j.cell.2021.11.001]
 verified: false
 ---
 
@@ -17,51 +17,1018 @@ verified: false
 The M1 muscarinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/) receptor (M1 mAChR) is a class A G protein-coupled receptor that mediates cholinergic neurotransmission in the central nervous system. It is highly expressed in the hippocampus and cortex, areas critical for learning and memory. The M1 receptor couples to Gq/11 proteins to activate phospholipase C-beta, leading to intracellular calcium release. It is a major therapeutic target for Alzheimer disease, as cholinergic deficits in the hippocampus and cortex are a hallmark of the disease. The M1 receptor has been crystallized in complex with multiple orthosteric agonists, revealing the molecular basis for agonist-induced activation and subtype selectivity.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1126##science.aax2517 | 6WJC | 2.80 | Not specified | Recombinantly expressed M1AChR from Sf9 insect cells; MT7 expressed in H15 insect cells; co-crystallized with atropine (orthosteric antagonist) | [Atropine](/xray-mp-wiki/reagents/ligands/atropine/), [MT7](/xray-mp-wiki/reagents/ligands/mt7/) |
-| doi/10.1038##nature17188 | 5CXV | 2.7 A | P 21 21 21 | Human M1 muscarinic receptor, N-terminal FLAG epitope tag, N-glycosylation mutants (N2Q, N12Q, unintentionally N110Q 3.37), residues 226-389 of ICL3 replaced by T4 lysozyme fusion protein, C-terminal 8x histidine tag
- | [Tiotropium](/xray-mp-wiki/reagents/ligands/tiotropium/) |
-| doi/10.1016##j.cell.2021.11.001 | 6ZFZ | 2.17 A | C 2 2 21 | [M1-StaR-T4L](/xray-mp-wiki/proteins/gpcr/m1-star-t4l/) (12 thermostabilizing mutations, M4 N-terminus chimera, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) in ICL3) | [77-LH-28-1](/xray-mp-wiki/reagents/ligands/77-lh-28-1/) |
-| doi/10.1016##j.cell.2021.11.001 | 6ZG4 | 2.17 A | C 2 2 21 | [M1-StaR-T4L](/xray-mp-wiki/proteins/gpcr/m1-star-t4l/) (12 thermostabilizing mutations, M4 N-terminus chimera, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) in ICL3) | [HTL9936](/xray-mp-wiki/reagents/ligands/htl9936/) |
-| doi/10.1016##j.cell.2021.11.001 | 6ZG9 | 2.17 A | C 2 2 21 | [M1-StaR-T4L](/xray-mp-wiki/proteins/gpcr/m1-star-t4l/) (12 thermostabilizing mutations, M4 N-terminus chimera, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/), [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) in ICL3) | [GSK1034702](/xray-mp-wiki/reagents/ligands/gsk1034702/) |
+### doi/10.1126##science.aax2517
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6wjc">6WJC</a></td>
+      <td>2.80</td>
+      <td>Not specified</td>
+      <td>Recombinantly expressed M1AChR from Sf9 insect cells; MT7 expressed in H15 insect cells; co-crystallized with atropine (orthosteric antagonist)</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/atropine/">Atropine</a>, <a href="/xray-mp-wiki/reagents/ligands/mt7/">MT7</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Sf21 insect cells (baculovirus expression vector system)
 - **Construct**: [M1-StaR-T4L](/xray-mp-wiki/proteins/gpcr/m1-star-t4l/) construct with N-terminal GP64 signal sequence, chimeric M4 N-terminus (residues 1-95 of M4 replacing residues 1-87 of M1), residues 88-438 of M1 receptor, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (residues 439-460 removed), [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) inserted into ICL3 between residues 219 and 354, and C-terminal deca-histidine tag. The StaR variant contains 12 thermostabilizing mutations: F27A, T32A, V46L, L64A, T95A, W101A, S112A, A143L, A196T, K362A, A364L, S411A.
 
 
-### Purification Workflow
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6wjc">6WJC</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">DYKDDDDAAAQTSAPPAVSPQITVL</span><span class="topo-inside">APGKGPW</span><span class="topo-membrane">QVAFIGITTGLLSLATVTGNLLVLI</span><span class="topo-outside">SFK</span></span>
+<span class="topo-line"><span class="topo-outside">VNTELKTVNNY</span><span class="topo-membrane">FLLSLACADLIIGTFSMNLYTTYLL</span><span class="topo-inside">MGHWAL</span><span class="topo-membrane">GTLACDLWLALDYVASQA</span></span>
+<span class="topo-line"><span class="topo-membrane">RVMNLLLISF</span><span class="topo-outside">DRYFSVTRPLSYRAKRTPRRAA</span><span class="topo-membrane">LMIGLAWLVSFVLWAPAILFWQYLV</span><span class="topo-inside">GER</span></span>
+<span class="topo-line"><span class="topo-inside">TVLAGQC</span><span class="topo-membrane">YIQFLSQPIITFGTAMAAFYLPVTVMCTLYWR</span><span class="topo-outside">IYRETENRNIFEMLRIDEGLR</span></span>
+<span class="topo-line"><span class="topo-outside">LKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVITKDEAEKLFNQDVDAA</span></span>
+<span class="topo-line"><span class="topo-outside">VRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLA</span></span>
+<span class="topo-line"><span class="topo-outside">KSRWYNQTPNRAKRVITTFRTGTWDAYFSLVKEKKAAR</span><span class="topo-membrane">TLSAILLAFILTWTPYNIMVLV</span></span>
+<span class="topo-line"><span class="topo-membrane">STF</span><span class="topo-inside">CKDCVPET</span><span class="topo-membrane">LWELGYWLCYVNSTINPMCYALC</span><span class="topo-outside">N</span><span class="topo-unknown">KAFRDTFRLLL</span><span class="topo-outside">LCRW</span><span class="topo-unknown">DKRRWRKIPK</span></span>
+<span class="topo-line"><span class="topo-unknown">RPGSVHRTPSRQCHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>26</td>
+      <td>32</td>
+      <td>17</td>
+      <td>23</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>33</td>
+      <td>57</td>
+      <td>24</td>
+      <td>48</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>58</td>
+      <td>71</td>
+      <td>49</td>
+      <td>62</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>72</td>
+      <td>96</td>
+      <td>63</td>
+      <td>87</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>97</td>
+      <td>102</td>
+      <td>88</td>
+      <td>93</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>103</td>
+      <td>130</td>
+      <td>94</td>
+      <td>121</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>131</td>
+      <td>152</td>
+      <td>122</td>
+      <td>143</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>153</td>
+      <td>177</td>
+      <td>144</td>
+      <td>168</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>187</td>
+      <td>169</td>
+      <td>178</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>188</td>
+      <td>219</td>
+      <td>179</td>
+      <td>210</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>220</td>
+      <td>398</td>
+      <td>211</td>
+      <td>365</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>399</td>
+      <td>423</td>
+      <td>366</td>
+      <td>390</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>424</td>
+      <td>431</td>
+      <td>391</td>
+      <td>398</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>432</td>
+      <td>454</td>
+      <td>399</td>
+      <td>421</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>455</td>
+      <td>455</td>
+      <td>422</td>
+      <td>422</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>456</td>
+      <td>466</td>
+      <td>423</td>
+      <td>433</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>467</td>
+      <td>470</td>
+      <td>434</td>
+      <td>437</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6wjc">6WJC</a> — Chain C (0 TMs, non_tm)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">GPGSLTCVKSNSIWFPTSEDCPDGQNLCFKRWQYISPRMYDFTRGCAATCPKAEYRDVIN</span></span>
+<span class="topo-line"><span class="topo-inside">CCGTDKCNK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>69</td>
+      <td>-3</td>
+      <td>65</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
+### doi/10.1038##nature17188
+
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5cxv">5CXV</a></td>
+      <td>2.7 A</td>
+      <td>P 21 21 21</td>
+      <td>Human M1 muscarinic receptor, N-terminal FLAG epitope tag, N-glycosylation mutants (N2Q, N12Q, unintentionally N110Q 3.37), residues 226-389 of ICL3 replaced by T4 lysozyme fusion protein, C-terminal 8x histidine tag
+</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/tiotropium/">Tiotropium</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Sf21 insect cells (baculovirus expression vector system)
+- **Construct**: [M1-StaR-T4L](/xray-mp-wiki/proteins/gpcr/m1-star-t4l/) construct with N-terminal GP64 signal sequence, chimeric M4 N-terminus (residues 1-95 of M4 replacing residues 1-87 of M1), residues 88-438 of M1 receptor, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (residues 439-460 removed), [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) inserted into ICL3 between residues 219 and 354, and C-terminal deca-histidine tag. The StaR variant contains 12 thermostabilizing mutations: F27A, T32A, V46L, L64A, T95A, W101A, S112A, A143L, A196T, K362A, A364L, S411A.
 
 
-##### Steps
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture and infection | Sf21 cells infected with baculovirus at multiplicity of infection 2, harvested 48 hours post-infection | -- | -- + -- | Cells grown at 27 degrees Celsius with constant shaking in ESF 921 medium supplemented with 10% FBS and 1% penicillin/streptomycin |
-| Cell disruption and membrane preparation | Cell disruption at 15000 psi using microfluidizer, membranes pelleted by ultracentrifugation at 200000 g for 50 min, high salt washes | -- | PBS, 5 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/), protease inhibitor cocktail; wash buffer: PBS, 1 M NaCl, protease inhibitor cocktail + -- | Membranes resuspended in 40 mM Tris pH 7.6, 500 mM NaCl with protease inhibitors and stored at -80 degrees Celsius |
-| Solubilization | Membranes incubated with ligand (40 uM [HTL9936](/xray-mp-wiki/reagents/ligands/htl9936/) or [GSK1034702](/xray-mp-wiki/reagents/ligands/gsk1034702/) or [77-LH-28-1](/xray-mp-wiki/reagents/ligands/77-lh-28-1/)) for 40 min at room temperature, then solubilized with 1.5% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) for 1 hour at 4 degrees Celsius | -- | 40 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.6, 500 mM NaCl, protease inhibitor cocktail + 1.5% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Solubilized material clarified by centrifugation at 145000 g for 60 min |
-| Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Batch binding to Ni-NTA Superflow resin for 3 hours, gradient wash (10 to 60 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/)), elution with 245 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) | Ni-NTA Superflow resin | 40 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.6, 150 mM NaCl, 10 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (binding); 40 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.6, 500 mM NaCl, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 70 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (wash); 40 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.6, 500 mM NaCl, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 245 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (elution) + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Ligand (20 uM) included in all binding and wash buffers |
-| Size-exclusion chromatography | SEC on [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) column pre-equilibrated with buffer containing ligand | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | 40 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.6, 150 mM NaCl, 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 40 uM ligand + 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Protein concentrated to approximately 60 mg/mL using 100 kDa cut-off membrane prior to crystallization |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5cxv">5CXV</a> — Chain A (7 TMs, alpha)**
 
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFADYKDDDDAAAQTSAPPAVSPQITVLAPG</span><span class="topo-inside">KGPW</span><span class="topo-membrane">QVAFIGITTGLL</span></span>
+<span class="topo-line"><span class="topo-membrane">SLATVTGNLLVLI</span><span class="topo-outside">SFKVNTELKTVNNYF</span><span class="topo-membrane">LLSLACADLIIGTFSMNLYTTYLL</span><span class="topo-inside">MGHWALGT</span></span>
+<span class="topo-line"><span class="topo-inside">L</span><span class="topo-membrane">ACDLWLALDYVASQASVMNLLLIS</span><span class="topo-outside">FDRYFSVTRPLSYRAKRTPRRAAL</span><span class="topo-membrane">MIGLAWLVSFV</span></span>
+<span class="topo-line"><span class="topo-membrane">LWAPAILFWQYL</span><span class="topo-inside">VGERTVLAGQC</span><span class="topo-membrane">YIQFLSQPIITFGTAMAAFYLPVTVMCTL</span><span class="topo-outside">YWRIYRET</span></span>
+<span class="topo-line"><span class="topo-outside">ENRNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNTNGVI</span></span>
+<span class="topo-line"><span class="topo-outside">TKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALINMVFQMGETGVAGFTNSL</span></span>
+<span class="topo-line"><span class="topo-outside">RMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYFSLVKEKKAARTL</span><span class="topo-membrane">SAIL</span></span>
+<span class="topo-line"><span class="topo-membrane">LAFILTWTPYNIMVLVSTFC</span><span class="topo-inside">KDC</span><span class="topo-membrane">VPETLWELGYWLCYVNSTINPMC</span><span class="topo-outside">YALCNKAFRDTFRL</span></span>
+<span class="topo-line"><span class="topo-outside">LLLCRWDK</span><span class="topo-unknown">RRWRKIPKRPGSVHRTPSRQCHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>44</td>
+      <td>-24</td>
+      <td>19</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>48</td>
+      <td>20</td>
+      <td>23</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>49</td>
+      <td>73</td>
+      <td>24</td>
+      <td>48</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>74</td>
+      <td>88</td>
+      <td>49</td>
+      <td>63</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>112</td>
+      <td>64</td>
+      <td>87</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>113</td>
+      <td>121</td>
+      <td>88</td>
+      <td>96</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>122</td>
+      <td>145</td>
+      <td>97</td>
+      <td>120</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td>169</td>
+      <td>121</td>
+      <td>144</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>170</td>
+      <td>192</td>
+      <td>145</td>
+      <td>167</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>193</td>
+      <td>203</td>
+      <td>168</td>
+      <td>178</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>204</td>
+      <td>232</td>
+      <td>179</td>
+      <td>207</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>233</td>
+      <td>243</td>
+      <td>208</td>
+      <td>218</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>244</td>
+      <td>403</td>
+      <td>1001</td>
+      <td>1160</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>404</td>
+      <td>416</td>
+      <td>355</td>
+      <td>367</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>417</td>
+      <td>440</td>
+      <td>368</td>
+      <td>391</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>441</td>
+      <td>443</td>
+      <td>392</td>
+      <td>394</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>444</td>
+      <td>466</td>
+      <td>395</td>
+      <td>417</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>467</td>
+      <td>488</td>
+      <td>418</td>
+      <td>439</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>489</td>
+      <td>515</td>
+      <td>440</td>
+      <td>466</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-## Crystallization
-
+</div>
 ### doi/10.1016##j.cell.2021.11.001
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) crystallization |
-| Protein sample | Purified [M1-StaR-T4L](/xray-mp-wiki/proteins/gpcr/m1-star-t4l/) at approximately 60 mg/mL in 40 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.6, 150 mM NaCl, 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 40 uM ligand |
-| Temperature | 20 degrees Celsius |
-| Growth time | Not specified |
-| Cryoprotection | Crystals were flash-cooled in liquid nitrogen |
-| Notes | Three structures were solved: [M1-StaR-T4L](/xray-mp-wiki/proteins/gpcr/m1-star-t4l/) with [77-LH-28-1](/xray-mp-wiki/reagents/ligands/77-lh-28-1/) (PDB 6ZFZ), [HTL9936](/xray-mp-wiki/reagents/ligands/htl9936/) (PDB 6ZG4), and [GSK1034702](/xray-mp-wiki/reagents/ligands/gsk1034702/) (PDB 6ZG9). All structures were solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) using the turkey beta1-adrenergic receptor (PDB 2Y00) as the search model. Iterative rounds of model refinement with BUSTER were interspersed with manual model building in COOT. Two TLS groups corresponding to the receptor and [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) were defined.
- |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6zfz">6ZFZ</a></td>
+      <td>2.17 A</td>
+      <td>C 2 2 21</td>
+      <td><a href="/xray-mp-wiki/proteins/gpcr/m1-star-t4l/">M1-StaR-T4L</a> (12 thermostabilizing mutations, M4 N-terminus chimera, C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a>, <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> in ICL3)</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/77-lh-28-1/">77-LH-28-1</a></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6zg4">6ZG4</a></td>
+      <td>2.17 A</td>
+      <td>C 2 2 21</td>
+      <td><a href="/xray-mp-wiki/proteins/gpcr/m1-star-t4l/">M1-StaR-T4L</a> (12 thermostabilizing mutations, M4 N-terminus chimera, C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a>, <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> in ICL3)</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/htl9936/">HTL9936</a></td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/6zg9">6ZG9</a></td>
+      <td>2.17 A</td>
+      <td>C 2 2 21</td>
+      <td><a href="/xray-mp-wiki/proteins/gpcr/m1-star-t4l/">M1-StaR-T4L</a> (12 thermostabilizing mutations, M4 N-terminus chimera, C-terminal <a href="/xray-mp-wiki/concepts/methods-techniques/truncation/">Protein Truncation for Crystallization</a>, <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> in ICL3)</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/gsk1034702/">GSK1034702</a></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: Sf21 insect cells (baculovirus expression vector system)
+- **Construct**: [M1-StaR-T4L](/xray-mp-wiki/proteins/gpcr/m1-star-t4l/) construct with N-terminal GP64 signal sequence, chimeric M4 N-terminus (residues 1-95 of M4 replacing residues 1-87 of M1), residues 88-438 of M1 receptor, C-terminal [Protein Truncation for Crystallization](/xray-mp-wiki/concepts/methods-techniques/truncation/) (residues 439-460 removed), [T4L](/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/) inserted into ICL3 between residues 219 and 354, and C-terminal deca-histidine tag. The StaR variant contains 12 thermostabilizing mutations: F27A, T32A, V46L, L64A, T95A, W101A, S112A, A143L, A196T, K362A, A364L, S411A.
+
+
+**Purification:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture and infection</td>
+      <td>Sf21 cells infected with baculovirus at multiplicity of infection 2, harvested 48 hours post-infection</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>Cells grown at 27 degrees Celsius with constant shaking in ESF 921 medium supplemented with 10% FBS and 1% penicillin/streptomycin</td>
+    </tr>
+    <tr>
+      <td>Cell disruption and membrane preparation</td>
+      <td>Cell disruption at 15000 psi using microfluidizer, membranes pelleted by ultracentrifugation at 200000 g for 50 min, high salt washes</td>
+      <td>--</td>
+      <td>PBS, 5 mM <a href="/xray-mp-wiki/reagents/additives/edta/">EDTA</a>, protease inhibitor cocktail; wash buffer: PBS, 1 M NaCl, protease inhibitor cocktail + --</td>
+      <td>Membranes resuspended in 40 mM Tris pH 7.6, 500 mM NaCl with protease inhibitors and stored at -80 degrees Celsius</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Membranes incubated with ligand (40 uM <a href="/xray-mp-wiki/reagents/ligands/htl9936/">HTL9936</a> or <a href="/xray-mp-wiki/reagents/ligands/gsk1034702/">GSK1034702</a> or <a href="/xray-mp-wiki/reagents/ligands/77-lh-28-1/">77-LH-28-1</a>) for 40 min at room temperature, then solubilized with 1.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> for 1 hour at 4 degrees Celsius</td>
+      <td>--</td>
+      <td>40 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.6, 500 mM NaCl, protease inhibitor cocktail + 1.5% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Solubilized material clarified by centrifugation at 145000 g for 60 min</td>
+    </tr>
+    <tr>
+      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Batch binding to <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) Superflow resin for 3 hours, gradient wash (10 to 60 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>), elution with 245 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">[Ni-NTA</a>](/xray-mp-wiki/reagents/additives/nickel-nta/) Superflow resin</td>
+      <td>40 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.6, 150 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (binding); 40 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.6, 500 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 70 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> (wash); 40 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.6, 500 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 245 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> (elution) + 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Ligand (20 uM) included in all binding and wash buffers</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">[SEC</a>](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) on <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> column pre-equilibrated with buffer containing ligand</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
+      <td>40 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.6, 150 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 40 uM ligand + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Protein concentrated to approximately 60 mg/mL using 100 kDa cut-off membrane prior to crystallization</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) crystallization</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified <a href="/xray-mp-wiki/proteins/gpcr/m1-star-t4l/">M1-StaR-T4L</a> at approximately 60 mg/mL in 40 mM <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris-HCl Buffer</a> pH 7.6, 150 mM NaCl, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 40 uM ligand</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 degrees Celsius</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Crystals were flash-cooled in liquid nitrogen</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Three structures were solved: <a href="/xray-mp-wiki/proteins/gpcr/m1-star-t4l/">M1-StaR-T4L</a> with <a href="/xray-mp-wiki/reagents/ligands/77-lh-28-1/">77-LH-28-1</a> (PDB 6ZFZ), <a href="/xray-mp-wiki/reagents/ligands/htl9936/">HTL9936</a> (PDB 6ZG4), and <a href="/xray-mp-wiki/reagents/ligands/gsk1034702/">GSK1034702</a> (PDB 6ZG9). All structures were solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> using the turkey beta1-adrenergic receptor (PDB 2Y00) as the search model. Iterative rounds of model refinement with BUSTER were interspersed with manual model building in COOT. Two TLS groups corresponding to the receptor and <a href="/xray-mp-wiki/reagents/protein-tags/t4-lysozyme/">T4L</a> were defined.
+</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6zfz">6ZFZ</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">METV</span><span class="topo-membrane">EMVAIATVAGLLSLATVTGNILLML</span><span class="topo-outside">SIKVNRQLQTVNNY</span><span class="topo-membrane">FAFSLACADLIIGAFSM</span></span>
+<span class="topo-line"><span class="topo-membrane">NLYTVYII</span><span class="topo-inside">MGHWALGAL</span><span class="topo-membrane">ACDLALALDYVASNAAVMNLLLISF</span><span class="topo-outside">DRYFSVTRPLSYRAKRTP</span></span>
+<span class="topo-line"><span class="topo-outside">RRAL</span><span class="topo-membrane">LMIGLAWLVSFVLWAPAILFW</span><span class="topo-inside">QYLVGERTVLAGQC</span><span class="topo-membrane">YIQFLSQPIITFGTAMATFYL</span></span>
+<span class="topo-line"><span class="topo-membrane">PVTVMCTLYW</span><span class="topo-outside">RIYRETENRANIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNA</span></span>
+<span class="topo-line"><span class="topo-outside">AKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALIN</span></span>
+<span class="topo-line"><span class="topo-outside">MVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAY</span></span>
+<span class="topo-line"><span class="topo-outside">TFSLVKEKAALRT</span><span class="topo-membrane">LSAILLAFILTWTPYNIMVLVSTF</span><span class="topo-inside">CKDCVPE</span><span class="topo-membrane">TLWELGYWLCYVNATI</span></span>
+<span class="topo-line"><span class="topo-membrane">NPMCYAL</span><span class="topo-outside">CNKAFRDTFRLLLLARWDH</span><span class="topo-unknown">HHHHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>20</td>
+      <td>23</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>29</td>
+      <td>24</td>
+      <td>48</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>43</td>
+      <td>49</td>
+      <td>62</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>44</td>
+      <td>68</td>
+      <td>63</td>
+      <td>87</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>77</td>
+      <td>88</td>
+      <td>96</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>102</td>
+      <td>97</td>
+      <td>121</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>103</td>
+      <td>124</td>
+      <td>122</td>
+      <td>143</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>125</td>
+      <td>145</td>
+      <td>144</td>
+      <td>164</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td>159</td>
+      <td>165</td>
+      <td>178</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>160</td>
+      <td>190</td>
+      <td>179</td>
+      <td>209</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>191</td>
+      <td>200</td>
+      <td>210</td>
+      <td>219</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>201</td>
+      <td>360</td>
+      <td>1002</td>
+      <td>1161</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>361</td>
+      <td>373</td>
+      <td>354</td>
+      <td>366</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>374</td>
+      <td>397</td>
+      <td>367</td>
+      <td>390</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>398</td>
+      <td>404</td>
+      <td>391</td>
+      <td>397</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>405</td>
+      <td>427</td>
+      <td>398</td>
+      <td>420</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>446</td>
+      <td>421</td>
+      <td>439</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>447</td>
+      <td>455</td>
+      <td>440</td>
+      <td>448</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6zg4">6ZG4</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">METVEMV</span><span class="topo-membrane">AIATVAGLLSLATVTGNILLMLSIKV</span><span class="topo-inside">NRQLQTVNN</span><span class="topo-membrane">YFAFSLACADLIIGAFSM</span></span>
+<span class="topo-line"><span class="topo-membrane">NLYTVYI</span><span class="topo-outside">IMGHWALGAL</span><span class="topo-membrane">ACDLALALDYVASNAAVMNLLLISF</span><span class="topo-inside">DRYFSVTRPLSYRAKRTP</span></span>
+<span class="topo-line"><span class="topo-inside">RRA</span><span class="topo-membrane">LLMIGLAWLVSFVLWAPAILFWQYL</span><span class="topo-outside">VGERTVLAGQCYIQFL</span><span class="topo-membrane">SQPIITFGTAMATFYL</span></span>
+<span class="topo-line"><span class="topo-membrane">PVTVMCTLY</span><span class="topo-inside">WRIYRETENRANIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNA</span></span>
+<span class="topo-line"><span class="topo-inside">AKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALIN</span></span>
+<span class="topo-line"><span class="topo-inside">MVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAY</span></span>
+<span class="topo-line"><span class="topo-inside">TFSLVKEKAALRT</span><span class="topo-membrane">LSAILLAFILTWTPYNIMVLVSTFC</span><span class="topo-outside">KDCVPET</span><span class="topo-membrane">LWELGYWLCYVNATI</span></span>
+<span class="topo-line"><span class="topo-membrane">NPMCYALC</span><span class="topo-inside">NKAF</span><span class="topo-unknown">RDTFRLLLLARWDHHHHHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>7</td>
+      <td>20</td>
+      <td>26</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>33</td>
+      <td>27</td>
+      <td>52</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>34</td>
+      <td>42</td>
+      <td>53</td>
+      <td>61</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>43</td>
+      <td>67</td>
+      <td>62</td>
+      <td>86</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>77</td>
+      <td>87</td>
+      <td>96</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>78</td>
+      <td>102</td>
+      <td>97</td>
+      <td>121</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>103</td>
+      <td>123</td>
+      <td>122</td>
+      <td>142</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>148</td>
+      <td>143</td>
+      <td>167</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>149</td>
+      <td>164</td>
+      <td>168</td>
+      <td>183</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>165</td>
+      <td>189</td>
+      <td>184</td>
+      <td>208</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>190</td>
+      <td>373</td>
+      <td>209</td>
+      <td>366</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>374</td>
+      <td>398</td>
+      <td>367</td>
+      <td>391</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>399</td>
+      <td>405</td>
+      <td>392</td>
+      <td>398</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>406</td>
+      <td>428</td>
+      <td>399</td>
+      <td>421</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>429</td>
+      <td>432</td>
+      <td>422</td>
+      <td>425</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>433</td>
+      <td>446</td>
+      <td>426</td>
+      <td>439</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6zg9">6ZG9</a> — Chain A (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">METV</span><span class="topo-membrane">EMVAIATVAGLLSLATVTGNILLM</span><span class="topo-inside">LSIKVNRQLQTVNNYF</span><span class="topo-membrane">AFSLACADLIIGAFSM</span></span>
+<span class="topo-line"><span class="topo-membrane">NLYTVYII</span><span class="topo-outside">MGHWAL</span><span class="topo-membrane">GALACDLALALDYVASNAAVMNLLLIS</span><span class="topo-inside">FDRYFSVTRPLSYRAKRTP</span></span>
+<span class="topo-line"><span class="topo-inside">RRALLM</span><span class="topo-membrane">IGLAWLVSFVLWAPAILFW</span><span class="topo-outside">QYLVGERTVLAGQC</span><span class="topo-membrane">YIQFLSQPIITFGTAMATFYL</span></span>
+<span class="topo-line"><span class="topo-membrane">PVTVMCTLY</span><span class="topo-inside">WRIYRETENRANIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNA</span></span>
+<span class="topo-line"><span class="topo-inside">AKSELDKAIGRNTNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRAALIN</span></span>
+<span class="topo-line"><span class="topo-inside">MVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAY</span></span>
+<span class="topo-line"><span class="topo-inside">TFSLVKEKAALRTL</span><span class="topo-membrane">SAILLAFILTWTPYNIMVLVSTF</span><span class="topo-outside">CKDCVPET</span><span class="topo-membrane">LWELGYWLCYVNATI</span></span>
+<span class="topo-line"><span class="topo-membrane">NPMC</span><span class="topo-inside">YALCN</span><span class="topo-unknown">KAFRDTFRLLLLARW</span><span class="topo-inside">DH</span><span class="topo-unknown">HHHHHHHHH</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>20</td>
+      <td>23</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>28</td>
+      <td>24</td>
+      <td>47</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>29</td>
+      <td>44</td>
+      <td>48</td>
+      <td>63</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>68</td>
+      <td>64</td>
+      <td>87</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>74</td>
+      <td>88</td>
+      <td>93</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>75</td>
+      <td>101</td>
+      <td>94</td>
+      <td>120</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>102</td>
+      <td>126</td>
+      <td>121</td>
+      <td>145</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>127</td>
+      <td>145</td>
+      <td>146</td>
+      <td>164</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td>159</td>
+      <td>165</td>
+      <td>178</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>160</td>
+      <td>189</td>
+      <td>179</td>
+      <td>208</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>190</td>
+      <td>374</td>
+      <td>209</td>
+      <td>367</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>375</td>
+      <td>397</td>
+      <td>368</td>
+      <td>390</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>398</td>
+      <td>405</td>
+      <td>391</td>
+      <td>398</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>406</td>
+      <td>424</td>
+      <td>399</td>
+      <td>417</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>425</td>
+      <td>429</td>
+      <td>418</td>
+      <td>422</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>430</td>
+      <td>444</td>
+      <td>423</td>
+      <td>437</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>445</td>
+      <td>446</td>
+      <td>438</td>
+      <td>439</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -134,17 +1101,17 @@ molecular basis for subtype-selective agonist design.
 
 ## Cross-References
 
-- [MT7](/xray-mp-wiki/reagents/ligands/mt7/) — Co-crystallized allosteric toxin modulator, PDB 6WJC
-- [Tx24](/xray-mp-wiki/reagents/ligands/tx24/) — Engineered M2-selective variant derived from MT7 using M1 structure as template
-- [Three-Finger Toxin Scaffold for GPCR Modulation](/xray-mp-wiki/concepts/signaling-receptors/three-finger-toxin-gpcr-modulation/) — M1AChR-MT7 structure is the paradigm for 3FT-GPCR interaction
-- [Atropine](/xray-mp-wiki/reagents/ligands/atropine/) — Orthosteric antagonist co-crystallized in M1AChR-MT7 complex (PDB 6WJC)
-- [Turkey Beta1-Adrenergic Receptor M23](/xray-mp-wiki/proteins/gpcr/turkey-beta1-ar-m23/) — Template structure (PDB 2Y00) used for molecular replacement in all M1 structure determinations
-- [M1-StaR-T4L](/xray-mp-wiki/proteins/gpcr/m1-star-t4l/) — Specific thermostabilized M1 receptor construct with T4L fusion used for crystallization
-- [N-Dodecyl-beta-D-Maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Primary detergent used for membrane solubilization and throughout purification
-- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — Crystallization method used for all three M1-StaR-T4L structures
-- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Final purification step for monodisperse M1-StaR-T4L sample
-- [Biased Agonism in G Protein-Coupled Receptors](/xray-mp-wiki/concepts/signaling-receptors/biased-agonism/) — HTL9936 was characterized as an unbiased agonist of the M1 receptor across multiple signaling pathways
-- [HTL9936](/xray-mp-wiki/reagents/ligands/htl9936/) — Selective M1 partial agonist co-crystallized (PDB 6ZG4)
-- [GSK1034702](/xray-mp-wiki/reagents/ligands/gsk1034702/) — Bitopic M1 agonist co-crystallized (PDB 6ZG9)
-- [Human M4 Muscarinic Acetylcholine Receptor](/xray-mp-wiki/proteins/gpcr/m4-muscarinic-acetylcholine-receptor/) — Related muscarinic receptor subtype; M1 and M4 structures solved in same study (PDB 5CXV)
-- [Pirenzepine](/xray-mp-wiki/reagents/ligands/pirenzepine/) — M1-selective antagonist used in induced fit docking studies on M1 structure (PDB 5CXV)
+- <a href="/xray-mp-wiki/reagents/ligands/mt7/">MT7</a> — Co-crystallized allosteric toxin modulator, PDB 6WJC
+- <a href="/xray-mp-wiki/reagents/ligands/tx24/">Tx24</a> — Engineered M2-selective variant derived from MT7 using M1 structure as template
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/three-finger-toxin-gpcr-modulation/">Three-Finger Toxin Scaffold for GPCR Modulation</a> — M1AChR-MT7 structure is the paradigm for 3FT-GPCR interaction
+- <a href="/xray-mp-wiki/reagents/ligands/atropine/">Atropine</a> — Orthosteric antagonist co-crystallized in M1AChR-MT7 complex (PDB 6WJC)
+- <a href="/xray-mp-wiki/proteins/gpcr/turkey-beta1-ar-m23/">Turkey Beta1-Adrenergic Receptor M23</a> — Template structure (PDB 2Y00) used for molecular replacement in all M1 structure determinations
+- <a href="/xray-mp-wiki/proteins/gpcr/m1-star-t4l/">M1-StaR-T4L</a> — Specific thermostabilized M1 receptor construct with T4L fusion used for crystallization
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">N-Dodecyl-beta-D-Maltopyranoside (DDM)</a> — Primary detergent used for membrane solubilization and throughout purification
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — Crystallization method used for all three M1-StaR-T4L structures
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> — Final purification step for monodisperse M1-StaR-T4L sample
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/biased-agonism/">Biased Agonism in G Protein-Coupled Receptors</a> — HTL9936 was characterized as an unbiased agonist of the M1 receptor across multiple signaling pathways
+- <a href="/xray-mp-wiki/reagents/ligands/htl9936/">HTL9936</a> — Selective M1 partial agonist co-crystallized (PDB 6ZG4)
+- <a href="/xray-mp-wiki/reagents/ligands/gsk1034702/">GSK1034702</a> — Bitopic M1 agonist co-crystallized (PDB 6ZG9)
+- <a href="/xray-mp-wiki/proteins/gpcr/m4-muscarinic-acetylcholine-receptor/">Human M4 Muscarinic Acetylcholine Receptor</a> — Related muscarinic receptor subtype; M1 and M4 structures solved in same study (PDB 5CXV)
+- <a href="/xray-mp-wiki/reagents/ligands/pirenzepine/">Pirenzepine</a> — M1-selective antagonist used in induced fit docking studies on M1 structure (PDB 5CXV)

@@ -1,7 +1,7 @@
 ---
 title: "Human SLO3 (hSLO3) pH- and Voltage-Gated Potassium Channel"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,50 +17,112 @@ verified: false
 hSLO3 (KCNU1) is a pH- and voltage-gated potassium channel from the SLO family, exclusively expressed in mammalian sperm. It is activated by intracellular alkalization and plays a critical role in male fertility. The channel features a transmembrane voltage sensor and a large cytoplasmic gating ring composed of tandem RCK (regulator of K+ conductance) domains. The gating ring acts as an intracellular pH sensor, and its crystal structure suggests an open conformation similar to the Ca2+-bound open state of the homologous SLO1 channel.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1073##pnas.1215078109 | 4HPF | 3.30 | I222 | hSLO3 CTD residues 330-1062 with loop deletion (residues 831-851) - gating ring only |  |
+### doi/10.1073##pnas.1215078109
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4hpf">4HPF</a></td>
+      <td>3.30</td>
+      <td>I222</td>
+      <td>hSLO3 CTD residues 330-1062 with loop deletion (residues 831-851) - gating ring only</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Sf9 insect cells (baculovirus); CTD construct (residues 330-1062, loop deletion 831-851) fused to C-terminal PreScission-GFP-His10 tag
 
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: Sf9 insect cells
 - **Expression construct**: hSLO3 CTD (330-1062, loop del 831-851) with C-terminal PreScission-GFP-His10
 - **Tag info**: C-terminal GFP-His10, removed by [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) (1:40 wt/wt, overnight)
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell disruption | Sonication | — | 500 mM KCl, 50 mM K-phosphate, 10 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 5 mM [beta-Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/), pH 8.0 (K-OH) | Supplements: DNase and protease inhibitors |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Co2+ affinity | [TALON](/xray-mp-wiki/reagents/additives/talon/) (Clontech) | 500 mM KCl, 50 mM K-phosphate, 10 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 5 mM [beta-Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/), pH 8.0 | Supplemented with 10 mM [DTT](/xray-mp-wiki/reagents/additives/dtt/); incubated overnight with [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) to remove GFP-His10 |
-| Size-exclusion chromatography | SEC | Superose 6 (GE Life Sciences) | 500 mM KCl, 20 mM K-phosphate, 20 mM [DTT](/xray-mp-wiki/reagents/additives/dtt/), 1.5 mM TCEP, pH 8.5 (K-OH) | Protein concentrated to ~5 mg/mL for crystallization |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell disruption</td>
+      <td>Sonication</td>
+      <td>—</td>
+      <td>500 mM KCl, 50 mM K-phosphate, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-Mercaptoethanol</a>, pH 8.0 (K-OH)</td>
+      <td>Supplements: DNase and protease inhibitors</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Co2+ affinity</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> (Clontech)</td>
+      <td>500 mM KCl, 50 mM K-phosphate, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 5 mM <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-Mercaptoethanol</a>, pH 8.0</td>
+      <td>Supplemented with 10 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>; incubated overnight with <a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> to remove GFP-His10</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>SEC</td>
+      <td>Superose 6 (GE Life Sciences)</td>
+      <td>500 mM KCl, 20 mM K-phosphate, 20 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a>, 1.5 mM TCEP, pH 8.5 (K-OH)</td>
+      <td>Protein concentrated to ~5 mg/mL for crystallization</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: ~5 mg/mL in 500 mM KCl, 20 mM K-phosphate, 20 mM [DTT](/xray-mp-wiki/reagents/additives/dtt/), 1.5 mM TCEP, pH 8.5
 **Yield**: not specified
 **Purity**: not specified
 
+**Crystallization:**
 
-## Crystallization
-
-### doi/10.1073##pnas.1215078109
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion (hanging drop) |
-| Protein sample | hSLO3 CTD (330-1062, loop deletion 831-851) at ~5 mg/mL |
-| Reservoir | 50 mM K-phosphate, 3% (wt/vol) PEG12000, 1 M [Ammonium Formate](/xray-mp-wiki/reagents/additives/ammonium-formate/), pH 6.3 (K-OH) |
-| Temperature | 20 |
-| Growth time | 3 days |
-| Cryoprotection | [Ethylene Glycol](/xray-mp-wiki/reagents/additives/ethylene-glycol/) gradient (5%, 10%, 20%, 30% vol/vol) in cryoprotective solution (500 mM KCl, 70 mM K-phosphate, 4% PEG12000, 1 M [Ammonium Formate](/xray-mp-wiki/reagents/additives/ammonium-formate/), pH 6.4) |
-| Notes | Final pH of mixed drop measured at 6.8. Crystals grew to 0.4 x 0.15 x 0.05 mm. Space group I222. |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion (hanging drop)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>hSLO3 CTD (330-1062, loop deletion 831-851) at ~5 mg/mL</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>50 mM K-phosphate, 3% (wt/vol) PEG12000, 1 M <a href="/xray-mp-wiki/reagents/additives/ammonium-formate/">Ammonium Formate</a>, pH 6.3 (K-OH)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>3 days</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/ethylene-glycol/">Ethylene Glycol</a> gradient (5%, 10%, 20%, 30% vol/vol) in cryoprotective solution (500 mM KCl, 70 mM K-phosphate, 4% PEG12000, 1 M <a href="/xray-mp-wiki/reagents/additives/ammonium-formate/">Ammonium Formate</a>, pH 6.4)</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Final pH of mixed drop measured at 6.8. Crystals grew to 0.4 x 0.15 x 0.05 mm. Space group I222.</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -79,13 +141,13 @@ The structural conservation of the RCK1 N-lobe layer between hSLO3 and SLO1 open
 
 ## Cross-References
 
-- [SLO1 BK Channel](/xray-mp-wiki/proteins/slo1/) — Homologous Ca2+-activated K+ channel; structural comparator for gating ring conformations
-- [Mouse SLO3 (mSLO3)](/xray-mp-wiki/proteins/mslo3/) — Mouse orthologue with similar pH sensitivity but higher functional expression
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [Ammonium Formate](/xray-mp-wiki/reagents/additives/ammonium-formate/) — Additive used in purification or crystallization buffers
-- [beta-Mercaptoethanol](/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/) — Additive used in purification or crystallization buffers
-- [DTT](/xray-mp-wiki/reagents/additives/dtt/) — Additive used in purification or crystallization buffers
-- [Ethylene Glycol](/xray-mp-wiki/reagents/additives/ethylene-glycol/) — Additive used in purification or crystallization buffers
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers
-- [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) — Additive used in purification or crystallization buffers
-- [TALON](/xray-mp-wiki/reagents/additives/talon/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/proteins/slo1/">SLO1 BK Channel</a> — Homologous Ca2+-activated K+ channel; structural comparator for gating ring conformations
+- <a href="/xray-mp-wiki/proteins/mslo3/">Mouse SLO3 (mSLO3)</a> — Mouse orthologue with similar pH sensitivity but higher functional expression
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/ammonium-formate/">Ammonium Formate</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/beta-mercaptoethanol/">beta-Mercaptoethanol</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/ethylene-glycol/">Ethylene Glycol</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> — Additive used in purification or crystallization buffers

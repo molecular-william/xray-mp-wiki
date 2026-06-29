@@ -1,12 +1,12 @@
 ---
 title: "BetP (Na+/Betaine Symporter from Corynebacterium glutamicum)"
 created: 2026-05-29
-updated: 2026-06-02
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [transporter, membrane-protein, xray-crystallography]
-sources: [doi/10.1038##NATURE07819, doi/10.1038##nature11403, doi/10.1038##nsmb.1788, doi/10.1038##EMBOJ.2013.226]
+sources: [doi/10.1038##NATURE07819, doi/10.1038##nature11403, doi/10.1038##EMBOJ.2013.226]
 verified: false
 ---
 
@@ -17,99 +17,1652 @@ verified: false
 BetP is a Na+-coupled glycine betaine symporter from the bacterium [Corynebacterium glutamicum](/xray-mp-wiki/organisms/corynebacterium-glutamicum). It belongs to the BCCT (Betaine/Carnitine/Choline Transporter) family and plays a critical role in osmoregulation by accumulating the compatible solute glycine betaine in response to hyperosmotic stress. BetP is activated by intracellular K+ and other osmotic stimuli through its C-terminal regulatory domain. The crystal structure revealed a homotrimeric assembly with each monomer containing 10 transmembrane helices and a distinctive 4-helix bundle regulatory domain, providing the first structural insights into osmo-sensing in a secondary transporter.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##NATURE07819 | 3JEO | 3.35 | P212121 | SeMet-substituted BetP with N-terminal 29-residue deletion (Delta N29), N-terminal StrepII tag | [Glycine Betaine](/xray-mp-wiki/reagents/ligands/glycine-betaine), sodium ions |
-| doi/10.1038##nature11403 | 4AIN | 3.1 | Not specified | Surface-engineered BetP mutant (BetP Delta N29/E44E45E46/AAA) crystallized in presence of 5 mM betaine | [Glycine Betaine](/xray-mp-wiki/reagents/ligands/glycine-betaine), sodium ions |
-| doi/10.1038##nature11403 | 4AMR | 3.25 | Not specified | BetP G153D mutant (Gly 153 to aspartate in unfolded stretch of TMH1') co-crystallized with [Choline](/xray-mp-wiki/reagents/ligands/choline); sixfold increased affinity for sodium | [Choline](/xray-mp-wiki/reagents/ligands/choline), sodium ions |
-| doi/10.1038##EMBOJ.2013.226 | 4C7R | 2.70 | Not specified | BetP Delta N29/E44E45E46/AAA surface-engineered mutant, all three protomers in inward-open (Ci) state with 8 bound POPG lipids | [Citrate](/xray-mp-wiki/reagents/additives/citrate) (bound in cytoplasmic funnel), 8 POPG lipids (16:0/18:1) |
+### doi/10.1038##NATURE07819
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3jeo">3JEO</a></td>
+      <td>3.35</td>
+      <td>P212121</td>
+      <td>SeMet-substituted BetP with N-terminal 29-residue deletion (Delta N29), N-terminal StrepII tag</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/glycine-betaine">Glycine Betaine</a>, sodium ions</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: [Corynebacterium glutamicum](/xray-mp-wiki/organisms/corynebacterium-glutamicum) (native expression system); also expressed in E. coli (DH5alpha) for proteoliposome reconstitution assays
 - **Construct**: BetP Delta N29 (residues 30-437 of full-length 437 aa protein) with N-terminal StrepII tag; [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine)-substituted variant for SAD phasing; surface-engineered mutant BetP Delta N29/E44E45E46/AAA; substrate-specificity mutant G153D
 
-### Purification Workflow
+**Purification:**
 
-#### Source: doi/10.1038##NATURE07819
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Detergent solubilization from C. glutamicum membrane fractions</td>
+      <td>StrepTactin resin (StrepII tag affinity)</td>
+      <td>Buffer containing <a href="/xray-mp-wiki/reagents/buffers/tris">Tris</a> + Not specified</td>
+      <td>Expression in C. glutamicum; mutants assessed by immuno-blotting against N-terminal StrepII tag</td>
+    </tr>
+  </tbody>
+</table>
 
+**Crystallization:**
 
-##### Steps
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Hanging drop <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Se-Met labeled BetP Delta N29 construct</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not specified in supplementary information</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Space group P212121; unit cell a=118.09, b=129.42, c=182.94 A; alpha=beta=gamma=90 degrees; SAD phasing with selenium sites</td>
+    </tr>
+  </tbody>
+</table>
+### doi/10.1038##nature11403
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Detergent solubilization from C. glutamicum membrane fractions | StrepTactin resin (StrepII tag affinity) | Buffer containing [Tris](/xray-mp-wiki/reagents/buffers/tris) + Not specified | Expression in C. glutamicum; mutants assessed by immuno-blotting against N-terminal StrepII tag |
+**Structures:**
 
-#### Source: doi/10.1038##EMBOJ.2013.226
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4ain">4AIN</a></td>
+      <td>3.1</td>
+      <td>Not specified</td>
+      <td>Surface-engineered BetP mutant (BetP Delta N29/E44E45E46/AAA) crystallized in presence of 5 mM betaine</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/glycine-betaine">Glycine Betaine</a>, sodium ions</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4amr">4AMR</a></td>
+      <td>3.25</td>
+      <td>Not specified</td>
+      <td>BetP G153D mutant (Gly 153 to aspartate in unfolded stretch of TMH1') co-crystallized with <a href="/xray-mp-wiki/reagents/ligands/choline">Choline</a>; sixfold increased affinity for sodium</td>
+      <td><a href="/xray-mp-wiki/reagents/ligands/choline">Choline</a>, sodium ions</td>
+    </tr>
+  </tbody>
+</table>
 
+**Expression:**
 
-##### Steps
+- **Expression system**: [Corynebacterium glutamicum](/xray-mp-wiki/organisms/corynebacterium-glutamicum) (native expression system); also expressed in E. coli (DH5alpha) for proteoliposome reconstitution assays
+- **Construct**: BetP Delta N29 (residues 30-437 of full-length 437 aa protein) with N-terminal StrepII tag; [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine)-substituted variant for SAD phasing; surface-engineered mutant BetP Delta N29/E44E45E46/AAA; substrate-specificity mutant G153D
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Detergent exchange and thorough washing | StrepTactin affinity chromatography with Cymal-5 exchange | StrepTactin | 100 mM 3Na-Citrate pH 5.4-5.5, 300 mM NaCl, 20-21% PEG400 + 1.2% Cymal-5 (detergent exchanged from DDM) | Washing steps removed unspecifically bound lipids. TLC analysis confirmed presence of PG lipids (not PE) in the purified BetP sample. |
-| Lipid analysis by TLC | Thin layer chromatography (HPTLC) | Not applicable | Chloroform:methanol:water (13:7:0.8) solvent system for 1D separation + Cymal-5 | Phospholipid analysis confirmed negatively charged PG/CL species. Cymal-5 confounded initial separation. PG identity confirmed by acetone:methanol:acetic acid:water:chloroform (2:1:1:0.5:5) system. |
-
-#### Source: doi/10.1038##nature11403
+**Purification:**
 
 - **Expression system**: E. coli DH5alpha
 - **Expression construct**: Surface-engineered BetP mutants (BetP Delta N29/E44E45E46/AAA and BetP G153D) with N-terminal StrepII tag
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Membrane solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>--</td>
+      <td>Not specified + beta-dodecyl-maltoside (<a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a>)</td>
+      <td>Membranes solubilized using <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a> for heterologously expressed BetP</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography">Affinity Chromatography</a></td>
+      <td>Strep-Tactin macroprep</td>
+      <td>Strep-Tactin</td>
+      <td>Not specified + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td>Affinity purification via Strep-Tactin macroprep for StrepII-tagged BetP</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a></td>
+      <td>Not specified</td>
+      <td>Not specified + <a href="/xray-mp-wiki/reagents/detergents/ddm">DDM</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">SEC</a> for final polishing of BetP sample</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane solubilization | Detergent solubilization | -- | Not specified + beta-dodecyl-maltoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm)) | Membranes solubilized using [DDM](/xray-mp-wiki/reagents/detergents/ddm) for heterologously expressed BetP |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) | Strep-Tactin macroprep | Strep-Tactin | Not specified + [DDM](/xray-mp-wiki/reagents/detergents/ddm) | Affinity purification via Strep-Tactin macroprep for StrepII-tagged BetP |
-| [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) | Not specified | Not specified + [DDM](/xray-mp-wiki/reagents/detergents/ddm) | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) for final polishing of BetP sample |
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>BetP Delta N29/E44E45E46/AAA crystallized in presence of 5 mM betaine</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Data collected to 3.1 A at PXII beamline of Swiss Light Source (SLS); structure determined by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement">Molecular Replacement</a> using BetP (PDB 4AMR) as search model</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Co-crystallization with substrate</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>BetP G153D mutant co-crystallized with <a href="/xray-mp-wiki/reagents/ligands/choline">Choline</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Data collected to 3.2 A at beamline id29 at ESRF; structure determined by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement">Molecular Replacement</a> using BetP (PDB 3P03) as search model</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-## Crystallization
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4ain">4AIN</a> — Chain A (12 TMs, alpha)**
 
-### doi/10.1038##NATURE07819
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">ADAEEEIILEGEDTQASL</span><span class="topo-membrane">NWSVIVPALVIVLATVV</span><span class="topo-outside">WGIGFKDSFTNFASSALSAVVDN</span><span class="topo-membrane">LG</span></span>
+<span class="topo-line"><span class="topo-membrane">WAFILFGTVFVFFIVVIA</span><span class="topo-inside">ASKFGTIRLGRIDEAPEFRTV</span><span class="topo-membrane">SWISMMFAAGMGIGLMF</span><span class="topo-outside">YGTT</span></span>
+<span class="topo-line"><span class="topo-outside">EPLTFYRNGVPGHDEHNVGVAMS</span><span class="topo-membrane">TTMFHWTLHPWAIYAIVGLA</span><span class="topo-inside">IAYSTFRVGRKQLLSSA</span></span>
+<span class="topo-line"><span class="topo-inside">FVPLIGEKGAEGW</span><span class="topo-membrane">LGKLIDILAIIATVFGTACSLG</span><span class="topo-outside">LGALQIGAGLSAAN</span><span class="topo-unknown">II</span><span class="topo-outside">EDPSDWTIV</span></span>
+<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">IVSVLTLAFIFSAIS</span><span class="topo-unknown">GVGK</span><span class="topo-membrane">GIQYLSNANMVLAALLAIFVFV</span><span class="topo-outside">VGPTVSILNLLPGSIGNY</span></span>
+<span class="topo-line"><span class="topo-outside">LSNFFQMAGRTAMSADGTAGEWLGSWT</span><span class="topo-membrane">IFYWAWWISWSPFVGMFL</span><span class="topo-inside">ARISRGRSIREF</span><span class="topo-membrane">ILG</span></span>
+<span class="topo-line"><span class="topo-membrane">VLLVPAGVSTVWFSI</span><span class="topo-outside">FGGTAIVFEQNGESIWGDGAAEEQLFGLLHALPGGQIMGII</span><span class="topo-membrane">AMIL</span></span>
+<span class="topo-line"><span class="topo-membrane">LGTFFITSADSASTVMGTMS</span><span class="topo-inside">QHGQLEA</span><span class="topo-membrane">NKWVTAAWGVATAAIGL</span><span class="topo-outside">TLLLS</span><span class="topo-unknown">GGDNA</span><span class="topo-outside">LSNLQN</span></span>
+<span class="topo-line"><span class="topo-outside">V</span><span class="topo-membrane">TIVAATPFLFVVIGLMF</span><span class="topo-inside">ALVKDLSNDVIYLEYREQQRFNARLARERRVHNEHRKRELA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>18</td>
+      <td>41</td>
+      <td>58</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>35</td>
+      <td>59</td>
+      <td>75</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>58</td>
+      <td>76</td>
+      <td>98</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>78</td>
+      <td>99</td>
+      <td>118</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>99</td>
+      <td>119</td>
+      <td>139</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>116</td>
+      <td>140</td>
+      <td>156</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>117</td>
+      <td>143</td>
+      <td>157</td>
+      <td>183</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>144</td>
+      <td>163</td>
+      <td>184</td>
+      <td>203</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>164</td>
+      <td>193</td>
+      <td>204</td>
+      <td>233</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>194</td>
+      <td>215</td>
+      <td>234</td>
+      <td>255</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>229</td>
+      <td>256</td>
+      <td>269</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>230</td>
+      <td>231</td>
+      <td>270</td>
+      <td>271</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>232</td>
+      <td>241</td>
+      <td>272</td>
+      <td>281</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>242</td>
+      <td>256</td>
+      <td>282</td>
+      <td>296</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>257</td>
+      <td>259</td>
+      <td>297</td>
+      <td>299</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>261</td>
+      <td>282</td>
+      <td>301</td>
+      <td>322</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>327</td>
+      <td>323</td>
+      <td>367</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>328</td>
+      <td>345</td>
+      <td>368</td>
+      <td>385</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>346</td>
+      <td>357</td>
+      <td>386</td>
+      <td>397</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>358</td>
+      <td>375</td>
+      <td>398</td>
+      <td>415</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>376</td>
+      <td>416</td>
+      <td>416</td>
+      <td>456</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>417</td>
+      <td>440</td>
+      <td>457</td>
+      <td>480</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>441</td>
+      <td>447</td>
+      <td>481</td>
+      <td>487</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>448</td>
+      <td>464</td>
+      <td>488</td>
+      <td>504</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>465</td>
+      <td>469</td>
+      <td>505</td>
+      <td>509</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>470</td>
+      <td>474</td>
+      <td>510</td>
+      <td>514</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>475</td>
+      <td>481</td>
+      <td>515</td>
+      <td>521</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>482</td>
+      <td>498</td>
+      <td>522</td>
+      <td>538</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>499</td>
+      <td>539</td>
+      <td>539</td>
+      <td>579</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Hanging drop [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) |
-| Protein sample | Se-Met labeled BetP Delta N29 construct |
-| Reservoir | Not specified in supplementary information |
-| Temperature | 20 |
-| Growth time | Not specified |
-| Notes | Space group P212121; unit cell a=118.09, b=129.42, c=182.94 A; alpha=beta=gamma=90 degrees; SAD phasing with selenium sites |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4ain">4AIN</a> — Chain B (12 TMs, alpha)**
 
-### doi/10.1038##nature11403
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">ADAEEEIILEGEDTQ</span><span class="topo-inside">ASL</span><span class="topo-membrane">NWSVIVPALVIVLATVV</span><span class="topo-outside">WGIGFKDSFTNFASSALSAVVDN</span><span class="topo-membrane">LG</span></span>
+<span class="topo-line"><span class="topo-membrane">WAFILFGTVFVFFIVVIA</span><span class="topo-inside">ASKFGTIRLGR</span><span class="topo-unknown">IDEAP</span><span class="topo-inside">EFRTV</span><span class="topo-membrane">SWISMMFAAGMGIGLM</span><span class="topo-outside">FYGTT</span></span>
+<span class="topo-line"><span class="topo-outside">EPLTFYRNGVPGHDEHNVGVAMS</span><span class="topo-membrane">TTMFHWTLHPWAIYAIVGLA</span><span class="topo-inside">IAYSTFRVGRKQLLSSA</span></span>
+<span class="topo-line"><span class="topo-inside">FVPLIGEKGAEGW</span><span class="topo-membrane">LGKLIDILAIIATVFGTACSLG</span><span class="topo-outside">LGALQIGAGLSAANIIEDPSDWTIV</span></span>
+<span class="topo-line"><span class="topo-outside">G</span><span class="topo-membrane">IVSVLTLAFIFSAISGVG</span><span class="topo-unknown">K</span><span class="topo-membrane">GIQYLSNANMVLAALLAIFVFV</span><span class="topo-outside">VGPTVSILNLLPGSIGNY</span></span>
+<span class="topo-line"><span class="topo-outside">LSNFFQMAGRTAMSADGTAGEWLGSWT</span><span class="topo-membrane">IFYWAWWISWSPFVGMFLA</span><span class="topo-inside">RISRGRSIREF</span><span class="topo-membrane">ILG</span></span>
+<span class="topo-line"><span class="topo-membrane">VLLVPAGVSTVWFSI</span><span class="topo-outside">FGGTAIVFEQNGESIWGDGAAEEQLFGLLHALPGGQIMGII</span><span class="topo-membrane">AMIL</span></span>
+<span class="topo-line"><span class="topo-membrane">LGTFFITSADSASTVMGTMS</span><span class="topo-inside">QHGQLEAN</span><span class="topo-membrane">KWVTAAWGVATAAIGL</span><span class="topo-outside">TLLLSGGDNALSNLQN</span></span>
+<span class="topo-line"><span class="topo-outside">V</span><span class="topo-membrane">TIVAATPFLFVVIGLMF</span><span class="topo-inside">ALVKDLSNDVIYLEYREQQ</span><span class="topo-unknown">RFNARLARERRVHNEHRKRELA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>15</td>
+      <td>41</td>
+      <td>55</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>18</td>
+      <td>56</td>
+      <td>58</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>35</td>
+      <td>59</td>
+      <td>75</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>36</td>
+      <td>58</td>
+      <td>76</td>
+      <td>98</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>78</td>
+      <td>99</td>
+      <td>118</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>79</td>
+      <td>89</td>
+      <td>119</td>
+      <td>129</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>94</td>
+      <td>130</td>
+      <td>134</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>95</td>
+      <td>99</td>
+      <td>135</td>
+      <td>139</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>115</td>
+      <td>140</td>
+      <td>155</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>143</td>
+      <td>156</td>
+      <td>183</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>144</td>
+      <td>163</td>
+      <td>184</td>
+      <td>203</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>164</td>
+      <td>193</td>
+      <td>204</td>
+      <td>233</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>194</td>
+      <td>215</td>
+      <td>234</td>
+      <td>255</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>216</td>
+      <td>241</td>
+      <td>256</td>
+      <td>281</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>242</td>
+      <td>259</td>
+      <td>282</td>
+      <td>299</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>261</td>
+      <td>282</td>
+      <td>301</td>
+      <td>322</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>327</td>
+      <td>323</td>
+      <td>367</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>328</td>
+      <td>346</td>
+      <td>368</td>
+      <td>386</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>347</td>
+      <td>357</td>
+      <td>387</td>
+      <td>397</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>358</td>
+      <td>375</td>
+      <td>398</td>
+      <td>415</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>376</td>
+      <td>416</td>
+      <td>416</td>
+      <td>456</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>417</td>
+      <td>440</td>
+      <td>457</td>
+      <td>480</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>441</td>
+      <td>448</td>
+      <td>481</td>
+      <td>488</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>449</td>
+      <td>464</td>
+      <td>489</td>
+      <td>504</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>465</td>
+      <td>481</td>
+      <td>505</td>
+      <td>521</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>482</td>
+      <td>498</td>
+      <td>522</td>
+      <td>538</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>499</td>
+      <td>517</td>
+      <td>539</td>
+      <td>557</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>518</td>
+      <td>539</td>
+      <td>558</td>
+      <td>579</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) |
-| Protein sample | BetP Delta N29/E44E45E46/AAA crystallized in presence of 5 mM betaine |
-| Reservoir | Not specified |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Notes | Data collected to 3.1 A at PXII beamline of Swiss Light Source (SLS); structure determined by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement) using BetP (PDB 4AMR) as search model |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4ain">4AIN</a> — Chain C (12 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Co-crystallization with substrate |
-| Protein sample | BetP G153D mutant co-crystallized with [Choline](/xray-mp-wiki/reagents/ligands/choline) |
-| Reservoir | Not specified |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Notes | Data collected to 3.2 A at beamline id29 at ESRF; structure determined by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement) using BetP (PDB 3P03) as search model |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">ADAEEEIILEGEDT</span><span class="topo-inside">QASLNW</span><span class="topo-membrane">SVIVPALVIVLATVVW</span><span class="topo-outside">GIGFKDSFTNFASSALSAVVDN</span><span class="topo-membrane">LG</span></span>
+<span class="topo-line"><span class="topo-membrane">WAFILFGTVFVFFIVVIAA</span><span class="topo-inside">SKFGTIRLGRIDEAPEFRTVSW</span><span class="topo-membrane">ISMMFAAGMGIGLMFYG</span><span class="topo-outside">TT</span></span>
+<span class="topo-line"><span class="topo-outside">EPLTFYRNGVPGHDEHNVGVAM</span><span class="topo-membrane">STTMFHWTLHPWAIYAIVGL</span><span class="topo-inside">AIAYSTFRVGRKQLLSSA</span></span>
+<span class="topo-line"><span class="topo-inside">FVPLIGEKGAEGW</span><span class="topo-membrane">LGKLIDILAIIATVFGTACSLGLGA</span><span class="topo-outside">LQIGAGLSAANIIEDPSDWTIV</span></span>
+<span class="topo-line"><span class="topo-outside">GI</span><span class="topo-membrane">VSVLTLAFIFSAISGV</span><span class="topo-unknown">G</span><span class="topo-membrane">KGIQYLSNANMVLAALLAIFVFV</span><span class="topo-outside">VGPTVSILNLLPGSIGNY</span></span>
+<span class="topo-line"><span class="topo-outside">LSNFFQMAGRTAMSADGTAGEWLGSWT</span><span class="topo-membrane">IFYWAWWISWSPFVGMFL</span><span class="topo-inside">ARISRGRSIREFI</span><span class="topo-membrane">LG</span></span>
+<span class="topo-line"><span class="topo-membrane">VLLVPAGVSTVWFSI</span><span class="topo-outside">FGGTAIVFEQNGESIWGDGAAEEQLFGLLHALPGGQIMGII</span><span class="topo-membrane">AMIL</span></span>
+<span class="topo-line"><span class="topo-membrane">LGTFFITSADSASTVMGTMS</span><span class="topo-inside">QHGQLEAN</span><span class="topo-membrane">KWVTAAWGVATAAIGLTL</span><span class="topo-outside">LLSGGDNALSNLQN</span></span>
+<span class="topo-line"><span class="topo-outside">V</span><span class="topo-membrane">TIVAATPFLFVVIGLMF</span><span class="topo-inside">ALVKDLSNDVIYLEY</span><span class="topo-unknown">REQQRFNARLARERRVHNEHRKRELA</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>14</td>
+      <td>41</td>
+      <td>54</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>20</td>
+      <td>55</td>
+      <td>60</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>36</td>
+      <td>61</td>
+      <td>76</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>37</td>
+      <td>58</td>
+      <td>77</td>
+      <td>98</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>79</td>
+      <td>99</td>
+      <td>119</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>101</td>
+      <td>120</td>
+      <td>141</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>102</td>
+      <td>118</td>
+      <td>142</td>
+      <td>158</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>119</td>
+      <td>142</td>
+      <td>159</td>
+      <td>182</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>143</td>
+      <td>162</td>
+      <td>183</td>
+      <td>202</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>163</td>
+      <td>193</td>
+      <td>203</td>
+      <td>233</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>194</td>
+      <td>218</td>
+      <td>234</td>
+      <td>258</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>219</td>
+      <td>242</td>
+      <td>259</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>243</td>
+      <td>258</td>
+      <td>283</td>
+      <td>298</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>260</td>
+      <td>282</td>
+      <td>300</td>
+      <td>322</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>283</td>
+      <td>327</td>
+      <td>323</td>
+      <td>367</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>328</td>
+      <td>345</td>
+      <td>368</td>
+      <td>385</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>346</td>
+      <td>358</td>
+      <td>386</td>
+      <td>398</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>359</td>
+      <td>375</td>
+      <td>399</td>
+      <td>415</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>376</td>
+      <td>416</td>
+      <td>416</td>
+      <td>456</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>417</td>
+      <td>440</td>
+      <td>457</td>
+      <td>480</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>441</td>
+      <td>448</td>
+      <td>481</td>
+      <td>488</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>449</td>
+      <td>466</td>
+      <td>489</td>
+      <td>506</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>467</td>
+      <td>481</td>
+      <td>507</td>
+      <td>521</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>482</td>
+      <td>498</td>
+      <td>522</td>
+      <td>538</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>499</td>
+      <td>513</td>
+      <td>539</td>
+      <td>553</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>514</td>
+      <td>539</td>
+      <td>554</td>
+      <td>579</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+</div>
 ### doi/10.1038##EMBOJ.2013.226
 
-| Parameter | Value |
-|---|---|
-| Method | [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) |
-| Protein sample | BetP Delta N29/E44E45E46/AAA at ~12 mg/ml in 1.2% Cymal-5 |
-| Reservoir | 100 mM 3Na-Citrate pH 5.4-5.5, 300 mM NaCl, 20-21% PEG400 |
-| Temperature | 18 |
-| Growth time | Not specified |
-| Notes | Crystals grown by vapor diffusion at 18 C using 1:2 volume ratio of protein to reservoir. Single crystal yielded isotropic diffraction to 2.7 A at ESRF beamline id29. Structure determined by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement) using BetP trimer (PDB 2WIT) as search model. No NCS imposed during refinement. 8 POPG lipids modeled into clear Fo-Fc densities. |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4c7r">4C7R</a></td>
+      <td>2.70</td>
+      <td>Not specified</td>
+      <td>BetP Delta N29/E44E45E46/AAA surface-engineered mutant, all three protomers in inward-open (Ci) state with 8 bound POPG lipids</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/citrate">Citrate</a> (bound in cytoplasmic funnel), 8 POPG lipids (16:0/18:1)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
+
+- **Expression system**: [Corynebacterium glutamicum](/xray-mp-wiki/organisms/corynebacterium-glutamicum) (native expression system); also expressed in E. coli (DH5alpha) for proteoliposome reconstitution assays
+- **Construct**: BetP Delta N29 (residues 30-437 of full-length 437 aa protein) with N-terminal StrepII tag; [Selenomethionine (SeMet)](/xray-mp-wiki/reagents/additives/selenomethionine)-substituted variant for SAD phasing; surface-engineered mutant BetP Delta N29/E44E45E46/AAA; substrate-specificity mutant G153D
+
+**Purification:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Detergent exchange and thorough washing</td>
+      <td>StrepTactin <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a> with Cymal-5 exchange</td>
+      <td>StrepTactin</td>
+      <td>100 mM 3Na-Citrate pH 5.4-5.5, 300 mM NaCl, 20-21% PEG400 + 1.2% Cymal-5 (detergent exchanged from DDM)</td>
+      <td>Washing steps removed unspecifically bound lipids. TLC analysis confirmed presence of PG lipids (not PE) in the purified BetP sample.</td>
+    </tr>
+    <tr>
+      <td>Lipid analysis by TLC</td>
+      <td>Thin layer chromatography (HPTLC)</td>
+      <td>Not applicable</td>
+      <td>Chloroform:methanol:water (13:7:0.8) solvent system for 1D separation + Cymal-5</td>
+      <td>Phospholipid analysis confirmed negatively charged PG/CL species. Cymal-5 confounded initial separation. PG identity confirmed by acetone:methanol:acetic acid:water:chloroform (2:1:1:0.5:5) system.</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>BetP Delta N29/E44E45E46/AAA at ~12 mg/ml in 1.2% Cymal-5</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>100 mM 3Na-Citrate pH 5.4-5.5, 300 mM NaCl, 20-21% PEG400</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown by vapor diffusion at 18 C using 1:2 volume ratio of protein to reservoir. Single crystal yielded isotropic diffraction to 2.7 A at ESRF beamline id29. Structure determined by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement">Molecular Replacement</a> using BetP trimer (PDB 2WIT) as search model. No NCS imposed during refinement. 8 POPG lipids modeled into clear Fo-Fc densities.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4c7r">4C7R</a> — Chain A (12 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">LENPTNLEGKLADAAAAIILEGEDTQ</span><span class="topo-inside">ASL</span><span class="topo-membrane">NWSVIVPALVIVLATVVW</span><span class="topo-outside">GIGFKDSFTNFAS</span></span>
+<span class="topo-line"><span class="topo-outside">SALSAVVDN</span><span class="topo-membrane">LGWAFILFGTVFVFFIVVIAA</span><span class="topo-inside">SKFGTIRLGRIDEAPEFRTV</span><span class="topo-membrane">SWISMMFAAG</span></span>
+<span class="topo-line"><span class="topo-membrane">MGIGLMFYG</span><span class="topo-outside">TTEPLTFYRNGVPGHDEHNVGVAM</span><span class="topo-membrane">STTMFHWTLHPWAIYAIVGLAI</span><span class="topo-inside">AYSTF</span></span>
+<span class="topo-line"><span class="topo-inside">RVGRKQLLSSAFVPLIGEKGAEGW</span><span class="topo-membrane">LGKLIDILAIIATVFGTACSLGLGA</span><span class="topo-outside">LQIGAGLSAAN</span></span>
+<span class="topo-line"><span class="topo-outside">IIEDPSDWTIVGI</span><span class="topo-membrane">VSVLTLAFIFSAISGVG</span><span class="topo-unknown">K</span><span class="topo-membrane">GIQYLSNANMVLAALLAIFVFV</span><span class="topo-outside">VGPTVSI</span></span>
+<span class="topo-line"><span class="topo-outside">LNLLPGSIGNYLSNFFQMAGRTAMSADGTAGEWLGSWT</span><span class="topo-membrane">IFYWAWWISWSPFVGMFLA</span><span class="topo-inside">RIS</span></span>
+<span class="topo-line"><span class="topo-inside">RGRSIREF</span><span class="topo-membrane">ILGVLLVPAGVSTVWFSIF</span><span class="topo-outside">GGTAIVFEQNGESIWGDGAAEEQLFGLLHALPG</span></span>
+<span class="topo-line"><span class="topo-outside">GQIMGI</span><span class="topo-membrane">IAMILLGTFFITSADSASTVMGTMSQ</span><span class="topo-inside">HGQLEA</span><span class="topo-membrane">NKWVTAAWGVATAAIGLT</span><span class="topo-outside">LLLS</span></span>
+<span class="topo-line"><span class="topo-outside">GGDNALSNLQNV</span><span class="topo-membrane">TIVAATPFLFVVIGLMFA</span><span class="topo-inside">LVKDLSNDVIYLEYREQQRFNARLARERRV</span></span>
+<span class="topo-line"><span class="topo-inside">HNEHRKRELAAKRRRER</span><span class="topo-unknown">KASGAGKRR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>26</td>
+      <td>30</td>
+      <td>55</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>29</td>
+      <td>56</td>
+      <td>58</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>47</td>
+      <td>59</td>
+      <td>76</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>69</td>
+      <td>77</td>
+      <td>98</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>90</td>
+      <td>99</td>
+      <td>119</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>110</td>
+      <td>120</td>
+      <td>139</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>111</td>
+      <td>129</td>
+      <td>140</td>
+      <td>158</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>153</td>
+      <td>159</td>
+      <td>182</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>154</td>
+      <td>175</td>
+      <td>183</td>
+      <td>204</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>176</td>
+      <td>204</td>
+      <td>205</td>
+      <td>233</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>205</td>
+      <td>229</td>
+      <td>234</td>
+      <td>258</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>230</td>
+      <td>253</td>
+      <td>259</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>254</td>
+      <td>270</td>
+      <td>283</td>
+      <td>299</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>272</td>
+      <td>293</td>
+      <td>301</td>
+      <td>322</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>294</td>
+      <td>338</td>
+      <td>323</td>
+      <td>367</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>339</td>
+      <td>357</td>
+      <td>368</td>
+      <td>386</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>358</td>
+      <td>368</td>
+      <td>387</td>
+      <td>397</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>369</td>
+      <td>387</td>
+      <td>398</td>
+      <td>416</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>388</td>
+      <td>426</td>
+      <td>417</td>
+      <td>455</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>427</td>
+      <td>452</td>
+      <td>456</td>
+      <td>481</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>453</td>
+      <td>458</td>
+      <td>482</td>
+      <td>487</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>459</td>
+      <td>476</td>
+      <td>488</td>
+      <td>505</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>477</td>
+      <td>492</td>
+      <td>506</td>
+      <td>521</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>493</td>
+      <td>510</td>
+      <td>522</td>
+      <td>539</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>511</td>
+      <td>557</td>
+      <td>540</td>
+      <td>586</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>558</td>
+      <td>566</td>
+      <td>587</td>
+      <td>595</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4c7r">4C7R</a> — Chain B (12 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">LENPTNLEGKLADAAAAIILEGEDTQ</span><span class="topo-inside">ASL</span><span class="topo-membrane">NWSVIVPALVIVLATVVW</span><span class="topo-outside">GIGFKDSFTNFAS</span></span>
+<span class="topo-line"><span class="topo-outside">SALSAVVDN</span><span class="topo-membrane">LGWAFILFGTVFVFFIVVIAA</span><span class="topo-inside">SKFGTIRLGRIDEAPEFRTV</span><span class="topo-membrane">SWISMMFAAG</span></span>
+<span class="topo-line"><span class="topo-membrane">MGIGLMFYG</span><span class="topo-outside">TTEPLTFYRNGVPGHDEHNVGVAM</span><span class="topo-membrane">STTMFHWTLHPWAIYAIVGLA</span><span class="topo-inside">IAYSTF</span></span>
+<span class="topo-line"><span class="topo-inside">RVGRKQLLSSAFVPLIGEKGAEGW</span><span class="topo-membrane">LGKLIDILAIIATVFGTACSLGLGA</span><span class="topo-outside">LQIGAGLSAAN</span></span>
+<span class="topo-line"><span class="topo-outside">IIEDPSDWTIVGI</span><span class="topo-membrane">VSVLTLAFIFSAISGV</span><span class="topo-unknown">G</span><span class="topo-membrane">KGIQYLSNANMVLAALLAIFVFV</span><span class="topo-outside">VGPTVSI</span></span>
+<span class="topo-line"><span class="topo-outside">LNLLPGSIGNYLSNFFQMAGRTAMSADGTAGEWLGSWT</span><span class="topo-membrane">IFYWAWWISWSPFVGMFLA</span><span class="topo-inside">RIS</span></span>
+<span class="topo-line"><span class="topo-inside">RGRSIREF</span><span class="topo-membrane">ILGVLLVPAGVSTVWFSIF</span><span class="topo-outside">GGTAIVFEQNGESIWGDGAAEEQLFGLLHALPG</span></span>
+<span class="topo-line"><span class="topo-outside">GQIMGI</span><span class="topo-membrane">IAMILLGTFFITSADSASTVMGTMSQ</span><span class="topo-inside">HGQLEA</span><span class="topo-membrane">NKWVTAAWGVATAAIGLT</span><span class="topo-outside">LLLS</span></span>
+<span class="topo-line"><span class="topo-outside">GGDNALSNLQNV</span><span class="topo-membrane">TIVAATPFLFVVIGLMFA</span><span class="topo-inside">LVKDLSNDVIYLE</span><span class="topo-unknown">YREQQRFNARLARERRV</span></span>
+<span class="topo-line"><span class="topo-unknown">HNEHRKRELAAKRRRERKASGAGKRR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>26</td>
+      <td>30</td>
+      <td>55</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>29</td>
+      <td>56</td>
+      <td>58</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>47</td>
+      <td>59</td>
+      <td>76</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>69</td>
+      <td>77</td>
+      <td>98</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>90</td>
+      <td>99</td>
+      <td>119</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>110</td>
+      <td>120</td>
+      <td>139</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>111</td>
+      <td>129</td>
+      <td>140</td>
+      <td>158</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>153</td>
+      <td>159</td>
+      <td>182</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>154</td>
+      <td>174</td>
+      <td>183</td>
+      <td>203</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>204</td>
+      <td>204</td>
+      <td>233</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>205</td>
+      <td>229</td>
+      <td>234</td>
+      <td>258</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>230</td>
+      <td>253</td>
+      <td>259</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>254</td>
+      <td>269</td>
+      <td>283</td>
+      <td>298</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>271</td>
+      <td>293</td>
+      <td>300</td>
+      <td>322</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>294</td>
+      <td>338</td>
+      <td>323</td>
+      <td>367</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>339</td>
+      <td>357</td>
+      <td>368</td>
+      <td>386</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>358</td>
+      <td>368</td>
+      <td>387</td>
+      <td>397</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>369</td>
+      <td>387</td>
+      <td>398</td>
+      <td>416</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>388</td>
+      <td>426</td>
+      <td>417</td>
+      <td>455</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>427</td>
+      <td>452</td>
+      <td>456</td>
+      <td>481</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>453</td>
+      <td>458</td>
+      <td>482</td>
+      <td>487</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>459</td>
+      <td>476</td>
+      <td>488</td>
+      <td>505</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>477</td>
+      <td>492</td>
+      <td>506</td>
+      <td>521</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>493</td>
+      <td>510</td>
+      <td>522</td>
+      <td>539</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>511</td>
+      <td>523</td>
+      <td>540</td>
+      <td>552</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>524</td>
+      <td>566</td>
+      <td>553</td>
+      <td>595</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4c7r">4C7R</a> — Chain C (12 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">LENPTNLEGKLADAAAAIILEGEDTQ</span><span class="topo-inside">ASL</span><span class="topo-membrane">NWSVIVPALVIVLATVVW</span><span class="topo-outside">GIGFKDSFTNFAS</span></span>
+<span class="topo-line"><span class="topo-outside">SALSAVVDN</span><span class="topo-membrane">LGWAFILFGTVFVFFIVVIAA</span><span class="topo-inside">SKFGTIRLGRIDEAPEFRTV</span><span class="topo-membrane">SWISMMFAAG</span></span>
+<span class="topo-line"><span class="topo-membrane">MGIGLMFYG</span><span class="topo-outside">TTEPLTFYRNGVPGHDEHNVGVAM</span><span class="topo-membrane">STTMFHWTLHPWAIYAIVGLA</span><span class="topo-inside">IAYSTF</span></span>
+<span class="topo-line"><span class="topo-inside">RVGRKQLLSSAFVPLIGEKGAEGW</span><span class="topo-membrane">LGKLIDILAIIATVFGTACSLGLGA</span><span class="topo-outside">LQIGAGLSAAN</span></span>
+<span class="topo-line"><span class="topo-outside">IIEDPSDWTIVGI</span><span class="topo-membrane">VSVLTLAFIFSAISGVG</span><span class="topo-unknown">K</span><span class="topo-membrane">GIQYLSNANMVLAALLAIFVFV</span><span class="topo-outside">VGPTVSI</span></span>
+<span class="topo-line"><span class="topo-outside">LNLLPGSIGNYLSNFFQMAGRTAMSADGTAGEWLGSWT</span><span class="topo-membrane">IFYWAWWISWSPFVGMFLA</span><span class="topo-inside">RIS</span></span>
+<span class="topo-line"><span class="topo-inside">RGRSIREF</span><span class="topo-membrane">ILGVLLVPAGVSTVWFSIF</span><span class="topo-outside">GGTAIVFEQNGESIWGDGAAEEQLFGLLHALPG</span></span>
+<span class="topo-line"><span class="topo-outside">GQIMGII</span><span class="topo-membrane">AMILLGTFFITSADSASTVMGTMSQ</span><span class="topo-inside">HGQLEA</span><span class="topo-membrane">NKWVTAAWGVATAAIGLTL</span><span class="topo-outside">LLS</span></span>
+<span class="topo-line"><span class="topo-outside">GGDNALSNLQNV</span><span class="topo-membrane">TIVAATPFLFVVIGLMFA</span><span class="topo-inside">LVKDLSNDVIYLEYREQQRFNA</span><span class="topo-unknown">RLARERRV</span></span>
+<span class="topo-line"><span class="topo-unknown">HNEHRKRELAAKRRRERKASGAGKRR</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>26</td>
+      <td>30</td>
+      <td>55</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>29</td>
+      <td>56</td>
+      <td>58</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>30</td>
+      <td>47</td>
+      <td>59</td>
+      <td>76</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>69</td>
+      <td>77</td>
+      <td>98</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>90</td>
+      <td>99</td>
+      <td>119</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>110</td>
+      <td>120</td>
+      <td>139</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>111</td>
+      <td>129</td>
+      <td>140</td>
+      <td>158</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>130</td>
+      <td>153</td>
+      <td>159</td>
+      <td>182</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>154</td>
+      <td>174</td>
+      <td>183</td>
+      <td>203</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>175</td>
+      <td>204</td>
+      <td>204</td>
+      <td>233</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>205</td>
+      <td>229</td>
+      <td>234</td>
+      <td>258</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>230</td>
+      <td>253</td>
+      <td>259</td>
+      <td>282</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>254</td>
+      <td>270</td>
+      <td>283</td>
+      <td>299</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>272</td>
+      <td>293</td>
+      <td>301</td>
+      <td>322</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>294</td>
+      <td>338</td>
+      <td>323</td>
+      <td>367</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>339</td>
+      <td>357</td>
+      <td>368</td>
+      <td>386</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>358</td>
+      <td>368</td>
+      <td>387</td>
+      <td>397</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>369</td>
+      <td>387</td>
+      <td>398</td>
+      <td>416</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>388</td>
+      <td>427</td>
+      <td>417</td>
+      <td>456</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>428</td>
+      <td>452</td>
+      <td>457</td>
+      <td>481</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>453</td>
+      <td>458</td>
+      <td>482</td>
+      <td>487</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>459</td>
+      <td>477</td>
+      <td>488</td>
+      <td>506</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>478</td>
+      <td>492</td>
+      <td>507</td>
+      <td>521</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>493</td>
+      <td>510</td>
+      <td>522</td>
+      <td>539</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>511</td>
+      <td>532</td>
+      <td>540</td>
+      <td>561</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>533</td>
+      <td>566</td>
+      <td>562</td>
+      <td>595</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -172,14 +1725,14 @@ Comparing the 2.7 A inward-facing structure with lower-resolution structures of 
 
 ## Cross-References
 
-- [Alternating-Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — BetP is a secondary active transporter using alternating-access mechanism
-- [Sodium-Motive Force (SMF)](/xray-mp-wiki/concepts/miscellaneous/sodium-motive-force/) — BetP is a Na+-coupled symporter driven by sodium electrochemical gradient
-- [Glycine Betaine](/xray-mp-wiki/reagents/ligands/glycine-betaine/) — Primary substrate/osmolyte transported by BetP
-- [Choline](/xray-mp-wiki/reagents/ligands/choline/) — Secondary substrate for BetP G153D mutant with sixfold increased sodium affinity
-- [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for BetP membrane solubilization and purification
-- [BCCT Family](/xray-mp-wiki/concepts/transport-mechanisms/bcct-family/) — BetP is the founding member of the BCCT transporter family
-- [LeuT Amino Acid Transporter](/xray-mp-wiki/proteins/enzymes/leut/) — [LeuT](/xray-mp-wiki/proteins/leut) used as structural reference for BetP conformational analysis
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Used for structure determination of both BetP structures from this paper
-- [LeuT Amino Acid Transporter from Aquifex aeolicus](/xray-mp-wiki/proteins/enzymes/leut/) — BetP shares [LeuT](/xray-mp-wiki/proteins/leut) fold topology (RMSD 3.7 A) but lacks Leu25-like side chain rotation in substrate-free states
-- [Vapor Diffusion](/xray-mp-wiki/methods/crystallization/vapor-diffusion) — Crystallization method used for structure determination
-- [Size-Exclusion Chromatography (SEC)](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) — Purification method used in protein preparation
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating-Access Mechanism</a> — BetP is a secondary active transporter using alternating-access mechanism
+- <a href="/xray-mp-wiki/concepts/miscellaneous/sodium-motive-force/">Sodium-Motive Force (SMF)</a> — BetP is a Na+-coupled symporter driven by sodium electrochemical gradient
+- <a href="/xray-mp-wiki/reagents/ligands/glycine-betaine/">Glycine Betaine</a> — Primary substrate/osmolyte transported by BetP
+- <a href="/xray-mp-wiki/reagents/ligands/choline/">Choline</a> — Secondary substrate for BetP G153D mutant with sixfold increased sodium affinity
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">n-Dodecyl-beta-D-maltopyranoside (DDM)</a> — Detergent used for BetP membrane solubilization and purification
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/bcct-family/">BCCT Family</a> — BetP is the founding member of the BCCT transporter family
+- <a href="/xray-mp-wiki/proteins/enzymes/leut/">LeuT Amino Acid Transporter</a> — [LeuT](/xray-mp-wiki/proteins/leut) used as structural reference for BetP conformational analysis
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Used for structure determination of both BetP structures from this paper
+- <a href="/xray-mp-wiki/proteins/enzymes/leut/">LeuT Amino Acid Transporter from Aquifex aeolicus</a> — BetP shares [LeuT](/xray-mp-wiki/proteins/leut) fold topology (RMSD 3.7 A) but lacks Leu25-like side chain rotation in substrate-free states
+- <a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion">Vapor Diffusion</a> — Crystallization method used for structure determination
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography">Size-Exclusion Chromatography (SEC)</a> — Purification method used in protein preparation

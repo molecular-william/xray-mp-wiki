@@ -1,12 +1,12 @@
 ---
 title: "CusC Outer Membrane Channel"
 created: 2026-05-27
-updated: 2026-06-02
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
 tags: [channel, membrane-protein, xray-crystallography]
-sources: [doi/10.1016##j.jmb.2009.08.029, doi/10.1038##nature09743]
+sources: [doi/10.1016##j.jmb.2009.08.029]
 verified: false
 ---
 
@@ -16,41 +16,91 @@ verified: false
 
 CusC is the outer-membrane channel component of the CusABC tripartite copper/silver efflux system in Escherichia coli. It functions as part of the RND (Resistance-Nodulation-Cell Division) efflux machinery, working together with the inner-membrane transporter CusA and the periplasmic membrane fusion protein CusB to extrude [Cu(i)](/xray-mp-wiki/reagents/ligands/cu(i)) and Ag(I) ions from the bacterial cell. CusC is functionally analogous to TolC in the AcrAB-TolC system and OprM in the P. aeruginosa multidrug efflux system. While the crystal structure of CusC was not solved in this study, its role as the outer-membrane channel completing the tripartite efflux complex is established. The distinct structural features of CusB (three-helix bundle Domain 4) may imply that CusC also possesses unique secondary structural features distinguishing it from TolC and OprM homologs.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.jmb.2009.08.029 | 3OOC | not solved | -- | CusC outer-membrane channel protein | -- |
+### doi/10.1016##j.jmb.2009.08.029
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/3ooc">3OOC</a></td>
+      <td>not solved</td>
+      <td>--</td>
+      <td>CusC outer-membrane channel protein</td>
+      <td>--</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: not determined in this study
 - **Construct**: --
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>not performed</td>
+      <td>--</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>CusC was not purified or crystallized in this study; mentioned only as component of the CusABC efflux complex</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| not performed | -- | -- | -- + -- | CusC was not purified or crystallized in this study; mentioned only as component of the CusABC efflux complex |
-
-
-## Crystallization
-
-### doi/10.1016##j.jmb.2009.08.029
-
-| Parameter | Value |
-|---|---|
-| Method | not performed |
-| Protein sample | -- |
-| Reservoir | -- |
-| Temperature | -- |
-| Growth time | -- |
-| Cryoprotection | -- |
-| Notes | CusC crystal structure was not solved in this study |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>not performed</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>--</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>CusC crystal structure was not solved in this study</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -69,11 +119,11 @@ A three-dimensional structure for the trimeric CusC outer membrane channel was p
 
 ## Cross-References
 
-- [CusB Membrane Fusion Protein](/xray-mp-wiki/proteins/abc-transporters/cusb/) — CusB is the periplasmic MFP partner; three-helix bundle Domain 4 may interact with CusC
-- [CusA Inner Membrane Efflux Pump](/xray-mp-wiki/proteins/cusa/) — CusA is the inner-membrane transporter; forms CusABC tripartite complex with CusC
-- [TolC Outer Membrane Channel](/xray-mp-wiki/proteins/abc-transporters/tolc/) — TolC is the functional homolog; outer-membrane channel of the AcrAB-TolC system with similar elongated alpha-helical tunnel
-- [OprM Outer Membrane Channel](/xray-mp-wiki/proteins/oprM/) — OprM is the P. aeruginosa outer-membrane channel; similar elongated alpha-helical tunnel projecting into the periplasmic space
-- [CU(I)](/xray-mp-wiki/reagents/ligands/cu(i)) — Entity mentioned in text
-- [CUSB](/xray-mp-wiki/proteins/cusB) — Entity mentioned in text
-- [AG(I)](/xray-mp-wiki/reagents/ligands/ag(i)) — Entity mentioned in text
-- [CUSA](/xray-mp-wiki/proteins/cusA) — Entity mentioned in text
+- <a href="/xray-mp-wiki/proteins/abc-transporters/cusb/">CusB Membrane Fusion Protein</a> — CusB is the periplasmic MFP partner; three-helix bundle Domain 4 may interact with CusC
+- <a href="/xray-mp-wiki/proteins/cusa/">CusA Inner Membrane Efflux Pump</a> — CusA is the inner-membrane transporter; forms CusABC tripartite complex with CusC
+- <a href="/xray-mp-wiki/proteins/abc-transporters/tolc/">TolC Outer Membrane Channel</a> — TolC is the functional homolog; outer-membrane channel of the AcrAB-TolC system with similar elongated alpha-helical tunnel
+- <a href="/xray-mp-wiki/proteins/oprM/">OprM Outer Membrane Channel</a> — OprM is the P. aeruginosa outer-membrane channel; similar elongated alpha-helical tunnel projecting into the periplasmic space
+- <a href="/xray-mp-wiki/reagents/ligands/cu(i)">CU(I)</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/proteins/cusB">CUSB</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/ligands/ag(i)">AG(I)</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/proteins/cusA">CUSA</a> — Entity mentioned in text

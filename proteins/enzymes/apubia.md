@@ -1,7 +1,7 @@
 ---
 title: "ApUbiA (UbiA from Aeropyrum pernix) — Intramembrane Prenyltransferase"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,47 +16,462 @@ verified: false
 
 ApUbiA is an intramembrane prenyltransferase from the hyperthermophilic archaeon Aeropyrum pernix, a member of the UbiA superfamily that catalyzes the condensation of isoprenylpyrophosphate (IPP) with p-hydroxybenzoate (PHB) to generate prenylated aromatic compounds. This is a key step in the biosynthesis of ubiquinones, menaquinones, chlorophylls, hemes, and vitamin E — lipid-soluble molecules that serve as electron and proton carriers for cellular respiration and photosynthesis and as antioxidants. The crystal structures of ApUbiA in its apo and substrate-bound states at 3.3 and 3.6 angstrom resolution, respectively, reveal nine transmembrane helices arranged counterclockwise in a U shape surrounding a large central cavity containing the active site. An unusual lateral portal opens the active site to the lipid bilayer, facilitating substrate binding and product release directly into the membrane. The structures rationalize disease-related mutations in eukaryotic homologs COQ2 and UBIAD1, linked to cardiovascular degeneration, Parkinson's disease, and mitochondrial dysfunction.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1126##science.1246774 | 4OD5 | 3.30 | -- | Full-length ApUbiA (apo state | None (apo |
-| doi/10.1126##science.1246774 | 4OD5 | 3.60 | -- | Full-length ApUbiA complexed with GSPP, PHB, and Mg2+ | GSPP ([GPP](/xray-mp-wiki/reagents/additives/gpp/) thiopyrophosphate, PHB (p-hydroxybenzoate, Mg2+ |
+### doi/10.1126##science.1246774
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4od5">4OD5</a></td>
+      <td>3.30</td>
+      <td>--</td>
+      <td>Full-length ApUbiA (apo state</td>
+      <td>None (apo</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4od5">4OD5</a></td>
+      <td>3.60</td>
+      <td>--</td>
+      <td>Full-length ApUbiA complexed with GSPP, PHB, and Mg2+</td>
+      <td>GSPP (<a href="/xray-mp-wiki/reagents/additives/gpp/">GPP</a> thiopyrophosphate, PHB (p-hydroxybenzoate, Mg2+</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Escherichia coli
 - **Construct**: Full-length ApUbiA with N-terminal His tag
 - **Notes**: Expressed in E. coli membranes; hyperthermophilic [Eiiaglc](/xray-mp-wiki/proteins/abc-transporters/eiiaglc/)
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli
 - **Expression construct**: Full-length ApUbiA with N-terminal His tag
 - **Tag info**: N-terminal His tag
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Purification | Not detailed in main text (see supplementary materials | -- | Not detailed in main text + See supplementary materials | Cuscjmray-mp-wiki/proteins/wza/ 1ocessinge MimeticsCdc50Aric Regulation Like Mechanismve Lipid BindingCenter MechanismSide Chain PackingCoupling Mechanisme1 Anion Exchangerponent Signaling Systemupported Membrane ElectrophysiologyF1 Atpase Stator Complex protein purified from E. coli membranes. [Trypsin](/xray-mp-wiki/reagents/additives/trypsin/) digestion protection assays performed on purified Mladoxinstabilizationtiona5Ama3hapin 1A3 Familyotein Family Family 1obrevin 2 4Protein FamilyntamerProtein Family Yidcov 2 Ctd Agonismotein FamilyKir3 2dral Twinning Mep Protein Familyrome B561 Family Protein Couplinge Binding Proteincholine Binding Proteinopology Architecturetein Nitrosomonas EuropaeaeCytoplasmic Poreree Protein Synthesischromatium Tepidum Hipipaeodactylum TricornutumGas Anaesthetic MechanismNetworks Membrane Protein Oligomerizationne Protein Crystals For Neutron Diffractionirected Spin Labeling Membrane ProteinAtom Derivative Detergents And Lipids. |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Purification</td>
+      <td>Not detailed in main text (see supplementary materials</td>
+      <td>--</td>
+      <td>Not detailed in main text + See supplementary materials</td>
+      <td>Cuscjmray-mp-wiki/proteins/wza/ 1ocessinge MimeticsCdc50Aric Regulation Like Mechanismve Lipid BindingCenter MechanismSide Chain PackingCoupling Mechanisme1 Anion Exchangerponent Signaling Systemupported Membrane ElectrophysiologyF1 Atpase Stator Complex protein purified from E. coli membranes. <a href="/xray-mp-wiki/reagents/additives/trypsin/">Trypsin</a> digestion protection assays performed on purified Mladoxinstabilizationtiona5Ama3hapin 1A3 Familyotein Family Family 1obrevin 2 4Protein FamilyntamerProtein Family Yidcov 2 Ctd Agonismotein FamilyKir3 2dral Twinning Mep Protein Familyrome B561 Family Protein Couplinge Binding Proteincholine Binding Proteinopology Architecturetein Nitrosomonas EuropaeaeCytoplasmic Poreree Protein Synthesischromatium Tepidum Hipipaeodactylum TricornutumGas Anaesthetic MechanismNetworks Membrane Protein Oligomerizationne Protein Crystals For Neutron Diffractionirected Spin Labeling Membrane ProteinAtom Derivative Detergents And Lipids.</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: Purified ApUbiA in detergent solution
 
+**Crystallization:**
 
-## Crystallization
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Not specified in main text (see supplementary materials</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Purified ApUbiA</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>Not specified in main text</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Apo structure at 3.3 A resolution. Tat A SubstrateBinding Pockete Binding In Asbt Yfe Protonation Coupling Protease Substrate Specificitysporter Substrate Specificitystrate Recognition Gmg Motifly Substrate Specificitye Polyspecificity Smr Transporters Protein Insertase Substrate Exit Gate-DltbhhReceptor Bosentann 5 Ht2B Receptort Atp Synthase C10 Ringn Endothelin Etb Receptor Et1rnating Ion Bound Configurations <a href="/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/">Structure Based Antipsychotic Design</a> obtained by soaking Diffractive Imaging Imperfect Crystalse Protein Crystals For Neutron Diffraction with PHB, Mg, and GSPP (<a href="/xray-mp-wiki/reagents/additives/gpp/">GPP</a> thiopyrophosphate, an unleavable IPP analog at 3.6 A <a href="/xray-mp-wiki/proteins/gpcr/rhodopsin-2-2a/">Rhodopsin 2 2A</a>.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-### doi/10.1126##science.1246774
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4od5">4OD5</a> — Chain A (9 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Not specified in main text (see supplementary materials |
-| Protein sample | Purified ApUbiA |
-| Reservoir | Not specified in main text |
-| Temperature | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Apo structure at 3.3 A resolution. Tat A SubstrateBinding Pockete Binding In Asbt Yfe Protonation Coupling Protease Substrate Specificitysporter Substrate Specificitystrate Recognition Gmg Motifly Substrate Specificitye Polyspecificity Smr Transporters Protein Insertase Substrate Exit Gate-DltbhhReceptor Bosentann 5 Ht2B Receptort Atp Synthase C10 Ringn Endothelin Etb Receptor Et1rnating Ion Bound Configurations [Structure Based Antipsychotic Design](/xray-mp-wiki/concepts/construct-design/structure-based-antipsychotic-design/) obtained by soaking Diffractive Imaging Imperfect Crystalse Protein Crystals For Neutron Diffraction with PHB, Mg, and GSPP ([GPP](/xray-mp-wiki/reagents/additives/gpp/) thiopyrophosphate, an unleavable IPP analog at 3.6 A [Rhodopsin 2 2A](/xray-mp-wiki/proteins/gpcr/rhodopsin-2-2a/). |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPAGSM</span><span class="topo-outside">RLV</span><span class="topo-membrane">RIEHTIFSLPFAYVGALL</span><span class="topo-inside">SRYPFTLA</span><span class="topo-membrane">DAILMAAAVVG</span></span>
+<span class="topo-line"><span class="topo-membrane">LRMAGMA</span><span class="topo-outside">YNNIADLDIDRLNPRTAKRPLVVGAVSLREAWA</span><span class="topo-membrane">LVAAGSAIYFASAALLNT</span><span class="topo-inside">Y</span><span class="topo-membrane">A</span></span>
+<span class="topo-line"><span class="topo-membrane">LLLSPLVLAIALTY</span><span class="topo-outside">PHAKRLHPL</span><span class="topo-membrane">PHLHLGIVLGSVVFGGAVAA</span><span class="topo-inside">SGDEASSLGEVLRSV</span><span class="topo-membrane">PW</span></span>
+<span class="topo-line"><span class="topo-membrane">LYVAAVSLWVAGFDT</span><span class="topo-outside">IYSIMDIDFDRSHGLGSIPALLGPKGALA</span><span class="topo-membrane">ASLAMHAAAVALFIAG</span></span>
+<span class="topo-line"><span class="topo-membrane">V</span><span class="topo-inside">EAYGLGAI</span><span class="topo-membrane">ATVSTALTALVIILVQAM</span><span class="topo-outside">AWLGRVKES</span><span class="topo-membrane">FNLNLAVPIIIGAGIIV</span><span class="topo-inside">D</span><span class="topo-unknown">MLHHMI</span></span>
+<span class="topo-line"><span class="topo-unknown">RLL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>20</td>
+      <td>-18</td>
+      <td>1</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>23</td>
+      <td>2</td>
+      <td>4</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>41</td>
+      <td>5</td>
+      <td>22</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>49</td>
+      <td>23</td>
+      <td>30</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>67</td>
+      <td>31</td>
+      <td>48</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>100</td>
+      <td>49</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>118</td>
+      <td>82</td>
+      <td>99</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>119</td>
+      <td>119</td>
+      <td>100</td>
+      <td>100</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>120</td>
+      <td>134</td>
+      <td>101</td>
+      <td>115</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>143</td>
+      <td>116</td>
+      <td>124</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>144</td>
+      <td>163</td>
+      <td>125</td>
+      <td>144</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>164</td>
+      <td>178</td>
+      <td>145</td>
+      <td>159</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>179</td>
+      <td>195</td>
+      <td>160</td>
+      <td>176</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>196</td>
+      <td>224</td>
+      <td>177</td>
+      <td>205</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>225</td>
+      <td>241</td>
+      <td>206</td>
+      <td>222</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>242</td>
+      <td>249</td>
+      <td>223</td>
+      <td>230</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>250</td>
+      <td>267</td>
+      <td>231</td>
+      <td>248</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>268</td>
+      <td>276</td>
+      <td>249</td>
+      <td>257</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>277</td>
+      <td>293</td>
+      <td>258</td>
+      <td>274</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>294</td>
+      <td>294</td>
+      <td>275</td>
+      <td>275</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>295</td>
+      <td>303</td>
+      <td>276</td>
+      <td>284</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4od5">4OD5</a> — Chain A (9 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MGSSHHHHHHSSGLVPAGSM</span><span class="topo-outside">RLV</span><span class="topo-membrane">RIEHTIFSLPFAYVGALL</span><span class="topo-inside">SRYPFTLA</span><span class="topo-membrane">DAILMAAAVVG</span></span>
+<span class="topo-line"><span class="topo-membrane">LRMAGMA</span><span class="topo-outside">YNNIADLDIDRLNPRTAKRPLVVGAVSLREAWA</span><span class="topo-membrane">LVAAGSAIYFASAALLNT</span><span class="topo-inside">Y</span><span class="topo-membrane">A</span></span>
+<span class="topo-line"><span class="topo-membrane">LLLSPLVLAIALTY</span><span class="topo-outside">PHAKRLHPL</span><span class="topo-membrane">PHLHLGIVLGSVVFGGAVAA</span><span class="topo-inside">SGDEASSLGEVLRSV</span><span class="topo-membrane">PW</span></span>
+<span class="topo-line"><span class="topo-membrane">LYVAAVSLWVAGFDT</span><span class="topo-outside">IYSIMDIDFDRSHGLGSIPALLGPKGALA</span><span class="topo-membrane">ASLAMHAAAVALFIAG</span></span>
+<span class="topo-line"><span class="topo-membrane">V</span><span class="topo-inside">EAYGLGAI</span><span class="topo-membrane">ATVSTALTALVIILVQAM</span><span class="topo-outside">AWLGRVKES</span><span class="topo-membrane">FNLNLAVPIIIGAGIIV</span><span class="topo-inside">D</span><span class="topo-unknown">MLHHMI</span></span>
+<span class="topo-line"><span class="topo-unknown">RLL</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>20</td>
+      <td>-18</td>
+      <td>1</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>23</td>
+      <td>2</td>
+      <td>4</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>41</td>
+      <td>5</td>
+      <td>22</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>42</td>
+      <td>49</td>
+      <td>23</td>
+      <td>30</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>50</td>
+      <td>67</td>
+      <td>31</td>
+      <td>48</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>68</td>
+      <td>100</td>
+      <td>49</td>
+      <td>81</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>101</td>
+      <td>118</td>
+      <td>82</td>
+      <td>99</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>119</td>
+      <td>119</td>
+      <td>100</td>
+      <td>100</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>120</td>
+      <td>134</td>
+      <td>101</td>
+      <td>115</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>143</td>
+      <td>116</td>
+      <td>124</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>144</td>
+      <td>163</td>
+      <td>125</td>
+      <td>144</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>164</td>
+      <td>178</td>
+      <td>145</td>
+      <td>159</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>179</td>
+      <td>195</td>
+      <td>160</td>
+      <td>176</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>196</td>
+      <td>224</td>
+      <td>177</td>
+      <td>205</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>225</td>
+      <td>241</td>
+      <td>206</td>
+      <td>222</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>242</td>
+      <td>249</td>
+      <td>223</td>
+      <td>230</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>250</td>
+      <td>267</td>
+      <td>231</td>
+      <td>248</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>268</td>
+      <td>276</td>
+      <td>249</td>
+      <td>257</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>277</td>
+      <td>293</td>
+      <td>258</td>
+      <td>274</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>294</td>
+      <td>294</td>
+      <td>275</td>
+      <td>275</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>295</td>
+      <td>303</td>
+      <td>276</td>
+      <td>284</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -79,13 +494,13 @@ Mutations in eukaryotic COQ2 and UBIAD1 are [Ltaa](/xray-mp-wiki/proteins/mfs-tr
 
 ## Cross-References
 
-- [Bovine F1-ATPase (azide-inhibited form)](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/) — Related protein structure; referenced in text
-- [E. coli MscS (Mechanosensitive Channel of Small Conductance)](/xray-mp-wiki/proteins/voltage-gated-channels/mscs/) — Related protein structure; referenced in text
-- [LtaA — S. aureus Lipid-Linked Disaccharide Flippase](/xray-mp-wiki/proteins/mfs-transporters/ltaa/) — Related protein structure; referenced in text
-- [MalG (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/abc-transporters/malG/) — Related protein structure; referenced in text
-- [EIIA^Glc (Escherichia coli Enzyme IIA^Glc)](/xray-mp-wiki/proteins/abc-transporters/eiiaglc/) — Related protein structure; referenced in text
-- [Bovine Rhodopsin (2.2 A Resolution, PDB 1U19)](/xray-mp-wiki/proteins/gpcr/rhodopsin-2-2a/) — Related protein structure; referenced in text
-- [MalF (Escherichia coli Maltose Transporter Transmembrane Subunit)](/xray-mp-wiki/proteins/abc-transporters/malF/) — Related protein structure; referenced in text
-- [E. coli MscS Mechanosensitive Channel (A106V Open Form)](/xray-mp-wiki/proteins/voltage-gated-channels/mscs-a106v/) — Related protein structure; referenced in text
-- [Mouse TREX1 (Three Prime Repair Exonuclease 1)](/xray-mp-wiki/proteins/gpcr/trex1/) — Related protein structure; referenced in text
-- [Bovine Mitochondrial F1-ATPase-Stator Complex (Membrane Extrinsic Region)](/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase-stator-complex/) — Related protein structure; referenced in text
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase/">Bovine F1-ATPase (azide-inhibited form)</a> — Related protein structure; referenced in text
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/mscs/">E. coli MscS (Mechanosensitive Channel of Small Conductance)</a> — Related protein structure; referenced in text
+- <a href="/xray-mp-wiki/proteins/mfs-transporters/ltaa/">LtaA — S. aureus Lipid-Linked Disaccharide Flippase</a> — Related protein structure; referenced in text
+- <a href="/xray-mp-wiki/proteins/abc-transporters/malG/">MalG (Escherichia coli Maltose Transporter Transmembrane Subunit)</a> — Related protein structure; referenced in text
+- <a href="/xray-mp-wiki/proteins/abc-transporters/eiiaglc/">EIIA^Glc (Escherichia coli Enzyme IIA^Glc)</a> — Related protein structure; referenced in text
+- <a href="/xray-mp-wiki/proteins/gpcr/rhodopsin-2-2a/">Bovine Rhodopsin (2.2 A Resolution, PDB 1U19)</a> — Related protein structure; referenced in text
+- <a href="/xray-mp-wiki/proteins/abc-transporters/malF/">MalF (Escherichia coli Maltose Transporter Transmembrane Subunit)</a> — Related protein structure; referenced in text
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/mscs-a106v/">E. coli MscS Mechanosensitive Channel (A106V Open Form)</a> — Related protein structure; referenced in text
+- <a href="/xray-mp-wiki/proteins/gpcr/trex1/">Mouse TREX1 (Three Prime Repair Exonuclease 1)</a> — Related protein structure; referenced in text
+- <a href="/xray-mp-wiki/proteins/pumps-atpases/bovine-f1-atpase-stator-complex/">Bovine Mitochondrial F1-ATPase-Stator Complex (Membrane Extrinsic Region)</a> — Related protein structure; referenced in text

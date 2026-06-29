@@ -1,7 +1,7 @@
 ---
 title: "Human 5-HT2B Serotonin Receptor Bound to Ergotamine"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,51 +17,112 @@ verified: false
 The 5-HT2B receptor is a class A G protein-coupled receptor (GPCR) for [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) (5-hydroxytryptamine) involved in cardiovascular function, CNS signaling, and valvular heart disease pathogenesis. This crystal structure captures the receptor bound to [ERG](/xray-mp-wiki/reagents/ligands/ergotamine/) ([ERG](/xray-mp-wiki/reagents/ligands/ergotamine/)) in an active-like conformation, revealing structural features that govern functional selectivity (biased agonism) between G protein and beta-arrestin signaling pathways. The structure was solved at 2.7 Å resolution using lipidic cubic phase (LCP) crystallization and data merged from 17 crystals.
 
 
-## Structure Determination
+## Publications
 
-No structure determined.
+### doi/10.1126##science.1232808
 
-## Expression and Purification
+**Expression:**
 
 - **Expression system**: Spodoptera frugiperda (Sf9) insect cells
 - **Construct**: Delta N(1-35)-5-HT2B-BRIL-Delta C(406-481); HA signal + [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) N-terminal; PreScission site + 10xHis C-terminal
 - **Notes**: Bac-to-Bac baculovirus system, MOI 5, harvested 48h post-infection at 27C
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: Spodoptera frugiperda (Sf9) insect cells
 - **Expression construct**: Delta N-5-HT2B-BRIL-Delta C with N-terminal HA-FLAG and C-terminal PreScission-10xHis
 - **Tag info**: C-terminal 10xHis tag removed by [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/)
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane preparation | Hypotonic lysis and high-salt wash | — | 10 mM HEPES pH 7.5, 10 mM MgCl2, 20 mM KCl; high-salt wash: 1.0 M NaCl, 10 mM HEPES pH 7.5, 10 mM MgCl2, 20 mM KCl | EDTA-free protease inhibitors; washed 2x hypotonic, 4-5x high-salt |
-| Ligand incubation | Incubation | — | 10 mM HEPES pH 7.5, 10 mM MgCl2, 20 mM KCl, 150 mM NaCl | 100 uM [ERG](/xray-mp-wiki/reagents/ligands/ergotamine/) for 1h at RT; 2 mg/ml [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) for 30 min at 4C |
-| Solubilization | Detergent solubilization | — | 10 mM HEPES pH 7.5, 150 mM NaCl, 50 uM [ERG](/xray-mp-wiki/reagents/ligands/ergotamine/) + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.2% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | 2h at 4C; unsolubilized material removed at 150,000xg for 30 min |
-| Immobilized metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC resin (Clontech) | Wash I: 50 mM HEPES pH 7.5, 800 mM NaCl, 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 50 uM [ERG](/xray-mp-wiki/reagents/ligands/ergotamine/); Wash II: 50 mM HEPES pH 7.5, 150 mM NaCl, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 50 uM [ERG](/xray-mp-wiki/reagents/ligands/ergotamine/) | Elution in Wash II + 250 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/); [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) removed via PD MiniTrap G-25 |
-| Tag cleavage | [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) digestion | — |  | His-tagged PreScission; overnight; protease and uncleaved protein removed by second [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC |
-| Concentration | Centrifugal concentration | — |  | 100 kDa MWCO Vivaspin; concentrated to ~50 mg/ml; purity >95% by SDS-PAGE |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Membrane preparation</td>
+      <td>Hypotonic lysis and high-salt wash</td>
+      <td>—</td>
+      <td>10 mM HEPES pH 7.5, 10 mM MgCl2, 20 mM KCl; high-salt wash: 1.0 M NaCl, 10 mM HEPES pH 7.5, 10 mM MgCl2, 20 mM KCl</td>
+      <td>EDTA-free protease inhibitors; washed 2x hypotonic, 4-5x high-salt</td>
+    </tr>
+    <tr>
+      <td>Ligand incubation</td>
+      <td>Incubation</td>
+      <td>—</td>
+      <td>10 mM HEPES pH 7.5, 10 mM MgCl2, 20 mM KCl, 150 mM NaCl</td>
+      <td>100 uM <a href="/xray-mp-wiki/reagents/ligands/ergotamine/">ERG</a> for 1h at RT; 2 mg/ml <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">Iodoacetamide</a> for 30 min at 4C</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>—</td>
+      <td>10 mM HEPES pH 7.5, 150 mM NaCl, 50 uM <a href="/xray-mp-wiki/reagents/ligands/ergotamine/">ERG</a> + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.2% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a></td>
+      <td>2h at 4C; unsolubilized material removed at 150,000xg for 30 min</td>
+    </tr>
+    <tr>
+      <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC resin (Clontech)</td>
+      <td>Wash I: 50 mM HEPES pH 7.5, 800 mM NaCl, 0.1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.02% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 50 uM <a href="/xray-mp-wiki/reagents/ligands/ergotamine/">ERG</a>; Wash II: 50 mM HEPES pH 7.5, 150 mM NaCl, 0.05% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 0.01% <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a>, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 50 uM <a href="/xray-mp-wiki/reagents/ligands/ergotamine/">ERG</a></td>
+      <td>Elution in Wash II + 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> removed via PD MiniTrap G-25</td>
+    </tr>
+    <tr>
+      <td>Tag cleavage</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> digestion</td>
+      <td>—</td>
+      <td></td>
+      <td>His-tagged PreScission; overnight; protease and uncleaved protein removed by second <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> IMAC</td>
+    </tr>
+    <tr>
+      <td>Concentration</td>
+      <td>Centrifugal concentration</td>
+      <td>—</td>
+      <td></td>
+      <td>100 kDa MWCO Vivaspin; concentrated to ~50 mg/ml; purity >95% by SDS-PAGE</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: ~50 mg/ml in Wash Buffer II (without [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/))
 **Purity**: >95% by SDS-PAGE; monodisperse by aSEC
 
+**Crystallization:**
 
-## Crystallization
-
-### doi/10.1126##science.1232808
-
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/)/cholesterol mixture (40%:54%:6%) |
-| Protein-to-lipid ratio | 40% protein : 60% lipid |
-| Temperature | 20 |
-| Growth time | 3 days |
-| Cryoprotection | Flash-frozen directly from LCP matrix |
-| Notes | Crystals grown in 96-well glass sandwich plates; NT8-LCP robot; 40 nl LCP drops + 800 nl precipitant; crystals up to 100x30x20 um |
-
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/))</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a>/cholesterol mixture (40%:54%:6%)</td>
+    </tr>
+    <tr>
+      <td>Protein-to-lipid ratio</td>
+      <td>40% protein : 60% lipid</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>3 days</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Flash-frozen directly from LCP matrix</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown in 96-well glass sandwich plates; NT8-<a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">[LCP</a>](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) robot; 40 nl <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">lcp</a> drops + 800 nl precipitant; crystals up to 100x30x20 um</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -80,13 +141,13 @@ The 5-HT2B/ERG complex adopts an active-state conformation intermediate between 
 
 ## Cross-References
 
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) — Additive used in purification or crystallization buffers
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers
-- [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) — Additive used in purification or crystallization buffers
-- [PEG400](/xray-mp-wiki/reagents/additives/peg-400/) — Additive used in purification or crystallization buffers
-- [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) — Additive used in purification or crystallization buffers
-- [TALON](/xray-mp-wiki/reagents/additives/talon/) — Additive used in purification or crystallization buffers
-- [DDM](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used in purification or crystallization
-- [ERG](/xray-mp-wiki/reagents/ligands/ergotamine/) — Related ligand or cofactor
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/">CHS</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/iodoacetamide/">Iodoacetamide</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/peg-400/">PEG400</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/pre-scission-protease/">PreScission Protease</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/talon/">TALON</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> — Detergent used in purification or crystallization
+- <a href="/xray-mp-wiki/reagents/ligands/ergotamine/">ERG</a> — Related ligand or cofactor

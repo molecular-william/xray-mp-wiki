@@ -1,7 +1,7 @@
 ---
 title: "KdpFABC Potassium-Importing Complex"
 created: 2017-06-21
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,38 +17,580 @@ verified: false
 The KdpFABC complex is a four-subunit potassium pump from Escherichia coli that maintains intracellular K+ homeostasis under conditions in which potassium is limiting. The complex consists of a channel-like subunit (KdpA) belonging to the superfamily of potassium transporters (SKT) and a pump-like subunit (KdpB) belonging to the superfamily of P-type ATPases, together with two auxiliary subunits KdpC and KdpF, each having a single transmembrane helix. The 2.9 A X-ray crystal structure (Huang et al., 2017, PDB 5MRW) of the complete complex revealed a potassium ion within the selectivity filter of KdpA and a water molecule at a canonical cation site in the transmembrane domain of KdpB. The structure identified two structural elements mediating coupling between these subunits: a protein-embedded tunnel running between the K+ and water sites, and a helix controlling the cytoplasmic gate of KdpA linked to the phosphorylation domain of KdpB. A mechanism was proposed that repurposes protein channel architecture for active transport by using charge transfer through the intramembrane tunnel to trigger ATP hydrolysis and gating.
 
 
-## Structure Determination
-
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature22970 | 5MRW | 2.9 A | I222 | Full-length E. coli KdpFABC complex (KdpA Q116R mutant), with 8xHis tag on KdpC C-terminus; selenomethionine-substituted | K+ ion in S3 site of KdpA selectivity filter |
-
-## Expression and Purification
-
-### Purification Workflow
-
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Membrane preparation | Ultracentrifugation (90,140g, 2 h) | — | 50 mM Tris pH 7.5, 1.2 M NaCl, 10 mM MgCl2, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 1 mM [DTT](/xray-mp-wiki/reagents/additives/dtt/) | Cells lysed by Emulsiflex C3 homogenizer |
-| Solubilization | Detergent solubilization | — | 50 mM Tris pH 7.5, 600 mM NaCl, 10 mM MgCl2, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 1 mM [DTT](/xray-mp-wiki/reagents/additives/dtt/) + 1.2% [n-Decyl-β-D-maltoside](/xray-mp-wiki/reagents/detergents/dm/) (DM) | Incubated at 4C for at least 2 h |
-| Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Gradient elution (20-500 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/)) | Ni2+-charged HiTrap chelating column (GE Healthcare) | 50 mM Tris pH 7.5, 600 mM NaCl, 10 mM MgCl2, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.15% DM, 20-500 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |  |
-| Size-exclusion chromatography | Gel filtration | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) 10/300 GL | 50 mM Tris pH 7.5, 600 mM NaCl, 10 mM MgCl2, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.15% DM |  |
-
-
-## Crystallization
+## Publications
 
 ### doi/10.1038##nature22970
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion, sitting drop |
-| Reservoir | 100 mM [Sodium Acetate](/xray-mp-wiki/reagents/buffers/sodium-acetate/) (pH 5.0), 50 mM NaCl, 20 mM CaCl2, 30% [PEG](/xray-mp-wiki/reagents/additives/peg/) 550 MME |
-| Temperature | 20 C |
-| Notes | Plate-like morphology with birefringence; crystals appeared within 1-2 weeks |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5mrw">5MRW</a></td>
+      <td>2.9 A</td>
+      <td>I222</td>
+      <td>Full-length E. coli KdpFABC complex (KdpA Q116R mutant), with 8xHis tag on KdpC C-terminus; selenomethionine-substituted</td>
+      <td>K+ ion in S3 site of KdpA selectivity filter</td>
+    </tr>
+  </tbody>
+</table>
+
+**Purification:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Membrane preparation</td>
+      <td>Ultracentrifugation (90,140g, 2 h)</td>
+      <td>—</td>
+      <td>50 mM Tris pH 7.5, 1.2 M NaCl, 10 mM MgCl2, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a></td>
+      <td>Cells lysed by Emulsiflex C3 homogenizer</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>—</td>
+      <td>50 mM Tris pH 7.5, 600 mM NaCl, 10 mM MgCl2, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 1 mM <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a> + 1.2% <a href="/xray-mp-wiki/reagents/detergents/dm/">n-Decyl-β-D-maltoside</a> (DM)</td>
+      <td>Incubated at 4C for at least 2 h</td>
+    </tr>
+    <tr>
+      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Gradient elution (20-500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>)</td>
+      <td>Ni2+-charged HiTrap chelating column (GE Healthcare)</td>
+      <td>50 mM Tris pH 7.5, 600 mM NaCl, 10 mM MgCl2, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.15% DM, 20-500 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td>Gel filtration</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> 10/300 GL</td>
+      <td>50 mM Tris pH 7.5, 600 mM NaCl, 10 mM MgCl2, 10% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, 0.15% DM</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion, sitting drop</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>100 mM <a href="/xray-mp-wiki/reagents/buffers/sodium-acetate/">Sodium Acetate</a> (pH 5.0), 50 mM NaCl, 20 mM CaCl2, 30% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 550 MME</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20 C</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Plate-like morphology with birefringence; crystals appeared within 1-2 weeks</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5mrw">5MRW</a> — Chain A (10 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">MAA</span><span class="topo-membrane">QGFLLIATFLLVLMVLA</span><span class="topo-inside">RPLGSGLARLINDIPLPGTTGVERVLFRALGVSDREMNWK</span></span>
+<span class="topo-line"><span class="topo-inside">QYLCAILGL</span><span class="topo-membrane">NMLGLAVLFFMLLGQ</span><span class="topo-outside">HYLPLNPQQLPGLSWDLA</span><span class="topo-unknown">LNTAVSFVTNTNW</span><span class="topo-outside">RSYSG</span></span>
+<span class="topo-line"><span class="topo-outside">ETTLSY</span><span class="topo-membrane">FSQMAGLTVQNFLSAASG</span><span class="topo-inside">IAVIFALIRAFTRQSMSTLGNAWVDLLRITLWV</span><span class="topo-membrane">LVP</span></span>
+<span class="topo-line"><span class="topo-membrane">VALLIALFFIQ</span><span class="topo-outside">QGALQNFLPYQAVNTVEGAQQLLPMGP</span><span class="topo-unknown">VASQEAIKMLGTNGGG</span><span class="topo-outside">FFNANS</span></span>
+<span class="topo-line"><span class="topo-outside">SHPFENPTAL</span><span class="topo-membrane">TNFVQMLAIFLIPTA</span><span class="topo-inside">LCFAFGEVMGDRRQGRMLL</span><span class="topo-membrane">WAMSVIFVICVGVV</span><span class="topo-outside">MW</span></span>
+<span class="topo-line"><span class="topo-outside">AEVQGNPHLLALGTDSSINMEGKESRFGVLVSSL</span><span class="topo-unknown">FAVVTTAASCGA</span><span class="topo-outside">VIAMHDSFTALGGM</span></span>
+<span class="topo-line"><span class="topo-membrane">VPMWLMQIGEVVFGGVGSGL</span><span class="topo-inside">YGMMLFVLLAVFIAGLMIGRTPEYLGKKIDVREMKLTALA</span></span>
+<span class="topo-line"><span class="topo-membrane">ILVTPTLVLMGAAL</span><span class="topo-outside">AMMTDAGRSAMLNPGPHGFSEVL</span><span class="topo-unknown">YAVSSAANNNGS</span><span class="topo-outside">AFAGLSANSPF</span></span>
+<span class="topo-line"><span class="topo-outside">WN</span><span class="topo-membrane">CLLAFCMFVGRFGV</span><span class="topo-inside">IIPVMAIAGSLVSKKSQAASSGTLPTHGPLFVGLL</span><span class="topo-membrane">IGTVLLVGA</span></span>
+<span class="topo-line"><span class="topo-membrane">LTFIPAL</span><span class="topo-outside">ALGPVAEYLS</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>1</td>
+      <td>3</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>20</td>
+      <td>4</td>
+      <td>20</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>69</td>
+      <td>21</td>
+      <td>69</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>70</td>
+      <td>84</td>
+      <td>70</td>
+      <td>84</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>85</td>
+      <td>102</td>
+      <td>85</td>
+      <td>102</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>103</td>
+      <td>115</td>
+      <td>103</td>
+      <td>115</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>116</td>
+      <td>126</td>
+      <td>116</td>
+      <td>126</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>127</td>
+      <td>144</td>
+      <td>127</td>
+      <td>144</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>145</td>
+      <td>177</td>
+      <td>145</td>
+      <td>177</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>178</td>
+      <td>191</td>
+      <td>178</td>
+      <td>191</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>192</td>
+      <td>218</td>
+      <td>192</td>
+      <td>218</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>219</td>
+      <td>234</td>
+      <td>219</td>
+      <td>234</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>235</td>
+      <td>250</td>
+      <td>235</td>
+      <td>250</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>251</td>
+      <td>265</td>
+      <td>251</td>
+      <td>265</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>266</td>
+      <td>284</td>
+      <td>266</td>
+      <td>284</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>285</td>
+      <td>298</td>
+      <td>285</td>
+      <td>298</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>299</td>
+      <td>334</td>
+      <td>299</td>
+      <td>334</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>335</td>
+      <td>346</td>
+      <td>335</td>
+      <td>346</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>347</td>
+      <td>360</td>
+      <td>347</td>
+      <td>360</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>361</td>
+      <td>380</td>
+      <td>361</td>
+      <td>380</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>381</td>
+      <td>420</td>
+      <td>381</td>
+      <td>420</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>421</td>
+      <td>434</td>
+      <td>421</td>
+      <td>434</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>435</td>
+      <td>457</td>
+      <td>435</td>
+      <td>457</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>458</td>
+      <td>469</td>
+      <td>458</td>
+      <td>469</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>470</td>
+      <td>482</td>
+      <td>470</td>
+      <td>482</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>483</td>
+      <td>496</td>
+      <td>483</td>
+      <td>496</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>497</td>
+      <td>531</td>
+      <td>497</td>
+      <td>531</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>532</td>
+      <td>547</td>
+      <td>532</td>
+      <td>547</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>548</td>
+      <td>557</td>
+      <td>548</td>
+      <td>557</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5mrw">5MRW</a> — Chain B (7 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">FEPTLVVQALKEAVKKLNPQAQWRNPV</span><span class="topo-membrane">MFIVWIGSLLTTCISIA</span><span class="topo-outside">MASGAMPGNALF</span><span class="topo-membrane">SAAI</span></span>
+<span class="topo-line"><span class="topo-membrane">SGWLWITVLF</span><span class="topo-inside">ANFAEALAEGRSKAQANSLKGVKKTAFARKLREPKYGAAADKVPADQLRK</span></span>
+<span class="topo-line"><span class="topo-inside">GDIVLVEAGDIIPCDGEVIEGGASVDESAITGESAPVIRESGGDFASVTGGTRILSDWLV</span></span>
+<span class="topo-line"><span class="topo-inside">IECSVNPGETFLDRMIAMVEGAQRRKTPNEIALTILLI</span><span class="topo-membrane">ALTIVFLLATATL</span><span class="topo-outside">WPFSAWGGN</span></span>
+<span class="topo-line"><span class="topo-outside">AVSV</span><span class="topo-membrane">TVLVALLVCLIPTT</span><span class="topo-inside">IGGLLSAIGVAGMSRMLGANVIATSGRAVEAAGDVDVLLLDK</span></span>
+<span class="topo-line"><span class="topo-inside">TGTITLGNRQASEFIPAQGVDEKTLADAAQLASLADETPEGRSIVILAKQRFNLRERDVQ</span></span>
+<span class="topo-line"><span class="topo-inside">SLHATFVPFTAQSRMSGINIDNRMIRKGSVDAIRRHVEANGGHFPTDVDQKVDQVARQGA</span></span>
+<span class="topo-line"><span class="topo-inside">TPLVVVEGSRVLGVIALKDIVKGGIKERFAQLRKMGIKTVMITGDNRLTAAAIAAEAGVD</span></span>
+<span class="topo-line"><span class="topo-inside">DFLAEATPEAKLALIRQYQAEGRLVAMTGDGTNDAPALAQADVAVAMNSGTQAAKEAGNM</span></span>
+<span class="topo-line"><span class="topo-inside">VDLDSNPTKLIEVVHIGKQMLMTRGSLTTF</span><span class="topo-membrane">SIANDVAKYFAII</span><span class="topo-outside">PAAFAATYPQLNALNIM</span></span>
+<span class="topo-line"><span class="topo-outside">CLHSPDS</span><span class="topo-membrane">AILSAVIFNALIIVF</span><span class="topo-inside">LIPLALKGVSYKPLTASAMLRRNLWIYG</span><span class="topo-membrane">LGGLLVPFIG</span></span>
+<span class="topo-line"><span class="topo-membrane">IKVIDLLL</span><span class="topo-outside">TVCGLV</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>27</td>
+      <td>9</td>
+      <td>35</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>44</td>
+      <td>36</td>
+      <td>52</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>56</td>
+      <td>53</td>
+      <td>64</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>57</td>
+      <td>70</td>
+      <td>65</td>
+      <td>78</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>71</td>
+      <td>218</td>
+      <td>79</td>
+      <td>226</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>219</td>
+      <td>231</td>
+      <td>227</td>
+      <td>239</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>232</td>
+      <td>244</td>
+      <td>240</td>
+      <td>252</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>245</td>
+      <td>258</td>
+      <td>253</td>
+      <td>266</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>259</td>
+      <td>570</td>
+      <td>267</td>
+      <td>578</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>571</td>
+      <td>583</td>
+      <td>579</td>
+      <td>591</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>584</td>
+      <td>607</td>
+      <td>592</td>
+      <td>615</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>608</td>
+      <td>622</td>
+      <td>616</td>
+      <td>630</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>623</td>
+      <td>650</td>
+      <td>631</td>
+      <td>658</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>651</td>
+      <td>668</td>
+      <td>659</td>
+      <td>676</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>669</td>
+      <td>674</td>
+      <td>677</td>
+      <td>682</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5mrw">5MRW</a> — Chain C (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">LRPALSTF</span><span class="topo-membrane">IFLLLITGGVYPLLTTVLGQWWF</span><span class="topo-outside">PWQANGSLIREGDTVRGSALIGQNFTGNG</span></span>
+<span class="topo-line"><span class="topo-outside">YFHGRPSATAEMPYNPQASGGSNLAVSNPELDKLIAARVAALRAANPDASASVPVELVTA</span></span>
+<span class="topo-line"><span class="topo-outside">SASGLDNNITPQAAAWQIPRVAKARNLSVEQLTQLIAKYSQQPLVKYIGQPVVNIVELNL</span></span>
+<span class="topo-line"><span class="topo-outside">ALDKLDE</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>8</td>
+      <td>4</td>
+      <td>11</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>31</td>
+      <td>12</td>
+      <td>34</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>32</td>
+      <td>187</td>
+      <td>35</td>
+      <td>190</td>
+      <td>Outside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5mrw">5MRW</a> — Chain D (1 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">MSAGV</span><span class="topo-membrane">ITGVLLVFLLLGYLV</span><span class="topo-inside">YALINAE</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>5</td>
+      <td>1</td>
+      <td>5</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>20</td>
+      <td>6</td>
+      <td>20</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>21</td>
+      <td>27</td>
+      <td>21</td>
+      <td>27</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -71,12 +613,12 @@ The soluble domain of KdpC is held by two loops from D2 and D3 repeats of KdpA v
 
 ## Cross-References
 
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [KCSA](/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/) — Related protein structure
-- [DTT](/xray-mp-wiki/reagents/additives/dtt/) — Additive used in purification or crystallization buffers
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers
-- [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers
-- [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) — Additive used in purification or crystallization buffers
-- [Sodium Acetate](/xray-mp-wiki/reagents/buffers/sodium-acetate/) — Buffer component in purification or crystallization
-- [n-Decyl-β-D-maltoside](/xray-mp-wiki/reagents/detergents/dm/) — Detergent used in purification or crystallization
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/proteins/voltage-gated-channels/kcsa/">KCSA</a> — Related protein structure
+- <a href="/xray-mp-wiki/reagents/additives/dtt/">DTT</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/buffers/sodium-acetate/">Sodium Acetate</a> — Buffer component in purification or crystallization
+- <a href="/xray-mp-wiki/reagents/detergents/dm/">n-Decyl-β-D-maltoside</a> — Detergent used in purification or crystallization

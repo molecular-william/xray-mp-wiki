@@ -1,7 +1,7 @@
 ---
 title: "E. coli PqiB Syringe-like MCE Protein"
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,32 +16,71 @@ verified: false
 
 PqiB is a periplasm-spanning MCE (mammalian cell entry) protein from Escherichia coli that adopts a distinctive needle-and-syringe architecture. PqiB consists of three tandem MCE domains that stack into three hexameric rings, forming a ~360 kDa complex with a hollow six-helix coiled-coil needle projecting from one end. The barrel is approximately 90 A in diameter and the complete assembly extends up to ~230 A from the inner membrane face. PqiB creates a continuous hydrophobic channel running from the tip of the needle through the barrel, potentially facilitating direct lipid transport across the periplasmic space. The structure was determined by single-particle [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em) at 3.96 A resolution.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.cell.2017.03.019 | 5UVN | 3.96 A | C6 | Periplasmic domain of PqiB (three MCE domains plus partial C-terminal helical region), with amphipol A8-35 | none |
+### doi/10.1016##j.cell.2017.03.019
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5uvn">5UVN</a></td>
+      <td>3.96 A</td>
+      <td>C6</td>
+      <td>Periplasmic domain of PqiB (three MCE domains plus partial C-terminal helical region), with amphipol A8-35</td>
+      <td>none</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli Rosetta2 DE3
 - **Construct**: PqiB periplasmic domain (three MCE domains with partial C-terminal region), expressed as soluble protein
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell lysis</td>
+      <td>Emulsiflex-C3 cell disruptor, centrifugation</td>
+      <td>--</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">TRIS</a> pH 8.0, 300 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> + --</td>
+      <td>Clarified lysate prepared</td>
+    </tr>
+    <tr>
+      <td>Ni-NTA affinity chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Metal Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA Agarose Resin</a> agarose</td>
+      <td>50 mM <a href="/xray-mp-wiki/reagents/buffers/tris">TRIS</a> pH 8.0, 300 mM NaCl, 10 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> (wash), 250 mM <a href="/xray-mp-wiki/reagents/additives/imidazole">Imidazole</a> (elution) + --</td>
+      <td>His-tagged PqiB purified from soluble fraction</td>
+    </tr>
+    <tr>
+      <td>Gel filtration</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a></td>
+      <td>20 mM <a href="/xray-mp-wiki/reagents/buffers/tris">TRIS</a> pH 8.0, 150 mM NaCl + --</td>
+      <td>Hexameric PqiB complex</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell lysis | Emulsiflex-C3 cell disruptor, centrifugation | -- | 50 mM [TRIS](/xray-mp-wiki/reagents/buffers/tris) pH 8.0, 300 mM NaCl, 10 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) + -- | Clarified lysate prepared |
-| Ni-NTA affinity chromatography | Metal affinity chromatography | [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta) agarose | 50 mM [TRIS](/xray-mp-wiki/reagents/buffers/tris) pH 8.0, 300 mM NaCl, 10 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) (wash), 250 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) (elution) + -- | His-tagged PqiB purified from soluble fraction |
-| Gel filtration | Size-exclusion chromatography | Superdex 200 | 20 mM [TRIS](/xray-mp-wiki/reagents/buffers/tris) pH 8.0, 150 mM NaCl + -- | Hexameric PqiB complex |
-
-
-## Crystallization
-
-No crystallization described.
 
 ## Biological / Functional Insights
 
@@ -76,11 +115,11 @@ lipoprotein PqiC and inner membrane protein PqiA to form a complete transport sy
 
 ## Cross-References
 
-- [E. coli MlaD MCE Protein](/xray-mp-wiki/proteins/structural-adhesion/mlaD/) — PqiB shares the same MCE domain fold; MlaD structure docked into PqiB EM density
-- [E. coli YebT Tube-like MCE Protein](/xray-mp-wiki/proteins/structural-adhesion/yebT/) — YebT shares the same modular stacking principle but with seven MCE domains
-- [E. coli MlaC Lipid-Binding Protein](/xray-mp-wiki/proteins/structural-adhesion/mlaC/) — MlaC shuttles lipids in the Mla system; PqiB may bypass the need for a shuttle by direct spanning
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Used for Ni-NTA affinity chromatography
-- [MCE Protein Family](/xray-mp-wiki/concepts/protein-families/mce-protein-family/) — PqiB is a three-domain MCE protein with unique needle-and-syringe architecture
-- [Cryo-Electron Microscopy](/xray-mp-wiki/methods/structure-determination/cryo-em/) — PqiB structure determined by single-particle cryo-EM at 3.96 A resolution
-- [TRIS](/xray-mp-wiki/reagents/buffers/tris) — Entity mentioned in text
-- [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta) — Entity mentioned in text
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/mlaD/">E. coli MlaD MCE Protein</a> — PqiB shares the same MCE domain fold; MlaD structure docked into PqiB EM density
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/yebT/">E. coli YebT Tube-like MCE Protein</a> — YebT shares the same modular stacking principle but with seven MCE domains
+- <a href="/xray-mp-wiki/proteins/structural-adhesion/mlaC/">E. coli MlaC Lipid-Binding Protein</a> — MlaC shuttles lipids in the Mla system; PqiB may bypass the need for a shuttle by direct spanning
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Used for Ni-NTA affinity chromatography
+- <a href="/xray-mp-wiki/concepts/protein-families/mce-protein-family/">MCE Protein Family</a> — PqiB is a three-domain MCE protein with unique needle-and-syringe architecture
+- <a href="/xray-mp-wiki/methods/structure-determination/cryo-em/">Cryo-Electron Microscopy</a> — PqiB structure determined by single-particle cryo-EM at 3.96 A resolution
+- <a href="/xray-mp-wiki/reagents/buffers/tris">TRIS</a> — Entity mentioned in text
+- <a href="/xray-mp-wiki/reagents/additives/nickel-nta">Ni-NTA Agarose Resin</a> — Entity mentioned in text

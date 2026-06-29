@@ -1,7 +1,7 @@
 ---
 title: "Isoprenylcysteine Carboxyl Methyltransferase (ICMT) from Methanosarcina acetivorans"
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,44 +16,230 @@ verified: false
 
 ICMT (isoprenylcysteine carboxyl methyltransferase) is an integral membrane methyltransferase that catalyzes the final step of CAAX processing — the carboxyl methylation of prenylated cysteine residues in proteins such as Ras and Rho GTPases. The crystal structure of a prokaryotic ortholog from Methanosarcina acetivorans (Ma-ICMT) reveals a unique architecture with five transmembrane helices and a cytosolic cofactor-binding pocket, with a substrate access tunnel linking the catalytic site to the inner membrane. This structure explains how an integral membrane methyltransferase achieves recognition of both a hydrophilic cofactor ([SAM](/xray-mp-wiki/reagents/cofactors/sam/)) and a lipophilic prenyl substrate within the lipid bilayer.
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.molcel.2011.10.020 | 4A2N | 3.4 A | P6222 | Ma-ICMT (MA2698 from Methanosarcina acetivorans) in complex with SAH cofactor | SAH ([S-Adenosyl-L-Homocysteine (AdoHcy)](/xray-mp-wiki/reagents/cofactors/s-adenosyl-l-homocysteine/)), endogenous C9 alkyl chain lipid |
+### doi/10.1016##j.molcel.2011.10.020
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4a2n">4A2N</a></td>
+      <td>3.4 A</td>
+      <td>P6222</td>
+      <td>Ma-ICMT (MA2698 from Methanosarcina acetivorans) in complex with SAH cofactor</td>
+      <td>SAH (<a href="/xray-mp-wiki/reagents/cofactors/s-adenosyl-l-homocysteine/">S-Adenosyl-L-Homocysteine (AdoHcy)</a>), endogenous C9 alkyl chain lipid</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli strain C41(DE3)
 - **Construct**: Ma-ICMT (MA2698) fused with TEV-cleavable C-terminal GFP-His7 tag. Cloned into pTriEX-based plasmid (pOPIN-GFP).
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Expression</td>
+      <td>Protein expression in E. coli</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>Ma-ICMT-GFP-His7 expressed in E. coli strain C41(DE3) at 20 degrees C overnight</td>
+    </tr>
+    <tr>
+      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> resin (His-tag affinity)</td>
+      <td>-- + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Ma-ICMT-GFP-His7 purified with <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA</a> using the C-terminal His7 tag</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/ion-exchange-chromatography/">Ion-Exchange Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/ion-exchange-chromatography/">Ion-Exchange Chromatography</a></td>
+      <td>Ion exchange resin</td>
+      <td>-- + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Ion exchange purification step to further purify Ma-ICMT</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td>Size-exclusion resin</td>
+      <td>-- + <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Final polishing step using size-exclusion chromatography</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Expression | Protein expression in E. coli | -- | -- + -- | Ma-ICMT-GFP-His7 expressed in E. coli strain C41(DE3) at 20 degrees C overnight |
-| Ni-NTA [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Ni-NTA resin (His-tag affinity) | -- + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Ma-ICMT-GFP-His7 purified with Ni-NTA using the C-terminal His7 tag |
-| [Ion-Exchange Chromatography](/xray-mp-wiki/methods/purification/ion-exchange-chromatography/) | [Ion-Exchange Chromatography](/xray-mp-wiki/methods/purification/ion-exchange-chromatography/) | Ion exchange resin | -- + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Ion exchange purification step to further purify Ma-ICMT |
-| Size-exclusion chromatography | Size-exclusion chromatography | Size-exclusion resin | -- + [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Final polishing step using size-exclusion chromatography |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td><a href="/xray-mp-wiki/methods/crystallization/vapor-diffusion/">Vapor Diffusion</a></td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>8 mg/ml Ma-ICMT in buffer (20 mM <a href="/xray-mp-wiki/reagents/buffers/mes/">MES</a> [pH 6.5], 200 mM <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride</a>, 10% [v/v] <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, and 0.024% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>)</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>5 mM SAH (<a href="/xray-mp-wiki/reagents/cofactors/s-adenosyl-l-homocysteine/">S-Adenosyl-L-Homocysteine (AdoHcy)</a>) and 0.5 mg/ml <a href="/xray-mp-wiki/reagents/lipids/e-coli-polar-lipids/">E. coli Polar Lipids</a> (Avanti Polar Lipids)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Not specified</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals were obtained in complex with SAH (Sigma) but not in its absence, suggesting that cofactor influences the protein conformation and is required for conformational homogeneity necessary for crystallization. Two derivatives were collected: EMTS (ethylmercurithiosalicylate) at DLS beam line I02, and gold derivative (KAu(CN)2) at DLS beam line I03. Structure determined from SAD phases obtained from EMTS and gold derivatives and multicrystal averaging.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4a2n">4A2N</a> — Chain B (5 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">MNEN</span><span class="topo-membrane">LWKICFIVMFIIWVFVRK</span><span class="topo-outside">VYGTRAMKNKSKKKVRPNFEKS</span><span class="topo-membrane">LVFLNFIGMVFLPLTA</span></span>
+<span class="topo-line"><span class="topo-membrane">VFSSYL</span><span class="topo-inside">DSFNINLPDS</span><span class="topo-membrane">IRLFALIVTFLNIGLFT</span><span class="topo-outside">KIHKDLGNNWSAILEIKDGHKLVKEGI</span></span>
+<span class="topo-line"><span class="topo-outside">YKNIRHPM</span><span class="topo-membrane">YAHLWLWVITQGIILSN</span><span class="topo-inside">W</span><span class="topo-membrane">VVLIFGIVAWAILYFI</span><span class="topo-outside">RVPKEEELLIEEFGDEYI</span></span>
+<span class="topo-line"><span class="topo-outside">EYMGKTGRLFPK</span><span class="topo-unknown">VV</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>1</td>
+      <td>4</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>22</td>
+      <td>5</td>
+      <td>22</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>44</td>
+      <td>23</td>
+      <td>44</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>45</td>
+      <td>66</td>
+      <td>45</td>
+      <td>66</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>76</td>
+      <td>67</td>
+      <td>76</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>77</td>
+      <td>93</td>
+      <td>77</td>
+      <td>93</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>128</td>
+      <td>94</td>
+      <td>128</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>129</td>
+      <td>145</td>
+      <td>129</td>
+      <td>145</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>146</td>
+      <td>146</td>
+      <td>146</td>
+      <td>146</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>147</td>
+      <td>162</td>
+      <td>147</td>
+      <td>162</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>163</td>
+      <td>192</td>
+      <td>163</td>
+      <td>192</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>193</td>
+      <td>194</td>
+      <td>193</td>
+      <td>194</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1016##j.molcel.2011.10.020
-
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion |
-| Protein sample | 8 mg/ml Ma-ICMT in buffer (20 mM MES [pH 6.5], 200 mM [[Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/)], 10% [v/v] [[Glycerol](/xray-mp-wiki/reagents/additives/glycerol/)], and 0.024% [[DDM](/xray-mp-wiki/reagents/detergents/ddm/)]) |
-| Reservoir | 5 mM SAH ([S-Adenosyl-L-Homocysteine (AdoHcy)](/xray-mp-wiki/reagents/cofactors/s-adenosyl-l-homocysteine/)) and 0.5 mg/ml [polar lipids] (Avanti Polar Lipids) |
-| Temperature | Not specified |
-| Growth time | Not specified |
-| Cryoprotection | Not specified |
-| Notes | Crystals were obtained in complex with SAH (Sigma) but not in its absence, suggesting that cofactor influences the protein conformation and is required for conformational homogeneity necessary for crystallization. Two derivatives were collected: EMTS (ethylmercurithiosalicylate) at DLS beam line I02, and gold derivative (KAu(CN)2) at DLS beam line I03. Structure determined from SAD phases obtained from EMTS and gold derivatives and multicrystal averaging. |
-
+</div>
 
 ## Biological / Functional Insights
 
@@ -84,13 +270,13 @@ ICMT is essential for proper subcellular localization of CAAX proteins including
 
 ## Cross-References
 
-- [SAM (S-Adenosyl-L-Methionine)](/xray-mp-wiki/reagents/ligands/sam/) — Essential cofactor for ICMT methyltransferase activity, binds in the enclosed cofactor-binding pocket
-- [DDM (N-Dodecyl-beta-D-maltoside)](/xray-mp-wiki/reagents/detergents/ddm/) — Detergent used for solubilization and purification of Ma-ICMT
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Included in purification and crystallization buffer (10% v/v)
-- [MES (2-(N-morpholino)ethanesulfonic acid)](/xray-mp-wiki/reagents/buffers/mes/) — Buffer used in crystallization (20 mM MES, pH 6.5)
-- [Sodium Chloride (NaCl)](/xray-mp-wiki/reagents/additives/sodium-chloride/) — Salt component in crystallization buffer (200 mM NaCl)
-- [Ni-NTA Agarose Resin](/xray-mp-wiki/reagents/additives/nickel-nta/) — Used for His-tag affinity purification of Ma-ICMT-GFP-His7
-- [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) — Size-exclusion chromatography resin used for final purification step
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [Ion-Exchange Chromatography](/xray-mp-wiki/methods/purification/ion-exchange-chromatography/) — Method used in structure determination or purification
-- [S-Adenosyl-L-Homocysteine (AdoHcy)](/xray-mp-wiki/reagents/cofactors/s-adenosyl-l-homocysteine/) — Related ligand or cofactor
+- <a href="/xray-mp-wiki/reagents/ligands/sam/">SAM (S-Adenosyl-L-Methionine)</a> — Essential cofactor for ICMT methyltransferase activity, binds in the enclosed cofactor-binding pocket
+- <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM (N-Dodecyl-beta-D-maltoside)</a> — Detergent used for solubilization and purification of Ma-ICMT
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Included in purification and crystallization buffer (10% v/v)
+- <a href="/xray-mp-wiki/reagents/buffers/mes/">MES (2-(N-morpholino)ethanesulfonic acid)</a> — Buffer used in crystallization (20 mM MES, pH 6.5)
+- <a href="/xray-mp-wiki/reagents/additives/sodium-chloride/">Sodium Chloride (NaCl)</a> — Salt component in crystallization buffer (200 mM NaCl)
+- <a href="/xray-mp-wiki/reagents/additives/nickel-nta/">Ni-NTA Agarose Resin</a> — Used for His-tag affinity purification of Ma-ICMT-GFP-His7
+- <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200 Increase SEC Resin</a> — Size-exclusion chromatography resin used for final purification step
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/purification/ion-exchange-chromatography/">Ion-Exchange Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/cofactors/s-adenosyl-l-homocysteine/">S-Adenosyl-L-Homocysteine (AdoHcy)</a> — Related ligand or cofactor

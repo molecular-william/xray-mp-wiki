@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }}</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background: #1a1a2e; color: #eee; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; overflow: hidden; }
+    
+    #container { display: flex; height: 100vh; width: 100vw; }
+    
+    #sidebar {
+      width: 320px; min-width: 320px; background: #16213e; 
+      padding: 16px; overflow-y: auto; border-right: 1px solid #0f3460;
+    }
+    
+    #sidebar h1 { font-size: 18px; margin-bottom: 4px; }
+    #sidebar .subtitle { font-size: 12px; color: #888; margin-bottom: 16px; }
+    
+    #search-box {
+      width: 100%; padding: 8px 12px; border-radius: 6px; border: 1px solid #0f3460;
+      background: #1a1a2e; color: #eee; font-size: 13px; outline: none;
+    }
+    #search-box:focus { border-color: #4e79a7; }
+    
+    .controls { margin-top: 12px; }
+    .control-group { margin-bottom: 12px; }
+    .control-group label { display: block; font-size: 11px; color: #888; margin-bottom: 4px; text-transform: uppercase; letter-spacing: 0.5px; }
+    .checkbox-row { display: flex; gap: 8px; flex-wrap: wrap; }
+    .checkbox-row label { font-size: 12px; cursor: pointer; display: flex; align-items: center; gap: 4px; color: #ccc; text-transform: none; letter-spacing: 0; }
+    .checkbox-row input { cursor: pointer; }
+    
+    #stats { font-size: 11px; color: #666; margin-top: 12px; line-height: 1.6; }
+    
+    #info-panel {
+      background: #1a1a2e; border: 1px solid #0f3460; border-radius: 8px; 
+      padding: 12px; margin-top: 12px; display: none;
+    }
+    #info-panel h3 { font-size: 14px; margin-bottom: 4px; }
+    #info-panel .info-type { font-size: 11px; color: #888; }
+    #info-panel .info-detail { font-size: 12px; margin-top: 4px; }
+    #info-panel .info-link { display: inline-block; margin-top: 8px; padding: 4px 12px; 
+      background: #4e79a7; color: white; border-radius: 4px; text-decoration: none; font-size: 12px; }
+    
+    #cy { flex: 1; height: 100vh; }
+    
+    .color-dot { display: inline-block; width: 10px; height: 10px; border-radius: 50%; margin-right: 4px; }
+    
+    .legend { margin-top: 16px; }
+    .legend-item { font-size: 11px; color: #aaa; margin-bottom: 4px; display: flex; align-items: center; }
+    
+    @media (max-width: 768px) {
+      #sidebar { width: 260px; min-width: 260px; }
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <div id="sidebar">
+      <h1>📊 Knowledge Graph</h1>
+      <div class="subtitle">X-ray MP Wiki — <span id="meta-nodes">2,022</span> entities, <span id="meta-edges">9,688</span> connections</div>
+      
+      <input type="text" id="search-box" placeholder="Search for a protein, reagent, or concept..." />
+      
+      <div class="controls">
+        <div class="control-group">
+          <label>Entity Types</label>
+          <div class="checkbox-row" id="type-filters">
+            <label><input type="checkbox" checked data-type="proteins" /> <span class="color-dot" style="background:#4e79a7"></span>Proteins</label>
+            <label><input type="checkbox" checked data-type="reagents" /> <span class="color-dot" style="background:#f28e2b"></span>Reagents</label>
+            <label><input type="checkbox" checked data-type="concepts" /> <span class="color-dot" style="background:#59a14f"></span>Concepts</label>
+            <label><input type="checkbox" checked data-type="methods" /> <span class="color-dot" style="background:#e15759"></span>Methods</label>
+          </div>
+        </div>
+        
+        <div class="control-group">
+          <label>Edge Types</label>
+          <div class="checkbox-row" id="edge-filters">
+            <label><input type="checkbox" checked data-type="homolog" /> Homolog</label>
+            <label><input type="checkbox" checked data-type="reagent" /> Reagent</label>
+            <label><input type="checkbox" checked data-type="method" /> Method</label>
+            <label><input type="checkbox" checked data-type="concept" /> Concept</label>
+            <label><input type="checkbox" checked data-type="family" /> Family</label>
+            <label><input type="checkbox" checked data-type="general" /> General</label>
+          </div>
+        </div>
+        
+        <div class="control-group">
+          <label>Display</label>
+          <div class="checkbox-row">
+            <label><input type="checkbox" id="show-labels" checked /> Show labels</label>
+            <label><input type="checkbox" id="show-names" /> Full names</label>
+          </div>
+        </div>
+      </div>
+      
+      <div id="stats">Loading graph data...</div>
+      
+      <div id="info-panel"></div>
+      
+      <div class="legend">
+        <div class="legend-item"><span class="color-dot" style="background:#4e79a7"></span> Protein — sized by importance</div>
+        <div class="legend-item"><span class="color-dot" style="background:#f28e2b"></span> Reagent — detergent, buffer, ligand</div>
+        <div class="legend-item"><span class="color-dot" style="background:#59a14f"></span> Concept — mechanism, family</div>
+        <div class="legend-item"><span class="color-dot" style="background:#e15759"></span> Method — protocol, technique</div>
+        <div class="legend-item" style="margin-top:8px;color:#666;font-size:10px">
+          Edge thickness = connection strength · Click node to visit page · Ctrl+click for 2-hop neighbors
+        </div>
+      </div>
+    </div>
+    
+    <div id="cy"></div>
+  </div>
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.28.1/cytoscape.min.js"></script>
+  <script>
+    const graphUrl = '{{ "/assets/graph.json" | relative_url }}';
+    
+    fetch(graphUrl)
+      .then(r => r.json())
+      .then(data => {
+        const meta = data.meta;
+        
+        // ── Build Cytoscape elements ──
+        const elements = [
+          ...data.nodes.map(n => ({
+            group: 'nodes',
+            data: {
+              id: n.id,
+              label: n.title.length > 25 ? n.title.substring(0, 25) + '…' : n.title,
+              fullLabel: n.title,
+              type: n.type,
+              importance: n.importance,
+              radius: n.radius,
+              degree: n.degree,
+              url: '/xray-mp-wiki/' + n.type + '/' + n.id + '/',
+              subgroup: n.subgroup,
+              sources: n.sources,
+              pdbs: n.pdbs,
+              insights: n.insights
+            }
+          })),
+          ...data.edges.map(e => ({
+            group: 'edges',
+            data: {
+              id: e.source + '→' + e.target,
+              source: e.source,
+              target: e.target,
+              etype: e.type,
+              weight: e.weight,
+              opacityVal: e.opacity,
+              reasons: e.reasons.join('; ')
+            }
+          }))
+        ];
+        
+        const TYPE_COLORS = {
+          proteins: '#4e79a7',
+          reagents: '#f28e2b',
+          concepts: '#59a14f',
+          methods:  '#e15759'
+        };
+        
+        const EDGE_COLORS = {
+          homolog:  '#4e79a7',
+          reagent:  '#f28e2b',
+          method:   '#e15759',
+          concept:  '#59a14f',
+          family:   '#af7aa1',
+          general:  '#555555'
+        };
+        
+        // ── Init Cytoscape ──
+        const cy = cytoscape({
+          container: document.getElementById('cy'),
+          elements: elements,
+          style: [
+            {
+              selector: 'node',
+              style: {
+                'background-color': ele => TYPE_COLORS[ele.data('type')] || '#888',
+                width: ele => ele.data('radius'),
+                height: ele => ele.data('radius'),
+                'border-color': '#fff',
+                'border-width': 0.5,
+                label: ele => '',
+                'font-size': 8,
+                color: '#ddd',
+                'text-valign': 'bottom',
+                'text-halign': 'center',
+                'text-margin-y': 4
+              }
+            },
+            {
+              selector: 'node[importance > 0.4]',
+              style: {
+                'border-width': 1.5,
+                'border-color': '#fff'
+              }
+            },
+            {
+              selector: 'edge',
+              style: {
+                width: ele => Math.max(0.5, ele.data('weight') * 0.3),
+                'line-color': ele => {
+                  const c = EDGE_COLORS[ele.data('etype')] || '#444';
+                  return c;
+                },
+                opacity: ele => ele.data('opacityVal'),
+                'target-arrow-color': '#666',
+                'target-arrow-shape': 'triangle',
+                'arrow-scale': 0.5
+              }
+            },
+            {
+              selector: 'edge[etype = "homolog"]',
+              style: { 'line-style': 'solid' }
+            },
+            {
+              selector: 'edge[etype = "reagent"]',
+              style: { 'line-style': 'solid' }
+            },
+            {
+              selector: 'edge[etype = "general"]',
+              style: { 'line-style': 'dotted', opacity: 0.15 }
+            },
+            {
+              selector: ':selected',
+              style: { 'border-color': '#ffd700', 'border-width': 3 }
+            }
+          ],
+          layout: {
+            name: 'cose',
+            animate: true,
+            animationDuration: 1000,
+            nodeRepulsion: 15000,
+            nodeOverlap: 5,
+            idealEdgeLength: 80,
+            nestingFactor: 0.1,
+            gravity: 0.25,
+            numIter: 1000,
+            initialTemp: 1000
+          }
+        });
+        
+        // ── Update stats ──
+        document.getElementById('stats').innerHTML =
+          '<strong>' + meta.total_nodes + '</strong> entities · <strong>' + meta.total_edges + '</strong> edges<br>' +
+          'Showing: ' + cy.nodes().length + ' nodes, ' + cy.edges().length + ' edges';
+        document.getElementById('meta-nodes').textContent = meta.total_nodes;
+        document.getElementById('meta-edges').textContent = meta.total_edges;
+        
+        // ── Search ──
+        let searchTimeout;
+        document.getElementById('search-box').addEventListener('input', function() {
+          clearTimeout(searchTimeout);
+          searchTimeout = setTimeout(() => {
+            const q = this.value.toLowerCase().trim();
+            if (!q) {
+              cy.nodes().style({ opacity: 1 });
+              cy.edges().style({ opacity: e => e.data('opacityVal') });
+              return;
+            }
+            const matches = cy.nodes().filter(n => 
+              n.id().toLowerCase().includes(q) || 
+              n.data('fullLabel').toLowerCase().includes(q)
+            );
+            const matchIds = new Set(matches.map(n => n.id()));
+            
+            cy.nodes().forEach(n => {
+              n.style({ opacity: matchIds.has(n.id()) ? 1 : 0.05 });
+            });
+            
+            // Show edges between matched nodes
+            cy.edges().forEach(e => {
+              const s = matchIds.has(e.source().id());
+              const t = matchIds.has(e.target().id());
+              e.style({ opacity: (s && t) ? e.data('opacityVal') : 0.02 });
+            });
+            
+            if (matches.length === 1) {
+              cy.fit(cy.getElementById(matches[0].id()).connectedEdges().union(matches[0]), 80);
+            } else if (matches.length > 0) {
+              cy.fit(cy.elements(), 60);
+            }
+          }, 200);
+        });
+        
+        // ── Type filters ──
+        document.querySelectorAll('#type-filters input').forEach(cb => {
+          cb.addEventListener('change', function() {
+            const type = this.dataset.type;
+            const visible = this.checked;
+            cy.nodes(`[type = "${type}"]`).toggle(!visible);
+            updateStats();
+          });
+        });
+        
+        // ── Edge filters ──
+        document.querySelectorAll('#edge-filters input').forEach(cb => {
+          cb.addEventListener('change', function() {
+            const etype = this.dataset.type;
+            const visible = this.checked;
+            cy.edges(`[etype = "${etype}"]`).toggle(!visible);
+            updateStats();
+          });
+        });
+        
+        // ── Label toggle ──
+        document.getElementById('show-labels').addEventListener('change', function() {
+          const show = this.checked;
+          cy.nodes('[importance > 0.3]').style({
+            label: show ? 'data(label)' : ''
+          });
+        });
+        
+        document.getElementById('show-names').addEventListener('change', function() {
+          const showFull = this.checked;
+          cy.nodes('[importance > 0.3]').style({
+            label: showFull ? 'data(fullLabel)' : 'data(label)'
+          });
+        });
+        
+        // ── Click to navigate ──
+        cy.on('tap', 'node', function(evt) {
+          const node = evt.target;
+          const url = node.data('url');
+          if (evt.originalEvent.ctrlKey || evt.originalEvent.metaKey) {
+            // 2-hop neighbors
+            const neighbors = node.neighborhood().add(node);
+            const rest = cy.elements().difference(neighbors);
+            rest.style({ opacity: 0.05 });
+            neighbors.style({ opacity: 1 });
+            cy.fit(neighbors, 60);
+          } else {
+            // Show info panel
+            const panel = document.getElementById('info-panel');
+            const info = node.data();
+            panel.style.display = 'block';
+            panel.innerHTML = `
+              <h3>${info.fullLabel}</h3>
+              <div class="info-type">
+                <span class="color-dot" style="background:${TYPE_COLORS[info.type] || '#888'}"></span>
+                ${info.type}
+                ${info.subgroup ? '· ' + info.subgroup : ''}
+              </div>
+              <div class="info-detail">
+                Importance: ${info.importance.toFixed(3)} · Degree: ${info.degree}
+                ${info.sources ? '· Sources: ' + info.sources : ''}
+                ${info.pdbs ? '· PDBs: ' + info.pdbs : ''}
+              </div>
+              <a class="info-link" href="${info.url}" target="_self">Open page →</a>
+            `;
+          }
+        });
+        
+        // Click background to reset
+        cy.on('tap', function(evt) {
+          if (evt.target === cy) {
+            document.getElementById('info-panel').style.display = 'none';
+            cy.elements().style({ opacity: 1 });
+          }
+        });
+        
+        // ── Edge tooltips ──
+        cy.on('mouseover', 'edge', function(evt) {
+          const e = evt.target;
+          const src = e.source().data('fullLabel');
+          const tgt = e.target().data('fullLabel');
+          const reasons = e.data('reasons');
+          e.style({ 'line-color': '#ffd700', width: 3 });
+          document.getElementById('info-panel').style.display = 'block';
+          document.getElementById('info-panel').innerHTML = `
+            <div style="font-size:12px">
+              <strong>${src}</strong> → <strong>${tgt}</strong><br>
+              Type: ${e.data('etype')} · Weight: ${e.data('weight')}<br>
+              <span style="color:#888">${reasons}</span>
+            </div>
+          `;
+        });
+        
+        cy.on('mouseout', 'edge', function(evt) {
+          const e = evt.target;
+          e.style({
+            'line-color': EDGE_COLORS[e.data('etype')] || '#444',
+            width: Math.max(0.5, e.data('weight') * 0.3)
+          });
+        });
+        
+        function updateStats() {
+          const vn = cy.nodes(':visible').length;
+          const ve = cy.edges(':visible').length;
+          document.getElementById('stats').innerHTML =
+            '<strong>' + meta.total_nodes + '</strong> total · Showing: <strong>' + vn + '</strong> nodes, <strong>' + ve + '</strong> edges';
+        }
+        
+        // ── Keyboard shortcut ──
+        document.addEventListener('keydown', function(e) {
+          if (e.key === '/' && e.target.tagName !== 'INPUT') {
+            e.preventDefault();
+            document.getElementById('search-box').focus();
+          }
+        });
+        
+        // ── Show initial labels (hubs only) ──
+        cy.nodes('[importance > 0.4]').style({
+          label: 'data(label)'
+        });
+        
+        console.log('Graph loaded: ' + cy.nodes().length + ' nodes, ' + cy.edges().length + ' edges');
+      })
+      .catch(err => {
+        document.getElementById('stats').innerHTML = '<span style="color:#e15759">Error loading graph: ' + err.message + '</span>';
+      });
+  </script>
+</body>
+</html>

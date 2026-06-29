@@ -1,7 +1,7 @@
 ---
 title: "Human Alpha4Beta2 Nicotinic Receptor"
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,35 +17,41 @@ verified: false
 The human alpha4beta2 nicotinic [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/) receptor (nAChR) is a pentameric ligand-gated ion channel and the most abundant nicotinic receptor subtype in the brain. It mediates fast chemical neurotransmission and is a key therapeutic target for neuromuscular disease, addiction, and epilepsy. The receptor assembles in two functional subunit stoichiometries (3α:2β and 2α:3β), with the latter showing approximately 100-fold higher affinity for [Nicotine](/xray-mp-wiki/reagents/ligands/nicotine/) and [Acetylcholine](/xray-mp-wiki/reagents/ligands/acetylcholine/). The alpha4 and beta2 subunits share 59% amino acid sequence identity and adopt similar backbone conformations. This structure provides insights into ligand recognition, heteromer assembly, ion permeation, and desensitization in Cys-loop receptors.
 
 
-## Structure Determination
-
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1038##nature19785 | 5HUW | 3.9 A | P212121 | Human alpha4 (residues 1-338, 556-601) and beta2 (residues 1-330, 417-477) with M3-M4 loop deletion and Glu-Arg linker at MX-M4 junction. Strep-tag at C terminus of beta2 subunit. | Nicotine (bound at two alpha-beta interfaces) |
-
-## Expression and Purification
-
-### Purification Workflow
-
-
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Transfection and expression | [Baculovirus](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) transduction with MOIs 0.25:0.5 for alpha4:beta2 subunits | Not specified | Not specified | [Nicotine](/xray-mp-wiki/reagents/ligands/nicotine/) (0.1 mM) and sodium butyrate (3 mM) added at transduction; cells at 30 C and 8% CO2 |
-| Cell lysis and solubilization | Cell harvest after 72 h; detergent solubilization | Not specified | Not specified | Not specified in detail |
-| Affinity purification | Strep-tag affinity purification on beta2 C-terminus | Strep-Tactin | Not specified | Strep-tag preceded by Ser-Ala linker |
-| Size-exclusion chromatography | Fluorescence-detection size-exclusion chromatography (FSEC) for monodispersity screening | SRT [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)-500 column | Not specified | Monitored by tryptophan fluorescence; time-dependent oligomerization/aggregation observed |
-
-
-## Crystallization
+## Publications
 
 ### doi/10.1038##nature19785
 
-| Parameter | Value |
-|---|---|
-| Method | Co-crystallization with [Nicotine](/xray-mp-wiki/reagents/ligands/nicotine/) and [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) analogue |
+**Structures:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/5huw">5HUW</a></td>
+      <td>3.9 A</td>
+      <td>P212121</td>
+      <td>Human alpha4 (residues 1-338, 556-601) and beta2 (residues 1-330, 417-477) with M3-M4 loop deletion and Glu-Arg linker at MX-M4 junction. Strep-tag at C terminus of beta2 subunit.</td>
+      <td>Nicotine (bound at two alpha-beta interfaces)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Crystallization:**
+
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Co-crystallization with <a href="/xray-mp-wiki/reagents/ligands/nicotine/">Nicotine</a> and <a href="/xray-mp-wiki/reagents/lipids/cholesterol/">Cholesterol</a> analogue</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Biological / Functional Insights
 
@@ -68,13 +74,13 @@ Comparison of the alpha4beta2 receptor with reference structures (GlyR-open, GAB
 
 ## Cross-References
 
-- [Nicotine](/xray-mp-wiki/reagents/ligands/nicotine/) — Co-crystallization ligand bound at alpha-beta interfaces; functional agonist
-- [Epibatidine](/xray-mp-wiki/reagents/additives/epibatidine/) — Used in competition binding assays to determine ligand affinities
-- [Acetylcholine-Binding Protein (AChBP)](/xray-mp-wiki/proteins/cys-loop-receptors/acetylcholine-binding-protein/) — Soluble surrogate of Cys-loop receptor extracellular domain; used for structural comparison of nicotine binding
-- [Human GABA_A Receptor Beta-3 Subunit](/xray-mp-wiki/proteins/cys-loop-receptors/gabar-b3/) — Cys-loop receptor homologue; desensitized state used for pore conformation comparison
-- [Mouse 5-HT3A Receptor](/xray-mp-wiki/proteins/cys-loop-receptors/mouse-5ht3a-receptor/) — Homopentameric Cys-loop receptor; MX helix conformation comparison
-- [GLIC](/xray-mp-wiki/proteins/cys-loop-receptors/glic/) — Prokaryotic Cys-loop receptor; structural superposition and conformational comparison
-- [Cys-Loop Receptor Family](/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/) — Alpha4beta2 nAChR is a member of the Cys-loop receptor superfamily
-- [Desensitization in Cys-Loop Receptors](/xray-mp-wiki/concepts/signaling-receptors/desensitization-in-cys-loop-receptors/) — Alpha4beta2 receptor locked in desensitized conformation by nicotine
-- [Baculovirus Expression](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) — Related protein
-- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Related protein
+- <a href="/xray-mp-wiki/reagents/ligands/nicotine/">Nicotine</a> — Co-crystallization ligand bound at alpha-beta interfaces; functional agonist
+- <a href="/xray-mp-wiki/reagents/additives/epibatidine/">Epibatidine</a> — Used in competition binding assays to determine ligand affinities
+- <a href="/xray-mp-wiki/proteins/cys-loop-receptors/acetylcholine-binding-protein/">Acetylcholine-Binding Protein (AChBP)</a> — Soluble surrogate of Cys-loop receptor extracellular domain; used for structural comparison of nicotine binding
+- <a href="/xray-mp-wiki/proteins/cys-loop-receptors/gabar-b3/">Human GABA_A Receptor Beta-3 Subunit</a> — Cys-loop receptor homologue; desensitized state used for pore conformation comparison
+- <a href="/xray-mp-wiki/proteins/cys-loop-receptors/mouse-5ht3a-receptor/">Mouse 5-HT3A Receptor</a> — Homopentameric Cys-loop receptor; MX helix conformation comparison
+- <a href="/xray-mp-wiki/proteins/cys-loop-receptors/glic/">GLIC</a> — Prokaryotic Cys-loop receptor; structural superposition and conformational comparison
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/cys-loop-receptor-family/">Cys-Loop Receptor Family</a> — Alpha4beta2 nAChR is a member of the Cys-loop receptor superfamily
+- <a href="/xray-mp-wiki/concepts/signaling-receptors/desensitization-in-cys-loop-receptors/">Desensitization in Cys-Loop Receptors</a> — Alpha4beta2 receptor locked in desensitized conformation by nicotine
+- <a href="/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/">Baculovirus Expression</a> — Related protein
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> — Related protein

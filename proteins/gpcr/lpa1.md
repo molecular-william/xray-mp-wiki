@@ -1,7 +1,7 @@
 ---
 title: "Lysophosphatidic Acid Receptor 1 (LPA1)"
 created: 2026-05-27
-updated: 2026-05-27
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -16,53 +16,690 @@ verified: false
 
 Lysophosphatidic acid receptor 1 (LPA1, also known as LPAR1 or EDG2) is a class A G protein-coupled receptor that binds lysophosphatidic acid (LPA), a bioactive lysophospholipid signaling molecule. LPA1 couples to multiple G protein pathways (Gq, Gi, G12/13) and mediates diverse physiological responses including cell proliferation, migration, and survival. Dysregulation of LPA1 signaling has been linked to cancer progression, hydrocephalus, and neuropathic pain. The first crystal structure of LPA1 revealed a spherical binding pocket and an extracellular ligand access pathway distinct from the related [Sphingosine](/xray-mp-wiki/reagents/lipids/sphingosine)-1-phosphate receptor [S1P1](/xray-mp-wiki/proteins/s1p1).
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1016##j.cell.2015.06.002 | 4Z34 | 3.0 | P212121 | Human LPA1 with bRIL fusion in ICL3 (R233, R247 positions), C-terminus truncated (38 residues removed), antagonist-bound | ONO-9780307 |
-| doi/10.1016##j.cell.2015.06.002 | 4Z35 | 2.9 | P212121 | Human LPA1 with bRIL fusion in ICL3 (R233, R247 positions), C-terminus truncated (38 residues removed), antagonist-bound | ONO-9910539 |
-| doi/10.1016##j.cell.2015.06.002 | 4Z36 | 2.9 | P212121 | Human LPA1 with engineered disulfide bond (D204A-V282C), mbRIL fusion in ICL3, C-terminus truncated, antagonist-bound | ONO-3080573 |
+### doi/10.1016##j.cell.2015.06.002
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4z34">4Z34</a></td>
+      <td>3.0</td>
+      <td>P212121</td>
+      <td>Human LPA1 with bRIL fusion in ICL3 (R233, R247 positions), C-terminus truncated (38 residues removed), antagonist-bound</td>
+      <td>ONO-9780307</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4z35">4Z35</a></td>
+      <td>2.9</td>
+      <td>P212121</td>
+      <td>Human LPA1 with bRIL fusion in ICL3 (R233, R247 positions), C-terminus truncated (38 residues removed), antagonist-bound</td>
+      <td>ONO-9910539</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4z36">4Z36</a></td>
+      <td>2.9</td>
+      <td>P212121</td>
+      <td>Human LPA1 with engineered disulfide bond (D204A-V282C), mbRIL fusion in ICL3, C-terminus truncated, antagonist-bound</td>
+      <td>ONO-3080573</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Sf9 insect cells
 - **Construct**: Human LPA1 with bRIL (b562RIL) fusion in ICL3 at Ballesteros positions 5.66 (R233) and 6.24 (R247), C-terminal truncation removing 38 residues. For ONO-3080573: dsLPA1-mbRIL with engineered disulfide between D204A and V282C, mbRIL with modified disordered loop (short linker)
 
-### Purification Workflow
+**Purification:**
 
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture and membrane preparation</td>
+      <td>Sf9 insect cell expression</td>
+      <td>--</td>
+      <td>-- + --</td>
+      <td>LPA1-<a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL Fusion Protein</a> construct expressed in Sf9 insect cells; membranes harvested for stability assays and purification</td>
+    </tr>
+    <tr>
+      <td>Affinity chromatography</td>
+      <td>Ni-NTA <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">affinity chromatography</a></td>
+      <td>Ni-NTA</td>
+      <td>--</td>
+      <td>His-tag on <a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL Fusion Protein</a> fusion partner used for affinity capture</td>
+    </tr>
+    <tr>
+      <td>Size-exclusion chromatography</td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-exclusion chromatography</a></td>
+      <td>SEC column</td>
+      <td>--</td>
+      <td>Analytical SEC used for stability screening in place of CPM assay; SEC stability assays guided compound selection</td>
+    </tr>
+  </tbody>
+</table>
 
-##### Steps
+**Crystallization:**
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture and membrane preparation | Sf9 insect cell expression | -- | -- + -- | LPA1-[BRIL Fusion Protein](/xray-mp-wiki/reagents/protein-tags/bril) construct expressed in Sf9 insect cells; membranes harvested for stability assays and purification |
-| Affinity chromatography | Ni-NTA affinity chromatography | Ni-NTA | -- | His-tag on [BRIL Fusion Protein](/xray-mp-wiki/reagents/protein-tags/bril) fusion partner used for affinity capture |
-| Size-exclusion chromatography | [Size-exclusion chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | SEC column | -- | Analytical SEC used for stability screening in place of CPM assay; SEC stability assays guided compound selection |
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>LPA1-<a href="/xray-mp-wiki/reagents/protein-tags/bril">BRIL Fusion Protein</a> co-crystallized with <a href="/xray-mp-wiki/reagents/ligands/ono-9780307">ONO-9780307</a> or <a href="/xray-mp-wiki/reagents/ligands/ono-9910539">ONO-9910539</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>not specified in main text</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>not specified in main text</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>not specified in main text</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals grown in <a href="/xray-mp-wiki/reagents/lipids/monoolein">Monoolein</a>-<a href="/xray-mp-wiki/reagents/lipids/cholesterol">Cholesterol</a> LCP mixture. <a href="/xray-mp-wiki/reagents/ligands/ono-9780307">ONO-9780307</a>: 86 crystals, 3.0 A resolution. <a href="/xray-mp-wiki/reagents/ligands/ono-9910539">ONO-9910539</a>: 53 crystals, 2.9 A resolution. P212121 space group.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Lipidic cubic phase (LCP)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>dsLPA1-mbRIL co-crystallized with <a href="/xray-mp-wiki/reagents/ligands/ono-3080573">ONO-3080573</a></td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>not specified in main text</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>not specified in main text</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>not specified in main text</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Disulfide-engineered construct (D204A-V282C) with modified mbRIL fusion. 39 crystals, 2.9 A resolution. P212121 space group.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4z34">4Z34</a> — Chain A (7 TMs, alpha)**
 
-## Crystallization
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFAGAPAAISTSIPVISQPQFTAM</span><span class="topo-outside">NEPQCFYNESIAFFYNRSGKHLA</span></span>
+<span class="topo-line"><span class="topo-outside">TEWNTV</span><span class="topo-membrane">SKLVMGLGITVCIFIMLANLLVMV</span><span class="topo-inside">AIYVNRRFHFPIYYL</span><span class="topo-membrane">MANLAAADFFAGLAY</span></span>
+<span class="topo-line"><span class="topo-membrane">FYLMFNT</span><span class="topo-outside">GPNTRRLTV</span><span class="topo-membrane">STWLLRQGLIDTSLTASVANLLAIA</span><span class="topo-inside">IERHITVFRMQLHTRMSNR</span></span>
+<span class="topo-line"><span class="topo-inside">RVV</span><span class="topo-membrane">VVIVVIWTMAIVMGAIPSVGWNC</span><span class="topo-outside">ICDIENCSNMAPL</span><span class="topo-membrane">YSDSYLVFWAIFNLVTFVVMV</span></span>
+<span class="topo-line"><span class="topo-membrane">VLYA</span><span class="topo-inside">HIFGYVADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKA</span><span class="topo-unknown">TPPKLED</span></span>
+<span class="topo-line"><span class="topo-unknown">KSPDSPE</span><span class="topo-inside">MKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLRNRD</span></span>
+<span class="topo-line"><span class="topo-inside">TMMSLLKT</span><span class="topo-membrane">VVIVLGAFIICWTPGLVLLLLDVCC</span><span class="topo-outside">PQCDVL</span><span class="topo-membrane">AYEKFFLLLAEFNSAMNPIIY</span></span>
+<span class="topo-line"><span class="topo-membrane">SY</span><span class="topo-inside">RDKEMSATFRQILG</span><span class="topo-unknown">RPLEVLFQGPHHHHHHHHHHDYKDDDDK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>37</td>
+      <td>-17</td>
+      <td>19</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>38</td>
+      <td>66</td>
+      <td>20</td>
+      <td>48</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>90</td>
+      <td>49</td>
+      <td>72</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>91</td>
+      <td>105</td>
+      <td>73</td>
+      <td>87</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>106</td>
+      <td>127</td>
+      <td>88</td>
+      <td>109</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>128</td>
+      <td>136</td>
+      <td>110</td>
+      <td>118</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>137</td>
+      <td>161</td>
+      <td>119</td>
+      <td>143</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>162</td>
+      <td>183</td>
+      <td>144</td>
+      <td>165</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>184</td>
+      <td>206</td>
+      <td>166</td>
+      <td>188</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>207</td>
+      <td>219</td>
+      <td>189</td>
+      <td>201</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>220</td>
+      <td>244</td>
+      <td>202</td>
+      <td>226</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>245</td>
+      <td>250</td>
+      <td>227</td>
+      <td>232</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>251</td>
+      <td>293</td>
+      <td>1001</td>
+      <td>1043</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>294</td>
+      <td>307</td>
+      <td>1044</td>
+      <td>1057</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>308</td>
+      <td>356</td>
+      <td>1058</td>
+      <td>1106</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>368</td>
+      <td>248</td>
+      <td>259</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>369</td>
+      <td>393</td>
+      <td>260</td>
+      <td>284</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>394</td>
+      <td>399</td>
+      <td>285</td>
+      <td>290</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>400</td>
+      <td>422</td>
+      <td>291</td>
+      <td>313</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>423</td>
+      <td>436</td>
+      <td>314</td>
+      <td>327</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>437</td>
+      <td>464</td>
+      <td>328</td>
+      <td>355</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-### doi/10.1016##j.cell.2015.06.002
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4z35">4Z35</a> — Chain A (7 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Protein sample | LPA1-[BRIL Fusion Protein](/xray-mp-wiki/reagents/protein-tags/bril) co-crystallized with [ONO-9780307](/xray-mp-wiki/reagents/ligands/ono-9780307) or [ONO-9910539](/xray-mp-wiki/reagents/ligands/ono-9910539) |
-| Temperature | not specified in main text |
-| Growth time | not specified in main text |
-| Cryoprotection | not specified in main text |
-| Notes | Crystals grown in [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein)-[Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol) LCP mixture. [ONO-9780307](/xray-mp-wiki/reagents/ligands/ono-9780307): 86 crystals, 3.0 A resolution. [ONO-9910539](/xray-mp-wiki/reagents/ligands/ono-9910539): 53 crystals, 2.9 A resolution. P212121 space group. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFAGAPAAISTSIPVISQPQFTAMNEP</span><span class="topo-outside">QCFYNESIAFFYNRSGKHLA</span></span>
+<span class="topo-line"><span class="topo-outside">TEWNTVSK</span><span class="topo-membrane">LVMGLGITVCIFIMLANLLVMVAIY</span><span class="topo-inside">VNRRFHFPIY</span><span class="topo-membrane">YLMANLAAADFFAGLAY</span></span>
+<span class="topo-line"><span class="topo-membrane">FYLMFNT</span><span class="topo-outside">GPNTRRLTVST</span><span class="topo-membrane">WLLRQGLIDTSLTASVANLLAIAI</span><span class="topo-inside">ERHITVFRMQLHTRMSNR</span></span>
+<span class="topo-line"><span class="topo-inside">R</span><span class="topo-membrane">VVVVIVVIWTMAIVMGAIPSVGWN</span><span class="topo-outside">CICDIENCSNMAPLY</span><span class="topo-membrane">SDSYLVFWAIFNLVTFVVMV</span></span>
+<span class="topo-line"><span class="topo-membrane">VLYA</span><span class="topo-inside">HIFGYVADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKA</span><span class="topo-unknown">TPPKLED</span></span>
+<span class="topo-line"><span class="topo-unknown">KSPDSPE</span><span class="topo-inside">MKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLRNRD</span></span>
+<span class="topo-line"><span class="topo-inside">TMMSLLKT</span><span class="topo-membrane">VVIVLGAFIICWTPGLVLLLLDVCC</span><span class="topo-outside">PQC</span><span class="topo-membrane">DVLAYEKFFLLLAEFNSAMNPIIY</span></span>
+<span class="topo-line"><span class="topo-membrane">SYR</span><span class="topo-inside">DKEMSATFRQILG</span><span class="topo-unknown">RPLEVLFQGPHHHHHHHHHHDYKDDDDK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>40</td>
+      <td>-17</td>
+      <td>22</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>68</td>
+      <td>23</td>
+      <td>50</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>69</td>
+      <td>93</td>
+      <td>51</td>
+      <td>75</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>103</td>
+      <td>76</td>
+      <td>85</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>104</td>
+      <td>127</td>
+      <td>86</td>
+      <td>109</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>128</td>
+      <td>138</td>
+      <td>110</td>
+      <td>120</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>139</td>
+      <td>162</td>
+      <td>121</td>
+      <td>144</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>163</td>
+      <td>181</td>
+      <td>145</td>
+      <td>163</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>182</td>
+      <td>205</td>
+      <td>164</td>
+      <td>187</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>206</td>
+      <td>220</td>
+      <td>188</td>
+      <td>202</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>221</td>
+      <td>244</td>
+      <td>203</td>
+      <td>226</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>245</td>
+      <td>250</td>
+      <td>227</td>
+      <td>232</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>251</td>
+      <td>293</td>
+      <td>1001</td>
+      <td>1043</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>294</td>
+      <td>307</td>
+      <td>1044</td>
+      <td>1057</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>308</td>
+      <td>356</td>
+      <td>1058</td>
+      <td>1106</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>357</td>
+      <td>368</td>
+      <td>248</td>
+      <td>259</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>369</td>
+      <td>393</td>
+      <td>260</td>
+      <td>284</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>394</td>
+      <td>396</td>
+      <td>285</td>
+      <td>287</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>397</td>
+      <td>423</td>
+      <td>288</td>
+      <td>314</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>424</td>
+      <td>436</td>
+      <td>315</td>
+      <td>327</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>437</td>
+      <td>464</td>
+      <td>328</td>
+      <td>355</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Protein sample | dsLPA1-mbRIL co-crystallized with [ONO-3080573](/xray-mp-wiki/reagents/ligands/ono-3080573) |
-| Temperature | not specified in main text |
-| Growth time | not specified in main text |
-| Cryoprotection | not specified in main text |
-| Notes | Disulfide-engineered construct (D204A-V282C) with modified mbRIL fusion. 39 crystals, 2.9 A resolution. P212121 space group. |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4z36">4Z36</a> — Chain A (7 TMs, alpha)**
 
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MKTIIALSYIFCLVFAGAPAAISTSIPVISQPQFTAMNEP</span><span class="topo-outside">QCFYNESIAFFYNRSGKHLA</span></span>
+<span class="topo-line"><span class="topo-outside">TEWNTV</span><span class="topo-membrane">SKLVMGLGITVCIFIMLANLLVMVAIY</span><span class="topo-inside">VNRRFHFPIYY</span><span class="topo-membrane">LMANLAAADFFAGLAY</span></span>
+<span class="topo-line"><span class="topo-membrane">FYLMFNT</span><span class="topo-outside">GPNTRRLTVS</span><span class="topo-membrane">TWLLRQGLIDTSLTASVANLLAIAI</span><span class="topo-inside">ERHITVFRMQLHTRMSNR</span></span>
+<span class="topo-line"><span class="topo-inside">RV</span><span class="topo-membrane">VVVIVVIWTMAIVMGAIPSVGWN</span><span class="topo-outside">CICDIENCSNMAPLY</span><span class="topo-membrane">SCSYLVFWAIFNLVTFVVMV</span></span>
+<span class="topo-line"><span class="topo-membrane">VLYA</span><span class="topo-inside">HIFGYVADLEDNWETLNDNLKVIEKADNAAQVKDALTKMRAAALDAQKG</span><span class="topo-unknown">GSGGSDS</span></span>
+<span class="topo-line"><span class="topo-unknown">PE</span><span class="topo-inside">MKDFRHGFDILVGQIDDALKLANEGKVKEAQAAAEQLKTTRNAYIQKYLRNRDTMMSL</span></span>
+<span class="topo-line"><span class="topo-inside">LKT</span><span class="topo-membrane">VVIVLGAFIICWTPGLVLLLLDCCC</span><span class="topo-outside">PQC</span><span class="topo-membrane">DVLAYEKFFLLLAEFNSAMNPIIYSY</span><span class="topo-inside">RDK</span></span>
+<span class="topo-line"><span class="topo-inside">EMSATFRQILG</span><span class="topo-unknown">RPLEVLFQGPHHHHHHHHHHDYKDDDDK</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>40</td>
+      <td>-17</td>
+      <td>22</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>41</td>
+      <td>66</td>
+      <td>23</td>
+      <td>48</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>67</td>
+      <td>93</td>
+      <td>49</td>
+      <td>75</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>94</td>
+      <td>104</td>
+      <td>76</td>
+      <td>86</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>105</td>
+      <td>127</td>
+      <td>87</td>
+      <td>109</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>128</td>
+      <td>137</td>
+      <td>110</td>
+      <td>119</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>138</td>
+      <td>162</td>
+      <td>120</td>
+      <td>144</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>163</td>
+      <td>182</td>
+      <td>145</td>
+      <td>164</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>183</td>
+      <td>205</td>
+      <td>165</td>
+      <td>187</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>206</td>
+      <td>220</td>
+      <td>188</td>
+      <td>202</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>221</td>
+      <td>244</td>
+      <td>203</td>
+      <td>226</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>245</td>
+      <td>250</td>
+      <td>227</td>
+      <td>232</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>251</td>
+      <td>293</td>
+      <td>1001</td>
+      <td>1043</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>294</td>
+      <td>302</td>
+      <td>1044</td>
+      <td>1052</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>303</td>
+      <td>351</td>
+      <td>1058</td>
+      <td>1106</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>352</td>
+      <td>363</td>
+      <td>248</td>
+      <td>259</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>364</td>
+      <td>388</td>
+      <td>260</td>
+      <td>284</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>389</td>
+      <td>391</td>
+      <td>285</td>
+      <td>287</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>392</td>
+      <td>417</td>
+      <td>288</td>
+      <td>313</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>418</td>
+      <td>431</td>
+      <td>314</td>
+      <td>327</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>432</td>
+      <td>459</td>
+      <td>328</td>
+      <td>355</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -93,13 +730,13 @@ Three antagonists were designed through structure-based approaches. [ONO-9910539
 
 ## Cross-References
 
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Primary lipid component for LCP crystallization matrix
-- [bRIL Fusion Protein](/xray-mp-wiki/reagents/protein-tags/bril/) — bRIL fusion in ICL3 used for crystallization of LPA1
-- [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) — LCP method used for all three LPA1 structures
-- [Sphingosine-1-Phosphate Receptor 1 (S1P1)](/xray-mp-wiki/proteins/gpcr/s1p1/) — Closest structural and functional homolog, major comparison throughout the paper
-- [ONO-9780307](/xray-mp-wiki/reagents/ligands/ono-9780307/) — Co-crystallized antagonist for PDB 4Z34
-- [ONO-9910539](/xray-mp-wiki/reagents/ligands/ono-9910539/) — Co-crystallized antagonist for PDB 4Z35
-- [ONO-3080573](/xray-mp-wiki/reagents/ligands/ono-3080573/) — Co-crystallized antagonist for PDB 4Z36
-- [2-AG (2-Arachidonoylglycerol)](/xray-mp-wiki/reagents/ligands/2-ag/) — Endogenous cannabinoid agonist; phosphorylated form 2-ALPA activates LPA1
-- [Sphingosine](/xray-mp-wiki/reagents/lipids/sphingosine/) — Lipid component used in crystallization or solubilization
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Lipid component used in crystallization or solubilization
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — Primary lipid component for LCP crystallization matrix
+- <a href="/xray-mp-wiki/reagents/protein-tags/bril/">bRIL Fusion Protein</a> — bRIL fusion in ICL3 used for crystallization of LPA1
+- <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">Lipidic Cubic Phase Crystallization</a> — LCP method used for all three LPA1 structures
+- <a href="/xray-mp-wiki/proteins/gpcr/s1p1/">Sphingosine-1-Phosphate Receptor 1 (S1P1)</a> — Closest structural and functional homolog, major comparison throughout the paper
+- <a href="/xray-mp-wiki/reagents/ligands/ono-9780307/">ONO-9780307</a> — Co-crystallized antagonist for PDB 4Z34
+- <a href="/xray-mp-wiki/reagents/ligands/ono-9910539/">ONO-9910539</a> — Co-crystallized antagonist for PDB 4Z35
+- <a href="/xray-mp-wiki/reagents/ligands/ono-3080573/">ONO-3080573</a> — Co-crystallized antagonist for PDB 4Z36
+- <a href="/xray-mp-wiki/reagents/ligands/2-ag/">2-AG (2-Arachidonoylglycerol)</a> — Endogenous cannabinoid agonist; phosphorylated form 2-ALPA activates LPA1
+- <a href="/xray-mp-wiki/reagents/lipids/sphingosine/">Sphingosine</a> — Lipid component used in crystallization or solubilization
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — Lipid component used in crystallization or solubilization

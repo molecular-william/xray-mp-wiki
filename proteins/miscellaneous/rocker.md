@@ -1,7 +1,7 @@
 ---
 title: "Rocker — De Novo Designed Zn²⁺ Transporter"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -26,41 +26,197 @@ structure of a designed membrane protein, demonstrating the feasibility of
 designing membrane proteins with predefined structural and dynamic properties.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1126##science.1261172 | 4P6J | 2.7-2.8 | Multiple non-isomorphous | Zn²⁺-free Rocker four-helix bundle | None (apo form) |
+### doi/10.1126##science.1261172
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/4p6j">4P6J</a></td>
+      <td>2.7-2.8</td>
+      <td>Multiple non-isomorphous</td>
+      <td>Zn²⁺-free Rocker four-helix bundle</td>
+      <td>None (apo form)</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: Not specified
 - **Construct**: De novo designed four-helix bundle with 4Glu-2His di-Zn²⁺-binding sites, ExxH motifs
 - **Notes**: Designed computationally. Contains tight and loose helix-helix interfaces. Tight interface stabilized by Ala-rich packing. Loose interface packed by large Phe residues.
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: Not specified
 - **Expression construct**: Rocker four-helix bundle with designed metal-binding sites
 
-##### Steps
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>—</td>
+      <td><a href="/xray-mp-wiki/reagents/detergents/dpc/">DPC</a> (<a href="/xray-mp-wiki/reagents/detergents/dodecylphosphocholine/">DPC</a>) for AUC and solution NMR; <a href="/xray-mp-wiki/reagents/lipids/dmpc/">DMPC</a> bilayers for SSNMR; <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> for LCP crystallization</td>
+      <td>Rocker was solubilized in micelles for solution studies and reconstituted in phospholipid bilayers for SSNMR. X-ray structures obtained from both micelle and <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> LCP conditions.</td>
+    </tr>
+  </tbody>
+</table>
 
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Solubilization | Detergent solubilization | — | [DPC](/xray-mp-wiki/reagents/detergents/dpc/) ([DPC](/xray-mp-wiki/reagents/detergents/dodecylphosphocholine/)) for AUC and solution NMR; [DMPC](/xray-mp-wiki/reagents/lipids/dmpc/) bilayers for SSNMR; [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) for LCP crystallization | Rocker was solubilized in micelles for solution studies and reconstituted in phospholipid bilayers for SSNMR. X-ray structures obtained from both micelle and [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) LCP conditions. |
+**Crystallization:**
 
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion (from micelles) and <a href="/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/">LCP</a> (<a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a>)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>Zn²⁺-free Rocker</td>
+    </tr>
+    <tr>
+      <td>Lipid</td>
+      <td><a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> (for LCP crystallization)</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Three non-isomorphous space groups obtained. Data extended between 2.7 and 2.8 Å. Structures solved by <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a>. Dimers composed of straight alpha helices interacting along the tight interface.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-## Crystallization
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4p6j">4P6J</a> — Chain A (1 TMs, alpha)**
 
-### doi/10.1126##science.1261172
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-outside">Y?K</span><span class="topo-membrane">EIAHALFSALFALSELYIAV</span><span class="topo-inside">RY</span><span class="topo-unknown">?</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>3</td>
+      <td>1</td>
+      <td>3</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>23</td>
+      <td>4</td>
+      <td>23</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>24</td>
+      <td>25</td>
+      <td>24</td>
+      <td>25</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>26</td>
+      <td>26</td>
+      <td>26</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion (from micelles) and lipidic cubic phase ([Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/)) |
-| Protein sample | Zn²⁺-free Rocker |
-| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) (for LCP crystallization) |
-| Notes | Three non-isomorphous space groups obtained. Data extended between 2.7 and 2.8 Å. Structures solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/). Dimers composed of straight alpha helices interacting along the tight interface. |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/4p6j">4P6J</a> — Chain B (1 TMs, alpha)**
 
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-inside">Y?KE</span><span class="topo-membrane">IAHALFSALFALSELYIA</span><span class="topo-outside">VRY</span><span class="topo-unknown">?</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>4</td>
+      <td>1</td>
+      <td>4</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>22</td>
+      <td>5</td>
+      <td>22</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>23</td>
+      <td>25</td>
+      <td>23</td>
+      <td>25</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>26</td>
+      <td>26</td>
+      <td>26</td>
+      <td>26</td>
+      <td>Unknown</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -101,10 +257,10 @@ of protons upon Zn²⁺ binding to the Glu/His ligands.
 
 ## Cross-References
 
-- [Dodecylphosphocholine (DPC)](/xray-mp-wiki/reagents/detergents/dodecylphosphocholine/) — Primary micelle-forming detergent for AUC and solution NMR characterization
-- [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) — Buffer used in purification and sample preparation
-- [Alternating Access Mechanism](/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/) — Related biological concept
-- [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) — Method used in structure determination or purification
-- [DPC](/xray-mp-wiki/reagents/detergents/dpc/) — Detergent used in purification or crystallization
-- [DMPC](/xray-mp-wiki/reagents/lipids/dmpc/) — Additive used in purification or crystallization buffers
-- [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/detergents/dodecylphosphocholine/">Dodecylphosphocholine (DPC)</a> — Primary micelle-forming detergent for AUC and solution NMR characterization
+- <a href="/xray-mp-wiki/reagents/buffers/tris/">Tris (Tris-HCl Buffer)</a> — Buffer used in purification and sample preparation
+- <a href="/xray-mp-wiki/concepts/transport-mechanisms/alternating-access-mechanism/">Alternating Access Mechanism</a> — Related biological concept
+- <a href="/xray-mp-wiki/methods/structure-determination/molecular-replacement/">Molecular Replacement</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/detergents/dpc/">DPC</a> — Detergent used in purification or crystallization
+- <a href="/xray-mp-wiki/reagents/lipids/dmpc/">DMPC</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/lipids/monoolein/">Monoolein</a> — Additive used in purification or crystallization buffers

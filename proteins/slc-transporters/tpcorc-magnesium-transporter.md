@@ -1,7 +1,7 @@
 ---
 title: "TpCorC Magnesium Transporter from Thermus parvatiensis"
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-29
 type: protein
 category: proteins
 layout: default
@@ -17,70 +17,655 @@ verified: false
 CorC is a prokaryotic member of the CNNM/CorC family of Mg2+ transporters, widely distributed in all domains of life. The CorC protein from Thermus parvatiensis (TpCorC) is a Mg2+ exporter that shares approximately 30% sequence identity with the S. aureus CorC orthologs MpfA and MpfB. TpCorC consists of a DUF21 transmembrane (TM) domain (3 TM helices per protomer forming a dimer), a cytoplasmic CBS domain, and a CorC/HlyC domain. The crystal structure of the TpCorC TM domain dimer revealed a fully dehydrated Mg2+ ion binding site with octahedral coordination geometry, distinct from the hydrated Mg2+ binding in MgtE and CorA channels. The CBS domain binds ATP with high affinity (~500 nM), and ATP binding is important for Mg2+ export activity. Mg2+ transport by TpCorC is Na+-dependent, suggesting Na+-coupled Mg2+ export.
 
 
-## Structure Determination
+## Publications
 
-| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
-|---|---|---|---|---|---|
-| doi/10.1126##sciadv.abe6140 | 7CFF | 2.0 | — | TpCorC TM domain V101A mutant (residues 26-182) | Mg2+ |
-| doi/10.1126##sciadv.abe6140 | 7CFG | 3.2 | — | TpCorC TM domain wild-type (residues 26-182) | Mg2+ |
-| doi/10.1126##sciadv.abe6140 | 7CFH | Not specified | — | TpCorC CBS domain apo form (residues 183-361) | None |
-| doi/10.1126##sciadv.abe6140 | 7CFI | Not specified | — | TpCorC CBS domain ATP-bound (residues 202-361) | ATP |
+### doi/10.1126##sciadv.abe6140
 
-## Expression and Purification
+**Structures:**
+
+<table class="wiki-table">
+  <thead><tr>
+    <th>PDB ID</th>
+    <th>Resolution</th>
+    <th>Space Group</th>
+    <th>Construct</th>
+    <th>Ligand/Co-factor</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7cff">7CFF</a></td>
+      <td>2.0</td>
+      <td>—</td>
+      <td>TpCorC TM domain V101A mutant (residues 26-182)</td>
+      <td>Mg2+</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7cfg">7CFG</a></td>
+      <td>3.2</td>
+      <td>—</td>
+      <td>TpCorC TM domain wild-type (residues 26-182)</td>
+      <td>Mg2+</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7cfh">7CFH</a></td>
+      <td>Not specified</td>
+      <td>—</td>
+      <td>TpCorC CBS domain apo form (residues 183-361)</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td><a class="pdb-link" href="https://www.rcsb.org/structure/7cfi">7CFI</a></td>
+      <td>Not specified</td>
+      <td>—</td>
+      <td>TpCorC CBS domain ATP-bound (residues 202-361)</td>
+      <td>ATP</td>
+    </tr>
+  </tbody>
+</table>
+
+**Expression:**
 
 - **Expression system**: E. coli Rosetta (DE3)
 - **Construct**: TpCorC TM domain (residues 26-182) with C-terminal [HRV 3C Protease](/xray-mp-wiki/reagents/additives/hrv-3c-protease/) cleavage site, GFPuv, and octahistidine tag
 - **Induction**: 0.5 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg/) at OD600 0.6, 18C for 16 hours
 - **Media**: LB medium with 50 ug/ml [Ampicillin](/xray-mp-wiki/reagents/antibiotics/ampicillin/)
 
-### Purification Workflow
+**Purification:**
 
 - **Expression system**: E. coli Rosetta (DE3)
 - **Expression construct**: TpCorC TM domain residues 26-182 with C-terminal HRV 3C site, GFPuv, His8 tag
 - **Tag info**: Octahistidine tag, cleaved by [HRV 3C Protease](/xray-mp-wiki/reagents/additives/hrv-3c-protease/)
 
-##### Steps
-
-| Step | Method | Resin / Column | Buffer + Detergent | Notes |
-|---|---|---|---|---|
-| Cell culture and harvest | Fermentation | — |  | Induced with 0.5 mM [IPTG](/xray-mp-wiki/reagents/additives/iptg/) at OD600 0.6, cultured at 18C for 16 hours, harvested at 5000g for 15 min |
-| Cell disruption | High-pressure homogenization | — | 150 mM NaCl, 50 mM Tris pH 8.0, 1 mM PMSF | Cells disrupted in buffer A |
-| Membrane isolation | Ultracentrifugation | — | 150 mM NaCl, 50 mM Tris pH 8.0 | Low-speed spin at 20000g for 30 min; membrane pellet isolated at 180000g for 1 hour |
-| Solubilization | Detergent solubilization | — | 150 mM NaCl, 50 mM Tris pH 8.0 + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (n-dodecyl-beta-D-maltopyranoside) | Homogenized membranes solubilized for 1 hour at 4C |
-| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Immobilized metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) (Ni-NTA) | Ni-NTA agarose | Buffer B: 150 mM NaCl, 50 mM Tris pH 8.0, 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Column washed with 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/); protein eluted with 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
-| Tag cleavage and reverse IMAC | Protease cleavage and subtractive IMAC | — |  | [HRV 3C Protease](/xray-mp-wiki/reagents/additives/hrv-3c-protease/) digestion to remove His8-GFPuv tag |
-| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) (SEC) | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) Increase 10/300 GL | 150 mM NaCl, 50 mM Tris pH 8.0, 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Eluted in buffer C |
-
+<table class="wiki-table">
+  <thead><tr>
+    <th>Step</th>
+    <th>Method</th>
+    <th>Resin / Column</th>
+    <th>Buffer + Detergent</th>
+    <th>Notes</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>Cell culture and harvest</td>
+      <td>Fermentation</td>
+      <td>—</td>
+      <td></td>
+      <td>Induced with 0.5 mM <a href="/xray-mp-wiki/reagents/additives/iptg/">IPTG</a> at OD600 0.6, cultured at 18C for 16 hours, harvested at 5000g for 15 min</td>
+    </tr>
+    <tr>
+      <td>Cell disruption</td>
+      <td>High-pressure homogenization</td>
+      <td>—</td>
+      <td>150 mM NaCl, 50 mM Tris pH 8.0, 1 mM PMSF</td>
+      <td>Cells disrupted in buffer A</td>
+    </tr>
+    <tr>
+      <td>Membrane isolation</td>
+      <td>Ultracentrifugation</td>
+      <td>—</td>
+      <td>150 mM NaCl, 50 mM Tris pH 8.0</td>
+      <td>Low-speed spin at 20000g for 30 min; membrane pellet isolated at 180000g for 1 hour</td>
+    </tr>
+    <tr>
+      <td>Solubilization</td>
+      <td>Detergent solubilization</td>
+      <td>—</td>
+      <td>150 mM NaCl, 50 mM Tris pH 8.0 + 1% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> (n-dodecyl-beta-D-maltopyranoside)</td>
+      <td>Homogenized membranes solubilized for 1 hour at 4C</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a></td>
+      <td>Immobilized metal <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> (Ni-NTA)</td>
+      <td>Ni-NTA agarose</td>
+      <td>Buffer B: 150 mM NaCl, 50 mM Tris pH 8.0, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a>, 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Column washed with 20 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a>; protein eluted with 300 mM <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a></td>
+    </tr>
+    <tr>
+      <td>Tag cleavage and reverse IMAC</td>
+      <td>Protease cleavage and subtractive IMAC</td>
+      <td>—</td>
+      <td></td>
+      <td><a href="/xray-mp-wiki/reagents/additives/hrv-3c-protease/">HRV 3C Protease</a> digestion to remove His8-GFPuv tag</td>
+    </tr>
+    <tr>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a></td>
+      <td><a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> (SEC)</td>
+      <td><a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> Increase 10/300 GL</td>
+      <td>150 mM NaCl, 50 mM Tris pH 8.0, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a> + 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+      <td>Eluted in buffer C</td>
+    </tr>
+  </tbody>
+</table>
 **Final sample**: TpCorC TM domain in 150 mM NaCl, 50 mM Tris pH 8.0, 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/)
 **Yield**: Not specified
 **Purity**: >95% by SDS-PAGE
 
+**Crystallization:**
 
-## Crystallization
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion (sitting drop)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>TpCorC TM domain (wild-type or V101A mutant) in 150 mM NaCl, 50 mM Tris pH 8.0, 0.03% <a href="/xray-mp-wiki/reagents/detergents/ddm/">DDM</a></td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.1 M MgCl2, 0.1 M <a href="/xray-mp-wiki/reagents/buffers/sodium-acetate/">Sodium Acetate</a> pH 5.0, 12-18% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 4000</td>
+    </tr>
+    <tr>
+      <td>Mixing ratio</td>
+      <td>1:1 (protein:reservoir)</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>20C</td>
+    </tr>
+    <tr>
+      <td>Growth time</td>
+      <td>1 week</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>Reservoir solution supplemented with 40% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 200 and 50 mM MgCl2</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>Crystals appeared specifically in the presence of Mg2+ ions. Crystallization was also tested with Ca2+, Co2+, Ni2+, and Mn2+ but only Mg2+ yielded well-diffracting crystals.</td>
+    </tr>
+  </tbody>
+</table>
+<table class="wiki-kv-table">
+  <tbody>
+    <tr>
+      <td>Method</td>
+      <td>Vapor diffusion (sitting drop)</td>
+    </tr>
+    <tr>
+      <td>Protein sample</td>
+      <td>TpCorC CBS domain (residues 183-361 or 202-361)</td>
+    </tr>
+    <tr>
+      <td>Reservoir</td>
+      <td>0.4 M ammonium thiocyanate, 0.1 M <a href="/xray-mp-wiki/reagents/buffers/sodium-acetate/">Sodium Acetate</a> pH 4.5, 15% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 4000; or 0.1 M CaCl2, 0.1 M HEPES pH 7.5, 5% <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> 8000</td>
+    </tr>
+    <tr>
+      <td>Mixing ratio</td>
+      <td>1:1</td>
+    </tr>
+    <tr>
+      <td>Temperature</td>
+      <td>18C</td>
+    </tr>
+    <tr>
+      <td>Cryoprotection</td>
+      <td>30% <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a>, reservoir components</td>
+    </tr>
+    <tr>
+      <td>Notes</td>
+      <td>CBS domain crystallized in apo and ATP-bound forms. ATP-bound structure used construct residues 202-361 with Y255A mutation.</td>
+    </tr>
+  </tbody>
+</table>
+<div class="sequences" markdown="1">
+**Sequences (PDBTM):**
 
-### doi/10.1126##sciadv.abe6140
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7cff">7CFF</a> — Chain A (3 TMs, alpha)**
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion (sitting drop) |
-| Protein sample | TpCorC TM domain (wild-type or V101A mutant) in 150 mM NaCl, 50 mM Tris pH 8.0, 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
-| Reservoir | 0.1 M MgCl2, 0.1 M [Sodium Acetate](/xray-mp-wiki/reagents/buffers/sodium-acetate/) pH 5.0, 12-18% [PEG](/xray-mp-wiki/reagents/additives/peg/) 4000 |
-| Mixing ratio | 1:1 (protein:reservoir) |
-| Temperature | 20C |
-| Growth time | 1 week |
-| Cryoprotection | Reservoir solution supplemented with 40% [PEG](/xray-mp-wiki/reagents/additives/peg/) 200 and 50 mM MgCl2 |
-| Notes | Crystals appeared specifically in the presence of Mg2+ ions. Crystallization was also tested with Ca2+, Co2+, Ni2+, and Mn2+ but only Mg2+ yielded well-diffracting crystals. |
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MASP</span><span class="topo-outside">ENP</span><span class="topo-membrane">WLWAVLVLLLALSAFFSASE</span><span class="topo-inside">TAITTLYPWKLKELAESKNG</span><span class="topo-unknown">PFRLLAE</span><span class="topo-inside">DITR</span><span class="topo-membrane">FL</span></span>
+<span class="topo-line"><span class="topo-membrane">TTILVGNNLVNIAATALATELA</span><span class="topo-outside">TQAFGSA</span><span class="topo-membrane">GVGVATGAMTFLILFFGEITPKSL</span><span class="topo-inside">AVHHAEA</span></span>
+<span class="topo-line"><span class="topo-inside">IARLAAWPIYGLSVL</span><span class="topo-unknown">FYPVGRFFSLVSGGLLRL</span><span class="topo-inside">LGLEPRL</span><span class="topo-unknown">ESSGLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>5</td>
+      <td>7</td>
+      <td>28</td>
+      <td>30</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>27</td>
+      <td>31</td>
+      <td>50</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>47</td>
+      <td>51</td>
+      <td>70</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>54</td>
+      <td>71</td>
+      <td>77</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>58</td>
+      <td>78</td>
+      <td>81</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>82</td>
+      <td>82</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>89</td>
+      <td>106</td>
+      <td>112</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>113</td>
+      <td>113</td>
+      <td>136</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>114</td>
+      <td>135</td>
+      <td>137</td>
+      <td>158</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>153</td>
+      <td>159</td>
+      <td>176</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>154</td>
+      <td>160</td>
+      <td>177</td>
+      <td>183</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
 
-| Parameter | Value |
-|---|---|
-| Method | Vapor diffusion (sitting drop) |
-| Protein sample | TpCorC CBS domain (residues 183-361 or 202-361) |
-| Reservoir | 0.4 M ammonium thiocyanate, 0.1 M [Sodium Acetate](/xray-mp-wiki/reagents/buffers/sodium-acetate/) pH 4.5, 15% [PEG](/xray-mp-wiki/reagents/additives/peg/) 4000; or 0.1 M CaCl2, 0.1 M HEPES pH 7.5, 5% [PEG](/xray-mp-wiki/reagents/additives/peg/) 8000 |
-| Mixing ratio | 1:1 |
-| Temperature | 18C |
-| Cryoprotection | 30% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), reservoir components |
-| Notes | CBS domain crystallized in apo and ATP-bound forms. ATP-bound structure used construct residues 202-361 with Y255A mutation. |
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7cff">7CFF</a> — Chain B (3 TMs, alpha)**
 
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MASP</span><span class="topo-outside">ENP</span><span class="topo-membrane">WLWAVLVLLLALSAFFSASE</span><span class="topo-inside">TAITTLYPWKLKELAESKNG</span><span class="topo-unknown">PFRLLAE</span><span class="topo-inside">DITR</span><span class="topo-membrane">FL</span></span>
+<span class="topo-line"><span class="topo-membrane">TTILVGNNLVNIAATALATELA</span><span class="topo-outside">TQAFGSA</span><span class="topo-membrane">GVGVATGAMTFLILFFGEITPKSL</span><span class="topo-inside">AVHHAEA</span></span>
+<span class="topo-line"><span class="topo-inside">IARLAAWPIYGLSVL</span><span class="topo-unknown">FYPVGRFFSLVSGGLLRL</span><span class="topo-inside">LGLEPRL</span><span class="topo-unknown">ESSGLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>5</td>
+      <td>7</td>
+      <td>28</td>
+      <td>30</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>27</td>
+      <td>31</td>
+      <td>50</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>28</td>
+      <td>47</td>
+      <td>51</td>
+      <td>70</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>48</td>
+      <td>54</td>
+      <td>71</td>
+      <td>77</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>55</td>
+      <td>58</td>
+      <td>78</td>
+      <td>81</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>82</td>
+      <td>82</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>83</td>
+      <td>89</td>
+      <td>106</td>
+      <td>112</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>113</td>
+      <td>113</td>
+      <td>136</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>114</td>
+      <td>135</td>
+      <td>137</td>
+      <td>158</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>153</td>
+      <td>159</td>
+      <td>176</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>154</td>
+      <td>160</td>
+      <td>177</td>
+      <td>183</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7cfg">7CFG</a> — Chain A (3 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MSP</span><span class="topo-outside">ENP</span><span class="topo-membrane">WLWAVLVLLLALSAFFSASE</span><span class="topo-inside">TAITTLYPWKLKELAESKNG</span><span class="topo-unknown">PFRLLAE</span><span class="topo-inside">DITRF</span><span class="topo-membrane">LT</span></span>
+<span class="topo-line"><span class="topo-membrane">TILVGNNLVNIAATALVTELA</span><span class="topo-outside">TQAFGSA</span><span class="topo-membrane">GVGVATGAMTFLILFFGEITPKSL</span><span class="topo-inside">AVHHAEAI</span></span>
+<span class="topo-line"><span class="topo-inside">ARL</span><span class="topo-unknown">AAWPIYGLSVL</span><span class="topo-inside">F</span><span class="topo-unknown">YPVGRFFSLVSGGLLRLLGL</span><span class="topo-inside">EPRL</span><span class="topo-unknown">ESSGLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>4</td>
+      <td>6</td>
+      <td>28</td>
+      <td>30</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>26</td>
+      <td>31</td>
+      <td>50</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>46</td>
+      <td>51</td>
+      <td>70</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>53</td>
+      <td>71</td>
+      <td>77</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>58</td>
+      <td>78</td>
+      <td>82</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>81</td>
+      <td>83</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>88</td>
+      <td>106</td>
+      <td>112</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>112</td>
+      <td>113</td>
+      <td>136</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>113</td>
+      <td>123</td>
+      <td>137</td>
+      <td>147</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>134</td>
+      <td>148</td>
+      <td>158</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>135</td>
+      <td>159</td>
+      <td>159</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>155</td>
+      <td>160</td>
+      <td>179</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>156</td>
+      <td>159</td>
+      <td>180</td>
+      <td>183</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+<div class="sequence-entry" markdown="1">
+**PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7cfg">7CFG</a> — Chain B (3 TMs, alpha)**
+
+<div class="sequence-display">
+<div class="topo-legend">
+<span class="topo-membrane-legend">&#9608; TM Helix</span>
+<span class="topo-inside-legend">&#9608; Inside</span>
+<span class="topo-outside-legend">&#9608; Outside</span>
+<span class="topo-unknown-legend">&#9608; Unknown</span>
+</div>
+<div class="sequence-text">
+<span class="topo-line"><span class="topo-unknown">MSP</span><span class="topo-outside">ENP</span><span class="topo-membrane">WLWAVLVLLLALSAFFSASE</span><span class="topo-inside">TAITTLYPWKLKELAESKNG</span><span class="topo-unknown">PFRLLAE</span><span class="topo-inside">DITRF</span><span class="topo-membrane">LT</span></span>
+<span class="topo-line"><span class="topo-membrane">TILVGNNLVNIAATALVTELA</span><span class="topo-outside">TQAFGSA</span><span class="topo-membrane">GVGVATGAMTFLILFFGEITPKSL</span><span class="topo-inside">AVHHAEAI</span></span>
+<span class="topo-line"><span class="topo-inside">ARL</span><span class="topo-unknown">AAWPIYGLSVL</span><span class="topo-inside">F</span><span class="topo-unknown">YPVGRFFSLVSGGLLRLLGL</span><span class="topo-inside">EPRL</span><span class="topo-unknown">ESSGLEVLFQ</span></span>
+<table class="wiki-mini-table">
+  <thead><tr>
+    <th>Begin</th>
+    <th>End</th>
+    <th>PDB Begin</th>
+    <th>PDB End</th>
+    <th>Location</th>
+  </tr></thead>
+  <tbody>
+    <tr>
+      <td>4</td>
+      <td>6</td>
+      <td>28</td>
+      <td>30</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>26</td>
+      <td>31</td>
+      <td>50</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>27</td>
+      <td>46</td>
+      <td>51</td>
+      <td>70</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>47</td>
+      <td>53</td>
+      <td>71</td>
+      <td>77</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>54</td>
+      <td>58</td>
+      <td>78</td>
+      <td>82</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>59</td>
+      <td>81</td>
+      <td>83</td>
+      <td>105</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>82</td>
+      <td>88</td>
+      <td>106</td>
+      <td>112</td>
+      <td>Outside</td>
+    </tr>
+    <tr>
+      <td>89</td>
+      <td>112</td>
+      <td>113</td>
+      <td>136</td>
+      <td>Membrane</td>
+    </tr>
+    <tr>
+      <td>113</td>
+      <td>123</td>
+      <td>137</td>
+      <td>147</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>124</td>
+      <td>134</td>
+      <td>148</td>
+      <td>158</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>135</td>
+      <td>135</td>
+      <td>159</td>
+      <td>159</td>
+      <td>Inside</td>
+    </tr>
+    <tr>
+      <td>136</td>
+      <td>155</td>
+      <td>160</td>
+      <td>179</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <td>156</td>
+      <td>159</td>
+      <td>180</td>
+      <td>183</td>
+      <td>Inside</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+</div>
+</div>
+
+</div>
 
 ## Biological / Functional Insights
 
@@ -107,13 +692,13 @@ All five residues of the Mg2+ binding site are strictly conserved in human CNNM2
 
 ## Cross-References
 
-- [Magnesium Transport](/xray-mp-wiki/concepts/magnesium-transport/) — Concept for Mg2+ transport mechanisms in membrane proteins (placeholder for future creation)
-- [MgtE (Magnesium Transport Channel)](/xray-mp-wiki/proteins/other-ion-channels/mgt-e-thermus-thermophilus/) — Comparison of fully dehydrated Mg2+ binding in CorC vs hydrated Mg2+ in MgtE channel
-- [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) — Method used in structure determination or purification
-- [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) — Method used in structure determination or purification
-- [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) — Additive used in purification or crystallization buffers
-- [HRV 3C Protease](/xray-mp-wiki/reagents/additives/hrv-3c-protease/) — Additive used in purification or crystallization buffers
-- [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) — Additive used in purification or crystallization buffers
-- [IPTG](/xray-mp-wiki/reagents/additives/iptg/) — Additive used in purification or crystallization buffers
-- [PEG](/xray-mp-wiki/reagents/additives/peg/) — Additive used in purification or crystallization buffers
-- [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/concepts/magnesium-transport/">Magnesium Transport</a> — Concept for Mg2+ transport mechanisms in membrane proteins (placeholder for future creation)
+- <a href="/xray-mp-wiki/proteins/other-ion-channels/mgt-e-thermus-thermophilus/">MgtE (Magnesium Transport Channel)</a> — Comparison of fully dehydrated Mg2+ binding in CorC vs hydrated Mg2+ in MgtE channel
+- <a href="/xray-mp-wiki/methods/purification/affinity-chromatography/">Affinity Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/methods/purification/size-exclusion-chromatography/">Size-Exclusion Chromatography</a> — Method used in structure determination or purification
+- <a href="/xray-mp-wiki/reagents/additives/glycerol/">Glycerol</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/hrv-3c-protease/">HRV 3C Protease</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/imidazole/">Imidazole</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/iptg/">IPTG</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/peg/">PEG</a> — Additive used in purification or crystallization buffers
+- <a href="/xray-mp-wiki/reagents/additives/superdex-200/">Superdex 200</a> — Additive used in purification or crystallization buffers
