@@ -17,11 +17,51 @@ verified: false
 The 5-HT2C [Serotonin (5-Hydroxytryptamine, 5-HT)](/xray-mp-wiki/reagents/ligands/serotonin/) receptor is a class A G protein-coupled receptor (GPCR) and a validated therapeutic target for anti-obesity medications (e.g., lorcaserin/Belviq), as well as a potential target for depression, schizophrenia, and drug addiction. The 5-HT2C receptor exhibits several RNA-edited isoforms, where the non-edited INI isoform displays high constitutive activity. Crystal structures of the 5-HT2C INI isoform were determined in complex with the polypharmacological agonist [ERG](/xray-mp-wiki/reagents/ligands/ergotamine/) (ERG) at 2.7 Å (PDB: 6BQG) and the selective inverse agonist ritanserin (RIT) at 2.8 Å (PDB: 6BQH), revealing the structural basis of GPCR polypharmacology. The structures reveal key differences in ligand binding modes, activation states, and microswitch conformations between the agonist-bound active-like state and the inverse agonist-bound inactive state.
 
 
+<<<<<<< HEAD
 ## Publications
 
 ### doi/10.1016##j.cell.2018.01.001
 
 **Structures:**
+=======
+## Structure Determination
+
+| Source | PDB ID | Resolution | Space Group | Construct | Ligand/Co-factor |
+|---|---|---|---|---|---|
+| doi/10.1016##j.cell.2018.01.001 | 6BQG | 2.7 | unknown | Human 5-HT2C INI isoform with thermostabilizing mutations, expressed in Sf9 insect cells, purified in [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/CHS, crystallized in LCP, complexed with [ERG](/xray-mp-wiki/reagents/ligands/ergotamine/) (ERG) | [ERG](/xray-mp-wiki/reagents/ligands/ergotamine/) (ERG) — polypharmacological agonist |
+| doi/10.1016##j.cell.2018.01.001 | 6BQH | 2.8 | unknown | Human 5-HT2C INI isoform with thermostabilizing mutations, expressed in Sf9 insect cells, purified in [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/CHS, crystallized in LCP, complexed with ritanserin (RIT) | Ritanserin (RIT) — selective inverse agonist |
+
+## Expression and Purification
+
+- **Expression system**: Sf9 insect cells (baculovirus expression system)
+- **Construct**: Human 5-HT2C INI isoform with thermostabilizing mutations. N-terminal HA signal sequence followed by FLAG tag, 10xHis tag, and TEV protease site.
+
+### Purification Workflow
+
+
+##### Steps
+
+| Step | Method | Resin / Column | Buffer + Detergent | Notes |
+|---|---|---|---|---|
+| Expression | Baculovirus infection of Sf9 insect cells | -- | -- + -- | Cells harvested 48 h post-infection |
+| Membrane preparation and solubilization | Dounce homogenization and ultracentrifugation | -- | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 50 mM NaCl, 2 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/), protease inhibitors + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) (n-dodecyl-β-D-maltopyranoside) + 0.2% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) ([Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) hemisuccinate) | Membranes solubilized for 2 h at 4°C |
+| TALON IMAC affinity purification | Immobilized metal [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) IMAC resin (Clontech) | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 500 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/); elution with 200 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Receptor eluted and concentrated |
+| TEV protease cleavage and FLAG purification | [TEV](/xray-mp-wiki/reagents/enzymes/tev-protease/) cleavage followed by [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Anti-[FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) M1 agarose resin (Sigma) | 20 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 500 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) tag cleaved, receptor concentrated to ~30 mg/mL for crystallization |
+
+
+## Crystallization
+
+### doi/10.1016##j.cell.2018.01.001
+
+| Parameter | Value |
+|---|---|
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (LCP) |
+| Protein sample | Purified 5-HT2C at ~30 mg/mL in [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/[CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), reconstituted into [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/)/[Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) (9:1) [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) |
+| Temperature | 20 |
+| Growth time | Not specified |
+| Cryoprotection | Not specified |
+| Notes | Crystals harvested and flash-cooled in liquid nitrogen. Data collected at SSRF beamline BL17U1 (Shanghai) or APS GM/CA-CAT. Structure solved by molecular replacement using 5-HT2B receptor (PDB: 4IB4) as search model. |
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <table class="wiki-table">
   <thead><tr>

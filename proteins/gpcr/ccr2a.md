@@ -105,6 +105,7 @@ CC chemokine receptor 2A (CCR2A) is a class A G protein-coupled receptor and the
 
 **Crystallization:**
 
+<<<<<<< HEAD
 <table class="wiki-kv-table">
   <tbody>
     <tr>
@@ -131,6 +132,15 @@ CC chemokine receptor 2A (CCR2A) is a class A G protein-coupled receptor and the
 </table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
+=======
+| Step | Method | Resin / Column | Buffer + Detergent | Notes |
+|---|---|---|---|---|
+| Cell lysis and membrane preparation | Thawing in hypotonic buffer (10 mM [HEPES (HEPES Buffer)](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 10 mM MgCl2, 20 mM KCl), N2 disruption bomb at 50 bar | -- | 10 mM [HEPES (HEPES Buffer)](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 10 mM MgCl2, 20 mM KCl, 0.5 mg/mL DNase, EDTA-free protease inhibitor cocktail + -- | Membranes washed, supplemented with 30% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) and 2 mg/mL [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/), incubated 1 h at 4 C |
+| Solubilization | Solubilization of membranes with detergent | -- | Membrane preparation buffer + 1.0% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Solubilized for at least 2 hours at 4 C; clarified by centrifugation at 100,000 x g for 1 h |
+| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) Superflow Metal Affinity Resin (Ni-IMAC) | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) Superflow | 25 mM HEPES pH 7.5, 150 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.05% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 30 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (wash); 200 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (elution) + 0.05% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/), 0.05% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | 6 eluates of 10 min each; 1 mL resin per 1 L culture. Elution buffer: 25 mM HEPES pH 7.5, 150 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 200 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 10 mM MgCl2 |
+| Tag cleavage | [PreScission Protease](/xray-mp-wiki/reagents/additives/pre-scission-protease/) treatment overnight at 4 C | -- | Buffer without [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) (post PD-10 desalting) + -- | 10 U/mg protein; removed C-terminal [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) and His tags |
+| [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | HiLoad [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) pg 200 column | [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) pg 200 | 25 mM HEPES pH 7.5, 150 mM NaCl, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 1 uM [MK-0812](/xray-mp-wiki/reagents/ligands/mk-0812/) + 0.05% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Concentrated to 40-50 mg/mL using 30 kDa MWCO concentrator; yields varied 0.5-2 mg/L depending on construct |
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6gps">6GPS</a> — Chain A (7 TMs, alpha)**
@@ -302,6 +312,7 @@ CC chemokine receptor 2A (CCR2A) is a class A G protein-coupled receptor and the
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6gpx">6GPX</a> — Chain A (7 TMs, alpha)**
 
+<<<<<<< HEAD
 <div class="sequence-display">
 <div class="topo-legend">
 <span class="topo-membrane-legend">&#9608; TM Helix</span>
@@ -477,6 +488,12 @@ CC chemokine receptor 2A (CCR2A) is a class A G protein-coupled receptor and the
 </div>
 </div>
 </div>
+=======
+| Parameter | Value |
+|---|---|
+| Method | [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)), conventional glass sandwich plates |
+| Temperature | 20 C |
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6gpx">6GPX</a> — Chain B (7 TMs, alpha)**

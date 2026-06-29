@@ -1017,6 +1017,7 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
 - **Expression construct**: BRIL-AT2R (BRIL replaces ICL3); N-terminal HA signal, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) site; C-terminal His6 tag
 - **Tag info**: [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), His6 (C-terminal)
 
+<<<<<<< HEAD
 <table class="wiki-table">
   <thead><tr>
     <th>Step</th>
@@ -1063,6 +1064,18 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
     </tr>
   </tbody>
 </table>
+=======
+##### Steps
+
+| Step | Method | Resin / Column | Buffer + Detergent | Notes |
+|---|---|---|---|---|
+| Membrane preparation | Cell lysis and membrane isolation |  | 10 mM [HEPES (HEPES Buffer)](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 20 mM KCl, 10 mM [Magnesium Chloride](/xray-mp-wiki/reagents/additives/magnesium-chloride/), protease inhibitor cocktail | [Sf9 Insect Cells](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) harvested by centrifugation (7,000g, 10 min, 4 C), flash-frozen at -80 C, resuspended and lysed under hypotonic conditions |
+| Solubilization | Detergent solubilization |  | 50 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 800 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 1.0% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/), 0.2% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Membranes solubilized with [DDM](/xray-mp-wiki/reagents/detergents/ddm/) and [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) supplemented with [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) (100 mg/ml) and excess s-AngII; 1 hour at 4 C |
+| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) | 50 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 200 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), s-AngII + 0.1% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/), 0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) resin pre-equilibrated; incubation 12-16 hours at 4 C; washed with 10 column volumes of wash buffer, 3 CVs of elution buffer containing s-AngII |
+| Elution | Metal affinity elution | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) | 25 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 200 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), s-AngII + 0.03% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/), 0.006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Elution with buffer containing excess s-AngII to maintain receptor-ligand complex |
+| [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) | 25 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 200 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.03% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/), 0.006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Monodisperse [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)/Fab4A03 complex isolated for crystallization |
+
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 **Final sample**: 10 mg/ml in 25 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 200 mM [Sodium Chloride](/xray-mp-wiki/reagents/additives/sodium-chloride/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)
 **Purity**: Monodisperse peak by [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)
 
@@ -1106,6 +1119,7 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5xjm">5XJM</a> — Chain A (7 TMs, alpha)**
 
+<<<<<<< HEAD
 <div class="sequence-display">
 <div class="topo-legend">
 <span class="topo-membrane-legend">&#9608; TM Helix</span>
@@ -1283,6 +1297,51 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 2 rece
 </div>
 </div>
 </div>
+=======
+| Parameter | Value |
+|---|---|
+| Method | [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
+| Protein sample | [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)-mbIIGN-term/Fab4A03 complex + AngII, 10 mg/ml |
+| Lipid | 1:1 [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/):[Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
+| Protein-to-lipid ratio | not specified |
+| Temperature | 20 |
+| Growth time | not specified |
+| Notes | Data collected at 100 K at SPring-8 BL32XU micro-focus beamline. Structure solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) with MOLREP. 470 datasets collected with KAMO system and merged. |
+
+### doi/10.1038##nature22035
+
+| Parameter | Value |
+|---|---|
+| Method | [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) - SFX at XFEL |
+| Protein sample | [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-AT2R + Cpd 1, 15 mg/ml, reconstituted in [Lipidic Cubic Phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) with [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) + 10% [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) at 2:3 protein:lipid ratio |
+| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) + 10% [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
+| Protein-to-lipid ratio | 2:3 (v/v) |
+| Temperature | 20 |
+| Growth time | 5 days |
+| Notes | Microcrystals (5x2x2 um) grown in syringe, injected into [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) injector at LCLS XFEL. Two lattices observed. Data merged using CrystFEL with Cheetah hit finding. Orthorhombic structure used for description. |
+
+| Parameter | Value |
+|---|---|
+| Method | [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) - Synchrotron radiation |
+| Protein sample | [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-AT2R + Cpd 2, reconstituted in [Lipidic Cubic Phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) with [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) + 10% [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) at 2:3 protein:lipid ratio |
+| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) + 10% [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
+| Protein-to-lipid ratio | 2:3 (v/v) |
+| Temperature | 20 |
+| Growth time | 21 days |
+| Notes | Crystals (70x40x20 um) harvested with micromounts and flash-frozen in liquid nitrogen. Data collected at 23ID-D beamline (GM/CA) at Advanced Photon Source, Argonne National Laboratory. Integrated and scaled with XDS. |
+
+### doi/10.1038##s41594-018-0079-8
+
+| Parameter | Value |
+|---|---|
+| Method | [Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
+| Protein sample | [Angiotensin II Type 2 Receptor](/xray-mp-wiki/proteins/gpcr/at2r/)-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)/Fab4A03 complex + s-AngII, 10 mg/ml |
+| Lipid | not specified |
+| Protein-to-lipid ratio | not specified |
+| Temperature | 20 |
+| Growth time | not specified |
+| Notes | Data collected at 100 K at SPring-8 BL32XU micro-focus beamline. Structure solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) with MOLREP. 470 datasets collected with KAMO system and merged. High Rmerge due to large variety of crystals, not poor datasets. |
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 </div>
 

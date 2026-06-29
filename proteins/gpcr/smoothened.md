@@ -46,7 +46,22 @@ Smoothened (SMO) is a seven-transmembrane (7TM) oncoprotein and member of the cl
 - **Expression system**: HEK293S GnTI- cells (BacMam expression system) with 10 mM sodium butyrate; also in Sf9 insect cells for nanobody generation
 - **Construct**: Wild-type mouse Smo gene residues 64-566, N-terminal HA/Flag/SBP/TEV tag, C-terminal sortase-3C-Gαo fusion
 
+<<<<<<< HEAD
 **Purification:**
+=======
+### Purification Workflow
+
+
+##### Steps
+
+| Step | Method | Resin / Column | Buffer + Detergent | Notes |
+|---|---|---|---|---|
+| 1. Membrane solubilization | [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/[CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) extraction | — | 50 mM HEPES pH 7.5, 300 mM NaCl, 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 5 mM MgCl2, 20 mM KCl, 5 mM ATP, 1 µM vismodegib | Solubilization from frozen cell pellets for 1 h at 4°C |
+| 2. Affinity purification | M1 anti-[FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) antibody Sepharose | — | 50 mM HEPES pH 7.5, 300 mM NaCl, 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Detergent exchange to 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/)/0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), ligand exchange from vismodegib to SAG21k on-column |
+| 3. Elution and deglycosylation | [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) peptide elution + endoglycosidase treatment | — | 50 mM HEPES pH 7.5, 150 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/)/0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 1 pM SAG21k | Deglycosylated with endoglycosidase F1 and H for 30 min at RT |
+| 4. Nanobody complex formation | 3-fold molar excess NbSmo8 incubation | — | 20 mM HEPES pH 7.5, 150 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/)/0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Overnight incubation at 4°C |
+| 5. Size-exclusion chromatography | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) Increase 10/300 GL | — | 20 mM HEPES pH 7.5, 150 mM NaCl, 0.1 pM SAG21k, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/)/0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Peak fractions concentrated to 50 mg/ml for crystallization |
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <table class="wiki-table">
   <thead><tr>
@@ -124,6 +139,7 @@ Smoothened (SMO) is a seven-transmembrane (7TM) oncoprotein and member of the cl
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6o3c">6O3C</a> — Chain A (7 TMs, alpha)**
 
+<<<<<<< HEAD
 <div class="sequence-display">
 <div class="topo-legend">
 <span class="topo-membrane-legend">&#9608; TM Helix</span>
@@ -295,6 +311,14 @@ Smoothened (SMO) is a seven-transmembrane (7TM) oncoprotein and member of the cl
 </div>
 </div>
 </div>
+=======
+| Parameter | Value |
+|---|---|
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
+| Protein sample | SMO-SAG21k-NbSmo8 complex at 50 mg/ml in 20 mM HEPES pH 7.5, 150 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/)/0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) |
+| Temperature | 4°C for 10 days, then 20°C for 10 days |
+| Notes | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) formed with 90% 9.9 MAG (monoolein) / 10% cholesterol. Data merged from 20 crystals. Structure solved by molecular replacement using hSMO (5L7D) and Nb6B9 (4LDE). Final Rwork/Rfree 24.5%/29.4%. Data collected at APS beamlines 23-ID-B and 23-ID-D. |
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6o3c">6O3C</a> — Chain B (0 TMs, non_tm)**

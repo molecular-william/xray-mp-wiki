@@ -46,7 +46,21 @@ The human neuropeptide Y (NPY) Y2 receptor (Y2R, NPY2R) is a class A G-protein-c
 - **Expression system**: Spodoptera frugiperda (Sf9) insect cells, Bac-to-Bac baculovirus expression system
 - **Construct**: Engineered human Y2R with HA signal sequence, PreScission site, 10xHis tag and Flag tag at C terminus; H149(3.51)Y and S280(6.47)C mutations; C-terminal truncation of 28 amino acids (S354-V381); N-terminal T4L fusion; ICL3 replacement with modified flavodoxin
 
+<<<<<<< HEAD
 **Purification:**
+=======
+### Purification Workflow
+
+
+##### Steps
+
+| Step | Method | Resin / Column | Buffer + Detergent | Notes |
+|---|---|---|---|---|
+| Cell lysis and membrane preparation | Dounce homogenization and ultracentrifugation | -- | Hypotonic buffer (10 mM HEPES pH 7.5, 10 mM MgCl2, 20 mM KCl, protease inhibitor cocktail); High-osmotic buffer (10 mM HEPES pH 7.5, 1 M NaCl, 10 mM MgCl2, 20 mM KCl, protease inhibitor cocktail) + -- |  |
+| Solubilization | Incubation with detergent | -- | 50 mM HEPES pH 7.5, 300 mM NaCl, 0.5% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 50 µM JNJ-31020028, 2 mg/ml iodoacetamide, protease inhibitor cocktail + n-dodecyl-beta-D-maltopyranoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)), cholesterol hemisuccinate ([CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)) |  |
+| Affinity purification | [TALON](/xray-mp-wiki/reagents/additives/talon/) immobilized metal [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC resin (Clontech) | Wash: 25 mM HEPES pH 7.5, 300 mM NaCl, 0.05% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 mM imidazole pH 7.4; Elution: wash buffer with 200 mM imidazole + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) |  |
+| Size-exclusion chromatography | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) increase 10/300 column | 25 mM HEPES pH 7.5, 300 mM NaCl, 0.05% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 µM JNJ-31020028 + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) |  |
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <table class="wiki-table">
   <thead><tr>

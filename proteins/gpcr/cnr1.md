@@ -259,6 +259,7 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 - **Expression construct**: CB1 purified from recombinant expression
 - **Tag info**: Not specified
 
+<<<<<<< HEAD
 <table class="wiki-table">
   <thead><tr>
     <th>Step</th>
@@ -284,6 +285,15 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
+=======
+##### Steps
+
+| Step | Method | Resin / Column | Buffer + Detergent | Notes |
+|---|---|---|---|---|
+| Complex formation | In vitro reconstitution |  |  | CB1-Gi-[SCFV16](/xray-mp-wiki/reagents/antibodies/scfv16) complex constituted in vitro from purified CB1, Gi heterotrimer, and scFv16 |
+| SEC | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) 10/300 GL | 20 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 7.5, 100 mM NaCl, 0.00075% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.00025% GDN, 0.0001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 100 uM TCEP, 5 uM AM841 + 0.00075% [LMNG](/xray-mp-wiki/reagents/detergents/lmng) + 0.00025% GDN + 0.0001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Monomeric CB1-Gi-scFv16 complex isolated; concentrated to 1 mg/mL for [Cryo em](/xray-mp-wiki/methods/structure-determination/cryo-em) |
+
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 **Final sample**: 1 mg/mL
 **Purity**: Peak fractions concentrated for [Cryo em](/xray-mp-wiki/methods/structure-determination/cryo-em) studies
 
@@ -315,6 +325,7 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6kpg">6KPG</a> — Chain A (0 TMs, non_tm)**
 
+<<<<<<< HEAD
 <div class="sequence-display">
 <div class="topo-legend">
 <span class="topo-membrane-legend">&#9608; TM Helix</span>
@@ -360,6 +371,18 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6kpg">6KPG</a> — Chain B (0 TMs, non_tm)**
+=======
+| Step | Method | Resin / Column | Buffer + Detergent | Notes |
+|---|---|---|---|---|
+| Membrane solubilization | Detergent solubilization |  | 50 mM HEPES pH 7.5, 500 mM NaCl, 10% glycerol, 160 ug/mL benzamidine, 100 ug/mL leupeptin, 2 mg/mL [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide) + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.2% sodium cholate, 0.2% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 uM [Taranabant](/xray-mp-wiki/reagents/ligands/taranabant) | Sf9 cell membranes solubilized 1 hr at 4C; ultracentrifugation 30 min at 100,000g |
+| Ni-NTA affinity chromatography | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose (GE Healthcare) | 50 mM HEPES pH 7.5, 500 mM NaCl, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% sodium cholate, 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10% glycerol, 50 mM imidazole, 160 ug/mL [Benzamidine](/xray-mp-wiki/reagents/ligands/benzamidine), 100 ug/mL leupeptin, 1 uM taranabant + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm) + 0.01% sodium cholate + 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Batch incubation 3 hr at 4C; washed with 15 column volumes; eluted with 200 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole) and 2 mM calcium |
+| Anti-Flag affinity chromatography | Anti-[FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) M1 [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Anti-[FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) M1 affinity resin | 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng) (detergent exchanged from [DDM](/xray-mp-wiki/reagents/detergents/ddm/) on M1 resin) + 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng) | Detergent exchanged from 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) to 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng) on resin |
+| Tag cleavage | Enzymatic cleavage |  | 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng) | [TEV](/xray-mp-wiki/reagents/enzymes/tev-protease/) protease (1:10 w/w) and PNGase F added to remove [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) tag and deglycosylate; receptor eluted with 0.2 mg/mL [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) peptide and 5 mM [EDTA](/xray-mp-wiki/reagents/additives/edta) |
+| SEC | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | 20 mM HEPES pH 7.5, 150 mM NaCl, 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 1 uM [Taranabant](/xray-mp-wiki/reagents/ligands/taranabant) + 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng) + 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Final polishing step; [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) microcrystals obtained from purified sample |
+
+**Final sample**: Purified CB1(T210A)-PGS in 20 mM HEPES pH 7.5, 150 mM NaCl, 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 1 uM [Taranabant](/xray-mp-wiki/reagents/ligands/taranabant)
+**Purity**: Monodisperse peak by [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/); SDS-PAGE verified
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-display">
 <div class="topo-legend">
@@ -842,6 +865,7 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 **Final sample**: Purified CB1-[Flavodoxin](/xray-mp-wiki/reagents/protein-tags/flavodoxin/) in 20 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 150 mM [NaCl](/xray-mp-wiki/reagents/additives/sodium-chloride/), 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 1 uM [AM6538](/xray-mp-wiki/reagents/ligands/am6538/)
 **Purity**: Monodisperse by analytical [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/); SDS-PAGE verified
 
+<<<<<<< HEAD
 **Crystallization:**
 
 <table class="wiki-kv-table">
@@ -878,6 +902,17 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 </table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
+=======
+| Step | Method | Resin / Column | Buffer + Detergent | Notes |
+|---|---|---|---|---|
+| Membrane solubilization | Detergent solubilization |  | 50 mM HEPES pH 7.5, 500 mM NaCl, 10% glycerol, protease inhibitors + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.2% sodium cholate, 0.2% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 uM AM6538 | Membranes solubilized for 1 hr at 4C; ultracentrifugation at 100,000g |
+| TALON IMAC affinity chromatography | Immobilized metal [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC resin | 50 mM HEPES pH 7.5, 500 mM NaCl, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% sodium cholate, 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10% glycerol, 50 mM imidazole + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% sodium cholate, 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Batch incubation for 3 hr at 4C; washed with 15 column volumes; eluted with 200 mM imidazole and 2 mM calcium |
+| Anti-Flag M1 affinity chromatography | Anti-[FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) M1 [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Anti-[FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) M1 affinity resin | 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) (detergent exchanged from [DDM](/xray-mp-wiki/reagents/detergents/ddm/) on M1 resin) + 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) | Detergent exchanged from 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) to 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) on resin |
+| SEC | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | 20 mM HEPES pH 7.5, 150 mM NaCl, 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 1 uM AM6538 + 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Final polishing step; concentrated to ~50 mg/mL for [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) crystallization |
+
+**Final sample**: Purified CB1-Flavodoxin in 20 mM HEPES pH 7.5, 150 mM NaCl, 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 1 uM AM6538
+**Purity**: Monodisperse by analytical [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/); SDS-PAGE verified
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5tgz">5TGZ</a> — Chain A (7 TMs, alpha)**
@@ -1061,6 +1096,7 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 
 **Structures:**
 
+<<<<<<< HEAD
 <table class="wiki-table">
   <thead><tr>
     <th>PDB ID</th>
@@ -1079,16 +1115,39 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
     </tr>
   </tbody>
 </table>
+=======
+| Parameter | Value |
+|---|---|
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) crystallization |
+| Protein sample | CB1(T210A)-PGS at 15 mg/mL with 1 uM [Taranabant](/xray-mp-wiki/reagents/ligands/taranabant) |
+| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) |
+| Protein-to-lipid ratio | 2:1 (protein:lipid) |
+| Temperature | 20 C |
+| Notes | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) microcrystals diffracted to 2.6 A resolution; 42 crystals merged into single dataset; molecular replacement solved structure; Rwork/Rfree = 0.19/0.23 |
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 **Expression:**
 
+<<<<<<< HEAD
 - **Expression system**: [Sf9 Insect Cells](/xray-mp-wiki/expression-systems/sf9-expression-system/) ([Bac-to-Bac](/xray-mp-wiki/methods/expression/bac-to-bac-system/) [Baculovirus Expression System](/xray-mp-wiki/methods/expression/baculovirus-expression-system/))
 - **Construct**: CB1 expressed in central nervous system and peripheral tissues; structural studies use recombinant expression in insect cells
 - **Notes**: CB1-Gi-[SCFV16](/xray-mp-wiki/reagents/antibodies/scfv16) complex constituted in vitro from purified CB1, Gi heterotrimer, and [scFv16](/xray-mp-wiki/reagents/antibodies/scfv16/) antibody fragment; CB1(T210A)-[PGS](/xray-mp-wiki/reagents/protein-tags/pgs/) construct expressed via [Bac-to-Bac](/xray-mp-wiki/methods/expression/bac-to-bac-system/) system in [Sf9](/xray-mp-wiki/expression-systems/sf9-expression-system/) cells; CB1-[Flavodoxin](/xray-mp-wiki/reagents/protein-tags/flavodoxin/) construct expressed in HEK293T cells using PEI transfection
+=======
+| Parameter | Value |
+|---|---|
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) crystallization |
+| Protein sample | Purified CB1-Flavodoxin at ~35 mg/mL with 20 uM AM11542 or AM841 |
+| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) (90% w/w) + [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol) (10% w/w) |
+| Protein-to-lipid ratio | 2:3 (protein:lipid) |
+| Temperature | 20 C |
+| Growth time | 1 wk |
+| Notes | AM11542 crystals grew to full size in 1 week. AM841 crystals appeared after 2 days, full size after 1 week. 16 crystals (AM11542) and 10 crystals (AM841) merged for final datasets. Data collected at APS GM/CA-CAT 23ID-B and SLS X06SA. |
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
 
+<<<<<<< HEAD
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6kqi">6KQI</a> — Chain A (7 TMs, alpha)**
 
@@ -2242,6 +2301,17 @@ Cannabinoid receptor 1 (CNR1, commonly known as CB1) is a class A G protein-coup
 
 </div>
 </details>
+=======
+| Parameter | Value |
+|---|---|
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) crystallization |
+| Protein sample | CB1-Flavodoxin at ~50 mg/mL with 10 uM AM6538 |
+| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) (90% w/w) + [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol) (10% w/w) |
+| Protein-to-lipid ratio | 2:3 (protein:lipid) |
+| Temperature | 20 C |
+| Growth time | 2 wk |
+| Notes | 29 crystals merged into single dataset; molecular replacement with LPA1 (PDB 4Z34) and Flavodoxin (PDB 1I1O) as search models; Rwork/Rfree = not specified; data collected at Spring-8 BL41XU |
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 
 ## Biological / Functional Insights

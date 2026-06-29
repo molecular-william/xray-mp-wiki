@@ -706,7 +706,24 @@ The human neurokinin 1 receptor (NK1R, TACR1) is a class A G protein-coupled rec
 - **Notes**: Receptor expressed in Sf9 insect cells using baculovirus system. Thermostabilized construct based on directed evolution studies (Schutz et al. 2016).
 
 
+<<<<<<< HEAD
 **Purification:**
+=======
+##### Steps
+
+| Step | Method | Resin / Column | Buffer + Detergent | Notes |
+|---|---|---|---|---|
+| Membrane preparation | Homogenization and ultracentrifugation | — | 50 mM HEPES pH 7.5, 500 mM NaCl, 10% (v/v) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + None | Sf9 cell pellet resuspended and membranes collected |
+| Solubilization | Detergent extraction | — | 50 mM HEPES pH 7.5, 500 mM NaCl, 10% (v/v) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 250 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 1% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.2% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Membranes solubilized for 1 h at 4 C with [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/[CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) |
+| Ni-NTA affinity | Immobilized metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) resin | 50 mM HEPES pH 7.5, 500 mM NaCl, 250 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 10% (v/v) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/)
+ + 0.05% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.01% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | His-tagged receptor bound to [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) resin, eluted with 250 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
+| Buffer exchange and tag cleavage | Desalting (PD MiniTrap G-25) | — | 50 mM HEPES pH 7.5, 500 mM NaCl, 10% (v/v) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) + 0.03% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.006% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) removed; His-tagged 3C protease and PNGaseF added for 6 h at 4 C |
+| Reverse Ni-NTA | Flow-through collection | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) resin | 50 mM HEPES pH 7.5, 500 mM NaCl, 10% (v/v) [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.03% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.006% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)
+ + 0.03% (w/v) [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.006% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Cleaved receptor collected as flow-through; uncleaved and 3C protease bind resin |
+| Concentration | Vivaspin 2 concentrator (100 kDa MWCO) | — | as above + as above | Concentrated to ~50-60 mg/ml for crystallization |
+
+#### Source: doi/10.1073##pnas.1812717115
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 - **Expression system**: Sf9 insect cells (baculovirus)
 - **Expression construct**: Human NK1R-PGS fusion with N-terminal [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) and His10 tag
@@ -766,7 +783,43 @@ The human neurokinin 1 receptor (NK1R, TACR1) is a class A G protein-coupled rec
   </tbody>
 </table>
 
+<<<<<<< HEAD
 **Crystallization:**
+=======
+| Step | Method | Resin / Column | Buffer + Detergent | Notes |
+|---|---|---|---|---|
+| Membrane preparation | Homogenization and ultracentrifugation | — | 50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.4, 500 mM NaCl, 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) | Sf9 cell pellet homogenized |
+| Solubilization | Detergent extraction | — | 50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.4, 500 mM NaCl, 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.02% Na Cholate, 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 2 mg/mL [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/), 5 uM L760735 + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.2% Na Cholate, 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Solubilization for 1 h at 4 C, ultracentrifugation at 100,000 x g |
+| Ni-NTA batch binding | Batch binding with [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) agarose | 50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.4, 500 mM NaCl, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% Na Cholate, 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 50 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 5 uM L760735 | 20 GE [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) added before binding, batch mode for 4 h at 4 C |
+| Ni-NTA elution | Column elution | — | 50 mM [Tris-HCl Buffer](/xray-mp-wiki/reagents/buffers/tris/) pH 7.4, 500 mM NaCl, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% Na Cholate, 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 200 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), 5 uM L760735 | Eluted with 5 volumes of elution buffer |
+| M1 anti-FLAG affinity | M1 [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) with detergent exchange | M1 anti-[FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) agarose | 200 ug/mL [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) peptide, 5 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/) + Detergent exchanged from [DDM](/xray-mp-wiki/reagents/detergents/ddm/)/Na Cholate/[CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) to 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) on M1 beads | 2 mM CaCl2 added before loading; eluted with [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) peptide + [EDTA](/xray-mp-wiki/reagents/additives/edta/) |
+| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) |  | Single monomeric peak collected, purity checked by SDS/PAGE |
+
+
+## Crystallization
+
+### doi/10.1038##s41467-018-07939-8
+
+| Parameter | Value |
+|---|---|
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
+| Protein sample | ~50-60 mg/ml NK1R-PGS in 0.03% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) + 0.006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) |
+| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) + 10% (w/v) [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
+| Temperature | 20 C |
+| Notes | CP-99,994 complex crystals appeared in <1 h in broad conditions. [Aprepitant](/xray-mp-wiki/reagents/ligands/aprepitant/) complex: 100 mM sodium [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) pH 6.0, 31% [PEG400](/xray-mp-wiki/reagents/additives/peg-400/), 50-70 mM MgCl2, 50 uM [Aprepitant](/xray-mp-wiki/reagents/ligands/aprepitant/). [Netupitant](/xray-mp-wiki/reagents/ligands/netupitant/) complex: 100 mM sodium [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) pH 6.0, 31% [PEG400](/xray-mp-wiki/reagents/additives/peg-400/), 40-50 mM Mg(HCO3)2, 50 uM [Netupitant](/xray-mp-wiki/reagents/ligands/netupitant/). All crystals cryo-cooled in liquid nitrogen without additional cryoprotectant.
+ |
+
+### doi/10.1073##pnas.1812717115
+
+| Parameter | Value |
+|---|---|
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
+| Protein sample | 30-50 mg/ml NK1R-PGS |
+| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) + 10% (w/w) [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) (2:3 protein:lipid mass ratio) |
+| Temperature | 20 C |
+| Notes | Crystals observed in 1 day, full size in 1 week. Cryoprotected in crystallization mother liquid. Data from 36 merged crystals. Diffraction data collected at APS 23ID-D beamline (12 keV, Pilatus3 6M detector). Resolution limit 3.4 A. Structure solved by [Molecular Replacement](/xray-mp-wiki/methods/structure-determination/molecular-replacement/) with Phaser.
+ |
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <table class="wiki-kv-table">
   <tbody>

@@ -61,6 +61,7 @@ verified: false
 - **Expression construct**: CB2-N-BRIL fusion with HA signal, 10x His-tag, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag)
 - **Tag info**: HA signal, 10x His (N-terminal), [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag)
 
+<<<<<<< HEAD
 <table class="wiki-table">
   <thead><tr>
     <th>Step</th>
@@ -121,6 +122,20 @@ verified: false
     </tr>
   </tbody>
 </table>
+=======
+##### Steps
+
+| Step | Method | Resin / Column | Buffer + Detergent | Notes |
+|---|---|---|---|---|
+| Cell infection | [Baculovirus](/xray-mp-wiki/methods/expression-systems/baculovirus-expression) infection |  |  | Sf9 cells infected at 2-2.5 x 10^6 cells/mL with CB2, Gαi1, Gβ1γ2 viruses at 1:2:2 ratio, 27C for 48 h |
+| Cell lysis | Cell lysis |  |  | Infected cells cultured at 27C for 48 h, harvested by centrifugation, pellets stored at -80C |
+| Membrane isolation | Centrifugation |  |  | Cell pellets harvested by centrifugation |
+| Solubilization | Detergent solubilization |  | 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng) + 0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | CB2-Gi-[scFv16](/xray-mp-wiki/reagents/antibodies/scfv16) complex solubilized with [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) and [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) |
+| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) | Metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography) | [TALON](/xray-mp-wiki/reagents/additives/talon) IMAC | 25 mM HEPES pH 7.5, 100 mM NaCl, 10% glycerol, 0.1% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 30 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole), 20 uM AM841 + 0.1% [LMNG](/xray-mp-wiki/reagents/detergents/lmng) + 0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | [His Tag](/xray-mp-wiki/reagents/protein-tags/his-tag) capture on [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC resin overnight at 4C |
+| Tag cleavage | Protease cleavage |  |  | C-terminal 10x His tag cleaved by human [Human Rhinovirus 3C Protease](/xray-mp-wiki/reagents/additives/human-rhinovirus-3c-protease) |
+| [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography) | Hiload Superdex 75 10/300 | 20 mM [HEPES](/xray-mp-wiki/reagents/buffers/hepes) pH 7.5, 100 mM NaCl | Monomeric fractions pooled, concentrated, flash frozen |
+
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 **Final sample**: not specified
 **Purity**: Monomeric fractions by [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography)
 
@@ -699,6 +714,7 @@ verified: false
 - **Expression construct**: CB2-T4L fusion (ICL3 residues 222-235 replaced by T4L); N-term residues 1-20 and C-term 326-360 truncated; G78L, T127A, T153L, R242E, G304E mutations
 - **Tag info**: None (no affinity tag)
 
+<<<<<<< HEAD
 <table class="wiki-table">
   <thead><tr>
     <th>Step</th>
@@ -745,6 +761,18 @@ verified: false
     </tr>
   </tbody>
 </table>
+=======
+##### Steps
+
+| Step | Method | Resin / Column | Buffer + Detergent | Notes |
+|---|---|---|---|---|
+| Cell infection | [Baculovirus](/xray-mp-wiki/methods/expression-systems/baculovirus-expression) infection |  |  | Sf9 cells infected at 2-2.5 x 10^6 cells/mL with high-titer viral stock, MOI 5.0; harvested 48 h post-infection |
+| Membrane preparation | Centrifugation and washing |  | 10 mM HEPES pH 7.5, 10 mM MgCl2, 20 mM KCl (hypotonic); 10 mM HEPES pH 7.5, 1.0 M NaCl, 10 mM MgCl2, 20 mM KCl (high osmotic) | Membranes lysed by repeated washing and centrifugation; incubated with 20 uM AM10257 and inhibitor cocktail at 4C for 3 h; 1.0 mg/mL iodoacetamide added for 1 h |
+| Solubilization | Detergent solubilization |  | 50 mM HEPES pH 7.5, 500 mM NaCl + 0.75% (w/v) [LMNG](/xray-mp-wiki/reagents/detergents/lmng) + 0.15% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Membranes solubilized for 2.5-3 h at 4C; supernatant isolated by ultracentrifugation |
+| [IMAC](/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography) | [TALON](/xray-mp-wiki/reagents/additives/talon) [IMAC](/xray-mp-wiki/methods/purification/immobilized-metal-affinity-chromatography) | [TALON](/xray-mp-wiki/reagents/additives/talon) IMAC resin | 25 mM HEPES pH 7.5, 500 mM NaCl, 10% (v/v) glycerol, 0.1% (w/v) [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.02% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 30 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole), 20 uM AM10257 + 0.1% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) + 0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Wash I: 15 CV wash buffer I; Wash II: 15 CV wash buffer II (0.03% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.006% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 50 mM imidazole); elution with 250 mM imidazole |
+| Concentration | 100 kDa cutoff concentrator | — | 25 mM HEPES pH 7.5, 500 mM NaCl, 10% (v/v) glycerol, 0.01% (w/v) [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.002% (w/v) [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 25 uM AM10257 + 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) + 0.002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Concentrated to 20 mg/mL for crystallization |
+
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 **Final sample**: CB2-T4L-AM10257 complex at 20 mg/mL
 
 **Crystallization:**
@@ -787,6 +815,7 @@ verified: false
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/5zty">5ZTY</a> — Chain A (7 TMs, alpha)**
 
+<<<<<<< HEAD
 <div class="sequence-display">
 <div class="topo-legend">
 <span class="topo-membrane-legend">&#9608; TM Helix</span>
@@ -951,6 +980,29 @@ verified: false
 </div>
 </div>
 </div>
+=======
+| Parameter | Value |
+|---|---|
+| Method | [Lipidic Cubic Phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
+| Protein sample | [AM12033](/xray-mp-wiki/reagents/ligands/am12033)-bound CB2 |
+| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) |
+| Protein-to-lipid ratio | not specified |
+| Temperature | not specified |
+| Growth time | 2 weeks; dehydrated to 40 mm x 20 mm after 2 weeks |
+| Notes | Crystals grown by [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase); harvested with micro-mounts (MiTeGen) and flash frozen in liquid nitrogen; data collected at Spring-8 beamline 41XU with Pilatus3 6M detector at 1.0000 A wavelength |
+
+### doi/10.1016##j.cell.2018.12.011
+
+| Parameter | Value |
+|---|---|
+| Method | [Lipidic Cubic Phase](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
+| Protein sample | [AM10257](/xray-mp-wiki/reagents/ligands/am10257)-bound CB2-T4L |
+| Lipid | 90% (w/v) [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein) + 10% (w/v) [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol) |
+| Protein-to-lipid ratio | 2:3 (w/w) |
+| Temperature | not specified |
+| Growth time | not specified |
+| Notes | Crystals grown by [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase) using syringe mixer; 96-well glass sandwich plates; 50 nL protein-lipid mesophase dispensed per well; data collected at Spring-8 BL32XU; 7 crystals merged; multiple small wedge data collection scheme |
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 </div>
 

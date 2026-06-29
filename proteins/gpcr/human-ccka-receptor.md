@@ -104,6 +104,7 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 
 **Crystallization:**
 
+<<<<<<< HEAD
 <table class="wiki-kv-table">
   <tbody>
     <tr>
@@ -130,6 +131,14 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 </table>
 <div class="sequences" markdown="1">
 **Sequences (PDBTM):**
+=======
+| Step | Method | Resin / Column | Buffer + Detergent | Notes |
+|---|---|---|---|---|
+| 1. Membrane preparation and solubilization | Detergent extraction | — | 50 mM HEPES pH 7.5, 500 mM NaCl, 10% glycerol, 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 μM ligand | Sf9 cell membranes solubilized for 2 h at 4°C |
+| 2. Ni-NTA affinity chromatography | Immobilized metal [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | — | 50 mM HEPES pH 7.5, 500 mM NaCl, 10% glycerol, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 20 mM imidazole | Protein eluted with 200 mM imidazole |
+| 3. PreScission protease cleavage | Protease treatment | — | 50 mM HEPES pH 7.5, 500 mM NaCl, 10% glycerol, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Overnight cleavage at 4°C to remove N-terminal tag |
+| 4. Size-exclusion chromatography | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) 10/300 GL | — | 25 mM HEPES pH 7.5, 150 mM NaCl, 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10 μM ligand | Peak fractions concentrated to 20 mg/ml for crystallization |
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7f8w">7F8W</a> — Chain A (0 TMs, non_tm)**
@@ -180,6 +189,7 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7f8w">7F8W</a> — Chain B (0 TMs, non_tm)**
 
+<<<<<<< HEAD
 <div class="sequence-display">
 <div class="topo-legend">
 <span class="topo-membrane-legend">&#9608; TM Helix</span>
@@ -215,6 +225,15 @@ The human cholecystokinin A receptor (CCKₐR) is a class A G-protein-coupled re
 </div>
 </div>
 </div>
+=======
+| Parameter | Value |
+|---|---|
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (LCP) |
+| Protein sample | CCKₐR-T4L at ~20 mg/ml in 25 mM HEPES pH 7.5, 150 mM NaCl, 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) |
+| Temperature | 20°C |
+| Growth time | 3-7 days |
+| Notes | Data collected at SPring-8 beamline BL41XU. Structures solved by molecular replacement using T4L and a GPCR template. Diffraction data from [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)-grown crystals with space group P2₁2₁2. |
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/7f8w">7F8W</a> — Chain C (0 TMs, non_tm)**

@@ -936,6 +936,10 @@ For a detailed audit: `python3 ~/Desktop/Research/coding_projects/xray-mp-wiki/s
 | protein | proteins/mfs-transporters/melbst/ | Melibiose Permease from Salmonella typhimurium (MelBSt) | [Melibiose](/xray-mp-wiki/reagents/ligands/melibiose) permease (MelB) from Salmo |
 | protein | proteins/mfs-transporters/nark/ | NarK Nitrate/Nitrite Antiporter from Escherichia coli | NarK is a nitrate/nitrite antiporter from the nitrate/nitrite porter (NNP) famil |
 | protein | proteins/mfs-transporters/naru/ | NarU Nitrate/Nitrite Transporter from Escherichia coli | NarU is a nitrate/nitrite transporter from Escherichia coli belonging to the
+<<<<<<< HEAD
+=======
+[Ni |
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 | protein | proteins/mfs-transporters/nupg/ | NupG Nucleoside Proton Symporter from Escherichia coli | NupG is a nucleoside proton symporter from [Escherichia coli](/xray-mp-wiki/prot |
 | protein | proteins/mfs-transporters/oxit/ | Oxalate Transporter OxIT from Oxalobacter formigenes | Oxalate transporter OxIT is an oxalate:formate antiporter (OFA) from the gut bac |
 | protein | proteins/mfs-transporters/pept-sh/ | PepT_Sh — SLC15/POT Family Peptide Transporter from Staphylococcus hominis | PepT_Sh is a prokaryotic homolog of the mammalian proton-coupled oligopeptide tr |

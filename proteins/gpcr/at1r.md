@@ -55,6 +55,7 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 1 rece
 - **Expression construct**: [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-AT1R chimera with HA/FLAG/His tags (olmesartan-bound)
 - **Tag info**: [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) (N-terminal, cleaved by TEV)
 
+<<<<<<< HEAD
 <table class="wiki-table">
   <thead><tr>
     <th>Step</th>
@@ -108,6 +109,19 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 1 rece
     </tr>
   </tbody>
 </table>
+=======
+##### Steps
+
+| Step | Method | Resin / Column | Buffer + Detergent | Notes |
+|---|---|---|---|---|
+| Cell infection | [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) infection |  |  | 2-3 x 10^6 cells/mL infected with [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) at 27C, harvested at 48 hr |
+| Membrane preparation | Hypotonic and high osmotic buffer washes |  | Hypotonic: 10 mM HEPES pH 7.5, 10 mM MgCl2, 20 mM KCl; High osmotic: 10 mM HEPES pH 7.5, 1.0 M NaCl, 10 mM MgCl2, 20 mM KCl | Added EDTA-free protease inhibitor cocktail; membranes incubated with 100 uM [Olmesartan](/xray-mp-wiki/reagents/ligands/olmesartan/) for 1 h at 4C before solubilization |
+| Solubilization | Detergent solubilization |  | 50 mM HEPES pH 7.5, 500 mM NaCl + 1% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) + 0.2% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-AT1R in complex with [Olmesartan](/xray-mp-wiki/reagents/ligands/olmesartan/) solubilized from membranes; buffer contained 20 uM [Olmesartan](/xray-mp-wiki/reagents/ligands/olmesartan/), 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
+| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) IMAC | 50 mM HEPES pH 7.5, 500 mM NaCl, 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) + 0.05% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) + 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) capture; buffer contained [Olmesartan](/xray-mp-wiki/reagents/ligands/olmesartan/) 100 uM; wash with 20 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/), elute with 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
+| Tag cleavage and deglycosylation | Protease and glycosidase treatment |  | 50 mM HEPES pH 7.5, 500 mM NaCl, 10% glycerol, 0.02% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.004% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.02% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) + 0.004% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Overnight treatment with His-tagged [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) and PNGase F to cleave N-terminal tags and glycosylation sites |
+| Concentration | Centrifugal concentration |  |  | Concentrated to 30 mg/ml with [Vivaspin](/xray-mp-wiki/reagents/additives/vivaspin/) 100 kDa cutoff concentrator; monodispersity tested by analytical [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) |
+
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 **Final sample**: 30 mg/ml
 **Purity**: Tested by analytical [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)
 
@@ -337,6 +351,7 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 1 rece
 - **Expression construct**: [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-AT1R chimera with HA/FLAG/His tags
 - **Tag info**: FLAG, [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) (N-terminal, cleaved by TEV)
 
+<<<<<<< HEAD
 <table class="wiki-table">
   <thead><tr>
     <th>Step</th>
@@ -397,6 +412,20 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 1 rece
     </tr>
   </tbody>
 </table>
+=======
+##### Steps
+
+| Step | Method | Resin / Column | Buffer + Detergent | Notes |
+|---|---|---|---|---|
+| Cell infection | [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) infection |  |  | 2-3 x 10^6 cells/mL infected with [Baculovirus Expression System](/xray-mp-wiki/methods/expression-systems/baculovirus-expression-system/) at 27C, harvested at 48 hr |
+| Membrane isolation | Cell lysis and membrane preparation |  |  | Isolated membranes from Sf9 cells |
+| Solubilization | Detergent solubilization |  | 1% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) + 0.2% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-AT1R in complex with [ZD7155](/xray-mp-wiki/reagents/ligands/zd7155/) solubilized from membranes |
+| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Metal [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) IMAC | 1% [n-Dodecyl-beta-D-maltopyranoside (DDM)](/xray-mp-wiki/reagents/detergents/ddm/) + 0.2% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | [His Tag](/xray-mp-wiki/reagents/protein-tags/his6-tag/) capture |
+| Desalting | Size exclusion (column) | PD MiniTrap G-25 |  | Remove [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) |
+| Tag cleavage | Protease cleavage |  |  | Overnight treatment with His-tagged [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) to cleave N-terminal [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/)/His |
+| Tag removal | [Immobilized Metal Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) flow-through | [TALON Cobalt Affinity Resin](/xray-mp-wiki/reagents/additives/talon/) IMAC |  | Cleaved [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/)/His tags and [TEV Protease](/xray-mp-wiki/reagents/additives/tev-protease/) removed by [TALON](/xray-mp-wiki/reagents/additives/talon/) resin |
+
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 **Final sample**: 30 mg/ml
 **Purity**: Tested by analytical [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)
 
@@ -636,6 +665,7 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 1 rece
 - **Expression construct**: AT1R with N-terminal HA signal, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/), BRIL inserted into ICL3 (residues 226-227), I320 stop codon
 - **Tag info**: N-terminal HA signal, [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/)
 
+<<<<<<< HEAD
 <table class="wiki-table">
   <thead><tr>
     <th>Step</th>
@@ -696,6 +726,20 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 1 rece
     </tr>
   </tbody>
 </table>
+=======
+##### Steps
+
+| Step | Method | Resin / Column | Buffer + Detergent | Notes |
+|---|---|---|---|---|
+| Cell culture | Mammalian transient expression |  | Expi293F expression media | Tetracycline-inducible Expi293F cells; induced with 4 mg/mL doxycycline, 5 mM [Sodium Butyrate](/xray-mp-wiki/reagents/additives/sodium-butyrate/), 1 uM losartan |
+| Cell lysis | Hypotonic lysis |  | 10 mM Tris pH 7.4, 2 mM EDTA, 10 mM MgCl2, benzonase, [Benzamidine](/xray-mp-wiki/reagents/ligands/benzamidine/), leupeptin, 5 uM losartan | Frozen cell pellets lysed under hypotonic conditions at room temperature |
+| Membrane isolation | Centrifugation |  |  | 30,000 x g for 15 min |
+| Solubilization | Detergent solubilization |  | 20 mM HEPES pH 7.4, 500 mM NaCl, 10 mM MgCl2, benzonase, [Benzamidine](/xray-mp-wiki/reagents/ligands/benzamidine/), leupeptin, 5 uM losartan + 0.5% MNG + 0.05% [Cholesterol Hydrogen Succinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | 2 h stirring at room temperature then 4 C |
+| [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) affinity | [M1 FLAG Affinity Resin](/xray-mp-wiki/reagents/protein-tags/m1-flag-resin/) | 20 mM [HEPES (HEPES Buffer)](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.4, 500 mM NaCl, 0.01% MNG, 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 2 mM CaCl2 + 0.01% MNG + 0.01% [Cholesterol Hydrogen Succinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/)-tagged AT1R captured on [M1 FLAG Affinity Resin](/xray-mp-wiki/reagents/protein-tags/m1-flag-resin/) |
+| Elution | [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) peptide elution | [M1 FLAG Affinity Resin](/xray-mp-wiki/reagents/protein-tags/m1-flag-resin/) | 20 mM [HEPES (HEPES Buffer)](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.4, 500 mM NaCl, 0.01% MNG, 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 0.2 mg/mL [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) peptide, 5 mM EDTA + 0.01% MNG + 0.01% [Cholesterol Hydrogen Succinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | AT1R eluted with [FLAG Tag](/xray-mp-wiki/reagents/protein-tags/flag-tag/) peptide |
+| [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Superdex 200 Increase SEC Resin](/xray-mp-wiki/reagents/additives/superdex-200/) | 20 mM [HEPES (HEPES Buffer)](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.4, 100 mM NaCl, 0.01% MNG, 0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) (HNM buffer) + 0.01% MNG + 0.001% [Cholesterol Hydrogen Succinate (CHS)](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Monomeric [Angiotensin II Type 1 Receptor](/xray-mp-wiki/proteins/gpcr/at1r/) isolated; for crystallography, treated with EndoH for 90 min prior to [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) |
+
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 **Final sample**: 30 uM
 **Purity**: Monomeric peak by [Size Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/)
 
@@ -735,6 +779,7 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 1 rece
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6do1">6DO1</a> — Chain A (7 TMs, alpha)**
 
+<<<<<<< HEAD
 <div class="sequence-display">
 <div class="topo-legend">
 <span class="topo-membrane-legend">&#9608; TM Helix</span>
@@ -898,10 +943,22 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 1 rece
 </div>
 </div>
 </div>
+=======
+| Parameter | Value |
+|---|---|
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
+| Protein sample | [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-AT1R + [Olmesartan](/xray-mp-wiki/reagents/ligands/olmesartan/), 30 mg/ml |
+| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) supplemented with 10% [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
+| Protein-to-lipid ratio | 1:1 |
+| Temperature | 20 |
+| Growth time | Crystals appeared and grew over several weeks |
+| Notes | Crystals harvested from [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) using micromounts; cryo-cooled at 100K. Data collected at GM/CA@APS (23ID-D), Advanced Photon Source, using 10 um minibeam at 1.0330 A wavelength, 1 s exposure, 1.0 oscillation. Detector: Pilatus3 6M. Space group P32, merohedral twinning (twin law h,k,l and k,h,-l) refined with phenix.xtriage and Refmac5. Single crystal of 70x70x15 um3, 4 non-overlapping spots used. |
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <div class="sequence-entry" markdown="1">
 **PDB <a class="pdb-link" href="https://www.rcsb.org/structure/6do1">6DO1</a> — Chain B (7 TMs, alpha)**
 
+<<<<<<< HEAD
 <div class="sequence-display">
 <div class="topo-legend">
 <span class="topo-membrane-legend">&#9608; TM Helix</span>
@@ -1065,11 +1122,41 @@ The [Angiotensin II](/xray-mp-wiki/reagents/ligands/angiotensin-ii/) type 1 rece
 </div>
 </div>
 </div>
+=======
+| Parameter | Value |
+|---|---|
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
+| Protein sample | [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-AT1R + [ZD7155](/xray-mp-wiki/reagents/ligands/zd7155/), 30 mg/ml |
+| Lipid | [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) |
+| Protein-to-lipid ratio | 1:1 |
+| Temperature | 20 |
+| Growth time | 2-4 weeks |
+
+### doi/10.1016##j.cell.2018.12.006
+
+| Parameter | Value |
+|---|---|
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([Lipidic Cubic Phase Crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
+| Protein sample | AT1R-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)(ICL3) + S1I8 + Nb.AT110i1, 30 uM |
+| Lipid | 10:1 monoolein:[Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
+| Protein-to-lipid ratio | 1.5:1 by mass |
+| Temperature | 20 |
+| Growth time | 6-11 days |
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 </div>
 ### doi/10.1126##science.aay9813
 
+<<<<<<< HEAD
 **Structures:**
+=======
+| Parameter | Value |
+|---|---|
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
+| Protein sample | AT1R-AT110i1 nanobody complex + AngII, TRV023, or TRV026 |
+| Lipid | Monoolein |
+| Notes | Crystal structures of AT1R bound to three ligands with divergent bias profiles. Data collected at APS GM/CA beamlines. Structures deposited as PDB 6OS0 (AngII), 6OS1 (TRV023), 6OS2 (TRV026). |
+>>>>>>> d0e2c437136bdf2885afc6a99e0a9d4117821696
 
 <table class="wiki-table">
   <thead><tr>
