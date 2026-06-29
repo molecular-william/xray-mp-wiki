@@ -63,7 +63,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Rod outer segment (ROS) preparation | [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) gradient centrifugation from bovine retina | — | not specified + -- | Standard ROS preparation from fresh bovine retinae under dim red light |
-| Rhodopsin solubilization and purification | Concanavalin A (ConA) affinity chromatography | ConA-agarose | not specified + [OTG](/xray-mp-wiki/reagents/detergents/og/) (mixed micelles) | Rhodopsin eluted with methyl-alpha-D-mannopyranoside. Final sample in mixed micelles for crystallization. |
+| Rhodopsin solubilization and purification | Concanavalin A (ConA) [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | ConA-agarose | not specified + [OTG](/xray-mp-wiki/reagents/detergents/og/) (mixed micelles) | Rhodopsin eluted with methyl-alpha-D-mannopyranoside. Final sample in mixed micelles for crystallization. |
 
 #### Source: doi/10.1073##pnas.0608022103
 
@@ -72,7 +72,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
-| Purification | Immunoaffinity chromatography | Rho1D4 antibody column | 25 mM bis-[Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/)-propane (pH 7.5) + n-Octyl-beta-D-glucopyranoside (OG) | Highly delipidated rhodopsin purified from bovine retina. Delipidation critical for crystallizability. |
+| Purification | Immuno[affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Rho1D4 antibody column | 25 mM bis-[Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/)-propane (pH 7.5) + n-Octyl-beta-D-glucopyranoside ([OG](/xray-mp-wiki/reagents/detergents/og/)) | Highly delipidated rhodopsin purified from bovine retina. Delipidation critical for crystallizability. |
 
 #### Source: doi/10.1038##s41586-023-05863-6
 
@@ -82,7 +82,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Rod outer segment (ROS) membrane isolation | [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) gradient centrifugation | — | 10 mM [MOPS (3-(N-Morpholino)propanesulfonic Acid)](/xray-mp-wiki/reagents/buffers/mops/), 30 mM NaCl, 60 mM KCl, 2 mM [Magnesium Chloride (MgCl₂)](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 1 mM [DTT](/xray-mp-wiki/reagents/additives/dtt/), 40% (w/w) [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) + None (native membranes) | 200 frozen bovine retinae used as starting material. Two-step centrifugation: 4,000g for 30 min, then 24,000g for 30 min. ROS membrane layers collected from 23-29% interface on 34%/29% [Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) gradient, 110,000g for 90 min. |
-| ConA affinity chromatography (optimized) | Affinity chromatography | Concanavalin A (ConA) resin, scale-up 3x | 50 mM sodium [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate/), 150 mM NaCl, 3 mM [Magnesium Chloride (MgCl₂)](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 3 mM MnCl2, 3 mM CaCl2, 1 mM Na2-[EDTA](/xray-mp-wiki/reagents/additives/edta/), 2 mM 2-mercaptoethanol, pH 6.0 + 1% n-octyl-beta-D-glucopyranoside (OG) | Starting material ~180 mg rhodopsin. Reversed flow used for second half of elution to sharpen elution profile. |
+| ConA affinity chromatography (optimized) | [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Concanavalin A (ConA) resin, scale-up 3x | 50 mM sodium [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate/), 150 mM NaCl, 3 mM [Magnesium Chloride (MgCl₂)](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 3 mM MnCl2, 3 mM CaCl2, 1 mM Na2-[EDTA](/xray-mp-wiki/reagents/additives/edta/), 2 mM 2-mercaptoethanol, pH 6.0 + 1% n-octyl-beta-D-glucopyranoside ([OG](/xray-mp-wiki/reagents/detergents/og/)) | Starting material ~180 mg rhodopsin. Reversed flow used for second half of elution to sharpen elution profile. |
 
 #### Source: doi/10.1073##pnas.1718084115
 
@@ -92,7 +92,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Expression and membrane preparation | HEK293S GnTI- cell expression | — | 50 mM [Tris (Tris-HCl Buffer)](/xray-mp-wiki/reagents/buffers/tris/) pH 7.0, 150 mM NaCl, 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/) + -- | Cells grown in suspension culture. N2C/D282C double mutant provides thermal stability for crystallization. |
-| ConA affinity chromatography | Affinity chromatography | Concanavalin A (ConA) resin | 50 mM sodium [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate/) pH 6.0, 150 mM NaCl, 3 mM [Magnesium Chloride (MgCl₂)](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 3 mM MnCl2, 3 mM CaCl2 + 1% n-octyl-beta-D-glucopyranoside (OG) for solubilization, then exchanged to 0.05% n-dodecyl-beta-D-maltopyranoside (DDM) during wash | Solubilized in 1% [OG](/xray-mp-wiki/reagents/detergents/og/). Protein eluted with 0.2 M methyl-alpha-D-mannopyranoside. Detergent exchanged to 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) during on-column washes. |
+| ConA affinity chromatography | [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Concanavalin A (ConA) resin | 50 mM sodium [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate/) pH 6.0, 150 mM NaCl, 3 mM [Magnesium Chloride (MgCl₂)](/xray-mp-wiki/reagents/additives/magnesium-chloride/), 3 mM MnCl2, 3 mM CaCl2 + 1% n-octyl-beta-D-glucopyranoside ([OG](/xray-mp-wiki/reagents/detergents/og/)) for solubilization, then exchanged to 0.05% n-dodecyl-beta-D-maltopyranoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) during wash | Solubilized in 1% [OG](/xray-mp-wiki/reagents/detergents/og/). Protein eluted with 0.2 M methyl-alpha-D-mannopyranoside. Detergent exchanged to 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) during on-column washes. |
 
 #### Source: doi/10.1038##s41467-023-40911-9
 
@@ -102,9 +102,9 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | ROS membrane preparation | Step-[Sucrose](/xray-mp-wiki/reagents/ligands/sucrose/) density gradient centrifugation from dark-adapted bovine retinas | — |  | ROS isolated and washed with isotonic and hypotonic buffers; kept in dark |
-| Nb2 expression and purification | Periplasmic expression in E. coli WK6 cells; Ni-NTA affinity followed by SEC | — |  | Nb2 with C-terminal His-tag expressed in E. coli WK6; induced with 1 mM [IPTG (Isopropyl-beta-D-thiogalactopyranoside)](/xray-mp-wiki/reagents/additives/iptg/) overnight at 28 C; periplasmic fraction extracted with [TES Buffer (N-Tris(hydroxymethyl)methyl-2-aminoethanesulfonic acid)](/xray-mp-wiki/reagents/buffers/tes/) buffer |
+| Nb2 expression and purification | Periplasmic expression in E. coli WK6 cells; [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) affinity followed by [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | — |  | Nb2 with C-terminal His-tag expressed in E. coli WK6; induced with 1 mM [IPTG (Isopropyl-beta-D-thiogalactopyranoside)](/xray-mp-wiki/reagents/additives/iptg/) overnight at 28 C; periplasmic fraction extracted with [TES Buffer (N-Tris(hydroxymethyl)methyl-2-aminoethanesulfonic acid)](/xray-mp-wiki/reagents/buffers/tes/) buffer |
 | Complex formation | Mixing bRho (from ROS) with Nb2 in detergent solution | — | 10% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | bRho/Nb2 complex formed in [DDM](/xray-mp-wiki/reagents/detergents/ddm/) |
-| Immunoaffinity chromatography (for recombinant Rho) | 1D4-immunoaffinity chromatography | 1D4 antibody conjugated to CNBr-activated Sepharose 4B | 10 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.4, 0.25 M NaCl + 10% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Used for recombinant Rho expressed in HEK293 cells. Eluted with C-terminal nonapeptide. |
+| Immunoaffinity chromatography (for recombinant Rho) | 1D4-immuno[affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | 1D4 antibody conjugated to CNBr-activated Sepharose 4B | 10 mM [HEPES Buffer](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.4, 0.25 M NaCl + 10% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Used for recombinant Rho expressed in HEK293 cells. Eluted with C-terminal nonapeptide. |
 
 
 ## Crystallization
@@ -116,14 +116,14 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 | Method | Mixed micelle crystallization |
 | Protein sample | Bovine rhodopsin, solubilized from rod outer segment membranes, purified by ConA chromatography, in mixed micelles of [OTG](/xray-mp-wiki/reagents/detergents/og/) and other detergents |
 | Cryoprotection | Crystals cryocooled for data collection at 100 K |
-| Notes | Crystals belonged to space group P4(1) with unit cell a=97.25, c=149.54 A. Two molecules per asymmetric unit. Data collected at SPring-8 BL45XU (MAD, 3.3 A) and APS 19-ID (high-resolution, 2.8 A). MAD phasing using Hg derivative (soaking). Merohedral twinning was significant; least twinned data selected for phasing. Structure refined to R=23.3%, R_free=28.8% at 2.8 A. |
+| Notes | Crystals belonged to space group P4(1) with unit cell a=97.25, c=149.54 A. Two molecules per asymmetric unit. Data collected at SPring-8 BL45XU ([MAD](/xray-mp-wiki/methods/structure-determination/mad-phasing/), 3.3 A) and APS 19-ID (high-resolution, 2.8 A). [MAD](/xray-mp-wiki/methods/structure-determination/mad-phasing/) phasing using Hg derivative (soaking). Merohedral twinning was significant; least twinned data selected for phasing. Structure refined to R=23.3%, R_free=28.8% at 2.8 A. |
 
 ### doi/10.1073##pnas.0608022103
 
 | Parameter | Value |
 |---|---|
 | Method | Hanging-drop vapor diffusion |
-| Protein sample | Highly delipidated bovine rhodopsin, immunoaffinity purified, in octyl-beta-D-glucopyranoside (OG) detergent |
+| Protein sample | Highly delipidated bovine rhodopsin, immunoaffinity purified, in octyl-beta-D-glucopyranoside ([OG](/xray-mp-wiki/reagents/detergents/og/)) detergent |
 | Cryoprotection | Crystals frozen in liquid nitrogen after light exposure for photoactivation |
 | Notes | Two crystal forms obtained: rhombohedral R32 (3.8 A, one molecule per ASU) and trigonal P3(1)12 (4.1-4.2 A, three molecules per ASU). Crystals photoactivated by light exposure. |
 
@@ -131,18 +131,18 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 
 | Parameter | Value |
 |---|---|
-| Method | Lipidic cubic phase (LCP) crystallization |
-| Protein sample | Bovine rhodopsin purified via ConA affinity chromatography, detergent exchanged to 0.21% n-decyl-N,N-dimethylamine-N-oxide (DAO) in 50 mM sodium [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate/), 150 mM NaCl, 3 mM [Magnesium Chloride (MgCl₂)](/xray-mp-wiki/reagents/additives/magnesium-chloride/), pH 6.0. Concentrated to 20-25 mg/ml. |
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (LCP) crystallization |
+| Protein sample | Bovine rhodopsin purified via ConA [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/), detergent exchanged to 0.21% n-decyl-N,N-dimethylamine-N-oxide (DAO) in 50 mM sodium [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate/), 150 mM NaCl, 3 mM [Magnesium Chloride (MgCl₂)](/xray-mp-wiki/reagents/additives/magnesium-chloride/), pH 6.0. Concentrated to 20-25 mg/ml. |
 | Temperature | 20 |
 | Cryoprotection | LCP viscous medium (no cryoprotectant, room temperature data collection) |
-| Notes | Crystals grown in LCP ([Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/)-based) for TR-SFX. Crystal plates approximately 20 um large and 1.5 um thick. Type I lattice (P 2 2 2 space group). Photoactivation at 480 [NM](/xray-mp-wiki/reagents/detergents/nm/) pump laser. Data collected at SwissFEL (1 ps, 10 ps) and SACLA (100 ps) X-ray free-electron lasers. |
+| Notes | Crystals grown in [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/)-based) for TR-SFX. Crystal plates approximately 20 um large and 1.5 um thick. Type I lattice (P 2 2 2 space group). Photoactivation at 480 [NM](/xray-mp-wiki/reagents/detergents/nm/) pump laser. Data collected at SwissFEL (1 ps, 10 ps) and SACLA (100 ps) X-ray free-electron lasers. |
 
 ### doi/10.1073##pnas.1718084115
 
 | Parameter | Value |
 |---|---|
 | Method | Hanging-drop vapor diffusion |
-| Protein sample | N2C/D282C stabilized [Opsin (Retinal-Free Rhodopsin Apoprotein)](/xray-mp-wiki/proteins/gpcr/opsin/), purified via ConA affinity chromatography, in 0.05% n-dodecyl-beta-D-maltopyranoside (DDM) |
+| Protein sample | N2C/D282C stabilized [Opsin (Retinal-Free Rhodopsin Apoprotein)](/xray-mp-wiki/proteins/gpcr/opsin/), purified via ConA [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/), in 0.05% n-dodecyl-beta-D-maltopyranoside ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)) |
 | Reservoir | 0.1 M sodium [Citrate Buffer (Sodium Citrate)](/xray-mp-wiki/reagents/buffers/citrate/) pH 5.5, 0.1 M LiSO4, 24-34% [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) 1000, or 0.1 M sodium [Acetate Buffer (Sodium Acetate)](/xray-mp-wiki/reagents/buffers/acetate/) pH 5.0-5.5, 0.15-0.2 M (NH4)2SO4, 27-32% [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) 1000 |
 | Temperature | 4 |
 | Cryoprotection | Cryoprotected by soaking in reservoir solution supplemented with 25% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/) or ethylene glycol |
@@ -153,7 +153,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 | Parameter | Value |
 |---|---|
 | Method | Hanging-drop vapor diffusion |
-| Protein sample | bRho/Nb2 complex (native rhodopsin from ROS, purified by ConA/SEC, in [DDM](/xray-mp-wiki/reagents/detergents/ddm/) detergent) |
+| Protein sample | bRho/Nb2 complex (native rhodopsin from ROS, purified by ConA/[SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/), in [DDM](/xray-mp-wiki/reagents/detergents/ddm/) detergent) |
 | Reservoir | 0.1 M Tricine pH 7.8, 25.5% (v/v) [PEG (Polyethylene Glycol)](/xray-mp-wiki/reagents/additives/peg/) 600 |
 | Temperature | 4 |
 | Notes | Ground-state bRho/Nb2 crystals grown in dark. Photoactivated bRho*/Nb2 crystals obtained by illuminating ground-state crystals with intense green light (~200 uW at 500 nm) for 6 min at 4 C. |
@@ -163,7 +163,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 | Parameter | Value |
 |---|---|
 | Method | Hanging-drop vapor diffusion |
-| Protein sample | Bovine rhodopsin, purified from rod outer segments by ConA affinity chromatography, in mixed micelles containing nonyl glucoside and heptanetriol |
+| Protein sample | Bovine rhodopsin, purified from rod outer segments by ConA [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/), in mixed micelles containing nonyl glucoside and heptanetriol |
 | Temperature | 4 |
 | Notes | Crystals obtained at 4 C. Crystal quality was poor with isomorphism issues; twin fractions ranged from 0.1 to 0.4. Three data sets collected independently. |
 
@@ -182,7 +182,7 @@ Rhodopsin is the photoreceptor GPCR in vertebrate retina rod cells, responsible 
 | Parameter | Value |
 |---|---|
 | Method | Hanging-drop and sitting-drop vapor diffusion |
-| Protein sample | Rh6mr (bovine rhodopsin regenerated with 6-carbon-ring retinal) or [Opsin (Retinal-Free Rhodopsin Apoprotein)](/xray-mp-wiki/proteins/gpcr/opsin/), solubilized by zinc/alkyl-glucoside extraction method in 1% NG or 1% [OG](/xray-mp-wiki/reagents/detergents/og/), purified by SEC on Superdex 200 10/300 GL in 50 mM [MES](/xray-mp-wiki/reagents/buffers/mes/) pH 6.4 with 1% NG or 1% [OG](/xray-mp-wiki/reagents/detergents/og/) |
+| Protein sample | Rh6mr (bovine rhodopsin regenerated with 6-carbon-ring retinal) or [Opsin (Retinal-Free Rhodopsin Apoprotein)](/xray-mp-wiki/proteins/gpcr/opsin/), solubilized by zinc/alkyl-glucoside extraction method in 1% NG or 1% [OG](/xray-mp-wiki/reagents/detergents/og/), purified by [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) on [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) 10/300 GL in 50 mM [MES](/xray-mp-wiki/reagents/buffers/mes/) pH 6.4 with 1% NG or 1% [OG](/xray-mp-wiki/reagents/detergents/og/) |
 | Reservoir | 2.8-3.4 M ammonium sulfate in 0.05-0.1 M [MES](/xray-mp-wiki/reagents/buffers/mes/) pH 6.1-6.6 or 0.05-0.1 M NaAcO buffer pH 5.2-5.6 |
 | Temperature | 4 |
 | Cryoprotection | Crystals transferred directly from mother liquor into dual-thickness microloops and plunged into liquid nitrogen |

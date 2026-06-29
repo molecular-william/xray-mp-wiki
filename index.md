@@ -627,7 +627,7 @@ orient |
 | method | methods/structure-determination/time-resolved-serial-synchrotron-crystallography/ | Time-Resolved Serial Synchrotron Crystallography (TR-SMX) | Time-resolved serial synchrotron crystallography (TR-SMX) adapts injector-based  |
 | method | methods/structure-determination/umbrella-sampling/ | Umbrella Sampling | Umbrella sampling (US) is an enhanced sampling molecular dynamics technique used |
 | method | methods/structure-determination/xray-crystallography/ | X-ray Crystallography | X-ray crystallography is a technique for determining the atomic and molecular st |
-| protein | proteins/abc-transporters/aaprtd/ | Aquifex aeolicus PrtD (AaPrtD) Type-1 Secretion System ABC Transporter | AaPrtD is the ABC transporter component of the Type-1 secretion system (T1SS) fr |
+| protein | proteins/abc-transporters/aaprtd/ | Aquifex aeolicus PrtD (AaPrtD) Type-1 Secretion System ABC Transporter | [AaPrtD](/xray-mp-wiki/proteins/aaprtd/) is the ABC transporter component of the |
 | protein | proteins/abc-transporters/aawzmwzt/ | AaWzmWzt (O Antigen ABC Transporter from Aquifex aeolicus) | AaWzmWzt is an [ABC Transporter](/xray-mp-wiki/concepts/transport-mechanisms/abc |
 | protein | proteins/abc-transporters/ab-macb/ | MacB ABC Transporter from Acinetobacter baumannii | MacB from Acinetobacter baumannii is an ATP-binding cassette (ABC) transporter t |
 | protein | proteins/abc-transporters/abcb10/ | Human ABCB10 Mitochondrial ATP-Binding Cassette Transporter | ABCB10 is a human [ATP](/xray-mp-wiki/reagents/ligands/atp/)-binding cassette (A |
@@ -806,7 +806,7 @@ detec |
 | protein | proteins/enzymes/pbsrd5a/ | PbSRD5A Steroid 5α-Reductase (Proteobacteria bacterium) | PbSRD5A is a steroid 5α-reductase from *Proteobacteria bacterium*, a homolog of  |
 | protein | proteins/enzymes/pc-mangt/ | PcManGT Mannosyltransferase | PcManGT is a crenarchaeal membrane glycosyltransferase from Pyrobaculum calidifo |
 | protein | proteins/enzymes/pglb-campylobacter-lari/ | PglB (Campylobacter lari Oligosaccharyltransferase) | PglB is a single-subunit oligosaccharyltransferase (OST) from the Gram-negative  |
-| protein | proteins/enzymes/pip-synthase-rs/ | Phosphatidylinositol-Phosphate Synthase (RsPIPS) from Renibacterium salmoninarum | Phosphatidylinositol-phosphate (PIP) synthase catalyses the first step of phosph |
+| protein | proteins/enzymes/pip-synthase-rs/ | Phosphatidylinositol-Phosphate Synthase (RsPIPS) from Renibacterium salmoninarum | Phosphatidylinositol-phosphate (PIP) synthase catalyses the first step of [Phosp |
 | protein | proteins/enzymes/pmmo/ | Particulate Methane Monooxygenase (pMMO) from Methylococcus capsulatus (Bath) | Particulate methane monooxygenase (pMMO) is an integral membrane metalloenzyme t |
 | protein | proteins/enzymes/pmulaa/ | Pasteurella multocida Ascorbate Transporter EIIC (pmUlaA) | pmUlaA is the EIIC component of the L-ascorbate (vitamin C) phosphoenolpyruvate- |
 | protein | proteins/enzymes/polysulfide-reductase/ | Polysulfide Reductase (PsrABC) from Thermus thermophilus | Polysulfide reductase (PsrABC) from Thermus thermophilus is an integral membrane |
@@ -985,12 +985,12 @@ t |
 | protein | proteins/mfs-transporters/ltaa/ | LtaA — S. aureus Lipid-Linked Disaccharide Flippase | LtaA is a proton-coupled antiporter flippase from Staphylococcus aureus
 that tra |
 | protein | proteins/mfs-transporters/mdfA/ | MdfA Multidrug Efflux Transporter | MdfA is a secondary multidrug efflux transporter from Escherichia coli belonging |
-| protein | proteins/mfs-transporters/mdfa-i239t-g354e/ | MdfA Multidrug Transporter I239T/G354E Variant (E. coli) | MdfA is a prototypical H+-coupled multidrug transporter from E. coli belonging t |
+| protein | proteins/mfs-transporters/mdfa-i239t-g354e/ | MdfA Multidrug Transporter I239T/G354E Variant (E. coli) | [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA |
 | protein | proteins/mfs-transporters/mdfa/ | Multidrug Transporter MdfA (E26T/D34M/A150E) from Escherichia coli | [MdfA Multidrug Efflux Transporter](/xray-mp-wiki/proteins/mfs-transporters/mdfA |
 | protein | proteins/mfs-transporters/melbst/ | Melibiose Permease from Salmonella typhimurium (MelBSt) | [Melibiose](/xray-mp-wiki/reagents/ligands/melibiose) permease (MelB) from Salmo |
 | protein | proteins/mfs-transporters/nark/ | NarK Nitrate/Nitrite Antiporter from Escherichia coli | NarK is a nitrate/nitrite antiporter from the nitrate/nitrite porter (NNP) famil |
 | protein | proteins/mfs-transporters/naru/ | NarU Nitrate/Nitrite Transporter from Escherichia coli | NarU is a nitrate/nitrite transporter from Escherichia coli belonging to the
-nit |
+[Ni |
 | protein | proteins/mfs-transporters/nupg/ | NupG Nucleoside Proton Symporter from Escherichia coli | NupG is a nucleoside proton symporter from [Escherichia coli](/xray-mp-wiki/prot |
 | protein | proteins/mfs-transporters/oxit/ | Oxalate Transporter OxIT from Oxalobacter formigenes | Oxalate transporter OxIT is an oxalate:formate antiporter (OFA) from the gut bac |
 | protein | proteins/mfs-transporters/pept-sh/ | PepT_Sh — SLC15/POT Family Peptide Transporter from Staphylococcus hominis | PepT_Sh is a prokaryotic homolog of the mammalian proton-coupled oligopeptide tr |
@@ -1004,7 +1004,7 @@ t |
 | protein | proteins/mfs-transporters/sotb/ | SotB (Escherichia coli Drug-Proton Antiporter) | SotB is a drug-proton antiporter (DHA) from the DHA1 family (TCDB: 2.A.1.2) of t |
 | protein | proteins/mfs-transporters/stp10/ | A. thaliana STP10 | A. thaliana STP10 is a high-affinity [Glucose](/xray-mp-wiki/reagents/additives/ |
 | protein | proteins/mfs-transporters/xyle/ | XylE (Escherichia coli Sugar Transporter) | XylE is an Escherichia coli homologue of the human [Glucose](/xray-mp-wiki/reage |
-| protein | proteins/mfs-transporters/yajr-transporter/ | YajR Transporter (E. coli MFS Drug Efflux Transporter) | YajR is a 49-kDa putative proton-driven MFS (Major Facilitator Superfamily) drug |
+| protein | proteins/mfs-transporters/yajr-transporter/ | YajR Transporter (E. coli MFS Drug Efflux Transporter) | YajR is a 49-kDa putative proton-driven [MFS](/xray-mp-wiki/concepts/major-facil |
 | protein | proteins/mfs-transporters/ybgH/ | E. coli YbgH Peptide Transporter | YbgH (also known as DtpD) is a proton-dependent oligopeptide transporter (POT) f |
 | protein | proteins/mfs-transporters/yegt/ | YegT Nucleoside Proton Symporter from Escherichia coli | YegT is a member of the nucleoside proton symporter (NHS) family within the [Maj |
 | protein | proteins/mfs-transporters/yepept/ | YePEPT (Yersinia enterocolitica Peptide Transporter) | YePEPT is a proton-dependent oligopeptide transporter (POT) family member from
@@ -1081,7 +1081,7 @@ collecti |
 | protein | proteins/other-ion-channels/mscl/ | Mechanosensitive Channel of Large Conductance MscL (Mycobacterium tuberculosis) | MscL (mechanosensitive channel of large conductance) from Mycobacterium tubercul |
 | protein | proteins/other-ion-channels/nerh50/ | NeRh50 (Nitrosomonas europaea Rh50 Ammonia Channel) | NeRh50 is a bacterial homologue of the human Rhesus (Rh) 50 glycoprotein from Ni |
 | protein | proteins/other-ion-channels/osnip2-1/ | OsNIP2;1 (Silicon Transporter Lsi1 from Oryza sativa) | OsNIP2;1 (Nodulin26-like Intrinsic Protein 2;1) is a silicon transporter from th |
-| protein | proteins/other-ion-channels/pfaqp/ | Aquaglyceroporin PfAQP from Plasmodium falciparum | PfAQP is the sole aquaporin family member in the malarial parasite Plasmodium fa |
+| protein | proteins/other-ion-channels/pfaqp/ | Aquaglyceroporin PfAQP from Plasmodium falciparum | PfAQP is the sole [Aquaporin Family](/xray-mp-wiki/concepts/transport-mechanisms |
 | protein | proteins/other-ion-channels/rh-protein-nitrosomonas-europaeae/ | Rh Protein from Nitrosomonas europaea | The Rh protein from Nitrosomonas europaea is the first determined structure of a |
 | protein | proteins/other-ion-channels/rhcg/ | Human Rhesus C Glycoprotein (RhCG) | RhCG (Rhesus C glycoprotein) is a human ammonia channel belonging to the Rh fami |
 | protein | proteins/other-ion-channels/salmonella-typhimurium-foca/ | Salmonella typhimurium FocA Formate Channel (StFocA) | FocA (formate channel) from Salmonella typhimurium is a pentameric integral memb |
@@ -1252,7 +1252,7 @@ choanoflage |
 | protein | proteins/rhodopsins/virchr1/ | VirChR1 | VirChR1 is a viral channelrhodopsin from the VR1 group, encoded by TARA-146-SRF- |
 | protein | proteins/rhodopsins/xanthorhodopsin/ | Xanthorhodopsin | Xanthorhodopsin is a light-driven proton pump from the eubacterium Salinibacter  |
 | protein | proteins/secretion-translocon/bacillus-halodurans-yidc2/ | Bacillus halodurans YidC2 (BhYidC2) | YidC is a conserved membrane protein insertase that inserts its substrates into  |
-| protein | proteins/secretion-translocon/bcs1/ | Mouse Bcs1 (AAA Protein Translocase) | Bcs1 is a mitochondrial membrane-bound AAA+ ATPase that translocates folded prot |
+| protein | proteins/secretion-translocon/bcs1/ | Mouse Bcs1 (AAA Protein Translocase) | Bcs1 is a mitochondrial membrane-bound [AAA](/xray-mp-wiki/reagents/ligands/aaa/ |
 | protein | proteins/secretion-translocon/ec-yidc/ | Escherichia coli YidC | YidC is an essential bacterial membrane protein insertase and chaperone that med |
 | protein | proteins/secretion-translocon/espB/ | EspB | EspB is a secreted virulence factor from Mycobacterium tuberculosis, encoded wit |
 | protein | proteins/secretion-translocon/espg1/ | EspG1 | EspG1 is the ESX-1-specific chaperone from Mycobacterium tuberculosis that belon |
@@ -1437,7 +1437,7 @@ member |
 | protein | proteins/voltage-gated-channels/mt-tmem175/ | MtTMEM175 K+ channel from Marivirga tractuosa | TMEM175 is a family of non-canonical K⁺ channels found in animals, eubacteria,
 a |
 | protein | proteins/voltage-gated-channels/mthk/ | MthK (Methanobacterium thermoautotrophicum K+ Channel) | MthK is a calcium-gated potassium channel from the archaeon Methanobacterium the |
-| protein | proteins/voltage-gated-channels/nachbac/ | NaChBac Bacterial Voltage-Gated Sodium Channel | NaChBac is a bacterial voltage-gated sodium channel from Enterococcus hirae, rec |
+| protein | proteins/voltage-gated-channels/nachbac/ | NaChBac Bacterial Voltage-Gated Sodium Channel | [NaChBac](/xray-mp-wiki/proteins/nachbac/) is a bacterial voltage-gated sodium c |
 | protein | proteins/voltage-gated-channels/nak-channel/ | NaK Channel from Bacillus cereus | NaK is a non-selective tetrameric cation channel from Bacillus cereus that condu |
 | protein | proteins/voltage-gated-channels/nav1-4-cterm-cam/ | Human Naᵥ1.4 C-Terminal Domain in Complex with Calmodulin | Voltage-gated sodium channels Naᵥ1.4 (skeletal muscle) and Naᵥ1.5 (cardiac) are  |
 | protein | proteins/voltage-gated-channels/nav1-7/ | Human Nav1.7 Voltage-Gated Sodium Channel | Nav1.7 (encoded by SCN9A) is a voltage-gated sodium channel isoform highly expre |
@@ -1452,7 +1452,7 @@ Sulfi |
 | protein | proteins/voltage-gated-channels/ry1/ | Ryanodine Receptor Type 1 (RyR1) | Ryanodine receptor type 1 (RyR1) is the calcium release channel isoform primaril |
 | protein | proteins/voltage-gated-channels/ry2-spry1/ | Mouse RyR2 SPRY1 Domain | The SPRY1 domain of mouse Ryanodine Receptor Type 2 (RyR2), spanning residues 65 |
 | protein | proteins/voltage-gated-channels/ry2/ | Ryanodine Receptor Type 2 (RyR2) | Ryanodine receptor type 2 (RyR2) is the calcium release channel isoform primaril |
-| protein | proteins/voltage-gated-channels/ry3/ | Ryanodine Receptor Type 3 (RyR3) | Ryanodine receptor type 3 (RyR3) is the calcium release channel isoform primaril |
+| protein | proteins/voltage-gated-channels/ry3/ | Ryanodine Receptor Type 3 (RyR3) | [Ryanodine Receptor (RyR)](/xray-mp-wiki/proteins/voltage-gated-channels/ryanodi |
 | protein | proteins/voltage-gated-channels/ryanodine-receptor/ | Ryanodine Receptor (RyR) | Ryanodine receptors (RyRs) are large (~2.2 MDa) calcium release channels located |
 | protein | proteins/voltage-gated-channels/sa-mscl/ | Staphylococcus aureus MscL (Mechanosensitive Channel of Large Conductance) | SaMscL is the mechanosensitive channel of large conductance from Staphylococcus  |
 | protein | proteins/voltage-gated-channels/sa-tric/ | SaTRIC Channel from Sulfolobus acidocaldarius | SaTRIC is a Trimeric Intracellular Cation (TRIC) channel from the archaeon Sulfo |

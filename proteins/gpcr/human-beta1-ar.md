@@ -40,18 +40,18 @@ The beta-1 adrenergic receptor (beta1 AR) is a G protein-coupled receptor (GPCR)
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Solubilization | Membrane solubilization |  | 20 mM HEPES pH 7.5, 100 mM NaCl, 1% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 1% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) + 0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | For inactive-state beta1 AR (carazolol-bound) |
-| M1 Flag [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | M1 Flag affinity resin (Sigma) | 20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Purified with 10 uM [Carazolol](/xray-mp-wiki/reagents/ligands/carazolol/) for inactive state |
-| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | SEC | SEC column | 20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Final buffer with 10 uM [Carazolol](/xray-mp-wiki/reagents/ligands/carazolol/) for inactive state |
+| M1 Flag [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | M1 [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) affinity resin (Sigma) | 20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Purified with 10 uM [Carazolol](/xray-mp-wiki/reagents/ligands/carazolol/) for inactive state |
+| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) column | 20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Final buffer with 10 uM [Carazolol](/xray-mp-wiki/reagents/ligands/carazolol/) for inactive state |
 
 
 ##### Steps
 
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
-| Solubilization and M1 Flag affinity | Same as inactive but with agonists | M1 Flag affinity resin | 20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Purified with target agonists (100 nM [BI-167107](/xray-mp-wiki/reagents/ligands/bi-167107/), 1 mM [Epinephrine](/xray-mp-wiki/reagents/ligands/epinephrine/), or 1 mM [Norepinephrine](/xray-mp-wiki/reagents/ligands/norepinephrine/)) |
+| Solubilization and M1 Flag affinity | Same as inactive but with agonists | M1 [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) affinity resin | 20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Purified with target agonists (100 nM [BI-167107](/xray-mp-wiki/reagents/ligands/bi-167107/), 1 mM [Epinephrine](/xray-mp-wiki/reagents/ligands/epinephrine/), or 1 mM [Norepinephrine](/xray-mp-wiki/reagents/ligands/norepinephrine/)) |
 | Nb6B9 incubation | Complex formation |  | Same as above + 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Mixed with 1.2-fold molar excess of Nb6B9 overnight at 4 C |
 | Nickel [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [Affinity Chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) (pull-down) | Nickel affinity resin | Same as above + 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Pull-down of functional receptor-Nb6B9 complex via His-tagged Nb6B9 |
-| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | SEC | SEC column | 20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Excess Nb6B9 removed; agonists maintained in buffer |
+| [Size-Exclusion Chromatography](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) column | 20 mM HEPES pH 7.5, 100 mM NaCl, 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) + 0.01% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.0002% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Excess Nb6B9 removed; agonists maintained in buffer |
 
 
 ## Crystallization
@@ -60,14 +60,14 @@ The beta-1 adrenergic receptor (beta1 AR) is a G protein-coupled receptor (GPCR)
 
 | Parameter | Value |
 |---|---|
-| Method | Lipidic cubic phase (LCP) |
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
 | Protein sample | T4L-beta1AR-[Carazolol](/xray-mp-wiki/reagents/ligands/carazolol/) complex reconstituted in [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) with 10% [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
 | Temperature | Not specified |
 | Notes | Inactive state crystals; protein:lipid ratio 2:3 |
 
 | Parameter | Value |
 |---|---|
-| Method | Lipidic cubic phase (LCP) |
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
 | Protein sample | T4L-beta1AR-Nb6B9-agonist complexes reconstituted in [Monoolein](/xray-mp-wiki/reagents/lipids/monoolein/) with 10% [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) |
 | Temperature | Not specified |
 | Notes | Active state crystals ([BI-167107](/xray-mp-wiki/reagents/ligands/bi-167107/), [Norepinephrine](/xray-mp-wiki/reagents/ligands/norepinephrine/), and [Epinephrine](/xray-mp-wiki/reagents/ligands/epinephrine/) complexes); protein:lipid ratio 2:3 |

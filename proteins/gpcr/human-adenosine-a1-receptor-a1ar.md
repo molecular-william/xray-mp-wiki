@@ -39,10 +39,10 @@ The human adenosine A1 receptor (A1AR) is a class A G protein-coupled receptor t
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Expression and membrane preparation | Baculovirus expression in Sf9 insect cells; cells harvested 48 hr post-infection, membranes prepared by homogenization and ultracentrifugation | — | 10 mM HEPES pH 7.5, 150 mM NaCl, protease inhibitors + -- | DU172 (0.2 uM) added to membranes before solubilization |
-| Solubilization | Detergent solubilization | -- | 10 mM HEPES pH 7.5, 150 mM NaCl + 1% DDM, 0.2% sodium cholate, 0.2% CHS | Solubilized for 2 hr at 4C in presence of 0.2 uM DU172 |
-| TALON IMAC | Immobilized metal affinity chromatography | TALON IMAC resin | 10 mM HEPES pH 7.5, 150 mM NaCl, 0.05% DDM, 0.01% sodium cholate, 0.01% CHS, 50 mM imidazole + 0.05% DDM, 0.01% sodium cholate, 0.01% CHS | Eluted with 200 mM imidazole; 0.2 uM DU172 present throughout |
-| Anti-Flag M1 affinity | Anti-Flag M1 affinity chromatography | Anti-Flag M1 affinity resin | 0.05% LMNG (detergent exchanged from DDM) + 0.05% LMNG | Detergent exchanged to LMNG on resin |
-| SEC | Size exclusion chromatography | Superdex 200 | 20 mM HEPES pH 7.5, 150 mM NaCl, 0.05% LMNG, 0.005% CHS, 0.2 uM DU172 + 0.05% LMNG, 0.005% CHS | Concentrated to ~50 mg/mL for LCP crystallization |
+| Solubilization | Detergent solubilization | -- | 10 mM HEPES pH 7.5, 150 mM NaCl + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.2% sodium cholate, 0.2% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Solubilized for 2 hr at 4C in presence of 0.2 uM DU172 |
+| TALON IMAC | Immobilized metal [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC resin | 10 mM HEPES pH 7.5, 150 mM NaCl, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% sodium cholate, 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 50 mM imidazole + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% sodium cholate, 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Eluted with 200 mM imidazole; 0.2 uM DU172 present throughout |
+| Anti-Flag M1 affinity | Anti-[FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) M1 [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | Anti-[FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) M1 affinity resin | 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) (detergent exchanged from [DDM](/xray-mp-wiki/reagents/detergents/ddm/)) + 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) | Detergent exchanged to [LMNG](/xray-mp-wiki/reagents/detergents/lmng/) on resin |
+| SEC | [SEC](/xray-mp-wiki/methods/purification/size-exclusion-chromatography/) | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) | 20 mM HEPES pH 7.5, 150 mM NaCl, 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 0.2 uM DU172 + 0.05% [LMNG](/xray-mp-wiki/reagents/detergents/lmng/), 0.005% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Concentrated to ~50 mg/mL for [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) crystallization |
 
 #### Source: doi/10.1016##j.str.2017.06.012
 
@@ -52,10 +52,10 @@ The human adenosine A1 receptor (A1AR) is a class A G protein-coupled receptor t
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Membrane preparation | HEK293T cell expression; membranes prepared in 40 mM Tris-HCl pH 7.6, 1 mM EDTA with protease inhibitors | -- | 40 mM Tris-HCl pH 7.6, 1 mM EDTA + -- | Cells expressed in HEK293T; 0.6 mg/L yield |
-| Solubilization | Membranes solubilized with 1.5% DM for 1 hr at 4 C in presence of 10 uM PSB36 | -- | 40 mM Tris-HCl pH 7.6 + 1.5% DM | Incubated 1 hr at room temperature with PSB36 before solubilization |
-| Ni-NTA affinity chromatography | Batch binding to 5 ml Ni-NTA superflow cartridge; washed with 5 CV of 8 mM imidazole, 25 CV of 68 mM imidazole; eluted with 272 mM imidazole | Ni-NTA superflow cartridge (Qiagen) | 40 mM Tris-HCl pH 7.4, 400 mM NaCl, 0.15% DM, 5 uM PSB36 (binding); 8 mM imidazole (wash); 272 mM imidazole (elution)
- + 0.15% DM | All buffers contained 5 uM PSB36 |
-| Size-exclusion chromatography | Superdex 200 10/300 GL column | Superdex 200 10/300 GL (GE Healthcare) | 40 mM Tris-HCl pH 7.4, 200 mM NaCl, 0.15% DM, 5 uM PSB36 + 0.15% DM | Fractions concentrated to ~37 mg/mL |
+| Solubilization | Membranes solubilized with 1.5% [DM](/xray-mp-wiki/reagents/detergents/dm/) for 1 hr at 4 C in presence of 10 uM PSB36 | -- | 40 mM Tris-HCl pH 7.6 + 1.5% [DM](/xray-mp-wiki/reagents/detergents/dm/) | Incubated 1 hr at room temperature with PSB36 before solubilization |
+| Ni-NTA affinity chromatography | Batch binding to 5 ml [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) superflow cartridge; washed with 5 CV of 8 mM imidazole, 25 CV of 68 mM imidazole; eluted with 272 mM imidazole | [Ni-NTA](/xray-mp-wiki/reagents/additives/nickel-nta/) superflow cartridge (Qiagen) | 40 mM Tris-HCl pH 7.4, 400 mM NaCl, 0.15% [DM](/xray-mp-wiki/reagents/detergents/dm/), 5 uM PSB36 (binding); 8 mM imidazole (wash); 272 mM imidazole (elution)
+ + 0.15% [DM](/xray-mp-wiki/reagents/detergents/dm/) | All buffers contained 5 uM PSB36 |
+| Size-exclusion chromatography | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) 10/300 GL column | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) 10/300 GL (GE Healthcare) | 40 mM Tris-HCl pH 7.4, 200 mM NaCl, 0.15% [DM](/xray-mp-wiki/reagents/detergents/dm/), 5 uM PSB36 + 0.15% [DM](/xray-mp-wiki/reagents/detergents/dm/) | Fractions concentrated to ~37 mg/mL |
 
 
 ## Crystallization
@@ -64,8 +64,8 @@ The human adenosine A1 receptor (A1AR) is a class A G protein-coupled receptor t
 
 | Parameter | Value |
 |---|---|
-| Method | Lipidic cubic phase (LCP) crystallization |
-| Protein sample | A1AR-BRIL fusion in complex with DU172 at ~50 mg/mL mixed with monoolein and cholesterol at 40:54:6 (w:w:w) ratio |
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) crystallization |
+| Protein sample | A1AR-[BRIL](/xray-mp-wiki/reagents/protein-tags/bril/) fusion in complex with DU172 at ~50 mg/mL mixed with monoolein and cholesterol at 40:54:6 (w:w:w) ratio |
 | Temperature | 20 C |
 | Growth time | 2 wk |
 | Notes | 29 crystals merged into single dataset at 3.2 A resolution, space group P1; two receptor copies per asymmetric unit; structure solved by molecular replacement; lipid cubic phase method |
@@ -74,12 +74,12 @@ The human adenosine A1 receptor (A1AR) is a class A G protein-coupled receptor t
 
 | Parameter | Value |
 |---|---|
-| Method | Lipidic cubic phase (LCP) [crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) |
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) [crystallization](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) |
 | Protein sample | A1R-StaR-Delta3-b562RIL in complex with PSB36 at ~37 mg/mL mixed with monoolein and cholesterol at 40:54:6 (w:w:w) ratio |
 | Temperature | 20 C |
 | Growth time | 2 crystals merged |
 | Cryoprotection | -- |
-| Notes | Crystallized in lipidic cubic phase at Diamond Light Source. Data collected at 3.3 A resolution, space group C22222, 2 crystals merged. Structure solved by molecular replacement.
+| Notes | Crystallized in [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) at Diamond Light Source. Data collected at 3.3 A resolution, space group C22222, 2 crystals merged. Structure solved by molecular replacement.
  |
 
 

@@ -36,9 +36,9 @@ The human thromboxane A2 receptor (TP) is a class A G-protein-coupled receptor t
 | Step | Method | Resin / Column | Buffer + Detergent | Notes |
 |---|---|---|---|---|
 | Membrane preparation | Hypotonic lysis and centrifugation | — | 10 mM HEPES pH 7.5, 10 mM MgCl2, 20 mM KCl, protease inhibitors | Washed with high-salt buffer (1 M NaCl) to remove membrane-associated proteins |
-| Solubilization | DDM solubilization | — | 50 mM HEPES pH 7.5, 150 mM NaCl, 0.5% DDM, 0.1% CHS | Incubated 3 h at 4°C with 100 uM ramatroban or daltroban |
-| Affinity chromatography | TALON IMAC | TALON IMAC resin (Clontech) | 20 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol, 0.05% DDM, 0.01% CHS, 30 mM imidazole | Washed with 30 column volumes; eluted with 200-300 mM imidazole |
-| Final purification | Size-exclusion chromatography | Superdex 200 Increase 10/300 GL | 25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol, 0.05% DDM, 0.01% CHS | Peak fractions pooled and concentrated |
+| Solubilization | [DDM](/xray-mp-wiki/reagents/detergents/ddm/) solubilization | — | 50 mM HEPES pH 7.5, 150 mM NaCl, 0.5% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.1% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Incubated 3 h at 4°C with 100 uM ramatroban or daltroban |
+| Affinity chromatography | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC resin (Clontech) | 20 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 30 mM imidazole | Washed with 30 column volumes; eluted with 200-300 mM imidazole |
+| Final purification | Size-exclusion chromatography | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) Increase 10/300 GL | 25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Peak fractions pooled and concentrated |
 
 
 ## Crystallization
@@ -47,12 +47,12 @@ The human thromboxane A2 receptor (TP) is a class A G-protein-coupled receptor t
 
 | Parameter | Value |
 |---|---|
-| Method | Lipidic cubic phase (LCP) |
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (LCP) |
 | Protein sample | TP-ramatroban complex at ~25 mg/mL |
 | Temperature | 20\u00B0C |
 | Growth time | 3-4 weeks |
 | Cryoprotection | PEG 400 as cryoprotectant (by LCP method) |
-| Notes | Crystals grew in LCP with monoolein (9.5 A/0.9 A); data collected from 16 crystals for ramatroban, 49 crystals for daltroban |
+| Notes | Crystals grew in [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) with monoolein (9.5 A/0.9 A); data collected from 16 crystals for ramatroban, 49 crystals for daltroban |
 
 
 ## Biological / Functional Insights

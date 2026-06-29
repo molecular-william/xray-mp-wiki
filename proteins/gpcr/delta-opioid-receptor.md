@@ -50,10 +50,10 @@ The δ-opioid receptor (DOP) is a class A G protein-coupled receptor (GPCR) that
 |---|---|---|---|---|
 | Cell culture and expression | Baculovirus infection in Sf9 cells | — |  | Cells grown to 4×10^6 cells/mL, infected with δ-OR-T4L baculovirus, shaken at 27°C for 48 h, harvested and stored at -80°C. 10 μM naloxone present during expression. |
 | Cell lysis | Osmotic shock | — | 10 mM [Tris Hcl](/xray-mp-wiki/reagents/buffers/tris/) pH 7.5, 1 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/), 1 μM [Naltrindole](/xray-mp-wiki/reagents/ligands/naltrindole/), 2 mg/mL [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) | [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/) added to block reactive cysteines |
-| Membrane solubilization | Detergent extraction | — | 20 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 0.5 M NaCl, 30% v/v [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 2 mg/mL [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/), 1 μM [Naltrindole](/xray-mp-wiki/reagents/ligands/naltrindole/) + 1.0% lauryl [Maltose](/xray-mp-wiki/reagents/additives/maltose/) neopentyl glycol (MNG), 0.3% sodium cholate, 0.03% [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) hemisuccinate (CHS) | Membranes homogenized with glass dounce homogenizer, mixed at 4°C for 1 h, centrifuged at high speed |
-| Ni-NTA affinity chromatography | Nickel affinity chromatography | — | 0.1% MNG, 0.03% sodium cholate, 0.01% CHS, 20 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 0.5 M NaCl, 1 μM [Naltrindole](/xray-mp-wiki/reagents/ligands/naltrindole/) | Resin washed 3x in batch, eluted with 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) in washing buffer |
-| Anti-Flag M1 affinity chromatography | Flag antibody affinity chromatography | — | 0.1% MNG, 0.01% CHS, 20 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 1 μM [Naltrindole](/xray-mp-wiki/reagents/ligands/naltrindole/); salt gradient from 0.5 M to 0.1 M NaCl | Eluted with 0.2 mg/mL Flag peptide and 2 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/) in 0.01% MNG, 0.001% CHS, 20 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 0.1 M NaCl, 1 μM [Naltrindole](/xray-mp-wiki/reagents/ligands/naltrindole/) |
-| TEV protease cleavage | Proteolytic cleavage | — |  | TEV protease added at 1:3 TEV:δ-OR-T4L ratio by weight to remove flexible N and C termini |
+| Membrane solubilization | Detergent extraction | — | 20 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 0.5 M NaCl, 30% v/v [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 2 mg/mL [Iodoacetamide](/xray-mp-wiki/reagents/additives/iodoacetamide/), 1 μM [Naltrindole](/xray-mp-wiki/reagents/ligands/naltrindole/) + 1.0% lauryl [Maltose](/xray-mp-wiki/reagents/additives/maltose/) neopentyl glycol (MNG), 0.3% sodium cholate, 0.03% [Cholesterol](/xray-mp-wiki/reagents/lipids/cholesterol/) hemisuccinate ([CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/)) | Membranes homogenized with glass dounce homogenizer, mixed at 4°C for 1 h, centrifuged at high speed |
+| Ni-NTA affinity chromatography | Nickel [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | — | 0.1% MNG, 0.03% sodium cholate, 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 20 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 0.5 M NaCl, 1 μM [Naltrindole](/xray-mp-wiki/reagents/ligands/naltrindole/) | Resin washed 3x in batch, eluted with 300 mM [Imidazole](/xray-mp-wiki/reagents/additives/imidazole/) in washing buffer |
+| Anti-Flag M1 affinity chromatography | [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) antibody [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | — | 0.1% MNG, 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 20 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 1 μM [Naltrindole](/xray-mp-wiki/reagents/ligands/naltrindole/); salt gradient from 0.5 M to 0.1 M NaCl | Eluted with 0.2 mg/mL [FLAG](/xray-mp-wiki/reagents/protein-tags/flag-tag/) peptide and 2 mM [EDTA](/xray-mp-wiki/reagents/additives/edta/) in 0.01% MNG, 0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 20 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 0.1 M NaCl, 1 μM [Naltrindole](/xray-mp-wiki/reagents/ligands/naltrindole/) |
+| TEV protease cleavage | Proteolytic cleavage | — |  | [TEV](/xray-mp-wiki/reagents/enzymes/tev-protease/) protease added at 1:3 [TEV](/xray-mp-wiki/reagents/enzymes/tev-protease/):δ-OR-T4L ratio by weight to remove flexible N and C termini |
 
 
 ## Crystallization
@@ -63,7 +63,7 @@ The δ-opioid receptor (DOP) is a class A G protein-coupled receptor (GPCR) that
 | Parameter | Value |
 |---|---|
 | Method | Lipidic mesophase (in meso) |
-| Protein sample | Mouse δ-OR-T4L purified in 0.01% MNG, 0.001% CHS, 20 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 0.1 M NaCl, 1 μM [Naltrindole](/xray-mp-wiki/reagents/ligands/naltrindole/) |
+| Protein sample | Mouse δ-OR-T4L purified in 0.01% MNG, 0.001% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 20 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 0.1 M NaCl, 1 μM [Naltrindole](/xray-mp-wiki/reagents/ligands/naltrindole/) |
 | Temperature | 20 |
 | Notes | Crystallized using the lipidic mesophase technique. Diffraction data collected from 20 crystals and merged for structure solution. Structure solved by molecular replacement at 3.4 Å resolution.
  |
@@ -72,26 +72,26 @@ The δ-opioid receptor (DOP) is a class A G protein-coupled receptor (GPCR) that
 
 | Parameter | Value |
 |---|---|
-| Method | Lipidic cubic phase (LCP) for serial femtosecond crystallography (XFEL) |
-| Protein sample | BRIL-Δ₃₈δ-OR purified in 25 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 500 mM NaCl, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% CHS, 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 1% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.1 mM DIPP-NH₂ |
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (LCP) for serial femtosecond crystallography (XFEL) |
+| Protein sample | [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-Δ₃₈δ-OR purified in 25 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 500 mM NaCl, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 5% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 1% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.1 mM DIPP-NH₂ |
 | Lipid | Monoolein |
 | Protein-to-lipid ratio | 2:3 (protein:lipid) |
 | Temperature | 20 |
-| Notes | LCP crystals were used for serial femtosecond crystallography at the LCLS CXI beamline. Crystals were injected using an LCP injector. 4.6 h collection yielded 36,083 indexed patterns. Structure determined by molecular replacement using naltindole-bound δ-OR as search model. Two structures determined: XFEL structure at 2.73 Å and synchrotron structure at 3.0 Å; both highly similar (rmsd 0.5 Å).
+| Notes | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) crystals were used for serial femtosecond crystallography at the LCLS CXI beamline. Crystals were injected using an [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) injector. 4.6 h collection yielded 36,083 indexed patterns. Structure determined by molecular replacement using naltindole-bound δ-OR as search model. Two structures determined: XFEL structure at 2.73 Å and synchrotron structure at 3.0 Å; both highly similar (rmsd 0.5 Å).
  |
 
 ### doi/10.1126##sciadv.aax9115
 
 | Parameter | Value |
 |---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Protein sample | BRIL-DOP bound to KGCHM07 or DPI-287 in 25 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 500 mM NaCl, 2% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% CHS |
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) (LCP) |
+| Protein sample | [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-DOP bound to KGCHM07 or DPI-287 in 25 mM [Hepes](/xray-mp-wiki/reagents/buffers/hepes/) pH 7.5, 500 mM NaCl, 2% [Glycerol](/xray-mp-wiki/reagents/additives/glycerol/), 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) |
 | Lipid | Monoolein with 10% (w/w) cholesterol |
 | Protein-to-lipid ratio | 2:3 (protein:lipid) |
 | Temperature | 20 |
 | Growth time | 10 days |
 | Cryoprotection | Flash-frozen in liquid nitrogen |
-| Notes | BRIL-DOP-KGCHM07: 27-32% [Peg 400](/xray-mp-wiki/reagents/additives/peg-400/), 100-120 mM potassium [Citrate](/xray-mp-wiki/reagents/buffers/citrate/), 100 mM [MES](/xray-mp-wiki/reagents/buffers/mes/) pH 6.0, crystals ~70 μm. BRIL-DOP-DPI-287: 32-35% [Peg 400](/xray-mp-wiki/reagents/additives/peg-400/), 100-110 mM potassium [Citrate](/xray-mp-wiki/reagents/buffers/citrate/), 100 mM [MES](/xray-mp-wiki/reagents/buffers/mes/) pH 6.0, crystals 100-140 μm. Both crystallized at 20°C. Crystals appeared overnight, full size in ~10 days. 20 μM BMS986187 (PAM) added during DPI-287 purification but no electron density observed.
+| Notes | [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-DOP-KGCHM07: 27-32% [Peg 400](/xray-mp-wiki/reagents/additives/peg-400/), 100-120 mM potassium [Citrate](/xray-mp-wiki/reagents/buffers/citrate/), 100 mM [MES](/xray-mp-wiki/reagents/buffers/mes/) pH 6.0, crystals ~70 μm. [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-DOP-DPI-287: 32-35% [Peg 400](/xray-mp-wiki/reagents/additives/peg-400/), 100-110 mM potassium [Citrate](/xray-mp-wiki/reagents/buffers/citrate/), 100 mM [MES](/xray-mp-wiki/reagents/buffers/mes/) pH 6.0, crystals 100-140 μm. Both crystallized at 20°C. Crystals appeared overnight, full size in ~10 days. 20 μM BMS986187 (PAM) added during DPI-287 purification but no electron density observed.
  |
 
 

@@ -45,7 +45,7 @@ The human kappa opioid receptor (KOP) is a class A G-protein coupled receptor (G
 |---|---|---|---|---|
 | Membrane preparation | Centrifugation | — | Hypotonic buffer (10 mM HEPES pH 7.5, 10 mM MgCl2, 20 mM KCl, protease inhibitors); high osmotic buffer (1.0 M NaCl, 10 mM HEPES pH 7.5, 10 mM MgCl2, 20 mM KCl, protease inhibitors) + — | Thawed in hypotonic buffer, washed 2-3x in hypotonic buffer, then 3-4x in high osmotic buffer |
 | Alkylation and ligand incubation | Pre-incubation | — | 40 uM NTX, 2 mg/ml iodoacetamide, 150 mM NaCl, protease inhibitors + — | 1 h at 4 °C before solubilization |
-| Solubilization | Detergent solubilization | — | 50 mM HEPES pH 7.5, 150 mM NaCl + 1% (w/v) detergent (DDM/CHS likely) | — |
+| Solubilization | Detergent solubilization | — | 50 mM HEPES pH 7.5, 150 mM NaCl + 1% (w/v) detergent ([DDM](/xray-mp-wiki/reagents/detergents/ddm/)/[CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) likely) | — |
 
 #### Source: doi/10.1016##j.cell.2017.12.011
 
@@ -59,13 +59,13 @@ The human kappa opioid receptor (KOP) is a class A G-protein coupled receptor (G
 |---|---|---|---|---|
 | Cell harvest | Centrifugation | — | — + — | Sf9 cells harvested 48 h post-infection, washed in 1x PBS, stored at -80 C. 10 uM naltrexone added to help receptor trafficking. |
 | Membrane preparation | Repeated centrifugation | — | 10 mM HEPES pH 7.5, 10 mM MgCl2, 20 mM KCl, 500 uM AEBSF, 1 uM E-64, 1 uM leupeptin, 150 nM Aprotinin (low-salt); 1.0 M NaCl, 10 mM HEPES pH 7.5, 10 mM MgCl2, 20 mM KCl (high osmolarity) + — | 4 repeated centrifugations in high osmolarity buffer to remove soluble and membrane-associated proteins. |
-| Solubilization | Detergent solubilization | — | 10 mM HEPES pH 7.5, 100 mM NaCl + 0.05% DDM, 0.2 mg/mL CHS | Membranes resuspended and solubilized by gentle stirring. |
-| Affinity purification | Cobalt affinity chromatography | TALON IMAC resin (Clontech) | 10 mM HEPES pH 7.5, 100 mM NaCl, 20 mM imidazole (wash); 250 mM imidazole (elution) + 0.01% DDM | Supernatant incubated with TALON resin, washed, eluted with imidazole. |
-| TEV protease cleavage | Proteolytic cleavage | — | 10 mM HEPES pH 7.5, 100 mM NaCl + 0.01% DDM | TEV protease added overnight at 4 C to cleave His-tag from BRIL. |
-| Reverse TALON purification | Pass-through chromatography | TALON IMAC resin | 10 mM HEPES pH 7.5, 100 mM NaCl + 0.01% DDM | Flow-through collected containing cleaved BRIL-KOP complex. |
-| Size-exclusion chromatography | Size-exclusion chromatography | Superdex 200 Increase 10/300 GL | 10 mM HEPES pH 7.5, 100 mM NaCl + 0.01% DDM | Final purification step to isolate monodisperse complex. |
+| Solubilization | Detergent solubilization | — | 10 mM HEPES pH 7.5, 100 mM NaCl + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.2 mg/mL [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Membranes resuspended and solubilized by gentle stirring. |
+| Affinity purification | Cobalt [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC resin (Clontech) | 10 mM HEPES pH 7.5, 100 mM NaCl, 20 mM imidazole (wash); 250 mM imidazole (elution) + 0.01% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Supernatant incubated with [TALON](/xray-mp-wiki/reagents/additives/talon/) resin, washed, eluted with imidazole. |
+| TEV protease cleavage | Proteolytic cleavage | — | 10 mM HEPES pH 7.5, 100 mM NaCl + 0.01% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | [TEV](/xray-mp-wiki/reagents/enzymes/tev-protease/) protease added overnight at 4 C to cleave His-tag from [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/). |
+| Reverse TALON purification | Pass-through chromatography | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC resin | 10 mM HEPES pH 7.5, 100 mM NaCl + 0.01% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Flow-through collected containing cleaved [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-KOP complex. |
+| Size-exclusion chromatography | Size-exclusion chromatography | [Superdex 200](/xray-mp-wiki/reagents/additives/superdex-200/) Increase 10/300 GL | 10 mM HEPES pH 7.5, 100 mM NaCl + 0.01% [DDM](/xray-mp-wiki/reagents/detergents/ddm/) | Final purification step to isolate monodisperse complex. |
 
-**Final sample**: BRIL-KOP-MP1104-Nb39 complex, 10-15 mg/mL in 10 mM HEPES pH 7.5, 100 mM NaCl, 0.01% DDM, stored at -80 C with 10% glycerol
+**Final sample**: [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-KOP-MP1104-Nb39 complex, 10-15 mg/mL in 10 mM HEPES pH 7.5, 100 mM NaCl, 0.01% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), stored at -80 C with 10% glycerol
 
 #### Source: doi/10.1038##s41467-023-37041-7
 
@@ -79,13 +79,13 @@ The human kappa opioid receptor (KOP) is a class A G-protein coupled receptor (G
 |---|---|---|---|---|
 | Cell culture and membrane preparation | Baculovirus infection of Sf9 cells | — | 10 mM HEPES pH 7.5, 10 mM MgCl2, 20 mM KCl, protease inhibitors; high-salt wash (1.0 M NaCl, 10 mM HEPES pH 7.5, 10 mM MgCl2, 20 mM KCl) + — | Cells harvested 48 h post-infection; membranes washed 4x in high-salt buffer. |
 | Ligand incubation and alkylation | Pre-incubation with ligand | — | 10 mM HEPES pH 7.5, 10 mM MgCl2, 20 mM KCl, 150 mM NaCl, 50 uM nalfurafine, protease inhibitors + — | Incubated 1 h RT, then 30 min at 4 C; 2 mg/mL iodoacetamide added for 30 min alkylation. |
-| Solubilization | Detergent solubilization | — | 10 mM HEPES pH 7.5, 150 mM NaCl, protease inhibitors + 1% DDM, 0.2% CHS | 2 h at 4 C; clarified at 150,000 x g for 30 min. |
-| TALON IMAC affinity | Cobalt affinity chromatography | TALON IMAC resin (Clontech) | Wash I: 50 mM HEPES pH 7.5, 800 mM NaCl, 20 mM imidazole, 10% glycerol, 25 uM nalfurafine; Wash II: 25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol, 25 uM nalfurafine + Wash I: 0.1% DDM, 0.02% CHS; Wash II: 0.05% DDM, 0.01% CHS | Resin incubated with supernatant overnight at 4 C; washed with 10 CV Wash I then 10 CV Wash II; eluted with 250 mM imidazole. |
-| TEV protease cleavage | Proteolytic cleavage | — | 25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol + 0.05% DDM, 0.01% CHS | His-tagged TEV protease added overnight at 4 C to remove N-terminal 10x His-tag. |
-| Reverse TALON purification | Pass-through chromatography | TALON IMAC resin | 25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol + 0.05% DDM, 0.01% CHS | Flow-through collected to remove TEV protease, cleaved His-tag, and uncleaved protein. |
-| Nb39 complex formation | Complex formation | — | 25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol + 0.05% DDM, 0.01% CHS | Incubated with excess Nb39 (KOR/Nb39 1:2 molar ratio) for 3 h; concentrated to ~30 mg/mL using 100 kDa MWCO concentrator. |
+| Solubilization | Detergent solubilization | — | 10 mM HEPES pH 7.5, 150 mM NaCl, protease inhibitors + 1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.2% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | 2 h at 4 C; clarified at 150,000 x g for 30 min. |
+| TALON IMAC affinity | Cobalt [affinity chromatography](/xray-mp-wiki/methods/purification/affinity-chromatography/) | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC resin (Clontech) | Wash I: 50 mM HEPES pH 7.5, 800 mM NaCl, 20 mM imidazole, 10% glycerol, 25 uM nalfurafine; Wash II: 25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol, 25 uM nalfurafine + Wash I: 0.1% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.02% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/); Wash II: 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Resin incubated with supernatant overnight at 4 C; washed with 10 CV Wash I then 10 CV Wash II; eluted with 250 mM imidazole. |
+| TEV protease cleavage | Proteolytic cleavage | — | 25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | His-tagged [TEV](/xray-mp-wiki/reagents/enzymes/tev-protease/) protease added overnight at 4 C to remove N-terminal 10x His-tag. |
+| Reverse TALON purification | Pass-through chromatography | [TALON](/xray-mp-wiki/reagents/additives/talon/) IMAC resin | 25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Flow-through collected to remove [TEV](/xray-mp-wiki/reagents/enzymes/tev-protease/) protease, cleaved His-tag, and uncleaved protein. |
+| Nb39 complex formation | Complex formation | — | 25 mM HEPES pH 7.5, 150 mM NaCl, 10% glycerol + 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/) | Incubated with excess Nb39 (KOR/Nb39 1:2 molar ratio) for 3 h; concentrated to ~30 mg/mL using 100 kDa MWCO concentrator. |
 
-**Final sample**: KOR-nalfurafine-Nb39 complex at ~30 mg/mL in 25 mM HEPES pH 7.5, 150 mM NaCl, 0.05% DDM, 0.01% CHS, 10% glycerol
+**Final sample**: KOR-nalfurafine-Nb39 complex at ~30 mg/mL in 25 mM HEPES pH 7.5, 150 mM NaCl, 0.05% [DDM](/xray-mp-wiki/reagents/detergents/ddm/), 0.01% [CHS](/xray-mp-wiki/reagents/detergents/cholesterol-hydrogen-succinate/), 10% glycerol
 
 
 ## Crystallization
@@ -94,40 +94,40 @@ The human kappa opioid receptor (KOP) is a class A G-protein coupled receptor (G
 
 | Parameter | Value |
 |---|---|
-| Method | Lipidic cubic phase (LCP) |
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
 | Protein sample | Kappa-OR-T4L-JDTic complex |
 | Lipid | Monoolein |
 | Protein-to-lipid ratio | — |
 | Temperature | — |
 | Growth time | — |
 | Cryoprotection | — |
-| Notes | Crystallized using LCP method as described in Caffrey & Cherezov (2009). Data collected at APS. |
+| Notes | Crystallized using [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) method as described in Caffrey & Cherezov (2009). Data collected at APS. |
 
 ### doi/10.1016##j.cell.2017.12.011
 
 | Parameter | Value |
 |---|---|
-| Method | Lipidic cubic phase (LCP) |
-| Protein sample | BRIL-KOP-MP1104-Nb39 complex at 10-15 mg/mL |
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
+| Protein sample | [BRIL](/xray-mp-wiki/reagents/protein-tags/bril/)-KOP-MP1104-Nb39 complex at 10-15 mg/mL |
 | Lipid | Monoolein |
 | Protein-to-lipid ratio | — |
 | Temperature | — |
 | Growth time | — |
 | Cryoprotection | — |
-| Notes | Crystals grown in LCP. Data collected at APS GM/CA CAT 23ID-B/D. |
+| Notes | Crystals grown in [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/). Data collected at APS GM/CA CAT 23ID-B/D. |
 
 ### doi/10.1038##s41467-023-37041-7
 
 | Parameter | Value |
 |---|---|
-| Method | Lipidic cubic phase (LCP) |
+| Method | [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/) ([LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/)) |
 | Protein sample | KOR-nalfurafine-Nb39 complex at ~30 mg/mL |
 | Lipid | Monoolein |
 | Protein-to-lipid ratio | — |
 | Temperature | — |
 | Growth time | — |
 | Cryoprotection | — |
-| Notes | Crystals grown in LCP. |
+| Notes | Crystals grown in [LCP](/xray-mp-wiki/methods/crystallization/lipidic-cubic-phase/). |
 
 
 ## Biological / Functional Insights
